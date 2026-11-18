@@ -480,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Chronicles 3: Penalty Mission - Things That Stand in the Way | 139561 | [139561-valkyria-chronicles-3-penalty-mission-things-that-stand-in-the-way.json](./139561-valkyria-chronicles-3-penalty-mission-things-that-stand-in-the-way.json) |
 | Valkyria Chronicles 3: Penalty Mission - Things to Shoot Through | 139563 | [139563-valkyria-chronicles-3-penalty-mission-things-to-shoot-through.json](./139563-valkyria-chronicles-3-penalty-mission-things-to-shoot-through.json) |
 | Valkyria Chronicles 3: The Secret of Her Powers | 139543 | [139543-valkyria-chronicles-3-the-secret-of-her-powers.json](./139543-valkyria-chronicles-3-the-secret-of-her-powers.json) |
+| Valkyria Chronicles 3: Unrecorded Chronicles | 14675 | [14675-valkyria-chronicles-3-unrecorded-chronicles.json](./14675-valkyria-chronicles-3-unrecorded-chronicles.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
 | Valkyria Chronicles 4 : Squad E, to the Beach! | 181184 | [181184-valkyria-chronicles-4-squad-e-to-the-beach.json](./181184-valkyria-chronicles-4-squad-e-to-the-beach.json) |
 | Valkyria Chronicles 4: A Captainless Squad | 238635 | [238635-valkyria-chronicles-4-a-captainless-squad.json](./238635-valkyria-chronicles-4-a-captainless-squad.json) |
@@ -2216,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Chapel | 419074 | [419074-video-chapel.json](./419074-video-chapel.json) |
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
+| Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Easel | 84286 | [84286-video-easel.json](./84286-video-easel.json) |
 | Video Editor | 390369 | [390369-video-editor.json](./390369-video-editor.json) |
@@ -3040,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Hunter | 173207 | [173207-virtual-hunter.json](./173207-virtual-hunter.json) |
 | Virtual Hunting Experience | 200406 | [200406-virtual-hunting-experience.json](./200406-virtual-hunting-experience.json) |
+| Virtual Hydlide | 19738 | [19738-virtual-hydlide.json](./19738-virtual-hydlide.json) |
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Islands: Mini-Golf Challenge | 31528 | [31528-virtual-islands-mini-golf-challenge.json](./31528-virtual-islands-mini-golf-challenge.json) |
@@ -3173,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual VCS | 270271 | [270271-virtual-vcs.json](./270271-virtual-vcs.json) |
 | Virtual Vegas 7007 Slots | 67178 | [67178-virtual-vegas-7007-slots.json](./67178-virtual-vegas-7007-slots.json) |
 | Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
+| Virtual Villagers 2: The Lost Children | 14975 | [14975-virtual-villagers-2-the-lost-children.json](./14975-virtual-villagers-2-the-lost-children.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers 3 | 200316 | [200316-virtual-villagers-3.json](./200316-virtual-villagers-3.json) |
 | Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
@@ -4053,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodolls | 226576 | [226576-voodolls.json](./226576-voodolls.json) |
 | Voodoo | 32698 | [32698-voodoo.json](./32698-voodoo.json) |
+| Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
 | Voodoo Chronicles: The First Sign | 63601 | [63601-voodoo-chronicles-the-first-sign.json](./63601-voodoo-chronicles-the-first-sign.json) |
 | Voodoo Chronicles: The First Sign HD - Director's Cut Edition | 24762 | [24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json](./24762-voodoo-chronicles-the-first-sign-hd-directors-cut-edition.json) |
@@ -4688,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | VRog | 29545 | [29545-vrog.json](./29545-vrog.json) |
 | VRogue | 264211 | [264211-vrogue.json](./264211-vrogue.json) |
+| Vroom | 12813 | [12813-vroom.json](./12813-vroom.json) |
 | Vroom Data Disk | 330763 | [330763-vroom-data-disk.json](./330763-vroom-data-disk.json) |
 | Vroom in the Night Sky | 27527 | [27527-vroom-in-the-night-sky.json](./27527-vroom-in-the-night-sky.json) |
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
