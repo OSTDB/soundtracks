@@ -2755,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Memoirs: The Rental | 249840 | [249840-unknown-memoirs-the-rental.json](./249840-unknown-memoirs-the-rental.json) |
 | Unknown Memories: Lost Reality | 264534 | [264534-unknown-memories-lost-reality.json](./264534-unknown-memories-lost-reality.json) |
 | Unknown Nightmare | 93779 | [93779-unknown-nightmare.json](./93779-unknown-nightmare.json) |
+| Unknown Number: A First Person Talker | 190796 | [190796-unknown-number-a-first-person-talker.json](./190796-unknown-number-a-first-person-talker.json) |
 | Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Passenger 47 | 420420 | [420420-unknown-passenger-47.json](./420420-unknown-passenger-47.json) |
 | Unknown Path | 172964 | [172964-unknown-path.json](./172964-unknown-path.json) |
