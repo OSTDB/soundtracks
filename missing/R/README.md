@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain City | 120066 | [120066-rain-city.json](./120066-rain-city.json) |
 | Rain Debt | 396557 | [396557-rain-debt.json](./396557-rain-debt.json) |
+| Rain Dogs | 383283 | [383283-rain-dogs.json](./383283-rain-dogs.json) |
 | Rain Drop | 142034 | [142034-rain-drop.json](./142034-rain-drop.json) |
 | Rain Drops | 69194 | [69194-rain-drops.json](./69194-rain-drops.json) |
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
@@ -2396,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat it! | 263119 | [263119-rat-it.json](./263119-rat-it.json) |
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat King Adventure | 415106 | [415106-rat-king-adventure.json](./415106-rat-king-adventure.json) |
+| Rat Lines | 383272 | [383272-rat-lines.json](./383272-rat-lines.json) |
 | Rat Memory | 204018 | [204018-rat-memory.json](./204018-rat-memory.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
 | Rat on a Jet Ski | 100383 | [100383-rat-on-a-jet-ski.json](./100383-rat-on-a-jet-ski.json) |
@@ -7233,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Planet Zoveka | 425402 | [425402-return-to-planet-zoveka.json](./425402-return-to-planet-zoveka.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
 | Return to Ravenholm | 237522 | [237522-return-to-ravenholm.json](./237522-return-to-ravenholm.json) |
+| Return to Rezpulka | 383292 | [383292-return-to-rezpulka.json](./383292-return-to-rezpulka.json) |
 | Return to Riddle School | 261427 | [261427-return-to-riddle-school.json](./261427-return-to-riddle-school.json) |
 | Return to Ringworld | 46733 | [46733-return-to-ringworld.json](./46733-return-to-ringworld.json) |
 | Return to Ruins | 142828 | [142828-return-to-ruins.json](./142828-return-to-ruins.json) |
@@ -13736,6 +13739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
 | Ruins of Albion | 169148 | [169148-ruins-of-albion.json](./169148-ruins-of-albion.json) |
 | Ruins of Aloryith | 414706 | [414706-ruins-of-aloryith.json](./414706-ruins-of-aloryith.json) |
+| Ruins of Araethia | 383277 | [383277-ruins-of-araethia.json](./383277-ruins-of-araethia.json) |
 | Ruins of Blackspire | 388787 | [388787-ruins-of-blackspire.json](./388787-ruins-of-blackspire.json) |
 | Ruins of Dawn | 413732 | [413732-ruins-of-dawn.json](./413732-ruins-of-dawn.json) |
 | Ruins of Dawnseeker | 318251 | [318251-ruins-of-dawnseeker.json](./318251-ruins-of-dawnseeker.json) |
@@ -14041,6 +14045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | Run Roo Run | 22928 | [22928-run-roo-run.json](./22928-run-roo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
+| Run Run | 386738 | [386738-run-run.json](./386738-run-run.json) |
 | Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Run Boy 2 | 306251 | [306251-run-run-boy-2.json](./306251-run-run-boy-2.json) |
