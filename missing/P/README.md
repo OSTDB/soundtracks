@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
+| Palehollow Hospital | 429557 | [429557-palehollow-hospital.json](./429557-palehollow-hospital.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
 | Paleo Pines | 133454 | [133454-paleo-pines.json](./133454-paleo-pines.json) |
 | Paleo Pines: Halloween Bundle | 317956 | [317956-paleo-pines-halloween-bundle.json](./317956-paleo-pines-halloween-bundle.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Cop Simulator | 55740 | [55740-parking-cop-simulator.json](./55740-parking-cop-simulator.json) |
 | Parking Dash | 66608 | [66608-parking-dash.json](./66608-parking-dash.json) |
 | Parking Driver | 290921 | [290921-parking-driver.json](./290921-parking-driver.json) |
+| Parking Empire Simulator | 429548 | [429548-parking-empire-simulator.json](./429548-parking-empire-simulator.json) |
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
 | Parking Expert 2! | 306257 | [306257-parking-expert-2.json](./306257-parking-expert-2.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
