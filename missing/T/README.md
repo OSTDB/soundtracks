@@ -9842,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggs Terminator 2: Happy Easter | 418380 | [418380-the-eggs-terminator-2-happy-easter.json](./418380-the-eggs-terminator-2-happy-easter.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
+| The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Eigengrau Menagerie | 90480 | [90480-the-eigengrau-menagerie.json](./90480-the-eigengrau-menagerie.json) |
 | The Eightfold Path | 172919 | [172919-the-eightfold-path.json](./172919-the-eightfold-path.json) |
@@ -16508,6 +16509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orcs Strike Back! | 108020 | [108020-the-orcs-strike-back.json](./108020-the-orcs-strike-back.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
+| The Order of the Thorne: The King's Challenge | 17005 | [17005-the-order-of-the-thorne-the-kings-challenge.json](./17005-the-order-of-the-thorne-the-kings-challenge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The Order: 1886 - Collector's Edition | 42908 | [42908-the-order-1886-collectors-edition.json](./42908-the-order-1886-collectors-edition.json) |
 | The Order: 1886 - Premium Edition | 42909 | [42909-the-order-1886-premium-edition.json](./42909-the-order-1886-premium-edition.json) |
@@ -20534,6 +20536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma | 327491 | [327491-the-treasures-of-montezuma.json](./327491-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 327493 | [327493-the-treasures-of-montezuma.json](./327493-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
+| The Treasures of Montezuma 3 | 17790 | [17790-the-treasures-of-montezuma-3.json](./17790-the-treasures-of-montezuma-3.json) |
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
 | The Treasures of Montezuma 4 HD | 90871 | [90871-the-treasures-of-montezuma-4-hd.json](./90871-the-treasures-of-montezuma-4-hd.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
@@ -20589,6 +20592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Solution | 345954 | [345954-the-trolley-solution.json](./345954-the-trolley-solution.json) |
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The Troma Project | 17092 | [17092-the-troma-project.json](./17092-the-troma-project.json) |
 | The Troop | 160046 | [160046-the-troop.json](./160046-the-troop.json) |
 | The Trooper | 190864 | [190864-the-trooper.json](./190864-the-trooper.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
@@ -22561,6 +22565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thieves of Dingirra | 304694 | [304694-thieves-of-dingirra.json](./304694-thieves-of-dingirra.json) |
 | Thieves of Egypt | 146487 | [146487-thieves-of-egypt.json](./146487-thieves-of-egypt.json) |
 | Thieves World | 297467 | [297467-thieves-world.json](./297467-thieves-world.json) |
+| Thieves' Gambit: The Curse of the Black Cat | 17937 | [17937-thieves-gambit-the-curse-of-the-black-cat.json](./17937-thieves-gambit-the-curse-of-the-black-cat.json) |
 | Thieves' Paradise | 200934 | [200934-thieves-paradise.json](./200934-thieves-paradise.json) |
 | Thigh Climbers | 126342 | [126342-thigh-climbers.json](./126342-thigh-climbers.json) |
 | Thimbleweed Park | 10232 | [10232-thimbleweed-park.json](./10232-thimbleweed-park.json) |
@@ -26051,6 +26056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Master | 142008 | [142008-time-master.json](./142008-time-master.json) |
+| Time Mysteries 2: The Ancient Spectres | 17636 | [17636-time-mysteries-2-the-ancient-spectres.json](./17636-time-mysteries-2-the-ancient-spectres.json) |
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries 3: The Final Enigma - Collector's Edition | 416215 | [416215-time-mysteries-3-the-final-enigma-collectors-edition.json](./416215-time-mysteries-3-the-final-enigma-collectors-edition.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
@@ -26061,6 +26067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time O'Clock: The Mask of Crime | 423245 | [423245-time-oclock-the-mask-of-crime.json](./423245-time-oclock-the-mask-of-crime.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Ashes | 220521 | [220521-time-of-ashes.json](./220521-time-of-ashes.json) |
+| Time of Dragons | 17029 | [17029-time-of-dragons.json](./17029-time-of-dragons.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
@@ -27538,6 +27545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
 | Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
+| Tobe's Vertical Adventure | 16258 | [16258-tobes-vertical-adventure.json](./16258-tobes-vertical-adventure.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Tobeira | 421601 | [421601-tobeira.json](./421601-tobeira.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
@@ -28017,6 +28025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Run | 164308 | [164308-tokyo-run.json](./164308-tokyo-run.json) |
 | Tokyo Satsujinki Gakkou no Kaidan | 321824 | [321824-tokyo-satsujinki-gakkou-no-kaidan.json](./321824-tokyo-satsujinki-gakkou-no-kaidan.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
+| Tokyo School Life | 17791 | [17791-tokyo-school-life.json](./17791-tokyo-school-life.json) |
 | Tokyo Scramble | 388428 | [388428-tokyo-scramble.json](./388428-tokyo-scramble.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
@@ -36828,6 +36837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Madness | 131878 | [131878-tunnel-madness.json](./131878-tunnel-madness.json) |
 | Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
+| Tunnel Rats | 15996 | [15996-tunnel-rats.json](./15996-tunnel-rats.json) |
 | Tunnel Run | 274171 | [274171-tunnel-run.json](./274171-tunnel-run.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
@@ -36876,6 +36886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
+| Turba | 16191 | [16191-turba.json](./16191-turba.json) |
 | Turbeton | 190366 | [190366-turbeton.json](./190366-turbeton.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
