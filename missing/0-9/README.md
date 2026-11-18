@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Adventures: The Forgotten Journey | 139719 | [139719-8-bit-adventures-the-forgotten-journey.json](./139719-8-bit-adventures-the-forgotten-journey.json) |
 | 8-Bit Adventures: The Forgotten Journey - Remastered Edition | 35235 | [35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json](./35235-8-bit-adventures-the-forgotten-journey-remastered-edition.json) |
 | 8-Bit Arena VR | 30627 | [30627-8-bit-arena-vr.json](./30627-8-bit-arena-vr.json) |
+| 8-Bit Armies | 18907 | [18907-8-bit-armies.json](./18907-8-bit-armies.json) |
 | 8-Bit Armies: Guardians Campaign | 51698 | [51698-8-bit-armies-guardians-campaign.json](./51698-8-bit-armies-guardians-campaign.json) |
 | 8-Bit Attack | 135766 | [135766-8-bit-attack.json](./135766-8-bit-attack.json) |
 | 8-Bit Attack: Character Pack 1 | 223816 | [223816-8-bit-attack-character-pack-1.json](./223816-8-bit-attack-character-pack-1.json) |
