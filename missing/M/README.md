@@ -9291,7 +9291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megalotrain | 285551 | [285551-megalotrain.json](./285551-megalotrain.json) |
 | MegaMacho Oco | 185926 | [185926-megamacho-oco.json](./185926-megamacho-oco.json) |
-| Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan Adventure | 317174 | [317174-megaman-adventure.json](./317174-megaman-adventure.json) |
 | Megaman Exe Radio | 336460 | [336460-megaman-exe-radio.json](./336460-megaman-exe-radio.json) |
 | Megaman Legends 1.5 | 321720 | [321720-megaman-legends-1-5.json](./321720-megaman-legends-1-5.json) |
@@ -14517,6 +14516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper NG | 188969 | [188969-minesweeper-ng.json](./188969-minesweeper-ng.json) |
 | Minesweeper Online | 271398 | [271398-minesweeper-online.json](./271398-minesweeper-online.json) |
 | Minesweeper Peak VR | 286784 | [286784-minesweeper-peak-vr.json](./286784-minesweeper-peak-vr.json) |
+| Minesweeper Pillar | 389135 | [389135-minesweeper-pillar.json](./389135-minesweeper-pillar.json) |
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
 | Minesweeper Pro | 407099 | [407099-minesweeper-pro.json](./407099-minesweeper-pro.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
@@ -16414,6 +16414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
+| MMA Empire | 389147 | [389147-mma-empire.json](./389147-mma-empire.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
 | MMA Life Simulator | 274692 | [274692-mma-life-simulator.json](./274692-mma-life-simulator.json) |
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
