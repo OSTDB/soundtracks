@@ -8944,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exon: The Impossible Challenge | 55410 | [55410-exon-the-impossible-challenge.json](./55410-exon-the-impossible-challenge.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
+| Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
 | Exoplanet War | 65873 | [65873-exoplanet-war.json](./65873-exoplanet-war.json) |
 | Exoplanet: First Contact | 22781 | [22781-exoplanet-first-contact.json](./22781-exoplanet-first-contact.json) |
