@@ -9753,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hito-Yume | 68141 | [68141-hito-yume.json](./68141-hito-yume.json) |
 | Hitobashira | 416192 | [416192-hitobashira.json](./416192-hitobashira.json) |
 | Hitobashira: Human Suika | 294306 | [294306-hitobashira-human-suika.json](./294306-hitobashira-human-suika.json) |
+| Hitogata | 383308 | [383308-hitogata.json](./383308-hitogata.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
 | Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
@@ -10353,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowing | 350354 | [350354-hollowing.json](./350354-hollowing.json) |
 | Hollowmoor | 217328 | [217328-hollowmoor.json](./217328-hollowmoor.json) |
 | HollowPath | 221429 | [221429-hollowpath.json](./221429-hollowpath.json) |
+| Hollowpath Chronicles | 383286 | [383286-hollowpath-chronicles.json](./383286-hollowpath-chronicles.json) |
 | Hollowpoint | 7607 | [7607-hollowpoint.json](./7607-hollowpoint.json) |
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Hollowsk 1999 3D | 193601 | [193601-hollowsk-1999-3d.json](./193601-hollowsk-1999-3d.json) |
@@ -12622,6 +12624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hourou | 181831 | [181831-hourou.json](./181831-hourou.json) |
 | Hours | 180170 | [180170-hours.json](./180170-hours.json) |
 | Hours After Midnight | 288954 | [288954-hours-after-midnight.json](./288954-hours-after-midnight.json) |
+| Hourturn | 383291 | [383291-hourturn.json](./383291-hourturn.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House | 342712 | [342712-house.json](./342712-house.json) |
 | House & Hand | 391007 | [391007-house-and-hand.json](./391007-house-and-hand.json) |
@@ -14699,7 +14702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | HypeSquad | 201210 | [201210-hypesquad.json](./201210-hypesquad.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
-| Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | HyphoSphere | 400630 | [400630-hyphosphere.json](./400630-hyphosphere.json) |
 | Hypixel | 357176 | [357176-hypixel.json](./357176-hypixel.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
