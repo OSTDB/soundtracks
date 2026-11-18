@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 on 3 NHL Arcade | 21258 | [21258-3-on-3-nhl-arcade.json](./21258-3-on-3-nhl-arcade.json) |
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
+| 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
 | 3 out of 10: EP 4 - "Thank You For Being An Asset" | 137287 | [137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json](./137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json) |
 | 3 out of 10: Season One | 138707 | [138707-3-out-of-10-season-one.json](./138707-3-out-of-10-season-one.json) |
