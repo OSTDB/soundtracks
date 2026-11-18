@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer General | 4268 | [4268-panzer-general.json](./4268-panzer-general.json) |
 | Panzer General 3D Assault | 51856 | [51856-panzer-general-3d-assault.json](./51856-panzer-general-3d-assault.json) |
 | Panzer General III: Scorched Earth | 24154 | [24154-panzer-general-iii-scorched-earth.json](./24154-panzer-general-iii-scorched-earth.json) |
+| Panzer General: Allied Assault | 22879 | [22879-panzer-general-allied-assault.json](./22879-panzer-general-allied-assault.json) |
 | Panzer Girls | 203801 | [203801-panzer-girls.json](./203801-panzer-girls.json) |
 | Panzer Grenadier | 26147 | [26147-panzer-grenadier.json](./26147-panzer-grenadier.json) |
 | Panzer Hearts | 99020 | [99020-panzer-hearts.json](./99020-panzer-hearts.json) |
@@ -20560,6 +20561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Love Story | 253122 | [253122-puyo-puyo-love-story.json](./253122-puyo-puyo-love-story.json) |
 | Puyo Puyo Narabe | 63992 | [63992-puyo-puyo-narabe.json](./63992-puyo-puyo-narabe.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
+| Puyo Puyo Quest | 22847 | [22847-puyo-puyo-quest.json](./22847-puyo-puyo-quest.json) |
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Sun | 3578 | [3578-puyo-puyo-sun.json](./3578-puyo-puyo-sun.json) |
@@ -21395,6 +21397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pygmy | 282734 | [282734-pygmy.json](./282734-pygmy.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
+| Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
 | Pyl: Dust | 116678 | [116678-pyl-dust.json](./116678-pyl-dust.json) |
 | Pylon Racer | 114886 | [114886-pylon-racer.json](./114886-pylon-racer.json) |
