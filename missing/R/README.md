@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenous Deep | 421752 | [421752-ravenous-deep.json](./421752-ravenous-deep.json) |
 | Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
 | Ravenous Frog | 96291 | [96291-ravenous-frog.json](./96291-ravenous-frog.json) |
+| Ravenous Greed | 417056 | [417056-ravenous-greed.json](./417056-ravenous-greed.json) |
 | Ravenous Hand | 377991 | [377991-ravenous-hand.json](./377991-ravenous-hand.json) |
 | Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
 | RavenQuest: Munk Madness | 414094 | [414094-ravenquest-munk-madness.json](./414094-ravenquest-munk-madness.json) |
@@ -12271,6 +12272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo & Hugo: Superstar Skaters | 60201 | [60201-ronaldo-and-hugo-superstar-skaters.json](./60201-ronaldo-and-hugo-superstar-skaters.json) |
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
+| Ronan Rage: The Rugged Space Chase | 417051 | [417051-ronan-rage-the-rugged-space-chase.json](./417051-ronan-rage-the-rugged-space-chase.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Rondo Leaflet | 60402 | [60402-rondo-leaflet.json](./60402-rondo-leaflet.json) |
 | Rondo of Darkness: The Curse of Twin Moon | 211850 | [211850-rondo-of-darkness-the-curse-of-twin-moon.json](./211850-rondo-of-darkness-the-curse-of-twin-moon.json) |
