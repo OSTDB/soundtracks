@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Belldona | 318300 | [318300-voice-of-belldona.json](./318300-voice-of-belldona.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
+| Voice of Cards: The Forsaken Maiden | 191259 | [191259-voice-of-cards-the-forsaken-maiden.json](./191259-voice-of-cards-the-forsaken-maiden.json) |
 | Voice of Cards: The Isle Dragon Roars | 171768 | [171768-voice-of-cards-the-isle-dragon-roars.json](./171768-voice-of-cards-the-isle-dragon-roars.json) |
 | Voice of Chernobyl | 193457 | [193457-voice-of-chernobyl.json](./193457-voice-of-chernobyl.json) |
 | Voice of Flowers | 274503 | [274503-voice-of-flowers.json](./274503-voice-of-flowers.json) |
