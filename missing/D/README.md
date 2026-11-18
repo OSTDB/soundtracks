@@ -5300,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Road | 10174 | [10174-death-road.json](./10174-death-road.json) |
 | Death Road | 237264 | [237264-death-road.json](./237264-death-road.json) |
 | Death Road to Canada | 21634 | [21634-death-road-to-canada.json](./21634-death-road-to-canada.json) |
+| Death Road to Canada: Limited Edition | 166249 | [166249-death-road-to-canada-limited-edition.json](./166249-death-road-to-canada-limited-edition.json) |
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Row | 232722 | [232722-death-row.json](./232722-death-row.json) |
@@ -5882,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
 | Deeeer Simulator | 114764 | [114764-deeeer-simulator.json](./114764-deeeer-simulator.json) |
 | Deeeer Simulator: Shikanoko Dance | 331960 | [331960-deeeer-simulator-shikanoko-dance.json](./331960-deeeer-simulator-shikanoko-dance.json) |
+| Deeeer Simulator: The Final Evolution of Deeeer | 196067 | [196067-deeeer-simulator-the-final-evolution-of-deeeer.json](./196067-deeeer-simulator-the-final-evolution-of-deeeer.json) |
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
 | Deemo Reborn: Premium Edition | 167005 | [167005-deemo-reborn-premium-edition.json](./167005-deemo-reborn-premium-edition.json) |
@@ -11855,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusioned | 401040 | [401040-disillusioned.json](./401040-disillusioned.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
+| Disinfection | 196214 | [196214-disinfection.json](./196214-disinfection.json) |
 | Disinherited | 297953 | [297953-disinherited.json](./297953-disinherited.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
@@ -12107,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin: Aladdin's Wonders of the World | 77061 | [77061-disneys-aladdin-aladdins-wonders-of-the-world.json](./77061-disneys-aladdin-aladdins-wonders-of-the-world.json) |
 | Disney's Aladdin: Chess Adventures | 78216 | [78216-disneys-aladdin-chess-adventures.json](./78216-disneys-aladdin-chess-adventures.json) |
 | Disney's Aladdin: Final Cut | 204619 | [204619-disneys-aladdin-final-cut.json](./204619-disneys-aladdin-final-cut.json) |
+| Disney's Aladdin: Legacy Cartridge Collection | 196207 | [196207-disneys-aladdin-legacy-cartridge-collection.json](./196207-disneys-aladdin-legacy-cartridge-collection.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
@@ -13760,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
 | Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-doki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou | 138030 | [138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json](./138030-doki-doki-cooking-series-2-gourmet-kitchen-suteki-na-obentou.json) |
+| Doki-doki Densetsu: Mahoujin Guru-guru | 196217 | [196217-doki-doki-densetsu-mahoujin-guru-guru.json](./196217-doki-doki-densetsu-mahoujin-guru-guru.json) |
 | Doki-doki Idol Star Seeker Remix | 200796 | [200796-doki-doki-idol-star-seeker-remix.json](./200796-doki-doki-idol-star-seeker-remix.json) |
 | Doki-doki Literature Club! GB Version | 279818 | [279818-doki-doki-literature-club-gb-version.json](./279818-doki-doki-literature-club-gb-version.json) |
 | Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
@@ -17055,6 +17060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fire Ice Melt | 397446 | [397446-dragon-fire-ice-melt.json](./397446-dragon-fire-ice-melt.json) |
 | Dragon Fishing | 339561 | [339561-dragon-fishing.json](./339561-dragon-fishing.json) |
 | Dragon Fist 2 | 234562 | [234562-dragon-fist-2.json](./234562-dragon-fist-2.json) |
+| Dragon Fist 3: Age of the Warrior | 196211 | [196211-dragon-fist-3-age-of-the-warrior.json](./196211-dragon-fist-3-age-of-the-warrior.json) |
 | Dragon Fist: VR Kung Fu | 156582 | [156582-dragon-fist-vr-kung-fu.json](./156582-dragon-fist-vr-kung-fu.json) |
 | Dragon Flagon | 344085 | [344085-dragon-flagon.json](./344085-dragon-flagon.json) |
 | Dragon Flight | 59829 | [59829-dragon-flight.json](./59829-dragon-flight.json) |
