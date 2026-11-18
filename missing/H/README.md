@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
 | Head Shot Z | 80098 | [80098-head-shot-z.json](./80098-head-shot-z.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
+| Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head Sports Football | 301168 | [301168-head-sports-football.json](./301168-head-sports-football.json) |
 | Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
 | Head the Ball | 281691 | [281691-head-the-ball.json](./281691-head-the-ball.json) |
@@ -8993,6 +8994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Racing 2 | 287524 | [287524-highway-racing-2.json](./287524-highway-racing-2.json) |
 | Highway Rally | 8037 | [8037-highway-rally.json](./8037-highway-rally.json) |
 | Highway Rampage | 213486 | [213486-highway-rampage.json](./213486-highway-rampage.json) |
+| Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
 | Highway Runners | 200269 | [200269-highway-runners.json](./200269-highway-runners.json) |
 | Highway Sniper Shooter | 107545 | [107545-highway-sniper-shooter.json](./107545-highway-sniper-shooter.json) |
