@@ -8020,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Carnivals and Legends | 163996 | [163996-pinball-fx3-carnivals-and-legends.json](./163996-pinball-fx3-carnivals-and-legends.json) |
 | Pinball FX3: Carnivals and Legends Demo | 325864 | [325864-pinball-fx3-carnivals-and-legends-demo.json](./325864-pinball-fx3-carnivals-and-legends-demo.json) |
 | Pinball FX3: Core Collection | 164005 | [164005-pinball-fx3-core-collection.json](./164005-pinball-fx3-core-collection.json) |
+| Pinball FX3: Indiana Jones - The Pinball Adventure | 193394 | [193394-pinball-fx3-indiana-jones-the-pinball-adventure.json](./193394-pinball-fx3-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX3: Marvel Pinball - Cinematic Pack | 226360 | [226360-pinball-fx3-marvel-pinball-cinematic-pack.json](./226360-pinball-fx3-marvel-pinball-cinematic-pack.json) |
 | Pinball FX3: Marvel Pinball - Heavy Hitters | 164019 | [164019-pinball-fx3-marvel-pinball-heavy-hitters.json](./164019-pinball-fx3-marvel-pinball-heavy-hitters.json) |
@@ -14877,6 +14878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Alive & Kicking | 322166 | [322166-portal-alive-and-kicking.json](./322166-portal-alive-and-kicking.json) |
 | Portal: Ambition | 322167 | [322167-portal-ambition.json](./322167-portal-ambition.json) |
 | Portal: Bagley | 259145 | [259145-portal-bagley.json](./259145-portal-bagley.json) |
+| Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Divinity | 358821 | [358821-portal-divinity.json](./358821-portal-divinity.json) |
 | Portal: Epic Edition | 179260 | [179260-portal-epic-edition.json](./179260-portal-epic-edition.json) |
 | Portal: Forbidden Testing Tracks | 276750 | [276750-portal-forbidden-testing-tracks.json](./276750-portal-forbidden-testing-tracks.json) |
