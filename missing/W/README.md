@@ -5296,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Lilies Code | 279549 | [279549-white-lilies-code.json](./279549-white-lilies-code.json) |
 | White Lily 2: Waking up Girl | 150835 | [150835-white-lily-2-waking-up-girl.json](./150835-white-lily-2-waking-up-girl.json) |
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
+| White Magic 2 | 429555 | [429555-white-magic-2.json](./429555-white-magic-2.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
 | White Memories | 383101 | [383101-white-memories.json](./383101-white-memories.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
