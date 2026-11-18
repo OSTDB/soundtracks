@@ -10768,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Rift | 365916 | [365916-dimensional-rift.json](./365916-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
+| Dimensional Wanderer | 140656 | [140656-dimensional-wanderer.json](./140656-dimensional-wanderer.json) |
 | Dimensional Wars | 410913 | [410913-dimensional-wars.json](./410913-dimensional-wars.json) |
 | Dimensional: Prophecy of Zohar | 187888 | [187888-dimensional-prophecy-of-zohar.json](./187888-dimensional-prophecy-of-zohar.json) |
 | Dimensional: Prophecy of Zohar 2 | 342892 | [342892-dimensional-prophecy-of-zohar-2.json](./342892-dimensional-prophecy-of-zohar-2.json) |
@@ -21918,6 +21919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
 | Dying Light: 10th Anniversary Bundle | 329496 | [329496-dying-light-10th-anniversary-bundle.json](./329496-dying-light-10th-anniversary-bundle.json) |
 | Dying Light: 5th Anniversary Bundle | 224132 | [224132-dying-light-5th-anniversary-bundle.json](./224132-dying-light-5th-anniversary-bundle.json) |
+| Dying Light: Anniversary Edition | 140666 | [140666-dying-light-anniversary-edition.json](./140666-dying-light-anniversary-edition.json) |
 | Dying Light: Bad Blood | 76891 | [76891-dying-light-bad-blood.json](./76891-dying-light-bad-blood.json) |
 | Dying Light: Be the Zombie | 136060 | [136060-dying-light-be-the-zombie.json](./136060-dying-light-be-the-zombie.json) |
 | Dying Light: Bozak Horde | 16299 | [16299-dying-light-bozak-horde.json](./16299-dying-light-bozak-horde.json) |
