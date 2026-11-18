@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Yard Fight | 229983 | [229983-10-yard-fight.json](./229983-10-yard-fight.json) |
 | 10-Yard Fight | 2733 | [2733-10-yard-fight.json](./2733-10-yard-fight.json) |
 | 10,000 | 376883 | [376883-10-000.json](./376883-10-000.json) |
+| 10,000 Bullets | 14727 | [14727-10-000-bullets.json](./14727-10-000-bullets.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
 | 10,000 Player Chess | 341648 | [341648-10-000-player-chess.json](./341648-10-000-player-chess.json) |
 | 10:59 | 308936 | [308936-10-59.json](./308936-10-59.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
 | 3000 | 273260 | [273260-3000.json](./273260-3000.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
+| 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
 | 3001 Pages: A fairy tale for 33 | 284275 | [284275-3001-pages-a-fairy-tale-for-33.json](./284275-3001-pages-a-fairy-tale-for-33.json) |
 | 3001: A MILF Odyssey | 327709 | [327709-3001-a-milf-odyssey.json](./327709-3001-a-milf-odyssey.json) |
@@ -3762,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
 | 7th Domain | 253471 | [253471-7th-domain.json](./253471-7th-domain.json) |
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
+| 7th Dragon | 11817 | [11817-7th-dragon.json](./11817-7th-dragon.json) |
 | 7th Dragon 2020 | 11823 | [11823-7th-dragon-2020.json](./11823-7th-dragon-2020.json) |
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
@@ -4070,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 911 Tiger Shark | 71962 | [71962-911-tiger-shark.json](./71962-911-tiger-shark.json) |
 | 911 TS | 93487 | [93487-911-ts.json](./93487-911-ts.json) |
 | 911: Cannibal | 245837 | [245837-911-cannibal.json](./245837-911-cannibal.json) |
+| 911: First Responders | 11436 | [11436-911-first-responders.json](./11436-911-first-responders.json) |
 | 911: Prey | 261933 | [261933-911-prey.json](./261933-911-prey.json) |
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
 | 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
