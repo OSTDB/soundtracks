@@ -29968,7 +29968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Industrialist | 390182 | [390182-stellar-industrialist.json](./390182-stellar-industrialist.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Insurgency | 239760 | [239760-stellar-insurgency.json](./239760-stellar-insurgency.json) |
-| Stellar Interface | 26205 | [26205-stellar-interface.json](./26205-stellar-interface.json) |
 | Stellar Interface + Sudoku Zenkai | 283224 | [283224-stellar-interface-sudoku-zenkai.json](./283224-stellar-interface-sudoku-zenkai.json) |
 | Stellar Interface: Deluxe Edition | 220900 | [220900-stellar-interface-deluxe-edition.json](./220900-stellar-interface-deluxe-edition.json) |
 | Stellar Interface: Lost Galaxy | 237846 | [237846-stellar-interface-lost-galaxy.json](./237846-stellar-interface-lost-galaxy.json) |
