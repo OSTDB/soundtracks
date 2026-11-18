@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
 | Mai and the Legendary Treasure | 248081 | [248081-mai-and-the-legendary-treasure.json](./248081-mai-and-the-legendary-treasure.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
+| Mai Mai Funi-funi Papyuun to Iwasecharu! | 414521 | [414521-mai-mai-funi-funi-papyuun-to-iwasecharu.json](./414521-mai-mai-funi-funi-papyuun-to-iwasecharu.json) |
 | Mai Nurse | 384807 | [384807-mai-nurse.json](./384807-mai-nurse.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
 | Mai-Hime Bakuretsu! Fuuka Gakuen Gekitoushi?! | 72651 | [72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json](./72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json) |
@@ -3617,7 +3618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
-| Manifest 99 | 55804 | [55804-manifest-99.json](./55804-manifest-99.json) |
 | Manifest Anything | 387098 | [387098-manifest-anything.json](./387098-manifest-anything.json) |
 | Manifest Destiny | 276994 | [276994-manifest-destiny.json](./276994-manifest-destiny.json) |
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
 | Manorbound | 417237 | [417237-manorbound.json](./417237-manorbound.json) |
+| Manorism | 414623 | [414623-manorism.json](./414623-manorism.json) |
 | Manorvania | 178894 | [178894-manorvania.json](./178894-manorvania.json) |
 | Manos - The Revenge of Torgo | 50379 | [50379-manos-the-revenge-of-torgo.json](./50379-manos-the-revenge-of-torgo.json) |
 | Manos: Hands of Fate | 47095 | [47095-manos-hands-of-fate.json](./47095-manos-hands-of-fate.json) |
@@ -7061,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu | 242712 | [242712-mayu.json](./242712-mayu.json) |
+| Mayu no Ori kara Mieru Sora | 407562 | [407562-mayu-no-ori-kara-mieru-sora.json](./407562-mayu-no-ori-kara-mieru-sora.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
 | MayuShoot | 185960 | [185960-mayushoot.json](./185960-mayushoot.json) |
 | Maz! | 74945 | [74945-maz.json](./74945-maz.json) |
@@ -8199,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medium Chronicles: Room 644 | 405753 | [405753-medium-chronicles-room-644.json](./405753-medium-chronicles-room-644.json) |
 | Medium Rare | 128356 | [128356-medium-rare.json](./128356-medium-rare.json) |
 | Medium Rare | 383136 | [383136-medium-rare.json](./383136-medium-rare.json) |
+| Medium Rare | 414632 | [414632-medium-rare.json](./414632-medium-rare.json) |
 | Medium-naut | 151559 | [151559-medium-naut.json](./151559-medium-naut.json) |
 | Medium: The Psychic Party Game | 161158 | [161158-medium-the-psychic-party-game.json](./161158-medium-the-psychic-party-game.json) |
 | Medium5 | 188332 | [188332-medium5.json](./188332-medium5.json) |
@@ -9636,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meguru Dungeon | 282167 | [282167-meguru-dungeon.json](./282167-meguru-dungeon.json) |
 | Meh | 314247 | [314247-meh.json](./314247-meh.json) |
 | Mehen | 386090 | [386090-mehen.json](./386090-mehen.json) |
+| Mei Paranormies | 398610 | [398610-mei-paranormies.json](./398610-mei-paranormies.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
 | Mei Qi 2020 | 223284 | [223284-mei-qi-2020.json](./223284-mei-qi-2020.json) |
 | Mei Qi 2021 | 223196 | [223196-mei-qi-2021.json](./223196-mei-qi-2021.json) |
@@ -20223,6 +20227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
+| Mother;Above | 414630 | [414630-mother-above.json](./414630-mother-above.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
 | Mother: Cognitive Dissonance | 138374 | [138374-mother-cognitive-dissonance.json](./138374-mother-cognitive-dissonance.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
@@ -22767,6 +22772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
 | Mutiny!! | 83823 | [83823-mutiny.json](./83823-mutiny.json) |
 | Mutiny!!: Grozdana Kakra - Bonus Route | 174515 | [174515-mutiny-grozdana-kakra-bonus-route.json](./174515-mutiny-grozdana-kakra-bonus-route.json) |
+| Mutiny's Wake | 399867 | [399867-mutinys-wake.json](./399867-mutinys-wake.json) |
 | Mutland | 113307 | [113307-mutland.json](./113307-mutland.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
