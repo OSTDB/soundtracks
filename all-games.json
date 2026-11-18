@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T02:35:56.301Z",
-  "total_soundtracks": 3835,
+  "generated_at": "2026-11-18T02:45:58.826Z",
+  "total_soundtracks": 3836,
   "games": [
     {
       "igdb_id": 292844,
@@ -20045,6 +20045,20 @@
         {
           "album_name": "Hypergalactic Psychic Table Tennis 3000 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3wumU2p7SAxw5J8oDORwBq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24566,
+      "game_name": "Hyphen",
+      "game_url": "https://ostdb.net/games/hyphen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f97e29c6de1c520cc59f9a98",
+      "albums": [
+        {
+          "album_name": "Hyphen (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/105FPmPeD69x1SAuQ48A1Z",
           "apple_music_url": "",
           "album_link_url": ""
         }
