@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T02:26:12.951Z",
-  "total_soundtracks": 3834,
+  "generated_at": "2026-11-18T02:35:56.301Z",
+  "total_soundtracks": 3835,
   "games": [
     {
       "igdb_id": 292844,
@@ -16767,6 +16767,20 @@
         {
           "album_name": "“GITAROO-MAN” ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/5OKe383gL2uOrvtEYO8h5o",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24612,
+      "game_name": "Give it Up! 2",
+      "game_url": "https://ostdb.net/games/give-it-up-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fd2cb74a05b511ede791758b",
+      "albums": [
+        {
+          "album_name": "Give It up! 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49MJ25By3jKL6woo1BDVZu",
           "apple_music_url": "",
           "album_link_url": ""
         }
