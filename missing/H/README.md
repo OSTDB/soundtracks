@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardwar | 80278 | [80278-hardwar.json](./80278-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
+| Hardware Engineers | 32457 | [32457-hardware-engineers.json](./32457-hardware-engineers.json) |
 | Hardware Excalibur | 301632 | [301632-hardware-excalibur.json](./301632-hardware-excalibur.json) |
 | Hardware Hustle | 289115 | [289115-hardware-hustle.json](./289115-hardware-hustle.json) |
 | Hardware Simulator | 403855 | [403855-hardware-simulator.json](./403855-hardware-simulator.json) |
@@ -9180,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
 | Hikidashi Aita | 261032 | [261032-hikidashi-aita.json](./261032-hikidashi-aita.json) |
 | Hikikomori Life | 169864 | [169864-hikikomori-life.json](./169864-hikikomori-life.json) |
+| Hikikomori No Chuunibyou | 32072 | [32072-hikikomori-no-chuunibyou.json](./32072-hikikomori-no-chuunibyou.json) |
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
 | Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
