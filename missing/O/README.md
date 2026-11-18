@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Raft Simulator & Survival | 380706 | [380706-ocean-raft-simulator-and-survival.json](./380706-ocean-raft-simulator-and-survival.json) |
 | Ocean Ranger | 41134 | [41134-ocean-ranger.json](./41134-ocean-ranger.json) |
 | Ocean Riders | 201682 | [201682-ocean-riders.json](./201682-ocean-riders.json) |
+| Ocean Rift | 61651 | [61651-ocean-rift.json](./61651-ocean-rift.json) |
 | Ocean Runner | 58776 | [58776-ocean-runner.json](./58776-ocean-runner.json) |
 | Ocean Scenes | 68538 | [68538-ocean-scenes.json](./68538-ocean-scenes.json) |
 | Ocean Scramble: Age of Exploration | 261863 | [261863-ocean-scramble-age-of-exploration.json](./261863-ocean-scramble-age-of-exploration.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssee Die | 356843 | [356843-odyssee-die.json](./356843-odyssee-die.json) |
 | Odyssée Numérique | 242946 | [242946-odyssee-numerique.json](./242946-odyssee-numerique.json) |
 | Odysseus | 178255 | [178255-odysseus.json](./178255-odysseus.json) |
+| Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 1 | 81812 | [81812-odysseus-kosmos-and-his-robot-quest-episode-1.json](./81812-odysseus-kosmos-and-his-robot-quest-episode-1.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 2 | 171339 | [171339-odysseus-kosmos-and-his-robot-quest-episode-2.json](./171339-odysseus-kosmos-and-his-robot-quest-episode-2.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 3 | 171325 | [171325-odysseus-kosmos-and-his-robot-quest-episode-3.json](./171325-odysseus-kosmos-and-his-robot-quest-episode-3.json) |
@@ -5317,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto | 103268 | [103268-otto.json](./103268-otto.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
+| Otto Matic | 67426 | [67426-otto-matic.json](./67426-otto-matic.json) |
 | Otto Roof | 250977 | [250977-otto-roof.json](./250977-otto-roof.json) |
 | Otto the Odd Ostrich | 67934 | [67934-otto-the-odd-ostrich.json](./67934-otto-the-odd-ostrich.json) |
 | Otto's Escape | 291699 | [291699-ottos-escape.json](./291699-ottos-escape.json) |
