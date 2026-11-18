@@ -10738,6 +10738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
 | Homebound: New Beginnings | 237214 | [237214-homebound-new-beginnings.json](./237214-homebound-new-beginnings.json) |
 | Homebound: The Last Stand | 211353 | [211353-homebound-the-last-stand.json](./211353-homebound-the-last-stand.json) |
+| Homebrew: Patent Unknown | 36207 | [36207-homebrew-patent-unknown.json](./36207-homebrew-patent-unknown.json) |
 | Homebrew32 | 279473 | [279473-homebrew32.json](./279473-homebrew32.json) |
 | Homecall | 310789 | [310789-homecall.json](./310789-homecall.json) |
 | Homecoming | 179386 | [179386-homecoming.json](./179386-homecoming.json) |
