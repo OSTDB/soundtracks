@@ -203,7 +203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Odisea del Fracaso III | 323540 | [323540-la-odisea-del-fracaso-iii.json](./323540-la-odisea-del-fracaso-iii.json) |
 | La Pasion XR | 341033 | [341033-la-pasion-xr.json](./341033-la-pasion-xr.json) |
 | La Patifferie | 307883 | [307883-la-patifferie.json](./307883-la-patifferie.json) |
-| La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
 | La Perlas | 314560 | [314560-la-perlas.json](./314560-la-perlas.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
 | La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
@@ -223,7 +222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Storia della Arcana Famiglia | 81580 | [81580-la-storia-della-arcana-famiglia.json](./81580-la-storia-della-arcana-famiglia.json) |
 | La storia della Arcana Famiglia 2 | 213834 | [213834-la-storia-della-arcana-famiglia-2.json](./213834-la-storia-della-arcana-famiglia-2.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
-| LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
 | La Table des Savoirs | 387434 | [387434-la-table-des-savoirs.json](./387434-la-table-des-savoirs.json) |
 | La Tailor Girl | 198353 | [198353-la-tailor-girl.json](./198353-la-tailor-girl.json) |
 | La Tale | 16856 | [16856-la-tale.json](./16856-la-tale.json) |
@@ -1009,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lang Ops: Lost in Woods | 393910 | [393910-lang-ops-lost-in-woods.json](./393910-lang-ops-lost-in-woods.json) |
 | Langit Lupa: Office Wars | 382390 | [382390-langit-lupa-office-wars.json](./382390-langit-lupa-office-wars.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
+| Langort | 318078 | [318078-langort.json](./318078-langort.json) |
 | Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I | 284200 | [284200-langrisser-i.json](./284200-langrisser-i.json) |
 | Langrisser I | 375476 | [375476-langrisser-i.json](./375476-langrisser-i.json) |
@@ -1044,10 +1043,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansbury's SneakOut | 335606 | [335606-lansburys-sneakout.json](./335606-lansburys-sneakout.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
-| Lantern | 25952 | [25952-lantern.json](./25952-lantern.json) |
 | Lantern Bearer | 164114 | [164114-lantern-bearer.json](./164114-lantern-bearer.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
-| Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
@@ -1296,7 +1293,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | Lasercade | 282786 | [282786-lasercade.json](./282786-lasercade.json) |
-| LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserface | 183688 | [183688-laserface.json](./183688-laserface.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
@@ -1472,7 +1468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
-| Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
 | Last Epoch: Adult Chronowyrm | 286980 | [286980-last-epoch-adult-chronowyrm.json](./286980-last-epoch-adult-chronowyrm.json) |
@@ -1558,7 +1553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope | 309154 | [309154-last-hope.json](./309154-last-hope.json) |
 | Last Hope | 46865 | [46865-last-hope.json](./46865-last-hope.json) |
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
-| Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope Bunker: Zombie Survival | 258226 | [258226-last-hope-bunker-zombie-survival.json](./258226-last-hope-bunker-zombie-survival.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
@@ -1626,7 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Kicking | 185195 | [185195-last-man-kicking.json](./185195-last-man-kicking.json) |
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
-| Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
+| Last Man Standing Coop | 217573 | [217573-last-man-standing-coop.json](./217573-last-man-standing-coop.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meadow Online | 396989 | [396989-last-meadow-online.json](./396989-last-meadow-online.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
@@ -1673,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of Mankind: Survival | 90286 | [90286-last-of-mankind-survival.json](./90286-last-of-mankind-survival.json) |
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
+| Last One Standing | 278748 | [278748-last-one-standing.json](./278748-last-one-standing.json) |
 | Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
 | Last Ops | 149155 | [149155-last-ops.json](./149155-last-ops.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
@@ -2061,7 +2056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law & Order II: Double or Nothing | 70027 | [70027-law-and-order-ii-double-or-nothing.json](./70027-law-and-order-ii-double-or-nothing.json) |
 | Law & Order: Criminal Intent | 69695 | [69695-law-and-order-criminal-intent.json](./69695-law-and-order-criminal-intent.json) |
 | Law & Order: Dead on the Money | 73105 | [73105-law-and-order-dead-on-the-money.json](./73105-law-and-order-dead-on-the-money.json) |
-| Law & Order: Justice is Served | 24251 | [24251-law-and-order-justice-is-served.json](./24251-law-and-order-justice-is-served.json) |
 | Law & Order: Legacies | 18874 | [18874-law-and-order-legacies.json](./18874-law-and-order-legacies.json) |
 | Law & Order: Mushroom Kingdom Unit - Pilot Episode: Tragic Fox "Tails" | 345625 | [345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json](./345625-law-and-order-mushroom-kingdom-unit-pilot-episode-tragic-fox-tails.json) |
 | Law 56 | 347995 | [347995-law-56.json](./347995-law-56.json) |
@@ -2069,7 +2063,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
 | Law Empire Tycoon | 171810 | [171810-law-empire-tycoon.json](./171810-law-empire-tycoon.json) |
 | Law Law Land | 127693 | [127693-law-law-land.json](./127693-law-law-land.json) |
-| Law Mower | 41933 | [41933-law-mower.json](./41933-law-mower.json) |
 | Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Law of Demons | 412081 | [412081-law-of-demons.json](./412081-law-of-demons.json) |
 | Law of Dispute | 295393 | [295393-law-of-dispute.json](./295393-law-of-dispute.json) |
@@ -2117,7 +2110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Challenge | 65390 | [65390-lawnmower-challenge.json](./65390-lawnmower-challenge.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
-| Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
 | Lawnmower Game 2026 | 389001 | [389001-lawnmower-game-2026.json](./389001-lawnmower-game-2026.json) |
 | Lawnmower Game 3: Horror | 110456 | [110456-lawnmower-game-3-horror.json](./110456-lawnmower-game-3-horror.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
@@ -2227,7 +2219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
-| Lazerbait | 31273 | [31273-lazerbait.json](./31273-lazerbait.json) |
 | Lazerball | 217357 | [217357-lazerball.json](./217357-lazerball.json) |
 | LazerBlazer: Type A - Intercept | 271255 | [271255-lazerblazer-type-a-intercept.json](./271255-lazerblazer-type-a-intercept.json) |
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
@@ -2241,7 +2232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazerz | 294282 | [294282-lazerz.json](./294282-lazerz.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazlet | 82550 | [82550-lazlet.json](./82550-lazlet.json) |
-| Lazors | 24471 | [24471-lazors.json](./24471-lazors.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazriel the Demon's Fall | 195968 | [195968-lazriel-the-demons-fall.json](./195968-lazriel-the-demons-fall.json) |
 | LazuLight: By Your Side | 201749 | [201749-lazulight-by-your-side.json](./201749-lazulight-by-your-side.json) |
@@ -2323,7 +2313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Havre (The Harbor) | 90748 | [90748-le-havre-the-harbor.json](./90748-le-havre-the-harbor.json) |
-| Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
 | Le jeu du chômeur | 387285 | [387285-le-jeu-du-chomeur.json](./387285-le-jeu-du-chomeur.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Maître des Âmes | 94596 | [94596-le-maitre-des-ames.json](./94596-le-maitre-des-ames.json) |
@@ -2446,7 +2435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
-| League of Angels | 23610 | [23610-league-of-angels.json](./23610-league-of-angels.json) |
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
 | League of Angels Series | 109967 | [109967-league-of-angels-series.json](./109967-league-of-angels-series.json) |
@@ -2782,7 +2770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left to Rot | 217055 | [217055-left-to-rot.json](./217055-left-to-rot.json) |
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left Turn Legend | 297515 | [297515-left-turn-legend.json](./297515-left-turn-legend.json) |
-| Left-Hand Path | 32901 | [32901-left-hand-path.json](./32901-left-hand-path.json) |
 | Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Left/Right | 191413 | [191413-left-right.json](./191413-left-right.json) |
@@ -2792,7 +2779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
 | Leftovers: Last Fridge Standing | 427696 | [427696-leftovers-last-fridge-standing.json](./427696-leftovers-last-fridge-standing.json) |
 | LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
-| LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
@@ -2828,7 +2814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
 | Legacy of Destiny | 108695 | [108695-legacy-of-destiny.json](./108695-legacy-of-destiny.json) |
-| Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Epstein: Foul Dreamer | 295178 | [295178-legacy-of-epstein-foul-dreamer.json](./295178-legacy-of-epstein-foul-dreamer.json) |
@@ -2888,7 +2873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy Tales: Mercy of the Gallows | 10508 | [10508-legacy-tales-mercy-of-the-gallows.json](./10508-legacy-tales-mercy-of-the-gallows.json) |
 | Legacy Tales: Mercy of the Gallows - Collector's Edition | 177104 | [177104-legacy-tales-mercy-of-the-gallows-collectors-edition.json](./177104-legacy-tales-mercy-of-the-gallows-collectors-edition.json) |
-| Legacy: Dark Shadows | 24248 | [24248-legacy-dark-shadows.json](./24248-legacy-dark-shadows.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
 | Legacy: The Lost Pyramid | 294545 | [294545-legacy-the-lost-pyramid.json](./294545-legacy-the-lost-pyramid.json) |
@@ -2979,7 +2963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
-| Legend of Hand | 68465 | [68465-legend-of-hand.json](./68465-legend-of-hand.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Hero Tonma | 10453 | [10453-legend-of-hero-tonma.json](./10453-legend-of-hero-tonma.json) |
 | Legend of Hero Tonma | 297405 | [297405-legend-of-hero-tonma.json](./297405-legend-of-hero-tonma.json) |
@@ -2990,7 +2973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Homebody | 105492 | [105492-legend-of-homebody.json](./105492-legend-of-homebody.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
 | Legend of Inca: Mystical Culture | 274909 | [274909-legend-of-inca-mystical-culture.json](./274909-legend-of-inca-mystical-culture.json) |
-| Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
 | Legend of Iya | 79728 | [79728-legend-of-iya.json](./79728-legend-of-iya.json) |
 | Legend of John: Lingering Blood | 308050 | [308050-legend-of-john-lingering-blood.json](./308050-legend-of-john-lingering-blood.json) |
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
@@ -3064,7 +3046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Scheherazade: Golden Empire | 214886 | [214886-legend-of-scheherazade-golden-empire.json](./214886-legend-of-scheherazade-golden-empire.json) |
 | Legend of Serigel | 180648 | [180648-legend-of-serigel.json](./180648-legend-of-serigel.json) |
 | Legend of Shadow | 403147 | [403147-legend-of-shadow.json](./403147-legend-of-shadow.json) |
-| Legend of Silkroad | 23625 | [23625-legend-of-silkroad.json](./23625-legend-of-silkroad.json) |
 | Legend of Slime: Idle RPG | 237529 | [237529-legend-of-slime-idle-rpg.json](./237529-legend-of-slime-idle-rpg.json) |
 | Legend of Snake | 215645 | [215645-legend-of-snake.json](./215645-legend-of-snake.json) |
 | Legend of Solgard | 107153 | [107153-legend-of-solgard.json](./107153-legend-of-solgard.json) |
@@ -3129,7 +3110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Seven Paladins | 140401 | [140401-legend-of-the-seven-paladins.json](./140401-legend-of-the-seven-paladins.json) |
 | Legend of the Silver Fox | 182734 | [182734-legend-of-the-silver-fox.json](./182734-legend-of-the-silver-fox.json) |
 | Legend of the Silver Talisman | 170053 | [170053-legend-of-the-silver-talisman.json](./170053-legend-of-the-silver-talisman.json) |
-| Legend of the Skyfish | 27604 | [27604-legend-of-the-skyfish.json](./27604-legend-of-the-skyfish.json) |
 | Legend of the Skyfish 2 | 94965 | [94965-legend-of-the-skyfish-2.json](./94965-legend-of-the-skyfish-2.json) |
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword | 15248 | [15248-legend-of-the-sword.json](./15248-legend-of-the-sword.json) |
@@ -3287,11 +3267,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Astravia | 144659 | [144659-legends-of-astravia.json](./144659-legends-of-astravia.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Awen: Rise of The Fianna | 324589 | [324589-legends-of-awen-rise-of-the-fianna.json](./324589-legends-of-awen-rise-of-the-fianna.json) |
-| Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Bezogia | 246145 | [246145-legends-of-bezogia.json](./246145-legends-of-bezogia.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
-| Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Castile | 240636 | [240636-legends-of-castile.json](./240636-legends-of-castile.json) |
 | Legends of Catalonia | 118653 | [118653-legends-of-catalonia.json](./118653-legends-of-catalonia.json) |
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
@@ -3402,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Wrestling II | 3975 | [3975-legends-of-wrestling-ii.json](./3975-legends-of-wrestling-ii.json) |
 | Legends of Yore | 50476 | [50476-legends-of-yore.json](./50476-legends-of-yore.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
+| Legends Reborn: Age of Chance | 205169 | [205169-legends-reborn-age-of-chance.json](./205169-legends-reborn-age-of-chance.json) |
 | Legends Resurrected Online | 297826 | [297826-legends-resurrected-online.json](./297826-legends-resurrected-online.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
 | Legends: Rise of a Hero | 62312 | [62312-legends-rise-of-a-hero.json](./62312-legends-rise-of-a-hero.json) |
@@ -3601,7 +3580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Starfire (Teen Titans Go!) Fun Pack | 172607 | [172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json](./172607-lego-dimensions-starfire-teen-titans-go-fun-pack.json) |
 | LEGO Dimensions: Stay Puft Ghostbusters Fun Pack | 23370 | [23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json](./23370-lego-dimensions-stay-puft-ghostbusters-fun-pack.json) |
 | LEGO Dimensions: Supergirl Polybag | 172621 | [172621-lego-dimensions-supergirl-polybag.json](./172621-lego-dimensions-supergirl-polybag.json) |
-| LEGO Dimensions: Superman Fun Pack | 23378 | [23378-lego-dimensions-superman-fun-pack.json](./23378-lego-dimensions-superman-fun-pack.json) |
 | LEGO Dimensions: Teen Titans Go! Team Pack | 172632 | [172632-lego-dimensions-teen-titans-go-team-pack.json](./172632-lego-dimensions-teen-titans-go-team-pack.json) |
 | LEGO Dimensions: The Goonies Level Pack | 172564 | [172564-lego-dimensions-the-goonies-level-pack.json](./172564-lego-dimensions-the-goonies-level-pack.json) |
 | LEGO Dimensions: The Joker and Harley Quinn Team Pack | 172613 | [172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json](./172613-lego-dimensions-the-joker-and-harley-quinn-team-pack.json) |
@@ -4165,7 +4143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Me Sleep | 301170 | [301170-let-me-sleep.json](./301170-let-me-sleep.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
-| Let the Cat In | 35264 | [35264-let-the-cat-in.json](./35264-let-the-cat-in.json) |
 | Let Them Breathe: Hello Mother | 292332 | [292332-let-them-breathe-hello-mother.json](./292332-let-them-breathe-hello-mother.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
 | Let Them Come | 31962 | [31962-let-them-come.json](./31962-let-them-come.json) |
@@ -4540,7 +4517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal RPG: War | 101991 | [101991-lethal-rpg-war.json](./101991-lethal-rpg-war.json) |
 | Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
 | Lethal Skies Elite Pilot: Team SW | 26746 | [26746-lethal-skies-elite-pilot-team-sw.json](./26746-lethal-skies-elite-pilot-team-sw.json) |
-| Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
 | Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal VR | 25743 | [25743-lethal-vr.json](./25743-lethal-vr.json) |
@@ -4738,7 +4714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveling Up Girls in Another World | 199709 | [199709-leveling-up-girls-in-another-world.json](./199709-leveling-up-girls-in-another-world.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
-| Levels+: Addictive Puzzle Game | 51407 | [51407-levels-addictive-puzzle-game.json](./51407-levels-addictive-puzzle-game.json) |
 | Levelup With 100 Cyber Girlfriend | 383921 | [383921-levelup-with-100-cyber-girlfriend.json](./383921-levelup-with-100-cyber-girlfriend.json) |
 | Levenium | 189262 | [189262-levenium.json](./189262-levenium.json) |
 | Lever Simulator: Multiplayer | 291317 | [291317-lever-simulator-multiplayer.json](./291317-lever-simulator-multiplayer.json) |
@@ -5028,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiDiA | 142147 | [142147-lidia.json](./142147-lidia.json) |
 | Lido: The Puzzle Hero | 233878 | [233878-lido-the-puzzle-hero.json](./233878-lido-the-puzzle-hero.json) |
 | Lidraughts | 321663 | [321663-lidraughts.json](./321663-lidraughts.json) |
+| Lie In My Heart | 278597 | [278597-lie-in-my-heart.json](./278597-lie-in-my-heart.json) |
 | Lie of Caelum | 225209 | [225209-lie-of-caelum.json](./225209-lie-of-caelum.json) |
 | Lie of Caelum: Spirit | 238834 | [238834-lie-of-caelum-spirit.json](./238834-lie-of-caelum-spirit.json) |
 | Lie or Die | 176798 | [176798-lie-or-die.json](./176798-lie-or-die.json) |
@@ -5048,13 +5024,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies of P: Overture Bundle | 348364 | [348364-lies-of-p-overture-bundle.json](./348364-lies-of-p-overture-bundle.json) |
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
-| Lieve Oma | 27648 | [27648-lieve-oma.json](./27648-lieve-oma.json) |
 | Lièyàn Chuánqí | 154348 | [154348-lieyan-chuanqi.json](./154348-lieyan-chuanqi.json) |
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
 | Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life & Death II: The Brain | 121164 | [121164-life-and-death-ii-the-brain.json](./121164-life-and-death-ii-the-brain.json) |
-| Life & Debt: A Real Life Simulator | 88036 | [88036-life-and-debt-a-real-life-simulator.json](./88036-life-and-debt-a-real-life-simulator.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
@@ -5090,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Code | 287774 | [287774-life-code.json](./287774-life-code.json) |
 | Life Codex | 309414 | [309414-life-codex.json](./309414-life-codex.json) |
 | Life Combinations | 117479 | [117479-life-combinations.json](./117479-life-combinations.json) |
+| Life Crush Story | 205152 | [205152-life-crush-story.json](./205152-life-crush-story.json) |
 | Life Dash | 336572 | [336572-life-dash.json](./336572-life-dash.json) |
 | Life Diviner | 184803 | [184803-life-diviner.json](./184803-life-diviner.json) |
 | Life Dream | 331456 | [331456-life-dream.json](./331456-life-dream.json) |
@@ -5107,7 +5082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life in Adventure | 208079 | [208079-life-in-adventure.json](./208079-life-in-adventure.json) |
-| Life in Bunker | 34451 | [34451-life-in-bunker.json](./34451-life-in-bunker.json) |
 | Life In Captivity | 135321 | [135321-life-in-captivity.json](./135321-life-in-captivity.json) |
 | Life In Helsinki | 113455 | [113455-life-in-helsinki.json](./113455-life-in-helsinki.json) |
 | Life in Jasskia: a Coffee Shop | 355891 | [355891-life-in-jasskia-a-coffee-shop.json](./355891-life-in-jasskia-a-coffee-shop.json) |
@@ -5118,7 +5092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Crater Lake | 407827 | [407827-life-in-the-crater-lake.json](./407827-life-in-the-crater-lake.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
-| Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Janitor's Room with a JK Girl | 347391 | [347391-life-in-the-janitors-room-with-a-jk-girl.json](./347391-life-in-the-janitors-room-with-a-jk-girl.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life in the Static | 128838 | [128838-life-in-the-static.json](./128838-life-in-the-static.json) |
@@ -5226,7 +5199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Wolf 2014 | 87444 | [87444-life-of-wolf-2014.json](./87444-life-of-wolf-2014.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Earth: Reimagined | 277552 | [277552-life-on-earth-reimagined.json](./277552-life-on-earth-reimagined.json) |
-| Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on Neptune | 415556 | [415556-life-on-neptune.json](./415556-life-on-neptune.json) |
@@ -5249,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Sim: Rise From Nothing | 390376 | [390376-life-sim-rise-from-nothing.json](./390376-life-sim-rise-from-nothing.json) |
 | Life Simulator | 10959 | [10959-life-simulator.json](./10959-life-simulator.json) |
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
+| Life Simulator | 205153 | [205153-life-simulator.json](./205153-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
 | Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
 | Life Simulator 2 | 296757 | [296757-life-simulator-2.json](./296757-life-simulator-2.json) |
@@ -5326,7 +5299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
 | Lifespawn | 169534 | [169534-lifespawn.json](./169534-lifespawn.json) |
-| Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
@@ -5378,7 +5350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light and Shadows: Pocket Islands | 265751 | [265751-light-and-shadows-pocket-islands.json](./265751-light-and-shadows-pocket-islands.json) |
 | Light and Sneak | 373745 | [373745-light-and-sneak.json](./373745-light-and-sneak.json) |
-| Light Apprentice | 30058 | [30058-light-apprentice.json](./30058-light-apprentice.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
@@ -5412,7 +5383,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
 | Light Fantasy II | 37943 | [37943-light-fantasy-ii.json](./37943-light-fantasy-ii.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
-| Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light For Plants | 149273 | [149273-light-for-plants.json](./149273-light-for-plants.json) |
 | Light Force | 73140 | [73140-light-force.json](./73140-light-force.json) |
@@ -5498,7 +5468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Touch: Pixel Block Escape | 197726 | [197726-light-touch-pixel-block-escape.json](./197726-light-touch-pixel-block-escape.json) |
 | Light Tower | 429735 | [429735-light-tower.json](./429735-light-tower.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
-| Light Tracer | 36784 | [36784-light-tracer.json](./36784-light-tracer.json) |
 | Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
 | Light Trail Rush | 122447 | [122447-light-trail-rush.json](./122447-light-trail-rush.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
@@ -5868,7 +5837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilloville | 426612 | [426612-lilloville.json](./426612-lilloville.json) |
 | Lillusion | 220390 | [220390-lillusion.json](./220390-lillusion.json) |
 | Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
-| Lilly and Sasha: Curse of the Immortals | 35575 | [35575-lilly-and-sasha-curse-of-the-immortals.json](./35575-lilly-and-sasha-curse-of-the-immortals.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
@@ -6361,7 +6329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
 | Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
 | Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
-| Links 386 CD | 22610 | [22610-links-386-cd.json](./22610-links-386-cd.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6 | 152507 | [152507-links-e6.json](./152507-links-e6.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
@@ -6676,13 +6643,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
-| Little Briar Rose | 30541 | [30541-little-briar-rose.json](./30541-little-briar-rose.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Broken Robots | 113975 | [113975-little-broken-robots.json](./113975-little-broken-robots.json) |
 | Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
-| Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
 | Little Buno | 98540 | [98540-little-buno.json](./98540-little-buno.json) |
 | Little Burned Maiden | 194347 | [194347-little-burned-maiden.json](./194347-little-burned-maiden.json) |
@@ -6829,7 +6794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Heroes | 283067 | [283067-little-heroes.json](./283067-little-heroes.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
-| Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
 | Little Hoarder | 346521 | [346521-little-hoarder.json](./346521-little-hoarder.json) |
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Hooky | 318346 | [318346-little-hooky.json](./318346-little-hooky.json) |
@@ -6885,7 +6849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little League Baseball: Championship Series | 48283 | [48283-little-league-baseball-championship-series.json](./48283-little-league-baseball-championship-series.json) |
 | Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2009 | 51067 | [51067-little-league-world-series-baseball-2009.json](./51067-little-league-world-series-baseball-2009.json) |
-| Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little League World Series Baseball 2022 | 204905 | [204905-little-league-world-series-baseball-2022.json](./204905-little-league-world-series-baseball-2022.json) |
 | Little League World Series Double Play | 51071 | [51071-little-league-world-series-double-play.json](./51071-little-league-world-series-double-play.json) |
 | Little Learning Machines | 217150 | [217150-little-learning-machines.json](./217150-little-learning-machines.json) |
@@ -6951,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Monster Private Eye: The Smelly Mystery | 63496 | [63496-little-monster-private-eye-the-smelly-mystery.json](./63496-little-monster-private-eye-the-smelly-mystery.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Cat's Cosmic Atlas | 277891 | [277891-little-mouses-encyclopedia-cats-cosmic-atlas.json](./277891-little-mouses-encyclopedia-cats-cosmic-atlas.json) |
+| Little Mouse's Encyclopedia + Clumsy Rush | 207928 | [207928-little-mouses-encyclopedia-clumsy-rush.json](./207928-little-mouses-encyclopedia-clumsy-rush.json) |
 | Little Mouse's Encyclopedia + Comic Coloring Book: Complete Edition | 212784 | [212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json](./212784-little-mouses-encyclopedia-comic-coloring-book-complete-edition.json) |
 | Little Mouse's Encyclopedia + Cyber Protocol | 207951 | [207951-little-mouses-encyclopedia-cyber-protocol.json](./207951-little-mouses-encyclopedia-cyber-protocol.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
@@ -7210,7 +7174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Yellow Submarine | 104689 | [104689-little-yellow-submarine.json](./104689-little-yellow-submarine.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
-| LittleBigPlanet 2 Toy Story Level Kit DLC | 24239 | [24239-littlebigplanet-2-toy-story-level-kit-dlc.json](./24239-littlebigplanet-2-toy-story-level-kit-dlc.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet 2: Cross-Controller Pack | 308671 | [308671-littlebigplanet-2-cross-controller-pack.json](./308671-littlebigplanet-2-cross-controller-pack.json) |
 | LittleBigPlanet 2: DC Comics Premium Level Pack | 308673 | [308673-littlebigplanet-2-dc-comics-premium-level-pack.json](./308673-littlebigplanet-2-dc-comics-premium-level-pack.json) |
@@ -7280,7 +7243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop: Garden | 48020 | [48020-littlest-pet-shop-garden.json](./48020-littlest-pet-shop-garden.json) |
 | Littlest Pet Shop: Jungle | 48019 | [48019-littlest-pet-shop-jungle.json](./48019-littlest-pet-shop-jungle.json) |
 | Littlest Pet Shop: Spring | 68040 | [68040-littlest-pet-shop-spring.json](./68040-littlest-pet-shop-spring.json) |
-| Littlest Pet Shop: Winter | 47908 | [47908-littlest-pet-shop-winter.json](./47908-littlest-pet-shop-winter.json) |
 | LittleWarGame | 9625 | [9625-littlewargame.json](./9625-littlewargame.json) |
 | Littlewing | 143965 | [143965-littlewing.json](./143965-littlewing.json) |
 | Littlewitch Parfait: Kuroneko Mahouten Monogatari | 56559 | [56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json](./56559-littlewitch-parfait-kuroneko-mahouten-monogatari.json) |
@@ -7556,8 +7518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
-| LMA Manager 2005 | 22299 | [22299-lma-manager-2005.json](./22299-lma-manager-2005.json) |
-| LMA Manager 2006 | 22548 | [22548-lma-manager-2006.json](./22548-lma-manager-2006.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
@@ -7747,7 +7707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locked Up | 137990 | [137990-locked-up.json](./137990-locked-up.json) |
 | Locked Up | 195357 | [195357-locked-up.json](./195357-locked-up.json) |
 | Locked-In | 146138 | [146138-locked-in.json](./146138-locked-in.json) |
-| Locked-in syndrome | 33787 | [33787-locked-in-syndrome.json](./33787-locked-in-syndrome.json) |
 | Locked-Room Mystery: Hidden Truths in Everyday Life | 399657 | [399657-locked-room-mystery-hidden-truths-in-everyday-life.json](./399657-locked-room-mystery-hidden-truths-in-everyday-life.json) |
 | Lockehorn | 422665 | [422665-lockehorn.json](./422665-lockehorn.json) |
 | Locker of Death | 206861 | [206861-locker-of-death.json](./206861-locker-of-death.json) |
@@ -7986,7 +7945,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | Logicats | 244451 | [244451-logicats.json](./244451-logicats.json) |
-| LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
 | LogicPro Adventure | 91504 | [91504-logicpro-adventure.json](./91504-logicpro-adventure.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | LogiGolf | 250978 | [250978-logigolf.json](./250978-logigolf.json) |
@@ -7999,7 +7957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LogIQ Boost | 373650 | [373650-logiq-boost.json](./373650-logiq-boost.json) |
 | Logisch! - Die Denk-Boxx Vol. 1 | 81108 | [81108-logisch-die-denk-boxx-vol-1.json](./81108-logisch-die-denk-boxx-vol-1.json) |
 | Logistic Master | 263712 | [263712-logistic-master.json](./263712-logistic-master.json) |
-| Logistical | 29933 | [29933-logistical.json](./29933-logistical.json) |
 | Logistical 2 | 166381 | [166381-logistical-2.json](./166381-logistical-2.json) |
 | Logistical 2: Belgium | 109415 | [109415-logistical-2-belgium.json](./109415-logistical-2-belgium.json) |
 | Logistical 2: France | 166369 | [166369-logistical-2-france.json](./166369-logistical-2-france.json) |
@@ -8017,7 +7974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
 | Logistical: ABC Islands | 100239 | [100239-logistical-abc-islands.json](./100239-logistical-abc-islands.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
-| Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
 | Logistical: Canada | 166373 | [166373-logistical-canada.json](./166373-logistical-canada.json) |
 | Logistical: Caribbean | 99062 | [99062-logistical-caribbean.json](./99062-logistical-caribbean.json) |
 | Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
@@ -8231,7 +8187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
 | Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
-| Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
 | Lonely Birds | 155739 | [155739-lonely-birds.json](./155739-lonely-birds.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
@@ -8245,7 +8200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely Highway | 415673 | [415673-lonely-highway.json](./415673-lonely-highway.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
-| Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
@@ -8272,7 +8226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Space | 274363 | [274363-lonely-space.json](./274363-lonely-space.json) |
-| Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Survivor | 214295 | [214295-lonely-survivor.json](./214295-lonely-survivor.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
@@ -8386,7 +8339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
 | Longphort | 164112 | [164112-longphort.json](./164112-longphort.json) |
 | Longshot Universe | 28259 | [28259-longshot-universe.json](./28259-longshot-universe.json) |
-| LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
 | Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
@@ -8550,7 +8502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop x Loop | 414105 | [414105-loop-x-loop.json](./414105-loop-x-loop.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop-Loop DX | 129382 | [129382-loop-loop-dx.json](./129382-loop-loop-dx.json) |
-| Loop: A Tranquil Puzzle Game | 35278 | [35278-loop-a-tranquil-puzzle-game.json](./35278-loop-a-tranquil-puzzle-game.json) |
 | Loop: ClassRoom | 302849 | [302849-loop-classroom.json](./302849-loop-classroom.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
@@ -8609,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
 | Loopsters | 367079 | [367079-loopsters.json](./367079-loopsters.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
+| Loopsy | 207929 | [207929-loopsy.json](./207929-loopsy.json) |
 | Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
 | Loopush | 258163 | [258163-loopush.json](./258163-loopush.json) |
 | Loopwood | 274670 | [274670-loopwood.json](./274670-loopwood.json) |
@@ -8668,7 +8620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
 | Loot Hole | 429369 | [429369-loot-hole.json](./429369-loot-hole.json) |
-| Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Improvement | 285715 | [285715-loot-improvement.json](./285715-loot-improvement.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
@@ -8721,7 +8672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootdeck | 411986 | [411986-lootdeck.json](./411986-lootdeck.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
-| Looterkings | 22383 | [22383-looterkings.json](./22383-looterkings.json) |
 | Looters | 398049 | [398049-looters.json](./398049-looters.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
@@ -8886,7 +8836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
 | Lords of Magic: Special Edition | 23151 | [23151-lords-of-magic-special-edition.json](./23151-lords-of-magic-special-edition.json) |
-| Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
 | Lords of Nether | 166949 | [166949-lords-of-nether.json](./166949-lords-of-nether.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
 | Lords of Nysera | 276633 | [276633-lords-of-nysera.json](./276633-lords-of-nysera.json) |
@@ -8921,7 +8870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of the Void | 328183 | [328183-lords-of-the-void.json](./328183-lords-of-the-void.json) |
 | Lords of Thunder | 5400 | [5400-lords-of-thunder.json](./5400-lords-of-thunder.json) |
-| Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lords of War | 53315 | [53315-lords-of-war.json](./53315-lords-of-war.json) |
 | Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
@@ -9108,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cartridge: Cold Read | 228835 | [228835-lost-cartridge-cold-read.json](./228835-lost-cartridge-cold-read.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
+| Lost Castle: Deluxe Edition | 302270 | [302270-lost-castle-deluxe-edition.json](./302270-lost-castle-deluxe-edition.json) |
 | Lost Castle: The Old Ones Awaken | 168060 | [168060-lost-castle-the-old-ones-awaken.json](./168060-lost-castle-the-old-ones-awaken.json) |
 | Lost Cat | 276574 | [276574-lost-cat.json](./276574-lost-cat.json) |
 | Lost Cats | 265797 | [265797-lost-cats.json](./265797-lost-cats.json) |
@@ -9402,7 +9351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Vivo | 111248 | [111248-lost-in-vivo.json](./111248-lost-in-vivo.json) |
 | Lost in Voice | 384831 | [384831-lost-in-voice.json](./384831-lost-in-voice.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
-| Lost In Woods 2 | 31286 | [31286-lost-in-woods-2.json](./31286-lost-in-woods-2.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost in You | 315817 | [315817-lost-in-you.json](./315817-lost-in-you.json) |
 | Lost Inca Prophecy 2: The Hollow Island | 273343 | [273343-lost-inca-prophecy-2-the-hollow-island.json](./273343-lost-inca-prophecy-2-the-hollow-island.json) |
@@ -9451,7 +9399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: A Hidden Object Adventure | 34696 | [34696-lost-lands-a-hidden-object-adventure.json](./34696-lost-lands-a-hidden-object-adventure.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
-| Lost Lands: Mahjong | 33702 | [33702-lost-lands-mahjong.json](./33702-lost-lands-mahjong.json) |
 | Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
 | Lost Lands: Sand Captivity | 213245 | [213245-lost-lands-sand-captivity.json](./213245-lost-lands-sand-captivity.json) |
@@ -9651,7 +9598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
 | Lost Wage Rampage | 108989 | [108989-lost-wage-rampage.json](./108989-lost-wage-rampage.json) |
 | Lost Wiki: Kozlovka | 374721 | [374721-lost-wiki-kozlovka.json](./374721-lost-wiki-kozlovka.json) |
-| Lost Wing | 75371 | [75371-lost-wing.json](./75371-lost-wing.json) |
 | Lost Wish: In the Desperate World | 195482 | [195482-lost-wish-in-the-desperate-world.json](./195482-lost-wish-in-the-desperate-world.json) |
 | Lost with Dinosaurs | 55633 | [55633-lost-with-dinosaurs.json](./55633-lost-with-dinosaurs.json) |
 | Lost With You | 234410 | [234410-lost-with-you.json](./234410-lost-with-you.json) |
@@ -10003,9 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is All Around: Echoes of Yesterday | 327196 | [327196-love-is-all-around-echoes-of-yesterday.json](./327196-love-is-all-around-echoes-of-yesterday.json) |
 | Love Is All Around: Love In The Room | 285362 | [285362-love-is-all-around-love-in-the-room.json](./285362-love-is-all-around-love-in-the-room.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
-| Love is Blind: Mutants | 33494 | [33494-love-is-blind-mutants.json](./33494-love-is-blind-mutants.json) |
 | Love Is Dangerous | 189277 | [189277-love-is-dangerous.json](./189277-love-is-dangerous.json) |
-| Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
 | Love is in Bloom | 225300 | [225300-love-is-in-bloom.json](./225300-love-is-in-bloom.json) |
 | Love is in the air | 98264 | [98264-love-is-in-the-air.json](./98264-love-is-in-the-air.json) |
 | Love is in the Airship | 318363 | [318363-love-is-in-the-airship.json](./318363-love-is-in-the-airship.json) |
@@ -10116,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love or Money? | 255436 | [255436-love-or-money.json](./255436-love-or-money.json) |
 | Love or Passion | 254317 | [254317-love-or-passion.json](./254317-love-or-passion.json) |
+| Love Palette: Koi-iro Palette | 302253 | [302253-love-palette-koi-iro-palette.json](./302253-love-palette-koi-iro-palette.json) |
 | Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
 | Love Phantom | 98089 | [98089-love-phantom.json](./98089-love-phantom.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
@@ -10214,7 +10159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
 | Love, Elections and Chocolate | 140685 | [140685-love-elections-and-chocolate.json](./140685-love-elections-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
-| Love, Guitars, and the Nashville Skyline | 30532 | [30532-love-guitars-and-the-nashville-skyline.json](./30532-love-guitars-and-the-nashville-skyline.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, I'm Not Good For You | 398915 | [398915-love-im-not-good-for-you.json](./398915-love-im-not-good-for-you.json) |
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
@@ -10527,7 +10471,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
-| Lucadian Chronicles | 34687 | [34687-lucadian-chronicles.json](./34687-lucadian-chronicles.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
 | Lucas the Game | 367761 | [367761-lucas-the-game.json](./367761-lucas-the-game.json) |
@@ -10941,7 +10884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
 | Luke deluxe | 28335 | [28335-luke-deluxe.json](./28335-luke-deluxe.json) |
 | Luke Jump | 412498 | [412498-luke-jump.json](./412498-luke-jump.json) |
-| Luke Sidewalker | 30856 | [30856-luke-sidewalker.json](./30856-luke-sidewalker.json) |
 | Luke The Hybrid | 341188 | [341188-luke-the-hybrid.json](./341188-luke-the-hybrid.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Killer Who May or May Not Be a Moron. | 292760 | [292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json](./292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json) |
@@ -11102,7 +11044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc | 21447 | [21447-luminous-arc.json](./21447-luminous-arc.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
-| Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
 | Luminous Corridor 0 | 134779 | [134779-luminous-corridor-0.json](./134779-luminous-corridor-0.json) |
@@ -11247,7 +11188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
 | Lunar Flowers | 134146 | [134146-lunar-flowers.json](./134146-lunar-flowers.json) |
-| Lunar Genesis: Dragon Song | 85266 | [85266-lunar-genesis-dragon-song.json](./85266-lunar-genesis-dragon-song.json) |
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
@@ -11516,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Goddess | 342791 | [342791-lust-goddess.json](./342791-lust-goddess.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
+| Lust Hostel | 258142 | [258142-lust-hostel.json](./258142-lust-hostel.json) |
 | Lust in Space | 341194 | [341194-lust-in-space.json](./341194-lust-in-space.json) |
 | Lust in Terror Manor | 200546 | [200546-lust-in-terror-manor.json](./200546-lust-in-terror-manor.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
@@ -11621,7 +11562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxor Amun Rising HD | 30153 | [30153-luxor-amun-rising-hd.json](./30153-luxor-amun-rising-hd.json) |
 | Luxor Evolved | 7542 | [7542-luxor-evolved.json](./7542-luxor-evolved.json) |
 | Luxor HD | 35432 | [35432-luxor-hd.json](./35432-luxor-hd.json) |
-| Luxor Pharaoh's Challenge | 42879 | [42879-luxor-pharaohs-challenge.json](./42879-luxor-pharaohs-challenge.json) |
 | Luxor Solitaire | 115524 | [115524-luxor-solitaire.json](./115524-luxor-solitaire.json) |
 | Luxor: Amun Rising | 7538 | [7538-luxor-amun-rising.json](./7538-luxor-amun-rising.json) |
 | Luxor: Mah Jong | 16004 | [16004-luxor-mah-jong.json](./16004-luxor-mah-jong.json) |
