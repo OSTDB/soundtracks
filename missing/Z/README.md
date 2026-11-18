@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroChance | 158760 | [158760-zerochance.json](./158760-zerochance.json) |
 | Zerocron | 201373 | [201373-zerocron.json](./201373-zerocron.json) |
 | ZeroEco | 408367 | [408367-zeroeco.json](./408367-zeroeco.json) |
+| Zeroed | 140653 | [140653-zeroed.json](./140653-zeroed.json) |
 | Zeroed Out | 175321 | [175321-zeroed-out.json](./175321-zeroed-out.json) |
 | Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
 | Zerograve | 132955 | [132955-zerograve.json](./132955-zerograve.json) |
