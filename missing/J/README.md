@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam and the Mystery of the Mysteriously Spooky Mansion | 134098 | [134098-jam-and-the-mystery-of-the-mysteriously-spooky-mansion.json](./134098-jam-and-the-mystery-of-the-mysteriously-spooky-mansion.json) |
 | Jam Band | 84426 | [84426-jam-band.json](./84426-jam-band.json) |
 | Jam City Rollergirls | 85200 | [85200-jam-city-rollergirls.json](./85200-jam-city-rollergirls.json) |
+| Jam Game | 181959 | [181959-jam-game.json](./181959-jam-game.json) |
 | Jam Gods | 211538 | [211538-jam-gods.json](./211538-jam-gods.json) |
 | Jam It | 41178 | [41178-jam-it.json](./41178-jam-it.json) |
 | Jam Jam's Adventure | 105761 | [105761-jam-jams-adventure.json](./105761-jam-jams-adventure.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
 | Jinmu: Kamunagara | 416316 | [416316-jinmu-kamunagara.json](./416316-jinmu-kamunagara.json) |
 | Jinn | 280550 | [280550-jinn.json](./280550-jinn.json) |
+| Jinn Genie: Arabia Mania | 140636 | [140636-jinn-genie-arabia-mania.json](./140636-jinn-genie-arabia-mania.json) |
 | Jinn Hunter | 409908 | [409908-jinn-hunter.json](./409908-jinn-hunter.json) |
 | Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
 | Jinni Zeala Pinball | 204577 | [204577-jinni-zeala-pinball.json](./204577-jinni-zeala-pinball.json) |
@@ -4789,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes | 248573 | [248573-justice-league-heroes.json](./248573-justice-league-heroes.json) |
 | Justice League Heroes | 5872 | [5872-justice-league-heroes.json](./5872-justice-league-heroes.json) |
 | Justice League Heroes: The Flash | 6486 | [6486-justice-league-heroes-the-flash.json](./6486-justice-league-heroes-the-flash.json) |
+| Justice League Legacy | 191921 | [191921-justice-league-legacy.json](./191921-justice-league-legacy.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
 | Justice League: Chronicles | 6485 | [6485-justice-league-chronicles.json](./6485-justice-league-chronicles.json) |
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
