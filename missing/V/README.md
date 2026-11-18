@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR-Xterminator | 32992 | [32992-vr-xterminator.json](./32992-vr-xterminator.json) |
 | VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
 | VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
+| VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
 | VR0GU3 | 33151 | [33151-vr0gu3.json](./33151-vr0gu3.json) |
 | VR2Space | 55428 | [55428-vr2space.json](./55428-vr2space.json) |
 | Vrack Botanicals | 257135 | [257135-vrack-botanicals.json](./257135-vrack-botanicals.json) |
