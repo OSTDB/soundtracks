@@ -9907,6 +9907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Cat 2 | 231050 | [231050-chubby-cat-2.json](./231050-chubby-cat-2.json) |
 | Chubby Cats | 348886 | [348886-chubby-cats.json](./348886-chubby-cats.json) |
 | Chubby Cherub | 48031 | [48031-chubby-cherub.json](./48031-chubby-cherub.json) |
+| Chubby Farm | 429550 | [429550-chubby-farm.json](./429550-chubby-farm.json) |
 | Chubby Gristle | 12002 | [12002-chubby-gristle.json](./12002-chubby-gristle.json) |
 | Chubby Hurdles | 243968 | [243968-chubby-hurdles.json](./243968-chubby-hurdles.json) |
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
@@ -12751,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Works | 6725 | [6725-coaster-works.json](./6725-coaster-works.json) |
 | Coasterama | 372830 | [372830-coasterama.json](./372830-coasterama.json) |
 | CoasterMania | 253164 | [253164-coastermania.json](./253164-coastermania.json) |
+| CoasterWorks | 429576 | [429576-coasterworks.json](./429576-coasterworks.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
@@ -15983,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Year 2 Season Pass - Pickup Truck | 294100 | [294100-construction-simulator-year-2-season-pass-pickup-truck.json](./294100-construction-simulator-year-2-season-pass-pickup-truck.json) |
 | Construction Site Driver | 186578 | [186578-construction-site-driver.json](./186578-construction-site-driver.json) |
 | Construction Site Driver 2 | 223568 | [223568-construction-site-driver-2.json](./223568-construction-site-driver-2.json) |
+| Construction Site: Tidy Up Together | 429567 | [429567-construction-site-tidy-up-together.json](./429567-construction-site-tidy-up-together.json) |
 | Construction Store Simulator | 391445 | [391445-construction-store-simulator.json](./391445-construction-store-simulator.json) |
 | Construction Truck Simulator | 107946 | [107946-construction-truck-simulator.json](./107946-construction-truck-simulator.json) |
 | Construction Worker Simulator | 151102 | [151102-construction-worker-simulator.json](./151102-construction-worker-simulator.json) |
@@ -16764,6 +16767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops | 321871 | [321871-cops.json](./321871-cops.json) |
+| Cops | 429558 | [429558-cops.json](./429558-cops.json) |
 | Cops 'N Robbers | 40278 | [40278-cops-n-robbers.json](./40278-cops-n-robbers.json) |
 | Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
 | Cops & Robbers Jailbreak | 175865 | [175865-cops-and-robbers-jailbreak.json](./175865-cops-and-robbers-jailbreak.json) |
