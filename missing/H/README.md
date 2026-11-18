@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
 | Harold's Walk | 147151 | [147151-harolds-walk.json](./147151-harolds-walk.json) |
 | Harold's Walk | 306569 | [306569-harolds-walk.json](./306569-harolds-walk.json) |
+| Harolds Harem: The Neckoning | 129257 | [129257-harolds-harem-the-neckoning.json](./129257-harolds-harem-the-neckoning.json) |
 | Haron: The Riverside | 188822 | [188822-haron-the-riverside.json](./188822-haron-the-riverside.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harp | 72346 | [72346-harp.json](./72346-harp.json) |
@@ -10317,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Parish: Dead Frequency | 417075 | [417075-hollow-parish-dead-frequency.json](./417075-hollow-parish-dead-frequency.json) |
 | Hollow Park | 203184 | [203184-hollow-park.json](./203184-hollow-park.json) |
 | Hollow Police Emblem: The Visual Novel | 308518 | [308518-hollow-police-emblem-the-visual-novel.json](./308518-hollow-police-emblem-the-visual-novel.json) |
+| Hollow Remnant | 129258 | [129258-hollow-remnant.json](./129258-hollow-remnant.json) |
 | Hollow Sector | 418419 | [418419-hollow-sector.json](./418419-hollow-sector.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
@@ -12219,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
 | Hot Stakes Casino: American Roulette | 360215 | [360215-hot-stakes-casino-american-roulette.json](./360215-hot-stakes-casino-american-roulette.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
+| Hot steel | 129266 | [129266-hot-steel.json](./129266-hot-steel.json) |
 | Hot Sugar Presents: The Melody of Dust | 31317 | [31317-hot-sugar-presents-the-melody-of-dust.json](./31317-hot-sugar-presents-the-melody-of-dust.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
@@ -14291,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dimensional Dynamo | 183919 | [183919-hyper-dimensional-dynamo.json](./183919-hyper-dimensional-dynamo.json) |
 | Hyper DOS | 183327 | [183327-hyper-dos.json](./183327-hyper-dos.json) |
 | Hyper Dots | 362203 | [362203-hyper-dots.json](./362203-hyper-dots.json) |
+| Hyper Dragon Ball Z | 137123 | [137123-hyper-dragon-ball-z.json](./137123-hyper-dragon-ball-z.json) |
 | Hyper Drill | 224612 | [224612-hyper-drill.json](./224612-hyper-drill.json) |
 | Hyper Drive Runner | 303554 | [303554-hyper-drive-runner.json](./303554-hyper-drive-runner.json) |
 | Hyper Drive: The Insane Gravity Race | 51598 | [51598-hyper-drive-the-insane-gravity-race.json](./51598-hyper-drive-the-insane-gravity-race.json) |
