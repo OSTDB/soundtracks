@@ -2817,7 +2817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
-| Farm Frenzy 2: Pizza Party HD | 88536 | [88536-farm-frenzy-2-pizza-party-hd.json](./88536-farm-frenzy-2-pizza-party-hd.json) |
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
@@ -3076,7 +3075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 17: Platinum Edition | 75868 | [75868-farming-simulator-17-platinum-edition.json](./75868-farming-simulator-17-platinum-edition.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 17: Premium Digital Edition | 164622 | [164622-farming-simulator-17-premium-digital-edition.json](./164622-farming-simulator-17-premium-digital-edition.json) |
-| Farming Simulator 17: Ropa Pack | 90136 | [90136-farming-simulator-17-ropa-pack.json](./90136-farming-simulator-17-ropa-pack.json) |
 | Farming Simulator 18 | 41027 | [41027-farming-simulator-18.json](./41027-farming-simulator-18.json) |
 | Farming Simulator 19 | 87210 | [87210-farming-simulator-19.json](./87210-farming-simulator-19.json) |
 | Farming Simulator 19: Alpine Farming | 142604 | [142604-farming-simulator-19-alpine-farming.json](./142604-farming-simulator-19-alpine-farming.json) |
@@ -5544,7 +5542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
 | Filthy Frank Kart | 122580 | [122580-filthy-frank-kart.json](./122580-filthy-frank-kart.json) |
-| Filthy Hands | 90306 | [90306-filthy-hands.json](./90306-filthy-hands.json) |
 | Filthy Lucre | 19590 | [19590-filthy-lucre.json](./19590-filthy-lucre.json) |
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
 | Filthy Us: Complete Edition | 274836 | [274836-filthy-us-complete-edition.json](./274836-filthy-us-complete-edition.json) |
@@ -5576,7 +5573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
-| Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
 | Final B Cut | 255424 | [255424-final-b-cut.json](./255424-final-b-cut.json) |
 | Final Battle | 76376 | [76376-final-battle.json](./76376-final-battle.json) |
 | Final Battle in Zhifudao | 415755 | [415755-final-battle-in-zhifudao.json](./415755-final-battle-in-zhifudao.json) |
@@ -8136,7 +8132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Stalin | 240674 | [240674-five-nights-at-stalin.json](./240674-five-nights-at-stalin.json) |
 | Five Nights at Starry | 256687 | [256687-five-nights-at-starry.json](./256687-five-nights-at-starry.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
-| Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
 | Five Nights at the Chum Bucket | 359212 | [359212-five-nights-at-the-chum-bucket.json](./359212-five-nights-at-the-chum-bucket.json) |
 | Five Nights at Tinky's | 236046 | [236046-five-nights-at-tinkys.json](./236046-five-nights-at-tinkys.json) |
 | Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
@@ -9101,7 +9096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip-it & Magnose | 79067 | [79067-flip-it-and-magnose.json](./79067-flip-it-and-magnose.json) |
 | Flip-Out! | 128031 | [128031-flip-out.json](./128031-flip-out.json) |
-| Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
 | Flip's Twisted World | 4857 | [4857-flips-twisted-world.json](./4857-flips-twisted-world.json) |
@@ -12978,7 +12972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framing Dawes | 126916 | [126916-framing-dawes.json](./126916-framing-dawes.json) |
 | Framing Summer | 130513 | [130513-framing-summer.json](./130513-framing-summer.json) |
 | Fran Bow | 11821 | [11821-fran-bow.json](./11821-fran-bow.json) |
-| Fran Bow Chapter 1 | 90962 | [90962-fran-bow-chapter-1.json](./90962-fran-bow-chapter-1.json) |
 | Fran Bow Chapter 4 | 91996 | [91996-fran-bow-chapter-4.json](./91996-fran-bow-chapter-4.json) |
 | Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
 | France '14 | 59184 | [59184-france-14.json](./59184-france-14.json) |
@@ -13946,7 +13939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 5 | 281650 | [281650-fritz-5.json](./281650-fritz-5.json) |
 | Fritz 6 | 281655 | [281655-fritz-6.json](./281655-fritz-6.json) |
-| Fritz 8 | 93016 | [93016-fritz-8.json](./93016-fritz-8.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz Chess | 4874 | [4874-fritz-chess.json](./4874-fritz-chess.json) |
 | Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
@@ -15202,7 +15194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
-| Fully Loaded Collector's Pack - Awesomenauts Assemble! Game Bundle | 90662 | [90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json](./90662-fully-loaded-collectors-pack-awesomenauts-assemble-game-bundle.json) |
 | fullybroKen | 171359 | [171359-fullybroken.json](./171359-fullybroken.json) |
 | FullyBroken: Old Dawn | 195830 | [195830-fullybroken-old-dawn.json](./195830-fullybroken-old-dawn.json) |
 | Fullybroken: Way Home | 231677 | [231677-fullybroken-way-home.json](./231677-fullybroken-way-home.json) |
