@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veilcrest: Trial of The Arcane | 305661 | [305661-veilcrest-trial-of-the-arcane.json](./305661-veilcrest-trial-of-the-arcane.json) |
 | Veiled | 134795 | [134795-veiled.json](./134795-veiled.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
+| Veiled | 429581 | [429581-veiled.json](./429581-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
 | Veiled Experts | 182414 | [182414-veiled-experts.json](./182414-veiled-experts.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Tennis but the Computer Asks About Your Ex-Girlfriend | 177413 | [177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json](./177413-video-tennis-but-the-computer-asks-about-your-ex-girlfriend.json) |
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video World | 142746 | [142746-video-world.json](./142746-video-world.json) |
+| Video.8 | 429578 | [429578-video-8.json](./429578-video-8.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | VideoBall | 19607 | [19607-videoball.json](./19607-videoball.json) |
 | Videocart 20 - Schach | 18586 | [18586-videocart-20-schach.json](./18586-videocart-20-schach.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom! | 165215 | [165215-vroom.json](./165215-vroom.json) |
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
+| Vroomity Loops | 429592 | [429592-vroomity-loops.json](./429592-vroomity-loops.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
 | vRotors Be There | 133601 | [133601-vrotors-be-there.json](./133601-vrotors-be-there.json) |
 | vRotors Racing | 133599 | [133599-vrotors-racing.json](./133599-vrotors-racing.json) |
