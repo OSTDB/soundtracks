@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T03:55:58.402Z",
-  "total_soundtracks": 3837,
+  "generated_at": "2026-11-18T05:15:56.803Z",
+  "total_soundtracks": 3838,
   "games": [
     {
       "igdb_id": 292844,
@@ -35159,6 +35159,20 @@
         {
           "album_name": "Serious Sam's Bogus Detour (Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/07adXMI0SzNbEzMc7FW2EL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 23440,
+      "game_name": "Serpent in the Staglands",
+      "game_url": "https://ostdb.net/games/serpent-in-the-staglands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d7a738cb83d4c0553fa6bbd5",
+      "albums": [
+        {
+          "album_name": "Serpent in the Staglands (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/04bLuQkPiilHpPxgKeDEV7",
           "apple_music_url": "",
           "album_link_url": ""
         }
