@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zavas | 232825 | [232825-zavas.json](./232825-zavas.json) |
 | Zavas II: The Prophecy of Mehitae | 232826 | [232826-zavas-ii-the-prophecy-of-mehitae.json](./232826-zavas-ii-the-prophecy-of-mehitae.json) |
 | Zaviga | 40567 | [40567-zaviga.json](./40567-zaviga.json) |
+| Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
 | Zavod | 331602 | [331602-zavod.json](./331602-zavod.json) |
 | Zavod | 367584 | [367584-zavod.json](./367584-zavod.json) |
 | Zavod: Conveyor Logic | 298623 | [298623-zavod-conveyor-logic.json](./298623-zavod-conveyor-logic.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombMe | 343795 | [343795-zombme.json](./343795-zombme.json) |
 | Zombnami | 308921 | [308921-zombnami.json](./308921-zombnami.json) |
 | Zombo Buster Advance | 138393 | [138393-zombo-buster-advance.json](./138393-zombo-buster-advance.json) |
+| Zombo Buster Rising | 24823 | [24823-zombo-buster-rising.json](./24823-zombo-buster-rising.json) |
 | Zomboard | 336055 | [336055-zomboard.json](./336055-zomboard.json) |
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345383 | [345383-zombocalypse.json](./345383-zombocalypse.json) |
