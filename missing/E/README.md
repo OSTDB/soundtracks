@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliot: Teddy Bear has Disappeared! | 137138 | [137138-eliot-teddy-bear-has-disappeared.json](./137138-eliot-teddy-bear-has-disappeared.json) |
 | Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
 | Elisa Dragon Hunter | 192527 | [192527-elisa-dragon-hunter.json](./192527-elisa-dragon-hunter.json) |
+| Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elisabeth I. | 94444 | [94444-elisabeth-i.json](./94444-elisabeth-i.json) |
 | Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
@@ -8187,6 +8188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: Hail to the King | 47078 | [47078-evil-dead-hail-to-the-king.json](./47078-evil-dead-hail-to-the-king.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 141544 | [141544-evil-dead-the-game.json](./141544-evil-dead-the-game.json) |
+| Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - 2013 bundle | 227340 | [227340-evil-dead-the-game-2013-bundle.json](./227340-evil-dead-the-game-2013-bundle.json) |
 | Evil Dead: The Game - Army of Darkness Bundle | 227341 | [227341-evil-dead-the-game-army-of-darkness-bundle.json](./227341-evil-dead-the-game-army-of-darkness-bundle.json) |
 | Evil Dead: The Game - Deluxe Edition | 192308 | [192308-evil-dead-the-game-deluxe-edition.json](./192308-evil-dead-the-game-deluxe-edition.json) |
