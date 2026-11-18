@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Bowling | 38535 | [38535-capcom-bowling.json](./38535-capcom-bowling.json) |
 | Capcom Classics Collection | 21438 | [21438-capcom-classics-collection.json](./21438-capcom-classics-collection.json) |
 | Capcom Classics Collection Reloaded | 23099 | [23099-capcom-classics-collection-reloaded.json](./23099-capcom-classics-collection-reloaded.json) |
+| Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Classics Dual Pack: Remixed and Reloaded | 419118 | [419118-capcom-classics-dual-pack-remixed-and-reloaded.json](./419118-capcom-classics-dual-pack-remixed-and-reloaded.json) |
 | Capcom Classics Mini Mix | 49192 | [49192-capcom-classics-mini-mix.json](./49192-capcom-classics-mini-mix.json) |
@@ -10094,6 +10095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
+| Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
 | CID: The Dummy | 4765 | [4765-cid-the-dummy.json](./4765-cid-the-dummy.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Fledge | 75431 | [75431-ciel-fledge.json](./75431-ciel-fledge.json) |
@@ -22255,6 +22257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubo | 346290 | [346290-cubo.json](./346290-cubo.json) |
 | Cubo ao Topo | 167348 | [167348-cubo-ao-topo.json](./167348-cubo-ao-topo.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
+| Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboid Bouncer | 151618 | [151618-cuboid-bouncer.json](./151618-cuboid-bouncer.json) |
 | Cuboid Keeper | 110630 | [110630-cuboid-keeper.json](./110630-cuboid-keeper.json) |
 | Cuboid Sandbox | 418301 | [418301-cuboid-sandbox.json](./418301-cuboid-sandbox.json) |
