@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pallet Panic | 273786 | [273786-pallet-panic.json](./273786-pallet-panic.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Pallurikio | 67222 | [67222-pallurikio.json](./67222-pallurikio.json) |
+| Palm City | 416303 | [416303-palm-city.json](./416303-palm-city.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
 | Palm House Pursuit | 284706 | [284706-palm-house-pursuit.json](./284706-palm-house-pursuit.json) |
 | Palm Kingdoms 2 Deluxe | 54260 | [54260-palm-kingdoms-2-deluxe.json](./54260-palm-kingdoms-2-deluxe.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Adventures | 23372 | [23372-pang-adventures.json](./23372-pang-adventures.json) |
 | Pang Adventures: Buster Edition | 139846 | [139846-pang-adventures-buster-edition.json](./139846-pang-adventures-buster-edition.json) |
+| Pang in Time | 416313 | [416313-pang-in-time.json](./416313-pang-in-time.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
@@ -5633,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
+| Petal Panic | 414640 | [414640-petal-panic.json](./414640-petal-panic.json) |
 | Petal Quest | 404038 | [404038-petal-quest.json](./404038-petal-quest.json) |
 | Petal Runner | 305031 | [305031-petal-runner.json](./305031-petal-runner.json) |
 | Petal to the Metal | 141957 | [141957-petal-to-the-metal.json](./141957-petal-to-the-metal.json) |
@@ -6099,7 +6102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom Breaker: Extra | 43038 | [43038-phantom-breaker-extra.json](./43038-phantom-breaker-extra.json) |
 | Phantom Breaker: Omnia | 140090 | [140090-phantom-breaker-omnia.json](./140090-phantom-breaker-omnia.json) |
-| Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
@@ -6534,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone in Mouth | 128756 | [128756-phone-in-mouth.json](./128756-phone-in-mouth.json) |
 | Phone Seller Simulator | 201893 | [201893-phone-seller-simulator.json](./201893-phone-seller-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
+| Phonegame | 415450 | [415450-phonegame.json](./415450-phonegame.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
 | Phones Not Allowed | 226044 | [226044-phones-not-allowed.json](./226044-phones-not-allowed.json) |
 | Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
@@ -10027,6 +10030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
 | Piximalism | 30010 | [30010-piximalism.json](./30010-piximalism.json) |
 | PixKeeper | 151314 | [151314-pixkeeper.json](./151314-pixkeeper.json) |
+| PixL War | 414552 | [414552-pixl-war.json](./414552-pixl-war.json) |
 | Pixlaria | 420942 | [420942-pixlaria.json](./420942-pixlaria.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
@@ -14712,6 +14716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopUp Blockers - Block Web Browser Simulator 2k16 | 100994 | [100994-popup-blockers-block-web-browser-simulator-2k16.json](./100994-popup-blockers-block-web-browser-simulator-2k16.json) |
 | Popup Dungeon | 82531 | [82531-popup-dungeon.json](./82531-popup-dungeon.json) |
 | Popup.exe | 398504 | [398504-popup-exe.json](./398504-popup-exe.json) |
+| PopyAlive | 416319 | [416319-popyalive.json](./416319-popyalive.json) |
 | Por um Punhado de Trólares | 298405 | [298405-por-um-punhado-de-trolares.json](./298405-por-um-punhado-de-trolares.json) |
 | Poradora vs. Monsters of the World | 324015 | [324015-poradora-vs-monsters-of-the-world.json](./324015-poradora-vs-monsters-of-the-world.json) |
 | Poramid | 185438 | [185438-poramid.json](./185438-poramid.json) |
@@ -16791,6 +16796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prismhold | 424143 | [424143-prismhold.json](./424143-prismhold.json) |
 | PrismNeedle | 323000 | [323000-prismneedle.json](./323000-prismneedle.json) |
+| Prismz | 414534 | [414534-prismz.json](./414534-prismz.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
 | Prison | 348595 | [348595-prison.json](./348595-prison.json) |
 | Prison | 74558 | [74558-prison.json](./74558-prison.json) |
@@ -21256,9 +21262,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Underwater Kingdom | 112453 | [112453-puzzles-for-smart-underwater-kingdom.json](./112453-puzzles-for-smart-underwater-kingdom.json) |
 | Puzzles for Toddlers & Kids: Animals, Cars and more | 147707 | [147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json](./147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
+| Puzzles Fruit | 415548 | [415548-puzzles-fruit.json](./415548-puzzles-fruit.json) |
 | Puzzles in Otter Space | 381530 | [381530-puzzles-in-otter-space.json](./381530-puzzles-in-otter-space.json) |
+| Puzzles Magic | 415547 | [415547-puzzles-magic.json](./415547-puzzles-magic.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
+| Puzzles Snow | 415546 | [415546-puzzles-snow.json](./415546-puzzles-snow.json) |
 | Puzzles Trees | 428145 | [428145-puzzles-trees.json](./428145-puzzles-trees.json) |
 | Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
