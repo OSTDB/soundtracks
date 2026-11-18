@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Spring: A Story Cast in Bronze | 423396 | [423396-bamboo-spring-a-story-cast-in-bronze.json](./423396-bamboo-spring-a-story-cast-in-bronze.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamboozle! | 409790 | [409790-bamboozle.json](./409790-bamboozle.json) |
+| Bambuzle | 429551 | [429551-bambuzle.json](./429551-bambuzle.json) |
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Bamsing | 18825 | [18825-bamsing.json](./18825-bamsing.json) |
@@ -17725,6 +17726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickbuster | 77190 | [77190-brickbuster.json](./77190-brickbuster.json) |
 | Brickdown | 184741 | [184741-brickdown.json](./184741-brickdown.json) |
 | Brickerang | 413591 | [413591-brickerang.json](./413591-brickerang.json) |
+| Brickfall | 429598 | [429598-brickfall.json](./429598-brickfall.json) |
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | Brickfest | 97192 | [97192-brickfest.json](./97192-brickfest.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
