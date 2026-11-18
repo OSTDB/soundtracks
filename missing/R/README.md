@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Kings | 174929 | [174929-race-kings.json](./174929-race-kings.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
+| Race Mania | 72842 | [72842-race-mania.json](./72842-race-mania.json) |
 | Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
 | Race Master 3D | 421332 | [421332-race-master-3d.json](./421332-race-master-3d.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Backflips | 104575 | [104575-ragdoll-backflips.json](./104575-ragdoll-backflips.json) |
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
+| Ragdoll Blaster 3 | 22857 | [22857-ragdoll-blaster-3.json](./22857-ragdoll-blaster-3.json) |
 | Ragdoll Boxing Multiplayer | 360670 | [360670-ragdoll-boxing-multiplayer.json](./360670-ragdoll-boxing-multiplayer.json) |
 | Ragdoll Boxing: Match of the Century | 106833 | [106833-ragdoll-boxing-match-of-the-century.json](./106833-ragdoll-boxing-match-of-the-century.json) |
 | Ragdoll Cannon | 316711 | [316711-ragdoll-cannon.json](./316711-ragdoll-cannon.json) |
@@ -1184,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raider Kid and the Ruby Chest | 130287 | [130287-raider-kid-and-the-ruby-chest.json](./130287-raider-kid-and-the-ruby-chest.json) |
 | Raider: Dark Age | 261753 | [261753-raider-dark-age.json](./261753-raider-dark-age.json) |
 | Raider: Episode 1 | 80265 | [80265-raider-episode-1.json](./80265-raider-episode-1.json) |
+| Raider: Episode 2 | 61779 | [61779-raider-episode-2.json](./61779-raider-episode-2.json) |
 | Raider: Origin | 174682 | [174682-raider-origin.json](./174682-raider-origin.json) |
 | Raider's Saga | 307014 | [307014-raiders-saga.json](./307014-raiders-saga.json) |
 | Raiders 1941 | 406812 | [406812-raiders-1941.json](./406812-raiders-1941.json) |
@@ -4050,6 +4053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Getaway | 62940 | [62940-reckless-getaway.json](./62940-reckless-getaway.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
 | Reckless Racing | 38702 | [38702-reckless-racing.json](./38702-reckless-racing.json) |
+| Reckless Racing 2 | 22884 | [22884-reckless-racing-2.json](./22884-reckless-racing-2.json) |
 | Reckless Racing 3 | 39265 | [39265-reckless-racing-3.json](./39265-reckless-racing-3.json) |
 | Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reckless Racing Ultimate | 64555 | [64555-reckless-racing-ultimate.json](./64555-reckless-racing-ultimate.json) |
@@ -4529,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy The LegenDairy Quest | 309388 | [309388-red-nose-guy-the-legendairy-quest.json](./309388-red-nose-guy-the-legendairy-quest.json) |
 | Red November | 93637 | [93637-red-november.json](./93637-red-november.json) |
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
+| Red Number: Prologue | 55419 | [55419-red-number-prologue.json](./55419-red-number-prologue.json) |
 | Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
 | Red Ocean | 50918 | [50918-red-ocean.json](./50918-red-ocean.json) |
@@ -5757,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remove | 278749 | [278749-remove.json](./278749-remove.json) |
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
+| reMovem | 72839 | [72839-removem.json](./72839-removem.json) |
 | Remuage - MeltySensation | 127012 | [127012-remuage-meltysensation.json](./127012-remuage-meltysensation.json) |
 | Remute: Decoder | 321799 | [321799-remute-decoder.json](./321799-remute-decoder.json) |
 | Remute: Dreammachine | 321802 | [321802-remute-dreammachine.json](./321802-remute-dreammachine.json) |
@@ -6925,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Racers | 180039 | [180039-retro-racers.json](./180039-retro-racers.json) |
 | Retro Racers | 364792 | [364792-retro-racers.json](./364792-retro-racers.json) |
 | Retro Racers 2 | 104960 | [104960-retro-racers-2.json](./104960-retro-racers-2.json) |
+| Retro Racing | 22853 | [22853-retro-racing.json](./22853-retro-racing.json) |
 | Retro Racing 2 | 373614 | [373614-retro-racing-2.json](./373614-retro-racing-2.json) |
 | Retro Racing Bundle | 223749 | [223749-retro-racing-bundle.json](./223749-retro-racing-bundle.json) |
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
@@ -10187,6 +10194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Fury: Mech Combat Simulator | 326366 | [326366-robot-fury-mech-combat-simulator.json](./326366-robot-fury-mech-combat-simulator.json) |
 | Robot Girl's Dream: Robot Battle Championship | 291794 | [291794-robot-girls-dream-robot-battle-championship.json](./291794-robot-girls-dream-robot-battle-championship.json) |
 | Robot Girls Z Online | 61535 | [61535-robot-girls-z-online.json](./61535-robot-girls-z-online.json) |
+| Robot Heroes | 55376 | [55376-robot-heroes.json](./55376-robot-heroes.json) |
 | Robot Hospice | 342219 | [342219-robot-hospice.json](./342219-robot-hospice.json) |
 | Robot Hunt | 324661 | [324661-robot-hunt.json](./324661-robot-hunt.json) |
 | Robot II: Das Labyrinth im Wald | 71314 | [71314-robot-ii-das-labyrinth-im-wald.json](./71314-robot-ii-das-labyrinth-im-wald.json) |
