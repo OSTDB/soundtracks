@@ -8983,7 +8983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivo | 132136 | [132136-pivo.json](./132136-pivo.json) |
 | Pivot | 127500 | [127500-pivot.json](./127500-pivot.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
-| Pivot Pilot | 30048 | [30048-pivot-pilot.json](./30048-pivot-pilot.json) |
 | Pivot Puzzles | 65780 | [65780-pivot-puzzles.json](./65780-pivot-puzzles.json) |
 | Pivotal | 176151 | [176151-pivotal.json](./176151-pivotal.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
