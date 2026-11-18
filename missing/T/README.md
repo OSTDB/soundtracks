@@ -9264,6 +9264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
 | The Descent of King Hesper | 413412 | [413412-the-descent-of-king-hesper.json](./413412-the-descent-of-king-hesper.json) |
 | The Descent of the Serpent | 230178 | [230178-the-descent-of-the-serpent.json](./230178-the-descent-of-the-serpent.json) |
+| The Descent VR | 336795 | [336795-the-descent-vr.json](./336795-the-descent-vr.json) |
 | The Desecration | 25330 | [25330-the-desecration.json](./25330-the-desecration.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Design | 185752 | [185752-the-design.json](./185752-the-design.json) |
@@ -14216,6 +14217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
 | The Legend of the Last Dragon | 180952 | [180952-the-legend-of-the-last-dragon.json](./180952-the-legend-of-the-last-dragon.json) |
+| The Legend of the Lost Temple | 332720 | [332720-the-legend-of-the-lost-temple.json](./332720-the-legend-of-the-lost-temple.json) |
 | The Legend of the Prophet & the Assassin | 125010 | [125010-the-legend-of-the-prophet-and-the-assassin.json](./125010-the-legend-of-the-prophet-and-the-assassin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
 | The Legend of the Radient Mask 2 | 250066 | [250066-the-legend-of-the-radient-mask-2.json](./250066-the-legend-of-the-radient-mask-2.json) |
@@ -35441,6 +35443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Treats | 103885 | [103885-tropical-treats.json](./103885-tropical-treats.json) |
 | Tropical Trouble | 18589 | [18589-tropical-trouble.json](./18589-tropical-trouble.json) |
 | Tropical Wars | 58673 | [58673-tropical-wars.json](./58673-tropical-wars.json) |
+| Tropicali | 336775 | [336775-tropicali.json](./336775-tropicali.json) |
 | Tropicalia | 138612 | [138612-tropicalia.json](./138612-tropicalia.json) |
 | Tropicania | 429517 | [429517-tropicania.json](./429517-tropicania.json) |
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
@@ -36964,6 +36967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle's Quest | 106229 | [106229-turtles-quest.json](./106229-turtles-quest.json) |
 | TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
 | TurtleQuest | 259796 | [259796-turtlequest.json](./259796-turtlequest.json) |
+| TurtleRun | 336797 | [336797-turtlerun.json](./336797-turtlerun.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 245604 | [245604-turtles.json](./245604-turtles.json) |
 | Turtles | 281200 | [281200-turtles.json](./281200-turtles.json) |
