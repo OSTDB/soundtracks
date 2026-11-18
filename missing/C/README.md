@@ -10002,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chup's Quest | 243946 | [243946-chups-quest.json](./243946-chups-quest.json) |
 | Chupa Chupa VR | 143218 | [143218-chupa-chupa-vr.json](./143218-chupa-chupa-vr.json) |
 | Chupacabra | 59225 | [59225-chupacabra.json](./59225-chupacabra.json) |
+| Chupacabra Hunt | 336799 | [336799-chupacabra-hunt.json](./336799-chupacabra-hunt.json) |
 | Chupacabras: Night Hunt | 163904 | [163904-chupacabras-night-hunt.json](./163904-chupacabras-night-hunt.json) |
 | Chura-jima Kurashi | 288926 | [288926-chura-jima-kurashi.json](./288926-chura-jima-kurashi.json) |
 | Chura-umi Monogatari | 292139 | [292139-chura-umi-monogatari.json](./292139-chura-umi-monogatari.json) |
@@ -18838,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Race | 157809 | [157809-crash-race.json](./157809-crash-race.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
 | Crash Relay | 418645 | [418645-crash-relay.json](./418645-crash-relay.json) |
+| Crash Site | 332718 | [332718-crash-site.json](./332718-crash-site.json) |
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
 | Crash Superpack: Crash Bandicoot 2: N-Tranced / Crash Nitro Kart | 76848 | [76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json](./76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
@@ -19091,6 +19093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Athletics: Summer Sports and Games | 192414 | [192414-crazy-athletics-summer-sports-and-games.json](./192414-crazy-athletics-summer-sports-and-games.json) |
 | Crazy Ball | 285175 | [285175-crazy-ball.json](./285175-crazy-ball.json) |
+| Crazy Ball | 332707 | [332707-crazy-ball.json](./332707-crazy-ball.json) |
 | Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Ball Racing | 127520 | [127520-crazy-ball-racing.json](./127520-crazy-ball-racing.json) |
