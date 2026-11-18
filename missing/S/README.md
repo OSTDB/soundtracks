@@ -9123,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelved | 422069 | [422069-shelved.json](./422069-shelved.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shelves and Sorcery: Too Many Potions! | 429467 | [429467-shelves-and-sorcery-too-many-potions.json](./429467-shelves-and-sorcery-too-many-potions.json) |
+| Shelves and Sorcery: Too Many Weapons! | 429566 | [429566-shelves-and-sorcery-too-many-weapons.json](./429566-shelves-and-sorcery-too-many-weapons.json) |
 | Shem Ha Mephorash | 167435 | [167435-shem-ha-mephorash.json](./167435-shem-ha-mephorash.json) |
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Guǐ Jiàngshì | 131683 | [131683-shen-gui-jiangshi.json](./131683-shen-gui-jiangshi.json) |
@@ -15752,6 +15753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Time | 377347 | [377347-slime-time.json](./377347-slime-time.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
+| Slime to Me | 429552 | [429552-slime-to-me.json](./429552-slime-to-me.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Town | 372906 | [372906-slime-town.json](./372906-slime-town.json) |
 | Slime Trader | 421695 | [421695-slime-trader.json](./421695-slime-trader.json) |
@@ -19653,6 +19655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Lost | 120486 | [120486-songs-of-the-lost.json](./120486-songs-of-the-lost.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
+| Songs of the Shore | 429585 | [429585-songs-of-the-shore.json](./429585-songs-of-the-shore.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
 | Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
@@ -21070,6 +21073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort 'Em | 29445 | [29445-sort-em.json](./29445-sort-em.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
+| Sort Coins Together | 429572 | [429572-sort-coins-together.json](./429572-sort-coins-together.json) |
 | Sort Em All | 345264 | [345264-sort-em-all.json](./345264-sort-em-all.json) |
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
 | Sort Inc. | 423077 | [423077-sort-inc.json](./423077-sort-inc.json) |
@@ -29978,6 +29982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Panthers: World at War! | 14468 | [14468-steel-panthers-world-at-war.json](./14468-steel-panthers-world-at-war.json) |
 | Steel Panthers: World War 2 | 14467 | [14467-steel-panthers-world-war-2.json](./14467-steel-panthers-world-war-2.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
+| Steel Platoon | 429582 | [429582-steel-platoon.json](./429582-steel-platoon.json) |
 | Steel Princess | 410616 | [410616-steel-princess.json](./410616-steel-princess.json) |
 | Steel Punk Ball | 52071 | [52071-steel-punk-ball.json](./52071-steel-punk-ball.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
@@ -34424,6 +34429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Trick or Treat Pack | 272917 | [272917-sun-haven-trick-or-treat-pack.json](./272917-sun-haven-trick-or-treat-pack.json) |
 | Sun In The Shade | 288417 | [288417-sun-in-the-shade.json](./288417-sun-in-the-shade.json) |
 | Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
+| Sun Is Lava | 429569 | [429569-sun-is-lava.json](./429569-sun-is-lava.json) |
 | Sun Lotion On My Curvy Asscheeks | 262269 | [262269-sun-lotion-on-my-curvy-asscheeks.json](./262269-sun-lotion-on-my-curvy-asscheeks.json) |
 | Sun Machine | 139538 | [139538-sun-machine.json](./139538-sun-machine.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
@@ -38338,6 +38344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | SuperChess | 80293 | [80293-superchess.json](./80293-superchess.json) |
 | Superchix '76 | 137231 | [137231-superchix-76.json](./137231-superchix-76.json) |
+| SuperCitycon | 429594 | [429594-supercitycon.json](./429594-supercitycon.json) |
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperColony | 216906 | [216906-supercolony.json](./216906-supercolony.json) |
