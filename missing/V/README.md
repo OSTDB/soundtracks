@@ -272,6 +272,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaitz Blade | 37469 | [37469-vaitz-blade.json](./37469-vaitz-blade.json) |
 | Vajimon | 145775 | [145775-vajimon.json](./145775-vajimon.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
+| Vajra | 92172 | [92172-vajra.json](./92172-vajra.json) |
+| Vajra Ni | 92174 | [92174-vajra-ni.json](./92174-vajra-ni.json) |
 | Val and Rick | 50411 | [50411-val-and-rick.json](./50411-val-and-rick.json) |
 | Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
@@ -1402,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
 | Vektor Prix | 60712 | [60712-vektor-prix.json](./60712-vektor-prix.json) |
+| Vektor Tank | 79425 | [79425-vektor-tank.json](./79425-vektor-tank.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektor Wars | 35359 | [35359-vektor-wars.json](./35359-vektor-wars.json) |
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
@@ -4406,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hockey League | 72515 | [72515-vr-hockey-league.json](./72515-vr-hockey-league.json) |
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
 | VR Horror | 99273 | [99273-vr-horror.json](./99273-vr-horror.json) |
+| VR Horror Hospital Ultimate | 106029 | [106029-vr-horror-hospital-ultimate.json](./106029-vr-horror-hospital-ultimate.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
 | VR Hot | 171128 | [171128-vr-hot.json](./171128-vr-hot.json) |
 | VR Hourse Racing Sweetie | 384450 | [384450-vr-hourse-racing-sweetie.json](./384450-vr-hourse-racing-sweetie.json) |
