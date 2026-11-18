@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Satan | 283109 | [283109-sad-satan.json](./283109-sad-satan.json) |
 | Sad Virus | 367548 | [367548-sad-virus.json](./367548-sad-virus.json) |
 | Sad Virus Asia | 403181 | [403181-sad-virus-asia.json](./403181-sad-virus-asia.json) |
+| Sad Virus Castle | 397315 | [397315-sad-virus-castle.json](./397315-sad-virus-castle.json) |
 | Sad Virus Cave | 397647 | [397647-sad-virus-cave.json](./397647-sad-virus-cave.json) |
 | Sad Virus Darkland | 412510 | [412510-sad-virus-darkland.json](./412510-sad-virus-darkland.json) |
 | Sad Virus Deathland | 377630 | [377630-sad-virus-deathland.json](./377630-sad-virus-deathland.json) |
@@ -10370,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot The Box | 410710 | [410710-shoot-the-box.json](./410710-shoot-the-box.json) |
 | Shoot the Bubbles Deluxe | 25839 | [25839-shoot-the-bubbles-deluxe.json](./25839-shoot-the-bubbles-deluxe.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
+| Shoot the Goof | 397303 | [397303-shoot-the-goof.json](./397303-shoot-the-goof.json) |
 | Shoot The Moon | 344028 | [344028-shoot-the-moon.json](./344028-shoot-the-moon.json) |
 | Shoot the Rapids | 317768 | [317768-shoot-the-rapids.json](./317768-shoot-the-rapids.json) |
 | Shoot the Roach | 71631 | [71631-shoot-the-roach.json](./71631-shoot-the-roach.json) |
@@ -30705,6 +30707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stockcars Unleashed 2 | 95758 | [95758-stockcars-unleashed-2.json](./95758-stockcars-unleashed-2.json) |
 | Stocker | 40441 | [40441-stocker.json](./40441-stocker.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
+| Stockle | 394839 | [394839-stockle.json](./394839-stockle.json) |
 | Stockpile | 109839 | [109839-stockpile.json](./109839-stockpile.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | Stocks: Main Force Simulator | 374337 | [374337-stocks-main-force-simulator.json](./374337-stocks-main-force-simulator.json) |
