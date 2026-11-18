@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator | 145134 | [145134-lawn-mowing-simulator.json](./145134-lawn-mowing-simulator.json) |
 | Lawn Mowing Simulator 2 | 375076 | [375076-lawn-mowing-simulator-2.json](./375076-lawn-mowing-simulator-2.json) |
+| Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
 | Lawn Mowing Simulator: Ancient Britain | 196062 | [196062-lawn-mowing-simulator-ancient-britain.json](./196062-lawn-mowing-simulator-ancient-britain.json) |
 | Lawn Mowing Simulator: Dino Safari | 196154 | [196154-lawn-mowing-simulator-dino-safari.json](./196154-lawn-mowing-simulator-dino-safari.json) |
 | Lawn Mowing Simulator: Landmark Edition | 201779 | [201779-lawn-mowing-simulator-landmark-edition.json](./201779-lawn-mowing-simulator-landmark-edition.json) |
@@ -7512,6 +7513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Llamalandia | 258002 | [258002-llamalandia.json](./258002-llamalandia.json) |
 | LlamaRPG: Farm to Fable | 294633 | [294633-llamarpg-farm-to-fable.json](./294633-llamarpg-farm-to-fable.json) |
 | Llamas With Hats: Cruise Catastrophe | 63336 | [63336-llamas-with-hats-cruise-catastrophe.json](./63336-llamas-with-hats-cruise-catastrophe.json) |
+| Llamasoft: The Jeff Minter Story | 279367 | [279367-llamasoft-the-jeff-minter-story.json](./279367-llamasoft-the-jeff-minter-story.json) |
 | LlamaTangle | 204214 | [204214-llamatangle.json](./204214-llamatangle.json) |
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
