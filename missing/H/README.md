@@ -6745,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Evolution | 105481 | [105481-hero-evolution.json](./105481-hero-evolution.json) |
 | Hero Express | 120041 | [120041-hero-express.json](./120041-hero-express.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
+| Hero Fighter X | 140644 | [140644-hero-fighter-x.json](./140644-hero-fighter-x.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Fodder | 224673 | [224673-hero-fodder.json](./224673-hero-fodder.json) |
 | Hero for Hire | 192248 | [192248-hero-for-hire.json](./192248-hero-for-hire.json) |
