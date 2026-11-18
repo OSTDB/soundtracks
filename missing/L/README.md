@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | Lasercade | 282786 | [282786-lasercade.json](./282786-lasercade.json) |
+| LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserface | 183688 | [183688-laserface.json](./183688-laserface.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Astravia | 144659 | [144659-legends-of-astravia.json](./144659-legends-of-astravia.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
 | Legends of Awen: Rise of The Fianna | 324589 | [324589-legends-of-awen-rise-of-the-fianna.json](./324589-legends-of-awen-rise-of-the-fianna.json) |
+| Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Bezogia | 246145 | [246145-legends-of-bezogia.json](./246145-legends-of-bezogia.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
