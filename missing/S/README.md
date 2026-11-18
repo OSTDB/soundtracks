@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row 2 | 198115 | [198115-saints-row-2.json](./198115-saints-row-2.json) |
 | Saints Row 2: Corporate Warfare | 135485 | [135485-saints-row-2-corporate-warfare.json](./135485-saints-row-2-corporate-warfare.json) |
 | Saints Row 2: Ultimate Edition | 99971 | [99971-saints-row-2-ultimate-edition.json](./99971-saints-row-2-ultimate-edition.json) |
+| Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
 | Saints Row IV - Reverse Cosplay Pack | 93892 | [93892-saints-row-iv-reverse-cosplay-pack.json](./93892-saints-row-iv-reverse-cosplay-pack.json) |
 | Saints Row IV: 100% Uncut | 53572 | [53572-saints-row-iv-100-uncut.json](./53572-saints-row-iv-100-uncut.json) |
@@ -2229,6 +2230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santorini: Pocket Game | 200268 | [200268-santorini-pocket-game.json](./200268-santorini-pocket-game.json) |
 | Santria | 142619 | [142619-santria.json](./142619-santria.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
+| Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
 | Sanya | 189157 | [189157-sanya.json](./189157-sanya.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
@@ -16493,6 +16495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Champs | 350197 | [350197-smash-champs.json](./350197-smash-champs.json) |
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
 | Smash Colors | 214318 | [214318-smash-colors.json](./214318-smash-colors.json) |
+| Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Cops Heat | 62891 | [62891-smash-cops-heat.json](./62891-smash-cops-heat.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
@@ -19597,6 +19600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Quiz | 406788 | [406788-song-quiz.json](./406788-song-quiz.json) |
 | Song Samurai | 52076 | [52076-song-samurai.json](./52076-song-samurai.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
+| Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | SongBird: FlingAThing | 302899 | [302899-songbird-flingathing.json](./302899-songbird-flingathing.json) |
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
@@ -28712,6 +28716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staring Contest | 369545 | [369545-staring-contest.json](./369545-staring-contest.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Stario: Haven Tower | 317782 | [317782-stario-haven-tower.json](./317782-stario-haven-tower.json) |
+| Starion | 23056 | [23056-starion.json](./23056-starion.json) |
 | Starion Tactics | 10891 | [10891-starion-tactics.json](./10891-starion-tactics.json) |
 | Starithm | 244290 | [244290-starithm.json](./244290-starithm.json) |
 | Starium | 335796 | [335796-starium.json](./335796-starium.json) |
@@ -37464,6 +37469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rude Bear Resurrection: Deluxe Edition | 53688 | [53688-super-rude-bear-resurrection-deluxe-edition.json](./53688-super-rude-bear-resurrection-deluxe-edition.json) |
 | Super Rugby | 267752 | [267752-super-rugby.json](./267752-super-rugby.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
+| Super Rugby League 2 | 23009 | [23009-super-rugby-league-2.json](./23009-super-rugby-league-2.json) |
 | Super Run World | 223017 | [223017-super-run-world.json](./223017-super-run-world.json) |
 | Super Runabout: San Francisco Edition | 45804 | [45804-super-runabout-san-francisco-edition.json](./45804-super-runabout-san-francisco-edition.json) |
 | Super Runner | 47507 | [47507-super-runner.json](./47507-super-runner.json) |
@@ -40805,6 +40811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Anima | 193683 | [193683-swords-of-anima.json](./193683-swords-of-anima.json) |
 | Swords of Blood | 365203 | [365203-swords-of-blood.json](./365203-swords-of-blood.json) |
+| Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Freeport | 316164 | [316164-swords-of-freeport.json](./316164-swords-of-freeport.json) |
 | Swords of Gargantua | 103277 | [103277-swords-of-gargantua.json](./103277-swords-of-gargantua.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
