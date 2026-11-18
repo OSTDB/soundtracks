@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macho Scooping | 291908 | [291908-macho-scooping.json](./291908-macho-scooping.json) |
 | Macho Shot | 317890 | [317890-macho-shot.json](./317890-macho-shot.json) |
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
+| Machop at Work | 70506 | [70506-machop-at-work.json](./70506-machop-at-work.json) |
 | Machorium: Muscle Aquarium Simulator | 295222 | [295222-machorium-muscle-aquarium-simulator.json](./295222-machorium-muscle-aquarium-simulator.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Macht Magie | 341199 | [341199-macht-magie.json](./341199-macht-magie.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madman's Maze | 351521 | [351521-madmans-maze.json](./351521-madmans-maze.json) |
 | Madness | 30519 | [30519-madness.json](./30519-madness.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
+| Madness | 41031 | [41031-madness.json](./41031-madness.json) |
 | Madness & the Minotaur | 24851 | [24851-madness-and-the-minotaur.json](./24851-madness-and-the-minotaur.json) |
 | Madness Accelerant | 65891 | [65891-madness-accelerant.json](./65891-madness-accelerant.json) |
 | Madness Ambulation | 320913 | [320913-madness-ambulation.json](./320913-madness-ambulation.json) |
@@ -4058,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Märchen Forest: Mylne and the Forest Gift - Limited Edition | 167095 | [167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json](./167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json) |
 | Märchen Line | 318499 | [318499-marchen-line.json](./318499-marchen-line.json) |
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
+| Märchen Maze | 46812 | [46812-marchen-maze.json](./46812-marchen-maze.json) |
 | Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marchen Veil I | 240177 | [240177-marchen-veil-i.json](./240177-marchen-veil-i.json) |
 | Märchen Veil II | 403428 | [403428-marchen-veil-ii.json](./403428-marchen-veil-ii.json) |
@@ -10399,6 +10402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital VR | 167430 | [167430-mental-hospital-vr.json](./167430-mental-hospital-vr.json) |
 | Mental Hospital: Child of Evil | 173968 | [173968-mental-hospital-child-of-evil.json](./173968-mental-hospital-child-of-evil.json) |
 | Mental House | 121945 | [121945-mental-house.json](./121945-mental-house.json) |
+| Mental Kombat | 70510 | [70510-mental-kombat.json](./70510-mental-kombat.json) |
 | Mental Math Madness | 301869 | [301869-mental-math-madness.json](./301869-mental-math-madness.json) |
 | Mental Math Tutor | 187186 | [187186-mental-math-tutor.json](./187186-mental-math-tutor.json) |
 | Mental Medicine | 405680 | [405680-mental-medicine.json](./405680-mental-medicine.json) |
@@ -11104,7 +11108,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
 | Metal Gear Acid 2 Mobile | 221558 | [221558-metal-gear-acid-2-mobile.json](./221558-metal-gear-acid-2-mobile.json) |
 | Metal Gear Acid 2: Mobile 3D | 256600 | [256600-metal-gear-acid-2-mobile-3d.json](./256600-metal-gear-acid-2-mobile-3d.json) |
+| Metal Gear Acid Mobile | 41038 | [41038-metal-gear-acid-mobile.json](./41038-metal-gear-acid-mobile.json) |
 | Metal Gear Acid: Mobile 3D | 256608 | [256608-metal-gear-acid-mobile-3d.json](./256608-metal-gear-acid-mobile-3d.json) |
+| Metal Gear Arcade | 41039 | [41039-metal-gear-arcade.json](./41039-metal-gear-arcade.json) |
 | Metal Gear Dome | 330463 | [330463-metal-gear-dome.json](./330463-metal-gear-dome.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Mario | 322900 | [322900-metal-gear-mario.json](./322900-metal-gear-mario.json) |
@@ -11734,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroloop | 341229 | [341229-metroloop.json](./341229-metroloop.json) |
 | Metromino | 424276 | [424276-metromino.json](./424276-metromino.json) |
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
+| Metronix Lab | 55409 | [55409-metronix-lab.json](./55409-metronix-lab.json) |
 | Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
 | Metronomeer | 27021 | [27021-metronomeer.json](./27021-metronomeer.json) |
@@ -11858,6 +11865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mia and the Bugaboos | 22121 | [22121-mia-and-the-bugaboos.json](./22121-mia-and-the-bugaboos.json) |
 | Mia Fey: Ace Spirit Attorney | 303005 | [303005-mia-fey-ace-spirit-attorney.json](./303005-mia-fey-ace-spirit-attorney.json) |
 | Mia Hamm Soccer | 362900 | [362900-mia-hamm-soccer.json](./362900-mia-hamm-soccer.json) |
+| Mia Hamm Soccer 64 | 72829 | [72829-mia-hamm-soccer-64.json](./72829-mia-hamm-soccer-64.json) |
 | Mia Hamm Soccer Shootout | 98004 | [98004-mia-hamm-soccer-shootout.json](./98004-mia-hamm-soccer-shootout.json) |
 | MIA Online | 135806 | [135806-mia-online.json](./135806-mia-online.json) |
 | MIA: Memory Fragments | 404202 | [404202-mia-memory-fragments.json](./404202-mia-memory-fragments.json) |
@@ -13745,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minarai Mahoutsukai Fuwaru no Bouken | 187024 | [187024-minarai-mahoutsukai-fuwaru-no-bouken.json](./187024-minarai-mahoutsukai-fuwaru-no-bouken.json) |
 | Minarai Majo to Mokomoko Friends | 222497 | [222497-minarai-majo-to-mokomoko-friends.json](./222497-minarai-majo-to-mokomoko-friends.json) |
 | Minarchy: Active Shooter | 196690 | [196690-minarchy-active-shooter.json](./196690-minarchy-active-shooter.json) |
+| Minasan | 46810 | [46810-minasan.json](./46810-minasan.json) |
 | Minasan no Okage-sama Desu! | 64013 | [64013-minasan-no-okage-sama-desu.json](./64013-minasan-no-okage-sama-desu.json) |
 | Mination | 348419 | [348419-mination.json](./348419-mination.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
@@ -13770,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
 | Mind Corridors: Paroniria | 226679 | [226679-mind-corridors-paroniria.json](./226679-mind-corridors-paroniria.json) |
+| Mind Dead | 22725 | [22725-mind-dead.json](./22725-mind-dead.json) |
 | Mind Defender | 381302 | [381302-mind-defender.json](./381302-mind-defender.json) |
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
@@ -17498,6 +17508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Bongo | 212399 | [212399-monkey-bongo.json](./212399-monkey-bongo.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
+| Monkey Bump | 22877 | [22877-monkey-bump.json](./22877-monkey-bump.json) |
 | Monkey Bunch | 381495 | [381495-monkey-bunch.json](./381495-monkey-bunch.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
 | Monkey Business | 359732 | [359732-monkey-business.json](./359732-monkey-business.json) |
@@ -22429,6 +22440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushy Moon | 185372 | [185372-mushy-moon.json](./185372-mushy-moon.json) |
 | Mushy Score | 257694 | [257694-mushy-score.json](./257694-mushy-score.json) |
 | Musi-Chance | 190906 | [190906-musi-chance.json](./190906-musi-chance.json) |
+| Music & Circuit | 64008 | [64008-music-and-circuit.json](./64008-music-and-circuit.json) |
 | Music 2002: Club Edition | 144600 | [144600-music-2002-club-edition.json](./144600-music-2002-club-edition.json) |
 | Music Ball | 137865 | [137865-music-ball.json](./137865-music-ball.json) |
 | Music Band Manager | 82312 | [82312-music-band-manager.json](./82312-music-band-manager.json) |
@@ -25264,6 +25276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Slayer | 358599 | [358599-myth-of-slayer.json](./358599-myth-of-slayer.json) |
+| Myth of Soma | 72802 | [72802-myth-of-soma.json](./72802-myth-of-soma.json) |
 | Myth of the Moirai | 260428 | [260428-myth-of-the-moirai.json](./260428-myth-of-the-moirai.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
 | Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
