@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Betrayal | 312850 | [312850-a-tale-of-betrayal.json](./312850-a-tale-of-betrayal.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
+| A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Caos: Overture - Act II | 170821 | [170821-a-tale-of-caos-overture-act-ii.json](./170821-a-tale-of-caos-overture-act-ii.json) |
 | A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
 | A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abridged | 163653 | [163653-abridged.json](./163653-abridged.json) |
 | Abriss: Build to Destroy | 163860 | [163860-abriss-build-to-destroy.json](./163860-abriss-build-to-destroy.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
+| Abrix for kids | 32440 | [32440-abrix-for-kids.json](./32440-abrix-for-kids.json) |
 | Abrix the robot | 33018 | [33018-abrix-the-robot.json](./33018-abrix-the-robot.json) |
 | Abronium Party | 79570 | [79570-abronium-party.json](./79570-abronium-party.json) |
 | Abrupt Valley | 261745 | [261745-abrupt-valley.json](./261745-abrupt-valley.json) |
