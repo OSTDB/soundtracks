@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 09 | 248777 | [248777-nba-live-09.json](./248777-nba-live-09.json) |
 | NBA Live 09 | 248778 | [248778-nba-live-09.json](./248778-nba-live-09.json) |
 | NBA Live 09 | 5063 | [5063-nba-live-09.json](./5063-nba-live-09.json) |
+| NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
 | NBA Live 10 | 7107 | [7107-nba-live-10.json](./7107-nba-live-10.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
