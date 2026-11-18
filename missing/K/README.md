@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerbal Space Program: Breaking Ground | 118176 | [118176-kerbal-space-program-breaking-ground.json](./118176-kerbal-space-program-breaking-ground.json) |
 | Kerbal Space Program: Enhanced Edition - History and Parts Pack | 164578 | [164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json](./164578-kerbal-space-program-enhanced-edition-history-and-parts-pack.json) |
 | Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
+| Kerbal Space Program: Making History | 124959 | [124959-kerbal-space-program-making-history.json](./124959-kerbal-space-program-making-history.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
 | Kerflux | 57438 | [57438-kerflux.json](./57438-kerflux.json) |
 | Kerfuffight | 121553 | [121553-kerfuffight.json](./121553-kerfuffight.json) |
@@ -6038,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koni: The Secrets of Castle | 192485 | [192485-koni-the-secrets-of-castle.json](./192485-koni-the-secrets-of-castle.json) |
 | Konike | 249974 | [249974-konike.json](./249974-konike.json) |
 | Konji | 123136 | [123136-konji.json](./123136-konji.json) |
+| Konjiki no Gash Bell!! Go! Go! Mamono Fight!! | 124491 | [124491-konjiki-no-gash-bell-go-go-mamono-fight.json](./124491-konjiki-no-gash-bell-go-go-mamono-fight.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
 | Konjiki no Gash Bell!! The Card Battle for GBA | 49677 | [49677-konjiki-no-gash-bell-the-card-battle-for-gba.json](./49677-konjiki-no-gash-bell-the-card-battle-for-gba.json) |
