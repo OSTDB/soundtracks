@@ -11307,6 +11307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttered | 346519 | [346519-shuttered.json](./346519-shuttered.json) |
 | Shuttle | 94435 | [94435-shuttle.json](./94435-shuttle.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
+| Shuttle Hearts: Academy Smash | 430161 | [430161-shuttle-hearts-academy-smash.json](./430161-shuttle-hearts-academy-smash.json) |
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
@@ -15559,6 +15560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slider | 384824 | [384824-slider.json](./384824-slider.json) |
 | Slider Kids | 400634 | [400634-slider-kids.json](./400634-slider-kids.json) |
 | Slider Quest | 32012 | [32012-slider-quest.json](./32012-slider-quest.json) |
+| Slider Quest | 430289 | [430289-slider-quest.json](./430289-slider-quest.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slider X | 241546 | [241546-slider-x.json](./241546-slider-x.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
