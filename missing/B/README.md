@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Baisu | 293032 | [293032-baisu.json](./293032-baisu.json) |
 | Bait & Tackle | 371542 | [371542-bait-and-tackle.json](./371542-bait-and-tackle.json) |
+| Bait Ball Party | 399861 | [399861-bait-ball-party.json](./399861-bait-ball-party.json) |
 | Bait Soul | 392005 | [392005-bait-soul.json](./392005-bait-soul.json) |
 | Bait! | 121936 | [121936-bait.json](./121936-bait.json) |
 | Baitcore | 415189 | [415189-baitcore.json](./415189-baitcore.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Barrage | 341462 | [341462-banana-barrage.json](./341462-banana-barrage.json) |
 | Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
 | Banana Blitz | 318837 | [318837-banana-blitz.json](./318837-banana-blitz.json) |
+| Banana Blood | 398603 | [398603-banana-blood.json](./398603-banana-blood.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
 | Banana Boat Water Speed Race | 107071 | [107071-banana-boat-water-speed-race.json](./107071-banana-boat-water-speed-race.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
@@ -2364,7 +2366,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang! Bang! Bandits | 376493 | [376493-bang-bang-bandits.json](./376493-bang-bang-bandits.json) |
 | Bang! Bang! Totally Accurate Redneck Simulator | 138808 | [138808-bang-bang-totally-accurate-redneck-simulator.json](./138808-bang-bang-totally-accurate-redneck-simulator.json) |
 | Bang! Gunship Elite | 1861 | [1861-bang-gunship-elite.json](./1861-bang-gunship-elite.json) |
-| Bang! Howdy | 51472 | [51472-bang-howdy.json](./51472-bang-howdy.json) |
 | Bang! The Official Video Game | 118549 | [118549-bang-the-official-video-game.json](./118549-bang-the-official-video-game.json) |
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | Bangai-O HD | 21783 | [21783-bangai-o-hd.json](./21783-bangai-o-hd.json) |
@@ -15741,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Cat | 352747 | [352747-bounce-cat.json](./352747-bounce-cat.json) |
 | Bounce Classic | 211464 | [211464-bounce-classic.json](./211464-bounce-classic.json) |
 | Bounce Evolution | 331773 | [331773-bounce-evolution.json](./331773-bounce-evolution.json) |
+| Bounce Forever | 406350 | [406350-bounce-forever.json](./406350-bounce-forever.json) |
 | Bounce Forever! | 91085 | [91085-bounce-forever.json](./91085-bounce-forever.json) |
 | Bounce Gun | 291375 | [291375-bounce-gun.json](./291375-bounce-gun.json) |
 | Bounce House | 262487 | [262487-bounce-house.json](./262487-bounce-house.json) |
