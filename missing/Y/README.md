@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurei Station | 28495 | [28495-yurei-station.json](./28495-yurei-station.json) |
 | Yurei: Ink of the Damned | 388552 | [388552-yurei-ink-of-the-damned.json](./388552-yurei-ink-of-the-damned.json) |
 | Yureishia Eiyuusenki: Chronicle of Arstenia 500 | 409846 | [409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json](./409846-yureishia-eiyuusenki-chronicle-of-arstenia-500.json) |
+| Yuremizu: Hold It Through the Shift | 397316 | [397316-yuremizu-hold-it-through-the-shift.json](./397316-yuremizu-hold-it-through-the-shift.json) |
 | Yuri Academy: My Secret Girl | 232737 | [232737-yuri-academy-my-secret-girl.json](./232737-yuri-academy-my-secret-girl.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Dating Agency | 150818 | [150818-yuri-dating-agency.json](./150818-yuri-dating-agency.json) |
