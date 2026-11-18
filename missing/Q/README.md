@@ -8,7 +8,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q | 80330 | [80330-q.json](./80330-q.json) |
-| Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
 | Q to Q2 Butsuri Edition | 328141 | [328141-q-to-q2-butsuri-edition.json](./328141-q-to-q2-butsuri-edition.json) |
@@ -83,7 +82,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | Qarx | 142375 | [142375-qarx.json](./142375-qarx.json) |
 | Qasir Al-Wasat: A Night in-Between | 64290 | [64290-qasir-al-wasat-a-night-in-between.json](./64290-qasir-al-wasat-a-night-in-between.json) |
-| Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
 | QatQi | 265844 | [265844-qatqi.json](./265844-qatqi.json) |
 | Qavo | 135031 | [135031-qavo.json](./135031-qavo.json) |
 | Qazaq: Son of the Sun | 305710 | [305710-qazaq-son-of-the-sun.json](./305710-qazaq-son-of-the-sun.json) |
@@ -96,7 +94,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB-3 | 258812 | [258812-qb-3.json](./258812-qb-3.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBeez 2 | 304318 | [304318-qbeez-2.json](./304318-qbeez-2.json) |
-| Qbics Paint | 36755 | [36755-qbics-paint.json](./36755-qbics-paint.json) |
 | Qbik | 75761 | [75761-qbik.json](./75761-qbik.json) |
 | Qbike | 28869 | [28869-qbike.json](./28869-qbike.json) |
 | Qbike: Crypto Motorcycles | 68760 | [68760-qbike-crypto-motorcycles.json](./68760-qbike-crypto-motorcycles.json) |
@@ -181,7 +178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QontoWars | 190492 | [190492-qontowars.json](./190492-qontowars.json) |
 | Qoosh | 418460 | [418460-qoosh.json](./418460-qoosh.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
-| Qop 2 | 76379 | [76379-qop-2.json](./76379-qop-2.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qop 4 | 113218 | [113218-qop-4.json](./113218-qop-4.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
@@ -257,7 +253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
 | Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
-| Quadcopter Pilot Challenge | 85358 | [85358-quadcopter-pilot-challenge.json](./85358-quadcopter-pilot-challenge.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadcubes | 357178 | [357178-quadcubes.json](./357178-quadcubes.json) |
 | Quaddro 2 | 90275 | [90275-quaddro-2.json](./90275-quaddro-2.json) |
@@ -277,7 +272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quadradius | 29040 | [29040-quadradius.json](./29040-quadradius.json) |
 | Quadralien | 12727 | [12727-quadralien.json](./12727-quadralien.json) |
 | Quadrant | 35355 | [35355-quadrant.json](./35355-quadrant.json) |
-| Quadrant | 35391 | [35391-quadrant.json](./35391-quadrant.json) |
 | Quadrant | 390316 | [390316-quadrant.json](./390316-quadrant.json) |
 | Quadrant 7 | 322393 | [322393-quadrant-7.json](./322393-quadrant-7.json) |
 | Quadrant M4 | 36981 | [36981-quadrant-m4.json](./36981-quadrant-m4.json) |
@@ -722,9 +716,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quattro Super Hits | 57619 | [57619-quattro-super-hits.json](./57619-quattro-super-hits.json) |
 | QuattroMan | 367068 | [367068-quattroman.json](./367068-quattroman.json) |
 | Quaver | 109068 | [109068-quaver.json](./109068-quaver.json) |
-| Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
 | Quazzi | 234842 | [234842-quazzi.json](./234842-quazzi.json) |
 | Qub | 362305 | [362305-qub.json](./362305-qub.json) |
+| Qubburo 2 | 140640 | [140640-qubburo-2.json](./140640-qubburo-2.json) |
 | Qubd | 223608 | [223608-qubd.json](./223608-qubd.json) |
 | Qube Qross | 147706 | [147706-qube-qross.json](./147706-qube-qross.json) |
 | Qube Stories: Escape Adventure | 260711 | [260711-qube-stories-escape-adventure.json](./260711-qube-stories-escape-adventure.json) |
@@ -766,7 +760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quebrantar: Caila The Witch | 315695 | [315695-quebrantar-caila-the-witch.json](./315695-quebrantar-caila-the-witch.json) |
 | Quebrantar: The Black Swamp | 315696 | [315696-quebrantar-the-black-swamp.json](./315696-quebrantar-the-black-swamp.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
-| Quedex | 22527 | [22527-quedex.json](./22527-quedex.json) |
 | Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
@@ -1049,7 +1042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questprobe featuring Human Torch and the Thing | 24385 | [24385-questprobe-featuring-human-torch-and-the-thing.json](./24385-questprobe-featuring-human-torch-and-the-thing.json) |
 | Questprobe featuring Spider-Man | 24384 | [24384-questprobe-featuring-spider-man.json](./24384-questprobe-featuring-spider-man.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
-| Questr | 55458 | [55458-questr.json](./55458-questr.json) |
 | Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
