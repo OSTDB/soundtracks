@@ -12283,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
 | Ankora | 368167 | [368167-ankora.json](./368167-ankora.json) |
+| Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Ankora: Lost Days & Deiland: Pocket Planet | 223107 | [223107-ankora-lost-days-and-deiland-pocket-planet.json](./223107-ankora-lost-days-and-deiland-pocket-planet.json) |
 | Ankora: Lost Days & Deiland: Pocket Planet - Collector's Edition | 223108 | [223108-ankora-lost-days-and-deiland-pocket-planet-collectors-edition.json](./223108-ankora-lost-days-and-deiland-pocket-planet-collectors-edition.json) |
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
@@ -16369,6 +16370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
 | Armored Battalion | 205753 | [205753-armored-battalion.json](./205753-armored-battalion.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
+| Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
 | Armored Brigade II | 283943 | [283943-armored-brigade-ii.json](./283943-armored-brigade-ii.json) |
 | Armored Brigade Nation Pack: Czechoslovakia - Netherlands | 155224 | [155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json](./155224-armored-brigade-nation-pack-czechoslovakia-netherlands.json) |
 | Armored Brigade Nation Pack: France - Belgium | 155059 | [155059-armored-brigade-nation-pack-france-belgium.json](./155059-armored-brigade-nation-pack-france-belgium.json) |
@@ -21004,6 +21006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
 | Awesome Mix Tape | 156835 | [156835-awesome-mix-tape.json](./156835-awesome-mix-tape.json) |
 | Awesome Obstacle Challenge | 31358 | [31358-awesome-obstacle-challenge.json](./31358-awesome-obstacle-challenge.json) |
+| Awesome Pea | 108366 | [108366-awesome-pea.json](./108366-awesome-pea.json) |
 | Awesome Pea 2 | 126998 | [126998-awesome-pea-2.json](./126998-awesome-pea-2.json) |
 | Awesome Pea 3 | 265551 | [265551-awesome-pea-3.json](./265551-awesome-pea-3.json) |
 | Awesome Pea Collection | 138459 | [138459-awesome-pea-collection.json](./138459-awesome-pea-collection.json) |
