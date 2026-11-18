@@ -10513,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wújìn Dàlù | 368358 | [368358-wujin-dalu.json](./368358-wujin-dalu.json) |
 | Wújìn Shēnyuān | 117368 | [117368-wujin-shenyuan.json](./117368-wujin-shenyuan.json) |
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
+| Wukong | 185947 | [185947-wukong.json](./185947-wukong.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Black Legend | 372158 | [372158-wukong-black-legend.json](./372158-wukong-black-legend.json) |
 | Wukong Fight in Kaoria | 327506 | [327506-wukong-fight-in-kaoria.json](./327506-wukong-fight-in-kaoria.json) |
