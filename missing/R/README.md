@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | RedShip | 188968 | [188968-redship.json](./188968-redship.json) |
 | Redshirt | 9220 | [9220-redshirt.json](./9220-redshirt.json) |
+| Redshot | 188858 | [188858-redshot.json](./188858-redshot.json) |
 | Redside: Episode 1 | 173879 | [173879-redside-episode-1.json](./173879-redside-episode-1.json) |
 | RedSpaceOps | 244641 | [244641-redspaceops.json](./244641-redspaceops.json) |
 | RedStory and the Last Glimmer | 244711 | [244711-redstory-and-the-last-glimmer.json](./244711-redstory-and-the-last-glimmer.json) |
@@ -7897,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Rush! | 29019 | [29019-rhythm-rush.json](./29019-rhythm-rush.json) |
 | Rhythm Slice | 417971 | [417971-rhythm-slice.json](./417971-rhythm-slice.json) |
 | Rhythm Spirit | 66486 | [66486-rhythm-spirit.json](./66486-rhythm-spirit.json) |
+| Rhythm Sprout | 186297 | [186297-rhythm-sprout.json](./186297-rhythm-sprout.json) |
 | Rhythm Stars Climbing | 157196 | [157196-rhythm-stars-climbing.json](./157196-rhythm-stars-climbing.json) |
 | Rhythm Station | 277853 | [277853-rhythm-station.json](./277853-rhythm-station.json) |
 | Rhythm Stones | 223308 | [223308-rhythm-stones.json](./223308-rhythm-stones.json) |
@@ -8387,6 +8389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riff VR for Arcades | 111272 | [111272-riff-vr-for-arcades.json](./111272-riff-vr-for-arcades.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
+| RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
 | Rifle Defender | 401566 | [401566-rifle-defender.json](./401566-rifle-defender.json) |
 | Rifle Dodger | 169774 | [169774-rifle-dodger.json](./169774-rifle-dodger.json) |
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
@@ -9992,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboArena | 133125 | [133125-roboarena.json](./133125-roboarena.json) |
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
+| Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | Robobit8 | 324037 | [324037-robobit8.json](./324037-robobit8.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | Robobo TM | 153077 | [153077-robobo-tm.json](./153077-robobo-tm.json) |
