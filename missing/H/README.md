@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
 | Hexen | 93642 | [93642-hexen.json](./93642-hexen.json) |
 | Hexen Badlands | 268920 | [268920-hexen-badlands.json](./268920-hexen-badlands.json) |
+| Hexen Hegemony | 109776 | [109776-hexen-hegemony.json](./109776-hexen-hegemony.json) |
 | Hexen II | 6637 | [6637-hexen-ii.json](./6637-hexen-ii.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | Hexen Upstart Mapping Project | 268879 | [268879-hexen-upstart-mapping-project.json](./268879-hexen-upstart-mapping-project.json) |
@@ -10366,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Hero | 161701 | [161701-hollywood-hero.json](./161701-hollywood-hero.json) |
 | Hollywood Hero: Comeback | 142576 | [142576-hollywood-hero-comeback.json](./142576-hollywood-hero-comeback.json) |
 | Hollywood Hijinx | 12144 | [12144-hollywood-hijinx.json](./12144-hollywood-hijinx.json) |
+| Hollywood Hills Mansion (With VR Home Theater) | 106021 | [106021-hollywood-hills-mansion-with-vr-home-theater.json](./106021-hollywood-hills-mansion-with-vr-home-theater.json) |
 | Hollywood Hustle: A Prop Collector Simulator | 416134 | [416134-hollywood-hustle-a-prop-collector-simulator.json](./416134-hollywood-hustle-a-prop-collector-simulator.json) |
 | Hollywood Mogul | 94389 | [94389-hollywood-mogul.json](./94389-hollywood-mogul.json) |
 | Hollywood Mogul 4 | 334337 | [334337-hollywood-mogul-4.json](./334337-hollywood-mogul-4.json) |
@@ -13104,7 +13106,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
 | Hoyle Bridge | 54106 | [54106-hoyle-bridge.json](./54106-hoyle-bridge.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
+| Hoyle Card Games 2002 | 72852 | [72852-hoyle-card-games-2002.json](./72852-hoyle-card-games-2002.json) |
+| Hoyle Card Games 2004 | 72851 | [72851-hoyle-card-games-2004.json](./72851-hoyle-card-games-2004.json) |
+| Hoyle Card Games 2005 | 72850 | [72850-hoyle-card-games-2005.json](./72850-hoyle-card-games-2005.json) |
 | Hoyle Card Games 2007 | 97125 | [97125-hoyle-card-games-2007.json](./97125-hoyle-card-games-2007.json) |
+| Hoyle Card Games 2008 | 72859 | [72859-hoyle-card-games-2008.json](./72859-hoyle-card-games-2008.json) |
 | Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
 | Hoyle Card Games 2010 | 146194 | [146194-hoyle-card-games-2010.json](./146194-hoyle-card-games-2010.json) |
 | Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
@@ -13116,9 +13122,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Casino 2002 | 130994 | [130994-hoyle-casino-2002.json](./130994-hoyle-casino-2002.json) |
 | Hoyle Casino 2004 | 100135 | [100135-hoyle-casino-2004.json](./100135-hoyle-casino-2004.json) |
 | Hoyle Casino 2006 | 72876 | [72876-hoyle-casino-2006.json](./72876-hoyle-casino-2006.json) |
+| Hoyle Casino 2007 | 72857 | [72857-hoyle-casino-2007.json](./72857-hoyle-casino-2007.json) |
 | Hoyle Casino 2008 | 72924 | [72924-hoyle-casino-2008.json](./72924-hoyle-casino-2008.json) |
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
+| Hoyle Casino 3D | 72856 | [72856-hoyle-casino-3d.json](./72856-hoyle-casino-3d.json) |
 | Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
 | Hoyle Casino Games 2012 | 25402 | [25402-hoyle-casino-games-2012.json](./25402-hoyle-casino-games-2012.json) |
 | Hoyle Casino Games 2013 | 46725 | [46725-hoyle-casino-games-2013.json](./46725-hoyle-casino-games-2013.json) |
@@ -14440,6 +14448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
 | Hyperacusis | 310327 | [310327-hyperacusis.json](./310327-hyperacusis.json) |
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
+| Hyperball | 115084 | [115084-hyperball.json](./115084-hyperball.json) |
 | Hyperball Tachyon | 192533 | [192533-hyperball-tachyon.json](./192533-hyperball-tachyon.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
