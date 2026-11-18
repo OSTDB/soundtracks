@@ -3670,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADA: Além d' Aventura | 156950 | [156950-ada-alem-d-aventura.json](./156950-ada-alem-d-aventura.json) |
 | Ada: Tainted Soil | 262752 | [262752-ada-tainted-soil.json](./262752-ada-tainted-soil.json) |
+| Adabana no Yakata | 407570 | [407570-adabana-no-yakata.json](./407570-adabana-no-yakata.json) |
 | Adabana Odd Tales | 131707 | [131707-adabana-odd-tales.json](./131707-adabana-odd-tales.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
@@ -11458,6 +11459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Journey | 185229 | [185229-angry-birds-journey.json](./185229-angry-birds-journey.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Legends | 199980 | [199980-angry-birds-legends.json](./199980-angry-birds-legends.json) |
+| Angry Birds Lotus F1 Team | 408810 | [408810-angry-birds-lotus-f1-team.json](./408810-angry-birds-lotus-f1-team.json) |
 | Angry Birds Match World | 377794 | [377794-angry-birds-match-world.json](./377794-angry-birds-match-world.json) |
 | Angry Birds Matching | 325566 | [325566-angry-birds-matching.json](./325566-angry-birds-matching.json) |
 | Angry Birds McDonald's | 202075 | [202075-angry-birds-mcdonalds.json](./202075-angry-birds-mcdonalds.json) |
@@ -11487,7 +11489,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Trilogy: Anger Management Pack | 172417 | [172417-angry-birds-trilogy-anger-management-pack.json](./172417-angry-birds-trilogy-anger-management-pack.json) |
 | Angry Birds Trilogy: Fowl Tempered Pack | 172418 | [172418-angry-birds-trilogy-fowl-tempered-pack.json](./172418-angry-birds-trilogy-fowl-tempered-pack.json) |
 | Angry Birds V Rossii | 210310 | [210310-angry-birds-v-rossii.json](./210310-angry-birds-v-rossii.json) |
+| Angry Birds Volcano | 408811 | [408811-angry-birds-volcano.json](./408811-angry-birds-volcano.json) |
 | Angry Birds VR: Isle of Pigs | 113434 | [113434-angry-birds-vr-isle-of-pigs.json](./113434-angry-birds-vr-isle-of-pigs.json) |
+| Angry Birds Vuela Tazos | 408815 | [408815-angry-birds-vuela-tazos.json](./408815-angry-birds-vuela-tazos.json) |
 | Angry Birds World Tour | 214040 | [214040-angry-birds-world-tour.json](./214040-angry-birds-world-tour.json) |
 | Angry Birds: Dangerous Railroad | 325564 | [325564-angry-birds-dangerous-railroad.json](./325564-angry-birds-dangerous-railroad.json) |
 | Angry Birds: Flock Party | 372088 | [372088-angry-birds-flock-party.json](./372088-angry-birds-flock-party.json) |
@@ -20514,6 +20518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn's End | 118054 | [118054-autumns-end.json](./118054-autumns-end.json) |
 | Autumn's End | 420211 | [420211-autumns-end.json](./420211-autumns-end.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
+| Autumn's Leaves | 406351 | [406351-autumns-leaves.json](./406351-autumns-leaves.json) |
 | Autumn's Treasures: The Jade Coin | 22119 | [22119-autumns-treasures-the-jade-coin.json](./22119-autumns-treasures-the-jade-coin.json) |
 | Auver | 244060 | [244060-auver.json](./244060-auver.json) |
 | AUX B | 57418 | [57418-aux-b.json](./57418-aux-b.json) |
