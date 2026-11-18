@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
+| Kart n' Crazy | 417059 | [417059-kart-n-crazy.json](./417059-kart-n-crazy.json) |
 | Kart Race | 50308 | [50308-kart-race.json](./50308-kart-race.json) |
 | Kart Race Kimete wa Drift! | 286363 | [286363-kart-race-kimete-wa-drift.json](./286363-kart-race-kimete-wa-drift.json) |
 | Kart Racer | 50968 | [50968-kart-racer.json](./50968-kart-racer.json) |
@@ -1670,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Bar Tycoon: Extended Edition | 295675 | [295675-kebab-bar-tycoon-extended-edition.json](./295675-kebab-bar-tycoon-extended-edition.json) |
 | Kebab Bar Tycoon: Premium Edition | 303845 | [303845-kebab-bar-tycoon-premium-edition.json](./303845-kebab-bar-tycoon-premium-edition.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
+| Kebab Dynasty | 417064 | [417064-kebab-dynasty.json](./417064-kebab-dynasty.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
 | Kebab it Up! | 81091 | [81091-kebab-it-up.json](./81091-kebab-it-up.json) |
 | Kebab Simulator | 301359 | [301359-kebab-simulator.json](./301359-kebab-simulator.json) |
