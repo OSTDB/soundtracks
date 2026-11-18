@@ -10585,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Lane | 420937 | [420937-the-final-lane.json](./420937-the-final-lane.json) |
 | The Final Matrix | 14066 | [14066-the-final-matrix.json](./14066-the-final-matrix.json) |
 | The Final Oath | 390374 | [390374-the-final-oath.json](./390374-the-final-oath.json) |
+| The Final Overs | 383303 | [383303-the-final-overs.json](./383303-the-final-overs.json) |
 | The Final Payphone | 351235 | [351235-the-final-payphone.json](./351235-the-final-payphone.json) |
 | The Final Pin | 262277 | [262277-the-final-pin.json](./262277-the-final-pin.json) |
 | The Final Print | 347777 | [347777-the-final-print.json](./347777-the-final-print.json) |
@@ -11446,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Planto Heists | 365333 | [365333-the-grand-planto-heists.json](./365333-the-grand-planto-heists.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
+| The Grand Slamboree | 389134 | [389134-the-grand-slamboree.json](./389134-the-grand-slamboree.json) |
 | The Grand Sumo | 123161 | [123161-the-grand-sumo.json](./123161-the-grand-sumo.json) |
 | The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
@@ -17060,6 +17062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess is in Another Castle | 72504 | [72504-the-princess-is-in-another-castle.json](./72504-the-princess-is-in-another-castle.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
+| The Princess That Was Turned into a Doll | 383311 | [383311-the-princess-that-was-turned-into-a-doll.json](./383311-the-princess-that-was-turned-into-a-doll.json) |
 | The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition | 167020 | [167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json](./167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json) |
 | The Princess' Heart | 35022 | [35022-the-princess-heart.json](./35022-the-princess-heart.json) |
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
