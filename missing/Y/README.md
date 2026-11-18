@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You and I and the Long, Long Drive | 173427 | [173427-you-and-i-and-the-long-long-drive.json](./173427-you-and-i-and-the-long-long-drive.json) |
 | You and I, at the End of That Summer | 375293 | [375293-you-and-i-at-the-end-of-that-summer.json](./375293-you-and-i-at-the-end-of-that-summer.json) |
 | You and Me | 200348 | [200348-you-and-me.json](./200348-you-and-me.json) |
+| You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You and Not You | 134281 | [134281-you-and-not-you.json](./134281-you-and-not-you.json) |
 | You and the Night | 233344 | [233344-you-and-the-night.json](./233344-you-and-the-night.json) |
 | You Are 100k Light Years Away | 252933 | [252933-you-are-100k-light-years-away.json](./252933-you-are-100k-light-years-away.json) |
