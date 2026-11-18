@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 2 - Veteran Package | 154707 | [154707-call-of-duty-modern-warfare-2-veteran-package.json](./154707-call-of-duty-modern-warfare-2-veteran-package.json) |
 | Call of Duty: Modern Warfare 2 Campaign Remastered | 95062 | [95062-call-of-duty-modern-warfare-2-campaign-remastered.json](./95062-call-of-duty-modern-warfare-2-campaign-remastered.json) |
 | Call of Duty: Modern Warfare 3 | 287021 | [287021-call-of-duty-modern-warfare-3.json](./287021-call-of-duty-modern-warfare-3.json) |
+| Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
 | Call of Duty: Modern Warfare 3 - Collection 2 | 194367 | [194367-call-of-duty-modern-warfare-3-collection-2.json](./194367-call-of-duty-modern-warfare-3-collection-2.json) |
 | Call of Duty: Modern Warfare 3 - Collection 3: Chaos Pack | 194416 | [194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json](./194416-call-of-duty-modern-warfare-3-collection-3-chaos-pack.json) |
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
@@ -7038,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Dual | 61551 | [61551-chaos-head-dual.json](./61551-chaos-head-dual.json) |
 | Chaos;Head Love Chu Chu! | 6935 | [6935-chaos-head-love-chu-chu.json](./6935-chaos-head-love-chu-chu.json) |
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
+| Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
 | Chaos: A Fantasy Adventure Game | 71834 | [71834-chaos-a-fantasy-adventure-game.json](./71834-chaos-a-fantasy-adventure-game.json) |
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
@@ -9648,6 +9650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles from the Abyss | 346473 | [346473-chronicles-from-the-abyss.json](./346473-chronicles-from-the-abyss.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles Meteorfall | 390062 | [390062-chronicles-meteorfall.json](./390062-chronicles-meteorfall.json) |
+| Chronicles of 2 Heroes: Amaterasu's Wrath | 191850 | [191850-chronicles-of-2-heroes-amaterasus-wrath.json](./191850-chronicles-of-2-heroes-amaterasus-wrath.json) |
 | Chronicles of 2 Heroes: Amaterasu's Wrath - Collector's Edition | 245276 | [245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json](./245276-chronicles-of-2-heroes-amaterasus-wrath-collectors-edition.json) |
 | Chronicles of a Dark Lord: Episode 1 - Tides of Fate Complete | 36076 | [36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json](./36076-chronicles-of-a-dark-lord-episode-1-tides-of-fate-complete.json) |
 | Chronicles of a Dark Lord: Episode 1 Tides of Fate | 10085 | [10085-chronicles-of-a-dark-lord-episode-1-tides-of-fate.json](./10085-chronicles-of-a-dark-lord-episode-1-tides-of-fate.json) |
@@ -21033,6 +21036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
 | CrumbleMiner | 290606 | [290606-crumbleminer.json](./290606-crumbleminer.json) |
+| Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crumbling City | 149741 | [149741-crumbling-city.json](./149741-crumbling-city.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
