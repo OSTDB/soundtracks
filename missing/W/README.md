@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures | 11307 | [11307-wallace-and-gromits-grand-adventures.json](./11307-wallace-and-gromits-grand-adventures.json) |
 | Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
+| Wallace & Gromit's Grand Adventures: Episode 2 - The Last Resort | 127032 | [127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json](./127032-wallace-and-gromits-grand-adventures-episode-2-the-last-resort.json) |
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
 | Wars and Battles: October War | 112419 | [112419-wars-and-battles-october-war.json](./112419-wars-and-battles-october-war.json) |
 | Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
+| Wars and Warriors: Joan of Arc | 17297 | [17297-wars-and-warriors-joan-of-arc.json](./17297-wars-and-warriors-joan-of-arc.json) |
 | Wars for the containers | 115196 | [115196-wars-for-the-containers.json](./115196-wars-for-the-containers.json) |
 | Wars of Cards: Roma | 241781 | [241781-wars-of-cards-roma.json](./241781-wars-of-cards-roma.json) |
 | Wars of Glory | 108684 | [108684-wars-of-glory.json](./108684-wars-of-glory.json) |
@@ -3698,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
 | Welcome to Ela | 320040 | [320040-welcome-to-ela.json](./320040-welcome-to-ela.json) |
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
+| Welcome to Elk | 131566 | [131566-welcome-to-elk.json](./131566-welcome-to-elk.json) |
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
 | Welcome to Empyreum | 189240 | [189240-welcome-to-empyreum.json](./189240-welcome-to-empyreum.json) |
 | Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
@@ -3904,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Edition | 198092 | [198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json](./198092-werewolf-the-apocalypse-earthblood-champion-of-gaia-edition.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
+| Werewolf: The Apocalypse - Heart of the Forest | 134821 | [134821-werewolf-the-apocalypse-heart-of-the-forest.json](./134821-werewolf-the-apocalypse-heart-of-the-forest.json) |
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
 | Werewolf: The Apocalypse - The Book of Hungry Names | 250692 | [250692-werewolf-the-apocalypse-the-book-of-hungry-names.json](./250692-werewolf-the-apocalypse-the-book-of-hungry-names.json) |
 | Werewolf: The Apocalypse - The Book of Hungry Names: Wardens and Furies | 298199 | [298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json](./298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json) |
@@ -3946,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Front Battle Pack I | 115857 | [115857-west-front-battle-pack-i.json](./115857-west-front-battle-pack-i.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Gunfighter | 100923 | [100923-west-gunfighter.json](./100923-west-gunfighter.json) |
+| West Hunt | 145463 | [145463-west-hunt.json](./145463-west-hunt.json) |
 | West Hunt: Halloween Pack | 263086 | [263086-west-hunt-halloween-pack.json](./263086-west-hunt-halloween-pack.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Journey | 338384 | [338384-west-journey.json](./338384-west-journey.json) |
@@ -4298,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
 | What the Dark Keeps | 33251 | [33251-what-the-dark-keeps.json](./33251-what-the-dark-keeps.json) |
 | What the Dog Remembers | 405835 | [405835-what-the-dog-remembers.json](./405835-what-the-dog-remembers.json) |
+| What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Duck | 140782 | [140782-what-the-duck.json](./140782-what-the-duck.json) |
 | What The Floosh Game | 307625 | [307625-what-the-floosh-game.json](./307625-what-the-floosh-game.json) |
 | What the Fog | 300793 | [300793-what-the-fog.json](./300793-what-the-fog.json) |
@@ -4428,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 116896 | [116896-wheel-of-fortune.json](./116896-wheel-of-fortune.json) |
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
+| Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
 | Wheel of Fortune | 127485 | [127485-wheel-of-fortune.json](./127485-wheel-of-fortune.json) |
 | Wheel of Fortune | 128891 | [128891-wheel-of-fortune.json](./128891-wheel-of-fortune.json) |
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
@@ -6990,9 +6997,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 3 | 1540 | [1540-wipeout-3.json](./1540-wipeout-3.json) |
 | Wipeout 3 | 28355 | [28355-wipeout-3.json](./28355-wipeout-3.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
+| Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
 | Wipeout Dash | 261943 | [261943-wipeout-dash.json](./261943-wipeout-dash.json) |
 | Wipeout Dash 2 | 253259 | [253259-wipeout-dash-2.json](./253259-wipeout-dash-2.json) |
+| Wipeout Fusion | 1541 | [1541-wipeout-fusion.json](./1541-wipeout-fusion.json) |
 | WipEout HD: Fury | 22991 | [22991-wipeout-hd-fury.json](./22991-wipeout-hd-fury.json) |
 | Wipeout In the Zone | 20166 | [20166-wipeout-in-the-zone.json](./20166-wipeout-in-the-zone.json) |
 | Wipeout Merge | 234231 | [234231-wipeout-merge.json](./234231-wipeout-merge.json) |
@@ -7250,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Doll | 301108 | [301108-witchs-doll.json](./301108-witchs-doll.json) |
 | Witch's Garden | 259534 | [259534-witchs-garden.json](./259534-witchs-garden.json) |
 | Witch’s Gaze: The Vanishing Village | 330351 | [330351-witch-s-gaze-the-vanishing-village.json](./330351-witch-s-gaze-the-vanishing-village.json) |
+| Witch's Heart | 124353 | [124353-witchs-heart.json](./124353-witchs-heart.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch's Heart: Shirarezaru Kako Majo Dorothy no Himitsu - Kanketsu-hen | 259742 | [259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json](./259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json) |
 | Witch's Heart: Utsukushiki Hana to Akuma no Noroi - Kanketsu-hen | 323601 | [323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json](./323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json) |
@@ -7415,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With Them: Frontlines | 258772 | [258772-with-them-frontlines.json](./258772-with-them-frontlines.json) |
 | With Those We Love Alive | 60718 | [60718-with-those-we-love-alive.json](./60718-with-those-we-love-alive.json) |
+| With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You Forgotten from My Memory | 404043 | [404043-with-you-forgotten-from-my-memory.json](./404043-with-you-forgotten-from-my-memory.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
 | With Your Destiny | 90317 | [90317-with-your-destiny.json](./90317-with-your-destiny.json) |
