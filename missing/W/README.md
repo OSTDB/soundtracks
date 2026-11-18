@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War for the Overworld: Underlord Edition | 51782 | [51782-war-for-the-overworld-underlord-edition.json](./51782-war-for-the-overworld-underlord-edition.json) |
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
 | WAR for the White House | 109991 | [109991-war-for-the-white-house.json](./109991-war-for-the-white-house.json) |
+| War Forge | 414636 | [414636-war-forge.json](./414636-war-forge.json) |
 | War From Above | 409394 | [409394-war-from-above.json](./409394-war-from-above.json) |
 | War Front: Turning Point | 21239 | [21239-war-front-turning-point.json](./21239-war-front-turning-point.json) |
 | War General: Multiplayer Rank | 254172 | [254172-war-general-multiplayer-rank.json](./254172-war-general-multiplayer-rank.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars of the Roses | 106201 | [106201-wars-of-the-roses.json](./106201-wars-of-the-roses.json) |
 | Wars of the Roses: Rosenkönig | 103567 | [103567-wars-of-the-roses-rosenkonig.json](./103567-wars-of-the-roses-rosenkonig.json) |
 | Warsaken | 218843 | [218843-warsaken.json](./218843-warsaken.json) |
+| Warscape Alpha | 415543 | [415543-warscape-alpha.json](./415543-warscape-alpha.json) |
 | WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warshift 2 | 388957 | [388957-warshift-2.json](./388957-warshift-2.json) |
@@ -4788,7 +4790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Safety Ends R | 289896 | [289896-where-safety-ends-r.json](./289896-where-safety-ends-r.json) |
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
-| Where Shadows Slumber | 73171 | [73171-where-shadows-slumber.json](./73171-where-shadows-slumber.json) |
 | Where Stars Belong | 189059 | [189059-where-stars-belong.json](./189059-where-stars-belong.json) |
 | Where Stones Sleep | 405162 | [405162-where-stones-sleep.json](./405162-where-stones-sleep.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
@@ -9905,6 +9906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Girlfriend Dating Simulator | 329896 | [329896-worm-girlfriend-dating-simulator.json](./329896-worm-girlfriend-dating-simulator.json) |
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm in Horror Place | 392856 | [392856-worm-in-horror-place.json](./392856-worm-in-horror-place.json) |
+| Worm in Ruins | 413285 | [413285-worm-in-ruins.json](./413285-worm-in-ruins.json) |
 | Worm Jazz | 139368 | [139368-worm-jazz.json](./139368-worm-jazz.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
