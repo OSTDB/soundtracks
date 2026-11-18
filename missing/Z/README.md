@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
+| Zenge | 18792 | [18792-zenge.json](./18792-zenge.json) |
 | Zenge: Starborn | 101823 | [101823-zenge-starborn.json](./101823-zenge-starborn.json) |
 | ZenGems | 93264 | [93264-zengems.json](./93264-zengems.json) |
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
@@ -2503,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
 | Zone of the Enders: The 2nd Runner HD Edition | 99812 | [99812-zone-of-the-enders-the-2nd-runner-hd-edition.json](./99812-zone-of-the-enders-the-2nd-runner-hd-edition.json) |
 | Zone of The Enders: The 2nd Runner Mars | 68284 | [68284-zone-of-the-enders-the-2nd-runner-mars.json](./68284-zone-of-the-enders-the-2nd-runner-mars.json) |
+| Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone of War | 153028 | [153028-zone-of-war.json](./153028-zone-of-war.json) |
 | Zone One | 312488 | [312488-zone-one.json](./312488-zone-one.json) |
 | Zone Raiders | 2198 | [2198-zone-raiders.json](./2198-zone-raiders.json) |
