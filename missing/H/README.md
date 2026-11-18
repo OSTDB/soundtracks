@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Boy & Girl | 42889 | [42889-harvest-moon-boy-and-girl.json](./42889-harvest-moon-boy-and-girl.json) |
+| Harvest Moon: Echoes of Teradea | 400976 | [400976-harvest-moon-echoes-of-teradea.json](./400976-harvest-moon-echoes-of-teradea.json) |
 | Harvest Moon: Friends of Mineral Town | 3383 | [3383-harvest-moon-friends-of-mineral-town.json](./3383-harvest-moon-friends-of-mineral-town.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Home Sweet Home | 314971 | [314971-harvest-moon-home-sweet-home.json](./314971-harvest-moon-home-sweet-home.json) |
@@ -12252,6 +12253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels | 230413 | [230413-hot-wheels.json](./230413-hot-wheels.json) |
 | Hot Wheels | 94908 | [94908-hot-wheels.json](./94908-hot-wheels.json) |
 | Hot Wheels Infinite Loop | 121938 | [121938-hot-wheels-infinite-loop.json](./121938-hot-wheels-infinite-loop.json) |
+| Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
 | Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
 | Hot Wheels Infinite Rush: Feel the Heat Pack | 411831 | [411831-hot-wheels-infinite-rush-feel-the-heat-pack.json](./411831-hot-wheels-infinite-rush-feel-the-heat-pack.json) |
