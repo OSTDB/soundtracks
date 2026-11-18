@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Bermuda Secret - Collector's Edition | 166046 | [166046-wanderlust-the-bermuda-secret-collectors-edition.json](./166046-wanderlust-the-bermuda-secret-collectors-edition.json) |
 | Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
+| Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
 | Wanderness | 338420 | [338420-wanderness.json](./338420-wanderness.json) |
 | Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
 | Wandersong | 23851 | [23851-wandersong.json](./23851-wandersong.json) |
@@ -1677,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr: Maelstrom of Carnage | 149315 | [149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json](./149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Mind Plague | 149304 | [149304-warhammer-40-000-inquisitor-martyr-mind-plague.json](./149304-warhammer-40-000-inquisitor-martyr-mind-plague.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Poisoned Souls | 149312 | [149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json](./149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json) |
+| Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
 | Warhammer 40,000: Mechanicus - Heretek | 121158 | [121158-warhammer-40-000-mechanicus-heretek.json](./121158-warhammer-40-000-mechanicus-heretek.json) |
@@ -1741,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Tacticus - Machines of War | 302170 | [302170-warhammer-40-000-tacticus-machines-of-war.json](./302170-warhammer-40-000-tacticus-machines-of-war.json) |
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
 | Warhammer 40K Bundle | 335613 | [335613-warhammer-40k-bundle.json](./335613-warhammer-40k-bundle.json) |
+| Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Age of Sigmar: Deathmaster | 402516 | [402516-warhammer-age-of-sigmar-deathmaster.json](./402516-warhammer-age-of-sigmar-deathmaster.json) |
 | Warhammer Age of Sigmar: Realm War | 109557 | [109557-warhammer-age-of-sigmar-realm-war.json](./109557-warhammer-age-of-sigmar-realm-war.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - Deluxe Edition | 262634 | [262634-warhammer-age-of-sigmar-realms-of-ruin-deluxe-edition.json](./262634-warhammer-age-of-sigmar-realms-of-ruin-deluxe-edition.json) |
@@ -4066,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Dream | 273212 | [273212-wet-dream.json](./273212-wet-dream.json) |
 | Wet Dreams | 229797 | [229797-wet-dreams.json](./229797-wet-dreams.json) |
 | Wet Dreams Spa | 385813 | [385813-wet-dreams-spa.json](./385813-wet-dreams-spa.json) |
+| Wet Girl | 114232 | [114232-wet-girl.json](./114232-wet-girl.json) |
 | Wet Girls | 268162 | [268162-wet-girls.json](./268162-wet-girls.json) |
 | Wet Girls | 338383 | [338383-wet-girls.json](./338383-wet-girls.json) |
 | Wet Nightmares | 158560 | [158560-wet-nightmares.json](./158560-wet-nightmares.json) |
@@ -5687,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
 | Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
 | Wide Load | 347600 | [347600-wide-load.json](./347600-wide-load.json) |
+| Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Wide Sky | 22176 | [22176-wide-sky.json](./22176-wide-sky.json) |
 | Wide Slash Hero | 418077 | [418077-wide-slash-hero.json](./418077-wide-slash-hero.json) |
@@ -6691,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wink Mafia | 423236 | [423236-wink-mafia.json](./423236-wink-mafia.json) |
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
+| Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
 | Winken | 330088 | [330088-winken.json](./330088-winken.json) |
 | WinKings | 33889 | [33889-winkings.json](./33889-winkings.json) |
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
@@ -7115,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishbound | 410647 | [410647-wishbound.json](./410647-wishbound.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
 | WishBreaker | 377035 | [377035-wishbreaker.json](./377035-wishbreaker.json) |
+| Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
 | Wished on guilt | 262828 | [262828-wished-on-guilt.json](./262828-wished-on-guilt.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Wishfarers | 369786 | [369786-wishfarers.json](./369786-wishfarers.json) |
