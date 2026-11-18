@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Wave | 76336 | [76336-darkest-wave.json](./76336-darkest-wave.json) |
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkevo | 132398 | [132398-darkevo.json](./132398-darkevo.json) |
+| DarkFactory | 376369 | [376369-darkfactory.json](./376369-darkfactory.json) |
 | DarkFairyTales SleepingBeauty | 121150 | [121150-darkfairytales-sleepingbeauty.json](./121150-darkfairytales-sleepingbeauty.json) |
 | Darkfall | 23000 | [23000-darkfall.json](./23000-darkfall.json) |
 | Darkfall | 303455 | [303455-darkfall.json](./303455-darkfall.json) |
@@ -5874,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
 | Decorum | 344791 | [344791-decorum.json](./344791-decorum.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
+| Decrepit | 376357 | [376357-decrepit.json](./376357-decrepit.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decromancer | 35323 | [35323-decromancer.json](./35323-decromancer.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
@@ -6282,6 +6284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deeper Underground | 371179 | [371179-deeper-underground.json](./371179-deeper-underground.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
+| Deepest Blue | 383294 | [383294-deepest-blue.json](./383294-deepest-blue.json) |
 | Deepest Chamber: Resurrection | 144450 | [144450-deepest-chamber-resurrection.json](./144450-deepest-chamber-resurrection.json) |
 | Deepest Darkest | 420379 | [420379-deepest-darkest.json](./420379-deepest-darkest.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
@@ -8425,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Girlfriend Neo | 384815 | [384815-desktop-girlfriend-neo.json](./384815-desktop-girlfriend-neo.json) |
 | Desktop Golf | 336430 | [336430-desktop-golf.json](./336430-desktop-golf.json) |
+| Desktop Golf | 376367 | [376367-desktop-golf.json](./376367-desktop-golf.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
@@ -9456,6 +9460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilutionX | 242688 | [242688-devilutionx.json](./242688-devilutionx.json) |
 | Devin and the Celestial Necropolis | 218205 | [218205-devin-and-the-celestial-necropolis.json](./218205-devin-and-the-celestial-necropolis.json) |
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
+| Devins Play | 383270 | [383270-devins-play.json](./383270-devins-play.json) |
 | Devious | 184668 | [184668-devious.json](./184668-devious.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Designs | 12572 | [12572-devious-designs.json](./12572-devious-designs.json) |
@@ -9781,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
+| DianQi | 376401 | [376401-dianqi.json](./376401-dianqi.json) |
 | Diàntǒng Xiá | 121264 | [121264-diantong-xia.json](./121264-diantong-xia.json) |
 | Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
@@ -20764,6 +20770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Destroyer | 345400 | [345400-dungeon-destroyer.json](./345400-dungeon-destroyer.json) |
 | Dungeon Destroyer | 363317 | [363317-dungeon-destroyer.json](./363317-dungeon-destroyer.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
+| Dungeon Devotion | 383310 | [383310-dungeon-devotion.json](./383310-dungeon-devotion.json) |
 | Dungeon Dicers | 58402 | [58402-dungeon-dicers.json](./58402-dungeon-dicers.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Directive | 391627 | [391627-dungeon-directive.json](./391627-dungeon-directive.json) |
@@ -21120,6 +21127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Squire | 357188 | [357188-dungeon-squire.json](./357188-dungeon-squire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
 | Dungeon Stars | 96148 | [96148-dungeon-stars.json](./96148-dungeon-stars.json) |
+| Dungeon Story | 380299 | [380299-dungeon-story.json](./380299-dungeon-story.json) |
 | Dungeon Story | 62489 | [62489-dungeon-story.json](./62489-dungeon-story.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Sucker | 373333 | [373333-dungeon-sucker.json](./373333-dungeon-sucker.json) |
