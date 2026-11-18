@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearther | 326245 | [326245-unearther.json](./326245-unearther.json) |
 | Unearthing Colossal | 33881 | [33881-unearthing-colossal.json](./33881-unearthing-colossal.json) |
 | Unearthing Invasions | 302362 | [302362-unearthing-invasions.json](./302362-unearthing-invasions.json) |
+| Unearthing Mars | 38499 | [38499-unearthing-mars.json](./38499-unearthing-mars.json) |
 | Unearthing Mars 2: The Ancient War | 107243 | [107243-unearthing-mars-2-the-ancient-war.json](./107243-unearthing-mars-2-the-ancient-war.json) |
 | Unearthing Process | 54509 | [54509-unearthing-process.json](./54509-unearthing-process.json) |
 | UnearthU | 144192 | [144192-unearthu.json](./144192-unearthu.json) |
@@ -2399,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unguided | 362485 | [362485-unguided.json](./362485-unguided.json) |
 | Unguided Order | 379032 | [379032-unguided-order.json](./379032-unguided-order.json) |
 | Ungus | 229659 | [229659-ungus.json](./229659-ungus.json) |
+| Unhack | 35978 | [35978-unhack.json](./35978-unhack.json) |
 | Unhack 2 | 33530 | [33530-unhack-2.json](./33530-unhack-2.json) |
 | Unhack: Destruction | 172365 | [172365-unhack-destruction.json](./172365-unhack-destruction.json) |
 | Unhackable | 226581 | [226581-unhackable.json](./226581-unhackable.json) |
@@ -2559,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unison: Rebels of Rhythm & Dance | 71355 | [71355-unison-rebels-of-rhythm-and-dance.json](./71355-unison-rebels-of-rhythm-and-dance.json) |
 | Unispies: Chapter 1 - Havana Cuba | 270870 | [270870-unispies-chapter-1-havana-cuba.json](./270870-unispies-chapter-1-havana-cuba.json) |
 | Unistar | 178508 | [178508-unistar.json](./178508-unistar.json) |
+| Unit 4 | 36422 | [36422-unit-4.json](./36422-unit-4.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | Unit 404 | 142747 | [142747-unit-404.json](./142747-unit-404.json) |
 | Unit 42: Adrift in Space | 395043 | [395043-unit-42-adrift-in-space.json](./395043-unit-42-adrift-in-space.json) |
@@ -2624,6 +2627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-Chan: Desktop Companion | 395040 | [395040-unity-chan-desktop-companion.json](./395040-unity-chan-desktop-companion.json) |
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Unitystation | 82365 | [82365-unitystation.json](./82365-unitystation.json) |
+| Unium | 35532 | [35532-unium.json](./35532-unium.json) |
 | UniUni Union | 63418 | [63418-uniuni-union.json](./63418-uniuni-union.json) |
 | Univ: Ai Omatase | 428376 | [428376-univ-ai-omatase.json](./428376-univ-ai-omatase.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
