@@ -6293,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
 | Phase Edge | 53458 | [53458-phase-edge.json](./53458-phase-edge.json) |
+| Phase Knight | 397304 | [397304-phase-knight.json](./397304-phase-knight.json) |
 | Phase Line: Raider Assault | 239667 | [239667-phase-line-raider-assault.json](./239667-phase-line-raider-assault.json) |
 | Phase Nexus | 369379 | [369379-phase-nexus.json](./369379-phase-nexus.json) |
 | Phase Ninja | 231144 | [231144-phase-ninja.json](./231144-phase-ninja.json) |
@@ -11614,6 +11615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunker | 128980 | [128980-plunker.json](./128980-plunker.json) |
 | Plunko | 260187 | [260187-plunko.json](./260187-plunko.json) |
 | Plunkocity | 156571 | [156571-plunkocity.json](./156571-plunkocity.json) |
+| Plura Ingenia: Patient 16 | 395299 | [395299-plura-ingenia-patient-16.json](./395299-plura-ingenia-patient-16.json) |
 | Pluralys | 336112 | [336112-pluralys.json](./336112-pluralys.json) |
 | Plus Alpha | 40090 | [40090-plus-alpha.json](./40090-plus-alpha.json) |
 | Plus Belle la Vie: Le Secret du Dr Livia | 349054 | [349054-plus-belle-la-vie-le-secret-du-dr-livia.json](./349054-plus-belle-la-vie-le-secret-du-dr-livia.json) |
@@ -12206,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison is Served! | 310864 | [310864-poison-is-served.json](./310864-poison-is-served.json) |
 | Poison Noir: Desire, Time & Gangsters | 172341 | [172341-poison-noir-desire-time-and-gangsters.json](./172341-poison-noir-desire-time-and-gangsters.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
+| Poisoned Path | 397318 | [397318-poisoned-path.json](./397318-poisoned-path.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
 | Poisoner's Teacup | 121065 | [121065-poisoners-teacup.json](./121065-poisoners-teacup.json) |
 | Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
