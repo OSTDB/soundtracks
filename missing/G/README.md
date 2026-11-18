@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Throne: Toilet Simulator | 265998 | [265998-game-of-throne-toilet-simulator.json](./265998-game-of-throne-toilet-simulator.json) |
 | Game of Thrones | 5489 | [5489-game-of-thrones.json](./5489-game-of-thrones.json) |
 | Game of Thrones Beyond the Wall | 120205 | [120205-game-of-thrones-beyond-the-wall.json](./120205-game-of-thrones-beyond-the-wall.json) |
+| Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
 | Game of Thrones: A Telltale Games Series - Episode 2: The Lost Lords | 127068 | [127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json](./127068-game-of-thrones-a-telltale-games-series-episode-2-the-lost-lords.json) |
 | Game of Thrones: A Telltale Games Series - Episode 3: The Sword in the Darkness | 127069 | [127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json](./127069-game-of-thrones-a-telltale-games-series-episode-3-the-sword-in-the-darkness.json) |
 | Game of Thrones: A Telltale Games Series - Episode 4: Sons of Winter | 127070 | [127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json](./127070-game-of-thrones-a-telltale-games-series-episode-4-sons-of-winter.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 2 | 107196 | [107196-gear-club-unlimited-2.json](./107196-gear-club-unlimited-2.json) |
 | Gear.Club Unlimited 2: Definitive Edition | 172590 | [172590-gear-club-unlimited-2-definitive-edition.json](./172590-gear-club-unlimited-2-definitive-edition.json) |
 | Gear.Club Unlimited 2: Deluxe Edition | 220930 | [220930-gear-club-unlimited-2-deluxe-edition.json](./220930-gear-club-unlimited-2-deluxe-edition.json) |
+| Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
 | Gear.Club Unlimited 3: Career Start Pack | 385185 | [385185-gear-club-unlimited-3-career-start-pack.json](./385185-gear-club-unlimited-3-career-start-pack.json) |
@@ -7613,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Adventure Galaxy | 74013 | [74013-golf-adventure-galaxy.json](./74013-golf-adventure-galaxy.json) |
 | Golf Adventures! | 181717 | [181717-golf-adventures.json](./181717-golf-adventures.json) |
 | Golf Around 2 | 396032 | [396032-golf-around-2.json](./396032-golf-around-2.json) |
+| Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Assassin: Break of Egghead Mafia | 204831 | [204831-golf-assassin-break-of-egghead-mafia.json](./204831-golf-assassin-break-of-egghead-mafia.json) |
 | Golf Ba Multimedia Shinchaku: Susono Country Club Hen | 254428 | [254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json](./254428-golf-ba-multimedia-shinchaku-susono-country-club-hen.json) |
 | Golf Bash: Online | 304397 | [304397-golf-bash-online.json](./304397-golf-bash-online.json) |
