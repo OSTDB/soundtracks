@@ -646,7 +646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gracewind Tale: Midnight Shift with Lenny Motts | 327729 | [327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json](./327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json) |
 | A Gracewind Tale: The Leeds Murder | 327730 | [327730-a-gracewind-tale-the-leeds-murder.json](./327730-a-gracewind-tale-the-leeds-murder.json) |
 | A Grain of Truth | 388278 | [388278-a-grain-of-truth.json](./388278-a-grain-of-truth.json) |
-| A Grande Bagunça Espacial: The Big Space Mess | 90459 | [90459-a-grande-bagunca-espacial-the-big-space-mess.json](./90459-a-grande-bagunca-espacial-the-big-space-mess.json) |
 | A Grave Errand | 419620 | [419620-a-grave-errand.json](./419620-a-grave-errand.json) |
 | A Grave Mistake | 309152 | [309152-a-grave-mistake.json](./309152-a-grave-mistake.json) |
 | A Graveyard for Dreams | 182105 | [182105-a-graveyard-for-dreams.json](./182105-a-graveyard-for-dreams.json) |
@@ -2779,7 +2778,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Baseball Stars 2 | 116527 | [116527-aca-neo-geo-baseball-stars-2.json](./116527-aca-neo-geo-baseball-stars-2.json) |
 | ACA Neo Geo: Baseball Stars Professional | 102345 | [102345-aca-neo-geo-baseball-stars-professional.json](./102345-aca-neo-geo-baseball-stars-professional.json) |
 | ACA Neo Geo: Big Tournament Golf | 147093 | [147093-aca-neo-geo-big-tournament-golf.json](./147093-aca-neo-geo-big-tournament-golf.json) |
-| ACA Neo Geo: Blazing Star | 90518 | [90518-aca-neo-geo-blazing-star.json](./90518-aca-neo-geo-blazing-star.json) |
 | ACA Neo Geo: Blue's Journey | 68483 | [68483-aca-neo-geo-blues-journey.json](./68483-aca-neo-geo-blues-journey.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Crossed Swords | 118707 | [118707-aca-neo-geo-crossed-swords.json](./118707-aca-neo-geo-crossed-swords.json) |
@@ -2853,7 +2851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '95 | 99735 | [99735-aca-neo-geo-the-king-of-fighters-95.json](./99735-aca-neo-geo-the-king-of-fighters-95.json) |
 | ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
-| ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
 | ACA Neo Geo: The King of Fighters '99 | 106073 | [106073-aca-neo-geo-the-king-of-fighters-99.json](./106073-aca-neo-geo-the-king-of-fighters-99.json) |
 | ACA Neo Geo: The King of Fighters 2000 | 106074 | [106074-aca-neo-geo-the-king-of-fighters-2000.json](./106074-aca-neo-geo-the-king-of-fighters-2000.json) |
 | ACA Neo Geo: The King of Fighters 2001 | 110418 | [110418-aca-neo-geo-the-king-of-fighters-2001.json](./110418-aca-neo-geo-the-king-of-fighters-2001.json) |
@@ -3233,7 +3230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
 | Achievement Clicker 2018 | 81847 | [81847-achievement-clicker-2018.json](./81847-achievement-clicker-2018.json) |
-| Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
@@ -3268,7 +3264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Zombie | 367317 | [367317-achievement-hunter-zombie.json](./367317-achievement-hunter-zombie.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
-| Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Lurker: Another one bites the dust | 95214 | [95214-achievement-lurker-another-one-bites-the-dust.json](./95214-achievement-lurker-another-one-bites-the-dust.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
@@ -5973,7 +5968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
-| Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
@@ -6833,7 +6827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Renovator Simulator | 267295 | [267295-airport-renovator-simulator.json](./267295-airport-renovator-simulator.json) |
 | Airport Run | 268016 | [268016-airport-run.json](./268016-airport-run.json) |
 | Airport Rush 3D | 234432 | [234432-airport-rush-3d.json](./234432-airport-rush-3d.json) |
-| Airport Scanner | 91172 | [91172-airport-scanner.json](./91172-airport-scanner.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
 | Airport Service Simulator | 204979 | [204979-airport-service-simulator.json](./204979-airport-service-simulator.json) |
 | Airport Simulator | 52386 | [52386-airport-simulator.json](./52386-airport-simulator.json) |
@@ -7535,7 +7528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder Forge | 186480 | [186480-alder-forge.json](./186480-alder-forge.json) |
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
-| Alder's Blood | 90277 | [90277-alders-blood.json](./90277-alders-blood.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
@@ -11576,7 +11568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
 | Angry Zombie Basket | 213078 | [213078-angry-zombie-basket.json](./213078-angry-zombie-basket.json) |
-| Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | AngryCup | 228157 | [228157-angrycup.json](./228157-angrycup.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
@@ -12758,7 +12749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Shadow | 237468 | [237468-another-shadow.json](./237468-another-shadow.json) |
 | Another Side | 201872 | [201872-another-side.json](./201872-another-side.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
-| Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
 | Another Small Favor... | 58011 | [58011-another-small-favor.json](./58011-another-small-favor.json) |
 | Another Sonic 2 Remake | 299015 | [299015-another-sonic-2-remake.json](./299015-another-sonic-2-remake.json) |
@@ -14606,7 +14596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Legion | 302238 | [302238-arcade-archives-legion.json](./302238-arcade-archives-legion.json) |
 | Arcade Archives: Libble Rabble | 180979 | [180979-arcade-archives-libble-rabble.json](./180979-arcade-archives-libble-rabble.json) |
-| Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
 | Arcade Archives: Mach Breakers | 365535 | [365535-arcade-archives-mach-breakers.json](./365535-arcade-archives-mach-breakers.json) |
@@ -14631,7 +14620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mighty Guy | 283021 | [283021-arcade-archives-mighty-guy.json](./283021-arcade-archives-mighty-guy.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Cresta | 70138 | [70138-arcade-archives-moon-cresta.json](./70138-arcade-archives-moon-cresta.json) |
-| Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Moon Shuttle | 318751 | [318751-arcade-archives-moon-shuttle.json](./318751-arcade-archives-moon-shuttle.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mouser | 291646 | [291646-arcade-archives-mouser.json](./291646-arcade-archives-mouser.json) |
@@ -19619,7 +19607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Premium Edition | 224148 | [224148-atomic-heart-premium-edition.json](./224148-atomic-heart-premium-edition.json) |
 | Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
-| Atomic Heist | 90091 | [90091-atomic-heist.json](./90091-atomic-heist.json) |
 | Atomic Lance | 379398 | [379398-atomic-lance.json](./379398-atomic-lance.json) |
 | Atomic Ninjas | 8649 | [8649-atomic-ninjas.json](./8649-atomic-ninjas.json) |
 | Atomic Order | 214954 | [214954-atomic-order.json](./214954-atomic-order.json) |
@@ -21072,7 +21059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Zombie Games Bundle | 165865 | [165865-awesome-zombie-games-bundle.json](./165865-awesome-zombie-games-bundle.json) |
 | Awesome: The Game | 313359 | [313359-awesome-the-game.json](./313359-awesome-the-game.json) |
 | Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
-| Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
 | Awesomenauts Overdrive | 109468 | [109468-awesomenauts-overdrive.json](./109468-awesomenauts-overdrive.json) |
 | Awesomenauts Starstorm | 109469 | [109469-awesomenauts-starstorm.json](./109469-awesomenauts-starstorm.json) |
 | Awesum Plus | 69452 | [69452-awesum-plus.json](./69452-awesum-plus.json) |
