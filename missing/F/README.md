@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Farwoods | 203248 | [203248-farwoods.json](./203248-farwoods.json) |
 | Farworld Pioneers | 151956 | [151956-farworld-pioneers.json](./151956-farworld-pioneers.json) |
+| Fary's Cabin in the Tangled Woods | 346838 | [346838-farys-cabin-in-the-tangled-woods.json](./346838-farys-cabin-in-the-tangled-woods.json) |
 | Faryloopa | 389198 | [389198-faryloopa.json](./389198-faryloopa.json) |
 | FAS: Fight Action Sandbox | 243569 | [243569-fas-fight-action-sandbox.json](./243569-fas-fight-action-sandbox.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
@@ -10196,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fold | 115403 | [115403-fold.json](./115403-fold.json) |
 | Fold | 263926 | [263926-fold.json](./263926-fold.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
+| Fold & Fly | 357479 | [357479-fold-and-fly.json](./357479-fold-and-fly.json) |
 | Fold Stories | 215576 | [215576-fold-stories.json](./215576-fold-stories.json) |
 | Fold the World | 348800 | [348800-fold-the-world.json](./348800-fold-the-world.json) |
 | Fold'Em | 422822 | [422822-foldem.json](./422822-foldem.json) |
@@ -11084,6 +11086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
+| Forest | 346813 | [346813-forest.json](./346813-forest.json) |
 | Forest 3 | 381236 | [381236-forest-3.json](./381236-forest-3.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
@@ -15010,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugu Maze | 104703 | [104703-fugu-maze.json](./104703-fugu-maze.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue | 376806 | [376806-fugue.json](./376806-fugue.json) |
+| Fugue Shot: Minigame Roguelike | 346828 | [346828-fugue-shot-minigame-roguelike.json](./346828-fugue-shot-minigame-roguelike.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
