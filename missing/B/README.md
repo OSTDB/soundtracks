@@ -2500,7 +2500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banneret | 398398 | [398398-banneret.json](./398398-banneret.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Bannerlings | 419941 | [419941-bannerlings.json](./419941-bannerlings.json) |
-| Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
 | Banners Begone! | 177153 | [177153-banners-begone.json](./177153-banners-begone.json) |
 | Banners of Ruin | 133408 | [133408-banners-of-ruin.json](./133408-banners-of-ruin.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
