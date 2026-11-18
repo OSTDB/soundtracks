@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Anime: Cute Girls Magic World | 409685 | [409685-kawaii-anime-cute-girls-magic-world.json](./409685-kawaii-anime-cute-girls-magic-world.json) |
 | Kawaii Ano Ko ha Yousha toka Zenzen Shinai: Jiai no Youkou-hen | 376681 | [376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json](./376681-kawaii-ano-ko-ha-yousha-toka-zenzen-shinai-jiai-no-youkou-hen.json) |
 | Kawaii Asian Girls | 219874 | [219874-kawaii-asian-girls.json](./219874-kawaii-asian-girls.json) |
+| Kawaii Clicker Reborn | 372899 | [372899-kawaii-clicker-reborn.json](./372899-kawaii-clicker-reborn.json) |
 | Kawaii Coloring Book | 104223 | [104223-kawaii-coloring-book.json](./104223-kawaii-coloring-book.json) |
 | Kawaii Dake ja Dame? | 238115 | [238115-kawaii-dake-ja-dame.json](./238115-kawaii-dake-ja-dame.json) |
 | Kawaii Deathu Desu | 120089 | [120089-kawaii-deathu-desu.json](./120089-kawaii-deathu-desu.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Cards | 278608 | [278608-kingdom-of-cards.json](./278608-kingdom-of-cards.json) |
 | Kingdom of Cards | 317788 | [317788-kingdom-of-cards.json](./317788-kingdom-of-cards.json) |
 | Kingdom of Cards and Tiles | 338624 | [338624-kingdom-of-cards-and-tiles.json](./338624-kingdom-of-cards-and-tiles.json) |
+| Kingdom Of Choices | 376363 | [376363-kingdom-of-choices.json](./376363-kingdom-of-choices.json) |
 | Kingdom of Corrupts | 149380 | [149380-kingdom-of-corrupts.json](./149380-kingdom-of-corrupts.json) |
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Doom | 279276 | [279276-kingdom-of-doom.json](./279276-kingdom-of-doom.json) |
