@@ -4555,6 +4555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon DVD Bingo | 77045 | [77045-nickelodeon-dvd-bingo.json](./77045-nickelodeon-dvd-bingo.json) |
 | Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
+| Nickelodeon Extreme Tennis: Next! | 397633 | [397633-nickelodeon-extreme-tennis-next.json](./397633-nickelodeon-extreme-tennis-next.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Game Builder: Fanboy & Chum Chum | 326001 | [326001-nickelodeon-game-builder-fanboy-and-chum-chum.json](./326001-nickelodeon-game-builder-fanboy-and-chum-chum.json) |
 | Nickelodeon Game Builder: SpongeBob SquarePants | 210356 | [210356-nickelodeon-game-builder-spongebob-squarepants.json](./210356-nickelodeon-game-builder-spongebob-squarepants.json) |
