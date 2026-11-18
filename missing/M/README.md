@@ -7615,6 +7615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Ops 2092 | 401622 | [401622-mech-ops-2092.json](./401622-mech-ops-2092.json) |
 | Mech Platoon | 6508 | [6508-mech-platoon.json](./6508-mech-platoon.json) |
 | Mech Punk | 211792 | [211792-mech-punk.json](./211792-mech-punk.json) |
+| Mech Rage | 109378 | [109378-mech-rage.json](./109378-mech-rage.json) |
 | Mech Robot: Battle Shooter Warrior | 399661 | [399661-mech-robot-battle-shooter-warrior.json](./399661-mech-robot-battle-shooter-warrior.json) |
 | Mech Shop | 373783 | [373783-mech-shop.json](./373783-mech-shop.json) |
 | Mech Shuffle | 211964 | [211964-mech-shuffle.json](./211964-mech-shuffle.json) |
@@ -10125,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorize the Cards | 301382 | [301382-memorize-the-cards.json](./301382-memorize-the-cards.json) |
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorize V | 164229 | [164229-memorize-v.json](./164229-memorize-v.json) |
+| Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memorrha Mobile | 232601 | [232601-memorrha-mobile.json](./232601-memorrha-mobile.json) |
 | Memory | 152143 | [152143-memory.json](./152143-memory.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
@@ -10355,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mend Game | 134928 | [134928-mend-game.json](./134928-mend-game.json) |
 | Mendacium | 273466 | [273466-mendacium.json](./273466-mendacium.json) |
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
+| Mendel | 107943 | [107943-mendel.json](./107943-mendel.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Mendel Simulator | 408416 | [408416-mendel-simulator.json](./408416-mendel-simulator.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
@@ -17228,6 +17231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Pop | 109965 | [109965-momo-pop.json](./109965-momo-pop.json) |
 | Momo Pop | 364342 | [364342-momo-pop.json](./364342-momo-pop.json) |
 | Momo.exe | 108391 | [108391-momo-exe.json](./108391-momo-exe.json) |
+| Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo.exe VR | 173898 | [173898-momo-exe-vr.json](./173898-momo-exe-vr.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
 | Momo's Diary | 212780 | [212780-momos-diary.json](./212780-momos-diary.json) |
@@ -23882,6 +23886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Magic Florist | 146773 | [146773-my-magic-florist.json](./146773-my-magic-florist.json) |
 | My Magic Florist: Deluxe Edition | 199815 | [199815-my-magic-florist-deluxe-edition.json](./199815-my-magic-florist-deluxe-edition.json) |
 | My Magical Boyfriend | 230179 | [230179-my-magical-boyfriend.json](./230179-my-magical-boyfriend.json) |
+| My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
 | My Magical Girlfriends | 210775 | [210775-my-magical-girlfriends.json](./210775-my-magical-girlfriends.json) |
 | My Maid Cafe Romance | 206863 | [206863-my-maid-cafe-romance.json](./206863-my-maid-cafe-romance.json) |
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
@@ -24124,6 +24129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables 3D - Jumping for the Team | 84718 | [84718-my-riding-stables-3d-jumping-for-the-team.json](./84718-my-riding-stables-3d-jumping-for-the-team.json) |
 | My Riding Stables: Life with Horses | 403280 | [403280-my-riding-stables-life-with-horses.json](./403280-my-riding-stables-life-with-horses.json) |
+| My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
 | My Rose | 384317 | [384317-my-rose.json](./384317-my-rose.json) |
 | My Royal Guardian | 299511 | [299511-my-royal-guardian.json](./299511-my-royal-guardian.json) |
@@ -24655,6 +24661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Other Side of Church | 122856 | [122856-mystereet-other-side-of-church.json](./122856-mystereet-other-side-of-church.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
+| Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
 | Mysteria of the World: The Forest of Death | 188950 | [188950-mysteria-of-the-world-the-forest-of-death.json](./188950-mysteria-of-the-world-the-forest-of-death.json) |
 | Mysterica | 158908 | [158908-mysterica.json](./158908-mysterica.json) |
 | Mysteries & Nightmares: Morgiana | 35445 | [35445-mysteries-and-nightmares-morgiana.json](./35445-mysteries-and-nightmares-morgiana.json) |
