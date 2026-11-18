@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | Karazakushiki | 330648 | [330648-karazakushiki.json](./330648-karazakushiki.json) |
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
+| Kard Combat | 342927 | [342927-kard-combat.json](./342927-kard-combat.json) |
 | Kardashev | 267847 | [267847-kardashev.json](./267847-kardashev.json) |
 | Kardboard Kings: Card Game Island | 222960 | [222960-kardboard-kings-card-game-island.json](./222960-kardboard-kings-card-game-island.json) |
 | Kardboard Kings: Card Shop Simulator | 154036 | [154036-kardboard-kings-card-shop-simulator.json](./154036-kardboard-kings-card-shop-simulator.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
 | Keaton's Adventure | 303611 | [303611-keatons-adventure.json](./303611-keatons-adventure.json) |
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
+| Keb Up! | 336796 | [336796-keb-up.json](./336796-keb-up.json) |
 | Kebab Bar Tycoon | 280070 | [280070-kebab-bar-tycoon.json](./280070-kebab-bar-tycoon.json) |
 | Kebab Bar Tycoon: Extended Edition | 295675 | [295675-kebab-bar-tycoon-extended-edition.json](./295675-kebab-bar-tycoon-extended-edition.json) |
 | Kebab Bar Tycoon: Premium Edition | 303845 | [303845-kebab-bar-tycoon-premium-edition.json](./303845-kebab-bar-tycoon-premium-edition.json) |
