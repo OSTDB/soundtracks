@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Monster RPG: Running out of slime | 121819 | [121819-one-monster-rpg-running-out-of-slime.json](./121819-one-monster-rpg-running-out-of-slime.json) |
 | One More Adventure | 423307 | [423307-one-more-adventure.json](./423307-one-more-adventure.json) |
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
+| One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
 | One More Claw | 422437 | [422437-one-more-claw.json](./422437-one-more-claw.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
