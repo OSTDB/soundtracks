@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
 | Dead Pets: A Punk Rock Slice of Life Sim | 213654 | [213654-dead-pets-a-punk-rock-slice-of-life-sim.json](./213654-dead-pets-a-punk-rock-slice-of-life-sim.json) |
 | Dead Phoenix | 67051 | [67051-dead-phoenix.json](./67051-dead-phoenix.json) |
+| Dead Pixel | 336767 | [336767-dead-pixel.json](./336767-dead-pixel.json) |
 | Dead Pixels | 320652 | [320652-dead-pixels.json](./320652-dead-pixels.json) |
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivering Letters | 227137 | [227137-delivering-letters.json](./227137-delivering-letters.json) |
 | DeliverwarTH | 372229 | [372229-deliverwarth.json](./372229-deliverwarth.json) |
 | Delivery | 122596 | [122596-delivery.json](./122596-delivery.json) |
+| Delivery & Beyond | 342937 | [342937-delivery-and-beyond.json](./342937-delivery-and-beyond.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
 | Delivery Company Clicker | 149303 | [149303-delivery-company-clicker.json](./149303-delivery-company-clicker.json) |
 | Delivery Dash: Battle Couriers | 375885 | [375885-delivery-dash-battle-couriers.json](./375885-delivery-dash-battle-couriers.json) |
@@ -11145,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak Strange Mutations Collection | 274837 | [274837-dinobreak-strange-mutations-collection.json](./274837-dinobreak-strange-mutations-collection.json) |
 | Dinobreak Triassic Torment Collection | 272701 | [272701-dinobreak-triassic-torment-collection.json](./272701-dinobreak-triassic-torment-collection.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
+| Dinobreak: Couch Co-Op Collection | 336783 | [336783-dinobreak-couch-co-op-collection.json](./336783-dinobreak-couch-co-op-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinocide | 14299 | [14299-dinocide.json](./14299-dinocide.json) |
@@ -18169,6 +18172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadWood | 184110 | [184110-dreadwood.json](./184110-dreadwood.json) |
 | Dreadwoods Gatekeeper | 295507 | [295507-dreadwoods-gatekeeper.json](./295507-dreadwoods-gatekeeper.json) |
 | Dreadwoods Gatekeeper: Prologue | 295494 | [295494-dreadwoods-gatekeeper-prologue.json](./295494-dreadwoods-gatekeeper-prologue.json) |
+| Dreadzone | 332709 | [332709-dreadzone.json](./332709-dreadzone.json) |
 | Drealegy | 287046 | [287046-drealegy.json](./287046-drealegy.json) |
 | Dream | 147828 | [147828-dream.json](./147828-dream.json) |
 | Dream | 195928 | [195928-dream.json](./195928-dream.json) |
