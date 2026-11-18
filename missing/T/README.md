@@ -9909,6 +9909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
 | The Elder Scrolls Online: Firesong | 237340 | [237340-the-elder-scrolls-online-firesong.json](./237340-the-elder-scrolls-online-firesong.json) |
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
+| The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
 | The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
 | The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
@@ -12786,6 +12787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invincible Run-Gun-Bot | 179653 | [179653-the-invincible-run-gun-bot.json](./179653-the-invincible-run-gun-bot.json) |
 | The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
+| The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
 | The Invisible Hours | 28044 | [28044-the-invisible-hours.json](./28044-the-invisible-hours.json) |
 | The Invisible Smoke Factory | 312592 | [312592-the-invisible-smoke-factory.json](./312592-the-invisible-smoke-factory.json) |
@@ -36296,6 +36298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth or Dare Party | 86909 | [86909-truth-or-dare-party.json](./86909-truth-or-dare-party.json) |
 | Truth or Dare? | 74918 | [74918-truth-or-dare.json](./74918-truth-or-dare.json) |
 | Truth or Dare? Fun Party Games | 106945 | [106945-truth-or-dare-fun-party-games.json](./106945-truth-or-dare-fun-party-games.json) |
+| Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth Scrapper | 344661 | [344661-truth-scrapper.json](./344661-truth-scrapper.json) |
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
