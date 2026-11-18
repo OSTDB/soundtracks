@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Dreams | 360733 | [360733-waking-dreams.json](./360733-waking-dreams.json) |
 | Waking Knightmare | 220279 | [220279-waking-knightmare.json](./220279-waking-knightmare.json) |
+| Waking Mars | 14722 | [14722-waking-mars.json](./14722-waking-mars.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waking Nightmares | 375287 | [375287-waking-nightmares.json](./375287-waking-nightmares.json) |
 | Waking Nitemare | 309429 | [309429-waking-nitemare.json](./309429-waking-nitemare.json) |
@@ -2508,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Your Wedding | 366413 | [366413-waste-your-wedding.json](./366413-waste-your-wedding.json) |
 | Wastebraver | 205101 | [205101-wastebraver.json](./205101-wastebraver.json) |
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
+| Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted | 182832 | [182832-wasted.json](./182832-wasted.json) |
 | Wasted | 327744 | [327744-wasted.json](./327744-wasted.json) |
 | Wasted | 338393 | [338393-wasted.json](./338393-wasted.json) |
@@ -3003,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
 | Way of the Knight | 114746 | [114746-way-of-the-knight.json](./114746-way-of-the-knight.json) |
 | Way of the Orb | 115880 | [115880-way-of-the-orb.json](./115880-way-of-the-orb.json) |
+| Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
 | Way of the Samurai 3 | 7247 | [7247-way-of-the-samurai-3.json](./7247-way-of-the-samurai-3.json) |
 | Way of the Samurai 3 Plus | 140871 | [140871-way-of-the-samurai-3-plus.json](./140871-way-of-the-samurai-3-plus.json) |
 | Way of the Samurai 3: Deluxe Edition | 124909 | [124909-way-of-the-samurai-3-deluxe-edition.json](./124909-way-of-the-samurai-3-deluxe-edition.json) |
@@ -4378,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's the Point? | 312200 | [312200-whats-the-point.json](./312200-whats-the-point.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
 | What's the Year | 233066 | [233066-whats-the-year.json](./233066-whats-the-year.json) |
+| What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
 | What's under your blanket 2 !? | 29217 | [29217-whats-under-your-blanket-2.json](./29217-whats-under-your-blanket-2.json) |
 | What's Up by Strawberry Studio | 175868 | [175868-whats-up-by-strawberry-studio.json](./175868-whats-up-by-strawberry-studio.json) |
 | What's Up There? | 282225 | [282225-whats-up-there.json](./282225-whats-up-there.json) |
@@ -6412,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windmill Engine | 215290 | [215290-windmill-engine.json](./215290-windmill-engine.json) |
 | Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
 | Windmills | 188729 | [188729-windmills.json](./188729-windmills.json) |
+| Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
 | Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
 | Window Garden | 252785 | [252785-window-garden.json](./252785-window-garden.json) |
@@ -6584,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
+| Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
 | Wings of Glass | 114603 | [114603-wings-of-glass.json](./114603-wings-of-glass.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Glory | 46717 | [46717-wings-of-glory.json](./46717-wings-of-glory.json) |
@@ -9944,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Blast | 248469 | [248469-worms-blast.json](./248469-worms-blast.json) |
 | Worms Blast | 4236 | [4236-worms-blast.json](./4236-worms-blast.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
+| Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
 | Worms Galactic Tactics | 414949 | [414949-worms-galactic-tactics.json](./414949-worms-galactic-tactics.json) |
@@ -9981,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms World Party | 6294 | [6294-worms-world-party.json](./6294-worms-world-party.json) |
 | Worms World Party Remastered | 20025 | [20025-worms-world-party-remastered.json](./20025-worms-world-party-remastered.json) |
 | Worms: Open Warfare | 18313 | [18313-worms-open-warfare.json](./18313-worms-open-warfare.json) |
+| Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: Revolution Extreme | 53032 | [53032-worms-revolution-extreme.json](./53032-worms-revolution-extreme.json) |
 | Worms: Special Edition | 88828 | [88828-worms-special-edition.json](./88828-worms-special-edition.json) |
