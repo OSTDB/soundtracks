@@ -2474,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tanuki Forest | 62027 | [62027-tanuki-forest.json](./62027-tanuki-forest.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
+| Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
 | Tanuki Tag | 424298 | [424298-tanuki-tag.json](./424298-tanuki-tag.json) |
 | Tanuki Tales | 307160 | [307160-tanuki-tales.json](./307160-tanuki-tales.json) |
@@ -16605,6 +16606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Otherside: Realm of Eons | 16163 | [16163-the-otherside-realm-of-eons.json](./16163-the-otherside-realm-of-eons.json) |
 | The Otherwilde | 202655 | [202655-the-otherwilde.json](./202655-the-otherwilde.json) |
 | The Otter Ways | 288778 | [288778-the-otter-ways.json](./288778-the-otter-ways.json) |
+| The Otterman Empire | 126964 | [126964-the-otterman-empire.json](./126964-the-otterman-empire.json) |
 | The Ottifants | 46355 | [46355-the-ottifants.json](./46355-the-ottifants.json) |
 | The Ourboros King | 215374 | [215374-the-ourboros-king.json](./215374-the-ourboros-king.json) |
 | The Ouroboros Express | 325529 | [325529-the-ouroboros-express.json](./325529-the-ouroboros-express.json) |
@@ -18128,6 +18130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Santa Challenge | 130641 | [130641-the-santa-challenge.json](./130641-the-santa-challenge.json) |
 | The Santa Clause 3: The Escape Clause | 49429 | [49429-the-santa-clause-3-the-escape-clause.json](./49429-the-santa-clause-3-the-escape-clause.json) |
 | The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
+| The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
 | The Saragossa Manuscript | 211868 | [211868-the-saragossa-manuscript.json](./211868-the-saragossa-manuscript.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
@@ -19684,6 +19687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge 2: Limited Edition | 202217 | [202217-the-surge-2-limited-edition.json](./202217-the-surge-2-limited-edition.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge 2: Public Enemy Weapon Pack | 223532 | [223532-the-surge-2-public-enemy-weapon-pack.json](./223532-the-surge-2-public-enemy-weapon-pack.json) |
+| The Surge 2: The Kraken | 125153 | [125153-the-surge-2-the-kraken.json](./125153-the-surge-2-the-kraken.json) |
 | The Surge: A Walk in the Park | 75285 | [75285-the-surge-a-walk-in-the-park.json](./75285-the-surge-a-walk-in-the-park.json) |
 | The Surge: Augmented Edition | 118552 | [118552-the-surge-augmented-edition.json](./118552-the-surge-augmented-edition.json) |
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
@@ -26959,6 +26963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
+| Tip of the Spear: Task Force Elite | 125393 | [125393-tip-of-the-spear-task-force-elite.json](./125393-tip-of-the-spear-task-force-elite.json) |
 | Tip of the Tongue | 387756 | [387756-tip-of-the-tongue.json](./387756-tip-of-the-tongue.json) |
 | Tip Off | 12798 | [12798-tip-off.json](./12798-tip-off.json) |
 | Tip Top | 166914 | [166914-tip-top.json](./166914-tip-top.json) |
@@ -30137,6 +30142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Houtenkyou: Treasure Castle Labyrinth | 276761 | [276761-touhou-houtenkyou-treasure-castle-labyrinth.json](./276761-touhou-houtenkyou-treasure-castle-labyrinth.json) |
 | Touhou Hyakki Kasen | 250581 | [250581-touhou-hyakki-kasen.json](./250581-touhou-hyakki-kasen.json) |
 | Touhou Hyouibana: Antinomy of Common Flowers | 76829 | [76829-touhou-hyouibana-antinomy-of-common-flowers.json](./76829-touhou-hyouibana-antinomy-of-common-flowers.json) |
+| Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Idle | 423296 | [423296-touhou-idle.json](./423296-touhou-idle.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Iyuushou: What the Bullet Hell?! | 351102 | [351102-touhou-iyuushou-what-the-bullet-hell.json](./351102-touhou-iyuushou-what-the-bullet-hell.json) |
@@ -32796,6 +32802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
 | Train Valley 2: Myths and Rails | 200932 | [200932-train-valley-2-myths-and-rails.json](./200932-train-valley-2-myths-and-rails.json) |
+| Train Valley 2: Passenger Flow | 124938 | [124938-train-valley-2-passenger-flow.json](./124938-train-valley-2-passenger-flow.json) |
 | Train Valley 2: Patent Pending | 291118 | [291118-train-valley-2-patent-pending.json](./291118-train-valley-2-patent-pending.json) |
 | Train Valley 2: The Pandeia Project | 252620 | [252620-train-valley-2-the-pandeia-project.json](./252620-train-valley-2-the-pandeia-project.json) |
 | Train Valley 2: Workshop Gems - Amber | 401594 | [401594-train-valley-2-workshop-gems-amber.json](./401594-train-valley-2-workshop-gems-amber.json) |
