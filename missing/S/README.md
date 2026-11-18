@@ -8629,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Tale: Fish Eat Fish | 325144 | [325144-shark-tale-fish-eat-fish.json](./325144-shark-tale-fish-eat-fish.json) |
 | Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
 | Shark Turtle | 272479 | [272479-shark-turtle.json](./272479-shark-turtle.json) |
+| Shark Wizard | 140659 | [140659-shark-wizard.json](./140659-shark-wizard.json) |
 | Shark! Hunting the Great White | 71770 | [71770-shark-hunting-the-great-white.json](./71770-shark-hunting-the-great-white.json) |
 | Shark! Shark! | 228300 | [228300-shark-shark.json](./228300-shark-shark.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
@@ -9564,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Persona 3 Portable - Collector's Edition | 41863 | [41863-shin-megami-tensei-persona-3-portable-collectors-edition.json](./41863-shin-megami-tensei-persona-3-portable-collectors-edition.json) |
 | Shin Megami Tensei: Strange Journey | 15467 | [15467-shin-megami-tensei-strange-journey.json](./15467-shin-megami-tensei-strange-journey.json) |
 | Shin Megami Tensei: Strange Journey 2 | 299176 | [299176-shin-megami-tensei-strange-journey-2.json](./299176-shin-megami-tensei-strange-journey-2.json) |
+| Shin Megami Tensei: The Reborn World | 140647 | [140647-shin-megami-tensei-the-reborn-world.json](./140647-shin-megami-tensei-the-reborn-world.json) |
 | Shin Megami Tensei: Tokyo Requiem | 136615 | [136615-shin-megami-tensei-tokyo-requiem.json](./136615-shin-megami-tensei-tokyo-requiem.json) |
 | Shin Moero!! Pro Yakyuu | 48847 | [48847-shin-moero-pro-yakyuu.json](./48847-shin-moero-pro-yakyuu.json) |
 | Shin Momotaro Densetsu | 42297 | [42297-shin-momotaro-densetsu.json](./42297-shin-momotaro-densetsu.json) |
@@ -29806,6 +29808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
 | Stella Incus | 390222 | [390222-stella-incus.json](./390222-stella-incus.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
+| Stella of the End | 140634 | [140634-stella-of-the-end.json](./140634-stella-of-the-end.json) |
 | Stella of The End: Diary of a Faint Hope | 325915 | [325915-stella-of-the-end-diary-of-a-faint-hope.json](./325915-stella-of-the-end-diary-of-a-faint-hope.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Pastoris | 172890 | [172890-stella-pastoris.json](./172890-stella-pastoris.json) |
