@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T01:26:16.855Z",
-  "total_soundtracks": 3800,
+  "generated_at": "2026-11-18T01:41:26.936Z",
+  "total_soundtracks": 3806,
   "games": [
     {
       "igdb_id": 292844,
@@ -4321,6 +4321,20 @@
       ]
     },
     {
+      "igdb_id": 34604,
+      "game_name": "Battlevoid: Harbinger",
+      "game_url": "https://ostdb.net/games/battlevoid-harbinger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ca953ef522db0f17a4c3b68",
+      "albums": [
+        {
+          "album_name": "Battlevoid: Harbinger Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2rBRSO3iINYPuhnStwgKrm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 14368,
       "game_name": "Battlezone",
       "game_url": "https://ostdb.net/games/battlezone",
@@ -6941,6 +6955,20 @@
       ]
     },
     {
+      "igdb_id": 34921,
+      "game_name": "Castles",
+      "game_url": "https://ostdb.net/games/castles",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273674c1f329abed50c0aeb5c49",
+      "albums": [
+        {
+          "album_name": "Castles (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5rJ1cNdOjyP2TytzMNXBKS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19136,
       "game_name": "CastleStorm",
       "game_url": "https://ostdb.net/games/castlestorm",
@@ -9247,6 +9275,20 @@
         {
           "album_name": "Dark Envoy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6il6Ntqv3tMvjGMyG9GKta",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35251,
+      "game_name": "Dark Future: Blood Red States",
+      "game_url": "https://ostdb.net/games/dark-future-blood-red-states",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333883a0022cea11e5b0b2f32",
+      "albums": [
+        {
+          "album_name": "Dark Future: Blood Red States (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5siZID6kSxd4UlVGzs4Hwb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19847,6 +19889,20 @@
       ]
     },
     {
+      "igdb_id": 35861,
+      "game_name": "I Can't Escape: Darkness",
+      "game_url": "https://ostdb.net/games/i-cant-escape-darkness",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27384bc5ed02494d95ea66ed7be",
+      "albums": [
+        {
+          "album_name": "I Can't Escape : Darkness Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0axCdxvu4CYD1hiF4IOIU8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 23283,
       "game_name": "Ian's Eyes",
       "game_url": "https://ostdb.net/games/ians-eyes",
@@ -26537,6 +26593,20 @@
       ]
     },
     {
+      "igdb_id": 34678,
+      "game_name": "Murasaki",
+      "game_url": "https://ostdb.net/games/murasaki",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730ba519c9a0a14a80eaab903d",
+      "albums": [
+        {
+          "album_name": "Murasaki -Original Soundtrack-",
+          "spotify_url": "https://open.spotify.com/album/7zrmaTvoY1Cqm9eRr4hwNi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 123902,
       "game_name": "Murder by Numbers",
       "game_url": "https://ostdb.net/games/murder-by-numbers",
@@ -30207,6 +30277,20 @@
         {
           "album_name": "Planet Crafter (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0ezBrNnZWMzAMCYzpf9AOo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 34069,
+      "game_name": "Planet Diver",
+      "game_url": "https://ostdb.net/games/planet-diver",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c926f91bfc8c222b26b37f7",
+      "albums": [
+        {
+          "album_name": "Planet Diver (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0M99R6jWfeyTzihz6NtODU",
           "apple_music_url": "",
           "album_link_url": ""
         }
