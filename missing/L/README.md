@@ -1729,7 +1729,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Seen Online | 98847 | [98847-last-seen-online.json](./98847-last-seen-online.json) |
 | Last Shape Standing | 164910 | [164910-last-shape-standing.json](./164910-last-shape-standing.json) |
 | Last Shark Standing | 123903 | [123903-last-shark-standing.json](./123903-last-shark-standing.json) |
-| Last Shelter: Survival | 89754 | [89754-last-shelter-survival.json](./89754-last-shelter-survival.json) |
 | Last Shelter: War Z | 414472 | [414472-last-shelter-war-z.json](./414472-last-shelter-war-z.json) |
 | Last Shift Standing | 386097 | [386097-last-shift-standing.json](./386097-last-shift-standing.json) |
 | Last Shift: Gas Station | 389640 | [389640-last-shift-gas-station.json](./389640-last-shift-gas-station.json) |
@@ -2984,7 +2983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Heroes: Three Kingdoms | 333603 | [333603-legend-of-heroes-three-kingdoms.json](./333603-legend-of-heroes-three-kingdoms.json) |
 | Legend of Hidden Flows | 252288 | [252288-legend-of-hidden-flows.json](./252288-legend-of-hidden-flows.json) |
-| Legend of Himari | 91221 | [91221-legend-of-himari.json](./91221-legend-of-himari.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
 | Legend of Homebody | 105492 | [105492-legend-of-homebody.json](./105492-legend-of-homebody.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
@@ -3657,7 +3655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Island 2: The Brickster's Revenge | 229841 | [229841-lego-island-2-the-bricksters-revenge.json](./229841-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 229925 | [229925-lego-island-2-the-bricksters-revenge.json](./229925-lego-island-2-the-bricksters-revenge.json) |
 | LEGO Island 2: The Brickster's Revenge | 5616 | [5616-lego-island-2-the-bricksters-revenge.json](./5616-lego-island-2-the-bricksters-revenge.json) |
-| LEGO Juniors | 88873 | [88873-lego-juniors.json](./88873-lego-juniors.json) |
 | LEGO Juniors Create & Cruise | 105878 | [105878-lego-juniors-create-and-cruise.json](./105878-lego-juniors-create-and-cruise.json) |
 | LEGO Jurassic World | 9918 | [9918-lego-jurassic-world.json](./9918-lego-jurassic-world.json) |
 | Lego Jurassic World DLC Pack | 264430 | [264430-lego-jurassic-world-dlc-pack.json](./264430-lego-jurassic-world-dlc-pack.json) |
@@ -5542,7 +5539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightblade VR | 32546 | [32546-lightblade-vr.json](./32546-lightblade-vr.json) |
 | Lightblue | 144505 | [144505-lightblue.json](./144505-lightblue.json) |
 | Lightbot Jr: Coding Puzzles | 93907 | [93907-lightbot-jr-coding-puzzles.json](./93907-lightbot-jr-coding-puzzles.json) |
-| Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
@@ -9732,7 +9728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Bloom | 149724 | [149724-lotus-bloom.json](./149724-lotus-bloom.json) |
 | Lotus Challenge | 248446 | [248446-lotus-challenge.json](./248446-lotus-challenge.json) |
 | Lotus Challenge | 3983 | [3983-lotus-challenge.json](./3983-lotus-challenge.json) |
-| Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus Esprit Turbo Challenge | 12671 | [12671-lotus-esprit-turbo-challenge.json](./12671-lotus-esprit-turbo-challenge.json) |
 | Lotus Esprit Turbo Challenge | 308147 | [308147-lotus-esprit-turbo-challenge.json](./308147-lotus-esprit-turbo-challenge.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
