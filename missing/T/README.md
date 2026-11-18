@@ -858,6 +858,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taishou Mebiusline Teito Bibouroku Hare | 141895 | [141895-taishou-mebiusline-teito-bibouroku-hare.json](./141895-taishou-mebiusline-teito-bibouroku-hare.json) |
 | Taishou Mebiusline Vitable | 141896 | [141896-taishou-mebiusline-vitable.json](./141896-taishou-mebiusline-vitable.json) |
 | Taishou x Alice: All in One | 54926 | [54926-taishou-x-alice-all-in-one.json](./54926-taishou-x-alice-all-in-one.json) |
+| Taito Arcade 1 | 346808 | [346808-taito-arcade-1.json](./346808-taito-arcade-1.json) |
+| Taito Arcade 2 | 346809 | [346809-taito-arcade-2.json](./346809-taito-arcade-2.json) |
 | Taito Arcade 3 | 393613 | [393613-taito-arcade-3.json](./393613-taito-arcade-3.json) |
 | Taito Chase H.Q. | 48629 | [48629-taito-chase-h-q.json](./48629-taito-chase-h-q.json) |
 | Taito Chase H.Q. Plus S.C.I.: Special Criminal Investigation | 78771 | [78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json](./78771-taito-chase-h-q-plus-s-c-i-special-criminal-investigation.json) |
@@ -2021,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanjoubi: Kayoizuma (Jishou) Nikki | 77939 | [77939-tanjoubi-kayoizuma-jishou-nikki.json](./77939-tanjoubi-kayoizuma-jishou-nikki.json) |
 | Tank | 118644 | [118644-tank.json](./118644-tank.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
+| Tank 2025 | 357475 | [357475-tank-2025.json](./357475-tank-2025.json) |
 | Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
 | Tank 8 | 113933 | [113933-tank-8.json](./113933-tank-8.json) |
 | Tank Ace | 91852 | [91852-tank-ace.json](./91852-tank-ace.json) |
@@ -9125,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The Deadliest Gambit | 313884 | [313884-the-deadliest-gambit.json](./313884-the-deadliest-gambit.json) |
 | The Deadliest Game | 313883 | [313883-the-deadliest-game.json](./313883-the-deadliest-game.json) |
+| The DeadLine | 357463 | [357463-the-deadline.json](./357463-the-deadline.json) |
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
@@ -22823,6 +22827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Color Ball | 181091 | [181091-three-color-ball.json](./181091-three-color-ball.json) |
 | Three Color Cannon | 360001 | [360001-three-color-cannon.json](./360001-three-color-cannon.json) |
 | Three Days | 35093 | [35093-three-days.json](./35093-three-days.json) |
+| Three Days After the Murderer | 346825 | [346825-three-days-after-the-murderer.json](./346825-three-days-after-the-murderer.json) |
 | Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
@@ -27300,6 +27305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
 | Tobi: Path of Truth | 251947 | [251947-tobi-path-of-truth.json](./251947-tobi-path-of-truth.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
+| Tobiano | 365315 | [365315-tobiano.json](./365315-tobiano.json) |
 | Tobias and the Dark Sceptres | 406364 | [406364-tobias-and-the-dark-sceptres.json](./406364-tobias-and-the-dark-sceptres.json) |
 | Tobichiyon X | 311750 | [311750-tobichiyon-x.json](./311750-tobichiyon-x.json) |
 | Tobidase! Trouble Hanafuda Douchuuki | 269512 | [269512-tobidase-trouble-hanafuda-douchuuki.json](./269512-tobidase-trouble-hanafuda-douchuuki.json) |
@@ -36837,6 +36843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnabout Turnabout | 318787 | [318787-turnabout-turnabout.json](./318787-turnabout-turnabout.json) |
 | Turnabouts of the Father | 303254 | [303254-turnabouts-of-the-father.json](./303254-turnabouts-of-the-father.json) |
 | Turnament | 192694 | [192694-turnament.json](./192694-turnament.json) |
+| Turnbound | 369783 | [369783-turnbound.json](./369783-turnbound.json) |
 | TurnBreak | 343278 | [343278-turnbreak.json](./343278-turnbreak.json) |
 | Turncoat Chronicle | 258087 | [258087-turncoat-chronicle.json](./258087-turncoat-chronicle.json) |
 | Turncoat Protocol | 179501 | [179501-turncoat-protocol.json](./179501-turncoat-protocol.json) |
