@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T02:06:49.559Z",
-  "total_soundtracks": 3823,
+  "generated_at": "2026-11-18T02:16:24.482Z",
+  "total_soundtracks": 3830,
   "games": [
     {
       "igdb_id": 292844,
@@ -347,6 +347,20 @@
         {
           "album_name": "A Little to the Left (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4JbNAjgYKr7JfUYLVdUuqQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26887,
+      "game_name": "A Matter of Murder",
+      "game_url": "https://ostdb.net/games/a-matter-of-murder",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab16baeaba9bb760fcae8344",
+      "albums": [
+        {
+          "album_name": "A Matter of Murder (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2oqg2xiYqoKytL76gNMWgU",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12533,6 +12547,20 @@
         {
           "album_name": "Earthlock (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7bMX4g0P6Oet956phBRXhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27742,
+      "game_name": "EarthNight",
+      "game_url": "https://ostdb.net/games/earthnight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273805b45c9f719a7327f66bd6b",
+      "albums": [
+        {
+          "album_name": "Earthnight (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Dd4WdcEFAoSnvNjf2pY31",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27209,6 +27237,20 @@
       ]
     },
     {
+      "igdb_id": 26846,
+      "game_name": "Necromunda: Underhive Wars",
+      "game_url": "https://ostdb.net/games/necromunda-underhive-wars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d12f072149ffc3aa813fc589",
+      "albums": [
+        {
+          "album_name": "Necromunda: Underhive Wars (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/04dAPYKzIyW7VdCG1UwzJ4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11347,
       "game_name": "Necropolis",
       "game_url": "https://ostdb.net/games/necropolis",
@@ -30367,6 +30409,20 @@
       ]
     },
     {
+      "igdb_id": 27405,
+      "game_name": "Pixel Privateers",
+      "game_url": "https://ostdb.net/games/pixel-privateers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327b873e8608bce9a00cb64b7",
+      "albums": [
+        {
+          "album_name": "Pixel Privateers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1vdlMKTk1RZowGpmUksE15",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 242384,
       "game_name": "Pixel Ripped 1978",
       "game_url": "https://ostdb.net/games/pixel-ripped-1978",
@@ -32587,6 +32643,20 @@
       ]
     },
     {
+      "igdb_id": 27770,
+      "game_name": "Rend",
+      "game_url": "https://ostdb.net/games/rend",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273287c1f89e48f712f9fc31c18",
+      "albums": [
+        {
+          "album_name": "Rend (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ZLYc6AjGshZitVV2wnFMP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152244,
       "game_name": "Replaced",
       "game_url": "https://ostdb.net/games/replaced",
@@ -33059,6 +33129,20 @@
         {
           "album_name": "Revenge of the Savage Planet (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/02U6f9sP05MAkvKzoy8wQb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26728,
+      "game_name": "Revhead",
+      "game_url": "https://ostdb.net/games/revhead",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730d55e93c71dae8ecc6dc8041",
+      "albums": [
+        {
+          "album_name": "Revhead (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3KGiqv27vcB9TEeBc4ZVG1",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -35649,6 +35733,20 @@
         {
           "album_name": "Showgunners (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1LsLssSQvOUNIJVwXIaBze",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27692,
+      "game_name": "Shuyan Saga",
+      "game_url": "https://ostdb.net/games/shuyan-saga",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a5d2b677ebe3fc90e8b58ce7",
+      "albums": [
+        {
+          "album_name": "Shuyan Saga (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4wopljaG7k19IQUpaiQytx",
           "apple_music_url": "",
           "album_link_url": ""
         }
