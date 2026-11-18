@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T01:51:03.545Z",
-  "total_soundtracks": 3810,
+  "generated_at": "2026-11-18T01:56:05.979Z",
+  "total_soundtracks": 3813,
   "games": [
     {
       "igdb_id": 292844,
@@ -10215,6 +10215,20 @@
       ]
     },
     {
+      "igdb_id": 30960,
+      "game_name": "Delicious: Emily's Message in a Bottle",
+      "game_url": "https://ostdb.net/games/delicious-emilys-message-in-a-bottle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a9ded3213b09d6ad04573ba0",
+      "albums": [
+        {
+          "album_name": "Delicious - Emily's Message in a Bottle (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3W8qvb4tLdSQJ7NSPaFkDM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 177169,
       "game_name": "Deliver At All Costs",
       "game_url": "https://ostdb.net/games/deliver-at-all-costs",
@@ -15307,6 +15321,20 @@
         {
           "album_name": "Fobia: St. Dinfna Hotel (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7unn9tQF5ONLCgVc1GvGx3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 29953,
+      "game_name": "Fog of War",
+      "game_url": "https://ostdb.net/games/fog-of-war",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b9fead03003f11c9b4afcf06",
+      "albums": [
+        {
+          "album_name": "Fog of War (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2AmZijDMoHjM9oJ7s3TeC6",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -30193,6 +30221,20 @@
         {
           "album_name": "Pitfall 3D: Beyond The Jungle (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0tMWfkQKs962UKBYrJ9ZmX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 30048,
+      "game_name": "Pivot Pilot",
+      "game_url": "https://ostdb.net/games/pivot-pilot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736bc800ca11bb8e155cf915f0",
+      "albums": [
+        {
+          "album_name": "Pivot Pilot Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1aEyNWQGf1QDWjlDf5KNPZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
