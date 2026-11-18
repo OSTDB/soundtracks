@@ -6059,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjora Echoes | 391120 | [391120-ninjora-echoes.json](./391120-ninjora-echoes.json) |
 | NinJump | 324042 | [324042-ninjump.json](./324042-ninjump.json) |
 | NinJump Dash | 60073 | [60073-ninjump-dash.json](./60073-ninjump-dash.json) |
+| NinJump Deluxe | 87313 | [87313-ninjump-deluxe.json](./87313-ninjump-deluxe.json) |
 | NinJump Rooftops | 324043 | [324043-ninjump-rooftops.json](./324043-ninjump-rooftops.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninjurate | 290639 | [290639-ninjurate.json](./290639-ninjurate.json) |
