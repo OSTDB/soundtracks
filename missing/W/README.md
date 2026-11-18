@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 7479 | [7479-warhawk.json](./7479-warhawk.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
+| Warhawk: Operation Omega Dawn | 22533 | [22533-warhawk-operation-omega-dawn.json](./22533-warhawk-operation-omega-dawn.json) |
 | Warhawks | 34993 | [34993-warhawks.json](./34993-warhawks.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
 | Warhead | 85799 | [85799-warhead.json](./85799-warhead.json) |
@@ -8597,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Play | 344825 | [344825-word-play.json](./344825-word-play.json) |
 | Word Pop: Endless Brain Game | 232072 | [232072-word-pop-endless-brain-game.json](./232072-word-pop-endless-brain-game.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
+| Word Puzzle | 21913 | [21913-word-puzzle.json](./21913-word-puzzle.json) |
 | Word Puzzle Master | 422754 | [422754-word-puzzle-master.json](./422754-word-puzzle-master.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi | 59522 | [59522-word-puzzles-by-powgi.json](./59522-word-puzzles-by-powgi.json) |
@@ -9608,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Simulator 3 | 275415 | [275415-world-simulator-3.json](./275415-world-simulator-3.json) |
 | World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
+| World Snooker Championship 2005 | 22292 | [22292-world-snooker-championship-2005.json](./22292-world-snooker-championship-2005.json) |
 | World Snooker Championship Real 2011 | 78207 | [78207-world-snooker-championship-real-2011.json](./78207-world-snooker-championship-real-2011.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
@@ -9999,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms | 9332 | [9332-worms.json](./9332-worms.json) |
 | Worms 2: Armageddon | 20480 | [20480-worms-2-armageddon.json](./20480-worms-2-armageddon.json) |
 | Worms 2011: Armageddon | 154862 | [154862-worms-2011-armageddon.json](./154862-worms-2011-armageddon.json) |
+| Worms 3 | 23410 | [23410-worms-3.json](./23410-worms-3.json) |
 | Worms 3D | 1047 | [1047-worms-3d.json](./1047-worms-3d.json) |
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Across Worlds | 355849 | [355849-worms-across-worlds.json](./355849-worms-across-worlds.json) |
