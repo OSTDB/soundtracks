@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pagan Age | 167465 | [167465-pagan-age.json](./167465-pagan-age.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
+| Pagan Peak VR | 125117 | [125117-pagan-peak-vr.json](./125117-pagan-peak-vr.json) |
 | Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pagan: Autogeny | 126211 | [126211-pagan-autogeny.json](./126211-pagan-autogeny.json) |
 | Pagan: Emporium | 127566 | [127566-pagan-emporium.json](./127566-pagan-emporium.json) |
@@ -7593,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars | 248947 | [248947-pillars.json](./248947-pillars.json) |
 | Pillars of Dust | 123709 | [123709-pillars-of-dust.json](./123709-pillars-of-dust.json) |
+| Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
@@ -10370,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape Torment: Enhanced Edition - Digital Deluxe | 53462 | [53462-planescape-torment-enhanced-edition-digital-deluxe.json](./53462-planescape-torment-enhanced-edition-digital-deluxe.json) |
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | Planescape: Torment - Enhanced Edition | 27988 | [27988-planescape-torment-enhanced-edition.json](./27988-planescape-torment-enhanced-edition.json) |
+| Planescape: Torment & Icewind Dale: Enhanced Editions | 125019 | [125019-planescape-torment-and-icewind-dale-enhanced-editions.json](./125019-planescape-torment-and-icewind-dale-enhanced-editions.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
 | Planet | 100372 | [100372-planet.json](./100372-planet.json) |
 | Planet | 17018 | [17018-planet.json](./17018-planet.json) |
