@@ -3301,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man in the Dark | 278268 | [278268-man-in-the-dark.json](./278268-man-in-the-dark.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Fell Cargo | 124904 | [124904-man-o-war-corsair-fell-cargo.json](./124904-man-o-war-corsair-fell-cargo.json) |
+| Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Honor | 76264 | [76264-man-of-honor.json](./76264-man-of-honor.json) |
 | Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
 | Man of Nollyn | 346274 | [346274-man-of-nollyn.json](./346274-man-of-nollyn.json) |
@@ -10277,6 +10278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory: The Original Matching Game from Ravensburger | 219478 | [219478-memory-the-original-matching-game-from-ravensburger.json](./219478-memory-the-original-matching-game-from-ravensburger.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
 | Memory's Abyss: Chapter Zero | 367301 | [367301-memorys-abyss-chapter-zero.json](./367301-memorys-abyss-chapter-zero.json) |
+| Memory's Dogma Code: 01 | 25685 | [25685-memorys-dogma-code-01.json](./25685-memorys-dogma-code-01.json) |
 | Memory's Dogma Code: 01 - Collector's Edition | 53332 | [53332-memorys-dogma-code-01-collectors-edition.json](./53332-memorys-dogma-code-01-collectors-edition.json) |
 | Memory's Reach | 220413 | [220413-memorys-reach.json](./220413-memorys-reach.json) |
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
@@ -19616,6 +19618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morpheus | 73460 | [73460-morpheus.json](./73460-morpheus.json) |
 | Morphic Puzzle | 114636 | [114636-morphic-puzzle.json](./114636-morphic-puzzle.json) |
 | Morphicle | 60305 | [60305-morphicle.json](./60305-morphicle.json) |
+| Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
 | Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
