@@ -8949,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitit Bac | 191505 | [191505-pitit-bac.json](./191505-pitit-bac.json) |
 | Pitman | 311948 | [311948-pitman.json](./311948-pitman.json) |
 | Pitman | 76178 | [76178-pitman.json](./76178-pitman.json) |
+| PitRush | 137120 | [137120-pitrush.json](./137120-pitrush.json) |
 | Pitstop Challenge | 25444 | [25444-pitstop-challenge.json](./25444-pitstop-challenge.json) |
 | Pitstop II | 24660 | [24660-pitstop-ii.json](./24660-pitstop-ii.json) |
 | Pitstop in Purgatory | 208564 | [208564-pitstop-in-purgatory.json](./208564-pitstop-in-purgatory.json) |
