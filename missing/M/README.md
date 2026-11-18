@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Pro | 346870 | [346870-mahjong-solitaire-pro.json](./346870-mahjong-solitaire-pro.json) |
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
+| Mahjong Solitaire: Classic | 86961 | [86961-mahjong-solitaire-classic.json](./86961-mahjong-solitaire-classic.json) |
 | Mahjong Solitaire: Tile | 175501 | [175501-mahjong-solitaire-tile.json](./175501-mahjong-solitaire-tile.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
 | Mahjong Station Mazin | 82273 | [82273-mahjong-station-mazin.json](./82273-mahjong-station-mazin.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Tales | 240861 | [240861-merge-tales.json](./240861-merge-tales.json) |
 | Merge Together | 323340 | [323340-merge-together.json](./323340-merge-together.json) |
 | Merge Towers | 127775 | [127775-merge-towers.json](./127775-merge-towers.json) |
+| Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge Villa | 227958 | [227958-merge-villa.json](./227958-merge-villa.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Merge Wood | 220181 | [220181-merge-wood.json](./220181-merge-wood.json) |
@@ -13295,6 +13297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Tyson's Punch Out!!?? | 358438 | [358438-mike-tysons-punch-out.json](./358438-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! | 2195 | [2195-mike-tysons-punch-out.json](./2195-mike-tysons-punch-out.json) |
 | Mike Tyson's Punch-Out!! SNES | 377739 | [377739-mike-tysons-punch-out-snes.json](./377739-mike-tysons-punch-out-snes.json) |
+| Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike, Lu & Og: Toy Builders | 241136 | [241136-mike-lu-and-og-toy-builders.json](./241136-mike-lu-and-og-toy-builders.json) |
 | Mike's Arcade | 227975 | [227975-mikes-arcade.json](./227975-mikes-arcade.json) |
 | Mike's Garden | 244421 | [244421-mikes-garden.json](./244421-mikes-garden.json) |
@@ -14644,6 +14647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Gold | 374555 | [374555-mini-golf-gold.json](./374555-mini-golf-gold.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
+| Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
 | Mini Golf League: Sports Simulator | 306540 | [306540-mini-golf-league-sports-simulator.json](./306540-mini-golf-league-sports-simulator.json) |
 | Mini Golf Madness | 366442 | [366442-mini-golf-madness.json](./366442-mini-golf-madness.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
@@ -23001,6 +23005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Baby Unicorn | 243752 | [243752-my-baby-unicorn.json](./243752-my-baby-unicorn.json) |
 | My Baby: First Steps | 144073 | [144073-my-baby-first-steps.json](./144073-my-baby-first-steps.json) |
 | My Baby: First Steps | 47910 | [47910-my-baby-first-steps.json](./47910-my-baby-first-steps.json) |
+| My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
 | My Bakery Empire - Bake, Decorate & Serve Cakes | 104204 | [104204-my-bakery-empire-bake-decorate-and-serve-cakes.json](./104204-my-bakery-empire-bake-decorate-and-serve-cakes.json) |
 | My Bakery Empire: Bake With Style | 280614 | [280614-my-bakery-empire-bake-with-style.json](./280614-my-bakery-empire-bake-with-style.json) |
 | My Bakery Empire: Bake With Taste | 280615 | [280615-my-bakery-empire-bake-with-taste.json](./280615-my-bakery-empire-bake-with-taste.json) |
@@ -24685,6 +24690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Manor | 297752 | [297752-mysteries-of-the-manor.json](./297752-mysteries-of-the-manor.json) |
 | Mysteries of the Past: Shadow of the Daemon | 140196 | [140196-mysteries-of-the-past-shadow-of-the-daemon.json](./140196-mysteries-of-the-past-shadow-of-the-daemon.json) |
 | Mysteries of the Past: Shadow of the Daemon - Collector's Edition | 33581 | [33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json](./33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json) |
+| Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
 | Mysteries Under Lake Ophelia | 178415 | [178415-mysteries-under-lake-ophelia.json](./178415-mysteries-under-lake-ophelia.json) |
 | Mysterious Adventure of Michael | 44205 | [44205-mysterious-adventure-of-michael.json](./44205-mysterious-adventure-of-michael.json) |
 | Mysterious Adventure of Michael 2 | 190103 | [190103-mysterious-adventure-of-michael-2.json](./190103-mysterious-adventure-of-michael-2.json) |
