@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
 | Fairyland: Merge and Magic | 227113 | [227113-fairyland-merge-and-magic.json](./227113-fairyland-merge-and-magic.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
+| Fairymm: the Insomniac Beauty | 140642 | [140642-fairymm-the-insomniac-beauty.json](./140642-fairymm-the-insomniac-beauty.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
 | Fairytale | 94902 | [94902-fairytale.json](./94902-fairytale.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen London: A Little Pandemonium | 191710 | [191710-fallen-london-a-little-pandemonium.json](./191710-fallen-london-a-little-pandemonium.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
 | Fallen London: A Trade in Faces | 191937 | [191937-fallen-london-a-trade-in-faces.json](./191937-fallen-london-a-trade-in-faces.json) |
+| Fallen London: A Trade in Souls | 191922 | [191922-fallen-london-a-trade-in-souls.json](./191922-fallen-london-a-trade-in-souls.json) |
 | Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
 | Fallen London: All Things Must End | 191606 | [191606-fallen-london-all-things-must-end.json](./191606-fallen-london-all-things-must-end.json) |
 | Fallen London: Borrowed Glory | 191734 | [191734-fallen-london-borrowed-glory.json](./191734-fallen-london-borrowed-glory.json) |
@@ -2209,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Gladiators | 121897 | [121897-fantasy-gladiators.json](./121897-fantasy-gladiators.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
+| Fantasy Grounds Unity | 196075 | [196075-fantasy-grounds-unity.json](./196075-fantasy-grounds-unity.json) |
 | Fantasy Grounds: Call of Cthulhu - The House of R'lyeh | 53021 | [53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json](./53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json) |
 | Fantasy Grounds: Savage Worlds Setting - Weird Wars II | 53020 | [53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json](./53020-fantasy-grounds-savage-worlds-setting-weird-wars-ii.json) |
 | Fantasy Grove | 342395 | [342395-fantasy-grove.json](./342395-fantasy-grove.json) |
@@ -9230,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Coffin | 262765 | [262765-floating-coffin.json](./262765-floating-coffin.json) |
 | Floating Cuboid | 261931 | [261931-floating-cuboid.json](./261931-floating-cuboid.json) |
+| Floating Farmer | 196180 | [196180-floating-farmer.json](./196180-floating-farmer.json) |
 | Floating Farmer: Logic Puzzle | 165808 | [165808-floating-farmer-logic-puzzle.json](./165808-floating-farmer-logic-puzzle.json) |
 | Floating Frontiers | 390988 | [390988-floating-frontiers.json](./390988-floating-frontiers.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
@@ -9467,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Free | 109184 | [109184-flow-free.json](./109184-flow-free.json) |
 | Flow Free: Bridges | 99393 | [99393-flow-free-bridges.json](./99393-flow-free-bridges.json) |
 | Flow Free: Hexes | 96260 | [96260-flow-free-hexes.json](./96260-flow-free-hexes.json) |
+| Flow Free: Warps | 171092 | [171092-flow-free-warps.json](./171092-flow-free-warps.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
 | Flow Legends | 392546 | [392546-flow-legends.json](./392546-flow-legends.json) |
@@ -9879,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Carpets Over Shark Infested Waters | 249969 | [249969-flying-carpets-over-shark-infested-waters.json](./249969-flying-carpets-over-shark-infested-waters.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Champ | 56009 | [56009-flying-champ.json](./56009-flying-champ.json) |
+| Flying Cheese Adventure | 181963 | [181963-flying-cheese-adventure.json](./181963-flying-cheese-adventure.json) |
 | Flying Chicken | 343490 | [343490-flying-chicken.json](./343490-flying-chicken.json) |
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
 | Flying Comet | 175090 | [175090-flying-comet.json](./175090-flying-comet.json) |
@@ -10233,6 +10239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
 | Fomon | 333336 | [333336-fomon.json](./333336-fomon.json) |
 | Fonda del Diablo | 417933 | [417933-fonda-del-diablo.json](./417933-fonda-del-diablo.json) |
+| FOnline 2 | 140646 | [140646-fonline-2.json](./140646-fonline-2.json) |
 | FOnline: Ashes of Phoenix | 146067 | [146067-fonline-ashes-of-phoenix.json](./146067-fonline-ashes-of-phoenix.json) |
 | FOnline: Reloaded | 50785 | [50785-fonline-reloaded.json](./50785-fonline-reloaded.json) |
 | Fono | 161336 | [161336-fono.json](./161336-fono.json) |
@@ -13532,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequency Garden | 126522 | [126522-frequency-garden.json](./126522-frequency-garden.json) |
 | Frequency of Fear | 314551 | [314551-frequency-of-fear.json](./314551-frequency-of-fear.json) |
 | Frequency Sync | 130241 | [130241-frequency-sync.json](./130241-frequency-sync.json) |
+| Frequency: Chernobyl | 140681 | [140681-frequency-chernobyl.json](./140681-frequency-chernobyl.json) |
 | Frequency: Chernobyl - First Signal | 148853 | [148853-frequency-chernobyl-first-signal.json](./148853-frequency-chernobyl-first-signal.json) |
 | Frequency. | 200291 | [200291-frequency.json](./200291-frequency.json) |
 | Frequent Flyer | 30585 | [30585-frequent-flyer.json](./30585-frequent-flyer.json) |
@@ -15550,6 +15558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furfly | 33858 | [33858-furfly.json](./33858-furfly.json) |
+| Furgal's Jetpack | 161424 | [161424-furgals-jetpack.json](./161424-furgals-jetpack.json) |
 | Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
 | Furi: Modore Edition | 201943 | [201943-furi-modore-edition.json](./201943-furi-modore-edition.json) |
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
