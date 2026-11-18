@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor World: Over the Mind | 172712 | [172712-vapor-world-over-the-mind.json](./172712-vapor-world-over-the-mind.json) |
 | VaporFly | 121402 | [121402-vaporfly.json](./121402-vaporfly.json) |
 | VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
+| Vapormaze | 129270 | [129270-vapormaze.json](./129270-vapormaze.json) |
 | VaporPunk | 334309 | [334309-vaporpunk.json](./334309-vaporpunk.json) |
 | Vaporspace | 115981 | [115981-vaporspace.json](./115981-vaporspace.json) |
 | Vaporum | 56969 | [56969-vaporum.json](./56969-vaporum.json) |
