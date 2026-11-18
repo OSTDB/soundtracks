@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsbridge | 425795 | [425795-kingsbridge.json](./425795-kingsbridge.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
+| Kingsgrave | 273465 | [273465-kingsgrave.json](./273465-kingsgrave.json) |
 | Kingsguard | 259380 | [259380-kingsguard.json](./259380-kingsguard.json) |
 | Kingsguard | 322290 | [322290-kingsguard.json](./322290-kingsguard.json) |
 | Kingshot | 337547 | [337547-kingshot.json](./337547-kingshot.json) |
