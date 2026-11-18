@@ -5691,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant Humanity | 414685 | [414685-remnant-humanity.json](./414685-remnant-humanity.json) |
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
 | Remnant II: Deluxe Edition | 252494 | [252494-remnant-ii-deluxe-edition.json](./252494-remnant-ii-deluxe-edition.json) |
+| Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Remnant II: Ultimate Edition | 252495 | [252495-remnant-ii-ultimate-edition.json](./252495-remnant-ii-ultimate-edition.json) |
 | Remnant Knights | 65715 | [65715-remnant-knights.json](./65715-remnant-knights.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
@@ -10693,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Jumping Sounds Dangerous | 179131 | [179131-rocket-jumping-sounds-dangerous.json](./179131-rocket-jumping-sounds-dangerous.json) |
 | Rocket Knight | 10782 | [10782-rocket-knight.json](./10782-rocket-knight.json) |
 | Rocket Knight Adventures | 9766 | [9766-rocket-knight-adventures.json](./9766-rocket-knight-adventures.json) |
+| Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
 | Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
 | Rocket League Sideswipe: Season 5 | 223084 | [223084-rocket-league-sideswipe-season-5.json](./223084-rocket-league-sideswipe-season-5.json) |
 | Rocket League: Aftershock | 399990 | [399990-rocket-league-aftershock.json](./399990-rocket-league-aftershock.json) |
@@ -12280,6 +12282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Snipers | 87723 | [87723-rooftop-snipers.json](./87723-rooftop-snipers.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops | 292891 | [292891-rooftops.json](./292891-rooftops.json) |
+| Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Rooftops 2 | 292892 | [292892-rooftops-2.json](./292892-rooftops-2.json) |
 | Rooftops and Alleys: The Parkour Game - Ninja Pack DLC | 409952 | [409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json](./409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json) |
 | Rooftops and Alleys: The Parkour Game - Trail Pack DLC | 409951 | [409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json](./409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json) |
