@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
 | Banger Racer | 13373 | [13373-banger-racer.json](./13373-banger-racer.json) |
 | Bangers & Mash | 13375 | [13375-bangers-and-mash.json](./13375-bangers-and-mash.json) |
+| Bangers & Mash | 416302 | [416302-bangers-and-mash.json](./416302-bangers-and-mash.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
 | Bangkok Awakening | 320115 | [320115-bangkok-awakening.json](./320115-bangkok-awakening.json) |
 | Bangkok Knights | 11937 | [11937-bangkok-knights.json](./11937-bangkok-knights.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
 | Before I Turn: Survival Auto Battler | 427737 | [427737-before-i-turn-survival-auto-battler.json](./427737-before-i-turn-survival-auto-battler.json) |
 | Before I Wake | 183663 | [183663-before-i-wake.json](./183663-before-i-wake.json) |
+| Before Midnight | 416320 | [416320-before-midnight.json](./416320-before-midnight.json) |
 | Before Midnight (The First Puzzle) | 112001 | [112001-before-midnight-the-first-puzzle.json](./112001-before-midnight-the-first-puzzle.json) |
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
@@ -7121,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Belle's Beauty Boutique | 205120 | [205120-belles-beauty-boutique.json](./205120-belles-beauty-boutique.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
+| Bellfrost | 416311 | [416311-bellfrost.json](./416311-bellfrost.json) |
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Bellhop | 284714 | [284714-bellhop.json](./284714-bellhop.json) |
 | Belling Coins | 149441 | [149441-belling-coins.json](./149441-belling-coins.json) |
