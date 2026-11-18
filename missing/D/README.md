@@ -7547,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
 | Demonborne | 188260 | [188260-demonborne.json](./188260-demonborne.json) |
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
+| DemonCrawl | 125105 | [125105-demoncrawl.json](./125105-demoncrawl.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
 | Demoneye-X | 40311 | [40311-demoneye-x.json](./40311-demoneye-x.json) |
