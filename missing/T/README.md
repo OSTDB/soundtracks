@@ -6892,6 +6892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
+| The Balcony | 67557 | [67557-the-balcony.json](./67557-the-balcony.json) |
 | The Baldina | 367183 | [367183-the-baldina.json](./367183-the-baldina.json) |
 | The Baleful Tower | 193092 | [193092-the-baleful-tower.json](./193092-the-baleful-tower.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
@@ -9287,6 +9288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detail's in the Devils | 199739 | [199739-the-details-in-the-devils.json](./199739-the-details-in-the-devils.json) |
 | The Detective | 201415 | [201415-the-detective.json](./201415-the-detective.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
+| The Detective | 41036 | [41036-the-detective.json](./41036-the-detective.json) |
 | The Detective Chapters: Part One | 112451 | [112451-the-detective-chapters-part-one.json](./112451-the-detective-chapters-part-one.json) |
 | The detective ChuLin | 109779 | [109779-the-detective-chulin.json](./109779-the-detective-chulin.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
@@ -12263,6 +12265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt | 220689 | [220689-the-hunt.json](./220689-the-hunt.json) |
 | The Hunt | 265841 | [265841-the-hunt.json](./265841-the-hunt.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
+| The Hunt - Rebuilt | 55387 | [55387-the-hunt-rebuilt.json](./55387-the-hunt-rebuilt.json) |
 | The Hunt - Sophie's Journey | 117895 | [117895-the-hunt-sophies-journey.json](./117895-the-hunt-sophies-journey.json) |
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
@@ -13017,6 +13020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killer | 425167 | [425167-the-killer.json](./425167-the-killer.json) |
 | The Killer of Dishonor | 150538 | [150538-the-killer-of-dishonor.json](./150538-the-killer-of-dishonor.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
+| The Killing Blade | 46808 | [46808-the-killing-blade.json](./46808-the-killing-blade.json) |
 | The Killing Blade Plus | 234816 | [234816-the-killing-blade-plus.json](./234816-the-killing-blade-plus.json) |
 | The Killing Cloud | 12659 | [12659-the-killing-cloud.json](./12659-the-killing-cloud.json) |
 | The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
@@ -16090,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
 | The Nightmare Cooperative | 9373 | [9373-the-nightmare-cooperative.json](./9373-the-nightmare-cooperative.json) |
 | The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
+| The Nightmare from Beyond | 55391 | [55391-the-nightmare-from-beyond.json](./55391-the-nightmare-from-beyond.json) |
 | The Nightmare House | 301222 | [301222-the-nightmare-house.json](./301222-the-nightmare-house.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
 | The Nightmare Journey | 163780 | [163780-the-nightmare-journey.json](./163780-the-nightmare-journey.json) |
@@ -19541,6 +19546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tainted | 179297 | [179297-the-tainted.json](./179297-the-tainted.json) |
+| The Tainted | 72815 | [72815-the-tainted.json](./72815-the-tainted.json) |
 | The Tainted Land | 271885 | [271885-the-tainted-land.json](./271885-the-tainted-land.json) |
 | The Take | 90852 | [90852-the-take.json](./90852-the-take.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
@@ -23156,6 +23162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Blast Man | 50057 | [50057-thunder-blast-man.json](./50057-thunder-blast-man.json) |
 | Thunder Blaster Man | 48463 | [48463-thunder-blaster-man.json](./48463-thunder-blaster-man.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
+| Thunder Brigade | 22843 | [22843-thunder-brigade.json](./22843-thunder-brigade.json) |
 | Thunder Burner | 73085 | [73085-thunder-burner.json](./73085-thunder-burner.json) |
 | Thunder Ceptor | 82510 | [82510-thunder-ceptor.json](./82510-thunder-ceptor.json) |
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
@@ -26603,6 +26610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
 | Tiny World Racing | 147569 | [147569-tiny-world-racing.json](./147569-tiny-world-racing.json) |
 | Tiny x Machinegun | 240563 | [240563-tiny-x-machinegun.json](./240563-tiny-x-machinegun.json) |
+| Tiny Xevious | 67553 | [67553-tiny-xevious.json](./67553-tiny-xevious.json) |
 | Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
 | Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
@@ -28365,6 +28373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
 | Tongue of the Fatman | 4378 | [4378-tongue-of-the-fatman.json](./4378-tongue-of-the-fatman.json) |
 | Tongue Tale | 263736 | [263736-tongue-tale.json](./263736-tongue-tale.json) |
+| Tongue Tied! | 22883 | [22883-tongue-tied.json](./22883-tongue-tied.json) |
 | Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
 | Tongzhuo! Wo Xihuan Ni | 403640 | [403640-tongzhuo-wo-xihuan-ni.json](./403640-tongzhuo-wo-xihuan-ni.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
@@ -36820,6 +36829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Kingdom | 360847 | [360847-turret-kingdom.json](./360847-turret-kingdom.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
+| Turret Sector | 55394 | [55394-turret-sector.json](./55394-turret-sector.json) |
 | Turret Syndrome | 81596 | [81596-turret-syndrome.json](./81596-turret-syndrome.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
 | Turret Terminator | 29364 | [29364-turret-terminator.json](./29364-turret-terminator.json) |
@@ -37232,6 +37242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
 | Twin Strike: Operation Thunder | 24296 | [24296-twin-strike-operation-thunder.json](./24296-twin-strike-operation-thunder.json) |
 | Twin Synth | 109845 | [109845-twin-synth.json](./109845-twin-synth.json) |
+| Twin Tiger Shark | 61776 | [61776-twin-tiger-shark.json](./61776-twin-tiger-shark.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Towers 3D | 232291 | [232291-twin-towers-3d.json](./232291-twin-towers-3d.json) |
 | Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
@@ -37262,6 +37273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
 | Twinkle | 411161 | [411161-twinkle.json](./411161-twinkle.json) |
+| Twinkle | 46826 | [46826-twinkle.json](./46826-twinkle.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
@@ -37281,6 +37293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinland | 189244 | [189244-twinland.json](./189244-twinland.json) |
 | Twinoo | 105493 | [105493-twinoo.json](./105493-twinoo.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
+| Twins | 46824 | [46824-twins.json](./46824-twins.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
 | Twins Edge: Back and Forth | 187702 | [187702-twins-edge-back-and-forth.json](./187702-twins-edge-back-and-forth.json) |
