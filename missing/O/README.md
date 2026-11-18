@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My God! It's Joseph Joestar In Subarashii: X-Mas Mode In July | 282969 | [282969-oh-my-god-its-joseph-joestar-in-subarashii-x-mas-mode-in-july.json](./282969-oh-my-god-its-joseph-joestar-in-subarashii-x-mas-mode-in-july.json) |
 | Oh My Goddess! | 385903 | [385903-oh-my-goddess.json](./385903-oh-my-goddess.json) |
 | Oh My Godheads: Party Edition | 110799 | [110799-oh-my-godheads-party-edition.json](./110799-oh-my-godheads-party-edition.json) |
+| Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Hero | 174653 | [174653-oh-my-hero.json](./174653-oh-my-hero.json) |
 | Oh My Lord | 312291 | [312291-oh-my-lord.json](./312291-oh-my-lord.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
@@ -4681,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organic Engine Escape | 315675 | [315675-organic-engine-escape.json](./315675-organic-engine-escape.json) |
 | Organic Evolution | 408603 | [408603-organic-evolution.json](./408603-organic-evolution.json) |
 | Organic Growth | 297403 | [297403-organic-growth.json](./297403-organic-growth.json) |
+| Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organised Crime | 204795 | [204795-organised-crime.json](./204795-organised-crime.json) |
 | Organish Seagreen | 363930 | [363930-organish-seagreen.json](./363930-organish-seagreen.json) |
 | Organism 8 | 107749 | [107749-organism-8.json](./107749-organism-8.json) |
