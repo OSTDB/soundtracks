@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Sapphire Hotel: The Little Tales Of | 385012 | [385012-yellow-sapphire-hotel-the-little-tales-of.json](./385012-yellow-sapphire-hotel-the-little-tales-of.json) |
 | Yellow Submarine | 46916 | [46916-yellow-submarine.json](./46916-yellow-submarine.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
+| Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yellow*Demon | 358556 | [358556-yellow-demon.json](./358556-yellow-demon.json) |
 | Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
