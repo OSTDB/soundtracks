@@ -2953,7 +2953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Logic Paint S+ | 353940 | [353940-hatsune-miku-logic-paint-s.json](./353940-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku Starry Party | 409132 | [409132-hatsune-miku-starry-party.json](./409132-hatsune-miku-starry-party.json) |
 | Hatsune Miku Tycoon | 216034 | [216034-hatsune-miku-tycoon.json](./216034-hatsune-miku-tycoon.json) |
-| Hatsune Miku VR | 89847 | [89847-hatsune-miku-vr.json](./89847-hatsune-miku-vr.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
 | Hatsune Miku VR: 5 Songs pack 2 | 223589 | [223589-hatsune-miku-vr-5-songs-pack-2.json](./223589-hatsune-miku-vr-5-songs-pack-2.json) |
 | Hatsune Miku VR: 5 Songs pack 3 | 223588 | [223588-hatsune-miku-vr-5-songs-pack-3.json](./223588-hatsune-miku-vr-5-songs-pack-3.json) |
@@ -8115,7 +8114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object - Tea Time | 71250 | [71250-hidden-object-tea-time.json](./71250-hidden-object-tea-time.json) |
 | Hidden Object - Tools | 67899 | [67899-hidden-object-tools.json](./67899-hidden-object-tools.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
-| Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
 | Hidden Object Adventure Bundle | 331526 | [331526-hidden-object-adventure-bundle.json](./331526-hidden-object-adventure-bundle.json) |
 | Hidden Object Adventure Bundle 2 | 385137 | [385137-hidden-object-adventure-bundle-2.json](./385137-hidden-object-adventure-bundle-2.json) |
 | Hidden Object Adventures: Sunken Treasures | 101940 | [101940-hidden-object-adventures-sunken-treasures.json](./101940-hidden-object-adventures-sunken-treasures.json) |
@@ -8608,7 +8606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
 | Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
-| Hide Online | 95817 | [95817-hide-online.json](./95817-hide-online.json) |
 | Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
