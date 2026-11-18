@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Echoes of the Sentient | 198336 | [198336-warframe-echoes-of-the-sentient.json](./198336-warframe-echoes-of-the-sentient.json) |
 | Warframe: Empyrean | 119348 | [119348-warframe-empyrean.json](./119348-warframe-empyrean.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
+| Warframe: Heart of Deimos | 137295 | [137295-warframe-heart-of-deimos.json](./137295-warframe-heart-of-deimos.json) |
 | Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
 | Warframe: Initiate Pack | 223713 | [223713-warframe-initiate-pack.json](./223713-warframe-initiate-pack.json) |
 | Warframe: Initiate Pack II | 223714 | [223714-warframe-initiate-pack-ii.json](./223714-warframe-initiate-pack-ii.json) |
@@ -2842,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watertight | 355567 | [355567-watertight.json](./355567-watertight.json) |
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
+| Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
 | Waterworld | 20987 | [20987-waterworld.json](./20987-waterworld.json) |
 | Waterworld | 265035 | [265035-waterworld.json](./265035-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
@@ -3451,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
 | Webfishing | 319271 | [319271-webfishing.json](./319271-webfishing.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
+| Webkinz Classic | 137951 | [137951-webkinz-classic.json](./137951-webkinz-classic.json) |
 | Webkinz Friends | 246163 | [246163-webkinz-friends.json](./246163-webkinz-friends.json) |
 | Webkinz Jr. | 318830 | [318830-webkinz-jr.json](./318830-webkinz-jr.json) |
 | Webkinz Next | 246158 | [246158-webkinz-next.json](./246158-webkinz-next.json) |
@@ -4439,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
 | Wheel of Fortune | 127485 | [127485-wheel-of-fortune.json](./127485-wheel-of-fortune.json) |
 | Wheel of Fortune | 128891 | [128891-wheel-of-fortune.json](./128891-wheel-of-fortune.json) |
+| Wheel of Fortune | 142026 | [142026-wheel-of-fortune.json](./142026-wheel-of-fortune.json) |
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
 | Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 198964 | [198964-wheel-of-fortune.json](./198964-wheel-of-fortune.json) |
@@ -4805,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where the Forest Lies | 364532 | [364532-where-the-forest-lies.json](./364532-where-the-forest-lies.json) |
 | Where the Fuck is Richard? | 62777 | [62777-where-the-fuck-is-richard.json](./62777-where-the-fuck-is-richard.json) |
 | Where the Goats Are | 74252 | [74252-where-the-goats-are.json](./74252-where-the-goats-are.json) |
+| Where the Heart Leads | 135615 | [135615-where-the-heart-leads.json](./135615-where-the-heart-leads.json) |
 | Where the Heart Rests | 378243 | [378243-where-the-heart-rests.json](./378243-where-the-heart-rests.json) |
 | Where the Hell Am I? | 390211 | [390211-where-the-hell-am-i.json](./390211-where-the-hell-am-i.json) |
 | Where the Money Is | 55425 | [55425-where-the-money-is.json](./55425-where-the-money-is.json) |
@@ -6381,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
 | Wind of Luck: Arena | 61206 | [61206-wind-of-luck-arena.json](./61206-wind-of-luck-arena.json) |
 | Wind of Shuriken | 148606 | [148606-wind-of-shuriken.json](./148606-wind-of-shuriken.json) |
+| Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
@@ -8816,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
 | Words of Wonders: Search | 355896 | [355896-words-of-wonders-search.json](./355896-words-of-wonders-search.json) |
 | Words of Yendor | 246019 | [246019-words-of-yendor.json](./246019-words-of-yendor.json) |
+| Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
 | Words Plus | 221514 | [221514-words-plus.json](./221514-words-plus.json) |
 | Words Puzzles 3 in 1 | 223739 | [223739-words-puzzles-3-in-1.json](./223739-words-puzzles-3-in-1.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
