@@ -30645,6 +30645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerBag | 178708 | [178708-towerbag.json](./178708-towerbag.json) |
 | Towerbloom | 275976 | [275976-towerbloom.json](./275976-towerbloom.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
+| TowerBonk | 376358 | [376358-towerbonk.json](./376358-towerbonk.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
 | Towerbots | 148172 | [148172-towerbots.json](./148172-towerbots.json) |
 | Towerburst | 422964 | [422964-towerburst.json](./422964-towerburst.json) |
