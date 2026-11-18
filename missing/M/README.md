@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro: Notes of Life - Collector's Edition | 84029 | [84029-maestro-notes-of-life-collectors-edition.json](./84029-maestro-notes-of-life-collectors-edition.json) |
 | Maestro: Secret Sorcery | 414921 | [414921-maestro-secret-sorcery.json](./414921-maestro-secret-sorcery.json) |
 | Maestro! Green Groove | 67080 | [67080-maestro-green-groove.json](./67080-maestro-green-groove.json) |
+| Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Maestro's Cold War 2 | 323013 | [323013-maestros-cold-war-2.json](./323013-maestros-cold-war-2.json) |
 | Maev | 393190 | [393190-maev.json](./393190-maev.json) |
 | Maeve's Academy | 300154 | [300154-maeves-academy.json](./300154-maeves-academy.json) |
@@ -20470,6 +20471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP Ultimate Racing Technology | 47351 | [47351-motogp-ultimate-racing-technology.json](./47351-motogp-ultimate-racing-technology.json) |
 | MotoGP: Ultimate Racing Technology 3 | 73433 | [73433-motogp-ultimate-racing-technology-3.json](./73433-motogp-ultimate-racing-technology-3.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
+| MotoHeroz | 22863 | [22863-motoheroz.json](./22863-motoheroz.json) |
 | Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
 | Motoko-chan no Wonder Kitchen | 37920 | [37920-motoko-chan-no-wonder-kitchen.json](./37920-motoko-chan-no-wonder-kitchen.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
@@ -20858,6 +20860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Dash Rush | 386920 | [386920-move-dash-rush.json](./386920-move-dash-rush.json) |
 | Move Dodge and Kill | 169353 | [169353-move-dodge-and-kill.json](./169353-move-dodge-and-kill.json) |
 | Move Egg in Time | 116448 | [116448-move-egg-in-time.json](./116448-move-egg-in-time.json) |
+| Move Fitness | 22937 | [22937-move-fitness.json](./22937-move-fitness.json) |
 | Move Forward | 172067 | [172067-move-forward.json](./172067-move-forward.json) |
 | Move Fun | 246396 | [246396-move-fun.json](./246396-move-fun.json) |
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
