@@ -4934,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reef Rescue: Match 3 Adventure | 90960 | [90960-reef-rescue-match-3-adventure.json](./90960-reef-rescue-match-3-adventure.json) |
 | Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Rumble | 186469 | [186469-reef-rumble.json](./186469-reef-rumble.json) |
+| Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reefland | 190351 | [190351-reefland.json](./190351-reefland.json) |
 | Reefland Odyssey | 244192 | [244192-reefland-odyssey.json](./244192-reefland-odyssey.json) |
 | Reefling | 414170 | [414170-reefling.json](./414170-reefling.json) |
@@ -9370,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Girls 1, 2, and Zero Bundle | 263897 | [263897-river-city-girls-1-2-and-zero-bundle.json](./263897-river-city-girls-1-2-and-zero-bundle.json) |
 | River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
 | River City Melee Mach!! | 115481 | [115481-river-city-melee-mach.json](./115481-river-city-melee-mach.json) |
+| River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Ransom | 376654 | [376654-river-city-ransom.json](./376654-river-city-ransom.json) |
 | River City Ransom | 6558 | [6558-river-city-ransom.json](./6558-river-city-ransom.json) |
 | River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
@@ -10488,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Japan | 250664 | [250664-rock-band-japan.json](./250664-rock-band-japan.json) |
+| Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Band: Track Pack - Volume 1 | 43593 | [43593-rock-band-track-pack-volume-1.json](./43593-rock-band-track-pack-volume-1.json) |
 | Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
@@ -12961,6 +12964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouvy | 319175 | [319175-rouvy.json](./319175-rouvy.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rove: The Wanderer's Tale | 192720 | [192720-rove-the-wanderers-tale.json](./192720-rove-the-wanderers-tale.json) |
+| Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Operator | 197435 | [197435-rover-operator.json](./197435-rover-operator.json) |
