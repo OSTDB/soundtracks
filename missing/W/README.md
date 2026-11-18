@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wadanohara and the Great Blue Sea -Reboot- | 142190 | [142190-wadanohara-and-the-great-blue-sea-reboot.json](./142190-wadanohara-and-the-great-blue-sea-reboot.json) |
 | Waddle Dev Vs Kirby Dark Dawn | 395700 | [395700-waddle-dev-vs-kirby-dark-dawn.json](./395700-waddle-dev-vs-kirby-dark-dawn.json) |
 | Waddle Doom | 366613 | [366613-waddle-doom.json](./366613-waddle-doom.json) |
+| Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Knight | 321437 | [321437-waddle-knight.json](./321437-waddle-knight.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
@@ -8192,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
 | Wonderbook: Book of Potions | 25099 | [25099-wonderbook-book-of-potions.json](./25099-wonderbook-book-of-potions.json) |
 | Wonderbook: Book of Spells | 22191 | [22191-wonderbook-book-of-spells.json](./22191-wonderbook-book-of-spells.json) |
+| Wonderbook: Diggs Nightcrawler | 25090 | [25090-wonderbook-diggs-nightcrawler.json](./25090-wonderbook-diggs-nightcrawler.json) |
 | Wonderbook: Walking with Dinosaurs | 25089 | [25089-wonderbook-walking-with-dinosaurs.json](./25089-wonderbook-walking-with-dinosaurs.json) |
 | Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | WonderCat Adventures | 34924 | [34924-wondercat-adventures.json](./34924-wondercat-adventures.json) |
