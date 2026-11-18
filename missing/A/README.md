@@ -18396,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonia Resurgence | 149222 | [149222-astonia-resurgence.json](./149222-astonia-resurgence.json) |
 | Astonia: The Return of Yendor | 129670 | [129670-astonia-the-return-of-yendor.json](./129670-astonia-the-return-of-yendor.json) |
 | Astonishia Story | 23001 | [23001-astonishia-story.json](./23001-astonishia-story.json) |
+| Astonishia Story | 416317 | [416317-astonishia-story.json](./416317-astonishia-story.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
 | Astonishing | 384171 | [384171-astonishing.json](./384171-astonishing.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
@@ -19669,7 +19670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atonal Dreams | 156752 | [156752-atonal-dreams.json](./156752-atonal-dreams.json) |
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
-| Atone: Heart of the Elder Tree | 84479 | [84479-atone-heart-of-the-elder-tree.json](./84479-atone-heart-of-the-elder-tree.json) |
 | Atonement | 260992 | [260992-atonement.json](./260992-atonement.json) |
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
