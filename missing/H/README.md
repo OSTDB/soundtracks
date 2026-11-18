@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank | 271027 | [271027-hank.json](./271027-hank.json) |
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
 | Hank Haney World Golf | 209790 | [209790-hank-haney-world-golf.json](./209790-hank-haney-world-golf.json) |
+| Hank Hazard | 22869 | [22869-hank-hazard.json](./22869-hank-hazard.json) |
 | Hank Hill Smokes Marijuana | 335727 | [335727-hank-hill-smokes-marijuana.json](./335727-hank-hill-smokes-marijuana.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank Shaw: Animal Investigator | 404004 | [404004-hank-shaw-animal-investigator.json](./404004-hank-shaw-animal-investigator.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat World: New Testament | 229186 | [229186-hat-world-new-testament.json](./229186-hat-world-new-testament.json) |
 | Hat'venture | 244636 | [244636-hatventure.json](./244636-hatventure.json) |
 | Hata Kokoro Danmarku-ren | 254228 | [254228-hata-kokoro-danmarku-ren.json](./254228-hata-kokoro-danmarku-ren.json) |
+| Hataraku Chocobo | 22899 | [22899-hataraku-chocobo.json](./22899-hataraku-chocobo.json) |
 | Hataraku Otona no Renai Jijou | 329642 | [329642-hataraku-otona-no-renai-jijou.json](./329642-hataraku-otona-no-renai-jijou.json) |
 | Hataraku Shoujo: Tekipaki Working Love FX | 281928 | [281928-hataraku-shoujo-tekipaki-working-love-fx.json](./281928-hataraku-shoujo-tekipaki-working-love-fx.json) |
 | Hatastrophe | 359914 | [359914-hatastrophe.json](./359914-hatastrophe.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head's Adventures: Chibichibi | 393116 | [393116-heads-adventures-chibichibi.json](./393116-heads-adventures-chibichibi.json) |
 | Headache | 182372 | [182372-headache.json](./182372-headache.json) |
 | Headache | 227067 | [227067-headache.json](./227067-headache.json) |
+| Headache | 41035 | [41035-headache.json](./41035-headache.json) |
 | Headache | 86291 | [86291-headache.json](./86291-headache.json) |
 | HeadAche: Visual Novel | 235545 | [235545-headache-visual-novel.json](./235545-headache-visual-novel.json) |
 | Headball Soccer Deluxe | 119443 | [119443-headball-soccer-deluxe.json](./119443-headball-soccer-deluxe.json) |
@@ -6736,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Defense | 34216 | [34216-hero-defense.json](./34216-hero-defense.json) |
 | Hero Defense King | 103029 | [103029-hero-defense-king.json](./103029-hero-defense-king.json) |
 | Hero Defense: Haunted Island | 80217 | [80217-hero-defense-haunted-island.json](./80217-hero-defense-haunted-island.json) |
+| Hero Defiant | 70505 | [70505-hero-defiant.json](./70505-hero-defiant.json) |
 | Hero Dice | 196403 | [196403-hero-dice.json](./196403-hero-dice.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
@@ -10000,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hog Hunter 2021 | 160090 | [160090-hog-hunter-2021.json](./160090-hog-hunter-2021.json) |
 | Hogan's Alley | 4601 | [4601-hogans-alley.json](./4601-hogans-alley.json) |
 | Hogbear | 71106 | [71106-hogbear.json](./71106-hogbear.json) |
+| Hoggy | 22865 | [22865-hoggy.json](./22865-hoggy.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hogi's Adventure | 27212 | [27212-hogis-adventure.json](./27212-hogis-adventure.json) |
 | Hogi's Adventure Run | 28219 | [28219-hogis-adventure-run.json](./28219-hogis-adventure-run.json) |
@@ -10768,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homeless Story 2: Police Mayhem | 367919 | [367919-homeless-story-2-police-mayhem.json](./367919-homeless-story-2-police-mayhem.json) |
 | Homeless: Life Simulator | 207987 | [207987-homeless-life-simulator.json](./207987-homeless-life-simulator.json) |
+| Homelesshood | 55384 | [55384-homelesshood.json](./55384-homelesshood.json) |
 | Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
@@ -10783,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | HomeRun | 388193 | [388193-homerun.json](./388193-homerun.json) |
+| Homerun Battle 3D | 22871 | [22871-homerun-battle-3d.json](./22871-homerun-battle-3d.json) |
 | Homerun Bun | 209947 | [209947-homerun-bun.json](./209947-homerun-bun.json) |
 | Homerun Clash | 109568 | [109568-homerun-clash.json](./109568-homerun-clash.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
@@ -12199,6 +12206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
 | Hot Shots Golf: Out of Bounds Complete Collection | 99965 | [99965-hot-shots-golf-out-of-bounds-complete-collection.json](./99965-hot-shots-golf-out-of-bounds-complete-collection.json) |
 | Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
+| Hot Shots Shorties | 67556 | [67556-hot-shots-shorties.json](./67556-hot-shots-shorties.json) |
 | Hot Shots Shorties: Blue | 209920 | [209920-hot-shots-shorties-blue.json](./209920-hot-shots-shorties-blue.json) |
 | Hot Shots Shorties: Green | 209921 | [209921-hot-shots-shorties-green.json](./209921-hot-shots-shorties-green.json) |
 | Hot Shots Shorties: Red | 209922 | [209922-hot-shots-shorties-red.json](./209922-hot-shots-shorties-red.json) |
@@ -13276,6 +13284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
 | Huecube | 272967 | [272967-huecube.json](./272967-huecube.json) |
+| Huedango | 55370 | [55370-huedango.json](./55370-huedango.json) |
 | Huedini | 292185 | [292185-huedini.json](./292185-huedini.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
