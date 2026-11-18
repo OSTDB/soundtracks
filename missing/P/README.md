@@ -14466,7 +14466,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music 7 | 78976 | [78976-popn-music-7.json](./78976-popn-music-7.json) |
 | Pop'n music 8 | 78972 | [78972-popn-music-8.json](./78972-popn-music-8.json) |
 | Pop'n music 9 | 78973 | [78973-popn-music-9.json](./78973-popn-music-9.json) |
+| Pop'n Music Adventure | 72845 | [72845-popn-music-adventure.json](./72845-popn-music-adventure.json) |
+| Pop'n Music Animation Melody | 72846 | [72846-popn-music-animation-melody.json](./72846-popn-music-animation-melody.json) |
+| Pop'n Music Animelo | 72840 | [72840-popn-music-animelo.json](./72840-popn-music-animelo.json) |
 | Pop'n Music Animelo 2 | 72881 | [72881-popn-music-animelo-2.json](./72881-popn-music-animelo-2.json) |
+| pop'n music Best Hits | 72848 | [72848-popn-music-best-hits.json](./72848-popn-music-best-hits.json) |
+| Pop'n Music Carnival | 72855 | [72855-popn-music-carnival.json](./72855-popn-music-carnival.json) |
 | Pop'n Music éclale | 124691 | [124691-popn-music-eclale.json](./124691-popn-music-eclale.json) |
 | Pop'n Music Fantasia | 76169 | [76169-popn-music-fantasia.json](./76169-popn-music-fantasia.json) |
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
@@ -14478,6 +14483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
 | pop'n music Lively | 140732 | [140732-popn-music-lively.json](./140732-popn-music-lively.json) |
+| Pop'n Music Party | 72844 | [72844-popn-music-party.json](./72844-popn-music-party.json) |
 | Pop'n music peace | 130015 | [130015-popn-music-peace.json](./130015-popn-music-peace.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
@@ -15611,6 +15617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
 | Powershot Pinball | 50108 | [50108-powershot-pinball.json](./50108-powershot-pinball.json) |
+| Powershot Pinball Constructor | 72860 | [72860-powershot-pinball-constructor.json](./72860-powershot-pinball-constructor.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | Powerslam | 101679 | [101679-powerslam.json](./101679-powerslam.json) |
