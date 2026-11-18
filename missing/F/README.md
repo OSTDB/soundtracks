@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's True Colors | 113769 | [113769-fabulous-angelas-true-colors.json](./113769-fabulous-angelas-true-colors.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
+| Faby Bird : The Flappy Adventure | 86991 | [86991-faby-bird-the-flappy-adventure.json](./86991-faby-bird-the-flappy-adventure.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
 | Facade | 127495 | [127495-facade.json](./127495-facade.json) |
 | Face | 87958 | [87958-face.json](./87958-face.json) |
@@ -3210,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmVille 2 | 77743 | [77743-farmville-2.json](./77743-farmville-2.json) |
 | FarmVille 2: Tropic Escape | 243841 | [243841-farmville-2-tropic-escape.json](./243841-farmville-2-tropic-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
+| FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
 | FarmWoozy | 56086 | [56086-farmwoozy.json](./56086-farmwoozy.json) |
 | Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
@@ -5230,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Legends: Mortal Fighting | 335187 | [335187-fight-legends-mortal-fighting.json](./335187-fight-legends-mortal-fighting.json) |
 | Fight Life: Vanguard | 318193 | [318193-fight-life-vanguard.json](./318193-fight-life-vanguard.json) |
 | Fight Like a Chicken | 386244 | [386244-fight-like-a-chicken.json](./386244-fight-like-a-chicken.json) |
+| Fight List - Categories Game | 87038 | [87038-fight-list-categories-game.json](./87038-fight-list-categories-game.json) |
 | Fight List 2 - Categories Game | 88098 | [88098-fight-list-2-categories-game.json](./88098-fight-list-2-categories-game.json) |
 | Fight Me | 137553 | [137553-fight-me.json](./137553-fight-me.json) |
 | Fight Me | 378308 | [378308-fight-me.json](./378308-fight-me.json) |
@@ -8477,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Dot Up! | 232056 | [232056-flappy-dot-up.json](./232056-flappy-dot-up.json) |
 | Flappy Dragon | 316049 | [316049-flappy-dragon.json](./316049-flappy-dragon.json) |
 | Flappy Duck | 420972 | [420972-flappy-duck.json](./420972-flappy-duck.json) |
+| Flappy Dunk | 87053 | [87053-flappy-dunk.json](./87053-flappy-dunk.json) |
 | Flappy Eros | 254411 | [254411-flappy-eros.json](./254411-flappy-eros.json) |
 | Flappy Fetus | 23162 | [23162-flappy-fetus.json](./23162-flappy-fetus.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
@@ -9683,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Developers | 274685 | [274685-fluffy-developers.json](./274685-fluffy-developers.json) |
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Escape: Cryptic Cube | 366178 | [366178-fluffy-escape-cryptic-cube.json](./366178-fluffy-escape-cryptic-cube.json) |
+| Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Flight | 181416 | [181416-fluffy-flight.json](./181416-fluffy-flight.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
 | Fluffy Friends 2 | 74943 | [74943-fluffy-friends-2.json](./74943-fluffy-friends-2.json) |
