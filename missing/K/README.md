@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaardik | 253500 | [253500-kaardik.json](./253500-kaardik.json) |
 | Kabama | 243306 | [243306-kabama.json](./243306-kabama.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
+| Kabaret | 147516 | [147516-kabaret.json](./147516-kabaret.json) |
 | Kabe wo Norikoete | 206562 | [206562-kabe-wo-norikoete.json](./206562-kabe-wo-norikoete.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
 | Kabenaguri | 367724 | [367724-kabenaguri.json](./367724-kabenaguri.json) |
@@ -7249,6 +7250,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoku Yume | 202298 | [202298-kyoku-yume.json](./202298-kyoku-yume.json) |
 | Kyokugen Dasshutsu Minigame: Renda Shibou Desu | 298861 | [298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json](./298861-kyokugen-dasshutsu-minigame-renda-shibou-desu.json) |
 | Kyokujitsu ni Kokoro Arawasu | 153685 | [153685-kyokujitsu-ni-kokoro-arawasu.json](./153685-kyokujitsu-ni-kokoro-arawasu.json) |
+| Kyokujitsu ni Kokoro Arawasu Gojitsudan: Manshuu no Fuyu | 181943 | [181943-kyokujitsu-ni-kokoro-arawasu-gojitsudan-manshuu-no-fuyu.json](./181943-kyokujitsu-ni-kokoro-arawasu-gojitsudan-manshuu-no-fuyu.json) |
+| Kyokujitsu ni Kokoro Arawasu Gojitsudan: So long | 181944 | [181944-kyokujitsu-ni-kokoro-arawasu-gojitsudan-so-long.json](./181944-kyokujitsu-ni-kokoro-arawasu-gojitsudan-so-long.json) |
+| Kyokujitsu ni Kokoro Arawasu Gojitsudan: Taishou Sannen | 181942 | [181942-kyokujitsu-ni-kokoro-arawasu-gojitsudan-taishou-sannen.json](./181942-kyokujitsu-ni-kokoro-arawasu-gojitsudan-taishou-sannen.json) |
+| Kyokujitsu ni Kokoro Arawasu Ni: Haruhi to Nisshin | 181945 | [181945-kyokujitsu-ni-kokoro-arawasu-ni-haruhi-to-nisshin.json](./181945-kyokujitsu-ni-kokoro-arawasu-ni-haruhi-to-nisshin.json) |
 | Kyomu | 166420 | [166420-kyomu.json](./166420-kyomu.json) |
 | Kyonshies 2 | 36900 | [36900-kyonshies-2.json](./36900-kyonshies-2.json) |
 | Kyonyuu Fantasy 3 if | 77824 | [77824-kyonyuu-fantasy-3-if.json](./77824-kyonyuu-fantasy-3-if.json) |
