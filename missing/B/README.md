@@ -9412,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
 | Bionicle: Matoran Adventures | 6322 | [6322-bionicle-matoran-adventures.json](./6322-bionicle-matoran-adventures.json) |
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
+| Bionicle: Quest for Mata Nui | 140650 | [140650-bionicle-quest-for-mata-nui.json](./140650-bionicle-quest-for-mata-nui.json) |
 | Bionicle: The Game | 248451 | [248451-bionicle-the-game.json](./248451-bionicle-the-game.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionicle: The Legend of Mata Nui | 127645 | [127645-bionicle-the-legend-of-mata-nui.json](./127645-bionicle-the-legend-of-mata-nui.json) |
@@ -12060,6 +12061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
 | Block Wave | 31410 | [31410-block-wave.json](./31410-block-wave.json) |
 | Block Witch | 401299 | [401299-block-witch.json](./401299-block-witch.json) |
+| Block Wizard | 140639 | [140639-block-wizard.json](./140639-block-wizard.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block Zombies! | 65415 | [65415-block-zombies.json](./65415-block-zombies.json) |
@@ -19158,6 +19160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Collection If: Red Thread of Fate | 96157 | [96157-buddy-collection-if-red-thread-of-fate.json](./96157-buddy-collection-if-red-thread-of-fate.json) |
 | Buddy Flip | 90328 | [90328-buddy-flip.json](./90328-buddy-flip.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
+| Buddy Mission: Bond | 140674 | [140674-buddy-mission-bond.json](./140674-buddy-mission-bond.json) |
 | Buddy Rush | 78845 | [78845-buddy-rush.json](./78845-buddy-rush.json) |
 | Buddy Rush: The Legends | 58349 | [58349-buddy-rush-the-legends.json](./58349-buddy-rush-the-legends.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
