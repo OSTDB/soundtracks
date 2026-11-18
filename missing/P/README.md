@@ -10291,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Huntress | 28288 | [28288-plague-huntress.json](./28288-plague-huntress.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
+| Plague Inc: The Board Game | 430263 | [430263-plague-inc-the-board-game.json](./430263-plague-inc-the-board-game.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
 | Plague Infection | 189273 | [189273-plague-infection.json](./189273-plague-infection.json) |
 | Plague Lords: Witch Hunt | 189884 | [189884-plague-lords-witch-hunt.json](./189884-plague-lords-witch-hunt.json) |
@@ -13303,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokéPlunder | 384832 | [384832-pokeplunder.json](./384832-pokeplunder.json) |
 | Poképoke | 418607 | [418607-pokepoke.json](./418607-pokepoke.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
+| Pokequizz | 430229 | [430229-pokequizz.json](./430229-pokequizz.json) |
 | Poker | 366922 | [366922-poker.json](./366922-poker.json) |
 | Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
 | Poker Academy: Texas Hold 'Em Version | 209349 | [209349-poker-academy-texas-hold-em-version.json](./209349-poker-academy-texas-hold-em-version.json) |
@@ -19648,6 +19650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pullback Racers | 351592 | [351592-pullback-racers.json](./351592-pullback-racers.json) |
 | Pulleralarm | 93118 | [93118-pulleralarm.json](./93118-pulleralarm.json) |
+| Pullfinity | 430177 | [430177-pullfinity.json](./430177-pullfinity.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling No Punches | 167512 | [167512-pulling-no-punches.json](./167512-pulling-no-punches.json) |
