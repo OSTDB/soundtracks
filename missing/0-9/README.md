@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Ball Pocket | 284756 | [284756-9ball-pocket.json](./284756-9ball-pocket.json) |
 | 9Cat Saga | 288740 | [288740-9cat-saga.json](./288740-9cat-saga.json) |
 | 9Clock OverPack | 424710 | [424710-9clock-overpack.json](./424710-9clock-overpack.json) |
+| 9Dragons | 34746 | [34746-9dragons.json](./34746-9dragons.json) |
 | 9Dragons: Kung Fu Arena | 113738 | [113738-9dragons-kung-fu-arena.json](./113738-9dragons-kung-fu-arena.json) |
 | 9Grids VR | 32465 | [32465-9grids-vr.json](./32465-9grids-vr.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
