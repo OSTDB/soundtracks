@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War II - Retribution Ork Race Pack | 163392 | [163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json](./163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack | 163394 | [163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json](./163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: Complete DLC Collection | 53898 | [53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json](./53898-warhammer-40-000-dawn-of-war-ii-retribution-complete-dlc-collection.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: Last Stand | 36455 | [36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json](./36455-warhammer-40-000-dawn-of-war-ii-retribution-last-stand.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand | 34620 | [34620-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand.json](./34620-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Necron Overlord | 163383 | [163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json](./163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json) |
 | Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander | 163388 | [163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json](./163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
 | Weird O's: Chaos Royale | 314527 | [314527-weird-os-chaos-royale.json](./314527-weird-os-chaos-royale.json) |
+| Weird Park Trilogy | 35197 | [35197-weird-park-trilogy.json](./35197-weird-park-trilogy.json) |
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
@@ -4016,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Guns: Episode 01 - Redemption | 28572 | [28572-western-guns-episode-01-redemption.json](./28572-western-guns-episode-01-redemption.json) |
 | Western Justice | 391777 | [391777-western-justice.json](./391777-western-justice.json) |
 | Western Outlaw: Wanted Dead or Alive | 71096 | [71096-western-outlaw-wanted-dead-or-alive.json](./71096-western-outlaw-wanted-dead-or-alive.json) |
+| Western Press | 35076 | [35076-western-press.json](./35076-western-press.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Western Province | 114810 | [114810-western-province.json](./114810-western-province.json) |
 | Western Quest | 244181 | [244181-western-quest.json](./244181-western-quest.json) |
@@ -5800,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Alone | 264521 | [264521-wild-alone.json](./264521-wild-alone.json) |
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
 | Wild Angels: Episode 1 | 282209 | [282209-wild-angels-episode-1.json](./282209-wild-angels-episode-1.json) |
+| Wild Animal Racing | 34784 | [34784-wild-animal-racing.json](./34784-wild-animal-racing.json) |
 | Wild Animals Kingdom Battle Simulator 2018 | 102458 | [102458-wild-animals-kingdom-battle-simulator-2018.json](./102458-wild-animals-kingdom-battle-simulator-2018.json) |
 | Wild Animals Transporter | 294334 | [294334-wild-animals-transporter.json](./294334-wild-animals-transporter.json) |
 | Wild Area | 237226 | [237226-wild-area.json](./237226-wild-area.json) |
@@ -7295,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
 | Witch's Potion: Water Sort Puzzle | 221448 | [221448-witchs-potion-water-sort-puzzle.json](./221448-witchs-potion-water-sort-puzzle.json) |
 | Witch's Pranks: Frog's Fortune | 108126 | [108126-witchs-pranks-frogs-fortune.json](./108126-witchs-pranks-frogs-fortune.json) |
+| Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Tales | 104743 | [104743-witchs-tales.json](./104743-witchs-tales.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
@@ -7389,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
+| Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmarked | 420398 | [420398-witchmarked.json](./420398-witchmarked.json) |
@@ -9114,6 +9120,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Echo | 151356 | [151356-world-end-echo.json](./151356-world-end-echo.json) |
 | World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
 | World End Economica Complete | 145966 | [145966-world-end-economica-complete.json](./145966-world-end-economica-complete.json) |
+| World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
+| World End Economica: Episode.02 | 35327 | [35327-world-end-economica-episode-02.json](./35327-world-end-economica-episode-02.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World End Heart Girl | 260922 | [260922-world-end-heart-girl.json](./260922-world-end-heart-girl.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
@@ -9303,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of MiniMonsters | 167190 | [167190-world-of-minimonsters.json](./167190-world-of-minimonsters.json) |
 | World of Mixed Martial Arts | 84374 | [84374-world-of-mixed-martial-arts.json](./84374-world-of-mixed-martial-arts.json) |
 | World of Mixed Martial Arts 2 | 77031 | [77031-world-of-mixed-martial-arts-2.json](./77031-world-of-mixed-martial-arts-2.json) |
+| World of Mixed Martial Arts 3 | 35885 | [35885-world-of-mixed-martial-arts-3.json](./35885-world-of-mixed-martial-arts-3.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
@@ -10409,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writhe | 90240 | [90240-writhe.json](./90240-writhe.json) |
 | Writhing | 378356 | [378356-writhing.json](./378356-writhing.json) |
 | Written in Blood on a Mirror | 276536 | [276536-written-in-blood-on-a-mirror.json](./276536-written-in-blood-on-a-mirror.json) |
+| Written in the Sky | 34238 | [34238-written-in-the-sky.json](./34238-written-in-the-sky.json) |
 | WrldCraft | 120169 | [120169-wrldcraft.json](./120169-wrldcraft.json) |
 | wrldDivision | 128544 | [128544-wrlddivision.json](./128544-wrlddivision.json) |
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
@@ -10744,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF Superstars | 100296 | [100296-wwf-superstars.json](./100296-wwf-superstars.json) |
 | WWF Superstars | 198989 | [198989-wwf-superstars.json](./198989-wwf-superstars.json) |
+| WWF Superstars | 39424 | [39424-wwf-superstars.json](./39424-wwf-superstars.json) |
 | WWF War Zone | 206032 | [206032-wwf-war-zone.json](./206032-wwf-war-zone.json) |
 | WWF War Zone | 3645 | [3645-wwf-war-zone.json](./3645-wwf-war-zone.json) |
 | WWF WrestleFest | 39334 | [39334-wwf-wrestlefest.json](./39334-wwf-wrestlefest.json) |
