@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Cliffs of Dover | 27471 | [27471-il-2-sturmovik-cliffs-of-dover.json](./27471-il-2-sturmovik-cliffs-of-dover.json) |
 | IL-2 Sturmovik: Cliffs of Dover - Blitz Edition | 20651 | [20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json](./20651-il-2-sturmovik-cliffs-of-dover-blitz-edition.json) |
 | IL-2 Sturmovik: Cliffs of Dover Blitz | 80996 | [80996-il-2-sturmovik-cliffs-of-dover-blitz.json](./80996-il-2-sturmovik-cliffs-of-dover-blitz.json) |
+| IL-2 Sturmovik: Complete Edition | 23004 | [23004-il-2-sturmovik-complete-edition.json](./23004-il-2-sturmovik-complete-edition.json) |
 | IL-2 Sturmovik: Flying Circus - Volume III | 285554 | [285554-il-2-sturmovik-flying-circus-volume-iii.json](./285554-il-2-sturmovik-flying-circus-volume-iii.json) |
 | IL-2 Sturmovik: Forgotten Battles | 755 | [755-il-2-sturmovik-forgotten-battles.json](./755-il-2-sturmovik-forgotten-battles.json) |
 | IL-2 Sturmovik: Forgotten Battles - Ace | 756 | [756-il-2-sturmovik-forgotten-battles-ace.json](./756-il-2-sturmovik-forgotten-battles-ace.json) |
@@ -5649,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
 | International Cricket | 65196 | [65196-international-cricket.json](./65196-international-cricket.json) |
+| International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
 | International Cricket Captain 2001 | 63321 | [63321-international-cricket-captain-2001.json](./63321-international-cricket-captain-2001.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cricket Captain 2002 | 63319 | [63319-international-cricket-captain-2002.json](./63319-international-cricket-captain-2002.json) |
 | International Cricket Captain 2005 | 54122 | [54122-international-cricket-captain-2005.json](./54122-international-cricket-captain-2005.json) |
 | International Cricket Captain 2005: Ashes Edition | 63322 | [63322-international-cricket-captain-2005-ashes-edition.json](./63322-international-cricket-captain-2005-ashes-edition.json) |
+| International Cricket Captain 2006 | 23008 | [23008-international-cricket-captain-2006.json](./23008-international-cricket-captain-2006.json) |
 | International Cricket Captain 2006: Ashes Edition | 63323 | [63323-international-cricket-captain-2006-ashes-edition.json](./63323-international-cricket-captain-2006-ashes-edition.json) |
 | International Cricket Captain 2008 | 21355 | [21355-international-cricket-captain-2008.json](./21355-international-cricket-captain-2008.json) |
 | International Cricket Captain 2009 | 63324 | [63324-international-cricket-captain-2009.json](./63324-international-cricket-captain-2009.json) |
