@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Amanojaku: Gold Rush | 207156 | [207156-danmaku-amanojaku-gold-rush.json](./207156-danmaku-amanojaku-gold-rush.json) |
 | Danmaku Amanojaku: Impossible Spell Card | 47026 | [47026-danmaku-amanojaku-impossible-spell-card.json](./47026-danmaku-amanojaku-impossible-spell-card.json) |
+| Danmaku Death | 137117 | [137117-danmaku-death.json](./137117-danmaku-death.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Kentei Shiken: Ketsui-hen | 297535 | [297535-danmaku-kentei-shiken-ketsui-hen.json](./297535-danmaku-kentei-shiken-ketsui-hen.json) |
@@ -11661,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Road | 200217 | [200217-disco-road.json](./200217-disco-road.json) |
 | Disco Rock | 232206 | [232206-disco-rock.json](./232206-disco-rock.json) |
 | Disco Samurai | 267475 | [267475-disco-samurai.json](./267475-disco-samurai.json) |
+| Disco Simulator | 129269 | [129269-disco-simulator.json](./129269-disco-simulator.json) |
 | Disco Time 80s VR | 40466 | [40466-disco-time-80s-vr.json](./40466-disco-time-80s-vr.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
@@ -14840,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Alchemy | 348502 | [348502-doodle-alchemy.json](./348502-doodle-alchemy.json) |
+| Doodle Alive | 129286 | [129286-doodle-alive.json](./129286-doodle-alive.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
 | Doodle Army HD | 95288 | [95288-doodle-army-hd.json](./95288-doodle-army-hd.json) |
 | Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
@@ -20832,6 +20835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
 | Dungeon Manjirou | 65620 | [65620-dungeon-manjirou.json](./65620-dungeon-manjirou.json) |
 | Dungeon Marathon | 52295 | [52295-dungeon-marathon.json](./52295-dungeon-marathon.json) |
+| Dungeon Marauder | 129261 | [129261-dungeon-marauder.json](./129261-dungeon-marauder.json) |
 | Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
 | Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
