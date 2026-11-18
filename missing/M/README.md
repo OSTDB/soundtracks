@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manalia Notes: A Memory of Innocence | 346862 | [346862-manalia-notes-a-memory-of-innocence.json](./346862-manalia-notes-a-memory-of-innocence.json) |
 | Manalith | 142902 | [142902-manalith.json](./142902-manalith.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
+| Manaphore | 429593 | [429593-manaphore.json](./429593-manaphore.json) |
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
 | Manas | 249359 | [249359-manas.json](./249359-manas.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
