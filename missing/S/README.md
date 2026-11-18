@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga Cube | 220493 | [220493-saga-cube.json](./220493-saga-cube.json) |
 | SaGa Frontier 2 | 2353 | [2353-saga-frontier-2.json](./2353-saga-frontier-2.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
+| SaGa Frontier Remastered | 141281 | [141281-saga-frontier-remastered.json](./141281-saga-frontier-remastered.json) |
 | Saga of Guardians | 322764 | [322764-saga-of-guardians.json](./322764-saga-of-guardians.json) |
 | Saga of Lucimia | 71020 | [71020-saga-of-lucimia.json](./71020-saga-of-lucimia.json) |
 | Saga of Nine Worlds: The Stags | 108853 | [108853-saga-of-nine-worlds-the-stags.json](./108853-saga-of-nine-worlds-the-stags.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Our Spirit | 206662 | [206662-save-our-spirit.json](./206662-save-our-spirit.json) |
 | Save President From Rebels | 107730 | [107730-save-president-from-rebels.json](./107730-save-president-from-rebels.json) |
 | Save Rob | 354909 | [354909-save-rob.json](./354909-save-rob.json) |
+| Save Room: Organization Game | 199573 | [199573-save-room-organization-game.json](./199573-save-room-organization-game.json) |
 | Save Room: The Merchant | 256726 | [256726-save-room-the-merchant.json](./256726-save-room-the-merchant.json) |
 | Save Santa | 219611 | [219611-save-santa.json](./219611-save-santa.json) |
 | Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
@@ -8761,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Paradise | 268084 | [268084-shattered-paradise.json](./268084-shattered-paradise.json) |
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
+| Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
 | Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
 | Shattered Reality | 165799 | [165799-shattered-reality.json](./165799-shattered-reality.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
@@ -10953,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shredder 6 | 92949 | [92949-shredder-6.json](./92949-shredder-6.json) |
 | Shredder 9 | 92886 | [92886-shredder-9.json](./92886-shredder-9.json) |
 | Shredder Chess for iPad | 88538 | [88538-shredder-chess-for-ipad.json](./88538-shredder-chess-for-ipad.json) |
+| Shredders | 136084 | [136084-shredders.json](./136084-shredders.json) |
 | Shredding Crush | 104729 | [104729-shredding-crush.json](./104729-shredding-crush.json) |
 | Shredmill | 362906 | [362906-shredmill.json](./362906-shredmill.json) |
 | Shredoka: Magical Girl Skateboarding | 396723 | [396723-shredoka-magical-girl-skateboarding.json](./396723-shredoka-magical-girl-skateboarding.json) |
@@ -12206,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silpheed | 65578 | [65578-silpheed.json](./65578-silpheed.json) |
 | Silpheed Alternative: Menace from Beyond the Stars | 65124 | [65124-silpheed-alternative-menace-from-beyond-the-stars.json](./65124-silpheed-alternative-menace-from-beyond-the-stars.json) |
 | Silpheed: The Lost Planet | 22009 | [22009-silpheed-the-lost-planet.json](./22009-silpheed-the-lost-planet.json) |
+| Silt | 152261 | [152261-silt.json](./152261-silt.json) |
 | Silted Prayer | 257904 | [257904-silted-prayer.json](./257904-silted-prayer.json) |
 | Silva | 296410 | [296410-silva.json](./296410-silva.json) |
 | Silva Saga | 48708 | [48708-silva-saga.json](./48708-silva-saga.json) |
@@ -15257,6 +15262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender Rising 2 | 108716 | [108716-slender-rising-2.json](./108716-slender-rising-2.json) |
 | Slender Space | 135934 | [135934-slender-space.json](./135934-slender-space.json) |
+| Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
 | Slender-Man | 64424 | [64424-slender-man.json](./64424-slender-man.json) |
 | Slender: A Crooked Manifestation | 346483 | [346483-slender-a-crooked-manifestation.json](./346483-slender-a-crooked-manifestation.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
@@ -19423,6 +19429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Bloom | 137135 | [137135-song-of-bloom.json](./137135-song-of-bloom.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Eriel | 292208 | [292208-song-of-eriel.json](./292208-song-of-eriel.json) |
+| Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
 | Song of Feathers | 337579 | [337579-song-of-feathers.json](./337579-song-of-feathers.json) |
 | Song of Hero: Music RPG | 260763 | [260763-song-of-hero-music-rpg.json](./260763-song-of-hero-music-rpg.json) |
 | Song of Horror | 121555 | [121555-song-of-horror.json](./121555-song-of-horror.json) |
@@ -19634,6 +19641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure | 192113 | [192113-sonic-adventure.json](./192113-sonic-adventure.json) |
 | Sonic Adventure | 198588 | [198588-sonic-adventure.json](./198588-sonic-adventure.json) |
 | Sonic Adventure 2 | 192192 | [192192-sonic-adventure-2.json](./192192-sonic-adventure-2.json) |
+| Sonic Adventure 2: Battle | 192194 | [192194-sonic-adventure-2-battle.json](./192194-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Battle | 7862 | [7862-sonic-adventure-2-battle.json](./7862-sonic-adventure-2-battle.json) |
 | Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
 | Sonic Adventure 2D | 334733 | [334733-sonic-adventure-2d.json](./334733-sonic-adventure-2d.json) |
@@ -27766,6 +27774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
 | Star Trek: Outposts Unknown | 405102 | [405102-star-trek-outposts-unknown.json](./405102-star-trek-outposts-unknown.json) |
 | Star Trek: Phaser Strike | 68129 | [68129-star-trek-phaser-strike.json](./68129-star-trek-phaser-strike.json) |
+| Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
@@ -34741,6 +34750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman Collection | 388432 | [388432-super-bomberman-collection.json](./388432-super-bomberman-collection.json) |
 | Super Bomberman R | 26760 | [26760-super-bomberman-r.json](./26760-super-bomberman-r.json) |
 | Super Bomberman R 2 | 206807 | [206807-super-bomberman-r-2.json](./206807-super-bomberman-r-2.json) |
+| Super Bomberman R Online | 135826 | [135826-super-bomberman-r-online.json](./135826-super-bomberman-r-online.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
@@ -35896,6 +35906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 3D World: Ghostly Glow | 313079 | [313079-super-mario-3d-world-ghostly-glow.json](./313079-super-mario-3d-world-ghostly-glow.json) |
 | Super Mario 4 | 160277 | [160277-super-mario-4.json](./160277-super-mario-4.json) |
 | Super Mario 4 Jugadores | 362159 | [362159-super-mario-4-jugadores.json](./362159-super-mario-4-jugadores.json) |
+| Super Mario 63 | 137008 | [137008-super-mario-63.json](./137008-super-mario-63.json) |
 | Super Mario 63 Redux | 248842 | [248842-super-mario-63-redux.json](./248842-super-mario-63-redux.json) |
 | Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
@@ -38551,6 +38562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supremacy MMA: Unrestricted | 42708 | [42708-supremacy-mma-unrestricted.json](./42708-supremacy-mma-unrestricted.json) |
 | Supremacy: Four Paths to Power | 425392 | [425392-supremacy-four-paths-to-power.json](./425392-supremacy-four-paths-to-power.json) |
+| Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
 | Supremacy: Your Will Be Done | 37235 | [37235-supremacy-your-will-be-done.json](./37235-supremacy-your-will-be-done.json) |
 | Supreme | 60683 | [60683-supreme.json](./60683-supreme.json) |
