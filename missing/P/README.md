@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperboy | 256086 | [256086-paperboy.json](./256086-paperboy.json) |
 | Paperboy / Rampage | 94461 | [94461-paperboy-rampage.json](./94461-paperboy-rampage.json) |
 | Paperboy 2 | 12458 | [12458-paperboy-2.json](./12458-paperboy-2.json) |
+| Paperboy 2 | 198845 | [198845-paperboy-2.json](./198845-paperboy-2.json) |
 | Paperboy 2 | 307086 | [307086-paperboy-2.json](./307086-paperboy-2.json) |
 | Paperboy 2 | 307087 | [307087-paperboy-2.json](./307087-paperboy-2.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
@@ -7538,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilfer: Story of Light | 244065 | [244065-pilfer-story-of-light.json](./244065-pilfer-story-of-light.json) |
+| Pilfered Liberty | 147524 | [147524-pilfered-liberty.json](./147524-pilfered-liberty.json) |
 | Pilferer | 95238 | [95238-pilferer.json](./95238-pilferer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
@@ -7980,6 +7982,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2 VR | 26292 | [26292-pinball-fx2-vr.json](./26292-pinball-fx2-vr.json) |
+| Pinball FX2 VR: Season 1 Pack | 164025 | [164025-pinball-fx2-vr-season-1-pack.json](./164025-pinball-fx2-vr-season-1-pack.json) |
+| Pinball FX2 VR: The Walking Dead | 164023 | [164023-pinball-fx2-vr-the-walking-dead.json](./164023-pinball-fx2-vr-the-walking-dead.json) |
+| Pinball FX2 VR: Universal Classics Pinball | 164024 | [164024-pinball-fx2-vr-universal-classics-pinball.json](./164024-pinball-fx2-vr-universal-classics-pinball.json) |
 | Pinball FX2: Civil War Table DLC | 10694 | [10694-pinball-fx2-civil-war-table-dlc.json](./10694-pinball-fx2-civil-war-table-dlc.json) |
 | Pinball FX2: Epic Quest Table | 10695 | [10695-pinball-fx2-epic-quest-table.json](./10695-pinball-fx2-epic-quest-table.json) |
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
@@ -8005,22 +8010,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Core Collection | 164005 | [164005-pinball-fx3-core-collection.json](./164005-pinball-fx3-core-collection.json) |
 | Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX3: Marvel Pinball - Cinematic Pack | 226360 | [226360-pinball-fx3-marvel-pinball-cinematic-pack.json](./226360-pinball-fx3-marvel-pinball-cinematic-pack.json) |
+| Pinball FX3: Marvel Pinball - Heavy Hitters | 164019 | [164019-pinball-fx3-marvel-pinball-heavy-hitters.json](./164019-pinball-fx3-marvel-pinball-heavy-hitters.json) |
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Season 2 Bundle | 225946 | [225946-pinball-fx3-marvel-pinball-season-2-bundle.json](./225946-pinball-fx3-marvel-pinball-season-2-bundle.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Portal Pinball | 164020 | [164020-pinball-fx3-portal-pinball.json](./164020-pinball-fx3-portal-pinball.json) |
+| Pinball FX3: Sci-Fi Pack | 164021 | [164021-pinball-fx3-sci-fi-pack.json](./164021-pinball-fx3-sci-fi-pack.json) |
 | Pinball FX3: Star Wars Pinball | 20004 | [20004-pinball-fx3-star-wars-pinball.json](./20004-pinball-fx3-star-wars-pinball.json) |
 | Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
 | Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
 | Pinball FX3: Star Wars Pinball - Solo | 160300 | [160300-pinball-fx3-star-wars-pinball-solo.json](./160300-pinball-fx3-star-wars-pinball-solo.json) |
 | Pinball FX3: Star Wars Pinball - The Force Awakens | 74964 | [74964-pinball-fx3-star-wars-pinball-the-force-awakens.json](./74964-pinball-fx3-star-wars-pinball-the-force-awakens.json) |
+| Pinball FX3: Star Wars Pinball - The Last Jedi | 164022 | [164022-pinball-fx3-star-wars-pinball-the-last-jedi.json](./164022-pinball-fx3-star-wars-pinball-the-last-jedi.json) |
 | Pinball FX3: Star Wars Pinball - Unsung Heroes | 74963 | [74963-pinball-fx3-star-wars-pinball-unsung-heroes.json](./74963-pinball-fx3-star-wars-pinball-unsung-heroes.json) |
 | Pinball FX3: Star Wars Pinball Season 1 Bundle | 265254 | [265254-pinball-fx3-star-wars-pinball-season-1-bundle.json](./265254-pinball-fx3-star-wars-pinball-season-1-bundle.json) |
 | Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
+| Pinball FX3: Universal Classics Pinball | 164018 | [164018-pinball-fx3-universal-classics-pinball.json](./164018-pinball-fx3-universal-classics-pinball.json) |
 | Pinball FX3: Williams Pinball - Season 1 Bundle | 354048 | [354048-pinball-fx3-williams-pinball-season-1-bundle.json](./354048-pinball-fx3-williams-pinball-season-1-bundle.json) |
+| Pinball FX3: Williams Pinball - Universal Monsters Pack | 164017 | [164017-pinball-fx3-williams-pinball-universal-monsters-pack.json](./164017-pinball-fx3-williams-pinball-universal-monsters-pack.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
+| Pinball FX3: Williams Pinball - Volume 6 | 164016 | [164016-pinball-fx3-williams-pinball-volume-6.json](./164016-pinball-fx3-williams-pinball-volume-6.json) |
 | Pinball FX3: Williams Table Pack Vol. 1 | 111280 | [111280-pinball-fx3-williams-table-pack-vol-1.json](./111280-pinball-fx3-williams-table-pack-vol-1.json) |
 | Pinball FX3: Zen Classics | 151055 | [151055-pinball-fx3-zen-classics.json](./151055-pinball-fx3-zen-classics.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
@@ -8701,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates | 180411 | [180411-pirates.json](./180411-pirates.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
 | Pirates | 298796 | [298796-pirates.json](./298796-pirates.json) |
+| Pirates & Pearls: Match, build & design | 181962 | [181962-pirates-and-pearls-match-build-and-design.json](./181962-pirates-and-pearls-match-build-and-design.json) |
 | Pirates & Pirater | 293537 | [293537-pirates-and-pirater.json](./293537-pirates-and-pirater.json) |
 | Pirates 7 | 222063 | [222063-pirates-7.json](./222063-pirates-7.json) |
 | Pirates Adventure Solitaire | 341574 | [341574-pirates-adventure-solitaire.json](./341574-pirates-adventure-solitaire.json) |
@@ -10059,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Edition | 247594 | [247594-pizza-bar-tycoon-multiplayer-edition.json](./247594-pizza-bar-tycoon-multiplayer-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
+| Pizza Bike Rider | 161423 | [161423-pizza-bike-rider.json](./161423-pizza-bike-rider.json) |
 | Pizza Blitz | 364864 | [364864-pizza-blitz.json](./364864-pizza-blitz.json) |
 | Pizza Boy | 303746 | [303746-pizza-boy.json](./303746-pizza-boy.json) |
 | Pizza Boy | 411222 | [411222-pizza-boy.json](./411222-pizza-boy.json) |
@@ -13285,6 +13299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Heat | 77434 | [77434-poker-heat.json](./77434-poker-heat.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
+| Poker Knight | 175443 | [175443-poker-knight.json](./175443-poker-knight.json) |
 | Poker Ladies | 39397 | [39397-poker-ladies.json](./39397-poker-ladies.json) |
 | Poker Legends: Omaha Champions | 232560 | [232560-poker-legends-omaha-champions.json](./232560-poker-legends-omaha-champions.json) |
 | Poker Loafer | 369321 | [369321-poker-loafer.json](./369321-poker-loafer.json) |
@@ -13340,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker World | 55683 | [55683-poker-world.json](./55683-poker-world.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
+| Poker: Texas | 196203 | [196203-poker-texas.json](./196203-poker-texas.json) |
 | Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
 | Poker: Texas & Omaha Hold'em - Silver Edition | 418340 | [418340-poker-texas-and-omaha-holdem-silver-edition.json](./418340-poker-texas-and-omaha-holdem-silver-edition.json) |
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
@@ -15427,7 +15443,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai | 167787 | [167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json](./167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Lord Zedd | 167790 | [167790-power-rangers-battle-for-the-grid-lord-zedd.json](./167790-power-rangers-battle-for-the-grid-lord-zedd.json) |
 | Power Rangers: Battle for the Grid - Mega Edition | 296042 | [296042-power-rangers-battle-for-the-grid-mega-edition.json](./296042-power-rangers-battle-for-the-grid-mega-edition.json) |
+| Power Rangers: Battle for the Grid - Poisandra | 196198 | [196198-power-rangers-battle-for-the-grid-poisandra.json](./196198-power-rangers-battle-for-the-grid-poisandra.json) |
 | Power Rangers: Battle for the Grid - Ranger Edition | 136360 | [136360-power-rangers-battle-for-the-grid-ranger-edition.json](./136360-power-rangers-battle-for-the-grid-ranger-edition.json) |
+| Power Rangers: Battle for the Grid - Rita Repulsa | 196197 | [196197-power-rangers-battle-for-the-grid-rita-repulsa.json](./196197-power-rangers-battle-for-the-grid-rita-repulsa.json) |
 | Power Rangers: Battle for the Grid - Robert James Jungle Fury | 167789 | [167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json](./167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json) |
 | Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger | 167791 | [167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json](./167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json) |
 | Power Rangers: Battle for the Grid - Scorpina | 167795 | [167795-power-rangers-battle-for-the-grid-scorpina.json](./167795-power-rangers-battle-for-the-grid-scorpina.json) |
@@ -18685,6 +18703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus | 217708 | [217708-prometheus.json](./217708-prometheus.json) |
 | Prometheus | 85675 | [85675-prometheus.json](./85675-prometheus.json) |
+| Prometheus OS | 161431 | [161431-prometheus-os.json](./161431-prometheus-os.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
