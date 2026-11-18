@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VAD | 100453 | [100453-vad.json](./100453-vad.json) |
 | Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
+| Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
 | Vader Immortal: A Star Wars VR Series - Special Retail Edition | 166260 | [166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json](./166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json) |
 | Vader Immortal: Episode II | 122633 | [122633-vader-immortal-episode-ii.json](./122633-vader-immortal-episode-ii.json) |
 | Vader Immortal: Episode III | 126168 | [126168-vader-immortal-episode-iii.json](./126168-vader-immortal-episode-iii.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectron | 409129 | [409129-vectron.json](./409129-vectron.json) |
 | Vectronic | 401501 | [401501-vectronic.json](./401501-vectronic.json) |
 | Vecxis | 59058 | [59058-vecxis.json](./59058-vecxis.json) |
+| Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Ved: Recure | 321207 | [321207-ved-recure.json](./321207-ved-recure.json) |
