@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iblis | 344578 | [344578-iblis.json](./344578-iblis.json) |
 | Iblis2: Sorcery | 226703 | [226703-iblis2-sorcery.json](./226703-iblis2-sorcery.json) |
 | Iblis3: Phenomena | 372013 | [372013-iblis3-phenomena.json](./372013-iblis3-phenomena.json) |
+| Iblobs | 99208 | [99208-iblobs.json](./99208-iblobs.json) |
 | IBloxx | 359476 | [359476-ibloxx.json](./359476-ibloxx.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
 | Ibn al-Nafis Visual Novel | 77260 | [77260-ibn-al-nafis-visual-novel.json](./77260-ibn-al-nafis-visual-novel.json) |
@@ -3566,6 +3567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inclement Idée Fixe | 382802 | [382802-inclement-idee-fixe.json](./382802-inclement-idee-fixe.json) |
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
 | Incline: Railway of Devil's Valley | 294299 | [294299-incline-railway-of-devils-valley.json](./294299-incline-railway-of-devils-valley.json) |
+| Incoboto | 22862 | [22862-incoboto.json](./22862-incoboto.json) |
 | Incoboto Mini | 41511 | [41511-incoboto-mini.json](./41511-incoboto-mini.json) |
 | Incog-Confine | 405846 | [405846-incog-confine.json](./405846-incog-confine.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
@@ -4528,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Conquer | 196521 | [196521-infinity-conquer.json](./196521-infinity-conquer.json) |
 | Infinity Cure | 43965 | [43965-infinity-cure.json](./43965-infinity-cure.json) |
 | Infinity Danger | 54128 | [54128-infinity-danger.json](./54128-infinity-danger.json) |
+| Infinity Disk | 109777 | [109777-infinity-disk.json](./109777-infinity-disk.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
 | Infinity Dungeon 2 VIP - Summon girl and Zombie | 95772 | [95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json](./95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json) |
 | Infinity Dungeon! | 104763 | [104763-infinity-dungeon.json](./104763-infinity-dungeon.json) |
@@ -6482,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Safari: Playful Math with Leo | 114652 | [114652-iq-safari-playful-math-with-leo.json](./114652-iq-safari-playful-math-with-leo.json) |
 | IQ Test | 107446 | [107446-iq-test.json](./107446-iq-test.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
+| IQ Test Pro Edition | 91998 | [91998-iq-test-pro-edition.json](./91998-iq-test-pro-edition.json) |
 | IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
