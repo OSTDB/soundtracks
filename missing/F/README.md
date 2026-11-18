@@ -6938,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
 | Fireball | 377327 | [377327-fireball.json](./377327-fireball.json) |
 | Fireball | 91644 | [91644-fireball.json](./91644-fireball.json) |
+| FireBall 2 | 274301 | [274301-fireball-2.json](./274301-fireball-2.json) |
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Fireball SE | 22313 | [22313-fireball-se.json](./22313-fireball-se.json) |
 | Fireball Spam | 243788 | [243788-fireball-spam.json](./243788-fireball-spam.json) |
