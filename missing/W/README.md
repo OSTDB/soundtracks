@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Go! | 36075 | [36075-way-to-go.json](./36075-way-to-go.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
+| Way to Hell 2 New Era | 397319 | [397319-way-to-hell-2-new-era.json](./397319-way-to-hell-2-new-era.json) |
 | Way to the Cake | 207459 | [207459-way-to-the-cake.json](./207459-way-to-the-cake.json) |
 | Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
 | Way to the Woods | 90012 | [90012-way-to-the-woods.json](./90012-way-to-the-woods.json) |
@@ -9208,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
 | World of Dragon Warrior: Torneko - The Last Hope | 44922 | [44922-world-of-dragon-warrior-torneko-the-last-hope.json](./44922-world-of-dragon-warrior-torneko-the-last-hope.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
+| World of Eggs: Idle Adventures | 392516 | [392516-world-of-eggs-idle-adventures.json](./392516-world-of-eggs-idle-adventures.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
 | World of Empires 2 | 176619 | [176619-world-of-empires-2.json](./176619-world-of-empires-2.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
