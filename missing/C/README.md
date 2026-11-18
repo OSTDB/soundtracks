@@ -5230,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Catharsis | 363813 | [363813-catharsis.json](./363813-catharsis.json) |
+| Catharsis: The Last of Atelier | 430149 | [430149-catharsis-the-last-of-atelier.json](./430149-catharsis-the-last-of-atelier.json) |
 | Cathderal Deer | 400279 | [400279-cathderal-deer.json](./400279-cathderal-deer.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
@@ -13370,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Challenge | 75386 | [75386-coins-challenge.json](./75386-coins-challenge.json) |
 | Coins Collector Simulator | 188752 | [188752-coins-collector-simulator.json](./188752-coins-collector-simulator.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
+| Coins in Place | 430130 | [430130-coins-in-place.json](./430130-coins-in-place.json) |
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
 | Coins Must Be Made | 425144 | [425144-coins-must-be-made.json](./425144-coins-must-be-made.json) |
@@ -16848,6 +16850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
 | Cordura | 394664 | [394664-cordura.json](./394664-cordura.json) |
 | Corduroy Hollow | 236476 | [236476-corduroy-hollow.json](./236476-corduroy-hollow.json) |
+| Cordway | 430274 | [430274-cordway.json](./430274-cordway.json) |
 | Cordy | 112066 | [112066-cordy.json](./112066-cordy.json) |
 | Cordy 2 | 112067 | [112067-cordy-2.json](./112067-cordy-2.json) |
 | Cordy Sky | 290259 | [290259-cordy-sky.json](./290259-cordy-sky.json) |
@@ -17540,6 +17543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Mambo No. 5 | 304077 | [304077-cosmo-mambo-no-5.json](./304077-cosmo-mambo-no-5.json) |
 | Cosmo Nash: Culinary Courier | 290990 | [290990-cosmo-nash-culinary-courier.json](./290990-cosmo-nash-culinary-courier.json) |
 | Cosmo Odyssey 2: Comeback to Origin | 238550 | [238550-cosmo-odyssey-2-comeback-to-origin.json](./238550-cosmo-odyssey-2-comeback-to-origin.json) |
+| Cosmo Piercers | 429988 | [429988-cosmo-piercers.json](./429988-cosmo-piercers.json) |
 | Cosmo Player Z | 190495 | [190495-cosmo-player-z.json](./190495-cosmo-player-z.json) |
 | Cosmo Police Galivan | 28825 | [28825-cosmo-police-galivan.json](./28825-cosmo-police-galivan.json) |
 | Cosmo Police Galivan II: Arrow of Justice | 38213 | [38213-cosmo-police-galivan-ii-arrow-of-justice.json](./38213-cosmo-police-galivan-ii-arrow-of-justice.json) |
@@ -17799,6 +17803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Action | 2612 | [2612-counter-action.json](./2612-counter-action.json) |
 | Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
+| Counter Assault | 430148 | [430148-counter-assault.json](./430148-counter-assault.json) |
 | Counter Attack | 152291 | [152291-counter-attack.json](./152291-counter-attack.json) |
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Attack on Zombies | 397297 | [397297-counter-attack-on-zombies.json](./397297-counter-attack-on-zombies.json) |
