@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magret & FaceDeBouc | 274574 | [274574-magret-and-facedebouc.json](./274574-magret-and-facedebouc.json) |
 | Magritte | 62289 | [62289-magritte.json](./62289-magritte.json) |
 | Magrunner: Dark Pulse | 8286 | [8286-magrunner-dark-pulse.json](./8286-magrunner-dark-pulse.json) |
+| Mags and Body Bags | 415555 | [415555-mags-and-body-bags.json](./415555-mags-and-body-bags.json) |
 | Magsic | 324044 | [324044-magsic.json](./324044-magsic.json) |
 | Magsic II | 324050 | [324050-magsic-ii.json](./324050-magsic-ii.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
@@ -12789,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
 | Midnight Door | 253643 | [253643-midnight-door.json](./253643-midnight-door.json) |
 | Midnight Dreams | 255242 | [255242-midnight-dreams.json](./255242-midnight-dreams.json) |
+| Midnight Dreams | 416325 | [416325-midnight-dreams.json](./416325-midnight-dreams.json) |
 | Midnight Drift '86 | 344582 | [344582-midnight-drift-86.json](./344582-midnight-drift-86.json) |
 | Midnight Drifter | 240222 | [240222-midnight-drifter.json](./240222-midnight-drifter.json) |
 | Midnight Drifter: Drift Racing Car Racing Driving Simulator - Premium Edition | 280618 | [280618-midnight-drifter-drift-racing-car-racing-driving-simulator-premium-edition.json](./280618-midnight-drifter-drift-racing-car-racing-driving-simulator-premium-edition.json) |
@@ -12848,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Monitor: Anomaly Watch | 263269 | [263269-midnight-monitor-anomaly-watch.json](./263269-midnight-monitor-anomaly-watch.json) |
 | Midnight Monitor: Halloween Forever | 275429 | [275429-midnight-monitor-halloween-forever.json](./275429-midnight-monitor-halloween-forever.json) |
 | Midnight Monorail | 183742 | [183742-midnight-monorail.json](./183742-midnight-monorail.json) |
+| Midnight Mouse | 416312 | [416312-midnight-mouse.json](./416312-midnight-mouse.json) |
 | Midnight Moving Crew | 420344 | [420344-midnight-moving-crew.json](./420344-midnight-moving-crew.json) |
 | Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
@@ -12972,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
 | Midnight Yammy 8-Bit Trickster Show | 377556 | [377556-midnight-yammy-8-bit-trickster-show.json](./377556-midnight-yammy-8-bit-trickster-show.json) |
 | Midnight Zone | 207466 | [207466-midnight-zone.json](./207466-midnight-zone.json) |
+| Midnight: A Time's End | 416314 | [416314-midnight-a-times-end.json](./416314-midnight-a-times-end.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight. Swordfight. | 59699 | [59699-midnight-swordfight.json](./59699-midnight-swordfight.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
