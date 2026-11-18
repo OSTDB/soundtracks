@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Corona Mágica | 69635 | [69635-la-corona-magica.json](./69635-la-corona-magica.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
+| La Cosy Académie 2 | 140676 | [140676-la-cosy-academie-2.json](./140676-la-cosy-academie-2.json) |
 | La Crapule | 386319 | [386319-la-crapule.json](./386319-la-crapule.json) |
 | La Croix Pan | 93246 | [93246-la-croix-pan.json](./93246-la-croix-pan.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft: Reflections | 62481 | [62481-lara-croft-reflections.json](./62481-lara-croft-reflections.json) |
 | Lara Croft: Relic Run | 15384 | [15384-lara-croft-relic-run.json](./15384-lara-croft-relic-run.json) |
 | Lara Croft: The Last Plague | 252531 | [252531-lara-croft-the-last-plague.json](./252531-lara-croft-the-last-plague.json) |
+| Lara Croft: The Sun Obelisk | 140655 | [140655-lara-croft-the-sun-obelisk.json](./140655-lara-croft-the-sun-obelisk.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
 | Lara's Mysterious Restorations | 210213 | [210213-laras-mysterious-restorations.json](./210213-laras-mysterious-restorations.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Sans: The Sensational Experiance | 331770 | [331770-lemon-sans-the-sensational-experiance.json](./331770-lemon-sans-the-sensational-experiance.json) |
 | Lemon Street | 180937 | [180937-lemon-street.json](./180937-lemon-street.json) |
 | Lemon vs. Teddy | 189223 | [189223-lemon-vs-teddy.json](./189223-lemon-vs-teddy.json) |
+| Lemon: Kageetei Nostalgia | 181946 | [181946-lemon-kageetei-nostalgia.json](./181946-lemon-kageetei-nostalgia.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
 | Lemonade Apocalypse | 346297 | [346297-lemonade-apocalypse.json](./346297-lemonade-apocalypse.json) |
@@ -7277,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Cycling Manager 2023 | 255314 | [255314-live-cycling-manager-2023.json](./255314-live-cycling-manager-2023.json) |
 | Live Day | 302320 | [302320-live-day.json](./302320-live-day.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
+| Live Empire 2 | 161427 | [161427-live-empire-2.json](./161427-live-empire-2.json) |
 | Live Factory | 238119 | [238119-live-factory.json](./238119-live-factory.json) |
 | Live Fire Exercise | 360831 | [360831-live-fire-exercise.json](./360831-live-fire-exercise.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
@@ -8209,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Misty Peak | 202730 | [202730-lonely-mountains-downhill-misty-peak.json](./202730-lonely-mountains-downhill-misty-peak.json) |
 | Lonely Mountains: Downhill - Redmoor Falls | 226325 | [226325-lonely-mountains-downhill-redmoor-falls.json](./226325-lonely-mountains-downhill-redmoor-falls.json) |
+| Lonely Mountains: Downhill - Riley's Return | 196069 | [196069-lonely-mountains-downhill-rileys-return.json](./196069-lonely-mountains-downhill-rileys-return.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Mountains: Snow Riders | 313812 | [313812-lonely-mountains-snow-riders.json](./313812-lonely-mountains-snow-riders.json) |
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
@@ -8249,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lones | 285331 | [285331-lones.json](./285331-lones.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | Lonesome Town | 394660 | [394660-lonesome-town.json](./394660-lonesome-town.json) |
+| Lonesome Village | 164035 | [164035-lonesome-village.json](./164035-lonesome-village.json) |
 | Lonesome Village + A Tiny Sticker Tale Bundle | 283196 | [283196-lonesome-village-a-tiny-sticker-tale-bundle.json](./283196-lonesome-village-a-tiny-sticker-tale-bundle.json) |
 | LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
@@ -10157,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Death & Veggies | 186479 | [186479-love-death-and-veggies.json](./186479-love-death-and-veggies.json) |
 | Love, Death and PvP | 250190 | [250190-love-death-and-pvp.json](./250190-love-death-and-pvp.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
+| Love, Election & Chocolate Portable | 140658 | [140658-love-election-and-chocolate-portable.json](./140658-love-election-and-chocolate-portable.json) |
 | Love, Elections and Chocolate | 140685 | [140685-love-elections-and-chocolate.json](./140685-love-elections-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
@@ -11177,6 +11184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
 | Lunar Crypt | 367863 | [367863-lunar-crypt.json](./367863-lunar-crypt.json) |
 | Lunar Crypt | 417068 | [417068-lunar-crypt.json](./417068-lunar-crypt.json) |
+| Lunar Days Sim Date | 196220 | [196220-lunar-days-sim-date.json](./196220-lunar-days-sim-date.json) |
 | Lunar Depot 38 | 266934 | [266934-lunar-depot-38.json](./266934-lunar-depot-38.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
@@ -11264,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
 | Lunaria Story | 61770 | [61770-lunaria-story.json](./61770-lunaria-story.json) |
+| Lunaria: Virtualized Moonchild | 140633 | [140633-lunaria-virtualized-moonchild.json](./140633-lunaria-virtualized-moonchild.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunarity | 360808 | [360808-lunarity.json](./360808-lunarity.json) |
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
