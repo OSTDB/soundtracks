@@ -8079,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Golf VR | 40504 | [40504-everyday-golf-vr.json](./40504-everyday-golf-vr.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
+| Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
 | Everyday Lite | 81603 | [81603-everyday-lite.json](./81603-everyday-lite.json) |
 | Everyday Misanthrope | 176316 | [176316-everyday-misanthrope.json](./176316-everyday-misanthrope.json) |
@@ -8161,6 +8162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil | 34874 | [34874-evil.json](./34874-evil.json) |
 | Evil | 360492 | [360492-evil.json](./360492-evil.json) |
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
+| Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Awaits | 224596 | [224596-evil-awaits.json](./224596-evil-awaits.json) |
 | Evil Bane | 137711 | [137711-evil-bane.json](./137711-evil-bane.json) |
 | Evil behind the shadows | 126278 | [126278-evil-behind-the-shadows.json](./126278-evil-behind-the-shadows.json) |
