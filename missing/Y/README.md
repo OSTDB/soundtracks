@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y O U | 421161 | [421161-y-o-u.json](./421161-y-o-u.json) |
 | Y School Heroes: Bustlin' School Life | 144735 | [144735-y-school-heroes-bustlin-school-life.json](./144735-y-school-heroes-bustlin-school-life.json) |
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
+| Y: The Game | 171098 | [171098-y-the-game.json](./171098-y-the-game.json) |
 | Y. Village: The Visitors | 272873 | [272873-y-village-the-visitors.json](./272873-y-village-the-visitors.json) |
 | Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
 | Y.A.W: You Are Weaponized | 140939 | [140939-y-a-w-you-are-weaponized.json](./140939-y-a-w-you-are-weaponized.json) |
@@ -2366,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu no Tierblade: Lost Chronicle | 136438 | [136438-yuukyuu-no-tierblade-lost-chronicle.json](./136438-yuukyuu-no-tierblade-lost-chronicle.json) |
 | Yuuma Game | 252043 | [252043-yuuma-game.json](./252043-yuuma-game.json) |
 | Yuuna and the Haunted Hot Springs: Steam Dungeon | 104818 | [104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json](./104818-yuuna-and-the-haunted-hot-springs-steam-dungeon.json) |
+| Yuuna and the Haunted Hot Springs: Steam Dungeon - Limited Edition | 166252 | [166252-yuuna-and-the-haunted-hot-springs-steam-dungeon-limited-edition.json](./166252-yuuna-and-the-haunted-hot-springs-steam-dungeon-limited-edition.json) |
 | Yuuna and the Haunted Hot Springs: The Thrilling Steamy Maze Kiwami | 278244 | [278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json](./278244-yuuna-and-the-haunted-hot-springs-the-thrilling-steamy-maze-kiwami.json) |
 | Yuunagi-sou no S-kyuu no Kanojo-tachi | 410605 | [410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json](./410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json) |
 | Yuunagi-sou no S-kyuu no Kanojo-tachi 2 | 410606 | [410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json](./410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json) |
