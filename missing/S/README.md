@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara Wild Hearts + Lorelei and the Laser Eyes Bundle | 404543 | [404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json](./404543-sayonara-wild-hearts-lorelei-and-the-laser-eyes-bundle.json) |
 | Sayonara, Monaa RPG | 384476 | [384476-sayonara-monaa-rpg.json](./384476-sayonara-monaa-rpg.json) |
+| Sayonara, Shirayuri | 181948 | [181948-sayonara-shirayuri.json](./181948-sayonara-shirayuri.json) |
 | Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
@@ -3182,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
+| Scary Husband HD | 196204 | [196204-scary-husband-hd.json](./196204-scary-husband-hd.json) |
 | Scary In The Journey | 295582 | [295582-scary-in-the-journey.json](./295582-scary-in-the-journey.json) |
 | Scary Library | 263383 | [263383-scary-library.json](./263383-scary-library.json) |
 | Scary Loop | 264194 | [264194-scary-loop.json](./264194-scary-loop.json) |
@@ -8028,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Fate | 258051 | [258051-shadows-of-fate.json](./258051-shadows-of-fate.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Forbidden Gods: The Horrors Beneath | 290783 | [290783-shadows-of-forbidden-gods-the-horrors-beneath.json](./290783-shadows-of-forbidden-gods-the-horrors-beneath.json) |
+| Shadows of Glory | 191916 | [191916-shadows-of-glory.json](./191916-shadows-of-glory.json) |
 | Shadows of Her Past | 86648 | [86648-shadows-of-her-past.json](./86648-shadows-of-her-past.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
@@ -9188,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
 | Sherlock: A Rose Among Thorns | 322300 | [322300-sherlock-a-rose-among-thorns.json](./322300-sherlock-a-rose-among-thorns.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
+| Sherlock: Hidden Objects Game and Mystery Match 3 Cases | 181951 | [181951-sherlock-hidden-objects-game-and-mystery-match-3-cases.json](./181951-sherlock-hidden-objects-game-and-mystery-match-3-cases.json) |
 | Sherlock: The Game of Logic | 66792 | [66792-sherlock-the-game-of-logic.json](./66792-sherlock-the-game-of-logic.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
 | Sherlock: The Riddle of the Crown Jewels | 12623 | [12623-sherlock-the-riddle-of-the-crown-jewels.json](./12623-sherlock-the-riddle-of-the-crown-jewels.json) |
@@ -11869,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
 | Silent Doom | 115176 | [115176-silent-doom.json](./115176-silent-doom.json) |
 | Silent Doom | 180086 | [180086-silent-doom.json](./180086-silent-doom.json) |
+| Silent Dot | 200209 | [200209-silent-dot.json](./200209-silent-dot.json) |
 | Silent Dragon | 39417 | [39417-silent-dragon.json](./39417-silent-dragon.json) |
 | Silent Dragon US | 39850 | [39850-silent-dragon-us.json](./39850-silent-dragon-us.json) |
 | Silent Dread: Last Order | 408116 | [408116-silent-dread-last-order.json](./408116-silent-dread-last-order.json) |
@@ -13280,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head Horror Bunker VR | 195390 | [195390-siren-head-horror-bunker-vr.json](./195390-siren-head-horror-bunker-vr.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
+| Siren Head: Awakening | 164037 | [164037-siren-head-awakening.json](./164037-siren-head-awakening.json) |
 | Siren Head: Remastered | 214336 | [214336-siren-head-remastered.json](./214336-siren-head-remastered.json) |
 | Siren Head: Sound Of Despair | 326870 | [326870-siren-head-sound-of-despair.json](./326870-siren-head-sound-of-despair.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
@@ -16459,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing the Battle | 19439 | [19439-smashing-the-battle.json](./19439-smashing-the-battle.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashing the Battle VR | 41029 | [41029-smashing-the-battle-vr.json](./41029-smashing-the-battle-vr.json) |
+| Smashing the Battle: Ghost Soul - Limited Edition | 166250 | [166250-smashing-the-battle-ghost-soul-limited-edition.json](./166250-smashing-the-battle-ghost-soul-limited-edition.json) |
 | Smashing time | 173346 | [173346-smashing-time.json](./173346-smashing-time.json) |
 | Smashing Toys | 25413 | [25413-smashing-toys.json](./25413-smashing-toys.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
@@ -22000,6 +22007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Defender | 174087 | [174087-space-defender.json](./174087-space-defender.json) |
 | Space Defender | 76924 | [76924-space-defender.json](./76924-space-defender.json) |
 | Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
+| Space Defense | 164036 | [164036-space-defense.json](./164036-space-defense.json) |
 | Space Defense Grid | 162586 | [162586-space-defense-grid.json](./162586-space-defense-grid.json) |
 | Space Defense Special Force | 340197 | [340197-space-defense-special-force.json](./340197-space-defense-special-force.json) |
 | Space Demolisher | 25919 | [25919-space-demolisher.json](./25919-space-demolisher.json) |
@@ -24670,6 +24678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Web of Shadows | 209977 | [209977-spider-man-web-of-shadows.json](./209977-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows | 5181 | [5181-spider-man-web-of-shadows.json](./5181-spider-man-web-of-shadows.json) |
 | Spider-Man: Web of Shadows - Amazing Allies Edition | 208778 | [208778-spider-man-web-of-shadows-amazing-allies-edition.json](./208778-spider-man-web-of-shadows-amazing-allies-edition.json) |
+| Spider-Robots War | 164040 | [164040-spider-robots-war.json](./164040-spider-robots-war.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spider-Tank vs. Aliens | 340182 | [340182-spider-tank-vs-aliens.json](./340182-spider-tank-vs-aliens.json) |
@@ -27504,6 +27513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Road Love Songs | 188273 | [188273-star-road-love-songs.json](./188273-star-road-love-songs.json) |
 | Star Rogue | 33630 | [33630-star-rogue.json](./33630-star-rogue.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
+| Star Route | 200208 | [200208-star-route.json](./200208-star-route.json) |
 | Star Rover | 166820 | [166820-star-rover.json](./166820-star-rover.json) |
 | Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
@@ -29996,6 +30006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Utopia | 27053 | [27053-stellaris-utopia.json](./27053-stellaris-utopia.json) |
 | Stellaris: Vipra the Vapor Species Portrait | 401596 | [401596-stellaris-vipra-the-vapor-species-portrait.json](./401596-stellaris-vipra-the-vapor-species-portrait.json) |
 | Stellaris: Willpower | 400035 | [400035-stellaris-willpower.json](./400035-stellaris-willpower.json) |
+| Stellarium | 196070 | [196070-stellarium.json](./196070-stellarium.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | StellarRoads | 183713 | [183713-stellarroads.json](./183713-stellarroads.json) |
@@ -33841,6 +33852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
 | Summer Lesson: Hikari, Allison, and Chisato (3 in 1 Basic Game) | 136678 | [136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json](./136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json) |
+| Summer Lesson: Miyamoto Hikari Edition | 166248 | [166248-summer-lesson-miyamoto-hikari-edition.json](./166248-summer-lesson-miyamoto-hikari-edition.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
 | Summer Lotus | 109853 | [109853-summer-lotus.json](./109853-summer-lotus.json) |
 | Summer Love | 332342 | [332342-summer-love.json](./332342-summer-love.json) |
@@ -34036,6 +34048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
 | Sun Fang Dougram | 284445 | [284445-sun-fang-dougram.json](./284445-sun-fang-dougram.json) |
+| Sun Girls | 164030 | [164030-sun-girls.json](./164030-sun-girls.json) |
 | Sun Halo | 377558 | [377558-sun-halo.json](./377558-sun-halo.json) |
 | Sun Haven: Astral Pack | 389565 | [389565-sun-haven-astral-pack.json](./389565-sun-haven-astral-pack.json) |
 | Sun Haven: Bloom and Doom Pack | 306506 | [306506-sun-haven-bloom-and-doom-pack.json](./306506-sun-haven-bloom-and-doom-pack.json) |
@@ -37064,6 +37077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars 30: Digital Ultimate Edition | 220923 | [220923-super-robot-wars-30-digital-ultimate-edition.json](./220923-super-robot-wars-30-digital-ultimate-edition.json) |
 | Super Robot Wars 30: DLC 2 | 238811 | [238811-super-robot-wars-30-dlc-2.json](./238811-super-robot-wars-30-dlc-2.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
+| Super Robot Wars 30: Super Limited Edition | 166247 | [166247-super-robot-wars-30-super-limited-edition.json](./166247-super-robot-wars-30-super-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars F Final | 45376 | [45376-super-robot-wars-f-final.json](./45376-super-robot-wars-f-final.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
@@ -39157,6 +39171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi'd | 56268 | [56268-sushid.json](./56268-sushid.json) |
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
+| SushiChop | 181958 | [181958-sushichop.json](./181958-sushichop.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | Sushido | 292381 | [292381-sushido.json](./292381-sushido.json) |
 | Sushido | 400442 | [400442-sushido.json](./400442-sushido.json) |
