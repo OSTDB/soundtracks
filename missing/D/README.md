@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
 | Dead Island Double Pack | 145526 | [145526-dead-island-double-pack.json](./145526-dead-island-double-pack.json) |
 | Dead Island Retro Revenge | 19397 | [19397-dead-island-retro-revenge.json](./19397-dead-island-retro-revenge.json) |
+| Dead Island: Bloodbath Arena | 22932 | [22932-dead-island-bloodbath-arena.json](./22932-dead-island-bloodbath-arena.json) |
 | Dead Island: Definitive Edition | 34951 | [34951-dead-island-definitive-edition.json](./34951-dead-island-definitive-edition.json) |
 | Dead Island: Epidemic | 2902 | [2902-dead-island-epidemic.json](./2902-dead-island-epidemic.json) |
 | Dead Island: Game of the Year Edition | 47400 | [47400-dead-island-game-of-the-year-edition.json](./47400-dead-island-game-of-the-year-edition.json) |
@@ -5066,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by AI | 275250 | [275250-death-by-ai.json](./275250-death-by-ai.json) |
 | Death by Begonia | 226017 | [226017-death-by-begonia.json](./226017-death-by-begonia.json) |
 | Death By Chatter | 322934 | [322934-death-by-chatter.json](./322934-death-by-chatter.json) |
+| Death by Cube | 22977 | [22977-death-by-cube.json](./22977-death-by-cube.json) |
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
 | Death by Deduction | 302069 | [302069-death-by-deduction.json](./302069-death-by-deduction.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
@@ -13387,6 +13389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Maximum | 77999 | [77999-dodonpachi-maximum.json](./77999-dodonpachi-maximum.json) |
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | DoDonPachi Resurrection Reignite | 398490 | [398490-dodonpachi-resurrection-reignite.json](./398490-dodonpachi-resurrection-reignite.json) |
+| DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | DoDonPachi Saidaioujou | 1673 | [1673-dodonpachi-saidaioujou.json](./1673-dodonpachi-saidaioujou.json) |
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
