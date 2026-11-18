@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls & Balls | 113960 | [113960-walls-and-balls.json](./113960-walls-and-balls.json) |
 | Walls and Tower Party | 372372 | [372372-walls-and-tower-party.json](./372372-walls-and-tower-party.json) |
 | Walls Closing In | 125493 | [125493-walls-closing-in.json](./125493-walls-closing-in.json) |
+| Walls in Dead | 96950 | [96950-walls-in-dead.json](./96950-walls-in-dead.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rome | 72207 | [72207-walls-of-rome.json](./72207-walls-of-rome.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
@@ -2696,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Bears VR | 34719 | [34719-water-bears-vr.json](./34719-water-bears-vr.json) |
 | Water Blast Shooter: Wet Gun | 323109 | [323109-water-blast-shooter-wet-gun.json](./323109-water-blast-shooter-wet-gun.json) |
 | Water Boiling Simulator | 179004 | [179004-water-boiling-simulator.json](./179004-water-boiling-simulator.json) |
+| Water Bottle Flip Challenge 2 | 99212 | [99212-water-bottle-flip-challenge-2.json](./99212-water-bottle-flip-challenge-2.json) |
 | Water Bugs | 73218 | [73218-water-bugs.json](./73218-water-bugs.json) |
 | Water Castle | 268473 | [268473-water-castle.json](./268473-water-castle.json) |
 | Water Chaos | 236877 | [236877-water-chaos.json](./236877-water-chaos.json) |
@@ -8347,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoojin Bridges | 112119 | [112119-woohoojin-bridges.json](./112119-woohoojin-bridges.json) |
 | Wookie's Blade | 118133 | [118133-wookies-blade.json](./118133-wookies-blade.json) |
 | Wool | 377141 | [377141-wool.json](./377141-wool.json) |
+| Wool | 76764 | [76764-wool.json](./76764-wool.json) |
 | Wool at the Gates | 319042 | [319042-wool-at-the-gates.json](./319042-wool-at-the-gates.json) |
 | Wool Craze | 387464 | [387464-wool-craze.json](./387464-wool-craze.json) |
 | Woolberry Ranch | 391448 | [391448-woolberry-ranch.json](./391448-woolberry-ranch.json) |
@@ -10647,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Road to WrestleMania | 6686 | [6686-wwf-road-to-wrestlemania.json](./6686-wwf-road-to-wrestlemania.json) |
 | WWF Royal Rumble | 218342 | [218342-wwf-royal-rumble.json](./218342-wwf-royal-rumble.json) |
 | WWF Royal Rumble | 38408 | [38408-wwf-royal-rumble.json](./38408-wwf-royal-rumble.json) |
+| WWF Royal Rumble | 76766 | [76766-wwf-royal-rumble.json](./76766-wwf-royal-rumble.json) |
 | WWF SmackDown! | 6443 | [6443-wwf-smackdown.json](./6443-wwf-smackdown.json) |
 | WWF SmackDown! 2: Know Your Role | 6444 | [6444-wwf-smackdown-2-know-your-role.json](./6444-wwf-smackdown-2-know-your-role.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
