@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Blade: Rastan Saga Episode III | 69102 | [69102-warrior-blade-rastan-saga-episode-iii.json](./69102-warrior-blade-rastan-saga-episode-iii.json) |
 | Warrior Bloodline: Path of Survival | 161416 | [161416-warrior-bloodline-path-of-survival.json](./161416-warrior-bloodline-path-of-survival.json) |
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
+| Warrior Cats: Clans of the Forest | 412520 | [412520-warrior-cats-clans-of-the-forest.json](./412520-warrior-cats-clans-of-the-forest.json) |
 | Warrior Cats: Clans of the Forest - Feral Edition | 418332 | [418332-warrior-cats-clans-of-the-forest-feral-edition.json](./418332-warrior-cats-clans-of-the-forest-feral-edition.json) |
 | Warrior Cats: Clans of the Forest - Prophecy Pack | 421804 | [421804-warrior-cats-clans-of-the-forest-prophecy-pack.json](./421804-warrior-cats-clans-of-the-forest-prophecy-pack.json) |
 | Warrior Cats: Untold Tales | 217630 | [217630-warrior-cats-untold-tales.json](./217630-warrior-cats-untold-tales.json) |
@@ -8401,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
+| Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
 | Woody Woodpecker | 63986 | [63986-woody-woodpecker.json](./63986-woody-woodpecker.json) |
 | Woody Woodpecker | 76008 | [76008-woody-woodpecker.json](./76008-woody-woodpecker.json) |
 | Woody Woodpecker and Friends Volume 1 | 37228 | [37228-woody-woodpecker-and-friends-volume-1.json](./37228-woody-woodpecker-and-friends-volume-1.json) |
@@ -10274,6 +10276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Poly Survival | 427595 | [427595-wreck-poly-survival.json](./427595-wreck-poly-survival.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
+| Wreck Runners | 395285 | [395285-wreck-runners.json](./395285-wreck-runners.json) |
 | Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
 | Wreck the Insects | 150829 | [150829-wreck-the-insects.json](./150829-wreck-the-insects.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
@@ -10470,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WST Snooker | 175858 | [175858-wst-snooker.json](./175858-wst-snooker.json) |
 | WStandard Wonderland Lv.1 | 387450 | [387450-wstandard-wonderland-lv-1.json](./387450-wstandard-wonderland-lv-1.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
+| WTA Tour Tennis | 4569 | [4569-wta-tour-tennis.json](./4569-wta-tour-tennis.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WtBoy | 94139 | [94139-wtboy.json](./94139-wtboy.json) |
 | Wtc Tap | 184005 | [184005-wtc-tap.json](./184005-wtc-tap.json) |
