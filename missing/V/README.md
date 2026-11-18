@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Iconic Pixels - 80s Quiz | 233738 | [233738-very-iconic-pixels-80s-quiz.json](./233738-very-iconic-pixels-80s-quiz.json) |
 | Very Important Needs | 423388 | [423388-very-important-needs.json](./423388-very-important-needs.json) |
 | Very Important Potato | 194292 | [194292-very-important-potato.json](./194292-very-important-potato.json) |
+| Very Little Nightmares | 117295 | [117295-very-little-nightmares.json](./117295-very-little-nightmares.json) |
 | Very Normal Rail Game | 392597 | [392597-very-normal-rail-game.json](./392597-very-normal-rail-game.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Real Chess | 31371 | [31371-very-real-chess.json](./31371-very-real-chess.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Mario | 379269 | [379269-virtual-boy-mario.json](./379269-virtual-boy-mario.json) |
+| Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Cameraman | 307992 | [307992-virtual-cameraman.json](./307992-virtual-cameraman.json) |
 | Virtual Cameraman 2: Phuket, Thailand / Pickup Compilation | 307993 | [307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json](./307993-virtual-cameraman-2-phuket-thailand-pickup-compilation.json) |
 | Virtual Cameraman Part 1: Sawada Naomi and Juri Anna | 227811 | [227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json](./227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json) |
