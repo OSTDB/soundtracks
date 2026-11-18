@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naberon | 421594 | [421594-naberon.json](./421594-naberon.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
 | Nabogorf | 284229 | [284229-nabogorf.json](./284229-nabogorf.json) |
+| Naboki | 125070 | [125070-naboki.json](./125070-naboki.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
 | Nacah | 71348 | [71348-nacah.json](./71348-nacah.json) |
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebs | 159183 | [159183-nebs.json](./159183-nebs.json) |
 | Nebs 'n Debs | 134460 | [134460-nebs-n-debs.json](./134460-nebs-n-debs.json) |
 | Nebs' Island Adventure | 349496 | [349496-nebs-island-adventure.json](./349496-nebs-island-adventure.json) |
+| Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
 | Nebula | 179786 | [179786-nebula.json](./179786-nebula.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
@@ -2316,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
 | Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
+| Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-nin ExHeart Spin! | 255547 | [255547-neko-nin-exheart-spin.json](./255547-neko-nin-exheart-spin.json) |
 | Neko-nin ExHeart Spin! | 255548 | [255548-neko-nin-exheart-spin.json](./255548-neko-nin-exheart-spin.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
@@ -6213,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Safes Inc. | 12703 | [12703-nippon-safes-inc.json](./12703-nippon-safes-inc.json) |
 | Nippon Suugaku Kentei Kyoukai Kounin: Suuken DS - Otona ga Tokenai!? Kodomo no Sansuu | 269615 | [269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json](./269615-nippon-suugaku-kentei-kyoukai-kounin-suuken-ds-otona-ga-tokenai-kodomo-no-sansuu.json) |
+| Nira | 126207 | [126207-nira.json](./126207-nira.json) |
 | NIRA Intense Import Drag Racing | 62225 | [62225-nira-intense-import-drag-racing.json](./62225-nira-intense-import-drag-racing.json) |
 | Nira Oni | 122929 | [122929-nira-oni.json](./122929-nira-oni.json) |
 | Niramare Quest: Saving a World That Loves Hating Me | 390434 | [390434-niramare-quest-saving-a-world-that-loves-hating-me.json](./390434-niramare-quest-saving-a-world-that-loves-hating-me.json) |
