@@ -8077,7 +8077,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derealized | 241630 | [241630-derealized.json](./241630-derealized.json) |
 | Dereism | 216237 | [216237-dereism.json](./216237-dereism.json) |
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
-| Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derelict Fleet | 44267 | [44267-derelict-fleet.json](./44267-derelict-fleet.json) |
 | Derelict Planet | 420039 | [420039-derelict-planet.json](./420039-derelict-planet.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
