@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madam President: She’s My Boss | 288128 | [288128-madam-president-she-s-my-boss.json](./288128-madam-president-she-s-my-boss.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
 | Madame Claudine's Curious Curiousities | 394467 | [394467-madame-claudines-curious-curiousities.json](./394467-madame-claudines-curious-curiousities.json) |
+| Madame Fifi's Bakery | 336801 | [336801-madame-fifis-bakery.json](./336801-madame-fifis-bakery.json) |
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs | 91696 | [91696-madballs.json](./91696-madballs.json) |
@@ -19003,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Island: The Last Strand | 421273 | [421273-moon-island-the-last-strand.json](./421273-moon-island-the-last-strand.json) |
+| Moon Keys | 332710 | [332710-moon-keys.json](./332710-moon-keys.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 283025 | [283025-moon-lander.json](./283025-moon-lander.json) |
@@ -22291,6 +22293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murim Sect Leader | 427829 | [427829-murim-sect-leader.json](./427829-murim-sect-leader.json) |
+| Murim Survival | 336777 | [336777-murim-survival.json](./336777-murim-survival.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murk | 426420 | [426420-murk.json](./426420-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
@@ -23483,6 +23486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Neighbour | 165831 | [165831-my-furry-neighbour.json](./165831-my-furry-neighbour.json) |
 | My Furry Protogen | 204165 | [204165-my-furry-protogen.json](./204165-my-furry-protogen.json) |
 | My Furry Protogen 2 | 267051 | [267051-my-furry-protogen-2.json](./267051-my-furry-protogen-2.json) |
+| My Furry Protogen 3 | 336798 | [336798-my-furry-protogen-3.json](./336798-my-furry-protogen-3.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
@@ -23985,6 +23989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Mayo | 33747 | [33747-my-name-is-mayo.json](./33747-my-name-is-mayo.json) |
 | My Name is Mayo 2 | 141693 | [141693-my-name-is-mayo-2.json](./141693-my-name-is-mayo-2.json) |
 | My Name is Mayo 3 | 200699 | [200699-my-name-is-mayo-3.json](./200699-my-name-is-mayo-3.json) |
+| My Name is Mayo: Remayo | 336771 | [336771-my-name-is-mayo-remayo.json](./336771-my-name-is-mayo-remayo.json) |
 | My Name is Sarah | 129221 | [129221-my-name-is-sarah.json](./129221-my-name-is-sarah.json) |
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
