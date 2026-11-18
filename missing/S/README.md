@@ -9041,6 +9041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
+| Shelter 78: Mutant Protocol | 376404 | [376404-shelter-78-mutant-protocol.json](./376404-shelter-78-mutant-protocol.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Shelter Generations | 70806 | [70806-shelter-generations.json](./70806-shelter-generations.json) |
 | Shelter in Place | 126537 | [126537-shelter-in-place.json](./126537-shelter-in-place.json) |
@@ -11516,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Effect | 190488 | [190488-side-effect.json](./190488-side-effect.json) |
 | Side Effects | 343472 | [343472-side-effects.json](./343472-side-effects.json) |
 | Side Effects | 364621 | [364621-side-effects.json](./364621-side-effects.json) |
+| Side Eye High | 372898 | [372898-side-eye-high.json](./372898-side-eye-high.json) |
 | Side Gear | 194127 | [194127-side-gear.json](./194127-side-gear.json) |
 | Side Hustle | 376488 | [376488-side-hustle.json](./376488-side-hustle.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
