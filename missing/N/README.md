@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
+| Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necros no Yousai | 332213 | [332213-necros-no-yousai.json](./332213-necros-no-yousai.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosis: Dawn of Dread | 330038 | [330038-necrosis-dawn-of-dread.json](./330038-necrosis-dawn-of-dread.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelly Cootalot: Spoonbeaks Ahoy! | 71734 | [71734-nelly-cootalot-spoonbeaks-ahoy.json](./71734-nelly-cootalot-spoonbeaks-ahoy.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelly Cootalot: The Fowl Fleet | 18719 | [18719-nelly-cootalot-the-fowl-fleet.json](./18719-nelly-cootalot-the-fowl-fleet.json) |
+| Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
 | Nelson and the Magic Cauldron | 110283 | [110283-nelson-and-the-magic-cauldron.json](./110283-nelson-and-the-magic-cauldron.json) |
 | Nelson and the Magic Cauldron: The Journey | 188494 | [188494-nelson-and-the-magic-cauldron-the-journey.json](./188494-nelson-and-the-magic-cauldron-the-journey.json) |
 | Nelson Piquet's Grand Prix Evolution | 73547 | [73547-nelson-piquets-grand-prix-evolution.json](./73547-nelson-piquets-grand-prix-evolution.json) |
