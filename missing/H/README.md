@@ -14178,6 +14178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Instinct | 157401 | [157401-hybrid-instinct.json](./157401-hybrid-instinct.json) |
 | Hybrid Miniature Golf Beta | 303557 | [303557-hybrid-miniature-golf-beta.json](./303557-hybrid-miniature-golf-beta.json) |
 | Hybrid Warrior | 165476 | [165476-hybrid-warrior.json](./165476-hybrid-warrior.json) |
+| Hybrid Wars | 24764 | [24764-hybrid-wars.json](./24764-hybrid-wars.json) |
 | Hybrid Wars: Deluxe Edition | 51819 | [51819-hybrid-wars-deluxe-edition.json](./51819-hybrid-wars-deluxe-edition.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
