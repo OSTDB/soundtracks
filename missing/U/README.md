@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
 | Ultratoro 2 | 238800 | [238800-ultratoro-2.json](./238800-ultratoro-2.json) |
+| Ultratron | 14327 | [14327-ultratron.json](./14327-ultratron.json) |
 | Ultraverse Prime | 46407 | [46407-ultraverse-prime.json](./46407-ultraverse-prime.json) |
 | Ultraviolet | 287149 | [287149-ultraviolet.json](./287149-ultraviolet.json) |
 | Ultraviolet Dawn | 239974 | [239974-ultraviolet-dawn.json](./239974-ultraviolet-dawn.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
 | Umigame | 226579 | [226579-umigame.json](./226579-umigame.json) |
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
+| Umihara Kawase | 15928 | [15928-umihara-kawase.json](./15928-umihara-kawase.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
 | Umihara Kawase Shun | 45227 | [45227-umihara-kawase-shun.json](./45227-umihara-kawase-shun.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
 | Undiscovered Technology of the Pharaohs | 283553 | [283553-undiscovered-technology-of-the-pharaohs.json](./283553-undiscovered-technology-of-the-pharaohs.json) |
 | Undiscovered World: The Incan Sun | 416165 | [416165-undiscovered-world-the-incan-sun.json](./416165-undiscovered-world-the-incan-sun.json) |
+| Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
 | Undisputed Champ | 112735 | [112735-undisputed-champ.json](./112735-undisputed-champ.json) |
 | Undisputed: Deluxe WBC Edition | 325656 | [325656-undisputed-deluxe-wbc-edition.json](./325656-undisputed-deluxe-wbc-edition.json) |
 | Undisputed: The Iron and Steel Pack | 343576 | [343576-undisputed-the-iron-and-steel-pack.json](./343576-undisputed-the-iron-and-steel-pack.json) |
