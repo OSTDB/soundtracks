@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Ketsuzoku: The Predestined Homicides #2 - Kanketsu-hen | 112036 | [112036-yami-no-ketsuzoku-the-predestined-homicides-2-kanketsu-hen.json](./112036-yami-no-ketsuzoku-the-predestined-homicides-2-kanketsu-hen.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
+| Yami no Rumia | 205171 | [205171-yami-no-rumia.json](./205171-yami-no-rumia.json) |
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yami Protocol | 340635 | [340635-yami-protocol.json](./340635-yami-protocol.json) |
 | Yami wo Hashiru Yaiba no Kirameki | 376965 | [376965-yami-wo-hashiru-yaiba-no-kirameki.json](./376965-yami-wo-hashiru-yaiba-no-kirameki.json) |
@@ -298,7 +299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Okami vs. Bouryoku Akazukin | 335974 | [335974-yandere-okami-vs-bouryoku-akazukin.json](./335974-yandere-okami-vs-bouryoku-akazukin.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
 | Yandere Otoko no Ko no Toriatsukaikata | 408149 | [408149-yandere-otoko-no-ko-no-toriatsukaikata.json](./408149-yandere-otoko-no-ko-no-toriatsukaikata.json) |
-| Yandere School | 55360 | [55360-yandere-school.json](./55360-yandere-school.json) |
 | Yandere Simulator 2: The Sequel | 288098 | [288098-yandere-simulator-2-the-sequel.json](./288098-yandere-simulator-2-the-sequel.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
 | Yandere Tensei: I Can't Beat The Programming! | 321421 | [321421-yandere-tensei-i-cant-beat-the-programming.json](./321421-yandere-tensei-i-cant-beat-the-programming.json) |
@@ -313,7 +313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
-| Yankai's Triangle | 25950 | [25950-yankais-triangle.json](./25950-yankais-triangle.json) |
 | Yankee Rabbits | 367827 | [367827-yankee-rabbits.json](./367827-yankee-rabbits.json) |
 | Yanny vs. Laurel | 102705 | [102705-yanny-vs-laurel.json](./102705-yanny-vs-laurel.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
@@ -361,7 +360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yareta | 368607 | [368607-yareta.json](./368607-yareta.json) |
 | YARG | 144814 | [144814-yarg.json](./144814-yarg.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
-| Yargis: Space Melee | 35300 | [35300-yargis-space-melee.json](./35300-yargis-space-melee.json) |
 | Yarichin Katei Kyoushi Netori Houkoku: Do-sukebe Kyonyuu Oyakodon | 108937 | [108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json](./108937-yarichin-katei-kyoushi-netori-houkoku-do-sukebe-kyonyuu-oyakodon.json) |
 | Yarimono | 282203 | [282203-yarimono.json](./282203-yarimono.json) |
 | Yarimono: DLC 1 | 315190 | [315190-yarimono-dlc-1.json](./315190-yarimono-dlc-1.json) |
@@ -544,7 +542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Sapphire Hotel: The Little Tales Of | 385012 | [385012-yellow-sapphire-hotel-the-little-tales-of.json](./385012-yellow-sapphire-hotel-the-little-tales-of.json) |
 | Yellow Submarine | 46916 | [46916-yellow-submarine.json](./46916-yellow-submarine.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
-| Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yellow*Demon | 358556 | [358556-yellow-demon.json](./358556-yellow-demon.json) |
 | Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
@@ -665,9 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
 | Yggdra Refrain | 373329 | [373329-yggdra-refrain.json](./373329-yggdra-refrain.json) |
 | Yggdra Union | 99972 | [99972-yggdra-union.json](./99972-yggdra-union.json) |
-| Yggdra Union: We'll Never Fight Alone | 26075 | [26075-yggdra-union-well-never-fight-alone.json](./26075-yggdra-union-well-never-fight-alone.json) |
 | Yggdra Union: We'll Never Fight Alone | 6693 | [6693-yggdra-union-well-never-fight-alone.json](./6693-yggdra-union-well-never-fight-alone.json) |
-| Yggdra Unison: Seiken Buyuuden | 67852 | [67852-yggdra-unison-seiken-buyuuden.json](./67852-yggdra-unison-seiken-buyuuden.json) |
 | Yggdrasil | 411786 | [411786-yggdrasil.json](./411786-yggdrasil.json) |
 | Yggdrasil 2: Awakening | 249173 | [249173-yggdrasil-2-awakening.json](./249173-yggdrasil-2-awakening.json) |
 | Yggdrasil Chronicles: A Tale of Cindrivia | 233340 | [233340-yggdrasil-chronicles-a-tale-of-cindrivia.json](./233340-yggdrasil-chronicles-a-tale-of-cindrivia.json) |
@@ -717,7 +712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yiqi Huijia ba | 407679 | [407679-yiqi-huijia-ba.json](./407679-yiqi-huijia-ba.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
-| Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
 | Yīxiàxià Míngyóu Dàquán: Jīngdiǎn Chóngwēn | 408609 | [408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json](./408609-yixiaxia-mingyou-daquan-jingdian-chongwen.json) |
 | Yīxiàxià Míngyóu Dàquán: Qīngsōng Xiūxián | 408615 | [408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json](./408615-yixiaxia-mingyou-daquan-qingsong-xiuxian.json) |
 | Yīxiàxià Míngyóu Dàquán: Zhìyǒng Shuāngquán | 408617 | [408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json](./408617-yixiaxia-mingyou-daquan-zhiyong-shuangquan.json) |
@@ -843,7 +837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogi Bear and Friends in the Greed Monster | 196222 | [196222-yogi-bear-and-friends-in-the-greed-monster.json](./196222-yogi-bear-and-friends-in-the-greed-monster.json) |
 | Yogi Bear in Yogi Bear's Goldrush | 46299 | [46299-yogi-bear-in-yogi-bears-goldrush.json](./46299-yogi-bear-in-yogi-bears-goldrush.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
-| Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
 | Yogi Bear's Math Adventures | 70179 | [70179-yogi-bears-math-adventures.json](./70179-yogi-bears-math-adventures.json) |
 | Yogi's Big Clean Up | 70069 | [70069-yogis-big-clean-up.json](./70069-yogis-big-clean-up.json) |
 | Yogi's Frustration | 41460 | [41460-yogis-frustration.json](./41460-yogis-frustration.json) |
@@ -879,7 +872,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Lucky Outfit" | 315496 | [315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json](./315496-yohane-the-parhelion-numazu-in-the-mirage-costume-lucky-outfit.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Trendy Schoolgirl" | 315498 | [315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json](./315498-yohane-the-parhelion-numazu-in-the-mirage-costume-trendy-schoolgirl.json) |
 | Yohane the Pathelion: Change set "Nightwicked Night" | 302301 | [302301-yohane-the-pathelion-change-set-nightwicked-night.json](./302301-yohane-the-pathelion-change-set-nightwicked-night.json) |
-| Yohjo Simulator | 34201 | [34201-yohjo-simulator.json](./34201-yohjo-simulator.json) |
 | YoHoHo.io | 322511 | [322511-yohoho-io.json](./322511-yohoho-io.json) |
 | Yoiks! | 202173 | [202173-yoiks.json](./202173-yoiks.json) |
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
@@ -1208,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are the Hero | 362877 | [362877-you-are-the-hero.json](./362877-you-are-the-hero.json) |
 | You Are the Inch Valley Captive | 319180 | [319180-you-are-the-inch-valley-captive.json](./319180-you-are-the-inch-valley-captive.json) |
 | You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
+| You Are the Light | 389138 | [389138-you-are-the-light.json](./389138-you-are-the-light.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You Are The Monster | 404068 | [404068-you-are-the-monster.json](./404068-you-are-the-monster.json) |
 | You are the Muncher | 179556 | [179556-you-are-the-muncher.json](./179556-you-are-the-muncher.json) |
@@ -1267,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack Vol. 2 | 16782 | [16782-you-dont-know-jack-vol-2.json](./16782-you-dont-know-jack-vol-2.json) |
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: 5th Dementia | 73383 | [73383-you-dont-know-jack-5th-dementia.json](./73383-you-dont-know-jack-5th-dementia.json) |
+| You Don't Know Jack: Censored | 200609 | [200609-you-dont-know-jack-censored.json](./200609-you-dont-know-jack-censored.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: Louder! Faster! Funnier! | 73213 | [73213-you-dont-know-jack-louder-faster-funnier.json](./73213-you-dont-know-jack-louder-faster-funnier.json) |
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
@@ -1494,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youlogic | 267784 | [267784-youlogic.json](./267784-youlogic.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
+| Youmandriver | 205174 | [205174-youmandriver.json](./205174-youmandriver.json) |
 | Youmenkiden | 275408 | [275408-youmenkiden.json](./275408-youmenkiden.json) |
 | Youmu is a zombie! | 134861 | [134861-youmu-is-a-zombie.json](./134861-youmu-is-a-zombie.json) |
 | Youmu Konpaku & Dungeon of Lewd Creatures | 155460 | [155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json](./155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json) |
@@ -1579,7 +1574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Financial Story | 193675 | [193675-your-financial-story.json](./193675-your-financial-story.json) |
 | Your First Girlfriend | 153043 | [153043-your-first-girlfriend.json](./153043-your-first-girlfriend.json) |
 | Your Forever Friend | 375081 | [375081-your-forever-friend.json](./375081-your-forever-friend.json) |
-| Your Friend Hana | 29108 | [29108-your-friend-hana.json](./29108-your-friend-hana.json) |
 | Your Friendly Neighborhood Vampire Detective | 184772 | [184772-your-friendly-neighborhood-vampire-detective.json](./184772-your-friendly-neighborhood-vampire-detective.json) |
 | Your Friends vs. Hidebehind | 424624 | [424624-your-friends-vs-hidebehind.json](./424624-your-friends-vs-hidebehind.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
@@ -1604,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Love Ai | 372743 | [372743-your-love-ai.json](./372743-your-love-ai.json) |
 | Your Love Story | 212133 | [212133-your-love-story.json](./212133-your-love-story.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
+| Your Magic Hook | 357467 | [357467-your-magic-hook.json](./357467-your-magic-hook.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 285350 | [285350-your-majesty.json](./285350-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
@@ -1633,10 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Quest 2 | 128287 | [128287-your-quest-2.json](./128287-your-quest-2.json) |
 | Your Riding School | 149004 | [149004-your-riding-school.json](./149004-your-riding-school.json) |
 | Your Roar | 179559 | [179559-your-roar.json](./179559-your-roar.json) |
-| Your Royal Gayness | 83988 | [83988-your-royal-gayness.json](./83988-your-royal-gayness.json) |
 | Your Second Wife | 373040 | [373040-your-second-wife.json](./373040-your-second-wife.json) |
-| Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
-| Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shape: Fitness Evolved | 5326 | [5326-your-shape-fitness-evolved.json](./5326-your-shape-fitness-evolved.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Show Has Been Cancelled | 171298 | [171298-your-show-has-been-cancelled.json](./171298-your-show-has-been-cancelled.json) |
@@ -1859,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
+| Ys: Memories of Celceta - Timeless Adventurer Edition | 200610 | [200610-ys-memories-of-celceta-timeless-adventurer-edition.json](./200610-ys-memories-of-celceta-timeless-adventurer-edition.json) |
 | Ys: The Oath in Felghana - Premium Edition | 42690 | [42690-ys-the-oath-in-felghana-premium-edition.json](./42690-ys-the-oath-in-felghana-premium-edition.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
@@ -2071,7 +2064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuletide Machine | 402856 | [402856-yuletide-machine.json](./402856-yuletide-machine.json) |
 | Yuletide Regicide | 381113 | [381113-yuletide-regicide.json](./381113-yuletide-regicide.json) |
 | YuleTown | 396686 | [396686-yuletown.json](./396686-yuletown.json) |
-| Yulgang 2 | 23593 | [23593-yulgang-2.json](./23593-yulgang-2.json) |
 | Yulgang Mobile | 174698 | [174698-yulgang-mobile.json](./174698-yulgang-mobile.json) |
 | Yulgang Rush | 208067 | [208067-yulgang-rush.json](./208067-yulgang-rush.json) |
 | Yulhyul Kangho | 145569 | [145569-yulhyul-kangho.json](./145569-yulhyul-kangho.json) |
@@ -2411,7 +2403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YuYu Hakusho | 80401 | [80401-yuyu-hakusho.json](./80401-yuyu-hakusho.json) |
 | YuYu Hakusho 100% Maji Battle | 131397 | [131397-yuyu-hakusho-100-maji-battle.json](./131397-yuyu-hakusho-100-maji-battle.json) |
 | YuYu Hakusho 2: Kakutou no Sho | 42530 | [42530-yuyu-hakusho-2-kakutou-no-sho.json](./42530-yuyu-hakusho-2-kakutou-no-sho.json) |
-| YuYu Hakusho Dai-Ni-Dan: Ankoku Bujutsu Kai-hen | 80312 | [80312-yuyu-hakusho-dai-ni-dan-ankoku-bujutsu-kai-hen.json](./80312-yuyu-hakusho-dai-ni-dan-ankoku-bujutsu-kai-hen.json) |
 | YuYu Hakusho Dai-San-Dan: Makai no Tobira | 79723 | [79723-yuyu-hakusho-dai-san-dan-makai-no-tobira.json](./79723-yuyu-hakusho-dai-san-dan-makai-no-tobira.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
@@ -2429,7 +2420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuza | 188779 | [188779-yuza.json](./188779-yuza.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
-| Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
 | Yuzi Lims: Hentai | 111109 | [111109-yuzi-lims-hentai.json](./111109-yuzi-lims-hentai.json) |
 | Yuzi Lims: Puzzle | 173862 | [173862-yuzi-lims-puzzle.json](./173862-yuzi-lims-puzzle.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
