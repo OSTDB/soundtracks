@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Balanced Brew | 209085 | [209085-a-balanced-brew.json](./209085-a-balanced-brew.json) |
 | A Ball Id | 365938 | [365938-a-ball-id.json](./365938-a-ball-id.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
+| A Bandit | 386720 | [386720-a-bandit.json](./386720-a-bandit.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bard's Last Song | 244429 | [244429-a-bards-last-song.json](./244429-a-bards-last-song.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronautica Imperialis: Flight Command - Skulls Pack | 162754 | [162754-aeronautica-imperialis-flight-command-skulls-pack.json](./162754-aeronautica-imperialis-flight-command-skulls-pack.json) |
 | Aeronesia | 303118 | [303118-aeronesia.json](./303118-aeronesia.json) |
 | Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
+| Aeroplane | 386741 | [386741-aeroplane.json](./386741-aeroplane.json) |
 | Aeroplane Blaster | 181024 | [181024-aeroplane-blaster.json](./181024-aeroplane-blaster.json) |
 | Aeroplane Chess 3D | 106877 | [106877-aeroplane-chess-3d.json](./106877-aeroplane-chess-3d.json) |
 | Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
@@ -6069,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Arcade | 173927 | [173927-ai-arcade.json](./173927-ai-arcade.json) |
 | AI Arena | 256503 | [256503-ai-arena.json](./256503-ai-arena.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
+| AI Attorney: Neuro-sama | 383309 | [383309-ai-attorney-neuro-sama.json](./383309-ai-attorney-neuro-sama.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
@@ -13242,6 +13245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anyone's Diary | 118160 | [118160-anyones-diary.json](./118160-anyones-diary.json) |
 | Anything but a Gun | 413019 | [413019-anything-but-a-gun.json](./413019-anything-but-a-gun.json) |
 | Anything For You | 182129 | [182129-anything-for-you.json](./182129-anything-for-you.json) |
+| Anything Grid | 389132 | [389132-anything-grid.json](./389132-anything-grid.json) |
 | Anything Simulator | 391181 | [391181-anything-simulator.json](./391181-anything-simulator.json) |
 | Anytime Pool | 65488 | [65488-anytime-pool.json](./65488-anytime-pool.json) |
 | Anyu | 252318 | [252318-anyu.json](./252318-anyu.json) |
@@ -15168,6 +15172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
 | Arcane Soul + | 38712 | [38712-arcane-soul.json](./38712-arcane-soul.json) |
 | Arcane Straight: Summoned Soul | 101406 | [101406-arcane-straight-summoned-soul.json](./101406-arcane-straight-summoned-soul.json) |
+| Arcane Summoner | 383298 | [383298-arcane-summoner.json](./383298-arcane-summoner.json) |
 | Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
@@ -15772,6 +15777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
 | Arenion | 303674 | [303674-arenion.json](./303674-arenion.json) |
 | Arenix | 157282 | [157282-arenix.json](./157282-arenix.json) |
+| Arenosum | 383296 | [383296-arenosum.json](./383296-arenosum.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares | 287446 | [287446-ares.json](./287446-ares.json) |
 | Ares | 343693 | [343693-ares.json](./343693-ares.json) |
