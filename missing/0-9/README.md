@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #CuteSnake | 90003 | [90003-cutesnake.json](./90003-cutesnake.json) |
 | #Doubleblush | 218792 | [218792-doubleblush.json](./218792-doubleblush.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
+| #Drive Rally | 275688 | [275688-drive-rally.json](./275688-drive-rally.json) |
 | #Funtime | 119369 | [119369-funtime.json](./119369-funtime.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #HardCrash | 176217 | [176217-hardcrash.json](./176217-hardcrash.json) |
