@@ -982,7 +982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 192028 | [192028-take-off-the-flight-simulator.json](./192028-take-off-the-flight-simulator.json) |
-| Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take on Helicopters: Rearmed | 15107 | [15107-take-on-helicopters-rearmed.json](./15107-take-on-helicopters-rearmed.json) |
 | Take Over | 401900 | [401900-take-over.json](./401900-take-over.json) |
@@ -1150,7 +1149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Two Sides | 309133 | [309133-tale-of-two-sides.json](./309133-tale-of-two-sides.json) |
 | Tale of Witch's Heart | 217047 | [217047-tale-of-witchs-heart.json](./217047-tale-of-witchs-heart.json) |
 | Tale of Wuxia | 58616 | [58616-tale-of-wuxia.json](./58616-tale-of-wuxia.json) |
-| Tale of Wuxia | 90481 | [90481-tale-of-wuxia.json](./90481-tale-of-wuxia.json) |
 | Tale of Wuxia: The Pre-Sequel | 83832 | [83832-tale-of-wuxia-the-pre-sequel.json](./83832-tale-of-wuxia-the-pre-sequel.json) |
 | Tale of Wuxia: The Pre-Sequel - The Way to Nether | 168201 | [168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json](./168201-tale-of-wuxia-the-pre-sequel-the-way-to-nether.json) |
 | Tale's Casino Escape | 130711 | [130711-tales-casino-escape.json](./130711-tales-casino-escape.json) |
@@ -2306,7 +2304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanktics | 11780 | [11780-tanktics.json](./11780-tanktics.json) |
 | Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
 | TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
-| TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | TankTrouble Classic | 200540 | [200540-tanktrouble-classic.json](./200540-tanktrouble-classic.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
@@ -2575,7 +2572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap tap cartoonist - Cartoon999 | 95824 | [95824-tap-tap-cartoonist-cartoon999.json](./95824-tap-tap-cartoonist-cartoon999.json) |
 | Tap Tap Computer | 193836 | [193836-tap-tap-computer.json](./193836-tap-tap-computer.json) |
 | Tap Tap Dance | 92337 | [92337-tap-tap-dance.json](./92337-tap-tap-dance.json) |
-| Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Driver | 242764 | [242764-tap-tap-driver.json](./242764-tap-tap-driver.json) |
@@ -2753,7 +2749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
 | Tardy | 421284 | [421284-tardy.json](./421284-tardy.json) |
-| Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Taregoro: Tarepanda no Iru Nichijou | 98164 | [98164-taregoro-tarepanda-no-iru-nichijou.json](./98164-taregoro-tarepanda-no-iru-nichijou.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
 | Tarepanda no Gunpey | 37476 | [37476-tarepanda-no-gunpey.json](./37476-tarepanda-no-gunpey.json) |
@@ -3599,7 +3594,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
-| Techwars Online | 95703 | [95703-techwars-online.json](./95703-techwars-online.json) |
 | Techwars Online 2 | 31454 | [31454-techwars-online-2.json](./31454-techwars-online-2.json) |
 | Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
 | Teckium Idle RPG | 425964 | [425964-teckium-idle-rpg.json](./425964-teckium-idle-rpg.json) |
@@ -10041,7 +10035,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
 | The Epyx Games: Sports Collection | 323110 | [323110-the-epyx-games-sports-collection.json](./323110-the-epyx-games-sports-collection.json) |
 | The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
-| The Equalizer 2 | 97220 | [97220-the-equalizer-2.json](./97220-the-equalizer-2.json) |
 | The Equestrian | 206265 | [206265-the-equestrian.json](./206265-the-equestrian.json) |
 | The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
@@ -11954,7 +11947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero of Kendrickstone | 35619 | [35619-the-hero-of-kendrickstone.json](./35619-the-hero-of-kendrickstone.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
-| The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
 | The Hero Project: Open Season - Prodigal's Database for Powereds | 159595 | [159595-the-hero-project-open-season-prodigals-database-for-powereds.json](./159595-the-hero-project-open-season-prodigals-database-for-powereds.json) |
 | The Hero Project: Redemption Season | 33089 | [33089-the-hero-project-redemption-season.json](./33089-the-hero-project-redemption-season.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
@@ -17736,7 +17728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road of Light | 178814 | [178814-the-road-of-light.json](./178814-the-road-of-light.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
-| The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
 | The Road to Disorder | 175691 | [175691-the-road-to-disorder.json](./175691-the-road-to-disorder.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gelendzhik Palace | 159993 | [159993-the-road-to-gelendzhik-palace.json](./159993-the-road-to-gelendzhik-palace.json) |
@@ -18968,7 +18959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow Queen is Uncool | 283000 | [283000-the-snow-queen-is-uncool.json](./283000-the-snow-queen-is-uncool.json) |
 | The Snow Queen Quest | 43560 | [43560-the-snow-queen-quest.json](./43560-the-snow-queen-quest.json) |
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
-| The Snowboard Game | 90262 | [90262-the-snowboard-game.json](./90262-the-snowboard-game.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 275641 | [275641-the-snowman.json](./275641-the-snowman.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
@@ -19836,7 +19826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thief Simulator 2023: From Crook to Boss | 263839 | [263839-the-thief-simulator-2023-from-crook-to-boss.json](./263839-the-thief-simulator-2023-from-crook-to-boss.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thieves! | 243488 | [243488-the-thieves.json](./243488-the-thieves.json) |
-| The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
@@ -20027,7 +20016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Archeos | 287318 | [287318-the-tower-of-archeos.json](./287318-the-tower-of-archeos.json) |
 | The Tower of Babel | 363809 | [363809-the-tower-of-babel.json](./363809-the-tower-of-babel.json) |
 | The Tower Of Babel | 285794 | [285794-the-tower-of-babel.json](./285794-the-tower-of-babel.json) |
-| The Tower of Beatrice | 90417 | [90417-the-tower-of-beatrice.json](./90417-the-tower-of-beatrice.json) |
 | The Tower of Cabin: Cabin Panic | 92139 | [92139-the-tower-of-cabin-cabin-panic.json](./92139-the-tower-of-cabin-cabin-panic.json) |
 | The Tower of Druaga | 239167 | [239167-the-tower-of-druaga.json](./239167-the-tower-of-druaga.json) |
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
@@ -27154,7 +27142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Other Side of the World | 128812 | [128812-to-the-other-side-of-the-world.json](./128812-to-the-other-side-of-the-world.json) |
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To The Rescue | 346184 | [346184-to-the-rescue.json](./346184-to-the-rescue.json) |
-| To the Rescue! | 91306 | [91306-to-the-rescue.json](./91306-to-the-rescue.json) |
 | To the Rescue! 2 | 99379 | [99379-to-the-rescue-2.json](./99379-to-the-rescue-2.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 4 | 95684 | [95684-to-the-rescue-4.json](./95684-to-the-rescue-4.json) |
@@ -27340,7 +27327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Kitchen | 181589 | [181589-toca-kitchen.json](./181589-toca-kitchen.json) |
-| Toca Kitchen 2 | 95708 | [95708-toca-kitchen-2.json](./95708-toca-kitchen-2.json) |
 | Toca Kitchen Sushi | 114635 | [114635-toca-kitchen-sushi.json](./114635-toca-kitchen-sushi.json) |
 | Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
@@ -34787,7 +34773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
 | Tricky Taps: Complete Edition | 280625 | [280625-tricky-taps-complete-edition.json](./280625-tricky-taps-complete-edition.json) |
 | Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
-| Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
 | Tricky Towers: Galaxy Bricks | 403418 | [403418-tricky-towers-galaxy-bricks.json](./403418-tricky-towers-galaxy-bricks.json) |
@@ -34997,7 +34982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Troupe | 181547 | [181547-trip-troupe.json](./181547-trip-troupe.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
-| Trip: Steam Edition | 90608 | [90608-trip-steam-edition.json](./90608-trip-steam-edition.json) |
 | Trip'd | 4299 | [4299-tripd.json](./4299-tripd.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
@@ -35695,8 +35679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
 | Truck Simulator Europe 2 | 93714 | [93714-truck-simulator-europe-2.json](./93714-truck-simulator-europe-2.json) |
 | Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
-| Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
-| Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Simulator PRO Europe | 90378 | [90378-truck-simulator-pro-europe.json](./90378-truck-simulator-pro-europe.json) |
 | Truck Simulator Pro USA | 262336 | [262336-truck-simulator-pro-usa.json](./262336-truck-simulator-pro-usa.json) |
 | Truck Simulator Ultimate 3D | 232954 | [232954-truck-simulator-ultimate-3d.json](./232954-truck-simulator-ultimate-3d.json) |
@@ -36473,7 +36455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
-| Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
 | Tunche: Arena | 113136 | [113136-tunche-arena.json](./113136-tunche-arena.json) |
 | Tundralia: The Frigid Frontier | 192008 | [192008-tundralia-the-frigid-frontier.json](./192008-tundralia-the-frigid-frontier.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
