@@ -7779,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star: Lost Paradise - Kenshiro Edition | 135975 | [135975-fist-of-the-north-star-lost-paradise-kenshiro-edition.json](./135975-fist-of-the-north-star-lost-paradise-kenshiro-edition.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist of the Stray Dog | 250770 | [250770-fist-of-the-stray-dog.json](./250770-fist-of-the-stray-dog.json) |
+| Fist of Thunder | 123090 | [123090-fist-of-thunder.json](./123090-fist-of-thunder.json) |
 | Fist of Truth | 98502 | [98502-fist-of-truth.json](./98502-fist-of-truth.json) |
 | Fist of Yokai | 253485 | [253485-fist-of-yokai.json](./253485-fist-of-yokai.json) |
 | Fist Puncher | 9088 | [9088-fist-puncher.json](./9088-fist-puncher.json) |
@@ -10501,7 +10502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director | 10328 | [10328-football-director.json](./10328-football-director.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
-| Football Director DS | 21474 | [21474-football-director-ds.json](./21474-football-director-ds.json) |
 | Football Director II | 83202 | [83202-football-director-ii.json](./83202-football-director-ii.json) |
 | Football Drama | 105592 | [105592-football-drama.json](./105592-football-drama.json) |
 | Football Fan: Run Team Run! | 244094 | [244094-football-fan-run-team-run.json](./244094-football-fan-run-team-run.json) |
@@ -13441,7 +13441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Mage | 216383 | [216383-freestyle-mage.json](./216383-freestyle-mage.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
 | Freestyle Motocross: McGrath vs. Pastrana | 44940 | [44940-freestyle-motocross-mcgrath-vs-pastrana.json](./44940-freestyle-motocross-mcgrath-vs-pastrana.json) |
-| FreeStyle Street Basketball | 21423 | [21423-freestyle-street-basketball.json](./21423-freestyle-street-basketball.json) |
 | Freestyle Street Soccer | 3921 | [3921-freestyle-street-soccer.json](./3921-freestyle-street-soccer.json) |
 | Freestyle Studio | 272764 | [272764-freestyle-studio.json](./272764-freestyle-studio.json) |
 | Freestyle2: Hot Summer Outfit Box | 302032 | [302032-freestyle2-hot-summer-outfit-box.json](./302032-freestyle2-hot-summer-outfit-box.json) |
@@ -14348,7 +14347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission | 47718 | [47718-front-mission.json](./47718-front-mission.json) |
-| Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
 | Front Mission 2 | 1500 | [1500-front-mission-2.json](./1500-front-mission-2.json) |
 | Front Mission 2089 | 1504 | [1504-front-mission-2089.json](./1504-front-mission-2089.json) |
