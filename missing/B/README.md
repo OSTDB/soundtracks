@@ -2500,7 +2500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Bannerlings | 419941 | [419941-bannerlings.json](./419941-bannerlings.json) |
 | Bannerman | 44277 | [44277-bannerman.json](./44277-bannerman.json) |
-| Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners Begone! | 177153 | [177153-banners-begone.json](./177153-banners-begone.json) |
 | Banners of Ruin | 133408 | [133408-banners-of-ruin.json](./133408-banners-of-ruin.json) |
 | Banners of Ruin: Collection | 324501 | [324501-banners-of-ruin-collection.json](./324501-banners-of-ruin-collection.json) |
@@ -11491,7 +11490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Curse | 318560 | [318560-blessed-curse.json](./318560-blessed-curse.json) |
 | Blessed Ones: The Magic Wolves | 33960 | [33960-blessed-ones-the-magic-wolves.json](./33960-blessed-ones-the-magic-wolves.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
-| Blessed Surface | 76357 | [76357-blessed-surface.json](./76357-blessed-surface.json) |
 | Blessed with Death | 333298 | [333298-blessed-with-death.json](./333298-blessed-with-death.json) |
 | Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
