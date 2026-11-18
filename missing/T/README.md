@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Legends 2 | 6187 | [6187-taito-legends-2.json](./6187-taito-legends-2.json) |
+| Taito Legends Power-Up | 23098 | [23098-taito-legends-power-up.json](./23098-taito-legends-power-up.json) |
 | Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
@@ -966,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take Care, Out There | 181736 | [181736-take-care-out-there.json](./181736-take-care-out-there.json) |
+| Take Command: 2nd Manassas | 23144 | [23144-take-command-2nd-manassas.json](./23144-take-command-2nd-manassas.json) |
 | Take Control | 211337 | [211337-take-control.json](./211337-take-control.json) |
 | Take Cover Now | 304754 | [304754-take-cover-now.json](./304754-take-cover-now.json) |
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
@@ -4421,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
 | Tenchu: Ayame's Tale 3D | 411936 | [411936-tenchu-ayames-tale-3d.json](./411936-tenchu-ayames-tale-3d.json) |
 | Tenchu: Dark Secret | 20557 | [20557-tenchu-dark-secret.json](./20557-tenchu-dark-secret.json) |
+| Tenchu: Return From Darkness | 22257 | [22257-tenchu-return-from-darkness.json](./22257-tenchu-return-from-darkness.json) |
 | Tenchu: Shadow Assassins | 5216 | [5216-tenchu-shadow-assassins.json](./5216-tenchu-shadow-assassins.json) |
 | Tenchu: Stealth Assassins | 4113 | [4113-tenchu-stealth-assassins.json](./4113-tenchu-stealth-assassins.json) |
 | Tenchu: Time Of The Assassins | 44512 | [44512-tenchu-time-of-the-assassins.json](./44512-tenchu-time-of-the-assassins.json) |
@@ -4589,6 +4592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Manager 26 | 398827 | [398827-tennis-manager-26.json](./398827-tennis-manager-26.json) |
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
+| Tennis Masters Series 2003 | 23698 | [23698-tennis-masters-series-2003.json](./23698-tennis-masters-series-2003.json) |
 | Tennis Menace | 363629 | [363629-tennis-menace.json](./363629-tennis-menace.json) |
 | Tennis Menace | 363631 | [363631-tennis-menace.json](./363631-tennis-menace.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
@@ -8957,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damathos Clan | 157453 | [157453-the-damathos-clan.json](./157453-the-damathos-clan.json) |
+| The Dame Was Loaded | 22624 | [22624-the-dame-was-loaded.json](./22624-the-dame-was-loaded.json) |
 | The Damn Psychiatric | 321881 | [321881-the-damn-psychiatric.json](./321881-the-damn-psychiatric.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
@@ -14227,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Korra A New Era Beings | 44022 | [44022-the-legend-of-korra-a-new-era-beings.json](./44022-the-legend-of-korra-a-new-era-beings.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend Of Kuro | 333273 | [333273-the-legend-of-kuro.json](./333273-the-legend-of-kuro.json) |
+| The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Kyrandia 2: The Hand of Fate | 1283 | [1283-the-legend-of-kyrandia-2-the-hand-of-fate.json](./1283-the-legend-of-kyrandia-2-the-hand-of-fate.json) |
 | The Legend of Kyrandia 3: Malcolm's Revenge | 1287 | [1287-the-legend-of-kyrandia-3-malcolms-revenge.json](./1287-the-legend-of-kyrandia-3-malcolms-revenge.json) |
@@ -15681,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
+| The Minims | 24044 | [24044-the-minims.json](./24044-the-minims.json) |
 | The Minims - A New Beginning | 100380 | [100380-the-minims-a-new-beginning.json](./100380-the-minims-a-new-beginning.json) |
 | The Minimum Project | 397504 | [397504-the-minimum-project.json](./397504-the-minimum-project.json) |
 | The Minister | 365934 | [365934-the-minister.json](./365934-the-minister.json) |
@@ -19272,6 +19279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spark of One | 135064 | [135064-the-spark-of-one.json](./135064-the-spark-of-one.json) |
 | The Spatials | 51520 | [51520-the-spatials.json](./51520-the-spatials.json) |
 | The Spatials Collection | 53775 | [53775-the-spatials-collection.json](./53775-the-spatials-collection.json) |
+| The Spatials: Galactology | 23958 | [23958-the-spatials-galactology.json](./23958-the-spatials-galactology.json) |
 | The Speaker | 59676 | [59676-the-speaker.json](./59676-the-speaker.json) |
 | The Spearman | 323316 | [323316-the-spearman.json](./323316-the-spearman.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
@@ -22759,6 +22767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football | 70158 | [70158-this-is-football.json](./70158-this-is-football.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
+| This Is Football 2003 | 22067 | [22067-this-is-football-2003.json](./22067-this-is-football-2003.json) |
 | This Is Football 2004 | 44674 | [44674-this-is-football-2004.json](./44674-this-is-football-2004.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
 | This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
@@ -23521,6 +23530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbowl | 103804 | [103804-thunderbowl.json](./103804-thunderbowl.json) |
 | Thundercade | 323042 | [323042-thundercade.json](./323042-thundercade.json) |
 | Thundercade | 40480 | [40480-thundercade.json](./40480-thundercade.json) |
+| ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | ThunderCats: The Lost Eye of Thundera | 8059 | [8059-thundercats-the-lost-eye-of-thundera.json](./8059-thundercats-the-lost-eye-of-thundera.json) |
@@ -27782,6 +27792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
+| Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
 | Tokatonton: One-Armed Blacksmith | 368606 | [368606-tokatonton-one-armed-blacksmith.json](./368606-tokatonton-one-armed-blacksmith.json) |
 | Tokë III | 393956 | [393956-toke-iii.json](./393956-toke-iii.json) |
 | Tokei | 342004 | [342004-tokei.json](./342004-tokei.json) |
@@ -28808,6 +28819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonzurakko | 77042 | [77042-tonzurakko.json](./77042-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
 | Too Angry To Die | 309916 | [309916-too-angry-to-die.json](./309916-too-angry-to-die.json) |
+| Too Angry to Space | 23349 | [23349-too-angry-to-space.json](./23349-too-angry-to-space.json) |
 | Too Bouncy? | 263340 | [263340-too-bouncy.json](./263340-too-bouncy.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Different | 150974 | [150974-too-different.json](./150974-too-different.json) |
@@ -29895,6 +29907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | Touching Lights | 175608 | [175608-touching-lights.json](./175608-touching-lights.json) |
 | TouchMaster | 92770 | [92770-touchmaster.json](./92770-touchmaster.json) |
+| Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
+| TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster 8000 | 66455 | [66455-touchmaster-8000.json](./66455-touchmaster-8000.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
@@ -31133,6 +31147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Monsters | 293375 | [293375-toy-monsters.json](./293375-toy-monsters.json) |
+| Toy Odyssey: The Lost and Found | 23985 | [23985-toy-odyssey-the-lost-and-found.json](./23985-toy-odyssey-the-lost-and-found.json) |
 | Toy Paradise | 181976 | [181976-toy-paradise.json](./181976-toy-paradise.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
@@ -34043,6 +34058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Trapt | 22576 | [22576-trapt.json](./22576-trapt.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 50221 | [50221-trapthem.json](./50221-trapthem.json) |
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
@@ -35720,6 +35736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Complete DLC Pack | 155315 | [155315-tropico-4-complete-dlc-pack.json](./155315-tropico-4-complete-dlc-pack.json) |
+| Tropico 4: Gold Edition | 24226 | [24226-tropico-4-gold-edition.json](./24226-tropico-4-gold-edition.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
 | Tropico 4: Pirate Heaven | 75685 | [75685-tropico-4-pirate-heaven.json](./75685-tropico-4-pirate-heaven.json) |
@@ -35740,6 +35757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5: Mad World | 162068 | [162068-tropico-5-mad-world.json](./162068-tropico-5-mad-world.json) |
 | Tropico 5: Map Pack | 162075 | [162075-tropico-5-map-pack.json](./162075-tropico-5-map-pack.json) |
 | Tropico 5: Paradise Lost | 75686 | [75686-tropico-5-paradise-lost.json](./75686-tropico-5-paradise-lost.json) |
+| Tropico 5: Penultimate Edition | 24374 | [24374-tropico-5-penultimate-edition.json](./24374-tropico-5-penultimate-edition.json) |
 | Tropico 5: Supervillain | 162070 | [162070-tropico-5-supervillain.json](./162070-tropico-5-supervillain.json) |
 | Tropico 5: Surfs Up! | 162069 | [162069-tropico-5-surfs-up.json](./162069-tropico-5-surfs-up.json) |
 | Tropico 5: T-Day | 162067 | [162067-tropico-5-t-day.json](./162067-tropico-5-t-day.json) |
