@@ -8619,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashpaper | 414059 | [414059-flashpaper.json](./414059-flashpaper.json) |
 | Flashpoint Campaigns: Cold War | 373422 | [373422-flashpoint-campaigns-cold-war.json](./373422-flashpoint-campaigns-cold-war.json) |
 | Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
+| Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
 | Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
 | Flashtrek | 344052 | [344052-flashtrek.json](./344052-flashtrek.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
