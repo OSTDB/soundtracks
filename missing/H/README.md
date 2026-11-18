@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
 | Hacky | 320659 | [320659-hacky.json](./320659-hacky.json) |
+| Hacous '91 | 365326 | [365326-hacous-91.json](./365326-hacous-91.json) |
 | HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadaka Apron Gakuen | 396986 | [396986-hadaka-apron-gakuen.json](./396986-hadaka-apron-gakuen.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakunetsu Pro Yakyuu '94 Ganba League 3 | 38173 | [38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json](./38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json) |
 | Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
+| Hakuoki | 342931 | [342931-hakuoki.json](./342931-hakuoki.json) |
 | Hakuoki DS | 130481 | [130481-hakuoki-ds.json](./130481-hakuoki-ds.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
@@ -1006,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
+| Halo Infinite: Operation - Last Stand | 342935 | [342935-halo-infinite-operation-last-stand.json](./342935-halo-infinite-operation-last-stand.json) |
 | Halo Infinite: Operation - Legacy | 349183 | [349183-halo-infinite-operation-legacy.json](./349183-halo-infinite-operation-legacy.json) |
 | Halo Infinite: Operation - Reclaimer | 355608 | [355608-halo-infinite-operation-reclaimer.json](./355608-halo-infinite-operation-reclaimer.json) |
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
@@ -4378,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgebomber Stories: A Shy Guy's Panic | 323675 | [323675-hedgebomber-stories-a-shy-guys-panic.json](./323675-hedgebomber-stories-a-shy-guys-panic.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
+| Hedgehog and Cat: Explore the World Action | 357469 | [357469-hedgehog-and-cat-explore-the-world-action.json](./357469-hedgehog-and-cat-explore-the-world-action.json) |
 | Hedgehog Creek | 232238 | [232238-hedgehog-creek.json](./232238-hedgehog-creek.json) |
 | Hedgehog Destiny | 331744 | [331744-hedgehog-destiny.json](./331744-hedgehog-destiny.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
@@ -5452,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemo Racers | 176123 | [176123-hemo-racers.json](./176123-hemo-racers.json) |
 | Hemobloom | 373263 | [373263-hemobloom.json](./373263-hemobloom.json) |
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
+| Hemohound | 369780 | [369780-hemohound.json](./369780-hemohound.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
 | Hemp Paradise | 381295 | [381295-hemp-paradise.json](./381295-hemp-paradise.json) |
@@ -8053,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Harbor 3 Top-Down 3D | 241417 | [241417-hidden-harbor-3-top-down-3d.json](./241417-hidden-harbor-3-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
 | Hidden Haunted Town Top-Down 3D | 302006 | [302006-hidden-haunted-town-top-down-3d.json](./302006-hidden-haunted-town-top-down-3d.json) |
+| Hidden Heir | 357468 | [357468-hidden-heir.json](./357468-hidden-heir.json) |
 | Hidden Hijinks: No Cats in the Orgy, Please! | 385805 | [385805-hidden-hijinks-no-cats-in-the-orgy-please.json](./385805-hidden-hijinks-no-cats-in-the-orgy-please.json) |
 | Hidden Histories: The Principality | 189020 | [189020-hidden-histories-the-principality.json](./189020-hidden-histories-the-principality.json) |
 | Hidden Horror Photo Exhibition | 399643 | [399643-hidden-horror-photo-exhibition.json](./399643-hidden-horror-photo-exhibition.json) |
@@ -9693,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Street Art Pack | 233713 | [233713-hitman-3-street-art-pack.json](./233713-hitman-3-street-art-pack.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
 | Hitman 3: The Disruptor Pack | 307382 | [307382-hitman-3-the-disruptor-pack.json](./307382-hitman-3-the-disruptor-pack.json) |
+| Hitman 3: The Drop Pack | 336786 | [336786-hitman-3-the-drop-pack.json](./336786-hitman-3-the-drop-pack.json) |
 | Hitman 3: The Eminem vs. Slim Shady Pack | 379612 | [379612-hitman-3-the-eminem-vs-slim-shady-pack.json](./379612-hitman-3-the-eminem-vs-slim-shady-pack.json) |
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
@@ -11685,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror & Sports Pinball | 186698 | [186698-horror-and-sports-pinball.json](./186698-horror-and-sports-pinball.json) |
 | Horror Adventure | 235043 | [235043-horror-adventure.json](./235043-horror-adventure.json) |
 | Horror Adventure VR | 146651 | [146651-horror-adventure-vr.json](./146651-horror-adventure-vr.json) |
+| Horror Adventure: Zombie Edition | 332712 | [332712-horror-adventure-zombie-edition.json](./332712-horror-adventure-zombie-edition.json) |
 | Horror Adventure: Zombie Edition VR | 243061 | [243061-horror-adventure-zombie-edition-vr.json](./243061-horror-adventure-zombie-edition-vr.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
 | Horror Bar VR | 150325 | [150325-horror-bar-vr.json](./150325-horror-bar-vr.json) |
