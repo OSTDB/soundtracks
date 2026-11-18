@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Gensmak! | 228047 | [228047-gensmak.json](./228047-gensmak.json) |
 | Gensmak! Food Fight! | 240554 | [240554-gensmak-food-fight.json](./240554-gensmak-food-fight.json) |
+| Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Genso Nikki | 202290 | [202290-genso-nikki.json](./202290-genso-nikki.json) |
@@ -11277,6 +11278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Zero | 253340 | [253340-ground-zero.json](./253340-ground-zero.json) |
 | Ground Zero | 298803 | [298803-ground-zero.json](./298803-ground-zero.json) |
 | Ground Zero | 46902 | [46902-ground-zero.json](./46902-ground-zero.json) |
+| Ground Zero Hero | 281603 | [281603-ground-zero-hero.json](./281603-ground-zero-hero.json) |
 | Ground Zero: Genesis of a New World | 66552 | [66552-ground-zero-genesis-of-a-new-world.json](./66552-ground-zero-genesis-of-a-new-world.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
