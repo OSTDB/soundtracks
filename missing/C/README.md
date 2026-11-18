@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Manager: Forklift Simulator | 308647 | [308647-cargo-manager-forklift-simulator.json](./308647-cargo-manager-forklift-simulator.json) |
 | Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
+| Cargo Pop | 414531 | [414531-cargo-pop.json](./414531-cargo-pop.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Rail Tycoon | 428286 | [428286-cargo-rail-tycoon.json](./428286-cargo-rail-tycoon.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
 | Chainsaw Dodge | 364748 | [364748-chainsaw-dodge.json](./364748-chainsaw-dodge.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
+| Chainsaw Man: Devil Crush | 407551 | [407551-chainsaw-man-devil-crush.json](./407551-chainsaw-man-devil-crush.json) |
 | Chainsaw Man: Nusunda Baiku De Kirihiraku!! | 261115 | [261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json](./261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
@@ -10088,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cigo | 319906 | [319906-cigo.json](./319906-cigo.json) |
 | Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
+| Cijian Appearance | 398608 | [398608-cijian-appearance.json](./398608-cijian-appearance.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
 | Cilla | 308115 | [308115-cilla.json](./308115-cilla.json) |
 | CIMA: The Enemy | 6348 | [6348-cima-the-enemy.json](./6348-cima-the-enemy.json) |
@@ -10370,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
 | Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
 | Cirno's BlockBuster | 134838 | [134838-cirnos-blockbuster.json](./134838-cirnos-blockbuster.json) |
+| Cirno's Bomb-Tastic Adventure | 414635 | [414635-cirnos-bomb-tastic-adventure.json](./414635-cirnos-bomb-tastic-adventure.json) |
 | Cirno's Card Class | 334561 | [334561-cirnos-card-class.json](./334561-cirnos-card-class.json) |
 | Cirno's Frog Freeze | 134839 | [134839-cirnos-frog-freeze.json](./134839-cirnos-frog-freeze.json) |
 | Cirno's Lost Chirumiru | 264097 | [264097-cirnos-lost-chirumiru.json](./264097-cirnos-lost-chirumiru.json) |
@@ -11508,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Hunt | 175235 | [175235-clay-hunt.json](./175235-clay-hunt.json) |
 | Clay Hunt PRO | 87495 | [87495-clay-hunt-pro.json](./87495-clay-hunt-pro.json) |
+| Clay Hunt VR | 407584 | [407584-clay-hunt-vr.json](./407584-clay-hunt-vr.json) |
 | Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Monkey: The Master Potter and The Kiln God | 258164 | [258164-clay-monkey-the-master-potter-and-the-kiln-god.json](./258164-clay-monkey-the-master-potter-and-the-kiln-god.json) |
@@ -19294,6 +19299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
+| Crazy Hospital | 399742 | [399742-crazy-hospital.json](./399742-crazy-hospital.json) |
 | Crazy Hotel Together | 390053 | [390053-crazy-hotel-together.json](./390053-crazy-hotel-together.json) |
 | Crazy Hunter | 85057 | [85057-crazy-hunter.json](./85057-crazy-hunter.json) |
 | Crazy Indian | 157555 | [157555-crazy-indian.json](./157555-crazy-indian.json) |
