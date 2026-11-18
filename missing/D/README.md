@@ -10217,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die2Nite | 126127 | [126127-die2nite.json](./126127-die2nite.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
+| Diecast Car Restoration | 417041 | [417041-diecast-car-restoration.json](./417041-diecast-car-restoration.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
 | Died's Factory | 184234 | [184234-dieds-factory.json](./184234-dieds-factory.json) |
