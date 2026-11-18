@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
+| Vendir: Plague of Lies + Vampire's Fall: Origins | 401942 | [401942-vendir-plague-of-lies-vampires-fall-origins.json](./401942-vendir-plague-of-lies-vampires-fall-origins.json) |
 | Vendrán las aves | 329630 | [329630-vendran-las-aves.json](./329630-vendran-las-aves.json) |
 | Veneficium | 144539 | [144539-veneficium.json](./144539-veneficium.json) |
 | Veneficium | 162952 | [162952-veneficium.json](./162952-veneficium.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
 | VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
+| VIP Woodland Casino | 414634 | [414634-vip-woodland-casino.json](./414634-vip-woodland-casino.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | Viper | 238847 | [238847-viper.json](./238847-viper.json) |
 | Viper Attack | 121809 | [121809-viper-attack.json](./121809-viper-attack.json) |
@@ -3694,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
 | Void Foundation: Into The Void | 295287 | [295287-void-foundation-into-the-void.json](./295287-void-foundation-into-the-void.json) |
+| Void Fragment | 407602 | [407602-void-fragment.json](./407602-void-fragment.json) |
 | Void Frame | 185811 | [185811-void-frame.json](./185811-void-frame.json) |
 | Void Frontiers | 384049 | [384049-void-frontiers.json](./384049-void-frontiers.json) |
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
