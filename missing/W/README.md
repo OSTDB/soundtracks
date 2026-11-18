@@ -4132,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whacky Ball | 243712 | [243712-whacky-ball.json](./243712-whacky-ball.json) |
 | Whacky Golf | 161578 | [161578-whacky-golf.json](./161578-whacky-golf.json) |
 | Whacky Park | 216796 | [216796-whacky-park.json](./216796-whacky-park.json) |
+| Whait Bandana | 55415 | [55415-whait-bandana.json](./55415-whait-bandana.json) |
 | Whale | 193580 | [193580-whale.json](./193580-whale.json) |
 | Whale Captain | 294906 | [294906-whale-captain.json](./294906-whale-captain.json) |
 | Whale Eater | 183981 | [183981-whale-eater.json](./183981-whale-eater.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Gonna Get the Girl? | 271966 | [271966-whos-gonna-get-the-girl.json](./271966-whos-gonna-get-the-girl.json) |
 | Who's Hungry? | 371828 | [371828-whos-hungry.json](./371828-whos-hungry.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
+| Who's Lila? | 159536 | [159536-whos-lila.json](./159536-whos-lila.json) |
 | Who's My Secret Santa? | 399685 | [399685-whos-my-secret-santa.json](./399685-whos-my-secret-santa.json) |
 | Who's Next? | 293613 | [293613-whos-next.json](./293613-whos-next.json) |
 | Who's That Pokémon? | 191640 | [191640-whos-that-pokemon.json](./191640-whos-that-pokemon.json) |
@@ -6301,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wima Magicamia: Cute Girls Magic Battle 3DTPS | 360887 | [360887-wima-magicamia-cute-girls-magic-battle-3dtps.json](./360887-wima-magicamia-cute-girls-magic-battle-3dtps.json) |
 | Wimbledon | 124878 | [124878-wimbledon.json](./124878-wimbledon.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
+| Wimbledon 64 | 40955 | [40955-wimbledon-64.json](./40955-wimbledon-64.json) |
 | Wimbledon Championship Tennis | 47053 | [47053-wimbledon-championship-tennis.json](./47053-wimbledon-championship-tennis.json) |
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
@@ -6332,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinCrypt | 83441 | [83441-wincrypt.json](./83441-wincrypt.json) |
 | Wind and Bird | 284298 | [284298-wind-and-bird.json](./284298-wind-and-bird.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
+| Wind and Water: Puzzle Battles | 72824 | [72824-wind-and-water-puzzle-battles.json](./72824-wind-and-water-puzzle-battles.json) |
 | Wind Angel | 150741 | [150741-wind-angel.json](./150741-wind-angel.json) |
 | Wind Angel Challenge | 195253 | [195253-wind-angel-challenge.json](./195253-wind-angel-challenge.json) |
 | Wind Angel III | 195186 | [195186-wind-angel-iii.json](./195186-wind-angel-iii.json) |
@@ -6760,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Break | 128085 | [128085-winter-break.json](./128085-winter-break.json) |
 | Winter Bundle (ENG) | 135369 | [135369-winter-bundle-eng.json](./135369-winter-bundle-eng.json) |
 | Winter Bundle: 20 games | 332364 | [332364-winter-bundle-20-games.json](./332364-winter-bundle-20-games.json) |
+| Winter Camp | 41020 | [41020-winter-camp.json](./41020-winter-camp.json) |
 | Winter Campus | 58350 | [58350-winter-campus.json](./58350-winter-campus.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
@@ -6966,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 2 | 20243 | [20243-wipeout-2.json](./20243-wipeout-2.json) |
 | Wipeout 2048 | 1545 | [1545-wipeout-2048.json](./1545-wipeout-2048.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
+| Wipeout 3 | 1540 | [1540-wipeout-3.json](./1540-wipeout-3.json) |
 | Wipeout 3 | 28355 | [28355-wipeout-3.json](./28355-wipeout-3.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
@@ -7015,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireless Hunting Video Game System | 246215 | [246215-wireless-hunting-video-game-system.json](./246215-wireless-hunting-video-game-system.json) |
 | Wireless Ms. Pac-Man | 219422 | [219422-wireless-ms-pac-man.json](./219422-wireless-ms-pac-man.json) |
 | Wirelight | 344086 | [344086-wirelight.json](./344086-wirelight.json) |
+| WireNet | 55371 | [55371-wirenet.json](./55371-wirenet.json) |
 | Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
 | Wirewalk | 172351 | [172351-wirewalk.json](./172351-wirewalk.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
@@ -8018,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's School Simulator 2022 | 299900 | [299900-womens-school-simulator-2022.json](./299900-womens-school-simulator-2022.json) |
 | Women's Soccer Manager | 102899 | [102899-womens-soccer-manager.json](./102899-womens-soccer-manager.json) |
 | Women's Volleyball | 24325 | [24325-womens-volleyball.json](./24325-womens-volleyball.json) |
+| Women's Volleyball Championship | 72838 | [72838-womens-volleyball-championship.json](./72838-womens-volleyball-championship.json) |
 | Womp The Abyssal | 349771 | [349771-womp-the-abyssal.json](./349771-womp-the-abyssal.json) |
 | Won't You Be My Laser? | 31899 | [31899-wont-you-be-my-laser.json](./31899-wont-you-be-my-laser.json) |
 | Won't you come knocking | 183357 | [183357-wont-you-come-knocking.json](./183357-wont-you-come-knocking.json) |
@@ -8110,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Doom | 273059 | [273059-wonderful-doom.json](./273059-wonderful-doom.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
+| Wonderful Everyday: Down the Rabbit-Hole | 172667 | [172667-wonderful-everyday-down-the-rabbit-hole.json](./172667-wonderful-everyday-down-the-rabbit-hole.json) |
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
 | Wonderful Jigsaw | 400078 | [400078-wonderful-jigsaw.json](./400078-wonderful-jigsaw.json) |
@@ -8863,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker 42 | 320172 | [320172-worker-42.json](./320172-worker-42.json) |
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Worker Simulator | 275987 | [275987-worker-simulator.json](./275987-worker-simulator.json) |
+| Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workers & Resources: Soviet Republic - Biomes | 336837 | [336837-workers-and-resources-soviet-republic-biomes.json](./336837-workers-and-resources-soviet-republic-biomes.json) |
 | Workhard | 121799 | [121799-workhard.json](./121799-workhard.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
@@ -8955,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Chef | 101407 | [101407-world-chef.json](./101407-world-chef.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
+| World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
 | World Class Bowling | 39426 | [39426-world-class-bowling.json](./39426-world-class-bowling.json) |
@@ -9114,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
 | World League Soccer | 37249 | [37249-world-league-soccer.json](./37249-world-league-soccer.json) |
 | World League Soccer '98 | 45466 | [45466-world-league-soccer-98.json](./45466-world-league-soccer-98.json) |
+| World League Soccer 2000 | 72820 | [72820-world-league-soccer-2000.json](./72820-world-league-soccer-2000.json) |
 | World Left Behind | 284516 | [284516-world-left-behind.json](./284516-world-left-behind.json) |
 | World Legends | 164316 | [164316-world-legends.json](./164316-world-legends.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
@@ -9668,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War V: Last Call | 370839 | [370839-world-war-v-last-call.json](./370839-world-war-v-last-call.json) |
 | World War Z | 20910 | [20910-world-war-z.json](./20910-world-war-z.json) |
 | World War Z VR | 349761 | [349761-world-war-z-vr.json](./349761-world-war-z-vr.json) |
+| World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Chibi Izzy Skin Pack | 406461 | [406461-world-war-z-chibi-izzy-skin-pack.json](./406461-world-war-z-chibi-izzy-skin-pack.json) |
 | World War Z: Chibi Kimiko Skin Pack | 406462 | [406462-world-war-z-chibi-kimiko-skin-pack.json](./406462-world-war-z-chibi-kimiko-skin-pack.json) |
@@ -10502,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE '12 | 5294 | [5294-wwe-12.json](./5294-wwe-12.json) |
 | WWE '13 | 5295 | [5295-wwe-13.json](./5295-wwe-13.json) |
 | WWE 2K | 99359 | [99359-wwe-2k.json](./99359-wwe-2k.json) |
+| WWE 2K Battlegrounds | 132956 | [132956-wwe-2k-battlegrounds.json](./132956-wwe-2k-battlegrounds.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
 | WWE 2K15 | 7846 | [7846-wwe-2k15.json](./7846-wwe-2k15.json) |
 | WWE 2K15: Hall of Pain | 268798 | [268798-wwe-2k15-hall-of-pain.json](./268798-wwe-2k15-hall-of-pain.json) |
