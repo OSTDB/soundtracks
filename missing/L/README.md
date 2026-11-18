@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville Match 3 Puzzle | 246812 | [246812-laruaville-match-3-puzzle.json](./246812-laruaville-match-3-puzzle.json) |
 | Larut | 318824 | [318824-larut.json](./318824-larut.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
+| Larvis | 429591 | [429591-larvis.json](./429591-larvis.json) |
 | Las Aventuras de Chocu: El Videojuego | 151387 | [151387-las-aventuras-de-chocu-el-videojuego.json](./151387-las-aventuras-de-chocu-el-videojuego.json) |
 | Las Aventuras de Frank el Enano | 317098 | [317098-las-aventuras-de-frank-el-enano.json](./317098-las-aventuras-de-frank-el-enano.json) |
 | Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
@@ -1387,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call | 313932 | [313932-last-call.json](./313932-last-call.json) |
 | Last Call | 318091 | [318091-last-call.json](./318091-last-call.json) |
 | Last Call | 398075 | [398075-last-call.json](./398075-last-call.json) |
+| Last Call Market | 429579 | [429579-last-call-market.json](./429579-last-call-market.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
@@ -4638,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettergraf | 174375 | [174375-lettergraf.json](./174375-lettergraf.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
+| Letterland | 429590 | [429590-letterland.json](./429590-letterland.json) |
 | Letterle | 268686 | [268686-letterle.json](./268686-letterle.json) |
 | Letterlike | 335822 | [335822-letterlike.json](./335822-letterlike.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
