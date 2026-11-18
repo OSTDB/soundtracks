@@ -364,7 +364,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine Total Defense | 288545 | [288545-ukraine-total-defense.json](./288545-ukraine-total-defense.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukraine War Stories | 209227 | [209227-ukraine-war-stories.json](./209227-ukraine-war-stories.json) |
-| Ukrainian ball in search of gas | 91409 | [91409-ukrainian-ball-in-search-of-gas.json](./91409-ukrainian-ball-in-search-of-gas.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
 | Ukrainian Fight Drone Simulator | 306326 | [306326-ukrainian-fight-drone-simulator.json](./306326-ukrainian-fight-drone-simulator.json) |
 | Ukrainian Shield: Iraq | 337388 | [337388-ukrainian-shield-iraq.json](./337388-ukrainian-shield-iraq.json) |
@@ -1283,7 +1282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
 | Umihara Kawase Shun | 45227 | [45227-umihara-kawase-shun.json](./45227-umihara-kawase-shun.json) |
 | Umihara Kawase Shun: Second Edition Complete | 63752 | [63752-umihara-kawase-shun-second-edition-complete.json](./63752-umihara-kawase-shun-second-edition-complete.json) |
-| Umihara Kawase Shun: Steam Edition | 90547 | [90547-umihara-kawase-shun-steam-edition.json](./90547-umihara-kawase-shun-steam-edition.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Christmas Community Challenge | 215201 | [215201-umihara-kawase-christmas-community-challenge.json](./215201-umihara-kawase-christmas-community-challenge.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
@@ -1355,7 +1353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko: Letter to the Golden Witch | 382661 | [382661-umineko-letter-to-the-golden-witch.json](./382661-umineko-letter-to-the-golden-witch.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umineko: When They Cry - Saku | 401952 | [401952-umineko-when-they-cry-saku.json](./401952-umineko-when-they-cry-saku.json) |
-| Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
 | Umisen Yamasen | 258877 | [258877-umisen-yamasen.json](./258877-umisen-yamasen.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umiuru to Sudoku Shiyo! | 124119 | [124119-umiuru-to-sudoku-shiyo.json](./124119-umiuru-to-sudoku-shiyo.json) |
@@ -1951,7 +1948,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UndercoVR | 182835 | [182835-undercovr.json](./182835-undercovr.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
 | Undercreator | 329717 | [329717-undercreator.json](./329717-undercreator.json) |
-| Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Undercroft | 301097 | [301097-undercroft.json](./301097-undercroft.json) |
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
 | Undercroft Warriors | 263727 | [263727-undercroft-warriors.json](./263727-undercroft-warriors.json) |
@@ -2884,7 +2880,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnMetal: UnDeluxe Edition | 173099 | [173099-unmetal-undeluxe-edition.json](./173099-unmetal-undeluxe-edition.json) |
 | Unmetaverse | 190251 | [190251-unmetaverse.json](./190251-unmetaverse.json) |
 | Unmixable Syrup | 404404 | [404404-unmixable-syrup.json](./404404-unmixable-syrup.json) |
-| Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
 | Unmourned | 330058 | [330058-unmourned.json](./330058-unmourned.json) |
 | Unmourned VR | 399238 | [399238-unmourned-vr.json](./399238-unmourned-vr.json) |
 | Unmurk | 350386 | [350386-unmurk.json](./350386-unmurk.json) |
