@@ -6456,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
+| Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
 | OverRoot | 264930 | [264930-overroot.json](./264930-overroot.json) |
 | Overruled | 10648 | [10648-overruled.json](./10648-overruled.json) |
 | Overrun | 129455 | [129455-overrun.json](./129455-overrun.json) |
