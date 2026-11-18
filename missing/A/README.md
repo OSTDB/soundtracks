@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aardvark | 152011 | [152011-aardvark.json](./152011-aardvark.json) |
 | Aardvark | 94651 | [94651-aardvark.json](./94651-aardvark.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
+| Aargon | 70513 | [70513-aargon.json](./70513-aargon.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
 | Aarklash: Legacy | 9938 | [9938-aarklash-legacy.json](./9938-aarklash-legacy.json) |
@@ -4394,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Portal | 107947 | [107947-adventure-portal.json](./107947-adventure-portal.json) |
 | Adventure Puss | 244114 | [244114-adventure-puss.json](./244114-adventure-puss.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
+| Adventure Quiz: Capcom World | 38600 | [38600-adventure-quiz-capcom-world.json](./38600-adventure-quiz-capcom-world.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
 | Adventure Quiz: Capcom World 2 | 66447 | [66447-adventure-quiz-capcom-world-2.json](./66447-adventure-quiz-capcom-world-2.json) |
 | Adventure Race | 387037 | [387037-adventure-race.json](./387037-adventure-race.json) |
@@ -5851,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Skunk: Stink Ops | 419356 | [419356-agent-skunk-stink-ops.json](./419356-agent-skunk-stink-ops.json) |
 | Agent Sorry | 208011 | [208011-agent-sorry.json](./208011-agent-sorry.json) |
 | Agent Stilus | 189228 | [189228-agent-stilus.json](./189228-agent-stilus.json) |
+| Agent Super Bond | 38599 | [38599-agent-super-bond.json](./38599-agent-super-bond.json) |
 | Agent Team Simulator | 235405 | [235405-agent-team-simulator.json](./235405-agent-team-simulator.json) |
 | Agent Team Simulator: Your Agent in the Game | 253466 | [253466-agent-team-simulator-your-agent-in-the-game.json](./253466-agent-team-simulator-your-agent-in-the-game.json) |
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
@@ -5962,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agraria | 403059 | [403059-agraria.json](./403059-agraria.json) |
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
+| Agress: Missile Daisenryaku | 38598 | [38598-agress-missile-daisenryaku.json](./38598-agress-missile-daisenryaku.json) |
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
@@ -8584,6 +8588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Elite Wrestling: Fight Forever - Switchblade Tournament Pack | 301009 | [301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json](./301009-all-elite-wrestling-fight-forever-switchblade-tournament-pack.json) |
 | All Elite Wrestling: Fight Forever - The Storm is Coming! | 283292 | [283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json](./283292-all-elite-wrestling-fight-forever-the-storm-is-coming.json) |
 | All Elite Wrestling: Fight Forever - World War Joe | 301010 | [301010-all-elite-wrestling-fight-forever-world-war-joe.json](./301010-all-elite-wrestling-fight-forever-world-war-joe.json) |
+| All Evil Night | 55405 | [55405-all-evil-night.json](./55405-all-evil-night.json) |
 | All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
 | All Eyes on Me | 423240 | [423240-all-eyes-on-me.json](./423240-all-eyes-on-me.json) |
 | All Fall Down | 34675 | [34675-all-fall-down.json](./34675-all-fall-down.json) |
@@ -10949,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Wonders: Pharaoh's Tomb | 253313 | [253313-ancient-wonders-pharaohs-tomb.json](./253313-ancient-wonders-pharaohs-tomb.json) |
 | Ancient World War | 155730 | [155730-ancient-world-war.json](./155730-ancient-world-war.json) |
 | Ancient Worlds: Egypt | 150305 | [150305-ancient-worlds-egypt.json](./150305-ancient-worlds-egypt.json) |
+| Ancient Worlds: Jaguar's Fate | 55417 | [55417-ancient-worlds-jaguars-fate.json](./55417-ancient-worlds-jaguars-fate.json) |
 | Ancient: Legacy of Azul | 153150 | [153150-ancient-legacy-of-azul.json](./153150-ancient-legacy-of-azul.json) |
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
@@ -11149,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel in Inferno | 402316 | [402316-angel-in-inferno.json](./402316-angel-in-inferno.json) |
 | Angel Investor Simulator | 425791 | [425791-angel-investor-simulator.json](./425791-angel-investor-simulator.json) |
 | Angel Island Tour | 210752 | [210752-angel-island-tour.json](./210752-angel-island-tour.json) |
+| Angel Kids | 38597 | [38597-angel-kids.json](./38597-angel-kids.json) |
 | Angel Killer | 301493 | [301493-angel-killer.json](./301493-angel-killer.json) |
 | Angel Legion | 140325 | [140325-angel-legion.json](./140325-angel-legion.json) |
 | Angel Legion: Bay Goddess - Purple II | 302572 | [302572-angel-legion-bay-goddess-purple-ii.json](./302572-angel-legion-bay-goddess-purple-ii.json) |
@@ -11496,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
+| Angry Gnome | 55385 | [55385-angry-gnome.json](./55385-angry-gnome.json) |
 | Angry Golf | 122209 | [122209-angry-golf.json](./122209-angry-golf.json) |
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
@@ -13574,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Intern | 420223 | [420223-apocalypse-intern.json](./420223-apocalypse-intern.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
 | Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
+| Apocalypse Knights 2.0 | 55411 | [55411-apocalypse-knights-2-0.json](./55411-apocalypse-knights-2-0.json) |
 | Apocalypse Lords | 258567 | [258567-apocalypse-lords.json](./258567-apocalypse-lords.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Market Simulator | 343525 | [343525-apocalypse-market-simulator.json](./343525-apocalypse-market-simulator.json) |
@@ -15733,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arenix | 157282 | [157282-arenix.json](./157282-arenix.json) |
 | Arenosum | 383296 | [383296-arenosum.json](./383296-arenosum.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
+| Arenus | 55388 | [55388-arenus.json](./55388-arenus.json) |
 | Ares | 287446 | [287446-ares.json](./287446-ares.json) |
 | Ares | 343693 | [343693-ares.json](./343693-ares.json) |
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
@@ -20693,6 +20703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avenger | 91358 | [91358-avenger.json](./91358-avenger.json) |
 | Avenger Bird | 30491 | [30491-avenger-bird.json](./30491-avenger-bird.json) |
 | Avenger Sharks | 249027 | [249027-avenger-sharks.json](./249027-avenger-sharks.json) |
+| Avengers | 46822 | [46822-avengers.json](./46822-avengers.json) |
 | Avengers in Galactic Storm | 39361 | [39361-avengers-in-galactic-storm.json](./39361-avengers-in-galactic-storm.json) |
 | Avengers Initiative | 64559 | [64559-avengers-initiative.json](./64559-avengers-initiative.json) |
 | Avengers Squad | 264727 | [264727-avengers-squad.json](./264727-avengers-squad.json) |
