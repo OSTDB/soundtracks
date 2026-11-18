@@ -3826,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
 | Mappa Imperium | 196711 | [196711-mappa-imperium.json](./196711-mappa-imperium.json) |
+| Mapped by Our Ancestors | 383305 | [383305-mapped-by-our-ancestors.json](./383305-mapped-by-our-ancestors.json) |
 | Mapping at Warpspeed | 257421 | [257421-mapping-at-warpspeed.json](./257421-mapping-at-warpspeed.json) |
 | Mappy | 218428 | [218428-mappy.json](./218428-mappy.json) |
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
@@ -13462,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Division | 236428 | [236428-military-division.json](./236428-military-division.json) |
 | Military Enlistment Office Escape Simulator | 233030 | [233030-military-enlistment-office-escape-simulator.json](./233030-military-enlistment-office-escape-simulator.json) |
+| Military Escape | 376399 | [376399-military-escape.json](./376399-military-escape.json) |
 | Military History Commander: Europe at War | 22999 | [22999-military-history-commander-europe-at-war.json](./22999-military-history-commander-europe-at-war.json) |
 | Military Incremental Complex | 330099 | [330099-military-incremental-complex.json](./330099-military-incremental-complex.json) |
 | Military Life: Tank Simulator | 9458 | [9458-military-life-tank-simulator.json](./9458-military-life-tank-simulator.json) |
@@ -16150,6 +16152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsukete! Keroro Gunsou: Machigai Sagashi Daisakusen de Arimasu! | 294619 | [294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json](./294619-mitsukete-keroro-gunsou-machigai-sagashi-daisakusen-de-arimasu.json) |
 | Mitsukikuzushi | 98020 | [98020-mitsukikuzushi.json](./98020-mitsukikuzushi.json) |
+| Mitsume | 376398 | [376398-mitsume.json](./376398-mitsume.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
 | Mitsume ga Tooru | 48666 | [48666-mitsume-ga-tooru.json](./48666-mitsume-ga-tooru.json) |
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
@@ -19179,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
 | Moonlight Wishes | 299035 | [299035-moonlight-wishes.json](./299035-moonlight-wishes.json) |
 | Moonlight: Among Darkness | 154778 | [154778-moonlight-among-darkness.json](./154778-moonlight-among-darkness.json) |
+| Moonlight: Season One | 376366 | [376366-moonlight-season-one.json](./376366-moonlight-season-one.json) |
 | Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
 | Moonlighter: Complete Edition | 154212 | [154212-moonlighter-complete-edition.json](./154212-moonlighter-complete-edition.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
@@ -19248,6 +19252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
+| Moonshot Billiards | 383287 | [383287-moonshot-billiards.json](./383287-moonshot-billiards.json) |
 | Moonshot Galaxy | 32658 | [32658-moonshot-galaxy.json](./32658-moonshot-galaxy.json) |
 | Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
@@ -21742,6 +21747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence: Episode 2 | 339955 | [339955-muffles-life-sentence-episode-2.json](./339955-muffles-life-sentence-episode-2.json) |
 | Muffles' Life Sentence: Episode 3 | 344658 | [344658-muffles-life-sentence-episode-3.json](./344658-muffles-life-sentence-episode-3.json) |
 | Muffles' Life Sentence: Episode 4 | 393667 | [393667-muffles-life-sentence-episode-4.json](./393667-muffles-life-sentence-episode-4.json) |
+| Muffles' Life Sentence: Episode 5 | 383284 | [383284-muffles-life-sentence-episode-5.json](./383284-muffles-life-sentence-episode-5.json) |
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Muffy's Wardrobe | 300604 | [300604-muffys-wardrobe.json](./300604-muffys-wardrobe.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
@@ -22650,6 +22656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musuu | 166358 | [166358-musuu.json](./166358-musuu.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
+| Musynx Return | 383290 | [383290-musynx-return.json](./383290-musynx-return.json) |
 | Musynx: Deluxe Edition | 207946 | [207946-musynx-deluxe-edition.json](./207946-musynx-deluxe-edition.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutable 50 | 370422 | [370422-mutable-50.json](./370422-mutable-50.json) |
