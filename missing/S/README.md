@@ -570,7 +570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saffron Fields | 190788 | [190788-saffron-fields.json](./190788-saffron-fields.json) |
 | Safire Eshgh | 191669 | [191669-safire-eshgh.json](./191669-safire-eshgh.json) |
 | Safo and The Moon Warriors | 381107 | [381107-safo-and-the-moon-warriors.json](./381107-safo-and-the-moon-warriors.json) |
-| Saga | 21484 | [21484-saga.json](./21484-saga.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa 2: Hihou Densetsu - Goddess of Destiny | 62328 | [62328-saga-2-hihou-densetsu-goddess-of-destiny.json](./62328-saga-2-hihou-densetsu-goddess-of-destiny.json) |
@@ -10901,7 +10900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showrunner | 207043 | [207043-showrunner.json](./207043-showrunner.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
-| Showtime Championship Boxing | 21506 | [21506-showtime-championship-boxing.json](./21506-showtime-championship-boxing.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
@@ -13903,7 +13901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
 | Ski Zoo | 244091 | [244091-ski-zoo.json](./244091-ski-zoo.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
-| Ski-Doo: Snow X Racing | 21419 | [21419-ski-doo-snow-x-racing.json](./21419-ski-doo-snow-x-racing.json) |
 | Ski-Doo: Snowmobile Challenge | 5158 | [5158-ski-doo-snowmobile-challenge.json](./5158-ski-doo-snowmobile-challenge.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
 | Ski-On-Neon | 65340 | [65340-ski-on-neon.json](./65340-ski-on-neon.json) |
@@ -19347,6 +19344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of Cthulhu | 177170 | [177170-son-of-cthulhu.json](./177170-son-of-cthulhu.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
+| Son of Phoenix | 123086 | [123086-son-of-phoenix.json](./123086-son-of-phoenix.json) |
 | Son of Sparta | 258077 | [258077-son-of-sparta.json](./258077-son-of-sparta.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Son of the Dragon King | 266027 | [266027-son-of-the-dragon-king.json](./266027-son-of-the-dragon-king.json) |
@@ -28390,7 +28388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Adventure | 327226 | [327226-stargate-adventure.json](./327226-stargate-adventure.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargate Network | 316724 | [316724-stargate-network.json](./316724-stargate-network.json) |
-| Stargate Online TCG | 21529 | [21529-stargate-online-tcg.json](./21529-stargate-online-tcg.json) |
 | Stargate Online Trading Card Game | 67750 | [67750-stargate-online-trading-card-game.json](./67750-stargate-online-trading-card-game.json) |
 | Stargate SG-1 | 280286 | [280286-stargate-sg-1.json](./280286-stargate-sg-1.json) |
 | Stargate SG-1: Entropy Syndrome | 280284 | [280284-stargate-sg-1-entropy-syndrome.json](./280284-stargate-sg-1-entropy-syndrome.json) |
@@ -31306,7 +31303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangelets | 137986 | [137986-strangelets.json](./137986-strangelets.json) |
 | Strangeloop | 39138 | [39138-strangeloop.json](./39138-strangeloop.json) |
 | Stranger | 191845 | [191845-stranger.json](./191845-stranger.json) |
-| Stranger | 21543 | [21543-stranger.json](./21543-stranger.json) |
 | Stranger by Night | 73558 | [73558-stranger-by-night.json](./73558-stranger-by-night.json) |
 | Stranger Cases | 107567 | [107567-stranger-cases.json](./107567-stranger-cases.json) |
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
@@ -31933,7 +31929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Food Simulator | 326352 | [326352-street-food-simulator.json](./326352-street-food-simulator.json) |
 | Street Food South East Asia | 197699 | [197699-street-food-south-east-asia.json](./197699-street-food-south-east-asia.json) |
 | Street Football | 169301 | [169301-street-football.json](./169301-street-football.json) |
-| Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football | 393440 | [393440-street-football.json](./393440-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
 | Street Gang | 54573 | [54573-street-gang.json](./54573-street-gang.json) |
@@ -32795,7 +32790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subaru Poker | 131142 | [131142-subaru-poker.json](./131142-subaru-poker.json) |
 | subAtomic | 171783 | [171783-subatomic.json](./171783-subatomic.json) |
 | Subátor | 254484 | [254484-subator.json](./254484-subator.json) |
-| Subbuteo | 21457 | [21457-subbuteo.json](./21457-subbuteo.json) |
 | Subconscious | 177386 | [177386-subconscious.json](./177386-subconscious.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
 | Subcraft | 414718 | [414718-subcraft.json](./414718-subcraft.json) |
@@ -37078,7 +37072,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen T: Expansion Pack | 275062 | [275062-super-robot-taisen-t-expansion-pack.json](./275062-super-robot-taisen-t-expansion-pack.json) |
 | Super Robot Taisen T: Premium Anime Song & Sound Edition | 167089 | [167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json](./167089-super-robot-taisen-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Taisen UX | 6894 | [6894-super-robot-taisen-ux.json](./6894-super-robot-taisen-ux.json) |
-| Super Robot Taisen W | 21405 | [21405-super-robot-taisen-w.json](./21405-super-robot-taisen-w.json) |
 | Super Robot Taisen X-Ω | 57530 | [57530-super-robot-taisen-x.json](./57530-super-robot-taisen-x.json) |
 | Super Robot Taisen XO | 143417 | [143417-super-robot-taisen-xo.json](./143417-super-robot-taisen-xo.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
