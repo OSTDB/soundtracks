@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
 | Saikiri | 396610 | [396610-saikiri.json](./396610-saikiri.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
+| Saiko no Sutoka | 141288 | [141288-saiko-no-sutoka.json](./141288-saiko-no-sutoka.json) |
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
 | Saikoro Psycho | 153600 | [153600-saikoro-psycho.json](./153600-saikoro-psycho.json) |
 | Saikoro Saiko Sebunsu Hebun | 230320 | [230320-saikoro-saiko-sebunsu-hebun.json](./230320-saikoro-saiko-sebunsu-hebun.json) |
@@ -3114,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Hollow: Episode 3 | 377872 | [377872-scarlet-hollow-episode-3.json](./377872-scarlet-hollow-episode-3.json) |
 | Scarlet Hollow: Episode 4 | 377877 | [377877-scarlet-hollow-episode-4.json](./377877-scarlet-hollow-episode-4.json) |
 | Scarlet Hollow: Episode 5 | 377878 | [377878-scarlet-hollow-episode-5.json](./377878-scarlet-hollow-episode-5.json) |
+| Scarlet Hood and the Wicked Wood | 143814 | [143814-scarlet-hood-and-the-wicked-wood.json](./143814-scarlet-hood-and-the-wicked-wood.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
 | Scarlet Hunt | 346285 | [346285-scarlet-hunt.json](./346285-scarlet-hunt.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
@@ -14957,6 +14959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slappy Limbs | 239986 | [239986-slappy-limbs.json](./239986-slappy-limbs.json) |
 | Slappy Paddles | 250181 | [250181-slappy-paddles.json](./250181-slappy-paddles.json) |
+| Slappyball | 146346 | [146346-slappyball.json](./146346-slappyball.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot | 26245 | [26245-slapshot.json](./26245-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
@@ -19771,6 +19774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blast | 198604 | [198604-sonic-blast.json](./198604-sonic-blast.json) |
 | Sonic Blast | 202267 | [202267-sonic-blast.json](./202267-sonic-blast.json) |
 | Sonic Blast Heroes | 56326 | [56326-sonic-blast-heroes.json](./56326-sonic-blast-heroes.json) |
+| Sonic Blast Man | 144413 | [144413-sonic-blast-man.json](./144413-sonic-blast-man.json) |
 | Sonic Blast Man | 39804 | [39804-sonic-blast-man.json](./39804-sonic-blast-man.json) |
 | Sonic Blast Man: Real Puncher | 56327 | [56327-sonic-blast-man-real-puncher.json](./56327-sonic-blast-man-real-puncher.json) |
 | Sonic Blast Next | 388730 | [388730-sonic-blast-next.json](./388730-sonic-blast-next.json) |
@@ -23259,6 +23263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceGlider: Race For Time | 234498 | [234498-spaceglider-race-for-time.json](./234498-spaceglider-race-for-time.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
 | Spaceguard 80 | 103593 | [103593-spaceguard-80.json](./103593-spaceguard-80.json) |
+| Spacegulls | 145886 | [145886-spacegulls.json](./145886-spacegulls.json) |
 | Spaceguy | 86438 | [86438-spaceguy.json](./86438-spaceguy.json) |
 | Spaceguy 2 | 98334 | [98334-spaceguy-2.json](./98334-spaceguy-2.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
@@ -25444,6 +25449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splinter Cell: Blacklist Spider-Bot | 344900 | [344900-splinter-cell-blacklist-spider-bot.json](./344900-splinter-cell-blacklist-spider-bot.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
+| Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
 | Splinterra | 306375 | [306375-splinterra.json](./306375-splinterra.json) |
 | Splinters of Regret | 193410 | [193410-splinters-of-regret.json](./193410-splinters-of-regret.json) |
 | Split | 111484 | [111484-split.json](./111484-split.json) |
@@ -31668,6 +31674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Sheep: The Adventures of Poe and Merry | 142790 | [142790-stray-sheep-the-adventures-of-poe-and-merry.json](./142790-stray-sheep-the-adventures-of-poe-and-merry.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
 | Stray Sketch | 339657 | [339657-stray-sketch.json](./339657-stray-sketch.json) |
+| Stray Souls | 183474 | [183474-stray-souls.json](./183474-stray-souls.json) |
 | Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
 | Stray Souls: Dollhouse Story | 26025 | [26025-stray-souls-dollhouse-story.json](./26025-stray-souls-dollhouse-story.json) |
 | Stray Souls: Dollhouse Story - Collector's Edition | 85705 | [85705-stray-souls-dollhouse-story-collectors-edition.json](./85705-stray-souls-dollhouse-story-collectors-edition.json) |
@@ -34773,6 +34780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bishi Bashi Champ | 83419 | [83419-super-bishi-bashi-champ.json](./83419-super-bishi-bashi-champ.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
+| Super Bit Blaster XL | 124132 | [124132-super-bit-blaster-xl.json](./124132-super-bit-blaster-xl.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Bass | 207214 | [207214-super-black-bass.json](./207214-super-black-bass.json) |
 | Super Black Bass 3 | 44434 | [44434-super-black-bass-3.json](./44434-super-black-bass-3.json) |
@@ -35873,6 +35881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory | 17540 | [17540-super-lemonade-factory.json](./17540-super-lemonade-factory.json) |
 | Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
+| Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
@@ -39014,6 +39023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
 | Survival: Caged | 373455 | [373455-survival-caged.json](./373455-survival-caged.json) |
+| Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
 | Survival: Last Day | 101317 | [101317-survival-last-day.json](./101317-survival-last-day.json) |
