@@ -8680,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew Motorfest: JDM Custom Car Pack | 393736 | [393736-the-crew-motorfest-jdm-custom-car-pack.json](./393736-the-crew-motorfest-jdm-custom-car-pack.json) |
 | The Crew Motorfest: Year 1 Pass | 298706 | [298706-the-crew-motorfest-year-1-pass.json](./298706-the-crew-motorfest-year-1-pass.json) |
 | The Crew Road Empire | 420316 | [420316-the-crew-road-empire.json](./420316-the-crew-road-empire.json) |
+| The Crew: Calling All Units | 22855 | [22855-the-crew-calling-all-units.json](./22855-the-crew-calling-all-units.json) |
 | The Crew: Extreme Pack | 239350 | [239350-the-crew-extreme-pack.json](./239350-the-crew-extreme-pack.json) |
 | The Crew: Gold Edition | 53703 | [53703-the-crew-gold-edition.json](./53703-the-crew-gold-edition.json) |
 | The Crew: Motorfest - Alfa Romeo Double Car Pack | 408888 | [408888-the-crew-motorfest-alfa-romeo-double-car-pack.json](./408888-the-crew-motorfest-alfa-romeo-double-car-pack.json) |
@@ -22377,6 +22378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
 | These Remains | 261008 | [261008-these-remains.json](./261008-these-remains.json) |
+| These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | These Starless Skies | 409594 | [409594-these-starless-skies.json](./409594-these-starless-skies.json) |
 | These Thieving Hearts | 289966 | [289966-these-thieving-hearts.json](./289966-these-thieving-hearts.json) |
 | These Trees Are Spectral Fingers | 225450 | [225450-these-trees-are-spectral-fingers.json](./225450-these-trees-are-spectral-fingers.json) |
@@ -28549,6 +28551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Underworld | 381691 | [381691-tomb-raider-underworld.json](./381691-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 381692 | [381692-tomb-raider-underworld.json](./381692-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld - Beneath the Ashes | 23023 | [23023-tomb-raider-underworld-beneath-the-ashes.json](./23023-tomb-raider-underworld-beneath-the-ashes.json) |
+| Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Raider: Underworld - Limited Edition | 120162 | [120162-tomb-raider-underworld-limited-edition.json](./120162-tomb-raider-underworld-limited-edition.json) |
 | Tomb Reader: TrapLand | 103628 | [103628-tomb-reader-trapland.json](./103628-tomb-reader-trapland.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
@@ -29090,6 +29093,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
 | Top Gun: Guts and Glory | 22914 | [22914-top-gun-guts-and-glory.json](./22914-top-gun-guts-and-glory.json) |
+| Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
+| Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Gun: Maverick | 214804 | [214804-top-gun-maverick.json](./214804-top-gun-maverick.json) |
 | Top Gun: The Second Mission | 218926 | [218926-top-gun-the-second-mission.json](./218926-top-gun-the-second-mission.json) |
 | Top Gun: The Second Mission | 22911 | [22911-top-gun-the-second-mission.json](./22911-top-gun-the-second-mission.json) |
@@ -29404,6 +29409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tornado Outbreak | 5237 | [5237-tornado-outbreak.json](./5237-tornado-outbreak.json) |
 | Tornado Raid / Tornado Blade | 297722 | [297722-tornado-raid-tornado-blade.json](./297722-tornado-raid-tornado-blade.json) |
 | Tornado: Caballo Del Zorro | 372911 | [372911-tornado-caballo-del-zorro.json](./372911-tornado-caballo-del-zorro.json) |
+| Tornado: Low Level | 23052 | [23052-tornado-low-level.json](./23052-tornado-low-level.json) |
 | Tornado: Operation Desert Storm | 73725 | [73725-tornado-operation-desert-storm.json](./73725-tornado-operation-desert-storm.json) |
 | Tornado: Research and Rescue | 249891 | [249891-tornado-research-and-rescue.json](./249891-tornado-research-and-rescue.json) |
 | Tornado: The Secret of the Magic Cave | 416222 | [416222-tornado-the-secret-of-the-magic-cave.json](./416222-tornado-the-secret-of-the-magic-cave.json) |
@@ -34187,6 +34193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
 | Trashmageddon: Recycled | 397449 | [397449-trashmageddon-recycled.json](./397449-trashmageddon-recycled.json) |
+| Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashman | 28565 | [28565-trashman.json](./28565-trashman.json) |
 | Trashmania | 60872 | [60872-trashmania.json](./60872-trashmania.json) |
 | Trashmania After Dark | 61961 | [61961-trashmania-after-dark.json](./61961-trashmania-after-dark.json) |
