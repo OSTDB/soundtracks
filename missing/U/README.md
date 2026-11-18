@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugby Mumba 3 | 183092 | [183092-ugby-mumba-3.json](./183092-ugby-mumba-3.json) |
 | Ugetsu Kitan | 57362 | [57362-ugetsu-kitan.json](./57362-ugetsu-kitan.json) |
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
+| Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
 | Ugh! | 81518 | [81518-ugh.json](./81518-ugh.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
