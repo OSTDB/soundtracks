@@ -11226,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Monstrosity | 271444 | [271444-metal-monstrosity.json](./271444-metal-monstrosity.json) |
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
 | Metal Mutant | 10852 | [10852-metal-mutant.json](./10852-metal-mutant.json) |
+| Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
 | Metal Ninja | 222394 | [222394-metal-ninja.json](./222394-metal-ninja.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Planet | 17381 | [17381-metal-planet.json](./17381-metal-planet.json) |
@@ -22215,6 +22216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
+| Murderous Muses | 190478 | [190478-murderous-muses.json](./190478-murderous-muses.json) |
 | Murderous Sunlight | 390149 | [390149-murderous-sunlight.json](./390149-murderous-sunlight.json) |
 | Murders & Mistresses | 418705 | [418705-murders-and-mistresses.json](./418705-murders-and-mistresses.json) |
 | Murders at Tealwoods Manor | 215103 | [215103-murders-at-tealwoods-manor.json](./215103-murders-at-tealwoods-manor.json) |
