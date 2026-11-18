@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tambourine Tangerine | 315617 | [315617-tambourine-tangerine.json](./315617-tambourine-tangerine.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tame It! | 171755 | [171755-tame-it.json](./171755-tame-it.json) |
+| Tame Me Hard! | 415542 | [415542-tame-me-hard.json](./415542-tame-me-hard.json) |
 | Tame-a-goat-chi | 374642 | [374642-tame-a-goat-chi.json](./374642-tame-a-goat-chi.json) |
 | Tamed Faces Jigsaw Puzzle - Domesticated Animals | 89027 | [89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json](./89027-tamed-faces-jigsaw-puzzle-domesticated-animals.json) |
 | Tamed: Chapter 1 | 186497 | [186497-tamed-chapter-1.json](./186497-tamed-chapter-1.json) |
@@ -4843,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
 | Terminal squad: Swarmites | 128132 | [128132-terminal-squad-swarmites.json](./128132-terminal-squad-swarmites.json) |
 | Terminal Stages of Nostalgia | 259357 | [259357-terminal-stages-of-nostalgia.json](./259357-terminal-stages-of-nostalgia.json) |
+| Terminal Terror | 415533 | [415533-terminal-terror.json](./415533-terminal-terror.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
 | Terminal Theatre Soft | 264486 | [264486-terminal-theatre-soft.json](./264486-terminal-theatre-soft.json) |
 | Terminal Toads | 419892 | [419892-terminal-toads.json](./419892-terminal-toads.json) |
@@ -16851,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
 | The Pit Is Hungry | 418320 | [418320-the-pit-is-hungry.json](./418320-the-pit-is-hungry.json) |
+| The Pit Stop | 415534 | [415534-the-pit-stop.json](./415534-the-pit-stop.json) |
 | The PIT: Broken Bones | 119813 | [119813-the-pit-broken-bones.json](./119813-the-pit-broken-bones.json) |
 | The Pit: Infinity | 128068 | [128068-the-pit-infinity.json](./128068-the-pit-infinity.json) |
 | The Pit: Infinity - Healer | 168187 | [168187-the-pit-infinity-healer.json](./168187-the-pit-infinity-healer.json) |
@@ -17904,6 +17907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Six Crystal: A Hero's Journey | 363640 | [363640-the-sacred-six-crystal-a-heros-journey.json](./363640-the-sacred-six-crystal-a-heros-journey.json) |
 | The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
 | The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
+| The Sacrifice | 415530 | [415530-the-sacrifice.json](./415530-the-sacrifice.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
@@ -26031,6 +26035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless Paradox VR | 133200 | [133200-timeless-paradox-vr.json](./133200-timeless-paradox-vr.json) |
 | Timeless Rain | 249038 | [249038-timeless-rain.json](./249038-timeless-rain.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
+| Timeless Teapot | 416321 | [416321-timeless-teapot.json](./416321-timeless-teapot.json) |
 | Timeless Tesseract | 310497 | [310497-timeless-tesseract.json](./310497-timeless-tesseract.json) |
 | Timeless Valley | 333593 | [333593-timeless-valley.json](./333593-timeless-valley.json) |
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
