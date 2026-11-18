@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Rainbow | 4746 | [4746-captain-rainbow.json](./4746-captain-rainbow.json) |
 | Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
+| Captain Sabertooth and the Magic Diamond | 140673 | [140673-captain-sabertooth-and-the-magic-diamond.json](./140673-captain-sabertooth-and-the-magic-diamond.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
 | Captain Sabertooth and the Trials by Fire | 197832 | [197832-captain-sabertooth-and-the-trials-by-fire.json](./197832-captain-sabertooth-and-the-trials-by-fire.json) |
 | Captain Sabertooth: New Adventures | 200297 | [200297-captain-sabertooth-new-adventures.json](./200297-captain-sabertooth-new-adventures.json) |
@@ -10670,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Gangster Simulator | 339451 | [339451-city-gangster-simulator.json](./339451-city-gangster-simulator.json) |
 | City God Alice | 393599 | [393599-city-god-alice.json](./393599-city-god-alice.json) |
 | City Gridlock | 253988 | [253988-city-gridlock.json](./253988-city-gridlock.json) |
+| City Guesser | 140657 | [140657-city-guesser.json](./140657-city-guesser.json) |
 | City Heist | 325989 | [325989-city-heist.json](./325989-city-heist.json) |
 | City Hunter | 370192 | [370192-city-hunter.json](./370192-city-hunter.json) |
 | City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
@@ -15137,6 +15139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex | 273152 | [273152-complex.json](./273152-complex.json) |
 | Complex | 81892 | [81892-complex.json](./81892-complex.json) |
 | Complex Complex | 273924 | [273924-complex-complex.json](./273924-complex-complex.json) |
+| Complex Doom | 140651 | [140651-complex-doom.json](./140651-complex-doom.json) |
 | Complex Doom: Clusterfuck | 200979 | [200979-complex-doom-clusterfuck.json](./200979-complex-doom-clusterfuck.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
 | Complex Loop | 244599 | [244599-complex-loop.json](./244599-complex-loop.json) |
