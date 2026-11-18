@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
+| Dark Scrolls | 395294 | [395294-dark-scrolls.json](./395294-dark-scrolls.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Sea | 357529 | [357529-dark-sea.json](./357529-dark-sea.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
