@@ -9837,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
 | Shinseikatsu | 291198 | [291198-shinseikatsu.json](./291198-shinseikatsu.json) |
+| Shinseiki Evangelion 2: Evangelions | 72834 | [72834-shinseiki-evangelion-2-evangelions.json](./72834-shinseiki-evangelion-2-evangelions.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: 2nd Impression | 73729 | [73729-shinseiki-evangelion-2nd-impression.json](./73729-shinseiki-evangelion-2nd-impression.json) |
 | Shinseiki Evangelion: Koutetsu no Girlfriend | 23953 | [23953-shinseiki-evangelion-koutetsu-no-girlfriend.json](./23953-shinseiki-evangelion-koutetsu-no-girlfriend.json) |
@@ -11875,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Cleaning | 360230 | [360230-silent-cleaning.json](./360230-silent-cleaning.json) |
 | Silent Code | 301622 | [301622-silent-code.json](./301622-silent-code.json) |
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
+| Silent Death Online | 72837 | [72837-silent-death-online.json](./72837-silent-death-online.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
 | Silent Depth 3D Submarine Simulation | 107718 | [107718-silent-depth-3d-submarine-simulation.json](./107718-silent-depth-3d-submarine-simulation.json) |
@@ -18026,6 +18028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Academy Simulator | 240841 | [240841-soccer-academy-simulator.json](./240841-soccer-academy-simulator.json) |
 | Soccer Adventures | 139187 | [139187-soccer-adventures.json](./139187-soccer-adventures.json) |
 | Soccer America International Cup | 43307 | [43307-soccer-america-international-cup.json](./43307-soccer-america-international-cup.json) |
+| Soccer America International Cup | 72833 | [72833-soccer-america-international-cup.json](./72833-soccer-america-international-cup.json) |
 | Soccer Bashi | 66537 | [66537-soccer-bashi.json](./66537-soccer-bashi.json) |
 | Soccer Battle - PvP Football | 137333 | [137333-soccer-battle-pvp-football.json](./137333-soccer-battle-pvp-football.json) |
 | Soccer Battle Royale | 108973 | [108973-soccer-battle-royale.json](./108973-soccer-battle-royale.json) |
@@ -18710,6 +18713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
 | Soldier Collection | 62248 | [62248-soldier-collection.json](./62248-soldier-collection.json) |
 | Soldier Force | 280689 | [280689-soldier-force.json](./280689-soldier-force.json) |
+| Soldier Front | 72854 | [72854-soldier-front.json](./72854-soldier-front.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
 | Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
 | Soldier in the darkness | 150773 | [150773-soldier-in-the-darkness.json](./150773-soldier-in-the-darkness.json) |
@@ -20495,6 +20499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X Snake | 233053 | [233053-sonic-x-snake.json](./233053-sonic-x-snake.json) |
 | Sonic X TMNT: Score Party | 316505 | [316505-sonic-x-tmnt-score-party.json](./316505-sonic-x-tmnt-score-party.json) |
 | Sonic x Vapor | 233072 | [233072-sonic-x-vapor.json](./233072-sonic-x-vapor.json) |
+| Sonic X-treme | 72822 | [72822-sonic-x-treme.json](./72822-sonic-x-treme.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
 | Sonic X-Treme 2D | 332574 | [332574-sonic-x-treme-2d.json](./332574-sonic-x-treme-2d.json) |
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
@@ -24872,6 +24877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
+| Spinner Prologue | 72836 | [72836-spinner-prologue.json](./72836-spinner-prologue.json) |
 | Spinner Smash | 391387 | [391387-spinner-smash.json](./391387-spinner-smash.json) |
 | Spinner: Rogueblade | 347602 | [347602-spinner-rogueblade.json](./347602-spinner-rogueblade.json) |
 | Spinners | 309945 | [309945-spinners.json](./309945-spinners.json) |
@@ -31085,6 +31091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Pioneers of Olive Town Special | 197607 | [197607-story-of-seasons-pioneers-of-olive-town-special.json](./197607-story-of-seasons-pioneers-of-olive-town-special.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
+| Story of Seasons: The Tale of Two Towns+ | 72811 | [72811-story-of-seasons-the-tale-of-two-towns.json](./72811-story-of-seasons-the-tale-of-two-towns.json) |
 | Story of Seasons: Trio of Towns | 15910 | [15910-story-of-seasons-trio-of-towns.json](./15910-story-of-seasons-trio-of-towns.json) |
 | Story of Seasons: Untitled 2024 | 303822 | [303822-story-of-seasons-untitled-2024.json](./303822-story-of-seasons-untitled-2024.json) |
 | Story of Seasons: Your Wonderful Life | 419610 | [419610-story-of-seasons-your-wonderful-life.json](./419610-story-of-seasons-your-wonderful-life.json) |
@@ -37038,6 +37045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen 64 | 44056 | [44056-super-robot-taisen-64.json](./44056-super-robot-taisen-64.json) |
 | Super Robot Taisen A | 6623 | [6623-super-robot-taisen-a.json](./6623-super-robot-taisen-a.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
+| Super Robot Taisen Alpha | 72841 | [72841-super-robot-taisen-alpha.json](./72841-super-robot-taisen-alpha.json) |
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
 | Super Robot Taisen Alpha Gaiden | 44850 | [44850-super-robot-taisen-alpha-gaiden.json](./44850-super-robot-taisen-alpha-gaiden.json) |
 | Super Robot Taisen Compact | 37481 | [37481-super-robot-taisen-compact.json](./37481-super-robot-taisen-compact.json) |
@@ -37058,6 +37066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
 | Super Robot Taisen Mobile | 408404 | [408404-super-robot-taisen-mobile.json](./408404-super-robot-taisen-mobile.json) |
+| Super Robot Taisen MX | 72849 | [72849-super-robot-taisen-mx.json](./72849-super-robot-taisen-mx.json) |
 | Super Robot Taisen MX Portable | 38460 | [38460-super-robot-taisen-mx-portable.json](./38460-super-robot-taisen-mx-portable.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
