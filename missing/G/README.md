@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Alice: Kira-kira Memory Kiss | 204655 | [204655-gakuen-alice-kira-kira-memory-kiss.json](./204655-gakuen-alice-kira-kira-memory-kiss.json) |
 | Gakuen Alice: Waku-waku Happy Friends | 70676 | [70676-gakuen-alice-waku-waku-happy-friends.json](./70676-gakuen-alice-waku-waku-happy-friends.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
+| Gakuen Club | 31975 | [31975-gakuen-club.json](./31975-gakuen-club.json) |
 | Gakuen Club: Houkago no Himitsu | 145098 | [145098-gakuen-club-houkago-no-himitsu.json](./145098-gakuen-club-houkago-no-himitsu.json) |
 | Gakuen Handsome | 230342 | [230342-gakuen-handsome.json](./230342-gakuen-handsome.json) |
 | Gakuen Handsome Chocolate | 291925 | [291925-gakuen-handsome-chocolate.json](./291925-gakuen-handsome-chocolate.json) |
