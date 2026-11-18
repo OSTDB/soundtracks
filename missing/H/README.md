@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
 | Habroxia | 122654 | [122654-habroxia.json](./122654-habroxia.json) |
+| Habroxia 2: Limited Edition | 166242 | [166242-habroxia-2-limited-edition.json](./166242-habroxia-2-limited-edition.json) |
 | Habu Meijin no Omoshiro Shogi | 38013 | [38013-habu-meijin-no-omoshiro-shogi.json](./38013-habu-meijin-no-omoshiro-shogi.json) |
 | Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
@@ -411,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajiite! Block Rush | 344482 | [344482-hajiite-block-rush.json](./344482-hajiite-block-rush.json) |
 | Hajiki | 426004 | [426004-hajiki.json](./426004-hajiki.json) |
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
+| HajiLove: Making Lovers | 207922 | [207922-hajilove-making-lovers.json](./207922-hajilove-making-lovers.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
 | Hajime no Ippo: The Fighting! | 80746 | [80746-hajime-no-ippo-the-fighting.json](./80746-hajime-no-ippo-the-fighting.json) |
@@ -460,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakoniwa Bokujou Hitsuji Mura | 222102 | [222102-hakoniwa-bokujou-hitsuji-mura.json](./222102-hakoniwa-bokujou-hitsuji-mura.json) |
 | Hakoniwa Company Works | 27992 | [27992-hakoniwa-company-works.json](./27992-hakoniwa-company-works.json) |
 | Hakoniwa Electric | 399739 | [399739-hakoniwa-electric.json](./399739-hakoniwa-electric.json) |
+| Hakoniwa Explorer | 205170 | [205170-hakoniwa-explorer.json](./205170-hakoniwa-explorer.json) |
 | Hakoniwa Explorer Plus | 101606 | [101606-hakoniwa-explorer-plus.json](./101606-hakoniwa-explorer-plus.json) |
 | Hakoniwa Shou-ekiden 2 | 297749 | [297749-hakoniwa-shou-ekiden-2.json](./297749-hakoniwa-shou-ekiden-2.json) |
 | Hakoniwa Sumo | 161615 | [161615-hakoniwa-sumo.json](./161615-hakoniwa-sumo.json) |
@@ -940,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Montezuma: A Battle History of the United States Marine Corps | 12432 | [12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json](./12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json) |
 | Halls of Nyarlathotep | 373660 | [373660-halls-of-nyarlathotep.json](./373660-halls-of-nyarlathotep.json) |
 | Halls of the Dead: Faery Tale Adventure II | 2493 | [2493-halls-of-the-dead-faery-tale-adventure-ii.json](./2493-halls-of-the-dead-faery-tale-adventure-ii.json) |
+| Halls of The Goat Child | 262605 | [262605-halls-of-the-goat-child.json](./262605-halls-of-the-goat-child.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of the Void | 271347 | [271347-halls-of-the-void.json](./271347-halls-of-the-void.json) |
@@ -1442,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanarenga: Takumi no Utage | 338309 | [338309-hanarenga-takumi-no-utage.json](./338309-hanarenga-takumi-no-utage.json) |
 | Hanasaka Tenshi Tenten-kun no Beat Breaker | 228500 | [228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json](./228500-hanasaka-tenshi-tenten-kun-no-beat-breaker.json) |
 | Hanasaki Work Spring! | 143355 | [143355-hanasaki-work-spring.json](./143355-hanasaki-work-spring.json) |
+| Hanasaki Work Spring!: Limited Edition | 166253 | [166253-hanasaki-work-spring-limited-edition.json](./166253-hanasaki-work-spring-limited-edition.json) |
 | Hanasaku Manimani | 61521 | [61521-hanasaku-manimani.json](./61521-hanasaku-manimani.json) |
 | Hanasou | 285382 | [285382-hanasou.json](./285382-hanasou.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
@@ -6341,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Train | 389161 | [389161-hentai-train.json](./389161-hentai-train.json) |
 | Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
 | Hentai Two Girls | 284536 | [284536-hentai-two-girls.json](./284536-hentai-two-girls.json) |
+| Hentai Uni 2 | 258139 | [258139-hentai-uni-2.json](./258139-hentai-uni-2.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Uniform | 296951 | [296951-hentai-uniform.json](./296951-hentai-uniform.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
@@ -11370,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hope's Farm | 127000 | [127000-hopes-farm.json](./127000-hopes-farm.json) |
 | Hope's Farm 2 | 328116 | [328116-hopes-farm-2.json](./328116-hopes-farm-2.json) |
+| Hope's Final Defense | 258130 | [258130-hopes-final-defense.json](./258130-hopes-final-defense.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopebringers | 143898 | [143898-hopebringers.json](./143898-hopebringers.json) |
@@ -14324,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Knights: Battles | 75829 | [75829-hyper-knights-battles.json](./75829-hyper-knights-battles.json) |
 | Hyper Knights: Challenges | 155285 | [155285-hyper-knights-challenges.json](./155285-hyper-knights-challenges.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
+| Hyper Light Drifter: Collector's Edition | 196209 | [196209-hyper-light-drifter-collectors-edition.json](./196209-hyper-light-drifter-collectors-edition.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
 | Hyper Light Music | 123194 | [123194-hyper-light-music.json](./123194-hyper-light-music.json) |
