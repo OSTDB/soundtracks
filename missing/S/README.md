@@ -1977,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguine Oblation | 362793 | [362793-sanguine-oblation.json](./362793-sanguine-oblation.json) |
 | Sanguine Rose | 213261 | [213261-sanguine-rose.json](./213261-sanguine-rose.json) |
+| Sanguine Sanctum | 107916 | [107916-sanguine-sanctum.json](./107916-sanguine-sanctum.json) |
 | Sanguine Soul | 128168 | [128168-sanguine-soul.json](./128168-sanguine-soul.json) |
 | Sanguinite | 211872 | [211872-sanguinite.json](./211872-sanguinite.json) |
 | Sanguis Luna | 327535 | [327535-sanguis-luna.json](./327535-sanguis-luna.json) |
@@ -5727,11 +5728,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Columns II: The Voyage Through Time | 110059 | [110059-sega-ages-columns-ii-the-voyage-through-time.json](./110059-sega-ages-columns-ii-the-voyage-through-time.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
+| Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Memorial Selection Vol. 1 | 98648 | [98648-sega-ages-memorial-selection-vol-1.json](./98648-sega-ages-memorial-selection-vol-1.json) |
 | Sega Ages Memorial Selection Vol. 2 | 98647 | [98647-sega-ages-memorial-selection-vol-2.json](./98647-sega-ages-memorial-selection-vol-2.json) |
 | Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Phantasy Star | 109596 | [109596-sega-ages-phantasy-star.json](./109596-sega-ages-phantasy-star.json) |
 | Sega Ages Puyo Puyo | 113379 | [113379-sega-ages-puyo-puyo.json](./113379-sega-ages-puyo-puyo.json) |
+| Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Ages Virtua Racing | 110062 | [110062-sega-ages-virtua-racing.json](./110062-sega-ages-virtua-racing.json) |
 | Sega Ages Vol. 1: Shukudai ga Tant-R | 205203 | [205203-sega-ages-vol-1-shukudai-ga-tant-r.json](./205203-sega-ages-vol-1-shukudai-ga-tant-r.json) |
 | Sega Ages Vol. 10: Power Drift | 205209 | [205209-sega-ages-vol-10-power-drift.json](./205209-sega-ages-vol-10-power-drift.json) |
@@ -14663,6 +14666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyblock Infinite | 380725 | [380725-skyblock-infinite.json](./380725-skyblock-infinite.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
+| Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
 | Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
 | Skyborne Chronicles | 371007 | [371007-skyborne-chronicles.json](./371007-skyborne-chronicles.json) |
@@ -26054,6 +26058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Mix | 83685 | [83685-sports-mix.json](./83685-sports-mix.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
+| Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
 | Sports Party Motion Sensing Fitness Game | 309705 | [309705-sports-party-motion-sensing-fitness-game.json](./309705-sports-party-motion-sensing-fitness-game.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Scramble | 123205 | [123205-sports-scramble.json](./123205-sports-scramble.json) |
