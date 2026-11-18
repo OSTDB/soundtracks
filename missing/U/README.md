@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchikano: Living With My Lovers | 250485 | [250485-uchikano-living-with-my-lovers.json](./250485-uchikano-living-with-my-lovers.json) |
 | Uchu | 145507 | [145507-uchu.json](./145507-uchu.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
+| Uchu Shinshuchu | 147490 | [147490-uchu-shinshuchu.json](./147490-uchu-shinshuchu.json) |
 | Uchusen: Ultimate Ploid Battle | 159709 | [159709-uchusen-ultimate-ploid-battle.json](./159709-uchusen-ultimate-ploid-battle.json) |
 | Uchuu Bouken Shoujo Nami: Davie Jones - Umi no Akuma | 400501 | [400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json](./400501-uchuu-bouken-shoujo-nami-davie-jones-umi-no-akuma.json) |
 | Uchuu Daisakusen Choco Vader: Contactee | 158988 | [158988-uchuu-daisakusen-choco-vader-contactee.json](./158988-uchuu-daisakusen-choco-vader-contactee.json) |
@@ -1434,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock | 335034 | [335034-unblock.json](./335034-unblock.json) |
 | Unblock Ball | 353493 | [353493-unblock-ball.json](./353493-unblock-ball.json) |
 | Unblock Ball: Slide Puzzle | 99225 | [99225-unblock-ball-slide-puzzle.json](./99225-unblock-ball-slide-puzzle.json) |
+| Unblock Brick | 147488 | [147488-unblock-brick.json](./147488-unblock-brick.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
 | Unblock Gem | 36930 | [36930-unblock-gem.json](./36930-unblock-gem.json) |
 | Unblock Gridlock | 113285 | [113285-unblock-gridlock.json](./113285-unblock-gridlock.json) |
@@ -3430,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up All Night: Rumination | 225305 | [225305-up-all-night-rumination.json](./225305-up-all-night-rumination.json) |
 | Up and Down | 81949 | [81949-up-and-down.json](./81949-up-and-down.json) |
 | Up and Up | 102973 | [102973-up-and-up.json](./102973-up-and-up.json) |
+| Up Cliff Drive | 147486 | [147486-up-cliff-drive.json](./147486-up-cliff-drive.json) |
 | Up Down All-a-Round | 301871 | [301871-up-down-all-a-round.json](./301871-up-down-all-a-round.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
