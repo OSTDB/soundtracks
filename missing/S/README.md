@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: Next Encounter | 4103 | [4103-serious-sam-next-encounter.json](./4103-serious-sam-next-encounter.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Realm of Thoth | 400049 | [400049-serious-sam-realm-of-thoth.json](./400049-serious-sam-realm-of-thoth.json) |
+| Serious Sam: Shatterverse | 396022 | [396022-serious-sam-shatterverse.json](./396022-serious-sam-shatterverse.json) |
 | Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
@@ -6825,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's Number Journey | 44031 | [44031-sesame-street-elmos-number-journey.json](./44031-sesame-street-elmos-number-journey.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
+| Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
 | Sesame Street: Get Set to Learn | 70750 | [70750-sesame-street-get-set-to-learn.json](./70750-sesame-street-get-set-to-learn.json) |
 | Sesame Street: Let's Learn to Play Together | 59166 | [59166-sesame-street-lets-learn-to-play-together.json](./59166-sesame-street-lets-learn-to-play-together.json) |
 | Sesame Street: Let's Play School | 58391 | [58391-sesame-street-lets-play-school.json](./58391-sesame-street-lets-play-school.json) |
@@ -10599,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shooty Squad | 55420 | [55420-shooty-squad.json](./55420-shooty-squad.json) |
 | ShootyCraft | 417791 | [417791-shootycraft.json](./417791-shootycraft.json) |
+| Shop & Stuff: Supermarket Simulator | 397916 | [397916-shop-and-stuff-supermarket-simulator.json](./397916-shop-and-stuff-supermarket-simulator.json) |
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
@@ -20012,6 +20015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
+| Sonic Frontiers: Definitive Edition | 395887 | [395887-sonic-frontiers-definitive-edition.json](./395887-sonic-frontiers-definitive-edition.json) |
 | Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic Adventure 2 Shoes | 325364 | [325364-sonic-frontiers-sonic-adventure-2-shoes.json](./325364-sonic-frontiers-sonic-adventure-2-shoes.json) |
@@ -25473,6 +25477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splat! 2 | 416580 | [416580-splat-2.json](./416580-splat-2.json) |
 | Splatch! | 278038 | [278038-splatch.json](./278038-splatch.json) |
+| Splatchinko | 414085 | [414085-splatchinko.json](./414085-splatchinko.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
@@ -34265,6 +34270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned Hero | 258810 | [258810-summoned-hero.json](./258810-summoned-hero.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner | 320489 | [320489-summoner.json](./320489-summoner.json) |
+| Summoner 2 | 4186 | [4186-summoner-2.json](./4186-summoner-2.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
 | Summoner Arise! | 258239 | [258239-summoner-arise.json](./258239-summoner-arise.json) |
 | Summoner Fantasy | 241822 | [241822-summoner-fantasy.json](./241822-summoner-fantasy.json) |
@@ -39830,6 +39836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat Police | 39911 | [39911-swat-police.json](./39911-swat-police.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | Swat the Fly | 360925 | [360925-swat-the-fly.json](./360925-swat-the-fly.json) |
+| SWAT: Global Strike Team | 314 | [314-swat-global-strike-team.json](./314-swat-global-strike-team.json) |
 | SWAT: Special Weapons and Tactics | 48392 | [48392-swat-special-weapons-and-tactics.json](./48392-swat-special-weapons-and-tactics.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | SWAT: Urban Justice | 207004 | [207004-swat-urban-justice.json](./207004-swat-urban-justice.json) |
@@ -40288,6 +40295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | Swingers | 345811 | [345811-swingers.json](./345811-swingers.json) |
 | Swingers | 98116 | [98116-swingers.json](./98116-swingers.json) |
+| Swingerz Golf | 4192 | [4192-swingerz-golf.json](./4192-swingerz-golf.json) |
 | Swingggggg | 249424 | [249424-swingggggg.json](./249424-swingggggg.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin Swiggins | 30632 | [30632-swingin-swiggins.json](./30632-swingin-swiggins.json) |
