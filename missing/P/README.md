@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang Pang | 46827 | [46827-pang-pang.json](./46827-pang-pang.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
+| Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
 | Pang! 3 | 39510 | [39510-pang-3.json](./39510-pang-3.json) |
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Trail | 426435 | [426435-paper-trail.json](./426435-paper-trail.json) |
 | Paper Trails | 196964 | [196964-paper-trails.json](./196964-paper-trails.json) |
+| Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Rush | 422655 | [422655-paper-train-rush.json](./422655-paper-train-rush.json) |
 | Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
 | Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
@@ -4526,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelloche | 421280 | [421280-pelloche.json](./421280-pelloche.json) |
 | Pelmesh | 122583 | [122583-pelmesh.json](./122583-pelmesh.json) |
 | PelPet | 314979 | [314979-pelpet.json](./314979-pelpet.json) |
+| Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
 | Pemsa | 153320 | [153320-pemsa.json](./153320-pemsa.json) |
 | Pen 1 Grand Prix: Penguin no Mondai Special | 64532 | [64532-pen-1-grand-prix-penguin-no-mondai-special.json](./64532-pen-1-grand-prix-penguin-no-mondai-special.json) |
@@ -6997,6 +7000,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
+| Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
+| Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
+| Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross e5 | 79114 | [79114-picross-e5.json](./79114-picross-e5.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross e9 | 106692 | [106692-picross-e9.json](./106692-picross-e9.json) |
@@ -16782,6 +16788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismata: Founder's Edition DLC | 167920 | [167920-prismata-founders-edition-dlc.json](./167920-prismata-founders-edition-dlc.json) |
 | Prismatic Maze | 116471 | [116471-prismatic-maze.json](./116471-prismatic-maze.json) |
+| Prismatic Solid | 66305 | [66305-prismatic-solid.json](./66305-prismatic-solid.json) |
 | Prismatic: Nox's Gate | 337481 | [337481-prismatic-noxs-gate.json](./337481-prismatic-noxs-gate.json) |
 | Prismatica | 35033 | [35033-prismatica.json](./35033-prismatica.json) |
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
