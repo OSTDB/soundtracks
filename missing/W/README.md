@@ -6316,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy J Peso Presents: Save the Trees | 102858 | [102858-willy-j-peso-presents-save-the-trees.json](./102858-willy-j-peso-presents-save-the-trees.json) |
 | Willy Jetman: Astromonkey's Revenge | 127437 | [127437-willy-jetman-astromonkeys-revenge.json](./127437-willy-jetman-astromonkeys-revenge.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
+| Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Willy the Striker | 114719 | [114719-willy-the-striker.json](./114719-willy-the-striker.json) |
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy Tournament 2004 | 329999 | [329999-willy-tournament-2004.json](./329999-willy-tournament-2004.json) |
@@ -8085,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy | 212865 | [212865-wonder-boy.json](./212865-wonder-boy.json) |
 | Wonder Boy | 212885 | [212885-wonder-boy.json](./212885-wonder-boy.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
+| Wonder Boy Collection | 191754 | [191754-wonder-boy-collection.json](./191754-wonder-boy-collection.json) |
 | Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy III: The Dragon's Trap | 18277 | [18277-wonder-boy-iii-the-dragons-trap.json](./18277-wonder-boy-iii-the-dragons-trap.json) |
 | Wonder Boy in Monster Land | 212868 | [212868-wonder-boy-in-monster-land.json](./212868-wonder-boy-in-monster-land.json) |
@@ -9045,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Combat | 380513 | [380513-world-combat.json](./380513-world-combat.json) |
 | World Conqueror 1945 | 96617 | [96617-world-conqueror-1945.json](./96617-world-conqueror-1945.json) |
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
+| World Conqueror 3 | 14891 | [14891-world-conqueror-3.json](./14891-world-conqueror-3.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror 4 | 86872 | [86872-world-conqueror-4.json](./86872-world-conqueror-4.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
