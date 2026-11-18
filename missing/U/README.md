@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbeatable Wilderness | 111417 | [111417-unbeatable-wilderness.json](./111417-unbeatable-wilderness.json) |
 | Unbeatable: Breakout Edition | 402444 | [402444-unbeatable-breakout-edition.json](./402444-unbeatable-breakout-edition.json) |
 | Unbeatable: The Jamie Paige Content Companion | 408174 | [408174-unbeatable-the-jamie-paige-content-companion.json](./408174-unbeatable-the-jamie-paige-content-companion.json) |
+| Unbeatable: White Label | 146969 | [146969-unbeatable-white-label.json](./146969-unbeatable-white-label.json) |
 | Unbeknown | 59682 | [59682-unbeknown.json](./59682-unbeknown.json) |
 | Unbelievaboom! | 232815 | [232815-unbelievaboom.json](./232815-unbelievaboom.json) |
 | Unbeliever | 151431 | [151431-unbeliever.json](./151431-unbeliever.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Trail: In the name of the Strongest, 30 Hunters Forced to Evolve | 292936 | [292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json](./292936-unreal-trail-in-the-name-of-the-strongest-30-hunters-forced-to-evolve.json) |
 | Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unreal World | 250449 | [250449-unreal-world.json](./250449-unreal-world.json) |
+| UnReal World | 18283 | [18283-unreal-world.json](./18283-unreal-world.json) |
 | Unreal Wukong | 309843 | [309843-unreal-wukong.json](./309843-unreal-wukong.json) |
 | Unreal Zombies | 346552 | [346552-unreal-zombies.json](./346552-unreal-zombies.json) |
 | Unreal: Operation Na Pali | 261021 | [261021-unreal-operation-na-pali.json](./261021-unreal-operation-na-pali.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
 | Unusual Farm Operations | 335395 | [335395-unusual-farm-operations.json](./335395-unusual-farm-operations.json) |
+| Unusual Findings | 153890 | [153890-unusual-findings.json](./153890-unusual-findings.json) |
 | Unusual Ghost | 232008 | [232008-unusual-ghost.json](./232008-unusual-ghost.json) |
 | Unusual Night Shift | 248828 | [248828-unusual-night-shift.json](./248828-unusual-night-shift.json) |
 | Unusual Quest | 272885 | [272885-unusual-quest.json](./272885-unusual-quest.json) |
