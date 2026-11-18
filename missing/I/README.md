@@ -6253,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion...: Level 2 -The Upper Decks | 261475 | [261475-invasion-level-2-the-upper-decks.json](./261475-invasion-level-2-the-upper-decks.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
 | Invasive Species | 367507 | [367507-invasive-species.json](./367507-invasive-species.json) |
+| Invaxion | 109323 | [109323-invaxion.json](./109323-invaxion.json) |
 | Invector: Rhythm Galaxy | 252857 | [252857-invector-rhythm-galaxy.json](./252857-invector-rhythm-galaxy.json) |
 | Invector: Rhythm Galaxy - Spinnin' Song Pack | 272743 | [272743-invector-rhythm-galaxy-spinnin-song-pack.json](./272743-invector-rhythm-galaxy-spinnin-song-pack.json) |
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
