@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero point 2 | 39815 | [39815-zero-point-2.json](./39815-zero-point-2.json) |
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
+| Zero Punctuation: Hatfall - Hatters Gonna Hat Edition | 34447 | [34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json](./34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json) |
 | Zero Racers | 176043 | [176043-zero-racers.json](./176043-zero-racers.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie I Scream | 63540 | [63540-zombie-i-scream.json](./63540-zombie-i-scream.json) |
 | Zombie in my city | 29451 | [29451-zombie-in-my-city.json](./29451-zombie-in-my-city.json) |
 | Zombie In Town | 164976 | [164976-zombie-in-town.json](./164976-zombie-in-town.json) |
+| Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Incursion | 102047 | [102047-zombie-incursion.json](./102047-zombie-incursion.json) |
 | Zombie Infection | 18885 | [18885-zombie-infection.json](./18885-zombie-infection.json) |
 | Zombie Infection | 223014 | [223014-zombie-infection.json](./223014-zombie-infection.json) |
