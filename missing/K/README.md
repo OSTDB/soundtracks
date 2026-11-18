@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
+| Kaiju-ou Godzilla | 72803 | [72803-kaiju-ou-godzilla.json](./72803-kaiju-ou-godzilla.json) |
 | Kaijuland | 63788 | [63788-kaijuland.json](./63788-kaijuland.json) |
 | Kaijuland Battles | 64141 | [64141-kaijuland-battles.json](./64141-kaijuland-battles.json) |
 | Kaijuu Busters Powered | 59158 | [59158-kaijuu-busters-powered.json](./59158-kaijuu-busters-powered.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane & Lynch: Dead Men | 76714 | [76714-kane-and-lynch-dead-men.json](./76714-kane-and-lynch-dead-men.json) |
 | Kane 2 | 18889 | [18889-kane-2.json](./18889-kane-2.json) |
 | Kane County | 59704 | [59704-kane-county.json](./59704-kane-county.json) |
+| Kane II | 41024 | [41024-kane-ii.json](./41024-kane-ii.json) |
 | Kane no naru Ki | 298287 | [298287-kane-no-naru-ki.json](./298287-kane-no-naru-ki.json) |
 | Kane TV: The Game | 316332 | [316332-kane-tv-the-game.json](./316332-kane-tv-the-game.json) |
 | Kane's Advocacy | 384421 | [384421-kanes-advocacy.json](./384421-kanes-advocacy.json) |
@@ -1216,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
 | Karporam | 291957 | [291957-karporam.json](./291957-karporam.json) |
 | Karpov | 242957 | [242957-karpov.json](./242957-karpov.json) |
+| Karradash: The Lost Dungeons | 55412 | [55412-karradash-the-lost-dungeons.json](./55412-karradash-the-lost-dungeons.json) |
 | Karryn's Prison | 127475 | [127475-karryns-prison.json](./127475-karryns-prison.json) |
 | Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 297322 | [297322-karsus.json](./297322-karsus.json) |
@@ -2981,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
+| Killer Bees! | 22728 | [22728-killer-bees.json](./22728-killer-bees.json) |
 | Killer Bunny | 249427 | [249427-killer-bunny.json](./249427-killer-bunny.json) |
 | Killer Chat: Extended Edition | 318670 | [318670-killer-chat-extended-edition.json](./318670-killer-chat-extended-edition.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
@@ -3235,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Boku to Hitorigoto | 314817 | [314817-kimi-to-boku-to-hitorigoto.json](./314817-kimi-to-boku-to-hitorigoto.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Kanojo no Lily Vaganza | 316670 | [316670-kimi-to-kanojo-no-lily-vaganza.json](./316670-kimi-to-kanojo-no-lily-vaganza.json) |
+| Kimi to Kiri no Labyrinth | 51452 | [51452-kimi-to-kiri-no-labyrinth.json](./51452-kimi-to-kiri-no-labyrinth.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Koishite, Soshite Sotsugyou Suru | 395153 | [395153-kimi-to-koishite-soshite-sotsugyou-suru.json](./395153-kimi-to-koishite-soshite-sotsugyou-suru.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
@@ -3493,7 +3498,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Casino | 42105 | [42105-king-of-casino.json](./42105-king-of-casino.json) |
 | King of Clubs | 4958 | [4958-king-of-clubs.json](./4958-king-of-clubs.json) |
+| King of Colosseum Green | 72817 | [72817-king-of-colosseum-green.json](./72817-king-of-colosseum-green.json) |
 | King of Colosseum II | 43676 | [43676-king-of-colosseum-ii.json](./43676-king-of-colosseum-ii.json) |
+| King of Colosseum Red | 72818 | [72818-king-of-colosseum-red.json](./72818-king-of-colosseum-red.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
 | King of Crabs | 133077 | [133077-king-of-crabs.json](./133077-king-of-crabs.json) |
@@ -3818,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Fall: Dawn of the Druid | 175635 | [175635-kingdom-fall-dawn-of-the-druid.json](./175635-kingdom-fall-dawn-of-the-druid.json) |
 | Kingdom Flipper | 325539 | [325539-kingdom-flipper.json](./325539-kingdom-flipper.json) |
 | Kingdom Fortress | 337293 | [337293-kingdom-fortress.json](./337293-kingdom-fortress.json) |
+| Kingdom Grand Prix | 46807 | [46807-kingdom-grand-prix.json](./46807-kingdom-grand-prix.json) |
 | Kingdom Grandprix | 136574 | [136574-kingdom-grandprix.json](./136574-kingdom-grandprix.json) |
 | Kingdom Guard | 194919 | [194919-kingdom-guard.json](./194919-kingdom-guard.json) |
 | Kingdom Gun | 142645 | [142645-kingdom-gun.json](./142645-kingdom-gun.json) |
@@ -4598,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Panic | 109082 | [109082-kitchen-panic.json](./109082-kitchen-panic.json) |
 | Kitchen Quest | 265507 | [265507-kitchen-quest.json](./265507-kitchen-quest.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
+| Kitchen Simulator 2 | 55363 | [55363-kitchen-simulator-2.json](./55363-kitchen-simulator-2.json) |
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Swipe | 235057 | [235057-kitchen-swipe.json](./235057-kitchen-swipe.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
