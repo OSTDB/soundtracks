@@ -14375,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossals | 127686 | [127686-colossals.json](./127686-colossals.json) |
 | Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
+| Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
 | Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
 | Colosseum | 13504 | [13504-colosseum.json](./13504-colosseum.json) |
 | Colosseum | 320834 | [320834-colosseum.json](./320834-colosseum.json) |
@@ -23999,6 +24000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher | 86479 | [86479-cypher.json](./86479-cypher.json) |
 | Cypher 007 | 265647 | [265647-cypher-007.json](./265647-cypher-007.json) |
 | Cypher Override | 417490 | [417490-cypher-override.json](./417490-cypher-override.json) |
+| Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
 | Cypher: Cyberpunk Text Adventure - Collector's Edition | 52330 | [52330-cypher-cyberpunk-text-adventure-collectors-edition.json](./52330-cypher-cyberpunk-text-adventure-collectors-edition.json) |
 | Cypher: Cyberpunk Text Adventure - Deluxe Edition | 52329 | [52329-cypher-cyberpunk-text-adventure-deluxe-edition.json](./52329-cypher-cyberpunk-text-adventure-deluxe-edition.json) |
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
