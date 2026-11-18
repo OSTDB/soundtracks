@@ -2979,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminate | 80700 | [80700-eliminate.json](./80700-eliminate.json) |
 | Eliminate Down | 46176 | [46176-eliminate-down.json](./46176-eliminate-down.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
+| Eliminate Pro | 79396 | [79396-eliminate-pro.json](./79396-eliminate-pro.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
@@ -6565,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape! | 89659 | [89659-escape.json](./89659-escape.json) |
 | Escape! Skeleton.J | 254409 | [254409-escape-skeleton-j.json](./254409-escape-skeleton-j.json) |
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
+| Escape! Zombie City | 85649 | [85649-escape-zombie-city.json](./85649-escape-zombie-city.json) |
 | Escape!! | 237219 | [237219-escape.json](./237219-escape.json) |
 | Escape!!! | 213526 | [213526-escape.json](./213526-escape.json) |
 | Escape!VR -Above the Clouds- | 75969 | [75969-escape-vr-above-the-clouds.json](./75969-escape-vr-above-the-clouds.json) |
@@ -8373,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evochron Renegades | 15117 | [15117-evochron-renegades.json](./15117-evochron-renegades.json) |
 | EvoCreo | 38064 | [38064-evocreo.json](./38064-evocreo.json) |
 | Evocreo II | 335808 | [335808-evocreo-ii.json](./335808-evocreo-ii.json) |
+| Evofish | 85652 | [85652-evofish.json](./85652-evofish.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoids | 331434 | [331434-evoids.json](./331434-evoids.json) |
 | Evoke | 111613 | [111613-evoke.json](./111613-evoke.json) |
