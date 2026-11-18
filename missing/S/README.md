@@ -19668,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure: SRB2 | 330336 | [330336-sonic-adventure-srb2.json](./330336-sonic-adventure-srb2.json) |
 | Sonic Adventures Revisited | 316335 | [316335-sonic-adventures-revisited.json](./316335-sonic-adventures-revisited.json) |
 | Sonic After the Sequel DX | 370295 | [370295-sonic-after-the-sequel-dx.json](./370295-sonic-after-the-sequel-dx.json) |
+| Sonic After the Sequel: Rebirth | 399753 | [399753-sonic-after-the-sequel-rebirth.json](./399753-sonic-after-the-sequel-rebirth.json) |
 | Sonic AGES | 316899 | [316899-sonic-ages.json](./316899-sonic-ages.json) |
 | Sonic All Mix | 326155 | [326155-sonic-all-mix.json](./326155-sonic-all-mix.json) |
 | Sonic All-Stars | 321061 | [321061-sonic-all-stars.json](./321061-sonic-all-stars.json) |
@@ -21241,6 +21242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
+| Soul Sorter: A Morality Personality Test | 398612 | [398612-soul-sorter-a-morality-personality-test.json](./398612-soul-sorter-a-morality-personality-test.json) |
 | Soul Spa: Hot Aura | 235018 | [235018-soul-spa-hot-aura.json](./235018-soul-spa-hot-aura.json) |
 | Soul Split | 191838 | [191838-soul-split.json](./191838-soul-split.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
@@ -26821,6 +26823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack & Brew | 426358 | [426358-stack-and-brew.json](./426358-stack-and-brew.json) |
 | Stack & Crack | 87030 | [87030-stack-and-crack.json](./87030-stack-and-crack.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
+| Stack & Sort Pals | 398609 | [398609-stack-and-sort-pals.json](./398609-stack-and-sort-pals.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
 | Stack & the Grumblepuff from Above | 286334 | [286334-stack-and-the-grumblepuff-from-above.json](./286334-stack-and-the-grumblepuff-from-above.json) |
 | Stack Attack | 134168 | [134168-stack-attack.json](./134168-stack-attack.json) |
@@ -27029,6 +27032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stamp | 193009 | [193009-stamp.json](./193009-stamp.json) |
+| Stamp | 398571 | [398571-stamp.json](./398571-stamp.json) |
 | Stamp Boy | 118080 | [118080-stamp-boy.json](./118080-stamp-boy.json) |
 | Stamp Collector | 406140 | [406140-stamp-collector.json](./406140-stamp-collector.json) |
 | Stamp Smash | 82184 | [82184-stamp-smash.json](./82184-stamp-smash.json) |
@@ -30089,6 +30093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Season 10 | 400730 | [400730-stellaris-season-10.json](./400730-stellaris-season-10.json) |
 | Stellaris: Shadows of the Shroud | 336603 | [336603-stellaris-shadows-of-the-shroud.json](./336603-stellaris-shadows-of-the-shroud.json) |
 | Stellaris: Stargazer Species Portrait | 402121 | [402121-stellaris-stargazer-species-portrait.json](./402121-stellaris-stargazer-species-portrait.json) |
+| Stellaris: Starter Edition | 401947 | [401947-stellaris-starter-edition.json](./401947-stellaris-starter-edition.json) |
 | Stellaris: Synthetic Dawn | 54528 | [54528-stellaris-synthetic-dawn.json](./54528-stellaris-synthetic-dawn.json) |
 | Stellaris: The Machine Age | 291611 | [291611-stellaris-the-machine-age.json](./291611-stellaris-the-machine-age.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
@@ -37279,6 +37284,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shaking Girl!!! | 311520 | [311520-super-shaking-girl.json](./311520-super-shaking-girl.json) |
 | Super Shanghai 2005 | 64253 | [64253-super-shanghai-2005.json](./64253-super-shanghai-2005.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
+| Super Shanghai: Dragon's Eye | 406347 | [406347-super-shanghai-dragons-eye.json](./406347-super-shanghai-dragons-eye.json) |
+| Super Shanghai: Dragon's Eye | 406348 | [406348-super-shanghai-dragons-eye.json](./406348-super-shanghai-dragons-eye.json) |
 | Super Shanghai: Dragon's Eye | 78447 | [78447-super-shanghai-dragons-eye.json](./78447-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Shape Shooter | 146820 | [146820-super-shape-shooter.json](./146820-super-shape-shooter.json) |
@@ -40196,6 +40203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switcheroo! | 179325 | [179325-switcheroo.json](./179325-switcheroo.json) |
+| Switcheroom | 399919 | [399919-switcheroom.json](./399919-switcheroom.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchquiz | 71302 | [71302-switchquiz.json](./71302-switchquiz.json) |
