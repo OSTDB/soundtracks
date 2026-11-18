@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naraka: Bladepoint - Ultimate Edition | 207939 | [207939-naraka-bladepoint-ultimate-edition.json](./207939-naraka-bladepoint-ultimate-edition.json) |
 | Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
+| Naraku no Shiro Portable Ichiyanagi Nagomu, Nidome no Junan | 196213 | [196213-naraku-no-shiro-portable-ichiyanagi-nagomu-nidome-no-junan.json](./196213-naraku-no-shiro-portable-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Naratha | 272962 | [272962-naratha.json](./272962-naratha.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
@@ -4239,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
+| NG: Experience Selection | 166251 | [166251-ng-experience-selection.json](./166251-ng-experience-selection.json) |
 | NGE: VR | 320500 | [320500-nge-vr.json](./320500-nge-vr.json) |
 | NGen Racing | 92727 | [92727-ngen-racing.json](./92727-ngen-racing.json) |
 | NGL Biathlon 2026 | 178185 | [178185-ngl-biathlon-2026.json](./178185-ngl-biathlon-2026.json) |
@@ -5864,6 +5866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
 | Ninja Nightfall | 394573 | [394573-ninja-nightfall.json](./394573-ninja-nightfall.json) |
 | Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
+| Ninja Noboken | 196218 | [196218-ninja-noboken.json](./196218-ninja-noboken.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
 | Ninja Online | 58607 | [58607-ninja-online.json](./58607-ninja-online.json) |
 | Ninja or Die 2 Die | 402677 | [402677-ninja-or-die-2-die.json](./402677-ninja-or-die-2-die.json) |
@@ -7490,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norbert's Diary | 309800 | [309800-norberts-diary.json](./309800-norberts-diary.json) |
+| Norco: Special Edition | 196196 | [196196-norco-special-edition.json](./196196-norco-special-edition.json) |
 | Nord | 18949 | [18949-nord.json](./18949-nord.json) |
 | Nord and Bert Couldn't Make Head or Tail of It | 12619 | [12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json](./12619-nord-and-bert-couldnt-make-head-or-tail-of-it.json) |
 | Nordenfelt | 33883 | [33883-nordenfelt.json](./33883-nordenfelt.json) |
