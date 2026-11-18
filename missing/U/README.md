@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimuh MCMLXVII: Part 2 of the 39th Trilogy - The Quest for the Golden Amulet | 73462 | [73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json](./73462-ultimuh-mcmlxvii-part-2-of-the-39th-trilogy-the-quest-for-the-golden-amulet.json) |
 | Ultimus | 267425 | [267425-ultimus.json](./267425-ultimus.json) |
 | Ultimus bellum | 74703 | [74703-ultimus-bellum.json](./74703-ultimus-bellum.json) |
+| Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultizurk III: The GuildMaster's Quest | 233133 | [233133-ultizurk-iii-the-guildmasters-quest.json](./233133-ultizurk-iii-the-guildmasters-quest.json) |
 | Ulton's Quest | 258386 | [258386-ultons-quest.json](./258386-ultons-quest.json) |
