@@ -7642,7 +7642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Red Moon Rising | 329870 | [329870-eve-online-red-moon-rising.json](./329870-eve-online-red-moon-rising.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Retribution | 329799 | [329799-eve-online-retribution.json](./329799-eve-online-retribution.json) |
-| Eve Online: Revelations | 21391 | [21391-eve-online-revelations.json](./21391-eve-online-revelations.json) |
 | Eve Online: Revelations II | 329872 | [329872-eve-online-revelations-ii.json](./329872-eve-online-revelations-ii.json) |
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
 | Eve Online: Rubicon | 329906 | [329906-eve-online-rubicon.json](./329906-eve-online-rubicon.json) |
@@ -7914,7 +7913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
 | EverQuest II: Kunark Ascending | 80072 | [80072-everquest-ii-kunark-ascending.json](./80072-everquest-ii-kunark-ascending.json) |
 | EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
-| EverQuest II: Rise of Kunark | 21510 | [21510-everquest-ii-rise-of-kunark.json](./21510-everquest-ii-rise-of-kunark.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
 | EverQuest II: Tears of Veeshan | 63062 | [63062-everquest-ii-tears-of-veeshan.json](./63062-everquest-ii-tears-of-veeshan.json) |
 | EverQuest II: Terrors of Thalumbra | 80071 | [80071-everquest-ii-terrors-of-thalumbra.json](./80071-everquest-ii-terrors-of-thalumbra.json) |
