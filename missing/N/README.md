@@ -6697,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rage Quit Dude | 190180 | [190180-no-rage-quit-dude.json](./190180-no-rage-quit-dude.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
+| No Reason To Climb | 386739 | [386739-no-reason-to-climb.json](./386739-no-reason-to-climb.json) |
 | No Recollection | 270075 | [270075-no-recollection.json](./270075-no-recollection.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Register | 405713 | [405713-no-register.json](./405713-no-register.json) |
