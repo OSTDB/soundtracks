@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced Lawnmower Simulator | 142432 | [142432-advanced-lawnmower-simulator.json](./142432-advanced-lawnmower-simulator.json) |
+| Advanced Lawnmower Simulator | 365329 | [365329-advanced-lawnmower-simulator.json](./365329-advanced-lawnmower-simulator.json) |
 | Advanced Lord Monarch | 130548 | [130548-advanced-lord-monarch.json](./130548-advanced-lord-monarch.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Ninja | 417803 | [417803-advanced-ninja.json](./417803-advanced-ninja.json) |
@@ -4801,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
 | Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
+| Aerocube | 369781 | [369781-aerocube.json](./369781-aerocube.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
 | AeroFighters Assault | 47677 | [47677-aerofighters-assault.json](./47677-aerofighters-assault.json) |
 | aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
@@ -5918,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
+| Aghori | 351282 | [351282-aghori.json](./351282-aghori.json) |
 | Agi Gongnyong Dooly | 78995 | [78995-agi-gongnyong-dooly.json](./78995-agi-gongnyong-dooly.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Cube | 416183 | [416183-agile-cube.json](./416183-agile-cube.json) |
@@ -6041,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Aha! Spot the Change Brain Teaser | 342329 | [342329-aha-spot-the-change-brain-teaser.json](./342329-aha-spot-the-change-brain-teaser.json) |
+| Ahanar | 351293 | [351293-ahanar.json](./351293-ahanar.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahead | 161704 | [161704-ahead.json](./161704-ahead.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
@@ -9262,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
 | Alphaset by Powgi | 140411 | [140411-alphaset-by-powgi.json](./140411-alphaset-by-powgi.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
+| Alphattack | 346829 | [346829-alphattack.json](./346829-alphattack.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
 | Alphie the Squid | 228187 | [228187-alphie-the-squid.json](./228187-alphie-the-squid.json) |
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
@@ -13623,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
+| Apocalypse of the Universe | 346837 | [346837-apocalypse-of-the-universe.json](./346837-apocalypse-of-the-universe.json) |
 | Apocalypse Party | 277650 | [277650-apocalypse-party.json](./277650-apocalypse-party.json) |
 | Apocalypse Party & 20 Minutes Till Dawn: Free Thanking DLC | 283940 | [283940-apocalypse-party-and-20-minutes-till-dawn-free-thanking-dlc.json](./283940-apocalypse-party-and-20-minutes-till-dawn-free-thanking-dlc.json) |
 | Apocalypse PD! | 355961 | [355961-apocalypse-pd.json](./355961-apocalypse-pd.json) |
@@ -15421,6 +15427,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect | 236091 | [236091-architect.json](./236091-architect.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
+| Architect Life: Architect's Home Office | 351289 | [351289-architect-life-architects-home-office.json](./351289-architect-life-architects-home-office.json) |
+| Architect Life: Hobbies Pack | 351290 | [351290-architect-life-hobbies-pack.json](./351290-architect-life-hobbies-pack.json) |
+| Architect Life: Sketch House Pack | 351288 | [351288-architect-life-sketch-house-pack.json](./351288-architect-life-sketch-house-pack.json) |
 | Architect of Ruin | 369990 | [369990-architect-of-ruin.json](./369990-architect-of-ruin.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
 | Architect Simulator | 303345 | [303345-architect-simulator.json](./303345-architect-simulator.json) |
@@ -16996,6 +17005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
 | Arthurian Legends | 174382 | [174382-arthurian-legends.json](./174382-arthurian-legends.json) |
 | Articrafty | 329860 | [329860-articrafty.json](./329860-articrafty.json) |
+| Articrow | 357476 | [357476-articrow.json](./357476-articrow.json) |
 | Artifact | 288042 | [288042-artifact.json](./288042-artifact.json) |
 | Artifact | 54572 | [54572-artifact.json](./54572-artifact.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
@@ -18240,6 +18250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix Maxi Collection | 331410 | [331410-asterix-maxi-collection.json](./331410-asterix-maxi-collection.json) |
 | Astérix und Obélix: Die Odyssee | 347938 | [347938-asterix-und-obelix-die-odyssee.json](./347938-asterix-und-obelix-die-odyssee.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
+| Asterix: Hunt for the Boars | 363579 | [363579-asterix-hunt-for-the-boars.json](./363579-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 305276 | [305276-asterix-hunt-for-the-boars.json](./305276-asterix-hunt-for-the-boars.json) |
 | Astérix: Hunt for the Boars | 347903 | [347903-asterix-hunt-for-the-boars.json](./347903-asterix-hunt-for-the-boars.json) |
 | Astérix: Mega Madness | 43869 | [43869-asterix-mega-madness.json](./43869-asterix-mega-madness.json) |
@@ -19901,6 +19912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
+| Attic Archive | 365312 | [365312-attic-archive.json](./365312-attic-archive.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
