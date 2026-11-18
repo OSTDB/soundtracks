@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sackgasse: The Last Resort | 149527 | [149527-sackgasse-the-last-resort.json](./149527-sackgasse-the-last-resort.json) |
 | Sackman se-X | 82125 | [82125-sackman-se-x.json](./82125-sackman-se-x.json) |
 | Sacra Terra: Angelic Night | 53564 | [53564-sacra-terra-angelic-night.json](./53564-sacra-terra-angelic-night.json) |
+| Sacra Terra: Angelic Night - Collector's Edition | 25475 | [25475-sacra-terra-angelic-night-collectors-edition.json](./25475-sacra-terra-angelic-night-collectors-edition.json) |
 | Sacra Terra: Kiss of Death | 52810 | [52810-sacra-terra-kiss-of-death.json](./52810-sacra-terra-kiss-of-death.json) |
 | Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
 | Seina: a Tale Of Spirits | 380792 | [380792-seina-a-tale-of-spirits.json](./380792-seina-a-tale-of-spirits.json) |
+| Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seinarukana Gaiden - Seirei Tenshou ~Crystal Friends~ | 63448 | [63448-seinarukana-gaiden-seirei-tenshou-crystal-friends.json](./63448-seinarukana-gaiden-seirei-tenshou-crystal-friends.json) |
 | Seinarukana Special Fan Disc | 63450 | [63450-seinarukana-special-fan-disc.json](./63450-seinarukana-special-fan-disc.json) |
 | Seinfeld: The Telltale Series | 144119 | [144119-seinfeld-the-telltale-series.json](./144119-seinfeld-the-telltale-series.json) |
@@ -22902,6 +22904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers HD: A War Apart | 7594 | [7594-space-rangers-hd-a-war-apart.json](./7594-space-rangers-hd-a-war-apart.json) |
 | Space Rangers: Episode 46 - The Devil Within | 171780 | [171780-space-rangers-episode-46-the-devil-within.json](./171780-space-rangers-episode-46-the-devil-within.json) |
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
+| Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space Rangers: Quest and Space Rangers HD | 53647 | [53647-space-rangers-quest-and-space-rangers-hd.json](./53647-space-rangers-quest-and-space-rangers-hd.json) |
 | Space Rat | 179772 | [179772-space-rat.json](./179772-space-rat.json) |
 | Space Rats | 155767 | [155767-space-rats.json](./155767-space-rats.json) |
@@ -26384,6 +26387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spuds Unearthed | 113161 | [113161-spuds-unearthed.json](./113161-spuds-unearthed.json) |
 | Spuk im Wirtshaus | 92257 | [92257-spuk-im-wirtshaus.json](./92257-spuk-im-wirtshaus.json) |
 | Spunch Bob and Krabsburger Secret | 334911 | [334911-spunch-bob-and-krabsburger-secret.json](./334911-spunch-bob-and-krabsburger-secret.json) |
+| Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | SpunkStock | 192503 | [192503-spunkstock.json](./192503-spunkstock.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
@@ -27462,6 +27466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Defence | 249570 | [249570-star-defence.json](./249570-star-defence.json) |
 | Star Defender | 78896 | [78896-star-defender.json](./78896-star-defender.json) |
 | Star Defender 2 | 54396 | [54396-star-defender-2.json](./54396-star-defender-2.json) |
+| Star Defender 3 | 25478 | [25478-star-defender-3.json](./25478-star-defender-3.json) |
 | Star Defender 4 | 304060 | [304060-star-defender-4.json](./304060-star-defender-4.json) |
 | Star Defenders | 195070 | [195070-star-defenders.json](./195070-star-defenders.json) |
 | Star Defense | 90910 | [90910-star-defense.json](./90910-star-defense.json) |
@@ -30195,6 +30200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Odyssey | 415740 | [415740-stellar-odyssey.json](./415740-stellar-odyssey.json) |
 | Stellar Orphans | 290374 | [290374-stellar-orphans.json](./290374-stellar-orphans.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
+| Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
 | Stellar Poetry | 333954 | [333954-stellar-poetry.json](./333954-stellar-poetry.json) |
 | Stellar Propeller | 211788 | [211788-stellar-propeller.json](./211788-stellar-propeller.json) |
 | Stellar Raid | 149212 | [149212-stellar-raid.json](./149212-stellar-raid.json) |
@@ -38853,6 +38859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 1936 | 16574 | [16574-supreme-ruler-1936.json](./16574-supreme-ruler-1936.json) |
 | Supreme Ruler 2010 | 15106 | [15106-supreme-ruler-2010.json](./15106-supreme-ruler-2010.json) |
 | Supreme Ruler 2020 | 2024 | [2024-supreme-ruler-2020.json](./2024-supreme-ruler-2020.json) |
+| Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2020: Global Crisis | 26931 | [26931-supreme-ruler-2020-global-crisis.json](./26931-supreme-ruler-2020-global-crisis.json) |
 | Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
