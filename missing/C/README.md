@@ -2856,7 +2856,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
-| Card Sharks | 92862 | [92862-card-sharks.json](./92862-card-sharks.json) |
 | Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
@@ -5011,7 +5010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catass | 254758 | [254758-catass.json](./254758-catass.json) |
 | Catast | 274548 | [274548-catast.json](./274548-catast.json) |
 | Catastrofia | 425210 | [425210-catastrofia.json](./425210-catastrofia.json) |
-| Catastronauts | 96322 | [96322-catastronauts.json](./96322-catastronauts.json) |
 | Catastrophe | 203935 | [203935-catastrophe.json](./203935-catastrophe.json) |
 | Catastrophe | 380059 | [380059-catastrophe.json](./380059-catastrophe.json) |
 | Catastrophe Crow | 304149 | [304149-catastrophe-crow.json](./304149-catastrophe-crow.json) |
@@ -7420,7 +7418,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 172406 | [172406-checkers.json](./172406-checkers.json) |
-| Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
 | Checkers & Pawns | 368211 | [368211-checkers-and-pawns.json](./368211-checkers-and-pawns.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
@@ -9368,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
 | Christmas Land: Opposite Worlds | 231200 | [231200-christmas-land-opposite-worlds.json](./231200-christmas-land-opposite-worlds.json) |
 | Christmas Luge | 236521 | [236521-christmas-luge.json](./236521-christmas-luge.json) |
+| Christmas Luge: The Journey | 416391 | [416391-christmas-luge-the-journey.json](./416391-christmas-luge-the-journey.json) |
 | Christmas Magic | 257442 | [257442-christmas-magic.json](./257442-christmas-magic.json) |
 | Christmas Mahjong | 109346 | [109346-christmas-mahjong.json](./109346-christmas-mahjong.json) |
 | Christmas Mahjong 2 | 109342 | [109342-christmas-mahjong-2.json](./109342-christmas-mahjong-2.json) |
@@ -9667,7 +9665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lurra | 110644 | [110644-chronicles-of-lurra.json](./110644-chronicles-of-lurra.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic | 95250 | [95250-chronicles-of-magic.json](./95250-chronicles-of-magic.json) |
-| Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
 | Chronicles of Mystery - Secret of the Lost Kingdom | 105440 | [105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json](./105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json) |
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
@@ -12518,7 +12515,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue Murder at Boddy Mansion | 28097 | [28097-clue-murder-at-boddy-mansion.json](./28097-clue-murder-at-boddy-mansion.json) |
 | Clue Solver | 105532 | [105532-clue-solver.json](./105532-clue-solver.json) |
 | Clue: Black Adder Edition | 280004 | [280004-clue-black-adder-edition.json](./280004-clue-black-adder-edition.json) |
-| Clue: Classic Mystery Game | 88928 | [88928-clue-classic-mystery-game.json](./88928-clue-classic-mystery-game.json) |
 | Clue: Deluxe Edition | 279886 | [279886-clue-deluxe-edition.json](./279886-clue-deluxe-edition.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
@@ -15546,7 +15542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjoined Cats | 294074 | [294074-conjoined-cats.json](./294074-conjoined-cats.json) |
 | Conjugo | 130474 | [130474-conjugo.json](./130474-conjugo.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
-| Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: MecaEnglish | 172213 | [172213-conjuntalia-mecaenglish.json](./172213-conjuntalia-mecaenglish.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
@@ -16494,7 +16489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Clash | 388150 | [388150-cooking-clash.json](./388150-cooking-clash.json) |
 | Cooking Coach | 69128 | [69128-cooking-coach.json](./69128-cooking-coach.json) |
 | Cooking Companions: Appetizer Edition | 139141 | [139141-cooking-companions-appetizer-edition.json](./139141-cooking-companions-appetizer-edition.json) |
-| Cooking Craze | 88770 | [88770-cooking-craze.json](./88770-cooking-craze.json) |
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
@@ -18032,7 +18026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
-| Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
 | Cover Orange 2 | 403222 | [403222-cover-orange-2.json](./403222-cover-orange-2.json) |
 | Cover Orange 2 | 89106 | [89106-cover-orange-2.json](./89106-cover-orange-2.json) |
 | Cover Orange 2: Journey | 88889 | [88889-cover-orange-2-journey.json](./88889-cover-orange-2-journey.json) |
@@ -19207,7 +19200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
 | Crazy Cruise | 387250 | [387250-crazy-cruise.json](./387250-crazy-cruise.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
-| Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
 | Crazy Derby Racing | 169522 | [169522-crazy-derby-racing.json](./169522-crazy-derby-racing.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
@@ -19218,7 +19210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Digger 2 Level Pack | 407510 | [407510-crazy-digger-2-level-pack.json](./407510-crazy-digger-2-level-pack.json) |
 | Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
 | Crazy Donuts | 206413 | [206413-crazy-donuts.json](./206413-crazy-donuts.json) |
-| Crazy Dreamz: Best Of | 90076 | [90076-crazy-dreamz-best-of.json](./90076-crazy-dreamz-best-of.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Drift | 223298 | [223298-crazy-drift.json](./223298-crazy-drift.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
