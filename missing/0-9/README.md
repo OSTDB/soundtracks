@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
+| 1-Bit Dungeon | 336774 | [336774-1-bit-dungeon.json](./336774-1-bit-dungeon.json) |
 | 1-Bit Explorer | 290071 | [290071-1-bit-explorer.json](./290071-1-bit-explorer.json) |
 | 1-Bit Halloween | 290072 | [290072-1-bit-halloween.json](./290072-1-bit-halloween.json) |
 | 1-Bit Ninja | 65888 | [65888-1-bit-ninja.json](./65888-1-bit-ninja.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Tinycowboys | 215454 | [215454-2tinycowboys.json](./215454-2tinycowboys.json) |
 | 2Unreal5Underground | 327789 | [327789-2unreal5underground.json](./327789-2unreal5underground.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
+| 2urvive + 3xtinction | 336779 | [336779-2urvive-3xtinction.json](./336779-2urvive-3xtinction.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
 | 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
 | 2weistein in Asban | 320450 | [320450-2weistein-in-asban.json](./320450-2weistein-in-asban.json) |
@@ -2445,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 3/4 Spell Swap | 397011 | [397011-3-4-spell-swap.json](./397011-3-4-spell-swap.json) |
 | 3°C | 312387 | [312387-3-c.json](./312387-3-c.json) |
+| 3°C: Sand Puzzle | 332708 | [332708-3-c-sand-puzzle.json](./332708-3-c-sand-puzzle.json) |
 | 30 Battlefield | 27236 | [27236-30-battlefield.json](./27236-30-battlefield.json) |
 | 30 Birds | 167462 | [167462-30-birds.json](./167462-30-birds.json) |
 | 30 Days Adrift | 358086 | [358086-30-days-adrift.json](./358086-30-days-adrift.json) |
