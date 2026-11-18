@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking into Walls | 164315 | [164315-walking-into-walls.json](./164315-walking-into-walls.json) |
 | Walking on a Star Unknown | 125520 | [125520-walking-on-a-star-unknown.json](./125520-walking-on-a-star-unknown.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
+| Walking Simulator | 128376 | [128376-walking-simulator.json](./128376-walking-simulator.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
 | Walking Simulator A Month Club (Complete Edition) | 136100 | [136100-walking-simulator-a-month-club-complete-edition.json](./136100-walking-simulator-a-month-club-complete-edition.json) |
 | Walking Steel | 313645 | [313645-walking-steel.json](./313645-walking-steel.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Grand Tour | 285293 | [285293-wallace-and-gromit-the-grand-tour.json](./285293-wallace-and-gromit-the-grand-tour.json) |
 | Wallace & Gromit: Top Bun | 320878 | [320878-wallace-and-gromit-top-bun.json](./320878-wallace-and-gromit-top-bun.json) |
 | Wallace & Gromit's Grand Adventures | 11307 | [11307-wallace-and-gromits-grand-adventures.json](./11307-wallace-and-gromits-grand-adventures.json) |
+| Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
 | Wallace & Gromit's Grand Adventures: Episode 3 - Muzzled! | 69168 | [69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json](./69168-wallace-and-gromits-grand-adventures-episode-3-muzzled.json) |
 | Wallace & Gromit's Grand Adventures: Episode 4 - The Bogey Man | 69160 | [69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json](./69160-wallace-and-gromits-grand-adventures-episode-4-the-bogey-man.json) |
 | Wallace & Gromit's World of Invention: Wallace's Workshop | 320879 | [320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json](./320879-wallace-and-gromits-world-of-invention-wallaces-workshop.json) |
@@ -1167,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
 | War Room: Blitz | 302812 | [302812-war-room-blitz.json](./302812-war-room-blitz.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
+| War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
@@ -3110,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
 | WCW/nWo Revenge | 3636 | [3636-wcw-nwo-revenge.json](./3636-wcw-nwo-revenge.json) |
 | WCW/nWo Revenji | 257769 | [257769-wcw-nwo-revenji.json](./257769-wcw-nwo-revenji.json) |
+| WCW/nWo Thunder | 18315 | [18315-wcw-nwo-thunder.json](./18315-wcw-nwo-thunder.json) |
 | WD-40 Game | 250203 | [250203-wd-40-game.json](./250203-wd-40-game.json) |
 | WDF | 332942 | [332942-wdf.json](./332942-wdf.json) |
 | WDYK? 3: Urban Lingo | 234689 | [234689-wdyk-3-urban-lingo.json](./234689-wdyk-3-urban-lingo.json) |
@@ -7943,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
+| Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
 | Wolfenstein: Enemy Territory Single-Player | 375756 | [375756-wolfenstein-enemy-territory-single-player.json](./375756-wolfenstein-enemy-territory-single-player.json) |
 | Wolfenstein: The New Order - Occupied Edition | 42935 | [42935-wolfenstein-the-new-order-occupied-edition.json](./42935-wolfenstein-the-new-order-occupied-edition.json) |
@@ -9448,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Godzilla - Apex Monster | 147042 | [147042-world-of-warships-godzilla-apex-monster.json](./147042-world-of-warships-godzilla-apex-monster.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
 | World of Warships: Kong - Primordial Rage | 147041 | [147041-world-of-warships-kong-primordial-rage.json](./147041-world-of-warships-kong-primordial-rage.json) |
+| World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - A Tale of Bravery | 334551 | [334551-world-of-warships-legends-a-tale-of-bravery.json](./334551-world-of-warships-legends-a-tale-of-bravery.json) |
 | World of Warships: Legends - Agile Guardian | 341384 | [341384-world-of-warships-legends-agile-guardian.json](./341384-world-of-warships-legends-agile-guardian.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
@@ -9942,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms 4 | 59763 | [59763-worms-4.json](./59763-worms-4.json) |
 | Worms Across Worlds | 355849 | [355849-worms-across-worlds.json](./355849-worms-across-worlds.json) |
 | Worms Anniversary Edition | 82389 | [82389-worms-anniversary-edition.json](./82389-worms-anniversary-edition.json) |
+| Worms Armageddon | 159300 | [159300-worms-armageddon.json](./159300-worms-armageddon.json) |
 | Worms Armageddon | 409027 | [409027-worms-armageddon.json](./409027-worms-armageddon.json) |
 | Worms Armageddon: Anniversary Edition | 314938 | [314938-worms-armageddon-anniversary-edition.json](./314938-worms-armageddon-anniversary-edition.json) |
 | Worms Battle: Wormageddon | 132069 | [132069-worms-battle-wormageddon.json](./132069-worms-battle-wormageddon.json) |
