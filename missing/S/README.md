@@ -14435,6 +14435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer | 80802 | [80802-sky-dancer.json](./80802-sky-dancer.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
+| Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
@@ -17558,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniperbot: The Hype Game | 291954 | [291954-sniperbot-the-hype-game.json](./291954-sniperbot-the-hype-game.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves | 56072 | [56072-snipers-vs-thieves.json](./56072-snipers-vs-thieves.json) |
+| Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | Snipiyo | 116519 | [116519-snipiyo.json](./116519-snipiyo.json) |
 | Snips & Snails | 140754 | [140754-snips-and-snails.json](./140754-snips-and-snails.json) |
@@ -17745,6 +17747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Horse | 16318 | [16318-snow-horse.json](./16318-snow-horse.json) |
 | Snow Island | 122586 | [122586-snow-island.json](./122586-snow-island.json) |
 | Snow Jewels | 118526 | [118526-snow-jewels.json](./118526-snow-jewels.json) |
+| Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
 | Snow Journey | 211370 | [211370-snow-journey.json](./211370-snow-journey.json) |
 | Snow Journey: Nitro | 211371 | [211371-snow-journey-nitro.json](./211371-snow-journey-nitro.json) |
@@ -18922,6 +18925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
 | Sole Seeker | 266429 | [266429-sole-seeker.json](./266429-sole-seeker.json) |
 | Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
+| Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Soleil | 259381 | [259381-soleil.json](./259381-soleil.json) |
 | Soleil Survivor | 340355 | [340355-soleil-survivor.json](./340355-soleil-survivor.json) |
 | Solely Puzzle | 296115 | [296115-solely-puzzle.json](./296115-solely-puzzle.json) |
@@ -23802,6 +23806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Edition Pinball Dreams Pinball Fantasies | 74032 | [74032-special-edition-pinball-dreams-pinball-fantasies.json](./74032-special-edition-pinball-dreams-pinball-fantasies.json) |
 | Special Enquiry Detail: Engaged to Kill | 88659 | [88659-special-enquiry-detail-engaged-to-kill.json](./88659-special-enquiry-detail-engaged-to-kill.json) |
+| Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2 SEA | 112571 | [112571-special-force-2-sea.json](./112571-special-force-2-sea.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
@@ -27025,6 +27030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Haven | 389940 | [389940-stack-haven.json](./389940-stack-haven.json) |
 | Stack Island | 240597 | [240597-stack-island.json](./240597-stack-island.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
+| Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
 | Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
 | Stack Masters | 242983 | [242983-stack-masters.json](./242983-stack-masters.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
@@ -31816,6 +31822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Souls: Cult Classic Edition | 274648 | [274648-stray-souls-cult-classic-edition.json](./274648-stray-souls-cult-classic-edition.json) |
 | Stray Souls: Dollhouse Story | 26025 | [26025-stray-souls-dollhouse-story.json](./26025-stray-souls-dollhouse-story.json) |
 | Stray Souls: Dollhouse Story - Collector's Edition | 85705 | [85705-stray-souls-dollhouse-story-collectors-edition.json](./85705-stray-souls-dollhouse-story-collectors-edition.json) |
+| Stray Souls: Stolen Memories | 87224 | [87224-stray-souls-stolen-memories.json](./87224-stray-souls-stolen-memories.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 177092 | [177092-stray-souls-stolen-memories-collectors-edition.json](./177092-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Souls: Stolen Memories - Collector's Edition | 53676 | [53676-stray-souls-stolen-memories-collectors-edition.json](./53676-stray-souls-stolen-memories-collectors-edition.json) |
 | Stray Tekirs | 346127 | [346127-stray-tekirs.json](./346127-stray-tekirs.json) |
@@ -38635,6 +38642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova TD | 158333 | [158333-supernova-td.json](./158333-supernova-td.json) |
 | Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
 | SuperOffice | 216904 | [216904-superoffice.json](./216904-superoffice.json) |
+| Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superola: Champion Edition | 199543 | [199543-superola-champion-edition.json](./199543-superola-champion-edition.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
 | SuperPacker | 411995 | [411995-superpacker.json](./411995-superpacker.json) |
