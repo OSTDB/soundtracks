@@ -8157,6 +8157,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights Before Freddy's | 340119 | [340119-five-nights-before-freddys.json](./340119-five-nights-before-freddys.json) |
 | Five Nights in Anime | 47051 | [47051-five-nights-in-anime.json](./47051-five-nights-in-anime.json) |
 | Five Nights in Anime 2 | 165200 | [165200-five-nights-in-anime-2.json](./165200-five-nights-in-anime-2.json) |
+| Five Nights in Minecraft | 417036 | [417036-five-nights-in-minecraft.json](./417036-five-nights-in-minecraft.json) |
+| Five Nights in Minecraft 3 | 417053 | [417053-five-nights-in-minecraft-3.json](./417053-five-nights-in-minecraft-3.json) |
+| Five Nights in Minecraft: The Classic Collection | 417058 | [417058-five-nights-in-minecraft-the-classic-collection.json](./417058-five-nights-in-minecraft-the-classic-collection.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
 | Five Nights In The Backrooms | 412666 | [412666-five-nights-in-the-backrooms.json](./412666-five-nights-in-the-backrooms.json) |
 | Five Nights in the Pizzeria: New Brand | 354003 | [354003-five-nights-in-the-pizzeria-new-brand.json](./354003-five-nights-in-the-pizzeria-new-brand.json) |
@@ -15827,6 +15830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
 | Fury Captain | 157228 | [157228-fury-captain.json](./157228-fury-captain.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
+| Fury Drive | 417044 | [417044-fury-drive.json](./417044-fury-drive.json) |
 | Fury Fight | 195341 | [195341-fury-fight.json](./195341-fury-fight.json) |
 | Fury Fight: Gangsters of City | 231579 | [231579-fury-fight-gangsters-of-city.json](./231579-fury-fight-gangsters-of-city.json) |
 | Fury Fighter VR | 96520 | [96520-fury-fighter-vr.json](./96520-fury-fighter-vr.json) |
