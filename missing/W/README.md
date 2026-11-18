@@ -1027,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Mines Collection | 199182 | [199182-war-mines-collection.json](./199182-war-mines-collection.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Mines: WW2 | 148035 | [148035-war-mines-ww2.json](./148035-war-mines-ww2.json) |
+| War Mongrels | 138062 | [138062-war-mongrels.json](./138062-war-mongrels.json) |
 | War Mongrels: Renegade Edition | 243864 | [243864-war-mongrels-renegade-edition.json](./243864-war-mongrels-renegade-edition.json) |
 | War Never Changes | 333590 | [333590-war-never-changes.json](./333590-war-never-changes.json) |
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 3: Colorado Collection | 165320 | [165320-wasteland-3-colorado-collection.json](./165320-wasteland-3-colorado-collection.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland 3: Deluxe Edition | 154225 | [154225-wasteland-3-deluxe-edition.json](./154225-wasteland-3-deluxe-edition.json) |
+| Wasteland 3: The Battle of Steeltown | 145818 | [145818-wasteland-3-the-battle-of-steeltown.json](./145818-wasteland-3-the-battle-of-steeltown.json) |
 | Wasteland Alone | 373640 | [373640-wasteland-alone.json](./373640-wasteland-alone.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Bar Fight | 60696 | [60696-wasteland-bar-fight.json](./60696-wasteland-bar-fight.json) |
@@ -7048,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire | 196541 | [196541-wire.json](./196541-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
 | Wire Flying Maid 2 | 157301 | [157301-wire-flying-maid-2.json](./157301-wire-flying-maid-2.json) |
+| Wire Lips | 128017 | [128017-wire-lips.json](./128017-wire-lips.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
 | Wire up! | 132694 | [132694-wire-up.json](./132694-wire-up.json) |
 | Wire Wood Daughters | 184908 | [184908-wire-wood-daughters.json](./184908-wire-wood-daughters.json) |
@@ -7367,6 +7370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
 | Witches' Legacy: The Ties That Bind | 140209 | [140209-witches-legacy-the-ties-that-bind.json](./140209-witches-legacy-the-ties-that-bind.json) |
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
+| Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
 | Witchfall | 405371 | [405371-witchfall.json](./405371-witchfall.json) |
 | Witchfall: Secrets of Emotica | 173016 | [173016-witchfall-secrets-of-emotica.json](./173016-witchfall-secrets-of-emotica.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
@@ -7491,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within of Static: Northgate Mall | 393564 | [393564-within-of-static-northgate-mall.json](./393564-within-of-static-northgate-mall.json) |
 | Within Skerry | 188692 | [188692-within-skerry.json](./188692-within-skerry.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
+| Within the Blade | 154594 | [154594-within-the-blade.json](./154594-within-the-blade.json) |
 | Within the Cosmos | 117457 | [117457-within-the-cosmos.json](./117457-within-the-cosmos.json) |
 | Within The Depths | 253407 | [253407-within-the-depths.json](./253407-within-the-depths.json) |
 | Within The Experiments | 414492 | [414492-within-the-experiments.json](./414492-within-the-experiments.json) |
