@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Sail | 421541 | [421541-a-short-sail.json](./421541-a-short-sail.json) |
 | A Short Tale | 93860 | [93860-a-short-tale.json](./93860-a-short-tale.json) |
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
+| A Shot in the Dark | 200615 | [200615-a-shot-in-the-dark.json](./200615-a-shot-in-the-dark.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
 | A show she never watched. | 395739 | [395739-a-show-she-never-watched.json](./395739-a-show-she-never-watched.json) |
@@ -2369,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
 | About a Boy: Deluxe Edition | 325392 | [325392-about-a-boy-deluxe-edition.json](./325392-about-a-boy-deluxe-edition.json) |
 | About a Girl | 361004 | [361004-about-a-girl.json](./361004-about-a-girl.json) |
+| About a Mouse | 234234 | [234234-about-a-mouse.json](./234234-about-a-mouse.json) |
 | About an Elf | 187860 | [187860-about-an-elf.json](./187860-about-an-elf.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
 | About Elise | 33366 | [33366-about-elise.json](./33366-about-elise.json) |
@@ -5525,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
 | Age of Empires II: Definitive Edition - Victors and Vanquished | 290126 | [290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json](./290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json) |
+| Age of Empires II: Deluxe Definitive Edition Bundle | 234355 | [234355-age-of-empires-ii-deluxe-definitive-edition-bundle.json](./234355-age-of-empires-ii-deluxe-definitive-edition-bundle.json) |
 | Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
 | Age of Empires II: Gold Edition | 129797 | [129797-age-of-empires-ii-gold-edition.json](./129797-age-of-empires-ii-gold-edition.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
@@ -6101,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
 | AI Story Quest | 243894 | [243894-ai-story-quest.json](./243894-ai-story-quest.json) |
+| Ai Suru Tsuma no Ana wa Tanin no Ana Datta... Bishiri o Sashidashi, Aniki no Nikubou o Onedari Suru Midarazuma | 258138 | [258138-ai-suru-tsuma-no-ana-wa-tanin-no-ana-datta-bishiri-o-sashidashi-aniki-no-nikubou-o-onedari-suru-midarazuma.json](./258138-ai-suru-tsuma-no-ana-wa-tanin-no-ana-datta-bishiri-o-sashidashi-aniki-no-nikubou-o-onedari-suru-midarazuma.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai Suru Tsuma, Nagisa no Uwaki Kokuhaku Okuyukashii Tsuma no Karada ga, Aitsu no Geki Piston de Torokete Ita Shinjitsu | 258145 | [258145-ai-suru-tsuma-nagisa-no-uwaki-kokuhaku-okuyukashii-tsuma-no-karada-ga-aitsu-no-geki-piston-de-torokete-ita-shinjitsu.json](./258145-ai-suru-tsuma-nagisa-no-uwaki-kokuhaku-okuyukashii-tsuma-no-karada-ga-aitsu-no-geki-piston-de-torokete-ita-shinjitsu.json) |
 | AI Texas Holdem Poker | 88346 | [88346-ai-texas-holdem-poker.json](./88346-ai-texas-holdem-poker.json) |
@@ -7105,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira's Deep Sea Ventures | 414693 | [414693-akiras-deep-sea-ventures.json](./414693-akiras-deep-sea-ventures.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
 | Akirao: A Researcher Awakens | 307134 | [307134-akirao-a-researcher-awakens.json](./307134-akirao-a-researcher-awakens.json) |
+| Akirry Roll | 200487 | [200487-akirry-roll.json](./200487-akirry-roll.json) |
 | Akita Oga Mystery Annai: Kogoeru Ginreika | 130626 | [130626-akita-oga-mystery-annai-kogoeru-ginreika.json](./130626-akita-oga-mystery-annai-kogoeru-ginreika.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
@@ -11321,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angon: The Grim Age | 206429 | [206429-angon-the-grim-age.json](./206429-angon-the-grim-age.json) |
 | angoo Inc. | 71164 | [71164-angoo-inc.json](./71164-angoo-inc.json) |
 | Angor | 336846 | [336846-angor.json](./336846-angor.json) |
+| Angra | 243333 | [243333-angra.json](./243333-angra.json) |
 | Angra-I | 215853 | [215853-angra-i.json](./215853-angra-i.json) |
 | Angrbotha Mountains | 239668 | [239668-angrbotha-mountains.json](./239668-angrbotha-mountains.json) |
 | Angriest Whopper Game | 237940 | [237940-angriest-whopper-game.json](./237940-angriest-whopper-game.json) |
@@ -11493,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angry Youth | 394281 | [394281-angry-youth.json](./394281-angry-youth.json) |
 | Angry Zombie Basket | 213078 | [213078-angry-zombie-basket.json](./213078-angry-zombie-basket.json) |
+| Angry Zombies 2 | 254097 | [254097-angry-zombies-2.json](./254097-angry-zombies-2.json) |
 | AngryCup | 228157 | [228157-angrycup.json](./228157-angrycup.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
@@ -13493,6 +13500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalich | 175853 | [175853-apocalich.json](./175853-apocalich.json) |
 | Apocalipesec | 179876 | [179876-apocalipesec.json](./179876-apocalipesec.json) |
+| Apocalipse Maromba | 268149 | [268149-apocalipse-maromba.json](./268149-apocalipse-maromba.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalipsis: One Night in the Woods | 144448 | [144448-apocalipsis-one-night-in-the-woods.json](./144448-apocalipsis-one-night-in-the-woods.json) |
 | Apocalipsis: The Tree of the Knowledge of Good and Evil | 90073 | [90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json](./90073-apocalipsis-the-tree-of-the-knowledge-of-good-and-evil.json) |
@@ -15386,6 +15394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcomage | 70264 | [70264-arcomage.json](./70264-arcomage.json) |
 | Arcostate | 412355 | [412355-arcostate.json](./412355-arcostate.json) |
 | ArcPinball | 13242 | [13242-arcpinball.json](./13242-arcpinball.json) |
+| ArcRacer | 254108 | [254108-arcracer.json](./254108-arcracer.json) |
 | ArcRunner | 211441 | [211441-arcrunner.json](./211441-arcrunner.json) |
 | Arcs | 423851 | [423851-arcs.json](./423851-arcs.json) |
 | Arcsaber VR | 133188 | [133188-arcsaber-vr.json](./133188-arcsaber-vr.json) |
@@ -16567,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around The World: Travel To Canada - Collector's Edition | 315947 | [315947-around-the-world-travel-to-canada-collectors-edition.json](./315947-around-the-world-travel-to-canada-collectors-edition.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Around us: Zombie shooter | 266933 | [266933-around-us-zombie-shooter.json](./266933-around-us-zombie-shooter.json) |
+| Arouse | 268150 | [268150-arouse.json](./268150-arouse.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpeggio of Blue Steel: Ars Nova - Re:Birth | 117887 | [117887-arpeggio-of-blue-steel-ars-nova-re-birth.json](./117887-arpeggio-of-blue-steel-ars-nova-re-birth.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
@@ -16681,6 +16691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arslan: The Warriors of Legend - Skill Card Set 1 | 167939 | [167939-arslan-the-warriors-of-legend-skill-card-set-1.json](./167939-arslan-the-warriors-of-legend-skill-card-set-1.json) |
 | Arslan: The Warriors of Legend - Skill Card Set 2 | 167945 | [167945-arslan-the-warriors-of-legend-skill-card-set-2.json](./167945-arslan-the-warriors-of-legend-skill-card-set-2.json) |
 | Arslan: The Warriors of Legend - Skill Card Set 3 | 167944 | [167944-arslan-the-warriors-of-legend-skill-card-set-3.json](./167944-arslan-the-warriors-of-legend-skill-card-set-3.json) |
+| Arslan: The Warriors of Legend - Treasure Box | 207926 | [207926-arslan-the-warriors-of-legend-treasure-box.json](./207926-arslan-the-warriors-of-legend-treasure-box.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
@@ -17122,6 +17133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asadoke no Majo | 398089 | [398089-asadoke-no-majo.json](./398089-asadoke-no-majo.json) |
 | Asagao Academy: Normal Boots Club | 46579 | [46579-asagao-academy-normal-boots-club.json](./46579-asagao-academy-normal-boots-club.json) |
 | Asagao ha Ai wo Shiranai | 411685 | [411685-asagao-ha-ai-wo-shiranai.json](./411685-asagao-ha-ai-wo-shiranai.json) |
+| Asagos | 268151 | [268151-asagos.json](./268151-asagos.json) |
 | Asahi Shinbun Rensai: Katou Hifumi Kudan Shogi Shingiryuu | 58412 | [58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json](./58412-asahi-shinbun-rensai-katou-hifumi-kudan-shogi-shingiryuu.json) |
 | Asahina Mikuru no Yoko Scroll Action | 278215 | [278215-asahina-mikuru-no-yoko-scroll-action.json](./278215-asahina-mikuru-no-yoko-scroll-action.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
@@ -20130,6 +20142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
 | Auto Battle Royale | 121895 | [121895-auto-battle-royale.json](./121895-auto-battle-royale.json) |
 | Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
+| Auto Brawl Chess: Battle Royale | 205136 | [205136-auto-brawl-chess-battle-royale.json](./205136-auto-brawl-chess-battle-royale.json) |
 | Auto Cast | 197092 | [197092-auto-cast.json](./197092-auto-cast.json) |
 | Auto Cell: Game of Life | 165735 | [165735-auto-cell-game-of-life.json](./165735-auto-cell-game-of-life.json) |
 | Auto Check Up Simulator | 265497 | [265497-auto-check-up-simulator.json](./265497-auto-check-up-simulator.json) |
@@ -20223,6 +20236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autochef | 319532 | [319532-autochef.json](./319532-autochef.json) |
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
 | AutoChess of Gensokyo | 153142 | [153142-autochess-of-gensokyo.json](./153142-autochess-of-gensokyo.json) |
+| AutoChestLur | 205173 | [205173-autochestlur.json](./205173-autochestlur.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
 | Autoconfim | 185223 | [185223-autoconfim.json](./185223-autoconfim.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
@@ -20618,6 +20632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
 | Aven | 391430 | [391430-aven.json](./391430-aven.json) |
 | Aven Colony | 23212 | [23212-aven-colony.json](./23212-aven-colony.json) |
+| Aven Colony: Deluxe Edition | 223642 | [223642-aven-colony-deluxe-edition.json](./223642-aven-colony-deluxe-edition.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
 | Avencast: Rise of the Mage | 9777 | [9777-avencast-rise-of-the-mage.json](./9777-avencast-rise-of-the-mage.json) |
 | Avenge Myself | 332893 | [332893-avenge-myself.json](./332893-avenge-myself.json) |
@@ -20904,6 +20919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Cat Puzzle | 200439 | [200439-awesome-cat-puzzle.json](./200439-awesome-cat-puzzle.json) |
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
+| Awesome Eats | 254100 | [254100-awesome-eats.json](./254100-awesome-eats.json) |
 | Awesome Game | 316872 | [316872-awesome-game.json](./316872-awesome-game.json) |
 | Awesome Ghosts vs Stupid Zombies | 392570 | [392570-awesome-ghosts-vs-stupid-zombies.json](./392570-awesome-ghosts-vs-stupid-zombies.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
