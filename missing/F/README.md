@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Empire | 240624 | [240624-farm-empire.json](./240624-farm-empire.json) |
 | Farm Expert 2016 | 47040 | [47040-farm-expert-2016.json](./47040-farm-expert-2016.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
+| Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2017: Hard Terrain | 174133 | [174133-farm-expert-2017-hard-terrain.json](./174133-farm-expert-2017-hard-terrain.json) |
 | Farm Expert 2018 for Nintendo Switch | 95516 | [95516-farm-expert-2018-for-nintendo-switch.json](./95516-farm-expert-2018-for-nintendo-switch.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
@@ -12207,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward Brave | 279917 | [279917-forward-brave.json](./279917-forward-brave.json) |
 | Forward Defense | 201372 | [201372-forward-defense.json](./201372-forward-defense.json) |
 | Forward Line | 104191 | [104191-forward-line.json](./104191-forward-line.json) |
+| Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
 | Forward Team | 215579 | [215579-forward-team.json](./215579-forward-team.json) |
 | Forward to the Past | 396034 | [396034-forward-to-the-past.json](./396034-forward-to-the-past.json) |
@@ -13995,6 +13997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Bridge Scape | 262884 | [262884-frog-bridge-scape.json](./262884-frog-bridge-scape.json) |
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
 | Frog Climb | 409202 | [409202-frog-climb.json](./409202-frog-climb.json) |
+| Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Dares | 412136 | [412136-frog-dares.json](./412136-frog-dares.json) |
