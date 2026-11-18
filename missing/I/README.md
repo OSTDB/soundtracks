@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium | 13070 | [13070-imperium.json](./13070-imperium.json) |
 | Imperium | 15220 | [15220-imperium.json](./15220-imperium.json) |
 | Imperium BCE | 169626 | [169626-imperium-bce.json](./169626-imperium-bce.json) |
+| Imperium Eternal | 318081 | [318081-imperium-eternal.json](./318081-imperium-eternal.json) |
 | Imperium Galactica | 15188 | [15188-imperium-galactica.json](./15188-imperium-galactica.json) |
 | Imperium Galactica II: Alliances | 15186 | [15186-imperium-galactica-ii-alliances.json](./15186-imperium-galactica-ii-alliances.json) |
 | Imperium Galactum | 25976 | [25976-imperium-galactum.json](./25976-imperium-galactum.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
 | Infamous: Second Son - Limited Edition | 42940 | [42940-infamous-second-son-limited-edition.json](./42940-infamous-second-son-limited-edition.json) |
+| Infamous: Second Son - Paper Trail | 308598 | [308598-infamous-second-son-paper-trail.json](./308598-infamous-second-son-paper-trail.json) |
 | Infamous: Special Edition | 44669 | [44669-infamous-special-edition.json](./44669-infamous-special-edition.json) |
 | Infans Solaris | 54130 | [54130-infans-solaris.json](./54130-infans-solaris.json) |
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
@@ -4080,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Attack: Complete Edition | 295676 | [295676-infantry-attack-complete-edition.json](./295676-infantry-attack-complete-edition.json) |
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
 | Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
+| Infantry Attack: Golden Edition | 302269 | [302269-infantry-attack-golden-edition.json](./302269-infantry-attack-golden-edition.json) |
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
 | Infantry Online | 110884 | [110884-infantry-online.json](./110884-infantry-online.json) |
 | InfantryWar | 125552 | [125552-infantrywar.json](./125552-infantrywar.json) |
@@ -6563,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
 | Irides: Master of Blocks | 4362 | [4362-irides-master-of-blocks.json](./4362-irides-master-of-blocks.json) |
 | Iridescence | 111265 | [111265-iridescence.json](./111265-iridescence.json) |
+| Iridescence | 329810 | [329810-iridescence.json](./329810-iridescence.json) |
 | Iridescent | 101824 | [101824-iridescent.json](./101824-iridescent.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent | 301860 | [301860-iridescent.json](./301860-iridescent.json) |
@@ -7255,7 +7259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Nyne: Battle Royale | 51548 | [51548-islands-of-nyne-battle-royale.json](./51548-islands-of-nyne-battle-royale.json) |
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
-| Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandsettler | 101845 | [101845-islandsettler.json](./101845-islandsettler.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
 | IslandWide Flying Simulator | 179355 | [179355-islandwide-flying-simulator.json](./179355-islandwide-flying-simulator.json) |
@@ -7312,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Cubes | 155276 | [155276-isles-of-cubes.json](./155276-isles-of-cubes.json) |
 | Isles of Derek | 73726 | [73726-isles-of-derek.json](./73726-isles-of-derek.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
+| Isles of Krom | 329852 | [329852-isles-of-krom.json](./329852-isles-of-krom.json) |
 | Isles of Limbo | 153670 | [153670-isles-of-limbo.json](./153670-isles-of-limbo.json) |
 | Isles of Monsters | 286782 | [286782-isles-of-monsters.json](./286782-isles-of-monsters.json) |
 | Isles of Rain | 346554 | [346554-isles-of-rain.json](./346554-isles-of-rain.json) |
