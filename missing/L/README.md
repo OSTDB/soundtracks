@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Knight in Camelot | 70768 | [70768-last-knight-in-camelot.json](./70768-last-knight-in-camelot.json) |
 | Last Known Vector | 411909 | [411909-last-known-vector.json](./411909-last-known-vector.json) |
+| Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
 | Last Land | 141277 | [141277-last-land.json](./141277-last-land.json) |
@@ -2080,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawgivers II | 166935 | [166935-lawgivers-ii.json](./166935-lawgivers-ii.json) |
 | Lawin Catch The Kim | 265339 | [265339-lawin-catch-the-kim.json](./265339-lawin-catch-the-kim.json) |
 | Lawl | 130727 | [130727-lawl.json](./130727-lawl.json) |
+| Lawless Lands | 108231 | [108231-lawless-lands.json](./108231-lawless-lands.json) |
 | Lawless Lands: Blood Pit | 174472 | [174472-lawless-lands-blood-pit.json](./174472-lawless-lands-blood-pit.json) |
 | Lawless Lands: Grizzly Pet Pack | 167714 | [167714-lawless-lands-grizzly-pet-pack.json](./167714-lawless-lands-grizzly-pet-pack.json) |
 | Lawless Lands: Herding Hound | 167715 | [167715-lawless-lands-herding-hound.json](./167715-lawless-lands-herding-hound.json) |
@@ -6770,6 +6772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fishing Idle | 386892 | [386892-little-fishing-idle.json](./386892-little-fishing-idle.json) |
 | Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
+| Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
