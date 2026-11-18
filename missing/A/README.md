@@ -6760,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Flight Simulator: EVO | 343494 | [343494-airplane-flight-simulator-evo.json](./343494-airplane-flight-simulator-evo.json) |
 | Airplane Flight Simulator: Farming Agricultural Plane S2-Carrier | 310474 | [310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json](./310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json) |
 | Airplane Flight Simulator: Military Cargo Transport Plane C12-Transit | 310475 | [310475-airplane-flight-simulator-military-cargo-transport-plane-c12-transit.json](./310475-airplane-flight-simulator-military-cargo-transport-plane-c12-transit.json) |
+| Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Race Simulator 2 Player Game | 261341 | [261341-airplane-race-simulator-2-player-game.json](./261341-airplane-race-simulator-2-player-game.json) |
 | Airplane Racer 2021 | 181019 | [181019-airplane-racer-2021.json](./181019-airplane-racer-2021.json) |
@@ -9892,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambition Episode 4: The Tryst Part 1 | 385668 | [385668-ambition-episode-4-the-tryst-part-1.json](./385668-ambition-episode-4-the-tryst-part-1.json) |
 | Ambition Episode 5: The Tryst Part 2 "A Woman Scorned" | 385669 | [385669-ambition-episode-5-the-tryst-part-2-a-woman-scorned.json](./385669-ambition-episode-5-the-tryst-part-2-a-woman-scorned.json) |
 | Ambition of caesar | 45577 | [45577-ambition-of-caesar.json](./45577-ambition-of-caesar.json) |
+| Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
 | Ambition: A Minuet in Power | 76255 | [76255-ambition-a-minuet-in-power.json](./76255-ambition-a-minuet-in-power.json) |
 | Ambition: Strategy War Game | 200037 | [200037-ambition-strategy-war-game.json](./200037-ambition-strategy-war-game.json) |
 | Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
@@ -15005,6 +15007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia | 81573 | [81573-arcadia.json](./81573-arcadia.json) |
 | Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
 | Arcadia Demade | 256826 | [256826-arcadia-demade.json](./256826-arcadia-demade.json) |
+| Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia Fallen: Digital Deluxe | 401669 | [401669-arcadia-fallen-digital-deluxe.json](./401669-arcadia-fallen-digital-deluxe.json) |
 | Arcadia Files: Clyde | 299670 | [299670-arcadia-files-clyde.json](./299670-arcadia-files-clyde.json) |
@@ -20351,6 +20354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatica | 377507 | [377507-automatica.json](./377507-automatica.json) |
 | Automation | 161421 | [161421-automation.json](./161421-automation.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
+| Automation Empire | 126097 | [126097-automation-empire.json](./126097-automation-empire.json) |
 | Automation of Sorts | 174490 | [174490-automation-of-sorts.json](./174490-automation-of-sorts.json) |
 | Automation Station | 201069 | [201069-automation-station.json](./201069-automation-station.json) |
 | Automation: The Car Company Tycoon Game | 17239 | [17239-automation-the-car-company-tycoon-game.json](./17239-automation-the-car-company-tycoon-game.json) |
