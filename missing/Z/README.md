@@ -1435,7 +1435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip Puzzle | 348119 | [348119-zip-puzzle.json](./348119-zip-puzzle.json) |
 | Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
-| Zip Zap | 95687 | [95687-zip-zap.json](./95687-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | Zip! Speedster of Valiant City | 129318 | [129318-zip-speedster-of-valiant-city.json](./129318-zip-speedster-of-valiant-city.json) |
 | Zip's Jumping Adventure | 364796 | [364796-zips-jumping-adventure.json](./364796-zips-jumping-adventure.json) |
@@ -1619,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolge Station: Huga Waiwai Academy | 429883 | [429883-zolge-station-huga-waiwai-academy.json](./429883-zolge-station-huga-waiwai-academy.json) |
 | Zolo | 272658 | [272658-zolo.json](./272658-zolo.json) |
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
+| Zolotoj Teljonok | 414633 | [414633-zolotoj-teljonok.json](./414633-zolotoj-teljonok.json) |
 | Zoltan's Curse | 302158 | [302158-zoltans-curse.json](./302158-zoltans-curse.json) |
 | Zolyx | 52202 | [52202-zolyx.json](./52202-zolyx.json) |
 | Zom Mat Taeng | 389927 | [389927-zom-mat-taeng.json](./389927-zom-mat-taeng.json) |
@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Outbreak: Undead Survival | 354949 | [354949-zombie-outbreak-undead-survival.json](./354949-zombie-outbreak-undead-survival.json) |
 | Zombie Overdrive | 317727 | [317727-zombie-overdrive.json](./317727-zombie-overdrive.json) |
 | Zombie Pandemia 2D | 324755 | [324755-zombie-pandemia-2d.json](./324755-zombie-pandemia-2d.json) |
+| Zombie Panic | 415541 | [415541-zombie-panic.json](./415541-zombie-panic.json) |
 | Zombie Panic in Wonderland | 50980 | [50980-zombie-panic-in-wonderland.json](./50980-zombie-panic-in-wonderland.json) |
 | Zombie Panic in Wonderland DX | 84969 | [84969-zombie-panic-in-wonderland-dx.json](./84969-zombie-panic-in-wonderland-dx.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | Zquirrels Jump | 111245 | [111245-zquirrels-jump.json](./111245-zquirrels-jump.json) |
 | Zra Stories | 267041 | [267041-zra-stories.json](./267041-zra-stories.json) |
+| Zrist | 383314 | [383314-zrist.json](./383314-zrist.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zruce Adventures | 194718 | [194718-zruce-adventures.json](./194718-zruce-adventures.json) |
 | ZRun | 95366 | [95366-zrun.json](./95366-zrun.json) |
