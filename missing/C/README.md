@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain vs. Sky Pirates: Moon Base | 171177 | [171177-captain-vs-sky-pirates-moon-base.json](./171177-captain-vs-sky-pirates-moon-base.json) |
 | Captain vs. Sky Pirates: Post Apocalyptic City | 171175 | [171175-captain-vs-sky-pirates-post-apocalyptic-city.json](./171175-captain-vs-sky-pirates-post-apocalyptic-city.json) |
 | Captain vs. Sky Pirates: Pyramids | 171126 | [171126-captain-vs-sky-pirates-pyramids.json](./171126-captain-vs-sky-pirates-pyramids.json) |
+| Captain Warrington's Play Maze | 415528 | [415528-captain-warringtons-play-maze.json](./415528-captain-warringtons-play-maze.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -4749,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat on the Jungle Path | 428259 | [428259-cat-on-the-jungle-path.json](./428259-cat-on-the-jungle-path.json) |
 | Cat or Bread? | 29975 | [29975-cat-or-bread.json](./29975-cat-or-bread.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
+| Cat or Potat | 416322 | [416322-cat-or-potat.json](./416322-cat-or-potat.json) |
 | Cat Pack | 409900 | [409900-cat-pack.json](./409900-cat-pack.json) |
 | Cat Packs | 152690 | [152690-cat-packs.json](./152690-cat-packs.json) |
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
@@ -9681,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of TalDun: The Longing | 239787 | [239787-chronicles-of-taldun-the-longing.json](./239787-chronicles-of-taldun-the-longing.json) |
 | Chronicles of Teddy: Harmony of Exidus | 19391 | [19391-chronicles-of-teddy-harmony-of-exidus.json](./19391-chronicles-of-teddy-harmony-of-exidus.json) |
 | Chronicles of the Celestial Way | 347221 | [347221-chronicles-of-the-celestial-way.json](./347221-chronicles-of-the-celestial-way.json) |
+| Chronicles of the Fallen Realm | 415552 | [415552-chronicles-of-the-fallen-realm.json](./415552-chronicles-of-the-fallen-realm.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Mattock | 181676 | [181676-chronicles-of-the-mattock.json](./181676-chronicles-of-the-mattock.json) |
 | Chronicles of the Sword | 15477 | [15477-chronicles-of-the-sword.json](./15477-chronicles-of-the-sword.json) |
@@ -10332,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circulation | 295083 | [295083-circulation.json](./295083-circulation.json) |
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
 | Circulets: the game for families, friends and parties | 41503 | [41503-circulets-the-game-for-families-friends-and-parties.json](./41503-circulets-the-game-for-families-friends-and-parties.json) |
+| Circulo | 416299 | [416299-circulo.json](./416299-circulo.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
 | Circuroid | 186448 | [186448-circuroid.json](./186448-circuroid.json) |
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
@@ -12376,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | CloverPit: Devil’s Gambit | 386642 | [386642-cloverpit-devil-s-gambit.json](./386642-cloverpit-devil-s-gambit.json) |
 | Cloverpit: Unholy Fusion | 378232 | [378232-cloverpit-unholy-fusion.json](./378232-cloverpit-unholy-fusion.json) |
+| Clovis | 416300 | [416300-clovis.json](./416300-clovis.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
 | Clown | 394087 | [394087-clown.json](./394087-clown.json) |
@@ -13355,6 +13360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold | 344370 | [344370-cold.json](./344370-cold.json) |
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
+| Cold Aisle: Data Center Tycoon | 415545 | [415545-cold-aisle-data-center-tycoon.json](./415545-cold-aisle-data-center-tycoon.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
 | Cold and Afraid | 249992 | [249992-cold-and-afraid.json](./249992-cold-and-afraid.json) |
 | Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
