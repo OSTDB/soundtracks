@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Something Literally | 341284 | [341284-take-something-literally.json](./341284-take-something-literally.json) |
 | Take Something Literally 2 | 341285 | [341285-take-something-literally-2.json](./341285-take-something-literally-2.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
+| Take That | 108303 | [108303-take-that.json](./108303-take-that.json) |
 | Take That Mainstage! | 403373 | [403373-take-that-mainstage.json](./403373-take-that-mainstage.json) |
 | Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
@@ -1552,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Wakana | 258748 | [258748-tales-of-wakana.json](./258748-tales-of-wakana.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
+| Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
 | Tales of Wind | 115308 | [115308-tales-of-wind.json](./115308-tales-of-wind.json) |
 | Tales of Wind Online | 379438 | [379438-tales-of-wind-online.json](./379438-tales-of-wind-online.json) |
@@ -9509,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
 | The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
 | The Ditty of Carmeana | 58592 | [58592-the-ditty-of-carmeana.json](./58592-the-ditty-of-carmeana.json) |
+| The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divergent Series: Allegiant VR | 33368 | [33368-the-divergent-series-allegiant-vr.json](./33368-the-divergent-series-allegiant-vr.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
@@ -19388,6 +19391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy Strikes Back! | 295988 | [295988-the-spy-strikes-back.json](./295988-the-spy-strikes-back.json) |
 | The Spy Who Loved Me 64 | 268719 | [268719-the-spy-who-loved-me-64.json](./268719-the-spy-who-loved-me-64.json) |
 | The Spy Who Shot Me | 177603 | [177603-the-spy-who-shot-me.json](./177603-the-spy-who-shot-me.json) |
+| The Spy Who Shrunk Me | 108300 | [108300-the-spy-who-shrunk-me.json](./108300-the-spy-who-shrunk-me.json) |
 | The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
 | The Spy's Adventures in North America | 54641 | [54641-the-spys-adventures-in-north-america.json](./54641-the-spys-adventures-in-north-america.json) |
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
@@ -19691,6 +19695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surge: A Walk in the Park | 75285 | [75285-the-surge-a-walk-in-the-park.json](./75285-the-surge-a-walk-in-the-park.json) |
 | The Surge: Augmented Edition | 118552 | [118552-the-surge-augmented-edition.json](./118552-the-surge-augmented-edition.json) |
 | The Surge: Fire & Ice Weapon Pack | 69512 | [69512-the-surge-fire-and-ice-weapon-pack.json](./69512-the-surge-fire-and-ice-weapon-pack.json) |
+| The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Surgeon | 222813 | [222813-the-surgeon.json](./222813-the-surgeon.json) |
 | The Surprise Gift | 387949 | [387949-the-surprise-gift.json](./387949-the-surprise-gift.json) |
 | The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
@@ -29980,6 +29985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
 | Touhou Battle Raiders | 250585 | [250585-touhou-battle-raiders.json](./250585-touhou-battle-raiders.json) |
+| Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
 | Touhou Big Big Battle: Character Pack 1 | 224362 | [224362-touhou-big-big-battle-character-pack-1.json](./224362-touhou-big-big-battle-character-pack-1.json) |
 | Touhou Big Big Battle: Character Pack 1.5 | 224361 | [224361-touhou-big-big-battle-character-pack-1-5.json](./224361-touhou-big-big-battle-character-pack-1-5.json) |
 | Touhou Big Big Battle: Character Pack 2 | 224360 | [224360-touhou-big-big-battle-character-pack-2.json](./224360-touhou-big-big-battle-character-pack-2.json) |
@@ -37500,6 +37506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight on Yulestead | 84062 | [84062-twilight-on-yulestead.json](./84062-twilight-on-yulestead.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
 | Twilight Parade: Moonlit Mononoke | 285636 | [285636-twilight-parade-moonlit-mononoke.json](./285636-twilight-parade-moonlit-mononoke.json) |
+| Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
 | Twilight Phenomena: The Lodgers of House 13 - Collector's Edition | 29127 | [29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json](./29127-twilight-phenomena-the-lodgers-of-house-13-collectors-edition.json) |
@@ -38152,6 +38159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typhoon of Steel | 47115 | [47115-typhoon-of-steel.json](./47115-typhoon-of-steel.json) |
 | Typhoon Thompson in Search for the Sea Child | 74886 | [74886-typhoon-thompson-in-search-for-the-sea-child.json](./74886-typhoon-thompson-in-search-for-the-sea-child.json) |
 | Typhoon Unit: Butterfly Requiem | 127699 | [127699-typhoon-unit-butterfly-requiem.json](./127699-typhoon-unit-butterfly-requiem.json) |
+| Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical Cliche | 286802 | [286802-typical-cliche.json](./286802-typical-cliche.json) |
 | Typical Mario Game | 322915 | [322915-typical-mario-game.json](./322915-typical-mario-game.json) |
 | Typical Mario Game 1/8 | 321868 | [321868-typical-mario-game-1-8.json](./321868-typical-mario-game-1-8.json) |
