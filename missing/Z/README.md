@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhǎng Fěn Èrwéimǎ | 165762 | [165762-zhang-fen-erweima.json](./165762-zhang-fen-erweima.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
 | Zhazari VR | 193091 | [193091-zhazari-vr.json](./193091-zhazari-vr.json) |
+| Zhed | 122801 | [122801-zhed.json](./122801-zhed.json) |
 | Zhèn Xié | 375425 | [375425-zhen-xie.json](./375425-zhen-xie.json) |
 | Zhen: Shattered Legacy | 328614 | [328614-zhen-shattered-legacy.json](./328614-zhen-shattered-legacy.json) |
 | Zhēnběn Xīyóujì: The Adventures of Monkey | 138648 | [138648-zhenben-xiyouji-the-adventures-of-monkey.json](./138648-zhenben-xiyouji-the-adventures-of-monkey.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zookoban | 184365 | [184365-zookoban.json](./184365-zookoban.json) |
 | Zool | 242311 | [242311-zool.json](./242311-zool.json) |
 | Zool | 242313 | [242313-zool.json](./242313-zool.json) |
+| Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
 | Zool: Ninja of the Nth Dimension | 2547 | [2547-zool-ninja-of-the-nth-dimension.json](./2547-zool-ninja-of-the-nth-dimension.json) |
 | Zoolax Nights: Evil Clowns | 69356 | [69356-zoolax-nights-evil-clowns.json](./69356-zoolax-nights-evil-clowns.json) |
 | Zoological Era | 110546 | [110546-zoological-era.json](./110546-zoological-era.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorro | 81431 | [81431-zorro.json](./81431-zorro.json) |
 | Zorro and Zedd | 272891 | [272891-zorro-and-zedd.json](./272891-zorro-and-zedd.json) |
 | Zorro: Quest for Justice | 60504 | [60504-zorro-quest-for-justice.json](./60504-zorro-quest-for-justice.json) |
+| Zorro: The Chronicles | 149763 | [149763-zorro-the-chronicles.json](./149763-zorro-the-chronicles.json) |
 | ZorroMoro | 119796 | [119796-zorromoro.json](./119796-zorromoro.json) |
 | Zorropa y La Torre de las Sombras | 265693 | [265693-zorropa-y-la-torre-de-las-sombras.json](./265693-zorropa-y-la-torre-de-las-sombras.json) |
 | Zorse | 328256 | [328256-zorse.json](./328256-zorse.json) |
