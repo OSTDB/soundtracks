@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Garou Densetsu Best Collection | 176135 | [176135-real-bout-garou-densetsu-best-collection.json](./176135-real-bout-garou-densetsu-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing | 9415 | [9415-real-boxing.json](./9415-real-boxing.json) |
+| Real Boxing 2 | 186914 | [186914-real-boxing-2.json](./186914-real-boxing-2.json) |
 | Real Boxing 2 Rocky | 90873 | [90873-real-boxing-2-rocky.json](./90873-real-boxing-2-rocky.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
@@ -3904,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth Fantasy Online | 116306 | [116306-rebirth-fantasy-online.json](./116306-rebirth-fantasy-online.json) |
 | Rebirth Moment | 259032 | [259032-rebirth-moment.json](./259032-rebirth-moment.json) |
 | Rebirth of Arcadia | 258059 | [258059-rebirth-of-arcadia.json](./258059-rebirth-of-arcadia.json) |
+| Rebirth of Civilzation | 164034 | [164034-rebirth-of-civilzation.json](./164034-rebirth-of-civilzation.json) |
 | Rebirth of Fortune | 174322 | [174322-rebirth-of-fortune.json](./174322-rebirth-of-fortune.json) |
 | Rebirth of Fortune 2 | 212397 | [212397-rebirth-of-fortune-2.json](./212397-rebirth-of-fortune-2.json) |
 | Rebirth of Island | 33348 | [33348-rebirth-of-island.json](./33348-rebirth-of-island.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
+| Red White Yellow Zinger | 196182 | [196182-red-white-yellow-zinger.json](./196182-red-white-yellow-zinger.json) |
 | Red Wings: Aces of the Sky - Baron Edition | 146165 | [146165-red-wings-aces-of-the-sky-baron-edition.json](./146165-red-wings-aces-of-the-sky-baron-edition.json) |
 | Red Wings: American Aces | 172813 | [172813-red-wings-american-aces.json](./172813-red-wings-american-aces.json) |
 | Red Wings: American Aces - Heavy Metal | 199891 | [199891-red-wings-american-aces-heavy-metal.json](./199891-red-wings-american-aces-heavy-metal.json) |
@@ -4866,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Space Exploration Pack | 226973 | [226973-redout-space-exploration-pack.json](./226973-redout-space-exploration-pack.json) |
 | Redout: Ultimate Edition | 201038 | [201038-redout-ultimate-edition.json](./201038-redout-ultimate-edition.json) |
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
+| Redpulse | 140678 | [140678-redpulse.json](./140678-redpulse.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | RedRaptor | 262773 | [262773-redraptor.json](./262773-redraptor.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
@@ -10154,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Boxing: Real Fighting Steel Battle | 332337 | [332337-robot-boxing-real-fighting-steel-battle.json](./332337-robot-boxing-real-fighting-steel-battle.json) |
 | Robot Boy | 126722 | [126722-robot-boy.json](./126722-robot-boy.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
+| Robot Builder War | 164033 | [164033-robot-builder-war.json](./164033-robot-builder-war.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
 | Robot Chariot Battle | 186504 | [186504-robot-chariot-battle.json](./186504-robot-chariot-battle.json) |
@@ -12433,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomspeed | 400848 | [400848-roomspeed.json](./400848-roomspeed.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
 | RoonSehv: NeTerra | 278771 | [278771-roonsehv-neterra.json](./278771-roonsehv-neterra.json) |
+| Roopit and Boopit | 161425 | [161425-roopit-and-boopit.json](./161425-roopit-and-boopit.json) |
 | Roopocket | 122171 | [122171-roopocket.json](./122171-roopocket.json) |
 | Roost | 220147 | [220147-roost.json](./220147-roost.json) |
 | Roost | 329111 | [329111-roost.json](./329111-roost.json) |
