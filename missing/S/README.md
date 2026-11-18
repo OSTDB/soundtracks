@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Jack: Challenge of the Red Demons | 416291 | [416291-samurai-jack-challenge-of-the-red-demons.json](./416291-samurai-jack-challenge-of-the-red-demons.json) |
 | Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
+| Samurai Jack: Digi-Dojo | 416294 | [416294-samurai-jack-digi-dojo.json](./416294-samurai-jack-digi-dojo.json) |
 | Samurai Jack: Rave Slaves | 203060 | [203060-samurai-jack-rave-slaves.json](./203060-samurai-jack-rave-slaves.json) |
 | Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
 | Samurai Jack: The Shadow of Aku | 2823 | [2823-samurai-jack-the-shadow-of-aku.json](./2823-samurai-jack-the-shadow-of-aku.json) |
@@ -8973,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelf-Employed | 413903 | [413903-shelf-employed.json](./413903-shelf-employed.json) |
 | Shelfbound | 419358 | [419358-shelfbound.json](./419358-shelfbound.json) |
 | ShelfLife: Art School Detective | 266769 | [266769-shelflife-art-school-detective.json](./266769-shelflife-art-school-detective.json) |
+| Shelfwatcher | 415529 | [415529-shelfwatcher.json](./415529-shelfwatcher.json) |
 | Shell | 111343 | [111343-shell.json](./111343-shell.json) |
 | Shell as Hard as Steel | 413847 | [413847-shell-as-hard-as-steel.json](./413847-shell-as-hard-as-steel.json) |
 | Shell Bless the Faithless | 342301 | [342301-shell-bless-the-faithless.json](./342301-shell-bless-the-faithless.json) |
@@ -15358,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
 | Slicing Slicing | 221482 | [221482-slicing-slicing.json](./221482-slicing-slicing.json) |
 | Slick | 63260 | [63260-slick.json](./63260-slick.json) |
+| Slick As The Devil | 415549 | [415549-slick-as-the-devil.json](./415549-slick-as-the-devil.json) |
 | Slick Racing Game | 149252 | [149252-slick-racing-game.json](./149252-slick-racing-game.json) |
 | Slick Shot | 337565 | [337565-slick-shot.json](./337565-slick-shot.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
@@ -23279,6 +23282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | Spacerunner | 41070 | [41070-spacerunner.json](./41070-spacerunner.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
+| Spaces of Mine | 416306 | [416306-spaces-of-mine.json](./416306-spaces-of-mine.json) |
 | SpaceScape | 154871 | [154871-spacescape.json](./154871-spacescape.json) |
 | SpaceSeals | 163655 | [163655-spaceseals.json](./163655-spaceseals.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
@@ -28183,6 +28187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
 | Starbase Raiders | 419468 | [419468-starbase-raiders.json](./419468-starbase-raiders.json) |
+| Starbase Tactics | 416193 | [416193-starbase-tactics.json](./416193-starbase-tactics.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
 | Starbeard | 313952 | [313952-starbeard.json](./313952-starbeard.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
@@ -41072,6 +41077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
 | Syobon Action Nostalg | 318453 | [318453-syobon-action-nostalg.json](./318453-syobon-action-nostalg.json) |
+| Syobon Action: All-Stars | 416323 | [416323-syobon-action-all-stars.json](./416323-syobon-action-all-stars.json) |
 | Syobon Action: New Something | 320876 | [320876-syobon-action-new-something.json](./320876-syobon-action-new-something.json) |
 | Syobon No Action Special | 369764 | [369764-syobon-no-action-special.json](./369764-syobon-no-action-special.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
