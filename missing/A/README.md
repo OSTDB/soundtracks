@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Past and Future Secret | 271200 | [271200-a-past-and-future-secret.json](./271200-a-past-and-future-secret.json) |
 | A Path to Light | 211326 | [211326-a-path-to-light.json](./211326-a-path-to-light.json) |
 | A Path to the Princess | 224586 | [224586-a-path-to-the-princess.json](./224586-a-path-to-the-princess.json) |
+| A Peaceful Place | 429588 | [429588-a-peaceful-place.json](./429588-a-peaceful-place.json) |
 | A Peculiar Adventure on Bast | 216720 | [216720-a-peculiar-adventure-on-bast.json](./216720-a-peculiar-adventure-on-bast.json) |
 | A Penny For Some Motivation | 95263 | [95263-a-penny-for-some-motivation.json](./95263-a-penny-for-some-motivation.json) |
 | A Pequena Grande Crise 2: A Ameaça é Outra Agora | 217797 | [217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json](./217797-a-pequena-grande-crise-2-a-ameaca-e-outra-agora.json) |
@@ -14163,6 +14164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquilon Lust: Sex Arcana | 337962 | [337962-aquilon-lust-sex-arcana.json](./337962-aquilon-lust-sex-arcana.json) |
+| Aquilon: Lust Guild | 429563 | [429563-aquilon-lust-guild.json](./429563-aquilon-lust-guild.json) |
 | Aquilon's Sex Quest | 337963 | [337963-aquilons-sex-quest.json](./337963-aquilons-sex-quest.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquitania | 52409 | [52409-aquitania.json](./52409-aquitania.json) |
@@ -15044,6 +15046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadie II: Cold Lands | 346625 | [346625-arcadie-ii-cold-lands.json](./346625-arcadie-ii-cold-lands.json) |
 | Arcadie: Second-Born | 224736 | [224736-arcadie-second-born.json](./224736-arcadie-second-born.json) |
 | Arcadium | 137562 | [137562-arcadium.json](./137562-arcadium.json) |
+| Arcadium | 429547 | [429547-arcadium.json](./429547-arcadium.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcadletra | 391876 | [391876-arcadletra.json](./391876-arcadletra.json) |
@@ -20267,6 +20270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Legends | 312257 | [312257-auto-legends.json](./312257-auto-legends.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
+| Auto Mechanic Tidy Up | 429544 | [429544-auto-mechanic-tidy-up.json](./429544-auto-mechanic-tidy-up.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
 | Auto Necrochess | 246559 | [246559-auto-necrochess.json](./246559-auto-necrochess.json) |
