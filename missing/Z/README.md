@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZenHak | 90945 | [90945-zenhak.json](./90945-zenhak.json) |
 | Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
 | Zenith | 176041 | [176041-zenith.json](./176041-zenith.json) |
+| Zenith | 22437 | [22437-zenith.json](./22437-zenith.json) |
 | Zenith | 24439 | [24439-zenith.json](./24439-zenith.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
 | Zenith Armada | 312495 | [312495-zenith-armada.json](./312495-zenith-armada.json) |
