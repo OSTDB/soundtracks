@@ -19564,6 +19564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
 | Atomic Boy | 38604 | [38604-atomic-boy.json](./38604-atomic-boy.json) |
 | Atomic Brawl | 62867 | [62867-atomic-brawl.json](./62867-atomic-brawl.json) |
+| Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
 | Atomic City | 371147 | [371147-atomic-city.json](./371147-atomic-city.json) |
