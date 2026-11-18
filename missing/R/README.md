@@ -10837,6 +10837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
 | Rocket Racing: Fuse Starter Quest Pack | 303532 | [303532-rocket-racing-fuse-starter-quest-pack.json](./303532-rocket-racing-fuse-starter-quest-pack.json) |
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
+| Rocket Rally | 376359 | [376359-rocket-rally.json](./376359-rocket-rally.json) |
 | Rocket Ranger | 5486 | [5486-rocket-ranger.json](./5486-rocket-ranger.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Rats | 319519 | [319519-rocket-rats.json](./319519-rocket-rats.json) |
