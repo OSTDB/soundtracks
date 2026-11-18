@@ -5006,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
 | Battlepillars | 61777 | [61777-battlepillars.json](./61777-battlepillars.json) |
+| Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
 | Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | BattlePlan! | 274870 | [274870-battleplan.json](./274870-battleplan.json) |
@@ -11721,6 +11722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
 | Blitzkrieg | 15676 | [15676-blitzkrieg.json](./15676-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
+| Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
 | Blitzkrieg 2: Liberation | 11107 | [11107-blitzkrieg-2-liberation.json](./11107-blitzkrieg-2-liberation.json) |
 | Blitzkrieg 3 | 10243 | [10243-blitzkrieg-3.json](./10243-blitzkrieg-3.json) |
@@ -17144,6 +17146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach | 251831 | [251831-breach.json](./251831-breach.json) |
 | Breach | 413003 | [413003-breach.json](./413003-breach.json) |
 | Breach & Clear: Deadline | 11368 | [11368-breach-and-clear-deadline.json](./11368-breach-and-clear-deadline.json) |
+| Breach & Clear: Deadline Rebirth | 36293 | [36293-breach-and-clear-deadline-rebirth.json](./36293-breach-and-clear-deadline-rebirth.json) |
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
 | Breach 3 | 57650 | [57650-breach-3.json](./57650-breach-3.json) |
