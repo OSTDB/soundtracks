@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations: Altarian Prophecy | 69624 | [69624-galactic-civilizations-altarian-prophecy.json](./69624-galactic-civilizations-altarian-prophecy.json) |
 | Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
 | Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
+| Galactic Command - Excalibur | 72835 | [72835-galactic-command-excalibur.json](./72835-galactic-command-excalibur.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
@@ -5055,12 +5056,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginseng Hero | 132399 | [132399-ginseng-hero.json](./132399-ginseng-hero.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
+| Gintama DS: Odd Jobs Grand Riot! | 51453 | [51453-gintama-ds-odd-jobs-grand-riot.json](./51453-gintama-ds-odd-jobs-grand-riot.json) |
 | Gintama Kabuki District Great Action Movie | 51463 | [51463-gintama-kabuki-district-great-action-movie.json](./51463-gintama-kabuki-district-great-action-movie.json) |
 | Gintama no Sugoroku | 51461 | [51461-gintama-no-sugoroku.json](./51461-gintama-no-sugoroku.json) |
 | Gintama Rumble | 51464 | [51464-gintama-rumble.json](./51464-gintama-rumble.json) |
 | Gintama Sumaho Battle Chronicle | 381893 | [381893-gintama-sumaho-battle-chronicle.json](./381893-gintama-sumaho-battle-chronicle.json) |
 | Gintama: Gintoki vs. Hijikata!? Kabukichou Gintama Dai-soudatsusen!! | 124566 | [124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json](./124566-gintama-gintoki-vs-hijikata-kabukichou-gintama-dai-soudatsusen.json) |
+| Gintama: Gintoki vs. Hijikata!? The Kabukicho Silver Ball Competition!! | 51454 | [51454-gintama-gintoki-vs-hijikata-the-kabukicho-silver-ball-competition.json](./51454-gintama-gintoki-vs-hijikata-the-kabukicho-silver-ball-competition.json) |
 | Gintama: Silver Ball Quest - Gin Changed Jobs and Saved the World | 51459 | [51459-gintama-silver-ball-quest-gin-changed-jobs-and-saved-the-world.json](./51459-gintama-silver-ball-quest-gin-changed-jobs-and-saved-the-world.json) |
+| Gintama: Together with Gin! My Kabuki District Journal | 51457 | [51457-gintama-together-with-gin-my-kabuki-district-journal.json](./51457-gintama-together-with-gin-my-kabuki-district-journal.json) |
 | Gintama: Yorozuya Chuubu | 51458 | [51458-gintama-yorozuya-chuubu.json](./51458-gintama-yorozuya-chuubu.json) |
 | Gion Corridor | 394285 | [394285-gion-corridor.json](./394285-gion-corridor.json) |
 | Gionbana | 38014 | [38014-gionbana.json](./38014-gionbana.json) |
@@ -5410,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator 3D | 403536 | [403536-gladiator-3d.json](./403536-gladiator-3d.json) |
 | Gladiator Ascension | 392592 | [392592-gladiator-ascension.json](./392592-gladiator-ascension.json) |
 | Gladiator Bastards | 114698 | [114698-gladiator-bastards.json](./114698-gladiator-bastards.json) |
+| Gladiator Begins | 41028 | [41028-gladiator-begins.json](./41028-gladiator-begins.json) |
 | Gladiator Command | 391532 | [391532-gladiator-command.json](./391532-gladiator-command.json) |
 | Gladiator Fights | 343401 | [343401-gladiator-fights.json](./343401-gladiator-fights.json) |
 | Gladiator Guild Manager | 128930 | [128930-gladiator-guild-manager.json](./128930-gladiator-guild-manager.json) |
@@ -6022,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glucky Labs | 227734 | [227734-glucky-labs.json](./227734-glucky-labs.json) |
+| Gluddle | 22859 | [22859-gluddle.json](./22859-gluddle.json) |
 | Glue 10 | 295518 | [295518-glue-10.json](./295518-glue-10.json) |
 | Glue Blocks | 382469 | [382469-glue-blocks.json](./382469-glue-blocks.json) |
 | GlueFO | 407834 | [407834-gluefo.json](./407834-gluefo.json) |
@@ -6176,6 +6182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden: Life Seeds - Collector's Edition | 255922 | [255922-gnomes-garden-life-seeds-collectors-edition.json](./255922-gnomes-garden-life-seeds-collectors-edition.json) |
 | Gnomes Garden: Mask of the Rat King | 420582 | [420582-gnomes-garden-mask-of-the-rat-king.json](./420582-gnomes-garden-mask-of-the-rat-king.json) |
 | Gnomes Garden: Mask of the Rat King - Collector's Edition | 383042 | [383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json](./383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json) |
+| Gnomes Garden: New Home | 55379 | [55379-gnomes-garden-new-home.json](./55379-gnomes-garden-new-home.json) |
 | Gnomes Garden: Return of the Queen | 163832 | [163832-gnomes-garden-return-of-the-queen.json](./163832-gnomes-garden-return-of-the-queen.json) |
 | Gnomes Garden: The Lost King | 244101 | [244101-gnomes-garden-the-lost-king.json](./244101-gnomes-garden-the-lost-king.json) |
 | Gnomes Solitaire | 195589 | [195589-gnomes-solitaire.json](./195589-gnomes-solitaire.json) |
@@ -7097,11 +7104,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla Kaiju Wars VR | 307771 | [307771-godzilla-kaiju-wars-vr.json](./307771-godzilla-kaiju-wars-vr.json) |
 | Godzilla Online | 72723 | [72723-godzilla-online.json](./72723-godzilla-online.json) |
 | Godzilla The Series: Monster Wars | 8164 | [8164-godzilla-the-series-monster-wars.json](./8164-godzilla-the-series-monster-wars.json) |
+| Godzilla Trading Battle | 72806 | [72806-godzilla-trading-battle.json](./72806-godzilla-trading-battle.json) |
 | Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
 | Godzilla vs. Sonic: First Encounter | 421175 | [421175-godzilla-vs-sonic-first-encounter.json](./421175-godzilla-vs-sonic-first-encounter.json) |
 | Godzilla x Kong: Titan Chasers | 297121 | [297121-godzilla-x-kong-titan-chasers.json](./297121-godzilla-x-kong-titan-chasers.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
+| Godzilla: Battle Legends | 72828 | [72828-godzilla-battle-legends.json](./72828-godzilla-battle-legends.json) |
 | Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
@@ -7486,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2K | 39327 | [39327-golden-tee-2k.json](./39327-golden-tee-2k.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Fore! | 133536 | [133536-golden-tee-fore.json](./133536-golden-tee-fore.json) |
+| Golden Tee Fore! 2004 | 46802 | [46802-golden-tee-fore-2004.json](./46802-golden-tee-fore-2004.json) |
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
@@ -11212,6 +11222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrooVR: Air Drumming | 186389 | [186389-groovr-air-drumming.json](./186389-groovr-air-drumming.json) |
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Groovy | 35203 | [35203-groovy.json](./35203-groovy.json) |
+| Groovy Bunch of Games | 70512 | [70512-groovy-bunch-of-games.json](./70512-groovy-bunch-of-games.json) |
 | Groovy Labs | 336861 | [336861-groovy-labs.json](./336861-groovy-labs.json) |
 | Grorb: Grow the Orb | 348141 | [348141-grorb-grow-the-orb.json](./348141-grorb-grow-the-orb.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
@@ -11578,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Cry | 399564 | [399564-guardian-cry.json](./399564-guardian-cry.json) |
 | Guardian Deity | 284165 | [284165-guardian-deity.json](./284165-guardian-deity.json) |
 | Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
+| Guardian Force | 46809 | [46809-guardian-force.json](./46809-guardian-force.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
 | Guardian Frame: Debrief! | 283386 | [283386-guardian-frame-debrief.json](./283386-guardian-frame-debrief.json) |
 | Guardian Girls: Astral Battle | 298624 | [298624-guardian-girls-astral-battle.json](./298624-guardian-girls-astral-battle.json) |
@@ -12049,6 +12061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
 | Guitar Band: Rock Battle | 299999 | [299999-guitar-band-rock-battle.json](./299999-guitar-band-rock-battle.json) |
 | Guitar Flash | 56255 | [56255-guitar-flash.json](./56255-guitar-flash.json) |
+| Guitar Freaks | 46801 | [46801-guitar-freaks.json](./46801-guitar-freaks.json) |
 | Guitar Freaks & DrumMania: Masterpiece Gold | 67103 | [67103-guitar-freaks-and-drummania-masterpiece-gold.json](./67103-guitar-freaks-and-drummania-masterpiece-gold.json) |
 | Guitar Freaks & DrumMania: Masterpiece Silver | 67099 | [67099-guitar-freaks-and-drummania-masterpiece-silver.json](./67099-guitar-freaks-and-drummania-masterpiece-silver.json) |
 | Guitar Freaks V2 & DrumMania V2 | 67100 | [67100-guitar-freaks-v2-and-drummania-v2.json](./67100-guitar-freaks-v2-and-drummania-v2.json) |
@@ -12867,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | GunWagon | 191920 | [191920-gunwagon.json](./191920-gunwagon.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
+| GunWorld 2 | 22723 | [22723-gunworld-2.json](./22723-gunworld-2.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
 | Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
