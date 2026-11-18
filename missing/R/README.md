@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
 | R.B.I. Baseball 19 | 115205 | [115205-r-b-i-baseball-19.json](./115205-r-b-i-baseball-19.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
+| R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
 | R.B.I. Baseball 3 | 93414 | [93414-r-b-i-baseball-3.json](./93414-r-b-i-baseball-3.json) |
 | R.B.I. Baseball 4 | 46264 | [46264-r-b-i-baseball-4.json](./46264-r-b-i-baseball-4.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
@@ -1389,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
 | Railway Empire: Japan | 154942 | [154942-railway-empire-japan.json](./154942-railway-empire-japan.json) |
 | Railway Empire: Mexico | 145501 | [145501-railway-empire-mexico.json](./145501-railway-empire-mexico.json) |
+| Railway Empire: Nintendo Switch Edition | 126484 | [126484-railway-empire-nintendo-switch-edition.json](./126484-railway-empire-nintendo-switch-edition.json) |
 | Railway Empire: Nintendo Switch Starter Bundle | 283198 | [283198-railway-empire-nintendo-switch-starter-bundle.json](./283198-railway-empire-nintendo-switch-starter-bundle.json) |
 | Railway Empire: Northern Europe | 145502 | [145502-railway-empire-northern-europe.json](./145502-railway-empire-northern-europe.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
 | Raioh | 265303 | [265303-raioh.json](./265303-raioh.json) |
+| Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
 | Raion | 321724 | [321724-raion.json](./321724-raion.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise | 216948 | [216948-raise.json](./216948-raise.json) |
@@ -1967,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Ball 2048 | 226980 | [226980-rampage-ball-2048.json](./226980-rampage-ball-2048.json) |
 | Rampage Kage | 406993 | [406993-rampage-kage.json](./406993-rampage-kage.json) |
 | Rampage Knights | 12513 | [12513-rampage-knights.json](./12513-rampage-knights.json) |
+| Rampage Miami | 126583 | [126583-rampage-miami.json](./126583-rampage-miami.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Online | 111775 | [111775-rampage-online.json](./111775-rampage-online.json) |
 | Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
