@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abenteuer Landtag 2 | 135093 | [135093-abenteuer-landtag-2.json](./135093-abenteuer-landtag-2.json) |
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
+| Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Aberrant Domain: Fog City | 420951 | [420951-aberrant-domain-fog-city.json](./420951-aberrant-domain-fog-city.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberrant Rift | 214241 | [214241-aberrant-rift.json](./214241-aberrant-rift.json) |
@@ -10856,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
 | Ancient Huntsmen | 181031 | [181031-ancient-huntsmen.json](./181031-ancient-huntsmen.json) |
+| Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
 | Ancient Jewels 3: Cleopatra's Treasures | 99683 | [99683-ancient-jewels-3-cleopatras-treasures.json](./99683-ancient-jewels-3-cleopatras-treasures.json) |
 | Ancient Jewels 4: Babylon | 293955 | [293955-ancient-jewels-4-babylon.json](./293955-ancient-jewels-4-babylon.json) |
@@ -14621,6 +14623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Numan Athletics | 299179 | [299179-arcade-archives-numan-athletics.json](./299179-arcade-archives-numan-athletics.json) |
 | Arcade Archives: Omega Fighter | 106666 | [106666-arcade-archives-omega-fighter.json](./106666-arcade-archives-omega-fighter.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
+| Arcade Archives: Orius | 185986 | [185986-arcade-archives-orius.json](./185986-arcade-archives-orius.json) |
 | Arcade Archives: P-47 | 135583 | [135583-arcade-archives-p-47.json](./135583-arcade-archives-p-47.json) |
 | Arcade Archives: P.O.W. - Prisoners of War | 131846 | [131846-arcade-archives-p-o-w-prisoners-of-war.json](./131846-arcade-archives-p-o-w-prisoners-of-war.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
@@ -17363,6 +17366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
+| Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: The Way - Deluxe Edition | 248233 | [248233-ash-of-gods-the-way-deluxe-edition.json](./248233-ash-of-gods-the-way-deluxe-edition.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of Legends | 133096 | [133096-ash-of-legends.json](./133096-ash-of-legends.json) |
