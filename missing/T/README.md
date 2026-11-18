@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappi Bear All in 1 | 219898 | [219898-tappi-bear-all-in-1.json](./219898-tappi-bear-all-in-1.json) |
 | Tapping Skill Test | 130487 | [130487-tapping-skill-test.json](./130487-tapping-skill-test.json) |
+| Tappingo 2 | 61991 | [61991-tappingo-2.json](./61991-tappingo-2.json) |
 | Tapple: Idle Clicker | 314240 | [314240-tapple-idle-clicker.json](./314240-tapple-idle-clicker.json) |
 | TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
 | TapPlus | 384211 | [384211-tapplus.json](./384211-tapplus.json) |
@@ -15167,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Tomb | 269080 | [269080-the-lost-tomb.json](./269080-the-lost-tomb.json) |
+| The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Town: The Jungle | 55005 | [55005-the-lost-town-the-jungle.json](./55005-the-lost-town-the-jungle.json) |
 | The Lost Treasure of RON | 71244 | [71244-the-lost-treasure-of-ron.json](./71244-the-lost-treasure-of-ron.json) |
 | The Lost Treasures of Alexandria | 85260 | [85260-the-lost-treasures-of-alexandria.json](./85260-the-lost-treasures-of-alexandria.json) |
@@ -27185,6 +27187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
 | Titty World | 334675 | [334675-titty-world.json](./334675-titty-world.json) |
 | Titus the Fox | 112076 | [112076-titus-the-fox.json](./112076-titus-the-fox.json) |
+| Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Titus the Fox: To Marrakech and Back | 6313 | [6313-titus-the-fox-to-marrakech-and-back.json](./6313-titus-the-fox-to-marrakech-and-back.json) |
 | Titus: Politics is not a game | 223618 | [223618-titus-politics-is-not-a-game.json](./223618-titus-politics-is-not-a-game.json) |
 | Tivick'ing! Chronicles | 220698 | [220698-tivicking-chronicles.json](./220698-tivicking-chronicles.json) |
