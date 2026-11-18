@@ -6513,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
+| Oversynth | 401946 | [401946-oversynth.json](./401946-oversynth.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTake: The Elite Challenge | 124295 | [124295-overtake-the-elite-challenge.json](./124295-overtake-the-elite-challenge.json) |
 | Overtake! | 248878 | [248878-overtake.json](./248878-overtake.json) |
