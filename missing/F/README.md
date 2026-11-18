@@ -7009,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: Airport Fire Department | 71591 | [71591-firefighters-airport-fire-department.json](./71591-firefighters-airport-fire-department.json) |
 | Firefighters: Airport Heroes | 135581 | [135581-firefighters-airport-heroes.json](./135581-firefighters-airport-heroes.json) |
 | Firefighters: Plant Fire Department | 187762 | [187762-firefighters-plant-fire-department.json](./187762-firefighters-plant-fire-department.json) |
+| Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
 | Firefighting Heroes: Truck 911 Simulator | 336220 | [336220-firefighting-heroes-truck-911-simulator.json](./336220-firefighting-heroes-truck-911-simulator.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
@@ -12987,6 +12988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 8 | 176712 | [176712-franchise-hockey-manager-8.json](./176712-franchise-hockey-manager-8.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
 | Franchise Wars | 117179 | [117179-franchise-wars.json](./117179-franchise-wars.json) |
+| Francisca | 32062 | [32062-francisca.json](./32062-francisca.json) |
 | Francisca 2 | 156073 | [156073-francisca-2.json](./156073-francisca-2.json) |
 | Franco and Apollo | 211387 | [211387-franco-and-apollo.json](./211387-franco-and-apollo.json) |
 | Franco Baresi World Cup Kick Off | 38051 | [38051-franco-baresi-world-cup-kick-off.json](./38051-franco-baresi-world-cup-kick-off.json) |
