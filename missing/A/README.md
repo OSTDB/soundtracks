@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma No Akumu: Ar Eq-Kua Er Seta | 338133 | [338133-akuma-no-akumu-ar-eq-kua-er-seta.json](./338133-akuma-no-akumu-ar-eq-kua-er-seta.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
+| Akuma Rise | 395965 | [395965-akuma-rise.json](./395965-akuma-rise.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akuma-kun: Taose! Cerberus | 385756 | [385756-akuma-kun-taose-cerberus.json](./385756-akuma-kun-taose-cerberus.json) |
@@ -12359,6 +12360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
+| Anno 117: Pax Romana - Prophecies of Ash | 400218 | [400218-anno-117-pax-romana-prophecies-of-ash.json](./400218-anno-117-pax-romana-prophecies-of-ash.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
