@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
+| Mamma Mia | 417050 | [417050-mamma-mia.json](./417050-mamma-mia.json) |
 | Mamma Mu och Kråkan: Vinterlek | 412496 | [412496-mamma-mu-och-krakan-vinterlek.json](./412496-mamma-mu-och-krakan-vinterlek.json) |
 | Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
 | Mammon’s Wager | 405820 | [405820-mammon-s-wager.json](./405820-mammon-s-wager.json) |
@@ -3339,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man's Last Friends | 397200 | [397200-mans-last-friends.json](./397200-mans-last-friends.json) |
 | Man/Woman | 181747 | [181747-man-woman.json](./181747-man-woman.json) |
 | Mana | 280309 | [280309-mana.json](./280309-mana.json) |
+| Mana Alchemy | 417032 | [417032-mana-alchemy.json](./417032-mana-alchemy.json) |
 | Mana Balls | 116190 | [116190-mana-balls.json](./116190-mana-balls.json) |
 | Mana Battle | 379279 | [379279-mana-battle.json](./379279-mana-battle.json) |
 | Mana Blast | 138415 | [138415-mana-blast.json](./138415-mana-blast.json) |
@@ -9549,6 +9551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaSokoban | 311399 | [311399-megasokoban.json](./311399-megasokoban.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
+| Megastore Chaos | 417018 | [417018-megastore-chaos.json](./417018-megastore-chaos.json) |
 | Megastore Simulator | 372969 | [372969-megastore-simulator.json](./372969-megastore-simulator.json) |
 | Megastore: Tidy Up Together | 412653 | [412653-megastore-tidy-up-together.json](./412653-megastore-tidy-up-together.json) |
 | Megastructure | 428143 | [428143-megastructure.json](./428143-megastructure.json) |
