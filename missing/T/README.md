@@ -8960,6 +8960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
 | The Dark Pictures Anthology: Season One | 225775 | [225775-the-dark-pictures-anthology-season-one.json](./225775-the-dark-pictures-anthology-season-one.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
+| The Dark Pictures Anthology: Volume 1 - Limited Edition | 140670 | [140670-the-dark-pictures-anthology-volume-1-limited-edition.json](./140670-the-dark-pictures-anthology-volume-1-limited-edition.json) |
 | The Dark Pictures Anthology: Volume 2 | 208736 | [208736-the-dark-pictures-anthology-volume-2.json](./208736-the-dark-pictures-anthology-volume-2.json) |
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Pictures: Volume 1 | 249739 | [249739-the-dark-pictures-volume-1.json](./249739-the-dark-pictures-volume-1.json) |
@@ -16452,6 +16453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Worlds 2: Premium Edition | 348309 | [348309-the-outer-worlds-2-premium-edition.json](./348309-the-outer-worlds-2-premium-edition.json) |
 | The Outer Worlds: Board-Approved Bundle | 146157 | [146157-the-outer-worlds-board-approved-bundle.json](./146157-the-outer-worlds-board-approved-bundle.json) |
 | The Outer Worlds: Expansion Pass | 293732 | [293732-the-outer-worlds-expansion-pass.json](./293732-the-outer-worlds-expansion-pass.json) |
+| The Outer Worlds: Non-Mandatory Corporate-Sponsored Bundle | 140668 | [140668-the-outer-worlds-non-mandatory-corporate-sponsored-bundle.json](./140668-the-outer-worlds-non-mandatory-corporate-sponsored-bundle.json) |
 | The Outer Worlds: Spacer's Choice Edition | 239999 | [239999-the-outer-worlds-spacers-choice-edition.json](./239999-the-outer-worlds-spacers-choice-edition.json) |
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outfit | 7126 | [7126-the-outfit.json](./7126-the-outfit.json) |
@@ -30655,6 +30657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town Diggers | 379060 | [379060-town-diggers.json](./379060-town-diggers.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
+| Town Fall Zombie | 140638 | [140638-town-fall-zombie.json](./140638-town-fall-zombie.json) |
 | Town Girls | 237112 | [237112-town-girls.json](./237112-town-girls.json) |
 | Town Hall Toaster | 71463 | [71463-town-hall-toaster.json](./71463-town-hall-toaster.json) |
 | Town Heroes | 424122 | [424122-town-heroes.json](./424122-town-heroes.json) |
