@@ -9235,7 +9235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabetto's | 411622 | [411622-alphabettos.json](./411622-alphabettos.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
 | AlphaBlue | 219992 | [219992-alphablue.json](./219992-alphablue.json) |
-| AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphacity | 270722 | [270722-alphacity.json](./270722-alphacity.json) |
 | Alphadeck | 157270 | [157270-alphadeck.json](./157270-alphadeck.json) |
 | Alphadia | 19872 | [19872-alphadia.json](./19872-alphadia.json) |
@@ -9271,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Crawler Ultimate | 87718 | [87718-alpine-crawler-ultimate.json](./87718-alpine-crawler-ultimate.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
+| Alpine Faction VR | 414642 | [414642-alpine-faction-vr.json](./414642-alpine-faction-vr.json) |
 | Alpine Games | 13308 | [13308-alpine-games.json](./13308-alpine-games.json) |
 | Alpine Lake | 263964 | [263964-alpine-lake.json](./263964-alpine-lake.json) |
 | Alpine Racer | 225844 | [225844-alpine-racer.json](./225844-alpine-racer.json) |
@@ -19875,6 +19875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack! | 356281 | [356281-attack.json](./356281-attack.json) |
 | Attack!! Hiroko-Chan | 67372 | [67372-attack-hiroko-chan.json](./67372-attack-hiroko-chan.json) |
 | Attacker-chan! | 211082 | [211082-attacker-chan.json](./211082-attacker-chan.json) |
+| Attacking the Tower | 414643 | [414643-attacking-the-tower.json](./414643-attacking-the-tower.json) |
 | Attacking Zegeta | 60152 | [60152-attacking-zegeta.json](./60152-attacking-zegeta.json) |
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | AttackNoids | 116478 | [116478-attacknoids.json](./116478-attacknoids.json) |
