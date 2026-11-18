@@ -2475,7 +2475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Venture | 419007 | [419007-viking-venture.json](./419007-viking-venture.json) |
 | Viking Ventures | 371779 | [371779-viking-ventures.json](./371779-viking-ventures.json) |
-| Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
 | Viking Warrior | 142655 | [142655-viking-warrior.json](./142655-viking-warrior.json) |
 | Viking: Battle for Asgard | 7234 | [7234-viking-battle-for-asgard.json](./7234-viking-battle-for-asgard.json) |
 | Viking: Heroes War | 89827 | [89827-viking-heroes-war.json](./89827-viking-heroes-war.json) |
@@ -4133,7 +4132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vossarium | 400517 | [400517-vossarium.json](./400517-vossarium.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
 | Vostok Inc. | 44141 | [44141-vostok-inc.json](./44141-vostok-inc.json) |
-| Vote: The Game | 93554 | [93554-vote-the-game.json](./93554-vote-the-game.json) |
 | Votum | 367160 | [367160-votum.json](./367160-votum.json) |
 | Vouivre | 180334 | [180334-vouivre.json](./180334-vouivre.json) |
 | Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
@@ -4161,7 +4159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxabular P.I: Penny's First Case | 214263 | [214263-voxabular-p-i-pennys-first-case.json](./214263-voxabular-p-i-pennys-first-case.json) |
 | VoxArena | 424144 | [424144-voxarena.json](./424144-voxarena.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
-| Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
 | Voxel Baller | 90258 | [90258-voxel-baller.json](./90258-voxel-baller.json) |
 | Voxel Battle Simulator | 145843 | [145843-voxel-battle-simulator.json](./145843-voxel-battle-simulator.json) |
 | Voxel Blast | 34652 | [34652-voxel-blast.json](./34652-voxel-blast.json) |
