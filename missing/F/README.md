@@ -4860,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field | 203183 | [203183-field.json](./203183-field.json) |
 | Field & Stream - Trophy Hunting | 115759 | [115759-field-and-stream-trophy-hunting.json](./115759-field-and-stream-trophy-hunting.json) |
 | Field & Stream - Trophy Hunting 4 | 122535 | [122535-field-and-stream-trophy-hunting-4.json](./122535-field-and-stream-trophy-hunting-4.json) |
+| Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field & Stream: Trophy Bass 3D | 70127 | [70127-field-and-stream-trophy-bass-3d.json](./70127-field-and-stream-trophy-bass-3d.json) |
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
 | Field & Stream: Trophy Hunting 5 | 73645 | [73645-field-and-stream-trophy-hunting-5.json](./73645-field-and-stream-trophy-hunting-5.json) |
@@ -4882,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
 | Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
 | Field of Glory | 68342 | [68342-field-of-glory.json](./68342-field-of-glory.json) |
+| Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
 | Field of Glory II: Immortal Fire | 124901 | [124901-field-of-glory-ii-immortal-fire.json](./124901-field-of-glory-ii-immortal-fire.json) |
 | Field of Glory II: Legions Triumphant | 124885 | [124885-field-of-glory-ii-legions-triumphant.json](./124885-field-of-glory-ii-legions-triumphant.json) |
