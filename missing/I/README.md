@@ -5484,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intelligence: Dinosaurs | 105277 | [105277-intelligence-dinosaurs.json](./105277-intelligence-dinosaurs.json) |
 | Intelligence: Dogs | 107521 | [107521-intelligence-dogs.json](./107521-intelligence-dogs.json) |
 | Intelligence: Underwater Kingdom | 110955 | [110955-intelligence-underwater-kingdom.json](./110955-intelligence-underwater-kingdom.json) |
+| Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intelligent Destruction | 384165 | [384165-intelligent-destruction.json](./384165-intelligent-destruction.json) |
 | Intelligent Qube | 4126 | [4126-intelligent-qube.json](./4126-intelligent-qube.json) |
 | Intelligent Strategy Games 10 | 319931 | [319931-intelligent-strategy-games-10.json](./319931-intelligent-strategy-games-10.json) |
