@@ -8060,6 +8060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki's Revenge Capture the Flag | 307463 | [307463-lokis-revenge-capture-the-flag.json](./307463-lokis-revenge-capture-the-flag.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | Lokopolis | 232216 | [232216-lokopolis.json](./232216-lokopolis.json) |
+| LOL | 124474 | [124474-lol.json](./124474-lol.json) |
 | LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
@@ -10097,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Quest: Los Angeles | 303637 | [303637-love-quest-los-angeles.json](./303637-love-quest-los-angeles.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
 | Love Rewind: A Magical Time Travel Romance | 180536 | [180536-love-rewind-a-magical-time-travel-romance.json](./180536-love-rewind-a-magical-time-travel-romance.json) |
+| Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Ribbon | 30410 | [30410-love-ribbon.json](./30410-love-ribbon.json) |
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
 | Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
