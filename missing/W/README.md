@@ -2424,6 +2424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: Contract - Fires in the Capital | 395803 | [395803-wartales-contract-fires-in-the-capital.json](./395803-wartales-contract-fires-in-the-capital.json) |
 | Wartales: Contract - The Beast Hunt | 362770 | [362770-wartales-contract-the-beast-hunt.json](./362770-wartales-contract-the-beast-hunt.json) |
 | Wartales: Contract - The Fief | 362769 | [362769-wartales-contract-the-fief.json](./362769-wartales-contract-the-fief.json) |
+| Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartheon | 367722 | [367722-wartheon.json](./367722-wartheon.json) |
@@ -7852,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǒ de Tǎnkè Wǒ de Tuán | 369854 | [369854-wo-de-tanke-wo-de-tuan.json](./369854-wo-de-tanke-wo-de-tuan.json) |
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
+| Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Wo Long: Fallen Dynasty - Conqueror of Jiangdong | 267601 | [267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json](./267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json) |
 | Wo Long: Fallen Dynasty - Digital Deluxe Edition | 238702 | [238702-wo-long-fallen-dynasty-digital-deluxe-edition.json](./238702-wo-long-fallen-dynasty-digital-deluxe-edition.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
