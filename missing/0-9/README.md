@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1992: Rasputie | 359670 | [359670-1992-rasputie.json](./359670-1992-rasputie.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
+| 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1993Tris | 94288 | [94288-1993tris.json](./94288-1993tris.json) |
 | 1994 (Ten Years After) | 70295 | [70295-1994-ten-years-after.json](./70295-1994-ten-years-after.json) |
 | 1994 Locospotter | 83108 | [83108-1994-locospotter.json](./83108-1994-locospotter.json) |
