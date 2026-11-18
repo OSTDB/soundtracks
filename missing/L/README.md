@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
 | Legacy of Pandora | 365970 | [365970-legacy-of-pandora.json](./365970-legacy-of-pandora.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
+| Legacy of Shadows | 376372 | [376372-legacy-of-shadows.json](./376372-legacy-of-shadows.json) |
 | Legacy of Shnaus: Horror Room Escape | 386196 | [386196-legacy-of-shnaus-horror-room-escape.json](./386196-legacy-of-shnaus-horror-room-escape.json) |
 | Legacy of Sin: Blood Oath | 199527 | [199527-legacy-of-sin-blood-oath.json](./199527-legacy-of-sin-blood-oath.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
 | Let It Chill | 347976 | [347976-let-it-chill.json](./347976-let-it-chill.json) |
+| Let It Consume | 383297 | [383297-let-it-consume.json](./383297-let-it-consume.json) |
 | Let It Die | 18854 | [18854-let-it-die.json](./18854-let-it-die.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Inferno | 369994 | [369994-let-it-die-inferno.json](./369994-let-it-die-inferno.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Level-ROM | 116804 | [116804-level-rom.json](./116804-level-rom.json) |
 | Leveleers | 348378 | [348378-leveleers.json](./348378-leveleers.json) |
+| LevelFighters | 383299 | [383299-levelfighters.json](./383299-levelfighters.json) |
 | Levelhead | 212695 | [212695-levelhead.json](./212695-levelhead.json) |
 | Leveling Up Girls in Another World | 199709 | [199709-leveling-up-girls-in-another-world.json](./199709-leveling-up-girls-in-another-world.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
