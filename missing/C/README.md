@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
 | Card Sharp | 42164 | [42164-card-sharp.json](./42164-card-sharp.json) |
 | Card Shop Game Store: TCG Simulator | 335957 | [335957-card-shop-game-store-tcg-simulator.json](./335957-card-shop-game-store-tcg-simulator.json) |
+| Card Shop Simulator Multiplayer | 346816 | [346816-card-shop-simulator-multiplayer.json](./346816-card-shop-simulator-multiplayer.json) |
 | Card Shop Tycoon | 203368 | [203368-card-shop-tycoon.json](./203368-card-shop-tycoon.json) |
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Sim: Chinese Restaurant | 391182 | [391182-card-sim-chinese-restaurant.json](./391182-card-sim-chinese-restaurant.json) |
@@ -12415,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou | 153733 | [153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json](./153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json) |
 | Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
+| Clowncore | 357465 | [357465-clowncore.json](./357465-clowncore.json) |
 | Clowned King | 329288 | [329288-clowned-king.json](./329288-clowned-king.json) |
 | Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
@@ -15473,6 +15475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confidential Mission | 305954 | [305954-confidential-mission.json](./305954-confidential-mission.json) |
 | Confidential Mission | 6726 | [6726-confidential-mission.json](./6726-confidential-mission.json) |
 | Confidential Money: 300 Nichi de 3000 Man Dollar Kasegu Houhou | 64872 | [64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json](./64872-confidential-money-300-nichi-de-3000-man-dollar-kasegu-houhou.json) |
+| Confidentiality Agreement | 357473 | [357473-confidentiality-agreement.json](./357473-confidentiality-agreement.json) |
 | Config Wars | 113854 | [113854-config-wars.json](./113854-config-wars.json) |
 | Confined | 304138 | [304138-confined.json](./304138-confined.json) |
 | Confined Indorms | 185320 | [185320-confined-indorms.json](./185320-confined-indorms.json) |
