@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T00:56:40.206Z",
-  "total_soundtracks": 3786,
+  "generated_at": "2026-11-18T01:06:25.575Z",
+  "total_soundtracks": 3792,
   "games": [
     {
       "igdb_id": 292844,
@@ -1557,6 +1557,20 @@
         {
           "album_name": "Along Together (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2YG5TyZM4CO146m2Nskoyn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 66781,
+      "game_name": "AlphaBounce",
+      "game_url": "https://ostdb.net/games/alphabounce",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1fbb49202c983a01a6b46dd",
+      "albums": [
+        {
+          "album_name": "AlphaBounce (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1neQxOC2rJqMVtwkO4feIu",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -3695,6 +3709,20 @@
         {
           "album_name": "Banner of the Maid (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1HyJaYy8bC68E0UVdZzbmO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 70395,
+      "game_name": "Bannerman",
+      "game_url": "https://ostdb.net/games/bannerman",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273284056d689a7a8a87acd548f",
+      "albums": [
+        {
+          "album_name": "Bannerman (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6f8zKBNTmTAvfnI81iN47U",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28303,6 +28331,20 @@
       ]
     },
     {
+      "igdb_id": 69375,
+      "game_name": "Okinawa Rush",
+      "game_url": "https://ostdb.net/games/okinawa-rush",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27307e52f3dd8605077f940f8c3",
+      "albums": [
+        {
+          "album_name": "Okinawa Rush OST",
+          "spotify_url": "https://open.spotify.com/album/7ydMFHxU86zGfHP0WgCn8O",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 133674,
       "game_name": "Old World",
       "game_url": "https://ostdb.net/games/old-world",
@@ -29801,6 +29843,20 @@
         {
           "album_name": "Phantom Breaker: Battle Grounds (Official Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1fkuNlkofCBnl0XUJ4EClS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 69488,
+      "game_name": "Phantom Brigade",
+      "game_url": "https://ostdb.net/games/phantom-brigade",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8a5dee63792651a5a4d924d",
+      "albums": [
+        {
+          "album_name": "Phantom Brigade (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2myF3JnG6u24fN7c4xtSuF",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36969,6 +37025,20 @@
         {
           "album_name": "Spaceteam Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4cijNvowVnZM9Aj1jrWOOV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 63497,
+      "game_name": "SpaceVenture",
+      "game_url": "https://ostdb.net/games/spaceventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27331739624c67f7dba2394b807",
+      "albums": [
+        {
+          "album_name": "SpaceVenture (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7IT1wkzo3eFmvsCY9MrIWT",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -47447,6 +47517,20 @@
         {
           "album_name": "Wheels of Aurelia Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7FZ4jzBZOJRIMBvUMAO501",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 73171,
+      "game_name": "Where Shadows Slumber",
+      "game_url": "https://ostdb.net/games/where-shadows-slumber",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730396a3004386106106bdb3c0",
+      "albums": [
+        {
+          "album_name": "Where Shadows Slumber (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/27RBqUUXyudEizGHtNZzIl",
           "apple_music_url": "",
           "album_link_url": ""
         }
