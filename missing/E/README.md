@@ -8260,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Lands | 120564 | [120564-evil-lands.json](./120564-evil-lands.json) |
 | Evil Leafy Maze Game: Deluxe | 381491 | [381491-evil-leafy-maze-game-deluxe.json](./381491-evil-leafy-maze-game-deluxe.json) |
 | Evil Lurks Below | 340161 | [340161-evil-lurks-below.json](./340161-evil-lurks-below.json) |
+| Evil Maiden: The Noble Warrior and the Demon Armor | 429595 | [429595-evil-maiden-the-noble-warrior-and-the-demon-armor.json](./429595-evil-maiden-the-noble-warrior-and-the-demon-armor.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
 | Evil Mansion | 172924 | [172924-evil-mansion.json](./172924-evil-mansion.json) |
 | Evil Maze | 174499 | [174499-evil-maze.json](./174499-evil-maze.json) |
@@ -8848,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exitrance | 417537 | [417537-exitrance.json](./417537-exitrance.json) |
 | Exits | 314964 | [314964-exits.json](./314964-exits.json) |
 | Exitus | 290619 | [290619-exitus.json](./290619-exitus.json) |
+| Exium: Theia | 429596 | [429596-exium-theia.json](./429596-exium-theia.json) |
 | Exive | 110551 | [110551-exive.json](./110551-exive.json) |
 | ExMortalis | 301858 | [301858-exmortalis.json](./301858-exmortalis.json) |
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
