@@ -3044,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
 | Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
 | Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
+| Tavern Master | 148900 | [148900-tavern-master.json](./148900-tavern-master.json) |
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern of Gods | 149261 | [149261-tavern-of-gods.json](./149261-tavern-of-gods.json) |
@@ -6312,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
 | The Adventures of Sherlock Holmes | 72319 | [72319-the-adventures-of-sherlock-holmes.json](./72319-the-adventures-of-sherlock-holmes.json) |
+| The Adventures of Shuggy | 11084 | [11084-the-adventures-of-shuggy.json](./11084-the-adventures-of-shuggy.json) |
 | The Adventures of Sinbad | 14226 | [14226-the-adventures-of-sinbad.json](./14226-the-adventures-of-sinbad.json) |
 | The Adventures of Sir Kicksalot | 270172 | [270172-the-adventures-of-sir-kicksalot.json](./270172-the-adventures-of-sir-kicksalot.json) |
 | The Adventures of Sisharpic | 169140 | [169140-the-adventures-of-sisharpic.json](./169140-the-adventures-of-sisharpic.json) |
@@ -8092,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
 | The Chessmaster | 366556 | [366556-the-chessmaster.json](./366556-the-chessmaster.json) |
 | The Chessmaster | 366559 | [366559-the-chessmaster.json](./366559-the-chessmaster.json) |
+| The Chessmaster 2000 | 13482 | [13482-the-chessmaster-2000.json](./13482-the-chessmaster-2000.json) |
 | The Chessmaster 3-D | 15879 | [15879-the-chessmaster-3-d.json](./15879-the-chessmaster-3-d.json) |
 | The Chessmaster 3000 | 15876 | [15876-the-chessmaster-3000.json](./15876-the-chessmaster-3000.json) |
 | The Chessmaster 4000 | 15877 | [15877-the-chessmaster-4000.json](./15877-the-chessmaster-4000.json) |
@@ -8183,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chrono Jotter | 157173 | [157173-the-chrono-jotter.json](./157173-the-chrono-jotter.json) |
 | The Chronos Event | 265861 | [265861-the-chronos-event.json](./265861-the-chronos-event.json) |
 | The Chronos Principle | 153964 | [153964-the-chronos-principle.json](./153964-the-chronos-principle.json) |
+| The Church in the Darkness | 18113 | [18113-the-church-in-the-darkness.json](./18113-the-church-in-the-darkness.json) |
 | The Church of Cheesus Crisp: An All You Can Pray Buffet | 159364 | [159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json](./159364-the-church-of-cheesus-crisp-an-all-you-can-pray-buffet.json) |
 | The Cinder War | 410393 | [410393-the-cinder-war.json](./410393-the-cinder-war.json) |
 | The Cinderella Contract | 417578 | [417578-the-cinderella-contract.json](./417578-the-cinderella-contract.json) |
@@ -8332,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The College Fantasy Before the End of the Empire | 298349 | [298349-the-college-fantasy-before-the-end-of-the-empire.json](./298349-the-college-fantasy-before-the-end-of-the-empire.json) |
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
+| The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
 | The Colonists: New Lands | 293808 | [293808-the-colonists-new-lands.json](./293808-the-colonists-new-lands.json) |
 | The Colony | 108668 | [108668-the-colony.json](./108668-the-colony.json) |
 | The Colony | 113413 | [113413-the-colony.json](./113413-the-colony.json) |
@@ -14254,6 +14259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Vampire | 335001 | [335001-the-legend-of-the-vampire.json](./335001-the-legend-of-the-vampire.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of the Wind | 388124 | [388124-the-legend-of-the-wind.json](./388124-the-legend-of-the-wind.json) |
+| The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
 | The Legend of Tiger and Phoenix | 222647 | [222647-the-legend-of-tiger-and-phoenix.json](./222647-the-legend-of-tiger-and-phoenix.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
 | The Legend of Tobimaru | 121879 | [121879-the-legend-of-tobimaru.json](./121879-the-legend-of-tobimaru.json) |
@@ -18467,6 +18473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooting Range 3D: Shooting Gallery Simulator | 244048 | [244048-the-shooting-range-3d-shooting-gallery-simulator.json](./244048-the-shooting-range-3d-shooting-gallery-simulator.json) |
 | The Shop of Good Memories | 141276 | [141276-the-shop-of-good-memories.json](./141276-the-shop-of-good-memories.json) |
 | The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
+| The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
 | The Shore VR | 185734 | [185734-the-shore-vr.json](./185734-the-shore-vr.json) |
 | The Shore: Enhanced Edition | 391918 | [391918-the-shore-enhanced-edition.json](./391918-the-shore-enhanced-edition.json) |
 | The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
@@ -18605,14 +18612,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
 | The Sims 2: Castaway | 5156 | [5156-the-sims-2-castaway.json](./5156-the-sims-2-castaway.json) |
+| The Sims 2: H&M Fashion Stuff | 13132 | [13132-the-sims-2-h-and-m-fashion-stuff.json](./13132-the-sims-2-h-and-m-fashion-stuff.json) |
 | The Sims 2: Happy Holiday Pack | 13127 | [13127-the-sims-2-happy-holiday-pack.json](./13127-the-sims-2-happy-holiday-pack.json) |
 | The Sims 2: Happy Holiday Stuff | 13130 | [13130-the-sims-2-happy-holiday-stuff.json](./13130-the-sims-2-happy-holiday-stuff.json) |
+| The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
+| The Sims 2: Kitchen & Bath Interior Design Stuff | 13134 | [13134-the-sims-2-kitchen-and-bath-interior-design-stuff.json](./13134-the-sims-2-kitchen-and-bath-interior-design-stuff.json) |
+| The Sims 2: Mansion & Garden Stuff | 13136 | [13136-the-sims-2-mansion-and-garden-stuff.json](./13136-the-sims-2-mansion-and-garden-stuff.json) |
 | The Sims 2: Nightlife | 5534 | [5534-the-sims-2-nightlife.json](./5534-the-sims-2-nightlife.json) |
 | The Sims 2: OMGWTFBBQ | 349499 | [349499-the-sims-2-omgwtfbbq.json](./349499-the-sims-2-omgwtfbbq.json) |
 | The Sims 2: Pets | 192108 | [192108-the-sims-2-pets.json](./192108-the-sims-2-pets.json) |
 | The Sims 2: Pets | 192109 | [192109-the-sims-2-pets.json](./192109-the-sims-2-pets.json) |
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 2: Pets | 286683 | [286683-the-sims-2-pets.json](./286683-the-sims-2-pets.json) |
+| The Sims 2: Teen Style Stuff | 13133 | [13133-the-sims-2-teen-style-stuff.json](./13133-the-sims-2-teen-style-stuff.json) |
 | The Sims 2: Ultimate Collection | 45113 | [45113-the-sims-2-ultimate-collection.json](./45113-the-sims-2-ultimate-collection.json) |
 | The Sims 2: University | 13126 | [13126-the-sims-2-university.json](./13126-the-sims-2-university.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
@@ -18630,7 +18642,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Island Paradise | 13115 | [13115-the-sims-3-island-paradise.json](./13115-the-sims-3-island-paradise.json) |
 | The Sims 3: Katy Perry's Sweet Treats | 13122 | [13122-the-sims-3-katy-perrys-sweet-treats.json](./13122-the-sims-3-katy-perrys-sweet-treats.json) |
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
+| The Sims 3: Master Suite Stuff | 13121 | [13121-the-sims-3-master-suite-stuff.json](./13121-the-sims-3-master-suite-stuff.json) |
 | The Sims 3: Monte Vista | 14582 | [14582-the-sims-3-monte-vista.json](./14582-the-sims-3-monte-vista.json) |
+| The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
 | The Sims 3: Riverview | 14559 | [14559-the-sims-3-riverview.json](./14559-the-sims-3-riverview.json) |
@@ -18758,6 +18772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Spa Day | 13146 | [13146-the-sims-4-spa-day.json](./13146-the-sims-4-spa-day.json) |
 | The Sims 4: SpongeBob Kid’s Room Kit | 404229 | [404229-the-sims-4-spongebob-kid-s-room-kit.json](./404229-the-sims-4-spongebob-kid-s-room-kit.json) |
 | The Sims 4: SpongeBob’s House Kit | 404228 | [404228-the-sims-4-spongebob-s-house-kit.json](./404228-the-sims-4-spongebob-s-house-kit.json) |
+| The Sims 4: Spooky Stuff | 13150 | [13150-the-sims-4-spooky-stuff.json](./13150-the-sims-4-spooky-stuff.json) |
 | The Sims 4: Starter Bundle | 159338 | [159338-the-sims-4-starter-bundle.json](./159338-the-sims-4-starter-bundle.json) |
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
@@ -18783,6 +18798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Medieval: Limited Edition | 281804 | [281804-the-sims-medieval-limited-edition.json](./281804-the-sims-medieval-limited-edition.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
+| The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
 | The Sims: 4 Sleek Bathroom Kit | 341860 | [341860-the-sims-4-sleek-bathroom-kit.json](./341860-the-sims-4-sleek-bathroom-kit.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
 | The Sims: Carnival - SnapCity | 73431 | [73431-the-sims-carnival-snapcity.json](./73431-the-sims-carnival-snapcity.json) |
@@ -22003,6 +22019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theory Works: Your Friends Don’t | 423198 | [423198-theory-works-your-friends-don-t.json](./423198-theory-works-your-friends-don-t.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
+| TheoTown | 109152 | [109152-theotown.json](./109152-theotown.json) |
 | ThePaindog's BattleChat | 131145 | [131145-thepaindogs-battlechat.json](./131145-thepaindogs-battlechat.json) |
 | TheParcelEscape | 394073 | [394073-theparcelescape.json](./394073-theparcelescape.json) |
 | ThePlaneWar | 341265 | [341265-theplanewar.json](./341265-theplanewar.json) |
@@ -27925,6 +27942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Gold Pack | 219006 | [219006-tom-clancys-ghost-recon-gold-pack.json](./219006-tom-clancys-ghost-recon-gold-pack.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 1296 | [1296-tom-clancys-ghost-recon-island-thunder.json](./1296-tom-clancys-ghost-recon-island-thunder.json) |
 | Tom Clancy's Ghost Recon: Island Thunder | 307301 | [307301-tom-clancys-ghost-recon-island-thunder.json](./307301-tom-clancys-ghost-recon-island-thunder.json) |
+| Tom Clancy's Ghost Recon: Jungle Storm | 1297 | [1297-tom-clancys-ghost-recon-jungle-storm.json](./1297-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Jungle Storm | 175928 | [175928-tom-clancys-ghost-recon-jungle-storm.json](./175928-tom-clancys-ghost-recon-jungle-storm.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Definitive Edition | 412552 | [412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json](./412552-tom-clancys-ghost-recon-wildlands-definitive-edition.json) |
 | Tom Clancy's Ghost Recon: Wildlands - Deluxe Edition | 25530 | [25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json](./25530-tom-clancys-ghost-recon-wildlands-deluxe-edition.json) |
@@ -34107,6 +34125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure | 358936 | [358936-treasure.json](./358936-treasure.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
+| Treasure Adventure Game | 11837 | [11837-treasure-adventure-game.json](./11837-treasure-adventure-game.json) |
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Arena | 62074 | [62074-treasure-arena.json](./62074-treasure-arena.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
