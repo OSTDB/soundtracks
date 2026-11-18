@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Total Control | 66011 | [66011-saints-row-total-control.json](./66011-saints-row-total-control.json) |
 | Saints Row: Undercover | 16753 | [16753-saints-row-undercover.json](./16753-saints-row-undercover.json) |
 | Saipped Pursuit | 288252 | [288252-saipped-pursuit.json](./288252-saipped-pursuit.json) |
+| Saira | 15034 | [15034-saira.json](./15034-saira.json) |
 | Saira | 67328 | [67328-saira.json](./67328-saira.json) |
 | Sairento VR | 30522 | [30522-sairento-vr.json](./30522-sairento-vr.json) |
 | Sairento VR: Untethered | 193695 | [193695-sairento-vr-untethered.json](./193695-sairento-vr-untethered.json) |
@@ -2553,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauna of The Dead | 292494 | [292494-sauna-of-the-dead.json](./292494-sauna-of-the-dead.json) |
 | Sauna Simulator | 312430 | [312430-sauna-simulator.json](./312430-sauna-simulator.json) |
 | Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
+| Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sauro | 40414 | [40414-sauro.json](./40414-sauro.json) |
 | Saurusland | 42139 | [42139-saurusland.json](./42139-saurusland.json) |
 | Sausage | 234095 | [234095-sausage.json](./234095-sausage.json) |
@@ -7659,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Grinder | 198590 | [198590-shadow-grinder.json](./198590-shadow-grinder.json) |
 | Shadow Guardian | 112206 | [112206-shadow-guardian.json](./112206-shadow-guardian.json) |
 | Shadow Gunner: The Robot Wars | 144188 | [144188-shadow-gunner-the-robot-wars.json](./144188-shadow-gunner-the-robot-wars.json) |
+| Shadow Harvest: Phantom Ops | 16236 | [16236-shadow-harvest-phantom-ops.json](./16236-shadow-harvest-phantom-ops.json) |
 | Shadow Hawk One | 282140 | [282140-shadow-hawk-one.json](./282140-shadow-hawk-one.json) |
 | Shadow Hearts | 4170 | [4170-shadow-hearts.json](./4170-shadow-hearts.json) |
 | Shadow Hearts 2: Director's Cut | 147517 | [147517-shadow-hearts-2-directors-cut.json](./147517-shadow-hearts-2-directors-cut.json) |
@@ -13082,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar Vol. 3: Party Edition | 52829 | [52829-singstar-vol-3-party-edition.json](./52829-singstar-vol-3-party-edition.json) |
 | Singstar: '80s | 15094 | [15094-singstar-80s.json](./15094-singstar-80s.json) |
+| SingStar: '90s | 15165 | [15165-singstar-90s.json](./15165-singstar-90s.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
@@ -13093,6 +13097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Clásicos | 341410 | [341410-singstar-clasicos.json](./341410-singstar-clasicos.json) |
+| SingStar: Country | 15177 | [15177-singstar-country.json](./15177-singstar-country.json) |
 | SingStar: Danske Hits | 92223 | [92223-singstar-danske-hits.json](./92223-singstar-danske-hits.json) |
 | SingStar: Deutsch Rock-Pop | 144150 | [144150-singstar-deutsch-rock-pop.json](./144150-singstar-deutsch-rock-pop.json) |
 | SingStar: Deutsch Rock-Pop vol 2 | 144151 | [144151-singstar-deutsch-rock-pop-vol-2.json](./144151-singstar-deutsch-rock-pop-vol-2.json) |
@@ -14424,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
 | Sky Gamblers: Air Supremacy 2 | 194752 | [194752-sky-gamblers-air-supremacy-2.json](./194752-sky-gamblers-air-supremacy-2.json) |
 | Sky Gamblers: Rise of Glory | 214341 | [214341-sky-gamblers-rise-of-glory.json](./214341-sky-gamblers-rise-of-glory.json) |
+| Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Gamblers: Storm Raiders 2 | 112078 | [112078-sky-gamblers-storm-raiders-2.json](./112078-sky-gamblers-storm-raiders-2.json) |
 | Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
 | Sky Games: Extended Edition | 220891 | [220891-sky-games-extended-edition.json](./220891-sky-games-extended-edition.json) |
@@ -16233,6 +16239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small | 13258 | [13258-small.json](./13258-small.json) |
 | Small Aircraft | 267822 | [267822-small-aircraft.json](./267822-small-aircraft.json) |
+| Small Arms | 18039 | [18039-small-arms.json](./18039-small-arms.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
@@ -18876,6 +18883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soletrando | 181575 | [181575-soletrando.json](./181575-soletrando.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
 | Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
+| SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | SolForge Fusion | 287619 | [287619-solforge-fusion.json](./287619-solforge-fusion.json) |
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
@@ -21570,6 +21578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
 | Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
 | Sound Novel: Machi | 8169 | [8169-sound-novel-machi.json](./8169-sound-novel-machi.json) |
+| Sound of Drop: Fall into Poison | 19279 | [19279-sound-of-drop-fall-into-poison.json](./19279-sound-of-drop-fall-into-poison.json) |
 | Sound of Horses | 357859 | [357859-sound-of-horses.json](./357859-sound-of-horses.json) |
 | Sound of Slash | 336843 | [336843-sound-of-slash.json](./336843-sound-of-slash.json) |
 | Sound of Summer Thunder | 360669 | [360669-sound-of-summer-thunder.json](./360669-sound-of-summer-thunder.json) |
@@ -24459,6 +24468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellTower+ | 136455 | [136455-spelltower.json](./136455-spelltower.json) |
 | SpellUp | 233102 | [233102-spellup.json](./233102-spellup.json) |
 | Spellwake | 108373 | [108373-spellwake.json](./108373-spellwake.json) |
+| Spellweaver | 18010 | [18010-spellweaver.json](./18010-spellweaver.json) |
 | Spellweaver Chronicles: The Holy Child | 170135 | [170135-spellweaver-chronicles-the-holy-child.json](./170135-spellweaver-chronicles-the-holy-child.json) |
 | Spellweaver: Duke's Zombies Deck | 170137 | [170137-spellweaver-dukes-zombies-deck.json](./170137-spellweaver-dukes-zombies-deck.json) |
 | Spellweaver: Vampire Overlord Deck | 170136 | [170136-spellweaver-vampire-overlord-deck.json](./170136-spellweaver-vampire-overlord-deck.json) |
@@ -25301,6 +25311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of the Hellements | 173880 | [173880-spirits-of-the-hellements.json](./173880-spirits-of-the-hellements.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
 | Spirits of the Unloved | 340181 | [340181-spirits-of-the-unloved.json](./340181-spirits-of-the-unloved.json) |
+| Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
 | Spirits' Creek | 223355 | [223355-spirits-creek.json](./223355-spirits-creek.json) |
@@ -27349,6 +27360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
 | Star Cruiser | 76911 | [76911-star-cruiser.json](./76911-star-cruiser.json) |
 | Star Cruiser II: The Odysseus Project | 62610 | [62610-star-cruiser-ii-the-odysseus-project.json](./62610-star-cruiser-ii-the-odysseus-project.json) |
+| Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
 | Star Crusader | 15566 | [15566-star-crusader.json](./15566-star-crusader.json) |
 | Star Crystal Episode 1: Mertactor - The Volentine Gambit | 25982 | [25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json](./25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json) |
 | Star Crystal Warriors Go! | 278908 | [278908-star-crystal-warriors-go.json](./278908-star-crystal-warriors-go.json) |
@@ -28194,6 +28206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed - Character Pack 2 | 74885 | [74885-star-wars-the-force-unleashed-character-pack-2.json](./74885-star-wars-the-force-unleashed-character-pack-2.json) |
 | Star Wars: The Force Unleashed - Hoth Mission Pack | 17474 | [17474-star-wars-the-force-unleashed-hoth-mission-pack.json](./17474-star-wars-the-force-unleashed-hoth-mission-pack.json) |
 | Star Wars: The Force Unleashed - Jedi Temple Mission Pack | 17476 | [17476-star-wars-the-force-unleashed-jedi-temple-mission-pack.json](./17476-star-wars-the-force-unleashed-jedi-temple-mission-pack.json) |
+| Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed - Ultimate Sith Edition | 19637 | [19637-star-wars-the-force-unleashed-ultimate-sith-edition.json](./19637-star-wars-the-force-unleashed-ultimate-sith-edition.json) |
 | Star Wars: The Force Unleashed II | 324523 | [324523-star-wars-the-force-unleashed-ii.json](./324523-star-wars-the-force-unleashed-ii.json) |
 | Star Wars: The Force Unleashed II | 324524 | [324524-star-wars-the-force-unleashed-ii.json](./324524-star-wars-the-force-unleashed-ii.json) |
@@ -29888,6 +29901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Soul Shaper | 395208 | [395208-steel-soul-shaper.json](./395208-steel-soul-shaper.json) |
 | Steel Storm A.M.M.O. | 16673 | [16673-steel-storm-a-m-m-o.json](./16673-steel-storm-a-m-m-o.json) |
+| Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Surge: Revolution | 275666 | [275666-steel-surge-revolution.json](./275666-steel-surge-revolution.json) |
@@ -34476,6 +34490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
 | Sunrider Academy | 35976 | [35976-sunrider-academy.json](./35976-sunrider-academy.json) |
 | Sunrider: First Arrival | 61283 | [61283-sunrider-first-arrival.json](./61283-sunrider-first-arrival.json) |
+| Sunrider: Liberation Day | 18176 | [18176-sunrider-liberation-day.json](./18176-sunrider-liberation-day.json) |
 | Sunrider: Liberation Day - Captain's Edition | 154208 | [154208-sunrider-liberation-day-captains-edition.json](./154208-sunrider-liberation-day-captains-edition.json) |
 | Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
 | Sunrise | 186088 | [186088-sunrise.json](./186088-sunrise.json) |
@@ -35637,6 +35652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
+| Super Indie Karts | 17853 | [17853-super-indie-karts.json](./17853-super-indie-karts.json) |
 | Super Indie Square | 121943 | [121943-super-indie-square.json](./121943-super-indie-square.json) |
 | Super Indie Square: Fight Against Time | 171350 | [171350-super-indie-square-fight-against-time.json](./171350-super-indie-square-fight-against-time.json) |
 | Super Indy Champ | 42358 | [42358-super-indy-champ.json](./42358-super-indy-champ.json) |
