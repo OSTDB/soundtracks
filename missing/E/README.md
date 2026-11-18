@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Formosa: Agent Reborn | 325059 | [325059-echoes-of-formosa-agent-reborn.json](./325059-echoes-of-formosa-agent-reborn.json) |
 | Echoes of Heroes: Legends Never Die | 325929 | [325929-echoes-of-heroes-legends-never-die.json](./325929-echoes-of-heroes-legends-never-die.json) |
 | Echoes of Humanity | 265520 | [265520-echoes-of-humanity.json](./265520-echoes-of-humanity.json) |
+| Echoes of Isovios: A Legacy Undone | 398604 | [398604-echoes-of-isovios-a-legacy-undone.json](./398604-echoes-of-isovios-a-legacy-undone.json) |
 | Echoes of Karma | 259622 | [259622-echoes-of-karma.json](./259622-echoes-of-karma.json) |
 | Echoes of Kyria | 414564 | [414564-echoes-of-kyria.json](./414564-echoes-of-kyria.json) |
 | Echoes of Light | 374939 | [374939-echoes-of-light.json](./374939-echoes-of-light.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
+| Electronic Arts Top Ten Pak | 414565 | [414565-electronic-arts-top-ten-pak.json](./414565-electronic-arts-top-ten-pak.json) |
 | Electronic Baseball | 245501 | [245501-electronic-baseball.json](./245501-electronic-baseball.json) |
 | Electronic Baseball 2 | 245500 | [245500-electronic-baseball-2.json](./245500-electronic-baseball-2.json) |
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
@@ -2914,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf of Era! Idols Project | 394774 | [394774-elf-of-era-idols-project.json](./394774-elf-of-era-idols-project.json) |
 | Elf Pets Pup - Christmas Run | 91275 | [91275-elf-pets-pup-christmas-run.json](./91275-elf-pets-pup-christmas-run.json) |
 | Elf Pets: Virtual Reindeer | 95345 | [95345-elf-pets-virtual-reindeer.json](./95345-elf-pets-virtual-reindeer.json) |
+| Elf Pioneer | 414607 | [414607-elf-pioneer.json](./414607-elf-pioneer.json) |
 | Elf Shield | 279891 | [279891-elf-shield.json](./279891-elf-shield.json) |
 | Elf Shift | 420759 | [420759-elf-shift.json](./420759-elf-shift.json) |
 | Elf Survivor | 320830 | [320830-elf-survivor.json](./320830-elf-survivor.json) |
@@ -5471,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equestrian the Game | 210575 | [210575-equestrian-the-game.json](./210575-equestrian-the-game.json) |
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
 | Equestrian Training | 85122 | [85122-equestrian-training.json](./85122-equestrian-training.json) |
+| Equi Ungula | 414598 | [414598-equi-ungula.json](./414598-equi-ungula.json) |
 | Equilibria | 80447 | [80447-equilibria.json](./80447-equilibria.json) |
 | Equilibrio | 6667 | [6667-equilibrio.json](./6667-equilibrio.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
@@ -6258,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Goat 2 | 8252 | [8252-escape-goat-2.json](./8252-escape-goat-2.json) |
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Halloween Forest | 226518 | [226518-escape-halloween-forest.json](./226518-escape-halloween-forest.json) |
+| Escape Hatch | 415550 | [415550-escape-hatch.json](./415550-escape-hatch.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
 | Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
 | Escape Hospital | 168491 | [168491-escape-hospital.json](./168491-escape-hospital.json) |
@@ -8422,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvolRun | 339777 | [339777-evolrun.json](./339777-evolrun.json) |
 | EvoluShip | 199321 | [199321-evoluship.json](./199321-evoluship.json) |
 | Evoluth | 381993 | [381993-evoluth.json](./381993-evoluth.json) |
+| Evolutio Tactics | 414581 | [414581-evolutio-tactics.json](./414581-evolutio-tactics.json) |
 | Evolution | 102438 | [102438-evolution.json](./102438-evolution.json) |
 | Evolution | 150743 | [150743-evolution.json](./150743-evolution.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
