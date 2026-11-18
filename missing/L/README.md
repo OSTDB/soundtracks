@@ -5294,7 +5294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeLeech | 146373 | [146373-lifeleech.json](./146373-lifeleech.json) |
 | Lifeless | 34047 | [34047-lifeless.json](./34047-lifeless.json) |
 | Lifeless Horizon | 266900 | [266900-lifeless-horizon.json](./266900-lifeless-horizon.json) |
-| Lifeless Moon | 27933 | [27933-lifeless-moon.json](./27933-lifeless-moon.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifeless Vanguard | 116764 | [116764-lifeless-vanguard.json](./116764-lifeless-vanguard.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
