@@ -2237,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Island | 181578 | [181578-fantasy-island.json](./181578-fantasy-island.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
 | Fantasy Jigsaw Puzzle | 165814 | [165814-fantasy-jigsaw-puzzle.json](./165814-fantasy-jigsaw-puzzle.json) |
+| Fantasy Jigsaw Puzzle | 336770 | [336770-fantasy-jigsaw-puzzle.json](./336770-fantasy-jigsaw-puzzle.json) |
 | Fantasy Jigsaw Puzzle 2 | 165818 | [165818-fantasy-jigsaw-puzzle-2.json](./165818-fantasy-jigsaw-puzzle-2.json) |
 | Fantasy Jigsaw Puzzle 3 | 165826 | [165826-fantasy-jigsaw-puzzle-3.json](./165826-fantasy-jigsaw-puzzle-3.json) |
 | Fantasy Jigsaw Puzzle 4 | 169146 | [169146-fantasy-jigsaw-puzzle-4.json](./169146-fantasy-jigsaw-puzzle-4.json) |
@@ -6994,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter F.D.18 | 22282 | [22282-firefighter-f-d-18.json](./22282-firefighter-f-d-18.json) |
+| Firefighter Frankie | 336793 | [336793-firefighter-frankie.json](./336793-firefighter-frankie.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
 | Firefighter Simulator 911: Car Fire Truck Driver | 258255 | [258255-firefighter-simulator-911-car-fire-truck-driver.json](./258255-firefighter-simulator-911-car-fire-truck-driver.json) |
 | Firefighter Wizard: The Elemental Order | 319431 | [319431-firefighter-wizard-the-elemental-order.json](./319431-firefighter-wizard-the-elemental-order.json) |
