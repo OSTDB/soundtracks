@@ -1523,7 +1523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 259878 | [259878-nba-jam.json](./259878-nba-jam.json) |
 | NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
-| NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam | 8997 | [8997-nba-jam.json](./8997-nba-jam.json) |
 | NBA Jam 2000 | 3552 | [3552-nba-jam-2000.json](./3552-nba-jam-2000.json) |
@@ -4634,7 +4633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktropolis | 313905 | [313905-nicktropolis.json](./313905-nicktropolis.json) |
 | Nicky 2 | 10598 | [10598-nicky-2.json](./10598-nicky-2.json) |
 | Nicky Boom | 10597 | [10597-nicky-boom.json](./10597-nicky-boom.json) |
-| Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
 | Nico-chan no Kaeri ni Cheeseburger mgmg | 405504 | [405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json](./405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json) |
@@ -5880,7 +5878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kazan | 39906 | [39906-ninja-kazan.json](./39906-ninja-kazan.json) |
 | Ninja Ken | 151590 | [151590-ninja-ken.json](./151590-ninja-ken.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
-| Ninja Kid Run VR: Runner & Racing Games For Free | 88145 | [88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json](./88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json) |
 | Ninja Kidz: Time Masters | 244141 | [244141-ninja-kidz-time-masters.json](./244141-ninja-kidz-time-masters.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
@@ -6875,7 +6872,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | Noah's Heart | 173413 | [173413-noahs-heart.json](./173413-noahs-heart.json) |
 | Noah's Quest | 399854 | [399854-noahs-quest.json](./399854-noahs-quest.json) |
-| Noahmund | 96249 | [96249-noahmund.json](./96249-noahmund.json) |
 | Noalone | 250317 | [250317-noalone.json](./250317-noalone.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Noara: The Conspiracy | 178357 | [178357-noara-the-conspiracy.json](./178357-noara-the-conspiracy.json) |
