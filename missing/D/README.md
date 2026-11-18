@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
 | D.A.M.A.G.E | 119861 | [119861-d-a-m-a-g-e.json](./119861-d-a-m-a-g-e.json) |
+| D.A.N.G.E.R. Team. | 147514 | [147514-d-a-n-g-e-r-team.json](./147514-d-a-n-g-e-r-team.json) |
 | D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
 | D.A.T.A | 110471 | [110471-d-a-t-a.json](./110471-d-a-t-a.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
@@ -7020,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta G | 112924 | [112924-delta-g.json](./112924-delta-g.json) |
 | Delta Hero | 123133 | [123133-delta-hero.json](./123133-delta-hero.json) |
 | Delta Horizon | 106560 | [106560-delta-horizon.json](./106560-delta-horizon.json) |
+| Delta Light | 161413 | [161413-delta-light.json](./161413-delta-light.json) |
 | Delta Light 2 | 390277 | [390277-delta-light-2.json](./390277-delta-light-2.json) |
 | Delta Man | 39777 | [39777-delta-man.json](./39777-delta-man.json) |
 | Delta Manager | 398464 | [398464-delta-manager.json](./398464-delta-manager.json) |
@@ -9312,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
 | Devil Zone | 40310 | [40310-devil-zone.json](./40310-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
+| Devil, It's me | 161433 | [161433-devil-its-me.json](./161433-devil-its-me.json) |
 | Devil, It's Me | 161714 | [161714-devil-its-me.json](./161714-devil-its-me.json) |
 | Devil.., Heart and Possession | 304545 | [304545-devil-heart-and-possession.json](./304545-devil-heart-and-possession.json) |
 | Devil's 5 Days: Mischief Game | 232558 | [232558-devils-5-days-mischief-game.json](./232558-devils-5-days-mischief-game.json) |
@@ -11203,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaur! | 389576 | [389576-dinosaur.json](./389576-dinosaur.json) |
+| Dinosaur'us | 147510 | [147510-dinosaurus.json](./147510-dinosaurus.json) |
 | Dinosaur'us | 65584 | [65584-dinosaurus.json](./65584-dinosaurus.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | DinosaurIsland | 55601 | [55601-dinosaurisland.json](./55601-dinosaurisland.json) |
@@ -12976,6 +12980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNF Duel: Who's Next | 242667 | [242667-dnf-duel-whos-next.json](./242667-dnf-duel-whos-next.json) |
 | Dnieper River Line | 24809 | [24809-dnieper-river-line.json](./24809-dnieper-river-line.json) |
 | DNO Rasa's Journey | 35103 | [35103-dno-rasas-journey.json](./35103-dno-rasas-journey.json) |
+| Do 11 | 161422 | [161422-do-11.json](./161422-do-11.json) |
 | Do 335 Pfeil Tour of Duty | 179 | [179-do-335-pfeil-tour-of-duty.json](./179-do-335-pfeil-tour-of-duty.json) |
 | Do A Barrel Roll?? | 285822 | [285822-do-a-barrel-roll.json](./285822-do-a-barrel-roll.json) |
 | Do a Crime | 390110 | [390110-do-a-crime.json](./390110-do-a-crime.json) |
