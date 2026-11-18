@@ -9374,7 +9374,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pop | 315977 | [315977-pixel-pop.json](./315977-pixel-pop.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
 | Pixel Princess Blitz | 22000 | [22000-pixel-princess-blitz.json](./22000-pixel-princess-blitz.json) |
-| Pixel Privateers | 27405 | [27405-pixel-privateers.json](./27405-pixel-privateers.json) |
 | Pixel Pro Baseball | 237605 | [237605-pixel-pro-baseball.json](./237605-pixel-pro-baseball.json) |
 | Pixel Pro Golf | 256752 | [256752-pixel-pro-golf.json](./256752-pixel-pro-golf.json) |
 | Pixel Pro Snow Fight | 232098 | [232098-pixel-pro-snow-fight.json](./232098-pixel-pro-snow-fight.json) |
