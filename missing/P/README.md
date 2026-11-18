@@ -15952,6 +15952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premier Soccer | 40397 | [40397-premier-soccer.json](./40397-premier-soccer.json) |
 | Premiere | 12721 | [12721-premiere.json](./12721-premiere.json) |
+| Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
 | Premium Brettspiele | 91595 | [91595-premium-brettspiele.json](./91595-premium-brettspiele.json) |
 | Premium Pool | 33739 | [33739-premium-pool.json](./33739-premium-pool.json) |
 | Premium Pool Arena | 28943 | [28943-premium-pool-arena.json](./28943-premium-pool-arena.json) |
