@@ -6549,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finneon Accidentally Causes the End of the World | 339251 | [339251-finneon-accidentally-causes-the-end-of-the-world.json](./339251-finneon-accidentally-causes-the-end-of-the-world.json) |
 | Finnie's Bimbo Fishing | 395207 | [395207-finnies-bimbo-fishing.json](./395207-finnies-bimbo-fishing.json) |
 | Finnigan Fox | 348823 | [348823-finnigan-fox.json](./348823-finnigan-fox.json) |
+| Finnish Army Simulator | 129265 | [129265-finnish-army-simulator.json](./129265-finnish-army-simulator.json) |
 | Finnish Cabin Mayhem: Mökkimähinä | 321737 | [321737-finnish-cabin-mayhem-mokkimahina.json](./321737-finnish-cabin-mayhem-mokkimahina.json) |
 | Finnish Cottage 8 | 334484 | [334484-finnish-cottage-8.json](./334484-finnish-cottage-8.json) |
 | Finnish Cottage Simulator | 319559 | [319559-finnish-cottage-simulator.json](./319559-finnish-cottage-simulator.json) |
@@ -11664,6 +11665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Silver Edtion | 412585 | [412585-formula-racing-pro-2026-silver-edtion.json](./412585-formula-racing-pro-2026-silver-edtion.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
+| Formula Retro Racing | 129271 | [129271-formula-retro-racing.json](./129271-formula-retro-racing.json) |
 | Formula Retro Racing: World Tour | 219322 | [219322-formula-retro-racing-world-tour.json](./219322-formula-retro-racing-world-tour.json) |
 | Formula Retro Racing: World Tour - Special Edition | 258257 | [258257-formula-retro-racing-world-tour-special-edition.json](./258257-formula-retro-racing-world-tour-special-edition.json) |
 | Formula Rush | 332868 | [332868-formula-rush.json](./332868-formula-rush.json) |
@@ -14408,6 +14410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier | 201407 | [201407-frontier.json](./201407-frontier.json) |
 | Frontier | 345638 | [345638-frontier.json](./345638-frontier.json) |
 | Frontier | 362171 | [362171-frontier.json](./362171-frontier.json) |
+| Frontier - TRS | 129279 | [129279-frontier-trs.json](./129279-frontier-trs.json) |
 | Frontier Army 1644 | 154060 | [154060-frontier-army-1644.json](./154060-frontier-army-1644.json) |
 | Frontier Brain | 376129 | [376129-frontier-brain.json](./376129-frontier-brain.json) |
 | Frontier Combat: Beginnings | 366120 | [366120-frontier-combat-beginnings.json](./366120-frontier-combat-beginnings.json) |
