@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T00:36:07.533Z",
-  "total_soundtracks": 3773,
+  "generated_at": "2026-11-18T00:51:12.259Z",
+  "total_soundtracks": 3777,
   "games": [
     {
       "igdb_id": 292844,
@@ -5137,6 +5137,20 @@
         {
           "album_name": "Bleeding Edge (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 76357,
+      "game_name": "Blessed Surface",
+      "game_url": "https://ostdb.net/games/blessed-surface",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739cc7677c87724d25c8946f36",
+      "albums": [
+        {
+          "album_name": "Blessed Surface (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Ml8GZX92VtOQoLHNriU2s",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34269,6 +34283,20 @@
       ]
     },
     {
+      "igdb_id": 76350,
+      "game_name": "Season's Beatings",
+      "game_url": "https://ostdb.net/games/seasons-beatings",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733ff03c7285478f717519224b",
+      "albums": [
+        {
+          "album_name": "Season's Beatings (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1cDuCs6AaqWFD9xgnKYxGL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3216,
       "game_name": "Secret of Mana",
       "game_url": "https://ostdb.net/games/secret-of-mana",
@@ -37811,6 +37839,20 @@
       ]
     },
     {
+      "igdb_id": 79624,
+      "game_name": "StarHawk",
+      "game_url": "https://ostdb.net/games/starhawk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273394983ad657c3136c4225af7",
+      "albums": [
+        {
+          "album_name": "Starhawk (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1J9tC37IDPGMaZTKqd7VXO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 37066,
       "game_name": "Starlink: Battle for Atlas",
       "game_url": "https://ostdb.net/games/starlink-battle-for-atlas",
@@ -38889,6 +38931,20 @@
         {
           "album_name": "Super Kiwi 64 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1FjJG20zg3cHlulRAVhtFp",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 81131,
+      "game_name": "Super Knockoff! VS",
+      "game_url": "https://ostdb.net/games/super-knockoff-vs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8638422b92e4774ce4aea58",
+      "albums": [
+        {
+          "album_name": "Super Knockoff! VS (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1z2VRInhwJAYRrKQVABdGF",
           "apple_music_url": "",
           "album_link_url": ""
         }
