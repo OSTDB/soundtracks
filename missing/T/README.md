@@ -4107,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telluricene | 393990 | [393990-telluricene.json](./393990-telluricene.json) |
 | Tellus: Echo of the Void | 392116 | [392116-tellus-echo-of-the-void.json](./392116-tellus-echo-of-the-void.json) |
 | Telly Addicts | 43213 | [43213-telly-addicts.json](./43213-telly-addicts.json) |
+| Telly No Vision | 417063 | [417063-telly-no-vision.json](./417063-telly-no-vision.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
 | Telly Wise | 256680 | [256680-telly-wise.json](./256680-telly-wise.json) |
@@ -8802,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Zigoris | 130252 | [130252-the-curse-of-zigoris.json](./130252-the-curse-of-zigoris.json) |
 | The Curse We Made | 380623 | [380623-the-curse-we-made.json](./380623-the-curse-we-made.json) |
 | The Cursed Amulet | 249860 | [249860-the-cursed-amulet.json](./249860-the-cursed-amulet.json) |
+| The Cursed Armor | 417065 | [417065-the-cursed-armor.json](./417065-the-cursed-armor.json) |
 | The Cursed Castle | 235290 | [235290-the-cursed-castle.json](./235290-the-cursed-castle.json) |
 | The Cursed Crusade | 6950 | [6950-the-cursed-crusade.json](./6950-the-cursed-crusade.json) |
 | The Cursed Deep | 365819 | [365819-the-cursed-deep.json](./365819-the-cursed-deep.json) |
@@ -27488,6 +27490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toi Acid Game | 47525 | [47525-toi-acid-game.json](./47525-toi-acid-game.json) |
 | Toil & Trubble | 404933 | [404933-toil-and-trubble.json](./404933-toil-and-trubble.json) |
 | Toilet | 309387 | [309387-toilet.json](./309387-toilet.json) |
+| Toilet 101 | 417052 | [417052-toilet-101.json](./417052-toilet-101.json) |
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Battle | 338467 | [338467-toilet-battle.json](./338467-toilet-battle.json) |
 | Toilet Battle Hero | 426348 | [426348-toilet-battle-hero.json](./426348-toilet-battle-hero.json) |
@@ -35590,6 +35593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
 | Trüberbrook | 70396 | [70396-truberbrook.json](./70396-truberbrook.json) |
 | Truc Bidule | 315418 | [315418-truc-bidule.json](./315418-truc-bidule.json) |
+| Trucazo! | 417043 | [417043-trucazo.json](./417043-trucazo.json) |
 | Truck | 298266 | [298266-truck.json](./298266-truck.json) |
 | Truck & Camping Collection | 328466 | [328466-truck-and-camping-collection.json](./328466-truck-and-camping-collection.json) |
 | Truck & Logistics Simulator | 129757 | [129757-truck-and-logistics-simulator.json](./129757-truck-and-logistics-simulator.json) |
