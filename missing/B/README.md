@@ -4770,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleboats.io | 327906 | [327906-battleboats-io.json](./327906-battleboats-io.json) |
 | Battleboom | 284235 | [284235-battleboom.json](./284235-battleboom.json) |
 | Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
+| Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
 | Battleborn: Oscar Mike vs. The Battle School | 403138 | [403138-battleborn-oscar-mike-vs-the-battle-school.json](./403138-battleborn-oscar-mike-vs-the-battle-school.json) |
 | Battleborn: Phoebe and the Heart of Ekkunar | 403141 | [403141-battleborn-phoebe-and-the-heart-of-ekkunar.json](./403141-battleborn-phoebe-and-the-heart-of-ekkunar.json) |
@@ -15693,6 +15694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash UX | 41180 | [41180-boulder-dash-ux.json](./41180-boulder-dash-ux.json) |
 | Boulder Dash XMAS 2002 | 63967 | [63967-boulder-dash-xmas-2002.json](./63967-boulder-dash-xmas-2002.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
+| Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
 | Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
 | Boulder Dash: Treasure Pleasure | 63968 | [63968-boulder-dash-treasure-pleasure.json](./63968-boulder-dash-treasure-pleasure.json) |
@@ -18535,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Complex | 262183 | [262183-brutal-complex.json](./262183-brutal-complex.json) |
 | Brutal Dinosaur | 148074 | [148074-brutal-dinosaur.json](./148074-brutal-dinosaur.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
+| Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Doom: Arthur's Edition Reloaded | 198654 | [198654-brutal-doom-arthurs-edition-reloaded.json](./198654-brutal-doom-arthurs-edition-reloaded.json) |
 | Brutal Doom: Black Edition | 198656 | [198656-brutal-doom-black-edition.json](./198656-brutal-doom-black-edition.json) |
