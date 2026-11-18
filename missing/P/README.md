@@ -6452,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Dust | 148671 | [148671-phoenix-dust.json](./148671-phoenix-dust.json) |
 | Phoenix Dynasty 2 | 54829 | [54829-phoenix-dynasty-2.json](./54829-phoenix-dynasty-2.json) |
 | Phoenix Fire | 71678 | [71678-phoenix-fire.json](./71678-phoenix-fire.json) |
+| Phoenix Force | 36181 | [36181-phoenix-force.json](./36181-phoenix-force.json) |
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
 | Phoenix Heavy | 134968 | [134968-phoenix-heavy.json](./134968-phoenix-heavy.json) |
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
@@ -16589,6 +16590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
 | Princess in the Mirror | 238902 | [238902-princess-in-the-mirror.json](./238902-princess-in-the-mirror.json) |
 | Princess in the Tower Block | 183284 | [183284-princess-in-the-tower-block.json](./183284-princess-in-the-tower-block.json) |
+| Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Isabella: A Witch's Curse | 51002 | [51002-princess-isabella-a-witchs-curse.json](./51002-princess-isabella-a-witchs-curse.json) |
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
 | Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
