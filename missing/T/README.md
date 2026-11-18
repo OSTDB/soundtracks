@@ -4921,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator Salvation: Fight for the Future | 115311 | [115311-terminator-salvation-fight-for-the-future.json](./115311-terminator-salvation-fight-for-the-future.json) |
 | Terminator: Arena | 370370 | [370370-terminator-arena.json](./370370-terminator-arena.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
+| Terminator: Dark Fate - Defiance | 186889 | [186889-terminator-dark-fate-defiance.json](./186889-terminator-dark-fate-defiance.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
@@ -12320,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Overkill - Extended Cut | 44614 | [44614-the-house-of-the-dead-overkill-extended-cut.json](./44614-the-house-of-the-dead-overkill-extended-cut.json) |
 | The House of the Dead: Overkill - The Lost Reels | 134305 | [134305-the-house-of-the-dead-overkill-the-lost-reels.json](./134305-the-house-of-the-dead-overkill-the-lost-reels.json) |
 | The House of the Dead: Remake | 145787 | [145787-the-house-of-the-dead-remake.json](./145787-the-house-of-the-dead-remake.json) |
+| The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House of the Dead: Remake - Z Version | 263842 | [263842-the-house-of-the-dead-remake-z-version.json](./263842-the-house-of-the-dead-remake-z-version.json) |
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
@@ -27046,6 +27048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Quest II | 261146 | [261146-titan-quest-ii.json](./261146-titan-quest-ii.json) |
 | Titan Quest: Atlantis | 118280 | [118280-titan-quest-atlantis.json](./118280-titan-quest-atlantis.json) |
 | Titan Quest: Collector's Edition | 186920 | [186920-titan-quest-collectors-edition.json](./186920-titan-quest-collectors-edition.json) |
+| Titan Quest: Eternal Embers | 185987 | [185987-titan-quest-eternal-embers.json](./185987-titan-quest-eternal-embers.json) |
 | Titan Quest: Gold Edition | 51386 | [51386-titan-quest-gold-edition.json](./51386-titan-quest-gold-edition.json) |
 | Titan Quest: Legendary Edition | 155209 | [155209-titan-quest-legendary-edition.json](./155209-titan-quest-legendary-edition.json) |
 | Titan Quest: Ragnarök | 75999 | [75999-titan-quest-ragnarok.json](./75999-titan-quest-ragnarok.json) |
