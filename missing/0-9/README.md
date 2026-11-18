@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
+| 101-in-1 Party Megamix | 4632 | [4632-101-in-1-party-megamix.json](./4632-101-in-1-party-megamix.json) |
 | 101-in-1 Sports Megamix | 92045 | [92045-101-in-1-sports-megamix.json](./92045-101-in-1-sports-megamix.json) |
 | 101-in-1 Sports Party Megamix | 4633 | [4633-101-in-1-sports-party-megamix.json](./4633-101-in-1-sports-party-megamix.json) |
 | 1010 | 76492 | [76492-1010.json](./76492-1010.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1942: Joint Strike Elefunk | 99980 | [99980-1942-joint-strike-elefunk.json](./99980-1942-joint-strike-elefunk.json) |
 | 1942: Pacific Air War | 47006 | [47006-1942-pacific-air-war.json](./47006-1942-pacific-air-war.json) |
 | 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
+| 1942: The Pacific Air War | 2374 | [2374-1942-the-pacific-air-war.json](./2374-1942-the-pacific-air-war.json) |
 | 1943 Berlin Blitz | 110705 | [110705-1943-berlin-blitz.json](./110705-1943-berlin-blitz.json) |
 | 1943 Deadly Desert | 101450 | [101450-1943-deadly-desert.json](./101450-1943-deadly-desert.json) |
 | 1943 Kai: Midway Kaisen | 39865 | [39865-1943-kai-midway-kaisen.json](./39865-1943-kai-midway-kaisen.json) |
@@ -3699,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Wonders Trilogy | 281805 | [281805-7-wonders-trilogy.json](./281805-7-wonders-trilogy.json) |
 | 7 Wonders: Ancient Alien Makeover | 4638 | [4638-7-wonders-ancient-alien-makeover.json](./4638-7-wonders-ancient-alien-makeover.json) |
 | 7 Wonders: Magical Mystery Tour | 4637 | [4637-7-wonders-magical-mystery-tour.json](./4637-7-wonders-magical-mystery-tour.json) |
+| 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
