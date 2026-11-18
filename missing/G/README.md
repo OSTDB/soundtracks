@@ -6844,7 +6844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Fortune | 309557 | [309557-god-of-fortune.json](./309557-god-of-fortune.json) |
 | God Of Gods | 256684 | [256684-god-of-gods.json](./256684-god-of-gods.json) |
 | God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
-| God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Math: Train Your Brain | 232061 | [232061-god-of-math-train-your-brain.json](./232061-god-of-math-train-your-brain.json) |
 | God of Medicine | 414832 | [414832-god-of-medicine.json](./414832-god-of-medicine.json) |
@@ -10243,6 +10242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green House | 93380 | [93380-green-house.json](./93380-green-house.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Island | 66306 | [66306-green-island.json](./66306-green-island.json) |
+| Green Jumper | 318077 | [318077-green-jumper.json](./318077-green-jumper.json) |
 | Green Lantern | 208319 | [208319-green-lantern.json](./208319-green-lantern.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 196504 | [196504-green-lantern-rise-of-the-manhunters.json](./196504-green-lantern-rise-of-the-manhunters.json) |
@@ -11024,6 +11024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
 | Grisly Grottos | 271845 | [271845-grisly-grottos.json](./271845-grisly-grottos.json) |
 | Grist | 220424 | [220424-grist.json](./220424-grist.json) |
+| Grisù Tales from Dragontown | 320419 | [320419-grisu-tales-from-dragontown.json](./320419-grisu-tales-from-dragontown.json) |
 | Griswold the Goblin | 406243 | [406243-griswold-the-goblin.json](./406243-griswold-the-goblin.json) |
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
