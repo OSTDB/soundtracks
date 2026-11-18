@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
+| Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | ActionSwing | 89784 | [89784-actionswing.json](./89784-actionswing.json) |
 | Activate | 231819 | [231819-activate.json](./231819-activate.json) |
@@ -5867,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Walker: Secret Journey | 32184 | [32184-agent-walker-secret-journey.json](./32184-agent-walker-secret-journey.json) |
 | Agent Wonky | 96366 | [96366-agent-wonky.json](./96366-agent-wonky.json) |
 | Agent X | 159525 | [159525-agent-x.json](./159525-agent-x.json) |
+| Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agent X II: The Mad Prof's Back! | 13294 | [13294-agent-x-ii-the-mad-profs-back.json](./13294-agent-x-ii-the-mad-profs-back.json) |
 | Agent X: Equation Rider | 81754 | [81754-agent-x-equation-rider.json](./81754-agent-x-equation-rider.json) |
 | Agent XXL und das Geheimnis der Quadrate | 113470 | [113470-agent-xxl-und-das-geheimnis-der-quadrate.json](./113470-agent-xxl-und-das-geheimnis-der-quadrate.json) |
