@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
+| Saka-doh: The Reversal Arts | 389131 | [389131-saka-doh-the-reversal-arts.json](./389131-saka-doh-the-reversal-arts.json) |
 | Sakaagari Hurricane Portable | 140114 | [140114-sakaagari-hurricane-portable.json](./140114-sakaagari-hurricane-portable.json) |
 | Sakaagari Hurricane Portable: Complete Limited Edition | 154713 | [154713-sakaagari-hurricane-portable-complete-limited-edition.json](./154713-sakaagari-hurricane-portable-complete-limited-edition.json) |
 | Sakai Burai Kaiji: Death or Survival | 61394 | [61394-sakai-burai-kaiji-death-or-survival.json](./61394-sakai-burai-kaiji-death-or-survival.json) |
@@ -14036,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | SkinCrawler Ranch | 364740 | [364740-skincrawler-ranch.json](./364740-skincrawler-ranch.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
+| Skinface | 389133 | [389133-skinface.json](./389133-skinface.json) |
 | Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
 | Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
 | Skinless The Horror Story Quest | 307870 | [307870-skinless-the-horror-story-quest.json](./307870-skinless-the-horror-story-quest.json) |
@@ -25686,6 +25688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Men | 248230 | [248230-spooky-men.json](./248230-spooky-men.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
+| Spooky Monkey | 383269 | [383269-spooky-monkey.json](./383269-spooky-monkey.json) |
 | Spooky Monster | 374372 | [374372-spooky-monster.json](./374372-spooky-monster.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
 | Spooky Night | 30481 | [30481-spooky-night.json](./30481-spooky-night.json) |
@@ -34319,6 +34322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunken Shadows | 293034 | [293034-sunken-shadows.json](./293034-sunken-shadows.json) |
 | Sunken Ships | 270887 | [270887-sunken-ships.json](./270887-sunken-ships.json) |
+| Sunken Sky | 383289 | [383289-sunken-sky.json](./383289-sunken-sky.json) |
 | Sunken Stones | 272718 | [272718-sunken-stones.json](./272718-sunken-stones.json) |
 | Sunken Tower | 237543 | [237543-sunken-tower.json](./237543-sunken-tower.json) |
 | Sunken Veins | 332779 | [332779-sunken-veins.json](./332779-sunken-veins.json) |
