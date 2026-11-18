@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
 | Unbound Eternity | 338592 | [338592-unbound-eternity.json](./338592-unbound-eternity.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
+| Unbox | 19001 | [19001-unbox.json](./19001-unbox.json) |
 | Unbox The Cats | 337009 | [337009-unbox-the-cats.json](./337009-unbox-the-cats.json) |
 | Unbox the Room | 304642 | [304642-unbox-the-room.json](./304642-unbox-the-room.json) |
 | Unbox your Workspace | 398308 | [398308-unbox-your-workspace.json](./398308-unbox-your-workspace.json) |
