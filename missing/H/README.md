@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Rush | 100919 | [100919-helix-rush.json](./100919-helix-rush.json) |
 | Helix Slider | 155718 | [155718-helix-slider.json](./155718-helix-slider.json) |
 | Helix Waltz | 254874 | [254874-helix-waltz.json](./254874-helix-waltz.json) |
+| Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
 | Helixteus 3 | 180934 | [180934-helixteus-3.json](./180934-helixteus-3.json) |
@@ -9718,6 +9719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
 | Hitman: Blood Money L.A. | 125151 | [125151-hitman-blood-money-l-a.json](./125151-hitman-blood-money-l-a.json) |
+| Hitman: Blood Money Reprisal | 278026 | [278026-hitman-blood-money-reprisal.json](./278026-hitman-blood-money-reprisal.json) |
 | Hitman: Blood Money Requiem Pack | 76413 | [76413-hitman-blood-money-requiem-pack.json](./76413-hitman-blood-money-requiem-pack.json) |
 | Hitman: Blood Money Vegas | 125150 | [125150-hitman-blood-money-vegas.json](./125150-hitman-blood-money-vegas.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
@@ -13884,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter X Hunter: Michikareshi Mono | 65358 | [65358-hunter-x-hunter-michikareshi-mono.json](./65358-hunter-x-hunter-michikareshi-mono.json) |
 | Hunter X Hunter: Minna Tomodachi Daisakusen!! | 49623 | [49623-hunter-x-hunter-minna-tomodachi-daisakusen.json](./49623-hunter-x-hunter-minna-tomodachi-daisakusen.json) |
+| Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 1 Neferpitou | 412657 | [412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json](./412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
