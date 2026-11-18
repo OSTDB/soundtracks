@@ -5326,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Match + One Day Cricket | 79465 | [79465-test-match-one-day-cricket.json](./79465-test-match-one-day-cricket.json) |
 | Test of Courage | 139513 | [139513-test-of-courage.json](./139513-test-of-courage.json) |
 | Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
+| Test Release Do Not Buy!!! | 398611 | [398611-test-release-do-not-buy.json](./398611-test-release-do-not-buy.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject | 325984 | [325984-test-subject.json](./325984-test-subject.json) |
 | Test Subject 901 | 108039 | [108039-test-subject-901.json](./108039-test-subject-901.json) |
@@ -11817,6 +11818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harmony Chronicles: Cat Out of the Bag - Collector’s Edition | 338663 | [338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json](./338663-the-harmony-chronicles-cat-out-of-the-bag-collector-s-edition.json) |
 | The Harmony Chronicles: Chaos Realms - Collector's Edition | 319771 | [319771-the-harmony-chronicles-chaos-realms-collectors-edition.json](./319771-the-harmony-chronicles-chaos-realms-collectors-edition.json) |
 | The Harmony Chronicles: Demon of the Void - Collector’s Edition | 332532 | [332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json](./332532-the-harmony-chronicles-demon-of-the-void-collector-s-edition.json) |
+| The Harmony Chronicles: Elixir Revolution - Collector's Edition | 411162 | [411162-the-harmony-chronicles-elixir-revolution-collectors-edition.json](./411162-the-harmony-chronicles-elixir-revolution-collectors-edition.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
 | The Harrowed | 133477 | [133477-the-harrowed.json](./133477-the-harrowed.json) |
 | The Harvest | 130220 | [130220-the-harvest.json](./130220-the-harvest.json) |
@@ -37325,6 +37327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinGo! | 358521 | [358521-twingo.json](./358521-twingo.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
+| Twinkle | 411161 | [411161-twinkle.json](./411161-twinkle.json) |
 | Twinkle Crusaders GoGo! | 59417 | [59417-twinkle-crusaders-gogo.json](./59417-twinkle-crusaders-gogo.json) |
 | Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
