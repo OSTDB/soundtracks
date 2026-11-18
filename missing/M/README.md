@@ -319,10 +319,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macro Data Refinement Simulator: Shapes | 333778 | [333778-macro-data-refinement-simulator-shapes.json](./333778-macro-data-refinement-simulator-shapes.json) |
 | Macro golf | 169772 | [169772-macro-golf.json](./169772-macro-golf.json) |
 | Macro-TV | 278071 | [278071-macro-tv.json](./278071-macro-tv.json) |
+| Macroboy Y | 106019 | [106019-macroboy-y.json](./106019-macroboy-y.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macron Dissolution | 421569 | [421569-macron-dissolution.json](./421569-macron-dissolution.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
+| Macross 7: Ginga no Heart o Furuwa Sero!! | 76776 | [76776-macross-7-ginga-no-heart-o-furuwa-sero.json](./76776-macross-7-ginga-no-heart-o-furuwa-sero.json) |
 | Macross Ace Frontier | 44486 | [44486-macross-ace-frontier.json](./44486-macross-ace-frontier.json) |
 | Macross Delta Scramble | 136752 | [136752-macross-delta-scramble.json](./136752-macross-delta-scramble.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
@@ -2337,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong the Endless Journey | 53346 | [53346-mahjong-the-endless-journey.json](./53346-mahjong-the-endless-journey.json) |
 | MahJong Time | 102495 | [102495-mahjong-time.json](./102495-mahjong-time.json) |
 | Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
+| Mahjong Titans | 92180 | [92180-mahjong-titans.json](./92180-mahjong-titans.json) |
 | Mahjong Touryuumon | 82265 | [82265-mahjong-touryuumon.json](./82265-mahjong-touryuumon.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
 | Mahjong Towers Eternity | 16179 | [16179-mahjong-towers-eternity.json](./16179-mahjong-towers-eternity.json) |
@@ -5228,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Marudachi | 302189 | [302189-marudachi.json](./302189-marudachi.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
+| Maruko Deluxe Quiz | 92175 | [92175-maruko-deluxe-quiz.json](./92175-maruko-deluxe-quiz.json) |
 | Marupoyo: The Round Chick's Adventure | 412114 | [412114-marupoyo-the-round-chicks-adventure.json](./412114-marupoyo-the-round-chicks-adventure.json) |
 | Marusa no Onna | 48430 | [48430-marusa-no-onna.json](./48430-marusa-no-onna.json) |
 | Maruta Escape | 293166 | [293166-maruta-escape.json](./293166-maruta-escape.json) |
@@ -6154,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matachin | 191994 | [191994-matachin.json](./191994-matachin.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Matamarcianos | 209243 | [209243-matamarcianos.json](./209243-matamarcianos.json) |
+| Matanga | 115081 | [115081-matanga.json](./115081-matanga.json) |
 | Matantei Loki Ragnarok Mayoukaku: Ushinawareta Bishou | 300600 | [300600-matantei-loki-ragnarok-mayoukaku-ushinawareta-bishou.json](./300600-matantei-loki-ragnarok-mayoukaku-ushinawareta-bishou.json) |
 | Matantei Loki Ragnarok: Gensou no Labyrinth | 49698 | [49698-matantei-loki-ragnarok-gensou-no-labyrinth.json](./49698-matantei-loki-ragnarok-gensou-no-labyrinth.json) |
 | Matar Gente Rica de Skate | 281254 | [281254-matar-gente-rica-de-skate.json](./281254-matar-gente-rica-de-skate.json) |
@@ -13251,6 +13256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikan | 61313 | [61313-mikan.json](./61313-mikan.json) |
 | Mikan Muzou | 150055 | [150055-mikan-muzou.json](./150055-mikan-muzou.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
+| Mikapyon | 115086 | [115086-mikapyon.json](./115086-mikapyon.json) |
 | Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
 | Mike | 62888 | [62888-mike.json](./62888-mike.json) |
 | Mike & Tyler | 133348 | [133348-mike-and-tyler.json](./133348-mike-and-tyler.json) |
@@ -16486,6 +16492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Life | 181148 | [181148-mobile-life.json](./181148-mobile-life.json) |
 | Mobile Light Force | 299074 | [299074-mobile-light-force.json](./299074-mobile-light-force.json) |
 | Mobile Light Force 2 | 407678 | [407678-mobile-light-force-2.json](./407678-mobile-light-force-2.json) |
+| Mobile Man | 79391 | [79391-mobile-man.json](./79391-mobile-man.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
@@ -20895,6 +20902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Forward | 231586 | [231586-moving-forward.json](./231586-moving-forward.json) |
 | Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
+| Moving Hazard | 79402 | [79402-moving-hazard.json](./79402-moving-hazard.json) |
 | Moving Houses | 293821 | [293821-moving-houses.json](./293821-moving-houses.json) |
 | Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
 | Moving In | 238131 | [238131-moving-in.json](./238131-moving-in.json) |
@@ -21613,6 +21621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Muchi Muchi Pork! | 39698 | [39698-muchi-muchi-pork.json](./39698-muchi-muchi-pork.json) |
+| Muchi Muchi Pork! & Pink Sweets | 92171 | [92171-muchi-muchi-pork-and-pink-sweets.json](./92171-muchi-muchi-pork-and-pink-sweets.json) |
 | Mucho Muscle | 180736 | [180736-mucho-muscle.json](./180736-mucho-muscle.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
@@ -22589,6 +22598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutable 50 | 370422 | [370422-mutable-50.json](./370422-mutable-50.json) |
 | Mutabor | 257301 | [257301-mutabor.json](./257301-mutabor.json) |
+| Mutagen Extinction | 115080 | [115080-mutagen-extinction.json](./115080-mutagen-extinction.json) |
 | Mutagenesis | 264195 | [264195-mutagenesis.json](./264195-mutagenesis.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutagenic 2 | 390610 | [390610-mutagenic-2.json](./390610-mutagenic-2.json) |
