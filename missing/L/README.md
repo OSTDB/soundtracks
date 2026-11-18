@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
 | Last Sinner | 187164 | [187164-last-sinner.json](./187164-last-sinner.json) |
 | Last Slice | 131674 | [131674-last-slice.json](./131674-last-slice.json) |
+| Last Solace | 417027 | [417027-last-solace.json](./417027-last-solace.json) |
 | Last Soldier | 52270 | [52270-last-soldier.json](./52270-last-soldier.json) |
 | Last Soul | 142925 | [142925-last-soul.json](./142925-last-soul.json) |
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latarnix Puzzle | 190183 | [190183-latarnix-puzzle.json](./190183-latarnix-puzzle.json) |
 | Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
+| Late Checkout | 417023 | [417023-late-checkout.json](./417023-late-checkout.json) |
 | Late City Riders | 117592 | [117592-late-city-riders.json](./117592-late-city-riders.json) |
 | Late Emergency | 365269 | [365269-late-emergency.json](./365269-late-emergency.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
@@ -10817,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Ludus | 128123 | [128123-ludus.json](./128123-ludus.json) |
+| Ludus Deceptor | 417042 | [417042-ludus-deceptor.json](./417042-ludus-deceptor.json) |
 | Ludus Latrunculorum | 384163 | [384163-ludus-latrunculorum.json](./384163-ludus-latrunculorum.json) |
 | Ludus Magnatus: Gladiator Manager Simulator | 390751 | [390751-ludus-magnatus-gladiator-manager-simulator.json](./390751-ludus-magnatus-gladiator-manager-simulator.json) |
 | Ludus Manager | 366747 | [366747-ludus-manager.json](./366747-ludus-manager.json) |
