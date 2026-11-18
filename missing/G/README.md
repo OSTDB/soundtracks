@@ -10721,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
 | Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
 | Grim Prix | 266756 | [266756-grim-prix.json](./266756-grim-prix.json) |
+| Grim Pulse: The First Blood | 383273 | [383273-grim-pulse-the-first-blood.json](./383273-grim-pulse-the-first-blood.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Quest: Origins | 200238 | [200238-grim-quest-origins.json](./200238-grim-quest-origins.json) |
 | Grim Realms | 164203 | [164203-grim-realms.json](./164203-grim-realms.json) |
