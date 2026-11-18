@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T00:51:12.259Z",
-  "total_soundtracks": 3777,
+  "generated_at": "2026-11-18T00:56:40.206Z",
+  "total_soundtracks": 3786,
   "games": [
     {
       "igdb_id": 292844,
@@ -16885,6 +16885,20 @@
       ]
     },
     {
+      "igdb_id": 76066,
+      "game_name": "Golem Gates",
+      "game_url": "https://ostdb.net/games/golem-gates",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f1884a9b553cd5eac0d9dd90",
+      "albums": [
+        {
+          "album_name": "Golem Gates (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Q29Mbd7046fIfLx4YuP32",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 30099,
       "game_name": "Golf It!",
       "game_url": "https://ostdb.net/games/golf-it",
@@ -18947,6 +18961,20 @@
       ]
     },
     {
+      "igdb_id": 74910,
+      "game_name": "Hide or Die",
+      "game_url": "https://ostdb.net/games/hide-or-die",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6bb40b75c8e58884cee704c",
+      "albums": [
+        {
+          "album_name": "Hide or Die (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Dtc13ZCzLvmdSv2evurnl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 56581,
       "game_name": "High Hell",
       "game_url": "https://ostdb.net/games/high-hell",
@@ -20429,6 +20457,20 @@
       ]
     },
     {
+      "igdb_id": 74289,
+      "game_name": "Interstellar Prime",
+      "game_url": "https://ostdb.net/games/interstellar-prime",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a1e7ba7ba93f3939b656973",
+      "albums": [
+        {
+          "album_name": "Interstellar Prime (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4rZFUN7HdQ5w4IaMgUwYNX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 110011,
       "game_name": "Interstellar Space: Genesis",
       "game_url": "https://ostdb.net/games/interstellar-space-genesis",
@@ -20759,6 +20801,20 @@
     {
       "igdb_id": 11598,
       "game_name": "Ittle Dew 2",
+      "game_url": "https://ostdb.net/games/ittle-dew-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aeb94d6a933af060f2b90b56",
+      "albums": [
+        {
+          "album_name": "Ittle Dew 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2j1HlC9cweUyuBUarOOOTc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75286,
+      "game_name": "Ittle Dew 2+",
       "game_url": "https://ostdb.net/games/ittle-dew-2",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273aeb94d6a933af060f2b90b56",
       "albums": [
@@ -27861,6 +27917,20 @@
         {
           "album_name": "Nocturnal (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3aVhoYLmOSWtSmi5Ghh3Om",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75762,
+      "game_name": "Nocturnal Hunt",
+      "game_url": "https://ostdb.net/games/nocturnal-hunt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27323f856bb5edef1467434cd9f",
+      "albums": [
+        {
+          "album_name": "Nocturnal Hunt (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/29knCjPAWDKpjiLxIUd7G9",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40445,6 +40515,20 @@
       ]
     },
     {
+      "igdb_id": 74414,
+      "game_name": "The Architect: Paris",
+      "game_url": "https://ostdb.net/games/the-architect-paris",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e45658c54cadad456229b3df",
+      "albums": [
+        {
+          "album_name": "The Architect : Paris (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Y9UJQZUZp7lHAhSyH85N7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25935,
       "game_name": "The Artful Escape",
       "game_url": "https://ostdb.net/games/the-artful-escape",
@@ -42417,6 +42501,20 @@
       ]
     },
     {
+      "igdb_id": 74907,
+      "game_name": "The Padre",
+      "game_url": "https://ostdb.net/games/the-padre",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eab4f22332389f3106601331",
+      "albums": [
+        {
+          "album_name": "The Padre (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7nYyTtUoQRp6LCIaepNeVR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 181486,
       "game_name": "The Pale Beyond",
       "game_url": "https://ostdb.net/games/the-pale-beyond",
@@ -44295,6 +44393,20 @@
         {
           "album_name": "Towards the Pantheon (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1VSeQir8u5z5TuHv1sTOIb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75968,
+      "game_name": "Tower Fortress",
+      "game_url": "https://ostdb.net/games/tower-fortress",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27317f09e582587423ec4dd968a",
+      "albums": [
+        {
+          "album_name": "Tower Fortress (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2ithDwIngPkYGBrUmQLgIB",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -48679,6 +48791,20 @@
         {
           "album_name": "YesterMorrow (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2yT9RnsBWtQUvXtKMHJEbT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 74779,
+      "game_name": "Yi and the Thousand Moons",
+      "game_url": "https://ostdb.net/games/yi-and-the-thousand-moons",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735f611db4b59646e801af6d0b",
+      "albums": [
+        {
+          "album_name": "Yi and the Thousand Moons (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4OoKgr1HXDsrzNedEMQrUY",
           "apple_music_url": "",
           "album_link_url": ""
         }
