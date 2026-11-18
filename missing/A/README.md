@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Change in the Weather | 60182 | [60182-a-change-in-the-weather.json](./60182-a-change-in-the-weather.json) |
 | A Change of Heart: A Magical Girl Adventure | 249532 | [249532-a-change-of-heart-a-magical-girl-adventure.json](./249532-a-change-of-heart-a-magical-girl-adventure.json) |
 | A Chase in Rainsville | 185181 | [185181-a-chase-in-rainsville.json](./185181-a-chase-in-rainsville.json) |
+| A Chat with Charon | 138254 | [138254-a-chat-with-charon.json](./138254-a-chat-with-charon.json) |
 | A Cheesy Game | 111957 | [111957-a-cheesy-game.json](./111957-a-cheesy-game.json) |
 | A Chef's Oncoming Breakdown | 386163 | [386163-a-chefs-oncoming-breakdown.json](./386163-a-chefs-oncoming-breakdown.json) |
 | A Chicken In The Office | 379463 | [379463-a-chicken-in-the-office.json](./379463-a-chicken-in-the-office.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Face: The Eye of Geltz is watching Us | 67684 | [67684-a-second-face-the-eye-of-geltz-is-watching-us.json](./67684-a-second-face-the-eye-of-geltz-is-watching-us.json) |
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
 | A Secret Between You and Me | 314792 | [314792-a-secret-between-you-and-me.json](./314792-a-secret-between-you-and-me.json) |
+| A Secret Bitsy Game | 138258 | [138258-a-secret-bitsy-game.json](./138258-a-secret-bitsy-game.json) |
 | A Sector Darkly | 420330 | [420330-a-sector-darkly.json](./420330-a-sector-darkly.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Series of Interactive Stories Where No Matter What You Do You Are Immediately Killed by a Werewolf | 179760 | [179760-a-series-of-interactive-stories-where-no-matter-what-you-do-you-are-immediately-killed-by-a-werewolf.json](./179760-a-series-of-interactive-stories-where-no-matter-what-you-do-you-are-immediately-killed-by-a-werewolf.json) |
@@ -1723,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Waddleful Life | 325178 | [325178-a-waddleful-life.json](./325178-a-waddleful-life.json) |
 | A Waffles Fate | 176542 | [176542-a-waffles-fate.json](./176542-a-waffles-fate.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
+| A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
 | A Walk Among the Wild Garlic | 141916 | [141916-a-walk-among-the-wild-garlic.json](./141916-a-walk-among-the-wild-garlic.json) |
@@ -2876,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academia do Saber | 230672 | [230672-academia-do-saber.json](./230672-academia-do-saber.json) |
 | Academia Ovivim | 332287 | [332287-academia-ovivim.json](./332287-academia-ovivim.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
+| Academic Pursuits (As Opposed to Regular Pursuits) | 140662 | [140662-academic-pursuits-as-opposed-to-regular-pursuits.json](./140662-academic-pursuits-as-opposed-to-regular-pursuits.json) |
 | Academy | 76161 | [76161-academy.json](./76161-academy.json) |
 | Academy Love Saga: Tennis Angels | 312665 | [312665-academy-love-saga-tennis-angels.json](./312665-academy-love-saga-tennis-angels.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
@@ -3678,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam Blaster: Atomic Enforcer | 73362 | [73362-adam-blaster-atomic-enforcer.json](./73362-adam-blaster-atomic-enforcer.json) |
 | Adam Jump Combo | 201941 | [201941-adam-jump-combo.json](./201941-adam-jump-combo.json) |
 | Adam N Eve 4 | 393320 | [393320-adam-n-eve-4.json](./393320-adam-n-eve-4.json) |
+| Adam Sandler Dating Sim | 138263 | [138263-adam-sandler-dating-sim.json](./138263-adam-sandler-dating-sim.json) |
 | Adam Savage's Tested VR | 174554 | [174554-adam-savages-tested-vr.json](./174554-adam-savages-tested-vr.json) |
 | Adam the Storyteller | 157454 | [157454-adam-the-storyteller.json](./157454-adam-the-storyteller.json) |
 | Adam Waste | 59575 | [59575-adam-waste.json](./59575-adam-waste.json) |
@@ -4719,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guard | 321279 | [321279-aerial-guard.json](./321279-aerial-guard.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
+| Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aerial Life: Premium Limited Edition | 166989 | [166989-aerial-life-premium-limited-edition.json](./166989-aerial-life-premium-limited-edition.json) |
 | Aerial Lockdown | 337421 | [337421-aerial-lockdown.json](./337421-aerial-lockdown.json) |
 | Aerial Mini | 339695 | [339695-aerial-mini.json](./339695-aerial-mini.json) |
@@ -5030,6 +5036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affected: The Manor | 72421 | [72421-affected-the-manor.json](./72421-affected-the-manor.json) |
 | Affection: San Shimai to Juusha no Shoujo | 329476 | [329476-affection-san-shimai-to-juusha-no-shoujo.json](./329476-affection-san-shimai-to-juusha-no-shoujo.json) |
 | Affectionate Annie | 271669 | [271669-affectionate-annie.json](./271669-affectionate-annie.json) |
+| Affectus | 146347 | [146347-affectus.json](./146347-affectus.json) |
 | Affictionate | 409159 | [409159-affictionate.json](./409159-affictionate.json) |
 | Affiliated Homies | 357796 | [357796-affiliated-homies.json](./357796-affiliated-homies.json) |
 | Affinity | 122063 | [122063-affinity.json](./122063-affinity.json) |
@@ -11581,6 +11588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
 | Anima: Gate of Memories | 19851 | [19851-anima-gate-of-memories.json](./19851-anima-gate-of-memories.json) |
+| Anima: Gate of Memories - Arcane Edition | 140672 | [140672-anima-gate-of-memories-arcane-edition.json](./140672-anima-gate-of-memories-arcane-edition.json) |
 | Anima: Gate of Memories - The Nameless Chronicles | 101608 | [101608-anima-gate-of-memories-the-nameless-chronicles.json](./101608-anima-gate-of-memories-the-nameless-chronicles.json) |
 | Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
@@ -14002,6 +14010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
 | AquaNox 2: Revelation | 1998 | [1998-aquanox-2-revelation.json](./1998-aquanox-2-revelation.json) |
 | Aquanox: Deep Descent | 16708 | [16708-aquanox-deep-descent.json](./16708-aquanox-deep-descent.json) |
+| Aquanox: Deep Descent - Collector's Edition | 140667 | [140667-aquanox-deep-descent-collectors-edition.json](./140667-aquanox-deep-descent-collectors-edition.json) |
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
@@ -20467,6 +20476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
 | Avabel Lupinus | 208213 | [208213-avabel-lupinus.json](./208213-avabel-lupinus.json) |
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
+| Avactor: End of the Fifth Circle | 140648 | [140648-avactor-end-of-the-fifth-circle.json](./140648-avactor-end-of-the-fifth-circle.json) |
 | Avadon 2: The Corruption | 10036 | [10036-avadon-2-the-corruption.json](./10036-avadon-2-the-corruption.json) |
 | Avadon 3: Hint Book & Extras | 51710 | [51710-avadon-3-hint-book-and-extras.json](./51710-avadon-3-hint-book-and-extras.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
