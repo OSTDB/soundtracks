@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
 | EdgeLords | 382088 | [382088-edgelords.json](./382088-edgelords.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
+| Edges | 55381 | [55381-edges.json](./55381-edges.json) |
 | Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
 | Edgy | 177597 | [177597-edgy.json](./177597-edgy.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
 | Eldevin | 17350 | [17350-eldevin.json](./17350-eldevin.json) |
 | ElDewrito | 117290 | [117290-eldewrito.json](./117290-eldewrito.json) |
+| Eldgear | 278669 | [278669-eldgear.json](./278669-eldgear.json) |
 | ElDorado | 415753 | [415753-eldorado.json](./415753-eldorado.json) |
 | Eldorado FPS | 295574 | [295574-eldorado-fps.json](./295574-eldorado-fps.json) |
 | Eldorado Gate Volume 1 | 5553 | [5553-eldorado-gate-volume-1.json](./5553-eldorado-gate-volume-1.json) |
@@ -4751,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 360804 | [360804-enigma.json](./360804-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
 | Enigma | 78144 | [78144-enigma.json](./78144-enigma.json) |
+| Enigma 7 | 72843 | [72843-enigma-7.json](./72843-enigma-7.json) |
 | Enigma Adventure Studio | 131133 | [131133-enigma-adventure-studio.json](./131133-enigma-adventure-studio.json) |
 | Enigma Agency: The Case of Shadows | 63441 | [63441-enigma-agency-the-case-of-shadows.json](./63441-enigma-agency-the-case-of-shadows.json) |
 | Enigma Awaken | 311517 | [311517-enigma-awaken.json](./311517-enigma-awaken.json) |
@@ -8937,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exon | 239375 | [239375-exon.json](./239375-exon.json) |
 | Exon | 380338 | [380338-exon.json](./380338-exon.json) |
+| Exon: The Impossible Challenge | 55410 | [55410-exon-the-impossible-challenge.json](./55410-exon-the-impossible-challenge.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
@@ -9507,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
 | Extreme Road Trip 2 | 64275 | [64275-extreme-road-trip-2.json](./64275-extreme-road-trip-2.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
+| Extreme Rock Climbing | 72823 | [72823-extreme-rock-climbing.json](./72823-extreme-rock-climbing.json) |
 | Extreme Skate Boarder 3D | 87635 | [87635-extreme-skate-boarder-3d.json](./87635-extreme-skate-boarder-3d.json) |
 | Extreme Skater | 200200 | [200200-extreme-skater.json](./200200-extreme-skater.json) |
 | Extreme Skiing VR | 30736 | [30736-extreme-skiing-vr.json](./30736-extreme-skiing-vr.json) |
