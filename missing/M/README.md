@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maracaibo Digital | 197692 | [197692-maracaibo-digital.json](./197692-maracaibo-digital.json) |
 | Maraiyum: Rise of the Setting Sun | 32026 | [32026-maraiyum-rise-of-the-setting-sun.json](./32026-maraiyum-rise-of-the-setting-sun.json) |
 | Maraka | 267703 | [267703-maraka.json](./267703-maraka.json) |
+| Maralinga | 365316 | [365316-maralinga.json](./365316-maralinga.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marathon | 8709 | [8709-marathon.json](./8709-marathon.json) |
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
@@ -8102,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
 | Medieval Heroes Gold Hunt | 341221 | [341221-medieval-heroes-gold-hunt.json](./341221-medieval-heroes-gold-hunt.json) |
 | Medieval Horse Dealer Simulator | 357857 | [357857-medieval-horse-dealer-simulator.json](./357857-medieval-horse-dealer-simulator.json) |
+| Medieval Horse Simulator | 365322 | [365322-medieval-horse-simulator.json](./365322-medieval-horse-simulator.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Collection | 82071 | [82071-medieval-ii-total-war-collection.json](./82071-medieval-ii-total-war-collection.json) |
@@ -8488,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man at the Tokyo Olympics 2 | 334628 | [334628-mega-man-at-the-tokyo-olympics-2.json](./334628-mega-man-at-the-tokyo-olympics-2.json) |
 | Mega Man Battle & Chase | 1731 | [1731-mega-man-battle-and-chase.json](./1731-mega-man-battle-and-chase.json) |
 | Mega Man Battle Network | 1755 | [1755-mega-man-battle-network.json](./1755-mega-man-battle-network.json) |
+| Mega Man Battle Network | 351295 | [351295-mega-man-battle-network.json](./351295-mega-man-battle-network.json) |
 | Mega Man Battle Network 2 | 1756 | [1756-mega-man-battle-network-2.json](./1756-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 2 | 352862 | [352862-mega-man-battle-network-2.json](./352862-mega-man-battle-network-2.json) |
 | Mega Man Battle Network 2 | 393277 | [393277-mega-man-battle-network-2.json](./393277-mega-man-battle-network-2.json) |
@@ -13382,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku-15 | 307502 | [307502-miku-15.json](./307502-miku-15.json) |
 | Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
 | Miku'n Pop | 314226 | [314226-mikun-pop.json](./314226-mikun-pop.json) |
+| Mikuboard | 346826 | [346826-mikuboard.json](./346826-mikuboard.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Mikuri Sacrament | 314810 | [314810-mikuri-sacrament.json](./314810-mikuri-sacrament.json) |
 | Mil Rosas | 154849 | [154849-mil-rosas.json](./154849-mil-rosas.json) |
@@ -19101,6 +19105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | Moonday | 221006 | [221006-moonday.json](./221006-moonday.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
+| Moondrills | 357478 | [357478-moondrills.json](./357478-moondrills.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | MoonDrop Chronicles | 370606 | [370606-moondrop-chronicles.json](./370606-moondrop-chronicles.json) |
 | Moondrop Isle | 306861 | [306861-moondrop-isle.json](./306861-moondrop-isle.json) |
@@ -20628,6 +20633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motos Arrangement | 229448 | [229448-motos-arrangement.json](./229448-motos-arrangement.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
+| MotoTrials | 365313 | [365313-mototrials.json](./365313-mototrials.json) |
 | MotoX | 224638 | [224638-motox.json](./224638-motox.json) |
 | Mots Croisés | 93557 | [93557-mots-croises.json](./93557-mots-croises.json) |
 | Mots Croises, La Selection Des Meilleurs Mots Croises, Tele 7 Jeux | 144075 | [144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json](./144075-mots-croises-la-selection-des-meilleurs-mots-croises-tele-7-jeux.json) |
