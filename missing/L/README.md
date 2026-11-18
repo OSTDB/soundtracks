@@ -4235,7 +4235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Back to Our Village | 332738 | [332738-lets-go-back-to-our-village.json](./332738-lets-go-back-to-our-village.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go Buildit | 114609 | [114609-lets-go-buildit.json](./114609-lets-go-buildit.json) |
-| Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Crazy with Lemmings | 70786 | [70786-lets-go-crazy-with-lemmings.json](./70786-lets-go-crazy-with-lemmings.json) |
 | Let's Go Eat | 146358 | [146358-lets-go-eat.json](./146358-lets-go-eat.json) |
@@ -6159,7 +6158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
 | Lineage II: Salvation | 98631 | [98631-lineage-ii-salvation.json](./98631-lineage-ii-salvation.json) |
 | Lineage II: The Chaotic Chronicle | 102485 | [102485-lineage-ii-the-chaotic-chronicle.json](./102485-lineage-ii-the-chaotic-chronicle.json) |
-| Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
 | Lineage W | 165362 | [165362-lineage-w.json](./165362-lineage-w.json) |
 | Lineage: The Blood Pledge | 78247 | [78247-lineage-the-blood-pledge.json](./78247-lineage-the-blood-pledge.json) |
@@ -8118,7 +8116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Ripper | 195581 | [195581-london-ripper.json](./195581-london-ripper.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | London Seirei Tantei-dan | 62874 | [62874-london-seirei-tantei-dan.json](./62874-london-seirei-tantei-dan.json) |
-| London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
 | London Taxi: Rushour | 4976 | [4976-london-taxi-rushour.json](./4976-london-taxi-rushour.json) |
 | London to Cardiff | 421580 | [421580-london-to-cardiff.json](./421580-london-to-cardiff.json) |
 | London Underground Simulator - World of Subways Vol.3 | 50410 | [50410-london-underground-simulator-world-of-subways-vol-3.json](./50410-london-underground-simulator-world-of-subways-vol-3.json) |
@@ -9152,7 +9149,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
 | Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
 | Lost Empire 2977 | 123771 | [123771-lost-empire-2977.json](./123771-lost-empire-2977.json) |
-| Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
 | Lost End | 152953 | [152953-lost-end.json](./152953-lost-end.json) |
 | Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
