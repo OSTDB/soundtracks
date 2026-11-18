@@ -272,9 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
 | HackStack | 200442 | [200442-hackstack.json](./200442-hackstack.json) |
-| Hacktag | 28241 | [28241-hacktag.json](./28241-hacktag.json) |
 | Hacky | 320659 | [320659-hacky.json](./320659-hacky.json) |
-| HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
 | HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
 | Hadaka Apron Gakuen | 396986 | [396986-hadaka-apron-gakuen.json](./396986-hadaka-apron-gakuen.json) |
@@ -5535,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Land | 411205 | [411205-hentai-age-land.json](./411205-hentai-age-land.json) |
 | Hentai Age Running | 389166 | [389166-hentai-age-running.json](./389166-hentai-age-running.json) |
 | Hentai Age Sci-Fi | 396618 | [396618-hentai-age-sci-fi.json](./396618-hentai-age-sci-fi.json) |
+| Hentai Age Servant | 389158 | [389158-hentai-age-servant.json](./389158-hentai-age-servant.json) |
 | Hentai Age Shadow | 411202 | [411202-hentai-age-shadow.json](./411202-hentai-age-shadow.json) |
 | Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
@@ -5558,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
+| Hentai Archer | 389148 | [389148-hentai-archer.json](./389148-hentai-archer.json) |
 | Hentai Arena \| Battle Royale | 143239 | [143239-hentai-arena-battle-royale.json](./143239-hentai-arena-battle-royale.json) |
 | Hentai Arena Holy Pussy | 284544 | [284544-hentai-arena-holy-pussy.json](./284544-hentai-arena-holy-pussy.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
@@ -5646,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
+| Hentai Cleopatra 2 | 389157 | [389157-hentai-cleopatra-2.json](./389157-hentai-cleopatra-2.json) |
 | Hentai Clicker | 292697 | [292697-hentai-clicker.json](./292697-hentai-clicker.json) |
 | Hentai Clicker | 328706 | [328706-hentai-clicker.json](./328706-hentai-clicker.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
@@ -5677,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
 | Hentai Cosplay USSR | 286486 | [286486-hentai-cosplay-ussr.json](./286486-hentai-cosplay-ussr.json) |
 | Hentai Cowgirl | 177630 | [177630-hentai-cowgirl.json](./177630-hentai-cowgirl.json) |
+| Hentai Cowgirl | 389154 | [389154-hentai-cowgirl.json](./389154-hentai-cowgirl.json) |
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
@@ -5762,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Panda | 397974 | [397974-hentai-furry-panda.json](./397974-hentai-furry-panda.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Furry Pony | 367661 | [367661-hentai-furry-pony.json](./367661-hentai-furry-pony.json) |
+| Hentai Furry Raccoon | 389152 | [389152-hentai-furry-raccoon.json](./389152-hentai-furry-raccoon.json) |
 | Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Furry Wolfy | 368526 | [368526-hentai-furry-wolfy.json](./368526-hentai-furry-wolfy.json) |
@@ -5905,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Special Edition | 292913 | [292913-hentai-golf-special-edition.json](./292913-hentai-golf-special-edition.json) |
 | Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
 | Hentai Golf: Ultimate Edition | 286190 | [286190-hentai-golf-ultimate-edition.json](./286190-hentai-golf-ultimate-edition.json) |
+| Hentai Gothic | 389160 | [389160-hentai-gothic.json](./389160-hentai-gothic.json) |
 | Hentai Gothic Girl | 165821 | [165821-hentai-gothic-girl.json](./165821-hentai-gothic-girl.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
@@ -6045,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Most Wanted | 366501 | [366501-hentai-most-wanted.json](./366501-hentai-most-wanted.json) |
 | Hentai Muse | 284528 | [284528-hentai-muse.json](./284528-hentai-muse.json) |
 | Hentai Muse: Secretary DLC | 426342 | [426342-hentai-muse-secretary-dlc.json](./426342-hentai-muse-secretary-dlc.json) |
+| Hentai Nami | 389145 | [389145-hentai-nami.json](./389145-hentai-nami.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
@@ -6110,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
+| Hentai Pop Star | 389150 | [389150-hentai-pop-star.json](./389150-hentai-pop-star.json) |
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
 | Hentai Pretty | 167406 | [167406-hentai-pretty.json](./167406-hentai-pretty.json) |
 | Hentai Princess | 171664 | [171664-hentai-princess.json](./171664-hentai-princess.json) |
@@ -6235,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai Sora | 393227 | [393227-hentai-sora.json](./393227-hentai-sora.json) |
 | Hentai Space | 109316 | [109316-hentai-space.json](./109316-hentai-space.json) |
+| Hentai Spacegirl | 389149 | [389149-hentai-spacegirl.json](./389149-hentai-spacegirl.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
 | Hentai Splash | 234964 | [234964-hentai-splash.json](./234964-hentai-splash.json) |
@@ -6335,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tights | 232801 | [232801-hentai-tights.json](./232801-hentai-tights.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
+| Hentai Train | 389161 | [389161-hentai-train.json](./389161-hentai-train.json) |
 | Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
 | Hentai Two Girls | 284536 | [284536-hentai-two-girls.json](./284536-hentai-two-girls.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
@@ -14494,7 +14502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperBowl San Francisco | 175065 | [175065-hyperbowl-san-francisco.json](./175065-hyperbowl-san-francisco.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
 | HyperBowl: Arcade Edition | 73880 | [73880-hyperbowl-arcade-edition.json](./73880-hyperbowl-arcade-edition.json) |
-| HyperBrawl Tournament | 29495 | [29495-hyperbrawl-tournament.json](./29495-hyperbrawl-tournament.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | Hypercade | 126273 | [126273-hypercade.json](./126273-hypercade.json) |
