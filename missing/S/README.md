@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai war era Hunter | 186503 | [186503-samurai-war-era-hunter.json](./186503-samurai-war-era-hunter.json) |
 | Samurai Warrior | 234981 | [234981-samurai-warrior.json](./234981-samurai-warrior.json) |
 | Samurai Warrior | 263464 | [263464-samurai-warrior.json](./263464-samurai-warrior.json) |
+| Samurai Warrior: The Battles of Usagi Yojimbo | 40952 | [40952-samurai-warrior-the-battles-of-usagi-yojimbo.json](./40952-samurai-warrior-the-battles-of-usagi-yojimbo.json) |
 | Samurai Warriors | 6027 | [6027-samurai-warriors.json](./6027-samurai-warriors.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 2 Empires | 7174 | [7174-samurai-warriors-2-empires.json](./7174-samurai-warriors-2-empires.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolmates: The Mystery of the Magical Bracelet | 165005 | [165005-schoolmates-the-mystery-of-the-magical-bracelet.json](./165005-schoolmates-the-mystery-of-the-magical-bracelet.json) |
 | Schoolnight, 3am | 299870 | [299870-schoolnight-3am.json](./299870-schoolnight-3am.json) |
 | Schoolteacher Simulator | 326369 | [326369-schoolteacher-simulator.json](./326369-schoolteacher-simulator.json) |
+| SchoolWar - VR AnimeGirl | 55383 | [55383-schoolwar-vr-animegirl.json](./55383-schoolwar-vr-animegirl.json) |
 | SchoolX | 197854 | [197854-schoolx.json](./197854-schoolx.json) |
 | Schoolyard Slaughter | 73666 | [73666-schoolyard-slaughter.json](./73666-schoolyard-slaughter.json) |
 | Schoolyard Sports | 206655 | [206655-schoolyard-sports.json](./206655-schoolyard-sports.json) |
@@ -7483,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS: Heia Safari | 192520 | [192520-sgs-heia-safari.json](./192520-sgs-heia-safari.json) |
 | Sgt. Rock: On the Frontline | 62056 | [62056-sgt-rock-on-the-frontline.json](./62056-sgt-rock-on-the-frontline.json) |
 | Sgt. Saunders' Combat! | 42368 | [42368-sgt-saunders-combat.json](./42368-sgt-saunders-combat.json) |
+| Sgt. Slaughter's Mat Wars | 40951 | [40951-sgt-slaughters-mat-wars.json](./40951-sgt-slaughters-mat-wars.json) |
 | SgyuinBaldo | 151436 | [151436-sgyuinbaldo.json](./151436-sgyuinbaldo.json) |
 | Sh*thead | 292748 | [292748-sh-thead.json](./292748-sh-thead.json) |
 | SH1-R0 | 145743 | [145743-sh1-r0.json](./145743-sh1-r0.json) |
@@ -13252,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir AddaLot's "Mini" Math Adventure | 79472 | [79472-sir-addalots-mini-math-adventure.json](./79472-sir-addalots-mini-math-adventure.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
+| Sir Benfro's Brilliant Balloon | 22876 | [22876-sir-benfros-brilliant-balloon.json](./22876-sir-benfros-brilliant-balloon.json) |
 | Sir Bob: Squire for Hire | 275968 | [275968-sir-bob-squire-for-hire.json](./275968-sir-bob-squire-for-hire.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
 | Sir Christopher | 164230 | [164230-sir-christopher.json](./164230-sir-christopher.json) |
@@ -17995,6 +17999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SobokoSnake | 216529 | [216529-sobokosnake.json](./216529-sobokosnake.json) |
 | Sobor | 80753 | [80753-sobor.json](./80753-sobor.json) |
 | Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
+| Sobreviva | 55373 | [55373-sobreviva.json](./55373-sobreviva.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | SoccAR | 109951 | [109951-soccar.json](./109951-soccar.json) |
 | Soccer | 172399 | [172399-soccer.json](./172399-soccer.json) |
@@ -19070,6 +19075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Sollire | 316530 | [316530-sollire.json](./316530-sollire.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solmec: Among Stars | 55413 | [55413-solmec-among-stars.json](./55413-solmec-among-stars.json) |
 | Solmec: Colony Adrift | 52079 | [52079-solmec-colony-adrift.json](./52079-solmec-colony-adrift.json) |
 | Solmec: Hollow Planet | 52070 | [52070-solmec-hollow-planet.json](./52070-solmec-hollow-planet.json) |
 | Solnest | 372591 | [372591-solnest.json](./372591-solnest.json) |
@@ -20921,6 +20927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sortzy States | 413224 | [413224-sortzy-states.json](./413224-sortzy-states.json) |
 | Sorvice | 70879 | [70879-sorvice.json](./70879-sorvice.json) |
 | SOS | 24008 | [24008-sos.json](./24008-sos.json) |
+| SOS | 46819 | [46819-sos.json](./46819-sos.json) |
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
@@ -22471,6 +22478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Lines: A Puzzle Arcade Game - Extra Levels! | 238171 | [238171-space-lines-a-puzzle-arcade-game-extra-levels.json](./238171-space-lines-a-puzzle-arcade-game-extra-levels.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
 | Space Lint | 132423 | [132423-space-lint.json](./132423-space-lint.json) |
+| Space Lobsters | 41032 | [41032-space-lobsters.json](./41032-space-lobsters.json) |
 | Space Loner Chronicle | 141947 | [141947-space-loner-chronicle.json](./141947-space-loner-chronicle.json) |
 | Space Lords | 182390 | [182390-space-lords.json](./182390-space-lords.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
@@ -22595,6 +22603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
 | Space Overlords | 25547 | [25547-space-overlords.json](./25547-space-overlords.json) |
 | Space Panic | 18678 | [18678-space-panic.json](./18678-space-panic.json) |
+| Space Panic Arena | 55366 | [55366-space-panic-arena.json](./55366-space-panic-arena.json) |
 | Space Panic Defense | 75306 | [75306-space-panic-defense.json](./75306-space-panic-defense.json) |
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
@@ -23885,6 +23894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 111562 | [111562-speed-racer.json](./111562-speed-racer.json) |
 | Speed Racer | 245401 | [245401-speed-racer.json](./245401-speed-racer.json) |
+| Speed Racer | 46833 | [46833-speed-racer.json](./46833-speed-racer.json) |
 | Speed Racer Candy Tracks | 343895 | [343895-speed-racer-candy-tracks.json](./343895-speed-racer-candy-tracks.json) |
 | Speed Racer in My Most Dangerous Adventures | 42457 | [42457-speed-racer-in-my-most-dangerous-adventures.json](./42457-speed-racer-in-my-most-dangerous-adventures.json) |
 | Speed Racer in the Challenge of Racer X | 71087 | [71087-speed-racer-in-the-challenge-of-racer-x.json](./71087-speed-racer-in-the-challenge-of-racer-x.json) |
@@ -26515,6 +26525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squaser X | 367366 | [367366-squaser-x.json](./367366-squaser-x.json) |
+| Squash | 46825 | [46825-squash.json](./46825-squash.json) |
 | Squash | 68143 | [68143-squash.json](./68143-squash.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Ball | 320778 | [320778-squash-ball.json](./320778-squash-ball.json) |
@@ -39153,6 +39164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
 | Sushi Gacha: Auto Battler | 417047 | [417047-sushi-gacha-auto-battler.json](./417047-sushi-gacha-auto-battler.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
+| Sushi Go Round | 22861 | [22861-sushi-go-round.json](./22861-sushi-go-round.json) |
 | Sushi Go! | 99894 | [99894-sushi-go.json](./99894-sushi-go.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Lick | 402686 | [402686-sushi-lick.json](./402686-sushi-lick.json) |
