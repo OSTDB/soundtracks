@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Fever | 57400 | [57400-racing-fever.json](./57400-racing-fever.json) |
 | Racing Fever: Moto | 106003 | [106003-racing-fever-moto.json](./106003-racing-fever-moto.json) |
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
+| Racing for Pinks | 414566 | [414566-racing-for-pinks.json](./414566-racing-for-pinks.json) |
 | Racing Game | 393952 | [393952-racing-game.json](./393952-racing-game.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Gears Advance | 6551 | [6551-racing-gears-advance.json](./6551-racing-gears-advance.json) |
@@ -2662,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
 | Raw Recruit | 69976 | [69976-raw-recruit.json](./69976-raw-recruit.json) |
+| Raw Signal: Uncover Gay Hidden Secrets | 399863 | [399863-raw-signal-uncover-gay-hidden-secrets.json](./399863-raw-signal-uncover-gay-hidden-secrets.json) |
 | Rawbogem | 420029 | [420029-rawbogem.json](./420029-rawbogem.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
@@ -3257,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Anime Situation! 2 | 286987 | [286987-real-anime-situation-2.json](./286987-real-anime-situation-2.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
 | Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
+| Real Backrooms | 414622 | [414622-real-backrooms.json](./414622-real-backrooms.json) |
 | Real Baseball 2022 | 228008 | [228008-real-baseball-2022.json](./228008-real-baseball-2022.json) |
 | Real Baseball 3D | 232895 | [232895-real-baseball-3d.json](./232895-real-baseball-3d.json) |
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
@@ -4658,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Suitcase | 134140 | [134140-red-suitcase.json](./134140-red-suitcase.json) |
 | Red Sun Raiders | 130272 | [130272-red-sun-raiders.json](./130272-red-sun-raiders.json) |
 | Red Sunrise | 247963 | [247963-red-sunrise.json](./247963-red-sunrise.json) |
+| Red Sunset | 399745 | [399745-red-sunset.json](./399745-red-sunset.json) |
 | Red Supreme | 337733 | [337733-red-supreme.json](./337733-red-supreme.json) |
 | Red Sword | 314203 | [314203-red-sword.json](./314203-red-sword.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
@@ -5496,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relentless | 111883 | [111883-relentless.json](./111883-relentless.json) |
 | Relentless | 129699 | [129699-relentless.json](./129699-relentless.json) |
 | Relentless | 46736 | [46736-relentless.json](./46736-relentless.json) |
+| Relentless 64 | 414558 | [414558-relentless-64.json](./414558-relentless-64.json) |
 | Relentless Dark | 372915 | [372915-relentless-dark.json](./372915-relentless-dark.json) |
 | Relentless Expanse | 322762 | [322762-relentless-expanse.json](./322762-relentless-expanse.json) |
 | Relentless Frontier | 164196 | [164196-relentless-frontier.json](./164196-relentless-frontier.json) |
@@ -6786,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
+| ReThink \| Evolved 6 | 398607 | [398607-rethink-evolved-6.json](./398607-rethink-evolved-6.json) |
 | ReThink 2 | 109380 | [109380-rethink-2.json](./109380-rethink-2.json) |
 | ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
@@ -8023,6 +8029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Dad Simulator | 247904 | [247904-rich-dad-simulator.json](./247904-rich-dad-simulator.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Everyone | 270052 | [270052-rich-everyone.json](./270052-rich-everyone.json) |
+| Rich Flavors | 399865 | [399865-rich-flavors.json](./399865-rich-flavors.json) |
 | Rich Girl Fashion Mall | 103561 | [103561-rich-girl-fashion-mall.json](./103561-rich-girl-fashion-mall.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
@@ -13411,6 +13418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Freestyle Skiing | 175310 | [175310-rtl-freestyle-skiing.json](./175310-rtl-freestyle-skiing.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
+| RTL Ski Jumping 2007 | 399774 | [399774-rtl-ski-jumping-2007.json](./399774-rtl-ski-jumping-2007.json) |
 | RTL Skispringen 2002 | 68865 | [68865-rtl-skispringen-2002.json](./68865-rtl-skispringen-2002.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Skispringen Herausforderung 2001 | 69015 | [69015-rtl-skispringen-herausforderung-2001.json](./69015-rtl-skispringen-herausforderung-2001.json) |
