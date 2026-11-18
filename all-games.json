@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T06:26:03.693Z",
-  "total_soundtracks": 3848,
+  "generated_at": "2026-11-18T06:35:55.392Z",
+  "total_soundtracks": 3849,
   "games": [
     {
       "igdb_id": 292844,
@@ -18758,6 +18758,20 @@
           "album_name": "Harold Halibut (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4KlL7ddeIkQ8wqHvqubURS",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21983,
+      "game_name": "Hartacon Tactics",
+      "game_url": "https://ostdb.net/games/hartacon-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3cfea85e60cfc62d44897cf",
+      "albums": [
+        {
+          "album_name": "Hartacon Tactics (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/34YuWndl1gmHlJ3P9ROskt",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
