@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Sports Edition | 348219 | [348219-jeopardy-sports-edition.json](./348219-jeopardy-sports-edition.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
 | Jeopardy! Super Deluxe | 210134 | [210134-jeopardy-super-deluxe.json](./210134-jeopardy-super-deluxe.json) |
+| Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
 | Jephs Furry Adventures 7 | 254873 | [254873-jephs-furry-adventures-7.json](./254873-jephs-furry-adventures-7.json) |
