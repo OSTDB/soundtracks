@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmarion: Dragon time | 123523 | [123523-elmarion-dragon-time.json](./123523-elmarion-dragon-time.json) |
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
+| Elmer | 386737 | [386737-elmer.json](./386737-elmer.json) |
 | Elmia | 76281 | [76281-elmia.json](./76281-elmia.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa | 21026 | [21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json](./21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json) |
