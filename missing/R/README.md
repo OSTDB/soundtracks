@@ -4205,6 +4205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recurrence | 374412 | [374412-recurrence.json](./374412-recurrence.json) |
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recurring Nightmares | 376161 | [376161-recurring-nightmares.json](./376161-recurring-nightmares.json) |
+| Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | ReCursed | 416431 | [416431-recursed.json](./416431-recursed.json) |
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
 | Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
@@ -4908,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redstream Dispatch | 397059 | [397059-redstream-dispatch.json](./397059-redstream-dispatch.json) |
 | Redsun 2020 | 218948 | [218948-redsun-2020.json](./218948-redsun-2020.json) |
 | RedSun RTS | 110403 | [110403-redsun-rts.json](./110403-redsun-rts.json) |
+| Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | Redtape | 158999 | [158999-redtape.json](./158999-redtape.json) |
 | Redtape | 388152 | [388152-redtape.json](./388152-redtape.json) |
 | Redubla | 417437 | [417437-redubla.json](./417437-redubla.json) |
@@ -14705,6 +14707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Underground: VR | 30300 | [30300-russian-underground-vr.json](./30300-russian-underground-vr.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian Village Simulator 2 | 387745 | [387745-russian-village-simulator-2.json](./387745-russian-village-simulator-2.json) |
+| Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
 | Russian Warship | 267444 | [267444-russian-warship.json](./267444-russian-warship.json) |
 | Russian World | 95284 | [95284-russian-world.json](./95284-russian-world.json) |
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
