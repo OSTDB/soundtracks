@@ -10573,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurzelimperium | 320107 | [320107-wurzelimperium.json](./320107-wurzelimperium.json) |
 | Wurzelnsisters | 309419 | [309419-wurzelnsisters.json](./309419-wurzelnsisters.json) |
 | Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
+| Wushu Chronicles | 107801 | [107801-wushu-chronicles.json](./107801-wushu-chronicles.json) |
 | Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
 | Wuthering Waves: Blade of Past Resounds, Lingering Dream Hymns | 409689 | [409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json](./409689-wuthering-waves-blade-of-past-resounds-lingering-dream-hymns.json) |
