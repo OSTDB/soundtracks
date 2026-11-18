@@ -10214,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzeria | 314402 | [314402-pizzeria.json](./314402-pizzeria.json) |
 | Pizzeria of Peril | 260790 | [260790-pizzeria-of-peril.json](./260790-pizzeria-of-peril.json) |
 | Pizzicato Polka: Ensa Genya | 108833 | [108833-pizzicato-polka-ensa-genya.json](./108833-pizzicato-polka-ensa-genya.json) |
+| PJ Masks Power Heroes: Mighty Alliance | 282048 | [282048-pj-masks-power-heroes-mighty-alliance.json](./282048-pj-masks-power-heroes-mighty-alliance.json) |
 | PJ Masks Rush: Kart Racing | 105826 | [105826-pj-masks-rush-kart-racing.json](./105826-pj-masks-rush-kart-racing.json) |
 | PJ Masks: Hero Tech | 294478 | [294478-pj-masks-hero-tech.json](./294478-pj-masks-hero-tech.json) |
 | Pj Masks: Heroes of the Night | 148527 | [148527-pj-masks-heroes-of-the-night.json](./148527-pj-masks-heroes-of-the-night.json) |
@@ -15671,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Muckingham Files - Part 3 | 309064 | [309064-powerwash-simulator-muckingham-files-part-3.json](./309064-powerwash-simulator-muckingham-files-part-3.json) |
 | PowerWash Simulator: Muckingham Files - Part 4 | 312427 | [312427-powerwash-simulator-muckingham-files-part-4.json](./312427-powerwash-simulator-muckingham-files-part-4.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
+| PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
 | PowerWash Simulator: SpongeBob SquarePants Special Pack | 250898 | [250898-powerwash-simulator-spongebob-squarepants-special-pack.json](./250898-powerwash-simulator-spongebob-squarepants-special-pack.json) |
 | PowerWash Simulator: The Muckingham Files | 246901 | [246901-powerwash-simulator-the-muckingham-files.json](./246901-powerwash-simulator-the-muckingham-files.json) |
