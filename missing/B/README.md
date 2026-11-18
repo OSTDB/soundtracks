@@ -1348,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Success | 238773 | [238773-baking-success.json](./238773-baking-success.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
+| Baking Time: Complete Edition | 302266 | [302266-baking-time-complete-edition.json](./302266-baking-time-complete-edition.json) |
 | Baking Time: Fast Edition | 310436 | [310436-baking-time-fast-edition.json](./310436-baking-time-fast-edition.json) |
 | Baking Time: Powerful Edition | 308668 | [308668-baking-time-powerful-edition.json](./308668-baking-time-powerful-edition.json) |
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
@@ -2776,6 +2777,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
 | Barcode Battler | 308060 | [308060-barcode-battler.json](./308060-barcode-battler.json) |
 | Barcode Battler | 308062 | [308062-barcode-battler.json](./308062-barcode-battler.json) |
+| Barcode Battler II: Batman Returns - Batman | 329827 | [329827-barcode-battler-ii-batman-returns-batman.json](./329827-barcode-battler-ii-batman-returns-batman.json) |
+| Barcode Battler II: Batman Returns - Catwoman | 329828 | [329828-barcode-battler-ii-batman-returns-catwoman.json](./329828-barcode-battler-ii-batman-returns-catwoman.json) |
+| Barcode Battler II: Batman Returns - Michael Keaton / Danny DeVito / Michelle Pfeiffer | 329830 | [329830-barcode-battler-ii-batman-returns-michael-keaton-danny-devito-michelle-pfeiffer.json](./329830-barcode-battler-ii-batman-returns-michael-keaton-danny-devito-michelle-pfeiffer.json) |
+| Barcode Battler II: Batman Returns - Penguin | 329829 | [329829-barcode-battler-ii-batman-returns-penguin.json](./329829-barcode-battler-ii-batman-returns-penguin.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario Kart | 329275 | [329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json](./329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Senyou Card Software - Zelda no Densetsu: Kamigami no Triforce | 328949 | [328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json](./328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json) |
@@ -2930,6 +2935,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Wart | 328889 | [328889-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wart.json](./328889-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wart.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Wizzrobe | 328876 | [328876-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wizzrobe.json](./328876-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wizzrobe.json) |
 | Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Zora | 328877 | [328877-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-zora.json](./328877-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-zora.json) |
+| Barcode Battler Senki: A-JJ72 (Animal Zoku) | 329834 | [329834-barcode-battler-senki-a-jj72-animal-zoku.json](./329834-barcode-battler-senki-a-jj72-animal-zoku.json) |
+| Barcode Battler Senki: B-BJ00 (Bird Zoku) | 329835 | [329835-barcode-battler-senki-b-bj00-bird-zoku.json](./329835-barcode-battler-senki-b-bj00-bird-zoku.json) |
+| Barcode Battler Senki: F-J081 (Ocean Zoku) | 329833 | [329833-barcode-battler-senki-f-j081-ocean-zoku.json](./329833-barcode-battler-senki-f-j081-ocean-zoku.json) |
+| Barcode Battler Senki: Fire-Rod | 329836 | [329836-barcode-battler-senki-fire-rod.json](./329836-barcode-battler-senki-fire-rod.json) |
+| Barcode Battler Senki: H-RJ73 (Human Zoku) | 329831 | [329831-barcode-battler-senki-h-rj73-human-zoku.json](./329831-barcode-battler-senki-h-rj73-human-zoku.json) |
+| Barcode Battler Senki: Ice-Rod | 329837 | [329837-barcode-battler-senki-ice-rod.json](./329837-barcode-battler-senki-ice-rod.json) |
+| Barcode Battler Senki: M-J001 (Mechanic Zoku) | 329832 | [329832-barcode-battler-senki-m-j001-mechanic-zoku.json](./329832-barcode-battler-senki-m-j001-mechanic-zoku.json) |
+| Barcode Battler Senki: Thunder-R | 329838 | [329838-barcode-battler-senki-thunder-r.json](./329838-barcode-battler-senki-thunder-r.json) |
 | Barcode Battler: Bio-Zabrin | 338371 | [338371-barcode-battler-bio-zabrin.json](./338371-barcode-battler-bio-zabrin.json) |
 | Barcode Battler: Bon-Curry | 338355 | [338355-barcode-battler-bon-curry.json](./338355-barcode-battler-bon-curry.json) |
 | Barcode Battler: Cha-Han | 338356 | [338356-barcode-battler-cha-han.json](./338356-barcode-battler-cha-han.json) |
@@ -11047,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
 | Blasphemous II: The Third Sin | 404910 | [404910-blasphemous-ii-the-third-sin.json](./404910-blasphemous-ii-the-third-sin.json) |
+| Blasphemous II: True Torment | 318075 | [318075-blasphemous-ii-true-torment.json](./318075-blasphemous-ii-true-torment.json) |
 | Blasphemous: Deluxe Edition | 146038 | [146038-blasphemous-deluxe-edition.json](./146038-blasphemous-deluxe-edition.json) |
 | Blasphemous: Digital Deluxe Edition | 227410 | [227410-blasphemous-digital-deluxe-edition.json](./227410-blasphemous-digital-deluxe-edition.json) |
 | Blasphemous: Martyrs' Edition | 409699 | [409699-blasphemous-martyrs-edition.json](./409699-blasphemous-martyrs-edition.json) |
@@ -12627,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Poker | 293799 | [293799-blood-poker.json](./293799-blood-poker.json) |
 | Blood Pressure | 140937 | [140937-blood-pressure.json](./140937-blood-pressure.json) |
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
+| Blood Quest | 296125 | [296125-blood-quest.json](./296125-blood-quest.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
 | Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
 | Blood Rage: Digital Edition - Gods of Asgard | 171708 | [171708-blood-rage-digital-edition-gods-of-asgard.json](./171708-blood-rage-digital-edition-gods-of-asgard.json) |
@@ -13117,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossom's Bloom Boutique | 214659 | [214659-blossoms-bloom-boutique.json](./214659-blossoms-bloom-boutique.json) |
 | Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
+| Blossoming Buds | 308594 | [308594-blossoming-buds.json](./308594-blossoming-buds.json) |
 | Blossoming Ruins | 375208 | [375208-blossoming-ruins.json](./375208-blossoming-ruins.json) |
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms Bloom Brightest | 28326 | [28326-blossoms-bloom-brightest.json](./28326-blossoms-bloom-brightest.json) |
@@ -16097,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Max Edition | 412588 | [412588-bowling-fever-max-edition.json](./412588-bowling-fever-max-edition.json) |
 | Bowling Fever: Platinum Edition | 328747 | [328747-bowling-fever-platinum-edition.json](./328747-bowling-fever-platinum-edition.json) |
 | Bowling Fever: Power Edition | 399811 | [399811-bowling-fever-power-edition.json](./399811-bowling-fever-power-edition.json) |
+| Bowling Fever: Premium Edition | 302265 | [302265-bowling-fever-premium-edition.json](./302265-bowling-fever-premium-edition.json) |
 | Bowling Fever: Prime Edition | 328748 | [328748-bowling-fever-prime-edition.json](./328748-bowling-fever-prime-edition.json) |
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Fever: Upgrade Edition | 328749 | [328749-bowling-fever-upgrade-edition.json](./328749-bowling-fever-upgrade-edition.json) |
@@ -20062,6 +20079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Survival | 176098 | [176098-bunker-survival.json](./176098-bunker-survival.json) |
 | Bunker Theory | 180367 | [180367-bunker-theory.json](./180367-bunker-theory.json) |
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
+| Bunker Wars | 308599 | [308599-bunker-wars.json](./308599-bunker-wars.json) |
 | Bunker-7 | 399345 | [399345-bunker-7.json](./399345-bunker-7.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
 | Bunker: The Underground Game | 35661 | [35661-bunker-the-underground-game.json](./35661-bunker-the-underground-game.json) |
@@ -20148,6 +20166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Hungry | 286161 | [286161-bunny-hungry.json](./286161-bunny-hungry.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
 | Bunny Jewel Match Adventure | 173034 | [173034-bunny-jewel-match-adventure.json](./173034-bunny-jewel-match-adventure.json) |
+| Bunny Log Jumper | 308597 | [308597-bunny-log-jumper.json](./308597-bunny-log-jumper.json) |
 | Bunny Love Expert | 333216 | [333216-bunny-love-expert.json](./333216-bunny-love-expert.json) |
 | Bunny Madness Anarchy | 38995 | [38995-bunny-madness-anarchy.json](./38995-bunny-madness-anarchy.json) |
 | Bunny Mahjo | 111384 | [111384-bunny-mahjo.json](./111384-bunny-mahjo.json) |
