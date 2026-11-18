@@ -22094,7 +22094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muraphilic Monophobic Multiban | 422172 | [422172-muraphilic-monophobic-multiban.json](./422172-muraphilic-monophobic-multiban.json) |
 | Murarz | 425917 | [425917-murarz.json](./425917-murarz.json) |
 | Murasa no Block Puzzle | 210419 | [210419-murasa-no-block-puzzle.json](./210419-murasa-no-block-puzzle.json) |
-| Murasaki | 34678 | [34678-murasaki.json](./34678-murasaki.json) |
 | Murasaki Baby | 19926 | [19926-murasaki-baby.json](./19926-murasaki-baby.json) |
 | Murasaki Baby | 23228 | [23228-murasaki-baby.json](./23228-murasaki-baby.json) |
 | Murasaki Mist: Akara's Journey | 61043 | [61043-murasaki-mist-akaras-journey.json](./61043-murasaki-mist-akaras-journey.json) |
