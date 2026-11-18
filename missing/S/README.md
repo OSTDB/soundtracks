@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saltaria | 290195 | [290195-saltaria.json](./290195-saltaria.json) |
 | Salted | 372537 | [372537-salted.json](./372537-salted.json) |
 | Salthe | 248139 | [248139-salthe.json](./248139-salthe.json) |
+| Salting the Earth | 125111 | [125111-salting-the-earth.json](./125111-salting-the-earth.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
 | Salto | 391775 | [391775-salto.json](./391775-salto.json) |
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
@@ -40482,6 +40483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Lycoris - Limited Edition | 166309 | [166309-sword-art-online-alicization-lycoris-limited-edition.json](./166309-sword-art-online-alicization-lycoris-limited-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
+| Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Black Swordsman - Ace | 174917 | [174917-sword-art-online-black-swordsman-ace.json](./174917-sword-art-online-black-swordsman-ace.json) |
 | Sword Art Online: Code Register | 126061 | [126061-sword-art-online-code-register.json](./126061-sword-art-online-code-register.json) |
 | Sword Art Online: Eternal World | 62880 | [62880-sword-art-online-eternal-world.json](./62880-sword-art-online-eternal-world.json) |
