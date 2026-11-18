@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
+| Tak and the Guardians of Gross | 2781 | [2781-tak-and-the-guardians-of-gross.json](./2781-tak-and-the-guardians-of-gross.json) |
 | Tak: Mojo Mistake | 2782 | [2782-tak-mojo-mistake.json](./2782-tak-mojo-mistake.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Taverntasia | 396720 | [396720-taverntasia.json](./396720-taverntasia.json) |
 | Tavolga-12 | 193255 | [193255-tavolga-12.json](./193255-tavolga-12.json) |
+| Tavrn’s Takedown | 395913 | [395913-tavrn-s-takedown.json](./395913-tavrn-s-takedown.json) |
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
@@ -3827,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Ultimate Edition | 317919 | [317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json](./317919-teenage-mutant-ninja-turtles-shredders-revenge-ultimate-edition.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 326787 | [326787-teenage-mutant-ninja-turtles-smash-up.json](./326787-teenage-mutant-ninja-turtles-smash-up.json) |
 | Teenage Mutant Ninja Turtles: Smash-Up | 5214 | [5214-teenage-mutant-ninja-turtles-smash-up.json](./5214-teenage-mutant-ninja-turtles-smash-up.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC | 395233 | [395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json](./395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
@@ -7672,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
 | The Boys Escape | 305624 | [305624-the-boys-escape.json](./305624-the-boys-escape.json) |
+| The Boys: Trigger Warning | 395403 | [395403-the-boys-trigger-warning.json](./395403-the-boys-trigger-warning.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -12853,6 +12857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Bundle | 96362 | [96362-the-jackbox-party-bundle.json](./96362-the-jackbox-party-bundle.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
+| The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
 | The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Quadpack | 83774 | [83774-the-jackbox-party-quadpack.json](./83774-the-jackbox-party-quadpack.json) |
@@ -31216,6 +31221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story Tamagotchi | 230076 | [230076-toy-story-tamagotchi.json](./230076-toy-story-tamagotchi.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
+| Toy Story: Retro Roundup! | 404006 | [404006-toy-story-retro-roundup.json](./404006-toy-story-retro-roundup.json) |
+| Toy Story: Retro Roundup! + Toy Story 3: Complete Edition Double Pack | 404114 | [404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json](./404114-toy-story-retro-roundup-toy-story-3-complete-edition-double-pack.json) |
 | Toy Story: Smash It! | 98638 | [98638-toy-story-smash-it.json](./98638-toy-story-smash-it.json) |
 | Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
@@ -37935,6 +37942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Arty-Facts | 400819 | [400819-two-point-museum-arty-facts.json](./400819-two-point-museum-arty-facts.json) |
 | Two Point Museum: Explorer Edition | 324779 | [324779-two-point-museum-explorer-edition.json](./324779-two-point-museum-explorer-edition.json) |
 | Two Point Museum: Explorer Upgrade Pack | 368783 | [368783-two-point-museum-explorer-upgrade-pack.json](./368783-two-point-museum-explorer-upgrade-pack.json) |
 | Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
