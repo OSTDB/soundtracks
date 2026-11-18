@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Party 3D | 21723 | [21723-pac-man-party-3d.json](./21723-pac-man-party-3d.json) |
 | Pac-Man Pinball Advance | 6529 | [6529-pac-man-pinball-advance.json](./6529-pac-man-pinball-advance.json) |
 | Pac-Man Pizza Parlor | 25373 | [25373-pac-man-pizza-parlor.json](./25373-pac-man-pizza-parlor.json) |
+| Pac-Man Plus | 46813 | [46813-pac-man-plus.json](./46813-pac-man-plus.json) |
 | Pac-Man Pop! | 57836 | [57836-pac-man-pop.json](./57836-pac-man-pop.json) |
 | Pac-Man Power Pack | 145384 | [145384-pac-man-power-pack.json](./145384-pac-man-power-pack.json) |
 | Pac-Man Remix | 21853 | [21853-pac-man-remix.json](./21853-pac-man-remix.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang Adventures | 23372 | [23372-pang-adventures.json](./23372-pang-adventures.json) |
 | Pang Adventures: Buster Edition | 139846 | [139846-pang-adventures-buster-edition.json](./139846-pang-adventures-buster-edition.json) |
 | Pang in Time | 416313 | [416313-pang-in-time.json](./416313-pang-in-time.json) |
+| Pang Pang | 46827 | [46827-pang-pang.json](./46827-pang-pang.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
 | Pang Pom's | 40373 | [40373-pang-poms.json](./40373-pang-poms.json) |
 | Pang! 3 | 39510 | [39510-pang-3.json](./39510-pang-3.json) |
@@ -6203,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Void | 381661 | [381661-phantom-void.json](./381661-phantom-void.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
 | Phantom Wardrobe | 258742 | [258742-phantom-wardrobe.json](./258742-phantom-wardrobe.json) |
+| Phantom Warfare | 55403 | [55403-phantom-warfare.json](./55403-phantom-warfare.json) |
 | Phantom Watcher | 301698 | [301698-phantom-watcher.json](./301698-phantom-watcher.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Xcape | 304702 | [304702-phantom-xcape.json](./304702-phantom-xcape.json) |
@@ -7088,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect Golf | 92776 | [92776-picture-perfect-golf.json](./92776-picture-perfect-golf.json) |
+| Picture Perfect Hair Salon | 67560 | [67560-picture-perfect-hair-salon.json](./67560-picture-perfect-hair-salon.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
 | Picture Phonics | 133540 | [133540-picture-phonics.json](./133540-picture-phonics.json) |
 | Picture Poker | 249625 | [249625-picture-poker.json](./249625-picture-poker.json) |
@@ -10916,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platdude in a Go Kart | 61247 | [61247-platdude-in-a-go-kart.json](./61247-platdude-in-a-go-kart.json) |
 | Platdude in a Tube | 61542 | [61542-platdude-in-a-tube.json](./61542-platdude-in-a-tube.json) |
 | Platdude in Battling Ostriches | 61426 | [61426-platdude-in-battling-ostriches.json](./61426-platdude-in-battling-ostriches.json) |
+| Platdude in Space | 61778 | [61778-platdude-in-space.json](./61778-platdude-in-space.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Platdude in the Endless Forest | 61950 | [61950-platdude-in-the-endless-forest.json](./61950-platdude-in-the-endless-forest.json) |
 | Platdude in the Spirit Collector | 61953 | [61953-platdude-in-the-spirit-collector.json](./61953-platdude-in-the-spirit-collector.json) |
@@ -11235,6 +11240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil Happy Meal Digital Experience | 395741 | [395741-playmobil-happy-meal-digital-experience.json](./395741-playmobil-happy-meal-digital-experience.json) |
 | Playmobil Horse Farm | 108735 | [108735-playmobil-horse-farm.json](./108735-playmobil-horse-farm.json) |
 | Playmobil Knights | 80094 | [80094-playmobil-knights.json](./80094-playmobil-knights.json) |
+| Playmobil Pirates | 67559 | [67559-playmobil-pirates.json](./67559-playmobil-pirates.json) |
 | Playmobil Top Agents | 80093 | [80093-playmobil-top-agents.json](./80093-playmobil-top-agents.json) |
 | Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
 | Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
@@ -11552,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plumo At The Zoo | 312632 | [312632-plumo-at-the-zoo.json](./312632-plumo-at-the-zoo.json) |
 | Plumo On The Farm | 312635 | [312635-plumo-on-the-farm.json](./312635-plumo-on-the-farm.json) |
+| Plump Pop | 46799 | [46799-plump-pop.json](./46799-plump-pop.json) |
 | Plump! Dumb Frog Pond | 368813 | [368813-plump-dumb-frog-pond.json](./368813-plump-dumb-frog-pond.json) |
 | Plumpy Uprising | 216681 | [216681-plumpy-uprising.json](./216681-plumpy-uprising.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
@@ -14557,6 +14564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye & The Sunken Treasure | 209329 | [209329-popeye-and-the-sunken-treasure.json](./209329-popeye-and-the-sunken-treasure.json) |
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
+| Popeye 3: WrestleCrazy | 41022 | [41022-popeye-3-wrestlecrazy.json](./41022-popeye-3-wrestlecrazy.json) |
 | Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
 | Popeye Meets Ali Baba's Forty Thieves | 269925 | [269925-popeye-meets-ali-babas-forty-thieves.json](./269925-popeye-meets-ali-babas-forty-thieves.json) |
@@ -15403,6 +15411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pets | 398471 | [398471-power-pets.json](./398471-power-pets.json) |
 | Power Piggs of the Dark Age | 42471 | [42471-power-piggs-of-the-dark-age.json](./42471-power-piggs-of-the-dark-age.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
+| Power Pill | 67548 | [67548-power-pill.json](./67548-power-pill.json) |
 | Power Pinball | 392587 | [392587-power-pinball.json](./392587-power-pinball.json) |
 | Power Pinball | 79463 | [79463-power-pinball.json](./79463-power-pinball.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
@@ -15539,6 +15548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Vacuum | 251987 | [251987-power-vacuum.json](./251987-power-vacuum.json) |
 | Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
 | Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
+| Power War: The First Men | 55392 | [55392-power-war-the-first-men.json](./55392-power-war-the-first-men.json) |
 | Power Washer Hero | 151365 | [151365-power-washer-hero.json](./151365-power-washer-hero.json) |
 | Power-Games | 131734 | [131734-power-games.json](./131734-power-games.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
@@ -19218,6 +19228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Eclipse: Reload | 257766 | [257766-psychic-eclipse-reload.json](./257766-psychic-eclipse-reload.json) |
 | Psychic Emotion 6 | 144634 | [144634-psychic-emotion-6.json](./144634-psychic-emotion-6.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
+| Psychic Force 2012 | 22849 | [22849-psychic-force-2012.json](./22849-psychic-force-2012.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
 | Psychic Force EX | 360324 | [360324-psychic-force-ex.json](./360324-psychic-force-ex.json) |
 | Psychic Force Puzzle Taisen | 69133 | [69133-psychic-force-puzzle-taisen.json](./69133-psychic-force-puzzle-taisen.json) |
