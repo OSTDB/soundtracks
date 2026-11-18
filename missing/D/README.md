@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Dagger's Rage | 73700 | [73700-daggers-rage.json](./73700-daggers-rage.json) |
+| Daggerfall Online | 429561 | [429561-daggerfall-online.json](./429561-daggerfall-online.json) |
 | Daggerfall Unity | 127936 | [127936-daggerfall-unity.json](./127936-daggerfall-unity.json) |
 | Daggerhood | 115426 | [115426-daggerhood.json](./115426-daggerhood.json) |
 | Daggers Cavern | 308469 | [308469-daggers-cavern.json](./308469-daggers-cavern.json) |
@@ -6209,6 +6210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Gardening | 157817 | [157817-deep-space-gardening.json](./157817-deep-space-gardening.json) |
 | Deep Space Invaders | 101146 | [101146-deep-space-invaders.json](./101146-deep-space-invaders.json) |
+| Deep Space Miner | 429580 | [429580-deep-space-miner.json](./429580-deep-space-miner.json) |
 | Deep Space Outpost | 192347 | [192347-deep-space-outpost.json](./192347-deep-space-outpost.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
@@ -14521,6 +14523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop in Red Wood | 378387 | [378387-dont-stop-in-red-wood.json](./378387-dont-stop-in-red-wood.json) |
 | Don't Stop Mike | 415574 | [415574-dont-stop-mike.json](./415574-dont-stop-mike.json) |
 | Don’t Stop Smiling | 384146 | [384146-don-t-stop-smiling.json](./384146-don-t-stop-smiling.json) |
+| Don't Stop The Pop! | 429546 | [429546-dont-stop-the-pop.json](./429546-dont-stop-the-pop.json) |
 | Don't Stop You'll Die | 211794 | [211794-dont-stop-youll-die.json](./211794-dont-stop-youll-die.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
 | Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
@@ -17855,6 +17858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatic Road: The Origin of Wind | 239807 | [239807-dramatic-road-the-origin-of-wind.json](./239807-dramatic-road-the-origin-of-wind.json) |
 | Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:code | 22494 | [22494-dramatical-murder-re-code.json](./22494-dramatical-murder-re-code.json) |
+| Dramatical Murder Re:code - Nitro Archive | 429568 | [429568-dramatical-murder-re-code-nitro-archive.json](./429568-dramatical-murder-re-code-nitro-archive.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Dramatour | 391415 | [391415-dramatour.json](./391415-dramatour.json) |
 | Drancia Saga | 54777 | [54777-drancia-saga.json](./54777-drancia-saga.json) |
