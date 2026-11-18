@@ -5662,7 +5662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember Valentine | 330967 | [330967-remember-valentine.json](./330967-remember-valentine.json) |
 | Remember When | 155382 | [155382-remember-when.json](./155382-remember-when.json) |
 | Remember, Lights Out | 126882 | [126882-remember-lights-out.json](./126882-remember-lights-out.json) |
-| Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remember: A Horror Puzzle Game | 174484 | [174484-remember-a-horror-puzzle-game.json](./174484-remember-a-horror-puzzle-game.json) |
 | Remember? | 224863 | [224863-remember.json](./224863-remember.json) |
 | Remember11: The Age of Infinity | 18040 | [18040-remember11-the-age-of-infinity.json](./18040-remember11-the-age-of-infinity.json) |
@@ -10874,7 +10873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
 | Rocket Valet! Galaxy Landing Service | 212818 | [212818-rocket-valet-galaxy-landing-service.json](./212818-rocket-valet-galaxy-landing-service.json) |
 | Rocket Valley Tycoon | 95964 | [95964-rocket-valley-tycoon.json](./95964-rocket-valley-tycoon.json) |
-| Rocket Wars | 36630 | [36630-rocket-wars.json](./36630-rocket-wars.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocket Zap | 216125 | [216125-rocket-zap.json](./216125-rocket-zap.json) |
 | Rocket-Man | 377774 | [377774-rocket-man.json](./377774-rocket-man.json) |
