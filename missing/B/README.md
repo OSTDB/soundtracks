@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back 40 III | 70842 | [70842-back-40-iii.json](./70842-back-40-iii.json) |
+| Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
 | Back Alley Arcane Shop | 319472 | [319472-back-alley-arcane-shop.json](./319472-back-alley-arcane-shop.json) |
 | Back Alley Chronicle | 244394 | [244394-back-alley-chronicle.json](./244394-back-alley-chronicle.json) |
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
@@ -11352,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Souls | 5475 | [5475-blazing-souls.json](./5475-blazing-souls.json) |
 | Blazing Souls Accelate | 39193 | [39193-blazing-souls-accelate.json](./39193-blazing-souls-accelate.json) |
 | Blazing Star | 10500 | [10500-blazing-star.json](./10500-blazing-star.json) |
+| Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Strike: Limited Edition | 193532 | [193532-blazing-strike-limited-edition.json](./193532-blazing-strike-limited-edition.json) |
 | Blazing Thunder | 13407 | [13407-blazing-thunder.json](./13407-blazing-thunder.json) |
 | Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
