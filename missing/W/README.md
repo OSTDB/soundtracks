@@ -3990,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Somerset Railway Route | 53916 | [53916-west-somerset-railway-route.json](./53916-west-somerset-railway-route.json) |
+| West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
 | West Town Defense | 287701 | [287701-west-town-defense.json](./287701-west-town-defense.json) |
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | West-Ward | 126257 | [126257-west-ward.json](./126257-west-ward.json) |
@@ -4438,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whatever | 199711 | [199711-whatever.json](./199711-whatever.json) |
 | Whatever It Takes | 400092 | [400092-whatever-it-takes.json](./400092-whatever-it-takes.json) |
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
+| Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | WhatRogue: Exile Land | 319760 | [319760-whatrogue-exile-land.json](./319760-whatrogue-exile-land.json) |
 | Whats wrong with me? | 164041 | [164041-whats-wrong-with-me.json](./164041-whats-wrong-with-me.json) |
