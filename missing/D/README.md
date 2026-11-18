@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Gambit: Afterlife | 152130 | [152130-deaths-gambit-afterlife.json](./152130-deaths-gambit-afterlife.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
+| Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
 | Death's Maze | 72419 | [72419-deaths-maze.json](./72419-deaths-maze.json) |
 | Death's Playground | 208603 | [208603-deaths-playground.json](./208603-deaths-playground.json) |
@@ -11735,6 +11736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
+| Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
 | Discoverium | 428933 | [428933-discoverium.json](./428933-discoverium.json) |
 | Discoverous | 109126 | [109126-discoverous.json](./109126-discoverous.json) |
@@ -17018,6 +17020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Bridge | 154042 | [154042-dragon-bridge.json](./154042-dragon-bridge.json) |
+| Dragon Bros | 31970 | [31970-dragon-bros.json](./31970-dragon-bros.json) |
 | Dragon Bros: Collector's Edition | 52946 | [52946-dragon-bros-collectors-edition.json](./52946-dragon-bros-collectors-edition.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
@@ -17360,6 +17363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Question | 152516 | [152516-dragon-question.json](./152516-dragon-question.json) |
 | Dragon Quiz | 73196 | [73196-dragon-quiz.json](./73196-dragon-quiz.json) |
 | Dragon Racer | 113791 | [113791-dragon-racer.json](./113791-dragon-racer.json) |
+| Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja | 69402 | [69402-dragon-raja.json](./69402-dragon-raja.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
