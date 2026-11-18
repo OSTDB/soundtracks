@@ -4722,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
 | Deadly Dogs | 41476 | [41476-deadly-dogs.json](./41476-deadly-dogs.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
+| Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Dozen: Pacific Theater | 27480 | [27480-deadly-dozen-pacific-theater.json](./27480-deadly-dozen-pacific-theater.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Dunk | 248258 | [248258-deadly-dunk.json](./248258-deadly-dunk.json) |
@@ -11800,6 +11801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 5 Complete | 26768 | [26768-disgaea-5-complete.json](./26768-disgaea-5-complete.json) |
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
 | Disgaea 5: Alliance of Vengeance - Limited Edition | 167058 | [167058-disgaea-5-alliance-of-vengeance-limited-edition.json](./167058-disgaea-5-alliance-of-vengeance-limited-edition.json) |
+| Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 6 Complete: Deluxe Edition | 191498 | [191498-disgaea-6-complete-deluxe-edition.json](./191498-disgaea-6-complete-deluxe-edition.json) |
 | Disgaea 6 Complete: Digital Dood Edition | 207094 | [207094-disgaea-6-complete-digital-dood-edition.json](./207094-disgaea-6-complete-digital-dood-edition.json) |
 | Disgaea 6: Defiance of Destiny | 138953 | [138953-disgaea-6-defiance-of-destiny.json](./138953-disgaea-6-defiance-of-destiny.json) |
@@ -12227,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Magical Mirror Starring Mickey Mouse | 3773 | [3773-disneys-magical-mirror-starring-mickey-mouse.json](./3773-disneys-magical-mirror-starring-mickey-mouse.json) |
 | Disney's Magical Quest 2 Starring Mickey & Minnie | 188634 | [188634-disneys-magical-quest-2-starring-mickey-and-minnie.json](./188634-disneys-magical-quest-2-starring-mickey-and-minnie.json) |
 | Disney's Magical Quest 3 Starring Mickey & Donald | 6381 | [6381-disneys-magical-quest-3-starring-mickey-and-donald.json](./6381-disneys-magical-quest-3-starring-mickey-and-donald.json) |
+| Disney's Magical Quest Starring Mickey & Minnie | 187209 | [187209-disneys-magical-quest-starring-mickey-and-minnie.json](./187209-disneys-magical-quest-starring-mickey-and-minnie.json) |
 | Disney's Mahjongg | 142431 | [142431-disneys-mahjongg.json](./142431-disneys-mahjongg.json) |
 | Disney's Mickey Mouse Toddler | 71630 | [71630-disneys-mickey-mouse-toddler.json](./71630-disneys-mickey-mouse-toddler.json) |
 | Disney's Mickey Saves the Day: 3D Adventure | 74101 | [74101-disneys-mickey-saves-the-day-3d-adventure.json](./74101-disneys-mickey-saves-the-day-3d-adventure.json) |
@@ -21503,6 +21506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | Dunjourney | 428106 | [428106-dunjourney.json](./428106-dunjourney.json) |
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
+| Dunjungle | 190249 | [190249-dunjungle.json](./190249-dunjungle.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunjunz | 134123 | [134123-dunjunz.json](./134123-dunjunz.json) |
 | Dunk | 426372 | [426372-dunk.json](./426372-dunk.json) |
