@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (Another) Shadow the Hedgehog in Sonic the Hedgehog | 203163 | [203163-another-shadow-the-hedgehog-in-sonic-the-hedgehog.json](./203163-another-shadow-the-hedgehog-in-sonic-the-hedgehog.json) |
 | (Dis)assemble | 192969 | [192969-dis-assemble.json](./192969-dis-assemble.json) |
+| (Don't) Hear | 430484 | [430484-dont-hear.json](./430484-dont-hear.json) |
 | (Don't) Open Your Eyes | 123188 | [123188-dont-open-your-eyes.json](./123188-dont-open-your-eyes.json) |
 | (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
 | (I see) Nothing | 275478 | [275478-i-see-nothing.json](./275478-i-see-nothing.json) |
@@ -1679,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Dimensional Desperado | 103033 | [103033-1dimensional-desperado.json](./103033-1dimensional-desperado.json) |
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Dreamboy 2 | 264978 | [264978-1dreamboy-2.json](./264978-1dreamboy-2.json) |
+| 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1HourPet | 180347 | [180347-1hourpet.json](./180347-1hourpet.json) |
 | 1K Games | 319533 | [319533-1k-games.json](./319533-1k-games.json) |
 | 1K Othello | 83130 | [83130-1k-othello.json](./83130-1k-othello.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
 | 771 | 416809 | [416809-771.json](./416809-771.json) |
+| 771: Smile and Work | 430267 | [430267-771-smile-and-work.json](./430267-771-smile-and-work.json) |
 | 774 Deaths | 214862 | [214862-774-deaths.json](./214862-774-deaths.json) |
 | 7743 | 412624 | [412624-7743.json](./412624-7743.json) |
 | 777 Lucky Bingo | 247305 | [247305-777-lucky-bingo.json](./247305-777-lucky-bingo.json) |
