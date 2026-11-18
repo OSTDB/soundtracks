@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage | 12533 | [12533-carnage.json](./12533-carnage.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
+| Carnage | 24908 | [24908-carnage.json](./24908-carnage.json) |
 | Carnage | 271325 | [271325-carnage.json](./271325-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
@@ -8474,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Childlike | 191171 | [191171-childlike.json](./191171-childlike.json) |
 | ChildMare | 410489 | [410489-childmare.json](./410489-childmare.json) |
+| Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
 | Children of Apollo | 55526 | [55526-children-of-apollo.json](./55526-children-of-apollo.json) |
 | Children of Belgrade Metro | 150204 | [150204-children-of-belgrade-metro.json](./150204-children-of-belgrade-metro.json) |
 | Children of Birch | 391213 | [391213-children-of-birch.json](./391213-children-of-birch.json) |
@@ -13470,6 +13472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
+| Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Cold Way | 210842 | [210842-cold-way.json](./210842-cold-way.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
 | Cold Winter | 8277 | [8277-cold-winter.json](./8277-cold-winter.json) |
@@ -21083,6 +21086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader | 376833 | [376833-crusader.json](./376833-crusader.json) |
 | Crusader Crash | 48013 | [48013-crusader-crash.json](./48013-crusader-crash.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
+| Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
 | Crusader Kings II Collection | 52817 | [52817-crusader-kings-ii-collection.json](./52817-crusader-kings-ii-collection.json) |
 | Crusader Kings II: Charlemagne | 22666 | [22666-crusader-kings-ii-charlemagne.json](./22666-crusader-kings-ii-charlemagne.json) |
 | Crusader Kings II: Conclave | 22669 | [22669-crusader-kings-ii-conclave.json](./22669-crusader-kings-ii-conclave.json) |
@@ -21173,6 +21177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Depth: U-Boat Simulator | 150050 | [150050-crush-depth-u-boat-simulator.json](./150050-crush-depth-u-boat-simulator.json) |
 | Crush Insects | 112817 | [112817-crush-insects.json](./112817-crush-insects.json) |
 | Crush Link TD | 272865 | [272865-crush-link-td.json](./272865-crush-link-td.json) |
+| Crush Online | 24953 | [24953-crush-online.json](./24953-crush-online.json) |
 | Crush Penguin | 219233 | [219233-crush-penguin.json](./219233-crush-penguin.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
