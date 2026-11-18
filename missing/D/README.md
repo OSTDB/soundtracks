@@ -509,7 +509,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Sudoku Together | 344490 | [344490-daily-sudoku-together.json](./344490-daily-sudoku-together.json) |
-| Daily Themed Crossword Puzzle | 88310 | [88310-daily-themed-crossword-puzzle.json](./88310-daily-themed-crossword-puzzle.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daimadou Senryaku Monogatari '95 | 253714 | [253714-daimadou-senryaku-monogatari-95.json](./253714-daimadou-senryaku-monogatari-95.json) |
@@ -695,7 +694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaged In Transit | 121738 | [121738-damaged-in-transit.json](./121738-damaged-in-transit.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
-| Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
 | Damascus Gear: Operation Tokyo | 21706 | [21706-damascus-gear-operation-tokyo.json](./21706-damascus-gear-operation-tokyo.json) |
 | Damascus Gear: Operation Tokyo HD | 55532 | [55532-damascus-gear-operation-tokyo-hd.json](./55532-damascus-gear-operation-tokyo-hd.json) |
 | Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
@@ -1961,7 +1959,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
 | Dark Mysteries: The Soul Keeper | 57249 | [57249-dark-mysteries-the-soul-keeper.json](./57249-dark-mysteries-the-soul-keeper.json) |
-| Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
@@ -7276,7 +7273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolish | 311920 | [311920-demolish.json](./311920-demolish.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
-| Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
 | Demolish & Build 3 | 210952 | [210952-demolish-and-build-3.json](./210952-demolish-and-build-3.json) |
 | Demolish & Build 3: Excavator Playground | 211557 | [211557-demolish-and-build-3-excavator-playground.json](./211557-demolish-and-build-3-excavator-playground.json) |
 | Demolish & Build Classic | 231580 | [231580-demolish-and-build-classic.json](./231580-demolish-and-build-classic.json) |
@@ -9543,7 +9539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexter's Momatory | 280444 | [280444-dexters-momatory.json](./280444-dexters-momatory.json) |
 | Dexteritrip | 112818 | [112818-dexteritrip.json](./112818-dexteritrip.json) |
 | Dexterity | 90304 | [90304-dexterity.json](./90304-dexterity.json) |
-| Dexterity | 91263 | [91263-dexterity.json](./91263-dexterity.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
 | Dextram | 147309 | [147309-dextram.json](./147309-dextram.json) |
@@ -11471,7 +11466,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
 | Dirt Track Racing: Sprint Cars | 71659 | [71659-dirt-track-racing-sprint-cars.json](./71659-dirt-track-racing-sprint-cars.json) |
 | Dirt Trackin 2 | 147781 | [147781-dirt-trackin-2.json](./147781-dirt-trackin-2.json) |
-| Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
@@ -12021,7 +12015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
 | Disney Getaway Blast! | 130448 | [130448-disney-getaway-blast.json](./130448-disney-getaway-blast.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
-| Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
 | Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
 | Disney High School Musical | 245513 | [245513-disney-high-school-musical.json](./245513-disney-high-school-musical.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
@@ -13493,7 +13486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
 | Dog Show Friends | 62043 | [62043-dog-show-friends.json](./62043-dog-show-friends.json) |
 | Dog Sim Online: Build A Family | 88031 | [88031-dog-sim-online-build-a-family.json](./88031-dog-sim-online-build-a-family.json) |
-| Dog Simulator 2015 | 88158 | [88158-dog-simulator-2015.json](./88158-dog-simulator-2015.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
@@ -14516,7 +14508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve: Hamlet - Console Edition | 154629 | [154629-dont-starve-hamlet-console-edition.json](./154629-dont-starve-hamlet-console-edition.json) |
 | Don't Starve: Mega Pack | 167117 | [167117-dont-starve-mega-pack.json](./167117-dont-starve-mega-pack.json) |
 | Don't Starve: Newhome | 187778 | [187778-dont-starve-newhome.json](./187778-dont-starve-newhome.json) |
-| Don't Starve: Nintendo Switch Edition | 96169 | [96169-dont-starve-nintendo-switch-edition.json](./96169-dont-starve-nintendo-switch-edition.json) |
 | Don't Starve: Pocket Edition | 86925 | [86925-dont-starve-pocket-edition.json](./86925-dont-starve-pocket-edition.json) |
 | Don't Starve: Reign of Giants | 52177 | [52177-dont-starve-reign-of-giants.json](./52177-dont-starve-reign-of-giants.json) |
 | Don't Starve: Reign of Giants Console Edition | 154749 | [154749-dont-starve-reign-of-giants-console-edition.json](./154749-dont-starve-reign-of-giants-console-edition.json) |
@@ -16056,7 +16047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughby | 350029 | [350029-doughby.json](./350029-doughby.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
-| Doughlings: Arcade | 94062 | [94062-doughlings-arcade.json](./94062-doughlings-arcade.json) |
 | Doughn't Panic! | 428221 | [428221-doughnt-panic.json](./428221-doughnt-panic.json) |
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
@@ -16531,7 +16521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 2 Pack | 131296 | [131296-dracula-2-pack.json](./131296-dracula-2-pack.json) |
 | Dracula 2: The Last Sanctuary | 9092 | [9092-dracula-2-the-last-sanctuary.json](./9092-dracula-2-the-last-sanctuary.json) |
 | Dracula 3: The Path of the Dragon | 9093 | [9093-dracula-3-the-path-of-the-dragon.json](./9093-dracula-3-the-path-of-the-dragon.json) |
-| Dracula 4 & 5: Special Steam Edition | 90585 | [90585-dracula-4-and-5-special-steam-edition.json](./90585-dracula-4-and-5-special-steam-edition.json) |
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
@@ -17158,7 +17147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Heartburn | 310280 | [310280-dragon-heartburn.json](./310280-dragon-heartburn.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
 | Dragon Hills | 60253 | [60253-dragon-hills.json](./60253-dragon-hills.json) |
-| Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
 | Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
 | Dragon Hopper | 176044 | [176044-dragon-hopper.json](./176044-dragon-hopper.json) |
@@ -20206,7 +20194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Simulator 5 | 240590 | [240590-dude-simulator-5.json](./240590-dude-simulator-5.json) |
 | Dude Simulator Six | 279551 | [279551-dude-simulator-six.json](./279551-dude-simulator-six.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
-| Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
 | Dudebro: My Shit Is Fucked Up So I Got to Shoot / Slice You II: It's Straight-Up Dawg Time | 91500 | [91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json](./91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json) |
@@ -21514,7 +21501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Gold Edition | 52931 | [52931-dungeons-gold-edition.json](./52931-dungeons-gold-edition.json) |
 | Dungeons: Into the Dark | 10266 | [10266-dungeons-into-the-dark.json](./10266-dungeons-into-the-dark.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
-| Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
