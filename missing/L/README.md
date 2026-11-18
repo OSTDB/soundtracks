@@ -3094,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Cryptids | 59606 | [59606-legend-of-the-cryptids.json](./59606-legend-of-the-cryptids.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
+| Legend of the Dragon Slayer | 395304 | [395304-legend-of-the-dragon-slayer.json](./395304-legend-of-the-dragon-slayer.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
 | Legend of the Ghost Lion | 73926 | [73926-legend-of-the-ghost-lion.json](./73926-legend-of-the-ghost-lion.json) |
@@ -6240,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Lines XL | 130042 | [130042-lines-xl.json](./130042-lines-xl.json) |
 | Lines: A Gift for Mom | 391139 | [391139-lines-a-gift-for-mom.json](./391139-lines-a-gift-for-mom.json) |
+| Lines'98 | 394870 | [394870-lines98.json](./394870-lines98.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineVox | 159489 | [159489-linevox.json](./159489-linevox.json) |
 | LineVox 2: Forward to the Past | 173360 | [173360-linevox-2-forward-to-the-past.json](./173360-linevox-2-forward-to-the-past.json) |
@@ -9835,6 +9837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Romance: A Study of Intimacy | 166427 | [166427-love-and-romance-a-study-of-intimacy.json](./166427-love-and-romance-a-study-of-intimacy.json) |
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and Sex: Second Base - For A Fistful Of Waifu | 312049 | [312049-love-and-sex-second-base-for-a-fistful-of-waifu.json](./312049-love-and-sex-second-base-for-a-fistful-of-waifu.json) |
+| Love and Sex: Second Base Shawn’s Story | 392520 | [392520-love-and-sex-second-base-shawn-s-story.json](./392520-love-and-sex-second-base-shawn-s-story.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Anime Boys Club: Language and Date Zodiac Signs | 324196 | [324196-love-anime-boys-club-language-and-date-zodiac-signs.json](./324196-love-anime-boys-club-language-and-date-zodiac-signs.json) |
@@ -11604,6 +11607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxin Time | 41894 | [41894-luxin-time.json](./41894-luxin-time.json) |
 | Luxis | 31701 | [31701-luxis.json](./31701-luxis.json) |
 | Luxman Moonlit Market | 370378 | [370378-luxman-moonlit-market.json](./370378-luxman-moonlit-market.json) |
+| Luxmithar | 397309 | [397309-luxmithar.json](./397309-luxmithar.json) |
 | Luxo Buddies | 106427 | [106427-luxo-buddies.json](./106427-luxo-buddies.json) |
 | Luxo Buddies: Expansion Pack 1 | 226877 | [226877-luxo-buddies-expansion-pack-1.json](./226877-luxo-buddies-expansion-pack-1.json) |
 | Luxocraft | 43168 | [43168-luxocraft.json](./43168-luxocraft.json) |
