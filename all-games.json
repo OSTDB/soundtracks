@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T00:26:05.280Z",
-  "total_soundtracks": 3770,
+  "generated_at": "2026-11-18T00:36:07.533Z",
+  "total_soundtracks": 3773,
   "games": [
     {
       "igdb_id": 292844,
@@ -3299,6 +3299,20 @@
       ]
     },
     {
+      "igdb_id": 84479,
+      "game_name": "Atone: Heart of the Elder Tree",
+      "game_url": "https://ostdb.net/games/atone-heart-of-the-elder-tree",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dd30e26eef670631a70bc7fa",
+      "albums": [
+        {
+          "album_name": "Atone: Heart of the Elder Tree (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2rjlxLabkIcD46CErQ57t0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 131634,
       "game_name": "Atri: My Dear Moments",
       "game_url": "https://ostdb.net/games/atri-my-dear-moments",
@@ -6580,6 +6594,20 @@
           "album_name": "Candy Crush Saga (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2bzzpQlbIeuGrXlkyW12ex",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 85017,
+      "game_name": "Canvaleon",
+      "game_url": "https://ostdb.net/games/canvaleon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c36e0ed6cb168fa7e5e8f484",
+      "albums": [
+        {
+          "album_name": "Canvaleon Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7yaxutXBP5fn8Rfe0X7ecG",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -46119,6 +46147,20 @@
         {
           "album_name": "Viviette (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/57Qo0OswcWlJYg2u3HOEaw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 84103,
+      "game_name": "Void",
+      "game_url": "https://ostdb.net/games/void",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273350f631a77216fc0c37f20da",
+      "albums": [
+        {
+          "album_name": "VOID (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5OWkOni4XLxXOV0FaTf6hP",
           "apple_music_url": "",
           "album_link_url": ""
         }
