@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Survivors: Roguelike | 236472 | [236472-elemental-survivors-roguelike.json](./236472-elemental-survivors-roguelike.json) |
 | Elemental Tiles | 180631 | [180631-elemental-tiles.json](./180631-elemental-tiles.json) |
 | Elemental Towers | 346842 | [346842-elemental-towers.json](./346842-elemental-towers.json) |
+| Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
 | Elemental War 2 | 159268 | [159268-elemental-war-2.json](./159268-elemental-war-2.json) |
 | Elemental War Clash | 343448 | [343448-elemental-war-clash.json](./343448-elemental-war-clash.json) |
 | Elemental War: Dawn of the Crystals | 236275 | [236275-elemental-war-dawn-of-the-crystals.json](./236275-elemental-war-dawn-of-the-crystals.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Night | 339757 | [339757-ephemeral-night.json](./339757-ephemeral-night.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Ephemeral Unnatural Balance | 121484 | [121484-ephemeral-unnatural-balance.json](./121484-ephemeral-unnatural-balance.json) |
+| Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
 | Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
 | Ephesus | 152420 | [152420-ephesus.json](./152420-ephesus.json) |
