@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Tokyo Cats | 274297 | [274297-100-tokyo-cats.json](./274297-100-tokyo-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Toy Cats | 413292 | [413292-100-toy-cats.json](./413292-100-toy-cats.json) |
+| 100 Trials | 22854 | [22854-100-trials.json](./22854-100-trials.json) |
 | 100 Trials | 355069 | [355069-100-trials.json](./355069-100-trials.json) |
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
