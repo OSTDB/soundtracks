@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
+| XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Buddies | 138977 | [138977-xbox-buddies.json](./138977-xbox-buddies.json) |
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
