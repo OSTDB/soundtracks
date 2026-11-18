@@ -3741,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol World: Rescue Knights - Costume Pack | 272225 | [272225-paw-patrol-world-rescue-knights-costume-pack.json](./272225-paw-patrol-world-rescue-knights-costume-pack.json) |
 | Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
 | Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
+| Paw Patrol: Dino World | 398427 | [398427-paw-patrol-dino-world.json](./398427-paw-patrol-dino-world.json) |
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
 | Paw Patrol: Grand Prix - Complete Edition | 283585 | [283585-paw-patrol-grand-prix-complete-edition.json](./283585-paw-patrol-grand-prix-complete-edition.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
@@ -10593,6 +10594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
 | Planet Zoo | 117717 | [117717-planet-zoo.json](./117717-planet-zoo.json) |
+| Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Africa Pack | 226998 | [226998-planet-zoo-africa-pack.json](./226998-planet-zoo-africa-pack.json) |
 | Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
@@ -21256,6 +21258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
+| Puzzling Places: 3D Jigsaw Sim | 398031 | [398031-puzzling-places-3d-jigsaw-sim.json](./398031-puzzling-places-3d-jigsaw-sim.json) |
 | Puzzling Places: A Painter's Dream | 379661 | [379661-puzzling-places-a-painters-dream.json](./379661-puzzling-places-a-painters-dream.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
