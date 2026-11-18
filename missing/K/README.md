@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Girls | 284523 | [284523-kawaii-girls.json](./284523-kawaii-girls.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls | 335317 | [335317-kawaii-girls.json](./335317-kawaii-girls.json) |
+| Kawaii Girls Panic | 357480 | [357480-kawaii-girls-panic.json](./357480-kawaii-girls-panic.json) |
 | Kawaii Girls Puzzle | 187073 | [187073-kawaii-girls-puzzle.json](./187073-kawaii-girls-puzzle.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
 | Kawaii Girls: Cute Cheerleader | 362962 | [362962-kawaii-girls-cute-cheerleader.json](./362962-kawaii-girls-cute-cheerleader.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchinko | 271009 | [271009-kitchinko.json](./271009-kitchinko.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kite Fight | 213267 | [213267-kite-fight.json](./213267-kite-fight.json) |
+| Kite Fighting | 346833 | [346833-kite-fighting.json](./346833-kite-fighting.json) |
 | Kite Flying Simulator | 368951 | [368951-kite-flying-simulator.json](./368951-kite-flying-simulator.json) |
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
 | Kite Trip | 174505 | [174505-kite-trip.json](./174505-kite-trip.json) |
