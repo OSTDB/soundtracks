@@ -4123,7 +4123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack Mole | 328199 | [328199-whack-mole.json](./328199-whack-mole.json) |
 | Whack the Burglar | 234465 | [234465-whack-the-burglar.json](./234465-whack-the-burglar.json) |
 | Whack the Burglars | 193801 | [193801-whack-the-burglars.json](./193801-whack-the-burglars.json) |
-| Whack the Serial Killer | 90514 | [90514-whack-the-serial-killer.json](./90514-whack-the-serial-killer.json) |
 | Whack the Thieves | 188289 | [188289-whack-the-thieves.json](./188289-whack-the-thieves.json) |
 | Whack Your Boss | 221409 | [221409-whack-your-boss.json](./221409-whack-your-boss.json) |
 | Whack Your Boss: Cartoon Land | 194105 | [194105-whack-your-boss-cartoon-land.json](./194105-whack-your-boss-cartoon-land.json) |
@@ -7488,7 +7487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Without Within 2 | 34531 | [34531-without-within-2.json](./34531-without-within-2.json) |
-| Without Within 3 | 96382 | [96382-without-within-3.json](./96382-without-within-3.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
 | Withstand: Survival | 128771 | [128771-withstand-survival.json](./128771-withstand-survival.json) |
@@ -8337,7 +8335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodturning 3D: Complete Edition | 291644 | [291644-woodturning-3d-complete-edition.json](./291644-woodturning-3d-complete-edition.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
-| Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woodworm | 381485 | [381485-woodworm.json](./381485-woodworm.json) |
 | Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
@@ -8471,7 +8468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross - Word Cheese | 107582 | [107582-word-cross-word-cheese.json](./107582-word-cross-word-cheese.json) |
 | Word Cross Farm: Search Games | 100655 | [100655-word-cross-farm-search-games.json](./100655-word-cross-farm-search-games.json) |
 | Word Cross: Crossword Games | 99855 | [99855-word-cross-crossword-games.json](./99855-word-cross-crossword-games.json) |
-| Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 213689 | [213689-word-crush.json](./213689-word-crush.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
@@ -9019,7 +9015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 2 | 88751 | [88751-world-conqueror-2.json](./88751-world-conqueror-2.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Conqueror 4 | 86872 | [86872-world-conqueror-4.json](./86872-world-conqueror-4.json) |
-| World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Craft Epic Dream Island | 86953 | [86953-world-craft-epic-dream-island.json](./86953-world-craft-epic-dream-island.json) |
 | World Craft HD | 89105 | [89105-world-craft-hd.json](./89105-world-craft-hd.json) |
@@ -9199,7 +9194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Crypts | 298387 | [298387-world-of-crypts.json](./298387-world-of-crypts.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes | 204798 | [204798-world-of-cubes.json](./204798-world-of-cubes.json) |
-| World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Cubes Survival Craft Multiplayer | 89066 | [89066-world-of-cubes-survival-craft-multiplayer.json](./89066-world-of-cubes-survival-craft-multiplayer.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
@@ -9453,7 +9447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Wrath of the Lich King: Secrets of Ulduar | 345181 | [345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json](./345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
-| World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: Anshan Pack | 155372 | [155372-world-of-warships-anshan-pack.json](./155372-world-of-warships-anshan-pack.json) |
 | World of Warships: Aurora Steam Edition | 196120 | [196120-world-of-warships-aurora-steam-edition.json](./196120-world-of-warships-aurora-steam-edition.json) |
