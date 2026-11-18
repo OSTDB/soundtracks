@@ -2344,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Able Archer: Red Crucible 2 | 229996 | [229996-able-archer-red-crucible-2.json](./229996-able-archer-red-crucible-2.json) |
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
+| Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
 | Ablockalypse | 164190 | [164190-ablockalypse.json](./164190-ablockalypse.json) |
 | Abloom | 251933 | [251933-abloom.json](./251933-abloom.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace | 67079 | [67079-airace.json](./67079-airace.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
+| AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | Airanblade | 293820 | [293820-airanblade.json](./293820-airanblade.json) |
@@ -8657,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Japan Super Bombliss Cup '95: Dai-3-kai | 179709 | [179709-all-japan-super-bombliss-cup-95-dai-3-kai.json](./179709-all-japan-super-bombliss-cup-95-dai-3-kai.json) |
 | All Japan Super Bombliss Cup '95: Dai-4-kai | 179710 | [179710-all-japan-super-bombliss-cup-95-dai-4-kai.json](./179710-all-japan-super-bombliss-cup-95-dai-4-kai.json) |
 | All Kamen Rider: Rider Generation | 65849 | [65849-all-kamen-rider-rider-generation.json](./65849-all-kamen-rider-rider-generation.json) |
+| All Kamen Rider: Rider Generation 2 | 64575 | [64575-all-kamen-rider-rider-generation-2.json](./64575-all-kamen-rider-rider-generation-2.json) |
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Knowledge Authority | 303130 | [303130-all-knowledge-authority.json](./303130-all-knowledge-authority.json) |
 | All Lanes Must Exit | 405118 | [405118-all-lanes-must-exit.json](./405118-all-lanes-must-exit.json) |
@@ -10316,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
 | Amnesia Later x Crowd for Nintendo Switch | 136947 | [136947-amnesia-later-x-crowd-for-nintendo-switch.json](./136947-amnesia-later-x-crowd-for-nintendo-switch.json) |
+| Amnesia Later x Crowd V Edition | 61256 | [61256-amnesia-later-x-crowd-v-edition.json](./61256-amnesia-later-x-crowd-v-edition.json) |
 | Amnesia Re-collection | 263367 | [263367-amnesia-re-collection.json](./263367-amnesia-re-collection.json) |
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
@@ -13530,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 410392 | [410392-aphelion.json](./410392-aphelion.json) |
+| Aphelion Episode One: Graves of Earth | 66398 | [66398-aphelion-episode-one-graves-of-earth.json](./66398-aphelion-episode-one-graves-of-earth.json) |
 | Aphelion Episode Two: Wings of Omega | 66165 | [66165-aphelion-episode-two-wings-of-omega.json](./66165-aphelion-episode-two-wings-of-omega.json) |
 | Aphelion Headhunters | 248089 | [248089-aphelion-headhunters.json](./248089-aphelion-headhunters.json) |
 | Aphelion: Deluxe Edition | 405851 | [405851-aphelion-deluxe-edition.json](./405851-aphelion-deluxe-edition.json) |
@@ -16418,6 +16423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hongfeng | 330665 | [330665-armored-hongfeng.json](./330665-armored-hongfeng.json) |
+| Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Lab Force Vulvehicles | 211443 | [211443-armored-lab-force-vulvehicles.json](./211443-armored-lab-force-vulvehicles.json) |
 | Armored Moon | 62314 | [62314-armored-moon.json](./62314-armored-moon.json) |
 | Armored Moon: The Next Eden | 2610 | [2610-armored-moon-the-next-eden.json](./2610-armored-moon-the-next-eden.json) |
@@ -16496,6 +16502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Craft | 44256 | [44256-army-craft.json](./44256-army-craft.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
+| Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
 | Army Defense | 83277 | [83277-army-defense.json](./83277-army-defense.json) |
 | Army Defense 2 | 83278 | [83278-army-defense-2.json](./83278-army-defense-2.json) |
 | Army Defense 3 | 83279 | [83279-army-defense-3.json](./83279-army-defense-3.json) |
@@ -20053,6 +20060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura | 119868 | [119868-aura.json](./119868-aura.json) |
 | Aura | 377501 | [377501-aura.json](./377501-aura.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
+| Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Battler Dunbine: Byston Well's Flame | 239378 | [239378-aura-battler-dunbine-byston-wells-flame.json](./239378-aura-battler-dunbine-byston-wells-flame.json) |
 | Aura Battler Dunbine: Seisenshi Densetsu | 64754 | [64754-aura-battler-dunbine-seisenshi-densetsu.json](./64754-aura-battler-dunbine-seisenshi-densetsu.json) |
 | Aura Farmers | 329698 | [329698-aura-farmers.json](./329698-aura-farmers.json) |
