@@ -2083,7 +2083,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Out | 149651 | [149651-warp-out.json](./149651-warp-out.json) |
 | Warp Rider | 44245 | [44245-warp-rider.json](./44245-warp-rider.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
-| Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
 | Warp Speed: Infinity | 320047 | [320047-warp-speed-infinity.json](./320047-warp-speed-infinity.json) |
