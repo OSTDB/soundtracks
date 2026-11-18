@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T06:06:02.352Z",
-  "total_soundtracks": 3846,
+  "generated_at": "2026-11-18T06:26:03.693Z",
+  "total_soundtracks": 3848,
   "games": [
     {
       "igdb_id": 292844,
@@ -38025,6 +38025,20 @@
       ]
     },
     {
+      "igdb_id": 22163,
+      "game_name": "Sprinkle Islands",
+      "game_url": "https://ostdb.net/games/sprinkle-islands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3ccdaa7bb200fee0b82259e",
+      "albums": [
+        {
+          "album_name": "Sprinkle Islands (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5ZGYfzkPfpzcjykHWdJuBf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 6152,
       "game_name": "SpyHunter 2",
       "game_url": "https://ostdb.net/games/spyhunter-2",
@@ -44527,6 +44541,20 @@
         {
           "album_name": "Time Commando (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/52LJAp9APCut3I0fD4xXtb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22175,
+      "game_name": "Time Surfer",
+      "game_url": "https://ostdb.net/games/time-surfer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27300f3d7debec58d3060b0abc1",
+      "albums": [
+        {
+          "album_name": "Time Surfer OST",
+          "spotify_url": "https://open.spotify.com/album/4phltBSgciK0Ouqlcp5BFt",
           "apple_music_url": "",
           "album_link_url": ""
         }
