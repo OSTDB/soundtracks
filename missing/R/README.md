@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Taped | 390314 | [390314-re-taped.json](./390314-re-taped.json) |
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-Volt | 3585 | [3585-re-volt.json](./3585-re-volt.json) |
+| Re-Volt | 429545 | [429545-re-volt.json](./429545-re-volt.json) |
 | Re-Volt OpenGL | 257552 | [257552-re-volt-opengl.json](./257552-re-volt-opengl.json) |
 | Re-wind | 92658 | [92658-re-wind.json](./92658-re-wind.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
@@ -13834,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumii | 103764 | [103764-rumii.json](./103764-rumii.json) |
 | Ruminant 4444 | 399911 | [399911-ruminant-4444.json](./399911-ruminant-4444.json) |
 | Rumination | 364638 | [364638-rumination.json](./364638-rumination.json) |
+| Rumination: V | 429562 | [429562-rumination-v.json](./429562-rumination-v.json) |
 | Rummel & Rabalder: Dr. Franks Mask | 154830 | [154830-rummel-and-rabalder-dr-franks-mask.json](./154830-rummel-and-rabalder-dr-franks-mask.json) |
 | Rummel & Rabalder: I Snarkofagens Skugga | 154832 | [154832-rummel-and-rabalder-i-snarkofagens-skugga.json](./154832-rummel-and-rabalder-i-snarkofagens-skugga.json) |
 | Rummel & Rabalder: Jakten på Kapten Hanssons Guld | 154827 | [154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json](./154827-rummel-and-rabalder-jakten-pa-kapten-hanssons-guld.json) |
