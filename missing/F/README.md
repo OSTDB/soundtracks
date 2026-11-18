@@ -7073,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
 | Fireman Sam | 287373 | [287373-fireman-sam.json](./287373-fireman-sam.json) |
 | Fireman Sam to the Rescue | 85640 | [85640-fireman-sam-to-the-rescue.json](./85640-fireman-sam-to-the-rescue.json) |
+| Fireman Sam: Action Stations | 395306 | [395306-fireman-sam-action-stations.json](./395306-fireman-sam-action-stations.json) |
 | Fireman Sam: Junior Cadet | 100486 | [100486-fireman-sam-junior-cadet.json](./100486-fireman-sam-junior-cadet.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
