@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
 | .Hack//Infection | 11807 | [11807-hack-infection.json](./11807-hack-infection.json) |
 | .hack//Link | 69401 | [69401-hack-link.json](./69401-hack-link.json) |
+| .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
 | .Hack//Sign SK Telecom | 381500 | [381500-hack-sign-sk-telecom.json](./381500-hack-sign-sk-telecom.json) |
 | .hack//Versus | 65212 | [65212-hack-versus.json](./65212-hack-versus.json) |
 | .Hack//Vol. 1 LG-Telecom | 300505 | [300505-hack-vol-1-lg-telecom.json](./300505-hack-vol-1-lg-telecom.json) |
