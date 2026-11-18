@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainbody | 223424 | [223424-mainbody.json](./223424-mainbody.json) |
 | MainFighter | 185493 | [185493-mainfighter.json](./185493-mainfighter.json) |
 | Mainframe | 182779 | [182779-mainframe.json](./182779-mainframe.json) |
+| Mainframe Defenders | 125207 | [125207-mainframe-defenders.json](./125207-mainframe-defenders.json) |
 | Mainframe Defenders: Metldown | 183669 | [183669-mainframe-defenders-metldown.json](./183669-mainframe-defenders-metldown.json) |
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
@@ -14723,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motor Racing 2 | 188394 | [188394-mini-motor-racing-2.json](./188394-mini-motor-racing-2.json) |
 | Mini Motor Racing EVO | 8958 | [8958-mini-motor-racing-evo.json](./8958-mini-motor-racing-evo.json) |
 | Mini Motor Racing WRT | 38682 | [38682-mini-motor-racing-wrt.json](./38682-mini-motor-racing-wrt.json) |
+| Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X | 197623 | [197623-mini-motor-racing-x.json](./197623-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
 | Mini Motorways | 122559 | [122559-mini-motorways.json](./122559-mini-motorways.json) |
@@ -14825,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Wars Blackout | 87133 | [87133-mini-wars-blackout.json](./87133-mini-wars-blackout.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
 | Mini Wizards | 350581 | [350581-mini-wizards.json](./350581-mini-wizards.json) |
+| Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Words: Collection | 194748 | [194748-mini-words-collection.json](./194748-mini-words-collection.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
 | Mini Words: Top Games | 150724 | [150724-mini-words-top-games.json](./150724-mini-words-top-games.json) |
@@ -17048,6 +17051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokis | 412678 | [412678-mokis.json](./412678-mokis.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
+| Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
 | Mokoko X | 191723 | [191723-mokoko-x.json](./191723-mokoko-x.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mokomon: Five Elements | 415152 | [415152-mokomon-five-elements.json](./415152-mokomon-five-elements.json) |
