@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T01:56:05.979Z",
-  "total_soundtracks": 3813,
+  "generated_at": "2026-11-18T02:06:49.559Z",
+  "total_soundtracks": 3823,
   "games": [
     {
       "igdb_id": 292844,
@@ -779,6 +779,20 @@
         {
           "album_name": "Adibou: La chanson d'Adibou (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0eJoc0Ay6jDxFbjbD2jd2W",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 29306,
+      "game_name": "Adjacency",
+      "game_url": "https://ostdb.net/games/adjacency",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e26c1a75d766d9654fdb6f5d",
+      "albums": [
+        {
+          "album_name": "Adjacency Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5G2snwAagBtZzSX0z6s9Om",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5451,6 +5465,20 @@
         {
           "album_name": "Bloody Trapland 2: Curiosity (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4zlcPZpN0Q9kZKVnhOVeYg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28522,
+      "game_name": "Bloody Zombies",
+      "game_url": "https://ostdb.net/games/bloody-zombies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27300a46bd521a99858d9cb1d10",
+      "albums": [
+        {
+          "album_name": "Bloody Zombies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76735svfzCNdcJ3DyC3VIE",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -18003,6 +18031,34 @@
       ]
     },
     {
+      "igdb_id": 28241,
+      "game_name": "Hacktag",
+      "game_url": "https://ostdb.net/games/hacktag",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735af9e453812665a768bf1c70",
+      "albums": [
+        {
+          "album_name": "Hacktag (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1awGWDy6WhNANU1NIG0svd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28076,
+      "game_name": "HackyZack",
+      "game_url": "https://ostdb.net/games/hackyzack",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a55e5150c435a85ec790c4c",
+      "albums": [
+        {
+          "album_name": "Hackyzack (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7w6ae71QrsvVmh2Ej6BPub",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 113112,
       "game_name": "Hades",
       "game_url": "https://ostdb.net/games/hades",
@@ -19883,6 +19939,20 @@
       ]
     },
     {
+      "igdb_id": 29495,
+      "game_name": "HyperBrawl Tournament",
+      "game_url": "https://ostdb.net/games/hyperbrawl-tournament",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27385c9a66b1e569e502ac87b2c",
+      "albums": [
+        {
+          "album_name": "HyperBrawl Tournament (Music from the Video Game)",
+          "spotify_url": "https://open.spotify.com/album/23QR4LdsiTBfcgCIgSXTNi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119536,
       "game_name": "HyperDot",
       "game_url": "https://ostdb.net/games/hyperdot",
@@ -21087,6 +21157,20 @@
         {
           "album_name": "James Pond: Underwater Agent Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/38AOdm5YjXpsNRHArGO5nv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28284,
+      "game_name": "Jay and Silent Bob: Chronic Blunt Punch",
+      "game_url": "https://ostdb.net/games/jay-and-silent-bob-chronic-blunt-punch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273384b9b5ef78f4cf4f94330b0",
+      "albums": [
+        {
+          "album_name": "Jay and Silent Bob: Chronic Blunt Punch (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/54qFcXezBkTIb6pZcsshKg",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22963,6 +23047,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/life-is-strange-reunion-original-game-soundtrack/1884158728?uo=4",
           "album_link_url": "https://album.link/i/1884158728"
+        }
+      ]
+    },
+    {
+      "igdb_id": 27933,
+      "game_name": "Lifeless Moon",
+      "game_url": "https://ostdb.net/games/lifeless-moon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273708e42893a61920ee1aaeb98",
+      "albums": [
+        {
+          "album_name": "Lifeless Moon (original video game soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7zAQYmqBO1n5QaBHI9XMEU",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -29437,6 +29535,20 @@
         {
           "album_name": "Paint the Town Red (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6BXCjXC3yykovLDwl9YQI3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 29028,
+      "game_name": "Pako 2",
+      "game_url": "https://ostdb.net/games/pako-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2619d8b540ed1e70ed3af3e",
+      "albums": [
+        {
+          "album_name": "Pako 2 (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4LvKJaYWvhLmcaOF2lbwyI",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37381,6 +37493,20 @@
       ]
     },
     {
+      "igdb_id": 28876,
+      "game_name": "Spartan Fist",
+      "game_url": "https://ostdb.net/games/spartan-fist",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e988961ad14545cdeb1f9348",
+      "albums": [
+        {
+          "album_name": "Spartan Fist Official Video Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0MO3MkQT6DwX1Awr3iLtSF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 111351,
       "game_name": "Speaking Simulator",
       "game_url": "https://ostdb.net/games/speaking-simulator",
@@ -44219,6 +44345,20 @@
         {
           "album_name": "Tiny Terry's Turbo Trip (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0wJfQcAd6HvMtUxvZsh0hK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28295,
+      "game_name": "Tiny Thor",
+      "game_url": "https://ostdb.net/games/tiny-thor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730470573379b29d37606cbbb7",
+      "albums": [
+        {
+          "album_name": "Tiny Thor (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ymWogxz3ez2oUK7w7ivT9",
           "apple_music_url": "",
           "album_link_url": ""
         }
