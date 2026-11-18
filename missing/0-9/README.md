@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
 | 1001 Jigsaw: Legends of Mystery 5 | 203857 | [203857-1001-jigsaw-legends-of-mystery-5.json](./203857-1001-jigsaw-legends-of-mystery-5.json) |
 | 1001 Jigsaw: Legends of Mystery 6 | 212899 | [212899-1001-jigsaw-legends-of-mystery-6.json](./212899-1001-jigsaw-legends-of-mystery-6.json) |
+| 1001 Jigsaw: Myths of Ancient Greece | 130923 | [130923-1001-jigsaw-myths-of-ancient-greece.json](./130923-1001-jigsaw-myths-of-ancient-greece.json) |
 | 1001 Jigsaw: Wild Animals | 195447 | [195447-1001-jigsaw-wild-animals.json](./195447-1001-jigsaw-wild-animals.json) |
 | 1001 Jigsaw: World Tour - Africa | 162968 | [162968-1001-jigsaw-world-tour-africa.json](./162968-1001-jigsaw-world-tour-africa.json) |
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
@@ -3836,6 +3837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8089: The Next Action RPG | 181023 | [181023-8089-the-next-action-rpg.json](./181023-8089-the-next-action-rpg.json) |
 | 808cc | 251894 | [251894-808cc.json](./251894-808cc.json) |
 | 808s&Genetics | 264544 | [264544-808s-and-genetics.json](./264544-808s-and-genetics.json) |
+| 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 80s Mania Wrestling | 232083 | [232083-80s-mania-wrestling.json](./232083-80s-mania-wrestling.json) |
 | 80s Mania Wrestling Returns | 256502 | [256502-80s-mania-wrestling-returns.json](./256502-80s-mania-wrestling-returns.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Clock OverPack | 424710 | [424710-9clock-overpack.json](./424710-9clock-overpack.json) |
 | 9Dragons: Kung Fu Arena | 113738 | [113738-9dragons-kung-fu-arena.json](./113738-9dragons-kung-fu-arena.json) |
 | 9Grids VR | 32465 | [32465-9grids-vr.json](./32465-9grids-vr.json) |
+| 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
 | 9mm | 246155 | [246155-9mm.json](./246155-9mm.json) |
 | 9mm Girls The Visual Novel | 318898 | [318898-9mm-girls-the-visual-novel.json](./318898-9mm-girls-the-visual-novel.json) |
