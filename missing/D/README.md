@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Burden | 390589 | [390589-daily-burden.json](./390589-daily-burden.json) |
 | Daily Celebrity Crossword | 78991 | [78991-daily-celebrity-crossword.json](./78991-daily-celebrity-crossword.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
+| Daily Chthonicle: Editor's Edition | 24855 | [24855-daily-chthonicle-editors-edition.json](./24855-daily-chthonicle-editors-edition.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
 | Daily Double Horse Racing | 12563 | [12563-daily-double-horse-racing.json](./12563-daily-double-horse-racing.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
@@ -690,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damage Incorporated | 94500 | [94500-damage-incorporated.json](./94500-damage-incorporated.json) |
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
+| Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
 | Damaged In Transit | 121738 | [121738-damaged-in-transit.json](./121738-damaged-in-transit.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
@@ -15168,6 +15170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom: Eternal - Collector's Edition | 119312 | [119312-doom-eternal-collectors-edition.json](./119312-doom-eternal-collectors-edition.json) |
 | Doom: Eternal - Deluxe Edition | 119888 | [119888-doom-eternal-deluxe-edition.json](./119888-doom-eternal-deluxe-edition.json) |
 | DooM: Fall of Mars | 331655 | [331655-doom-fall-of-mars.json](./331655-doom-fall-of-mars.json) |
+| Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | DOOM: Slayer's Rampage | 199404 | [199404-doom-slayers-rampage.json](./199404-doom-slayers-rampage.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
@@ -20798,6 +20801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gate | 53977 | [53977-dungeon-gate.json](./53977-dungeon-gate.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
+| Dungeon Girl | 25689 | [25689-dungeon-girl.json](./25689-dungeon-girl.json) |
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Glitchers VR | 182660 | [182660-dungeon-glitchers-vr.json](./182660-dungeon-glitchers-vr.json) |
@@ -21761,6 +21765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustman | 14044 | [14044-dustman.json](./14044-dustman.json) |
 | Dustmen | 291282 | [291282-dustmen.json](./291282-dustmen.json) |
 | Dustnet | 117904 | [117904-dustnet.json](./117904-dustnet.json) |
+| Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
