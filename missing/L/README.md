@@ -7067,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood | 409767 | [409767-little-red-riding-hood.json](./409767-little-red-riding-hood.json) |
 | Little Red Riding Hood A | 225313 | [225313-little-red-riding-hood-a.json](./225313-little-red-riding-hood-a.json) |
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
+| Little Red Riding Hood: Endless Zoom Tale | 336769 | [336769-little-red-riding-hood-endless-zoom-tale.json](./336769-little-red-riding-hood-endless-zoom-tale.json) |
 | Little Red Riding Hood: Interactive Book | 400066 | [400066-little-red-riding-hood-interactive-book.json](./400066-little-red-riding-hood-interactive-book.json) |
 | Little Red Riding Hood: Wonder Animals | 288301 | [288301-little-red-riding-hood-wonder-animals.json](./288301-little-red-riding-hood-wonder-animals.json) |
 | Little Red Riding Hood: Wonder Animals Vol.2 | 288300 | [288300-little-red-riding-hood-wonder-animals-vol-2.json](./288300-little-red-riding-hood-wonder-animals-vol-2.json) |
