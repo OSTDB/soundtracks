@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
+| Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
 | Masterstone | 421706 | [421706-masterstone.json](./421706-masterstone.json) |
 | MasterType | 315412 | [315412-mastertype.json](./315412-mastertype.json) |
 | MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
