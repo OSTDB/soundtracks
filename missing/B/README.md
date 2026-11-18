@@ -5425,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Be Zero | 101649 | [101649-be-zero.json](./101649-be-zero.json) |
 | BE-A Walker | 102386 | [102386-be-a-walker.json](./102386-be-a-walker.json) |
+| BE-A Walker | 147489 | [147489-be-a-walker.json](./147489-be-a-walker.json) |
 | Be-be-bears! | 99863 | [99863-be-be-bears.json](./99863-be-be-bears.json) |
 | Be-Bop High School: Koukousei Gokuraku Densetsu | 48546 | [48546-be-bop-high-school-koukousei-gokuraku-densetsu.json](./48546-be-bop-high-school-koukousei-gokuraku-densetsu.json) |
 | Be-Yond: Kurodaishou ni Mirareteru | 256643 | [256643-be-yond-kurodaishou-ni-mirareteru.json](./256643-be-yond-kurodaishou-ni-mirareteru.json) |
@@ -9108,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binarycurse | 369690 | [369690-binarycurse.json](./369690-binarycurse.json) |
 | BinaryDefense | 224417 | [224417-binarydefense.json](./224417-binarydefense.json) |
 | BinaryGrab | 130724 | [130724-binarygrab.json](./130724-binarygrab.json) |
+| Binarystar Infinity | 147492 | [147492-binarystar-infinity.json](./147492-binarystar-infinity.json) |
 | Binaural Odyssey | 153365 | [153365-binaural-odyssey.json](./153365-binaural-odyssey.json) |
 | Bincho-tan: Shiawase-goyomi | 194932 | [194932-bincho-tan-shiawase-goyomi.json](./194932-bincho-tan-shiawase-goyomi.json) |
 | Bind | 407058 | [407058-bind.json](./407058-bind.json) |
@@ -11859,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Builder SP | 222448 | [222448-block-builder-sp.json](./222448-block-builder-sp.json) |
 | Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
 | Block Buster | 138047 | [138047-block-buster.json](./138047-block-buster.json) |
+| Block Buster | 147505 | [147505-block-buster.json](./147505-block-buster.json) |
 | Block Buster | 152222 | [152222-block-buster.json](./152222-block-buster.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
 | Block Buster | 299608 | [299608-block-buster.json](./299608-block-buster.json) |
@@ -16659,6 +16662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
+| BrainTeaser | 147525 | [147525-brainteaser.json](./147525-brainteaser.json) |
 | Brainteaser Boulevard! | 21919 | [21919-brainteaser-boulevard.json](./21919-brainteaser-boulevard.json) |
 | Brainwash Facility | 272116 | [272116-brainwash-facility.json](./272116-brainwash-facility.json) |
 | Brainwashing Academy: The Cursed Person's Pot | 380457 | [380457-brainwashing-academy-the-cursed-persons-pot.json](./380457-brainwashing-academy-the-cursed-persons-pot.json) |
@@ -17709,7 +17713,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
+| Bricks Defender 2 | 147496 | [147496-bricks-defender-2.json](./147496-bricks-defender-2.json) |
+| Bricks Defender 3 | 147495 | [147495-bricks-defender-3.json](./147495-bricks-defender-3.json) |
 | Bricks Defender 4 | 146948 | [146948-bricks-defender-4.json](./146948-bricks-defender-4.json) |
+| Bricks Defender V | 147499 | [147499-bricks-defender-v.json](./147499-bricks-defender-v.json) |
 | Bricks Frenzy | 149615 | [149615-bricks-frenzy.json](./149615-bricks-frenzy.json) |
 | Bricks in the Box | 104741 | [104741-bricks-in-the-box.json](./104741-bricks-in-the-box.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
@@ -17721,6 +17728,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
 | Bricks Over Blocks | 338447 | [338447-bricks-over-blocks.json](./338447-bricks-over-blocks.json) |
+| Bricks Pinball | 147503 | [147503-bricks-pinball.json](./147503-bricks-pinball.json) |
+| Bricks Pinball 2 | 147502 | [147502-bricks-pinball-2.json](./147502-bricks-pinball-2.json) |
+| Bricks Pinball 3 | 147501 | [147501-bricks-pinball-3.json](./147501-bricks-pinball-3.json) |
+| Bricks Pinball 4 | 147500 | [147500-bricks-pinball-4.json](./147500-bricks-pinball-4.json) |
 | Bricks Pinball V | 147573 | [147573-bricks-pinball-v.json](./147573-bricks-pinball-v.json) |
 | Bricks Pinball VI | 147575 | [147575-bricks-pinball-vi.json](./147575-bricks-pinball-vi.json) |
 | Bricks Survivors | 320640 | [320640-bricks-survivors.json](./320640-bricks-survivors.json) |
