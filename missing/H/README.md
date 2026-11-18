@@ -14244,6 +14244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyke: Northern Light(s) - A Witch’s Chill Time | 399417 | [399417-hyke-northern-light-s-a-witch-s-chill-time.json](./399417-hyke-northern-light-s-a-witch-s-chill-time.json) |
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics | 11599 | [11599-hylics.json](./11599-hylics.json) |
+| Hylophobia | 398587 | [398587-hylophobia.json](./398587-hylophobia.json) |
 | Hymble Ventures | 372350 | [372350-hymble-ventures.json](./372350-hymble-ventures.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymer 2000 | 359686 | [359686-hymer-2000.json](./359686-hymer-2000.json) |
