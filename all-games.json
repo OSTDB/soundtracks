@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-17T10:46:14.789Z",
-  "total_soundtracks": 3759,
+  "generated_at": "2026-11-18T00:06:22.675Z",
+  "total_soundtracks": 3765,
   "games": [
     {
       "igdb_id": 292844,
@@ -5873,6 +5873,20 @@
         {
           "album_name": "Brawlout (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1rxEBm5COL0G12n5qoEtXl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 94147,
+      "game_name": "Breach",
+      "game_url": "https://ostdb.net/games/breach",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a6f5d0c5160dbcd58b3723ce",
+      "albums": [
+        {
+          "album_name": "Breach - The Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7sfHkP3qdaxvmxKfiM215c",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17695,6 +17709,20 @@
       ]
     },
     {
+      "igdb_id": 96503,
+      "game_name": "Hacker.exe",
+      "game_url": "https://ostdb.net/games/hacker-exe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737738f29a44e5b73cf2e4ef1f",
+      "albums": [
+        {
+          "album_name": "Hacker.Exe (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/39QwS2A4mUPoIrMFLLmFKk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 24441,
       "game_name": "Hackmud",
       "game_url": "https://ostdb.net/games/hackmud",
@@ -19169,6 +19197,20 @@
       ]
     },
     {
+      "igdb_id": 95130,
+      "game_name": "Hoppenhelm",
+      "game_url": "https://ostdb.net/games/hoppenhelm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a027ca0d80e40562b859b6f2",
+      "albums": [
+        {
+          "album_name": "Hoppenhelm (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5sV2UUKrK6JEmG22TpMNO3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 186309,
       "game_name": "Horizon Call of the Mountain",
       "game_url": "https://ostdb.net/games/horizon-call-of-the-mountain",
@@ -19583,6 +19625,20 @@
         {
           "album_name": "HyperDot (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3FwBKNjAcw7y0YPymGyVPI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96727,
+      "game_name": "Hyperforma",
+      "game_url": "https://ostdb.net/games/hyperforma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730d6c3e77235af0ce6dda7d1c",
+      "albums": [
+        {
+          "album_name": "Hyperforma (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Ic3JxE18fzbu61uuCIx4C",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21349,6 +21405,20 @@
         {
           "album_name": "Kind Words (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0dbOknL5rOAjW665YaVp7n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 95225,
+      "game_name": "Kine",
+      "game_url": "https://ostdb.net/games/kine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a9739e96553ba44c1f33a1e0",
+      "albums": [
+        {
+          "album_name": "Kine (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0MHHTAvgJQzz4TmYPO2rtU",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -46573,6 +46643,20 @@
         {
           "album_name": "Warhawk (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2tFlJ8HIVzwQ6Qy5DFH1s1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 95053,
+      "game_name": "Warp Shift",
+      "game_url": "https://ostdb.net/games/warp-shift",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273249b7352b6565dbade69c183",
+      "albums": [
+        {
+          "album_name": "Warp Shift - Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7yttP9JbbePuljIWvmRc1M",
           "apple_music_url": "",
           "album_link_url": ""
         }
