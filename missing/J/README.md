@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jenny's Adventures | 368218 | [368218-jennys-adventures.json](./368218-jennys-adventures.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jensen Strikes Back | 340984 | [340984-jensen-strikes-back.json](./340984-jensen-strikes-back.json) |
+| Jentrix | 187433 | [187433-jentrix.json](./187433-jentrix.json) |
 | Jeon Woo-chi | 423476 | [423476-jeon-woo-chi.json](./423476-jeon-woo-chi.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
 | Jeopardy | 242735 | [242735-jeopardy.json](./242735-jeopardy.json) |
@@ -1490,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetfighter V: Homeland Protector | 71283 | [71283-jetfighter-v-homeland-protector.json](./71283-jetfighter-v-homeland-protector.json) |
 | JetFighter: Full Burn | 2402 | [2402-jetfighter-full-burn.json](./2402-jetfighter-full-burn.json) |
 | JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
+| JetFly | 55399 | [55399-jetfly.json](./55399-jetfly.json) |
 | Jetix Puzzle Buzzle | 56233 | [56233-jetix-puzzle-buzzle.json](./56233-jetix-puzzle-buzzle.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
@@ -2253,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2000 | 136733 | [136733-jikkyou-pawafuru-puroyakyu-2000.json](./136733-jikkyou-pawafuru-puroyakyu-2000.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban | 229575 | [229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json](./229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kettei-ban | 229542 | [229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json](./229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2001 | 72830 | [72830-jikkyou-pawafuru-puroyakyu-2001.json](./72830-jikkyou-pawafuru-puroyakyu-2001.json) |
 | Jikkyou Pawafuru Puroyakyu 2001: Kettei-ban | 229579 | [229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json](./229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2002 Haru | 229580 | [229580-jikkyou-pawafuru-puroyakyu-2002-haru.json](./229580-jikkyou-pawafuru-puroyakyu-2002-haru.json) |
 | Jikkyou Pawafuru Puroyakyu 2009 | 98518 | [98518-jikkyou-pawafuru-puroyakyu-2009.json](./98518-jikkyou-pawafuru-puroyakyu-2009.json) |
