@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Baby Animals - Expansion Pack 1 | 243059 | [243059-jigsaw-puzzle-baby-animals-expansion-pack-1.json](./243059-jigsaw-puzzle-baby-animals-expansion-pack-1.json) |
 | Jigsaw Puzzle: Baby Animals - Expansion Pack 2 | 243060 | [243060-jigsaw-puzzle-baby-animals-expansion-pack-2.json](./243060-jigsaw-puzzle-baby-animals-expansion-pack-2.json) |
 | Jigsaw Puzzle: BDSM Room | 203536 | [203536-jigsaw-puzzle-bdsm-room.json](./203536-jigsaw-puzzle-bdsm-room.json) |
+| Jigsaw Puzzle: Beach Season | 99213 | [99213-jigsaw-puzzle-beach-season.json](./99213-jigsaw-puzzle-beach-season.json) |
 | Jigsaw Puzzle: Beach Season 2 | 213316 | [213316-jigsaw-puzzle-beach-season-2.json](./213316-jigsaw-puzzle-beach-season-2.json) |
 | Jigsaw Puzzle: Belgium Through the Lens | 214276 | [214276-jigsaw-puzzle-belgium-through-the-lens.json](./214276-jigsaw-puzzle-belgium-through-the-lens.json) |
 | Jigsaw Puzzle: Best Places | 238993 | [238993-jigsaw-puzzle-best-places.json](./238993-jigsaw-puzzle-best-places.json) |
@@ -3817,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper Starman | 155775 | [155775-jumper-starman.json](./155775-jumper-starman.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumper Tree | 112863 | [112863-jumper-tree.json](./112863-jumper-tree.json) |
+| Jumper Two | 76761 | [76761-jumper-two.json](./76761-jumper-two.json) |
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper: Griffin's Story | 4944 | [4944-jumper-griffins-story.json](./4944-jumper-griffins-story.json) |
 | Jumper: Speedrun | 55253 | [55253-jumper-speedrun.json](./55253-jumper-speedrun.json) |
