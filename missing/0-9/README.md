@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
+| 3-D Maze | 15576 | [15576-3-d-maze.json](./15576-3-d-maze.json) |
 | 3-D Monster Chase | 13267 | [13267-3-d-monster-chase.json](./13267-3-d-monster-chase.json) |
 | 3-D Pinball | 255435 | [255435-3-d-pinball.json](./255435-3-d-pinball.json) |
 | 3-D Skramble | 417737 | [417737-3-d-skramble.json](./417737-3-d-skramble.json) |
@@ -3694,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 720 Degrees | 388317 | [388317-720-degrees.json](./388317-720-degrees.json) |
 | 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
+| 737 Flight Simulator | 15580 | [15580-737-flight-simulator.json](./15580-737-flight-simulator.json) |
 | 740 Racing | 334391 | [334391-740-racing.json](./334391-740-racing.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
 | 747 Landing Simulator | 90903 | [90903-747-landing-simulator.json](./90903-747-landing-simulator.json) |
@@ -3704,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 757 Professional | 79568 | [79568-757-professional.json](./79568-757-professional.json) |
 | 76 | 179553 | [179553-76.json](./179553-76.json) |
 | 765 Suika | 282373 | [282373-765-suika.json](./282373-765-suika.json) |
+| 767 Advanced Flight Simulator | 15583 | [15583-767-advanced-flight-simulator.json](./15583-767-advanced-flight-simulator.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77 Oleander Avenue Ghost House Investigation | 205674 | [205674-77-oleander-avenue-ghost-house-investigation.json](./205674-77-oleander-avenue-ghost-house-investigation.json) |
 | 77: Beyond the Milky Way | 58053 | [58053-77-beyond-the-milky-way.json](./58053-77-beyond-the-milky-way.json) |
@@ -3948,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
 | 9 Childs Street | 207401 | [207401-9-childs-street.json](./207401-9-childs-street.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
+| 9 Classic Card & Board Games: No. 2 | 15585 | [15585-9-classic-card-and-board-games-no-2.json](./15585-9-classic-card-and-board-games-no-2.json) |
 | 9 Clues 2: The Ward | 35265 | [35265-9-clues-2-the-ward.json](./35265-9-clues-2-the-ward.json) |
 | 9 Clues: The Secret of Serpent Creek | 17143 | [17143-9-clues-the-secret-of-serpent-creek.json](./17143-9-clues-the-secret-of-serpent-creek.json) |
 | 9 Days | 319921 | [319921-9-days.json](./319921-9-days.json) |
