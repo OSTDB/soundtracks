@@ -12882,6 +12882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 275402 | [275402-the-janitor.json](./275402-the-janitor.json) |
+| The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Janus Problem | 223289 | [223289-the-janus-problem.json](./223289-the-janus-problem.json) |
 | The Japanese Calligraphy | 321854 | [321854-the-japanese-calligraphy.json](./321854-the-japanese-calligraphy.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
@@ -28395,6 +28396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Clinic | 145772 | [145772-tomato-clinic.json](./145772-tomato-clinic.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Flip | 292356 | [292356-tomato-flip.json](./292356-tomato-flip.json) |
+| Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
@@ -29785,6 +29787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Tattoos | 200603 | [200603-totally-tattoos.json](./200603-totally-tattoos.json) |
 | Totally Tiny Arcade | 191272 | [191272-totally-tiny-arcade.json](./191272-totally-tiny-arcade.json) |
 | Totally Tuberz | 373074 | [373074-totally-tuberz.json](./373074-totally-tuberz.json) |
+| Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
 | TotalNerds | 208254 | [208254-totalnerds.json](./208254-totalnerds.json) |
 | Tote & Go Laptop | 387073 | [387073-tote-and-go-laptop.json](./387073-tote-and-go-laptop.json) |
