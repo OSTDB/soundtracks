@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Race 64 | 286694 | [286694-wave-race-64.json](./286694-wave-race-64.json) |
 | Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
+| Wave Race 64: Recompiled | 417035 | [417035-wave-race-64-recompiled.json](./417035-wave-race-64-recompiled.json) |
 | Wave Race 64: Shindou Pak Taiou Version | 47740 | [47740-wave-race-64-shindou-pak-taiou-version.json](./47740-wave-race-64-shindou-pak-taiou-version.json) |
 | Wave Race: Blue Storm | 4232 | [4232-wave-race-blue-storm.json](./4232-wave-race-blue-storm.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Quiet Haven | 122728 | [122728-welcome-to-quiet-haven.json](./122728-welcome-to-quiet-haven.json) |
 | Welcome to Scott's Story in the World of Our Church and Halloween: Visual Novel | 225588 | [225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./225588-welcome-to-scotts-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Silverscale Lake! | 297407 | [297407-welcome-to-silverscale-lake.json](./297407-welcome-to-silverscale-lake.json) |
+| Welcome to Sunnybrook | 417029 | [417029-welcome-to-sunnybrook.json](./417029-welcome-to-sunnybrook.json) |
 | Welcome to Sushi Tree | 316612 | [316612-welcome-to-sushi-tree.json](./316612-welcome-to-sushi-tree.json) |
 | Welcome to the Adamant Maintenance Monitoring Terminal | 186599 | [186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json](./186599-welcome-to-the-adamant-maintenance-monitoring-terminal.json) |
 | Welcome to the Adventurer Inn! | 169460 | [169460-welcome-to-the-adventurer-inn.json](./169460-welcome-to-the-adventurer-inn.json) |
