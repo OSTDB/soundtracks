@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
+| UFC Personal Trainer: The Ultimate Fitness System | 22948 | [22948-ufc-personal-trainer-the-ultimate-fitness-system.json](./22948-ufc-personal-trainer-the-ultimate-fitness-system.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
+| Underground Keeper | 22727 | [22727-underground-keeper.json](./22727-underground-keeper.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
@@ -2332,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair | 233137 | [233137-unfair.json](./233137-unfair.json) |
 | Unfair Dungeon | 384305 | [384305-unfair-dungeon.json](./384305-unfair-dungeon.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
+| Unfair Jousting Fair | 24039 | [24039-unfair-jousting-fair.json](./24039-unfair-jousting-fair.json) |
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
 | Unfair Souls: Darkest Grind | 190303 | [190303-unfair-souls-darkest-grind.json](./190303-unfair-souls-darkest-grind.json) |
