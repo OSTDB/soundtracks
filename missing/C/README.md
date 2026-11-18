@@ -1881,11 +1881,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium Packs 1, 2, and 3 | 164749 | [164749-capcom-arcade-stadium-packs-1-2-and-3.json](./164749-capcom-arcade-stadium-packs-1-2-and-3.json) |
 | Capcom Arcade Stadium: 1941 - Counter Attack | 148748 | [148748-capcom-arcade-stadium-1941-counter-attack.json](./148748-capcom-arcade-stadium-1941-counter-attack.json) |
 | Capcom Arcade Stadium: 1942 | 148754 | [148754-capcom-arcade-stadium-1942.json](./148754-capcom-arcade-stadium-1942.json) |
+| Capcom Arcade Stadium: 1944 - The Loop Master | 161435 | [161435-capcom-arcade-stadium-1944-the-loop-master.json](./161435-capcom-arcade-stadium-1944-the-loop-master.json) |
 | Capcom Arcade Stadium: 19XX - The War Against Destiny | 161441 | [161441-capcom-arcade-stadium-19xx-the-war-against-destiny.json](./161441-capcom-arcade-stadium-19xx-the-war-against-destiny.json) |
 | Capcom Arcade Stadium: Battle Circuit | 234302 | [234302-capcom-arcade-stadium-battle-circuit.json](./234302-capcom-arcade-stadium-battle-circuit.json) |
 | Capcom Arcade Stadium: Bionic Commando | 148760 | [148760-capcom-arcade-stadium-bionic-commando.json](./148760-capcom-arcade-stadium-bionic-commando.json) |
+| Capcom Arcade Stadium: Captain Commando | 161439 | [161439-capcom-arcade-stadium-captain-commando.json](./161439-capcom-arcade-stadium-captain-commando.json) |
 | Capcom Arcade Stadium: Carrier Air Wing | 148746 | [148746-capcom-arcade-stadium-carrier-air-wing.json](./148746-capcom-arcade-stadium-carrier-air-wing.json) |
 | Capcom Arcade Stadium: Commando | 148759 | [148759-capcom-arcade-stadium-commando.json](./148759-capcom-arcade-stadium-commando.json) |
+| Capcom Arcade Stadium: Cyberbots - Fullmetal Madness | 161438 | [161438-capcom-arcade-stadium-cyberbots-fullmetal-madness.json](./161438-capcom-arcade-stadium-cyberbots-fullmetal-madness.json) |
 | Capcom Arcade Stadium: Dynasty Wars | 150654 | [150654-capcom-arcade-stadium-dynasty-wars.json](./150654-capcom-arcade-stadium-dynasty-wars.json) |
 | Capcom Arcade Stadium: Final Fight | 148750 | [148750-capcom-arcade-stadium-final-fight.json](./148750-capcom-arcade-stadium-final-fight.json) |
 | Capcom Arcade Stadium: Forgotten Worlds | 148752 | [148752-capcom-arcade-stadium-forgotten-worlds.json](./148752-capcom-arcade-stadium-forgotten-worlds.json) |
@@ -1899,11 +1902,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Progear | 234248 | [234248-capcom-arcade-stadium-progear.json](./234248-capcom-arcade-stadium-progear.json) |
 | Capcom Arcade Stadium: Section Z | 148758 | [148758-capcom-arcade-stadium-section-z.json](./148758-capcom-arcade-stadium-section-z.json) |
 | Capcom Arcade Stadium: Senjo no Okami II | 148744 | [148744-capcom-arcade-stadium-senjo-no-okami-ii.json](./148744-capcom-arcade-stadium-senjo-no-okami-ii.json) |
+| Capcom Arcade Stadium: Street Fighter II - Hyper Fighting | 161436 | [161436-capcom-arcade-stadium-street-fighter-ii-hyper-fighting.json](./161436-capcom-arcade-stadium-street-fighter-ii-hyper-fighting.json) |
 | Capcom Arcade Stadium: Street Fighter II - The World Warrior | 148747 | [148747-capcom-arcade-stadium-street-fighter-ii-the-world-warrior.json](./148747-capcom-arcade-stadium-street-fighter-ii-the-world-warrior.json) |
 | Capcom Arcade Stadium: Strider | 148745 | [148745-capcom-arcade-stadium-strider.json](./148745-capcom-arcade-stadium-strider.json) |
+| Capcom Arcade Stadium: Super Street Fighter II Turbo | 161440 | [161440-capcom-arcade-stadium-super-street-fighter-ii-turbo.json](./161440-capcom-arcade-stadium-super-street-fighter-ii-turbo.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom Arcade Stadium: Varth - Operation Thunderstorm | 148749 | [148749-capcom-arcade-stadium-varth-operation-thunderstorm.json](./148749-capcom-arcade-stadium-varth-operation-thunderstorm.json) |
 | Capcom Arcade Stadium: Vulgus | 148753 | [148753-capcom-arcade-stadium-vulgus.json](./148753-capcom-arcade-stadium-vulgus.json) |
+| Capcom Arcade Stadium: Warriors of Fate | 161437 | [161437-capcom-arcade-stadium-warriors-of-fate.json](./161437-capcom-arcade-stadium-warriors-of-fate.json) |
 | Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
@@ -2125,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Dynamo | 11990 | [11990-captain-dynamo.json](./11990-captain-dynamo.json) |
 | Captain Earth: Mind Labyrinth | 60987 | [60987-captain-earth-mind-labyrinth.json](./60987-captain-earth-mind-labyrinth.json) |
 | Captain Ed | 48539 | [48539-captain-ed.json](./48539-captain-ed.json) |
+| Captain Edgar Giza | 161418 | [161418-captain-edgar-giza.json](./161418-captain-edgar-giza.json) |
 | Captain Edward | 286359 | [286359-captain-edward.json](./286359-captain-edward.json) |
 | Captain Edward Continues | 341544 | [341544-captain-edward-continues.json](./341544-captain-edward-continues.json) |
 | Captain Explosion | 179152 | [179152-captain-explosion.json](./179152-captain-explosion.json) |
@@ -2984,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
 | Cardfight!!: Rare Card Set 14 [D-BT09] - Dragontree Invasion | 267441 | [267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json](./267441-cardfight-rare-card-set-14-d-bt09-dragontree-invasion.json) |
 | CardForge | 397837 | [397837-cardforge.json](./397837-cardforge.json) |
+| Cardful Planning | 147513 | [147513-cardful-planning.json](./147513-cardful-planning.json) |
 | Cardia | 266114 | [266114-cardia.json](./266114-cardia.json) |
 | Cardiac | 125765 | [125765-cardiac.json](./125765-cardiac.json) |
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
@@ -3382,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carom Shot | 334950 | [334950-carom-shot.json](./334950-carom-shot.json) |
 | Carom3D | 98597 | [98597-carom3d.json](./98597-carom3d.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
+| Carotic: Academic Version | 161415 | [161415-carotic-academic-version.json](./161415-carotic-academic-version.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
 | Carp Fishing Simulator | 35329 | [35329-carp-fishing-simulator.json](./35329-carp-fishing-simulator.json) |
@@ -21613,6 +21622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | Crystian and Lost Crystals | 418210 | [418210-crystian-and-lost-crystals.json](./418210-crystian-and-lost-crystals.json) |
 | Crystle Castles | 80391 | [80391-crystle-castles.json](./80391-crystle-castles.json) |
+| Crystorld | 147494 | [147494-crystorld.json](./147494-crystorld.json) |
 | Cryweard | 189302 | [189302-cryweard.json](./189302-cryweard.json) |
 | Cryzen.io | 282507 | [282507-cryzen-io.json](./282507-cryzen-io.json) |
 | Cryzon Part 2 | 379909 | [379909-cryzon-part-2.json](./379909-cryzon-part-2.json) |
