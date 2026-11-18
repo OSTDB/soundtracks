@@ -243,7 +243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker Typing | 231102 | [231102-hacker-typing.json](./231102-hacker-typing.json) |
 | Hacker vs It | 412745 | [412745-hacker-vs-it.json](./412745-hacker-vs-it.json) |
-| Hacker.exe | 96503 | [96503-hacker-exe.json](./96503-hacker-exe.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
@@ -764,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haligen Zero | 405135 | [405135-haligen-zero.json](./405135-haligen-zero.json) |
 | Halite AI | 77817 | [77817-halite-ai.json](./77817-halite-ai.json) |
 | Hall Infinite | 197275 | [197275-hall-infinite.json](./197275-hall-infinite.json) |
+| Hall of Mirrors | 417030 | [417030-hall-of-mirrors.json](./417030-hall-of-mirrors.json) |
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
@@ -11427,7 +11427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
 | Hoppe-chan: Tsukutte! Asonde! Puni-puni Town!! | 222339 | [222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json](./222339-hoppe-chan-tsukutte-asonde-puni-puni-town.json) |
-| Hoppenhelm | 95130 | [95130-hoppenhelm.json](./95130-hoppenhelm.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper | 152442 | [152442-hopper.json](./152442-hopper.json) |
@@ -14592,7 +14591,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperFlight | 340497 | [340497-hyperflight.json](./340497-hyperflight.json) |
 | Hyperflora | 415352 | [415352-hyperflora.json](./415352-hyperflora.json) |
 | Hyperforce | 74862 | [74862-hyperforce.json](./74862-hyperforce.json) |
-| Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
 | Hyperfunk | 368929 | [368929-hyperfunk.json](./368929-hyperfunk.json) |
