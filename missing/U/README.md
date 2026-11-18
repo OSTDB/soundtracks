@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uggies Garden | 128472 | [128472-uggies-garden.json](./128472-uggies-garden.json) |
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
 | Ugh! | 81518 | [81518-ugh.json](./81518-ugh.json) |
+| Ugly | 140815 | [140815-ugly.json](./140815-ugly.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator: Thailand DLC | 164521 | [164521-ultimate-fishing-simulator-thailand-dlc.json](./164521-ultimate-fishing-simulator-thailand-dlc.json) |
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
 | Ultimate Fishing Supermarket Simulator 3D | 309637 | [309637-ultimate-fishing-supermarket-simulator-3d.json](./309637-ultimate-fishing-supermarket-simulator-3d.json) |
+| Ultimate Flash Sonic | 140408 | [140408-ultimate-flash-sonic.json](./140408-ultimate-flash-sonic.json) |
 | Ultimate Flickball Arena | 122021 | [122021-ultimate-flickball-arena.json](./122021-ultimate-flickball-arena.json) |
 | Ultimate Flight Pack | 138317 | [138317-ultimate-flight-pack.json](./138317-ultimate-flight-pack.json) |
 | Ultimate Flight Simulator Pro | 233895 | [233895-ultimate-flight-simulator-pro.json](./233895-ultimate-flight-simulator-pro.json) |
@@ -1423,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbaitable | 417442 | [417442-unbaitable.json](./417442-unbaitable.json) |
 | Unbalance | 55786 | [55786-unbalance.json](./55786-unbalance.json) |
 | Unbearable | 202427 | [202427-unbearable.json](./202427-unbearable.json) |
+| Unbeatable | 144859 | [144859-unbeatable.json](./144859-unbeatable.json) |
 | Unbeatable Professional me with 100 Girlfriends | 280655 | [280655-unbeatable-professional-me-with-100-girlfriends.json](./280655-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable Professional Me With 100 Girlfriends! | 282257 | [282257-unbeatable-professional-me-with-100-girlfriends.json](./282257-unbeatable-professional-me-with-100-girlfriends.json) |
 | Unbeatable Wilderness | 111417 | [111417-unbeatable-wilderness.json](./111417-unbeatable-wilderness.json) |
@@ -1926,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
 | Undercover Agent | 84032 | [84032-undercover-agent.json](./84032-undercover-agent.json) |
 | Undercover brother | 164089 | [164089-undercover-brother.json](./164089-undercover-brother.json) |
+| Undercover Cops | 10455 | [10455-undercover-cops.json](./10455-undercover-cops.json) |
 | Undercover Cops Gaiden: Hakaishin Garumaa | 71941 | [71941-undercover-cops-gaiden-hakaishin-garumaa.json](./71941-undercover-cops-gaiden-hakaishin-garumaa.json) |
 | Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
 | Undercover Fools | 333474 | [333474-undercover-fools.json](./333474-undercover-fools.json) |
