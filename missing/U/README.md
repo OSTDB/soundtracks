@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United We Chess | 181635 | [181635-united-we-chess.json](./181635-united-we-chess.json) |
 | United2030 | 405779 | [405779-united2030.json](./405779-united2030.json) |
 | UniteStar | 104375 | [104375-unitestar.json](./104375-unitestar.json) |
+| Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unitrax | 36681 | [36681-unitrax.json](./36681-unitrax.json) |
 | Unitres Dreams | 177154 | [177154-unitres-dreams.json](./177154-unitres-dreams.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Cat | 172276 | [172276-unlock-the-cat.json](./172276-unlock-the-cat.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
+| Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlocked | 148813 | [148813-unlocked.json](./148813-unlocked.json) |
