@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambslide | 415540 | [415540-lambslide.json](./415540-lambslide.json) |
 | LambyLand | 414562 | [414562-lambyland.json](./414562-lambyland.json) |
 | Lame & Cheesy | 104877 | [104877-lame-and-cheesy.json](./104877-lame-and-cheesy.json) |
+| Lame Castle | 92167 | [92167-lame-castle.json](./92167-lame-castle.json) |
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
 | Lament | 29376 | [29376-lament.json](./29376-lament.json) |
@@ -4458,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
 | Let's Sing Country: Platinum Edition | 164676 | [164676-lets-sing-country-platinum-edition.json](./164676-lets-sing-country-platinum-edition.json) |
 | Let's Sing Presents: Abba | 412641 | [412641-lets-sing-presents-abba.json](./412641-lets-sing-presents-abba.json) |
+| Let's Sing: Hits Français 2016 | 79418 | [79418-lets-sing-hits-francais-2016.json](./79418-lets-sing-hits-francais-2016.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Sing! The World of Karaoke | 386314 | [386314-lets-sing-the-world-of-karaoke.json](./386314-lets-sing-the-world-of-karaoke.json) |
 | Let's Split Up (A Visual Novel) | 104156 | [104156-lets-split-up-a-visual-novel.json](./104156-lets-split-up-a-visual-novel.json) |
@@ -10089,6 +10091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
+| Love Shots | 106025 | [106025-love-shots.json](./106025-love-shots.json) |
 | Love Sick Cats | 351348 | [351348-love-sick-cats.json](./351348-love-sick-cats.json) |
 | Love Signal: D-Mate | 202983 | [202983-love-signal-d-mate.json](./202983-love-signal-d-mate.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
