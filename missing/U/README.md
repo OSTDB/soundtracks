@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Death Ball | 194815 | [194815-ultimate-zombie-death-ball.json](./194815-ultimate-zombie-death-ball.json) |
+| Ultimate Zombie Defense | 127723 | [127723-ultimate-zombie-defense.json](./127723-ultimate-zombie-defense.json) |
 | Ultimate Zombie Defense 2 | 211801 | [211801-ultimate-zombie-defense-2.json](./211801-ultimate-zombie-defense-2.json) |
 | UltimateBingoMachine | 98724 | [98724-ultimatebingomachine.json](./98724-ultimatebingomachine.json) |
 | Ultimator | 288549 | [288549-ultimator.json](./288549-ultimator.json) |
@@ -3465,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
 | Up in the Air | 129931 | [129931-up-in-the-air.json](./129931-up-in-the-air.json) |
 | Up Island | 328188 | [328188-up-island.json](./328188-up-island.json) |
+| Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
 | Up or Fall | 343243 | [343243-up-or-fall.json](./343243-up-or-fall.json) |
