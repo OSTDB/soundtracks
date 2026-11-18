@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisenbahn X: Berliner S-Bahn | 172350 | [172350-eisenbahn-x-berliner-s-bahn.json](./172350-eisenbahn-x-berliner-s-bahn.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenhorn: Xenos - Deluxe Edition | 52965 | [52965-eisenhorn-xenos-deluxe-edition.json](./52965-eisenhorn-xenos-deluxe-edition.json) |
+| Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Eishockey Manager | 94488 | [94488-eishockey-manager.json](./94488-eishockey-manager.json) |
 | EIsland Hop | 254073 | [254073-eisland-hop.json](./254073-eisland-hop.json) |
 | Eithéa | 128195 | [128195-eithea.json](./128195-eithea.json) |
@@ -5307,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Super Bowser World | 387506 | [387506-epic-super-bowser-world.json](./387506-epic-super-bowser-world.json) |
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
+| Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Tic Tac Toe | 65063 | [65063-epic-tic-tac-toe.json](./65063-epic-tic-tac-toe.json) |
 | Epic Tower for Tireless Lovers | 189256 | [189256-epic-tower-for-tireless-lovers.json](./189256-epic-tower-for-tireless-lovers.json) |
 | Epic Trains 4 | 260256 | [260256-epic-trains-4.json](./260256-epic-trains-4.json) |
@@ -8199,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game - The Classics Bundle | 227111 | [227111-evil-dead-the-game-the-classics-bundle.json](./227111-evil-dead-the-game-the-classics-bundle.json) |
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Dead: Virtual Nightmare | 106683 | [106683-evil-dead-virtual-nightmare.json](./106683-evil-dead-virtual-nightmare.json) |
+| Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Democracy: 1932 | 131672 | [131672-evil-democracy-1932.json](./131672-evil-democracy-1932.json) |
 | Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
