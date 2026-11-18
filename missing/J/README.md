@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
 | Jawsome | 65100 | [65100-jawsome.json](./65100-jawsome.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
+| Jax vs. the World | 397323 | [397323-jax-vs-the-world.json](./397323-jax-vs-the-world.json) |
 | Jax: History Repeats Itself | 275725 | [275725-jax-history-repeats-itself.json](./275725-jax-history-repeats-itself.json) |
 | Jaxon the Thief | 120823 | [120823-jaxon-the-thief.json](./120823-jaxon-the-thief.json) |
 | Jaxx Blorgin's UFO Jam | 391306 | [391306-jaxx-blorgins-ufo-jam.json](./391306-jaxx-blorgins-ufo-jam.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
 | Jeopardy! | 3396 | [3396-jeopardy.json](./3396-jeopardy.json) |
 | Jeopardy! | 350913 | [350913-jeopardy.json](./350913-jeopardy.json) |
+| Jeopardy! | 414513 | [414513-jeopardy.json](./414513-jeopardy.json) |
 | Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
 | Jeopardy! | 78592 | [78592-jeopardy.json](./78592-jeopardy.json) |
 | Jeopardy! | 94102 | [94102-jeopardy.json](./94102-jeopardy.json) |
@@ -2419,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinks | 12330 | [12330-jinks.json](./12330-jinks.json) |
 | Jinmakyou Kyousei-tan | 128241 | [128241-jinmakyou-kyousei-tan.json](./128241-jinmakyou-kyousei-tan.json) |
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
+| Jinmu: Kamunagara | 416316 | [416316-jinmu-kamunagara.json](./416316-jinmu-kamunagara.json) |
 | Jinn | 280550 | [280550-jinn.json](./280550-jinn.json) |
 | Jinn Hunter | 409908 | [409908-jinn-hunter.json](./409908-jinn-hunter.json) |
 | Jinni 2: The Ritual | 379405 | [379405-jinni-2-the-ritual.json](./379405-jinni-2-the-ritual.json) |
@@ -3517,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu Kaisen: Cursed Clash - The Shibuya Incident | 307753 | [307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json](./307753-jujutsu-kaisen-cursed-clash-the-shibuya-incident.json) |
 | Jujutsu Kaisen: Cursed Clash - Ultimate Edition | 276325 | [276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json](./276325-jujutsu-kaisen-cursed-clash-ultimate-edition.json) |
 | Jujutsu Kaisen: Phantom Parade | 174523 | [174523-jujutsu-kaisen-phantom-parade.json](./174523-jujutsu-kaisen-phantom-parade.json) |
+| Jujutsu RBI | 395311 | [395311-jujutsu-rbi.json](./395311-jujutsu-rbi.json) |
 | Jujutsu: Shibuya Incident | 398741 | [398741-jujutsu-shibuya-incident.json](./398741-jujutsu-shibuya-incident.json) |
 | Jujutsutchi | 230075 | [230075-jujutsutchi.json](./230075-jujutsutchi.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
@@ -3797,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump1000 | 189131 | [189131-jump1000.json](./189131-jump1000.json) |
 | Jump3Match | 184291 | [184291-jump3match.json](./184291-jump3match.json) |
 | Jump4 | 269975 | [269975-jump4.json](./269975-jump4.json) |
+| Jump5 Video Director | 414544 | [414544-jump5-video-director.json](./414544-jump5-video-director.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | Jumpala | 131934 | [131934-jumpala.json](./131934-jumpala.json) |
 | JumpBall | 30986 | [30986-jumpball.json](./30986-jumpball.json) |
@@ -4769,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Waiting Cats | 364863 | [364863-just-waiting-cats.json](./364863-just-waiting-cats.json) |
 | Just Wak and Beats | 233959 | [233959-just-wak-and-beats.json](./233959-just-wak-and-beats.json) |
 | Just Walk | 303603 | [303603-just-walk.json](./303603-just-walk.json) |
+| Just Want to Eat | 415525 | [415525-just-want-to-eat.json](./415525-just-want-to-eat.json) |
 | Just War Trains | 313752 | [313752-just-war-trains.json](./313752-just-war-trains.json) |
 | Just Wing It | 294312 | [294312-just-wing-it.json](./294312-just-wing-it.json) |
 | Just Work | 364788 | [364788-just-work.json](./364788-just-work.json) |
