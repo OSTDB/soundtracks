@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
 | Xenoblade Chronicles: Definitive Edition | 122238 | [122238-xenoblade-chronicles-definitive-edition.json](./122238-xenoblade-chronicles-definitive-edition.json) |
 | Xenoblade Chronicles: Definitive Edition - Collector's Set | 136777 | [136777-xenoblade-chronicles-definitive-edition-collectors-set.json](./136777-xenoblade-chronicles-definitive-edition-collectors-set.json) |
+| Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition | 405446 | [405446-xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition.json](./405446-xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles: Future Connected | 134328 | [134328-xenoblade-chronicles-future-connected.json](./134328-xenoblade-chronicles-future-connected.json) |
 | Xenoblade Genesis | 405450 | [405450-xenoblade-genesis.json](./405450-xenoblade-genesis.json) |
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
