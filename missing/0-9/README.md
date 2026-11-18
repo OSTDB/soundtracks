@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Kanoid | 83131 | [83131-1kanoid.json](./83131-1kanoid.json) |
 | 1Key Minigolf | 93236 | [93236-1key-minigolf.json](./93236-1key-minigolf.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
+| 1Line One-Stroke Puzzle Game | 87044 | [87044-1line-one-stroke-puzzle-game.json](./87044-1line-one-stroke-puzzle-game.json) |
 | 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1Mb Top Down | 176522 | [176522-1mb-top-down.json](./176522-1mb-top-down.json) |
