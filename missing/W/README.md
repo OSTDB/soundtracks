@@ -6606,6 +6606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
 | Winged Sakura: Demon Civil War | 32648 | [32648-winged-sakura-demon-civil-war.json](./32648-winged-sakura-demon-civil-war.json) |
 | Winged Sakura: Endless Dream | 54803 | [54803-winged-sakura-endless-dream.json](./54803-winged-sakura-endless-dream.json) |
+| Winged Sakura: Mindy's Arc | 36172 | [36172-winged-sakura-mindys-arc.json](./36172-winged-sakura-mindys-arc.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winged Warrior | 365219 | [365219-winged-warrior.json](./365219-winged-warrior.json) |
 | Winged Warrior II: The Alien Empire | 365238 | [365238-winged-warrior-ii-the-alien-empire.json](./365238-winged-warrior-ii-the-alien-empire.json) |
@@ -9392,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Of Stalkers | 173331 | [173331-world-of-stalkers.json](./173331-world-of-stalkers.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
+| World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
 | World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
 | World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Subways: Volume 4 - New York Line 7 | 18001 | [18001-world-of-subways-volume-4-new-york-line-7.json](./18001-world-of-subways-volume-4-new-york-line-7.json) |
