@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.H.A.O.S Tournament | 117726 | [117726-c-h-a-o-s-tournament.json](./117726-c-h-a-o-s-tournament.json) |
 | C.H.A.O.S. | 211490 | [211490-c-h-a-o-s.json](./211490-c-h-a-o-s.json) |
 | C.H.A.S.E.D. | 132413 | [132413-c-h-a-s-e-d.json](./132413-c-h-a-s-e-d.json) |
+| C.I.A Adventure | 79397 | [79397-c-i-a-adventure.json](./79397-c-i-a-adventure.json) |
 | C.I.E.B The Backrooms Project | 265402 | [265402-c-i-e-b-the-backrooms-project.json](./265402-c-i-e-b-the-backrooms-project.json) |
 | C.I.T.Y. 2000 | 70022 | [70022-c-i-t-y-2000.json](./70022-c-i-t-y-2000.json) |
 | C.L.A.S.H: Colonial Life Advancing Self-sustained Hemisphere - Chapter 1 | 406245 | [406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json](./406245-c-l-a-s-h-colonial-life-advancing-self-sustained-hemisphere-chapter-1.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Cartastrophe | 236066 | [236066-cartastrophe.json](./236066-cartastrophe.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
+| Carte Blanche: First Episode - For a Fistful of Teeth | 79388 | [79388-carte-blanche-first-episode-for-a-fistful-of-teeth.json](./79388-carte-blanche-first-episode-for-a-fistful-of-teeth.json) |
 | Carte Primus | 172453 | [172453-carte-primus.json](./172453-carte-primus.json) |
 | Carteado | 371974 | [371974-carteado.json](./371974-carteado.json) |
 | Cartefact | 403202 | [403202-cartefact.json](./403202-cartefact.json) |
@@ -4117,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
 | Castle Escape | 187100 | [187100-castle-escape.json](./187100-castle-escape.json) |
 | Castle Evalon | 323931 | [323931-castle-evalon.json](./323931-castle-evalon.json) |
+| Castle Evil | 83068 | [83068-castle-evil.json](./83068-castle-evil.json) |
 | Castle Explorer | 31200 | [31200-castle-explorer.json](./31200-castle-explorer.json) |
 | Castle Explorer | 79838 | [79838-castle-explorer.json](./79838-castle-explorer.json) |
 | Castle Explorer: Heroes and rings | 167906 | [167906-castle-explorer-heroes-and-rings.json](./167906-castle-explorer-heroes-and-rings.json) |
@@ -5818,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveworks | 383522 | [383522-caveworks.json](./383522-caveworks.json) |
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Caviar | 284805 | [284805-caviar.json](./284805-caviar.json) |
+| Caviar: Endless Stress Reliever | 76780 | [76780-caviar-endless-stress-reliever.json](./76780-caviar-endless-stress-reliever.json) |
 | Cavimilation | 239835 | [239835-cavimilation.json](./239835-cavimilation.json) |
 | Cavitas | 12536 | [12536-cavitas.json](./12536-cavitas.json) |
 | Cavity Busters | 118652 | [118652-cavity-busters.json](./118652-cavity-busters.json) |
@@ -8072,12 +8076,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Knight | 386258 | [386258-chibi-knight.json](./386258-chibi-knight.json) |
 | Chibi Knight Classic | 389703 | [389703-chibi-knight-classic.json](./389703-chibi-knight-classic.json) |
 | Chibi Maruko-chan 2: Deluxe Maruko World | 79543 | [79543-chibi-maruko-chan-2-deluxe-maruko-world.json](./79543-chibi-maruko-chan-2-deluxe-maruko-world.json) |
+| Chibi Maruko-Chan 3: Mezase! Game Taishou no Maki | 92187 | [92187-chibi-maruko-chan-3-mezase-game-taishou-no-maki.json](./92187-chibi-maruko-chan-3-mezase-game-taishou-no-maki.json) |
+| Chibi Maruko-chan 4: Kore ga Nippon Da yo! Ouji-sama | 92186 | [92186-chibi-maruko-chan-4-kore-ga-nippon-da-yo-ouji-sama.json](./92186-chibi-maruko-chan-4-kore-ga-nippon-da-yo-ouji-sama.json) |
 | Chibi Maruko-chan Deluxe Quiz | 47574 | [47574-chibi-maruko-chan-deluxe-quiz.json](./47574-chibi-maruko-chan-deluxe-quiz.json) |
+| Chibi Maruko-chan DS: Maru-chan no Machi | 92183 | [92183-chibi-maruko-chan-ds-maru-chan-no-machi.json](./92183-chibi-maruko-chan-ds-maru-chan-no-machi.json) |
 | Chibi Maruko-chan no Okashi de Piihyarara | 218369 | [218369-chibi-maruko-chan-no-okashi-de-piihyarara.json](./218369-chibi-maruko-chan-no-okashi-de-piihyarara.json) |
+| Chibi Maruko-Chan no Taisen Puzzle Dama | 92185 | [92185-chibi-maruko-chan-no-taisen-puzzle-dama.json](./92185-chibi-maruko-chan-no-taisen-puzzle-dama.json) |
+| Chibi Maruko-Chan: Go Chounai Minna de Game Da yo! | 92188 | [92188-chibi-maruko-chan-go-chounai-minna-de-game-da-yo.json](./92188-chibi-maruko-chan-go-chounai-minna-de-game-da-yo.json) |
 | Chibi Maruko-chan: Harikiri 365-nichi no Maki | 38153 | [38153-chibi-maruko-chan-harikiri-365-nichi-no-maki.json](./38153-chibi-maruko-chan-harikiri-365-nichi-no-maki.json) |
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
+| Chibi Maruko-chan: Maruko Deluxe Gekijou | 92182 | [92182-chibi-maruko-chan-maruko-deluxe-gekijou.json](./92182-chibi-maruko-chan-maruko-deluxe-gekijou.json) |
+| Chibi Maruko-Chan: Maruko Enikki World | 92184 | [92184-chibi-maruko-chan-maruko-enikki-world.json](./92184-chibi-maruko-chan-maruko-enikki-world.json) |
 | Chibi Maruko-chan: Mezase! Minami no Island!! | 38152 | [38152-chibi-maruko-chan-mezase-minami-no-island.json](./38152-chibi-maruko-chan-mezase-minami-no-island.json) |
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
+| Chibi Maruko-chan: Quiz de Piihyara | 92181 | [92181-chibi-maruko-chan-quiz-de-piihyara.json](./92181-chibi-maruko-chan-quiz-de-piihyara.json) |
 | Chibi Maruko-chan: Uki Uki Shopping | 48719 | [48719-chibi-maruko-chan-uki-uki-shopping.json](./48719-chibi-maruko-chan-uki-uki-shopping.json) |
 | Chibi Maruko-chan: Waku-waku Shopping | 45644 | [45644-chibi-maruko-chan-waku-waku-shopping.json](./45644-chibi-maruko-chan-waku-waku-shopping.json) |
 | Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
@@ -10856,6 +10868,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Traffic Driver | 187482 | [187482-city-traffic-driver.json](./187482-city-traffic-driver.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
 | City Transport Manager | 428263 | [428263-city-transport-manager.json](./428263-city-transport-manager.json) |
+| City Transport Map Volume 1 | 79404 | [79404-city-transport-map-volume-1.json](./79404-city-transport-map-volume-1.json) |
+| City Transport Map Volume 2 | 79405 | [79405-city-transport-map-volume-2.json](./79405-city-transport-map-volume-2.json) |
 | City Transport Map Volumes 1 & 2 - 2009 | 85032 | [85032-city-transport-map-volumes-1-and-2-2009.json](./85032-city-transport-map-volumes-1-and-2-2009.json) |
 | City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
 | City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
@@ -11064,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
 | Clan of Heroes: Generals of the Yang Family | 45679 | [45679-clan-of-heroes-generals-of-the-yang-family.json](./45679-clan-of-heroes-generals-of-the-yang-family.json) |
 | Clan of Lions | 200321 | [200321-clan-of-lions.json](./200321-clan-of-lions.json) |
+| Clan Race | 106181 | [106181-clan-race.json](./106181-clan-race.json) |
 | Clan Senki | 102872 | [102872-clan-senki.json](./102872-clan-senki.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clan Wars | 212162 | [212162-clan-wars.json](./212162-clan-wars.json) |
@@ -15989,6 +16004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constructopia | 196960 | [196960-constructopia.json](./196960-constructopia.json) |
 | Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
+| Constructor 2 | 76773 | [76773-constructor-2.json](./76773-constructor-2.json) |
 | Constructor Plus | 85546 | [85546-constructor-plus.json](./85546-constructor-plus.json) |
 | Constructor: Building Pack 1 - World Tenant Buildings | 226839 | [226839-constructor-building-pack-1-world-tenant-buildings.json](./226839-constructor-building-pack-1-world-tenant-buildings.json) |
 | Constructor: Building Pack 2 Made in America | 226840 | [226840-constructor-building-pack-2-made-in-america.json](./226840-constructor-building-pack-2-made-in-america.json) |
@@ -18551,6 +18567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
 | Cranium | 92757 | [92757-cranium.json](./92757-cranium.json) |
 | Cranium Conundrum | 31341 | [31341-cranium-conundrum.json](./31341-cranium-conundrum.json) |
+| Cranium Kabookii | 76755 | [76755-cranium-kabookii.json](./76755-cranium-kabookii.json) |
 | Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
@@ -20326,6 +20343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crome: Before Purgatory | 112764 | [112764-crome-before-purgatory.json](./112764-crome-before-purgatory.json) |
 | Cromimi | 133694 | [133694-cromimi.json](./133694-cromimi.json) |
 | Cromwell | 134614 | [134614-cromwell.json](./134614-cromwell.json) |
+| Cron | 92173 | [92173-cron.json](./92173-cron.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Croneworld | 83815 | [83815-croneworld.json](./83815-croneworld.json) |
 | Crongdor the Barbarian | 32703 | [32703-crongdor-the-barbarian.json](./32703-crongdor-the-barbarian.json) |
@@ -21304,6 +21322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptids | 228159 | [228159-cryptids.json](./228159-cryptids.json) |
 | Cryptigma | 339919 | [339919-cryptigma.json](./339919-cryptigma.json) |
 | Cryptis | 250895 | [250895-cryptis.json](./250895-cryptis.json) |
+| Crypto | 76760 | [76760-crypto.json](./76760-crypto.json) |
 | Crypto Ball Z | 235403 | [235403-crypto-ball-z.json](./235403-crypto-ball-z.json) |
 | Crypto by Powgi | 93864 | [93864-crypto-by-powgi.json](./93864-crypto-by-powgi.json) |
 | Crypto Cars World | 166476 | [166476-crypto-cars-world.json](./166476-crypto-cars-world.json) |
