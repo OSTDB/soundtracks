@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Relocation | 126551 | [126551-radical-relocation.json](./126551-radical-relocation.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
+| Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
 | Radical Roach: Infinity | 193641 | [193641-radical-roach-infinity.json](./193641-radical-roach-infinity.json) |
 | Radical Road | 239732 | [239732-radical-road.json](./239732-radical-road.json) |
 | Radical Solitaire | 134208 | [134208-radical-solitaire.json](./134208-radical-solitaire.json) |
@@ -7535,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
 | Reversion - The Return | 115871 | [115871-reversion-the-return.json](./115871-reversion-the-return.json) |
 | Reversion: The Escape -1st Chapter | 16940 | [16940-reversion-the-escape-1st-chapter.json](./16940-reversion-the-escape-1st-chapter.json) |
+| Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | ReversiQuest2 | 127454 | [127454-reversiquest2.json](./127454-reversiquest2.json) |
 | Reversle | 363606 | [363606-reversle.json](./363606-reversle.json) |
@@ -10884,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
 | RocketShip Go Up | 373347 | [373347-rocketship-go-up.json](./373347-rocketship-go-up.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
+| RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | RocketStarz | 143344 | [143344-rocketstarz.json](./143344-rocketstarz.json) |
 | Rockett's Adventure Maker | 64228 | [64228-rocketts-adventure-maker.json](./64228-rocketts-adventure-maker.json) |
 | Rockett's Camp Adventures | 64226 | [64226-rocketts-camp-adventures.json](./64226-rocketts-camp-adventures.json) |
