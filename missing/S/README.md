@@ -12118,7 +12118,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Warrior | 24381 | [24381-silicon-warrior.json](./24381-silicon-warrior.json) |
 | Silicon Wasteland | 290834 | [290834-silicon-wasteland.json](./290834-silicon-wasteland.json) |
 | Silicon Zephyr | 258652 | [258652-silicon-zephyr.json](./258652-silicon-zephyr.json) |
-| Silicon Zeroes | 55390 | [55390-silicon-zeroes.json](./55390-silicon-zeroes.json) |
 | Silicon-Galaxy | 178994 | [178994-silicon-galaxy.json](./178994-silicon-galaxy.json) |
 | Silicone Heart | 358369 | [358369-silicone-heart.json](./358369-silicone-heart.json) |
 | Silicone-2 | 11146 | [11146-silicone-2.json](./11146-silicone-2.json) |
