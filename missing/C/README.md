@@ -3543,6 +3543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Arena | 111374 | [111374-cars-arena.json](./111374-cars-arena.json) |
 | Cars Mater-National Championship | 281853 | [281853-cars-mater-national-championship.json](./281853-cars-mater-national-championship.json) |
+| Cars Mater-National Championship | 281854 | [281854-cars-mater-national-championship.json](./281854-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 281855 | [281855-cars-mater-national-championship.json](./281855-cars-mater-national-championship.json) |
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Puzzles Game | 222052 | [222052-cars-puzzles-game.json](./222052-cars-puzzles-game.json) |
@@ -8278,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
 | Chicken Run | 248769 | [248769-chicken-run.json](./248769-chicken-run.json) |
 | Chicken Run | 6723 | [6723-chicken-run.json](./6723-chicken-run.json) |
+| Chicken Run: Eggstraction | 276332 | [276332-chicken-run-eggstraction.json](./276332-chicken-run-eggstraction.json) |
 | Chicken Run: Special Edition - Escape from the Pot-Pie Machine | 325109 | [325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json](./325109-chicken-run-special-edition-escape-from-the-pot-pie-machine.json) |
 | Chicken Run: Special Edition - Whack-A-Tweedy | 325108 | [325108-chicken-run-special-edition-whack-a-tweedy.json](./325108-chicken-run-special-edition-whack-a-tweedy.json) |
 | Chicken Rune | 176320 | [176320-chicken-rune.json](./176320-chicken-rune.json) |
@@ -11286,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
 | Class of Heroes 2 | 283593 | [283593-class-of-heroes-2.json](./283593-class-of-heroes-2.json) |
 | Class of Heroes 2G | 43009 | [43009-class-of-heroes-2g.json](./43009-class-of-heroes-2g.json) |
+| Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
@@ -11588,6 +11591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Sweep | 18784 | [18784-clean-sweep.json](./18784-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean the Bay | 430036 | [430036-clean-the-bay.json](./430036-clean-the-bay.json) |
+| Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
 | Clean Tides | 422435 | [422435-clean-tides.json](./422435-clean-tides.json) |
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
