@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Pals | 389914 | [389914-dark-pals.json](./389914-dark-pals.json) |
 | Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
+| Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
 | Dark Parables: Goldilocks and Fallen Star | 99107 | [99107-dark-parables-goldilocks-and-fallen-star.json](./99107-dark-parables-goldilocks-and-fallen-star.json) |
 | Dark Parables: Goldilocks and the Fallen Star | 139790 | [139790-dark-parables-goldilocks-and-the-fallen-star.json](./139790-dark-parables-goldilocks-and-the-fallen-star.json) |
@@ -8183,6 +8184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
 | Desert Angels | 348359 | [348359-desert-angels.json](./348359-desert-angels.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
+| Desert Ashes | 36204 | [36204-desert-ashes.json](./36204-desert-ashes.json) |
 | Desert Assault | 38631 | [38631-desert-assault.json](./38631-desert-assault.json) |
 | Desert attack | 163878 | [163878-desert-attack.json](./163878-desert-attack.json) |
 | Desert Blocks | 370397 | [370397-desert-blocks.json](./370397-desert-blocks.json) |
@@ -19969,6 +19971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
 | Dubstep Sound Pack | 343860 | [343860-dubstep-sound-pack.json](./343860-dubstep-sound-pack.json) |
 | Dubu Rush | 195583 | [195583-dubu-rush.json](./195583-dubu-rush.json) |
+| DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
 | Dubz.hu | 416019 | [416019-dubz-hu.json](./416019-dubz-hu.json) |
 | Ducati Challenge | 118892 | [118892-ducati-challenge.json](./118892-ducati-challenge.json) |
 | Ducati Moto | 67746 | [67746-ducati-moto.json](./67746-ducati-moto.json) |
