@@ -6223,6 +6223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
 | Hentai Shojo | 368002 | [368002-hentai-shojo.json](./368002-hentai-shojo.json) |
 | Hentai Shooter 2: World Tour | 292730 | [292730-hentai-shooter-2-world-tour.json](./292730-hentai-shooter-2-world-tour.json) |
+| Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
