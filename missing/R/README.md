@@ -2548,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave Paradise | 335749 | [335749-rave-paradise.json](./335749-rave-paradise.json) |
 | Rave Racer | 39713 | [39713-rave-racer.json](./39713-rave-racer.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
+| Ravel the Frays | 394907 | [394907-ravel-the-frays.json](./394907-ravel-the-frays.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
 | Raven Blade | 84408 | [84408-raven-blade.json](./84408-raven-blade.json) |
