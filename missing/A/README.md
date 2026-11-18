@@ -14924,6 +14924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise | 145319 | [145319-arcade-paradise.json](./145319-arcade-paradise.json) |
 | Arcade Paradise Coin-Op Pack 1 | 231217 | [231217-arcade-paradise-coin-op-pack-1.json](./231217-arcade-paradise-coin-op-pack-1.json) |
+| Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Paradise: Coin-Op Pack 2 | 239404 | [239404-arcade-paradise-coin-op-pack-2.json](./239404-arcade-paradise-coin-op-pack-2.json) |
 | Arcade Paradise: CyberDance EuroMix | 224999 | [224999-arcade-paradise-cyberdance-euromix.json](./224999-arcade-paradise-cyberdance-euromix.json) |
 | Arcade Paradise: Digital Deluxe Edition | 213329 | [213329-arcade-paradise-digital-deluxe-edition.json](./213329-arcade-paradise-digital-deluxe-edition.json) |
@@ -16094,6 +16095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
 | Arkem | 244684 | [244684-arkem.json](./244684-arkem.json) |
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
+| Arken Age | 277628 | [277628-arken-age.json](./277628-arken-age.json) |
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
 | Arkero VR | 228202 | [228202-arkero-vr.json](./228202-arkero-vr.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
