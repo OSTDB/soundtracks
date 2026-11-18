@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms Forlorn | 105067 | [105067-kingdoms-forlorn.json](./105067-kingdoms-forlorn.json) |
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
 | Kingdoms In Chaos | 142649 | [142649-kingdoms-in-chaos.json](./142649-kingdoms-in-chaos.json) |
+| Kingdoms Live | 79400 | [79400-kingdoms-live.json](./79400-kingdoms-live.json) |
 | Kingdoms of Age | 310896 | [310896-kingdoms-of-age.json](./310896-kingdoms-of-age.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector's Edition | 136017 | [136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json](./136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
@@ -6706,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystopia: Nova's Journey | 129364 | [129364-krystopia-novas-journey.json](./129364-krystopia-novas-journey.json) |
 | Kryva Hora | 403419 | [403419-kryva-hora.json](./403419-kryva-hora.json) |
 | Kryxivia | 194842 | [194842-kryxivia.json](./194842-kryxivia.json) |
+| Kryzer | 92189 | [92189-kryzer.json](./92189-kryzer.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzosek W Krainie Czarów | 142759 | [142759-krzosek-w-krainie-czarow.json](./142759-krzosek-w-krainie-czarow.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
