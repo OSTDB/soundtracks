@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
 | Lady of Hwarang | 288166 | [288166-lady-of-hwarang.json](./288166-lady-of-hwarang.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
+| Lady Phantom | 72801 | [72801-lady-phantom.json](./72801-lady-phantom.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
 | Lady Rose Wardrobe | 398639 | [398639-lady-rose-wardrobe.json](./398639-lady-rose-wardrobe.json) |
 | Lady Safari | 69665 | [69665-lady-safari.json](./69665-lady-safari.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Enthusiastic Losers: Ultimate Edition | 231263 | [231263-league-of-enthusiastic-losers-ultimate-edition.json](./231263-league-of-enthusiastic-losers-ultimate-edition.json) |
 | League of Evil | 32856 | [32856-league-of-evil.json](./32856-league-of-evil.json) |
+| League of Evil 2 | 22856 | [22856-league-of-evil-2.json](./22856-league-of-evil-2.json) |
 | League of Evil 3 | 41508 | [41508-league-of-evil-3.json](./41508-league-of-evil-3.json) |
 | League of Felt Tanks | 173038 | [173038-league-of-felt-tanks.json](./173038-league-of-felt-tanks.json) |
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
@@ -2731,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Bread | 387846 | [387846-left-4-bread.json](./387846-left-4-bread.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Alien Trilogy | 309209 | [309209-left-4-dead-2-alien-trilogy.json](./309209-left-4-dead-2-alien-trilogy.json) |
+| Left 4 Dead 2: Cold Stream | 22889 | [22889-left-4-dead-2-cold-stream.json](./22889-left-4-dead-2-cold-stream.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left 4 Dead 2: The Last Stand | 151870 | [151870-left-4-dead-2-the-last-stand.json](./151870-left-4-dead-2-the-last-stand.json) |
 | Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
@@ -2739,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
 | Left 4 Dead: The Last Stand | 151872 | [151872-left-4-dead-the-last-stand.json](./151872-left-4-dead-the-last-stand.json) |
 | Left 4 Dead: The Sacrifice | 22955 | [22955-left-4-dead-the-sacrifice.json](./22955-left-4-dead-the-sacrifice.json) |
+| Left 4 Dead: The Survival Pack | 22888 | [22888-left-4-dead-the-survival-pack.json](./22888-left-4-dead-the-survival-pack.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
 | Left Alive | 68287 | [68287-left-alive.json](./68287-left-alive.json) |
@@ -4524,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Skies Elite Pilot: Team SW | 26746 | [26746-lethal-skies-elite-pilot-team-sw.json](./26746-lethal-skies-elite-pilot-team-sw.json) |
 | Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
+| Lethal Thunder | 46805 | [46805-lethal-thunder.json](./46805-lethal-thunder.json) |
 | Lethal VR | 25743 | [25743-lethal-vr.json](./25743-lethal-vr.json) |
 | Lethal Weapon | 306176 | [306176-lethal-weapon.json](./306176-lethal-weapon.json) |
 | Lethal Weapon | 306179 | [306179-lethal-weapon.json](./306179-lethal-weapon.json) |
@@ -4725,6 +4730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leverage Real Estate Simulator | 424635 | [424635-leverage-real-estate-simulator.json](./424635-leverage-real-estate-simulator.json) |
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
 | Levers | 226536 | [226536-levers.json](./226536-levers.json) |
+| Levers | 46804 | [46804-levers.json](./46804-levers.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi Chronicles | 121911 | [121911-levi-chronicles.json](./121911-levi-chronicles.json) |
@@ -5305,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
 | Lifespawn | 169534 | [169534-lifespawn.json](./169534-lifespawn.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
+| Lifestyle Manager | 64007 | [64007-lifestyle-manager.json](./64007-lifestyle-manager.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifetime | 236400 | [236400-lifetime.json](./236400-lifetime.json) |
 | Lifeway | 211768 | [211768-lifeway.json](./211768-lifeway.json) |
@@ -5638,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
+| Lights Out | 72821 | [72821-lights-out.json](./72821-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
 | Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
 | Lights Out, Run | 394678 | [394678-lights-out-run.json](./394678-lights-out-run.json) |
@@ -5676,6 +5684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
 | Lightway Lines | 151442 | [151442-lightway-lines.json](./151442-lightway-lines.json) |
 | LightWeight Ninja | 73531 | [73531-lightweight-ninja.json](./73531-lightweight-ninja.json) |
+| Lightwire | 55386 | [55386-lightwire.json](./55386-lightwire.json) |
 | Lightwood | 236962 | [236962-lightwood.json](./236962-lightwood.json) |
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
@@ -6353,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
 | Links: Championship Course - Barton Creek | 71952 | [71952-links-championship-course-barton-creek.json](./71952-links-championship-course-barton-creek.json) |
 | Links: Championship Course - Bay Hill Club & Lodge | 73401 | [73401-links-championship-course-bay-hill-club-and-lodge.json](./73401-links-championship-course-bay-hill-club-and-lodge.json) |
+| Links: Championship Course - Bighorn | 70503 | [70503-links-championship-course-bighorn.json](./70503-links-championship-course-bighorn.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Castlepines | 93225 | [93225-links-championship-course-castlepines.json](./93225-links-championship-course-castlepines.json) |
 | Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
@@ -6745,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Favors | 180348 | [180348-little-favors.json](./180348-little-favors.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
 | Little fight | 84477 | [84477-little-fight.json](./84477-little-fight.json) |
+| Little Fighter | 72853 | [72853-little-fighter.json](./72853-little-fighter.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter 2 Remastered | 319474 | [319474-little-fighter-2-remastered.json](./319474-little-fighter-2-remastered.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
@@ -7811,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
 | Lode Runner for WonderSwan | 37575 | [37575-lode-runner-for-wonderswan.json](./37575-lode-runner-for-wonderswan.json) |
+| Lode Runner II | 46806 | [46806-lode-runner-ii.json](./46806-lode-runner-ii.json) |
 | Lode Runner III - The Golden Labyrinth | 40082 | [40082-lode-runner-iii-the-golden-labyrinth.json](./40082-lode-runner-iii-the-golden-labyrinth.json) |
 | Lode Runner Legacy | 37008 | [37008-lode-runner-legacy.json](./37008-lode-runner-legacy.json) |
 | Lode Runner On-Line: The Mad Monks' Revenge | 72299 | [72299-lode-runner-on-line-the-mad-monks-revenge.json](./72299-lode-runner-on-line-the-mad-monks-revenge.json) |
@@ -8287,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Journey of Life | 139299 | [139299-long-journey-of-life.json](./139299-long-journey-of-life.json) |
 | Long Jump | 247049 | [247049-long-jump.json](./247049-long-jump.json) |
 | Long Legged Larry | 247445 | [247445-long-legged-larry.json](./247445-long-legged-larry.json) |
+| Long Life | 41023 | [41023-long-life.json](./41023-long-life.json) |
 | Long Live Caesar | 166717 | [166717-long-live-caesar.json](./166717-long-live-caesar.json) |
 | Long Live My Lady! | 354002 | [354002-long-live-my-lady.json](./354002-long-live-my-lady.json) |
 | Long Live Santa! | 76787 | [76787-long-live-santa.json](./76787-long-live-santa.json) |
@@ -9376,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Islands: Legend Pack | 326265 | [326265-lost-islands-legend-pack.json](./326265-lost-islands-legend-pack.json) |
 | Lost Islands: Pioneer Pack | 326266 | [326266-lost-islands-pioneer-pack.json](./326266-lost-islands-pioneer-pack.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
+| Lost Items | 55368 | [55368-lost-items.json](./55368-lost-items.json) |
 | Lost Journey | 39250 | [39250-lost-journey.json](./39250-lost-journey.json) |
 | Lost Journey (Dreamsky) | 101986 | [101986-lost-journey-dreamsky.json](./101986-lost-journey-dreamsky.json) |
 | Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
