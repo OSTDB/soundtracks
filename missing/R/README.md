@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Johnson's Chronicles | 21148 | [21148-red-johnsons-chronicles.json](./21148-red-johnsons-chronicles.json) |
 | Red Johnson's Chronicles 1+2 | 186974 | [186974-red-johnsons-chronicles-1-2.json](./186974-red-johnsons-chronicles-1-2.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
+| Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
 | Red Kiss | 405117 | [405117-red-kiss.json](./405117-red-kiss.json) |
 | Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
@@ -4748,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedCat: De Woeste Woordenbrij | 201300 | [201300-redcat-de-woeste-woordenbrij.json](./201300-redcat-de-woeste-woordenbrij.json) |
 | RedCat: Het Levende Kleurboek | 212751 | [212751-redcat-het-levende-kleurboek.json](./212751-redcat-het-levende-kleurboek.json) |
 | RedCat: Het Machtige Monumenten Mysterie | 212752 | [212752-redcat-het-machtige-monumenten-mysterie.json](./212752-redcat-het-machtige-monumenten-mysterie.json) |
+| Redcon | 25098 | [25098-redcon.json](./25098-redcon.json) |
 | Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redd's Runaway | 149321 | [149321-redds-runaway.json](./149321-redds-runaway.json) |
