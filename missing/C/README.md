@@ -10178,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
 | Cinematic Mod | 308290 | [308290-cinematic-mod.json](./308290-cinematic-mod.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
+| Cinemaware Anthology: 1986-1991 | 36211 | [36211-cinemaware-anthology-1986-1991.json](./36211-cinemaware-anthology-1986-1991.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
 | Cinemoji | 164959 | [164959-cinemoji.json](./164959-cinemoji.json) |
@@ -14454,6 +14455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coma State Eden | 176524 | [176524-coma-state-eden.json](./176524-coma-state-eden.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
+| Coma: Mortuary | 36321 | [36321-coma-mortuary.json](./36321-coma-mortuary.json) |
 | Coma:Mortuary | 17232 | [17232-coma-mortuary.json](./17232-coma-mortuary.json) |
 | Comanche | 121758 | [121758-comanche.json](./121758-comanche.json) |
 | Comanche | 206989 | [206989-comanche.json](./206989-comanche.json) |
