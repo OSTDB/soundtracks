@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Dungeons | 270908 | [270908-sd-dungeons.json](./270908-sd-dungeons.json) |
 | SD F-1 Grand Prix | 38328 | [38328-sd-f-1-grand-prix.json](./38328-sd-f-1-grand-prix.json) |
 | SD Fighters | 39564 | [39564-sd-fighters.json](./39564-sd-fighters.json) |
+| SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
 | SD Gundam Battle Alliance: Deluxe Edition | 212627 | [212627-sd-gundam-battle-alliance-deluxe-edition.json](./212627-sd-gundam-battle-alliance-deluxe-edition.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
 | SD Gundam Battle Alliance: Ultimate Edition | 218498 | [218498-sd-gundam-battle-alliance-ultimate-edition.json](./218498-sd-gundam-battle-alliance-ultimate-edition.json) |
@@ -7990,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate 64: Trials of the Four Towers | 3600 | [3600-shadowgate-64-trials-of-the-four-towers.json](./3600-shadowgate-64-trials-of-the-four-towers.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate PD | 272467 | [272467-shadowgate-pd.json](./272467-shadowgate-pd.json) |
+| Shadowgate VR: The Mines of Mythrok | 186959 | [186959-shadowgate-vr-the-mines-of-mythrok.json](./186959-shadowgate-vr-the-mines-of-mythrok.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
 | Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
 | Shadowgrounds | 9019 | [9019-shadowgrounds.json](./9019-shadowgrounds.json) |
@@ -10720,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shorebound | 324230 | [324230-shorebound.json](./324230-shorebound.json) |
 | Shorekeeper | 385694 | [385694-shorekeeper.json](./385694-shorekeeper.json) |
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
+| Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | Shores of Plunder | 156740 | [156740-shores-of-plunder.json](./156740-shores-of-plunder.json) |
 | Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
 | Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
@@ -17771,6 +17774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Resort Simulator | 326346 | [326346-snow-resort-simulator.json](./326346-snow-resort-simulator.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
 | Snow Rider 3D | 353507 | [353507-snow-rider-3d.json](./353507-snow-rider-3d.json) |
+| Snow Scout | 189331 | [189331-snow-scout.json](./189331-snow-scout.json) |
 | Snow Shovelers | 254738 | [254738-snow-shovelers.json](./254738-snow-shovelers.json) |
 | Snow Steam Trail | 372132 | [372132-snow-steam-trail.json](./372132-snow-steam-trail.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
