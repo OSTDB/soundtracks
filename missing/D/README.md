@@ -1508,7 +1508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Darkness Rising | 70754 | [70754-dark-age-of-camelot-darkness-rising.json](./70754-dark-age-of-camelot-darkness-rising.json) |
-| Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Ages | 11726 | [11726-dark-ages.json](./11726-dark-ages.json) |
 | Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
@@ -8891,7 +8890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
 | Detective Conan: Saikou no Aibou | 64547 | [64547-detective-conan-saikou-no-aibou.json](./64547-detective-conan-saikou-no-aibou.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
-| Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
 | Detective Conan: Yuugure no Ouju | 37362 | [37362-detective-conan-yuugure-no-ouju.json](./37362-detective-conan-yuugure-no-ouju.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
@@ -9044,7 +9042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deteriorate.1 | 405271 | [405271-deteriorate-1.json](./405271-deteriorate-1.json) |
 | Determina | 189796 | [189796-determina.json](./189796-determina.json) |
 | Determinable Unstable | 132999 | [132999-determinable-unstable.json](./132999-determinable-unstable.json) |
-| Determinance | 21416 | [21416-determinance.json](./21416-determinance.json) |
 | Determinant | 169826 | [169826-determinant.json](./169826-determinant.json) |
 | Deterministic Dungeon | 101817 | [101817-deterministic-dungeon.json](./101817-deterministic-dungeon.json) |
 | Deterrence | 224334 | [224334-deterrence.json](./224334-deterrence.json) |
@@ -11441,7 +11438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Cop | 323807 | [323807-dirty-cop.json](./323807-dirty-cop.json) |
 | Dirty Cop Simulator | 149910 | [149910-dirty-cop-simulator.json](./149910-dirty-cop-simulator.json) |
 | Dirty Crown Scandal | 303302 | [303302-dirty-crown-scandal.json](./303302-dirty-crown-scandal.json) |
-| Dirty Dancing | 21491 | [21491-dirty-dancing.json](./21491-dirty-dancing.json) |
 | Dirty Dirty Pirates | 236790 | [236790-dirty-dirty-pirates.json](./236790-dirty-dirty-pirates.json) |
 | Dirty Drivin' | 124298 | [124298-dirty-drivin.json](./124298-dirty-drivin.json) |
 | Dirty Education | 385815 | [385815-dirty-education.json](./385815-dirty-education.json) |
@@ -13223,6 +13219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
 | Doctor Who: The Mazes of Time | 85771 | [85771-doctor-who-the-mazes-of-time.json](./85771-doctor-who-the-mazes-of-time.json) |
+| Doctor Who: The Runaway | 123092 | [123092-doctor-who-the-runaway.json](./123092-doctor-who-the-runaway.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Doctor Who: Time Vortex | 276917 | [276917-doctor-who-time-vortex.json](./276917-doctor-who-time-vortex.json) |
 | Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
@@ -13775,7 +13772,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki-doki Densetsu: Mahoujin Guru-guru | 196217 | [196217-doki-doki-densetsu-mahoujin-guru-guru.json](./196217-doki-doki-densetsu-mahoujin-guru-guru.json) |
 | Doki-doki Idol Star Seeker Remix | 200796 | [200796-doki-doki-idol-star-seeker-remix.json](./200796-doki-doki-idol-star-seeker-remix.json) |
 | Doki-doki Literature Club! GB Version | 279818 | [279818-doki-doki-literature-club-gb-version.json](./279818-doki-doki-literature-club-gb-version.json) |
-| Doki-doki Majo Shinpan 2 Duo | 21456 | [21456-doki-doki-majo-shinpan-2-duo.json](./21456-doki-doki-majo-shinpan-2-duo.json) |
 | Doki-doki on Air | 166576 | [166576-doki-doki-on-air.json](./166576-doki-doki-on-air.json) |
 | Doki-doki on Air 2 | 166577 | [166577-doki-doki-on-air-2.json](./166577-doki-doki-on-air-2.json) |
 | Doki-doki Penguin Land | 6096 | [6096-doki-doki-penguin-land.json](./6096-doki-doki-penguin-land.json) |
@@ -14918,7 +14914,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
 | Doodle Harmony Ghosts | 285627 | [285627-doodle-harmony-ghosts.json](./285627-doodle-harmony-ghosts.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
-| Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
 | Doodle Hunt: Search Hidden Items | 306837 | [306837-doodle-hunt-search-hidden-items.json](./306837-doodle-hunt-search-hidden-items.json) |
 | Doodle Jamboree | 54451 | [54451-doodle-jamboree.json](./54451-doodle-jamboree.json) |
@@ -18604,7 +18599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlive | 131668 | [131668-dreamlive.json](./131668-dreamlive.json) |
 | Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
 | Dreamlords: Resurrection | 202154 | [202154-dreamlords-resurrection.json](./202154-dreamlords-resurrection.json) |
-| Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
@@ -19476,7 +19470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop'd | 97060 | [97060-dropd.json](./97060-dropd.json) |
 | Drop7 | 29044 | [29044-drop7.json](./29044-drop7.json) |
 | Dropboy | 178492 | [178492-dropboy.json](./178492-dropboy.json) |
-| DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Dropchord | 22169 | [22169-dropchord.json](./22169-dropchord.json) |
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | DropCore | 58329 | [58329-dropcore.json](./58329-dropcore.json) |
