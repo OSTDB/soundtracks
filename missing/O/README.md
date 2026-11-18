@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddwings Escape | 345263 | [345263-oddwings-escape.json](./345263-oddwings-escape.json) |
 | Oddworld Adventures | 49015 | [49015-oddworld-adventures.json](./49015-oddworld-adventures.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
+| Oddworld Anthology: The Unlikely Heroes Collection | 397308 | [397308-oddworld-anthology-the-unlikely-heroes-collection.json](./397308-oddworld-anthology-the-unlikely-heroes-collection.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld Soulstorm: Limited Oddition | 210461 | [210461-oddworld-soulstorm-limited-oddition.json](./210461-oddworld-soulstorm-limited-oddition.json) |
 | Oddworld: Abe Boxx | 118466 | [118466-oddworld-abe-boxx.json](./118466-oddworld-abe-boxx.json) |
@@ -4605,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore Excavation | 233697 | [233697-ore-excavation.json](./233697-ore-excavation.json) |
+| Ore Factory Squad | 395307 | [395307-ore-factory-squad.json](./395307-ore-factory-squad.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
