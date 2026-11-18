@@ -608,7 +608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
 | Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
-| Napoleon's Campaigns | 21362 | [21362-napoleons-campaigns.json](./21362-napoleons-campaigns.json) |
 | Napoleon's Campaigns II | 65045 | [65045-napoleons-campaigns-ii.json](./65045-napoleons-campaigns-ii.json) |
 | Napoleon's Campaigns: 1813 & 1815 | 23989 | [23989-napoleons-campaigns-1813-and-1815.json](./23989-napoleons-campaigns-1813-and-1815.json) |
 | Napoleon's Russian Campaign | 144838 | [144838-napoleons-russian-campaign.json](./144838-napoleons-russian-campaign.json) |
@@ -819,7 +818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ninja Masters | 80120 | [80120-naruto-ninja-masters.json](./80120-naruto-ninja-masters.json) |
 | Naruto: Path of the Ninja | 21372 | [21372-naruto-path-of-the-ninja.json](./21372-naruto-path-of-the-ninja.json) |
 | Naruto: Path of the Ninja | 246846 | [246846-naruto-path-of-the-ninja.json](./246846-naruto-path-of-the-ninja.json) |
-| Naruto: Path of the Ninja 2 | 21375 | [21375-naruto-path-of-the-ninja-2.json](./21375-naruto-path-of-the-ninja-2.json) |
 | Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
 | Naruto: Rise of a Ninja | 7101 | [7101-naruto-rise-of-a-ninja.json](./7101-naruto-rise-of-a-ninja.json) |
 | Naruto: Shinobi Collection Shippuranbu | 139193 | [139193-naruto-shinobi-collection-shippuranbu.json](./139193-naruto-shinobi-collection-shippuranbu.json) |
@@ -6949,7 +6947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Reppuden | 60093 | [60093-nobunagas-ambition-reppuden.json](./60093-nobunagas-ambition-reppuden.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Reppuuden - Power Up Kit | 308206 | [308206-nobunagas-ambition-reppuuden-power-up-kit.json](./308206-nobunagas-ambition-reppuuden-power-up-kit.json) |
-| Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
 | NOBUNAGA'S AMBITION: Sengoku Gunyuuden | 90573 | [90573-nobunagas-ambition-sengoku-gunyuuden.json](./90573-nobunagas-ambition-sengoku-gunyuuden.json) |
 | Nobunaga's Ambition: Shouseiroku | 269520 | [269520-nobunagas-ambition-shouseiroku.json](./269520-nobunagas-ambition-shouseiroku.json) |
 | Nobunaga's Ambition: Shouseiroku with Power Up Kit | 91187 | [91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json](./91187-nobunagas-ambition-shouseiroku-with-power-up-kit.json) |
