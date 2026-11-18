@@ -2111,7 +2111,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Season | 123547 | [123547-zombie-season.json](./123547-zombie-season.json) |
 | Zombie Serial Killer Incident | 99594 | [99594-zombie-serial-killer-incident.json](./99594-zombie-serial-killer-incident.json) |
 | Zombie Ship | 368171 | [368171-zombie-ship.json](./368171-zombie-ship.json) |
+| Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooter - Dead City | 200325 | [200325-zombie-shooter-dead-city.json](./200325-zombie-shooter-dead-city.json) |
+| Zombie Shooter 2 | 16018 | [16018-zombie-shooter-2.json](./16018-zombie-shooter-2.json) |
 | Zombie Shooter TPS | 330491 | [330491-zombie-shooter-tps.json](./330491-zombie-shooter-tps.json) |
 | Zombie Shooter: Ares Virus | 151336 | [151336-zombie-shooter-ares-virus.json](./151336-zombie-shooter-ares-virus.json) |
 | Zombie Shooter: Fury of War | 95884 | [95884-zombie-shooter-fury-of-war.json](./95884-zombie-shooter-fury-of-war.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Time | 369685 | [369685-zoo-time.json](./369685-zoo-time.json) |
 | Zoo Train: Tracks 'n' Trains | 104295 | [104295-zoo-train-tracks-n-trains.json](./104295-zoo-train-tracks-n-trains.json) |
 | Zoo Transport | 270597 | [270597-zoo-transport.json](./270597-zoo-transport.json) |
+| Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon | 334 | [334-zoo-tycoon.json](./334-zoo-tycoon.json) |
 | Zoo Tycoon 2 DS | 20773 | [20773-zoo-tycoon-2-ds.json](./20773-zoo-tycoon-2-ds.json) |
 | Zoo Tycoon 2: African Adventure | 70116 | [70116-zoo-tycoon-2-african-adventure.json](./70116-zoo-tycoon-2-african-adventure.json) |
@@ -2961,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyndeck VX: Card Battler | 402400 | [402400-zyndeck-vx-card-battler.json](./402400-zyndeck-vx-card-battler.json) |
 | Zynet | 161447 | [161447-zynet.json](./161447-zynet.json) |
 | Zynga Poker | 241723 | [241723-zynga-poker.json](./241723-zynga-poker.json) |
+| Zyphoid | 115085 | [115085-zyphoid.json](./115085-zyphoid.json) |
 | Zyr | 131994 | [131994-zyr.json](./131994-zyr.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zyrons Escape | 354586 | [354586-zyrons-escape.json](./354586-zyrons-escape.json) |
