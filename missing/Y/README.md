@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Virus | 405829 | [405829-yandere-virus.json](./405829-yandere-virus.json) |
 | Yandere-Chan | 125998 | [125998-yandere-chan.json](./125998-yandere-chan.json) |
 | Yandere: Love & Madness | 338643 | [338643-yandere-love-and-madness.json](./338643-yandere-love-and-madness.json) |
+| Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
 | Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
 | Yanderetale | 145771 | [145771-yanderetale.json](./145771-yanderetale.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, And So Our Hollow Hearts Called For Love | 352835 | [352835-yes-and-so-our-hollow-hearts-called-for-love.json](./352835-yes-and-so-our-hollow-hearts-called-for-love.json) |
 | Yes, Drill Sergeant! | 22083 | [22083-yes-drill-sergeant.json](./22083-yes-drill-sergeant.json) |
 | Yes, Mama | 181609 | [181609-yes-mama.json](./181609-yes-mama.json) |
+| Yes, Master! | 118984 | [118984-yes-master.json](./118984-yes-master.json) |
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
 | Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
@@ -1722,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life - Music Channel | 87467 | [87467-youtubers-life-music-channel.json](./87467-youtubers-life-music-channel.json) |
 | Youtubers Life 3 | 344644 | [344644-youtubers-life-3.json](./344644-youtubers-life-3.json) |
 | Youtubers Life: Fashion | 212413 | [212413-youtubers-life-fashion.json](./212413-youtubers-life-fashion.json) |
+| Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
 | Yóuxì Rénshēng: Xīnmó | 154332 | [154332-youxi-rensheng-xinmo.json](./154332-youxi-rensheng-xinmo.json) |
 | Youxing Continent | 326292 | [326292-youxing-continent.json](./326292-youxing-continent.json) |
 | Youyou Kengeki Musou | 137062 | [137062-youyou-kengeki-musou.json](./137062-youyou-kengeki-musou.json) |
