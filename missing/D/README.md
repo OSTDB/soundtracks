@@ -4444,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rivals | 100892 | [100892-dead-rivals.json](./100892-dead-rivals.json) |
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
+| Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
 | Dead Run | 136728 | [136728-dead-run.json](./136728-dead-run.json) |
 | Dead Rush | 327277 | [327277-dead-rush.json](./327277-dead-rush.json) |
 | Dead Rush | 67806 | [67806-dead-rush.json](./67806-dead-rush.json) |
@@ -10339,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
 | Dig Out: Prison Escape Simulator | 395639 | [395639-dig-out-prison-escape-simulator.json](./395639-dig-out-prison-escape-simulator.json) |
+| Dig Out! | 87330 | [87330-dig-out.json](./87330-dig-out.json) |
 | Dig Raiders: Anomaly Extraction | 406661 | [406661-dig-raiders-anomaly-extraction.json](./406661-dig-raiders-anomaly-extraction.json) |
 | Dig That Gold | 41523 | [41523-dig-that-gold.json](./41523-dig-that-gold.json) |
 | Dig the Ground | 164226 | [164226-dig-the-ground.json](./164226-dig-the-ground.json) |
@@ -16371,6 +16373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda Restaurant 3 | 95819 | [95819-dr-panda-restaurant-3.json](./95819-dr-panda-restaurant-3.json) |
 | Dr. Panda School | 181978 | [181978-dr-panda-school.json](./181978-dr-panda-school.json) |
+| Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Panic | 202125 | [202125-dr-panic.json](./202125-dr-panic.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
 | Dr. Parking 4 | 345600 | [345600-dr-parking-4.json](./345600-dr-parking-4.json) |
@@ -17936,6 +17939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Shooter | 356520 | [356520-draw-shooter.json](./356520-draw-shooter.json) |
 | Draw Slasher | 34033 | [34033-draw-slasher.json](./34033-draw-slasher.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
+| Draw Something Classic | 86978 | [86978-draw-something-classic.json](./86978-draw-something-classic.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
 | Draw Steel | 396612 | [396612-draw-steel.json](./396612-draw-steel.json) |
 | Draw Story 2 | 392562 | [392562-draw-story-2.json](./392562-draw-story-2.json) |
@@ -20060,6 +20064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Punt | 94339 | [94339-duck-punt.json](./94339-duck-punt.json) |
 | Duck Race | 142875 | [142875-duck-race.json](./142875-duck-race.json) |
 | Duck Run | 309375 | [309375-duck-run.json](./309375-duck-run.json) |
+| Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Season PC | 119449 | [119449-duck-season-pc.json](./119449-duck-season-pc.json) |
 | Duck Shoot | 330928 | [330928-duck-shoot.json](./330928-duck-shoot.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
@@ -21516,6 +21521,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk City Dynasty | 250569 | [250569-dunk-city-dynasty.json](./250569-dunk-city-dynasty.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
 | Dunk Dunk | 251983 | [251983-dunk-dunk.json](./251983-dunk-dunk.json) |
+| Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
+| Dunk Hoop | 86980 | [86980-dunk-hoop.json](./86980-dunk-hoop.json) |
 | Dunk Hot | 91144 | [91144-dunk-hot.json](./91144-dunk-hot.json) |
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Kids | 46319 | [46319-dunk-kids.json](./46319-dunk-kids.json) |
