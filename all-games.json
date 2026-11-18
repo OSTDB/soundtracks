@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T05:20:55.424Z",
-  "total_soundtracks": 3839,
+  "generated_at": "2026-11-18T05:56:29.680Z",
+  "total_soundtracks": 3844,
   "games": [
     {
       "igdb_id": 292844,
@@ -2535,6 +2535,20 @@
       ]
     },
     {
+      "igdb_id": 22674,
+      "game_name": "Arma 3: Marksmen",
+      "game_url": "https://ostdb.net/games/arma-3-marksmen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f04013ef787f7de9a7314839",
+      "albums": [
+        {
+          "album_name": "Arma 3: Marksmen (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0K1hLWCHHG4TY9CFmF3m7X",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 219057,
       "game_name": "Army of Ruin",
       "game_url": "https://ostdb.net/games/army-of-ruin",
@@ -3585,6 +3599,20 @@
         {
           "album_name": "Backfirewall (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0QJcQdc8GPPjdgPwDbQ2md",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22627,
+      "game_name": "Bad Day on the Midway",
+      "game_url": "https://ostdb.net/games/bad-day-on-the-midway",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27303a653451e5253250cde2d82",
+      "albums": [
+        {
+          "album_name": "Bad Day On The Midway (Music From The Game Reconsidered)",
+          "spotify_url": "https://open.spotify.com/album/0Oeynboep5POZ3IhtnIWND",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7437,6 +7465,20 @@
         {
           "album_name": "Chivalware (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4959XteIVdRXEKhvFT1DfM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22894,
+      "game_name": "Chocobo's Dungeon 2",
+      "game_url": "https://ostdb.net/games/chocobos-dungeon-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332dd3bbab44de84b52fddbf3",
+      "albums": [
+        {
+          "album_name": "Chocobo's Dungeon 2(Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4UH6RNedh8HuSmhX2PlTPB",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21117,6 +21159,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4",
           "album_link_url": "https://album.link/i/1830248552"
+        }
+      ]
+    },
+    {
+      "igdb_id": 22947,
+      "game_name": "Islands of Wakfu",
+      "game_url": "https://ostdb.net/games/islands-of-wakfu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b5dd2fe8f975ebca36a61c86",
+      "albums": [
+        {
+          "album_name": "Islands of Wakfu (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/24uoI7FwiPebbv6VMUMvJW",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -39015,6 +39071,20 @@
         {
           "album_name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7EH82EpKL8X6ZrvMSJJQyV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22893,
+      "game_name": "Stratego",
+      "game_url": "https://ostdb.net/games/stratego",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2",
+      "albums": [
+        {
+          "album_name": "Stratego (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6WoMsOobP0tqkzWegbxwEd",
           "apple_music_url": "",
           "album_link_url": ""
         }
