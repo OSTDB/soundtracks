@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale: Call of the Void - Placek's Take | 329609 | [329609-undertale-call-of-the-void-placeks-take.json](./329609-undertale-call-of-the-void-placeks-take.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
 | Undertale: Collector's Edition | 136341 | [136341-undertale-collectors-edition.json](./136341-undertale-collectors-edition.json) |
+| Undertale: Cooking with Kindness | 415425 | [415425-undertale-cooking-with-kindness.json](./415425-undertale-cooking-with-kindness.json) |
 | Undertale: Disbelief | 136869 | [136869-undertale-disbelief.json](./136869-undertale-disbelief.json) |
 | UnderTale: DoctorTale | 330046 | [330046-undertale-doctortale.json](./330046-undertale-doctortale.json) |
 | Undertale: Gameboy Edition | 351529 | [351529-undertale-gameboy-edition.json](./351529-undertale-gameboy-edition.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhinged | 375056 | [375056-unhinged.json](./375056-unhinged.json) |
 | Unhinged | 380740 | [380740-unhinged.json](./380740-unhinged.json) |
 | Unhinged | 408623 | [408623-unhinged.json](./408623-unhinged.json) |
+| Unhinged | 415526 | [415526-unhinged.json](./415526-unhinged.json) |
 | Unhinged | 93858 | [93858-unhinged.json](./93858-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
 | Unhinged Pet Store Simulator | 349457 | [349457-unhinged-pet-store-simulator.json](./349457-unhinged-pet-store-simulator.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Union Drive | 191432 | [191432-union-drive.json](./191432-union-drive.json) |
 | Union Max | 403351 | [403351-union-max.json](./403351-union-max.json) |
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
+| Union of Gnomes: Deluxe Edition | 401944 | [401944-union-of-gnomes-deluxe-edition.json](./401944-union-of-gnomes-deluxe-edition.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | Union of Rivals | 414845 | [414845-union-of-rivals.json](./414845-union-of-rivals.json) |
 | Unionatic | 166904 | [166904-unionatic.json](./166904-unionatic.json) |
@@ -3487,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
 | Up Yours | 93093 | [93093-up-yours.json](./93093-up-yours.json) |
+| Up-Beat!! | 414561 | [414561-up-beat.json](./414561-up-beat.json) |
 | Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
 | Up'n Down | 40091 | [40091-upn-down.json](./40091-upn-down.json) |
 | Upaon: A Snake's Journey | 153754 | [153754-upaon-a-snakes-journey.json](./153754-upaon-a-snakes-journey.json) |
@@ -3970,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UT Realms Reborn | 122992 | [122992-ut-realms-reborn.json](./122992-ut-realms-reborn.json) |
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
+| Uta Macross | 416176 | [416176-uta-macross.json](./416176-uta-macross.json) |
 | Uta Macross Sma-Pho De-Culture | 78969 | [78969-uta-macross-sma-pho-de-culture.json](./78969-uta-macross-sma-pho-de-culture.json) |
 | Uta no Prince-sama | 63412 | [63412-uta-no-prince-sama.json](./63412-uta-no-prince-sama.json) |
 | Uta no Prince-sama: All Star | 56321 | [56321-uta-no-prince-sama-all-star.json](./56321-uta-no-prince-sama-all-star.json) |
