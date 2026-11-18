@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
 | Zafehouse | 125022 | [125022-zafehouse.json](./125022-zafehouse.json) |
 | Zafehouse Diaries 2 | 37414 | [37414-zafehouse-diaries-2.json](./37414-zafehouse-diaries-2.json) |
+| Zafehouse: Diaries | 16649 | [16649-zafehouse-diaries.json](./16649-zafehouse-diaries.json) |
 | Zag | 301967 | [301967-zag.json](./301967-zag.json) |
 | Zaga | 80773 | [80773-zaga.json](./80773-zaga.json) |
 | Zaga Mission | 36654 | [36654-zaga-mission.json](./36654-zaga-mission.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Roadkill 3D | 260869 | [260869-zombie-roadkill-3d.json](./260869-zombie-roadkill-3d.json) |
 | Zombie Rogue | 100360 | [100360-zombie-rogue.json](./100360-zombie-rogue.json) |
 | Zombie Roguelite | 291209 | [291209-zombie-roguelite.json](./291209-zombie-roguelite.json) |
+| Zombie Rollerz: Pinball Heroes | 187855 | [187855-zombie-rollerz-pinball-heroes.json](./187855-zombie-rollerz-pinball-heroes.json) |
 | Zombie Rollerz: The Last Ship | 264066 | [264066-zombie-rollerz-the-last-ship.json](./264066-zombie-rollerz-the-last-ship.json) |
 | Zombie Rooms | 273384 | [273384-zombie-rooms.json](./273384-zombie-rooms.json) |
 | Zombie Royale | 292342 | [292342-zombie-royale.json](./292342-zombie-royale.json) |
