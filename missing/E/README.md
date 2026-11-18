@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Grey | 217581 | [217581-earl-grey.json](./217581-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl the Tomb Robber | 301451 | [301451-earl-the-tomb-robber.json](./301451-earl-the-tomb-robber.json) |
+| Earl the Tomb Robber | 380304 | [380304-earl-the-tomb-robber.json](./380304-earl-the-tomb-robber.json) |
 | Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
 | Earl Weaver Baseball | 21554 | [21554-earl-weaver-baseball.json](./21554-earl-weaver-baseball.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
@@ -972,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes | 295198 | [295198-echoes.json](./295198-echoes.json) |
 | Echoes | 300758 | [300758-echoes.json](./300758-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
+| Echoes | 380305 | [380305-echoes.json](./380305-echoes.json) |
 | Echoes | 395994 | [395994-echoes.json](./395994-echoes.json) |
 | Echoes | 409224 | [409224-echoes.json](./409224-echoes.json) |
 | Echoes | 91392 | [91392-echoes.json](./91392-echoes.json) |
@@ -1080,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Museum | 402321 | [402321-echoes-of-the-museum.json](./402321-echoes-of-the-museum.json) |
 | Echoes of the Night | 337321 | [337321-echoes-of-the-night.json](./337321-echoes-of-the-night.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
+| Echoes of The Past | 380300 | [380300-echoes-of-the-past.json](./380300-echoes-of-the-past.json) |
 | Echoes of the Past: Kingdom of Despair | 140249 | [140249-echoes-of-the-past-kingdom-of-despair.json](./140249-echoes-of-the-past-kingdom-of-despair.json) |
 | Echoes of the Past: Kingdom of Despair - Collector's Edition | 32017 | [32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json](./32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json) |
 | Echoes of the Past: Royal House of Stone | 64639 | [64639-echoes-of-the-past-royal-house-of-stone.json](./64639-echoes-of-the-past-royal-house-of-stone.json) |
@@ -1160,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 276916 | [276916-eclipse.json](./276916-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
 | Eclipse | 347964 | [347964-eclipse.json](./347964-eclipse.json) |
+| Eclipse | 380302 | [380302-eclipse.json](./380302-eclipse.json) |
 | Eclipse 2: Invasion of Darkness | 293586 | [293586-eclipse-2-invasion-of-darkness.json](./293586-eclipse-2-invasion-of-darkness.json) |
 | Eclipse Below | 350628 | [350628-eclipse-below.json](./350628-eclipse-below.json) |
 | Eclipse Breaker | 292411 | [292411-eclipse-breaker.json](./292411-eclipse-breaker.json) |
@@ -1174,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse of the Moon | 220364 | [220364-eclipse-of-the-moon.json](./220364-eclipse-of-the-moon.json) |
 | Eclipse Saga | 188389 | [188389-eclipse-saga.json](./188389-eclipse-saga.json) |
 | Eclipse Survivors | 249757 | [249757-eclipse-survivors.json](./249757-eclipse-survivors.json) |
+| Eclipse the Light Divided | 380301 | [380301-eclipse-the-light-divided.json](./380301-eclipse-the-light-divided.json) |
 | Eclipse: 2nd Dawn for the Galaxy | 368711 | [368711-eclipse-2nd-dawn-for-the-galaxy.json](./368711-eclipse-2nd-dawn-for-the-galaxy.json) |
 | Eclipse: Anomaly Research | 391459 | [391459-eclipse-anomaly-research.json](./391459-eclipse-anomaly-research.json) |
 | Eclipse: Defending the motherland | 32643 | [32643-eclipse-defending-the-motherland.json](./32643-eclipse-defending-the-motherland.json) |
@@ -1403,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge | 111122 | [111122-edge.json](./111122-edge.json) |
+| Edge | 380303 | [380303-edge.json](./380303-edge.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
 | Edge Grinder | 39079 | [39079-edge-grinder.json](./39079-edge-grinder.json) |
@@ -1680,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fly | 191011 | [191011-egg-fly.json](./191011-egg-fly.json) |
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
+| Egg Game | 380306 | [380306-egg-game.json](./380306-egg-game.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Head in Space | 232317 | [232317-egg-head-in-space.json](./232317-egg-head-in-space.json) |
 | Egg Hop | 211509 | [211509-egg-hop.json](./211509-egg-hop.json) |
@@ -1890,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggs War | 185051 | [185051-eggs-war.json](./185051-eggs-war.json) |
 | Eggs: All Guns Broken | 316155 | [316155-eggs-all-guns-broken.json](./316155-eggs-all-guns-broken.json) |
 | Eggscape | 351688 | [351688-eggscape.json](./351688-eggscape.json) |
+| Eggscape | 380307 | [380307-eggscape.json](./380307-eggscape.json) |
 | Eggson | 362772 | [362772-eggson.json](./362772-eggson.json) |
 | EggSort | 261316 | [261316-eggsort.json](./261316-eggsort.json) |
 | Eggspedition | 367331 | [367331-eggspedition.json](./367331-eggspedition.json) |
@@ -3490,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald & Mrs. Ghost: The Ship that Never Returns | 113591 | [113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json](./113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json) |
 | Emerald Ambush | 257295 | [257295-emerald-ambush.json](./257295-emerald-ambush.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
+| Emerald Blue | 376361 | [376361-emerald-blue.json](./376361-emerald-blue.json) |
 | Emerald Caravan | 279139 | [279139-emerald-caravan.json](./279139-emerald-caravan.json) |
 | Emerald City | 257139 | [257139-emerald-city.json](./257139-emerald-city.json) |
 | Emerald City Confidential | 16072 | [16072-emerald-city-confidential.json](./16072-emerald-city-confidential.json) |
