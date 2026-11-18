@@ -9488,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doorbreaker | 74136 | [74136-the-doorbreaker.json](./74136-the-doorbreaker.json) |
 | The Doors | 339205 | [339205-the-doors.json](./339205-the-doors.json) |
 | The Doors | 386535 | [386535-the-doors.json](./386535-the-doors.json) |
+| The Doors of Trithius | 161430 | [161430-the-doors-of-trithius.json](./161430-the-doors-of-trithius.json) |
 | The Doors That Led to Nowhere | 336604 | [336604-the-doors-that-led-to-nowhere.json](./336604-the-doors-that-led-to-nowhere.json) |
 | The Doorway Effect | 240685 | [240685-the-doorway-effect.json](./240685-the-doorway-effect.json) |
 | The Dope Game | 32754 | [32754-the-dope-game.json](./32754-the-dope-game.json) |
@@ -13920,6 +13921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Alfur | 210793 | [210793-the-legend-of-alfur.json](./210793-the-legend-of-alfur.json) |
 | The Legend of Alon D'ar | 19420 | [19420-the-legend-of-alon-dar.json](./19420-the-legend-of-alon-dar.json) |
 | The Legend of Arcadieu | 126635 | [126635-the-legend-of-arcadieu.json](./126635-the-legend-of-arcadieu.json) |
+| The Legend of Arcadieu 2 | 161419 | [161419-the-legend-of-arcadieu-2.json](./161419-the-legend-of-arcadieu-2.json) |
 | The Legend of Atlantis | 66564 | [66564-the-legend-of-atlantis.json](./66564-the-legend-of-atlantis.json) |
 | The Legend of Aurum Draconis | 213301 | [213301-the-legend-of-aurum-draconis.json](./213301-the-legend-of-aurum-draconis.json) |
 | The Legend of Azarias | 207191 | [207191-the-legend-of-azarias.json](./207191-the-legend-of-azarias.json) |
@@ -20358,6 +20360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trouble: Defense | 316661 | [316661-the-trouble-defense.json](./316661-the-trouble-defense.json) |
 | The Truck Game | 114250 | [114250-the-truck-game.json](./114250-the-truck-game.json) |
 | The Trud | 132901 | [132901-the-trud.json](./132901-the-trud.json) |
+| The True | 147498 | [147498-the-true.json](./147498-the-true.json) |
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The True Ingredients | 229885 | [229885-the-true-ingredients.json](./229885-the-true-ingredients.json) |
 | The True Love Rings | 220514 | [220514-the-true-love-rings.json](./220514-the-true-love-rings.json) |
@@ -23055,6 +23058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw Home | 338967 | [338967-throw-home.json](./338967-throw-home.json) |
 | Throw It | 149926 | [149926-throw-it.json](./149926-throw-it.json) |
+| Throw it! Animal Park | 147497 | [147497-throw-it-animal-park.json](./147497-throw-it-animal-park.json) |
 | Throw it! Dinosaur Panic | 308665 | [308665-throw-it-dinosaur-panic.json](./308665-throw-it-dinosaur-panic.json) |
 | Throw Knife | 88562 | [88562-throw-knife.json](./88562-throw-knife.json) |
 | Throw Knives | 151099 | [151099-throw-knives.json](./151099-throw-knives.json) |
@@ -30257,6 +30261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Hover | 314684 | [314684-tower-hover.json](./314684-tower-hover.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
+| Tower Inferno | 147493 | [147493-tower-inferno.json](./147493-tower-inferno.json) |
 | Tower Island: Explore, Discover and Disassemble | 32413 | [32413-tower-island-explore-discover-and-disassemble.json](./32413-tower-island-explore-discover-and-disassemble.json) |
 | Tower Jump | 101559 | [101559-tower-jump.json](./101559-tower-jump.json) |
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
@@ -33847,6 +33852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Mosaics 14: Perfect Stockholm | 284462 | [284462-travel-mosaics-14-perfect-stockholm.json](./284462-travel-mosaics-14-perfect-stockholm.json) |
 | Travel Mosaics 15: Magic Venice | 284463 | [284463-travel-mosaics-15-magic-venice.json](./284463-travel-mosaics-15-magic-venice.json) |
 | Travel Mosaics 16: Glorious Budapest | 284464 | [284464-travel-mosaics-16-glorious-budapest.json](./284464-travel-mosaics-16-glorious-budapest.json) |
+| Travel Mosaics 2: Roman Holiday | 147491 | [147491-travel-mosaics-2-roman-holiday.json](./147491-travel-mosaics-2-roman-holiday.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Mosaics 4: Adventures In Rio | 147124 | [147124-travel-mosaics-4-adventures-in-rio.json](./147124-travel-mosaics-4-adventures-in-rio.json) |
 | Travel Mosaics 5: Waltzing Vienna | 147088 | [147088-travel-mosaics-5-waltzing-vienna.json](./147088-travel-mosaics-5-waltzing-vienna.json) |
@@ -36645,6 +36651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turistifyer | 358588 | [358588-turistifyer.json](./358588-turistifyer.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
+| Turk: The Demon Slayer | 147522 | [147522-turk-the-demon-slayer.json](./147522-turk-the-demon-slayer.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
 | Turkey Hero | 311972 | [311972-turkey-hero.json](./311972-turkey-hero.json) |
