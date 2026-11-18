@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc | 347033 | [347033-valthirian-arc.json](./347033-valthirian-arc.json) |
 | Valthirian Arc II | 123178 | [123178-valthirian-arc-ii.json](./123178-valthirian-arc-ii.json) |
+| Valthirian Arc: Hero School Story | 104975 | [104975-valthirian-arc-hero-school-story.json](./104975-valthirian-arc-hero-school-story.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
 | Valtric | 39995 | [39995-valtric.json](./39995-valtric.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanishing Grace | 133883 | [133883-vanishing-grace.json](./133883-vanishing-grace.json) |
 | Vanishing Point | 33969 | [33969-vanishing-point.json](./33969-vanishing-point.json) |
 | Vanishing Point: Tenshi no Kieta Machi | 308971 | [308971-vanishing-point-tenshi-no-kieta-machi.json](./308971-vanishing-point-tenshi-no-kieta-machi.json) |
+| Vanishing Realms | 18694 | [18694-vanishing-realms.json](./18694-vanishing-realms.json) |
 | Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
 | Vanishing Shadow | 243472 | [243472-vanishing-shadow.json](./243472-vanishing-shadow.json) |
 | Vanishing Starlight | 395337 | [395337-vanishing-starlight.json](./395337-vanishing-starlight.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicarious Reality | 257156 | [257156-vicarious-reality.json](./257156-vicarious-reality.json) |
 | Vicarius | 391438 | [391438-vicarius.json](./391438-vicarius.json) |
 | Vicarwissen | 178871 | [178871-vicarwissen.json](./178871-vicarwissen.json) |
+| VICCP | 111505 | [111505-viccp.json](./111505-viccp.json) |
 | VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
