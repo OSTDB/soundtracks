@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Beyond Time and Space - Episode 4: Chariots of the Dogs | 27838 | [27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json](./27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json) |
 | Sam & Max: Beyond Time and Space - Episode 5: What's New Beelzebub? | 27839 | [27839-sam-and-max-beyond-time-and-space-episode-5-whats-new-beelzebub.json](./27839-sam-and-max-beyond-time-and-space-episode-5-whats-new-beelzebub.json) |
 | Sam & Max: Freelance Police | 93918 | [93918-sam-and-max-freelance-police.json](./93918-sam-and-max-freelance-police.json) |
+| Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Sam & Max: Save the World - Episode 2: Situation Comedy | 27822 | [27822-sam-and-max-save-the-world-episode-2-situation-comedy.json](./27822-sam-and-max-save-the-world-episode-2-situation-comedy.json) |
 | Sam & Max: Save the World - Episode 3: The Mole, the Mob and the Meatball | 27821 | [27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json](./27821-sam-and-max-save-the-world-episode-3-the-mole-the-mob-and-the-meatball.json) |
@@ -3100,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Gazers | 263334 | [263334-scarlet-gazers.json](./263334-scarlet-gazers.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Grains | 94529 | [94529-scarlet-grains.json](./94529-scarlet-grains.json) |
+| Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hollow: Episode 1 | 170219 | [170219-scarlet-hollow-episode-1.json](./170219-scarlet-hollow-episode-1.json) |
 | Scarlet Hollow: Episode 2 | 377867 | [377867-scarlet-hollow-episode-2.json](./377867-scarlet-hollow-episode-2.json) |
 | Scarlet Hollow: Episode 3 | 377872 | [377872-scarlet-hollow-episode-3.json](./377872-scarlet-hollow-episode-3.json) |
@@ -12376,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimClassics: Maxis Collections 2 | 69711 | [69711-simclassics-maxis-collections-2.json](./69711-simclassics-maxis-collections-2.json) |
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
+| SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | SimCopter 64 | 231686 | [231686-simcopter-64.json](./231686-simcopter-64.json) |
 | SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
 | Sime is Back | 297854 | [297854-sime-is-back.json](./297854-sime-is-back.json) |
@@ -15324,6 +15327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice | 426422 | [426422-slice.json](./426422-slice.json) |
 | Slice | 98705 | [98705-slice.json](./98705-slice.json) |
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
+| Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice Adventure | 328201 | [328201-slice-adventure.json](./328201-slice-adventure.json) |
 | Slice and Bite | 247819 | [247819-slice-and-bite.json](./247819-slice-and-bite.json) |
 | Slice Back | 121797 | [121797-slice-back.json](./121797-slice-back.json) |
@@ -21131,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
 | Soul Kingdoms | 145767 | [145767-soul-kingdoms.json](./145767-soul-kingdoms.json) |
+| Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
 | Soul Knights RPG | 53624 | [53624-soul-knights-rpg.json](./53624-soul-knights-rpg.json) |
@@ -26319,6 +26324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! - Collector's Edition | 43685 | [43685-spyro-2-riptos-rage-collectors-edition.json](./43685-spyro-2-riptos-rage-collectors-edition.json) |
+| Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro 3.5: Return to the Forgotten Realms | 285246 | [285246-spyro-3-5-return-to-the-forgotten-realms.json](./285246-spyro-3-5-return-to-the-forgotten-realms.json) |
 | Spyro 4 | 336310 | [336310-spyro-4.json](./336310-spyro-4.json) |
 | Spyro Ever After | 282864 | [282864-spyro-ever-after.json](./282864-spyro-ever-after.json) |
@@ -27948,6 +27954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode I - Sith Speeder Game | 205708 | [205708-star-wars-episode-i-sith-speeder-game.json](./205708-star-wars-episode-i-sith-speeder-game.json) |
 | Star Wars: Episode I - Underwater Race to Theed | 198916 | [198916-star-wars-episode-i-underwater-race-to-theed.json](./198916-star-wars-episode-i-underwater-race-to-theed.json) |
 | Star Wars: Episode II - Anakin Skywalker’s Lightsaber Duel | 198917 | [198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json](./198917-star-wars-episode-ii-anakin-skywalker-s-lightsaber-duel.json) |
+| Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith: Activity Center | 137191 | [137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json](./137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json) |
@@ -29169,6 +29176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
 | Stasis Protocol | 428755 | [428755-stasis-protocol.json](./428755-stasis-protocol.json) |
 | Stasis Valley | 211351 | [211351-stasis-valley.json](./211351-stasis-valley.json) |
+| Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | Stasis: Special Edition | 53658 | [53658-stasis-special-edition.json](./53658-stasis-special-edition.json) |
 | State Connect: Traffic Control | 193779 | [193779-state-connect-traffic-control.json](./193779-state-connect-traffic-control.json) |
@@ -32123,6 +32131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
 | Streets of Gotham City | 272015 | [272015-streets-of-gotham-city.json](./272015-streets-of-gotham-city.json) |
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
+| Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
 | Streets of Moscow | 50202 | [50202-streets-of-moscow.json](./50202-streets-of-moscow.json) |
 | Streets of Neotokio | 127467 | [127467-streets-of-neotokio.json](./127467-streets-of-neotokio.json) |
@@ -33926,6 +33935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Nightmare | 293682 | [293682-summer-nightmare.json](./293682-summer-nightmare.json) |
 | Summer Nightmare | 29895 | [29895-summer-nightmare.json](./29895-summer-nightmare.json) |
 | Summer Numbers | 248435 | [248435-summer-numbers.json](./248435-summer-numbers.json) |
+| Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
 | Summer of Love | 274810 | [274810-summer-of-love.json](./274810-summer-of-love.json) |
@@ -35731,6 +35741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Killer Hornet: Resurrection | 10932 | [10932-super-killer-hornet-resurrection.json](./10932-super-killer-hornet-resurrection.json) |
 | Super Killer Hornets: Resurrection | 54413 | [54413-super-killer-hornets-resurrection.json](./54413-super-killer-hornets-resurrection.json) |
 | Super Kingcrab Simulator | 345804 | [345804-super-kingcrab-simulator.json](./345804-super-kingcrab-simulator.json) |
+| Super Kirby Clash | 122229 | [122229-super-kirby-clash.json](./122229-super-kirby-clash.json) |
 | Super Kit: To the Top | 207643 | [207643-super-kit-to-the-top.json](./207643-super-kit-to-the-top.json) |
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Boing Boing | 33567 | [33567-super-kitty-boing-boing.json](./33567-super-kitty-boing-boing.json) |
@@ -35888,6 +35899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 DS Online | 313410 | [313410-super-mario-64-ds-online.json](./313410-super-mario-64-ds-online.json) |
 | Super Mario 64 DS Sub Zero | 315013 | [315013-super-mario-64-ds-sub-zero.json](./315013-super-mario-64-ds-sub-zero.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
+| Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
 | Super Mario 64 in GTA San Andreas | 294562 | [294562-super-mario-64-in-gta-san-andreas.json](./294562-super-mario-64-in-gta-san-andreas.json) |
 | Super Mario 64 in SuperTux | 276909 | [276909-super-mario-64-in-supertux.json](./276909-super-mario-64-in-supertux.json) |
@@ -38482,6 +38494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superzgun | 211571 | [211571-superzgun.json](./211571-superzgun.json) |
 | Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supesu 2 | 123923 | [123923-supesu-2.json](./123923-supesu-2.json) |
+| Supfly Delivery Simulator | 140158 | [140158-supfly-delivery-simulator.json](./140158-supfly-delivery-simulator.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
 | Suplex Saga | 54633 | [54633-suplex-saga.json](./54633-suplex-saga.json) |
@@ -40678,6 +40691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony of the Origin | 39783 | [39783-symphony-of-the-origin.json](./39783-symphony-of-the-origin.json) |
 | Symphony of the Stars | 321464 | [321464-symphony-of-the-stars.json](./321464-symphony-of-the-stars.json) |
 | Symphony of War: Legends | 252370 | [252370-symphony-of-war-legends.json](./252370-symphony-of-war-legends.json) |
+| Symphony of War: The Nephilim Saga | 192840 | [192840-symphony-of-war-the-nephilim-saga.json](./192840-symphony-of-war-the-nephilim-saga.json) |
 | Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
 | SymphonyRecomp | 412328 | [412328-symphonyrecomp.json](./412328-symphonyrecomp.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
