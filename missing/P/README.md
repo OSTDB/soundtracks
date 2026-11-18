@@ -5635,6 +5635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash | 139293 | [139293-petal-crash.json](./139293-petal-crash.json) |
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
+| Petal Pals | 376371 | [376371-petal-pals.json](./376371-petal-pals.json) |
 | Petal Panic | 414640 | [414640-petal-panic.json](./414640-petal-panic.json) |
 | Petal Quest | 404038 | [404038-petal-quest.json](./404038-petal-quest.json) |
 | Petal Runner | 305031 | [305031-petal-runner.json](./305031-petal-runner.json) |
@@ -16281,6 +16282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal | 11789 | [11789-primal.json](./11789-primal.json) |
 | Primal Age | 227603 | [227603-primal-age.json](./227603-primal-age.json) |
 | Primal Axis | 412103 | [412103-primal-axis.json](./412103-primal-axis.json) |
+| Primal Blue | 383295 | [383295-primal-blue.json](./383295-primal-blue.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
 | Primal Carnage: Extinction | 17804 | [17804-primal-carnage-extinction.json](./17804-primal-carnage-extinction.json) |
 | Primal Carnage: Extinction - Mercenary Megapack | 241963 | [241963-primal-carnage-extinction-mercenary-megapack.json](./241963-primal-carnage-extinction-mercenary-megapack.json) |
