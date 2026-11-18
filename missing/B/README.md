@@ -5200,7 +5200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTrucks | 29299 | [29299-battletrucks.json](./29299-battletrucks.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battleverse Champions | 219972 | [219972-battleverse-champions.json](./219972-battleverse-champions.json) |
-| Battlevoid: Harbinger | 34604 | [34604-battlevoid-harbinger.json](./34604-battlevoid-harbinger.json) |
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlevoid: Sector Siege | 77439 | [77439-battlevoid-sector-siege.json](./77439-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
@@ -12988,7 +12987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Warriors: Shan-Go Troop Strikes Back! | 48541 | [48541-bloody-warriors-shan-go-troop-strikes-back.json](./48541-bloody-warriors-shan-go-troop-strikes-back.json) |
 | Bloody Woman | 252539 | [252539-bloody-woman.json](./252539-bloody-woman.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
-| Bloody Zombies | 28522 | [28522-bloody-zombies.json](./28522-bloody-zombies.json) |
 | BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloodzap | 384553 | [384553-bloodzap.json](./384553-bloodzap.json) |
