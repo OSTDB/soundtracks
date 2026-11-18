@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
+| Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vanguard's Descent | 423362 | [423362-vanguards-descent.json](./423362-vanguards-descent.json) |
 | Vanguardian | 103769 | [103769-vanguardian.json](./103769-vanguardian.json) |
 | Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS Tapes | 422442 | [422442-vhs-tapes.json](./422442-vhs-tapes.json) |
 | VHS Vermin | 379728 | [379728-vhs-vermin.json](./379728-vhs-vermin.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
+| VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
 | VHS, 1986 | 148235 | [148235-vhs-1986.json](./148235-vhs-1986.json) |
 | VHScape | 316759 | [316759-vhscape.json](./316759-vhscape.json) |
 | VHSMan | 386417 | [386417-vhsman.json](./386417-vhsman.json) |
