@@ -1023,7 +1023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Paklyx | 382809 | [382809-paklyx.json](./382809-paklyx.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
-| Pako 2 | 29028 | [29028-pako-2.json](./29028-pako-2.json) |
 | Pako 3 | 188261 | [188261-pako-3.json](./188261-pako-3.json) |
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Caravan | 147830 | [147830-pako-caravan.json](./147830-pako-caravan.json) |
