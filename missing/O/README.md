@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optical Inquisitor | 95338 | [95338-optical-inquisitor.json](./95338-optical-inquisitor.json) |
 | Opticale | 119944 | [119944-opticale.json](./119944-opticale.json) |
 | Optico | 394912 | [394912-optico.json](./394912-optico.json) |
+| Optika | 32137 | [32137-optika.json](./32137-optika.json) |
 | Optimal Conditions for a Sacrifice | 206536 | [206536-optimal-conditions-for-a-sacrifice.json](./206536-optimal-conditions-for-a-sacrifice.json) |
 | Optimum Link | 111665 | [111665-optimum-link.json](./111665-optimum-link.json) |
 | Option Monster | 266488 | [266488-option-monster.json](./266488-option-monster.json) |
