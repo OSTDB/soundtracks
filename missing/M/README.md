@@ -14056,6 +14056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Dungeons Arcade | 210757 | [210757-minecraft-dungeons-arcade.json](./210757-minecraft-dungeons-arcade.json) |
 | Minecraft Dungeons II - Deluxe DLC | 407116 | [407116-minecraft-dungeons-ii-deluxe-dlc.json](./407116-minecraft-dungeons-ii-deluxe-dlc.json) |
 | Minecraft Dungeons II: Deluxe Edition | 407111 | [407111-minecraft-dungeons-ii-deluxe-edition.json](./407111-minecraft-dungeons-ii-deluxe-edition.json) |
+| Minecraft Dungeons: Creeping Winter | 137133 | [137133-minecraft-dungeons-creeping-winter.json](./137133-minecraft-dungeons-creeping-winter.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
 | Minecraft Dungeons: Flames of the Nether | 146161 | [146161-minecraft-dungeons-flames-of-the-nether.json](./146161-minecraft-dungeons-flames-of-the-nether.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
@@ -14319,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
 | Mineirinho Director's Cut: Mineirinho Hoversurf DC | 171927 | [171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json](./171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json) |
 | Mineirinho Shooter DC | 128078 | [128078-mineirinho-shooter-dc.json](./128078-mineirinho-shooter-dc.json) |
+| Mineirinho Wildtides DC | 129276 | [129276-mineirinho-wildtides-dc.json](./129276-mineirinho-wildtides-dc.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemadness | 201155 | [201155-minemadness.json](./201155-minemadness.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
@@ -15883,6 +15885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission XAM | 117224 | [117224-mission-xam.json](./117224-mission-xam.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission Zero | 208159 | [208159-mission-zero.json](./208159-mission-zero.json) |
+| Mission Zigloton | 129267 | [129267-mission-zigloton.json](./129267-mission-zigloton.json) |
 | Mission: Afghanistan | 51615 | [51615-mission-afghanistan.json](./51615-mission-afghanistan.json) |
 | Mission: Aliens | 223736 | [223736-mission-aliens.json](./223736-mission-aliens.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
@@ -15981,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
 | Mister Rogers' Neighborhood | 138092 | [138092-mister-rogers-neighborhood.json](./138092-mister-rogers-neighborhood.json) |
 | Mister Scary | 342222 | [342222-mister-scary.json](./342222-mister-scary.json) |
+| Mister Shizz: Don't Let the Shizz Hit the Fan! | 129254 | [129254-mister-shizz-dont-let-the-shizz-hit-the-fan.json](./129254-mister-shizz-dont-let-the-shizz-hit-the-fan.json) |
 | Mister Slime | 21377 | [21377-mister-slime.json](./21377-mister-slime.json) |
 | Mister Smith & His Adventures | 255039 | [255039-mister-smith-and-his-adventures.json](./255039-mister-smith-and-his-adventures.json) |
 | Mister Twister | 209957 | [209957-mister-twister.json](./209957-mister-twister.json) |
