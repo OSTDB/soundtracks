@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:After | 132943 | [132943-yumeutsutsu-re-after.json](./132943-yumeutsutsu-re-after.json) |
 | Yumeutsutsu Re:Idol | 132939 | [132939-yumeutsutsu-re-idol.json](./132939-yumeutsutsu-re-idol.json) |
+| Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yumeutsutsu Re:Master Bundle Pack | 144205 | [144205-yumeutsutsu-re-master-bundle-pack.json](./144205-yumeutsutsu-re-master-bundle-pack.json) |
 | Yumezame no Kasetsu | 316667 | [316667-yumezame-no-kasetsu.json](./316667-yumezame-no-kasetsu.json) |
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
