@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saboteur SiO | 147702 | [147702-saboteur-sio.json](./147702-saboteur-sio.json) |
 | Saboteur! | 26354 | [26354-saboteur.json](./26354-saboteur.json) |
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
+| Sabotrix | 357482 | [357482-sabotrix.json](./357482-sabotrix.json) |
 | Sabre Ace: Conflict Over Korea | 63470 | [63470-sabre-ace-conflict-over-korea.json](./63470-sabre-ace-conflict-over-korea.json) |
 | Sabre Team | 12757 | [12757-sabre-team.json](./12757-sabre-team.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
@@ -8062,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of Steel Moons | 224941 | [224941-shadows-of-steel-moons.json](./224941-shadows-of-steel-moons.json) |
 | Shadows of Taumiel | 207378 | [207378-shadows-of-taumiel.json](./207378-shadows-of-taumiel.json) |
+| Shadows of Teotihuacan | 346815 | [346815-shadows-of-teotihuacan.json](./346815-shadows-of-teotihuacan.json) |
 | Shadows of the Afterland | 269067 | [269067-shadows-of-the-afterland.json](./269067-shadows-of-the-afterland.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
 | Shadows of the Damned | 5971 | [5971-shadows-of-the-damned.json](./5971-shadows-of-the-damned.json) |
@@ -12029,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Scope Complete | 6052 | [6052-silent-scope-complete.json](./6052-silent-scope-complete.json) |
 | Silent Scope EX | 328952 | [328952-silent-scope-ex.json](./328952-silent-scope-ex.json) |
 | Silent Scope: Bone Eater | 159150 | [159150-silent-scope-bone-eater.json](./159150-silent-scope-bone-eater.json) |
+| Silent Scope: Fortune Hunter | 361924 | [361924-silent-scope-fortune-hunter.json](./361924-silent-scope-fortune-hunter.json) |
 | Silent Scream | 236209 | [236209-silent-scream.json](./236209-silent-scream.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Scream II: The Bride | 312211 | [312211-silent-scream-ii-the-bride.json](./312211-silent-scream-ii-the-bride.json) |
@@ -15668,6 +15671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | SlimeCatcher | 235615 | [235615-slimecatcher.json](./235615-slimecatcher.json) |
 | Slimecore | 305705 | [305705-slimecore.json](./305705-slimecore.json) |
+| SlimeCraft | 351280 | [351280-slimecraft.json](./351280-slimecraft.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimedrop Laboratory | 267044 | [267044-slimedrop-laboratory.json](./267044-slimedrop-laboratory.json) |
 | Slimefall | 420216 | [420216-slimefall.json](./420216-slimefall.json) |
@@ -19745,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Blasters | 334140 | [334140-sonic-blasters.json](./334140-sonic-blasters.json) |
 | Sonic Blaze | 330417 | [330417-sonic-blaze.json](./330417-sonic-blaze.json) |
 | Sonic Blaze | 330512 | [330512-sonic-blaze.json](./330512-sonic-blaze.json) |
+| Sonic Blitz | 346811 | [346811-sonic-blitz.json](./346811-sonic-blitz.json) |
 | Sonic Blossom | 316336 | [316336-sonic-blossom.json](./316336-sonic-blossom.json) |
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom | 203165 | [203165-sonic-boom.json](./203165-sonic-boom.json) |
@@ -21728,6 +21733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Soviet Spooky Tales: Green Eyes | 337351 | [337351-soviet-spooky-tales-green-eyes.json](./337351-soviet-spooky-tales-green-eyes.json) |
 | Soviet Strike | 19418 | [19418-soviet-strike.json](./19418-soviet-strike.json) |
+| Soviet Survival | 346834 | [346834-soviet-survival.json](./346834-soviet-survival.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
 | Soviet Unterzoegersdorf: Sector I | 175775 | [175775-soviet-unterzoegersdorf-sector-i.json](./175775-soviet-unterzoegersdorf-sector-i.json) |
@@ -22181,6 +22187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fighter | 80830 | [80830-space-fighter.json](./80830-space-fighter.json) |
 | Space Fighter 2 | 246784 | [246784-space-fighter-2.json](./246784-space-fighter-2.json) |
 | Space Fighter 4000: Training Missions | 61457 | [61457-space-fighter-4000-training-missions.json](./61457-space-fighter-4000-training-missions.json) |
+| Space Fighter: Code 1999 | 346821 | [346821-space-fighter-code-1999.json](./346821-space-fighter-code-1999.json) |
 | Space Fighters | 89396 | [89396-space-fighters.json](./89396-space-fighters.json) |
 | Space Filler | 338013 | [338013-space-filler.json](./338013-space-filler.json) |
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
@@ -23321,6 +23328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
 | SpaceShips | 151448 | [151448-spaceships.json](./151448-spaceships.json) |
+| Spaceships and Cellular Automata | 365321 | [365321-spaceships-and-cellular-automata.json](./365321-spaceships-and-cellular-automata.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
 | SpaceShot | 84141 | [84141-spaceshot.json](./84141-spaceshot.json) |
@@ -29409,6 +29417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| Stay&stack: Hotel Operation | 357481 | [357481-stay-and-stack-hotel-operation.json](./357481-stay-and-stack-hotel-operation.json) |
 | Stayer | 115266 | [115266-stayer.json](./115266-stayer.json) |
 | Stayhome Simulator | 368434 | [368434-stayhome-simulator.json](./368434-stayhome-simulator.json) |
 | Stayhomer | 171207 | [171207-stayhomer.json](./171207-stayhomer.json) |
@@ -30042,6 +30051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
 | Stellar Winds | 145830 | [145830-stellar-winds.json](./145830-stellar-winds.json) |
 | Stellar Wing | 423850 | [423850-stellar-wing.json](./423850-stellar-wing.json) |
+| Stellar Witch | 357471 | [357471-stellar-witch.json](./357471-stellar-witch.json) |
 | Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
@@ -32615,6 +32625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stryker's Run | 5876 | [5876-strykers-run.json](./5876-strykers-run.json) |
 | Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
+| Stu the Fisherman | 346818 | [346818-stu-the-fisherman.json](./346818-stu-the-fisherman.json) |
 | Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
 | Stuart Jump | 257785 | [257785-stuart-jump.json](./257785-stuart-jump.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
