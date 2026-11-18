@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics I & II Cosmos: Deluxe Edition | 249962 | [249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json](./249962-r-type-tactics-i-and-ii-cosmos-deluxe-edition.json) |
 | R-Type Tactics I & II Cosmos: Limited Edition | 276768 | [276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json](./276768-r-type-tactics-i-and-ii-cosmos-limited-edition.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
+| R-Types | 22892 | [22892-r-types.json](./22892-r-types.json) |
 | R: Rock'n Riders | 63513 | [63513-r-rockn-riders.json](./63513-r-rockn-riders.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
 | R.A.F.A. | 89335 | [89335-r-a-f-a.json](./89335-r-a-f-a.json) |
@@ -3491,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World 2 | 275638 | [275638-real-world-2.json](./275638-real-world-2.json) |
 | Real World Cricket - T20 Cricket | 124458 | [124458-real-world-cricket-t20-cricket.json](./124458-real-world-cricket-t20-cricket.json) |
 | Real World Golf | 80386 | [80386-real-world-golf.json](./80386-real-world-golf.json) |
+| Real World Golf 2007 | 23010 | [23010-real-world-golf-2007.json](./23010-real-world-golf-2007.json) |
 | Real World Racing | 7028 | [7028-real-world-racing.json](./7028-real-world-racing.json) |
 | Real World Racing RWR: Z | 10756 | [10756-real-world-racing-rwr-z.json](./10756-real-world-racing-rwr-z.json) |
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
@@ -11676,6 +11678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
 | Roland's Ratrace | 77456 | [77456-rolands-ratrace.json](./77456-rolands-ratrace.json) |
+| Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando 2: Quest for the Golden Orchid | 22994 | [22994-rolando-2-quest-for-the-golden-orchid.json](./22994-rolando-2-quest-for-the-golden-orchid.json) |
 | Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
 | Rolando the Majestic | 201569 | [201569-rolando-the-majestic.json](./201569-rolando-the-majestic.json) |
@@ -14582,6 +14585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushberry Mercs | 132552 | [132552-rushberry-mercs.json](./132552-rushberry-mercs.json) |
 | Rushcraft | 392544 | [392544-rushcraft.json](./392544-rushcraft.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
+| Rushdown | 22836 | [22836-rushdown.json](./22836-rushdown.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
 | Rushdown Revolt: Nemesis Afi & Galu | 311776 | [311776-rushdown-revolt-nemesis-afi-and-galu.json](./311776-rushdown-revolt-nemesis-afi-and-galu.json) |
 | Rushdown Revolt: Nemesis Ashani | 311771 | [311771-rushdown-revolt-nemesis-ashani.json](./311771-rushdown-revolt-nemesis-ashani.json) |
