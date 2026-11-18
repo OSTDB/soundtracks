@@ -8072,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
 | Goodbye Tired Stars | 280007 | [280007-goodbye-tired-stars.json](./280007-goodbye-tired-stars.json) |
+| Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
 | Goodbye, Doggy | 135905 | [135905-goodbye-doggy.json](./135905-goodbye-doggy.json) |
 | Goodbye, New World | 282642 | [282642-goodbye-new-world.json](./282642-goodbye-new-world.json) |
@@ -8992,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
 | Grand Mountain Adventure | 112144 | [112144-grand-mountain-adventure.json](./112144-grand-mountain-adventure.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
+| Grand Mountain Adventure: Wonderlands | 186234 | [186234-grand-mountain-adventure-wonderlands.json](./186234-grand-mountain-adventure-wonderlands.json) |
 | Grand Mountain Adventure: Wonderlands - Limited Edition | 188166 | [188166-grand-mountain-adventure-wonderlands-limited-edition.json](./188166-grand-mountain-adventure-wonderlands-limited-edition.json) |
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
 | Grand Order Mahjong | 82292 | [82292-grand-order-mahjong.json](./82292-grand-order-mahjong.json) |
@@ -10480,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Gunner | 105179 | [105179-grid-gunner.json](./105179-grid-gunner.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Leaper | 167502 | [167502-grid-leaper.json](./167502-grid-leaper.json) |
+| Grid Legends: Deluxe Edition | 186228 | [186228-grid-legends-deluxe-edition.json](./186228-grid-legends-deluxe-edition.json) |
 | Grid Legends: Enduring Spirit | 224925 | [224925-grid-legends-enduring-spirit.json](./224925-grid-legends-enduring-spirit.json) |
 | Grid Legends: Rise of Ravenwest | 226365 | [226365-grid-legends-rise-of-ravenwest.json](./226365-grid-legends-rise-of-ravenwest.json) |
 | Grid Legends: Seneca & Ravenwest Double Pack | 199529 | [199529-grid-legends-seneca-and-ravenwest-double-pack.json](./199529-grid-legends-seneca-and-ravenwest-double-pack.json) |
@@ -12857,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
+| Guntech 2 | 187981 | [187981-guntech-2.json](./187981-guntech-2.json) |
 | Gunter Abstrauer | 322771 | [322771-gunter-abstrauer.json](./322771-gunter-abstrauer.json) |
 | Guntica | 137411 | [137411-guntica.json](./137411-guntica.json) |
 | Guntner | 232754 | [232754-guntner.json](./232754-guntner.json) |
