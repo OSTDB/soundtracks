@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
 | Elio | 319829 | [319829-elio.json](./319829-elio.json) |
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
+| Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Eliot: Teddy Bear has Disappeared! | 137138 | [137138-eliot-teddy-bear-has-disappeared.json](./137138-eliot-teddy-bear-has-disappeared.json) |
 | Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
@@ -9413,6 +9414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extrapower Star Resistance | 191696 | [191696-extrapower-star-resistance.json](./191696-extrapower-star-resistance.json) |
 | Extrasensoric | 324239 | [324239-extrasensoric.json](./324239-extrasensoric.json) |
 | Extrasolar | 61900 | [61900-extrasolar.json](./61900-extrasolar.json) |
+| Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extremal Doom | 274176 | [274176-extremal-doom.json](./274176-extremal-doom.json) |
 | Extreme | 13655 | [13655-extreme.json](./13655-extreme.json) |
 | Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
