@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T02:16:24.482Z",
-  "total_soundtracks": 3830,
+  "generated_at": "2026-11-18T02:26:12.951Z",
+  "total_soundtracks": 3834,
   "games": [
     {
       "igdb_id": 292844,
@@ -13031,6 +13031,20 @@
       ]
     },
     {
+      "igdb_id": 24933,
+      "game_name": "Endless Legend: Tempest",
+      "game_url": "https://ostdb.net/games/endless-legend-tempest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731977788f8eb0efdc05b316fc",
+      "albums": [
+        {
+          "album_name": "Endless Legend: Tempest (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1uKbWmL65wyBk7FxqtnZHq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 262528,
       "game_name": "Endzone 2",
       "game_url": "https://ostdb.net/games/endzone-2",
@@ -25151,6 +25165,20 @@
       ]
     },
     {
+      "igdb_id": 25610,
+      "game_name": "Megamagic: Wizards of the Neon Age",
+      "game_url": "https://ostdb.net/games/megamagic-wizards-of-the-neon-age",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a29856d6377bdf1901d0b533",
+      "albums": [
+        {
+          "album_name": "Megamagic: Wizards of the Neon Age (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6f9UMPvm7fIpHWSfKYJtYu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 120032,
       "game_name": "Mekabolt",
       "game_url": "https://ostdb.net/games/mekabolt",
@@ -31569,6 +31597,20 @@
         {
           "album_name": "Quarantine Circular (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6nxop8InC6J3YBH3IcAmvc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25070,
+      "game_name": "Quell 4D",
+      "game_url": "https://ostdb.net/games/quell-4d",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273733c9cadabc63d0dc9ff9772",
+      "albums": [
+        {
+          "album_name": "Quell 4d (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2VXp2xarbPvpoUpRBNZ3Ue",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38652,6 +38694,20 @@
           "album_name": "STELLAR BLADE ORIGINAL SOUNDTRACK PLUS",
           "spotify_url": "https://open.spotify.com/album/4JiiBsMl6DiM1WGJYa4TDs",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26205,
+      "game_name": "Stellar Interface",
+      "game_url": "https://ostdb.net/games/stellar-interface",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bb730d9b3797061b08963606",
+      "albums": [
+        {
+          "album_name": "Stellar Interface (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2P9NQ7nKEsRCB4tQOYvo1f",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
