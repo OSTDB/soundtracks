@@ -3709,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
 | 7-minute HOP | 111509 | [111509-7-minute-hop.json](./111509-7-minute-hop.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
+| 7,62 High Calibre | 36344 | [36344-7-62-high-calibre.json](./36344-7-62-high-calibre.json) |
 | 7,62 High Calibre + 7,62 Hard Life | 255455 | [255455-7-62-high-calibre-7-62-hard-life.json](./255455-7-62-high-calibre-7-62-hard-life.json) |
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
