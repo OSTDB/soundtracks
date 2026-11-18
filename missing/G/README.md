@@ -7113,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: Battle Legends | 72828 | [72828-godzilla-battle-legends.json](./72828-godzilla-battle-legends.json) |
 | Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
 | Godzilla: Destroy All Monsters Melee | 3935 | [3935-godzilla-destroy-all-monsters-melee.json](./3935-godzilla-destroy-all-monsters-melee.json) |
+| Godzilla: Destroy All Monsters Melee Remastered | 404939 | [404939-godzilla-destroy-all-monsters-melee-remastered.json](./404939-godzilla-destroy-all-monsters-melee-remastered.json) |
 | Godzilla: Doki-doki Kaijuu-tou!! | 75890 | [75890-godzilla-doki-doki-kaijuu-tou.json](./75890-godzilla-doki-doki-kaijuu-tou.json) |
 | Godzilla: Domination! | 49298 | [49298-godzilla-domination.json](./49298-godzilla-domination.json) |
 | Godzilla: Kaiju Collection | 135560 | [135560-godzilla-kaiju-collection.json](./135560-godzilla-kaiju-collection.json) |
@@ -12028,6 +12029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
 | Guilty Gear: Strive - Season Pass 3 | 264832 | [264832-guilty-gear-strive-season-pass-3.json](./264832-guilty-gear-strive-season-pass-3.json) |
 | Guilty Gear: Strive - Season Pass 4 | 309271 | [309271-guilty-gear-strive-season-pass-4.json](./309271-guilty-gear-strive-season-pass-4.json) |
+| Guilty Gear: Strive - Season Pass 5 | 397773 | [397773-guilty-gear-strive-season-pass-5.json](./397773-guilty-gear-strive-season-pass-5.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
