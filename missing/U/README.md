@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Motorcycle Series | 85919 | [85919-ultimate-motorcycle-series.json](./85919-ultimate-motorcycle-series.json) |
 | Ultimate Motorcycle Simulator | 100826 | [100826-ultimate-motorcycle-simulator.json](./100826-ultimate-motorcycle-simulator.json) |
 | Ultimate Muscle Roller Championship | 197570 | [197570-ultimate-muscle-roller-championship.json](./197570-ultimate-muscle-roller-championship.json) |
+| Ultimate Muscle: Legends vs. New Generation | 4224 | [4224-ultimate-muscle-legends-vs-new-generation.json](./4224-ultimate-muscle-legends-vs-new-generation.json) |
 | Ultimate Mutant Warrior 3D | 104267 | [104267-ultimate-mutant-warrior-3d.json](./104267-ultimate-mutant-warrior-3d.json) |
 | Ultimate Mythic Ski Jumping League | 357214 | [357214-ultimate-mythic-ski-jumping-league.json](./357214-ultimate-mythic-ski-jumping-league.json) |
 | Ultimate NES Remix | 20054 | [20054-ultimate-nes-remix.json](./20054-ultimate-nes-remix.json) |
