@@ -11398,6 +11398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Immortal Soul | 133746 | [133746-bleach-immortal-soul.json](./133746-bleach-immortal-soul.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
 | Bleach: Rebirth of Souls | 307765 | [307765-bleach-rebirth-of-souls.json](./307765-bleach-rebirth-of-souls.json) |
+| Bleach: Rebirth of Souls - Deluxe Edition | 336778 | [336778-bleach-rebirth-of-souls-deluxe-edition.json](./336778-bleach-rebirth-of-souls-deluxe-edition.json) |
+| Bleach: Rebirth of Souls - Ultimate Edition | 336780 | [336780-bleach-rebirth-of-souls-ultimate-edition.json](./336780-bleach-rebirth-of-souls-ultimate-edition.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Bankai | 130043 | [130043-bleach-soul-bankai.json](./130043-bleach-soul-bankai.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
@@ -15072,6 +15074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
 | Boomerang X | 126851 | [126851-boomerang-x.json](./126851-boomerang-x.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
+| Boomerforge | 336781 | [336781-boomerforge.json](./336781-boomerforge.json) |
 | BoomerPunk | 337337 | [337337-boomerpunk.json](./337337-boomerpunk.json) |
 | BoomGround | 423502 | [423502-boomground.json](./423502-boomground.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
@@ -16284,6 +16287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxes | 259756 | [259756-boxes.json](./259756-boxes.json) |
 | Boxes and Cutouts | 367750 | [367750-boxes-and-cutouts.json](./367750-boxes-and-cutouts.json) |
 | Boxes Go Wild | 425157 | [425157-boxes-go-wild.json](./425157-boxes-go-wild.json) |
+| Boxes Wizard | 336782 | [336782-boxes-wizard.json](./336782-boxes-wizard.json) |
 | Boxes World | 247013 | [247013-boxes-world.json](./247013-boxes-world.json) |
 | Boxes: Lost Fragments | 219729 | [219729-boxes-lost-fragments.json](./219729-boxes-lost-fragments.json) |
 | BoxesWithGuns | 20198 | [20198-boxeswithguns.json](./20198-boxeswithguns.json) |
