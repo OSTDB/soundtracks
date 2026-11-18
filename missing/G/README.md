@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Card Game | 404064 | [404064-galaxy-card-game.json](./404064-galaxy-card-game.json) |
 | Galaxy Cat | 201953 | [201953-galaxy-cat.json](./201953-galaxy-cat.json) |
+| Galaxy Champions TV | 108321 | [108321-galaxy-champions-tv.json](./108321-galaxy-champions-tv.json) |
 | Galaxy Citizen | 202538 | [202538-galaxy-citizen.json](./202538-galaxy-citizen.json) |
 | Galaxy Citizen: Beginning | 202468 | [202468-galaxy-citizen-beginning.json](./202468-galaxy-citizen-beginning.json) |
 | Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
+| Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Xth: Code Breaker | 14683 | [14683-generation-xth-code-breaker.json](./14683-generation-xth-code-breaker.json) |
 | Generation Xth: Code Hazard | 14682 | [14682-generation-xth-code-hazard.json](./14682-generation-xth-code-hazard.json) |
 | Generation Xth: Code Realize | 14684 | [14684-generation-xth-code-realize.json](./14684-generation-xth-code-realize.json) |
@@ -9996,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Gun Gauntlet | 70881 | [70881-great-gun-gauntlet.json](./70881-great-gun-gauntlet.json) |
 | Great Guns | 40321 | [40321-great-guns.json](./40321-great-guns.json) |
 | Great Harvester | 353807 | [353807-great-harvester.json](./353807-great-harvester.json) |
+| Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
 | Great Hopes City I | 244390 | [244390-great-hopes-city-i.json](./244390-great-hopes-city-i.json) |
 | Great Houses of Calderia | 192680 | [192680-great-houses-of-calderia.json](./192680-great-houses-of-calderia.json) |
