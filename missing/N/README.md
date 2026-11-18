@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbors: Suburban Warfare | 207595 | [207595-neighbors-suburban-warfare.json](./207595-neighbors-suburban-warfare.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Loot | 126751 | [126751-neighbourhood-loot.json](./126751-neighbourhood-loot.json) |
+| Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
 | Neighbours | 12699 | [12699-neighbours.json](./12699-neighbours.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
 | Neighbours from Hell | 243025 | [243025-neighbours-from-hell.json](./243025-neighbours-from-hell.json) |
@@ -4619,6 +4620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nico: Ittekimasu no Oheya | 278800 | [278800-nico-ittekimasu-no-oheya.json](./278800-nico-ittekimasu-no-oheya.json) |
 | Nicodemus: Demon of Evanishment | 246637 | [246637-nicodemus-demon-of-evanishment.json](./246637-nicodemus-demon-of-evanishment.json) |
 | Nicola Kanshuu: Model Oshare Audition Platina | 222456 | [222456-nicola-kanshuu-model-oshare-audition-platina.json](./222456-nicola-kanshuu-model-oshare-audition-platina.json) |
+| Nicolas Eymerich The Inquisitor Book II: The Village | 36332 | [36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json](./36332-nicolas-eymerich-the-inquisitor-book-ii-the-village.json) |
+| Nicolas Eymerich the Inquisitor: Book 1 - The Plague | 36410 | [36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json](./36410-nicolas-eymerich-the-inquisitor-book-1-the-plague.json) |
 | Nicolás the Sea Urchin | 265930 | [265930-nicolas-the-sea-urchin.json](./265930-nicolas-the-sea-urchin.json) |
 | Nicolay's Adventure | 29734 | [29734-nicolays-adventure.json](./29734-nicolays-adventure.json) |
 | Nicole | 62592 | [62592-nicole.json](./62592-nicole.json) |
