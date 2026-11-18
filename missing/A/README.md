@@ -6099,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Iijima: Good Island Cafe | 45446 | [45446-ai-iijima-good-island-cafe.json](./45446-ai-iijima-good-island-cafe.json) |
 | AI is home | 413840 | [413840-ai-is-home.json](./413840-ai-is-home.json) |
 | Ai ka, Sabishisa ni Nita Nani ka. | 425909 | [425909-ai-ka-sabishisa-ni-nita-nani-ka.json](./425909-ai-ka-sabishisa-ni-nita-nani-ka.json) |
+| AI Kill Alice | 332716 | [332716-ai-kill-alice.json](./332716-ai-kill-alice.json) |
 | AI Kills All Humans | 258425 | [258425-ai-kills-all-humans.json](./258425-ai-kills-all-humans.json) |
 | Ai Kiss FD: Nanase After | 396021 | [396021-ai-kiss-fd-nanase-after.json](./396021-ai-kiss-fd-nanase-after.json) |
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
@@ -7254,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
 | Al Qmrah Restaurant | 213975 | [213975-al-qmrah-restaurant.json](./213975-al-qmrah-restaurant.json) |
 | Al Rocío | 240269 | [240269-al-rocio.json](./240269-al-rocio.json) |
+| Al Sira | 336788 | [336788-al-sira.json](./336788-al-sira.json) |
 | Al Unser Jr. Arcade Racing | 79009 | [79009-al-unser-jr-arcade-racing.json](./79009-al-unser-jr-arcade-racing.json) |
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
@@ -9482,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
 | Alvin and the Chipmunks: The Squeakquel | 4671 | [4671-alvin-and-the-chipmunks-the-squeakquel.json](./4671-alvin-and-the-chipmunks-the-squeakquel.json) |
+| Alvin and the Deathmunks | 332721 | [332721-alvin-and-the-deathmunks.json](./332721-alvin-and-the-deathmunks.json) |
 | Alvin the Android | 70001 | [70001-alvin-the-android.json](./70001-alvin-the-android.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
@@ -17883,6 +17886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin’s Creed Rogue: Templar Legacy Pack | 151547 | [151547-assassin-s-creed-rogue-templar-legacy-pack.json](./151547-assassin-s-creed-rogue-templar-legacy-pack.json) |
 | Assassin's Creed Rogue: Time Saver - Activities Pack | 151550 | [151550-assassins-creed-rogue-time-saver-activities-pack.json](./151550-assassins-creed-rogue-time-saver-activities-pack.json) |
 | Assassin’s Creed Rogue: Time Saver - Collectibles Pack | 151546 | [151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json](./151546-assassin-s-creed-rogue-time-saver-collectibles-pack.json) |
+| Assassin's Creed Shadows: Digital Deluxe Edition | 336776 | [336776-assassins-creed-shadows-digital-deluxe-edition.json](./336776-assassins-creed-shadows-digital-deluxe-edition.json) |
 | Assassin's Creed Shadows: Gold Edition | 301518 | [301518-assassins-creed-shadows-gold-edition.json](./301518-assassins-creed-shadows-gold-edition.json) |
 | Assassin's Creed Shadows: Limited Edition | 301517 | [301517-assassins-creed-shadows-limited-edition.json](./301517-assassins-creed-shadows-limited-edition.json) |
 | Assassin's Creed Shadows: Special Edition | 410946 | [410946-assassins-creed-shadows-special-edition.json](./410946-assassins-creed-shadows-special-edition.json) |
@@ -19822,6 +19826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
+| Attack of the Weeaboo Invaders | 332714 | [332714-attack-of-the-weeaboo-invaders.json](./332714-attack-of-the-weeaboo-invaders.json) |
 | Attack of The Worker | 292355 | [292355-attack-of-the-worker.json](./292355-attack-of-the-worker.json) |
 | Attack of the Zolgear | 58775 | [58775-attack-of-the-zolgear.json](./58775-attack-of-the-zolgear.json) |
 | Attack of the Zombie Bikini Babes From Outer Space | 24276 | [24276-attack-of-the-zombie-bikini-babes-from-outer-space.json](./24276-attack-of-the-zombie-bikini-babes-from-outer-space.json) |
@@ -21442,6 +21447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
 | Azumanga Daioh! The Druglord Game | 210509 | [210509-azumanga-daioh-the-druglord-game.json](./210509-azumanga-daioh-the-druglord-game.json) |
 | Azumanga Donjara Daiou | 166444 | [166444-azumanga-donjara-daiou.json](./166444-azumanga-donjara-daiou.json) |
+| Azumanga Donjara Daiou DX | 336790 | [336790-azumanga-donjara-daiou-dx.json](./336790-azumanga-donjara-daiou-dx.json) |
 | Azumanga Fighter: Come Back! | 328279 | [328279-azumanga-fighter-come-back.json](./328279-azumanga-fighter-come-back.json) |
 | Azumanga RPG | 222347 | [222347-azumanga-rpg.json](./222347-azumanga-rpg.json) |
 | Azumanga: The Fighting T-Style | 222493 | [222493-azumanga-the-fighting-t-style.json](./222493-azumanga-the-fighting-t-style.json) |
