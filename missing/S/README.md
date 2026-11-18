@@ -1213,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt Lake 2002 | 6584 | [6584-salt-lake-2002.json](./6584-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt of the Earth | 401516 | [401516-salt-of-the-earth.json](./401516-salt-of-the-earth.json) |
+| Salt of the Earth | 417016 | [417016-salt-of-the-earth.json](./417016-salt-of-the-earth.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
 | Salt Thrust | 75393 | [75393-salt-thrust.json](./75393-salt-thrust.json) |
 | Salt vs. Pepper | 391375 | [391375-salt-vs-pepper.json](./391375-salt-vs-pepper.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage | 377349 | [377349-salvage.json](./377349-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
 | Salvage Duty | 179769 | [179769-salvage-duty.json](./179769-salvage-duty.json) |
+| Salvage of the Demetria | 417022 | [417022-salvage-of-the-demetria.json](./417022-salvage-of-the-demetria.json) |
 | Salvage Op | 30336 | [30336-salvage-op.json](./30336-salvage-op.json) |
 | Salvage Protocol | 342544 | [342544-salvage-protocol.json](./342544-salvage-protocol.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpture | 371793 | [371793-sculpture.json](./371793-sculpture.json) |
 | Sculpture Hentai Edition | 367891 | [367891-sculpture-hentai-edition.json](./367891-sculpture-hentai-edition.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
+| Sculpturillo | 417017 | [417017-sculpturillo.json](./417017-sculpturillo.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum | 31712 | [31712-scum.json](./31712-scum.json) |
 | Scum Haters | 73101 | [73101-scum-haters.json](./73101-scum-haters.json) |
@@ -14737,6 +14740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyrama | 251300 | [251300-skyrama.json](./251300-skyrama.json) |
 | Skyratz | 157366 | [157366-skyratz.json](./157366-skyratz.json) |
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
+| Skyreach | 417026 | [417026-skyreach.json](./417026-skyreach.json) |
 | SkyRider | 191582 | [191582-skyrider.json](./191582-skyrider.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyriders | 200099 | [200099-skyriders.json](./200099-skyriders.json) |
@@ -15540,6 +15544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Forest | 58947 | [58947-slime-forest.json](./58947-slime-forest.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Girl Smoothies | 153032 | [153032-slime-girl-smoothies.json](./153032-slime-girl-smoothies.json) |
+| Slime Glutton | 417020 | [417020-slime-glutton.json](./417020-slime-glutton.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
@@ -32917,6 +32922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subfault | 404509 | [404509-subfault.json](./404509-subfault.json) |
 | SUBG: Surgical Battlegrounds Multiplayer | 175039 | [175039-subg-surgical-battlegrounds-multiplayer.json](./175039-subg-surgical-battlegrounds-multiplayer.json) |
 | SubGlobal | 59725 | [59725-subglobal.json](./59725-subglobal.json) |
+| Subgloom | 417037 | [417037-subgloom.json](./417037-subgloom.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
 | Subject | 237177 | [237177-subject.json](./237177-subject.json) |
 | Subject 26 | 178497 | [178497-subject-26.json](./178497-subject-26.json) |
@@ -39267,6 +39273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi for Robots | 177320 | [177320-sushi-for-robots.json](./177320-sushi-for-robots.json) |
 | Sushi Frenzy | 53694 | [53694-sushi-frenzy.json](./53694-sushi-frenzy.json) |
 | Sushi Fun | 219111 | [219111-sushi-fun.json](./219111-sushi-fun.json) |
+| Sushi Gacha: Auto Battler | 417047 | [417047-sushi-gacha-auto-battler.json](./417047-sushi-gacha-auto-battler.json) |
 | Sushi girlfriend | 129718 | [129718-sushi-girlfriend.json](./129718-sushi-girlfriend.json) |
 | Sushi Go! | 99894 | [99894-sushi-go.json](./99894-sushi-go.json) |
 | Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
