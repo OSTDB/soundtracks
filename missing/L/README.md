@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Bezogia | 246145 | [246145-legends-of-bezogia.json](./246145-legends-of-bezogia.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
+| Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Castile | 240636 | [240636-legends-of-castile.json](./240636-legends-of-castile.json) |
 | Legends of Catalonia | 118653 | [118653-legends-of-catalonia.json](./118653-legends-of-catalonia.json) |
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
@@ -8255,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
 | Lonely Space | 274363 | [274363-lonely-space.json](./274363-lonely-space.json) |
+| Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Survivor | 214295 | [214295-lonely-survivor.json](./214295-lonely-survivor.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
@@ -11080,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous | 382191 | [382191-luminous.json](./382191-luminous.json) |
 | Luminous Arc | 21447 | [21447-luminous-arc.json](./21447-luminous-arc.json) |
 | Luminous Arc 2 | 21330 | [21330-luminous-arc-2.json](./21330-luminous-arc-2.json) |
+| Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
 | Luminous Corridor 0 | 134779 | [134779-luminous-corridor-0.json](./134779-luminous-corridor-0.json) |
