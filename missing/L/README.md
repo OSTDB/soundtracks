@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
 | Lantern Bearer | 164114 | [164114-lantern-bearer.json](./164114-lantern-bearer.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
+| Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
