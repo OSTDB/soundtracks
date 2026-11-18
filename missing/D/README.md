@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Underworld | 261568 | [261568-dead-underworld.json](./261568-dead-underworld.json) |
 | Dead Unending | 234268 | [234268-dead-unending.json](./234268-dead-unending.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
+| Dead Vision | 394847 | [394847-dead-vision.json](./394847-dead-vision.json) |
 | Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
 | Dead Warrior Tribute | 141294 | [141294-dead-warrior-tribute.json](./141294-dead-warrior-tribute.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
@@ -8338,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desierto | 327872 | [327872-desierto.json](./327872-desierto.json) |
 | Design & Conjure | 270984 | [270984-design-and-conjure.json](./270984-design-and-conjure.json) |
 | Design A Train | 106083 | [106083-design-a-train.json](./106083-design-a-train.json) |
+| Design Girl Team | 392517 | [392517-design-girl-team.json](./392517-design-girl-team.json) |
 | Design Hero | 107305 | [107305-design-hero.json](./107305-design-hero.json) |
 | Design Home | 54707 | [54707-design-home.json](./54707-design-home.json) |
 | Design It Girl! | 96306 | [96306-design-it-girl.json](./96306-design-it-girl.json) |
@@ -12657,6 +12659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
 | Divide By Sheep 2 | 333981 | [333981-divide-by-sheep-2.json](./333981-divide-by-sheep-2.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
+| Divide TCG | 397317 | [397317-divide-tcg.json](./397317-divide-tcg.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Dungeon | 167477 | [167477-divided-dungeon.json](./167477-divided-dungeon.json) |
 | Divided Empire: Sengoku | 423235 | [423235-divided-empire-sengoku.json](./423235-divided-empire-sengoku.json) |
