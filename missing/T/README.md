@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 3: Deluxe Edition | 154211 | [154211-the-banner-saga-3-deluxe-edition.json](./154211-the-banner-saga-3-deluxe-edition.json) |
 | The Banner Saga 3: Eternal Arena | 124851 | [124851-the-banner-saga-3-eternal-arena.json](./124851-the-banner-saga-3-eternal-arena.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
+| The Banner Saga Trilogy | 109108 | [109108-the-banner-saga-trilogy.json](./109108-the-banner-saga-trilogy.json) |
 | The Banner Saga Trilogy: Bonus Edition | 96369 | [96369-the-banner-saga-trilogy-bonus-edition.json](./96369-the-banner-saga-trilogy-bonus-edition.json) |
 | The Banner Saga Trilogy: Stoic Edition | 169191 | [169191-the-banner-saga-trilogy-stoic-edition.json](./169191-the-banner-saga-trilogy-stoic-edition.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
@@ -7978,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Burns! | 239153 | [239153-the-castle-burns.json](./239153-the-castle-burns.json) |
 | The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
+| The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
 | The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
 | The Castle Mystery | 266020 | [266020-the-castle-mystery.json](./266020-the-castle-mystery.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
@@ -7992,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castles of Doctor Creep | 24683 | [24683-the-castles-of-doctor-creep.json](./24683-the-castles-of-doctor-creep.json) |
 | The Cat | 289315 | [289315-the-cat.json](./289315-the-cat.json) |
 | The Cat and the Box | 116747 | [116747-the-cat-and-the-box.json](./116747-the-cat-and-the-box.json) |
+| The Cat and the Coup | 16241 | [16241-the-cat-and-the-coup.json](./16241-the-cat-and-the-coup.json) |
 | The Cat and the Coup (4K Remaster) | 107750 | [107750-the-cat-and-the-coup-4k-remaster.json](./107750-the-cat-and-the-coup-4k-remaster.json) |
 | The Cat Banny | 157737 | [157737-the-cat-banny.json](./157737-the-cat-banny.json) |
 | The Cat Family | 82200 | [82200-the-cat-family.json](./82200-the-cat-family.json) |
@@ -8370,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
 | The College Fantasy Before the End of the Empire | 298349 | [298349-the-college-fantasy-before-the-end-of-the-empire.json](./298349-the-college-fantasy-before-the-end-of-the-empire.json) |
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
+| The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
 | The Colonists: New Lands | 293808 | [293808-the-colonists-new-lands.json](./293808-the-colonists-new-lands.json) |
 | The Colony | 108668 | [108668-the-colony.json](./108668-the-colony.json) |
@@ -8554,6 +8558,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
 | The Council: Episode 1 - The Mad Ones | 81117 | [81117-the-council-episode-1-the-mad-ones.json](./81117-the-council-episode-1-the-mad-ones.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
+| The Council: Episode 3 - Ripples | 106296 | [106296-the-council-episode-3-ripples.json](./106296-the-council-episode-3-ripples.json) |
+| The Council: Episode 4 - Burning Bridges | 110872 | [110872-the-council-episode-4-burning-bridges.json](./110872-the-council-episode-4-burning-bridges.json) |
 | The Count | 18518 | [18518-the-count.json](./18518-the-count.json) |
 | The Count is Down for Blood | 411533 | [411533-the-count-is-down-for-blood.json](./411533-the-count-is-down-for-blood.json) |
 | The Count Lucanor | 21767 | [21767-the-count-lucanor.json](./21767-the-count-lucanor.json) |
@@ -8851,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of the Demon Tree | 318884 | [318884-the-curse-of-the-demon-tree.json](./318884-the-curse-of-the-demon-tree.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
 | The Curse of the Howling Woods | 332321 | [332321-the-curse-of-the-howling-woods.json](./332321-the-curse-of-the-howling-woods.json) |
+| The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of The Wise Tree | 230463 | [230463-the-curse-of-the-wise-tree.json](./230463-the-curse-of-the-wise-tree.json) |
 | The Curse of Town | 337050 | [337050-the-curse-of-town.json](./337050-the-curse-of-town.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
@@ -10062,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Backgate | 372807 | [372807-the-endless-backgate.json](./372807-the-endless-backgate.json) |
 | The Endless Dream | 253833 | [253833-the-endless-dream.json](./253833-the-endless-dream.json) |
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
+| The Endless Empty | 111012 | [111012-the-endless-empty.json](./111012-the-endless-empty.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
 | The Endless Harvest | 423651 | [423651-the-endless-harvest.json](./423651-the-endless-harvest.json) |
@@ -11870,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand | 40351 | [40351-the-hand.json](./40351-the-hand.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand Job! | 176407 | [176407-the-hand-job.json](./176407-the-hand-job.json) |
+| The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
 | The Hand of Glory: The Blowtorch Files | 197455 | [197455-the-hand-of-glory-the-blowtorch-files.json](./197455-the-hand-of-glory-the-blowtorch-files.json) |
 | The Hand of Merlin | 103591 | [103591-the-hand-of-merlin.json](./103591-the-hand-of-merlin.json) |
 | The Hand of Merlin: Deluxe Edition | 169164 | [169164-the-hand-of-merlin-deluxe-edition.json](./169164-the-hand-of-merlin-deluxe-edition.json) |
@@ -13884,6 +13893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Song of Witch | 398371 | [398371-the-last-song-of-witch.json](./398371-the-last-song-of-witch.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
+| The Last Sovereign | 112348 | [112348-the-last-sovereign.json](./112348-the-last-sovereign.json) |
 | The Last Spark | 165297 | [165297-the-last-spark.json](./165297-the-last-spark.json) |
 | The Last Spell: Dwarves of Runenberg | 296839 | [296839-the-last-spell-dwarves-of-runenberg.json](./296839-the-last-spell-dwarves-of-runenberg.json) |
 | The Last Spell: Elves of Amberwald | 341399 | [341399-the-last-spell-elves-of-amberwald.json](./341399-the-last-spell-elves-of-amberwald.json) |
@@ -14643,6 +14653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light in the Darkness | 237578 | [237578-the-light-in-the-darkness.json](./237578-the-light-in-the-darkness.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
+| The Light Keeps Us Safe | 105498 | [105498-the-light-keeps-us-safe.json](./105498-the-light-keeps-us-safe.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Light Of Our Yearning | 382968 | [382968-the-light-of-our-yearning.json](./382968-the-light-of-our-yearning.json) |
 | The Light of Summer | 137154 | [137154-the-light-of-summer.json](./137154-the-light-of-summer.json) |
@@ -17162,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince's Heart | 185167 | [185167-the-princes-heart.json](./185167-the-princes-heart.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess Adventure | 102477 | [102477-the-princess-adventure.json](./102477-the-princess-adventure.json) |
+| The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
 | The Princess and the Portals | 413868 | [413868-the-princess-and-the-portals.json](./413868-the-princess-and-the-portals.json) |
@@ -18377,6 +18389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: New Allies - Starter Pack | 294011 | [294011-the-settlers-new-allies-starter-pack.json](./294011-the-settlers-new-allies-starter-pack.json) |
 | The Settlers: Rise of an Empire | 3700 | [3700-the-settlers-rise-of-an-empire.json](./3700-the-settlers-rise-of-an-empire.json) |
 | The Settlers: Rise of an Empire - Gold Edition | 27830 | [27830-the-settlers-rise-of-an-empire-gold-edition.json](./27830-the-settlers-rise-of-an-empire-gold-edition.json) |
+| The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Settlers: Smack a Thief! | 70502 | [70502-the-settlers-smack-a-thief.json](./70502-the-settlers-smack-a-thief.json) |
@@ -21503,6 +21516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wishing Stone | 148901 | [148901-the-wishing-stone.json](./148901-the-wishing-stone.json) |
 | The Wit.nes | 79140 | [79140-the-wit-nes.json](./79140-the-wit-nes.json) |
 | The Witch | 292633 | [292633-the-witch.json](./292633-the-witch.json) |
+| The Witch & the 66 Mushrooms | 105643 | [105643-the-witch-and-the-66-mushrooms.json](./105643-the-witch-and-the-66-mushrooms.json) |
 | The Witch and Her Assistant | 183460 | [183460-the-witch-and-her-assistant.json](./183460-the-witch-and-her-assistant.json) |
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
 | The Witch and the Child | 315785 | [315785-the-witch-and-the-child.json](./315785-the-witch-and-the-child.json) |
@@ -21894,6 +21908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | The400 Mini | 286590 | [286590-the400-mini.json](./286590-the400-mini.json) |
 | Thea 2: Rat Tales & More | 249721 | [249721-thea-2-rat-tales-and-more.json](./249721-thea-2-rat-tales-and-more.json) |
+| Thea 2: The Shattering | 110415 | [110415-thea-2-the-shattering.json](./110415-thea-2-the-shattering.json) |
 | Thea Bundle | 192306 | [192306-thea-bundle.json](./192306-thea-bundle.json) |
 | Thea is Drowning | 179072 | [179072-thea-is-drowning.json](./179072-thea-is-drowning.json) |
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
@@ -23238,6 +23253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through | 338969 | [338969-through.json](./338969-through.json) |
 | Through | 94765 | [94765-through.json](./94765-through.json) |
 | Through Abandoned 2: The Forest | 31779 | [31779-through-abandoned-2-the-forest.json](./31779-through-abandoned-2-the-forest.json) |
+| Through Abandoned: The Refuge | 115225 | [115225-through-abandoned-the-refuge.json](./115225-through-abandoned-the-refuge.json) |
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Andrea's Eyes | 416230 | [416230-through-andreas-eyes.json](./416230-through-andreas-eyes.json) |
 | Through Blocks | 74213 | [74213-through-blocks.json](./74213-through-blocks.json) |
@@ -26004,6 +26020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Master | 142008 | [142008-time-master.json](./142008-time-master.json) |
+| Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries 3: The Final Enigma - Collector's Edition | 416215 | [416215-time-mysteries-3-the-final-enigma-collectors-edition.json](./416215-time-mysteries-3-the-final-enigma-collectors-edition.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
 | Time Mysteries: Inheritance | 58495 | [58495-time-mysteries-inheritance.json](./58495-time-mysteries-inheritance.json) |
@@ -26486,6 +26503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Auto Knights: Supporter Pack | 399808 | [399808-tiny-auto-knights-supporter-pack.json](./399808-tiny-auto-knights-supporter-pack.json) |
 | Tiny Bakery | 374400 | [374400-tiny-bakery.json](./374400-tiny-bakery.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
+| Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
 | Tiny Battle Simulator | 107431 | [107431-tiny-battle-simulator.json](./107431-tiny-battle-simulator.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
@@ -26588,6 +26606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Golf | 307505 | [307505-tiny-golf.json](./307505-tiny-golf.json) |
 | Tiny Golf Adventure | 207412 | [207412-tiny-golf-adventure.json](./207412-tiny-golf-adventure.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
+| Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
 | Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
 | Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
@@ -27220,6 +27239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be Connected | 390596 | [390596-to-be-connected.json](./390596-to-be-connected.json) |
 | To Be In Love With Girls Group | 289941 | [289941-to-be-in-love-with-girls-group.json](./289941-to-be-in-love-with-girls-group.json) |
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
+| To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
 | To Be or Not to Be | 224929 | [224929-to-be-or-not-to-be.json](./224929-to-be-or-not-to-be.json) |
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
 | To Be With Him | 401221 | [401221-to-be-with-him.json](./401221-to-be-with-him.json) |
@@ -33057,6 +33077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2006: Routes Volume 3 | 206166 | [206166-trainz-railroad-simulator-2006-routes-volume-3.json](./206166-trainz-railroad-simulator-2006-routes-volume-3.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 4 | 206167 | [206167-trainz-railroad-simulator-2006-routes-volume-4.json](./206167-trainz-railroad-simulator-2006-routes-volume-4.json) |
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
+| Trainz Railroad Simulator 2019 | 113400 | [113400-trainz-railroad-simulator-2019.json](./113400-trainz-railroad-simulator-2019.json) |
 | Trainz Railroad Simulator 2019 Pro Train - SD40-2 Loco Bundle 3 | 291137 | [291137-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-3.json](./291137-trainz-railroad-simulator-2019-pro-train-sd40-2-loco-bundle-3.json) |
 | Trainz Railroad Simulator 2019: Aerotrain | 153118 | [153118-trainz-railroad-simulator-2019-aerotrain.json](./153118-trainz-railroad-simulator-2019-aerotrain.json) |
 | Trainz Railroad Simulator 2019: Amtrak F40PH 2 pack | 153172 | [153172-trainz-railroad-simulator-2019-amtrak-f40ph-2-pack.json](./153172-trainz-railroad-simulator-2019-amtrak-f40ph-2-pack.json) |
@@ -34449,6 +34470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Seekers: Visions of Gold | 64728 | [64728-treasure-seekers-visions-of-gold.json](./64728-treasure-seekers-visions-of-gold.json) |
 | Treasure Seekers: Visions of Gold HD | 24285 | [24285-treasure-seekers-visions-of-gold-hd.json](./24285-treasure-seekers-visions-of-gold-hd.json) |
 | Treasure Sprinter | 192265 | [192265-treasure-sprinter.json](./192265-treasure-sprinter.json) |
+| Treasure Stack | 107296 | [107296-treasure-stack.json](./107296-treasure-stack.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
 | Treasure Strike | 62110 | [62110-treasure-strike.json](./62110-treasure-strike.json) |
 | Treasure Submarine | 245640 | [245640-treasure-submarine.json](./245640-treasure-submarine.json) |
