@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trigger 2 | 128197 | [128197-war-trigger-2.json](./128197-war-trigger-2.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
 | War Trigger Classic | 107690 | [107690-war-trigger-classic.json](./107690-war-trigger-classic.json) |
+| War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
 | War War | 168655 | [168655-war-war.json](./168655-war-war.json) |
 | War War War: Smiles vs. Ghosts | 108364 | [108364-war-war-war-smiles-vs-ghosts.json](./108364-war-war-war-smiles-vs-ghosts.json) |
@@ -5956,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
 | Wild River Run: Map Pack - Sci-FI | 282211 | [282211-wild-river-run-map-pack-sci-fi.json](./282211-wild-river-run-map-pack-sci-fi.json) |
 | Wild Roads | 233070 | [233070-wild-roads.json](./233070-wild-roads.json) |
+| Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Roots | 374874 | [374874-wild-roots.json](./374874-wild-roots.json) |
 | Wild RTS | 76022 | [76022-wild-rts.json](./76022-wild-rts.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
