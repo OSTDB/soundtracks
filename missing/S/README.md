@@ -19107,7 +19107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude: UTSS-4005 | 407608 | [407608-solitude-utss-4005.json](./407608-solitude-utss-4005.json) |
 | Solitune | 28266 | [28266-solitune.json](./28266-solitune.json) |
 | Solium Infernum | 220883 | [220883-solium-infernum.json](./220883-solium-infernum.json) |
-| Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
 | Solium Infernum: Rectification | 238837 | [238837-solium-infernum-rectification.json](./238837-solium-infernum-rectification.json) |
 | Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
@@ -38571,6 +38570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supply Chain Idle | 110677 | [110677-supply-chain-idle.json](./110677-supply-chain-idle.json) |
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
+| Supply Line | 416393 | [416393-supply-line.json](./416393-supply-line.json) |
 | Support | 425434 | [425434-support.json](./425434-support.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
