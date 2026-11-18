@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ia Scatter City | 258949 | [258949-ia-scatter-city.json](./258949-ia-scatter-city.json) |
 | IA/VT Colorful | 26994 | [26994-ia-vt-colorful.json](./26994-ia-vt-colorful.json) |
 | Iactura | 31736 | [31736-iactura.json](./31736-iactura.json) |
+| IAFT Fear Diagnosis | 430147 | [430147-iaft-fear-diagnosis.json](./430147-iaft-fear-diagnosis.json) |
 | Iago | 377876 | [377876-iago.json](./377876-iago.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
@@ -7399,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isostasy | 212989 | [212989-isostasy.json](./212989-isostasy.json) |
 | Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | Isotope: ASH | 217235 | [217235-isotope-ash.json](./217235-isotope-ash.json) |
+| Isotope: Unstable Atom Puzzles | 430139 | [430139-isotope-unstable-atom-puzzles.json](./430139-isotope-unstable-atom-puzzles.json) |
 | Isotopia | 284423 | [284423-isotopia.json](./284423-isotopia.json) |
 | Isotower | 114217 | [114217-isotower.json](./114217-isotower.json) |
 | Isowords | 238397 | [238397-isowords.json](./238397-isowords.json) |
