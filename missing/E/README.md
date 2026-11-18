@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eekeemoo - Splinters of the Dark Shard | 34172 | [34172-eekeemoo-splinters-of-the-dark-shard.json](./34172-eekeemoo-splinters-of-the-dark-shard.json) |
 | EekoWorld | 234400 | [234400-eekoworld.json](./234400-eekoworld.json) |
+| Eekscape: Everyone Panic! | 417021 | [417021-eekscape-everyone-panic.json](./417021-eekscape-everyone-panic.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Machines | 414044 | [414044-endless-machines.json](./414044-endless-machines.json) |
 | Endless mahjong | 165782 | [165782-endless-mahjong.json](./165782-endless-mahjong.json) |
+| Endless Mall | 417046 | [417046-endless-mall.json](./417046-endless-mall.json) |
 | Endless Maneuver | 112445 | [112445-endless-maneuver.json](./112445-endless-maneuver.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Match | 191147 | [191147-endless-match.json](./191147-endless-match.json) |
@@ -5913,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Arcturus | 280948 | [280948-escape-from-arcturus.json](./280948-escape-from-arcturus.json) |
 | Escape From Area 51 | 390439 | [390439-escape-from-area-51.json](./390439-escape-from-area-51.json) |
 | Escape from Area 99 | 284390 | [284390-escape-from-area-99.json](./284390-escape-from-area-99.json) |
+| Escape From Argos 7 | 417054 | [417054-escape-from-argos-7.json](./417054-escape-from-argos-7.json) |
 | Escape from Asura | 135336 | [135336-escape-from-asura.json](./135336-escape-from-asura.json) |
 | Escape from Baba Yaga | 297995 | [297995-escape-from-baba-yaga.json](./297995-escape-from-baba-yaga.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
