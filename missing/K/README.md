@@ -3343,7 +3343,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinduo | 152689 | [152689-kinduo.json](./152689-kinduo.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
-| Kine | 95225 | [95225-kine.json](./95225-kine.json) |
 | Kinect Adventures | 2657 | [2657-kinect-adventures.json](./2657-kinect-adventures.json) |
 | Kinect Bundle: Boom Ball 2 + Squid Hero | 82539 | [82539-kinect-bundle-boom-ball-2-squid-hero.json](./82539-kinect-bundle-boom-ball-2-squid-hero.json) |
 | Kinect Fun Labs | 22939 | [22939-kinect-fun-labs.json](./22939-kinect-fun-labs.json) |
