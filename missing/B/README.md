@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka: Old Lady’s Payback | 389642 | [389642-babushka-old-lady-s-payback.json](./389642-babushka-old-lady-s-payback.json) |
 | Babushka's Glitch Dungeon | 202482 | [202482-babushkas-glitch-dungeon.json](./202482-babushkas-glitch-dungeon.json) |
 | Baby Adventure | 257022 | [257022-baby-adventure.json](./257022-baby-adventure.json) |
+| Baby and Me | 67558 | [67558-baby-and-me.json](./67558-baby-and-me.json) |
 | Baby Animals: Wooden Preschool Puzzle for Kids | 109981 | [109981-baby-animals-wooden-preschool-puzzle-for-kids.json](./109981-baby-animals-wooden-preschool-puzzle-for-kids.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
 | Baby Bananza Races | 404575 | [404575-baby-bananza-races.json](./404575-baby-bananza-races.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Ninja Jump | 89292 | [89292-baby-ninja-jump.json](./89292-baby-ninja-jump.json) |
 | Baby Nom Nom | 20916 | [20916-baby-nom-nom.json](./20916-baby-nom-nom.json) |
 | Baby Pac-Man | 388306 | [388306-baby-pac-man.json](./388306-baby-pac-man.json) |
+| Baby Pac-Man | 46814 | [46814-baby-pac-man.json](./46814-baby-pac-man.json) |
 | Baby Pals | 91753 | [91753-baby-pals.json](./91753-baby-pals.json) |
 | Baby Panda World | 231968 | [231968-baby-panda-world.json](./231968-baby-panda-world.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
@@ -1201,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Fight: Speed Up Edition | 402605 | [402605-bag-fight-speed-up-edition.json](./402605-bag-fight-speed-up-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
+| Bag It! | 22873 | [22873-bag-it.json](./22873-bag-it.json) |
 | Bag of Dreams | 381292 | [381292-bag-of-dreams.json](./381292-bag-of-dreams.json) |
 | Bag of Holding | 182698 | [182698-bag-of-holding.json](./182698-bag-of-holding.json) |
 | Bag Toss | 359328 | [359328-bag-toss.json](./359328-bag-toss.json) |
@@ -1847,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic | 187304 | [187304-ballistic.json](./187304-ballistic.json) |
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
 | Ballistic | 302039 | [302039-ballistic.json](./302039-ballistic.json) |
+| Ballistic | 46811 | [46811-ballistic.json](./46811-ballistic.json) |
 | Ballistic | 80488 | [80488-ballistic.json](./80488-ballistic.json) |
 | Ballistic Baseball | 122761 | [122761-ballistic-baseball.json](./122761-ballistic-baseball.json) |
 | Ballistic Biscuit | 393082 | [393082-ballistic-biscuit.json](./393082-ballistic-biscuit.json) |
@@ -4997,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleParty | 143937 | [143937-battleparty.json](./143937-battleparty.json) |
 | Battlepaths | 9779 | [9779-battlepaths.json](./9779-battlepaths.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
+| Battlepillars | 61777 | [61777-battlepillars.json](./61777-battlepillars.json) |
 | Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | BattlePlan! | 274870 | [274870-battleplan.json](./274870-battleplan.json) |
@@ -5821,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastiarium | 30927 | [30927-beastiarium.json](./30927-beastiarium.json) |
 | Beastie Bay | 22184 | [22184-beastie-bay.json](./22184-beastie-bay.json) |
 | Beastie Bay DX | 186930 | [186930-beastie-bay-dx.json](./186930-beastie-bay-dx.json) |
+| Beastie Feastie | 38596 | [38596-beastie-feastie.json](./38596-beastie-feastie.json) |
 | Beastie Land | 148922 | [148922-beastie-land.json](./148922-beastie-land.json) |
 | Beastieball | 252492 | [252492-beastieball.json](./252492-beastieball.json) |
 | Beasties | 192384 | [192384-beasties.json](./192384-beasties.json) |
@@ -8719,6 +8725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
 | Big Truck: Mine Express Racing | 200265 | [200265-big-truck-mine-express-racing.json](./200265-big-truck-mine-express-racing.json) |
 | Big TV Mary Bar | 48324 | [48324-big-tv-mary-bar.json](./48324-big-tv-mary-bar.json) |
+| Big Twin | 38595 | [38595-big-twin.json](./38595-big-twin.json) |
 | Big Vehicle Simulator Games Bundle: Truck Farming Flight Construction Bus Ship | 269361 | [269361-big-vehicle-simulator-games-bundle-truck-farming-flight-construction-bus-ship.json](./269361-big-vehicle-simulator-games-bundle-truck-farming-flight-construction-bus-ship.json) |
 | Big Watermelon | 149358 | [149358-big-watermelon.json](./149358-big-watermelon.json) |
 | Big Watermelon Galaxy | 420677 | [420677-big-watermelon-galaxy.json](./420677-big-watermelon-galaxy.json) |
@@ -8895,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Match Girls | 395650 | [395650-bikini-match-girls.json](./395650-bikini-match-girls.json) |
 | Bikini Surfer Girl: Wild Wahine | 419799 | [419799-bikini-surfer-girl-wild-wahine.json](./419799-bikini-surfer-girl-wild-wahine.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
+| Bikkuri Card | 38594 | [38594-bikkuri-card.json](./38594-bikkuri-card.json) |
 | Bikkuri Man World | 42085 | [42085-bikkuri-man-world.json](./42085-bikkuri-man-world.json) |
 | Bikkuri Mouse | 269370 | [269370-bikkuri-mouse.json](./269370-bikkuri-mouse.json) |
 | Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
@@ -9622,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Shoot | 84381 | [84381-birdie-shoot.json](./84381-birdie-shoot.json) |
 | Birdie Shoot 2 | 80672 | [80672-birdie-shoot-2.json](./80672-birdie-shoot-2.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
+| Birdie Try | 38593 | [38593-birdie-try.json](./38593-birdie-try.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
 | Birdie Wing: Golf Girls' Story | 244074 | [244074-birdie-wing-golf-girls-story.json](./244074-birdie-wing-golf-girls-story.json) |
 | Birdigo | 333909 | [333909-birdigo.json](./333909-birdigo.json) |
@@ -12149,6 +12158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | BlockGame | 380027 | [380027-blockgame.json](./380027-blockgame.json) |
+| BlockGame | 55365 | [55365-blockgame.json](./55365-blockgame.json) |
 | Blockgeon | 189259 | [189259-blockgeon.json](./189259-blockgeon.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead | 338248 | [338248-blockhead.json](./338248-blockhead.json) |
@@ -13961,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
 | Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
+| BoidWatch | 55364 | [55364-boidwatch.json](./55364-boidwatch.json) |
 | Boiiing Boiiing | 334388 | [334388-boiiing-boiiing.json](./334388-boiiing-boiiing.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
@@ -16149,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box box | 174078 | [174078-box-box.json](./174078-box-box.json) |
 | Box Box Box! | 379055 | [379055-box-box-box.json](./379055-box-box-box.json) |
 | Box Boy! + Box Girl! | 115281 | [115281-box-boy-box-girl.json](./115281-box-boy-box-girl.json) |
+| Box Cat | 22864 | [22864-box-cat.json](./22864-box-cat.json) |
 | Box Cat Bash | 155900 | [155900-box-cat-bash.json](./155900-box-cat-bash.json) |
 | Box Cats Puzzle | 158928 | [158928-box-cats-puzzle.json](./158928-box-cats-puzzle.json) |
 | Box Cats Puzzle: Cat Year 2022 | 195426 | [195426-box-cats-puzzle-cat-year-2022.json](./195426-box-cats-puzzle-cat-year-2022.json) |
