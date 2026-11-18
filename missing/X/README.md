@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
 | XCOM: Enemy Unknown - The Complete Edition | 52118 | [52118-xcom-enemy-unknown-the-complete-edition.json](./52118-xcom-enemy-unknown-the-complete-edition.json) |
 | XCOM: Enemy Unknown Plus | 95365 | [95365-xcom-enemy-unknown-plus.json](./95365-xcom-enemy-unknown-plus.json) |
+| XCOM: Enemy Within | 143076 | [143076-xcom-enemy-within.json](./143076-xcom-enemy-within.json) |
 | XCOM: Enemy Within | 5894 | [5894-xcom-enemy-within.json](./5894-xcom-enemy-within.json) |
 | XCOM: Enemy Within - Commander Edition | 307236 | [307236-xcom-enemy-within-commander-edition.json](./307236-xcom-enemy-within-commander-edition.json) |
 | XCOM: Long War | 287457 | [287457-xcom-long-war.json](./287457-xcom-long-war.json) |
@@ -679,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
 | Xenoblade Chronicles: Definitive Edition | 122238 | [122238-xenoblade-chronicles-definitive-edition.json](./122238-xenoblade-chronicles-definitive-edition.json) |
 | Xenoblade Chronicles: Definitive Edition - Collector's Set | 136777 | [136777-xenoblade-chronicles-definitive-edition-collectors-set.json](./136777-xenoblade-chronicles-definitive-edition-collectors-set.json) |
+| Xenoblade Chronicles: Future Connected | 134328 | [134328-xenoblade-chronicles-future-connected.json](./134328-xenoblade-chronicles-future-connected.json) |
 | Xenoblade Genesis | 405450 | [405450-xenoblade-genesis.json](./405450-xenoblade-genesis.json) |
 | XenoBloom | 34734 | [34734-xenobloom.json](./34734-xenobloom.json) |
 | Xenobox VR | 43062 | [43062-xenobox-vr.json](./43062-xenobox-vr.json) |
@@ -1134,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan-Yuan Sword 4: The Black Dragon Dances as the Storm Rages | 81534 | [81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json](./81534-xuan-yuan-sword-4-the-black-dragon-dances-as-the-storm-rages.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
+| Xuan-Yuan Sword VII | 132675 | [132675-xuan-yuan-sword-vii.json](./132675-xuan-yuan-sword-vii.json) |
 | Xuan-Yuan Sword VII: Limited Edition | 167135 | [167135-xuan-yuan-sword-vii-limited-edition.json](./167135-xuan-yuan-sword-vii-limited-edition.json) |
 | Xuan-Yuan Sword: Dance of the Maple Leaves | 78056 | [78056-xuan-yuan-sword-dance-of-the-maple-leaves.json](./78056-xuan-yuan-sword-dance-of-the-maple-leaves.json) |
 | Xuan-Yuan Sword: Mists Beyond the Mountains | 336910 | [336910-xuan-yuan-sword-mists-beyond-the-mountains.json](./336910-xuan-yuan-sword-mists-beyond-the-mountains.json) |
