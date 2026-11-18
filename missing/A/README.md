@@ -4148,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Strategic Command | 63246 | [63246-advanced-strategic-command.json](./63246-advanced-strategic-command.json) |
 | Advanced T-Robots | 322052 | [322052-advanced-t-robots.json](./322052-advanced-t-robots.json) |
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
+| Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
 | Advanced V.G. 2 | 44799 | [44799-advanced-v-g-2.json](./44799-advanced-v-g-2.json) |
@@ -9483,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Green | 177721 | [177721-always-green.json](./177721-always-green.json) |
 | Always Higher | 32196 | [32196-always-higher.json](./32196-always-higher.json) |
 | Always in Mind | 275550 | [275550-always-in-mind.json](./275550-always-in-mind.json) |
+| Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
@@ -9656,6 +9658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amayui Castle Meister | 124998 | [124998-amayui-castle-meister.json](./124998-amayui-castle-meister.json) |
 | Amayui Labyrinth Meister | 191634 | [191634-amayui-labyrinth-meister.json](./191634-amayui-labyrinth-meister.json) |
 | Amaz'd | 367747 | [367747-amazd.json](./367747-amazd.json) |
+| Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
 | Amaze ABC | 107849 | [107849-amaze-abc.json](./107849-amaze-abc.json) |
 | aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
@@ -16423,6 +16426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Head | 139033 | [139033-armored-head.json](./139033-armored-head.json) |
 | Armored Heroes | 242204 | [242204-armored-heroes.json](./242204-armored-heroes.json) |
 | Armored Hongfeng | 330665 | [330665-armored-hongfeng.json](./330665-armored-hongfeng.json) |
+| Armored Hunter Gunhound EX | 36391 | [36391-armored-hunter-gunhound-ex.json](./36391-armored-hunter-gunhound-ex.json) |
 | Armored Kitten | 67904 | [67904-armored-kitten.json](./67904-armored-kitten.json) |
 | Armored Lab Force Vulvehicles | 211443 | [211443-armored-lab-force-vulvehicles.json](./211443-armored-lab-force-vulvehicles.json) |
 | Armored Moon | 62314 | [62314-armored-moon.json](./62314-armored-moon.json) |
@@ -16772,6 +16776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arson | 223660 | [223660-arson.json](./223660-arson.json) |
 | Arson | 377108 | [377108-arson.json](./377108-arson.json) |
 | Arson & Plunder | 62898 | [62898-arson-and-plunder.json](./62898-arson-and-plunder.json) |
+| Arson & Plunder: Unleashed | 36323 | [36323-arson-and-plunder-unleashed.json](./36323-arson-and-plunder-unleashed.json) |
 | Arson and Plunder | 9985 | [9985-arson-and-plunder.json](./9985-arson-and-plunder.json) |
 | Arsonate | 284728 | [284728-arsonate.json](./284728-arsonate.json) |
 | Arsonist | 113858 | [113858-arsonist.json](./113858-arsonist.json) |
@@ -18003,6 +18008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Shell 2 | 260449 | [260449-assault-shell-2.json](./260449-assault-shell-2.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
+| Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
 | Assault Suit Leynos 2 | 45509 | [45509-assault-suit-leynos-2.json](./45509-assault-suit-leynos-2.json) |
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
@@ -20783,6 +20789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avetinja | 298501 | [298501-avetinja.json](./298501-avetinja.json) |
 | Aveyond 3-1: Lord of Twilight | 36389 | [36389-aveyond-3-1-lord-of-twilight.json](./36389-aveyond-3-1-lord-of-twilight.json) |
 | Aveyond 3-2: Gates of Night | 36404 | [36404-aveyond-3-2-gates-of-night.json](./36404-aveyond-3-2-gates-of-night.json) |
+| Aveyond 3-3: The Lost Orb | 36241 | [36241-aveyond-3-3-the-lost-orb.json](./36241-aveyond-3-3-the-lost-orb.json) |
 | Aveyond 3-4: The Darkthrop Prophecy | 36242 | [36242-aveyond-3-4-the-darkthrop-prophecy.json](./36242-aveyond-3-4-the-darkthrop-prophecy.json) |
 | Aveyond 3: Orbs of Magic - Chapter 1: Lord of Twilight | 10012 | [10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json](./10012-aveyond-3-orbs-of-magic-chapter-1-lord-of-twilight.json) |
 | Aveyond 3: Orbs of Magic - Chapter 2: Gates of Night | 10013 | [10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json](./10013-aveyond-3-orbs-of-magic-chapter-2-gates-of-night.json) |
