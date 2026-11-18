@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 131080 | [131080-game-room.json](./131080-game-room.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
+| Game Room | 62045 | [62045-game-room.json](./62045-game-room.json) |
 | Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
 | Game Room Excitement | 205920 | [205920-game-room-excitement.json](./205920-game-room-excitement.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
@@ -5730,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glizzy Gobbler | 167557 | [167557-glizzy-gobbler.json](./167557-glizzy-gobbler.json) |
 | GlizzySouls | 395261 | [395261-glizzysouls.json](./395261-glizzysouls.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
+| Glo | 61638 | [61638-glo.json](./61638-glo.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
 | Gloam | 144133 | [144133-gloam.json](./144133-gloam.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
