@@ -5784,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Race TV | 19523 | [19523-sega-race-tv.json](./19523-sega-race-tv.json) |
 | Sega Raceway | 198636 | [198636-sega-raceway.json](./198636-sega-raceway.json) |
 | Sega Racing Classic | 67347 | [67347-sega-racing-classic.json](./67347-sega-racing-classic.json) |
+| Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
 | Sega Rally 2006 | 1573 | [1573-sega-rally-2006.json](./1573-sega-rally-2006.json) |
 | Sega Rally 3 | 1575 | [1575-sega-rally-3.json](./1575-sega-rally-3.json) |
 | Sega Rally Championship | 1571 | [1571-sega-rally-championship.json](./1571-sega-rally-championship.json) |
@@ -17039,6 +17040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake360 Lite | 68431 | [68431-snake360-lite.json](./68431-snake360-lite.json) |
 | Snake3d | 147776 | [147776-snake3d.json](./147776-snake3d.json) |
 | Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
+| Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
@@ -21616,6 +21618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park 201 - Quizner's Trivia | 76981 | [76981-south-park-201-quizners-trivia.json](./76981-south-park-201-quizners-trivia.json) |
 | South Park Imaginationland | 67783 | [67783-south-park-imaginationland.json](./67783-south-park-imaginationland.json) |
 | South Park Mega Millionaire | 65752 | [65752-south-park-mega-millionaire.json](./65752-south-park-mega-millionaire.json) |
+| South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Cartman's Authoritah | 144780 | [144780-south-park-cartmans-authoritah.json](./144780-south-park-cartmans-authoritah.json) |
 | South Park: Quest for the Holy Thong | 356263 | [356263-south-park-quest-for-the-holy-thong.json](./356263-south-park-quest-for-the-holy-thong.json) |
 | South Park: Save Kenny | 57934 | [57934-south-park-save-kenny.json](./57934-south-park-save-kenny.json) |
@@ -22361,6 +22364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Intruders | 38923 | [38923-space-intruders.json](./38923-space-intruders.json) |
 | Space Invader | 218772 | [218772-space-invader.json](./218772-space-invader.json) |
 | Space Invader | 329469 | [329469-space-invader.json](./329469-space-invader.json) |
+| Space Invaders | 18133 | [18133-space-invaders.json](./18133-space-invaders.json) |
 | Space Invaders | 200391 | [200391-space-invaders.json](./200391-space-invaders.json) |
 | Space Invaders | 200392 | [200392-space-invaders.json](./200392-space-invaders.json) |
 | Space Invaders | 200393 | [200393-space-invaders.json](./200393-space-invaders.json) |
@@ -23477,6 +23481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparks: Episode One | 170803 | [170803-sparks-episode-one.json](./170803-sparks-episode-one.json) |
 | Sparkster | 1263 | [1263-sparkster.json](./1263-sparkster.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
+| Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparkwave | 174487 | [174487-sparkwave.json](./174487-sparkwave.json) |
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
 | Sparky Marky | 244115 | [244115-sparky-marky.json](./244115-sparky-marky.json) |
@@ -26331,6 +26336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Enter the Dragonfly | 1579 | [1579-spyro-enter-the-dragonfly.json](./1579-spyro-enter-the-dragonfly.json) |
 | Spyro: Enter the Dragonfly - Definitive Edition | 324592 | [324592-spyro-enter-the-dragonfly-definitive-edition.json](./324592-spyro-enter-the-dragonfly-definitive-edition.json) |
 | Spyro: Ripto Quest | 251290 | [251290-spyro-ripto-quest.json](./251290-spyro-ripto-quest.json) |
+| Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Year of the Dragon | 142243 | [142243-spyro-year-of-the-dragon.json](./142243-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon | 1578 | [1578-spyro-year-of-the-dragon.json](./1578-spyro-year-of-the-dragon.json) |
 | Spyro: Year of the Dragon - Collector's Edition | 43684 | [43684-spyro-year-of-the-dragon-collectors-edition.json](./43684-spyro-year-of-the-dragon-collectors-edition.json) |
@@ -27919,6 +27925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Empire at War - Forces of Corruption | 174 | [174-star-wars-empire-at-war-forces-of-corruption.json](./174-star-wars-empire-at-war-forces-of-corruption.json) |
 | Star Wars: Empire at War - Gold Pack | 93832 | [93832-star-wars-empire-at-war-gold-pack.json](./93832-star-wars-empire-at-war-gold-pack.json) |
 | Star Wars: Episode 1 - Director's Cut | 252302 | [252302-star-wars-episode-1-directors-cut.json](./252302-star-wars-episode-1-directors-cut.json) |
+| Star Wars: Episode I - Battle for Naboo | 156 | [156-star-wars-episode-i-battle-for-naboo.json](./156-star-wars-episode-i-battle-for-naboo.json) |
 | Star Wars: Episode I - Battle of Naboo | 198907 | [198907-star-wars-episode-i-battle-of-naboo.json](./198907-star-wars-episode-i-battle-of-naboo.json) |
 | Star Wars: Episode I - Battle Tank Attack | 198920 | [198920-star-wars-episode-i-battle-tank-attack.json](./198920-star-wars-episode-i-battle-tank-attack.json) |
 | Star Wars: Episode I - Destroyer Droid | 198906 | [198906-star-wars-episode-i-destroyer-droid.json](./198906-star-wars-episode-i-destroyer-droid.json) |
@@ -27949,6 +27956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: First Assault | 64562 | [64562-star-wars-first-assault.json](./64562-star-wars-first-assault.json) |
 | Star Wars: Flight of the Falcon | 6608 | [6608-star-wars-flight-of-the-falcon.json](./6608-star-wars-flight-of-the-falcon.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
+| Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
 | Star Wars: Galactic Battlegrounds - Clone Campaigns | 140 | [140-star-wars-galactic-battlegrounds-clone-campaigns.json](./140-star-wars-galactic-battlegrounds-clone-campaigns.json) |
@@ -36523,6 +36531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
+| Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
