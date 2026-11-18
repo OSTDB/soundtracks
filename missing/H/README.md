@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Spooky Hamster House DLC | 305583 | [305583-hamster-playground-spooky-hamster-house-dlc.json](./305583-hamster-playground-spooky-hamster-house-dlc.json) |
 | Hamster Playground: Vehicle Pull Game Mode | 305584 | [305584-hamster-playground-vehicle-pull-game-mode.json](./305584-hamster-playground-vehicle-pull-game-mode.json) |
 | Hamster Quest | 385346 | [385346-hamster-quest.json](./385346-hamster-quest.json) |
+| Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Squad | 177654 | [177654-hamster-squad.json](./177654-hamster-squad.json) |
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Talk | 392550 | [392550-hamster-talk.json](./392550-hamster-talk.json) |
