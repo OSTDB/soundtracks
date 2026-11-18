@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexex | 28052 | [28052-xexex.json](./28052-xexex.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
+| Xexyz | 14413 | [14413-xexyz.json](./14413-xexyz.json) |
 | Xeyyex | 288458 | [288458-xeyyex.json](./288458-xeyyex.json) |
 | Xeyyex II: Colour Wars | 337925 | [337925-xeyyex-ii-colour-wars.json](./337925-xeyyex-ii-colour-wars.json) |
 | XEZI: A Silk Road Adventure | 248861 | [248861-xezi-a-silk-road-adventure.json](./248861-xezi-a-silk-road-adventure.json) |
