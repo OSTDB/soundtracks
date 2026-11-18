@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chinese Ghost Story 2023 | 255182 | [255182-a-chinese-ghost-story-2023.json](./255182-a-chinese-ghost-story-2023.json) |
 | A Chocolate World | 277343 | [277343-a-chocolate-world.json](./277343-a-chocolate-world.json) |
 | A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
+| A Christmas Bubbleshooter | 106018 | [106018-a-christmas-bubbleshooter.json](./106018-a-christmas-bubbleshooter.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
 | A Christmas Game | 141981 | [141981-a-christmas-game.json](./141981-a-christmas-game.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Power Spikes II | 82392 | [82392-aca-neo-geo-power-spikes-ii.json](./82392-aca-neo-geo-power-spikes-ii.json) |
 | ACA Neo Geo: Prehistoric Isle 2 | 118544 | [118544-aca-neo-geo-prehistoric-isle-2.json](./118544-aca-neo-geo-prehistoric-isle-2.json) |
 | ACA Neo Geo: Pulstar | 99511 | [99511-aca-neo-geo-pulstar.json](./99511-aca-neo-geo-pulstar.json) |
+| ACA Neo Geo: Puzzle Bobble 2 | 115050 | [115050-aca-neo-geo-puzzle-bobble-2.json](./115050-aca-neo-geo-puzzle-bobble-2.json) |
 | ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
@@ -2841,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
 | ACA Neo Geo: Street Hoop | 75676 | [75676-aca-neo-geo-street-hoop.json](./75676-aca-neo-geo-street-hoop.json) |
+| ACA Neo Geo: Strikers 1945 Plus | 111065 | [111065-aca-neo-geo-strikers-1945-plus.json](./111065-aca-neo-geo-strikers-1945-plus.json) |
 | ACA Neo Geo: Super Baseball 2020 | 85561 | [85561-aca-neo-geo-super-baseball-2020.json](./85561-aca-neo-geo-super-baseball-2020.json) |
 | ACA Neo Geo: Super Sidekicks | 99493 | [99493-aca-neo-geo-super-sidekicks.json](./99493-aca-neo-geo-super-sidekicks.json) |
 | ACA Neo Geo: Super Sidekicks 2 | 103850 | [103850-aca-neo-geo-super-sidekicks-2.json](./103850-aca-neo-geo-super-sidekicks-2.json) |
@@ -3625,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Tennis | 44736 | [44736-actua-tennis.json](./44736-actua-tennis.json) |
 | Actual Crimes: Jack the Ripper | 20411 | [20411-actual-crimes-jack-the-ripper.json](./20411-actual-crimes-jack-the-ripper.json) |
 | Actual Roommates! | 355968 | [355968-actual-roommates.json](./355968-actual-roommates.json) |
+| Actual Volleyball | 111736 | [111736-actual-volleyball.json](./111736-actual-volleyball.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
@@ -3653,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Memoriam | 309575 | [309575-ad-memoriam.json](./309575-ad-memoriam.json) |
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Mortem | 340280 | [340280-ad-mortem.json](./340280-ad-mortem.json) |
+| Ad Movere | 96945 | [96945-ad-movere.json](./96945-ad-movere.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ad Shoot | 310244 | [310244-ad-shoot.json](./310244-ad-shoot.json) |
@@ -5697,6 +5702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of seas | 76395 | [76395-age-of-seas.json](./76395-age-of-seas.json) |
 | Age of Siege | 212524 | [212524-age-of-siege.json](./212524-age-of-siege.json) |
 | Age of Sokoban | 152157 | [152157-age-of-sokoban.json](./152157-age-of-sokoban.json) |
+| Age of Solitaire | 115051 | [115051-age-of-solitaire.json](./115051-age-of-solitaire.json) |
 | Age of Solitaire : Build City | 102713 | [102713-age-of-solitaire-build-city.json](./102713-age-of-solitaire-build-city.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Space | 105023 | [105023-age-of-space.json](./105023-age-of-space.json) |
@@ -11501,6 +11507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Neighbor | 99218 | [99218-angry-neighbor.json](./99218-angry-neighbor.json) |
 | Angry Neighbor in Town | 275780 | [275780-angry-neighbor-in-town.json](./275780-angry-neighbor-in-town.json) |
 | Angry Neighbor Simulator | 320219 | [320219-angry-neighbor-simulator.json](./320219-angry-neighbor-simulator.json) |
 | Angry Neighbor: The Strange House | 241833 | [241833-angry-neighbor-the-strange-house.json](./241833-angry-neighbor-the-strange-house.json) |
@@ -14955,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Ultimate Portable | 202788 | [202788-arcade-ultimate-portable.json](./202788-arcade-ultimate-portable.json) |
 | Arcade Ultimate Portable Video Game Player | 202790 | [202790-arcade-ultimate-portable-video-game-player.json](./202790-arcade-ultimate-portable-video-game-player.json) |
 | Arcade Ultimate: Street of Rage - Limited Edition | 202789 | [202789-arcade-ultimate-street-of-rage-limited-edition.json](./202789-arcade-ultimate-street-of-rage-limited-edition.json) |
+| Arcade USA | 79412 | [79412-arcade-usa.json](./79412-arcade-usa.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
 | Arcade Volleyball | 19232 | [19232-arcade-volleyball.json](./19232-arcade-volleyball.json) |
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
@@ -18918,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum | 308294 | [308294-asylum.json](./308294-asylum.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
 | Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
+| Asylum | 92179 | [92179-asylum.json](./92179-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
 | Asylum 1966 | 387981 | [387981-asylum-1966.json](./387981-asylum-1966.json) |
 | Asylum 45 | 384666 | [384666-asylum-45.json](./384666-asylum-45.json) |
@@ -19780,6 +19789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 2: White Out | 171694 | [171694-attack-on-titan-2-white-out.json](./171694-attack-on-titan-2-white-out.json) |
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
 | Attack on Titan the Game | 405643 | [405643-attack-on-titan-the-game.json](./405643-attack-on-titan-the-game.json) |
+| Attack on Titan Tribute Game | 79394 | [79394-attack-on-titan-tribute-game.json](./79394-attack-on-titan-tribute-game.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
 | Attack on Titan: A Choice with No Regrets | 200562 | [200562-attack-on-titan-a-choice-with-no-regrets.json](./200562-attack-on-titan-a-choice-with-no-regrets.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
