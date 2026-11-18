@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Saga | 263857 | [263857-darkness-saga.json](./263857-darkness-saga.json) |
 | Darkness Shooter | 164225 | [164225-darkness-shooter.json](./164225-darkness-shooter.json) |
 | Darkness Suppressor: Onna Taimashi no Inbu | 97748 | [97748-darkness-suppressor-onna-taimashi-no-inbu.json](./97748-darkness-suppressor-onna-taimashi-no-inbu.json) |
+| Darkness Takeover | 357477 | [357477-darkness-takeover.json](./357477-darkness-takeover.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Under My Bed | 143788 | [143788-darkness-under-my-bed.json](./143788-darkness-under-my-bed.json) |
 | Darkness Within 2: The Dark Lineage | 10164 | [10164-darkness-within-2-the-dark-lineage.json](./10164-darkness-within-2-the-dark-lineage.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: The End Is Near | 314131 | [314131-dead-cells-the-end-is-near.json](./314131-dead-cells-the-end-is-near.json) |
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
+| Dead Cells+ | 351296 | [351296-dead-cells.json](./351296-dead-cells.json) |
 | Dead Charge | 365541 | [365541-dead-charge.json](./365541-dead-charge.json) |
 | Dead Christmas | 326854 | [326854-dead-christmas.json](./326854-dead-christmas.json) |
 | Dead Circuit | 382327 | [382327-dead-circuit.json](./382327-dead-circuit.json) |
@@ -5776,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck of Memories | 348344 | [348344-deck-of-memories.json](./348344-deck-of-memories.json) |
 | Deck of Souls | 252356 | [252356-deck-of-souls.json](./252356-deck-of-souls.json) |
 | Deck of Stabs | 346745 | [346745-deck-of-stabs.json](./346745-deck-of-stabs.json) |
+| Deck Of The Damned | 369782 | [369782-deck-of-the-damned.json](./369782-deck-of-the-damned.json) |
 | Deck of the Dead | 240689 | [240689-deck-of-the-dead.json](./240689-deck-of-the-dead.json) |
 | Deck of Treads | 392085 | [392085-deck-of-treads.json](./392085-deck-of-treads.json) |
 | Deck Remover | 295535 | [295535-deck-remover.json](./295535-deck-remover.json) |
@@ -5823,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decks of the Damned | 282118 | [282118-decks-of-the-damned.json](./282118-decks-of-the-damned.json) |
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
 | Decksplorers: Into the Shell | 320022 | [320022-decksplorers-into-the-shell.json](./320022-decksplorers-into-the-shell.json) |
+| Deckstination | 357472 | [357472-deckstination.json](./357472-deckstination.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
 | DeckTerra | 353644 | [353644-deckterra.json](./353644-deckterra.json) |
@@ -8376,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desires of a Vampire | 298892 | [298892-desires-of-a-vampire.json](./298892-desires-of-a-vampire.json) |
 | Desk Deck Heroes | 303472 | [303472-desk-deck-heroes.json](./303472-desk-deck-heroes.json) |
 | Desk Dino | 387591 | [387591-desk-dino.json](./387591-desk-dino.json) |
+| Desk Garden | 346817 | [346817-desk-garden.json](./346817-desk-garden.json) |
 | Desk of Desires: VR Office Sex | 275755 | [275755-desk-of-desires-vr-office-sex.json](./275755-desk-of-desires-vr-office-sex.json) |
 | Desk Paws | 348883 | [348883-desk-paws.json](./348883-desk-paws.json) |
 | Desk Rumble | 425173 | [425173-desk-rumble.json](./425173-desk-rumble.json) |
@@ -13473,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Go To The Moon | 366544 | [366544-dog-go-to-the-moon.json](./366544-dog-go-to-the-moon.json) |
 | Dog God | 421732 | [421732-dog-god.json](./421732-dog-god.json) |
+| Dog Gone Cats: Tail of 300 Days (Pawlike Edition) | 346812 | [346812-dog-gone-cats-tail-of-300-days-pawlike-edition.json](./346812-dog-gone-cats-tail-of-300-days-pawlike-edition.json) |
 | Dog Gone Golfing | 54498 | [54498-dog-gone-golfing.json](./54498-dog-gone-golfing.json) |
 | Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog Hotel Tycoon | 417400 | [417400-dog-hotel-tycoon.json](./417400-dog-hotel-tycoon.json) |
@@ -14966,6 +14972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Evolution - Doodle Mafia Pack | 238329 | [238329-doodle-god-evolution-doodle-mafia-pack.json](./238329-doodle-god-evolution-doodle-mafia-pack.json) |
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
+| Doodle God: Infinite Alchemy Merge | 351291 | [351291-doodle-god-infinite-alchemy-merge.json](./351291-doodle-god-infinite-alchemy-merge.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
 | Doodle God: Mighty Trio | 97030 | [97030-doodle-god-mighty-trio.json](./97030-doodle-god-mighty-trio.json) |
 | Doodle God: Ultimate Edition | 82384 | [82384-doodle-god-ultimate-edition.json](./82384-doodle-god-ultimate-edition.json) |
@@ -19738,6 +19745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Green Day - 'The American Dream Is Killing Me' | 310376 | [310376-drums-rock-green-day-the-american-dream-is-killing-me.json](./310376-drums-rock-green-day-the-american-dream-is-killing-me.json) |
 | Drums Rock: HammerFall - 'Hearts On Fire' | 296421 | [296421-drums-rock-hammerfall-hearts-on-fire.json](./296421-drums-rock-hammerfall-hearts-on-fire.json) |
 | Drums Rock: Jinjer - 'Pisces' | 322224 | [322224-drums-rock-jinjer-pisces.json](./322224-drums-rock-jinjer-pisces.json) |
+| Drums Rock: Kana-Boon - 'Silhouette' | 351287 | [351287-drums-rock-kana-boon-silhouette.json](./351287-drums-rock-kana-boon-silhouette.json) |
 | Drums Rock: Linkin Park - 'Faint' | 419665 | [419665-drums-rock-linkin-park-faint.json](./419665-drums-rock-linkin-park-faint.json) |
 | Drums Rock: Linkin Park - 'In the End' | 419664 | [419664-drums-rock-linkin-park-in-the-end.json](./419664-drums-rock-linkin-park-in-the-end.json) |
 | Drums Rock: Linkin Park - 'Numb' | 419667 | [419667-drums-rock-linkin-park-numb.json](./419667-drums-rock-linkin-park-numb.json) |
@@ -19765,12 +19773,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Spacehog - 'In the Meantime' | 322218 | [322218-drums-rock-spacehog-in-the-meantime.json](./322218-drums-rock-spacehog-in-the-meantime.json) |
 | Drums Rock: The Offspring - 'You’re Gonna Go Far, Kid' | 322219 | [322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json](./322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
+| Drums Rock: TK from Ling tosite sigure - 'Unravel' | 351285 | [351285-drums-rock-tk-from-ling-tosite-sigure-unravel.json](./351285-drums-rock-tk-from-ling-tosite-sigure-unravel.json) |
 | Drums Rock: Twilight Force - 'Twilight Force' | 296422 | [296422-drums-rock-twilight-force-twilight-force.json](./296422-drums-rock-twilight-force-twilight-force.json) |
 | Drums Rock: Undertale - 'Hopes And Dreams' | 322215 | [322215-drums-rock-undertale-hopes-and-dreams.json](./322215-drums-rock-undertale-hopes-and-dreams.json) |
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drums Rock: Undertale DLC | 253184 | [253184-drums-rock-undertale-dlc.json](./253184-drums-rock-undertale-dlc.json) |
 | Drums Rock: Visions Of Atlantis - 'Melancholy Angel' | 419659 | [419659-drums-rock-visions-of-atlantis-melancholy-angel.json](./419659-drums-rock-visions-of-atlantis-melancholy-angel.json) |
+| Drums Rock: Who-ya Extended - 'Vivid Vice' | 351284 | [351284-drums-rock-who-ya-extended-vivid-vice.json](./351284-drums-rock-who-ya-extended-vivid-vice.json) |
 | Drums Rock: Wind Rose - 'Drunken Dwarves' | 419661 | [419661-drums-rock-wind-rose-drunken-dwarves.json](./419661-drums-rock-wind-rose-drunken-dwarves.json) |
+| Drums Rock: Yoko Takahashi - 'The Cruel Angel's Thesis' | 351286 | [351286-drums-rock-yoko-takahashi-the-cruel-angels-thesis.json](./351286-drums-rock-yoko-takahashi-the-cruel-angels-thesis.json) |
 | DrumSim | 65814 | [65814-drumsim.json](./65814-drumsim.json) |
 | Drumskulls | 91865 | [91865-drumskulls.json](./91865-drumskulls.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
