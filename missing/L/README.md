@@ -8903,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Shattered Kingdom | 133787 | [133787-lords-of-the-shattered-kingdom.json](./133787-lords-of-the-shattered-kingdom.json) |
 | Lords of the Void | 328183 | [328183-lords-of-the-void.json](./328183-lords-of-the-void.json) |
 | Lords of Thunder | 5400 | [5400-lords-of-thunder.json](./5400-lords-of-thunder.json) |
+| Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
 | Lords of War | 53315 | [53315-lords-of-war.json](./53315-lords-of-war.json) |
 | Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
