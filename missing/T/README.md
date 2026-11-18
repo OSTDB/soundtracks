@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Demons and Gods | 232898 | [232898-tales-of-demons-and-gods.json](./232898-tales-of-demons-and-gods.json) |
 | Tales of Destiny | 1201 | [1201-tales-of-destiny.json](./1201-tales-of-destiny.json) |
 | Tales of Destiny | 229160 | [229160-tales-of-destiny.json](./229160-tales-of-destiny.json) |
+| Tales of Destiny 2 | 1203 | [1203-tales-of-destiny-2.json](./1203-tales-of-destiny-2.json) |
 | Tales of Destiny 2 | 397736 | [397736-tales-of-destiny-2.json](./397736-tales-of-destiny-2.json) |
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
@@ -1415,6 +1416,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Novariel | 193771 | [193771-tales-of-novariel.json](./193771-tales-of-novariel.json) |
 | Tales of Pantheon: Summoners Arena | 224398 | [224398-tales-of-pantheon-summoners-arena.json](./224398-tales-of-pantheon-summoners-arena.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
+| Tales of Phantasia | 196633 | [196633-tales-of-phantasia.json](./196633-tales-of-phantasia.json) |
+| Tales of Phantasia | 196654 | [196654-tales-of-phantasia.json](./196654-tales-of-phantasia.json) |
 | Tales of Phantasia | 196660 | [196660-tales-of-phantasia.json](./196660-tales-of-phantasia.json) |
 | Tales of Phantasia: Cross Edition | 351694 | [351694-tales-of-phantasia-cross-edition.json](./351694-tales-of-phantasia-cross-edition.json) |
 | Tales of Phantasia: Full Voice Edition | 152164 | [152164-tales-of-phantasia-full-voice-edition.json](./152164-tales-of-phantasia-full-voice-edition.json) |
@@ -4891,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
+| Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
 | Terminator: Resistance - Complete Edition | 270334 | [270334-terminator-resistance-complete-edition.json](./270334-terminator-resistance-complete-edition.json) |
 | Terminator: Resistance - Complete Edition: Collector's Edition | 270335 | [270335-terminator-resistance-complete-edition-collectors-edition.json](./270335-terminator-resistance-complete-edition-collectors-edition.json) |
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
@@ -5460,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
 | Tetris | 178293 | [178293-tetris.json](./178293-tetris.json) |
+| Tetris | 180278 | [180278-tetris.json](./180278-tetris.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
 | Tetris | 185669 | [185669-tetris.json](./185669-tetris.json) |
 | Tetris | 203099 | [203099-tetris.json](./203099-tetris.json) |
@@ -8093,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chess Lv.100 | 128860 | [128860-the-chess-lv-100.json](./128860-the-chess-lv-100.json) |
 | The Chess Player | 380106 | [380106-the-chess-player.json](./380106-the-chess-player.json) |
 | The Chess Variants Club | 133095 | [133095-the-chess-variants-club.json](./133095-the-chess-variants-club.json) |
+| The Chessmaster | 12909 | [12909-the-chessmaster.json](./12909-the-chessmaster.json) |
 | The Chessmaster | 366555 | [366555-the-chessmaster.json](./366555-the-chessmaster.json) |
 | The Chessmaster | 366556 | [366556-the-chessmaster.json](./366556-the-chessmaster.json) |
 | The Chessmaster | 366559 | [366559-the-chessmaster.json](./366559-the-chessmaster.json) |
@@ -11770,6 +11776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild 2 | 6258 | [6258-the-guild-2.json](./6258-the-guild-2.json) |
 | The Guild 2: Platinium Edition | 53742 | [53742-the-guild-2-platinium-edition.json](./53742-the-guild-2-platinium-edition.json) |
 | The Guild 2: Venice | 9324 | [9324-the-guild-2-venice.json](./9324-the-guild-2-venice.json) |
+| The Guild 3 | 13165 | [13165-the-guild-3.json](./13165-the-guild-3.json) |
 | The Guild DS | 47880 | [47880-the-guild-ds.json](./47880-the-guild-ds.json) |
 | The Guild Manager | 404999 | [404999-the-guild-manager.json](./404999-the-guild-manager.json) |
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
@@ -14221,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Styk | 62938 | [62938-the-legend-of-styk.json](./62938-the-legend-of-styk.json) |
 | The Legend of Super Mario: Save Mushroom Kingdom | 264418 | [264418-the-legend-of-super-mario-save-mushroom-kingdom.json](./264418-the-legend-of-super-mario-save-mushroom-kingdom.json) |
 | The Legend Of Surprisia | 342973 | [342973-the-legend-of-surprisia.json](./342973-the-legend-of-surprisia.json) |
+| The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
 | The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
 | The Legend of Sword and Fairy 3 | 56624 | [56624-the-legend-of-sword-and-fairy-3.json](./56624-the-legend-of-sword-and-fairy-3.json) |
 | The Legend of Sword and Fairy 3 Prequel | 78466 | [78466-the-legend-of-sword-and-fairy-3-prequel.json](./78466-the-legend-of-sword-and-fairy-3-prequel.json) |
@@ -15928,6 +15936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Crimson Manor | 106196 | [106196-the-mystery-of-the-crimson-manor.json](./106196-the-mystery-of-the-crimson-manor.json) |
 | The Mystery of the Crystal Portal | 88605 | [88605-the-mystery-of-the-crystal-portal.json](./88605-the-mystery-of-the-crystal-portal.json) |
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
+| The Mystery of the Druids | 12449 | [12449-the-mystery-of-the-druids.json](./12449-the-mystery-of-the-druids.json) |
 | The Mystery of the Hudson Case | 95337 | [95337-the-mystery-of-the-hudson-case.json](./95337-the-mystery-of-the-hudson-case.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
 | The Mystery of the Mayan Ruins | 101166 | [101166-the-mystery-of-the-mayan-ruins.json](./101166-the-mystery-of-the-mayan-ruins.json) |
@@ -16169,6 +16178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nine Lives of Secret Agent Katt | 83092 | [83092-the-nine-lives-of-secret-agent-katt.json](./83092-the-nine-lives-of-secret-agent-katt.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
+| The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
 | The Ninja | 131008 | [131008-the-ninja.json](./131008-the-ninja.json) |
 | The Ninja | 224886 | [224886-the-ninja.json](./224886-the-ninja.json) |
 | The Ninja | 346067 | [346067-the-ninja.json](./346067-the-ninja.json) |
@@ -16310,6 +16320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Bean Factory | 261499 | [261499-the-old-bean-factory.json](./261499-the-old-bean-factory.json) |
 | The Old City of High Walls | 177461 | [177461-the-old-city-of-high-walls.json](./177461-the-old-city-of-high-walls.json) |
+| The Old City: Leviathan | 14437 | [14437-the-old-city-leviathan.json](./14437-the-old-city-leviathan.json) |
 | The Old Flesh of Nuraga | 400555 | [400555-the-old-flesh-of-nuraga.json](./400555-the-old-flesh-of-nuraga.json) |
 | The Old Forest | 199588 | [199588-the-old-forest.json](./199588-the-old-forest.json) |
 | The Old Gentleman | 296327 | [296327-the-old-gentleman.json](./296327-the-old-gentleman.json) |
@@ -17667,6 +17678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reward of Cherishment and Eternity. | 329199 | [329199-the-reward-of-cherishment-and-eternity.json](./329199-the-reward-of-cherishment-and-eternity.json) |
 | The Rewind Factory | 199234 | [199234-the-rewind-factory.json](./199234-the-rewind-factory.json) |
 | The Rewind Hero Returns | 404992 | [404992-the-rewind-hero-returns.json](./404992-the-rewind-hero-returns.json) |
+| The Rewinder | 127031 | [127031-the-rewinder.json](./127031-the-rewinder.json) |
 | The Rewinder 2 | 310894 | [310894-the-rewinder-2.json](./310894-the-rewinder-2.json) |
 | The Rewinder: Definitive Edition | 294824 | [294824-the-rewinder-definitive-edition.json](./294824-the-rewinder-definitive-edition.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
@@ -18641,6 +18653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 264365 | [264365-the-sims-3.json](./264365-the-sims-3.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Barnacle Bay | 14561 | [14561-the-sims-3-barnacle-bay.json](./14561-the-sims-3-barnacle-bay.json) |
+| The Sims 3: Diesel Stuff | 13123 | [13123-the-sims-3-diesel-stuff.json](./13123-the-sims-3-diesel-stuff.json) |
 | The Sims 3: Dragon Valley | 10982 | [10982-the-sims-3-dragon-valley.json](./10982-the-sims-3-dragon-valley.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
 | The Sims 3: Generations | 10981 | [10981-the-sims-3-generations.json](./10981-the-sims-3-generations.json) |
@@ -18652,6 +18665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 3: Master Suite Stuff | 13121 | [13121-the-sims-3-master-suite-stuff.json](./13121-the-sims-3-master-suite-stuff.json) |
 | The Sims 3: Monte Vista | 14582 | [14582-the-sims-3-monte-vista.json](./14582-the-sims-3-monte-vista.json) |
+| The Sims 3: Movie Stuff | 13125 | [13125-the-sims-3-movie-stuff.json](./13125-the-sims-3-movie-stuff.json) |
 | The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
@@ -18761,6 +18775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Parenthood | 28859 | [28859-the-sims-4-parenthood.json](./28859-the-sims-4-parenthood.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Pastel Pop Kit | 226791 | [226791-the-sims-4-pastel-pop-kit.json](./226791-the-sims-4-pastel-pop-kit.json) |
+| The Sims 4: Perfect Patio Stuff | 13148 | [13148-the-sims-4-perfect-patio-stuff.json](./13148-the-sims-4-perfect-patio-stuff.json) |
 | The Sims 4: Pet Lovers Bundle | 225465 | [225465-the-sims-4-pet-lovers-bundle.json](./225465-the-sims-4-pet-lovers-bundle.json) |
 | The Sims 4: Plus Cats & Dogs Bundle | 136109 | [136109-the-sims-4-plus-cats-and-dogs-bundle.json](./136109-the-sims-4-plus-cats-and-dogs-bundle.json) |
 | The Sims 4: Plus Eco Lifestyle Bundle | 166308 | [166308-the-sims-4-plus-eco-lifestyle-bundle.json](./166308-the-sims-4-plus-eco-lifestyle-bundle.json) |
@@ -18810,6 +18825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Medieval: Limited Edition | 281804 | [281804-the-sims-medieval-limited-edition.json](./281804-the-sims-medieval-limited-edition.json) |
 | The Sims Medieval: Pirates and Nobles | 13137 | [13137-the-sims-medieval-pirates-and-nobles.json](./13137-the-sims-medieval-pirates-and-nobles.json) |
 | The Sims Mobile | 28558 | [28558-the-sims-mobile.json](./28558-the-sims-mobile.json) |
+| The Sims Pet Stories | 13139 | [13139-the-sims-pet-stories.json](./13139-the-sims-pet-stories.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
 | The Sims: 4 Sleek Bathroom Kit | 341860 | [341860-the-sims-4-sleek-bathroom-kit.json](./341860-the-sims-4-sleek-bathroom-kit.json) |
@@ -21454,6 +21470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Warehouse Management | 392975 | [392975-the-witchs-warehouse-management.json](./392975-the-witchs-warehouse-management.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
 | The Witchcraft of Skysword | 115218 | [115218-the-witchcraft-of-skysword.json](./115218-the-witchcraft-of-skysword.json) |
+| The Witcher 2: Assassins of Kings - Collector's Edition | 16209 | [16209-the-witcher-2-assassins-of-kings-collectors-edition.json](./16209-the-witcher-2-assassins-of-kings-collectors-edition.json) |
 | The Witcher 2: Assassins of Kings - Dark Edition | 22319 | [22319-the-witcher-2-assassins-of-kings-dark-edition.json](./22319-the-witcher-2-assassins-of-kings-dark-edition.json) |
 | The Witcher 2: Assassins of Kings - Premium Edition | 23473 | [23473-the-witcher-2-assassins-of-kings-premium-edition.json](./23473-the-witcher-2-assassins-of-kings-premium-edition.json) |
 | The Witcher 3: Enhanced Edition - Redux | 283715 | [283715-the-witcher-3-enhanced-edition-redux.json](./283715-the-witcher-3-enhanced-edition-redux.json) |
@@ -34213,6 +34230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 60042 | [60042-treasure-hunter.json](./60042-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
 | Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
+| Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Man | 272043 | [272043-treasure-hunter-man.json](./272043-treasure-hunter-man.json) |
 | Treasure Hunter Man 2 | 102977 | [102977-treasure-hunter-man-2.json](./102977-treasure-hunter-man-2.json) |
 | Treasure Hunter Simulator | 123656 | [123656-treasure-hunter-simulator.json](./123656-treasure-hunter-simulator.json) |
@@ -34349,6 +34367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasures of the Inca | 416186 | [416186-treasures-of-the-inca.json](./416186-treasures-of-the-inca.json) |
 | Treasures of the Planet Ziberium | 416185 | [416185-treasures-of-the-planet-ziberium.json](./416185-treasures-of-the-planet-ziberium.json) |
 | Treasures of the Roman Empire | 169673 | [169673-treasures-of-the-roman-empire.json](./169673-treasures-of-the-roman-empire.json) |
+| Treasures of the Savage Frontier | 14474 | [14474-treasures-of-the-savage-frontier.json](./14474-treasures-of-the-savage-frontier.json) |
 | Treasures of the Serengeti | 206073 | [206073-treasures-of-the-serengeti.json](./206073-treasures-of-the-serengeti.json) |
 | Treasures of the Smithsonian | 46547 | [46547-treasures-of-the-smithsonian.json](./46547-treasures-of-the-smithsonian.json) |
 | Treasures of the Sunken Ship | 288571 | [288571-treasures-of-the-sunken-ship.json](./288571-treasures-of-the-sunken-ship.json) |
@@ -36931,6 +36950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turnip Mountain | 217203 | [217203-turnip-mountain.json](./217203-turnip-mountain.json) |
 | TurnKee | 245355 | [245355-turnkee.json](./245355-turnkee.json) |
+| TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
 | Turnover | 35196 | [35196-turnover.json](./35196-turnover.json) |
 | Turnpike | 308463 | [308463-turnpike.json](./308463-turnpike.json) |
