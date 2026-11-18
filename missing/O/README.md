@@ -1572,7 +1572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okiku | 285394 | [285394-okiku.json](./285394-okiku.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
-| Okinawa Rush | 69375 | [69375-okinawa-rush.json](./69375-okinawa-rush.json) |
 | Okinawa Rush: Black Mantis Edition | 178209 | [178209-okinawa-rush-black-mantis-edition.json](./178209-okinawa-rush-black-mantis-edition.json) |
 | Okinawa Rush: Limited Edition | 171283 | [171283-okinawa-rush-limited-edition.json](./171283-okinawa-rush-limited-edition.json) |
 | OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
