@@ -1485,7 +1485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic School Story | 241811 | [241811-magic-school-story.json](./241811-magic-school-story.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
-| Magic Scroll Tactics | 96946 | [96946-magic-scroll-tactics.json](./96946-magic-scroll-tactics.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
 | Magic Sexyland | 190791 | [190791-magic-sexyland.json](./190791-magic-sexyland.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
@@ -5545,7 +5544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein | 5403 | [5403-mary-shelleys-frankenstein.json](./5403-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
-| Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter 2: Limited Edition | 166266 | [166266-mary-skelter-2-limited-edition.json](./166266-mary-skelter-2-limited-edition.json) |
 | Mary Skelter Finale: Day One Edition | 171284 | [171284-mary-skelter-finale-day-one-edition.json](./171284-mary-skelter-finale-day-one-edition.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
@@ -6391,7 +6389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
 | Math Blaster Ages 8-9 | 59342 | [59342-math-blaster-ages-8-9.json](./59342-math-blaster-ages-8-9.json) |
-| Math Blaster HyperBlast 2 HD | 93652 | [93652-math-blaster-hyperblast-2-hd.json](./93652-math-blaster-hyperblast-2-hd.json) |
 | Math Blaster in the Prime Adventure | 47927 | [47927-math-blaster-in-the-prime-adventure.json](./47927-math-blaster-in-the-prime-adventure.json) |
 | Math Blaster Jr. | 129397 | [129397-math-blaster-jr.json](./129397-math-blaster-jr.json) |
 | Math Blaster Mystery | 129504 | [129504-math-blaster-mystery.json](./129504-math-blaster-mystery.json) |
@@ -10736,7 +10733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Games Pixel Bundle | 274421 | [274421-merge-games-pixel-bundle.json](./274421-merge-games-pixel-bundle.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
-| Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Grabber | 216040 | [216040-merge-grabber.json](./216040-merge-grabber.json) |
 | Merge Hamster | 326860 | [326860-merge-hamster.json](./326860-merge-hamster.json) |
@@ -14476,7 +14472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 360126 | [360126-minesweeper.json](./360126-minesweeper.json) |
 | Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
-| Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
@@ -17263,7 +17258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
 | Momoinc | 204662 | [204662-momoinc.json](./204662-momoinc.json) |
-| Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
 | Momoiro Senki | 97392 | [97392-momoiro-senki.json](./97392-momoiro-senki.json) |
@@ -18075,7 +18069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hide | 283320 | [283320-monster-hide.json](./283320-monster-hide.json) |
 | Monster High Skulltimate Secrets | 314521 | [314521-monster-high-skulltimate-secrets.json](./314521-monster-high-skulltimate-secrets.json) |
 | Monster High: 13 Wishes | 25142 | [25142-monster-high-13-wishes.json](./25142-monster-high-13-wishes.json) |
-| Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: Ghoul Spirit | 8567 | [8567-monster-high-ghoul-spirit.json](./8567-monster-high-ghoul-spirit.json) |
 | Monster High: Minis Mania | 232507 | [232507-monster-high-minis-mania.json](./232507-monster-high-minis-mania.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
@@ -21577,7 +21570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Pac-Man | 277557 | [277557-ms-pac-man.json](./277557-ms-pac-man.json) |
 | Ms. Pac-Man | 277558 | [277558-ms-pac-man.json](./277558-ms-pac-man.json) |
 | Ms. Pac-Man | 277559 | [277559-ms-pac-man.json](./277559-ms-pac-man.json) |
-| Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man Plus | 266918 | [266918-ms-pac-man-plus.json](./266918-ms-pac-man-plus.json) |
 | Ms. Pac-Man Pocket Player | 219350 | [219350-ms-pac-man-pocket-player.json](./219350-ms-pac-man-pocket-player.json) |
 | Ms. Pac-Man Returns | 302989 | [302989-ms-pac-man-returns.json](./302989-ms-pac-man-returns.json) |
@@ -24033,7 +24025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Old Car Was Green | 413415 | [413415-my-old-car-was-green.json](./413415-my-old-car-was-green.json) |
 | My Older Sister Left the Computer So I Got on & Found Myself Trying to Coordinate a Raid in a Game & I Don't Play MMO's | 146394 | [146394-my-older-sister-left-the-computer-so-i-got-on-and-found-myself-trying-to-coordinate-a-raid-in-a-game-and-i-dont-play-mmos.json](./146394-my-older-sister-left-the-computer-so-i-got-on-and-found-myself-trying-to-coordinate-a-raid-in-a-game-and-i-dont-play-mmos.json) |
-| My Om Nom | 88980 | [88980-my-om-nom.json](./88980-my-om-nom.json) |
 | My Only | 375859 | [375859-my-only.json](./375859-my-only.json) |
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
 | My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
@@ -24329,7 +24320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Cat Lily | 257255 | [257255-my-talking-cat-lily.json](./257255-my-talking-cat-lily.json) |
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
-| My Talking Hank | 88875 | [88875-my-talking-hank.json](./88875-my-talking-hank.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
 | My Talking Tom | 87024 | [87024-my-talking-tom.json](./87024-my-talking-tom.json) |
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
@@ -24401,7 +24391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
 | My Town: ICEE Amusement Park | 99320 | [99320-my-town-icee-amusement-park.json](./99320-my-town-icee-amusement-park.json) |
-| My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Town: Pets | 88961 | [88961-my-town-pets.json](./88961-my-town-pets.json) |
 | My Town: Police Station | 214319 | [214319-my-town-police-station.json](./214319-my-town-police-station.json) |
 | My Town: Shopping Mall | 88919 | [88919-my-town-shopping-mall.json](./88919-my-town-shopping-mall.json) |
