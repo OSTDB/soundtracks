@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeast | 242859 | [242859-zombeast.json](./242859-zombeast.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
 | Zombecks | 107573 | [107573-zombecks.json](./107573-zombecks.json) |
+| Zombeer | 16815 | [16815-zombeer.json](./16815-zombeer.json) |
 | Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
 | ZomBees: Bee The Swarm | 58877 | [58877-zombees-bee-the-swarm.json](./58877-zombees-bee-the-swarm.json) |
 | Zombeez: A Killer Queen Remix | 166441 | [166441-zombeez-a-killer-queen-remix.json](./166441-zombeez-a-killer-queen-remix.json) |
@@ -2736,6 +2737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork Classics: Interactive Fiction | 71755 | [71755-zork-classics-interactive-fiction.json](./71755-zork-classics-interactive-fiction.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
 | Zork III: The Dungeon Master | 1946 | [1946-zork-iii-the-dungeon-master.json](./1946-zork-iii-the-dungeon-master.json) |
+| Zork Nemesis: The Forbidden Lands | 1953 | [1953-zork-nemesis-the-forbidden-lands.json](./1953-zork-nemesis-the-forbidden-lands.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
 | Zork Trilogy | 186103 | [186103-zork-trilogy.json](./186103-zork-trilogy.json) |
 | Zork Zero: The Revenge of Megaboz | 1952 | [1952-zork-zero-the-revenge-of-megaboz.json](./1952-zork-zero-the-revenge-of-megaboz.json) |
@@ -2909,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
+| Zup! X | 101515 | [101515-zup-x.json](./101515-zup-x.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Z | 168955 | [168955-zup-z.json](./168955-zup-z.json) |
 | Zup! Zero | 29099 | [29099-zup-zero.json](./29099-zup-zero.json) |
@@ -2967,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyll | 78096 | [78096-zyll.json](./78096-zyll.json) |
 | Zylo and the magic souls | 120214 | [120214-zylo-and-the-magic-souls.json](./120214-zylo-and-the-magic-souls.json) |
 | Zylogon | 363561 | [363561-zylogon.json](./363561-zylogon.json) |
+| Zynaps | 12628 | [12628-zynaps.json](./12628-zynaps.json) |
 | Zyndeck VX: Card Battler | 402400 | [402400-zyndeck-vx-card-battler.json](./402400-zyndeck-vx-card-battler.json) |
 | Zynet | 161447 | [161447-zynet.json](./161447-zynet.json) |
 | Zynga Poker | 241723 | [241723-zynga-poker.json](./241723-zynga-poker.json) |
