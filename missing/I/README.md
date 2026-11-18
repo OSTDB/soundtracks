@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichima-san | 258631 | [258631-ichima-san.json](./258631-ichima-san.json) |
 | Ichinichi | 262988 | [262988-ichinichi.json](./262988-ichinichi.json) |
 | Ichiro Shounen Kitan | 150557 | [150557-ichiro-shounen-kitan.json](./150557-ichiro-shounen-kitan.json) |
+| Ichiya Kitan | 407563 | [407563-ichiya-kitan.json](./407563-ichiya-kitan.json) |
 | Ichizu na Kanojo to Koi Shitai | 402486 | [402486-ichizu-na-kanojo-to-koi-shitai.json](./402486-ichizu-na-kanojo-to-koi-shitai.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
@@ -3610,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incrate | 325378 | [325378-incrate.json](./325378-incrate.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
+| Increbouncer | 406345 | [406345-increbouncer.json](./406345-increbouncer.json) |
 | Increbraintal | 386752 | [386752-increbraintal.json](./386752-increbraintal.json) |
 | Incredeck | 415973 | [415973-incredeck.json](./415973-incredeck.json) |
 | Incrediball: The Seven Sapphires | 71984 | [71984-incrediball-the-seven-sapphires.json](./71984-incrediball-the-seven-sapphires.json) |
@@ -4344,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dungeon Crawler: The Frozen Expanse | 170797 | [170797-infinite-dungeon-crawler-the-frozen-expanse.json](./170797-infinite-dungeon-crawler-the-frozen-expanse.json) |
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
 | Infinite Dungeon Crawler: The Swampy Isles | 250799 | [250799-infinite-dungeon-crawler-the-swampy-isles.json](./250799-infinite-dungeon-crawler-the-swampy-isles.json) |
+| Infinite Dungeon: Idle Adventure | 398606 | [398606-infinite-dungeon-idle-adventure.json](./398606-infinite-dungeon-idle-adventure.json) |
 | Infinite Echoes Advance | 419926 | [419926-infinite-echoes-advance.json](./419926-infinite-echoes-advance.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
