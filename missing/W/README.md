@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
 | WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
+| Wake | 16492 | [16492-wake.json](./16492-wake.json) |
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
+| Wanderlust: Rebirth | 15302 | [15302-wanderlust-rebirth.json](./15302-wanderlust-rebirth.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
 | Wanderlust: The Bermuda Secret - Collector's Edition | 166046 | [166046-wanderlust-the-bermuda-secret-collectors-edition.json](./166046-wanderlust-the-bermuda-secret-collectors-edition.json) |
 | Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
@@ -3092,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
 | Wayward Harbor | 192342 | [192342-wayward-harbor.json](./192342-wayward-harbor.json) |
+| Wayward Manor | 16624 | [16624-wayward-manor.json](./16624-wayward-manor.json) |
 | Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
@@ -5295,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Night Dream | 249024 | [249024-white-night-dream.json](./249024-white-night-dream.json) |
 | White Night: Deluxe Edition | 198131 | [198131-white-night-deluxe-edition.json](./198131-white-night-deluxe-edition.json) |
 | White Noise 2 | 28112 | [28112-white-noise-2.json](./28112-white-noise-2.json) |
+| White Noise Online | 17284 | [17284-white-noise-online.json](./17284-white-noise-online.json) |
 | White Noise: A tale of Horror | 80050 | [80050-white-noise-a-tale-of-horror.json](./80050-white-noise-a-tale-of-horror.json) |
 | White Noise: Ghost Signal | 374145 | [374145-white-noise-ghost-signal.json](./374145-white-noise-ghost-signal.json) |
 | White Noise! | 359546 | [359546-white-noise.json](./359546-white-noise.json) |
@@ -5973,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Tamer: Next Age | 220061 | [220061-wild-tamer-next-age.json](./220061-wild-tamer-next-age.json) |
+| Wild Terra | 16468 | [16468-wild-terra.json](./16468-wild-terra.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Bard Pack | 263084 | [263084-wild-terra-2-new-lands-bard-pack.json](./263084-wild-terra-2-new-lands-bard-pack.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
@@ -5991,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
 | Wild Wafers Deluxe | 319510 | [319510-wild-wafers-deluxe.json](./319510-wild-wafers-deluxe.json) |
+| Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild Water Adrenaline featuring Salomon | 218799 | [218799-wild-water-adrenaline-featuring-salomon.json](./218799-wild-water-adrenaline-featuring-salomon.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 187144 | [187144-wild-west.json](./187144-wild-west.json) |
@@ -6444,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windfall: The Oil Crisis Game | 402657 | [402657-windfall-the-oil-crisis-game.json](./402657-windfall-the-oil-crisis-game.json) |
 | Windfallers | 133145 | [133145-windfallers.json](./133145-windfallers.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
+| Windforge | 16881 | [16881-windforge.json](./16881-windforge.json) |
 | Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
 | Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
 | Windin | 87879 | [87879-windin.json](./87879-windin.json) |
@@ -8990,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: Stalingrad | 98910 | [98910-world-at-war-stalingrad.json](./98910-world-at-war-stalingrad.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Baseball Stars | 234443 | [234443-world-baseball-stars.json](./234443-world-baseball-stars.json) |
+| World Basketball Manager 2010 | 16154 | [16154-world-basketball-manager-2010.json](./16154-world-basketball-manager-2010.json) |
 | World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
 | World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
@@ -9892,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
 | Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
 | Worlds | 381007 | [381007-worlds.json](./381007-worlds.json) |
+| Worlds Adrift | 17836 | [17836-worlds-adrift.json](./17836-worlds-adrift.json) |
 | Worlds Adrift Island Creator | 36387 | [36387-worlds-adrift-island-creator.json](./36387-worlds-adrift-island-creator.json) |
 | Worlds Align: Beginning | 187933 | [187933-worlds-align-beginning.json](./187933-worlds-align-beginning.json) |
 | Worlds Align: Beginning - Collector's Edition | 254909 | [254909-worlds-align-beginning-collectors-edition.json](./254909-worlds-align-beginning-collectors-edition.json) |
