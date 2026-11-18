@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleDead | 152466 | [152466-battledead.json](./152466-battledead.json) |
 | BattleDNA | 57392 | [57392-battledna.json](./57392-battledna.json) |
 | BattleDrive | 283978 | [283978-battledrive.json](./283978-battledrive.json) |
+| Battledroid | 129253 | [129253-battledroid.json](./129253-battledroid.json) |
 | BattleDroidz | 58122 | [58122-battledroidz.json](./58122-battledroidz.json) |
 | BattleDudes.io | 144189 | [144189-battledudes-io.json](./144189-battledudes-io.json) |
 | Battlefall: State of Conflict | 283983 | [283983-battlefall-state-of-conflict.json](./283983-battlefall-state-of-conflict.json) |
