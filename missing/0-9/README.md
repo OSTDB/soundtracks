@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Doubleblush | 218792 | [218792-doubleblush.json](./218792-doubleblush.json) |
 | #Drive | 147262 | [147262-drive.json](./147262-drive.json) |
 | #Funtime | 119369 | [119369-funtime.json](./119369-funtime.json) |
+| #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #HardCrash | 176217 | [176217-hardcrash.json](./176217-hardcrash.json) |
 | #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
@@ -1443,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Personalities Simulator | 397789 | [397789-16-personalities-simulator.json](./397789-16-personalities-simulator.json) |
 | 16 Shot! Shooting Watch | 84687 | [84687-16-shot-shooting-watch.json](./84687-16-shot-shooting-watch.json) |
 | 16 Shot! Shooting Watch | 85823 | [85823-16-shot-shooting-watch.json](./85823-16-shot-shooting-watch.json) |
+| 16 Tales: Vol. 2 | 143075 | [143075-16-tales-vol-2.json](./143075-16-tales-vol-2.json) |
 | 16 Tiles Mahjong | 247291 | [247291-16-tiles-mahjong.json](./247291-16-tiles-mahjong.json) |
 | 16 Tiles Mahjong | 46523 | [46523-16-tiles-mahjong.json](./46523-16-tiles-mahjong.json) |
 | 16 Ways to Kill a Vampire at McDonalds | 57524 | [57524-16-ways-to-kill-a-vampire-at-mcdonalds.json](./57524-16-ways-to-kill-a-vampire-at-mcdonalds.json) |
@@ -2772,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Monster Maze | 25117 | [25117-3d-monster-maze.json](./25117-3d-monster-maze.json) |
 | 3D Monster Maze | 264371 | [264371-3d-monster-maze.json](./264371-3d-monster-maze.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
+| 3D Morris | 144318 | [144318-3d-morris.json](./144318-3d-morris.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
@@ -3078,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Player Bowling Alley | 40285 | [40285-4-player-bowling-alley.json](./40285-4-player-bowling-alley.json) |
 | 4 Player Reactor | 56948 | [56948-4-player-reactor.json](./56948-4-player-reactor.json) |
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
+| 4 Queens Computer Casino | 143721 | [143721-4-queens-computer-casino.json](./143721-4-queens-computer-casino.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
 | 4 Seasons Girls | 286734 | [286734-4-seasons-girls.json](./286734-4-seasons-girls.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
@@ -3850,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 86'd | 387024 | [387024-86d.json](./387024-86d.json) |
 | 868-Back | 323173 | [323173-868-back.json](./323173-868-back.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
+| 868-Hack: Plan.B | 143096 | [143096-868-hack-plan-b.json](./143096-868-hack-plan-b.json) |
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 88 at an Exhibition | 377401 | [377401-88-at-an-exhibition.json](./377401-88-at-an-exhibition.json) |
 | 88 Constellations for Wittgenstein | 352158 | [352158-88-constellations-for-wittgenstein.json](./352158-88-constellations-for-wittgenstein.json) |
