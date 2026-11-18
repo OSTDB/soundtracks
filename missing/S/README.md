@@ -27548,7 +27548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
 | Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
 | Star Ranger | 24395 | [24395-star-ranger.json](./24395-star-ranger.json) |
-| Star Rangers | 22612 | [22612-star-rangers.json](./22612-star-rangers.json) |
 | Star Rangers | 251860 | [251860-star-rangers.json](./251860-star-rangers.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
 | Star Rangers VR | 86488 | [86488-star-rangers-vr.json](./86488-star-rangers-vr.json) |
