@@ -2119,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Rush | 179536 | [179536-zombie-rush.json](./179536-zombie-rush.json) |
 | Zombie Rush : Extinction | 119977 | [119977-zombie-rush-extinction.json](./119977-zombie-rush-extinction.json) |
 | Zombie Rush: Heroes | 159427 | [159427-zombie-rush-heroes.json](./159427-zombie-rush-heroes.json) |
+| Zombie Rush: Survival | 429577 | [429577-zombie-rush-survival.json](./429577-zombie-rush-survival.json) |
 | Zombie Sanctuary: Arelia | 260529 | [260529-zombie-sanctuary-arelia.json](./260529-zombie-sanctuary-arelia.json) |
 | Zombie Sanctuary: Ash | 260605 | [260605-zombie-sanctuary-ash.json](./260605-zombie-sanctuary-ash.json) |
 | Zombie Sanctuary: Juliet | 277372 | [277372-zombie-sanctuary-juliet.json](./277372-zombie-sanctuary-juliet.json) |
