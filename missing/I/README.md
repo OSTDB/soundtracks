@@ -209,7 +209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I can't carry all these ducks! | 177161 | [177161-i-cant-carry-all-these-ducks.json](./177161-i-cant-carry-all-these-ducks.json) |
 | I Can't Cry. | 183930 | [183930-i-cant-cry.json](./183930-i-cant-cry.json) |
 | I Can't Escape | 94137 | [94137-i-cant-escape.json](./94137-i-cant-escape.json) |
-| I Can't Escape: Darkness | 35861 | [35861-i-cant-escape-darkness.json](./35861-i-cant-escape-darkness.json) |
 | I Can't Find Me | 216654 | [216654-i-cant-find-me.json](./216654-i-cant-find-me.json) |
 | I Can't Hear Your Words, So I Want To Listen To Your Heart | 367519 | [367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json](./367519-i-cant-hear-your-words-so-i-want-to-listen-to-your-heart.json) |
 | I Can't Reid | 386100 | [386100-i-cant-reid.json](./386100-i-cant-reid.json) |
