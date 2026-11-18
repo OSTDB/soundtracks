@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale | 99365 | [99365-scale.json](./99365-scale.json) |
 | Scale a Building | 423478 | [423478-scale-a-building.json](./423478-scale-a-building.json) |
+| Scale Bubbles | 106180 | [106180-scale-bubbles.json](./106180-scale-bubbles.json) |
 | Scale Bullet: After Story | 358265 | [358265-scale-bullet-after-story.json](./358265-scale-bullet-after-story.json) |
 | Scale Enchanter | 172872 | [172872-scale-enchanter.json](./172872-scale-enchanter.json) |
 | Scale Mail | 393781 | [393781-scale-mail.json](./393781-scale-mail.json) |
@@ -3353,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schizophrenia: R.E.M. Protocol | 357741 | [357741-schizophrenia-r-e-m-protocol.json](./357741-schizophrenia-r-e-m-protocol.json) |
 | Schizophrenia: The Last Shift | 318446 | [318446-schizophrenia-the-last-shift.json](./318446-schizophrenia-the-last-shift.json) |
 | Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
+| Schlacht | 83063 | [83063-schlacht.json](./83063-schlacht.json) |
 | Schlag den Raab | 69474 | [69474-schlag-den-raab.json](./69474-schlag-den-raab.json) |
 | Schlag den Raab: Das 2. Spiel | 81447 | [81447-schlag-den-raab-das-2-spiel.json](./81447-schlag-den-raab-das-2-spiel.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
@@ -26681,6 +26683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqwrk | 251857 | [251857-sqwrk.json](./251857-sqwrk.json) |
 | Sr. Empatia | 188174 | [188174-sr-empatia.json](./188174-sr-empatia.json) |
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
+| Srazhenie | 83059 | [83059-srazhenie.json](./83059-srazhenie.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRC: Sprint Robot Championship | 108315 | [108315-src-sprint-robot-championship.json](./108315-src-sprint-robot-championship.json) |
 | SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
@@ -34023,6 +34026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SummonerVR | 74491 | [74491-summonervr.json](./74491-summonervr.json) |
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
+| Summons Board | 79407 | [79407-summons-board.json](./79407-summons-board.json) |
 | Summons Sword: Pot Guardian | 326180 | [326180-summons-sword-pot-guardian.json](./326180-summons-sword-pot-guardian.json) |
 | Summonsters | 289664 | [289664-summonsters.json](./289664-summonsters.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
@@ -37233,6 +37237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sled Acer | 421227 | [421227-super-sled-acer.json](./421227-super-sled-acer.json) |
 | Super Slender Balls | 384605 | [384605-super-slender-balls.json](./384605-super-slender-balls.json) |
 | Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
+| Super Slider! | 106024 | [106024-super-slider.json](./106024-super-slider.json) |
 | Super Slime | 429498 | [429498-super-slime.json](./429498-super-slime.json) |
 | Super Slime Adventure | 184367 | [184367-super-slime-adventure.json](./184367-super-slime-adventure.json) |
 | Super Slime Arena | 69486 | [69486-super-slime-arena.json](./69486-super-slime-arena.json) |
