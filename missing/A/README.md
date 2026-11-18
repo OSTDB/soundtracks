@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Days With: Hazel | 382146 | [382146-a-few-days-with-hazel.json](./382146-a-few-days-with-hazel.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
 | A Few Days With: Rebecca | 301683 | [301683-a-few-days-with-rebecca.json](./301683-a-few-days-with-rebecca.json) |
+| A Few Days With: Samantha | 318070 | [318070-a-few-days-with-samantha.json](./318070-a-few-days-with-samantha.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Tiffany | 306404 | [306404-a-few-days-with-tiffany.json](./306404-a-few-days-with-tiffany.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
@@ -4291,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
+| Adventure Horror Bundle | 302275 | [302275-adventure-horror-bundle.json](./302275-adventure-horror-bundle.json) |
 | Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
@@ -12025,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Artist: Tiffy’s Notty Secret | 167377 | [167377-anime-artist-tiffy-s-notty-secret.json](./167377-anime-artist-tiffy-s-notty-secret.json) |
 | Anime Assault: Hentai Girls 2025 | 364794 | [364794-anime-assault-hentai-girls-2025.json](./364794-anime-assault-hentai-girls-2025.json) |
 | Anime Babes: Solitaire | 110515 | [110515-anime-babes-solitaire.json](./110515-anime-babes-solitaire.json) |
+| Anime Beauty Girl Puzzle: Extended Edition | 302267 | [302267-anime-beauty-girl-puzzle-extended-edition.json](./302267-anime-beauty-girl-puzzle-extended-edition.json) |
 | Anime Beauty Girl Puzzle: Love Game History Adventure | 252699 | [252699-anime-beauty-girl-puzzle-love-game-history-adventure.json](./252699-anime-beauty-girl-puzzle-love-game-history-adventure.json) |
 | Anime Bowling Babes | 24997 | [24997-anime-bowling-babes.json](./24997-anime-bowling-babes.json) |
 | Anime Boys Dating: Sexy Halloween Costumes | 320790 | [320790-anime-boys-dating-sexy-halloween-costumes.json](./320790-anime-boys-dating-sexy-halloween-costumes.json) |
@@ -12131,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: JDM Car Passion Puzzle | 336409 | [336409-anime-girls-jdm-car-passion-puzzle.json](./336409-anime-girls-jdm-car-passion-puzzle.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Lovely Lolita | 325890 | [325890-anime-girls-lovely-lolita.json](./325890-anime-girls-lovely-lolita.json) |
+| Anime Girls: MMA Tournament | 308601 | [308601-anime-girls-mma-tournament.json](./308601-anime-girls-mma-tournament.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
 | Anime Girls: Naughty Neko | 349572 | [349572-anime-girls-naughty-neko.json](./349572-anime-girls-naughty-neko.json) |
@@ -13834,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Knight 2 | 249682 | [249682-apple-knight-2.json](./249682-apple-knight-2.json) |
 | Apple Man | 333670 | [333670-apple-man.json](./333670-apple-man.json) |
 | Apple Man Sam | 395502 | [395502-apple-man-sam.json](./395502-apple-man-sam.json) |
+| Apple Orchard Escape | 329848 | [329848-apple-orchard-escape.json](./329848-apple-orchard-escape.json) |
 | Apple Panic | 12255 | [12255-apple-panic.json](./12255-apple-panic.json) |
 | Apple Picker | 426385 | [426385-apple-picker.json](./426385-apple-picker.json) |
 | Apple Pie | 133257 | [133257-apple-pie.json](./133257-apple-pie.json) |
@@ -13930,6 +13935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | April 18st | 350727 | [350727-april-18st.json](./350727-april-18st.json) |
 | April 24th | 295300 | [295300-april-24th.json](./295300-april-24th.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
+| April 8th | 320422 | [320422-april-8th.json](./320422-april-8th.json) |
 | April Freebee | 324819 | [324819-april-freebee.json](./324819-april-freebee.json) |
 | April Grove | 339401 | [339401-april-grove.json](./339401-april-grove.json) |
 | April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
@@ -16463,6 +16469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Moon | 62314 | [62314-armored-moon.json](./62314-armored-moon.json) |
 | Armored Moon: The Next Eden | 2610 | [2610-armored-moon-the-next-eden.json](./2610-armored-moon-the-next-eden.json) |
 | Armored Patrol | 55932 | [55932-armored-patrol.json](./55932-armored-patrol.json) |
+| Armored Shell Nightjar | 308595 | [308595-armored-shell-nightjar.json](./308595-armored-shell-nightjar.json) |
 | Armored Sinner | 196640 | [196640-armored-sinner.json](./196640-armored-sinner.json) |
 | Armored Souls | 265463 | [265463-armored-souls.json](./265463-armored-souls.json) |
 | Armored Squad | 83557 | [83557-armored-squad.json](./83557-armored-squad.json) |
