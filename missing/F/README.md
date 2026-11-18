@@ -5311,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Royale | 126093 | [126093-fighter-royale.json](./126093-fighter-royale.json) |
 | Fighter Royale: Last Ace Flying | 117345 | [117345-fighter-royale-last-ace-flying.json](./117345-fighter-royale-last-ace-flying.json) |
 | Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
+| Fighter Squadron: The Screamin' Demons Over Europe | 22891 | [22891-fighter-squadron-the-screamin-demons-over-europe.json](./22891-fighter-squadron-the-screamin-demons-over-europe.json) |
 | Fighter Street II | 276007 | [276007-fighter-street-ii.json](./276007-fighter-street-ii.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
@@ -7496,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
 | Fisherman's Bait 2: Big Ol' Bass | 44944 | [44944-fishermans-bait-2-big-ol-bass.json](./44944-fishermans-bait-2-big-ol-bass.json) |
+| Fisherman's Bait: A Bass Challenge | 22845 | [22845-fishermans-bait-a-bass-challenge.json](./22845-fishermans-bait-a-bass-challenge.json) |
 | Fisherman’s Bait: Marlin Challenge | 270623 | [270623-fisherman-s-bait-marlin-challenge.json](./270623-fisherman-s-bait-marlin-challenge.json) |
 | Fisherman's Bass Club | 43427 | [43427-fishermans-bass-club.json](./43427-fishermans-bass-club.json) |
 | Fisherman's Challenge | 43652 | [43652-fishermans-challenge.json](./43652-fishermans-challenge.json) |
@@ -8960,6 +8962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sim Toolkit | 79065 | [79065-flight-sim-toolkit.json](./79065-flight-sim-toolkit.json) |
 | Flight Sim World | 28453 | [28453-flight-sim-world.json](./28453-flight-sim-world.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
+| Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
 | Flight Simulator (Bombardier CRJ 900 Edition) - Become Airplane Pilot | 103728 | [103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json](./103728-flight-simulator-bombardier-crj-900-edition-become-airplane-pilot.json) |
 | Flight Simulator 0 | 102231 | [102231-flight-simulator-0.json](./102231-flight-simulator-0.json) |
@@ -10590,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Management RPG | 197679 | [197679-football-management-rpg.json](./197679-football-management-rpg.json) |
 | Football Manager | 198244 | [198244-football-manager.json](./198244-football-manager.json) |
+| Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2 | 15222 | [15222-football-manager-2.json](./15222-football-manager-2.json) |
 | Football Manager 2000 | 44811 | [44811-football-manager-2000.json](./44811-football-manager-2000.json) |
 | Football Manager 2005 | 944 | [944-football-manager-2005.json](./944-football-manager-2005.json) |
@@ -15954,6 +15958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Shift | 132260 | [132260-fusion-shift.json](./132260-fusion-shift.json) |
 | Fusion Skills | 366319 | [366319-fusion-skills.json](./366319-fusion-skills.json) |
 | Fusion Wars | 19571 | [19571-fusion-wars.json](./19571-fusion-wars.json) |
+| Fusion: Genesis | 22935 | [22935-fusion-genesis.json](./22935-fusion-genesis.json) |
 | Fusion: Sentient | 65602 | [65602-fusion-sentient.json](./65602-fusion-sentient.json) |
 | Fusionfall Heroes | 302950 | [302950-fusionfall-heroes.json](./302950-fusionfall-heroes.json) |
 | Fusionfall Legacy | 302612 | [302612-fusionfall-legacy.json](./302612-fusionfall-legacy.json) |
