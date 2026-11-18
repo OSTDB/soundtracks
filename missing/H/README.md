@@ -3671,6 +3671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadOn! | 93729 | [93729-headon.json](./93729-headon.json) |
 | Headpat Special Taskforce | 400320 | [400320-headpat-special-taskforce.json](./400320-headpat-special-taskforce.json) |
 | Headpunk: The Comic-Style Battle Chaos | 192699 | [192699-headpunk-the-comic-style-battle-chaos.json](./192699-headpunk-the-comic-style-battle-chaos.json) |
+| Headquarters World War II | 186895 | [186895-headquarters-world-war-ii.json](./186895-headquarters-world-war-ii.json) |
 | Headquarters: Cold War | 380988 | [380988-headquarters-cold-war.json](./380988-headquarters-cold-war.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headquarters: World War II - Market Garden | 324932 | [324932-headquarters-world-war-ii-market-garden.json](./324932-headquarters-world-war-ii-market-garden.json) |
@@ -11537,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
+| Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 102699 | [102699-horizon.json](./102699-horizon.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon | 213688 | [213688-horizon.json](./213688-horizon.json) |
@@ -12414,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
+| Hotel Architect | 188789 | [188789-hotel-architect.json](./188789-hotel-architect.json) |
 | Hotel Barcelona: Late Check-Out DLC - From Dusk Valley to Grandall Estate. | 399310 | [399310-hotel-barcelona-late-check-out-dlc-from-dusk-valley-to-grandall-estate.json](./399310-hotel-barcelona-late-check-out-dlc-from-dusk-valley-to-grandall-estate.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
