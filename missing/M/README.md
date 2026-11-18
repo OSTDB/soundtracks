@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
 | M.A.Z.E | 364956 | [364956-m-a-z-e.json](./364956-m-a-z-e.json) |
+| M.B.E 3: Horror Escape | 395298 | [395298-m-b-e-3-horror-escape.json](./395298-m-b-e-3-horror-escape.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
 | M.C.I. Escapes | 114464 | [114464-m-c-i-escapes.json](./114464-m-c-i-escapes.json) |
@@ -5581,6 +5582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
+| Masaru: Ashita no Yukinojou 2 | 395309 | [395309-masaru-ashita-no-yukinojou-2.json](./395309-masaru-ashita-no-yukinojou-2.json) |
 | Masc, Mask & Masked! | 391661 | [391661-masc-mask-and-masked.json](./391661-masc-mask-and-masked.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
@@ -18291,6 +18293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
 | Monster Madness: Battle for Suburbia | 7076 | [7076-monster-madness-battle-for-suburbia.json](./7076-monster-madness-battle-for-suburbia.json) |
 | Monster Mage Madness | 392547 | [392547-monster-mage-madness.json](./392547-monster-mage-madness.json) |
+| Monster Mage Maze | 392518 | [392518-monster-mage-maze.json](./392518-monster-mage-maze.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker 4: Flash Card | 49715 | [49715-monster-maker-4-flash-card.json](./49715-monster-maker-4-flash-card.json) |
