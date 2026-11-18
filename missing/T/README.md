@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales of Aravorn: An Elven Marriage | 204139 | [204139-tales-of-aravorn-an-elven-marriage.json](./204139-tales-of-aravorn-an-elven-marriage.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
+| Tales of Aravorn: Seasons of the Wolf | 36162 | [36162-tales-of-aravorn-seasons-of-the-wolf.json](./36162-tales-of-aravorn-seasons-of-the-wolf.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
 | Tales of Arcana | 58978 | [58978-tales-of-arcana.json](./58978-tales-of-arcana.json) |
 | Tales of Arcrath | 379424 | [379424-tales-of-arcrath.json](./379424-tales-of-arcrath.json) |
@@ -11185,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gallagher Case | 213843 | [213843-the-gallagher-case.json](./213843-the-gallagher-case.json) |
 | The Gallery | 204185 | [204185-the-gallery.json](./204185-the-gallery.json) |
 | The Gallery | 337081 | [337081-the-gallery.json](./337081-the-gallery.json) |
+| The Gallery: Episode 1 - Call of the Starseed | 36432 | [36432-the-gallery-episode-1-call-of-the-starseed.json](./36432-the-gallery-episode-1-call-of-the-starseed.json) |
 | The Gallery: Episode 2 - Heart of the Emberstone | 68173 | [68173-the-gallery-episode-2-heart-of-the-emberstone.json](./68173-the-gallery-episode-2-heart-of-the-emberstone.json) |
 | The Gallery: VR Secrets | 390561 | [390561-the-gallery-vr-secrets.json](./390561-the-gallery-vr-secrets.json) |
 | The Gambit Lost to Time | 327173 | [327173-the-gambit-lost-to-time.json](./327173-the-gambit-lost-to-time.json) |
@@ -21379,6 +21381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Knight | 335235 | [335235-the-way-of-knight.json](./335235-the-way-of-knight.json) |
 | The Way of Life | 15326 | [15326-the-way-of-life.json](./15326-the-way-of-life.json) |
 | The Way of Life: Definitive Edition | 88398 | [88398-the-way-of-life-definitive-edition.json](./88398-the-way-of-life-definitive-edition.json) |
+| The Way of Life: Free Edition | 36291 | [36291-the-way-of-life-free-edition.json](./36291-the-way-of-life-free-edition.json) |
 | The Way of Love: Sub Zero | 74761 | [74761-the-way-of-love-sub-zero.json](./74761-the-way-of-love-sub-zero.json) |
 | The Way of Ping-pong | 402687 | [402687-the-way-of-ping-pong.json](./402687-the-way-of-ping-pong.json) |
 | The Way of the Badass | 204265 | [204265-the-way-of-the-badass.json](./204265-the-way-of-the-badass.json) |
@@ -25831,6 +25834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt | 286132 | [286132-tilt.json](./286132-tilt.json) |
 | Tilt | 77727 | [77727-tilt.json](./77727-tilt.json) |
 | Tilt and Roll | 219890 | [219890-tilt-and-roll.json](./219890-tilt-and-roll.json) |
+| Tilt Brush | 36215 | [36215-tilt-brush.json](./36215-tilt-brush.json) |
 | Tilt Frog | 286055 | [286055-tilt-frog.json](./286055-tilt-frog.json) |
 | Tilt It! Golf | 405331 | [405331-tilt-it-golf.json](./405331-tilt-it-golf.json) |
 | Tilt of Fury | 56763 | [56763-tilt-of-fury.json](./56763-tilt-of-fury.json) |
