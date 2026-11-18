@@ -20067,6 +20067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Side of the Moon | 318167 | [318167-duck-side-of-the-moon.json](./318167-duck-side-of-the-moon.json) |
 | Duck Simulator | 130547 | [130547-duck-simulator.json](./130547-duck-simulator.json) |
 | Duck Simulator 2 | 182367 | [182367-duck-simulator-2.json](./182367-duck-simulator-2.json) |
+| Duck Souls | 107774 | [107774-duck-souls.json](./107774-duck-souls.json) |
 | Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
@@ -21915,6 +21916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Shachou Game | 387122 | [387122-dx-shachou-game.json](./387122-dx-shachou-game.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
+| DX-Ball 2: 20th Anniversary Edition | 107803 | [107803-dx-ball-2-20th-anniversary-edition.json](./107803-dx-ball-2-20th-anniversary-edition.json) |
 | DXX-Rebirth | 428747 | [428747-dxx-rebirth.json](./428747-dxx-rebirth.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
 | Dyad | 9132 | [9132-dyad.json](./9132-dyad.json) |
