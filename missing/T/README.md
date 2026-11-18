@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Soldier: Undead Rising | 175589 | [175589-tactical-soldier-undead-rising.json](./175589-tactical-soldier-undead-rising.json) |
 | Tactical Strike | 318676 | [318676-tactical-strike.json](./318676-tactical-strike.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
+| Tactical Suppression | 164027 | [164027-tactical-suppression.json](./164027-tactical-suppression.json) |
 | Tactical Three Kingdoms: Strategy & War | 171136 | [171136-tactical-three-kingdoms-strategy-and-war.json](./171136-tactical-three-kingdoms-strategy-and-war.json) |
 | Tactical Troops: Anthracite Shift | 132329 | [132329-tactical-troops-anthracite-shift.json](./132329-tactical-troops-anthracite-shift.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisho Yakyuu Musume: Otometachi no Seishun Nikki | 269515 | [269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json](./269515-taisho-yakyuu-musume-otometachi-no-seishun-nikki.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
 | Taishogun: The Rise of Emperor | 144551 | [144551-taishogun-the-rise-of-emperor.json](./144551-taishogun-the-rise-of-emperor.json) |
+| Taishou Kitan | 181949 | [181949-taishou-kitan.json](./181949-taishou-kitan.json) |
 | Taishou Kitan: Kotonoha Sakura | 218956 | [218956-taishou-kitan-kotonoha-sakura.json](./218956-taishou-kitan-kotonoha-sakura.json) |
 | Taishou Mebiusline | 204641 | [204641-taishou-mebiusline.json](./204641-taishou-mebiusline.json) |
 | Taishou Mebiusline Hitotsumi | 141897 | [141897-taishou-mebiusline-hitotsumi.json](./141897-taishou-mebiusline-hitotsumi.json) |
@@ -5435,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrimus | 125607 | [125607-tetrimus.json](./125607-tetrimus.json) |
 | Tetrinet | 51351 | [51351-tetrinet.json](./51351-tetrinet.json) |
 | Tetripank | 96431 | [96431-tetripank.json](./96431-tetripank.json) |
+| TetriPlus | 181954 | [181954-tetriplus.json](./181954-tetriplus.json) |
 | Tetripz | 93215 | [93215-tetripz.json](./93215-tetripz.json) |
 | Tetris | 131503 | [131503-tetris.json](./131503-tetris.json) |
 | Tetris | 133912 | [133912-tetris.json](./133912-tetris.json) |
@@ -7859,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capybarrier | 310908 | [310908-the-capybarrier.json](./310908-the-capybarrier.json) |
 | The Carcass | 386476 | [386476-the-carcass.json](./386476-the-carcass.json) |
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
+| The Card Perfect Collection | 196187 | [196187-the-card-perfect-collection.json](./196187-the-card-perfect-collection.json) |
 | The Card Perfect Collection Plus: Texas Hold 'em, Solitaire and Others | 255213 | [255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json](./255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json) |
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | The Card: Daifugou / Poker / Blackjack | 222028 | [222028-the-card-daifugou-poker-blackjack.json](./222028-the-card-daifugou-poker-blackjack.json) |
@@ -9002,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Wish | 123470 | [123470-the-dark-wish.json](./123470-the-dark-wish.json) |
 | The Dark World | 221234 | [221234-the-dark-world.json](./221234-the-dark-world.json) |
 | The Dark World: Edge of Eternity | 152053 | [152053-the-dark-world-edge-of-eternity.json](./152053-the-dark-world-edge-of-eternity.json) |
+| The Dark: Survival RPG | 164028 | [164028-the-dark-survival-rpg.json](./164028-the-dark-survival-rpg.json) |
 | The Darkblade | 367894 | [367894-the-darkblade.json](./367894-the-darkblade.json) |
 | The DarkCity | 278126 | [278126-the-darkcity.json](./278126-the-darkcity.json) |
 | The Darked | 142227 | [142227-the-darked.json](./142227-the-darked.json) |
@@ -9545,6 +9550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Compass | 108123 | [108123-the-dream-compass.json](./108123-the-dream-compass.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
+| The Dream is Coming... | 164042 | [164042-the-dream-is-coming.json](./164042-the-dream-is-coming.json) |
 | The Dream Labyrinth | 249047 | [249047-the-dream-labyrinth.json](./249047-the-dream-labyrinth.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
 | The Dream Machine | 9826 | [9826-the-dream-machine.json](./9826-the-dream-machine.json) |
@@ -14076,6 +14082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Zero no Kiseki | 192133 | [192133-the-legend-of-heroes-zero-no-kiseki.json](./192133-the-legend-of-heroes-zero-no-kiseki.json) |
 | The Legend of Heroes: Zero no Kiseki Evolution | 136756 | [136756-the-legend-of-heroes-zero-no-kiseki-evolution.json](./136756-the-legend-of-heroes-zero-no-kiseki-evolution.json) |
 | The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
+| The Legend of Imperial Defence | 175442 | [175442-the-legend-of-imperial-defence.json](./175442-the-legend-of-imperial-defence.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Kage | 39152 | [39152-the-legend-of-kage.json](./39152-the-legend-of-kage.json) |
 | The Legend of Kage 2 | 21336 | [21336-the-legend-of-kage-2.json](./21336-the-legend-of-kage-2.json) |
@@ -16701,6 +16708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perilous Voyage | 397435 | [397435-the-perilous-voyage.json](./397435-the-perilous-voyage.json) |
 | The Perils of Man | 11622 | [11622-the-perils-of-man.json](./11622-the-perils-of-man.json) |
+| The Perils of Mickey | 198846 | [198846-the-perils-of-mickey.json](./198846-the-perils-of-mickey.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Perils of Willy ZX | 411639 | [411639-the-perils-of-willy-zx.json](./411639-the-perils-of-willy-zx.json) |
 | The Perished | 196930 | [196930-the-perished.json](./196930-the-perished.json) |
@@ -25400,6 +25408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Crusher | 186221 | [186221-tile-crusher.json](./186221-tile-crusher.json) |
+| Tile Flip | 196189 | [196189-tile-flip.json](./196189-tile-flip.json) |
 | Tile Former | 426041 | [426041-tile-former.json](./426041-tile-former.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Garden | 214305 | [214305-tile-garden.json](./214305-tile-garden.json) |
@@ -27648,6 +27657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Jungle | 7467 | [7467-tokyo-jungle.json](./7467-tokyo-jungle.json) |
 | Tokyo Jungle Mobile | 63193 | [63193-tokyo-jungle-mobile.json](./63193-tokyo-jungle-mobile.json) |
 | Tokyo Kowloon | 77679 | [77679-tokyo-kowloon.json](./77679-tokyo-kowloon.json) |
+| Tokyo Love + | 164026 | [164026-tokyo-love.json](./164026-tokyo-love.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
 | Tokyo Mafia Simulator | 288974 | [288974-tokyo-mafia-simulator.json](./288974-tokyo-mafia-simulator.json) |
 | Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
@@ -28557,6 +28567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Cup 2016 | 317547 | [317547-toon-cup-2016.json](./317547-toon-cup-2016.json) |
 | Toon Cup 2018 - Football Game | 112135 | [112135-toon-cup-2018-football-game.json](./112135-toon-cup-2018-football-game.json) |
+| Toon Cup 2021 | 181953 | [181953-toon-cup-2021.json](./181953-toon-cup-2021.json) |
 | Toon Hoops | 194805 | [194805-toon-hoops.json](./194805-toon-hoops.json) |
 | Toon Off | 112245 | [112245-toon-off.json](./112245-toon-off.json) |
 | Toon Panic | 136860 | [136860-toon-panic.json](./136860-toon-panic.json) |
@@ -36096,6 +36107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime | 63998 | [63998-tsukihime.json](./63998-tsukihime.json) |
 | Tsukihime Plus-Disc | 144565 | [144565-tsukihime-plus-disc.json](./144565-tsukihime-plus-disc.json) |
 | Tsukihime Typing Online | 255840 | [255840-tsukihime-typing-online.json](./255840-tsukihime-typing-online.json) |
+| Tsukihime: A Piece of Blue Glass Moon - Limited Edition | 166246 | [166246-tsukihime-a-piece-of-blue-glass-moon-limited-edition.json](./166246-tsukihime-a-piece-of-blue-glass-moon-limited-edition.json) |
 | Tsukihime: Fool's Errand | 254127 | [254127-tsukihime-fools-errand.json](./254127-tsukihime-fools-errand.json) |
 | Tsukihime: The Other Side of Red Garden | 172394 | [172394-tsukihime-the-other-side-of-red-garden.json](./172394-tsukihime-the-other-side-of-red-garden.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
