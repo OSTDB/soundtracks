@@ -2471,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemurenu Yoru no Mikaketsu Mystery | 254925 | [254925-nemurenu-yoru-no-mikaketsu-mystery.json](./254925-nemurenu-yoru-no-mikaketsu-mystery.json) |
 | Nemuri Uri no | 233479 | [233479-nemuri-uri-no.json](./233479-nemuri-uri-no.json) |
 | Nemuru Mayu | 141028 | [141028-nemuru-mayu.json](./141028-nemuru-mayu.json) |
+| Nena | 140660 | [140660-nena.json](./140660-nena.json) |
 | Nend.io | 183231 | [183231-nend-io.json](./183231-nend-io.json) |
 | Nendoroid Generation | 44485 | [44485-nendoroid-generation.json](./44485-nendoroid-generation.json) |
 | Nene Interactive Suicide | 393304 | [393304-nene-interactive-suicide.json](./393304-nene-interactive-suicide.json) |
