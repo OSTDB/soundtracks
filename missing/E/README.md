@@ -491,7 +491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthlock 2 | 136090 | [136090-earthlock-2.json](./136090-earthlock-2.json) |
 | Earthlock: Festival of Magic | 7202 | [7202-earthlock-festival-of-magic.json](./7202-earthlock-festival-of-magic.json) |
 | Earthly Delights | 24665 | [24665-earthly-delights.json](./24665-earthly-delights.json) |
-| EarthNight | 27742 | [27742-earthnight.json](./27742-earthnight.json) |
 | Earthpedia | 92393 | [92393-earthpedia.json](./92393-earthpedia.json) |
 | Earthquake | 349482 | [349482-earthquake.json](./349482-earthquake.json) |
 | Earthquake Escape | 193229 | [193229-earthquake-escape.json](./193229-earthquake-escape.json) |
@@ -3068,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elitserien 96 | 45560 | [45560-elitserien-96.json](./45560-elitserien-96.json) |
 | Elium: Prison Escape | 83953 | [83953-elium-prison-escape.json](./83953-elium-prison-escape.json) |
 | Elixia | 133757 | [133757-elixia.json](./133757-elixia.json) |
+| Elixion | 389144 | [389144-elixion.json](./389144-elixion.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Elixir | 196378 | [196378-elixir.json](./196378-elixir.json) |
 | Elixir | 226378 | [226378-elixir.json](./226378-elixir.json) |
@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire | 383339 | [383339-empire.json](./383339-empire.json) |
 | Empire Above All | 63674 | [63674-empire-above-all.json](./63674-empire-above-all.json) |
 | Empire Architect | 29459 | [29459-empire-architect.json](./29459-empire-architect.json) |
+| Empire at Risk | 389139 | [389139-empire-at-risk.json](./389139-empire-at-risk.json) |
 | Empire Builder: Ancient Egypt | 146482 | [146482-empire-builder-ancient-egypt.json](./146482-empire-builder-ancient-egypt.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
 | Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
