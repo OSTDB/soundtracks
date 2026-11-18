@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
 | A Quest Too Far | 23509 | [23509-a-quest-too-far.json](./23509-a-quest-too-far.json) |
+| A Question of Scruples: The Computer Edition | 133441 | [133441-a-question-of-scruples-the-computer-edition.json](./133441-a-question-of-scruples-the-computer-edition.json) |
 | A Question of Sport | 8521 | [8521-a-question-of-sport.json](./8521-a-question-of-sport.json) |
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Quick Journey to the Edge and Back | 177844 | [177844-a-quick-journey-to-the-edge-and-back.json](./177844-a-quick-journey-to-the-edge-and-back.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spooky Hunt With: Malvina | 385274 | [385274-a-spooky-hunt-with-malvina.json](./385274-a-spooky-hunt-with-malvina.json) |
 | A Spooky Item Game | 363043 | [363043-a-spooky-item-game.json](./363043-a-spooky-item-game.json) |
 | A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
+| A Squire's Tale | 131616 | [131616-a-squires-tale.json](./131616-a-squires-tale.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Starspangled Zephyr | 179189 | [179189-a-starspangled-zephyr.json](./179189-a-starspangled-zephyr.json) |
 | A Steak Temple Panic | 202652 | [202652-a-steak-temple-panic.json](./202652-a-steak-temple-panic.json) |
@@ -1814,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
+| A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Wonderful Cat Life | 426366 | [426366-a-wonderful-cat-life.json](./426366-a-wonderful-cat-life.json) |
 | A Wonderful Day For Fishing | 186965 | [186965-a-wonderful-day-for-fishing.json](./186965-a-wonderful-day-for-fishing.json) |
@@ -3925,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift in the Backrooms | 264732 | [264732-adrift-in-the-backrooms.json](./264732-adrift-in-the-backrooms.json) |
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
+| Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
 | Adrullan Online Adventures | 177709 | [177709-adrullan-online-adventures.json](./177709-adrullan-online-adventures.json) |
 | ADS: Advanced Destroyer Simulator | 11887 | [11887-ads-advanced-destroyer-simulator.json](./11887-ads-advanced-destroyer-simulator.json) |
@@ -5977,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
 | Agronom | 293977 | [293977-agronom.json](./293977-agronom.json) |
 | Agross | 121973 | [121973-agross.json](./121973-agross.json) |
+| Agrou | 133456 | [133456-agrou.json](./133456-agrou.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Aground | 104164 | [104164-aground.json](./104164-aground.json) |
@@ -12574,6 +12579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Animal | 200361 | [200361-anonymous-animal.json](./200361-anonymous-animal.json) |
 | Anonymous Hacker Simulator | 258607 | [258607-anonymous-hacker-simulator.json](./258607-anonymous-hacker-simulator.json) |
 | Anonymous Hunting Simulator | 274537 | [274537-anonymous-hunting-simulator.json](./274537-anonymous-hunting-simulator.json) |
+| Anonymous Letter: Prowler | 129278 | [129278-anonymous-letter-prowler.json](./129278-anonymous-letter-prowler.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous Notes: Chapter 1 - From the Abyss | 84745 | [84745-anonymous-notes-chapter-1-from-the-abyss.json](./84745-anonymous-notes-chapter-1-from-the-abyss.json) |
@@ -20183,6 +20189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Legends | 123105 | [123105-auto-chess-legends.json](./123105-auto-chess-legends.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
+| Auto Chess War | 137124 | [137124-auto-chess-war.json](./137124-auto-chess-war.json) |
 | Auto Clicker Pro | 303902 | [303902-auto-clicker-pro.json](./303902-auto-clicker-pro.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Crusher Palladium | 229229 | [229229-auto-crusher-palladium.json](./229229-auto-crusher-palladium.json) |
@@ -21163,6 +21170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axys: The Last Battle | 39071 | [39071-axys-the-last-battle.json](./39071-axys-the-last-battle.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
+| Aya | 137119 | [137119-aya.json](./137119-aya.json) |
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
 | Aya & Naya | 260882 | [260882-aya-and-naya.json](./260882-aya-and-naya.json) |
 | Aya and the Cubes of Light | 51090 | [51090-aya-and-the-cubes-of-light.json](./51090-aya-and-the-cubes-of-light.json) |
