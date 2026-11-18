@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | Lingering Shadows | 352320 | [352320-lingering-shadows.json](./352320-lingering-shadows.json) |
 | Lingering Souls | 285412 | [285412-lingering-souls.json](./285412-lingering-souls.json) |
+| Lingering Torment | 430095 | [430095-lingering-torment.json](./430095-lingering-torment.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Línghuàn Dàoshì | 45618 | [45618-linghuan-daoshi.json](./45618-linghuan-daoshi.json) |
@@ -6754,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Eidolons | 290296 | [290296-little-eidolons.json](./290296-little-eidolons.json) |
 | Little Einar | 52065 | [52065-little-einar.json](./52065-little-einar.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
+| Little Elementals | 429999 | [429999-little-elementals.json](./429999-little-elementals.json) |
 | Little elf | 110607 | [110607-little-elf.json](./110607-little-elf.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Eternal Chronicle | 236485 | [236485-little-eternal-chronicle.json](./236485-little-eternal-chronicle.json) |
@@ -10039,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! School Idol Paradise: Vol.1 Printemps Unit | 36690 | [36690-love-live-school-idol-paradise-vol-1-printemps-unit.json](./36690-love-live-school-idol-paradise-vol-1-printemps-unit.json) |
 | Love Live! School Idol Paradise: Vol.2 BiBi Unit | 36691 | [36691-love-live-school-idol-paradise-vol-2-bibi-unit.json](./36691-love-live-school-idol-paradise-vol-2-bibi-unit.json) |
 | Love Live! School Idol Paradise: Vol.3 Lily White Unit | 36692 | [36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json](./36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json) |
+| Love Locks | 430283 | [430283-love-locks.json](./430283-love-locks.json) |
 | Love Love 2024: The Love Election | 341184 | [341184-love-love-2024-the-love-election.json](./341184-love-love-2024-the-love-election.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
 | Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
