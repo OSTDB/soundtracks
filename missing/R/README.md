@@ -4415,7 +4415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Echoes: Berlin | 412606 | [412606-red-echoes-berlin.json](./412606-red-echoes-berlin.json) |
 | Red Eclipse | 46965 | [46965-red-eclipse.json](./46965-red-eclipse.json) |
 | Red Egg: High Protein Gluten Free Adventure | 256353 | [256353-red-egg-high-protein-gluten-free-adventure.json](./256353-red-egg-high-protein-gluten-free-adventure.json) |
-| Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
 | Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
 | Red Embrace: Mezzanine | 152999 | [152999-red-embrace-mezzanine.json](./152999-red-embrace-mezzanine.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
