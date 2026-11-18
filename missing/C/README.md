@@ -4027,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Age HD | 109065 | [109065-castle-age-hd.json](./109065-castle-age-hd.json) |
 | Castle Agony | 343579 | [343579-castle-agony.json](./343579-castle-agony.json) |
 | Castle and Cursor | 374818 | [374818-castle-and-cursor.json](./374818-castle-and-cursor.json) |
+| Castle Arena | 397322 | [397322-castle-arena.json](./397322-castle-arena.json) |
 | Castle Assault | 13465 | [13465-castle-assault.json](./13465-castle-assault.json) |
 | Castle Away | 396006 | [396006-castle-away.json](./396006-castle-away.json) |
 | Castle Battle: The Game | 237784 | [237784-castle-battle-the-game.json](./237784-castle-battle-the-game.json) |
@@ -7357,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatter Challenge | 284814 | [284814-chatter-challenge.json](./284814-chatter-challenge.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
+| Chatting with Dave | 395305 | [395305-chatting-with-dave.json](./395305-chatting-with-dave.json) |
 | Chatty | 112042 | [112042-chatty.json](./112042-chatty.json) |
 | Chatty's Bratty Tryst | 314010 | [314010-chattys-bratty-tryst.json](./314010-chattys-bratty-tryst.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
@@ -19379,6 +19381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Nick's Picks: King Graham's Board Game Challenge | 69760 | [69760-crazy-nicks-picks-king-grahams-board-game-challenge.json](./69760-crazy-nicks-picks-king-grahams-board-game-challenge.json) |
 | Crazy Oafish Ultra Blocks: Big Sale | 30534 | [30534-crazy-oafish-ultra-blocks-big-sale.json](./30534-crazy-oafish-ultra-blocks-big-sale.json) |
 | Crazy Oce | 143544 | [143544-crazy-oce.json](./143544-crazy-oce.json) |
+| Crazy Odyssey | 397321 | [397321-crazy-odyssey.json](./397321-crazy-odyssey.json) |
 | Crazy Office Dentist | 175540 | [175540-crazy-office-dentist.json](./175540-crazy-office-dentist.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Open Car | 242198 | [242198-crazy-open-car.json](./242198-crazy-open-car.json) |
