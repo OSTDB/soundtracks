@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.T. Defender of Texel | 326505 | [326505-d-o-t-defender-of-texel.json](./326505-d-o-t-defender-of-texel.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.P.S: Weapons Testing Facility 2 | 354903 | [354903-d-p-s-weapons-testing-facility-2.json](./354903-d-p-s-weapons-testing-facility-2.json) |
+| D.R.A.G.O.N. Force | 14633 | [14633-d-r-a-g-o-n-force.json](./14633-d-r-a-g-o-n-force.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
 | D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Idea | 37981 | [37981-day-of-the-idea.json](./37981-day-of-the-idea.json) |
 | Day of the Infected | 112510 | [112510-day-of-the-infected.json](./112510-day-of-the-infected.json) |
 | Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
+| Day of the Pharaoh | 14634 | [14634-day-of-the-pharaoh.json](./14634-day-of-the-pharaoh.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
 | Day of the Tiki | 90950 | [90950-day-of-the-tiki.json](./90950-day-of-the-tiki.json) |
@@ -5255,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death on Stage | 320702 | [320702-death-on-stage.json](./320702-death-on-stage.json) |
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
+| Death or Glory: Das Erbe von Morgan | 14635 | [14635-death-or-glory-das-erbe-von-morgan.json](./14635-death-or-glory-das-erbe-von-morgan.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Pages: Ghost Library | 418428 | [418428-death-pages-ghost-library.json](./418428-death-pages-ghost-library.json) |
 | Death Pages: Ghost Library - Collector's Edition | 418429 | [418429-death-pages-ghost-library-collectors-edition.json](./418429-death-pages-ghost-library-collectors-edition.json) |
@@ -5429,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbound | 292043 | [292043-deathbound.json](./292043-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
+| Deathbringer | 14636 | [14636-deathbringer.json](./14636-deathbringer.json) |
 | Deathbulge: Battle of the Bands | 114778 | [114778-deathbulge-battle-of-the-bands.json](./114778-deathbulge-battle-of-the-bands.json) |
 | Deathchase 2002 | 71775 | [71775-deathchase-2002.json](./71775-deathchase-2002.json) |
 | Deathchron | 242040 | [242040-deathchron.json](./242040-deathchron.json) |
@@ -6169,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sorrow | 74931 | [74931-deep-sorrow.json](./74931-deep-sorrow.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
 | Deep Space | 108405 | [108405-deep-space.json](./108405-deep-space.json) |
+| Deep Space | 14637 | [14637-deep-space.json](./14637-deep-space.json) |
 | Deep Space | 149190 | [149190-deep-space.json](./149190-deep-space.json) |
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
