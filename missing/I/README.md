@@ -6542,7 +6542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iridion II | 6450 | [6450-iridion-ii.json](./6450-iridion-ii.json) |
 | Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
 | Iridium | 132994 | [132994-iridium.json](./132994-iridium.json) |
-| Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris | 297908 | [297908-iris.json](./297908-iris.json) |
 | Iris | 388935 | [388935-iris.json](./388935-iris.json) |
