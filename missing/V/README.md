@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Ante Chamber | 375522 | [375522-vampire-survivors-ante-chamber.json](./375522-vampire-survivors-ante-chamber.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
+| Vampire Survivors: Emergency Meeting | 279377 | [279377-vampire-survivors-emergency-meeting.json](./279377-vampire-survivors-emergency-meeting.json) |
 | Vampire Survivors: Game + All DLC + OST Bundle | 327723 | [327723-vampire-survivors-game-all-dlc-ost-bundle.json](./327723-vampire-survivors-game-all-dlc-ost-bundle.json) |
 | Vampire Survivors: Laborratory Update | 299594 | [299594-vampire-survivors-laborratory-update.json](./299594-vampire-survivors-laborratory-update.json) |
 | Vampire Survivors: Legacy of the Bloodmoon | 404912 | [404912-vampire-survivors-legacy-of-the-bloodmoon.json](./404912-vampire-survivors-legacy-of-the-bloodmoon.json) |
