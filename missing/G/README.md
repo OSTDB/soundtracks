@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 2: Supernova | 402965 | [402965-galaxy-on-fire-2-supernova.json](./402965-galaxy-on-fire-2-supernova.json) |
 | Galaxy on Fire 2: Valkyrie | 399404 | [399404-galaxy-on-fire-2-valkyrie.json](./399404-galaxy-on-fire-2-valkyrie.json) |
 | Galaxy on Fire 3 | 102684 | [102684-galaxy-on-fire-3.json](./102684-galaxy-on-fire-3.json) |
+| Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Online | 67649 | [67649-galaxy-online.json](./67649-galaxy-online.json) |
