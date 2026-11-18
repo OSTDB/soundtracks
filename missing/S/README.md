@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: The Hungering Deep | 102080 | [102080-sea-of-thieves-the-hungering-deep.json](./102080-sea-of-thieves-the-hungering-deep.json) |
 | Sea of Thieves: The Legend of Monkey Island | 252829 | [252829-sea-of-thieves-the-legend-of-monkey-island.json](./252829-sea-of-thieves-the-legend-of-monkey-island.json) |
 | Sea of Thieves: Wild Things - Season 15 | 354372 | [354372-sea-of-thieves-wild-things-season-15.json](./354372-sea-of-thieves-wild-things-season-15.json) |
+| Sea of Thieves: X Edition | 336791 | [336791-sea-of-thieves-x-edition.json](./336791-sea-of-thieves-x-edition.json) |
 | Sea of Tranquility | 347655 | [347655-sea-of-tranquility.json](./347655-sea-of-tranquility.json) |
 | Sea of Treasures | 261152 | [261152-sea-of-treasures.json](./261152-sea-of-treasures.json) |
 | Sea of Wonders | 184670 | [184670-sea-of-wonders.json](./184670-sea-of-wonders.json) |
@@ -7411,6 +7412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Memory Puzzle: Gay Gym | 340613 | [340613-sexy-memory-puzzle-gay-gym.json](./340613-sexy-memory-puzzle-gay-gym.json) |
 | Sexy Memory Puzzle: Gay Jail | 340612 | [340612-sexy-memory-puzzle-gay-jail.json](./340612-sexy-memory-puzzle-gay-jail.json) |
 | Sexy Memory Puzzle: Gay Pool | 340611 | [340611-sexy-memory-puzzle-gay-pool.json](./340611-sexy-memory-puzzle-gay-pool.json) |
+| Sexy Memory Puzzle: Gay Sauna | 340610 | [340610-sexy-memory-puzzle-gay-sauna.json](./340610-sexy-memory-puzzle-gay-sauna.json) |
+| Sexy Memory Puzzle: Gloryhole Girls | 340609 | [340609-sexy-memory-puzzle-gloryhole-girls.json](./340609-sexy-memory-puzzle-gloryhole-girls.json) |
 | Sexy Memory Puzzle: Kawaii | 384873 | [384873-sexy-memory-puzzle-kawaii.json](./384873-sexy-memory-puzzle-kawaii.json) |
 | Sexy Memory Puzzle: Kinky Workout | 340608 | [340608-sexy-memory-puzzle-kinky-workout.json](./340608-sexy-memory-puzzle-kinky-workout.json) |
 | Sexy Memory Puzzle: Pool Girls | 340607 | [340607-sexy-memory-puzzle-pool-girls.json](./340607-sexy-memory-puzzle-pool-girls.json) |
@@ -16251,6 +16254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World | 143233 | [143233-small-world.json](./143233-small-world.json) |
 | Small World | 217779 | [217779-small-world.json](./217779-small-world.json) |
 | Small World | 272927 | [272927-small-world.json](./272927-small-world.json) |
+| Small World 2 | 342926 | [342926-small-world-2.json](./342926-small-world-2.json) |
 | Small World Z | 129513 | [129513-small-world-z.json](./129513-small-world-z.json) |
 | Small World: Grand Dames | 174467 | [174467-small-world-grand-dames.json](./174467-small-world-grand-dames.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
@@ -20598,6 +20602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Quick Step Challenge | 332604 | [332604-sonic-quick-step-challenge.json](./332604-sonic-quick-step-challenge.json) |
 | Sonic: Return to Floating Island | 330455 | [330455-sonic-return-to-floating-island.json](./330455-sonic-return-to-floating-island.json) |
 | Sonic: Rewind | 326804 | [326804-sonic-rewind.json](./326804-sonic-rewind.json) |
+| Sonic: Round 7 | 332713 | [332713-sonic-round-7.json](./332713-sonic-round-7.json) |
 | Sonic: RTFI | 330513 | [330513-sonic-rtfi.json](./330513-sonic-rtfi.json) |
 | Sonic: Scorched Quest | 198565 | [198565-sonic-scorched-quest.json](./198565-sonic-scorched-quest.json) |
 | Sonic: Scrambled Eggs | 321111 | [321111-sonic-scrambled-eggs.json](./321111-sonic-scrambled-eggs.json) |
@@ -25926,6 +25931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Challenge 3D | 379310 | [379310-spot-challenge-3d.json](./379310-spot-challenge-3d.json) |
 | Spot Challenge Vol. 1 | 331912 | [331912-spot-challenge-vol-1.json](./331912-spot-challenge-vol-1.json) |
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
+| Spot Challenge Vol. 3 | 336792 | [336792-spot-challenge-vol-3.json](./336792-spot-challenge-vol-3.json) |
 | Spot Challenge Vol. 4 | 343567 | [343567-spot-challenge-vol-4.json](./343567-spot-challenge-vol-4.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Goes to Hollywood | 344044 | [344044-spot-goes-to-hollywood.json](./344044-spot-goes-to-hollywood.json) |
@@ -30616,6 +30622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Not Dead | 41952 | [41952-still-not-dead.json](./41952-still-not-dead.json) |
 | Still Rain: The Arrival | 414626 | [414626-still-rain-the-arrival.json](./414626-still-rain-the-arrival.json) |
 | Still Remember | 424726 | [424726-still-remember.json](./424726-still-remember.json) |
+| Still Residue | 342929 | [342929-still-residue.json](./342929-still-residue.json) |
 | Still Ridge | 191307 | [191307-still-ridge.json](./191307-still-ridge.json) |
 | Still Rolling | 409423 | [409423-still-rolling.json](./409423-still-rolling.json) |
 | Still Room: I Miss You | 396499 | [396499-still-room-i-miss-you.json](./396499-still-room-i-miss-you.json) |
