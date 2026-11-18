@@ -10942,6 +10942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
+| Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | Plates of Peril | 422066 | [422066-plates-of-peril.json](./422066-plates-of-peril.json) |
 | PlateUp! | 151353 | [151353-plateup.json](./151353-plateup.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
@@ -13634,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Pursuit | 108108 | [108108-police-pursuit.json](./108108-police-pursuit.json) |
 | Police Pursuit | 267600 | [267600-police-pursuit.json](./267600-police-pursuit.json) |
+| Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
 | Police Quest II: The Vengeance | 1925 | [1925-police-quest-ii-the-vengeance.json](./1925-police-quest-ii-the-vengeance.json) |
 | Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Quest: In Pursuit of the Death Angel | 1924 | [1924-police-quest-in-pursuit-of-the-death-angel.json](./1924-police-quest-in-pursuit-of-the-death-angel.json) |
