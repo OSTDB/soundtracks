@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youtubers Life | 19331 | [19331-youtubers-life.json](./19331-youtubers-life.json) |
 | Youtubers Life - Cooking Channel | 89533 | [89533-youtubers-life-cooking-channel.json](./89533-youtubers-life-cooking-channel.json) |
 | Youtubers Life - Music Channel | 87467 | [87467-youtubers-life-music-channel.json](./87467-youtubers-life-music-channel.json) |
+| Youtubers Life 2 | 145776 | [145776-youtubers-life-2.json](./145776-youtubers-life-2.json) |
 | Youtubers Life 3 | 344644 | [344644-youtubers-life-3.json](./344644-youtubers-life-3.json) |
 | Youtubers Life: Fashion | 212413 | [212413-youtubers-life-fashion.json](./212413-youtubers-life-fashion.json) |
 | Youtubers Life: OMG Edition | 111159 | [111159-youtubers-life-omg-edition.json](./111159-youtubers-life-omg-edition.json) |
