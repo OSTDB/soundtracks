@@ -3836,7 +3836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adivinhe a Cor! | 282805 | [282805-adivinhe-a-cor.json](./282805-adivinhe-a-cor.json) |
 | Adivinhe o Jogo | 254249 | [254249-adivinhe-o-jogo.json](./254249-adivinhe-o-jogo.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
-| Adjacency | 29306 | [29306-adjacency.json](./29306-adjacency.json) |
 | ADK | 112379 | [112379-adk.json](./112379-adk.json) |
 | ADK Damashii | 151930 | [151930-adk-damashii.json](./151930-adk-damashii.json) |
 | ADK Damashii | 79572 | [79572-adk-damashii.json](./79572-adk-damashii.json) |
