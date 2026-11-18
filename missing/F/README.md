@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Card Battlers | 320613 | [320613-fairy-card-battlers.json](./320613-fairy-card-battlers.json) |
 | Fairy Card Rogue | 226503 | [226503-fairy-card-rogue.json](./226503-fairy-card-rogue.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
+| Fairy Circle | 389141 | [389141-fairy-circle.json](./389141-fairy-circle.json) |
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Cubes | 207978 | [207978-fairy-cubes.json](./207978-fairy-cubes.json) |
 | Fairy Deer | 196400 | [196400-fairy-deer.json](./196400-fairy-deer.json) |
@@ -6402,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Buddies | 308169 | [308169-finding-buddies.json](./308169-finding-buddies.json) |
+| Finding Cats | 376405 | [376405-finding-cats.json](./376405-finding-cats.json) |
 | Finding Cats | 409986 | [409986-finding-cats.json](./409986-finding-cats.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
@@ -15104,11 +15106,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Planet | 12110 | [12110-full-metal-planet.json](./12110-full-metal-planet.json) |
 | Full Metal Renegade | 105169 | [105169-full-metal-renegade.json](./105169-full-metal-renegade.json) |
 | Full Metal Schoolgirl | 352205 | [352205-full-metal-schoolgirl.json](./352205-full-metal-schoolgirl.json) |
+| Full Metal Schoolgirl: Accessory - "Black Victory Daruma" | 376385 | [376385-full-metal-schoolgirl-accessory-black-victory-daruma.json](./376385-full-metal-schoolgirl-accessory-black-victory-daruma.json) |
+| Full Metal Schoolgirl: Accessory - "Brown Raccoon Tail" | 376384 | [376384-full-metal-schoolgirl-accessory-brown-raccoon-tail.json](./376384-full-metal-schoolgirl-accessory-brown-raccoon-tail.json) |
+| Full Metal Schoolgirl: Accessory - "Calico Cat Tail" | 376383 | [376383-full-metal-schoolgirl-accessory-calico-cat-tail.json](./376383-full-metal-schoolgirl-accessory-calico-cat-tail.json) |
 | Full Metal Schoolgirl: Accessory - "Cat Tail" in 2 Color Varieties | 365568 | [365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json](./365568-full-metal-schoolgirl-accessory-cat-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Dopey Panda" | 376382 | [376382-full-metal-schoolgirl-accessory-dopey-panda.json](./376382-full-metal-schoolgirl-accessory-dopey-panda.json) |
 | Full Metal Schoolgirl: Accessory - "Dopey Panda" in 2 Color Varieties | 365569 | [365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json](./365569-full-metal-schoolgirl-accessory-dopey-panda-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Fox Tail" | 376381 | [376381-full-metal-schoolgirl-accessory-fox-tail.json](./376381-full-metal-schoolgirl-accessory-fox-tail.json) |
 | Full Metal Schoolgirl: Accessory - "Fox Tail" in 2 Color Varieties | 365570 | [365570-full-metal-schoolgirl-accessory-fox-tail-in-2-color-varieties.json](./365570-full-metal-schoolgirl-accessory-fox-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Gray Fox Tail" | 376380 | [376380-full-metal-schoolgirl-accessory-gray-fox-tail.json](./376380-full-metal-schoolgirl-accessory-gray-fox-tail.json) |
+| Full Metal Schoolgirl: Accessory - "Green Grey Alien" | 376379 | [376379-full-metal-schoolgirl-accessory-green-grey-alien.json](./376379-full-metal-schoolgirl-accessory-green-grey-alien.json) |
 | Full Metal Schoolgirl: Accessory - "Grey Alien" in 2 Color Varieties | 365571 | [365571-full-metal-schoolgirl-accessory-grey-alien-in-2-color-varieties.json](./365571-full-metal-schoolgirl-accessory-grey-alien-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Pink Dopey Panda" | 376378 | [376378-full-metal-schoolgirl-accessory-pink-dopey-panda.json](./376378-full-metal-schoolgirl-accessory-pink-dopey-panda.json) |
+| Full Metal Schoolgirl: Accessory - "Pink Grey Alien" | 376377 | [376377-full-metal-schoolgirl-accessory-pink-grey-alien.json](./376377-full-metal-schoolgirl-accessory-pink-grey-alien.json) |
 | Full Metal Schoolgirl: Accessory - "Raccoon Tail" in 2 Color Varieties | 365572 | [365572-full-metal-schoolgirl-accessory-raccoon-tail-in-2-color-varieties.json](./365572-full-metal-schoolgirl-accessory-raccoon-tail-in-2-color-varieties.json) |
+| Full Metal Schoolgirl: Accessory - "Red Raccoon Tail" | 376376 | [376376-full-metal-schoolgirl-accessory-red-raccoon-tail.json](./376376-full-metal-schoolgirl-accessory-red-raccoon-tail.json) |
+| Full Metal Schoolgirl: Accessory - "Red Victory Daruma" | 376375 | [376375-full-metal-schoolgirl-accessory-red-victory-daruma.json](./376375-full-metal-schoolgirl-accessory-red-victory-daruma.json) |
+| Full Metal Schoolgirl: Accessory - "Spotted Cat Tail" | 376374 | [376374-full-metal-schoolgirl-accessory-spotted-cat-tail.json](./376374-full-metal-schoolgirl-accessory-spotted-cat-tail.json) |
 | Full Metal Schoolgirl: Accessory - "Victory Daruma" in 2 Color Varieties | 365573 | [365573-full-metal-schoolgirl-accessory-victory-daruma-in-2-color-varieties.json](./365573-full-metal-schoolgirl-accessory-victory-daruma-in-2-color-varieties.json) |
 | Full Metal Schoolgirl: Additional Costume 1 | 365574 | [365574-full-metal-schoolgirl-additional-costume-1.json](./365574-full-metal-schoolgirl-additional-costume-1.json) |
 | Full Metal Schoolgirl: Additional Costume 2 | 365575 | [365575-full-metal-schoolgirl-additional-costume-2.json](./365575-full-metal-schoolgirl-additional-costume-2.json) |
@@ -15118,8 +15132,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Metal Schoolgirl: Additional Costume 6 | 365579 | [365579-full-metal-schoolgirl-additional-costume-6.json](./365579-full-metal-schoolgirl-additional-costume-6.json) |
 | Full Metal Schoolgirl: Additional Costume 7 | 365580 | [365580-full-metal-schoolgirl-additional-costume-7.json](./365580-full-metal-schoolgirl-additional-costume-7.json) |
 | Full Metal Schoolgirl: Additional Costume 8 | 365581 | [365581-full-metal-schoolgirl-additional-costume-8.json](./365581-full-metal-schoolgirl-additional-costume-8.json) |
+| Full Metal Schoolgirl: Costume - "Black Bunny Girl (Akemi)" | 376396 | [376396-full-metal-schoolgirl-costume-black-bunny-girl-akemi.json](./376396-full-metal-schoolgirl-costume-black-bunny-girl-akemi.json) |
+| Full Metal Schoolgirl: Costume - "Black Bunny Girl (Ryoko)" | 376395 | [376395-full-metal-schoolgirl-costume-black-bunny-girl-ryoko.json](./376395-full-metal-schoolgirl-costume-black-bunny-girl-ryoko.json) |
+| Full Metal Schoolgirl: Costume - "Blue Bunny Girl (Akemi)" | 376394 | [376394-full-metal-schoolgirl-costume-blue-bunny-girl-akemi.json](./376394-full-metal-schoolgirl-costume-blue-bunny-girl-akemi.json) |
+| Full Metal Schoolgirl: Costume - "Lovely Cheerleader (Akemi)" | 376393 | [376393-full-metal-schoolgirl-costume-lovely-cheerleader-akemi.json](./376393-full-metal-schoolgirl-costume-lovely-cheerleader-akemi.json) |
+| Full Metal Schoolgirl: Costume - "Nurse Baby Blue (Akemi)" | 376392 | [376392-full-metal-schoolgirl-costume-nurse-baby-blue-akemi.json](./376392-full-metal-schoolgirl-costume-nurse-baby-blue-akemi.json) |
+| Full Metal Schoolgirl: Costume - "Nurse Baby Blue (Ryoko)" | 376391 | [376391-full-metal-schoolgirl-costume-nurse-baby-blue-ryoko.json](./376391-full-metal-schoolgirl-costume-nurse-baby-blue-ryoko.json) |
+| Full Metal Schoolgirl: Costume - "Nurse Pale Pink (Akemi)" | 376390 | [376390-full-metal-schoolgirl-costume-nurse-pale-pink-akemi.json](./376390-full-metal-schoolgirl-costume-nurse-pale-pink-akemi.json) |
+| Full Metal Schoolgirl: Costume - "Nurse Pale Pink (Ryoko)" | 376389 | [376389-full-metal-schoolgirl-costume-nurse-pale-pink-ryoko.json](./376389-full-metal-schoolgirl-costume-nurse-pale-pink-ryoko.json) |
+| Full Metal Schoolgirl: Costume - "Red Bunny Girl (Ryoko)" | 376388 | [376388-full-metal-schoolgirl-costume-red-bunny-girl-ryoko.json](./376388-full-metal-schoolgirl-costume-red-bunny-girl-ryoko.json) |
+| Full Metal Schoolgirl: Costume - "Refreshing Cheerleader(Ryoko)" | 376387 | [376387-full-metal-schoolgirl-costume-refreshing-cheerleader-ryoko.json](./376387-full-metal-schoolgirl-costume-refreshing-cheerleader-ryoko.json) |
 | Full Metal Schoolgirl: Deluxe Edition | 365554 | [365554-full-metal-schoolgirl-deluxe-edition.json](./365554-full-metal-schoolgirl-deluxe-edition.json) |
 | Full Metal Schoolgirl: New Feature Add | 365582 | [365582-full-metal-schoolgirl-new-feature-add.json](./365582-full-metal-schoolgirl-new-feature-add.json) |
+| Full Metal Schoolgirl: Ryoko Costume - Aya's Battle Suit from "OneeChanbara Origin" | 376386 | [376386-full-metal-schoolgirl-ryoko-costume-ayas-battle-suit-from-oneechanbara-origin.json](./376386-full-metal-schoolgirl-ryoko-costume-ayas-battle-suit-from-oneechanbara-origin.json) |
+| Full Metal Schoolgirl: Season Pass | 376397 | [376397-full-metal-schoolgirl-season-pass.json](./376397-full-metal-schoolgirl-season-pass.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Metal Sergeant 2 | 325496 | [325496-full-metal-sergeant-2.json](./325496-full-metal-sergeant-2.json) |
 | Full Mojo Rampage | 16447 | [16447-full-mojo-rampage.json](./16447-full-mojo-rampage.json) |
