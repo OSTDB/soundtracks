@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
 | TaskMaker | 131288 | [131288-taskmaker.json](./131288-taskmaker.json) |
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
+| Taskmaster VR | 278510 | [278510-taskmaster-vr.json](./278510-taskmaster-vr.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | TaskTwist | 270553 | [270553-tasktwist.json](./270553-tasktwist.json) |
 | Tasmania Story | 49061 | [49061-tasmania-story.json](./49061-tasmania-story.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra | 295236 | [295236-terra.json](./295236-terra.json) |
 | Terra | 380900 | [380900-terra.json](./380900-terra.json) |
 | Terra Alia | 127597 | [127597-terra-alia.json](./127597-terra-alia.json) |
+| Terra Alia | 279404 | [279404-terra-alia.json](./279404-terra-alia.json) |
 | Terra Alia: Multiplayer | 279405 | [279405-terra-alia-multiplayer.json](./279405-terra-alia-multiplayer.json) |
 | Terra Atlantis | 152663 | [152663-terra-atlantis.json](./152663-terra-atlantis.json) |
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
@@ -13909,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
 | The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
+| The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
 | The Last Solver | 256162 | [256162-the-last-solver.json](./256162-the-last-solver.json) |
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
 | The Last Song of Witch | 398371 | [398371-the-last-song-of-witch.json](./398371-the-last-song-of-witch.json) |
@@ -15100,6 +15103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
 | The Lost Lands: Dinosaur Hunter | 208006 | [208006-the-lost-lands-dinosaur-hunter.json](./208006-the-lost-lands-dinosaur-hunter.json) |
 | The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
+| The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 2 | 171665 | [171665-the-lost-legends-of-redwall-the-scout-act-2.json](./171665-the-lost-legends-of-redwall-the-scout-act-2.json) |
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Legends of Redwall: The Scout - Encore Edition | 237033 | [237033-the-lost-legends-of-redwall-the-scout-encore-edition.json](./237033-the-lost-legends-of-redwall-the-scout-encore-edition.json) |
@@ -17233,6 +17237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prisoner | 18759 | [18759-the-prisoner.json](./18759-the-prisoner.json) |
 | The Prisoner | 347059 | [347059-the-prisoner.json](./347059-the-prisoner.json) |
 | The Prisoner of the Night | 173390 | [173390-the-prisoner-of-the-night.json](./173390-the-prisoner-of-the-night.json) |
+| The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
 | The Pro Yakyuu | 132129 | [132129-the-pro-yakyuu.json](./132129-the-pro-yakyuu.json) |
@@ -26462,6 +26467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinertia | 17594 | [17594-tinertia.json](./17594-tinertia.json) |
 | Tinge | 68884 | [68884-tinge.json](./68884-tinge.json) |
 | Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
+| Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
 | Tinhead | 46593 | [46593-tinhead.json](./46593-tinhead.json) |
 | Tinheung & Sayuri | 211061 | [211061-tinheung-and-sayuri.json](./211061-tinheung-and-sayuri.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
@@ -29340,6 +29346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
 | Tormentum: Dark Sorrow | 9035 | [9035-tormentum-dark-sorrow.json](./9035-tormentum-dark-sorrow.json) |
+| Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 60675 | [60675-torn.json](./60675-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
