@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Dogs | 187215 | [187215-100-hidden-dogs.json](./187215-100-hidden-dogs.json) |
 | 100 Hidden Eternals | 161420 | [161420-100-hidden-eternals.json](./161420-100-hidden-eternals.json) |
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
+| 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Frogs 2 | 235392 | [235392-100-hidden-frogs-2.json](./235392-100-hidden-frogs-2.json) |
 | 100 Hidden Gnomes | 150415 | [150415-100-hidden-gnomes.json](./150415-100-hidden-gnomes.json) |
 | 100 Hidden Kooky & Hiking Boots | 318687 | [318687-100-hidden-kooky-and-hiking-boots.json](./318687-100-hidden-kooky-and-hiking-boots.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1112: Episode 03 | 213565 | [213565-1112-episode-03.json](./213565-1112-episode-03.json) |
 | 1114: Robin Hood Survivors | 287917 | [287917-1114-robin-hood-survivors.json](./287917-1114-robin-hood-survivors.json) |
 | 112 Meters | 405817 | [405817-112-meters.json](./405817-112-meters.json) |
+| 112 Operator | 115270 | [115270-112-operator.json](./115270-112-operator.json) |
 | 112 Operator: Pandemic Outbreak | 168948 | [168948-112-operator-pandemic-outbreak.json](./168948-112-operator-pandemic-outbreak.json) |
 | 112 Operator: The Last Duty | 168946 | [168946-112-operator-the-last-duty.json](./168946-112-operator-the-last-duty.json) |
 | 112 Operator: Water Operations | 168947 | [168947-112-operator-water-operations.json](./168947-112-operator-water-operations.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Minutes to Extinction: Escape Room | 370113 | [370113-60-minutes-to-extinction-escape-room.json](./370113-60-minutes-to-extinction-escape-room.json) |
 | 60 Parseconds! Bundle | 164619 | [164619-60-parseconds-bundle.json](./164619-60-parseconds-bundle.json) |
+| 60 Parsecs! | 11710 | [11710-60-parsecs.json](./11710-60-parsecs.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 60 Second History | 332212 | [332212-60-second-history.json](./332212-60-second-history.json) |
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
@@ -3998,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Trials of Whiskers | 346187 | [346187-9-trials-of-whiskers.json](./346187-9-trials-of-whiskers.json) |
 | 9 Ways: Hentai Harem | 337785 | [337785-9-ways-hentai-harem.json](./337785-9-ways-hentai-harem.json) |
 | 9 Years of Dreaming | 337786 | [337786-9-years-of-dreaming.json](./337786-9-years-of-dreaming.json) |
+| 9 Years of Shadows | 143635 | [143635-9-years-of-shadows.json](./143635-9-years-of-shadows.json) |
 | 9 Yin Sutra: Immortal | 415734 | [415734-9-yin-sutra-immortal.json](./415734-9-yin-sutra-immortal.json) |
 | 9-Ball Pocket | 178646 | [178646-9-ball-pocket.json](./178646-9-ball-pocket.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
