@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Racers | 176043 | [176043-zero-racers.json](./176043-zero-racers.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
+| Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zero Sievert 2 | 400088 | [400088-zero-sievert-2.json](./400088-zero-sievert-2.json) |
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero Spring Episode 1 | 112125 | [112125-zero-spring-episode-1.json](./112125-zero-spring-episode-1.json) |
@@ -2224,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Vampires | 187285 | [187285-zombie-vampires.json](./187285-zombie-vampires.json) |
 | Zombie Variant | 130161 | [130161-zombie-variant.json](./130161-zombie-variant.json) |
 | Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
+| Zombie Vikings | 14298 | [14298-zombie-vikings.json](./14298-zombie-vikings.json) |
 | Zombie Vikings: Ragnarök Edition | 166962 | [166962-zombie-vikings-ragnarok-edition.json](./166962-zombie-vikings-ragnarok-edition.json) |
 | Zombie Vikings: Stab-a-thon | 30161 | [30161-zombie-vikings-stab-a-thon.json](./30161-zombie-vikings-stab-a-thon.json) |
 | Zombie Virus | 193788 | [193788-zombie-virus.json](./193788-zombie-virus.json) |
