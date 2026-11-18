@@ -5169,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Circus | 46177 | [46177-nightmare-circus.json](./46177-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
+| Nightmare Conquest | 415532 | [415532-nightmare-conquest.json](./415532-nightmare-conquest.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
 | Nightmare Crawler | 399272 | [399272-nightmare-crawler.json](./399272-nightmare-crawler.json) |
 | Nightmare Creatures | 3414 | [3414-nightmare-creatures.json](./3414-nightmare-creatures.json) |
@@ -7075,7 +7076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
 | Nocturnal 2 | 310336 | [310336-nocturnal-2.json](./310336-nocturnal-2.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
-| Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
 | Nocturnal Quest | 386416 | [386416-nocturnal-quest.json](./386416-nocturnal-quest.json) |
 | Nocturnal Relics | 302336 | [302336-nocturnal-relics.json](./302336-nocturnal-relics.json) |
