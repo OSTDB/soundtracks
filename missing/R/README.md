@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Hero: The Marsh | 55436 | [55436-raccoon-hero-the-marsh.json](./55436-raccoon-hero-the-marsh.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Hero: Under the Sea | 55437 | [55437-raccoon-hero-under-the-sea.json](./55437-raccoon-hero-under-the-sea.json) |
+| Raccoon is Hungry | 336789 | [336789-raccoon-is-hungry.json](./336789-raccoon-is-hungry.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
 | Raccoon on a Boat | 313523 | [313523-raccoon-on-a-boat.json](./313523-raccoon-on-a-boat.json) |
@@ -5545,6 +5546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Space | 158326 | [158326-relic-space.json](./158326-relic-space.json) |
 | Relic Splatter | 154239 | [154239-relic-splatter.json](./154239-relic-splatter.json) |
 | Relicborn | 197212 | [197212-relicborn.json](./197212-relicborn.json) |
+| Relicbound | 342933 | [342933-relicbound.json](./342933-relicbound.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | RelicMerge | 130074 | [130074-relicmerge.json](./130074-relicmerge.json) |
 | Relics | 202896 | [202896-relics.json](./202896-relics.json) |
@@ -10717,6 +10719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Craze 3D | 30669 | [30669-rocket-craze-3d.json](./30669-rocket-craze-3d.json) |
 | Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
 | Rocket Crowbar: Source | 307362 | [307362-rocket-crowbar-source.json](./307362-rocket-crowbar-source.json) |
+| Rocket Delivery: Space Wok | 336766 | [336766-rocket-delivery-space-wok.json](./336766-rocket-delivery-space-wok.json) |
 | Rocket Dodge | 108219 | [108219-rocket-dodge.json](./108219-rocket-dodge.json) |
 | Rocket Drift | 205754 | [205754-rocket-drift.json](./205754-rocket-drift.json) |
 | Rocket Drift - Extreme gravity adventure | 25582 | [25582-rocket-drift-extreme-gravity-adventure.json](./25582-rocket-drift-extreme-gravity-adventure.json) |
@@ -14110,6 +14113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run-A-Whale | 228185 | [228185-run-a-whale.json](./228185-run-a-whale.json) |
 | Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
+| Run-Sprint-Parkour! | 336768 | [336768-run-sprint-parkour.json](./336768-run-sprint-parkour.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
 | Run, Doodleguy! | 211293 | [211293-run-doodleguy.json](./211293-run-doodleguy.json) |
 | Run, Elric! | 379319 | [379319-run-elric.json](./379319-run-elric.json) |
