@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calixto Island | 36910 | [36910-calixto-island.json](./36910-calixto-island.json) |
 | Call Center | 287208 | [287208-call-center.json](./287208-call-center.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
+| Call Connect | 22880 | [22880-call-connect.json](./22880-call-connect.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
 | Call For Backup | 190383 | [190383-call-for-backup.json](./190383-call-for-backup.json) |
 | Call for Heroes: Pompolic Wars | 4741 | [4741-call-for-heroes-pompolic-wars.json](./4741-call-for-heroes-pompolic-wars.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
+| CanBoom VR | 55375 | [55375-canboom-vr.json](./55375-canboom-vr.json) |
 | CanCan the Game | 158810 | [158810-cancan-the-game.json](./158810-cancan-the-game.json) |
 | Cancel Subscription Simulator | 418418 | [418418-cancel-subscription-simulator.json](./418418-cancel-subscription-simulator.json) |
 | Canceled! Super Puzzles Dream | 192034 | [192034-canceled-super-puzzles-dream.json](./192034-canceled-super-puzzles-dream.json) |
@@ -1618,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Toys | 77762 | [77762-candy-toys.json](./77762-candy-toys.json) |
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
+| Candy Train | 22878 | [22878-candy-train.json](./22878-candy-train.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
 | Candy Witch Games for Kids | 102488 | [102488-candy-witch-games-for-kids.json](./102488-candy-witch-games-for-kids.json) |
@@ -1915,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom baseball | 40129 | [40129-capcom-baseball.json](./40129-capcom-baseball.json) |
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
+| Capcom Bowling | 38535 | [38535-capcom-bowling.json](./38535-capcom-bowling.json) |
 | Capcom Classics Collection | 21438 | [21438-capcom-classics-collection.json](./21438-capcom-classics-collection.json) |
 | Capcom Classics Collection Reloaded | 23099 | [23099-capcom-classics-collection-reloaded.json](./23099-capcom-classics-collection-reloaded.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
@@ -8134,6 +8138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
+| Chick Chaser | 70507 | [70507-chick-chaser.json](./70507-chick-chaser.json) |
 | Chick Chick Boom | 231528 | [231528-chick-chick-boom.json](./231528-chick-chick-boom.json) |
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
@@ -8863,16 +8868,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco-ken no Chokotto Fushigi na Monogatari: Chocolate Hime to Mahou no Recipe | 222517 | [222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json](./222517-choco-ken-no-chokotto-fushigi-na-monogatari-chocolate-hime-to-mahou-no-recipe.json) |
 | Choco-Ken no Dekitate Sweets Wagon | 287630 | [287630-choco-ken-no-dekitate-sweets-wagon.json](./287630-choco-ken-no-dekitate-sweets-wagon.json) |
 | Choco-Ken no Omise: Patisserie & Sweets Shop Game | 287628 | [287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json](./287628-choco-ken-no-omise-patisserie-and-sweets-shop-game.json) |
+| Choco-Mate | 22901 | [22901-choco-mate.json](./22901-choco-mate.json) |
 | Chocobo Collection | 71219 | [71219-chocobo-collection.json](./71219-chocobo-collection.json) |
+| Chocobo de Mobile | 22906 | [22906-chocobo-de-mobile.json](./22906-chocobo-de-mobile.json) |
 | Chocobo GP | 172426 | [172426-chocobo-gp.json](./172426-chocobo-gp.json) |
 | Chocobo GP' | 333840 | [333840-chocobo-gp.json](./333840-chocobo-gp.json) |
 | Chocobo Kwehst | 269775 | [269775-chocobo-kwehst.json](./269775-chocobo-kwehst.json) |
 | Chocobo Land: A Game of Dice | 49559 | [49559-chocobo-land-a-game-of-dice.json](./49559-chocobo-land-a-game-of-dice.json) |
+| Chocobo no Chocotto Nouen | 22908 | [22908-chocobo-no-chocotto-nouen.json](./22908-chocobo-no-chocotto-nouen.json) |
 | Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
 | Chocobo no Fushigi na Dungeon for WonderSwan | 143246 | [143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json](./143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json) |
+| Chocobo Panic | 22905 | [22905-chocobo-panic.json](./22905-chocobo-panic.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
 | Chocobo Racing 3D | 22909 | [22909-chocobo-racing-3d.json](./22909-chocobo-racing-3d.json) |
+| Chocobo Stallion | 22897 | [22897-chocobo-stallion.json](./22897-chocobo-stallion.json) |
 | Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha | 125583 | [125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json](./125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json) |
+| Chocobo World | 22895 | [22895-chocobo-world.json](./22895-chocobo-world.json) |
+| Chocobo's Crystal Tower | 22907 | [22907-chocobos-crystal-tower.json](./22907-chocobos-crystal-tower.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
@@ -9230,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross | 66470 | [66470-choujikuu-yousai-macross.json](./66470-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
+| Choujikuu Yousai Macross 2036 | 72805 | [72805-choujikuu-yousai-macross-2036.json](./72805-choujikuu-yousai-macross-2036.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
 | Choujikuu Yousai Macross: Love Stories | 416872 | [416872-choujikuu-yousai-macross-love-stories.json](./416872-choujikuu-yousai-macross-love-stories.json) |
@@ -12225,6 +12238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothes & Outlet Supermarket Store Simulator | 342346 | [342346-clothes-and-outlet-supermarket-store-simulator.json](./342346-clothes-and-outlet-supermarket-store-simulator.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothes Line | 298764 | [298764-clothes-line.json](./298764-clothes-line.json) |
+| Clothesline Carnage | 51451 | [51451-clothesline-carnage.json](./51451-clothesline-carnage.json) |
 | Clotheslines | 180430 | [180430-clotheslines.json](./180430-clotheslines.json) |
 | Clothing | 314234 | [314234-clothing.json](./314234-clothing.json) |
 | Clothing & Alterations | 210426 | [210426-clothing-and-alterations.json](./210426-clothing-and-alterations.json) |
@@ -19044,6 +19058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Ball | 58545 | [58545-crazy-ball.json](./58545-crazy-ball.json) |
 | Crazy Ball Adventures: Treasure | 155371 | [155371-crazy-ball-adventures-treasure.json](./155371-crazy-ball-adventures-treasure.json) |
 | Crazy Ball Racing | 127520 | [127520-crazy-ball-racing.json](./127520-crazy-ball-racing.json) |
+| Crazy Balloon | 38532 | [38532-crazy-balloon.json](./38532-crazy-balloon.json) |
 | Crazy Balloon | 69592 | [69592-crazy-balloon.json](./69592-crazy-balloon.json) |
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
 | Crazy Balls | 359391 | [359391-crazy-balls.json](./359391-crazy-balls.json) |
@@ -19178,6 +19193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Digger 2 Level Pack | 407510 | [407510-crazy-digger-2-level-pack.json](./407510-crazy-digger-2-level-pack.json) |
 | Crazy Dino Park | 143448 | [143448-crazy-dino-park.json](./143448-crazy-dino-park.json) |
 | Crazy Donuts | 206413 | [206413-crazy-donuts.json](./206413-crazy-donuts.json) |
+| Crazy Drake | 72807 | [72807-crazy-drake.json](./72807-crazy-drake.json) |
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Drift | 223298 | [223298-crazy-drift.json](./223298-crazy-drift.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
@@ -19843,6 +19859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Cricket Revolution | 14941 | [14941-cricket-revolution.json](./14941-cricket-revolution.json) |
 | Cricket Through the Ages | 124398 | [124398-cricket-through-the-ages.json](./124398-cricket-through-the-ages.json) |
+| Cricket World Cup 99 | 70509 | [70509-cricket-world-cup-99.json](./70509-cricket-world-cup-99.json) |
 | CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
 | Crikeymas | 399235 | [399235-crikeymas.json](./399235-crikeymas.json) |
