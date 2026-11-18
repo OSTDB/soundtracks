@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
+| Carom Crashers | 417019 | [417019-carom-crashers.json](./417019-carom-crashers.json) |
 | Carom Shot | 334950 | [334950-carom-shot.json](./334950-carom-shot.json) |
 | Carom3D | 98597 | [98597-carom3d.json](./98597-carom3d.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
@@ -17388,6 +17389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Invasion | 187694 | [187694-cosmic-invasion.json](./187694-cosmic-invasion.json) |
 | Cosmic Invasion | 335844 | [335844-cosmic-invasion.json](./335844-cosmic-invasion.json) |
 | Cosmic Jailbreak | 23203 | [23203-cosmic-jailbreak.json](./23203-cosmic-jailbreak.json) |
+| Cosmic Karma | 417039 | [417039-cosmic-karma.json](./417039-cosmic-karma.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
 | Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
@@ -18716,6 +18718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot | 247270 | [247270-crash-bandicoot.json](./247270-crash-bandicoot.json) |
 | Crash Bandicoot 2: Cortex Strikes Back | 135450 | [135450-crash-bandicoot-2-cortex-strikes-back.json](./135450-crash-bandicoot-2-cortex-strikes-back.json) |
 | Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
+| Crash Bandicoot 2: Recompiled | 417033 | [417033-crash-bandicoot-2-recompiled.json](./417033-crash-bandicoot-2-recompiled.json) |
 | Crash Bandicoot 4: It's About Time | 135254 | [135254-crash-bandicoot-4-its-about-time.json](./135254-crash-bandicoot-4-its-about-time.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Action Pack | 196663 | [196663-crash-bandicoot-action-pack.json](./196663-crash-bandicoot-action-pack.json) |
@@ -21774,6 +21777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
 | Cthulhu: The Cosmic Abyss - Shining Trapezohedron Quest | 402623 | [402623-cthulhu-the-cosmic-abyss-shining-trapezohedron-quest.json](./402623-cthulhu-the-cosmic-abyss-shining-trapezohedron-quest.json) |
 | Cthulhu's Catharsis | 120008 | [120008-cthulhus-catharsis.json](./120008-cthulhus-catharsis.json) |
+| Cthulhu's Eldritch Kitchen | 417045 | [417045-cthulhus-eldritch-kitchen.json](./417045-cthulhus-eldritch-kitchen.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthulhu's Spelling Bee | 183813 | [183813-cthulhus-spelling-bee.json](./183813-cthulhus-spelling-bee.json) |
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
