@@ -11348,6 +11348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Dream of the Beast | 245693 | [245693-metal-hellsinger-dream-of-the-beast.json](./245693-metal-hellsinger-dream-of-the-beast.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
+| Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
 | Metal.ik Vol. I | 263352 | [263352-metal-ik-vol-i.json](./263352-metal-ik-vol-i.json) |
 | Metal.ik Vol. II | 263366 | [263366-metal-ik-vol-ii.json](./263366-metal-ik-vol-ii.json) |
 | Metal.ik Vol. III | 263368 | [263368-metal-ik-vol-iii.json](./263368-metal-ik-vol-iii.json) |
