@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse Survivor | 291202 | [291202-zombie-apocalypse-survivor.json](./291202-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Bounty Hunter | 117441 | [117441-zombie-apocalypse-bounty-hunter.json](./117441-zombie-apocalypse-bounty-hunter.json) |
+| Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Apocalypse: Never Die Alone | 51650 | [51650-zombie-apocalypse-never-die-alone.json](./51650-zombie-apocalypse-never-die-alone.json) |
 | Zombie Apocalypse: Survival Stories | 249325 | [249325-zombie-apocalypse-survival-stories.json](./249325-zombie-apocalypse-survival-stories.json) |
 | Zombie Apocalypse: The Last Defense | 211147 | [211147-zombie-apocalypse-the-last-defense.json](./211147-zombie-apocalypse-the-last-defense.json) |
