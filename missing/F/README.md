@@ -7947,6 +7947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Laps at Freddy's | 306217 | [306217-five-laps-at-freddys.json](./306217-five-laps-at-freddys.json) |
 | Five Lethal Demons | 315201 | [315201-five-lethal-demons.json](./315201-five-lethal-demons.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
+| Five Letters Only | 389146 | [389146-five-letters-only.json](./389146-five-letters-only.json) |
 | Five Likes Please | 290787 | [290787-five-likes-please.json](./290787-five-likes-please.json) |
 | Five Likes Please: Historic Weapons Pack | 290789 | [290789-five-likes-please-historic-weapons-pack.json](./290789-five-likes-please-historic-weapons-pack.json) |
 | Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
@@ -10162,7 +10163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog and Sea | 304478 | [304478-fog-and-sea.json](./304478-fog-and-sea.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
-| Fog of War | 29953 | [29953-fog-of-war.json](./29953-fog-of-war.json) |
 | Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fog of War: The Battle for Cerberus | 117860 | [117860-fog-of-war-the-battle-for-cerberus.json](./117860-fog-of-war-the-battle-for-cerberus.json) |
