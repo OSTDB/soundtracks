@@ -1570,7 +1570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venice After Dark | 247794 | [247794-venice-after-dark.json](./247794-venice-after-dark.json) |
 | Venice Beach Volleyball | 48263 | [48263-venice-beach-volleyball.json](./48263-venice-beach-volleyball.json) |
 | Venice Bridges | 268821 | [268821-venice-bridges.json](./268821-venice-bridges.json) |
-| Venice Deluxe | 21448 | [21448-venice-deluxe.json](./21448-venice-deluxe.json) |
 | Venice Master | 197205 | [197205-venice-master.json](./197205-venice-master.json) |
 | Venice Mystery | 64731 | [64731-venice-mystery.json](./64731-venice-mystery.json) |
 | Venice Taxi Boats | 218373 | [218373-venice-taxi-boats.json](./218373-venice-taxi-boats.json) |
