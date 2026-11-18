@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Drivin' (SA-1 Enhanced Version) | 300273 | [300273-race-drivin-sa-1-enhanced-version.json](./300273-race-drivin-sa-1-enhanced-version.json) |
 | Race Drivin' a Go! Go! | 270240 | [270240-race-drivin-a-go-go.json](./270240-race-drivin-a-go-go.json) |
 | Race Elcano | 291898 | [291898-race-elcano.json](./291898-race-elcano.json) |
+| Race for Grace | 389151 | [389151-race-for-grace.json](./389151-race-for-grace.json) |
 | Race For Nuts | 359481 | [359481-race-for-nuts.json](./359481-race-for-nuts.json) |
 | Race for the Galaxy | 44528 | [44528-race-for-the-galaxy.json](./44528-race-for-the-galaxy.json) |
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
@@ -5847,7 +5848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renations | 64214 | [64214-renations.json](./64214-renations.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
 | Rencounter | 33818 | [33818-rencounter.json](./33818-rencounter.json) |
-| Rend | 27770 | [27770-rend.json](./27770-rend.json) |
 | Rendagor | 372058 | [372058-rendagor.json](./372058-rendagor.json) |
 | Render96 | 143305 | [143305-render96.json](./143305-render96.json) |
 | Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
@@ -7568,7 +7568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revertices | 415420 | [415420-revertices.json](./415420-revertices.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
-| Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
 | Revila | 350700 | [350700-revila.json](./350700-revila.json) |
