@@ -4870,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KKuTuIO | 218742 | [218742-kkutuio.json](./218742-kkutuio.json) |
 | Klabater Bundle: The Amazing American Circus, Moonshine Inc., Heliborne and Crossroads Inn | 269170 | [269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json](./269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json) |
 | Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
+| Klabater Franchise Bundle | 401941 | [401941-klabater-franchise-bundle.json](./401941-klabater-franchise-bundle.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
@@ -6734,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kselebox | 169978 | [169978-kselebox.json](./169978-kselebox.json) |
 | KSI Unleashed | 350371 | [350371-ksi-unleashed.json](./350371-ksi-unleashed.json) |
 | Ksiega Dzungli | 318486 | [318486-ksiega-dzungli.json](./318486-ksiega-dzungli.json) |
+| KSP2 Redux | 414529 | [414529-ksp2-redux.json](./414529-ksp2-redux.json) |
 | KSTG | 395364 | [395364-kstg.json](./395364-kstg.json) |
 | KSudoku | 263610 | [263610-ksudoku.json](./263610-ksudoku.json) |
 | Ktgame | 189877 | [189877-ktgame.json](./189877-ktgame.json) |
