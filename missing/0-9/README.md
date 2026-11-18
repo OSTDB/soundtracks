@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hidden Frogs 2 | 235392 | [235392-100-hidden-frogs-2.json](./235392-100-hidden-frogs-2.json) |
 | 100 Hidden Gnomes | 150415 | [150415-100-hidden-gnomes.json](./150415-100-hidden-gnomes.json) |
+| 100 Hidden Hares | 195688 | [195688-100-hidden-hares.json](./195688-100-hidden-hares.json) |
 | 100 Hidden Kooky & Hiking Boots | 318687 | [318687-100-hidden-kooky-and-hiking-boots.json](./318687-100-hidden-kooky-and-hiking-boots.json) |
 | 100 Hidden Kooky: Sand & Sun | 283032 | [283032-100-hidden-kooky-sand-and-sun.json](./283032-100-hidden-kooky-sand-and-sun.json) |
 | 100 Hidden Mice | 167526 | [167526-100-hidden-mice.json](./167526-100-hidden-mice.json) |
@@ -2394,8 +2395,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
 | 3 on 3 Super Robot Hockey | 115805 | [115805-3-on-3-super-robot-hockey.json](./115805-3-on-3-super-robot-hockey.json) |
 | 3 out of 10: Ep 1 - Welcome to Shovelworks | 136509 | [136509-3-out-of-10-ep-1-welcome-to-shovelworks.json](./136509-3-out-of-10-ep-1-welcome-to-shovelworks.json) |
+| 3 out of 10: EP 2 - "Foundation 101" | 136572 | [136572-3-out-of-10-ep-2-foundation-101.json](./136572-3-out-of-10-ep-2-foundation-101.json) |
 | 3 out of 10: EP 3 - "Pivot Like A Champion" | 138118 | [138118-3-out-of-10-ep-3-pivot-like-a-champion.json](./138118-3-out-of-10-ep-3-pivot-like-a-champion.json) |
 | 3 out of 10: EP 4 - "Thank You For Being An Asset" | 137287 | [137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json](./137287-3-out-of-10-ep-4-thank-you-for-being-an-asset.json) |
+| 3 out of 10: EP 5 - "The Rig Is Up!" | 138228 | [138228-3-out-of-10-ep-5-the-rig-is-up.json](./138228-3-out-of-10-ep-5-the-rig-is-up.json) |
 | 3 out of 10: Season One | 138707 | [138707-3-out-of-10-season-one.json](./138707-3-out-of-10-season-one.json) |
 | 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
@@ -3466,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
 | 59049 | 95672 | [95672-59049.json](./95672-59049.json) |
 | 5buttons | 412646 | [412646-5buttons.json](./412646-5buttons.json) |
+| 5D Chess With Multiverse Time Travel | 136045 | [136045-5d-chess-with-multiverse-time-travel.json](./136045-5d-chess-with-multiverse-time-travel.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
@@ -3940,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bitWar: Netherworld | 134312 | [134312-8bitwar-netherworld.json](./134312-8bitwar-netherworld.json) |
 | 8bitWar: Origins | 134311 | [134311-8bitwar-origins.json](./134311-8bitwar-origins.json) |
 | 8Days | 27371 | [27371-8days.json](./27371-8days.json) |
+| 8Doors: Arum's Afterlife Adventure | 137635 | [137635-8doors-arums-afterlife-adventure.json](./137635-8doors-arums-afterlife-adventure.json) |
 | 8Floor Bundle | 277722 | [277722-8floor-bundle.json](./277722-8floor-bundle.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
