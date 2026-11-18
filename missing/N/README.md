@@ -8829,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamon Tamer: Retro Edition | 289513 | [289513-nyamon-tamer-retro-edition.json](./289513-nyamon-tamer-retro-edition.json) |
 | Nyan Cat Adventure | 65131 | [65131-nyan-cat-adventure.json](./65131-nyan-cat-adventure.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
+| Nyan Cat Forever | 346827 | [346827-nyan-cat-forever.json](./346827-nyan-cat-forever.json) |
 | Nyan Cat: Candy Match | 264965 | [264965-nyan-cat-candy-match.json](./264965-nyan-cat-candy-match.json) |
 | Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
 | Nyan Cat: Lost In Space | 34115 | [34115-nyan-cat-lost-in-space.json](./34115-nyan-cat-lost-in-space.json) |
