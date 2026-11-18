@@ -267,7 +267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabuada Divertida | 290078 | [290078-tabuada-divertida.json](./290078-tabuada-divertida.json) |
 | Tabula | 376545 | [376545-tabula.json](./376545-tabula.json) |
 | Tabula Rasa | 177739 | [177739-tabula-rasa.json](./177739-tabula-rasa.json) |
-| Tabula Rasa | 21525 | [21525-tabula-rasa.json](./21525-tabula-rasa.json) |
 | Tabula Sono | 219563 | [219563-tabula-sono.json](./219563-tabula-sono.json) |
 | Tabulo | 337994 | [337994-tabulo.json](./337994-tabulo.json) |
 | Tabuto | 389340 | [389340-tabuto.json](./389340-tabuto.json) |
@@ -6432,7 +6431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
 | The Amazing Bernard | 96657 | [96657-the-amazing-bernard.json](./96657-the-amazing-bernard.json) |
-| The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Circus | 242296 | [242296-the-amazing-circus.json](./242296-the-amazing-circus.json) |
 | The Amazing Crackpots Club! | 265282 | [265282-the-amazing-crackpots-club.json](./265282-the-amazing-crackpots-club.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
@@ -9701,7 +9699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eagle Keita | 384572 | [384572-the-eagle-keita.json](./384572-the-eagle-keita.json) |
 | The earl octopusor | 101822 | [101822-the-earl-octopusor.json](./101822-the-earl-octopusor.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
-| The Early Years of Flight | 21380 | [21380-the-early-years-of-flight.json](./21380-the-early-years-of-flight.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Earth Dies Screaming | 22759 | [22759-the-earth-dies-screaming.json](./22759-the-earth-dies-screaming.json) |
 | The Earth is a Better Person than Me | 111335 | [111335-the-earth-is-a-better-person-than-me.json](./111335-the-earth-is-a-better-person-than-me.json) |
@@ -10454,7 +10451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fast and the Flirtatious: LA Drift | 304626 | [304626-the-fast-and-the-flirtatious-la-drift.json](./304626-the-fast-and-the-flirtatious-la-drift.json) |
 | The Fast and the Furious | 301501 | [301501-the-fast-and-the-furious.json](./301501-the-fast-and-the-furious.json) |
 | The Fast and The Furious | 152308 | [152308-the-fast-and-the-furious.json](./152308-the-fast-and-the-furious.json) |
-| The Fast and The Furious | 21383 | [21383-the-fast-and-the-furious.json](./21383-the-fast-and-the-furious.json) |
 | The Fast and the Furious & 2 Fast 2 Furious | 301503 | [301503-the-fast-and-the-furious-and-2-fast-2-furious.json](./301503-the-fast-and-the-furious-and-2-fast-2-furious.json) |
 | The Fast and The Furious: Drift | 72886 | [72886-the-fast-and-the-furious-drift.json](./72886-the-fast-and-the-furious-drift.json) |
 | The Fast and The Furious: Super Bikes | 72919 | [72919-the-fast-and-the-furious-super-bikes.json](./72919-the-fast-and-the-furious-super-bikes.json) |
@@ -11377,7 +11373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Girl Pulls and Licks the Dog | 256061 | [256061-the-golden-girl-pulls-and-licks-the-dog.json](./256061-the-golden-girl-pulls-and-licks-the-dog.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
-| The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
 | The Golden Horde: Story of Jambul | 427856 | [427856-the-golden-horde-story-of-jambul.json](./427856-the-golden-horde-story-of-jambul.json) |
 | The Golden Horde: Survival | 426025 | [426025-the-golden-horde-survival.json](./426025-the-golden-horde-survival.json) |
 | The Golden Idol Saga | 415347 | [415347-the-golden-idol-saga.json](./415347-the-golden-idol-saga.json) |
@@ -27732,7 +27727,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xtreme Racer 2 | 4359 | [4359-tokyo-xtreme-racer-2.json](./4359-tokyo-xtreme-racer-2.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
-| Tokyo Xtreme Racer Drift 2 | 21441 | [21441-tokyo-xtreme-racer-drift-2.json](./21441-tokyo-xtreme-racer-drift-2.json) |
 | Tokyo Xtreme Racer: Zero | 43289 | [43289-tokyo-xtreme-racer-zero.json](./43289-tokyo-xtreme-racer-zero.json) |
 | Tokyo Yakuza Idols: Save the Heart of a Rebel Boy | 405918 | [405918-tokyo-yakuza-idols-save-the-heart-of-a-rebel-boy.json](./405918-tokyo-yakuza-idols-save-the-heart-of-a-rebel-boy.json) |
 | Tokyo Yakuza Idols: Save the Heart of a Rebel Girl | 406079 | [406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json](./406079-tokyo-yakuza-idols-save-the-heart-of-a-rebel-girl.json) |
@@ -36175,7 +36169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami 2265 | 92831 | [92831-tsunami-2265.json](./92831-tsunami-2265.json) |
 | Tsunami Cruiser | 184655 | [184655-tsunami-cruiser.json](./184655-tsunami-cruiser.json) |
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
-| Tsunde Tsumi Kiss | 21450 | [21450-tsunde-tsumi-kiss.json](./21450-tsunde-tsumi-kiss.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
 | Tsundere Idol: My Personal M-Pet | 101246 | [101246-tsundere-idol-my-personal-m-pet.json](./101246-tsundere-idol-my-personal-m-pet.json) |
 | Tsundere Milfin | 239834 | [239834-tsundere-milfin.json](./239834-tsundere-milfin.json) |
