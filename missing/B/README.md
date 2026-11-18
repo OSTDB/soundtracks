@@ -8819,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bik - A Space Adventure | 17878 | [17878-bik-a-space-adventure.json](./17878-bik-a-space-adventure.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
+| Bike Baron | 65290 | [65290-bike-baron.json](./65290-bike-baron.json) |
 | Bike Baron 2 | 160225 | [160225-bike-baron-2.json](./160225-bike-baron-2.json) |
 | Bike Baron 2: The Art of Riding | 349057 | [349057-bike-baron-2-the-art-of-riding.json](./349057-bike-baron-2-the-art-of-riding.json) |
 | Bike Bites | 245190 | [245190-bike-bites.json](./245190-bike-bites.json) |
@@ -9575,6 +9576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Land | 112163 | [112163-bird-land.json](./112163-bird-land.json) |
 | Bird Legend | 260771 | [260771-bird-legend.json](./260771-bird-legend.json) |
 | Bird Like | 352264 | [352264-bird-like.json](./352264-bird-like.json) |
+| Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
+| Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Mania Party | 84995 | [84995-bird-mania-party.json](./84995-bird-mania-party.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
 | Bird Missions | 132315 | [132315-bird-missions.json](./132315-bird-missions.json) |
@@ -9836,6 +9839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Blaster XL | 33733 | [33733-bit-blaster-xl.json](./33733-bit-blaster-xl.json) |
 | Bit Boy | 51618 | [51618-bit-boy.json](./51618-bit-boy.json) |
 | Bit Boy!! | 122125 | [122125-bit-boy.json](./122125-bit-boy.json) |
+| Bit Boy!! Arcade | 62852 | [62852-bit-boy-arcade.json](./62852-bit-boy-arcade.json) |
 | Bit Boy!! Arcade Deluxe | 84994 | [84994-bit-boy-arcade-deluxe.json](./84994-bit-boy-arcade-deluxe.json) |
 | Bit Brawlers | 61716 | [61716-bit-brawlers.json](./61716-bit-brawlers.json) |
 | Bit Breaker | 385948 | [385948-bit-breaker.json](./385948-bit-breaker.json) |
@@ -11685,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Arena | 133585 | [133585-blitz-arena.json](./133585-blitz-arena.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
+| Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Football 2023 | 255077 | [255077-blitz-football-2023.json](./255077-blitz-football-2023.json) |
 | Blitz Freak | 82465 | [82465-blitz-freak.json](./82465-blitz-freak.json) |
 | Blitz GT | 210739 | [210739-blitz-gt.json](./210739-blitz-gt.json) |
@@ -14420,6 +14425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Baseball | 198051 | [198051-bomberman-baseball.json](./198051-bomberman-baseball.json) |
 | Bomberman Blast | 197975 | [197975-bomberman-blast.json](./197975-bomberman-blast.json) |
 | Bomberman Blast | 50701 | [50701-bomberman-blast.json](./50701-bomberman-blast.json) |
+| Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chains | 198050 | [198050-bomberman-chains.json](./198050-bomberman-chains.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
 | Bomberman Collection | 198062 | [198062-bomberman-collection.json](./198062-bomberman-collection.json) |
@@ -14933,6 +14939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookshelf | 128707 | [128707-bookshelf.json](./128707-bookshelf.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookshop Wonderland: Supermarket Simulator | 320452 | [320452-bookshop-wonderland-supermarket-simulator.json](./320452-bookshop-wonderland-supermarket-simulator.json) |
+| Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookstore Incremental | 418880 | [418880-bookstore-incremental.json](./418880-bookstore-incremental.json) |
 | Bookstore Simulator | 201950 | [201950-bookstore-simulator.json](./201950-bookstore-simulator.json) |
 | BookStore Simulator | 407491 | [407491-bookstore-simulator.json](./407491-bookstore-simulator.json) |
