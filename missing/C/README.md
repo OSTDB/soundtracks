@@ -5045,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatCatMan | 334224 | [334224-catcatman.json](./334224-catcatman.json) |
 | Catcelona | 315302 | [315302-catcelona.json](./315302-catcelona.json) |
 | Catch | 377015 | [377015-catch.json](./377015-catch.json) |
+| Catch 'Em | 14613 | [14613-catch-em.json](./14613-catch-em.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch 'Em! Goldfish Scooping | 106973 | [106973-catch-em-goldfish-scooping.json](./106973-catch-em-goldfish-scooping.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cede | 303400 | [303400-cede.json](./303400-cede.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
+| Cedric and the Lost Sceptre | 14614 | [14614-cedric-and-the-lost-sceptre.json](./14614-cedric-and-the-lost-sceptre.json) |
 | Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
 | Cedric: L'Anniversaire de Chen | 269794 | [269794-cedric-lanniversaire-de-chen.json](./269794-cedric-lanniversaire-de-chen.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
@@ -6207,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
 | Center Shiken: Eigo Listening Sokushuu DS | 269796 | [269796-center-shiken-eigo-listening-sokushuu-ds.json](./269796-center-shiken-eigo-listening-sokushuu-ds.json) |
 | Center Station Simulator | 288937 | [288937-center-station-simulator.json](./288937-center-station-simulator.json) |
+| Centerbase: Science-Fiction Simulation | 14615 | [14615-centerbase-science-fiction-simulation.json](./14615-centerbase-science-fiction-simulation.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
@@ -6763,6 +6766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager 4 | 18870 | [18870-championship-manager-4.json](./18870-championship-manager-4.json) |
 | Championship Manager 5 | 5773 | [5773-championship-manager-5.json](./5773-championship-manager-5.json) |
+| Championship Manager Italia | 14616 | [14616-championship-manager-italia.json](./14616-championship-manager-italia.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
@@ -7124,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Wars | 35397 | [35397-chariot-wars.json](./35397-chariot-wars.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
+| Chariots of Wrath | 14617 | [14617-chariots-of-wrath.json](./14617-chariots-of-wrath.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
 | Charles | 239990 | [239990-charles.json](./239990-charles.json) |
 | Charles Haunted Mansion | 265519 | [265519-charles-haunted-mansion.json](./265519-charles-haunted-mansion.json) |
@@ -12410,6 +12415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Thug Cop Zombies | 114927 | [114927-clown-thug-cop-zombies.json](./114927-clown-thug-cop-zombies.json) |
 | Clown Town | 348183 | [348183-clown-town.json](./348183-clown-town.json) |
 | Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou | 153733 | [153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json](./153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json) |
+| Clown-o-Mania | 14618 | [14618-clown-o-mania.json](./14618-clown-o-mania.json) |
 | Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
 | Clowncore | 357465 | [357465-clowncore.json](./357465-clowncore.json) |
@@ -12430,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Cluaido | 297852 | [297852-cluaido.json](./297852-cluaido.json) |
 | Club | 347555 | [347555-club.json](./347555-club.json) |
+| Club & Country | 14619 | [14619-club-and-country.json](./14619-club-and-country.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club Bear | 425792 | [425792-club-bear.json](./425792-club-bear.json) |
@@ -12441,6 +12448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Feral | 266398 | [266398-club-feral.json](./266398-club-feral.json) |
+| Club Football: The Manager | 14620 | [14620-club-football-the-manager.json](./14620-club-football-the-manager.json) |
 | Club Girl | 405272 | [405272-club-girl.json](./405272-club-girl.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
@@ -12542,6 +12550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: The Ultimate Detective’s Package | 260740 | [260740-clue-cluedo-the-ultimate-detective-s-package.json](./260740-clue-cluedo-the-ultimate-detective-s-package.json) |
 | Clue/Cluedo: Tropical Pack | 263035 | [263035-clue-cluedo-tropical-pack.json](./263035-clue-cluedo-tropical-pack.json) |
 | Cluedo Chronicles - Fatal Illusion | 50799 | [50799-cluedo-chronicles-fatal-illusion.json](./50799-cluedo-chronicles-fatal-illusion.json) |
+| Cluedo: Master Detective | 14621 | [14621-cluedo-master-detective.json](./14621-cluedo-master-detective.json) |
 | Cluedo: The Mysteries Continue | 45936 | [45936-cluedo-the-mysteries-continue.json](./45936-cluedo-the-mysteries-continue.json) |
 | ClueFinders 5th Grade Adventures: The Secret of the Living Volcano | 77048 | [77048-cluefinders-5th-grade-adventures-the-secret-of-the-living-volcano.json](./77048-cluefinders-5th-grade-adventures-the-secret-of-the-living-volcano.json) |
 | ClueFinders Search and Solve Adventures: The Phantom Amusement Park | 186038 | [186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json](./186038-cluefinders-search-and-solve-adventures-the-phantom-amusement-park.json) |
@@ -12697,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal Mining Simulator | 123805 | [123805-coal-mining-simulator.json](./123805-coal-mining-simulator.json) |
 | Coal Road | 303419 | [303419-coal-road.json](./303419-coal-road.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
+| Coala | 14622 | [14622-coala.json](./14622-coala.json) |
 | Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
 | Coalescent: Tidal Rapture | 346321 | [346321-coalescent-tidal-rapture.json](./346321-coalescent-tidal-rapture.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
@@ -13258,6 +13268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
 | Cohort Chess | 232881 | [232881-cohort-chess.json](./232881-cohort-chess.json) |
 | Cohort II | 73198 | [73198-cohort-ii.json](./73198-cohort-ii.json) |
+| Cohort II: Fighting for Rome | 14624 | [14624-cohort-ii-fighting-for-rome.json](./14624-cohort-ii-fighting-for-rome.json) |
+| Cohort: Fighting for Rome | 14623 | [14623-cohort-fighting-for-rome.json](./14623-cohort-fighting-for-rome.json) |
 | Còi to cho Vượt | 131238 | [131238-coi-to-cho-vuot.json](./131238-coi-to-cho-vuot.json) |
 | Coil | 92635 | [92635-coil.json](./92635-coil.json) |
 | Coil's Containment | 338916 | [338916-coils-containment.json](./338916-coils-containment.json) |
@@ -14362,7 +14374,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colosseum: Road to Freedom | 22456 | [22456-colosseum-road-to-freedom.json](./22456-colosseum-road-to-freedom.json) |
 | Colosso Crystal Skulls | 99727 | [99727-colosso-crystal-skulls.json](./99727-colosso-crystal-skulls.json) |
 | Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
+| Colossus Bridge 4 | 14625 | [14625-colossus-bridge-4.json](./14625-colossus-bridge-4.json) |
 | Colossus Chess 4 | 94664 | [94664-colossus-chess-4.json](./94664-colossus-chess-4.json) |
+| Colossus Chess X | 14626 | [14626-colossus-chess-x.json](./14626-colossus-chess-x.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
 | Colossus Mission | 153651 | [153651-colossus-mission.json](./153651-colossus-mission.json) |
@@ -15486,6 +15500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
 | Conflict: Middle East - Arab/Israeli Wars: 1973-? | 15917 | [15917-conflict-middle-east-arab-israeli-wars-1973.json](./15917-conflict-middle-east-arab-israeli-wars-1973.json) |
+| Conflict: The Middle East Simulation | 14627 | [14627-conflict-the-middle-east-simulation.json](./14627-conflict-the-middle-east-simulation.json) |
 | ConflictCraft | 32255 | [32255-conflictcraft.json](./32255-conflictcraft.json) |
 | ConflictCraft 2 | 190087 | [190087-conflictcraft-2.json](./190087-conflictcraft-2.json) |
 | Confluence: An Of Sense and Soul Soliloquy | 338884 | [338884-confluence-an-of-sense-and-soul-soliloquy.json](./338884-confluence-an-of-sense-and-soul-soliloquy.json) |
@@ -18009,6 +18024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
 | Cover Girl | 42688 | [42688-cover-girl.json](./42688-cover-girl.json) |
+| Cover Girl Strip Poker | 14628 | [14628-cover-girl-strip-poker.json](./14628-cover-girl-strip-poker.json) |
 | Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
@@ -19583,6 +19599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatrix | 425387 | [425387-creatrix.json](./425387-creatrix.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
+| Creature | 14629 | [14629-creature.json](./14629-creature.json) |
 | Creature Battle Lab | 18732 | [18732-creature-battle-lab.json](./18732-creature-battle-lab.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Capture | 230648 | [230648-creature-capture.json](./230648-creature-capture.json) |
@@ -19812,6 +19829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Forever | 90023 | [90023-cribbage-forever.json](./90023-cribbage-forever.json) |
 | Cribbage HD | 91118 | [91118-cribbage-hd.json](./91118-cribbage-hd.json) |
 | Cribbage JD | 144781 | [144781-cribbage-jd.json](./144781-cribbage-jd.json) |
+| Cribbage King & Gin King | 14630 | [14630-cribbage-king-and-gin-king.json](./14630-cribbage-king-and-gin-king.json) |
 | Cribbage Live | 232277 | [232277-cribbage-live.json](./232277-cribbage-live.json) |
 | Cribbage Premium | 88595 | [88595-cribbage-premium.json](./88595-cribbage-premium.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
@@ -20537,6 +20555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossbow Quest | 309411 | [309411-crossbow-quest.json](./309411-crossbow-quest.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
 | Crossbow: Bloodnight | 139147 | [139147-crossbow-bloodnight.json](./139147-crossbow-bloodnight.json) |
+| Crossbow: The Legend of William Tell | 14631 | [14631-crossbow-the-legend-of-william-tell.json](./14631-crossbow-the-legend-of-william-tell.json) |
 | CrossCells | 28924 | [28924-crosscells.json](./28924-crosscells.json) |
 | CrossCheck | 15920 | [15920-crosscheck.json](./15920-crosscheck.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
@@ -23712,6 +23731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
 | Cyberpunk: The Arasaka's Plot | 120199 | [120199-cyberpunk-the-arasakas-plot.json](./120199-cyberpunk-the-arasakas-plot.json) |
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
+| Cyberpunks | 14632 | [14632-cyberpunks.json](./14632-cyberpunks.json) |
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
