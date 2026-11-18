@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Climax Scramble | 106307 | [106307-kamen-rider-climax-scramble.json](./106307-kamen-rider-climax-scramble.json) |
 | Kamen Rider: Dragon Knight | 50730 | [50730-kamen-rider-dragon-knight.json](./50730-kamen-rider-dragon-knight.json) |
 | Kamen Rider: Memory of Heroez | 137453 | [137453-kamen-rider-memory-of-heroez.json](./137453-kamen-rider-memory-of-heroez.json) |
+| Kamen Rider: Memory of Heroez - Premium Sound Edition | 140675 | [140675-kamen-rider-memory-of-heroez-premium-sound-edition.json](./140675-kamen-rider-memory-of-heroez-premium-sound-edition.json) |
 | Kamen Rider: Seigi no Keifu | 61914 | [61914-kamen-rider-seigi-no-keifu.json](./61914-kamen-rider-seigi-no-keifu.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kamen Rider: Travelers Senki | 61920 | [61920-kamen-rider-travelers-senki.json](./61920-kamen-rider-travelers-senki.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Out | 422141 | [422141-king-out.json](./422141-king-out.json) |
 | King Pig | 203669 | [203669-king-pig.json](./203669-king-pig.json) |
 | King Pins | 140452 | [140452-king-pins.json](./140452-king-pins.json) |
+| King Pong | 140643 | [140643-king-pong.json](./140643-king-pong.json) |
 | King Rabbit: Puzzle | 111196 | [111196-king-rabbit-puzzle.json](./111196-king-rabbit-puzzle.json) |
 | King Rabbit: Race | 185913 | [185913-king-rabbit-race.json](./185913-king-rabbit-race.json) |
 | King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
