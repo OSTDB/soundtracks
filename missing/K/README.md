@@ -19,7 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-1 World GP 2005 | 66879 | [66879-k-1-world-gp-2005.json](./66879-k-1-world-gp-2005.json) |
 | K-1 World GP 2006 | 66878 | [66878-k-1-world-gp-2006.json](./66878-k-1-world-gp-2006.json) |
 | K-1 World Grand Prix | 23710 | [23710-k-1-world-grand-prix.json](./23710-k-1-world-grand-prix.json) |
-| K-1 World Grand Prix 2001 | 23469 | [23469-k-1-world-grand-prix-2001.json](./23469-k-1-world-grand-prix-2001.json) |
 | K-1 World Grand Prix 2001 Kaimakuden | 66883 | [66883-k-1-world-grand-prix-2001-kaimakuden.json](./66883-k-1-world-grand-prix-2001-kaimakuden.json) |
 | K-1 World Grand Prix 2003 | 66876 | [66876-k-1-world-grand-prix-2003.json](./66876-k-1-world-grand-prix-2003.json) |
 | K-1 World Grand Prix: The Beast Attack! | 66875 | [66875-k-1-world-grand-prix-the-beast-attack.json](./66875-k-1-world-grand-prix-the-beast-attack.json) |
@@ -182,7 +181,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaerun | 421793 | [421793-kaerun.json](./421793-kaerun.json) |
-| Kaet Must Die! | 55610 | [55610-kaet-must-die.json](./55610-kaet-must-die.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
@@ -276,7 +274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiji VR: The Nightmare Bridge | 28359 | [28359-kaiji-vr-the-nightmare-bridge.json](./28359-kaiji-vr-the-nightmare-bridge.json) |
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
-| Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Busters | 85225 | [85225-kaiju-busters.json](./85225-kaiju-busters.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleaner | 227048 | [227048-kaiju-cleaner.json](./227048-kaiju-cleaner.json) |
@@ -499,7 +496,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakyuusei Remake | 385824 | [385824-kakyuusei-remake.json](./385824-kakyuusei-remake.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kāla | 252281 | [252281-kala.json](./252281-kala.json) |
-| Kalaban | 30094 | [30094-kalaban.json](./30094-kalaban.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
 | Kalahari’s End | 292776 | [292776-kalahari-s-end.json](./292776-kalahari-s-end.json) |
@@ -576,7 +572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaitachi no Yoru | 42321 | [42321-kamaitachi-no-yoru.json](./42321-kamaitachi-no-yoru.json) |
 | Kamaitachi No Yoru 2 Tokubetsuhen | 137751 | [137751-kamaitachi-no-yoru-2-tokubetsuhen.json](./137751-kamaitachi-no-yoru-2-tokubetsuhen.json) |
 | Kamaitachi no Yoru 2: Kangokujima no Warabe Uta | 64840 | [64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json](./64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json) |
-| Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
 | Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou | 64839 | [64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json](./64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json) |
 | Kamaitachi no Yoru x3 | 306194 | [306194-kamaitachi-no-yoru-x3.json](./306194-kamaitachi-no-yoru-x3.json) |
 | Kamaitachi no Yoru: Rinne Saisei | 76095 | [76095-kamaitachi-no-yoru-rinne-saisei.json](./76095-kamaitachi-no-yoru-rinne-saisei.json) |
@@ -634,7 +629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War Genesis - Memorial TV Sound Edition | 136694 | [136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json](./136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
-| Kamen Rider: Climax Fighters | 56666 | [56666-kamen-rider-climax-fighters.json](./56666-kamen-rider-climax-fighters.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes | 4947 | [4947-kamen-rider-climax-heroes.json](./4947-kamen-rider-climax-heroes.json) |
 | Kamen Rider: Climax Heroes Fourze | 64239 | [64239-kamen-rider-climax-heroes-fourze.json](./64239-kamen-rider-climax-heroes-fourze.json) |
@@ -863,7 +857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Sono Mama Rakubiki Jiten | 67029 | [67029-kanji-sono-mama-rakubiki-jiten.json](./67029-kanji-sono-mama-rakubiki-jiten.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Trainer Portable | 56749 | [56749-kanji-trainer-portable.json](./56749-kanji-trainer-portable.json) |
-| Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | KanjiMemory | 293480 | [293480-kanjimemory.json](./293480-kanjimemory.json) |
@@ -930,7 +923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
 | Kanzen Hanzai Mystery | 251622 | [251622-kanzen-hanzai-mystery.json](./251622-kanzen-hanzai-mystery.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
-| Kao Challengers | 22564 | [22564-kao-challengers.json](./22564-kao-challengers.json) |
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 36745 | [36745-kao-the-kangaroo.json](./36745-kao-the-kangaroo.json) |
@@ -1043,7 +1035,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Party: Sing & Dance | 324205 | [324205-karaoke-party-sing-and-dance.json](./324205-karaoke-party-sing-and-dance.json) |
 | Karaoke Revolution | 7034 | [7034-karaoke-revolution.json](./7034-karaoke-revolution.json) |
-| Karaoke Revolution | 80460 | [80460-karaoke-revolution.json](./80460-karaoke-revolution.json) |
 | Karaoke Revolution Anime Song Selection | 194435 | [194435-karaoke-revolution-anime-song-selection.json](./194435-karaoke-revolution-anime-song-selection.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
@@ -1052,7 +1043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Presents: American Idol Encore | 21350 | [21350-karaoke-revolution-presents-american-idol-encore.json](./21350-karaoke-revolution-presents-american-idol-encore.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution Volume 2 | 23552 | [23552-karaoke-revolution-volume-2.json](./23552-karaoke-revolution-volume-2.json) |
-| Karaoke Revolution Volume 3 | 24249 | [24249-karaoke-revolution-volume-3.json](./24249-karaoke-revolution-volume-3.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
@@ -1090,7 +1080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
-| Karate Master 2 Knock Down Blow | 35813 | [35813-karate-master-2-knock-down-blow.json](./35813-karate-master-2-knock-down-blow.json) |
 | Karate Master Knock Down Blow | 50457 | [50457-karate-master-knock-down-blow.json](./50457-karate-master-knock-down-blow.json) |
 | Karate Panda | 54158 | [54158-karate-panda.json](./54158-karate-panda.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
@@ -1241,7 +1230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart Heros Ultra | 306128 | [306128-kart-heros-ultra.json](./306128-kart-heros-ultra.json) |
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
-| Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart n' Crazy | 417059 | [417059-kart-n-crazy.json](./417059-kart-n-crazy.json) |
 | Kart Race | 50308 | [50308-kart-race.json](./50308-kart-race.json) |
@@ -1367,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Arena | 219872 | [219872-katana-arena.json](./219872-katana-arena.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Dynasty | 292180 | [292180-katana-dynasty.json](./292180-katana-dynasty.json) |
+| Katana Fruit | 207932 | [207932-katana-fruit.json](./207932-katana-fruit.json) |
 | Katana Hime | 375486 | [375486-katana-hime.json](./375486-katana-hime.json) |
 | Katana Infinity | 246167 | [246167-katana-infinity.json](./246167-katana-infinity.json) |
 | Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
@@ -1643,7 +1632,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | Kazoo | 279442 | [279442-kazoo.json](./279442-kazoo.json) |
-| Kazook | 23103 | [23103-kazook.json](./23103-kazook.json) |
 | Kazu Adventures | 252533 | [252533-kazu-adventures.json](./252533-kazu-adventures.json) |
 | Kazu Aether Origins | 295891 | [295891-kazu-aether-origins.json](./295891-kazu-aether-origins.json) |
 | Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
@@ -1677,7 +1665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Dynasty | 417064 | [417064-kebab-dynasty.json](./417064-kebab-dynasty.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
-| Kebab it Up! | 81091 | [81091-kebab-it-up.json](./81091-kebab-it-up.json) |
 | Kebab Simulator | 301359 | [301359-kebab-simulator.json](./301359-kebab-simulator.json) |
 | Kebab Simulator 2025 | 342416 | [342416-kebab-simulator-2025.json](./342416-kebab-simulator-2025.json) |
 | Kebab Simulator VR | 310481 | [310481-kebab-simulator-vr.json](./310481-kebab-simulator-vr.json) |
@@ -1696,7 +1683,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | Keelhauled | 428135 | [428135-keelhauled.json](./428135-keelhauled.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
-| Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keen Commander World | 80004 | [80004-keen-commander-world.json](./80004-keen-commander-world.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep | 373786 | [373786-keep.json](./373786-keep.json) |
@@ -1806,6 +1792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper of the Keys | 223245 | [223245-keeper-of-the-keys.json](./223245-keeper-of-the-keys.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
 | Keeper of the Sun and Moon | 120840 | [120840-keeper-of-the-sun-and-moon.json](./120840-keeper-of-the-sun-and-moon.json) |
+| Keeper of the Valley | 234227 | [234227-keeper-of-the-valley.json](./234227-keeper-of-the-valley.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
 | Keeper! | 87376 | [87376-keeper.json](./87376-keeper.json) |
@@ -2190,7 +2177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsu Battler | 330226 | [330226-ketsu-battler.json](./330226-ketsu-battler.json) |
 | Ketsugou Danshi: Elements with Emotions | 217566 | [217566-ketsugou-danshi-elements-with-emotions.json](./217566-ketsugou-danshi-elements-with-emotions.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
-| Ketsui Death Label | 47856 | [47856-ketsui-death-label.json](./47856-ketsui-death-label.json) |
 | Ketsui Deathtiny: Kizuna Jigoku Tachi | 106850 | [106850-ketsui-deathtiny-kizuna-jigoku-tachi.json](./106850-ketsui-deathtiny-kizuna-jigoku-tachi.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
@@ -2203,7 +2189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketu de Ganba | 97999 | [97999-ketu-de-ganba.json](./97999-ketu-de-ganba.json) |
 | Keturan | 358470 | [358470-keturan.json](./358470-keturan.json) |
 | Ketz: Galactic Overlords | 327549 | [327549-ketz-galactic-overlords.json](./327549-ketz-galactic-overlords.json) |
-| Ketzal's Corridors | 47651 | [47651-ketzals-corridors.json](./47651-ketzals-corridors.json) |
 | Ketzer | 405720 | [405720-ketzer.json](./405720-ketzer.json) |
 | Kevin Costner's Waterworld | 221224 | [221224-kevin-costners-waterworld.json](./221224-kevin-costners-waterworld.json) |
 | Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
@@ -2652,7 +2637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Tenshi Angelic Layer | 49643 | [49643-kidou-tenshi-angelic-layer.json](./49643-kidou-tenshi-angelic-layer.json) |
 | Kids | 95167 | [95167-kids.json](./95167-kids.json) |
 | Kids & Family Movie Trivia | 303202 | [303202-kids-and-family-movie-trivia.json](./303202-kids-and-family-movie-trivia.json) |
-| Kids ABC and Counting Jigsaw Puzzles Pre school | 87151 | [87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json](./87151-kids-abc-and-counting-jigsaw-puzzles-pre-school.json) |
 | Kids ABC Games: Toddler Boys & Girls Learning | 88798 | [88798-kids-abc-games-toddler-boys-and-girls-learning.json](./88798-kids-abc-games-toddler-boys-and-girls-learning.json) |
 | Kids ABC Letter Trains | 90438 | [90438-kids-abc-letter-trains.json](./90438-kids-abc-letter-trains.json) |
 | Kids ABC Order | 175314 | [175314-kids-abc-order.json](./175314-kids-abc-order.json) |
@@ -2903,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Cute | 244721 | [244721-kill-the-cute.json](./244721-kill-the-cute.json) |
 | Kill the Demon Lord | 387804 | [387804-kill-the-demon-lord.json](./387804-kill-the-demon-lord.json) |
 | Kill the Dictator | 111213 | [111213-kill-the-dictator.json](./111213-kill-the-dictator.json) |
+| Kill the Dog from Duck Hunt! | 234295 | [234295-kill-the-dog-from-duck-hunt.json](./234295-kill-the-dog-from-duck-hunt.json) |
 | Kill the Dragon | 175642 | [175642-kill-the-dragon.json](./175642-kill-the-dragon.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
@@ -3147,7 +3132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time | 288936 | [288936-killing-time.json](./288936-killing-time.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
-| Killing Time At Lightspeed: Enhanced Edition | 35001 | [35001-killing-time-at-lightspeed-enhanced-edition.json](./35001-killing-time-at-lightspeed-enhanced-edition.json) |
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
@@ -3175,7 +3159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
 | Killzone Extraction | 405907 | [405907-killzone-extraction.json](./405907-killzone-extraction.json) |
 | Killzone HD | 20003 | [20003-killzone-hd.json](./20003-killzone-hd.json) |
-| Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
 | Killzone: Liberation | 1868 | [1868-killzone-liberation.json](./1868-killzone-liberation.json) |
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
@@ -3275,7 +3258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimono | 177240 | [177240-kimono.json](./177240-kimono.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
-| Kimulator : Fight for your destiny | 32569 | [32569-kimulator-fight-for-your-destiny.json](./32569-kimulator-fight-for-your-destiny.json) |
 | Kimulator 2: Brother of Time | 37435 | [37435-kimulator-2-brother-of-time.json](./37435-kimulator-2-brother-of-time.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
 | Kin | 98306 | [98306-kin.json](./98306-kin.json) |
@@ -3367,7 +3349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
 | Kinect Mega Bundle: 4 in 1 | 82538 | [82538-kinect-mega-bundle-4-in-1.json](./82538-kinect-mega-bundle-4-in-1.json) |
-| Kinect Nat Geo TV | 22343 | [22343-kinect-nat-geo-tv.json](./22343-kinect-nat-geo-tv.json) |
 | Kinect Nat Geo TV: Season Two | 94040 | [94040-kinect-nat-geo-tv-season-two.json](./94040-kinect-nat-geo-tv-season-two.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
@@ -3378,7 +3359,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Sports Gems: Boxing Fight | 106093 | [106093-kinect-sports-gems-boxing-fight.json](./106093-kinect-sports-gems-boxing-fight.json) |
 | Kinect Sports: Season Two | 18026 | [18026-kinect-sports-season-two.json](./18026-kinect-sports-season-two.json) |
 | Kinect Sports: Season Two - Midnight Mountain | 20658 | [20658-kinect-sports-season-two-midnight-mountain.json](./20658-kinect-sports-season-two-midnight-mountain.json) |
-| Kinect Sports: Ultimate Collection | 47401 | [47401-kinect-sports-ultimate-collection.json](./47401-kinect-sports-ultimate-collection.json) |
 | Kinect Star Wars | 8560 | [8560-kinect-star-wars.json](./8560-kinect-star-wars.json) |
 | Kinect Triple Bundle: Beats & Booms & Squids | 82453 | [82453-kinect-triple-bundle-beats-and-booms-and-squids.json](./82453-kinect-triple-bundle-beats-and-booms-and-squids.json) |
 | Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
@@ -3721,7 +3701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Game | 416752 | [416752-kings-game.json](./416752-kings-game.json) |
 | King's Game 2 | 416753 | [416753-kings-game-2.json](./416753-kings-game-2.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
-| King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
 | King's Hand | 231152 | [231152-kings-hand.json](./231152-kings-hand.json) |
 | King's Hand | 385375 | [385375-kings-hand.json](./385375-kings-hand.json) |
 | King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
@@ -3823,7 +3802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Conquest II | 51652 | [51652-kingdom-conquest-ii.json](./51652-kingdom-conquest-ii.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Craft | 406999 | [406999-kingdom-craft.json](./406999-kingdom-craft.json) |
-| Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
@@ -3891,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Hearts Union χ[Cross] | 27737 | [27737-kingdom-hearts-union-cross.json](./27737-kingdom-hearts-union-cross.json) |
 | Kingdom Hearts χ[chi] | 20287 | [20287-kingdom-hearts-chi.json](./20287-kingdom-hearts-chi.json) |
+| Kingdom Hearts: Card Struggle - Spider Solitaire | 320421 | [320421-kingdom-hearts-card-struggle-spider-solitaire.json](./320421-kingdom-hearts-card-struggle-spider-solitaire.json) |
 | Kingdom Hearts: Fragmented Keys | 332480 | [332480-kingdom-hearts-fragmented-keys.json](./332480-kingdom-hearts-fragmented-keys.json) |
 | Kingdom Hearts: Melody of Memory | 135108 | [135108-kingdom-hearts-melody-of-memory.json](./135108-kingdom-hearts-melody-of-memory.json) |
 | Kingdom Hearts: Missing-Link | 196765 | [196765-kingdom-hearts-missing-link.json](./196765-kingdom-hearts-missing-link.json) |
@@ -3962,7 +3941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom of Paradise | 259656 | [259656-kingdom-of-paradise.json](./259656-kingdom-of-paradise.json) |
-| Kingdom of Paradise | 42878 | [42878-kingdom-of-paradise.json](./42878-kingdom-of-paradise.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Piss | 340882 | [340882-kingdom-of-piss.json](./340882-kingdom-of-piss.json) |
 | Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
@@ -3997,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
 | Kingdom Square | 259102 | [259102-kingdom-square.json](./259102-kingdom-square.json) |
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
+| Kingdom Tactics | 205134 | [205134-kingdom-tactics.json](./205134-kingdom-tactics.json) |
 | Kingdom Tales | 10486 | [10486-kingdom-tales.json](./10486-kingdom-tales.json) |
 | Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
@@ -4077,7 +4056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Ereloth | 238711 | [238711-kingdoms-of-ereloth.json](./238711-kingdoms-of-ereloth.json) |
 | Kingdoms Of Eternity | 318488 | [318488-kingdoms-of-eternity.json](./318488-kingdoms-of-eternity.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
-| Kingdoms of Heckfire | 56014 | [56014-kingdoms-of-heckfire.json](./56014-kingdoms-of-heckfire.json) |
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
@@ -4682,6 +4660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten and Food: Adventure Park | 108022 | [108022-kitten-and-food-adventure-park.json](./108022-kitten-and-food-adventure-park.json) |
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
+| Kitten Cannon! | 234294 | [234294-kitten-cannon.json](./234294-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
 | Kitten Command | 321684 | [321684-kitten-command.json](./321684-kitten-command.json) |
 | Kitten Connection | 422816 | [422816-kitten-connection.json](./422816-kitten-connection.json) |
@@ -4732,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittens' Maze | 149950 | [149950-kittens-maze.json](./149950-kittens-maze.json) |
 | Kittenship Care | 364062 | [364062-kittenship-care.json](./364062-kittenship-care.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
+| Kittey 64 | 302252 | [302252-kittey-64.json](./302252-kittey-64.json) |
 | Kittie's Mazes | 98888 | [98888-kitties-mazes.json](./98888-kitties-mazes.json) |
 | Kitties on Planets | 424004 | [424004-kitties-on-planets.json](./424004-kitties-on-planets.json) |
 | Kitties Solitaire | 412344 | [412344-kitties-solitaire.json](./412344-kitties-solitaire.json) |
@@ -4810,7 +4790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittycat Couture | 399419 | [399419-kittycat-couture.json](./399419-kittycat-couture.json) |
 | KittyClinic | 182594 | [182594-kittyclinic.json](./182594-kittyclinic.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
-| Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
 | KittyRope | 422849 | [422849-kittyrope.json](./422849-kittyrope.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
@@ -4878,7 +4857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klabater Bundle: The Amazing American Circus, Moonshine Inc., Heliborne and Crossroads Inn | 269170 | [269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json](./269170-klabater-bundle-the-amazing-american-circus-moonshine-inc-heliborne-and-crossroads-inn.json) |
 | Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
 | Klabater Franchise Bundle | 401941 | [401941-klabater-franchise-bundle.json](./401941-klabater-franchise-bundle.json) |
-| Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klangwelt | 89207 | [89207-klangwelt.json](./89207-klangwelt.json) |
@@ -5034,7 +5012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KniffiKult | 144510 | [144510-kniffikult.json](./144510-kniffikult.json) |
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
 | Knight 'n' Grail | 41118 | [41118-knight-n-grail.json](./41118-knight-n-grail.json) |
-| Knight & Damsel | 24023 | [24023-knight-and-damsel.json](./24023-knight-and-damsel.json) |
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
@@ -5123,14 +5100,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Owls | 339680 | [339680-knight-owls.json](./339680-knight-owls.json) |
 | Knight Party | 283058 | [283058-knight-party.json](./283058-knight-party.json) |
-| Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 218335 | [218335-knight-rider.json](./218335-knight-rider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Rider Special | 42058 | [42058-knight-rider-special.json](./42058-knight-rider-special.json) |
-| Knight Rider: The Game | 22369 | [22369-knight-rider-the-game.json](./22369-knight-rider-the-game.json) |
 | Knight Riot | 188704 | [188704-knight-riot.json](./188704-knight-riot.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
@@ -5292,6 +5267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights Beasts & Magic | 234290 | [234290-knights-beasts-and-magic.json](./234290-knights-beasts-and-magic.json) |
+| Knights Beasts & Magic 2 | 234292 | [234292-knights-beasts-and-magic-2.json](./234292-knights-beasts-and-magic-2.json) |
 | Knights Chronicle | 103584 | [103584-knights-chronicle.json](./103584-knights-chronicle.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
 | Knights College 2 | 379275 | [379275-knights-college-2.json](./379275-knights-college-2.json) |
@@ -5347,7 +5323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of Tartarus | 108388 | [108388-knights-of-tartarus.json](./108388-knights-of-tartarus.json) |
-| Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2 | 154202 | [154202-knights-of-the-chalice-2.json](./154202-knights-of-the-chalice-2.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
 | Knights of the Cross | 50474 | [50474-knights-of-the-cross.json](./50474-knights-of-the-cross.json) |
@@ -5410,7 +5385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knither Special | 41730 | [41730-knither-special.json](./41730-knither-special.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knittens | 210763 | [210763-knittens.json](./210763-knittens.json) |
-| Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
@@ -5489,7 +5463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knortex | 384988 | [384988-knortex.json](./384988-knortex.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
 | Knossu | 220571 | [220571-knossu.json](./220571-knossu.json) |
-| Knot | 24521 | [24521-knot.json](./24521-knot.json) |
 | Knot Fiction! | 144202 | [144202-knot-fiction.json](./144202-knot-fiction.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot Me! | 146474 | [146474-knot-me.json](./146474-knot-me.json) |
@@ -5586,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koala Sling | 268020 | [268020-koala-sling.json](./268020-koala-sling.json) |
 | Koalas Deliv & Guy | 366359 | [366359-koalas-deliv-and-guy.json](./366359-koalas-deliv-and-guy.json) |
 | Koarabyss | 349538 | [349538-koarabyss.json](./349538-koarabyss.json) |
+| Koatl el Defensor: Los Túneles Perdidos | 207931 | [207931-koatl-el-defensor-los-tuneles-perdidos.json](./207931-koatl-el-defensor-los-tuneles-perdidos.json) |
 | Kobal | 274132 | [274132-kobal.json](./274132-kobal.json) |
 | Kobal 2 | 274133 | [274133-kobal-2.json](./274133-kobal-2.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
@@ -5667,7 +5641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KOF X Garou Densetsu | 63832 | [63832-kof-x-garou-densetsu.json](./63832-kof-x-garou-densetsu.json) |
 | Koffi Yellow Copter | 40797 | [40797-koffi-yellow-copter.json](./40797-koffi-yellow-copter.json) |
 | Kofi Quest | 212631 | [212631-kofi-quest.json](./212631-kofi-quest.json) |
-| Kofi Quest: Alpha MOD | 83567 | [83567-kofi-quest-alpha-mod.json](./83567-kofi-quest-alpha-mod.json) |
 | Kofie & Clover | 138443 | [138443-kofie-and-clover.json](./138443-kofie-and-clover.json) |
 | Kofoin: Swarm Defense | 374821 | [374821-kofoin-swarm-defense.json](./374821-kofoin-swarm-defense.json) |
 | Kofun ha Ikiteiru: Maholova Club no Shitai Sagashi | 206563 | [206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json](./206563-kofun-ha-ikiteiru-maholova-club-no-shitai-sagashi.json) |
@@ -5740,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Suru Otome to Shugo no Tate: Bara no Seibo | 145101 | [145101-koi-suru-otome-to-shugo-no-tate-bara-no-seibo.json](./145101-koi-suru-otome-to-shugo-no-tate-bara-no-seibo.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" - Adult Version | 141345 | [141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json](./141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json) |
+| Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" - Limited Edition | 207923 | [207923-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-limited-edition.json](./207923-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-limited-edition.json) |
 | Koi Suru! Brother-kun | 301691 | [301691-koi-suru-brother-kun.json](./301691-koi-suru-brother-kun.json) |
 | Koi to H Shika Shiteinai! | 396673 | [396673-koi-to-h-shika-shiteinai.json](./396673-koi-to-h-shika-shiteinai.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
@@ -5946,7 +5920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
 | Konami Antiques: MSX Collection Vol. 2 | 44804 | [44804-konami-antiques-msx-collection-vol-2.json](./44804-konami-antiques-msx-collection-vol-2.json) |
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
-| Konami Arcade Classics | 79704 | [79704-konami-arcade-classics.json](./79704-konami-arcade-classics.json) |
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Classics Vol. 1 | 47386 | [47386-konami-classics-vol-1.json](./47386-konami-classics-vol-1.json) |
 | Konami Classics Vol. 2 | 47368 | [47368-konami-classics-vol-2.json](./47368-konami-classics-vol-2.json) |
@@ -6251,7 +6224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Student Simulator | 402734 | [402734-korean-student-simulator.json](./402734-korean-student-simulator.json) |
 | Koregafuko | 323143 | [323143-koregafuko.json](./323143-koregafuko.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
-| Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG DS-10 Plus | 124490 | [124490-korg-ds-10-plus.json](./124490-korg-ds-10-plus.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Korg M01 | 63564 | [63564-korg-m01.json](./63564-korg-m01.json) |
@@ -6288,7 +6260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
 | Koronis Rift | 26005 | [26005-koronis-rift.json](./26005-koronis-rift.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
-| Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Koroshiya to Strawberry | 144643 | [144643-koroshiya-to-strawberry.json](./144643-koroshiya-to-strawberry.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
@@ -6435,7 +6406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
 | Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
-| Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kour 64 | 313667 | [313667-kour-64.json](./313667-kour-64.json) |
 | Kour.io | 289360 | [289360-kour-io.json](./289360-kour-io.json) |
@@ -6805,7 +6775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudo’s Kuppa | 397866 | [397866-kudo-s-kuppa.json](./397866-kudo-s-kuppa.json) |
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
-| Kudos | 23135 | [23135-kudos.json](./23135-kudos.json) |
 | Kudos 2 | 21226 | [21226-kudos-2.json](./21226-kudos-2.json) |
 | Kudos: Rock Legend | 23097 | [23097-kudos-rock-legend.json](./23097-kudos-rock-legend.json) |
 | Kudzu | 284593 | [284593-kudzu.json](./284593-kudzu.json) |
@@ -6859,7 +6828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
 | Kuma: The Environmental Protector | 186981 | [186981-kuma-the-environmental-protector.json](./186981-kuma-the-environmental-protector.json) |
 | Kuma's Panty | 345741 | [345741-kumas-panty.json](./345741-kumas-panty.json) |
-| Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumakichi & Nyanzou Birth Destruction God DX | 336432 | [336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json](./336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json) |
 | Kumakichi's Birth: Destruction God | 267150 | [267150-kumakichis-birth-destruction-god.json](./267150-kumakichis-birth-destruction-god.json) |
@@ -6959,7 +6927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Acho | 41770 | [41770-kung-fu-acho.json](./41770-kung-fu-acho.json) |
 | Kung-fu Beat | 332672 | [332672-kung-fu-beat.json](./332672-kung-fu-beat.json) |
 | Kung-Fu Fighter | 56838 | [56838-kung-fu-fighter.json](./56838-kung-fu-fighter.json) |
-| Kung-Fu for Kinect | 82537 | [82537-kung-fu-for-kinect.json](./82537-kung-fu-for-kinect.json) |
 | Kung-Fu Heroes | 214619 | [214619-kung-fu-heroes.json](./214619-kung-fu-heroes.json) |
 | Kung-Fu Live | 52530 | [52530-kung-fu-live.json](./52530-kung-fu-live.json) |
 | Kung-Fu Master | 214459 | [214459-kung-fu-master.json](./214459-kung-fu-master.json) |
@@ -7348,7 +7315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyukyoku TigerHeli: Toaplan Arcade Garage | 399782 | [399782-kyukyoku-tigerheli-toaplan-arcade-garage.json](./399782-kyukyoku-tigerheli-toaplan-arcade-garage.json) |
 | Kyumori Episode1 | 175985 | [175985-kyumori-episode1.json](./175985-kyumori-episode1.json) |
 | Kyun! | 184268 | [184268-kyun.json](./184268-kyun.json) |
-| Kyurinaga's Revenge | 25308 | [25308-kyurinagas-revenge.json](./25308-kyurinagas-revenge.json) |
 | Kyuryutou | 361660 | [361660-kyuryutou.json](./361660-kyuryutou.json) |
 | Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
 | Kyuukai Douchuuki | 45724 | [45724-kyuukai-douchuuki.json](./45724-kyuukai-douchuuki.json) |
