@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eluminage Original | 405267 | [405267-eluminage-original.json](./405267-eluminage-original.json) |
 | Elumiqs | 107540 | [107540-elumiqs.json](./107540-elumiqs.json) |
 | Elune | 125832 | [125832-elune.json](./125832-elune.json) |
+| Eluria: The Endless Night | 430065 | [430065-eluria-the-endless-night.json](./430065-eluria-the-endless-night.json) |
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
 | Elusive People | 228607 | [228607-elusive-people.json](./228607-elusive-people.json) |
 | Elusive Verge | 144587 | [144587-elusive-verge.json](./144587-elusive-verge.json) |
@@ -3988,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ena: Dream BBQ | 172496 | [172496-ena-dream-bbq.json](./172496-ena-dream-bbq.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
+| Enamelist: Tidy Up the Pin Collection | 430115 | [430115-enamelist-tidy-up-the-pin-collection.json](./430115-enamelist-tidy-up-the-pin-collection.json) |
 | Enamored Risks | 132440 | [132440-enamored-risks.json](./132440-enamored-risks.json) |
 | EnantiO | 206233 | [206233-enantio.json](./206233-enantio.json) |
 | Enarian Online | 408369 | [408369-enarian-online.json](./408369-enarian-online.json) |
@@ -6647,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eseal: Reject, Reclaim, Redeem | 372639 | [372639-eseal-reject-reclaim-redeem.json](./372639-eseal-reject-reclaim-redeem.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
 | Eseapner | 75614 | [75614-eseapner.json](./75614-eseapner.json) |
+| Esenzia | 430064 | [430064-esenzia.json](./430064-esenzia.json) |
 | Esferibot | 272343 | [272343-esferibot.json](./272343-esferibot.json) |
 | Esgrima 2 | 101791 | [101791-esgrima-2.json](./101791-esgrima-2.json) |
 | Esgrima Online | 101792 | [101792-esgrima-online.json](./101792-esgrima-online.json) |
