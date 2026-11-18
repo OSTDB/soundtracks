@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Fight 2: New Blood | 188313 | [188313-knights-fight-2-new-blood.json](./188313-knights-fight-2-new-blood.json) |
 | Knights Hunt | 72501 | [72501-knights-hunt.json](./72501-knights-hunt.json) |
 | Knights in a Different Spacetime | 374866 | [374866-knights-in-a-different-spacetime.json](./374866-knights-in-a-different-spacetime.json) |
+| Knights in Armor | 123084 | [123084-knights-in-armor.json](./123084-knights-in-armor.json) |
 | Knights in Shining Armor: Our King's Tale Episode 1 | 25378 | [25378-knights-in-shining-armor-our-kings-tale-episode-1.json](./25378-knights-in-shining-armor-our-kings-tale-episode-1.json) |
 | Knights in the Nightmare Remaster | 222421 | [222421-knights-in-the-nightmare-remaster.json](./222421-knights-in-the-nightmare-remaster.json) |
 | Knights in Tight Spaces: Collector's Edition | 406335 | [406335-knights-in-tight-spaces-collectors-edition.json](./406335-knights-in-tight-spaces-collectors-edition.json) |
@@ -7188,7 +7189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwah! | 36685 | [36685-kwah.json](./36685-kwah.json) |
 | Kwaidan: Azuma Manor Story | 102426 | [102426-kwaidan-azuma-manor-story.json](./102426-kwaidan-azuma-manor-story.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
-| Kwari | 21544 | [21544-kwari.json](./21544-kwari.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kwark: Online and Multiplayer | 298129 | [298129-kwark-online-and-multiplayer.json](./298129-kwark-online-and-multiplayer.json) |
 | Kwarn Armada Tactics | 159937 | [159937-kwarn-armada-tactics.json](./159937-kwarn-armada-tactics.json) |
