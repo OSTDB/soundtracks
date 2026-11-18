@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task Force Ranger: Breakpoint | 409929 | [409929-task-force-ranger-breakpoint.json](./409929-task-force-ranger-breakpoint.json) |
+| Task Force Ranger: Lead the way! | 395313 | [395313-task-force-ranger-lead-the-way.json](./395313-task-force-ranger-lead-the-way.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task is to Survive | 74637 | [74637-task-is-to-survive.json](./74637-task-is-to-survive.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
 | Techwars Online 2 | 31454 | [31454-techwars-online-2.json](./31454-techwars-online-2.json) |
 | Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
+| Teckel Adventure | 397313 | [397313-teckel-adventure.json](./397313-teckel-adventure.json) |
 | Teckium Idle RPG | 425964 | [425964-teckium-idle-rpg.json](./425964-teckium-idle-rpg.json) |
 | Tecktonik World Tour | 92671 | [92671-tecktonik-world-tour.json](./92671-tecktonik-world-tour.json) |
 | Tecmo Baseball | 48228 | [48228-tecmo-baseball.json](./48228-tecmo-baseball.json) |
@@ -22230,6 +22232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Speak From the Abyss | 153550 | [153550-they-speak-from-the-abyss.json](./153550-they-speak-from-the-abyss.json) |
 | They Speak From The Abyss: Zenith | 252033 | [252033-they-speak-from-the-abyss-zenith.json](./252033-they-speak-from-the-abyss-zenith.json) |
 | They Speak To Us | 289830 | [289830-they-speak-to-us.json](./289830-they-speak-to-us.json) |
+| They Stare | 394908 | [394908-they-stare.json](./394908-they-stare.json) |
 | They Started It | 181224 | [181224-they-started-it.json](./181224-they-started-it.json) |
 | They Stole a Million | 11850 | [11850-they-stole-a-million.json](./11850-they-stole-a-million.json) |
 | They Stop for Gas at Night | 404445 | [404445-they-stop-for-gas-at-night.json](./404445-they-stop-for-gas-at-night.json) |
@@ -27383,6 +27386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Simulator | 86482 | [86482-toddler-simulator.json](./86482-toddler-simulator.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
+| Toddler Tumble | 397311 | [397311-toddler-tumble.json](./397311-toddler-tumble.json) |
 | Toddlers | 400096 | [400096-toddlers.json](./400096-toddlers.json) |
 | Toddlers Shake It | 399429 | [399429-toddlers-shake-it.json](./399429-toddlers-shake-it.json) |
 | Todesangst | 324866 | [324866-todesangst.json](./324866-todesangst.json) |
@@ -36877,6 +36881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turquoise Mars | 64081 | [64081-turquoise-mars.json](./64081-turquoise-mars.json) |
 | Turret | 130200 | [130200-turret.json](./130200-turret.json) |
 | Turret Architect | 30513 | [30513-turret-architect.json](./30513-turret-architect.json) |
+| Turret Baffler | 394906 | [394906-turret-baffler.json](./394906-turret-baffler.json) |
 | Turret Defense | 243821 | [243821-turret-defense.json](./243821-turret-defense.json) |
 | Turret Defense King | 317362 | [317362-turret-defense-king.json](./317362-turret-defense-king.json) |
 | Turret Defense: Bug Invasion | 160079 | [160079-turret-defense-bug-invasion.json](./160079-turret-defense-bug-invasion.json) |
@@ -37784,6 +37789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | Typer Shark | 205982 | [205982-typer-shark.json](./205982-typer-shark.json) |
 | Typer Shark! Deluxe | 27816 | [27816-typer-shark-deluxe.json](./27816-typer-shark-deluxe.json) |
+| Typer3000 | 397310 | [397310-typer3000.json](./397310-typer3000.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
 | Typers Combat | 399360 | [399360-typers-combat.json](./399360-typers-combat.json) |
 | TypeRush | 203185 | [203185-typerush.json](./203185-typerush.json) |
