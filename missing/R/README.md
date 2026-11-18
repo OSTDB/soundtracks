@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
 | Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
 | RAM Pressure | 110109 | [110109-ram-pressure.json](./110109-ram-pressure.json) |
+| Ram Racing | 76758 | [76758-ram-racing.json](./76758-ram-racing.json) |
 | Ram Ranch | 313759 | [313759-ram-ranch.json](./313759-ram-ranch.json) |
 | Ram Setu: The Run | 232395 | [232395-ram-setu-the-run.json](./232395-ram-setu-the-run.json) |
 | Ram Simulator | 370569 | [370569-ram-simulator.json](./370569-ram-simulator.json) |
@@ -8087,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet HD | 52708 | [52708-ricochet-hd.json](./52708-ricochet-hd.json) |
 | Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
+| Ricochet Lost Worlds: Recharged | 79393 | [79393-ricochet-lost-worlds-recharged.json](./79393-ricochet-lost-worlds-recharged.json) |
 | Ricochet Ranger | 183626 | [183626-ricochet-ranger.json](./183626-ricochet-ranger.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Riders | 404995 | [404995-ricochet-riders.json](./404995-ricochet-riders.json) |
