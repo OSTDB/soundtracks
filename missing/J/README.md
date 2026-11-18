@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack in the Box | 313613 | [313613-jack-in-the-box.json](./313613-jack-in-the-box.json) |
 | Jack in the Dark | 51346 | [51346-jack-in-the-dark.json](./51346-jack-in-the-dark.json) |
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
+| Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
 | Jack Jeanne 2 | 353636 | [353636-jack-jeanne-2.json](./353636-jack-jeanne-2.json) |
 | Jack Jeanne: Limited Edition | 228742 | [228742-jack-jeanne-limited-edition.json](./228742-jack-jeanne-limited-edition.json) |
 | Jack Keane | 10463 | [10463-jack-keane.json](./10463-jack-keane.json) |
