@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanpeki | 191969 | [191969-kanpeki.json](./191969-kanpeki.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
 | Kansei | 62863 | [62863-kansei.json](./62863-kansei.json) |
+| Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kanshakudama Nage Kantarou no Tokaido Gojuusan-tsugi | 48443 | [48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json](./48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json) |
 | Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klątwa | 78573 | [78573-klatwa.json](./78573-klatwa.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee Thunder in Down Under | 139567 | [139567-klaus-lee-thunder-in-down-under.json](./139567-klaus-lee-thunder-in-down-under.json) |
+| Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
@@ -5897,6 +5899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kombi | 340888 | [340888-kombi.json](./340888-kombi.json) |
 | Kombi Travels: Jigsaw Landscapes | 163007 | [163007-kombi-travels-jigsaw-landscapes.json](./163007-kombi-travels-jigsaw-landscapes.json) |
 | Kombine | 31026 | [31026-kombine.json](./31026-kombine.json) |
+| Kombinera | 194249 | [194249-kombinera.json](./194249-kombinera.json) |
 | Kombo | 232889 | [232889-kombo.json](./232889-kombo.json) |
 | Kombo King | 188993 | [188993-kombo-king.json](./188993-kombo-king.json) |
 | Komeiji Satori no Jousou Kyouiku | 187240 | [187240-komeiji-satori-no-jousou-kyouiku.json](./187240-komeiji-satori-no-jousou-kyouiku.json) |
