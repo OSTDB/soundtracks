@@ -4378,7 +4378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
 | Endless Legend: Shifters | 141264 | [141264-endless-legend-shifters.json](./141264-endless-legend-shifters.json) |
 | Endless Legend: Symbiosis | 114035 | [114035-endless-legend-symbiosis.json](./114035-endless-legend-symbiosis.json) |
-| Endless Legend: Tempest | 24933 | [24933-endless-legend-tempest.json](./24933-endless-legend-tempest.json) |
 | Endless Legend: The Lost Tales | 168767 | [168767-endless-legend-the-lost-tales.json](./168767-endless-legend-the-lost-tales.json) |
 | Endless Life | 339749 | [339749-endless-life.json](./339749-endless-life.json) |
 | Endless Loop Complete | 52949 | [52949-endless-loop-complete.json](./52949-endless-loop-complete.json) |
