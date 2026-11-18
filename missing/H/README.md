@@ -8606,7 +8606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
 | Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
-| Hide or Die | 74910 | [74910-hide-or-die.json](./74910-hide-or-die.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide the Baby | 383700 | [383700-hide-the-baby.json](./383700-hide-the-baby.json) |
@@ -9743,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
 | Hito-Yume | 68141 | [68141-hito-yume.json](./68141-hito-yume.json) |
+| Hitobashira | 416192 | [416192-hitobashira.json](./416192-hitobashira.json) |
 | Hitobashira: Human Suika | 294306 | [294306-hitobashira-human-suika.json](./294306-hitobashira-human-suika.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
 | Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
