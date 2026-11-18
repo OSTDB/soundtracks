@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
 | Candy Makeup Party Salon | 90185 | [90185-candy-makeup-party-salon.json](./90185-candy-makeup-party-salon.json) |
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
+| Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
 | Candy Match 3 | 85018 | [85018-candy-match-3.json](./85018-candy-match-3.json) |
 | Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
@@ -15931,6 +15932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
 | Construction Sim 2017 | 174989 | [174989-construction-sim-2017.json](./174989-construction-sim-2017.json) |
 | Construction Simulator | 206188 | [206188-construction-simulator.json](./206188-construction-simulator.json) |
+| Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2: Console Edition | 109294 | [109294-construction-simulator-2-console-edition.json](./109294-construction-simulator-2-console-edition.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2+3 Bundle | 295698 | [295698-construction-simulator-2-3-bundle.json](./295698-construction-simulator-2-3-bundle.json) |
@@ -20343,6 +20345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc: Legend of the Gobbos | 337885 | [337885-croc-legend-of-the-gobbos.json](./337885-croc-legend-of-the-gobbos.json) |
 | Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
 | Croc's Dynamite Blast | 377008 | [377008-crocs-dynamite-blast.json](./377008-crocs-dynamite-blast.json) |
+| Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
 | Croc's World 4 | 284758 | [284758-crocs-world-4.json](./284758-crocs-world-4.json) |
