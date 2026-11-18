@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitriol & Valor | 412548 | [412548-vitriol-and-valor.json](./412548-vitriol-and-valor.json) |
 | Vitris | 306015 | [306015-vitris.json](./306015-vitris.json) |
+| Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
 | Vitsie Visits Dinosaurs | 46706 | [46706-vitsie-visits-dinosaurs.json](./46706-vitsie-visits-dinosaurs.json) |
 | VitvitDriver 3D | 390040 | [390040-vitvitdriver-3d.json](./390040-vitvitdriver-3d.json) |
 | Viv and Bob | 134947 | [134947-viv-and-bob.json](./134947-viv-and-bob.json) |
