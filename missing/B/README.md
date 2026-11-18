@@ -4604,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royale Craft | 156954 | [156954-battle-royale-craft.json](./156954-battle-royale-craft.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Run | 234478 | [234478-battle-royale-run.json](./234478-battle-royale-run.json) |
+| Battle Royale Simulator | 108023 | [108023-battle-royale-simulator.json](./108023-battle-royale-simulator.json) |
 | Battle Royale Survival | 107811 | [107811-battle-royale-survival.json](./107811-battle-royale-survival.json) |
 | Battle Royale Trainer | 80451 | [80451-battle-royale-trainer.json](./80451-battle-royale-trainer.json) |
 | Battle Royale Tycoon | 103608 | [103608-battle-royale-tycoon.json](./103608-battle-royale-tycoon.json) |
@@ -11643,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blink of an Eye | 272118 | [272118-blink-of-an-eye.json](./272118-blink-of-an-eye.json) |
 | Blink Planets | 189369 | [189369-blink-planets.json](./189369-blink-planets.json) |
 | Blink the Bulb | 31099 | [31099-blink-the-bulb.json](./31099-blink-the-bulb.json) |
+| Blink: Rogues | 110324 | [110324-blink-rogues.json](./110324-blink-rogues.json) |
 | Blink: The Last Night | 179722 | [179722-blink-the-last-night.json](./179722-blink-the-last-night.json) |
 | Blink's Pet Lizard | 413733 | [413733-blinks-pet-lizard.json](./413733-blinks-pet-lizard.json) |
 | Blinky | 192832 | [192832-blinky.json](./192832-blinky.json) |
@@ -12479,6 +12481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bullets & Ballet | 135075 | [135075-blood-bullets-and-ballet.json](./135075-blood-bullets-and-ballet.json) |
 | Blood Burger | 202563 | [202563-blood-burger.json](./202563-blood-burger.json) |
 | Blood Camp | 193140 | [193140-blood-camp.json](./193140-blood-camp.json) |
+| Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Card 2: Dark Mist | 151994 | [151994-blood-card-2-dark-mist.json](./151994-blood-card-2-dark-mist.json) |
 | Blood Chronicles Volume 1 | 276369 | [276369-blood-chronicles-volume-1.json](./276369-blood-chronicles-volume-1.json) |
 | Blood Chronicles Volume 2 | 276370 | [276370-blood-chronicles-volume-2.json](./276370-blood-chronicles-volume-2.json) |
@@ -16333,6 +16336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Room | 318911 | [318911-boxing-room.json](./318911-boxing-room.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
+| Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
 | Boxing School II | 342182 | [342182-boxing-school-ii.json](./342182-boxing-school-ii.json) |
 | Boxing School: Solo Career Mode | 276688 | [276688-boxing-school-solo-career-mode.json](./276688-boxing-school-solo-career-mode.json) |
 | Boxing Simulator | 258914 | [258914-boxing-simulator.json](./258914-boxing-simulator.json) |
