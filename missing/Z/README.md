@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanzibart | 278105 | [278105-zanzibart.json](./278105-zanzibart.json) |
 | Zanzlanz's Collector's Bundle | 239528 | [239528-zanzlanzs-collectors-bundle.json](./239528-zanzlanzs-collectors-bundle.json) |
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
+| Zaos | 141408 | [141408-zaos.json](./141408-zaos.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Blastum | 113126 | [113126-zap-blastum.json](./113126-zap-blastum.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
