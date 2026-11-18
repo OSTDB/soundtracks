@@ -1313,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World - Episode 5: Reality 2.0 | 27824 | [27824-sam-and-max-save-the-world-episode-5-reality-2-0.json](./27824-sam-and-max-save-the-world-episode-5-reality-2-0.json) |
 | Sam & Max: Save the World - Episode 6: Bright Side of the Moon | 27825 | [27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json](./27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json) |
 | Sam & Max: The Complete Trilogy | 314158 | [314158-sam-and-max-the-complete-trilogy.json](./314158-sam-and-max-the-complete-trilogy.json) |
+| Sam & Max: The Devil's Playhouse | 279228 | [279228-sam-and-max-the-devils-playhouse.json](./279228-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak | 127131 | [127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json](./127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json) |
@@ -7668,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gadget | 263833 | [263833-shadow-gadget.json](./263833-shadow-gadget.json) |
 | Shadow Gambit: The Cursed Crew – Complete Edition | 279876 | [279876-shadow-gambit-the-cursed-crew-complete-edition.json](./279876-shadow-gambit-the-cursed-crew-complete-edition.json) |
 | Shadow Gambit: Yuki's Wish | 279538 | [279538-shadow-gambit-yukis-wish.json](./279538-shadow-gambit-yukis-wish.json) |
+| Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Gangs | 133056 | [133056-shadow-gangs.json](./133056-shadow-gangs.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
@@ -17470,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: The Neudorf Outpost | 10880 | [10880-sniper-elite-v2-the-neudorf-outpost.json](./10880-sniper-elite-v2-the-neudorf-outpost.json) |
 | Sniper Elite V2: The St Pierre | 10881 | [10881-sniper-elite-v2-the-st-pierre.json](./10881-sniper-elite-v2-the-st-pierre.json) |
 | Sniper Elite VR | 116466 | [116466-sniper-elite-vr.json](./116466-sniper-elite-vr.json) |
+| Sniper Elite VR: Winter Warrior | 275159 | [275159-sniper-elite-vr-winter-warrior.json](./275159-sniper-elite-vr-winter-warrior.json) |
 | Sniper Elite: Nazi Zombie Army | 7637 | [7637-sniper-elite-nazi-zombie-army.json](./7637-sniper-elite-nazi-zombie-army.json) |
 | Sniper Elite: Nazi Zombie Army 2 | 10877 | [10877-sniper-elite-nazi-zombie-army-2.json](./10877-sniper-elite-nazi-zombie-army-2.json) |
 | Sniper Elite: Resistance | 314238 | [314238-sniper-elite-resistance.json](./314238-sniper-elite-resistance.json) |
@@ -19653,6 +19656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Knuckles: Newtrogic Panic | 326151 | [326151-sonic-and-knuckles-newtrogic-panic.json](./326151-sonic-and-knuckles-newtrogic-panic.json) |
 | Sonic & Sega All-Stars Racing | 197615 | [197615-sonic-and-sega-all-stars-racing.json](./197615-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 200966 | [200966-sonic-and-sega-all-stars-racing.json](./200966-sonic-and-sega-all-stars-racing.json) |
+| Sonic & Sega All-Stars Racing | 287012 | [287012-sonic-and-sega-all-stars-racing.json](./287012-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 287013 | [287013-sonic-and-sega-all-stars-racing.json](./287013-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 5165 | [5165-sonic-and-sega-all-stars-racing.json](./5165-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
@@ -31471,6 +31475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
+| Stranded: Alien Dawn - Robots and Guardians | 274628 | [274628-stranded-alien-dawn-robots-and-guardians.json](./274628-stranded-alien-dawn-robots-and-guardians.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
 | Stranded: Escape Skull Cove | 216369 | [216369-stranded-escape-skull-cove.json](./216369-stranded-escape-skull-cove.json) |
 | Stranded: Escape the Room | 175876 | [175876-stranded-escape-the-room.json](./175876-stranded-escape-the-room.json) |
@@ -38591,6 +38596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermotor | 137770 | [137770-supermotor.json](./137770-supermotor.json) |
 | Supermotor | 288132 | [288132-supermotor.json](./288132-supermotor.json) |
+| Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supermrket: El Videojuego de Gestión de Supermercado | 339308 | [339308-supermrket-el-videojuego-de-gestion-de-supermercado.json](./339308-supermrket-el-videojuego-de-gestion-de-supermercado.json) |
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
@@ -39780,6 +39786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm | 145549 | [145549-swarm.json](./145549-swarm.json) |
 | Swarm | 149182 | [149182-swarm.json](./149182-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
+| Swarm 2 | 280060 | [280060-swarm-2.json](./280060-swarm-2.json) |
 | Swarm Arena | 15025 | [15025-swarm-arena.json](./15025-swarm-arena.json) |
 | Swarm Assault | 63166 | [63166-swarm-assault.json](./63166-swarm-assault.json) |
 | Swarm Fortress | 294372 | [294372-swarm-fortress.json](./294372-swarm-fortress.json) |
@@ -40883,6 +40890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvio | 26779 | [26779-sylvio.json](./26779-sylvio.json) |
 | Sylvio 2 | 28216 | [28216-sylvio-2.json](./28216-sylvio-2.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
+| Sylvio: Black Waters | 272825 | [272825-sylvio-black-waters.json](./272825-sylvio-black-waters.json) |
 | Sym | 11424 | [11424-sym.json](./11424-sym.json) |
 | Sym Shepherd | 413143 | [413143-sym-shepherd.json](./413143-sym-shepherd.json) |
 | Sym-Bionic Titan: Teenage Warriors | 319177 | [319177-sym-bionic-titan-teenage-warriors.json](./319177-sym-bionic-titan-teenage-warriors.json) |
