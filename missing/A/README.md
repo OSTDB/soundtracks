@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid | 222775 | [222775-acid.json](./222775-acid.json) |
 | Acid Attack | 94523 | [94523-acid-attack.json](./94523-acid-attack.json) |
 | Acid Ball | 213058 | [213058-acid-ball.json](./213058-acid-ball.json) |
+| Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drizzle | 384474 | [384474-acid-drizzle.json](./384474-acid-drizzle.json) |
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
@@ -11589,7 +11590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anguna: Scourge of the Goblin King | 148392 | [148392-anguna-scourge-of-the-goblin-king.json](./148392-anguna-scourge-of-the-goblin-king.json) |
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus and the Gates of Chaos | 247824 | [247824-angus-and-the-gates-of-chaos.json](./247824-angus-and-the-gates-of-chaos.json) |
-| Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Angvik : Returns | 367903 | [367903-angvik-returns.json](./367903-angvik-returns.json) |
 | Angvik 2 | 304928 | [304928-angvik-2.json](./304928-angvik-2.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
