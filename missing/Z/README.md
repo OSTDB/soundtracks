@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Punctuation: Hatfall - Hatters Gonna Hat Edition | 34447 | [34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json](./34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json) |
 | Zero Racers | 176043 | [176043-zero-racers.json](./176043-zero-racers.json) |
+| Zero Reflex | 15494 | [15494-zero-reflex.json](./15494-zero-reflex.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
 | Zero Sievert | 182335 | [182335-zero-sievert.json](./182335-zero-sievert.json) |
 | Zero Sievert 2 | 400088 | [400088-zero-sievert-2.json](./400088-zero-sievert-2.json) |
@@ -1830,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Deathmatch | 100625 | [100625-zombie-deathmatch.json](./100625-zombie-deathmatch.json) |
 | Zombie Deathrace Feeding Frenzy | 114185 | [114185-zombie-deathrace-feeding-frenzy.json](./114185-zombie-deathrace-feeding-frenzy.json) |
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
+| Zombie Defense | 18464 | [18464-zombie-defense.json](./18464-zombie-defense.json) |
 | Zombie Defense | 246752 | [246752-zombie-defense.json](./246752-zombie-defense.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense | 414899 | [414899-zombie-defense.json](./414899-zombie-defense.json) |
