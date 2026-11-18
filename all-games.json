@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T05:56:29.680Z",
-  "total_soundtracks": 3844,
+  "generated_at": "2026-11-18T06:06:02.352Z",
+  "total_soundtracks": 3846,
   "games": [
     {
       "igdb_id": 292844,
@@ -16809,6 +16809,20 @@
         {
           "album_name": "Giana Sisters: Twisted Dreams - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2N1TZDls2IwO2Ythp3htG9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22263,
+      "game_name": "Giant Boulder of Death",
+      "game_url": "https://ostdb.net/games/giant-boulder-of-death",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733910c6c557bc1f703676a13e",
+      "albums": [
+        {
+          "album_name": "Giant Boulder of Death (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6eRKnn9YeLcON1MOCpbDig",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38237,6 +38251,20 @@
         {
           "album_name": "Star Overdrive (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2uAWCdNJI6Bjt9V7CHKCl0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22612,
+      "game_name": "Star Rangers",
+      "game_url": "https://ostdb.net/games/star-rangers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734705f6200d4342d993148fc7",
+      "albums": [
+        {
+          "album_name": "Star Rangers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1NKIvYnFt4iATzRHGdHEaF",
           "apple_music_url": "",
           "album_link_url": ""
         }
