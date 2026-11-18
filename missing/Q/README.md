@@ -877,7 +877,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queerskins: ark | 158807 | [158807-queerskins-ark.json](./158807-queerskins-ark.json) |
 | Quèjī | 121188 | [121188-queji.json](./121188-queji.json) |
 | Quell | 15741 | [15741-quell.json](./15741-quell.json) |
-| Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quell Logic Collection | 15816 | [15816-quell-logic-collection.json](./15816-quell-logic-collection.json) |
 | Quell Memento | 15743 | [15743-quell-memento.json](./15743-quell-memento.json) |
 | Quell the Disaster | 289272 | [289272-quell-the-disaster.json](./289272-quell-the-disaster.json) |
