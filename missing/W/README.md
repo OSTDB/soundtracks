@@ -3315,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're All Dead Here | 257496 | [257496-were-all-dead-here.json](./257496-were-all-dead-here.json) |
 | We're All Going to Die | 143807 | [143807-were-all-going-to-die.json](./143807-were-all-going-to-die.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
+| We're Back!: A Dinosaur's Story | 19685 | [19685-were-back-a-dinosaurs-story.json](./19685-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
 | We're Going on a Bear Hunt | 102452 | [102452-were-going-on-a-bear-hunt.json](./102452-were-going-on-a-bear-hunt.json) |
@@ -3925,6 +3926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves Escape | 315745 | [315745-werewolves-escape.json](./315745-werewolves-escape.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
 | Werewolves Revenge | 316509 | [316509-werewolves-revenge.json](./316509-werewolves-revenge.json) |
+| Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
 | Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werfast | 422200 | [422200-werfast.json](./422200-werfast.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
@@ -9013,6 +9015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Champion Soccer | 225510 | [225510-world-class-champion-soccer.json](./225510-world-class-champion-soccer.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
 | World Class Golf | 239338 | [239338-world-class-golf.json](./239338-world-class-golf.json) |
+| World Class Leaderboard | 19492 | [19492-world-class-leaderboard.json](./19492-world-class-leaderboard.json) |
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
 | World Class Leaderboard Golf | 46328 | [46328-world-class-leaderboard-golf.json](./46328-world-class-leaderboard-golf.json) |
 | World Class Poker with T.J. Cloutier | 53112 | [53112-world-class-poker-with-t-j-cloutier.json](./53112-world-class-poker-with-t-j-cloutier.json) |
@@ -10444,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wu Shi Hun | 223020 | [223020-wu-shi-hun.json](./223020-wu-shi-hun.json) |
 | Wu Xing Chess | 364591 | [364591-wu-xing-chess.json](./364591-wu-xing-chess.json) |
 | Wu-Tang: Rise of the Deceiver | 347666 | [347666-wu-tang-rise-of-the-deceiver.json](./347666-wu-tang-rise-of-the-deceiver.json) |
+| Wu-Tang: Shaolin Style | 18300 | [18300-wu-tang-shaolin-style.json](./18300-wu-tang-shaolin-style.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wubble Bubbles | 94975 | [94975-wubble-bubbles.json](./94975-wubble-bubbles.json) |
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
