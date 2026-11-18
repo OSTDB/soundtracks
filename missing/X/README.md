@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 11: Aerosoft - Ibiza XP | 168408 | [168408-x-plane-11-aerosoft-ibiza-xp.json](./168408-x-plane-11-aerosoft-ibiza-xp.json) |
 | X-Plane 11: Aerosoft - KTNP: Airport Twentynine Palms | 162785 | [162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json](./162785-x-plane-11-aerosoft-ktnp-airport-twentynine-palms.json) |
 | X-Plane 11: Aerosoft - Paderborn XP | 168411 | [168411-x-plane-11-aerosoft-paderborn-xp.json](./168411-x-plane-11-aerosoft-paderborn-xp.json) |
+| X-Plane 11: Aerosoft - SAM GroundService | 196202 | [196202-x-plane-11-aerosoft-sam-groundservice.json](./196202-x-plane-11-aerosoft-sam-groundservice.json) |
 | X-Plane 11: Aerosoft - SCEL Intl. Airport & Santiago City 2020 | 162816 | [162816-x-plane-11-aerosoft-scel-intl-airport-and-santiago-city-2020.json](./162816-x-plane-11-aerosoft-scel-intl-airport-and-santiago-city-2020.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Bora Bora & Leeward Islands | 174137 | [174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json](./174137-x-plane-11-aerosoft-society-islands-xp-bora-bora-and-leeward-islands.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles | 2364 | [2364-xenoblade-chronicles.json](./2364-xenoblade-chronicles.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
+| Xenoblade Chronicles 2 and Xenoblade Chronicles 2 Expansion Pass Bundle | 254099 | [254099-xenoblade-chronicles-2-and-xenoblade-chronicles-2-expansion-pass-bundle.json](./254099-xenoblade-chronicles-2-and-xenoblade-chronicles-2-expansion-pass-bundle.json) |
 | Xenoblade Chronicles 2: Collector's Edition | 136021 | [136021-xenoblade-chronicles-2-collectors-edition.json](./136021-xenoblade-chronicles-2-collectors-edition.json) |
 | Xenoblade Chronicles 2: Expansion Pass | 245690 | [245690-xenoblade-chronicles-2-expansion-pass.json](./245690-xenoblade-chronicles-2-expansion-pass.json) |
 | Xenoblade Chronicles 2: New Challenge Mode Pack | 419419 | [419419-xenoblade-chronicles-2-new-challenge-mode-pack.json](./419419-xenoblade-chronicles-2-new-challenge-mode-pack.json) |
@@ -740,13 +742,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
 | Xenosaga Episode III: Also sprach Zarathustra | 1229 | [1229-xenosaga-episode-iii-also-sprach-zarathustra.json](./1229-xenosaga-episode-iii-also-sprach-zarathustra.json) |
 | Xenosaga Freaks | 25021 | [25021-xenosaga-freaks.json](./25021-xenosaga-freaks.json) |
-| Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | Xenosaga Pied Piper Recreation | 341010 | [341010-xenosaga-pied-piper-recreation.json](./341010-xenosaga-pied-piper-recreation.json) |
 | Xenosaga: Pied Piper | 127790 | [127790-xenosaga-pied-piper.json](./127790-xenosaga-pied-piper.json) |
 | Xenoscape | 142886 | [142886-xenoscape.json](./142886-xenoscape.json) |
 | Xenoscape | 27287 | [27287-xenoscape.json](./27287-xenoscape.json) |
 | Xenoscape Online | 276579 | [276579-xenoscape-online.json](./276579-xenoscape-online.json) |
+| Xenosensory | 383274 | [383274-xenosensory.json](./383274-xenosensory.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
@@ -758,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenosphere | 301956 | [301956-xenosphere.json](./301956-xenosphere.json) |
 | Xenospore | 312524 | [312524-xenospore.json](./312524-xenospore.json) |
 | Xenostar | 73192 | [73192-xenostar.json](./73192-xenostar.json) |
+| Xenotech Arena | 318085 | [318085-xenotech-arena.json](./318085-xenotech-arena.json) |
 | Xenoterrestrial | 270532 | [270532-xenoterrestrial.json](./270532-xenoterrestrial.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | XenoTrigger | 183336 | [183336-xenotrigger.json](./183336-xenotrigger.json) |
@@ -820,7 +823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XF5700 Mantis Experimental Fighter | 93316 | [93316-xf5700-mantis-experimental-fighter.json](./93316-xf5700-mantis-experimental-fighter.json) |
 | XF5700 Mantis Experimental Fighter: Speech Pack | 137497 | [137497-xf5700-mantis-experimental-fighter-speech-pack.json](./137497-xf5700-mantis-experimental-fighter-speech-pack.json) |
 | xFart | 79429 | [79429-xfart.json](./79429-xfart.json) |
-| XField Paintball 3 | 35034 | [35034-xfield-paintball-3.json](./35034-xfield-paintball-3.json) |
 | XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
 | XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
@@ -916,7 +918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xing Chess | 53100 | [53100-xing-chess.json](./53100-xing-chess.json) |
 | Xing Kakuro | 53099 | [53099-xing-kakuro.json](./53099-xing-kakuro.json) |
 | Xīng zhī Chuánshuō | 196921 | [196921-xing-zhi-chuanshuo.json](./196921-xing-zhi-chuanshuo.json) |
-| Xing: The Land Beyond | 36300 | [36300-xing-the-land-beyond.json](./36300-xing-the-land-beyond.json) |
 | Xingchenbian Online | 367952 | [367952-xingchenbian-online.json](./367952-xingchenbian-online.json) |
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
@@ -959,7 +960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Problem | 376515 | [376515-xmas-problem.json](./376515-xmas-problem.json) |
 | Xmas Puzzle | 62036 | [62036-xmas-puzzle.json](./62036-xmas-puzzle.json) |
 | Xmas Santa Mad Sleigh Run | 232082 | [232082-xmas-santa-mad-sleigh-run.json](./232082-xmas-santa-mad-sleigh-run.json) |
-| Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Surprise | 393706 | [393706-xmas-surprise.json](./393706-xmas-surprise.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
 | XMas Toy Merge | 279982 | [279982-xmas-toy-merge.json](./279982-xmas-toy-merge.json) |
@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XSection | 163350 | [163350-xsection.json](./163350-xsection.json) |
 | XSpeed | 211773 | [211773-xspeed.json](./211773-xspeed.json) |
 | XSpelunker | 360106 | [360106-xspelunker.json](./360106-xspelunker.json) |
+| XStoryPlayer | 79398 | [79398-xstoryplayer.json](./79398-xstoryplayer.json) |
 | Xsyon: Prelude | 17342 | [17342-xsyon-prelude.json](./17342-xsyon-prelude.json) |
 | Xterium: War of Alliances | 195922 | [195922-xterium-war-of-alliances.json](./195922-xterium-war-of-alliances.json) |
 | XThrust | 130046 | [130046-xthrust.json](./130046-xthrust.json) |
@@ -1090,7 +1091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtrek | 93368 | [93368-xtrek.json](./93368-xtrek.json) |
 | Xtreme Aces Racing | 186928 | [186928-xtreme-aces-racing.json](./186928-xtreme-aces-racing.json) |
 | Xtreme Air Racing | 61165 | [61165-xtreme-air-racing.json](./61165-xtreme-air-racing.json) |
-| Xtreme Air Racing 2 | 24110 | [24110-xtreme-air-racing-2.json](./24110-xtreme-air-racing-2.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Break Chain Rivals | 96319 | [96319-xtreme-break-chain-rivals.json](./96319-xtreme-break-chain-rivals.json) |
 | Xtreme Club Racing | 117960 | [117960-xtreme-club-racing.json](./117960-xtreme-club-racing.json) |
@@ -1125,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan Dou Zhi Wang | 93555 | [93555-xuan-dou-zhi-wang.json](./93555-xuan-dou-zhi-wang.json) |
 | Xuan Yuan Fú Mó Lu | 124643 | [124643-xuan-yuan-fu-mo-lu.json](./124643-xuan-yuan-fu-mo-lu.json) |
 | Xuan Yuan Sword Luminary | 196321 | [196321-xuan-yuan-sword-luminary.json](./196321-xuan-yuan-sword-luminary.json) |
+| Xuan Yuan Sword Mystic RPG Bundle | 302278 | [302278-xuan-yuan-sword-mystic-rpg-bundle.json](./302278-xuan-yuan-sword-mystic-rpg-bundle.json) |
 | Xuan Yuan Sword: The Gate of Firmament | 90974 | [90974-xuan-yuan-sword-the-gate-of-firmament.json](./90974-xuan-yuan-sword-the-gate-of-firmament.json) |
 | Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo | 86029 | [86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json](./86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json) |
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
@@ -1184,7 +1185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xxxy | 184861 | [184861-xxxy.json](./184861-xxxy.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
 | XXZ 2 | 97177 | [97177-xxz-2.json](./97177-xxz-2.json) |
-| XXZ: Strip Club | 54848 | [54848-xxz-strip-club.json](./54848-xxz-strip-club.json) |
 | XXZ: XXL | 149917 | [149917-xxz-xxl.json](./149917-xxz-xxl.json) |
 | XXZ: XXL - Dead Souls | 155389 | [155389-xxz-xxl-dead-souls.json](./155389-xxz-xxl-dead-souls.json) |
 | XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
