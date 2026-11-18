@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
 | Knights of Tartarus | 108388 | [108388-knights-of-tartarus.json](./108388-knights-of-tartarus.json) |
+| Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2 | 154202 | [154202-knights-of-the-chalice-2.json](./154202-knights-of-the-chalice-2.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
 | Knights of the Cross | 50474 | [50474-knights-of-the-cross.json](./50474-knights-of-the-cross.json) |
