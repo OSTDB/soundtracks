@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Shot Killer 3 | 99252 | [99252-one-shot-killer-3.json](./99252-one-shot-killer-3.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
 | One Shot X | 361735 | [361735-one-shot-x.json](./361735-one-shot-x.json) |
+| One show only | 25620 | [25620-one-show-only.json](./25620-one-show-only.json) |
 | One Single Life | 92315 | [92315-one-single-life.json](./92315-one-single-life.json) |
 | One Skill | 318920 | [318920-one-skill.json](./318920-one-skill.json) |
 | One Slime Army | 307597 | [307597-one-slime-army.json](./307597-one-slime-army.json) |
