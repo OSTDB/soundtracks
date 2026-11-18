@@ -15336,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
 | Conan the Barbarian | 172401 | [172401-conan-the-barbarian.json](./172401-conan-the-barbarian.json) |
 | Conan the Cimmerian | 12009 | [12009-conan-the-cimmerian.json](./12009-conan-the-cimmerian.json) |
+| Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conan Unconquered | 113208 | [113208-conan-unconquered.json](./113208-conan-unconquered.json) |
 | Conan: Hall of Volta | 25820 | [25820-conan-hall-of-volta.json](./25820-conan-hall-of-volta.json) |
 | Conan: The Black Pyramid | 429372 | [429372-conan-the-black-pyramid.json](./429372-conan-the-black-pyramid.json) |
@@ -16995,6 +16996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
 | Corona Blossom | 26998 | [26998-corona-blossom.json](./26998-corona-blossom.json) |
+| Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
 | Corona Cannon | 103914 | [103914-corona-cannon.json](./103914-corona-cannon.json) |
@@ -21600,6 +21602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Quest | 277142 | [277142-crystal-quest.json](./277142-crystal-quest.json) |
 | Crystal Quest | 327695 | [327695-crystal-quest.json](./327695-crystal-quest.json) |
 | Crystal Quest | 7827 | [7827-crystal-quest.json](./7827-crystal-quest.json) |
+| Crystal Quest Classic | 32182 | [32182-crystal-quest-classic.json](./32182-crystal-quest-classic.json) |
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Raiders VR | 144178 | [144178-crystal-raiders-vr.json](./144178-crystal-raiders-vr.json) |
 | Crystal Rail | 325994 | [325994-crystal-rail.json](./325994-crystal-rail.json) |
