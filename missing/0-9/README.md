@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1, 2 Blame! | 146107 | [146107-1-2-blame.json](./146107-1-2-blame.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
 | 1,000,000,000 Spells | 403530 | [403530-1-000-000-000-spells.json](./403530-1-000-000-000-spells.json) |
+| 1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby | 15938 | [15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json](./15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json) |
 | 1.44MB Rescue | 424686 | [424686-1-44mb-rescue.json](./424686-1-44mb-rescue.json) |
 | 1.5-Hour Community Build Project | 308481 | [308481-1-5-hour-community-build-project.json](./308481-1-5-hour-community-build-project.json) |
 | 1.96.9 All Update | 334940 | [334940-1-96-9-all-update.json](./334940-1-96-9-all-update.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
 | 101 Shark Pets | 78409 | [78409-101-shark-pets.json](./78409-101-shark-pets.json) |
 | 101 Tangrams | 103713 | [103713-101-tangrams.json](./103713-101-tangrams.json) |
+| 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
