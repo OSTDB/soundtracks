@@ -3715,10 +3715,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realmweaver | 291192 | [291192-realmweaver.json](./291192-realmweaver.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
 | Realmz | 94900 | [94900-realmz.json](./94900-realmz.json) |
-| RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
-| RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
-| RealPlay Puzzlesphere | 21515 | [21515-realplay-puzzlesphere.json](./21515-realplay-puzzlesphere.json) |
-| RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
 | Realpolitiks | 27290 | [27290-realpolitiks.json](./27290-realpolitiks.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks II | 132618 | [132618-realpolitiks-ii.json](./132618-realpolitiks-ii.json) |
@@ -6105,7 +6101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Requiem of the Dark Lord | 399028 | [399028-requiem-of-the-dark-lord.json](./399028-requiem-of-the-dark-lord.json) |
 | Requiem Reverie | 284898 | [284898-requiem-reverie.json](./284898-requiem-reverie.json) |
 | Requiem: Avenging Angel | 12470 | [12470-requiem-avenging-angel.json](./12470-requiem-avenging-angel.json) |
-| Requiem: Bloodymare | 21461 | [21461-requiem-bloodymare.json](./21461-requiem-bloodymare.json) |
 | Requiem: En mordgåta på 1600-talet | 298546 | [298546-requiem-en-mordgata-pa-1600-talet.json](./298546-requiem-en-mordgata-pa-1600-talet.json) |
 | Requiem: Memento Mori | 80593 | [80593-requiem-memento-mori.json](./80593-requiem-memento-mori.json) |
 | Requiem: Rise of the Reaver | 36343 | [36343-requiem-rise-of-the-reaver.json](./36343-requiem-rise-of-the-reaver.json) |
