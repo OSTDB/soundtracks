@@ -3999,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out of the Woods | 357133 | [357133-get-out-of-the-woods.json](./357133-get-out-of-the-woods.json) |
 | Get Out of this Dungeon | 133995 | [133995-get-out-of-this-dungeon.json](./133995-get-out-of-this-dungeon.json) |
 | Get Out School | 333368 | [333368-get-out-school.json](./333368-get-out-school.json) |
+| Get Out: A "Very Bad Dreams" Story | 336773 | [336773-get-out-a-very-bad-dreams-story.json](./336773-get-out-a-very-bad-dreams-story.json) |
 | Get Out! | 163708 | [163708-get-out.json](./163708-get-out.json) |
 | Get Out! | 381048 | [381048-get-out.json](./381048-get-out.json) |
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
@@ -7285,7 +7286,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold ’n Goal | 406504 | [406504-gold-n-goal.json](./406504-gold-n-goal.json) |
 | Gold & Goblins | 341628 | [341628-gold-and-goblins.json](./341628-gold-and-goblins.json) |
+| Gold & Ruin | 365328 | [365328-gold-and-ruin.json](./365328-gold-and-ruin.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
+| Gold & Spirits Bundle: Gold Mining Simulator & Moonshine Inc. | 336784 | [336784-gold-and-spirits-bundle-gold-mining-simulator-and-moonshine-inc.json](./336784-gold-and-spirits-bundle-gold-mining-simulator-and-moonshine-inc.json) |
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Bricks | 350296 | [350296-gold-and-bricks.json](./350296-gold-and-bricks.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
@@ -7773,6 +7776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
 | Golf With Your Friends: Summer Party Pack | 225413 | [225413-golf-with-your-friends-summer-party-pack.json](./225413-golf-with-your-friends-summer-party-pack.json) |
+| Golf With Your Friends: Teams Mascot Hat Pack | 336785 | [336785-golf-with-your-friends-teams-mascot-hat-pack.json](./336785-golf-with-your-friends-teams-mascot-hat-pack.json) |
 | Golf With Your Friends: Teams Mascot Sticker Pack | 355847 | [355847-golf-with-your-friends-teams-mascot-sticker-pack.json](./355847-golf-with-your-friends-teams-mascot-sticker-pack.json) |
 | Golf With Your Friends: Ultimate Edition | 277883 | [277883-golf-with-your-friends-ultimate-edition.json](./277883-golf-with-your-friends-ultimate-edition.json) |
 | Golf With Your Grandmother | 158352 | [158352-golf-with-your-grandmother.json](./158352-golf-with-your-grandmother.json) |
