@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
 | 100 Dino Cats: Extra Content | 288729 | [288729-100-dino-cats-extra-content.json](./288729-100-dino-cats-extra-content.json) |
 | 100 Dogs | 308933 | [308933-100-dogs.json](./308933-100-dogs.json) |
+| 100 Dogs in Brazil | 351279 | [351279-100-dogs-in-brazil.json](./351279-100-dogs-in-brazil.json) |
 | 100 Dogs in India | 325504 | [325504-100-dogs-in-india.json](./325504-100-dogs-in-india.json) |
 | 100 Doors Escape: Let me In! | 256349 | [256349-100-doors-escape-let-me-in.json](./256349-100-doors-escape-let-me-in.json) |
 | 100 Doors Game: Dasshutsu Game | 252411 | [252411-100-doors-game-dasshutsu-game.json](./252411-100-doors-game-dasshutsu-game.json) |
