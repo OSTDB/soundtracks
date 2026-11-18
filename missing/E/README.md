@@ -5366,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epimythos: The Forgotten Legends | 364741 | [364741-epimythos-the-forgotten-legends.json](./364741-epimythos-the-forgotten-legends.json) |
 | Epinephrine Drive! | 422191 | [422191-epinephrine-drive.json](./422191-epinephrine-drive.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
+| Epiphany City | 147508 | [147508-epiphany-city.json](./147508-epiphany-city.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
 | Epiphany! | 100466 | [100466-epiphany.json](./100466-epiphany.json) |
 | Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
@@ -6988,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Legend | 45794 | [45794-eternal-legend.json](./45794-eternal-legend.json) |
 | Eternal Levels | 417086 | [417086-eternal-levels.json](./417086-eternal-levels.json) |
 | Eternal Light | 300736 | [300736-eternal-light.json](./300736-eternal-light.json) |
+| Eternal Liiivie EP2: Hiding in the dark | 196068 | [196068-eternal-liiivie-ep2-hiding-in-the-dark.json](./196068-eternal-liiivie-ep2-hiding-in-the-dark.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Link | 345085 | [345085-eternal-link.json](./345085-eternal-link.json) |
 | Eternal Lore | 56600 | [56600-eternal-lore.json](./56600-eternal-lore.json) |
@@ -8416,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
 | Evolution for Beginners | 143928 | [143928-evolution-for-beginners.json](./143928-evolution-for-beginners.json) |
 | Evolution Galaxy | 267234 | [267234-evolution-galaxy.json](./267234-evolution-galaxy.json) |
+| Evolution Land | 171093 | [171093-evolution-land.json](./171093-evolution-land.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution of War | 173023 | [173023-evolution-of-war.json](./173023-evolution-of-war.json) |
