@@ -1707,7 +1707,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana | 75349 | [75349-hannah-montana.json](./75349-hannah-montana.json) |
 | Hannah Montana | 85966 | [85966-hannah-montana.json](./85966-hannah-montana.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
-| Hannah Montana: Music Jam | 21514 | [21514-hannah-montana-music-jam.json](./21514-hannah-montana-music-jam.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannah Montana: Pop Tour | 221686 | [221686-hannah-montana-pop-tour.json](./221686-hannah-montana-pop-tour.json) |
@@ -2172,7 +2171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Reset | 532 | [532-hard-reset.json](./532-hard-reset.json) |
 | Hard Reset: Extended Edition - Exile | 171405 | [171405-hard-reset-extended-edition-exile.json](./171405-hard-reset-extended-edition-exile.json) |
 | Hard Reset: Redux | 17994 | [17994-hard-reset-redux.json](./17994-hard-reset-redux.json) |
-| Hard Rock Casino | 21386 | [21386-hard-rock-casino.json](./21386-hard-rock-casino.json) |
 | Hard Rock Dice Party | 228298 | [228298-hard-rock-dice-party.json](./228298-hard-rock-dice-party.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
 | Hard Rock Racing | 103878 | [103878-hard-rock-racing.json](./103878-hard-rock-racing.json) |
@@ -8784,7 +8782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical | 79715 | [79715-high-school-musical.json](./79715-high-school-musical.json) |
-| High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
 | High School Musical 3: High School Pinball | 402827 | [402827-high-school-musical-3-high-school-pinball.json](./402827-high-school-musical-3-high-school-pinball.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
 | High School Musical 3: Senior Year Dance | 4912 | [4912-high-school-musical-3-senior-year-dance.json](./4912-high-school-musical-3-senior-year-dance.json) |
