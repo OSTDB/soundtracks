@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Tales: The Beast and the Nightingale | 140280 | [140280-queens-tales-the-beast-and-the-nightingale.json](./140280-queens-tales-the-beast-and-the-nightingale.json) |
 | Queen's Tales: The Beast and the Nightingale - Collector's Edition | 29189 | [29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json](./29189-queens-tales-the-beast-and-the-nightingale-collectors-edition.json) |
 | Queen's Wish 2: The Tormentor | 203743 | [203743-queens-wish-2-the-tormentor.json](./203743-queens-wish-2-the-tormentor.json) |
+| Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queen’s Wish: The Judgment | 387078 | [387078-queen-s-wish-the-judgment.json](./387078-queen-s-wish-the-judgment.json) |
 | Queenchantment | 192801 | [192801-queenchantment.json](./192801-queenchantment.json) |
 | Queendomia: Black & Pink | 421138 | [421138-queendomia-black-and-pink.json](./421138-queendomia-black-and-pink.json) |
