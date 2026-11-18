@@ -23525,7 +23525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan | 66895 | [66895-spartan.json](./66895-spartan.json) |
 | Spartan Commander Realtime | 284519 | [284519-spartan-commander-realtime.json](./284519-spartan-commander-realtime.json) |
 | Spartan Firefight | 141446 | [141446-spartan-firefight.json](./141446-spartan-firefight.json) |
-| Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
 | Spartan Frontline | 374529 | [374529-spartan-frontline.json](./374529-spartan-frontline.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
@@ -25499,6 +25498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants + 5 Atari Games | 137853 | [137853-spongebob-squarepants-5-atari-games.json](./137853-spongebob-squarepants-5-atari-games.json) |
 | SpongeBob SquarePants 3D Obstacle Odyssey | 46728 | [46728-spongebob-squarepants-3d-obstacle-odyssey.json](./46728-spongebob-squarepants-3d-obstacle-odyssey.json) |
 | SpongeBob SquarePants and the Nicktoons Gravjet Racing | 208780 | [208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json](./208780-spongebob-squarepants-and-the-nicktoons-gravjet-racing.json) |
+| SpongeBob SquarePants Bikini Bottom Bowling | 389137 | [389137-spongebob-squarepants-bikini-bottom-bowling.json](./389137-spongebob-squarepants-bikini-bottom-bowling.json) |
 | SpongeBob SquarePants Boating School | 382924 | [382924-spongebob-squarepants-boating-school.json](./382924-spongebob-squarepants-boating-school.json) |
 | SpongeBob SquarePants Bowling | 23599 | [23599-spongebob-squarepants-bowling.json](./23599-spongebob-squarepants-bowling.json) |
 | SpongeBob SquarePants Bubble Ball | 382921 | [382921-spongebob-squarepants-bubble-ball.json](./382921-spongebob-squarepants-bubble-ball.json) |
