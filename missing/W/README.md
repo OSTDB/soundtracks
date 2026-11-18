@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
 | Werewolf: The Apocalypse - The Book of Hungry Names | 250692 | [250692-werewolf-the-apocalypse-the-book-of-hungry-names.json](./250692-werewolf-the-apocalypse-the-book-of-hungry-names.json) |
 | Werewolf: The Apocalypse - The Book of Hungry Names: Wardens and Furies | 298199 | [298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json](./298199-werewolf-the-apocalypse-the-book-of-hungry-names-wardens-and-furies.json) |
+| Werewolf: The Apocalypse Bundle | 401943 | [401943-werewolf-the-apocalypse-bundle.json](./401943-werewolf-the-apocalypse-bundle.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
 | Werewolves | 91266 | [91266-werewolves.json](./91266-werewolves.json) |
@@ -3933,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
 | WEscape | 108323 | [108323-wescape.json](./108323-wescape.json) |
+| Wesh Aljawab | 398599 | [398599-wesh-aljawab.json](./398599-wesh-aljawab.json) |
 | Wesley Moons | 386637 | [386637-wesley-moons.json](./386637-wesley-moons.json) |
 | Wesprau Senki | 167351 | [167351-wesprau-senki.json](./167351-wesprau-senki.json) |
 | West | 389685 | [389685-west.json](./389685-west.json) |
@@ -10141,6 +10143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Mynah | 379273 | [379273-wrath-of-mynah.json](./379273-wrath-of-mynah.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
+| Wrath of Skeletar: Last Breath | 398605 | [398605-wrath-of-skeletar-last-breath.json](./398605-wrath-of-skeletar-last-breath.json) |
 | Wrath of Sweetheart | 399350 | [399350-wrath-of-sweetheart.json](./399350-wrath-of-sweetheart.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
