@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire | 81511 | [81511-who-wants-to-be-a-millionaire.json](./81511-who-wants-to-be-a-millionaire.json) |
 | Who Wants To Be A Millionaire 2010 | 311654 | [311654-who-wants-to-be-a-millionaire-2010.json](./311654-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants to Be a Millionaire: 1st Edition | 50649 | [50649-who-wants-to-be-a-millionaire-1st-edition.json](./50649-who-wants-to-be-a-millionaire-1st-edition.json) |
+| Who Wants to Be a Millionaire: 2012 Edition | 65596 | [65596-who-wants-to-be-a-millionaire-2012-edition.json](./65596-who-wants-to-be-a-millionaire-2012-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 22015 | [22015-who-wants-to-be-a-millionaire-2nd-edition.json](./22015-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 265057 | [265057-who-wants-to-be-a-millionaire-2nd-edition.json](./265057-who-wants-to-be-a-millionaire-2nd-edition.json) |
 | Who Wants to Be a Millionaire: 2nd Edition | 309014 | [309014-who-wants-to-be-a-millionaire-2nd-edition.json](./309014-who-wants-to-be-a-millionaire-2nd-edition.json) |
