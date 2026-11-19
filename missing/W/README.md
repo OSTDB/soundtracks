@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust | 61175 | [61175-wanderlust.json](./61175-wanderlust.json) |
 | Wanderlust | 81181 | [81181-wanderlust.json](./81181-wanderlust.json) |
 | WanderLust | 169295 | [169295-wanderlust.json](./169295-wanderlust.json) |
+| Wanderlust Adventures | 30245 | [30245-wanderlust-adventures.json](./30245-wanderlust-adventures.json) |
 | Wanderlust Travel Stories | 120902 | [120902-wanderlust-travel-stories.json](./120902-wanderlust-travel-stories.json) |
 | Wanderlust: Rebirth | 15302 | [15302-wanderlust-rebirth.json](./15302-wanderlust-rebirth.json) |
 | Wanderlust: The Bermuda Secret | 187947 | [187947-wanderlust-the-bermuda-secret.json](./187947-wanderlust-the-bermuda-secret.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Dawn of War IV | 361859 | [361859-warhammer-40-000-dawn-of-war-iv.json](./361859-warhammer-40-000-dawn-of-war-iv.json) |
 | Warhammer 40,000: Deathwatch - Enhanced Edition | 34636 | [34636-warhammer-40-000-deathwatch-enhanced-edition.json](./34636-warhammer-40-000-deathwatch-enhanced-edition.json) |
+| Warhammer 40,000: Deathwatch Tyranids Invasion | 30804 | [30804-warhammer-40-000-deathwatch-tyranids-invasion.json](./30804-warhammer-40-000-deathwatch-tyranids-invasion.json) |
 | Warhammer 40,000: Eternal Crusade | 7630 | [7630-warhammer-40-000-eternal-crusade.json](./7630-warhammer-40-000-eternal-crusade.json) |
 | Warhammer 40,000: Eternal Crusade - Abaddon War Pack | 224431 | [224431-warhammer-40-000-eternal-crusade-abaddon-war-pack.json](./224431-warhammer-40-000-eternal-crusade-abaddon-war-pack.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine II: Blood Angels Champion Pack | 378614 | [378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json](./378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
+| Warhammer 40,000: Space Wolf | 30283 | [30283-warhammer-40-000-space-wolf.json](./30283-warhammer-40-000-space-wolf.json) |
 | Warhammer 40,000: Space Wolf - Complete Edition | 186519 | [186519-warhammer-40-000-space-wolf-complete-edition.json](./186519-warhammer-40-000-space-wolf-complete-edition.json) |
 | Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
 | Warhammer 40,000: Space Wolf - Fall of Kanak | 163386 | [163386-warhammer-40-000-space-wolf-fall-of-kanak.json](./163386-warhammer-40-000-space-wolf-fall-of-kanak.json) |
@@ -6848,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post EX | 63591 | [63591-winning-post-ex.json](./63591-winning-post-ex.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
 | Winning Post World 2010 | 66821 | [66821-winning-post-world-2010.json](./66821-winning-post-world-2010.json) |
+| Winning Putt: Golf Online | 33125 | [33125-winning-putt-golf-online.json](./33125-winning-putt-golf-online.json) |
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
 | Winning Shot | 43190 | [43190-winning-shot.json](./43190-winning-shot.json) |
 | Winning Solution | 47545 | [47545-winning-solution.json](./47545-winning-solution.json) |
@@ -8170,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy in Monster Land | 212868 | [212868-wonder-boy-in-monster-land.json](./212868-wonder-boy-in-monster-land.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
+| Wonder Boy Returns | 31404 | [31404-wonder-boy-returns.json](./31404-wonder-boy-returns.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World | 137048 | [137048-wonder-boy-asha-in-monster-world.json](./137048-wonder-boy-asha-in-monster-world.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
@@ -9195,6 +9200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End Economica Complete | 145966 | [145966-world-end-economica-complete.json](./145966-world-end-economica-complete.json) |
 | World End Economica: Episode.01 | 36431 | [36431-world-end-economica-episode-01.json](./36431-world-end-economica-episode-01.json) |
 | World End Economica: Episode.02 | 35327 | [35327-world-end-economica-episode-02.json](./35327-world-end-economica-episode-02.json) |
+| World End Economica: Episode.03 | 31319 | [31319-world-end-economica-episode-03.json](./31319-world-end-economica-episode-03.json) |
 | World End Girlfriend | 207204 | [207204-world-end-girlfriend.json](./207204-world-end-girlfriend.json) |
 | World End Heart Girl | 260922 | [260922-world-end-heart-girl.json](./260922-world-end-heart-girl.json) |
 | World Ends Wednesday | 264144 | [264144-world-ends-wednesday.json](./264144-world-ends-wednesday.json) |
@@ -10043,6 +10049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Worm Wars | 355296 | [355296-worm-wars.json](./355296-worm-wars.json) |
 | Worm Whomper | 41446 | [41446-worm-whomper.json](./41446-worm-whomper.json) |
+| Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
 | Wormate.io | 36808 | [36808-wormate-io.json](./36808-wormate-io.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
 | Wormax.io | 115449 | [115449-wormax-io.json](./115449-wormax-io.json) |
@@ -10260,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
+| Wrath of Anna | 33115 | [33115-wrath-of-anna.json](./33115-wrath-of-anna.json) |
 | Wrath of Athena | 368399 | [368399-wrath-of-athena.json](./368399-wrath-of-athena.json) |
 | Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
