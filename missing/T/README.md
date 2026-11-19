@@ -8828,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube | 120141 | [120141-the-cube.json](./120141-the-cube.json) |
 | The Cube | 226361 | [226361-the-cube.json](./226361-the-cube.json) |
 | The Cube | 347640 | [347640-the-cube.json](./347640-the-cube.json) |
+| The Cube | 419568 | [419568-the-cube.json](./419568-the-cube.json) |
 | The Cube | 61686 | [61686-the-cube.json](./61686-the-cube.json) |
 | The Cube | 88652 | [88652-the-cube.json](./88652-the-cube.json) |
 | The Cube - What's Inside ? | 96997 | [96997-the-cube-whats-inside.json](./96997-the-cube-whats-inside.json) |
@@ -23925,6 +23926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
 | Tidy Farm | 425169 | [425169-tidy-farm.json](./425169-tidy-farm.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
+| Tidy or Treat | 419560 | [419560-tidy-or-treat.json](./419560-tidy-or-treat.json) |
 | Tidy Pills | 426936 | [426936-tidy-pills.json](./426936-tidy-pills.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
@@ -26734,6 +26736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Explorer | 412064 | [412064-tiny-explorer.json](./412064-tiny-explorer.json) |
+| Tiny Factory | 419548 | [419548-tiny-factory.json](./419548-tiny-factory.json) |
 | Tiny Fantasy | 140426 | [140426-tiny-fantasy.json](./140426-tiny-fantasy.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
