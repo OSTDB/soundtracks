@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Memories | 102680 | [102680-gacha-memories.json](./102680-gacha-memories.json) |
 | Gacha Pets | 296531 | [296531-gacha-pets.json](./296531-gacha-pets.json) |
 | Gacha Resort | 323076 | [323076-gacha-resort.json](./323076-gacha-resort.json) |
+| Gacha Shop Simulator | 420283 | [420283-gacha-shop-simulator.json](./420283-gacha-shop-simulator.json) |
 | Gacha Studio | 98854 | [98854-gacha-studio.json](./98854-gacha-studio.json) |
 | Gacha World | 281450 | [281450-gacha-world.json](./281450-gacha-world.json) |
 | Gacha&Gacha | 413465 | [413465-gacha-and-gacha.json](./413465-gacha-and-gacha.json) |
@@ -3816,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoSafari | 85945 | [85945-geosafari.json](./85945-geosafari.json) |
 | GeoSafari: Animals | 79629 | [79629-geosafari-animals.json](./79629-geosafari-animals.json) |
 | GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
+| GeoSpeedrun | 420264 | [420264-geospeedrun.json](./420264-geospeedrun.json) |
 | Geospots | 198103 | [198103-geospots.json](./198103-geospots.json) |
 | Geostorm | 74514 | [74514-geostorm.json](./74514-geostorm.json) |
 | GeoStrategic | 294056 | [294056-geostrategic.json](./294056-geostrategic.json) |
@@ -8647,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP Fight | 92311 | [92311-gp-fight.json](./92311-gp-fight.json) |
 | GP Race | 277642 | [277642-gp-race.json](./277642-gp-race.json) |
 | GP Rider | 39904 | [39904-gp-rider.json](./39904-gp-rider.json) |
+| GP vs. Superbike | 420270 | [420270-gp-vs-superbike.json](./420270-gp-vs-superbike.json) |
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 | 18613 | [18613-gp-1.json](./18613-gp-1.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
