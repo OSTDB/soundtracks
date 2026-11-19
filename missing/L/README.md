@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Command: Extra Mode Pack | 263287 | [263287-last-command-extra-mode-pack.json](./263287-last-command-extra-mode-pack.json) |
 | Last Command: Scream Fest pack | 263039 | [263039-last-command-scream-fest-pack.json](./263039-last-command-scream-fest-pack.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
+| Last Copy | 429632 | [429632-last-copy.json](./429632-last-copy.json) |
 | Last Core | 424718 | [424718-last-core.json](./424718-last-core.json) |
 | Last Course | 356289 | [356289-last-course.json](./356289-last-course.json) |
 | Last Crash | 209299 | [209299-last-crash.json](./209299-last-crash.json) |
@@ -7627,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
+| Loamward | 429677 | [429677-loamward.json](./429677-loamward.json) |
 | Loan Shark | 350592 | [350592-loan-shark.json](./350592-loan-shark.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
 | Loathe the Game | 127533 | [127533-loathe-the-game.json](./127533-loathe-the-game.json) |
@@ -10728,6 +10730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 54593 | [54593-lucky-luke-nitroglycerine.json](./54593-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: On the Dalton's Trail | 44968 | [44968-lucky-luke-on-the-daltons-trail.json](./44968-lucky-luke-on-the-daltons-trail.json) |
+| Lucky Luke: The Lonesome Cowboy Collection | 429635 | [429635-lucky-luke-the-lonesome-cowboy-collection.json](./429635-lucky-luke-the-lonesome-cowboy-collection.json) |
 | Lucky Luke: The Video Game | 46695 | [46695-lucky-luke-the-video-game.json](./46695-lucky-luke-the-video-game.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
