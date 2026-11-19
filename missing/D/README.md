@@ -4705,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlokk | 156948 | [156948-deadlokk.json](./156948-deadlokk.json) |
 | Deadluck | 159948 | [159948-deadluck.json](./159948-deadluck.json) |
 | Deadly 30 | 8486 | [8486-deadly-30.json](./8486-deadly-30.json) |
+| Deadly 60: Deadly Defenders | 429035 | [429035-deadly-60-deadly-defenders.json](./429035-deadly-60-deadly-defenders.json) |
 | Deadly Animal Duel | 61893 | [61893-deadly-animal-duel.json](./61893-deadly-animal-duel.json) |
 | Deadly Arts | 10612 | [10612-deadly-arts.json](./10612-deadly-arts.json) |
 | Deadly Association | 53966 | [53966-deadly-association.json](./53966-deadly-association.json) |
@@ -4836,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Venom 3 | 393880 | [393880-deadly-venom-3.json](./393880-deadly-venom-3.json) |
 | Deadly Venom: SA | 393881 | [393881-deadly-venom-sa.json](./393881-deadly-venom-sa.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
+| Deadly Voyage | 429047 | [429047-deadly-voyage.json](./429047-deadly-voyage.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
 | Deadly Wheels | 108038 | [108038-deadly-wheels.json](./108038-deadly-wheels.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
@@ -5852,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decocraft | 328128 | [328128-decocraft.json](./328128-decocraft.json) |
 | Decode | 390016 | [390016-decode.json](./390016-decode.json) |
 | Decodence | 351568 | [351568-decodence.json](./351568-decodence.json) |
+| DecoGear Dimensions | 429043 | [429043-decogear-dimensions.json](./429043-decogear-dimensions.json) |
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
 | Decolonators | 294551 | [294551-decolonators.json](./294551-decolonators.json) |
