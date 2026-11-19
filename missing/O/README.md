@@ -1137,7 +1137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office7 | 292460 | [292460-office7.json](./292460-office7.json) |
 | OfficeBotsVR | 90952 | [90952-officebotsvr.json](./90952-officebotsvr.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
-| Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Officers and Crime | 179351 | [179351-officers-and-crime.json](./179351-officers-and-crime.json) |
 | Officers: World War II - Operation Overlord | 27585 | [27585-officers-world-war-ii-operation-overlord.json](./27585-officers-world-war-ii-operation-overlord.json) |
 | Officespace | 161163 | [161163-officespace.json](./161163-officespace.json) |
@@ -4711,7 +4710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Organon | 92359 | [92359-organon.json](./92359-organon.json) |
 | Organosphere | 96117 | [96117-organosphere.json](./96117-organosphere.json) |
 | Organs Please | 187633 | [187633-organs-please.json](./187633-organs-please.json) |
-| Orgarhythm | 21009 | [21009-orgarhythm.json](./21009-orgarhythm.json) |
 | Orgasm Academy | 297886 | [297886-orgasm-academy.json](./297886-orgasm-academy.json) |
 | Orgasm Simulator 2023 | 253888 | [253888-orgasm-simulator-2023.json](./253888-orgasm-simulator-2023.json) |
 | Orgasm Simulator 3 | 274686 | [274686-orgasm-simulator-3.json](./274686-orgasm-simulator-3.json) |
