@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echolink: Recursion | 406946 | [406946-echolink-recursion.json](./406946-echolink-recursion.json) |
 | Echolocaution | 145171 | [145171-echolocaution.json](./145171-echolocaution.json) |
 | Echomnesia | 346537 | [346537-echomnesia.json](./346537-echomnesia.json) |
+| EchoMon: Pack & Stack | 430514 | [430514-echomon-pack-and-stack.json](./430514-echomon-pack-and-stack.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
 | Echos in the Dark | 266621 | [266621-echos-in-the-dark.json](./266621-echos-in-the-dark.json) |
@@ -3702,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Janken RPG | 416017 | [416017-emoji-janken-rpg.json](./416017-emoji-janken-rpg.json) |
 | Emoji Kart Racer | 229421 | [229421-emoji-kart-racer.json](./229421-emoji-kart-racer.json) |
 | Emoji Marble Dash | 387165 | [387165-emoji-marble-dash.json](./387165-emoji-marble-dash.json) |
+| Emoji Massacre | 430426 | [430426-emoji-massacre.json](./430426-emoji-massacre.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
 | Emoji Merge: Puzzle Matching | 369543 | [369543-emoji-merge-puzzle-matching.json](./369543-emoji-merge-puzzle-matching.json) |
 | Emoji Pop | 133659 | [133659-emoji-pop.json](./133659-emoji-pop.json) |
