@@ -7022,8 +7022,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighting Simulator: Be a Hero | 422049 | [422049-firefighting-simulator-be-a-hero.json](./422049-firefighting-simulator-be-a-hero.json) |
 | Firefighting Simulator: Ignite | 335254 | [335254-firefighting-simulator-ignite.json](./335254-firefighting-simulator-ignite.json) |
 | Firefighting Simulator: Ignite - Blackout Truck Edition Skins DLC | 402094 | [402094-firefighting-simulator-ignite-blackout-truck-edition-skins-dlc.json](./402094-firefighting-simulator-ignite-blackout-truck-edition-skins-dlc.json) |
+| Firefighting Simulator: Ignite - Construction Site Mission DLC | 425894 | [425894-firefighting-simulator-ignite-construction-site-mission-dlc.json](./425894-firefighting-simulator-ignite-construction-site-mission-dlc.json) |
 | Firefighting Simulator: Ignite - Fire Station Companion Pack | 372512 | [372512-firefighting-simulator-ignite-fire-station-companion-pack.json](./372512-firefighting-simulator-ignite-fire-station-companion-pack.json) |
 | Firefighting Simulator: Ignite - Kenworth Fire Truck Pack | 402093 | [402093-firefighting-simulator-ignite-kenworth-fire-truck-pack.json](./402093-firefighting-simulator-ignite-kenworth-fire-truck-pack.json) |
+| Firefighting Simulator: Ignite - Motor Vehicle Accident Expansion | 425896 | [425896-firefighting-simulator-ignite-motor-vehicle-accident-expansion.json](./425896-firefighting-simulator-ignite-motor-vehicle-accident-expansion.json) |
 | Firefighting Simulator: Ignite - Parker's Story DLC | 402096 | [402096-firefighting-simulator-ignite-parkers-story-dlc.json](./402096-firefighting-simulator-ignite-parkers-story-dlc.json) |
 | Firefighting Simulator: Ignite - Rosenbauer HEROS Titan DLC | 372511 | [372511-firefighting-simulator-ignite-rosenbauer-heros-titan-dlc.json](./372511-firefighting-simulator-ignite-rosenbauer-heros-titan-dlc.json) |
 | Firefighting Simulator: Ignite - Season Pass Year 1 | 372514 | [372514-firefighting-simulator-ignite-season-pass-year-1.json](./372514-firefighting-simulator-ignite-season-pass-year-1.json) |
