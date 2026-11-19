@@ -8977,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsearch | 24643 | [24643-wordsearch.json](./24643-wordsearch.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
 | WordSearch Kids HD | 107670 | [107670-wordsearch-kids-hd.json](./107670-wordsearch-kids-hd.json) |
+| WordSearch Kingdom | 428444 | [428444-wordsearch-kingdom.json](./428444-wordsearch-kingdom.json) |
 | Wordsearch Mania! | 83442 | [83442-wordsearch-mania.json](./83442-wordsearch-mania.json) |
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
@@ -9753,6 +9754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer: Winning Eleven 9 | 72967 | [72967-world-soccer-winning-eleven-9.json](./72967-world-soccer-winning-eleven-9.json) |
 | World Spin | 260044 | [260044-world-spin.json](./260044-world-spin.json) |
 | World Sports Competition | 37731 | [37731-world-sports-competition.json](./37731-world-sports-competition.json) |
+| World Sports Games & Athletics | 428456 | [428456-world-sports-games-and-athletics.json](./428456-world-sports-games-and-athletics.json) |
 | World Sports Party | 66581 | [66581-world-sports-party.json](./66581-world-sports-party.json) |
 | World Sprint | 380511 | [380511-world-sprint.json](./380511-world-sprint.json) |
 | World Stadium | 38101 | [38101-world-stadium.json](./38101-world-stadium.json) |
@@ -10376,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck the Insects | 150829 | [150829-wreck-the-insects.json](./150829-wreck-the-insects.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
 | Wreck the Party! Thanksgiving Edition | 176547 | [176547-wreck-the-party-thanksgiving-edition.json](./176547-wreck-the-party-thanksgiving-edition.json) |
+| Wreck the World | 428302 | [428302-wreck-the-world.json](./428302-wreck-the-world.json) |
 | Wreck-It Ralph | 299871 | [299871-wreck-it-ralph.json](./299871-wreck-it-ralph.json) |
 | Wreck-It Ralph: The Video Game | 51655 | [51655-wreck-it-ralph-the-video-game.json](./51655-wreck-it-ralph-the-video-game.json) |
 | Wreckage | 265258 | [265258-wreckage.json](./265258-wreckage.json) |
