@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card World | 365048 | [365048-card-world.json](./365048-card-world.json) |
 | Card X Monster | 212747 | [212747-card-x-monster.json](./212747-card-x-monster.json) |
 | Card-en-Ciel | 292835 | [292835-card-en-ciel.json](./292835-card-en-ciel.json) |
+| Card-en-Ciel: Expansion Pass | 427761 | [427761-card-en-ciel-expansion-pass.json](./427761-card-en-ciel-expansion-pass.json) |
 | Card-en-Ciel: The World of the "Blaster Master Zero Series" | 391867 | [391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json](./391867-card-en-ciel-the-world-of-the-blaster-master-zero-series.json) |
 | Card-Jitsu | 200379 | [200379-card-jitsu.json](./200379-card-jitsu.json) |
 | Card'em All! | 346201 | [346201-cardem-all.json](./346201-cardem-all.json) |
@@ -10236,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipheur: Trivia - Biology | 361015 | [361015-cipheur-trivia-biology.json](./361015-cipheur-trivia-biology.json) |
 | Cipheur: Trivia - Geography | 384009 | [384009-cipheur-trivia-geography.json](./384009-cipheur-trivia-geography.json) |
 | Cipheur: Trivia - Physics | 361011 | [361011-cipheur-trivia-physics.json](./361011-cipheur-trivia-physics.json) |
+| Cipheur: Tsitaty iz sovetskikh kinofilmov 2 | 427776 | [427776-cipheur-tsitaty-iz-sovetskikh-kinofilmov-2.json](./427776-cipheur-tsitaty-iz-sovetskikh-kinofilmov-2.json) |
 | Cipheur: Uncommon Words 2 | 350077 | [350077-cipheur-uncommon-words-2.json](./350077-cipheur-uncommon-words-2.json) |
 | Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
@@ -11689,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clearworld | 148252 | [148252-clearworld.json](./148252-clearworld.json) |
 | Cleavage | 92421 | [92421-cleavage.json](./92421-cleavage.json) |
 | Cleave | 346181 | [346181-cleave.json](./346181-cleave.json) |
+| Cleave | 427768 | [427768-cleave.json](./427768-cleave.json) |
 | Cleave Together: The Dragon King's Treasure | 287017 | [287017-cleave-together-the-dragon-kings-treasure.json](./287017-cleave-together-the-dragon-kings-treasure.json) |
 | Cleaver: Sideshow Circus | 222111 | [222111-cleaver-sideshow-circus.json](./222111-cleaver-sideshow-circus.json) |
 | Cleaving Caliber EX | 362435 | [362435-cleaving-caliber-ex.json](./362435-cleaving-caliber-ex.json) |
@@ -13484,6 +13487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War: The Iron Curtain | 256451 | [256451-cold-war-the-iron-curtain.json](./256451-cold-war-the-iron-curtain.json) |
 | Cold Waters | 24815 | [24815-cold-waters.json](./24815-cold-waters.json) |
 | Cold Way | 210842 | [210842-cold-way.json](./210842-cold-way.json) |
+| Cold Weld | 427792 | [427792-cold-weld.json](./427792-cold-weld.json) |
 | Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
 | Cold Winter | 8277 | [8277-cold-winter.json](./8277-cold-winter.json) |
 | Cold Winter Morning | 129050 | [129050-cold-winter-morning.json](./129050-cold-winter-morning.json) |
@@ -24031,6 +24035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cypher: Cyberpunk Text Adventure - Collector's Edition | 52330 | [52330-cypher-cyberpunk-text-adventure-collectors-edition.json](./52330-cypher-cyberpunk-text-adventure-collectors-edition.json) |
 | Cypher: Cyberpunk Text Adventure - Deluxe Edition | 52329 | [52329-cypher-cyberpunk-text-adventure-deluxe-edition.json](./52329-cypher-cyberpunk-text-adventure-deluxe-edition.json) |
 | Cyphernaut | 222798 | [222798-cyphernaut.json](./222798-cyphernaut.json) |
+| Cypherpunk | 427758 | [427758-cypherpunk.json](./427758-cypherpunk.json) |
 | Cypherpunk Essentials | 163651 | [163651-cypherpunk-essentials.json](./163651-cypherpunk-essentials.json) |
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
 | Cyphers Game | 196923 | [196923-cyphers-game.json](./196923-cyphers-game.json) |
