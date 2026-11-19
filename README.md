@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,852" src="https://img.shields.io/badge/soundtracks-3%2C852-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,369" src="https://img.shields.io/badge/games-3%2C369-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 364,797" src="https://img.shields.io/badge/missing-364%2C797-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 365,515" src="https://img.shields.io/badge/missing-365%2C515-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/polychromatic"><img src="https://i.scdn.co/image/ab67616d0000b273331cf10c609b150dd81fdd1f" width="120" height="120" alt="" /></a><br /><sub><b>Polychromatic</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spy-hunter"><img src="https://i.scdn.co/image/ab67616d0000b273e1b5867cd262f9a2127d81df" width="120" height="120" alt="" /></a><br /><sub><b>Spy Hunter</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/d-generation-hd"><img src="https://i.scdn.co/image/ab67616d0000b273cb502af26c2b68ab708d3cf0" width="120" height="120" alt="" /></a><br /><sub><b>D/Generation HD</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hartacon-tactics"><img src="https://i.scdn.co/image/ab67616d0000b273b3cfea85e60cfc62d44897cf" width="120" height="120" alt="" /></a><br /><sub><b>Hartacon Tactics</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sprinkle-islands"><img src="https://i.scdn.co/image/ab67616d0000b273b3ccdaa7bb200fee0b82259e" width="120" height="120" alt="" /></a><br /><sub><b>Sprinkle Islands</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/time-surfer"><img src="https://i.scdn.co/image/ab67616d0000b27300f3d7debec58d3060b0abc1" width="120" height="120" alt="" /></a><br /><sub><b>Time Surfer</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/giant-boulder-of-death"><img src="https://i.scdn.co/image/ab67616d0000b2733910c6c557bc1f703676a13e" width="120" height="120" alt="" /></a><br /><sub><b>Giant Boulder of Death</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/star-rangers"><img src="https://i.scdn.co/image/ab67616d0000b2734705f6200d4342d993148fc7" width="120" height="120" alt="" /></a><br /><sub><b>Star Rangers</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/giant-boulder-of-death"><img src="https://i.scdn.co/image/ab67616d0000b2733910c6c557bc1f703676a13e" width="120" height="120" alt="" /></a><br /><sub><b>Giant Boulder of Death</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/star-rangers"><img src="https://i.scdn.co/image/ab67616d0000b2734705f6200d4342d993148fc7" width="120" height="120" alt="" /></a><br /><sub><b>Star Rangers</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bad-day-on-the-midway"><img src="https://i.scdn.co/image/ab67616d0000b27303a653451e5253250cde2d82" width="120" height="120" alt="" /></a><br /><sub><b>Bad Day on the Midway</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/islands-of-wakfu"><img src="https://i.scdn.co/image/ab67616d0000b273b5dd2fe8f975ebca36a61c86" width="120" height="120" alt="" /></a><br /><sub><b>Islands of Wakfu</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/chocobos-dungeon-2"><img src="https://i.scdn.co/image/ab67616d0000b27332dd3bbab44de84b52fddbf3" width="120" height="120" alt="" /></a><br /><sub><b>Chocobo's Dungeon 2</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arma-3-marksmen"><img src="https://i.scdn.co/image/ab67616d0000b273f04013ef787f7de9a7314839" width="120" height="120" alt="" /></a><br /><sub><b>Arma 3: Marksmen</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/stratego"><img src="https://i.scdn.co/image/ab67616d0000b273b8ebe407ecb2da83599654c2" width="120" height="120" alt="" /></a><br /><sub><b>Stratego</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/god-of-light"><img src="https://i.scdn.co/image/ab67616d0000b2734baa0279f52e97bf616562af" width="120" height="120" alt="" /></a><br /><sub><b>God of Light</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (364,797 games).
+More in **[missing/](missing/README.md)** (365,515 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,852 soundtracks &middot; last updated 2026-11-19T03:25:49.166Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,852 soundtracks &middot; last updated 2026-11-19T06:41:16.414Z</sub>
