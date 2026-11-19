@@ -9854,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
 | Love Battle Spirit | 387744 | [387744-love-battle-spirit.json](./387744-love-battle-spirit.json) |
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
+| Love Beyond Differences: Riku & Lily | 423570 | [423570-love-beyond-differences-riku-and-lily.json](./423570-love-beyond-differences-riku-and-lily.json) |
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
 | Love Bites | 75578 | [75578-love-bites.json](./75578-love-bites.json) |
