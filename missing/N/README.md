@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
 | NASCAR 2005: Chase for the Cup | 4027 | [4027-nascar-2005-chase-for-the-cup.json](./4027-nascar-2005-chase-for-the-cup.json) |
 | NASCAR 2011: The Game | 5051 | [5051-nascar-2011-the-game.json](./5051-nascar-2011-the-game.json) |
+| NASCAR 21: Ignition | 170048 | [170048-nascar-21-ignition.json](./170048-nascar-21-ignition.json) |
 | NASCAR 21: Ignition - 2022 Patriotic Pack | 263280 | [263280-nascar-21-ignition-2022-patriotic-pack.json](./263280-nascar-21-ignition-2022-patriotic-pack.json) |
 | NASCAR 21: Ignition - 2022 Playoff Pack | 263288 | [263288-nascar-21-ignition-2022-playoff-pack.json](./263288-nascar-21-ignition-2022-playoff-pack.json) |
 | NASCAR 21: Ignition - 2022 Throwback Pack | 263314 | [263314-nascar-21-ignition-2022-throwback-pack.json](./263314-nascar-21-ignition-2022-throwback-pack.json) |
