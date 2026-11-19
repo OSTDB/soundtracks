@@ -162,7 +162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D&M: Spark of Fate | 236751 | [236751-d-and-m-spark-of-fate.json](./236751-d-and-m-spark-of-fate.json) |
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
-| D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D1 Professional Drift Grand Prix Series | 43391 | [43391-d1-professional-drift-grand-prix-series.json](./43391-d1-professional-drift-grand-prix-series.json) |
 | D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
 | D1AL-ogue+ | 394403 | [394403-d1al-ogue.json](./394403-d1al-ogue.json) |
@@ -895,7 +894,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Eden | 301054 | [301054-dance-eden.json](./301054-dance-eden.json) |
 | Dance Evolution Arcade | 375456 | [375456-dance-evolution-arcade.json](./375456-dance-evolution-arcade.json) |
 | Dance Fabulous | 285639 | [285639-dance-fabulous.json](./285639-dance-fabulous.json) |
-| Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
 | Dance Fest | 269398 | [269398-dance-fest.json](./269398-dance-fest.json) |
 | Dance Fever HD | 232150 | [232150-dance-fever-hd.json](./232150-dance-fever-hd.json) |
@@ -935,7 +933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance on the Water | 222676 | [222676-dance-on-the-water.json](./222676-dance-on-the-water.json) |
-| Dance Paradise | 20169 | [20169-dance-paradise.json](./20169-dance-paradise.json) |
 | Dance Party | 247250 | [247250-dance-party.json](./247250-dance-party.json) |
 | Dance Party Crunkmas | 87230 | [87230-dance-party-crunkmas.json](./87230-dance-party-crunkmas.json) |
 | Dance Party: Club Hits | 50928 | [50928-dance-party-club-hits.json](./50928-dance-party-club-hits.json) |
@@ -1024,7 +1021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Line: Community Edition | 393403 | [393403-dancing-line-community-edition.json](./393403-dancing-line-community-edition.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
 | Dancing of Cho Aniki | 375780 | [375780-dancing-of-cho-aniki.json](./375780-dancing-of-cho-aniki.json) |
-| Dancing on Ice | 20419 | [20419-dancing-on-ice.json](./20419-dancing-on-ice.json) |
 | Dancing Onigiri | 210330 | [210330-dancing-onigiri.json](./210330-dancing-onigiri.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
 | Dancing Pandas: Ranger's Path | 331032 | [331032-dancing-pandas-rangers-path.json](./331032-dancing-pandas-rangers-path.json) |
@@ -5177,7 +5173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Gate | 2488 | [2488-death-gate.json](./2488-death-gate.json) |
 | Death Gaze | 184962 | [184962-death-gaze.json](./184962-death-gaze.json) |
 | Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
-| Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
 | Death Harvest | 247718 | [247718-death-harvest.json](./247718-death-harvest.json) |
 | Death Horizon | 68142 | [68142-death-horizon.json](./68142-death-horizon.json) |
@@ -6087,7 +6082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Inside | 309535 | [309535-deep-inside.json](./309535-deep-inside.json) |
 | Deep Inside: Amore Sola MI Fa Remirare | 364769 | [364769-deep-inside-amore-sola-mi-fa-remirare.json](./364769-deep-inside-amore-sola-mi-fa-remirare.json) |
 | Deep Into Darkness | 290199 | [290199-deep-into-darkness.json](./290199-deep-into-darkness.json) |
-| Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Lake Mall | 320705 | [320705-deep-lake-mall.json](./320705-deep-lake-mall.json) |
 | Deep Lake Reel Fishing | 236988 | [236988-deep-lake-reel-fishing.json](./236988-deep-lake-reel-fishing.json) |
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
@@ -8177,7 +8171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Into Darkness | 391977 | [391977-descent-into-darkness.json](./391977-descent-into-darkness.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
 | Descent Into the Abyss | 268883 | [268883-descent-into-the-abyss.json](./268883-descent-into-the-abyss.json) |
-| Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
 | Descent Mission Builder | 65114 | [65114-descent-mission-builder.json](./65114-descent-mission-builder.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
@@ -9789,7 +9782,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds Collector | 288965 | [288965-diamonds-collector.json](./288965-diamonds-collector.json) |
 | Diamonds Mine | 261082 | [261082-diamonds-mine.json](./261082-diamonds-mine.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
+| Diana FreeCell | 332682 | [332682-diana-freecell.json](./332682-diana-freecell.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
+| Diana Memory Game No1 | 332686 | [332686-diana-memory-game-no1.json](./332686-diana-memory-game-no1.json) |
+| Diana Memory Game No2 | 332687 | [332687-diana-memory-game-no2.json](./332687-diana-memory-game-no2.json) |
+| Diana Photo Quiz | 332683 | [332683-diana-photo-quiz.json](./332683-diana-photo-quiz.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | DianQi | 376401 | [376401-dianqi.json](./376401-dianqi.json) |
 | Diàntǒng Xiá | 121264 | [121264-diantong-xia.json](./121264-diantong-xia.json) |
@@ -12627,7 +12624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive: The Medes Islands Secret | 50723 | [50723-dive-the-medes-islands-secret.json](./50723-dive-the-medes-islands-secret.json) |
 | Dive! | 70110 | [70110-dive.json](./70110-dive.json) |
 | Divekick | 4759 | [4759-divekick.json](./4759-divekick.json) |
-| Divekick: Addition Edition + | 20226 | [20226-divekick-addition-edition.json](./20226-divekick-addition-edition.json) |
 | Divemensions | 267718 | [267718-divemensions.json](./267718-divemensions.json) |
 | Divenia Episode One | 111986 | [111986-divenia-episode-one.json](./111986-divenia-episode-one.json) |
 | Diver | 178241 | [178241-diver.json](./178241-diver.json) |
@@ -22296,7 +22292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
 | DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
-| Dynetzzle Extended | 20101 | [20101-dynetzzle-extended.json](./20101-dynetzzle-extended.json) |
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
 | Dyno Master | 219951 | [219951-dyno-master.json](./219951-dyno-master.json) |
 | Dyno Tennis | 245116 | [245116-dyno-tennis.json](./245116-dyno-tennis.json) |
