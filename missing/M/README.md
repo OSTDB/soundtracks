@@ -22290,6 +22290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murim Sect Leader | 427829 | [427829-murim-sect-leader.json](./427829-murim-sect-leader.json) |
 | Murim Survival | 336777 | [336777-murim-survival.json](./336777-murim-survival.json) |
+| Muritura | 422984 | [422984-muritura.json](./422984-muritura.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murk | 426420 | [426420-murk.json](./426420-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
@@ -25367,6 +25368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Myth: The Total Codex | 73892 | [73892-myth-the-total-codex.json](./73892-myth-the-total-codex.json) |
 | Myth: Twice Born Edition | 341124 | [341124-myth-twice-born-edition.json](./341124-myth-twice-born-edition.json) |
+| Mythaka | 422999 | [422999-mythaka.json](./422999-mythaka.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
 | MythBeasts | 390869 | [390869-mythbeasts.json](./390869-mythbeasts.json) |
 | Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
