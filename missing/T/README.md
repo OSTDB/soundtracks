@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
+| Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
 | Taito Milestones 5 | 427291 | [427291-taito-milestones-5.json](./427291-taito-milestones-5.json) |
 | Taito Power Goal | 40446 | [40446-taito-power-goal.json](./40446-taito-power-goal.json) |
 | Taito Variety Pack | 79489 | [79489-taito-variety-pack.json](./79489-taito-variety-pack.json) |
@@ -5224,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
 | Terrifier: The ARTcade Game | 319465 | [319465-terrifier-the-artcade-game.json](./319465-terrifier-the-artcade-game.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
+| Terrinoth: Heroes of Descent | 389109 | [389109-terrinoth-heroes-of-descent.json](./389109-terrinoth-heroes-of-descent.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
 | Territorial Conquest | 374101 | [374101-territorial-conquest.json](./374101-territorial-conquest.json) |
 | Territorial Duck | 210979 | [210979-territorial-duck.json](./210979-territorial-duck.json) |
@@ -8000,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caribbean Sail | 61889 | [61889-the-caribbean-sail.json](./61889-the-caribbean-sail.json) |
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
+| The Caribou Trail | 391848 | [391848-the-caribou-trail.json](./391848-the-caribou-trail.json) |
 | The Carl Lewis Challenge | 12532 | [12532-the-carl-lewis-challenge.json](./12532-the-carl-lewis-challenge.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
@@ -16065,6 +16068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
 | The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
+| The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munchkin Army | 335164 | [335164-the-munchkin-army.json](./335164-the-munchkin-army.json) |
 | The Munsters | 37103 | [37103-the-munsters.json](./37103-the-munsters.json) |
@@ -16303,6 +16307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NewZealand Story | 274078 | [274078-the-newzealand-story.json](./274078-the-newzealand-story.json) |
 | The NewZealand Story | 274079 | [274079-the-newzealand-story.json](./274079-the-newzealand-story.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
+| The NewZealand Story: Untold Adventure | 384926 | [384926-the-newzealand-story-untold-adventure.json](./384926-the-newzealand-story-untold-adventure.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
 | The Next Day After Friday | 89429 | [89429-the-next-day-after-friday.json](./89429-the-next-day-after-friday.json) |
@@ -18151,6 +18156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish 2: Greed | 225511 | [225511-the-rumble-fish-2-greed.json](./225511-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Nintendo Switch 2 Edition | 384186 | [384186-the-rumble-fish-2-nintendo-switch-2-edition.json](./384186-the-rumble-fish-2-nintendo-switch-2-edition.json) |
 | The Rumble Fish: Complete Pack | 336932 | [336932-the-rumble-fish-complete-pack.json](./336932-the-rumble-fish-complete-pack.json) |
+| The Run | 386643 | [386643-the-run.json](./386643-the-run.json) |
 | The Runaway Feijoao | 159874 | [159874-the-runaway-feijoao.json](./159874-the-runaway-feijoao.json) |
 | The Runaway Girl and Me | 254879 | [254879-the-runaway-girl-and-me.json](./254879-the-runaway-girl-and-me.json) |
 | The Runaway Train | 397613 | [397613-the-runaway-train.json](./397613-the-runaway-train.json) |
@@ -19056,6 +19062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Restoration Workshop Kit | 350997 | [350997-the-sims-4-restoration-workshop-kit.json](./350997-the-sims-4-restoration-workshop-kit.json) |
 | The Sims 4: Riviera Retreat Kit | 303887 | [303887-the-sims-4-riviera-retreat-kit.json](./303887-the-sims-4-riviera-retreat-kit.json) |
 | The Sims 4: Romantic Garden Stuff | 121022 | [121022-the-sims-4-romantic-garden-stuff.json](./121022-the-sims-4-romantic-garden-stuff.json) |
+| The Sims 4: Royalty & Legacy | 385654 | [385654-the-sims-4-royalty-and-legacy.json](./385654-the-sims-4-royalty-and-legacy.json) |
 | The Sims 4: Seasons | 102585 | [102585-the-sims-4-seasons.json](./102585-the-sims-4-seasons.json) |
 | The Sims 4: Seasons, Jungle Adventure, Spooky Stuff | 159332 | [159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json](./159332-the-sims-4-seasons-jungle-adventure-spooky-stuff.json) |
 | The Sims 4: Secret Sanctuary Kit | 330392 | [330392-the-sims-4-secret-sanctuary-kit.json](./330392-the-sims-4-secret-sanctuary-kit.json) |
@@ -23083,6 +23090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas & Friends: Thomas Saves the Day! | 71871 | [71871-thomas-and-friends-thomas-saves-the-day.json](./71871-thomas-and-friends-thomas-saves-the-day.json) |
 | Thomas & Friends: Trouble on the Tracks | 50425 | [50425-thomas-and-friends-trouble-on-the-tracks.json](./50425-thomas-and-friends-trouble-on-the-tracks.json) |
 | Thomas & Friends: Up, Up and Away! Diesel's Special Delivery | 242029 | [242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json](./242029-thomas-and-friends-up-up-and-away-diesels-special-delivery.json) |
+| Thomas & Friends: Wonders of Sodor | 388501 | [388501-thomas-and-friends-wonders-of-sodor.json](./388501-thomas-and-friends-wonders-of-sodor.json) |
 | Thomas & Friends: Wonders of Sodor - Deluxe Edition | 394325 | [394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json](./394325-thomas-and-friends-wonders-of-sodor-deluxe-edition.json) |
 | Thomas & Friends: Wonders of Sodor - James Addon | 394318 | [394318-thomas-and-friends-wonders-of-sodor-james-addon.json](./394318-thomas-and-friends-wonders-of-sodor-james-addon.json) |
 | Thomas and Friends: Calling All Engines | 69047 | [69047-thomas-and-friends-calling-all-engines.json](./69047-thomas-and-friends-calling-all-engines.json) |
@@ -27324,6 +27332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
 | Titanium | 419111 | [419111-titanium.json](./419111-titanium.json) |
+| Titanium Court | 384358 | [384358-titanium-court.json](./384358-titanium-court.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titanium Nephilim | 341367 | [341367-titanium-nephilim.json](./341367-titanium-nephilim.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
@@ -28752,6 +28761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Typing | 157850 | [157850-tomb-typing.json](./157850-tomb-typing.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
+| Tomba! 2: The Evil Swine Return Special Edition | 377890 | [377890-tomba-2-the-evil-swine-return-special-edition.json](./377890-tomba-2-the-evil-swine-return-special-edition.json) |
 | Tomba! 3 | 256579 | [256579-tomba-3.json](./256579-tomba-3.json) |
 | Tomba! Special Edition | 256467 | [256467-tomba-special-edition.json](./256467-tomba-special-edition.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
