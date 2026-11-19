@@ -12520,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomscale Tower | 31984 | [31984-roomscale-tower.json](./31984-roomscale-tower.json) |
 | Roomservice | 194840 | [194840-roomservice.json](./194840-roomservice.json) |
 | Roomspeed | 400848 | [400848-roomspeed.json](./400848-roomspeed.json) |
+| Roomy | 427665 | [427665-roomy.json](./427665-roomy.json) |
 | Rooniverse | 214984 | [214984-rooniverse.json](./214984-rooniverse.json) |
 | RoonSehv: NeTerra | 278771 | [278771-roonsehv-neterra.json](./278771-roonsehv-neterra.json) |
 | Roopit and Boopit | 161425 | [161425-roopit-and-boopit.json](./161425-roopit-and-boopit.json) |
