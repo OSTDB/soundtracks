@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zàijiàn Duàn Dāo | 395912 | [395912-zaijian-duan-dao.json](./395912-zaijian-duan-dao.json) |
 | Zaijian Eurydice | 403638 | [403638-zaijian-eurydice.json](./403638-zaijian-eurydice.json) |
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
+| Zàizhàn Dà Jípǐn+255 | 427763 | [427763-zaizhan-da-jipin-255.json](./427763-zaizhan-da-jipin-255.json) |
 | Zak | 125835 | [125835-zak.json](./125835-zak.json) |
 | Zak McKracken and the Alien Mindbenders | 106 | [106-zak-mckracken-and-the-alien-mindbenders.json](./106-zak-mckracken-and-the-alien-mindbenders.json) |
 | Zak McKracken and the Alien Mindbenders Enhanced | 2280 | [2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json](./2280-zak-mckracken-and-the-alien-mindbenders-enhanced.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zou's App | 52300 | [52300-zous-app.json](./52300-zous-app.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
 | Zovid-19 Remake | 195905 | [195905-zovid-19-remake.json](./195905-zovid-19-remake.json) |
+| Zovid27: The Last Vaccine | 427759 | [427759-zovid27-the-last-vaccine.json](./427759-zovid27-the-last-vaccine.json) |
 | ZoX Universe: Space Arena | 94372 | [94372-zox-universe-space-arena.json](./94372-zox-universe-space-arena.json) |
 | Zoxel | 151383 | [151383-zoxel.json](./151383-zoxel.json) |
 | Zoysii | 368922 | [368922-zoysii.json](./368922-zoysii.json) |
