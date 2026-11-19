@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ant Simulator | 412613 | [412613-red-ant-simulator.json](./412613-red-ant-simulator.json) |
 | Red Antz | 262797 | [262797-red-antz.json](./262797-red-antz.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
+| Red Arrow | 418129 | [418129-red-arrow.json](./418129-red-arrow.json) |
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
 | Red Ash: The Indelible Legend | 15708 | [15708-red-ash-the-indelible-legend.json](./15708-red-ash-the-indelible-legend.json) |
@@ -13682,6 +13683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
 | Ruin | 273246 | [273246-ruin.json](./273246-ruin.json) |
 | Ruin | 400986 | [400986-ruin.json](./400986-ruin.json) |
+| Ruin | 418125 | [418125-ruin.json](./418125-ruin.json) |
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
 | Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
@@ -14606,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Royale | 141464 | [141464-rush-royale.json](./141464-rush-royale.json) |
 | Rush Rush Rally Racing | 4357 | [4357-rush-rush-rally-racing.json](./4357-rush-rush-rally-racing.json) |
 | Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
+| Rush Rush Red Shoes | 418033 | [418033-rush-rush-red-shoes.json](./418033-rush-rush-red-shoes.json) |
 | Rush Team | 57953 | [57953-rush-team.json](./57953-rush-team.json) |
 | Rush Team 2 | 57854 | [57854-rush-team-2.json](./57854-rush-team-2.json) |
 | Rush to Adventure | 55225 | [55225-rush-to-adventure.json](./55225-rush-to-adventure.json) |
