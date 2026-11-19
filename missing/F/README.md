@@ -6160,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finally A NSMB2 Christmas Mod | 326902 | [326902-finally-a-nsmb2-christmas-mod.json](./326902-finally-a-nsmb2-christmas-mod.json) |
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
 | Finally, in Love Again | 238891 | [238891-finally-in-love-again.json](./238891-finally-in-love-again.json) |
+| Finals Week | 423593 | [423593-finals-week.json](./423593-finals-week.json) |
 | Finance | 131124 | [131124-finance.json](./131124-finance.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
@@ -11036,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
 | Force Tanks | 102993 | [102993-force-tanks.json](./102993-force-tanks.json) |
 | Force Tilt | 408453 | [408453-force-tilt.json](./408453-force-tilt.json) |
+| Force Typhoon | 423574 | [423574-force-typhoon.json](./423574-force-typhoon.json) |
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Alliance: The Glarious Mandate | 78417 | [78417-forced-alliance-the-glarious-mandate.json](./78417-forced-alliance-the-glarious-mandate.json) |
@@ -11780,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Uprising | 13385 | [13385-forsaken-uprising.json](./13385-forsaken-uprising.json) |
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
+| Forsaken Walls | 423578 | [423578-forsaken-walls.json](./423578-forsaken-walls.json) |
 | Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
 | Forsaken World: Gods and Demons | 169020 | [169020-forsaken-world-gods-and-demons.json](./169020-forsaken-world-gods-and-demons.json) |
 | Forsaker: DingDing&Blade | 347020 | [347020-forsaker-dingding-and-blade.json](./347020-forsaker-dingding-and-blade.json) |
@@ -14959,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck Stalin | 410581 | [410581-fuck-stalin.json](./410581-fuck-stalin.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
+| Fuck This Job | 423602 | [423602-fuck-this-job.json](./423602-fuck-this-job.json) |
 | Fuck Typing | 79958 | [79958-fuck-typing.json](./79958-fuck-typing.json) |
 | Fuck Who You Desire | 393382 | [393382-fuck-who-you-desire.json](./393382-fuck-who-you-desire.json) |
 | Fuck You | 78408 | [78408-fuck-you.json](./78408-fuck-you.json) |
