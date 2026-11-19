@@ -14949,6 +14949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minigolf Adventure | 176147 | [176147-minigolf-adventure.json](./176147-minigolf-adventure.json) |
 | Minigolf Adventure: Cherry Blossom Valley | 221698 | [221698-minigolf-adventure-cherry-blossom-valley.json](./221698-minigolf-adventure-cherry-blossom-valley.json) |
 | Minigolf Blast | 95583 | [95583-minigolf-blast.json](./95583-minigolf-blast.json) |
+| Minigolf Brake! | 427155 | [427155-minigolf-brake.json](./427155-minigolf-brake.json) |
 | Minigolf Galaxy | 275597 | [275597-minigolf-galaxy.json](./275597-minigolf-galaxy.json) |
 | Minigolf Galaxy: Green Valley | 276992 | [276992-minigolf-galaxy-green-valley.json](./276992-minigolf-galaxy-green-valley.json) |
 | MiniGolf in Frozen City | 99909 | [99909-minigolf-in-frozen-city.json](./99909-minigolf-in-frozen-city.json) |
@@ -24709,6 +24710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of Shaola: The Cave | 167361 | [167361-mysteries-of-shaola-the-cave.json](./167361-mysteries-of-shaola-the-cave.json) |
 | Mysteries of the Forbidden Forest | 337464 | [337464-mysteries-of-the-forbidden-forest.json](./337464-mysteries-of-the-forbidden-forest.json) |
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
+| Mysteries of the House | 427182 | [427182-mysteries-of-the-house.json](./427182-mysteries-of-the-house.json) |
 | Mysteries of the Manor | 297752 | [297752-mysteries-of-the-manor.json](./297752-mysteries-of-the-manor.json) |
 | Mysteries of the Past: Shadow of the Daemon | 140196 | [140196-mysteries-of-the-past-shadow-of-the-daemon.json](./140196-mysteries-of-the-past-shadow-of-the-daemon.json) |
 | Mysteries of the Past: Shadow of the Daemon - Collector's Edition | 33581 | [33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json](./33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json) |
