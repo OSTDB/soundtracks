@@ -3764,7 +3764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascata | 94046 | [94046-cascata.json](./94046-cascata.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case #1472 | 201494 | [201494-case-1472.json](./201494-case-1472.json) |
-| Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case #9 | 74236 | [74236-case-9.json](./74236-case-9.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
 | Case 02: Paranormal Evil | 168577 | [168577-case-02-paranormal-evil.json](./168577-case-02-paranormal-evil.json) |
@@ -4311,7 +4310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Zanthu | 271454 | [271454-castle-zanthu.json](./271454-castle-zanthu.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Jigsaw Puzzles | 101394 | [101394-castle-jigsaw-puzzles.json](./101394-castle-jigsaw-puzzles.json) |
-| Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle: The 3D Hidden Objects | 106344 | [106344-castle-the-3d-hidden-objects.json](./106344-castle-the-3d-hidden-objects.json) |
 | Castle: The Forbidden Divines | 85695 | [85695-castle-the-forbidden-divines.json](./85695-castle-the-forbidden-divines.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
@@ -4813,7 +4811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Shmat - Cut the rope like Action Physics Puzzle Game | 104758 | [104758-cat-shmat-cut-the-rope-like-action-physics-puzzle-game.json](./104758-cat-shmat-cut-the-rope-like-action-physics-puzzle-game.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
-| Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator | 429338 | [429338-cat-simulator.json](./429338-cat-simulator.json) |
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
@@ -4939,7 +4936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Chess | 354050 | [354050-catacomb-chess.json](./354050-catacomb-chess.json) |
 | Catacomb Explorers | 30766 | [30766-catacomb-explorers.json](./30766-catacomb-explorers.json) |
 | Catacomb II | 11043 | [11043-catacomb-ii.json](./11043-catacomb-ii.json) |
-| Catacomb Kids | 17692 | [17692-catacomb-kids.json](./17692-catacomb-kids.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
 | Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
 | Catacomb Prince | 123150 | [123150-catacomb-prince.json](./123150-catacomb-prince.json) |
@@ -9858,7 +9854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
 | ChronoRewind: The Great Ritual | 421027 | [421027-chronorewind-the-great-ritual.json](./421027-chronorewind-the-great-ritual.json) |
 | Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
-| Chronos | 18974 | [18974-chronos.json](./18974-chronos.json) |
 | Chronos Affinity | 250751 | [250751-chronos-affinity.json](./250751-chronos-affinity.json) |
 | Chronos Fantasy | 214287 | [214287-chronos-fantasy.json](./214287-chronos-fantasy.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
@@ -10448,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
 | Citadel | 75523 | [75523-citadel.json](./75523-citadel.json) |
 | Citadel | 78595 | [78595-citadel.json](./78595-citadel.json) |
+| Citadel 1986 | 22710 | [22710-citadel-1986.json](./22710-citadel-1986.json) |
 | Citadel Anew | 240713 | [240713-citadel-anew.json](./240713-citadel-anew.json) |
 | Citadel Combat Cards | 131343 | [131343-citadel-combat-cards.json](./131343-citadel-combat-cards.json) |
 | Citadel Knight | 349076 | [349076-citadel-knight.json](./349076-citadel-knight.json) |
@@ -10523,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - African Vibes | 227401 | [227401-cities-skylines-african-vibes.json](./227401-cities-skylines-african-vibes.json) |
 | Cities: Skylines - After Dark | 16604 | [16604-cities-skylines-after-dark.json](./16604-cities-skylines-after-dark.json) |
 | Cities: Skylines - Airports | 227412 | [227412-cities-skylines-airports.json](./227412-cities-skylines-airports.json) |
+| Cities: Skylines - All That Jazz | 76739 | [76739-cities-skylines-all-that-jazz.json](./76739-cities-skylines-all-that-jazz.json) |
 | Cities: Skylines - Calm the Mind Radio | 241097 | [241097-cities-skylines-calm-the-mind-radio.json](./241097-cities-skylines-calm-the-mind-radio.json) |
 | Cities: Skylines - Campus | 119954 | [119954-cities-skylines-campus.json](./119954-cities-skylines-campus.json) |
 | Cities: Skylines - Campus Radio | 119956 | [119956-cities-skylines-campus-radio.json](./119956-cities-skylines-campus-radio.json) |
@@ -10971,7 +10968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
 | Citybus Simulator Munich | 52808 | [52808-citybus-simulator-munich.json](./52808-citybus-simulator-munich.json) |
 | Citybus Simulator New York | 52807 | [52807-citybus-simulator-new-york.json](./52807-citybus-simulator-new-york.json) |
-| Cityconomy: Service for your City | 17494 | [17494-cityconomy-service-for-your-city.json](./17494-cityconomy-service-for-your-city.json) |
 | CityDriver | 217210 | [217210-citydriver.json](./217210-citydriver.json) |
 | CityDriver: Alvarez-Lentz Marathon 420 CTI | 252236 | [252236-citydriver-alvarez-lentz-marathon-420-cti.json](./252236-citydriver-alvarez-lentz-marathon-420-cti.json) |
 | CityDriver: Autobahn Nord | 272188 | [272188-citydriver-autobahn-nord.json](./272188-citydriver-autobahn-nord.json) |
@@ -11022,7 +11018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War Battles - Chancellorsville | 106791 | [106791-civil-war-battles-chancellorsville.json](./106791-civil-war-battles-chancellorsville.json) |
 | Civil War Battles: Shiloh | 96560 | [96560-civil-war-battles-shiloh.json](./96560-civil-war-battles-shiloh.json) |
-| Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
 | Civil War: 1861 | 31043 | [31043-civil-war-1861.json](./31043-civil-war-1861.json) |
@@ -11049,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilio | 423617 | [423617-civilio.json](./423617-civilio.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization II: Multiplayer Gold Edition | 28978 | [28978-civilization-ii-multiplayer-gold-edition.json](./28978-civilization-ii-multiplayer-gold-edition.json) |
+| Civilization II: Test of Time | 76727 | [76727-civilization-ii-test-of-time.json](./76727-civilization-ii-test-of-time.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civilization: Call to Power | 9930 | [9930-civilization-call-to-power.json](./9930-civilization-call-to-power.json) |
@@ -12710,7 +12706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Co-Drive Chaos | 389952 | [389952-co-drive-chaos.json](./389952-co-drive-chaos.json) |
 | Co-Jump, Fly | 127090 | [127090-co-jump-fly.json](./127090-co-jump-fly.json) |
 | Co-omets | 287247 | [287247-co-omets.json](./287247-co-omets.json) |
-| CO-OP : Decrypted | 17678 | [17678-co-op-decrypted.json](./17678-co-op-decrypted.json) |
 | Co-Op Bundle | 311047 | [311047-co-op-bundle.json](./311047-co-op-bundle.json) |
 | Co-Op Crunch | 309425 | [309425-co-op-crunch.json](./309425-co-op-crunch.json) |
 | Co-op Frenzy: Spirit of the Island + Biped Bundle | 214053 | [214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json](./214053-co-op-frenzy-spirit-of-the-island-biped-bundle.json) |
@@ -14407,7 +14402,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossals | 127686 | [127686-colossals.json](./127686-colossals.json) |
 | Colossatron: Cosmic Crisis | 317377 | [317377-colossatron-cosmic-crisis.json](./317377-colossatron-cosmic-crisis.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
-| Colosse | 19036 | [19036-colosse.json](./19036-colosse.json) |
 | Colosseum | 13504 | [13504-colosseum.json](./13504-colosseum.json) |
 | Colosseum | 320834 | [320834-colosseum.json](./320834-colosseum.json) |
 | Colosseum Coach | 395694 | [395694-colosseum-coach.json](./395694-colosseum-coach.json) |
@@ -15575,7 +15569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congkakcraze | 93964 | [93964-congkakcraze.json](./93964-congkakcraze.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
-| Congo | 17729 | [17729-congo.json](./17729-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
 | Congo Bongo | 333853 | [333853-congo-bongo.json](./333853-congo-bongo.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
@@ -20836,7 +20829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 248616 | [248616-crouching-tiger-hidden-dragon.json](./248616-crouching-tiger-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 5794 | [5794-crouching-tiger-hidden-dragon.json](./5794-crouching-tiger-hidden-dragon.json) |
-| Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Boss | 351271 | [351271-crow-boss.json](./351271-crow-boss.json) |
 | Crow Crime: A Murder Mystery | 129534 | [129534-crow-crime-a-murder-mystery.json](./129534-crow-crime-a-murder-mystery.json) |
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
@@ -20898,7 +20890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
 | Crown & Coin: The Hundred Years | 427736 | [427736-crown-and-coin-the-hundred-years.json](./427736-crown-and-coin-the-hundred-years.json) |
 | Crown and Adventure | 309573 | [309573-crown-and-adventure.json](./309573-crown-and-adventure.json) |
-| Crown and Council | 18977 | [18977-crown-and-council.json](./18977-crown-and-council.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown Clash | 376370 | [376370-crown-clash.json](./376370-crown-clash.json) |
@@ -23701,7 +23692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberlife | 424665 | [424665-cyberlife.json](./424665-cyberlife.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
-| Cybermage: Darklight Awakening | 18998 | [18998-cybermage-darklight-awakening.json](./18998-cybermage-darklight-awakening.json) |
 | Cyberman | 369239 | [369239-cyberman.json](./369239-cyberman.json) |
 | Cybermatrix | 315990 | [315990-cybermatrix.json](./315990-cybermatrix.json) |
 | CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
@@ -24075,7 +24065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
 | Cythera | 131044 | [131044-cythera.json](./131044-cythera.json) |
 | Cython Cat | 407193 | [407193-cython-cat.json](./407193-cython-cat.json) |
-| Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
 | Cytoid | 174630 | [174630-cytoid.json](./174630-cytoid.json) |
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
