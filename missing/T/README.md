@@ -4083,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
 | Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
+| Teleglitch | 22678 | [22678-teleglitch.json](./22678-teleglitch.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
@@ -17307,6 +17308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Relish Rampage - Pickled Edition | 122540 | [122540-the-powerpuff-girls-relish-rampage-pickled-edition.json](./122540-the-powerpuff-girls-relish-rampage-pickled-edition.json) |
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
 | The Precinct: Limited Edition | 424096 | [424096-the-precinct-limited-edition.json](./424096-the-precinct-limited-edition.json) |
+| The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preposterous Awesomeness of Everything | 33658 | [33658-the-preposterous-awesomeness-of-everything.json](./33658-the-preposterous-awesomeness-of-everything.json) |
@@ -17999,6 +18001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripper: Serial Killers | 242586 | [242586-the-ripper-serial-killers.json](./242586-the-ripper-serial-killers.json) |
 | The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
+| The Rise & Rule of Ancient Empires | 22613 | [22613-the-rise-and-rule-of-ancient-empires.json](./22613-the-rise-and-rule-of-ancient-empires.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
 | The Rise of Atlantis | 144509 | [144509-the-rise-of-atlantis.json](./144509-the-rise-of-atlantis.json) |
 | The Rise of Captain Longbeard | 31158 | [31158-the-rise-of-captain-longbeard.json](./31158-the-rise-of-captain-longbeard.json) |
