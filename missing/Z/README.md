@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Arms | 368726 | [368726-zero-arms.json](./368726-zero-arms.json) |
 | Zero Below the Sun | 253626 | [253626-zero-below-the-sun.json](./253626-zero-below-the-sun.json) |
 | Zero Caliber 2 | 279386 | [279386-zero-caliber-2.json](./279386-zero-caliber-2.json) |
+| Zero Caliber 2 Remastered | 428306 | [428306-zero-caliber-2-remastered.json](./428306-zero-caliber-2-remastered.json) |
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
