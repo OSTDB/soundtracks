@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War On Christmas | 379836 | [379836-war-on-christmas.json](./379836-war-on-christmas.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
 | War on Mars | 206278 | [206278-war-on-mars.json](./206278-war-on-mars.json) |
+| War on Terror | 22628 | [22628-war-on-terror.json](./22628-war-on-terror.json) |
 | War on the Sea | 143137 | [143137-war-on-the-sea.json](./143137-war-on-the-sea.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
 | War on the Street | 238369 | [238369-war-on-the-street.json](./238369-war-on-the-street.json) |
@@ -1566,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarGames | 205922 | [205922-wargames.json](./205922-wargames.json) |
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
+| Wargasm | 22805 | [22805-wargasm.json](./22805-wargasm.json) |
 | Warglaive | 262012 | [262012-warglaive.json](./262012-warglaive.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargods Online 2 | 134318 | [134318-wargods-online-2.json](./134318-wargods-online-2.json) |
@@ -4571,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
 | Wheeler Institute: Screening | 178699 | [178699-wheeler-institute-screening.json](./178699-wheeler-institute-screening.json) |
+| Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
 | Wheelie 2 | 239892 | [239892-wheelie-2.json](./239892-wheelie-2.json) |
 | Wheelie 4: Time Travel | 331386 | [331386-wheelie-4-time-travel.json](./331386-wheelie-4-time-travel.json) |
