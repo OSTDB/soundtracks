@@ -19973,6 +19973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duamo | 159461 | [159461-duamo.json](./159461-duamo.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
+| Duat | 426535 | [426535-duat.json](./426535-duat.json) |
 | Duat Wayfarer | 390042 | [390042-duat-wayfarer.json](./390042-duat-wayfarer.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Club | 201061 | [201061-dub-club.json](./201061-dub-club.json) |
