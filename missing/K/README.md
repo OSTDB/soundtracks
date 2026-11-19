@@ -2141,11 +2141,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
 | Kernel Panic | 110886 | [110886-kernel-panic.json](./110886-kernel-panic.json) |
+| Kernel Panic | 430468 | [430468-kernel-panic.json](./430468-kernel-panic.json) |
 | Kernel Quest | 240613 | [240613-kernel-quest.json](./240613-kernel-quest.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
 | Kero | 261596 | [261596-kero.json](./261596-kero.json) |
 | Kero Blaster | 10255 | [10255-kero-blaster.json](./10255-kero-blaster.json) |
 | Kero Catch | 182803 | [182803-kero-catch.json](./182803-kero-catch.json) |
+| Kero Corp | 430485 | [430485-kero-corp.json](./430485-kero-corp.json) |
 | Kero Kero 7 | 72284 | [72284-kero-kero-7.json](./72284-kero-kero-7.json) |
 | Kero Kero Cowboy | 341144 | [341144-kero-kero-cowboy.json](./341144-kero-kero-cowboy.json) |
 | Kero Kero Keroppi no Daibouken | 48351 | [48351-kero-kero-keroppi-no-daibouken.json](./48351-kero-kero-keroppi-no-daibouken.json) |
@@ -4684,6 +4686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitsune Quest | 181468 | [181468-kitsune-quest.json](./181468-kitsune-quest.json) |
 | Kitsune Tails | 142469 | [142469-kitsune-tails.json](./142469-kitsune-tails.json) |
 | Kitsune Zero | 213714 | [213714-kitsune-zero.json](./213714-kitsune-zero.json) |
+| Kitsune Zero | 430516 | [430516-kitsune-zero.json](./430516-kitsune-zero.json) |
 | Kitsune: The Journey of Adashino | 217024 | [217024-kitsune-the-journey-of-adashino.json](./217024-kitsune-the-journey-of-adashino.json) |
 | Kitsune's Paths | 331641 | [331641-kitsunes-paths.json](./331641-kitsunes-paths.json) |
 | Kitsunetsuki Project | 265920 | [265920-kitsunetsuki-project.json](./265920-kitsunetsuki-project.json) |
