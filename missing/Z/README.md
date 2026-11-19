@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
 | ZOE: Interactive Story | 101157 | [101157-zoe-interactive-story.json](./101157-zoe-interactive-story.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
+| Zoeufs Story Academie | 418640 | [418640-zoeufs-story-academie.json](./418640-zoeufs-story-academie.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
 | Zoey: Horny Roomates | 301637 | [301637-zoey-horny-roomates.json](./301637-zoey-horny-roomates.json) |
