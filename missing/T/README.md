@@ -11553,6 +11553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golden Rose: Book One | 197467 | [197467-the-golden-rose-book-one.json](./197467-the-golden-rose-book-one.json) |
+| The Golden Seam | 420243 | [420243-the-golden-seam.json](./420243-the-golden-seam.json) |
 | The Golden Tile | 333811 | [333811-the-golden-tile.json](./333811-the-golden-tile.json) |
 | The Golden Time in High School | 201358 | [201358-the-golden-time-in-high-school.json](./201358-the-golden-time-in-high-school.json) |
 | The Golden Tower | 362911 | [362911-the-golden-tower.json](./362911-the-golden-tower.json) |
@@ -22257,6 +22258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Simulator | 422399 | [422399-theme-park-simulator.json](./422399-theme-park-simulator.json) |
 | Theme Park Simulator: Collector's Edition | 140165 | [140165-theme-park-simulator-collectors-edition.json](./140165-theme-park-simulator-collectors-edition.json) |
 | Theme Park Simulator: Rollercoaster Paradise | 138910 | [138910-theme-park-simulator-rollercoaster-paradise.json](./138910-theme-park-simulator-rollercoaster-paradise.json) |
+| Theme Park Together | 420293 | [420293-theme-park-together.json](./420293-theme-park-together.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Theme-Gawad | 275431 | [275431-theme-gawad.json](./275431-theme-gawad.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
