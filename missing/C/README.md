@@ -154,7 +154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 242469 | [242469-cabelas-big-game-hunter-2005-adventures.json](./242469-cabelas-big-game-hunter-2005-adventures.json) |
 | Cabela's Big Game Hunter: 2005 Adventures | 3842 | [3842-cabelas-big-game-hunter-2005-adventures.json](./3842-cabelas-big-game-hunter-2005-adventures.json) |
-| Cabela's Big Game Hunter: Hunting Party | 20219 | [20219-cabelas-big-game-hunter-hunting-party.json](./20219-cabelas-big-game-hunter-hunting-party.json) |
 | Cabela's Big Game Hunter: Hunting Party with Gun | 136305 | [136305-cabelas-big-game-hunter-hunting-party-with-gun.json](./136305-cabelas-big-game-hunter-hunting-party-with-gun.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
@@ -793,7 +792,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Awakening | 19948 | [19948-call-of-duty-black-ops-iii-awakening.json](./19948-call-of-duty-black-ops-iii-awakening.json) |
 | Call of Duty: Black Ops III - Descent | 20292 | [20292-call-of-duty-black-ops-iii-descent.json](./20292-call-of-duty-black-ops-iii-descent.json) |
 | Call of Duty: Black Ops III - Digital Deluxe Edition | 30717 | [30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json](./30717-call-of-duty-black-ops-iii-digital-deluxe-edition.json) |
-| Call of Duty: Black Ops III - Eclipse | 20291 | [20291-call-of-duty-black-ops-iii-eclipse.json](./20291-call-of-duty-black-ops-iii-eclipse.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
 | Call of Duty: Black Ops III - Juggernog Edition | 42948 | [42948-call-of-duty-black-ops-iii-juggernog-edition.json](./42948-call-of-duty-black-ops-iii-juggernog-edition.json) |
@@ -3382,11 +3380,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnivores | 138928 | [138928-carnivores.json](./138928-carnivores.json) |
 | Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
 | Carnivores 2 | 20564 | [20564-carnivores-2.json](./20564-carnivores-2.json) |
-| Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
 | Carnivores: Dinosaur Hunt | 148429 | [148429-carnivores-dinosaur-hunt.json](./148429-carnivores-dinosaur-hunt.json) |
 | Carnivores: Dinosaur Hunt - Cretaceous Terror Pack | 214450 | [214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json](./214450-carnivores-dinosaur-hunt-cretaceous-terror-pack.json) |
-| Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
-| Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
 | Carnivores: Dinosaur Hunter Reborn | 17236 | [17236-carnivores-dinosaur-hunter-reborn.json](./17236-carnivores-dinosaur-hunter-reborn.json) |
 | Carnivores: Ice Age | 20566 | [20566-carnivores-ice-age.json](./20566-carnivores-ice-age.json) |
 | Carnivorous | 206837 | [206837-carnivorous.json](./206837-carnivorous.json) |
@@ -4356,7 +4351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | CastleStorm: Complete Edition | 99924 | [99924-castlestorm-complete-edition.json](./99924-castlestorm-complete-edition.json) |
-| CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
 | CastleStorm: From Outcast to Savior | 50780 | [50780-castlestorm-from-outcast-to-savior.json](./50780-castlestorm-from-outcast-to-savior.json) |
 | CastleStorm: The Warrior Queen | 50779 | [50779-castlestorm-the-warrior-queen.json](./50779-castlestorm-the-warrior-queen.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
@@ -6691,7 +6685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
-| Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Jockey: Special | 54567 | [54567-champion-jockey-special.json](./54567-champion-jockey-special.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion League | 56091 | [56091-champion-league.json](./56091-champion-league.json) |
@@ -8295,7 +8288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
-| Chicken Riot | 20421 | [20421-chicken-riot.json](./20421-chicken-riot.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run | 198716 | [198716-chicken-run.json](./198716-chicken-run.json) |
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
@@ -13138,7 +13130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: Room | 138935 | [138935-codename-room.json](./138935-codename-room.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
-| Codename: Tenka | 19995 | [19995-codename-tenka.json](./19995-codename-tenka.json) |
 | Codename: Terranova | 132548 | [132548-codename-terranova.json](./132548-codename-terranova.json) |
 | Codename: Tiaras | 195981 | [195981-codename-tiaras.json](./195981-codename-tiaras.json) |
 | Codename: Twilight | 373761 | [373761-codename-twilight.json](./373761-codename-twilight.json) |
@@ -17019,7 +17010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornerpond | 341374 | [341374-cornerpond.json](./341374-cornerpond.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Corners | 149841 | [149841-corners.json](./149841-corners.json) |
-| Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
 | Cornfield | 409273 | [409273-cornfield.json](./409273-cornfield.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
@@ -17941,7 +17931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
 | Country Dance | 50930 | [50930-country-dance.json](./50930-country-dance.json) |
 | Country Dance 2 | 50927 | [50927-country-dance-2.json](./50927-country-dance-2.json) |
-| Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
 | Country Dance Kinect | 41591 | [41591-country-dance-kinect.json](./41591-country-dance-kinect.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
@@ -18821,7 +18810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
 | Crash Cart | 235144 | [235144-crash-cart.json](./235144-crash-cart.json) |
-| Crash City Mayhem | 20007 | [20007-crash-city-mayhem.json](./20007-crash-city-mayhem.json) |
 | Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Club | 93835 | [93835-crash-club.json](./93835-crash-club.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
@@ -18928,7 +18916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Time | 6945 | [6945-crash-time.json](./6945-crash-time.json) |
 | Crash Time 3D | 65544 | [65544-crash-time-3d.json](./65544-crash-time-3d.json) |
 | Crash Time 4: The Syndicate | 19973 | [19973-crash-time-4-the-syndicate.json](./19973-crash-time-4-the-syndicate.json) |
-| Crash Time 5: Undercover | 19974 | [19974-crash-time-5-undercover.json](./19974-crash-time-5-undercover.json) |
 | Crash Time II | 6946 | [6946-crash-time-ii.json](./6946-crash-time-ii.json) |
 | Crash Time III | 6947 | [6947-crash-time-iii.json](./6947-crash-time-iii.json) |
 | Crash Time: Undercover | 226834 | [226834-crash-time-undercover.json](./226834-crash-time-undercover.json) |
@@ -20140,7 +20127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
-| Crimson Gem Saga | 19640 | [19640-crimson-gem-saga.json](./19640-crimson-gem-saga.json) |
 | Crimson Glaive Sigma | 161601 | [161601-crimson-glaive-sigma.json](./161601-crimson-glaive-sigma.json) |
 | Crimson Gray | 43141 | [43141-crimson-gray.json](./43141-crimson-gray.json) |
 | Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
@@ -20250,7 +20236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Force | 48652 | [48652-crisis-force.json](./48652-crisis-force.json) |
 | Crisis Heart Brawlers: Clash at Otakon | 64681 | [64681-crisis-heart-brawlers-clash-at-otakon.json](./64681-crisis-heart-brawlers-clash-at-otakon.json) |
 | Crisis in the Aegean Sea | 127320 | [127320-crisis-in-the-aegean-sea.json](./127320-crisis-in-the-aegean-sea.json) |
-| Crisis in the Kremlin | 20474 | [20474-crisis-in-the-kremlin.json](./20474-crisis-in-the-kremlin.json) |
 | Crisis in the Kremlin | 331763 | [331763-crisis-in-the-kremlin.json](./331763-crisis-in-the-kremlin.json) |
 | Crisis in the Kremlin: The Cold War | 303927 | [303927-crisis-in-the-kremlin-the-cold-war.json](./303927-crisis-in-the-kremlin-the-cold-war.json) |
 | Crisis Island | 244729 | [244729-crisis-island.json](./244729-crisis-island.json) |
@@ -20335,7 +20320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criticality | 385402 | [385402-criticality.json](./385402-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Criticism Roundup 2013 | 224456 | [224456-criticism-roundup-2013.json](./224456-criticism-roundup-2013.json) |
-| Criticom | 19165 | [19165-criticom.json](./19165-criticom.json) |
 | Critter Bonk | 384795 | [384795-critter-bonk.json](./384795-critter-bonk.json) |
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
@@ -22254,7 +22238,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubikill 3 | 393859 | [393859-cubikill-3.json](./393859-cubikill-3.json) |
 | Cubikill 4 | 393860 | [393860-cubikill-4.json](./393860-cubikill-4.json) |
 | Cubikill 5 | 393861 | [393861-cubikill-5.json](./393861-cubikill-5.json) |
-| Cubikolor | 19888 | [19888-cubikolor.json](./19888-cubikolor.json) |
 | Cubin | 299744 | [299744-cubin.json](./299744-cubin.json) |
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
@@ -23539,7 +23522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Siege | 365975 | [365975-cyber-siege.json](./365975-cyber-siege.json) |
 | Cyber Skirmish | 226517 | [226517-cyber-skirmish.json](./226517-cyber-skirmish.json) |
 | Cyber Slayer | 219672 | [219672-cyber-slayer.json](./219672-cyber-slayer.json) |
-| Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Sleuth Simulacrum | 302157 | [302157-cyber-sleuth-simulacrum.json](./302157-cyber-sleuth-simulacrum.json) |
 | Cyber Sokoban | 210990 | [210990-cyber-sokoban.json](./210990-cyber-sokoban.json) |
 | Cyber Soldier | 251351 | [251351-cyber-soldier.json](./251351-cyber-soldier.json) |
@@ -23846,7 +23828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberspace Defender | 347293 | [347293-cyberspace-defender.json](./347293-cyberspace-defender.json) |
 | Cyberspace VR | 160145 | [160145-cyberspace-vr.json](./160145-cyberspace-vr.json) |
 | Cyberspace: Infinite | 150457 | [150457-cyberspace-infinite.json](./150457-cyberspace-infinite.json) |
-| CyberSpeed | 20268 | [20268-cyberspeed.json](./20268-cyberspeed.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
 | CyberSphere Online | 75290 | [75290-cybersphere-online.json](./75290-cybersphere-online.json) |
 | Cybersport Manager | 406361 | [406361-cybersport-manager.json](./406361-cybersport-manager.json) |
