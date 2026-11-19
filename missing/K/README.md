@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanpani Girls | 175045 | [175045-kanpani-girls.json](./175045-kanpani-girls.json) |
 | Kanpeki | 191969 | [191969-kanpeki.json](./191969-kanpeki.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
+| Kanransha Nite | 416902 | [416902-kanransha-nite.json](./416902-kanransha-nite.json) |
 | Kansei | 62863 | [62863-kansei.json](./62863-kansei.json) |
 | Kansei: The Second Turn HD | 186945 | [186945-kansei-the-second-turn-hd.json](./186945-kansei-the-second-turn-hd.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
@@ -6577,6 +6578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
+| Krampus of Kirkwall | 415520 | [415520-krampus-of-kirkwall.json](./415520-krampus-of-kirkwall.json) |
 | Krampus Quest | 76674 | [76674-krampus-quest.json](./76674-krampus-quest.json) |
 | Krampus: Night of Horror | 326490 | [326490-krampus-night-of-horror.json](./326490-krampus-night-of-horror.json) |
 | Krampusnacht | 134929 | [134929-krampusnacht.json](./134929-krampusnacht.json) |
