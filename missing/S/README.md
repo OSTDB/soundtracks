@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Paradise | 296607 | [296607-seeds-of-paradise.json](./296607-seeds-of-paradise.json) |
 | Seeds of Power Bundle: Weedcraft Inc & Cultist Simulator: Anthology | 331515 | [331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json](./331515-seeds-of-power-bundle-weedcraft-inc-and-cultist-simulator-anthology.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
+| SEEDS: Echoes Beneath the Sands | 429647 | [429647-seeds-echoes-beneath-the-sands.json](./429647-seeds-echoes-beneath-the-sands.json) |
 | Seeds: The Magic Garden | 109956 | [109956-seeds-the-magic-garden.json](./109956-seeds-the-magic-garden.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seedsow Lullaby | 308306 | [308306-seedsow-lullaby.json](./308306-seedsow-lullaby.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Must Fall | 399200 | [399200-shadows-must-fall.json](./399200-shadows-must-fall.json) |
 | Shadows of a Sunless World | 183063 | [183063-shadows-of-a-sunless-world.json](./183063-shadows-of-a-sunless-world.json) |
 | Shadows of Adam: Guild of the Artificers | 172225 | [172225-shadows-of-adam-guild-of-the-artificers.json](./172225-shadows-of-adam-guild-of-the-artificers.json) |
+| Shadows of Arcania | 429660 | [429660-shadows-of-arcania.json](./429660-shadows-of-arcania.json) |
 | Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
 | Shadows of Cairn | 2510 | [2510-shadows-of-cairn.json](./2510-shadows-of-cairn.json) |
 | Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
@@ -15756,6 +15758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Farm | 298271 | [298271-slime-farm.json](./298271-slime-farm.json) |
 | Slime Farmer 2 | 99345 | [99345-slime-farmer-2.json](./99345-slime-farmer-2.json) |
 | Slime Feet | 323031 | [323031-slime-feet.json](./323031-slime-feet.json) |
+| Slime Fight Club | 429665 | [429665-slime-fight-club.json](./429665-slime-fight-club.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Forest | 58947 | [58947-slime-forest.json](./58947-slime-forest.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
@@ -19773,6 +19776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
 | Songs of the Lost | 120486 | [120486-songs-of-the-lost.json](./120486-songs-of-the-lost.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
+| Songs of the Shoals | 429642 | [429642-songs-of-the-shoals.json](./429642-songs-of-the-shoals.json) |
 | Songs of the Shore | 429585 | [429585-songs-of-the-shore.json](./429585-songs-of-the-shore.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
@@ -21897,6 +21901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sousei no Onmyouji | 122890 | [122890-sousei-no-onmyouji.json](./122890-sousei-no-onmyouji.json) |
 | Souseiki Gadget Robo | 137398 | [137398-souseiki-gadget-robo.json](./137398-souseiki-gadget-robo.json) |
 | Souseishi, Arui wa Doukoku no Mokushiroku: Incarnation Erased from History | 242485 | [242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json](./242485-souseishi-arui-wa-doukoku-no-mokushiroku-incarnation-erased-from-history.json) |
+| Soushunfu | 429636 | [429636-soushunfu.json](./429636-soushunfu.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | Soushuu Senshinkan Gakuen Hachimyoujin | 61685 | [61685-soushuu-senshinkan-gakuen-hachimyoujin.json](./61685-soushuu-senshinkan-gakuen-hachimyoujin.json) |
 | Souten Koihime: Dawn of Sovereignty | 411657 | [411657-souten-koihime-dawn-of-sovereignty.json](./411657-souten-koihime-dawn-of-sovereignty.json) |
@@ -34804,6 +34809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Side Nightmare | 320886 | [320886-sunny-side-nightmare.json](./320886-sunny-side-nightmare.json) |
 | Sunny Side Up | 410498 | [410498-sunny-side-up.json](./410498-sunny-side-up.json) |
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
+| Sunny Summer Splash | 429675 | [429675-sunny-summer-splash.json](./429675-sunny-summer-splash.json) |
 | Sunny Trails | 337867 | [337867-sunny-trails.json](./337867-sunny-trails.json) |
 | Sunny Village | 255931 | [255931-sunny-village.json](./255931-sunny-village.json) |
 | Sunny-Place | 142930 | [142930-sunny-place.json](./142930-sunny-place.json) |
@@ -39917,6 +39923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy and freedom | 231682 | [231682-suzy-and-freedom.json](./231682-suzy-and-freedom.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
+| Suzy Says! | 429643 | [429643-suzy-says.json](./429643-suzy-says.json) |
 | Suzy's Modular Run | 280025 | [280025-suzys-modular-run.json](./280025-suzys-modular-run.json) |
 | Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
 | Svajp | 119407 | [119407-svajp.json](./119407-svajp.json) |
@@ -41630,6 +41637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
 | System Arrival | 429349 | [429349-system-arrival.json](./429349-system-arrival.json) |
+| System Breakdown | 429666 | [429666-system-breakdown.json](./429666-system-breakdown.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
