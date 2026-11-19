@@ -17959,6 +17959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | Snowflakes in the Sun | 419612 | [419612-snowflakes-in-the-sun.json](./419612-snowflakes-in-the-sun.json) |
+| SnowFlow | 421028 | [421028-snowflow.json](./421028-snowflow.json) |
 | Snowfury | 262013 | [262013-snowfury.json](./262013-snowfury.json) |
 | Snowglobe | 80992 | [80992-snowglobe.json](./80992-snowglobe.json) |
 | Snowicks: Snow Battle | 107304 | [107304-snowicks-snow-battle.json](./107304-snowicks-snow-battle.json) |
@@ -18746,6 +18747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solanaceae: After All | 216530 | [216530-solanaceae-after-all.json](./216530-solanaceae-after-all.json) |
 | Solanaceae: Another Time | 225251 | [225251-solanaceae-another-time.json](./225251-solanaceae-another-time.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
+| Solar | 421037 | [421037-solar.json](./421037-solar.json) |
 | Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
@@ -20261,6 +20263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic no Daifuugou | 261276 | [261276-sonic-no-daifuugou.json](./261276-sonic-no-daifuugou.json) |
 | Sonic no Jigen Ressha | 261290 | [261290-sonic-no-jigen-ressha.json](./261290-sonic-no-jigen-ressha.json) |
 | Sonic no Jirai Sagashi Game | 261250 | [261250-sonic-no-jirai-sagashi-game.json](./261250-sonic-no-jirai-sagashi-game.json) |
+| Sonic Nocturnal | 421151 | [421151-sonic-nocturnal.json](./421151-sonic-nocturnal.json) |
 | Sonic NXT | 331979 | [331979-sonic-nxt.json](./331979-sonic-nxt.json) |
 | Sonic of the Ring Tutorials Room | 370242 | [370242-sonic-of-the-ring-tutorials-room.json](./370242-sonic-of-the-ring-tutorials-room.json) |
 | Sonic Omega | 331710 | [331710-sonic-omega.json](./331710-sonic-omega.json) |
@@ -20593,6 +20596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog RPG: In The Belly of The Beast | 317586 | [317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json](./317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json) |
 | Sonic the Hedgehog RPG: Past, Present, & Future | 370481 | [370481-sonic-the-hedgehog-rpg-past-present-and-future.json](./370481-sonic-the-hedgehog-rpg-past-present-and-future.json) |
 | Sonic the Hedgehog RPG: Return to Iron Lock | 317587 | [317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json](./317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json) |
+| Sonic the Hedgehog RPG: The Fastest Thing Alive | 421156 | [421156-sonic-the-hedgehog-rpg-the-fastest-thing-alive.json](./421156-sonic-the-hedgehog-rpg-the-fastest-thing-alive.json) |
 | Sonic the Hedgehog Snowday | 334688 | [334688-sonic-the-hedgehog-snowday.json](./334688-sonic-the-hedgehog-snowday.json) |
 | Sonic the Hedgehog Spinball | 198583 | [198583-sonic-the-hedgehog-spinball.json](./198583-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog Transitions | 228325 | [228325-sonic-the-hedgehog-transitions.json](./228325-sonic-the-hedgehog-transitions.json) |
@@ -24469,6 +24473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellchain | 181672 | [181672-spellchain.json](./181672-spellchain.json) |
+| Spellchain | 421141 | [421141-spellchain.json](./421141-spellchain.json) |
 | Spellchainer | 421139 | [421139-spellchainer.json](./421139-spellchainer.json) |
 | Spellchanted 2D Hidden Object Puzzle Adveture Tile-Matching | 321548 | [321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json](./321548-spellchanted-2d-hidden-object-puzzle-adveture-tile-matching.json) |
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
