@@ -14236,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be a Hero | 306295 | [306295-dont-be-a-hero.json](./306295-dont-be-a-hero.json) |
 | Don't Be A Square | 130461 | [130461-dont-be-a-square.json](./130461-dont-be-a-square.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
+| Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
 | Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
 | Don't Be Fool | 429529 | [429529-dont-be-fool.json](./429529-dont-be-fool.json) |
@@ -14808,10 +14809,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong: Original Edition | 85097 | [85097-donkey-kong-original-edition.json](./85097-donkey-kong-original-edition.json) |
 | Donkey Kong/Donkey Kong Jr./Mario Bros. | 131900 | [131900-donkey-kong-donkey-kong-jr-mario-bros.json](./131900-donkey-kong-donkey-kong-jr-mario-bros.json) |
 | Donkey Konga | 256803 | [256803-donkey-konga.json](./256803-donkey-konga.json) |
+| Donkey Konga | 256804 | [256804-donkey-konga.json](./256804-donkey-konga.json) |
 | Donkey Konga | 328664 | [328664-donkey-konga.json](./328664-donkey-konga.json) |
 | Donkey Konga | 3889 | [3889-donkey-konga.json](./3889-donkey-konga.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
+| Donkey Konga 2 | 256807 | [256807-donkey-konga-2.json](./256807-donkey-konga-2.json) |
 | Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
 | Donkey Konga 2: Hit Song Parade! | 3890 | [3890-donkey-konga-2-hit-song-parade.json](./3890-donkey-konga-2-hit-song-parade.json) |
 | Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku | 3891 | [3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json](./3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json) |
