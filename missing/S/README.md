@@ -31470,6 +31470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storybook Workshop | 50975 | [50975-storybook-workshop.json](./50975-storybook-workshop.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | Storycraft | 367158 | [367158-storycraft.json](./367158-storycraft.json) |
+| StoryForge | 423616 | [423616-storyforge.json](./423616-storyforge.json) |
 | StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyngton Hall | 320291 | [320291-storyngton-hall.json](./320291-storyngton-hall.json) |
 | Storynth | 137568 | [137568-storynth.json](./137568-storynth.json) |
