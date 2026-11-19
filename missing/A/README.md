@@ -13463,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
 | Aperture Dating Simulator | 349719 | [349719-aperture-dating-simulator.json](./349719-aperture-dating-simulator.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
+| Aperture Halloween | 427150 | [427150-aperture-halloween.json](./427150-aperture-halloween.json) |
 | Aperture Hand Lab | 120607 | [120607-aperture-hand-lab.json](./120607-aperture-hand-lab.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
