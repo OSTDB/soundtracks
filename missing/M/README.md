@@ -3442,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandalas | 172859 | [172859-mandalas.json](./172859-mandalas.json) |
 | Mandate of Heaven | 374122 | [374122-mandate-of-heaven.json](./374122-mandate-of-heaven.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
+| Mandated Fate | 428347 | [428347-mandated-fate.json](./428347-mandated-fate.json) |
 | Mandato | 418174 | [418174-mandato.json](./418174-mandato.json) |
 | Mandatory Fun | 348517 | [348517-mandatory-fun.json](./348517-mandatory-fun.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
