@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Ride! AMDriver: Shutsugeki! Battle Party | 49604 | [49604-get-ride-amdriver-shutsugeki-battle-party.json](./49604-get-ride-amdriver-shutsugeki-battle-party.json) |
 | Get Slapped! | 258405 | [258405-get-slapped.json](./258405-get-slapped.json) |
 | Get Some | 53083 | [53083-get-some.json](./53083-get-some.json) |
+| Get Stronger! Auto‑Chess | 423024 | [423024-get-stronger-auto-chess.json](./423024-get-stronger-auto-chess.json) |
 | Get Stuffed! | 164596 | [164596-get-stuffed.json](./164596-get-stuffed.json) |
 | Get Stuffed! | 175655 | [175655-get-stuffed.json](./175655-get-stuffed.json) |
 | Get sword, kill dragon, save princess | 138978 | [138978-get-sword-kill-dragon-save-princess.json](./138978-get-sword-kill-dragon-save-princess.json) |
@@ -4940,6 +4941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantropolis | 239823 | [239823-gigantropolis.json](./239823-gigantropolis.json) |
 | Gigapocalypse | 158921 | [158921-gigapocalypse.json](./158921-gigapocalypse.json) |
 | GigaSlave | 348455 | [348455-gigaslave.json](./348455-gigaslave.json) |
+| GigaStriker | 423011 | [423011-gigastriker.json](./423011-gigastriker.json) |
 | GigaSword | 177317 | [177317-gigasword.json](./177317-gigasword.json) |
 | Gigawing Generations | 43477 | [43477-gigawing-generations.json](./43477-gigawing-generations.json) |
 | Gigglebug | 175094 | [175094-gigglebug.json](./175094-gigglebug.json) |
