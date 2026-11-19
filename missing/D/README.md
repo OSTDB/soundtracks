@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dashems | 427113 | [427113-dashems.json](./427113-dashems.json) |
+| Dàshèng Fúmó: Hēi Shénhuà zhī Wújiàn Jié | 427781 | [427781-dasheng-fumo-hei-shenhua-zhi-wujian-jie.json](./427781-dasheng-fumo-hei-shenhua-zhi-wujian-jie.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dasher 3D | 179423 | [179423-dasher-3d.json](./179423-dasher-3d.json) |
 | Dashero: Sword & Magic | 138378 | [138378-dashero-sword-and-magic.json](./138378-dashero-sword-and-magic.json) |
@@ -5800,6 +5801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckmancers | 348545 | [348545-deckmancers.json](./348545-deckmancers.json) |
 | Deckmate! | 249005 | [249005-deckmate.json](./249005-deckmate.json) |
 | Deckout | 373663 | [373663-deckout.json](./373663-deckout.json) |
+| DeckRush | 427796 | [427796-deckrush.json](./427796-deckrush.json) |
 | Deckrypt | 416590 | [416590-deckrypt.json](./416590-deckrypt.json) |
 | Decks | 132873 | [132873-decks.json](./132873-decks.json) |
 | Decks & Daggers | 149809 | [149809-decks-and-daggers.json](./149809-decks-and-daggers.json) |
@@ -18136,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadOut: Keepers of The Dark | 20179 | [20179-dreadout-keepers-of-the-dark.json](./20179-dreadout-keepers-of-the-dark.json) |
 | DreadOut: Remastered Collection | 52944 | [52944-dreadout-remastered-collection.json](./52944-dreadout-remastered-collection.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
+| Dreadshift | 427797 | [427797-dreadshift.json](./427797-dreadshift.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
 | Dreadstone Keep | 237461 | [237461-dreadstone-keep.json](./237461-dreadstone-keep.json) |
