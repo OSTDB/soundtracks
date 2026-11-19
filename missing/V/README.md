@@ -1979,7 +1979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vetrix Worlds | 235646 | [235646-vetrix-worlds.json](./235646-vetrix-worlds.json) |
 | Vette! | 12488 | [12488-vette.json](./12488-vette.json) |
 | VetVR: Veterinary Simulator | 236025 | [236025-vetvr-veterinary-simulator.json](./236025-vetvr-veterinary-simulator.json) |
-| VEV: Viva Ex Vivo | 19861 | [19861-vev-viva-ex-vivo.json](./19861-vev-viva-ex-vivo.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 100266 | [100266-vex.json](./100266-vex.json) |
 | Vex | 32236 | [32236-vex.json](./32236-vex.json) |
