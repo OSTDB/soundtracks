@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Legends | 401323 | [401323-hanafuda-legends.json](./401323-hanafuda-legends.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Shiyouyo | 37505 | [37505-hanafuda-shiyouyo.json](./37505-hanafuda-shiyouyo.json) |
+| Hanafuda Solitaire | 429031 | [429031-hanafuda-solitaire.json](./429031-hanafuda-solitaire.json) |
 | Hanafuda Trump Mahjong: Depachika Wayounaka | 49635 | [49635-hanafuda-trump-mahjong-depachika-wayounaka.json](./49635-hanafuda-trump-mahjong-depachika-wayounaka.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanafuda-kyou | 416272 | [416272-hanafuda-kyou.json](./416272-hanafuda-kyou.json) |
