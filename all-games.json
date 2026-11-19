@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T03:25:55.124Z",
-  "total_soundtracks": 3852,
+  "generated_at": "2026-11-19T10:15:56.325Z",
+  "total_soundtracks": 3853,
   "games": [
     {
       "igdb_id": 292844,
@@ -7199,6 +7199,20 @@
         {
           "album_name": "Century: Age of Ashes (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/585Btyo2jbgjL2svkOsmWC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20061,
+      "game_name": "Chain Chronicle",
+      "game_url": "https://ostdb.net/games/chain-chronicle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273191816db12caccfef63f2d1b",
+      "albums": [
+        {
+          "album_name": "Chain Chronicle Original Soundtrack (Chain Band Version 2)",
+          "spotify_url": "https://open.spotify.com/album/3QxSL4r54yXErRSOEcsKTN",
           "apple_music_url": "",
           "album_link_url": ""
         }
