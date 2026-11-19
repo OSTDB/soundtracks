@@ -2265,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Wars | 151263 | [151263-zombie-wars.json](./151263-zombie-wars.json) |
 | Zombie Wars: Invasion | 33859 | [33859-zombie-wars-invasion.json](./33859-zombie-wars-invasion.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
+| Zombie Wasteland Together | 423613 | [423613-zombie-wasteland-together.json](./423613-zombie-wasteland-together.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Waves | 234419 | [234419-zombie-waves.json](./234419-zombie-waves.json) |
 | Zombie Within | 240615 | [240615-zombie-within.json](./240615-zombie-within.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
 | Zombikini PinballZ | 258886 | [258886-zombikini-pinballz.json](./258886-zombikini-pinballz.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
+| Zombillionaire | 423614 | [423614-zombillionaire.json](./423614-zombillionaire.json) |
 | Zombinions | 235041 | [235041-zombinions.json](./235041-zombinions.json) |
 | Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
