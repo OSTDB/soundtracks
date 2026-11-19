@@ -10108,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cicadia | 408916 | [408916-cicadia.json](./408916-cicadia.json) |
 | Cicads 3301 | 110647 | [110647-cicads-3301.json](./110647-cicads-3301.json) |
 | Ciclico | 349396 | [349396-ciclico.json](./349396-ciclico.json) |
+| Ciconia When They Cry: Phase 1 - For You, the Replaceable Ones | 123853 | [123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json](./123853-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cid and Chocobo's Mysterious Dungeon: Labyrinth of Forgotten Time DS+ | 47875 | [47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json](./47875-cid-and-chocobos-mysterious-dungeon-labyrinth-of-forgotten-time-ds.json) |
 | Cid to Chocobo no Fushigi na Dungeon Toki Wasure no Meikyuu DS+ | 22904 | [22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json](./22904-cid-to-chocobo-no-fushigi-na-dungeon-toki-wasure-no-meikyuu-ds.json) |
@@ -14914,6 +14915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Aces of the Deep | 72276 | [72276-command-aces-of-the-deep.json](./72276-command-aces-of-the-deep.json) |
 | Command: Modern Air / Naval Operations | 79974 | [79974-command-modern-air-naval-operations.json](./79974-command-modern-air-naval-operations.json) |
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
+| Command: Modern Operations | 123352 | [123352-command-modern-operations.json](./123352-command-modern-operations.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Chains of War | 36628 | [36628-command-modern-operations-chains-of-war.json](./36628-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Desert Storm | 115909 | [115909-command-modern-operations-desert-storm.json](./115909-command-modern-operations-desert-storm.json) |
@@ -22703,6 +22705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
 | Curse in our heads | 103452 | [103452-curse-in-our-heads.json](./103452-curse-in-our-heads.json) |
 | Curse Lsland | 157925 | [157925-curse-lsland.json](./157925-curse-lsland.json) |
+| Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Argentum | 360329 | [360329-curse-of-argentum.json](./360329-curse-of-argentum.json) |
 | Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
 | Curse of Aros | 124372 | [124372-curse-of-aros.json](./124372-curse-of-aros.json) |
