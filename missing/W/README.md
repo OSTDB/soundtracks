@@ -2802,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Tank | 239718 | [239718-water-tank.json](./239718-water-tank.json) |
 | Water TD | 430069 | [430069-water-td.json](./430069-water-td.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
+| Water Warfare | 21212 | [21212-water-warfare.json](./21212-water-warfare.json) |
 | Water Wars | 123196 | [123196-water-wars.json](./123196-water-wars.json) |
 | Water We Doing? | 406626 | [406626-water-we-doing.json](./406626-water-we-doing.json) |
 | Water Wheel | 249401 | [249401-water-wheel.json](./249401-water-wheel.json) |
@@ -6052,6 +6053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
+| Wild West Guns | 21805 | [21805-wild-west-guns.json](./21805-wild-west-guns.json) |
 | Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
 | Wild West Legacy | 149118 | [149118-wild-west-legacy.json](./149118-wild-west-legacy.json) |
 | Wild West Math | 133523 | [133523-wild-west-math.json](./133523-wild-west-math.json) |
@@ -6851,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post EX | 63591 | [63591-winning-post-ex.json](./63591-winning-post-ex.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
 | Winning Post World 2010 | 66821 | [66821-winning-post-world-2010.json](./66821-winning-post-world-2010.json) |
+| Winning Putt | 21652 | [21652-winning-putt.json](./21652-winning-putt.json) |
 | Winning Putt: Golf Online | 33125 | [33125-winning-putt-golf-online.json](./33125-winning-putt-golf-online.json) |
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
 | Winning Shot | 43190 | [43190-winning-shot.json](./43190-winning-shot.json) |
@@ -6960,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Sports | 301449 | [301449-winter-sports.json](./301449-winter-sports.json) |
 | Winter Sports 2: The Next Challenge | 5285 | [5285-winter-sports-2-the-next-challenge.json](./5285-winter-sports-2-the-next-challenge.json) |
 | Winter Sports 2009: The Next Challenge | 24487 | [24487-winter-sports-2009-the-next-challenge.json](./24487-winter-sports-2009-the-next-challenge.json) |
+| Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
 | Winter Sports 3: The Great Tournament | 51026 | [51026-winter-sports-3-the-great-tournament.json](./51026-winter-sports-3-the-great-tournament.json) |
