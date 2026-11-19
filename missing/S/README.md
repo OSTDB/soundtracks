@@ -9419,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifting World | 23399 | [23399-shifting-world.json](./23399-shifting-world.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
 | Shiftlings: Enhanced Edition | 86377 | [86377-shiftlings-enhanced-edition.json](./86377-shiftlings-enhanced-edition.json) |
+| Shiftomino | 427213 | [427213-shiftomino.json](./427213-shiftomino.json) |
 | Shifty | 217777 | [217777-shifty.json](./217777-shifty.json) |
 | Shigaisen 200X-nen | 394043 | [394043-shigaisen-200x-nen.json](./394043-shigaisen-200x-nen.json) |
 | Shigatari | 55307 | [55307-shigatari.json](./55307-shigatari.json) |
@@ -13246,6 +13247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Night 2 | 292467 | [292467-sinister-night-2.json](./292467-sinister-night-2.json) |
 | Sinister Nights | 271590 | [271590-sinister-nights.json](./271590-sinister-nights.json) |
 | Sinister Outbreak | 366118 | [366118-sinister-outbreak.json](./366118-sinister-outbreak.json) |
+| Sinister Reflection | 427172 | [427172-sinister-reflection.json](./427172-sinister-reflection.json) |
 | Sinister Remains | 372020 | [372020-sinister-remains.json](./372020-sinister-remains.json) |
 | Sinister Sacrifice | 235945 | [235945-sinister-sacrifice.json](./235945-sinister-sacrifice.json) |
 | Sinister Seven | 275636 | [275636-sinister-seven.json](./275636-sinister-seven.json) |
@@ -17811,6 +17813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Strike | 15372 | [15372-snow-strike.json](./15372-snow-strike.json) |
 | Snow Survival | 151518 | [151518-snow-survival.json](./151518-snow-survival.json) |
+| Snow That Hums | 427151 | [427151-snow-that-hums.json](./427151-snow-that-hums.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow Trail | 155821 | [155821-snow-trail.json](./155821-snow-trail.json) |
 | Snow Trial | 88125 | [88125-snow-trial.json](./88125-snow-trial.json) |
@@ -23920,6 +23923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
 | Spectipede | 63482 | [63482-spectipede.json](./63482-spectipede.json) |
 | Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
+| Spectr: Rekindle the World | 427066 | [427066-spectr-rekindle-the-world.json](./427066-spectr-rekindle-the-world.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 275506 | [275506-spectra.json](./275506-spectra.json) |
 | Spectra Echo VR | 248945 | [248945-spectra-echo-vr.json](./248945-spectra-echo-vr.json) |
