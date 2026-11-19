@@ -13514,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
+| Polar Bear Is Hungry | 429673 | [429673-polar-bear-is-hungry.json](./429673-polar-bear-is-hungry.json) |
 | Polar Bear Payback | 396706 | [396706-polar-bear-payback.json](./396706-polar-bear-payback.json) |
 | Polar Bear Riding A Ninja | 204320 | [204320-polar-bear-riding-a-ninja.json](./204320-polar-bear-riding-a-ninja.json) |
 | Polar Bear Simulator | 106147 | [106147-polar-bear-simulator.json](./106147-polar-bear-simulator.json) |
@@ -17628,6 +17629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profi Girls | 247959 | [247959-profi-girls.json](./247959-profi-girls.json) |
 | Proficient Paddles | 104323 | [104323-proficient-paddles.json](./104323-proficient-paddles.json) |
 | Proficient Paddles Deluxe | 115935 | [115935-proficient-paddles-deluxe.json](./115935-proficient-paddles-deluxe.json) |
+| Profile Perfect | 429650 | [429650-profile-perfect.json](./429650-profile-perfect.json) |
 | Profiler Files: New Orleans | 280384 | [280384-profiler-files-new-orleans.json](./280384-profiler-files-new-orleans.json) |
 | Profiler: The Hopscotch Killer - Extended Edition | 262360 | [262360-profiler-the-hopscotch-killer-extended-edition.json](./262360-profiler-the-hopscotch-killer-extended-edition.json) |
 | Profiles of the Forgotten | 123419 | [123419-profiles-of-the-forgotten.json](./123419-profiles-of-the-forgotten.json) |
