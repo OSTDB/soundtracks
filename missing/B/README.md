@@ -6965,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behemoth | 274122 | [274122-behemoth.json](./274122-behemoth.json) |
 | Behemoth | 320724 | [320724-behemoth.json](./320724-behemoth.json) |
 | Behemoth | 323797 | [323797-behemoth.json](./323797-behemoth.json) |
+| Behemoth | 421657 | [421657-behemoth.json](./421657-behemoth.json) |
 | Beherit | 125350 | [125350-beherit.json](./125350-beherit.json) |
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
 | Behind Border Zone | 372215 | [372215-behind-border-zone.json](./372215-behind-border-zone.json) |
@@ -7556,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berks 3: They're Angry! | 60520 | [60520-berks-3-theyre-angry.json](./60520-berks-3-theyre-angry.json) |
 | Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
+| Berlin 1955 | 421647 | [421647-berlin-1955.json](./421647-berlin-1955.json) |
 | Berlin Connection | 93397 | [93397-berlin-connection.json](./93397-berlin-connection.json) |
 | Berlin Maniacs | 213507 | [213507-berlin-maniacs.json](./213507-berlin-maniacs.json) |
 | Berlin no Kabe | 46322 | [46322-berlin-no-kabe.json](./46322-berlin-no-kabe.json) |
@@ -13305,6 +13307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Honey | 416862 | [416862-blue-honey.json](./416862-blue-honey.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
 | Blue Horizon: Hibiscus, and the Loved Garden Paths of Raj Rivera | 395997 | [395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json](./395997-blue-horizon-hibiscus-and-the-loved-garden-paths-of-raj-rivera.json) |
+| Blue Horizon: The Pretty Boy Antonio Chandrani-Rivera | 421667 | [421667-blue-horizon-the-pretty-boy-antonio-chandrani-rivera.json](./421667-blue-horizon-the-pretty-boy-antonio-chandrani-rivera.json) |
 | Blue Hunter | 303167 | [303167-blue-hunter.json](./303167-blue-hunter.json) |
 | Blue Ice | 71654 | [71654-blue-ice.json](./71654-blue-ice.json) |
 | Blue Intervention | 219213 | [219213-blue-intervention.json](./219213-blue-intervention.json) |
@@ -13920,6 +13923,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Special 264: Girls in Motion Puzzle Vol. 2 | 45408 | [45408-body-special-264-girls-in-motion-puzzle-vol-2.json](./45408-body-special-264-girls-in-motion-puzzle-vol-2.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | Body. Electric. | 225979 | [225979-body-electric.json](./225979-body-electric.json) |
+| Bodybuilder Simulator | 421734 | [421734-bodybuilder-simulator.json](./421734-bodybuilder-simulator.json) |
+| Bodybuilder Simulator Co-op | 421733 | [421733-bodybuilder-simulator-co-op.json](./421733-bodybuilder-simulator-co-op.json) |
 | BodyCam 2025 | 368253 | [368253-bodycam-2025.json](./368253-bodycam-2025.json) |
 | BodyCam Assault Shooter | 322509 | [322509-bodycam-assault-shooter.json](./322509-bodycam-assault-shooter.json) |
 | BodyCam GangZone | 335092 | [335092-bodycam-gangzone.json](./335092-bodycam-gangzone.json) |
@@ -17210,6 +17215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread Makes the Heart Aflutter | 368693 | [368693-bread-makes-the-heart-aflutter.json](./368693-bread-makes-the-heart-aflutter.json) |
+| Bread Makes the Heart Aflutter: The Baker's First Ball | 421528 | [421528-bread-makes-the-heart-aflutter-the-bakers-first-ball.json](./421528-bread-makes-the-heart-aflutter-the-bakers-first-ball.json) |
 | Bread Minus | 179770 | [179770-bread-minus.json](./179770-bread-minus.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
 | Bread Puppies | 62046 | [62046-bread-puppies.json](./62046-bread-puppies.json) |
@@ -21044,6 +21050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
+| Butts in Space: Porcelain Peril | 421660 | [421660-butts-in-space-porcelain-peril.json](./421660-butts-in-space-porcelain-peril.json) |
 | Butts: The VR Experience | 33602 | [33602-butts-the-vr-experience.json](./33602-butts-the-vr-experience.json) |
 | Buttsubushi | 43800 | [43800-buttsubushi.json](./43800-buttsubushi.json) |
 | Butty Buttbear's Big Butty Blast | 336315 | [336315-butty-buttbears-big-butty-blast.json](./336315-butty-buttbears-big-butty-blast.json) |
