@@ -7827,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
 | Goliath Depot | 260432 | [260432-goliath-depot.json](./260432-goliath-depot.json) |
+| Goliath Rogue | 426575 | [426575-goliath-rogue.json](./426575-goliath-rogue.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Goliath: Summertime Gnarkness | 155330 | [155330-goliath-summertime-gnarkness.json](./155330-goliath-summertime-gnarkness.json) |
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
