@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalevala: Where Heroes Go to Die | 293293 | [293293-kalevala-where-heroes-go-to-die.json](./293293-kalevala-where-heroes-go-to-die.json) |
 | Kalevania | 247825 | [247825-kalevania.json](./247825-kalevania.json) |
 | Kali | 176269 | [176269-kali.json](./176269-kali.json) |
+| Kali | 418039 | [418039-kali.json](./418039-kali.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
 | Kalia and The Fire Staff | 282832 | [282832-kalia-and-the-fire-staff.json](./282832-kalia-and-the-fire-staff.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak League | 236467 | [236467-kayak-league.json](./236467-kayak-league.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
+| Kayak with Friends | 418046 | [418046-kayak-with-friends.json](./418046-kayak-with-friends.json) |
 | Kayaking | 363097 | [363097-kayaking.json](./363097-kayaking.json) |
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayalina | 67911 | [67911-kayalina.json](./67911-kayalina.json) |
@@ -4690,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Cannon! | 234294 | [234294-kitten-cannon.json](./234294-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Combat | 418132 | [418132-kitten-combat.json](./418132-kitten-combat.json) |
 | Kitten Command | 321684 | [321684-kitten-command.json](./321684-kitten-command.json) |
 | Kitten Connection | 422816 | [422816-kitten-connection.json](./422816-kitten-connection.json) |
 | Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
