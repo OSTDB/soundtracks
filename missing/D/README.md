@@ -7446,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Quest '85 | 151963 | [151963-demon-quest-85.json](./151963-demon-quest-85.json) |
 | Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
+| Demon Rising | 424782 | [424782-demon-rising.json](./424782-demon-rising.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Runner: The Forsaken | 175646 | [175646-demon-runner-the-forsaken.json](./175646-demon-runner-the-forsaken.json) |
@@ -8434,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Mars | 388330 | [388330-desktop-mars.json](./388330-desktop-mars.json) |
 | Desktop Meadow | 142795 | [142795-desktop-meadow.json](./142795-desktop-meadow.json) |
+| Desktop Monkey | 424793 | [424793-desktop-monkey.json](./424793-desktop-monkey.json) |
 | Desktop Nard | 389544 | [389544-desktop-nard.json](./389544-desktop-nard.json) |
 | Desktop Pals | 306687 | [306687-desktop-pals.json](./306687-desktop-pals.json) |
 | Desktop Pasture | 360667 | [360667-desktop-pasture.json](./360667-desktop-pasture.json) |
@@ -8468,6 +8470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop: Null | 425787 | [425787-desktop-null.json](./425787-desktop-null.json) |
 | Desktopia: A Desktop Village Simulator | 212720 | [212720-desktopia-a-desktop-village-simulator.json](./212720-desktopia-a-desktop-village-simulator.json) |
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
+| DesktopSaurs | 424763 | [424763-desktopsaurs.json](./424763-desktopsaurs.json) |
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
 | Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
 | Deskworm | 387487 | [387487-deskworm.json](./387487-deskworm.json) |
@@ -18052,6 +18055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drayt Empire | 32032 | [32032-drayt-empire.json](./32032-drayt-empire.json) |
 | Drazen Petrovic Basket | 69676 | [69676-drazen-petrovic-basket.json](./69676-drazen-petrovic-basket.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
+| Drazy and the Puppets JB | 424815 | [424815-drazy-and-the-puppets-jb.json](./424815-drazy-and-the-puppets-jb.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
 | Dread Admiral | 403933 | [403933-dread-admiral.json](./403933-dread-admiral.json) |
 | Dread Chess | 338338 | [338338-dread-chess.json](./338338-dread-chess.json) |
