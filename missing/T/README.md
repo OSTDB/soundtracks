@@ -6657,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Antidote | 115244 | [115244-the-antidote.json](./115244-the-antidote.json) |
+| The Antique Store | 425900 | [425900-the-antique-store.json](./425900-the-antique-store.json) |
 | The Ants: Underground Kingdom | 196412 | [196412-the-ants-underground-kingdom.json](./196412-the-ants-underground-kingdom.json) |
 | The Anubis Treasure | 372433 | [372433-the-anubis-treasure.json](./372433-the-anubis-treasure.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
@@ -8267,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Circulation of Shadows | 271462 | [271462-the-circulation-of-shadows.json](./271462-the-circulation-of-shadows.json) |
 | The Circus | 199245 | [199245-the-circus.json](./199245-the-circus.json) |
 | The Circus of Misfortune | 364662 | [364662-the-circus-of-misfortune.json](./364662-the-circus-of-misfortune.json) |
+| The Circus That Never Left | 425885 | [425885-the-circus-that-never-left.json](./425885-the-circus-that-never-left.json) |
 | The Citadel | 184356 | [184356-the-citadel.json](./184356-the-citadel.json) |
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
 | The Citadel Must Hold | 421801 | [421801-the-citadel-must-hold.json](./421801-the-citadel-must-hold.json) |
@@ -13445,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth | 239979 | [239979-the-labyrinth.json](./239979-the-labyrinth.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
+| The Labyrinth | 425901 | [425901-the-labyrinth.json](./425901-the-labyrinth.json) |
 | The Labyrinth Adventure of Demons | 195255 | [195255-the-labyrinth-adventure-of-demons.json](./195255-the-labyrinth-adventure-of-demons.json) |
 | The Labyrinth Inferno | 421190 | [421190-the-labyrinth-inferno.json](./421190-the-labyrinth-inferno.json) |
 | The Labyrinth of Far Water Grove | 182741 | [182741-the-labyrinth-of-far-water-grove.json](./182741-the-labyrinth-of-far-water-grove.json) |
@@ -19343,6 +19346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spectral Web: Hitodama | 264575 | [264575-the-spectral-web-hitodama.json](./264575-the-spectral-web-hitodama.json) |
 | The Spectre Files: Deathstalker | 156774 | [156774-the-spectre-files-deathstalker.json](./156774-the-spectre-files-deathstalker.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
+| The Spectrum Retreat: Redux | 425973 | [425973-the-spectrum-retreat-redux.json](./425973-the-spectrum-retreat-redux.json) |
 | The Spectrum Soup | 183342 | [183342-the-spectrum-soup.json](./183342-the-spectrum-soup.json) |
 | The Spell | 416239 | [416239-the-spell.json](./416239-the-spell.json) |
 | The Spell Brigade | 297683 | [297683-the-spell-brigade.json](./297683-the-spell-brigade.json) |
@@ -26564,6 +26568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinselfly | 121312 | [121312-tinselfly.json](./121312-tinselfly.json) |
 | Tinseltown Dreams | 54193 | [54193-tinseltown-dreams.json](./54193-tinseltown-dreams.json) |
 | Tinseltown Tycoon | 157889 | [157889-tinseltown-tycoon.json](./157889-tinseltown-tycoon.json) |
+| Tinselwood | 425753 | [425753-tinselwood.json](./425753-tinselwood.json) |
 | TinShift | 148008 | [148008-tinshift.json](./148008-tinshift.json) |
 | Tint n Ink | 171975 | [171975-tint-n-ink.json](./171975-tint-n-ink.json) |
 | Tint The Saver | 334181 | [334181-tint-the-saver.json](./334181-tint-the-saver.json) |
