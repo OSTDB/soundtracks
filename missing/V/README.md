@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla and the Lord of Infinity | 12811 | [12811-valhalla-and-the-lord-of-infinity.json](./12811-valhalla-and-the-lord-of-infinity.json) |
 | Valhalla Awaits | 334197 | [334197-valhalla-awaits.json](./334197-valhalla-awaits.json) |
 | Valhalla Chronicles | 64388 | [64388-valhalla-chronicles.json](./64388-valhalla-chronicles.json) |
+| Valhalla Hills | 12080 | [12080-valhalla-hills.json](./12080-valhalla-hills.json) |
 | Valhalla Hills: Fire Mountains | 151390 | [151390-valhalla-hills-fire-mountains.json](./151390-valhalla-hills-fire-mountains.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Hills: Two-Horned Helmet Edition | 51791 | [51791-valhalla-hills-two-horned-helmet-edition.json](./51791-valhalla-hills-two-horned-helmet-edition.json) |
@@ -1073,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
 | Vasara | 40293 | [40293-vasara.json](./40293-vasara.json) |
 | Vasara 2 | 40294 | [40294-vasara-2.json](./40294-vasara-2.json) |
+| Vasara Collection | 114765 | [114765-vasara-collection.json](./114765-vasara-collection.json) |
 | Vascolet: La Fórmula Secreta | 159006 | [159006-vascolet-la-formula-secreta.json](./159006-vascolet-la-formula-secreta.json) |
 | Vascolet: La Máquina del Tiempo | 159005 | [159005-vascolet-la-maquina-del-tiempo.json](./159005-vascolet-la-maquina-del-tiempo.json) |
 | Vasilis | 113489 | [113489-vasilis.json](./113489-vasilis.json) |
@@ -2174,7 +2176,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
 | Victoria II: Interwar Cavalry Unit Pack | 226893 | [226893-victoria-ii-interwar-cavalry-unit-pack.json](./226893-victoria-ii-interwar-cavalry-unit-pack.json) |
 | Victoria Kopernik: Mother | 371853 | [371853-victoria-kopernik-mother.json](./371853-victoria-kopernik-mother.json) |
+| Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: La Primera | 325978 | [325978-victoria-la-primera.json](./325978-victoria-la-primera.json) |
+| Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
 | Victoriam | 374917 | [374917-victoriam.json](./374917-victoriam.json) |
 | Victorian Admirals | 17039 | [17039-victorian-admirals.json](./17039-victorian-admirals.json) |
@@ -2932,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter Cool Champ | 295133 | [295133-virtua-fighter-cool-champ.json](./295133-virtua-fighter-cool-champ.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Kids | 1549 | [1549-virtua-fighter-kids.json](./1549-virtua-fighter-kids.json) |
+| Virtua Fighter PC | 1546 | [1546-virtua-fighter-pc.json](./1546-virtua-fighter-pc.json) |
 | Virtua Fighter Recomp | 423261 | [423261-virtua-fighter-recomp.json](./423261-virtua-fighter-recomp.json) |
 | Virtua Fighter Remix | 145524 | [145524-virtua-fighter-remix.json](./145524-virtua-fighter-remix.json) |
 | Virtua Fighter: Fever Combo | 61862 | [61862-virtua-fighter-fever-combo.json](./61862-virtua-fighter-fever-combo.json) |
@@ -3979,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcano Tower | 101242 | [101242-volcano-tower.json](./101242-volcano-tower.json) |
 | Volcano Valley | 317799 | [317799-volcano-valley.json](./317799-volcano-valley.json) |
 | Volcano! Mount Saint Helens | 209438 | [209438-volcano-mount-saint-helens.json](./209438-volcano-mount-saint-helens.json) |
+| Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
 | Voldark | 413507 | [413507-voldark.json](./413507-voldark.json) |
