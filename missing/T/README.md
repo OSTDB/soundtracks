@@ -15051,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Journeys in Middle-earth | 115329 | [115329-the-lord-of-the-rings-journeys-in-middle-earth.json](./115329-the-lord-of-the-rings-journeys-in-middle-earth.json) |
 | The Lord of the Rings: Journeys in Middle-earth - Haunting of Dale | 174416 | [174416-the-lord-of-the-rings-journeys-in-middle-earth-haunting-of-dale.json](./174416-the-lord-of-the-rings-journeys-in-middle-earth-haunting-of-dale.json) |
 | The Lord of the Rings: Legends | 353610 | [353610-the-lord-of-the-rings-legends.json](./353610-the-lord-of-the-rings-legends.json) |
+| The Lord of the Rings: Return to Moria - Collector's Edition | 413270 | [413270-the-lord-of-the-rings-return-to-moria-collectors-edition.json](./413270-the-lord-of-the-rings-return-to-moria-collectors-edition.json) |
 | The Lord of the Rings: Return to Moria - Durin's Folk Expansion | 357520 | [357520-the-lord-of-the-rings-return-to-moria-durins-folk-expansion.json](./357520-the-lord-of-the-rings-return-to-moria-durins-folk-expansion.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
@@ -21801,6 +21802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf's Hunt | 288619 | [288619-the-wolfs-hunt.json](./288619-the-wolfs-hunt.json) |
 | The Wolf's Shepherd | 184680 | [184680-the-wolfs-shepherd.json](./184680-the-wolfs-shepherd.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
+| The Wombles | 416929 | [416929-the-wombles.json](./416929-the-wombles.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
 | The Wonder Stone | 208137 | [208137-the-wonder-stone.json](./208137-the-wonder-stone.json) |
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
@@ -23197,6 +23199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Goblets | 101689 | [101689-three-goblets.json](./101689-three-goblets.json) |
 | Three Goblin Wobblin' | 267076 | [267076-three-goblin-wobblin.json](./267076-three-goblin-wobblin.json) |
 | Three Guys That Paint | 124674 | [124674-three-guys-that-paint.json](./124674-three-guys-that-paint.json) |
+| Three Headed Santa: The Awakening | 415524 | [415524-three-headed-santa-the-awakening.json](./415524-three-headed-santa-the-awakening.json) |
 | Three Heroes | 34990 | [34990-three-heroes.json](./34990-three-heroes.json) |
 | Three Hoops | 233076 | [233076-three-hoops.json](./233076-three-hoops.json) |
 | Three in a Rogue | 172908 | [172908-three-in-a-rogue.json](./172908-three-in-a-rogue.json) |
