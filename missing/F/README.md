@@ -10728,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootballTeam | 153801 | [153801-footballteam.json](./153801-footballteam.json) |
 | FootCareer Ult | 311910 | [311910-footcareer-ult.json](./311910-footcareer-ult.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
+| Footgolf | 427805 | [427805-footgolf.json](./427805-footgolf.json) |
 | Footgun: Underground | 226468 | [226468-footgun-underground.json](./226468-footgun-underground.json) |
 | Foothold | 288391 | [288391-foothold.json](./288391-foothold.json) |
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
@@ -13456,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freelancer: HD Edition | 269642 | [269642-freelancer-hd-edition.json](./269642-freelancer-hd-edition.json) |
 | Freelancers: Rogue Skies | 372528 | [372528-freelancers-rogue-skies.json](./372528-freelancers-rogue-skies.json) |
+| FreeLances: Blood for Profit | 427789 | [427789-freelances-blood-for-profit.json](./427789-freelances-blood-for-profit.json) |
 | Freeland | 208423 | [208423-freeland.json](./208423-freeland.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freelands | 396529 | [396529-freelands.json](./396529-freelands.json) |
@@ -15712,6 +15714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Cyberfucker II | 204029 | [204029-furry-cyberfucker-ii.json](./204029-furry-cyberfucker-ii.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
+| Furry Dots | 427750 | [427750-furry-dots.json](./427750-furry-dots.json) |
 | Furry Dream | 236118 | [236118-furry-dream.json](./236118-furry-dream.json) |
 | Furry Dreams | 385011 | [385011-furry-dreams.json](./385011-furry-dreams.json) |
 | Furry Exodus | 330085 | [330085-furry-exodus.json](./330085-furry-exodus.json) |
