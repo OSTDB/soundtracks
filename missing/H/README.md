@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haul Away Joe | 176393 | [176393-haul-away-joe.json](./176393-haul-away-joe.json) |
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
 | Haul Yeah! | 428997 | [428997-haul-yeah.json](./428997-haul-yeah.json) |
+| Haulage Simulator | 422388 | [422388-haulage-simulator.json](./422388-haulage-simulator.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
 | Hauma: A Detective Noir Story | 149867 | [149867-hauma-a-detective-noir-story.json](./149867-hauma-a-detective-noir-story.json) |
@@ -3802,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
+| Heart Harvest: A Detective Game | 422367 | [422367-heart-harvest-a-detective-game.json](./422367-heart-harvest-a-detective-game.json) |
 | Heart Heroes: Wolf Knight | 258767 | [258767-heart-heroes-wolf-knight.json](./258767-heart-heroes-wolf-knight.json) |
 | Heart Idler | 349012 | [349012-heart-idler.json](./349012-heart-idler.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
@@ -13129,6 +13131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Howdy! The Western Game | 100584 | [100584-howdy-the-western-game.json](./100584-howdy-the-western-game.json) |
+| Howell Land | 422342 | [422342-howell-land.json](./422342-howell-land.json) |
 | Howie Go Viral | 140258 | [140258-howie-go-viral.json](./140258-howie-go-viral.json) |
 | Howl | 256476 | [256476-howl.json](./256476-howl.json) |
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
