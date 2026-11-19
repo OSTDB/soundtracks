@@ -9053,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chondriatic | 258572 | [258572-chondriatic.json](./258572-chondriatic.json) |
 | Chóngshēng Zhànshì | 158537 | [158537-chongsheng-zhanshi.json](./158537-chongsheng-zhanshi.json) |
 | Chonka | 142212 | [142212-chonka.json](./142212-chonka.json) |
+| ChonkBlocker | 427879 | [427879-chonkblocker.json](./427879-chonkblocker.json) |
 | Chonkers | 324792 | [324792-chonkers.json](./324792-chonkers.json) |
 | Chonky Cat | 407703 | [407703-chonky-cat.json](./407703-chonky-cat.json) |
 | Chonky: From Breakfast to Domination | 207492 | [207492-chonky-from-breakfast-to-domination.json](./207492-chonky-from-breakfast-to-domination.json) |
@@ -9783,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Bullet | 275974 | [275974-chrono-bullet.json](./275974-chrono-bullet.json) |
 | Chrono Cards | 424822 | [424822-chrono-cards.json](./424822-chrono-cards.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
+| Chrono Chasm | 427864 | [427864-chrono-chasm.json](./427864-chrono-chasm.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
 | Chrono Club: Race Against Time | 309726 | [309726-chrono-club-race-against-time.json](./309726-chrono-club-race-against-time.json) |
