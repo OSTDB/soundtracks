@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Legends | 130833 | [130833-land-of-legends.json](./130833-land-of-legends.json) |
 | Land of Legends: Heroes of Loria | 247561 | [247561-land-of-legends-heroes-of-loria.json](./247561-land-of-legends-heroes-of-loria.json) |
 | Land of Livia | 398028 | [398028-land-of-livia.json](./398028-land-of-livia.json) |
+| Land Of Mazzate | 430480 | [430480-land-of-mazzate.json](./430480-land-of-mazzate.json) |
 | Land of Mu | 164191 | [164191-land-of-mu.json](./164191-land-of-mu.json) |
 | Land of Mushrooms | 313529 | [313529-land-of-mushrooms.json](./313529-land-of-mushrooms.json) |
 | Land of Mushrooms: Co-Op mode - Play with Friends | 324497 | [324497-land-of-mushrooms-co-op-mode-play-with-friends.json](./324497-land-of-mushrooms-co-op-mode-play-with-friends.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
+| Lantern Links | 430521 | [430521-lantern-links.json](./430521-lantern-links.json) |
 | Lantern of Remembrance | 361947 | [361947-lantern-of-remembrance.json](./361947-lantern-of-remembrance.json) |
 | Lantern of Worlds | 68511 | [68511-lantern-of-worlds.json](./68511-lantern-of-worlds.json) |
 | Lantern of Worlds - The First Quest | 110646 | [110646-lantern-of-worlds-the-first-quest.json](./110646-lantern-of-worlds-the-first-quest.json) |
@@ -5680,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
+| Lights Out | 430461 | [430461-lights-out.json](./430461-lights-out.json) |
 | Lights Out | 72821 | [72821-lights-out.json](./72821-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
 | Lights Out, Please | 128827 | [128827-lights-out-please.json](./128827-lights-out-please.json) |
