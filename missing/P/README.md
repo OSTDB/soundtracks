@@ -3731,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
 | Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
+| Pavlov Shack | 429075 | [429075-pavlov-shack.json](./429075-pavlov-shack.json) |
 | Pavlov VR | 30548 | [30548-pavlov-vr.json](./30548-pavlov-vr.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
@@ -4468,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegdrop Hearts | 250166 | [250166-pegdrop-hearts.json](./250166-pegdrop-hearts.json) |
 | Pegfinity | 403282 | [403282-pegfinity.json](./403282-pegfinity.json) |
+| Pegg Time | 429046 | [429046-pegg-time.json](./429046-pegg-time.json) |
 | Pegged | 284166 | [284166-pegged.json](./284166-pegged.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
 | Pegged | 385372 | [385372-pegged.json](./385372-pegged.json) |
@@ -20319,6 +20321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purpose: Versus | 194689 | [194689-purpose-versus.json](./194689-purpose-versus.json) |
 | Purpul Bandana | 55565 | [55565-purpul-bandana.json](./55565-purpul-bandana.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
+| Purr Diem | 429083 | [429083-purr-diem.json](./429083-purr-diem.json) |
 | Purr Pals | 5110 | [5110-purr-pals.json](./5110-purr-pals.json) |
 | Purr Pals Purrfection | 209375 | [209375-purr-pals-purrfection.json](./209375-purr-pals-purrfection.json) |
 | Purr-fect Chef: Cats Can Cook | 391993 | [391993-purr-fect-chef-cats-can-cook.json](./391993-purr-fect-chef-cats-can-cook.json) |
