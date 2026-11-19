@@ -15160,6 +15160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Land of Bahía Blanca | 406792 | [406792-the-lost-land-of-bahia-blanca.json](./406792-the-lost-land-of-bahia-blanca.json) |
 | The Lost Lands: Dinosaur Hunter | 208006 | [208006-the-lost-lands-dinosaur-hunter.json](./208006-the-lost-lands-dinosaur-hunter.json) |
+| The Lost Legends of Redwall : The Miner | 83016 | [83016-the-lost-legends-of-redwall-the-miner.json](./83016-the-lost-legends-of-redwall-the-miner.json) |
 | The Lost Legends of Redwall: Escape the Gloomer | 111724 | [111724-the-lost-legends-of-redwall-escape-the-gloomer.json](./111724-the-lost-legends-of-redwall-escape-the-gloomer.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
 | The Lost Legends of Redwall: The Scout - Act 2 | 171665 | [171665-the-lost-legends-of-redwall-the-scout-act-2.json](./171665-the-lost-legends-of-redwall-the-scout-act-2.json) |
@@ -16930,6 +16931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pepper Prince: Seasoning Pass (Episode 2-5) | 302467 | [302467-the-pepper-prince-seasoning-pass-episode-2-5.json](./302467-the-pepper-prince-seasoning-pass-episode-2-5.json) |
 | The Peresmeshnik | 136800 | [136800-the-peresmeshnik.json](./136800-the-peresmeshnik.json) |
 | The Perfect Bowl | 306390 | [306390-the-perfect-bowl.json](./306390-the-perfect-bowl.json) |
+| The Perfect Concept | 129241 | [129241-the-perfect-concept.json](./129241-the-perfect-concept.json) |
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect General II | 12459 | [12459-the-perfect-general-ii.json](./12459-the-perfect-general-ii.json) |
@@ -18225,6 +18227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Schism | 291358 | [291358-the-schism.json](./291358-the-schism.json) |
 | The Schizophrenic Dynasty of Müller | 155847 | [155847-the-schizophrenic-dynasty-of-muller.json](./155847-the-schizophrenic-dynasty-of-muller.json) |
 | The school leaving day | 131688 | [131688-the-school-leaving-day.json](./131688-the-school-leaving-day.json) |
+| The School of HypnoApp: Secret Smartphone App That Turns Seniors Into Mamas | 83033 | [83033-the-school-of-hypnoapp-secret-smartphone-app-that-turns-seniors-into-mamas.json](./83033-the-school-of-hypnoapp-secret-smartphone-app-that-turns-seniors-into-mamas.json) |
 | The School: Swan Song | 58578 | [58578-the-school-swan-song.json](./58578-the-school-swan-song.json) |
 | The School: White Day | 89861 | [89861-the-school-white-day.json](./89861-the-school-white-day.json) |
 | The Scientist Battles | 359559 | [359559-the-scientist-battles.json](./359559-the-scientist-battles.json) |
@@ -20605,6 +20608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure of Loch Inch | 232753 | [232753-the-treasure-of-loch-inch.json](./232753-the-treasure-of-loch-inch.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
+| The Treasure of the Dragon | 129242 | [129242-the-treasure-of-the-dragon.json](./129242-the-treasure-of-the-dragon.json) |
 | The treasure of the lost temple | 104953 | [104953-the-treasure-of-the-lost-temple.json](./104953-the-treasure-of-the-lost-temple.json) |
 | The Treasure of the Monkey on the Island | 421749 | [421749-the-treasure-of-the-monkey-on-the-island.json](./421749-the-treasure-of-the-monkey-on-the-island.json) |
 | The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
@@ -26557,7 +26561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tincan Race | 383560 | [383560-tincan-race.json](./383560-tincan-race.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
 | Tindark | 400436 | [400436-tindark.json](./400436-tindark.json) |
-| Tinertia | 17594 | [17594-tinertia.json](./17594-tinertia.json) |
 | Tinge | 68884 | [68884-tinge.json](./68884-tinge.json) |
 | Tinge 2 | 68882 | [68882-tinge-2.json](./68882-tinge-2.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
@@ -36795,6 +36798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TubeTwist: Quantum-Flux Edition | 73675 | [73675-tubetwist-quantum-flux-edition.json](./73675-tubetwist-quantum-flux-edition.json) |
 | Tubeway | 23945 | [23945-tubeway.json](./23945-tubeway.json) |
 | TublerVR | 43132 | [43132-tublervr.json](./43132-tublervr.json) |
+| Tubocity | 83022 | [83022-tubocity.json](./83022-tubocity.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tubular Worlds | 71388 | [71388-tubular-worlds.json](./71388-tubular-worlds.json) |
