@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Dash 4-Ever | 87327 | [87327-wedding-dash-4-ever.json](./87327-wedding-dash-4-ever.json) |
+| Wedding Dash Deluxe | 86833 | [86833-wedding-dash-deluxe.json](./86833-wedding-dash-deluxe.json) |
 | Wedding Dash: Ready, Aim, Love! | 142001 | [142001-wedding-dash-ready-aim-love.json](./142001-wedding-dash-ready-aim-love.json) |
 | Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
 | Wedding Day Makeover | 87476 | [87476-wedding-day-makeover.json](./87476-wedding-day-makeover.json) |
@@ -8682,6 +8683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Pop: Endless Brain Game | 232072 | [232072-word-pop-endless-brain-game.json](./232072-word-pop-endless-brain-game.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle | 21913 | [21913-word-puzzle.json](./21913-word-puzzle.json) |
+| Word Puzzle Game | 86726 | [86726-word-puzzle-game.json](./86726-word-puzzle-game.json) |
 | Word Puzzle Master | 422754 | [422754-word-puzzle-master.json](./422754-word-puzzle-master.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
 | Word Puzzles by Powgi | 59522 | [59522-word-puzzles-by-powgi.json](./59522-word-puzzles-by-powgi.json) |
