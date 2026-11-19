@@ -2700,6 +2700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vineyard Valley | 247328 | [247328-vineyard-valley.json](./247328-vineyard-valley.json) |
 | Vinhomes Metropolis VR Interior | 105009 | [105009-vinhomes-metropolis-vr-interior.json](./105009-vinhomes-metropolis-vr-interior.json) |
 | Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
+| Vinland 1000 | 418116 | [418116-vinland-1000.json](./418116-vinland-1000.json) |
 | Vinland Tales | 324719 | [324719-vinland-tales.json](./324719-vinland-tales.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
