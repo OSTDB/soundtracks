@@ -6784,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tanks: Battle online | 87297 | [87297-iron-tanks-battle-online.json](./87297-iron-tanks-battle-online.json) |
 | Iron Throne | 101511 | [101511-iron-throne.json](./101511-iron-throne.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
+| Iron Thumbs | 428991 | [428991-iron-thumbs.json](./428991-iron-thumbs.json) |
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trackers | 67721 | [67721-iron-trackers.json](./67721-iron-trackers.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
