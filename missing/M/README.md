@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadWheels | 185476 | [185476-madwheels.json](./185476-madwheels.json) |
 | MadWorld | 3214 | [3214-madworld.json](./3214-madworld.json) |
 | Madzik | 294184 | [294184-madzik.json](./294184-madzik.json) |
+| Madzone | 421048 | [421048-madzone.json](./421048-madzone.json) |
 | Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko | 416645 | [416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json](./416645-maegami-ga-nagakute-seikaku-ga-kurai-kakuu-no-otoko.json) |
 | Maeldor: Enhanced Edition | 235687 | [235687-maeldor-enhanced-edition.json](./235687-maeldor-enhanced-edition.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
@@ -8168,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval towers | 235425 | [235425-medieval-towers.json](./235425-medieval-towers.json) |
 | Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
+| Medieval War Simulator RTS | 421030 | [421030-medieval-war-simulator-rts.json](./421030-medieval-war-simulator-rts.json) |
 | Medieval Warlord | 420505 | [420505-medieval-warlord.json](./420505-medieval-warlord.json) |
 | Medieval Warrior Simulator | 215616 | [215616-medieval-warrior-simulator.json](./215616-medieval-warrior-simulator.json) |
 | Medieval Warriors | 72139 | [72139-medieval-warriors.json](./72139-medieval-warriors.json) |
@@ -21565,6 +21567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MS Saga: A New Dawn | 20492 | [20492-ms-saga-a-new-dawn.json](./20492-ms-saga-a-new-dawn.json) |
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
 | MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
+| MS-Adventures | 421052 | [421052-ms-adventures.json](./421052-ms-adventures.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
 | Ms. Blanch, | 262708 | [262708-ms-blanch.json](./262708-ms-blanch.json) |
 | Ms. Candyman | 57816 | [57816-ms-candyman.json](./57816-ms-candyman.json) |
@@ -22660,6 +22663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mustache or Revenge | 122059 | [122059-mustache-or-revenge.json](./122059-mustache-or-revenge.json) |
 | Mustache Politics Shooter | 75938 | [75938-mustache-politics-shooter.json](./75938-mustache-politics-shooter.json) |
 | Mustdashe | 55723 | [55723-mustdashe.json](./55723-mustdashe.json) |
+| Muster | 421040 | [421040-muster.json](./421040-muster.json) |
 | Muster my Monsters | 259074 | [259074-muster-my-monsters.json](./259074-muster-my-monsters.json) |
 | MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
 | Musubareta Te | 151769 | [151769-musubareta-te.json](./151769-musubareta-te.json) |
@@ -23152,6 +23156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cat Club: Collect Kittens | 259971 | [259971-my-cat-club-collect-kittens.json](./259971-my-cat-club-collect-kittens.json) |
 | My Cat Girl Lover | 212646 | [212646-my-cat-girl-lover.json](./212646-my-cat-girl-lover.json) |
 | My Cat Girlfriend | 299598 | [299598-my-cat-girlfriend.json](./299598-my-cat-girlfriend.json) |
+| My Cat Scattered Games: Tidy Videogame Supermarket | 421142 | [421142-my-cat-scattered-games-tidy-videogame-supermarket.json](./421142-my-cat-scattered-games-tidy-videogame-supermarket.json) |
 | My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
 | My Cat-Grandma vs. Vampire | 241821 | [241821-my-cat-grandma-vs-vampire.json](./241821-my-cat-grandma-vs-vampire.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
@@ -24663,6 +24668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyRoyalCorgi | 63517 | [63517-myroyalcorgi.json](./63517-myroyalcorgi.json) |
 | MyRPG | 54223 | [54223-myrpg.json](./54223-myrpg.json) |
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
+| Myrridon | 421070 | [421070-myrridon.json](./421070-myrridon.json) |
 | Myrtle Grove: A Clair V. Mystery | 388271 | [388271-myrtle-grove-a-clair-v-mystery.json](./388271-myrtle-grove-a-clair-v-mystery.json) |
 | MyRummy | 302254 | [302254-myrummy.json](./302254-myrummy.json) |
 | Mysarium | 395148 | [395148-mysarium.json](./395148-mysarium.json) |
