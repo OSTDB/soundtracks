@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Defence | 350313 | [350313-abyss-defence.json](./350313-abyss-defence.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Dive | 253633 | [253633-abyss-dive.json](./253633-abyss-dive.json) |
+| Abyss Drifter | 426558 | [426558-abyss-drifter.json](./426558-abyss-drifter.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss Expedition | 424301 | [424301-abyss-expedition.json](./424301-abyss-expedition.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
@@ -20249,6 +20250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Balls | 195450 | [195450-auto-balls.json](./195450-auto-balls.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
+| Auto Battle Buddies | 426581 | [426581-auto-battle-buddies.json](./426581-auto-battle-buddies.json) |
 | Auto Battle Royale | 121895 | [121895-auto-battle-royale.json](./121895-auto-battle-royale.json) |
 | Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
 | Auto Brawl Chess: Battle Royale | 205136 | [205136-auto-brawl-chess-battle-royale.json](./205136-auto-brawl-chess-battle-royale.json) |
@@ -21471,6 +21473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Infinity | 410594 | [410594-azure-infinity.json](./410594-azure-infinity.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
+| Azure Memoria | 426573 | [426573-azure-memoria.json](./426573-azure-memoria.json) |
 | Azure Moon | 271856 | [271856-azure-moon.json](./271856-azure-moon.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Plays The Game | 316302 | [316302-azure-plays-the-game.json](./316302-azure-plays-the-game.json) |
