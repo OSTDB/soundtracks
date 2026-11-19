@@ -1401,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Wars Turbo | 1688 | [1688-game-boy-wars-turbo.json](./1688-game-boy-wars-turbo.json) |
 | Game Boy Wars Turbo | 48983 | [48983-game-boy-wars-turbo.json](./48983-game-boy-wars-turbo.json) |
 | Game Breaker | 127449 | [127449-game-breaker.json](./127449-game-breaker.json) |
+| Game Breaker: Divine Error | 419565 | [419565-game-breaker-divine-error.json](./419565-game-breaker-divine-error.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
@@ -3322,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
 | Genesis Survivors | 319067 | [319067-genesis-survivors.json](./319067-genesis-survivors.json) |
+| Genesis War | 419581 | [419581-genesis-war.json](./419581-genesis-war.json) |
 | Genesis: Beyond the Revelation | 62615 | [62615-genesis-beyond-the-revelation.json](./62615-genesis-beyond-the-revelation.json) |
 | Genesis: Human Destiny | 223620 | [223620-genesis-human-destiny.json](./223620-genesis-human-destiny.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
@@ -6434,6 +6436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Racing 2 | 369178 | [369178-go-kart-racing-2.json](./369178-go-kart-racing-2.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
+| Go-Kart Simulator | 419552 | [419552-go-kart-simulator.json](./419552-go-kart-simulator.json) |
 | Go, Diego, Go: Wolf Pup Rescue | 72293 | [72293-go-diego-go-wolf-pup-rescue.json](./72293-go-diego-go-wolf-pup-rescue.json) |
 | Go, Diego, Go! | 220092 | [220092-go-diego-go.json](./220092-go-diego-go.json) |
 | Go, Diego, Go! Great Dinosaur Rescue | 292114 | [292114-go-diego-go-great-dinosaur-rescue.json](./292114-go-diego-go-great-dinosaur-rescue.json) |
@@ -9847,6 +9850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Line | 233191 | [233191-gravity-line.json](./233191-gravity-line.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
 | Gravity Magician | 226671 | [226671-gravity-magician.json](./226671-gravity-magician.json) |
+| Gravity Master | 419549 | [419549-gravity-master.json](./419549-gravity-master.json) |
 | Gravity Mastery | 144191 | [144191-gravity-mastery.json](./144191-gravity-mastery.json) |
 | Gravity Maze | 223238 | [223238-gravity-maze.json](./223238-gravity-maze.json) |
 | Gravity Mike | 239624 | [239624-gravity-mike.json](./239624-gravity-mike.json) |
