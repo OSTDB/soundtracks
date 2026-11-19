@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Chaos | 8469 | [8469-urban-chaos.json](./8469-urban-chaos.json) |
 | Urban Chaos: Riot Response | 6223 | [6223-urban-chaos-riot-response.json](./6223-urban-chaos-riot-response.json) |
+| Urban Chaos: Riot Response - Burner Edition | 427070 | [427070-urban-chaos-riot-response-burner-edition.json](./427070-urban-chaos-riot-response-burner-edition.json) |
 | Urban Chase | 279458 | [279458-urban-chase.json](./279458-urban-chase.json) |
 | Urban Constructor | 83075 | [83075-urban-constructor.json](./83075-urban-constructor.json) |
 | Urban Crooks | 247122 | [247122-urban-crooks.json](./247122-urban-crooks.json) |
