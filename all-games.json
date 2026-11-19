@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T02:45:56.638Z",
-  "total_soundtracks": 3851,
+  "generated_at": "2026-11-19T03:25:55.124Z",
+  "total_soundtracks": 3852,
   "games": [
     {
       "igdb_id": 292844,
@@ -30991,6 +30991,20 @@
         {
           "album_name": "Poly Bridge 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1gxqNWjB5Nz1LvrsS6Qc7U",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20956,
+      "game_name": "Polychromatic",
+      "game_url": "https://ostdb.net/games/polychromatic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273331cf10c609b150dd81fdd1f",
+      "albums": [
+        {
+          "album_name": "Polychromatic (The Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4qyeDjJuQgFdoZeICUsptF",
           "apple_music_url": "",
           "album_link_url": ""
         }
