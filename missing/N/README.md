@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrophoresis | 277271 | [277271-necrophoresis.json](./277271-necrophoresis.json) |
 | Necrophosis | 285925 | [285925-necrophosis.json](./285925-necrophosis.json) |
 | Necrophosis - Subconsciousness | 403448 | [403448-necrophosis-subconsciousness.json](./403448-necrophosis-subconsciousness.json) |
+| Necrophosis: Full Consciousness | 393020 | [393020-necrophosis-full-consciousness.json](./393020-necrophosis-full-consciousness.json) |
 | Necropolis Isle | 337352 | [337352-necropolis-isle.json](./337352-necropolis-isle.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
