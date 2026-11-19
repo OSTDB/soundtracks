@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted 5-1-0 | 121504 | [121504-need-for-speed-most-wanted-5-1-0.json](./121504-need-for-speed-most-wanted-5-1-0.json) |
 | Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
 | Need for Speed: Most Wanted NFS Heroes Pack | 26186 | [26186-need-for-speed-most-wanted-nfs-heroes-pack.json](./26186-need-for-speed-most-wanted-nfs-heroes-pack.json) |
+| Need For Speed: Most Wanted Remastered | 413273 | [413273-need-for-speed-most-wanted-remastered.json](./413273-need-for-speed-most-wanted-remastered.json) |
 | Need for Speed: Most Wanted Terminal Velocity Pack | 117321 | [117321-need-for-speed-most-wanted-terminal-velocity-pack.json](./117321-need-for-speed-most-wanted-terminal-velocity-pack.json) |
 | Need for Speed: Most Wanted Ultimate Speed Pack | 27929 | [27929-need-for-speed-most-wanted-ultimate-speed-pack.json](./27929-need-for-speed-most-wanted-ultimate-speed-pack.json) |
 | Need for Speed: Motor City Online | 51300 | [51300-need-for-speed-motor-city-online.json](./51300-need-for-speed-motor-city-online.json) |
