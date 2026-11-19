@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
 | Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
+| Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
 | Dead Man's Draw | 16822 | [16822-dead-mans-draw.json](./16822-dead-mans-draw.json) |
 | Dead Man's Drive | 346383 | [346383-dead-mans-drive.json](./346383-dead-mans-drive.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 405959 | [405959-decline.json](./405959-decline.json) |
 | Decline | 406895 | [406895-decline.json](./406895-decline.json) |
+| Decline's Drops | 177278 | [177278-declines-drops.json](./177278-declines-drops.json) |
 | Decline's Drops: Shoes & Mirrors | 360318 | [360318-declines-drops-shoes-and-mirrors.json](./360318-declines-drops-shoes-and-mirrors.json) |
 | Declutterer | 410686 | [410686-declutterer.json](./410686-declutterer.json) |
 | Deco Deck | 247929 | [247929-deco-deck.json](./247929-deco-deck.json) |
@@ -7213,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dementium: The Ward | 269363 | [269363-dementium-the-ward.json](./269363-dementium-the-ward.json) |
 | Demeo | 144763 | [144763-demeo.json](./144763-demeo.json) |
 | Demeo Battles | 251555 | [251555-demeo-battles.json](./251555-demeo-battles.json) |
+| Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
 | Demesne | 18215 | [18215-demesne.json](./18215-demesne.json) |
@@ -11961,6 +11964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney All-Star Cards | 98009 | [98009-disney-all-star-cards.json](./98009-disney-all-star-cards.json) |
 | Disney Channel: All Star Party | 4806 | [4806-disney-channel-all-star-party.json](./4806-disney-channel-all-star-party.json) |
 | Disney City Girl | 62415 | [62415-disney-city-girl.json](./62415-disney-city-girl.json) |
+| Disney Classic Games Collection | 172397 | [172397-disney-classic-games-collection.json](./172397-disney-classic-games-collection.json) |
 | Disney Classic Games: Aladdin and The Lion King | 122082 | [122082-disney-classic-games-aladdin-and-the-lion-king.json](./122082-disney-classic-games-aladdin-and-the-lion-king.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classic Games: Aladdin, The Lion King and The Jungle Book | 241721 | [241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json](./241721-disney-classic-games-aladdin-the-lion-king-and-the-jungle-book.json) |
@@ -19617,6 +19621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropzone | 369617 | [369617-dropzone.json](./369617-dropzone.json) |
 | Dropzone | 369618 | [369618-dropzone.json](./369618-dropzone.json) |
 | Dropzone GG2SMS | 369615 | [369615-dropzone-gg2sms.json](./369615-dropzone-gg2sms.json) |
+| Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Dross | 276510 | [276510-dross.json](./276510-dross.json) |
@@ -20826,6 +20831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dungeon! | 224631 | [224631-dungeon-dungeon.json](./224631-dungeon-dungeon.json) |
 | Dungeon Duos | 83939 | [83939-dungeon-duos.json](./83939-dungeon-duos.json) |
 | Dungeon Dwarves | 204968 | [204968-dungeon-dwarves.json](./204968-dungeon-dwarves.json) |
+| Dungeon Encounters | 172756 | [172756-dungeon-encounters.json](./172756-dungeon-encounters.json) |
 | Dungeon Escape | 207291 | [207291-dungeon-escape.json](./207291-dungeon-escape.json) |
 | Dungeon Escape | 33436 | [33436-dungeon-escape.json](./33436-dungeon-escape.json) |
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
@@ -21714,6 +21720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
 | Dusk City | 315389 | [315389-dusk-city.json](./315389-dusk-city.json) |
 | Dusk Diver | 109434 | [109434-dusk-diver.json](./109434-dusk-diver.json) |
+| Dusk Diver 2 | 171860 | [171860-dusk-diver-2.json](./171860-dusk-diver-2.json) |
 | Dusk Diver 2: Digital Deluxe Edition | 238328 | [238328-dusk-diver-2-digital-deluxe-edition.json](./238328-dusk-diver-2-digital-deluxe-edition.json) |
 | Dusk Diver: Special Limited Edition | 167119 | [167119-dusk-diver-special-limited-edition.json](./167119-dusk-diver-special-limited-edition.json) |
 | Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
@@ -22315,6 +22322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
 | Dysan the Shapeshifter | 8703 | [8703-dysan-the-shapeshifter.json](./8703-dysan-the-shapeshifter.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
+| Dyschronia: Chronos Alternate | 178825 | [178825-dyschronia-chronos-alternate.json](./178825-dyschronia-chronos-alternate.json) |
 | Dyschronia: Chronos Alternate - Definitive Edition | 273326 | [273326-dyschronia-chronos-alternate-definitive-edition.json](./273326-dyschronia-chronos-alternate-definitive-edition.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
 | Dyschronia: Chronos Alternate - Episode I: False Awakening | 276036 | [276036-dyschronia-chronos-alternate-episode-i-false-awakening.json](./276036-dyschronia-chronos-alternate-episode-i-false-awakening.json) |
