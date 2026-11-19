@@ -282,7 +282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Haddie's Pizzeria | 264925 | [264925-haddies-pizzeria.json](./264925-haddies-pizzeria.json) |
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
-| Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
 | Hadean Tactics | 133361 | [133361-hadean-tactics.json](./133361-hadean-tactics.json) |
 | Hadelia Quest | 233304 | [233304-hadelia-quest.json](./233304-hadelia-quest.json) |
 | Hadephobia | 260957 | [260957-hadephobia.json](./260957-hadephobia.json) |
@@ -1787,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness Charge Pretty Cure! Kawarun Collection | 216184 | [216184-happiness-charge-pretty-cure-kawarun-collection.json](./216184-happiness-charge-pretty-cure-kawarun-collection.json) |
 | Happiness Double Room | 197300 | [197300-happiness-double-room.json](./197300-happiness-double-room.json) |
 | Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
+| Happiness Drops! | 83032 | [83032-happiness-drops.json](./83032-happiness-drops.json) |
 | Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
 | Happiness Market | 253411 | [253411-happiness-market.json](./253411-happiness-market.json) |
 | Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harukanaru Toki no Naka de: Maihitoyo | 146658 | [146658-harukanaru-toki-no-naka-de-maihitoyo.json](./146658-harukanaru-toki-no-naka-de-maihitoyo.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
+| Harukaze Sensation! | 83029 | [83029-harukaze-sensation.json](./83029-harukaze-sensation.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
 | Haruki's Journey | 292395 | [292395-harukis-journey.json](./292395-harukis-journey.json) |
 | Haruko Maniax | 345424 | [345424-haruko-maniax.json](./345424-haruko-maniax.json) |
@@ -3174,7 +3175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House tours | 28341 | [28341-haunted-house-tours.json](./28341-haunted-house-tours.json) |
-| Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
 | Haunted House: The Murder | 171419 | [171419-haunted-house-the-murder.json](./171419-haunted-house-the-murder.json) |
 | Haunted Houses | 230599 | [230599-haunted-houses.json](./230599-haunted-houses.json) |
 | Haunted Hues | 337373 | [337373-haunted-hues.json](./337373-haunted-hues.json) |
@@ -4454,7 +4454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidi's Legacy: Mountains Calling | 347825 | [347825-heidis-legacy-mountains-calling.json](./347825-heidis-legacy-mountains-calling.json) |
 | Height | 380987 | [380987-height.json](./380987-height.json) |
 | Heileen | 63528 | [63528-heileen.json](./63528-heileen.json) |
-| Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heileen 2: The Hands Of Fate | 17507 | [17507-heileen-2-the-hands-of-fate.json](./17507-heileen-2-the-hands-of-fate.json) |
 | Heileen 3: New Horizons | 36280 | [36280-heileen-3-new-horizons.json](./36280-heileen-3-new-horizons.json) |
 | Heileen: Sail Away | 50442 | [50442-heileen-sail-away.json](./50442-heileen-sail-away.json) |
@@ -7008,7 +7007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes & Generals: US Soldier Pack - Light Tanker | 161908 | [161908-heroes-and-generals-us-soldier-pack-light-tanker.json](./161908-heroes-and-generals-us-soldier-pack-light-tanker.json) |
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
-| Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
 | Heroes & Redemption | 265358 | [265358-heroes-and-redemption.json](./265358-heroes-and-redemption.json) |
 | Heroes & Titans: Battle Arena | 60192 | [60192-heroes-and-titans-battle-arena.json](./60192-heroes-and-titans-battle-arena.json) |
 | Heroes & Villains Bundle | 164735 | [164735-heroes-and-villains-bundle.json](./164735-heroes-and-villains-bundle.json) |
@@ -7159,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic: Quest for the Dragon Bone Staff | 13459 | [13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json](./13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json) |
 | Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
 | Heroes of Mythic Might | 253768 | [253768-heroes-of-mythic-might.json](./253768-heroes-of-mythic-might.json) |
+| Heroes of Myths - Warriors of Gods | 76752 | [76752-heroes-of-myths-warriors-of-gods.json](./76752-heroes-of-myths-warriors-of-gods.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
 | Heroes of Newerth | 763 | [763-heroes-of-newerth.json](./763-heroes-of-newerth.json) |
 | Heroes of Newerth Reborn | 376014 | [376014-heroes-of-newerth-reborn.json](./376014-heroes-of-newerth-reborn.json) |
@@ -7808,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HgmGame-Snail | 363632 | [363632-hgmgame-snail.json](./363632-hgmgame-snail.json) |
 | HgmGame-Tiger | 363630 | [363630-hgmgame-tiger.json](./363630-hgmgame-tiger.json) |
 | HHG Heart Heat Girls | 394856 | [394856-hhg-heart-heat-girls.json](./394856-hhg-heart-heat-girls.json) |
+| HHG Megami no Shuuen | 83048 | [83048-hhg-megami-no-shuuen.json](./83048-hhg-megami-no-shuuen.json) |
 | hhGregg's Quest for Coupons | 125942 | [125942-hhgreggs-quest-for-coupons.json](./125942-hhgreggs-quest-for-coupons.json) |
 | HHHalloween | 289471 | [289471-hhhalloween.json](./289471-hhhalloween.json) |
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
@@ -9147,6 +9147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiHi | 369913 | [369913-hihi.json](./369913-hihi.json) |
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
 | Hihou-den: Taiyou wo Motomeru Mono-tachi | 249465 | [249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json](./249465-hihou-den-taiyou-wo-motomeru-mono-tachi.json) |
+| Hiiragi Iwashi | 83026 | [83026-hiiragi-iwashi.json](./83026-hiiragi-iwashi.json) |
 | Hiiro no Kakera DS | 71905 | [71905-hiiro-no-kakera-ds.json](./71905-hiiro-no-kakera-ds.json) |
 | Hiiro no Kakera Portable | 214655 | [214655-hiiro-no-kakera-portable.json](./214655-hiiro-no-kakera-portable.json) |
 | Hiiro no Kakera Tamayori-hime Kitan: Omoi Iro no Kioku for Nintendo Switch | 293147 | [293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json](./293147-hiiro-no-kakera-tamayori-hime-kitan-omoi-iro-no-kioku-for-nintendo-switch.json) |
@@ -10440,7 +10441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holo X Break | 292089 | [292089-holo-x-break.json](./292089-holo-x-break.json) |
 | Holo-Graham | 30189 | [30189-holo-graham.json](./30189-holo-graham.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
-| HoloBall | 18983 | [18983-holoball.json](./18983-holoball.json) |
 | HoloBase | 410316 | [410316-holobase.json](./410316-holobase.json) |
 | Holobunnies | 59762 | [59762-holobunnies.json](./59762-holobunnies.json) |
 | Holobunnies: Pause Café | 27213 | [27213-holobunnies-pause-cafe.json](./27213-holobunnies-pause-cafe.json) |
@@ -12109,7 +12109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Coffe Shop | 236773 | [236773-hot-coffe-shop.json](./236773-hot-coffe-shop.json) |
 | Hot Couture | 313849 | [313849-hot-couture.json](./313849-hot-couture.json) |
 | Hot Cross Buns | 329775 | [329775-hot-cross-buns.json](./329775-hot-cross-buns.json) |
-| Hot Date | 18136 | [18136-hot-date.json](./18136-hot-date.json) |
 | Hot Dish | 15789 | [15789-hot-dish.json](./15789-hot-dish.json) |
 | Hot Dish 2 | 53202 | [53202-hot-dish-2.json](./53202-hot-dish-2.json) |
 | Hot Dish 2: Cross Country Cook-Off | 54083 | [54083-hot-dish-2-cross-country-cook-off.json](./54083-hot-dish-2-cross-country-cook-off.json) |
