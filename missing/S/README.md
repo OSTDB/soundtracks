@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Amaranth | 105225 | [105225-seed-of-amaranth.json](./105225-seed-of-amaranth.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
+| Seed of Evil | 106616 | [106616-seed-of-evil.json](./106616-seed-of-evil.json) |
 | Seed of God | 403386 | [403386-seed-of-god.json](./403386-seed-of-god.json) |
 | Seed of Heroes | 317096 | [317096-seed-of-heroes.json](./317096-seed-of-heroes.json) |
 | Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
@@ -15228,6 +15229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
 | Slave-Maid Princess | 97941 | [97941-slave-maid-princess.json](./97941-slave-maid-princess.json) |
+| Slave's Sword ~The Free City~ | 106615 | [106615-slaves-sword-the-free-city.json](./106615-slaves-sword-the-free-city.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | SlaveHack 2 | 125791 | [125791-slavehack-2.json](./125791-slavehack-2.json) |
 | Slaves | 220688 | [220688-slaves.json](./220688-slaves.json) |
@@ -31123,6 +31125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomping Grounds | 352506 | [352506-stomping-grounds.json](./352506-stomping-grounds.json) |
 | Stompy's Big Adventure | 409515 | [409515-stompys-big-adventure.json](./409515-stompys-big-adventure.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
+| Stone | 107189 | [107189-stone.json](./107189-stone.json) |
 | Stone | 131356 | [131356-stone.json](./131356-stone.json) |
 | Stone 4 Souls | 343989 | [343989-stone-4-souls.json](./343989-stone-4-souls.json) |
 | Stone Age | 15378 | [15378-stone-age.json](./15378-stone-age.json) |
@@ -36240,6 +36243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
+| Super Life of Pixel | 106310 | [106310-super-life-of-pixel.json](./106310-super-life-of-pixel.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Light Saga: Dragon Force | 64041 | [64041-super-light-saga-dragon-force.json](./64041-super-light-saga-dragon-force.json) |
