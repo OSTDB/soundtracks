@@ -165,7 +165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
 | Eagle | 280983 | [280983-eagle.json](./280983-eagle.json) |
 | Eagle Empire | 40915 | [40915-eagle-empire.json](./40915-eagle-empire.json) |
-| Eagle Eye Golf | 20583 | [20583-eagle-eye-golf.json](./20583-eagle-eye-golf.json) |
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Eye Mysteries in London | 73270 | [73270-eagle-eye-mysteries-in-london.json](./73270-eagle-eye-mysteries-in-london.json) |
 | Eagle Eye: Find the Difference | 251740 | [251740-eagle-eye-find-the-difference.json](./251740-eagle-eye-find-the-difference.json) |
@@ -502,7 +501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthquake Survival | 183248 | [183248-earthquake-survival.json](./183248-earthquake-survival.json) |
 | Earthquake: Margarita School | 369380 | [369380-earthquake-margarita-school.json](./369380-earthquake-margarita-school.json) |
 | EarthRemnant | 236452 | [236452-earthremnant.json](./236452-earthremnant.json) |
-| Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earthrise: A Guild Investigation | 20550 | [20550-earthrise-a-guild-investigation.json](./20550-earthrise-a-guild-investigation.json) |
 | EarthRoyale | 207454 | [207454-earthroyale.json](./207454-earthroyale.json) |
@@ -1220,7 +1218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Park | 188891 | [188891-eco-park.json](./188891-eco-park.json) |
 | Eco Phantoms | 71924 | [71924-eco-phantoms.json](./71924-eco-phantoms.json) |
 | Eco Ronin | 323440 | [323440-eco-ronin.json](./323440-eco-ronin.json) |
-| Eco Shooter: Plant 530 | 20506 | [20506-eco-shooter-plant-530.json](./20506-eco-shooter-plant-530.json) |
 | Eco Tales: My Item Shop | 114649 | [114649-eco-tales-my-item-shop.json](./114649-eco-tales-my-item-shop.json) |
 | Eco Tycoon: Project Green | 69081 | [69081-eco-tycoon-project-green.json](./69081-eco-tycoon-project-green.json) |
 | Eco Tycoon: Project Green | 69096 | [69096-eco-tycoon-project-green.json](./69096-eco-tycoon-project-green.json) |
@@ -5364,7 +5361,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EpicWin | 175469 | [175469-epicwin.json](./175469-epicwin.json) |
 | Epidemic | 170689 | [170689-epidemic.json](./170689-epidemic.json) |
 | Epidemic | 174009 | [174009-epidemic.json](./174009-epidemic.json) |
-| Epidemic | 20299 | [20299-epidemic.json](./20299-epidemic.json) |
 | Epidemic | 244970 | [244970-epidemic.json](./244970-epidemic.json) |
 | Epidemic Escape: A Race for the Cure | 250989 | [250989-epidemic-escape-a-race-for-the-cure.json](./250989-epidemic-escape-a-race-for-the-cure.json) |
 | Epidemic! | 23496 | [23496-epidemic.json](./23496-epidemic.json) |
@@ -7947,7 +7943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Tears of Veeshan | 63062 | [63062-everquest-ii-tears-of-veeshan.json](./63062-everquest-ii-tears-of-veeshan.json) |
 | EverQuest II: Terrors of Thalumbra | 80071 | [80071-everquest-ii-terrors-of-thalumbra.json](./80071-everquest-ii-terrors-of-thalumbra.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
-| EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Shadow Odyssey | 78366 | [78366-everquest-ii-the-shadow-odyssey.json](./78366-everquest-ii-the-shadow-odyssey.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
 | EverQuest Legends | 395827 | [395827-everquest-legends.json](./395827-everquest-legends.json) |
@@ -8067,7 +8062,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
-| Everybody Dance | 19997 | [19997-everybody-dance.json](./19997-everybody-dance.json) |
 | Everybody Dance 2 | 43002 | [43002-everybody-dance-2.json](./43002-everybody-dance-2.json) |
 | Everybody Dance 3 | 56044 | [56044-everybody-dance-3.json](./56044-everybody-dance-3.json) |
 | Everybody Dance: Digital | 336101 | [336101-everybody-dance-digital.json](./336101-everybody-dance-digital.json) |
@@ -8708,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
 | Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
+| Exedra Chao: Combat | 332676 | [332676-exedra-chao-combat.json](./332676-exedra-chao-combat.json) |
 | Exelinya Burst | 266636 | [266636-exelinya-burst.json](./266636-exelinya-burst.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
