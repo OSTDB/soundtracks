@@ -9756,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Solo Ops | 424733 | [424733-pixel-solo-ops.json](./424733-pixel-solo-ops.json) |
+| Pixel Sorter Factory | 426551 | [426551-pixel-sorter-factory.json](./426551-pixel-sorter-factory.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
 | Pixel Space Battles | 75316 | [75316-pixel-space-battles.json](./75316-pixel-space-battles.json) |
 | Pixel Speedrun | 145109 | [145109-pixel-speedrun.json](./145109-pixel-speedrun.json) |
@@ -10585,6 +10586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Scanner | 276622 | [276622-planet-scanner.json](./276622-planet-scanner.json) |
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
+| Planet Shield | 426537 | [426537-planet-shield.json](./426537-planet-shield.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smash | 220235 | [220235-planet-smash.json](./220235-planet-smash.json) |
 | Planet Smasher | 31434 | [31434-planet-smasher.json](./31434-planet-smasher.json) |
@@ -13593,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
 | Police Academy | 198867 | [198867-police-academy.json](./198867-police-academy.json) |
+| Police Activity: Cardboardman | 426587 | [426587-police-activity-cardboardman.json](./426587-police-activity-cardboardman.json) |
 | Police Adventure | 52058 | [52058-police-adventure.json](./52058-police-adventure.json) |
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
@@ -18873,6 +18876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prosrochennyy | 367756 | [367756-prosrochennyy.json](./367756-prosrochennyy.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
+| Prostitute Casino | 426562 | [426562-prostitute-casino.json](./426562-prostitute-casino.json) |
 | Prostitute Empire | 426347 | [426347-prostitute-empire.json](./426347-prostitute-empire.json) |
 | Prostitute Island | 272727 | [272727-prostitute-island.json](./272727-prostitute-island.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
