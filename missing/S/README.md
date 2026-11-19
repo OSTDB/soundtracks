@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guard Sex: Episode 6 | 371064 | [371064-security-guard-sex-episode-6.json](./371064-security-guard-sex-episode-6.json) |
 | Security Guy | 271882 | [271882-security-guy.json](./271882-security-guy.json) |
 | Security Guy vs. AI: The Dawn of AI | 157374 | [157374-security-guy-vs-ai-the-dawn-of-ai.json](./157374-security-guy-vs-ai-the-dawn-of-ai.json) |
+| Security Hole | 24642 | [24642-security-hole.json](./24642-security-hole.json) |
 | Security Simulator: Nightshift | 312434 | [312434-security-simulator-nightshift.json](./312434-security-simulator-nightshift.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | SecurityCraft | 232784 | [232784-securitycraft.json](./232784-securitycraft.json) |
@@ -22754,6 +22755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Job | 70219 | [70219-space-job.json](./70219-space-job.json) |
 | Space Jockey | 18679 | [18679-space-jockey.json](./18679-space-jockey.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
+| Space Journey | 24558 | [24558-space-journey.json](./24558-space-journey.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Journey | 426969 | [426969-space-journey.json](./426969-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
@@ -23057,6 +23059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Revolver | 368825 | [368825-space-revolver.json](./368825-space-revolver.json) |
+| Space Ribbon | 25736 | [25736-space-ribbon.json](./25736-space-ribbon.json) |
 | Space Ric-O-Shay | 64818 | [64818-space-ric-o-shay.json](./64818-space-ric-o-shay.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
