@@ -5600,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hole Ninja | 298818 | [298818-nine-hole-ninja.json](./298818-nine-hole-ninja.json) |
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
+| Nine Laps | 427153 | [427153-nine-laps.json](./427153-nine-laps.json) |
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Lives Hospital | 423357 | [423357-nine-lives-hospital.json](./423357-nine-lives-hospital.json) |
 | Nine Lives Ninja: Explore! | 293798 | [293798-nine-lives-ninja-explore.json](./293798-nine-lives-ninja-explore.json) |
@@ -5774,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II | 198838 | [198838-ninja-gaiden-ii.json](./198838-ninja-gaiden-ii.json) |
 | Ninja Gaiden II | 6782 | [6782-ninja-gaiden-ii.json](./6782-ninja-gaiden-ii.json) |
 | Ninja Gaiden II Black | 329132 | [329132-ninja-gaiden-ii-black.json](./329132-ninja-gaiden-ii-black.json) |
+| Ninja Gaiden II Master Edition | 427194 | [427194-ninja-gaiden-ii-master-edition.json](./427194-ninja-gaiden-ii-master-edition.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 15540 | [15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./15540-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 239927 | [239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./239927-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
@@ -6003,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja War: Super Ninja Showdown | 199937 | [199937-ninja-war-super-ninja-showdown.json](./199937-ninja-war-super-ninja-showdown.json) |
 | Ninja Warrior | 92775 | [92775-ninja-warrior.json](./92775-ninja-warrior.json) |
 | Ninja Warrior Princess | 229334 | [229334-ninja-warrior-princess.json](./229334-ninja-warrior-princess.json) |
+| Ninja Warrior VR | 427214 | [427214-ninja-warrior-vr.json](./427214-ninja-warrior-vr.json) |
 | Ninja Warrior: Shadow of Samurai | 299344 | [299344-ninja-warrior-shadow-of-samurai.json](./299344-ninja-warrior-shadow-of-samurai.json) |
 | Ninja Warriors | 42654 | [42654-ninja-warriors.json](./42654-ninja-warriors.json) |
 | Ninja Wars | 118880 | [118880-ninja-wars.json](./118880-ninja-wars.json) |
