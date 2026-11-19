@@ -4679,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Girl Survivor 2: Beyond the Veil | 368829 | [368829-cat-girl-survivor-2-beyond-the-veil.json](./368829-cat-girl-survivor-2-beyond-the-veil.json) |
 | Cat Girl Survivor: Extra Episodes and Additional Chapters | 379025 | [379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json](./379025-cat-girl-survivor-extra-episodes-and-additional-chapters.json) |
 | Cat Girl Without Justice | 364547 | [364547-cat-girl-without-justice.json](./364547-cat-girl-without-justice.json) |
+| Cat Girl Without Salad: Amuse-Bouche | 22701 | [22701-cat-girl-without-salad-amuse-bouche.json](./22701-cat-girl-without-salad-amuse-bouche.json) |
 | Cat Gladiator | 392072 | [392072-cat-gladiator.json](./392072-cat-gladiator.json) |
 | Cat Go! Ultimate Challenge | 157231 | [157231-cat-go-ultimate-challenge.json](./157231-cat-go-ultimate-challenge.json) |
 | Cat God Ranch | 296511 | [296511-cat-god-ranch.json](./296511-cat-god-ranch.json) |
@@ -6772,6 +6773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager | 15208 | [15208-championship-manager.json](./15208-championship-manager.json) |
 | Championship Manager | 269426 | [269426-championship-manager.json](./269426-championship-manager.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
+| Championship Manager 17 | 22814 | [22814-championship-manager-17.json](./22814-championship-manager-17.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
 | Championship Manager 2006 | 5771 | [5771-championship-manager-2006.json](./5771-championship-manager-2006.json) |
@@ -21168,6 +21170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: The Old Gods | 22663 | [22663-crusader-kings-ii-the-old-gods.json](./22663-crusader-kings-ii-the-old-gods.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
 | Crusader Kings II: The Reaper's Due Content Pack | 253291 | [253291-crusader-kings-ii-the-reapers-due-content-pack.json](./253291-crusader-kings-ii-the-reapers-due-content-pack.json) |
+| Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
 | Crusader Kings II: Way of Life | 22667 | [22667-crusader-kings-ii-way-of-life.json](./22667-crusader-kings-ii-way-of-life.json) |
 | Crusader Kings II: Way of Life Collection | 52857 | [52857-crusader-kings-ii-way-of-life-collection.json](./52857-crusader-kings-ii-way-of-life-collection.json) |
 | Crusader Kings III Content Creator Pack: Arctic Attire | 352853 | [352853-crusader-kings-iii-content-creator-pack-arctic-attire.json](./352853-crusader-kings-iii-content-creator-pack-arctic-attire.json) |
@@ -23635,6 +23638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberArena | 338211 | [338211-cyberarena.json](./338211-cyberarena.json) |
 | CyberArena | 369546 | [369546-cyberarena.json](./369546-cyberarena.json) |
 | Cyberball | 12022 | [12022-cyberball.json](./12022-cyberball.json) |
+| Cyberball 2072 | 23070 | [23070-cyberball-2072.json](./23070-cyberball-2072.json) |
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
 | Cyberbike | 50967 | [50967-cyberbike.json](./50967-cyberbike.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
