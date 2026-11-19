@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equire | 303519 | [303519-equire.json](./303519-equire.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
 | Equites | 40299 | [40299-equites.json](./40299-equites.json) |
+| Equity Game | 424234 | [424234-equity-game.json](./424234-equity-game.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Equivoque | 40705 | [40705-equivoque.json](./40705-equivoque.json) |
 | ER | 69779 | [69779-er.json](./69779-er.json) |
