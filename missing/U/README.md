@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine Total Defense | 288545 | [288545-ukraine-total-defense.json](./288545-ukraine-total-defense.json) |
 | Ukraine War 2022 | 287734 | [287734-ukraine-war-2022.json](./287734-ukraine-war-2022.json) |
 | Ukraine War Stories | 209227 | [209227-ukraine-war-stories.json](./209227-ukraine-war-stories.json) |
+| Ukrainian Ba3opack | 429042 | [429042-ukrainian-ba3opack.json](./429042-ukrainian-ba3opack.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
 | Ukrainian Fight Drone Simulator | 306326 | [306326-ukrainian-fight-drone-simulator.json](./306326-ukrainian-fight-drone-simulator.json) |
 | Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
