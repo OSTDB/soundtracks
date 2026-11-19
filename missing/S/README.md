@@ -3968,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: One More Life | 129262 | [129262-scp-one-more-life.json](./129262-scp-one-more-life.json) |
 | SCP: Pale Weaver | 405867 | [405867-scp-pale-weaver.json](./405867-scp-pale-weaver.json) |
 | SCP: Permafrost | 409328 | [409328-scp-permafrost.json](./409328-scp-permafrost.json) |
+| SCP: Project Pneuma | 425751 | [425751-scp-project-pneuma.json](./425751-scp-project-pneuma.json) |
 | SCP: Recontainment | 132290 | [132290-scp-recontainment.json](./132290-scp-recontainment.json) |
 | SCP: ReEnter | 377925 | [377925-scp-reenter.json](./377925-scp-reenter.json) |
 | SCP: Refinarium | 407500 | [407500-scp-refinarium.json](./407500-scp-refinarium.json) |
@@ -9702,6 +9703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin XALX no Monshou 98 | 92124 | [92124-shin-xalx-no-monshou-98.json](./92124-shin-xalx-no-monshou-98.json) |
 | Shin-chan: Bundle | 324125 | [324125-shin-chan-bundle.json](./324125-shin-chan-bundle.json) |
 | Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey | 143621 | [143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json](./143621-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey.json) |
+| Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey and Shin-chan: Shiro and the Coal Town Double Pack | 425744 | [425744-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-double-pack.json](./425744-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-double-pack.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shin'ai Rewritten | 424612 | [424612-shinai-rewritten.json](./424612-shinai-rewritten.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
@@ -10735,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShoppingMall: Manager Simulator | 326356 | [326356-shoppingmall-manager-simulator.json](./326356-shoppingmall-manager-simulator.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
+| Shopska Salad | 425884 | [425884-shopska-salad.json](./425884-shopska-salad.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shorebound | 324230 | [324230-shorebound.json](./324230-shorebound.json) |
@@ -20176,6 +20179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
 | Sonic Legends: True Sunset Shore | 333423 | [333423-sonic-legends-true-sunset-shore.json](./333423-sonic-legends-true-sunset-shore.json) |
+| Sonic Like-A-Wind | 425742 | [425742-sonic-like-a-wind.json](./425742-sonic-like-a-wind.json) |
 | Sonic Limitless | 317133 | [317133-sonic-limitless.json](./317133-sonic-limitless.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
@@ -20482,6 +20486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Terror | 387319 | [387319-sonic-terror.json](./387319-sonic-terror.json) |
 | Sonic Test Labs | 265209 | [265209-sonic-test-labs.json](./265209-sonic-test-labs.json) |
 | Sonic the Broad Jump | 274392 | [274392-sonic-the-broad-jump.json](./274392-sonic-the-broad-jump.json) |
+| Sonic the Chao! | 425743 | [425743-sonic-the-chao.json](./425743-sonic-the-chao.json) |
 | Sonic the Fighters | 7728 | [7728-sonic-the-fighters.json](./7728-sonic-the-fighters.json) |
 | Sonic the Fighters 2 | 331300 | [331300-sonic-the-fighters-2.json](./331300-sonic-the-fighters-2.json) |
 | Sonic the Fighters Blitz | 321766 | [321766-sonic-the-fighters-blitz.json](./321766-sonic-the-fighters-blitz.json) |
@@ -26426,6 +26431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spurdo :D | 237140 | [237140-spurdo-d.json](./237140-spurdo-d.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
 | Sputnik Eyes | 97757 | [97757-sputnik-eyes.json](./97757-sputnik-eyes.json) |
+| Sputnitsa Dress Up 2 | 425745 | [425745-sputnitsa-dress-up-2.json](./425745-sputnitsa-dress-up-2.json) |
 | SPV3 | 125649 | [125649-spv3.json](./125649-spv3.json) |
 | Spy 1 Lovecraftian | 289437 | [289437-spy-1-lovecraftian.json](./289437-spy-1-lovecraftian.json) |
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
@@ -29431,6 +29437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarWinds | 276601 | [276601-starwinds.json](./276601-starwinds.json) |
 | Starwing Paradox | 86272 | [86272-starwing-paradox.json](./86272-starwing-paradox.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
+| Starworn | 425970 | [425970-starworn.json](./425970-starworn.json) |
 | Starwulf: Seeker of Secret Space | 254969 | [254969-starwulf-seeker-of-secret-space.json](./254969-starwulf-seeker-of-secret-space.json) |
 | Starxia | 297353 | [297353-starxia.json](./297353-starxia.json) |
 | Starxium 20XX | 114569 | [114569-starxium-20xx.json](./114569-starxium-20xx.json) |
@@ -41327,6 +41334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Days | 232918 | [232918-synthetic-days.json](./232918-synthetic-days.json) |
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Dreams: Falling | 344102 | [344102-synthetic-dreams-falling.json](./344102-synthetic-dreams-falling.json) |
+| Synthetic Eclipse | 425972 | [425972-synthetic-eclipse.json](./425972-synthetic-eclipse.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
 | Synthetic Hazard | 167436 | [167436-synthetic-hazard.json](./167436-synthetic-hazard.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
