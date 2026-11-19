@@ -7293,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EunHye DS | 217839 | [217839-eunhye-ds.json](./217839-eunhye-ds.json) |
 | Euotopia | 261901 | [261901-euotopia.json](./261901-euotopia.json) |
 | Euphionia: The Tree Spirit's Curse | 330965 | [330965-euphionia-the-tree-spirits-curse.json](./330965-euphionia-the-tree-spirits-curse.json) |
+| Euphorbia Milii | 428981 | [428981-euphorbia-milii.json](./428981-euphorbia-milii.json) |
 | Euphoria Games Bundle | 302513 | [302513-euphoria-games-bundle.json](./302513-euphoria-games-bundle.json) |
 | Euphoria: Supreme Mechanics | 132403 | [132403-euphoria-supreme-mechanics.json](./132403-euphoria-supreme-mechanics.json) |
 | Euphoria: Supreme Mechanics | 287033 | [287033-euphoria-supreme-mechanics.json](./287033-euphoria-supreme-mechanics.json) |
