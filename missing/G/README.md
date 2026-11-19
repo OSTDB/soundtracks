@@ -8359,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore | 263419 | [263419-gore.json](./263419-gore.json) |
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
+| Gore Doctor | 258036 | [258036-gore-doctor.json](./258036-gore-doctor.json) |
 | Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
 | Gore In Crayon | 385022 | [385022-gore-in-crayon.json](./385022-gore-in-crayon.json) |
 | Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
