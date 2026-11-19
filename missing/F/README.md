@@ -16288,5 +16288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
 | Fyte | 364825 | [364825-fyte.json](./364825-fyte.json) |
 | Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
+| FZ: Formation Z | 389143 | [389143-fz-formation-z.json](./389143-fz-formation-z.json) |
 | FZ9: Timeshift | 235004 | [235004-fz9-timeshift.json](./235004-fz9-timeshift.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
