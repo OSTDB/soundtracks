@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickflip Kobie | 414712 | [414712-kickflip-kobie.json](./414712-kickflip-kobie.json) |
 | Kickflip Quake | 196518 | [196518-kickflip-quake.json](./196518-kickflip-quake.json) |
 | Kickflip the Horse | 180693 | [180693-kickflip-the-horse.json](./180693-kickflip-the-horse.json) |
+| KickHim | 31369 | [31369-kickhim.json](./31369-kickhim.json) |
 | Kickin Kong | 261532 | [261532-kickin-kong.json](./261532-kickin-kong.json) |
 | Kickin Momma | 92489 | [92489-kickin-momma.json](./92489-kickin-momma.json) |
 | Kicking Balls World | 394777 | [394777-kicking-balls-world.json](./394777-kicking-balls-world.json) |
@@ -6809,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubo 1 & 2 | 289134 | [289134-kubo-1-and-2.json](./289134-kubo-1-and-2.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubo: A Samurai Quest | 55012 | [55012-kubo-a-samurai-quest.json](./55012-kubo-a-samurai-quest.json) |
+| Kuboom | 31738 | [31738-kuboom.json](./31738-kuboom.json) |
 | Kuborabu | 307428 | [307428-kuborabu.json](./307428-kuborabu.json) |
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubrix | 134249 | [134249-kubrix.json](./134249-kubrix.json) |
