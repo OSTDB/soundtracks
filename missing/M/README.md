@@ -2061,7 +2061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent Ships: Volume 1 | 30455 | [30455-magnificent-ships-volume-1.json](./30455-magnificent-ships-volume-1.json) |
 | Magnificent Ships: Volume 2 | 34664 | [34664-magnificent-ships-volume-2.json](./34664-magnificent-ships-volume-2.json) |
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
-| Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude | 322417 | [322417-magnitude.json](./322417-magnitude.json) |
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
@@ -3077,7 +3076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
-| Malebolgia | 17754 | [17754-malebolgia.json](./17754-malebolgia.json) |
 | Malediction | 127574 | [127574-malediction.json](./127574-malediction.json) |
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
@@ -6638,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | matuslab.net's Hangman | 91254 | [91254-matuslab-nets-hangman.json](./91254-matuslab-nets-hangman.json) |
 | Matzerath's Classic Flash Games | 419780 | [419780-matzeraths-classic-flash-games.json](./419780-matzeraths-classic-flash-games.json) |
 | Mau Mau | 61994 | [61994-mau-mau.json](./61994-mau-mau.json) |
+| Maud | 83019 | [83019-maud.json](./83019-maud.json) |
 | Maudelyn's Quest | 186189 | [186189-maudelyns-quest.json](./186189-maudelyns-quest.json) |
 | Maui | 36598 | [36598-maui.json](./36598-maui.json) |
 | Maui Mallard in Cold Shadow | 217587 | [217587-maui-mallard-in-cold-shadow.json](./217587-maui-mallard-in-cold-shadow.json) |
@@ -7020,7 +7019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Combat - Fighting Game | 104550 | [104550-mayhem-combat-fighting-game.json](./104550-mayhem-combat-fighting-game.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
-| Mayhem in Monsterland | 18550 | [18550-mayhem-in-monsterland.json](./18550-mayhem-in-monsterland.json) |
 | Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
@@ -9989,7 +9987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoir | 203453 | [203453-memoir.json](./203453-memoir.json) |
 | Memoir | 97173 | [97173-memoir.json](./97173-memoir.json) |
 | Memoir '44 Online | 28724 | [28724-memoir-44-online.json](./28724-memoir-44-online.json) |
-| Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Memoir En Code: Reissue | 27044 | [27044-memoir-en-code-reissue.json](./27044-memoir-en-code-reissue.json) |
 | Memoir of Phantom's Fortitude | 134852 | [134852-memoir-of-phantoms-fortitude.json](./134852-memoir-of-phantoms-fortitude.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
@@ -10068,7 +10065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of a Forgotten Home | 378151 | [378151-memories-of-a-forgotten-home.json](./378151-memories-of-a-forgotten-home.json) |
 | Memories of a Hedgehog | 316931 | [316931-memories-of-a-hedgehog.json](./316931-memories-of-a-hedgehog.json) |
 | Memories of a Spy | 254868 | [254868-memories-of-a-spy.json](./254868-memories-of-a-spy.json) |
-| Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
 | Memories of East Coast | 145135 | [145135-memories-of-east-coast.json](./145135-memories-of-east-coast.json) |
@@ -16289,6 +16285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mizubaku Daibouken | 38084 | [38084-mizubaku-daibouken.json](./38084-mizubaku-daibouken.json) |
 | Mizuchi | 121406 | [121406-mizuchi.json](./121406-mizuchi.json) |
 | Mizuiro | 345428 | [345428-mizuiro.json](./345428-mizuiro.json) |
+| Mizuiro Blood | 72799 | [72799-mizuiro-blood.json](./72799-mizuiro-blood.json) |
 | Mizuiro no Chizu | 77680 | [77680-mizuiro-no-chizu.json](./77680-mizuiro-no-chizu.json) |
 | Mizuki and the Crimson Moon | 307212 | [307212-mizuki-and-the-crimson-moon.json](./307212-mizuki-and-the-crimson-moon.json) |
 | Mizuki Shigeru no Shin Youkai-den | 282235 | [282235-mizuki-shigeru-no-shin-youkai-den.json](./282235-mizuki-shigeru-no-shin-youkai-den.json) |
@@ -16801,7 +16798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Combat: Domination | 21081 | [21081-modern-combat-domination.json](./21081-modern-combat-domination.json) |
-| Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Conflict | 98835 | [98835-modern-conflict.json](./98835-modern-conflict.json) |
 | Modern Conflict 2 | 89713 | [89713-modern-conflict-2.json](./89713-modern-conflict-2.json) |
@@ -21673,6 +21669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
 | Mu Old Times | 331948 | [331948-mu-old-times.json](./331948-mu-old-times.json) |
 | MU Online | 26359 | [26359-mu-online.json](./26359-mu-online.json) |
+| MU Origin | 83021 | [83021-mu-origin.json](./83021-mu-origin.json) |
 | Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
 | MU Origin 3 | 188380 | [188380-mu-origin-3.json](./188380-mu-origin-3.json) |
 | Mu-Cade | 92745 | [92745-mu-cade.json](./92745-mu-cade.json) |
@@ -22834,6 +22831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
 | Muv-Luv: Teito Moyu - The Imperial Capital Burns | 273519 | [273519-muv-luv-teito-moyu-the-imperial-capital-burns.json](./273519-muv-luv-teito-moyu-the-imperial-capital-burns.json) |
+| MuX | 76750 | [76750-mux.json](./76750-mux.json) |
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
 | Muyeon | 121854 | [121854-muyeon.json](./121854-muyeon.json) |
 | Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
@@ -22860,7 +22858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MW Ultra | 408477 | [408477-mw-ultra.json](./408477-mw-ultra.json) |
 | Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
 | MWT: Tank Battles | 319848 | [319848-mwt-tank-battles.json](./319848-mwt-tank-battles.json) |
-| MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
 | MX Bikes | 37424 | [37424-mx-bikes.json](./37424-mx-bikes.json) |
 | MX Bodycam Bikes Racing | 374250 | [374250-mx-bodycam-bikes-racing.json](./374250-mx-bodycam-bikes-racing.json) |
 | MX Dirt Bike: Unlimited Bike Experience | 317442 | [317442-mx-dirt-bike-unlimited-bike-experience.json](./317442-mx-dirt-bike-unlimited-bike-experience.json) |
@@ -22960,7 +22957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Ultimate Edition | 301777 | [301777-mx-vs-atv-legends-ultimate-edition.json](./301777-mx-vs-atv-legends-ultimate-edition.json) |
 | MX vs. ATV: Legends - Yamaha Pack | 233355 | [233355-mx-vs-atv-legends-yamaha-pack.json](./233355-mx-vs-atv-legends-yamaha-pack.json) |
 | MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
-| MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
 | MX vs. ATV: Reflex | 248570 | [248570-mx-vs-atv-reflex.json](./248570-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Reflex | 248571 | [248571-mx-vs-atv-reflex.json](./248571-mx-vs-atv-reflex.json) |
 | MX vs. ATV: Supercross | 24306 | [24306-mx-vs-atv-supercross.json](./24306-mx-vs-atv-supercross.json) |
