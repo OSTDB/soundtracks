@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Wars | 414707 | [414707-incremental-wars.json](./414707-incremental-wars.json) |
 | IncrementalOS | 421841 | [421841-incrementalos.json](./421841-incrementalos.json) |
 | Incrempire | 407857 | [407857-incrempire.json](./407857-incrempire.json) |
+| IncreTop | 423006 | [423006-incretop.json](./423006-incretop.json) |
 | Incretyper | 385428 | [385428-incretyper.json](./385428-incretyper.json) |
 | Increvaders | 418743 | [418743-increvaders.json](./418743-increvaders.json) |
 | Incubation: Alien Apocalypse | 273175 | [273175-incubation-alien-apocalypse.json](./273175-incubation-alien-apocalypse.json) |
@@ -4855,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
 | Ink Adventure | 335327 | [335327-ink-adventure.json](./335327-ink-adventure.json) |
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
+| Ink and Lore | 422985 | [422985-ink-and-lore.json](./422985-ink-and-lore.json) |
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Cipher | 102988 | [102988-ink-cipher.json](./102988-ink-cipher.json) |
