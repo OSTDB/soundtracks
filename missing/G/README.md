@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Galaxy Pain | 186558 | [186558-gal-galaxy-pain.json](./186558-gal-galaxy-pain.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
+| Gal Gun: Double Peace | 185710 | [185710-gal-gun-double-peace.json](./185710-gal-gun-double-peace.json) |
 | Gal Gun: Double Peace Bilingal | 218892 | [218892-gal-gun-double-peace-bilingal.json](./218892-gal-gun-double-peace-bilingal.json) |
 | Gal Metal | 57142 | [57142-gal-metal.json](./57142-gal-metal.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
@@ -3834,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerbil Physics | 93524 | [93524-gerbil-physics.json](./93524-gerbil-physics.json) |
 | Gerbil Riot of '67 | 92795 | [92795-gerbil-riot-of-67.json](./92795-gerbil-riot-of-67.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
+| Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Gerda: A Flame in Winter - The Resistance Edition | 256013 | [256013-gerda-a-flame-in-winter-the-resistance-edition.json](./256013-gerda-a-flame-in-winter-the-resistance-edition.json) |
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
@@ -5613,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Glest | 70145 | [70145-glest.json](./70145-glest.json) |
+| Gleylancer | 175816 | [175816-gleylancer.json](./175816-gleylancer.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glib | 40672 | [40672-glib.json](./40672-glib.json) |
@@ -8083,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Vibes | 178500 | [178500-good-vibes.json](./178500-good-vibes.json) |
 | Good-bye Old World | 183317 | [183317-good-bye-old-world.json](./183317-good-bye-old-world.json) |
 | Good-Bye to Youtopia | 321546 | [321546-good-bye-to-youtopia.json](./321546-good-bye-to-youtopia.json) |
+| Goodboy Galaxy | 176049 | [176049-goodboy-galaxy.json](./176049-goodboy-galaxy.json) |
 | Goodboy Galaxy/Witch n' Wiz | 260091 | [260091-goodboy-galaxy-witch-n-wiz.json](./260091-goodboy-galaxy-witch-n-wiz.json) |
 | Goodbye | 130741 | [130741-goodbye.json](./130741-goodbye.json) |
 | Goodbye | 178455 | [178455-goodbye.json](./178455-goodbye.json) |
