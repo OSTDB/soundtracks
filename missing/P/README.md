@@ -8040,19 +8040,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Venom | 20306 | [20306-pinball-fx2-venom.json](./20306-pinball-fx2-venom.json) |
 | Pinball FX3 | 41051 | [41051-pinball-fx3.json](./41051-pinball-fx3.json) |
 | Pinball FX3 - Zen Originals Season 2 Bundle | 83760 | [83760-pinball-fx3-zen-originals-season-2-bundle.json](./83760-pinball-fx3-zen-originals-season-2-bundle.json) |
+| Pinball FX3: Aliens vs Pinball | 164010 | [164010-pinball-fx3-aliens-vs-pinball.json](./164010-pinball-fx3-aliens-vs-pinball.json) |
 | Pinball FX3: Balls of Glory Pinball | 163997 | [163997-pinball-fx3-balls-of-glory-pinball.json](./163997-pinball-fx3-balls-of-glory-pinball.json) |
 | Pinball FX3: Bethesda Pinball | 164002 | [164002-pinball-fx3-bethesda-pinball.json](./164002-pinball-fx3-bethesda-pinball.json) |
 | Pinball FX3: Carnivals and Legends | 163996 | [163996-pinball-fx3-carnivals-and-legends.json](./163996-pinball-fx3-carnivals-and-legends.json) |
 | Pinball FX3: Carnivals and Legends Demo | 325864 | [325864-pinball-fx3-carnivals-and-legends-demo.json](./325864-pinball-fx3-carnivals-and-legends-demo.json) |
 | Pinball FX3: Core Collection | 164005 | [164005-pinball-fx3-core-collection.json](./164005-pinball-fx3-core-collection.json) |
 | Pinball FX3: Indiana Jones - The Pinball Adventure | 193394 | [193394-pinball-fx3-indiana-jones-the-pinball-adventure.json](./193394-pinball-fx3-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX3: Iron & Steel Pack | 164011 | [164011-pinball-fx3-iron-and-steel-pack.json](./164011-pinball-fx3-iron-and-steel-pack.json) |
+| Pinball FX3: Jurassic World Pinball | 164012 | [164012-pinball-fx3-jurassic-world-pinball.json](./164012-pinball-fx3-jurassic-world-pinball.json) |
 | Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX3: Marvel Pinball - Cinematic Pack | 226360 | [226360-pinball-fx3-marvel-pinball-cinematic-pack.json](./226360-pinball-fx3-marvel-pinball-cinematic-pack.json) |
 | Pinball FX3: Marvel Pinball - Heavy Hitters | 164019 | [164019-pinball-fx3-marvel-pinball-heavy-hitters.json](./164019-pinball-fx3-marvel-pinball-heavy-hitters.json) |
+| Pinball FX3: Marvel Pinball - Marvel Legends Pack | 164009 | [164009-pinball-fx3-marvel-pinball-marvel-legends-pack.json](./164009-pinball-fx3-marvel-pinball-marvel-legends-pack.json) |
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Season 2 Bundle | 225946 | [225946-pinball-fx3-marvel-pinball-season-2-bundle.json](./225946-pinball-fx3-marvel-pinball-season-2-bundle.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Medieval Pack | 164008 | [164008-pinball-fx3-medieval-pack.json](./164008-pinball-fx3-medieval-pack.json) |
 | Pinball FX3: Portal Pinball | 164020 | [164020-pinball-fx3-portal-pinball.json](./164020-pinball-fx3-portal-pinball.json) |
 | Pinball FX3: Sci-Fi Pack | 164021 | [164021-pinball-fx3-sci-fi-pack.json](./164021-pinball-fx3-sci-fi-pack.json) |
 | Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
@@ -8067,7 +8072,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Universal Classics Pinball | 164018 | [164018-pinball-fx3-universal-classics-pinball.json](./164018-pinball-fx3-universal-classics-pinball.json) |
 | Pinball FX3: Williams Pinball - Season 1 Bundle | 354048 | [354048-pinball-fx3-williams-pinball-season-1-bundle.json](./354048-pinball-fx3-williams-pinball-season-1-bundle.json) |
 | Pinball FX3: Williams Pinball - Universal Monsters Pack | 164017 | [164017-pinball-fx3-williams-pinball-universal-monsters-pack.json](./164017-pinball-fx3-williams-pinball-universal-monsters-pack.json) |
+| Pinball FX3: Williams Pinball - Volume 1 | 164007 | [164007-pinball-fx3-williams-pinball-volume-1.json](./164007-pinball-fx3-williams-pinball-volume-1.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
+| Pinball FX3: Williams Pinball - Volume 3 | 164015 | [164015-pinball-fx3-williams-pinball-volume-3.json](./164015-pinball-fx3-williams-pinball-volume-3.json) |
+| Pinball FX3: Williams Pinball - Volume 4 | 164013 | [164013-pinball-fx3-williams-pinball-volume-4.json](./164013-pinball-fx3-williams-pinball-volume-4.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball FX3: Williams Pinball - Volume 6 | 164016 | [164016-pinball-fx3-williams-pinball-volume-6.json](./164016-pinball-fx3-williams-pinball-volume-6.json) |
 | Pinball FX3: Williams Table Pack Vol. 1 | 111280 | [111280-pinball-fx3-williams-table-pack-vol-1.json](./111280-pinball-fx3-williams-table-pack-vol-1.json) |
@@ -10031,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixie | 76171 | [76171-pixie.json](./76171-pixie.json) |
 | Pixie Farm VR | 169483 | [169483-pixie-farm-vr.json](./169483-pixie-farm-vr.json) |
 | Pixie Hollow | 138974 | [138974-pixie-hollow.json](./138974-pixie-hollow.json) |
+| Pixie Moon | 129245 | [129245-pixie-moon.json](./129245-pixie-moon.json) |
 | Pixie Panic Garden | 110526 | [110526-pixie-panic-garden.json](./110526-pixie-panic-garden.json) |
 | Pixie Pete | 25688 | [25688-pixie-pete.json](./25688-pixie-pete.json) |
 | Pixie Plates | 399654 | [399654-pixie-plates.json](./399654-pixie-plates.json) |
@@ -13795,7 +13804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist Prodigy | 332203 | [332203-poltergeist-prodigy.json](./332203-poltergeist-prodigy.json) |
 | Poltergeist Treasure | 108016 | [108016-poltergeist-treasure.json](./108016-poltergeist-treasure.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
-| Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Poltergirl | 196377 | [196377-poltergirl.json](./196377-poltergirl.json) |
 | Polterguns | 177655 | [177655-polterguns.json](./177655-polterguns.json) |
 | Polterguys | 217098 | [217098-polterguys.json](./217098-polterguys.json) |
@@ -17096,6 +17104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Prizma Puzzle Classic 2 | 402615 | [402615-prizma-puzzle-classic-2.json](./402615-prizma-puzzle-classic-2.json) |
 | Prizma Puzzle Prime | 234275 | [234275-prizma-puzzle-prime.json](./234275-prizma-puzzle-prime.json) |
+| Pro 11 | 129243 | [129243-pro-11.json](./129243-pro-11.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
