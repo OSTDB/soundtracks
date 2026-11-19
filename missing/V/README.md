@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Raider | 24666 | [24666-viking-raider.json](./24666-viking-raider.json) |
 | Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
+| Viking Run | 430613 | [430613-viking-run.json](./430613-viking-run.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
 | Viking Saga: New World | 34084 | [34084-viking-saga-new-world.json](./34084-viking-saga-new-world.json) |
 | Viking Saga: The Cursed Ring | 34113 | [34113-viking-saga-the-cursed-ring.json](./34113-viking-saga-the-cursed-ring.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Soul Awakening | 192516 | [192516-void-soul-awakening.json](./192516-void-soul-awakening.json) |
 | Void Source | 41941 | [41941-void-source.json](./41941-void-source.json) |
 | Void Source Origins | 368963 | [368963-void-source-origins.json](./368963-void-source-origins.json) |
+| Void Squadron | 430472 | [430472-void-squadron.json](./430472-void-squadron.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Step | 419159 | [419159-void-step.json](./419159-void-step.json) |
 | Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
