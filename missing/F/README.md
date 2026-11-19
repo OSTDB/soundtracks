@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
 | Fight Night Round 4 | 6993 | [6993-fight-night-round-4.json](./6993-fight-night-round-4.json) |
+| Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
 | Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight of Animals: Legend of the Strongest Creature | 125376 | [125376-fight-of-animals-legend-of-the-strongest-creature.json](./125376-fight-of-animals-legend-of-the-strongest-creature.json) |
 | Fight of Steel: Infinity Warrior | 197157 | [197157-fight-of-steel-infinity-warrior.json](./197157-fight-of-steel-infinity-warrior.json) |
@@ -13013,6 +13014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
+| Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
 | Franchise Hockey Manager 8 | 176712 | [176712-franchise-hockey-manager-8.json](./176712-franchise-hockey-manager-8.json) |
 | Franchise Hockey Manager 9 | 220867 | [220867-franchise-hockey-manager-9.json](./220867-franchise-hockey-manager-9.json) |
