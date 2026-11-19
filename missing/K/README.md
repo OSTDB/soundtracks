@@ -3646,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Slime in Cashtle | 400651 | [400651-king-slime-in-cashtle.json](./400651-king-slime-in-cashtle.json) |
 | King Smash | 226540 | [226540-king-smash.json](./226540-king-smash.json) |
+| King Smith | 428958 | [428958-king-smith.json](./428958-king-smith.json) |
 | King Sol Solitare | 209833 | [209833-king-sol-solitare.json](./209833-king-sol-solitare.json) |
 | King Solomon's Lost Mines | 209832 | [209832-king-solomons-lost-mines.json](./209832-king-solomons-lost-mines.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
