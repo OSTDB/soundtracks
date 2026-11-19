@@ -25171,6 +25171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Rhythm XD | 122416 | [122416-spin-rhythm-xd.json](./122416-spin-rhythm-xd.json) |
 | Spin Rhythm XD + Monstercat Bundle | 283201 | [283201-spin-rhythm-xd-monstercat-bundle.json](./283201-spin-rhythm-xd-monstercat-bundle.json) |
 | Spin Rhythm XD: Chillhop | 332606 | [332606-spin-rhythm-xd-chillhop.json](./332606-spin-rhythm-xd-chillhop.json) |
+| Spin Rhythm XD: Indie Pack | 379593 | [379593-spin-rhythm-xd-indie-pack.json](./379593-spin-rhythm-xd-indie-pack.json) |
 | Spin Rhythm XD: Monstercat | 274597 | [274597-spin-rhythm-xd-monstercat.json](./274597-spin-rhythm-xd-monstercat.json) |
 | Spin Rhythm XD: Supporter Pack DLC | 273312 | [273312-spin-rhythm-xd-supporter-pack-dlc.json](./273312-spin-rhythm-xd-supporter-pack-dlc.json) |
 | Spin Royale | 344459 | [344459-spin-royale.json](./344459-spin-royale.json) |
