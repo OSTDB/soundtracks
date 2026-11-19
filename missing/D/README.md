@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash x Survivors | 296211 | [296211-dash-x-survivors.json](./296211-dash-x-survivors.json) |
 | Dash-da-dash DX | 183844 | [183844-dash-da-dash-dx.json](./183844-dash-da-dash-dx.json) |
 | Dash-Da-Dash DX2: Devil Destroyer | 338136 | [338136-dash-da-dash-dx2-devil-destroyer.json](./338136-dash-da-dash-dx2-devil-destroyer.json) |
+| DASH: Danger Action Speed Heroes | 107645 | [107645-dash-danger-action-speed-heroes.json](./107645-dash-danger-action-speed-heroes.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
@@ -5753,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck Defenders | 237317 | [237317-deck-defenders.json](./237317-deck-defenders.json) |
 | Deck Defense | 301427 | [301427-deck-defense.json](./301427-deck-defense.json) |
 | Deck Heroes | 38673 | [38673-deck-heroes.json](./38673-deck-heroes.json) |
+| Deck Hunter | 106418 | [106418-deck-hunter.json](./106418-deck-hunter.json) |
 | Deck Make Million Arthur | 125772 | [125772-deck-make-million-arthur.json](./125772-deck-make-million-arthur.json) |
 | Deck of Ashes: Complete Edition | 196816 | [196816-deck-of-ashes-complete-edition.json](./196816-deck-of-ashes-complete-edition.json) |
 | Deck of Ashes: Tome of Dimensions | 197665 | [197665-deck-of-ashes-tome-of-dimensions.json](./197665-deck-of-ashes-tome-of-dimensions.json) |
@@ -20129,6 +20131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Life 5: Treasure Hunt | 102038 | [102038-duck-life-5-treasure-hunt.json](./102038-duck-life-5-treasure-hunt.json) |
 | Duck Life 9: The Flock | 253309 | [253309-duck-life-9-the-flock.json](./253309-duck-life-9-the-flock.json) |
 | Duck Life Adventure | 140883 | [140883-duck-life-adventure.json](./140883-duck-life-adventure.json) |
+| Duck Life: Battle | 106824 | [106824-duck-life-battle.json](./106824-duck-life-battle.json) |
 | Duck Life: Retro Pack | 88969 | [88969-duck-life-retro-pack.json](./88969-duck-life-retro-pack.json) |
 | Duck Life: Space | 29177 | [29177-duck-life-space.json](./29177-duck-life-space.json) |
 | Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
