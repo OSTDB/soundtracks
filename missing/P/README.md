@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedestal | 238662 | [238662-pedestal.json](./238662-pedestal.json) |
 | Pedigree Tactics | 368703 | [368703-pedigree-tactics.json](./368703-pedigree-tactics.json) |
+| Pediluvium | 392497 | [392497-pediluvium.json](./392497-pediluvium.json) |
 | Pedra Crystal Caves | 223203 | [223203-pedra-crystal-caves.json](./223203-pedra-crystal-caves.json) |
 | Pedreiro polar | 230715 | [230715-pedreiro-polar.json](./230715-pedreiro-polar.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
@@ -5971,7 +5972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phalanx of Resistance | 130143 | [130143-phalanx-of-resistance.json](./130143-phalanx-of-resistance.json) |
 | Phanotia I: Escavive | 233711 | [233711-phanotia-i-escavive.json](./233711-phanotia-i-escavive.json) |
 | Phanotia: Interlude I-Aubzan Abbey | 254372 | [254372-phanotia-interlude-i-aubzan-abbey.json](./254372-phanotia-interlude-i-aubzan-abbey.json) |
-| Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
 | Phantasia | 192152 | [192152-phantasia.json](./192152-phantasia.json) |
 | Phantasia | 25409 | [25409-phantasia.json](./25409-phantasia.json) |
 | Phantasia | 285724 | [285724-phantasia.json](./285724-phantasia.json) |
@@ -6935,7 +6935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Penguin | 202142 | [202142-picnic-penguin.json](./202142-picnic-penguin.json) |
 | Picnic Peril | 291944 | [291944-picnic-peril.json](./291944-picnic-peril.json) |
 | Picnic Syndrome | 341578 | [341578-picnic-syndrome.json](./341578-picnic-syndrome.json) |
-| Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico Checkmate | 179649 | [179649-pico-checkmate.json](./179649-pico-checkmate.json) |
 | Pico de Pon | 279771 | [279771-pico-de-pon.json](./279771-pico-de-pon.json) |
 | Pico Dino | 288668 | [288668-pico-dino.json](./288668-pico-dino.json) |
@@ -7933,7 +7932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
-| Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX VR: Tomb Raider Pinball | 342969 | [342969-pinball-fx-vr-tomb-raider-pinball.json](./342969-pinball-fx-vr-tomb-raider-pinball.json) |
@@ -8753,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | PirateFi | 341610 | [341610-piratefi.json](./341610-piratefi.json) |
+| PirateGate | 392503 | [392503-pirategate.json](./392503-pirategate.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 180411 | [180411-pirates.json](./180411-pirates.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
@@ -8769,7 +8768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Assault | 85343 | [85343-pirates-assault.json](./85343-pirates-assault.json) |
 | Pirates Bay | 211802 | [211802-pirates-bay.json](./211802-pirates-bay.json) |
 | Pirates Crew | 176297 | [176297-pirates-crew.json](./176297-pirates-crew.json) |
-| Pirates CSG Online | 20643 | [20643-pirates-csg-online.json](./20643-pirates-csg-online.json) |
 | Pirates Deck | 35643 | [35643-pirates-deck.json](./35643-pirates-deck.json) |
 | Pirates Girls | 148971 | [148971-pirates-girls.json](./148971-pirates-girls.json) |
 | Pirates Gold | 235539 | [235539-pirates-gold.json](./235539-pirates-gold.json) |
@@ -8800,7 +8798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Asteroid Belt | 336955 | [336955-pirates-of-the-asteroid-belt.json](./336955-pirates-of-the-asteroid-belt.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
-| Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
 | Pirates of the Caribbean | 220540 | [220540-pirates-of-the-caribbean.json](./220540-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean | 5982 | [5982-pirates-of-the-caribbean.json](./5982-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean Multiplayer | 316321 | [316321-pirates-of-the-caribbean-multiplayer.json](./316321-pirates-of-the-caribbean-multiplayer.json) |
@@ -8846,7 +8843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
 | Pirates: Constructible Strategy Game | 67748 | [67748-pirates-constructible-strategy-game.json](./67748-pirates-constructible-strategy-game.json) |
-| Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Hunt for Blackbeard's Booty | 50683 | [50683-pirates-hunt-for-blackbeards-booty.json](./50683-pirates-hunt-for-blackbeards-booty.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
@@ -8940,7 +8936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pita-Ten Minigame: Gohan to ka dekimasu | 208505 | [208505-pita-ten-minigame-gohan-to-ka-dekimasu.json](./208505-pita-ten-minigame-gohan-to-ka-dekimasu.json) |
 | Pitapat | 62870 | [62870-pitapat.json](./62870-pitapat.json) |
 | Pitapat-Beat | 202908 | [202908-pitapat-beat.json](./202908-pitapat-beat.json) |
-| Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
 | Pitbull Dale 10 | 360445 | [360445-pitbull-dale-10.json](./360445-pitbull-dale-10.json) |
@@ -10475,7 +10470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Cracker | 66969 | [66969-planet-cracker.json](./66969-planet-cracker.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
 | Planet Crafter | 182874 | [182874-planet-crafter.json](./182874-planet-crafter.json) |
-| Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
@@ -14430,7 +14424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poozle Mania | 224974 | [224974-poozle-mania.json](./224974-poozle-mania.json) |
 | Poozle Mania: Girls DLC #2 | 277128 | [277128-poozle-mania-girls-dlc-2.json](./277128-poozle-mania-girls-dlc-2.json) |
 | Pop | 21828 | [21828-pop.json](./21828-pop.json) |
-| Pop 'Em Drop 'Em SameGame | 21180 | [21180-pop-em-drop-em-samegame.json](./21180-pop-em-drop-em-samegame.json) |
 | Pop 'n Bounce | 39949 | [39949-pop-n-bounce.json](./39949-pop-n-bounce.json) |
 | Pop 'n Magic | 37582 | [37582-pop-n-magic.json](./37582-pop-n-magic.json) |
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
@@ -15554,7 +15547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Wild Force | 49181 | [49181-power-rangers-wild-force.json](./49181-power-rangers-wild-force.json) |
 | Power Rush | 194375 | [194375-power-rush.json](./194375-power-rush.json) |
 | Power Scadle | 388099 | [388099-power-scadle.json](./388099-power-scadle.json) |
-| Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Shovel | 44741 | [44741-power-shovel.json](./44741-power-shovel.json) |
 | Power Singer: Ellance Saga #1 | 126089 | [126089-power-singer-ellance-saga-1.json](./126089-power-singer-ellance-saga-1.json) |
 | Power Sink | 236781 | [236781-power-sink.json](./236781-power-sink.json) |
@@ -16276,6 +16268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
+| Priceless Return | 392500 | [392500-priceless-return.json](./392500-priceless-return.json) |
 | PriceRPG | 111217 | [111217-pricerpg.json](./111217-pricerpg.json) |
 | Prichal | 377525 | [377525-prichal.json](./377525-prichal.json) |
 | Pricia Defense | 225204 | [225204-pricia-defense.json](./225204-pricia-defense.json) |
@@ -16611,7 +16604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Daisy Forever: Revival | 324075 | [324075-princess-daisy-forever-revival.json](./324075-princess-daisy-forever-revival.json) |
 | Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
-| Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
 | Princess Defender: Episode 1 | 195326 | [195326-princess-defender-episode-1.json](./195326-princess-defender-episode-1.json) |
 | Princess Doll Dress Up Games | 301199 | [301199-princess-doll-dress-up-games.json](./301199-princess-doll-dress-up-games.json) |
 | Princess Drawing! | 206504 | [206504-princess-drawing.json](./206504-princess-drawing.json) |
@@ -18301,7 +18293,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
 | Project OutFox | 144430 | [144430-project-outfox.json](./144430-project-outfox.json) |
 | Project Overdrive | 186140 | [186140-project-overdrive.json](./186140-project-overdrive.json) |
-| Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
 | Project Oxygen | 136085 | [136085-project-oxygen.json](./136085-project-oxygen.json) |
 | Project Ozone 3 | 230348 | [230348-project-ozone-3.json](./230348-project-ozone-3.json) |
@@ -19555,6 +19546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
 | Puchiguru Love Live! | 99304 | [99304-puchiguru-love-live.json](./99304-puchiguru-love-live.json) |
 | PuchiTamaWalker | 221585 | [221585-puchitamawalker.json](./221585-puchitamawalker.json) |
+| Puchitto Chronicle | 392511 | [392511-puchitto-chronicle.json](./392511-puchitto-chronicle.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
 | Puchitto Rock Shooter | 324801 | [324801-puchitto-rock-shooter.json](./324801-puchitto-rock-shooter.json) |
 | Puchitto Rock Shooter: Pursue the Mystery of the Sexy Planet | 324802 | [324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json](./324802-puchitto-rock-shooter-pursue-the-mystery-of-the-sexy-planet.json) |
