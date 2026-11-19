@@ -17964,6 +17964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
+| Brigandine Abyss | 389424 | [389424-brigandine-abyss.json](./389424-brigandine-abyss.json) |
 | Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
 | Brigandine: The Legend of Forsena | 3127 | [3127-brigandine-the-legend-of-forsena.json](./3127-brigandine-the-legend-of-forsena.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
