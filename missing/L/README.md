@@ -3679,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Cloak and Dagger Character and Level Pack | 137318 | [137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json](./137318-lego-marvel-super-heroes-2-cloak-and-dagger-character-and-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Deluxe Edition | 54167 | [54167-lego-marvel-super-heroes-2-deluxe-edition.json](./54167-lego-marvel-super-heroes-2-deluxe-edition.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Ant-Man and the Wasp Level and Character Pack | 168783 | [168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json](./168783-lego-marvel-super-heroes-2-marvels-ant-man-and-the-wasp-level-and-character-pack.json) |
+| LEGO Marvel Super Heroes 2: Marvel's Avengers - Infinity War Level and Character Pack | 168784 | [168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json](./168784-lego-marvel-super-heroes-2-marvels-avengers-infinity-war-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Black Panther Movie Character and Level Pack | 168786 | [168786-lego-marvel-super-heroes-2-marvels-black-panther-movie-character-and-level-pack.json](./168786-lego-marvel-super-heroes-2-marvels-black-panther-movie-character-and-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Marvel's Guardians of the Galaxy - Vol. 2 Movie Level Pack | 137309 | [137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json](./137309-lego-marvel-super-heroes-2-marvels-guardians-of-the-galaxy-vol-2-movie-level-pack.json) |
 | LEGO Marvel Super Heroes 2: Out of Time Character Pack | 168787 | [168787-lego-marvel-super-heroes-2-out-of-time-character-pack.json](./168787-lego-marvel-super-heroes-2-out-of-time-character-pack.json) |
@@ -4427,6 +4428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
 | Let's Sing 2021: Mit Deutschen Hits | 146150 | [146150-lets-sing-2021-mit-deutschen-hits.json](./146150-lets-sing-2021-mit-deutschen-hits.json) |
 | Let's Sing 2021: Platinum Edition | 175532 | [175532-lets-sing-2021-platinum-edition.json](./175532-lets-sing-2021-platinum-edition.json) |
+| Let's Sing 2022 | 168550 | [168550-lets-sing-2022.json](./168550-lets-sing-2022.json) |
 | Let's Sing 2022 with German Hits: Platinum Edition | 185711 | [185711-lets-sing-2022-with-german-hits-platinum-edition.json](./185711-lets-sing-2022-with-german-hits-platinum-edition.json) |
 | Let's Sing 2022: Chinese Version | 215361 | [215361-lets-sing-2022-chinese-version.json](./215361-lets-sing-2022-chinese-version.json) |
 | Let's Sing 2022: French Version | 175978 | [175978-lets-sing-2022-french-version.json](./175978-lets-sing-2022-french-version.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | Lovecraft's Untold Stories | 102995 | [102995-lovecrafts-untold-stories.json](./102995-lovecrafts-untold-stories.json) |
+| Lovecraft's Untold Stories 2 | 172449 | [172449-lovecrafts-untold-stories-2.json](./172449-lovecrafts-untold-stories-2.json) |
 | Lovecraft's Untold Stories: Collector's Edition | 166999 | [166999-lovecrafts-untold-stories-collectors-edition.json](./166999-lovecrafts-untold-stories-collectors-edition.json) |
 | Lovecraftian Bundle | 259512 | [259512-lovecraftian-bundle.json](./259512-lovecraftian-bundle.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
