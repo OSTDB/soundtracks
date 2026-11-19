@@ -6254,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Kittens 9: Aliens | 386690 | [386690-find-kittens-9-aliens.json](./386690-find-kittens-9-aliens.json) |
 | Find Kittens: The Last of Cats | 295868 | [295868-find-kittens-the-last-of-cats.json](./295868-find-kittens-the-last-of-cats.json) |
 | Find Kittens: The Last of Cats - Extra Level | 303113 | [303113-find-kittens-the-last-of-cats-extra-level.json](./303113-find-kittens-the-last-of-cats-extra-level.json) |
+| Find Lah! | 424769 | [424769-find-lah.json](./424769-find-lah.json) |
 | Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying | 324734 | [324734-find-love-or-die-trying.json](./324734-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
@@ -9137,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipnic: Ultimate Pinball | 28530 | [28530-flipnic-ultimate-pinball.json](./28530-flipnic-ultimate-pinball.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
 | Flipo: Gravity Adventure | 233456 | [233456-flipo-gravity-adventure.json](./233456-flipo-gravity-adventure.json) |
+| Flipocalypse | 424786 | [424786-flipocalypse.json](./424786-flipocalypse.json) |
 | Flipol | 167596 | [167596-flipol.json](./167596-flipol.json) |
 | Flipolio | 401356 | [401356-flipolio.json](./401356-flipolio.json) |
 | Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
@@ -10218,6 +10220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folder Dungeon | 267357 | [267357-folder-dungeon.json](./267357-folder-dungeon.json) |
 | Folder Folder Folder | 414493 | [414493-folder-folder-folder.json](./414493-folder-folder-folder.json) |
 | Folders on the Run | 398497 | [398497-folders-on-the-run.json](./398497-folders-on-the-run.json) |
+| Folding Dungeon | 424810 | [424810-folding-dungeon.json](./424810-folding-dungeon.json) |
 | Folding Maze | 195700 | [195700-folding-maze.json](./195700-folding-maze.json) |
 | Foldit | 92609 | [92609-foldit.json](./92609-foldit.json) |
 | Foldlock | 428752 | [428752-foldlock.json](./428752-foldlock.json) |
@@ -14916,6 +14919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fry You Fool | 370372 | [370372-fry-you-fool.json](./370372-fry-you-fool.json) |
 | FRZ Racing | 238926 | [238926-frz-racing.json](./238926-frz-racing.json) |
 | FSA Driving | 294102 | [294102-fsa-driving.json](./294102-fsa-driving.json) |
+| Fsh | 424767 | [424767-fsh.json](./424767-fsh.json) |
 | FSKN | 350357 | [350357-fskn.json](./350357-fskn.json) |
 | FSR: French Street Racing | 208480 | [208480-fsr-french-street-racing.json](./208480-fsr-french-street-racing.json) |
 | FSX Steam Edition: Toposim Central America Add-On | 157870 | [157870-fsx-steam-edition-toposim-central-america-add-on.json](./157870-fsx-steam-edition-toposim-central-america-add-on.json) |
