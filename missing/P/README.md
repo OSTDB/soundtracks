@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaperKlay | 204531 | [204531-paperklay.json](./204531-paperklay.json) |
 | Paperlands | 418267 | [418267-paperlands.json](./418267-paperlands.json) |
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
+| Paperly 2 | 428950 | [428950-paperly-2.json](./428950-paperly-2.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
 | PaperMan | 80081 | [80081-paperman.json](./80081-paperman.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parcel Push | 378825 | [378825-parcel-push.json](./378825-parcel-push.json) |
 | Parcel Simulator | 251927 | [251927-parcel-simulator.json](./251927-parcel-simulator.json) |
+| Parcel Works: Packing Simulator | 428995 | [428995-parcel-works-packing-simulator.json](./428995-parcel-works-packing-simulator.json) |
 | Parcels and Pollen | 177503 | [177503-parcels-and-pollen.json](./177503-parcels-and-pollen.json) |
 | Parcheesi Boardgame Simulator | 110613 | [110613-parcheesi-boardgame-simulator.json](./110613-parcheesi-boardgame-simulator.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
@@ -4847,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| Peolesa | 428946 | [428946-peolesa.json](./428946-peolesa.json) |
 | Peony Plague | 398720 | [398720-peony-plague.json](./398720-peony-plague.json) |
 | Peony's Eternity | 398760 | [398760-peonys-eternity.json](./398760-peonys-eternity.json) |
 | People | 117254 | [117254-people.json](./117254-people.json) |
@@ -10493,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
 | Planet Horse | 87449 | [87449-planet-horse.json](./87449-planet-horse.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
+| Planet Impacter | 428960 | [428960-planet-impacter.json](./428960-planet-impacter.json) |
 | Planet in the Shadows | 33362 | [33362-planet-in-the-shadows.json](./33362-planet-in-the-shadows.json) |
 | Planet Invasion | 70954 | [70954-planet-invasion.json](./70954-planet-invasion.json) |
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
