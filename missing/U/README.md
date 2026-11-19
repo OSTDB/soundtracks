@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld: The Eternal War | 43567 | [43567-underworld-the-eternal-war.json](./43567-underworld-the-eternal-war.json) |
 | Underworld: The Shelter | 249590 | [249590-underworld-the-shelter.json](./249590-underworld-the-shelter.json) |
 | Underworlds | 67816 | [67816-underworlds.json](./67816-underworlds.json) |
+| Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
 | Underzone | 132460 | [132460-underzone.json](./132460-underzone.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
@@ -3884,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
 | Urthwurm | 100045 | [100045-urthwurm.json](./100045-urthwurm.json) |
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
+| URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Uru: The Path of the Shell | 73216 | [73216-uru-the-path-of-the-shell.json](./73216-uru-the-path-of-the-shell.json) |
 | Uru: To D'ni | 71127 | [71127-uru-to-dni.json](./71127-uru-to-dni.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia, an Essay | 139554 | [139554-utopia-an-essay.json](./139554-utopia-an-essay.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
 | Utopia: Origin | 182176 | [182176-utopia-origin.json](./182176-utopia-origin.json) |
+| Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
 | Utopia: The New Worlds | 14642 | [14642-utopia-the-new-worlds.json](./14642-utopia-the-new-worlds.json) |
 | Utopian Mining | 408744 | [408744-utopian-mining.json](./408744-utopian-mining.json) |
 | Utopias: Navigating Without Coordinates | 132635 | [132635-utopias-navigating-without-coordinates.json](./132635-utopias-navigating-without-coordinates.json) |
