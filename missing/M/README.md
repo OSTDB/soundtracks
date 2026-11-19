@@ -11389,6 +11389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalhead Tycoon | 60975 | [60975-metalhead-tycoon.json](./60975-metalhead-tycoon.json) |
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
 | Metalizer | 97411 | [97411-metalizer.json](./97411-metalizer.json) |
+| Metallic Child | 107143 | [107143-metallic-child.json](./107143-metallic-child.json) |
 | Metallic Men | 254208 | [254208-metallic-men.json](./254208-metallic-men.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
@@ -19123,6 +19124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfall | 190794 | [190794-moonfall.json](./190794-moonfall.json) |
 | Moonfall | 270603 | [270603-moonfall.json](./270603-moonfall.json) |
 | Moonfall | 51470 | [51470-moonfall.json](./51470-moonfall.json) |
+| Moonfall Ultimate | 106741 | [106741-moonfall-ultimate.json](./106741-moonfall-ultimate.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
 | Moonfang | 175751 | [175751-moonfang.json](./175751-moonfang.json) |
