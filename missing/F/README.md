@@ -8654,7 +8654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Form Fighter | 126939 | [126939-flat-form-fighter.json](./126939-flat-form-fighter.json) |
 | Flat Galaxy: An Idlemare | 387623 | [387623-flat-galaxy-an-idlemare.json](./387623-flat-galaxy-an-idlemare.json) |
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
-| Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Machine | 304316 | [304316-flat-machine.json](./304316-flat-machine.json) |
 | Flat MMO | 381504 | [381504-flat-mmo.json](./381504-flat-mmo.json) |
 | Flat Pack | 83287 | [83287-flat-pack.json](./83287-flat-pack.json) |
