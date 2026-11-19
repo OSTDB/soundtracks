@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball 2: Vengeance and Virtue Pack | 354695 | [354695-zen-pinball-2-vengeance-and-virtue-pack.json](./354695-zen-pinball-2-vengeance-and-virtue-pack.json) |
 | Zen Pinball 2: Venom | 354698 | [354698-zen-pinball-2-venom.json](./354698-zen-pinball-2-venom.json) |
 | Zen Pinball 2: Zen Pinball Classics | 354688 | [354688-zen-pinball-2-zen-pinball-classics.json](./354688-zen-pinball-2-zen-pinball-classics.json) |
+| Zen Pinball 3D | 21146 | [21146-zen-pinball-3d.json](./21146-zen-pinball-3d.json) |
 | Zen Pinball Party | 174587 | [174587-zen-pinball-party.json](./174587-zen-pinball-party.json) |
 | Zen Pinball Party: My Little Pony Pinball | 231447 | [231447-zen-pinball-party-my-little-pony-pinball.json](./231447-zen-pinball-party-my-little-pony-pinball.json) |
 | Zen Pinball World | 324566 | [324566-zen-pinball-world.json](./324566-zen-pinball-world.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Frenzy | 66891 | [66891-zoo-frenzy.json](./66891-zoo-frenzy.json) |
 | Zoo Fun | 283114 | [283114-zoo-fun.json](./283114-zoo-fun.json) |
 | Zoo Fun | 40635 | [40635-zoo-fun.json](./40635-zoo-fun.json) |
+| Zoo Hospital | 21220 | [21220-zoo-hospital.json](./21220-zoo-hospital.json) |
 | Zoo Island: Build Your Zoological Park | 87418 | [87418-zoo-island-build-your-zoological-park.json](./87418-zoo-island-build-your-zoological-park.json) |
 | Zoo keeper | 184408 | [184408-zoo-keeper.json](./184408-zoo-keeper.json) |
 | Zoo Keeper | 327638 | [327638-zoo-keeper.json](./327638-zoo-keeper.json) |
