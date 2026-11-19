@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Off: Director's Cut | 287468 | [287468-lights-off-directors-cut.json](./287468-lights-off-directors-cut.json) |
 | Lights Off! | 202514 | [202514-lights-off.json](./202514-lights-off.json) |
+| Lights On My Screen | 421529 | [421529-lights-on-my-screen.json](./421529-lights-on-my-screen.json) |
 | Lights Orb | 143316 | [143316-lights-orb.json](./143316-lights-orb.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
 | Lights Out | 217183 | [217183-lights-out.json](./217183-lights-out.json) |
@@ -6945,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Misfortune | 108778 | [108778-little-misfortune.json](./108778-little-misfortune.json) |
 | Little Misfortune: Fancy Edition | 154213 | [154213-little-misfortune-fancy-edition.json](./154213-little-misfortune-fancy-edition.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
+| Little Missed Robot | 421739 | [421739-little-missed-robot.json](./421739-little-missed-robot.json) |
 | Little Moneybags | 157079 | [157079-little-moneybags.json](./157079-little-moneybags.json) |
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
