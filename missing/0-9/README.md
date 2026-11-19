@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Lines Hero | 296018 | [296018-10-lines-hero.json](./296018-10-lines-hero.json) |
 | 10 Lines Princess | 296223 | [296223-10-lines-princess.json](./296223-10-lines-princess.json) |
 | 10 Little Robots | 76621 | [76621-10-little-robots.json](./76621-10-little-robots.json) |
+| 10 Miles to Safety | 122809 | [122809-10-miles-to-safety.json](./122809-10-miles-to-safety.json) |
 | 10 Million Bounces | 424711 | [424711-10-million-bounces.json](./424711-10-million-bounces.json) |
 | 10 Million Pixels | 413109 | [413109-10-million-pixels.json](./413109-10-million-pixels.json) |
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
@@ -3587,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 61 Days | 121088 | [121088-61-days.json](./121088-61-days.json) |
 | 6120 | 117257 | [117257-6120.json](./117257-6120.json) |
 | 615≠0 Repost Request | 394069 | [394069-615-0-repost-request.json](./394069-615-0-repost-request.json) |
+| 6180 The Moon | 11435 | [11435-6180-the-moon.json](./11435-6180-the-moon.json) |
 | 625 Sandwich Stacker | 133765 | [133765-625-sandwich-stacker.json](./133765-625-sandwich-stacker.json) |
 | 63 Days | 296541 | [296541-63-days.json](./296541-63-days.json) |
 | 63 Days: The Home Army Edition | 323899 | [323899-63-days-the-home-army-edition.json](./323899-63-days-the-home-army-edition.json) |
@@ -3722,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Wonders: Ancient Alien Makeover | 4638 | [4638-7-wonders-ancient-alien-makeover.json](./4638-7-wonders-ancient-alien-makeover.json) |
 | 7 Wonders: Magical Mystery Tour | 4637 | [4637-7-wonders-magical-mystery-tour.json](./4637-7-wonders-magical-mystery-tour.json) |
 | 7 Wonders: Treasures of Seven | 4635 | [4635-7-wonders-treasures-of-seven.json](./4635-7-wonders-treasures-of-seven.json) |
+| 7 Years From Now | 115856 | [115856-7-years-from-now.json](./115856-7-years-from-now.json) |
 | 7 Years War | 157003 | [157003-7-years-war.json](./157003-7-years-war.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7-in-1 Brain Sharpness Bundle | 100635 | [100635-7-in-1-brain-sharpness-bundle.json](./100635-7-in-1-brain-sharpness-bundle.json) |
@@ -4061,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-Bit Armies: Going Rogue! | 369442 | [369442-9-bit-armies-going-rogue.json](./369442-9-bit-armies-going-rogue.json) |
 | 9-gatsu no Yoru ni Tsume Shogi | 151874 | [151874-9-gatsu-no-yoru-ni-tsume-shogi.json](./151874-9-gatsu-no-yoru-ni-tsume-shogi.json) |
+| 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9-nine-: Episode 2 | 121587 | [121587-9-nine-episode-2.json](./121587-9-nine-episode-2.json) |
 | 9-nine-: Episode 3 | 143365 | [143365-9-nine-episode-3.json](./143365-9-nine-episode-3.json) |
 | 9-nine-: Episode 4 | 144885 | [144885-9-nine-episode-4.json](./144885-9-nine-episode-4.json) |
