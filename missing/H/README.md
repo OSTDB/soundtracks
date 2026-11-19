@@ -10307,6 +10307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Drive | 346886 | [346886-hollow-drive.json](./346886-hollow-drive.json) |
 | Hollow Earth | 291689 | [291689-hollow-earth.json](./291689-hollow-earth.json) |
 | Hollow Faces | 388186 | [388186-hollow-faces.json](./388186-hollow-faces.json) |
+| Hollow Flesh | 425383 | [425383-hollow-flesh.json](./425383-hollow-flesh.json) |
 | Hollow Floor | 296617 | [296617-hollow-floor.json](./296617-hollow-floor.json) |
 | Hollow Floor | 355154 | [355154-hollow-floor.json](./355154-hollow-floor.json) |
 | Hollow Flowers | 305089 | [305089-hollow-flowers.json](./305089-hollow-flowers.json) |
@@ -10379,6 +10380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowroot | 344356 | [344356-hollowroot.json](./344356-hollowroot.json) |
 | Hollowsk 1999 3D | 193601 | [193601-hollowsk-1999-3d.json](./193601-hollowsk-1999-3d.json) |
 | Hollowspire | 342940 | [342940-hollowspire.json](./342940-hollowspire.json) |
+| Hollowstride | 425379 | [425379-hollowstride.json](./425379-hollowstride.json) |
 | Holly 2: Magic Land | 24768 | [24768-holly-2-magic-land.json](./24768-holly-2-magic-land.json) |
 | Holly Hobbie & Friends | 67752 | [67752-holly-hobbie-and-friends.json](./67752-holly-hobbie-and-friends.json) |
 | Holly-Day Ice-Spionage | 285501 | [285501-holly-day-ice-spionage.json](./285501-holly-day-ice-spionage.json) |
