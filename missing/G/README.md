@@ -4959,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
 | Gilbert: Escape from Drill | 69159 | [69159-gilbert-escape-from-drill.json](./69159-gilbert-escape-from-drill.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
+| Gilded Desert | 421742 | [421742-gilded-desert.json](./421742-gilded-desert.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
 | Gilded Eternal | 217226 | [217226-gilded-eternal.json](./217226-gilded-eternal.json) |
 | Gilded Gears | 307891 | [307891-gilded-gears.json](./307891-gilded-gears.json) |
@@ -6286,6 +6287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fly a Kite | 239864 | [239864-go-fly-a-kite.json](./239864-go-fly-a-kite.json) |
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
 | Go For a Walk | 128165 | [128165-go-for-a-walk.json](./128165-go-for-a-walk.json) |
+| Go for Gold | 421735 | [421735-go-for-gold.json](./421735-go-for-gold.json) |
 | Go For Launch: Mercury | 32765 | [32765-go-for-launch-mercury.json](./32765-go-for-launch-mercury.json) |
 | Go for the Gold | 270252 | [270252-go-for-the-gold.json](./270252-go-for-the-gold.json) |
 | Go Forward Survivors | 373775 | [373775-go-forward-survivors.json](./373775-go-forward-survivors.json) |
@@ -7364,6 +7366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush! Anniversary | 36230 | [36230-gold-rush-anniversary.json](./36230-gold-rush-anniversary.json) |
 | Gold Rush! Anniversary: Special Edition | 54055 | [54055-gold-rush-anniversary-special-edition.json](./54055-gold-rush-anniversary-special-edition.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
+| Gold Rusher: Drilly's Adventure | 421737 | [421737-gold-rusher-drillys-adventure.json](./421737-gold-rusher-drillys-adventure.json) |
 | Gold Ryoushi | 348548 | [348548-gold-ryoushi.json](./348548-gold-ryoushi.json) |
 | Gold Scrapping Simulator | 289528 | [289528-gold-scrapping-simulator.json](./289528-gold-scrapping-simulator.json) |
 | Gold Seeker | 285490 | [285490-gold-seeker.json](./285490-gold-seeker.json) |
@@ -8985,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Emprise: Time Travel Survival | 229106 | [229106-grand-emprise-time-travel-survival.json](./229106-grand-emprise-time-travel-survival.json) |
 | Grand Fantasia | 47106 | [47106-grand-fantasia.json](./47106-grand-fantasia.json) |
 | Grand Fantasia: Origin | 311164 | [311164-grand-fantasia-origin.json](./311164-grand-fantasia-origin.json) |
+| Grand Fantasy Empires | 421675 | [421675-grand-fantasy-empires.json](./421675-grand-fantasy-empires.json) |
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Father Island | 138397 | [138397-grand-father-island.json](./138397-grand-father-island.json) |
 | Grand Fix | 176530 | [176530-grand-fix.json](./176530-grand-fix.json) |
