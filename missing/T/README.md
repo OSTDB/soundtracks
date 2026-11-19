@@ -17830,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
 | The Reincarnation | 383107 | [383107-the-reincarnation.json](./383107-the-reincarnation.json) |
+| The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relic: First Guardian | 165397 | [165397-the-relic-first-guardian.json](./165397-the-relic-first-guardian.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
