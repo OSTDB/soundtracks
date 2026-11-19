@@ -1677,7 +1677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
 | Talisman: The Harbinger | 149022 | [149022-talisman-the-harbinger.json](./149022-talisman-the-harbinger.json) |
 | Talisman: The Highland Expansion - Legendary Deck | 168517 | [168517-talisman-the-highland-expansion-legendary-deck.json](./168517-talisman-the-highland-expansion-legendary-deck.json) |
-| Talisman: The Horus Heresy | 18086 | [18086-talisman-the-horus-heresy.json](./18086-talisman-the-horus-heresy.json) |
 | Talisman: The Horus Heresy - Isstvan Campaign | 428411 | [428411-talisman-the-horus-heresy-isstvan-campaign.json](./428411-talisman-the-horus-heresy-isstvan-campaign.json) |
 | Talisman: The Horus Heresy - Prospero | 428413 | [428413-talisman-the-horus-heresy-prospero.json](./428413-talisman-the-horus-heresy-prospero.json) |
 | Talisman: The Horus Heresy - Shadow Crusade | 428412 | [428412-talisman-the-horus-heresy-shadow-crusade.json](./428412-talisman-the-horus-heresy-shadow-crusade.json) |
@@ -8618,7 +8617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Countdown | 419815 | [419815-the-countdown.json](./419815-the-countdown.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
 | The Counterattack of Sacrifice | 117230 | [117230-the-counterattack-of-sacrifice.json](./117230-the-counterattack-of-sacrifice.json) |
-| The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Courage of Cordelia | 332310 | [332310-the-courage-of-cordelia.json](./332310-the-courage-of-cordelia.json) |
 | The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
 | The Courier | 125560 | [125560-the-courier.json](./125560-the-courier.json) |
@@ -16918,7 +16916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin IQ Test | 151282 | [151282-the-penguin-iq-test.json](./151282-the-penguin-iq-test.json) |
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The PenguinGame 2: Lies of Penguin | 272079 | [272079-the-penguingame-2-lies-of-penguin.json](./272079-the-penguingame-2-lies-of-penguin.json) |
-| The Penguins of Madagascar | 18273 | [18273-the-penguins-of-madagascar.json](./18273-the-penguins-of-madagascar.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 307491 | [307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 3768 | [3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
@@ -21048,7 +21045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vanishing | 317969 | [317969-the-vanishing.json](./317969-the-vanishing.json) |
 | The Vanishing Hitchhiker | 223866 | [223866-the-vanishing-hitchhiker.json](./223866-the-vanishing-hitchhiker.json) |
 | The Vanishing of Ethan Carter Redux | 102123 | [102123-the-vanishing-of-ethan-carter-redux.json](./102123-the-vanishing-of-ethan-carter-redux.json) |
-| The Vanishing of Ethan Carter VR | 19065 | [19065-the-vanishing-of-ethan-carter-vr.json](./19065-the-vanishing-of-ethan-carter-vr.json) |
 | The Vanishing Train | 380807 | [380807-the-vanishing-train.json](./380807-the-vanishing-train.json) |
 | The VanMan | 172955 | [172955-the-vanman.json](./172955-the-vanman.json) |
 | The Varginha Incident | 2535 | [2535-the-varginha-incident.json](./2535-the-varginha-incident.json) |
@@ -22128,7 +22124,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thebes | 312201 | [312201-thebes.json](./312201-thebes.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBlackHouse | 181105 | [181105-theblackhouse.json](./181105-theblackhouse.json) |
-| theBlu | 19067 | [19067-theblu.json](./19067-theblu.json) |
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | THEC64 Mini | 215425 | [215425-thec64-mini.json](./215425-thec64-mini.json) |
@@ -22971,7 +22966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Side | 116279 | [116279-this-side.json](./116279-this-side.json) |
 | This Side of Me | 185391 | [185391-this-side-of-me.json](./185391-this-side-of-me.json) |
 | This Side Up | 272897 | [272897-this-side-up.json](./272897-this-side-up.json) |
-| This Starry Midnight We Make | 17776 | [17776-this-starry-midnight-we-make.json](./17776-this-starry-midnight-we-make.json) |
 | This Starry Void | 163790 | [163790-this-starry-void.json](./163790-this-starry-void.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
 | This This Rice | 233368 | [233368-this-this-rice.json](./233368-this-this-rice.json) |
@@ -23644,7 +23638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
 | Thunderbird Strike | 75251 | [75251-thunderbird-strike.json](./75251-thunderbird-strike.json) |
-| Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 26272 | [26272-thunderbirds.json](./26272-thunderbirds.json) |
 | Thunderbirds | 321686 | [321686-thunderbirds.json](./321686-thunderbirds.json) |
@@ -25826,7 +25819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiktalec and the Dino Moonbase | 133575 | [133575-tiktalec-and-the-dino-moonbase.json](./133575-tiktalec-and-the-dino-moonbase.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
-| Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
 | Til Nord | 145905 | [145905-til-nord.json](./145905-til-nord.json) |
 | Tilcolity Eyes | 127390 | [127390-tilcolity-eyes.json](./127390-tilcolity-eyes.json) |
 | Tilde and the 9 Mystical Glorbos | 394834 | [394834-tilde-and-the-9-mystical-glorbos.json](./394834-tilde-and-the-9-mystical-glorbos.json) |
@@ -28653,7 +28645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
 | Tomb Raider: The Lost Artifact | 27555 | [27555-tomb-raider-the-lost-artifact.json](./27555-tomb-raider-the-lost-artifact.json) |
 | Tomb Raider: The Osiris Codex | 165176 | [165176-tomb-raider-the-osiris-codex.json](./165176-tomb-raider-the-osiris-codex.json) |
-| Tomb Raider: The Prophecy | 18809 | [18809-tomb-raider-the-prophecy.json](./18809-tomb-raider-the-prophecy.json) |
 | Tomb Raider: The Tower Bridge Experience | 252529 | [252529-tomb-raider-the-tower-bridge-experience.json](./252529-tomb-raider-the-tower-bridge-experience.json) |
 | Tomb Raider: The Trilogy | 161713 | [161713-tomb-raider-the-trilogy.json](./161713-tomb-raider-the-trilogy.json) |
 | Tomb Raider: Tomb of the Lost Adventurer | 144991 | [144991-tomb-raider-tomb-of-the-lost-adventurer.json](./144991-tomb-raider-tomb-of-the-lost-adventurer.json) |
@@ -29703,7 +29694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Pinball 3D | 62398 | [62398-total-pinball-3d.json](./62398-total-pinball-3d.json) |
 | Total Pro Basketball | 61739 | [61739-total-pro-basketball.json](./61739-total-pro-basketball.json) |
 | Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
-| Total Pro Golf 3 | 17558 | [17558-total-pro-golf-3.json](./17558-total-pro-golf-3.json) |
 | Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
 | Total Recall | 218324 | [218324-total-recall.json](./218324-total-recall.json) |
 | Total Recall Mobile | 86194 | [86194-total-recall-mobile.json](./86194-total-recall-mobile.json) |
@@ -34186,7 +34176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped at Home | 357698 | [357698-trapped-at-home.json](./357698-trapped-at-home.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
-| Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
 | Trapped Girls | 254973 | [254973-trapped-girls.json](./254973-trapped-girls.json) |
 | Trapped Guys | 149707 | [149707-trapped-guys.json](./149707-trapped-guys.json) |
@@ -38279,7 +38268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
 | Typed82 | 156765 | [156765-typed82.json](./156765-typed82.json) |
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
-| Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
 | TypeGG | 416437 | [416437-typegg.json](./416437-typegg.json) |
 | Typegrinder | 407716 | [407716-typegrinder.json](./407716-typegrinder.json) |
