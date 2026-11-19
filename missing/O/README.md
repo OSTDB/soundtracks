@@ -2750,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
 | One More Run: Endless Cricket Runner | 233161 | [233161-one-more-run-endless-cricket-runner.json](./233161-one-more-run-endless-cricket-runner.json) |
 | One More Shooter Game | 271609 | [271609-one-more-shooter-game.json](./271609-one-more-shooter-game.json) |
+| One More Shot | 429070 | [429070-one-more-shot.json](./429070-one-more-shot.json) |
 | One More Shot: Showdown | 335199 | [335199-one-more-shot-showdown.json](./335199-one-more-shot-showdown.json) |
 | One More Sleep | 177857 | [177857-one-more-sleep.json](./177857-one-more-sleep.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
@@ -6047,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
 | Outpost4 | 389936 | [389936-outpost4.json](./389936-outpost4.json) |
+| Outposters | 429038 | [429038-outposters.json](./429038-outposters.json) |
 | Outposts of the Wasteland | 318869 | [318869-outposts-of-the-wasteland.json](./318869-outposts-of-the-wasteland.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
 | Output Pasture | 126799 | [126799-output-pasture.json](./126799-output-pasture.json) |
