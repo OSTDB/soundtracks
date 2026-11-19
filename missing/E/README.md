@@ -5041,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy 2120 | 87971 | [87971-entropy-2120.json](./87971-entropy-2120.json) |
 | Entropy Architects | 334555 | [334555-entropy-architects.json](./334555-entropy-architects.json) |
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
+| Entropy Rising | 36134 | [36134-entropy-rising.json](./36134-entropy-rising.json) |
 | Entropy Scramble: Cats Doing Science! | 402535 | [402535-entropy-scramble-cats-doing-science.json](./402535-entropy-scramble-cats-doing-science.json) |
 | Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Unnatural Balance | 121484 | [121484-ephemeral-unnatural-balance.json](./121484-ephemeral-unnatural-balance.json) |
 | Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
+| Ephemerid: A Musical Adventure | 36111 | [36111-ephemerid-a-musical-adventure.json](./36111-ephemerid-a-musical-adventure.json) |
 | Ephemreal | 166572 | [166572-ephemreal.json](./166572-ephemreal.json) |
 | Ephesus | 152420 | [152420-ephesus.json](./152420-ephesus.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
