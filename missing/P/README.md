@@ -4265,7 +4265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak Entertainment Casinos | 131280 | [131280-peak-entertainment-casinos.json](./131280-peak-entertainment-casinos.json) |
 | Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
-| Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
 | Peak Rhythm | 393870 | [393870-peak-rhythm.json](./393870-peak-rhythm.json) |
 | Peak Rider Snowboarding | 90033 | [90033-peak-rider-snowboarding.json](./90033-peak-rider-snowboarding.json) |
 | Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
@@ -4374,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
 | Pedal-Olli 3D | 114800 | [114800-pedal-olli-3d.json](./114800-pedal-olli-3d.json) |
 | Pedals in Panic | 410168 | [410168-pedals-in-panic.json](./410168-pedals-in-panic.json) |
+| PedalVerse | 332679 | [332679-pedalverse.json](./332679-pedalverse.json) |
 | Peddlers Between Pulsars | 349399 | [349399-peddlers-between-pulsars.json](./349399-peddlers-between-pulsars.json) |
 | Pedestal | 238662 | [238662-pedestal.json](./238662-pedestal.json) |
 | Pedigree Tactics | 368703 | [368703-pedigree-tactics.json](./368703-pedigree-tactics.json) |
@@ -6065,7 +6065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online Episode III: C.A.R.D. Revolution | 23329 | [23329-phantasy-star-online-episode-iii-c-a-r-d-revolution.json](./23329-phantasy-star-online-episode-iii-c-a-r-d-revolution.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
 | Phantasy Star Portable | 21873 | [21873-phantasy-star-portable.json](./21873-phantasy-star-portable.json) |
-| Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
 | Phantasy Star Portable 2 Infinity | 79771 | [79771-phantasy-star-portable-2-infinity.json](./79771-phantasy-star-portable-2-infinity.json) |
 | Phantasy Star Universe | 7129 | [7129-phantasy-star-universe.json](./7129-phantasy-star-universe.json) |
 | Phantasy Star Zero Mini | 69330 | [69330-phantasy-star-zero-mini.json](./69330-phantasy-star-zero-mini.json) |
@@ -6389,7 +6388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philna Fantasy | 266042 | [266042-philna-fantasy.json](./266042-philna-fantasy.json) |
 | PhiloDeka | 347924 | [347924-philodeka.json](./347924-philodeka.json) |
 | Philomel | 341582 | [341582-philomel.json](./341582-philomel.json) |
-| Philosoma | 20638 | [20638-philosoma.json](./20638-philosoma.json) |
 | Philosopher's Quest | 13746 | [13746-philosophers-quest.json](./13746-philosophers-quest.json) |
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
 | Philosopher's Stone | 329047 | [329047-philosophers-stone.json](./329047-philosophers-stone.json) |
@@ -8028,7 +8026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Epic Quest Table | 10695 | [10695-pinball-fx2-epic-quest-table.json](./10695-pinball-fx2-epic-quest-table.json) |
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
-| Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
@@ -8058,7 +8055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
 | Pinball FX3: Portal Pinball | 164020 | [164020-pinball-fx3-portal-pinball.json](./164020-pinball-fx3-portal-pinball.json) |
 | Pinball FX3: Sci-Fi Pack | 164021 | [164021-pinball-fx3-sci-fi-pack.json](./164021-pinball-fx3-sci-fi-pack.json) |
-| Pinball FX3: Star Wars Pinball | 20004 | [20004-pinball-fx3-star-wars-pinball.json](./20004-pinball-fx3-star-wars-pinball.json) |
 | Pinball FX3: Star Wars Pinball - Balance of the Force | 20005 | [20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json](./20005-pinball-fx3-star-wars-pinball-balance-of-the-force.json) |
 | Pinball FX3: Star Wars Pinball - Heroes Within | 52877 | [52877-pinball-fx3-star-wars-pinball-heroes-within.json](./52877-pinball-fx3-star-wars-pinball-heroes-within.json) |
 | Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
@@ -8977,7 +8973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitfall: The Lost Expedition | 4070 | [4070-pitfall-the-lost-expedition.json](./4070-pitfall-the-lost-expedition.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pitfall! | 198849 | [198849-pitfall.json](./198849-pitfall.json) |
-| Pitfall! | 19908 | [19908-pitfall.json](./19908-pitfall.json) |
 | Pitfall! | 5411 | [5411-pitfall.json](./5411-pitfall.json) |
 | Pitfalls 64 | 411707 | [411707-pitfalls-64.json](./411707-pitfalls-64.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
@@ -11281,8 +11276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil Knights | 80094 | [80094-playmobil-knights.json](./80094-playmobil-knights.json) |
 | Playmobil Pirates | 67559 | [67559-playmobil-pirates.json](./67559-playmobil-pirates.json) |
 | Playmobil Top Agents | 80093 | [80093-playmobil-top-agents.json](./80093-playmobil-top-agents.json) |
-| Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
-| Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
 | Playmobil: The Explorers | 103901 | [103901-playmobil-the-explorers.json](./103901-playmobil-the-explorers.json) |
 | Playmobil: The Movie VR Adventures | 128438 | [128438-playmobil-the-movie-vr-adventures.json](./128438-playmobil-the-movie-vr-adventures.json) |
@@ -11323,7 +11316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation Classic | 215412 | [215412-playstation-classic.json](./215412-playstation-classic.json) |
 | PlayStation Home | 80196 | [80196-playstation-home.json](./80196-playstation-home.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
-| PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Network Collection: Power Pack | 79651 | [79651-playstation-network-collection-power-pack.json](./79651-playstation-network-collection-power-pack.json) |
 | PlayStation Network Collection: Puzzle Pack | 80160 | [80160-playstation-network-collection-puzzle-pack.json](./80160-playstation-network-collection-puzzle-pack.json) |
 | PlayStation Vita Pets | 63011 | [63011-playstation-vita-pets.json](./63011-playstation-vita-pets.json) |
@@ -13497,7 +13489,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polandball Go | 376047 | [376047-polandball-go.json](./376047-polandball-go.json) |
-| Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
 | Polandball: Not Safe for World | 239941 | [239941-polandball-not-safe-for-world.json](./239941-polandball-not-safe-for-world.json) |
 | Polandball: The Black Apocalypse | 374345 | [374345-polandball-the-black-apocalypse.json](./374345-polandball-the-black-apocalypse.json) |
 | Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
@@ -16605,6 +16596,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Date Diaries: A Fairy Tale Love | 397870 | [397870-princess-date-diaries-a-fairy-tale-love.json](./397870-princess-date-diaries-a-fairy-tale-love.json) |
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Defender: Episode 1 | 195326 | [195326-princess-defender-episode-1.json](./195326-princess-defender-episode-1.json) |
+| Princess Diana Crosswords No.1 | 332685 | [332685-princess-diana-crosswords-no-1.json](./332685-princess-diana-crosswords-no-1.json) |
+| Princess Diana Quiz | 332684 | [332684-princess-diana-quiz.json](./332684-princess-diana-quiz.json) |
 | Princess Doll Dress Up Games | 301199 | [301199-princess-doll-dress-up-games.json](./301199-princess-doll-dress-up-games.json) |
 | Princess Drawing! | 206504 | [206504-princess-drawing.json](./206504-princess-drawing.json) |
 | Princess Dress Up | 305586 | [305586-princess-dress-up.json](./305586-princess-dress-up.json) |
@@ -18647,7 +18640,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Gorgon - Extra Character Slots Pack | 316389 | [316389-project-gorgon-extra-character-slots-pack.json](./316389-project-gorgon-extra-character-slots-pack.json) |
 | Project: Halloween | 188935 | [188935-project-halloween.json](./188935-project-halloween.json) |
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
-| Project: Horned Owl | 20296 | [20296-project-horned-owl.json](./20296-project-horned-owl.json) |
 | Project: Icarus | 336862 | [336862-project-icarus.json](./336862-project-icarus.json) |
 | Project: Inferno | 149747 | [149747-project-inferno.json](./149747-project-inferno.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
