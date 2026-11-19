@@ -7350,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
 | Demon Castle Story | 381568 | [381568-demon-castle-story.json](./381568-demon-castle-story.json) |
+| Demon Castle Survivor | 418038 | [418038-demon-castle-survivor.json](./418038-demon-castle-survivor.json) |
 | Demon Chaos | 72861 | [72861-demon-chaos.json](./72861-demon-chaos.json) |
 | Demon Club | 115814 | [115814-demon-club.json](./115814-demon-club.json) |
 | Demon Compass | 323594 | [323594-demon-compass.json](./323594-demon-compass.json) |
@@ -8453,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pet | 265195 | [265195-desktop-pet.json](./265195-desktop-pet.json) |
 | Desktop Pet Project | 367527 | [367527-desktop-pet-project.json](./367527-desktop-pet-project.json) |
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
+| Desktop Plinko | 418026 | [418026-desktop-plinko.json](./418026-desktop-plinko.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Rugby | 125016 | [125016-desktop-rugby.json](./125016-desktop-rugby.json) |
@@ -19125,6 +19127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Bird | 351078 | [351078-drill-bird.json](./351078-drill-bird.json) |
 | Drill Core | 301799 | [301799-drill-core.json](./301799-drill-core.json) |
+| Drill Core: Anniversary Update | 418058 | [418058-drill-core-anniversary-update.json](./418058-drill-core-anniversary-update.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Dash | 211905 | [211905-drill-dash.json](./211905-drill-dash.json) |
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
