@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lampy | 276236 | [276236-lampy.json](./276236-lampy.json) |
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lamu | 295496 | [295496-lamu.json](./295496-lamu.json) |
+| Lan House Simulator | 421149 | [421149-lan-house-simulator.json](./421149-lan-house-simulator.json) |
 | Lan Master | 48376 | [48376-lan-master.json](./48376-lan-master.json) |
 | LAN Party | 292339 | [292339-lan-party.json](./292339-lan-party.json) |
 | LAN Party Adventures | 336157 | [336157-lan-party-adventures.json](./336157-lan-party-adventures.json) |
@@ -6584,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lit the Torch | 27142 | [27142-lit-the-torch.json](./27142-lit-the-torch.json) |
 | Lit Up | 199724 | [199724-lit-up.json](./199724-lit-up.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
+| LITA Protocol | 421034 | [421034-lita-protocol.json](./421034-lita-protocol.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
 | Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
 | Lite On: Indonesian Culture | 214647 | [214647-lite-on-indonesian-culture.json](./214647-lite-on-indonesian-culture.json) |
