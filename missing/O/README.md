@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
+| OneTry | 388951 | [388951-onetry.json](./388951-onetry.json) |
 | Oneway.exe | 244971 | [244971-oneway-exe.json](./244971-oneway-exe.json) |
 | OneyPlays Lost In Kickassia | 316316 | [316316-oneyplays-lost-in-kickassia.json](./316316-oneyplays-lost-in-kickassia.json) |
 | OneyPlays Lost In Kickassia Disc 2 | 316317 | [316317-oneyplays-lost-in-kickassia-disc-2.json](./316317-oneyplays-lost-in-kickassia-disc-2.json) |
