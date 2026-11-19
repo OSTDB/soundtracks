@@ -9615,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome | 7873 | [7873-chrome.json](./7873-chrome.json) |
 | Chrome 2 | 92759 | [92759-chrome-2.json](./92759-chrome-2.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
+| Chrome Circuit | 423026 | [423026-chrome-circuit.json](./423026-chrome-circuit.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
@@ -12860,6 +12861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Nutshake | 206315 | [206315-coco-nutshake.json](./206315-coco-nutshake.json) |
 | Coco Pony - My Dream Pet | 96305 | [96305-coco-pony-my-dream-pet.json](./96305-coco-pony-my-dream-pet.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
+| Coco's Beachquarium | 423000 | [423000-cocos-beachquarium.json](./423000-cocos-beachquarium.json) |
 | Coco's Revenge | 352465 | [352465-cocos-revenge.json](./352465-cocos-revenge.json) |
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
 | Cocobi Hospital | 221373 | [221373-cocobi-hospital.json](./221373-cocobi-hospital.json) |
@@ -15099,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
 | Compacted | 427241 | [427241-compacted.json](./427241-compacted.json) |
 | Compacto: Idle Game | 154252 | [154252-compacto-idle-game.json](./154252-compacto-idle-game.json) |
+| Compactor Baron | 422991 | [422991-compactor-baron.json](./422991-compactor-baron.json) |
 | Compactory | 323015 | [323015-compactory.json](./323015-compactory.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
@@ -16173,6 +16176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
 | Continuum | 268676 | [268676-continuum.json](./268676-continuum.json) |
 | Continuum | 304566 | [304566-continuum.json](./304566-continuum.json) |
+| Continuum | 422988 | [422988-continuum.json](./422988-continuum.json) |
 | Continuum | 79710 | [79710-continuum.json](./79710-continuum.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Continuum Keeper | 348689 | [348689-continuum-keeper.json](./348689-continuum-keeper.json) |
@@ -22367,6 +22371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Club 2 | 35340 | [35340-cue-club-2.json](./35340-cue-club-2.json) |
 | Cue Club 2 - Pool & Snooker | 52849 | [52849-cue-club-2-pool-and-snooker.json](./52849-cue-club-2-pool-and-snooker.json) |
 | Cue D | 243847 | [243847-cue-d.json](./243847-cue-d.json) |
+| Cue Knight | 422989 | [422989-cue-knight.json](./422989-cue-knight.json) |
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue Sports | 192039 | [192039-cue-sports.json](./192039-cue-sports.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
