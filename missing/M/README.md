@@ -23098,6 +23098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bones Peggle Nights Level Pack | 428761 | [428761-my-bones-peggle-nights-level-pack.json](./428761-my-bones-peggle-nights-level-pack.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boo Album | 373238 | [373238-my-boo-album.json](./373238-my-boo-album.json) |
+| My Boo Virtual Pet & Mini Game | 86823 | [86823-my-boo-virtual-pet-and-mini-game.json](./86823-my-boo-virtual-pet-and-mini-game.json) |
 | My Bookshop Dreams | 359871 | [359871-my-bookshop-dreams.json](./359871-my-bookshop-dreams.json) |
 | My Boris Neighbor | 95809 | [95809-my-boris-neighbor.json](./95809-my-boris-neighbor.json) |
 | My Boss Is Scaring Me | 341346 | [341346-my-boss-is-scaring-me.json](./341346-my-boss-is-scaring-me.json) |
@@ -23692,6 +23693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horse Stories: Winter | 300933 | [300933-my-horse-stories-winter.json](./300933-my-horse-stories-winter.json) |
 | My Horse: Bonded Spirits | 247798 | [247798-my-horse-bonded-spirits.json](./247798-my-horse-bonded-spirits.json) |
 | My Hospital Town | 299209 | [299209-my-hospital-town.json](./299209-my-hospital-town.json) |
+| My Hospital: Build and Manage | 86956 | [86956-my-hospital-build-and-manage.json](./86956-my-hospital-build-and-manage.json) |
 | My Hot Beach Vacation | 367208 | [367208-my-hot-beach-vacation.json](./367208-my-hot-beach-vacation.json) |
 | My Hot Neighbor Kayla | 297152 | [297152-my-hot-neighbor-kayla.json](./297152-my-hot-neighbor-kayla.json) |
 | My Hot-Pot Story | 219983 | [219983-my-hot-pot-story.json](./219983-my-hot-pot-story.json) |
@@ -23862,6 +23864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Pony: Harmony Quest | 138462 | [138462-my-little-pony-harmony-quest.json](./138462-my-little-pony-harmony-quest.json) |
 | My Little Pony: Magic Garden | 282122 | [282122-my-little-pony-magic-garden.json](./282122-my-little-pony-magic-garden.json) |
+| My Little Pony: Magic Princess | 86783 | [86783-my-little-pony-magic-princess.json](./86783-my-little-pony-magic-princess.json) |
 | My Little Pony: Mane Merge | 242387 | [242387-my-little-pony-mane-merge.json](./242387-my-little-pony-mane-merge.json) |
 | My Little Pony: Party of One | 272609 | [272609-my-little-pony-party-of-one.json](./272609-my-little-pony-party-of-one.json) |
 | My Little Pony: Pinkie Pie's Party | 80769 | [80769-my-little-pony-pinkie-pies-party.json](./80769-my-little-pony-pinkie-pies-party.json) |
