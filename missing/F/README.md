@@ -6654,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire and Rescue | 287760 | [287760-fire-and-rescue.json](./287760-fire-and-rescue.json) |
 | Fire and Thunder | 120014 | [120014-fire-and-thunder.json](./120014-fire-and-thunder.json) |
 | Fire Ant | 93077 | [93077-fire-ant.json](./93077-fire-ant.json) |
+| Fire Arrow Plus | 31889 | [31889-fire-arrow-plus.json](./31889-fire-arrow-plus.json) |
 | Fire Attack | 145168 | [145168-fire-attack.json](./145168-fire-attack.json) |
 | Fire Attack | 231749 | [231749-fire-attack.json](./231749-fire-attack.json) |
 | Fire Ball | 161775 | [161775-fire-ball.json](./161775-fire-ball.json) |
