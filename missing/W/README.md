@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Echoes of Duviri | 263523 | [263523-warframe-echoes-of-duviri.json](./263523-warframe-echoes-of-duviri.json) |
 | Warframe: Echoes of the Sentient | 198336 | [198336-warframe-echoes-of-the-sentient.json](./198336-warframe-echoes-of-the-sentient.json) |
 | Warframe: Empyrean | 119348 | [119348-warframe-empyrean.json](./119348-warframe-empyrean.json) |
+| Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Heart of Deimos | 137295 | [137295-warframe-heart-of-deimos.json](./137295-warframe-heart-of-deimos.json) |
 | Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Quest Deluxe | 53906 | [53906-warhammer-quest-deluxe.json](./53906-warhammer-quest-deluxe.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer Survivors | 376145 | [376145-warhammer-survivors.json](./376145-warhammer-survivors.json) |
+| Warhammer Underworlds: Online | 117743 | [117743-warhammer-underworlds-online.json](./117743-warhammer-underworlds-online.json) |
 | Warhammer Underworlds: Online - Warband: Drepur's Wraithcreepers | 168972 | [168972-warhammer-underworlds-online-warband-drepurs-wraithcreepers.json](./168972-warhammer-underworlds-online-warband-drepurs-wraithcreepers.json) |
 | Warhammer Underworlds: Online - Warband: Eyes of the Nine | 168963 | [168963-warhammer-underworlds-online-warband-eyes-of-the-nine.json](./168963-warhammer-underworlds-online-warband-eyes-of-the-nine.json) |
 | Warhammer Underworlds: Online - Warband: Garrek's Reavers | 168971 | [168971-warhammer-underworlds-online-warband-garreks-reavers.json](./168971-warhammer-underworlds-online-warband-garreks-reavers.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars of the Roses | 106201 | [106201-wars-of-the-roses.json](./106201-wars-of-the-roses.json) |
 | Wars of the Roses: Rosenkönig | 103567 | [103567-wars-of-the-roses-rosenkonig.json](./103567-wars-of-the-roses-rosenkonig.json) |
 | Warsaken | 218843 | [218843-warsaken.json](./218843-warsaken.json) |
+| Warsaw Rising: City of Heroes | 115659 | [115659-warsaw-rising-city-of-heroes.json](./115659-warsaw-rising-city-of-heroes.json) |
 | Warscape Alpha | 415543 | [415543-warscape-alpha.json](./415543-warscape-alpha.json) |
 | WarShape | 338396 | [338396-warshape.json](./338396-warshape.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
@@ -2645,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Bad Blood | 17473 | [17473-watch-dogs-bad-blood.json](./17473-watch-dogs-bad-blood.json) |
 | Watch Dogs: Complete Edition | 42951 | [42951-watch-dogs-complete-edition.json](./42951-watch-dogs-complete-edition.json) |
 | Watch Dogs: Conspiracy | 26282 | [26282-watch-dogs-conspiracy.json](./26282-watch-dogs-conspiracy.json) |
+| Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Gold Edition | 42917 | [42917-watch-dogs-gold-edition.json](./42917-watch-dogs-gold-edition.json) |
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Deluxe Edition | 164616 | [164616-watch-dogs-legion-deluxe-edition.json](./164616-watch-dogs-legion-deluxe-edition.json) |
@@ -2942,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaveLand | 31159 | [31159-waveland.json](./31159-waveland.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
 | Waveling Island | 424834 | [424834-waveling-island.json](./424834-waveling-island.json) |
+| Waven | 109536 | [109536-waven.json](./109536-waven.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | Waven: Welcome Pack | 274618 | [274618-waven-welcome-pack.json](./274618-waven-welcome-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
@@ -4883,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Thoughts Go | 108660 | [108660-where-thoughts-go.json](./108660-where-thoughts-go.json) |
 | Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
+| Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where To? | 415434 | [415434-where-to.json](./415434-where-to.json) |
 | Where We Remain | 242922 | [242922-where-we-remain.json](./242922-where-we-remain.json) |
