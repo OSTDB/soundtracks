@@ -6569,12 +6569,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi | 350131 | [350131-wing-commander-ii-vengeance-of-the-kilrathi.json](./350131-wing-commander-ii-vengeance-of-the-kilrathi.json) |
 | Wing Commander II: Vengeance of the Kilrathi | 940 | [940-wing-commander-ii-vengeance-of-the-kilrathi.json](./940-wing-commander-ii-vengeance-of-the-kilrathi.json) |
+| Wing Commander II: Vengeance of the Kilrathi - 35th Anniversary Edition | 428357 | [428357-wing-commander-ii-vengeance-of-the-kilrathi-35th-anniversary-edition.json](./428357-wing-commander-ii-vengeance-of-the-kilrathi-35th-anniversary-edition.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
+| Wing Commander III: Heart of the Tiger - 30th Anniversary Edition | 428358 | [428358-wing-commander-iii-heart-of-the-tiger-30th-anniversary-edition.json](./428358-wing-commander-iii-heart-of-the-tiger-30th-anniversary-edition.json) |
 | Wing Commander IV: The Price of Freedom | 200423 | [200423-wing-commander-iv-the-price-of-freedom.json](./200423-wing-commander-iv-the-price-of-freedom.json) |
 | Wing Commander IV: The Price of Freedom | 934 | [934-wing-commander-iv-the-price-of-freedom.json](./934-wing-commander-iv-the-price-of-freedom.json) |
+| Wing Commander IV: The Price of Freedom - 30th Anniversary Edition | 428359 | [428359-wing-commander-iv-the-price-of-freedom-30th-anniversary-edition.json](./428359-wing-commander-iv-the-price-of-freedom-30th-anniversary-edition.json) |
 | Wing Commander Privateer: Righteous Fire | 50168 | [50168-wing-commander-privateer-righteous-fire.json](./50168-wing-commander-privateer-righteous-fire.json) |
+| Wing Commander Prophecy: 30th Anniversary Edition | 428360 | [428360-wing-commander-prophecy-30th-anniversary-edition.json](./428360-wing-commander-prophecy-30th-anniversary-edition.json) |
 | Wing Commander Saga: The Darkest Dawn | 19178 | [19178-wing-commander-saga-the-darkest-dawn.json](./19178-wing-commander-saga-the-darkest-dawn.json) |
+| Wing Commander: 35th Anniversary Edition | 428355 | [428355-wing-commander-35th-anniversary-edition.json](./428355-wing-commander-35th-anniversary-edition.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 248587 | [248587-wing-commander-prophecy.json](./248587-wing-commander-prophecy.json) |
@@ -8282,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
 | WonderWorlds | 96132 | [96132-wonderworlds.json](./96132-wonderworlds.json) |
 | Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
+| Wondy World | 428340 | [428340-wondy-world.json](./428340-wondy-world.json) |
 | wOne | 388104 | [388104-wone.json](./388104-wone.json) |
 | wOne 2 | 388105 | [388105-wone-2.json](./388105-wone-2.json) |
 | Wonfourn | 52284 | [52284-wonfourn.json](./52284-wonfourn.json) |
