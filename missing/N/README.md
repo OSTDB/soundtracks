@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Labo: Toy-Con 02 - Robot Kit | 85307 | [85307-nintendo-labo-toy-con-02-robot-kit.json](./85307-nintendo-labo-toy-con-02-robot-kit.json) |
 | Nintendo Labo: Toy-Con 03 - Drive Kit | 221511 | [221511-nintendo-labo-toy-con-03-drive-kit.json](./221511-nintendo-labo-toy-con-03-drive-kit.json) |
+| Nintendo Labo: Toy-Con 03 - Vehicle Kit | 106288 | [106288-nintendo-labo-toy-con-03-vehicle-kit.json](./106288-nintendo-labo-toy-con-03-vehicle-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
 | Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
