@@ -10290,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dieselpunk Wars | 114168 | [114168-dieselpunk-wars.json](./114168-dieselpunk-wars.json) |
 | Dieselråttor & Sjömansmöss: Jakten på Solkatten | 399386 | [399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json](./399386-dieselrattor-and-sjomansmoss-jakten-pa-solkatten.json) |
 | DieselStormers | 10185 | [10185-dieselstormers.json](./10185-dieselstormers.json) |
+| Dieselwake | 429662 | [429662-dieselwake.json](./429662-dieselwake.json) |
 | Diesuki Dungeon | 376868 | [376868-diesuki-dungeon.json](./376868-diesuki-dungeon.json) |
 | Diet 32in24 | 274162 | [274162-diet-32in24.json](./274162-diet-32in24.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
@@ -10574,6 +10575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World 2 | 36508 | [36508-digimon-world-2.json](./36508-digimon-world-2.json) |
 | Digimon World 2 Alternative | 322120 | [322120-digimon-world-2-alternative.json](./322120-digimon-world-2-alternative.json) |
+| Digimon World 2 PC | 429637 | [429637-digimon-world-2-pc.json](./429637-digimon-world-2-pc.json) |
 | Digimon World 3 | 19678 | [19678-digimon-world-3.json](./19678-digimon-world-3.json) |
 | Digimon World 4 | 3878 | [3878-digimon-world-4.json](./3878-digimon-world-4.json) |
 | Digimon World Championship | 47897 | [47897-digimon-world-championship.json](./47897-digimon-world-championship.json) |
@@ -10587,6 +10589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
 | Digimon World: Next Order | 13561 | [13561-digimon-world-next-order.json](./13561-digimon-world-next-order.json) |
 | Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
+| Digimon World: Recompiled | 429645 | [429645-digimon-world-recompiled.json](./429645-digimon-world-recompiled.json) |
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
 | Digimon: Boom Bubble | 399305 | [399305-digimon-boom-bubble.json](./399305-digimon-boom-bubble.json) |
@@ -10666,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Legacy of Zero | 337775 | [337775-digital-legacy-of-zero.json](./337775-digital-legacy-of-zero.json) |
 | Digital Litmus Paper | 108878 | [108878-digital-litmus-paper.json](./108878-digital-litmus-paper.json) |
 | Digital Makeover | 200604 | [200604-digital-makeover.json](./200604-digital-makeover.json) |
+| Digital March: Egg Theory | 429624 | [429624-digital-march-egg-theory.json](./429624-digital-march-egg-theory.json) |
 | Digital Market Simulator | 348390 | [348390-digital-market-simulator.json](./348390-digital-market-simulator.json) |
 | Digital Master | 74722 | [74722-digital-master.json](./74722-digital-master.json) |
 | Digital Meow | 303672 | [303672-digital-meow.json](./303672-digital-meow.json) |
@@ -18484,6 +18488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Racer 2 | 409338 | [409338-dream-racer-2.json](./409338-dream-racer-2.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Raiders | 62637 | [62637-dream-raiders.json](./62637-dream-raiders.json) |
+| Dream Recipe: Merge Cooking Memories | 429646 | [429646-dream-recipe-merge-cooking-memories.json](./429646-dream-recipe-merge-cooking-memories.json) |
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Rhythm | 339568 | [339568-dream-rhythm.json](./339568-dream-rhythm.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
@@ -20057,6 +20062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Party | 419808 | [419808-dub-party.json](./419808-dub-party.json) |
 | Dub Rumble | 416456 | [416456-dub-rumble.json](./416456-dub-rumble.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
+| Dub With Friends | 429676 | [429676-dub-with-friends.json](./429676-dub-with-friends.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubai Chocolate Simulator | 364120 | [364120-dubai-chocolate-simulator.json](./364120-dubai-chocolate-simulator.json) |
