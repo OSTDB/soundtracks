@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Rollin! | 75327 | [75327-keep-rollin.json](./75327-keep-rollin.json) |
 | Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
+| Keep Shearing | 423030 | [423030-keep-shearing.json](./423030-keep-shearing.json) |
 | Keep Sheep | 226136 | [226136-keep-sheep.json](./226136-keep-sheep.json) |
 | Keep Sheep Safe! | 52691 | [52691-keep-sheep-safe.json](./52691-keep-sheep-safe.json) |
 | Keep Skeleton Alive! | 424221 | [424221-keep-skeleton-alive.json](./424221-keep-skeleton-alive.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krazy Kobra | 94620 | [94620-krazy-kobra.json](./94620-krazy-kobra.json) |
 | Krazy Kong | 62336 | [62336-krazy-kong.json](./62336-krazy-kong.json) |
 | Krazy Kreatures | 10503 | [10503-krazy-kreatures.json](./10503-krazy-kreatures.json) |
+| Kreabordis | 422986 | [422986-kreabordis.json](./422986-kreabordis.json) |
 | Kreatives Gehirntraining | 92003 | [92003-kreatives-gehirntraining.json](./92003-kreatives-gehirntraining.json) |
 | Kreatur Bout | 391825 | [391825-kreatur-bout.json](./391825-kreatur-bout.json) |
 | KreatureKind | 152194 | [152194-kreaturekind.json](./152194-kreaturekind.json) |
