@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palianytsia | 351388 | [351388-palianytsia.json](./351388-palianytsia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
+| Palimpsest: Where Magic Remembers | 428202 | [428202-palimpsest-where-magic-remembers.json](./428202-palimpsest-where-magic-remembers.json) |
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palisade | 135455 | [135455-palisade.json](./135455-palisade.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinders: Lost at Sea | 222718 | [222718-pathfinders-lost-at-sea.json](./222718-pathfinders-lost-at-sea.json) |
 | Pathfinders: Memories | 133051 | [133051-pathfinders-memories.json](./133051-pathfinders-memories.json) |
 | Pathfinders: Mini Words | 158830 | [158830-pathfinders-mini-words.json](./158830-pathfinders-mini-words.json) |
+| Pathfinding | 428443 | [428443-pathfinding.json](./428443-pathfinding.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
 | Pathmaker | 170316 | [170316-pathmaker.json](./170316-pathmaker.json) |
@@ -5454,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - Faith Held Close | 428450 | [428450-persona5-the-phantom-x-faith-held-close.json](./428450-persona5-the-phantom-x-faith-held-close.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
@@ -5747,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
+| Petlings: Merge & Battle | 428217 | [428217-petlings-merge-and-battle.json](./428217-petlings-merge-and-battle.json) |
 | Petmagotchi | 387102 | [387102-petmagotchi.json](./387102-petmagotchi.json) |
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petown | 99271 | [99271-petown.json](./99271-petown.json) |
@@ -6345,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phazer Punk | 245353 | [245353-phazer-punk.json](./245353-phazer-punk.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
 | PhD | 220464 | [220464-phd.json](./220464-phd.json) |
+| PhDing in the UK | 428213 | [428213-phding-in-the-uk.json](./428213-phding-in-the-uk.json) |
 | Phear | 291294 | [291294-phear.json](./291294-phear.json) |
 | Pheasants Forever | 23393 | [23393-pheasants-forever.json](./23393-pheasants-forever.json) |
 | Pheasants Forever: Wingshooter | 51112 | [51112-pheasants-forever-wingshooter.json](./51112-pheasants-forever-wingshooter.json) |
@@ -7075,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
 | Picta Mori | 222660 | [222660-picta-mori.json](./222660-picta-mori.json) |
 | Pictables | 232114 | [232114-pictables.json](./232114-pictables.json) |
+| Pictaku: Halloween | 428299 | [428299-pictaku-halloween.json](./428299-pictaku-halloween.json) |
 | Pictar.io | 138423 | [138423-pictar-io.json](./138423-pictar-io.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
 | Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
@@ -14547,6 +14553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Fever! | 78291 | [78291-popn-music-fever.json](./78291-popn-music-fever.json) |
 | Pop'n Music GB | 191417 | [191417-popn-music-gb.json](./191417-popn-music-gb.json) |
 | Pop'n Music GB: Animation Melody | 209619 | [209619-popn-music-gb-animation-melody.json](./209619-popn-music-gb-animation-melody.json) |
+| Pop'n Music Happy 30 | 428462 | [428462-popn-music-happy-30.json](./428462-popn-music-happy-30.json) |
 | Pop'n Music High Cheers | 380973 | [380973-popn-music-high-cheers.json](./380973-popn-music-high-cheers.json) |
 | Pop'n Music Iroha | 79935 | [79935-popn-music-iroha.json](./79935-popn-music-iroha.json) |
 | Pop'n Music Jam&Fizz | 364468 | [364468-popn-music-jam-and-fizz.json](./364468-popn-music-jam-and-fizz.json) |
@@ -14781,6 +14788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porcupine's Fate: Chapter 1 | 196694 | [196694-porcupines-fate-chapter-1.json](./196694-porcupines-fate-chapter-1.json) |
+| Poreia | 428208 | [428208-poreia.json](./428208-poreia.json) |
 | Porf Royale | 134090 | [134090-porf-royale.json](./134090-porf-royale.json) |
 | Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
@@ -21489,6 +21497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
 | Pyoro + | 250059 | [250059-pyoro.json](./250059-pyoro.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
+| Pyra | 428203 | [428203-pyra.json](./428203-pyra.json) |
 | Pyracubes | 175055 | [175055-pyracubes.json](./175055-pyracubes.json) |
 | Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
 | Pyradice | 302337 | [302337-pyradice.json](./302337-pyradice.json) |
