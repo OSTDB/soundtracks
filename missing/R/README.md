@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC SIM 2022 | 369554 | [369554-rc-sim-2022.json](./369554-rc-sim-2022.json) |
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
 | RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
+| RC Tandems | 427142 | [427142-rc-tandems.json](./427142-rc-tandems.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
 | RC Toybox | 107342 | [107342-rc-toybox.json](./107342-rc-toybox.json) |
 | RC-AirSim | 68521 | [68521-rc-airsim.json](./68521-rc-airsim.json) |
@@ -5943,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RentPoly | 384250 | [384250-rentpoly.json](./384250-rentpoly.json) |
 | Renuncio: Parte 2 - El Escape | 326032 | [326032-renuncio-parte-2-el-escape.json](./326032-renuncio-parte-2-el-escape.json) |
 | Renuncio! | 326031 | [326031-renuncio.json](./326031-renuncio.json) |
+| ReNut | 427071 | [427071-renut.json](./427071-renut.json) |
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Rěnzhě Guī OL | 83088 | [83088-renzhe-gui-ol.json](./83088-renzhe-gui-ol.json) |
 | Renzo Racer | 38812 | [38812-renzo-racer.json](./38812-renzo-racer.json) |
@@ -12062,6 +12064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
 | Romance of a Demon Kingdom's Fall | 262782 | [262782-romance-of-a-demon-kingdoms-fall.json](./262782-romance-of-a-demon-kingdoms-fall.json) |
 | Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
+| Romance of Five Kingdoms | 427146 | [427146-romance-of-five-kingdoms.json](./427146-romance-of-five-kingdoms.json) |
 | Romance of Raskya | 156799 | [156799-romance-of-raskya.json](./156799-romance-of-raskya.json) |
 | Romance of Rome | 16096 | [16096-romance-of-rome.json](./16096-romance-of-rome.json) |
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
