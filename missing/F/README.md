@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feel the Magic: XY/XX | 18331 | [18331-feel-the-magic-xy-xx.json](./18331-feel-the-magic-xy-xx.json) |
 | Feel the Snow | 31001 | [31001-feel-the-snow.json](./31001-feel-the-snow.json) |
 | Feel Up a Sexy Lifeguard! | 169089 | [169089-feel-up-a-sexy-lifeguard.json](./169089-feel-up-a-sexy-lifeguard.json) |
+| Feel-A-Maze | 36119 | [36119-feel-a-maze.json](./36119-feel-a-maze.json) |
 | Feelin | 102931 | [102931-feelin.json](./102931-feelin.json) |
 | Feeling | 131234 | [131234-feeling.json](./131234-feeling.json) |
 | Feeling Air | 200095 | [200095-feeling-air.json](./200095-feeling-air.json) |
