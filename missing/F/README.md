@@ -14252,6 +14252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogo 3 | 225444 | [225444-frogo-3.json](./225444-frogo-3.json) |
 | Frogo Deluxe | 317652 | [317652-frogo-deluxe.json](./317652-frogo-deluxe.json) |
 | Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
+| FrogPop | 428977 | [428977-frogpop.json](./428977-frogpop.json) |
 | Frogrammer | 349074 | [349074-frogrammer.json](./349074-frogrammer.json) |
 | Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
 | Frogrun 64 | 394323 | [394323-frogrun-64.json](./394323-frogrun-64.json) |
