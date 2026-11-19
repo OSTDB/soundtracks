@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahamut: Remake | 329332 | [329332-bahamut-remake.json](./329332-bahamut-remake.json) |
 | Bahamut2-Come on, Fight | 261847 | [261847-bahamut2-come-on-fight.json](./261847-bahamut2-come-on-fight.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
+| Bahast | 426584 | [426584-bahast.json](./426584-bahast.json) |
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bahnsen Knights | 210566 | [210566-bahnsen-knights.json](./210566-bahnsen-knights.json) |
 | Bahnsim Pro | 145284 | [145284-bahnsim-pro.json](./145284-bahnsim-pro.json) |
@@ -10567,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackbox | 230722 | [230722-blackbox.json](./230722-blackbox.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | Blackbox | 37056 | [37056-blackbox.json](./37056-blackbox.json) |
+| Blackbox | 426565 | [426565-blackbox.json](./426565-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
 | BlackBox | 215487 | [215487-blackbox.json](./215487-blackbox.json) |
 | Blackbox by TRT World | 90832 | [90832-blackbox-by-trt-world.json](./90832-blackbox-by-trt-world.json) |
@@ -10915,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
 | Bladeforged: The Seventh Sword | 408471 | [408471-bladeforged-the-seventh-sword.json](./408471-bladeforged-the-seventh-sword.json) |
 | Bladeheart: Ninja | 109221 | [109221-bladeheart-ninja.json](./109221-bladeheart-ninja.json) |
+| Bladehold | 426555 | [426555-bladehold.json](./426555-bladehold.json) |
 | Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
 | Bladeline VR | 111428 | [111428-bladeline-vr.json](./111428-bladeline-vr.json) |
 | Bladelords: The fighting game | 39220 | [39220-bladelords-the-fighting-game.json](./39220-bladelords-the-fighting-game.json) |
