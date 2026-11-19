@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Adventure Bugsite: Beta | 270059 | [270059-network-adventure-bugsite-beta.json](./270059-network-adventure-bugsite-beta.json) |
 | Network E.L.E. | 128106 | [128106-network-e-l-e.json](./128106-network-e-l-e.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
+| Network Engineer | 425755 | [425755-network-engineer.json](./425755-network-engineer.json) |
 | Network Engineer Simulator | 285722 | [285722-network-engineer-simulator.json](./285722-network-engineer-simulator.json) |
 | Network Euphoria | 341369 | [341369-network-euphoria.json](./341369-network-euphoria.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
