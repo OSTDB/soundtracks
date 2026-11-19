@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fact Attack | 420192 | [420192-fact-attack.json](./420192-fact-attack.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
+| Faction TCG | 425353 | [425353-faction-tcg.json](./425353-faction-tcg.json) |
 | Faction Wars | 168317 | [168317-faction-wars.json](./168317-faction-wars.json) |
 | Faction Z | 251929 | [251929-faction-z.json](./251929-faction-z.json) |
 | Factions | 335375 | [335375-factions.json](./335375-factions.json) |
@@ -10327,6 +10328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Delivery Service | 156896 | [156896-food-delivery-service.json](./156896-food-delivery-service.json) |
 | Food Delivery Simulator | 316420 | [316420-food-delivery-simulator.json](./316420-food-delivery-simulator.json) |
 | Food Delivery Simulator 2025 | 345768 | [345768-food-delivery-simulator-2025.json](./345768-food-delivery-simulator-2025.json) |
+| Food Delivery Simulator 2027 | 425354 | [425354-food-delivery-simulator-2027.json](./425354-food-delivery-simulator-2027.json) |
 | Food Devils | 301330 | [301330-food-devils.json](./301330-food-devils.json) |
 | Food Diary | 201625 | [201625-food-diary.json](./201625-food-diary.json) |
 | Food Dream Factory | 98752 | [98752-food-dream-factory.json](./98752-food-dream-factory.json) |
