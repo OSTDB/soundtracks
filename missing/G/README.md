@@ -6567,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator GoatZ | 23190 | [23190-goat-simulator-goatz.json](./23190-goat-simulator-goatz.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
+| Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: The Goaty | 83740 | [83740-goat-simulator-the-goaty.json](./83740-goat-simulator-the-goaty.json) |
@@ -6886,6 +6887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War: Origins Collection | 20579 | [20579-god-of-war-origins-collection.json](./20579-god-of-war-origins-collection.json) |
 | God of War: Stone Mason's Edition | 83778 | [83778-god-of-war-stone-masons-edition.json](./83778-god-of-war-stone-masons-edition.json) |
 | God of Weapons | 246919 | [246919-god-of-weapons.json](./246919-god-of-weapons.json) |
+| God of Word | 24644 | [24644-god-of-word.json](./24644-god-of-word.json) |
 | God of Yoga | 377785 | [377785-god-of-yoga.json](./377785-god-of-yoga.json) |
 | God Opens the Door | 177405 | [177405-god-opens-the-door.json](./177405-god-opens-the-door.json) |
 | God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
@@ -12939,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
 | GunWagon | 191920 | [191920-gunwagon.json](./191920-gunwagon.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
+| GunWorld | 24561 | [24561-gunworld.json](./24561-gunworld.json) |
 | GunWorld 2 | 22723 | [22723-gunworld-2.json](./22723-gunworld-2.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
 | GunWorld: Xbox One Edition | 82544 | [82544-gunworld-xbox-one-edition.json](./82544-gunworld-xbox-one-edition.json) |
