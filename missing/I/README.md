@@ -7333,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | Isles of Wrath | 378286 | [378286-isles-of-wrath.json](./378286-isles-of-wrath.json) |
 | Isles of Yore | 189958 | [189958-isles-of-yore.json](./189958-isles-of-yore.json) |
+| Isles.gg | 430531 | [430531-isles-gg.json](./430531-isles-gg.json) |
 | Islet Hell | 367596 | [367596-islet-hell.json](./367596-islet-hell.json) |
 | Islet Online | 33917 | [33917-islet-online.json](./33917-islet-online.json) |
 | Isletopia | 211551 | [211551-isletopia.json](./211551-isletopia.json) |
