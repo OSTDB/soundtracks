@@ -8900,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words N Words | 240345 | [240345-words-n-words.json](./240345-words-n-words.json) |
 | Words of Fate | 83259 | [83259-words-of-fate.json](./83259-words-of-fate.json) |
 | Words Of Power | 415835 | [415835-words-of-power.json](./415835-words-of-power.json) |
+| Words of Power: Logos | 417010 | [417010-words-of-power-logos.json](./417010-words-of-power-logos.json) |
 | Words of Wisdom | 242285 | [242285-words-of-wisdom.json](./242285-words-of-wisdom.json) |
 | Words of Wonders | 302727 | [302727-words-of-wonders.json](./302727-words-of-wonders.json) |
 | Words of Wonders: Search | 355896 | [355896-words-of-wonders-search.json](./355896-words-of-wonders-search.json) |
