@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Shot | 160278 | [160278-last-shot.json](./160278-last-shot.json) |
 | Last Signal | 257982 | [257982-last-signal.json](./257982-last-signal.json) |
 | Last Signal | 395151 | [395151-last-signal.json](./395151-last-signal.json) |
+| Last Signal | 424206 | [424206-last-signal.json](./424206-last-signal.json) |
 | Last Sinner | 187164 | [187164-last-sinner.json](./187164-last-sinner.json) |
 | Last Slice | 131674 | [131674-last-slice.json](./131674-last-slice.json) |
 | Last Solace | 417027 | [417027-last-solace.json](./417027-last-solace.json) |
@@ -4568,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetMeOut | 275991 | [275991-letmeout.json](./275991-letmeout.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
 | Léto s Oskarem | 257588 | [257588-leto-s-oskarem.json](./257588-leto-s-oskarem.json) |
+| Letrazo | 424194 | [424194-letrazo.json](./424194-letrazo.json) |
 | Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Invasion 2: Mushroom Rebirth | 322897 | [322897-luigis-invasion-2-mushroom-rebirth.json](./322897-luigis-invasion-2-mushroom-rebirth.json) |
 | Luigi's Invasion 3 | 322898 | [322898-luigis-invasion-3.json](./322898-luigis-invasion-3.json) |
 | Luigi's Lost Levels | 314099 | [314099-luigis-lost-levels.json](./314099-luigis-lost-levels.json) |
+| Luigi's Lost Memories | 424164 | [424164-luigis-lost-memories.json](./424164-luigis-lost-memories.json) |
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
 | Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
