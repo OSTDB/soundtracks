@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ukraine War Stories | 209227 | [209227-ukraine-war-stories.json](./209227-ukraine-war-stories.json) |
 | Ukrainian Farmy | 198267 | [198267-ukrainian-farmy.json](./198267-ukrainian-farmy.json) |
 | Ukrainian Fight Drone Simulator | 306326 | [306326-ukrainian-fight-drone-simulator.json](./306326-ukrainian-fight-drone-simulator.json) |
+| Ukrainian Ninja | 36021 | [36021-ukrainian-ninja.json](./36021-ukrainian-ninja.json) |
 | Ukrainian Shield: Iraq | 337388 | [337388-ukrainian-shield-iraq.json](./337388-ukrainian-shield-iraq.json) |
 | Ukrainian Warfare: Gostomel Heroes | 391787 | [391787-ukrainian-warfare-gostomel-heroes.json](./391787-ukrainian-warfare-gostomel-heroes.json) |
 | Ukrainien Agent | 207682 | [207682-ukrainien-agent.json](./207682-ukrainien-agent.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncovered: 1945 | 282258 | [282258-uncovered-1945.json](./282258-uncovered-1945.json) |
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
+| Uncraft World | 36042 | [36042-uncraft-world.json](./36042-uncraft-world.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
 | Uncrewed | 32607 | [32607-uncrewed.json](./32607-uncrewed.json) |
 | Uncrossed | 122539 | [122539-uncrossed.json](./122539-uncrossed.json) |
