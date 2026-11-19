@@ -242,7 +242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
 | Jack the Ripper | 14134 | [14134-jack-the-ripper.json](./14134-jack-the-ripper.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
-| Jack the Ripper | 20410 | [20410-jack-the-ripper.json](./20410-jack-the-ripper.json) |
 | Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack the Ripper: Letters from Hell - Extended Edition | 87887 | [87887-jack-the-ripper-letters-from-hell-extended-edition.json](./87887-jack-the-ripper-letters-from-hell-extended-edition.json) |
@@ -699,7 +698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: WWII Fighters | 950 | [950-janes-combat-simulations-wwii-fighters.json](./950-janes-combat-simulations-wwii-fighters.json) |
 | Jane's F/A-18 | 687 | [687-janes-f-a-18.json](./687-janes-f-a-18.json) |
 | Jane's Hotel | 180079 | [180079-janes-hotel.json](./180079-janes-hotel.json) |
-| Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
 | Jane's Hotel | 210009 | [210009-janes-hotel.json](./210009-janes-hotel.json) |
 | Jane's Hotel 3: Mania | 180100 | [180100-janes-hotel-3-mania.json](./180100-janes-hotel-3-mania.json) |
 | Jane's Hotel Mania | 54135 | [54135-janes-hotel-mania.json](./54135-janes-hotel-mania.json) |
@@ -4295,7 +4293,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter Moons: Mecha | 136500 | [136500-jupiter-moons-mecha.json](./136500-jupiter-moons-mecha.json) |
 | Jupiter Probe | 15089 | [15089-jupiter-probe.json](./15089-jupiter-probe.json) |
 | Jupiter Scope | 245066 | [245066-jupiter-scope.json](./245066-jupiter-scope.json) |
-| Jupiter Strike | 20251 | [20251-jupiter-strike.json](./20251-jupiter-strike.json) |
 | Jupiter-Saturn: Testing Conviction | 410439 | [410439-jupiter-saturn-testing-conviction.json](./410439-jupiter-saturn-testing-conviction.json) |
 | Jupiter's Masterdrive | 71232 | [71232-jupiters-masterdrive.json](./71232-jupiters-masterdrive.json) |
 | Jupiter's Orbit | 374248 | [374248-jupiters-orbit.json](./374248-jupiters-orbit.json) |
@@ -4528,7 +4525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 3: Collector's Edition | 47488 | [47488-just-cause-3-collectors-edition.json](./47488-just-cause-3-collectors-edition.json) |
 | Just Cause 3: Day One Edition | 89844 | [89844-just-cause-3-day-one-edition.json](./89844-just-cause-3-day-one-edition.json) |
 | Just Cause 3: Gold Edition | 25483 | [25483-just-cause-3-gold-edition.json](./25483-just-cause-3-gold-edition.json) |
-| Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
 | Just Cause 3: Multiplayer Mod | 153016 | [153016-just-cause-3-multiplayer-mod.json](./153016-just-cause-3-multiplayer-mod.json) |
 | Just Cause 3: Sky Fortress | 18043 | [18043-just-cause-3-sky-fortress.json](./18043-just-cause-3-sky-fortress.json) |
 | Just Cause 3: XL Edition | 36448 | [36448-just-cause-3-xl-edition.json](./36448-just-cause-3-xl-edition.json) |
