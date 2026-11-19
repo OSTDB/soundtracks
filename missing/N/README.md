@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night O'Clock | 364565 | [364565-night-oclock.json](./364565-night-oclock.json) |
 | Night of Carnage | 240074 | [240074-night-of-carnage.json](./240074-night-of-carnage.json) |
 | Night of Disturbance | 211027 | [211027-night-of-disturbance.json](./211027-night-of-disturbance.json) |
+| Night of Dread | 422995 | [422995-night-of-dread.json](./422995-night-of-dread.json) |
 | Night of Full Moon | 104096 | [104096-night-of-full-moon.json](./104096-night-of-full-moon.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
