@@ -3505,7 +3505,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Bunny | 27964 | [27964-fat-bunny.json](./27964-fat-bunny.json) |
 | Fat Cat | 315164 | [315164-fat-cat.json](./315164-fat-cat.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
-| Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dragons | 88885 | [88885-fat-dragons.json](./88885-fat-dragons.json) |
@@ -4190,7 +4189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
-| Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
 | Feathers & All | 406446 | [406446-feathers-and-all.json](./406446-feathers-and-all.json) |
 | Featherweight | 169514 | [169514-featherweight.json](./169514-featherweight.json) |
 | Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
@@ -15634,7 +15632,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furby: Big Fun in Furbyland | 91811 | [91811-furby-big-fun-in-furbyland.json](./91811-furby-big-fun-in-furbyland.json) |
-| Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
 | Furcifer's Fungeon | 217117 | [217117-furcifers-fungeon.json](./217117-furcifers-fungeon.json) |
 | Furcon Frenzy | 267212 | [267212-furcon-frenzy.json](./267212-furcon-frenzy.json) |
