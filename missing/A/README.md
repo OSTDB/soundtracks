@@ -14728,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Renegade | 105703 | [105703-arcade-archives-renegade.json](./105703-arcade-archives-renegade.json) |
 | Arcade Archives: Rezon | 244021 | [244021-arcade-archives-rezon.json](./244021-arcade-archives-rezon.json) |
 | Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
@@ -16912,7 +16913,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Horology | 116538 | [116538-art-of-horology.json](./116538-art-of-horology.json) |
 | Art of Ink | 59124 | [59124-art-of-ink.json](./59124-art-of-ink.json) |
 | Art of Murder: Cards of Destiny | 14361 | [14361-art-of-murder-cards-of-destiny.json](./14361-art-of-murder-cards-of-destiny.json) |
+| Art of Murder: Deadly Secrets | 105439 | [105439-art-of-murder-deadly-secrets.json](./105439-art-of-murder-deadly-secrets.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
+| Art of Murder: The Secret Files | 105437 | [105437-art-of-murder-the-secret-files.json](./105437-art-of-murder-the-secret-files.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
 | Art of Rally | 118607 | [118607-art-of-rally.json](./118607-art-of-rally.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
@@ -19239,6 +19242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
 | ATCsimulator2 | 92872 | [92872-atcsimulator2.json](./92872-atcsimulator2.json) |
+| Atelier ~Alchemists of Arland 1-2-3~ DX | 106294 | [106294-atelier-alchemists-of-arland-1-2-3-dx.json](./106294-atelier-alchemists-of-arland-1-2-3-dx.json) |
 | Atelier Agnes | 189154 | [189154-atelier-agnes.json](./189154-atelier-agnes.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk | 7278 | [7278-atelier-ayesha-the-alchemist-of-dusk.json](./7278-atelier-ayesha-the-alchemist-of-dusk.json) |
@@ -19789,6 +19793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Space | 281234 | [281234-attack-from-space.json](./281234-attack-from-space.json) |
 | Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
 | Attack From the Void | 244062 | [244062-attack-from-the-void.json](./244062-attack-from-the-void.json) |
+| Attack Helicopter Dating Simulator | 105952 | [105952-attack-helicopter-dating-simulator.json](./105952-attack-helicopter-dating-simulator.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
