@@ -10699,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Renovate 'N Sale | 105789 | [105789-home-renovate-n-sale.json](./105789-home-renovate-n-sale.json) |
 | Home Renovator | 298213 | [298213-home-renovator.json](./298213-home-renovator.json) |
 | Home Rescue Clean And Restore Collector's Edition | 399642 | [399642-home-rescue-clean-and-restore-collectors-edition.json](./399642-home-rescue-clean-and-restore-collectors-edition.json) |
+| Home Reset: Organizing Simulator | 421654 | [421654-home-reset-organizing-simulator.json](./421654-home-reset-organizing-simulator.json) |
 | Home Restoration VR | 264772 | [264772-home-restoration-vr.json](./264772-home-restoration-vr.json) |
 | Home Run | 18414 | [18414-home-run.json](./18414-home-run.json) |
 | Home Run | 79021 | [79021-home-run.json](./79021-home-run.json) |
