@@ -4816,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Sky | 368166 | [368166-vs-sky.json](./368166-vs-sky.json) |
 | Vs. Slalom | 40543 | [40543-vs-slalom.json](./40543-vs-slalom.json) |
 | Vs. Soccer | 40542 | [40542-vs-soccer.json](./40542-vs-soccer.json) |
+| Vs. Sonic.Exe (Unofficial) | 427167 | [427167-vs-sonic-exe-unofficial.json](./427167-vs-sonic-exe-unofficial.json) |
 | Vs. Star Luster | 214576 | [214576-vs-star-luster.json](./214576-vs-star-luster.json) |
 | Vs. Super Chinese | 214579 | [214579-vs-super-chinese.json](./214579-vs-super-chinese.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
