@@ -2771,7 +2771,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Behind: Eternal Forces | 20614 | [20614-left-behind-eternal-forces.json](./20614-left-behind-eternal-forces.json) |
 | Left Behind: Tribulation Forces | 68238 | [68238-left-behind-tribulation-forces.json](./68238-left-behind-tribulation-forces.json) |
 | Left Brain Right Brain | 20771 | [20771-left-brain-right-brain.json](./20771-left-brain-right-brain.json) |
-| Left Brain Right Brain 2 | 21223 | [21223-left-brain-right-brain-2.json](./21223-left-brain-right-brain-2.json) |
 | Left by Angels | 350948 | [350948-left-by-angels.json](./350948-left-by-angels.json) |
 | Left Dex | 158109 | [158109-left-dex.json](./158109-left-dex.json) |
 | Left Drift Right Shift Orbit | 108640 | [108640-left-drift-right-shift-orbit.json](./108640-left-drift-right-shift-orbit.json) |
@@ -4237,7 +4236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Fight!! Nokachan | 381117 | [381117-lets-fight-nokachan.json](./381117-lets-fight-nokachan.json) |
 | Let's Find a Way | 51496 | [51496-lets-find-a-way.json](./51496-lets-find-a-way.json) |
 | Let's Fish | 324027 | [324027-lets-fish.json](./324027-lets-fish.json) |
-| Let's Fish! Hooked On | 21022 | [21022-lets-fish-hooked-on.json](./21022-lets-fish-hooked-on.json) |
 | Let's Fly Away | 321286 | [321286-lets-fly-away.json](./321286-lets-fly-away.json) |
 | Let's Freeze Some Penguins | 348717 | [348717-lets-freeze-some-penguins.json](./348717-lets-freeze-some-penguins.json) |
 | Let's Get Bakin' | 342130 | [342130-lets-get-bakin.json](./342130-lets-get-bakin.json) |
@@ -4900,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Notes | 376634 | [376634-liar-notes.json](./376634-liar-notes.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
+| Liar-for-hire | 372896 | [372896-liar-for-hire.json](./372896-liar-for-hire.json) |
 | Liar, Lioness | 184028 | [184028-liar-lioness.json](./184028-liar-lioness.json) |
 | Liar: Legend of the Sword | 65223 | [65223-liar-legend-of-the-sword.json](./65223-liar-legend-of-the-sword.json) |
 | Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
@@ -6592,6 +6591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | LITA Protocol | 421034 | [421034-lita-protocol.json](./421034-lita-protocol.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
+| Litany | 392507 | [392507-litany.json](./392507-litany.json) |
 | Litchi Town | 244934 | [244934-litchi-town.json](./244934-litchi-town.json) |
 | Lite On: Indonesian Culture | 214647 | [214647-lite-on-indonesian-culture.json](./214647-lite-on-indonesian-culture.json) |
 | Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
