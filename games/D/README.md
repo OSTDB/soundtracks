@@ -5,6 +5,7 @@
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b2736767d1e2e31935bf22367301" width="60" /> | [D-topia](https://ostdb.net/games/d-topia) | **D-topia (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6UlcAXu57P7uAdejiUPKol) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cb502af26c2b68ab708d3cf0" width="60" /> | [D/Generation HD](https://ostdb.net/games/d-generation-hd) | **D/Generation HD (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/09LVO85t7ZwmzGjUBPamtO) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/51/3d/98/513d9861-002b-3b8c-0513-afabfa76ddd9/4571374915482_cover.jpg/600x600bb.jpg" width="60" /> | [Daemon x Machina: Titanic Scion](https://ostdb.net/games/daemon-x-machina-titanic-scion) | **DAEMON X MACHINA Original Soundtrack** · [Apple Music](https://music.apple.com/us/album/daemon-x-machina-original-soundtrack/1479691576?uo=4) · [Album](https://album.link/i/1479691576) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736feb3960790a4137873d2e09" width="60" /> | [Damsel](https://ostdb.net/games/damsel) | **Damsel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6nMLjPP7l4N6H5L9xXnBOA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737f13efad899a858d68a9ffe7" width="60" /> | [Dan the Man](https://ostdb.net/games/dan-the-man) | **Dan the Man (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BnrCrwOFuJmQ2pC0R5lDd) |
