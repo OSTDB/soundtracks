@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Rainbow: Prologue | 129010 | [129010-under-the-rainbow-prologue.json](./129010-under-the-rainbow-prologue.json) |
 | Under the Red Sky | 358253 | [358253-under-the-red-sky.json](./358253-under-the-red-sky.json) |
 | Under the River | 391026 | [391026-under-the-river.json](./391026-under-the-river.json) |
+| Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
 | Under the Sea | 166877 | [166877-under-the-sea.json](./166877-under-the-sea.json) |
 | Under the Sea: A Hidden World of Wonders | 330222 | [330222-under-the-sea-a-hidden-world-of-wonders.json](./330222-under-the-sea-a-hidden-world-of-wonders.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Tasks | 416987 | [416987-unexpected-tasks.json](./416987-unexpected-tasks.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | Unexplored | 27373 | [27373-unexplored.json](./27373-unexplored.json) |
+| Unexplored 2: The Wayfarer's Legacy | 119343 | [119343-unexplored-2-the-wayfarers-legacy.json](./119343-unexplored-2-the-wayfarers-legacy.json) |
 | Unexplored: Mithril Run | 155020 | [155020-unexplored-mithril-run.json](./155020-unexplored-mithril-run.json) |
 | Unexplored: Ripley Run | 155022 | [155022-unexplored-ripley-run.json](./155022-unexplored-ripley-run.json) |
 | Unexplored: The Dark Ritual | 155021 | [155021-unexplored-the-dark-ritual.json](./155021-unexplored-the-dark-ritual.json) |
@@ -3210,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 197640 | [197640-unstoppable.json](./197640-unstoppable.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
+| Unstoppable Gorg | 1057 | [1057-unstoppable-gorg.json](./1057-unstoppable-gorg.json) |
 | Unstoppable Man | 161554 | [161554-unstoppable-man.json](./161554-unstoppable-man.json) |
 | Unstoppable: Breakout | 304929 | [304929-unstoppable-breakout.json](./304929-unstoppable-breakout.json) |
 | Unstoppabot | 5608 | [5608-unstoppabot.json](./5608-unstoppabot.json) |
