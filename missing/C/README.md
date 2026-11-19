@@ -6059,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Lumina | 391241 | [391241-celestial-lumina.json](./391241-celestial-lumina.json) |
 | Celestial Mechanica | 25351 | [25351-celestial-mechanica.json](./25351-celestial-mechanica.json) |
 | Celestial Orbiter Auranova: Those Who Denounce God | 325643 | [325643-celestial-orbiter-auranova-those-who-denounce-god.json](./325643-celestial-orbiter-auranova-those-who-denounce-god.json) |
+| Celestial Peak | 421072 | [421072-celestial-peak.json](./421072-celestial-peak.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
 | Celestial Reactors | 161570 | [161570-celestial-reactors.json](./161570-celestial-reactors.json) |
@@ -6530,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainz | 94467 | [94467-chainz.json](./94467-chainz.json) |
 | Chainz 2: Relinked | 10571 | [10571-chainz-2-relinked.json](./10571-chainz-2-relinked.json) |
 | Chainz Galaxy | 106708 | [106708-chainz-galaxy.json](./106708-chainz-galaxy.json) |
+| Chair Chase | 421155 | [421155-chair-chase.json](./421155-chair-chase.json) |
 | Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
@@ -20521,6 +20523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Channel: For All People | 137171 | [137171-cross-channel-for-all-people.json](./137171-cross-channel-for-all-people.json) |
 | Cross Chase | 293229 | [293229-cross-chase.json](./293229-cross-chase.json) |
 | Cross Concerto | 368707 | [368707-cross-concerto.json](./368707-cross-concerto.json) |
+| Cross Contamination | 421148 | [421148-cross-contamination.json](./421148-cross-contamination.json) |
 | Cross Core | 193899 | [193899-cross-core.json](./193899-cross-core.json) |
 | Cross Country Express - An Oddfellows Mini | 121335 | [121335-cross-country-express-an-oddfellows-mini.json](./121335-cross-country-express-an-oddfellows-mini.json) |
 | Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
@@ -22475,6 +22478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
 | Cult&Card | 291765 | [291765-cult-and-card.json](./291765-cult-and-card.json) |
+| Cultist | 421159 | [421159-cultist.json](./421159-cultist.json) |
 | Cultist Astronaut | 203968 | [203968-cultist-astronaut.json](./203968-cultist-astronaut.json) |
 | Cultist Simulator | 26878 | [26878-cultist-simulator.json](./26878-cultist-simulator.json) |
 | Cultist Simulator: Anthology Edition | 117948 | [117948-cultist-simulator-anthology-edition.json](./117948-cultist-simulator-anthology-edition.json) |
