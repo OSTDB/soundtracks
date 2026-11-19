@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1on1 Soccer | 59649 | [59649-1on1-soccer.json](./59649-1on1-soccer.json) |
 | 1Push | 183744 | [183744-1push.json](./183744-1push.json) |
 | 1px | 287295 | [287295-1px.json](./287295-1px.json) |
+| 1Quest | 36146 | [36146-1quest.json](./36146-1quest.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1sland | 142339 | [142339-1sland.json](./142339-1sland.json) |
 | 1st CD-Edition | 112186 | [112186-1st-cd-edition.json](./112186-1st-cd-edition.json) |
