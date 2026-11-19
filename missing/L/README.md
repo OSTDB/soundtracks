@@ -4450,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2023: Party Classics vol. 1 Song Pack | 257717 | [257717-lets-sing-2023-party-classics-vol-1-song-pack.json](./257717-lets-sing-2023-party-classics-vol-1-song-pack.json) |
 | Let's Sing 2023: Party Classics vol. 2 Song Pack | 257716 | [257716-lets-sing-2023-party-classics-vol-2-song-pack.json](./257716-lets-sing-2023-party-classics-vol-2-song-pack.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
+| Let's Sing 2024 | 261154 | [261154-lets-sing-2024.json](./261154-lets-sing-2024.json) |
 | Let's Sing 2024 with International Hits | 268592 | [268592-lets-sing-2024-with-international-hits.json](./268592-lets-sing-2024-with-international-hits.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
