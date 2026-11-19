@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimi wa Hero ~ Taiketsu! | 74766 | [74766-kimi-wa-hero-taiketsu.json](./74766-kimi-wa-hero-taiketsu.json) |
 | Kimi wo Aogi Otome wa Hime Ni | 145090 | [145090-kimi-wo-aogi-otome-wa-hime-ni.json](./145090-kimi-wo-aogi-otome-wa-hime-ni.json) |
+| Kimihagu | 421069 | [421069-kimihagu.json](./421069-kimihagu.json) |
 | Kimiheokuru Sora No Hana | 111145 | [111145-kimiheokuru-sora-no-hana.json](./111145-kimiheokuru-sora-no-hana.json) |
 | Kimikare: Shingakki | 222624 | [222624-kimikare-shingakki.json](./222624-kimikare-shingakki.json) |
 | KimiKiss | 70540 | [70540-kimikiss.json](./70540-kimikiss.json) |
