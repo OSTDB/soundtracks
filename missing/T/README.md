@@ -8670,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack | 290034 | [290034-the-crack.json](./290034-the-crack.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
+| The Crackpet Show: Happy Tree Friends Edition | 262228 | [262228-the-crackpet-show-happy-tree-friends-edition.json](./262228-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Crackwell Legacy | 56665 | [56665-the-crackwell-legacy.json](./56665-the-crackwell-legacy.json) |
@@ -15901,6 +15902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mixologist | 315145 | [315145-the-mixologist.json](./315145-the-mixologist.json) |
 | The Mnemograph | 337304 | [337304-the-mnemograph.json](./337304-the-mnemograph.json) |
 | The Moaning Words | 60913 | [60913-the-moaning-words.json](./60913-the-moaning-words.json) |
+| The Mobius Machine | 258373 | [258373-the-mobius-machine.json](./258373-the-mobius-machine.json) |
 | The Möbius Strip | 366731 | [366731-the-mobius-strip.json](./366731-the-mobius-strip.json) |
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
@@ -16642,6 +16644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orcs Strike Back! | 108020 | [108020-the-orcs-strike-back.json](./108020-the-orcs-strike-back.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
+| The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Order of the Thorne: The King's Challenge | 17005 | [17005-the-order-of-the-thorne-the-kings-challenge.json](./17005-the-order-of-the-thorne-the-kings-challenge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The Order: 1886 - Collector's Edition | 42908 | [42908-the-order-1886-collectors-edition.json](./42908-the-order-1886-collectors-edition.json) |
@@ -34071,6 +34074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon | 259166 | [259166-transformers-dark-of-the-moon.json](./259166-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
+| Transformers: Dark of the Moon - Stealth Force Edition | 258867 | [258867-transformers-dark-of-the-moon-stealth-force-edition.json](./258867-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
 | Transformers: Earthspark - Expedition | 254819 | [254819-transformers-earthspark-expedition.json](./254819-transformers-earthspark-expedition.json) |
@@ -34543,6 +34547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Bastion: Spirit Guardians Expansion | 241506 | [241506-travelers-bastion-spirit-guardians-expansion.json](./241506-travelers-bastion-spirit-guardians-expansion.json) |
 | Traveler's Game | 256315 | [256315-travelers-game.json](./256315-travelers-game.json) |
+| Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
 | Traveler's Refrain x Dreamscaper | 396437 | [396437-travelers-refrain-x-dreamscaper.json](./396437-travelers-refrain-x-dreamscaper.json) |
 | Traveler's Tavern | 264539 | [264539-travelers-tavern.json](./264539-travelers-tavern.json) |
 | Travelers and Tales | 225495 | [225495-travelers-and-tales.json](./225495-travelers-and-tales.json) |
@@ -36534,6 +36539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
 | TruWorlds | 416524 | [416524-truworlds.json](./416524-truworlds.json) |
+| Truxton Extreme | 287620 | [287620-truxton-extreme.json](./287620-truxton-extreme.json) |
 | Truxton Extreme: Batsugun Ship + Music Pack | 407141 | [407141-truxton-extreme-batsugun-ship-music-pack.json](./407141-truxton-extreme-batsugun-ship-music-pack.json) |
 | Truxton Extreme: Truxton II Ship + Music Pack | 407139 | [407139-truxton-extreme-truxton-ii-ship-music-pack.json](./407139-truxton-extreme-truxton-ii-ship-music-pack.json) |
 | Truxton Extreme: Truxton Ship + Music Pack | 407140 | [407140-truxton-extreme-truxton-ship-music-pack.json](./407140-truxton-extreme-truxton-ship-music-pack.json) |
@@ -37459,6 +37465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok 2: Seeds of Evil | 27508 | [27508-turok-2-seeds-of-evil.json](./27508-turok-2-seeds-of-evil.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
 | Turok 3: Shadow of Oblivion | 142996 | [142996-turok-3-shadow-of-oblivion.json](./142996-turok-3-shadow-of-oblivion.json) |
+| Turok 3: Shadow of Oblivion | 263462 | [263462-turok-3-shadow-of-oblivion.json](./263462-turok-3-shadow-of-oblivion.json) |
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
