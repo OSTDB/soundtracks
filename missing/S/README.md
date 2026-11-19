@@ -6168,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Semicolon Island | 253679 | [253679-semicolon-island.json](./253679-semicolon-island.json) |
 | Semiconductor | 189093 | [189093-semiconductor.json](./189093-semiconductor.json) |
 | Semiramis no Tenbin | 60257 | [60257-semiramis-no-tenbin.json](./60257-semiramis-no-tenbin.json) |
+| Semispheres | 17990 | [17990-semispheres.json](./17990-semispheres.json) |
 | Semispheres: Blue Cover Limited Edition | 167034 | [167034-semispheres-blue-cover-limited-edition.json](./167034-semispheres-blue-cover-limited-edition.json) |
 | Semispheres: Orange Cover - Limited Edition | 167001 | [167001-semispheres-orange-cover-limited-edition.json](./167001-semispheres-orange-cover-limited-edition.json) |
 | Semmelweis | 238752 | [238752-semmelweis.json](./238752-semmelweis.json) |
@@ -8843,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Paradise | 387019 | [387019-shattered-paradise.json](./387019-shattered-paradise.json) |
 | Shattered Pixel Dungeon | 130394 | [130394-shattered-pixel-dungeon.json](./130394-shattered-pixel-dungeon.json) |
 | Shattered Plains | 279164 | [279164-shattered-plains.json](./279164-shattered-plains.json) |
+| Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
 | Shattered Reality | 165799 | [165799-shattered-reality.json](./165799-shattered-reality.json) |
 | Shattered Realm Rebirth | 390666 | [390666-shattered-realm-rebirth.json](./390666-shattered-realm-rebirth.json) |
 | Shattered Realms | 419278 | [419278-shattered-realms.json](./419278-shattered-realms.json) |
@@ -10095,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
+| ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | Shippin | 325204 | [325204-shippin.json](./325204-shippin.json) |
@@ -13271,6 +13274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister 625 | 270849 | [270849-sinister-625.json](./270849-sinister-625.json) |
 | Sinister Adventures Bundle | 199624 | [199624-sinister-adventures-bundle.json](./199624-sinister-adventures-bundle.json) |
 | Sinister Assistant | 111906 | [111906-sinister-assistant.json](./111906-sinister-assistant.json) |
+| Sinister City | 17898 | [17898-sinister-city.json](./17898-sinister-city.json) |
 | Sinister Entity | 221125 | [221125-sinister-entity.json](./221125-sinister-entity.json) |
 | Sinister Fate | 38992 | [38992-sinister-fate.json](./38992-sinister-fate.json) |
 | Sinister Games | 254649 | [254649-sinister-games.json](./254649-sinister-games.json) |
@@ -18739,6 +18743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Sestancia | 310592 | [310592-sol-sestancia.json](./310592-sol-sestancia.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol Standard | 184412 | [184412-sol-standard.json](./184412-sol-standard.json) |
+| Sol Survivor | 15019 | [15019-sol-survivor.json](./15019-sol-survivor.json) |
 | Sol Trader | 34611 | [34611-sol-trader.json](./34611-sol-trader.json) |
 | Sol Traveler | 178993 | [178993-sol-traveler.json](./178993-sol-traveler.json) |
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
@@ -21878,6 +21883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - To Danse with Ravenous Shadows | 293793 | [293793-south-park-snow-day-to-danse-with-ravenous-shadows.json](./293793-south-park-snow-day-to-danse-with-ravenous-shadows.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
 | South Park: Snow Day! - Underpants Gnome Cosmetics Pack | 293792 | [293792-south-park-snow-day-underpants-gnome-cosmetics-pack.json](./293792-south-park-snow-day-underpants-gnome-cosmetics-pack.json) |
+| South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured But Whole - Amazon Steel Book Edition | 2026 | [2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json](./2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json) |
 | South Park: The Fractured But Whole - Bring the Crunch | 105422 | [105422-south-park-the-fractured-but-whole-bring-the-crunch.json](./105422-south-park-the-fractured-but-whole-bring-the-crunch.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
@@ -38332,6 +38338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Widget | 42495 | [42495-super-widget.json](./42495-super-widget.json) |
 | Super Wiloo Deluxe | 415862 | [415862-super-wiloo-deluxe.json](./415862-super-wiloo-deluxe.json) |
 | Super Wiloo Demake | 121236 | [121236-super-wiloo-demake.json](./121236-super-wiloo-demake.json) |
+| Super Win the Game | 14687 | [14687-super-win-the-game.json](./14687-super-win-the-game.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
 | Super Wipeout | 28353 | [28353-super-wipeout.json](./28353-super-wipeout.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
