@@ -2805,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
 | Rayman Maternelle | 193373 | [193373-rayman-maternelle.json](./193373-rayman-maternelle.json) |
+| Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Origins: Collector's Edition | 43006 | [43006-rayman-origins-collectors-edition.json](./43006-rayman-origins-collectors-edition.json) |
 | Rayman Raving Rabbids | 151927 | [151927-rayman-raving-rabbids.json](./151927-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
@@ -6093,7 +6094,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republique: Anniversary Edition | 152324 | [152324-republique-anniversary-edition.json](./152324-republique-anniversary-edition.json) |
 | République: Contraband Edition | 42937 | [42937-republique-contraband-edition.json](./42937-republique-contraband-edition.json) |
 | République: Deluxe Edition | 51875 | [51875-republique-deluxe-edition.json](./51875-republique-deluxe-edition.json) |
+| République: Episode 1- Exordium | 127126 | [127126-republique-episode-1-exordium.json](./127126-republique-episode-1-exordium.json) |
 | République: Episode 2 - Metamorphosis | 127127 | [127127-republique-episode-2-metamorphosis.json](./127127-republique-episode-2-metamorphosis.json) |
+| République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | République: Episode 4 - God's Acre | 127129 | [127129-republique-episode-4-gods-acre.json](./127129-republique-episode-4-gods-acre.json) |
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
 | Repugnant Bounty | 229493 | [229493-repugnant-bounty.json](./229493-repugnant-bounty.json) |
