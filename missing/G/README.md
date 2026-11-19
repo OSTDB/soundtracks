@@ -8945,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Versus - Zooey | 156330 | [156330-granblue-fantasy-versus-zooey.json](./156330-granblue-fantasy-versus-zooey.json) |
 | Granbo | 210778 | [210778-granbo.json](./210778-granbo.json) |
 | Grand | 193918 | [193918-grand.json](./193918-grand.json) |
+| Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Academy II: Attack of the Sequel | 126834 | [126834-grand-academy-ii-attack-of-the-sequel.json](./126834-grand-academy-ii-attack-of-the-sequel.json) |
 | Grand Action Simulator | 361600 | [361600-grand-action-simulator.json](./361600-grand-action-simulator.json) |
 | Grand Ages: Medieval | 11814 | [11814-grand-ages-medieval.json](./11814-grand-ages-medieval.json) |
