@@ -5793,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | InterPlanet | 77721 | [77721-interplanet.json](./77721-interplanet.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
+| Interplanetary Farmer | 428442 | [428442-interplanetary-farmer.json](./428442-interplanetary-farmer.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
 | Interplanetary Hunter | 52293 | [52293-interplanetary-hunter.json](./52293-interplanetary-hunter.json) |
 | Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
