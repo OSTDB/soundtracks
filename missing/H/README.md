@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang On & Safari Hunt: The Combo Cartridge | 68907 | [68907-hang-on-and-safari-hunt-the-combo-cartridge.json](./68907-hang-on-and-safari-hunt-the-combo-cartridge.json) |
 | Hang Out | 405718 | [405718-hang-out.json](./405718-hang-out.json) |
 | Hang Pilot | 307858 | [307858-hang-pilot.json](./307858-hang-pilot.json) |
+| Hang the Kings | 124228 | [124228-hang-the-kings.json](./124228-hang-the-kings.json) |
 | Hang Tight | 389245 | [389245-hang-tight.json](./389245-hang-tight.json) |
 | Hang Up | 110649 | [110649-hang-up.json](./110649-hang-up.json) |
 | Hang up Street | 333092 | [333092-hang-up-street.json](./333092-hang-up-street.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs and Graces | 32497 | [32497-heirs-and-graces.json](./32497-heirs-and-graces.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
 | Heirs of the Fountains | 418724 | [418724-heirs-of-the-fountains.json](./418724-heirs-of-the-fountains.json) |
+| Heirs of the Kings | 124313 | [124313-heirs-of-the-kings.json](./124313-heirs-of-the-kings.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heisa Byouin | 112555 | [112555-heisa-byouin.json](./112555-heisa-byouin.json) |
@@ -7107,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
 | Heroes of Hellas 4: Birth of Legend | 86449 | [86449-heroes-of-hellas-4-birth-of-legend.json](./86449-heroes-of-hellas-4-birth-of-legend.json) |
+| Heroes of Hellas Origins: Part One | 123917 | [123917-heroes-of-hellas-origins-part-one.json](./123917-heroes-of-hellas-origins-part-one.json) |
 | Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
 | Heroes of Hexaluga | 74590 | [74590-heroes-of-hexaluga.json](./74590-heroes-of-hexaluga.json) |
 | Heroes of Higher Realms | 305634 | [305634-heroes-of-higher-realms.json](./305634-heroes-of-higher-realms.json) |
@@ -10542,6 +10545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
 | Holy Justice: Galaxy Outcast | 372442 | [372442-holy-justice-galaxy-outcast.json](./372442-holy-justice-galaxy-outcast.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
+| Holy Knight Luviria | 123907 | [123907-holy-knight-luviria.json](./123907-holy-knight-luviria.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
 | Holy Maid Academy | 277479 | [277479-holy-maid-academy.json](./277479-holy-maid-academy.json) |
 | Holy Moly | 185816 | [185816-holy-moly.json](./185816-holy-moly.json) |
@@ -13072,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Pua: Space | 110420 | [110420-how-to-pua-space.json](./110420-how-to-pua-space.json) |
 | How to Punish a Witch | 163782 | [163782-how-to-punish-a-witch.json](./163782-how-to-punish-a-witch.json) |
 | How to Raise a Dragon | 200814 | [200814-how-to-raise-a-dragon.json](./200814-how-to-raise-a-dragon.json) |
+| How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
 | How to shoot a criminal | 31565 | [31565-how-to-shoot-a-criminal.json](./31565-how-to-shoot-a-criminal.json) |
