@@ -5064,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
 | Liese in the City of Trials | 358928 | [358928-liese-in-the-city-of-trials.json](./358928-liese-in-the-city-of-trials.json) |
 | Lièyàn Chuánqí | 154348 | [154348-lieyan-chuanqi.json](./154348-lieyan-chuanqi.json) |
+| Lif | 35869 | [35869-lif.json](./35869-lif.json) |
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
 | Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
@@ -8686,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
 | Loot Hole | 429369 | [429369-loot-hole.json](./429369-loot-hole.json) |
+| Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
 | Loot Improvement | 285715 | [285715-loot-improvement.json](./285715-loot-improvement.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
