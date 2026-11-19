@@ -7104,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
 | Belial Red | 236211 | [236211-belial-red.json](./236211-belial-red.json) |
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
+| Belief: A God's Burden | 419575 | [419575-belief-a-gods-burden.json](./419575-belief-a-gods-burden.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
 | Believe: Paranormal Psychic Adventure | 118014 | [118014-believe-paranormal-psychic-adventure.json](./118014-believe-paranormal-psychic-adventure.json) |
 | Believer Clubhouse | 313581 | [313581-believer-clubhouse.json](./313581-believer-clubhouse.json) |
@@ -19084,6 +19085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
 | Bubbles & Babes | 423568 | [423568-bubbles-and-babes.json](./423568-bubbles-and-babes.json) |
 | Bubbles & Pearls | 195362 | [195362-bubbles-and-pearls.json](./195362-bubbles-and-pearls.json) |
+| Bubbles 2 | 419536 | [419536-bubbles-2.json](./419536-bubbles-2.json) |
 | Bubbles Empire Champions | 108694 | [108694-bubbles-empire-champions.json](./108694-bubbles-empire-champions.json) |
 | Bubbles for Kids | 87289 | [87289-bubbles-for-kids.json](./87289-bubbles-for-kids.json) |
 | Bubbles in the Air | 347093 | [347093-bubbles-in-the-air.json](./347093-bubbles-in-the-air.json) |
