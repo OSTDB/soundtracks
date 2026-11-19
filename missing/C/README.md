@@ -12732,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coast Guard | 13209 | [13209-coast-guard.json](./13209-coast-guard.json) |
 | Coast Guard: Beach Rescue Team | 96908 | [96908-coast-guard-beach-rescue-team.json](./96908-coast-guard-beach-rescue-team.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
+| Coastal Cargo | 428994 | [428994-coastal-cargo.json](./428994-coastal-cargo.json) |
 | Coastal Defense | 294345 | [294345-coastal-defense.json](./294345-coastal-defense.json) |
 | Coastal Kingdoms | 304711 | [304711-coastal-kingdoms.json](./304711-coastal-kingdoms.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
@@ -15224,6 +15225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compression | 345664 | [345664-compression.json](./345664-compression.json) |
 | Compression HD | 254691 | [254691-compression-hd.json](./254691-compression-hd.json) |
 | ComPressure | 146044 | [146044-compressure.json](./146044-compressure.json) |
+| Compromised | 428947 | [428947-compromised.json](./428947-compromised.json) |
 | Compromised | 79596 | [79596-compromised.json](./79596-compromised.json) |
 | Compton's Interactive Encyclopedia | 306581 | [306581-comptons-interactive-encyclopedia.json](./306581-comptons-interactive-encyclopedia.json) |
 | Compu-Tron x3000 | 338291 | [338291-compu-tron-x3000.json](./338291-compu-tron-x3000.json) |
