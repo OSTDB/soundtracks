@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haul Asteroid | 72418 | [72418-haul-asteroid.json](./72418-haul-asteroid.json) |
 | Haul Away Joe | 176393 | [176393-haul-away-joe.json](./176393-haul-away-joe.json) |
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
+| Haul Yeah! | 428997 | [428997-haul-yeah.json](./428997-haul-yeah.json) |
 | Haulin' Oats | 192829 | [192829-haulin-oats.json](./192829-haulin-oats.json) |
 | Hauling Away | 208276 | [208276-hauling-away.json](./208276-hauling-away.json) |
 | Hauma: A Detective Noir Story | 149867 | [149867-hauma-a-detective-noir-story.json](./149867-hauma-a-detective-noir-story.json) |
@@ -10284,6 +10285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Ascent | 370840 | [370840-hollow-ascent.json](./370840-hollow-ascent.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
+| Hollow Cedar | 428979 | [428979-hollow-cedar.json](./428979-hollow-cedar.json) |
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
 | Hollow Cries | 125198 | [125198-hollow-cries.json](./125198-hollow-cries.json) |
