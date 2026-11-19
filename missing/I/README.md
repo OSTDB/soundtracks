@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernitos | 325784 | [325784-infernitos.json](./325784-infernitos.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
 | Infernity: The Devil's Arena | 344612 | [344612-infernity-the-devils-arena.json](./344612-infernity-the-devils-arena.json) |
+| Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 117270 | [117270-inferno.json](./117270-inferno.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 171962 | [171962-inferno.json](./171962-inferno.json) |
