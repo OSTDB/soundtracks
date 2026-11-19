@@ -9284,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujikuu Yousai Macross: Remember Me | 416894 | [416894-choujikuu-yousai-macross-remember-me.json](./416894-choujikuu-yousai-macross-remember-me.json) |
 | Choujikuu Yousai Macross: Scrambled Valkyrie | 42537 | [42537-choujikuu-yousai-macross-scrambled-valkyrie.json](./42537-choujikuu-yousai-macross-scrambled-valkyrie.json) |
 | Choujikuu Yousai Macross: Skull Leader | 54761 | [54761-choujikuu-yousai-macross-skull-leader.json](./54761-choujikuu-yousai-macross-skull-leader.json) |
+| Choujikuu Yousai Macross: Skull Leader Complete Pack | 416901 | [416901-choujikuu-yousai-macross-skull-leader-complete-pack.json](./416901-choujikuu-yousai-macross-skull-leader-complete-pack.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
 | Choujin Baseball Stadium | 222225 | [222225-choujin-baseball-stadium.json](./222225-choujin-baseball-stadium.json) |
 | Choujin Baseball Stadium: Nekketsu Story | 222398 | [222398-choujin-baseball-stadium-nekketsu-story.json](./222398-choujin-baseball-stadium-nekketsu-story.json) |
