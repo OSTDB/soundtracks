@@ -1791,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
 | Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
 | Dark Fantasy Saga | 322429 | [322429-dark-fantasy-saga.json](./322429-dark-fantasy-saga.json) |
+| Dark Fantasy Vault | 428449 | [428449-dark-fantasy-vault.json](./428449-dark-fantasy-vault.json) |
 | Dark Fantasy Warriors | 158353 | [158353-dark-fantasy-warriors.json](./158353-dark-fantasy-warriors.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckTerra | 353644 | [353644-deckterra.json](./353644-deckterra.json) |
 | Decktoon | 407718 | [407718-decktoon.json](./407718-decktoon.json) |
 | Deckum Demonium | 384756 | [384756-deckum-demonium.json](./384756-deckum-demonium.json) |
+| DeckWake | 428445 | [428445-deckwake.json](./428445-deckwake.json) |
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
 | Deckzin | 400043 | [400043-deckzin.json](./400043-deckzin.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
@@ -5890,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
 | Decrypting Life | 426600 | [426600-decrypting-life.json](./426600-decrypting-life.json) |
 | Decrypto Project | 338686 | [338686-decrypto-project.json](./338686-decrypto-project.json) |
+| DeCube | 428459 | [428459-decube.json](./428459-decube.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
 | Decwar | 66735 | [66735-decwar.json](./66735-decwar.json) |
