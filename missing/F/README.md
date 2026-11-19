@@ -7166,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Factory | 383318 | [383318-fireworks-factory.json](./383318-fireworks-factory.json) |
 | Fireworks Frenzy | 250727 | [250727-fireworks-frenzy.json](./250727-fireworks-frenzy.json) |
 | FireWorks Inc. | 289498 | [289498-fireworks-inc.json](./289498-fireworks-inc.json) |
+| Fireworks Incremental | 419580 | [419580-fireworks-incremental.json](./419580-fireworks-incremental.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
 | Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
@@ -10456,6 +10457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Fool's Trigger | 422205 | [422205-fools-trigger.json](./422205-fools-trigger.json) |
 | Foolball | 232603 | [232603-foolball.json](./232603-foolball.json) |
+| Foole's World | 419541 | [419541-fooles-world.json](./419541-fooles-world.json) |
 | Foolhearted | 390309 | [390309-foolhearted.json](./390309-foolhearted.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
@@ -13505,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle BMX: featuring Brian Foster & Joey Garcia | 78318 | [78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json](./78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json) |
 | Freestyle Dirt Bike | 89628 | [89628-freestyle-dirt-bike.json](./89628-freestyle-dirt-bike.json) |
+| Freestyle Dunker | 419583 | [419583-freestyle-dunker.json](./419583-freestyle-dunker.json) |
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
 | Freestyle Football 2 | 362044 | [362044-freestyle-football-2.json](./362044-freestyle-football-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
