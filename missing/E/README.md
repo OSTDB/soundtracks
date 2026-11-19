@@ -6548,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
 | Escape with Monet | 96928 | [96928-escape-with-monet.json](./96928-escape-with-monet.json) |
 | Escape Within | 152581 | [152581-escape-within.json](./152581-escape-within.json) |
+| Escape Your Boss | 425371 | [425371-escape-your-boss.json](./425371-escape-your-boss.json) |
 | Escape Yourself | 208665 | [208665-escape-yourself.json](./208665-escape-yourself.json) |
 | Escape Z | 263811 | [263811-escape-z.json](./263811-escape-z.json) |
 | Escape Z Town | 219923 | [219923-escape-z-town.json](./219923-escape-z-town.json) |
