@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporwave Simulator | 81747 | [81747-vaporwave-simulator.json](./81747-vaporwave-simulator.json) |
 | Vaporwave Vision Quest: Kmart Sepulcher | 144064 | [144064-vaporwave-vision-quest-kmart-sepulcher.json](./144064-vaporwave-vision-quest-kmart-sepulcher.json) |
 | Vaporwave World | 130202 | [130202-vaporwave-world.json](./130202-vaporwave-world.json) |
+| Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | VAR: Exterminate | 147529 | [147529-var-exterminate.json](./147529-var-exterminate.json) |
 | Var'Alith | 181480 | [181480-varalith.json](./181480-varalith.json) |
 | varBlocks | 91229 | [91229-varblocks.json](./91229-varblocks.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Pinball | 364126 | [364126-vintage-pinball.json](./364126-vintage-pinball.json) |
 | Vintage Records from Hell | 202616 | [202616-vintage-records-from-hell.json](./202616-vintage-records-from-hell.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
+| Vintage Year | 36118 | [36118-vintage-year.json](./36118-vintage-year.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
 | Vinterget | 244562 | [244562-vinterget.json](./244562-vinterget.json) |
 | Vinterkyla: Shattered Realms | 349052 | [349052-vinterkyla-shattered-realms.json](./349052-vinterkyla-shattered-realms.json) |
@@ -4287,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelgram: DLC #1 | 306803 | [306803-voxelgram-dlc-1.json](./306803-voxelgram-dlc-1.json) |
 | Voxelia Defenders | 151344 | [151344-voxelia-defenders.json](./151344-voxelia-defenders.json) |
 | Voxeliens | 53153 | [53153-voxeliens.json](./53153-voxeliens.json) |
+| Voxelized | 35918 | [35918-voxelized.json](./35918-voxelized.json) |
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
@@ -4921,6 +4924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
 | Vulture | 56629 | [56629-vulture.json](./56629-vulture.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
+| Vulture for NetHack | 35946 | [35946-vulture-for-nethack.json](./35946-vulture-for-nethack.json) |
 | Vulture Island | 31046 | [31046-vulture-island.json](./31046-vulture-island.json) |
 | Vulture Strike | 36973 | [36973-vulture-strike.json](./36973-vulture-strike.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
