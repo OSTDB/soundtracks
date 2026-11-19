@@ -11595,7 +11595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon of Horus | 281632 | [281632-horizon-of-horus.json](./281632-horizon-of-horus.json) |
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
 | Horizon Sandbox | 405631 | [405631-horizon-sandbox.json](./405631-horizon-sandbox.json) |
-| Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
 | Horizon Shift '81 | 113230 | [113230-horizon-shift-81.json](./113230-horizon-shift-81.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon Springs | 277632 | [277632-horizon-springs.json](./277632-horizon-springs.json) |
