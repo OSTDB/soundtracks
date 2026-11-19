@@ -3363,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Em | 187163 | [187163-em.json](./187163-em.json) |
 | Em Busca dos Tesouros | 217589 | [217589-em-busca-dos-tesouros.json](./217589-em-busca-dos-tesouros.json) |
 | Em Busca dos Tesouros | 320413 | [320413-em-busca-dos-tesouros.json](./320413-em-busca-dos-tesouros.json) |
+| EM-68's Adventure | 422376 | [422376-em-68s-adventure.json](./422376-em-68s-adventure.json) |
 | Em-8ER | 27056 | [27056-em-8er.json](./27056-em-8er.json) |
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
@@ -3468,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emblem of Valor | 236602 | [236602-emblem-of-valor.json](./236602-emblem-of-valor.json) |
 | Emblem Tale: Heros | 200270 | [200270-emblem-tale-heros.json](./200270-emblem-tale-heros.json) |
 | Emblem Wordle | 410099 | [410099-emblem-wordle.json](./410099-emblem-wordle.json) |
+| Emblemania | 422334 | [422334-emblemania.json](./422334-emblemania.json) |
 | Emblems: Sunless Vow | 294291 | [294291-emblems-sunless-vow.json](./294291-emblems-sunless-vow.json) |
 | Embodied Tournament | 339744 | [339744-embodied-tournament.json](./339744-embodied-tournament.json) |
 | Embodiment | 211125 | [211125-embodiment.json](./211125-embodiment.json) |
@@ -7722,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evenfall | 362328 | [362328-evenfall.json](./362328-evenfall.json) |
 | EvenFlo | 58111 | [58111-evenflo.json](./58111-evenflo.json) |
 | Evenicle 2 | 128796 | [128796-evenicle-2.json](./128796-evenicle-2.json) |
+| Evenicle: Next Fragment Medica | 422361 | [422361-evenicle-next-fragment-medica.json](./422361-evenicle-next-fragment-medica.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
 | EVEning Course | 417966 | [417966-evening-course.json](./417966-evening-course.json) |
