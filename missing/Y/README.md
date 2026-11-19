@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yasa Pets School | 107553 | [107553-yasa-pets-school.json](./107553-yasa-pets-school.json) |
 | Yasa Pets Village | 97048 | [97048-yasa-pets-village.json](./97048-yasa-pets-village.json) |
 | Yasai Game | 294895 | [294895-yasai-game.json](./294895-yasai-game.json) |
+| Yasai Ninja | 21861 | [21861-yasai-ninja.json](./21861-yasai-ninja.json) |
 | Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
 | YASG | 122326 | [122326-yasg.json](./122326-yasg.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You, Error. | 390716 | [390716-you-error.json](./390716-you-error.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You, Me, and a Beautiful Lie: Classic Remaster | 429751 | [429751-you-me-and-a-beautiful-lie-classic-remaster.json](./429751-you-me-and-a-beautiful-lie-classic-remaster.json) |
+| You, Me, and the Cubes | 21114 | [21114-you-me-and-the-cubes.json](./21114-you-me-and-the-cubes.json) |
 | You, With Me: A Kinetic Novel | 90490 | [90490-you-with-me-a-kinetic-novel.json](./90490-you-with-me-a-kinetic-novel.json) |
 | You, you've got me wrong! | 82683 | [82683-you-youve-got-me-wrong.json](./82683-you-youve-got-me-wrong.json) |
 | You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
