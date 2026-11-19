@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faith of the Guardians | 65743 | [65743-faith-of-the-guardians.json](./65743-faith-of-the-guardians.json) |
 | Faith Romance | 185039 | [185039-faith-romance.json](./185039-faith-romance.json) |
 | Faith Update v1.4: Good Christian Boy | 275258 | [275258-faith-update-v1-4-good-christian-boy.json](./275258-faith-update-v1-4-good-christian-boy.json) |
+| Faith: Chapter 4 | 427682 | [427682-faith-chapter-4.json](./427682-faith-chapter-4.json) |
 | Faith: Chapter II | 123282 | [123282-faith-chapter-ii.json](./123282-faith-chapter-ii.json) |
 | Faith: Chapter III | 125170 | [125170-faith-chapter-iii.json](./125170-faith-chapter-iii.json) |
 | Faith: Demon Siege | 361396 | [361396-faith-demon-siege.json](./361396-faith-demon-siege.json) |
@@ -4859,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido | 352330 | [352330-fido.json](./352330-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
+| Fidus | 427867 | [427867-fidus.json](./427867-fidus.json) |
 | FIE Swordplay | 152225 | [152225-fie-swordplay.json](./152225-fie-swordplay.json) |
 | Fief Lord | 348986 | [348986-fief-lord.json](./348986-fief-lord.json) |
 | Fief: the Medieval Manor Simulation | 176624 | [176624-fief-the-medieval-manor-simulation.json](./176624-fief-the-medieval-manor-simulation.json) |
@@ -8253,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fives | 397478 | [397478-fives.json](./397478-fives.json) |
 | FiveSeven | 222727 | [222727-fiveseven.json](./222727-fiveseven.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
+| Fix & Flick | 427870 | [427870-fix-and-flick.json](./427870-fix-and-flick.json) |
 | Fix and Clerk | 390837 | [390837-fix-and-clerk.json](./390837-fix-and-clerk.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
@@ -13109,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FranknJohn | 17506 | [17506-franknjohn.json](./17506-franknjohn.json) |
 | Franko: The Crazy Revenge | 46996 | [46996-franko-the-crazy-revenge.json](./46996-franko-the-crazy-revenge.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
+| Franky Psychedelic Adventure | 427668 | [427668-franky-psychedelic-adventure.json](./427668-franky-psychedelic-adventure.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
 | Franky the Bumwalker: Reborn | 172327 | [172327-franky-the-bumwalker-reborn.json](./172327-franky-the-bumwalker-reborn.json) |
 | Franky, Joe & Dirk... On the Tiles | 49049 | [49049-franky-joe-and-dirk-on-the-tiles.json](./49049-franky-joe-and-dirk-on-the-tiles.json) |
@@ -15758,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Arena | 223211 | [223211-furry-arena.json](./223211-furry-arena.json) |
 | Furry Armpits | 367086 | [367086-furry-armpits.json](./367086-furry-armpits.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
+| Furry Banger | 427886 | [427886-furry-banger.json](./427886-furry-banger.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
 | Furry Boys Jigsaw | 286715 | [286715-furry-boys-jigsaw.json](./286715-furry-boys-jigsaw.json) |
