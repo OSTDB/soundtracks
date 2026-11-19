@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are cursed, Mr.Mayor! | 183801 | [183801-you-are-cursed-mr-mayor.json](./183801-you-are-cursed-mr-mayor.json) |
 | You Are Dead | 302402 | [302402-you-are-dead.json](./302402-you-are-dead.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
+| You Are Disabled | 14739 | [14739-you-are-disabled.json](./14739-you-are-disabled.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
 | You Are Elon Musk | 403396 | [403396-you-are-elon-musk.json](./403396-you-are-elon-musk.json) |
 | You Are Empty | 54651 | [54651-you-are-empty.json](./54651-you-are-empty.json) |
@@ -1876,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Proud Nordics: Launch Edition | 403562 | [403562-ys-x-proud-nordics-launch-edition.json](./403562-ys-x-proud-nordics-launch-edition.json) |
 | Ys: Ancient Ys Vanished | 399551 | [399551-ys-ancient-ys-vanished.json](./399551-ys-ancient-ys-vanished.json) |
 | Ys: Book I & II | 70166 | [70166-ys-book-i-and-ii.json](./70166-ys-book-i-and-ii.json) |
+| Ys: Memories of Celceta | 117495 | [117495-ys-memories-of-celceta.json](./117495-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
