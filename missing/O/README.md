@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onmyoji Heian Memoirs | 181504 | [181504-onmyoji-heian-memoirs.json](./181504-onmyoji-heian-memoirs.json) |
 | Onmyoji in the Otherworld: Sayaka's Story | 172005 | [172005-onmyoji-in-the-otherworld-sayakas-story.json](./172005-onmyoji-in-the-otherworld-sayakas-story.json) |
 | Onmyoji: Beyond Time | 298981 | [298981-onmyoji-beyond-time.json](./298981-onmyoji-beyond-time.json) |
+| Onmyoji: Soul Legend | 424773 | [424773-onmyoji-soul-legend.json](./424773-onmyoji-soul-legend.json) |
 | Onmyoji: The Card Game | 143262 | [143262-onmyoji-the-card-game.json](./143262-onmyoji-the-card-game.json) |
 | Onmyoji: The World | 175028 | [175028-onmyoji-the-world.json](./175028-onmyoji-the-world.json) |
 | Onmyou Taisenki: Byakko Enbu | 78491 | [78491-onmyou-taisenki-byakko-enbu.json](./78491-onmyou-taisenki-byakko-enbu.json) |
@@ -5852,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcasts of Orion | 156760 | [156760-outcasts-of-orion.json](./156760-outcasts-of-orion.json) |
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
 | Outcity | 347919 | [347919-outcity.json](./347919-outcity.json) |
+| Outclassed | 424809 | [424809-outclassed.json](./424809-outclassed.json) |
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
 | Outcry | 13194 | [13194-outcry.json](./13194-outcry.json) |
