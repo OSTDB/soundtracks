@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 191992 | [191992-backgammon.json](./191992-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
+| Backgammon | 430488 | [430488-backgammon.json](./430488-backgammon.json) |
 | Backgammon | 54874 | [54874-backgammon.json](./54874-backgammon.json) |
 | Backgammon | 77148 | [77148-backgammon.json](./77148-backgammon.json) |
 | Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
@@ -18911,6 +18912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
 | Bubble Chicken Farm | 277619 | [277619-bubble-chicken-farm.json](./277619-bubble-chicken-farm.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
+| Bubble Court | 430470 | [430470-bubble-court.json](./430470-bubble-court.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
 | Bubble Cube | 56945 | [56945-bubble-cube.json](./56945-bubble-cube.json) |
@@ -20028,6 +20030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Buns: Complete Edition | 399813 | [399813-bun-buns-complete-edition.json](./399813-bun-buns-complete-edition.json) |
 | Bun Buns: Cozy DLC | 395688 | [395688-bun-buns-cozy-dlc.json](./395688-bun-buns-cozy-dlc.json) |
 | Bun Buns: Cute DLC | 395689 | [395689-bun-buns-cute-dlc.json](./395689-bun-buns-cute-dlc.json) |
+| Bun Rush | 430609 | [430609-bun-rush.json](./430609-bun-rush.json) |
 | Bun Snap | 180175 | [180175-bun-snap.json](./180175-bun-snap.json) |
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Buna Wants Beer | 318525 | [318525-buna-wants-beer.json](./318525-buna-wants-beer.json) |
