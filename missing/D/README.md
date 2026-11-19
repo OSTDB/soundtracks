@@ -17271,6 +17271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest | 128708 | [128708-dragon-quest.json](./128708-dragon-quest.json) |
 | Dragon Quest | 1812 | [1812-dragon-quest.json](./1812-dragon-quest.json) |
 | Dragon Quest | 239185 | [239185-dragon-quest.json](./239185-dragon-quest.json) |
+| Dragon Quest & Final Fantasy in Itadaki Street Mobile | 425341 | [425341-dragon-quest-and-final-fantasy-in-itadaki-street-mobile.json](./425341-dragon-quest-and-final-fantasy-in-itadaki-street-mobile.json) |
 | Dragon Quest & Final Fantasy in Itadaki Street Portable | 69176 | [69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json](./69176-dragon-quest-and-final-fantasy-in-itadaki-street-portable.json) |
 | Dragon Quest + | 275799 | [275799-dragon-quest.json](./275799-dragon-quest.json) |
 | Dragon Quest 1, 2, 3 Collection | 122266 | [122266-dragon-quest-1-2-3-collection.json](./122266-dragon-quest-1-2-3-collection.json) |
@@ -18483,6 +18484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Vacation | 229660 | [229660-dream-vacation.json](./229660-dream-vacation.json) |
 | Dream Vacation Solitaire | 200964 | [200964-dream-vacation-solitaire.json](./200964-dream-vacation-solitaire.json) |
 | Dream Village | 390229 | [390229-dream-village.json](./390229-dream-village.json) |
+| Dream Voyage | 425373 | [425373-dream-voyage.json](./425373-dream-voyage.json) |
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
 | Dream Walk: Mortgage | 201391 | [201391-dream-walk-mortgage.json](./201391-dream-walk-mortgage.json) |
 | Dream Walk: Stolen Color | 215871 | [215871-dream-walk-stolen-color.json](./215871-dream-walk-stolen-color.json) |
