@@ -15927,6 +15927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Constrictor | 78383 | [78383-constrictor.json](./78383-constrictor.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
+| Construct & Collapse | 425749 | [425749-construct-and-collapse.json](./425749-construct-and-collapse.json) |
 | Construct 2 | 47010 | [47010-construct-2.json](./47010-construct-2.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
 | Construct Farm | 308632 | [308632-construct-farm.json](./308632-construct-farm.json) |
@@ -17992,6 +17993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couplinked | 138509 | [138509-couplinked.json](./138509-couplinked.json) |
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
+| Courage and Faith: Into the Dark Woods | 425757 | [425757-courage-and-faith-into-the-dark-woods.json](./425757-courage-and-faith-into-the-dark-woods.json) |
 | Courage and Honor | 128022 | [128022-courage-and-honor.json](./128022-courage-and-honor.json) |
 | Courage for a Kiss | 113886 | [113886-courage-for-a-kiss.json](./113886-courage-for-a-kiss.json) |
 | Courage Gauntlet Challenge | 387739 | [387739-courage-gauntlet-challenge.json](./387739-courage-gauntlet-challenge.json) |
@@ -20281,6 +20283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
+| Critical Integrity | 425892 | [425892-critical-integrity.json](./425892-critical-integrity.json) |
 | Critical Mass | 13534 | [13534-critical-mass.json](./13534-critical-mass.json) |
 | Critical Mass | 25354 | [25354-critical-mass.json](./25354-critical-mass.json) |
 | Critical Mass | 271972 | [271972-critical-mass.json](./271972-critical-mass.json) |
