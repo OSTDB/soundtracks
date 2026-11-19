@@ -545,7 +545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | Factoryopolis | 246018 | [246018-factoryopolis.json](./246018-factoryopolis.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
-| Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Facts 'N Fractions | 83096 | [83096-facts-n-fractions.json](./83096-facts-n-fractions.json) |
 | Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
@@ -12900,7 +12899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmental | 33954 | [33954-fragmental.json](./33954-fragmental.json) |
 | Fragmentary | 390767 | [390767-fragmentary.json](./390767-fragmentary.json) |
 | Fragmentary Order | 398499 | [398499-fragmentary-order.json](./398499-fragmentary-order.json) |
-| Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
 | Fragmented Almanac | 313285 | [313285-fragmented-almanac.json](./313285-fragmented-almanac.json) |
 | Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
