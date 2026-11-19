@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogenkyo | 402840 | [402840-yogenkyo.json](./402840-yogenkyo.json) |
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
+| Yogi Bear | 259278 | [259278-yogi-bear.json](./259278-yogi-bear.json) |
 | Yogi Bear | 54667 | [54667-yogi-bear.json](./54667-yogi-bear.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear and Friends in the Greed Monster | 196222 | [196222-yogi-bear-and-friends-in-the-greed-monster.json](./196222-yogi-bear-and-friends-in-the-greed-monster.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Costume "Holy Knight" | 316223 | [316223-yohane-the-parhelion-costume-holy-knight.json](./316223-yohane-the-parhelion-costume-holy-knight.json) |
 | Yohane the Parhelion: Costume "Million Dollar Kitty" | 312119 | [312119-yohane-the-parhelion-costume-million-dollar-kitty.json](./312119-yohane-the-parhelion-costume-million-dollar-kitty.json) |
 | Yohane the Parhelion: Costume "Summer Vacation" | 308841 | [308841-yohane-the-parhelion-costume-summer-vacation.json](./308841-yohane-the-parhelion-costume-summer-vacation.json) |
+| Yohane the Parhelion: Numazu in the Mirage | 267625 | [267625-yohane-the-parhelion-numazu-in-the-mirage.json](./267625-yohane-the-parhelion-numazu-in-the-mirage.json) |
 | Yohane the Parhelion: Numazu in the Mirage - "Yohane the Parhelion" song set | 315499 | [315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json](./315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Far far away" | 315497 | [315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json](./315497-yohane-the-parhelion-numazu-in-the-mirage-costume-far-far-away.json) |
 | Yohane the Parhelion: Numazu in the Mirage - Costume "Fledgling" | 315495 | [315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json](./315495-yohane-the-parhelion-numazu-in-the-mirage-costume-fledgling.json) |
