@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Rules | 302477 | [302477-unknown-rules.json](./302477-unknown-rules.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
 | Unknown Seas | 297849 | [297849-unknown-seas.json](./297849-unknown-seas.json) |
+| Unknown Signal | 421651 | [421651-unknown-signal.json](./421651-unknown-signal.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Soul With Me | 281920 | [281920-unknown-soul-with-me.json](./281920-unknown-soul-with-me.json) |
