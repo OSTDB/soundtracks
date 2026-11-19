@@ -2216,7 +2216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igowin HD | 108722 | [108722-igowin-hd.json](./108722-igowin-hd.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX | 338690 | [338690-igpx.json](./338690-igpx.json) |
-| IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
 | Igrerea: The Land Above the Stars | 217483 | [217483-igrerea-the-land-above-the-stars.json](./217483-igrerea-the-land-above-the-stars.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IGS Classic Arcade Collection | 245916 | [245916-igs-classic-arcade-collection.json](./245916-igs-classic-arcade-collection.json) |
@@ -2240,7 +2239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
 | IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
 | IHRA Drag Racing 2004 | 69921 | [69921-ihra-drag-racing-2004.json](./69921-ihra-drag-racing-2004.json) |
-| IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | IHRA Motorsports | 138075 | [138075-ihra-motorsports.json](./138075-ihra-motorsports.json) |
 | IHRA Motorsports Drag Racing | 44933 | [44933-ihra-motorsports-drag-racing.json](./44933-ihra-motorsports-drag-racing.json) |
 | IHRA Professional Drag Racing 2005 | 43221 | [43221-ihra-professional-drag-racing-2005.json](./43221-ihra-professional-drag-racing-2005.json) |
@@ -2927,7 +2925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
 | Impact of Power | 191376 | [191376-impact-of-power.json](./191376-impact-of-power.json) |
 | Impact Point | 179281 | [179281-impact-point.json](./179281-impact-point.json) |
-| Impact Racing | 20250 | [20250-impact-racing.json](./20250-impact-racing.json) |
 | Impact Space | 212292 | [212292-impact-space.json](./212292-impact-space.json) |
 | Impact to the Head | 408246 | [408246-impact-to-the-head.json](./408246-impact-to-the-head.json) |
 | Impact Trial: First Encounter | 279126 | [279126-impact-trial-first-encounter.json](./279126-impact-trial-first-encounter.json) |
@@ -4575,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
 | Infinity Nikki: Chromatic Beings Everbright | 387824 | [387824-infinity-nikki-chromatic-beings-everbright.json](./387824-infinity-nikki-chromatic-beings-everbright.json) |
 | Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
+| Infinity Nikki: Eerie Season | 332674 | [332674-infinity-nikki-eerie-season.json](./332674-infinity-nikki-eerie-season.json) |
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
 | Infinity Nikki: Exploration Season | 334414 | [334414-infinity-nikki-exploration-season.json](./334414-infinity-nikki-exploration-season.json) |
 | Infinity Nikki: Firework Season | 328586 | [328586-infinity-nikki-firework-season.json](./328586-infinity-nikki-firework-season.json) |
@@ -6609,7 +6607,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iroha Nihoheto | 347554 | [347554-iroha-nihoheto.json](./347554-iroha-nihoheto.json) |
 | Iromaze Ink Shop | 250244 | [250244-iromaze-ink-shop.json](./250244-iromaze-ink-shop.json) |
 | Iron | 394633 | [394633-iron.json](./394633-iron.json) |
-| Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
 | Iron & Ivory | 401037 | [401037-iron-and-ivory.json](./401037-iron-and-ivory.json) |
 | Iron & Lead | 271005 | [271005-iron-and-lead.json](./271005-iron-and-lead.json) |
 | Iron & Oil | 425267 | [425267-iron-and-oil.json](./425267-iron-and-oil.json) |
