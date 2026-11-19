@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
 | Sakura Fox Adventure | 123910 | [123910-sakura-fox-adventure.json](./123910-sakura-fox-adventure.json) |
 | Sakura Gamer | 57032 | [57032-sakura-gamer.json](./57032-sakura-gamer.json) |
+| Sakura Gamer 2 | 127212 | [127212-sakura-gamer-2.json](./127212-sakura-gamer-2.json) |
 | Sakura Gozen | 391440 | [391440-sakura-gozen.json](./391440-sakura-gozen.json) |
 | Sakura Gym Girls | 237172 | [237172-sakura-gym-girls.json](./237172-sakura-gym-girls.json) |
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
 | Scatch 2x1 | 294889 | [294889-scatch-2x1.json](./294889-scatch-2x1.json) |
 | Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
+| Scathe | 123955 | [123955-scathe.json](./123955-scathe.json) |
 | Scatter | 114247 | [114247-scatter.json](./114247-scatter.json) |
 | Scattered | 400026 | [400026-scattered.json](./400026-scattered.json) |
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
@@ -8464,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and Asha: Dream Fantasia | 321075 | [321075-shantae-and-asha-dream-fantasia.json](./321075-shantae-and-asha-dream-fantasia.json) |
 | Shantae and the Pirate's Curse | 8430 | [8430-shantae-and-the-pirates-curse.json](./8430-shantae-and-the-pirates-curse.json) |
 | Shantae and the Pirate's Curse: Collector's Edition | 136272 | [136272-shantae-and-the-pirates-curse-collectors-edition.json](./136272-shantae-and-the-pirates-curse-collectors-edition.json) |
+| Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero | 11078 | [11078-shantae-half-genie-hero.json](./11078-shantae-half-genie-hero.json) |
 | Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
@@ -16487,6 +16490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Boy's: Toy Club | 124044 | [124044-smart-boys-toy-club.json](./124044-smart-boys-toy-club.json) |
 | Smart Boy's: Winter Wonderland | 124048 | [124048-smart-boys-winter-wonderland.json](./124048-smart-boys-winter-wonderland.json) |
 | Smart Bunny - Learning logic game for toddlers | 94976 | [94976-smart-bunny-learning-logic-game-for-toddlers.json](./94976-smart-bunny-learning-logic-game-for-toddlers.json) |
+| Smart City Plan | 122273 | [122273-smart-city-plan.json](./122273-smart-city-plan.json) |
 | Smart Cookie Cat | 234588 | [234588-smart-cookie-cat.json](./234588-smart-cookie-cat.json) |
 | Smart Cube | 81130 | [81130-smart-cube.json](./81130-smart-cube.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
@@ -29717,6 +29721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
 | Stay Away From Zombies | 195543 | [195543-stay-away-from-zombies.json](./195543-stay-away-from-zombies.json) |
 | Stay Close | 33182 | [33182-stay-close.json](./33182-stay-close.json) |
+| Stay Cool, Kobayashi-san!: A River City Ransom Story | 122272 | [122272-stay-cool-kobayashi-san-a-river-city-ransom-story.json](./122272-stay-cool-kobayashi-san-a-river-city-ransom-story.json) |
 | Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
@@ -35012,6 +35017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Boy in Defender of Planet Earth | 74123 | [74123-super-arcade-boy-in-defender-of-planet-earth.json](./74123-super-arcade-boy-in-defender-of-planet-earth.json) |
 | Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
+| Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Archer | 153650 | [153650-super-archer.json](./153650-super-archer.json) |
