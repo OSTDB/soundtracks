@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 1985 | 368454 | [368454-halloween-1985.json](./368454-halloween-1985.json) |
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
+| Halloween 3D | 427174 | [427174-halloween-3d.json](./427174-halloween-3d.json) |
 | Halloween Again | 272619 | [272619-halloween-again.json](./272619-halloween-again.json) |
 | Halloween Arkanoid 2 | 112446 | [112446-halloween-arkanoid-2.json](./112446-halloween-arkanoid-2.json) |
 | Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
@@ -6629,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here's the Champion Squirrel | 96805 | [96805-heres-the-champion-squirrel.json](./96805-heres-the-champion-squirrel.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
+| Hereditas | 427179 | [427179-hereditas.json](./427179-hereditas.json) |
 | Heredity: The Eternal Curse | 211859 | [211859-heredity-the-eternal-curse.json](./211859-heredity-the-eternal-curse.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
 | Herency | 190406 | [190406-herency.json](./190406-herency.json) |
