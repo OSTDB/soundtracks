@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea 8 | 302863 | [302863-undersea-8.json](./302863-undersea-8.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
+| Undersea Post Office Sim | 420239 | [420239-undersea-post-office-sim.json](./420239-undersea-post-office-sim.json) |
 | Undersea: Waves and Adventures | 369328 | [369328-undersea-waves-and-adventures.json](./369328-undersea-waves-and-adventures.json) |
 | Undershadows | 252548 | [252548-undershadows.json](./252548-undershadows.json) |
 | UnderShot: An Undertale X Oneshot Mod | 427294 | [427294-undershot-an-undertale-x-oneshot-mod.json](./427294-undershot-an-undertale-x-oneshot-mod.json) |
@@ -2395,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ungaria | 62396 | [62396-ungaria.json](./62396-ungaria.json) |
 | Ungate | 246048 | [246048-ungate.json](./246048-ungate.json) |
 | Ungeon | 172268 | [172268-ungeon.json](./172268-ungeon.json) |
+| Unglamorous | 420252 | [420252-unglamorous.json](./420252-unglamorous.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds | 136532 | [136532-ungrateful-birds.json](./136532-ungrateful-birds.json) |
