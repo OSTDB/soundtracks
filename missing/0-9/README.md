@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
 | .Hack//G.U. Vol. 2: Reminisce | 11988 | [11988-hack-g-u-vol-2-reminisce.json](./11988-hack-g-u-vol-2-reminisce.json) |
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
+| .Hack//G.U. Vol. 3: Redemption | 12027 | [12027-hack-g-u-vol-3-redemption.json](./12027-hack-g-u-vol-3-redemption.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//G.U. Vol. 4: Reconnection | 140841 | [140841-hack-g-u-vol-4-reconnection.json](./140841-hack-g-u-vol-4-reconnection.json) |
 | .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 404: Game Not Found | 379456 | [379456-404-game-not-found.json](./379456-404-game-not-found.json) |
 | 404: The Absent God | 416093 | [416093-404-the-absent-god.json](./416093-404-the-absent-god.json) |
 | 408: The Forbidden Room | 166865 | [166865-408-the-forbidden-room.json](./166865-408-the-forbidden-room.json) |
+| 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4096 Space Traders Era | 414799 | [414799-4096-space-traders-era.json](./414799-4096-space-traders-era.json) |
 | 40D40M | 348566 | [348566-40d40m.json](./348566-40d40m.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7:45, Densha Nite. | 285897 | [285897-7-45-densha-nite.json](./285897-7-45-densha-nite.json) |
 | 7.62mm | 79155 | [79155-7-62mm.json](./79155-7-62mm.json) |
 | 7.7 Gate | 371777 | [371777-7-7-gate.json](./371777-7-7-gate.json) |
+| 7'Scarlet | 12639 | [12639-7scarlet.json](./12639-7scarlet.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
 | 70 Seconds Survival | 106394 | [106394-70-seconds-survival.json](./106394-70-seconds-survival.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
@@ -4145,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
 | 99 Seconds | 221992 | [221992-99-seconds.json](./221992-99-seconds.json) |
 | 99 Species | 309158 | [309158-99-species.json](./309158-99-species.json) |
+| 99 Spirits | 9937 | [9937-99-spirits.json](./9937-99-spirits.json) |
 | 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
 | 99 Spirits: Complete Collection | 52349 | [52349-99-spirits-complete-collection.json](./52349-99-spirits-complete-collection.json) |
 | 99 Spirits: Special Edition | 52348 | [52348-99-spirits-special-edition.json](./52348-99-spirits-special-edition.json) |
