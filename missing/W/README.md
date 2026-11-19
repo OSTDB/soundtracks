@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding HD | 53013 | [53013-wakeboarding-hd.json](./53013-wakeboarding-hd.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
+| Wakebreaker | 422270 | [422270-wakebreaker.json](./422270-wakebreaker.json) |
 | Wakedas | 85480 | [85480-wakedas.json](./85480-wakedas.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakerunners | 282934 | [282934-wakerunners.json](./282934-wakerunners.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisk | 385020 | [385020-whisk.json](./385020-whisk.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Cowboy | 385625 | [385625-whisker-cowboy.json](./385625-whisker-cowboy.json) |
+| Whisker Mess | 422268 | [422268-whisker-mess.json](./422268-whisker-mess.json) |
 | Whisker President | 302880 | [302880-whisker-president.json](./302880-whisker-president.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Tinkers | 426955 | [426955-whisker-tinkers.json](./426955-whisker-tinkers.json) |
