@@ -7605,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normenhill: Chapter 1 - "Your New Look" | 340806 | [340806-normenhill-chapter-1-your-new-look.json](./340806-normenhill-chapter-1-your-new-look.json) |
 | Normis Simulator | 383875 | [383875-normis-simulator.json](./383875-normis-simulator.json) |
 | Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
+| Norn Saber: The Guardian's Oath | 422370 | [422370-norn-saber-the-guardians-oath.json](./422370-norn-saber-the-guardians-oath.json) |
 | Norn9 Lofn for Nintendo Switch | 136896 | [136896-norn9-lofn-for-nintendo-switch.json](./136896-norn9-lofn-for-nintendo-switch.json) |
 | Norn9: Act Tune | 12641 | [12641-norn9-act-tune.json](./12641-norn9-act-tune.json) |
 | Norn9: Last Era | 61942 | [61942-norn9-last-era.json](./61942-norn9-last-era.json) |
