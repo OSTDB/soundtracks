@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in the Gulag | 339497 | [339497-death-in-the-gulag.json](./339497-death-in-the-gulag.json) |
 | Death in the Manor | 375227 | [375227-death-in-the-manor.json](./375227-death-in-the-manor.json) |
 | Death in the Night | 215538 | [215538-death-in-the-night.json](./215538-death-in-the-night.json) |
+| Death in the Water | 122793 | [122793-death-in-the-water.json](./122793-death-in-the-water.json) |
 | Death in the Water 2 | 222355 | [222355-death-in-the-water-2.json](./222355-death-in-the-water-2.json) |
 | Death in Unison | 301383 | [301383-death-in-unison.json](./301383-death-in-unison.json) |
 | Death In Your Dice | 334740 | [334740-death-in-your-dice.json](./334740-death-in-your-dice.json) |
@@ -12738,6 +12739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Might | 240429 | [240429-divine-might.json](./240429-divine-might.json) |
+| Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
 | Divine Miracle Defense | 107962 | [107962-divine-miracle-defense.json](./107962-divine-miracle-defense.json) |
 | Divine Orbit | 398801 | [398801-divine-orbit.json](./398801-divine-orbit.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
@@ -16007,6 +16009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
 | Doubutsu no Mori | 44042 | [44042-doubutsu-no-mori.json](./44042-doubutsu-no-mori.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
+| Doubutsu no Mori e+ | 124007 | [124007-doubutsu-no-mori-e.json](./124007-doubutsu-no-mori-e.json) |
 | Doubutsu no Mori e+: Card e Reader+ to Card e+ | 354778 | [354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json](./354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json) |
 | Doubutsu no Mori e+: D01 - Design Card: Jump Mario | 364444 | [364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json](./364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json) |
 | Doubutsu no Mori e+: D02 - Design Card: Yuusha no Fuku | 364442 | [364442-doubutsu-no-mori-e-d02-design-card-yuusha-no-fuku.json](./364442-doubutsu-no-mori-e-d02-design-card-yuusha-no-fuku.json) |
@@ -18099,6 +18102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Line: Metro | 419276 | [419276-dread-line-metro.json](./419276-dread-line-metro.json) |
 | Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
 | Dread Meridian | 362056 | [362056-dread-meridian.json](./362056-dread-meridian.json) |
+| Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
 | Dread of Laughter | 110432 | [110432-dread-of-laughter.json](./110432-dread-of-laughter.json) |
