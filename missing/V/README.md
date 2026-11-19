@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
+| Vector Parallax: Convergence of the Vast | 423580 | [423580-vector-parallax-convergence-of-the-vast.json](./423580-vector-parallax-convergence-of-the-vast.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
 | Vector Pong | 311944 | [311944-vector-pong.json](./311944-vector-pong.json) |
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil: Project Conductor | 382720 | [382720-veil-project-conductor.json](./382720-veil-project-conductor.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
+| Veilborn | 423584 | [423584-veilborn.json](./423584-veilborn.json) |
 | Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
 | Veilcrest: Trial of The Arcane | 305661 | [305661-veilcrest-trial-of-the-arcane.json](./305661-veilcrest-trial-of-the-arcane.json) |
 | Veiled | 134795 | [134795-veiled.json](./134795-veiled.json) |
