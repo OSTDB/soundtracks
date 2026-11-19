@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
 | Yttr | 275766 | [275766-yttr.json](./275766-yttr.json) |
 | Yttrium | 316918 | [316918-yttrium.json](./316918-yttrium.json) |
+| Yttrium X | 415523 | [415523-yttrium-x.json](./415523-yttrium-x.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Escape / Monday | 141467 | [141467-yu-escape-monday.json](./141467-yu-escape-monday.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
