@@ -9759,6 +9759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flunkerne: Superskurke | 132064 | [132064-flunkerne-superskurke.json](./132064-flunkerne-superskurke.json) |
 | Flunky | 15252 | [15252-flunky.json](./15252-flunky.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
+| Fluoxetine | 419373 | [419373-fluoxetine.json](./419373-fluoxetine.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | Flur | 392580 | [392580-flur.json](./392580-flur.json) |
 | Flurius | 99441 | [99441-flurius.json](./99441-flurius.json) |
