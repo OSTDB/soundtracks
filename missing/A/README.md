@@ -5381,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | Aftermount | 421279 | [421279-aftermount.json](./421279-aftermount.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
+| Aftermyth | 422998 | [422998-aftermyth.json](./422998-aftermyth.json) |
 | Afternoon | 264395 | [264395-afternoon.json](./264395-afternoon.json) |
 | Afternoon Affairs & Helpless Housewives | 401455 | [401455-afternoon-affairs-and-helpless-housewives.json](./401455-afternoon-affairs-and-helpless-housewives.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
@@ -7350,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarmy | 423412 | [423412-alarmy.json](./423412-alarmy.json) |
 | Alaryia | 400691 | [400691-alaryia.json](./400691-alaryia.json) |
 | Alas Astra | 150928 | [150928-alas-astra.json](./150928-alas-astra.json) |
+| Alash | 423025 | [423025-alash.json](./423025-alash.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
 | Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska Solitaire Classic Card Game | 337804 | [337804-alaska-solitaire-classic-card-game.json](./337804-alaska-solitaire-classic-card-game.json) |
@@ -7498,6 +7500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Classic | 111035 | [111035-alchemy-classic.json](./111035-alchemy-classic.json) |
 | Alchemy Deck | 262801 | [262801-alchemy-deck.json](./262801-alchemy-deck.json) |
 | Alchemy Deluxe | 93157 | [93157-alchemy-deluxe.json](./93157-alchemy-deluxe.json) |
+| Alchemy Duel | 423027 | [423027-alchemy-duel.json](./423027-alchemy-duel.json) |
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
 | Alchemy Factory | 342686 | [342686-alchemy-factory.json](./342686-alchemy-factory.json) |
@@ -13221,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil of Tristheim | 263977 | [263977-anvil-of-tristheim.json](./263977-anvil-of-tristheim.json) |
 | Anvil Saga | 152766 | [152766-anvil-saga.json](./152766-anvil-saga.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
+| Anvilia | 423035 | [423035-anvilia.json](./423035-anvilia.json) |
 | Anvilium | 365976 | [365976-anvilium.json](./365976-anvilium.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
 | Anvira: Forge Defense | 391441 | [391441-anvira-forge-defense.json](./391441-anvira-forge-defense.json) |
