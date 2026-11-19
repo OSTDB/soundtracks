@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Infinite Warfare - Launch Edition | 82447 | [82447-call-of-duty-infinite-warfare-launch-edition.json](./82447-call-of-duty-infinite-warfare-launch-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Edition | 42896 | [42896-call-of-duty-infinite-warfare-legacy-edition.json](./42896-call-of-duty-infinite-warfare-legacy-edition.json) |
 | Call of Duty: Infinite Warfare - Legacy Pro Edition | 41625 | [41625-call-of-duty-infinite-warfare-legacy-pro-edition.json](./41625-call-of-duty-infinite-warfare-legacy-pro-edition.json) |
+| Call of Duty: Infinite Warfare - Retribution | 57700 | [57700-call-of-duty-infinite-warfare-retribution.json](./57700-call-of-duty-infinite-warfare-retribution.json) |
 | Call of Duty: Infinite Warfare - Sabotage | 27032 | [27032-call-of-duty-infinite-warfare-sabotage.json](./27032-call-of-duty-infinite-warfare-sabotage.json) |
 | Call of Duty: Infinite Warfare + Destiny - The Collection | 370987 | [370987-call-of-duty-infinite-warfare-destiny-the-collection.json](./370987-call-of-duty-infinite-warfare-destiny-the-collection.json) |
 | Call of Duty: League - Atlanta FaZe Team Pack 2024 | 281931 | [281931-call-of-duty-league-atlanta-faze-team-pack-2024.json](./281931-call-of-duty-league-atlanta-faze-team-pack-2024.json) |
@@ -9037,6 +9038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chompston | 418458 | [418458-chompston.json](./418458-chompston.json) |
 | Chompy Chomp Chomp | 8425 | [8425-chompy-chomp-chomp.json](./8425-chompy-chomp-chomp.json) |
 | Chompy Chomp Chomp Party | 223508 | [223508-chompy-chomp-chomp-party.json](./223508-chompy-chomp-chomp-party.json) |
+| Chompy Chomp Chomp Party | 58675 | [58675-chompy-chomp-chomp-party.json](./58675-chompy-chomp-chomp-party.json) |
 | Chompy Party | 416515 | [416515-chompy-party.json](./416515-chompy-party.json) |
 | Chompy: The Greedy Crocodile | 138626 | [138626-chompy-the-greedy-crocodile.json](./138626-chompy-the-greedy-crocodile.json) |
 | Chondriatic | 258572 | [258572-chondriatic.json](./258572-chondriatic.json) |
@@ -18725,6 +18727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crap Attack | 55770 | [55770-crap-attack.json](./55770-crap-attack.json) |
 | Crap Game Compilation 2 | 251315 | [251315-crap-game-compilation-2.json](./251315-crap-game-compilation-2.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
+| Crap! I'm Broke: Out of Pocket | 57358 | [57358-crap-im-broke-out-of-pocket.json](./57358-crap-im-broke-out-of-pocket.json) |
 | Crap! No One Loves Me | 59126 | [59126-crap-no-one-loves-me.json](./59126-crap-no-one-loves-me.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
 | Crapht Box | 286800 | [286800-crapht-box.json](./286800-crapht-box.json) |
@@ -21055,6 +21058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
 | Cruis'n Blast | 152357 | [152357-cruisn-blast.json](./152357-cruisn-blast.json) |
+| Cruis'n Blast | 57379 | [57379-cruisn-blast.json](./57379-cruisn-blast.json) |
 | Cruis'n Exotica | 10163 | [10163-cruisn-exotica.json](./10163-cruisn-exotica.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
@@ -21919,6 +21923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Crash II | 362003 | [362003-cube-crash-ii.json](./362003-cube-crash-ii.json) |
 | Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
+| Cube Creator 3D | 58829 | [58829-cube-creator-3d.json](./58829-cube-creator-3d.json) |
 | Cube Creator DX | 56162 | [56162-cube-creator-dx.json](./56162-cube-creator-dx.json) |
 | Cube Creator X | 79057 | [79057-cube-creator-x.json](./79057-cube-creator-x.json) |
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
