@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait, Is That Me? | 364653 | [364653-wait-is-that-me.json](./364653-wait-is-that-me.json) |
 | Wait, They Can Climb?! | 425366 | [425366-wait-they-can-climb.json](./425366-wait-they-can-climb.json) |
+| Wait: Extended | 35815 | [35815-wait-extended.json](./35815-wait-extended.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Life is beautiful! | 81163 | [81163-wait-life-is-beautiful.json](./81163-wait-life-is-beautiful.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
