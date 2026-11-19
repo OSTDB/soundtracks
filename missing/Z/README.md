@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Critical | 8418 | [8418-zero-critical.json](./8418-zero-critical.json) |
+| Zero Day Exploit | 427872 | [427872-zero-day-exploit.json](./427872-zero-day-exploit.json) |
 | Zero Days Since | 289337 | [289337-zero-days-since.json](./289337-zero-days-since.json) |
 | Zero Days VR | 80990 | [80990-zero-days-vr.json](./80990-zero-days-vr.json) |
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
