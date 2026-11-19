@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recourse | 34138 | [34138-recourse.json](./34138-recourse.json) |
+| Recover One ni Hanataba wo | 429045 | [429045-recover-one-ni-hanataba-wo.json](./429045-recover-one-ni-hanataba-wo.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
 | Recovery Dog | 345211 | [345211-recovery-dog.json](./345211-recovery-dog.json) |
 | Recovery Phrase | 320580 | [320580-recovery-phrase.json](./320580-recovery-phrase.json) |
@@ -9283,6 +9284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite or Ruin | 391242 | [391242-rite-or-ruin.json](./391242-rite-or-ruin.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
 | Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
+| Rites of Thaw | 429041 | [429041-rites-of-thaw.json](./429041-rites-of-thaw.json) |
 | Ritmais | 308023 | [308023-ritmais.json](./308023-ritmais.json) |
 | Ritmo | 60320 | [60320-ritmo.json](./60320-ritmo.json) |
 | Ritsu Reasoning 2 Lost Memories | 391862 | [391862-ritsu-reasoning-2-lost-memories.json](./391862-ritsu-reasoning-2-lost-memories.json) |
@@ -9308,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Static | 397655 | [397655-ritual-static.json](./397655-ritual-static.json) |
 | Ritual Tides | 321319 | [321319-ritual-tides.json](./321319-ritual-tides.json) |
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
+| Ritual: House Sitting | 429065 | [429065-ritual-house-sitting.json](./429065-ritual-house-sitting.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
 | Ritual: Sorcerer Angel | 119884 | [119884-ritual-sorcerer-angel.json](./119884-ritual-sorcerer-angel.json) |
 | Ritualis: Summoner Simulator | 391955 | [391955-ritualis-summoner-simulator.json](./391955-ritualis-summoner-simulator.json) |
