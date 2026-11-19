@@ -2239,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tesoro de Isla Alcachofa | 94443 | [94443-el-tesoro-de-isla-alcachofa.json](./94443-el-tesoro-de-isla-alcachofa.json) |
+| El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
 | El Viaje de Diciembre | 260494 | [260494-el-viaje-de-diciembre.json](./260494-el-viaje-de-diciembre.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
 | El-Drifto | 295750 | [295750-el-drifto.json](./295750-el-drifto.json) |
@@ -5038,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy Architects | 334555 | [334555-entropy-architects.json](./334555-entropy-architects.json) |
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
 | Entropy Scramble: Cats Doing Science! | 402535 | [402535-entropy-scramble-cats-doing-science.json](./402535-entropy-scramble-cats-doing-science.json) |
+| Entropy Survivors | 272205 | [272205-entropy-survivors.json](./272205-entropy-survivors.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
 | Entropy: Zero - Uprising | 245170 | [245170-entropy-zero-uprising.json](./245170-entropy-zero-uprising.json) |
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
