@@ -7955,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Elements Chess | 420637 | [420637-five-elements-chess.json](./420637-five-elements-chess.json) |
 | Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
+| Five Feet | 413281 | [413281-five-feet.json](./413281-five-feet.json) |
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
 | Five Generations | 178356 | [178356-five-generations.json](./178356-five-generations.json) |
