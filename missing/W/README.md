@@ -7143,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wirewalk | 172351 | [172351-wirewalk.json](./172351-wirewalk.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
+| WireWay | 18548 | [18548-wireway.json](./18548-wireway.json) |
 | Wireworks | 383442 | [383442-wireworks.json](./383442-wireworks.json) |
 | Wirm | 366589 | [366589-wirm.json](./366589-wirm.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
@@ -8404,6 +8405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Labyrinth 3D | 175169 | [175169-wooden-labyrinth-3d.json](./175169-wooden-labyrinth-3d.json) |
 | Wooden Nickel | 115663 | [115663-wooden-nickel.json](./115663-wooden-nickel.json) |
 | Wooden Ocean | 55232 | [55232-wooden-ocean.json](./55232-wooden-ocean.json) |
+| Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
 | Wooden Ships and Iron Men | 76012 | [76012-wooden-ships-and-iron-men.json](./76012-wooden-ships-and-iron-men.json) |
 | Woodfarer | 180450 | [180450-woodfarer.json](./180450-woodfarer.json) |
 | Woodfel | 121896 | [121896-woodfel.json](./121896-woodfel.json) |
@@ -9815,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Airplanes Battle | 313443 | [313443-world-war-ii-airplanes-battle.json](./313443-world-war-ii-airplanes-battle.json) |
 | World War II: Battle combat | 198152 | [198152-world-war-ii-battle-combat.json](./198152-world-war-ii-battle-combat.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
+| World War II: Frontline Command | 10155 | [10155-world-war-ii-frontline-command.json](./10155-world-war-ii-frontline-command.json) |
 | World War II: Panzer Claws 2 | 17996 | [17996-world-war-ii-panzer-claws-2.json](./17996-world-war-ii-panzer-claws-2.json) |
 | World War II: Prisoner of War | 64979 | [64979-world-war-ii-prisoner-of-war.json](./64979-world-war-ii-prisoner-of-war.json) |
 | World War II: Sniper - Call to Victory | 138090 | [138090-world-war-ii-sniper-call-to-victory.json](./138090-world-war-ii-sniper-call-to-victory.json) |
