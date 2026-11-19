@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
 | Vader Immortal: A Star Wars VR Series - Special Retail Edition | 166260 | [166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json](./166260-vader-immortal-a-star-wars-vr-series-special-retail-edition.json) |
+| Vader Immortal: Episode I | 110419 | [110419-vader-immortal-episode-i.json](./110419-vader-immortal-episode-i.json) |
 | Vader Immortal: Episode II | 122633 | [122633-vader-immortal-episode-ii.json](./122633-vader-immortal-episode-ii.json) |
 | Vader Immortal: Episode III | 126168 | [126168-vader-immortal-episode-iii.json](./126168-vader-immortal-episode-iii.json) |
 | Vader Immortal: Lightsaber Dojo - A Star Wars VR Experience | 150053 | [150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json](./150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json) |
@@ -518,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
 | Valkyrie Crusade | 62574 | [62574-valkyrie-crusade.json](./62574-valkyrie-crusade.json) |
 | Valkyrie Destruction | 321263 | [321263-valkyrie-destruction.json](./321263-valkyrie-destruction.json) |
+| Valkyrie Drive: Bhikkhuni | 11527 | [11527-valkyrie-drive-bhikkhuni.json](./11527-valkyrie-drive-bhikkhuni.json) |
 | Valkyrie Drive: Bhikkhuni - Bikini Party Edition | 379957 | [379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json](./379957-valkyrie-drive-bhikkhuni-bikini-party-edition.json) |
 | Valkyrie Drive: Bhikkhuni - Complete DLC Pack | 226892 | [226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json](./226892-valkyrie-drive-bhikkhuni-complete-dlc-pack.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
@@ -533,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie no Densetsu Gaiden: Rosa no Bouken | 63477 | [63477-valkyrie-no-densetsu-gaiden-rosa-no-bouken.json](./63477-valkyrie-no-densetsu-gaiden-rosa-no-bouken.json) |
 | Valkyrie of Phantasm | 119265 | [119265-valkyrie-of-phantasm.json](./119265-valkyrie-of-phantasm.json) |
 | Valkyrie Profile | 3998 | [3998-valkyrie-profile.json](./3998-valkyrie-profile.json) |
+| Valkyrie Profile 2: Silmeria | 11793 | [11793-valkyrie-profile-2-silmeria.json](./11793-valkyrie-profile-2-silmeria.json) |
 | Valkyrie Profile Niffynee | 189996 | [189996-valkyrie-profile-niffynee.json](./189996-valkyrie-profile-niffynee.json) |
 | Valkyrie Profile: Covenant of the Plume | 6579 | [6579-valkyrie-profile-covenant-of-the-plume.json](./6579-valkyrie-profile-covenant-of-the-plume.json) |
 | Valkyrie Profile: Lenneth | 22756 | [22756-valkyrie-profile-lenneth.json](./22756-valkyrie-profile-lenneth.json) |
@@ -893,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vangaro Tactics | 275094 | [275094-vangaro-tactics.json](./275094-vangaro-tactics.json) |
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
 | Vanguard | 139137 | [139137-vanguard.json](./139137-vanguard.json) |
+| Vanguard | 18472 | [18472-vanguard.json](./18472-vanguard.json) |
 | Vanguard | 291349 | [291349-vanguard.json](./291349-vanguard.json) |
 | Vanguard 2 | 39330 | [39330-vanguard-2.json](./39330-vanguard-2.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
@@ -1461,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velo Pro Racer | 359122 | [359122-velo-pro-racer.json](./359122-velo-pro-racer.json) |
 | Veloce | 177611 | [177611-veloce.json](./177611-veloce.json) |
 | Velocibeasts | 28361 | [28361-velocibeasts.json](./28361-velocibeasts.json) |
+| Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
 | VelociDrone | 57237 | [57237-velocidrone.json](./57237-velocidrone.json) |
@@ -2903,8 +2908,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 2 | 199020 | [199020-virtua-fighter-2.json](./199020-virtua-fighter-2.json) |
 | Virtua Fighter 2 | 225566 | [225566-virtua-fighter-2.json](./225566-virtua-fighter-2.json) |
 | Virtua Fighter 2 vs. Tekken 2 | 143507 | [143507-virtua-fighter-2-vs-tekken-2.json](./143507-virtua-fighter-2-vs-tekken-2.json) |
+| Virtua Fighter 3 | 1551 | [1551-virtua-fighter-3.json](./1551-virtua-fighter-3.json) |
 | Virtua Fighter 3tb | 203161 | [203161-virtua-fighter-3tb.json](./203161-virtua-fighter-3tb.json) |
 | Virtua Fighter 3tb Online | 279763 | [279763-virtua-fighter-3tb-online.json](./279763-virtua-fighter-3tb-online.json) |
+| Virtua Fighter 4 | 1552 | [1552-virtua-fighter-4.json](./1552-virtua-fighter-4.json) |
 | Virtua Fighter 4: Evolution | 22239 | [22239-virtua-fighter-4-evolution.json](./22239-virtua-fighter-4-evolution.json) |
 | Virtua Fighter 4: Final Tuned | 39668 | [39668-virtua-fighter-4-final-tuned.json](./39668-virtua-fighter-4-final-tuned.json) |
 | Virtua Fighter 5 | 1555 | [1555-virtua-fighter-5.json](./1555-virtua-fighter-5.json) |
