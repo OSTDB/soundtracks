@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Memories: Prologue | 284829 | [284829-dark-memories-prologue.json](./284829-dark-memories-prologue.json) |
 | Dark Memory | 422653 | [422653-dark-memory.json](./422653-dark-memory.json) |
 | Dark Menace | 381388 | [381388-dark-menace.json](./381388-dark-menace.json) |
+| Dark Merge Farm | 430330 | [430330-dark-merge-farm.json](./430330-dark-merge-farm.json) |
 | Dark Messiah of Might and Magic | 2369 | [2369-dark-messiah-of-might-and-magic.json](./2369-dark-messiah-of-might-and-magic.json) |
 | Dark Messiah of Might and Magic: Elements | 78210 | [78210-dark-messiah-of-might-and-magic-elements.json](./78210-dark-messiah-of-might-and-magic-elements.json) |
 | Dark México | 392729 | [392729-dark-mexico.json](./392729-dark-mexico.json) |
@@ -2414,6 +2415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Dungeon: The Color of Madness | 76740 | [76740-darkest-dungeon-the-color-of-madness.json](./76740-darkest-dungeon-the-color-of-madness.json) |
 | Darkest Dungeon: The Crimson Court | 25651 | [25651-darkest-dungeon-the-crimson-court.json](./25651-darkest-dungeon-the-crimson-court.json) |
+| Darkest Dungeon: The Fire's Edge | 430370 | [430370-darkest-dungeon-the-fires-edge.json](./430370-darkest-dungeon-the-fires-edge.json) |
 | Darkest Dungeon: The Musketeer | 124890 | [124890-darkest-dungeon-the-musketeer.json](./124890-darkest-dungeon-the-musketeer.json) |
 | Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
@@ -14506,6 +14508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
 | Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
+| Don't Press This Sh*t | 430401 | [430401-dont-press-this-sh-t.json](./430401-dont-press-this-sh-t.json) |
 | Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
 | Don’t Pull Me! | 409389 | [409389-don-t-pull-me.json](./409389-don-t-pull-me.json) |
@@ -19703,6 +19706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Prince & Narcotic Girl | 239262 | [239262-drug-prince-and-narcotic-girl.json](./239262-drug-prince-and-narcotic-girl.json) |
 | Drug Prince & Narcotic Girl for Nintendo Switch | 255630 | [255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json](./255630-drug-prince-and-narcotic-girl-for-nintendo-switch.json) |
 | Drug Schedule | 339226 | [339226-drug-schedule.json](./339226-drug-schedule.json) |
+| Drug Shop: Tidy Up Together | 430526 | [430526-drug-shop-tidy-up-together.json](./430526-drug-shop-tidy-up-together.json) |
 | Drug Story: The First Chapters | 324248 | [324248-drug-story-the-first-chapters.json](./324248-drug-story-the-first-chapters.json) |
 | Drug Trader Simulator | 327439 | [327439-drug-trader-simulator.json](./327439-drug-trader-simulator.json) |
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
