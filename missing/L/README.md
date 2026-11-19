@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
 | League of Abyss | 312573 | [312573-league-of-abyss.json](./312573-league-of-abyss.json) |
+| League of Angels - Fire Raiders | 22706 | [22706-league-of-angels-fire-raiders.json](./22706-league-of-angels-fire-raiders.json) |
 | League of Angels II | 21603 | [21603-league-of-angels-ii.json](./21603-league-of-angels-ii.json) |
 | League of Angels III | 112047 | [112047-league-of-angels-iii.json](./112047-league-of-angels-iii.json) |
 | League of Angels Series | 109967 | [109967-league-of-angels-series.json](./109967-league-of-angels-series.json) |
@@ -3419,7 +3420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
 | Legion | 177636 | [177636-legion.json](./177636-legion.json) |
-| Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
 | Legion | 94810 | [94810-legion.json](./94810-legion.json) |
@@ -5325,7 +5325,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeScape | 351554 | [351554-lifescape.json](./351554-lifescape.json) |
 | Lifescape 2: Bodybionics | 351552 | [351552-lifescape-2-bodybionics.json](./351552-lifescape-2-bodybionics.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
-| LifeSigns: Surgical Unit | 18600 | [18600-lifesigns-surgical-unit.json](./18600-lifesigns-surgical-unit.json) |
 | Lifeslide | 111101 | [111101-lifeslide.json](./111101-lifeslide.json) |
 | Lifespace Traveler | 226482 | [226482-lifespace-traveler.json](./226482-lifespace-traveler.json) |
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
@@ -11214,7 +11213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Seek and Find | 343383 | [343383-lunas-seek-and-find.json](./343383-lunas-seek-and-find.json) |
 | Luna's Tale | 267833 | [267833-lunas-tale.json](./267833-lunas-tale.json) |
 | Luna's Twilight | 319211 | [319211-lunas-twilight.json](./319211-lunas-twilight.json) |
-| Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Luna's World Packages | 343382 | [343382-lunas-world-packages.json](./343382-lunas-world-packages.json) |
 | Lunacid: Tears of the Moon | 335567 | [335567-lunacid-tears-of-the-moon.json](./335567-lunacid-tears-of-the-moon.json) |
 | Lunacraft | 383539 | [383539-lunacraft.json](./383539-lunacraft.json) |
