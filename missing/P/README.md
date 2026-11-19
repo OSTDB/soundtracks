@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan-Dae-Mon-Ium | 421463 | [421463-pan-dae-mon-ium.json](./421463-pan-dae-mon-ium.json) |
 | Pan-Dimensional Conga Combat | 86253 | [86253-pan-dimensional-conga-combat.json](./86253-pan-dimensional-conga-combat.json) |
 | Pan-Pan | 23352 | [23352-pan-pan.json](./23352-pan-pan.json) |
+| Pan! | 427774 | [427774-pan.json](./427774-pan.json) |
 | Pan·Gaia | 244220 | [244220-pan-gaia.json](./244220-pan-gaia.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
 | Pan's Permia | 346203 | [346203-pans-permia.json](./346203-pans-permia.json) |
