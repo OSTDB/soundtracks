@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Line Space Trader | 83129 | [83129-1-line-space-trader.json](./83129-1-line-space-trader.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
+| 1 Million Books | 425967 | [425967-1-million-books.json](./425967-1-million-books.json) |
 | 1 Million Zombies | 257749 | [257749-1-million-zombies.json](./257749-1-million-zombies.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
