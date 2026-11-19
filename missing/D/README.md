@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dolls Never Die | 395240 | [395240-dead-dolls-never-die.json](./395240-dead-dolls-never-die.json) |
 | Dead Don't Die | 301092 | [301092-dead-dont-die.json](./301092-dead-dont-die.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
+| Dead Dragons | 24572 | [24572-dead-dragons.json](./24572-dead-dragons.json) |
 | Dead Dreams | 129987 | [129987-dead-dreams.json](./129987-dead-dreams.json) |
 | Dead Drop | 281441 | [281441-dead-drop.json](./281441-dead-drop.json) |
 | Dead Drop | 29562 | [29562-dead-drop.json](./29562-dead-drop.json) |
@@ -7521,6 +7522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
 | Demon Tormentor | 244042 | [244042-demon-tormentor.json](./244042-demon-tormentor.json) |
 | Demon Tribe | 63989 | [63989-demon-tribe.json](./63989-demon-tribe.json) |
+| Demon Truck | 24682 | [24682-demon-truck.json](./24682-demon-truck.json) |
 | Demon Tuner | 106711 | [106711-demon-tuner.json](./106711-demon-tuner.json) |
 | Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
@@ -7909,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depression Quest | 10238 | [10238-depression-quest.json](./10238-depression-quest.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
 | Depreston | 135742 | [135742-depreston.json](./135742-depreston.json) |
+| Depri-Horst | 24600 | [24600-depri-horst.json](./24600-depri-horst.json) |
 | Deprision | 325707 | [325707-deprision.json](./325707-deprision.json) |
 | Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
@@ -21958,6 +21961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Sweeper | 377543 | [377543-dwarf-sweeper.json](./377543-dwarf-sweeper.json) |
 | Dwarf Swordsman | 110160 | [110160-dwarf-swordsman.json](./110160-dwarf-swordsman.json) |
 | Dwarf the Dungeonist | 407056 | [407056-dwarf-the-dungeonist.json](./407056-dwarf-the-dungeonist.json) |
+| Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarf Wars | 414064 | [414064-dwarf-wars.json](./414064-dwarf-wars.json) |
 | Dwarf's Adventure | 219405 | [219405-dwarfs-adventure.json](./219405-dwarfs-adventure.json) |
 | Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
