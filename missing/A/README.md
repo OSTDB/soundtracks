@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Midlevel Dog | 325683 | [325683-a-midlevel-dog.json](./325683-a-midlevel-dog.json) |
 | A Midnight Stroll | 205669 | [205669-a-midnight-stroll.json](./205669-a-midnight-stroll.json) |
 | A Midnight Village Story | 226221 | [226221-a-midnight-village-story.json](./226221-a-midnight-village-story.json) |
+| A Midsummer Night's Choice | 31535 | [31535-a-midsummer-nights-choice.json](./31535-a-midsummer-nights-choice.json) |
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
 | A Million Conquests | 149178 | [149178-a-million-conquests.json](./149178-a-million-conquests.json) |
 | A Million Lightyears Beyond | 210989 | [210989-a-million-lightyears-beyond.json](./210989-a-million-lightyears-beyond.json) |
@@ -6677,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
 | Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
 | Aircraft War | 120079 | [120079-aircraft-war.json](./120079-aircraft-war.json) |
+| Aircraft War X | 31893 | [31893-aircraft-war-x.json](./31893-aircraft-war-x.json) |
 | Aircraft War: Car Wars | 170954 | [170954-aircraft-war-car-wars.json](./170954-aircraft-war-car-wars.json) |
 | Aircraft War: Dragon Wars | 170953 | [170953-aircraft-war-dragon-wars.json](./170953-aircraft-war-dragon-wars.json) |
 | Aircraft War: Extra Level Pack 1 | 170950 | [170950-aircraft-war-extra-level-pack-1.json](./170950-aircraft-war-extra-level-pack-1.json) |
@@ -8255,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Returns | 270469 | [270469-alien-returns.json](./270469-alien-returns.json) |
 | Alien Revival | 105007 | [105007-alien-revival.json](./105007-alien-revival.json) |
 | Alien Robot Monsters | 34724 | [34724-alien-robot-monsters.json](./34724-alien-robot-monsters.json) |
+| Alien Run | 32480 | [32480-alien-run.json](./32480-alien-run.json) |
 | Alien Rush | 344126 | [344126-alien-rush.json](./344126-alien-rush.json) |
 | Alien Rush | 376851 | [376851-alien-rush.json](./376851-alien-rush.json) |
 | Alien Sanctuary | 308362 | [308362-alien-sanctuary.json](./308362-alien-sanctuary.json) |
