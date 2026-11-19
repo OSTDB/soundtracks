@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraguard | 24506 | [24506-terraguard.json](./24506-terraguard.json) |
 | Terrahawks | 73639 | [73639-terrahawks.json](./73639-terrahawks.json) |
 | Terrahawks: The Battlehawk | 385725 | [385725-terrahawks-the-battlehawk.json](./385725-terrahawks-the-battlehawk.json) |
+| Terrahold | 423597 | [423597-terrahold.json](./423597-terrahold.json) |
 | Terrain Defender | 402381 | [402381-terrain-defender.json](./402381-terrain-defender.json) |
 | Terrain of Magical Expertise | 72762 | [72762-terrain-of-magical-expertise.json](./72762-terrain-of-magical-expertise.json) |
 | TerraKids: Save The World Kidos! | 285425 | [285425-terrakids-save-the-world-kidos.json](./285425-terrakids-save-the-world-kidos.json) |
@@ -8719,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Porsche Triple Car Pack | 408886 | [408886-the-crew-motorfest-porsche-triple-car-pack.json](./408886-the-crew-motorfest-porsche-triple-car-pack.json) |
 | The Crew: Motorfest - RC Frenzy Pack | 408845 | [408845-the-crew-motorfest-rc-frenzy-pack.json](./408845-the-crew-motorfest-rc-frenzy-pack.json) |
 | The Crew: Motorfest - Season 10 | 408914 | [408914-the-crew-motorfest-season-10.json](./408914-the-crew-motorfest-season-10.json) |
+| The Crew: Motorfest - Season 11 | 423601 | [423601-the-crew-motorfest-season-11.json](./423601-the-crew-motorfest-season-11.json) |
 | The Crew: Motorfest - Season 4 | 305242 | [305242-the-crew-motorfest-season-4.json](./305242-the-crew-motorfest-season-4.json) |
 | The Crew: Motorfest - Season 5 | 305244 | [305244-the-crew-motorfest-season-5.json](./305244-the-crew-motorfest-season-5.json) |
 | The Crew: Motorfest - Season 6 | 305245 | [305245-the-crew-motorfest-season-6.json](./305245-the-crew-motorfest-season-6.json) |
@@ -11205,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
 | The Future You've Been Dreaming Of | 199179 | [199179-the-future-youve-been-dreaming-of.json](./199179-the-future-youve-been-dreaming-of.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
+| The G.O.A.T | 423576 | [423576-the-g-o-a-t.json](./423576-the-g-o-a-t.json) |
 | The Gabrolin Crusade LSD | 421277 | [421277-the-gabrolin-crusade-lsd.json](./421277-the-gabrolin-crusade-lsd.json) |
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
 | The Galactic Aquarium | 67832 | [67832-the-galactic-aquarium.json](./67832-the-galactic-aquarium.json) |
@@ -26738,6 +26741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Golf Adventure | 207412 | [207412-tiny-golf-adventure.json](./207412-tiny-golf-adventure.json) |
 | Tiny Golf Puzzles | 180464 | [180464-tiny-golf-puzzles.json](./180464-tiny-golf-puzzles.json) |
 | Tiny Hands Adventure | 102226 | [102226-tiny-hands-adventure.json](./102226-tiny-hands-adventure.json) |
+| Tiny Harbor | 423591 | [423591-tiny-harbor.json](./423591-tiny-harbor.json) |
 | Tiny Havoc | 424066 | [424066-tiny-havoc.json](./424066-tiny-havoc.json) |
 | Tiny Hawk | 61523 | [61523-tiny-hawk.json](./61523-tiny-hawk.json) |
 | Tiny Hawk: Pico Sk8r | 304125 | [304125-tiny-hawk-pico-sk8r.json](./304125-tiny-hawk-pico-sk8r.json) |
