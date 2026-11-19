@@ -842,7 +842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga: Destination Earth | 281474 | [281474-galaga-destination-earth.json](./281474-galaga-destination-earth.json) |
 | Galaga: Special Edition | 61014 | [61014-galaga-special-edition.json](./61014-galaga-special-edition.json) |
 | Galaga: Tekken 20th Anniversary Edition | 60329 | [60329-galaga-tekken-20th-anniversary-edition.json](./60329-galaga-tekken-20th-anniversary-edition.json) |
-| Galagan's Island: Reprymian Rising | 21297 | [21297-galagans-island-reprymian-rising.json](./21297-galagans-island-reprymian-rising.json) |
 | Galagan's Island: Reprymian Rising - Metagalactic Monstrosities | 171934 | [171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json](./171934-galagans-island-reprymian-rising-metagalactic-monstrosities.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galagi Shooter Ultimate Blast | 332164 | [332164-galagi-shooter-ultimate-blast.json](./332164-galagi-shooter-ultimate-blast.json) |
@@ -2814,7 +2813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 2: Limited Edition | 41599 | [41599-gears-of-war-2-limited-edition.json](./41599-gears-of-war-2-limited-edition.json) |
 | Gears of War 2: Snowblind Map Pack | 299998 | [299998-gears-of-war-2-snowblind-map-pack.json](./299998-gears-of-war-2-snowblind-map-pack.json) |
 | Gears of War 3: Epic Edition | 47456 | [47456-gears-of-war-3-epic-edition.json](./47456-gears-of-war-3-epic-edition.json) |
-| Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 3: Forces of Nature | 148248 | [148248-gears-of-war-3-forces-of-nature.json](./148248-gears-of-war-3-forces-of-nature.json) |
 | Gears of War 3: Limited Collector's Edition | 47384 | [47384-gears-of-war-3-limited-collectors-edition.json](./47384-gears-of-war-3-limited-collectors-edition.json) |
 | Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
@@ -3241,7 +3239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos III | 61251 | [61251-generation-of-chaos-iii.json](./61251-generation-of-chaos-iii.json) |
 | Generation of Chaos Next | 61253 | [61253-generation-of-chaos-next.json](./61253-generation-of-chaos-next.json) |
 | Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
-| Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Xth: Code Breaker | 14683 | [14683-generation-xth-code-breaker.json](./14683-generation-xth-code-breaker.json) |
@@ -3868,7 +3865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinal | 202229 | [202229-germinal.json](./202229-germinal.json) |
 | Germination | 95328 | [95328-germination.json](./95328-germination.json) |
-| Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
 | Germline | 258601 | [258601-germline.json](./258601-germline.json) |
 | GermNation | 94941 | [94941-germnation.json](./94941-germnation.json) |
 | Germophilia | 24503 | [24503-germophilia.json](./24503-germophilia.json) |
@@ -3943,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Fit: K-Pop Fitness | 420689 | [420689-get-fit-k-pop-fitness.json](./420689-get-fit-k-pop-fitness.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
+| Get Gem | 392496 | [392496-get-gem.json](./392496-get-gem.json) |
 | Get Ghost! | 238992 | [238992-get-ghost.json](./238992-get-ghost.json) |
 | Get Glue | 392568 | [392568-get-glue.json](./392568-get-glue.json) |
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
@@ -6461,7 +6458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Beckham! Adventure on Soccer Island | 6421 | [6421-go-go-beckham-adventure-on-soccer-island.json](./6421-go-go-beckham-adventure-on-soccer-island.json) |
 | Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
 | Go! Go! Break Steady | 23031 | [23031-go-go-break-steady.json](./23031-go-go-break-steady.json) |
-| Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Dodge League | 42274 | [42274-go-go-dodge-league.json](./42274-go-go-dodge-league.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
@@ -9095,7 +9091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Sanctuary: Troth of Angel | 242883 | [242883-grand-sanctuary-troth-of-angel.json](./242883-grand-sanctuary-troth-of-angel.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
 | Grand Shooter | 336578 | [336578-grand-shooter.json](./336578-grand-shooter.json) |
-| Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
 | Grand Slam Bridge II | 74004 | [74004-grand-slam-bridge-ii.json](./74004-grand-slam-bridge-ii.json) |
 | Grand Slam Rally | 137908 | [137908-grand-slam-rally.json](./137908-grand-slam-rally.json) |
 | Grand Slam Tennis | 149301 | [149301-grand-slam-tennis.json](./149301-grand-slam-tennis.json) |
@@ -9317,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
 | Granite Casket | 278902 | [278902-granite-casket.json](./278902-granite-casket.json) |
 | Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
+| Grannies on Wheels | 372897 | [372897-grannies-on-wheels.json](./372897-grannies-on-wheels.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny 2 Enhanced | 424243 | [424243-granny-2-enhanced.json](./424243-granny-2-enhanced.json) |
 | Granny 3 Evolved | 424245 | [424245-granny-3-evolved.json](./424245-granny-3-evolved.json) |
@@ -9416,7 +9412,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grappling Ball | 159499 | [159499-grappling-ball.json](./159499-grappling-ball.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
-| Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grappling Hook and Grappling Hook | 306267 | [306267-grappling-hook-and-grappling-hook.json](./306267-grappling-hook-and-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
 | GrapplingHook | 125650 | [125650-grapplinghook.json](./125650-grapplinghook.json) |
@@ -9727,7 +9722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
 | Gravitron 2 | 15963 | [15963-gravitron-2.json](./15963-gravitron-2.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
-| Gravitronix | 21035 | [21035-gravitronix.json](./21035-gravitronix.json) |
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
 | Gravitura | 117830 | [117830-gravitura.json](./117830-gravitura.json) |
 | Gravitus Minus | 185311 | [185311-gravitus-minus.json](./185311-gravitus-minus.json) |
@@ -10188,7 +10182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Little Kingdoms | 404805 | [404805-greedy-little-kingdoms.json](./404805-greedy-little-kingdoms.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Niffler | 212554 | [212554-greedy-niffler.json](./212554-greedy-niffler.json) |
-| Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
 | Greedy Snake | 302242 | [302242-greedy-snake.json](./302242-greedy-snake.json) |
 | Greedy Spiders 2: Toby's Deception | 373235 | [373235-greedy-spiders-2-tobys-deception.json](./373235-greedy-spiders-2-tobys-deception.json) |
@@ -10546,7 +10539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Realm | 406566 | [406566-grid-realm.json](./406566-grid-realm.json) |
 | Grid Run | 93945 | [93945-grid-run.json](./93945-grid-run.json) |
 | Grid Run and Pontoon | 93203 | [93203-grid-run-and-pontoon.json](./93203-grid-run-and-pontoon.json) |
-| Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
 | Grid Shock | 41482 | [41482-grid-shock.json](./41482-grid-shock.json) |
@@ -11445,10 +11437,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser II: The Sense of Justice | 21310 | [21310-growlanser-ii-the-sense-of-justice.json](./21310-growlanser-ii-the-sense-of-justice.json) |
 | Growlanser III: The Dual Darkness | 21312 | [21312-growlanser-iii-the-dual-darkness.json](./21312-growlanser-iii-the-dual-darkness.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
-| Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
 | Growlanser IV: Wayfarer of Time Return | 64603 | [64603-growlanser-iv-wayfarer-of-time-return.json](./64603-growlanser-iv-wayfarer-of-time-return.json) |
 | Growlanser VI: Precarious World | 21314 | [21314-growlanser-vi-precarious-world.json](./21314-growlanser-vi-precarious-world.json) |
-| Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
 | Growmancer | 344723 | [344723-growmancer.json](./344723-growmancer.json) |
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
@@ -13067,7 +13057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guus is Jarig | 350016 | [350016-guus-is-jarig.json](./350016-guus-is-jarig.json) |
 | Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
-| Guwange | 21162 | [21162-guwange.json](./21162-guwange.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guxt | 84492 | [84492-guxt.json](./84492-guxt.json) |
 | Guy in a Box Killing Things Simulator | 415688 | [415688-guy-in-a-box-killing-things-simulator.json](./415688-guy-in-a-box-killing-things-simulator.json) |
