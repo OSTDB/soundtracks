@@ -5196,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
 | Fight desserts | 76116 | [76116-fight-desserts.json](./76116-fight-desserts.json) |
+| Fight Fantasy | 428341 | [428341-fight-fantasy.json](./428341-fight-fantasy.json) |
 | Fight Fever | 39553 | [39553-fight-fever.json](./39553-fight-fever.json) |
 | Fight For America | 380698 | [380698-fight-for-america.json](./380698-fight-for-america.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
