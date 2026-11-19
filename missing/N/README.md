@@ -2831,6 +2831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon On!: Chain Lights | 290435 | [290435-neon-on-chain-lights.json](./290435-neon-on-chain-lights.json) |
 | Neon On!: Complete Edition | 294829 | [294829-neon-on-complete-edition.json](./294829-neon-on-complete-edition.json) |
 | Neon On!: Lighting Edition | 362215 | [362215-neon-on-lighting-edition.json](./362215-neon-on-lighting-edition.json) |
+| Neon One-Man Army | 420255 | [420255-neon-one-man-army.json](./420255-neon-one-man-army.json) |
 | Neon Orbit | 382772 | [382772-neon-orbit.json](./382772-neon-orbit.json) |
 | Neon Outlast | 195787 | [195787-neon-outlast.json](./195787-neon-outlast.json) |
 | Neon Overdrive | 342206 | [342206-neon-overdrive.json](./342206-neon-overdrive.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Star | 83349 | [83349-night-star.json](./83349-night-star.json) |
 | Night Stocker | 37329 | [37329-night-stocker.json](./37329-night-stocker.json) |
+| Night Stocker | 420259 | [420259-night-stocker.json](./420259-night-stocker.json) |
 | Night Stones | 239711 | [239711-night-stones.json](./239711-night-stones.json) |
 | Night Stop | 228319 | [228319-night-stop.json](./228319-night-stop.json) |
 | Night Store Simulator | 324632 | [324632-night-store-simulator.json](./324632-night-store-simulator.json) |
@@ -5209,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
 | Nightmare Mines | 358858 | [358858-nightmare-mines.json](./358858-nightmare-mines.json) |
 | Nightmare Ned | 51225 | [51225-nightmare-ned.json](./51225-nightmare-ned.json) |
+| Nightmare Neighborhood | 420273 | [420273-nightmare-neighborhood.json](./420273-nightmare-neighborhood.json) |
 | Nightmare no Sekai: Tortured Souls | 231995 | [231995-nightmare-no-sekai-tortured-souls.json](./231995-nightmare-no-sekai-tortured-souls.json) |
 | Nightmare Nursery | 183549 | [183549-nightmare-nursery.json](./183549-nightmare-nursery.json) |
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
