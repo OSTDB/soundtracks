@@ -6676,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Commander | 145075 | [145075-fire-commander.json](./145075-fire-commander.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
+| Fire Department 3 | 22630 | [22630-fire-department-3.json](./22630-fire-department-3.json) |
 | Fire Dogs | 174937 | [174937-fire-dogs.json](./174937-fire-dogs.json) |
 | Fire Dragon | 247296 | [247296-fire-dragon.json](./247296-fire-dragon.json) |
 | Fire Dragon | 247297 | [247297-fire-dragon.json](./247297-fire-dragon.json) |
@@ -10666,6 +10667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 27 Console | 420982 | [420982-football-manager-27-console.json](./420982-football-manager-27-console.json) |
 | Football Manager 27 Mobile | 420983 | [420983-football-manager-27-mobile.json](./420983-football-manager-27-mobile.json) |
 | Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
+| Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
 | Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
 | Football Manager Handheld 2009 | 38447 | [38447-football-manager-handheld-2009.json](./38447-football-manager-handheld-2009.json) |
@@ -14469,6 +14471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page | 400024 | [400024-front-page.json](./400024-front-page.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports Football Pro | 22603 | [22603-front-page-sports-football-pro.json](./22603-front-page-sports-football-pro.json) |
+| Front Page Sports Football Pro '96 | 22605 | [22605-front-page-sports-football-pro-96.json](./22605-front-page-sports-football-pro-96.json) |
 | Front Page Sports Football Pro '97 | 22606 | [22606-front-page-sports-football-pro-97.json](./22606-front-page-sports-football-pro-97.json) |
 | Front Page Sports Football Pro '98 | 22607 | [22607-front-page-sports-football-pro-98.json](./22607-front-page-sports-football-pro-98.json) |
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
