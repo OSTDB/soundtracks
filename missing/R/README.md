@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | Ratomon 2 | 192859 | [192859-ratomon-2.json](./192859-ratomon-2.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
+| Rats - Time is running out! | 35805 | [35805-rats-time-is-running-out.json](./35805-rats-time-is-running-out.json) |
 | Rats and Spears | 104317 | [104317-rats-and-spears.json](./104317-rats-and-spears.json) |
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razed | 86041 | [86041-razed.json](./86041-razed.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
+| Razenroth | 35980 | [35980-razenroth.json](./35980-razenroth.json) |
 | Razenroth 2 | 163185 | [163185-razenroth-2.json](./163185-razenroth-2.json) |
 | RazePact | 356644 | [356644-razepact.json](./356644-razepact.json) |
 | Razerwire: Nanowars - Deluxe Edition | 276328 | [276328-razerwire-nanowars-deluxe-edition.json](./276328-razerwire-nanowars-deluxe-edition.json) |
@@ -6174,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescape | 235981 | [235981-rescape.json](./235981-rescape.json) |
 | Rescate En El Golfo | 69637 | [69637-rescate-en-el-golfo.json](./69637-rescate-en-el-golfo.json) |
 | Rescue | 46855 | [46855-rescue.json](./46855-rescue.json) |
+| Rescue 2 | 36023 | [36023-rescue-2.json](./36023-rescue-2.json) |
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 2013: Everyday Heroes | 24767 | [24767-rescue-2013-everyday-heroes.json](./24767-rescue-2013-everyday-heroes.json) |
 | Rescue 24 Hours | 387439 | [387439-rescue-24-hours.json](./387439-rescue-24-hours.json) |
@@ -13124,6 +13127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
+| Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Royal Card Clash | 296701 | [296701-royal-card-clash.json](./296701-royal-card-clash.json) |
 | Royal Cartographer: Restore the Map | 425929 | [425929-royal-cartographer-restore-the-map.json](./425929-royal-cartographer-restore-the-map.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
