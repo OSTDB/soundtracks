@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival | 5666 | [5666-carnival.json](./5666-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
+| Carnival Fest | 424808 | [424808-carnival-fest.json](./424808-carnival-fest.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Games | 284137 | [284137-carnival-games.json](./284137-carnival-games.json) |
 | Carnival Games | 4056 | [4056-carnival-games.json](./4056-carnival-games.json) |
@@ -8379,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief Challenge | 335473 | [335473-chief-challenge.json](./335473-chief-challenge.json) |
 | Chief Emoji Officer | 240702 | [240702-chief-emoji-officer.json](./240702-chief-emoji-officer.json) |
 | Chief Miner | 373357 | [373357-chief-miner.json](./373357-chief-miner.json) |
+| Chief? About That File... | 424797 | [424797-chief-about-that-file.json](./424797-chief-about-that-file.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
@@ -18986,6 +18988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Crater Song | 321254 | [321254-crater-song.json](./321254-crater-song.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
+| Craterlands | 424770 | [424770-craterlands.json](./424770-craterlands.json) |
 | Cratermaze | 42113 | [42113-cratermaze.json](./42113-cratermaze.json) |
 | Crates 3D | 339020 | [339020-crates-3d.json](./339020-crates-3d.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
