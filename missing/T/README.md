@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
+| Tactics RPG Difficult! | 421068 | [421068-tactics-rpg-difficult.json](./421068-tactics-rpg-difficult.json) |
 | Tactics Saga | 223896 | [223896-tactics-saga.json](./223896-tactics-saga.json) |
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
 | Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
@@ -5766,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text Adventure: Dungeon Empire | 119989 | [119989-text-adventure-dungeon-empire.json](./119989-text-adventure-dungeon-empire.json) |
 | Text Adventure: Xianghua-hen | 227749 | [227749-text-adventure-xianghua-hen.json](./227749-text-adventure-xianghua-hen.json) |
 | Text and Drive: Friendship Never Dies | 131384 | [131384-text-and-drive-friendship-never-dies.json](./131384-text-and-drive-friendship-never-dies.json) |
+| Text Battle Royale | 421044 | [421044-text-battle-royale.json](./421044-text-battle-royale.json) |
 | Text Dungeon: The Ring of Life | 407450 | [407450-text-dungeon-the-ring-of-life.json](./407450-text-dungeon-the-ring-of-life.json) |
 | Text Express | 207031 | [207031-text-express.json](./207031-text-express.json) |
 | Text Express 2 | 385647 | [385647-text-express-2.json](./385647-text-express-2.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Which Binds Us | 102981 | [102981-that-which-binds-us.json](./102981-that-which-binds-us.json) |
 | That Which Faith Demands | 153793 | [153793-that-which-faith-demands.json](./153793-that-which-faith-demands.json) |
 | That Which Gave Chase | 191308 | [191308-that-which-gave-chase.json](./191308-that-which-gave-chase.json) |
+| That Which Remains | 421144 | [421144-that-which-remains.json](./421144-that-which-remains.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
 | That's a Cow | 213220 | [213220-thats-a-cow.json](./213220-thats-a-cow.json) |
@@ -8766,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cross Formula | 98174 | [98174-the-cross-formula.json](./98174-the-cross-formula.json) |
 | The Cross Horror Game | 120812 | [120812-the-cross-horror-game.json](./120812-the-cross-horror-game.json) |
 | The Crossing | 397852 | [397852-the-crossing.json](./397852-the-crossing.json) |
+| The Crossing | 421147 | [421147-the-crossing.json](./421147-the-crossing.json) |
 | The Crossing | 51690 | [51690-the-crossing.json](./51690-the-crossing.json) |
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
@@ -8871,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of AstaroK | 228183 | [228183-the-curse-of-astarok.json](./228183-the-curse-of-astarok.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
+| The Curse of Beatriz | 421031 | [421031-the-curse-of-beatriz.json](./421031-the-curse-of-beatriz.json) |
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
 | The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
@@ -21769,6 +21774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards: Dark Times - Brotherhood | 288172 | [288172-the-wizards-dark-times-brotherhood.json](./288172-the-wizards-dark-times-brotherhood.json) |
 | The Wizards: Trials of Meliora | 105003 | [105003-the-wizards-trials-of-meliora.json](./105003-the-wizards-trials-of-meliora.json) |
 | The Wizardz Dungeon | 216677 | [216677-the-wizardz-dungeon.json](./216677-the-wizardz-dungeon.json) |
+| The Wokest | 421145 | [421145-the-wokest.json](./421145-the-wokest.json) |
 | The Wolf | 154308 | [154308-the-wolf.json](./154308-the-wolf.json) |
 | The Wolf | 212509 | [212509-the-wolf.json](./212509-the-wolf.json) |
 | The Wolf Among Us 2 | 51523 | [51523-the-wolf-among-us-2.json](./51523-the-wolf-among-us-2.json) |
@@ -27467,6 +27473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To My Forever Love | 259710 | [259710-to-my-forever-love.json](./259710-to-my-forever-love.json) |
 | To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
 | To Put Your Childhood Sweetheart Into A Refrigerator | 364818 | [364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json](./364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json) |
+| To Raise a King | 421158 | [421158-to-raise-a-king.json](./421158-to-raise-a-king.json) |
 | To Reign In Hell | 426549 | [426549-to-reign-in-hell.json](./426549-to-reign-in-hell.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Support Frida | 180349 | [180349-to-support-frida.json](./180349-to-support-frida.json) |
