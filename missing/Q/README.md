@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Deduction Short Mysteries | 394558 | [394558-quick-deduction-short-mysteries.json](./394558-quick-deduction-short-mysteries.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
 | Quick Draw | 313033 | [313033-quick-draw.json](./313033-quick-draw.json) |
+| Quick Draw | 31468 | [31468-quick-draw.json](./31468-quick-draw.json) |
 | Quick Draw McGraw | 66738 | [66738-quick-draw-mcgraw.json](./66738-quick-draw-mcgraw.json) |
 | Quick Drift | 237607 | [237607-quick-drift.json](./237607-quick-drift.json) |
 | Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
