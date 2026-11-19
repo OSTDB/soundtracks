@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda vs. Bugs | 196555 | [196555-panda-vs-bugs.json](./196555-panda-vs-bugs.json) |
 | Panda: Eats, Shoots and Leaves | 295519 | [295519-panda-eats-shoots-and-leaves.json](./295519-panda-eats-shoots-and-leaves.json) |
 | Panda: Go Home! | 389760 | [389760-panda-go-home.json](./389760-panda-go-home.json) |
+| Panda: Shards of Aurora | 421740 | [421740-panda-shards-of-aurora.json](./421740-panda-shards-of-aurora.json) |
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Panda's Big Adventure | 284724 | [284724-pandas-big-adventure.json](./284724-pandas-big-adventure.json) |
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
@@ -18761,6 +18762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Projekt: Passion - Season 1 | 226989 | [226989-projekt-passion-season-1.json](./226989-projekt-passion-season-1.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
+| Projet Brouillon | 421662 | [421662-projet-brouillon.json](./421662-projet-brouillon.json) |
 | Projeto Real | 272401 | [272401-projeto-real.json](./272401-projeto-real.json) |
 | Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
 | Projeto Real: Treasure Map | 286250 | [286250-projeto-real-treasure-map.json](./286250-projeto-real-treasure-map.json) |
