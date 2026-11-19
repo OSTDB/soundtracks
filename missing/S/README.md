@@ -14982,6 +14982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
 | Skythrone | 150347 | [150347-skythrone.json](./150347-skythrone.json) |
+| SkyTime | 31794 | [31794-skytime.json](./31794-skytime.json) |
 | Skytorn | 21598 | [21598-skytorn.json](./21598-skytorn.json) |
 | SkyTrip America | 208916 | [208916-skytrip-america.json](./208916-skytrip-america.json) |
 | Skytropolis | 74255 | [74255-skytropolis.json](./74255-skytropolis.json) |
@@ -18522,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Crisis | 171963 | [171963-soda-crisis.json](./171963-soda-crisis.json) |
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
+| Soda Girls | 31522 | [31522-soda-girls.json](./31522-soda-girls.json) |
 | Soda Hunt | 221793 | [221793-soda-hunt.json](./221793-soda-hunt.json) |
 | SODA Off-Road Racing | 50211 | [50211-soda-off-road-racing.json](./50211-soda-off-road-racing.json) |
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
@@ -25144,6 +25146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikey's Bounce Around | 416926 | [416926-spikeys-bounce-around.json](./416926-spikeys-bounce-around.json) |
 | Spiki Game Box | 115337 | [115337-spiki-game-box.json](./115337-spiki-game-box.json) |
+| Spikit | 31867 | [31867-spikit.json](./31867-spikit.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spiky Harold | 28436 | [28436-spiky-harold.json](./28436-spiky-harold.json) |
@@ -27633,6 +27636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Dream Journey | 337396 | [337396-star-dream-journey.json](./337396-star-dream-journey.json) |
 | Star Drift Evolution | 139529 | [139529-star-drift-evolution.json](./139529-star-drift-evolution.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
+| Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Duality | 418603 | [418603-star-duality.json](./418603-star-duality.json) |
@@ -31151,6 +31155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Simulator | 174975 | [174975-stone-age-simulator.json](./174975-stone-age-simulator.json) |
 | Stone Age Storeys | 181426 | [181426-stone-age-storeys.json](./181426-stone-age-storeys.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
+| Stone Age Wars | 31518 | [31518-stone-age-wars.json](./31518-stone-age-wars.json) |
 | Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
 | Stone Age: The Board Game | 89702 | [89702-stone-age-the-board-game.json](./89702-stone-age-the-board-game.json) |
 | Stone Arena | 106098 | [106098-stone-arena.json](./106098-stone-arena.json) |
