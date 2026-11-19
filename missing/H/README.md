@@ -6870,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Rush: Mad King | 72417 | [72417-hero-rush-mad-king.json](./72417-hero-rush-mad-king.json) |
 | Hero Saga | 298517 | [298517-hero-saga.json](./298517-hero-saga.json) |
 | Hero Secret Realm Survivor Roguelike | 366293 | [366293-hero-secret-realm-survivor-roguelike.json](./366293-hero-secret-realm-survivor-roguelike.json) |
+| Hero Seekers | 378763 | [378763-hero-seekers.json](./378763-hero-seekers.json) |
 | Hero Senki: Project Olympus | 37999 | [37999-hero-senki-project-olympus.json](./37999-hero-senki-project-olympus.json) |
 | Hero Shuugou!! Pinball Party | 228639 | [228639-hero-shuugou-pinball-party.json](./228639-hero-shuugou-pinball-party.json) |
 | Hero Siege | 11708 | [11708-hero-siege.json](./11708-hero-siege.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
 | Heroes Arena | 103040 | [103040-heroes-arena.json](./103040-heroes-arena.json) |
 | Heroes Arena | 75553 | [75553-heroes-arena.json](./75553-heroes-arena.json) |
+| Heroes Battle Awakening | 383884 | [383884-heroes-battle-awakening.json](./383884-heroes-battle-awakening.json) |
 | Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
 | Heroes Charge | 19210 | [19210-heroes-charge.json](./19210-heroes-charge.json) |
 | Heroes Chronicles: All Chapters | 124971 | [124971-heroes-chronicles-all-chapters.json](./124971-heroes-chronicles-all-chapters.json) |
@@ -7748,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hextones: Spacetime | 152639 | [152639-hextones-spacetime.json](./152639-hextones-spacetime.json) |
 | HexTrains | 102953 | [102953-hextrains.json](./102953-hextrains.json) |
 | Hextreaming: Deep | 411505 | [411505-hextreaming-deep.json](./411505-hextreaming-deep.json) |
+| Hextreme Void | 385097 | [385097-hextreme-void.json](./385097-hextreme-void.json) |
 | Hextris | 111308 | [111308-hextris.json](./111308-hextris.json) |
 | Hextris | 183898 | [183898-hextris.json](./183898-hextris.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
