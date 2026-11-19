@@ -8642,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashover MegaSector | 124440 | [124440-flashover-megasector.json](./124440-flashover-megasector.json) |
 | Flashpaper | 414059 | [414059-flashpaper.json](./414059-flashpaper.json) |
 | Flashpoint Campaigns: Cold War | 373422 | [373422-flashpoint-campaigns-cold-war.json](./373422-flashpoint-campaigns-cold-war.json) |
+| Flashpoint Campaigns: Germany Reforged | 24619 | [24619-flashpoint-campaigns-germany-reforged.json](./24619-flashpoint-campaigns-germany-reforged.json) |
 | Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
 | Flashpoint Campaigns: Red Storm - Player's Edition | 36202 | [36202-flashpoint-campaigns-red-storm-players-edition.json](./36202-flashpoint-campaigns-red-storm-players-edition.json) |
 | Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
@@ -11265,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
+| Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
 | Forestry: The Simulation | 147858 | [147858-forestry-the-simulation.json](./147858-forestry-the-simulation.json) |
 | Forests Are For Trees | 107021 | [107021-forests-are-for-trees.json](./107021-forests-are-for-trees.json) |
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
@@ -12569,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourleaf Fields | 377540 | [377540-fourleaf-fields.json](./377540-fourleaf-fields.json) |
 | Fourmiworld | 344641 | [344641-fourmiworld.json](./344641-fourmiworld.json) |
+| Fourms | 24577 | [24577-fourms.json](./24577-fourms.json) |
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | FourPoint: Prologue | 290209 | [290209-fourpoint-prologue.json](./290209-fourpoint-prologue.json) |
 | Foursavent | 405786 | [405786-foursavent.json](./405786-foursavent.json) |
