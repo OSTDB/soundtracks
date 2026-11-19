@@ -8452,6 +8452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
 | Desktop Tower Defense | 387825 | [387825-desktop-tower-defense.json](./387825-desktop-tower-defense.json) |
+| Desktop Tower Survivor | 428365 | [428365-desktop-tower-survivor.json](./428365-desktop-tower-survivor.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Tree | 108408 | [108408-desktop-tree.json](./108408-desktop-tree.json) |
 | Desktop Trip | 426340 | [426340-desktop-trip.json](./426340-desktop-trip.json) |
@@ -12349,6 +12350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
 | Disorderly | 356625 | [356625-disorderly.json](./356625-disorderly.json) |
 | Disorient on The Murder Express | 200941 | [200941-disorient-on-the-murder-express.json](./200941-disorient-on-the-murder-express.json) |
+| Disorientation Syndrome | 428318 | [428318-disorientation-syndrome.json](./428318-disorientation-syndrome.json) |
 | Disoriented | 76212 | [76212-disoriented.json](./76212-disoriented.json) |
 | Disown95 | 393753 | [393753-disown95.json](./393753-disown95.json) |
 | Disparate Realities | 222621 | [222621-disparate-realities.json](./222621-disparate-realities.json) |
