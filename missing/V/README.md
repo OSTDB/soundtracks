@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
+| Valkyrie Connect | 57537 | [57537-valkyrie-connect.json](./57537-valkyrie-connect.json) |
 | Valkyrie Crusade | 62574 | [62574-valkyrie-crusade.json](./62574-valkyrie-crusade.json) |
 | Valkyrie Destruction | 321263 | [321263-valkyrie-destruction.json](./321263-valkyrie-destruction.json) |
 | Valkyrie Drive: Bhikkhuni | 11527 | [11527-valkyrie-drive-bhikkhuni.json](./11527-valkyrie-drive-bhikkhuni.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant | 380956 | [380956-verdant.json](./380956-verdant.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdant Idea | 336213 | [336213-verdant-idea.json](./336213-verdant-idea.json) |
+| Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verde | 318170 | [318170-verde.json](./318170-verde.json) |
 | Verde Station | 17859 | [17859-verde-station.json](./17859-verde-station.json) |
