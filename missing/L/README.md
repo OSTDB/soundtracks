@@ -4970,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty VR | 43069 | [43069-liberty-vr.json](./43069-liberty-vr.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
 | Liberty's Kids | 186062 | [186062-libertys-kids.json](./186062-libertys-kids.json) |
+| Libi | 418998 | [418998-libi.json](./418998-libi.json) |
 | Liblade | 181032 | [181032-liblade.json](./181032-liblade.json) |
 | Libra of the Vampire Princess | 37392 | [37392-libra-of-the-vampire-princess.json](./37392-libra-of-the-vampire-princess.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
