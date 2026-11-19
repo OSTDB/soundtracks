@@ -971,7 +971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenquarium | 78552 | [78552-zenquarium.json](./78552-zenquarium.json) |
 | Zenra Toukou Training | 153674 | [153674-zenra-toukou-training.json](./153674-zenra-toukou-training.json) |
 | Zenses: Ocean | 21138 | [21138-zenses-ocean.json](./21138-zenses-ocean.json) |
-| Zenses: Rainforest | 21295 | [21295-zenses-rainforest.json](./21295-zenses-rainforest.json) |
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
 | Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
@@ -1041,7 +1040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Deaths | 116129 | [116129-zero-deaths.json](./116129-zero-deaths.json) |
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
-| Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
 | Zero Divide: The Final Conflict | 45399 | [45399-zero-divide-the-final-conflict.json](./45399-zero-divide-the-final-conflict.json) |
 | Zero End: Chapter One | 264510 | [264510-zero-end-chapter-one.json](./264510-zero-end-chapter-one.json) |
