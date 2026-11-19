@@ -2518,6 +2518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickoff Returner Pro | 89445 | [89445-kickoff-returner-pro.json](./89445-kickoff-returner-pro.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
+| Kickslaught | 419216 | [419216-kickslaught.json](./419216-kickslaught.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
 | KickUp King | 245325 | [245325-kickup-king.json](./245325-kickup-king.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
