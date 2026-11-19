@@ -6430,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Dory: Just Keep Swimming | 123663 | [123663-finding-dory-just-keep-swimming.json](./123663-finding-dory-just-keep-swimming.json) |
 | Finding Dragons | 356350 | [356350-finding-dragons.json](./356350-finding-dragons.json) |
 | Finding Ducks | 405807 | [405807-finding-ducks.json](./405807-finding-ducks.json) |
+| Finding Edward's Way | 421738 | [421738-finding-edwards-way.json](./421738-finding-edwards-way.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
 | Finding Fate | 249944 | [249944-finding-fate.json](./249944-finding-fate.json) |
 | Finding Father | 377928 | [377928-finding-father.json](./377928-finding-father.json) |
