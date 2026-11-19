@@ -9153,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Merge | 414874 | [414874-mega-merge.json](./414874-mega-merge.json) |
 | Mega Met | 326496 | [326496-mega-met.json](./326496-mega-met.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
+| Mega Mindy | 428207 | [428207-mega-mindy.json](./428207-mega-mindy.json) |
 | Mega Mine | 141945 | [141945-mega-mine.json](./141945-mega-mine.json) |
 | Mega Miner | 112405 | [112405-mega-miner.json](./112405-mega-miner.json) |
 | Mega Minis: Volume 1 | 45998 | [45998-mega-minis-volume-1.json](./45998-mega-minis-volume-1.json) |
@@ -10607,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Battle Company: The Reapers | 286706 | [286706-mercenary-battle-company-the-reapers.json](./286706-mercenary-battle-company-the-reapers.json) |
 | Mercenary Battlegrounds | 328845 | [328845-mercenary-battlegrounds.json](./328845-mercenary-battlegrounds.json) |
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
+| Mercenary Corps | 428303 | [428303-mercenary-corps.json](./428303-mercenary-corps.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
 | Mercenary III: The Dion Crisis | 12680 | [12680-mercenary-iii-the-dion-crisis.json](./12680-mercenary-iii-the-dion-crisis.json) |
