@@ -4595,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KIT-10 | 372211 | [372211-kit-10.json](./372211-kit-10.json) |
 | Kit's Quest | 228634 | [228634-kits-quest.json](./228634-kits-quest.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
+| Kita he: White Illumination | 22825 | [22825-kita-he-white-illumination.json](./22825-kita-he-white-illumination.json) |
 | Kita he: White Illumination | 237433 | [237433-kita-he-white-illumination.json](./237433-kita-he-white-illumination.json) |
 | Kita he. Diamond Dust + Kiss is Beginning. | 60399 | [60399-kita-he-diamond-dust-kiss-is-beginning.json](./60399-kita-he-diamond-dust-kiss-is-beginning.json) |
 | Kita he.: Diamond Dust | 60400 | [60400-kita-he-diamond-dust.json](./60400-kita-he-diamond-dust.json) |
