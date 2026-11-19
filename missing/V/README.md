@@ -390,7 +390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiance | 425966 | [425966-valiance.json](./425966-valiance.json) |
 | Valiance Online | 59018 | [59018-valiance-online.json](./59018-valiance-online.json) |
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
-| Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
 | Valiant | 257236 | [257236-valiant.json](./257236-valiant.json) |
 | Valiant Effort | 119283 | [119283-valiant-effort.json](./119283-valiant-effort.json) |
 | Valiant Force | 56568 | [56568-valiant-force.json](./56568-valiant-force.json) |
@@ -3762,7 +3761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Inc. | 183895 | [183895-void-inc.json](./183895-void-inc.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
-| Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
 | Void Islands | 288486 | [288486-void-islands.json](./288486-void-islands.json) |
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
 | Void Keeper | 294508 | [294508-void-keeper.json](./294508-void-keeper.json) |
@@ -3883,7 +3881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
 | Voidcutter Fuzor | 347746 | [347746-voidcutter-fuzor.json](./347746-voidcutter-fuzor.json) |
-| VoidExpanse | 17863 | [17863-voidexpanse.json](./17863-voidexpanse.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | VoidExpanse: Pariahs' Bane | 171331 | [171331-voidexpanse-pariahs-bane.json](./171331-voidexpanse-pariahs-bane.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
