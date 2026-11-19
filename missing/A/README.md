@@ -9269,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia F | 423385 | [423385-alphadia-f.json](./423385-alphadia-f.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphadia Genesis 1 & 2 | 181983 | [181983-alphadia-genesis-1-and-2.json](./181983-alphadia-genesis-1-and-2.json) |
+| Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
@@ -14315,6 +14316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
 | Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
+| Arashi: Castles of Sin - Final Cut | 253196 | [253196-arashi-castles-of-sin-final-cut.json](./253196-arashi-castles-of-sin-final-cut.json) |
 | Arasuji de Kitaeru: Hayamimi no Susume DS | 269647 | [269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json](./269647-arasuji-de-kitaeru-hayamimi-no-susume-ds.json) |
 | Arasuji de Oboeru Sokudoku no Susume DS | 269646 | [269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json](./269646-arasuji-de-oboeru-sokudoku-no-susume-ds.json) |
 | Arat | 208207 | [208207-arat.json](./208207-arat.json) |
@@ -15078,6 +15080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
+| Arcadia: Colony | 259903 | [259903-arcadia-colony.json](./259903-arcadia-colony.json) |
 | Arcadia: Find the Difference 3D | 412341 | [412341-arcadia-find-the-difference-3d.json](./412341-arcadia-find-the-difference-3d.json) |
 | Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
@@ -17413,6 +17416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
+| Asfalia: Panic at the Mansion | 258347 | [258347-asfalia-panic-at-the-mansion.json](./258347-asfalia-panic-at-the-mansion.json) |
 | Asgaldh: The Distortion Testament | 70042 | [70042-asgaldh-the-distortion-testament.json](./70042-asgaldh-the-distortion-testament.json) |
 | Asgard | 15203 | [15203-asgard.json](./15203-asgard.json) |
 | Asgard | 187282 | [187282-asgard.json](./187282-asgard.json) |
