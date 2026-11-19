@@ -7403,6 +7403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
 | MDNE | 341220 | [341220-mdne.json](./341220-mdne.json) |
+| MDPro3 | 419230 | [419230-mdpro3.json](./419230-mdpro3.json) |
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Friend Pippa! | 311714 | [311714-me-and-my-friend-pippa.json](./311714-me-and-my-friend-pippa.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck Subway Story | 221619 | [221619-meetnfuck-subway-story.json](./221619-meetnfuck-subway-story.json) |
 | Meet'N'Fuck Threesome Fun | 221621 | [221621-meetnfuck-threesome-fun.json](./221621-meetnfuck-threesome-fun.json) |
 | Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
+| Meet'N'Fuck: Magic Book | 418994 | [418994-meetnfuck-magic-book.json](./418994-meetnfuck-magic-book.json) |
 | Meet'N'Fuck: Ocean Cruise | 221729 | [221729-meetnfuck-ocean-cruise.json](./221729-meetnfuck-ocean-cruise.json) |
 | Meet'N'Fuck: Road Trip | 221622 | [221622-meetnfuck-road-trip.json](./221622-meetnfuck-road-trip.json) |
 | Meet'N'Fuck: Star Mission | 219163 | [219163-meetnfuck-star-mission.json](./219163-meetnfuck-star-mission.json) |
@@ -9465,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman Sprite Game | 119383 | [119383-megaman-sprite-game.json](./119383-megaman-sprite-game.json) |
 | MegaMan Star Force EndWave | 321303 | [321303-megaman-star-force-endwave.json](./321303-megaman-star-force-endwave.json) |
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
+| Megaman Topdown - Back at it again?! | 419222 | [419222-megaman-topdown-back-at-it-again.json](./419222-megaman-topdown-back-at-it-again.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman vs. Metroid | 338129 | [338129-megaman-vs-metroid.json](./338129-megaman-vs-metroid.json) |
 | Megaman X and Zero: Training Missions | 321722 | [321722-megaman-x-and-zero-training-missions.json](./321722-megaman-x-and-zero-training-missions.json) |
@@ -13000,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
 | MidNights of Desperado | 161479 | [161479-midnights-of-desperado.json](./161479-midnights-of-desperado.json) |
+| Midnite Mason | 419306 | [419306-midnite-mason.json](./419306-midnite-mason.json) |
 | Mido and Di | 171194 | [171194-mido-and-di.json](./171194-mido-and-di.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
@@ -14486,6 +14490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 360126 | [360126-minesweeper.json](./360126-minesweeper.json) |
 | Minesweeper | 408207 | [408207-minesweeper.json](./408207-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
+| Minesweeper | 418989 | [418989-minesweeper.json](./418989-minesweeper.json) |
 | Minesweeper | 99334 | [99334-minesweeper.json](./99334-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
@@ -14920,6 +14925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniblox | 384485 | [384485-miniblox.json](./384485-miniblox.json) |
 | MiniBob | 238278 | [238278-minibob.json](./238278-minibob.json) |
 | MiniBong | 251856 | [251856-minibong.json](./251856-minibong.json) |
+| Minibot World | 419215 | [419215-minibot-world.json](./419215-minibot-world.json) |
 | Minibots TD | 235503 | [235503-minibots-td.json](./235503-minibots-td.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
@@ -16143,6 +16149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitnal | 383099 | [383099-mitnal.json](./383099-mitnal.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
+| Mito's School in Basics | 419386 | [419386-mitos-school-in-basics.json](./419386-mitos-school-in-basics.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos | 194860 | [194860-mitos.json](./194860-mitos.json) |
 | Mitos y Leyendas Online | 114586 | [114586-mitos-y-leyendas-online.json](./114586-mitos-y-leyendas-online.json) |
@@ -24220,6 +24227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Selfie Story | 56002 | [56002-my-selfie-story.json](./56002-my-selfie-story.json) |
 | My Service Area | 212476 | [212476-my-service-area.json](./212476-my-service-area.json) |
 | My Sexual Hospitalization | 215890 | [215890-my-sexual-hospitalization.json](./215890-my-sexual-hospitalization.json) |
+| My Sexy Anthro 2: RainbowRound! | 419318 | [419318-my-sexy-anthro-2-rainbowround.json](./419318-my-sexy-anthro-2-rainbowround.json) |
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
 | My Sexy Boss: Office Romance Boys | 420667 | [420667-my-sexy-boss-office-romance-boys.json](./420667-my-sexy-boss-office-romance-boys.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
