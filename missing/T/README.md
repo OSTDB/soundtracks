@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technojuice | 126213 | [126213-technojuice.json](./126213-technojuice.json) |
 | Technolites | 109509 | [109509-technolites.json](./109509-technolites.json) |
 | Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
+| Technologia | 429061 | [429061-technologia.json](./429061-technologia.json) |
 | Technology Market Simulation | 344523 | [344523-technology-market-simulation.json](./344523-technology-market-simulation.json) |
 | Technolust | 18952 | [18952-technolust.json](./18952-technolust.json) |
 | Technolympus | 256786 | [256786-technolympus.json](./256786-technolympus.json) |
@@ -8435,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coil of Possibility | 137968 | [137968-the-coil-of-possibility.json](./137968-the-coil-of-possibility.json) |
 | The Coin | 383159 | [383159-the-coin.json](./383159-the-coin.json) |
 | The Coin Game | 99192 | [99192-the-coin-game.json](./99192-the-coin-game.json) |
+| The Coin Keeper: Tidy Up! | 429067 | [429067-the-coin-keeper-tidy-up.json](./429067-the-coin-keeper-tidy-up.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand | 384549 | [384549-the-cold-hand.json](./384549-the-cold-hand.json) |
@@ -15550,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Manipulator | 65720 | [65720-the-manipulator.json](./65720-the-manipulator.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
+| The Mannequin Forest | 429057 | [429057-the-mannequin-forest.json](./429057-the-mannequin-forest.json) |
 | The Manor | 356029 | [356029-the-manor.json](./356029-the-manor.json) |
 | The Manse on Soracca | 128283 | [128283-the-manse-on-soracca.json](./128283-the-manse-on-soracca.json) |
 | The Mansion | 106145 | [106145-the-mansion.json](./106145-the-mansion.json) |
@@ -19623,6 +19626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfallen Prince | 385241 | [385241-the-starfallen-prince.json](./385241-the-starfallen-prince.json) |
 | The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
+| The Staring Man | 429073 | [429073-the-staring-man.json](./429073-the-staring-man.json) |
 | The Starlit Escape | 401979 | [401979-the-starlit-escape.json](./401979-the-starlit-escape.json) |
 | The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
 | The Stars Are Not Ready | 406505 | [406505-the-stars-are-not-ready.json](./406505-the-stars-are-not-ready.json) |
