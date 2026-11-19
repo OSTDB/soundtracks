@@ -6138,6 +6138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konsairi | 158337 | [158337-konsairi.json](./158337-konsairi.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
+| Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
 | Kontrast | 100833 | [100833-kontrast.json](./100833-kontrast.json) |
 | Kontrol Flow | 142196 | [142196-kontrol-flow.json](./142196-kontrol-flow.json) |
 | Konung 1 + 2 | 153008 | [153008-konung-1-2.json](./153008-konung-1-2.json) |
