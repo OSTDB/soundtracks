@@ -1803,7 +1803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Construction! | 364213 | [364213-under-construction.json](./364213-under-construction.json) |
 | Under Contract | 219533 | [219533-under-contract.json](./219533-under-contract.json) |
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
-| Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
 | Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
