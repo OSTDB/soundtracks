@@ -20973,6 +20973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownkeep | 424273 | [424273-crownkeep.json](./424273-crownkeep.json) |
 | Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
+| Crownmarked | 420287 | [420287-crownmarked.json](./420287-crownmarked.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns and Pawns: Kingdom of Deceit | 121704 | [121704-crowns-and-pawns-kingdom-of-deceit.json](./121704-crowns-and-pawns-kingdom-of-deceit.json) |
