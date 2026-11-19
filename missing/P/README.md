@@ -5115,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
 | Perfect Porcelain | 391135 | [391135-perfect-porcelain.json](./391135-perfect-porcelain.json) |
 | Perfect Poses | 286018 | [286018-perfect-poses.json](./286018-perfect-poses.json) |
+| Perfect Push | 419305 | [419305-perfect-push.json](./419305-perfect-push.json) |
 | Perfect Run | 377313 | [377313-perfect-run.json](./377313-perfect-run.json) |
 | Perfect Shift | 57399 | [57399-perfect-shift.json](./57399-perfect-shift.json) |
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
