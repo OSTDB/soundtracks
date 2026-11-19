@@ -3319,7 +3319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
 | Carnage Cross | 190296 | [190296-carnage-cross.json](./190296-carnage-cross.json) |
 | Carnage Cuisine | 258808 | [258808-carnage-cuisine.json](./258808-carnage-cuisine.json) |
-| Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Heart EZ: Easy Zapping | 66184 | [66184-carnage-heart-ez-easy-zapping.json](./66184-carnage-heart-ez-easy-zapping.json) |
 | Carnage Heart Portable | 66189 | [66189-carnage-heart-portable.json](./66189-carnage-heart-portable.json) |
@@ -5024,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
 | Catapult Girls | 383912 | [383912-catapult-girls.json](./383912-catapult-girls.json) |
+| Catapult Madness | 383266 | [383266-catapult-madness.json](./383266-catapult-madness.json) |
 | Catapulteers | 404171 | [404171-catapulteers.json](./404171-catapulteers.json) |
 | Catapulture | 408024 | [408024-catapulture.json](./408024-catapulture.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
@@ -7047,7 +7047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Village | 114822 | [114822-chaos-village.json](./114822-chaos-village.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
-| Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos Wizard | 203195 | [203195-chaos-wizard.json](./203195-chaos-wizard.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
 | Chaos X | 330457 | [330457-chaos-x.json](./330457-chaos-x.json) |
@@ -7230,6 +7229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmcraft Idle | 385957 | [385957-charmcraft-idle.json](./385957-charmcraft-idle.json) |
 | Charmed | 84421 | [84421-charmed.json](./84421-charmed.json) |
 | Charming Blood | 215506 | [215506-charming-blood.json](./215506-charming-blood.json) |
+| Charming Girl | 392508 | [392508-charming-girl.json](./392508-charming-girl.json) |
 | Charming Girls | 154144 | [154144-charming-girls.json](./154144-charming-girls.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charming Hill | 399262 | [399262-charming-hill.json](./399262-charming-hill.json) |
@@ -7405,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheat or Die | 160031 | [160031-cheat-or-die.json](./160031-cheat-or-die.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
+| Cheated | 392510 | [392510-cheated.json](./392510-cheated.json) |
 | Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
 | Cheaters Blackjack 21 | 32431 | [32431-cheaters-blackjack-21.json](./32431-cheaters-blackjack-21.json) |
 | Cheaters Cheetah | 332303 | [332303-cheaters-cheetah.json](./332303-cheaters-cheetah.json) |
@@ -8010,7 +8011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster Live: Rayman Raving Rabbids | 345272 | [345272-chessmaster-live-rayman-raving-rabbids.json](./345272-chessmaster-live-rayman-raving-rabbids.json) |
 | Chessmaster Live: Spheres Chess Set | 347212 | [347212-chessmaster-live-spheres-chess-set.json](./347212-chessmaster-live-spheres-chess-set.json) |
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
-| Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chessmates | 163690 | [163690-chessmates.json](./163690-chessmates.json) |
 | Chessplode | 233376 | [233376-chessplode.json](./233376-chessplode.json) |
@@ -14405,7 +14405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorwood Sort | 351671 | [351671-colorwood-sort.json](./351671-colorwood-sort.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
 | ColorWorld | 229532 | [229532-colorworld.json](./229532-colorworld.json) |
-| ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | ColorZ - 3D Pixel Art | 87007 | [87007-colorz-3d-pixel-art.json](./87007-colorz-3d-pixel-art.json) |
 | Colossal Cave | 215119 | [215119-colossal-cave.json](./215119-colossal-cave.json) |
 | Colossal Cave Adventure | 265733 | [265733-colossal-cave-adventure.json](./265733-colossal-cave-adventure.json) |
@@ -14589,7 +14588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
-| Combat Mission Shock Force: Marines | 21263 | [21263-combat-mission-shock-force-marines.json](./21263-combat-mission-shock-force-marines.json) |
 | Combat Mission: Afrika Korps | 52517 | [52517-combat-mission-afrika-korps.json](./52517-combat-mission-afrika-korps.json) |
 | Combat Mission: Battle for Normandy | 76473 | [76473-combat-mission-battle-for-normandy.json](./76473-combat-mission-battle-for-normandy.json) |
 | Combat Mission: Battle for Normandy - Battle Pack 1 | 242618 | [242618-combat-mission-battle-for-normandy-battle-pack-1.json](./242618-combat-mission-battle-for-normandy-battle-pack-1.json) |
@@ -14753,7 +14751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Catastrophe | 369837 | [369837-comet-catastrophe.json](./369837-comet-catastrophe.json) |
 | Comet Cats | 395341 | [395341-comet-cats.json](./395341-comet-cats.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
-| Comet Crash | 21246 | [21246-comet-crash.json](./21246-comet-crash.json) |
 | Comet Crasher | 112596 | [112596-comet-crasher.json](./112596-comet-crasher.json) |
 | Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
@@ -15000,7 +14997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander.io | 208914 | [208914-commander-io.json](./208914-commander-io.json) |
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders of Valor | 121508 | [121508-commanders-of-valor.json](./121508-commanders-of-valor.json) |
-| Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commanding Nations | 173035 | [173035-commanding-nations.json](./173035-commanding-nations.json) |
 | Commanding Officer Eastern Front | 52316 | [52316-commanding-officer-eastern-front.json](./52316-commanding-officer-eastern-front.json) |
@@ -19061,6 +19057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Colorful Journey | 51047 | [51047-crayola-colorful-journey.json](./51047-crayola-colorful-journey.json) |
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
+| Crayola Magic 3D Coloring Book | 392483 | [392483-crayola-magic-3d-coloring-book.json](./392483-crayola-magic-3d-coloring-book.json) |
 | Crayola My First TV Play System | 386972 | [386972-crayola-my-first-tv-play-system.json](./386972-crayola-my-first-tv-play-system.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
@@ -19854,7 +19851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Lands: The Farm | 247799 | [247799-crescent-lands-the-farm.json](./247799-crescent-lands-the-farm.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Overload | 328370 | [328370-crescent-overload.json](./328370-crescent-overload.json) |
-| Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
 | Crescent Prism | 221664 | [221664-crescent-prism.json](./221664-crescent-prism.json) |
 | Crescent Prism | 387403 | [387403-crescent-prism.json](./387403-crescent-prism.json) |
 | Crescent Quest | 250849 | [250849-crescent-quest.json](./250849-crescent-quest.json) |
@@ -21361,7 +21357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Crawler | 289661 | [289661-crypt-crawler.json](./289661-crypt-crawler.json) |
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Keeper | 340330 | [340330-crypt-keeper.json](./340330-crypt-keeper.json) |
-| Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt o' Casino | 177705 | [177705-crypt-o-casino.json](./177705-crypt-o-casino.json) |
 | Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
 | Crypt of Darne | 349652 | [349652-crypt-of-darne.json](./349652-crypt-of-darne.json) |
@@ -21600,8 +21595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Daze | 274680 | [274680-crystal-daze.json](./274680-crystal-daze.json) |
 | Crystal Defender | 221126 | [221126-crystal-defender.json](./221126-crystal-defender.json) |
 | Crystal Defenders | 21207 | [21207-crystal-defenders.json](./21207-crystal-defenders.json) |
-| Crystal Defenders R1 | 21126 | [21126-crystal-defenders-r1.json](./21126-crystal-defenders-r1.json) |
-| Crystal Defenders R2 | 21133 | [21133-crystal-defenders-r2.json](./21133-crystal-defenders-r2.json) |
 | Crystal Defenders: Vanguard Storm | 23265 | [23265-crystal-defenders-vanguard-storm.json](./23265-crystal-defenders-vanguard-storm.json) |
 | Crystal Defense | 120683 | [120683-crystal-defense.json](./120683-crystal-defense.json) |
 | Crystal Down | 176412 | [176412-crystal-down.json](./176412-crystal-down.json) |
@@ -23109,7 +23102,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Customer Support | 361097 | [361097-customer-support.json](./361097-customer-support.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
-| Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut & Run | 113423 | [113423-cut-and-run.json](./113423-cut-and-run.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
