@@ -3663,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops: The Hunt | 51049 | [51049-bass-pro-shops-the-hunt.json](./51049-bass-pro-shops-the-hunt.json) |
 | Bass Pro Shops: The Hunt - Trophy Showdown | 51050 | [51050-bass-pro-shops-the-hunt-trophy-showdown.json](./51050-bass-pro-shops-the-hunt-trophy-showdown.json) |
 | Bass Pro Shops: The Strike | 4706 | [4706-bass-pro-shops-the-strike.json](./4706-bass-pro-shops-the-strike.json) |
+| Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
 | Bass Pro Shops: The Strike - Tournament Edition | 205908 | [205908-bass-pro-shops-the-strike-tournament-edition.json](./205908-bass-pro-shops-the-strike-tournament-edition.json) |
 | Bass Pro Shops: Trophy Bass 2007 | 47343 | [47343-bass-pro-shops-trophy-bass-2007.json](./47343-bass-pro-shops-trophy-bass-2007.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
@@ -14180,6 +14181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo Legends: An Epic Adventure | 224903 | [224903-bolo-legends-an-epic-adventure.json](./224903-bolo-legends-an-epic-adventure.json) |
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
 | Bolsheviktion 3D | 337561 | [337561-bolsheviktion-3d.json](./337561-bolsheviktion-3d.json) |
+| Bolsomito | 107496 | [107496-bolsomito.json](./107496-bolsomito.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
 | Bolt & Wahlington | 345840 | [345840-bolt-and-wahlington.json](./345840-bolt-and-wahlington.json) |
@@ -15856,6 +15858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Missile | 357681 | [357681-bouncing-missile.json](./357681-bouncing-missile.json) |
 | Bouncing Music | 236744 | [236744-bouncing-music.json](./236744-bouncing-music.json) |
 | Bouncing Odyssey | 81034 | [81034-bouncing-odyssey.json](./81034-bouncing-odyssey.json) |
+| Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncing Rainbow | 259629 | [259629-bouncing-rainbow.json](./259629-bouncing-rainbow.json) |
 | Bouncing Slime: Impossible Levels | 343985 | [343985-bouncing-slime-impossible-levels.json](./343985-bouncing-slime-impossible-levels.json) |
 | Bouncing to the Top With Quantum Quacks | 392103 | [392103-bouncing-to-the-top-with-quantum-quacks.json](./392103-bouncing-to-the-top-with-quantum-quacks.json) |
@@ -20182,6 +20185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Mania 2 | 76327 | [76327-bunny-mania-2.json](./76327-bunny-mania-2.json) |
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Memory | 151406 | [151406-bunny-memory.json](./151406-bunny-memory.json) |
+| Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Must Die! Chelsea and the 7 Devils | 16661 | [16661-bunny-must-die-chelsea-and-the-7-devils.json](./16661-bunny-must-die-chelsea-and-the-7-devils.json) |
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
