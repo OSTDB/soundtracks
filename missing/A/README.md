@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
 | Abandoned Drive-in | 234018 | [234018-abandoned-drive-in.json](./234018-abandoned-drive-in.json) |
 | Abandoned Ecosystem | 377427 | [377427-abandoned-ecosystem.json](./377427-abandoned-ecosystem.json) |
+| Abandoned Gameshop | 419554 | [419554-abandoned-gameshop.json](./419554-abandoned-gameshop.json) |
 | Abandoned Hearts | 427596 | [427596-abandoned-hearts.json](./427596-abandoned-hearts.json) |
 | Abandoned Hospital | 377426 | [377426-abandoned-hospital.json](./377426-abandoned-hospital.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
@@ -7435,6 +7436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemania | 157417 | [157417-alchemania.json](./157417-alchemania.json) |
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
+| Alchemess: Tidy Up Your Potion Shop! | 419566 | [419566-alchemess-tidy-up-your-potion-shop.json](./419566-alchemess-tidy-up-your-potion-shop.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Rogue: Mia and the Mystery Labyrinth | 397497 | [397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json](./397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json) |
@@ -12752,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
 | Another Mario Adventure | 180165 | [180165-another-mario-adventure.json](./180165-another-mario-adventure.json) |
 | Another Mario World | 267606 | [267606-another-mario-world.json](./267606-another-mario-world.json) |
+| Another Medium | 419542 | [419542-another-medium.json](./419542-another-medium.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Mind | 74800 | [74800-another-mind.json](./74800-another-mind.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
