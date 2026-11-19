@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T14:45:59.015Z",
-  "total_soundtracks": 3858,
+  "generated_at": "2026-11-19T15:36:03.010Z",
+  "total_soundtracks": 3860,
   "games": [
     {
       "igdb_id": 292844,
@@ -22989,6 +22989,20 @@
       ]
     },
     {
+      "igdb_id": 17614,
+      "game_name": "Legions of Steel",
+      "game_url": "https://ostdb.net/games/legions-of-steel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738135309b1620d00b1a5fc061",
+      "albums": [
+        {
+          "album_name": "Legions of Steel (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5f37MGzgb43PbqpDJbvigW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 361855,
       "game_name": "LEGO Batman: Legacy of the Dark Knight",
       "game_url": "https://ostdb.net/games/lego-batman-legacy-of-the-dark-knight",
@@ -44758,6 +44772,20 @@
     },
     {
       "igdb_id": 18012,
+      "game_name": "Tinertia",
+      "game_url": "https://ostdb.net/games/tinertia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27336ab2bc0df864bd5a3401c78",
+      "albums": [
+        {
+          "album_name": "Tinertia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6sAI4kikq4o7qWUXbuH0LC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17594,
       "game_name": "Tinertia",
       "game_url": "https://ostdb.net/games/tinertia",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27336ab2bc0df864bd5a3401c78",
