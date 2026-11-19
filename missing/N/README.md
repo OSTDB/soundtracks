@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
 | Needle In A Haystack | 417115 | [417115-needle-in-a-haystack.json](./417115-needle-in-a-haystack.json) |
+| Needle in a Haystack Simulator | 419225 | [419225-needle-in-a-haystack-simulator.json](./419225-needle-in-a-haystack-simulator.json) |
 | Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators | 428313 | [428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json](./428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json) |
 | Needle in a Haystack: A Time for Goats | 417153 | [417153-needle-in-a-haystack-a-time-for-goats.json](./417153-needle-in-a-haystack-a-time-for-goats.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
@@ -6780,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Tomorrow | 297162 | [297162-no-tomorrow.json](./297162-no-tomorrow.json) |
 | No Trace | 36754 | [36754-no-trace.json](./36754-no-trace.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
+| No Truce With The Groceries | 419229 | [419229-no-truce-with-the-groceries.json](./419229-no-truce-with-the-groceries.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike - Potions Starter Pack | 155266 | [155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json](./155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json) |
 | No Tyrant | 190119 | [190119-no-tyrant.json](./190119-no-tyrant.json) |
@@ -7380,6 +7382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogos | 372624 | [372624-nonogos.json](./372624-nonogos.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
+| Nonogram | 418990 | [418990-nonogram.json](./418990-nonogram.json) |
 | Nonogram - The Greatest Painter | 87774 | [87774-nonogram-the-greatest-painter.json](./87774-nonogram-the-greatest-painter.json) |
 | Nonogram 3D: Mega Puzzle | 289449 | [289449-nonogram-3d-mega-puzzle.json](./289449-nonogram-3d-mega-puzzle.json) |
 | Nonogram Animal Griddlers | 129969 | [129969-nonogram-animal-griddlers.json](./129969-nonogram-animal-griddlers.json) |
