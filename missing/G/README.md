@@ -9298,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granite Casket | 278902 | [278902-granite-casket.json](./278902-granite-casket.json) |
 | Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
+| Granny 2 Enhanced | 424243 | [424243-granny-2-enhanced.json](./424243-granny-2-enhanced.json) |
 | Granny 3 Evolved | 424245 | [424245-granny-3-evolved.json](./424245-granny-3-evolved.json) |
 | Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
 | Granny Barbie | 429339 | [429339-granny-barbie.json](./429339-granny-barbie.json) |
@@ -10108,6 +10109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed City | 341900 | [341900-greed-city.json](./341900-greed-city.json) |
 | Greed Corp | 16170 | [16170-greed-corp.json](./16170-greed-corp.json) |
 | Greed Crystal | 198382 | [198382-greed-crystal.json](./198382-greed-crystal.json) |
+| Greed for Glory | 424212 | [424212-greed-for-glory.json](./424212-greed-for-glory.json) |
 | Greed for Glory: War Strategy | 323140 | [323140-greed-for-glory-war-strategy.json](./323140-greed-for-glory-war-strategy.json) |
 | Greed Forest | 336617 | [336617-greed-forest.json](./336617-greed-forest.json) |
 | Greed Grid | 347932 | [347932-greed-grid.json](./347932-greed-grid.json) |
