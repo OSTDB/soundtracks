@@ -8441,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Board Games | 288254 | [288254-big-bang-board-games.json](./288254-big-bang-board-games.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
 | Big Bang Brain Games | 84461 | [84461-big-bang-brain-games.json](./84461-big-bang-brain-games.json) |
+| Big Bang Empire | 31826 | [31826-big-bang-empire.json](./31826-big-bang-empire.json) |
 | Big Bang Mini | 18549 | [18549-big-bang-mini.json](./18549-big-bang-mini.json) |
 | Big Bang Pictures | 87616 | [87616-big-bang-pictures.json](./87616-big-bang-pictures.json) |
 | Big Bang Pro Wrestling | 196188 | [196188-big-bang-pro-wrestling.json](./196188-big-bang-pro-wrestling.json) |
@@ -10018,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitmagic | 296289 | [296289-bitmagic.json](./296289-bitmagic.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
+| BitMaster | 31777 | [31777-bitmaster.json](./31777-bitmaster.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
 | Bitmoji Party | 117161 | [117161-bitmoji-party.json](./117161-bitmoji-party.json) |
 | Bitorpito Deluxe | 321328 | [321328-bitorpito-deluxe.json](./321328-bitorpito-deluxe.json) |
