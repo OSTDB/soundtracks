@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
+| Campus Life | 176675 | [176675-campus-life.json](./176675-campus-life.json) |
 | Campus Notes: Forget Me Not. | 33710 | [33710-campus-notes-forget-me-not.json](./33710-campus-notes-forget-me-not.json) |
 | Campus Romance 101 | 232851 | [232851-campus-romance-101.json](./232851-campus-romance-101.json) |
 | Campus Shock Night | 282172 | [282172-campus-shock-night.json](./282172-campus-shock-night.json) |
@@ -10608,6 +10609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines II - San Francisco Set | 294380 | [294380-cities-skylines-ii-san-francisco-set.json](./294380-cities-skylines-ii-san-francisco-set.json) |
 | Cities: Skylines II - Ultimate Edition | 273942 | [273942-cities-skylines-ii-ultimate-edition.json](./273942-cities-skylines-ii-ultimate-edition.json) |
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
+| Cities: VR | 185895 | [185895-cities-vr.json](./185895-cities-vr.json) |
 | Cities: VR - Enhanced Edition | 225958 | [225958-cities-vr-enhanced-edition.json](./225958-cities-vr-enhanced-edition.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen | 60169 | [60169-citizen.json](./60169-citizen.json) |
