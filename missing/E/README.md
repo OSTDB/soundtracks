@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements of Dreams | 189002 | [189002-elements-of-dreams.json](./189002-elements-of-dreams.json) |
 | Elements of Harmony | 363131 | [363131-elements-of-harmony.json](./363131-elements-of-harmony.json) |
 | Elements of War | 21153 | [21153-elements-of-war.json](./21153-elements-of-war.json) |
+| Elements Online | 428219 | [428219-elements-online.json](./428219-elements-online.json) |
 | Elements Voice Series vol.1 Mika Kanai - Wind&Breeze | 63953 | [63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json](./63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json) |
 | Elements Voice Series vol.2 Rika Fukami - Private Step | 63955 | [63955-elements-voice-series-vol-2-rika-fukami-private-step.json](./63955-elements-voice-series-vol-2-rika-fukami-private-step.json) |
 | Elements Voice Series vol.3 Aya Hisakawa - Forest Sways | 63954 | [63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json](./63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EPS Series Vol. 4: Noise Reduction - Tomoa Yamamoto | 286555 | [286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json](./286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json) |
 | EPS Series Vol. 5: Believer Dreamer - Junko Mizutani | 286562 | [286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json](./286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json) |
 | Epsilon | 276364 | [276364-epsilon.json](./276364-epsilon.json) |
+| Epsilon Emerald | 428212 | [428212-epsilon-emerald.json](./428212-epsilon-emerald.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
 | Epsilon Jump Prime | 74533 | [74533-epsilon-jump-prime.json](./74533-epsilon-jump-prime.json) |
@@ -6822,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
 | Espresso Economics | 339773 | [339773-espresso-economics.json](./339773-espresso-economics.json) |
 | Espresso for the Demon | 132387 | [132387-espresso-for-the-demon.json](./132387-espresso-for-the-demon.json) |
+| Espresso Presso | 428455 | [428455-espresso-presso.json](./428455-espresso-presso.json) |
 | Espresso Tycoon | 194825 | [194825-espresso-tycoon.json](./194825-espresso-tycoon.json) |
 | Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
