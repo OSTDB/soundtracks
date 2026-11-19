@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TagTime | 274962 | [274962-tagtime.json](./274962-tagtime.json) |
 | Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
 | Tahdani | 345232 | [345232-tahdani.json](./345232-tahdani.json) |
+| Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
 | Tahiti Hidden Pearls | 146412 | [146412-tahiti-hidden-pearls.json](./146412-tahiti-hidden-pearls.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
 | Tahko Alpine Ski | 115220 | [115220-tahko-alpine-ski.json](./115220-tahko-alpine-ski.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl | 8168 | [8168-tecmo-bowl.json](./8168-tecmo-bowl.json) |
 | Tecmo Bowl NCAA 2017 | 48895 | [48895-tecmo-bowl-ncaa-2017.json](./48895-tecmo-bowl-ncaa-2017.json) |
 | Tecmo Bowl Throwback | 52906 | [52906-tecmo-bowl-throwback.json](./52906-tecmo-bowl-throwback.json) |
+| Tecmo Bowl: Kickoff | 21329 | [21329-tecmo-bowl-kickoff.json](./21329-tecmo-bowl-kickoff.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
 | Tecmo Cup Football Game | 46166 | [46166-tecmo-cup-football-game.json](./46166-tecmo-cup-football-game.json) |
@@ -4532,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenka Touitsu SSB: Scenario - Mouko Houkousu | 283850 | [283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json](./283850-tenka-touitsu-ssb-scenario-mouko-houkousu.json) |
 | Tenka Touitsu SSB: Scenario - Ryuuko Aiutsu | 283849 | [283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json](./283849-tenka-touitsu-ssb-scenario-ryuuko-aiutsu.json) |
 | Tenka Touitsu: SSB | 278496 | [278496-tenka-touitsu-ssb.json](./278496-tenka-touitsu-ssb.json) |
+| Tenkai Knights: Brave Battle | 21906 | [21906-tenkai-knights-brave-battle.json](./21906-tenkai-knights-brave-battle.json) |
 | Tenkaichi Bushi: Keru Naguuru | 48389 | [48389-tenkaichi-bushi-keru-naguuru.json](./48389-tenkaichi-bushi-keru-naguuru.json) |
 | Tenkaichi: Sengoku Lovers | 206022 | [206022-tenkaichi-sengoku-lovers.json](./206022-tenkaichi-sengoku-lovers.json) |
 | Tenkaichi: Sengoku Lovers DS | 206023 | [206023-tenkaichi-sengoku-lovers-ds.json](./206023-tenkaichi-sengoku-lovers-ds.json) |
@@ -9770,6 +9773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dropouts | 327508 | [327508-the-dropouts.json](./327508-the-dropouts.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
+| The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
 | The Drowning Machine | 144738 | [144738-the-drowning-machine.json](./144738-the-drowning-machine.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Druid | 240759 | [240759-the-druid.json](./240759-the-druid.json) |
@@ -10385,6 +10389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expendables 2: The Videogame | 9397 | [9397-the-expendables-2-the-videogame.json](./9397-the-expendables-2-the-videogame.json) |
 | The Expendabros | 9786 | [9786-the-expendabros.json](./9786-the-expendabros.json) |
 | The Experience | 13651 | [13651-the-experience.json](./13651-the-experience.json) |
+| The Experiment | 21489 | [21489-the-experiment.json](./21489-the-experiment.json) |
 | The Experiment | 255699 | [255699-the-experiment.json](./255699-the-experiment.json) |
 | The Experiment | 255864 | [255864-the-experiment.json](./255864-the-experiment.json) |
 | The Experiment | 321105 | [321105-the-experiment.json](./321105-the-experiment.json) |
@@ -18857,6 +18862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims | 224864 | [224864-the-sims.json](./224864-the-sims.json) |
 | The Sims 2 | 210459 | [210459-the-sims-2.json](./210459-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
+| The Sims 2: Apartment Pets | 21464 | [21464-the-sims-2-apartment-pets.json](./21464-the-sims-2-apartment-pets.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
 | The Sims 2: Castaway | 192907 | [192907-the-sims-2-castaway.json](./192907-the-sims-2-castaway.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
@@ -19480,6 +19486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirits of Whispermoon | 267811 | [267811-the-spirits-of-whispermoon.json](./267811-the-spirits-of-whispermoon.json) |
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
 | The Spiritworld | 271051 | [271051-the-spiritworld.json](./271051-the-spiritworld.json) |
+| The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The Splitting: Chapter 1 | 102017 | [102017-the-splitting-chapter-1.json](./102017-the-splitting-chapter-1.json) |
 | The Splitting: Chapter 2 | 101780 | [101780-the-splitting-chapter-2.json](./101780-the-splitting-chapter-2.json) |
@@ -19567,6 +19574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
 | The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
 | The Stars We Lost To Grief | 271250 | [271250-the-stars-we-lost-to-grief.json](./271250-the-stars-we-lost-to-grief.json) |
+| The Starship Damrey | 20853 | [20853-the-starship-damrey.json](./20853-the-starship-damrey.json) |
 | The Starving Tournament | 231115 | [231115-the-starving-tournament.json](./231115-the-starving-tournament.json) |
 | The State of Nowhere | 289961 | [289961-the-state-of-nowhere.json](./289961-the-state-of-nowhere.json) |
 | The Static | 253832 | [253832-the-static.json](./253832-the-static.json) |
@@ -21446,6 +21454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior's Tale | 73132 | [73132-the-warriors-tale.json](./73132-the-warriors-tale.json) |
 | The Warriorlock | 108290 | [108290-the-warriorlock.json](./108290-the-warriorlock.json) |
 | The Warriors | 6030 | [6030-the-warriors.json](./6030-the-warriors.json) |
+| The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
 | The Waste Land | 10987 | [10987-the-waste-land.json](./10987-the-waste-land.json) |
@@ -27023,6 +27032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Shattering Spectreglass | 222661 | [222661-tiny-tinas-wonderlands-shattering-spectreglass.json](./222661-tiny-tinas-wonderlands-shattering-spectreglass.json) |
 | Tiny Tires | 294509 | [294509-tiny-tires.json](./294509-tiny-tires.json) |
 | Tiny Titans: Card Rumble | 356539 | [356539-tiny-titans-card-rumble.json](./356539-tiny-titans-card-rumble.json) |
+| Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
 | Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Trouble in Wackyland | 8047 | [8047-tiny-toon-adventures-2-trouble-in-wackyland.json](./8047-tiny-toon-adventures-2-trouble-in-wackyland.json) |
 | Tiny Toon Adventures 3 | 45701 | [45701-tiny-toon-adventures-3.json](./45701-tiny-toon-adventures-3.json) |
@@ -27267,6 +27277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall Legends | 234393 | [234393-titanfall-legends.json](./234393-titanfall-legends.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
+| Titanfall: Frontier's Edge | 21649 | [21649-titanfall-frontiers-edge.json](./21649-titanfall-frontiers-edge.json) |
 | Titanhelm | 414719 | [414719-titanhelm.json](./414719-titanhelm.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74237 | [74237-titanic.json](./74237-titanic.json) |
@@ -29127,6 +29138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Tumble | 243873 | [243873-toon-tumble.json](./243873-toon-tumble.json) |
 | Toon War | 86238 | [86238-toon-war.json](./86238-toon-war.json) |
 | Toon Wars: Tank Battles | 87898 | [87898-toon-wars-tank-battles.json](./87898-toon-wars-tank-battles.json) |
+| Toon-Doku | 20700 | [20700-toon-doku.json](./20700-toon-doku.json) |
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
@@ -29632,6 +29644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga City | 298778 | [298778-tortuga-city.json](./298778-tortuga-city.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: Pirates of the New World | 24759 | [24759-tortuga-pirates-of-the-new-world.json](./24759-tortuga-pirates-of-the-new-world.json) |
+| Tortuga: Two Treasures | 21394 | [21394-tortuga-two-treasures.json](./21394-tortuga-two-treasures.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 272171 | [272171-torture.json](./272171-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
@@ -30037,6 +30050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Battle Tank Tag Combat | 36774 | [36774-touch-battle-tank-tag-combat.json](./36774-touch-battle-tank-tag-combat.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
+| Touch Darts | 21434 | [21434-touch-darts.json](./21434-touch-darts.json) |
 | Touch de Rakushou! Pachi-Slot Sengen: Rio de Carnival | 62349 | [62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json](./62349-touch-de-rakushou-pachi-slot-sengen-rio-de-carnival.json) |
 | Touch de Tanoshimu Hyakunin Isshu: DS Shigureden | 423537 | [423537-touch-de-tanoshimu-hyakunin-isshu-ds-shigureden.json](./423537-touch-de-tanoshimu-hyakunin-isshu-ds-shigureden.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
@@ -34328,6 +34342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Panda | 191056 | [191056-trash-panda.json](./191056-trash-panda.json) |
 | Trash Panda: The Adventures of Ricky and Boxman | 226433 | [226433-trash-panda-the-adventures-of-ricky-and-boxman.json](./226433-trash-panda-the-adventures-of-ricky-and-boxman.json) |
 | Trash Pandamonium | 302931 | [302931-trash-pandamonium.json](./302931-trash-pandamonium.json) |
+| Trash Panic | 20692 | [20692-trash-panic.json](./20692-trash-panic.json) |
 | Trash Party | 424648 | [424648-trash-party.json](./424648-trash-party.json) |
 | Trash Patrol | 201933 | [201933-trash-patrol.json](./201933-trash-patrol.json) |
 | Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
@@ -37315,6 +37330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn Based Boxing | 301220 | [301220-turn-based-boxing.json](./301220-turn-based-boxing.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
+| Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
 | Turn It On! | 95776 | [95776-turn-it-on.json](./95776-turn-it-on.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
