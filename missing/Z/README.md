@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
 | Zombie City | 377132 | [377132-zombie-city.json](./377132-zombie-city.json) |
 | Zombie City | 81856 | [81856-zombie-city.json](./81856-zombie-city.json) |
+| Zombie City Defense 2 | 22806 | [22806-zombie-city-defense-2.json](./22806-zombie-city-defense-2.json) |
 | Zombie City Rescue | 274930 | [274930-zombie-city-rescue.json](./274930-zombie-city-rescue.json) |
 | Zombie City Together | 423875 | [423875-zombie-city-together.json](./423875-zombie-city-together.json) |
 | Zombie Claus | 219094 | [219094-zombie-claus.json](./219094-zombie-claus.json) |
