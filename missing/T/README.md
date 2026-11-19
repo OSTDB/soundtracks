@@ -4950,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
 | Terminator: Revenge | 73934 | [73934-terminator-revenge.json](./73934-terminator-revenge.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
+| Terminidle | 424193 | [424193-terminidle.json](./424193-terminidle.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminull Brigade | 325934 | [325934-terminull-brigade.json](./325934-terminull-brigade.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
@@ -6719,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcana | 124469 | [124469-the-arcana.json](./124469-the-arcana.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
+| The Arcane Open | 424203 | [424203-the-arcane-open.json](./424203-the-arcane-open.json) |
 | The Arcane Relics | 176561 | [176561-the-arcane-relics.json](./176561-the-arcane-relics.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archaic: Unauthorized | 348695 | [348695-the-archaic-unauthorized.json](./348695-the-archaic-unauthorized.json) |
@@ -8282,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citadel Must Hold | 421801 | [421801-the-citadel-must-hold.json](./421801-the-citadel-must-hold.json) |
 | The Citadel of Chaos | 71974 | [71974-the-citadel-of-chaos.json](./71974-the-citadel-of-chaos.json) |
 | The Citadel of Sinners | 271810 | [271810-the-citadel-of-sinners.json](./271810-the-citadel-of-sinners.json) |
+| The Citadel Project | 424182 | [424182-the-citadel-project.json](./424182-the-citadel-project.json) |
 | The Citizen | 183630 | [183630-the-citizen.json](./183630-the-citizen.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
@@ -21468,6 +21471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wednesday | 169661 | [169661-the-wednesday.json](./169661-the-wednesday.json) |
 | The Week With Grugles | 395920 | [395920-the-week-with-grugles.json](./395920-the-week-with-grugles.json) |
 | The Week With Grugles 2 | 395921 | [395921-the-week-with-grugles-2.json](./395921-the-week-with-grugles-2.json) |
+| The Weeping Statue | 424204 | [424204-the-weeping-statue.json](./424204-the-weeping-statue.json) |
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Weight of Life: An Interactive Death Game of Judgement | 315379 | [315379-the-weight-of-life-an-interactive-death-game-of-judgement.json](./315379-the-weight-of-life-an-interactive-death-game-of-judgement.json) |
@@ -23288,6 +23292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Shop | 258800 | [258800-thrift-shop.json](./258800-thrift-shop.json) |
+| Thrift Store Boy | 424174 | [424174-thrift-store-boy.json](./424174-thrift-store-boy.json) |
 | Thrift Store Simulator | 326328 | [326328-thrift-store-simulator.json](./326328-thrift-store-simulator.json) |
 | Thrift Store Story | 106920 | [106920-thrift-store-story.json](./106920-thrift-store-story.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
