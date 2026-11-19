@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raga | 216942 | [216942-raga.json](./216942-raga.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | Ragamuffins: Feline Fencers | 207413 | [207413-ragamuffins-feline-fencers.json](./207413-ragamuffins-feline-fencers.json) |
+| Ragball | 423008 | [423008-ragball.json](./423008-ragball.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
 | RagBlo Set3 | 97728 | [97728-ragblo-set3.json](./97728-ragblo-set3.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
@@ -9782,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadside Egg Stand | 342310 | [342310-roadside-egg-stand.json](./342310-roadside-egg-stand.json) |
 | Roadside In Hell | 358557 | [358557-roadside-in-hell.json](./358557-roadside-in-hell.json) |
+| Roadside Mechanic Simulator | 423009 | [423009-roadside-mechanic-simulator.json](./423009-roadside-mechanic-simulator.json) |
 | Roadside Odyssey | 419290 | [419290-roadside-odyssey.json](./419290-roadside-odyssey.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
