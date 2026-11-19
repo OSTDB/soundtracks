@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
 | I was rebuilt | 415821 | [415821-i-was-rebuilt.json](./415821-i-was-rebuilt.json) |
 | I Was Seen as the Weakest Hero But I Can Secretly Edit the Metadata of the World?!? | 413410 | [413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json](./413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json) |
+| I Was Summoned to Another World, but All I Do Is Organize a Run-Down Village | 419235 | [419235-i-was-summoned-to-another-world-but-all-i-do-is-organize-a-run-down-village.json](./419235-i-was-summoned-to-another-world-but-all-i-do-is-organize-a-run-down-village.json) |
 | I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
 | I Was Trying to Make a Game, But My Dog Was Sitting On My Lap | 135924 | [135924-i-was-trying-to-make-a-game-but-my-dog-was-sitting-on-my-lap.json](./135924-i-was-trying-to-make-a-game-but-my-dog-was-sitting-on-my-lap.json) |
 | I Was Wrong | 207499 | [207499-i-was-wrong.json](./207499-i-was-wrong.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imoto | 174051 | [174051-imoto.json](./174051-imoto.json) |
 | Imoto No Yume | 392522 | [392522-imoto-no-yume.json](./392522-imoto-no-yume.json) |
+| Imouto Choukyou Nikki | 418997 | [418997-imouto-choukyou-nikki.json](./418997-imouto-choukyou-nikki.json) |
 | Imouto Daisakusen: Project i-mote | 97398 | [97398-imouto-daisakusen-project-i-mote.json](./97398-imouto-daisakusen-project-i-mote.json) |
 | Imouto Ikenie | 108125 | [108125-imouto-ikenie.json](./108125-imouto-ikenie.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence War 2: Edge of Chaos | 758 | [758-independence-war-2-edge-of-chaos.json](./758-independence-war-2-edge-of-chaos.json) |
 | Independence War: Defiance | 62990 | [62990-independence-war-defiance.json](./62990-independence-war-defiance.json) |
 | Independence War: Deluxe Edition | 36201 | [36201-independence-war-deluxe-edition.json](./36201-independence-war-deluxe-edition.json) |
+| Independence, Missouri | 419384 | [419384-independence-missouri.json](./419384-independence-missouri.json) |
 | Independent Days | 26799 | [26799-independent-days.json](./26799-independent-days.json) |
 | Independent Games | 210063 | [210063-independent-games.json](./210063-independent-games.json) |
 | Indestruc2Tank | 10146 | [10146-indestruc2tank.json](./10146-indestruc2tank.json) |
@@ -4067,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Second Son - Paper Trail | 308598 | [308598-infamous-second-son-paper-trail.json](./308598-infamous-second-son-paper-trail.json) |
 | Infamous: Special Edition | 44669 | [44669-infamous-special-edition.json](./44669-infamous-special-edition.json) |
 | Infans Solaris | 54130 | [54130-infans-solaris.json](./54130-infans-solaris.json) |
+| Infant God | 418999 | [418999-infant-god.json](./418999-infant-god.json) |
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
 | Infantry | 44238 | [44238-infantry.json](./44238-infantry.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
