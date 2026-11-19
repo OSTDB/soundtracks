@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumination of Mansion | 374571 | [374571-illumination-of-mansion.json](./374571-illumination-of-mansion.json) |
 | Illuminator | 242732 | [242732-illuminator.json](./242732-illuminator.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
+| Illumine | 31574 | [31574-illumine.json](./31574-illumine.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
 | Illumizzle: Finding the Lost Light | 368248 | [368248-illumizzle-finding-the-lost-light.json](./368248-illumizzle-finding-the-lost-light.json) |
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
 | In Car Speed Test: Cops Edition | 88361 | [88361-in-car-speed-test-cops-edition.json](./88361-in-car-speed-test-cops-edition.json) |
 | In Case of Emergency, Release Raptor | 32619 | [32619-in-case-of-emergency-release-raptor.json](./32619-in-case-of-emergency-release-raptor.json) |
+| In Celebration of Violence | 31885 | [31885-in-celebration-of-violence.json](./31885-in-celebration-of-violence.json) |
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Character | 128781 | [128781-in-character.json](./128781-in-character.json) |
 | In Cold Blood | 9680 | [9680-in-cold-blood.json](./9680-in-cold-blood.json) |
@@ -5105,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Maze | 217208 | [217208-insane-maze.json](./217208-insane-maze.json) |
 | Insane Orb | 234394 | [234394-insane-orb.json](./234394-insane-orb.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
+| Insane Robots | 31647 | [31647-insane-robots.json](./31647-insane-robots.json) |
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
 | Insane Skulls | 257607 | [257607-insane-skulls.json](./257607-insane-skulls.json) |
 | Insane Town | 210971 | [210971-insane-town.json](./210971-insane-town.json) |
