@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Ball HD | 41525 | [41525-jet-ball-hd.json](./41525-jet-ball-hd.json) |
 | Jet Battle 3D | 88480 | [88480-jet-battle-3d.json](./88480-jet-battle-3d.json) |
 | Jet Bike Simulator | 55211 | [55211-jet-bike-simulator.json](./55211-jet-bike-simulator.json) |
+| Jet Birds | 427663 | [427663-jet-birds.json](./427663-jet-birds.json) |
 | Jet Blaster | 239905 | [239905-jet-blaster.json](./239905-jet-blaster.json) |
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Boat 2 | 201945 | [201945-jet-boat-2.json](./201945-jet-boat-2.json) |
