@@ -4617,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Swipe | 235057 | [235057-kitchen-swipe.json](./235057-kitchen-swipe.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
+| Kitchen Tidy | 425369 | [425369-kitchen-tidy.json](./425369-kitchen-tidy.json) |
 | Kitchen Trials: Rush | 311524 | [311524-kitchen-trials-rush.json](./311524-kitchen-trials-rush.json) |
 | Kitchen War | 195045 | [195045-kitchen-war.json](./195045-kitchen-war.json) |
 | Kitchen War | 246464 | [246464-kitchen-war.json](./246464-kitchen-war.json) |
