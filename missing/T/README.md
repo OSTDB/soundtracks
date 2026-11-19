@@ -8636,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cowlitz Gamers' 2nd Adventure | 122455 | [122455-the-cowlitz-gamers-2nd-adventure.json](./122455-the-cowlitz-gamers-2nd-adventure.json) |
 | The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
 | The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
+| The Cozy Funemployment | 423019 | [423019-the-cozy-funemployment.json](./423019-the-cozy-funemployment.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack | 290034 | [290034-the-crack.json](./290034-the-crack.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Party | 81905 | [81905-the-evil-party.json](./81905-the-evil-party.json) |
 | The Evil Pen Pal | 206266 | [206266-the-evil-pen-pal.json](./206266-the-evil-pen-pal.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
+| The Evil Rise | 423018 | [423018-the-evil-rise.json](./423018-the-evil-rise.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
 | The Evil Unleashed | 313836 | [313836-the-evil-unleashed.json](./313836-the-evil-unleashed.json) |
 | The Evil Within Bundle | 154961 | [154961-the-evil-within-bundle.json](./154961-the-evil-within-bundle.json) |
@@ -15440,6 +15442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man Man | 281824 | [281824-the-man-man.json](./281824-the-man-man.json) |
 | The Man of My Dreams | 377954 | [377954-the-man-of-my-dreams.json](./377954-the-man-of-my-dreams.json) |
 | The Man Outside | 323396 | [323396-the-man-outside.json](./323396-the-man-outside.json) |
+| The Man Who Bled The Kingdom | 423016 | [423016-the-man-who-bled-the-kingdom.json](./423016-the-man-who-bled-the-kingdom.json) |
 | The Man Who Calls the Shots | 114630 | [114630-the-man-who-calls-the-shots.json](./114630-the-man-who-calls-the-shots.json) |
 | The Man Who Killed Time | 59681 | [59681-the-man-who-killed-time.json](./59681-the-man-who-killed-time.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
@@ -16999,6 +17002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Phoenix Initiative | 244980 | [244980-the-phoenix-initiative.json](./244980-the-phoenix-initiative.json) |
 | The Phoenix Protocol | 279504 | [279504-the-phoenix-protocol.json](./279504-the-phoenix-protocol.json) |
+| The Phone Game | 423022 | [423022-the-phone-game.json](./423022-the-phone-game.json) |
 | The Phone Rings | 266716 | [266716-the-phone-rings.json](./266716-the-phone-rings.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
@@ -27547,6 +27551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To-Fu Ninja - Fruit Yama Style | 174565 | [174565-to-fu-ninja-fruit-yama-style.json](./174565-to-fu-ninja-fruit-yama-style.json) |
 | To-Fu Oh! Sushi | 252139 | [252139-to-fu-oh-sushi.json](./252139-to-fu-oh-sushi.json) |
 | To-Fu: The Trials of Chi | 364556 | [364556-to-fu-the-trials-of-chi.json](./364556-to-fu-the-trials-of-chi.json) |
+| TO-KAY: Thailand Quest | 423015 | [423015-to-kay-thailand-quest.json](./423015-to-kay-thailand-quest.json) |
 | TO: Crossfire | 272321 | [272321-to-crossfire.json](./272321-to-crossfire.json) |
 | To:ri | 317222 | [317222-to-ri.json](./317222-to-ri.json) |
 | TO4: Tactical Operations | 74784 | [74784-to4-tactical-operations.json](./74784-to4-tactical-operations.json) |
