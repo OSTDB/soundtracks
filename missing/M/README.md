@@ -17540,8 +17540,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
 | Monkey | 363612 | [363612-monkey.json](./363612-monkey.json) |
+| Monkey | 422344 | [422344-monkey.json](./422344-monkey.json) |
 | Monkey Academy | 40886 | [40886-monkey-academy.json](./40886-monkey-academy.json) |
 | Monkey Adventure | 201542 | [201542-monkey-adventure.json](./201542-monkey-adventure.json) |
+| Monkey Archival Expedition | 422353 | [422353-monkey-archival-expedition.json](./422353-monkey-archival-expedition.json) |
 | Monkey Ascend! | 254113 | [254113-monkey-ascend.json](./254113-monkey-ascend.json) |
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
