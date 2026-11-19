@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
+| Sara the Slutty Lusty Agent | 427751 | [427751-sara-the-slutty-lusty-agent.json](./427751-sara-the-slutty-lusty-agent.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarab 2: Thalj Mountains | 312992 | [312992-sarab-2-thalj-mountains.json](./312992-sarab-2-thalj-mountains.json) |
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
@@ -7757,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Ether | 239767 | [239767-shadow-of-ether.json](./239767-shadow-of-ether.json) |
 | Shadow of Fear | 273425 | [273425-shadow-of-fear.json](./273425-shadow-of-fear.json) |
 | Shadow of Ganymede | 43337 | [43337-shadow-of-ganymede.json](./43337-shadow-of-ganymede.json) |
+| Shadow of Juarez | 427806 | [427806-shadow-of-juarez.json](./427806-shadow-of-juarez.json) |
 | Shadow of Kingdoms | 34813 | [34813-shadow-of-kingdoms.json](./34813-shadow-of-kingdoms.json) |
 | Shadow of Light | 337686 | [337686-shadow-of-light.json](./337686-shadow-of-light.json) |
 | Shadow of Loot Box: Limited Edition | 166258 | [166258-shadow-of-loot-box-limited-edition.json](./166258-shadow-of-loot-box-limited-edition.json) |
@@ -15823,6 +15825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimesphere | 136632 | [136632-slimesphere.json](./136632-slimesphere.json) |
 | Slimestone | 421787 | [421787-slimestone.json](./421787-slimestone.json) |
 | Slimesventure: Your Destination | 199714 | [199714-slimesventure-your-destination.json](./199714-slimesventure-your-destination.json) |
+| Slimetopia | 427784 | [427784-slimetopia.json](./427784-slimetopia.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | SlimeVille Online | 410585 | [410585-slimeville-online.json](./410585-slimeville-online.json) |
 | Slimeward | 373084 | [373084-slimeward.json](./373084-slimeward.json) |
@@ -21734,6 +21737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souno's Curse | 169130 | [169130-sounos-curse.json](./169130-sounos-curse.json) |
 | Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup | 33676 | [33676-soup.json](./33676-soup.json) |
+| Soup | 427765 | [427765-soup.json](./427765-soup.json) |
 | Soup Adventure | 384409 | [384409-soup-adventure.json](./384409-soup-adventure.json) |
 | Soup Boy Goes to the Soup Convention | 320712 | [320712-soup-boy-goes-to-the-soup-convention.json](./320712-soup-boy-goes-to-the-soup-convention.json) |
 | Soup Pot | 145087 | [145087-soup-pot.json](./145087-soup-pot.json) |
@@ -24084,6 +24088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Kayak | 251333 | [251333-speed-kayak.json](./251333-speed-kayak.json) |
 | Speed Kills | 10837 | [10837-speed-kills.json](./10837-speed-kills.json) |
 | Speed King | 28571 | [28571-speed-king.json](./28571-speed-king.json) |
+| Speed King | 427770 | [427770-speed-king.json](./427770-speed-king.json) |
 | Speed King 2 | 57601 | [57601-speed-king-2.json](./57601-speed-king-2.json) |
 | Speed Kings | 4163 | [4163-speed-kings.json](./4163-speed-kings.json) |
 | Speed Legacy: Ultimate Drive | 378186 | [378186-speed-legacy-ultimate-drive.json](./378186-speed-legacy-ultimate-drive.json) |
@@ -29642,6 +29647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STE : Save the Earth | 95220 | [95220-ste-save-the-earth.json](./95220-ste-save-the-earth.json) |
 | Steadfast | 178716 | [178716-steadfast.json](./178716-steadfast.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
+| Steadfast | 427803 | [427803-steadfast.json](./427803-steadfast.json) |
 | Steady | 169642 | [169642-steady.json](./169642-steady.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steak Stacker | 350597 | [350597-steak-stacker.json](./350597-steak-stacker.json) |
@@ -41420,6 +41426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System of Souls | 204995 | [204995-system-of-souls.json](./204995-system-of-souls.json) |
 | System Overload | 390218 | [390218-system-overload.json](./390218-system-overload.json) |
+| System Overload | 427766 | [427766-system-overload.json](./427766-system-overload.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Protocol One | 78224 | [78224-system-protocol-one.json](./78224-system-protocol-one.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
