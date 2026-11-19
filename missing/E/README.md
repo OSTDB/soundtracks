@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Commerce Simulator 2025 | 329331 | [329331-e-commerce-simulator-2025.json](./329331-e-commerce-simulator-2025.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
+| E-Files | 426578 | [426578-e-files.json](./426578-e-files.json) |
 | E-Genes: Funtball | 255411 | [255411-e-genes-funtball.json](./255411-e-genes-funtball.json) |
 | E-Girl Next Door | 211508 | [211508-e-girl-next-door.json](./211508-e-girl-next-door.json) |
 | E-Girl RoomMate | 290908 | [290908-e-girl-roommate.json](./290908-e-girl-roommate.json) |
@@ -7770,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Seen A Cat? 2 | 202531 | [202531-ever-seen-a-cat-2.json](./202531-ever-seen-a-cat-2.json) |
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
 | Ever Shrine | 268791 | [268791-ever-shrine.json](./268791-ever-shrine.json) |
+| Ever Spire | 426580 | [426580-ever-spire.json](./426580-ever-spire.json) |
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
 | Ever, Jane | 70139 | [70139-ever-jane.json](./70139-ever-jane.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
