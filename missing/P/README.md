@@ -10211,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Arcade | 128912 | [128912-pizza-time-arcade.json](./128912-pizza-time-arcade.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
+| Pizza Titan Ultra | 56782 | [56782-pizza-titan-ultra.json](./56782-pizza-titan-ultra.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower | 135818 | [135818-pizza-tower.json](./135818-pizza-tower.json) |
 | Pizza Tower '19 Plus | 316318 | [316318-pizza-tower-19-plus.json](./316318-pizza-tower-19-plus.json) |
@@ -14582,6 +14583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
 | PopCap Hits! Vol 1 | 57229 | [57229-popcap-hits-vol-1.json](./57229-popcap-hits-vol-1.json) |
+| PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
 | Popcorn Chef | 415202 | [415202-popcorn-chef.json](./415202-popcorn-chef.json) |
@@ -20278,6 +20280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Explorer | 266587 | [266587-purple-explorer.json](./266587-purple-explorer.json) |
 | Purple Fantasy | 213610 | [213610-purple-fantasy.json](./213610-purple-fantasy.json) |
 | Purple Game | 316358 | [316358-purple-game.json](./316358-purple-game.json) |
+| Purple Heart | 56890 | [56890-purple-heart.json](./56890-purple-heart.json) |
 | Purple Noise Echo | 120711 | [120711-purple-noise-echo.json](./120711-purple-noise-echo.json) |
 | Purple Orchid | 298840 | [298840-purple-orchid.json](./298840-purple-orchid.json) |
 | Purple Pink Chinese Food | 299237 | [299237-purple-pink-chinese-food.json](./299237-purple-pink-chinese-food.json) |
