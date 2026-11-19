@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rising | 72482 | [72482-dark-rising.json](./72482-dark-rising.json) |
 | Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
+| Dark Roll 2 | 423013 | [423013-dark-roll-2.json](./423013-dark-roll-2.json) |
 | Dark Roll: Free Kick Challenge | 157943 | [157943-dark-roll-free-kick-challenge.json](./157943-dark-roll-free-kick-challenge.json) |
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Ashville - Collector's Edition | 132432 | [132432-dark-romance-ashville-collectors-edition.json](./132432-dark-romance-ashville-collectors-edition.json) |
@@ -6616,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
+| Defense Front | 423033 | [423033-defense-front.json](./423033-defense-front.json) |
 | Defense Golem | 319422 | [319422-defense-golem.json](./319422-defense-golem.json) |
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Aftermath | 394257 | [394257-defense-grid-2-aftermath.json](./394257-defense-grid-2-aftermath.json) |
@@ -9497,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour: The Carnival | 375085 | [375085-devour-the-carnival.json](./375085-devour-the-carnival.json) |
 | Devoured by Darkness | 216015 | [216015-devoured-by-darkness.json](./216015-devoured-by-darkness.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
+| Devouring City | 422996 | [422996-devouring-city.json](./422996-devouring-city.json) |
 | Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
 | Devtheism | 134512 | [134512-devtheism.json](./134512-devtheism.json) |
 | DevTycoon | 329780 | [329780-devtycoon.json](./329780-devtycoon.json) |
@@ -15310,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Survival:Training | 30657 | [30657-doomsday-survival-training.json](./30657-doomsday-survival-training.json) |
 | Doomsday Survivors | 239394 | [239394-doomsday-survivors.json](./239394-doomsday-survivors.json) |
 | Doomsday Tower Defense | 357838 | [357838-doomsday-tower-defense.json](./357838-doomsday-tower-defense.json) |
+| Doomsday Train | 423010 | [423010-doomsday-train.json](./423010-doomsday-train.json) |
 | Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomsday: Last Survivors | 187739 | [187739-doomsday-last-survivors.json](./187739-doomsday-last-survivors.json) |
 | Doomspire | 345196 | [345196-doomspire.json](./345196-doomspire.json) |
@@ -19614,6 +19618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drown the Bride | 318691 | [318691-drown-the-bride.json](./318691-drown-the-bride.json) |
 | Drowned | 217138 | [217138-drowned.json](./217138-drowned.json) |
 | Drowned Caves | 402501 | [402501-drowned-caves.json](./402501-drowned-caves.json) |
+| Drowned Echo | 423021 | [423021-drowned-echo.json](./423021-drowned-echo.json) |
 | Drowned Gems | 148282 | [148282-drowned-gems.json](./148282-drowned-gems.json) |
 | Drowned God: Conspiracy of the Ages | 12421 | [12421-drowned-god-conspiracy-of-the-ages.json](./12421-drowned-god-conspiracy-of-the-ages.json) |
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
