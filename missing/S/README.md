@@ -13543,6 +13543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sit-Back Attack | 327734 | [327734-sit-back-attack.json](./327734-sit-back-attack.json) |
 | Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | SitBar's CT Pack | 211843 | [211843-sitbars-ct-pack.json](./211843-sitbars-ct-pack.json) |
+| Site Burial | 422355 | [422355-site-burial.json](./422355-site-burial.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sítio do Pica-Pau Amarelo | 81031 | [81031-sitio-do-pica-pau-amarelo.json](./81031-sitio-do-pica-pau-amarelo.json) |
 | Sítio do Picapau Amarelo: A Nova Aritmética da Emília | 286931 | [286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json](./286931-sitio-do-picapau-amarelo-a-nova-aritmetica-da-emilia.json) |
@@ -16926,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurf: Rescue in Gargamel's Castle | 8080 | [8080-smurf-rescue-in-gargamels-castle.json](./8080-smurf-rescue-in-gargamels-castle.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
+| Smurfs 2-In-1 Game Collection | 422380 | [422380-smurfs-2-in-1-game-collection.json](./422380-smurfs-2-in-1-game-collection.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
 | Smurfs Bubble Shooter Story | 99851 | [99851-smurfs-bubble-shooter-story.json](./99851-smurfs-bubble-shooter-story.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
@@ -26697,6 +26699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Fishing Builder | 340176 | [340176-square-fishing-builder.json](./340176-square-fishing-builder.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
+| Square Force | 422266 | [422266-square-force.json](./422266-square-force.json) |
 | Square Game | 159955 | [159955-square-game.json](./159955-square-game.json) |
 | Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
