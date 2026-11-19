@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
 | Panzer Corps 2: Axis Operations - 1946 | 270062 | [270062-panzer-corps-2-axis-operations-1946.json](./270062-panzer-corps-2-axis-operations-1946.json) |
 | Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
+| Panzer Corps 2: Elite - 1st Guards | 430388 | [430388-panzer-corps-2-elite-1st-guards.json](./430388-panzer-corps-2-elite-1st-guards.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps 2: Frontlines - Cyrenaica | 361177 | [361177-panzer-corps-2-frontlines-cyrenaica.json](./361177-panzer-corps-2-frontlines-cyrenaica.json) |
 | Panzer Corps 2: Frontlines - Westwall | 361176 | [361176-panzer-corps-2-frontlines-westwall.json](./361176-panzer-corps-2-frontlines-westwall.json) |
