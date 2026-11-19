@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
 | Rainforest Cascade | 69845 | [69845-rainforest-cascade.json](./69845-rainforest-cascade.json) |
 | Rainforest Solitaire | 380929 | [380929-rainforest-solitaire.json](./380929-rainforest-solitaire.json) |
+| Rainfusor | 424220 | [424220-rainfusor.json](./424220-rainfusor.json) |
 | Raini: The Lords of Light | 257019 | [257019-raini-the-lords-of-light.json](./257019-raini-the-lords-of-light.json) |
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
@@ -6724,6 +6725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReStory: Chill Electronics Repairs | 380960 | [380960-restory-chill-electronics-repairs.json](./380960-restory-chill-electronics-repairs.json) |
 | Restrain | 286750 | [286750-restrain.json](./286750-restrain.json) |
 | ReStreamed | 179608 | [179608-restreamed.json](./179608-restreamed.json) |
+| ReStreet | 424214 | [424214-restreet.json](./424214-restreet.json) |
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
@@ -7449,6 +7451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
 | Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reverie | 338839 | [338839-reverie.json](./338839-reverie.json) |
+| Reverie | 424215 | [424215-reverie.json](./424215-reverie.json) |
 | Reverie | 56869 | [56869-reverie.json](./56869-reverie.json) |
 | Rêverie | 215825 | [215825-reverie.json](./215825-reverie.json) |
 | Reverie in the Moonlight | 347433 | [347433-reverie-in-the-moonlight.json](./347433-reverie-in-the-moonlight.json) |
@@ -7701,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite Harvest festa! | 144733 | [144733-rewrite-harvest-festa.json](./144733-rewrite-harvest-festa.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
+| Rewrite: Cradles Tale | 424218 | [424218-rewrite-cradles-tale.json](./424218-rewrite-cradles-tale.json) |
 | Rewrite+ | 172548 | [172548-rewrite.json](./172548-rewrite.json) |
 | Rewriter | 181632 | [181632-rewriter.json](./181632-rewriter.json) |
 | Rewritten | 294552 | [294552-rewritten.json](./294552-rewritten.json) |
@@ -12414,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Girl Paradise | 343154 | [343154-room-girl-paradise.json](./343154-room-girl-paradise.json) |
 | Room In Dream | 260433 | [260433-room-in-dream.json](./260433-room-in-dream.json) |
 | Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
+| Room Movers | 424231 | [424231-room-movers.json](./424231-room-movers.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
 | Room of Batik | 183161 | [183161-room-of-batik.json](./183161-room-of-batik.json) |
@@ -12662,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose and Lotus: Petals of Memories | 250986 | [250986-rose-and-lotus-petals-of-memories.json](./250986-rose-and-lotus-petals-of-memories.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
+| Rose Cottage | 424205 | [424205-rose-cottage.json](./424205-rose-cottage.json) |
 | Rose From The Depths | 249623 | [249623-rose-from-the-depths.json](./249623-rose-from-the-depths.json) |
 | Rose Garden at the World's End | 119830 | [119830-rose-garden-at-the-worlds-end.json](./119830-rose-garden-at-the-worlds-end.json) |
 | Rose Guns Days | 65427 | [65427-rose-guns-days.json](./65427-rose-guns-days.json) |
