@@ -8728,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Season 7 | 305243 | [305243-the-crew-motorfest-season-7.json](./305243-the-crew-motorfest-season-7.json) |
 | The Crew: Motorfest - Season 8 | 408847 | [408847-the-crew-motorfest-season-8.json](./408847-the-crew-motorfest-season-8.json) |
 | The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
+| The Crew: Motorfest - Special Edition | 422381 | [422381-the-crew-motorfest-special-edition.json](./422381-the-crew-motorfest-special-edition.json) |
 | The Crew: Motorfest - Triple Bike Pack | 393737 | [393737-the-crew-motorfest-triple-bike-pack.json](./393737-the-crew-motorfest-triple-bike-pack.json) |
 | The Crew: Motorfest - Ultimate Edition | 253064 | [253064-the-crew-motorfest-ultimate-edition.json](./253064-the-crew-motorfest-ultimate-edition.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
@@ -13963,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sip | 350953 | [350953-the-last-sip.json](./350953-the-last-sip.json) |
 | The Last Ski Trip | 357586 | [357586-the-last-ski-trip.json](./357586-the-last-ski-trip.json) |
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
+| The Last Slava | 422269 | [422269-the-last-slava.json](./422269-the-last-slava.json) |
 | The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Soldier of the Ming Dynasty | 278802 | [278802-the-last-soldier-of-the-ming-dynasty.json](./278802-the-last-soldier-of-the-ming-dynasty.json) |
@@ -14395,6 +14397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
 | The Legend of The Blue Warrior | 147583 | [147583-the-legend-of-the-blue-warrior.json](./147583-the-legend-of-the-blue-warrior.json) |
 | The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
+| The Legend of the Crystal Revolver | 422264 | [422264-the-legend-of-the-crystal-revolver.json](./422264-the-legend-of-the-crystal-revolver.json) |
 | The Legend of the Darkest Night | 179265 | [179265-the-legend-of-the-darkest-night.json](./179265-the-legend-of-the-darkest-night.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
@@ -22534,6 +22537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Hunger: Episode 1 | 268004 | [268004-they-hunger-episode-1.json](./268004-they-hunger-episode-1.json) |
 | They Hunger: Lost Souls | 73003 | [73003-they-hunger-lost-souls.json](./73003-they-hunger-lost-souls.json) |
 | They Hunger: Trilogy | 150230 | [150230-they-hunger-trilogy.json](./150230-they-hunger-trilogy.json) |
+| They Keep Rolling: Incremental Ball Roller | 422341 | [422341-they-keep-rolling-incremental-ball-roller.json](./422341-they-keep-rolling-incremental-ball-roller.json) |
 | They Killed Your Cat | 392679 | [392679-they-killed-your-cat.json](./392679-they-killed-your-cat.json) |
 | They Know | 283232 | [283232-they-know.json](./283232-they-know.json) |
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
@@ -28151,6 +28155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
+| Tokyo Wanted | 422368 | [422368-tokyo-wanted.json](./422368-tokyo-wanted.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
 | Tokyo Warfare Turbo | 114443 | [114443-tokyo-warfare-turbo.json](./114443-tokyo-warfare-turbo.json) |
 | Tokyo Wars | 66860 | [66860-tokyo-wars.json](./66860-tokyo-wars.json) |
@@ -28389,6 +28394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
 | Tom Clancy's The Division 2 - Bedlam Pack | 408973 | [408973-tom-clancys-the-division-2-bedlam-pack.json](./408973-tom-clancys-the-division-2-bedlam-pack.json) |
+| Tom Clancy's The Division 2 - Washington D.C. Edition | 422378 | [422378-tom-clancys-the-division-2-washington-d-c-edition.json](./422378-tom-clancys-the-division-2-washington-d-c-edition.json) |
 | Tom Clancy's The Division 2: Clawed Pack | 409086 | [409086-tom-clancys-the-division-2-clawed-pack.json](./409086-tom-clancys-the-division-2-clawed-pack.json) |
 | Tom Clancy's The Division 2: Dark Zone Edition | 112646 | [112646-tom-clancys-the-division-2-dark-zone-edition.json](./112646-tom-clancys-the-division-2-dark-zone-edition.json) |
 | Tom Clancy's The Division 2: Episode 1 - D.C. Outskirts: Expeditions | 120553 | [120553-tom-clancys-the-division-2-episode-1-d-c-outskirts-expeditions.json](./120553-tom-clancys-the-division-2-episode-1-d-c-outskirts-expeditions.json) |
