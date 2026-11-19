@@ -6435,7 +6435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
 | Chain Champ | 191947 | [191947-chain-champ.json](./191947-chain-champ.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
-| Chain Chronicle | 20061 | [20061-chain-chronicle.json](./20061-chain-chronicle.json) |
 | Chain Chronicle V | 222657 | [222657-chain-chronicle-v.json](./222657-chain-chronicle-v.json) |
 | Chain Corp | 351115 | [351115-chain-corp.json](./351115-chain-corp.json) |
 | Chain Crisis | 271288 | [271288-chain-crisis.json](./271288-chain-crisis.json) |
