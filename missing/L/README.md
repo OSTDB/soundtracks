@@ -6844,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Heroes | 283067 | [283067-little-heroes.json](./283067-little-heroes.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
+| Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
 | Little Hoarder | 346521 | [346521-little-hoarder.json](./346521-little-hoarder.json) |
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Hooky | 318346 | [318346-little-hooky.json](./318346-little-hooky.json) |
@@ -8144,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolly Joe | 33660 | [33660-lolly-joe.json](./33660-lolly-joe.json) |
 | Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
+| Lolo: Puzzle Game | 86937 | [86937-lolo-puzzle-game.json](./86937-lolo-puzzle-game.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
 | Lomando.com | 341303 | [341303-lomando-com.json](./341303-lomando-com.json) |
 | Lombard RAC Rally | 12920 | [12920-lombard-rac-rally.json](./12920-lombard-rac-rally.json) |
@@ -8257,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Highway | 415673 | [415673-lonely-highway.json](./415673-lonely-highway.json) |
 | Lonely Hospital: Revelations | 425384 | [425384-lonely-hospital-revelations.json](./425384-lonely-hospital-revelations.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
+| Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
 | Lonely Knight | 195123 | [195123-lonely-knight.json](./195123-lonely-knight.json) |
