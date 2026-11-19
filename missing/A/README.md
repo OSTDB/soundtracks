@@ -4682,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
+| Aegis Legends | 60211 | [60211-aegis-legends.json](./60211-aegis-legends.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
@@ -12994,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
 | Anthill | 179919 | [179919-anthill.json](./179919-anthill.json) |
+| Anthill | 59904 | [59904-anthill.json](./59904-anthill.json) |
 | Anthill Conquer | 176562 | [176562-anthill-conquer.json](./176562-anthill-conquer.json) |
 | Anthill Village | 343048 | [343048-anthill-village.json](./343048-anthill-village.json) |
 | Anthology | 38204 | [38204-anthology.json](./38204-anthology.json) |
@@ -18885,6 +18887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
 | Astronaut Training | 238791 | [238791-astronaut-training.json](./238791-astronaut-training.json) |
+| Astronaut: The Best | 57947 | [57947-astronaut-the-best.json](./57947-astronaut-the-best.json) |
 | Astronaut: The Moon Eclipse | 110475 | [110475-astronaut-the-moon-eclipse.json](./110475-astronaut-the-moon-eclipse.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
 | Astronautilus | 191142 | [191142-astronautilus.json](./191142-astronautilus.json) |
