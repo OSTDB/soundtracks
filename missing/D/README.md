@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Darkness Rising | 70754 | [70754-dark-age-of-camelot-darkness-rising.json](./70754-dark-age-of-camelot-darkness-rising.json) |
+| Dark Age: Tokens of the Fallen | 420292 | [420292-dark-age-tokens-of-the-fallen.json](./420292-dark-age-tokens-of-the-fallen.json) |
 | Dark Ages | 11726 | [11726-dark-ages.json](./11726-dark-ages.json) |
 | Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
 | Dark Tide | 261498 | [261498-dark-tide.json](./261498-dark-tide.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
+| Dark Tidings Online | 420294 | [420294-dark-tidings-online.json](./420294-dark-tidings-online.json) |
 | Dark Ties | 369849 | [369849-dark-ties.json](./369849-dark-ties.json) |
 | Dark Times | 276436 | [276436-dark-times.json](./276436-dark-times.json) |
 | Dark Tonic's Blunderbusted: Guns Out, Bluns Out | 296884 | [296884-dark-tonics-blunderbusted-guns-out-bluns-out.json](./296884-dark-tonics-blunderbusted-guns-out-bluns-out.json) |
@@ -4236,7 +4238,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
 | Dead Man's Rest | 150322 | [150322-dead-mans-rest.json](./150322-dead-mans-rest.json) |
 | Dead Man's Trail | 81669 | [81669-dead-mans-trail.json](./81669-dead-mans-trail.json) |
+| Dead March: Dark Lord Rising | 420291 | [420291-dead-march-dark-lord-rising.json](./420291-dead-march-dark-lord-rising.json) |
 | Dead Margin | 418489 | [418489-dead-margin.json](./418489-dead-margin.json) |
+| Dead Market | 420284 | [420284-dead-market.json](./420284-dead-market.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
@@ -5237,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Metal Derby | 361019 | [361019-death-metal-derby.json](./361019-death-metal-derby.json) |
 | Death Metro | 177200 | [177200-death-metro.json](./177200-death-metro.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
+| Death Momotaro | 420274 | [420274-death-momotaro.json](./420274-death-momotaro.json) |
 | Death Moon | 156712 | [156712-death-moon.json](./156712-death-moon.json) |
 | Death Moon | 316962 | [316962-death-moon.json](./316962-death-moon.json) |
 | Death Motel | 283281 | [283281-death-motel.json](./283281-death-motel.json) |
@@ -18137,6 +18142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadline | 65144 | [65144-dreadline.json](./65144-dreadline.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadlines | 415713 | [415713-dreadlines.json](./415713-dreadlines.json) |
+| Dreadmark | 420295 | [420295-dreadmark.json](./420295-dreadmark.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | Dreadmire | 114675 | [114675-dreadmire.json](./114675-dreadmire.json) |
 | DreadMist | 346365 | [346365-dreadmist.json](./346365-dreadmist.json) |
