@@ -3923,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries 2: High Voltage | 89632 | [89632-new-york-mysteries-2-high-voltage.json](./89632-new-york-mysteries-2-high-voltage.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
 | New York Mysteries 5: Power of Art | 418315 | [418315-new-york-mysteries-5-power-of-art.json](./418315-new-york-mysteries-5-power-of-art.json) |
+| New York Mysteries 6: The Undying | 428300 | [428300-new-york-mysteries-6-the-undying.json](./428300-new-york-mysteries-6-the-undying.json) |
 | New York Mysteries: High Voltage | 34697 | [34697-new-york-mysteries-high-voltage.json](./34697-new-york-mysteries-high-voltage.json) |
 | New York Mysteries: Power of Art | 255307 | [255307-new-york-mysteries-power-of-art.json](./255307-new-york-mysteries-power-of-art.json) |
 | New York Mysteries: Power of Art - Collector's Edition | 339642 | [339642-new-york-mysteries-power-of-art-collectors-edition.json](./339642-new-york-mysteries-power-of-art-collectors-edition.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No.HazedHeart | 272963 | [272963-no-hazedheart.json](./272963-no-hazedheart.json) |
 | No.L85 | 148763 | [148763-no-l85.json](./148763-no-l85.json) |
 | No1Left | 34283 | [34283-no1left.json](./34283-no1left.json) |
+| Noa and the Bandits' Den | 428201 | [428201-noa-and-the-bandits-den.json](./428201-noa-and-the-bandits-den.json) |
 | Noa Noa! | 115029 | [115029-noa-noa.json](./115029-noa-noa.json) |
 | Noa Uchu Sanki | 196349 | [196349-noa-uchu-sanki.json](./196349-noa-uchu-sanki.json) |
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
