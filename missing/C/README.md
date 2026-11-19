@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
 | Carl's Freakin' Strip Poker | 397330 | [397330-carls-freakin-strip-poker.json](./397330-carls-freakin-strip-poker.json) |
 | CarLife Simulator | 254000 | [254000-carlife-simulator.json](./254000-carlife-simulator.json) |
+| Carlito | 428326 | [428326-carlito.json](./428326-carlito.json) |
 | Carlo Adventure Legend | 138618 | [138618-carlo-adventure-legend.json](./138618-carlo-adventure-legend.json) |
 | Carlos | 92798 | [92798-carlos.json](./92798-carlos.json) |
 | Carlos & Maria: Pearl Madness | 321102 | [321102-carlos-and-maria-pearl-madness.json](./321102-carlos-and-maria-pearl-madness.json) |
@@ -8861,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobin-Go-Round | 391285 | [391285-chobin-go-round.json](./391285-chobin-go-round.json) |
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
+| Chobots | 428325 | [428325-chobots.json](./428325-chobots.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
 | Chocks Away | 37221 | [37221-chocks-away.json](./37221-chocks-away.json) |
@@ -12940,6 +12942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
+| Code Market | 428309 | [428309-code-market.json](./428309-code-market.json) |
 | Code Moo | 318929 | [318929-code-moo.json](./318929-code-moo.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code name Hell Squad | 78403 | [78403-code-name-hell-squad.json](./78403-code-name-hell-squad.json) |
