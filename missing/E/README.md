@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Resonance | 423074 | [423074-echo-resonance.json](./423074-echo-resonance.json) |
 | Echo Rift | 344047 | [344047-echo-rift.json](./344047-echo-rift.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
+| Echo Sequence | 423003 | [423003-echo-sequence.json](./423003-echo-sequence.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Stalker | 425408 | [425408-echo-stalker.json](./425408-echo-stalker.json) |
 | Echo Storm | 238473 | [238473-echo-storm.json](./238473-echo-storm.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
 | Every Letter | 198624 | [198624-every-letter.json](./198624-every-letter.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
+| Every Man for Himself and God Against All or, for a shorter name: TimeLeft | 423001 | [423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json](./423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
 | Every Party | 70529 | [70529-every-party.json](./70529-every-party.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
