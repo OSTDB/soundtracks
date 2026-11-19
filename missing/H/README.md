@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatfields and McCoys | 209864 | [209864-hatfields-and-mccoys.json](./209864-hatfields-and-mccoys.json) |
 | HatLand | 247970 | [247970-hatland.json](./247970-hatland.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
+| Hatman | 427773 | [427773-hatman.json](./427773-hatman.json) |
 | Hatman | 57239 | [57239-hatman.json](./57239-hatman.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatoful Boyfriend | 8874 | [8874-hatoful-boyfriend.json](./8874-hatoful-boyfriend.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
 | Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
+| Hentai Balloons 2: Cheerleader DLC 3 | 427752 | [427752-hentai-balloons-2-cheerleader-dlc-3.json](./427752-hentai-balloons-2-cheerleader-dlc-3.json) |
 | Hentai Balloons 2: Chef DLC 2 | 426346 | [426346-hentai-balloons-2-chef-dlc-2.json](./426346-hentai-balloons-2-chef-dlc-2.json) |
 | Hentai Balloons 2: Neko DLC 3 | 426345 | [426345-hentai-balloons-2-neko-dlc-3.json](./426345-hentai-balloons-2-neko-dlc-3.json) |
 | Hentai Balls 3D: Heavy Attraction | 380701 | [380701-hentai-balls-3d-heavy-attraction.json](./380701-hentai-balls-3d-heavy-attraction.json) |
@@ -6325,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Cheating Family | 371381 | [371381-hentai-tales-cheating-family.json](./371381-hentai-tales-cheating-family.json) |
 | Hentai Tales: Conception Shrine | 294964 | [294964-hentai-tales-conception-shrine.json](./294964-hentai-tales-conception-shrine.json) |
 | Hentai Tales: Creampie Cuckold Wife | 389607 | [389607-hentai-tales-creampie-cuckold-wife.json](./389607-hentai-tales-creampie-cuckold-wife.json) |
+| Hentai Tales: Humanoid Doll | 427753 | [427753-hentai-tales-humanoid-doll.json](./427753-hentai-tales-humanoid-doll.json) |
 | Hentai Tales: Hunt of Two Temptresses | 368100 | [368100-hentai-tales-hunt-of-two-temptresses.json](./368100-hentai-tales-hunt-of-two-temptresses.json) |
 | Hentai Tales: Infinite Climax - Endless Ecstasy | 398650 | [398650-hentai-tales-infinite-climax-endless-ecstasy.json](./398650-hentai-tales-infinite-climax-endless-ecstasy.json) |
 | Hentai Tales: Isekai Uncle Reversal | 367029 | [367029-hentai-tales-isekai-uncle-reversal.json](./367029-hentai-tales-isekai-uncle-reversal.json) |
@@ -14527,6 +14530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperCore: Out of Dimension | 120887 | [120887-hypercore-out-of-dimension.json](./120887-hypercore-out-of-dimension.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | Hypercoven | 256784 | [256784-hypercoven.json](./256784-hypercoven.json) |
+| HyperCross | 427782 | [427782-hypercross.json](./427782-hypercross.json) |
 | Hypercube: Source | 273293 | [273293-hypercube-source.json](./273293-hypercube-source.json) |
 | Hypercut | 405252 | [405252-hypercut.json](./405252-hypercut.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
