@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: A-10C II Tank Killer | 156307 | [156307-dcs-world-a-10c-ii-tank-killer.json](./156307-dcs-world-a-10c-ii-tank-killer.json) |
 | DCS World: A-10C II Tank Killer Operation Persian Freedom Campaign | 156278 | [156278-dcs-world-a-10c-ii-tank-killer-operation-persian-freedom-campaign.json](./156278-dcs-world-a-10c-ii-tank-killer-operation-persian-freedom-campaign.json) |
 | DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations | 325720 | [325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json](./325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json) |
+| DCS World: A-10C Warthog | 22649 | [22649-dcs-world-a-10c-warthog.json](./22649-dcs-world-a-10c-warthog.json) |
 | DCS World: A-10C Warthog - The Enemy Within 3.0 Campaign | 156298 | [156298-dcs-world-a-10c-warthog-the-enemy-within-3-0-campaign.json](./156298-dcs-world-a-10c-warthog-the-enemy-within-3-0-campaign.json) |
 | DCS World: Afghanistan | 332795 | [332795-dcs-world-afghanistan.json](./332795-dcs-world-afghanistan.json) |
 | DCS World: AH-64D | 195402 | [195402-dcs-world-ah-64d.json](./195402-dcs-world-ah-64d.json) |
