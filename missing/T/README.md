@@ -13380,6 +13380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
 | The King's League: Emblems | 294421 | [294421-the-kings-league-emblems.json](./294421-the-kings-league-emblems.json) |
 | The King's Legend | 359149 | [359149-the-kings-legend.json](./359149-the-kings-legend.json) |
+| The King's Message | 419309 | [419309-the-kings-message.json](./419309-the-kings-message.json) |
 | The King's New Castle | 116078 | [116078-the-kings-new-castle.json](./116078-the-kings-new-castle.json) |
 | The King's Odyssey | 185470 | [185470-the-kings-odyssey.json](./185470-the-kings-odyssey.json) |
 | The King's Request | 103193 | [103193-the-kings-request.json](./103193-the-kings-request.json) |
@@ -23942,6 +23943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
+| Tidy Up the Town | 419228 | [419228-tidy-up-the-town.json](./419228-tidy-up-the-town.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
@@ -28984,6 +28986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Loud | 120694 | [120694-too-loud.json](./120694-too-loud.json) |
 | Too Many Animals ! | 427270 | [427270-too-many-animals.json](./427270-too-many-animals.json) |
 | Too Many Bots | 366889 | [366889-too-many-bots.json](./366889-too-many-bots.json) |
+| Too Many Clankers | 419242 | [419242-too-many-clankers.json](./419242-too-many-clankers.json) |
 | Too Many Cooks | 250700 | [250700-too-many-cooks.json](./250700-too-many-cooks.json) |
 | Too Many Cooks | 375838 | [375838-too-many-cooks.json](./375838-too-many-cooks.json) |
 | Too Many F*cking Nazis | 396335 | [396335-too-many-f-cking-nazis.json](./396335-too-many-f-cking-nazis.json) |
@@ -37191,6 +37194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turgul: Rapid Fighting | 31028 | [31028-turgul-rapid-fighting.json](./31028-turgul-rapid-fighting.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
 | Turing Complete | 173321 | [173321-turing-complete.json](./173321-turing-complete.json) |
+| Turing Heads | 419387 | [419387-turing-heads.json](./419387-turing-heads.json) |
 | Turing Quest | 241142 | [241142-turing-quest.json](./241142-turing-quest.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
