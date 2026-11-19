@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Shit is Going to Happen | 240960 | [240960-weird-shit-is-going-to-happen.json](./240960-weird-shit-is-going-to-happen.json) |
 | Weird Simulator | 186470 | [186470-weird-simulator.json](./186470-weird-simulator.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
+| Weird Store | 427788 | [427788-weird-store.json](./427788-weird-store.json) |
 | Weird War: The Unknown Episode of World War II | 129543 | [129543-weird-war-the-unknown-episode-of-world-war-ii.json](./129543-weird-war-the-unknown-episode-of-world-war-ii.json) |
 | Weird Water World | 409629 | [409629-weird-water-world.json](./409629-weird-water-world.json) |
 | Weird West: Definitive Edition | 250504 | [250504-weird-west-definitive-edition.json](./250504-weird-west-definitive-edition.json) |
