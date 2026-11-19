@@ -10490,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The fall of the Buxhaven family | 184840 | [184840-the-fall-of-the-buxhaven-family.json](./184840-the-fall-of-the-buxhaven-family.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
 | The Fall of the Kingdom | 179509 | [179509-the-fall-of-the-kingdom.json](./179509-the-fall-of-the-kingdom.json) |
+| The Fall of Zorata | 421669 | [421669-the-fall-of-zorata.json](./421669-the-fall-of-zorata.json) |
 | The Fall: Act I | 318971 | [318971-the-fall-act-i.json](./318971-the-fall-act-i.json) |
 | The Fall: Last Days of Gaia | 76775 | [76775-the-fall-last-days-of-gaia.json](./76775-the-fall-last-days-of-gaia.json) |
 | The Fall: Mutant City | 304254 | [304254-the-fall-mutant-city.json](./304254-the-fall-mutant-city.json) |
@@ -14723,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Together Online | 373827 | [373827-the-life-together-online.json](./373827-the-life-together-online.json) |
 | The Life We've Chosen | 288088 | [288088-the-life-weve-chosen.json](./288088-the-life-weve-chosen.json) |
 | The Life's Lane | 103773 | [103773-the-lifes-lane.json](./103773-the-lifes-lane.json) |
+| The Lifeline | 421659 | [421659-the-lifeline.json](./421659-the-lifeline.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
 | The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
@@ -19405,6 +19407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
 | The Spirit Engine DX | 341855 | [341855-the-spirit-engine-dx.json](./341855-the-spirit-engine-dx.json) |
 | The Spirit Guide | 325404 | [325404-the-spirit-guide.json](./325404-the-spirit-guide.json) |
+| The Spirit in the Door | 421670 | [421670-the-spirit-in-the-door.json](./421670-the-spirit-in-the-door.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of F-1 | 48988 | [48988-the-spirit-of-f-1.json](./48988-the-spirit-of-f-1.json) |
@@ -22835,6 +22838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game Is Not Real | 392825 | [392825-this-game-is-not-real.json](./392825-this-game-is-not-real.json) |
 | This Game is Self-Aware | 177324 | [177324-this-game-is-self-aware.json](./177324-this-game-is-self-aware.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
+| This Game is Too Hard | 421658 | [421658-this-game-is-too-hard.json](./421658-this-game-is-too-hard.json) |
 | This Game is Trash | 158831 | [158831-this-game-is-trash.json](./158831-this-game-is-trash.json) |
 | This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
 | This Game Socks | 418450 | [418450-this-game-socks.json](./418450-this-game-socks.json) |
@@ -23255,6 +23259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Sheets | 338972 | [338972-three-sheets.json](./338972-three-sheets.json) |
 | Three Sisters | 337389 | [337389-three-sisters.json](./337389-three-sisters.json) |
+| Three Sisters Plantris | 421650 | [421650-three-sisters-plantris.json](./421650-three-sisters-plantris.json) |
 | Three Six Nine | 362985 | [362985-three-six-nine.json](./362985-three-six-nine.json) |
 | Three Skies | 207736 | [207736-three-skies.json](./207736-three-skies.json) |
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
