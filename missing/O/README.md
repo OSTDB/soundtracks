@@ -244,7 +244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Objective H.A.S.T.E.: Survival Horror Escape | 165740 | [165740-objective-h-a-s-t-e-survival-horror-escape.json](./165740-objective-h-a-s-t-e-survival-horror-escape.json) |
 | Objective: Kursk | 24672 | [24672-objective-kursk.json](./24672-objective-kursk.json) |
 | Objector | 232959 | [232959-objector.json](./232959-objector.json) |
-| Objects in Space | 19088 | [19088-objects-in-space.json](./19088-objects-in-space.json) |
 | Oblako | 394373 | [394373-oblako.json](./394373-oblako.json) |
 | Oblation | 253886 | [253886-oblation.json](./253886-oblation.json) |
 | Obligation | 126248 | [126248-obligation.json](./126248-obligation.json) |
