@@ -7839,6 +7839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Ninja | 9154 | [9154-shadow-of-the-ninja.json](./9154-shadow-of-the-ninja.json) |
 | Shadow of the Ninja Reborn | 262137 | [262137-shadow-of-the-ninja-reborn.json](./262137-shadow-of-the-ninja-reborn.json) |
 | Shadow of the Ninja Reborn: Deluxe Edition | 317229 | [317229-shadow-of-the-ninja-reborn-deluxe-edition.json](./317229-shadow-of-the-ninja-reborn-deluxe-edition.json) |
+| Shadow of the Orient | 262898 | [262898-shadow-of-the-orient.json](./262898-shadow-of-the-orient.json) |
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the School | 302474 | [302474-shadow-of-the-school.json](./302474-shadow-of-the-school.json) |
 | Shadow of the Tomb Raider: Croft Edition | 99122 | [99122-shadow-of-the-tomb-raider-croft-edition.json](./99122-shadow-of-the-tomb-raider-croft-edition.json) |
@@ -9300,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Awakened - The Whispered Dreams | 240981 | [240981-sherlock-holmes-the-awakened-the-whispered-dreams.json](./240981-sherlock-holmes-the-awakened-the-whispered-dreams.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
+| Sherlock Holmes: The Case of the Hung Parliament | 261012 | [261012-sherlock-holmes-the-case-of-the-hung-parliament.json](./261012-sherlock-holmes-the-case-of-the-hung-parliament.json) |
 | Sherlock Holmes: The Darkest Mysteries Bundle | 310455 | [310455-sherlock-holmes-the-darkest-mysteries-bundle.json](./310455-sherlock-holmes-the-darkest-mysteries-bundle.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
@@ -18431,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
 | Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
+| Sociable Soccer 24 | 264200 | [264200-sociable-soccer-24.json](./264200-sociable-soccer-24.json) |
 | Sociable Soccer 25 | 324603 | [324603-sociable-soccer-25.json](./324603-sociable-soccer-25.json) |
 | Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
@@ -21650,6 +21653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulpath: The Final Journey | 154876 | [154876-soulpath-the-final-journey.json](./154876-soulpath-the-final-journey.json) |
+| SoulQuest | 260649 | [260649-soulquest.json](./260649-soulquest.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Soulrun | 115955 | [115955-soulrun.json](./115955-soulrun.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
@@ -40715,6 +40719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fatal Bullet - Dissonance of the Nexus | 110843 | [110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json](./110843-sword-art-online-fatal-bullet-dissonance-of-the-nexus.json) |
 | Sword Art Online: Fatal Bullet - Limited Edition | 166982 | [166982-sword-art-online-fatal-bullet-limited-edition.json](./166982-sword-art-online-fatal-bullet-limited-edition.json) |
 | Sword Art Online: Fatal Bullet - Premium Edition | 94081 | [94081-sword-art-online-fatal-bullet-premium-edition.json](./94081-sword-art-online-fatal-bullet-premium-edition.json) |
+| Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 1 | 324479 | [324479-sword-art-online-fractured-daydream-character-pass-vol-1.json](./324479-sword-art-online-fractured-daydream-character-pass-vol-1.json) |
 | Sword Art Online: Fractured Daydream - Character Pass Vol. 2 | 380690 | [380690-sword-art-online-fractured-daydream-character-pass-vol-2.json](./380690-sword-art-online-fractured-daydream-character-pass-vol-2.json) |
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
