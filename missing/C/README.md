@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch them! | 186857 | [186857-catch-them.json](./186857-catch-them.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch Time | 40590 | [40590-catch-time.json](./40590-catch-time.json) |
+| Catch to Fish | 428298 | [428298-catch-to-fish.json](./428298-catch-to-fish.json) |
 | Catch Up | 261491 | [261491-catch-up.json](./261491-catch-up.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
@@ -9807,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Odyssey | 141444 | [141444-chrono-odyssey.json](./141444-chrono-odyssey.json) |
 | Chrono Port: Heroes of All Time | 366320 | [366320-chrono-port-heroes-of-all-time.json](./366320-chrono-port-heroes-of-all-time.json) |
 | Chrono Project | 105146 | [105146-chrono-project.json](./105146-chrono-project.json) |
+| Chrono Punk | 428463 | [428463-chrono-punk.json](./428463-chrono-punk.json) |
 | Chrono Quest | 14179 | [14179-chrono-quest.json](./14179-chrono-quest.json) |
 | Chrono Quest II | 14180 | [14180-chrono-quest-ii.json](./14180-chrono-quest-ii.json) |
 | Chrono Recorder | 288964 | [288964-chrono-recorder.json](./288964-chrono-recorder.json) |
@@ -18923,6 +18925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing Nitro-Fueled: Winter Festival Grand Prix | 324841 | [324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json](./324841-crash-team-racing-nitro-fueled-winter-festival-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Xfinity Flash Kart | 325134 | [325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json](./325134-crash-team-racing-nitro-fueled-xfinity-flash-kart.json) |
 | Crash Team Racing: Christmas Team Racing | 408977 | [408977-crash-team-racing-christmas-team-racing.json](./408977-crash-team-racing-christmas-team-racing.json) |
+| Crash Team Racing: Lockbox Adventure | 428200 | [428200-crash-team-racing-lockbox-adventure.json](./428200-crash-team-racing-lockbox-adventure.json) |
 | Crash Team Racing: Lolo Racing GP | 405189 | [405189-crash-team-racing-lolo-racing-gp.json](./405189-crash-team-racing-lolo-racing-gp.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
