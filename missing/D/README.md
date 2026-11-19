@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing with Ghosts | 360059 | [360059-dancing-with-ghosts.json](./360059-dancing-with-ghosts.json) |
 | Dancing with the Stars | 4790 | [4790-dancing-with-the-stars.json](./4790-dancing-with-the-stars.json) |
 | Dancing with the Stars: We Dance! | 4791 | [4791-dancing-with-the-stars-we-dance.json](./4791-dancing-with-the-stars-we-dance.json) |
+| Dancing Zombie | 423603 | [423603-dancing-zombie.json](./423603-dancing-zombie.json) |
 | Dancingcats | 22371 | [22371-dancingcats.json](./22371-dancingcats.json) |
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | DanCop - Daniela on Duty | 118112 | [118112-dancop-daniela-on-duty.json](./118112-dancop-daniela-on-duty.json) |
@@ -5627,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decadent Thinking | 331919 | [331919-decadent-thinking.json](./331919-decadent-thinking.json) |
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
 | DeCalc | 62972 | [62972-decalc.json](./62972-decalc.json) |
+| Decalcomanie | 423560 | [423560-decalcomanie.json](./423560-decalcomanie.json) |
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Decanted Sea | 400721 | [400721-decanted-sea.json](./400721-decanted-sea.json) |
 | Decanumber | 261321 | [261321-decanumber.json](./261321-decanumber.json) |
@@ -7258,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democart | 68132 | [68132-democart.json](./68132-democart.json) |
 | Democart-2 | 68133 | [68133-democart-2.json](./68133-democart-2.json) |
+| Demockracy | 423563 | [423563-demockracy.json](./423563-demockracy.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 2 | 5521 | [5521-democracy-2.json](./5521-democracy-2.json) |
 | Democracy 3 Africa | 33898 | [33898-democracy-3-africa.json](./33898-democracy-3-africa.json) |
