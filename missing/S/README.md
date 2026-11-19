@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Forth | 115491 | [115491-sail-forth.json](./115491-sail-forth.json) |
 | Sail Forth + Maelstrom Bundle | 284860 | [284860-sail-forth-maelstrom-bundle.json](./284860-sail-forth-maelstrom-bundle.json) |
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
+| Sail Girl | 421671 | [421671-sail-girl.json](./421671-sail-girl.json) |
 | Sail of Dreams | 285313 | [285313-sail-of-dreams.json](./285313-sail-of-dreams.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
@@ -5101,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Star | 133181 | [133181-second-star.json](./133181-second-star.json) |
 | Second Stellar | 319863 | [319863-second-stellar.json](./319863-second-stellar.json) |
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
+| Second Story | 421743 | [421743-second-story.json](./421743-second-story.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
 | Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
@@ -7637,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Bug Rush | 114005 | [114005-shadow-bug-rush.json](./114005-shadow-bug-rush.json) |
 | Shadow Bundle: Shadow Quest and Nightshade Ninja Warrior | 266342 | [266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json](./266342-shadow-bundle-shadow-quest-and-nightshade-ninja-warrior.json) |
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
+| Shadow Cat | 421664 | [421664-shadow-cat.json](./421664-shadow-cat.json) |
 | Shadow Cave | 190181 | [190181-shadow-cave.json](./190181-shadow-cave.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Circuit | 29417 | [29417-shadow-circuit.json](./29417-shadow-circuit.json) |
@@ -14521,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Goddess Ⅱ: DLC-4 | 170175 | [170175-sky-goddess-ii-dlc-4.json](./170175-sky-goddess-ii-dlc-4.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Gods | 52820 | [52820-sky-gods.json](./52820-sky-gods.json) |
+| Sky Guardian | 421666 | [421666-sky-guardian.json](./421666-sky-guardian.json) |
 | Sky Guy Gone AWOL | 381759 | [381759-sky-guy-gone-awol.json](./381759-sky-guy-gone-awol.json) |
 | Sky Harrier: Alpha Code | 189044 | [189044-sky-harrier-alpha-code.json](./189044-sky-harrier-alpha-code.json) |
 | Sky Harvest | 258242 | [258242-sky-harvest.json](./258242-sky-harvest.json) |
@@ -34675,6 +34679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrider: Liberation Day - Captain's Edition | 154208 | [154208-sunrider-liberation-day-captains-edition.json](./154208-sunrider-liberation-day-captains-edition.json) |
 | Sunrider: Mask of Arcadius | 17639 | [17639-sunrider-mask-of-arcadius.json](./17639-sunrider-mask-of-arcadius.json) |
 | Sunrise | 186088 | [186088-sunrise.json](./186088-sunrise.json) |
+| Sunrise | 421668 | [421668-sunrise.json](./421668-sunrise.json) |
 | Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
 | Sunrise Citadel | 268922 | [268922-sunrise-citadel.json](./268922-sunrise-citadel.json) |
 | Sunrise Doll | 316542 | [316542-sunrise-doll.json](./316542-sunrise-doll.json) |
@@ -35534,6 +35539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
 | Super Evolution Illustrated: War World | 201725 | [201725-super-evolution-illustrated-war-world.json](./201725-super-evolution-illustrated-war-world.json) |
 | Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
+| Super Extra Horde Survival Game | 421674 | [421674-super-extra-horde-survival-game.json](./421674-super-extra-horde-survival-game.json) |
 | Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
 | Super F1 Circus | 42269 | [42269-super-f1-circus.json](./42269-super-f1-circus.json) |
 | Super F1 Circus 2 | 42268 | [42268-super-f1-circus-2.json](./42268-super-f1-circus-2.json) |
@@ -39068,6 +39074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
 | Surgeon Simulator: Anniversary Edition | 8875 | [8875-surgeon-simulator-anniversary-edition.json](./8875-surgeon-simulator-anniversary-edition.json) |
 | Surgeon Simulator: Experience Reality | 26299 | [26299-surgeon-simulator-experience-reality.json](./26299-surgeon-simulator-experience-reality.json) |
+| Surgeons, Please | 421663 | [421663-surgeons-please.json](./421663-surgeons-please.json) |
 | SurgePoint | 410310 | [410310-surgepoint.json](./410310-surgepoint.json) |
 | Surgery Simulator 3D - 2 | 188379 | [188379-surgery-simulator-3d-2.json](./188379-surgery-simulator-3d-2.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
