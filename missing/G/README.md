@@ -5385,6 +5385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmo | 112825 | [112825-gizmo.json](./112825-gizmo.json) |
 | Gizmo | 381052 | [381052-gizmo.json](./381052-gizmo.json) |
 | Gizmo of Giza | 184491 | [184491-gizmo-of-giza.json](./184491-gizmo-of-giza.json) |
+| Gizmodo Motocross 2005 | 76720 | [76720-gizmodo-motocross-2005.json](./76720-gizmodo-motocross-2005.json) |
 | GizmoLab VR | 290682 | [290682-gizmolab-vr.json](./290682-gizmolab-vr.json) |
 | Gizmondo Motocross 2005 | 79756 | [79756-gizmondo-motocross-2005.json](./79756-gizmondo-motocross-2005.json) |
 | Gizmos: Interstellar Voyage | 160012 | [160012-gizmos-interstellar-voyage.json](./160012-gizmos-interstellar-voyage.json) |
@@ -7874,7 +7875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gon | 97118 | [97118-gon.json](./97118-gon.json) |
 | Gon: Baku-baku Baku-baku Adventure | 6785 | [6785-gon-baku-baku-baku-baku-adventure.json](./6785-gon-baku-baku-baku-baku-adventure.json) |
 | GON: God Of Nothing | 418377 | [418377-gon-god-of-nothing.json](./418377-gon-god-of-nothing.json) |
-| Gon' E-Choo! | 19023 | [19023-gon-e-choo.json](./19023-gon-e-choo.json) |
 | Gondola's Adventure | 141707 | [141707-gondolas-adventure.json](./141707-gondolas-adventure.json) |
 | Gondola's Adventure: Single Player & Local Multiplayer | 256046 | [256046-gondolas-adventure-single-player-and-local-multiplayer.json](./256046-gondolas-adventure-single-player-and-local-multiplayer.json) |
 | Gondomania | 40066 | [40066-gondomania.json](./40066-gondomania.json) |
@@ -9651,7 +9651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitaze: One | 171397 | [171397-gravitaze-one.json](./171397-gravitaze-one.json) |
 | Gravitaze: Two | 167493 | [167493-gravitaze-two.json](./167493-gravitaze-two.json) |
 | Graviteam Tactics: Counter Blow | 246835 | [246835-graviteam-tactics-counter-blow.json](./246835-graviteam-tactics-counter-blow.json) |
-| Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Against the Tide | 155477 | [155477-graviteam-tactics-mius-front-against-the-tide.json](./155477-graviteam-tactics-mius-front-against-the-tide.json) |
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
 | Graviteam Tactics: Mius Front - Black Snow | 155488 | [155488-graviteam-tactics-mius-front-black-snow.json](./155488-graviteam-tactics-mius-front-black-snow.json) |
@@ -10051,7 +10050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
 | Great Party Games | 283365 | [283365-great-party-games.json](./283365-great-party-games.json) |
-| Great Permutator | 17762 | [17762-great-permutator.json](./17762-great-permutator.json) |
 | Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
 | Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
 | Great Pirate | 101882 | [101882-great-pirate.json](./101882-great-pirate.json) |
