@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
 | Favorite Miner | 84079 | [84079-favorite-miner.json](./84079-favorite-miner.json) |
 | Favorite Star | 135415 | [135415-favorite-star.json](./135415-favorite-star.json) |
+| Favors | 392502 | [392502-favors.json](./392502-favors.json) |
 | Fawe: Enchanted Forest | 193212 | [193212-fawe-enchanted-forest.json](./193212-fawe-enchanted-forest.json) |
 | Fawful Mod Mario Kart 7 | 340981 | [340981-fawful-mod-mario-kart-7.json](./340981-fawful-mod-mario-kart-7.json) |
 | Fawful Mod Mario Kart 8 | 340982 | [340982-fawful-mod-mario-kart-8.json](./340982-fawful-mod-mario-kart-8.json) |
@@ -9166,7 +9167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper & Lopaka: The Secrets of the Deep | 62735 | [62735-flipper-and-lopaka-the-secrets-of-the-deep.json](./62735-flipper-and-lopaka-the-secrets-of-the-deep.json) |
 | Flipper & Unboxing House 2-in-1 | 414442 | [414442-flipper-and-unboxing-house-2-in-1.json](./414442-flipper-and-unboxing-house-2-in-1.json) |
 | Flipper 2: Flush the Goldfish | 60894 | [60894-flipper-2-flush-the-goldfish.json](./60894-flipper-2-flush-the-goldfish.json) |
-| Flipper Critters | 20693 | [20693-flipper-critters.json](./20693-flipper-critters.json) |
 | Flipper Frenzy | 343485 | [343485-flipper-frenzy.json](./343485-flipper-frenzy.json) |
 | Flipper Hazard | 44115 | [44115-flipper-hazard.json](./44115-flipper-hazard.json) |
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
@@ -10673,7 +10673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2014 | 62519 | [62519-football-manager-handheld-2014.json](./62519-football-manager-handheld-2014.json) |
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Lifestyle 24 | 295217 | [295217-football-manager-lifestyle-24.json](./295217-football-manager-lifestyle-24.json) |
-| Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Mobile 2016 | 58378 | [58378-football-manager-mobile-2016.json](./58378-football-manager-mobile-2016.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
