@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gefangen in der Drachenfestung | 255553 | [255553-gefangen-in-der-drachenfestung.json](./255553-gefangen-in-der-drachenfestung.json) |
 | Gefeuert! Dein letzter Tag | 200337 | [200337-gefeuert-dein-letzter-tag.json](./200337-gefeuert-dein-letzter-tag.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
+| GeForce 8800 GTX: 20 Years of a Legend | 428348 | [428348-geforce-8800-gtx-20-years-of-a-legend.json](./428348-geforce-8800-gtx-20-years-of-a-legend.json) |
 | Gefragt Gejagt | 163144 | [163144-gefragt-gejagt.json](./163144-gefragt-gejagt.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | GeGeGe no Kitaro | 166545 | [166545-gegege-no-kitaro.json](./166545-gegege-no-kitaro.json) |
