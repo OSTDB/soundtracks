@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
 | Candlemass | 257297 | [257297-candlemass.json](./257297-candlemass.json) |
+| Candlemates | 422383 | [422383-candlemates.json](./422383-candlemates.json) |
 | Candles | 178946 | [178946-candles.json](./178946-candles.json) |
 | Candles | 261622 | [261622-candles.json](./261622-candles.json) |
 | Candles | 341411 | [341411-candles.json](./341411-candles.json) |
@@ -2730,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
 | CaraVanguard | 386902 | [386902-caravanguard.json](./386902-caravanguard.json) |
 | Caravanners | 320126 | [320126-caravanners.json](./320126-caravanners.json) |
+| Caravanserai Simulator | 422387 | [422387-caravanserai-simulator.json](./422387-caravanserai-simulator.json) |
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
 | Caravella's Critical Crisis | 184669 | [184669-caravellas-critical-crisis.json](./184669-caravellas-critical-crisis.json) |
@@ -10535,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Content Creator Pack: Industrial Evolution | 249606 | [249606-cities-skylines-content-creator-pack-industrial-evolution.json](./249606-cities-skylines-content-creator-pack-industrial-evolution.json) |
 | Cities: Skylines - Content Creator Pack: Map Pack | 241101 | [241101-cities-skylines-content-creator-pack-map-pack.json](./241101-cities-skylines-content-creator-pack-map-pack.json) |
 | Cities: Skylines - Content Creator Pack: Map Pack 2 | 227400 | [227400-cities-skylines-content-creator-pack-map-pack-2.json](./227400-cities-skylines-content-creator-pack-map-pack-2.json) |
+| Cities: Skylines - Content Creator Pack: Map Pack 3 | 422375 | [422375-cities-skylines-content-creator-pack-map-pack-3.json](./422375-cities-skylines-content-creator-pack-map-pack-3.json) |
 | Cities: Skylines - Content Creator Pack: Mid-Century Modern | 227396 | [227396-cities-skylines-content-creator-pack-mid-century-modern.json](./227396-cities-skylines-content-creator-pack-mid-century-modern.json) |
 | Cities: Skylines - Content Creator Pack: Modern City Center | 149993 | [149993-cities-skylines-content-creator-pack-modern-city-center.json](./149993-cities-skylines-content-creator-pack-modern-city-center.json) |
 | Cities: Skylines - Content Creator Pack: Modern Japan | 149995 | [149995-cities-skylines-content-creator-pack-modern-japan.json](./149995-cities-skylines-content-creator-pack-modern-japan.json) |
@@ -12991,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
 | Code Red | 226550 | [226550-code-red.json](./226550-code-red.json) |
 | Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
+| Code Red | 422373 | [422373-code-red.json](./422373-code-red.json) |
 | Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
 | Code S-44 : Episode 1 | 117207 | [117207-code-s-44-episode-1.json](./117207-code-s-44-episode-1.json) |
@@ -17387,6 +17391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Disco | 150883 | [150883-cosmic-disco.json](./150883-cosmic-disco.json) |
 | Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
+| Cosmic Dominion | 422333 | [422333-cosmic-dominion.json](./422333-cosmic-dominion.json) |
 | Cosmic Dream | 229429 | [229429-cosmic-dream.json](./229429-cosmic-dream.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
 | Cosmic Drift | 308694 | [308694-cosmic-drift.json](./308694-cosmic-drift.json) |
