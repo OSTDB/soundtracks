@@ -10620,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
 | An Ecospace of Epochs | 417210 | [417210-an-ecospace-of-epochs.json](./417210-an-ecospace-of-epochs.json) |
 | An Egg Can Dream | 126923 | [126923-an-egg-can-dream.json](./126923-an-egg-can-dream.json) |
+| An Eggcelent Sorting Game | 428301 | [428301-an-eggcelent-sorting-game.json](./428301-an-eggcelent-sorting-game.json) |
 | An Eggstremely Hard Game | 378071 | [378071-an-eggstremely-hard-game.json](./378071-an-eggstremely-hard-game.json) |
 | An Elaborate History of Chess | 250293 | [250293-an-elaborate-history-of-chess.json](./250293-an-elaborate-history-of-chess.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
