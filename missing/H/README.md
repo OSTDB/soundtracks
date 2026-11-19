@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfbrick Blast Off | 92332 | [92332-halfbrick-blast-off.json](./92332-halfbrick-blast-off.json) |
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfbrick Sports: Football | 336282 | [336282-halfbrick-sports-football.json](./336282-halfbrick-sports-football.json) |
+| Halfdrawn | 430533 | [430533-halfdrawn.json](./430533-halfdrawn.json) |
 | HalfLight | 83971 | [83971-halflight.json](./83971-halflight.json) |
 | Halfling | 316562 | [316562-halfling.json](./316562-halfling.json) |
 | Halfling Tycoon | 101843 | [101843-halfling-tycoon.json](./101843-halfling-tycoon.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachampions | 316186 | [316186-hexachampions.json](./316186-hexachampions.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | Hexacore | 157824 | [157824-hexacore.json](./157824-hexacore.json) |
+| HexaCrank | 430449 | [430449-hexacrank.json](./430449-hexacrank.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexad | 173912 | [173912-hexad.json](./173912-hexad.json) |
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
