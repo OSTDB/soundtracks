@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pánico en el IPA | 325792 | [325792-panico-en-el-ipa.json](./325792-panico-en-el-ipa.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
+| Panik in Chocoland | 416885 | [416885-panik-in-chocoland.json](./416885-panik-in-chocoland.json) |
 | Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
 | Panin | 358331 | [358331-panin.json](./358331-panin.json) |
 | Panini Adventure | 208104 | [208104-panini-adventure.json](./208104-panini-adventure.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
 | Paul: vs. The CIA Gold | 153023 | [153023-paul-vs-the-cia-gold.json](./153023-paul-vs-the-cia-gold.json) |
+| Paul's Lost Remains | 415518 | [415518-pauls-lost-remains.json](./415518-pauls-lost-remains.json) |
 | Paul's Monster Adventure | 85331 | [85331-pauls-monster-adventure.json](./85331-pauls-monster-adventure.json) |
 | Paul's Shooting Adventure | 85332 | [85332-pauls-shooting-adventure.json](./85332-pauls-shooting-adventure.json) |
 | Paul's Shooting Adventure 2 | 85335 | [85335-pauls-shooting-adventure-2.json](./85335-pauls-shooting-adventure-2.json) |
@@ -10091,6 +10093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piyo Blocks Chick Hunt | 409142 | [409142-piyo-blocks-chick-hunt.json](./409142-piyo-blocks-chick-hunt.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
 | Piyo Wars | 428749 | [428749-piyo-wars.json](./428749-piyo-wars.json) |
+| Piyo-piyo Fruits Daisakusen | 416888 | [416888-piyo-piyo-fruits-daisakusen.json](./416888-piyo-piyo-fruits-daisakusen.json) |
 | Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyomori DX | 248986 | [248986-piyomori-dx.json](./248986-piyomori-dx.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
@@ -18348,6 +18351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project RE: Visited - Resident Evil 3 | 424186 | [424186-project-re-visited-resident-evil-3.json](./424186-project-re-visited-resident-evil-3.json) |
+| Project Readjusted 4: Jet Black | 417008 | [417008-project-readjusted-4-jet-black.json](./417008-project-readjusted-4-jet-black.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality | 331779 | [331779-project-reality.json](./331779-project-reality.json) |
