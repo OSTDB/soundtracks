@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
 | We Love Mind Control Rocket | 358725 | [358725-we-love-mind-control-rocket.json](./358725-we-love-mind-control-rocket.json) |
+| We March as One | 425754 | [425754-we-march-as-one.json](./425754-we-march-as-one.json) |
 | We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
 | We Might Die | 224732 | [224732-we-might-die.json](./224732-we-might-die.json) |
 | We Must Praise Our Glorious Leader the Flumf | 111403 | [111403-we-must-praise-our-glorious-leader-the-flumf.json](./111403-we-must-praise-our-glorious-leader-the-flumf.json) |
@@ -4336,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
+| What the Cluck | 425758 | [425758-what-the-cluck.json](./425758-what-the-cluck.json) |
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
 | What the Dark Keeps | 33251 | [33251-what-the-dark-keeps.json](./33251-what-the-dark-keeps.json) |
 | What the Dog Remembers | 405835 | [405835-what-the-dog-remembers.json](./405835-what-the-dog-remembers.json) |
@@ -7741,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Gold | 62399 | [62399-wizardry-gold.json](./62399-wizardry-gold.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry I-II-III: The Story of Llylgamyn | 42528 | [42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json](./42528-wizardry-i-ii-iii-the-story-of-llylgamyn.json) |
+| Wizardry II: Llylgamyn no Isan | 425763 | [425763-wizardry-ii-llylgamyn-no-isan.json](./425763-wizardry-ii-llylgamyn-no-isan.json) |
 | Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry III: Diamond no Kishi | 425767 | [425767-wizardry-iii-diamond-no-kishi.json](./425767-wizardry-iii-diamond-no-kishi.json) |
@@ -10421,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wretch | 300743 | [300743-wretch.json](./300743-wretch.json) |
 | Wretch | 366985 | [366985-wretch.json](./366985-wretch.json) |
 | Wretch: Divine Ascent | 352750 | [352750-wretch-divine-ascent.json](./352750-wretch-divine-ascent.json) |
+| Wretched | 425968 | [425968-wretched.json](./425968-wretched.json) |
 | Wretched Depths | 242595 | [242595-wretched-depths.json](./242595-wretched-depths.json) |
 | Wretched Flesh | 274941 | [274941-wretched-flesh.json](./274941-wretched-flesh.json) |
 | Wretched Star | 333083 | [333083-wretched-star.json](./333083-wretched-star.json) |
