@@ -13229,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle's Backgammon & Cribbage | 77795 | [77795-hoyles-backgammon-and-cribbage.json](./77795-hoyles-backgammon-and-cribbage.json) |
 | Hoyle's Classic Card Games | 50274 | [50274-hoyles-classic-card-games.json](./50274-hoyles-classic-card-games.json) |
 | Hoyo | 301074 | [301074-hoyo.json](./301074-hoyo.json) |
+| Hozy Hideaways | 418054 | [418054-hozy-hideaways.json](./418054-hozy-hideaways.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HPRZ: The Syndrome | 149551 | [149551-hprz-the-syndrome.json](./149551-hprz-the-syndrome.json) |
 | HPS1 Sports | 276756 | [276756-hps1-sports.json](./276756-hps1-sports.json) |
