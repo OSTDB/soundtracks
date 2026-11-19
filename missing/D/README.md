@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Star | 13571 | [13571-dark-star.json](./13571-dark-star.json) |
 | Dark Star | 411651 | [411651-dark-star.json](./411651-dark-star.json) |
+| Dark Star | 428989 | [428989-dark-star.json](./428989-dark-star.json) |
 | Dark Static | 362886 | [362886-dark-static.json](./362886-dark-static.json) |
 | Dark Steel | 223604 | [223604-dark-steel.json](./223604-dark-steel.json) |
 | Dark Steel Legends | 372819 | [372819-dark-steel-legends.json](./372819-dark-steel-legends.json) |
@@ -7359,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Engines | 148728 | [148728-demon-engines.json](./148728-demon-engines.json) |
 | Demon Escape: Shadow Realm | 119946 | [119946-demon-escape-shadow-realm.json](./119946-demon-escape-shadow-realm.json) |
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
+| Demon Fish Dead Ahead | 429002 | [429002-demon-fish-dead-ahead.json](./429002-demon-fish-dead-ahead.json) |
 | Demon Front | 41074 | [41074-demon-front.json](./41074-demon-front.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
@@ -15144,6 +15146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Nukem CSS | 354810 | [354810-doom-nukem-css.json](./354810-doom-nukem-css.json) |
 | Doom of Aliens | 103697 | [103697-doom-of-aliens.json](./103697-doom-of-aliens.json) |
 | Doom of the Clawn | 367726 | [367726-doom-of-the-clawn.json](./367726-doom-of-the-clawn.json) |
+| Doom of the Undying | 428975 | [428975-doom-of-the-undying.json](./428975-doom-of-the-undying.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Reborn | 365242 | [365242-doom-reborn.json](./365242-doom-reborn.json) |
@@ -17771,6 +17774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draid | 111532 | [111532-draid.json](./111532-draid.json) |
 | Draikai | 250748 | [250748-draikai.json](./250748-draikai.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
+| Drain It All | 428965 | [428965-drain-it-all.json](./428965-drain-it-all.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Pipe Contract | 58967 | [58967-drain-pipe-contract.json](./58967-drain-pipe-contract.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
