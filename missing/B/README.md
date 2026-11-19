@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Doors | 257736 | [257736-backrooms-doors.json](./257736-backrooms-doors.json) |
 | Backrooms Dream With Tung Tung Tung Sahur | 405803 | [405803-backrooms-dream-with-tung-tung-tung-sahur.json](./405803-backrooms-dream-with-tung-tung-tung-sahur.json) |
 | Backrooms Duck Edition | 420920 | [420920-backrooms-duck-edition.json](./420920-backrooms-duck-edition.json) |
+| Backrooms Escape | 420281 | [420281-backrooms-escape.json](./420281-backrooms-escape.json) |
 | Backrooms Escape Protocol | 339446 | [339446-backrooms-escape-protocol.json](./339446-backrooms-escape-protocol.json) |
 | Backrooms Exploration | 242406 | [242406-backrooms-exploration.json](./242406-backrooms-exploration.json) |
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
@@ -657,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Horror Escape | 317563 | [317563-backrooms-horror-escape.json](./317563-backrooms-horror-escape.json) |
 | Backrooms in the Forest | 393242 | [393242-backrooms-in-the-forest.json](./393242-backrooms-in-the-forest.json) |
+| Backrooms Insane | 420280 | [420280-backrooms-insane.json](./420280-backrooms-insane.json) |
 | Backrooms Interception | 378603 | [378603-backrooms-interception.json](./378603-backrooms-interception.json) |
 | Backrooms Invasion | 298365 | [298365-backrooms-invasion.json](./298365-backrooms-invasion.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
