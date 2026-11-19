@@ -12717,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
 | Guns & Fishes | 234403 | [234403-guns-and-fishes.json](./234403-guns-and-fishes.json) |
+| Guns & Goo | 425971 | [425971-guns-and-goo.json](./425971-guns-and-goo.json) |
 | Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
 | Guns & Thorns | 393193 | [393193-guns-and-thorns.json](./393193-guns-and-thorns.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
