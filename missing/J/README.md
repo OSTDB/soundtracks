@@ -1405,7 +1405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Force Gemini | 284130 | [284130-jet-force-gemini.json](./284130-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
 | Jet Girls | 130477 | [130477-jet-girls.json](./130477-jet-girls.json) |
-| Jet Gunner | 17655 | [17655-jet-gunner.json](./17655-jet-gunner.json) |
 | Jet Gunner: Refueled | 373316 | [373316-jet-gunner-refueled.json](./373316-jet-gunner-refueled.json) |
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
 | Jet Impulse | 72952 | [72952-jet-impulse.json](./72952-jet-impulse.json) |
@@ -2274,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2013 | 80268 | [80268-jikkyou-pawafuru-puroyakyu-2013.json](./80268-jikkyou-pawafuru-puroyakyu-2013.json) |
 | Jikkyou Pawafuru Puroyakyu 2014 | 78583 | [78583-jikkyou-pawafuru-puroyakyu-2014.json](./78583-jikkyou-pawafuru-puroyakyu-2014.json) |
 | Jikkyou Pawafuru Puroyakyu 2016 | 78582 | [78582-jikkyou-pawafuru-puroyakyu-2016.json](./78582-jikkyou-pawafuru-puroyakyu-2016.json) |
+| Jikkyou Pawafuru Puroyakyu 2018 | 76734 | [76734-jikkyou-pawafuru-puroyakyu-2018.json](./76734-jikkyou-pawafuru-puroyakyu-2018.json) |
 | Jikkyou Pawafuru Puroyakyu 2018 | 98510 | [98510-jikkyou-pawafuru-puroyakyu-2018.json](./98510-jikkyou-pawafuru-puroyakyu-2018.json) |
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Madness: Earth Apocalypse 1979 | 412250 | [412250-just-madness-earth-apocalypse-1979.json](./412250-just-madness-earth-apocalypse-1979.json) |
 | Just Maze | 184295 | [184295-just-maze.json](./184295-just-maze.json) |
+| Just Me and My Grandpa | 72795 | [72795-just-me-and-my-grandpa.json](./72795-just-me-and-my-grandpa.json) |
 | Just Me and my Mom | 209851 | [209851-just-me-and-my-mom.json](./209851-just-me-and-my-mom.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
 | Just Monika: A Doki Doki Literature Club Song | 336269 | [336269-just-monika-a-doki-doki-literature-club-song.json](./336269-just-monika-a-doki-doki-literature-club-song.json) |
