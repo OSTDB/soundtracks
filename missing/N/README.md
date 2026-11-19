@@ -3846,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Tales from the Borderlands | 214139 | [214139-new-tales-from-the-borderlands.json](./214139-new-tales-from-the-borderlands.json) |
 | New Tales from the Borderlands: Deluxe Edition | 214140 | [214140-new-tales-from-the-borderlands-deluxe-edition.json](./214140-new-tales-from-the-borderlands-deluxe-edition.json) |
 | New Tanks | 211070 | [211070-new-tanks.json](./211070-new-tanks.json) |
+| New Tap Order 2 | 25748 | [25748-new-tap-order-2.json](./25748-new-tap-order-2.json) |
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Times | 366166 | [366166-new-times.json](./366166-new-times.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
@@ -5693,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ball | 310133 | [310133-ninja-ball.json](./310133-ninja-ball.json) |
 | Ninja Baseball Bat Man | 11124 | [11124-ninja-baseball-bat-man.json](./11124-ninja-baseball-bat-man.json) |
 | Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
+| Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Blade | 7121 | [7121-ninja-blade.json](./7121-ninja-blade.json) |
 | Ninja Blast | 190809 | [190809-ninja-blast.json](./190809-ninja-blast.json) |
 | Ninja Box | 112080 | [112080-ninja-box.json](./112080-ninja-box.json) |
