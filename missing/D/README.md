@@ -2512,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Sorrow 5 Game Pack Hidden Object | 145115 | [145115-darkness-and-sorrow-5-game-pack-hidden-object.json](./145115-darkness-and-sorrow-5-game-pack-hidden-object.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
+| Darkness Assault | 36149 | [36149-darkness-assault.json](./36149-darkness-assault.json) |
 | Darkness Dwells | 183102 | [183102-darkness-dwells.json](./183102-darkness-dwells.json) |
 | Darkness Eternal | 150312 | [150312-darkness-eternal.json](./150312-darkness-eternal.json) |
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
@@ -3096,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
 | Davey's Mystery 2 | 100381 | [100381-daveys-mystery-2.json](./100381-daveys-mystery-2.json) |
+| David | 35866 | [35866-david.json](./35866-david.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
 | David Beckham Soccer | 6369 | [6369-david-beckham-soccer.json](./6369-david-beckham-soccer.json) |
 | David Bellamy's Endangered Wildlife | 64286 | [64286-david-bellamys-endangered-wildlife.json](./64286-david-bellamys-endangered-wildlife.json) |
@@ -5736,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Campaigns: Ardennes Offensive | 143427 | [143427-decisive-campaigns-ardennes-offensive.json](./143427-decisive-campaigns-ardennes-offensive.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
 | Decisive Campaigns: Case Blue | 35666 | [35666-decisive-campaigns-case-blue.json](./35666-decisive-campaigns-case-blue.json) |
+| Decisive Campaigns: The Blitzkrieg from Warsaw to Paris | 36053 | [36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json](./36053-decisive-campaigns-the-blitzkrieg-from-warsaw-to-paris.json) |
 | Decisive Strike | 199812 | [199812-decisive-strike.json](./199812-decisive-strike.json) |
 | Deck 'Em! | 236650 | [236650-deck-em.json](./236650-deck-em.json) |
 | Deck & Conn | 361654 | [361654-deck-and-conn.json](./361654-deck-and-conn.json) |
@@ -21027,6 +21030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Eyden | 155943 | [155943-dungeon-of-eyden.json](./155943-dungeon-of-eyden.json) |
 | Dungeon of Fercho'po | 305259 | [305259-dungeon-of-ferchopo.json](./305259-dungeon-of-ferchopo.json) |
 | Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
+| Dungeon of Gain | 36043 | [36043-dungeon-of-gain.json](./36043-dungeon-of-gain.json) |
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
 | Dungeon of hell | 68811 | [68811-dungeon-of-hell.json](./68811-dungeon-of-hell.json) |
