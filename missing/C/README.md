@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers | 172406 | [172406-checkers.json](./172406-checkers.json) |
 | Checkers & Pawns | 368211 | [368211-checkers-and-pawns.json](./368211-checkers-and-pawns.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
+| Checkers Arena | 427173 | [427173-checkers-arena.json](./427173-checkers-arena.json) |
 | Checkers at War | 52495 | [52495-checkers-at-war.json](./52495-checkers-at-war.json) |
 | Checkers Board Game | 88432 | [88432-checkers-board-game.json](./88432-checkers-board-game.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
