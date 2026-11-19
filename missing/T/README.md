@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Fugitive | 169135 | [169135-tax-fugitive.json](./169135-tax-fugitive.json) |
 | Tax Heaven 3000 | 242362 | [242362-tax-heaven-3000.json](./242362-tax-heaven-3000.json) |
+| Tax It Easy | 427754 | [427754-tax-it-easy.json](./427754-tax-it-easy.json) |
 | Tax Return | 390679 | [390679-tax-return.json](./390679-tax-return.json) |
 | Tax-Force | 265631 | [265631-tax-force.json](./265631-tax-force.json) |
 | Taxer Inc. | 144211 | [144211-taxer-inc.json](./144211-taxer-inc.json) |
@@ -11788,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gretlow Tapes | 346526 | [346526-the-gretlow-tapes.json](./346526-the-gretlow-tapes.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
+| The Grey Dream: Season 2 | 427780 | [427780-the-grey-dream-season-2.json](./427780-the-grey-dream-season-2.json) |
 | The Grey Elegy: Under the Cursed Wings | 371215 | [371215-the-grey-elegy-under-the-cursed-wings.json](./371215-the-grey-elegy-under-the-cursed-wings.json) |
 | The Grey Man | 27305 | [27305-the-grey-man.json](./27305-the-grey-man.json) |
 | The Grey Road | 350693 | [350693-the-grey-road.json](./350693-the-grey-road.json) |
