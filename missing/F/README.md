@@ -7561,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Diary: King of Fishing | 196286 | [196286-fishing-diary-king-of-fishing.json](./196286-fishing-diary-king-of-fishing.json) |
 | Fishing Ducks | 221701 | [221701-fishing-ducks.json](./221701-fishing-ducks.json) |
 | Fishing Echoes | 264670 | [264670-fishing-echoes.json](./264670-fishing-echoes.json) |
+| Fishing Factory | 423029 | [423029-fishing-factory.json](./423029-fishing-factory.json) |
 | Fishing Fanatic | 209436 | [209436-fishing-fanatic.json](./209436-fishing-fanatic.json) |
 | Fishing Fantasy: Buzzrod | 301798 | [301798-fishing-fantasy-buzzrod.json](./301798-fishing-fantasy-buzzrod.json) |
 | Fishing Fever | 400439 | [400439-fishing-fever.json](./400439-fishing-fever.json) |
@@ -11554,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork Parker's Crunch Out | 101155 | [101155-fork-parkers-crunch-out.json](./101155-fork-parkers-crunch-out.json) |
 | Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
+| Fork the Rich | 423020 | [423020-fork-the-rich.json](./423020-fork-the-rich.json) |
 | Fork Truck Challenge | 35140 | [35140-fork-truck-challenge.json](./35140-fork-truck-challenge.json) |
 | Fork-U | 319255 | [319255-fork-u.json](./319255-fork-u.json) |
 | Forkdrift | 165089 | [165089-forkdrift.json](./165089-forkdrift.json) |
