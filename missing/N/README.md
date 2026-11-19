@@ -7616,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Norns Fantasy | 95020 | [95020-norns-fantasy.json](./95020-norns-fantasy.json) |
+| Noro (Working Title) | 421035 | [421035-noro-working-title.json](./421035-noro-working-title.json) |
 | Noroi Ayashi: The ∞th Oddity | 418666 | [418666-noroi-ayashi-the-th-oddity.json](./418666-noroi-ayashi-the-th-oddity.json) |
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: Nightmares | 363678 | [363678-noroi-e-nightmares.json](./363678-noroi-e-nightmares.json) |
