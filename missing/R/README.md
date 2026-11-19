@@ -5329,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reikoku: Ikeda Kizoku Shinrei Kenkyuujo | 115858 | [115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json](./115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
+| Reikoneo: Purge Protocol | 421062 | [421062-reikoneo-purge-protocol.json](./421062-reikoneo-purge-protocol.json) |
 | Reilla: Sweets Adventure | 220484 | [220484-reilla-sweets-adventure.json](./220484-reilla-sweets-adventure.json) |
 | Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
 | Reimei no Gakuen | 177871 | [177871-reimei-no-gakuen.json](./177871-reimei-no-gakuen.json) |
