@@ -5715,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out-Class Hunter | 215209 | [215209-out-class-hunter.json](./215209-out-class-hunter.json) |
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
+| Outage: Trespass | 428954 | [428954-outage-trespass.json](./428954-outage-trespass.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outback | 107412 | [107412-outback.json](./107412-outback.json) |
 | Outback Defender | 74842 | [74842-outback-defender.json](./74842-outback-defender.json) |
