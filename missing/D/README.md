@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead on Delivery | 350746 | [350746-dead-on-delivery.json](./350746-dead-on-delivery.json) |
 | Dead on Time | 13574 | [13574-dead-on-time.json](./13574-dead-on-time.json) |
 | Dead on Your Lawn | 345394 | [345394-dead-on-your-lawn.json](./345394-dead-on-your-lawn.json) |
+| Dead On Your Six | 427200 | [427200-dead-on-your-six.json](./427200-dead-on-your-six.json) |
 | Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive | 210621 | [210621-dead-or-alive.json](./210621-dead-or-alive.json) |
 | Dead or Alive | 317067 | [317067-dead-or-alive.json](./317067-dead-or-alive.json) |
@@ -5369,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death Tapes | 237711 | [237711-death-tapes.json](./237711-death-tapes.json) |
+| Death Tapes | 427170 | [427170-death-tapes.json](./427170-death-tapes.json) |
 | Death Taxi 3000 | 155901 | [155901-death-taxi-3000.json](./155901-death-taxi-3000.json) |
 | Death Tennis | 183734 | [183734-death-tennis.json](./183734-death-tennis.json) |
 | Death That Blooms Into a Flower | 388300 | [388300-death-that-blooms-into-a-flower.json](./388300-death-that-blooms-into-a-flower.json) |
@@ -10954,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
 | Dino Crisis 3 | 5813 | [5813-dino-crisis-3.json](./5813-dino-crisis-3.json) |
+| Dino Crisis 3 Classic REbirth | 427180 | [427180-dino-crisis-3-classic-rebirth.json](./427180-dino-crisis-3-classic-rebirth.json) |
 | Dino Crisis Bundle | 329777 | [329777-dino-crisis-bundle.json](./329777-dino-crisis-bundle.json) |
 | Dino Crisis Rebirth | 389501 | [389501-dino-crisis-rebirth.json](./389501-dino-crisis-rebirth.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
@@ -19622,6 +19625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drox Operative: Invasion of the Ancients | 8754 | [8754-drox-operative-invasion-of-the-ancients.json](./8754-drox-operative-invasion-of-the-ancients.json) |
 | Drsná Cesta | 14663 | [14663-drsna-cesta.json](./14663-drsna-cesta.json) |
 | Druaga Online: The Story of Aon | 54947 | [54947-druaga-online-the-story-of-aon.json](./54947-druaga-online-the-story-of-aon.json) |
+| Drudenlied | 427148 | [427148-drudenlied.json](./427148-drudenlied.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
 | Drug Business | 369040 | [369040-drug-business.json](./369040-drug-business.json) |
 | Drug Dealer 2049 | 421459 | [421459-drug-dealer-2049.json](./421459-drug-dealer-2049.json) |
