@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
+| Railroad Swap | 422385 | [422385-railroad-swap.json](./422385-railroad-swap.json) |
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
 | Railroad Tracks | 104927 | [104927-railroad-tracks.json](./104927-railroad-tracks.json) |
 | Railroad Tycoon | 350134 | [350134-railroad-tycoon.json](./350134-railroad-tycoon.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
 | Reel | 205100 | [205100-reel.json](./205100-reel.json) |
 | Reel 21 | 84347 | [84347-reel-21.json](./84347-reel-21.json) |
+| Reel Adventure: The Autobattler Journey | 422336 | [422336-reel-adventure-the-autobattler-journey.json](./422336-reel-adventure-the-autobattler-journey.json) |
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
 | Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
@@ -5173,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refrega | 289533 | [289533-refrega.json](./289533-refrega.json) |
 | Refreshing Sideways Puzzle Ghost Hammer | 147716 | [147716-refreshing-sideways-puzzle-ghost-hammer.json](./147716-refreshing-sideways-puzzle-ghost-hammer.json) |
 | Refrigerant Recovery Simulation | 164186 | [164186-refrigerant-recovery-simulation.json](./164186-refrigerant-recovery-simulation.json) |
+| Refuel Together | 422386 | [422386-refuel-together.json](./422386-refuel-together.json) |
 | Refuge | 110251 | [110251-refuge.json](./110251-refuge.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
