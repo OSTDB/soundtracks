@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | Talking Tom Gold Run | 87051 | [87051-talking-tom-gold-run.json](./87051-talking-tom-gold-run.json) |
 | Talking Tom Hero Dash | 119245 | [119245-talking-tom-hero-dash.json](./119245-talking-tom-hero-dash.json) |
+| Talking Tom Jetski | 86827 | [86827-talking-tom-jetski.json](./86827-talking-tom-jetski.json) |
 | Talking Tom Jetski 2 | 103092 | [103092-talking-tom-jetski-2.json](./103092-talking-tom-jetski-2.json) |
 | Talking Tom Pool | 87043 | [87043-talking-tom-pool.json](./87043-talking-tom-pool.json) |
 | Talking Tom Time Rush | 232034 | [232034-talking-tom-time-rush.json](./232034-talking-tom-time-rush.json) |
@@ -1821,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
 | Tamagotchi CD-ROM | 98933 | [98933-tamagotchi-cd-rom.json](./98933-tamagotchi-cd-rom.json) |
+| Tamagotchi Classic: Original | 86866 | [86866-tamagotchi-classic-original.json](./86866-tamagotchi-classic-original.json) |
 | Tamagotchi Collection | 77579 | [77579-tamagotchi-collection.json](./77579-tamagotchi-collection.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection | 312621 | [312621-tamagotchi-connection.json](./312621-tamagotchi-connection.json) |
@@ -23645,6 +23647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumbling | 289947 | [289947-thumbling.json](./289947-thumbling.json) |
 | Thumbylina | 354135 | [354135-thumbylina.json](./354135-thumbylina.json) |
 | Thumper | 10960 | [10960-thumper.json](./10960-thumper.json) |
+| Thumper: Pocket Edition | 86886 | [86886-thumper-pocket-edition.json](./86886-thumper-pocket-edition.json) |
 | Thumper: Pocket Edition+ | 175552 | [175552-thumper-pocket-edition.json](./175552-thumper-pocket-edition.json) |
 | Thumpies | 66730 | [66730-thumpies.json](./66730-thumpies.json) |
 | Thumps & Blows | 348327 | [348327-thumps-and-blows.json](./348327-thumps-and-blows.json) |
