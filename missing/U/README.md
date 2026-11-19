@@ -3592,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upon the Eldritch Planet | 261750 | [261750-upon-the-eldritch-planet.json](./261750-upon-the-eldritch-planet.json) |
 | Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Upper Gumtree | 319098 | [319098-upper-gumtree.json](./319098-upper-gumtree.json) |
+| Uppercase | 419562 | [419562-uppercase.json](./419562-uppercase.json) |
 | Uppercute | 336613 | [336613-uppercute.json](./336613-uppercute.json) |
 | Uppers | 53029 | [53029-uppers.json](./53029-uppers.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
