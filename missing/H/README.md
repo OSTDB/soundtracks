@@ -8576,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
 | Hidden World War II: Top-Down 3D | 269976 | [269976-hidden-world-war-ii-top-down-3d.json](./269976-hidden-world-war-ii-top-down-3d.json) |
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
+| Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddenius: Crystal Prophecy | 416480 | [416480-hiddenius-crystal-prophecy.json](./416480-hiddenius-crystal-prophecy.json) |
 | Hiddenius: Sorceress Journey | 402010 | [402010-hiddenius-sorceress-journey.json](./402010-hiddenius-sorceress-journey.json) |
