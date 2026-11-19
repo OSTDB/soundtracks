@@ -7835,6 +7835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunker | 24017 | [24017-the-bunker.json](./24017-the-bunker.json) |
 | The Bunker | 290044 | [290044-the-bunker.json](./290044-the-bunker.json) |
 | The Bunker | 333252 | [333252-the-bunker.json](./333252-the-bunker.json) |
+| The Bunker 69 | 123531 | [123531-the-bunker-69.json](./123531-the-bunker-69.json) |
 | The Bunker Notes | 342308 | [342308-the-bunker-notes.json](./342308-the-bunker-notes.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Game | 65137 | [65137-the-bunny-game.json](./65137-the-bunny-game.json) |
@@ -9338,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
 | The Decree | 417325 | [417325-the-decree.json](./417325-the-decree.json) |
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
+| The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
 | The Deed of Deception | 148941 | [148941-the-deed-of-deception.json](./148941-the-deed-of-deception.json) |
 | The Deed: Dynasty | 33073 | [33073-the-deed-dynasty.json](./33073-the-deed-dynasty.json) |
 | The Deep | 14638 | [14638-the-deep.json](./14638-the-deep.json) |
@@ -11954,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild: Gold Edition | 29208 | [29208-the-guild-gold-edition.json](./29208-the-guild-gold-edition.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
 | The Guilty Hearts | 310847 | [310847-the-guilty-hearts.json](./310847-the-guilty-hearts.json) |
+| The Guise | 123960 | [123960-the-guise.json](./123960-the-guise.json) |
 | The Gummiest Bear Challenge | 212073 | [212073-the-gummiest-bear-challenge.json](./212073-the-gummiest-bear-challenge.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
@@ -17103,10 +17106,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrimage I | 112899 | [112899-the-pilgrimage-i.json](./112899-the-pilgrimage-i.json) |
 | The Pillage | 75219 | [75219-the-pillage.json](./75219-the-pillage.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
+| The Pillar | 122364 | [122364-the-pillar.json](./122364-the-pillar.json) |
 | The Pillar of Amala | 140764 | [140764-the-pillar-of-amala.json](./140764-the-pillar-of-amala.json) |
 | The Pillar: Puzzle Escape | 146579 | [146579-the-pillar-puzzle-escape.json](./146579-the-pillar-puzzle-escape.json) |
 | The Pillars of the Damned | 271340 | [271340-the-pillars-of-the-damned.json](./271340-the-pillars-of-the-damned.json) |
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
+| The Pinball Wizard | 123705 | [123705-the-pinball-wizard.json](./123705-the-pinball-wizard.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pines | 403885 | [403885-the-pines.json](./403885-the-pines.json) |
 | The Pink Panther | 198847 | [198847-the-pink-panther.json](./198847-the-pink-panther.json) |
@@ -22070,6 +22075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year After | 179647 | [179647-the-year-after.json](./179647-the-year-after.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
+| The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
 | The Yellow Ladder | 123795 | [123795-the-yellow-ladder.json](./123795-the-yellow-ladder.json) |
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
@@ -29786,6 +29792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
 | Total Knockout | 62386 | [62386-total-knockout.json](./62386-total-knockout.json) |
 | Total Loadout | 327749 | [327749-total-loadout.json](./327749-total-loadout.json) |
+| Total Lockdown | 123238 | [123238-total-lockdown.json](./123238-total-lockdown.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Mayhem | 72454 | [72454-total-mayhem.json](./72454-total-mayhem.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
@@ -30174,6 +30181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchmaster 2 | 23821 | [23821-touchmaster-2.json](./23821-touchmaster-2.json) |
 | TouchMaster 3 | 24335 | [24335-touchmaster-3.json](./24335-touchmaster-3.json) |
 | TouchMaster 8000 | 66455 | [66455-touchmaster-8000.json](./66455-touchmaster-8000.json) |
+| TouchMaster Connect | 124102 | [124102-touchmaster-connect.json](./124102-touchmaster-connect.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
 | TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
@@ -38087,6 +38095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistingo: Turtle Bay - Collector's Edition | 261668 | [261668-twistingo-turtle-bay-collectors-edition.json](./261668-twistingo-turtle-bay-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
+| Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
 | Twisty Board 2 | 233998 | [233998-twisty-board-2.json](./233998-twisty-board-2.json) |
 | Twisty Break 3D | 244090 | [244090-twisty-break-3d.json](./244090-twisty-break-3d.json) |
