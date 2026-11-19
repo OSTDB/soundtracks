@@ -451,6 +451,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Underworld: The Stygian Abyss | 321879 | [321879-ultima-underworld-the-stygian-abyss.json](./321879-ultima-underworld-the-stygian-abyss.json) |
 | Ultima V: Lazarus | 412664 | [412664-ultima-v-lazarus.json](./412664-ultima-v-lazarus.json) |
 | Ultima V: Warriors of Destiny | 12229 | [12229-ultima-v-warriors-of-destiny.json](./12229-ultima-v-warriors-of-destiny.json) |
+| Ultima V: Warriors of Destiny | 428453 | [428453-ultima-v-warriors-of-destiny.json](./428453-ultima-v-warriors-of-destiny.json) |
+| Ultima V: Warriors of Destiny | 428458 | [428458-ultima-v-warriors-of-destiny.json](./428458-ultima-v-warriors-of-destiny.json) |
+| Ultima V: Warriors of Destiny | 428460 | [428460-ultima-v-warriors-of-destiny.json](./428460-ultima-v-warriors-of-destiny.json) |
+| Ultima V: Warriors of Destiny | 428465 | [428465-ultima-v-warriors-of-destiny.json](./428465-ultima-v-warriors-of-destiny.json) |
+| Ultima V: Warriors of Destiny | 428466 | [428466-ultima-v-warriors-of-destiny.json](./428466-ultima-v-warriors-of-destiny.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
 | Ultima VII: Part Two - Serpent Isle: The Silver Seed | 80383 | [80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json](./80383-ultima-vii-part-two-serpent-isle-the-silver-seed.json) |
