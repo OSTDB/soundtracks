@@ -5764,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Rise from Ruin | 371022 | [371022-age-of-wonders-4-rise-from-ruin.json](./371022-age-of-wonders-4-rise-from-ruin.json) |
 | Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
 | Age of Wonders 4: Starter Edition | 405852 | [405852-age-of-wonders-4-starter-edition.json](./405852-age-of-wonders-4-starter-edition.json) |
+| Age of Wonders 4: The Silver Seas | 427793 | [427793-age-of-wonders-4-the-silver-seas.json](./427793-age-of-wonders-4-the-silver-seas.json) |
 | Age of Wonders 4: Thrones of Blood | 371023 | [371023-age-of-wonders-4-thrones-of-blood.json](./371023-age-of-wonders-4-thrones-of-blood.json) |
 | Age of Wonders II: The Wizard's Throne | 590 | [590-age-of-wonders-ii-the-wizards-throne.json](./590-age-of-wonders-ii-the-wizards-throne.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
@@ -17259,6 +17260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascend The Well | 367864 | [367864-ascend-the-well.json](./367864-ascend-the-well.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascend: Reborn | 219712 | [219712-ascend-reborn.json](./219712-ascend-reborn.json) |
+| Ascend.exe | 427769 | [427769-ascend-exe.json](./427769-ascend-exe.json) |
 | Ascendance | 117530 | [117530-ascendance.json](./117530-ascendance.json) |
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance | 258241 | [258241-ascendance.json](./258241-ascendance.json) |
@@ -21262,6 +21264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi Ninden Kunoichiban Plus | 45426 | [45426-ayakashi-ninden-kunoichiban-plus.json](./45426-ayakashi-ninden-kunoichiban-plus.json) |
 | Ayakashi no Shiro | 49150 | [49150-ayakashi-no-shiro.json](./49150-ayakashi-no-shiro.json) |
 | Ayakashi Princess: Prequel | 271545 | [271545-ayakashi-princess-prequel.json](./271545-ayakashi-princess-prequel.json) |
+| Ayakashi Profile | 427785 | [427785-ayakashi-profile.json](./427785-ayakashi-profile.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashi Yaji | 283806 | [283806-ayakashi-yaji.json](./283806-ayakashi-yaji.json) |
 | Ayakashi Yokocho no Natsuyasumi | 414273 | [414273-ayakashi-yokocho-no-natsuyasumi.json](./414273-ayakashi-yokocho-no-natsuyasumi.json) |
