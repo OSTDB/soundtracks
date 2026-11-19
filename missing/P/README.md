@@ -4198,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peace@Pieces | 80365 | [80365-peace-pieces.json](./80365-peace-pieces.json) |
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
 | Peaceful Bug Catching Story | 413368 | [413368-peaceful-bug-catching-story.json](./413368-peaceful-bug-catching-story.json) |
+| Peaceful Days | 123566 | [123566-peaceful-days.json](./123566-peaceful-days.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gardens 2: Cute Cats | 365914 | [365914-peaceful-gardens-2-cute-cats.json](./365914-peaceful-gardens-2-cute-cats.json) |
@@ -16156,6 +16157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prettiest Morgue | 404039 | [404039-prettiest-morgue.json](./404039-prettiest-morgue.json) |
 | Pretty | 57202 | [57202-pretty.json](./57202-pretty.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
+| Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
 | Pretty Bird | 214248 | [214248-pretty-bird.json](./214248-pretty-bird.json) |
 | Pretty Bird 2 | 216309 | [216309-pretty-bird-2.json](./216309-pretty-bird-2.json) |
@@ -20679,6 +20681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Chess | 156558 | [156558-puzzle-and-chess.json](./156558-puzzle-and-chess.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Battle | 208145 | [208145-puzzle-and-dragons-battle.json](./208145-puzzle-and-dragons-battle.json) |
+| Puzzle & Dragons Gold | 122966 | [122966-puzzle-and-dragons-gold.json](./122966-puzzle-and-dragons-gold.json) |
 | Puzzle & Dragons Nintendo Switch Edition | 191724 | [191724-puzzle-and-dragons-nintendo-switch-edition.json](./191724-puzzle-and-dragons-nintendo-switch-edition.json) |
 | Puzzle & Dragons Story | 279762 | [279762-puzzle-and-dragons-story.json](./279762-puzzle-and-dragons-story.json) |
 | Puzzle & Dragons X: Dragon Chapter | 125345 | [125345-puzzle-and-dragons-x-dragon-chapter.json](./125345-puzzle-and-dragons-x-dragon-chapter.json) |
