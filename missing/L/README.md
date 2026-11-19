@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
 | Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
+| Learn English Preposition | 332692 | [332692-learn-english-preposition.json](./332692-learn-english-preposition.json) |
 | Learn English with World Ghost Stories | 417901 | [417901-learn-english-with-world-ghost-stories.json](./417901-learn-english-with-world-ghost-stories.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Hangul!! | 310368 | [310368-learn-hangul.json](./310368-learn-hangul.json) |
@@ -3291,7 +3292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Bezogia | 246145 | [246145-legends-of-bezogia.json](./246145-legends-of-bezogia.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
-| Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
 | Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Castile | 240636 | [240636-legends-of-castile.json](./240636-legends-of-castile.json) |
 | Legends of Catalonia | 118653 | [118653-legends-of-catalonia.json](./118653-legends-of-catalonia.json) |
@@ -4209,7 +4209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
 | Let's Café | 301297 | [301297-lets-cafe.json](./301297-lets-cafe.json) |
 | Let's Catapult | 274912 | [274912-lets-catapult.json](./274912-lets-catapult.json) |
-| Let's Cheer! | 20241 | [20241-lets-cheer.json](./20241-lets-cheer.json) |
 | Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook It! | 403248 | [403248-lets-cook-it.json](./403248-lets-cook-it.json) |
@@ -4220,7 +4219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Create! Pottery VR | 113887 | [113887-lets-create-pottery-vr.json](./113887-lets-create-pottery-vr.json) |
 | Let's Dance | 245698 | [245698-lets-dance.json](./245698-lets-dance.json) |
 | Let's Dance | 78337 | [78337-lets-dance.json](./78337-lets-dance.json) |
-| Let's Dance with Mel B | 19936 | [19936-lets-dance-with-mel-b.json](./19936-lets-dance-with-mel-b.json) |
 | Let's Do the Writing | 98849 | [98849-lets-do-the-writing.json](./98849-lets-do-the-writing.json) |
 | Let's Do Vinery | 354920 | [354920-lets-do-vinery.json](./354920-lets-do-vinery.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
@@ -7572,7 +7570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
-| LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
 | LN of Zombies | 206434 | [206434-ln-of-zombies.json](./206434-ln-of-zombies.json) |
@@ -8885,7 +8882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Doom | 69811 | [69811-lords-of-doom.json](./69811-lords-of-doom.json) |
 | Lords of Doom: Part One - The Black God | 170290 | [170290-lords-of-doom-part-one-the-black-god.json](./170290-lords-of-doom-part-one-the-black-god.json) |
 | Lords of Empire: Kingdom War | 108698 | [108698-lords-of-empire-kingdom-war.json](./108698-lords-of-empire-kingdom-war.json) |
-| Lords of EverQuest | 19633 | [19633-lords-of-everquest.json](./19633-lords-of-everquest.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Football | 10519 | [10519-lords-of-football.json](./10519-lords-of-football.json) |
 | Lords of Football: Eastern Europe | 10520 | [10520-lords-of-football-eastern-europe.json](./10520-lords-of-football-eastern-europe.json) |
@@ -9327,7 +9323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Night | 90202 | [90202-lost-in-night.json](./90202-lost-in-night.json) |
 | Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
 | Lost in Pandation | 177215 | [177215-lost-in-pandation.json](./177215-lost-in-pandation.json) |
-| Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost in Paradise: Waifu Connect | 174915 | [174915-lost-in-paradise-waifu-connect.json](./174915-lost-in-paradise-waifu-connect.json) |
 | Lost In Parallels | 216631 | [216631-lost-in-parallels.json](./216631-lost-in-parallels.json) |
@@ -10638,6 +10633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucius | 5778 | [5778-lucius.json](./5778-lucius.json) |
 | Lucius Demake | 22808 | [22808-lucius-demake.json](./22808-lucius-demake.json) |
 | Lucius III | 107267 | [107267-lucius-iii.json](./107267-lucius-iii.json) |
+| Luck & Loot | 332678 | [332678-luck-and-loot.json](./332678-luck-and-loot.json) |
 | Luck be a Landlord | 142035 | [142035-luck-be-a-landlord.json](./142035-luck-be-a-landlord.json) |
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
