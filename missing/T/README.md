@@ -3490,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tear Ripple | 305305 | [305305-tear-ripple.json](./305305-tear-ripple.json) |
 | Tear Them All | 409861 | [409861-tear-them-all.json](./409861-tear-them-all.json) |
 | Tear: Owari to Hajimari no Shizuku | 68389 | [68389-tear-owari-to-hajimari-no-shizuku.json](./68389-tear-owari-to-hajimari-no-shizuku.json) |
+| Tearable Choices | 427685 | [427685-tearable-choices.json](./427685-tearable-choices.json) |
 | Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
 | Tearaway: Unfolded | 7606 | [7606-tearaway-unfolded.json](./7606-tearaway-unfolded.json) |
@@ -7270,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beat Strikes Back | 364691 | [364691-the-beat-strikes-back.json](./364691-the-beat-strikes-back.json) |
 | The Beat, The Step, and the Cowboys | 59041 | [59041-the-beat-the-step-and-the-cowboys.json](./59041-the-beat-the-step-and-the-cowboys.json) |
 | The Beat: A Glam Noir Game | 108319 | [108319-the-beat-a-glam-noir-game.json](./108319-the-beat-a-glam-noir-game.json) |
+| The Beaten Track | 427684 | [427684-the-beaten-track.json](./427684-the-beaten-track.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
 | The beauties&zombies of beach for VR | 74623 | [74623-the-beauties-and-zombies-of-beach-for-vr.json](./74623-the-beauties-and-zombies-of-beach-for-vr.json) |
@@ -8774,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Season 8 | 408847 | [408847-the-crew-motorfest-season-8.json](./408847-the-crew-motorfest-season-8.json) |
 | The Crew: Motorfest - Season 9 | 408911 | [408911-the-crew-motorfest-season-9.json](./408911-the-crew-motorfest-season-9.json) |
 | The Crew: Motorfest - Special Edition | 422381 | [422381-the-crew-motorfest-special-edition.json](./422381-the-crew-motorfest-special-edition.json) |
+| The Crew: Motorfest - Tomb Raider Pack | 427878 | [427878-the-crew-motorfest-tomb-raider-pack.json](./427878-the-crew-motorfest-tomb-raider-pack.json) |
 | The Crew: Motorfest - Triple Bike Pack | 393737 | [393737-the-crew-motorfest-triple-bike-pack.json](./393737-the-crew-motorfest-triple-bike-pack.json) |
 | The Crew: Motorfest - Ultimate Edition | 253064 | [253064-the-crew-motorfest-ultimate-edition.json](./253064-the-crew-motorfest-ultimate-edition.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
@@ -33812,6 +33815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: Pro Train: BNSF Loco Bundle 1 | 393724 | [393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json](./393724-trainz-railroad-simulator-2022-pro-train-bnsf-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2022: Pro Train: CSX Loco Bundle 1 | 393725 | [393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json](./393725-trainz-railroad-simulator-2022-pro-train-csx-loco-bundle-1.json) |
+| Trainz Railroad Simulator 2022: Pro Train: SW1500 Loco Pack 4 | 427877 | [427877-trainz-railroad-simulator-2022-pro-train-sw1500-loco-pack-4.json](./427877-trainz-railroad-simulator-2022-pro-train-sw1500-loco-pack-4.json) |
 | Trainz Railroad Simulator 2022: Pro Trainz TEE Rheingold | 205435 | [205435-trainz-railroad-simulator-2022-pro-trainz-tee-rheingold.json](./205435-trainz-railroad-simulator-2022-pro-trainz-tee-rheingold.json) |
 | Trainz Railroad Simulator 2022: ProTrain The Eastern Range | 285790 | [285790-trainz-railroad-simulator-2022-protrain-the-eastern-range.json](./285790-trainz-railroad-simulator-2022-protrain-the-eastern-range.json) |
 | Trainz Railroad Simulator 2022: PRR GP9 | 205409 | [205409-trainz-railroad-simulator-2022-prr-gp9.json](./205409-trainz-railroad-simulator-2022-prr-gp9.json) |
