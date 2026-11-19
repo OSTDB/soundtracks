@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Viola_ | 390580 | [390580-viola.json](./390580-viola.json) |
 | Viola: The Heroine's Melody | 112715 | [112715-viola-the-heroines-melody.json](./112715-viola-the-heroines-melody.json) |
+| Violarium | 419232 | [419232-violarium.json](./419232-violarium.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violation | 182307 | [182307-violation.json](./182307-violation.json) |
 | Violation Facility | 82676 | [82676-violation-facility.json](./82676-violation-facility.json) |
@@ -3615,8 +3616,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VNC: Virtual Nightclub | 112574 | [112574-vnc-virtual-nightclub.json](./112574-vnc-virtual-nightclub.json) |
 | Vnesis | 192737 | [192737-vnesis.json](./192737-vnesis.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
+| Vo Ylopol Glebobapol | 419001 | [419001-vo-ylopol-glebobapol.json](./419001-vo-ylopol-glebobapol.json) |
 | Vocabrawlary | 157089 | [157089-vocabrawlary.json](./157089-vocabrawlary.json) |
 | Vocabulary Galaxy Orrery | 255485 | [255485-vocabulary-galaxy-orrery.json](./255485-vocabulary-galaxy-orrery.json) |
+| Vocabulium | 419390 | [419390-vocabulium.json](./419390-vocabulium.json) |
 | VocabUScary | 95314 | [95314-vocabuscary.json](./95314-vocabuscary.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
 | Vocadol | 198280 | [198280-vocadol.json](./198280-vocadol.json) |
