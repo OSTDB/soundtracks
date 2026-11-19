@@ -1888,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistix | 5878 | [5878-ballistix.json](./5878-ballistix.json) |
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
 | BallMan | 342955 | [342955-ballman.json](./342955-ballman.json) |
+| BallMan: Plus! | 427880 | [427880-ballman-plus.json](./427880-ballman-plus.json) |
 | Ballmaster | 336942 | [336942-ballmaster.json](./336942-ballmaster.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
@@ -5590,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beak Squadron | 113233 | [113233-beak-squadron.json](./113233-beak-squadron.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
+| Beaked! | 427670 | [427670-beaked.json](./427670-beaked.json) |
 | Beaker Creatures | 206254 | [206254-beaker-creatures.json](./206254-beaker-creatures.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
 | Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
