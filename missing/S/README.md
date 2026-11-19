@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hills Manor | 379817 | [379817-shadow-hills-manor.json](./379817-shadow-hills-manor.json) |
 | Shadow Hockey | 198598 | [198598-shadow-hockey.json](./198598-shadow-hockey.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
+| Shadow Hop | 430618 | [430618-shadow-hop.json](./430618-shadow-hop.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
 | Shadow Hunter | 251271 | [251271-shadow-hunter.json](./251271-shadow-hunter.json) |
 | Shadow Hunter | 280028 | [280028-shadow-hunter.json](./280028-shadow-hunter.json) |
@@ -10268,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shitsurensha Doumei | 411965 | [411965-shitsurensha-doumei.json](./411965-shitsurensha-doumei.json) |
 | Shitting Pigeon | 268244 | [268244-shitting-pigeon.json](./268244-shitting-pigeon.json) |
 | Shitty Cactus | 129450 | [129450-shitty-cactus.json](./129450-shitty-cactus.json) |
+| Shitty Card Game | 430336 | [430336-shitty-card-game.json](./430336-shitty-card-game.json) |
 | Shitty Fish: High Speed Combat Arena | 236064 | [236064-shitty-fish-high-speed-combat-arena.json](./236064-shitty-fish-high-speed-combat-arena.json) |
 | Shitty Game | 374645 | [374645-shitty-game.json](./374645-shitty-game.json) |
 | Shivah | 7418 | [7418-shivah.json](./7418-shivah.json) |
@@ -19523,6 +19525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
 | Something for Someone Else | 121925 | [121925-something-for-someone-else.json](./121925-something-for-someone-else.json) |
 | Something in the mist | 177838 | [177838-something-in-the-mist.json](./177838-something-in-the-mist.json) |
+| Something in the Rows | 430486 | [430486-something-in-the-rows.json](./430486-something-in-the-rows.json) |
 | Something in the Water | 160285 | [160285-something-in-the-water.json](./160285-something-in-the-water.json) |
 | Something In The Well | 266749 | [266749-something-in-the-well.json](./266749-something-in-the-well.json) |
 | Something in the Woods | 261263 | [261263-something-in-the-woods.json](./261263-something-in-the-woods.json) |
@@ -22907,6 +22910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Nomads | 51675 | [51675-space-nomads.json](./51675-space-nomads.json) |
 | Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
+| Space Oddsock | 430603 | [430603-space-oddsock.json](./430603-space-oddsock.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space Odyssey | 295448 | [295448-space-odyssey.json](./295448-space-odyssey.json) |
 | Space of Another Reality | 228209 | [228209-space-of-another-reality.json](./228209-space-of-another-reality.json) |
@@ -31873,6 +31877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command WWII: Pacific Theater | 25275 | [25275-strategic-command-wwii-pacific-theater.json](./25275-strategic-command-wwii-pacific-theater.json) |
 | Strategic Command WWII: War in Europe | 36818 | [36818-strategic-command-wwii-war-in-europe.json](./36818-strategic-command-wwii-war-in-europe.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
+| Strategic Command WWII: War in the Pacific - Rise and Fall of an Empire | 430374 | [430374-strategic-command-wwii-war-in-the-pacific-rise-and-fall-of-an-empire.json](./430374-strategic-command-wwii-war-in-the-pacific-rise-and-fall-of-an-empire.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
 | Strategic Command: American Civil War | 204783 | [204783-strategic-command-american-civil-war.json](./204783-strategic-command-american-civil-war.json) |
 | Strategic Command: American Civil War - Concert of Europe | 361043 | [361043-strategic-command-american-civil-war-concert-of-europe.json](./361043-strategic-command-american-civil-war-concert-of-europe.json) |
@@ -39822,6 +39827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Suspicious Slide | 127575 | [127575-suspicious-slide.json](./127575-suspicious-slide.json) |
 | Suspicious Spaceroads | 167546 | [167546-suspicious-spaceroads.json](./167546-suspicious-spaceroads.json) |
+| Suspira | 430389 | [430389-suspira.json](./430389-suspira.json) |
 | Suspirium | 180902 | [180902-suspirium.json](./180902-suspirium.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
