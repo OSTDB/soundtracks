@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze 3 | 119290 | [119290-raze-3.json](./119290-raze-3.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
+| Razed | 86041 | [86041-razed.json](./86041-razed.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | Razenroth 2 | 163185 | [163185-razenroth-2.json](./163185-razenroth-2.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
 | Real Pool | 43627 | [43627-real-pool.json](./43627-real-pool.json) |
 | Real Pool | 91838 | [91838-real-pool.json](./91838-real-pool.json) |
+| Real Pool 3D | 86533 | [86533-real-pool-3d.json](./86533-real-pool-3d.json) |
 | Real Pool 3D - Poolians | 76749 | [76749-real-pool-3d-poolians.json](./76749-real-pool-3d-poolians.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
@@ -11867,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon 6 Pack | 228962 | [228962-rollercoaster-tycoon-6-pack.json](./228962-rollercoaster-tycoon-6-pack.json) |
 | RollerCoaster Tycoon 8 Pack | 252326 | [252326-rollercoaster-tycoon-8-pack.json](./252326-rollercoaster-tycoon-8-pack.json) |
 | RollerCoaster Tycoon 9 Mega Pack | 136066 | [136066-rollercoaster-tycoon-9-mega-pack.json](./136066-rollercoaster-tycoon-9-mega-pack.json) |
+| RollerCoaster Tycoon Adventures | 86497 | [86497-rollercoaster-tycoon-adventures.json](./86497-rollercoaster-tycoon-adventures.json) |
 | RollerCoaster Tycoon Adventures Deluxe | 256001 | [256001-rollercoaster-tycoon-adventures-deluxe.json](./256001-rollercoaster-tycoon-adventures-deluxe.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
