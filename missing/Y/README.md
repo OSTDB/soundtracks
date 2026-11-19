@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaengard | 155676 | [155676-yaengard.json](./155676-yaengard.json) |
 | Yafti | 93760 | [93760-yafti.json](./93760-yafti.json) |
 | Yag | 114196 | [114196-yag.json](./114196-yag.json) |
+| Yaga | 103048 | [103048-yaga.json](./103048-yaga.json) |
 | Yaga: Armful Edition | 186527 | [186527-yaga-armful-edition.json](./186527-yaga-armful-edition.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | Yaga's Candy House | 298003 | [298003-yagas-candy-house.json](./298003-yagas-candy-house.json) |
@@ -130,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuman Wii: Ide Yosuke no Kenkou Mahjong | 63040 | [63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json](./63040-yakuman-wii-ide-yosuke-no-kenkou-mahjong.json) |
 | Yakumo | 419863 | [419863-yakumo.json](./419863-yakumo.json) |
 | Yakumo Shibari Aya | 97555 | [97555-yakumo-shibari-aya.json](./97555-yakumo-shibari-aya.json) |
+| Yakusoku no Natsu, Mahoroba no Yume | 83051 | [83051-yakusoku-no-natsu-mahoroba-no-yume.json](./83051-yakusoku-no-natsu-mahoroba-no-yume.json) |
 | Yakuza | 2059 | [2059-yakuza.json](./2059-yakuza.json) |
 | Yakuza 0: Digital Deluxe Edition | 106688 | [106688-yakuza-0-digital-deluxe-edition.json](./106688-yakuza-0-digital-deluxe-edition.json) |
 | Yakuza 0: Director's Cut | 338084 | [338084-yakuza-0-directors-cut.json](./338084-yakuza-0-directors-cut.json) |
@@ -768,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-Kai Watch 1 for Nintendo Switch | 136357 | [136357-yo-kai-watch-1-for-nintendo-switch.json](./136357-yo-kai-watch-1-for-nintendo-switch.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
+| Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-Kai Watch 2: Fleshy Souls | 24470 | [24470-yo-kai-watch-2-fleshy-souls.json](./24470-yo-kai-watch-2-fleshy-souls.json) |
 | Yo-kai Watch 2: Haunted Domain | 417168 | [417168-yo-kai-watch-2-haunted-domain.json](./417168-yo-kai-watch-2-haunted-domain.json) |
 | Yo-Kai Watch 2: Psychic Specters | 27129 | [27129-yo-kai-watch-2-psychic-specters.json](./27129-yo-kai-watch-2-psychic-specters.json) |
@@ -1501,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YoukaiMaki | 235370 | [235370-youkaimaki.json](./235370-youkaimaki.json) |
 | Youkashi no Haitokuai: Junshin Tenshi ha Dakarete Iromeku | 416596 | [416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json](./416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
+| Youkoso Jitsuryoku Shijoushugi no Kyoushitu he: Merge Puzzle Tokubetsu Shiken | 332680 | [332680-youkoso-jitsuryoku-shijoushugi-no-kyoushitu-he-merge-puzzle-tokubetsu-shiken.json](./332680-youkoso-jitsuryoku-shijoushugi-no-kyoushitu-he-merge-puzzle-tokubetsu-shiken.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Youlogic | 267784 | [267784-youlogic.json](./267784-youlogic.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
@@ -2348,7 +2352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
 | YuruYuri: Perfect Math | 319688 | [319688-yuruyuri-perfect-math.json](./319688-yuruyuri-perfect-math.json) |
 | Yuruyuru Gekijou: Gekijou Ban 1 | 222368 | [222368-yuruyuru-gekijou-gekijou-ban-1.json](./222368-yuruyuru-gekijou-gekijou-ban-1.json) |
-| Yury | 17823 | [17823-yury.json](./17823-yury.json) |
 | Yusetsu | 211178 | [211178-yusetsu.json](./211178-yusetsu.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yusha: Heaven's Gate | 44868 | [44868-yusha-heavens-gate.json](./44868-yusha-heavens-gate.json) |
