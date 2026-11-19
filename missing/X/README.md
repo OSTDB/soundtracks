@@ -58,7 +58,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Car Stunts | 102156 | [102156-x-car-stunts.json](./102156-x-car-stunts.json) |
 | X-Clash | 409603 | [409603-x-clash.json](./409603-x-clash.json) |
 | X-COM Alliance | 85869 | [85869-x-com-alliance.json](./85869-x-com-alliance.json) |
-| X-COM Collection | 21224 | [21224-x-com-collection.json](./21224-x-com-collection.json) |
 | X-COM: Apocalypse | 26 | [26-x-com-apocalypse.json](./26-x-com-apocalypse.json) |
 | X-COM: em@il Games | 96507 | [96507-x-com-em-il-games.json](./96507-x-com-em-il-games.json) |
 | X-COM: Enforcer | 9322 | [9322-x-com-enforcer.json](./9322-x-com-enforcer.json) |
@@ -832,7 +831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XF5700 Mantis Experimental Fighter: Speech Pack | 137497 | [137497-xf5700-mantis-experimental-fighter-speech-pack.json](./137497-xf5700-mantis-experimental-fighter-speech-pack.json) |
 | xFart | 79429 | [79429-xfart.json](./79429-xfart.json) |
 | XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
-| XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
 | XGamer: AI Revolution | 221509 | [221509-xgamer-ai-revolution.json](./221509-xgamer-ai-revolution.json) |
 | XGRA: Extreme G Racing Association | 4581 | [4581-xgra-extreme-g-racing-association.json](./4581-xgra-extreme-g-racing-association.json) |
