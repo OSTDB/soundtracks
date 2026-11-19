@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uberlaufer | 149884 | [149884-uberlaufer.json](./149884-uberlaufer.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
+| Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
@@ -2755,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Entity | 389531 | [389531-unknown-entity.json](./389531-unknown-entity.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Faces | 381067 | [381067-unknown-faces.json](./381067-unknown-faces.json) |
+| Unknown Fate | 31866 | [31866-unknown-fate.json](./31866-unknown-fate.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown FPV: Drone Simulator | 251722 | [251722-unknown-fpv-drone-simulator.json](./251722-unknown-fpv-drone-simulator.json) |
 | Unknown Game Name | 194723 | [194723-unknown-game-name.json](./194723-unknown-game-name.json) |
