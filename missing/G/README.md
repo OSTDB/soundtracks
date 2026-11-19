@@ -9572,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravely Silent: House of Deadlock | 209775 | [209775-gravely-silent-house-of-deadlock.json](./209775-gravely-silent-house-of-deadlock.json) |
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven | 138982 | [138982-graven.json](./138982-graven.json) |
+| Graven | 417009 | [417009-graven.json](./417009-graven.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
 | Graven: The Purple Moon Prophecy | 32694 | [32694-graven-the-purple-moon-prophecy.json](./32694-graven-the-purple-moon-prophecy.json) |
 | Gravenfall: Veil of Darkness | 323482 | [323482-gravenfall-veil-of-darkness.json](./323482-gravenfall-veil-of-darkness.json) |
