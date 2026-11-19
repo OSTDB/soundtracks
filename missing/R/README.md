@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit: Thinking Adventures Ages 4-6 | 144857 | [144857-reader-rabbit-thinking-adventures-ages-4-6.json](./144857-reader-rabbit-thinking-adventures-ages-4-6.json) |
 | Reader Rabbit's Interactive Reading Journey 2 | 411094 | [411094-reader-rabbits-interactive-reading-journey-2.json](./411094-reader-rabbits-interactive-reading-journey-2.json) |
 | Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
+| Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
 | Reading Blaster 2000 | 10676 | [10676-reading-blaster-2000.json](./10676-reading-blaster-2000.json) |
 | Reading Blaster: Ages 9-12 | 191530 | [191530-reading-blaster-ages-9-12.json](./191530-reading-blaster-ages-9-12.json) |
@@ -5246,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Home Renovation Simulator | 370074 | [370074-regular-home-renovation-simulator.json](./370074-regular-home-renovation-simulator.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
+| Regular Human Basketball | 58407 | [58407-regular-human-basketball.json](./58407-regular-human-basketball.json) |
 | Regular Human Workshop | 207721 | [207721-regular-human-workshop.json](./207721-regular-human-workshop.json) |
 | Regular Luckiest Guy: Love & Blocks | 207650 | [207650-regular-luckiest-guy-love-and-blocks.json](./207650-regular-luckiest-guy-love-and-blocks.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
@@ -9191,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
 | Risk the Crown | 403868 | [403868-risk-the-crown.json](./403868-risk-the-crown.json) |
 | Risk the Dark | 343149 | [343149-risk-the-dark.json](./343149-risk-the-dark.json) |
+| Risk Urban Assault | 58036 | [58036-risk-urban-assault.json](./58036-risk-urban-assault.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
 | Risk: Global Domination | 121346 | [121346-risk-global-domination.json](./121346-risk-global-domination.json) |
