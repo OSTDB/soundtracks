@@ -21132,6 +21132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series: Jigsaw Puzzle - Koinu Mekuri-hen | 346831 | [346831-puzzle-series-jigsaw-puzzle-koinu-mekuri-hen.json](./346831-puzzle-series-jigsaw-puzzle-koinu-mekuri-hen.json) |
 | Puzzle Series: Jigsaw Puzzle - Koneko Mekuri-hen | 344572 | [344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json](./344572-puzzle-series-jigsaw-puzzle-koneko-mekuri-hen.json) |
 | Puzzle Seventeen | 346910 | [346910-puzzle-seventeen.json](./346910-puzzle-seventeen.json) |
+| Puzzle Sharks | 427860 | [427860-puzzle-sharks.json](./427860-puzzle-sharks.json) |
 | Puzzle Showdown 4K | 36621 | [36621-puzzle-showdown-4k.json](./36621-puzzle-showdown-4k.json) |
 | Puzzle Shuffle | 77115 | [77115-puzzle-shuffle.json](./77115-puzzle-shuffle.json) |
 | Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
