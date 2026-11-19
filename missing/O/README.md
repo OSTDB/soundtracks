@@ -6454,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpainted | 397741 | [397741-overpainted.json](./397741-overpainted.json) |
 | Overpass | 117886 | [117886-overpass.json](./117886-overpass.json) |
 | Overpass | 97402 | [97402-overpass.json](./97402-overpass.json) |
+| Overpass 2 | 264500 | [264500-overpass-2.json](./264500-overpass-2.json) |
 | Overpass 2: Career Starter Pack | 271283 | [271283-overpass-2-career-starter-pack.json](./271283-overpass-2-career-starter-pack.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | Overpass 2: Ford Play Rock Bouncer | 271285 | [271285-overpass-2-ford-play-rock-bouncer.json](./271285-overpass-2-ford-play-rock-bouncer.json) |
