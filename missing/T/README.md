@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Tennis Toon! | 278943 | [278943-table-tennis-toon.json](./278943-table-tennis-toon.json) |
 | Table Tennis Touch | 57191 | [57191-table-tennis-touch.json](./57191-table-tennis-touch.json) |
 | Table Tennis VR | 32289 | [32289-table-tennis-vr.json](./32289-table-tennis-vr.json) |
+| Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
 | Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 192028 | [192028-take-off-the-flight-simulator.json](./192028-take-off-the-flight-simulator.json) |
+| Take on Helicopters | 15069 | [15069-take-on-helicopters.json](./15069-take-on-helicopters.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take on Helicopters: Rearmed | 15107 | [15107-take-on-helicopters-rearmed.json](./15107-take-on-helicopters-rearmed.json) |
 | Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
@@ -2007,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
 | Tango 5: The Last Dance | 80338 | [80338-tango-5-the-last-dance.json](./80338-tango-5-the-last-dance.json) |
 | Tango District | 398146 | [398146-tango-district.json](./398146-tango-district.json) |
+| Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
 | Tango: The Adventure Game | 106402 | [106402-tango-the-adventure-game.json](./106402-tango-the-adventure-game.json) |
@@ -2214,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Troopers | 27388 | [27388-tank-troopers.json](./27388-tank-troopers.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
+| Tank Universal | 9455 | [9455-tank-universal.json](./9455-tank-universal.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
 | Tank vs. Aliens | 286355 | [286355-tank-vs-aliens.json](./286355-tank-vs-aliens.json) |
 | Tank vs. Tank | 323114 | [323114-tank-vs-tank.json](./323114-tank-vs-tank.json) |
@@ -3413,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Hot Wheels: Drift | 254624 | [254624-team-hot-wheels-drift.json](./254624-team-hot-wheels-drift.json) |
 | Team Hot Wheels: Moto X | 254626 | [254626-team-hot-wheels-moto-x.json](./254626-team-hot-wheels-moto-x.json) |
 | Team Ice Cream VR | 189352 | [189352-team-ice-cream-vr.json](./189352-team-ice-cream-vr.json) |
+| Team Indie | 9491 | [9491-team-indie.json](./9491-team-indie.json) |
 | Team Innocent: The Point of No Return | 65738 | [65738-team-innocent-the-point-of-no-return.json](./65738-team-innocent-the-point-of-no-return.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
@@ -4226,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
 | Templar 2 | 337863 | [337863-templar-2.json](./337863-templar-2.json) |
 | Templar Assault | 375057 | [375057-templar-assault.json](./375057-templar-assault.json) |
+| Templar Battleforce | 13217 | [13217-templar-battleforce.json](./13217-templar-battleforce.json) |
 | Templar Battleforce Elite | 89703 | [89703-templar-battleforce-elite.json](./89703-templar-battleforce-elite.json) |
 | Templar Castle Builder | 152790 | [152790-templar-castle-builder.json](./152790-templar-castle-builder.json) |
 | TemplarGFX's Aliens Colonial Marines Overhaul | 340008 | [340008-templargfxs-aliens-colonial-marines-overhaul.json](./340008-templargfxs-aliens-colonial-marines-overhaul.json) |
@@ -6268,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Batman & Robin: Tiger Barcodzz - 24: The Penguin | 362523 | [362523-the-adventures-of-batman-and-robin-tiger-barcodzz-24-the-penguin.json](./362523-the-adventures-of-batman-and-robin-tiger-barcodzz-24-the-penguin.json) |
 | The Adventures of Bayou Billy | 218910 | [218910-the-adventures-of-bayou-billy.json](./218910-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
+| The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business | 14307 | [14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json](./14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bleeposaurus | 392327 | [392327-the-adventures-of-bleeposaurus.json](./392327-the-adventures-of-bleeposaurus.json) |
 | The Adventures of Bleeposaurus: Dragonfire | 392329 | [392329-the-adventures-of-bleeposaurus-dragonfire.json](./392329-the-adventures-of-bleeposaurus-dragonfire.json) |
@@ -8754,6 +8761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew: Motorfest - Year 3 Pass | 408884 | [408884-the-crew-motorfest-year-3-pass.json](./408884-the-crew-motorfest-year-3-pass.json) |
 | The Crew: Silver Pack | 219002 | [219002-the-crew-silver-pack.json](./219002-the-crew-silver-pack.json) |
 | The Crew: Ultimate Edition | 53721 | [53721-the-crew-ultimate-edition.json](./53721-the-crew-ultimate-edition.json) |
+| The Crew: Wild Run | 11158 | [11158-the-crew-wild-run.json](./11158-the-crew-wild-run.json) |
 | The Crew: Wild Run Edition | 166227 | [166227-the-crew-wild-run-edition.json](./166227-the-crew-wild-run-edition.json) |
 | The Cricket C | 230301 | [230301-the-cricket-c.json](./230301-the-cricket-c.json) |
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
@@ -9398,6 +9406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demons of Truth | 262792 | [262792-the-demons-of-truth.json](./262792-the-demons-of-truth.json) |
 | The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
+| The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
 | The Departure | 81981 | [81981-the-departure.json](./81981-the-departure.json) |
 | The Depraved Vampire Slut | 152207 | [152207-the-depraved-vampire-slut.json](./152207-the-depraved-vampire-slut.json) |
 | The Depths | 158902 | [158902-the-depths.json](./158902-the-depths.json) |
@@ -13729,6 +13738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Farewell | 339193 | [339193-the-last-farewell.json](./339193-the-last-farewell.json) |
 | The Last Farmer | 298118 | [298118-the-last-farmer.json](./298118-the-last-farmer.json) |
 | The Last Feather | 379830 | [379830-the-last-feather.json](./379830-the-last-feather.json) |
+| The Last Federation | 11050 | [11050-the-last-federation.json](./11050-the-last-federation.json) |
 | The Last Federation Collection | 51924 | [51924-the-last-federation-collection.json](./51924-the-last-federation-collection.json) |
 | The Last Federation: Betrayed Hope | 8782 | [8782-the-last-federation-betrayed-hope.json](./8782-the-last-federation-betrayed-hope.json) |
 | The Last Federation: The Lost Technologies | 124867 | [124867-the-last-federation-the-lost-technologies.json](./124867-the-last-federation-the-lost-technologies.json) |
@@ -18099,6 +18109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Heir: Book 2 | 313684 | [313684-the-royal-heir-book-2.json](./313684-the-royal-heir-book-2.json) |
 | The Royal Heir: Book 3 | 313685 | [313685-the-royal-heir-book-3.json](./313685-the-royal-heir-book-3.json) |
 | The Royal Holiday | 313672 | [313672-the-royal-holiday.json](./313672-the-royal-holiday.json) |
+| The Royal Marines Commando | 9370 | [9370-the-royal-marines-commando.json](./9370-the-royal-marines-commando.json) |
 | The Royal Masquerade | 313643 | [313643-the-royal-masquerade.json](./313643-the-royal-masquerade.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
@@ -18180,6 +18191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacred Pools | 223823 | [223823-the-sacred-pools.json](./223823-the-sacred-pools.json) |
 | The Sacred Six Crystal: A Hero's Journey | 363640 | [363640-the-sacred-six-crystal-a-heros-journey.json](./363640-the-sacred-six-crystal-a-heros-journey.json) |
 | The Sacred Stone: A Story Adventure | 33777 | [33777-the-sacred-stone-a-story-adventure.json](./33777-the-sacred-stone-a-story-adventure.json) |
+| The Sacred Tears True | 9483 | [9483-the-sacred-tears-true.json](./9483-the-sacred-tears-true.json) |
 | The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
 | The Sacrifice | 415530 | [415530-the-sacrifice.json](./415530-the-sacrifice.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
@@ -19760,6 +19772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summoning | 427744 | [427744-the-summoning.json](./427744-the-summoning.json) |
 | The Summoning | 50134 | [50134-the-summoning.json](./50134-the-summoning.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
+| The Sun at Night | 9049 | [9049-the-sun-at-night.json](./9049-the-sun-at-night.json) |
 | The Sun Atop a Column | 225240 | [225240-the-sun-atop-a-column.json](./225240-the-sun-atop-a-column.json) |
 | The Sun Crossword Challenge | 92333 | [92333-the-sun-crossword-challenge.json](./92333-the-sun-crossword-challenge.json) |
 | The Sun Crosswords: Volume 1 & 2 | 118165 | [118165-the-sun-crosswords-volume-1-and-2.json](./118165-the-sun-crosswords-volume-1-and-2.json) |
@@ -26470,6 +26483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeLab: Castle Falkenstein | 315306 | [315306-timelab-castle-falkenstein.json](./315306-timelab-castle-falkenstein.json) |
 | TimeLab: LZ 129 Hindenburg | 337546 | [337546-timelab-lz-129-hindenburg.json](./337546-timelab-lz-129-hindenburg.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
+| Timelapse | 12485 | [12485-timelapse.json](./12485-timelapse.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless | 310093 | [310093-timeless.json](./310093-timeless.json) |
 | Timeless Adventure: A Journey to Begin | 134533 | [134533-timeless-adventure-a-journey-to-begin.json](./134533-timeless-adventure-a-journey-to-begin.json) |
@@ -27986,6 +28000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Toss | 343391 | [343391-toilet-toss.json](./343391-toilet-toss.json) |
 | Toilet Treasures | 396525 | [396525-toilet-treasures.json](./396525-toilet-treasures.json) |
 | Toilet Truble | 293327 | [293327-toilet-truble.json](./293327-toilet-truble.json) |
+| Toilet Tycoon | 10994 | [10994-toilet-tycoon.json](./10994-toilet-tycoon.json) |
 | Toilet Zone | 304586 | [304586-toilet-zone.json](./304586-toilet-zone.json) |
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
@@ -28133,6 +28148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Afterschool Summoners | 164311 | [164311-tokyo-afterschool-summoners.json](./164311-tokyo-afterschool-summoners.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
+| Tokyo Babel | 11653 | [11653-tokyo-babel.json](./11653-tokyo-babel.json) |
 | Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
 | Tokyo Bus Guide 2 | 79635 | [79635-tokyo-bus-guide-2.json](./79635-tokyo-bus-guide-2.json) |
 | Tokyo Butouhen OVA Ban | 416329 | [416329-tokyo-butouhen-ova-ban.json](./416329-tokyo-butouhen-ova-ban.json) |
@@ -29260,6 +29276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
 | Top Gun: Airstrike 3 | 218927 | [218927-top-gun-airstrike-3.json](./218927-top-gun-airstrike-3.json) |
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
+| Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Danger Zone | 73092 | [73092-top-gun-danger-zone.json](./73092-top-gun-danger-zone.json) |
 | Top Gun: Fire at Will! | 44990 | [44990-top-gun-fire-at-will.json](./44990-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
@@ -31410,6 +31427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers | 9450 | [9450-toy-soldiers.json](./9450-toy-soldiers.json) |
 | Toy Soldiers HD | 147308 | [147308-toy-soldiers-hd.json](./147308-toy-soldiers-hd.json) |
 | Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
+| Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
@@ -33805,6 +33823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Simulator 3 | 174222 | [174222-trainz-simulator-3.json](./174222-trainz-simulator-3.json) |
 | Trainz Simulator World Tour | 408040 | [408040-trainz-simulator-world-tour.json](./408040-trainz-simulator-world-tour.json) |
 | Trainz Simulator: Classic Cabon City | 11021 | [11021-trainz-simulator-classic-cabon-city.json](./11021-trainz-simulator-classic-cabon-city.json) |
+| Trainz Simulator: Murchison 2 | 11022 | [11022-trainz-simulator-murchison-2.json](./11022-trainz-simulator-murchison-2.json) |
 | Trainz Trouble | 9446 | [9446-trainz-trouble.json](./9446-trainz-trouble.json) |
 | Trainz: A New Era | 11020 | [11020-trainz-a-new-era.json](./11020-trainz-a-new-era.json) |
 | Trainz: A New Era - Aerotrain | 156169 | [156169-trainz-a-new-era-aerotrain.json](./156169-trainz-a-new-era-aerotrain.json) |
@@ -34250,6 +34269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped at Home | 357698 | [357698-trapped-at-home.json](./357698-trapped-at-home.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
+| Trapped Dead | 9443 | [9443-trapped-dead.json](./9443-trapped-dead.json) |
 | Trapped Girl X | 255677 | [255677-trapped-girl-x.json](./255677-trapped-girl-x.json) |
 | Trapped Girls | 254973 | [254973-trapped-girls.json](./254973-trapped-girls.json) |
 | Trapped Guys | 149707 | [149707-trapped-guys.json](./149707-trapped-guys.json) |
@@ -37840,6 +37860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Rockets | 392290 | [392290-twin-rockets.json](./392290-twin-rockets.json) |
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Saga | 19567 | [19567-twin-saga.json](./19567-twin-saga.json) |
+| Twin Sector | 11031 | [11031-twin-sector.json](./11031-twin-sector.json) |
 | Twin Series 1: Mezase Debut! Fashion Designer Monogatari + Kawaii Pet Game Gallery 2 | 57426 | [57426-twin-series-1-mezase-debut-fashion-designer-monogatari-kawaii-pet-game-gallery-2.json](./57426-twin-series-1-mezase-debut-fashion-designer-monogatari-kawaii-pet-game-gallery-2.json) |
 | Twin Series 2: Oshare Princess 4 + Renai Uranai Daisakusen | 57427 | [57427-twin-series-2-oshare-princess-4-renai-uranai-daisakusen.json](./57427-twin-series-2-oshare-princess-4-renai-uranai-daisakusen.json) |
 | Twin Series Vol. 3: Konchuu Monster - Ouja Ketteisen + Super Chinese Labyrinth | 57425 | [57425-twin-series-vol-3-konchuu-monster-ouja-ketteisen-super-chinese-labyrinth.json](./57425-twin-series-vol-3-konchuu-monster-ouja-ketteisen-super-chinese-labyrinth.json) |
