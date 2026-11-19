@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanx101 Trivia | 215154 | [215154-hanx101-trivia.json](./215154-hanx101-trivia.json) |
 | Hany Party Game | 65315 | [65315-hany-party-game.json](./65315-hany-party-game.json) |
 | Hanz Puppetguns | 106619 | [106619-hanz-puppetguns.json](./106619-hanz-puppetguns.json) |
+| Hanz! | 107449 | [107449-hanz.json](./107449-hanz.json) |
 | Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
 | Hànzì Dàmàoxiǎn | 159974 | [159974-hanzi-damaoxian.json](./159974-hanzi-damaoxian.json) |
 | Hanzi Match | 370431 | [370431-hanzi-match.json](./370431-hanzi-match.json) |
@@ -7910,6 +7911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Among Thieves | 340470 | [340470-hidden-among-thieves.json](./340470-hidden-among-thieves.json) |
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
+| Hidden Animals: Photo Hunt | 107456 | [107456-hidden-animals-photo-hunt.json](./107456-hidden-animals-photo-hunt.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Arcade | 302830 | [302830-hidden-arcade.json](./302830-hidden-arcade.json) |
 | Hidden Around the World | 380976 | [380976-hidden-around-the-world.json](./380976-hidden-around-the-world.json) |
@@ -9402,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippy Skate | 183353 | [183353-hippy-skate.json](./183353-hippy-skate.json) |
 | Hippy's Quest | 78362 | [78362-hippys-quest.json](./78362-hippys-quest.json) |
 | Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
+| Hipster Attack | 107617 | [107617-hipster-attack.json](./107617-hipster-attack.json) |
 | Hipster Bingo | 26158 | [26158-hipster-bingo.json](./26158-hipster-bingo.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
