@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abobi's Guide | 419622 | [419622-abobis-guide.json](./419622-abobis-guide.json) |
 | Abobo's Big Adventure | 8735 | [8735-abobos-big-adventure.json](./8735-abobos-big-adventure.json) |
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
+| Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
 | Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | AboFlah-intelliFinish | 316443 | [316443-aboflah-intellifinish.json](./316443-aboflah-intellifinish.json) |
@@ -19251,6 +19252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
 | Atelier Escha & Logy Plus: Alchemists of the Dusk Sky | 42720 | [42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json](./42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky | 7279 | [7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json](./7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json) |
+| Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Heintz | 170836 | [170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json](./170836-atelier-firis-the-alchemist-and-the-mysterious-journey-heintz.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey - Premium Box | 379939 | [379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json](./379939-atelier-firis-the-alchemist-and-the-mysterious-journey-premium-box.json) |
@@ -19362,6 +19364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea | 11513 | [11513-atelier-shallie-alchemists-of-the-dusk-sea.json](./11513-atelier-shallie-alchemists-of-the-dusk-sea.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea - Limited Edition | 51537 | [51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json](./51537-atelier-shallie-alchemists-of-the-dusk-sea-limited-edition.json) |
+| Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Digital Deluxe Edition | 221266 | [221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json](./221266-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-digital-deluxe-edition.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area "Heartscape" | 195809 | [195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json](./195809-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-heartscape.json) |
