@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 16588 | [16588-paradise-island.json](./16588-paradise-island.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
+| Paradise Island 2 | 24553 | [24553-paradise-island-2.json](./24553-paradise-island-2.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island Driver | 201722 | [201722-paradise-island-driver.json](./201722-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
@@ -14179,6 +14180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongpongpongpongpongpongpongpong | 212776 | [212776-pongpongpongpongpongpongpongpong.json](./212776-pongpongpongpongpongpongpongpong.json) |
 | Pongs | 178609 | [178609-pongs.json](./178609-pongs.json) |
 | Pongspin | 253390 | [253390-pongspin.json](./253390-pongspin.json) |
+| Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
 | Ponjalla no Houkago: Sadoubu(re) Hen | 66271 | [66271-ponjalla-no-houkago-sadoubu-re-hen.json](./66271-ponjalla-no-houkago-sadoubu-re-hen.json) |
 | Ponjan Wii | 142692 | [142692-ponjan-wii.json](./142692-ponjan-wii.json) |
 | Ponk's Jam | 157437 | [157437-ponks-jam.json](./157437-ponks-jam.json) |
@@ -14473,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Pop Pop | 54283 | [54283-pop-pop-pop.json](./54283-pop-pop-pop.json) |
 | Pop Pop Pop! | 201135 | [201135-pop-pop-pop.json](./201135-pop-pop-pop.json) |
 | Pop Pop Potato | 378572 | [378572-pop-pop-potato.json](./378572-pop-pop-potato.json) |
+| Pop Puff and Away! | 24625 | [24625-pop-puff-and-away.json](./24625-pop-puff-and-away.json) |
 | Pop Quiz logo | 108285 | [108285-pop-quiz-logo.json](./108285-pop-quiz-logo.json) |
 | Pop Rock 'N' Roll | 334445 | [334445-pop-rock-n-roll.json](./334445-pop-rock-n-roll.json) |
 | Pop Royale | 23334 | [23334-pop-royale.json](./23334-pop-royale.json) |
@@ -20887,6 +20890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Fever | 54273 | [54273-puzzle-fever.json](./54273-puzzle-fever.json) |
 | Puzzle for Kids | 84066 | [84066-puzzle-for-kids.json](./84066-puzzle-for-kids.json) |
 | Puzzle For Peppa Pig | 100825 | [100825-puzzle-for-peppa-pig.json](./100825-puzzle-for-peppa-pig.json) |
+| Puzzle Forge 2 | 24574 | [24574-puzzle-forge-2.json](./24574-puzzle-forge-2.json) |
 | Puzzle Forge Dungeon | 130197 | [130197-puzzle-forge-dungeon.json](./130197-puzzle-forge-dungeon.json) |
 | Puzzle Frame | 367646 | [367646-puzzle-frame.json](./367646-puzzle-frame.json) |
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
