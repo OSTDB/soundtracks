@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Immortal Fight | 149621 | [149621-vr-immortal-fight.json](./149621-vr-immortal-fight.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
+| VR Invaders | 30365 | [30365-vr-invaders.json](./30365-vr-invaders.json) |
 | VR Invaders: Complete Edition | 53018 | [53018-vr-invaders-complete-edition.json](./53018-vr-invaders-complete-edition.json) |
 | VR Jetpack Game | 123389 | [123389-vr-jetpack-game.json](./123389-vr-jetpack-game.json) |
 | VR Jogger | 107951 | [107951-vr-jogger.json](./107951-vr-jogger.json) |
