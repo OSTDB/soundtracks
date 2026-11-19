@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
 | Adventures of Caine McDowell: The Porkian Encounter | 379491 | [379491-adventures-of-caine-mcdowell-the-porkian-encounter.json](./379491-adventures-of-caine-mcdowell-the-porkian-encounter.json) |
 | Adventures of Carson: Fractured Continuum | 379490 | [379490-adventures-of-carson-fractured-continuum.json](./379490-adventures-of-carson-fractured-continuum.json) |
+| Adventures of Chris | 184757 | [184757-adventures-of-chris.json](./184757-adventures-of-chris.json) |
 | Adventures of DaKoo the Dragon | 214026 | [214026-adventures-of-dakoo-the-dragon.json](./214026-adventures-of-dakoo-the-dragon.json) |
 | Adventures of Deliveryman | 267481 | [267481-adventures-of-deliveryman.json](./267481-adventures-of-deliveryman.json) |
 | Adventures of Dino Riki | 8741 | [8741-adventures-of-dino-riki.json](./8741-adventures-of-dino-riki.json) |
@@ -16268,6 +16269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
+| Arma 3: Helicopters | 168906 | [168906-arma-3-helicopters.json](./168906-arma-3-helicopters.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
 | Arma 3: Laws of War | 95413 | [95413-arma-3-laws-of-war.json](./95413-arma-3-laws-of-war.json) |
 | Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
@@ -18413,6 +18415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | Asteroids: Multiplayer | 242858 | [242858-asteroids-multiplayer.json](./242858-asteroids-multiplayer.json) |
 | Asteroids: Outpost | 10606 | [10606-asteroids-outpost.json](./10606-asteroids-outpost.json) |
+| Asteroids: Recharged | 185729 | [185729-asteroids-recharged.json](./185729-asteroids-recharged.json) |
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
@@ -20991,6 +20994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken Infinity | 319841 | [319841-awaken-infinity.json](./319841-awaken-infinity.json) |
 | Awaken the Time | 132236 | [132236-awaken-the-time.json](./132236-awaken-the-time.json) |
 | Awaken, Empress of the Night | 423255 | [423255-awaken-empress-of-the-night.json](./423255-awaken-empress-of-the-night.json) |
+| Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
