@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules IV: Mother Nature - Collector's Edition | 338895 | [338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json](./338895-12-labours-of-hercules-iv-mother-nature-collectors-edition.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk | 125358 | [125358-12-labours-of-hercules-ix-a-heros-moonwalk.json](./125358-12-labours-of-hercules-ix-a-heros-moonwalk.json) |
 | 12 Labours of Hercules IX: A Hero's Moonwalk - Collector's Edition | 338900 | [338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json](./338900-12-labours-of-hercules-ix-a-heros-moonwalk-collectors-edition.json) |
+| 12 Labours of Hercules V: Kids of Hellas | 32821 | [32821-12-labours-of-hercules-v-kids-of-hellas.json](./32821-12-labours-of-hercules-v-kids-of-hellas.json) |
 | 12 Labours of Hercules V: Kids of Hellas - Collector's Edition | 338896 | [338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json](./338896-12-labours-of-hercules-v-kids-of-hellas-collectors-edition.json) |
 | 12 Labours of Hercules VI: Race for Olympus - Collectors Edition | 338897 | [338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json](./338897-12-labours-of-hercules-vi-race-for-olympus-collectors-edition.json) |
 | 12 Labours of Hercules VII: Fleecing the Fleece - Collector's Edition | 338898 | [338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json](./338898-12-labours-of-hercules-vii-fleecing-the-fleece-collectors-edition.json) |
@@ -2538,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days to Survive | 89775 | [89775-30-days-to-survive.json](./89775-30-days-to-survive.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 Games | 380343 | [380343-30-games.json](./380343-30-games.json) |
+| 30 Impossible Levels | 33054 | [33054-30-impossible-levels.json](./33054-30-impossible-levels.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 in 1 Game Collection Vol.1 | 135976 | [135976-30-in-1-game-collection-vol-1.json](./135976-30-in-1-game-collection-vol-1.json) |
 | 30 Millions D'amis | 145700 | [145700-30-millions-damis.json](./145700-30-millions-damis.json) |
@@ -3981,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8bit-Collection Jaleco Vol. 02 | 97884 | [97884-8bit-collection-jaleco-vol-02.json](./97884-8bit-collection-jaleco-vol-02.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
+| 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
 | 8bitWar: Apokalyps | 134313 | [134313-8bitwar-apokalyps.json](./134313-8bitwar-apokalyps.json) |
 | 8bitWar: Necropolis | 103112 | [103112-8bitwar-necropolis.json](./103112-8bitwar-necropolis.json) |
 | 8bitWar: Netherworld | 134312 | [134312-8bitwar-netherworld.json](./134312-8bitwar-netherworld.json) |
