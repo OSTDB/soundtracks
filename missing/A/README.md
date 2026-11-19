@@ -8739,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quiet in the Trenches | 245905 | [245905-all-quiet-in-the-trenches.json](./245905-all-quiet-in-the-trenches.json) |
 | All Quiet Roads 4743 | 192715 | [192715-all-quiet-roads-4743.json](./192715-all-quiet-roads-4743.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
+| All Rats on Deck | 421143 | [421143-all-rats-on-deck.json](./421143-all-rats-on-deck.json) |
 | All Roads | 60144 | [60144-all-roads.json](./60144-all-roads.json) |
 | All Roads Connected | 391018 | [391018-all-roads-connected.json](./391018-all-roads-connected.json) |
 | All Round Hunter | 4668 | [4668-all-round-hunter.json](./4668-all-round-hunter.json) |
@@ -10580,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel's Gold Rush | 6305 | [6305-an-american-tail-fievels-gold-rush.json](./6305-an-american-tail-fievels-gold-rush.json) |
+| An American Tail: The Computer Adventures of Fievel and His Friends | 421058 | [421058-an-american-tail-the-computer-adventures-of-fievel-and-his-friends.json](./421058-an-american-tail-the-computer-adventures-of-fievel-and-his-friends.json) |
 | An American Werewolf in LA | 135404 | [135404-an-american-werewolf-in-la.json](./135404-an-american-werewolf-in-la.json) |
 | An Angel Dances In The Sparks of a Bonfire | 336211 | [336211-an-angel-dances-in-the-sparks-of-a-bonfire.json](./336211-an-angel-dances-in-the-sparks-of-a-bonfire.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
