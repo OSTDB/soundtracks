@@ -11876,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Plinko | 357855 | [357855-horse-plinko.json](./357855-horse-plinko.json) |
 | Horse Race | 202001 | [202001-horse-race.json](./202001-horse-race.json) |
 | Horse Race Starter | 76958 | [76958-horse-race-starter.json](./76958-horse-race-starter.json) |
+| Horse Race Tests: Life is Pain | 424799 | [424799-horse-race-tests-life-is-pain.json](./424799-horse-race-tests-life-is-pain.json) |
 | Horse Races | 315464 | [315464-horse-races.json](./315464-horse-races.json) |
 | Horse Racing | 281211 | [281211-horse-racing.json](./281211-horse-racing.json) |
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
