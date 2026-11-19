@@ -7967,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmic Gymnastics Dream Team: Girls Dance | 103107 | [103107-rhythmic-gymnastics-dream-team-girls-dance.json](./103107-rhythmic-gymnastics-dream-team-girls-dance.json) |
 | Rhythmic Keyboard | 199692 | [199692-rhythmic-keyboard.json](./199692-rhythmic-keyboard.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
+| Rhythmic Star | 22596 | [22596-rhythmic-star.json](./22596-rhythmic-star.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
 | RhythmicTypeX | 279152 | [279152-rhythmictypex.json](./279152-rhythmictypex.json) |
