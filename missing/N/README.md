@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Treasure in the Royal Tower Fan Project | 349638 | [349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json](./349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json) |
 | Nancy Drew: Warnings at Waverly Academy | 15018 | [15018-nancy-drew-warnings-at-waverly-academy.json](./15018-nancy-drew-warnings-at-waverly-academy.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
+| NAND² | 424177 | [424177-nand2.json](./424177-nand2.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
@@ -5316,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightpiercer | 404568 | [404568-nightpiercer.json](./404568-nightpiercer.json) |
 | Nightpyre | 349726 | [349726-nightpyre.json](./349726-nightpyre.json) |
 | Nightraiders | 23948 | [23948-nightraiders.json](./23948-nightraiders.json) |
+| Nightravel | 424240 | [424240-nightravel.json](./424240-nightravel.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
 | Nightriderz | 159142 | [159142-nightriderz.json](./159142-nightriderz.json) |
 | Nightron Wars | 161729 | [161729-nightron-wars.json](./161729-nightron-wars.json) |
