@@ -7556,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
+| Aldmark Calls for Aid | 420288 | [420288-aldmark-calls-for-aid.json](./420288-aldmark-calls-for-aid.json) |
 | Aldo Again | 50087 | [50087-aldo-again.json](./50087-aldo-again.json) |
 | Aldo: Memory of the Kingdom | 318114 | [318114-aldo-memory-of-the-kingdom.json](./318114-aldo-memory-of-the-kingdom.json) |
 | Aldo's Adventure | 14475 | [14475-aldos-adventure.json](./14475-aldos-adventure.json) |
@@ -15229,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane's Watch | 264155 | [264155-arcanes-watch.json](./264155-arcanes-watch.json) |
 | ArcaneBound | 423283 | [423283-arcanebound.json](./423283-arcanebound.json) |
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
+| Arcanefall: Darklands | 420290 | [420290-arcanefall-darklands.json](./420290-arcanefall-darklands.json) |
 | ArcaneOutpost | 283935 | [283935-arcaneoutpost.json](./283935-arcaneoutpost.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
@@ -16789,6 +16791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars et Anima | 419585 | [419585-ars-et-anima.json](./419585-ars-et-anima.json) |
 | Ars Goetia | 338157 | [338157-ars-goetia.json](./338157-ars-goetia.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
+| Ars Moriendi | 420251 | [420251-ars-moriendi.json](./420251-ars-moriendi.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
 | Ars Nouveau | 232632 | [232632-ars-nouveau.json](./232632-ars-nouveau.json) |
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
