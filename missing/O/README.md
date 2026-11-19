@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die!: Artifacts of Power | 14540 | [14540-orcs-must-die-artifacts-of-power.json](./14540-orcs-must-die-artifacts-of-power.json) |
 | Orcs Must Die!: Lost Adventures | 14541 | [14541-orcs-must-die-lost-adventures.json](./14541-orcs-must-die-lost-adventures.json) |
 | Orcs Will Never Be Slaves | 323687 | [323687-orcs-will-never-be-slaves.json](./323687-orcs-will-never-be-slaves.json) |
+| Orcthal | 428454 | [428454-orcthal.json](./428454-orcthal.json) |
 | Orcus | 315444 | [315444-orcus.json](./315444-orcus.json) |
 | Orcz Evolve | 81721 | [81721-orcz-evolve.json](./81721-orcz-evolve.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
