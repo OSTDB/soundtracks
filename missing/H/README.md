@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haimrik | 32349 | [32349-haimrik.json](./32349-haimrik.json) |
 | Hain | 386980 | [386980-hain.json](./386980-hain.json) |
 | Hainya World | 253494 | [253494-hainya-world.json](./253494-hainya-world.json) |
+| Hainya World: "Tokikoi" Costume Pack | 427874 | [427874-hainya-world-tokikoi-costume-pack.json](./427874-hainya-world-tokikoi-costume-pack.json) |
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Boy | 218091 | [218091-hair-boy.json](./218091-hair-boy.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hans Klosss | 61508 | [61508-hans-klosss.json](./61508-hans-klosss.json) |
+| Hansa Forever | 427871 | [427871-hansa-forever.json](./427871-hansa-forever.json) |
 | Hansaku Otome no Tame no Kiyukyoku | 97650 | [97650-hansaku-otome-no-tame-no-kiyukyoku.json](./97650-hansaku-otome-no-tame-no-kiyukyoku.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
 | Hanse - The Hanseatic League | 100340 | [100340-hanse-the-hanseatic-league.json](./100340-hanse-the-hanseatic-league.json) |
@@ -10971,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Peach Clicker | 314242 | [314242-honey-peach-clicker.json](./314242-honey-peach-clicker.json) |
 | Honey Pot | 317391 | [317391-honey-pot.json](./317391-honey-pot.json) |
 | Honey Rose: Underdog Fighter Extraordinaire | 31450 | [31450-honey-rose-underdog-fighter-extraordinaire.json](./31450-honey-rose-underdog-fighter-extraordinaire.json) |
+| Honey Route | 427745 | [427745-honey-route.json](./427745-honey-route.json) |
 | Honey Select | 22486 | [22486-honey-select.json](./22486-honey-select.json) |
 | Honey Select 2: Libido | 134622 | [134622-honey-select-2-libido.json](./134622-honey-select-2-libido.json) |
 | Honey Select 2: Libido DX | 203777 | [203777-honey-select-2-libido-dx.json](./203777-honey-select-2-libido-dx.json) |
