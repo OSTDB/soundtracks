@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwanese Dominatrixes Are the Best | 385703 | [385703-taiwanese-dominatrixes-are-the-best.json](./385703-taiwanese-dominatrixes-are-the-best.json) |
 | TaiWord: A Daily Word Game | 232039 | [232039-taiword-a-daily-word-game.json](./232039-taiword-a-daily-word-game.json) |
 | Taiyaki Fabulous Museum of Fish | 321266 | [321266-taiyaki-fabulous-museum-of-fish.json](./321266-taiyaki-fabulous-museum-of-fish.json) |
+| Taiyaki Fabulous Test Kitchen | 430455 | [430455-taiyaki-fabulous-test-kitchen.json](./430455-taiyaki-fabulous-test-kitchen.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Otsuge | 209949 | [209949-taiyou-no-otsuge.json](./209949-taiyou-no-otsuge.json) |
 | Taiyou no Shinden: Asteka II | 48271 | [48271-taiyou-no-shinden-asteka-ii.json](./48271-taiyou-no-shinden-asteka-ii.json) |
@@ -6833,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifacts | 117369 | [117369-the-artifacts.json](./117369-the-artifacts.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
+| The Artisan of Glimmith: Lunar Lights | 430633 | [430633-the-artisan-of-glimmith-lunar-lights.json](./430633-the-artisan-of-glimmith-lunar-lights.json) |
 | The Artist | 29554 | [29554-the-artist.json](./29554-the-artist.json) |
 | The Artist Colors | 280630 | [280630-the-artist-colors.json](./280630-the-artist-colors.json) |
 | The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
@@ -8901,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cure | 241273 | [241273-the-cure.json](./241273-the-cure.json) |
 | The Cure | 71449 | [71449-the-cure.json](./71449-the-cure.json) |
 | The Curfew | 23367 | [23367-the-curfew.json](./23367-the-curfew.json) |
+| The Curie Courier | 430604 | [430604-the-curie-courier.json](./430604-the-curie-courier.json) |
 | The Curio Society: Eclipse Over Mesina | 19344 | [19344-the-curio-society-eclipse-over-mesina.json](./19344-the-curio-society-eclipse-over-mesina.json) |
 | The Curio Society: Eclipse over Mesina HD | 104543 | [104543-the-curio-society-eclipse-over-mesina-hd.json](./104543-the-curio-society-eclipse-over-mesina-hd.json) |
 | The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
@@ -8918,6 +8921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Blackwater | 63118 | [63118-the-curse-of-blackwater.json](./63118-the-curse-of-blackwater.json) |
 | The Curse of Cattenburg | 183478 | [183478-the-curse-of-cattenburg.json](./183478-the-curse-of-cattenburg.json) |
 | The Curse of Crowley Manor | 25592 | [25592-the-curse-of-crowley-manor.json](./25592-the-curse-of-crowley-manor.json) |
+| The Curse of Deadwood Heights | 430456 | [430456-the-curse-of-deadwood-heights.json](./430456-the-curse-of-deadwood-heights.json) |
 | The Curse of Death's Kiss | 298976 | [298976-the-curse-of-deaths-kiss.json](./298976-the-curse-of-deaths-kiss.json) |
 | The Curse of Dragmoria | 337309 | [337309-the-curse-of-dragmoria.json](./337309-the-curse-of-dragmoria.json) |
 | The Curse of Dwight Periwinkle | 112599 | [112599-the-curse-of-dwight-periwinkle.json](./112599-the-curse-of-dwight-periwinkle.json) |
@@ -13776,6 +13780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Game | 267253 | [267253-the-last-game.json](./267253-the-last-game.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gas Station | 354933 | [354933-the-last-gas-station.json](./354933-the-last-gas-station.json) |
+| The Last Gas Station: Supporter Pack | 430367 | [430367-the-last-gas-station-supporter-pack.json](./430367-the-last-gas-station-supporter-pack.json) |
+| The Last Gas Station: Winter Resort | 430363 | [430363-the-last-gas-station-winter-resort.json](./430363-the-last-gas-station-winter-resort.json) |
 | The Last General | 265279 | [265279-the-last-general.json](./265279-the-last-general.json) |
 | The Last Gift | 337328 | [337328-the-last-gift.json](./337328-the-last-gift.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
@@ -28789,6 +28795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Sweeper | 163696 | [163696-tomb-sweeper.json](./163696-tomb-sweeper.json) |
 | Tomb Tails | 420443 | [420443-tomb-tails.json](./420443-tomb-tails.json) |
 | Tomb Toad | 218604 | [218604-tomb-toad.json](./218604-tomb-toad.json) |
+| Tomb Torch Trouble | 430612 | [430612-tomb-torch-trouble.json](./430612-tomb-torch-trouble.json) |
 | Tomb Towers | 99610 | [99610-tomb-towers.json](./99610-tomb-towers.json) |
 | Tomb Typing | 157850 | [157850-tomb-typing.json](./157850-tomb-typing.json) |
 | Tomba! | 4097 | [4097-tomba.json](./4097-tomba.json) |
@@ -34519,6 +34526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Games for Dummies | 84458 | [84458-travel-games-for-dummies.json](./84458-travel-games-for-dummies.json) |
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Knight Adventure | 272904 | [272904-travel-knight-adventure.json](./272904-travel-knight-adventure.json) |
+| Travel Merge Family | 430331 | [430331-travel-merge-family.json](./430331-travel-merge-family.json) |
 | Travel Mosaics 10: Spooky Halloween | 125119 | [125119-travel-mosaics-10-spooky-halloween.json](./125119-travel-mosaics-10-spooky-halloween.json) |
 | Travel Mosaics 11: Christmas Sleigh Ride | 284459 | [284459-travel-mosaics-11-christmas-sleigh-ride.json](./284459-travel-mosaics-11-christmas-sleigh-ride.json) |
 | Travel Mosaics 12: Majestic London | 284460 | [284460-travel-mosaics-12-majestic-london.json](./284460-travel-mosaics-12-majestic-london.json) |
