@@ -3208,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
 | Aces of Avalon | 410690 | [410690-aces-of-avalon.json](./410690-aces-of-avalon.json) |
+| Aces of Ring | 418115 | [418115-aces-of-ring.json](./418115-aces-of-ring.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Deep Expansion Disk | 79075 | [79075-aces-of-the-deep-expansion-disk.json](./79075-aces-of-the-deep-expansion-disk.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -13000,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthony | 337953 | [337953-anthony.json](./337953-anthony.json) |
 | Anthony the Monk | 337954 | [337954-anthony-the-monk.json](./337954-anthony-the-monk.json) |
 | Anthony's Essay | 58009 | [58009-anthonys-essay.json](./58009-anthonys-essay.json) |
+| Anthridercynantide | 418049 | [418049-anthridercynantide.json](./418049-anthridercynantide.json) |
 | Anthro Affection: Chapter 2 | 178711 | [178711-anthro-affection-chapter-2.json](./178711-anthro-affection-chapter-2.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
 | Anthro-Terra | 293562 | [293562-anthro-terra.json](./293562-anthro-terra.json) |
@@ -20179,6 +20181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Dawn Poet | 371120 | [371120-aurora-dawn-poet.json](./371120-aurora-dawn-poet.json) |
 | Aurora Defense | 319822 | [319822-aurora-defense.json](./319822-aurora-defense.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
+| Aurora Fall | 418057 | [418057-aurora-fall.json](./418057-aurora-fall.json) |
 | Aurora Feint | 92765 | [92765-aurora-feint.json](./92765-aurora-feint.json) |
 | Aurora Feint II: The Arena | 70611 | [70611-aurora-feint-ii-the-arena.json](./70611-aurora-feint-ii-the-arena.json) |
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
@@ -20936,6 +20939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Police | 264754 | [264754-avoid-the-police.json](./264754-avoid-the-police.json) |
 | Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
 | Avoid the Roids | 119202 | [119202-avoid-the-roids.json](./119202-avoid-the-roids.json) |
+| Avoid the Stalin's Purge | 418030 | [418030-avoid-the-stalins-purge.json](./418030-avoid-the-stalins-purge.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
