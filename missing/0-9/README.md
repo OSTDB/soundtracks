@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Noon. | 58144 | [58144-noon.json](./58144-noon.json) |
 | .Redrum | 319902 | [319902-redrum.json](./319902-redrum.json) |
+| .Rise // Access | 419000 | [419000-rise-access.json](./419000-rise-access.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '83 | 116194 | [116194-83.json](./116194-83.json) |
 | '88 Games | 39329 | [39329-88-games.json](./39329-88-games.json) |
