@@ -4350,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Energy | 362908 | [362908-infinite-energy.json](./362908-infinite-energy.json) |
 | Infinite Evo TD | 407051 | [407051-infinite-evo-td.json](./407051-infinite-evo-td.json) |
 | Infinite Fleet | 185922 | [185922-infinite-fleet.json](./185922-infinite-fleet.json) |
+| Infinite Flight | 57409 | [57409-infinite-flight.json](./57409-infinite-flight.json) |
 | Infinite Flight Checklist | 106909 | [106909-infinite-flight-checklist.json](./106909-infinite-flight-checklist.json) |
 | Infinite Forest Idle | 277433 | [277433-infinite-forest-idle.json](./277433-infinite-forest-idle.json) |
 | Infinite Frontier Super Robot Wars OG Saga | 85627 | [85627-infinite-frontier-super-robot-wars-og-saga.json](./85627-infinite-frontier-super-robot-wars-og-saga.json) |
