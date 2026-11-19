@@ -6310,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find The Cat | 310438 | [310438-find-the-cat.json](./310438-find-the-cat.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats | 203991 | [203991-find-the-cats.json](./203991-find-the-cats.json) |
+| Find the Cats 2 | 429657 | [429657-find-the-cats-2.json](./429657-find-the-cats-2.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
 | Find the Cubs | 172270 | [172270-find-the-cubs.json](./172270-find-the-cubs.json) |
@@ -11131,6 +11132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Asylum 2 | 352359 | [352359-forest-asylum-2.json](./352359-forest-asylum-2.json) |
 | Forest at World's End | 25917 | [25917-forest-at-worlds-end.json](./25917-forest-at-worlds-end.json) |
 | Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
+| Forest Cabin | 429644 | [429644-forest-cabin.json](./429644-forest-cabin.json) |
 | Forest Cafe | 315814 | [315814-forest-cafe.json](./315814-forest-cafe.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
 | Forest Construction VR | 346884 | [346884-forest-construction-vr.json](./346884-forest-construction-vr.json) |
@@ -11364,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge Squad | 157748 | [157748-forge-squad.json](./157748-forge-squad.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
+| Forgebound | 429652 | [429652-forgebound.json](./429652-forgebound.json) |
 | Forged Adventure | 29277 | [29277-forged-adventure.json](./29277-forged-adventure.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
@@ -14699,6 +14702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen | 230335 | [230335-frozen.json](./230335-frozen.json) |
 | Frozen | 230377 | [230377-frozen.json](./230377-frozen.json) |
 | Frozen 2 in 1 Game Digital Watch | 412661 | [412661-frozen-2-in-1-game-digital-watch.json](./412661-frozen-2-in-1-game-digital-watch.json) |
+| Frozen Axe | 429669 | [429669-frozen-axe.json](./429669-frozen-axe.json) |
 | Frozen Below: Arctic Expedition | 294318 | [294318-frozen-below-arctic-expedition.json](./294318-frozen-below-arctic-expedition.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen City | 228826 | [228826-frozen-city.json](./228826-frozen-city.json) |
