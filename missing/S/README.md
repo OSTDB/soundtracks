@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
 | Sabre Wulf | 214351 | [214351-sabre-wulf.json](./214351-sabre-wulf.json) |
 | Sabre Wulf | 214785 | [214785-sabre-wulf.json](./214785-sabre-wulf.json) |
+| Sabre Wulf | 418995 | [418995-sabre-wulf.json](./418995-sabre-wulf.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
@@ -26823,6 +26824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarez Deluxe! | 57014 | [57014-squarez-deluxe.json](./57014-squarez-deluxe.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squarism | 75636 | [75636-squarism.json](./75636-squarism.json) |
+| Squary | 418984 | [418984-squary.json](./418984-squary.json) |
 | Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
 | Squaser 2 | 340173 | [340173-squaser-2.json](./340173-squaser-2.json) |
 | Squaser 3 | 329456 | [329456-squaser-3.json](./329456-squaser-3.json) |
@@ -30915,6 +30917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillmere | 417083 | [417083-stillmere.json](./417083-stillmere.json) |
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
+| Stilltrace | 419388 | [419388-stilltrace.json](./419388-stilltrace.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
