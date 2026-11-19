@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Killer | 41978 | [41978-panzer-killer.json](./41978-panzer-killer.json) |
 | Panzer Kliker Mk I Yanks | 360623 | [360623-panzer-kliker-mk-i-yanks.json](./360623-panzer-kliker-mk-i-yanks.json) |
 | Panzer Knights | 148190 | [148190-panzer-knights.json](./148190-panzer-knights.json) |
+| Panzer Knights: Commander’s Edition | 392660 | [392660-panzer-knights-commander-s-edition.json](./392660-panzer-knights-commander-s-edition.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Paladin: Challenge Core | 238703 | [238703-panzer-paladin-challenge-core.json](./238703-panzer-paladin-challenge-core.json) |
@@ -13372,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Monsters | 393594 | [393594-poker-monsters.json](./393594-poker-monsters.json) |
 | Poker Night | 147158 | [147158-poker-night.json](./147158-poker-night.json) |
 | Poker Night 2 | 2047 | [2047-poker-night-2.json](./2047-poker-night-2.json) |
+| Poker Night at the Inventory | 388390 | [388390-poker-night-at-the-inventory.json](./388390-poker-night-at-the-inventory.json) |
 | Poker Night at the Inventory | 8040 | [8040-poker-night-at-the-inventory.json](./8040-poker-night-at-the-inventory.json) |
 | Poker Night with David Sklansky | 209347 | [209347-poker-night-with-david-sklansky.json](./209347-poker-night-with-david-sklansky.json) |
 | Poker Now | 225708 | [225708-poker-now.json](./225708-poker-now.json) |
@@ -15704,6 +15706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
+| Powerwash Simulator 2: Adventure Time Pack | 382683 | [382683-powerwash-simulator-2-adventure-time-pack.json](./382683-powerwash-simulator-2-adventure-time-pack.json) |
 | PowerWash Simulator 2: Barbie Pack | 418240 | [418240-powerwash-simulator-2-barbie-pack.json](./418240-powerwash-simulator-2-barbie-pack.json) |
 | PowerWash Simulator 2: Star Wars Pack | 399677 | [399677-powerwash-simulator-2-star-wars-pack.json](./399677-powerwash-simulator-2-star-wars-pack.json) |
 | PowerWash Simulator: Alice's Adventures Special Pack | 305050 | [305050-powerwash-simulator-alices-adventures-special-pack.json](./305050-powerwash-simulator-alices-adventures-special-pack.json) |
@@ -16752,6 +16755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pringles Chip Racer | 335431 | [335431-pringles-chip-racer.json](./335431-pringles-chip-racer.json) |
 | Prinny 1•2: Exploded and Reloaded - Just Desserts Edition | 136215 | [136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json](./136215-prinny-1-2-exploded-and-reloaded-just-desserts-edition.json) |
 | Prinny 2: Dawn of Operation Panties, Dood! | 21769 | [21769-prinny-2-dawn-of-operation-panties-dood.json](./21769-prinny-2-dawn-of-operation-panties-dood.json) |
+| Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 | 144217 | [144217-prinny-presents-nis-classics-vol-1.json](./144217-prinny-presents-nis-classics-vol-1.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
