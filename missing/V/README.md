@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VerX | 418099 | [418099-verx.json](./418099-verx.json) |
 | Very Bad Company | 196617 | [196617-very-bad-company.json](./196617-very-bad-company.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
+| Very Chinese Time in My Life | 428457 | [428457-very-chinese-time-in-my-life.json](./428457-very-chinese-time-in-my-life.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
 | Very Human Doctor | 416822 | [416822-very-human-doctor.json](./416822-very-human-doctor.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
 | Void: Emma | 359534 | [359534-void-emma.json](./359534-void-emma.json) |
 | Void: Icarus | 365254 | [365254-void-icarus.json](./365254-void-icarus.json) |
+| Void: Reshaped | 428305 | [428305-void-reshaped.json](./428305-void-reshaped.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void's Ballad | 163734 | [163734-voids-ballad.json](./163734-voids-ballad.json) |
 | Void's Blight | 158346 | [158346-voids-blight.json](./158346-voids-blight.json) |
