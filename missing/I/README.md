@@ -4019,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inertia: Redux | 208838 | [208838-inertia-redux.json](./208838-inertia-redux.json) |
 | Inertia: Redux | 208858 | [208858-inertia-redux.json](./208858-inertia-redux.json) |
 | Inertia! | 94111 | [94111-inertia.json](./94111-inertia.json) |
+| Inertial | 423562 | [423562-inertial.json](./423562-inertial.json) |
 | Inertial Craft | 309953 | [309953-inertial-craft.json](./309953-inertial-craft.json) |
 | Inertial Drift | 127770 | [127770-inertial-drift.json](./127770-inertial-drift.json) |
 | Inertial Drift: Twilight Rivals | 227054 | [227054-inertial-drift-twilight-rivals.json](./227054-inertial-drift-twilight-rivals.json) |
@@ -6832,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
 | Ironhive | 255448 | [255448-ironhive.json](./255448-ironhive.json) |
+| Ironholm: Reign of the Isles | 423559 | [423559-ironholm-reign-of-the-isles.json](./423559-ironholm-reign-of-the-isles.json) |
 | IronKnight | 223364 | [223364-ironknight.json](./223364-ironknight.json) |
 | Ironkraft: Road to Hell | 11493 | [11493-ironkraft-road-to-hell.json](./11493-ironkraft-road-to-hell.json) |
 | Ironlaw | 117238 | [117238-ironlaw.json](./117238-ironlaw.json) |
@@ -7131,6 +7133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Hopper | 265141 | [265141-island-hopper.json](./265141-island-hopper.json) |
 | Island Hopper | 93421 | [93421-island-hopper.json](./93421-island-hopper.json) |
 | Island Idle RPG | 205872 | [205872-island-idle-rpg.json](./205872-island-idle-rpg.json) |
+| Island Idle RPG: Build and Conquer | 423608 | [423608-island-idle-rpg-build-and-conquer.json](./423608-island-idle-rpg-build-and-conquer.json) |
 | Island Invasion | 112675 | [112675-island-invasion.json](./112675-island-invasion.json) |
 | Island Keeper | 319051 | [319051-island-keeper.json](./319051-island-keeper.json) |
 | Island King | 261415 | [261415-island-king.json](./261415-island-king.json) |
