@@ -17056,6 +17056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Privateer | 269222 | [269222-privateer.json](./269222-privateer.json) |
 | Privateer 2: The Darkening | 810 | [810-privateer-2-the-darkening.json](./810-privateer-2-the-darkening.json) |
+| Privateer 2: The Darkening - 30th Anniversary Edition | 428361 | [428361-privateer-2-the-darkening-30th-anniversary-edition.json](./428361-privateer-2-the-darkening-30th-anniversary-edition.json) |
 | Privateer Escape | 204790 | [204790-privateer-escape.json](./204790-privateer-escape.json) |
 | Privateers | 58288 | [58288-privateers.json](./58288-privateers.json) |
 | Privates | 77035 | [77035-privates.json](./77035-privates.json) |
