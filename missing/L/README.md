@@ -3468,7 +3468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legions of Chaos | 220180 | [220180-legions-of-chaos.json](./220180-legions-of-chaos.json) |
 | Legions of Dawn | 124722 | [124722-legions-of-dawn.json](./124722-legions-of-dawn.json) |
 | Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
-| Legions of Steel | 17614 | [17614-legions-of-steel.json](./17614-legions-of-steel.json) |
 | Legions of Tyrandel | 31123 | [31123-legions-of-tyrandel.json](./31123-legions-of-tyrandel.json) |
 | Legions: Overdrive | 72933 | [72933-legions-overdrive.json](./72933-legions-overdrive.json) |
 | Legionwood 1: Tale of the Two Swords | 83073 | [83073-legionwood-1-tale-of-the-two-swords.json](./83073-legionwood-1-tale-of-the-two-swords.json) |
