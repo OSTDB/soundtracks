@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Overflow | 341255 | [341255-task-overflow.json](./341255-task-overflow.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Taskbar Chickens | 422408 | [422408-taskbar-chickens.json](./422408-taskbar-chickens.json) |
+| Taskbar Legends | 428980 | [428980-taskbar-legends.json](./428980-taskbar-legends.json) |
 | Taskbar Looters | 370626 | [370626-taskbar-looters.json](./370626-taskbar-looters.json) |
 | Taskbarn | 411226 | [411226-taskbarn.json](./411226-taskbarn.json) |
 | TaskFall | 422396 | [422396-taskfall.json](./422396-taskfall.json) |
@@ -8271,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The Citizen Part II | 214850 | [214850-the-citizen-part-ii.json](./214850-the-citizen-part-ii.json) |
 | The Citizen Returns | 222562 | [222562-the-citizen-returns.json](./222562-the-citizen-returns.json) |
+| The City | 428996 | [428996-the-city.json](./428996-the-city.json) |
 | The City Cards Challenge | 215810 | [215810-the-city-cards-challenge.json](./215810-the-city-cards-challenge.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of Damned Children | 257164 | [257164-the-city-of-damned-children.json](./257164-the-city-of-damned-children.json) |
@@ -20939,6 +20941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Useful Dead | 62830 | [62830-the-useful-dead.json](./62830-the-useful-dead.json) |
 | The Useless App | 322815 | [322815-the-useless-app.json](./322815-the-useless-app.json) |
 | The Useless Wizard | 372027 | [372027-the-useless-wizard.json](./372027-the-useless-wizard.json) |
+| The Usual, Please | 428986 | [428986-the-usual-please.json](./428986-the-usual-please.json) |
 | The Usurper: The Mines Of Qyntarr | 15516 | [15516-the-usurper-the-mines-of-qyntarr.json](./15516-the-usurper-the-mines-of-qyntarr.json) |
 | The Utility Room | 212918 | [212918-the-utility-room.json](./212918-the-utility-room.json) |
 | The Uwaki Kareshi: Christmas Chuushi no Oshirase | 222038 | [222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json](./222038-the-uwaki-kareshi-christmas-chuushi-no-oshirase.json) |
@@ -23870,6 +23873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
+| Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
