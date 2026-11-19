@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandfall | 377247 | [377247-wandfall.json](./377247-wandfall.json) |
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
+| Wands | 56982 | [56982-wands.json](./56982-wands.json) |
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
 | Wands and Witches | 140835 | [140835-wands-and-witches.json](./140835-wands-and-witches.json) |
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
 | War and Magic: Kingdom Reborn | 165237 | [165237-war-and-magic-kingdom-reborn.json](./165237-war-and-magic-kingdom-reborn.json) |
+| War and Order | 56951 | [56951-war-and-order.json](./56951-war-and-order.json) |
 | War and Peace | 220528 | [220528-war-and-peace.json](./220528-war-and-peace.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Peace: 1796 - 1815 | 205915 | [205915-war-and-peace-1796-1815.json](./205915-war-and-peace-1796-1815.json) |
