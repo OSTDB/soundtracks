@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age: Scrat's Nutty Adventure | 119930 | [119930-ice-age-scrats-nutty-adventure.json](./119930-ice-age-scrats-nutty-adventure.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
 | Ice Agent | 110771 | [110771-ice-agent.json](./110771-ice-agent.json) |
+| Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
 | Ice and Fire of Maiden | 111607 | [111607-ice-and-fire-of-maiden.json](./111607-ice-and-fire-of-maiden.json) |
 | Ice and Fire: The Wizards | 72610 | [72610-ice-and-fire-the-wizards.json](./72610-ice-and-fire-the-wizards.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Settlers: Imperial Miners | 340504 | [340504-imperial-settlers-imperial-miners.json](./340504-imperial-settlers-imperial-miners.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialism | 14435 | [14435-imperialism.json](./14435-imperialism.json) |
+| Imperialism II: Age of Exploration | 22828 | [22828-imperialism-ii-age-of-exploration.json](./22828-imperialism-ii-age-of-exploration.json) |
 | Imperialism: Concert of Europe | 287229 | [287229-imperialism-concert-of-europe.json](./287229-imperialism-concert-of-europe.json) |
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
@@ -6237,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion from Beyond | 375709 | [375709-invasion-from-beyond.json](./375709-invasion-from-beyond.json) |
+| Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invasion From Planet X2½ | 395608 | [395608-invasion-from-planet-x21-2.json](./395608-invasion-from-planet-x21-2.json) |
 | Invasion From Space | 191063 | [191063-invasion-from-space.json](./191063-invasion-from-space.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
