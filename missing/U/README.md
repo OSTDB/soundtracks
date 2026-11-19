@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Undergrowth: VR Maze | 149266 | [149266-undergrowth-vr-maze.json](./149266-undergrowth-vr-maze.json) |
 | Underhaul | 298827 | [298827-underhaul.json](./298827-underhaul.json) |
+| Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
 | Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | UnderHolo | 364613 | [364613-underholo.json](./364613-underholo.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unspoken | 364004 | [364004-unspoken.json](./364004-unspoken.json) |
 | Unspoken Chronicles : Nora | 117302 | [117302-unspoken-chronicles-nora.json](./117302-unspoken-chronicles-nora.json) |
 | Unspoken Echoes | 346528 | [346528-unspoken-echoes.json](./346528-unspoken-echoes.json) |
+| Unspottable | 129693 | [129693-unspottable.json](./129693-unspottable.json) |
 | UnStabbed - Knife Circus | 114699 | [114699-unstabbed-knife-circus.json](./114699-unstabbed-knife-circus.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
