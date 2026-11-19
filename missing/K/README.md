@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Klash | 213511 | [213511-kaiju-klash.json](./213511-kaiju-klash.json) |
 | Kaiju Klimb | 178375 | [178375-kaiju-klimb.json](./178375-kaiju-klimb.json) |
 | Kaiju Krashers | 168605 | [168605-kaiju-krashers.json](./168605-kaiju-krashers.json) |
+| Kaiju Krush | 428448 | [428448-kaiju-krush.json](./428448-kaiju-krush.json) |
 | Kaiju Monster VR | 190832 | [190832-kaiju-monster-vr.json](./190832-kaiju-monster-vr.json) |
 | Kaiju No. 8: The Game | 343892 | [343892-kaiju-no-8-the-game.json](./343892-kaiju-no-8-the-game.json) |
 | Kaiju Noir | 180458 | [180458-kaiju-noir.json](./180458-kaiju-noir.json) |
