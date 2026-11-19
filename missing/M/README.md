@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
 | Major Tom | 419550 | [419550-major-tom.json](./419550-major-tom.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
+| Major\Minor | 57391 | [57391-major-minor.json](./57391-major-minor.json) |
 | Major\Minor: Complete Edition | 32567 | [32567-major-minor-complete-edition.json](./32567-major-minor-complete-edition.json) |
 | Majora's Mask 3D Randomizer | 288700 | [288700-majoras-mask-3d-randomizer.json](./288700-majoras-mask-3d-randomizer.json) |
 | Majora's Mask Redux | 172479 | [172479-majoras-mask-redux.json](./172479-majoras-mask-redux.json) |
@@ -15865,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Truth | 410598 | [410598-missing-truth.json](./410598-missing-truth.json) |
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
+| Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
 | Missing: The 13th Victim | 71091 | [71091-missing-the-13th-victim.json](./71091-missing-the-13th-victim.json) |
 | Mission | 179530 | [179530-mission.json](./179530-mission.json) |
 | Mission | 246351 | [246351-mission.json](./246351-mission.json) |
