@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La-Mulana | 7895 | [7895-la-mulana.json](./7895-la-mulana.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
 | La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
+| La-Mulana 1 & 2 | 124468 | [124468-la-mulana-1-and-2.json](./124468-la-mulana-1-and-2.json) |
 | La-Mulana 1 & 2: Hidden Treasures Edition | 135964 | [135964-la-mulana-1-and-2-hidden-treasures-edition.json](./135964-la-mulana-1-and-2-hidden-treasures-edition.json) |
 | La-Mulana 2 | 7937 | [7937-la-mulana-2.json](./7937-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
