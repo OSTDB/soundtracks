@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait, Is That Me? | 364653 | [364653-wait-is-that-me.json](./364653-wait-is-that-me.json) |
+| Wait, They Can Climb?! | 425366 | [425366-wait-they-can-climb.json](./425366-wait-they-can-climb.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Life is beautiful! | 81163 | [81163-wait-life-is-beautiful.json](./81163-wait-life-is-beautiful.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
@@ -5988,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Snap | 367577 | [367577-wild-snap.json](./367577-wild-snap.json) |
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Space | 360860 | [360860-wild-space.json](./360860-wild-space.json) |
+| Wild Spirits Era | 425362 | [425362-wild-spirits-era.json](./425362-wild-spirits-era.json) |
 | Wild Squirrel Family Sim 3D | 234455 | [234455-wild-squirrel-family-sim-3d.json](./234455-wild-squirrel-family-sim-3d.json) |
 | Wild Story: Primal Secrets | 422079 | [422079-wild-story-primal-secrets.json](./422079-wild-story-primal-secrets.json) |
 | Wild Story: Primal Secrets - Collector's Edition | 416475 | [416475-wild-story-primal-secrets-collectors-edition.json](./416475-wild-story-primal-secrets-collectors-edition.json) |
