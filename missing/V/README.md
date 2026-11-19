@@ -4532,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Racing | 277640 | [277640-vr-racing.json](./277640-vr-racing.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
+| VR Realms | 425969 | [425969-vr-realms.json](./425969-vr-realms.json) |
 | VR Refuse Classification | 127659 | [127659-vr-refuse-classification.json](./127659-vr-refuse-classification.json) |
 | VR Regatta - The Sailing Game | 32717 | [32717-vr-regatta-the-sailing-game.json](./32717-vr-regatta-the-sailing-game.json) |
 | VR Regatta: The Sailing Game - Arctic | 168072 | [168072-vr-regatta-the-sailing-game-arctic.json](./168072-vr-regatta-the-sailing-game-arctic.json) |
