@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne's World | 310701 | [310701-waynes-world.json](./310701-waynes-world.json) |
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
 | Wayout | 18706 | [18706-wayout.json](./18706-wayout.json) |
+| WayOut | 25716 | [25716-wayout.json](./25716-wayout.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
 | WayPoint | 335228 | [335228-waypoint.json](./335228-waypoint.json) |
 | Ways | 287594 | [287594-ways.json](./287594-ways.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will & Dewitt: Pad-Hop Adventure | 330032 | [330032-will-and-dewitt-pad-hop-adventure.json](./330032-will-and-dewitt-pad-hop-adventure.json) |
 | Will Bridge : Initiation Junior | 145108 | [145108-will-bridge-initiation-junior.json](./145108-will-bridge-initiation-junior.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
+| Will Fight for Food: Super Actual Sellout - Game of the Hour | 24575 | [24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json](./24575-will-fight-for-food-super-actual-sellout-game-of-the-hour.json) |
 | Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will I Survive Tonight? | 298618 | [298618-will-i-survive-tonight.json](./298618-will-i-survive-tonight.json) |
