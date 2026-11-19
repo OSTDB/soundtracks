@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAGAP 3: The Apocalyptic Game About Penguins 3 | 77511 | [77511-tagap-3-the-apocalyptic-game-about-penguins-3.json](./77511-tagap-3-the-apocalyptic-game-about-penguins-3.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | TAGAP: The Apocalyptic Game About Penguins | 79671 | [79671-tagap-the-apocalyptic-game-about-penguins.json](./79671-tagap-the-apocalyptic-game-about-penguins.json) |
+| Tagbalay | 427067 | [427067-tagbalay.json](./427067-tagbalay.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
 | Taghairm | 59685 | [59685-taghairm.json](./59685-taghairm.json) |
 | TagHunter | 192779 | [192779-taghunter.json](./192779-taghunter.json) |
@@ -11779,6 +11780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Machine | 265992 | [265992-the-green-machine.json](./265992-the-green-machine.json) |
 | The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
+| The Green Room | 427171 | [427171-the-green-room.json](./427171-the-green-room.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Green Room Experiment: Episode 2 | 263740 | [263740-the-green-room-experiment-episode-2.json](./263740-the-green-room-experiment-episode-2.json) |
@@ -12541,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors - A.X.E.8: Houkago Climax Girls | 420789 | [420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json](./420789-the-idolmaster-shiny-colors-a-x-e-8-houkago-climax-girls.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Illumination Stars | 416719 | [416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json](./416719-the-idolmaster-shiny-colors-a-x-e-8-illumination-stars.json) |
 | The Idolmaster: Shiny Colors - A.X.E.8: Noctchill | 427075 | [427075-the-idolmaster-shiny-colors-a-x-e-8-noctchill.json](./427075-the-idolmaster-shiny-colors-a-x-e-8-noctchill.json) |
+| The Idolmaster: Shiny Colors - Hate ni Fureru no nara | 427073 | [427073-the-idolmaster-shiny-colors-hate-ni-fureru-no-nara.json](./427073-the-idolmaster-shiny-colors-hate-ni-fureru-no-nara.json) |
 | The Idolmaster: Shiny Colors - Itsuka Kaze ga Yamu Sono Hi made | 415460 | [415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json](./415460-the-idolmaster-shiny-colors-itsuka-kaze-ga-yamu-sono-hi-made.json) |
 | The Idolmaster: Shiny Colors - Moshimo, L'Antica ja Nakattara | 420792 | [420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json](./420792-the-idolmaster-shiny-colors-moshimo-lantica-ja-nakattara.json) |
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
@@ -21004,6 +21007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
+| The Veil Express | 427147 | [427147-the-veil-express.json](./427147-the-veil-express.json) |
 | The Veil of Mystery: Seven Little Gnomes | 185935 | [185935-the-veil-of-mystery-seven-little-gnomes.json](./185935-the-veil-of-mystery-seven-little-gnomes.json) |
 | The Veil of the Forgotten | 321688 | [321688-the-veil-of-the-forgotten.json](./321688-the-veil-of-the-forgotten.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
@@ -22321,6 +22325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
 | There Will Be Ink | 119846 | [119846-there-will-be-ink.json](./119846-there-will-be-ink.json) |
 | There Will Be Light | 347186 | [347186-there-will-be-light.json](./347186-there-will-be-light.json) |
+| There Will Be No Tomorrow | 427169 | [427169-there-will-be-no-tomorrow.json](./427169-there-will-be-no-tomorrow.json) |
 | There Will Be No Turkey This Christmas | 185783 | [185783-there-will-be-no-turkey-this-christmas.json](./185783-there-will-be-no-turkey-this-christmas.json) |
 | There Won't be Light | 196911 | [196911-there-wont-be-light.json](./196911-there-wont-be-light.json) |
 | There You Are | 177794 | [177794-there-you-are.json](./177794-there-you-are.json) |
@@ -23866,6 +23871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy & Bright: Together at the Christmas Market | 421718 | [421718-tidy-and-bright-together-at-the-christmas-market.json](./421718-tidy-and-bright-together-at-the-christmas-market.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Backpack: In the Faraway Lands | 412003 | [412003-tidy-backpack-in-the-faraway-lands.json](./412003-tidy-backpack-in-the-faraway-lands.json) |
+| Tidy Bakery | 427162 | [427162-tidy-bakery.json](./427162-tidy-bakery.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
 | Tidy Farm | 425169 | [425169-tidy-farm.json](./425169-tidy-farm.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
@@ -26762,6 +26768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Light | 371923 | [371923-tiny-light.json](./371923-tiny-light.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
+| Tiny Lives | 427165 | [427165-tiny-lives.json](./427165-tiny-lives.json) |
 | Tiny Love | 114880 | [114880-tiny-love.json](./114880-tiny-love.json) |
 | Tiny Machinery: Lost Reality | 302019 | [302019-tiny-machinery-lost-reality.json](./302019-tiny-machinery-lost-reality.json) |
 | Tiny Mafia: War of Syndicates | 188355 | [188355-tiny-mafia-war-of-syndicates.json](./188355-tiny-mafia-war-of-syndicates.json) |
@@ -35602,6 +35609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | TriviaQuest: Mythic Conquest | 282270 | [282270-triviaquest-mythic-conquest.json](./282270-triviaquest-mythic-conquest.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
+| Trivox | 427195 | [427195-trivox.json](./427195-trivox.json) |
 | TriwarM Global | 411257 | [411257-triwarm-global.json](./411257-triwarm-global.json) |
 | Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
 | Trix | 392817 | [392817-trix.json](./392817-trix.json) |
@@ -35783,6 +35791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical America | 173420 | [173420-tropical-america.json](./173420-tropical-america.json) |
 | Tropical Angel | 39940 | [39940-tropical-angel.json](./39940-tropical-angel.json) |
 | Tropical Blessings | 385631 | [385631-tropical-blessings.json](./385631-tropical-blessings.json) |
+| Tropical Boy | 427156 | [427156-tropical-boy.json](./427156-tropical-boy.json) |
 | Tropical Dragon Slaughter | 408055 | [408055-tropical-dragon-slaughter.json](./408055-tropical-dragon-slaughter.json) |
 | Tropical Escape | 81198 | [81198-tropical-escape.json](./81198-tropical-escape.json) |
 | Tropical Farm | 24738 | [24738-tropical-farm.json](./24738-tropical-farm.json) |
@@ -36015,6 +36024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Manager | 306332 | [306332-truck-manager.json](./306332-truck-manager.json) |
 | Truck Manager Australia | 393204 | [393204-truck-manager-australia.json](./393204-truck-manager-australia.json) |
 | Truck Master | 393203 | [393203-truck-master.json](./393203-truck-master.json) |
+| Truck Masters India | 427185 | [427185-truck-masters-india.json](./427185-truck-masters-india.json) |
 | Truck Mechanic Sim 2025 | 330610 | [330610-truck-mechanic-sim-2025.json](./330610-truck-mechanic-sim-2025.json) |
 | Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
