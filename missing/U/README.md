@@ -1806,9 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
-| Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
-| Under Defeat HD+ | 21016 | [21016-under-defeat-hd.json](./21016-under-defeat-hd.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
 | Under Development | 131344 | [131344-under-development.json](./131344-under-development.json) |
 | Under Domain | 139190 | [139190-under-domain.json](./139190-under-domain.json) |
@@ -2825,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited | 44243 | [44243-unlimited.json](./44243-unlimited.json) |
 | Unlimited Adventures | 2531 | [2531-unlimited-adventures.json](./2531-unlimited-adventures.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
+| Unlimited Ammo Survivor | 392504 | [392504-unlimited-ammo-survivor.json](./392504-unlimited-ammo-survivor.json) |
 | Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
 | Unlimited Escape | 17825 | [17825-unlimited-escape.json](./17825-unlimited-escape.json) |
