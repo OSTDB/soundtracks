@@ -5746,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri | 11732 | [11732-petri.json](./11732-petri.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
+| Petri Party | 420272 | [420272-petri-party.json](./420272-petri-party.json) |
 | Petrichor | 317198 | [317198-petrichor.json](./317198-petrichor.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
 | Petrichor | 337594 | [337594-petrichor.json](./337594-petrichor.json) |
@@ -11407,6 +11408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stay Calm | 63148 | [63148-please-stay-calm.json](./63148-please-stay-calm.json) |
 | Please Stay Dead | 423348 | [423348-please-stay-dead.json](./423348-please-stay-dead.json) |
+| Please Stay Seated | 420246 | [420246-please-stay-seated.json](./420246-please-stay-seated.json) |
 | Please Stop Breeding the Ducks | 414732 | [414732-please-stop-breeding-the-ducks.json](./414732-please-stop-breeding-the-ducks.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
@@ -15169,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Thriller | 97100 | [97100-potato-thriller.json](./97100-potato-thriller.json) |
 | Potato Thriller: Steamed Potato Edition | 32432 | [32432-potato-thriller-steamed-potato-edition.json](./32432-potato-thriller-steamed-potato-edition.json) |
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
+| Potato.exe: A Game About Spinning a Wheel to Download Potatoes | 420266 | [420266-potato-exe-a-game-about-spinning-a-wheel-to-download-potatoes.json](./420266-potato-exe-a-game-about-spinning-a-wheel-to-download-potatoes.json) |
 | Potato's Dream | 164958 | [164958-potatos-dream.json](./164958-potatos-dream.json) |
 | Potatoe | 86289 | [86289-potatoe.json](./86289-potatoe.json) |
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
