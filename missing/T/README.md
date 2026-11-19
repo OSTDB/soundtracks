@@ -682,7 +682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail io | 284498 | [284498-tail-io.json](./284498-tail-io.json) |
 | Tail Me | 179081 | [179081-tail-me.json](./179081-tail-me.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
-| Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
 | Tail Tale | 73338 | [73338-tail-tale.json](./73338-tail-tale.json) |
 | Tail to Nose | 39505 | [39505-tail-to-nose.json](./39505-tail-to-nose.json) |
 | Tail to Nose: Great Championship | 137245 | [137245-tail-to-nose-great-championship.json](./137245-tail-to-nose-great-championship.json) |
@@ -1860,7 +1859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi no Narikiri Challenge | 77626 | [77626-tamagotchi-no-narikiri-challenge.json](./77626-tamagotchi-no-narikiri-challenge.json) |
 | Tamagotchi no Narikiri Channel | 77624 | [77624-tamagotchi-no-narikiri-channel.json](./77624-tamagotchi-no-narikiri-channel.json) |
 | Tamagotchi no Pichi Pichi Omisecchi | 77622 | [77622-tamagotchi-no-pichi-pichi-omisecchi.json](./77622-tamagotchi-no-pichi-pichi-omisecchi.json) |
-| Tamagotchi no Pika Pika Daitouryou! | 20652 | [20652-tamagotchi-no-pika-pika-daitouryou.json](./20652-tamagotchi-no-pika-pika-daitouryou.json) |
 | Tamagotchi no Puchi Puchi Omisecchi: Ninko no Omise Atsumemashita | 77580 | [77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json](./77580-tamagotchi-no-puchi-puchi-omisecchi-ninko-no-omise-atsumemashita.json) |
 | Tamagotchi Ocean | 229510 | [229510-tamagotchi-ocean.json](./229510-tamagotchi-ocean.json) |
 | Tamagotchi On: Fairy ver. | 230043 | [230043-tamagotchi-on-fairy-ver.json](./230043-tamagotchi-on-fairy-ver.json) |
@@ -3687,7 +3685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Golf | 45064 | [45064-tecmo-world-golf.json](./45064-tecmo-world-golf.json) |
 | Tecmo World Soccer '96 | 39963 | [39963-tecmo-world-soccer-96.json](./39963-tecmo-world-soccer-96.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
-| Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
 | Tecno: The Base | 92029 | [92029-tecno-the-base.json](./92029-tecno-the-base.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
@@ -3804,7 +3801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash! | 58455 | [58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json](./58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json) |
 | Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
 | Teenage Mutant Ninja Turtles X Justice League Turbo | 176027 | [176027-teenage-mutant-ninja-turtles-x-justice-league-turbo.json](./176027-teenage-mutant-ninja-turtles-x-justice-league-turbo.json) |
-| Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle Match | 59375 | [59375-teenage-mutant-ninja-turtles-battle-match.json](./59375-teenage-mutant-ninja-turtles-battle-match.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
@@ -5622,7 +5618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Online | 134117 | [134117-tetris-online.json](./134117-tetris-online.json) |
 | Tetris Party | 5217 | [5217-tetris-party.json](./5217-tetris-party.json) |
 | Tetris Party Deluxe | 21099 | [21099-tetris-party-deluxe.json](./21099-tetris-party-deluxe.json) |
-| Tetris Party Live | 21166 | [21166-tetris-party-live.json](./21166-tetris-party-live.json) |
 | Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
@@ -5742,7 +5737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Cheat 'Em | 92652 | [92652-texas-cheat-em.json](./92652-texas-cheat-em.json) |
 | Texas Hold 'em | 145836 | [145836-texas-hold-em.json](./145836-texas-hold-em.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
-| Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'em | 81524 | [81524-texas-holdem.json](./81524-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
@@ -11522,7 +11516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather: City Wars | 355894 | [355894-the-godfather-city-wars.json](./355894-the-godfather-city-wars.json) |
 | The Godfather: Family Dynasty | 98192 | [98192-the-godfather-family-dynasty.json](./98192-the-godfather-family-dynasty.json) |
 | The Godfather: Mob Wars | 42748 | [42748-the-godfather-mob-wars.json](./42748-the-godfather-mob-wars.json) |
-| The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godfeather: A Mafia Pigeon Saga | 216917 | [216917-the-godfeather-a-mafia-pigeon-saga.json](./216917-the-godfeather-a-mafia-pigeon-saga.json) |
 | The Godkiller | 123228 | [123228-the-godkiller.json](./123228-the-godkiller.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
@@ -11999,7 +11992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Thing Ever | 157306 | [157306-the-hardest-thing-ever.json](./157306-the-hardest-thing-ever.json) |
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
 | The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
-| The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harem Life of the Violent Swordsman! | 154149 | [154149-the-harem-life-of-the-violent-swordsman.json](./154149-the-harem-life-of-the-violent-swordsman.json) |
 | The Harlem Shake Dance Video Game | 200876 | [200876-the-harlem-shake-dance-video-game.json](./200876-the-harlem-shake-dance-video-game.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
@@ -13450,7 +13442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Koopa Who Stole Christmas | 281018 | [281018-the-koopa-who-stole-christmas.json](./281018-the-koopa-who-stole-christmas.json) |
 | The Kore Gang | 4960 | [4960-the-kore-gang.json](./4960-the-kore-gang.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
-| The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
 | The Korean War | 59308 | [59308-the-korean-war.json](./59308-the-korean-war.json) |
 | The Koshan Conspiracy | 69926 | [69926-the-koshan-conspiracy.json](./69926-the-koshan-conspiracy.json) |
 | The Kostka | 143249 | [143249-the-kostka.json](./143249-the-kostka.json) |
@@ -15033,7 +15024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Riders of Rohan | 19098 | [19098-the-lord-of-the-rings-online-riders-of-rohan.json](./19098-the-lord-of-the-rings-online-riders-of-rohan.json) |
 | The Lord of the Rings Online: Riders of Rohan - Heroic Edition Live | 95570 | [95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json](./95570-the-lord-of-the-rings-online-riders-of-rohan-heroic-edition-live.json) |
 | The Lord of the Rings Online: Rise of Isengard | 24290 | [24290-the-lord-of-the-rings-online-rise-of-isengard.json](./24290-the-lord-of-the-rings-online-rise-of-isengard.json) |
-| The Lord of the Rings Online: Siege of Mirkwood | 21155 | [21155-the-lord-of-the-rings-online-siege-of-mirkwood.json](./21155-the-lord-of-the-rings-online-siege-of-mirkwood.json) |
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings Pinball | 353605 | [353605-the-lord-of-the-rings-pinball.json](./353605-the-lord-of-the-rings-pinball.json) |
 | The Lord of the Rings Trivia Game | 353604 | [353604-the-lord-of-the-rings-trivia-game.json](./353604-the-lord-of-the-rings-trivia-game.json) |
@@ -25763,7 +25753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
-| Tiger Woods PGA Tour Online | 21159 | [21159-tiger-woods-pga-tour-online.json](./21159-tiger-woods-pga-tour-online.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
 | Tiger's Baseball All-Stars | 217705 | [217705-tigers-baseball-all-stars.json](./217705-tigers-baseball-all-stars.json) |
 | Tigerball | 228173 | [228173-tigerball.json](./228173-tigerball.json) |
@@ -27367,7 +27356,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNMverse VIP | 270836 | [270836-tnmverse-vip.json](./270836-tnmverse-vip.json) |
 | TNN Bass Tournament of Champions | 46592 | [46592-tnn-bass-tournament-of-champions.json](./46592-tnn-bass-tournament-of-champions.json) |
-| TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNN Motorsports Hardcore Heat | 45845 | [45845-tnn-motorsports-hardcore-heat.json](./45845-tnn-motorsports-hardcore-heat.json) |
 | TNN Motorsports Hardcore TR | 34707 | [34707-tnn-motorsports-hardcore-tr.json](./34707-tnn-motorsports-hardcore-tr.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
@@ -28068,7 +28056,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Afterschool Summoners | 164311 | [164311-tokyo-afterschool-summoners.json](./164311-tokyo-afterschool-summoners.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
-| Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
 | Tokyo Bus Guide 2 | 79635 | [79635-tokyo-bus-guide-2.json](./79635-tokyo-bus-guide-2.json) |
 | Tokyo Butouhen OVA Ban | 416329 | [416329-tokyo-butouhen-ova-ban.json](./416329-tokyo-butouhen-ova-ban.json) |
@@ -28113,7 +28100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
 | Tokyo Ghoul: To Eat or Not to Eat | 27936 | [27936-tokyo-ghoul-to-eat-or-not-to-eat.json](./27936-tokyo-ghoul-to-eat-or-not-to-eat.json) |
-| Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Hotel | 379964 | [379964-tokyo-hotel.json](./379964-tokyo-hotel.json) |
 | Tokyo Joshikou Seifuku o Nuida Zukan: Part 1 | 92075 | [92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json](./92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json) |
@@ -30007,7 +29993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Me | 367873 | [367873-touch-me.json](./367873-touch-me.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Me2 | 274280 | [274280-touch-me2.json](./274280-touch-me2.json) |
-| Touch Mechanic | 21188 | [21188-touch-mechanic.json](./21188-touch-mechanic.json) |
 | Touch Melbourne | 167705 | [167705-touch-melbourne.json](./167705-touch-melbourne.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
@@ -30556,7 +30541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
 | Tour de Force | 238698 | [238698-tour-de-force.json](./238698-tour-de-force.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
-| Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2012 | 94161 | [94161-tour-de-france-2012.json](./94161-tour-de-france-2012.json) |
 | Tour de France 2013 | 83860 | [83860-tour-de-france-2013.json](./83860-tour-de-france-2013.json) |
@@ -31329,7 +31313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Seeker | 82356 | [82356-toy-seeker.json](./82356-toy-seeker.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
-| Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Shop Boys | 43195 | [43195-toy-shop-boys.json](./43195-toy-shop-boys.json) |
 | Toy Shop Simulator | 326332 | [326332-toy-shop-simulator.json](./326332-toy-shop-simulator.json) |
 | Toy Shop: Tidy Up | 412001 | [412001-toy-shop-tidy-up.json](./412001-toy-shop-tidy-up.json) |
@@ -34707,7 +34690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Treasure: Fortress Forage - Extra Edition | 51656 | [51656-treasure-treasure-fortress-forage-extra-edition.json](./51656-treasure-treasure-fortress-forage-extra-edition.json) |
 | Treasure Trolls | 217700 | [217700-treasure-trolls.json](./217700-treasure-trolls.json) |
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
-| Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasure-hunting on Sekai Camera | 108135 | [108135-treasure-hunting-on-sekai-camera.json](./108135-treasure-hunting-on-sekai-camera.json) |
 | Treasured | 157736 | [157736-treasured.json](./157736-treasured.json) |
 | TreasureHunter by R.Garfield | 175579 | [175579-treasurehunter-by-r-garfield.json](./175579-treasurehunter-by-r-garfield.json) |
@@ -35499,8 +35481,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 2001 | 49988 | [49988-triple-play-2001.json](./49988-triple-play-2001.json) |
 | Triple Play 2002 | 23464 | [23464-triple-play-2002.json](./23464-triple-play-2002.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
-| Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
-| Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Play 99 | 45003 | [45003-triple-play-99.json](./45003-triple-play-99.json) |
 | Triple Play Baseball | 44924 | [44924-triple-play-baseball.json](./44924-triple-play-baseball.json) |
 | Triple Play: Gold Edition | 4488 | [4488-triple-play-gold-edition.json](./4488-triple-play-gold-edition.json) |
