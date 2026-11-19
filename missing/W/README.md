@@ -3296,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Must Praise Our Glorious Leader the Flumf | 111403 | [111403-we-must-praise-our-glorious-leader-the-flumf.json](./111403-we-must-praise-our-glorious-leader-the-flumf.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
+| We Need More Humans! | 429648 | [429648-we-need-more-humans.json](./429648-we-need-more-humans.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need Space | 297859 | [297859-we-need-space.json](./297859-we-need-space.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
