@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Galerie des Toilettes | 347435 | [347435-la-galerie-des-toilettes.json](./347435-la-galerie-des-toilettes.json) |
 | La Giungla Tenebrosa | 145976 | [145976-la-giungla-tenebrosa.json](./145976-la-giungla-tenebrosa.json) |
 | La Gran Alameda | 299425 | [299425-la-gran-alameda.json](./299425-la-gran-alameda.json) |
+| La Gran Aventura de David Santiso | 424796 | [424796-la-gran-aventura-de-david-santiso.json](./424796-la-gran-aventura-de-david-santiso.json) |
 | La Grande Armee at Austerlitz | 61844 | [61844-la-grande-armee-at-austerlitz.json](./61844-la-grande-armee-at-austerlitz.json) |
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
@@ -9673,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lostguns | 400627 | [400627-lostguns.json](./400627-lostguns.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
+| LostMan | 424772 | [424772-lostman.json](./424772-lostman.json) |
 | Lostmiao Mjao | 377510 | [377510-lostmiao-mjao.json](./377510-lostmiao-mjao.json) |
 | LostMiner: Build & Craft Game | 298747 | [298747-lostminer-build-and-craft-game.json](./298747-lostminer-build-and-craft-game.json) |
 | Lostria | 157245 | [157245-lostria.json](./157245-lostria.json) |
