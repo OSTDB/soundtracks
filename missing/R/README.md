@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
+| R831 | 429634 | [429634-r831.json](./429634-r831.json) |
 | Ra 2 | 30335 | [30335-ra-2.json](./30335-ra-2.json) |
 | Ra Ra Boom | 242111 | [242111-ra-ra-boom.json](./242111-ra-ra-boom.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
@@ -14161,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runai | 368613 | [368613-runai.json](./368613-runai.json) |
 | Runan Ritual | 418151 | [418151-runan-ritual.json](./418151-runan-ritual.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
+| Runasaurus Rex: Origins | 429663 | [429663-runasaurus-rex-origins.json](./429663-runasaurus-rex-origins.json) |
 | Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
