@@ -24543,6 +24543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
 | Mycel Pipi | 427817 | [427817-mycel-pipi.json](./427817-mycel-pipi.json) |
+| Mycelarium | 427798 | [427798-mycelarium.json](./427798-mycelarium.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium | 309702 | [309702-mycelium.json](./309702-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
