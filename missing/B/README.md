@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Realms | 219409 | [219409-bandit-realms.json](./219409-bandit-realms.json) |
 | Bandit Simulator | 121474 | [121474-bandit-simulator.json](./121474-bandit-simulator.json) |
 | Bandit Simulator TD | 389945 | [389945-bandit-simulator-td.json](./389945-bandit-simulator-td.json) |
+| Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandit Six: Salvo | 338654 | [338654-bandit-six-salvo.json](./338654-bandit-six-salvo.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
@@ -7956,6 +7957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitching Sinners | 268152 | [268152-bewitching-sinners.json](./268152-bewitching-sinners.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
 | Beyblade Burst | 290317 | [290317-beyblade-burst.json](./290317-beyblade-burst.json) |
+| Beyblade Burst App | 86830 | [86830-beyblade-burst-app.json](./86830-beyblade-burst-app.json) |
 | Beyblade Burst: Battle Zero | 101309 | [101309-beyblade-burst-battle-zero.json](./101309-beyblade-burst-battle-zero.json) |
 | Beyblade Super Stars | 84429 | [84429-beyblade-super-stars.json](./84429-beyblade-super-stars.json) |
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
@@ -9620,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird View Burger Barn | 123242 | [123242-bird-view-burger-barn.json](./123242-bird-view-burger-barn.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
 | Bird Watch: Central Park | 256670 | [256670-bird-watch-central-park.json](./256670-bird-watch-central-park.json) |
+| Bird Watcher | 86526 | [86526-bird-watcher.json](./86526-bird-watcher.json) |
 | Bird Watcher: The Interactive Birding Game | 130528 | [130528-bird-watcher-the-interactive-birding-game.json](./130528-bird-watcher-the-interactive-birding-game.json) |
 | Bird Watching Simulator | 260559 | [260559-bird-watching-simulator.json](./260559-bird-watching-simulator.json) |
 | Bird Week | 48543 | [48543-bird-week.json](./48543-bird-week.json) |
