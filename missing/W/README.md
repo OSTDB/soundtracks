@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Hour | 261158 | [261158-witching-hour.json](./261158-witching-hour.json) |
 | Witching Hour | 410130 | [410130-witching-hour.json](./410130-witching-hour.json) |
 | Witching Hour at Hell House | 134867 | [134867-witching-hour-at-hell-house.json](./134867-witching-hour-at-hell-house.json) |
+| Witching Ihatov | 418044 | [418044-witching-ihatov.json](./418044-witching-ihatov.json) |
 | Witching Morning | 182134 | [182134-witching-morning.json](./182134-witching-morning.json) |
 | Witching Stone | 284839 | [284839-witching-stone.json](./284839-witching-stone.json) |
 | Witching Tower | 90121 | [90121-witching-tower.json](./90121-witching-tower.json) |
@@ -10013,6 +10014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm Goes to Hell | 216820 | [216820-worm-goes-to-hell.json](./216820-worm-goes-to-hell.json) |
 | Worm in Horror Place | 392856 | [392856-worm-in-horror-place.json](./392856-worm-in-horror-place.json) |
 | Worm in Ruins | 413285 | [413285-worm-in-ruins.json](./413285-worm-in-ruins.json) |
+| Worm in Village | 418040 | [418040-worm-in-village.json](./418040-worm-in-village.json) |
 | Worm Jazz | 139368 | [139368-worm-jazz.json](./139368-worm-jazz.json) |
 | Worm Nom Nom | 182978 | [182978-worm-nom-nom.json](./182978-worm-nom-nom.json) |
 | Worm Odyssey | 275914 | [275914-worm-odyssey.json](./275914-worm-odyssey.json) |
