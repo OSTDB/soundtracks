@@ -7680,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Smash | 148312 | [148312-itadaki-smash.json](./148312-itadaki-smash.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Itadaki Street 3 | 60477 | [60477-itadaki-street-3.json](./60477-itadaki-street-3.json) |
+| Itadaki Street Mobile: Don-don Kaiten! Zouchiku-chuu! | 425342 | [425342-itadaki-street-mobile-don-don-kaiten-zouchiku-chuu.json](./425342-itadaki-street-mobile-don-don-kaiten-zouchiku-chuu.json) |
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
