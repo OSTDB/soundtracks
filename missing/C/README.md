@@ -11557,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws & Feathers 2 | 30159 | [30159-claws-and-feathers-2.json](./30159-claws-and-feathers-2.json) |
 | Claws & Feathers 3 | 302297 | [302297-claws-and-feathers-3.json](./302297-claws-and-feathers-3.json) |
 | Claws & Feathers III | 52803 | [52803-claws-and-feathers-iii.json](./52803-claws-and-feathers-iii.json) |
+| Claws and Feathers | 24578 | [24578-claws-and-feathers.json](./24578-claws-and-feathers.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
 | Claws of the Forest | 363593 | [363593-claws-of-the-forest.json](./363593-claws-of-the-forest.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
@@ -12672,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterCluck | 382119 | [382119-clustercluck.json](./382119-clustercluck.json) |
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
+| ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Clustertruck: Collector's Edition | 52799 | [52799-clustertruck-collectors-edition.json](./52799-clustertruck-collectors-edition.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
@@ -14934,6 +14936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations - Falklands | 219743 | [219743-command-modern-operations-falklands.json](./219743-command-modern-operations-falklands.json) |
 | Command: Modern Operations - Kashmir Fire | 167879 | [167879-command-modern-operations-kashmir-fire.json](./167879-command-modern-operations-kashmir-fire.json) |
 | Command: Modern Operations - Northern Inferno | 167873 | [167873-command-modern-operations-northern-inferno.json](./167873-command-modern-operations-northern-inferno.json) |
+| Command: Modern Operations - Northern Inferno | 24607 | [24607-command-modern-operations-northern-inferno.json](./24607-command-modern-operations-northern-inferno.json) |
 | Command: Modern Operations - Red Tide | 196083 | [196083-command-modern-operations-red-tide.json](./196083-command-modern-operations-red-tide.json) |
 | Command: Modern Operations - Shifting Sands | 167866 | [167866-command-modern-operations-shifting-sands.json](./167866-command-modern-operations-shifting-sands.json) |
 | Command: Modern Operations - Shifting Sands | 75030 | [75030-command-modern-operations-shifting-sands.json](./75030-command-modern-operations-shifting-sands.json) |
@@ -17237,6 +17240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption | 257611 | [257611-corruption.json](./257611-corruption.json) |
 | Corruption 2029 | 129798 | [129798-corruption-2029.json](./129798-corruption-2029.json) |
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
+| Corruption of Champions | 24614 | [24614-corruption-of-champions.json](./24614-corruption-of-champions.json) |
 | Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
 | Corruption Town | 280408 | [280408-corruption-town.json](./280408-corruption-town.json) |
@@ -21207,6 +21211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaders of Might and Magic | 11376 | [11376-crusaders-of-might-and-magic.json](./11376-crusaders-of-might-and-magic.json) |
 | Crusaders of Might and Magic | 44809 | [44809-crusaders-of-might-and-magic.json](./44809-crusaders-of-might-and-magic.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
+| Crusaders Quest | 24560 | [24560-crusaders-quest.json](./24560-crusaders-quest.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
 | Crusaders Quest: Merge Chess | 373889 | [373889-crusaders-quest-merge-chess.json](./373889-crusaders-quest-merge-chess.json) |
@@ -21746,6 +21751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
 | Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
+| Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
 | Crystarise | 189227 | [189227-crystarise.json](./189227-crystarise.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
@@ -22704,6 +22710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Current | 115881 | [115881-current.json](./115881-current.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current Draw | 415599 | [415599-current-draw.json](./415599-current-draw.json) |
+| Current Stream | 24591 | [24591-current-stream.json](./24591-current-stream.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
 | Currents | 305316 | [305316-currents.json](./305316-currents.json) |
