@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walker & Silhouette | 60106 | [60106-walker-and-silhouette.json](./60106-walker-and-silhouette.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walkerman: Act 2 - Herdchaser-girl | 171389 | [171389-walkerman-act-2-herdchaser-girl.json](./171389-walkerman-act-2-herdchaser-girl.json) |
+| Walkers | 421153 | [421153-walkers.json](./421153-walkers.json) |
 | Walkerwall | 182620 | [182620-walkerwall.json](./182620-walkerwall.json) |
 | Walkie Talkie | 176203 | [176203-walkie-talkie.json](./176203-walkie-talkie.json) |
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
