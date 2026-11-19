@@ -4725,6 +4725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Cats? | 275815 | [275815-where-cats.json](./275815-where-cats.json) |
 | Where Christmas Elves? | 275816 | [275816-where-christmas-elves.json](./275816-where-christmas-elves.json) |
 | Where Control Ends | 405564 | [405564-where-control-ends.json](./405564-where-control-ends.json) |
+| Where Did I Park? | 420286 | [420286-where-did-i-park.json](./420286-where-did-i-park.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Did the Humans Go? | 233333 | [233333-where-did-the-humans-go.json](./233333-where-did-the-humans-go.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
