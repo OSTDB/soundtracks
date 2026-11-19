@@ -12275,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronan Rage: The Rugged Space Chase | 417051 | [417051-ronan-rage-the-rugged-space-chase.json](./417051-ronan-rage-the-rugged-space-chase.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
+| Rondo Adventure | 24586 | [24586-rondo-adventure.json](./24586-rondo-adventure.json) |
 | Rondo Leaflet | 60402 | [60402-rondo-leaflet.json](./60402-rondo-leaflet.json) |
 | Rondo of Darkness: The Curse of Twin Moon | 211850 | [211850-rondo-of-darkness-the-curse-of-twin-moon.json](./211850-rondo-of-darkness-the-curse-of-twin-moon.json) |
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
