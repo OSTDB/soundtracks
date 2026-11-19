@@ -14442,6 +14442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberic | 399534 | [399534-bomberic.json](./399534-bomberic.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
+| Bombermaid | 428199 | [428199-bombermaid.json](./428199-bombermaid.json) |
 | Bomberman | 129853 | [129853-bomberman.json](./129853-bomberman.json) |
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
 | Bomberman | 198033 | [198033-bomberman.json](./198033-bomberman.json) |
