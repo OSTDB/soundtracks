@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies Beneath | 269684 | [269684-what-lies-beneath.json](./269684-what-lies-beneath.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Lies Frozen | 342560 | [342560-what-lies-frozen.json](./342560-what-lies-frozen.json) |
+| What Lies in the Multiverse | 175777 | [175777-what-lies-in-the-multiverse.json](./175777-what-lies-in-the-multiverse.json) |
 | What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
 | What Lies Within | 423595 | [423595-what-lies-within.json](./423595-what-lies-within.json) |
