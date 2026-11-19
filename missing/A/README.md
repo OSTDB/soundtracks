@@ -10601,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Archers Fate | 304635 | [304635-an-archers-fate.json](./304635-an-archers-fate.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
 | An Aspie Life | 83798 | [83798-an-aspie-life.json](./83798-an-aspie-life.json) |
+| An Assassin in Orlandes | 36099 | [36099-an-assassin-in-orlandes.json](./36099-an-assassin-in-orlandes.json) |
 | An Aunt After My Own Heart | 314989 | [314989-an-aunt-after-my-own-heart.json](./314989-an-aunt-after-my-own-heart.json) |
 | An Automaton's Journey | 385433 | [385433-an-automatons-journey.json](./385433-an-automatons-journey.json) |
 | An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
