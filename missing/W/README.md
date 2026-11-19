@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We'll Meet Once More | 206030 | [206030-well-meet-once-more.json](./206030-well-meet-once-more.json) |
 | We're All Dead Here | 257496 | [257496-were-all-dead-here.json](./257496-were-all-dead-here.json) |
 | We're All Going to Die | 143807 | [143807-were-all-going-to-die.json](./143807-were-all-going-to-die.json) |
+| We’re All In! | 427145 | [427145-we-re-all-in.json](./427145-we-re-all-in.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Back!: A Dinosaur's Story | 19685 | [19685-were-back-a-dinosaurs-story.json](./19685-were-back-a-dinosaurs-story.json) |
 | We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
@@ -4217,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Mario World! | 407617 | [407617-what-a-mario-world.json](./407617-what-a-mario-world.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What A Trash Game | 104150 | [104150-what-a-trash-game.json](./104150-what-a-trash-game.json) |
+| What Are You Staring At? | 427152 | [427152-what-are-you-staring-at.json](./427152-what-are-you-staring-at.json) |
 | What Are You Stupid | 96403 | [96403-what-are-you-stupid.json](./96403-what-are-you-stupid.json) |
 | What Awaits Us Below | 177295 | [177295-what-awaits-us-below.json](./177295-what-awaits-us-below.json) |
 | What Awaits, Aleksey? | 297897 | [297897-what-awaits-aleksey.json](./297897-what-awaits-aleksey.json) |
