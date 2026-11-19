@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Tree Friends: False Alarm | 5942 | [5942-happy-tree-friends-false-alarm.json](./5942-happy-tree-friends-false-alarm.json) |
 | Happy Tree Friends: Flippy's Flying Frenzy | 355051 | [355051-happy-tree-friends-flippys-flying-frenzy.json](./355051-happy-tree-friends-flippys-flying-frenzy.json) |
 | Happy Umbrella | 366765 | [366765-happy-umbrella.json](./366765-happy-umbrella.json) |
+| Happy Unbreakable Ball | 425902 | [425902-happy-unbreakable-ball.json](./425902-happy-unbreakable-ball.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
 | Happy Valentine's Day | 169001 | [169001-happy-valentines-day.json](./169001-happy-valentines-day.json) |
 | Happy Vampire Girl | 111870 | [111870-happy-vampire-girl.json](./111870-happy-vampire-girl.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
 | Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
+| Hearthstone: Reign of the Black Empire | 425976 | [425976-hearthstone-reign-of-the-black-empire.json](./425976-hearthstone-reign-of-the-black-empire.json) |
 | Hearthstone: Rise of Shadows | 116236 | [116236-hearthstone-rise-of-shadows.json](./116236-hearthstone-rise-of-shadows.json) |
 | Hearthstone: Saviors of Uldum | 121499 | [121499-hearthstone-saviors-of-uldum.json](./121499-hearthstone-saviors-of-uldum.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
@@ -7054,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes Must Diee | 155877 | [155877-heroes-must-diee.json](./155877-heroes-must-diee.json) |
 | Heroes Never Die | 40511 | [40511-heroes-never-die.json](./40511-heroes-never-die.json) |
+| Heroes Never Die | 425887 | [425887-heroes-never-die.json](./425887-heroes-never-die.json) |
 | Heroes Never Die! | 227523 | [227523-heroes-never-die.json](./227523-heroes-never-die.json) |
 | Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
 | Heroes of 71: Retaliation | 196358 | [196358-heroes-of-71-retaliation.json](./196358-heroes-of-71-retaliation.json) |
@@ -10791,6 +10794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Dog Motel | 322640 | [322640-homeless-dog-motel.json](./322640-homeless-dog-motel.json) |
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homeless Guy: Fight in Heaven | 199962 | [199962-homeless-guy-fight-in-heaven.json](./199962-homeless-guy-fight-in-heaven.json) |
+| Homeless Kiosk Simulator | 425750 | [425750-homeless-kiosk-simulator.json](./425750-homeless-kiosk-simulator.json) |
 | Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
 | Homeless Life Simulator | 372744 | [372744-homeless-life-simulator.json](./372744-homeless-life-simulator.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
