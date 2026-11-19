@@ -567,7 +567,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xceed: Psychic Romance | 299643 | [299643-xceed-psychic-romance.json](./299643-xceed-psychic-romance.json) |
 | Xcel | 14873 | [14873-xcel.json](./14873-xcel.json) |
 | XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
-| XCOM 2: Anarchy's Children | 18365 | [18365-xcom-2-anarchys-children.json](./18365-xcom-2-anarchys-children.json) |
 | XCOM 2: Deluxe Edition | 21427 | [21427-xcom-2-deluxe-edition.json](./21427-xcom-2-deluxe-edition.json) |
 | XCOM 2: Digital Deluxe Edition | 52119 | [52119-xcom-2-digital-deluxe-edition.json](./52119-xcom-2-digital-deluxe-edition.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
