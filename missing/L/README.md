@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexica | 384573 | [384573-lexica.json](./384573-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
 | Lexical | 88706 | [88706-lexical.json](./88706-lexical.json) |
+| Lexicodex | 425372 | [425372-lexicodex.json](./425372-lexicodex.json) |
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
 | Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
@@ -8237,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely Highway | 415673 | [415673-lonely-highway.json](./415673-lonely-highway.json) |
+| Lonely Hospital: Revelations | 425384 | [425384-lonely-hospital-revelations.json](./425384-lonely-hospital-revelations.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
 | Lonely Kids Around the Cul-De-Sac | 362910 | [362910-lonely-kids-around-the-cul-de-sac.json](./362910-lonely-kids-around-the-cul-de-sac.json) |
