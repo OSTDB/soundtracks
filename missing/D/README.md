@@ -5337,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Scream Land | 139081 | [139081-death-scream-land.json](./139081-death-scream-land.json) |
 | Death Sees Twice: Spot the Difference | 363174 | [363174-death-sees-twice-spot-the-difference.json](./363174-death-sees-twice-spot-the-difference.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
+| Death Simulator | 421653 | [421653-death-simulator.json](./421653-death-simulator.json) |
 | Death Sketchbook | 393134 | [393134-death-sketchbook.json](./393134-death-sketchbook.json) |
 | Death Ski | 156707 | [156707-death-ski.json](./156707-death-ski.json) |
 | Death Skid Marks | 17897 | [17897-death-skid-marks.json](./17897-death-skid-marks.json) |
@@ -15501,6 +15502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorabase: Dramatic Stadium | 91771 | [91771-dorabase-dramatic-stadium.json](./91771-dorabase-dramatic-stadium.json) |
 | Dorachan | 178099 | [178099-dorachan.json](./178099-dorachan.json) |
 | Dorado | 200245 | [200245-dorado.json](./200245-dorado.json) |
+| Dorado | 421741 | [421741-dorado.json](./421741-dorado.json) |
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon | 281167 | [281167-doraemon.json](./281167-doraemon.json) |
 | Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
@@ -15938,6 +15940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Shot Gals | 196361 | [196361-double-shot-gals.json](./196361-double-shot-gals.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
+| Double Skunk | 421661 | [421661-double-skunk.json](./421661-double-skunk.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
 | Double Sphere | 41153 | [41153-double-sphere.json](./41153-double-sphere.json) |
 | Double Spoiler: Touhou Bunkachou | 27169 | [27169-double-spoiler-touhou-bunkachou.json](./27169-double-spoiler-touhou-bunkachou.json) |
@@ -16069,6 +16072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
 | Doughn't Panic! | 428221 | [428221-doughnt-panic.json](./428221-doughnt-panic.json) |
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
+| Douglas and the Old Gold Recipe | 421746 | [421746-douglas-and-the-old-gold-recipe.json](./421746-douglas-and-the-old-gold-recipe.json) |
 | Douglas Circumstance | 313604 | [313604-douglas-circumstance.json](./313604-douglas-circumstance.json) |
 | Douglas Rockmoor | 69305 | [69305-douglas-rockmoor.json](./69305-douglas-rockmoor.json) |
 | Douglas Rockmoor 2 | 69309 | [69309-douglas-rockmoor-2.json](./69309-douglas-rockmoor-2.json) |
@@ -20873,6 +20877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Jinrou | 308914 | [308914-dungeon-jinrou.json](./308914-dungeon-jinrou.json) |
 | Dungeon Journey | 253964 | [253964-dungeon-journey.json](./253964-dungeon-journey.json) |
 | Dungeon Journey | 32485 | [32485-dungeon-journey.json](./32485-dungeon-journey.json) |
+| Dungeon Juice | 421655 | [421655-dungeon-juice.json](./421655-dungeon-juice.json) |
 | Dungeon Jump | 119972 | [119972-dungeon-jump.json](./119972-dungeon-jump.json) |
 | Dungeon Keep | 323796 | [323796-dungeon-keep.json](./323796-dungeon-keep.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
