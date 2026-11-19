@@ -6577,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becalmed | 382360 | [382360-becalmed.json](./382360-becalmed.json) |
 | Became the Hunted | 109315 | [109315-became-the-hunted.json](./109315-became-the-hunted.json) |
 | Becastled | 139654 | [139654-becastled.json](./139654-becastled.json) |
+| Becastled: Traits and Some Magic | 425893 | [425893-becastled-traits-and-some-magic.json](./425893-becastled-traits-and-some-magic.json) |
 | Because I happened to know a secret of a transforming heroine... | 83177 | [83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json](./83177-because-i-happened-to-know-a-secret-of-a-transforming-heroine.json) |
 | Because I Love Her Episode 1 | 278437 | [278437-because-i-love-her-episode-1.json](./278437-because-i-love-her-episode-1.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
