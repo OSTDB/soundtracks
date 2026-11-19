@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Roots | 172888 | [172888-pale-roots.json](./172888-pale-roots.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
+| Pale Static | 422369 | [422369-pale-static.json](./422369-pale-static.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
 | Palehollow Hospital | 429557 | [429557-palehollow-hospital.json](./429557-palehollow-hospital.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
@@ -11378,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Don't Shoot the Humans | 390048 | [390048-please-dont-shoot-the-humans.json](./390048-please-dont-shoot-the-humans.json) |
 | Please Don't Understand Me | 394861 | [394861-please-dont-understand-me.json](./394861-please-dont-understand-me.json) |
 | Please Duology | 189040 | [189040-please-duology.json](./189040-please-duology.json) |
+| Please File Accurately | 422360 | [422360-please-file-accurately.json](./422360-please-file-accurately.json) |
 | Please Find Me | 120173 | [120173-please-find-me.json](./120173-please-find-me.json) |
 | Please Fix the Mess | 396700 | [396700-please-fix-the-mess.json](./396700-please-fix-the-mess.json) |
 | Please Fix the Road | 194704 | [194704-please-fix-the-road.json](./194704-please-fix-the-road.json) |
