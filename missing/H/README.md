@@ -2326,9 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardway: Endless Road Builder | 98534 | [98534-hardway-endless-road-builder.json](./98534-hardway-endless-road-builder.json) |
 | Hardwire | 267763 | [267763-hardwire.json](./267763-hardwire.json) |
 | Hardwired | 346551 | [346551-hardwired.json](./346551-hardwired.json) |
-| Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
 | Hardwood Euchre | 181992 | [181992-hardwood-euchre.json](./181992-hardwood-euchre.json) |
-| Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
 | Hardwood Solitaire III | 209792 | [209792-hardwood-solitaire-iii.json](./209792-hardwood-solitaire-iii.json) |
 | Hardwood Solitaire IV | 109225 | [109225-hardwood-solitaire-iv.json](./109225-hardwood-solitaire-iv.json) |
@@ -2723,7 +2721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon GBC | 220737 | [220737-harvest-moon-gbc.json](./220737-harvest-moon-gbc.json) |
 | Harvest Moon: A New Beginning | 3393 | [3393-harvest-moon-a-new-beginning.json](./3393-harvest-moon-a-new-beginning.json) |
 | Harvest Moon: A Wonderful Life | 3384 | [3384-harvest-moon-a-wonderful-life.json](./3384-harvest-moon-a-wonderful-life.json) |
-| Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
 | Harvest Moon: Animal Parade | 3390 | [3390-harvest-moon-animal-parade.json](./3390-harvest-moon-animal-parade.json) |
 | Harvest Moon: Another Wonderful Life | 78872 | [78872-harvest-moon-another-wonderful-life.json](./78872-harvest-moon-another-wonderful-life.json) |
 | Harvest Moon: Back to Nature | 239201 | [239201-harvest-moon-back-to-nature.json](./239201-harvest-moon-back-to-nature.json) |
@@ -3337,7 +3334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
 | Haven Restored | 389929 | [389929-haven-restored.json](./389929-haven-restored.json) |
-| Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
 | Haven: Call of the King | 264379 | [264379-haven-call-of-the-king.json](./264379-haven-call-of-the-king.json) |
 | Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
@@ -8597,7 +8593,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide 'N Seek!: Scary Edition | 357016 | [357016-hide-n-seek-scary-edition.json](./357016-hide-n-seek-scary-edition.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
-| Hide & Hold Out - H2o | 20463 | [20463-hide-and-hold-out-h2o.json](./20463-hide-and-hold-out-h2o.json) |
 | Hide & Scream | 394085 | [394085-hide-and-scream.json](./394085-hide-and-scream.json) |
 | Hide & Secret: Cliff hanger Castle | 201888 | [201888-hide-and-secret-cliff-hanger-castle.json](./201888-hide-and-secret-cliff-hanger-castle.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
@@ -10134,7 +10129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Up | 385504 | [385504-hold-up.json](./385504-hold-up.json) |
 | Hold Your Breadth DX | 374640 | [374640-hold-your-breadth-dx.json](./374640-hold-your-breadth-dx.json) |
 | Hold Your Breath | 421078 | [421078-hold-your-breath.json](./421078-hold-your-breath.json) |
-| Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
@@ -12125,7 +12119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Champion | 19147 | [19147-hot-dog-champion.json](./19147-hot-dog-champion.json) |
 | Hot Dog Deluxe | 103126 | [103126-hot-dog-deluxe.json](./103126-hot-dog-deluxe.json) |
 | Hot Dog Dreamer | 182694 | [182694-hot-dog-dreamer.json](./182694-hot-dog-dreamer.json) |
-| Hot Dog King | 20369 | [20369-hot-dog-king.json](./20369-hot-dog-king.json) |
 | Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
@@ -13435,7 +13428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | Hulk | 3949 | [3949-hulk.json](./3949-hulk.json) |
-| Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
 | Hulk Recompiled | 429468 | [429468-hulk-recompiled.json](./429468-hulk-recompiled.json) |
 | Hull Rupture | 399255 | [399255-hull-rupture.json](./399255-hull-rupture.json) |
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
@@ -14827,7 +14819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria in Howlsbend | 264396 | [264396-hysteria-in-howlsbend.json](./264396-hysteria-in-howlsbend.json) |
 | Hysteria Project | 20624 | [20624-hysteria-project.json](./20624-hysteria-project.json) |
-| Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
 | Hysteric Kingdom | 351344 | [351344-hysteric-kingdom.json](./351344-hysteric-kingdom.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
 | Hytopia | 374978 | [374978-hytopia.json](./374978-hytopia.json) |
