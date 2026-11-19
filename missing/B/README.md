@@ -9950,6 +9950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitch Shop Simulator | 389114 | [389114-bitch-shop-simulator.json](./389114-bitch-shop-simulator.json) |
 | Bitchy Boss Bimbofication | 150941 | [150941-bitchy-boss-bimbofication.json](./150941-bitchy-boss-bimbofication.json) |
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
+| Bitcoin Billionaire | 24628 | [24628-bitcoin-billionaire.json](./24628-bitcoin-billionaire.json) |
 | Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
 | Bitcoin Bounty Hunt | 177987 | [177987-bitcoin-bounty-hunt.json](./177987-bitcoin-bounty-hunt.json) |
@@ -13198,6 +13199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
 | Bloxiti | 348731 | [348731-bloxiti.json](./348731-bloxiti.json) |
+| Bloxitivity | 24623 | [24623-bloxitivity.json](./24623-bloxitivity.json) |
 | Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | BloXoR | 118614 | [118614-bloxor.json](./118614-bloxor.json) |
@@ -16590,6 +16592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
 | Brain IQTopia | 342341 | [342341-brain-iqtopia.json](./342341-brain-iqtopia.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
+| Brain IT: Amazing Adventure | 24590 | [24590-brain-it-amazing-adventure.json](./24590-brain-it-amazing-adventure.json) |
 | Brain Jam | 83695 | [83695-brain-jam.json](./83695-brain-jam.json) |
 | Brain Lord | 16288 | [16288-brain-lord.json](./16288-brain-lord.json) |
 | Brain Machine | 51494 | [51494-brain-machine.json](./51494-brain-machine.json) |
@@ -16920,6 +16923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
+| Brave Frontier | 24599 | [24599-brave-frontier.json](./24599-brave-frontier.json) |
 | Brave Frontier 2 | 86659 | [86659-brave-frontier-2.json](./86659-brave-frontier-2.json) |
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
