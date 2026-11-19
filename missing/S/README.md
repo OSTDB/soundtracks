@@ -13854,6 +13854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skelethrone: The Prey | 234405 | [234405-skelethrone-the-prey.json](./234405-skelethrone-the-prey.json) |
+| Skeletoings | 425355 | [425355-skeletoings.json](./425355-skeletoings.json) |
 | Skeleton | 46897 | [46897-skeleton.json](./46897-skeleton.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
@@ -25090,6 +25091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Six | 84385 | [84385-spin-six.json](./84385-spin-six.json) |
 | Spin Spell | 63556 | [63556-spin-spell.json](./63556-spin-spell.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
+| Spin Tactics | 425365 | [425365-spin-tactics.json](./425365-spin-tactics.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Book | 304488 | [304488-spin-the-book.json](./304488-spin-the-book.json) |
 | Spin the Bottle | 93633 | [93633-spin-the-bottle.json](./93633-spin-the-bottle.json) |
@@ -39336,6 +39338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Shift | 412736 | [412736-survive-the-shift.json](./412736-survive-the-shift.json) |
 | Survive the Silence | 368889 | [368889-survive-the-silence.json](./368889-survive-the-silence.json) |
 | Survive the Spin | 396490 | [396490-survive-the-spin.json](./396490-survive-the-spin.json) |
+| Survive the Squallies | 425340 | [425340-survive-the-squallies.json](./425340-survive-the-squallies.json) |
 | Survive the Squids | 324268 | [324268-survive-the-squids.json](./324268-survive-the-squids.json) |
 | Survive the Story | 173014 | [173014-survive-the-story.json](./173014-survive-the-story.json) |
 | Survive the Swarm | 348784 | [348784-survive-the-swarm.json](./348784-survive-the-swarm.json) |
