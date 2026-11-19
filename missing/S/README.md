@@ -2289,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Yours | 59571 | [59571-sapphire-yours.json](./59571-sapphire-yours.json) |
 | Saprophyte | 183084 | [183084-saprophyte.json](./183084-saprophyte.json) |
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
+| Sapu: Reborn | 424188 | [424188-sapu-reborn.json](./424188-sapu-reborn.json) |
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Sara the Slutty Lusty Agent | 427751 | [427751-sara-the-slutty-lusty-agent.json](./427751-sara-the-slutty-lusty-agent.json) |
@@ -10749,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shores of Hazeron | 66413 | [66413-shores-of-hazeron.json](./66413-shores-of-hazeron.json) |
 | Shores of Loci | 187083 | [187083-shores-of-loci.json](./187083-shores-of-loci.json) |
 | Shores of Plunder | 156740 | [156740-shores-of-plunder.json](./156740-shores-of-plunder.json) |
+| Shores of the Fallen | 424192 | [424192-shores-of-the-fallen.json](./424192-shores-of-the-fallen.json) |
 | Shores of Vaelithar | 380353 | [380353-shores-of-vaelithar.json](./380353-shores-of-vaelithar.json) |
 | Shores Unknown | 116689 | [116689-shores-unknown.json](./116689-shores-unknown.json) |
 | Shoresy: Legends of the North | 156832 | [156832-shoresy-legends-of-the-north.json](./156832-shoresy-legends-of-the-north.json) |
@@ -23169,6 +23171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Taxi | 24510 | [24510-space-taxi.json](./24510-space-taxi.json) |
 | Space Taxi 2 | 72239 | [72239-space-taxi-2.json](./72239-space-taxi-2.json) |
 | Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
+| Space Tenacity | 424163 | [424163-space-tenacity.json](./424163-space-tenacity.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space Threat | 272906 | [272906-space-threat.json](./272906-space-threat.json) |
@@ -25190,6 +25193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiny Adventures | 41897 | [41897-spiny-adventures.json](./41897-spiny-adventures.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
+| Spiral | 424241 | [424241-spiral.json](./424241-spiral.json) |
 | Spiral | 99942 | [99942-spiral.json](./99942-spiral.json) |
 | Spiral 3D | 99854 | [99854-spiral-3d.json](./99854-spiral-3d.json) |
 | Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
@@ -27821,6 +27825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 8: Scepter of Hope | 259927 | [259927-star-revenge-8-scepter-of-hope.json](./259927-star-revenge-8-scepter-of-hope.json) |
 | Star Revenge Redone PC | 378291 | [378291-star-revenge-redone-pc.json](./378291-star-revenge-redone-pc.json) |
 | Star Revenge X: Discord Star Adventure | 285681 | [285681-star-revenge-x-discord-star-adventure.json](./285681-star-revenge-x-discord-star-adventure.json) |
+| Star Reverie | 424173 | [424173-star-reverie.json](./424173-star-reverie.json) |
 | Star Rider | 24012 | [24012-star-rider.json](./24012-star-rider.json) |
 | Star Rift Saga | 223251 | [223251-star-rift-saga.json](./223251-star-rift-saga.json) |
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
@@ -31757,6 +31762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
+| Strategic Tactics | 424226 | [424226-strategic-tactics.json](./424226-strategic-tactics.json) |
 | Strategic War | 91167 | [91167-strategic-war.json](./91167-strategic-war.json) |
 | Strategic War in Europe | 9467 | [9467-strategic-war-in-europe.json](./9467-strategic-war-in-europe.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
@@ -33164,6 +33170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subdivision | 387706 | [387706-subdivision.json](./387706-subdivision.json) |
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
 | Subdread | 415475 | [415475-subdread.json](./415475-subdread.json) |
+| SubDuctis | 424202 | [424202-subductis.json](./424202-subductis.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
 | Subell's Abyss | 379105 | [379105-subells-abyss.json](./379105-subells-abyss.json) |
 | Subenishiki | 267045 | [267045-subenishiki.json](./267045-subenishiki.json) |
@@ -39373,6 +39380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
 | Survive! Mr. Cube | 99298 | [99298-survive-mr-cube.json](./99298-survive-mr-cube.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
+| Survivecraft | 424211 | [424211-survivecraft.json](./424211-survivecraft.json) |
 | Survived | 126811 | [126811-survived.json](./126811-survived.json) |
 | Survived | 151052 | [151052-survived.json](./151052-survived.json) |
 | Survived By | 55218 | [55218-survived-by.json](./55218-survived-by.json) |
