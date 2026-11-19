@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
 | Bad Dog, Good Nights | 393851 | [393851-bad-dog-good-nights.json](./393851-bad-dog-good-nights.json) |
 | Bad Dog, Good Time | 393805 | [393805-bad-dog-good-time.json](./393805-bad-dog-good-time.json) |
+| Bad Dogs | 421043 | [421043-bad-dogs.json](./421043-bad-dogs.json) |
 | Bad Dream | 329075 | [329075-bad-dream.json](./329075-bad-dream.json) |
 | Bad Dream | 391431 | [391431-bad-dream.json](./391431-bad-dream.json) |
 | Bad Dream: Afterlife | 372663 | [372663-bad-dream-afterlife.json](./372663-bad-dream-afterlife.json) |
@@ -12424,6 +12425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
+| Blood & Canvas: Bareknuckle Boxing | 421046 | [421046-blood-and-canvas-bareknuckle-boxing.json](./421046-blood-and-canvas-bareknuckle-boxing.json) |
 | Blood & Chaos | 271878 | [271878-blood-and-chaos.json](./271878-blood-and-chaos.json) |
 | Blood & Company | 318905 | [318905-blood-and-company.json](./318905-blood-and-company.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
@@ -17418,6 +17420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
 | Breaking Newton | 192214 | [192214-breaking-newton.json](./192214-breaking-newton.json) |
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
+| Breaking Point: Operation Exodus | 421029 | [421029-breaking-point-operation-exodus.json](./421029-breaking-point-operation-exodus.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
 | Breaking the Bank | 101898 | [101898-breaking-the-bank.json](./101898-breaking-the-bank.json) |
