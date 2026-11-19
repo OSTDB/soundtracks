@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
+| A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Lanterns Glow | 130422 | [130422-a-lanterns-glow.json](./130422-a-lanterns-glow.json) |
 | A Large Quantity of Mushrooms | 31605 | [31605-a-large-quantity-of-mushrooms.json](./31605-a-large-quantity-of-mushrooms.json) |
 | A Last Ditch Effort | 308683 | [308683-a-last-ditch-effort.json](./308683-a-last-ditch-effort.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Love Like Broken Glass | 410440 | [410440-a-love-like-broken-glass.json](./410440-a-love-like-broken-glass.json) |
 | A Love Story: My Best Friend | 334090 | [334090-a-love-story-my-best-friend.json](./334090-a-love-story-my-best-friend.json) |
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
+| A Lozenge | 138252 | [138252-a-lozenge.json](./138252-a-lozenge.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
 | A Lucky Hunt With Daphne | 370579 | [370579-a-lucky-hunt-with-daphne.json](./370579-a-lucky-hunt-with-daphne.json) |
@@ -1198,7 +1200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Pizza Delivery | 328195 | [328195-a-pizza-delivery.json](./328195-a-pizza-delivery.json) |
 | A Place Far Away | 367479 | [367479-a-place-far-away.json](./367479-a-place-far-away.json) |
 | A Place for Every Potion | 425139 | [425139-a-place-for-every-potion.json](./425139-a-place-for-every-potion.json) |
-| A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
 | A Place of Significance | 414838 | [414838-a-place-of-significance.json](./414838-a-place-of-significance.json) |
 | A Place Where Summer Rain Falls | 399547 | [399547-a-place-where-summer-rain-falls.json](./399547-a-place-where-summer-rain-falls.json) |
@@ -1430,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Small Encounter | 350624 | [350624-a-small-encounter.json](./350624-a-small-encounter.json) |
 | A Small Favor | 58012 | [58012-a-small-favor.json](./58012-a-small-favor.json) |
 | A Small Journey | 228998 | [228998-a-small-journey.json](./228998-a-small-journey.json) |
+| A Small Robot Story | 83035 | [83035-a-small-robot-story.json](./83035-a-small-robot-story.json) |
 | A Small Talk at the Back of Beyond | 123478 | [123478-a-small-talk-at-the-back-of-beyond.json](./123478-a-small-talk-at-the-back-of-beyond.json) |
 | A Small World Cup | 177147 | [177147-a-small-world-cup.json](./177147-a-small-world-cup.json) |
 | A Smattering of Songs | 315627 | [315627-a-smattering-of-songs.json](./315627-a-smattering-of-songs.json) |
@@ -5477,7 +5479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agarest Senki Zero: Dawn of War | 66468 | [66468-agarest-senki-zero-dawn-of-war.json](./66468-agarest-senki-zero-dawn-of-war.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
 | Agarest: Generations of War - Collector's Edition | 124911 | [124911-agarest-generations-of-war-collectors-edition.json](./124911-agarest-generations-of-war-collectors-edition.json) |
-| Agarest: Generations of War 2 | 17620 | [17620-agarest-generations-of-war-2.json](./17620-agarest-generations-of-war-2.json) |
 | Agarest: Generations of War 2 - Collector's Edition | 42991 | [42991-agarest-generations-of-war-2-collectors-edition.json](./42991-agarest-generations-of-war-2-collectors-edition.json) |
 | Agarest: Generations of War Zero - Collector's Edition | 42990 | [42990-agarest-generations-of-war-zero-collectors-edition.json](./42990-agarest-generations-of-war-zero-collectors-edition.json) |
 | AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
@@ -7833,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice and You in the planet of numbers | 144141 | [144141-alice-and-you-in-the-planet-of-numbers.json](./144141-alice-and-you-in-the-planet-of-numbers.json) |
 | Alice Clancy's Shattered Dimensions | 279076 | [279076-alice-clancys-shattered-dimensions.json](./279076-alice-clancys-shattered-dimensions.json) |
 | Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
+| Alice Cooper's Nightmare Castle | 83039 | [83039-alice-coopers-nightmare-castle.json](./83039-alice-coopers-nightmare-castle.json) |
 | Alice Dreams Tournament | 59532 | [59532-alice-dreams-tournament.json](./59532-alice-dreams-tournament.json) |
 | Alice Escaped! | 143529 | [143529-alice-escaped.json](./143529-alice-escaped.json) |
 | Alice fell to Neverland | 225355 | [225355-alice-fell-to-neverland.json](./225355-alice-fell-to-neverland.json) |
@@ -9570,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amagon | 8916 | [8916-amagon.json](./8916-amagon.json) |
 | Amagoushi no Yakata | 68264 | [68264-amagoushi-no-yakata.json](./68264-amagoushi-no-yakata.json) |
 | Amagoushi no Yakata: Portable - Ichiyanagi Nagomu, Saisho no Junan | 196205 | [196205-amagoushi-no-yakata-portable-ichiyanagi-nagomu-saisho-no-junan.json](./196205-amagoushi-no-yakata-portable-ichiyanagi-nagomu-saisho-no-junan.json) |
+| Amai Shiru | 83025 | [83025-amai-shiru.json](./83025-amai-shiru.json) |
 | Amairo Chocolate | 130138 | [130138-amairo-chocolate.json](./130138-amairo-chocolate.json) |
 | Amairo Chocolate 2 | 254817 | [254817-amairo-chocolate-2.json](./254817-amairo-chocolate-2.json) |
 | Amairo Chocolate 2 | 254948 | [254948-amairo-chocolate-2.json](./254948-amairo-chocolate-2.json) |
@@ -11529,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Bunny | 123872 | [123872-angry-bunny.json](./123872-angry-bunny.json) |
+| Angry Bunny 2: Lost hole | 129247 | [129247-angry-bunny-2-lost-hole.json](./129247-angry-bunny-2-lost-hole.json) |
 | Angry Bunny 3: Virus | 292714 | [292714-angry-bunny-3-virus.json](./292714-angry-bunny-3-virus.json) |
 | Angry Bunny Race: Jungle Road | 165899 | [165899-angry-bunny-race-jungle-road.json](./165899-angry-bunny-race-jungle-road.json) |
 | Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
@@ -12283,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animus Toil | 217753 | [217753-animus-toil.json](./217753-animus-toil.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
+| Animus: Stand Alone | 83020 | [83020-animus-stand-alone.json](./83020-animus-stand-alone.json) |
 | Animyst | 104192 | [104192-animyst.json](./104192-animyst.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
 | Anipang Matchlike | 319436 | [319436-anipang-matchlike.json](./319436-anipang-matchlike.json) |
@@ -14047,7 +14052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquaculture Land: Fish Farming Simulation | 111859 | [111859-aquaculture-land-fish-farming-simulation.json](./111859-aquaculture-land-fish-farming-simulation.json) |
 | Aquaculture Simulator | 413032 | [413032-aquaculture-simulator.json](./413032-aquaculture-simulator.json) |
 | AquaDark | 322136 | [322136-aquadark.json](./322136-aquadark.json) |
-| Aquadelic GT | 17807 | [17807-aquadelic-gt.json](./17807-aquadelic-gt.json) |
 | Aquadine | 143584 | [143584-aquadine.json](./143584-aquadine.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaDuct | 429762 | [429762-aquaduct.json](./429762-aquaduct.json) |
@@ -15074,7 +15078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
 | Arcadia: Find the Difference 3D | 412341 | [412341-arcadia-find-the-difference-3d.json](./412341-arcadia-find-the-difference-3d.json) |
 | Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
-| Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
 | Arcadian Rift | 162245 | [162245-arcadian-rift.json](./162245-arcadian-rift.json) |
 | Arcadians | 8525 | [8525-arcadians.json](./8525-arcadians.json) |
 | ArcadianX | 102543 | [102543-arcadianx.json](./102543-arcadianx.json) |
@@ -19177,7 +19180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback X Deluxe | 277057 | [277057-atari-flashback-x-deluxe.json](./277057-atari-flashback-x-deluxe.json) |
 | Atari Football | 16760 | [16760-atari-football.json](./16760-atari-football.json) |
 | Atari Gamestation Pro | 270591 | [270591-atari-gamestation-pro.json](./270591-atari-gamestation-pro.json) |
-| Atari Greatest Hits Volume 1 | 18437 | [18437-atari-greatest-hits-volume-1.json](./18437-atari-greatest-hits-volume-1.json) |
 | Atari Greatest Hits: Volume 2 | 61729 | [61729-atari-greatest-hits-volume-2.json](./61729-atari-greatest-hits-volume-2.json) |
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
@@ -20067,6 +20069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audition VR: Idol | 104196 | [104196-audition-vr-idol.json](./104196-audition-vr-idol.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
+| Auditorium Duet | 22716 | [22716-auditorium-duet.json](./22716-auditorium-duet.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Audsdg | 254011 | [254011-audsdg.json](./254011-audsdg.json) |
@@ -21271,7 +21274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axu | 177466 | [177466-axu.json](./177466-axu.json) |
 | Axxx: Taught and Fucked | 375949 | [375949-axxx-taught-and-fucked.json](./375949-axxx-taught-and-fucked.json) |
 | Axyn Adventure | 325873 | [325873-axyn-adventure.json](./325873-axyn-adventure.json) |
-| Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
 | Axyos: Battlecards | 115522 | [115522-axyos-battlecards.json](./115522-axyos-battlecards.json) |
 | Axys: The Last Battle | 39071 | [39071-axys-the-last-battle.json](./39071-axys-the-last-battle.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
