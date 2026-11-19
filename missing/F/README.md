@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | Factoryopolis | 246018 | [246018-factoryopolis.json](./246018-factoryopolis.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
+| Factotum | 85648 | [85648-factotum.json](./85648-factotum.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Facts 'N Fractions | 83096 | [83096-facts-n-fractions.json](./83096-facts-n-fractions.json) |
 | Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
 | Fairway Fever | 209231 | [209231-fairway-fever.json](./209231-fairway-fever.json) |
 | Fairway Solitaire | 94903 | [94903-fairway-solitaire.json](./94903-fairway-solitaire.json) |
+| Fairway Solitaire - Card Game | 86795 | [86795-fairway-solitaire-card-game.json](./86795-fairway-solitaire-card-game.json) |
 | Fairway Solitaire Blast | 61801 | [61801-fairway-solitaire-blast.json](./61801-fairway-solitaire-blast.json) |
 | Fairway to Hell | 310032 | [310032-fairway-to-hell.json](./310032-fairway-to-hell.json) |
 | Fairway to Hell | 396975 | [396975-fairway-to-hell.json](./396975-fairway-to-hell.json) |
@@ -4111,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
+| Fear the Wolves | 86478 | [86478-fear-the-wolves.json](./86478-fear-the-wolves.json) |
 | Fear Them | 187806 | [187806-fear-them.json](./187806-fear-them.json) |
 | Fear Therapy | 185995 | [185995-fear-therapy.json](./185995-fear-therapy.json) |
 | Fear to Face | 364869 | [364869-fear-to-face.json](./364869-fear-to-face.json) |
@@ -8967,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Monarch | 397338 | [397338-flight-of-the-monarch.json](./397338-flight-of-the-monarch.json) |
 | Flight of the Season | 397414 | [397414-flight-of-the-season.json](./397414-flight-of-the-season.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
+| Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
 | Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Risk | 304624 | [304624-flight-risk.json](./304624-flight-risk.json) |
 | Flight Sim 18 | 106904 | [106904-flight-sim-18.json](./106904-flight-sim-18.json) |
