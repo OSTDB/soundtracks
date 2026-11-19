@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yetisports: World Tour | 279227 | [279227-yetisports-world-tour.json](./279227-yetisports-world-tour.json) |
 | Yewdow | 289586 | [289586-yewdow.json](./289586-yewdow.json) |
 | Yèxuě Bīngjiāo | 87944 | [87944-yexue-bingjiao.json](./87944-yexue-bingjiao.json) |
+| Yeyo571: Adivina el número | 421071 | [421071-yeyo571-adivina-el-numero.json](./421071-yeyo571-adivina-el-numero.json) |
 | Yez: The Dark Amulet | 295499 | [295499-yez-the-dark-amulet.json](./295499-yez-the-dark-amulet.json) |
 | Ygeia | 201477 | [201477-ygeia.json](./201477-ygeia.json) |
 | Yggdra Kingdom | 395590 | [395590-yggdra-kingdom.json](./395590-yggdra-kingdom.json) |
