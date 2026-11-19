@@ -19735,11 +19735,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums of War | 307662 | [307662-drums-of-war.json](./307662-drums-of-war.json) |
 | Drums Rock | 202539 | [202539-drums-rock.json](./202539-drums-rock.json) |
 | Drums Rock: Alestorm - 'Keelhauled' | 322226 | [322226-drums-rock-alestorm-keelhauled.json](./322226-drums-rock-alestorm-keelhauled.json) |
+| Drums Rock: Alestorm - 'Mexico' | 419649 | [419649-drums-rock-alestorm-mexico.json](./419649-drums-rock-alestorm-mexico.json) |
 | Drums Rock: Alter Bridge - 'Silver Tongue' | 322232 | [322232-drums-rock-alter-bridge-silver-tongue.json](./322232-drums-rock-alter-bridge-silver-tongue.json) |
 | Drums Rock: Angus McSix - 'Laser-Shooting Dinosaur' | 419662 | [419662-drums-rock-angus-mcsix-laser-shooting-dinosaur.json](./419662-drums-rock-angus-mcsix-laser-shooting-dinosaur.json) |
 | Drums Rock: Angus McSix - 'Master of the Universe' | 322231 | [322231-drums-rock-angus-mcsix-master-of-the-universe.json](./322231-drums-rock-angus-mcsix-master-of-the-universe.json) |
 | Drums Rock: Battle Beast - 'King for a Day' | 296417 | [296417-drums-rock-battle-beast-king-for-a-day.json](./296417-drums-rock-battle-beast-king-for-a-day.json) |
 | Drums Rock: Blind Guardian - 'Blood Of The Elves' | 296418 | [296418-drums-rock-blind-guardian-blood-of-the-elves.json](./296418-drums-rock-blind-guardian-blood-of-the-elves.json) |
+| Drums Rock: Bloodbound - 'Field of Swords' | 419654 | [419654-drums-rock-bloodbound-field-of-swords.json](./419654-drums-rock-bloodbound-field-of-swords.json) |
 | Drums Rock: Campaign+ | 306950 | [306950-drums-rock-campaign.json](./306950-drums-rock-campaign.json) |
 | Drums Rock: Collective Soul - 'Shine' | 322216 | [322216-drums-rock-collective-soul-shine.json](./322216-drums-rock-collective-soul-shine.json) |
 | Drums Rock: Delain - 'Stardust' | 322228 | [322228-drums-rock-delain-stardust.json](./322228-drums-rock-delain-stardust.json) |
@@ -19747,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Disturbed - 'Stricken' | 310374 | [310374-drums-rock-disturbed-stricken.json](./310374-drums-rock-disturbed-stricken.json) |
 | Drums Rock: Disturbed - 'Ten Thousand Fists' | 310380 | [310380-drums-rock-disturbed-ten-thousand-fists.json](./310380-drums-rock-disturbed-ten-thousand-fists.json) |
 | Drums Rock: Feuerschwanz - 'Das Elfte Gebot' | 322230 | [322230-drums-rock-feuerschwanz-das-elfte-gebot.json](./322230-drums-rock-feuerschwanz-das-elfte-gebot.json) |
+| Drums Rock: Feuerschwanz - 'Valhalla' | 419651 | [419651-drums-rock-feuerschwanz-valhalla.json](./419651-drums-rock-feuerschwanz-valhalla.json) |
 | Drums Rock: Fifth Angel - 'When Angels Kill' | 296420 | [296420-drums-rock-fifth-angel-when-angels-kill.json](./296420-drums-rock-fifth-angel-when-angels-kill.json) |
 | Drums Rock: Gloryhammer - 'Hootsforce' | 322227 | [322227-drums-rock-gloryhammer-hootsforce.json](./322227-drums-rock-gloryhammer-hootsforce.json) |
 | Drums Rock: Green Day - 'American Idiot' | 310375 | [310375-drums-rock-green-day-american-idiot.json](./310375-drums-rock-green-day-american-idiot.json) |
@@ -19766,19 +19769,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Pantera - '5 Minutes Alone' | 310379 | [310379-drums-rock-pantera-5-minutes-alone.json](./310379-drums-rock-pantera-5-minutes-alone.json) |
 | Drums Rock: Pantera - 'Walk' | 310381 | [310381-drums-rock-pantera-walk.json](./310381-drums-rock-pantera-walk.json) |
 | Drums Rock: Pantera x Disturbed Music Pack | 306949 | [306949-drums-rock-pantera-x-disturbed-music-pack.json](./306949-drums-rock-pantera-x-disturbed-music-pack.json) |
+| Drums Rock: Payday 2 - 'Death Wish' | 419656 | [419656-drums-rock-payday-2-death-wish.json](./419656-drums-rock-payday-2-death-wish.json) |
+| Drums Rock: Payday 2 - 'On the Road' | 419655 | [419655-drums-rock-payday-2-on-the-road.json](./419655-drums-rock-payday-2-on-the-road.json) |
 | Drums Rock: Payday 3 - 'Da Capo' | 419657 | [419657-drums-rock-payday-3-da-capo.json](./419657-drums-rock-payday-3-da-capo.json) |
 | Drums Rock: Payday 3 - 'No Rest for the Wicked' | 419658 | [419658-drums-rock-payday-3-no-rest-for-the-wicked.json](./419658-drums-rock-payday-3-no-rest-for-the-wicked.json) |
 | Drums Rock: Powerwolf - 'Army of the Night' | 322225 | [322225-drums-rock-powerwolf-army-of-the-night.json](./322225-drums-rock-powerwolf-army-of-the-night.json) |
+| Drums Rock: Powerwolf - 'Demons Are a Girl's Best Friend' | 419650 | [419650-drums-rock-powerwolf-demons-are-a-girls-best-friend.json](./419650-drums-rock-powerwolf-demons-are-a-girls-best-friend.json) |
 | Drums Rock: Powerwolf - 'Sainted by The Storm' | 419660 | [419660-drums-rock-powerwolf-sainted-by-the-storm.json](./419660-drums-rock-powerwolf-sainted-by-the-storm.json) |
 | Drums Rock: Samurai - 'A Like Supreme' | 419671 | [419671-drums-rock-samurai-a-like-supreme.json](./419671-drums-rock-samurai-a-like-supreme.json) |
 | Drums Rock: Samurai - 'Chippin’ In' | 419668 | [419668-drums-rock-samurai-chippin-in.json](./419668-drums-rock-samurai-chippin-in.json) |
 | Drums Rock: Samurai - 'Never Fade Away' | 419669 | [419669-drums-rock-samurai-never-fade-away.json](./419669-drums-rock-samurai-never-fade-away.json) |
 | Drums Rock: Samurai - 'The Ballad of Buck Ravers' | 419670 | [419670-drums-rock-samurai-the-ballad-of-buck-ravers.json](./419670-drums-rock-samurai-the-ballad-of-buck-ravers.json) |
+| Drums Rock: Serenity - 'Lionheart' | 419652 | [419652-drums-rock-serenity-lionheart.json](./419652-drums-rock-serenity-lionheart.json) |
 | Drums Rock: Simple Plan - 'Crazy' | 322220 | [322220-drums-rock-simple-plan-crazy.json](./322220-drums-rock-simple-plan-crazy.json) |
 | Drums Rock: Simple Plan - 'Shut Up!' | 322221 | [322221-drums-rock-simple-plan-shut-up.json](./322221-drums-rock-simple-plan-shut-up.json) |
 | Drums Rock: Simple Plan - 'Time to Say Goodbye' | 322222 | [322222-drums-rock-simple-plan-time-to-say-goodbye.json](./322222-drums-rock-simple-plan-time-to-say-goodbye.json) |
 | Drums Rock: Simple Plan - 'Welcome to My Life' | 322223 | [322223-drums-rock-simple-plan-welcome-to-my-life.json](./322223-drums-rock-simple-plan-welcome-to-my-life.json) |
 | Drums Rock: Simple Plan Music Pack | 279387 | [279387-drums-rock-simple-plan-music-pack.json](./279387-drums-rock-simple-plan-music-pack.json) |
+| Drums Rock: Slipknot - 'Duality' | 419648 | [419648-drums-rock-slipknot-duality.json](./419648-drums-rock-slipknot-duality.json) |
 | Drums Rock: Spacehog - 'In the Meantime' | 322218 | [322218-drums-rock-spacehog-in-the-meantime.json](./322218-drums-rock-spacehog-in-the-meantime.json) |
 | Drums Rock: The Offspring - 'You’re Gonna Go Far, Kid' | 322219 | [322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json](./322219-drums-rock-the-offspring-you-re-gonna-go-far-kid.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
@@ -19788,6 +19796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Undertale - 'Megalovania' | 322214 | [322214-drums-rock-undertale-megalovania.json](./322214-drums-rock-undertale-megalovania.json) |
 | Drums Rock: Undertale DLC | 253184 | [253184-drums-rock-undertale-dlc.json](./253184-drums-rock-undertale-dlc.json) |
 | Drums Rock: Visions Of Atlantis - 'Melancholy Angel' | 419659 | [419659-drums-rock-visions-of-atlantis-melancholy-angel.json](./419659-drums-rock-visions-of-atlantis-melancholy-angel.json) |
+| Drums Rock: Warkings - 'Kings of Ragnarök' | 419653 | [419653-drums-rock-warkings-kings-of-ragnarok.json](./419653-drums-rock-warkings-kings-of-ragnarok.json) |
 | Drums Rock: Who-ya Extended - 'Vivid Vice' | 351284 | [351284-drums-rock-who-ya-extended-vivid-vice.json](./351284-drums-rock-who-ya-extended-vivid-vice.json) |
 | Drums Rock: Wind Rose - 'Drunken Dwarves' | 419661 | [419661-drums-rock-wind-rose-drunken-dwarves.json](./419661-drums-rock-wind-rose-drunken-dwarves.json) |
 | Drums Rock: Yoko Takahashi - 'The Cruel Angel's Thesis' | 351286 | [351286-drums-rock-yoko-takahashi-the-cruel-angels-thesis.json](./351286-drums-rock-yoko-takahashi-the-cruel-angels-thesis.json) |
