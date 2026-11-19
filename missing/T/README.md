@@ -7662,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Botanist | 130113 | [130113-the-botanist.json](./130113-the-botanist.json) |
 | The Botanist | 240970 | [240970-the-botanist.json](./240970-the-botanist.json) |
 | The Botanist | 26425 | [26425-the-botanist.json](./26425-the-botanist.json) |
+| The Bots Want Your Gold! | 424762 | [424762-the-bots-want-your-gold.json](./424762-the-bots-want-your-gold.json) |
 | The Bottle Boy | 332755 | [332755-the-bottle-boy.json](./332755-the-bottle-boy.json) |
 | The Bottle of the Heart | 371035 | [371035-the-bottle-of-the-heart.json](./371035-the-bottle-of-the-heart.json) |
 | The Bottom of the Sea | 397524 | [397524-the-bottom-of-the-sea.json](./397524-the-bottom-of-the-sea.json) |
@@ -10766,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
 | The Finals: Season 11 Starter Pack | 409999 | [409999-the-finals-season-11-starter-pack.json](./409999-the-finals-season-11-starter-pack.json) |
 | The Finals: Season 11 Ultimate Battle Pass Bundle | 409998 | [409998-the-finals-season-11-ultimate-battle-pass-bundle.json](./409998-the-finals-season-11-ultimate-battle-pass-bundle.json) |
+| The Finals: Season 12 - Prime Time | 424803 | [424803-the-finals-season-12-prime-time.json](./424803-the-finals-season-12-prime-time.json) |
 | The Finals: Season 2 | 290770 | [290770-the-finals-season-2.json](./290770-the-finals-season-2.json) |
 | The Finals: Season 3 | 305025 | [305025-the-finals-season-3.json](./305025-the-finals-season-3.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
@@ -12226,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Keep | 385518 | [385518-the-hollow-keep.json](./385518-the-hollow-keep.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
+| The Hollow Road: Echoes of Dresden | 424790 | [424790-the-hollow-road-echoes-of-dresden.json](./424790-the-hollow-road-echoes-of-dresden.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Hollowing | 419039 | [419039-the-hollowing.json](./419039-the-hollowing.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
@@ -17096,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plane Game | 185483 | [185483-the-plane-game.json](./185483-the-plane-game.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Planet Crafter: Toxicity | 373883 | [373883-the-planet-crafter-toxicity.json](./373883-the-planet-crafter-toxicity.json) |
+| The Planet Miner | 424813 | [424813-the-planet-miner.json](./424813-the-planet-miner.json) |
 | The Planet of the Vicious Creatures | 31257 | [31257-the-planet-of-the-vicious-creatures.json](./31257-the-planet-of-the-vicious-creatures.json) |
 | The planet's rescuer | 113822 | [113822-the-planets-rescuer.json](./113822-the-planets-rescuer.json) |
 | The Planetarian | 377887 | [377887-the-planetarian.json](./377887-the-planetarian.json) |
@@ -23895,6 +23899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Pills | 426936 | [426936-tidy-pills.json](./426936-tidy-pills.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
+| Tidy Tails | 424805 | [424805-tidy-tails.json](./424805-tidy-tails.json) |
 | Tidy Tidy | 407034 | [407034-tidy-tidy.json](./407034-tidy-tidy.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Town | 425344 | [425344-tidy-town.json](./425344-tidy-town.json) |
@@ -27039,6 +27044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
 | Tip-Toeing Around an Empty House | 374173 | [374173-tip-toeing-around-an-empty-house.json](./374173-tip-toeing-around-an-empty-house.json) |
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
+| Tippidy Top | 424791 | [424791-tippidy-top.json](./424791-tippidy-top.json) |
 | Tipping Point | 116050 | [116050-tipping-point.json](./116050-tipping-point.json) |
 | Tippy Pads | 287883 | [287883-tippy-pads.json](./287883-tippy-pads.json) |
 | Tippy Putts | 401120 | [401120-tippy-putts.json](./401120-tippy-putts.json) |
