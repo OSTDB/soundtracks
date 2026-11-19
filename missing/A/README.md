@@ -4982,6 +4982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
 | Aether Fighter | 277694 | [277694-aether-fighter.json](./277694-aether-fighter.json) |
 | Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
+| Aether Garden | 428310 | [428310-aether-garden.json](./428310-aether-garden.json) |
 | Aether Gazer | 174971 | [174971-aether-gazer.json](./174971-aether-gazer.json) |
 | AEther Heist | 172247 | [172247-aether-heist.json](./172247-aether-heist.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
 | Akane the Kunoichi | 8376 | [8376-akane-the-kunoichi.json](./8376-akane-the-kunoichi.json) |
+| Akane to Nazuna no, Love Love Yuri Seikatsu | 428349 | [428349-akane-to-nazuna-no-love-love-yuri-seikatsu.json](./428349-akane-to-nazuna-no-love-love-yuri-seikatsu.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
 | Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
@@ -10652,6 +10654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ana: The Game | 93718 | [93718-ana-the-game.json](./93718-ana-the-game.json) |
 | Ana'Adventure | 357430 | [357430-anaadventure.json](./357430-anaadventure.json) |
 | Ana's Auto Fellatio | 411061 | [411061-anas-auto-fellatio.json](./411061-anas-auto-fellatio.json) |
+| Ana's Farm | 428344 | [428344-anas-farm.json](./428344-anas-farm.json) |
 | Anacapri: The Dream | 73661 | [73661-anacapri-the-dream.json](./73661-anacapri-the-dream.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
@@ -12382,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anniversary no Kuni no Alice: Wonderful Wonder World | 218641 | [218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json](./218641-anniversary-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Anno - Silver Pack | 198420 | [198420-anno-silver-pack.json](./198420-anno-silver-pack.json) |
 | Anno 117: Pax Romana - Blooming Cities Pack | 408893 | [408893-anno-117-pax-romana-blooming-cities-pack.json](./408893-anno-117-pax-romana-blooming-cities-pack.json) |
+| Anno 117: Pax Romana - Dawn of the Delta | 428317 | [428317-anno-117-pax-romana-dawn-of-the-delta.json](./428317-anno-117-pax-romana-dawn-of-the-delta.json) |
 | Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
