@@ -96,7 +96,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
 | R.B.I. Baseball 14 | 62324 | [62324-r-b-i-baseball-14.json](./62324-r-b-i-baseball-14.json) |
-| R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
 | R.B.I. Baseball 19 | 115205 | [115205-r-b-i-baseball-19.json](./115205-r-b-i-baseball-19.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
@@ -464,14 +463,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
 | Racecar.io | 31020 | [31020-racecar-io.json](./31020-racecar-io.json) |
 | RaceClub | 391381 | [391381-raceclub.json](./391381-raceclub.json) |
-| Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
 | Racer 8 | 9009 | [9009-racer-8.json](./9009-racer-8.json) |
-| Racer Mini Yonku: Japan Cup | 17590 | [17590-racer-mini-yonku-japan-cup.json](./17590-racer-mini-yonku-japan-cup.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RacerMate Challenge II | 48379 | [48379-racermate-challenge-ii.json](./48379-racermate-challenge-ii.json) |
@@ -700,7 +697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Core | 184806 | [184806-radiant-core.json](./184806-radiant-core.json) |
 | Radiant Crusade | 29012 | [29012-radiant-crusade.json](./29012-radiant-crusade.json) |
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
-| Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
 | Radiant Elusion | 336814 | [336814-radiant-elusion.json](./336814-radiant-elusion.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
@@ -2098,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
+| Random Heroes: Gold Edition | 129249 | [129249-random-heroes-gold-edition.json](./129249-random-heroes-gold-edition.json) |
 | Random House Puzzles & Games: Crosswords & Crostics | 209313 | [209313-random-house-puzzles-and-games-crosswords-and-crostics.json](./209313-random-house-puzzles-and-games-crosswords-and-crostics.json) |
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
@@ -3409,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Play Golf | 43215 | [43215-real-play-golf.json](./43215-real-play-golf.json) |
 | Real Pool | 43627 | [43627-real-pool.json](./43627-real-pool.json) |
 | Real Pool | 91838 | [91838-real-pool.json](./91838-real-pool.json) |
+| Real Pool 3D - Poolians | 76749 | [76749-real-pool-3d-poolians.json](./76749-real-pool-3d-poolians.json) |
 | Real Pool 3D Plus | 175307 | [175307-real-pool-3d-plus.json](./175307-real-pool-3d-plus.json) |
 | Real Pro Yakyuu!: Central League-hen | 282573 | [282573-real-pro-yakyuu-central-league-hen.json](./282573-real-pro-yakyuu-central-league-hen.json) |
 | Real Pro Yakyuu!: Pacific League-hen | 282574 | [282574-real-pro-yakyuu-pacific-league-hen.json](./282574-real-pro-yakyuu-pacific-league-hen.json) |
@@ -7508,7 +7506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Module | 165198 | [165198-reverse-module.json](./165198-reverse-module.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
-| Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
 | Reverse Sound Show | 334994 | [334994-reverse-sound-show.json](./334994-reverse-sound-show.json) |
 | Reverse Survivors | 408394 | [408394-reverse-survivors.json](./408394-reverse-survivors.json) |
@@ -9837,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob for Two | 179920 | [179920-rob-for-two.json](./179920-rob-for-two.json) |
 | Rob Riches | 159909 | [159909-rob-riches.json](./159909-rob-riches.json) |
 | Rob Run | 416015 | [416015-rob-run.json](./416015-rob-run.json) |
+| Rob Zombie's Spookshow International | 83040 | [83040-rob-zombies-spookshow-international.json](./83040-rob-zombies-spookshow-international.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robabekya | 309817 | [309817-robabekya.json](./309817-robabekya.json) |
 | Roball | 150819 | [150819-roball.json](./150819-roball.json) |
