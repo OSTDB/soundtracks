@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
 | Empyrean Frontier | 29576 | [29576-empyrean-frontier.json](./29576-empyrean-frontier.json) |
+| Empyrean League: Hex Tactics | 421140 | [421140-empyrean-league-hex-tactics.json](./421140-empyrean-league-hex-tactics.json) |
 | Empyrean Scout | 211874 | [211874-empyrean-scout.json](./211874-empyrean-scout.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
