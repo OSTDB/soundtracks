@@ -5332,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Fresco | 283546 | [283546-knights-of-fresco.json](./283546-knights-of-fresco.json) |
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Galiveth | 28426 | [28426-knights-of-galiveth.json](./28426-knights-of-galiveth.json) |
+| Knights of Grayfang | 266145 | [266145-knights-of-grayfang.json](./266145-knights-of-grayfang.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
 | Knights of Grumthorr 2 | 172893 | [172893-knights-of-grumthorr-2.json](./172893-knights-of-grumthorr-2.json) |
 | Knights of Hearts | 86320 | [86320-knights-of-hearts.json](./86320-knights-of-hearts.json) |
