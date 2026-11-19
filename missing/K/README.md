@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
 | Killer is Dead: Collector's Edition | 42986 | [42986-killer-is-dead-collectors-edition.json](./42986-killer-is-dead-collectors-edition.json) |
 | Killer Island | 358984 | [358984-killer-island.json](./358984-killer-island.json) |
+| Killer Issues | 429056 | [429056-killer-issues.json](./429056-killer-issues.json) |
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Karnival | 341712 | [341712-killer-karnival.json](./341712-killer-karnival.json) |
