@@ -14350,6 +14350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Chou Pro Yakyuu '92 | 46297 | [46297-hyper-chou-pro-yakyuu-92.json](./46297-hyper-chou-pro-yakyuu-92.json) |
 | Hyper Circuit | 317765 | [317765-hyper-circuit.json](./317765-hyper-circuit.json) |
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
+| Hyper color ball | 31668 | [31668-hyper-color-ball.json](./31668-hyper-color-ball.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Crash | 39290 | [39290-hyper-crash.json](./39290-hyper-crash.json) |
 | Hyper Crazy Climber | 73389 | [73389-hyper-crazy-climber.json](./73389-hyper-crazy-climber.json) |
