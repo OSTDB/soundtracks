@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War for the Overworld: Ultimate Edition | 124891 | [124891-war-for-the-overworld-ultimate-edition.json](./124891-war-for-the-overworld-ultimate-edition.json) |
 | War for the Overworld: Underlord Edition | 51782 | [51782-war-for-the-overworld-underlord-edition.json](./51782-war-for-the-overworld-underlord-edition.json) |
 | War For the Seas | 194454 | [194454-war-for-the-seas.json](./194454-war-for-the-seas.json) |
+| War for the West | 123746 | [123746-war-for-the-west.json](./123746-war-for-the-west.json) |
 | WAR for the White House | 109991 | [109991-war-for-the-white-house.json](./109991-war-for-the-white-house.json) |
 | War Forge | 414636 | [414636-war-forge.json](./414636-war-forge.json) |
 | War From Above | 409394 | [409394-war-from-above.json](./409394-war-from-above.json) |
@@ -9863,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Vibrant Halloween Skin Pack | 406458 | [406458-world-war-z-vibrant-halloween-skin-pack.json](./406458-world-war-z-vibrant-halloween-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
 | World War Z: Zeke Hunter Weapons Pack | 224394 | [224394-world-war-z-zeke-hunter-weapons-pack.json](./224394-world-war-z-zeke-hunter-weapons-pack.json) |
+| World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World war zombie | 270816 | [270816-world-war-zombie.json](./270816-world-war-zombie.json) |
 | World War: An Age of Industry & Magic | 282195 | [282195-world-war-an-age-of-industry-and-magic.json](./282195-world-war-an-age-of-industry-and-magic.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
