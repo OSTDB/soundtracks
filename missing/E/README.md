@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggball.io | 426019 | [426019-eggball-io.json](./426019-eggball-io.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggbird | 402330 | [402330-eggbird.json](./402330-eggbird.json) |
+| Eggbrkr | 429068 | [429068-eggbrkr.json](./429068-eggbrkr.json) |
 | Eggcelerate! | 142794 | [142794-eggcelerate.json](./142794-eggcelerate.json) |
 | Eggcelerate! to the North Pole | 234225 | [234225-eggcelerate-to-the-north-pole.json](./234225-eggcelerate-to-the-north-pole.json) |
 | Eggcelerate! to the Tropics | 234226 | [234226-eggcelerate-to-the-tropics.json](./234226-eggcelerate-to-the-tropics.json) |
