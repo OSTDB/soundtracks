@@ -5961,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Legend of Balance | 222978 | [222978-final-fantasy-legend-of-balance.json](./222978-final-fantasy-legend-of-balance.json) |
 | Final Fantasy: Mystic Quest | 415 | [415-final-fantasy-mystic-quest.json](./415-final-fantasy-mystic-quest.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
+| Final Fantasy: Pixel Remaster Collection - Anniversary Edition | 422377 | [422377-final-fantasy-pixel-remaster-collection-anniversary-edition.json](./422377-final-fantasy-pixel-remaster-collection-anniversary-edition.json) |
 | Final Fantasy: Sky Warriors | 262006 | [262006-final-fantasy-sky-warriors.json](./262006-final-fantasy-sky-warriors.json) |
 | Final Fantasy: The 4 Heroes of Light | 17463 | [17463-final-fantasy-the-4-heroes-of-light.json](./17463-final-fantasy-the-4-heroes-of-light.json) |
 | Final Fantasy: Unlimited with U | 66433 | [66433-final-fantasy-unlimited-with-u.json](./66433-final-fantasy-unlimited-with-u.json) |
@@ -6332,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
 | Find The Needle | 415859 | [415859-find-the-needle.json](./415859-find-the-needle.json) |
+| Find the Needle: One in Ten Million | 422384 | [422384-find-the-needle-one-in-ten-million.json](./422384-find-the-needle-one-in-ten-million.json) |
 | Find the Oil Racing Edition | 115883 | [115883-find-the-oil-racing-edition.json](./115883-find-the-oil-racing-edition.json) |
 | Find the Orange Narwhal | 303525 | [303525-find-the-orange-narwhal.json](./303525-find-the-orange-narwhal.json) |
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
@@ -12610,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Goes Hunting | 172929 | [172929-fox-goes-hunting.json](./172929-fox-goes-hunting.json) |
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox has two lives | 183666 | [183666-fox-has-two-lives.json](./183666-fox-has-two-lives.json) |
+| Fox Heist Game | 422340 | [422340-fox-heist-game.json](./422340-fox-heist-game.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt | 44984 | [44984-fox-hunt.json](./44984-fox-hunt.json) |
@@ -13006,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
 | Franchise Hockey Manager 11 | 318644 | [318644-franchise-hockey-manager-11.json](./318644-franchise-hockey-manager-11.json) |
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
+| Franchise Hockey Manager 13 | 422348 | [422348-franchise-hockey-manager-13.json](./422348-franchise-hockey-manager-13.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
