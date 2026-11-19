@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanky Larry | 176283 | [176283-lanky-larry.json](./176283-lanky-larry.json) |
 | Lanky Looters | 421338 | [421338-lanky-looters.json](./421338-lanky-looters.json) |
 | Lannath | 121208 | [121208-lannath.json](./121208-lannath.json) |
+| Lanota | 58141 | [58141-lanota.json](./58141-lanota.json) |
 | Lǎnrén Xiūxiān Zhuàn | 111583 | [111583-lanren-xiuxian-zhuan.json](./111583-lanren-xiuxian-zhuan.json) |
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansbury's SneakOut | 335606 | [335606-lansburys-sneakout.json](./335606-lansburys-sneakout.json) |
@@ -9238,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Friends 2: Reason for Tears | 393622 | [393622-lost-friends-2-reason-for-tears.json](./393622-lost-friends-2-reason-for-tears.json) |
 | Lost Friends 3: Never Return | 393623 | [393623-lost-friends-3-never-return.json](./393623-lost-friends-3-never-return.json) |
 | Lost Friends Adventure | 319912 | [319912-lost-friends-adventure.json](./319912-lost-friends-adventure.json) |
+| Lost Frontier | 58398 | [58398-lost-frontier.json](./58398-lost-frontier.json) |
 | Lost Future | 341974 | [341974-lost-future.json](./341974-lost-future.json) |
 | Lost Galaxy: Echoes of War | 350007 | [350007-lost-galaxy-echoes-of-war.json](./350007-lost-galaxy-echoes-of-war.json) |
 | Lost Game | 166585 | [166585-lost-game.json](./166585-lost-game.json) |
