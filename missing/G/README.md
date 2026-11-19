@@ -4795,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
 | Giant's Path | 393442 | [393442-giants-path.json](./393442-giants-path.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
+| Giant's Steps | 423586 | [423586-giants-steps.json](./423586-giants-steps.json) |
 | Giantess Girls! Job Jigsaw Jamboree | 357691 | [357691-giantess-girls-job-jigsaw-jamboree.json](./357691-giantess-girls-job-jigsaw-jamboree.json) |
 | Giantess Naval Defense | 420468 | [420468-giantess-naval-defense.json](./420468-giantess-naval-defense.json) |
 | Giantess Playground | 413114 | [413114-giantess-playground.json](./413114-giantess-playground.json) |
@@ -5795,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pandemic | 192518 | [192518-global-pandemic.json](./192518-global-pandemic.json) |
 | Global Parity | 424670 | [424670-global-parity.json](./424670-global-parity.json) |
+| Global Plates | 423610 | [423610-global-plates.json](./423610-global-plates.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
 | Global Rescue | 362051 | [362051-global-rescue.json](./362051-global-rescue.json) |
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
@@ -8103,6 +8105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoodGod | 355080 | [355080-goodgod.json](./355080-goodgod.json) |
 | Goodie Guild | 416541 | [416541-goodie-guild.json](./416541-goodie-guild.json) |
 | Goodlands | 192594 | [192594-goodlands.json](./192594-goodlands.json) |
+| Goodly Trials | 423598 | [423598-goodly-trials.json](./423598-goodly-trials.json) |
 | Goodness Gracious | 98230 | [98230-goodness-gracious.json](./98230-goodness-gracious.json) |
 | Goodness Rakes | 231607 | [231607-goodness-rakes.json](./231607-goodness-rakes.json) |
 | Goodnight | 184981 | [184981-goodnight.json](./184981-goodnight.json) |
