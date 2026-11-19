@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoomp! 64 | 196372 | [196372-yoomp-64.json](./196372-yoomp-64.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
+| Yoostar on MTV | 9593 | [9593-yoostar-on-mtv.json](./9593-yoostar-on-mtv.json) |
 | Yoot Tower | 7520 | [7520-yoot-tower.json](./7520-yoot-tower.json) |
 | Yopaz Icestar | 330267 | [330267-yopaz-icestar.json](./330267-yopaz-icestar.json) |
 | Yora Adventures | 141103 | [141103-yora-adventures.json](./141103-yora-adventures.json) |
