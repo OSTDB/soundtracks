@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate Guard Simulator | 380943 | [380943-gate-guard-simulator.json](./380943-gate-guard-simulator.json) |
 | Gate Guardian | 302855 | [302855-gate-guardian.json](./302855-gate-guardian.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
+| Gate Logic | 427779 | [427779-gate-logic.json](./427779-gate-logic.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Gates | 406750 | [406750-gate-of-gates.json](./406750-gate-of-gates.json) |
 | Gate of Labyrinth | 47514 | [47514-gate-of-labyrinth.json](./47514-gate-of-labyrinth.json) |
