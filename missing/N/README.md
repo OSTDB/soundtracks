@@ -483,7 +483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
 | Nanny's Journey | 288028 | [288028-nannys-journey.json](./288028-nannys-journey.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
-| Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Assault EX | 47647 | [47647-nano-assault-ex.json](./47647-nano-assault-ex.json) |
 | Nano Breaker | 22305 | [22305-nano-breaker.json](./22305-nano-breaker.json) |
 | Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
@@ -1506,11 +1505,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Hangtime | 217716 | [217716-nba-hangtime.json](./217716-nba-hangtime.json) |
 | NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA Hoopz | 10634 | [10634-nba-hoopz.json](./10634-nba-hoopz.json) |
-| NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
 | NBA In The Zone | 309981 | [309981-nba-in-the-zone.json](./309981-nba-in-the-zone.json) |
 | NBA in the Zone '98 | 43719 | [43719-nba-in-the-zone-98.json](./43719-nba-in-the-zone-98.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
-| NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
 | NBA In the Zone 2000 | 282382 | [282382-nba-in-the-zone-2000.json](./282382-nba-in-the-zone-2000.json) |
 | NBA In the Zone 2000 | 43718 | [43718-nba-in-the-zone-2000.json](./43718-nba-in-the-zone-2000.json) |
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
@@ -4210,7 +4207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL Full Contact | 43708 | [43708-nfl-full-contact.json](./43708-nfl-full-contact.json) |
 | NFL GameDay | 20254 | [20254-nfl-gameday.json](./20254-nfl-gameday.json) |
-| NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2000 | 43707 | [43707-nfl-gameday-2000.json](./43707-nfl-gameday-2000.json) |
 | NFL GameDay 2001 | 43763 | [43763-nfl-gameday-2001.json](./43763-nfl-gameday-2001.json) |
 | NFL GameDay 2002 | 43399 | [43399-nfl-gameday-2002.json](./43399-nfl-gameday-2002.json) |
@@ -5476,7 +5472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikakudori | 218983 | [218983-nikakudori.json](./218983-nikakudori.json) |
 | Nikakudori Reborn | 87926 | [87926-nikakudori-reborn.json](./87926-nikakudori-reborn.json) |
 | Nikakudori Solitaire | 89851 | [89851-nikakudori-solitaire.json](./89851-nikakudori-solitaire.json) |
-| Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
 | Nikhoj | 183166 | [183166-nikhoj.json](./183166-nikhoj.json) |
 | Niki in the Ship | 172916 | [172916-niki-in-the-ship.json](./172916-niki-in-the-ship.json) |
@@ -5994,7 +5989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
 | Ninja Teleport | 410094 | [410094-ninja-teleport.json](./410094-ninja-teleport.json) |
 | Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
-| Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
 | Ninja Time Pirates | 61781 | [61781-ninja-time-pirates.json](./61781-ninja-time-pirates.json) |
 | Ninja Tobu | 281273 | [281273-ninja-tobu.json](./281273-ninja-tobu.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
