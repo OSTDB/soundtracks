@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Cards: Survival Showdown | 318885 | [318885-zombie-cards-survival-showdown.json](./318885-zombie-cards-survival-showdown.json) |
 | Zombie Carnage 2 | 184476 | [184476-zombie-carnage-2.json](./184476-zombie-carnage-2.json) |
 | Zombie Castaways | 96450 | [96450-zombie-castaways.json](./96450-zombie-castaways.json) |
+| Zombie Catchers | 102689 | [102689-zombie-catchers.json](./102689-zombie-catchers.json) |
 | Zombie Chef | 372950 | [372950-zombie-chef.json](./372950-zombie-chef.json) |
 | Zombie Chronicles: Max's Story | 355601 | [355601-zombie-chronicles-maxs-story.json](./355601-zombie-chronicles-maxs-story.json) |
 | Zombie City | 192275 | [192275-zombie-city.json](./192275-zombie-city.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zookoban | 184365 | [184365-zookoban.json](./184365-zookoban.json) |
 | Zool | 242311 | [242311-zool.json](./242311-zool.json) |
 | Zool | 242313 | [242313-zool.json](./242313-zool.json) |
+| Zool 2 | 12238 | [12238-zool-2.json](./12238-zool-2.json) |
 | Zool Redimensioned | 162407 | [162407-zool-redimensioned.json](./162407-zool-redimensioned.json) |
 | Zool: Ninja of the Nth Dimension | 2547 | [2547-zool-ninja-of-the-nth-dimension.json](./2547-zool-ninja-of-the-nth-dimension.json) |
 | Zoolax Nights: Evil Clowns | 69356 | [69356-zoolax-nights-evil-clowns.json](./69356-zoolax-nights-evil-clowns.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zork | 1944 | [1944-zork.json](./1944-zork.json) |
 | Zork Classics: Interactive Fiction | 71755 | [71755-zork-classics-interactive-fiction.json](./71755-zork-classics-interactive-fiction.json) |
 | Zork Collection | 137464 | [137464-zork-collection.json](./137464-zork-collection.json) |
+| Zork II: The Wizard of Frobozz | 1945 | [1945-zork-ii-the-wizard-of-frobozz.json](./1945-zork-ii-the-wizard-of-frobozz.json) |
 | Zork III: The Dungeon Master | 1946 | [1946-zork-iii-the-dungeon-master.json](./1946-zork-iii-the-dungeon-master.json) |
 | Zork Nemesis: The Forbidden Lands | 1953 | [1953-zork-nemesis-the-forbidden-lands.json](./1953-zork-nemesis-the-forbidden-lands.json) |
 | Zork Remake | 118444 | [118444-zork-remake.json](./118444-zork-remake.json) |
