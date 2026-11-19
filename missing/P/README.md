@@ -11246,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
 | PlayHome | 130491 | [130491-playhome.json](./130491-playhome.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
+| PlayIndex | 419539 | [419539-playindex.json](./419539-playindex.json) |
 | Playing Both Sides | 122594 | [122594-playing-both-sides.json](./122594-playing-both-sides.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
 | Playing for a Better World | 95071 | [95071-playing-for-a-better-world.json](./95071-playing-for-a-better-world.json) |
