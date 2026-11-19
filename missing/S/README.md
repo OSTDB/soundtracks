@@ -3192,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Mansion | 294927 | [294927-scarred-mansion.json](./294927-scarred-mansion.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
+| Scarred Stars: Traumatic Edition | 173405 | [173405-scarred-stars-traumatic-edition.json](./173405-scarred-stars-traumatic-edition.json) |
 | Scarred Steel | 374780 | [374780-scarred-steel.json](./374780-scarred-steel.json) |
 | Scarry Village | 301995 | [301995-scarry-village.json](./301995-scarry-village.json) |
 | Scars Above | 152074 | [152074-scars-above.json](./152074-scars-above.json) |
@@ -38298,6 +38299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars 2 | 122256 | [122256-super-toy-cars-2.json](./122256-super-toy-cars-2.json) |
 | Super Toy Cars 2: Ultimate Racing | 146179 | [146179-super-toy-cars-2-ultimate-racing.json](./146179-super-toy-cars-2-ultimate-racing.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
+| Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
 | Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
 | Super Trashforce | 59134 | [59134-super-trashforce.json](./59134-super-trashforce.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
@@ -40798,6 +40800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Destiny | 133670 | [133670-sword-of-destiny.json](./133670-sword-of-destiny.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
 | Sword of Destruction II: Kyouhen no Yakata | 237698 | [237698-sword-of-destruction-ii-kyouhen-no-yakata.json](./237698-sword-of-destruction-ii-kyouhen-no-yakata.json) |
+| Sword of Elpisia | 182267 | [182267-sword-of-elpisia.json](./182267-sword-of-elpisia.json) |
 | Sword of Fargoal | 24452 | [24452-sword-of-fargoal.json](./24452-sword-of-fargoal.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Fortress the Onomuzim | 99469 | [99469-sword-of-fortress-the-onomuzim.json](./99469-sword-of-fortress-the-onomuzim.json) |
