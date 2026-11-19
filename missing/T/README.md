@@ -5946,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
 | That Time I Found a Box | 341377 | [341377-that-time-i-found-a-box.json](./341377-that-time-i-found-a-box.json) |
 | That time I got reincarnated as a fictional Defence Lawyer in an Ace Attorney fangame and had to defend myself against incredibly unfair odds. | 309990 | [309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json](./309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json) |
+| That Time I Got Reincarnated as a Slime | 174881 | [174881-that-time-i-got-reincarnated-as-a-slime.json](./174881-that-time-i-got-reincarnated-as-a-slime.json) |
 | That Time I Got Reincarnated as a Slime Isekai Chronicles: Season Pass | 328992 | [328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json](./328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles | 307757 | [307757-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles.json](./307757-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bean Machine | 408228 | [408228-the-bean-machine.json](./408228-the-bean-machine.json) |
 | The Bean Trials | 337665 | [337665-the-bean-trials.json](./337665-the-bean-trials.json) |
 | The Beanstalk | 82041 | [82041-the-beanstalk.json](./82041-the-beanstalk.json) |
+| The Bear & The Admiral | 178094 | [178094-the-bear-and-the-admiral.json](./178094-the-bear-and-the-admiral.json) |
 | The Bear and The Admiral | 175820 | [175820-the-bear-and-the-admiral.json](./175820-the-bear-and-the-admiral.json) |
 | The Bear B | 207276 | [207276-the-bear-b.json](./207276-the-bear-b.json) |
 | The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
@@ -27950,6 +27952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Amna & Saif | 51678 | [51678-together-amna-and-saif.json](./51678-together-amna-and-saif.json) |
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
+| Togges | 182117 | [182117-togges.json](./182117-togges.json) |
 | Toggle Cube | 207551 | [207551-toggle-cube.json](./207551-toggle-cube.json) |
 | Toggle Tile | 331601 | [331601-toggle-tile.json](./331601-toggle-tile.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
@@ -29133,6 +29136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toolnich Village | 190376 | [190376-toolnich-village.json](./190376-toolnich-village.json) |
 | Tools Up! | 118357 | [118357-tools-up.json](./118357-tools-up.json) |
 | Tools Up! + Ready, Steady Ship! Bundle | 309290 | [309290-tools-up-ready-steady-ship-bundle.json](./309290-tools-up-ready-steady-ship-bundle.json) |
+| Tools Up! Garden Party: Episode 1 - The Tree House | 169280 | [169280-tools-up-garden-party-episode-1-the-tree-house.json](./169280-tools-up-garden-party-episode-1-the-tree-house.json) |
 | Tools Up! Garden Party: Episode 2 - Tunnel Vision | 169281 | [169281-tools-up-garden-party-episode-2-tunnel-vision.json](./169281-tools-up-garden-party-episode-2-tunnel-vision.json) |
 | Tools Up! Garden Party: Episode 3 - Home Sweet Home | 169279 | [169279-tools-up-garden-party-episode-3-home-sweet-home.json](./169279-tools-up-garden-party-episode-3-home-sweet-home.json) |
 | Tools Up! Garden Party: Season Pass | 202935 | [202935-tools-up-garden-party-season-pass.json](./202935-tools-up-garden-party-season-pass.json) |
@@ -30628,6 +30632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
 | Toukankaku no Kuroi Toumei | 396532 | [396532-toukankaku-no-kuroi-toumei.json](./396532-toukankaku-no-kuroi-toumei.json) |
 | Touken Ranbu | 60291 | [60291-touken-ranbu.json](./60291-touken-ranbu.json) |
+| Touken Ranbu Warriors | 172433 | [172433-touken-ranbu-warriors.json](./172433-touken-ranbu-warriors.json) |
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
 | Touken Ranbu Warriors: Special Collection Box | 172828 | [172828-touken-ranbu-warriors-special-collection-box.json](./172828-touken-ranbu-warriors-special-collection-box.json) |
 | Touken Ranbu Warriors: Uchiban Outfit 16-piece Set | 224518 | [224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json](./224518-touken-ranbu-warriors-uchiban-outfit-16-piece-set.json) |
