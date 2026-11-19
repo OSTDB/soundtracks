@@ -15085,6 +15085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamdunk VR | 99456 | [99456-slamdunk-vr.json](./99456-slamdunk-vr.json) |
 | Slamit Pinball: Big Score | 9420 | [9420-slamit-pinball-big-score.json](./9420-slamit-pinball-big-score.json) |
 | Slamjet Stadium | 194187 | [194187-slamjet-stadium.json](./194187-slamjet-stadium.json) |
+| Slammed! | 35901 | [35901-slammed.json](./35901-slammed.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
 | Slamoids! | 105016 | [105016-slamoids.json](./105016-slamoids.json) |
 | Slampunks | 360759 | [360759-slampunks.json](./360759-slampunks.json) |
@@ -26803,6 +26804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Head | 131013 | [131013-square-head.json](./131013-square-head.json) |
 | Square Head Zombies | 65796 | [65796-square-head-zombies.json](./65796-square-head-zombies.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
+| Square Heroes | 36131 | [36131-square-heroes.json](./36131-square-heroes.json) |
 | Square Inertia | 251923 | [251923-square-inertia.json](./251923-square-inertia.json) |
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Journey | 202557 | [202557-square-journey.json](./202557-square-journey.json) |
@@ -28729,6 +28731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust the Unicorn | 316540 | [316540-stardust-the-unicorn.json](./316540-stardust-the-unicorn.json) |
 | Stardust Theater | 284555 | [284555-stardust-theater.json](./284555-stardust-theater.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
+| Stardust Vanguards | 35951 | [35951-stardust-vanguards.json](./35951-stardust-vanguards.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stardust: Wish of Witch | 386172 | [386172-stardust-wish-of-witch.json](./386172-stardust-wish-of-witch.json) |
@@ -32556,6 +32559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
 | Streets of Chaos | 212019 | [212019-streets-of-chaos.json](./212019-streets-of-chaos.json) |
+| Streets of Chaos | 35822 | [35822-streets-of-chaos.json](./35822-streets-of-chaos.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
@@ -34562,6 +34566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
 | Sumy Shelltris: Iceblocks 2 | 181055 | [181055-sumy-shelltris-iceblocks-2.json](./181055-sumy-shelltris-iceblocks-2.json) |
 | Sumy Shelltris: Iceblocks 3 | 195302 | [195302-sumy-shelltris-iceblocks-3.json](./195302-sumy-shelltris-iceblocks-3.json) |
+| Sun Blast | 35887 | [35887-sun-blast.json](./35887-sun-blast.json) |
 | Sun Breed | 264037 | [264037-sun-breed.json](./264037-sun-breed.json) |
 | Sun City | 310176 | [310176-sun-city.json](./310176-sun-city.json) |
 | Sun Down | 238583 | [238583-sun-down.json](./238583-sun-down.json) |
@@ -35300,6 +35305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Can Cannon | 149186 | [149186-super-can-cannon.json](./149186-super-can-cannon.json) |
 | Super Candle World | 391010 | [391010-super-candle-world.json](./391010-super-candle-world.json) |
 | Super Candy Ball: Color Clash | 235253 | [235253-super-candy-ball-color-clash.json](./235253-super-candy-ball-color-clash.json) |
+| Super Cane Magic Zero | 36078 | [36078-super-cane-magic-zero.json](./36078-super-cane-magic-zero.json) |
 | Super Cannibal Abduction | 286890 | [286890-super-cannibal-abduction.json](./286890-super-cannibal-abduction.json) |
 | Super Capsule Boy | 334508 | [334508-super-capsule-boy.json](./334508-super-capsule-boy.json) |
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
