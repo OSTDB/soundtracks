@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 380302 | [380302-eclipse.json](./380302-eclipse.json) |
 | Eclipse 2: Invasion of Darkness | 293586 | [293586-eclipse-2-invasion-of-darkness.json](./293586-eclipse-2-invasion-of-darkness.json) |
 | Eclipse Below | 350628 | [350628-eclipse-below.json](./350628-eclipse-below.json) |
+| Eclipse Blade | 420017 | [420017-eclipse-blade.json](./420017-eclipse-blade.json) |
 | Eclipse Breaker | 292411 | [292411-eclipse-breaker.json](./292411-eclipse-breaker.json) |
 | Eclipse Casino | 326254 | [326254-eclipse-casino.json](./326254-eclipse-casino.json) |
 | Eclipse Horde | 151662 | [151662-eclipse-horde.json](./151662-eclipse-horde.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmer | 386737 | [386737-elmer.json](./386737-elmer.json) |
+| Elmer | 419538 | [419538-elmer.json](./419538-elmer.json) |
 | Elmia | 76281 | [76281-elmia.json](./76281-elmia.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa | 21026 | [21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json](./21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json) |
@@ -7905,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everless | 158073 | [158073-everless.json](./158073-everless.json) |
 | Everlife | 175808 | [175808-everlife.json](./175808-everlife.json) |
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
+| Everlife 2 | 419564 | [419564-everlife-2.json](./419564-everlife-2.json) |
 | Everlife: Chapter 2 | 195736 | [195736-everlife-chapter-2.json](./195736-everlife-chapter-2.json) |
 | Everlight | 184987 | [184987-everlight.json](./184987-everlight.json) |
 | Everlight: Of Magic & Power | 24298 | [24298-everlight-of-magic-and-power.json](./24298-everlight-of-magic-and-power.json) |
