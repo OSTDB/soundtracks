@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
+| Jailbreak | 421060 | [421060-jailbreak.json](./421060-jailbreak.json) |
 | Jailbreak | 81986 | [81986-jailbreak.json](./81986-jailbreak.json) |
 | Jailbreak Assault | 328190 | [328190-jailbreak-assault.json](./328190-jailbreak-assault.json) |
 | Jailbreak Craft | 104166 | [104166-jailbreak-craft.json](./104166-jailbreak-craft.json) |
