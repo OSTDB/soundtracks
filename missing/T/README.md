@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | TCG Collector Fantasy | 419822 | [419822-tcg-collector-fantasy.json](./419822-tcg-collector-fantasy.json) |
 | TCG Empire: Card Shop Simulator | 322508 | [322508-tcg-empire-card-shop-simulator.json](./322508-tcg-empire-card-shop-simulator.json) |
+| TCG Football Card Shop Simulator | 425381 | [425381-tcg-football-card-shop-simulator.json](./425381-tcg-football-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
@@ -3845,7 +3846,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Smash-Up | 5214 | [5214-teenage-mutant-ninja-turtles-smash-up.json](./5214-teenage-mutant-ninja-turtles-smash-up.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Alopex Character DLC | 395233 | [395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json](./395233-teenage-mutant-ninja-turtles-splintered-fate-alopex-character-dlc.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Deluxe Edition | 351134 | [351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json](./351134-teenage-mutant-ninja-turtles-splintered-fate-deluxe-edition.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Gold Edition | 425377 | [425377-teenage-mutant-ninja-turtles-splintered-fate-gold-edition.json](./425377-teenage-mutant-ninja-turtles-splintered-fate-gold-edition.json) |
 | Teenage Mutant Ninja Turtles: Splintered Fate - Metalhead Character DLC | 395232 | [395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json](./395232-teenage-mutant-ninja-turtles-splintered-fate-metalhead-character-dlc.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Platinum Cowabunga Edition | 425376 | [425376-teenage-mutant-ninja-turtles-splintered-fate-platinum-cowabunga-edition.json](./425376-teenage-mutant-ninja-turtles-splintered-fate-platinum-cowabunga-edition.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Platinum Edition | 425378 | [425378-teenage-mutant-ninja-turtles-splintered-fate-platinum-edition.json](./425378-teenage-mutant-ninja-turtles-splintered-fate-platinum-edition.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Samurai Armor | 425375 | [425375-teenage-mutant-ninja-turtles-splintered-fate-samurai-armor.json](./425375-teenage-mutant-ninja-turtles-splintered-fate-samurai-armor.json) |
+| Teenage Mutant Ninja Turtles: Splintered Fate - Slash | 425374 | [425374-teenage-mutant-ninja-turtles-splintered-fate-slash.json](./425374-teenage-mutant-ninja-turtles-splintered-fate-slash.json) |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection | 194206 | [194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json](./194206-teenage-mutant-ninja-turtles-the-cowabunga-collection.json) |
 | Teenage Mutant Ninja Turtles: The Cowabunga Collection - Limited Edition | 198397 | [198397-teenage-mutant-ninja-turtles-the-cowabunga-collection-limited-edition.json](./198397-teenage-mutant-ninja-turtles-the-cowabunga-collection-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
@@ -6116,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
 | The Abduction of Oscar Z | 300808 | [300808-the-abduction-of-oscar-z.json](./300808-the-abduction-of-oscar-z.json) |
 | The Abettor's Letters | 58071 | [58071-the-abettors-letters.json](./58071-the-abettors-letters.json) |
+| The Abjuration Stand | 425332 | [425332-the-abjuration-stand.json](./425332-the-abjuration-stand.json) |
 | The Ables: Freepoint High | 33901 | [33901-the-ables-freepoint-high.json](./33901-the-ables-freepoint-high.json) |
 | The Abnormal Place | 155299 | [155299-the-abnormal-place.json](./155299-the-abnormal-place.json) |
 | The Abominable Shitpit | 418772 | [418772-the-abominable-shitpit.json](./418772-the-abominable-shitpit.json) |
@@ -12055,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heian Fuuunden | 42290 | [42290-the-heian-fuuunden.json](./42290-the-heian-fuuunden.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heilwald Loophole | 188769 | [188769-the-heilwald-loophole.json](./188769-the-heilwald-loophole.json) |
+| The Heir: Steampunk Escape Room | 425368 | [425368-the-heir-steampunk-escape-room.json](./425368-the-heir-steampunk-escape-room.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heiress of Sorcery | 130210 | [130210-the-heiress-of-sorcery.json](./130210-the-heiress-of-sorcery.json) |
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
@@ -15803,6 +15811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Rune | 408492 | [408492-the-missing-rune.json](./408492-the-missing-rune.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
+| The Missing Teacher: Keep Lookin' | 425361 | [425361-the-missing-teacher-keep-lookin.json](./425361-the-missing-teacher-keep-lookin.json) |
 | The Missing Thing | 367191 | [367191-the-missing-thing.json](./367191-the-missing-thing.json) |
 | The Missing Threads | 412925 | [412925-the-missing-threads.json](./412925-the-missing-threads.json) |
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
@@ -19263,6 +19272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
 | The Song Out of Space | 188157 | [188157-the-song-out-of-space.json](./188157-the-song-out-of-space.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
+| The Songs of Stardust | 425336 | [425336-the-songs-of-stardust.json](./425336-the-songs-of-stardust.json) |
 | The Songs She Sings at the Other End of the Tunnel | 128666 | [128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json](./128666-the-songs-she-sings-at-the-other-end-of-the-tunnel.json) |
 | The Songtail Society | 420439 | [420439-the-songtail-society.json](./420439-the-songtail-society.json) |
 | The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
@@ -23887,6 +23897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
 | Tidy Tidy | 407034 | [407034-tidy-tidy.json](./407034-tidy-tidy.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
+| Tidy Town | 425344 | [425344-tidy-town.json](./425344-tidy-town.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
@@ -23900,6 +23911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
 | Tidy Your Room Simulator | 89604 | [89604-tidy-your-room-simulator.json](./89604-tidy-your-room-simulator.json) |
 | Tidying Simulator | 415829 | [415829-tidying-simulator.json](./415829-tidying-simulator.json) |
+| Tidyspell | 425334 | [425334-tidyspell.json](./425334-tidyspell.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
 | Tie Break | 95491 | [95491-tie-break.json](./95491-tie-break.json) |
 | Tie Break Tenis 98' | 2400 | [2400-tie-break-tenis-98.json](./2400-tie-break-tenis-98.json) |
@@ -29041,6 +29053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToontownRonpa: Citizens of Distrust | 227568 | [227568-toontownronpa-citizens-of-distrust.json](./227568-toontownronpa-citizens-of-distrust.json) |
 | Toorum's Quest | 270427 | [270427-toorums-quest.json](./270427-toorums-quest.json) |
 | Toot's Race | 108593 | [108593-toots-race.json](./108593-toots-race.json) |
+| Tooth & Tide | 425347 | [425347-tooth-and-tide.json](./425347-tooth-and-tide.json) |
 | Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
@@ -30594,6 +30607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toward Pianist | 288576 | [288576-toward-pianist.json](./288576-toward-pianist.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Toward the Moon | 288577 | [288577-toward-the-moon.json](./288577-toward-the-moon.json) |
+| Toward-8 | 425345 | [425345-toward-8.json](./425345-toward-8.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
 | Towards Future | 320622 | [320622-towards-future.json](./320622-towards-future.json) |
 | Towards Gold and Glory | 97006 | [97006-towards-gold-and-glory.json](./97006-towards-gold-and-glory.json) |
@@ -36600,6 +36614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
 | Tsukimi Planet | 124355 | [124355-tsukimi-planet.json](./124355-tsukimi-planet.json) |
+| Tsukimi Planet: Classic Remaster | 425380 | [425380-tsukimi-planet-classic-remaster.json](./425380-tsukimi-planet-classic-remaster.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
 | Tsukitomo Tsukiuta 12 Memories | 145103 | [145103-tsukitomo-tsukiuta-12-memories.json](./145103-tsukitomo-tsukiuta-12-memories.json) |
