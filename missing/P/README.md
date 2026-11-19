@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer Waltz | 81619 | [81619-panzer-waltz.json](./81619-panzer-waltz.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
+| Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
 | Panzerdogs | 234791 | [234791-panzerdogs.json](./234791-panzerdogs.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
@@ -16147,6 +16148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prestigious Passions | 299045 | [299045-prestigious-passions.json](./299045-prestigious-passions.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
+| Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
 | Preta: Vendetta Rising | 41943 | [41943-preta-vendetta-rising.json](./41943-preta-vendetta-rising.json) |
