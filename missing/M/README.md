@@ -1030,7 +1030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Hunters | 153315 | [153315-mage-hunters.json](./153315-mage-hunters.json) |
 | Mage Kanade’s Futanari Dungeon Quest | 253689 | [253689-mage-kanade-s-futanari-dungeon-quest.json](./253689-mage-kanade-s-futanari-dungeon-quest.json) |
 | Mage Knight: Apocalypse | 20588 | [20588-mage-knight-apocalypse.json](./20588-mage-knight-apocalypse.json) |
-| Mage Knight: Destiny's Soldier | 20576 | [20576-mage-knight-destinys-soldier.json](./20576-mage-knight-destinys-soldier.json) |
 | Mage Lords of Brams | 215608 | [215608-mage-lords-of-brams.json](./215608-mage-lords-of-brams.json) |
 | Mage Mail | 415609 | [415609-mage-mail.json](./415609-mage-mail.json) |
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
@@ -2714,8 +2713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
 | Majestria: Incremental Survival | 406891 | [406891-majestria-incremental-survival.json](./406891-majestria-incremental-survival.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
-| Majesty 2: Battles of Ardania | 19198 | [19198-majesty-2-battles-of-ardania.json](./19198-majesty-2-battles-of-ardania.json) |
-| Majesty 2: Kingmaker | 19199 | [19199-majesty-2-kingmaker.json](./19199-majesty-2-kingmaker.json) |
 | Majesty 2: Monster Kingdom | 19197 | [19197-majesty-2-monster-kingdom.json](./19197-majesty-2-monster-kingdom.json) |
 | Majesty 2: Pocket Kingdom | 66529 | [66529-majesty-2-pocket-kingdom.json](./66529-majesty-2-pocket-kingdom.json) |
 | Majesty 2: The Fantasy Kingdom Sim | 2043 | [2043-majesty-2-the-fantasy-kingdom-sim.json](./2043-majesty-2-the-fantasy-kingdom-sim.json) |
@@ -4304,7 +4301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and the Mystical Worlds | 314124 | [314124-mario-and-the-mystical-worlds.json](./314124-mario-and-the-mystical-worlds.json) |
 | Mario and the Rod of Seasons | 249547 | [249547-mario-and-the-rod-of-seasons.json](./249547-mario-and-the-rod-of-seasons.json) |
 | Mario and Yoshi | 381741 | [381741-mario-and-yoshi.json](./381741-mario-and-yoshi.json) |
-| Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
 | Mario Artist: Communication Kit | 79479 | [79479-mario-artist-communication-kit.json](./79479-mario-artist-communication-kit.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
@@ -5362,7 +5358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Nemesis: Rise of the Imperfects | 194232 | [194232-marvel-nemesis-rise-of-the-imperfects.json](./194232-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects 2 | 289591 | [289591-marvel-nemesis-rise-of-the-imperfects-2.json](./289591-marvel-nemesis-rise-of-the-imperfects-2.json) |
-| Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
 | Marvel Pinball: Epic Collection Vol. 1 | 42902 | [42902-marvel-pinball-epic-collection-vol-1.json](./42902-marvel-pinball-epic-collection-vol-1.json) |
 | Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
@@ -7830,9 +7825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior | 13091 | [13091-mechwarrior.json](./13091-mechwarrior.json) |
 | MechWarrior | 19188 | [19188-mechwarrior.json](./19188-mechwarrior.json) |
 | MechWarrior 2: 31st Century Combat | 784 | [784-mechwarrior-2-31st-century-combat.json](./784-mechwarrior-2-31st-century-combat.json) |
-| MechWarrior 2: Arcade Combat Edition | 19992 | [19992-mechwarrior-2-arcade-combat-edition.json](./19992-mechwarrior-2-arcade-combat-edition.json) |
 | MechWarrior 2: BattlePack | 316526 | [316526-mechwarrior-2-battlepack.json](./316526-mechwarrior-2-battlepack.json) |
-| MechWarrior 2: Ghost Bear's Legacy | 19189 | [19189-mechwarrior-2-ghost-bears-legacy.json](./19189-mechwarrior-2-ghost-bears-legacy.json) |
 | MechWarrior 2: Mercenaries | 785 | [785-mechwarrior-2-mercenaries.json](./785-mechwarrior-2-mercenaries.json) |
 | MechWarrior 2: The Titanium Trilogy | 209534 | [209534-mechwarrior-2-the-titanium-trilogy.json](./209534-mechwarrior-2-the-titanium-trilogy.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
@@ -11982,7 +11975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Ninn's Latex: The Game | 70788 | [70788-michael-ninns-latex-the-game.json](./70788-michael-ninns-latex-the-game.json) |
 | Michael Owen's WLS 2000 | 3407 | [3407-michael-owens-wls-2000.json](./3407-michael-owens-wls-2000.json) |
 | Michael Owen's World League Soccer '99 | 71669 | [71669-michael-owens-world-league-soccer-99.json](./71669-michael-owens-world-league-soccer-99.json) |
-| Michael Phelps: Push the Limit | 19945 | [19945-michael-phelps-push-the-limit.json](./19945-michael-phelps-push-the-limit.json) |
 | Michael Schacht's Web of Power Card Game: The Duel | 175293 | [175293-michael-schachts-web-of-power-card-game-the-duel.json](./175293-michael-schachts-web-of-power-card-game-the-duel.json) |
 | Michael Schumacher Racing World Kart 2002 | 8853 | [8853-michael-schumacher-racing-world-kart-2002.json](./8853-michael-schumacher-racing-world-kart-2002.json) |
 | Michael Schumacher World Tour Kart 2004 | 64863 | [64863-michael-schumacher-world-tour-kart-2004.json](./64863-michael-schumacher-world-tour-kart-2004.json) |
@@ -12662,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | Microvania | 185053 | [185053-microvania.json](./185053-microvania.json) |
+| Microvania | 332675 | [332675-microvania.json](./332675-microvania.json) |
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
@@ -14769,7 +14762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini MSX | 273531 | [273531-mini-msx.json](./273531-mini-msx.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Ninjas | 2192 | [2192-mini-ninjas.json](./2192-mini-ninjas.json) |
-| Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
 | Mini Nuts | 61481 | [61481-mini-nuts.json](./61481-mini-nuts.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
@@ -16353,7 +16345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
-| MLB Bobblehead Pros | 20562 | [20562-mlb-bobblehead-pros.json](./20562-mlb-bobblehead-pros.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
 | MLB Clutch Hit Baseball 2023 | 263848 | [263848-mlb-clutch-hit-baseball-2023.json](./263848-mlb-clutch-hit-baseball-2023.json) |
 | MLB Dream Nine Mobile | 291156 | [291156-mlb-dream-nine-mobile.json](./291156-mlb-dream-nine-mobile.json) |
@@ -16742,7 +16733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mockbuster Video | 405850 | [405850-mockbuster-video.json](./405850-mockbuster-video.json) |
 | Mockingbird | 264759 | [264759-mockingbird.json](./264759-mockingbird.json) |
-| Moco Moco Friends | 19983 | [19983-moco-moco-friends.json](./19983-moco-moco-friends.json) |
 | Mocove Arts VR | 37410 | [37410-mocove-arts-vr.json](./37410-mocove-arts-vr.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Mod Shooter | 311846 | [311846-mod-shooter.json](./311846-mod-shooter.json) |
@@ -17127,7 +17117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Attack | 39723 | [39723-mole-attack.json](./39723-mole-attack.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
-| Mole Control | 20423 | [20423-mole-control.json](./20423-mole-control.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
 | Mole Escape | 417721 | [417721-mole-escape.json](./417721-mole-escape.json) |
 | Mole Gem Mayhem | 294988 | [294988-mole-gem-mayhem.json](./294988-mole-gem-mayhem.json) |
@@ -17924,7 +17913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Blitz | 302565 | [302565-monster-blitz.json](./302565-monster-blitz.json) |
 | Monster Block | 41193 | [41193-monster-block.json](./41193-monster-block.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
-| Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Bonds | 332578 | [332578-monster-bonds.json](./332578-monster-bonds.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
@@ -18294,7 +18282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster land: Builder | 216043 | [216043-monster-land-builder.json](./216043-monster-land-builder.json) |
 | Monster Layer | 392680 | [392680-monster-layer.json](./392680-monster-layer.json) |
 | Monster League Baseball | 428953 | [428953-monster-league-baseball.json](./428953-monster-league-baseball.json) |
-| Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
 | Monster Legacy: New Horizons | 287038 | [287038-monster-legacy-new-horizons.json](./287038-monster-legacy-new-horizons.json) |
 | Monster Legacy: New Horizons 2 | 296858 | [296858-monster-legacy-new-horizons-2.json](./296858-monster-legacy-new-horizons-2.json) |
@@ -18463,7 +18450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Race | 64019 | [64019-monster-race.json](./64019-monster-race.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
-| Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
 | Monster Racers | 72742 | [72742-monster-racers.json](./72742-monster-racers.json) |
 | Monster Racing League | 236487 | [236487-monster-racing-league.json](./236487-monster-racing-league.json) |
 | Monster Racing League: Ignition Premium Pass | 254836 | [254836-monster-racing-league-ignition-premium-pass.json](./254836-monster-racing-league-ignition-premium-pass.json) |
@@ -19268,7 +19254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonship | 256233 | [256233-moonship.json](./256233-moonship.json) |
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 183683 | [183683-moonshot.json](./183683-moonshot.json) |
-| Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
 | MoonShot | 418034 | [418034-moonshot.json](./418034-moonshot.json) |
@@ -22558,7 +22543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Maniaz | 425442 | [425442-music-maniaz.json](./425442-music-maniaz.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
 | Music of Destiny: Corrupted Dungeons | 323449 | [323449-music-of-destiny-corrupted-dungeons.json](./323449-music-of-destiny-corrupted-dungeons.json) |
-| Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
 | Music On: Drums | 85293 | [85293-music-on-drums.json](./85293-music-on-drums.json) |
 | Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
@@ -23066,7 +23050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
 | My Bakery Empire: Stylish Edition | 302271 | [302271-my-bakery-empire-stylish-edition.json](./302271-my-bakery-empire-stylish-edition.json) |
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
-| My Ballet Studio | 20415 | [20415-my-ballet-studio.json](./20415-my-ballet-studio.json) |
 | My Ballet Studio | 51105 | [51105-my-ballet-studio.json](./51105-my-ballet-studio.json) |
 | My Baseball League | 241562 | [241562-my-baseball-league.json](./241562-my-baseball-league.json) |
 | My Bath Tub Companion | 304583 | [304583-my-bath-tub-companion.json](./304583-my-bath-tub-companion.json) |
@@ -24280,7 +24263,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Strange Girlfriends | 248926 | [248926-my-strange-girlfriends.json](./248926-my-strange-girlfriends.json) |
 | My Strange Lover | 299624 | [299624-my-strange-lover.json](./299624-my-strange-lover.json) |
 | My Strange Plane is a Thing Body Moves Through | 299077 | [299077-my-strange-plane-is-a-thing-body-moves-through.json](./299077-my-strange-plane-is-a-thing-body-moves-through.json) |
-| My Street | 19306 | [19306-my-street.json](./19306-my-street.json) |
 | My Strong Horse | 164256 | [164256-my-strong-horse.json](./164256-my-strong-horse.json) |
 | My Strongest Girlfriend | 316651 | [316651-my-strongest-girlfriend.json](./316651-my-strongest-girlfriend.json) |
 | My Student Loves Me! | 199548 | [199548-my-student-loves-me.json](./199548-my-student-loves-me.json) |
