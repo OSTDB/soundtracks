@@ -1178,7 +1178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians | 54552 | [54552-galerians.json](./54552-galerians.json) |
-| Galerians: Ash | 19629 | [19629-galerians-ash.json](./19629-galerians-ash.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galerider | 110047 | [110047-galerider.json](./110047-galerider.json) |
 | Gales of Nayeli | 197512 | [197512-gales-of-nayeli.json](./197512-gales-of-nayeli.json) |
@@ -1244,7 +1243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Racer 2000 | 125527 | [125527-gallop-racer-2000.json](./125527-gallop-racer-2000.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
-| Gallop Racer 2004 | 20146 | [20146-gallop-racer-2004.json](./20146-gallop-racer-2004.json) |
 | Gallop Racer 2006 | 20147 | [20147-gallop-racer-2006.json](./20147-gallop-racer-2006.json) |
 | Gallop Racer Inbreed | 125528 | [125528-gallop-racer-inbreed.json](./125528-gallop-racer-inbreed.json) |
 | Gallop Racer Online | 310712 | [310712-gallop-racer-online.json](./310712-gallop-racer-online.json) |
@@ -3981,7 +3979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Off Work | 379031 | [379031-get-off-work.json](./379031-get-off-work.json) |
 | Get Ogre It | 141747 | [141747-get-ogre-it.json](./141747-get-ogre-it.json) |
 | Get Ogre It: Escape Dungeons | 197804 | [197804-get-ogre-it-escape-dungeons.json](./197804-get-ogre-it-escape-dungeons.json) |
-| Get on da Mic | 20186 | [20186-get-on-da-mic.json](./20186-get-on-da-mic.json) |
 | Get on Slime Level | 393614 | [393614-get-on-slime-level.json](./393614-get-on-slime-level.json) |
 | Get on Top! | 97452 | [97452-get-on-top.json](./97452-get-on-top.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
@@ -6507,7 +6504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
-| Goal Storm '97 | 20141 | [20141-goal-storm-97.json](./20141-goal-storm-97.json) |
 | Goal to Go | 66534 | [66534-goal-to-go.json](./66534-goal-to-go.json) |
 | Goal! | 218001 | [218001-goal.json](./218001-goal.json) |
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
@@ -6724,7 +6720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins | 239103 | [239103-goblins.json](./239103-goblins.json) |
 | Goblins | 282964 | [282964-goblins.json](./282964-goblins.json) |
 | Goblins | 306054 | [306054-goblins.json](./306054-goblins.json) |
-| Goblins & Grottos | 20379 | [20379-goblins-and-grottos.json](./20379-goblins-and-grottos.json) |
 | Goblins 2 Go | 79991 | [79991-goblins-2-go.json](./79991-goblins-2-go.json) |
 | Goblins and Gunslingers | 415761 | [415761-goblins-and-gunslingers.json](./415761-goblins-and-gunslingers.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
@@ -9076,7 +9071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Racing on Line | 167390 | [167390-grand-prix-racing-on-line.json](./167390-grand-prix-racing-on-line.json) |
 | Grand Prix Racing Universal | 302736 | [302736-grand-prix-racing-universal.json](./302736-grand-prix-racing-universal.json) |
 | Grand Prix Rally II | 46750 | [46750-grand-prix-rally-ii.json](./46750-grand-prix-rally-ii.json) |
-| Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Prix Simulator 2 | 69725 | [69725-grand-prix-simulator-2.json](./69725-grand-prix-simulator-2.json) |
 | Grand Prix Star | 39925 | [39925-grand-prix-star.json](./39925-grand-prix-star.json) |
@@ -12808,7 +12802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsheath | 180530 | [180530-gunsheath.json](./180530-gunsheath.json) |
 | Gunship | 12128 | [12128-gunship.json](./12128-gunship.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
-| Gunship | 20295 | [20295-gunship.json](./20295-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship | 261208 | [261208-gunship.json](./261208-gunship.json) |
 | Gunship + Gunship 2000 | 296604 | [296604-gunship-gunship-2000.json](./296604-gunship-gunship-2000.json) |
