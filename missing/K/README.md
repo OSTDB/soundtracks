@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Sheep | 226136 | [226136-keep-sheep.json](./226136-keep-sheep.json) |
 | Keep Sheep Safe! | 52691 | [52691-keep-sheep-safe.json](./52691-keep-sheep-safe.json) |
+| Keep Skeleton Alive! | 424221 | [424221-keep-skeleton-alive.json](./424221-keep-skeleton-alive.json) |
 | Keep Spinning | 179441 | [179441-keep-spinning.json](./179441-keep-spinning.json) |
 | Keep Talk Until You Dead | 151488 | [151488-keep-talk-until-you-dead.json](./151488-keep-talk-until-you-dead.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
@@ -2290,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
 | Keyhole Spy: Student Girls | 106424 | [106424-keyhole-spy-student-girls.json](./106424-keyhole-spy-student-girls.json) |
 | Keyhole Spy: Teachers | 106581 | [106581-keyhole-spy-teachers.json](./106581-keyhole-spy-teachers.json) |
+| Keyhunt | 424224 | [424224-keyhunt.json](./424224-keyhunt.json) |
 | Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
 | KeyLess | 333343 | [333343-keyless.json](./333343-keyless.json) |
