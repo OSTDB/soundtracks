@@ -11127,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Past | 379292 | [379292-the-forgotten-past.json](./379292-the-forgotten-past.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
 | The Forgotten Portals | 268606 | [268606-the-forgotten-portals.json](./268606-the-forgotten-portals.json) |
+| The Forgotten Room | 57273 | [57273-the-forgotten-room.json](./57273-the-forgotten-room.json) |
 | The Forgotten Sprites | 87986 | [87986-the-forgotten-sprites.json](./87986-the-forgotten-sprites.json) |
 | The Forgotten Tapes: Analog Nightmares | 231353 | [231353-the-forgotten-tapes-analog-nightmares.json](./231353-the-forgotten-tapes-analog-nightmares.json) |
 | The Forgotten Tapes: Twisted Forms | 245944 | [245944-the-forgotten-tapes-twisted-forms.json](./245944-the-forgotten-tapes-twisted-forms.json) |
@@ -15868,6 +15869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
 | The Mishka Effect | 393274 | [393274-the-mishka-effect.json](./393274-the-mishka-effect.json) |
+| The Miskatonic | 59833 | [59833-the-miskatonic.json](./59833-the-miskatonic.json) |
 | The Misshitsu kara no Dasshutsu 2 | 125774 | [125774-the-misshitsu-kara-no-dasshutsu-2.json](./125774-the-misshitsu-kara-no-dasshutsu-2.json) |
 | The Misshitsu kara no Dasshutsu: Asobi no Tengoku Kumadonaru Bowl-hen | 222034 | [222034-the-misshitsu-kara-no-dasshutsu-asobi-no-tengoku-kumadonaru-bowl-hen.json](./222034-the-misshitsu-kara-no-dasshutsu-asobi-no-tengoku-kumadonaru-bowl-hen.json) |
 | The Misshitsu kara no Dasshutsu: Celeb na Goutei-hen | 222045 | [222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json](./222045-the-misshitsu-kara-no-dasshutsu-celeb-na-goutei-hen.json) |
@@ -16635,6 +16637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Operational Art of War II: Elite Edition | 73677 | [73677-the-operational-art-of-war-ii-elite-edition.json](./73677-the-operational-art-of-war-ii-elite-edition.json) |
 | The Operational Art of War II: Flashpoint Kosovo | 70073 | [70073-the-operational-art-of-war-ii-flashpoint-kosovo.json](./70073-the-operational-art-of-war-ii-flashpoint-kosovo.json) |
 | The Operational Art of War II: Modern Battles 1956-2000 | 823 | [823-the-operational-art-of-war-ii-modern-battles-1956-2000.json](./823-the-operational-art-of-war-ii-modern-battles-1956-2000.json) |
+| The Operational Art of War IV | 59525 | [59525-the-operational-art-of-war-iv.json](./59525-the-operational-art-of-war-iv.json) |
 | The Operational Art of War: Century of Warfare | 68844 | [68844-the-operational-art-of-war-century-of-warfare.json](./68844-the-operational-art-of-war-century-of-warfare.json) |
 | The Operative: No One Lives Forever | 897 | [897-the-operative-no-one-lives-forever.json](./897-the-operative-no-one-lives-forever.json) |
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
@@ -20233,6 +20236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
 | The Thing: Remastered | 305004 | [305004-the-thing-remastered.json](./305004-the-thing-remastered.json) |
 | The Thing: Remastered - Deluxe Edition | 383010 | [383010-the-thing-remastered-deluxe-edition.json](./383010-the-thing-remastered-deluxe-edition.json) |
+| The Thing: Space X | 59143 | [59143-the-thing-space-x.json](./59143-the-thing-space-x.json) |
 | The Thing: Station Survival | 309620 | [309620-the-thing-station-survival.json](./309620-the-thing-station-survival.json) |
 | The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
 | The Things We Lost in the Flood | 118170 | [118170-the-things-we-lost-in-the-flood.json](./118170-the-things-we-lost-in-the-flood.json) |
@@ -35777,6 +35781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Mini Mixed Trivia | 55739 | [55739-trivia-vault-mini-mixed-trivia.json](./55739-trivia-vault-mini-mixed-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia 2 | 55738 | [55738-trivia-vault-mini-mixed-trivia-2.json](./55738-trivia-vault-mini-mixed-trivia-2.json) |
 | Trivia Vault: Mini Mixed Trivia 3 | 59131 | [59131-trivia-vault-mini-mixed-trivia-3.json](./59131-trivia-vault-mini-mixed-trivia-3.json) |
+| Trivia Vault: Mini Mixed Trivia 4 | 59130 | [59130-trivia-vault-mini-mixed-trivia-4.json](./59130-trivia-vault-mini-mixed-trivia-4.json) |
 | Trivia Vault: Mixed Trivia | 52779 | [52779-trivia-vault-mixed-trivia.json](./52779-trivia-vault-mixed-trivia.json) |
 | Trivia Vault: Mixed Trivia 2 | 86310 | [86310-trivia-vault-mixed-trivia-2.json](./86310-trivia-vault-mixed-trivia-2.json) |
 | Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
@@ -37115,6 +37120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Ravenwood Stories | 205175 | [205175-tunguska-the-visitation-ravenwood-stories.json](./205175-tunguska-the-visitation-ravenwood-stories.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
 | Tunic GBC | 300510 | [300510-tunic-gbc.json](./300510-tunic-gbc.json) |
+| Tunich | 58112 | [58112-tunich.json](./58112-tunich.json) |
 | Tunics! | 243617 | [243617-tunics.json](./243617-tunics.json) |
 | Tunin'Glue | 289759 | [289759-tuninglue.json](./289759-tuninglue.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
