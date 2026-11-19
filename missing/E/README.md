@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
 | El Tesoro de Isla Alcachofa | 94443 | [94443-el-tesoro-de-isla-alcachofa.json](./94443-el-tesoro-de-isla-alcachofa.json) |
 | El Tigre: The Adventures of Manny Rivera | 264869 | [264869-el-tigre-the-adventures-of-manny-rivera.json](./264869-el-tigre-the-adventures-of-manny-rivera.json) |
+| El Velo: Hell Has No Limits | 427868 | [427868-el-velo-hell-has-no-limits.json](./427868-el-velo-hell-has-no-limits.json) |
 | El Viaje de Diciembre | 260494 | [260494-el-viaje-de-diciembre.json](./260494-el-viaje-de-diciembre.json) |
 | El Virus | 345396 | [345396-el-virus.json](./345396-el-virus.json) |
 | El-Drifto | 295750 | [295750-el-drifto.json](./295750-el-drifto.json) |
@@ -2950,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfenberg | 291681 | [291681-elfenberg.json](./291681-elfenberg.json) |
 | Elfengard Hunter Slayer | 302443 | [302443-elfengard-hunter-slayer.json](./302443-elfengard-hunter-slayer.json) |
 | Elfenwelt | 73243 | [73243-elfenwelt.json](./73243-elfenwelt.json) |
+| Elfgineer | 427659 | [427659-elfgineer.json](./427659-elfgineer.json) |
 | Elfheim: Chapter 1 | 207745 | [207745-elfheim-chapter-1.json](./207745-elfheim-chapter-1.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfie: A Sand Plan | 367988 | [367988-elfie-a-sand-plan.json](./367988-elfie-a-sand-plan.json) |
@@ -8987,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exon | 239375 | [239375-exon.json](./239375-exon.json) |
 | Exon | 380338 | [380338-exon.json](./380338-exon.json) |
 | Exon: The Impossible Challenge | 55410 | [55410-exon-the-impossible-challenge.json](./55410-exon-the-impossible-challenge.json) |
+| Exonautis | 427660 | [427660-exonautis.json](./427660-exonautis.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
