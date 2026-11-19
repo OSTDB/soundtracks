@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000cc Turbo | 12347 | [12347-1000cc-turbo.json](./12347-1000cc-turbo.json) |
 | 1000m Zombie Escape! | 222202 | [222202-1000m-zombie-escape.json](./222202-1000m-zombie-escape.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
+| 1000xResist: Deluxe Edition | 427207 | [427207-1000xresist-deluxe-edition.json](./427207-1000xresist-deluxe-edition.json) |
 | 1001 BC: A Mediterranean Odyssey | 12353 | [12353-1001-bc-a-mediterranean-odyssey.json](./12353-1001-bc-a-mediterranean-odyssey.json) |
 | 1001 Black Raven Jigsaw | 199356 | [199356-1001-black-raven-jigsaw.json](./199356-1001-black-raven-jigsaw.json) |
 | 1001 BlockBusters | 84613 | [84613-1001-blockbusters.json](./84613-1001-blockbusters.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 4655 | [4655-2010-fifa-world-cup-south-africa.json](./4655-2010-fifa-world-cup-south-africa.json) |
+| 2010 FIFA World Cup South Africa PC Port | 427069 | [427069-2010-fifa-world-cup-south-africa-pc-port.json](./427069-2010-fifa-world-cup-south-africa-pc-port.json) |
 | 2010: The Graphic Action Game | 12290 | [12290-2010-the-graphic-action-game.json](./12290-2010-the-graphic-action-game.json) |
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2012 | 210420 | [210420-2012.json](./210420-2012.json) |
