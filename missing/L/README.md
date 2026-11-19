@@ -6380,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
 | Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
 | Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
+| Links 386 CD | 22610 | [22610-links-386-cd.json](./22610-links-386-cd.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6 | 152507 | [152507-links-e6.json](./152507-links-e6.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
