@@ -5138,6 +5138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity Within | 341653 | [341653-insanity-within.json](./341653-insanity-within.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity! | 344234 | [344234-insanity.json](./344234-insanity.json) |
+| Insanity's Blade | 24559 | [24559-insanitys-blade.json](./24559-insanitys-blade.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanity's Grip | 260232 | [260232-insanitys-grip.json](./260232-insanitys-grip.json) |
 | Insanity's Requiem | 145468 | [145468-insanitys-requiem.json](./145468-insanitys-requiem.json) |
