@@ -952,7 +952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
 | Mafia Returns - The Game! | 65130 | [65130-mafia-returns-the-game.json](./65130-mafia-returns-the-game.json) |
 | Mafia Romania | 369676 | [369676-mafia-romania.json](./369676-mafia-romania.json) |
-| Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
 | Mafia Slots | 147009 | [147009-mafia-slots.json](./147009-mafia-slots.json) |
 | Mafia Solitaire | 381057 | [381057-mafia-solitaire.json](./381057-mafia-solitaire.json) |
@@ -4061,7 +4060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Kingdom | 423383 | [423383-march-of-the-kingdom.json](./423383-march-of-the-kingdom.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Living: Deluxe Edition | 53344 | [53344-march-of-the-living-deluxe-edition.json](./53344-march-of-the-living-deluxe-edition.json) |
-| March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of Tulpas: Xanadu | 258170 | [258170-march-of-tulpas-xanadu.json](./258170-march-of-tulpas-xanadu.json) |
 | March of War | 16498 | [16498-march-of-war.json](./16498-march-of-war.json) |
 | March of War Face Off | 60321 | [60321-march-of-war-face-off.json](./60321-march-of-war-face-off.json) |
@@ -5174,7 +5172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart and Tetra | 167171 | [167171-mart-and-tetra.json](./167171-mart-and-tetra.json) |
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Mayhem | 373438 | [373438-mart-mayhem.json](./373438-mart-mayhem.json) |
-| Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
 | Marth.exe | 311032 | [311032-marth-exe.json](./311032-marth-exe.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
@@ -5366,7 +5363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects 2 | 289591 | [289591-marvel-nemesis-rise-of-the-imperfects-2.json](./289591-marvel-nemesis-rise-of-the-imperfects-2.json) |
 | Marvel Pinball | 19651 | [19651-marvel-pinball.json](./19651-marvel-pinball.json) |
-| Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
 | Marvel Pinball: Epic Collection Vol. 1 | 42902 | [42902-marvel-pinball-epic-collection-vol-1.json](./42902-marvel-pinball-epic-collection-vol-1.json) |
 | Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
@@ -5999,7 +5995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Lamps | 25938 | [25938-master-of-the-lamps.json](./25938-master-of-the-lamps.json) |
 | Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
-| Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of The Secret Sea | 270479 | [270479-master-of-the-secret-sea.json](./270479-master-of-the-secret-sea.json) |
 | Master of the Skies: The Red Ace | 63183 | [63183-master-of-the-skies-the-red-ace.json](./63183-master-of-the-skies-the-red-ace.json) |
 | Master of the Tattooverse | 208823 | [208823-master-of-the-tattooverse.json](./208823-master-of-the-tattooverse.json) |
@@ -11928,7 +11923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights 2: The City Is Yours | 145915 | [145915-miami-nights-2-the-city-is-yours.json](./145915-miami-nights-2-the-city-is-yours.json) |
 | Miami Nights: Bartending in the 80s | 312138 | [312138-miami-nights-bartending-in-the-80s.json](./312138-miami-nights-bartending-in-the-80s.json) |
 | Miami Nights: Life in the Spotlight | 67226 | [67226-miami-nights-life-in-the-spotlight.json](./67226-miami-nights-life-in-the-spotlight.json) |
-| Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Paradise | 378485 | [378485-miami-paradise.json](./378485-miami-paradise.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
@@ -16342,7 +16336,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 2004 | 23700 | [23700-mlb-2004.json](./23700-mlb-2004.json) |
 | MLB 2005 | 24132 | [24132-mlb-2005.json](./24132-mlb-2005.json) |
 | MLB 2006 | 28197 | [28197-mlb-2006.json](./28197-mlb-2006.json) |
-| MLB 2K10 DS | 21157 | [21157-mlb-2k10-ds.json](./21157-mlb-2k10-ds.json) |
 | MLB 2K11 | 218304 | [218304-mlb-2k11.json](./218304-mlb-2k11.json) |
 | MLB 2K13 | 47409 | [47409-mlb-2k13.json](./47409-mlb-2k13.json) |
 | MLB 2K13 | 7064 | [7064-mlb-2k13.json](./7064-mlb-2k13.json) |
@@ -19090,7 +19083,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOON: Metagalactic Observer - OmNipotent | 249431 | [249431-moon-metagalactic-observer-omnipotent.json](./249431-moon-metagalactic-observer-omnipotent.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: Remix RPG Adventure | 73672 | [73672-moon-remix-rpg-adventure.json](./73672-moon-remix-rpg-adventure.json) |
-| Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
 | Moon's Creed | 244424 | [244424-moons-creed.json](./244424-moons-creed.json) |
 | Moon64 | 339946 | [339946-moon64.json](./339946-moon64.json) |
 | Moonatees | 29161 | [29161-moonatees.json](./29161-moonatees.json) |
@@ -20915,7 +20907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move It | 59800 | [59800-move-it.json](./59800-move-it.json) |
 | Move It Up | 157369 | [157369-move-it-up.json](./157369-move-it-up.json) |
 | Move It! | 62391 | [62391-move-it.json](./62391-move-it.json) |
-| Move Mind Benders | 20818 | [20818-move-mind-benders.json](./20818-move-mind-benders.json) |
 | Move My Moc | 251881 | [251881-move-my-moc.json](./251881-move-my-moc.json) |
 | Move Nature | 234735 | [234735-move-nature.json](./234735-move-nature.json) |
 | Move On | 140663 | [140663-move-on.json](./140663-move-on.json) |
@@ -20924,7 +20915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move or Die: Unleashed | 324846 | [324846-move-or-die-unleashed.json](./324846-move-or-die-unleashed.json) |
 | Move or Fire: Space Desire | 178977 | [178977-move-or-fire-space-desire.json](./178977-move-or-fire-space-desire.json) |
 | Move Out Manor | 320431 | [320431-move-out-manor.json](./320431-move-out-manor.json) |
-| Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
 | Move That Box! | 190797 | [190797-move-that-box.json](./190797-move-that-box.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
@@ -22567,7 +22557,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Man 3: Last Dance | 295654 | [295654-music-man-3-last-dance.json](./295654-music-man-3-last-dance.json) |
 | Music Maniaz | 425442 | [425442-music-maniaz.json](./425442-music-maniaz.json) |
 | Music Master Chopin | 62679 | [62679-music-master-chopin.json](./62679-music-master-chopin.json) |
-| Music Monstars | 21210 | [21210-music-monstars.json](./21210-music-monstars.json) |
 | Music of Destiny: Corrupted Dungeons | 323449 | [323449-music-of-destiny-corrupted-dungeons.json](./323449-music-of-destiny-corrupted-dungeons.json) |
 | Music of the Spheres | 20107 | [20107-music-of-the-spheres.json](./20107-music-of-the-spheres.json) |
 | Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
@@ -22895,7 +22884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX Rider | 43608 | [43608-mx-rider.json](./43608-mx-rider.json) |
-| MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
 | MX Superfly Featuring Ricky Carmichael | 80067 | [80067-mx-superfly-featuring-ricky-carmichael.json](./80067-mx-superfly-featuring-ricky-carmichael.json) |
 | MX Unleashed | 5939 | [5939-mx-unleashed.json](./5939-mx-unleashed.json) |
@@ -23848,7 +23836,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Investigations | 145715 | [145715-my-little-investigations.json](./145715-my-little-investigations.json) |
 | My Little Jellymon | 208161 | [208161-my-little-jellymon.json](./208161-my-little-jellymon.json) |
 | My Little Karaoke: Singing is Magic | 266924 | [266924-my-little-karaoke-singing-is-magic.json](./266924-my-little-karaoke-singing-is-magic.json) |
-| My Little Kitties | 20759 | [20759-my-little-kitties.json](./20759-my-little-kitties.json) |
 | My Little Kitty Cat | 99001 | [99001-my-little-kitty-cat.json](./99001-my-little-kitty-cat.json) |
 | My Little Kitty Day Care | 56342 | [56342-my-little-kitty-day-care.json](./56342-my-little-kitty-day-care.json) |
 | My Little Life | 300630 | [300630-my-little-life.json](./300630-my-little-life.json) |
