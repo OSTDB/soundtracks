@@ -9092,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Bus | 376769 | [376769-lost-bus.json](./376769-lost-bus.json) |
 | Lost but Lucid | 213549 | [213549-lost-but-lucid.json](./213549-lost-but-lucid.json) |
 | Lost Call | 392195 | [392195-lost-call.json](./392195-lost-call.json) |
+| Lost Camp | 428320 | [428320-lost-camp.json](./428320-lost-camp.json) |
 | Lost Cartridge: Cold Read | 228835 | [228835-lost-cartridge-cold-read.json](./228835-lost-cartridge-cold-read.json) |
 | Lost Case: Monster Girl Takeover | 140578 | [140578-lost-case-monster-girl-takeover.json](./140578-lost-case-monster-girl-takeover.json) |
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
