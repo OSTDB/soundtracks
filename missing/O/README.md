@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Complete Collection | 164580 | [164580-outbreak-complete-collection.json](./164580-outbreak-complete-collection.json) |
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
+| Outbreak: Dead City | 423572 | [423572-outbreak-dead-city.json](./423572-outbreak-dead-city.json) |
 | Outbreak: Deluxe Edition | 53435 | [53435-outbreak-deluxe-edition.json](./53435-outbreak-deluxe-edition.json) |
 | Outbreak: Detective Collection | 313439 | [313439-outbreak-detective-collection.json](./313439-outbreak-detective-collection.json) |
 | Outbreak: Devious Beginnings | 261359 | [261359-outbreak-devious-beginnings.json](./261359-outbreak-devious-beginnings.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverTime | 136410 | [136410-overtime.json](./136410-overtime.json) |
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
+| Overtime at Holiday's | 423607 | [423607-overtime-at-holidays.json](./423607-overtime-at-holidays.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overtime Pay | 333261 | [333261-overtime-pay.json](./333261-overtime-pay.json) |
 | Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
