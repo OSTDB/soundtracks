@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T11:55:57.302Z",
-  "total_soundtracks": 3854,
+  "generated_at": "2026-11-19T12:36:00.449Z",
+  "total_soundtracks": 3855,
   "games": [
     {
       "igdb_id": 292844,
@@ -12749,6 +12749,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/eclipsium-original-game-soundtrack/1839920175?uo=4",
           "album_link_url": "https://album.link/i/1839920175"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19008,
+      "game_name": "Ecotone",
+      "game_url": "https://ostdb.net/games/ecotone",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397ca2cffc35fd13ea625c6ad",
+      "albums": [
+        {
+          "album_name": "Ecotone (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5W4LQdKdH9T0lKB3yl9Z28",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
