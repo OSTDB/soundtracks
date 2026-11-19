@@ -13050,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guy Who Sells Jars | 353778 | [353778-guy-who-sells-jars.json](./353778-guy-who-sells-jars.json) |
 | Guy: By Hook or by Crook | 170266 | [170266-guy-by-hook-or-by-crook.json](./170266-guy-by-hook-or-by-crook.json) |
 | Guys with Magnets | 405741 | [405741-guys-with-magnets.json](./405741-guys-with-magnets.json) |
+| Guys, I'm SO Sorry | 425367 | [425367-guys-im-so-sorry.json](./425367-guys-im-so-sorry.json) |
 | GuyzGamez A Nightmare on GuyGamez Street: The Cursed Forest of Doom | 289517 | [289517-guyzgamez-a-nightmare-on-guygamez-street-the-cursed-forest-of-doom.json](./289517-guyzgamez-a-nightmare-on-guygamez-street-the-cursed-forest-of-doom.json) |
 | Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
