@@ -2878,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Freestyle Scooter | 3584 | [3584-razor-freestyle-scooter.json](./3584-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
 | Razor Racing | 44894 | [44894-razor-racing.json](./44894-razor-racing.json) |
+| Razor Squadron | 430432 | [430432-razor-squadron.json](./430432-razor-squadron.json) |
 | Razor Trail Survivors | 420431 | [420431-razor-trail-survivors.json](./420431-razor-trail-survivors.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
