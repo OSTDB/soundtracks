@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekojishi Expansion Pack: A Sunny Day | 167340 | [167340-nekojishi-expansion-pack-a-sunny-day.json](./167340-nekojishi-expansion-pack-a-sunny-day.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
+| Nekokuromancer | 421745 | [421745-nekokuromancer.json](./421745-nekokuromancer.json) |
 | Nekoland Studio | 119855 | [119855-nekoland-studio.json](./119855-nekoland-studio.json) |
 | Nekolpos: Colossal Cat Care Simulation | 428885 | [428885-nekolpos-colossal-cat-care-simulation.json](./428885-nekolpos-colossal-cat-care-simulation.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
@@ -6395,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Brake No Gain | 345283 | [345283-no-brake-no-gain.json](./345283-no-brake-no-gain.json) |
 | No Brakes | 241704 | [241704-no-brakes.json](./241704-no-brakes.json) |
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
+| No Brakes Club | 421652 | [421652-no-brakes-club.json](./421652-no-brakes-club.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
 | No Brakez | 308300 | [308300-no-brakez.json](./308300-no-brakez.json) |
@@ -8252,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox Archaist: Lord of Storms | 247430 | [247430-nox-archaist-lord-of-storms.json](./247430-nox-archaist-lord-of-storms.json) |
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Dei | 77481 | [77481-nox-dei.json](./77481-nox-dei.json) |
+| Nox Dies | 421665 | [421665-nox-dies.json](./421665-nox-dies.json) |
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
 | Nox Terrorem: Lost Souls | 147547 | [147547-nox-terrorem-lost-souls.json](./147547-nox-terrorem-lost-souls.json) |
