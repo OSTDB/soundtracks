@@ -6317,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Shura Soul | 214813 | [214813-sengoku-shura-soul.json](./214813-sengoku-shura-soul.json) |
 | Sengoku Taisen | 393579 | [393579-sengoku-taisen.json](./393579-sengoku-taisen.json) |
 | Sengoku Tenka Touitsu | 69195 | [69195-sengoku-tenka-touitsu.json](./69195-sengoku-tenka-touitsu.json) |
+| Sengoku Turb | 22811 | [22811-sengoku-turb.json](./22811-sengoku-turb.json) |
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
 | Sengoku Warriors 4 DX: 15th Anniversary Box | 136948 | [136948-sengoku-warriors-4-dx-15th-anniversary-box.json](./136948-sengoku-warriors-4-dx-15th-anniversary-box.json) |
@@ -13484,6 +13485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim | 35454 | [35454-siralim.json](./35454-siralim.json) |
+| Siralim 2 | 22692 | [22692-siralim-2.json](./22692-siralim-2.json) |
 | Siralim Ultimate | 133050 | [133050-siralim-ultimate.json](./133050-siralim-ultimate.json) |
 | Siranui: Devilish obscene prison | 97763 | [97763-siranui-devilish-obscene-prison.json](./97763-siranui-devilish-obscene-prison.json) |
 | Sire | 292174 | [292174-sire.json](./292174-sire.json) |
@@ -25553,6 +25555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits' Creek | 223355 | [223355-spirits-creek.json](./223355-spirits-creek.json) |
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
 | SpiritScape | 288380 | [288380-spiritscape.json](./288380-spiritscape.json) |
+| SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | SpiritSweeper | 307624 | [307624-spiritsweeper.json](./307624-spiritsweeper.json) |
@@ -28494,6 +28497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Old Republic - Shadow of Revan | 22658 | [22658-star-wars-the-old-republic-shadow-of-revan.json](./22658-star-wars-the-old-republic-shadow-of-revan.json) |
 | Star Wars: The Return of the Jedi | 219022 | [219022-star-wars-the-return-of-the-jedi.json](./219022-star-wars-the-return-of-the-jedi.json) |
 | Star Wars: Throwback Pack | 99756 | [99756-star-wars-throwback-pack.json](./99756-star-wars-throwback-pack.json) |
+| Star Wars: TIE Fighter - Collector's CD-ROM | 22626 | [22626-star-wars-tie-fighter-collectors-cd-rom.json](./22626-star-wars-tie-fighter-collectors-cd-rom.json) |
 | Star Wars: TIE Fighter - Defender of the Empire | 167 | [167-star-wars-tie-fighter-defender-of-the-empire.json](./167-star-wars-tie-fighter-defender-of-the-empire.json) |
 | Star Wars: TIE Fighter - Enemies of the Empire | 8799 | [8799-star-wars-tie-fighter-enemies-of-the-empire.json](./8799-star-wars-tie-fighter-enemies-of-the-empire.json) |
 | Star Wars: TIE Fighter - Special Edition | 35968 | [35968-star-wars-tie-fighter-special-edition.json](./35968-star-wars-tie-fighter-special-edition.json) |
@@ -32780,6 +32784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
 | Striker | 237504 | [237504-striker.json](./237504-striker.json) |
 | Striker '95 | 92814 | [92814-striker-95.json](./92814-striker-95.json) |
+| Striker '96 | 22675 | [22675-striker-96.json](./22675-striker-96.json) |
 | Striker A Type Game Pack | 378118 | [378118-striker-a-type-game-pack.json](./378118-striker-a-type-game-pack.json) |
 | Striker Arena | 175158 | [175158-striker-arena.json](./175158-striker-arena.json) |
 | Striker Hero | 368705 | [368705-striker-hero.json](./368705-striker-hero.json) |
@@ -33237,6 +33242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su Doku Classic 2 | 410435 | [410435-su-doku-classic-2.json](./410435-su-doku-classic-2.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
+| Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
 | Su-27 Flanker: Squadron Commander's Edition | 69995 | [69995-su-27-flanker-squadron-commanders-edition.json](./69995-su-27-flanker-squadron-commanders-edition.json) |
 | SU-93 Survivor | 401301 | [401301-su-93-survivor.json](./401301-su-93-survivor.json) |
@@ -38522,6 +38528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | SuperBike TT | 36013 | [36013-superbike-tt.json](./36013-superbike-tt.json) |
+| Superbike World Championship | 22823 | [22823-superbike-world-championship.json](./22823-superbike-world-championship.json) |
 | SuperBolt | 228174 | [228174-superbolt.json](./228174-superbolt.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
@@ -39222,6 +39229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator: Experience Reality | 26299 | [26299-surgeon-simulator-experience-reality.json](./26299-surgeon-simulator-experience-reality.json) |
 | Surgeons, Please | 421663 | [421663-surgeons-please.json](./421663-surgeons-please.json) |
 | SurgePoint | 410310 | [410310-surgepoint.json](./410310-surgepoint.json) |
+| Surgery Simulator | 22648 | [22648-surgery-simulator.json](./22648-surgery-simulator.json) |
 | Surgery Simulator 3D - 2 | 188379 | [188379-surgery-simulator-3d-2.json](./188379-surgery-simulator-3d-2.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
 | Surgical Strike | 255321 | [255321-surgical-strike.json](./255321-surgical-strike.json) |
