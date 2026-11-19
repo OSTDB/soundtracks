@@ -1139,7 +1139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Zanzor III: Birth of Unity | 301825 | [301825-war-of-zanzor-iii-birth-of-unity.json](./301825-war-of-zanzor-iii-birth-of-unity.json) |
 | War On Christmas | 379836 | [379836-war-on-christmas.json](./379836-war-on-christmas.json) |
 | War on Drugs VR | 96513 | [96513-war-on-drugs-vr.json](./96513-war-on-drugs-vr.json) |
-| War on Folvos | 17724 | [17724-war-on-folvos.json](./17724-war-on-folvos.json) |
 | War on Mars | 206278 | [206278-war-on-mars.json](./206278-war-on-mars.json) |
 | War on the Sea | 143137 | [143137-war-on-the-sea.json](./143137-war-on-the-sea.json) |
 | War on the Southern Front | 59183 | [59183-war-on-the-southern-front.json](./59183-war-on-the-southern-front.json) |
@@ -1270,7 +1269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War-Gene | 156776 | [156776-war-gene.json](./156776-war-gene.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War-Torn Dreams | 132983 | [132983-war-torn-dreams.json](./132983-war-torn-dreams.json) |
-| War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
 | War: Final Assault | 80794 | [80794-war-final-assault.json](./80794-war-final-assault.json) |
 | War: The Savior's Order | 221796 | [221796-war-the-saviors-order.json](./221796-war-the-saviors-order.json) |
@@ -3867,7 +3865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weldon | 175888 | [175888-weldon.json](./175888-weldon.json) |
 | Welehola | 378355 | [378355-welehola.json](./378355-welehola.json) |
 | Welkin Melody | 333439 | [333439-welkin-melody.json](./333439-welkin-melody.json) |
-| Welkin Road | 18684 | [18684-welkin-road.json](./18684-welkin-road.json) |
 | Well Balanced | 177073 | [177073-well-balanced.json](./177073-well-balanced.json) |
 | Well Dumb | 328187 | [328187-well-dumb.json](./328187-well-dumb.json) |
 | Well Dweller | 360075 | [360075-well-dweller.json](./360075-well-dweller.json) |
@@ -5902,7 +5899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Fire | 320598 | [320598-wild-fire.json](./320598-wild-fire.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Forest | 204611 | [204611-wild-forest.json](./204611-wild-forest.json) |
-| Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Frontier | 146673 | [146673-wild-frontier.json](./146673-wild-frontier.json) |
 | Wild Game Hunter VR | 30608 | [30608-wild-game-hunter-vr.json](./30608-wild-game-hunter-vr.json) |
 | Wild Goo Chase | 44223 | [44223-wild-goo-chase.json](./44223-wild-goo-chase.json) |
@@ -9439,8 +9435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
-| World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
-| World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Subways: Volume 4 - New York Line 7 | 18001 | [18001-world-of-subways-volume-4-new-york-line-7.json](./18001-world-of-subways-volume-4-new-york-line-7.json) |
 | World of Sword 2 | 174985 | [174985-world-of-sword-2.json](./174985-world-of-sword-2.json) |
 | World of Sword 3 | 174527 | [174527-world-of-sword-3.json](./174527-world-of-sword-3.json) |
