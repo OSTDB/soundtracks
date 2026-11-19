@@ -5571,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade: Inceptions Puzzle Pack | 163498 | [163498-glass-masquerade-inceptions-puzzle-pack.json](./163498-glass-masquerade-inceptions-puzzle-pack.json) |
 | Glass Masquerade: Lunar Year Puzzle | 163496 | [163496-glass-masquerade-lunar-year-puzzle.json](./163496-glass-masquerade-lunar-year-puzzle.json) |
 | Glass Masquerade: Origins | 239953 | [239953-glass-masquerade-origins.json](./239953-glass-masquerade-origins.json) |
+| Glass Ninja | 427678 | [427678-glass-ninja.json](./427678-glass-ninja.json) |
 | Glass of Water | 415531 | [415531-glass-of-water.json](./415531-glass-of-water.json) |
 | Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
@@ -11525,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Grunty's Mansion | 267251 | [267251-gruntys-mansion.json](./267251-gruntys-mansion.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
+| Gruntz | 427677 | [427677-gruntz.json](./427677-gruntz.json) |
 | Gruta | 247126 | [247126-gruta.json](./247126-gruta.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Gruzchik | 29248 | [29248-gruzchik.json](./29248-gruzchik.json) |
