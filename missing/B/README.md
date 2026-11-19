@@ -1598,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bale Out | 247164 | [247164-bale-out.json](./247164-bale-out.json) |
 | Balefire Blues | 410201 | [410201-balefire-blues.json](./410201-balefire-blues.json) |
 | Balefire: Ashes To Ashes | 360285 | [360285-balefire-ashes-to-ashes.json](./360285-balefire-ashes-to-ashes.json) |
+| Baleful Tactics | 425357 | [425357-baleful-tactics.json](./425357-baleful-tactics.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
@@ -13856,6 +13857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobsu! | 114694 | [114694-bobsu.json](./114694-bobsu.json) |
 | Boby and the Witch | 406327 | [406327-boby-and-the-witch.json](./406327-boby-and-the-witch.json) |
 | BOC | 127030 | [127030-boc.json](./127030-boc.json) |
+| Bocage | 425360 | [425360-bocage.json](./425360-bocage.json) |
 | Bocce | 77184 | [77184-bocce.json](./77184-bocce.json) |
 | Bocce Beach | 30067 | [30067-bocce-beach.json](./30067-bocce-beach.json) |
 | Bocce Revolution | 22019 | [22019-bocce-revolution.json](./22019-bocce-revolution.json) |
@@ -17048,6 +17050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl of Ages | 31246 | [31246-brawl-of-ages.json](./31246-brawl-of-ages.json) |
 | Brawl of America | 310856 | [310856-brawl-of-america.json](./310856-brawl-of-america.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
+| Brawl Recompiled | 425335 | [425335-brawl-recompiled.json](./425335-brawl-recompiled.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Snakes | 409928 | [409928-brawl-snakes.json](./409928-brawl-snakes.json) |
 | Brawl Squad X: Battle Arena | 392082 | [392082-brawl-squad-x-battle-arena.json](./392082-brawl-squad-x-battle-arena.json) |
@@ -18173,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brodefence | 101324 | [101324-brodefence.json](./101324-brodefence.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Brofish | 425352 | [425352-brofish.json](./425352-brofish.json) |
 | Broforce: Deluxe Edition | 270336 | [270336-broforce-deluxe-edition.json](./270336-broforce-deluxe-edition.json) |
 | Broghurt | 345229 | [345229-broghurt.json](./345229-broghurt.json) |
 | Brogue | 12516 | [12516-brogue.json](./12516-brogue.json) |
