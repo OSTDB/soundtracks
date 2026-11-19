@@ -10766,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
 | Dimension C38B | 127490 | [127490-dimension-c38b.json](./127490-dimension-c38b.json) |
 | Dimension Collapse | 180855 | [180855-dimension-collapse.json](./180855-dimension-collapse.json) |
+| Dimension Contortion Lover!! | 418996 | [418996-dimension-contortion-lover.json](./418996-dimension-contortion-lover.json) |
 | Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
 | Dimension Cross | 124315 | [124315-dimension-cross.json](./124315-dimension-cross.json) |
 | Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
@@ -12750,6 +12751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Stone | 150375 | [150375-divine-stone.json](./150375-divine-stone.json) |
 | Divine Tactics | 372393 | [372393-divine-tactics.json](./372393-divine-tactics.json) |
+| Divine Throne | 419391 | [419391-divine-throne.json](./419391-divine-throne.json) |
 | Divine Trials | 311757 | [311757-divine-trials.json](./311757-divine-trials.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
@@ -12973,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK64: Rekongpiled | 408549 | [408549-dk64-rekongpiled.json](./408549-dk64-rekongpiled.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
+| DKC1Recomp | 419011 | [419011-dkc1recomp.json](./419011-dkc1recomp.json) |
 | DKC3Recomp | 419012 | [419012-dkc3recomp.json](./419012-dkc3recomp.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
@@ -16716,6 +16719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragomon Hunter | 26900 | [26900-dragomon-hunter.json](./26900-dragomon-hunter.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
+| Dragon | 418992 | [418992-dragon.json](./418992-dragon.json) |
 | Dragon | 94986 | [94986-dragon.json](./94986-dragon.json) |
 | Dragon & Archer | 226395 | [226395-dragon-and-archer.json](./226395-dragon-and-archer.json) |
 | Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
@@ -19702,6 +19706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Box | 187360 | [187360-drum-box.json](./187360-drum-box.json) |
 | Drum Brain | 142796 | [142796-drum-brain.json](./142796-drum-brain.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
+| Drum Incremental | 419239 | [419239-drum-incremental.json](./419239-drum-incremental.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | Drum Master | 359311 | [359311-drum-master.json](./359311-drum-master.json) |
 | Drum Revolution | 337842 | [337842-drum-revolution.json](./337842-drum-revolution.json) |
