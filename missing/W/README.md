@@ -8019,6 +8019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Sim: Animal Battle Survival RPG | 324036 | [324036-wolf-sim-animal-battle-survival-rpg.json](./324036-wolf-sim-animal-battle-survival-rpg.json) |
 | Wolf Simulator | 253803 | [253803-wolf-simulator.json](./253803-wolf-simulator.json) |
 | Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
+| Wolf Simulator | 32481 | [32481-wolf-simulator.json](./32481-wolf-simulator.json) |
 | Wolf Simulator 2025: Wild RPG Survival | 364817 | [364817-wolf-simulator-2025-wild-rpg-survival.json](./364817-wolf-simulator-2025-wild-rpg-survival.json) |
 | Wolf Simulator: Silent Paws | 326318 | [326318-wolf-simulator-silent-paws.json](./326318-wolf-simulator-silent-paws.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
