@@ -7365,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NonFullControl | 370988 | [370988-nonfullcontrol.json](./370988-nonfullcontrol.json) |
 | Nongon Alpha | 56305 | [56305-nongon-alpha.json](./56305-nongon-alpha.json) |
 | Nongunz: Doppelganger Edition | 139575 | [139575-nongunz-doppelganger-edition.json](./139575-nongunz-doppelganger-edition.json) |
+| Nonhumans | 429052 | [429052-nonhumans.json](./429052-nonhumans.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nonno's Legend | 243834 | [243834-nonnos-legend.json](./243834-nonnos-legend.json) |
@@ -7722,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
 | Northland Heroes: The Missing Druid | 199705 | [199705-northland-heroes-the-missing-druid.json](./199705-northland-heroes-the-missing-druid.json) |
+| Northmen | 429037 | [429037-northmen.json](./429037-northmen.json) |
 | Northrealm Tribes | 281849 | [281849-northrealm-tribes.json](./281849-northrealm-tribes.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
