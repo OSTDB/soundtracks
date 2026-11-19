@@ -4937,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inky Blinky Bob | 389665 | [389665-inky-blinky-bob.json](./389665-inky-blinky-bob.json) |
 | Inky Caps Clash | 175428 | [175428-inky-caps-clash.json](./175428-inky-caps-clash.json) |
 | INKY Death Road | 425908 | [425908-inky-death-road.json](./425908-inky-death-road.json) |
+| Inky Fingers | 419545 | [419545-inky-fingers.json](./419545-inky-fingers.json) |
 | Inkya Danshi de Asobou! | 314851 | [314851-inkya-danshi-de-asobou.json](./314851-inkya-danshi-de-asobou.json) |
 | Inland | 155422 | [155422-inland.json](./155422-inland.json) |
 | Inline | 81070 | [81070-inline.json](./81070-inline.json) |
