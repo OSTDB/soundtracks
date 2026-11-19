@@ -4288,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGU Industries | 143451 | [143451-ngu-industries.json](./143451-ngu-industries.json) |
 | Nguoi La Part 1 | 181824 | [181824-nguoi-la-part-1.json](./181824-nguoi-la-part-1.json) |
 | NH Bid at MSCYPAA: The Game | 391940 | [391940-nh-bid-at-mscypaa-the-game.json](./391940-nh-bid-at-mscypaa-the-game.json) |
+| NHB Escape | 427664 | [427664-nhb-escape.json](./427664-nhb-escape.json) |
 | Nhero2 | 225723 | [225723-nhero2.json](./225723-nhero2.json) |
 | NHK Academy: Space School - Math 4th Grade Part 1 | 122110 | [122110-nhk-academy-space-school-math-4th-grade-part-1.json](./122110-nhk-academy-space-school-math-4th-grade-part-1.json) |
 | NHK Academy: Space School - Math 4th Grade Part 2 | 122111 | [122111-nhk-academy-space-school-math-4th-grade-part-2.json](./122111-nhk-academy-space-school-math-4th-grade-part-2.json) |
