@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T10:15:56.325Z",
-  "total_soundtracks": 3853,
+  "generated_at": "2026-11-19T11:55:57.302Z",
+  "total_soundtracks": 3854,
   "games": [
     {
       "igdb_id": 292844,
@@ -36503,6 +36503,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/skydances-behemoth-original-game-soundtrack/1810311737?uo=4",
           "album_link_url": "https://album.link/i/1810311737"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19303,
+      "game_name": "Skyhook",
+      "game_url": "https://ostdb.net/games/skyhook",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735095e2097d9c865d93dfdc63",
+      "albums": [
+        {
+          "album_name": "Skyhook (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5mFcDB4gAdomXFUmiMS2rG",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
