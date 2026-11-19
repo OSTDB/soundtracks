@@ -7043,7 +7043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Paradox | 296126 | [296126-eternal-paradox.json](./296126-eternal-paradox.json) |
 | Eternal Perk | 142133 | [142133-eternal-perk.json](./142133-eternal-perk.json) |
 | Eternal Pinball RPG | 203746 | [203746-eternal-pinball-rpg.json](./203746-eternal-pinball-rpg.json) |
-| Eternal Poison | 21334 | [21334-eternal-poison.json](./21334-eternal-poison.json) |
 | Eternal Prowl | 333462 | [333462-eternal-prowl.json](./333462-eternal-prowl.json) |
 | Eternal Puppet | 291394 | [291394-eternal-puppet.json](./291394-eternal-puppet.json) |
 | Eternal Quest | 154266 | [154266-eternal-quest.json](./154266-eternal-quest.json) |
@@ -8724,7 +8723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exhibition of Speed | 302559 | [302559-exhibition-of-speed.json](./302559-exhibition-of-speed.json) |
 | Exhibition of Speed | 46365 | [46365-exhibition-of-speed.json](./46365-exhibition-of-speed.json) |
 | Exhibitors | 235882 | [235882-exhibitors.json](./235882-exhibitors.json) |
-| Exidium Corp | 21327 | [21327-exidium-corp.json](./21327-exidium-corp.json) |
 | Exigent | 257000 | [257000-exigent.json](./257000-exigent.json) |
 | Exil | 318607 | [318607-exil.json](./318607-exil.json) |
 | Exile | 12068 | [12068-exile.json](./12068-exile.json) |
