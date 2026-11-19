@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Eternity of Sorrow | 383624 | [383624-castlevania-eternity-of-sorrow.json](./383624-castlevania-eternity-of-sorrow.json) |
 | Castlevania: Galactic Panic | 297583 | [297583-castlevania-galactic-panic.json](./297583-castlevania-galactic-panic.json) |
 | Castlevania: Grimoire of Souls | 96485 | [96485-castlevania-grimoire-of-souls.json](./96485-castlevania-grimoire-of-souls.json) |
+| Castlevania: Grimoire of Souls Recomp | 429654 | [429654-castlevania-grimoire-of-souls-recomp.json](./429654-castlevania-grimoire-of-souls-recomp.json) |
 | Castlevania: Harmony of Dissonance | 1133 | [1133-castlevania-harmony-of-dissonance.json](./1133-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
@@ -22584,6 +22585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup Killer: Sandbox Game | 310461 | [310461-cup-killer-sandbox-game.json](./310461-cup-killer-sandbox-game.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
+| Cup of Tales | 429639 | [429639-cup-of-tales.json](./429639-cup-of-tales.json) |
 | Cupang Academy | 364218 | [364218-cupang-academy.json](./364218-cupang-academy.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
