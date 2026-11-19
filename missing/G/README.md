@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear.Club Unlimited 2: Porsche Edition | 125497 | [125497-gear-club-unlimited-2-porsche-edition.json](./125497-gear-club-unlimited-2-porsche-edition.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited 2: Ultimate Edition | 172591 | [172591-gear-club-unlimited-2-ultimate-edition.json](./172591-gear-club-unlimited-2-ultimate-edition.json) |
+| Gear.Club Unlimited 3 | 381154 | [381154-gear-club-unlimited-3.json](./381154-gear-club-unlimited-3.json) |
 | Gear.Club Unlimited 3: Career Start Pack | 385185 | [385185-gear-club-unlimited-3-career-start-pack.json](./385185-gear-club-unlimited-3-career-start-pack.json) |
 | Gear.Club Unlimited 3: Customization Pack | 385184 | [385184-gear-club-unlimited-3-customization-pack.json](./385184-gear-club-unlimited-3-customization-pack.json) |
 | Gear.Club Unlimited 3: Deluxe Edition | 385200 | [385200-gear-club-unlimited-3-deluxe-edition.json](./385200-gear-club-unlimited-3-deluxe-edition.json) |
@@ -6469,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Kokopolo: Harmonious Forest Revenge | 65247 | [65247-go-go-kokopolo-harmonious-forest-revenge.json](./65247-go-go-kokopolo-harmonious-forest-revenge.json) |
 | Go! Go! Mario Circuit | 398914 | [398914-go-go-mario-circuit.json](./398914-go-go-mario-circuit.json) |
 | Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
+| Go! Go! Mister Chickums | 384021 | [384021-go-go-mister-chickums.json](./384021-go-go-mister-chickums.json) |
 | Go! Go! Nippon! 2015 | 166656 | [166656-go-go-nippon-2015.json](./166656-go-go-nippon-2015.json) |
 | Go! Go! Nippon! 2016 | 166659 | [166659-go-go-nippon-2016.json](./166659-go-go-nippon-2016.json) |
 | Go! Go! Nippon!: My First Trip to Japan | 16675 | [16675-go-go-nippon-my-first-trip-to-japan.json](./16675-go-go-nippon-my-first-trip-to-japan.json) |
@@ -10621,6 +10623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
+| Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
 | Grief | 384998 | [384998-grief.json](./384998-grief.json) |
 | Grief | 396971 | [396971-grief.json](./396971-grief.json) |
@@ -12908,6 +12911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX | 101177 | [101177-gunvolt-chronicles-luminous-avenger-ix.json](./101177-gunvolt-chronicles-luminous-avenger-ix.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection | 392770 | [392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json](./392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Limited Edition | 186922 | [186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json](./186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
