@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onion Detective 2 | 320423 | [320423-onion-detective-2.json](./320423-onion-detective-2.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
+| Onion Knight | 24562 | [24562-onion-knight.json](./24562-onion-knight.json) |
 | Oniria | 262176 | [262176-oniria.json](./262176-oniria.json) |
 | Oniria | 366610 | [366610-oniria.json](./366610-oniria.json) |
 | Oniria Crimes | 116677 | [116677-oniria-crimes.json](./116677-oniria-crimes.json) |
