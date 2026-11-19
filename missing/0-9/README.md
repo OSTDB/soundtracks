@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 Charles 2 | 349891 | [349891-007-charles-2.json](./349891-007-charles-2.json) |
 | 007 First Light: Deluxe Edition | 405431 | [405431-007-first-light-deluxe-edition.json](./405431-007-first-light-deluxe-edition.json) |
 | 007 First Light: Desert Explorer | 404669 | [404669-007-first-light-desert-explorer.json](./404669-007-first-light-desert-explorer.json) |
+| 007 First Light: Extended Operations | 421038 | [421038-007-first-light-extended-operations.json](./421038-007-first-light-extended-operations.json) |
 | 007 First Light: Gentleman Operator | 404672 | [404672-007-first-light-gentleman-operator.json](./404672-007-first-light-gentleman-operator.json) |
 | 007 First Light: Gleaming Lighter | 404671 | [404671-007-first-light-gleaming-lighter.json](./404671-007-first-light-gleaming-lighter.json) |
 | 007 First Light: Gleaming Pen | 404670 | [404670-007-first-light-gleaming-pen.json](./404670-007-first-light-gleaming-pen.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 03:17 am | 315778 | [315778-03-17-am.json](./315778-03-17-am.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
+| 0818 Petrichor Lane | 421061 | [421061-0818-petrichor-lane.json](./421061-0818-petrichor-lane.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
 | 0D Beat Drop | 6173 | [6173-0d-beat-drop.json](./6173-0d-beat-drop.json) |
 | 0Gravity | 120001 | [120001-0gravity.json](./120001-0gravity.json) |
@@ -1101,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dino Pets: The Virtual Pet Game | 52341 | [52341-101-dino-pets-the-virtual-pet-game.json](./52341-101-dino-pets-the-virtual-pet-game.json) |
 | 101 DinoPets 3D | 84614 | [84614-101-dinopets-3d.json](./84614-101-dinopets-3d.json) |
 | 101 Dogs Hidden in Amsterdam | 369993 | [369993-101-dogs-hidden-in-amsterdam.json](./369993-101-dogs-hidden-in-amsterdam.json) |
+| 101 Dogs Hidden in Antalya | 421152 | [421152-101-dogs-hidden-in-antalya.json](./421152-101-dogs-hidden-in-antalya.json) |
 | 101 Dogs Hidden in Australia | 382346 | [382346-101-dogs-hidden-in-australia.json](./382346-101-dogs-hidden-in-australia.json) |
 | 101 Dogs Hidden in Bangkok | 407530 | [407530-101-dogs-hidden-in-bangkok.json](./407530-101-dogs-hidden-in-bangkok.json) |
 | 101 Dogs Hidden in Berlin | 372339 | [372339-101-dogs-hidden-in-berlin.json](./372339-101-dogs-hidden-in-berlin.json) |
@@ -1120,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
+| 101 Dogs Hidden in Thailand | 421154 | [421154-101-dogs-hidden-in-thailand.json](./421154-101-dogs-hidden-in-thailand.json) |
 | 101 Dogs Hidden in Tokyo | 386751 | [386751-101-dogs-hidden-in-tokyo.json](./386751-101-dogs-hidden-in-tokyo.json) |
 | 101 Dogs Hidden in Vienna | 407535 | [407535-101-dogs-hidden-in-vienna.json](./407535-101-dogs-hidden-in-vienna.json) |
 | 101 Dolphin Pets | 52340 | [52340-101-dolphin-pets.json](./52340-101-dolphin-pets.json) |
