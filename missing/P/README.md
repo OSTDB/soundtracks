@@ -7253,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
 | Pig Commander | 391028 | [391028-pig-commander.json](./391028-pig-commander.json) |
+| Pig Eat Ball | 36022 | [36022-pig-eat-ball.json](./36022-pig-eat-ball.json) |
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig Escape | 336453 | [336453-pig-escape.json](./336453-pig-escape.json) |
 | Pig Escape 2 | 353565 | [353565-pig-escape-2.json](./353565-pig-escape-2.json) |
