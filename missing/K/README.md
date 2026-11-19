@@ -7374,3 +7374,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuuyaku Megami Tensei | 23880 | [23880-kyuuyaku-megami-tensei.json](./23880-kyuuyaku-megami-tensei.json) |
 | Kyvir: Rebirth | 144996 | [144996-kyvir-rebirth.json](./144996-kyvir-rebirth.json) |
 | Kyvos | 370693 | [370693-kyvos.json](./370693-kyvos.json) |
+| KZ.LAB | 424795 | [424795-kz-lab.json](./424795-kz-lab.json) |
