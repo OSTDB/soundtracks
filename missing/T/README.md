@@ -36437,6 +36437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Nightmare: Roadside Сafe | 319642 | [319642-true-nightmare-roadside-afe.json](./319642-true-nightmare-roadside-afe.json) |
 | True North | 120030 | [120030-true-north.json](./120030-true-north.json) |
 | True of Voice: A Duat Deckbuilder | 410693 | [410693-true-of-voice-a-duat-deckbuilder.json](./410693-true-of-voice-a-duat-deckbuilder.json) |
+| True or False | 31483 | [31483-true-or-false.json](./31483-true-or-false.json) |
 | True or False | 96483 | [96483-true-or-false.json](./96483-true-or-false.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True or False Universe | 54861 | [54861-true-or-false-universe.json](./54861-true-or-false-universe.json) |
