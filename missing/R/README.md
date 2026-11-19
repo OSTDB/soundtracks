@@ -203,7 +203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
-| Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids Smart Brush | 193379 | [193379-rabbids-smart-brush.json](./193379-rabbids-smart-brush.json) |
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
@@ -419,7 +418,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race of Champions | 99868 | [99868-race-of-champions.json](./99868-race-of-champions.json) |
 | Race of Life | 240079 | [240079-race-of-life.json](./240079-race-of-life.json) |
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
-| Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
 | Race on Ice 2020 Pro | 237787 | [237787-race-on-ice-2020-pro.json](./237787-race-on-ice-2020-pro.json) |
 | Race on Ice 2021 Pro | 237786 | [237786-race-on-ice-2021-pro.json](./237786-race-on-ice-2021-pro.json) |
 | Race on Ice 2022 Pro | 237785 | [237785-race-on-ice-2022-pro.json](./237785-race-on-ice-2022-pro.json) |
@@ -2230,7 +2228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala Fishing: Daily Catch | 110569 | [110569-rapala-fishing-daily-catch.json](./110569-rapala-fishing-daily-catch.json) |
 | Rapala Fishing: Pro Series | 68457 | [68457-rapala-fishing-pro-series.json](./68457-rapala-fishing-pro-series.json) |
-| Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
 | Rapala Pro Fishing | 47336 | [47336-rapala-pro-fishing.json](./47336-rapala-pro-fishing.json) |
@@ -3439,7 +3436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2008 | 93920 | [93920-real-soccer-2008.json](./93920-real-soccer-2008.json) |
 | Real Soccer 2008 3D | 214825 | [214825-real-soccer-2008-3d.json](./214825-real-soccer-2008-3d.json) |
-| Real Soccer 2009 | 20126 | [20126-real-soccer-2009.json](./20126-real-soccer-2009.json) |
 | Real Soccer 2010 | 67151 | [67151-real-soccer-2010.json](./67151-real-soccer-2010.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
 | Real Solitaire for iPad | 89104 | [89104-real-solitaire-for-ipad.json](./89104-real-solitaire-for-ipad.json) |
@@ -3464,7 +3460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
 | Real Time Battle Shogi | 119586 | [119586-real-time-battle-shogi.json](./119586-real-time-battle-shogi.json) |
 | Real Time Battle Shogi Online | 147185 | [147185-real-time-battle-shogi-online.json](./147185-real-time-battle-shogi-online.json) |
-| Real Time Conflict: Shogun Empires | 20494 | [20494-real-time-conflict-shogun-empires.json](./20494-real-time-conflict-shogun-empires.json) |
 | Real Time Shields | 175668 | [175668-real-time-shields.json](./175668-real-time-shields.json) |
 | Real Truck Driver Simulator USA | 256054 | [256054-real-truck-driver-simulator-usa.json](./256054-real-truck-driver-simulator-usa.json) |
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
@@ -4343,7 +4338,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull GeoGamers | 408345 | [408345-red-bull-geogamers.json](./408345-red-bull-geogamers.json) |
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull Pac-Man | 219441 | [219441-red-bull-pac-man.json](./219441-red-bull-pac-man.json) |
-| Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
 | Red Bull X-Fighters World Tour | 65909 | [65909-red-bull-x-fighters-world-tour.json](./65909-red-bull-x-fighters-world-tour.json) |
 | Red Bull: Soapbox Racers | 336920 | [336920-red-bull-soapbox-racers.json](./336920-red-bull-soapbox-racers.json) |
 | Red Button | 172988 | [172988-red-button.json](./172988-red-button.json) |
@@ -4436,7 +4430,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Armageddon - Path to War | 78455 | [78455-red-faction-armageddon-path-to-war.json](./78455-red-faction-armageddon-path-to-war.json) |
 | Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
-| Red Faction: Battlegrounds | 20447 | [20447-red-faction-battlegrounds.json](./20447-red-faction-battlegrounds.json) |
 | Red Faction: Guerrilla - Demons of the Badlands | 22987 | [22987-red-faction-guerrilla-demons-of-the-badlands.json](./22987-red-faction-guerrilla-demons-of-the-badlands.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
@@ -5923,7 +5916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renown | 152656 | [152656-renown.json](./152656-renown.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
 | Renowned Explorers: International Society | 12510 | [12510-renowned-explorers-international-society.json](./12510-renowned-explorers-international-society.json) |
-| Renowned Explorers: International Society - More to Explore | 19387 | [19387-renowned-explorers-international-society-more-to-explore.json](./19387-renowned-explorers-international-society-more-to-explore.json) |
 | Renowned Explorers: The Emperor's Challenge | 51876 | [51876-renowned-explorers-the-emperors-challenge.json](./51876-renowned-explorers-the-emperors-challenge.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
 | Rent A Car Simulator 24 | 293121 | [293121-rent-a-car-simulator-24.json](./293121-rent-a-car-simulator-24.json) |
@@ -6574,8 +6566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reso-Seeker | 244630 | [244630-reso-seeker.json](./244630-reso-seeker.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resogun | 6007 | [6007-resogun.json](./6007-resogun.json) |
-| Resogun: Defenders | 20328 | [20328-resogun-defenders.json](./20328-resogun-defenders.json) |
-| Resogun: Heroes | 20327 | [20327-resogun-heroes.json](./20327-resogun-heroes.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resolution 101 | 15355 | [15355-resolution-101.json](./15355-resolution-101.json) |
 | Resonance | 210332 | [210332-resonance.json](./210332-resonance.json) |
@@ -9415,7 +9405,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Drift | 400520 | [400520-river-drift.json](./400520-river-drift.json) |
 | River God: Enshrouded Current | 304627 | [304627-river-god-enshrouded-current.json](./304627-river-god-enshrouded-current.json) |
 | River King | 398492 | [398492-river-king.json](./398492-river-king.json) |
-| River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River King: Mystic Valley | 20520 | [20520-river-king-mystic-valley.json](./20520-river-king-mystic-valley.json) |
 | River Legends | 174206 | [174206-river-legends.json](./174206-river-legends.json) |
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
@@ -10712,7 +10701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Factory | 185637 | [185637-rocket-factory.json](./185637-rocket-factory.json) |
 | Rocket Factory | 424630 | [424630-rocket-factory.json](./424630-rocket-factory.json) |
 | Rocket Fart | 79775 | [79775-rocket-fart.json](./79775-rocket-fart.json) |
-| Rocket Fist | 19175 | [19175-rocket-fist.json](./19175-rocket-fist.json) |
 | Rocket Frog | 277949 | [277949-rocket-frog.json](./277949-rocket-frog.json) |
 | Rocket Fruit | 144778 | [144778-rocket-fruit.json](./144778-rocket-fruit.json) |
 | Rocket Ghost Aidan | 128072 | [128072-rocket-ghost-aidan.json](./128072-rocket-ghost-aidan.json) |
@@ -11708,7 +11696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolando the Majestic | 201569 | [201569-rolando-the-majestic.json](./201569-rolando-the-majestic.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Rolando: Royal Edition | 116152 | [116152-rolando-royal-edition.json](./116152-rolando-royal-edition.json) |
-| Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
 | Role Model AI | 243517 | [243517-role-model-ai.json](./243517-role-model-ai.json) |
 | Role of Hex | 144876 | [144876-role-of-hex.json](./144876-role-of-hex.json) |
 | Role of Remains | 217056 | [217056-role-of-remains.json](./217056-role-of-remains.json) |
@@ -13576,7 +13563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff Ghanor | 271605 | [271605-ruff-ghanor.json](./271605-ruff-ghanor.json) |
 | Ruff Night at the Gallery | 141316 | [141316-ruff-night-at-the-gallery.json](./141316-ruff-night-at-the-gallery.json) |
 | Ruff Times | 176662 | [176662-ruff-times.json](./176662-ruff-times.json) |
-| Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | Ruffhouse VR Basketball Simulator | 220487 | [220487-ruffhouse-vr-basketball-simulator.json](./220487-ruffhouse-vr-basketball-simulator.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
