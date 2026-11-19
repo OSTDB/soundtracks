@@ -3753,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: All The Statesmen! | 418468 | [418468-fate-grand-order-all-the-statesmen.json](./418468-fate-grand-order-all-the-statesmen.json) |
 | Fate/Grand Order: Anti-Primate Biosphere, Tunguska Sanctuary | 415292 | [415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json](./415292-fate-grand-order-anti-primate-biosphere-tunguska-sanctuary.json) |
 | Fate/Grand Order: Babylonia | 414462 | [414462-fate-grand-order-babylonia.json](./414462-fate-grand-order-babylonia.json) |
+| Fate/Grand Order: Chronicles of an Eternal Nostalgic Journey, Past Chaldea | 421066 | [421066-fate-grand-order-chronicles-of-an-eternal-nostalgic-journey-past-chaldea.json](./421066-fate-grand-order-chronicles-of-an-eternal-nostalgic-journey-past-chaldea.json) |
 | Fate/Grand Order: Cosmos in the Lostbelt - Prologue | 416798 | [416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json](./416798-fate-grand-order-cosmos-in-the-lostbelt-prologue.json) |
 | Fate/Grand Order: Epic of Remnant EX - SE.RA.PH | 414365 | [414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json](./414365-fate-grand-order-epic-of-remnant-ex-se-ra-ph.json) |
 | Fate/Grand Order: Epic of Remnant I - Shinjuku | 414364 | [414364-fate-grand-order-epic-of-remnant-i-shinjuku.json](./414364-fate-grand-order-epic-of-remnant-i-shinjuku.json) |
