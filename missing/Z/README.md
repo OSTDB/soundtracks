@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Orders Tactics: Supporter Pack | 380595 | [380595-zero-orders-tactics-supporter-pack.json](./380595-zero-orders-tactics-supporter-pack.json) |
 | Zero Orders Tactics: Under | 380596 | [380596-zero-orders-tactics-under.json](./380596-zero-orders-tactics-under.json) |
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
+| Zero Parades: Director's Cut | 421057 | [421057-zero-parades-directors-cut.json](./421057-zero-parades-directors-cut.json) |
 | Zero Piece | 266279 | [266279-zero-piece.json](./266279-zero-piece.json) |
 | Zero Pilot | 42754 | [42754-zero-pilot.json](./42754-zero-pilot.json) |
 | Zero Pilot Zero | 59350 | [59350-zero-pilot-zero.json](./59350-zero-pilot-zero.json) |
