@@ -7935,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izanami | 294262 | [294262-izanami.json](./294262-izanami.json) |
 | Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | IzanamiYako | 348212 | [348212-izanamiyako.json](./348212-izanamiyako.json) |
+| Izayoi no Hanayome | 421063 | [421063-izayoi-no-hanayome.json](./421063-izayoi-no-hanayome.json) |
 | Izbot | 34774 | [34774-izbot.json](./34774-izbot.json) |
 | Izbot 2 | 157286 | [157286-izbot-2.json](./157286-izbot-2.json) |
 | Izea: 10 Puzzle Rogue-Lite RPG! | 358036 | [358036-izea-10-puzzle-rogue-lite-rpg.json](./358036-izea-10-puzzle-rogue-lite-rpg.json) |
