@@ -3571,6 +3571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
 | Pathos | 117922 | [117922-pathos.json](./117922-pathos.json) |
+| Pathos | 423031 | [423031-pathos.json](./423031-pathos.json) |
 | Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
 | Pathos: Nethack Codex | 141917 | [141917-pathos-nethack-codex.json](./141917-pathos-nethack-codex.json) |
 | Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Matrix | 212011 | [212011-phantom-matrix.json](./212011-phantom-matrix.json) |
 | Phantom Necro | 354133 | [354133-phantom-necro.json](./354133-phantom-necro.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
+| Phantom of Orion | 423034 | [423034-phantom-of-orion.json](./423034-phantom-of-orion.json) |
 | Phantom of the Asteroids | 66539 | [66539-phantom-of-the-asteroids.json](./66539-phantom-of-the-asteroids.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
@@ -20366,6 +20368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
+| Push Mid | 423023 | [423023-push-mid.json](./423023-push-mid.json) |
 | Push Off | 62843 | [62843-push-off.json](./62843-push-off.json) |
 | Push Ops | 192338 | [192338-push-ops.json](./192338-push-ops.json) |
 | Push Out | 200319 | [200319-push-out.json](./200319-push-out.json) |
