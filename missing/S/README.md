@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Salon: Beauty Secrets | 177061 | [177061-sallys-salon-beauty-secrets.json](./177061-sallys-salon-beauty-secrets.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
+| Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
@@ -11724,6 +11725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideWinder II | 12767 | [12767-sidewinder-ii.json](./12767-sidewinder-ii.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Sidewize | 54569 | [54569-sidewize.json](./54569-sidewize.json) |
+| Sidewords | 59260 | [59260-sidewords.json](./59260-sidewords.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
 | Sidyq | 390472 | [390472-sidyq.json](./390472-sidyq.json) |
@@ -13631,6 +13633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
+| Six Ages: Ride like the Wind | 57335 | [57335-six-ages-ride-like-the-wind.json](./57335-six-ages-ride-like-the-wind.json) |
 | Six Aspects | 197484 | [197484-six-aspects.json](./197484-six-aspects.json) |
 | Six Blow: Bullet Rain | 294337 | [294337-six-blow-bullet-rain.json](./294337-six-blow-bullet-rain.json) |
 | Six Blow: Hatching Eggs | 287060 | [287060-six-blow-hatching-eggs.json](./287060-six-blow-hatching-eggs.json) |
@@ -15277,6 +15280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
 | Slay Together | 114043 | [114043-slay-together.json](./114043-slay-together.json) |
 | Slay Zombie | 214313 | [214313-slay-zombie.json](./214313-slay-zombie.json) |
+| Slay.one | 58047 | [58047-slay-one.json](./58047-slay-one.json) |
 | Slayaway Camp | 25239 | [25239-slayaway-camp.json](./25239-slayaway-camp.json) |
 | Slayaway Camp 2 | 273976 | [273976-slayaway-camp-2.json](./273976-slayaway-camp-2.json) |
 | Slayaway Camp: Monthly Murderers Series 1 | 174430 | [174430-slayaway-camp-monthly-murderers-series-1.json](./174430-slayaway-camp-monthly-murderers-series-1.json) |
@@ -17461,6 +17465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky All-Nighter | 340275 | [340275-sneaky-all-nighter.json](./340275-sneaky-all-nighter.json) |
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
+| Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Beings | 301061 | [301061-sneaky-beings.json](./301061-sneaky-beings.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
 | Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
@@ -19172,6 +19177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Crime Stories Chapter 3 | 390506 | [390506-solitaire-crime-stories-chapter-3.json](./390506-solitaire-crime-stories-chapter-3.json) |
 | Solitaire Crime Stories Chapter 5 | 394560 | [394560-solitaire-crime-stories-chapter-5.json](./394560-solitaire-crime-stories-chapter-5.json) |
 | Solitaire Crime Stories Chapter 6 | 395209 | [395209-solitaire-crime-stories-chapter-6.json](./395209-solitaire-crime-stories-chapter-6.json) |
+| Solitaire Cube | 56946 | [56946-solitaire-cube.json](./56946-solitaire-cube.json) |
 | Solitaire Daily | 102238 | [102238-solitaire-daily.json](./102238-solitaire-daily.json) |
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
@@ -35148,6 +35154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blackjack Battle 2 Turbo Edition - The Card Warriors | 30928 | [30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json](./30928-super-blackjack-battle-2-turbo-edition-the-card-warriors.json) |
 | Super Blackout | 59595 | [59595-super-blackout.json](./59595-super-blackout.json) |
+| Super Blast Deluxe | 58915 | [58915-super-blast-deluxe.json](./58915-super-blast-deluxe.json) |
 | Super Blasting Boy | 110977 | [110977-super-blasting-boy.json](./110977-super-blasting-boy.json) |
 | Super Blob Blaster | 287604 | [287604-super-blob-blaster.json](./287604-super-blob-blaster.json) |
 | Super Block | 172655 | [172655-super-block.json](./172655-super-block.json) |
@@ -37562,6 +37569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
 | Super Robo Gakuen | 68396 | [68396-super-robo-gakuen.json](./68396-super-robo-gakuen.json) |
+| Super Robo Mouse | 61228 | [61228-super-robo-mouse.json](./61228-super-robo-mouse.json) |
 | Super Robo Oh | 420271 | [420271-super-robo-oh.json](./420271-super-robo-oh.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Jump Jump | 34204 | [34204-super-robot-jump-jump.json](./34204-super-robot-jump-jump.json) |
@@ -38213,6 +38221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Racer | 124066 | [124066-super-street-racer.json](./124066-super-street-racer.json) |
 | Super Street Rally Racer 2 in 1 | 148650 | [148650-super-street-rally-racer-2-in-1.json](./148650-super-street-rally-racer-2-in-1.json) |
 | Super Street: The Game | 109292 | [109292-super-street-the-game.json](./109292-super-street-the-game.json) |
+| Super Strike Beach Volleyball | 58676 | [58676-super-strike-beach-volleyball.json](./58676-super-strike-beach-volleyball.json) |
 | Super Strike Eagle | 42449 | [42449-super-strike-eagle.json](./42449-super-strike-eagle.json) |
 | Super Strike Trilogy | 113097 | [113097-super-strike-trilogy.json](./113097-super-strike-trilogy.json) |
 | Super String | 183620 | [183620-super-string.json](./183620-super-string.json) |
