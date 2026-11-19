@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #7-J5Z: The Driftwood Experiment | 343447 | [343447-7-j5z-the-driftwood-experiment.json](./343447-7-j5z-the-driftwood-experiment.json) |
 | #AkiRobots | 141023 | [141023-akirobots.json](./141023-akirobots.json) |
 | #Archery | 32298 | [32298-archery.json](./32298-archery.json) |
+| #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #COMPASS | 107623 | [107623-compass.json](./107623-compass.json) |
 | #CuteSnake | 90003 | [90003-cutesnake.json](./90003-cutesnake.json) |
 | #Doubleblush | 218792 | [218792-doubleblush.json](./218792-doubleblush.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14/?? | 398948 | [398948-14.json](./398948-14.json) |
 | 14/??? | 398949 | [398949-14.json](./398949-14.json) |
 | 1402 | 358062 | [358062-1402.json](./358062-1402.json) |
+| 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
 | 141 | 126351 | [126351-141.json](./126351-141.json) |
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
 | 1428: Shadows over Silesia | 130261 | [130261-1428-shadows-over-silesia.json](./130261-1428-shadows-over-silesia.json) |
@@ -2582,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 307 Racing | 367763 | [367763-307-racing.json](./367763-307-racing.json) |
 | 3072 | 328163 | [328163-3072.json](./328163-3072.json) |
 | 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
+| 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 30km survival zone: Chernobyl | 131272 | [131272-30km-survival-zone-chernobyl.json](./131272-30km-survival-zone-chernobyl.json) |
 | 30minutes Night Flight | 263327 | [263327-30minutes-night-flight.json](./263327-30minutes-night-flight.json) |
 | 30s Quest Tile | 181476 | [181476-30s-quest-tile.json](./181476-30s-quest-tile.json) |
