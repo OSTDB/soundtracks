@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscure: Dark Aura | 66408 | [66408-obscure-dark-aura.json](./66408-obscure-dark-aura.json) |
 | ObsCure: The Aftermath | 5080 | [5080-obscure-the-aftermath.json](./5080-obscure-the-aftermath.json) |
 | Obscured Stories: The Resentment | 342504 | [342504-obscured-stories-the-resentment.json](./342504-obscured-stories-the-resentment.json) |
+| Obscurefiend | 427755 | [427755-obscurefiend.json](./427755-obscurefiend.json) |
 | Obscuria | 295906 | [295906-obscuria.json](./295906-obscuria.json) |
 | Obscuria | 74552 | [74552-obscuria.json](./74552-obscuria.json) |
 | Obscuria 2 | 369917 | [369917-obscuria-2.json](./369917-obscuria-2.json) |
