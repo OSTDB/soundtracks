@@ -14280,6 +14280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Click The Flower | 394317 | [394317-dont-click-the-flower.json](./394317-dont-click-the-flower.json) |
 | Don't Close Your Eyes | 123118 | [123118-dont-close-your-eyes.json](./123118-dont-close-your-eyes.json) |
 | Don't Cock It Up | 66768 | [66768-dont-cock-it-up.json](./66768-dont-cock-it-up.json) |
+| Don't Crash | 58902 | [58902-dont-crash.json](./58902-dont-crash.json) |
 | Don't Crash Go | 85092 | [85092-dont-crash-go.json](./85092-dont-crash-go.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Crash: The Zombie Game | 174022 | [174022-dont-crash-the-zombie-game.json](./174022-dont-crash-the-zombie-game.json) |
@@ -21542,6 +21543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Kong | 387900 | [387900-dungeons-of-kong.json](./387900-dungeons-of-kong.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
 | Dungeons of Kremlin | 69958 | [69958-dungeons-of-kremlin.json](./69958-dungeons-of-kremlin.json) |
+| Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Kroz | 74092 | [74092-dungeons-of-kroz.json](./74092-dungeons-of-kroz.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
