@@ -15182,6 +15182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg Krew | 181496 | [181496-bootleg-krew.json](./181496-bootleg-krew.json) |
 | Bootleg Soldier Azure: Astral Rave | 292028 | [292028-bootleg-soldier-azure-astral-rave.json](./292028-bootleg-soldier-azure-astral-rave.json) |
 | Bootleg Squadrog | 247555 | [247555-bootleg-squadrog.json](./247555-bootleg-squadrog.json) |
+| Bootleg Steamer | 269278 | [269278-bootleg-steamer.json](./269278-bootleg-steamer.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger: Moonshine Empire | 285807 | [285807-bootlegger-moonshine-empire.json](./285807-bootlegger-moonshine-empire.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
