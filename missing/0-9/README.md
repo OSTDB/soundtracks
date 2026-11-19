@@ -1054,10 +1054,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
 | 101 Cats in Cancun | 337516 | [337516-101-cats-in-cancun.json](./337516-101-cats-in-cancun.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
+| 101 Cats in Copenhagen | 430554 | [430554-101-cats-in-copenhagen.json](./430554-101-cats-in-copenhagen.json) |
 | 101 Cats in Denmark | 384119 | [384119-101-cats-in-denmark.json](./384119-101-cats-in-denmark.json) |
 | 101 Cats in Dubai | 287057 | [287057-101-cats-in-dubai.json](./287057-101-cats-in-dubai.json) |
 | 101 Cats in Dublin | 397637 | [397637-101-cats-in-dublin.json](./397637-101-cats-in-dublin.json) |
 | 101 Cats in Florence | 397636 | [397636-101-cats-in-florence.json](./397636-101-cats-in-florence.json) |
+| 101 Cats in Frankfurt | 430553 | [430553-101-cats-in-frankfurt.json](./430553-101-cats-in-frankfurt.json) |
 | 101 Cats in Greece | 350323 | [350323-101-cats-in-greece.json](./350323-101-cats-in-greece.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Hong Kong | 350327 | [350327-101-cats-in-hong-kong.json](./350327-101-cats-in-hong-kong.json) |
@@ -1091,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Rio de Janeiro | 397634 | [397634-101-cats-in-rio-de-janeiro.json](./397634-101-cats-in-rio-de-janeiro.json) |
 | 101 Cats in Rome | 326080 | [326080-101-cats-in-rome.json](./326080-101-cats-in-rome.json) |
 | 101 Cats in Saint Petersburg | 397635 | [397635-101-cats-in-saint-petersburg.json](./397635-101-cats-in-saint-petersburg.json) |
+| 101 Cats in San Francisco | 430555 | [430555-101-cats-in-san-francisco.json](./430555-101-cats-in-san-francisco.json) |
 | 101 Cats in Seoul | 374826 | [374826-101-cats-in-seoul.json](./374826-101-cats-in-seoul.json) |
 | 101 Cats in Shanghai | 312388 | [312388-101-cats-in-shanghai.json](./312388-101-cats-in-shanghai.json) |
 | 101 Cats in Shenzhen | 337515 | [337515-101-cats-in-shenzhen.json](./337515-101-cats-in-shenzhen.json) |
@@ -1103,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Vancouver | 386749 | [386749-101-cats-in-vancouver.json](./386749-101-cats-in-vancouver.json) |
 | 101 Cats in Venice | 350322 | [350322-101-cats-in-venice.json](./350322-101-cats-in-venice.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
+| 101 Cats in Washington | 430602 | [430602-101-cats-in-washington.json](./430602-101-cats-in-washington.json) |
 | 101 Cats: Lisbon | 421163 | [421163-101-cats-lisbon.json](./421163-101-cats-lisbon.json) |
 | 101 Cats: Melbourne | 420765 | [420765-101-cats-melbourne.json](./420765-101-cats-melbourne.json) |
 | 101 Cute Dogs: Find & Paint | 316961 | [316961-101-cute-dogs-find-and-paint.json](./316961-101-cute-dogs-find-and-paint.json) |
