@@ -9583,6 +9583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Report | 391105 | [391105-graveyard-report.json](./391105-graveyard-report.json) |
+| Graveyard RPG | 427163 | [427163-graveyard-rpg.json](./427163-graveyard-rpg.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
 | Graveyard Shift | 271588 | [271588-graveyard-shift.json](./271588-graveyard-shift.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
