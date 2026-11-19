@@ -18740,6 +18740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Eclipse | 9266 | [9266-solar-eclipse.json](./9266-solar-eclipse.json) |
 | Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
+| Solar Escape | 428988 | [428988-solar-escape.json](./428988-solar-escape.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
 | Solar Family: Kids EduGames - Solar System Planets | 95110 | [95110-solar-family-kids-edugames-solar-system-planets.json](./95110-solar-family-kids-edugames-solar-system-planets.json) |
@@ -34439,6 +34440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
 | Sun Shot | 213492 | [213492-sun-shot.json](./213492-sun-shot.json) |
+| Sun Smith | 428978 | [428978-sun-smith.json](./428978-sun-smith.json) |
 | Sun Spear | 275523 | [275523-sun-spear.json](./275523-sun-spear.json) |
 | Sun Sport Fishing: Keiryuu-ou | 37889 | [37889-sun-sport-fishing-keiryuu-ou.json](./37889-sun-sport-fishing-keiryuu-ou.json) |
 | Sun Star | 36552 | [36552-sun-star.json](./36552-sun-star.json) |
@@ -38977,6 +38979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
 | Surferman - A FC pixel surfing to avoid obstacles | 174465 | [174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json](./174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json) |
 | Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
+| Surfin' Landes | 428973 | [428973-surfin-landes.json](./428973-surfin-landes.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing | 281688 | [281688-surfing.json](./281688-surfing.json) |
 | Surfing and Girls | 165827 | [165827-surfing-and-girls.json](./165827-surfing-and-girls.json) |
