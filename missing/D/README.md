@@ -10054,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dickland: Tower Defense | 369834 | [369834-dickland-tower-defense.json](./369834-dickland-tower-defense.json) |
 | Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dicks and Dragons | 339520 | [339520-dicks-and-dragons.json](./339520-dicks-and-dragons.json) |
+| Dicky's Diamonds | 416914 | [416914-dickys-diamonds.json](./416914-dickys-diamonds.json) |
 | Dictator | 78955 | [78955-dictator.json](./78955-dictator.json) |
 | Dictator Simulator: Gradnar | 374789 | [374789-dictator-simulator-gradnar.json](./374789-dictator-simulator-gradnar.json) |
 | Dictator-chan island | 227139 | [227139-dictator-chan-island.json](./227139-dictator-chan-island.json) |
