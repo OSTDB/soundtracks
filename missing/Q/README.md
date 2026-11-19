@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
 | Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
+| Queen At Arms | 24617 | [24617-queen-at-arms.json](./24617-queen-at-arms.json) |
 | Queen At Arms: Deluxe Edition | 53488 | [53488-queen-at-arms-deluxe-edition.json](./53488-queen-at-arms-deluxe-edition.json) |
 | Queen B: Book 1 | 313632 | [313632-queen-b-book-1.json](./313632-queen-b-book-1.json) |
 | Queen B: Book 2 | 313633 | [313633-queen-b-book-2.json](./313633-queen-b-book-2.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Trivia | 369751 | [369751-quick-trivia.json](./369751-quick-trivia.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
 | Quick Words | 195474 | [195474-quick-words.json](./195474-quick-words.json) |
+| Quick Wordz | 24581 | [24581-quick-wordz.json](./24581-quick-wordz.json) |
 | Quick Yoga Training | 47877 | [47877-quick-yoga-training.json](./47877-quick-yoga-training.json) |
 | Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
