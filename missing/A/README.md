@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
 | A Song of War: The Last Knight | 77470 | [77470-a-song-of-war-the-last-knight.json](./77470-a-song-of-war-the-last-knight.json) |
+| A Song of Woods and Stone | 421673 | [421673-a-song-of-woods-and-stone.json](./421673-a-song-of-woods-and-stone.json) |
 | A Soul of Clay | 181469 | [181469-a-soul-of-clay.json](./181469-a-soul-of-clay.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Sound Plan | 111111 | [111111-a-sound-plan.json](./111111-a-sound-plan.json) |
@@ -9321,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alptraum | 412358 | [412358-alptraum.json](./412358-alptraum.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
+| Already Recorded the Statement | 421649 | [421649-already-recorded-the-statement.json](./421649-already-recorded-the-statement.json) |
 | Already Solved | 398829 | [398829-already-solved.json](./398829-already-solved.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
@@ -15547,6 +15549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Quest 2 | 175788 | [175788-arctic-quest-2.json](./175788-arctic-quest-2.json) |
 | Arctic Roll | 424661 | [424661-arctic-roll.json](./424661-arctic-roll.json) |
 | Arctic Shift: Fuel Station | 410497 | [410497-arctic-shift-fuel-station.json](./410497-arctic-shift-fuel-station.json) |
+| Arctic Shop Simulator | 421656 | [421656-arctic-shop-simulator.json](./421656-arctic-shop-simulator.json) |
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
 | Arctic Tale | 4679 | [4679-arctic-tale.json](./4679-arctic-tale.json) |
