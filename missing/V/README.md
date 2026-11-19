@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocirambo | 349017 | [349017-velocirambo.json](./349017-velocirambo.json) |
 | Velocirapture | 61375 | [61375-velocirapture.json](./61375-velocirapture.json) |
 | Velocispider | 69020 | [69020-velocispider.json](./69020-velocispider.json) |
+| Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
 | VeloCity | 377292 | [377292-velocity.json](./377292-velocity.json) |
 | Velocity 2X: Critical Mass Edition | 167039 | [167039-velocity-2x-critical-mass-edition.json](./167039-velocity-2x-critical-mass-edition.json) |
 | Velocity 2X: Critical Urgency DLC Pack | 250375 | [250375-velocity-2x-critical-urgency-dlc-pack.json](./250375-velocity-2x-critical-urgency-dlc-pack.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victorious Nine | 92021 | [92021-victorious-nine.json](./92021-victorious-nine.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
 | Victorious: Taking the Lead | 25165 | [25165-victorious-taking-the-lead.json](./25165-victorious-taking-the-lead.json) |
+| Victorious: Time to Shine | 9751 | [9751-victorious-time-to-shine.json](./9751-victorious-time-to-shine.json) |
 | Victory | 23570 | [23570-victory.json](./23570-victory.json) |
 | Victory | 95445 | [95445-victory.json](./95445-victory.json) |
 | Victory 7 | 207452 | [207452-victory-7.json](./207452-victory-7.json) |
@@ -3217,6 +3219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Villagers 3 | 200316 | [200316-virtual-villagers-3.json](./200316-virtual-villagers-3.json) |
 | Virtual Villagers 3 for iPad | 90870 | [90870-virtual-villagers-3-for-ipad.json](./90870-virtual-villagers-3-for-ipad.json) |
 | Virtual Villagers 3: The Secret City | 14910 | [14910-virtual-villagers-3-the-secret-city.json](./14910-virtual-villagers-3-the-secret-city.json) |
+| Virtual Villagers 4: The Tree of Life | 14976 | [14976-virtual-villagers-4-the-tree-of-life.json](./14976-virtual-villagers-4-the-tree-of-life.json) |
+| Virtual Villagers 5: New Believers | 14977 | [14977-virtual-villagers-5-new-believers.json](./14977-virtual-villagers-5-new-believers.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
 | Virtual Villagers: A New Home | 14909 | [14909-virtual-villagers-a-new-home.json](./14909-virtual-villagers-a-new-home.json) |
 | Virtual Villagers: A New Home | 200811 | [200811-virtual-villagers-a-new-home.json](./200811-virtual-villagers-a-new-home.json) |
