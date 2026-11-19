@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
 | Journey to Valhalla | 107549 | [107549-journey-to-valhalla.json](./107549-journey-to-valhalla.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
+| Journey Under the Pyramids | 429664 | [429664-journey-under-the-pyramids.json](./429664-journey-under-the-pyramids.json) |
 | Journey Up | 319404 | [319404-journey-up.json](./319404-journey-up.json) |
 | Journey: Benjamin's Adventures | 29653 | [29653-journey-benjamins-adventures.json](./29653-journey-benjamins-adventures.json) |
 | Journey: The Heart of Gaia | 50463 | [50463-journey-the-heart-of-gaia.json](./50463-journey-the-heart-of-gaia.json) |
