@@ -294,7 +294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalic Turn-Based Bundle | 324216 | [324216-daedalic-turn-based-bundle.json](./324216-daedalic-turn-based-bundle.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
-| Daedalus - No Escape | 17691 | [17691-daedalus-no-escape.json](./17691-daedalus-no-escape.json) |
 | Daedalus Demise | 144081 | [144081-daedalus-demise.json](./144081-daedalus-demise.json) |
 | Daedalus Versus Minotaur | 250345 | [250345-daedalus-versus-minotaur.json](./250345-daedalus-versus-minotaur.json) |
 | Daedalus: Alien Defense | 140561 | [140561-daedalus-alien-defense.json](./140561-daedalus-alien-defense.json) |
@@ -2904,7 +2903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
 | Data Garden | 272773 | [272773-data-garden.json](./272773-data-garden.json) |
 | Data Hacker Initiation | 10167 | [10167-data-hacker-initiation.json](./10167-data-hacker-initiation.json) |
-| Data Hacker: Corruption | 17954 | [17954-data-hacker-corruption.json](./17954-data-hacker-corruption.json) |
 | Data Hacker: Reboot | 10168 | [10168-data-hacker-reboot.json](./10168-data-hacker-reboot.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
 | Data Loss | 134684 | [134684-data-loss.json](./134684-data-loss.json) |
@@ -4882,7 +4880,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
 | Deadstep | 76111 | [76111-deadstep.json](./76111-deadstep.json) |
 | Deadstick: Bush Flight Simulator | 101239 | [101239-deadstick-bush-flight-simulator.json](./101239-deadstick-bush-flight-simulator.json) |
-| Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
 | Deadswitch 3 | 147182 | [147182-deadswitch-3.json](./147182-deadswitch-3.json) |
@@ -6672,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defensive War: Sealed Golem | 188798 | [188798-defensive-war-sealed-golem.json](./188798-defensive-war-sealed-golem.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Defentron | 146748 | [146748-defentron.json](./146748-defentron.json) |
+| Defentures | 129244 | [129244-defentures.json](./129244-defentures.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
 | Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
@@ -16115,7 +16113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dove | 405294 | [405294-dove.json](./405294-dove.json) |
 | Dove Days: Time Flies | 364262 | [364262-dove-days-time-flies.json](./364262-dove-days-time-flies.json) |
 | Dovetail Games Flight School | 24722 | [24722-dovetail-games-flight-school.json](./24722-dovetail-games-flight-school.json) |
-| Dovetail Games: Euro Fishing | 17666 | [17666-dovetail-games-euro-fishing.json](./17666-dovetail-games-euro-fishing.json) |
 | Dovez | 80607 | [80607-dovez.json](./80607-dovez.json) |
 | DoVille | 111956 | [111956-doville.json](./111956-doville.json) |
 | Dowajwo! Enjeu | 208739 | [208739-dowajwo-enjeu.json](./208739-dowajwo-enjeu.json) |
@@ -17134,7 +17131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy: Book I | 52176 | [52176-dragon-fantasy-book-i.json](./52176-dragon-fantasy-book-i.json) |
 | Dragon Fantasy: Book II | 52175 | [52175-dragon-fantasy-book-ii.json](./52175-dragon-fantasy-book-ii.json) |
 | Dragon Fantasy: The Black Tome of Ice | 36219 | [36219-dragon-fantasy-the-black-tome-of-ice.json](./36219-dragon-fantasy-the-black-tome-of-ice.json) |
-| Dragon Fantasy: The Volumes of Westeria | 17931 | [17931-dragon-fantasy-the-volumes-of-westeria.json](./17931-dragon-fantasy-the-volumes-of-westeria.json) |
 | Dragon Fate: Cards and Minigames | 285615 | [285615-dragon-fate-cards-and-minigames.json](./285615-dragon-fate-cards-and-minigames.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Fighter | 144672 | [144672-dragon-fighter.json](./144672-dragon-fighter.json) |
@@ -20870,7 +20866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hack | 2529 | [2529-dungeon-hack.json](./2529-dungeon-hack.json) |
 | Dungeon Hearts | 9827 | [9827-dungeon-hearts.json](./9827-dungeon-hearts.json) |
 | Dungeon Hearts DX | 85103 | [85103-dungeon-hearts-dx.json](./85103-dungeon-hearts-dx.json) |
-| Dungeon Hero | 18788 | [18788-dungeon-hero.json](./18788-dungeon-hero.json) |
 | Dungeon Heroes | 261637 | [261637-dungeon-heroes.json](./261637-dungeon-heroes.json) |
 | Dungeon Highway | 35645 | [35645-dungeon-highway.json](./35645-dungeon-highway.json) |
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
@@ -21263,6 +21258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneer | 76957 | [76957-dungeoneer.json](./76957-dungeoneer.json) |
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
+| Dungeoneers | 83015 | [83015-dungeoneers.json](./83015-dungeoneers.json) |
 | Dungeoneers Academy | 266547 | [266547-dungeoneers-academy.json](./266547-dungeoneers-academy.json) |
 | Dungeoneers Quest | 212374 | [212374-dungeoneers-quest.json](./212374-dungeoneers-quest.json) |
 | DungeonEpic | 121852 | [121852-dungeonepic.json](./121852-dungeonepic.json) |
