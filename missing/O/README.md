@@ -4921,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Orwell: Ignorance is Strength Seasons Complete | 124852 | [124852-orwell-ignorance-is-strength-seasons-complete.json](./124852-orwell-ignorance-is-strength-seasons-complete.json) |
 | Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
+| Orwell's Animal Farm | 58472 | [58472-orwells-animal-farm.json](./58472-orwells-animal-farm.json) |
 | Orx | 118588 | [118588-orx.json](./118588-orx.json) |
 | Orya: Broken World | 223716 | [223716-orya-broken-world.json](./223716-orya-broken-world.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
