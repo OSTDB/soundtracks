@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
 | I, Damiano: The Wizard of Partestrada | 78177 | [78177-i-damiano-the-wizard-of-partestrada.json](./78177-i-damiano-the-wizard-of-partestrada.json) |
 | I, For One, Welcome Our New Lady Knight Overlords! | 178506 | [178506-i-for-one-welcome-our-new-lady-knight-overlords.json](./178506-i-for-one-welcome-our-new-lady-knight-overlords.json) |
+| I, Gladiator | 36037 | [36037-i-gladiator.json](./36037-i-gladiator.json) |
 | I, Gladiator | 58454 | [58454-i-gladiator.json](./58454-i-gladiator.json) |
 | I, Gladiator Scratch'em | 249234 | [249234-i-gladiator-scratchem.json](./249234-i-gladiator-scratchem.json) |
 | I, Hope | 88401 | [88401-i-hope.json](./88401-i-hope.json) |
@@ -3514,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Souls | 290801 | [290801-inazuma-souls.json](./290801-inazuma-souls.json) |
 | Inbento | 121438 | [121438-inbento.json](./121438-inbento.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
+| Inbetween Land | 35850 | [35850-inbetween-land.json](./35850-inbetween-land.json) |
 | Inbound | 32523 | [32523-inbound.json](./32523-inbound.json) |
 | Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
 | Inbound UFO | 121138 | [121138-inbound-ufo.json](./121138-inbound-ufo.json) |
