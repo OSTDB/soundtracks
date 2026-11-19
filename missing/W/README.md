@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
 | Welcome to Hell | 178231 | [178231-welcome-to-hell.json](./178231-welcome-to-hell.json) |
 | Welcome to Hell Resort! | 423876 | [423876-welcome-to-hell-resort.json](./423876-welcome-to-hell-resort.json) |
+| Welcome to HillVeil | 429060 | [429060-welcome-to-hillveil.json](./429060-welcome-to-hillveil.json) |
 | Welcome to IKSPQ | 271310 | [271310-welcome-to-ikspq.json](./271310-welcome-to-ikspq.json) |
 | Welcome to Inventis | 101215 | [101215-welcome-to-inventis.json](./101215-welcome-to-inventis.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiAdventure | 143253 | [143253-wikiadventure.json](./143253-wikiadventure.json) |
 | WikiArena | 194710 | [194710-wikiarena.json](./194710-wikiarena.json) |
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
+| Wikicards | 429058 | [429058-wikicards.json](./429058-wikicards.json) |
 | WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiMasters | 419615 | [419615-wikimasters.json](./419615-wikimasters.json) |
 | Wikimon | 424274 | [424274-wikimon.json](./424274-wikimon.json) |
