@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C21 Steel Battle Chronicles | 288406 | [288406-c21-steel-battle-chronicles.json](./288406-c21-steel-battle-chronicles.json) |
 | C21: Steel Battle Chronicles | 240373 | [240373-c21-steel-battle-chronicles.json](./240373-c21-steel-battle-chronicles.json) |
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
+| C3 Nightfall | 418047 | [418047-c3-nightfall.json](./418047-c3-nightfall.json) |
 | C4 Clicker: First Mint | 363119 | [363119-c4-clicker-first-mint.json](./363119-c4-clicker-first-mint.json) |
 | C4: Classical Caliber Combat Contest | 371803 | [371803-c4-classical-caliber-combat-contest.json](./371803-c4-classical-caliber-combat-contest.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
@@ -21127,6 +21128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchy Lunch | 183235 | [183235-crunchy-lunch.json](./183235-crunchy-lunch.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
 | Crunda | 333043 | [333043-crunda.json](./333043-crunda.json) |
+| Crunge | 418137 | [418137-crunge.json](./418137-crunge.json) |
 | Crunky | 204200 | [204200-crunky.json](./204200-crunky.json) |
 | Crunky's Fun Rager | 303441 | [303441-crunkys-fun-rager.json](./303441-crunkys-fun-rager.json) |
 | Cruo Domine | 246857 | [246857-cruo-domine.json](./246857-cruo-domine.json) |
@@ -24033,6 +24035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
+| Cynical Software Volume One | 418133 | [418133-cynical-software-volume-one.json](./418133-cynical-software-volume-one.json) |
 | Cynk 3030 | 117868 | [117868-cynk-3030.json](./117868-cynk-3030.json) |
 | Cynoroid Forsaken | 192538 | [192538-cynoroid-forsaken.json](./192538-cynoroid-forsaken.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
