@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
 | ZombieVan Drive | 156972 | [156972-zombievan-drive.json](./156972-zombievan-drive.json) |
 | Zombieville | 2278 | [2278-zombieville.json](./2278-zombieville.json) |
+| Zombieville USA 2 | 86895 | [86895-zombieville-usa-2.json](./86895-zombieville-usa-2.json) |
 | Zombieville USA 3D | 212108 | [212108-zombieville-usa-3d.json](./212108-zombieville-usa-3d.json) |
 | ZombieVital DG | 147267 | [147267-zombievital-dg.json](./147267-zombievital-dg.json) |
 | ZombieWave FM | 253462 | [253462-zombiewave-fm.json](./253462-zombiewave-fm.json) |
