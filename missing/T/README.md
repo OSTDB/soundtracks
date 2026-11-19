@@ -8641,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
 | The Cozy Funemployment | 423019 | [423019-the-cozy-funemployment.json](./423019-the-cozy-funemployment.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
+| The Crab is Walking | 418051 | [418051-the-crab-is-walking.json](./418051-the-crab-is-walking.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack | 290034 | [290034-the-crack.json](./290034-the-crack.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
@@ -11650,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Cowl of Nocturnal | 320928 | [320928-the-gray-cowl-of-nocturnal.json](./320928-the-gray-cowl-of-nocturnal.json) |
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Garden Remake | 212574 | [212574-the-gray-garden-remake.json](./212574-the-gray-garden-remake.json) |
+| The Gray King | 418048 | [418048-the-gray-king.json](./418048-the-gray-king.json) |
 | The Gray Man | 226599 | [226599-the-gray-man.json](./226599-the-gray-man.json) |
 | The Gray Painter | 396848 | [396848-the-gray-painter.json](./396848-the-gray-painter.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
@@ -11800,6 +11802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
 | The Greedy Cave | 102467 | [102467-the-greedy-cave.json](./102467-the-greedy-cave.json) |
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
+| The Greedy Knight | 418029 | [418029-the-greedy-knight.json](./418029-the-greedy-knight.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
 | The Green Book | 311569 | [311569-the-green-book.json](./311569-the-green-book.json) |
 | The Green Hill 8 | 424681 | [424681-the-green-hill-8.json](./424681-the-green-hill-8.json) |
@@ -26111,6 +26114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
 | Time Gal Re:birth | 377094 | [377094-time-gal-re-birth.json](./377094-time-gal-re-birth.json) |
 | Time Gamers: 12000 Years in One Square Mile | 359683 | [359683-time-gamers-12000-years-in-one-square-mile.json](./359683-time-gamers-12000-years-in-one-square-mile.json) |
+| Time Gamers: Guardians of the Marble Man | 418042 | [418042-time-gamers-guardians-of-the-marble-man.json](./418042-time-gamers-guardians-of-the-marble-man.json) |
 | Time Gap | 109199 | [109199-time-gap.json](./109199-time-gap.json) |
 | Time Gap Mystery | 68501 | [68501-time-gap-mystery.json](./68501-time-gap-mystery.json) |
 | Time Gap Puppies | 156518 | [156518-time-gap-puppies.json](./156518-time-gap-puppies.json) |
@@ -34816,6 +34820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tremulous | 93105 | [93105-tremulous.json](./93105-tremulous.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
+| Tren: Southbound | 418043 | [418043-tren-southbound.json](./418043-tren-southbound.json) |
 | Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
 | Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
 | Trench Defender | 294309 | [294309-trench-defender.json](./294309-trench-defender.json) |
