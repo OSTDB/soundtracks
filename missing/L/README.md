@@ -3449,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion: Immortal Survivors | 399963 | [399963-legion-immortal-survivors.json](./399963-legion-immortal-survivors.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
 | Legion's Crawl 2 | 132899 | [132899-legions-crawl-2.json](./132899-legions-crawl-2.json) |
+| Legion's Hand | 427804 | [427804-legions-hand.json](./427804-legions-hand.json) |
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
 | Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
 | Liegecraft | 322449 | [322449-liegecraft.json](./322449-liegecraft.json) |
+| Lièhuǒ Huángchéng | 427762 | [427762-liehuo-huangcheng.json](./427762-liehuo-huangcheng.json) |
 | Liekki | 290483 | [290483-liekki.json](./290483-liekki.json) |
 | Liero | 9078 | [9078-liero.json](./9078-liero.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
@@ -6272,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo | 341915 | [341915-lingo.json](./341915-lingo.json) |
 | Lingo 2 | 327669 | [327669-lingo-2.json](./327669-lingo-2.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
+| Lingo Kitty | 427802 | [427802-lingo-kitty.json](./427802-lingo-kitty.json) |
 | Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoGrid | 407604 | [407604-lingogrid.json](./407604-lingogrid.json) |
