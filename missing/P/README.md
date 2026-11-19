@@ -3883,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawsome Cats in Kittynawa | 291423 | [291423-pawsome-cats-in-kittynawa.json](./291423-pawsome-cats-in-kittynawa.json) |
 | Pawsome Resort | 374711 | [374711-pawsome-resort.json](./374711-pawsome-resort.json) |
 | Pawsta | 347834 | [347834-pawsta.json](./347834-pawsta.json) |
+| Pawsweeper | 425975 | [425975-pawsweeper.json](./425975-pawsweeper.json) |
 | PawTail | 54618 | [54618-pawtail.json](./54618-pawtail.json) |
 | Pawtastic Diner | 305427 | [305427-pawtastic-diner.json](./305427-pawtastic-diner.json) |
 | Pawtings! Hidden Dogs | 419061 | [419061-pawtings-hidden-dogs.json](./419061-pawtings-hidden-dogs.json) |
