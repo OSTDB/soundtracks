@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon 2000 - Project PCF | 69771 | [69771-xenon-2000-project-pcf.json](./69771-xenon-2000-project-pcf.json) |
+| Xenon Racer | 110585 | [110585-xenon-racer.json](./110585-xenon-racer.json) |
 | Xenon Ranger | 60608 | [60608-xenon-ranger.json](./60608-xenon-ranger.json) |
 | Xenon Runner | 247443 | [247443-xenon-runner.json](./247443-xenon-runner.json) |
 | Xenon Valkyrie | 29949 | [29949-xenon-valkyrie.json](./29949-xenon-valkyrie.json) |
