@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
 | Oddmar | 95076 | [95076-oddmar.json](./95076-oddmar.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
+| Oddments & Offerings | 423004 | [423004-oddments-and-offerings.json](./423004-oddments-and-offerings.json) |
 | Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
 | Oddrietta | 251276 | [251276-oddrietta.json](./251276-oddrietta.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othercell | 119230 | [119230-othercell.json](./119230-othercell.json) |
 | Othercide: Dressed to Kill - Cosmetics Pack | 226528 | [226528-othercide-dressed-to-kill-cosmetics-pack.json](./226528-othercide-dressed-to-kill-cosmetics-pack.json) |
 | Othercrown | 429371 | [429371-othercrown.json](./429371-othercrown.json) |
+| Otherealm | 423014 | [423014-otherealm.json](./423014-otherealm.json) |
 | Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
 | Otherland | 72560 | [72560-otherland.json](./72560-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
@@ -5830,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Nightmare Chronicles - Definitive Edition | 164713 | [164713-outbreak-the-nightmare-chronicles-definitive-edition.json](./164713-outbreak-the-nightmare-chronicles-definitive-edition.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: The Undying Collection | 225462 | [225462-outbreak-the-undying-collection.json](./225462-outbreak-the-undying-collection.json) |
+| Outbreak: Type Z | 422992 | [422992-outbreak-type-z.json](./422992-outbreak-type-z.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
@@ -5880,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Frontier | 160128 | [160128-outer-frontier.json](./160128-outer-frontier.json) |
 | Outer Orbit Sushi | 36925 | [36925-outer-orbit-sushi.json](./36925-outer-orbit-sushi.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
+| Outer Rangers | 422994 | [422994-outer-rangers.json](./422994-outer-rangers.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outer Ridge | 14506 | [14506-outer-ridge.json](./14506-outer-ridge.json) |
 | Outer Rim | 29236 | [29236-outer-rim.json](./29236-outer-rim.json) |
@@ -6197,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over My Dead Booty! | 420599 | [420599-over-my-dead-booty.json](./420599-over-my-dead-booty.json) |
 | Over My Dead Pixel | 116046 | [116046-over-my-dead-pixel.json](./116046-over-my-dead-pixel.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
+| Over or Under | 423002 | [423002-over-or-under.json](./423002-over-or-under.json) |
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
 | Over Requiemz | 274885 | [274885-over-requiemz.json](./274885-over-requiemz.json) |
 | Over Rev | 39449 | [39449-over-rev.json](./39449-over-rev.json) |
