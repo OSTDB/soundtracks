@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Princess: Super Survivor Showdown | 407724 | [407724-kaiju-princess-super-survivor-showdown.json](./407724-kaiju-princess-super-survivor-showdown.json) |
 | Kaiju Rush | 297524 | [297524-kaiju-rush.json](./297524-kaiju-rush.json) |
 | Kaiju Super Datetech | 176609 | [176609-kaiju-super-datetech.json](./176609-kaiju-super-datetech.json) |
+| Kaiju Wars | 171757 | [171757-kaiju-wars.json](./171757-kaiju-wars.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
 | Kaiju-A-GoGo | 36155 | [36155-kaiju-a-gogo.json](./36155-kaiju-a-gogo.json) |
 | Kaiju-A-GoGo: Grey Goop | 159650 | [159650-kaiju-a-gogo-grey-goop.json](./159650-kaiju-a-gogo-grey-goop.json) |
@@ -6840,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kujibiki Unbalance: Kaichou Onegai Smash Fight | 165564 | [165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json](./165564-kujibiki-unbalance-kaichou-onegai-smash-fight.json) |
 | Kujira Monogatari | 242745 | [242745-kujira-monogatari.json](./242745-kujira-monogatari.json) |
 | Kujiragami no Tearstilla | 144633 | [144633-kujiragami-no-tearstilla.json](./144633-kujiragami-no-tearstilla.json) |
+| Kujlevka | 172179 | [172179-kujlevka.json](./172179-kujlevka.json) |
 | Kukinta | 285306 | [285306-kukinta.json](./285306-kukinta.json) |
 | KukkoroDays | 136255 | [136255-kukkorodays.json](./136255-kukkorodays.json) |
 | KukkoroDays | 138914 | [138914-kukkorodays.json](./138914-kukkorodays.json) |
