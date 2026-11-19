@@ -5408,6 +5408,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
 | Marvel Ultimate Alliance & Forza Motorsport 2 | 246614 | [246614-marvel-ultimate-alliance-and-forza-motorsport-2.json](./246614-marvel-ultimate-alliance-and-forza-motorsport-2.json) |
 | Marvel Ultimate Alliance 3: The Black Order | 113109 | [113109-marvel-ultimate-alliance-3-the-black-order.json](./113109-marvel-ultimate-alliance-3-the-black-order.json) |
+| Marvel Ultimate Alliance 3: The Black Order - Curse of the Vampire | 122700 | [122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json](./122700-marvel-ultimate-alliance-3-the-black-order-curse-of-the-vampire.json) |
+| Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
+| Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel Ultimate Alliance 3: The Black Order Expansion Pass | 122703 | [122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json](./122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json) |
 | Marvel Ultimate Alliance Gold | 47388 | [47388-marvel-ultimate-alliance-gold.json](./47388-marvel-ultimate-alliance-gold.json) |
 | Marvel Vs Capcom 2 X-Men '97 Edition Deluxe Arcade | 314757 | [314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json](./314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json) |
@@ -18910,6 +18913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Lander | 118528 | [118528-moo-lander.json](./118528-moo-lander.json) |
+| Moo Moo Move | 124251 | [124251-moo-moo-move.json](./124251-moo-moo-move.json) |
 | Moo Moo: Liar's Dice | 286156 | [286156-moo-moo-liars-dice.json](./286156-moo-moo-liars-dice.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
