@@ -8979,6 +8979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Allura: Curse of the Mermaid | 148114 | [148114-allura-curse-of-the-mermaid.json](./148114-allura-curse-of-the-mermaid.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
+| Alluring Lullaby | 427748 | [427748-alluring-lullaby.json](./427748-alluring-lullaby.json) |
 | Alluring Neon Night Town | 417270 | [417270-alluring-neon-night-town.json](./417270-alluring-neon-night-town.json) |
 | Alluvium | 123209 | [123209-alluvium.json](./123209-alluvium.json) |
 | Allwheel.online | 114118 | [114118-allwheel-online.json](./114118-allwheel-online.json) |
@@ -13608,6 +13609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aphelion: Deluxe Edition | 405851 | [405851-aphelion-deluxe-edition.json](./405851-aphelion-deluxe-edition.json) |
 | Aphotic | 237163 | [237163-aphotic.json](./237163-aphotic.json) |
 | Aphotic Descent | 245898 | [245898-aphotic-descent.json](./245898-aphotic-descent.json) |
+| Aphrodisiac 2 | 427887 | [427887-aphrodisiac-2.json](./427887-aphrodisiac-2.json) |
 | Aphrodite Evolve Weapons Survivor: Greek Gods Versus Heaven | 404261 | [404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json](./404261-aphrodite-evolve-weapons-survivor-greek-gods-versus-heaven.json) |
 | Aphrodite's Bathhouse | 364091 | [364091-aphrodites-bathhouse.json](./364091-aphrodites-bathhouse.json) |
 | Apiary in Flow | 425818 | [425818-apiary-in-flow.json](./425818-apiary-in-flow.json) |
