@@ -12087,6 +12087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Haunted House of Doom | 161693 | [161693-the-haunted-house-of-doom.json](./161693-the-haunted-house-of-doom.json) |
+| The Haunted House of Ghouls | 428218 | [428218-the-haunted-house-of-ghouls.json](./428218-the-haunted-house-of-ghouls.json) |
 | the Haunted House VR Ep.1 Movie "missing" | 127104 | [127104-the-haunted-house-vr-ep-1-movie-missing.json](./127104-the-haunted-house-vr-ep-1-movie-missing.json) |
 | The Haunted House: Dark Island | 392259 | [392259-the-haunted-house-dark-island.json](./392259-the-haunted-house-dark-island.json) |
 | The Haunted Library | 205214 | [205214-the-haunted-library.json](./205214-the-haunted-library.json) |
@@ -38438,6 +38439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type To Kill | 396696 | [396696-type-to-kill.json](./396696-type-to-kill.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
 | Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
+| Type To Report - Paradox | 428214 | [428214-type-to-report-paradox.json](./428214-type-to-report-paradox.json) |
 | Type Your Fate | 274814 | [274814-type-your-fate.json](./274814-type-your-fate.json) |
 | Type-Noise: Shonen Shojo | 311410 | [311410-type-noise-shonen-shojo.json](./311410-type-noise-shonen-shojo.json) |
 | Type-Rope | 98219 | [98219-type-rope.json](./98219-type-rope.json) |
