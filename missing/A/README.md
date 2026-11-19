@@ -15250,6 +15250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaneering: Beyond Automation | 356681 | [356681-arcaneering-beyond-automation.json](./356681-arcaneering-beyond-automation.json) |
 | Arcanefall: Darklands | 420290 | [420290-arcanefall-darklands.json](./420290-arcanefall-darklands.json) |
 | ArcaneOutpost | 283935 | [283935-arcaneoutpost.json](./283935-arcaneoutpost.json) |
+| ArcaneSoul | 24555 | [24555-arcanesoul.json](./24555-arcanesoul.json) |
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
