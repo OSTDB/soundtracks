@@ -8819,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Cubedex of Brass and Wood | 138418 | [138418-the-cubedex-of-brass-and-wood.json](./138418-the-cubedex-of-brass-and-wood.json) |
 | The Cubes | 373067 | [373067-the-cubes.json](./373067-the-cubes.json) |
+| The Cubic and Their Supporters | 426536 | [426536-the-cubic-and-their-supporters.json](./426536-the-cubic-and-their-supporters.json) |
 | The Cubicle. | 33273 | [33273-the-cubicle.json](./33273-the-cubicle.json) |
 | The Cubiw Dungeon | 393818 | [393818-the-cubiw-dungeon.json](./393818-the-cubiw-dungeon.json) |
 | The Cullfield Ritual | 235802 | [235802-the-cullfield-ritual.json](./235802-the-cullfield-ritual.json) |
@@ -13643,6 +13644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Dungeon | 226600 | [226600-the-last-dungeon.json](./226600-the-last-dungeon.json) |
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
+| The Last Dwarf | 426538 | [426538-the-last-dwarf.json](./426538-the-last-dwarf.json) |
 | The Last Dynasty | 78824 | [78824-the-last-dynasty.json](./78824-the-last-dynasty.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Earth Man | 166951 | [166951-the-last-earth-man.json](./166951-the-last-earth-man.json) |
@@ -15048,6 +15050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost | 179085 | [179085-the-lost.json](./179085-the-lost.json) |
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
+| The Lost | 426566 | [426566-the-lost.json](./426566-the-lost.json) |
 | The Lost & Forgotten | 251326 | [251326-the-lost-and-forgotten.json](./251326-the-lost-and-forgotten.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
 | The Lost Admiral | 57573 | [57573-the-lost-admiral.json](./57573-the-lost-admiral.json) |
@@ -27419,6 +27422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To My Forever Love | 259710 | [259710-to-my-forever-love.json](./259710-to-my-forever-love.json) |
 | To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
 | To Put Your Childhood Sweetheart Into A Refrigerator | 364818 | [364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json](./364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json) |
+| To Reign In Hell | 426549 | [426549-to-reign-in-hell.json](./426549-to-reign-in-hell.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
 | To Support Frida | 180349 | [180349-to-support-frida.json](./180349-to-support-frida.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
