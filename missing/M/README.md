@@ -5352,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Infinity War | 296137 | [296137-marvel-infinity-war.json](./296137-marvel-infinity-war.json) |
 | Marvel Kapow! | 92612 | [92612-marvel-kapow.json](./92612-marvel-kapow.json) |
 | Marvel Land | 41087 | [41087-marvel-land.json](./41087-marvel-land.json) |
+| Marvel MaXimum Collection | 392813 | [392813-marvel-maximum-collection.json](./392813-marvel-maximum-collection.json) |
 | Marvel Mystic Mayhem | 319970 | [319970-marvel-mystic-mayhem.json](./319970-marvel-mystic-mayhem.json) |
 | Marvel Nemesis: Rise of the Imperfects | 194232 | [194232-marvel-nemesis-rise-of-the-imperfects.json](./194232-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
