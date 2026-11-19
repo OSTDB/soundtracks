@@ -4767,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reddish | 212023 | [212023-reddish.json](./212023-reddish.json) |
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
+| Redeemer: Enhanced Edition | 105418 | [105418-redeemer-enhanced-edition.json](./105418-redeemer-enhanced-edition.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
 | Redeliver | 147036 | [147036-redeliver.json](./147036-redeliver.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
@@ -13326,6 +13327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Shooter: Starwish | 148178 | [148178-rpg-shooter-starwish.json](./148178-rpg-shooter-starwish.json) |
 | RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
 | RPG Survivors | 282947 | [282947-rpg-survivors.json](./282947-rpg-survivors.json) |
+| RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
 | RPG Trifecta Pack | 80266 | [80266-rpg-trifecta-pack.json](./80266-rpg-trifecta-pack.json) |
 | RPG Tsukuuru 2 | 63501 | [63501-rpg-tsukuuru-2.json](./63501-rpg-tsukuuru-2.json) |
