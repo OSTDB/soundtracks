@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Strike | 256994 | [256994-unreal-strike.json](./256994-unreal-strike.json) |
 | Unreal Tournament | 15263 | [15263-unreal-tournament.json](./15263-unreal-tournament.json) |
 | Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
+| Unreal Tournament 2004: DVD Special Edition | 422337 | [422337-unreal-tournament-2004-dvd-special-edition.json](./422337-unreal-tournament-2004-dvd-special-edition.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unreal Tournament III | 928 | [928-unreal-tournament-iii.json](./928-unreal-tournament-iii.json) |
 | Unreal Tournament III: Black Edition | 46624 | [46624-unreal-tournament-iii-black-edition.json](./46624-unreal-tournament-iii-black-edition.json) |
@@ -3850,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
 | Uridongne Goyangi Chrreul Joahae: Gillyangi Meokbang Choseongkwijeu | 221313 | [221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json](./221313-uridongne-goyangi-chrreul-joahae-gillyangi-meokbang-choseongkwijeu.json) |
+| Uriel OS | 422350 | [422350-uriel-os.json](./422350-uriel-os.json) |
 | Uriel's Chasm | 9733 | [9733-uriels-chasm.json](./9733-uriels-chasm.json) |
 | Uriel's Chasm 2: את | 27004 | [27004-uriels-chasm-2.json](./27004-uriels-chasm-2.json) |
 | Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
