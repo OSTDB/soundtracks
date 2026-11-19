@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinophobia | 375931 | [375931-kinophobia.json](./375931-kinophobia.json) |
 | KinPath | 354897 | [354897-kinpath.json](./354897-kinpath.json) |
 | Kinshin Ingo Doteigari | 108945 | [108945-kinshin-ingo-doteigari.json](./108945-kinshin-ingo-doteigari.json) |
+| Kinsoku Ryokan | 426561 | [426561-kinsoku-ryokan.json](./426561-kinsoku-ryokan.json) |
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kint | 402074 | [402074-kint.json](./402074-kint.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
