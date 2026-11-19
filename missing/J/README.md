@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Generation | 74995 | [74995-jump-generation.json](./74995-jump-generation.json) |
 | Jump Greed | 363563 | [363563-jump-greed.json](./363563-jump-greed.json) |
 | Jump Gunners | 75296 | [75296-jump-gunners.json](./75296-jump-gunners.json) |
+| Jump Guy | 424197 | [424197-jump-guy.json](./424197-jump-guy.json) |
 | Jump Heading | 206555 | [206555-jump-heading.json](./206555-jump-heading.json) |
 | Jump Heat | 391104 | [391104-jump-heat.json](./391104-jump-heat.json) |
 | Jump Hero | 137956 | [137956-jump-hero.json](./137956-jump-hero.json) |
