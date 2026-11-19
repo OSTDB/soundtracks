@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf Clicker: Grow Your Green Thumb! | 340908 | [340908-leaf-clicker-grow-your-green-thumb.json](./340908-leaf-clicker-grow-your-green-thumb.json) |
 | Leaf Fragments | 253649 | [253649-leaf-fragments.json](./253649-leaf-fragments.json) |
 | Leaf It Alone | 376206 | [376206-leaf-it-alone.json](./376206-leaf-it-alone.json) |
+| Leaf It Out | 420019 | [420019-leaf-it-out.json](./420019-leaf-it-out.json) |
 | Leaf Me Alone | 168597 | [168597-leaf-me-alone.json](./168597-leaf-me-alone.json) |
 | Leaf Me Alone | 408086 | [408086-leaf-me-alone.json](./408086-leaf-me-alone.json) |
 | Leaf on the Wind | 97216 | [97216-leaf-on-the-wind.json](./97216-leaf-on-the-wind.json) |
@@ -2436,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
 | Leaflup's Candy Hunt | 420024 | [420024-leaflups-candy-hunt.json](./420024-leaflups-candy-hunt.json) |
 | Leaforia | 339162 | [339162-leaforia.json](./339162-leaforia.json) |
+| Leafscape | 420020 | [420020-leafscape.json](./420020-leafscape.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Corner | 363341 | [363341-leafy-corner.json](./363341-leafy-corner.json) |
 | Leafy Greenz | 404050 | [404050-leafy-greenz.json](./404050-leafy-greenz.json) |
@@ -3320,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Gondwana | 157467 | [157467-legends-of-gondwana.json](./157467-legends-of-gondwana.json) |
 | Legends of Haired Pyra | 251130 | [251130-legends-of-haired-pyra.json](./251130-legends-of-haired-pyra.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
+| Legends of Hearts | 419546 | [419546-legends-of-hearts.json](./419546-legends-of-hearts.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
 | Legends of Hiro | 379278 | [379278-legends-of-hiro.json](./379278-legends-of-hiro.json) |
@@ -8388,6 +8391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
 | LongHead | 223742 | [223742-longhead.json](./223742-longhead.json) |
+| Longju | 419576 | [419576-longju.json](./419576-longju.json) |
 | Longjuice Squeeze | 325328 | [325328-longjuice-squeeze.json](./325328-longjuice-squeeze.json) |
 | Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
 | Longmen | 352317 | [352317-longmen.json](./352317-longmen.json) |
