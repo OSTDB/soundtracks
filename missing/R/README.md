@@ -4174,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recordeca | 364689 | [364689-recordeca.json](./364689-recordeca.json) |
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
 | Recording the Predestined Time | 135013 | [135013-recording-the-predestined-time.json](./135013-recording-the-predestined-time.json) |
+| Records Master | 426579 | [426579-records-master.json](./426579-records-master.json) |
 | Records of the Flycatcher | 319803 | [319803-records-of-the-flycatcher.json](./319803-records-of-the-flycatcher.json) |
 | Records of Westarea War | 389186 | [389186-records-of-westarea-war.json](./389186-records-of-westarea-war.json) |
 | ReCore | 11131 | [11131-recore.json](./11131-recore.json) |
@@ -4295,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Evolved | 186351 | [186351-red-ball-evolved.json](./186351-red-ball-evolved.json) |
+| Red Ball Forever | 426547 | [426547-red-ball-forever.json](./426547-red-ball-forever.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
 | Red Baron | 148139 | [148139-red-baron.json](./148139-red-baron.json) |
@@ -12668,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 2 | 274244 | [274244-rose-guns-days-season-2.json](./274244-rose-guns-days-season-2.json) |
 | Rose Guns Days: Season 2 | 408960 | [408960-rose-guns-days-season-2.json](./408960-rose-guns-days-season-2.json) |
 | Rose Guns Days: Season 3 | 274246 | [274246-rose-guns-days-season-3.json](./274246-rose-guns-days-season-3.json) |
+| Rose Guns Days: Season 3 | 426554 | [426554-rose-guns-days-season-3.json](./426554-rose-guns-days-season-3.json) |
 | Rose Guns Days: The Best | 274250 | [274250-rose-guns-days-the-best.json](./274250-rose-guns-days-the-best.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
