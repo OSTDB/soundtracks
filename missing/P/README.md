@@ -16763,6 +16763,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents: NIS Classics Vol 1 | 144217 | [144217-prinny-presents-nis-classics-vol-1.json](./144217-prinny-presents-nis-classics-vol-1.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 1 - Limited Edition | 165450 | [165450-prinny-presents-nis-classics-vol-1-limited-edition.json](./165450-prinny-presents-nis-classics-vol-1-limited-edition.json) |
+| Prinny Presents: NIS Classics Vol 2 | 170033 | [170033-prinny-presents-nis-classics-vol-2.json](./170033-prinny-presents-nis-classics-vol-2.json) |
+| Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Prinny Presents: NIS Classics Vol 3 - Deluxe Edition | 197610 | [197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json](./197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
 | Prinny: Can I Really Be the Hero? | 19101 | [19101-prinny-can-i-really-be-the-hero.json](./19101-prinny-can-i-really-be-the-hero.json) |
@@ -18790,6 +18792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
 | Prom Queen Girl - Date Night | 101645 | [101645-prom-queen-girl-date-night.json](./101645-prom-queen-girl-date-night.json) |
 | Promba | 421272 | [421272-promba.json](./421272-promba.json) |
+| Promenade | 181162 | [181162-promenade.json](./181162-promenade.json) |
 | Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
