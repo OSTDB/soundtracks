@@ -7330,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
+| Demon Balls | 425888 | [425888-demon-balls.json](./425888-demon-balls.json) |
 | Demon Blade | 235012 | [235012-demon-blade.json](./235012-demon-blade.json) |
 | Demon Blade VR | 68189 | [68189-demon-blade-vr.json](./68189-demon-blade-vr.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
@@ -14145,6 +14146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominoes 3D Simulator | 192488 | [192488-dominoes-3d-simulator.json](./192488-dominoes-3d-simulator.json) |
 | Dominoes Café | 204967 | [204967-dominoes-cafe.json](./204967-dominoes-cafe.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
+| Dominoes Together | 425903 | [425903-dominoes-together.json](./425903-dominoes-together.json) |
 | Dominoes: Classic Tile Games | 415264 | [415264-dominoes-classic-tile-games.json](./415264-dominoes-classic-tile-games.json) |
 | Dominoid | 346641 | [346641-dominoid.json](./346641-dominoid.json) |
 | Dominoid | 82560 | [82560-dominoid.json](./82560-dominoid.json) |
