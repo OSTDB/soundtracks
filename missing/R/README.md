@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Tide | 391177 | [391177-red-tide.json](./391177-red-tide.json) |
 | Red Tie Miner: Zombie | 65372 | [65372-red-tie-miner-zombie.json](./65372-red-tie-miner-zombie.json) |
 | Red Tie Runner | 265720 | [265720-red-tie-runner.json](./265720-red-tie-runner.json) |
+| Red Timewarp: Beyond Reality | 423561 | [423561-red-timewarp-beyond-reality.json](./423561-red-timewarp-beyond-reality.json) |
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
@@ -11736,6 +11737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
 | Roll Control | 158258 | [158258-roll-control.json](./158258-roll-control.json) |
+| Roll Dice no Die | 423583 | [423583-roll-dice-no-die.json](./423583-roll-dice-no-die.json) |
 | Roll Five | 305970 | [305970-roll-five.json](./305970-roll-five.json) |
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll For Initiative | 193644 | [193644-roll-for-initiative.json](./193644-roll-for-initiative.json) |
@@ -11892,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollers of the Realm | 16823 | [16823-rollers-of-the-realm.json](./16823-rollers-of-the-realm.json) |
 | Rollers of the Realm: Reunion | 151943 | [151943-rollers-of-the-realm-reunion.json](./151943-rollers-of-the-realm-reunion.json) |
 | Rolley-Ball | 279910 | [279910-rolley-ball.json](./279910-rolley-ball.json) |
+| Rollfall: Quest of Acceleration | 423612 | [423612-rollfall-quest-of-acceleration.json](./423612-rollfall-quest-of-acceleration.json) |
 | Rollick N' Roll | 339645 | [339645-rollick-n-roll.json](./339645-rollick-n-roll.json) |
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollie Panda Hat Edition | 105672 | [105672-rollie-panda-hat-edition.json](./105672-rollie-panda-hat-edition.json) |
@@ -14227,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Jade | 77572 | [77572-rune-jade.json](./77572-rune-jade.json) |
 | Rune Knights | 138412 | [138412-rune-knights.json](./138412-rune-knights.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
+| Rune Log | 423611 | [423611-rune-log.json](./423611-rune-log.json) |
 | Rune Lord | 117609 | [117609-rune-lord.json](./117609-rune-lord.json) |
 | Rune Magic HD | 103734 | [103734-rune-magic-hd.json](./103734-rune-magic-hd.json) |
 | Rune Master | 41669 | [41669-rune-master.json](./41669-rune-master.json) |
