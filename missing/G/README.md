@@ -4400,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Party: Nemuri-hime | 308873 | [308873-ghost-party-nemuri-hime.json](./308873-ghost-party-nemuri-hime.json) |
 | Ghost Patrol VR | 135117 | [135117-ghost-patrol-vr.json](./135117-ghost-patrol-vr.json) |
 | Ghost Pilots | 39734 | [39734-ghost-pilots.json](./39734-ghost-pilots.json) |
+| Ghost Pirates of Vooju Island | 35917 | [35917-ghost-pirates-of-vooju-island.json](./35917-ghost-pirates-of-vooju-island.json) |
 | Ghost Platform | 404371 | [404371-ghost-platform.json](./404371-ghost-platform.json) |
 | Ghost Platoon | 84060 | [84060-ghost-platoon.json](./84060-ghost-platoon.json) |
 | Ghost Pop! | 96998 | [96998-ghost-pop.json](./96998-ghost-pop.json) |
@@ -8975,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Chase: Dimensional Chaser | 101038 | [101038-grand-chase-dimensional-chaser.json](./101038-grand-chase-dimensional-chaser.json) |
 | Grand Circuit | 305817 | [305817-grand-circuit.json](./305817-grand-circuit.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
+| Grand Class Melee 2 | 36014 | [36014-grand-class-melee-2.json](./36014-grand-class-melee-2.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Classic Auto | 361359 | [361359-grand-classic-auto.json](./361359-grand-classic-auto.json) |
 | Grand Containment Sector 4 | 394943 | [394943-grand-containment-sector-4.json](./394943-grand-containment-sector-4.json) |
@@ -9454,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gratis | 320624 | [320624-gratis.json](./320624-gratis.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
 | Gratuitous Space Battles | 6256 | [6256-gratuitous-space-battles.json](./6256-gratuitous-space-battles.json) |
+| Gratuitous Space Battles 2 | 35873 | [35873-gratuitous-space-battles-2.json](./35873-gratuitous-space-battles-2.json) |
 | Gratuitous Space Battles: Galactic Conquest | 164341 | [164341-gratuitous-space-battles-galactic-conquest.json](./164341-gratuitous-space-battles-galactic-conquest.json) |
 | Gratuitous Space Battles: The Nomads | 164339 | [164339-gratuitous-space-battles-the-nomads.json](./164339-gratuitous-space-battles-the-nomads.json) |
 | Gratuitous Space Battles: The Order | 164342 | [164342-gratuitous-space-battles-the-order.json](./164342-gratuitous-space-battles-the-order.json) |
@@ -12621,6 +12624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunGuru | 250682 | [250682-gunguru.json](./250682-gunguru.json) |
 | Gunhawk | 339018 | [339018-gunhawk.json](./339018-gunhawk.json) |
 | Gunhead | 76062 | [76062-gunhead.json](./76062-gunhead.json) |
+| Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
