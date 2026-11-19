@@ -13554,6 +13554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff 'N' Tumble: Mayhem | 195873 | [195873-ruff-n-tumble-mayhem.json](./195873-ruff-n-tumble-mayhem.json) |
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
+| Ruff Day | 425762 | [425762-ruff-day.json](./425762-ruff-day.json) |
 | Ruff Day at the Office | 334554 | [334554-ruff-day-at-the-office.json](./334554-ruff-day-at-the-office.json) |
 | Ruff Ghanor | 271605 | [271605-ruff-ghanor.json](./271605-ruff-ghanor.json) |
 | Ruff Night at the Gallery | 141316 | [141316-ruff-night-at-the-gallery.json](./141316-ruff-night-at-the-gallery.json) |
