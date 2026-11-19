@@ -6920,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
 | Settle Gliese | 249046 | [249046-settle-gliese.json](./249046-settle-gliese.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
+| Settled At Sea | 423028 | [423028-settled-at-sea.json](./423028-settled-at-sea.json) |
 | Settlement Survival | 158413 | [158413-settlement-survival.json](./158413-settlement-survival.json) |
 | Settlement Survival: Tourism | 259296 | [259296-settlement-survival-tourism.json](./259296-settlement-survival-tourism.json) |
 | Settlement Zero | 114573 | [114573-settlement-zero.json](./114573-settlement-zero.json) |
@@ -15750,6 +15751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
 | Slime Shot Adventure | 375696 | [375696-slime-shot-adventure.json](./375696-slime-shot-adventure.json) |
 | Slime Siege | 262741 | [262741-slime-siege.json](./262741-slime-siege.json) |
+| Slime Simulator | 422997 | [422997-slime-simulator.json](./422997-slime-simulator.json) |
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
 | Slime Slayer | 147607 | [147607-slime-slayer.json](./147607-slime-slayer.json) |
@@ -39489,6 +39491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's guilt | 253642 | [253642-survivors-guilt.json](./253642-survivors-guilt.json) |
 | Survivor's Guilt: Survival | 252947 | [252947-survivors-guilt-survival.json](./252947-survivors-guilt-survival.json) |
 | Survivor's Log: N17 Shelter | 423335 | [423335-survivors-log-n17-shelter.json](./423335-survivors-log-n17-shelter.json) |
+| Survivor's Notes | 422990 | [422990-survivors-notes.json](./422990-survivors-notes.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
 | Survivors | 223287 | [223287-survivors.json](./223287-survivors.json) |
 | Survivors | 265811 | [265811-survivors.json](./265811-survivors.json) |
