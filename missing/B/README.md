@@ -17545,6 +17545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeders' Cup World Thoroughbred Championships | 47339 | [47339-breeders-cup-world-thoroughbred-championships.json](./47339-breeders-cup-world-thoroughbred-championships.json) |
 | Breeding City Welcomes you | 383916 | [383916-breeding-city-welcomes-you.json](./383916-breeding-city-welcomes-you.json) |
 | Breeding Grounds | 397451 | [397451-breeding-grounds.json](./397451-breeding-grounds.json) |
+| Breeding Village | 427786 | [427786-breeding-village.json](./427786-breeding-village.json) |
 | Breekha | 278274 | [278274-breekha.json](./278274-breekha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeza Budgie Bill | 122608 | [122608-breeza-budgie-bill.json](./122608-breeza-budgie-bill.json) |
@@ -18769,6 +18770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BTS World | 119235 | [119235-bts-world.json](./119235-bts-world.json) |
 | BTW: Puzzle Maze | 134137 | [134137-btw-puzzle-maze.json](./134137-btw-puzzle-maze.json) |
 | Bù Shàngàn Bù Liànài | 373701 | [373701-bu-shangan-bu-lianai.json](./373701-bu-shangan-bu-lianai.json) |
+| Bù Zhīdào Qǔ Shénme Míngzì | 427764 | [427764-bu-zhidao-qu-shenme-mingzi.json](./427764-bu-zhidao-qu-shenme-mingzi.json) |
 | Bub Block | 157985 | [157985-bub-block.json](./157985-bub-block.json) |
 | Bub-O Burst | 319075 | [319075-bub-o-burst.json](./319075-bub-o-burst.json) |
 | Bub-O Collect! | 201982 | [201982-bub-o-collect.json](./201982-bub-o-collect.json) |
