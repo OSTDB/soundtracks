@@ -4942,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground | 356383 | [356383-battleground.json](./356383-battleground.json) |
+| Battleground 2: Gettysburg | 22615 | [22615-battleground-2-gettysburg.json](./22615-battleground-2-gettysburg.json) |
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
@@ -8424,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 8 - Collector's Edition | 336412 | [336412-big-adventure-trip-to-europe-8-collectors-edition.json](./336412-big-adventure-trip-to-europe-8-collectors-edition.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
+| Big Air | 22826 | [22826-big-air.json](./22826-big-air.json) |
 | Big Air Freestyle | 3808 | [3808-big-air-freestyle.json](./3808-big-air-freestyle.json) |
 | Big Air Wakeboarding | 64242 | [64242-big-air-wakeboarding.json](./64242-big-air-wakeboarding.json) |
 | Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
@@ -11135,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Processed | 350551 | [350551-blast-processed.json](./350551-blast-processed.json) |
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Racer | 379261 | [379261-blast-racer.json](./379261-blast-racer.json) |
+| Blast Radius | 22829 | [22829-blast-radius.json](./22829-blast-radius.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
