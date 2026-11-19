@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad-Challenge 07 | 93235 | [93235-rad-challenge-07.json](./93235-rad-challenge-07.json) |
+| RAD: Ascension | 428211 | [428211-rad-ascension.json](./428211-rad-ascension.json) |
 | Rad: Before the Adventure | 183470 | [183470-rad-before-the-adventure.json](./183470-rad-before-the-adventure.json) |
 | Rada Quest | 239367 | [239367-rada-quest.json](./239367-rada-quest.json) |
 | Radac: Tailor-Made | 48821 | [48821-radac-tailor-made.json](./48821-radac-tailor-made.json) |
@@ -8759,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringwold: The Last Collector | 414275 | [414275-ringwold-the-last-collector.json](./414275-ringwold-the-last-collector.json) |
 | Ringworld: Revenge of the Patriarch | 46727 | [46727-ringworld-revenge-of-the-patriarch.json](./46727-ringworld-revenge-of-the-patriarch.json) |
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
+| Rinha de Waifus | 428215 | [428215-rinha-de-waifus.json](./428215-rinha-de-waifus.json) |
 | Rinji Shuuden | 222085 | [222085-rinji-shuuden.json](./222085-rinji-shuuden.json) |
 | Rinkan Gakkou | 77449 | [77449-rinkan-gakkou.json](./77449-rinkan-gakkou.json) |
 | Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
