@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Break Game | 310454 | [310454-same-break-game.json](./310454-same-break-game.json) |
 | Same Day Delivery | 276986 | [276986-same-day-delivery.json](./276986-same-day-delivery.json) |
+| Same Day Tycoon | 428446 | [428446-same-day-tycoon.json](./428446-same-day-tycoon.json) |
 | Same Game and Robots | 41464 | [41464-same-game-and-robots.json](./41464-same-game-and-robots.json) |
 | Same Game for Mac | 80754 | [80754-same-game-for-mac.json](./80754-same-game-for-mac.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
@@ -13443,6 +13444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
 | Sip Fisher | 346401 | [346401-sip-fisher.json](./346401-sip-fisher.json) |
+| Sip of Poison | 428447 | [428447-sip-of-poison.json](./428447-sip-of-poison.json) |
 | Sip Or Die | 379057 | [379057-sip-or-die.json](./379057-sip-or-die.json) |
 | Sipher Odyssey | 293255 | [293255-sipher-odyssey.json](./293255-sipher-odyssey.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
@@ -29003,6 +29005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlost: Space Shooter | 219949 | [219949-starlost-space-shooter.json](./219949-starlost-space-shooter.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
 | Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
+| Starmadillo | 428205 | [428205-starmadillo.json](./428205-starmadillo.json) |
 | Starmageddon 2 | 27251 | [27251-starmageddon-2.json](./27251-starmageddon-2.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
