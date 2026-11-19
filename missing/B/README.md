@@ -6165,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat Survival: Expansion | 261047 | [261047-beat-survival-expansion.json](./261047-beat-survival-expansion.json) |
 | Beat Swiper | 360791 | [360791-beat-swiper.json](./360791-beat-swiper.json) |
+| Beat Ten | 424792 | [424792-beat-ten.json](./424792-beat-ten.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
 | Beat the Beat Up! | 147555 | [147555-beat-the-beat-up.json](./147555-beat-the-beat-up.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatPunk! | 235037 | [235037-beatpunk.json](./235037-beatpunk.json) |
 | BeatQuest: Rhythm Riders | 353570 | [353570-beatquest-rhythm-riders.json](./353570-beatquest-rhythm-riders.json) |
 | Beatrect | 311897 | [311897-beatrect.json](./311897-beatrect.json) |
+| Beatrice | 424783 | [424783-beatrice.json](./424783-beatrice.json) |
 | Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beatris | 75949 | [75949-beatris.json](./75949-beatris.json) |
@@ -10371,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Market | 52471 | [52471-black-market.json](./52471-black-market.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
+| Black Market Space Station Shop Simulator | 424785 | [424785-black-market-space-station-shop-simulator.json](./424785-black-market-space-station-shop-simulator.json) |
 | Black Matrix Zero | 49419 | [49419-black-matrix-zero.json](./49419-black-matrix-zero.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Mesa: Azure Sheep | 221556 | [221556-black-mesa-azure-sheep.json](./221556-black-mesa-azure-sheep.json) |
