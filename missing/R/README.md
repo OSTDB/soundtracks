@@ -1217,7 +1217,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders Sphere 4th | 59176 | [59176-raiders-sphere-4th.json](./59176-raiders-sphere-4th.json) |
 | Raiders took my dog | 101835 | [101835-raiders-took-my-dog.json](./101835-raiders-took-my-dog.json) |
 | Raiders! Forsaken Earth | 153676 | [153676-raiders-forsaken-earth.json](./153676-raiders-forsaken-earth.json) |
+| RaidersSphere3rd | 392444 | [392444-raiderssphere3rd.json](./392444-raiderssphere3rd.json) |
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
+| RaidersSphereSecond | 392469 | [392469-raidersspheresecond.json](./392469-raidersspheresecond.json) |
 | RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
 | Raiding Area 51: Break out Waifu | 389798 | [389798-raiding-area-51-break-out-waifu.json](./389798-raiding-area-51-break-out-waifu.json) |
@@ -1547,7 +1549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands: Story of the Bubble Bobble 2 | 45684 | [45684-rainbow-islands-story-of-the-bubble-bobble-2.json](./45684-rainbow-islands-story-of-the-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 316031 | [316031-rainbow-islands-the-story-of-bubble-bobble-2.json](./316031-rainbow-islands-the-story-of-bubble-bobble-2.json) |
 | Rainbow Islands: The Story of Bubble Bobble 2 | 4405 | [4405-rainbow-islands-the-story-of-bubble-bobble-2.json](./4405-rainbow-islands-the-story-of-bubble-bobble-2.json) |
-| Rainbow Islands: Towering Adventure! | 21241 | [21241-rainbow-islands-towering-adventure.json](./21241-rainbow-islands-towering-adventure.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
 | Rainbow Keys Plus | 130890 | [130890-rainbow-keys-plus.json](./130890-rainbow-keys-plus.json) |
 | Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
@@ -2350,7 +2351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rashomon | 135602 | [135602-rashomon.json](./135602-rashomon.json) |
 | Rashomon of Shinjuku | 225314 | [225314-rashomon-of-shinjuku.json](./225314-rashomon-of-shinjuku.json) |
 | Raskopnik: The Trench Warrior | 186766 | [186766-raskopnik-the-trench-warrior.json](./186766-raskopnik-the-trench-warrior.json) |
-| Raskulls | 21168 | [21168-raskulls.json](./21168-raskulls.json) |
 | Rasmus Klump i Pingonesien | 118914 | [118914-rasmus-klump-i-pingonesien.json](./118914-rasmus-klump-i-pingonesien.json) |
 | Rasmus Klump som landpost | 91454 | [91454-rasmus-klump-som-landpost.json](./91454-rasmus-klump-som-landpost.json) |
 | Rasmus Klump: Fnullers Isbod | 286120 | [286120-rasmus-klump-fnullers-isbod.json](./286120-rasmus-klump-fnullers-isbod.json) |
@@ -4309,7 +4309,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Baron | 1934 | [1934-red-baron.json](./1934-red-baron.json) |
 | Red Baron / Panzer Attack | 169267 | [169267-red-baron-panzer-attack.json](./169267-red-baron-panzer-attack.json) |
 | Red Baron 3D | 50124 | [50124-red-baron-3d.json](./50124-red-baron-3d.json) |
-| Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Baron Pack | 30255 | [30255-red-baron-pack.json](./30255-red-baron-pack.json) |
 | Red Baron Squadron | 209253 | [209253-red-baron-squadron.json](./209253-red-baron-squadron.json) |
@@ -6477,7 +6476,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Village: Winters' Expansion - Cloud Version | 222561 | [222561-resident-evil-village-winters-expansion-cloud-version.json](./222561-resident-evil-village-winters-expansion-cloud-version.json) |
 | Resident Evil Zero | 970 | [970-resident-evil-zero.json](./970-resident-evil-zero.json) |
 | Resident Evil: Barry's Mod | 404003 | [404003-resident-evil-barrys-mod.json](./404003-resident-evil-barrys-mod.json) |
-| Resident Evil: Chronicles HD Collection | 21068 | [21068-resident-evil-chronicles-hd-collection.json](./21068-resident-evil-chronicles-hd-collection.json) |
 | Resident Evil: Code - Madman | 387029 | [387029-resident-evil-code-madman.json](./387029-resident-evil-code-madman.json) |
 | Resident Evil: Cold Blood | 222311 | [222311-resident-evil-cold-blood.json](./222311-resident-evil-cold-blood.json) |
 | Resident Evil: Confidential Report | 251364 | [251364-resident-evil-confidential-report.json](./251364-resident-evil-confidential-report.json) |
@@ -6958,7 +6956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pistol Hero | 337891 | [337891-retro-pistol-hero.json](./337891-retro-pistol-hero.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
 | Retro Pixel Racers | 117835 | [117835-retro-pixel-racers.json](./117835-retro-pixel-racers.json) |
-| Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
 | Retro Quiz Tower | 251378 | [251378-retro-quiz-tower.json](./251378-retro-quiz-tower.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
@@ -8943,7 +8940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight United: Legendary Bombers | 162753 | [162753-rise-of-flight-united-legendary-bombers.json](./162753-rise-of-flight-united-legendary-bombers.json) |
 | Rise of Flight: Channel Battles Edition | 54322 | [54322-rise-of-flight-channel-battles-edition.json](./54322-rise-of-flight-channel-battles-edition.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
-| Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
 | Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
 | Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
@@ -9885,7 +9881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobBred: Funny Chat | 412618 | [412618-robbred-funny-chat.json](./412618-robbred-funny-chat.json) |
 | Robby's Adventure | 55806 | [55806-robbys-adventure.json](./55806-robbys-adventure.json) |
 | Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
-| Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert E. Lee: Civil War General | 51377 | [51377-robert-e-lee-civil-war-general.json](./51377-robert-e-lee-civil-war-general.json) |
 | Robert Ludlum's The Bourne Conspiracy | 1256 | [1256-robert-ludlums-the-bourne-conspiracy.json](./1256-robert-ludlums-the-bourne-conspiracy.json) |
 | Robert Ludlum's The Bourne Conspiracy: Revived | 428983 | [428983-robert-ludlums-the-bourne-conspiracy-revived.json](./428983-robert-ludlums-the-bourne-conspiracy-revived.json) |
@@ -10837,7 +10832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rats | 319519 | [319519-rocket-rats.json](./319519-rocket-rats.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot 3D | 106261 | [106261-rocket-riot-3d.json](./106261-rocket-riot-3d.json) |
-| Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
 | Rocket Riot: Collector's Edition | 53521 | [53521-rocket-riot-collectors-edition.json](./53521-rocket-riot-collectors-edition.json) |
 | Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
 | Rocket Robber | 106218 | [106218-rocket-robber.json](./106218-rocket-robber.json) |
@@ -11541,7 +11535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper | 36881 | [36881-rogue-trooper.json](./36881-rogue-trooper.json) |
 | Rogue Trooper | 5126 | [5126-rogue-trooper.json](./5126-rogue-trooper.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
-| Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Trooper: Redux | 27519 | [27519-rogue-trooper-redux.json](./27519-rogue-trooper-redux.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
 | Rogue Vault | 420645 | [420645-rogue-vault.json](./420645-rogue-vault.json) |
@@ -12354,7 +12347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
 | Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
-| Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Roojack | 75627 | [75627-roojack.json](./75627-roojack.json) |
 | Rook | 129441 | [129441-rook.json](./129441-rook.json) |
 | Rook | 359282 | [359282-rook.json](./359282-rook.json) |
@@ -12850,7 +12842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotoBrix | 125079 | [125079-rotobrix.json](./125079-rotobrix.json) |
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
-| Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
 | Rotolla Mono | 413020 | [413020-rotolla-mono.json](./413020-rotolla-mono.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
@@ -14978,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryn: And the Thread of Life | 378245 | [378245-ryn-and-the-thread-of-life.json](./378245-ryn-and-the-thread-of-life.json) |
+| Ryne-Arca | 372893 | [372893-ryne-arca.json](./372893-ryne-arca.json) |
 | Rynn's Adventure: Trouble in the Enchanted Forest | 34013 | [34013-rynns-adventure-trouble-in-the-enchanted-forest.json](./34013-rynns-adventure-trouble-in-the-enchanted-forest.json) |
 | Ryo & Gears | 340677 | [340677-ryo-and-gears.json](./340677-ryo-and-gears.json) |
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
