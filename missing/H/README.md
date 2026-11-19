@@ -7064,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Never Die | 425887 | [425887-heroes-never-die.json](./425887-heroes-never-die.json) |
 | Heroes Never Die! | 227523 | [227523-heroes-never-die.json](./227523-heroes-never-die.json) |
 | Heroes Never Lose: Professor Puzzler's Perplexing Ploy | 11330 | [11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json](./11330-heroes-never-lose-professor-puzzlers-perplexing-ploy.json) |
+| Heroes Never Rest | 428451 | [428451-heroes-never-rest.json](./428451-heroes-never-rest.json) |
 | Heroes of 71: Retaliation | 196358 | [196358-heroes-of-71-retaliation.json](./196358-heroes-of-71-retaliation.json) |
 | Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of a Broken Land 2 | 114089 | [114089-heroes-of-a-broken-land-2.json](./114089-heroes-of-a-broken-land-2.json) |
