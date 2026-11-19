@@ -9083,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen Dead | 255404 | [255404-risen-dead.json](./255404-risen-dead.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
+| Risen Kingdoms | 176166 | [176166-risen-kingdoms.json](./176166-risen-kingdoms.json) |
 | Riseon | 345831 | [345831-riseon.json](./345831-riseon.json) |
 | Riser of Babel | 301084 | [301084-riser-of-babel.json](./301084-riser-of-babel.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
