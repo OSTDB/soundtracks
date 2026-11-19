@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Industry | 84033 | [84033-element-industry.json](./84033-element-industry.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
+| Element Space | 106401 | [106401-element-space.json](./106401-element-space.json) |
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
 | Element TD 2: Mazing Expansion | 228198 | [228198-element-td-2-mazing-expansion.json](./228198-element-td-2-mazing-expansion.json) |
 | Element X | 160009 | [160009-element-x.json](./160009-element-x.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Harvest | 423650 | [423650-endless-harvest.json](./423650-endless-harvest.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
+| Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Horizons | 334382 | [334382-endless-horizons.json](./334382-endless-horizons.json) |
 | Endless Immortal Journey | 282178 | [282178-endless-immortal-journey.json](./282178-endless-immortal-journey.json) |
