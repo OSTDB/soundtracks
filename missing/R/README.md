@@ -9089,6 +9089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Risen 3: Titan Lords - Complete Edition | 51872 | [51872-risen-3-titan-lords-complete-edition.json](./51872-risen-3-titan-lords-complete-edition.json) |
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
+| Risen Blade | 419584 | [419584-risen-blade.json](./419584-risen-blade.json) |
 | Risen Dead | 255404 | [255404-risen-dead.json](./255404-risen-dead.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
