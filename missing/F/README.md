@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail Factory | 75993 | [75993-fail-factory.json](./75993-fail-factory.json) |
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Fail Fail Succeed | 374651 | [374651-fail-fail-succeed.json](./374651-fail-fail-succeed.json) |
+| Fail Games | 428206 | [428206-fail-games.json](./428206-fail-games.json) |
 | Fail Hard | 39225 | [39225-fail-hard.json](./39225-fail-hard.json) |
 | Fail Run | 263855 | [263855-fail-run.json](./263855-fail-run.json) |
 | Fail to Win | 125929 | [125929-fail-to-win.json](./125929-fail-to-win.json) |
@@ -9340,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock | 177446 | [177446-flock.json](./177446-flock.json) |
 | Flock Around | 378224 | [378224-flock-around.json](./378224-flock-around.json) |
 | Flock Frenzy | 386259 | [386259-flock-frenzy.json](./386259-flock-frenzy.json) |
+| Flock Hunt | 428210 | [428210-flock-hunt.json](./428210-flock-hunt.json) |
 | Flock of Dogs | 108283 | [108283-flock-of-dogs.json](./108283-flock-of-dogs.json) |
 | Flock of the Low God VR | 244723 | [244723-flock-of-the-low-god-vr.json](./244723-flock-of-the-low-god-vr.json) |
 | Flock of the Seraphim | 385681 | [385681-flock-of-the-seraphim.json](./385681-flock-of-the-seraphim.json) |
@@ -12012,6 +12014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
 | Fortnite OG: Chapter 1 Season 8 | 398281 | [398281-fortnite-og-chapter-1-season-8.json](./398281-fortnite-og-chapter-1-season-8.json) |
 | Fortnite OG: Chapter 1 Season 9 | 409733 | [409733-fortnite-og-chapter-1-season-9.json](./409733-fortnite-og-chapter-1-season-9.json) |
+| Fortnite OG: Chapter 1 Season X | 428209 | [428209-fortnite-og-chapter-1-season-x.json](./428209-fortnite-og-chapter-1-season-x.json) |
 | Fortnite Reload | 324921 | [324921-fortnite-reload.json](./324921-fortnite-reload.json) |
 | Fortnite: Agency Renegades Pack | 325855 | [325855-fortnite-agency-renegades-pack.json](./325855-fortnite-agency-renegades-pack.json) |
 | Fortnite: Airphoria Pack | 260134 | [260134-fortnite-airphoria-pack.json](./260134-fortnite-airphoria-pack.json) |
