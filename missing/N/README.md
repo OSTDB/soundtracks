@@ -5658,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
 | Ninety-Six | 236649 | [236649-ninety-six.json](./236649-ninety-six.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
+| NinFit | 423615 | [423615-ninfit.json](./423615-ninfit.json) |
 | Ningakki XXVI FPS | 173205 | [173205-ningakki-xxvi-fps.json](./173205-ningakki-xxvi-fps.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
 | Ningen Tower Battle | 346018 | [346018-ningen-tower-battle.json](./346018-ningen-tower-battle.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
+| Noir | 423585 | [423585-noir.json](./423585-noir.json) |
 | Noir Bloom | 401461 | [401461-noir-bloom.json](./401461-noir-bloom.json) |
 | Noir Chronicles: City of Crime | 83606 | [83606-noir-chronicles-city-of-crime.json](./83606-noir-chronicles-city-of-crime.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
@@ -7379,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Art | 425117 | [425117-nonogram-art.json](./425117-nonogram-art.json) |
 | Nonogram Color | 249635 | [249635-nonogram-color.json](./249635-nonogram-color.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
+| Nonogram Detective | 423599 | [423599-nonogram-detective.json](./423599-nonogram-detective.json) |
 | Nonogram Galaxy | 145799 | [145799-nonogram-galaxy.json](./145799-nonogram-galaxy.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
 | Nonogram Halloween | 320428 | [320428-nonogram-halloween.json](./320428-nonogram-halloween.json) |
