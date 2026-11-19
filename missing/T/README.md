@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taikou Risshiden V | 172698 | [172698-taikou-risshiden-v.json](./172698-taikou-risshiden-v.json) |
 | Taikou Risshiden V DX | 191519 | [191519-taikou-risshiden-v-dx.json](./191519-taikou-risshiden-v-dx.json) |
 | TaikoVR | 116748 | [116748-taikovr.json](./116748-taikovr.json) |
+| Taiku Mansion | 31242 | [31242-taiku-mansion.json](./31242-taiku-mansion.json) |
 | Taikunda | 401731 | [401731-taikunda.json](./401731-taikunda.json) |
 | Taikyoku Igo: Goliath | 37797 | [37797-taikyoku-igo-goliath.json](./37797-taikyoku-igo-goliath.json) |
 | Taikyoku Igo: Heisei Kiin | 37534 | [37534-taikyoku-igo-heisei-kiin.json](./37534-taikyoku-igo-heisei-kiin.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taleans Hansel and Gretel story | 98575 | [98575-taleans-hansel-and-gretel-story.json](./98575-taleans-hansel-and-gretel-story.json) |
 | Talebuilder | 382305 | [382305-talebuilder.json](./382305-talebuilder.json) |
 | Talent Club: Match 3 Puzzle | 224939 | [224939-talent-club-match-3-puzzle.json](./224939-talent-club-match-3-puzzle.json) |
+| Talent Not Included | 32469 | [32469-talent-not-included.json](./32469-talent-not-included.json) |
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
@@ -5491,6 +5493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetraMage | 244712 | [244712-tetramage.json](./244712-tetramage.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraminos | 308977 | [308977-tetraminos.json](./308977-tetraminos.json) |
+| Tetraminos | 31013 | [31013-tetraminos.json](./31013-tetraminos.json) |
 | Tetramorph | 371029 | [371029-tetramorph.json](./371029-tetramorph.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
 | TetraPlinko | 408412 | [408412-tetraplinko.json](./408412-tetraplinko.json) |
@@ -6426,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aether: Life as a God | 96271 | [96271-the-aether-life-as-a-god.json](./96271-the-aether-life-as-a-god.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
+| The Afterglow of Grisaia | 32956 | [32956-the-afterglow-of-grisaia.json](./32956-the-afterglow-of-grisaia.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Aftermath | 209800 | [209800-the-aftermath.json](./209800-the-aftermath.json) |
 | The Aftermath: Unnatural Selection | 127011 | [127011-the-aftermath-unnatural-selection.json](./127011-the-aftermath-unnatural-selection.json) |
@@ -13556,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of Lamia | 34838 | [34838-the-land-of-lamia.json](./34838-the-land-of-lamia.json) |
 | The Land of Magic | 292338 | [292338-the-land-of-magic.json](./292338-the-land-of-magic.json) |
 | The Land of Morning Calm | 358888 | [358888-the-land-of-morning-calm.json](./358888-the-land-of-morning-calm.json) |
+| The Land of Pain | 30038 | [30038-the-land-of-pain.json](./30038-the-land-of-pain.json) |
 | The Land of Rest 1 | 346608 | [346608-the-land-of-rest-1.json](./346608-the-land-of-rest-1.json) |
 | The Land of Seidr | 275724 | [275724-the-land-of-seidr.json](./275724-the-land-of-seidr.json) |
 | The Land of Stuff | 386294 | [386294-the-land-of-stuff.json](./386294-the-land-of-stuff.json) |
@@ -15348,6 +15353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Madhouse: Kansen Yashiki | 173327 | [173327-the-madhouse-kansen-yashiki.json](./173327-the-madhouse-kansen-yashiki.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
 | The Madness of Death | 214182 | [214182-the-madness-of-death.json](./214182-the-madness-of-death.json) |
+| The Madness of Little Emma | 34077 | [34077-the-madness-of-little-emma.json](./34077-the-madness-of-little-emma.json) |
 | The Madness of Roland | 172036 | [172036-the-madness-of-roland.json](./172036-the-madness-of-roland.json) |
 | The Maestromusic | 306737 | [306737-the-maestromusic.json](./306737-the-maestromusic.json) |
 | The Maestros | 23940 | [23940-the-maestros.json](./23940-the-maestros.json) |
@@ -15655,6 +15661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
+| The Melody of Grisaia | 32910 | [32910-the-melody-of-grisaia.json](./32910-the-melody-of-grisaia.json) |
 | the Melody of Iris | 83976 | [83976-the-melody-of-iris.json](./83976-the-melody-of-iris.json) |
 | The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
 | The Melty Way | 378705 | [378705-the-melty-way.json](./378705-the-melty-way.json) |
@@ -17260,6 +17267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Precinct: Limited Edition | 424096 | [424096-the-precinct-limited-edition.json](./424096-the-precinct-limited-edition.json) |
 | The Predecessor | 382584 | [382584-the-predecessor.json](./382584-the-predecessor.json) |
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
+| The Preposterous Awesomeness of Everything | 33658 | [33658-the-preposterous-awesomeness-of-everything.json](./33658-the-preposterous-awesomeness-of-everything.json) |
 | The Prequel To Time | 273220 | [273220-the-prequel-to-time.json](./273220-the-prequel-to-time.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
 | The Preschoolers: Season 1 - Deluxe Edition | 226092 | [226092-the-preschoolers-season-1-deluxe-edition.json](./226092-the-preschoolers-season-1-deluxe-edition.json) |
@@ -18172,6 +18180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
 | The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
+| The Sad Story of Emmeline Burns | 33825 | [33825-the-sad-story-of-emmeline-burns.json](./33825-the-sad-story-of-emmeline-burns.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Saddle Club: Pine Hollow Gymkhana | 371829 | [371829-the-saddle-club-pine-hollow-gymkhana.json](./371829-the-saddle-club-pine-hollow-gymkhana.json) |
 | The Saddle Club: Willowbrook Stables | 163160 | [163160-the-saddle-club-willowbrook-stables.json](./163160-the-saddle-club-willowbrook-stables.json) |
@@ -18415,6 +18424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 2: Masked Intent | 26647 | [26647-the-secret-order-2-masked-intent.json](./26647-the-secret-order-2-masked-intent.json) |
 | The Secret Order 3: Ancient Times | 33639 | [33639-the-secret-order-3-ancient-times.json](./33639-the-secret-order-3-ancient-times.json) |
+| The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
 | The Secret Order 4: Beyond Time - Collector's Edition | 416241 | [416241-the-secret-order-4-beyond-time-collectors-edition.json](./416241-the-secret-order-4-beyond-time-collectors-edition.json) |
 | The Secret Order 5: The Buried Kingdom - Collector's Edition | 416243 | [416243-the-secret-order-5-the-buried-kingdom-collectors-edition.json](./416243-the-secret-order-5-the-buried-kingdom-collectors-edition.json) |
 | The Secret Order 6: Bloodline | 55697 | [55697-the-secret-order-6-bloodline.json](./55697-the-secret-order-6-bloodline.json) |
@@ -18627,6 +18637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows of Fallen City | 273599 | [273599-the-shadows-of-fallen-city.json](./273599-the-shadows-of-fallen-city.json) |
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
+| The Shadows of Pygmalion | 30693 | [30693-the-shadows-of-pygmalion.json](./30693-the-shadows-of-pygmalion.json) |
 | The Shadows of Sergoth | 107055 | [107055-the-shadows-of-sergoth.json](./107055-the-shadows-of-sergoth.json) |
 | The Shadows Over Lighthouse | 354737 | [354737-the-shadows-over-lighthouse.json](./354737-the-shadows-over-lighthouse.json) |
 | The Shadows That Linger | 185409 | [185409-the-shadows-that-linger.json](./185409-the-shadows-that-linger.json) |
@@ -21683,6 +21694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wire Man | 208641 | [208641-the-wire-man.json](./208641-the-wire-man.json) |
 | The Wired Action Bundle | 251280 | [251280-the-wired-action-bundle.json](./251280-the-wired-action-bundle.json) |
 | The Wired Narrative Bundle | 250173 | [250173-the-wired-narrative-bundle.json](./250173-the-wired-narrative-bundle.json) |
+| The Wisbey Mystery | 29880 | [29880-the-wisbey-mystery.json](./29880-the-wisbey-mystery.json) |
 | The Wisdom and/or Madness of Crowds | 102068 | [102068-the-wisdom-and-or-madness-of-crowds.json](./102068-the-wisdom-and-or-madness-of-crowds.json) |
 | The Wisdom of the Minotaur | 305257 | [305257-the-wisdom-of-the-minotaur.json](./305257-the-wisdom-of-the-minotaur.json) |
 | The Wish | 181937 | [181937-the-wish.json](./181937-the-wish.json) |
@@ -25979,6 +25991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt to Live | 51633 | [51633-tilt-to-live.json](./51633-tilt-to-live.json) |
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
+| Tiltagon | 33795 | [33795-tiltagon.json](./33795-tiltagon.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
 | Tilted | 261130 | [261130-tilted.json](./261130-tilted.json) |
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
@@ -35497,6 +35510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip to Europe 12: Romantic Tour - Collector's Edition | 398815 | [398815-trip-to-europe-12-romantic-tour-collectors-edition.json](./398815-trip-to-europe-12-romantic-tour-collectors-edition.json) |
 | Trip To Nonogram: Bali Ubud | 245375 | [245375-trip-to-nonogram-bali-ubud.json](./245375-trip-to-nonogram-bali-ubud.json) |
 | Trip to the Core | 399023 | [399023-trip-to-the-core.json](./399023-trip-to-the-core.json) |
+| Trip to Vinelands | 30865 | [30865-trip-to-vinelands.json](./30865-trip-to-vinelands.json) |
 | Trip Troupe | 181547 | [181547-trip-troupe.json](./181547-trip-troupe.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
 | Trip World DX | 263533 | [263533-trip-world-dx.json](./263533-trip-world-dx.json) |
@@ -37169,6 +37183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
 | Turbo Prop Racing | 44925 | [44925-turbo-prop-racing.json](./44925-turbo-prop-racing.json) |
+| Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Racing | 238801 | [238801-turbo-racing.json](./238801-turbo-racing.json) |
