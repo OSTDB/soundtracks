@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Wolf Trick | 135487 | [135487-wandering-wolf-trick.json](./135487-wandering-wolf-trick.json) |
 | Wanderjahr | 33693 | [33693-wanderjahr.json](./33693-wanderjahr.json) |
 | Wanderland | 30901 | [30901-wanderland.json](./30901-wanderland.json) |
+| Wanderland | 424236 | [424236-wanderland.json](./424236-wanderland.json) |
 | Wanderling | 334605 | [334605-wanderling.json](./334605-wanderling.json) |
 | Wanderlost | 145380 | [145380-wanderlost.json](./145380-wanderlost.json) |
 | Wanderlost | 225712 | [225712-wanderlost.json](./225712-wanderlost.json) |
@@ -5946,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Mars | 297984 | [297984-wild-mars.json](./297984-wild-mars.json) |
 | Wild Metal | 80092 | [80092-wild-metal.json](./80092-wild-metal.json) |
 | Wild Metal Country | 20132 | [20132-wild-metal-country.json](./20132-wild-metal-country.json) |
+| Wild Monkehs | 424227 | [424227-wild-monkehs.json](./424227-wild-monkehs.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild N Chill | 403353 | [403353-wild-n-chill.json](./403353-wild-n-chill.json) |
 | Wild Ones | 65950 | [65950-wild-ones.json](./65950-wild-ones.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfhound: The Last of the Grey Dogs | 250522 | [250522-wolfhound-the-last-of-the-grey-dogs.json](./250522-wolfhound-the-last-of-the-grey-dogs.json) |
 | Wolfhound: The Way of the Warrior | 250521 | [250521-wolfhound-the-way-of-the-warrior.json](./250521-wolfhound-the-way-of-the-warrior.json) |
 | Wolfie's Break Out | 161535 | [161535-wolfies-break-out.json](./161535-wolfies-break-out.json) |
+| Wolfight: Duel for the Win | 424178 | [424178-wolfight-duel-for-the-win.json](./424178-wolfight-duel-for-the-win.json) |
 | WolfKnights | 59930 | [59930-wolfknights.json](./59930-wolfknights.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
