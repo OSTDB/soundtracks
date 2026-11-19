@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.I. | 133481 | [133481-s-t-i.json](./133481-s-t-i.json) |
 | S.T.O.R.M. | 207113 | [207113-s-t-o-r-m.json](./207113-s-t-o-r-m.json) |
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
+| S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
 | S.U.B. | 69692 | [69692-s-u-b.json](./69692-s-u-b.json) |
 | S.U.D.O.K.U. | 264459 | [264459-s-u-d-o-k-u.json](./264459-s-u-d-o-k-u.json) |
@@ -12484,6 +12485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 64 | 1492 | [1492-simcity-64.json](./1492-simcity-64.json) |
 | SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
 | SimCity Classic | 138320 | [138320-simcity-classic.json](./138320-simcity-classic.json) |
+| SimCity Creator | 1493 | [1493-simcity-creator.json](./1493-simcity-creator.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity Deluxe | 351165 | [351165-simcity-deluxe.json](./351165-simcity-deluxe.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
@@ -23099,6 +23101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shuttle Mission 2007 | 65180 | [65180-space-shuttle-mission-2007.json](./65180-space-shuttle-mission-2007.json) |
 | Space Shuttle Mission Simulator: The Collector's Edition | 208862 | [208862-space-shuttle-mission-simulator-the-collectors-edition.json](./208862-space-shuttle-mission-simulator-the-collectors-edition.json) |
 | Space Shuttle Project | 48243 | [48243-space-shuttle-project.json](./48243-space-shuttle-project.json) |
+| Space Shuttle: A Journey Into Space | 12318 | [12318-space-shuttle-a-journey-into-space.json](./12318-space-shuttle-a-journey-into-space.json) |
 | Space Siege | 9276 | [9276-space-siege.json](./9276-space-siege.json) |
 | Space Sim Tycoon | 373354 | [373354-space-sim-tycoon.json](./373354-space-sim-tycoon.json) |
 | Space Simulation Toolkit | 345585 | [345585-space-simulation-toolkit.json](./345585-space-simulation-toolkit.json) |
