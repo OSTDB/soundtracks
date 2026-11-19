@@ -8986,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Getaway: ZigZag Blocky Car | 289726 | [289726-highway-getaway-zigzag-blocky-car.json](./289726-highway-getaway-zigzag-blocky-car.json) |
 | Highway Getway | 265798 | [265798-highway-getway.json](./265798-highway-getway.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
+| Highway Heroes | 419574 | [419574-highway-heroes.json](./419574-highway-heroes.json) |
 | Highway Hijinks | 309402 | [309402-highway-hijinks.json](./309402-highway-hijinks.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Hunter | 11723 | [11723-highway-hunter.json](./11723-highway-hunter.json) |
