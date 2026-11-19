@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Me Psycho | 13988 | [13988-call-me-psycho.json](./13988-call-me-psycho.json) |
 | Call Me Skyfish | 54334 | [54334-call-me-skyfish.json](./54334-call-me-skyfish.json) |
 | Call Me Under | 154649 | [154649-call-me-under.json](./154649-call-me-under.json) |
+| Call Me, Liar | 425382 | [425382-call-me-liar.json](./425382-call-me-liar.json) |
 | Call of Abdulov | 400234 | [400234-call-of-abdulov.json](./400234-call-of-abdulov.json) |
 | Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
