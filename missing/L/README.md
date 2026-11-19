@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libra: There Are Two | 379272 | [379272-libra-there-are-two.json](./379272-libra-there-are-two.json) |
 | Librarian | 172292 | [172292-librarian.json](./172292-librarian.json) |
 | Librarian of Aquademia: The Forbidden Grimoire | 402690 | [402690-librarian-of-aquademia-the-forbidden-grimoire.json](./402690-librarian-of-aquademia-the-forbidden-grimoire.json) |
+| Librarian Together: Manga Tidy Up | 427144 | [427144-librarian-together-manga-tidy-up.json](./427144-librarian-together-manga-tidy-up.json) |
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Cross: Toki ga Kitara, Kono Negai wo | 267598 | [267598-library-cross-toki-ga-kitara-kono-negai-wo.json](./267598-library-cross-toki-ga-kitara-kono-negai-wo.json) |
