@@ -7928,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
+| Pinball FX Midnight | 258295 | [258295-pinball-fx-midnight.json](./258295-pinball-fx-midnight.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
 | Pinball FX VR: Tomb Raider Pinball | 342969 | [342969-pinball-fx-vr-tomb-raider-pinball.json](./342969-pinball-fx-vr-tomb-raider-pinball.json) |
@@ -11720,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pneuma | 426436 | [426436-pneuma.json](./426436-pneuma.json) |
 | Pneuma: Breath of Life | 9178 | [9178-pneuma-breath-of-life.json](./9178-pneuma-breath-of-life.json) |
 | Pneumata | 223183 | [223183-pneumata.json](./223183-pneumata.json) |
+| Pneumata VR | 253173 | [253173-pneumata-vr.json](./253173-pneumata-vr.json) |
 | Pneumatic Ball | 288360 | [288360-pneumatic-ball.json](./288360-pneumatic-ball.json) |
 | Pneumatic Panic | 305659 | [305659-pneumatic-panic.json](./305659-pneumatic-panic.json) |
 | PneumaticCraft: Repressurized | 294671 | [294671-pneumaticcraft-repressurized.json](./294671-pneumaticcraft-repressurized.json) |
@@ -14724,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poptropica Legacy | 390160 | [390160-poptropica-legacy.json](./390160-poptropica-legacy.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Poptropica: Forgotten Islands | 85348 | [85348-poptropica-forgotten-islands.json](./85348-poptropica-forgotten-islands.json) |
+| Popucom | 266041 | [266041-popucom.json](./266041-popucom.json) |
 | Popucom Too Many Clothes Edition | 378860 | [378860-popucom-too-many-clothes-edition.json](./378860-popucom-too-many-clothes-edition.json) |
 | Popucom x Arknights Collab Outfit Pack | 378876 | [378876-popucom-x-arknights-collab-outfit-pack.json](./378876-popucom-x-arknights-collab-outfit-pack.json) |
 | Popucom: Too Many Clothes Pack | 378875 | [378875-popucom-too-many-clothes-pack.json](./378875-popucom-too-many-clothes-pack.json) |
