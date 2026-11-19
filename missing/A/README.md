@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Quiz Game Where You Try to Solve Questions but the Questions Have Tricks and Gimmicks and if You Get Them Wrong You Have to Beat a Wacky Punishment but They Are Kinda Fun So You Lowkey Wanna Do Them Even if It Means Getting the Question Wrong. | 417742 | [417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json](./417742-a-normal-quiz-game-where-you-try-to-solve-questions-but-the-questions-have-tricks-and-gimmicks-and-if-you-get-them-wrong-you-have-to-beat-a-wacky-punishment-but-they-are-kinda-fun-so-you-lowkey-wanna-do-them-even-if-it-means-getting-the-question-wrong.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
+| A Northern Evil: Tape One | 425747 | [425747-a-northern-evil-tape-one.json](./425747-a-northern-evil-tape-one.json) |
 | A Not Troll Game | 256480 | [256480-a-not-troll-game.json](./256480-a-not-troll-game.json) |
 | A Number From the Ghost | 285270 | [285270-a-number-from-the-ghost.json](./285270-a-number-from-the-ghost.json) |
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
@@ -7774,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ali Baba and the Forty Thieves | 18750 | [18750-ali-baba-and-the-forty-thieves.json](./18750-ali-baba-and-the-forty-thieves.json) |
 | Ali the Android | 179404 | [179404-ali-the-android.json](./179404-ali-the-android.json) |
 | Ali-Baba | 84339 | [84339-ali-baba.json](./84339-ali-baba.json) |
+| Alia Domus | 425761 | [425761-alia-domus.json](./425761-alia-domus.json) |
 | Alia's Carnival! | 78478 | [78478-alias-carnival.json](./78478-alias-carnival.json) |
 | Alia's Carnival! Flowering Sky | 71581 | [71581-alias-carnival-flowering-sky.json](./71581-alias-carnival-flowering-sky.json) |
 | Alia's Carnival! Sacrament | 14857 | [14857-alias-carnival-sacrament.json](./14857-alias-carnival-sacrament.json) |
@@ -12575,6 +12577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Collapse: Special Correspondent Constan | 353602 | [353602-anomaly-collapse-special-correspondent-constan.json](./353602-anomaly-collapse-special-correspondent-constan.json) |
 | Anomaly Company | 389123 | [389123-anomaly-company.json](./389123-anomaly-company.json) |
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
+| Anomaly Core: Hospital | 425760 | [425760-anomaly-core-hospital.json](./425760-anomaly-core-hospital.json) |
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Corridor | 377100 | [377100-anomaly-corridor.json](./377100-anomaly-corridor.json) |
@@ -21132,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
 | Axe Climber | 96715 | [96715-axe-climber.json](./96715-axe-climber.json) |
 | Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
+| Axe Descent | 425752 | [425752-axe-descent.json](./425752-axe-descent.json) |
 | Axe Gang | 151494 | [151494-axe-gang.json](./151494-axe-gang.json) |
 | Axe Ghost | 295353 | [295353-axe-ghost.json](./295353-axe-ghost.json) |
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
