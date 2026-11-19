@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooty Shooty | 151429 | [151429-scooty-shooty.json](./151429-scooty-shooty.json) |
 | SCOP | 251085 | [251085-scop.json](./251085-scop.json) |
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
+| Scopa Sweep | 418639 | [418639-scopa-sweep.json](./418639-scopa-sweep.json) |
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
 | Scope | 183180 | [183180-scope.json](./183180-scope.json) |
 | Scope Battle Royale | 364745 | [364745-scope-battle-royale.json](./364745-scope-battle-royale.json) |
@@ -10859,6 +10860,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Dreams | 360820 | [360820-shotgun-dreams.json](./360820-shotgun-dreams.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun Farmers | 29242 | [29242-shotgun-farmers.json](./29242-shotgun-farmers.json) |
+| Shotgun Farmers: Supporter Pack | 418045 | [418045-shotgun-farmers-supporter-pack.json](./418045-shotgun-farmers-supporter-pack.json) |
+| Shotgun Farmers: Vitamin Seas Supporter Pack | 418053 | [418053-shotgun-farmers-vitamin-seas-supporter-pack.json](./418053-shotgun-farmers-vitamin-seas-supporter-pack.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
@@ -14585,6 +14588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Kingdoms - Castle Siege | 100842 | [100842-sky-kingdoms-castle-siege.json](./100842-sky-kingdoms-castle-siege.json) |
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
 | Sky Labyrinth | 114922 | [114922-sky-labyrinth.json](./114922-sky-labyrinth.json) |
+| Sky Lance | 418135 | [418135-sky-lance.json](./418135-sky-lance.json) |
 | Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
 | Sky Lanes | 333445 | [333445-sky-lanes.json](./333445-sky-lanes.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
@@ -27304,6 +27308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker: The Way of Survival | 314373 | [314373-stalker-the-way-of-survival.json](./314373-stalker-the-way-of-survival.json) |
 | Stalks Stalks Stalks | 193067 | [193067-stalks-stalks-stalks.json](./193067-stalks-stalks-stalks.json) |
 | Stall | 372618 | [372618-stall.json](./372618-stall.json) |
+| Stall Quest | 418041 | [418041-stall-quest.json](./418041-stall-quest.json) |
 | Stallion Squad | 133779 | [133779-stallion-squad.json](./133779-stallion-squad.json) |
 | Stallions in America | 199117 | [199117-stallions-in-america.json](./199117-stallions-in-america.json) |
 | Stamp | 193009 | [193009-stamp.json](./193009-stamp.json) |
@@ -27338,6 +27343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand of Arms | 159527 | [159527-stand-of-arms.json](./159527-stand-of-arms.json) |
 | Stand Out | 76352 | [76352-stand-out.json](./76352-stand-out.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
+| Stand Still | 418123 | [418123-stand-still.json](./418123-stand-still.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
 | Stand-Alone: Ep.0 | 346338 | [346338-stand-alone-ep-0.json](./346338-stand-alone-ep-0.json) |
