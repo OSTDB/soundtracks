@@ -7751,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry's Joi | 307209 | [307209-cherrys-joi.json](./307209-cherrys-joi.json) |
 | Cherrywitched! | 246070 | [246070-cherrywitched.json](./246070-cherrywitched.json) |
 | Chertovica | 333326 | [333326-chertovica.json](./333326-chertovica.json) |
+| Cherubim: Heaven's Blade | 420018 | [420018-cherubim-heavens-blade.json](./420018-cherubim-heavens-blade.json) |
 | Chesh | 15551 | [15551-chesh.json](./15551-chesh.json) |
 | Cheshire in a Chatroom | 181830 | [181830-cheshire-in-a-chatroom.json](./181830-cheshire-in-a-chatroom.json) |
 | Cheshire's Wonderland: Dire Adventure | 293961 | [293961-cheshires-wonderland-dire-adventure.json](./293961-cheshires-wonderland-dire-adventure.json) |
@@ -18264,6 +18265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
 | Cozy Cookmaster | 422412 | [422412-cozy-cookmaster.json](./422412-cozy-cookmaster.json) |
+| Cozy Corner Cafe | 419561 | [419561-cozy-corner-cafe.json](./419561-cozy-corner-cafe.json) |
 | Cozy Crest | 289427 | [289427-cozy-crest.json](./289427-cozy-crest.json) |
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
