@@ -19858,6 +19858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk as I Like: Gensokyo Drinking Attitude | 280719 | [280719-drunk-as-i-like-gensokyo-drinking-attitude.json](./280719-drunk-as-i-like-gensokyo-drinking-attitude.json) |
 | Drunk Builder Simulator | 326443 | [326443-drunk-builder-simulator.json](./326443-drunk-builder-simulator.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
+| Drunk but Not Wasted Monk | 427861 | [427861-drunk-but-not-wasted-monk.json](./427861-drunk-but-not-wasted-monk.json) |
 | Drunk Dad Vs Family | 395778 | [395778-drunk-dad-vs-family.json](./395778-drunk-dad-vs-family.json) |
 | Drunk Driving Simulator | 385980 | [385980-drunk-driving-simulator.json](./385980-drunk-driving-simulator.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
