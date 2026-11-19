@@ -5921,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent A Car Simulator 24 | 293121 | [293121-rent-a-car-simulator-24.json](./293121-rent-a-car-simulator-24.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
+| Rent Due | 424814 | [424814-rent-due.json](./424814-rent-due.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
 | Rent-a-Girlfriend: Heroine All Stars | 188277 | [188277-rent-a-girlfriend-heroine-all-stars.json](./188277-rent-a-girlfriend-heroine-all-stars.json) |
 | Rent-A-Hero | 145509 | [145509-rent-a-hero.json](./145509-rent-a-hero.json) |
