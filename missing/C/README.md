@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
 | Cahors Sunset | 35956 | [35956-cahors-sunset.json](./35956-cahors-sunset.json) |
+| Cahrson's Quest | 419308 | [419308-cahrsons-quest.json](./419308-cahrsons-quest.json) |
 | Cahss Worlds | 375906 | [375906-cahss-worlds.json](./375906-cahss-worlds.json) |
 | Câi & Darren: Code Calamity | 350385 | [350385-cai-and-darren-code-calamity.json](./350385-cai-and-darren-code-calamity.json) |
 | Cai Cai Balão | 147296 | [147296-cai-cai-balao.json](./147296-cai-cai-balao.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Commander | 126760 | [126760-castle-commander.json](./126760-castle-commander.json) |
+| Castle Conquer | 418983 | [418983-castle-conquer.json](./418983-castle-conquer.json) |
 | Castle Conqueror | 85548 | [85548-castle-conqueror.json](./85548-castle-conqueror.json) |
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
@@ -4095,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conqueror: Heroes | 85023 | [85023-castle-conqueror-heroes.json](./85023-castle-conqueror-heroes.json) |
 | Castle Conqueror: Heroes 2 | 85022 | [85022-castle-conqueror-heroes-2.json](./85022-castle-conqueror-heroes-2.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
+| Castle Conquest | 418982 | [418982-castle-conquest.json](./418982-castle-conquest.json) |
 | Castle Conquest: Medieval Strategy | 295177 | [295177-castle-conquest-medieval-strategy.json](./295177-castle-conquest-medieval-strategy.json) |
 | Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
@@ -5234,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catgotchi: Virtual Pet | 243364 | [243364-catgotchi-virtual-pet.json](./243364-catgotchi-virtual-pet.json) |
 | Catgotchi: Virtual Pet - Deluxe Edition | 249561 | [249561-catgotchi-virtual-pet-deluxe-edition.json](./249561-catgotchi-virtual-pet-deluxe-edition.json) |
+| Catha | 419002 | [419002-catha.json](./419002-catha.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
@@ -8405,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiikawa Pocket | 327682 | [327682-chiikawa-pocket.json](./327682-chiikawa-pocket.json) |
 | Chiiku Drill Oshare Majo Love and Berry: Moji Kazu Chie Asobi | 327567 | [327567-chiiku-drill-oshare-majo-love-and-berry-moji-kazu-chie-asobi.json](./327567-chiiku-drill-oshare-majo-love-and-berry-moji-kazu-chie-asobi.json) |
 | Chiiku Drill Pocket Monsters Diamond & Pearl: Moji Kazu Chie Asobi | 181503 | [181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json](./181503-chiiku-drill-pocket-monsters-diamond-and-pearl-moji-kazu-chie-asobi.json) |
+| Chiisana Kyojin Microman | 419217 | [419217-chiisana-kyojin-microman.json](./419217-chiisana-kyojin-microman.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
 | Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
 | Chika Militant Cockroach | 29516 | [29516-chika-militant-cockroach.json](./29516-chika-militant-cockroach.json) |
@@ -8765,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
 | Chip Shot Challenge | 360927 | [360927-chip-shot-challenge.json](./360927-chip-shot-challenge.json) |
 | Chip Shot: Super Pro Golf | 41438 | [41438-chip-shot-super-pro-golf.json](./41438-chip-shot-super-pro-golf.json) |
+| Chip Sweeper | 419394 | [419394-chip-sweeper.json](./419394-chip-sweeper.json) |
 | Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
@@ -18850,6 +18856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
 | Crash Landed | 279999 | [279999-crash-landed.json](./279999-crash-landed.json) |
 | Crash Landed | 371462 | [371462-crash-landed.json](./371462-crash-landed.json) |
+| Crash Landed! | 419219 | [419219-crash-landed.json](./419219-crash-landed.json) |
 | Crash Landing | 33756 | [33756-crash-landing.json](./33756-crash-landing.json) |
 | Crash Math | 291800 | [291800-crash-math.json](./291800-crash-math.json) |
 | Crash Mayhem | 238405 | [238405-crash-mayhem.json](./238405-crash-mayhem.json) |
