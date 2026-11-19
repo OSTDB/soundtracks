@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
+| FaceRobots | 427168 | [427168-facerobots.json](./427168-facerobots.json) |
 | Faces and Places | 133494 | [133494-faces-and-places.json](./133494-faces-and-places.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces of War | 10272 | [10272-faces-of-war.json](./10272-faces-of-war.json) |
@@ -9411,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flopfish | 380645 | [380645-flopfish.json](./380645-flopfish.json) |
 | Floppa Mining | 429843 | [429843-floppa-mining.json](./429843-floppa-mining.json) |
 | Floppa: The Dark Forest | 290133 | [290133-floppa-the-dark-forest.json](./290133-floppa-the-dark-forest.json) |
+| Floppaland | 427211 | [427211-floppaland.json](./427211-floppaland.json) |
 | Flopparena | 244631 | [244631-flopparena.json](./244631-flopparena.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Bird | 144085 | [144085-floppy-bird.json](./144085-floppy-bird.json) |
@@ -12793,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture Hell | 165088 | [165088-fracture-hell.json](./165088-fracture-hell.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
+| Fracture Recomp | 427072 | [427072-fracture-recomp.json](./427072-fracture-recomp.json) |
 | Fracture the Flag | 26551 | [26551-fracture-the-flag.json](./26551-fracture-the-flag.json) |
 | Fracture: City of Destruction | 208444 | [208444-fracture-city-of-destruction.json](./208444-fracture-city-of-destruction.json) |
 | Fracture: The Dream | 229746 | [229746-fracture-the-dream.json](./229746-fracture-the-dream.json) |
