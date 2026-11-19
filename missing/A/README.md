@@ -14013,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Kids | 269345 | [269345-aqua-kids.json](./269345-aqua-kids.json) |
 | Aqua Kitty DX: Pawsome Bundle | 118853 | [118853-aqua-kitty-dx-pawsome-bundle.json](./118853-aqua-kitty-dx-pawsome-bundle.json) |
+| Aqua Kitty UDX | 86679 | [86679-aqua-kitty-udx.json](./86679-aqua-kitty-udx.json) |
 | Aqua Kitty UDX: Xbox One Ultra Edition | 82379 | [82379-aqua-kitty-udx-xbox-one-ultra-edition.json](./82379-aqua-kitty-udx-xbox-one-ultra-edition.json) |
 | Aqua Kitty: Milk Mine Defender | 8642 | [8642-aqua-kitty-milk-mine-defender.json](./8642-aqua-kitty-milk-mine-defender.json) |
 | Aqua Kitty: Milk Mine Defender DX | 90501 | [90501-aqua-kitty-milk-mine-defender-dx.json](./90501-aqua-kitty-milk-mine-defender-dx.json) |
@@ -21527,6 +21528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Plays The Game | 316302 | [316302-azure-plays-the-game.json](./316302-azure-plays-the-game.json) |
 | Azure Reflections | 60315 | [60315-azure-reflections.json](./60315-azure-reflections.json) |
+| Azure Saga: Pathfinder | 86619 | [86619-azure-saga-pathfinder.json](./86619-azure-saga-pathfinder.json) |
 | Azure Saga: Pathfinder - Deluxe Edition | 116009 | [116009-azure-saga-pathfinder-deluxe-edition.json](./116009-azure-saga-pathfinder-deluxe-edition.json) |
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
 | Azure Sky | 155273 | [155273-azure-sky.json](./155273-azure-sky.json) |
