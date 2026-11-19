@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermeer's Twilight | 343167 | [343167-vermeers-twilight.json](./343167-vermeers-twilight.json) |
 | Vermilion Arcade: Horror Collection | 285694 | [285694-vermilion-arcade-horror-collection.json](./285694-vermilion-arcade-horror-collection.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
+| Vermilion Sea | 420240 | [420240-vermilion-sea.json](./420240-vermilion-sea.json) |
 | Vermillion | 156960 | [156960-vermillion.json](./156960-vermillion.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
 | Vermillion Watch: Fleshbound | 187949 | [187949-vermillion-watch-fleshbound.json](./187949-vermillion-watch-fleshbound.json) |
@@ -2032,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vholume | 378143 | [378143-vholume.json](./378143-vholume.json) |
 | VHS | 309466 | [309466-vhs.json](./309466-vhs.json) |
 | VHS Bodycam: The Torture Machine | 369152 | [369152-vhs-bodycam-the-torture-machine.json](./369152-vhs-bodycam-the-torture-machine.json) |
+| VHS Chaos | 420260 | [420260-vhs-chaos.json](./420260-vhs-chaos.json) |
 | VHS Chaos: XXX | 429479 | [429479-vhs-chaos-xxx.json](./429479-vhs-chaos-xxx.json) |
 | VHS Chaos: XXX+ | 429477 | [429477-vhs-chaos-xxx.json](./429477-vhs-chaos-xxx.json) |
 | VHS Collection: Goodnight Me | 321460 | [321460-vhs-collection-goodnight-me.json](./321460-vhs-collection-goodnight-me.json) |
@@ -2724,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinyl Freak: Unsorted | 419996 | [419996-vinyl-freak-unsorted.json](./419996-vinyl-freak-unsorted.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | Vinyl Reality | 131055 | [131055-vinyl-reality.json](./131055-vinyl-reality.json) |
+| Vinyl Store: Tidy Up! | 420257 | [420257-vinyl-store-tidy-up.json](./420257-vinyl-store-tidy-up.json) |
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Viola_ | 390580 | [390580-viola.json](./390580-viola.json) |
@@ -4835,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Top Gun | 214589 | [214589-vs-top-gun.json](./214589-vs-top-gun.json) |
 | Vs. Toukaidou Gojuusan-tsugi | 214602 | [214602-vs-toukaidou-gojuusan-tsugi.json](./214602-vs-toukaidou-gojuusan-tsugi.json) |
 | Vs. Tricky | 308397 | [308397-vs-tricky.json](./308397-vs-tricky.json) |
+| Vs. Tricky: Clowned Out | 420282 | [420282-vs-tricky-clowned-out.json](./420282-vs-tricky-clowned-out.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
 | Vs. Valkyrie no Bouken: Toki no Kagi Densetsu | 214583 | [214583-vs-valkyrie-no-bouken-toki-no-kagi-densetsu.json](./214583-vs-valkyrie-no-bouken-toki-no-kagi-densetsu.json) |
 | Vs. Vemny & Friends | 302648 | [302648-vs-vemny-and-friends.json](./302648-vs-vemny-and-friends.json) |
