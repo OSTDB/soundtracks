@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardner | 41082 | [41082-wardner.json](./41082-wardner.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
+| Wardogs: Season 2 | 419393 | [419393-wardogs-season-2.json](./419393-wardogs-season-2.json) |
 | Wardogs: Supporter Edition | 413303 | [413303-wardogs-supporter-edition.json](./413303-wardogs-supporter-edition.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warsim: The Realm of Aslona | 43148 | [43148-warsim-the-realm-of-aslona.json](./43148-warsim-the-realm-of-aslona.json) |
 | Warsino | 232539 | [232539-warsino.json](./232539-warsino.json) |
+| Warslave | 419385 | [419385-warslave.json](./419385-warslave.json) |
 | Warsong | 3196 | [3196-warsong.json](./3196-warsong.json) |
 | Warsoup | 78606 | [78606-warsoup.json](./78606-warsoup.json) |
 | Warsow | 11555 | [11555-warsow.json](./11555-warsow.json) |
@@ -8904,6 +8906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words on Stream | 137688 | [137688-words-on-stream.json](./137688-words-on-stream.json) |
 | Words Plus | 221514 | [221514-words-plus.json](./221514-words-plus.json) |
 | Words Puzzles 3 in 1 | 223739 | [223739-words-puzzles-3-in-1.json](./223739-words-puzzles-3-in-1.json) |
+| Words Rock! | 418981 | [418981-words-rock.json](./418981-words-rock.json) |
 | Words Scramble | 233055 | [233055-words-scramble.json](./233055-words-scramble.json) |
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words Unleashed | 114715 | [114715-words-unleashed.json](./114715-words-unleashed.json) |
