@@ -6790,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
+| Beer Pong! | 428976 | [428976-beer-pong.json](./428976-beer-pong.json) |
 | Beer Ranger | 86297 | [86297-beer-ranger.json](./86297-beer-ranger.json) |
 | Beer Run | 18778 | [18778-beer-run.json](./18778-beer-run.json) |
 | Beer Run | 281957 | [281957-beer-run.json](./281957-beer-run.json) |
@@ -7020,6 +7021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholder 2 | 78536 | [78536-beholder-2.json](./78536-beholder-2.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
+| Beholder IV | 428992 | [428992-beholder-iv.json](./428992-beholder-iv.json) |
 | Beholder: Complete Edition | 82372 | [82372-beholder-complete-edition.json](./82372-beholder-complete-edition.json) |
 | Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
 | Beholder's Lair | 143525 | [143525-beholders-lair.json](./143525-beholders-lair.json) |
@@ -7788,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
+| Beta Earth: Sovereignty Next | 428945 | [428945-beta-earth-sovereignty-next.json](./428945-beta-earth-sovereignty-next.json) |
 | Beta Escape | 159581 | [159581-beta-escape.json](./159581-beta-escape.json) |
 | Beta Fortress | 355583 | [355583-beta-fortress.json](./355583-beta-fortress.json) |
 | Beta Hospital | 330919 | [330919-beta-hospital.json](./330919-beta-hospital.json) |
@@ -15990,6 +15993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunter: Stampede | 95269 | [95269-bounty-hunter-stampede.json](./95269-bounty-hunter-stampede.json) |
 | Bounty Hunters | 188507 | [188507-bounty-hunters.json](./188507-bounty-hunters.json) |
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
+| Bounty Hunters | 428956 | [428956-bounty-hunters.json](./428956-bounty-hunters.json) |
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
 | Bounty of One | 199716 | [199716-bounty-of-one.json](./199716-bounty-of-one.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
@@ -16722,6 +16726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
 | Braise Satan | 338439 | [338439-braise-satan.json](./338439-braise-satan.json) |
 | Braiser | 323593 | [323593-braiser.json](./323593-braiser.json) |
+| Brak | 428964 | [428964-brak.json](./428964-brak.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
 | Brake Away | 239443 | [239443-brake-away.json](./239443-brake-away.json) |
 | Brake or Break | 114716 | [114716-brake-or-break.json](./114716-brake-or-break.json) |
