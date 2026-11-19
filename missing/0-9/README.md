@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Pool: Billiards & Snooker | 205948 | [205948-3d-pool-billiards-and-snooker.json](./205948-3d-pool-billiards-and-snooker.json) |
 | 3D Power Drift | 84659 | [84659-3d-power-drift.json](./84659-3d-power-drift.json) |
+| 3D Printer Manager | 427662 | [427662-3d-printer-manager.json](./427662-3d-printer-manager.json) |
 | 3D Printer: PrintMaster Simulator | 287116 | [287116-3d-printer-printmaster-simulator.json](./287116-3d-printer-printmaster-simulator.json) |
 | 3D PrintMaster Simulator | 273297 | [273297-3d-printmaster-simulator.json](./273297-3d-printmaster-simulator.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
