@@ -9734,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birth to Death | 128103 | [128103-birth-to-death.json](./128103-birth-to-death.json) |
+| Birthday | 424217 | [424217-birthday.json](./424217-birthday.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
@@ -16035,6 +16036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bout | 205212 | [205212-bout.json](./205212-bout.json) |
 | Boutique Boulevard | 341069 | [341069-boutique-boulevard.json](./341069-boutique-boulevard.json) |
 | Boutique Builder Simulator | 337580 | [337580-boutique-builder-simulator.json](./337580-boutique-builder-simulator.json) |
+| Bouzopp | 424169 | [424169-bouzopp.json](./424169-bouzopp.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow & Quiver | 157749 | [157749-bow-and-quiver.json](./157749-bow-and-quiver.json) |
