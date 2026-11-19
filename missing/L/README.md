@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Friend | 91968 | [91968-last-friend.json](./91968-last-friend.json) |
 | Last Front | 374206 | [374206-last-front.json](./374206-last-front.json) |
 | Last Galaxy Hero | 69784 | [69784-last-galaxy-hero.json](./69784-last-galaxy-hero.json) |
+| Last Gambit | 429054 | [429054-last-gambit.json](./429054-last-gambit.json) |
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Gary | 188739 | [188739-last-gary.json](./188739-last-gary.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link 'n' Launch | 67157 | [67157-link-n-launch.json](./67157-link-n-launch.json) |
 | Link and Spell | 269082 | [269082-link-and-spell.json](./269082-link-and-spell.json) |
 | Link Bomb Party | 221747 | [221747-link-bomb-party.json](./221747-link-bomb-party.json) |
+| Link Cameras | 429063 | [429063-link-cameras.json](./429063-link-cameras.json) |
 | Link Devicer 2074 | 242260 | [242260-link-devicer-2074.json](./242260-link-devicer-2074.json) |
 | Link Dragon | 46167 | [46167-link-dragon.json](./46167-link-dragon.json) |
 | Link Lab | 406511 | [406511-link-lab.json](./406511-link-lab.json) |
