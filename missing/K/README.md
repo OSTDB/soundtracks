@@ -1829,6 +1829,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepsake County | 204642 | [204642-keepsake-county.json](./204642-keepsake-county.json) |
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
 | KeepShopkeeping 2 | 119628 | [119628-keepshopkeeping-2.json](./119628-keepshopkeeping-2.json) |
+| Keepshore | 421530 | [421530-keepshore.json](./421530-keepshore.json) |
+| Keepshore: Hearth Seal | 421527 | [421527-keepshore-hearth-seal.json](./421527-keepshore-hearth-seal.json) |
 | KeepUp Survival | 143688 | [143688-keepup-survival.json](./143688-keepup-survival.json) |
 | KeepUp Survival: Mountain Map | 293873 | [293873-keepup-survival-mountain-map.json](./293873-keepup-survival-mountain-map.json) |
 | KeepUp Survival: Red Desert Map | 200790 | [200790-keepup-survival-red-desert-map.json](./200790-keepup-survival-red-desert-map.json) |
