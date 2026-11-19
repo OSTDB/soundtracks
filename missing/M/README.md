@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
 | Mado | 364841 | [364841-mado.json](./364841-mado.json) |
 | Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
+| Mado Monogatari: Fia and the Wondrous Academy | 270480 | [270480-mado-monogatari-fia-and-the-wondrous-academy.json](./270480-mado-monogatari-fia-and-the-wondrous-academy.json) |
 | Mado Monogatari: Fia and the Wondrous Academy - Deluxe Edition | 351236 | [351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json](./351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
 | Mado Paf! | 229263 | [229263-mado-paf.json](./229263-mado-paf.json) |
@@ -6305,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
 | Matchland | 181986 | [181986-matchland.json](./181986-matchland.json) |
+| Matchmaker Agency | 263782 | [263782-matchmaker-agency.json](./263782-matchmaker-agency.json) |
 | Matchmaker Millie | 239229 | [239229-matchmaker-millie.json](./239229-matchmaker-millie.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
 | Matchmaker: Dungeon Heart | 263783 | [263783-matchmaker-dungeon-heart.json](./263783-matchmaker-dungeon-heart.json) |
@@ -17140,6 +17142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
+| Molecano | 261069 | [261069-molecano.json](./261069-molecano.json) |
 | Molecats | 22743 | [22743-molecats.json](./22743-molecats.json) |
 | MolEconomy | 371202 | [371202-moleconomy.json](./371202-moleconomy.json) |
 | Molecoole | 190811 | [190811-molecoole.json](./190811-molecoole.json) |
