@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayara's Path | 423633 | [423633-sayaras-path.json](./423633-sayaras-path.json) |
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
+| Sayings Master | 332693 | [332693-sayings-master.json](./332693-sayings-master.json) |
 | Saylor Animals Puzzle | 388433 | [388433-saylor-animals-puzzle.json](./388433-saylor-animals-puzzle.json) |
 | Saylor Anime Puzzle Boys & Girls | 380935 | [380935-saylor-anime-puzzle-boys-and-girls.json](./380935-saylor-anime-puzzle-boys-and-girls.json) |
 | Saylor Assassin Puzzle | 412626 | [412626-saylor-assassin-puzzle.json](./412626-saylor-assassin-puzzle.json) |
@@ -11437,6 +11438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sibir | 423043 | [423043-sibir.json](./423043-sibir.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Siblings | 282607 | [282607-siblings.json](./282607-siblings.json) |
+| Siblings Role-play | 332706 | [332706-siblings-role-play.json](./332706-siblings-role-play.json) |
 | SIC-1 | 216526 | [216526-sic-1.json](./216526-sic-1.json) |
 | Sicari 2: The Brink of Time | 209077 | [209077-sicari-2-the-brink-of-time.json](./209077-sicari-2-the-brink-of-time.json) |
 | Sicari Remastered | 180986 | [180986-sicari-remastered.json](./180986-sicari-remastered.json) |
@@ -14820,7 +14822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyhill | 11562 | [11562-skyhill.json](./11562-skyhill.json) |
 | SKYHILL: Black Mist | 117770 | [117770-skyhill-black-mist.json](./117770-skyhill-black-mist.json) |
 | Skyhood's Innocent Six | 250256 | [250256-skyhoods-innocent-six.json](./250256-skyhoods-innocent-six.json) |
-| Skyhook | 19303 | [19303-skyhook.json](./19303-skyhook.json) |
 | SkyInFlames | 391000 | [391000-skyinflames.json](./391000-skyinflames.json) |
 | SkyIsland | 238062 | [238062-skyisland.json](./238062-skyisland.json) |
 | Skyjet | 47245 | [47245-skyjet.json](./47245-skyjet.json) |
@@ -32430,6 +32431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Skater City | 180484 | [180484-street-skater-city.json](./180484-street-skater-city.json) |
 | Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
 | Street Sniper | 166895 | [166895-street-sniper.json](./166895-street-sniper.json) |
+| Street Soccer 2 | 332690 | [332690-street-soccer-2.json](./332690-street-soccer-2.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
