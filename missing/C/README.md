@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caroline's Camera - Rhythm Game | 233177 | [233177-carolines-camera-rhythm-game.json](./233177-carolines-camera-rhythm-game.json) |
 | Caroline's Garden | 25270 | [25270-carolines-garden.json](./25270-carolines-garden.json) |
 | Caroline’s Presents Johnny Cocktail | 420922 | [420922-caroline-s-presents-johnny-cocktail.json](./420922-caroline-s-presents-johnny-cocktail.json) |
+| Caroline's Underworld | 421524 | [421524-carolines-underworld.json](./421524-carolines-underworld.json) |
 | Carols in July | 228911 | [228911-carols-in-july.json](./228911-carols-in-july.json) |
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
