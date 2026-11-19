@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Story | 241780 | [241780-vampire-story.json](./241780-vampire-story.json) |
+| Vampire Survivors VR | 377650 | [377650-vampire-survivors-vr.json](./377650-vampire-survivors-vr.json) |
 | Vampire Survivors: 1.14 | 375523 | [375523-vampire-survivors-1-14.json](./375523-vampire-survivors-1-14.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
 | Vampire Survivors: Adventures | 279372 | [279372-vampire-survivors-adventures.json](./279372-vampire-survivors-adventures.json) |
@@ -3255,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuar Z | 270869 | [270869-virtuar-z.json](./270869-virtuar-z.json) |
 | VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virtue and a Sledgehammer | 381077 | [381077-virtue-and-a-sledgehammer.json](./381077-virtue-and-a-sledgehammer.json) |
 | Virtue: Prologue | 425299 | [425299-virtue-prologue.json](./425299-virtue-prologue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
 | Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
