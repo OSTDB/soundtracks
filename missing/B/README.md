@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
 | Backflip Dive | 207948 | [207948-backflip-dive.json](./207948-backflip-dive.json) |
+| Backflip Madness | 59416 | [59416-backflip-madness.json](./59416-backflip-madness.json) |
 | Backflip Madness 2 | 379175 | [379175-backflip-madness-2.json](./379175-backflip-madness-2.json) |
 | Backforce System | 82283 | [82283-backforce-system.json](./82283-backforce-system.json) |
 | Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Simulator | 348153 | [348153-basketball-simulator.json](./348153-basketball-simulator.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball Slum Dunk 2024 | 308652 | [308652-basketball-slum-dunk-2024.json](./308652-basketball-slum-dunk-2024.json) |
+| Basketball Stars | 57774 | [57774-basketball-stars.json](./57774-basketball-stars.json) |
 | BasketBall Street Hero | 239122 | [239122-basketball-street-hero.json](./239122-basketball-street-hero.json) |
 | Basketball Strike | 297987 | [297987-basketball-strike.json](./297987-basketball-strike.json) |
 | Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
@@ -12944,6 +12946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Finger Jump | 263843 | [263843-bloody-finger-jump.json](./263843-bloody-finger-jump.json) |
 | Bloody Forest | 197479 | [197479-bloody-forest.json](./197479-bloody-forest.json) |
 | Bloody Fun Day | 386991 | [386991-bloody-fun-day.json](./386991-bloody-fun-day.json) |
+| Bloody Glimpse | 59138 | [59138-bloody-glimpse.json](./59138-bloody-glimpse.json) |
 | Bloody Good Friends | 284018 | [284018-bloody-good-friends.json](./284018-bloody-good-friends.json) |
 | Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
 | Bloody Grids | 405245 | [405245-bloody-grids.json](./405245-bloody-grids.json) |
@@ -13190,6 +13193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxer | 413587 | [413587-bloxer.json](./413587-bloxer.json) |
 | Bloxi: The Word Game | 190949 | [190949-bloxi-the-word-game.json](./190949-bloxi-the-word-game.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
+| Bloxiq | 60394 | [60394-bloxiq.json](./60394-bloxiq.json) |
 | Bloxiq VR | 31828 | [31828-bloxiq-vr.json](./31828-bloxiq-vr.json) |
 | Bloxiti | 348731 | [348731-bloxiti.json](./348731-bloxiti.json) |
 | Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
@@ -14997,6 +15001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
 | Boom Ascent | 355803 | [355803-boom-ascent.json](./355803-boom-ascent.json) |
+| Boom Ball 2 for Kinect | 56781 | [56781-boom-ball-2-for-kinect.json](./56781-boom-ball-2-for-kinect.json) |
 | Boom Ball: Boost Edition | 110596 | [110596-boom-ball-boost-edition.json](./110596-boom-ball-boost-edition.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
@@ -16142,6 +16147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling in a Skate Park | 309002 | [309002-bowling-in-a-skate-park.json](./309002-bowling-in-a-skate-park.json) |
 | Bowling is a Fun Game | 134333 | [134333-bowling-is-a-fun-game.json](./134333-bowling-is-a-fun-game.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
+| Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Bowling Lane 3D | 89038 | [89038-bowling-lane-3d.json](./89038-bowling-lane-3d.json) |
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
 | Bowling Over It | 116091 | [116091-bowling-over-it.json](./116091-bowling-over-it.json) |
