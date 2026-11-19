@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wail | 348791 | [348791-wail.json](./348791-wail.json) |
 | Wail of Despair | 353934 | [353934-wail-of-despair.json](./353934-wail-of-despair.json) |
 | Wailing Guignol | 196483 | [196483-wailing-guignol.json](./196483-wailing-guignol.json) |
+| Wailing Heights | 18969 | [18969-wailing-heights.json](./18969-wailing-heights.json) |
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Wails For Freedom | 183107 | [183107-wails-for-freedom.json](./183107-wails-for-freedom.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
@@ -1926,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | WarKind | 220529 | [220529-warkind.json](./220529-warkind.json) |
 | WarKlinika | 338419 | [338419-warklinika.json](./338419-warklinika.json) |
+| Warlander | 116684 | [116684-warlander.json](./116684-warlander.json) |
 | Warlander | 215835 | [215835-warlander.json](./215835-warlander.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
@@ -3369,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
 | Weakfish Indie Xbox Bundle | 293785 | [293785-weakfish-indie-xbox-bundle.json](./293785-weakfish-indie-xbox-bundle.json) |
 | Weakfish Puzzle Bundle | 331510 | [331510-weakfish-puzzle-bundle.json](./331510-weakfish-puzzle-bundle.json) |
+| Weakless | 119658 | [119658-weakless.json](./119658-weakless.json) |
 | Weakness Hero Torauman DC | 77564 | [77564-weakness-hero-torauman-dc.json](./77564-weakness-hero-torauman-dc.json) |
 | Weakpoint Delta | 172880 | [172880-weakpoint-delta.json](./172880-weakpoint-delta.json) |
 | WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
@@ -6184,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Match | 152612 | [152612-wildlife-match.json](./152612-wildlife-match.json) |
 | Wildlife Matters | 280438 | [280438-wildlife-matters.json](./280438-wildlife-matters.json) |
+| Wildlife Park | 17591 | [17591-wildlife-park.json](./17591-wildlife-park.json) |
 | Wildlife Park 2 | 17491 | [17491-wildlife-park-2.json](./17491-wildlife-park-2.json) |
 | Wildlife Park 2 - Horses | 36286 | [36286-wildlife-park-2-horses.json](./36286-wildlife-park-2-horses.json) |
 | Wildlife Park 2: Crazy Zoo | 17524 | [17524-wildlife-park-2-crazy-zoo.json](./17524-wildlife-park-2-crazy-zoo.json) |
@@ -7783,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Xth: Zensen no Gakufu - Academy of Frontier | 14695 | [14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json](./14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json) |
 | Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
+| Wizardry: Crusaders of the Dark Savant | 10497 | [10497-wizardry-crusaders-of-the-dark-savant.json](./10497-wizardry-crusaders-of-the-dark-savant.json) |
 | Wizardry: High School Exam | 272881 | [272881-wizardry-high-school-exam.json](./272881-wizardry-high-school-exam.json) |
 | Wizardry: Inochi no Kusabi | 85870 | [85870-wizardry-inochi-no-kusabi.json](./85870-wizardry-inochi-no-kusabi.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
@@ -9874,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
 | World's Biggest Solitaire | 109918 | [109918-worlds-biggest-solitaire.json](./109918-worlds-biggest-solitaire.json) |
+| World's Dawn | 17009 | [17009-worlds-dawn.json](./17009-worlds-dawn.json) |
 | World's End Chapter 1 | 143811 | [143811-worlds-end-chapter-1.json](./143811-worlds-end-chapter-1.json) |
 | World's End Chapter 2 | 143812 | [143812-worlds-end-chapter-2.json](./143812-worlds-end-chapter-2.json) |
 | World's End Chapter 3 | 101707 | [101707-worlds-end-chapter-3.json](./101707-worlds-end-chapter-3.json) |
