@@ -8136,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows of Three: Coup | 426542 | [426542-shadows-of-three-coup.json](./426542-shadows-of-three-coup.json) |
 | Shadows of Time | 16586 | [16586-shadows-of-time.json](./16586-shadows-of-time.json) |
 | Shadows of Truth | 270472 | [270472-shadows-of-truth.json](./270472-shadows-of-truth.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
@@ -14378,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skullwake | 414057 | [414057-skullwake.json](./414057-skullwake.json) |
+| SkullWar: Proving Grounds | 426532 | [426532-skullwar-proving-grounds.json](./426532-skullwar-proving-grounds.json) |
 | SkullX: Aibohphobia | 346314 | [346314-skullx-aibohphobia.json](./346314-skullx-aibohphobia.json) |
 | Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
@@ -19045,6 +19047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Antics Deluxe | 68906 | [68906-solitaire-antics-deluxe.json](./68906-solitaire-antics-deluxe.json) |
 | Solitaire Antics Ultimate | 208876 | [208876-solitaire-antics-ultimate.json](./208876-solitaire-antics-ultimate.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
+| Solitaire Arcade | 426557 | [426557-solitaire-arcade.json](./426557-solitaire-arcade.json) |
 | Solitaire Battle | 353365 | [353365-solitaire-battle.json](./353365-solitaire-battle.json) |
 | Solitaire Battle Online | 371492 | [371492-solitaire-battle-online.json](./371492-solitaire-battle-online.json) |
 | Solitaire Battle Royal | 111907 | [111907-solitaire-battle-royal.json](./111907-solitaire-battle-royal.json) |
@@ -19657,6 +19660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Silence: Crownless King Expansion | 402542 | [402542-songs-of-silence-crownless-king-expansion.json](./402542-songs-of-silence-crownless-king-expansion.json) |
+| Songs of Silence: Firstborn Supporter Upgrade | 426545 | [426545-songs-of-silence-firstborn-supporter-upgrade.json](./426545-songs-of-silence-firstborn-supporter-upgrade.json) |
 | Songs of Silence: Lighteaters | 330642 | [330642-songs-of-silence-lighteaters.json](./330642-songs-of-silence-lighteaters.json) |
 | Songs of Skydale | 119032 | [119032-songs-of-skydale.json](./119032-songs-of-skydale.json) |
 | Songs of Steel: Hispania | 277369 | [277369-songs-of-steel-hispania.json](./277369-songs-of-steel-hispania.json) |
@@ -30957,6 +30961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoire | 38803 | [38803-stoire.json](./38803-stoire.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
+| Stolemates | 426571 | [426571-stolemates.json](./426571-stolemates.json) |
 | Stolen | 6177 | [6177-stolen.json](./6177-stolen.json) |
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
 | Stolen Crown | 190359 | [190359-stolen-crown.json](./190359-stolen-crown.json) |
@@ -31856,6 +31861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray of Lost Cat | 330649 | [330649-stray-of-lost-cat.json](./330649-stray-of-lost-cat.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Path | 268948 | [268948-stray-path.json](./268948-stray-path.json) |
+| Stray Service | 426533 | [426533-stray-service.json](./426533-stray-service.json) |
 | Stray Sheep and Corpse Love | 393979 | [393979-stray-sheep-and-corpse-love.json](./393979-stray-sheep-and-corpse-love.json) |
 | Stray Sheep vs. Unreal Killers | 393978 | [393978-stray-sheep-vs-unreal-killers.json](./393978-stray-sheep-vs-unreal-killers.json) |
 | Stray Sheep: The Adventures of Poe and Merry | 142790 | [142790-stray-sheep-the-adventures-of-poe-and-merry.json](./142790-stray-sheep-the-adventures-of-poe-and-merry.json) |
