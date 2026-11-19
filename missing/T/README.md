@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Arabian Nights | 415048 | [415048-tales-of-the-arabian-nights.json](./415048-tales-of-the-arabian-nights.json) |
 | Tales of the Aswang VR | 111877 | [111877-tales-of-the-aswang-vr.json](./111877-tales-of-the-aswang-vr.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
+| Tales of the Black Forest | 119744 | [119744-tales-of-the-black-forest.json](./119744-tales-of-the-black-forest.json) |
 | Tales of the Cat | 57008 | [57008-tales-of-the-cat.json](./57008-tales-of-the-cat.json) |
 | Tales of the Cryptozoo | 361233 | [361233-tales-of-the-cryptozoo.json](./361233-tales-of-the-cryptozoo.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
 | Tangles | 274708 | [274708-tangles.json](./274708-tangles.json) |
 | Tangles 2 | 392539 | [392539-tangles-2.json](./392539-tangles-2.json) |
+| Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tanglewood | 36578 | [36578-tanglewood.json](./36578-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tango 5 Reloaded: Grid Action Heroes | 105223 | [105223-tango-5-reloaded-grid-action-heroes.json](./105223-tango-5-reloaded-grid-action-heroes.json) |
@@ -3536,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Chaos | 425930 | [425930-tech-chaos.json](./425930-tech-chaos.json) |
 | Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
+| Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
 | Tech Deck Dude Bare Knuckle Grind | 110580 | [110580-tech-deck-dude-bare-knuckle-grind.json](./110580-tech-deck-dude-bare-knuckle-grind.json) |
 | Tech Deck Skateboarding | 49995 | [49995-tech-deck-skateboarding.json](./49995-tech-deck-skateboarding.json) |
 | Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
@@ -6171,6 +6174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Act of Misdirection | 305053 | [305053-the-act-of-misdirection.json](./305053-the-act-of-misdirection.json) |
 | The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
 | The Action Pack | 69649 | [69649-the-action-pack.json](./69649-the-action-pack.json) |
+| The Activision Decathlon | 11855 | [11855-the-activision-decathlon.json](./11855-the-activision-decathlon.json) |
 | The Addams Family | 14207 | [14207-the-addams-family.json](./14207-the-addams-family.json) |
 | The Addams Family | 14208 | [14208-the-addams-family.json](./14208-the-addams-family.json) |
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
@@ -6542,6 +6546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man | 203141 | [203141-the-amazing-spider-man.json](./203141-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 83898 | [83898-the-amazing-spider-man.json](./83898-the-amazing-spider-man.json) |
+| The Amazing Spider-Man 2 | 107330 | [107330-the-amazing-spider-man-2.json](./107330-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 203150 | [203150-the-amazing-spider-man-2.json](./203150-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man 2 | 4755 | [4755-the-amazing-spider-man-2.json](./4755-the-amazing-spider-man-2.json) |
@@ -7949,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
 | The Caponians | 395482 | [395482-the-caponians.json](./395482-the-caponians.json) |
 | The Capri Connection | 210771 | [210771-the-capri-connection.json](./210771-the-capri-connection.json) |
+| The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
 | The Captain is Dead | 121386 | [121386-the-captain-is-dead.json](./121386-the-captain-is-dead.json) |
 | The Captain's Log | 135314 | [135314-the-captains-log.json](./135314-the-captains-log.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
@@ -9862,6 +9868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Echoes of Worlds | 413385 | [413385-the-echoes-of-worlds.json](./413385-the-echoes-of-worlds.json) |
 | The Eclipse Files | 397745 | [397745-the-eclipse-files.json](./397745-the-eclipse-files.json) |
 | The EdCo Incident | 240372 | [240372-the-edco-incident.json](./240372-the-edco-incident.json) |
+| The Eden of Grisaia | 11458 | [11458-the-eden-of-grisaia.json](./11458-the-eden-of-grisaia.json) |
 | The Edge | 340937 | [340937-the-edge.json](./340937-the-edge.json) |
 | The Edge Ball | 103706 | [103706-the-edge-ball.json](./103706-the-edge-ball.json) |
 | The Edge Of | 160124 | [160124-the-edge-of.json](./160124-the-edge-of.json) |
@@ -10158,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
 | The Enigma Cases | 312794 | [312794-the-enigma-cases.json](./312794-the-enigma-cases.json) |
 | The Enigma Lounge | 380439 | [380439-the-enigma-lounge.json](./380439-the-enigma-lounge.json) |
+| The Enigma Machine | 112483 | [112483-the-enigma-machine.json](./112483-the-enigma-machine.json) |
 | The Enjenir | 197182 | [197182-the-enjenir.json](./197182-the-enjenir.json) |
 | The Enlightened League of Bone Builders and the Osseous Enigma Content | 31592 | [31592-the-enlightened-league-of-bone-builders-and-the-osseous-enigma-content.json](./31592-the-enlightened-league-of-bone-builders-and-the-osseous-enigma-content.json) |
 | The Ensign | 101410 | [101410-the-ensign.json](./101410-the-ensign.json) |
@@ -12340,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House Dreams Along With Them | 373283 | [373283-the-house-dreams-along-with-them.json](./373283-the-house-dreams-along-with-them.json) |
 | The House in Fata Morgana | 36278 | [36278-the-house-in-fata-morgana.json](./36278-the-house-in-fata-morgana.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
+| The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
 | The House in Fata Morgana: Novectacle Collection | 144844 | [144844-the-house-in-fata-morgana-novectacle-collection.json](./144844-the-house-in-fata-morgana-novectacle-collection.json) |
 | The House in Fata Morgana: Reincarnation | 329687 | [329687-the-house-in-fata-morgana-reincarnation.json](./329687-the-house-in-fata-morgana-reincarnation.json) |
 | The House in Fata Morgana: Remaid of Dreams | 330338 | [330338-the-house-in-fata-morgana-remaid-of-dreams.json](./330338-the-house-in-fata-morgana-remaid-of-dreams.json) |
@@ -13266,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters 2006 | 15435 | [15435-the-king-of-fighters-2006.json](./15435-the-king-of-fighters-2006.json) |
 | The King of Fighters 2012-i | 131075 | [131075-the-king-of-fighters-2012-i.json](./131075-the-king-of-fighters-2012-i.json) |
+| The King of Fighters AllStar | 102809 | [102809-the-king-of-fighters-allstar.json](./102809-the-king-of-fighters-allstar.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
 | The King of Fighters Collection: The Orochi Saga | 21711 | [21711-the-king-of-fighters-collection-the-orochi-saga.json](./21711-the-king-of-fighters-collection-the-orochi-saga.json) |
@@ -13478,6 +13488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth Inferno | 421190 | [421190-the-labyrinth-inferno.json](./421190-the-labyrinth-inferno.json) |
 | The Labyrinth of Far Water Grove | 182741 | [182741-the-labyrinth-of-far-water-grove.json](./182741-the-labyrinth-of-far-water-grove.json) |
 | The Labyrinth of Greed | 190003 | [190003-the-labyrinth-of-greed.json](./190003-the-labyrinth-of-greed.json) |
+| The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Ragnarok | 193981 | [193981-the-labyrinth-of-ragnarok.json](./193981-the-labyrinth-of-ragnarok.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
 | The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
@@ -13922,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Relic | 148604 | [148604-the-last-relic.json](./148604-the-last-relic.json) |
 | The Last Remnant | 7047 | [7047-the-last-remnant.json](./7047-the-last-remnant.json) |
+| The Last Remnant Remastered | 109282 | [109282-the-last-remnant-remastered.json](./109282-the-last-remnant-remastered.json) |
 | The Last Resistance | 177728 | [177728-the-last-resistance.json](./177728-the-last-resistance.json) |
 | The Last Resourcer | 347772 | [347772-the-last-resourcer.json](./347772-the-last-resourcer.json) |
 | The Last Revenant | 280881 | [280881-the-last-revenant.json](./280881-the-last-revenant.json) |
@@ -14307,6 +14319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Kyrandia 2: The Hand of Fate | 1283 | [1283-the-legend-of-kyrandia-2-the-hand-of-fate.json](./1283-the-legend-of-kyrandia-2-the-hand-of-fate.json) |
 | The Legend of Kyrandia 3: Malcolm's Revenge | 1287 | [1287-the-legend-of-kyrandia-3-malcolms-revenge.json](./1287-the-legend-of-kyrandia-3-malcolms-revenge.json) |
+| The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy HD Remastered: Deluxe Edition | 270259 | [270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json](./270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Legacy: Launch Edition | 44020 | [44020-the-legend-of-legacy-launch-edition.json](./44020-the-legend-of-legacy-launch-edition.json) |
@@ -18495,6 +18508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Heritage of Kings - Gold Edition | 86492 | [86492-the-settlers-heritage-of-kings-gold-edition.json](./86492-the-settlers-heritage-of-kings-gold-edition.json) |
 | The Settlers: Heritage of Kings - Legends Expansion Disc | 124561 | [124561-the-settlers-heritage-of-kings-legends-expansion-disc.json](./124561-the-settlers-heritage-of-kings-legends-expansion-disc.json) |
 | The Settlers: History Collection | 110053 | [110053-the-settlers-history-collection.json](./110053-the-settlers-history-collection.json) |
+| The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
 | The Settlers: New Allies - Deluxe Pack | 239011 | [239011-the-settlers-new-allies-deluxe-pack.json](./239011-the-settlers-new-allies-deluxe-pack.json) |
@@ -18976,6 +18990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
 | The Sims 4: Moschino Stuff | 136182 | [136182-the-sims-4-moschino-stuff.json](./136182-the-sims-4-moschino-stuff.json) |
 | The Sims 4: Movie Hangout Stuff | 121021 | [121021-the-sims-4-movie-hangout-stuff.json](./121021-the-sims-4-movie-hangout-stuff.json) |
+| The Sims 4: My First Pet Stuff | 121028 | [121028-the-sims-4-my-first-pet-stuff.json](./121028-the-sims-4-my-first-pet-stuff.json) |
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Nifty Knitting Stuff | 139941 | [139941-the-sims-4-nifty-knitting-stuff.json](./139941-the-sims-4-nifty-knitting-stuff.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
@@ -19129,6 +19144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skyscraper and the Scar | 57477 | [57477-the-skyscraper-and-the-scar.json](./57477-the-skyscraper-and-the-scar.json) |
 | The Slappening | 177176 | [177176-the-slappening.json](./177176-the-slappening.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
+| The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughter Spectrum | 224873 | [224873-the-slaughter-spectrum.json](./224873-the-slaughter-spectrum.json) |
 | The Slaughter: Act One | 16995 | [16995-the-slaughter-act-one.json](./16995-the-slaughter-act-one.json) |
 | The Slaughter: Magdalene | 151272 | [151272-the-slaughter-magdalene.json](./151272-the-slaughter-magdalene.json) |
@@ -20050,6 +20066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror Room | 376491 | [376491-the-terror-room.json](./376491-the-terror-room.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The Terry Pebble Show | 232749 | [232749-the-terry-pebble-show.json](./232749-the-terry-pebble-show.json) |
+| The Test | 129694 | [129694-the-test.json](./129694-the-test.json) |
 | The Test Game | 309922 | [309922-the-test-game.json](./309922-the-test-game.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
@@ -23768,6 +23785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tibia Chronicles: Survivors | 394519 | [394519-tibia-chronicles-survivors.json](./394519-tibia-chronicles-survivors.json) |
 | Tibia: otPokémon | 334439 | [334439-tibia-otpokemon.json](./334439-tibia-otpokemon.json) |
 | Tibia: The Walking Dead | 334440 | [334440-tibia-the-walking-dead.json](./334440-tibia-the-walking-dead.json) |
+| TibiaMe | 115761 | [115761-tibiame.json](./115761-tibiame.json) |
 | TibiaScape | 320884 | [320884-tibiascape.json](./320884-tibiascape.json) |
 | Tibili et L'île de la Panthère | 261896 | [261896-tibili-et-lile-de-la-panthere.json](./261896-tibili-et-lile-de-la-panthere.json) |
 | Tibo's Tale | 71422 | [71422-tibos-tale.json](./71422-tibos-tale.json) |
@@ -26469,6 +26487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Dungeon | 224593 | [224593-times-dungeon.json](./224593-times-dungeon.json) |
 | Times Infinity | 149237 | [149237-times-infinity.json](./149237-times-infinity.json) |
 | Times of Conflict | 64277 | [64277-times-of-conflict.json](./64277-times-of-conflict.json) |
+| Times of Lore | 12486 | [12486-times-of-lore.json](./12486-times-of-lore.json) |
 | Times of Survival | 311152 | [311152-times-of-survival.json](./311152-times-of-survival.json) |
 | Times of Vikings | 416219 | [416219-times-of-vikings.json](./416219-times-of-vikings.json) |
 | Times Of War | 253428 | [253428-times-of-war.json](./253428-times-of-war.json) |
@@ -26571,6 +26590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Lord | 372353 | [372353-tin-lord.json](./372353-tin-lord.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
+| Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Star | 35116 | [35116-tin-star.json](./35116-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tin Toy | 80787 | [80787-tin-toy.json](./80787-tin-toy.json) |
@@ -26849,6 +26869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal | 24974 | [24974-tiny-metal.json](./24974-tiny-metal.json) |
 | Tiny Metal 2 | 370273 | [370273-tiny-metal-2.json](./370273-tiny-metal-2.json) |
+| Tiny Metal: Full Metal Rumble | 116201 | [116201-tiny-metal-full-metal-rumble.json](./116201-tiny-metal-full-metal-rumble.json) |
 | Tiny Metal: Full Metal Rumble - Caesar's Rescue | 238261 | [238261-tiny-metal-full-metal-rumble-caesars-rescue.json](./238261-tiny-metal-full-metal-rumble-caesars-rescue.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
@@ -28114,6 +28135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
 | Tokyo Ghoul: To Eat or Not to Eat | 27936 | [27936-tokyo-ghoul-to-eat-or-not-to-eat.json](./27936-tokyo-ghoul-to-eat-or-not-to-eat.json) |
+| Tokyo Ghoul:re Call to Exist | 103495 | [103495-tokyo-ghoul-re-call-to-exist.json](./103495-tokyo-ghoul-re-call-to-exist.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Hotel | 379964 | [379964-tokyo-hotel.json](./379964-tokyo-hotel.json) |
 | Tokyo Joshikou Seifuku o Nuida Zukan: Part 1 | 92075 | [92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json](./92075-tokyo-joshikou-seifuku-o-nuida-zukan-part-1.json) |
@@ -29624,6 +29646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Battle Tactics | 71657 | [71657-total-annihilation-battle-tactics.json](./71657-total-annihilation-battle-tactics.json) |
 | Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
+| Total Annihilation: Kingdoms | 11614 | [11614-total-annihilation-kingdoms.json](./11614-total-annihilation-kingdoms.json) |
 | Total Annihilation: Kingdoms - Iron Plague | 71852 | [71852-total-annihilation-kingdoms-iron-plague.json](./71852-total-annihilation-kingdoms-iron-plague.json) |
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
@@ -30287,6 +30310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Kaikidan: Mystic Square | 45963 | [45963-touhou-kaikidan-mystic-square.json](./45963-touhou-kaikidan-mystic-square.json) |
 | Touhou Kaisekiki: Arabasiri | 269930 | [269930-touhou-kaisekiki-arabasiri.json](./269930-touhou-kaisekiki-arabasiri.json) |
+| Touhou Kanjuden: Legacy of Lunatic Kingdom | 116271 | [116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json](./116271-touhou-kanjuden-legacy-of-lunatic-kingdom.json) |
 | Touhou Kenbun Roku | 48878 | [48878-touhou-kenbun-roku.json](./48878-touhou-kenbun-roku.json) |
 | Touhou Ki Kai Record | 244983 | [244983-touhou-ki-kai-record.json](./244983-touhou-ki-kai-record.json) |
 | Touhou Kichouden: Mythos of Phantasmagoria 2 | 356558 | [356558-touhou-kichouden-mythos-of-phantasmagoria-2.json](./356558-touhou-kichouden-mythos-of-phantasmagoria-2.json) |
@@ -30294,6 +30318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kikeijuu: Wily Beast and Weakest Creature | 118815 | [118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json](./118815-touhou-kikeijuu-wily-beast-and-weakest-creature.json) |
 | Touhou Kimono Blast | 219543 | [219543-touhou-kimono-blast.json](./219543-touhou-kimono-blast.json) |
 | Touhou Kinjoukyou: Fossilized Wonders | 339856 | [339856-touhou-kinjoukyou-fossilized-wonders.json](./339856-touhou-kinjoukyou-fossilized-wonders.json) |
+| Touhou Kishinjou: Double Dealing Character | 119606 | [119606-touhou-kishinjou-double-dealing-character.json](./119606-touhou-kishinjou-double-dealing-character.json) |
 | Touhou Kisouken: Infinite Blade Pavilion | 213251 | [213251-touhou-kisouken-infinite-blade-pavilion.json](./213251-touhou-kisouken-infinite-blade-pavilion.json) |
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
@@ -34012,6 +34037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
 | Transhaping | 115265 | [115265-transhaping.json](./115265-transhaping.json) |
 | Transience | 229004 | [229004-transience.json](./229004-transience.json) |
+| Transient | 119163 | [119163-transient.json](./119163-transient.json) |
 | Transient | 184318 | [184318-transient.json](./184318-transient.json) |
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
 | Transient: Extended Edition | 186911 | [186911-transient-extended-edition.json](./186911-transient-extended-edition.json) |
@@ -34744,6 +34770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treble-Basie | 390756 | [390756-treble-basie.json](./390756-treble-basie.json) |
 | Trebuchet | 36086 | [36086-trebuchet.json](./36086-trebuchet.json) |
 | Trebuchet Town | 175993 | [175993-trebuchet-town.json](./175993-trebuchet-town.json) |
+| Tree | 107899 | [107899-tree.json](./107899-tree.json) |
 | Tree | 335586 | [335586-tree.json](./335586-tree.json) |
 | Tree Eater | 313654 | [313654-tree-eater.json](./313654-tree-eater.json) |
 | Tree Golf | 181662 | [181662-tree-golf.json](./181662-tree-golf.json) |
