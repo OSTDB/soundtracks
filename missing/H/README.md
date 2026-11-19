@@ -6535,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Pantyhose | 369300 | [369300-her-pantyhose.json](./369300-her-pantyhose.json) |
 | Her Pound of Flesh | 139386 | [139386-her-pound-of-flesh.json](./139386-her-pound-of-flesh.json) |
 | Her Red Cosmos | 407606 | [407606-her-red-cosmos.json](./407606-her-red-cosmos.json) |
+| Her Revenge | 424189 | [424189-her-revenge.json](./424189-her-revenge.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
 | Her Sign | 183390 | [183390-her-sign.json](./183390-her-sign.json) |
 | Her Tears Were My Light | 109163 | [109163-her-tears-were-my-light.json](./109163-her-tears-were-my-light.json) |
@@ -9450,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiroshi | 343290 | [343290-hiroshi.json](./343290-hiroshi.json) |
 | Hirotonfa's American Revolution Smuggler | 366565 | [366565-hirotonfas-american-revolution-smuggler.json](./366565-hirotonfas-american-revolution-smuggler.json) |
 | Hirt | 129327 | [129327-hirt.json](./129327-hirt.json) |
+| Hiru: Mansa Assegai | 424201 | [424201-hiru-mansa-assegai.json](./424201-hiru-mansa-assegai.json) |
 | Hirusagari, Yokkyuu Fuman na Hitozuma-tachi ha...: Mesu Ochi Kikenbi Tanetsuke Koubi Kurui | 413704 | [413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json](./413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
@@ -13276,6 +13278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huarongdao | 277705 | [277705-huarongdao.json](./277705-huarongdao.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
 | Hub of Pain | 268912 | [268912-hub-of-pain.json](./268912-hub-of-pain.json) |
+| Hubble Bubble | 424172 | [424172-hubble-bubble.json](./424172-hubble-bubble.json) |
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert | 346482 | [346482-hubert.json](./346482-hubert.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
