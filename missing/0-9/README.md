@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Redrum | 319902 | [319902-redrum.json](./319902-redrum.json) |
 | .Rise // Access | 419000 | [419000-rise-access.json](./419000-rise-access.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
+| .T.E.S.T: Expected Behaviour | 86524 | [86524-t-e-s-t-expected-behaviour.json](./86524-t-e-s-t-expected-behaviour.json) |
 | '83 | 116194 | [116194-83.json](./116194-83.json) |
 | '88 Games | 39329 | [39329-88-games.json](./39329-88-games.json) |
 | '89 Dennou Kyuusei Uranai | 48368 | [48368-89-dennou-kyuusei-uranai.json](./48368-89-dennou-kyuusei-uranai.json) |
@@ -2758,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Escape Room: Detective Story | 333064 | [333064-3d-escape-room-detective-story.json](./333064-3d-escape-room-detective-story.json) |
 | 3D Escape Room: Mystic Manor | 348853 | [348853-3d-escape-room-mystic-manor.json](./348853-3d-escape-room-mystic-manor.json) |
 | 3D Fantasy Zone II W | 86818 | [86818-3d-fantasy-zone-ii-w.json](./86818-3d-fantasy-zone-ii-w.json) |
+| 3D Fantasy Zone: Opa-Opa Bros. | 86817 | [86817-3d-fantasy-zone-opa-opa-bros.json](./86817-3d-fantasy-zone-opa-opa-bros.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Fight | 13266 | [13266-3d-fight.json](./13266-3d-fight.json) |
 | 3D Football | 217639 | [217639-3d-football.json](./217639-3d-football.json) |
