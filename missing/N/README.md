@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
+| Never Die a Spy | 418122 | [418122-never-die-a-spy.json](./418122-never-die-a-spy.json) |
 | Never Down: Only Up | 274717 | [274717-never-down-only-up.json](./274717-never-down-only-up.json) |
 | Never End, Neverland! | 173227 | [173227-never-end-neverland.json](./173227-never-end-neverland.json) |
 | Never Ending Beyond | 224687 | [224687-never-ending-beyond.json](./224687-never-ending-beyond.json) |
