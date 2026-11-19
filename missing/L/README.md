@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last State | 384198 | [384198-last-state.json](./384198-last-state.json) |
 | Last Stickman : Battle Royale | 103105 | [103105-last-stickman-battle-royale.json](./103105-last-stickman-battle-royale.json) |
+| Last Stitch Goodnight | 31887 | [31887-last-stitch-goodnight.json](./31887-last-stitch-goodnight.json) |
 | Last Stonelord | 41911 | [41911-last-stonelord.json](./41911-last-stonelord.json) |
 | Last Stop | 125631 | [125631-last-stop.json](./125631-last-stop.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
@@ -4508,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal | 355235 | [355235-lethal.json](./355235-lethal.json) |
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
+| Lethal Brutal Racing | 31873 | [31873-lethal-brutal-racing.json](./31873-lethal-brutal-racing.json) |
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
 | Lethal Corporation | 317651 | [317651-lethal-corporation.json](./317651-lethal-corporation.json) |
 | Lethal Crash Race | 39930 | [39930-lethal-crash-race.json](./39930-lethal-crash-race.json) |
@@ -5089,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life at 12:47PM | 364239 | [364239-life-at-12-47pm.json](./364239-life-at-12-47pm.json) |
 | Life At Space | 74139 | [74139-life-at-space.json](./74139-life-at-space.json) |
+| Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Below | 348506 | [348506-life-below.json](./348506-life-below.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
