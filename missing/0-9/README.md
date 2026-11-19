@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Last Recode: Premium Edition | 166181 | [166181-hack-g-u-last-recode-premium-edition.json](./166181-hack-g-u-last-recode-premium-edition.json) |
 | .Hack//G.U. Vol. 1: Rebirth | 11987 | [11987-hack-g-u-vol-1-rebirth.json](./11987-hack-g-u-vol-1-rebirth.json) |
 | .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
+| .Hack//G.U. Vol. 2: Reminisce | 11988 | [11988-hack-g-u-vol-2-reminisce.json](./11988-hack-g-u-vol-2-reminisce.json) |
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//G.U. Vol. 4: Reconnection | 140841 | [140841-hack-g-u-vol-4-reconnection.json](./140841-hack-g-u-vol-4-reconnection.json) |
@@ -76,6 +77,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Infection | 11807 | [11807-hack-infection.json](./11807-hack-infection.json) |
 | .hack//Link | 69401 | [69401-hack-link.json](./69401-hack-link.json) |
 | .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
+| .Hack//Outbreak | 11809 | [11809-hack-outbreak.json](./11809-hack-outbreak.json) |
+| .Hack//Quarantine | 11810 | [11810-hack-quarantine.json](./11810-hack-quarantine.json) |
 | .Hack//Sign SK Telecom | 381500 | [381500-hack-sign-sk-telecom.json](./381500-hack-sign-sk-telecom.json) |
 | .hack//Versus | 65212 | [65212-hack-versus.json](./65212-hack-versus.json) |
 | .Hack//Vol. 1 LG-Telecom | 300505 | [300505-hack-vol-1-lg-telecom.json](./300505-hack-vol-1-lg-telecom.json) |
@@ -699,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Birds 2 | 173342 | [173342-100-hidden-birds-2.json](./173342-100-hidden-birds-2.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
+| 100 Hidden Cats | 158986 | [158986-100-hidden-cats.json](./158986-100-hidden-cats.json) |
 | 100 Hidden Cats 2 | 160177 | [160177-100-hidden-cats-2.json](./160177-100-hidden-cats-2.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
 | 100 Hidden Cats in China | 283044 | [283044-100-hidden-cats-in-china.json](./283044-100-hidden-cats-in-china.json) |
@@ -784,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Ninja Cats: Extra Content | 288732 | [288732-100-ninja-cats-extra-content.json](./288732-100-ninja-cats-extra-content.json) |
 | 100 Panda Cats | 417750 | [417750-100-panda-cats.json](./417750-100-panda-cats.json) |
 | 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
+| 100 People Said | 83056 | [83056-100-people-said.json](./83056-100-people-said.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pet Cats | 387775 | [387775-100-pet-cats.json](./387775-100-pet-cats.json) |
 | 100 Petopia Cats | 416424 | [416424-100-petopia-cats.json](./416424-100-petopia-cats.json) |
@@ -1520,8 +1525,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Summers | 424679 | [424679-18-summers.json](./424679-18-summers.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: Across America | 26814 | [26814-18-wheels-of-steel-across-america.json](./26814-18-wheels-of-steel-across-america.json) |
+| 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
 | 18 Wheels of Steel: Convoy | 31696 | [31696-18-wheels-of-steel-convoy.json](./31696-18-wheels-of-steel-convoy.json) |
 | 18 Wheels of Steel: Extreme Trucker | 11428 | [11428-18-wheels-of-steel-extreme-trucker.json](./11428-18-wheels-of-steel-extreme-trucker.json) |
+| 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
 | 18 Wheels of Steel: Haulin' | 31697 | [31697-18-wheels-of-steel-haulin.json](./31697-18-wheels-of-steel-haulin.json) |
 | 18 Wheels of Steel: Pedal to the Metal | 37046 | [37046-18-wheels-of-steel-pedal-to-the-metal.json](./37046-18-wheels-of-steel-pedal-to-the-metal.json) |
 | 18: Dream World | 56137 | [56137-18-dream-world.json](./56137-18-dream-world.json) |
@@ -3675,6 +3682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Gates: The Path to Zamolxes | 52351 | [52351-7-gates-the-path-to-zamolxes.json](./52351-7-gates-the-path-to-zamolxes.json) |
 | 7 Girls War | 160238 | [160238-7-girls-war.json](./160238-7-girls-war.json) |
 | 7 Grand Dad | 146068 | [146068-7-grand-dad.json](./146068-7-grand-dad.json) |
+| 7 Grand Steps: What Ancients Begat | 16537 | [16537-7-grand-steps-what-ancients-begat.json](./16537-7-grand-steps-what-ancients-begat.json) |
 | 7 Gunfighters | 345137 | [345137-7-gunfighters.json](./345137-7-gunfighters.json) |
 | 7 Hills of Rome: Mahjong | 293940 | [293940-7-hills-of-rome-mahjong.json](./293940-7-hills-of-rome-mahjong.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
@@ -3830,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Bit Space | 135100 | [135100-8-bit-space.json](./135100-8-bit-space.json) |
 | 8 Bitty Games | 240550 | [240550-8-bitty-games.json](./240550-8-bitty-games.json) |
+| 8 Eyes | 1975 | [1975-8-eyes.json](./1975-8-eyes.json) |
 | 8 Floor, Only Me? | 379076 | [379076-8-floor-only-me.json](./379076-8-floor-only-me.json) |
 | 8 Hours Till Dawn | 407153 | [407153-8-hours-till-dawn.json](./407153-8-hours-till-dawn.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
