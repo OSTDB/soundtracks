@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawless Fishtank | 348440 | [348440-jawless-fishtank.json](./348440-jawless-fishtank.json) |
 | Jawns | 87813 | [87813-jawns.json](./87813-jawns.json) |
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
+| Jaws | 419555 | [419555-jaws.json](./419555-jaws.json) |
 | Jaws | 68385 | [68385-jaws.json](./68385-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
 | Jaws of Destruction | 269449 | [269449-jaws-of-destruction.json](./269449-jaws-of-destruction.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
+| Jocky Wilson's Darts Challenge | 419556 | [419556-jocky-wilsons-darts-challenge.json](./419556-jocky-wilsons-darts-challenge.json) |
 | Jodie Drake | 210214 | [210214-jodie-drake.json](./210214-jodie-drake.json) |
 | Jodie Drake and the World in Peril | 25362 | [25362-jodie-drake-and-the-world-in-peril.json](./25362-jodie-drake-and-the-world-in-peril.json) |
 | Joe 'n Jo | 294368 | [294368-joe-n-jo.json](./294368-joe-n-jo.json) |
@@ -2712,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Adventure | 63574 | [63574-john-adventure.json](./63574-john-adventure.json) |
 | John Adventure | 63575 | [63575-john-adventure.json](./63575-john-adventure.json) |
 | John Anderson's Rally Speedway | 46914 | [46914-john-andersons-rally-speedway.json](./46914-john-andersons-rally-speedway.json) |
+| John avec un I | 419551 | [419551-john-avec-un-i.json](./419551-john-avec-un-i.json) |
 | John Barnes European Football | 12646 | [12646-john-barnes-european-football.json](./12646-john-barnes-european-football.json) |
 | John Black: Memories | 108417 | [108417-john-black-memories.json](./108417-john-black-memories.json) |
 | John Brick | 207787 | [207787-john-brick.json](./207787-john-brick.json) |
