@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hat | 137515 | [137515-magical-hat.json](./137515-magical-hat.json) |
 | Magical Hat no Buttobi Turbo! Daibouken | 4472 | [4472-magical-hat-no-buttobi-turbo-daibouken.json](./4472-magical-hat-no-buttobi-turbo-daibouken.json) |
+| Magical Hellhound Lust | 428949 | [428949-magical-hellhound-lust.json](./428949-magical-hellhound-lust.json) |
 | Magical Hero Girl Shot! | 427719 | [427719-magical-hero-girl-shot.json](./427719-magical-hero-girl-shot.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Hop | 133623 | [133623-magical-hop.json](./133623-magical-hop.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Haoh: Shinken Battle | 123219 | [123219-mahjong-haoh-shinken-battle.json](./123219-mahjong-haoh-shinken-battle.json) |
 | Mahjong Haoh: Taikai Battle | 123223 | [123223-mahjong-haoh-taikai-battle.json](./123223-mahjong-haoh-taikai-battle.json) |
 | Mahjong Haouden: Kaiser's Quest | 38098 | [38098-mahjong-haouden-kaisers-quest.json](./38098-mahjong-haouden-kaisers-quest.json) |
+| Mahjong Hero | 428990 | [428990-mahjong-hero.json](./428990-mahjong-hero.json) |
 | Mahjong Hishou-den: Shin Naki no Ryuu | 37937 | [37937-mahjong-hishou-den-shin-naki-no-ryuu.json](./37937-mahjong-hishou-den-shin-naki-no-ryuu.json) |
 | Mahjong Hot Gimmick Integral | 137932 | [137932-mahjong-hot-gimmick-integral.json](./137932-mahjong-hot-gimmick-integral.json) |
 | Mahjong Hourouki Classic | 136735 | [136735-mahjong-hourouki-classic.json](./136735-mahjong-hourouki-classic.json) |
@@ -9760,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melia Keys In... Quantum Decade | 280414 | [280414-melia-keys-in-quantum-decade.json](./280414-melia-keys-in-quantum-decade.json) |
 | Meliora | 210848 | [210848-meliora.json](./210848-meliora.json) |
 | Meliora's Detective Simulator | 123984 | [123984-melioras-detective-simulator.json](./123984-melioras-detective-simulator.json) |
+| Melioristic Egalitarian Artist 1: Help! All of Art Is Trapped Until It Can Be Properly Defined! | 428961 | [428961-melioristic-egalitarian-artist-1-help-all-of-art-is-trapped-until-it-can-be-properly-defined.json](./428961-melioristic-egalitarian-artist-1-help-all-of-art-is-trapped-until-it-can-be-properly-defined.json) |
 | Melissa | 225798 | [225798-melissa.json](./225798-melissa.json) |
 | Melissa K. and the Heart of Gold | 58148 | [58148-melissa-k-and-the-heart-of-gold.json](./58148-melissa-k-and-the-heart-of-gold.json) |
 | Melissa K. and the Heart of Gold: Collector's Edition | 36235 | [36235-melissa-k-and-the-heart-of-gold-collectors-edition.json](./36235-melissa-k-and-the-heart-of-gold-collectors-edition.json) |
@@ -17001,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoHo | 176877 | [176877-moho.json](./176877-moho.json) |
 | Mohrta | 298795 | [298795-mohrta.json](./298795-mohrta.json) |
 | MoHun Online | 290316 | [290316-mohun-online.json](./290316-mohun-online.json) |
+| Mohur | 428967 | [428967-mohur.json](./428967-mohur.json) |
 | Moi Mei | 111966 | [111966-moi-mei.json](./111966-moi-mei.json) |
 | Moi Mei 2 | 159485 | [159485-moi-mei-2.json](./159485-moi-mei-2.json) |
 | Moi Mei: Hidden Objects | 199655 | [199655-moi-mei-hidden-objects.json](./199655-moi-mei-hidden-objects.json) |
@@ -18261,6 +18265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Land: 2D MMORPG | 208746 | [208746-monster-land-2d-mmorpg.json](./208746-monster-land-2d-mmorpg.json) |
 | Monster land: Builder | 216043 | [216043-monster-land-builder.json](./216043-monster-land-builder.json) |
 | Monster Layer | 392680 | [392680-monster-layer.json](./392680-monster-layer.json) |
+| Monster League Baseball | 428953 | [428953-monster-league-baseball.json](./428953-monster-league-baseball.json) |
 | Monster Legacy | 20066 | [20066-monster-legacy.json](./20066-monster-legacy.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
 | Monster Legacy: New Horizons | 287038 | [287038-monster-legacy-new-horizons.json](./287038-monster-legacy-new-horizons.json) |
@@ -19624,6 +19629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphine | 26520 | [26520-morphine.json](./26520-morphine.json) |
 | Morphing | 335215 | [335215-morphing.json](./335215-morphing.json) |
+| Morphing Blocks | 428952 | [428952-morphing-blocks.json](./428952-morphing-blocks.json) |
 | Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
 | Morpho Reverie | 415726 | [415726-morpho-reverie.json](./415726-morpho-reverie.json) |
@@ -21246,6 +21252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bubble | 319437 | [319437-mr-bubble.json](./319437-mr-bubble.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
 | Mr. Bump | 137833 | [137833-mr-bump.json](./137833-mr-bump.json) |
+| Mr. Bump | 428987 | [428987-mr-bump.json](./428987-mr-bump.json) |
 | Mr. Bunny | 427580 | [427580-mr-bunny.json](./427580-mr-bunny.json) |
 | Mr. Buttman's Grand Opening | 263122 | [263122-mr-buttmans-grand-opening.json](./263122-mr-buttmans-grand-opening.json) |
 | Mr. Capital! | 278082 | [278082-mr-capital.json](./278082-mr-capital.json) |
