@@ -9854,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | HiveFall | 109518 | [109518-hivefall.json](./109518-hivefall.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
+| Hivekeepers | 423017 | [423017-hivekeepers.json](./423017-hivekeepers.json) |
 | Hivemind | 357175 | [357175-hivemind.json](./357175-hivemind.json) |
 | Hiversaires | 230239 | [230239-hiversaires.json](./230239-hiversaires.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
@@ -10150,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holding It | 378537 | [378537-holding-it.json](./378537-holding-it.json) |
 | Holding Keys | 255839 | [255839-holding-keys.json](./255839-holding-keys.json) |
 | Holding Pattern | 389591 | [389591-holding-pattern.json](./389591-holding-pattern.json) |
+| Holdline: Last Gate | 423007 | [423007-holdline-last-gate.json](./423007-holdline-last-gate.json) |
 | Holdover | 125864 | [125864-holdover.json](./125864-holdover.json) |
 | Hole | 310931 | [310931-hole.json](./310931-hole.json) |
 | Hole | 79160 | [79160-hole.json](./79160-hole.json) |
