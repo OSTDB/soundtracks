@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elizabeth Find M.D. Diagnosis Mystery | 85689 | [85689-elizabeth-find-m-d-diagnosis-mystery.json](./85689-elizabeth-find-m-d-diagnosis-mystery.json) |
 | Elizabeth Find M.D.: Diagnosis Mystery - Season 2 | 14968 | [14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json](./14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json) |
 | Elizabeth's Score | 150329 | [150329-elizabeths-score.json](./150329-elizabeths-score.json) |
+| Elize | 427760 | [427760-elize.json](./427760-elize.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
