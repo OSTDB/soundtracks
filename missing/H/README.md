@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardly Workin' | 352289 | [352289-hardly-workin.json](./352289-hardly-workin.json) |
 | Hardnoid | 29976 | [29976-hardnoid.json](./29976-hardnoid.json) |
+| Hardpan | 426582 | [426582-hardpan.json](./426582-hardpan.json) |
 | Hardpoint | 372187 | [372187-hardpoint.json](./372187-hardpoint.json) |
 | Hardpunch: Fuck 4Joy | 165812 | [165812-hardpunch-fuck-4joy.json](./165812-hardpunch-fuck-4joy.json) |
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
@@ -2968,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
 | Hatsune Miku Logic Paint S | 144759 | [144759-hatsune-miku-logic-paint-s.json](./144759-hatsune-miku-logic-paint-s.json) |
 | Hatsune Miku Logic Paint S+ | 353940 | [353940-hatsune-miku-logic-paint-s.json](./353940-hatsune-miku-logic-paint-s.json) |
+| Hatsune Miku Logic Paint S+: Snow Miku Sky Town | 426539 | [426539-hatsune-miku-logic-paint-s-snow-miku-sky-town.json](./426539-hatsune-miku-logic-paint-s-snow-miku-sky-town.json) |
 | Hatsune Miku Starry Party | 409132 | [409132-hatsune-miku-starry-party.json](./409132-hatsune-miku-starry-party.json) |
 | Hatsune Miku Tycoon | 216034 | [216034-hatsune-miku-tycoon.json](./216034-hatsune-miku-tycoon.json) |
 | Hatsune Miku VR: 5 Songs pack 1 | 223587 | [223587-hatsune-miku-vr-5-songs-pack-1.json](./223587-hatsune-miku-vr-5-songs-pack-1.json) |
@@ -10500,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloType: Treasure Zombie Island | 388653 | [388653-holotype-treasure-zombie-island.json](./388653-holotype-treasure-zombie-island.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
+| HoloVillage: Our Cozy Days - Gen 3 Live Outfit Set | 426540 | [426540-holovillage-our-cozy-days-gen-3-live-outfit-set.json](./426540-holovillage-our-cozy-days-gen-3-live-outfit-set.json) |
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
 | Holoware | 177687 | [177687-holoware.json](./177687-holoware.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
