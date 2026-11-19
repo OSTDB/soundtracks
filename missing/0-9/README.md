@@ -1626,7 +1626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 195 Hours in the Cold | 216296 | [216296-195-hours-in-the-cold.json](./216296-195-hours-in-the-cold.json) |
 | 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
-| 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1955: The Secret Mission | 80075 | [80075-1955-the-secret-mission.json](./80075-1955-the-secret-mission.json) |
 | 1958: Dancing with Fear | 216434 | [216434-1958-dancing-with-fear.json](./216434-1958-dancing-with-fear.json) |
 | 1960s Locospotter | 83109 | [83109-1960s-locospotter.json](./83109-1960s-locospotter.json) |
