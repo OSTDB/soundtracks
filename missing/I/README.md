@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | I | 407644 | [407644-i.json](./407644-i.json) |
+| I <3 You! | 107442 | [107442-i-3-you.json](./107442-i-3-you.json) |
 | I Accidentally Restarted the USSR | 167527 | [167527-i-accidentally-restarted-the-ussr.json](./167527-i-accidentally-restarted-the-ussr.json) |
 | I Accidently Insulted a Witch and Now All of My Clothes Are Sentient and They Hate Me! | 178810 | [178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json](./178810-i-accidently-insulted-a-witch-and-now-all-of-my-clothes-are-sentient-and-they-hate-me.json) |
 | I Alien | 54600 | [54600-i-alien.json](./54600-i-alien.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Ones | 329412 | [329412-infected-ones.json](./329412-infected-ones.json) |
 | Infected Prison | 156561 | [156561-infected-prison.json](./156561-infected-prison.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
+| Infected Shelter | 107291 | [107291-infected-shelter.json](./107291-infected-shelter.json) |
 | Infected spaceship generator | 164062 | [164062-infected-spaceship-generator.json](./164062-infected-spaceship-generator.json) |
 | Infected Swarm | 384860 | [384860-infected-swarm.json](./384860-infected-swarm.json) |
 | Infected Town | 150958 | [150958-infected-town.json](./150958-infected-town.json) |
