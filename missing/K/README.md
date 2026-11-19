@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickBeat | 7683 | [7683-kickbeat.json](./7683-kickbeat.json) |
 | KickBeat: Special Edition | 20059 | [20059-kickbeat-special-edition.json](./20059-kickbeat-special-edition.json) |
 | Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
+| Kickboxing | 76729 | [76729-kickboxing.json](./76729-kickboxing.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
 | Kicker | 350706 | [350706-kicker.json](./350706-kicker.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
@@ -2521,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickoff Legends | 28338 | [28338-kickoff-legends.json](./28338-kickoff-legends.json) |
 | Kickoff Returner Pro | 89445 | [89445-kickoff-returner-pro.json](./89445-kickoff-returner-pro.json) |
 | Kickrexing | 193487 | [193487-kickrexing.json](./193487-kickrexing.json) |
+| Kicks Online | 83036 | [83036-kicks-online.json](./83036-kicks-online.json) |
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | Kickslaught | 419216 | [419216-kickslaught.json](./419216-kickslaught.json) |
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
@@ -2947,7 +2949,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Them All | 345399 | [345399-kill-them-all.json](./345399-kill-them-all.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill Tiger | 113538 | [113538-kill-tiger.json](./113538-kill-tiger.json) |
-| Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
 | Kill Will | 290262 | [290262-kill-will.json](./290262-kill-will.json) |
@@ -3477,7 +3478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King K Roller 2 | 250228 | [250228-king-k-roller-2.json](./250228-king-k-roller-2.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
 | King Kitty Saves The Animals | 271615 | [271615-king-kitty-saves-the-animals.json](./271615-king-kitty-saves-the-animals.json) |
-| King Kong | 18763 | [18763-king-kong.json](./18763-king-kong.json) |
 | King Kong | 198793 | [198793-king-kong.json](./198793-king-kong.json) |
 | King Kong | 198794 | [198794-king-kong.json](./198794-king-kong.json) |
 | King Kong | 200320 | [200320-king-kong.json](./200320-king-kong.json) |
@@ -4487,7 +4487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Houkou Demonbane | 203648 | [203648-kishin-houkou-demonbane.json](./203648-kishin-houkou-demonbane.json) |
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
-| Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
 | Kismet | 311394 | [311394-kismet.json](./311394-kismet.json) |
 | Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
 | Kisou Jidaigeki Sugoroku: Shinobi No Roku | 377559 | [377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json](./377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json) |
@@ -7207,6 +7206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi 4: Consider It + "Dire Situations" DLC | 415719 | [415719-kuukiyomi-4-consider-it-dire-situations-dlc.json](./415719-kuukiyomi-4-consider-it-dire-situations-dlc.json) |
 | Kuukiyomi: Consider It World - Thailand Ver. | 355970 | [355970-kuukiyomi-consider-it-world-thailand-ver.json](./355970-kuukiyomi-consider-it-world-thailand-ver.json) |
+| Kuukiyomi: Consider It! | 129239 | [129239-kuukiyomi-consider-it.json](./129239-kuukiyomi-consider-it.json) |
 | Kuukiyomi: Consider It! 123 Bundle | 328731 | [328731-kuukiyomi-consider-it-123-bundle.json](./328731-kuukiyomi-consider-it-123-bundle.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuura in the Snowglobe | 114689 | [114689-kuura-in-the-snowglobe.json](./114689-kuura-in-the-snowglobe.json) |
