@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinegun Joe vs The Mafia | 394160 | [394160-machinegun-joe-vs-the-mafia.json](./394160-machinegun-joe-vs-the-mafia.json) |
 | MachineGunner2: Bullet Transcending | 365270 | [365270-machinegunner2-bullet-transcending.json](./365270-machinegunner2-bullet-transcending.json) |
 | MachineryWorld | 158118 | [158118-machineryworld.json](./158118-machineryworld.json) |
+| Machines | 22821 | [22821-machines.json](./22821-machines.json) |
 | Machines at War 3 | 17485 | [17485-machines-at-war-3.json](./17485-machines-at-war-3.json) |
 | Machines Have Lucid Dreams | 210334 | [210334-machines-have-lucid-dreams.json](./210334-machines-have-lucid-dreams.json) |
 | Machines of Madness | 263032 | [263032-machines-of-madness.json](./263032-machines-of-madness.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: Party Robes | 50816 | [50816-magicka-party-robes.json](./50816-magicka-party-robes.json) |
 | Magicka: Peculiar Gadgets Item Pack | 327242 | [327242-magicka-peculiar-gadgets-item-pack.json](./327242-magicka-peculiar-gadgets-item-pack.json) |
 | Magicka: The Other Side of the Coin | 22642 | [22642-magicka-the-other-side-of-the-coin.json](./22642-magicka-the-other-side-of-the-coin.json) |
+| Magicka: The Stars are Left | 22641 | [22641-magicka-the-stars-are-left.json](./22641-magicka-the-stars-are-left.json) |
 | Magicka: The Watchtower | 50815 | [50815-magicka-the-watchtower.json](./50815-magicka-the-watchtower.json) |
 | Magicka: Tower of Niflheim | 148874 | [148874-magicka-tower-of-niflheim.json](./148874-magicka-tower-of-niflheim.json) |
 | Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
@@ -1972,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
 | Magna Carta Portable | 196741 | [196741-magna-carta-portable.json](./196741-magna-carta-portable.json) |
+| Magna Carta: Tears of Blood | 22595 | [22595-magna-carta-tears-of-blood.json](./22595-magna-carta-tears-of-blood.json) |
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
 | Magna Carta: The Phantom of Avalanche | 69641 | [69641-magna-carta-the-phantom-of-avalanche.json](./69641-magna-carta-the-phantom-of-avalanche.json) |
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
@@ -12628,6 +12631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Plus! for Windows XP | 256398 | [256398-microsoft-plus-for-windows-xp.json](./256398-microsoft-plus-for-windows-xp.json) |
 | Microsoft Puzzle Collection Entertainment Pack | 73142 | [73142-microsoft-puzzle-collection-entertainment-pack.json](./73142-microsoft-puzzle-collection-entertainment-pack.json) |
 | Microsoft Rebound | 209515 | [209515-microsoft-rebound.json](./209515-microsoft-rebound.json) |
+| Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
 | Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
@@ -16339,6 +16343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 13: The Show - Home Run Derby Edition | 99955 | [99955-mlb-13-the-show-home-run-derby-edition.json](./99955-mlb-13-the-show-home-run-derby-edition.json) |
 | MLB 14: The Show | 9642 | [9642-mlb-14-the-show.json](./9642-mlb-14-the-show.json) |
 | MLB 15: The Show | 8655 | [8655-mlb-15-the-show.json](./8655-mlb-15-the-show.json) |
+| MLB 2000 | 22772 | [22772-mlb-2000.json](./22772-mlb-2000.json) |
 | MLB 2001 | 28193 | [28193-mlb-2001.json](./28193-mlb-2001.json) |
 | MLB 2002 | 28194 | [28194-mlb-2002.json](./28194-mlb-2002.json) |
 | MLB 2003 | 28196 | [28196-mlb-2003.json](./28196-mlb-2003.json) |
@@ -21472,6 +21477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Rightaway | 341341 | [341341-mr-rightaway.json](./341341-mr-rightaway.json) |
 | Mr. Robot and His Robot Factory | 23900 | [23900-mr-robot-and-his-robot-factory.json](./23900-mr-robot-and-his-robot-factory.json) |
 | Mr. Robot II | 378845 | [378845-mr-robot-ii.json](./378845-mr-robot-ii.json) |
+| Mr. Robot:1.51exfiltrati0n | 22748 | [22748-mr-robot-1-51exfiltrati0n.json](./22748-mr-robot-1-51exfiltrati0n.json) |
 | Mr. Roboto! | 41578 | [41578-mr-roboto.json](./41578-mr-roboto.json) |
 | Mr. Run & Jump + Kombinera Adrenaline | 282054 | [282054-mr-run-and-jump-kombinera-adrenaline.json](./282054-mr-run-and-jump-kombinera-adrenaline.json) |
 | Mr. Run and Jump | 249540 | [249540-mr-run-and-jump.json](./249540-mr-run-and-jump.json) |
