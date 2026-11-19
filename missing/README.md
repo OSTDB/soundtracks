@@ -58,8 +58,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 44 | **Need for Speed: Porsche Unleashed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%3A%20Porsche%20Unleashed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/94-need-for-speed-porsche-unleashed.json) |
 | 45 | **Life is Strange: True Colors** | [🔎 Find on Spotify](https://open.spotify.com/search/Life%20is%20Strange%3A%20True%20Colors%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/144765-life-is-strange-true-colors.json) |
 | 46 | **The Room** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Room%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/11625-the-room.json) |
-| 47 | **Pokémon Shield** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Shield%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/115653-pokemon-shield.json) |
-| 48 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 47 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 48 | **Pokémon Shield** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Shield%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/115653-pokemon-shield.json) |
 | 49 | **Deadpool** | [🔎 Find on Spotify](https://open.spotify.com/search/Deadpool%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1919-deadpool.json) |
 | 50 | **Devil May Cry 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Devil%20May%20Cry%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/135-devil-may-cry-2.json) |
 
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 21489 games | 21202 games | 24081 games | 22314 games | 9783 games | 16257 games | 13183 games |
+| 21492 games | 21204 games | 24086 games | 22317 games | 9784 games | 16260 games | 13184 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 14800 games | 7946 games | 4875 games | 7364 games | 11704 games | 25495 games | 8902 games |
+| 14804 games | 7948 games | 4875 games | 7365 games | 11707 games | 25496 games | 8903 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6745 games | 21552 games | 1473 games | 14985 games | 41463 games | 38322 games | 4151 games |
+| 6746 games | 21553 games | 1473 games | 14988 games | 41470 games | 38324 games | 4151 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4918 games | 10889 games | 1217 games | 2448 games | 3008 games | 4231 games |
+| 4920 games | 10890 games | 1217 games | 2448 games | 3010 games | 4232 games |
 
 ---
 
-_364797 games missing a soundtrack · last updated 2026-11-19T00:36:11.436Z_
+_364847 games missing a soundtrack · last updated 2026-11-19T00:50:29.711Z_
