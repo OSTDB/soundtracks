@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors: Chronicles | 6882 | [6882-samurai-warriors-chronicles.json](./6882-samurai-warriors-chronicles.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
+| Samurai Warriors: State of War | 12299 | [12299-samurai-warriors-state-of-war.json](./12299-samurai-warriors-state-of-war.json) |
 | Samurai Warriors: Xtreme Legends | 12298 | [12298-samurai-warriors-xtreme-legends.json](./12298-samurai-warriors-xtreme-legends.json) |
 | Samurai Wars | 196342 | [196342-samurai-wars.json](./196342-samurai-wars.json) |
 | Samurai Wars | 32025 | [32025-samurai-wars.json](./32025-samurai-wars.json) |
@@ -5007,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Match Bundle | 292925 | [292925-season-match-bundle.json](./292925-season-match-bundle.json) |
 | Season Match HD 1+2 | 194512 | [194512-season-match-hd-1-2.json](./194512-season-match-hd-1-2.json) |
 | Season of 12 Colors | 35234 | [35234-season-of-12-colors.json](./35234-season-of-12-colors.json) |
+| Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
 | Season Ticket Baseball | 206642 | [206642-season-ticket-baseball.json](./206642-season-ticket-baseball.json) |
 | Season Ticket Basketball 2003 | 73623 | [73623-season-ticket-basketball-2003.json](./73623-season-ticket-basketball-2003.json) |
@@ -6124,6 +6126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-care for wizards | 176946 | [176946-self-care-for-wizards.json](./176946-self-care-for-wizards.json) |
 | Self-Checkout Unlimited | 131673 | [131673-self-checkout-unlimited.json](./131673-self-checkout-unlimited.json) |
 | Self-Comb Women: Home Left Behind | 351380 | [351380-self-comb-women-home-left-behind.json](./351380-self-comb-women-home-left-behind.json) |
+| Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
 | Self-Delusion | 158325 | [158325-self-delusion.json](./158325-self-delusion.json) |
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
 | Self-Isolation | 139644 | [139644-self-isolation.json](./139644-self-isolation.json) |
@@ -7004,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Kingdoms 2 HD | 9330 | [9330-seven-kingdoms-2-hd.json](./9330-seven-kingdoms-2-hd.json) |
 | Seven Kingdoms II: The Fryhtan Wars | 860 | [860-seven-kingdoms-ii-the-fryhtan-wars.json](./860-seven-kingdoms-ii-the-fryhtan-wars.json) |
 | Seven Kingdoms: Ancient Adversaries | 33303 | [33303-seven-kingdoms-ancient-adversaries.json](./33303-seven-kingdoms-ancient-adversaries.json) |
+| Seven Kingdoms: Conquest | 8942 | [8942-seven-kingdoms-conquest.json](./8942-seven-kingdoms-conquest.json) |
 | Seven Kingdoms: The Princess Problem | 336036 | [336036-seven-kingdoms-the-princess-problem.json](./336036-seven-kingdoms-the-princess-problem.json) |
 | Seven Knights | 38689 | [38689-seven-knights.json](./38689-seven-knights.json) |
 | Seven Knights 2 | 140885 | [140885-seven-knights-2.json](./140885-seven-knights-2.json) |
@@ -17466,6 +17470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
+| Sneaky Sneaky | 14553 | [14553-sneaky-sneaky.json](./14553-sneaky-sneaky.json) |
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Snedronningen | 389350 | [389350-snedronningen.json](./389350-snedronningen.json) |
@@ -18425,6 +18430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
+| Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
 | Sociable Soccer 25 | 324603 | [324603-sociable-soccer-25.json](./324603-sociable-soccer-25.json) |
 | Social City | 65947 | [65947-social-city.json](./65947-social-city.json) |
 | Social Club VR : Casino Nights | 130746 | [130746-social-club-vr-casino-nights.json](./130746-social-club-vr-casino-nights.json) |
@@ -24250,6 +24256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed-Deus-Ex-Machine | 277629 | [277629-speed-deus-ex-machine.json](./277629-speed-deus-ex-machine.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
 | Speedball | 340189 | [340189-speedball.json](./340189-speedball.json) |
+| Speedball 2 HD | 9027 | [9027-speedball-2-hd.json](./9027-speedball-2-hd.json) |
 | Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
 | Speedball 2: Brutal Deluxe | 147273 | [147273-speedball-2-brutal-deluxe.json](./147273-speedball-2-brutal-deluxe.json) |
@@ -24690,6 +24697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpelunKing: The Mine Match | 132545 | [132545-spelunking-the-mine-match.json](./132545-spelunking-the-mine-match.json) |
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
+| Spelunx and the Caves of Mr. Seudo | 15067 | [15067-spelunx-and-the-caves-of-mr-seudo.json](./15067-spelunx-and-the-caves-of-mr-seudo.json) |
 | Spelvin Goolie, Private Eyeball | 397386 | [397386-spelvin-goolie-private-eyeball.json](./397386-spelvin-goolie-private-eyeball.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
 | Spencer's Spaghetti Quest | 368414 | [368414-spencers-spaghetti-quest.json](./368414-spencers-spaghetti-quest.json) |
@@ -28945,6 +28953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlord | 12780 | [12780-starlord.json](./12780-starlord.json) |
 | Starlost: Space Shooter | 219949 | [219949-starlost-space-shooter.json](./219949-starlost-space-shooter.json) |
 | Starlynx | 177942 | [177942-starlynx.json](./177942-starlynx.json) |
+| Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
 | Starmageddon 2 | 27251 | [27251-starmageddon-2.json](./27251-starmageddon-2.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
@@ -33240,6 +33249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub-Verge | 334623 | [334623-sub-verge.json](./334623-sub-verge.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Suba Pogo | 414487 | [414487-suba-pogo.json](./414487-suba-pogo.json) |
+| Subaeria | 12814 | [12814-subaeria.json](./12814-subaeria.json) |
 | SubaraCity | 56281 | [56281-subaracity.json](./56281-subaracity.json) |
 | Subaru no Kishi | 301303 | [301303-subaru-no-kishi.json](./301303-subaru-no-kishi.json) |
 | Subaru Poker | 131142 | [131142-subaru-poker.json](./131142-subaru-poker.json) |
@@ -34436,6 +34446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night 2 | 272092 | [272092-summon-night-2.json](./272092-summon-night-2.json) |
 | Summon Night 3 | 13108 | [13108-summon-night-3.json](./13108-summon-night-3.json) |
 | Summon Night 4 | 13109 | [13109-summon-night-4.json](./13109-summon-night-4.json) |
+| Summon Night 5 | 13110 | [13110-summon-night-5.json](./13110-summon-night-5.json) |
+| Summon Night 6: Lost Borders | 13111 | [13111-summon-night-6-lost-borders.json](./13111-summon-night-6-lost-borders.json) |
 | Summon Night 6: Lost Borders - Amu Edition | 167110 | [167110-summon-night-6-lost-borders-amu-edition.json](./167110-summon-night-6-lost-borders-amu-edition.json) |
 | Summon Night Craft Sword Monogatari: Hajimari no Ishi | 49810 | [49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json](./49810-summon-night-craft-sword-monogatari-hajimari-no-ishi.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
@@ -39990,6 +40002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwapTales: Leon! | 116439 | [116439-swaptales-leon.json](./116439-swaptales-leon.json) |
 | SwapTiles | 100664 | [100664-swaptiles.json](./100664-swaptiles.json) |
 | Swapwood Quest R | 384253 | [384253-swapwood-quest-r.json](./384253-swapwood-quest-r.json) |
+| Swarm | 13766 | [13766-swarm.json](./13766-swarm.json) |
 | Swarm | 145549 | [145549-swarm.json](./145549-swarm.json) |
 | Swarm | 149182 | [149182-swarm.json](./149182-swarm.json) |
 | Swarm | 19138 | [19138-swarm.json](./19138-swarm.json) |
