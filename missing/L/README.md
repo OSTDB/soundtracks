@@ -11173,6 +11173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Sky | 35447 | [35447-luna-sky.json](./35447-luna-sky.json) |
 | Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
+| Luna Star Rancher | 426588 | [426588-luna-star-rancher.json](./426588-luna-star-rancher.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
 | Luna Story Prologue | 267242 | [267242-luna-story-prologue.json](./267242-luna-story-prologue.json) |
