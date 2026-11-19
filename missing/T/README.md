@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognita | 233822 | [233822-terra-incognita.json](./233822-terra-incognita.json) |
+| Terra Incognita ~ Chapter One: The Descendant | 35808 | [35808-terra-incognita-chapter-one-the-descendant.json](./35808-terra-incognita-chapter-one-the-descendant.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
 | Terra Invicta | 124042 | [124042-terra-invicta.json](./124042-terra-invicta.json) |
@@ -11686,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grass of Genesis | 305419 | [305419-the-grass-of-genesis.json](./305419-the-grass-of-genesis.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave | 63085 | [63085-the-grave.json](./63085-the-grave.json) |
+| The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Grave Keeper | 339198 | [339198-the-grave-keeper.json](./339198-the-grave-keeper.json) |
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
@@ -15169,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cave of the Ozarks | 125120 | [125120-the-lost-cave-of-the-ozarks.json](./125120-the-lost-cave-of-the-ozarks.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Cemetery | 268995 | [268995-the-lost-cemetery.json](./268995-the-lost-cemetery.json) |
+| The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost Chrononaut | 141754 | [141754-the-lost-chrononaut.json](./141754-the-lost-chrononaut.json) |
 | The Lost Cities | 232787 | [232787-the-lost-cities.json](./232787-the-lost-cities.json) |
 | The Lost City | 22591 | [22591-the-lost-city.json](./22591-the-lost-city.json) |
@@ -15803,6 +15806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mimic | 181460 | [181460-the-mimic.json](./181460-the-mimic.json) |
 | The Mimic | 74254 | [74254-the-mimic.json](./74254-the-mimic.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
+| The Mims Beginning | 36054 | [36054-the-mims-beginning.json](./36054-the-mims-beginning.json) |
 | The Mind Electric | 60146 | [60146-the-mind-electric.json](./60146-the-mind-electric.json) |
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
 | The Mind of Moai | 185482 | [185482-the-mind-of-moai.json](./185482-the-mind-of-moai.json) |
@@ -28670,6 +28674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Мask | 187314 | [187314-tomb-of-the-ask.json](./187314-tomb-of-the-ask.json) |
 | Tomb of Thunder | 302617 | [302617-tomb-of-thunder.json](./302617-tomb-of-thunder.json) |
 | Tomb of Trials | 180270 | [180270-tomb-of-trials.json](./180270-tomb-of-trials.json) |
+| Tomb of Tyrants | 36008 | [36008-tomb-of-tyrants.json](./36008-tomb-of-tyrants.json) |
 | Tomb Offering | 340944 | [340944-tomb-offering.json](./340944-tomb-offering.json) |
 | Tomb Raider | 165181 | [165181-tomb-raider.json](./165181-tomb-raider.json) |
 | Tomb Raider | 218832 | [218832-tomb-raider.json](./218832-tomb-raider.json) |
@@ -31657,6 +31662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track: Breakthrough Gaming Arcade | 152410 | [152410-track-breakthrough-gaming-arcade.json](./152410-track-breakthrough-gaming-arcade.json) |
 | Track: Breakthrough Gaming Arcade - Challenge Mode Edition | 207049 | [207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json](./207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
+| Trackday Manager | 35821 | [35821-trackday-manager.json](./35821-trackday-manager.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
 | Tracker | 121906 | [121906-tracker.json](./121906-tracker.json) |
@@ -34426,6 +34432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash to Trees: Tidy Up the Forest! | 421719 | [421719-trash-to-trees-tidy-up-the-forest.json](./421719-trash-to-trees-tidy-up-the-forest.json) |
 | Trash Trek Simulator | 334556 | [334556-trash-trek-simulator.json](./334556-trash-trek-simulator.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
+| Trash TV | 35915 | [35915-trash-tv.json](./35915-trash-tv.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
 | Trash Wars | 134974 | [134974-trash-wars.json](./134974-trash-wars.json) |
 | Trash Wars | 356708 | [356708-trash-wars.json](./356708-trash-wars.json) |
