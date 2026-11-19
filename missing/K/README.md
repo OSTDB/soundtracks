@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kekkyoku Nankyoku Daibouken | 218918 | [218918-kekkyoku-nankyoku-daibouken.json](./218918-kekkyoku-nankyoku-daibouken.json) |
 | KEL Reaper of Entropy | 17737 | [17737-kel-reaper-of-entropy.json](./17737-kel-reaper-of-entropy.json) |
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
+| Kelime Oyunu | 332694 | [332694-kelime-oyunu.json](./332694-kelime-oyunu.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
 | Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
@@ -2832,7 +2833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilager | 249824 | [249824-kilager.json](./249824-kilager.json) |
 | Kilari: Become a Star | 70673 | [70673-kilari-become-a-star.json](./70673-kilari-become-a-star.json) |
 | Kilcount | 102989 | [102989-kilcount.json](./102989-kilcount.json) |
-| Kileak: The DNA Imperative | 20255 | [20255-kileak-the-dna-imperative.json](./20255-kileak-the-dna-imperative.json) |
 | Kilemol | 158370 | [158370-kilemol.json](./158370-kilemol.json) |
 | Kilgazar | 62105 | [62105-kilgazar.json](./62105-kilgazar.json) |
 | Kili's treasure | 128032 | [128032-kilis-treasure.json](./128032-kilis-treasure.json) |
@@ -3155,7 +3155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
 | Killing Zombies | 31150 | [31150-killing-zombies.json](./31150-killing-zombies.json) |
-| Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | Killing, My Friend | 94059 | [94059-killing-my-friend.json](./94059-killing-my-friend.json) |
 | Killistar | 325759 | [325759-killistar.json](./325759-killistar.json) |
 | KillJoy | 271934 | [271934-killjoy.json](./271934-killjoy.json) |
@@ -3366,7 +3365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Kinect Rush Snapshot | 329735 | [329735-kinect-fun-labs-kinect-rush-snapshot.json](./329735-kinect-fun-labs-kinect-rush-snapshot.json) |
 | Kinect Fun Labs: Kinect Sparkler | 329730 | [329730-kinect-fun-labs-kinect-sparkler.json](./329730-kinect-fun-labs-kinect-sparkler.json) |
 | Kinect Fun Labs: Mars Rover Landing | 106173 | [106173-kinect-fun-labs-mars-rover-landing.json](./106173-kinect-fun-labs-mars-rover-landing.json) |
-| Kinect Fun Labs: Musical Feet | 20217 | [20217-kinect-fun-labs-musical-feet.json](./20217-kinect-fun-labs-musical-feet.json) |
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
 | Kinect Mega Bundle: 4 in 1 | 82538 | [82538-kinect-mega-bundle-4-in-1.json](./82538-kinect-mega-bundle-4-in-1.json) |
@@ -6601,7 +6599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraze: The Ultimate Racer | 424097 | [424097-kraze-the-ultimate-racer.json](./424097-kraze-the-ultimate-racer.json) |
 | Krazy Ace Miniature Golf | 40834 | [40834-krazy-ace-miniature-golf.json](./40834-krazy-ace-miniature-golf.json) |
 | Krazy Bowl | 40339 | [40339-krazy-bowl.json](./40339-krazy-bowl.json) |
-| Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kakoom | 208089 | [208089-krazy-kakoom.json](./208089-krazy-kakoom.json) |
 | Krazy Kart Racing | 67688 | [67688-krazy-kart-racing.json](./67688-krazy-kart-racing.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
