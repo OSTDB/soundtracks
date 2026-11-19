@@ -4567,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
 | Endor Awakens | 336979 | [336979-endor-awakens.json](./336979-endor-awakens.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
+| Endorfun | 22600 | [22600-endorfun.json](./22600-endorfun.json) |
 | Endorlight | 16280 | [16280-endorlight.json](./16280-endorlight.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
