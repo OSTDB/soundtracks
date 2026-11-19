@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
 | Maniac Square | 289133 | [289133-maniac-square.json](./289133-maniac-square.json) |
+| Maniac: Hunt or Be Hunted | 418031 | [418031-maniac-hunt-or-be-hunted.json](./418031-maniac-hunt-or-be-hunted.json) |
 | Maniacs | 203736 | [203736-maniacs.json](./203736-maniacs.json) |
 | Maniax | 37268 | [37268-maniax.json](./37268-maniax.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
@@ -10536,6 +10537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meowmories | 406918 | [406918-meowmories.json](./406918-meowmories.json) |
 | Meowmunitions | 285812 | [285812-meowmunitions.json](./285812-meowmunitions.json) |
+| Meowmunitions Survivor | 418027 | [418027-meowmunitions-survivor.json](./418027-meowmunitions-survivor.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
@@ -14698,6 +14700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Golf: Wacky Worlds | 65232 | [65232-mini-golf-wacky-worlds.json](./65232-mini-golf-wacky-worlds.json) |
+| Mini Grub | 418140 | [418140-mini-grub.json](./418140-mini-grub.json) |
 | Mini Gunn | 327639 | [327639-mini-gunn.json](./327639-mini-gunn.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
@@ -19275,6 +19278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
+| MoonShot | 418034 | [418034-moonshot.json](./418034-moonshot.json) |
 | Moonshot Billiards | 383287 | [383287-moonshot-billiards.json](./383287-moonshot-billiards.json) |
 | Moonshot Galaxy | 32658 | [32658-moonshot-galaxy.json](./32658-moonshot-galaxy.json) |
 | Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
@@ -21867,6 +21871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulletman and the Molemen | 74609 | [74609-mulletman-and-the-molemen.json](./74609-mulletman-and-the-molemen.json) |
 | Mulligans Golf Game | 150793 | [150793-mulligans-golf-game.json](./150793-mulligans-golf-game.json) |
 | Mülltrennungssimulator 2021 | 167992 | [167992-mulltrennungssimulator-2021.json](./167992-mulltrennungssimulator-2021.json) |
+| Multi Brick Breaker | 418037 | [418037-multi-brick-breaker.json](./418037-multi-brick-breaker.json) |
 | Multi Champ | 39718 | [39718-multi-champ.json](./39718-multi-champ.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
