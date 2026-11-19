@@ -432,7 +432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
 | A Family of Grave Diggers | 34948 | [34948-a-family-of-grave-diggers.json](./34948-a-family-of-grave-diggers.json) |
 | A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
-| A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
 | A Fascinating Story: Ice Cream | 319250 | [319250-a-fascinating-story-ice-cream.json](./319250-a-fascinating-story-ice-cream.json) |
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
@@ -1461,7 +1460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
 | A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Space Odyssey | 189289 | [189289-a-space-odyssey.json](./189289-a-space-odyssey.json) |
-| A Space Shooter for 2 Bucks! | 21173 | [21173-a-space-shooter-for-2-bucks.json](./21173-a-space-shooter-for-2-bucks.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
@@ -10838,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Anchorz Field | 37526 | [37526-anchorz-field.json](./37526-anchorz-field.json) |
+| Anchovy Feeding Frenzy | 383265 | [383265-anchovy-feeding-frenzy.json](./383265-anchovy-feeding-frenzy.json) |
 | Ancible Online | 375086 | [375086-ancible-online.json](./375086-ancible-online.json) |
 | Ancient | 271352 | [271352-ancient.json](./271352-ancient.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
@@ -12321,7 +12320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankh Guardian: Treasure of the Demon's Temple | 120180 | [120180-ankh-guardian-treasure-of-the-demons-temple.json](./120180-ankh-guardian-treasure-of-the-demons-temple.json) |
 | Ankh Tower: Protect the Fortress with Dark Magic | 219709 | [219709-ankh-tower-protect-the-fortress-with-dark-magic.json](./219709-ankh-tower-protect-the-fortress-with-dark-magic.json) |
 | Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
-| Ankh: Curse of the Scarab King | 21271 | [21271-ankh-curse-of-the-scarab-king.json](./21271-ankh-curse-of-the-scarab-king.json) |
 | Ankh: Pyramid No Nazo | 231656 | [231656-ankh-pyramid-no-nazo.json](./231656-ankh-pyramid-no-nazo.json) |
 | Ankh: Reverse the Curse | 4849 | [4849-ankh-reverse-the-curse.json](./4849-ankh-reverse-the-curse.json) |
 | Ankh: The Lost Treasures | 205848 | [205848-ankh-the-lost-treasures.json](./205848-ankh-the-lost-treasures.json) |
@@ -12912,7 +12910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Legion: For the Swarm | 219854 | [219854-ant-legion-for-the-swarm.json](./219854-ant-legion-for-the-swarm.json) |
 | Ant Man | 313899 | [313899-ant-man.json](./313899-ant-man.json) |
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
-| Ant Nation | 21197 | [21197-ant-nation.json](./21197-ant-nation.json) |
 | Ant Queen | 32809 | [32809-ant-queen.json](./32809-ant-queen.json) |
 | Ant Raid | 39242 | [39242-ant-raid.json](./39242-ant-raid.json) |
 | Ant Run | 73925 | [73925-ant-run.json](./73925-ant-run.json) |
@@ -15684,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51 | 39769 | [39769-area-51.json](./39769-area-51.json) |
 | Area 51 | 5729 | [5729-area-51.json](./5729-area-51.json) |
+| Area 51 Defense | 392514 | [392514-area-51-defense.json](./392514-area-51-defense.json) |
 | Area 51: Beyond The Wall | 283928 | [283928-area-51-beyond-the-wall.json](./283928-area-51-beyond-the-wall.json) |
 | Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
@@ -20080,7 +20078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
 | Audition VR: Idol | 104196 | [104196-audition-vr-idol.json](./104196-audition-vr-idol.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
-| Auditorium HD | 21176 | [21176-auditorium-hd.json](./21176-auditorium-hd.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
 | Audrey & Alexis | 100816 | [100816-audrey-and-alexis.json](./100816-audrey-and-alexis.json) |
 | Audsdg | 254011 | [254011-audsdg.json](./254011-audsdg.json) |
