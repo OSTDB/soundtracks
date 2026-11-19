@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara, Shirayuri | 181948 | [181948-sayonara-shirayuri.json](./181948-sayonara-shirayuri.json) |
 | Sayonara, Space Rocks | 409424 | [409424-sayonara-space-rocks.json](./409424-sayonara-space-rocks.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
+| Sayonara, Watashi no Kataomoi | 428350 | [428350-sayonara-watashi-no-kataomoi.json](./428350-sayonara-watashi-no-kataomoi.json) |
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
 | Saziri | 243912 | [243912-saziri.json](./243912-saziri.json) |
@@ -12044,6 +12045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
 | Silent Hope: Day One Edition | 254846 | [254846-silent-hope-day-one-edition.json](./254846-silent-hope-day-one-edition.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
+| Silent Horizon | 428316 | [428316-silent-horizon.json](./428316-silent-horizon.json) |
 | Silent House | 177304 | [177304-silent-house.json](./177304-silent-house.json) |
 | Silent Howl | 405758 | [405758-silent-howl.json](./405758-silent-howl.json) |
 | Silent Hunt | 374694 | [374694-silent-hunt.json](./374694-silent-hunt.json) |
@@ -16415,6 +16417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Factory Tycoon | 187061 | [187061-smart-factory-tycoon.json](./187061-smart-factory-tycoon.json) |
 | Smart Farm | 390078 | [390078-smart-farm.json](./390078-smart-farm.json) |
 | Smart Fart | 149938 | [149938-smart-fart.json](./149938-smart-fart.json) |
+| Smart Fellas | 428335 | [428335-smart-fellas.json](./428335-smart-fellas.json) |
 | Smart Fish | 250877 | [250877-smart-fish.json](./250877-smart-fish.json) |
 | Smart Frog | 246480 | [246480-smart-frog.json](./246480-smart-frog.json) |
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
@@ -17321,6 +17324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snark Busters: All Revved Up | 96592 | [96592-snark-busters-all-revved-up.json](./96592-snark-busters-all-revved-up.json) |
 | Snark Busters: High Society | 52814 | [52814-snark-busters-high-society.json](./52814-snark-busters-high-society.json) |
 | Snark Busters: Welcome to the Club | 53638 | [53638-snark-busters-welcome-to-the-club.json](./53638-snark-busters-welcome-to-the-club.json) |
+| Snarkle! | 428329 | [428329-snarkle.json](./428329-snarkle.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch | 381545 | [381545-snatch.json](./381545-snatch.json) |
 | Snatch & Swallow | 304517 | [304517-snatch-and-swallow.json](./304517-snatch-and-swallow.json) |
@@ -17418,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniffin for Bones | 347469 | [347469-sniffin-for-bones.json](./347469-sniffin-for-bones.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
+| Snip Happens: Salon Simulator | 428353 | [428353-snip-happens-salon-simulator.json](./428353-snip-happens-salon-simulator.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
 | Sniper | 188149 | [188149-sniper.json](./188149-sniper.json) |
