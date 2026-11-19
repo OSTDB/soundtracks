@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: WWII - Game of the Year Edition | 136698 | [136698-call-of-duty-wwii-game-of-the-year-edition.json](./136698-call-of-duty-wwii-game-of-the-year-edition.json) |
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Duty: WWII - Pro Edition | 11499 | [11499-call-of-duty-wwii-pro-edition.json](./11499-call-of-duty-wwii-pro-edition.json) |
+| Call of Duty: WWII - Shadow War | 107299 | [107299-call-of-duty-wwii-shadow-war.json](./107299-call-of-duty-wwii-shadow-war.json) |
 | Call of Duty: WWII - The Resistance DLC Pack 1 | 78917 | [78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json](./78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json) |
 | Call of Duty: WWII - The War Machine DLC Pack 2 | 96018 | [96018-call-of-duty-wwii-the-war-machine-dlc-pack-2.json](./96018-call-of-duty-wwii-the-war-machine-dlc-pack-2.json) |
 | Call of Duty: WWII - United Front DLC | 103518 | [103518-call-of-duty-wwii-united-front-dlc.json](./103518-call-of-duty-wwii-united-front-dlc.json) |
@@ -3050,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardopolis | 374655 | [374655-cardopolis.json](./374655-cardopolis.json) |
 | Cardow! | 190817 | [190817-cardow.json](./190817-cardow.json) |
+| Cardpocalypse | 106150 | [106150-cardpocalypse.json](./106150-cardpocalypse.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cardrottini | 347031 | [347031-cardrottini.json](./347031-cardrottini.json) |
@@ -23194,6 +23196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Girl | 173860 | [173860-cute-girl.json](./173860-cute-girl.json) |
 | Cute Girl 2 | 173852 | [173852-cute-girl-2.json](./173852-cute-girl-2.json) |
 | Cute girl with uncle's leisure time | 278737 | [278737-cute-girl-with-uncles-leisure-time.json](./278737-cute-girl-with-uncles-leisure-time.json) |
+| Cute Girls | 107534 | [107534-cute-girls.json](./107534-cute-girls.json) |
 | Cute Girls | 243627 | [243627-cute-girls.json](./243627-cute-girls.json) |
 | Cute Girls: Find Secrets | 234972 | [234972-cute-girls-find-secrets.json](./234972-cute-girls-find-secrets.json) |
 | Cute Hedgehog | 84100 | [84100-cute-hedgehog.json](./84100-cute-hedgehog.json) |
