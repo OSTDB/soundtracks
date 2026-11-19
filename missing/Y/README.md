@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yello Bandana | 55418 | [55418-yello-bandana.json](./55418-yello-bandana.json) |
 | Yellow | 385396 | [385396-yellow.json](./385396-yellow.json) |
 | Yellow | 83717 | [83717-yellow.json](./83717-yellow.json) |
+| Yellow & Yangtze | 124170 | [124170-yellow-and-yangtze.json](./124170-yellow-and-yangtze.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
 | Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
 | Yellow Brick Road | 45393 | [45393-yellow-brick-road.json](./45393-yellow-brick-road.json) |
