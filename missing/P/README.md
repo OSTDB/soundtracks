@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac-Xon Hero Strikes Back! | 238859 | [238859-pac-xon-hero-strikes-back.json](./238859-pac-xon-hero-strikes-back.json) |
 | Pac-xon: Deluxe | 364415 | [364415-pac-xon-deluxe.json](./364415-pac-xon-deluxe.json) |
+| Pac'N-Jump | 76751 | [76751-pacn-jump.json](./76751-pacn-jump.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | Paca Plus | 79672 | [79672-paca-plus.json](./79672-paca-plus.json) |
@@ -1005,7 +1006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajama Sam Vol. 1 | 154442 | [154442-pajama-sam-vol-1.json](./154442-pajama-sam-vol-1.json) |
 | Pajama Sam Vol. 2 | 154440 | [154440-pajama-sam-vol-2.json](./154440-pajama-sam-vol-2.json) |
 | Pajama Sam: Don't Fear the Dark | 51107 | [51107-pajama-sam-dont-fear-the-dark.json](./51107-pajama-sam-dont-fear-the-dark.json) |
-| Pajama Sam: Games to Play on Any Day | 17716 | [17716-pajama-sam-games-to-play-on-any-day.json](./17716-pajama-sam-games-to-play-on-any-day.json) |
 | Pajama Sam: No Need to Hide When It's Dark Outside | 192052 | [192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json](./192052-pajama-sam-no-need-to-hide-when-its-dark-outside.json) |
 | Pajama Sam's Games to Play on Any Day | 50896 | [50896-pajama-sams-games-to-play-on-any-day.json](./50896-pajama-sams-games-to-play-on-any-day.json) |
 | Pajama Sam's Lost & Found | 10651 | [10651-pajama-sams-lost-and-found.json](./10651-pajama-sams-lost-and-found.json) |
@@ -1926,7 +1926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials | 313077 | [313077-paper-mario-ttyd-tower-of-trials.json](./313077-paper-mario-ttyd-tower-of-trials.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
-| Paper Monsters Recut | 17668 | [17668-paper-monsters-recut.json](./17668-paper-monsters-recut.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Needs Inspiration! | 224827 | [224827-paper-needs-inspiration.json](./224827-paper-needs-inspiration.json) |
 | Paper Ninja | 66316 | [66316-paper-ninja.json](./66316-paper-ninja.json) |
@@ -1995,7 +1994,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Trails | 196964 | [196964-paper-trails.json](./196964-paper-trails.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Train: Rush | 422655 | [422655-paper-train-rush.json](./422655-paper-train-rush.json) |
-| Paper Train: Traffic | 18172 | [18172-paper-train-traffic.json](./18172-paper-train-traffic.json) |
 | Paper Valley | 102920 | [102920-paper-valley.json](./102920-paper-valley.json) |
 | Paper Wars | 374421 | [374421-paper-wars.json](./374421-paper-wars.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
@@ -5995,7 +5993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmagoria 2: A Puzzle of Flesh | 222 | [222-phantasmagoria-2-a-puzzle-of-flesh.json](./222-phantasmagoria-2-a-puzzle-of-flesh.json) |
 | Phantasmal Exosteel | 377814 | [377814-phantasmal-exosteel.json](./377814-phantasmal-exosteel.json) |
 | Phantasmal Garrison | 300757 | [300757-phantasmal-garrison.json](./300757-phantasmal-garrison.json) |
-| Phantasmal: City of Darkness | 18793 | [18793-phantasmal-city-of-darkness.json](./18793-phantasmal-city-of-darkness.json) |
 | Phantasmat | 22114 | [22114-phantasmat.json](./22114-phantasmat.json) |
 | Phantasmat: Behind the Mask | 102544 | [102544-phantasmat-behind-the-mask.json](./102544-phantasmat-behind-the-mask.json) |
 | Phantasmat: Behind the Mask - Collector’s Edition | 228235 | [228235-phantasmat-behind-the-mask-collector-s-edition.json](./228235-phantasmat-behind-the-mask-collector-s-edition.json) |
@@ -9318,7 +9315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Horizons | 341572 | [341572-pixel-horizons.json](./341572-pixel-horizons.json) |
 | Pixel House: Color by Number | 328494 | [328494-pixel-house-color-by-number.json](./328494-pixel-house-color-by-number.json) |
 | Pixel Hunt | 304621 | [304621-pixel-hunt.json](./304621-pixel-hunt.json) |
-| Pixel Hunter | 17626 | [17626-pixel-hunter.json](./17626-pixel-hunter.json) |
 | Pixel Hunter | 402339 | [402339-pixel-hunter.json](./402339-pixel-hunter.json) |
 | Pixel Hunter Idle | 273564 | [273564-pixel-hunter-idle.json](./273564-pixel-hunter-idle.json) |
 | Pixel Hunters: Turn Retro Consoles into your Boyfriend | 417865 | [417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json](./417865-pixel-hunters-turn-retro-consoles-into-your-boyfriend.json) |
@@ -17287,7 +17283,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pilkki | 169332 | [169332-pro-pilkki.json](./169332-pro-pilkki.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pilot '99 | 69960 | [69960-pro-pilot-99.json](./69960-pro-pilot-99.json) |
-| Pro Pinball | 18333 | [18333-pro-pinball.json](./18333-pro-pinball.json) |
 | Pro Pinball Ultra | 36376 | [36376-pro-pinball-ultra.json](./36376-pro-pinball-ultra.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
@@ -18564,6 +18559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wingman: Frontline 59 | 270216 | [270216-project-wingman-frontline-59.json](./270216-project-wingman-frontline-59.json) |
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
 | Project Winter: Blackout | 164817 | [164817-project-winter-blackout.json](./164817-project-winter-blackout.json) |
+| Project Wormhole | 72800 | [72800-project-wormhole.json](./72800-project-wormhole.json) |
 | Project Worth: Forgather | 211812 | [211812-project-worth-forgather.json](./211812-project-worth-forgather.json) |
 | Project Wunderwaffe | 151085 | [151085-project-wunderwaffe.json](./151085-project-wunderwaffe.json) |
 | Project Wunderwaffe: War in Ukraine | 268248 | [268248-project-wunderwaffe-war-in-ukraine.json](./268248-project-wunderwaffe-war-in-ukraine.json) |
@@ -19739,6 +19735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Shift | 32104 | [32104-pulse-shift.json](./32104-pulse-shift.json) |
 | Pulse Sweep | 397838 | [397838-pulse-sweep.json](./397838-pulse-sweep.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
+| Pulse: Volume One | 22715 | [22715-pulse-volume-one.json](./22715-pulse-volume-one.json) |
 | Pulseball | 169536 | [169536-pulseball.json](./169536-pulseball.json) |
 | Pulsebreaker | 353643 | [353643-pulsebreaker.json](./353643-pulsebreaker.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
@@ -21539,7 +21536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyre on Fire: Ten Pages | 148072 | [148072-pyre-on-fire-ten-pages.json](./148072-pyre-on-fire-ten-pages.json) |
 | Pyrene | 260275 | [260275-pyrene.json](./260275-pyrene.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
-| Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyrmd | 226394 | [226394-pyrmd.json](./226394-pyrmd.json) |
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
