@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sachkunde Pfiffikus 2009 | 91618 | [91618-sachkunde-pfiffikus-2009.json](./91618-sachkunde-pfiffikus-2009.json) |
 | Sachova Hra | 319699 | [319699-sachova-hra.json](./319699-sachova-hra.json) |
 | Saci: The Cursed Hunt | 330329 | [330329-saci-the-cursed-hunt.json](./330329-saci-the-cursed-hunt.json) |
+| Sack Investigation | 424780 | [424780-sack-investigation.json](./424780-sack-investigation.json) |
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sack of Flour, Heart of Gold | 404415 | [404415-sack-of-flour-heart-of-gold.json](./404415-sack-of-flour-heart-of-gold.json) |
 | Sackboy: A Big Adventure | 134585 | [134585-sackboy-a-big-adventure.json](./134585-sackboy-a-big-adventure.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's Workshop | 74122 | [74122-santas-workshop.json](./74122-santas-workshop.json) |
 | Santa's Workshop Challenge: The North Pole Gift Adventure | 283241 | [283241-santas-workshop-challenge-the-north-pole-gift-adventure.json](./283241-santas-workshop-challenge-the-north-pole-gift-adventure.json) |
+| Santa's Workshop: Tidy Up Christmas | 424774 | [424774-santas-workshop-tidy-up-christmas.json](./424774-santas-workshop-tidy-up-christmas.json) |
 | Santa's Workshop: Unhinged | 128550 | [128550-santas-workshop-unhinged.json](./128550-santas-workshop-unhinged.json) |
 | Santa's World | 277577 | [277577-santas-world.json](./277577-santas-world.json) |
 | Santa's Xmas Adventure | 138194 | [138194-santas-xmas-adventure.json](./138194-santas-xmas-adventure.json) |
@@ -6540,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoul Bridge | 383161 | [383161-seoul-bridge.json](./383161-seoul-bridge.json) |
 | Seoul Exorcist 1111 | 347761 | [347761-seoul-exorcist-1111.json](./347761-seoul-exorcist-1111.json) |
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
+| Seoul, the Night | 424765 | [424765-seoul-the-night.json](./424765-seoul-the-night.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
 | Sepak U: Sports Fighting Game | 404802 | [404802-sepak-u-sports-fighting-game.json](./404802-sepak-u-sports-fighting-game.json) |
 | Sepan and the Seven Flasks | 374353 | [374353-sepan-and-the-seven-flasks.json](./374353-sepan-and-the-seven-flasks.json) |
@@ -8782,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Chess | 394090 | [394090-shattered-chess.json](./394090-shattered-chess.json) |
 | Shattered Delirium | 403894 | [403894-shattered-delirium.json](./403894-shattered-delirium.json) |
 | Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
+| Shattered Dimensions | 424778 | [424778-shattered-dimensions.json](./424778-shattered-dimensions.json) |
 | Shattered Divinities | 346217 | [346217-shattered-divinities.json](./346217-shattered-divinities.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Dreams: Redemption | 372409 | [372409-shattered-dreams-redemption.json](./372409-shattered-dreams-redemption.json) |
@@ -12804,6 +12808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
 | Simple Fish Adventure | 163209 | [163209-simple-fish-adventure.json](./163209-simple-fish-adventure.json) |
 | Simple Flight | 391410 | [391410-simple-flight.json](./391410-simple-flight.json) |
+| Simple Football League Manager | 424771 | [424771-simple-football-league-manager.json](./424771-simple-football-league-manager.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
@@ -15861,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Kong | 102233 | [102233-sling-kong.json](./102233-sling-kong.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
+| Sling or Spin: Miss and Done? | 424776 | [424776-sling-or-spin-miss-and-done.json](./424776-sling-or-spin-miss-and-done.json) |
 | Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
 | Sling Stars | 237732 | [237732-sling-stars.json](./237732-sling-stars.json) |
 | Sling-A-Thing | 279457 | [279457-sling-a-thing.json](./279457-sling-a-thing.json) |
@@ -21093,6 +21099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry! / Aggravation / Scrabble Junior | 82303 | [82303-sorry-aggravation-scrabble-junior.json](./82303-sorry-aggravation-scrabble-junior.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort 'Em | 29445 | [29445-sort-em.json](./29445-sort-em.json) |
+| Sort A Lot | 424801 | [424801-sort-a-lot.json](./424801-sort-a-lot.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
 | Sort Coins Together | 429572 | [429572-sort-coins-together.json](./429572-sort-coins-together.json) |
@@ -28491,6 +28498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbuster | 139004 | [139004-starbuster.json](./139004-starbuster.json) |
 | Starbyte Super Soccer | 119352 | [119352-starbyte-super-soccer.json](./119352-starbyte-super-soccer.json) |
 | Starcade Factions | 251798 | [251798-starcade-factions.json](./251798-starcade-factions.json) |
+| StarCalibur | 424812 | [424812-starcalibur.json](./424812-starcalibur.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | StarCast | 349980 | [349980-starcast.json](./349980-starcast.json) |
 | Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
@@ -28862,6 +28870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
 | Starmate | 252305 | [252305-starmate.json](./252305-starmate.json) |
 | Starmatter | 178926 | [178926-starmatter.json](./178926-starmatter.json) |
+| Starmax | 424798 | [424798-starmax.json](./424798-starmax.json) |
 | StarMech | 207581 | [207581-starmech.json](./207581-starmech.json) |
 | Starmetal Crusaders | 293598 | [293598-starmetal-crusaders.json](./293598-starmetal-crusaders.json) |
 | Starmind | 172321 | [172321-starmind.json](./172321-starmind.json) |
@@ -30156,6 +30165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
 | Stella's Spikey Dream | 181027 | [181027-stellas-spikey-dream.json](./181027-stellas-spikey-dream.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
+| Stellacore Defense | 424784 | [424784-stellacore-defense.json](./424784-stellacore-defense.json) |
 | StellaGale: The Trials Of Faith | 190457 | [190457-stellagale-the-trials-of-faith.json](./190457-stellagale-the-trials-of-faith.json) |
 | Stellagate | 317753 | [317753-stellagate.json](./317753-stellagate.json) |
 | Stellamore | 179839 | [179839-stellamore.json](./179839-stellamore.json) |
@@ -34775,6 +34785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
 | Sunville | 207548 | [207548-sunville.json](./207548-sunville.json) |
 | Sunward | 409346 | [409346-sunward.json](./409346-sunward.json) |
+| Sunward | 424816 | [424816-sunward.json](./424816-sunward.json) |
 | Sunwards | 138467 | [138467-sunwards.json](./138467-sunwards.json) |
 | Sunwave Hotel | 204192 | [204192-sunwave-hotel.json](./204192-sunwave-hotel.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
