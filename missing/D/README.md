@@ -3787,7 +3787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: World War II Assets Pack | 156302 | [156302-dcs-world-world-war-ii-assets-pack.json](./156302-dcs-world-world-war-ii-assets-pack.json) |
 | DCS World: Yak-52 | 156316 | [156316-dcs-world-yak-52.json](./156316-dcs-world-yak-52.json) |
 | DCS: A-10C II Tank Killer | 156252 | [156252-dcs-a-10c-ii-tank-killer.json](./156252-dcs-a-10c-ii-tank-killer.json) |
-| DCS: Black Shark | 21208 | [21208-dcs-black-shark.json](./21208-dcs-black-shark.json) |
 | DCS: F-15C Aggressors Air Combat Maneuvering Campaign by Maple Flag | 296518 | [296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json](./296518-dcs-f-15c-aggressors-air-combat-maneuvering-campaign-by-maple-flag.json) |
 | DCS: Mi-24P OutPost Campaign by Stone Sky | 296887 | [296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json](./296887-dcs-mi-24p-outpost-campaign-by-stone-sky.json) |
 | DCS: Mi-8MTV2 and Ka-50 Memory of a Hero Campaign | 156306 | [156306-dcs-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign.json](./156306-dcs-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign.json) |
@@ -5376,7 +5375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
 | Death Tale Pandora's Box | 164131 | [164131-death-tale-pandoras-box.json](./164131-death-tale-pandoras-box.json) |
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
-| Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death Tapes | 237711 | [237711-death-tapes.json](./237711-death-tapes.json) |
 | Death Tapes | 427170 | [427170-death-tapes.json](./427170-death-tapes.json) |
 | Death Taxi 3000 | 155901 | [155901-death-taxi-3000.json](./155901-death-taxi-3000.json) |
@@ -8470,7 +8468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Survivors 98 | 325702 | [325702-desktop-survivors-98.json](./325702-desktop-survivors-98.json) |
 | Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
-| Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
 | Desktop Tower Defense | 387825 | [387825-desktop-tower-defense.json](./387825-desktop-tower-defense.json) |
 | Desktop Tower Survivor | 428365 | [428365-desktop-tower-survivor.json](./428365-desktop-tower-survivor.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
@@ -8486,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DesktopSaurs | 424763 | [424763-desktopsaurs.json](./424763-desktopsaurs.json) |
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
 | Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
+| Desktropolis | 392443 | [392443-desktropolis.json](./392443-desktropolis.json) |
 | Deskworm | 387487 | [387487-deskworm.json](./387487-deskworm.json) |
 | Deslot | 425395 | [425395-deslot.json](./425395-deslot.json) |
 | Desmond's Castle | 328317 | [328317-desmonds-castle.json](./328317-desmonds-castle.json) |
@@ -12160,7 +12158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 372836 | [372836-disneys-102-dalmatians-puppies-to-the-rescue.json](./372836-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Bug's Life: Active Play | 215088 | [215088-disneys-a-bugs-life-active-play.json](./215088-disneys-a-bugs-life-active-play.json) |
-| Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Active Play: The Lion King II - Simba's Pride | 202089 | [202089-disneys-active-play-the-lion-king-ii-simbas-pride.json](./202089-disneys-active-play-the-lion-king-ii-simbas-pride.json) |
 | Disney's Activity Center: Aladdin | 134223 | [134223-disneys-activity-center-aladdin.json](./134223-disneys-activity-center-aladdin.json) |
 | Disney's Activity Center: The Lion King | 134216 | [134216-disneys-activity-center-the-lion-king.json](./134216-disneys-activity-center-the-lion-king.json) |
@@ -12409,6 +12406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
 | DisplaceMen | 328919 | [328919-displacemen.json](./328919-displacemen.json) |
 | Displacement | 341422 | [341422-displacement.json](./341422-displacement.json) |
+| Displacement Arcade Game Box | 392495 | [392495-displacement-arcade-game-box.json](./392495-displacement-arcade-game-box.json) |
 | Displacement of Water | 417574 | [417574-displacement-of-water.json](./417574-displacement-of-water.json) |
 | Displacer Beast | 172831 | [172831-displacer-beast.json](./172831-displacer-beast.json) |
 | Disposable | 185047 | [185047-disposable.json](./185047-disposable.json) |
@@ -12885,7 +12883,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Puff | 13596 | [13596-dj-puff.json](./13596-dj-puff.json) |
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
-| DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
 | DJ Wars | 133571 | [133571-dj-wars.json](./133571-dj-wars.json) |
 | DJ Whip VR | 110693 | [110693-dj-whip-vr.json](./110693-dj-whip-vr.json) |
 | DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
@@ -14228,7 +14225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Duality: Initiation | 246847 | [246847-don-duality-initiation.json](./246847-don-duality-initiation.json) |
 | Don Flatus: Poop Hunter | 157478 | [157478-don-flatus-poop-hunter.json](./157478-don-flatus-poop-hunter.json) |
 | Don Juan | 13602 | [13602-don-juan.json](./13602-don-juan.json) |
-| Don King Boxing | 21289 | [21289-don-king-boxing.json](./21289-don-king-boxing.json) |
 | Don King Presents: Prizefighter | 6970 | [6970-don-king-presents-prizefighter.json](./6970-don-king-presents-prizefighter.json) |
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
 | Don Orlo's Magazine: Issue #1 | 252545 | [252545-don-orlos-magazine-issue-1.json](./252545-don-orlos-magazine-issue-1.json) |
@@ -14636,6 +14632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald's Hectic Hay Bales | 246508 | [246508-donalds-hectic-hay-bales.json](./246508-donalds-hectic-hay-bales.json) |
 | Donald's Tugboat Adventures | 246509 | [246509-donalds-tugboat-adventures.json](./246509-donalds-tugboat-adventures.json) |
 | Donare | 376673 | [376673-donare.json](./376673-donare.json) |
+| Donare: Winter Days | 383263 | [383263-donare-winter-days.json](./383263-donare-winter-days.json) |
 | Donauts | 422209 | [422209-donauts.json](./422209-donauts.json) |
 | Donchan ga Kyu | 92051 | [92051-donchan-ga-kyu.json](./92051-donchan-ga-kyu.json) |
 | Donchan Puzzle Hanabi de Dohn Advance | 49585 | [49585-donchan-puzzle-hanabi-de-dohn-advance.json](./49585-donchan-puzzle-hanabi-de-dohn-advance.json) |
@@ -17715,7 +17712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonlord Chronicles MMO | 145962 | [145962-dragonlord-chronicles-mmo.json](./145962-dragonlord-chronicles-mmo.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
-| Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragonpath | 33931 | [33931-dragonpath.json](./33931-dragonpath.json) |
 | Dragonpaw | 293800 | [293800-dragonpaw.json](./293800-dragonpaw.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
@@ -18657,7 +18653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamkeeper | 247820 | [247820-dreamkeeper.json](./247820-dreamkeeper.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
-| Dreamland | 21170 | [21170-dreamland.json](./21170-dreamland.json) |
 | Dreamland | 224322 | [224322-dreamland.json](./224322-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | Dreamland | 349196 | [349196-dreamland.json](./349196-dreamland.json) |
@@ -20626,6 +20621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon | 242699 | [242699-dungeon.json](./242699-dungeon.json) |
 | Dungeon | 288637 | [288637-dungeon.json](./288637-dungeon.json) |
 | Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
+| Dungeon | 383267 | [383267-dungeon.json](./383267-dungeon.json) |
 | Dungeon | 69613 | [69613-dungeon.json](./69613-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
