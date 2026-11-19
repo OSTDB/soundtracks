@@ -11295,6 +11295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela Knife | 198325 | [198325-angela-knife.json](./198325-angela-knife.json) |
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela Twins Birth | 212638 | [212638-angela-twins-birth.json](./212638-angela-twins-birth.json) |
+| Angela Young's Dream Adventure | 416903 | [416903-angela-youngs-dream-adventure.json](./416903-angela-youngs-dream-adventure.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angela's Odyssey | 117227 | [117227-angelas-odyssey.json](./117227-angelas-odyssey.json) |
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
@@ -12678,6 +12679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Aurelie | 418113 | [418113-another-aurelie.json](./418113-another-aurelie.json) |
 | Another Bad Day in the Future | 114097 | [114097-another-bad-day-in-the-future.json](./114097-another-bad-day-in-the-future.json) |
 | Another Bar Game | 235780 | [235780-another-bar-game.json](./235780-another-bar-game.json) |
+| Another Bible | 413274 | [413274-another-bible.json](./413274-another-bible.json) |
 | Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Black Hole Incremental | 415680 | [415680-another-black-hole-incremental.json](./415680-another-black-hole-incremental.json) |
@@ -13114,6 +13116,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Road Trip 2: Homecoming | 65725 | [65725-antique-road-trip-2-homecoming.json](./65725-antique-road-trip-2-homecoming.json) |
 | Antique Road Trip USA | 92561 | [92561-antique-road-trip-usa.json](./92561-antique-road-trip-usa.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
+| Antique Shop: Book of Souls | 416904 | [416904-antique-shop-book-of-souls.json](./416904-antique-shop-book-of-souls.json) |
+| Antique Shop: Journey of the Lost Souls | 416905 | [416905-antique-shop-journey-of-the-lost-souls.json](./416905-antique-shop-journey-of-the-lost-souls.json) |
+| Antique Shop: Lost Gems - Egypt | 416906 | [416906-antique-shop-lost-gems-egypt.json](./416906-antique-shop-lost-gems-egypt.json) |
+| Antique Shop: Lost Gems - London | 416907 | [416907-antique-shop-lost-gems-london.json](./416907-antique-shop-lost-gems-london.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
 | Antiquitas | 109392 | [109392-antiquitas.json](./109392-antiquitas.json) |
