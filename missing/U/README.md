@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbrella Drop | 270475 | [270475-umbrella-drop.json](./270475-umbrella-drop.json) |
 | Umbrella Escape | 230915 | [230915-umbrella-escape.json](./230915-umbrella-escape.json) |
 | Umbrella Girl | 279545 | [279545-umbrella-girl.json](./279545-umbrella-girl.json) |
+| Umeda Sky | 418052 | [418052-umeda-sky.json](./418052-umeda-sky.json) |
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
 | Umezma | 395302 | [395302-umezma.json](./395302-umezma.json) |
