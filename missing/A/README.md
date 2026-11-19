@@ -7778,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algoremind | 369524 | [369524-algoremind.json](./369524-algoremind.json) |
 | Algorithm | 74621 | [74621-algorithm.json](./74621-algorithm.json) |
 | Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
+| Algorithomus | 422345 | [422345-algorithomus.json](./422345-algorithomus.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Alhambra Game | 95655 | [95655-alhambra-game.json](./95655-alhambra-game.json) |
 | Ali | 84413 | [84413-ali.json](./84413-ali.json) |
@@ -9441,6 +9442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
 | AlterSpace | 250458 | [250458-alterspace.json](./250458-alterspace.json) |
+| Alterspective | 422338 | [422338-alterspective.json](./422338-alterspective.json) |
 | Alterum | 390173 | [390173-alterum.json](./390173-alterum.json) |
 | AlterVerse: Disruption | 70394 | [70394-alterverse-disruption.json](./70394-alterverse-disruption.json) |
 | Alterworld | 312173 | [312173-alterworld.json](./312173-alterworld.json) |
@@ -17032,6 +17034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Nova | 409280 | [409280-artifact-nova.json](./409280-artifact-nova.json) |
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
+| Artifact Reforged | 422354 | [422354-artifact-reforged.json](./422354-artifact-reforged.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
 | Artifact Seeker | 329438 | [329438-artifact-seeker.json](./329438-artifact-seeker.json) |
 | Artifact Seeker: DLC 1 - The Legacy of Mortia | 314624 | [314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json](./314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json) |
