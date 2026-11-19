@@ -3764,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire at Risk | 389139 | [389139-empire-at-risk.json](./389139-empire-at-risk.json) |
 | Empire Builder: Ancient Egypt | 146482 | [146482-empire-builder-ancient-egypt.json](./146482-empire-builder-ancient-egypt.json) |
 | Empire Builder: Europe | 322708 | [322708-empire-builder-europe.json](./322708-empire-builder-europe.json) |
+| Empire Builder: Eurorails (2004) | 424781 | [424781-empire-builder-eurorails-2004.json](./424781-empire-builder-eurorails-2004.json) |
 | Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
 | Empire Business 2 | 403107 | [403107-empire-business-2.json](./403107-empire-business-2.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
@@ -5514,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era Dream Chapter: I | 193566 | [193566-era-dream-chapter-i.json](./193566-era-dream-chapter-i.json) |
+| Era Echo | 424811 | [424811-era-echo.json](./424811-era-echo.json) |
 | Era of Celestials | 106899 | [106899-era-of-celestials.json](./106899-era-of-celestials.json) |
 | Era of Combat: Boxing | 189055 | [189055-era-of-combat-boxing.json](./189055-era-of-combat-boxing.json) |
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
