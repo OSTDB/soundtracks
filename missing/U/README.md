@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
+| Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
 | UberSoldier | 92970 | [92970-ubersoldier.json](./92970-ubersoldier.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra 64 Mario Bros. | 294715 | [294715-ultra-64-mario-bros.json](./294715-ultra-64-mario-bros.json) |
 | Ultra ADHD | 131407 | [131407-ultra-adhd.json](./131407-ultra-adhd.json) |
 | Ultra Adventure Go Go Osawari Island | 98519 | [98519-ultra-adventure-go-go-osawari-island.json](./98519-ultra-adventure-go-go-osawari-island.json) |
+| Ultra Age | 107313 | [107313-ultra-age.json](./107313-ultra-age.json) |
 | Ultra Age: Rebirth Project | 224203 | [224203-ultra-age-rebirth-project.json](./224203-ultra-age-rebirth-project.json) |
 | Ultra Aktion! | 59658 | [59658-ultra-aktion.json](./59658-ultra-aktion.json) |
 | Ultra Assault | 94564 | [94564-ultra-assault.json](./94564-ultra-assault.json) |
