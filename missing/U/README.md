@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
+| UFC | 21720 | [21720-ufc.json](./21720-ufc.json) |
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
@@ -315,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugh! | 11685 | [11685-ugh.json](./11685-ugh.json) |
 | Ugh! | 81518 | [81518-ugh.json](./81518-ugh.json) |
 | Ugly | 140815 | [140815-ugly.json](./140815-ugly.json) |
+| Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
