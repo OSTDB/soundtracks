@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Pik 3 Deluxe | 313361 | [313361-re-pik-3-deluxe.json](./313361-re-pik-3-deluxe.json) |
 | Re:play | 337342 | [337342-re-play.json](./337342-re-play.json) |
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
+| Re:Re:Re:Respawn | 428333 | [428333-re-re-re-respawn.json](./428333-re-re-re-respawn.json) |
 | Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Run | 154633 | [154633-re-run.json](./154633-re-run.json) |
@@ -9604,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rash 3D | 45012 | [45012-road-rash-3d.json](./45012-road-rash-3d.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
+| Road Rash: 30th Anniversary Edition | 428364 | [428364-road-rash-30th-anniversary-edition.json](./428364-road-rash-30th-anniversary-edition.json) |
 | Road Rash: Jailbreak | 44897 | [44897-road-rash-jailbreak.json](./44897-road-rash-jailbreak.json) |
 | Road Rash: Jailbreak | 49178 | [49178-road-rash-jailbreak.json](./49178-road-rash-jailbreak.json) |
 | Road Redemption | 11602 | [11602-road-redemption.json](./11602-road-redemption.json) |
@@ -12465,6 +12467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooms | 260280 | [260280-rooms.json](./260280-rooms.json) |
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
+| Rooms | 428307 | [428307-rooms.json](./428307-rooms.json) |
 | Rooms of Doom | 241114 | [241114-rooms-of-doom.json](./241114-rooms-of-doom.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
 | Rooms of Realities | 198434 | [198434-rooms-of-realities.json](./198434-rooms-of-realities.json) |
