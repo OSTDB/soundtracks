@@ -8158,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Bundle | 356963 | [356963-hidden-object-bundle.json](./356963-hidden-object-bundle.json) |
+| Hidden Object Bundle 4 in 1 | 35811 | [35811-hidden-object-bundle-4-in-1.json](./35811-hidden-object-bundle-4-in-1.json) |
 | Hidden Object Chronicles: Poisoned Truth - Collector's Edition | 285535 | [285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json](./285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json) |
 | Hidden Object Classic Adventures | 198077 | [198077-hidden-object-classic-adventures.json](./198077-hidden-object-classic-adventures.json) |
 | Hidden Object Classic Adventures 2 | 198088 | [198088-hidden-object-classic-adventures-2.json](./198088-hidden-object-classic-adventures-2.json) |
@@ -14765,6 +14766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
 | Hypnos | 400598 | [400598-hypnos.json](./400598-hypnos.json) |
+| Hypnosis | 35903 | [35903-hypnosis.json](./35903-hypnosis.json) |
 | Hypnosis Card | 274902 | [274902-hypnosis-card.json](./274902-hypnosis-card.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
