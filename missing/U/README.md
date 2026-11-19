@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uppy Cup | 233918 | [233918-uppy-cup.json](./233918-uppy-cup.json) |
 | Uprising | 257422 | [257422-uprising.json](./257422-uprising.json) |
 | Uprising | 260470 | [260470-uprising.json](./260470-uprising.json) |
+| Uprising 2: Lead and Destroy | 22803 | [22803-uprising-2-lead-and-destroy.json](./22803-uprising-2-lead-and-destroy.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
 | Uprising-X | 45030 | [45030-uprising-x.json](./45030-uprising-x.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
