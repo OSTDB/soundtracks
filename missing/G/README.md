@@ -1376,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch: Super Mario Bros. | 146701 | [146701-game-and-watch-super-mario-bros.json](./146701-game-and-watch-super-mario-bros.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
 | Game about a soup factory | 68625 | [68625-game-about-a-soup-factory.json](./68625-game-about-a-soup-factory.json) |
+| Game About Botting in an MMORPG | 421157 | [421157-game-about-botting-in-an-mmorpg.json](./421157-game-about-botting-in-an-mmorpg.json) |
 | Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Diego! Go: Save the Animal Families! | 72997 | [72997-go-diego-go-save-the-animal-families.json](./72997-go-diego-go-save-the-animal-families.json) |
 | Go Domino | 232271 | [232271-go-domino.json](./232271-go-domino.json) |
 | Go Down | 106800 | [106800-go-down.json](./106800-go-down.json) |
+| Go Dub Yourself! | 421039 | [421039-go-dub-yourself.json](./421039-go-dub-yourself.json) |
 | Go Escape! | 220242 | [220242-go-escape.json](./220242-go-escape.json) |
 | Go Far Away | 130077 | [130077-go-far-away.json](./130077-go-far-away.json) |
 | Go Far, M.I.N.G. | 417983 | [417983-go-far-m-i-n-g.json](./417983-go-far-m-i-n-g.json) |
@@ -9503,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave Matters | 31222 | [31222-grave-matters.json](./31222-grave-matters.json) |
 | Grave Misfortune | 421731 | [421731-grave-misfortune.json](./421731-grave-misfortune.json) |
+| Grave Mistakes | 421041 | [421041-grave-mistakes.json](./421041-grave-mistakes.json) |
 | Grave Odds | 424537 | [424537-grave-odds.json](./424537-grave-odds.json) |
 | Grave of the Petrified | 132476 | [132476-grave-of-the-petrified.json](./132476-grave-of-the-petrified.json) |
 | Grave of Träumerei | 229414 | [229414-grave-of-traumerei.json](./229414-grave-of-traumerei.json) |
