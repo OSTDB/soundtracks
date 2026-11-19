@@ -16129,6 +16129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
 | Bowling Strike | 221341 | [221341-bowling-strike.json](./221341-bowling-strike.json) |
 | Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
+| Bowling Stryke | 428338 | [428338-bowling-stryke.json](./428338-bowling-stryke.json) |
 | Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowling Xciting | 56962 | [56962-bowling-xciting.json](./56962-bowling-xciting.json) |
 | Bowling: Breakthrough Gaming Arcade | 187749 | [187749-bowling-breakthrough-gaming-arcade.json](./187749-bowling-breakthrough-gaming-arcade.json) |
@@ -18321,6 +18322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Thunder | 287605 | [287605-broken-thunder.json](./287605-broken-thunder.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Time | 323466 | [323466-broken-time.json](./323466-broken-time.json) |
+| Broken Trapezium | 428356 | [428356-broken-trapezium.json](./428356-broken-trapezium.json) |
 | Broken Universe | 150788 | [150788-broken-universe.json](./150788-broken-universe.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
@@ -19736,6 +19738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Hell Monday Black | 142912 | [142912-bullet-hell-monday-black.json](./142912-bullet-hell-monday-black.json) |
 | Bullet Hell Monday Finale | 142915 | [142915-bullet-hell-monday-finale.json](./142915-bullet-hell-monday-finale.json) |
+| Bullet Hero | 428327 | [428327-bullet-hero.json](./428327-bullet-hero.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet League | 123121 | [123121-bullet-league.json](./123121-bullet-league.json) |
 | Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
@@ -20961,6 +20964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfliestry | 69445 | [69445-butterfliestry.json](./69445-butterfliestry.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterflowers | 186180 | [186180-butterflowers.json](./186180-butterflowers.json) |
+| Butterfly | 428367 | [428367-butterfly.json](./428367-butterfly.json) |
 | Butterfly | 91835 | [91835-butterfly.json](./91835-butterfly.json) |
 | Butterfly 2 | 117550 | [117550-butterfly-2.json](./117550-butterfly-2.json) |
 | Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
