@@ -7819,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal | 11954 | [11954-betrayal.json](./11954-betrayal.json) |
+| Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayal at Krondor | 2211 | [2211-betrayal-at-krondor.json](./2211-betrayal-at-krondor.json) |
 | Betrayal at Krondor Pack | 155223 | [155223-betrayal-at-krondor-pack.json](./155223-betrayal-at-krondor-pack.json) |
 | Betrayal Banquet | 410289 | [410289-betrayal-banquet.json](./410289-betrayal-banquet.json) |
@@ -8148,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Legend: Mysteries of Olympus | 106968 | [106968-beyond-the-legend-mysteries-of-olympus.json](./106968-beyond-the-legend-mysteries-of-olympus.json) |
 | Beyond the Lens | 244738 | [244738-beyond-the-lens.json](./244738-beyond-the-lens.json) |
 | Beyond the Limit: Ultimate Climb | 70730 | [70730-beyond-the-limit-ultimate-climb.json](./70730-beyond-the-limit-ultimate-climb.json) |
+| Beyond the Long Night | 175804 | [175804-beyond-the-long-night.json](./175804-beyond-the-long-night.json) |
 | Beyond the Map | 332913 | [332913-beyond-the-map.json](./332913-beyond-the-map.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond the Mind | 103837 | [103837-beyond-the-mind.json](./103837-beyond-the-mind.json) |
@@ -13127,6 +13129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
+| Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
 | Blossom's Bloom Boutique | 214659 | [214659-blossoms-bloom-boutique.json](./214659-blossoms-bloom-boutique.json) |
