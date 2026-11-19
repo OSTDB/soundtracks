@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Haitoku no Gakuen: Yami ni Sasagerareta Otome-tachi | 82524 | [82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json](./82524-haitoku-no-gakuen-yami-ni-sasagerareta-otome-tachi.json) |
+| Haitoku Sensation | 428343 | [428343-haitoku-sensation.json](./428343-haitoku-sensation.json) |
 | Haitoku Shirene: Anata no Shiranai Naraku no Soko | 314802 | [314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json](./314802-haitoku-shirene-anata-no-shiranai-naraku-no-soko.json) |
 | Haitoku Silene | 157058 | [157058-haitoku-silene.json](./157058-haitoku-silene.json) |
 | Haiyore! Nyaruko-san Nafushigatai Game no Yona Mono | 64067 | [64067-haiyore-nyaruko-san-nafushigatai-game-no-yona-mono.json](./64067-haiyore-nyaruko-san-nafushigatai-game-no-yona-mono.json) |
@@ -3457,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard | 186147 | [186147-hazard.json](./186147-hazard.json) |
 | Hazard | 377355 | [377355-hazard.json](./377355-hazard.json) |
 | Hazard | 98693 | [98693-hazard.json](./98693-hazard.json) |
+| Hazard Crew | 428314 | [428314-hazard-crew.json](./428314-hazard-crew.json) |
 | Hazard Hill Idle | 247602 | [247602-hazard-hill-idle.json](./247602-hazard-hill-idle.json) |
 | Hazard Horizon | 239455 | [239455-hazard-horizon.json](./239455-hazard-horizon.json) |
 | Hazard Level | 177007 | [177007-hazard-level.json](./177007-hazard-level.json) |
@@ -8622,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
 | Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
+| Hide No More | 428321 | [428321-hide-no-more.json](./428321-hide-no-more.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide the Baby | 383700 | [383700-hide-the-baby.json](./383700-hide-the-baby.json) |
@@ -12603,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
+| Houkago Yuri Ecchi | 428352 | [428352-houkago-yuri-ecchi.json](./428352-houkago-yuri-ecchi.json) |
 | Houkagou Colorful Step: Bunka-bu! | 202597 | [202597-houkagou-colorful-step-bunka-bu.json](./202597-houkagou-colorful-step-bunka-bu.json) |
 | Houkagou Colorful Step: Undou-bu! | 202596 | [202596-houkagou-colorful-step-undou-bu.json](./202596-houkagou-colorful-step-undou-bu.json) |
 | Houm | 417430 | [417430-houm.json](./417430-houm.json) |
@@ -13833,6 +13837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted Dream House | 75668 | [75668-hunted-dream-house.json](./75668-hunted-dream-house.json) |
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
+| Hunted Within: Terminal Rust | 428330 | [428330-hunted-within-terminal-rust.json](./428330-hunted-within-terminal-rust.json) |
 | Hunted Within: The Metro | 390207 | [390207-hunted-within-the-metro.json](./390207-hunted-within-the-metro.json) |
 | Hunted Within: The Walls | 346351 | [346351-hunted-within-the-walls.json](./346351-hunted-within-the-walls.json) |
 | Hunted: Kalevala | 235889 | [235889-hunted-kalevala.json](./235889-hunted-kalevala.json) |
@@ -14071,6 +14076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurry Up! | 167518 | [167518-hurry-up.json](./167518-hurry-up.json) |
 | Hurt | 144157 | [144157-hurt.json](./144157-hurt.json) |
 | Hurt Me Plenty | 20248 | [20248-hurt-me-plenty.json](./20248-hurt-me-plenty.json) |
+| Hurtbreak Wonderland | 428336 | [428336-hurtbreak-wonderland.json](./428336-hurtbreak-wonderland.json) |
 | Hurtful Tower | 178223 | [178223-hurtful-tower.json](./178223-hurtful-tower.json) |
 | Hurtworld | 15443 | [15443-hurtworld.json](./15443-hurtworld.json) |
 | Huru Beach Party | 24769 | [24769-huru-beach-party.json](./24769-huru-beach-party.json) |
@@ -14247,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrostation | 273173 | [273173-hydrostation.json](./273173-hydrostation.json) |
 | Hydrosub: 2021 | 64037 | [64037-hydrosub-2021.json](./64037-hydrosub-2021.json) |
 | Hydrothermal | 88570 | [88570-hydrothermal.json](./88570-hydrothermal.json) |
+| HydroTick | 428315 | [428315-hydrotick.json](./428315-hydrotick.json) |
 | Hydrotopia | 176585 | [176585-hydrotopia.json](./176585-hydrotopia.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
