@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Caddie | 246321 | [246321-caddie.json](./246321-caddie.json) |
 | Caddywack | 207428 | [207428-caddywack.json](./207428-caddywack.json) |
+| Cadê o Flávio? | 426568 | [426568-cade-o-flavio.json](./426568-cade-o-flavio.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Caden's Climb | 291346 | [291346-cadens-climb.json](./291346-cadens-climb.json) |
@@ -20423,6 +20424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
 | Croneworld | 83815 | [83815-croneworld.json](./83815-croneworld.json) |
 | Crongdor the Barbarian | 32703 | [32703-crongdor-the-barbarian.json](./32703-crongdor-the-barbarian.json) |
+| Crônicas da Separação | 426586 | [426586-cronicas-da-separacao.json](./426586-cronicas-da-separacao.json) |
 | Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Crónicas de Nueva Estrella Uno | 339340 | [339340-cronicas-de-nueva-estrella-uno.json](./339340-cronicas-de-nueva-estrella-uno.json) |
 | CroNix | 18911 | [18911-cronix.json](./18911-cronix.json) |
