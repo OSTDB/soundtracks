@@ -4870,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li-Lo | 285502 | [285502-li-lo.json](./285502-li-lo.json) |
 | Li'l Pac-Man | 219345 | [219345-lil-pac-man.json](./219345-lil-pac-man.json) |
 | Li'l Red | 272357 | [272357-lil-red.json](./272357-lil-red.json) |
+| Li'l Red II | 422347 | [422347-lil-red-ii.json](./422347-lil-red-ii.json) |
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Li'l Taffer | 323377 | [323377-lil-taffer.json](./323377-lil-taffer.json) |
 | Lia and the Train of the Seasons | 385092 | [385092-lia-and-the-train-of-the-seasons.json](./385092-lia-and-the-train-of-the-seasons.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
+| LightQuest 2: The Ancient Temples | 422351 | [422351-lightquest-2-the-ancient-temples.json](./422351-lightquest-2-the-ancient-temples.json) |
 | Lightracer Spark | 224981 | [224981-lightracer-spark.json](./224981-lightracer-spark.json) |
 | Lightracer Spark: Grey and Green | 259806 | [259806-lightracer-spark-grey-and-green.json](./259806-lightracer-spark-grey-and-green.json) |
 | Lightracer Spark: Stars Will | 276640 | [276640-lightracer-spark-stars-will.json](./276640-lightracer-spark-stars-will.json) |
@@ -6871,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Knight | 341170 | [341170-little-knight.json](./341170-little-knight.json) |
 | Little Knight 2: Old Dreams | 341171 | [341171-little-knight-2-old-dreams.json](./341171-little-knight-2-old-dreams.json) |
 | Little Knight Wars | 221575 | [221575-little-knight-wars.json](./221575-little-knight-wars.json) |
+| Little Knight's Last Night | 422352 | [422352-little-knights-last-night.json](./422352-little-knights-last-night.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Kong: Jungle Fun - Deluxe Edition | 227672 | [227672-little-kong-jungle-fun-deluxe-edition.json](./227672-little-kong-jungle-fun-deluxe-edition.json) |
 | Little Kong: Jungle Fun - Extended Edition | 231264 | [231264-little-kong-jungle-fun-extended-edition.json](./231264-little-kong-jungle-fun-extended-edition.json) |
