@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Court: A Duel of Dignitaries | 428926 | [428926-queens-court-a-duel-of-dignitaries.json](./428926-queens-court-a-duel-of-dignitaries.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
+| Queen's Domain | 258775 | [258775-queens-domain.json](./258775-queens-domain.json) |
 | Queen's Gamble | 411234 | [411234-queens-gamble.json](./411234-queens-gamble.json) |
 | Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
