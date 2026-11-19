@@ -13149,6 +13149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
 | Codex Lost 2 | 387838 | [387838-codex-lost-2.json](./387838-codex-lost-2.json) |
+| Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
 | Codex vs Science (Not Talos Principles) | 422292 | [422292-codex-vs-science-not-talos-principles.json](./422292-codex-vs-science-not-talos-principles.json) |
 | Codex: Eternal Eclipse | 305094 | [305094-codex-eternal-eclipse.json](./305094-codex-eternal-eclipse.json) |
