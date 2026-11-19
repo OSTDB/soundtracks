@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
 | Klonoa: Project Moonlight | 316309 | [316309-klonoa-project-moonlight.json](./316309-klonoa-project-moonlight.json) |
 | Klonoa: The Dream Chapter | 326551 | [326551-klonoa-the-dream-chapter.json](./326551-klonoa-the-dream-chapter.json) |
+| Klooboo | 427791 | [427791-klooboo.json](./427791-klooboo.json) |
 | Kloot Arena | 254707 | [254707-kloot-arena.json](./254707-kloot-arena.json) |
 | Kloppyssimo | 295289 | [295289-kloppyssimo.json](./295289-kloppyssimo.json) |
 | Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
