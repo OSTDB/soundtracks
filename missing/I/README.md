@@ -2212,7 +2212,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igor Maks: The Meme Lord | 126905 | [126905-igor-maks-the-meme-lord.json](./126905-igor-maks-the-meme-lord.json) |
 | Igor: Objective Uikokahonia | 7652 | [7652-igor-objective-uikokahonia.json](./7652-igor-objective-uikokahonia.json) |
 | Igor: The Game | 212667 | [212667-igor-the-game.json](./212667-igor-the-game.json) |
-| Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
 | Igor: The Time Machine | 73060 | [73060-igor-the-time-machine.json](./73060-igor-the-time-machine.json) |
 | Igowin HD | 108722 | [108722-igowin-hd.json](./108722-igowin-hd.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
