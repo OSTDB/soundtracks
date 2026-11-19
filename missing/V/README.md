@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vae Victis: Khan | 267671 | [267671-vae-victis-khan.json](./267671-vae-victis-khan.json) |
 | Vae Victus | 260510 | [260510-vae-victus.json](./260510-vae-victus.json) |
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
+| Vaelo | 424190 | [424190-vaelo.json](./424190-vaelo.json) |
 | Vaer | 296149 | [296149-vaer.json](./296149-vaer.json) |
 | Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
 | Vagabond | 192571 | [192571-vagabond.json](./192571-vagabond.json) |
@@ -3891,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoidReaver | 392408 | [392408-voidreaver.json](./392408-voidreaver.json) |
 | Voidrel | 408996 | [408996-voidrel.json](./408996-voidrel.json) |
 | Voidronaut | 359152 | [359152-voidronaut.json](./359152-voidronaut.json) |
+| Voidrp | 424216 | [424216-voidrp.json](./424216-voidrp.json) |
 | Voidrun | 232011 | [232011-voidrun.json](./232011-voidrun.json) |
 | Voidrunner | 36569 | [36569-voidrunner.json](./36569-voidrunner.json) |
 | Voidrunner | 377287 | [377287-voidrunner.json](./377287-voidrunner.json) |
