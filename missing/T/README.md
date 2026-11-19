@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telecube Nightmare | 111268 | [111268-telecube-nightmare.json](./111268-telecube-nightmare.json) |
 | Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
+| Telefrag VR | 107433 | [107433-telefrag-vr.json](./107433-telefrag-vr.json) |
 | Telegeddon | 369461 | [369461-telegeddon.json](./369461-telegeddon.json) |
 | Teleglitch: Die More Edition | 7884 | [7884-teleglitch-die-more-edition.json](./7884-teleglitch-die-more-edition.json) |
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
@@ -7734,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
 | The Boys Escape | 305624 | [305624-the-boys-escape.json](./305624-the-boys-escape.json) |
 | The Boys: Trigger Warning | 395403 | [395403-the-boys-trigger-warning.json](./395403-the-boys-trigger-warning.json) |
+| The Bradwell Conspiracy | 107314 | [107314-the-bradwell-conspiracy.json](./107314-the-bradwell-conspiracy.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -11667,6 +11669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Slamboree | 389134 | [389134-the-grand-slamboree.json](./389134-the-grand-slamboree.json) |
 | The Grand Sumo | 123161 | [123161-the-grand-sumo.json](./123161-the-grand-sumo.json) |
 | The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
+| The Grand Tour Game | 107227 | [107227-the-grand-tour-game.json](./107227-the-grand-tour-game.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandest Fleet | 73182 | [73182-the-grandest-fleet.json](./73182-the-grandest-fleet.json) |
 | The Grandfather | 342792 | [342792-the-grandfather.json](./342792-the-grandfather.json) |
@@ -21565,6 +21568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wayhaven Chronicles: Book One | 88043 | [88043-the-wayhaven-chronicles-book-one.json](./88043-the-wayhaven-chronicles-book-one.json) |
 | The Wayhaven Chronicles: Book Three | 224639 | [224639-the-wayhaven-chronicles-book-three.json](./224639-the-wayhaven-chronicles-book-three.json) |
 | The Wayhaven Chronicles: Book Two | 130146 | [130146-the-wayhaven-chronicles-book-two.json](./130146-the-wayhaven-chronicles-book-two.json) |
+| The Waylanders | 107211 | [107211-the-waylanders.json](./107211-the-waylanders.json) |
 | The Ways of Uron | 150352 | [150352-the-ways-of-uron.json](./150352-the-ways-of-uron.json) |
 | The Waystone's Toll: A Diorama Mini-Dungeon | 139873 | [139873-the-waystones-toll-a-diorama-mini-dungeon.json](./139873-the-waystones-toll-a-diorama-mini-dungeon.json) |
 | The Wayward Isles | 28536 | [28536-the-wayward-isles.json](./28536-the-wayward-isles.json) |
@@ -30524,6 +30528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shoujo: Tale of Beautiful Memories | 121378 | [121378-touhou-shoujo-tale-of-beautiful-memories.json](./121378-touhou-shoujo-tale-of-beautiful-memories.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
+| Touhou Sky Arena: Matsuri Climax | 106777 | [106777-touhou-sky-arena-matsuri-climax.json](./106777-touhou-sky-arena-matsuri-climax.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
 | Touhou Sorayumebako Gaiden: Konohana no Sorayume | 402841 | [402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json](./402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json) |
@@ -31632,6 +31637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Attack! | 25322 | [25322-track-attack.json](./25322-track-attack.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
+| Track Lab | 105880 | [105880-track-lab.json](./105880-track-lab.json) |
 | Track Lab VR | 111831 | [111831-track-lab-vr.json](./111831-track-lab-vr.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
 | Track Mayhem | 187104 | [187104-track-mayhem.json](./187104-track-mayhem.json) |
