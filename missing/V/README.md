@@ -68,7 +68,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Speedway | 194220 | [194220-v-speedway.json](./194220-v-speedway.json) |
 | V-Tech Rampage | 255431 | [255431-v-tech-rampage.json](./255431-v-tech-rampage.json) |
-| V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
 | V-Tetris | 20985 | [20985-v-tetris.json](./20985-v-tetris.json) |
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
@@ -4362,7 +4361,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Audio Visualizer | 29304 | [29304-vr-audio-visualizer.json](./29304-vr-audio-visualizer.json) |
 | VR Balloon Flying over Tokyo and Hokkaido | 154765 | [154765-vr-balloon-flying-over-tokyo-and-hokkaido.json](./154765-vr-balloon-flying-over-tokyo-and-hokkaido.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
-| VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Baseball 2000 | 62254 | [62254-vr-baseball-2000.json](./62254-vr-baseball-2000.json) |
 | VR Baseball 99 | 44931 | [44931-vr-baseball-99.json](./44931-vr-baseball-99.json) |
 | VR Basketball Hoops | 148686 | [148686-vr-basketball-hoops.json](./148686-vr-basketball-hoops.json) |
