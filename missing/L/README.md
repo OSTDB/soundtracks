@@ -2951,6 +2951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Deck | 366971 | [366971-legend-of-deck.json](./366971-legend-of-deck.json) |
+| Legend of Deepshade: The Shattered Seal | 420248 | [420248-legend-of-deepshade-the-shattered-seal.json](./420248-legend-of-deepshade-the-shattered-seal.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dragon Knight | 221894 | [221894-legend-of-dragon-knight.json](./221894-legend-of-dragon-knight.json) |
 | Legend of Dragon Labyrinth | 110721 | [110721-legend-of-dragon-labyrinth.json](./110721-legend-of-dragon-labyrinth.json) |
