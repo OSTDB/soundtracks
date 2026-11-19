@@ -14923,6 +14923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of the Abyss | 392319 | [392319-book-of-the-abyss.json](./392319-book-of-the-abyss.json) |
 | Book of the Dead | 13423 | [13423-book-of-the-dead.json](./13423-book-of-the-dead.json) |
 | Book of the Old | 164153 | [164153-book-of-the-old.json](./164153-book-of-the-old.json) |
+| Book of Travels | 122406 | [122406-book-of-travels.json](./122406-book-of-travels.json) |
 | Book of Yog | 126520 | [126520-book-of-yog.json](./126520-book-of-yog.json) |
 | Book Organizer | 405095 | [405095-book-organizer.json](./405095-book-organizer.json) |
 | Book Quest | 208565 | [208565-book-quest.json](./208565-book-quest.json) |
