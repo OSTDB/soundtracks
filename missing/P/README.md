@@ -8596,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PiraCrash! | 132517 | [132517-piracrash.json](./132517-piracrash.json) |
 | Piracy | 41199 | [41199-piracy.json](./41199-piracy.json) |
 | Piradice | 176290 | [176290-piradice.json](./176290-piradice.json) |
+| Piragraph Outlaw Fishing | 425356 | [425356-piragraph-outlaw-fishing.json](./425356-piragraph-outlaw-fishing.json) |
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piramide Inca | 246733 | [246733-piramide-inca.json](./246733-piramide-inca.json) |
 | Piranesian | 416034 | [416034-piranesian.json](./416034-piranesian.json) |
@@ -16768,6 +16769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
 | Pripyat Block 1986 | 285415 | [285415-pripyat-block-1986.json](./285415-pripyat-block-1986.json) |
 | Pripyat-3 | 171509 | [171509-pripyat-3.json](./171509-pripyat-3.json) |
+| Pripyat: Exclusion Zone | 425364 | [425364-pripyat-exclusion-zone.json](./425364-pripyat-exclusion-zone.json) |
 | Priscila | 281886 | [281886-priscila.json](./281886-priscila.json) |
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
