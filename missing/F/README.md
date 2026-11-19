@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Number | 308636 | [308636-falling-number.json](./308636-falling-number.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Petals: Bloom Edition | 405976 | [405976-falling-petals-bloom-edition.json](./405976-falling-petals-bloom-edition.json) |
+| Falling Phone | 426577 | [426577-falling-phone.json](./426577-falling-phone.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
 | Falling Rain | 327121 | [327121-falling-rain.json](./327121-falling-rain.json) |
 | Falling Robots | 26162 | [26162-falling-robots.json](./26162-falling-robots.json) |
@@ -8306,6 +8307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag Kaihi: Dasshutsu Game | 214379 | [214379-flag-kaihi-dasshutsu-game.json](./214379-flag-kaihi-dasshutsu-game.json) |
+| Flag Master Guess the Country | 426560 | [426560-flag-master-guess-the-country.json](./426560-flag-master-guess-the-country.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag or Rage | 340085 | [340085-flag-or-rage.json](./340085-flag-or-rage.json) |
 | Flag Solitaire | 89855 | [89855-flag-solitaire.json](./89855-flag-solitaire.json) |
@@ -10750,6 +10752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | Footy Ball: Pass Pass Soccer | 246271 | [246271-footy-ball-pass-pass-soccer.json](./246271-footy-ball-pass-pass-soccer.json) |
 | Footy Bash | 271909 | [271909-footy-bash.json](./271909-footy-bash.json) |
+| Footy Bash: Premiership Edition | 426543 | [426543-footy-bash-premiership-edition.json](./426543-footy-bash-premiership-edition.json) |
 | Footy Fanatic | 79107 | [79107-footy-fanatic.json](./79107-footy-fanatic.json) |
 | Footy Showdown | 217082 | [217082-footy-showdown.json](./217082-footy-showdown.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
@@ -13539,6 +13542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
 | Freezing Skies | 133616 | [133616-freezing-skies.json](./133616-freezing-skies.json) |
 | Freezing What If... | 340258 | [340258-freezing-what-if.json](./340258-freezing-what-if.json) |
+| Freezing What If...: Revenant Awakening | 426544 | [426544-freezing-what-if-revenant-awakening.json](./426544-freezing-what-if-revenant-awakening.json) |
 | Freezy Match | 393121 | [393121-freezy-match.json](./393121-freezy-match.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
@@ -14599,6 +14603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostBite | 381039 | [381039-frostbite.json](./381039-frostbite.json) |
 | Frostbite Frenzy | 367922 | [367922-frostbite-frenzy.json](./367922-frostbite-frenzy.json) |
 | Frostbite Frenzy: Flower Hat | 380228 | [380228-frostbite-frenzy-flower-hat.json](./380228-frostbite-frenzy-flower-hat.json) |
+| Frostbite Frenzy: Zebra Hat | 426541 | [426541-frostbite-frenzy-zebra-hat.json](./426541-frostbite-frenzy-zebra-hat.json) |
 | Frostbite Friends | 316179 | [316179-frostbite-friends.json](./316179-frostbite-friends.json) |
 | Frostbite: Deadly Climate | 105360 | [105360-frostbite-deadly-climate.json](./105360-frostbite-deadly-climate.json) |
 | Frostbiter | 279911 | [279911-frostbiter.json](./279911-frostbiter.json) |
