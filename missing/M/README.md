@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvin-mask | 78812 | [78812-marvin-mask.json](./78812-marvin-mask.json) |
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marvin's Maze | 24631 | [24631-marvins-maze.json](./24631-marvins-maze.json) |
+| Marvin's Mittens | 36157 | [36157-marvins-mittens.json](./36157-marvins-mittens.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
 | Mary | 188694 | [188694-mary.json](./188694-mary.json) |
@@ -9258,6 +9259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadimension Neptunia VII: Party Character - Umio & Nepgya | 238179 | [238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json](./238179-megadimension-neptunia-vii-party-character-umio-and-nepgya.json) |
 | Megadimension Neptunia VII: Ultimate Weapon Pack | 227040 | [227040-megadimension-neptunia-vii-ultimate-weapon-pack.json](./227040-megadimension-neptunia-vii-ultimate-weapon-pack.json) |
 | Megadimension Neptunia VII: Weapon Pack | 227036 | [227036-megadimension-neptunia-vii-weapon-pack.json](./227036-megadimension-neptunia-vii-weapon-pack.json) |
+| Megadimension Neptunia VIIR | 36610 | [36610-megadimension-neptunia-viir.json](./36610-megadimension-neptunia-viir.json) |
 | Megadimension Neptunia VIIR: DLC Pack | 227381 | [227381-megadimension-neptunia-viir-dlc-pack.json](./227381-megadimension-neptunia-viir-dlc-pack.json) |
 | Megadon | 40356 | [40356-megadon.json](./40356-megadon.json) |
 | MegaDrill | 286637 | [286637-megadrill.json](./286637-megadrill.json) |
@@ -16497,6 +16499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moai V: Collector's Edition | 96693 | [96693-moai-v-collectors-edition.json](./96693-moai-v-collectors-edition.json) |
 | Moai VI: Unexpected Guests | 117980 | [117980-moai-vi-unexpected-guests.json](./117980-moai-vi-unexpected-guests.json) |
 | Moai-kun | 48424 | [48424-moai-kun.json](./48424-moai-kun.json) |
+| Moai: Build Your Dream | 36020 | [36020-moai-build-your-dream.json](./36020-moai-build-your-dream.json) |
 | Moaisland | 298140 | [298140-moaisland.json](./298140-moaisland.json) |
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
