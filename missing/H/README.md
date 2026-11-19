@@ -13023,6 +13023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How the Leopard Got His Spots | 363985 | [363985-how-the-leopard-got-his-spots.json](./363985-how-the-leopard-got-his-spots.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
 | How the Little Match Girl Met the Queen of Vampires | 290404 | [290404-how-the-little-match-girl-met-the-queen-of-vampires.json](./290404-how-the-little-match-girl-met-the-queen-of-vampires.json) |
+| How They Built the Pyramids | 429651 | [429651-how-they-built-the-pyramids.json](./429651-how-they-built-the-pyramids.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
 | How to Bathe Your Cat | 173221 | [173221-how-to-bathe-your-cat.json](./173221-how-to-bathe-your-cat.json) |
 | How to Bathe Your Cat: Drawing | 191170 | [191170-how-to-bathe-your-cat-drawing.json](./191170-how-to-bathe-your-cat-drawing.json) |
