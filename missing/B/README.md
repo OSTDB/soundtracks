@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
 | Barks and Bytes | 347966 | [347966-barks-and-bytes.json](./347966-barks-and-bytes.json) |
+| Barkside Roads | 423577 | [423577-barkside-roads.json](./423577-barkside-roads.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barmark | 114665 | [114665-barmark.json](./114665-barmark.json) |
@@ -19069,6 +19070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbler | 362008 | [362008-bubbler.json](./362008-bubbler.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
+| Bubbles & Babes | 423568 | [423568-bubbles-and-babes.json](./423568-bubbles-and-babes.json) |
 | Bubbles & Pearls | 195362 | [195362-bubbles-and-pearls.json](./195362-bubbles-and-pearls.json) |
 | Bubbles Empire Champions | 108694 | [108694-bubbles-empire-champions.json](./108694-bubbles-empire-champions.json) |
 | Bubbles for Kids | 87289 | [87289-bubbles-for-kids.json](./87289-bubbles-for-kids.json) |
