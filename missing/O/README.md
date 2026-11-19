@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
 | Open in the Groove | 144393 | [144393-open-in-the-groove.json](./144393-open-in-the-groove.json) |
 | Open Kart | 61979 | [61979-open-kart.json](./61979-open-kart.json) |
+| Open Land | 418055 | [418055-open-land.json](./418055-open-land.json) |
 | Open Me! | 64291 | [64291-open-me.json](./64291-open-me.json) |
 | Open Mod | 173929 | [173929-open-mod.json](./173929-open-mod.json) |
 | Open Mortal | 113539 | [113539-open-mortal.json](./113539-open-mortal.json) |
