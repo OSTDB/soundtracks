@@ -5419,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock 'Em Downs: Worlds Fair | 209826 | [209826-knock-em-downs-worlds-fair.json](./209826-knock-em-downs-worlds-fair.json) |
 | Knock & Run | 249243 | [249243-knock-and-run.json](./249243-knock-and-run.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
+| Knock It Off! | 427154 | [427154-knock-it-off.json](./427154-knock-it-off.json) |
 | Knock It Over, Again? | 407064 | [407064-knock-it-over-again.json](./407064-knock-it-over-again.json) |
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
