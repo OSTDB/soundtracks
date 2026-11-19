@@ -26497,7 +26497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy: Detective Games Bundle (3 in 1) | 319332 | [319332-spy-guy-detective-games-bundle-3-in-1.json](./319332-spy-guy-detective-games-bundle-3-in-1.json) |
 | Spy Guy: Poznan Edition | 386804 | [386804-spy-guy-poznan-edition.json](./386804-spy-guy-poznan-edition.json) |
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
-| Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
 | Spy Hunter | 287079 | [287079-spy-hunter.json](./287079-spy-hunter.json) |
 | Spy Hunter | 4167 | [4167-spy-hunter.json](./4167-spy-hunter.json) |
 | Spy Hunter / Super Sprint | 93200 | [93200-spy-hunter-super-sprint.json](./93200-spy-hunter-super-sprint.json) |
