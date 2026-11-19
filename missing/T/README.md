@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taiping Heavenly Kingdom | 409640 | [409640-taiping-heavenly-kingdom.json](./409640-taiping-heavenly-kingdom.json) |
+| Tairum | 429670 | [429670-tairum.json](./429670-tairum.json) |
 | Taisei Project | 194779 | [194779-taisei-project.json](./194779-taisei-project.json) |
 | Taisen Bomberman | 198182 | [198182-taisen-bomberman.json](./198182-taisen-bomberman.json) |
 | Taisen Bomberman + | 198185 | [198185-taisen-bomberman.json](./198185-taisen-bomberman.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Nebezem: Golden Scepter | 95945 | [95945-tales-of-nebezem-golden-scepter.json](./95945-tales-of-nebezem-golden-scepter.json) |
 | Tales of Nebezem: Mind Trial | 95925 | [95925-tales-of-nebezem-mind-trial.json](./95925-tales-of-nebezem-mind-trial.json) |
 | Tales of Novariel | 193771 | [193771-tales-of-novariel.json](./193771-tales-of-novariel.json) |
+| Tales of Orrin | 429627 | [429627-tales-of-orrin.json](./429627-tales-of-orrin.json) |
 | Tales of Pantheon: Summoners Arena | 224398 | [224398-tales-of-pantheon-summoners-arena.json](./224398-tales-of-pantheon-summoners-arena.json) |
 | Tales of Phantasia | 1200 | [1200-tales-of-phantasia.json](./1200-tales-of-phantasia.json) |
 | Tales of Phantasia | 196633 | [196633-tales-of-phantasia.json](./196633-tales-of-phantasia.json) |
@@ -10353,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within: The Consequence | 20945 | [20945-the-evil-within-the-consequence.json](./20945-the-evil-within-the-consequence.json) |
 | The Evil Within: The Executioner | 21592 | [21592-the-evil-within-the-executioner.json](./21592-the-evil-within-the-executioner.json) |
 | The Evil's Nest | 362009 | [362009-the-evils-nest.json](./362009-the-evils-nest.json) |
+| The Evils | 429667 | [429667-the-evils.json](./429667-the-evils.json) |
 | The Evilslayer Maiden | 82639 | [82639-the-evilslayer-maiden.json](./82639-the-evilslayer-maiden.json) |
 | The Evolution of Trust | 176068 | [176068-the-evolution-of-trust.json](./176068-the-evolution-of-trust.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
@@ -14388,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Maya | 78324 | [78324-the-legend-of-maya.json](./78324-the-legend-of-maya.json) |
 | The Legend of Mir 2 | 214343 | [214343-the-legend-of-mir-2.json](./214343-the-legend-of-mir-2.json) |
 | The Legend of Mir 2 | 51204 | [51204-the-legend-of-mir-2.json](./51204-the-legend-of-mir-2.json) |
+| The Legend of Mitts and the Divine Recipes | 429658 | [429658-the-legend-of-mitts-and-the-divine-recipes.json](./429658-the-legend-of-mitts-and-the-divine-recipes.json) |
 | The Legend of Monster Mountain | 106490 | [106490-the-legend-of-monster-mountain.json](./106490-the-legend-of-monster-mountain.json) |
 | The Legend of Monsters | 179521 | [179521-the-legend-of-monsters.json](./179521-the-legend-of-monsters.json) |
 | The Legend of Myra | 64186 | [64186-the-legend-of-myra.json](./64186-the-legend-of-myra.json) |
@@ -16668,6 +16672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orcs Strike Back! | 108020 | [108020-the-orcs-strike-back.json](./108020-the-orcs-strike-back.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
+| The Order of the Damned | 429638 | [429638-the-order-of-the-damned.json](./429638-the-order-of-the-damned.json) |
 | The Order of the Snake Scale | 267015 | [267015-the-order-of-the-snake-scale.json](./267015-the-order-of-the-snake-scale.json) |
 | The Order of the Thorne: The King's Challenge | 17005 | [17005-the-order-of-the-thorne-the-kings-challenge.json](./17005-the-order-of-the-thorne-the-kings-challenge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
@@ -19446,6 +19451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soulstream Expansive: Prelude | 418837 | [418837-the-soulstream-expansive-prelude.json](./418837-the-soulstream-expansive-prelude.json) |
 | The Soulwalkers | 252796 | [252796-the-soulwalkers.json](./252796-the-soulwalkers.json) |
 | The Sound of Fireworks: The Haiku | 160266 | [160266-the-sound-of-fireworks-the-haiku.json](./160266-the-sound-of-fireworks-the-haiku.json) |
+| The Sound of Fury | 429625 | [429625-the-sound-of-fury.json](./429625-the-sound-of-fury.json) |
 | The Sound of Piano | 410190 | [410190-the-sound-of-piano.json](./410190-the-sound-of-piano.json) |
 | The Sounding Dark | 414675 | [414675-the-sounding-dark.json](./414675-the-sounding-dark.json) |
 | The Source | 249923 | [249923-the-source.json](./249923-the-source.json) |
@@ -26216,6 +26222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time Flipper | 188884 | [188884-time-flipper.json](./188884-time-flipper.json) |
+| Time Flow | 429640 | [429640-time-flow.json](./429640-time-flow.json) |
 | Time Flows But Does Not Return | 68421 | [68421-time-flows-but-does-not-return.json](./68421-time-flows-but-does-not-return.json) |
 | Time For Bed | 317738 | [317738-time-for-bed.json](./317738-time-for-bed.json) |
 | Time For Changes | 418203 | [418203-time-for-changes.json](./418203-time-for-changes.json) |
@@ -28840,6 +28847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
 | Tome of Fates | 250735 | [250735-tome-of-fates.json](./250735-tome-of-fates.json) |
 | Tome of Heroes | 48675 | [48675-tome-of-heroes.json](./48675-tome-of-heroes.json) |
+| Tome of Ruin: The Word Dungeon | 429630 | [429630-tome-of-ruin-the-word-dungeon.json](./429630-tome-of-ruin-the-word-dungeon.json) |
 | Tome of Talis: A Dice Conquest Game | 388299 | [388299-tome-of-talis-a-dice-conquest-game.json](./388299-tome-of-talis-a-dice-conquest-game.json) |
 | Tome of the Damned | 380081 | [380081-tome-of-the-damned.json](./380081-tome-of-the-damned.json) |
 | Tome of the Sun | 112118 | [112118-tome-of-the-sun.json](./112118-tome-of-the-sun.json) |
@@ -36034,6 +36042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Girls VR | 31152 | [31152-tropical-girls-vr.json](./31152-tropical-girls-vr.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Heat Jet Ski Racing | 63155 | [63155-tropical-heat-jet-ski-racing.json](./63155-tropical-heat-jet-ski-racing.json) |
+| Tropical Jurassic Discovery | 429659 | [429659-tropical-jurassic-discovery.json](./429659-tropical-jurassic-discovery.json) |
 | Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
 | Tropical Lost Island | 394417 | [394417-tropical-lost-island.json](./394417-tropical-lost-island.json) |
 | Tropical Lost Island | 394420 | [394420-tropical-lost-island.json](./394420-tropical-lost-island.json) |
