@@ -318,8 +318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable II: See the Future | 22997 | [22997-fable-ii-see-the-future.json](./22997-fable-ii-see-the-future.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
-| Fable III: Traitor's Keep Quest Pack | 20438 | [20438-fable-iii-traitors-keep-quest-pack.json](./20438-fable-iii-traitors-keep-quest-pack.json) |
-| Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fable Legends | 5624 | [5624-fable-legends.json](./5624-fable-legends.json) |
 | Fable Mosaics: Rapunzel | 294218 | [294218-fable-mosaics-rapunzel.json](./294218-fable-mosaics-rapunzel.json) |
 | Fable of Fairy Stones | 222064 | [222064-fable-of-fairy-stones.json](./222064-fable-of-fairy-stones.json) |
@@ -1438,7 +1436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Sand! | 146811 | [146811-falling-sand.json](./146811-falling-sand.json) |
 | Falling Sands Fast | 152038 | [152038-falling-sands-fast.json](./152038-falling-sands-fast.json) |
 | Falling Skies | 135084 | [135084-falling-skies.json](./135084-falling-skies.json) |
-| Falling Skies: The Game | 19644 | [19644-falling-skies-the-game.json](./19644-falling-skies-the-game.json) |
 | Falling Sky | 82888 | [82888-falling-sky.json](./82888-falling-sky.json) |
 | Falling Skywards | 305731 | [305731-falling-skywards.json](./305731-falling-skywards.json) |
 | Falling Slime | 102315 | [102315-falling-slime.json](./102315-falling-slime.json) |
@@ -5380,7 +5377,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy: Starship Traveller | 175052 | [175052-fighting-fantasy-starship-traveller.json](./175052-fighting-fantasy-starship-traveller.json) |
 | Fighting Fantasy: Talisman of Death | 52211 | [52211-fighting-fantasy-talisman-of-death.json](./52211-fighting-fantasy-talisman-of-death.json) |
 | Fighting Fantasy: The Forest of Doom | 175216 | [175216-fighting-fantasy-the-forest-of-doom.json](./175216-fighting-fantasy-the-forest-of-doom.json) |
-| Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting Fantasy: The Warlock of Firetop Mountain | 81501 | [81501-fighting-fantasy-the-warlock-of-firetop-mountain.json](./81501-fighting-fantasy-the-warlock-of-firetop-mountain.json) |
 | Fighting Fiends | 180488 | [180488-fighting-fiends.json](./180488-fighting-fiends.json) |
 | Fighting For Food | 72357 | [72357-fighting-for-food.json](./72357-fighting-for-food.json) |
