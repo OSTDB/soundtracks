@@ -4487,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Towns: Cats of Ulthar | 59499 | [59499-ghost-towns-cats-of-ulthar.json](./59499-ghost-towns-cats-of-ulthar.json) |
 | Ghost Train | 91152 | [91152-ghost-train.json](./91152-ghost-train.json) |
 | Ghost Train VR | 32260 | [32260-ghost-train-vr.json](./32260-ghost-train-vr.json) |
+| Ghost Transmission | 430629 | [430629-ghost-transmission.json](./430629-ghost-transmission.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Trap | 49599 | [49599-ghost-trap.json](./49599-ghost-trap.json) |
 | Ghost Traveler: Adventures in Edo | 356958 | [356958-ghost-traveler-adventures-in-edo.json](./356958-ghost-traveler-adventures-in-edo.json) |
