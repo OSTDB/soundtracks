@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verticow | 330117 | [330117-verticow.json](./330117-verticow.json) |
 | Vertig8 | 303071 | [303071-vertig8.json](./303071-vertig8.json) |
 | VertiGhoul | 344537 | [344537-vertighoul.json](./344537-vertighoul.json) |
+| Vertiginous Golf | 16956 | [16956-vertiginous-golf.json](./16956-vertiginous-golf.json) |
 | Vertigo | 167195 | [167195-vertigo.json](./167195-vertigo.json) |
 | Vertigo | 171501 | [171501-vertigo.json](./171501-vertigo.json) |
 | Vertigo | 179768 | [179768-vertigo.json](./179768-vertigo.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VolleySmash | 322075 | [322075-volleysmash.json](./322075-volleysmash.json) |
 | Vollun | 120048 | [120048-vollun.json](./120048-vollun.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
+| Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
