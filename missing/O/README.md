@@ -2064,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni | 35127 | [35127-omni.json](./35127-omni.json) |
 | Omni Axes | 122935 | [122935-omni-axes.json](./122935-omni-axes.json) |
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
+| Omni Growth | 425359 | [425359-omni-growth.json](./425359-omni-growth.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Link | 31270 | [31270-omni-link.json](./31270-omni-link.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
@@ -5705,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
 | Out of Touch! | 319856 | [319856-out-of-touch.json](./319856-out-of-touch.json) |
 | Out of Tune | 107054 | [107054-out-of-tune.json](./107054-out-of-tune.json) |
+| Out of Water | 425337 | [425337-out-of-water.json](./425337-out-of-water.json) |
 | Out Of Water | 359925 | [359925-out-of-water.json](./359925-out-of-water.json) |
 | Out of Words | 347645 | [347645-out-of-words.json](./347645-out-of-words.json) |
 | Out of Your Mind | 318319 | [318319-out-of-your-mind.json](./318319-out-of-your-mind.json) |
