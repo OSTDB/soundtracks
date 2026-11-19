@@ -6985,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai Harem Saver | 223760 | [223760-isekai-harem-saver.json](./223760-isekai-harem-saver.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
+| Isekai Idle | 428345 | [428345-isekai-idle.json](./428345-isekai-idle.json) |
 | Isekai Infinity: Worlds Unleashed | 291852 | [291852-isekai-infinity-worlds-unleashed.json](./291852-isekai-infinity-worlds-unleashed.json) |
 | Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
 | Isekai Junior Manager | 244077 | [244077-isekai-junior-manager.json](./244077-isekai-junior-manager.json) |
