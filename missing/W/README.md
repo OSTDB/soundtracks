@@ -5879,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
+| Wild Card Football | 260011 | [260011-wild-card-football.json](./260011-wild-card-football.json) |
 | Wild Card Football: Deluxe Edition | 260012 | [260012-wild-card-football-deluxe-edition.json](./260012-wild-card-football-deluxe-edition.json) |
 | Wild Card Football: Legacy Players Kickoff Pack | 271555 | [271555-wild-card-football-legacy-players-kickoff-pack.json](./271555-wild-card-football-legacy-players-kickoff-pack.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
@@ -6240,6 +6241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
 | Wildshade Fantasy Horse Races | 233069 | [233069-wildshade-fantasy-horse-races.json](./233069-wildshade-fantasy-horse-races.json) |
+| Wildshade: Unicorn Champions | 258256 | [258256-wildshade-unicorn-champions.json](./258256-wildshade-unicorn-champions.json) |
 | Wildsilver | 152784 | [152784-wildsilver.json](./152784-wildsilver.json) |
 | Wildsite | 282210 | [282210-wildsite.json](./282210-wildsite.json) |
 | WildSnake | 200365 | [200365-wildsnake.json](./200365-wildsnake.json) |
