@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Karate Krab In Space | 172051 | [172051-karate-krab-karate-krab-in-space.json](./172051-karate-krab-karate-krab-in-space.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
+| Karate Master 2 Knock Down Blow | 35813 | [35813-karate-master-2-knock-down-blow.json](./35813-karate-master-2-knock-down-blow.json) |
 | Karate Master Knock Down Blow | 50457 | [50457-karate-master-knock-down-blow.json](./50457-karate-master-knock-down-blow.json) |
 | Karate Panda | 54158 | [54158-karate-panda.json](./54158-karate-panda.json) |
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
