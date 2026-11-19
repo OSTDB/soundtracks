@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-chan no Oekaki Logic | 186657 | [186657-o-chan-no-oekaki-logic.json](./186657-o-chan-no-oekaki-logic.json) |
 | O-chan no Oekaki Logic | 37561 | [37561-o-chan-no-oekaki-logic.json](./37561-o-chan-no-oekaki-logic.json) |
 | O-chan no Oekaki Logic 2 | 58530 | [58530-o-chan-no-oekaki-logic-2.json](./58530-o-chan-no-oekaki-logic-2.json) |
+| O-Jay! | 419210 | [419210-o-jay.json](./419210-o-jay.json) |
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-SHI-KA-KE Saiminjutsushi: Toraware no In'yoku Marionette | 98124 | [98124-o-shi-ka-ke-saiminjutsushi-toraware-no-inyoku-marionette.json](./98124-o-shi-ka-ke-saiminjutsushi-toraware-no-inyoku-marionette.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdriven | 94063 | [94063-overdriven.json](./94063-overdriven.json) |
 | Overdriven Evolution | 207574 | [207574-overdriven-evolution.json](./207574-overdriven-evolution.json) |
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
+| Overdue | 419224 | [419224-overdue.json](./419224-overdue.json) |
 | Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
