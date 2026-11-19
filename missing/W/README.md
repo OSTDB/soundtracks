@@ -6657,7 +6657,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Glory | 46717 | [46717-wings-of-glory.json](./46717-wings-of-glory.json) |
 | Wings of Heroes | 273679 | [273679-wings-of-heroes.json](./273679-wings-of-heroes.json) |
 | Wings of Honour | 27248 | [27248-wings-of-honour.json](./27248-wings-of-honour.json) |
-| Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
 | Wings of Horus | 415980 | [415980-wings-of-horus.json](./415980-wings-of-horus.json) |
 | Wings of Justice | 237449 | [237449-wings-of-justice.json](./237449-wings-of-justice.json) |
 | Wings of Legends | 155960 | [155960-wings-of-legends.json](./155960-wings-of-legends.json) |
