@@ -10382,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Mendel Simulator | 408416 | [408416-mendel-simulator.json](./408416-mendel-simulator.json) |
 | Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
+| Mendicant Sea | 420237 | [420237-mendicant-sea.json](./420237-mendicant-sea.json) |
 | Mending Wall | 185832 | [185832-mending-wall.json](./185832-mending-wall.json) |
 | Mendum Memoria | 180387 | [180387-mendum-memoria.json](./180387-mendum-memoria.json) |
 | Menes: The Chainbreaker | 333316 | [333316-menes-the-chainbreaker.json](./333316-menes-the-chainbreaker.json) |
