@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | Xorple | 86555 | [86555-xorple.json](./86555-xorple.json) |
 | Xoru | 324973 | [324973-xoru.json](./324973-xoru.json) |
+| Xotic | 15085 | [15085-xotic.json](./15085-xotic.json) |
 | Xotic: Pipe Works Expansion Pack | 224385 | [224385-xotic-pipe-works-expansion-pack.json](./224385-xotic-pipe-works-expansion-pack.json) |
 | Xotic: Temple Crypt Expansion Pack | 224384 | [224384-xotic-temple-crypt-expansion-pack.json](./224384-xotic-temple-crypt-expansion-pack.json) |
 | Xotic: Warp Field Expansion Pack | 224383 | [224383-xotic-warp-field-expansion-pack.json](./224383-xotic-warp-field-expansion-pack.json) |
@@ -1044,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XP Spelletjes | 281084 | [281084-xp-spelletjes.json](./281084-xp-spelletjes.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xpand Rally | 8034 | [8034-xpand-rally.json](./8034-xpand-rally.json) |
+| Xpand Rally Xtreme | 9310 | [9310-xpand-rally-xtreme.json](./9310-xpand-rally-xtreme.json) |
 | XpCade | 155955 | [155955-xpcade.json](./155955-xpcade.json) |
 | XPilot | 142943 | [142943-xpilot.json](./142943-xpilot.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
