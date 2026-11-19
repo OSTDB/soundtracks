@@ -13818,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
 | Mind Games Entertainment Pack for Windows | 119138 | [119138-mind-games-entertainment-pack-for-windows.json](./119138-mind-games-entertainment-pack-for-windows.json) |
+| Mind Gazing | 424176 | [424176-mind-gazing.json](./424176-mind-gazing.json) |
 | Mind Grind | 62397 | [62397-mind-grind.json](./62397-mind-grind.json) |
 | Mind Habits | 209233 | [209233-mind-habits.json](./209233-mind-habits.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
@@ -18316,6 +18317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Manor | 230576 | [230576-monster-manor.json](./230576-monster-manor.json) |
 | Monster Manor | 365346 | [365346-monster-manor.json](./365346-monster-manor.json) |
 | Monster Mansion | 80751 | [80751-monster-mansion.json](./80751-monster-mansion.json) |
+| Monster Mansion 3D | 424165 | [424165-monster-mansion-3d.json](./424165-monster-mansion-3d.json) |
 | Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 192351 | [192351-monster-master.json](./192351-monster-master.json) |
@@ -23452,6 +23454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend is a Raven | 127714 | [127714-my-friend-is-a-raven.json](./127714-my-friend-is-a-raven.json) |
+| My Friend Is Blind | 424175 | [424175-my-friend-is-blind.json](./424175-my-friend-is-blind.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Pedro x Shotgun Cop Man Bundle | 349610 | [349610-my-friend-pedro-x-shotgun-cop-man-bundle.json](./349610-my-friend-pedro-x-shotgun-cop-man-bundle.json) |
 | My Friend Pedro: Arena | 289599 | [289599-my-friend-pedro-arena.json](./289599-my-friend-pedro-arena.json) |
