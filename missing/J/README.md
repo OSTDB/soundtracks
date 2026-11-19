@@ -1718,7 +1718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Solitaire III | 67120 | [67120-jewel-quest-solitaire-iii.json](./67120-jewel-quest-solitaire-iii.json) |
 | Jewel Quest Solitaire Trio | 98622 | [98622-jewel-quest-solitaire-trio.json](./98622-jewel-quest-solitaire-trio.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
-| Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: Heritage | 209994 | [209994-jewel-quest-heritage.json](./209994-jewel-quest-heritage.json) |
 | Jewel Quest: Match 3 Adventure | 376577 | [376577-jewel-quest-match-3-adventure.json](./376577-jewel-quest-match-3-adventure.json) |
 | Jewel Quest: Seven Seas | 87106 | [87106-jewel-quest-seven-seas.json](./87106-jewel-quest-seven-seas.json) |
@@ -2805,8 +2804,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
 | Johnny Hardball: The Final Rebound | 390725 | [390725-johnny-hardball-the-final-rebound.json](./390725-johnny-hardball-the-final-rebound.json) |
 | Johnny Herbert's Grand Prix Championship 1998 | 70761 | [70761-johnny-herberts-grand-prix-championship-1998.json](./70761-johnny-herberts-grand-prix-championship-1998.json) |
-| Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
-| Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
 | Johnny Lionface | 167541 | [167541-johnny-lionface.json](./167541-johnny-lionface.json) |
 | Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
@@ -4852,7 +4849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justy×Nasty: Maou Hajimemashita - Limited Edition | 149969 | [149969-justy-nasty-maou-hajimemashita-limited-edition.json](./149969-justy-nasty-maou-hajimemashita-limited-edition.json) |
 | Jut | 129578 | [129578-jut.json](./129578-jut.json) |
 | Jutei Senki | 42387 | [42387-jutei-senki.json](./42387-jutei-senki.json) |
-| Jutland | 21179 | [21179-jutland.json](./21179-jutland.json) |
 | Jutsu Online | 143766 | [143766-jutsu-online.json](./143766-jutsu-online.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
 | Juufuutei Raden's Guide for Pixel Museum | 324609 | [324609-juufuutei-radens-guide-for-pixel-museum.json](./324609-juufuutei-radens-guide-for-pixel-museum.json) |
