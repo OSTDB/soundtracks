@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
+| Calculus of Rot | 430519 | [430519-calculus-of-rot.json](./430519-calculus-of-rot.json) |
 | Caldera | 268906 | [268906-caldera.json](./268906-caldera.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
 | Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
@@ -8332,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken with Chainguns | 74664 | [74664-chicken-with-chainguns.json](./74664-chicken-with-chainguns.json) |
 | Chicken with Dynamites | 174570 | [174570-chicken-with-dynamites.json](./174570-chicken-with-dynamites.json) |
 | Chicken with Robot Legs | 306297 | [306297-chicken-with-robot-legs.json](./306297-chicken-with-robot-legs.json) |
+| Chicken Yeet | 430469 | [430469-chicken-yeet.json](./430469-chicken-yeet.json) |
 | Chicken! | 152982 | [152982-chicken.json](./152982-chicken.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
