@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
 | Joan of Arc | 15235 | [15235-joan-of-arc.json](./15235-joan-of-arc.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
+| Joana's Life | 31713 | [31713-joanas-life.json](./31713-joanas-life.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Application Simulator | 183247 | [183247-job-application-simulator.json](./183247-job-application-simulator.json) |
 | Job Applications | 343041 | [343041-job-applications.json](./343041-job-applications.json) |
