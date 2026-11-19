@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yttrium X | 415523 | [415523-yttrium-x.json](./415523-yttrium-x.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Escape / Monday | 141467 | [141467-yu-escape-monday.json](./141467-yu-escape-monday.json) |
+| Yǔ Flandre Yīqǐ Zhuōmícáng ba | 429085 | [429085-yu-flandre-yiqi-zhuomicang-ba.json](./429085-yu-flandre-yiqi-zhuomicang-ba.json) |
 | Yu Hayami no American Kids: Eigo de Bikkuri | 293911 | [293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json](./293911-yu-hayami-no-american-kids-eigo-de-bikkuri.json) |
 | Yu Hayami no American Kids: Eigo de Talk | 293913 | [293913-yu-hayami-no-american-kids-eigo-de-talk.json](./293913-yu-hayami-no-american-kids-eigo-de-talk.json) |
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
