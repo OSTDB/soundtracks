@@ -7661,6 +7661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revue Starlight El Dorado | 230580 | [230580-revue-starlight-el-dorado.json](./230580-revue-starlight-el-dorado.json) |
 | Revue Starlight Re Live | 117187 | [117187-revue-starlight-re-live.json](./117187-revue-starlight-re-live.json) |
 | Revv Racing | 172500 | [172500-revv-racing.json](./172500-revv-racing.json) |
+| Revving: Engine Simulator | 427775 | [427775-revving-engine-simulator.json](./427775-revving-engine-simulator.json) |
+| Revving: Engine Simulator - Every Engine | 427778 | [427778-revving-engine-simulator-every-engine.json](./427778-revving-engine-simulator-every-engine.json) |
 | Revvolvver | 250460 | [250460-revvolvver.json](./250460-revvolvver.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewarding Community Bundle | 212579 | [212579-rewarding-community-bundle.json](./212579-rewarding-community-bundle.json) |
@@ -10514,6 +10516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 184982 | [184982-rock-bottom.json](./184982-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
+| Rock Bottom | 427772 | [427772-rock-bottom.json](./427772-rock-bottom.json) |
 | Rock Canvas | 285170 | [285170-rock-canvas.json](./285170-rock-canvas.json) |
 | Rock Challenge | 358735 | [358735-rock-challenge.json](./358735-rock-challenge.json) |
 | Rock Challenge | 71338 | [71338-rock-challenge.json](./71338-rock-challenge.json) |
