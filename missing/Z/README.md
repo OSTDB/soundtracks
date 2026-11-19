@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids Wild Arena | 300644 | [300644-zoids-wild-arena.json](./300644-zoids-wild-arena.json) |
 | Zoids Wild: Blast Unleashed | 89550 | [89550-zoids-wild-blast-unleashed.json](./89550-zoids-wild-blast-unleashed.json) |
 | Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
+| Zoids: Battle Legends | 10629 | [10629-zoids-battle-legends.json](./10629-zoids-battle-legends.json) |
 | Zoids: Chuuou Tairiku no Tatakai | 64655 | [64655-zoids-chuuou-tairiku-no-tatakai.json](./64655-zoids-chuuou-tairiku-no-tatakai.json) |
 | Zoids: Full Metal Crash | 50584 | [50584-zoids-full-metal-crash.json](./50584-zoids-full-metal-crash.json) |
 | Zoids: Legacy | 49203 | [49203-zoids-legacy.json](./49203-zoids-legacy.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Radical Remake | 280053 | [280053-zoo-tycoon-2-radical-remake.json](./280053-zoo-tycoon-2-radical-remake.json) |
 | Zoo Tycoon 2: Ultimate Collection | 50913 | [50913-zoo-tycoon-2-ultimate-collection.json](./50913-zoo-tycoon-2-ultimate-collection.json) |
 | Zoo Tycoon 2032 | 176848 | [176848-zoo-tycoon-2032.json](./176848-zoo-tycoon-2032.json) |
+| Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
 | Zoo Tycoon: Dinosaur Digs | 27807 | [27807-zoo-tycoon-dinosaur-digs.json](./27807-zoo-tycoon-dinosaur-digs.json) |
 | Zoo Tycoon: Dinosaur Digs - No Grass, Please! | 279801 | [279801-zoo-tycoon-dinosaur-digs-no-grass-please.json](./279801-zoo-tycoon-dinosaur-digs-no-grass-please.json) |
@@ -2932,10 +2934,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zup! 5: DLC | 169708 | [169708-zup-5-dlc.json](./169708-zup-5-dlc.json) |
 | Zup! 7 | 76121 | [76121-zup-7.json](./76121-zup-7.json) |
+| Zup! 9 | 119469 | [119469-zup-9.json](./119469-zup-9.json) |
 | Zup! F | 129833 | [129833-zup-f.json](./129833-zup-f.json) |
 | Zup! Q | 247058 | [247058-zup-q.json](./247058-zup-q.json) |
 | Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
 | Zup! X | 101515 | [101515-zup-x.json](./101515-zup-x.json) |
+| Zup! XS | 117109 | [117109-zup-xs.json](./117109-zup-xs.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
 | Zup! Z | 168955 | [168955-zup-z.json](./168955-zup-z.json) |
 | Zup! Zero | 29099 | [29099-zup-zero.json](./29099-zup-zero.json) |
