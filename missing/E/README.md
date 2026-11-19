@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
 | EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarthX: Future Astronauts Edition | 260928 | [260928-earthx-future-astronauts-edition.json](./260928-earthx-future-astronauts-edition.json) |
+| Earwax Sculptures | 418131 | [418131-earwax-sculptures.json](./418131-earwax-sculptures.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Earwyrm | 233189 | [233189-earwyrm.json](./233189-earwyrm.json) |
 | Earyh-Quake | 138523 | [138523-earyh-quake.json](./138523-earyh-quake.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy | 425421 | [425421-easy.json](./425421-easy.json) |
 | Easy Aces | 84371 | [84371-easy-aces.json](./84371-easy-aces.json) |
+| Easy as Pi | 418035 | [418035-easy-as-pi.json](./418035-easy-as-pi.json) |
 | Easy Bake Kitchen | 69614 | [69614-easy-bake-kitchen.json](./69614-easy-bake-kitchen.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything is Mayo | 121326 | [121326-everything-is-mayo.json](./121326-everything-is-mayo.json) |
 | Everything is Peachy | 31646 | [31646-everything-is-peachy.json](./31646-everything-is-peachy.json) |
 | Everything Must Fall | 28132 | [28132-everything-must-fall.json](./28132-everything-must-fall.json) |
+| Everything Must Fit! | 418136 | [418136-everything-must-fit.json](./418136-everything-must-fit.json) |
 | Everything Nice | 54009 | [54009-everything-nice.json](./54009-everything-nice.json) |
 | Everything Store | 391194 | [391194-everything-store.json](./391194-everything-store.json) |
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
