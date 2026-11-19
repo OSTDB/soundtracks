@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus: Brinehunter Pack | 360792 | [360792-abyssus-brinehunter-pack.json](./360792-abyssus-brinehunter-pack.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
+| Abyzou Rituals: The Manson Case | 423600 | [423600-abyzou-rituals-the-manson-case.json](./423600-abyzou-rituals-the-manson-case.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
 | Abzorb | 134247 | [134247-abzorb.json](./134247-abzorb.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
 | Adventures in the Magic Kingdom: Sora Edition | 306736 | [306736-adventures-in-the-magic-kingdom-sora-edition.json](./306736-adventures-in-the-magic-kingdom-sora-edition.json) |
 | Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
+| Adventures in Tower Defence Land | 423582 | [423582-adventures-in-tower-defence-land.json](./423582-adventures-in-tower-defence-land.json) |
 | Adventures Nearby | 187558 | [187558-adventures-nearby.json](./187558-adventures-nearby.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
@@ -20849,6 +20851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
 | Avian | 186476 | [186476-avian.json](./186476-avian.json) |
 | Avian Colony | 303906 | [303906-avian-colony.json](./303906-avian-colony.json) |
+| Avian Deity | 423564 | [423564-avian-deity.json](./423564-avian-deity.json) |
 | Avian Enigma | 309902 | [309902-avian-enigma.json](./309902-avian-enigma.json) |
 | Avian Knights | 242345 | [242345-avian-knights.json](./242345-avian-knights.json) |
 | Aviano | 151626 | [151626-aviano.json](./151626-aviano.json) |
