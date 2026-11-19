@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape | 377131 | [377131-zombie-escape.json](./377131-zombie-escape.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
+| Zombie Estate 2 | 31727 | [31727-zombie-estate-2.json](./31727-zombie-estate-2.json) |
 | Zombie Exodus | 34182 | [34182-zombie-exodus.json](./34182-zombie-exodus.json) |
 | Zombie Exodus: Safe Haven | 30783 | [30783-zombie-exodus-safe-haven.json](./30783-zombie-exodus-safe-haven.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Z | 223882 | [223882-zone-z.json](./223882-zone-z.json) |
 | Zone-0 | 357702 | [357702-zone-0.json](./357702-zone-0.json) |
 | Zone.E | 244193 | [244193-zone-e.json](./244193-zone-e.json) |
+| Zone4 | 31575 | [31575-zone4.json](./31575-zone4.json) |
 | Zone4M | 188385 | [188385-zone4m.json](./188385-zone4m.json) |
 | Zoned | 311587 | [311587-zoned.json](./311587-zoned.json) |
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
