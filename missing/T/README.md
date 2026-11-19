@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Five CD-Rom: The Entertainer - Five Entertaining Titles in One Box | 84128 | [84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json](./84128-take-five-cd-rom-the-entertainer-five-entertaining-titles-in-one-box.json) |
 | Take Flight 2 | 212388 | [212388-take-flight-2.json](./212388-take-flight-2.json) |
 | Take Flight! | 199951 | [199951-take-flight.json](./199951-take-flight.json) |
+| Take Good Care of Your Cassava | 428328 | [428328-take-good-care-of-your-cassava.json](./428328-take-good-care-of-your-cassava.json) |
 | Take It Easy | 105531 | [105531-take-it-easy.json](./105531-take-it-easy.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take It Seriously! Extreme Common Sense Challenge | 401095 | [401095-take-it-seriously-extreme-common-sense-challenge.json](./401095-take-it-seriously-extreme-common-sense-challenge.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
 | Task Bar Isekai | 425980 | [425980-task-bar-isekai.json](./425980-task-bar-isekai.json) |
 | Task Bar of Ragnalis | 412476 | [412476-task-bar-of-ragnalis.json](./412476-task-bar-of-ragnalis.json) |
+| Task Bar Vending Machine | 428323 | [428323-task-bar-vending-machine.json](./428323-task-bar-vending-machine.json) |
 | Task Control | 264989 | [264989-task-control.json](./264989-task-control.json) |
 | Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
 | Task Force | 46890 | [46890-task-force.json](./46890-task-force.json) |
@@ -5870,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
 | That Damn Fox | 381538 | [381538-that-damn-fox.json](./381538-that-damn-fox.json) |
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
+| That Damn Grass | 428346 | [428346-that-damn-grass.json](./428346-that-damn-grass.json) |
 | That Dream | 183665 | [183665-that-dream.json](./183665-that-dream.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Feeling Blue | 144436 | [144436-that-feeling-blue.json](./144436-that-feeling-blue.json) |
@@ -19110,6 +19113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smelly Mystery | 71809 | [71809-the-smelly-mystery.json](./71809-the-smelly-mystery.json) |
 | The Smile Friends | 268944 | [268944-the-smile-friends.json](./268944-the-smile-friends.json) |
 | The Smiler | 305365 | [305365-the-smiler.json](./305365-the-smiler.json) |
+| The Smiling Flesh | 428331 | [428331-the-smiling-flesh.json](./428331-the-smiling-flesh.json) |
 | The Smiling Man | 194452 | [194452-the-smiling-man.json](./194452-the-smiling-man.json) |
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
@@ -29269,6 +29273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toran | 115828 | [115828-toran.json](./115828-toran.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Torarete Tamaruka!? | 46291 | [46291-torarete-tamaruka.json](./46291-torarete-tamaruka.json) |
+| Toratora: Trouble Travel | 428342 | [428342-toratora-trouble-travel.json](./428342-toratora-trouble-travel.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
 | Toraware no Kan | 202877 | [202877-toraware-no-kan.json](./202877-toraware-no-kan.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
@@ -31014,6 +31019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerix91 | 398029 | [398029-towerix91.json](./398029-towerix91.json) |
 | Towerland | 195588 | [195588-towerland.json](./195588-towerland.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
+| TowerLine | 428319 | [428319-towerline.json](./428319-towerline.json) |
 | Towerlings | 387089 | [387089-towerlings.json](./387089-towerlings.json) |
 | TowerMadness HD | 96896 | [96896-towermadness-hd.json](./96896-towermadness-hd.json) |
 | TowerMancer | 164198 | [164198-towermancer.json](./164198-towermancer.json) |
