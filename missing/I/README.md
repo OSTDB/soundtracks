@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can See the Future | 68510 | [68510-i-can-see-the-future.json](./68510-i-can-see-the-future.json) |
 | I Can See You | 244613 | [244613-i-can-see-you.json](./244613-i-can-see-you.json) |
+| I Can Smell You from Here | 420262 | [420262-i-can-smell-you-from-here.json](./420262-i-can-smell-you-from-here.json) |
 | I Can Transform | 265740 | [265740-i-can-transform.json](./265740-i-can-transform.json) |
 | I Can't Be Human | 332813 | [332813-i-cant-be-human.json](./332813-i-cant-be-human.json) |
 | I Can't Beat The Beautiful Ones | 393117 | [393117-i-cant-beat-the-beautiful-ones.json](./393117-i-cant-beat-the-beautiful-ones.json) |
