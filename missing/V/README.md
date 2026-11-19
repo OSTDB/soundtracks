@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
 | Venture Forth | 32087 | [32087-venture-forth.json](./32087-venture-forth.json) |
 | Venture II | 46889 | [46889-venture-ii.json](./46889-venture-ii.json) |
+| Venture Pals | 419577 | [419577-venture-pals.json](./419577-venture-pals.json) |
 | Venture Seas | 130574 | [130574-venture-seas.json](./130574-venture-seas.json) |
 | Venture to the Vile | 250704 | [250704-venture-to-the-vile.json](./250704-venture-to-the-vile.json) |
 | Venture Towns | 65498 | [65498-venture-towns.json](./65498-venture-towns.json) |
