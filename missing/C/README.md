@@ -14908,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Line Pilot | 146783 | [146783-command-line-pilot.json](./146783-command-line-pilot.json) |
 | Command Master | 65628 | [65628-command-master.json](./65628-command-master.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
+| Command Ops 2 | 31480 | [31480-command-ops-2.json](./31480-command-ops-2.json) |
 | Command Ops 2: Bastogne Vol. 4 | 170396 | [170396-command-ops-2-bastogne-vol-4.json](./170396-command-ops-2-bastogne-vol-4.json) |
 | Command Ops 2: Bradley at Bay Vol. 8 | 170395 | [170395-command-ops-2-bradley-at-bay-vol-8.json](./170395-command-ops-2-bradley-at-bay-vol-8.json) |
 | Command Ops 2: Foothills of the Gods Vol. 2 | 170394 | [170394-command-ops-2-foothills-of-the-gods-vol-2.json](./170394-command-ops-2-foothills-of-the-gods-vol-2.json) |
@@ -15541,6 +15542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
 | Conflict in Vietnam | 26153 | [26153-conflict-in-vietnam.json](./26153-conflict-in-vietnam.json) |
+| Conflict of Heroes: Awakening the Bear | 31861 | [31861-conflict-of-heroes-awakening-the-bear.json](./31861-conflict-of-heroes-awakening-the-bear.json) |
 | Conflict of Heroes: Ghost Divisions | 174514 | [174514-conflict-of-heroes-ghost-divisions.json](./174514-conflict-of-heroes-ghost-divisions.json) |
 | Conflict of Heroes: Storms of Steel | 167345 | [167345-conflict-of-heroes-storms-of-steel.json](./167345-conflict-of-heroes-storms-of-steel.json) |
 | Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
@@ -23719,6 +23721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberlaser | 232508 | [232508-cyberlaser.json](./232508-cyberlaser.json) |
 | Cyberless III: Online | 129418 | [129418-cyberless-iii-online.json](./129418-cyberless-iii-online.json) |
 | Cyberlife | 424665 | [424665-cyberlife.json](./424665-cyberlife.json) |
+| Cyberline Racing | 31675 | [31675-cyberline-racing.json](./31675-cyberline-racing.json) |
 | Cyberlinxx | 236952 | [236952-cyberlinxx.json](./236952-cyberlinxx.json) |
 | Cyberlords Arcology | 374290 | [374290-cyberlords-arcology.json](./374290-cyberlords-arcology.json) |
 | Cyberman | 369239 | [369239-cyberman.json](./369239-cyberman.json) |
