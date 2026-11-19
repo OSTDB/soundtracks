@@ -11078,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim thy Land | 395079 | [395079-claim-thy-land.json](./395079-claim-thy-land.json) |
 | Claim to Power: Der Machtkampf | 123158 | [123158-claim-to-power-der-machtkampf.json](./123158-claim-to-power-der-machtkampf.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
+| ClaimLand | 423565 | [423565-claimland.json](./423565-claimland.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair & Lune | 184768 | [184768-clair-and-lune.json](./184768-clair-and-lune.json) |
 | Clair Obscur: Expedition 33 - Thank You Update | 381336 | [381336-clair-obscur-expedition-33-thank-you-update.json](./381336-clair-obscur-expedition-33-thank-you-update.json) |
