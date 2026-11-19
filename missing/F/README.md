@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
+| Fables from the Den | 105995 | [105995-fables-from-the-den.json](./105995-fables-from-the-den.json) |
 | Fables Mosaic: Cinderella | 296204 | [296204-fables-mosaic-cinderella.json](./296204-fables-mosaic-cinderella.json) |
 | Fables Mosaic: Little Red Riding Hood | 296205 | [296205-fables-mosaic-little-red-riding-hood.json](./296205-fables-mosaic-little-red-riding-hood.json) |
 | Fables Mosaic: Snow White and the Seven Dwarfs | 296207 | [296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json](./296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
+| Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
 | Franchise Hockey Manager 6 | 122838 | [122838-franchise-hockey-manager-6.json](./122838-franchise-hockey-manager-6.json) |
 | Franchise Hockey Manager 7 | 141510 | [141510-franchise-hockey-manager-7.json](./141510-franchise-hockey-manager-7.json) |
 | Franchise Hockey Manager 8 | 176712 | [176712-franchise-hockey-manager-8.json](./176712-franchise-hockey-manager-8.json) |
