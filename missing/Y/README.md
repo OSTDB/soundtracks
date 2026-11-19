@@ -1709,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YourToy and Dying: Reborn Horror Game Bundle | 247581 | [247581-yourtoy-and-dying-reborn-horror-game-bundle.json](./247581-yourtoy-and-dying-reborn-horror-game-bundle.json) |
 | Yousei | 62968 | [62968-yousei.json](./62968-yousei.json) |
 | Yousei Daisensou: Touhou Sangetsusei | 27172 | [27172-yousei-daisensou-touhou-sangetsusei.json](./27172-yousei-daisensou-touhou-sangetsusei.json) |
+| Yousei no Zakkaya-san | 426556 | [426556-yousei-no-zakkaya-san.json](./426556-yousei-no-zakkaya-san.json) |
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Yousei Shou Meikyuu: Fairies Odyssey | 406307 | [406307-yousei-shou-meikyuu-fairies-odyssey.json](./406307-yousei-shou-meikyuu-fairies-odyssey.json) |
 | Yousician | 57222 | [57222-yousician.json](./57222-yousician.json) |
