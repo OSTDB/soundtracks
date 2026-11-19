@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawapuro-kun Pocket 9 | 98514 | [98514-pawapuro-kun-pocket-9.json](./98514-pawapuro-kun-pocket-9.json) |
 | Pawapuro-kun Pocket R | 152368 | [152368-pawapuro-kun-pocket-r.json](./152368-pawapuro-kun-pocket-r.json) |
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
+| Pawarumi | 22799 | [22799-pawarumi.json](./22799-pawarumi.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
 | Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
 | Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
