@@ -2981,7 +2981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
 | SC Games Triple Bundle | 331514 | [331514-sc-games-triple-bundle.json](./331514-sc-games-triple-bundle.json) |
 | SC Triple Cat Games Bundle | 333689 | [333689-sc-triple-cat-games-bundle.json](./333689-sc-triple-cat-games-bundle.json) |
-| SC2VN: The eSports Visual Novel | 19076 | [19076-sc2vn-the-esports-visual-novel.json](./19076-sc2vn-the-esports-visual-novel.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scacco Matto | 56090 | [56090-scacco-matto.json](./56090-scacco-matto.json) |
 | SCAD | 309936 | [309936-scad.json](./309936-scad.json) |
@@ -4998,7 +4997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Match | 17787 | [17787-season-match.json](./17787-season-match.json) |
 | Season Match 2 | 17788 | [17788-season-match-2.json](./17788-season-match-2.json) |
 | Season Match 3 | 302232 | [302232-season-match-3.json](./302232-season-match-3.json) |
-| Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
 | Season Match Bundle | 292925 | [292925-season-match-bundle.json](./292925-season-match-bundle.json) |
 | Season Match HD 1+2 | 194512 | [194512-season-match-hd-1-2.json](./194512-season-match-hd-1-2.json) |
@@ -8175,7 +8173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadows Over Whispering Pines | 329524 | [329524-shadows-over-whispering-pines.json](./329524-shadows-over-whispering-pines.json) |
-| Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
 | Shadows Remain | 72324 | [72324-shadows-remain.json](./72324-shadows-remain.json) |
 | Shadows Show | 381674 | [381674-shadows-show.json](./381674-shadows-show.json) |
 | Shadows Unveiled: Agnes | 293145 | [293145-shadows-unveiled-agnes.json](./293145-shadows-unveiled-agnes.json) |
@@ -10305,7 +10302,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Block. | 178857 | [178857-shock-block.json](./178857-shock-block.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
 | Shock Lobster | 220781 | [220781-shock-lobster.json](./220781-shock-lobster.json) |
-| Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers | 35377 | [35377-shock-troopers.json](./35377-shock-troopers.json) |
 | Shock Troopers | 47598 | [47598-shock-troopers.json](./47598-shock-troopers.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
@@ -10325,7 +10321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShockRods | 116525 | [116525-shockrods.json](./116525-shockrods.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | ShockWave | 323284 | [323284-shockwave.json](./323284-shockwave.json) |
-| Shockwave Assault | 18705 | [18705-shockwave-assault.json](./18705-shockwave-assault.json) |
 | Shockwave Original: Sudoku Daily | 282060 | [282060-shockwave-original-sudoku-daily.json](./282060-shockwave-original-sudoku-daily.json) |
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
@@ -15143,7 +15138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
-| Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
 | Slashy Sushi | 99268 | [99268-slashy-sushi.json](./99268-slashy-sushi.json) |
 | SlashZero | 394680 | [394680-slashzero.json](./394680-slashzero.json) |
 | Slashzone | 356014 | [356014-slashzone.json](./356014-slashzone.json) |
@@ -20967,7 +20961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
 | SOR2 Fight'n Rage | 248350 | [248350-sor2-fightn-rage.json](./248350-sor2-fightn-rage.json) |
-| Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora Game | 215294 | [215294-sora-game.json](./215294-sora-game.json) |
 | Sora ni Kizanda Parallelogram | 392973 | [392973-sora-ni-kizanda-parallelogram.json](./392973-sora-ni-kizanda-parallelogram.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
@@ -22738,7 +22731,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Leaper: Cocoon | 208130 | [208130-space-leaper-cocoon.json](./208130-space-leaper-cocoon.json) |
 | Space Leaper: Reboot | 247237 | [247237-space-leaper-reboot.json](./247237-space-leaper-reboot.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
-| Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lift Danger Panic! | 56283 | [56283-space-lift-danger-panic.json](./56283-space-lift-danger-panic.json) |
@@ -27923,8 +27915,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
 | Star Singularity | 104857 | [104857-star-singularity.json](./104857-star-singularity.json) |
 | Star Skater | 208065 | [208065-star-skater.json](./208065-star-skater.json) |
-| Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
-| Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 2 | 33512 | [33512-star-sky-2.json](./33512-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Sled | 198159 | [198159-star-sled.json](./198159-star-sled.json) |
@@ -34956,7 +34946,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arc Light | 96413 | [96413-super-arc-light.json](./96413-super-arc-light.json) |
 | Super Arcade Boy in Defender of Planet Earth | 74123 | [74123-super-arcade-boy-in-defender-of-planet-earth.json](./74123-super-arcade-boy-in-defender-of-planet-earth.json) |
 | Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
-| Super Arcade Football | 19084 | [19084-super-arcade-football.json](./19084-super-arcade-football.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
