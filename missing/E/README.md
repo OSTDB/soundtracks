@@ -734,7 +734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
 | Eat the Whistle | 72254 | [72254-eat-the-whistle.json](./72254-eat-the-whistle.json) |
 | Eat the Wounded | 161590 | [161590-eat-the-wounded.json](./161590-eat-the-wounded.json) |
-| Eat Them! | 21167 | [21167-eat-them.json](./21167-eat-them.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Eat this! | 120004 | [120004-eat-this.json](./120004-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
@@ -1226,7 +1225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Tycoon: Project Green | 69081 | [69081-eco-tycoon-project-green.json](./69081-eco-tycoon-project-green.json) |
 | Eco Tycoon: Project Green | 69096 | [69096-eco-tycoon-project-green.json](./69096-eco-tycoon-project-green.json) |
 | Eco Warrior Simulator | 151281 | [151281-eco-warrior-simulator.json](./151281-eco-warrior-simulator.json) |
-| Eco-Creatures: Save the Forest | 21280 | [21280-eco-creatures-save-the-forest.json](./21280-eco-creatures-save-the-forest.json) |
 | Eco-Rescue: Project Rainforest | 202165 | [202165-eco-rescue-project-rainforest.json](./202165-eco-rescue-project-rainforest.json) |
 | Eco-Sentinel: The Bottle Mission | 364957 | [364957-eco-sentinel-the-bottle-mission.json](./364957-eco-sentinel-the-bottle-mission.json) |
 | Eco: Saurus | 354747 | [354747-eco-saurus.json](./354747-eco-saurus.json) |
@@ -1539,7 +1537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Cards for Pre-school Kids | 89063 | [89063-edu-cards-for-pre-school-kids.json](./89063-edu-cards-for-pre-school-kids.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
-| Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
 | EduBirthday-Best Toddler Games | 106713 | [106713-edubirthday-best-toddler-games.json](./106713-edubirthday-best-toddler-games.json) |
 | Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
 | Education | 161586 | [161586-education.json](./161586-education.json) |
@@ -3164,7 +3161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elminage II DS Remix: Sousei no Megami to Unmei no Daichi | 21028 | [21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json](./21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json) |
 | Elminage II: Sousei no Megami to Unmei no Daichi | 21027 | [21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json](./21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json) |
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
-| Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elminage: Yami no Miko to Kamigami no Yubiwa | 21025 | [21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json](./21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elmo Calls | 87337 | [87337-elmo-calls.json](./87337-elmo-calls.json) |
 | Elmo Loves 123s | 88971 | [88971-elmo-loves-123s.json](./88971-elmo-loves-123s.json) |
