@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoscape | 27287 | [27287-xenoscape.json](./27287-xenoscape.json) |
 | Xenoscape Online | 276579 | [276579-xenoscape-online.json](./276579-xenoscape-online.json) |
 | Xenosensory | 383274 | [383274-xenosensory.json](./383274-xenosensory.json) |
+| XenoShyft | 33848 | [33848-xenoshyft.json](./33848-xenoshyft.json) |
 | XenoShyft: Dreadmire | 170380 | [170380-xenoshyft-dreadmire.json](./170380-xenoshyft-dreadmire.json) |
 | XenoShyft: Forbidden Sciences | 170378 | [170378-xenoshyft-forbidden-sciences.json](./170378-xenoshyft-forbidden-sciences.json) |
 | XenoShyft: NorTec Elite | 170379 | [170379-xenoshyft-nortec-elite.json](./170379-xenoshyft-nortec-elite.json) |
