@@ -1252,7 +1252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecos da Mata | 402126 | [402126-ecos-da-mata.json](./402126-ecos-da-mata.json) |
 | Ecosphere | 260535 | [260535-ecosphere.json](./260535-ecosphere.json) |
 | Ecosystem | 123804 | [123804-ecosystem.json](./123804-ecosystem.json) |
-| Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | eCribbage | 56067 | [56067-ecribbage.json](./56067-ecribbage.json) |
