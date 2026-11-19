@@ -4308,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies Frozen | 342560 | [342560-what-lies-frozen.json](./342560-what-lies-frozen.json) |
 | What Lies in the Multiverse: Deluxe Edition | 193736 | [193736-what-lies-in-the-multiverse-deluxe-edition.json](./193736-what-lies-in-the-multiverse-deluxe-edition.json) |
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
+| What Lies Within | 423595 | [423595-what-lies-within.json](./423595-what-lies-within.json) |
 | What Lies Within the Ice | 393256 | [393256-what-lies-within-the-ice.json](./393256-what-lies-within-the-ice.json) |
 | What Linus Bruckman Sees When His Eyes Are Closed | 73346 | [73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json](./73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
