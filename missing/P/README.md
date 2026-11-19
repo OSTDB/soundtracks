@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
 | Paper Mario: The Thousand-Year Door Encore | 357451 | [357451-paper-mario-the-thousand-year-door-encore.json](./357451-paper-mario-the-thousand-year-door-encore.json) |
 | Paper Mario: The Thousand-Year Door Randomizer | 407252 | [407252-paper-mario-the-thousand-year-door-randomizer.json](./407252-paper-mario-the-thousand-year-door-randomizer.json) |
+| Paper Mario: The Thousand-Year Door+ | 424183 | [424183-paper-mario-the-thousand-year-door.json](./424183-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials | 313077 | [313077-paper-mario-ttyd-tower-of-trials.json](./313077-paper-mario-ttyd-tower-of-trials.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
@@ -10670,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
 | Planetary Deliver | 188929 | [188929-planetary-deliver.json](./188929-planetary-deliver.json) |
+| Planetary Delivery Boys | 424167 | [424167-planetary-delivery-boys.json](./424167-planetary-delivery-boys.json) |
 | Planetary Destruction | 238584 | [238584-planetary-destruction.json](./238584-planetary-destruction.json) |
 | Planetary Dustoff | 106387 | [106387-planetary-dustoff.json](./106387-planetary-dustoff.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
@@ -11533,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plucked | 410004 | [410004-plucked.json](./410004-plucked.json) |
 | Plucked Up | 385426 | [385426-plucked-up.json](./385426-plucked-up.json) |
+| Pluffy Nightmare | 424170 | [424170-pluffy-nightmare.json](./424170-pluffy-nightmare.json) |
 | Plug & Play | 18239 | [18239-plug-and-play.json](./18239-plug-and-play.json) |
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
@@ -11664,6 +11667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
+| Pluszaki Rozrabiaki: Skarb na dnie wanny | 424180 | [424180-pluszaki-rozrabiaki-skarb-na-dnie-wanny.json](./424180-pluszaki-rozrabiaki-skarb-na-dnie-wanny.json) |
 | Pluszle: Brain Logic Game | 99844 | [99844-pluszle-brain-logic-game.json](./99844-pluszle-brain-logic-game.json) |
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
 | Pluto Rim: Storm Commander | 141507 | [141507-pluto-rim-storm-commander.json](./141507-pluto-rim-storm-commander.json) |
@@ -18271,6 +18275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Onyx | 143438 | [143438-project-onyx.json](./143438-project-onyx.json) |
 | Project Open Auto City Beta | 96793 | [96793-project-open-auto-city-beta.json](./96793-project-open-auto-city-beta.json) |
+| Project Orion | 424195 | [424195-project-orion.json](./424195-project-orion.json) |
 | Project Orpheus | 119264 | [119264-project-orpheus.json](./119264-project-orpheus.json) |
 | Project Osiris: Alien Breed 3D | 165467 | [165467-project-osiris-alien-breed-3d.json](./165467-project-osiris-alien-breed-3d.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
@@ -18325,6 +18330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rayssus | 151057 | [151057-project-rayssus.json](./151057-project-rayssus.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
+| Project RE: Visited - Resident Evil 3 | 424186 | [424186-project-re-visited-resident-evil-3.json](./424186-project-re-visited-resident-evil-3.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
 | Project Reality | 331779 | [331779-project-reality.json](./331779-project-reality.json) |
