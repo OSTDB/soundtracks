@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
 | Needle In A Haystack | 417115 | [417115-needle-in-a-haystack.json](./417115-needle-in-a-haystack.json) |
+| Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators | 428313 | [428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json](./428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json) |
 | Needle in a Haystack: A Time for Goats | 417153 | [417153-needle-in-a-haystack-a-time-for-goats.json](./417153-needle-in-a-haystack-a-time-for-goats.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
 | Needle Sleep | 394239 | [394239-needle-sleep.json](./394239-needle-sleep.json) |
