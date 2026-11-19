@@ -5097,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life at 12:47PM | 364239 | [364239-life-at-12-47pm.json](./364239-life-at-12-47pm.json) |
 | Life At Space | 74139 | [74139-life-at-space.json](./74139-life-at-space.json) |
+| Life Balance | 428220 | [428220-life-balance.json](./428220-life-balance.json) |
 | Life Beetle | 31355 | [31355-life-beetle.json](./31355-life-beetle.json) |
 | Life Below | 348506 | [348506-life-below.json](./348506-life-below.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
