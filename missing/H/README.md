@@ -7925,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats Ellara | 341738 | [341738-hidden-cats-ellara.json](./341738-hidden-cats-ellara.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
 | Hidden Cats in Barcelona | 400653 | [400653-hidden-cats-in-barcelona.json](./400653-hidden-cats-in-barcelona.json) |
+| Hidden Cats in Beijing | 423573 | [423573-hidden-cats-in-beijing.json](./423573-hidden-cats-in-beijing.json) |
 | Hidden Cats in Berlin | 291421 | [291421-hidden-cats-in-berlin.json](./291421-hidden-cats-in-berlin.json) |
 | Hidden Cats In ButtonWood Street | 322033 | [322033-hidden-cats-in-buttonwood-street.json](./322033-hidden-cats-in-buttonwood-street.json) |
 | Hidden Cats in Christmas | 379445 | [379445-hidden-cats-in-christmas.json](./379445-hidden-cats-in-christmas.json) |
