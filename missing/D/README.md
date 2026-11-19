@@ -152,7 +152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D*Fuzed | 218911 | [218911-d-fuzed.json](./218911-d-fuzed.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
 | D/Generation | 12028 | [12028-d-generation.json](./12028-d-generation.json) |
-| D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D&D - Initiative Tracker | 101204 | [101204-d-and-d-initiative-tracker.json](./101204-d-and-d-initiative-tracker.json) |
 | D&D Classics | 246457 | [246457-d-and-d-classics.json](./246457-d-and-d-classics.json) |
 | D&D Lords of Waterdeep | 68484 | [68484-d-and-d-lords-of-waterdeep.json](./68484-d-and-d-lords-of-waterdeep.json) |
