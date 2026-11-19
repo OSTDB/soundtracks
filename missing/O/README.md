@@ -1047,7 +1047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Score: A Game of Songs | 334159 | [334159-off-score-a-game-of-songs.json](./334159-off-score-a-game-of-songs.json) |
 | Off-the-Ground Survival | 364081 | [364081-off-the-ground-survival.json](./364081-off-the-ground-survival.json) |
 | Off-World Interceptor | 4294 | [4294-off-world-interceptor.json](./4294-off-world-interceptor.json) |
-| Off-World Interceptor Extreme | 20314 | [20314-off-world-interceptor-extreme.json](./20314-off-world-interceptor-extreme.json) |
 | Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offbeat | 400647 | [400647-offbeat.json](./400647-offbeat.json) |
@@ -2015,7 +2014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMG Police: Car Chase TV Simulator | 147907 | [147907-omg-police-car-chase-tv-simulator.json](./147907-omg-police-car-chase-tv-simulator.json) |
 | OMG Words | 292541 | [292541-omg-words.json](./292541-omg-words.json) |
 | OMG Zombies! | 16781 | [16781-omg-zombies.json](./16781-omg-zombies.json) |
-| OMG-Z | 20633 | [20633-omg-z.json](./20633-omg-z.json) |
 | OMG: One Million Guns | 160219 | [160219-omg-one-million-guns.json](./160219-omg-one-million-guns.json) |
 | OMG: One More Goal - Basic Campaigns Pack | 226124 | [226124-omg-one-more-goal-basic-campaigns-pack.json](./226124-omg-one-more-goal-basic-campaigns-pack.json) |
 | OMG: One More Goal! | 157072 | [157072-omg-one-more-goal.json](./157072-omg-one-more-goal.json) |
@@ -4671,7 +4669,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oreo Pac-Man | 314771 | [314771-oreo-pac-man.json](./314771-oreo-pac-man.json) |
 | Oreo Pac-Man Game Keyring | 314773 | [314773-oreo-pac-man-game-keyring.json](./314773-oreo-pac-man-game-keyring.json) |
 | Oreo: Twist, Lick, Dunk | 61376 | [61376-oreo-twist-lick-dunk.json](./61376-oreo-twist-lick-dunk.json) |
-| Oreshika: Tainted Bloodlines | 19822 | [19822-oreshika-tainted-bloodlines.json](./19822-oreshika-tainted-bloodlines.json) |
 | OreSpawn | 232730 | [232730-orespawn.json](./232730-orespawn.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
 | Orestruck: Space Miner | 333416 | [333416-orestruck-space-miner.json](./333416-orestruck-space-miner.json) |
@@ -5145,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
 | Othello | 28466 | [28466-othello.json](./28466-othello.json) |
 | Othello | 306151 | [306151-othello.json](./306151-othello.json) |
+| Othello | 332704 | [332704-othello.json](./332704-othello.json) |
 | Othello | 341376 | [341376-othello.json](./341376-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello | 54795 | [54795-othello.json](./54795-othello.json) |
