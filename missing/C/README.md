@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace: Deluxe 5 in 1 | 198706 | [198706-caesars-palace-deluxe-5-in-1.json](./198706-caesars-palace-deluxe-5-in-1.json) |
 | Caesars Slots | 323094 | [323094-caesars-slots.json](./323094-caesars-slots.json) |
 | Cafe 0: Complete Bundle | 52694 | [52694-cafe-0-complete-bundle.json](./52694-cafe-0-complete-bundle.json) |
+| Café 0: The Drowned Mermaid | 36103 | [36103-cafe-0-the-drowned-mermaid.json](./36103-cafe-0-the-drowned-mermaid.json) |
 | Cafe 0: The Sleeping Beast - Deluxe | 52693 | [52693-cafe-0-the-sleeping-beast-deluxe.json](./52693-cafe-0-the-sleeping-beast-deluxe.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
@@ -19193,6 +19194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cheebo: Puzzle Party | 85552 | [85552-crazy-cheebo-puzzle-party.json](./85552-crazy-cheebo-puzzle-party.json) |
 | Crazy Chewy | 305436 | [305436-crazy-chewy.json](./305436-crazy-chewy.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
+| Crazy Chicken | 35995 | [35995-crazy-chicken.json](./35995-crazy-chicken.json) |
 | Crazy Chicken Adventure: Pharaoh's Treasure | 68235 | [68235-crazy-chicken-adventure-pharaohs-treasure.json](./68235-crazy-chicken-adventure-pharaohs-treasure.json) |
 | Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Carnival | 268116 | [268116-crazy-chicken-carnival.json](./268116-crazy-chicken-carnival.json) |
