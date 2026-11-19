@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beghost | 408381 | [408381-beghost.json](./408381-beghost.json) |
 | Begie Ade: A lyric of Lie and Retribution | 153533 | [153533-begie-ade-a-lyric-of-lie-and-retribution.json](./153533-begie-ade-a-lyric-of-lie-and-retribution.json) |
 | Begin | 108131 | [108131-begin.json](./108131-begin.json) |
+| Beginner Zombie Survival | 429622 | [429622-beginner-zombie-survival.json](./429622-beginner-zombie-survival.json) |
 | Beginner'sGame | 96643 | [96643-beginnersgame.json](./96643-beginnersgame.json) |
 | Beginning Grammer | 42195 | [42195-beginning-grammer.json](./42195-beginning-grammer.json) |
 | Beginning of the Rain | 248387 | [248387-beginning-of-the-rain.json](./248387-beginning-of-the-rain.json) |
@@ -15604,6 +15605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botlands | 426956 | [426956-botlands.json](./426956-botlands.json) |
 | Botlike: A Robot's Rampage | 53310 | [53310-botlike-a-robots-rampage.json](./53310-botlike-a-robots-rampage.json) |
 | Botlings | 400729 | [400729-botlings.json](./400729-botlings.json) |
+| Botmania | 429655 | [429655-botmania.json](./429655-botmania.json) |
 | Botmare | 408414 | [408414-botmare.json](./408414-botmare.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
 | Boto Labo | 405052 | [405052-boto-labo.json](./405052-boto-labo.json) |
@@ -16263,6 +16265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Nation | 161478 | [161478-box-nation.json](./161478-box-nation.json) |
 | Box Ninja | 271648 | [271648-box-ninja.json](./271648-box-ninja.json) |
 | Box of Broken Nails | 385344 | [385344-box-of-broken-nails.json](./385344-box-of-broken-nails.json) |
+| Box of Cards | 429633 | [429633-box-of-cards.json](./429633-box-of-cards.json) |
 | Box of Enigmas | 83116 | [83116-box-of-enigmas.json](./83116-box-of-enigmas.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
