@@ -13159,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Board Games 2003 | 97126 | [97126-hoyle-board-games-2003.json](./97126-hoyle-board-games-2003.json) |
 | Hoyle Bridge | 54106 | [54106-hoyle-bridge.json](./54106-hoyle-bridge.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
+| Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
 | Hoyle Card Games 2002 | 72852 | [72852-hoyle-card-games-2002.json](./72852-hoyle-card-games-2002.json) |
 | Hoyle Card Games 2004 | 72851 | [72851-hoyle-card-games-2004.json](./72851-hoyle-card-games-2004.json) |
 | Hoyle Card Games 2005 | 72850 | [72850-hoyle-card-games-2005.json](./72850-hoyle-card-games-2005.json) |
