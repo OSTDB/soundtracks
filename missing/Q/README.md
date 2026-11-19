@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Horse Racing | 130223 | [130223-quarter-horse-racing.json](./130223-quarter-horse-racing.json) |
 | Quarter Mile | 423276 | [423276-quarter-mile.json](./423276-quarter-mile.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
+| Quarter of Severance | 418128 | [418128-quarter-of-severance.json](./418128-quarter-of-severance.json) |
 | Quarter Past Curse | 185548 | [185548-quarter-past-curse.json](./185548-quarter-past-curse.json) |
 | Quarterback | 46853 | [46853-quarterback.json](./46853-quarterback.json) |
 | Quarterback Attack | 4282 | [4282-quarterback-attack.json](./4282-quarterback-attack.json) |
