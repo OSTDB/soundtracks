@@ -6540,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Penguin 2 | 165907 | [165907-air-penguin-2.json](./165907-air-penguin-2.json) |
 | Air Plane Simulator | 216150 | [216150-air-plane-simulator.json](./216150-air-plane-simulator.json) |
 | Air Port Panic | 300008 | [300008-air-port-panic.json](./300008-air-port-panic.json) |
+| Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
 | Air Pressure | 65776 | [65776-air-pressure.json](./65776-air-pressure.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
 | Air Race | 359385 | [359385-air-race.json](./359385-air-race.json) |
@@ -16292,6 +16293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmA Mobile Ops | 125918 | [125918-arma-mobile-ops.json](./125918-arma-mobile-ops.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | Arma Tactics THD | 39247 | [39247-arma-tactics-thd.json](./39247-arma-tactics-thd.json) |
+| Arma X: Anniversary Edition | 22639 | [22639-arma-x-anniversary-edition.json](./22639-arma-x-anniversary-edition.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Arma: Cold War Assault | 9775 | [9775-arma-cold-war-assault.json](./9775-arma-cold-war-assault.json) |
 | Arma: Cold War Assault Remastered | 408335 | [408335-arma-cold-war-assault-remastered.json](./408335-arma-cold-war-assault-remastered.json) |
