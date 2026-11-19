@@ -5324,6 +5324,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
+| Fighter: Pixel | 429074 | [429074-fighter-pixel.json](./429074-fighter-pixel.json) |
+| Fighter: Thunder | 429078 | [429078-fighter-thunder.json](./429078-fighter-thunder.json) |
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History | 8564 | [8564-fighters-history.json](./8564-fighters-history.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
