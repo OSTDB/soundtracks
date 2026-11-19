@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 2nd X Thing Episode 2: Digital Groove | 287845 | [287845-a-2nd-x-thing-episode-2-digital-groove.json](./287845-a-2nd-x-thing-episode-2-digital-groove.json) |
 | A 3ª Jornada | 299477 | [299477-a-3a-jornada.json](./299477-a-3a-jornada.json) |
+| A 5 Year Old's War Game | 424766 | [424766-a-5-year-olds-war-game.json](./424766-a-5-year-olds-war-game.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
 | A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
@@ -8619,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Evil Night | 55405 | [55405-all-evil-night.json](./55405-all-evil-night.json) |
 | All Evil Night 2 | 118809 | [118809-all-evil-night-2.json](./118809-all-evil-night-2.json) |
 | All Eyes on Me | 423240 | [423240-all-eyes-on-me.json](./423240-all-eyes-on-me.json) |
+| All Eyes on Me | 424800 | [424800-all-eyes-on-me.json](./424800-all-eyes-on-me.json) |
 | All Fall Down | 34675 | [34675-all-fall-down.json](./34675-all-fall-down.json) |
 | All For Nought: Tic Tac Toe | 155662 | [155662-all-for-nought-tic-tac-toe.json](./155662-all-for-nought-tic-tac-toe.json) |
 | All For One | 111201 | [111201-all-for-one.json](./111201-all-for-one.json) |
@@ -8638,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hams on Deck! | 185835 | [185835-all-hams-on-deck.json](./185835-all-hams-on-deck.json) |
 | All Hands | 425770 | [425770-all-hands.json](./425770-all-hands.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
+| All haul the king | 424804 | [424804-all-haul-the-king.json](./424804-all-haul-the-king.json) |
 | All Haze Eve | 52269 | [52269-all-haze-eve.json](./52269-all-haze-eve.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
 | All Hit All Her | 148089 | [148089-all-hit-all-her.json](./148089-all-hit-all-her.json) |
