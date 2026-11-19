@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
+| Ace Attorney: Dream Catcher | 429000 | [429000-ace-attorney-dream-catcher.json](./429000-ace-attorney-dream-catcher.json) |
 | Ace Attorney: Judgement Seekers | 310417 | [310417-ace-attorney-judgement-seekers.json](./310417-ace-attorney-judgement-seekers.json) |
 | Ace Attorney: Memories and Turnabout | 424268 | [424268-ace-attorney-memories-and-turnabout.json](./424268-ace-attorney-memories-and-turnabout.json) |
 | Ace Attorney: Prisoners of Fate | 341929 | [341929-ace-attorney-prisoners-of-fate.json](./341929-ace-attorney-prisoners-of-fate.json) |
@@ -10287,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
 | Amigo Fishing | 93681 | [93681-amigo-fishing.json](./93681-amigo-fishing.json) |
 | Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
+| Amigo Pancho | 428984 | [428984-amigo-pancho.json](./428984-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo VR | 28675 | [28675-amigo-vr.json](./28675-amigo-vr.json) |
 | Amigo: Kebab Simulator | 243141 | [243141-amigo-kebab-simulator.json](./243141-amigo-kebab-simulator.json) |
@@ -11237,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Town 4 | 196611 | [196611-angel-town-4.json](./196611-angel-town-4.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
+| Angel Warrior | 428998 | [428998-angel-warrior.json](./428998-angel-warrior.json) |
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
@@ -19211,6 +19214,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
 | Atelier Karia: The Night Kingdom & the Guide of Memories | 405457 | [405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json](./405457-atelier-karia-the-night-kingdom-and-the-guide-of-memories.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - 7net Limited 4-Pieces A6 Acrylic Plate Set | 428957 | [428957-atelier-karia-the-night-kingdom-and-the-guide-of-memories-7net-limited-4-pieces-a6-acrylic-plate-set.json](./428957-atelier-karia-the-night-kingdom-and-the-guide-of-memories-7net-limited-4-pieces-a6-acrylic-plate-set.json) |
+| Atelier Karia: The Night Kingdom & the Guide of Memories - Amiami Limited Edition | 428955 | [428955-atelier-karia-the-night-kingdom-and-the-guide-of-memories-amiami-limited-edition.json](./428955-atelier-karia-the-night-kingdom-and-the-guide-of-memories-amiami-limited-edition.json) |
 | Atelier Karia: The Night Kingdom & the Guide of Memories - Animate Limited Set | 416948 | [416948-atelier-karia-the-night-kingdom-and-the-guide-of-memories-animate-limited-set.json](./416948-atelier-karia-the-night-kingdom-and-the-guide-of-memories-animate-limited-set.json) |
 | Atelier Karia: The Night Kingdom & the Guide of Memories - Famitsu DX Pack | 416950 | [416950-atelier-karia-the-night-kingdom-and-the-guide-of-memories-famitsu-dx-pack.json](./416950-atelier-karia-the-night-kingdom-and-the-guide-of-memories-famitsu-dx-pack.json) |
 | Atelier Karia: The Night Kingdom & the Guide of Memories - Gamers Super Limited Edition | 416951 | [416951-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gamers-super-limited-edition.json](./416951-atelier-karia-the-night-kingdom-and-the-guide-of-memories-gamers-super-limited-edition.json) |
@@ -20579,6 +20584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Heroes | 63886 | [63886-avalon-heroes.json](./63886-avalon-heroes.json) |
 | Avalon Hill's Diplomacy | 18838 | [18838-avalon-hills-diplomacy.json](./18838-avalon-hills-diplomacy.json) |
 | Avalon Hill's Squad Leader | 73674 | [73674-avalon-hills-squad-leader.json](./73674-avalon-hills-squad-leader.json) |
+| Avalon Jewels | 428969 | [428969-avalon-jewels.json](./428969-avalon-jewels.json) |
 | Avalon Jewels 2: Collector's Edition | 337222 | [337222-avalon-jewels-2-collectors-edition.json](./337222-avalon-jewels-2-collectors-edition.json) |
 | Avalon Jewels 3: Collector's Edition | 381256 | [381256-avalon-jewels-3-collectors-edition.json](./381256-avalon-jewels-3-collectors-edition.json) |
 | Avalon Legends | 80195 | [80195-avalon-legends.json](./80195-avalon-legends.json) |
