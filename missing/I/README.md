@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Swarm | 384860 | [384860-infected-swarm.json](./384860-infected-swarm.json) |
 | Infected Town | 150958 | [150958-infected-town.json](./150958-infected-town.json) |
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
+| Infected World 2 | 422267 | [422267-infected-world-2.json](./422267-infected-world-2.json) |
 | Infected zone | 159786 | [159786-infected-zone.json](./159786-infected-zone.json) |
 | Infected: Outpost | 276267 | [276267-infected-outpost.json](./276267-infected-outpost.json) |
 | Infected: Super Soldier Project | 270088 | [270088-infected-super-soldier-project.json](./270088-infected-super-soldier-project.json) |
@@ -6828,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironfall Invasion | 324220 | [324220-ironfall-invasion.json](./324220-ironfall-invasion.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
 | Ironfell | 64538 | [64538-ironfell.json](./64538-ironfell.json) |
+| IronFlux | 422371 | [422371-ironflux.json](./422371-ironflux.json) |
 | Ironfront Express | 396624 | [396624-ironfront-express.json](./396624-ironfront-express.json) |
 | Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
 | Irongrave: Tactics | 149465 | [149465-irongrave-tactics.json](./149465-irongrave-tactics.json) |
