@@ -2698,6 +2698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maize | 326289 | [326289-maize.json](./326289-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Maja and Benny | 353976 | [353976-maja-and-benny.json](./353976-maja-and-benny.json) |
+| Maja Island | 429055 | [429055-maja-island.json](./429055-maja-island.json) |
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
 | Majesco's 3-in-1 Sports Pack | 56837 | [56837-majescos-3-in-1-sports-pack.json](./56837-majescos-3-in-1-sports-pack.json) |
 | Majesco's Rec Room Challenge | 70601 | [70601-majescos-rec-room-challenge.json](./70601-majescos-rec-room-challenge.json) |
@@ -18064,6 +18065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Gals: Voyage | 373100 | [373100-monster-gals-voyage.json](./373100-monster-gals-voyage.json) |
 | Monster Garage | 76139 | [76139-monster-garage.json](./76139-monster-garage.json) |
 | Monster Garden | 75026 | [75026-monster-garden.json](./75026-monster-garden.json) |
+| Monster Garden: Monster Girls Labyrinth | 429053 | [429053-monster-garden-monster-girls-labyrinth.json](./429053-monster-garden-monster-girls-labyrinth.json) |
 | Monster Gate | 49717 | [49717-monster-gate.json](./49717-monster-gate.json) |
 | Monster Gate: Ooinaru Dungeon - Fuuin no Orb | 49718 | [49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json](./49718-monster-gate-ooinaru-dungeon-fuuin-no-orb.json) |
 | Monster Girl | 207103 | [207103-monster-girl.json](./207103-monster-girl.json) |
