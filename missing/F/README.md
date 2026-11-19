@@ -14871,6 +14871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit: Chain Effect | 336870 | [336870-fruit-chain-effect.json](./336870-fruit-chain-effect.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
+| Fruitbus | 257513 | [257513-fruitbus.json](./257513-fruitbus.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | FruitFall Crush | 194166 | [194166-fruitfall-crush.json](./194166-fruitfall-crush.json) |
