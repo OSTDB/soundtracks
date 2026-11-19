@@ -9438,7 +9438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired Blade | 385761 | [385761-hired-blade.json](./385761-hired-blade.json) |
 | Hired Explorer | 340978 | [340978-hired-explorer.json](./340978-hired-explorer.json) |
 | Hired Guns | 2527 | [2527-hired-guns.json](./2527-hired-guns.json) |
-| Hired Guns: The Jagged Edge | 21191 | [21191-hired-guns-the-jagged-edge.json](./21191-hired-guns-the-jagged-edge.json) |
 | Hired Ops | 35145 | [35145-hired-ops.json](./35145-hired-ops.json) |
 | Hired Stars | 373169 | [373169-hired-stars.json](./373169-hired-stars.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
@@ -9582,7 +9581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
 | History Warriors | 126238 | [126238-history-warriors.json](./126238-history-warriors.json) |
-| History: Great Empires - Rome | 20694 | [20694-history-great-empires-rome.json](./20694-history-great-empires-rome.json) |
 | History: Ice Road Truckers | 66890 | [66890-history-ice-road-truckers.json](./66890-history-ice-road-truckers.json) |
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
 | History's Top Shot | 396685 | [396685-historys-top-shot.json](./396685-historys-top-shot.json) |
@@ -11702,7 +11700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
 | Horrible Dream | 302908 | [302908-horrible-dream.json](./302908-horrible-dream.json) |
-| Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry | 67089 | [67089-horrid-henry.json](./67089-horrid-henry.json) |
 | Horrid Henry's Big Box of Pranks | 87486 | [87486-horrid-henrys-big-box-of-pranks.json](./87486-horrid-henrys-big-box-of-pranks.json) |
@@ -12245,7 +12242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shots Golf 2 | 36558 | [36558-hot-shots-golf-2.json](./36558-hot-shots-golf-2.json) |
 | Hot Shots Golf 3 | 23459 | [23459-hot-shots-golf-3.json](./23459-hot-shots-golf-3.json) |
 | Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
-| Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Golf: Out of Bounds | 154692 | [154692-hot-shots-golf-out-of-bounds.json](./154692-hot-shots-golf-out-of-bounds.json) |
 | Hot Shots Golf: Out of Bounds Complete Collection | 99965 | [99965-hot-shots-golf-out-of-bounds-complete-collection.json](./99965-hot-shots-golf-out-of-bounds-complete-collection.json) |
 | Hot Shots Golf: World Invitational | 7301 | [7301-hot-shots-golf-world-invitational.json](./7301-hot-shots-golf-world-invitational.json) |
@@ -12472,7 +12468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Empire Tycoon | 234464 | [234464-hotel-empire-tycoon.json](./234464-hotel-empire-tycoon.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel Ever After: Ella's Wish | 119999 | [119999-hotel-ever-after-ellas-wish.json](./119999-hotel-ever-after-ellas-wish.json) |
-| Hotel for Dogs | 21256 | [21256-hotel-for-dogs.json](./21256-hotel-for-dogs.json) |
 | Hotel Giant | 292 | [292-hotel-giant.json](./292-hotel-giant.json) |
 | Hotel Giant 2 | 15004 | [15004-hotel-giant-2.json](./15004-hotel-giant-2.json) |
 | Hotel Giant Bundle | 193738 | [193738-hotel-giant-bundle.json](./193738-hotel-giant-bundle.json) |
@@ -13052,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Draw | 310451 | [310451-how-to-draw.json](./310451-how-to-draw.json) |
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
+| How to Fix the Future: Book One | 392509 | [392509-how-to-fix-the-future-book-one.json](./392509-how-to-fix-the-future-book-one.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
 | How to Fool a Liar King: Remastered | 188470 | [188470-how-to-fool-a-liar-king-remastered.json](./188470-how-to-fool-a-liar-king-remastered.json) |
@@ -13239,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HR: Human Remains | 347337 | [347337-hr-human-remains.json](./347337-hr-human-remains.json) |
 | HR2 | 178540 | [178540-hr2.json](./178540-hr2.json) |
 | Hrana | 395461 | [395461-hrana.json](./395461-hrana.json) |
+| HRD 3 Pegasus Island | 392506 | [392506-hrd-3-pegasus-island.json](./392506-hrd-3-pegasus-island.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | Hresvelgr | 57835 | [57835-hresvelgr.json](./57835-hresvelgr.json) |
 | Hrima | 191383 | [191383-hrima.json](./191383-hrima.json) |
@@ -13711,7 +13708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
 | Hungry Galaxies | 207079 | [207079-hungry-galaxies.json](./207079-hungry-galaxies.json) |
 | Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
-| Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Harry 3D | 182710 | [182710-hungry-harry-3d.json](./182710-hungry-harry-3d.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
 | Hungry Hearts Diner Neo | 224193 | [224193-hungry-hearts-diner-neo.json](./224193-hungry-hearts-diner-neo.json) |
@@ -13760,6 +13756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Wolf | 189910 | [189910-hungry-wolf.json](./189910-hungry-wolf.json) |
 | Hungry Zombies | 192468 | [192468-hungry-zombies.json](./192468-hungry-zombies.json) |
 | HungryMaster | 254258 | [254258-hungrymaster.json](./254258-hungrymaster.json) |
+| HunGuessr | 383262 | [383262-hunguessr.json](./383262-hunguessr.json) |
 | Huni Kuin: Beya Xinã Bena | 226009 | [226009-huni-kuin-beya-xina-bena.json](./226009-huni-kuin-beya-xina-bena.json) |
 | Huni Kuin: Yube Baitana | 162625 | [162625-huni-kuin-yube-baitana.json](./162625-huni-kuin-yube-baitana.json) |
 | HunieCam Studio | 19847 | [19847-huniecam-studio.json](./19847-huniecam-studio.json) |
