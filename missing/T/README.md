@@ -3805,7 +3805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
 | Teenage Mutant Ninja Turtles: Cowabunga | 181836 | [181836-teenage-mutant-ninja-turtles-cowabunga.json](./181836-teenage-mutant-ninja-turtles-cowabunga.json) |
-| Teenage Mutant Ninja Turtles: Danger of the Ooze | 19092 | [19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json](./19092-teenage-mutant-ninja-turtles-danger-of-the-ooze.json) |
 | Teenage Mutant Ninja Turtles: Dark Horizons | 64790 | [64790-teenage-mutant-ninja-turtles-dark-horizons.json](./64790-teenage-mutant-ninja-turtles-dark-horizons.json) |
 | Teenage Mutant Ninja Turtles: Dimension X Assault | 198938 | [198938-teenage-mutant-ninja-turtles-dimension-x-assault.json](./198938-teenage-mutant-ninja-turtles-dimension-x-assault.json) |
 | Teenage Mutant Ninja Turtles: Donnie Saves a Princess | 63459 | [63459-teenage-mutant-ninja-turtles-donnie-saves-a-princess.json](./63459-teenage-mutant-ninja-turtles-donnie-saves-a-princess.json) |
@@ -4079,7 +4078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telenet Shooting Collection II | 396486 | [396486-telenet-shooting-collection-ii.json](./396486-telenet-shooting-collection-ii.json) |
 | Telengard | 2879 | [2879-telengard.json](./2879-telengard.json) |
 | TeleNovela | 159378 | [159378-telenovela.json](./159378-telenovela.json) |
-| Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepath Tactics Liberated | 189802 | [189802-telepath-tactics-liberated.json](./189802-telepath-tactics-liberated.json) |
@@ -7118,7 +7116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
 | The Battery | 271341 | [271341-the-battery.json](./271341-the-battery.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
-| The Battle Cats POP! | 19898 | [19898-the-battle-cats-pop.json](./19898-the-battle-cats-pop.json) |
 | The Battle Cats Unite! | 113359 | [113359-the-battle-cats-unite.json](./113359-the-battle-cats-unite.json) |
 | The Battle for Christmas | 326210 | [326210-the-battle-for-christmas.json](./326210-the-battle-for-christmas.json) |
 | The Battle for Mata-Nui | 203503 | [203503-the-battle-for-mata-nui.json](./203503-the-battle-for-mata-nui.json) |
@@ -8020,7 +8017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Disaster | 95192 | [95192-the-castle-disaster.json](./95192-the-castle-disaster.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
-| The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
 | The Castle Mystery | 266020 | [266020-the-castle-mystery.json](./266020-the-castle-mystery.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
 | The Castle of Dr. Malvado | 137210 | [137210-the-castle-of-dr-malvado.json](./137210-the-castle-of-dr-malvado.json) |
@@ -11778,7 +11774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: Day 13 | 227586 | [227586-the-great-war-day-13.json](./227586-the-great-war-day-13.json) |
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great War: Western Front - Victory Edition | 234980 | [234980-the-great-war-western-front-victory-edition.json](./234980-the-great-war-western-front-victory-edition.json) |
-| The Great Whale Road | 19788 | [19788-the-great-whale-road.json](./19788-the-great-whale-road.json) |
 | The Great White Destroyer | 54304 | [54304-the-great-white-destroyer.json](./54304-the-great-white-destroyer.json) |
 | The Great Wife's Guide | 422293 | [422293-the-great-wifes-guide.json](./422293-the-great-wifes-guide.json) |
 | The Great Wizards Tournament | 123443 | [123443-the-great-wizards-tournament.json](./123443-the-great-wizards-tournament.json) |
@@ -17258,7 +17253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right Bingo | 83397 | [83397-the-price-is-right-bingo.json](./83397-the-price-is-right-bingo.json) |
 | The Price is Right: 2010 Edition | 50650 | [50650-the-price-is-right-2010-edition.json](./50650-the-price-is-right-2010-edition.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
-| The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
 | The Price of Flesh | 197293 | [197293-the-price-of-flesh.json](./197293-the-price-of-flesh.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
@@ -17575,7 +17569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rage | 76756 | [76756-the-rage.json](./76756-the-rage.json) |
 | The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
-| The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
 | The Raiders | 29350 | [29350-the-raiders.json](./29350-the-raiders.json) |
 | The Rail | 57419 | [57419-the-rail.json](./57419-the-rail.json) |
 | The RailIdle | 243494 | [243494-the-railidle.json](./243494-the-railidle.json) |
@@ -17629,7 +17622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
-| The Raven Project | 20253 | [20253-the-raven-project.json](./20253-the-raven-project.json) |
 | The Raven Remastered | 80944 | [80944-the-raven-remastered.json](./80944-the-raven-remastered.json) |
 | The Raven: Legacy of a Master Thief | 7667 | [7667-the-raven-legacy-of-a-master-thief.json](./7667-the-raven-legacy-of-a-master-thief.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
@@ -17949,7 +17941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
-| The Rivers of Alice | 20355 | [20355-the-rivers-of-alice.json](./20355-the-rivers-of-alice.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Roach Hotel | 371857 | [371857-the-roach-hotel.json](./371857-the-roach-hotel.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
@@ -18446,7 +18437,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
-| the Sequence | 20036 | [20036-the-sequence.json](./20036-the-sequence.json) |
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Sequence 2 | 195836 | [195836-the-sequence-2.json](./195836-the-sequence-2.json) |
 | The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
@@ -20177,7 +20167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers | 36867 | [36867-the-three-musketeers.json](./36867-the-three-musketeers.json) |
 | The Three Musketeers: D'Artagnan & the 12 Jewels | 96862 | [96862-the-three-musketeers-dartagnan-and-the-12-jewels.json](./96862-the-three-musketeers-dartagnan-and-the-12-jewels.json) |
-| The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
 | The Three Musketeers: The Game (PC) | 85684 | [85684-the-three-musketeers-the-game-pc.json](./85684-the-three-musketeers-the-game-pc.json) |
 | The Three Princes and Adarna | 182740 | [182740-the-three-princes-and-adarna.json](./182740-the-three-princes-and-adarna.json) |
 | The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
@@ -23609,7 +23598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tank: Iron Shield | 396185 | [396185-thunder-tank-iron-shield.json](./396185-thunder-tank-iron-shield.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
-| Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunder Wolves | 10990 | [10990-thunder-wolves.json](./10990-thunder-wolves.json) |
@@ -27198,7 +27186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall Legends | 234393 | [234393-titanfall-legends.json](./234393-titanfall-legends.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
-| Titanfall: IMC Rising | 20225 | [20225-titanfall-imc-rising.json](./20225-titanfall-imc-rising.json) |
 | Titanhelm | 414719 | [414719-titanhelm.json](./414719-titanhelm.json) |
 | Titanic | 10842 | [10842-titanic.json](./10842-titanic.json) |
 | Titanic | 74237 | [74237-titanic.json](./74237-titanic.json) |
@@ -27363,7 +27350,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Outdoors Pro Hunter 2 | 119397 | [119397-tnn-outdoors-pro-hunter-2.json](./119397-tnn-outdoors-pro-hunter-2.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
 | TNT Goes Boom! | 269661 | [269661-tnt-goes-boom.json](./269661-tnt-goes-boom.json) |
-| TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT Racers: Nitro Machines Edition | 51152 | [51152-tnt-racers-nitro-machines-edition.json](./51152-tnt-racers-nitro-machines-edition.json) |
 | TNT War Bundle | 227120 | [227120-tnt-war-bundle.json](./227120-tnt-war-bundle.json) |
 | TNT: Evilution | 313169 | [313169-tnt-evilution.json](./313169-tnt-evilution.json) |
@@ -28024,7 +28010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toko & Kraft: Artificers | 287491 | [287491-toko-and-kraft-artificers.json](./287491-toko-and-kraft-artificers.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
 | Toko-toko Neko Puzzle Schrodinger no Hakoniwa | 225341 | [225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json](./225341-toko-toko-neko-puzzle-schrodinger-no-hakoniwa.json) |
-| Tokobot | 19692 | [19692-tokobot.json](./19692-tokobot.json) |
 | Tokobot Plus: Mysteries of the Karakuri | 20663 | [20663-tokobot-plus-mysteries-of-the-karakuri.json](./20663-tokobot-plus-mysteries-of-the-karakuri.json) |
 | Tokonatsu no Haramase Hitozuma Island e Youkoso!: Ero Muchi Gibo-tachi 4nin to Mujintou Tanezuke Vacance! | 59022 | [59022-tokonatsu-no-haramase-hitozuma-island-e-youkoso-ero-muchi-gibo-tachi-4nin-to-mujintou-tanezuke-vacance.json](./59022-tokonatsu-no-haramase-hitozuma-island-e-youkoso-ero-muchi-gibo-tachi-4nin-to-mujintou-tanezuke-vacance.json) |
 | Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
@@ -32243,7 +32228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2013 | 5546 | [5546-train-simulator-2013.json](./5546-train-simulator-2013.json) |
 | Train Simulator 2014 | 5545 | [5545-train-simulator-2014.json](./5545-train-simulator-2014.json) |
 | Train Simulator 2015 | 50304 | [50304-train-simulator-2015.json](./50304-train-simulator-2015.json) |
-| Train Simulator 2016 | 19894 | [19894-train-simulator-2016.json](./19894-train-simulator-2016.json) |
 | Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
 | Train Simulator 2018 | 77437 | [77437-train-simulator-2018.json](./77437-train-simulator-2018.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
@@ -35238,7 +35222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
 | Tricky Treat | 277716 | [277716-tricky-treat.json](./277716-tricky-treat.json) |
 | Tricky Tringle | 175524 | [175524-tricky-tringle.json](./175524-tricky-tringle.json) |
-| Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
@@ -37675,7 +37658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Balls Journey | 390227 | [390227-twin-balls-journey.json](./390227-twin-balls-journey.json) |
 | Twin Bill | 130868 | [130868-twin-bill.json](./130868-twin-bill.json) |
 | Twin Blades of the Three Kingdoms | 202761 | [202761-twin-blades-of-the-three-kingdoms.json](./202761-twin-blades-of-the-three-kingdoms.json) |
-| Twin Blades: The Reaping Vanguard | 19890 | [19890-twin-blades-the-reaping-vanguard.json](./19890-twin-blades-the-reaping-vanguard.json) |
 | Twin Blue Moons | 88191 | [88191-twin-blue-moons.json](./88191-twin-blue-moons.json) |
 | Twin Brats | 289132 | [289132-twin-brats.json](./289132-twin-brats.json) |
 | Twin Breaker: A Sacred Symbols Adventure - Limited Edition | 166254 | [166254-twin-breaker-a-sacred-symbols-adventure-limited-edition.json](./166254-twin-breaker-a-sacred-symbols-adventure-limited-edition.json) |
