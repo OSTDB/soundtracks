@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
 | Heoeonjeung Sogaeting! 2 | 316040 | [316040-heoeonjeung-sogaeting-2.json](./316040-heoeonjeung-sogaeting-2.json) |
 | Heph | 30121 | [30121-heph.json](./30121-heph.json) |
+| Hephaestus Protocol | 421042 | [421042-hephaestus-protocol.json](./421042-hephaestus-protocol.json) |
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Hepta Beats | 157347 | [157347-hepta-beats.json](./157347-hepta-beats.json) |
