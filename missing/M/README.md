@@ -19085,6 +19085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Tropica | 347210 | [347210-moon-tropica.json](./347210-moon-tropica.json) |
 | Moon Tycoon | 120150 | [120150-moon-tycoon.json](./120150-moon-tycoon.json) |
 | Moon Tycoon | 71085 | [71085-moon-tycoon.json](./71085-moon-tycoon.json) |
+| Moon Veil | 430408 | [430408-moon-veil.json](./430408-moon-veil.json) |
 | Moon Village | 119639 | [119639-moon-village.json](./119639-moon-village.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon War | 40560 | [40560-moon-war.json](./40560-moon-war.json) |
@@ -20902,6 +20903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouth Trap | 318429 | [318429-mouth-trap.json](./318429-mouth-trap.json) |
 | Mouthole | 290732 | [290732-mouthole.json](./290732-mouthole.json) |
 | Mouthwashing | 264410 | [264410-mouthwashing.json](./264410-mouthwashing.json) |
+| Moutinerie | 430413 | [430413-moutinerie.json](./430413-moutinerie.json) |
 | Mouton Noir | 396643 | [396643-mouton-noir.json](./396643-mouton-noir.json) |
 | Movafort | 212190 | [212190-movafort.json](./212190-movafort.json) |
 | Move 'n' Bloom | 158361 | [158361-move-n-bloom.json](./158361-move-n-bloom.json) |
