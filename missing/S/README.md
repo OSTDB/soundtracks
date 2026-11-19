@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samozvaniets | 121107 | [121107-samozvaniets.json](./121107-samozvaniets.json) |
 | Samphi | 35944 | [35944-samphi.json](./35944-samphi.json) |
 | Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
+| Sample Gunpowder: Locked Impact | 427875 | [427875-sample-gunpowder-locked-impact.json](./427875-sample-gunpowder-locked-impact.json) |
 | Sample Sonic | 321726 | [321726-sample-sonic.json](./321726-sample-sonic.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saru Saru DS | 70520 | [70520-saru-saru-ds.json](./70520-saru-saru-ds.json) |
 | Saru! Get You! 2: Ukki Ukki Disc | 386769 | [386769-saru-get-you-2-ukki-ukki-disc.json](./386769-saru-get-you-2-ukki-ukki-disc.json) |
 | Sarukhstart Takeover | 419198 | [419198-sarukhstart-takeover.json](./419198-sarukhstart-takeover.json) |
+| Sarukuji | 427865 | [427865-sarukuji.json](./427865-sarukuji.json) |
 | SAS Combat Simulator | 13031 | [13031-sas-combat-simulator.json](./13031-sas-combat-simulator.json) |
 | SAS Secure Tomorrow | 10811 | [10811-sas-secure-tomorrow.json](./10811-sas-secure-tomorrow.json) |
 | SAS VS Zombies | 90284 | [90284-sas-vs-zombies.json](./90284-sas-vs-zombies.json) |
@@ -6726,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
 | Serial Numbers | 112436 | [112436-serial-numbers.json](./112436-serial-numbers.json) |
+| Serial Tickler | 427888 | [427888-serial-tickler.json](./427888-serial-tickler.json) |
 | Serial Victims | 320081 | [320081-serial-victims.json](./320081-serial-victims.json) |
 | Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
@@ -7302,6 +7305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex On The Beach | 301651 | [301651-sex-on-the-beach.json](./301651-sex-on-the-beach.json) |
 | Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
 | Sex Over | 340634 | [340634-sex-over.json](./340634-sex-over.json) |
+| Sex Passion and Lust | 427749 | [427749-sex-passion-and-lust.json](./427749-sex-passion-and-lust.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: College Girls | 270916 | [270916-sex-play-college-girls.json](./270916-sex-play-college-girls.json) |
 | Sex Play: Naughty Doctor | 267204 | [267204-sex-play-naughty-doctor.json](./267204-sex-play-naughty-doctor.json) |
@@ -8911,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
 | Shatterland | 372438 | [372438-shatterland.json](./372438-shatterland.json) |
+| Shatterlight | 427676 | [427676-shatterlight.json](./427676-shatterlight.json) |
 | Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
 | Shatterpoint | 234800 | [234800-shatterpoint.json](./234800-shatterpoint.json) |
 | ShatterRush | 368417 | [368417-shatterrush.json](./368417-shatterrush.json) |
@@ -35213,6 +35218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blue Boy Planet | 26591 | [26591-super-blue-boy-planet.json](./26591-super-blue-boy-planet.json) |
 | Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
+| Super Board Baseball | 427863 | [427863-super-board-baseball.json](./427863-super-board-baseball.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
@@ -39718,6 +39724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Susanoh: Japanese Mythology RPG | 113997 | [113997-susanoh-japanese-mythology-rpg.json](./113997-susanoh-japanese-mythology-rpg.json) |
 | Susanoo | 409005 | [409005-susanoo.json](./409005-susanoo.json) |
 | SusDoku | 410008 | [410008-susdoku.json](./410008-susdoku.json) |
+| Sush | 427666 | [427666-sush.json](./427666-sush.json) |
 | Sushi Academy | 47780 | [47780-sushi-academy.json](./47780-sushi-academy.json) |
 | Sushi Alone | 151808 | [151808-sushi-alone.json](./151808-sushi-alone.json) |
 | Sushi Bar | 298874 | [298874-sushi-bar.json](./298874-sushi-bar.json) |
@@ -41300,6 +41307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sync Sprint | 328741 | [328741-sync-sprint.json](./328741-sync-sprint.json) |
 | Sync Together | 390109 | [390109-sync-together.json](./390109-sync-together.json) |
 | Sync Your Mind | 287748 | [287748-sync-your-mind.json](./287748-sync-your-mind.json) |
+| SYNC: One Mecha, Two Pilots | 427866 | [427866-sync-one-mecha-two-pilots.json](./427866-sync-one-mecha-two-pilots.json) |
 | Sync: Party Hard | 146845 | [146845-sync-party-hard.json](./146845-sync-party-hard.json) |
 | SYNC: Since You Never Came | 301950 | [301950-sync-since-you-never-came.json](./301950-sync-since-you-never-came.json) |
 | Syncblade | 378085 | [378085-syncblade.json](./378085-syncblade.json) |
