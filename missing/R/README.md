@@ -2058,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rancher: A New Life | 310889 | [310889-rancher-a-new-life.json](./310889-rancher-a-new-life.json) |
 | Ranchlife | 204009 | [204009-ranchlife.json](./204009-ranchlife.json) |
 | Rancho Blast | 101232 | [101232-rancho-blast.json](./101232-rancho-blast.json) |
+| Ranchonauts | 428962 | [428962-ranchonauts.json](./428962-ranchonauts.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand McNally's America: U.S. Atlas | 46429 | [46429-rand-mcnallys-america-u-s-atlas.json](./46429-rand-mcnallys-america-u-s-atlas.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
@@ -5591,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
 | Reloadian | 389223 | [389223-reloadian.json](./389223-reloadian.json) |
+| Relocat | 428971 | [428971-relocat.json](./428971-relocat.json) |
 | Relocation Simulator | 293122 | [293122-relocation-simulator.json](./293122-relocation-simulator.json) |
 | Relow | 124168 | [124168-relow.json](./124168-relow.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
@@ -9861,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert E. Lee: Civil War General | 51377 | [51377-robert-e-lee-civil-war-general.json](./51377-robert-e-lee-civil-war-general.json) |
 | Robert Ludlum's The Bourne Conspiracy | 1256 | [1256-robert-ludlums-the-bourne-conspiracy.json](./1256-robert-ludlums-the-bourne-conspiracy.json) |
+| Robert Ludlum's The Bourne Conspiracy: Revived | 428983 | [428983-robert-ludlums-the-bourne-conspiracy-revived.json](./428983-robert-ludlums-the-bourne-conspiracy-revived.json) |
 | Robert Mensah's Sins of the Father | 33287 | [33287-robert-mensahs-sins-of-the-father.json](./33287-robert-mensahs-sins-of-the-father.json) |
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
@@ -11526,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Waves | 122072 | [122072-rogue-waves.json](./122072-rogue-waves.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue Weapon | 212067 | [212067-rogue-weapon.json](./212067-rogue-weapon.json) |
+| Rogue Wheels | 428959 | [428959-rogue-wheels.json](./428959-rogue-wheels.json) |
 | Rogue with the Dead | 248144 | [248144-rogue-with-the-dead.json](./248144-rogue-with-the-dead.json) |
 | Rogue Words | 353409 | [353409-rogue-words.json](./353409-rogue-words.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
