@@ -516,7 +516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Blacksmith Tycoon | 406393 | [406393-ultimate-blacksmith-tycoon.json](./406393-ultimate-blacksmith-tycoon.json) |
-| Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
 | Ultimate Body Blows & Project-X: Special Edition | 281005 | [281005-ultimate-body-blows-and-project-x-special-edition.json](./281005-ultimate-body-blows-and-project-x-special-edition.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
