@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
 | Magic Cat Academy 2 | 165414 | [165414-magic-cat-academy-2.json](./165414-magic-cat-academy-2.json) |
 | Magic Cat Academy 3 | 321095 | [321095-magic-cat-academy-3.json](./321095-magic-cat-academy-3.json) |
+| Magic Cat Story | 24580 | [24580-magic-cat-story.json](./24580-magic-cat-story.json) |
 | Magic Cats | 241585 | [241585-magic-cats.json](./241585-magic-cats.json) |
 | Magic Cats Pots | 319779 | [319779-magic-cats-pots.json](./319779-magic-cats-pots.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
@@ -10587,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercenaries Saga 2: Order of the Sliver Eagle | 259119 | [259119-mercenaries-saga-2-order-of-the-sliver-eagle.json](./259119-mercenaries-saga-2-order-of-the-sliver-eagle.json) |
+| Mercenaries Saga 3 | 24641 | [24641-mercenaries-saga-3.json](./24641-mercenaries-saga-3.json) |
 | Mercenaries Saga 3: Gray Wolves of War | 259120 | [259120-mercenaries-saga-3-gray-wolves-of-war.json](./259120-mercenaries-saga-3-gray-wolves-of-war.json) |
 | Mercenaries Saga Chronicles | 79987 | [79987-mercenaries-saga-chronicles.json](./79987-mercenaries-saga-chronicles.json) |
 | Mercenaries Saga Chronicles: Physical Edition | 109435 | [109435-mercenaries-saga-chronicles-physical-edition.json](./109435-mercenaries-saga-chronicles-physical-edition.json) |
@@ -13244,6 +13246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Retro Zero | 182102 | [182102-mighty-retro-zero.json](./182102-mighty-retro-zero.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Slap | 261588 | [261588-mighty-slap.json](./261588-mighty-slap.json) |
+| Mighty Smighties | 24554 | [24554-mighty-smighties.json](./24554-mighty-smighties.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
 | Mighty Switch Force! 2 | 20081 | [20081-mighty-switch-force-2.json](./20081-mighty-switch-force-2.json) |
@@ -15868,6 +15871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Time | 301146 | [301146-missing-time.json](./301146-missing-time.json) |
 | Missing Translation | 19173 | [19173-missing-translation.json](./19173-missing-translation.json) |
 | Missing Truth | 410598 | [410598-missing-truth.json](./410598-missing-truth.json) |
+| Missing: An Interactive Thriller | 24592 | [24592-missing-an-interactive-thriller.json](./24592-missing-an-interactive-thriller.json) |
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
@@ -17954,6 +17958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Cards: Skill Pack - Card of Named | 376426 | [376426-monster-cards-skill-pack-card-of-named.json](./376426-monster-cards-skill-pack-card-of-named.json) |
 | Monster Cards: Skill Pack - Card of Sunrise | 376424 | [376424-monster-cards-skill-pack-card-of-sunrise.json](./376424-monster-cards-skill-pack-card-of-sunrise.json) |
 | Monster Care Simulator | 326387 | [326387-monster-care-simulator.json](./326387-monster-care-simulator.json) |
+| Monster Castle | 24606 | [24606-monster-castle.json](./24606-monster-castle.json) |
 | Monster Catch | 118475 | [118475-monster-catch.json](./118475-monster-catch.json) |
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
@@ -18905,6 +18910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Village | 265320 | [265320-monument-village.json](./265320-monument-village.json) |
 | Monument: Invasion | 308501 | [308501-monument-invasion.json](./308501-monument-invasion.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
+| Monumental | 24609 | [24609-monumental.json](./24609-monumental.json) |
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
 | Monuments | 308069 | [308069-monuments.json](./308069-monuments.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
