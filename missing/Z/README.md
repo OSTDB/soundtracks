@@ -79,7 +79,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.A.P. | 300135 | [300135-z-a-p.json](./300135-z-a-p.json) |
 | Z.A.R. | 35721 | [35721-z-a-r.json](./35721-z-a-r.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
-| Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
 | Z.I.O.N. | 32721 | [32721-z-i-o-n.json](./32721-z-i-o-n.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
@@ -532,7 +531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | Zefyr: A Thief's Melody | 211507 | [211507-zefyr-a-thiefs-melody.json](./211507-zefyr-a-thiefs-melody.json) |
-| ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
 | Zegelon: Hardcore Arena | 278961 | [278961-zegelon-hardcore-arena.json](./278961-zegelon-hardcore-arena.json) |
@@ -2599,7 +2597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Park Tycoon | 52301 | [52301-zoo-park-tycoon.json](./52301-zoo-park-tycoon.json) |
 | Zoo Protocol | 411359 | [411359-zoo-protocol.json](./411359-zoo-protocol.json) |
 | Zoo Puzzle | 43236 | [43236-zoo-puzzle.json](./43236-zoo-puzzle.json) |
-| Zoo Quest | 20277 | [20277-zoo-quest.json](./20277-zoo-quest.json) |
 | Zoo Rampage | 17622 | [17622-zoo-rampage.json](./17622-zoo-rampage.json) |
 | Zoo Rescue | 92301 | [92301-zoo-rescue.json](./92301-zoo-rescue.json) |
 | Zoo Rescue: Match 3 & Animals | 317878 | [317878-zoo-rescue-match-3-and-animals.json](./317878-zoo-rescue-match-3-and-animals.json) |
