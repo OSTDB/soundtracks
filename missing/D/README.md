@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Exit 8 | 288027 | [288027-dead-end-exit-8.json](./288027-dead-end-exit-8.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
 | Dead End Job | 396249 | [396249-dead-end-job.json](./396249-dead-end-job.json) |
+| Dead End Junction | 31569 | [31569-dead-end-junction.json](./31569-dead-end-junction.json) |
 | Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Junction #3: The Outlaws | 58093 | [58093-dead-end-junction-3-the-outlaws.json](./58093-dead-end-junction-3-the-outlaws.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlings | 60700 | [60700-deadlings.json](./60700-deadlings.json) |
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
+| Deadlock | 31699 | [31699-deadlock.json](./31699-deadlock.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
 | Deadlock II: Shrine Wars | 10172 | [10172-deadlock-ii-shrine-wars.json](./10172-deadlock-ii-shrine-wars.json) |
 | Deadlock Station | 240598 | [240598-deadlock-station.json](./240598-deadlock-station.json) |
@@ -5433,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Gambit: Afterlife | 152130 | [152130-deaths-gambit-afterlife.json](./152130-deaths-gambit-afterlife.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
+| Death's Hangover | 31456 | [31456-deaths-hangover.json](./31456-deaths-hangover.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
 | Death's Life 2 | 406868 | [406868-deaths-life-2.json](./406868-deaths-life-2.json) |
 | Death's Maze | 72419 | [72419-deaths-maze.json](./72419-deaths-maze.json) |
@@ -6794,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deios I: Director's Cut | 200619 | [200619-deios-i-directors-cut.json](./200619-deios-i-directors-cut.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
+| Deisim | 31356 | [31356-deisim.json](./31356-deisim.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
 | Deitrus | 216640 | [216640-deitrus.json](./216640-deitrus.json) |
 | Deity | 168463 | [168463-deity.json](./168463-deity.json) |
@@ -11210,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Discovery | 109172 | [109172-dinosaur-discovery.json](./109172-dinosaur-discovery.json) |
 | Dinosaur Discovery | 83779 | [83779-dinosaur-discovery.json](./83779-dinosaur-discovery.json) |
 | Dinosaur Era | 248697 | [248697-dinosaur-era.json](./248697-dinosaur-era.json) |
+| Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Games: Puzzle for Kids & Toddlers | 88936 | [88936-dinosaur-games-puzzle-for-kids-and-toddlers.json](./88936-dinosaur-games-puzzle-for-kids-and-toddlers.json) |
@@ -11890,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace | 161563 | [161563-disgrace.json](./161563-disgrace.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
+| Disgraced | 32476 | [32476-disgraced.json](./32476-disgraced.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
@@ -16282,6 +16288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Special Kunio-kun's Historical Period Drama! | 48631 | [48631-downtown-special-kunio-kuns-historical-period-drama.json](./48631-downtown-special-kunio-kuns-historical-period-drama.json) |
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
 | Downtown Texas Hold'em Poker | 67150 | [67150-downtown-texas-holdem-poker.json](./67150-downtown-texas-holdem-poker.json) |
+| Downward | 31942 | [31942-downward.json](./31942-downward.json) |
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
@@ -17229,6 +17236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Kisser | 408355 | [408355-dragon-kisser.json](./408355-dragon-kisser.json) |
 | Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 187132 | [187132-dragon-knight.json](./187132-dragon-knight.json) |
+| Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 333314 | [333314-dragon-knight.json](./333314-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight | 416720 | [416720-dragon-knight.json](./416720-dragon-knight.json) |
@@ -19838,6 +19846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk Games | 203940 | [203940-drunk-games.json](./203940-drunk-games.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
 | Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
+| Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
 | Drunk or Dead 2 | 202447 | [202447-drunk-or-dead-2.json](./202447-drunk-or-dead-2.json) |
 | Drunk or Dead: On the Road | 174495 | [174495-drunk-or-dead-on-the-road.json](./174495-drunk-or-dead-on-the-road.json) |
