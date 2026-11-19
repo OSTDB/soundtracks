@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
 | Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
+| Virtuacall | 428368 | [428368-virtuacall.json](./428368-virtuacall.json) |
 | Virtuacall 2 | 428372 | [428372-virtuacall-2.json](./428372-virtuacall-2.json) |
 | Virtuacall S | 131239 | [131239-virtuacall-s.json](./131239-virtuacall-s.json) |
 | VirtuaCreature | 105689 | [105689-virtuacreature.json](./105689-virtuacreature.json) |
@@ -3388,6 +3389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual echoes | 183941 | [183941-visual-echoes.json](./183941-visual-echoes.json) |
 | Visual novel for the kids: Lumi And Baby - Hamster And Baby Dragon | 274917 | [274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json](./274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json) |
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
+| Visual Novel: Before the Dawn | 427771 | [427771-visual-novel-before-the-dawn.json](./427771-visual-novel-before-the-dawn.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
 | Visual Out | 76375 | [76375-visual-out.json](./76375-visual-out.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
@@ -3458,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitris | 306015 | [306015-vitris.json](./306015-vitris.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
 | Vitsie Visits Dinosaurs | 46706 | [46706-vitsie-visits-dinosaurs.json](./46706-vitsie-visits-dinosaurs.json) |
+| Vitta Lucis | 427756 | [427756-vitta-lucis.json](./427756-vitta-lucis.json) |
 | VitvitDriver 3D | 390040 | [390040-vitvitdriver-3d.json](./390040-vitvitdriver-3d.json) |
 | Viv and Bob | 134947 | [134947-viv-and-bob.json](./134947-viv-and-bob.json) |
 | Viva Games Collection | 173173 | [173173-viva-games-collection.json](./173173-viva-games-collection.json) |
