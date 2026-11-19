@@ -4182,6 +4182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
 | Castle Kingdoms | 73954 | [73954-castle-kingdoms.json](./73954-castle-kingdoms.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
+| Castle Lanes | 429050 | [429050-castle-lanes.json](./429050-castle-lanes.json) |
 | Castle Legend: Devil Awakening | 116503 | [116503-castle-legend-devil-awakening.json](./116503-castle-legend-devil-awakening.json) |
 | Castle Life | 179211 | [179211-castle-life.json](./179211-castle-life.json) |
 | Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
@@ -6348,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Crashers | 318529 | [318529-ceramic-crashers.json](./318529-ceramic-crashers.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
+| Ceramic, Stainless Steel, Neurotransmitter | 429071 | [429071-ceramic-stainless-steel-neurotransmitter.json](./429071-ceramic-stainless-steel-neurotransmitter.json) |
 | Ceraphic Requiem | 399700 | [399700-ceraphic-requiem.json](./399700-ceraphic-requiem.json) |
 | Cerasus | 202331 | [202331-cerasus.json](./202331-cerasus.json) |
 | Cerberus | 13474 | [13474-cerberus.json](./13474-cerberus.json) |
@@ -12477,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clownfield 6 | 383451 | [383451-clownfield-6.json](./383451-clownfield-6.json) |
 | Clownout | 373792 | [373792-clownout.json](./373792-clownout.json) |
 | Clowns | 165915 | [165915-clowns.json](./165915-clowns.json) |
+| Clowns | 429084 | [429084-clowns.json](./429084-clowns.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | Clowntown | 405107 | [405107-clowntown.json](./405107-clowntown.json) |
@@ -15206,6 +15209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Tales of Valor | 1371 | [1371-company-of-heroes-tales-of-valor.json](./1371-company-of-heroes-tales-of-valor.json) |
 | Company Tycoon | 412628 | [412628-company-tycoon.json](./412628-company-tycoon.json) |
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
+| Compartment 666: Anomaly Express | 429062 | [429062-compartment-666-anomaly-express.json](./429062-compartment-666-anomaly-express.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass | 344160 | [344160-compass.json](./344160-compass.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
@@ -21758,6 +21762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
 | Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
 | Crystareino | 24570 | [24570-crystareino.json](./24570-crystareino.json) |
+| Crystaria Online | 429069 | [429069-crystaria-online.json](./429069-crystaria-online.json) |
 | Crystarise | 189227 | [189227-crystarise.json](./189227-crystarise.json) |
 | Crystaura Purge Plan | 339345 | [339345-crystaura-purge-plan.json](./339345-crystaura-purge-plan.json) |
 | Crystball | 64807 | [64807-crystball.json](./64807-crystball.json) |
