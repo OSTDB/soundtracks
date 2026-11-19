@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
 | Magical Nut Ikuno | 342917 | [342917-magical-nut-ikuno.json](./342917-magical-nut-ikuno.json) |
 | Magical Otoge Anholly | 57905 | [57905-magical-otoge-anholly.json](./57905-magical-otoge-anholly.json) |
+| Magical Otoge Ciel | 31486 | [31486-magical-otoge-ciel.json](./31486-magical-otoge-ciel.json) |
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
@@ -6806,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
+| Max, an Autistic Journey | 31744 | [31744-max-an-autistic-journey.json](./31744-max-an-autistic-journey.json) |
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
 | Max: The Curse of Brotherhood | 4848 | [4848-max-the-curse-of-brotherhood.json](./4848-max-the-curse-of-brotherhood.json) |
 | Max's Adventure | 426524 | [426524-maxs-adventure.json](./426524-maxs-adventure.json) |
@@ -24836,6 +24838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Boxes | 311966 | [311966-mystery-boxes.json](./311966-mystery-boxes.json) |
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
+| Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Case Files: A Crime in Reflection - Collector's Edition | 283552 | [283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json](./283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json) |
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
