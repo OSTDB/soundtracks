@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nantucket: Masters of the Seven Seas | 155045 | [155045-nantucket-masters-of-the-seven-seas.json](./155045-nantucket-masters-of-the-seven-seas.json) |
 | Nanuk: The dusk of the brutes | 252401 | [252401-nanuk-the-dusk-of-the-brutes.json](./252401-nanuk-the-dusk-of-the-brutes.json) |
 | Nanuka: Secret of the Shattering Moon | 298120 | [298120-nanuka-secret-of-the-shattering-moon.json](./298120-nanuka-secret-of-the-shattering-moon.json) |
+| Nanuleu | 31813 | [31813-nanuleu.json](./31813-nanuleu.json) |
 | Nanwaka Legend | 227754 | [227754-nanwaka-legend.json](./227754-nanwaka-legend.json) |
 | Nao Kalfsins | 176827 | [176827-nao-kalfsins.json](./176827-nao-kalfsins.json) |
 | Nao's Love Triangle: Hentai Puzzle 18+ | 312690 | [312690-naos-love-triangle-hentai-puzzle-18.json](./312690-naos-love-triangle-hentai-puzzle-18.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare | 393515 | [393515-nightmare.json](./393515-nightmare.json) |
 | Nightmare (working title) | 115849 | [115849-nightmare-working-title.json](./115849-nightmare-working-title.json) |
 | Nightmare Adventures: The Turning Thorn | 28681 | [28681-nightmare-adventures-the-turning-thorn.json](./28681-nightmare-adventures-the-turning-thorn.json) |
+| Nightmare Adventures: The Witch's Prison | 31649 | [31649-nightmare-adventures-the-witchs-prison.json](./31649-nightmare-adventures-the-witchs-prison.json) |
 | Nightmare Adventures: The Witch's Prison & Nightmare Adventures: The Turning Thorn | 201856 | [201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json](./201856-nightmare-adventures-the-witchs-prison-and-nightmare-adventures-the-turning-thorn.json) |
 | Nightmare Arts | 294946 | [294946-nightmare-arts.json](./294946-nightmare-arts.json) |
 | Nightmare at Famine Springs | 301144 | [301144-nightmare-at-famine-springs.json](./301144-nightmare-at-famine-springs.json) |
