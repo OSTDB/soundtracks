@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelenhgorm: Episode I - Land of the Blue Moon | 21499 | [21499-zelenhgorm-episode-i-land-of-the-blue-moon.json](./21499-zelenhgorm-episode-i-land-of-the-blue-moon.json) |
 | Zelensky vs Poroshenko: The Destiny of Ukraine | 371931 | [371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json](./371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json) |
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
+| Zeliria Sanctuary | 106390 | [106390-zeliria-sanctuary.json](./106390-zeliria-sanctuary.json) |
 | Zeliria Sanctuary II: Xinori Asylum | 161504 | [161504-zeliria-sanctuary-ii-xinori-asylum.json](./161504-zeliria-sanctuary-ii-xinori-asylum.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
 | Zeliria Sanctuary: Rise of Pumpkins | 172224 | [172224-zeliria-sanctuary-rise-of-pumpkins.json](./172224-zeliria-sanctuary-rise-of-pumpkins.json) |
