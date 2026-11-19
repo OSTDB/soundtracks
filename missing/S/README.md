@@ -4566,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Se/\/Se | 259948 | [259948-se-se.json](./259948-se-se.json) |
 | SE3 Protocol: Last Drop | 415877 | [415877-se3-protocol-last-drop.json](./415877-se3-protocol-last-drop.json) |
 | Sea and Adventure | 289689 | [289689-sea-and-adventure.json](./289689-sea-and-adventure.json) |
+| Sea and Sundry | 420242 | [420242-sea-and-sundry.json](./420242-sea-and-sundry.json) |
 | Sea Animal City | 60741 | [60741-sea-animal-city.json](./60741-sea-animal-city.json) |
 | Sea Animal Kingdom Battle Simulator: Sea Monster | 104466 | [104466-sea-animal-kingdom-battle-simulator-sea-monster.json](./104466-sea-animal-kingdom-battle-simulator-sea-monster.json) |
 | Sea Animals Puzzle Preschool kids Learning Games | 88523 | [88523-sea-animals-puzzle-preschool-kids-learning-games.json](./88523-sea-animals-puzzle-preschool-kids-learning-games.json) |
@@ -4615,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: To Each His Own - The Final Lesson | 172348 | [172348-sea-dogs-to-each-his-own-the-final-lesson.json](./172348-sea-dogs-to-each-his-own-the-final-lesson.json) |
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
+| Sea Drifter | 420247 | [420247-sea-drifter.json](./420247-sea-drifter.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
 | Sea Explorer | 100659 | [100659-sea-explorer.json](./100659-sea-explorer.json) |
 | Sea Fable | 225488 | [225488-sea-fable.json](./225488-sea-fable.json) |
@@ -4755,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Scraps | 337360 | [337360-sea-scraps.json](./337360-sea-scraps.json) |
 | Sea Search | 36688 | [36688-sea-search.json](./36688-sea-search.json) |
 | Sea Sniffers | 318171 | [318171-sea-sniffers.json](./318171-sea-sniffers.json) |
+| Sea Star: The Diaries of Anne Bonny | 420245 | [420245-sea-star-the-diaries-of-anne-bonny.json](./420245-sea-star-the-diaries-of-anne-bonny.json) |
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Struggles | 334372 | [334372-sea-struggles.json](./334372-sea-struggles.json) |
@@ -4858,14 +4861,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
 | Sealife Safari | 180991 | [180991-sealife-safari.json](./180991-sealife-safari.json) |
+| Sealing Fallout | 420244 | [420244-sealing-fallout.json](./420244-sealing-fallout.json) |
 | Sealing Tower | 358580 | [358580-sealing-tower.json](./358580-sealing-tower.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
 | Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
 | Sealubbers | 350750 | [350750-sealubbers.json](./350750-sealubbers.json) |
+| Seam Walker | 420241 | [420241-seam-walker.json](./420241-seam-walker.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
 | Seaman 2 | 11446 | [11446-seaman-2.json](./11446-seaman-2.json) |
 | Seaman 3DS | 264822 | [264822-seaman-3ds.json](./264822-seaman-3ds.json) |
 | Seaman Count | 79662 | [79662-seaman-count.json](./79662-seaman-count.json) |
+| Seamies | 420235 | [420235-seamies.json](./420235-seamies.json) |
 | Seamless | 204585 | [204585-seamless.json](./204585-seamless.json) |
 | Seamongrel | 342269 | [342269-seamongrel.json](./342269-seamongrel.json) |
 | Seamspace: Minesweeper | 363359 | [363359-seamspace-minesweeper.json](./363359-seamspace-minesweeper.json) |
@@ -4974,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaside Fireflies | 336612 | [336612-seaside-fireflies.json](./336612-seaside-fireflies.json) |
 | Seaside Racing | 64875 | [64875-seaside-racing.json](./64875-seaside-racing.json) |
 | Seaside Schemes | 278378 | [278378-seaside-schemes.json](./278378-seaside-schemes.json) |
+| Seaside Shop Simulator | 420234 | [420234-seaside-shop-simulator.json](./420234-seaside-shop-simulator.json) |
 | Seaside Sourcery | 230187 | [230187-seaside-sourcery.json](./230187-seaside-sourcery.json) |
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | Seaside Wash | 418172 | [418172-seaside-wash.json](./418172-seaside-wash.json) |
@@ -5668,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Light: Chapter 1 | 284277 | [284277-seeking-light-chapter-1.json](./284277-seeking-light-chapter-1.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
+| Seeking Sneaky Spirits | 420263 | [420263-seeking-sneaky-spirits.json](./420263-seeking-sneaky-spirits.json) |
 | Seeking the Guardian | 344400 | [344400-seeking-the-guardian.json](./344400-seeking-the-guardian.json) |
 | SeekIt: Max Dublin's Treasure | 306021 | [306021-seekit-max-dublins-treasure.json](./306021-seekit-max-dublins-treasure.json) |
 | SeekIt: The Isle of Mem | 306011 | [306011-seekit-the-isle-of-mem.json](./306011-seekit-the-isle-of-mem.json) |
@@ -13092,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinespace | 122467 | [122467-sinespace.json](./122467-sinespace.json) |
 | Sinesperia | 317471 | [317471-sinesperia.json](./317471-sinesperia.json) |
 | Sineus Arena Survivors | 384856 | [384856-sineus-arena-survivors.json](./384856-sineus-arena-survivors.json) |
+| Sinever: First Seal | 420236 | [420236-sinever-first-seal.json](./420236-sinever-first-seal.json) |
 | Sinew | 369587 | [369587-sinew.json](./369587-sinew.json) |
 | Sinewave | 115172 | [115172-sinewave.json](./115172-sinewave.json) |
 | Sinfeld Remastered | 182338 | [182338-sinfeld-remastered.json](./182338-sinfeld-remastered.json) |
@@ -21126,6 +21135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort My Comics! | 422271 | [422271-sort-my-comics.json](./422271-sort-my-comics.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
+| Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
@@ -23953,6 +23963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specters Factory 1 | 359661 | [359661-specters-factory-1.json](./359661-specters-factory-1.json) |
 | Specters of the Deep | 370379 | [370379-specters-of-the-deep.json](./370379-specters-of-the-deep.json) |
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
+| Specters of the Void Sea | 420249 | [420249-specters-of-the-void-sea.json](./420249-specters-of-the-void-sea.json) |
 | Spectipede | 63482 | [63482-spectipede.json](./63482-spectipede.json) |
 | Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
 | Spectr: Rekindle the World | 427066 | [427066-spectr-rekindle-the-world.json](./427066-spectr-rekindle-the-world.json) |
@@ -31860,6 +31871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Punch | 130664 | [130664-strawberry-punch.json](./130664-strawberry-punch.json) |
 | Strawberry Quest | 382370 | [382370-strawberry-quest.json](./382370-strawberry-quest.json) |
 | Strawberry Samurai | 197024 | [197024-strawberry-samurai.json](./197024-strawberry-samurai.json) |
+| Strawberry Season | 420238 | [420238-strawberry-season.json](./420238-strawberry-season.json) |
 | Strawberry Shortcake: Amazing Cookie Party | 8569 | [8569-strawberry-shortcake-amazing-cookie-party.json](./8569-strawberry-shortcake-amazing-cookie-party.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Ice Cream Island Riding Camp | 8571 | [8571-strawberry-shortcake-ice-cream-island-riding-camp.json](./8571-strawberry-shortcake-ice-cream-island-riding-camp.json) |
@@ -37448,6 +37460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robin Hood | 223024 | [223024-super-robin-hood.json](./223024-super-robin-hood.json) |
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
 | Super Robo Gakuen | 68396 | [68396-super-robo-gakuen.json](./68396-super-robo-gakuen.json) |
+| Super Robo Oh | 420271 | [420271-super-robo-oh.json](./420271-super-robo-oh.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Jump Jump | 34204 | [34204-super-robot-jump-jump.json](./34204-super-robot-jump-jump.json) |
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
