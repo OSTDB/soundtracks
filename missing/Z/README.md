@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Mosaics | 415860 | [415860-zen-mosaics.json](./415860-zen-mosaics.json) |
 | Zen of Clover | 89520 | [89520-zen-of-clover.json](./89520-zen-of-clover.json) |
+| Zen of Sudoku | 14826 | [14826-zen-of-sudoku.json](./14826-zen-of-sudoku.json) |
 | Zen Paint | 367649 | [367649-zen-paint.json](./367649-zen-paint.json) |
 | Zen Pinball | 20730 | [20730-zen-pinball.json](./20730-zen-pinball.json) |
 | Zen Pinball | 260831 | [260831-zen-pinball.json](./260831-zen-pinball.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Orbs | 396870 | [396870-zoo-orbs.json](./396870-zoo-orbs.json) |
 | Zoo Orbs: Safari | 401726 | [401726-zoo-orbs-safari.json](./401726-zoo-orbs-safari.json) |
 | Zoo Packs | 129568 | [129568-zoo-packs.json](./129568-zoo-packs.json) |
+| Zoo Park | 9293 | [9293-zoo-park.json](./9293-zoo-park.json) |
 | Zoo Park Story | 249386 | [249386-zoo-park-story.json](./249386-zoo-park-story.json) |
 | Zoo Park Tycoon | 52301 | [52301-zoo-park-tycoon.json](./52301-zoo-park-tycoon.json) |
 | Zoo Protocol | 411359 | [411359-zoo-protocol.json](./411359-zoo-protocol.json) |
