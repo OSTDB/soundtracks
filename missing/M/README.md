@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
 | Mario Kart Wii: Awesome Edition | 313085 | [313085-mario-kart-wii-awesome-edition.json](./313085-mario-kart-wii-awesome-edition.json) |
 | Mario Kart Wii: CTGP Revolution | 145732 | [145732-mario-kart-wii-ctgp-revolution.json](./145732-mario-kart-wii-ctgp-revolution.json) |
+| Mario Kart Wiicompiled | 421526 | [421526-mario-kart-wiicompiled.json](./421526-mario-kart-wiicompiled.json) |
 | Mario Kart World | 338067 | [338067-mario-kart-world.json](./338067-mario-kart-world.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart Zero | 231822 | [231822-mario-kart-zero.json](./231822-mario-kart-zero.json) |
@@ -12679,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midair 2 | 133680 | [133680-midair-2.json](./133680-midair-2.json) |
 | Midara na Mahoutsukai to Kyuuseishu | 194482 | [194482-midara-na-mahoutsukai-to-kyuuseishu.json](./194482-midara-na-mahoutsukai-to-kyuuseishu.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
+| Midas Crutch | 421736 | [421736-midas-crutch.json](./421736-midas-crutch.json) |
 | Midas Gold Plus | 30474 | [30474-midas-gold-plus.json](./30474-midas-gold-plus.json) |
 | Midas' Odyssey | 72451 | [72451-midas-odyssey.json](./72451-midas-odyssey.json) |
 | Midautumn | 148943 | [148943-midautumn.json](./148943-midautumn.json) |
@@ -22671,6 +22673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
 | Mutable 50 | 370422 | [370422-mutable-50.json](./370422-mutable-50.json) |
 | Mutabor | 257301 | [257301-mutabor.json](./257301-mutabor.json) |
+| Mutagen | 421525 | [421525-mutagen.json](./421525-mutagen.json) |
 | Mutagen Extinction | 115080 | [115080-mutagen-extinction.json](./115080-mutagen-extinction.json) |
 | Mutagenesis | 264195 | [264195-mutagenesis.json](./264195-mutagenesis.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
