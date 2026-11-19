@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Arena | 61984 | [61984-naruto-arena.json](./61984-naruto-arena.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
+| Naruto Online | 22797 | [22797-naruto-online.json](./22797-naruto-online.json) |
 | Naruto Quick Teleport | 304953 | [304953-naruto-quick-teleport.json](./304953-naruto-quick-teleport.json) |
 | Naruto RPG 2: Chidori vs. Rasengan | 21373 | [21373-naruto-rpg-2-chidori-vs-rasengan.json](./21373-naruto-rpg-2-chidori-vs-rasengan.json) |
 | Naruto RPG: Uketsugareshi Hi no Ishi | 49751 | [49751-naruto-rpg-uketsugareshi-hi-no-ishi.json](./49751-naruto-rpg-uketsugareshi-hi-no-ishi.json) |
