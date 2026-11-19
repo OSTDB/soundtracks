@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 4.1: Mission Pack 2 - Extreme Battle | 168455 | [168455-earth-defense-force-4-1-mission-pack-2-extreme-battle.json](./168455-earth-defense-force-4-1-mission-pack-2-extreme-battle.json) |
 | Earth Defense Force 4.1: The Shadow of New Despair | 11002 | [11002-earth-defense-force-4-1-the-shadow-of-new-despair.json](./11002-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Earth Defense Force 4.1: The Shadow of New Despair - Sting Shot | 172310 | [172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json](./172310-earth-defense-force-4-1-the-shadow-of-new-despair-sting-shot.json) |
+| Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
 | Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
 | Earth Defense Force 5: Air Raider Piloted Weapon - Blacker Number 5 | 415400 | [415400-earth-defense-force-5-air-raider-piloted-weapon-blacker-number-5.json](./415400-earth-defense-force-5-air-raider-piloted-weapon-blacker-number-5.json) |
@@ -8609,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Simulator VR | 151339 | [151339-excavator-simulator-vr.json](./151339-excavator-simulator-vr.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
+| Excave II: Wizard of the Underworld | 60429 | [60429-excave-ii-wizard-of-the-underworld.json](./60429-excave-ii-wizard-of-the-underworld.json) |
 | Excave III: Tower of Destiny | 58726 | [58726-excave-iii-tower-of-destiny.json](./58726-excave-iii-tower-of-destiny.json) |
 | Exceed | 56117 | [56117-exceed.json](./56117-exceed.json) |
 | eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
