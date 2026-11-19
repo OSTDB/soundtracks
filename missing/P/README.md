@@ -5441,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
+| Persona5: The Phantom X - Swords and Roses | 427203 | [427203-persona5-the-phantom-x-swords-and-roses.json](./427203-persona5-the-phantom-x-swords-and-roses.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
 | Persona5: The Phantom X - Virtual Sweetheart | 412741 | [412741-persona5-the-phantom-x-virtual-sweetheart.json](./412741-persona5-the-phantom-x-virtual-sweetheart.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
@@ -16114,6 +16115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure Washer | 251912 | [251912-pressure-washer.json](./251912-pressure-washer.json) |
 | Pressure Within | 225215 | [225215-pressure-within.json](./225215-pressure-within.json) |
 | Pressured | 9008 | [9008-pressured.json](./9008-pressured.json) |
+| Prestar!: Precious Star's Festival | 427201 | [427201-prestar-precious-stars-festival.json](./427201-prestar-precious-stars-festival.json) |
 | Prestige Tree | 213278 | [213278-prestige-tree.json](./213278-prestige-tree.json) |
 | Prestigious Passions | 299045 | [299045-prestigious-passions.json](./299045-prestigious-passions.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
@@ -19906,6 +19908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Punchout: Music | 150903 | [150903-punchout-music.json](./150903-punchout-music.json) |
 | Punchy | 74023 | [74023-punchy.json](./74023-punchy.json) |
+| Punctual Monsters | 427199 | [427199-punctual-monsters.json](./427199-punctual-monsters.json) |
 | Pune | 295991 | [295991-pune.json](./295991-pune.json) |
 | Pung.io | 228653 | [228653-pung-io.json](./228653-pung-io.json) |
 | Pungo | 355522 | [355522-pungo.json](./355522-pungo.json) |
