@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Truck Sim Driver Simulator 26 | 394477 | [394477-garbage-truck-sim-driver-simulator-26.json](./394477-garbage-truck-sim-driver-simulator-26.json) |
 | Garbage Truck Simulator | 234414 | [234414-garbage-truck-simulator.json](./234414-garbage-truck-simulator.json) |
 | Garbage Truck Simulator | 80448 | [80448-garbage-truck-simulator.json](./80448-garbage-truck-simulator.json) |
+| Garbage Truck Simulator 2011 | 22638 | [22638-garbage-truck-simulator-2011.json](./22638-garbage-truck-simulator-2011.json) |
 | Garbage Truck: Austin, TX | 101041 | [101041-garbage-truck-austin-tx.json](./101041-garbage-truck-austin-tx.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
 | Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
@@ -4909,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Pets: Virtual Alien | 218029 | [218029-giga-pets-virtual-alien.json](./218029-giga-pets-virtual-alien.json) |
 | Giga Pudding: The Game | 328941 | [328941-giga-pudding-the-game.json](./328941-giga-pudding-the-game.json) |
 | Giga Wing 2 | 9163 | [9163-giga-wing-2.json](./9163-giga-wing-2.json) |
+| Giga Wrecker | 22752 | [22752-giga-wrecker.json](./22752-giga-wrecker.json) |
 | Giga Wrecker Alt.: Collector's Edition | 136895 | [136895-giga-wrecker-alt-collectors-edition.json](./136895-giga-wrecker-alt-collectors-edition.json) |
 | GigaBash | 136977 | [136977-gigabash.json](./136977-gigabash.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
@@ -5771,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Conflagration | 142092 | [142092-global-conflagration.json](./142092-global-conflagration.json) |
 | Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conflicts: Latin America | 54052 | [54052-global-conflicts-latin-america.json](./54052-global-conflicts-latin-america.json) |
+| Global Conflicts: Palestine | 23073 | [23073-global-conflicts-palestine.json](./23073-global-conflicts-palestine.json) |
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
@@ -5951,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory Ages - Samurais | 112650 | [112650-glory-ages-samurais.json](./112650-glory-ages-samurais.json) |
 | Glory by Example | 31640 | [31640-glory-by-example.json](./31640-glory-by-example.json) |
 | Glory Days 2 | 21230 | [21230-glory-days-2.json](./21230-glory-days-2.json) |
+| Glory Days 2: Brotherhood of Men | 23074 | [23074-glory-days-2-brotherhood-of-men.json](./23074-glory-days-2-brotherhood-of-men.json) |
 | Glory Days: Tactical Defense | 84509 | [84509-glory-days-tactical-defense.json](./84509-glory-days-tactical-defense.json) |
 | Glory Destiny Online | 85806 | [85806-glory-destiny-online.json](./85806-glory-destiny-online.json) |
 | Glory Destiny: Reborn | 340307 | [340307-glory-destiny-reborn.json](./340307-glory-destiny-reborn.json) |
@@ -10371,6 +10375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Hastings' Tournament Paintball | 5854 | [5854-greg-hastings-tournament-paintball.json](./5854-greg-hastings-tournament-paintball.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
+| Greg Norman Ultimate Challenge Golf | 22602 | [22602-greg-norman-ultimate-challenge-golf.json](./22602-greg-norman-ultimate-challenge-golf.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Shark Attack! The Ultimate Golf Simulator | 63188 | [63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json](./63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
