@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let me Paddle : Difficult Boat Paddling Game | 336827 | [336827-let-me-paddle-difficult-boat-paddling-game.json](./336827-let-me-paddle-difficult-boat-paddling-game.json) |
 | Let Me Play! | 375549 | [375549-let-me-play.json](./375549-let-me-play.json) |
 | Let Me Sleep | 301170 | [301170-let-me-sleep.json](./301170-let-me-sleep.json) |
+| Let Rat Be | 423005 | [423005-let-rat-be.json](./423005-let-rat-be.json) |
 | Let Sleeping Dogs Lie | 343920 | [343920-let-sleeping-dogs-lie.json](./343920-let-sleeping-dogs-lie.json) |
 | Let Them Breathe: Hello Mother | 292332 | [292332-let-them-breathe-hello-mother.json](./292332-let-them-breathe-hello-mother.json) |
 | Let Them Breathe: Selena's Awakening | 312151 | [312151-let-them-breathe-selenas-awakening.json](./312151-let-them-breathe-selenas-awakening.json) |
