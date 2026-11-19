@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-18T06:35:55.392Z",
-  "total_soundtracks": 3849,
+  "generated_at": "2026-11-19T00:15:56.711Z",
+  "total_soundtracks": 3850,
   "games": [
     {
       "igdb_id": 292844,
@@ -9213,6 +9213,20 @@
         {
           "album_name": "D-topia (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6UlcAXu57P7uAdejiUPKol",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21318,
+      "game_name": "D/Generation HD",
+      "game_url": "https://ostdb.net/games/d-generation-hd",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cb502af26c2b68ab708d3cf0",
+      "albums": [
+        {
+          "album_name": "D/Generation HD (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/09LVO85t7ZwmzGjUBPamtO",
           "apple_music_url": "",
           "album_link_url": ""
         }
