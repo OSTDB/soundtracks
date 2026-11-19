@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Action | 38566 | [38566-8-ball-action.json](./38566-8-ball-action.json) |
 | 8 Ball Billiards Classic | 300667 | [300667-8-ball-billiards-classic.json](./300667-8-ball-billiards-classic.json) |
 | 8 Ball by Pokerist | 377125 | [377125-8-ball-by-pokerist.json](./377125-8-ball-by-pokerist.json) |
+| 8 Ball Challenge Puzzle | 423587 | [423587-8-ball-challenge-puzzle.json](./423587-8-ball-challenge-puzzle.json) |
 | 8 Ball Clash | 194918 | [194918-8-ball-clash.json](./194918-8-ball-clash.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
 | 8 Ball Hero | 223930 | [223930-8-ball-hero.json](./223930-8-ball-hero.json) |
