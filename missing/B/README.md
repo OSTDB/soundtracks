@@ -11065,7 +11065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast | 55758 | [55758-blast.json](./55758-blast.json) |
 | Blast | 88710 | [88710-blast.json](./88710-blast.json) |
-| Blast 'Em Bunnies | 21321 | [21321-blast-em-bunnies.json](./21321-blast-em-bunnies.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
 | Blast Arena | 280039 | [280039-blast-arena.json](./280039-blast-arena.json) |
 | Blast Attack | 248962 | [248962-blast-attack.json](./248962-blast-attack.json) |
