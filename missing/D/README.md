@@ -10879,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner City | 318138 | [318138-diner-city.json](./318138-diner-city.json) |
 | Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
+| Diner Dash 5: Boom! | 86687 | [86687-diner-dash-5-boom.json](./86687-diner-dash-5-boom.json) |
 | Diner Dash Adventures | 356432 | [356432-diner-dash-adventures.json](./356432-diner-dash-adventures.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
@@ -11483,6 +11484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing Pinball | 257310 | [257310-dirt-track-racing-pinball.json](./257310-dirt-track-racing-pinball.json) |
 | Dirt Track Racing: Australia | 73507 | [73507-dirt-track-racing-australia.json](./73507-dirt-track-racing-australia.json) |
 | Dirt Track Racing: Sprint Cars | 71659 | [71659-dirt-track-racing-sprint-cars.json](./71659-dirt-track-racing-sprint-cars.json) |
+| Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirt Trackin 2 | 147781 | [147781-dirt-trackin-2.json](./147781-dirt-trackin-2.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
@@ -16277,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Special: Kunio-kun no Jidaigeki Da yo Zenin Shuugou! | 191663 | [191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json](./191663-downtown-special-kunio-kun-no-jidaigeki-da-yo-zenin-shuugou.json) |
 | Downtown Texas Hold'em Poker | 67150 | [67150-downtown-texas-holdem-poker.json](./67150-downtown-texas-holdem-poker.json) |
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
+| Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downware | 305665 | [305665-downware.json](./305665-downware.json) |
 | DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
@@ -19212,6 +19215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive a Steam Train | 65894 | [65894-drive-a-steam-train.json](./65894-drive-a-steam-train.json) |
 | Drive Ahead! | 88869 | [88869-drive-ahead.json](./88869-drive-ahead.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
+| Drive Ahead! Sports | 86797 | [86797-drive-ahead-sports.json](./86797-drive-ahead-sports.json) |
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
 | Drive and Park | 377531 | [377531-drive-and-park.json](./377531-drive-and-park.json) |
 | Drive and Unwind | 344107 | [344107-drive-and-unwind.json](./344107-drive-and-unwind.json) |
