@@ -18988,6 +18988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
 | Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
+| Moon Ghost | 425346 | [425346-moon-ghost.json](./425346-moon-ghost.json) |
 | Moon Hopper | 73067 | [73067-moon-hopper.json](./73067-moon-hopper.json) |
 | Moon Hunters | 18263 | [18263-moon-hunters.json](./18263-moon-hunters.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
@@ -24223,6 +24224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
 | My Smart Dog - Virtual Pocket Puppy | 103686 | [103686-my-smart-dog-virtual-pocket-puppy.json](./103686-my-smart-dog-virtual-pocket-puppy.json) |
 | My Smug Bully Girlfriend | 167380 | [167380-my-smug-bully-girlfriend.json](./167380-my-smug-bully-girlfriend.json) |
+| My Snake Likes Apples | 425343 | [425343-my-snake-likes-apples.json](./425343-my-snake-likes-apples.json) |
 | My So-called Future Girlfriend | 112750 | [112750-my-so-called-future-girlfriend.json](./112750-my-so-called-future-girlfriend.json) |
 | My Soldiers | 186852 | [186852-my-soldiers.json](./186852-my-soldiers.json) |
 | My Son Will Be My Boyfriend From Today. | 98011 | [98011-my-son-will-be-my-boyfriend-from-today.json](./98011-my-son-will-be-my-boyfriend-from-today.json) |
