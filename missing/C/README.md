@@ -3953,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
 | Cassette Beasts: Fashion Pack | 365834 | [365834-cassette-beasts-fashion-pack.json](./365834-cassette-beasts-fashion-pack.json) |
 | Cassette Beasts: New Wirral Edition | 339553 | [339553-cassette-beasts-new-wirral-edition.json](./339553-cassette-beasts-new-wirral-edition.json) |
+| Cassette Beasts: Pier of the Unknown | 266372 | [266372-cassette-beasts-pier-of-the-unknown.json](./266372-cassette-beasts-pier-of-the-unknown.json) |
 | Cassette Beasts: Wing Pack | 365833 | [365833-cassette-beasts-wing-pack.json](./365833-cassette-beasts-wing-pack.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassette Five | 153853 | [153853-cassette-five.json](./153853-cassette-five.json) |
@@ -7331,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
 | Chasm Shift | 385002 | [385002-chasm-shift.json](./385002-chasm-shift.json) |
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
+| Chasmal Fear | 269279 | [269279-chasmal-fear.json](./269279-chasmal-fear.json) |
 | Chaste Tris | 202615 | [202615-chaste-tris.json](./202615-chaste-tris.json) |
 | Chastity Catastrophe | 192588 | [192588-chastity-catastrophe.json](./192588-chastity-catastrophe.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
@@ -9622,6 +9624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
+| Chrome Wolf | 260043 | [260043-chrome-wolf.json](./260043-chrome-wolf.json) |
 | Chrome: SpecForce | 16147 | [16147-chrome-specforce.json](./16147-chrome-specforce.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | Chromentum | 70188 | [70188-chromentum.json](./70188-chromentum.json) |
@@ -20362,6 +20365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
+| Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
 | Croaktopia | 318084 | [318084-croaktopia.json](./318084-croaktopia.json) |
 | Croakwood | 305069 | [305069-croakwood.json](./305069-croakwood.json) |
@@ -20899,6 +20903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Delights Deli | 190120 | [190120-crown-delights-deli.json](./190120-crown-delights-deli.json) |
 | Crown Dungeon | 179627 | [179627-crown-dungeon.json](./179627-crown-dungeon.json) |
 | Crown Four Kingdoms | 124506 | [124506-crown-four-kingdoms.json](./124506-crown-four-kingdoms.json) |
+| Crown Gambit | 258015 | [258015-crown-gambit.json](./258015-crown-gambit.json) |
 | Crown Jewelz | 297103 | [297103-crown-jewelz.json](./297103-crown-jewelz.json) |
 | Crown Land | 159844 | [159844-crown-land.json](./159844-crown-land.json) |
 | Crown of Arthain | 129812 | [129812-crown-of-arthain.json](./129812-crown-of-arthain.json) |
@@ -23029,6 +23034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
 | Custom Mario Maker | 294782 | [294782-custom-mario-maker.json](./294782-custom-mario-maker.json) |
 | Custom Mate 2 | 368064 | [368064-custom-mate-2.json](./368064-custom-mate-2.json) |
+| Custom Mech Wars | 263983 | [263983-custom-mech-wars.json](./263983-custom-mech-wars.json) |
 | Custom Mech Wars: Earth Defense Force Collab Set | 280555 | [280555-custom-mech-wars-earth-defense-force-collab-set.json](./280555-custom-mech-wars-earth-defense-force-collab-set.json) |
 | Custom Mech Wars: EDF Collab Edition | 268007 | [268007-custom-mech-wars-edf-collab-edition.json](./268007-custom-mech-wars-edf-collab-edition.json) |
 | Custom Mech Wars: Omega Customization Set | 280556 | [280556-custom-mech-wars-omega-customization-set.json](./280556-custom-mech-wars-omega-customization-set.json) |
