@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam the Boulderman | 266650 | [266650-sam-the-boulderman.json](./266650-sam-the-boulderman.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
+| Sam, We Talked About This | 429051 | [429051-sam-we-talked-about-this.json](./429051-sam-we-talked-about-this.json) |
 | Sam's Journey | 116801 | [116801-sams-journey.json](./116801-sams-journey.json) |
 | Sam's Last Nightmare | 236607 | [236607-sams-last-nightmare.json](./236607-sams-last-nightmare.json) |
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Diego Zoo Presents: The Animals! | 283392 | [283392-san-diego-zoo-presents-the-animals.json](./283392-san-diego-zoo-presents-the-animals.json) |
 | San Fernando | 247672 | [247672-san-fernando.json](./247672-san-fernando.json) |
 | San Francisco | 84353 | [84353-san-francisco.json](./84353-san-francisco.json) |
+| San Francisco 40 Whiners Pack | 429044 | [429044-san-francisco-40-whiners-pack.json](./429044-san-francisco-40-whiners-pack.json) |
 | San Francisco Rush 2049 | 249133 | [249133-san-francisco-rush-2049.json](./249133-san-francisco-rush-2049.json) |
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
@@ -3205,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary and Dot | 255463 | [255463-scary-and-dot.json](./255463-scary-and-dot.json) |
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
+| Scary Baboon x SpongeBob SquarePants | 429049 | [429049-scary-baboon-x-spongebob-squarepants.json](./429049-scary-baboon-x-spongebob-squarepants.json) |
 | Scary Baboon: Bosses Update | 412689 | [412689-scary-baboon-bosses-update.json](./412689-scary-baboon-bosses-update.json) |
 | Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
@@ -10907,6 +10910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
+| Shotgun Monkey | 429032 | [429032-shotgun-monkey.json](./429032-shotgun-monkey.json) |
 | Shotgun n Zombies | 131664 | [131664-shotgun-n-zombies.json](./131664-shotgun-n-zombies.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
@@ -33093,6 +33097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffed | 140522 | [140522-stuffed.json](./140522-stuffed.json) |
 | Stuffed | 396544 | [396544-stuffed.json](./396544-stuffed.json) |
+| Stuffed: Two Foot Hero | 429030 | [429030-stuffed-two-foot-hero.json](./429030-stuffed-two-foot-hero.json) |
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
 | Stufft TD | 358604 | [358604-stufft-td.json](./358604-stufft-td.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
@@ -40976,6 +40981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordbird Song: The Iron Owl Tower | 254364 | [254364-swordbird-song-the-iron-owl-tower.json](./254364-swordbird-song-the-iron-owl-tower.json) |
 | SwordBorn | 356051 | [356051-swordborn.json](./356051-swordborn.json) |
 | SwordBounce | 101294 | [101294-swordbounce.json](./101294-swordbounce.json) |
+| SwordBoy | 429072 | [429072-swordboy.json](./429072-swordboy.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordbreaker: Origins | 119871 | [119871-swordbreaker-origins.json](./119871-swordbreaker-origins.json) |
