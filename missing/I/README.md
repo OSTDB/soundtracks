@@ -6637,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Core: Mech Survivor | 349008 | [349008-iron-core-mech-survivor.json](./349008-iron-core-mech-survivor.json) |
 | Iron Cross | 80581 | [80581-iron-cross.json](./80581-iron-cross.json) |
 | Iron Crown | 318183 | [318183-iron-crown.json](./318183-iron-crown.json) |
+| Iron Curtain Call | 427799 | [427799-iron-curtain-call.json](./427799-iron-curtain-call.json) |
 | Iron Danger | 101065 | [101065-iron-danger.json](./101065-iron-danger.json) |
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
@@ -7357,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolation | 331609 | [331609-isolation.json](./331609-isolation.json) |
+| Isolation Edge | 427757 | [427757-isolation-edge.json](./427757-isolation-edge.json) |
 | Isolation Instinct: Farming, Craft, Survival | 312980 | [312980-isolation-instinct-farming-craft-survival.json](./312980-isolation-instinct-farming-craft-survival.json) |
 | Isolation One | 274385 | [274385-isolation-one.json](./274385-isolation-one.json) |
 | Isolation Simulator | 156773 | [156773-isolation-simulator.json](./156773-isolation-simulator.json) |
