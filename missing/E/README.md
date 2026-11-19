@@ -6415,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
 | Escape That Level | 95670 | [95670-escape-that-level.json](./95670-escape-that-level.json) |
+| Escape the Abyss | 429671 | [429671-escape-the-abyss.json](./429671-escape-the-abyss.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
 | Escape the Arcade | 280087 | [280087-escape-the-arcade.json](./280087-escape-the-arcade.json) |
 | Escape the Arcana | 336713 | [336713-escape-the-arcana.json](./336713-escape-the-arcana.json) |
