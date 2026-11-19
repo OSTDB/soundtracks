@@ -14207,6 +14207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don 2: The Game | 142554 | [142554-don-2-the-game.json](./142554-don-2-the-game.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
+| Don Bradman Cricket 14 - Collector's Edition | 422379 | [422379-don-bradman-cricket-14-collectors-edition.json](./422379-don-bradman-cricket-14-collectors-edition.json) |
 | Don Bradman Cricket Jr | 424133 | [424133-don-bradman-cricket-jr.json](./424133-don-bradman-cricket-jr.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don | 39360 | [39360-don-doko-don.json](./39360-don-doko-don.json) |
