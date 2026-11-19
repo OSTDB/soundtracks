@@ -2822,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Stryker | 35504 | [35504-major-stryker.json](./35504-major-stryker.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
 | Major Title Tournament Leader | 40362 | [40362-major-title-tournament-leader.json](./40362-major-title-tournament-leader.json) |
+| Major Tom | 419550 | [419550-major-tom.json](./419550-major-tom.json) |
 | Major's Heart | 403182 | [403182-majors-heart.json](./403182-majors-heart.json) |
 | Major\Minor: Complete Edition | 32567 | [32567-major-minor-complete-edition.json](./32567-major-minor-complete-edition.json) |
 | Majora's Mask 3D Randomizer | 288700 | [288700-majoras-mask-3d-randomizer.json](./288700-majoras-mask-3d-randomizer.json) |
@@ -13269,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Migux | 138040 | [138040-migux.json](./138040-migux.json) |
 | Miharu: Alto Another Story | 403814 | [403814-miharu-alto-another-story.json](./403814-miharu-alto-another-story.json) |
 | Mihashira | 406670 | [406670-mihashira.json](./406670-mihashira.json) |
+| Mihira: The Eternal Arc | 419578 | [419578-mihira-the-eternal-arc.json](./419578-mihira-the-eternal-arc.json) |
 | Mihirha's Legacy | 226721 | [226721-mihirhas-legacy.json](./226721-mihirhas-legacy.json) |
 | Miho Adventures | 212669 | [212669-miho-adventures.json](./212669-miho-adventures.json) |
 | Mihomi Dream | 314796 | [314796-mihomi-dream.json](./314796-mihomi-dream.json) |
