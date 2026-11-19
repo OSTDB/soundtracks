@@ -965,7 +965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome | 18050 | [18050-echochrome.json](./18050-echochrome.json) |
 | Echochrome | 263007 | [263007-echochrome.json](./263007-echochrome.json) |
-| Echochrome II | 18240 | [18240-echochrome-ii.json](./18240-echochrome-ii.json) |
 | Echoed Memories | 181018 | [181018-echoed-memories.json](./181018-echoed-memories.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
@@ -2578,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elegorithm | 415738 | [415738-elegorithm.json](./415738-elegorithm.json) |
 | Elegos | 197069 | [197069-elegos.json](./197069-elegos.json) |
 | Elegy | 273740 | [273740-elegy.json](./273740-elegy.json) |
+| Elegy | 83011 | [83011-elegy.json](./83011-elegy.json) |
 | Elegy for a Dead World | 16680 | [16680-elegy-for-a-dead-world.json](./16680-elegy-for-a-dead-world.json) |
 | Elegy for Them Vigil | 315490 | [315490-elegy-for-them-vigil.json](./315490-elegy-for-them-vigil.json) |
 | Elegy of Fate | 305375 | [305375-elegy-of-fate.json](./305375-elegy-of-fate.json) |
@@ -3800,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
 | Empire of Angels: Angels' Curse | 56121 | [56121-empire-of-angels-angels-curse.json](./56121-empire-of-angels-angels-curse.json) |
+| Empire of Angels: Lace Fantasy | 83018 | [83018-empire-of-angels-lace-fantasy.json](./83018-empire-of-angels-lace-fantasy.json) |
 | Empire of Angels: Lunar Phantom | 56119 | [56119-empire-of-angels-lunar-phantom.json](./56119-empire-of-angels-lunar-phantom.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
@@ -5073,7 +5074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo | 153625 | [153625-enyo.json](./153625-enyo.json) |
-| Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion | 167511 | [167511-enypnion.json](./167511-enypnion.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
 | Enzbots | 123353 | [123353-enzbots.json](./123353-enzbots.json) |
@@ -5431,7 +5431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EPS Series Vol. 3: Come and Kiss Me - Tomomi Tsunoda | 286554 | [286554-eps-series-vol-3-come-and-kiss-me-tomomi-tsunoda.json](./286554-eps-series-vol-3-come-and-kiss-me-tomomi-tsunoda.json) |
 | EPS Series Vol. 4: Noise Reduction - Tomoa Yamamoto | 286555 | [286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json](./286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json) |
 | EPS Series Vol. 5: Believer Dreamer - Junko Mizutani | 286562 | [286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json](./286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json) |
-| Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon | 276364 | [276364-epsilon.json](./276364-epsilon.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
@@ -5660,6 +5659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ero Girl Painter | 385032 | [385032-ero-girl-painter.json](./385032-ero-girl-painter.json) |
 | Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
 | Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
+| Ero Oni | 83024 | [83024-ero-oni.json](./83024-ero-oni.json) |
 | Ero Shooter | 160181 | [160181-ero-shooter.json](./160181-ero-shooter.json) |
 | Ero Snooker | 167585 | [167585-ero-snooker.json](./167585-ero-snooker.json) |
 | Ero Tennis | 169488 | [169488-ero-tennis.json](./169488-ero-tennis.json) |
@@ -6541,7 +6541,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
 | Escape Velocity | 347404 | [347404-escape-velocity.json](./347404-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
+| Escape Velocity | 72796 | [72796-escape-velocity.json](./72796-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
+| Escape Velocity: Override | 72797 | [72797-escape-velocity-override.json](./72797-escape-velocity-override.json) |
 | Escape Virus | 91711 | [91711-escape-virus.json](./91711-escape-virus.json) |
 | Escape Void | 96245 | [96245-escape-void.json](./96245-escape-void.json) |
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
@@ -6711,7 +6713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espectro the Fighters Focus | 376030 | [376030-espectro-the-fighters-focus.json](./376030-espectro-the-fighters-focus.json) |
 | Espen I Asmo | 91881 | [91881-espen-i-asmo.json](./91881-espen-i-asmo.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
-| Esper 2 | 18396 | [18396-esper-2.json](./18396-esper-2.json) |
 | Esper Boukentai | 48506 | [48506-esper-boukentai.json](./48506-esper-boukentai.json) |
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Dream 2: Aratanaru Tatakai | 48505 | [48505-esper-dream-2-aratanaru-tatakai.json](./48505-esper-dream-2-aratanaru-tatakai.json) |
@@ -7269,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
+| Euclidea | 83010 | [83010-euclidea.json](./83010-euclidea.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclidean Crisis | 92193 | [92193-euclidean-crisis.json](./92193-euclidean-crisis.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
