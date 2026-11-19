@@ -4577,7 +4577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels | 170425 | [170425-wheels.json](./170425-wheels.json) |
 | Wheels Escape - Police Chase! | 99134 | [99134-wheels-escape-police-chase.json](./99134-wheels-escape-police-chase.json) |
 | Wheels II | 80018 | [80018-wheels-ii.json](./80018-wheels-ii.json) |
-| Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
 | Wheels of Duty | 271553 | [271553-wheels-of-duty.json](./271553-wheels-of-duty.json) |
 | Wheels of Duty: Survival Modes | 271554 | [271554-wheels-of-duty-survival-modes.json](./271554-wheels-of-duty-survival-modes.json) |
 | Wheels of Fire | 70259 | [70259-wheels-of-fire.json](./70259-wheels-of-fire.json) |
@@ -5364,6 +5363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Ward | 407040 | [407040-white-ward.json](./407040-white-ward.json) |
 | White Water | 18673 | [18673-white-water.json](./18673-white-water.json) |
 | White Water | 231557 | [231557-white-water.json](./231557-white-water.json) |
+| White Whisper | 372892 | [372892-white-whisper.json](./372892-white-whisper.json) |
 | White Wings | 126705 | [126705-white-wings.json](./126705-white-wings.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Darkside Chronicles | 243483 | [243483-white-wolf-darkside-chronicles.json](./243483-white-wolf-darkside-chronicles.json) |
@@ -6315,7 +6315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William's Wideblock | 382731 | [382731-williams-wideblock.json](./382731-williams-wideblock.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
-| Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
 | Williams Digital Arcade | 340793 | [340793-williams-digital-arcade.json](./340793-williams-digital-arcade.json) |
 | Williams Pinball | 263853 | [263853-williams-pinball.json](./263853-williams-pinball.json) |
@@ -6969,7 +6968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Voices: Episode 4 - Amethyst Rivers | 65739 | [65739-winter-voices-episode-4-amethyst-rivers.json](./65739-winter-voices-episode-4-amethyst-rivers.json) |
 | Winter Voices: Episode 5 - Overflow | 108127 | [108127-winter-voices-episode-5-overflow.json](./108127-winter-voices-episode-5-overflow.json) |
 | Winter Voices: Episode 6 - Falls | 108128 | [108128-winter-voices-episode-6-falls.json](./108128-winter-voices-episode-6-falls.json) |
-| Winter Voices: Prologue - Avalanche | 21163 | [21163-winter-voices-prologue-avalanche.json](./21163-winter-voices-prologue-avalanche.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
@@ -9801,7 +9799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War III: Black Gold | 9363 | [9363-world-war-iii-black-gold.json](./9363-world-war-iii-black-gold.json) |
 | World War Legion | 365590 | [365590-world-war-legion.json](./365590-world-war-legion.json) |
 | World War Next | 288093 | [288093-world-war-next.json](./288093-world-war-next.json) |
-| World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
 | World War One: Centennial Edition | 52113 | [52113-world-war-one-centennial-edition.json](./52113-world-war-one-centennial-edition.json) |
 | World War One: Gold Edition | 52114 | [52114-world-war-one-gold-edition.json](./52114-world-war-one-gold-edition.json) |
 | World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
@@ -10846,7 +10843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII Airplane Fight: Battle War Squad | 292928 | [292928-wwii-airplane-fight-battle-war-squad.json](./292928-wwii-airplane-fight-battle-war-squad.json) |
 | WWII Airplane Fight: Battle War Squad - Cash Injection | 317287 | [317287-wwii-airplane-fight-battle-war-squad-cash-injection.json](./317287-wwii-airplane-fight-battle-war-squad-cash-injection.json) |
 | WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
-| WWII Battle Tanks: T-34 vs. Tiger | 21292 | [21292-wwii-battle-tanks-t-34-vs-tiger.json](./21292-wwii-battle-tanks-t-34-vs-tiger.json) |
 | WWII Eiyuu Retsuden: Doro no Naka no Tora - Otto Carius | 84092 | [84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json](./84092-wwii-eiyuu-retsuden-doro-no-naka-no-tora-otto-carius.json) |
 | WWII Eiyuu Retsuden: Saikyou no Tora - Kurt Knispel | 91407 | [91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json](./91407-wwii-eiyuu-retsuden-saikyou-no-tora-kurt-knispel.json) |
 | WWII Online | 20487 | [20487-wwii-online.json](./20487-wwii-online.json) |
