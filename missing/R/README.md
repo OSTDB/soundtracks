@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters Jet | 8860 | [8860-raiden-fighters-jet.json](./8860-raiden-fighters-jet.json) |
 | Raiden Fighters Jet Remix | 394656 | [394656-raiden-fighters-jet-remix.json](./394656-raiden-fighters-jet-remix.json) |
 | Raiden Fighters Remix | 394652 | [394652-raiden-fighters-remix.json](./394652-raiden-fighters-remix.json) |
+| Raiden Fighters Remix Collection | 393026 | [393026-raiden-fighters-remix-collection.json](./393026-raiden-fighters-remix-collection.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
 | Rainbow Fuego | 158819 | [158819-rainbow-fuego.json](./158819-rainbow-fuego.json) |
+| Rainbow Gate | 388404 | [388404-rainbow-gate.json](./388404-rainbow-gate.json) |
 | Rainbow Heart Farewell | 181693 | [181693-rainbow-heart-farewell.json](./181693-rainbow-heart-farewell.json) |
 | Rainbow Heights Academy: Year 1 | 212141 | [212141-rainbow-heights-academy-year-1.json](./212141-rainbow-heights-academy-year-1.json) |
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
@@ -8285,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
 | Ride 5: Special Edition | 246022 | [246022-ride-5-special-edition.json](./246022-ride-5-special-edition.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
+| Ride 6 | 377690 | [377690-ride-6.json](./377690-ride-6.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
 | Ride Hailing Simulator | 326363 | [326363-ride-hailing-simulator.json](./326363-ride-hailing-simulator.json) |
 | Ride Kamens | 304186 | [304186-ride-kamens.json](./304186-ride-kamens.json) |
@@ -8801,6 +8804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip Connections | 314625 | [314625-rip-connections.json](./314625-rip-connections.json) |
 | Rip Cord | 39516 | [39516-rip-cord.json](./39516-rip-cord.json) |
 | Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
+| Rip It! Card Collector | 419579 | [419579-rip-it-card-collector.json](./419579-rip-it-card-collector.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
 | Rip Off | 18742 | [18742-rip-off.json](./18742-rip-off.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
@@ -9300,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritum Bitum | 147160 | [147160-ritum-bitum.json](./147160-ritum-bitum.json) |
 | Ritus Exorcismus | 343933 | [343933-ritus-exorcismus.json](./343933-ritus-exorcismus.json) |
 | Ritz | 144446 | [144446-ritz.json](./144446-ritz.json) |
+| Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Ball | 54324 | [54324-rival-ball.json](./54324-rival-ball.json) |
 | Rival Ball 2 | 54325 | [54325-rival-ball-2.json](./54325-rival-ball-2.json) |
@@ -9392,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Ransom | 376654 | [376654-river-city-ransom.json](./376654-river-city-ransom.json) |
 | River City Ransom | 6558 | [6558-river-city-ransom.json](./6558-river-city-ransom.json) |
 | River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
+| River City Saga: Journey to the West | 387579 | [387579-river-city-saga-journey-to-the-west.json](./387579-river-city-saga-journey-to-the-west.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
 | River City Super Sports Challenge: All Stars Special | 36210 | [36210-river-city-super-sports-challenge-all-stars-special.json](./36210-river-city-super-sports-challenge-all-stars-special.json) |
 | River City Survivors | 418254 | [418254-river-city-survivors.json](./418254-river-city-survivors.json) |
