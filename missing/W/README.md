@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Was | 372210 | [372210-what-was.json](./372210-what-was.json) |
 | What Was Here? 1-Minute Memory Quiz!! | 420687 | [420687-what-was-here-1-minute-memory-quiz.json](./420687-what-was-here-1-minute-memory-quiz.json) |
 | What Was Home | 374148 | [374148-what-was-home.json](./374148-what-was-home.json) |
+| What Was Lost | 422987 | [422987-what-was-lost.json](./422987-what-was-lost.json) |
 | What We Bring | 398122 | [398122-what-we-bring.json](./398122-what-we-bring.json) |
 | What We Carry | 386478 | [386478-what-we-carry.json](./386478-what-we-carry.json) |
 | What We Carry | 405565 | [405565-what-we-carry.json](./405565-what-we-carry.json) |
