@@ -4922,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | Vultures | 295079 | [295079-vultures.json](./295079-vultures.json) |
 | Vultures | 41140 | [41140-vultures.json](./41140-vultures.json) |
+| Vultures: Scavengers of Death | 261864 | [261864-vultures-scavengers-of-death.json](./261864-vultures-scavengers-of-death.json) |
 | Vump Jump | 210927 | [210927-vump-jump.json](./210927-vump-jump.json) |
 | Vuntra City | 295580 | [295580-vuntra-city.json](./295580-vuntra-city.json) |
 | Vuosterávdnjái | 223202 | [223202-vuosteravdnjai.json](./223202-vuosteravdnjai.json) |
