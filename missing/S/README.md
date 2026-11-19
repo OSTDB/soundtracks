@@ -23925,7 +23925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
 | Spectral Force | 61257 | [61257-spectral-force.json](./61257-spectral-force.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
-| Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Force Chronicle | 43414 | [43414-spectral-force-chronicle.json](./43414-spectral-force-chronicle.json) |
 | Spectral Force: Itoshiki Jaaku | 61252 | [61252-spectral-force-itoshiki-jaaku.json](./61252-spectral-force-itoshiki-jaaku.json) |
 | Spectral Force: Radical Elements | 43413 | [43413-spectral-force-radical-elements.json](./43413-spectral-force-radical-elements.json) |
@@ -37142,7 +37141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Paper Mario: The Cubeland Story | 324071 | [324071-super-paper-mario-the-cubeland-story.json](./324071-super-paper-mario-the-cubeland-story.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
-| Super Party Sports: Football | 21315 | [21315-super-party-sports-football.json](./21315-super-party-sports-football.json) |
 | Super Passport Bros | 241667 | [241667-super-passport-bros.json](./241667-super-passport-bros.json) |
 | Super Password | 217982 | [217982-super-password.json](./217982-super-password.json) |
 | Super Password | 72196 | [72196-super-password.json](./72196-super-password.json) |
