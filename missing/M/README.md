@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Waterfall Escape 2 | 315560 | [315560-magic-waterfall-escape-2.json](./315560-magic-waterfall-escape-2.json) |
 | Magic Weapon | 358310 | [358310-magic-weapon.json](./358310-magic-weapon.json) |
 | Magic Weapon | 377301 | [377301-magic-weapon.json](./377301-magic-weapon.json) |
+| Magic Wings | 417012 | [417012-magic-wings.json](./417012-magic-wings.json) |
 | Magic Witches | 280860 | [280860-magic-witches.json](./280860-magic-witches.json) |
 | Magic Wizard | 130862 | [130862-magic-wizard.json](./130862-magic-wizard.json) |
 | Magic Wolfgirl | 177703 | [177703-magic-wolfgirl.json](./177703-magic-wolfgirl.json) |
@@ -20179,6 +20180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
 | Mote: The Old Office | 393179 | [393179-mote-the-old-office.json](./393179-mote-the-old-office.json) |
 | Moteasobaretai | 91566 | [91566-moteasobaretai.json](./91566-moteasobaretai.json) |
+| Motel | 415522 | [415522-motel.json](./415522-motel.json) |
 | Motel 51: Papers, Keys & Aliens | 421009 | [421009-motel-51-papers-keys-and-aliens.json](./421009-motel-51-papers-keys-and-aliens.json) |
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
