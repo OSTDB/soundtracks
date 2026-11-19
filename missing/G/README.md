@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameShop Tycoon | 385105 | [385105-gameshop-tycoon.json](./385105-gameshop-tycoon.json) |
+| GamesMom | 422363 | [422363-gamesmom.json](./422363-gamesmom.json) |
 | Gamestar Mechanic | 56034 | [56034-gamestar-mechanic.json](./56034-gamestar-mechanic.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | Gamestonk Simulator: Gone Rogue | 326432 | [326432-gamestonk-simulator-gone-rogue.json](./326432-gamestonk-simulator-gone-rogue.json) |
@@ -5283,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Squad: Style Wars | 343536 | [343536-girls-squad-style-wars.json](./343536-girls-squad-style-wars.json) |
 | Girls Tank Battle | 165605 | [165605-girls-tank-battle.json](./165605-girls-tank-battle.json) |
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
+| Girls und Panzer: All-Star Tank Carnival | 422359 | [422359-girls-und-panzer-all-star-tank-carnival.json](./422359-girls-und-panzer-all-star-tank-carnival.json) |
 | Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls und Panzer: Dream Tank Match DX | 112413 | [112413-girls-und-panzer-dream-tank-match-dx.json](./112413-girls-und-panzer-dream-tank-match-dx.json) |
