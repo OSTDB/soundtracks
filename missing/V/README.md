@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velvet Bite: Softly, With Teeth | 125538 | [125538-velvet-bite-softly-with-teeth.json](./125538-velvet-bite-softly-with-teeth.json) |
 | Velvet Clouds | 169142 | [169142-velvet-clouds.json](./169142-velvet-clouds.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
+| Velvet Emergency | 429064 | [429064-velvet-emergency.json](./429064-velvet-emergency.json) |
 | Velvet Guard | 93771 | [93771-velvet-guard.json](./93771-velvet-guard.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
 | Velvet Shedding | 415890 | [415890-velvet-shedding.json](./415890-velvet-shedding.json) |
