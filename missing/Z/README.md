@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac XX | 136612 | [136612-zodiac-xx.json](./136612-zodiac-xx.json) |
 | Zodiac XX Leo | 305066 | [305066-zodiac-xx-leo.json](./305066-zodiac-xx-leo.json) |
 | Zodiac: Hellish Memory | 241675 | [241675-zodiac-hellish-memory.json](./241675-zodiac-hellish-memory.json) |
+| Zodiac: Orcanon Odyssey | 24604 | [24604-zodiac-orcanon-odyssey.json](./24604-zodiac-orcanon-odyssey.json) |
 | Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiack | 40000 | [40000-zodiack.json](./40000-zodiack.json) |
