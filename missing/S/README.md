@@ -8874,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
 | Shatterpoint | 234800 | [234800-shatterpoint.json](./234800-shatterpoint.json) |
 | ShatterRush | 368417 | [368417-shatterrush.json](./368417-shatterrush.json) |
+| Shattersight | 419544 | [419544-shattersight.json](./419544-shattersight.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -12186,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent World | 202481 | [202481-silent-world.json](./202481-silent-world.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
+| SilentDarkness | 419647 | [419647-silentdarkness.json](./419647-silentdarkness.json) |
 | Silenthead: Ducks hunt | 150823 | [150823-silenthead-ducks-hunt.json](./150823-silenthead-ducks-hunt.json) |
 | Silentium | 215803 | [215803-silentium.json](./215803-silentium.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
@@ -14086,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
 | Skibidi Sandbox | 321238 | [321238-skibidi-sandbox.json](./321238-skibidi-sandbox.json) |
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
+| Skibidi Stones | 419543 | [419543-skibidi-stones.json](./419543-skibidi-stones.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Attack | 264461 | [264461-skibidi-toilet-attack.json](./264461-skibidi-toilet-attack.json) |
 | Skibidi Toilet Hero | 263703 | [263703-skibidi-toilet-hero.json](./263703-skibidi-toilet-hero.json) |
