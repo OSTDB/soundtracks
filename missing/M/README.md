@@ -19679,6 +19679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphling | 184337 | [184337-morphling.json](./184337-morphling.json) |
 | Morphman | 232517 | [232517-morphman.json](./232517-morphman.json) |
 | Morpho Reverie | 415726 | [415726-morpho-reverie.json](./415726-morpho-reverie.json) |
+| Morphoklasm | 429629 | [429629-morphoklasm.json](./429629-morphoklasm.json) |
 | Morphology | 185075 | [185075-morphology.json](./185075-morphology.json) |
 | Morphopolis | 9768 | [9768-morphopolis.json](./9768-morphopolis.json) |
 | Morphos | 395345 | [395345-morphos.json](./395345-morphos.json) |
@@ -21715,6 +21716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muay Thai Fighting | 104369 | [104369-muay-thai-fighting.json](./104369-muay-thai-fighting.json) |
 | Mubble | 313393 | [313393-mubble.json](./313393-mubble.json) |
 | Mubosama | 322481 | [322481-mubosama.json](./322481-mubosama.json) |
+| Much Bigger Than My Boyfriend | 429668 | [429668-much-bigger-than-my-boyfriend.json](./429668-much-bigger-than-my-boyfriend.json) |
 | Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
