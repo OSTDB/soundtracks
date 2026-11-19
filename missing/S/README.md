@@ -10717,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkeeper Simulator | 353588 | [353588-shopkeeper-simulator.json](./353588-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
+| Shopkins Run! | 86880 | [86880-shopkins-run.json](./86880-shopkins-run.json) |
 | Shopkins World! | 89110 | [89110-shopkins-world.json](./89110-shopkins-world.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
@@ -12931,6 +12932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simplefield | 46475 | [46475-simplefield.json](./46475-simplefield.json) |
 | SimpleMMO | 145898 | [145898-simplemmo.json](./145898-simplemmo.json) |
 | SimpleMovie | 369548 | [369548-simplemovie.json](./369548-simplemovie.json) |
+| SimplePhysics | 86875 | [86875-simplephysics.json](./86875-simplephysics.json) |
 | SimplePlanes | 26473 | [26473-simpleplanes.json](./26473-simpleplanes.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
@@ -16740,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Dash 2 | 100996 | [100996-smashy-dash-2.json](./100996-smashy-dash-2.json) |
 | Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Duo | 297392 | [297392-smashy-duo.json](./297392-smashy-duo.json) |
+| Smashy Road: Arena | 86948 | [86948-smashy-road-arena.json](./86948-smashy-road-arena.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
@@ -17965,6 +17968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Park Tycoon | 68881 | [68881-snowboard-park-tycoon.json](./68881-snowboard-park-tycoon.json) |
 | Snowboard Party | 71202 | [71202-snowboard-party.json](./71202-snowboard-party.json) |
 | Snowboard Party 2 | 38716 | [38716-snowboard-party-2.json](./38716-snowboard-party-2.json) |
+| Snowboard Party Pro | 86869 | [86869-snowboard-party-pro.json](./86869-snowboard-party-pro.json) |
 | Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboard Party: Aspen | 86954 | [86954-snowboard-party-aspen.json](./86954-snowboard-party-aspen.json) |
 | Snowboard Racer 2 | 70560 | [70560-snowboard-racer-2.json](./70560-snowboard-racer-2.json) |
@@ -35984,6 +35988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jetpak DX | 141618 | [141618-super-jetpak-dx.json](./141618-super-jetpak-dx.json) |
 | Super Jewels Quest | 88550 | [88550-super-jewels-quest.json](./88550-super-jewels-quest.json) |
 | Super Jewels Quest 2 | 90358 | [90358-super-jewels-quest-2.json](./90358-super-jewels-quest-2.json) |
+| Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
 | Super Jigsaw Puzzle: Anime | 111622 | [111622-super-jigsaw-puzzle-anime.json](./111622-super-jigsaw-puzzle-anime.json) |
 | Super Jigsaw Puzzle: Anime Reloaded | 292713 | [292713-super-jigsaw-puzzle-anime-reloaded.json](./292713-super-jigsaw-puzzle-anime-reloaded.json) |
 | Super Jigsaw Puzzle: Cities | 102368 | [102368-super-jigsaw-puzzle-cities.json](./102368-super-jigsaw-puzzle-cities.json) |
@@ -37631,6 +37636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
 | Super Robot Wars T: Premium Anime Song & Sound Edition | 136690 | [136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json](./136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars V: Premium Anime Song & Sound Edition | 136655 | [136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json](./136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json) |
+| Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars X: Steelbook Edition | 167016 | [167016-super-robot-wars-x-steelbook-edition.json](./167016-super-robot-wars-x-steelbook-edition.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
@@ -39364,6 +39370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival of Runt | 392233 | [392233-survival-of-runt.json](./392233-survival-of-runt.json) |
 | Survival on a Deserted Island | 265134 | [265134-survival-on-a-deserted-island.json](./265134-survival-on-a-deserted-island.json) |
 | Survival on Amazonia | 167931 | [167931-survival-on-amazonia.json](./167931-survival-on-amazonia.json) |
+| Survival on Raft | 86804 | [86804-survival-on-raft.json](./86804-survival-on-raft.json) |
 | Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
 | Survival or die | 120585 | [120585-survival-or-die.json](./120585-survival-or-die.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
