@@ -7039,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross NP Vol. 8 | 148434 | [148434-picross-np-vol-8.json](./148434-picross-np-vol-8.json) |
 | Picross Records of The Shield Hero | 317886 | [317886-picross-records-of-the-shield-hero.json](./317886-picross-records-of-the-shield-hero.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
+| Picross S Climax | 418138 | [418138-picross-s-climax.json](./418138-picross-s-climax.json) |
 | Picross S Doraemon & F Characters Edition | 335349 | [335349-picross-s-doraemon-and-f-characters-edition.json](./335349-picross-s-doraemon-and-f-characters-edition.json) |
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
@@ -14235,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poodle Clicker | 309391 | [309391-poodle-clicker.json](./309391-poodle-clicker.json) |
 | Poodle Jump! | 368997 | [368997-poodle-jump.json](./368997-poodle-jump.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
+| Poof | 418032 | [418032-poof.json](./418032-poof.json) |
 | Poöf vs. The Cursed Kitty | 10712 | [10712-poof-vs-the-cursed-kitty.json](./10712-poof-vs-the-cursed-kitty.json) |
 | Poofie Plays God | 341563 | [341563-poofie-plays-god.json](./341563-poofie-plays-god.json) |
 | Poogaboo: La Pulga 2 | 69698 | [69698-poogaboo-la-pulga-2.json](./69698-poogaboo-la-pulga-2.json) |
@@ -17948,6 +17950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CPW | 216083 | [216083-project-cpw.json](./216083-project-cpw.json) |
 | Project Cradle | 286081 | [286081-project-cradle.json](./286081-project-cradle.json) |
 | Project Create | 172913 | [172913-project-create.json](./172913-project-create.json) |
+| Project Creatures | 418638 | [418638-project-creatures.json](./418638-project-creatures.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project Crossfire | 36769 | [36769-project-crossfire.json](./36769-project-crossfire.json) |
 | Project Crucible | 154865 | [154865-project-crucible.json](./154865-project-crucible.json) |
