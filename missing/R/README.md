@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Commander: Squad Management | 172329 | [172329-radio-commander-squad-management.json](./172329-radio-commander-squad-management.json) |
 | Radio Controlled Racer | 93155 | [93155-radio-controlled-racer.json](./93155-radio-controlled-racer.json) |
 | Radio Decay | 404937 | [404937-radio-decay.json](./404937-radio-decay.json) |
+| Radio Disturbance | 415517 | [415517-radio-disturbance.json](./415517-radio-disturbance.json) |
 | Radio Exurbia | 249439 | [249439-radio-exurbia.json](./249439-radio-exurbia.json) |
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
 | Radio Farm | 383690 | [383690-radio-farm.json](./383690-radio-farm.json) |
@@ -12032,6 +12033,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
+| Roly-Poly Cannon | 416908 | [416908-roly-poly-cannon.json](./416908-roly-poly-cannon.json) |
+| Roly-Poly Cannon 2 | 416909 | [416909-roly-poly-cannon-2.json](./416909-roly-poly-cannon-2.json) |
+| Roly-Poly Cannon 3 | 416910 | [416910-roly-poly-cannon-3.json](./416910-roly-poly-cannon-3.json) |
+| Roly-Poly Cannon: Bloody Monsters Pack | 416911 | [416911-roly-poly-cannon-bloody-monsters-pack.json](./416911-roly-poly-cannon-bloody-monsters-pack.json) |
+| Roly-Poly Cannon: Bloody Monsters Pack 2 | 416912 | [416912-roly-poly-cannon-bloody-monsters-pack-2.json](./416912-roly-poly-cannon-bloody-monsters-pack-2.json) |
 | Roly-Poly Panda: Desktop Pet | 422148 | [422148-roly-poly-panda-desktop-pet.json](./422148-roly-poly-panda-desktop-pet.json) |
 | Roly-Polys no Nanakorobi Yaoki | 123288 | [123288-roly-polys-no-nanakorobi-yaoki.json](./123288-roly-polys-no-nanakorobi-yaoki.json) |
 | Rolypolys no Sekai Daibouken | 123289 | [123289-rolypolys-no-sekai-daibouken.json](./123289-rolypolys-no-sekai-daibouken.json) |
