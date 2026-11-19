@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Regent | 58358 | [58358-madness-regent.json](./58358-madness-regent.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
+| Madness Road: Reborn | 427859 | [427859-madness-road-reborn.json](./427859-madness-road-reborn.json) |
 | Madness Robots | 155743 | [155743-madness-robots.json](./155743-madness-robots.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | Madness Survivors: A Case Gone Dark | 420334 | [420334-madness-survivors-a-case-gone-dark.json](./420334-madness-survivors-a-case-gone-dark.json) |
@@ -2086,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnus Failure | 154243 | [154243-magnus-failure.json](./154243-magnus-failure.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magnus Kingdom of Chess | 103897 | [103897-magnus-kingdom-of-chess.json](./103897-magnus-kingdom-of-chess.json) |
+| Magnus Onus | 427862 | [427862-magnus-onus.json](./427862-magnus-onus.json) |
 | Magnus Positive Phototaxis | 217094 | [217094-magnus-positive-phototaxis.json](./217094-magnus-positive-phototaxis.json) |
 | Magnus Trainer - Learn & Train Chess | 95800 | [95800-magnus-trainer-learn-and-train-chess.json](./95800-magnus-trainer-learn-and-train-chess.json) |
 | Magnus Trilogy | 297726 | [297726-magnus-trilogy.json](./297726-magnus-trilogy.json) |
@@ -2496,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
 | Maid Cafe on Electric Street | 302952 | [302952-maid-cafe-on-electric-street.json](./302952-maid-cafe-on-electric-street.json) |
 | Maid Cafe Simulator | 393665 | [393665-maid-cafe-simulator.json](./393665-maid-cafe-simulator.json) |
+| Maid Cafe Simulator: Jersey Maid Uniform (Yuki) | 427873 | [427873-maid-cafe-simulator-jersey-maid-uniform-yuki.json](./427873-maid-cafe-simulator-jersey-maid-uniform-yuki.json) |
 | Maid Cafe: Delightful Sins Comics | 265610 | [265610-maid-cafe-delightful-sins-comics.json](./265610-maid-cafe-delightful-sins-comics.json) |
 | Maid Cafe: Full Service | 204946 | [204946-maid-cafe-full-service.json](./204946-maid-cafe-full-service.json) |
 | Maid Cafe: Maid Girls Comics | 265331 | [265331-maid-cafe-maid-girls-comics.json](./265331-maid-cafe-maid-girls-comics.json) |
@@ -7566,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatballs Farm | 381281 | [381281-meatballs-farm.json](./381281-meatballs-farm.json) |
 | Meatbound | 381309 | [381309-meatbound.json](./381309-meatbound.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
+| Meateater | 427679 | [427679-meateater.json](./427679-meateater.json) |
 | Meatgrinder | 199268 | [199268-meatgrinder.json](./199268-meatgrinder.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatgun | 246804 | [246804-meatgun.json](./246804-meatgun.json) |
@@ -17016,6 +17020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moff Pac-Man | 214362 | [214362-moff-pac-man.json](./214362-moff-pac-man.json) |
 | Mofina Island | 230889 | [230889-mofina-island.json](./230889-mofina-island.json) |
 | Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
+| Moga TD | 427882 | [427882-moga-td.json](./427882-moga-td.json) |
 | Moge | 422125 | [422125-moge.json](./422125-moge.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
@@ -23510,6 +23515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend, Dysentery | 415805 | [415805-my-friend-dysentery.json](./415805-my-friend-dysentery.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
+| My Friend's Hot Mom | 427885 | [427885-my-friends-hot-mom.json](./427885-my-friends-hot-mom.json) |
 | My Friendly Little Island | 251376 | [251376-my-friendly-little-island.json](./251376-my-friendly-little-island.json) |
 | My Friendly Little Island Deluxe | 415395 | [415395-my-friendly-little-island-deluxe.json](./415395-my-friendly-little-island-deluxe.json) |
 | My Friendly Neighborhood | 172023 | [172023-my-friendly-neighborhood.json](./172023-my-friendly-neighborhood.json) |
@@ -24037,6 +24043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name is Uncle Groucho You Win a Fat Cigar | 253895 | [253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json](./253895-my-name-is-uncle-groucho-you-win-a-fat-cigar.json) |
 | My name is Uter | 210559 | [210559-my-name-is-uter.json](./210559-my-name-is-uter.json) |
 | My Name Is Velcro | 172884 | [172884-my-name-is-velcro.json](./172884-my-name-is-velcro.json) |
+| My Name Is Vincent Pogo | 427672 | [427672-my-name-is-vincent-pogo.json](./427672-my-name-is-vincent-pogo.json) |
 | My Name is You | 29296 | [29296-my-name-is-you.json](./29296-my-name-is-you.json) |
 | My Name is You and it's the only unusual thing in my life | 127707 | [127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json](./127707-my-name-is-you-and-its-the-only-unusual-thing-in-my-life.json) |
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
@@ -24067,6 +24074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Neko Waifu! | 207435 | [207435-my-neko-waifu.json](./207435-my-neko-waifu.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
+| My New Boss Is A Purple Chimpanzee | 427674 | [427674-my-new-boss-is-a-purple-chimpanzee.json](./427674-my-new-boss-is-a-purple-chimpanzee.json) |
 | My New Classmate is a Dragon?! | 261120 | [261120-my-new-classmate-is-a-dragon.json](./261120-my-new-classmate-is-a-dragon.json) |
 | My New Memories | 158825 | [158825-my-new-memories.json](./158825-my-new-memories.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
