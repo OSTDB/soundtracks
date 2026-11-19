@@ -7644,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Triumph | 151520 | [151520-revolution-triumph.json](./151520-revolution-triumph.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution X | 20298 | [20298-revolution-x.json](./20298-revolution-x.json) |
+| Revolution: 25th Anniversary Collection | 420256 | [420256-revolution-25th-anniversary-collection.json](./420256-revolution-25th-anniversary-collection.json) |
 | Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
 | Revolution: The New Cycle | 261096 | [261096-revolution-the-new-cycle.json](./261096-revolution-the-new-cycle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
@@ -8124,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
 | Ricochet | 282445 | [282445-ricochet.json](./282445-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
+| Ricochet | 420254 | [420254-ricochet.json](./420254-ricochet.json) |
 | Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
 | Ricochet Abyss | 367458 | [367458-ricochet-abyss.json](./367458-ricochet-abyss.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
