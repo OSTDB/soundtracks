@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Cat | 180160 | [180160-cake-cat.json](./180160-cake-cat.json) |
 | Cake Clicker | 183290 | [183290-cake-clicker.json](./183290-cake-clicker.json) |
+| Cake Doodle | 86884 | [86884-cake-doodle.json](./86884-cake-doodle.json) |
 | Cake Duel | 134401 | [134401-cake-duel.json](./134401-cake-duel.json) |
 | Cake Game | 274780 | [274780-cake-game.json](./274780-cake-game.json) |
 | Cake Invaders | 151611 | [151611-cake-invaders.json](./151611-cake-invaders.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Creature Premium Personalization Pack | 26066 | [26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json](./26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Day Zero Edition | 261088 | [261088-call-of-duty-advanced-warfare-day-zero-edition.json](./261088-call-of-duty-advanced-warfare-day-zero-edition.json) |
 | Call of Duty: Advanced Warfare - Digital Edition Personalization Pack | 26048 | [26048-call-of-duty-advanced-warfare-digital-edition-personalization-pack.json](./26048-call-of-duty-advanced-warfare-digital-edition-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Digital Pro Edition | 86667 | [86667-call-of-duty-advanced-warfare-digital-pro-edition.json](./86667-call-of-duty-advanced-warfare-digital-pro-edition.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - France Exoskeleton Pack | 26053 | [26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json](./26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Germany Exoskeleton Pack | 26054 | [26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json](./26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json) |
@@ -4347,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles II: Siege & Conquest | 51576 | [51576-castles-ii-siege-and-conquest.json](./51576-castles-ii-siege-and-conquest.json) |
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of Darkness | 287289 | [287289-castles-of-darkness.json](./287289-castles-of-darkness.json) |
+| Castles of Mad King Ludwig | 86920 | [86920-castles-of-mad-king-ludwig.json](./86920-castles-of-mad-king-ludwig.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles on Clouds | 284625 | [284625-castles-on-clouds.json](./284625-castles-on-clouds.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
@@ -4818,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator | 429338 | [429338-cat-simulator.json](./429338-cat-simulator.json) |
 | Cat Simulator 2 | 306469 | [306469-cat-simulator-2.json](./306469-cat-simulator-2.json) |
+| Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Simulator 3D: Pets and Friends | 87300 | [87300-cat-simulator-3d-pets-and-friends.json](./87300-cat-simulator-3d-pets-and-friends.json) |
 | Cat Simulator: Animals on Farm | 168135 | [168135-cat-simulator-animals-on-farm.json](./168135-cat-simulator-animals-on-farm.json) |
 | Cat Simulator: Kitty Conundrums | 289275 | [289275-cat-simulator-kitty-conundrums.json](./289275-cat-simulator-kitty-conundrums.json) |
@@ -8978,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
 | Choice of the Rock Star | 76113 | [76113-choice-of-the-rock-star.json](./76113-choice-of-the-rock-star.json) |
 | Choice of the Star Captain | 38726 | [38726-choice-of-the-star-captain.json](./38726-choice-of-the-star-captain.json) |
+| Choice of the Vampire | 86743 | [86743-choice-of-the-vampire.json](./86743-choice-of-the-vampire.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of the Vampire: The Fall of Memphis | 86742 | [86742-choice-of-the-vampire-the-fall-of-memphis.json](./86742-choice-of-the-vampire-the-fall-of-memphis.json) |
 | Choice of the Viking | 220000 | [220000-choice-of-the-viking.json](./220000-choice-of-the-viking.json) |
@@ -16453,6 +16458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
 | Cookie Jam | 140739 | [140739-cookie-jam.json](./140739-cookie-jam.json) |
+| Cookie Jam - Match 3 Games | 86926 | [86926-cookie-jam-match-3-games.json](./86926-cookie-jam-match-3-games.json) |
 | Cookie Jam Blast | 86780 | [86780-cookie-jam-blast.json](./86780-cookie-jam-blast.json) |
 | Cookie Jelly Match | 214092 | [214092-cookie-jelly-match.json](./214092-cookie-jelly-match.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
@@ -23131,6 +23137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Experiments | 92498 | [92498-cut-the-rope-experiments.json](./92498-cut-the-rope-experiments.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
+| Cut the Rope: Magiс Gold | 86851 | [86851-cut-the-rope-magi-gold.json](./86851-cut-the-rope-magi-gold.json) |
 | Cut the Rope: Origins | 327003 | [327003-cut-the-rope-origins.json](./327003-cut-the-rope-origins.json) |
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
 | Cut the Rope: Triple Treat | 47692 | [47692-cut-the-rope-triple-treat.json](./47692-cut-the-rope-triple-treat.json) |
