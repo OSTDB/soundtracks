@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Runner | 369712 | [369712-sad-virus-runner.json](./369712-sad-virus-runner.json) |
 | Sad Virus Shitcoin | 387494 | [387494-sad-virus-shitcoin.json](./387494-sad-virus-shitcoin.json) |
 | Sad Virus Space | 369346 | [369346-sad-virus-space.json](./369346-sad-virus-space.json) |
+| Sad Virus Tokyo | 425561 | [425561-sad-virus-tokyo.json](./425561-sad-virus-tokyo.json) |
 | Sad Virus Town | 365877 | [365877-sad-virus-town.json](./365877-sad-virus-town.json) |
 | Sad Virus Up & Up | 422064 | [422064-sad-virus-up-and-up.json](./422064-sad-virus-up-and-up.json) |
 | Sad Virus Waterland | 408021 | [408021-sad-virus-waterland.json](./408021-sad-virus-waterland.json) |
@@ -7662,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade: A Dog's Expedition | 280165 | [280165-shade-a-dogs-expedition.json](./280165-shade-a-dogs-expedition.json) |
 | Shade: The Border Collie Flycatcher | 241623 | [241623-shade-the-border-collie-flycatcher.json](./241623-shade-the-border-collie-flycatcher.json) |
 | Shade: Wrath of Angels | 6041 | [6041-shade-wrath-of-angels.json](./6041-shade-wrath-of-angels.json) |
+| Shademarch | 425576 | [425576-shademarch.json](./425576-shademarch.json) |
 | Shadereap | 376658 | [376658-shadereap.json](./376658-shadereap.json) |
 | Shaderland | 418303 | [418303-shaderland.json](./418303-shaderland.json) |
 | Shades | 230255 | [230255-shades.json](./230255-shades.json) |
@@ -14246,6 +14248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies Above the Great War | 244876 | [244876-skies-above-the-great-war.json](./244876-skies-above-the-great-war.json) |
 | Skies of Arcadia | 19007 | [19007-skies-of-arcadia.json](./19007-skies-of-arcadia.json) |
 | Skies of Arcadia Legends | 4152 | [4152-skies-of-arcadia-legends.json](./4152-skies-of-arcadia-legends.json) |
+| Skies of Arcadia Legends: Recompiled | 425574 | [425574-skies-of-arcadia-legends-recompiled.json](./425574-skies-of-arcadia-legends-recompiled.json) |
 | Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Fury DX | 80881 | [80881-skies-of-fury-dx.json](./80881-skies-of-fury-dx.json) |
@@ -16930,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
+| Smithonion Natural History Museum | 425595 | [425595-smithonion-natural-history-museum.json](./425595-smithonion-natural-history-museum.json) |
 | Smiths & Legends | 204132 | [204132-smiths-and-legends.json](./204132-smiths-and-legends.json) |
 | Smithsonian Institution: Dinosaur Museum | 73960 | [73960-smithsonian-institution-dinosaur-museum.json](./73960-smithsonian-institution-dinosaur-museum.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
@@ -18010,6 +18014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
 | Snow White: Interactive Book | 256592 | [256592-snow-white-interactive-book.json](./256592-snow-white-interactive-book.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
+| Snow Worries! | 425544 | [425544-snow-worries.json](./425544-snow-worries.json) |
 | Snow x Hime | 393701 | [393701-snow-x-hime.json](./393701-snow-x-hime.json) |
 | Snow-Swept Quest | 192548 | [192548-snow-swept-quest.json](./192548-snow-swept-quest.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
@@ -19152,6 +19157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solene's Spin Story | 349219 | [349219-solenes-spin-story.json](./349219-solenes-spin-story.json) |
 | Soletrando | 181575 | [181575-soletrando.json](./181575-soletrando.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
+| Solfall | 425532 | [425532-solfall.json](./425532-solfall.json) |
 | Solfege | 240067 | [240067-solfege.json](./240067-solfege.json) |
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | SolForge Fusion | 287619 | [287619-solforge-fusion.json](./287619-solforge-fusion.json) |
@@ -29663,6 +29669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
+| StarUniverse | 425598 | [425598-staruniverse.json](./425598-staruniverse.json) |
 | Starush | 418180 | [418180-starush.json](./418180-starush.json) |
 | Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
@@ -33002,6 +33009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Black Jack: Sex Teacher | 385227 | [385227-strip-black-jack-sex-teacher.json](./385227-strip-black-jack-sex-teacher.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Card Duel | 286451 | [286451-strip-card-duel.json](./286451-strip-card-duel.json) |
+| Strip Club Empire | 425531 | [425531-strip-club-empire.json](./425531-strip-club-empire.json) |
 | Strip Dice / Strip Concentration | 71248 | [71248-strip-dice-strip-concentration.json](./71248-strip-dice-strip-concentration.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip Fighter II | 38079 | [38079-strip-fighter-ii.json](./38079-strip-fighter-ii.json) |
@@ -37975,6 +37983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
 | Super Slime Seriously Sticky Sassy Scripted Survival Simulator | 310357 | [310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json](./310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json) |
 | Super Slime Simulator | 393172 | [393172-super-slime-simulator.json](./393172-super-slime-simulator.json) |
+| Super Slime Soccer | 425547 | [425547-super-slime-soccer.json](./425547-super-slime-soccer.json) |
 | Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slope Muncher | 267623 | [267623-super-slope-muncher.json](./267623-super-slope-muncher.json) |
