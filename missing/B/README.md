@@ -5968,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
 | Beat It! | 94833 | [94833-beat-it.json](./94833-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
+| Beat It!: Jammin' II | 418011 | [418011-beat-it-jammin-ii.json](./418011-beat-it-jammin-ii.json) |
 | Beat Legend: Avicii | 175320 | [175320-beat-legend-avicii.json](./175320-beat-legend-avicii.json) |
 | Beat Me If You Can | 156841 | [156841-beat-me-if-you-can.json](./156841-beat-me-if-you-can.json) |
 | Beat Me! | 125670 | [125670-beat-me.json](./125670-beat-me.json) |
@@ -6485,6 +6486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties' Thrilling Shots | 417872 | [417872-beauties-thrilling-shots.json](./417872-beauties-thrilling-shots.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Anime Puzzles: Rainy Days | 342337 | [342337-beautiful-anime-puzzles-rainy-days.json](./342337-beautiful-anime-puzzles-rainy-days.json) |
+| Beautiful Artificial Creatures | 417632 | [417632-beautiful-artificial-creatures.json](./417632-beautiful-artificial-creatures.json) |
 | Beautiful Blood | 299657 | [299657-beautiful-blood.json](./299657-beautiful-blood.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Cell | 371161 | [371161-beautiful-cell.json](./371161-beautiful-cell.json) |
@@ -8589,6 +8591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Sydney, Australia | 65202 | [65202-big-city-adventure-sydney-australia.json](./65202-big-city-adventure-sydney-australia.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big City Adventure: Vancouver | 65203 | [65203-big-city-adventure-vancouver.json](./65203-big-city-adventure-vancouver.json) |
+| Big City Adventure: Vancouver - Collector's Edition | 417626 | [417626-big-city-adventure-vancouver-collectors-edition.json](./417626-big-city-adventure-vancouver-collectors-edition.json) |
 | Big City Dreaming | 312042 | [312042-big-city-dreaming.json](./312042-big-city-dreaming.json) |
 | Big City Driver: Truck Parking Simulator | 317901 | [317901-big-city-driver-truck-parking-simulator.json](./317901-big-city-driver-truck-parking-simulator.json) |
 | Big City Rigs: Bus Driver | 25456 | [25456-big-city-rigs-bus-driver.json](./25456-big-city-rigs-bus-driver.json) |
@@ -12455,6 +12458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
 | Bloo Kid | 58463 | [58463-bloo-kid.json](./58463-bloo-kid.json) |
 | Bloo Kid 2 | 34985 | [34985-bloo-kid-2.json](./34985-bloo-kid-2.json) |
+| Bloo's Magic Trip | 418013 | [418013-bloos-magic-trip.json](./418013-bloos-magic-trip.json) |
 | Bloob.io | 377974 | [377974-bloob-io.json](./377974-bloob-io.json) |
 | Bloobo | 249404 | [249404-bloobo.json](./249404-bloobo.json) |
 | Bloobs Adventure Idle | 303165 | [303165-bloobs-adventure-idle.json](./303165-bloobs-adventure-idle.json) |
@@ -15788,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match 2 | 91510 | [91510-boulder-match-2.json](./91510-boulder-match-2.json) |
 | Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
+| Boulder Match 5 | 418005 | [418005-boulder-match-5.json](./418005-boulder-match-5.json) |
 | Boulder Star | 388055 | [388055-boulder-star.json](./388055-boulder-star.json) |
 | Boulderdash | 311358 | [311358-boulderdash.json](./311358-boulderdash.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
