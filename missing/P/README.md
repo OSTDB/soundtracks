@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetuum Mobile | 126063 | [126063-perpetuum-mobile.json](./126063-perpetuum-mobile.json) |
 | Perplex | 328127 | [328127-perplex.json](./328127-perplex.json) |
 | Perplex City | 71320 | [71320-perplex-city.json](./71320-perplex-city.json) |
+| Perplexicube | 424985 | [424985-perplexicube.json](./424985-perplexicube.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | Perplexity: Suburban Home | 116688 | [116688-perplexity-suburban-home.json](./116688-perplexity-suburban-home.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
@@ -20842,6 +20843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Aquarium | 169121 | [169121-puzzle-aquarium.json](./169121-puzzle-aquarium.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
+| Puzzle Arrows: The Original | 424993 | [424993-puzzle-arrows-the-original.json](./424993-puzzle-arrows-the-original.json) |
 | Puzzle Art: Artiodactyls | 191210 | [191210-puzzle-art-artiodactyls.json](./191210-puzzle-art-artiodactyls.json) |
 | Puzzle Art: Birds | 175645 | [175645-puzzle-art-birds.json](./175645-puzzle-art-birds.json) |
 | Puzzle Art: Cats | 173344 | [173344-puzzle-art-cats.json](./173344-puzzle-art-cats.json) |
