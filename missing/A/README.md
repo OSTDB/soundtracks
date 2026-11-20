@@ -5362,6 +5362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow; The Scent | 272128 | [272128-afterglow-the-scent.json](./272128-afterglow-the-scent.json) |
 | Afterglow; Twin Creeks | 272124 | [272124-afterglow-twin-creeks.json](./272124-afterglow-twin-creeks.json) |
 | Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
+| Aftergods | 422252 | [422252-aftergods.json](./422252-aftergods.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | AfterHours | 191628 | [191628-afterhours.json](./191628-afterhours.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
@@ -18614,6 +18615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Arena | 289665 | [289665-astral-arena.json](./289665-astral-arena.json) |
 | Astral Ascension | 202583 | [202583-astral-ascension.json](./202583-astral-ascension.json) |
 | Astral Ascent: Arven - The Wolf Blade | 404539 | [404539-astral-ascent-arven-the-wolf-blade.json](./404539-astral-ascent-arven-the-wolf-blade.json) |
+| Astral Ascent: Expedition 33 - For Those Who Come After | 422248 | [422248-astral-ascent-expedition-33-for-those-who-come-after.json](./422248-astral-ascent-expedition-33-for-those-who-come-after.json) |
 | Astral Ascent: Yamat - The Breach Traveler | 313217 | [313217-astral-ascent-yamat-the-breach-traveler.json](./313217-astral-ascent-yamat-the-breach-traveler.json) |
 | Astral Attack | 13806 | [13806-astral-attack.json](./13806-astral-attack.json) |
 | Astral Battlefield | 120439 | [120439-astral-battlefield.json](./120439-astral-battlefield.json) |
