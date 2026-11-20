@@ -5362,7 +5362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ottomax | 257346 | [257346-ottomax.json](./257346-ottomax.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
-| OTTTD | 10646 | [10646-otttd.json](./10646-otttd.json) |
 | OTurret | 273434 | [273434-oturret.json](./273434-oturret.json) |
 | Ou | 151666 | [151666-ou.json](./151666-ou.json) |
 | Ou Dorobou Jing: Angel Version | 228630 | [228630-ou-dorobou-jing-angel-version.json](./228630-ou-dorobou-jing-angel-version.json) |
