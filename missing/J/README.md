@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Touch The WhiteBox!!! | 262355 | [262355-just-touch-the-whitebox.json](./262355-just-touch-the-whitebox.json) |
 | Just Turn Right | 246252 | [246252-just-turn-right.json](./246252-just-turn-right.json) |
 | Just Two | 299732 | [299732-just-two.json](./299732-just-two.json) |
+| Just Until Morning | 421868 | [421868-just-until-morning.json](./421868-just-until-morning.json) |
 | Just Up: 2D Platformer | 424418 | [424418-just-up-2d-platformer.json](./424418-just-up-2d-platformer.json) |
 | Just Upstream | 197483 | [197483-just-upstream.json](./197483-just-upstream.json) |
 | Just Us | 54760 | [54760-just-us.json](./54760-just-us.json) |
