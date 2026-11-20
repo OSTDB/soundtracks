@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | PaintOut! | 150202 | [150202-paintout.json](./150202-paintout.json) |
 | PaintPool | 334754 | [334754-paintpool.json](./334754-paintpool.json) |
+| PaintScape | 425465 | [425465-paintscape.json](./425465-paintscape.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
 | Painty Balls | 135330 | [135330-painty-balls.json](./135330-painty-balls.json) |
 | Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
@@ -2228,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
 | Parade | 201198 | [201198-parade.json](./201198-parade.json) |
 | Parade!: The Rhythm Battle | 100640 | [100640-parade-the-rhythm-battle.json](./100640-parade-the-rhythm-battle.json) |
+| Paradice Run Club | 425250 | [425250-paradice-run-club.json](./425250-paradice-run-club.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
 | Paradiddler | 175110 | [175110-paradiddler.json](./175110-paradiddler.json) |
 | Paradigm | 180394 | [180394-paradigm.json](./180394-paradigm.json) |
@@ -8224,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindable Crystal Ball | 247283 | [247283-pindable-crystal-ball.json](./247283-pindable-crystal-ball.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
+| Pindemonium | 425241 | [425241-pindemonium.json](./425241-pindemonium.json) |
 | PinDrop | 310307 | [310307-pindrop.json](./310307-pindrop.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
 | Pine | 56470 | [56470-pine.json](./56470-pine.json) |
@@ -10467,6 +10470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Coaster 2: Sorcery Pack | 369234 | [369234-planet-coaster-2-sorcery-pack.json](./369234-planet-coaster-2-sorcery-pack.json) |
+| Planet Coaster 2: Spooktacular Pack | 425235 | [425235-planet-coaster-2-spooktacular-pack.json](./425235-planet-coaster-2-spooktacular-pack.json) |
 | Planet Coaster 2: Thrill-Seekers Ride Pack | 332111 | [332111-planet-coaster-2-thrill-seekers-ride-pack.json](./332111-planet-coaster-2-thrill-seekers-ride-pack.json) |
 | Planet Coaster 2: Vintage Funfair Ride Pack | 369235 | [369235-planet-coaster-2-vintage-funfair-ride-pack.json](./369235-planet-coaster-2-vintage-funfair-ride-pack.json) |
 | Planet Coaster: Adventure Pack | 76963 | [76963-planet-coaster-adventure-pack.json](./76963-planet-coaster-adventure-pack.json) |
