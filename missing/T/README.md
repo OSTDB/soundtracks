@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanasurga | 190126 | [190126-tanasurga.json](./190126-tanasurga.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
+| Tanchi Tanpen Kessakusen Watashi no Aishita Miru-ge | 424980 | [424980-tanchi-tanpen-kessakusen-watashi-no-aishita-miru-ge.json](./424980-tanchi-tanpen-kessakusen-watashi-no-aishita-miru-ge.json) |
 | TanCrush | 388652 | [388652-tancrush.json](./388652-tancrush.json) |
 | Tandem Together | 418260 | [418260-tandem-together.json](./418260-tandem-together.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
@@ -17775,6 +17776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
 | The Rake: Rust Dead Survival | 276050 | [276050-the-rake-rust-dead-survival.json](./276050-the-rake-rust-dead-survival.json) |
+| The Rake: Starter Pack | 424964 | [424964-the-rake-starter-pack.json](./424964-the-rake-starter-pack.json) |
 | The Ramen Bar | 421963 | [421963-the-ramen-bar.json](./421963-the-ramen-bar.json) |
 | The Ramen Prince | 171800 | [171800-the-ramen-prince.json](./171800-the-ramen-prince.json) |
 | The Ramen Sensei | 146944 | [146944-the-ramen-sensei.json](./146944-the-ramen-sensei.json) |
@@ -35483,6 +35485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
+| Trick or Eat | 424975 | [424975-trick-or-eat.json](./424975-trick-or-eat.json) |
 | Trick or Freak | 417216 | [417216-trick-or-freak.json](./417216-trick-or-freak.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
 | Trick or Treat | 270261 | [270261-trick-or-treat.json](./270261-trick-or-treat.json) |
