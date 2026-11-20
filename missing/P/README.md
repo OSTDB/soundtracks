@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Accelerator | 357362 | [357362-particle-accelerator.json](./357362-particle-accelerator.json) |
 | Particle Accelerator | 62063 | [62063-particle-accelerator.json](./62063-particle-accelerator.json) |
 | Particle Clicker | 405676 | [405676-particle-clicker.json](./405676-particle-clicker.json) |
+| Particle Collectotron | 423789 | [423789-particle-collectotron.json](./423789-particle-collectotron.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particle Hearts | 208570 | [208570-particle-hearts.json](./208570-particle-hearts.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
@@ -10136,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixross | 142195 | [142195-pixross.json](./142195-pixross.json) |
 | Pixross Remastered | 428739 | [428739-pixross-remastered.json](./428739-pixross-remastered.json) |
 | Pixsaw | 279112 | [279112-pixsaw.json](./279112-pixsaw.json) |
+| PixShard | 423786 | [423786-pixshard.json](./423786-pixshard.json) |
 | Pixsteps: Gamified Pedometer | 251338 | [251338-pixsteps-gamified-pedometer.json](./251338-pixsteps-gamified-pedometer.json) |
 | Pixtalgia | 242018 | [242018-pixtalgia.json](./242018-pixtalgia.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
@@ -20341,6 +20343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation | 55563 | [55563-purgation.json](./55563-purgation.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
+| Purgatorial Learning | 423793 | [423793-purgatorial-learning.json](./423793-purgatorial-learning.json) |
 | Purgatorio | 78850 | [78850-purgatorio.json](./78850-purgatorio.json) |
 | Purgatory | 145183 | [145183-purgatory.json](./145183-purgatory.json) |
 | Purgatory | 180360 | [180360-purgatory.json](./180360-purgatory.json) |
