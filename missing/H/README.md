@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HamuHamu | 321009 | [321009-hamuhamu.json](./321009-hamuhamu.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
+| HamuSoup | 425543 | [425543-hamusoup.json](./425543-hamusoup.json) |
 | Hamventure | 424296 | [424296-hamventure.json](./424296-hamventure.json) |
 | Han d'Islande | 405500 | [405500-han-dislande.json](./405500-han-dislande.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
