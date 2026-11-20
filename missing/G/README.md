@@ -9,7 +9,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G Fighter | 245150 | [245150-g-fighter.json](./245150-g-fighter.json) |
 | G for Gravity | 147038 | [147038-g-for-gravity.json](./147038-g-for-gravity.json) |
 | G Press | 394476 | [394476-g-press.json](./394476-g-press.json) |
-| G Prime | 15518 | [15518-g-prime.json](./15518-g-prime.json) |
 | G Prime into the Rain | 32201 | [32201-g-prime-into-the-rain.json](./32201-g-prime-into-the-rain.json) |
 | G Sides | 324399 | [324399-g-sides.json](./324399-g-sides.json) |
 | G Squad | 408577 | [408577-g-squad.json](./408577-g-squad.json) |
@@ -617,7 +616,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
 | Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
 | Galactic Command - Excalibur | 72835 | [72835-galactic-command-excalibur.json](./72835-galactic-command-excalibur.json) |
-| Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conflict | 200312 | [200312-galactic-conflict.json](./200312-galactic-conflict.json) |
 | Galactic Conqueror | 14894 | [14894-galactic-conqueror.json](./14894-galactic-conqueror.json) |
@@ -6788,7 +6786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
 | GOC-Streetz | 342311 | [342311-goc-streetz.json](./342311-goc-streetz.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
-| Gocco of War | 14677 | [14677-gocco-of-war.json](./14677-gocco-of-war.json) |
 | Gochachiru | 166562 | [166562-gochachiru.json](./166562-gochachiru.json) |
 | Gochi-Show! | 31730 | [31730-gochi-show.json](./31730-gochi-show.json) |
 | Gochi-Show! for Girls | 31731 | [31731-gochi-show-for-girls.json](./31731-gochi-show-for-girls.json) |
@@ -9753,7 +9750,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitrix | 365770 | [365770-gravitrix.json](./365770-gravitrix.json) |
 | Gravitrix | 41175 | [41175-gravitrix.json](./41175-gravitrix.json) |
 | Gravitron | 69925 | [69925-gravitron.json](./69925-gravitron.json) |
-| Gravitron 2 | 15963 | [15963-gravitron-2.json](./15963-gravitron-2.json) |
 | Gravitron360 | 92060 | [92060-gravitron360.json](./92060-gravitron360.json) |
 | Gravitum | 187287 | [187287-gravitum.json](./187287-gravitum.json) |
 | Gravitura | 117830 | [117830-gravitura.json](./117830-gravitura.json) |
@@ -10040,7 +10036,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battles of the American Civil War | 209776 | [209776-great-battles-of-the-american-civil-war.json](./209776-great-battles-of-the-american-civil-war.json) |
 | Great Battles of WWII: Stalingrad | 25125 | [25125-great-battles-of-wwii-stalingrad.json](./25125-great-battles-of-wwii-stalingrad.json) |
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
-| Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
 | Great Britain Limited | 72235 | [72235-great-britain-limited.json](./72235-great-britain-limited.json) |
 | Great British Railway Journeys | 131761 | [131761-great-british-railway-journeys.json](./131761-great-british-railway-journeys.json) |
@@ -11610,7 +11605,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTI Club Supermini Festa! | 50961 | [50961-gti-club-supermini-festa.json](./50961-gti-club-supermini-festa.json) |
 | GTI Club: Rally Côte d'Azur | 28392 | [28392-gti-club-rally-cote-dazur.json](./28392-gti-club-rally-cote-dazur.json) |
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
-| GTI Racing | 14804 | [14804-gti-racing.json](./14804-gti-racing.json) |
 | GTJ: Grand Theft Japan | 390088 | [390088-gtj-grand-theft-japan.json](./390088-gtj-grand-theft-japan.json) |
 | gToons | 203646 | [203646-gtoons.json](./203646-gtoons.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
@@ -11756,7 +11750,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians Of Gaia: Guardians 8 | 266321 | [266321-guardians-of-gaia-guardians-8.json](./266321-guardians-of-gaia-guardians-8.json) |
 | Guardians of Gemstones | 142057 | [142057-guardians-of-gemstones.json](./142057-guardians-of-gemstones.json) |
 | Guardians of Gold | 90223 | [90223-guardians-of-gold.json](./90223-guardians-of-gold.json) |
-| Guardians of Graxia | 16225 | [16225-guardians-of-graxia.json](./16225-guardians-of-graxia.json) |
 | Guardians of Graxia: Elves & Dwarves | 170320 | [170320-guardians-of-graxia-elves-and-dwarves.json](./170320-guardians-of-graxia-elves-and-dwarves.json) |
 | Guardians of Greenheart | 172867 | [172867-guardians-of-greenheart.json](./172867-guardians-of-greenheart.json) |
 | Guardians of Greyrock | 151034 | [151034-guardians-of-greyrock.json](./151034-guardians-of-greyrock.json) |
