@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Aventuras de Chocu: El Videojuego | 151387 | [151387-las-aventuras-de-chocu-el-videojuego.json](./151387-las-aventuras-de-chocu-el-videojuego.json) |
 | Las Aventuras de Frank el Enano | 317098 | [317098-las-aventuras-de-frank-el-enano.json](./317098-las-aventuras-de-frank-el-enano.json) |
 | Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
+| Las Aventuras de Ulises | 426760 | [426760-las-aventuras-de-ulises.json](./426760-las-aventuras-de-ulises.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last One Standing | 278748 | [278748-last-one-standing.json](./278748-last-one-standing.json) |
+| Last One Standing Academy | 426764 | [426764-last-one-standing-academy.json](./426764-last-one-standing-academy.json) |
 | Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
 | Last Ops | 149155 | [149155-last-ops.json](./149155-last-ops.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
