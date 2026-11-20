@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Shadow Army | 116769 | [116769-undead-shadow-army.json](./116769-undead-shadow-army.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
+| Undead Storm Nightmare | 85461 | [85461-undead-storm-nightmare.json](./85461-undead-storm-nightmare.json) |
 | Undead Syndrome Episode 1 | 152019 | [152019-undead-syndrome-episode-1.json](./152019-undead-syndrome-episode-1.json) |
 | Undead Syndrome Episode 2 | 152020 | [152020-undead-syndrome-episode-2.json](./152020-undead-syndrome-episode-2.json) |
 | Undead Tide: Light's Defense | 396186 | [396186-undead-tide-lights-defense.json](./396186-undead-tide-lights-defense.json) |
