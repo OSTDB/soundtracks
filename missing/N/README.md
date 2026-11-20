@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niara: Rebellion of the King Visual Novel RPG | 118648 | [118648-niara-rebellion-of-the-king-visual-novel-rpg.json](./118648-niara-rebellion-of-the-king-visual-novel-rpg.json) |
 | Niatang | 249643 | [249643-niatang.json](./249643-niatang.json) |
 | Nib, the Pen is Mightier AS a Sword | 141011 | [141011-nib-the-pen-is-mightier-as-a-sword.json](./141011-nib-the-pen-is-mightier-as-a-sword.json) |
+| Nib's Signal | 421304 | [421304-nibs-signal.json](./421304-nibs-signal.json) |
 | Nibansen | 283539 | [283539-nibansen.json](./283539-nibansen.json) |
 | Nibansen Plus | 295470 | [295470-nibansen-plus.json](./295470-nibansen-plus.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
@@ -6208,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NintenDoku | 410709 | [410709-nintendoku.json](./410709-nintendoku.json) |
 | Nintengogo 11 | 89849 | [89849-nintengogo-11.json](./89849-nintengogo-11.json) |
 | Nintengogo 13 Hex | 89850 | [89850-nintengogo-13-hex.json](./89850-nintengogo-13-hex.json) |
+| Ninth Circle | 421307 | [421307-ninth-circle.json](./421307-ninth-circle.json) |
 | Ninth Day Memorial | 318721 | [318721-ninth-day-memorial.json](./318721-ninth-day-memorial.json) |
 | Ninth Hotel | 328189 | [328189-ninth-hotel.json](./328189-ninth-hotel.json) |
 | Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
@@ -8367,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR'd By Clumsiness | 236205 | [236205-ntrd-by-clumsiness.json](./236205-ntrd-by-clumsiness.json) |
 | Ntraholic | 345788 | [345788-ntraholic.json](./345788-ntraholic.json) |
 | NTRed Class Rep Yukino: H Days of Class Rep Who Can't Say No | 83173 | [83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json](./83173-ntred-class-rep-yukino-h-days-of-class-rep-who-cant-say-no.json) |
+| Ntrex | 421360 | [421360-ntrex.json](./421360-ntrex.json) |
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
