@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Mania 2 | 15045 | [15045-cake-mania-2.json](./15045-cake-mania-2.json) |
 | Cake Mania 3 | 15046 | [15046-cake-mania-3.json](./15046-cake-mania-3.json) |
 | Cake Mania: Back to the Bakery | 15044 | [15044-cake-mania-back-to-the-bakery.json](./15044-cake-mania-back-to-the-bakery.json) |
+| Cake Mania: In the Mix | 24297 | [24297-cake-mania-in-the-mix.json](./24297-cake-mania-in-the-mix.json) |
 | Cake Mania: Lights, Camera, Action! | 15047 | [15047-cake-mania-lights-camera-action.json](./15047-cake-mania-lights-camera-action.json) |
 | Cake Mania: To the Max! | 15048 | [15048-cake-mania-to-the-max.json](./15048-cake-mania-to-the-max.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
@@ -9749,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
 | Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
+| Chronicles of Mystery: The Tree of Life | 24354 | [24354-chronicles-of-mystery-the-tree-of-life.json](./24354-chronicles-of-mystery-the-tree-of-life.json) |
 | Chronicles of Omniluxia | 393668 | [393668-chronicles-of-omniluxia.json](./393668-chronicles-of-omniluxia.json) |
 | Chronicles of Osgorth: The Shattered Alliance | 18744 | [18744-chronicles-of-osgorth-the-shattered-alliance.json](./18744-chronicles-of-osgorth-the-shattered-alliance.json) |
 | Chronicles of Prozis | 423339 | [423339-chronicles-of-prozis.json](./423339-chronicles-of-prozis.json) |
@@ -18528,6 +18530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackdown | 2896 | [2896-crackdown.json](./2896-crackdown.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
 | Crackdown 2: Premium Deluge Pack | 309145 | [309145-crackdown-2-premium-deluge-pack.json](./309145-crackdown-2-premium-deluge-pack.json) |
+| Crackdown 2: Premium Toy Box Pack | 24363 | [24363-crackdown-2-premium-toy-box-pack.json](./24363-crackdown-2-premium-toy-box-pack.json) |
 | Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
 | Cracké Rush Endless Run & Fun | 232254 | [232254-cracke-rush-endless-run-and-fun.json](./232254-cracke-rush-endless-run-and-fun.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
@@ -19454,6 +19457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 1.5: More Gizmos, Gadgets, & Whatchamacallits | 72241 | [72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json](./72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines 2 | 9803 | [9803-crazy-machines-2.json](./9803-crazy-machines-2.json) |
+| Crazy Machines 2 Anniversary | 24319 | [24319-crazy-machines-2-anniversary.json](./24319-crazy-machines-2-anniversary.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
 | Crazy Machines 2: Back to the Shop Add-On | 164373 | [164373-crazy-machines-2-back-to-the-shop-add-on.json](./164373-crazy-machines-2-back-to-the-shop-add-on.json) |
 | Crazy Machines 2: Halloween | 164368 | [164368-crazy-machines-2-halloween.json](./164368-crazy-machines-2-halloween.json) |
@@ -23469,6 +23473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Citizen Shockman | 249236 | [249236-cyber-citizen-shockman.json](./249236-cyber-citizen-shockman.json) |
 | Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
+| Cyber City 2157 | 24535 | [24535-cyber-city-2157.json](./24535-cyber-city-2157.json) |
 | Cyber City 2157: The Visual Novel | 33214 | [33214-cyber-city-2157-the-visual-novel.json](./33214-cyber-city-2157-the-visual-novel.json) |
 | Cyber City Clash | 207604 | [207604-cyber-city-clash.json](./207604-cyber-city-clash.json) |
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
