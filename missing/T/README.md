@@ -2180,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Mechanic Simulator: Shermans DLC | 387695 | [387695-tank-mechanic-simulator-shermans-dlc.json](./387695-tank-mechanic-simulator-shermans-dlc.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank Odyssey | 414550 | [414550-tank-odyssey.json](./414550-tank-odyssey.json) |
+| Tank of the Fittest | 420226 | [420226-tank-of-the-fittest.json](./420226-tank-of-the-fittest.json) |
 | Tank Of The Kayra | 279912 | [279912-tank-of-the-kayra.json](./279912-tank-of-the-kayra.json) |
 | Tank of War-VR | 81051 | [81051-tank-of-war-vr.json](./81051-tank-of-war-vr.json) |
 | Tank Off | 137554 | [137554-tank-off.json](./137554-tank-off.json) |
@@ -5084,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra7 | 335180 | [335180-terra7.json](./335180-terra7.json) |
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
+| Terracian Trails: Profit Playground | 420232 | [420232-terracian-trails-profit-playground.json](./420232-terracian-trails-profit-playground.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terracity | 271960 | [271960-terracity.json](./271960-terracity.json) |
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
@@ -15652,6 +15654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
+| The Master Detective's Eye: Memorize the Scene in 60 Seconds! Case Files from the Streets of 18th-Century London | 420729 | [420729-the-master-detectives-eye-memorize-the-scene-in-60-seconds-case-files-from-the-streets-of-18th-century-london.json](./420729-the-master-detectives-eye-memorize-the-scene-in-60-seconds-case-files-from-the-streets-of-18th-century-london.json) |
 | The Master of Puzzles | 236654 | [236654-the-master-of-puzzles.json](./236654-the-master-of-puzzles.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
 | The Master's Domain | 268623 | [268623-the-masters-domain.json](./268623-the-masters-domain.json) |
@@ -18138,6 +18141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Room | 220561 | [220561-the-room.json](./220561-the-room.json) |
 | The Room | 8468 | [8468-the-room.json](./8468-the-room.json) |
 | The Room 4: Old Sins | 27725 | [27725-the-room-4-old-sins.json](./27725-the-room-4-old-sins.json) |
+| The Room Bundle | 420703 | [420703-the-room-bundle.json](./420703-the-room-bundle.json) |
 | The Room Collection | 351251 | [351251-the-room-collection.json](./351251-the-room-collection.json) |
 | The Room in a Glass Box | 339934 | [339934-the-room-in-a-glass-box.json](./339934-the-room-in-a-glass-box.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
@@ -23748,6 +23752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Helix | 211162 | [211162-thunder-helix.json](./211162-thunder-helix.json) |
 | Thunder Heroes | 39932 | [39932-thunder-heroes.json](./39932-thunder-heroes.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
+| Thunder Hoop Collection | 420704 | [420704-thunder-hoop-collection.json](./420704-thunder-hoop-collection.json) |
 | Thunder in Paradise | 20529 | [20529-thunder-in-paradise.json](./20529-thunder-in-paradise.json) |
 | Thunder in Paradise | 214890 | [214890-thunder-in-paradise.json](./214890-thunder-in-paradise.json) |
 | Thunder in Paradise Interactive | 72244 | [72244-thunder-in-paradise-interactive.json](./72244-thunder-in-paradise-interactive.json) |
