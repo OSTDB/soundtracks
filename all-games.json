@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T07:05:59.148Z",
-  "total_soundtracks": 3868,
+  "generated_at": "2026-11-20T07:25:56.010Z",
+  "total_soundtracks": 3869,
   "games": [
     {
       "igdb_id": 292844,
@@ -17033,6 +17033,20 @@
         {
           "album_name": "GOD EATER 3 ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/2f2DWVR0yOHotIUg1WvyKC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 12514,
+      "game_name": "GoD Factory: Wingmen",
+      "game_url": "https://ostdb.net/games/god-factory-wingmen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d8b9f1f2682d838a64abfe93",
+      "albums": [
+        {
+          "album_name": "God Factory: Wingmen (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7d7zqQeGTmCMZ07Su9BH7X",
           "apple_music_url": "",
           "album_link_url": ""
         }
