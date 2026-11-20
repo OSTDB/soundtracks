@@ -11142,6 +11142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreman for Real | 370893 | [370893-foreman-for-real.json](./370893-foreman-for-real.json) |
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic EduSim | 428766 | [428766-forensic-edusim.json](./428766-forensic-edusim.json) |
+| Forensic Mystery: Crime Scene Tap Detective | 420718 | [420718-forensic-mystery-crime-scene-tap-detective.json](./420718-forensic-mystery-crime-scene-tap-detective.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensic: M.E. Protocol | 398451 | [398451-forensic-m-e-protocol.json](./398451-forensic-m-e-protocol.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
