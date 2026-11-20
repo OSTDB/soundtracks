@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
 | Idol Janshi Suchi-Pai III Remix | 98808 | [98808-idol-janshi-suchi-pai-iii-remix.json](./98808-idol-janshi-suchi-pai-iii-remix.json) |
 | Idol Janshi Suchie-Pai II | 92136 | [92136-idol-janshi-suchie-pai-ii.json](./92136-idol-janshi-suchie-pai-ii.json) |
+| Idol Janshi Suchie-Pai II Limited | 419505 | [419505-idol-janshi-suchie-pai-ii-limited.json](./419505-idol-janshi-suchie-pai-ii-limited.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
 | Idol Janshi Suchie-Pai IV | 92135 | [92135-idol-janshi-suchie-pai-iv.json](./92135-idol-janshi-suchie-pai-iv.json) |
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
