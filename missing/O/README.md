@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observers | 116691 | [116691-observers.json](./116691-observers.json) |
 | Observo | 203661 | [203661-observo.json](./203661-observo.json) |
 | ObserVRtarium | 40854 | [40854-observrtarium.json](./40854-observrtarium.json) |
+| Obsessed | 422559 | [422559-obsessed.json](./422559-obsessed.json) |
 | Obsessed With The Streets | 310292 | [310292-obsessed-with-the-streets.json](./310292-obsessed-with-the-streets.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
@@ -2037,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous | 366583 | [366583-ominous.json](./366583-ominous.json) |
+| Ominous Bequest | 422507 | [422507-ominous-bequest.json](./422507-ominous-bequest.json) |
 | Ominous Gift | 384252 | [384252-ominous-gift.json](./384252-ominous-gift.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
 | Ominous Neighbor | 95869 | [95869-ominous-neighbor.json](./95869-ominous-neighbor.json) |
