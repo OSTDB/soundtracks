@@ -1267,7 +1267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogopogo | 351546 | [351546-ogopogo.json](./351546-ogopogo.json) |
 | Ogora | 323936 | [323936-ogora.json](./323936-ogora.json) |
 | Ograidet | 261073 | [261073-ograidet.json](./261073-ograidet.json) |
-| Ogre | 14783 | [14783-ogre.json](./14783-ogre.json) |
 | Ogre | 54713 | [54713-ogre.json](./54713-ogre.json) |
 | Ogre Battle 64: Person of Lordly Caliber | 3568 | [3568-ogre-battle-64-person-of-lordly-caliber.json](./3568-ogre-battle-64-person-of-lordly-caliber.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
@@ -2771,7 +2770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
 | One Must Fall: 2097 | 14429 | [14429-one-must-fall-2097.json](./14429-one-must-fall-2097.json) |
-| One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
 | One Must Rule | 422443 | [422443-one-must-rule.json](./422443-one-must-rule.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
@@ -4512,7 +4510,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs Must Die! 2 | 8372 | [8372-orcs-must-die-2.json](./8372-orcs-must-die-2.json) |
 | Orcs Must Die! 2: Are We There Yeti? | 14537 | [14537-orcs-must-die-2-are-we-there-yeti.json](./14537-orcs-must-die-2-are-we-there-yeti.json) |
 | Orcs Must Die! 2: Family Ties Booster Pack | 14538 | [14538-orcs-must-die-2-family-ties-booster-pack.json](./14538-orcs-must-die-2-family-ties-booster-pack.json) |
-| Orcs Must Die! 2: Fire and Water Booster Pack | 14539 | [14539-orcs-must-die-2-fire-and-water-booster-pack.json](./14539-orcs-must-die-2-fire-and-water-booster-pack.json) |
 | Orcs Must Die! 3 | 121754 | [121754-orcs-must-die-3.json](./121754-orcs-must-die-3.json) |
 | Orcs Must Die! 3 Bundle | 196681 | [196681-orcs-must-die-3-bundle.json](./196681-orcs-must-die-3-bundle.json) |
 | Orcs Must Die! 3: Cold as Eyes | 193225 | [193225-orcs-must-die-3-cold-as-eyes.json](./193225-orcs-must-die-3-cold-as-eyes.json) |
