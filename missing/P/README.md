@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchouli: A Little War in Bland-Old Library | 250511 | [250511-patchouli-a-little-war-in-bland-old-library.json](./250511-patchouli-a-little-war-in-bland-old-library.json) |
 | Patchouli's Adventure In Doll's House | 293707 | [293707-patchoulis-adventure-in-dolls-house.json](./293707-patchoulis-adventure-in-dolls-house.json) |
 | Patchwork | 138056 | [138056-patchwork.json](./138056-patchwork.json) |
+| Patchwork | 31295 | [31295-patchwork.json](./31295-patchwork.json) |
 | Patchwork Beast | 247932 | [247932-patchwork-beast.json](./247932-patchwork-beast.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
@@ -5038,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perestroika Drive | 426523 | [426523-perestroika-drive.json](./426523-perestroika-drive.json) |
 | Pereulok: The Series | 72402 | [72402-pereulok-the-series.json](./72402-pereulok-the-series.json) |
 | Perfect | 120049 | [120049-perfect.json](./120049-perfect.json) |
+| Perfect | 30958 | [30958-perfect.json](./30958-perfect.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
 | Perfect Affection Plan: Cassiopeia | 168612 | [168612-perfect-affection-plan-cassiopeia.json](./168612-perfect-affection-plan-cassiopeia.json) |
@@ -17194,6 +17196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Backgammon | 97484 | [97484-pro-backgammon.json](./97484-pro-backgammon.json) |
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
 | Pro Basketball Manager 2016: US Edition | 34160 | [34160-pro-basketball-manager-2016-us-edition.json](./34160-pro-basketball-manager-2016-us-edition.json) |
+| Pro Basketball Manager 2017 | 30926 | [30926-pro-basketball-manager-2017.json](./30926-pro-basketball-manager-2017.json) |
 | Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2021 | 140694 | [140694-pro-basketball-manager-2021.json](./140694-pro-basketball-manager-2021.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
@@ -19232,6 +19235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Blade Zero | 17644 | [17644-proxy-blade-zero.json](./17644-proxy-blade-zero.json) |
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
 | Proxy Training Corp | 371178 | [371178-proxy-training-corp.json](./371178-proxy-training-corp.json) |
+| Proxy: Ultimate Hacker | 31260 | [31260-proxy-ultimate-hacker.json](./31260-proxy-ultimate-hacker.json) |
 | Proxyah | 121170 | [121170-proxyah.json](./121170-proxyah.json) |
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
 | Proyecto Flamingo X1 | 132878 | [132878-proyecto-flamingo-x1.json](./132878-proyecto-flamingo-x1.json) |
