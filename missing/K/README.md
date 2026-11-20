@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaptain Brawe: A Brawe New World | 10480 | [10480-kaptain-brawe-a-brawe-new-world.json](./10480-kaptain-brawe-a-brawe-new-world.json) |
 | Kaptajn Kaper | 112044 | [112044-kaptajn-kaper.json](./112044-kaptajn-kaper.json) |
 | Kaptein Sabeltann og Skatten i Lama Rama | 114623 | [114623-kaptein-sabeltann-og-skatten-i-lama-rama.json](./114623-kaptein-sabeltann-og-skatten-i-lama-rama.json) |
+| Kaput | 423782 | [423782-kaput.json](./423782-kaput.json) |
 | Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
 | Kar Racing | 209845 | [209845-kar-racing.json](./209845-kar-racing.json) |
 | Kara | 405836 | [405836-kara.json](./405836-kara.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Fish | 142189 | [142189-kill-fish.json](./142189-kill-fish.json) |
 | Kill Fun Yeah | 11173 | [11173-kill-fun-yeah.json](./11173-kill-fun-yeah.json) |
 | Kill H1N1 | 394208 | [394208-kill-h1n1.json](./394208-kill-h1n1.json) |
+| Kill Him | 423796 | [423796-kill-him.json](./423796-kill-him.json) |
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
@@ -5644,6 +5646,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kobal | 274132 | [274132-kobal.json](./274132-kobal.json) |
 | Kobal 2 | 274133 | [274133-kobal-2.json](./274133-kobal-2.json) |
 | Kobayakawa-san is a Souls-like | 413066 | [413066-kobayakawa-san-is-a-souls-like.json](./413066-kobayakawa-san-is-a-souls-like.json) |
+| Kobayakawa-san Is a Soulslike 5 | 423764 | [423764-kobayakawa-san-is-a-soulslike-5.json](./423764-kobayakawa-san-is-a-soulslike-5.json) |
+| Kobayakawa-san Is a Soulslike: Big | 423765 | [423765-kobayakawa-san-is-a-soulslike-big.json](./423765-kobayakawa-san-is-a-soulslike-big.json) |
 | Kobayashi Clash of Conquest | 397932 | [397932-kobayashi-clash-of-conquest.json](./397932-kobayashi-clash-of-conquest.json) |
 | Kobayashi ga Kawai Sugite Tsurai!! Game Demo Kyun Moe Max ga Tomaranai | 202610 | [202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json](./202610-kobayashi-ga-kawai-sugite-tsurai-game-demo-kyun-moe-max-ga-tomaranai.json) |
 | Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
