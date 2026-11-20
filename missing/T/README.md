@@ -5301,7 +5301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorform | 215806 | [215806-terrorform.json](./215806-terrorform.json) |
 | Terrorformer TD | 288958 | [288958-terrorformer-td.json](./288958-terrorformer-td.json) |
-| Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
 | Terrorhythm | 76315 | [76315-terrorhythm.json](./76315-terrorhythm.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Elimination | 74949 | [74949-terrorist-elimination.json](./74949-terrorist-elimination.json) |
@@ -9865,7 +9864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeon Vendor | 243497 | [243497-the-dungeon-vendor.json](./243497-the-dungeon-vendor.json) |
 | The Dungeon: Dungeon Awaits | 290023 | [290023-the-dungeon-dungeon-awaits.json](./290023-the-dungeon-dungeon-awaits.json) |
-| The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
 | The Dungeons Of Algoduul | 303922 | [303922-the-dungeons-of-algoduul.json](./303922-the-dungeons-of-algoduul.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
 | The Dungeons of Grimlor | 171792 | [171792-the-dungeons-of-grimlor.json](./171792-the-dungeons-of-grimlor.json) |
@@ -17441,7 +17439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Promise of Forever | 323991 | [323991-the-promise-of-forever.json](./323991-the-promise-of-forever.json) |
 | The Promise of Forever 2 | 323992 | [323992-the-promise-of-forever-2.json](./323992-the-promise-of-forever-2.json) |
 | The Promise Tree of Alden | 383447 | [383447-the-promise-tree-of-alden.json](./383447-the-promise-tree-of-alden.json) |
-| The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Propahverse Trilogy: Episode I | 185289 | [185289-the-propahverse-trilogy-episode-i.json](./185289-the-propahverse-trilogy-episode-i.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
@@ -22202,7 +22199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of Pain | 316792 | [316792-theatre-of-pain.json](./316792-theatre-of-pain.json) |
 | Theatre of Shadows: As You Wish | 416233 | [416233-theatre-of-shadows-as-you-wish.json](./416233-theatre-of-shadows-as-you-wish.json) |
 | Theatre of Sorrows | 186706 | [186706-theatre-of-sorrows.json](./186706-theatre-of-sorrows.json) |
-| Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
 | Theatre of War | 166632 | [166632-theatre-of-war.json](./166632-theatre-of-war.json) |
 | Theatre of War | 9857 | [9857-theatre-of-war.json](./9857-theatre-of-war.json) |
