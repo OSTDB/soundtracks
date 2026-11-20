@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facing the Rain | 324718 | [324718-facing-the-rain.json](./324718-facing-the-rain.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facist | 61515 | [61515-facist.json](./61515-facist.json) |
+| Facrobry | 423104 | [423104-facrobry.json](./423104-facrobry.json) |
 | Fact Attack | 420192 | [420192-fact-attack.json](./420192-fact-attack.json) |
 | Facteroids | 173306 | [173306-facteroids.json](./173306-facteroids.json) |
 | Faction Reticent | 366125 | [366125-faction-reticent.json](./366125-faction-reticent.json) |
