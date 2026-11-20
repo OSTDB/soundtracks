@@ -18474,6 +18474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp | 122195 | [122195-monster-prom-2-monster-camp.json](./122195-monster-prom-2-monster-camp.json) |
 | Monster Prom 2: Monster Camp - Monster Camp Outfit Pack | 262755 | [262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json](./262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json) |
+| Monster Prom 2: Monster Camp Outfit Pack - Sci-Fi | 430583 | [430583-monster-prom-2-monster-camp-outfit-pack-sci-fi.json](./430583-monster-prom-2-monster-camp-outfit-pack-sci-fi.json) |
 | Monster Prom 2: Monster Camp Outfit Pack - Thirst and Sensibility | 230815 | [230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json](./230815-monster-prom-2-monster-camp-outfit-pack-thirst-and-sensibility.json) |
 | Monster Prom 2: Monster Camp XXL | 187866 | [187866-monster-prom-2-monster-camp-xxl.json](./187866-monster-prom-2-monster-camp-xxl.json) |
 | Monster Prom 2: Monster Camp XXL Character Pack - Colorful Campers | 283183 | [283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json](./283183-monster-prom-2-monster-camp-xxl-character-pack-colorful-campers.json) |
