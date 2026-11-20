@@ -4562,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenimore Fillmore's Revenge | 27491 | [27491-fenimore-fillmores-revenge.json](./27491-fenimore-fillmores-revenge.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
+| Fenix | 429173 | [429173-fenix.json](./429173-fenix.json) |
 | Fenix Box | 81925 | [81925-fenix-box.json](./81925-fenix-box.json) |
 | Fenix Rage | 17295 | [17295-fenix-rage.json](./17295-fenix-rage.json) |
 | Fenrir Banquet | 359136 | [359136-fenrir-banquet.json](./359136-fenrir-banquet.json) |
@@ -5606,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
+| Fina Estampa | 429125 | [429125-fina-estampa.json](./429125-fina-estampa.json) |
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Alone in the Dark | 276361 | [276361-final-alone-in-the-dark.json](./276361-final-alone-in-the-dark.json) |
@@ -7650,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
 | Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
+| Fishing Nooks: Beaver's Pond | 429149 | [429149-fishing-nooks-beavers-pond.json](./429149-fishing-nooks-beavers-pond.json) |
 | Fishing on the Fly | 98620 | [98620-fishing-on-the-fly.json](./98620-fishing-on-the-fly.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
