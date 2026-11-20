@@ -5612,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Celeb? | 233071 | [233071-whos-the-celeb.json](./233071-whos-the-celeb.json) |
 | Who’s the Fairest of Them All | 177779 | [177779-who-s-the-fairest-of-them-all.json](./177779-who-s-the-fairest-of-them-all.json) |
+| Who's the Spy | 423155 | [423155-whos-the-spy.json](./423155-whos-the-spy.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's There | 318664 | [318664-whos-there.json](./318664-whos-there.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
@@ -7915,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizzerd Quest | 287687 | [287687-wizzerd-quest.json](./287687-wizzerd-quest.json) |
 | Wizzerd Quest 2 | 296455 | [296455-wizzerd-quest-2.json](./296455-wizzerd-quest-2.json) |
 | Wizzo PopOut | 348824 | [348824-wizzo-popout.json](./348824-wizzo-popout.json) |
+| Wizzy the Wood | 423182 | [423182-wizzy-the-wood.json](./423182-wizzy-the-wood.json) |
 | WJMax | 233848 | [233848-wjmax.json](./233848-wjmax.json) |
 | WKSP Rumble | 156880 | [156880-wksp-rumble.json](./156880-wksp-rumble.json) |
 | Władcy Ciemności | 85961 | [85961-w-adcy-ciemnosci.json](./85961-w-adcy-ciemnosci.json) |
