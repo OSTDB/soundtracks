@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layup Legends | 321885 | [321885-layup-legends.json](./321885-layup-legends.json) |
 | LAZ3RZ | 208514 | [208514-laz3rz.json](./208514-laz3rz.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
+| Lazare's Sacrifice | 422249 | [422249-lazares-sacrifice.json](./422249-lazares-sacrifice.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Pony Town Adventures | 316925 | [316925-little-pony-town-adventures.json](./316925-little-pony-town-adventures.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
+| Little Prince Tyger | 422258 | [422258-little-prince-tyger.json](./422258-little-prince-tyger.json) |
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
 | Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Problems | 272792 | [272792-little-problems.json](./272792-little-problems.json) |
@@ -8882,6 +8884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Cyberdemons | 263364 | [263364-lord-of-the-cyberdemons.json](./263364-lord-of-the-cyberdemons.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Dungeon | 283013 | [283013-lord-of-the-dungeon.json](./283013-lord-of-the-dungeon.json) |
+| Lord of the Grind | 422610 | [422610-lord-of-the-grind.json](./422610-lord-of-the-grind.json) |
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
 | Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
 | Lord of the Mall (Lord of Them All!) | 184253 | [184253-lord-of-the-mall-lord-of-them-all.json](./184253-lord-of-the-mall-lord-of-them-all.json) |
