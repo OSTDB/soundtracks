@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
 | Aery: Flow of Time | 260480 | [260480-aery-flow-of-time.json](./260480-aery-flow-of-time.json) |
+| Aery: Four Seasons | 421876 | [421876-aery-four-seasons.json](./421876-aery-four-seasons.json) |
 | Aery: Heaven & Hell | 219706 | [219706-aery-heaven-and-hell.json](./219706-aery-heaven-and-hell.json) |
 | Aery: Last Day of Earth | 199560 | [199560-aery-last-day-of-earth.json](./199560-aery-last-day-of-earth.json) |
 | Aery: Little Bird Adventure | 173928 | [173928-aery-little-bird-adventure.json](./173928-aery-little-bird-adventure.json) |
@@ -21384,6 +21385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axolotl is Dry | 197964 | [197964-axolotl-is-dry.json](./197964-axolotl-is-dry.json) |
 | Axolotl Kingdom | 245940 | [245940-axolotl-kingdom.json](./245940-axolotl-kingdom.json) |
 | Axolotl Museum | 179320 | [179320-axolotl-museum.json](./179320-axolotl-museum.json) |
+| Axolotl Rangefighters | 421903 | [421903-axolotl-rangefighters.json](./421903-axolotl-rangefighters.json) |
 | Axolotl Stars | 197683 | [197683-axolotl-stars.json](./197683-axolotl-stars.json) |
 | Axolotl Swim | 389113 | [389113-axolotl-swim.json](./389113-axolotl-swim.json) |
 | Axom: Conquest | 333357 | [333357-axom-conquest.json](./333357-axom-conquest.json) |
