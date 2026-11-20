@@ -6084,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masteroid | 124232 | [124232-masteroid.json](./124232-masteroid.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
+| Masterpiece Malpractice | 425568 | [425568-masterpiece-malpractice.json](./425568-masterpiece-malpractice.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
 | Masterpieced | 231543 | [231543-masterpieced.json](./231543-masterpieced.json) |
 | MasterPlan | 150888 | [150888-masterplan.json](./150888-masterplan.json) |
@@ -22494,6 +22495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushbits | 278593 | [278593-mushbits.json](./278593-mushbits.json) |
 | Mushi | 390313 | [390313-mushi.json](./390313-mushi.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
+| Mushi Kegare | 425521 | [425521-mushi-kegare.json](./425521-mushi-kegare.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
 | Mushi Mansion | 389826 | [389826-mushi-mansion.json](./389826-mushi-mansion.json) |
 | Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
