@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underside: The Lift | 347945 | [347945-underside-the-lift.json](./347945-underside-the-lift.json) |
 | Underspace | 120577 | [120577-underspace.json](./120577-underspace.json) |
 | Understand | 154873 | [154873-understand.json](./154873-understand.json) |
+| Understander | 423174 | [423174-understander.json](./423174-understander.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understanding, the Game | 155758 | [155758-understanding-the-game.json](./155758-understanding-the-game.json) |
 | Understar | 423669 | [423669-understar.json](./423669-understar.json) |
@@ -3167,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseen | 372383 | [372383-unseen.json](./372383-unseen.json) |
 | Unseen | 380736 | [380736-unseen.json](./380736-unseen.json) |
 | UnSeen | 380737 | [380737-unseen.json](./380737-unseen.json) |
+| Unseen Beings | 423145 | [423145-unseen-beings.json](./423145-unseen-beings.json) |
 | Unseen Diplomacy 2 | 347836 | [347836-unseen-diplomacy-2.json](./347836-unseen-diplomacy-2.json) |
 | Unseen Land: Into the Mist | 373054 | [373054-unseen-land-into-the-mist.json](./373054-unseen-land-into-the-mist.json) |
 | Unseen World: Magical Lense | 384290 | [384290-unseen-world-magical-lense.json](./384290-unseen-world-magical-lense.json) |
