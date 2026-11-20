@@ -8266,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Secrets | 177137 | [177137-five-secrets.json](./177137-five-secrets.json) |
 | Five Shifts at Zlata's | 385280 | [385280-five-shifts-at-zlatas.json](./385280-five-shifts-at-zlatas.json) |
 | Five Shows at Wario's | 145343 | [145343-five-shows-at-warios.json](./145343-five-shows-at-warios.json) |
+| Five Signals | 426796 | [426796-five-signals.json](./426796-five-signals.json) |
 | Five Sonic Rings Bundle | 210301 | [210301-five-sonic-rings-bundle.json](./210301-five-sonic-rings-bundle.json) |
 | Five Stages | 128429 | [128429-five-stages.json](./128429-five-stages.json) |
 | Five Stages of Pink | 195366 | [195366-five-stages-of-pink.json](./195366-five-stages-of-pink.json) |
@@ -9506,6 +9507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
 | Floppy Pipe | 184712 | [184712-floppy-pipe.json](./184712-floppy-pipe.json) |
 | Floppy Turd | 233402 | [233402-floppy-turd.json](./233402-floppy-turd.json) |
+| FloppyScryption | 426733 | [426733-floppyscryption.json](./426733-floppyscryption.json) |
 | Flora | 364685 | [364685-flora.json](./364685-flora.json) |
 | Flora | 80956 | [80956-flora.json](./80956-flora.json) |
 | Flora & Fang: Guardians of the vampire garden | 286347 | [286347-flora-and-fang-guardians-of-the-vampire-garden.json](./286347-flora-and-fang-guardians-of-the-vampire-garden.json) |
