@@ -10726,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WW1 Game Series Bundle | 218465 | [218465-ww1-game-series-bundle.json](./218465-ww1-game-series-bundle.json) |
 | WW2 Air Force Commander | 2396 | [2396-ww2-air-force-commander.json](./2396-ww2-air-force-commander.json) |
 | WW2 Rebuilder | 158156 | [158156-ww2-rebuilder.json](./158156-ww2-rebuilder.json) |
+| WW2 Rebuilder: Remagen and Caen | 413267 | [413267-ww2-rebuilder-remagen-and-caen.json](./413267-ww2-rebuilder-remagen-and-caen.json) |
 | WW2 Z Range VR | 119712 | [119712-ww2-z-range-vr.json](./119712-ww2-z-range-vr.json) |
 | WW2 Zone War: Cold Warzone Ops | 269098 | [269098-ww2-zone-war-cold-warzone-ops.json](./269098-ww2-zone-war-cold-warzone-ops.json) |
 | WW2: Bunker Simulator | 123889 | [123889-ww2-bunker-simulator.json](./123889-ww2-bunker-simulator.json) |
