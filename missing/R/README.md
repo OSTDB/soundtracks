@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:bound | 229012 | [229012-re-bound.json](./229012-re-bound.json) |
 | Re:Bounding | 107668 | [107668-re-bounding.json](./107668-re-bounding.json) |
 | Re:Burn The Bonfire of Taiwan | 369448 | [369448-re-burn-the-bonfire-of-taiwan.json](./369448-re-burn-the-bonfire-of-taiwan.json) |
+| Re:Calibur | 417627 | [417627-re-calibur.json](./417627-re-calibur.json) |
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Cento | 291657 | [291657-re-cento.json](./291657-re-cento.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: The Cursed Mark - Collector's Edition | 355604 | [355604-redemption-cemetery-the-cursed-mark-collectors-edition.json](./355604-redemption-cemetery-the-cursed-mark-collectors-edition.json) |
 | Redemption Cemetery: The Island of the Lost | 101668 | [101668-redemption-cemetery-the-island-of-the-lost.json](./101668-redemption-cemetery-the-island-of-the-lost.json) |
 | Redemption Cemetery: The Island of the Lost - Collector's Edition | 36493 | [36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json](./36493-redemption-cemetery-the-island-of-the-lost-collectors-edition.json) |
+| Redemption Cemetery: The Stolen Time | 417624 | [417624-redemption-cemetery-the-stolen-time.json](./417624-redemption-cemetery-the-stolen-time.json) |
 | Redemption Cemetery: The Stolen Time - Collector's Edition | 201144 | [201144-redemption-cemetery-the-stolen-time-collectors-edition.json](./201144-redemption-cemetery-the-stolen-time-collectors-edition.json) |
 | Redemption of Liuyin | 333635 | [333635-redemption-of-liuyin.json](./333635-redemption-of-liuyin.json) |
 | Redemption of the Cat Demon Girl | 275545 | [275545-redemption-of-the-cat-demon-girl.json](./275545-redemption-of-the-cat-demon-girl.json) |
@@ -5865,6 +5867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
 | Renaissance Heroes | 65087 | [65087-renaissance-heroes.json](./65087-renaissance-heroes.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
+| Renaissance Kingdoms | 417656 | [417656-renaissance-kingdoms.json](./417656-renaissance-kingdoms.json) |
 | Renal Summer | 135429 | [135429-renal-summer.json](./135429-renal-summer.json) |
 | Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
 | Renard's Skin Care Routine | 378901 | [378901-renards-skin-care-routine.json](./378901-renards-skin-care-routine.json) |
@@ -9912,6 +9915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbing the Princess | 326034 | [326034-robbing-the-princess.json](./326034-robbing-the-princess.json) |
 | Robbing Time | 350778 | [350778-robbing-time.json](./350778-robbing-time.json) |
 | Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
+| Robbo | 418006 | [418006-robbo.json](./418006-robbo.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbo Millennium | 400081 | [400081-robbo-millennium.json](./400081-robbo-millennium.json) |
 | Robbotto | 106804 | [106804-robbotto.json](./106804-robbotto.json) |
