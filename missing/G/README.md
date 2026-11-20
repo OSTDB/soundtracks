@@ -2053,7 +2053,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Country | 260303 | [260303-garbage-country.json](./260303-garbage-country.json) |
 | Garbage Crew! | 179426 | [179426-garbage-crew.json](./179426-garbage-crew.json) |
-| Garbage Day | 11785 | [11785-garbage-day.json](./11785-garbage-day.json) |
 | Garbage Driver Truck Simulator 2025 | 319789 | [319789-garbage-driver-truck-simulator-2025.json](./319789-garbage-driver-truck-simulator-2025.json) |
 | Garbage Girl Louise | 316183 | [316183-garbage-girl-louise.json](./316183-garbage-girl-louise.json) |
 | Garbage Growth | 409319 | [409319-garbage-growth.json](./409319-garbage-growth.json) |
@@ -3940,7 +3939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
 | Get Down | 313527 | [313527-get-down.json](./313527-get-down.json) |
 | Get Dumped | 233677 | [233677-get-dumped.json](./233677-get-dumped.json) |
-| Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
 | Get Fit: Beach Girls | 409520 | [409520-get-fit-beach-girls.json](./409520-get-fit-beach-girls.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
 | Get Fit: Furry Edition | 413944 | [413944-get-fit-furry-edition.json](./413944-get-fit-furry-edition.json) |
@@ -4968,7 +4966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigycube | 165203 | [165203-gigycube.json](./165203-gigycube.json) |
 | Gil's Lucid Dreams | 56688 | [56688-gils-lucid-dreams.json](./56688-gils-lucid-dreams.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
-| Gilbert Goodmate and the Mushroom of Phungoria | 12431 | [12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json](./12431-gilbert-goodmate-and-the-mushroom-of-phungoria.json) |
 | Gilbert: Escape from Drill | 69159 | [69159-gilbert-escape-from-drill.json](./69159-gilbert-escape-from-drill.json) |
 | Gilded | 81768 | [81768-gilded.json](./81768-gilded.json) |
 | Gilded Desert | 421742 | [421742-gilded-desert.json](./421742-gilded-desert.json) |
@@ -5206,7 +5203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend Guide | 275466 | [275466-girlfriend-guide.json](./275466-girlfriend-guide.json) |
 | Girlfriend Invites | 368690 | [368690-girlfriend-invites.json](./368690-girlfriend-invites.json) |
 | Girlfriend Note | 58812 | [58812-girlfriend-note.json](./58812-girlfriend-note.json) |
-| Girlfriend Rescue | 10364 | [10364-girlfriend-rescue.json](./10364-girlfriend-rescue.json) |
 | Girlfriend Simulator | 369284 | [369284-girlfriend-simulator.json](./369284-girlfriend-simulator.json) |
 | Girlfriend Simulator | 379587 | [379587-girlfriend-simulator.json](./379587-girlfriend-simulator.json) |
 | Girlfriend Strip Blackjack | 392400 | [392400-girlfriend-strip-blackjack.json](./392400-girlfriend-strip-blackjack.json) |
@@ -6044,7 +6040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowface in Love | 315944 | [315944-glowface-in-love.json](./315944-glowface-in-love.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
-| Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
@@ -6603,7 +6598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOATier.io | 414528 | [414528-goatier-io.json](./414528-goatier-io.json) |
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
-| Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 214834 | [214834-gob.json](./214834-gob.json) |
@@ -7047,7 +7041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods & Glory | 114739 | [114739-gods-and-glory.json](./114739-gods-and-glory.json) |
 | Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods & Heroes | 13858 | [13858-gods-and-heroes.json](./13858-gods-and-heroes.json) |
-| Gods & Heroes: Rome Rising | 10368 | [10368-gods-and-heroes-rome-rising.json](./10368-gods-and-heroes-rome-rising.json) |
 | Gods Against Machines | 240703 | [240703-gods-against-machines.json](./240703-gods-against-machines.json) |
 | Gods and Generals | 73662 | [73662-gods-and-generals.json](./73662-gods-and-generals.json) |
 | Gods and Kings | 113290 | [113290-gods-and-kings.json](./113290-gods-and-kings.json) |
@@ -9756,7 +9749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraviTV | 187291 | [187291-gravitv.json](./187291-gravitv.json) |
 | Gravitwist | 277443 | [277443-gravitwist.json](./277443-gravitwist.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
-| Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
 | Gravity | 169531 | [169531-gravity.json](./169531-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
@@ -9807,7 +9799,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Control | 292778 | [292778-gravity-control.json](./292778-gravity-control.json) |
 | Gravity Core | 128900 | [128900-gravity-core.json](./128900-gravity-core.json) |
 | Gravity Core - Braintwisting Space Odyssey | 35141 | [35141-gravity-core-braintwisting-space-odyssey.json](./35141-gravity-core-braintwisting-space-odyssey.json) |
-| Gravity Crash | 13173 | [13173-gravity-crash.json](./13173-gravity-crash.json) |
 | Gravity Crash Portable | 257323 | [257323-gravity-crash-portable.json](./257323-gravity-crash-portable.json) |
 | Gravity Crash Portable | 42845 | [42845-gravity-crash-portable.json](./42845-gravity-crash-portable.json) |
 | Gravity Crash Ultra | 52223 | [52223-gravity-crash-ultra.json](./52223-gravity-crash-ultra.json) |
