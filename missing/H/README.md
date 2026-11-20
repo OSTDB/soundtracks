@@ -10598,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Shit | 202726 | [202726-holy-shit.json](./202726-holy-shit.json) |
 | Holy Shoot | 292514 | [292514-holy-shoot.json](./292514-holy-shoot.json) |
 | Holy Shot | 325271 | [325271-holy-shot.json](./325271-holy-shot.json) |
+| Holy Shroom! | 419529 | [419529-holy-shroom.json](./419529-holy-shroom.json) |
 | Holy Sisters | 369831 | [369831-holy-sisters.json](./369831-holy-sisters.json) |
 | Holy SIsters 3D | 369661 | [369661-holy-sisters-3d.json](./369661-holy-sisters-3d.json) |
 | Holy Stick! | 157037 | [157037-holy-stick.json](./157037-holy-stick.json) |
