@@ -37231,7 +37231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Adventure | 274969 | [274969-tunnel-adventure.json](./274969-tunnel-adventure.json) |
 | Tunnel Assault | 298627 | [298627-tunnel-assault.json](./298627-tunnel-assault.json) |
-| Tunnel B1 | 12900 | [12900-tunnel-b1.json](./12900-tunnel-b1.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
 | Tunnel Bird | 143979 | [143979-tunnel-bird.json](./143979-tunnel-bird.json) |
 | Tunnel Blast | 142568 | [142568-tunnel-blast.json](./142568-tunnel-blast.json) |
