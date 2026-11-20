@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undying Lantern | 197131 | [197131-undying-lantern.json](./197131-undying-lantern.json) |
 | Undying Memoir | 270646 | [270646-undying-memoir.json](./270646-undying-memoir.json) |
 | Undying One | 390250 | [390250-undying-one.json](./390250-undying-one.json) |
+| Undying Soul | 423795 | [423795-undying-soul.json](./423795-undying-soul.json) |
 | Undying Symphony | 163194 | [163194-undying-symphony.json](./163194-undying-symphony.json) |
 | Undying West | 389226 | [389226-undying-west.json](./389226-undying-west.json) |
 | Undying: Halloween 2023 Free DLC | 274656 | [274656-undying-halloween-2023-free-dlc.json](./274656-undying-halloween-2023-free-dlc.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseal | 404472 | [404472-unseal.json](./404472-unseal.json) |
 | Unsealed: The Mare | 384922 | [384922-unsealed-the-mare.json](./384922-unsealed-the-mare.json) |
 | Unsealed: Vigil | 414948 | [414948-unsealed-vigil.json](./414948-unsealed-vigil.json) |
+| Unseam | 423791 | [423791-unseam.json](./423791-unseam.json) |
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen | 165918 | [165918-unseen.json](./165918-unseen.json) |
 | Unseen | 328940 | [328940-unseen.json](./328940-unseen.json) |
