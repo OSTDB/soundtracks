@@ -2335,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
 | Paradox | 179775 | [179775-paradox.json](./179775-paradox.json) |
 | Paradox | 195842 | [195842-paradox.json](./195842-paradox.json) |
+| Paradox | 423712 | [423712-paradox.json](./423712-paradox.json) |
 | Paradox Boxing | 422478 | [422478-paradox-boxing.json](./422478-paradox-boxing.json) |
 | Paradox Error | 152161 | [152161-paradox-error.json](./152161-paradox-error.json) |
 | Paradox Escape Route | 125732 | [125732-paradox-escape-route.json](./125732-paradox-escape-route.json) |
@@ -2966,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partia | 233924 | [233924-partia.json](./233924-partia.json) |
 | Partia 2 | 197994 | [197994-partia-2.json](./197994-partia-2.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
+| Partial | 423739 | [423739-partial.json](./423739-partial.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Partially Realio: Bittersweet 16 | 405983 | [405983-partially-realio-bittersweet-16.json](./405983-partially-realio-bittersweet-16.json) |
 | Partical City Guardians | 32245 | [32245-partical-city-guardians.json](./32245-partical-city-guardians.json) |
@@ -8537,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dream | 265012 | [265012-pipe-dream.json](./265012-pipe-dream.json) |
 | Pipe Dream | 265014 | [265014-pipe-dream.json](./265014-pipe-dream.json) |
 | Pipe Dream | 37212 | [37212-pipe-dream.json](./37212-pipe-dream.json) |
+| Pipe Dream | 423698 | [423698-pipe-dream.json](./423698-pipe-dream.json) |
 | Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Dreams 3D | 43752 | [43752-pipe-dreams-3d.json](./43752-pipe-dreams-3d.json) |
@@ -10270,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PizzaPanic | 296306 | [296306-pizzapanic.json](./296306-pizzapanic.json) |
 | Pizzapocalypse | 307230 | [307230-pizzapocalypse.json](./307230-pizzapocalypse.json) |
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
+| Pizzapoly | 423547 | [423547-pizzapoly.json](./423547-pizzapoly.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
 | Pizzaro Project Deep Dish | 133319 | [133319-pizzaro-project-deep-dish.json](./133319-pizzaro-project-deep-dish.json) |
 | PizzaStore | 232594 | [232594-pizzastore.json](./232594-pizzastore.json) |
@@ -11227,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdle | 272477 | [272477-playdle.json](./272477-playdle.json) |
 | Playdoku | 360810 | [360810-playdoku.json](./360810-playdoku.json) |
 | PlayDoom | 307488 | [307488-playdoom.json](./307488-playdoom.json) |
+| Playedroom | 423706 | [423706-playedroom.json](./423706-playedroom.json) |
 | PlayEnglish | 269501 | [269501-playenglish.json](./269501-playenglish.json) |
 | Player 2 | 128774 | [128774-player-2.json](./128774-player-2.json) |
 | Player 22 by Rezzil | 174557 | [174557-player-22-by-rezzil.json](./174557-player-22-by-rezzil.json) |
@@ -12192,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogoman | 195833 | [195833-pogoman.json](./195833-pogoman.json) |
 | Pogoman | 362315 | [362315-pogoman.json](./362315-pogoman.json) |
 | Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
+| Pogona | 423684 | [423684-pogona.json](./423684-pogona.json) |
 | Pogopa | 406855 | [406855-pogopa.json](./406855-pogopa.json) |
 | Pogoppl | 236749 | [236749-pogoppl.json](./236749-pogoppl.json) |
 | Pogostick | 144741 | [144741-pogostick.json](./144741-pogostick.json) |
