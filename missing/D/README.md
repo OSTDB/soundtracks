@@ -2069,7 +2069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Reflection | 121970 | [121970-dark-reflection.json](./121970-dark-reflection.json) |
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
-| Dark Reign 2 | 11390 | [11390-dark-reign-2.json](./11390-dark-reign-2.json) |
 | Dark Reign: The Future of War | 659 | [659-dark-reign-the-future-of-war.json](./659-dark-reign-the-future-of-war.json) |
 | Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Reign: The Future of War - Rise of the Shadowhand | 658 | [658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json](./658-dark-reign-the-future-of-war-rise-of-the-shadowhand.json) |
@@ -2910,7 +2909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
 | Data Garden | 272773 | [272773-data-garden.json](./272773-data-garden.json) |
 | Data Hacker Initiation | 10167 | [10167-data-hacker-initiation.json](./10167-data-hacker-initiation.json) |
-| Data Hacker: Reboot | 10168 | [10168-data-hacker-reboot.json](./10168-data-hacker-reboot.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
 | Data Loss | 134684 | [134684-data-loss.json](./134684-data-loss.json) |
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
@@ -3903,7 +3901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Beyond | 372736 | [372736-dead-beyond.json](./372736-dead-beyond.json) |
 | Dead Bit | 390072 | [390072-dead-bit.json](./390072-dead-bit.json) |
 | Dead Bits | 8429 | [8429-dead-bits.json](./8429-dead-bits.json) |
-| Dead Block | 10170 | [10170-dead-block.json](./10170-dead-block.json) |
 | Dead Blood | 176653 | [176653-dead-blood.json](./176653-dead-blood.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
@@ -6680,7 +6677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Wancotte | 386079 | [386079-defense-of-wancotte.json](./386079-defense-of-wancotte.json) |
 | Defense Protocol | 273597 | [273597-defense-protocol.json](./273597-defense-protocol.json) |
 | Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
-| Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
 | Defense War: Destiny Child | 143856 | [143856-defense-war-destiny-child.json](./143856-defense-war-destiny-child.json) |
 | Defense Warfare | 76387 | [76387-defense-warfare.json](./76387-defense-warfare.json) |
@@ -6737,7 +6733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector: Specimen One | 193602 | [193602-deflector-specimen-one.json](./193602-deflector-specimen-one.json) |
 | Deflector: Specimen Zero | 189925 | [189925-deflector-specimen-zero.json](./189925-deflector-specimen-zero.json) |
 | Deflectorium | 293860 | [293860-deflectorium.json](./293860-deflectorium.json) |
-| Deflektor | 12042 | [12042-deflektor.json](./12042-deflektor.json) |
 | Deflex | 315721 | [315721-deflex.json](./315721-deflex.json) |
 | Deflex | 315723 | [315723-deflex.json](./315723-deflex.json) |
 | Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
@@ -7723,7 +7718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Den'ei Shoujo: Virtual Girl Lum | 197819 | [197819-denei-shoujo-virtual-girl-lum.json](./197819-denei-shoujo-virtual-girl-lum.json) |
 | DeNapsed | 400661 | [400661-denapsed.json](./400661-denapsed.json) |
 | Denari | 157372 | [157372-denari.json](./157372-denari.json) |
-| Denaris | 12047 | [12047-denaris.json](./12047-denaris.json) |
 | Denarius | 52752 | [52752-denarius.json](./52752-denarius.json) |
 | Denarius Avaricius Sextus | 85730 | [85730-denarius-avaricius-sextus.json](./85730-denarius-avaricius-sextus.json) |
 | Denbora | 326067 | [326067-denbora.json](./326067-denbora.json) |
@@ -9474,7 +9468,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevilReversi | 339517 | [339517-devilreversi.json](./339517-devilreversi.json) |
 | Devilry | 34936 | [34936-devilry.json](./34936-devilry.json) |
 | Devils 'n Dragons Arcade | 208208 | [208208-devils-n-dragons-arcade.json](./208208-devils-n-dragons-arcade.json) |
-| Devils & Demons | 13170 | [13170-devils-and-demons.json](./13170-devils-and-demons.json) |
 | Devils Adventure | 313652 | [313652-devils-adventure.json](./313652-devils-adventure.json) |
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Canyon: A Dinamation Adventure | 209102 | [209102-devils-canyon-a-dinamation-adventure.json](./209102-devils-canyon-a-dinamation-adventure.json) |
@@ -10501,7 +10494,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
 | Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
 | Digging Town | 364219 | [364219-digging-town.json](./364219-digging-town.json) |
-| Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
 | Diggs Nightcrawler | 65071 | [65071-diggs-nightcrawler.json](./65071-diggs-nightcrawler.json) |
 | Diggy | 179271 | [179271-diggy.json](./179271-diggy.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
@@ -11960,7 +11952,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disillusioned | 401040 | [401040-disillusioned.json](./401040-disillusioned.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
-| Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disinfection | 196214 | [196214-disinfection.json](./196214-disinfection.json) |
 | Disinherited | 297953 | [297953-disinherited.json](./297953-disinherited.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
@@ -12547,7 +12538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Shores | 313841 | [313841-distant-shores.json](./313841-distant-shores.json) |
 | Distant Space | 30060 | [30060-distant-space.json](./30060-distant-space.json) |
 | Distant Space 2 | 75007 | [75007-distant-space-2.json](./75007-distant-space-2.json) |
-| Distant Star: Revenant Fleet | 10186 | [10186-distant-star-revenant-fleet.json](./10186-distant-star-revenant-fleet.json) |
 | Distant Sun | 235420 | [235420-distant-sun.json](./235420-distant-sun.json) |
 | Distant Sunlight, Endless Regrets | 362338 | [362338-distant-sunlight-endless-regrets.json](./362338-distant-sunlight-endless-regrets.json) |
 | Distant Trails | 392119 | [392119-distant-trails.json](./392119-distant-trails.json) |
@@ -19247,7 +19237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
 | Drip | 262711 | [262711-drip.json](./262711-drip.json) |
 | Drip | 68147 | [68147-drip.json](./68147-drip.json) |
-| Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Drip Drop | 191997 | [191997-drip-drop.json](./191997-drip-drop.json) |
 | Drip Feed | 262178 | [262178-drip-feed.json](./262178-drip-feed.json) |
@@ -20619,7 +20608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
-| Dun Darach | 12578 | [12578-dun-darach.json](./12578-dun-darach.json) |
 | Dun Dun Crawl | 364470 | [364470-dun-dun-crawl.json](./364470-dun-dun-crawl.json) |
 | Dunamis 15 | 6974 | [6974-dunamis-15.json](./6974-dunamis-15.json) |
 | Dunar: Dimension Two | 244441 | [244441-dunar-dimension-two.json](./244441-dunar-dimension-two.json) |
@@ -21207,7 +21195,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Siege II: Broken World | 9275 | [9275-dungeon-siege-ii-broken-world.json](./9275-dungeon-siege-ii-broken-world.json) |
 | Dungeon Siege II: Deluxe Edition | 46439 | [46439-dungeon-siege-ii-deluxe-edition.json](./46439-dungeon-siege-ii-deluxe-edition.json) |
 | Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
-| Dungeon Siege III: Treasures of the Sun | 10254 | [10254-dungeon-siege-iii-treasures-of-the-sun.json](./10254-dungeon-siege-iii-treasures-of-the-sun.json) |
 | Dungeon Siege: Legends of Aranna | 9271 | [9271-dungeon-siege-legends-of-aranna.json](./9271-dungeon-siege-legends-of-aranna.json) |
 | Dungeon Siege: Throne of Agony | 9270 | [9270-dungeon-siege-throne-of-agony.json](./9270-dungeon-siege-throne-of-agony.json) |
 | Dungeon Slasher | 285074 | [285074-dungeon-slasher.json](./285074-dungeon-slasher.json) |
@@ -22244,7 +22231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Bowl | 41661 | [41661-dynamite-bowl.json](./41661-dynamite-bowl.json) |
 | Dynamite Bunny | 96129 | [96129-dynamite-bunny.json](./96129-dynamite-bunny.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
-| Dynamite Dan | 13616 | [13616-dynamite-dan.json](./13616-dynamite-dan.json) |
 | Dynamite Dan II | 13617 | [13617-dynamite-dan-ii.json](./13617-dynamite-dan-ii.json) |
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
