@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Friends of Mineral Town | 3383 | [3383-harvest-moon-friends-of-mineral-town.json](./3383-harvest-moon-friends-of-mineral-town.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Home Sweet Home | 314971 | [314971-harvest-moon-home-sweet-home.json](./314971-harvest-moon-home-sweet-home.json) |
+| Harvest Moon: Home Sweet Home Special Edition | 361908 | [361908-harvest-moon-home-sweet-home-special-edition.json](./361908-harvest-moon-home-sweet-home-special-edition.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Complete Special Edition | 136018 | [136018-harvest-moon-light-of-hope-complete-special-edition.json](./136018-harvest-moon-light-of-hope-complete-special-edition.json) |
@@ -5136,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Human | 135716 | [135716-hello-human.json](./135716-hello-human.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
 | Hello Kitty & Friends: Rock n' World Tour | 83210 | [83210-hello-kitty-and-friends-rock-n-world-tour.json](./83210-hello-kitty-and-friends-rock-n-world-tour.json) |
+| Hello Kitty and Friends: Freeze Tag Party | 371418 | [371418-hello-kitty-and-friends-freeze-tag-party.json](./371418-hello-kitty-and-friends-freeze-tag-party.json) |
 | Hello Kitty and Sanrio Friends Racing | 35243 | [35243-hello-kitty-and-sanrio-friends-racing.json](./35243-hello-kitty-and-sanrio-friends-racing.json) |
 | Hello Kitty and the Apron of Magic: Rhythm Cooking | 84525 | [84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json](./84525-hello-kitty-and-the-apron-of-magic-rhythm-cooking.json) |
 | Hello Kitty AR Kawaii World | 121933 | [121933-hello-kitty-ar-kawaii-world.json](./121933-hello-kitty-ar-kawaii-world.json) |
