@@ -7060,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
 | Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
+| Being a Forest Snake Despite Rising Water Level | 423721 | [423721-being-a-forest-snake-despite-rising-water-level.json](./423721-being-a-forest-snake-despite-rising-water-level.json) |
 | Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
 | Being Andrew Plotkin | 60172 | [60172-being-andrew-plotkin.json](./60172-being-andrew-plotkin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
@@ -13087,6 +13088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
 | Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
 | Blooming Panic: Full Bloom Edition | 178113 | [178113-blooming-panic-full-bloom-edition.json](./178113-blooming-panic-full-bloom-edition.json) |
+| Blooming Solitude: Priestess of Hanafuda | 423734 | [423734-blooming-solitude-priestess-of-hanafuda.json](./423734-blooming-solitude-priestess-of-hanafuda.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
 | Bloomino | 403357 | [403357-bloomino.json](./403357-bloomino.json) |
 | BloomKeeper | 352998 | [352998-bloomkeeper.json](./352998-bloomkeeper.json) |
@@ -15661,6 +15663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip 3D | 119199 | [119199-bottle-flip-3d.json](./119199-bottle-flip-3d.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
+| Bottle Flip Inc | 423554 | [423554-bottle-flip-inc.json](./423554-bottle-flip-inc.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
 | Bottle Flip vs Glowing Hot Knife Simulator | 99211 | [99211-bottle-flip-vs-glowing-hot-knife-simulator.json](./99211-bottle-flip-vs-glowing-hot-knife-simulator.json) |
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
