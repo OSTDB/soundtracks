@@ -5710,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
 | Seeking Cat | 317396 | [317396-seeking-cat.json](./317396-seeking-cat.json) |
+| Seeking Dawn | 104865 | [104865-seeking-dawn.json](./104865-seeking-dawn.json) |
 | Seeking Dawn: Free to Play Edition | 111224 | [111224-seeking-dawn-free-to-play-edition.json](./111224-seeking-dawn-free-to-play-edition.json) |
 | Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
@@ -22676,6 +22677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2016 | 32548 | [32548-space-hole-2016.json](./32548-space-hole-2016.json) |
+| Space Hole 2018 | 104567 | [104567-space-hole-2018.json](./104567-space-hole-2018.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
@@ -28124,6 +28126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
 | Star Survivor | 227443 | [227443-star-survivor.json](./227443-star-survivor.json) |
 | Star Swapper | 94728 | [94728-star-swapper.json](./94728-star-swapper.json) |
+| Star Sweep | 104779 | [104779-star-sweep.json](./104779-star-sweep.json) |
 | Star Sweep | 200367 | [200367-star-sweep.json](./200367-star-sweep.json) |
 | Star Sweet | 76476 | [76476-star-sweet.json](./76476-star-sweet.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
@@ -41125,6 +41128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
+| Swords & Soldiers II: Shawarmageddon | 103651 | [103651-swords-and-soldiers-ii-shawarmageddon.json](./103651-swords-and-soldiers-ii-shawarmageddon.json) |
 | Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
 | Swords & Sorcery | 26303 | [26303-swords-and-sorcery.json](./26303-swords-and-sorcery.json) |
 | Swords & Souls Legacy Collection | 332299 | [332299-swords-and-souls-legacy-collection.json](./332299-swords-and-souls-legacy-collection.json) |
