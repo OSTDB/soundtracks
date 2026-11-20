@@ -2535,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bansoko | 179193 | [179193-bansoko.json](./179193-bansoko.json) |
 | Banter | 342242 | [342242-banter.json](./342242-banter.json) |
 | Banter Schooldays!! | 126531 | [126531-banter-schooldays.json](./126531-banter-schooldays.json) |
+| Bantrixia | 426527 | [426527-bantrixia.json](./426527-bantrixia.json) |
 | Bantumi | 233557 | [233557-bantumi.json](./233557-bantumi.json) |
 | Banui Moheom: Idle RPG | 219781 | [219781-banui-moheom-idle-rpg.json](./219781-banui-moheom-idle-rpg.json) |
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pixels | 33715 | [33715-battle-pixels.json](./33715-battle-pixels.json) |
 | Battle Plan | 393921 | [393921-battle-plan.json](./393921-battle-plan.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
+| Battle Planes Multiplayer | 426660 | [426660-battle-planes-multiplayer.json](./426660-battle-planes-multiplayer.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
 | Battle Planet AR | 95767 | [95767-battle-planet-ar.json](./95767-battle-planet-ar.json) |
 | Battle Planet: Judgement Day | 119242 | [119242-battle-planet-judgement-day.json](./119242-battle-planet-judgement-day.json) |
@@ -5401,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Fly | 338229 | [338229-be-fly.json](./338229-be-fly.json) |
 | Be Frugal | 245901 | [245901-be-frugal.json](./245901-be-frugal.json) |
 | Be hate Free Interactive | 112130 | [112130-be-hate-free-interactive.json](./112130-be-hate-free-interactive.json) |
+| Be Healthy | 426652 | [426652-be-healthy.json](./426652-be-healthy.json) |
 | Be Her Hero | 210518 | [210518-be-her-hero.json](./210518-be-her-hero.json) |
 | Be Hero | 137917 | [137917-be-hero.json](./137917-be-hero.json) |
 | Be Honest | 305536 | [305536-be-honest.json](./305536-be-honest.json) |
@@ -10771,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
 | Blackstar Jump Drive | 115854 | [115854-blackstar-jump-drive.json](./115854-blackstar-jump-drive.json) |
+| Blackstar Ranger | 426651 | [426651-blackstar-ranger.json](./426651-blackstar-ranger.json) |
 | Blackstar, Agent of Justice | 71334 | [71334-blackstar-agent-of-justice.json](./71334-blackstar-agent-of-justice.json) |
 | BlackStar: Theater Starless | 215169 | [215169-blackstar-theater-starless.json](./215169-blackstar-theater-starless.json) |
 | Blackstead | 217828 | [217828-blackstead.json](./217828-blackstead.json) |
@@ -13044,6 +13048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 390841 | [390841-bloom.json](./390841-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
 | Bloom & Dine | 424286 | [424286-bloom-and-dine.json](./424286-bloom-and-dine.json) |
+| Bloom Above: Wanderisles | 426654 | [426654-bloom-above-wanderisles.json](./426654-bloom-above-wanderisles.json) |
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
@@ -14612,6 +14617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomsy | 74681 | [74681-bomsy.json](./74681-bomsy.json) |
 | Bomtiles | 126228 | [126228-bomtiles.json](./126228-bomtiles.json) |
 | Bon Appecheese | 352379 | [352379-bon-appecheese.json](./352379-bon-appecheese.json) |
+| Bon Appétit | 426643 | [426643-bon-appetit.json](./426643-bon-appetit.json) |
 | Bon Bon Paradise | 109481 | [109481-bon-bon-paradise.json](./109481-bon-bon-paradise.json) |
 | Bon Vivant: Plan the Perfect Party | 410695 | [410695-bon-vivant-plan-the-perfect-party.json](./410695-bon-vivant-plan-the-perfect-party.json) |
 | Bon Voyage | 415295 | [415295-bon-voyage.json](./415295-bon-voyage.json) |
@@ -19158,6 +19164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer | 81060 | [81060-buccaneer.json](./81060-buccaneer.json) |
 | Buccaneer Blitz | 335990 | [335990-buccaneer-blitz.json](./335990-buccaneer-blitz.json) |
 | Buccaneer: The Pursuit of Infamy | 25410 | [25410-buccaneer-the-pursuit-of-infamy.json](./25410-buccaneer-the-pursuit-of-infamy.json) |
+| Buccaneer's Booty | 426530 | [426530-buccaneers-booty.json](./426530-buccaneers-booty.json) |
 | Buccaneer's Bounty | 69825 | [69825-buccaneers-bounty.json](./69825-buccaneers-bounty.json) |
 | Buccaneers | 247389 | [247389-buccaneers.json](./247389-buccaneers.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
