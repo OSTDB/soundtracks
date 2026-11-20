@@ -6233,6 +6233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomesplosion! | 420798 | [420798-gnomesplosion.json](./420798-gnomesplosion.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomich | 340312 | [340312-gnomich.json](./340312-gnomich.json) |
+| Gnomicide | 421956 | [421956-gnomicide.json](./421956-gnomicide.json) |
 | Gnomitaire | 242737 | [242737-gnomitaire.json](./242737-gnomitaire.json) |
 | Gnomium: Pocket Edition | 241215 | [241215-gnomium-pocket-edition.json](./241215-gnomium-pocket-edition.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
