@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Magic Journey | 90763 | [90763-mahjong-magic-journey.json](./90763-mahjong-magic-journey.json) |
 | Mahjong Magic Journey 2 | 109345 | [109345-mahjong-magic-journey-2.json](./109345-mahjong-magic-journey-2.json) |
 | Mahjong Magic Journey 3 | 109343 | [109343-mahjong-magic-journey-3.json](./109343-mahjong-magic-journey-3.json) |
+| Mahjong Mandy: Solitaire Trail | 418007 | [418007-mahjong-mandy-solitaire-trail.json](./418007-mahjong-mandy-solitaire-trail.json) |
 | Mahjong Master | 85994 | [85994-mahjong-master.json](./85994-mahjong-master.json) |
 | Mahjong Master HD Pro | 100495 | [100495-mahjong-master-hd-pro.json](./100495-mahjong-master-hd-pro.json) |
 | Mahjong Masters | 163164 | [163164-mahjong-masters.json](./163164-mahjong-masters.json) |
@@ -6248,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Marbles 10 | 337236 | [337236-match-marbles-10.json](./337236-match-marbles-10.json) |
 | Match Marbles 11 | 336991 | [336991-match-marbles-11.json](./336991-match-marbles-11.json) |
 | Match Marbles 15 | 401143 | [401143-match-marbles-15.json](./401143-match-marbles-15.json) |
+| Match Marbles 16 | 418000 | [418000-match-marbles-16.json](./418000-match-marbles-16.json) |
 | Match Marbles 3 | 337237 | [337237-match-marbles-3.json](./337237-match-marbles-3.json) |
 | Match Marbles 6 | 336992 | [336992-match-marbles-6.json](./336992-match-marbles-6.json) |
 | Match Master | 238152 | [238152-match-master.json](./238152-match-master.json) |
