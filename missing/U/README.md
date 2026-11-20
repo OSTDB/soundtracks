@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Americans: Apocalypsegeddon | 20618 | [20618-ugly-americans-apocalypsegeddon.json](./20618-ugly-americans-apocalypsegeddon.json) |
 | Ugly Button Adventure | 273853 | [273853-ugly-button-adventure.json](./273853-ugly-button-adventure.json) |
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
+| Ugly Mansion | 426200 | [426200-ugly-mansion.json](./426200-ugly-mansion.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
 | UglyDolls: An Imperfect Adventure | 115313 | [115313-uglydolls-an-imperfect-adventure.json](./115313-uglydolls-an-imperfect-adventure.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
