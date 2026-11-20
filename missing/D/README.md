@@ -5322,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Point | 55813 | [55813-death-point.json](./55813-death-point.json) |
 | Death Pong | 390585 | [390585-death-pong.json](./390585-death-pong.json) |
 | Death Pool | 238306 | [238306-death-pool.json](./238306-death-pool.json) |
+| Death Projection | 423805 | [423805-death-projection.json](./423805-death-projection.json) |
 | Death Protocol | 303462 | [303462-death-protocol.json](./303462-death-protocol.json) |
 | Death Rabbit | 271655 | [271655-death-rabbit.json](./271655-death-rabbit.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
@@ -10740,6 +10741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Tamers: ReBorn | 177283 | [177283-digital-tamers-reborn.json](./177283-digital-tamers-reborn.json) |
 | Digital Terrarium: Pogona Virtual Pet | 175846 | [175846-digital-terrarium-pogona-virtual-pet.json](./175846-digital-terrarium-pogona-virtual-pet.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
+| Digital Waste | 423755 | [423755-digital-waste.json](./423755-digital-waste.json) |
 | Digital World | 50106 | [50106-digital-world.json](./50106-digital-world.json) |
 | Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | Digital: A Love Story | 27871 | [27871-digital-a-love-story.json](./27871-digital-a-love-story.json) |
@@ -17995,6 +17997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draughts Genius | 137731 | [137731-draughts-genius.json](./137731-draughts-genius.json) |
 | Dravenmoor | 399223 | [399223-dravenmoor.json](./399223-dravenmoor.json) |
 | Dravo's Twisted Show | 410076 | [410076-dravos-twisted-show.json](./410076-dravos-twisted-show.json) |
+| Dravora | 423763 | [423763-dravora.json](./423763-dravora.json) |
 | Draw | 258014 | [258014-draw.json](./258014-draw.json) |
 | Draw & Color Maze: Paint Labyrinth Puzzle | 276959 | [276959-draw-and-color-maze-paint-labyrinth-puzzle.json](./276959-draw-and-color-maze-paint-labyrinth-puzzle.json) |
 | Draw & Guess | 150463 | [150463-draw-and-guess.json](./150463-draw-and-guess.json) |
