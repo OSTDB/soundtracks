@@ -6377,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senli 307 | 224618 | [224618-senli-307.json](./224618-senli-307.json) |
+| Senna and the Forest | 121127 | [121127-senna-and-the-forest.json](./121127-senna-and-the-forest.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Sennen Dokei | 381520 | [381520-sennen-dokei.json](./381520-sennen-dokei.json) |
 | Sennen Kazoku | 6586 | [6586-sennen-kazoku.json](./6586-sennen-kazoku.json) |
@@ -31487,6 +31488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
 | Storm Across Europe | 70134 | [70134-storm-across-europe.json](./70134-storm-across-europe.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
+| Storm Area 51: Ayy Lmao Edition | 121142 | [121142-storm-area-51-ayy-lmao-edition.json](./121142-storm-area-51-ayy-lmao-edition.json) |
 | Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
@@ -36372,6 +36374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
 | Super Life of Pixel | 106310 | [106310-super-life-of-pixel.json](./106310-super-life-of-pixel.json) |
+| Super Life RPG | 120398 | [120398-super-life-rpg.json](./120398-super-life-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
 | Super Light Saga: Dragon Force | 64041 | [64041-super-light-saga-dragon-force.json](./64041-super-light-saga-dragon-force.json) |
@@ -37137,6 +37140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
+| Super Mega Baseball 2: Ultimate Edition | 121419 | [121419-super-mega-baseball-2-ultimate-edition.json](./121419-super-mega-baseball-2-ultimate-edition.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
 | Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
