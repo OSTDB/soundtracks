@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
 | Damocles: Mission Disk 1 | 15502 | [15502-damocles-mission-disk-1.json](./15502-damocles-mission-disk-1.json) |
+| Damon and Baby | 351213 | [351213-damon-and-baby.json](./351213-damon-and-baby.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Dämonenburg | 91586 | [91586-damonenburg.json](./91586-damonenburg.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
@@ -7684,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons vs. Wizards | 239118 | [239118-demons-vs-wizards.json](./239118-demons-vs-wizards.json) |
 | Demons with Shotguns | 35205 | [35205-demons-with-shotguns.json](./35205-demons-with-shotguns.json) |
 | Demons with Shotguns: Deluxe Edition | 52890 | [52890-demons-with-shotguns-deluxe-edition.json](./52890-demons-with-shotguns-deluxe-edition.json) |
+| Demons' Night Fever | 351210 | [351210-demons-night-fever.json](./351210-demons-night-fever.json) |
 | Demons' Timeline | 388666 | [388666-demons-timeline.json](./388666-demons-timeline.json) |
 | DemonsAreCrazy | 103228 | [103228-demonsarecrazy.json](./103228-demonsarecrazy.json) |
 | Demonschool | 204640 | [204640-demonschool.json](./204640-demonschool.json) |
@@ -8107,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict Fleet | 44267 | [44267-derelict-fleet.json](./44267-derelict-fleet.json) |
 | Derelict Planet | 420039 | [420039-derelict-planet.json](./420039-derelict-planet.json) |
+| Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction | 111955 | [111955-dereliction.json](./111955-dereliction.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
@@ -13671,6 +13674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | Dogpet | 167531 | [167531-dogpet.json](./167531-dogpet.json) |
+| Dogpile | 373491 | [373491-dogpile.json](./373491-dogpile.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
 | Dogs | 314312 | [314312-dogs.json](./314312-dogs.json) |
