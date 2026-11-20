@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
 | Ultimate Blacksmith Tycoon | 406393 | [406393-ultimate-blacksmith-tycoon.json](./406393-ultimate-blacksmith-tycoon.json) |
+| Ultimate Block Party | 22574 | [22574-ultimate-block-party.json](./22574-ultimate-block-party.json) |
 | Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
 | Ultimate Body Blows & Project-X: Special Edition | 281005 | [281005-ultimate-body-blows-and-project-x-special-edition.json](./281005-ultimate-body-blows-and-project-x-special-edition.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno Free Fall | 6646 | [6646-uno-free-fall.json](./6646-uno-free-fall.json) |
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
+| Uno Rush | 22534 | [22534-uno-rush.json](./22534-uno-rush.json) |
 | UNO Undercover | 206269 | [206269-uno-undercover.json](./206269-uno-undercover.json) |
 | Uno Wonder | 320503 | [320503-uno-wonder.json](./320503-uno-wonder.json) |
 | Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
