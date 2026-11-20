@@ -20819,6 +20819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossquare | 175241 | [175241-crossquare.json](./175241-crossquare.json) |
 | Crossroad | 82343 | [82343-crossroad.json](./82343-crossroad.json) |
 | Crossroad Crash | 178777 | [178777-crossroad-crash.json](./178777-crossroad-crash.json) |
+| Crossroad Mysteries: The Broken Deal | 56687 | [56687-crossroad-mysteries-the-broken-deal.json](./56687-crossroad-mysteries-the-broken-deal.json) |
 | Crossroad of Sid | 109525 | [109525-crossroad-of-sid.json](./109525-crossroad-of-sid.json) |
 | Crossroad of Worlds: 100 Doors - Collector's Edition | 215516 | [215516-crossroad-of-worlds-100-doors-collectors-edition.json](./215516-crossroad-of-worlds-100-doors-collectors-edition.json) |
 | Crossroad of Worlds: Cursed Letters - Collector's Edition | 257434 | [257434-crossroad-of-worlds-cursed-letters-collectors-edition.json](./257434-crossroad-of-worlds-cursed-letters-collectors-edition.json) |
@@ -24105,6 +24106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
 | Cynical Software Volume One | 418133 | [418133-cynical-software-volume-one.json](./418133-cynical-software-volume-one.json) |
 | Cynk 3030 | 117868 | [117868-cynk-3030.json](./117868-cynk-3030.json) |
+| Cynoclept: The Game | 55351 | [55351-cynoclept-the-game.json](./55351-cynoclept-the-game.json) |
 | Cynoroid Forsaken | 192538 | [192538-cynoroid-forsaken.json](./192538-cynoroid-forsaken.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
