@@ -4001,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Idle | 148408 | [148408-industry-idle.json](./148408-industry-idle.json) |
 | Industry Idle: Expansion Pack 1 | 227056 | [227056-industry-idle-expansion-pack-1.json](./227056-industry-idle-expansion-pack-1.json) |
 | Industry Idle: Expansion Pack 2 | 227055 | [227055-industry-idle-expansion-pack-2.json](./227055-industry-idle-expansion-pack-2.json) |
+| Industry Manager: Future Technologies | 25808 | [25808-industry-manager-future-technologies.json](./25808-industry-manager-future-technologies.json) |
 | Industry Mania | 181097 | [181097-industry-mania.json](./181097-industry-mania.json) |
 | Industry Transporter 3D | 88409 | [88409-industry-transporter-3d.json](./88409-industry-transporter-3d.json) |
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
