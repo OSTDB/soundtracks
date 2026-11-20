@@ -3320,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
 | Tea Party for 4 | 425118 | [425118-tea-party-for-4.json](./425118-tea-party-for-4.json) |
+| Tea Party Simulator 2015 | 35559 | [35559-tea-party-simulator-2015.json](./35559-tea-party-simulator-2015.json) |
 | Tea Party Zombie Must Die | 217600 | [217600-tea-party-zombie-must-die.json](./217600-tea-party-zombie-must-die.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Talk | 298198 | [298198-tea-talk.json](./298198-tea-talk.json) |
@@ -13117,6 +13118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey: Episode 1 - Whatever This Is | 169299 | [169299-the-journey-episode-1-whatever-this-is.json](./169299-the-journey-episode-1-whatever-this-is.json) |
 | The Journey: Episode 2 - Words of Wisdom | 202449 | [202449-the-journey-episode-2-words-of-wisdom.json](./202449-the-journey-episode-2-words-of-wisdom.json) |
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
+| The Journeyman Project 1: Pegasus Prime | 35479 | [35479-the-journeyman-project-1-pegasus-prime.json](./35479-the-journeyman-project-1-pegasus-prime.json) |
 | The Journeyman Project 3: Legacy of Time | 11674 | [11674-the-journeyman-project-3-legacy-of-time.json](./11674-the-journeyman-project-3-legacy-of-time.json) |
 | The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Pegasus Prime | 47079 | [47079-the-journeyman-project-pegasus-prime.json](./47079-the-journeyman-project-pegasus-prime.json) |
@@ -17903,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
 | The Reincarnation | 383107 | [383107-the-reincarnation.json](./383107-the-reincarnation.json) |
 | The Reject Demon: Toko | 24596 | [24596-the-reject-demon-toko.json](./24596-the-reject-demon-toko.json) |
+| The Reject Demon: Toko Chapter 0 - Prelude | 35513 | [35513-the-reject-demon-toko-chapter-0-prelude.json](./35513-the-reject-demon-toko-chapter-0-prelude.json) |
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relic: First Guardian | 165397 | [165397-the-relic-first-guardian.json](./165397-the-relic-first-guardian.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
@@ -34494,6 +34497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Traps N' Gemstones | 35644 | [35644-traps-n-gemstones.json](./35644-traps-n-gemstones.json) |
 | Trapt | 22576 | [22576-trapt.json](./22576-trapt.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 50221 | [50221-trapthem.json](./50221-trapthem.json) |
@@ -35584,6 +35588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
+| Trigger Runners | 35611 | [35611-trigger-runners.json](./35611-trigger-runners.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
