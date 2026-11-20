@@ -8722,6 +8722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Pig | 303375 | [303375-big-pig.json](./303375-big-pig.json) |
+| Big Pig Dig | 429166 | [429166-big-pig-dig.json](./429166-big-pig-dig.json) |
 | Big Pixel Pinball | 409139 | [409139-big-pixel-pinball.json](./409139-big-pixel-pinball.json) |
 | Big Pixel Racing | 384023 | [384023-big-pixel-racing.json](./384023-big-pixel-racing.json) |
 | Big Pixel Zombies | 409133 | [409133-big-pixel-zombies.json](./409133-big-pixel-zombies.json) |
@@ -11481,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: Soul Resonance | 330121 | [330121-bleach-soul-resonance.json](./330121-bleach-soul-resonance.json) |
 | Bleach: Soul Resurrección | 7280 | [7280-bleach-soul-resurreccion.json](./7280-bleach-soul-resurreccion.json) |
+| Bleach: Soul Resurrección PC Recomp | 429136 | [429136-bleach-soul-resurreccion-pc-recomp.json](./429136-bleach-soul-resurreccion-pc-recomp.json) |
 | Bleach: The 3rd Phantom | 19103 | [19103-bleach-the-3rd-phantom.json](./19103-bleach-the-3rd-phantom.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
 | Bleach: Versus Crusade | 3822 | [3822-bleach-versus-crusade.json](./3822-bleach-versus-crusade.json) |
@@ -13084,6 +13086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
 | Bloom | 390841 | [390841-bloom.json](./390841-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
+| Bloom & Breakfast | 429145 | [429145-bloom-and-breakfast.json](./429145-bloom-and-breakfast.json) |
 | Bloom & Dine | 424286 | [424286-bloom-and-dine.json](./424286-bloom-and-dine.json) |
 | Bloom Above: Wanderisles | 426654 | [426654-bloom-above-wanderisles.json](./426654-bloom-above-wanderisles.json) |
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
@@ -20038,6 +20041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
 | Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
+| Bumbling Cats: Feline Heroes | 429153 | [429153-bumbling-cats-feline-heroes.json](./429153-bumbling-cats-feline-heroes.json) |
 | Bumer 2 | 194886 | [194886-bumer-2.json](./194886-bumer-2.json) |
 | Bumer: Sorvannye bashni | 332677 | [332677-bumer-sorvannye-bashni.json](./332677-bumer-sorvannye-bashni.json) |
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
