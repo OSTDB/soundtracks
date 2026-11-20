@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachiban Kareshi | 416464 | [416464-hachiban-kareshi.json](./416464-hachiban-kareshi.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
+| Hachikoma: Underground Stadium No. 8 | 422577 | [422577-hachikoma-underground-stadium-no-8.json](./422577-hachikoma-underground-stadium-no-8.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
 | Hachishaku | 342533 | [342533-hachishaku.json](./342533-hachishaku.json) |
 | Hachishaku-sama | 399555 | [399555-hachishaku-sama.json](./399555-hachishaku-sama.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
 | Hack and Shoot Heroes | 231164 | [231164-hack-and-shoot-heroes.json](./231164-hack-and-shoot-heroes.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
+| Hack and Slash Fury 2 | 422587 | [422587-hack-and-slash-fury-2.json](./422587-hack-and-slash-fury-2.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
 | Hack And Slash Fury: Cat Fire Armor | 334513 | [334513-hack-and-slash-fury-cat-fire-armor.json](./334513-hack-and-slash-fury-cat-fire-armor.json) |
@@ -1287,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
 | Hamster Universe | 106236 | [106236-hamster-universe.json](./106236-hamster-universe.json) |
 | Hamster Valley | 214923 | [214923-hamster-valley.json](./214923-hamster-valley.json) |
+| Hamster Wheel Isekai | 422573 | [422573-hamster-wheel-isekai.json](./422573-hamster-wheel-isekai.json) |
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
