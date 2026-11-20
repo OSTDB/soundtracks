@@ -15668,6 +15668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfire | 121923 | [121923-misfire.json](./121923-misfire.json) |
 | Misfit | 108062 | [108062-misfit.json](./108062-misfit.json) |
 | Misfit Company | 400409 | [400409-misfit-company.json](./400409-misfit-company.json) |
+| Misfit Warbands | 420228 | [420228-misfit-warbands.json](./420228-misfit-warbands.json) |
 | Misfit: The Rebirth of Death | 392712 | [392712-misfit-the-rebirth-of-death.json](./392712-misfit-the-rebirth-of-death.json) |
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfitz | 375350 | [375350-misfitz.json](./375350-misfitz.json) |
@@ -16854,6 +16855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Fairway 4: Spec Ops in the Rough | 130029 | [130029-modern-fairway-4-spec-ops-in-the-rough.json](./130029-modern-fairway-4-spec-ops-in-the-rough.json) |
 | Modern Fantasy: Urban Legends | 212157 | [212157-modern-fantasy-urban-legends.json](./212157-modern-fantasy-urban-legends.json) |
 | Modern Fear | 313023 | [313023-modern-fear.json](./313023-modern-fear.json) |
+| Modern Forces | 420719 | [420719-modern-forces.json](./420719-modern-forces.json) |
 | Modern FPS: Combat Sniper 3D | 106868 | [106868-modern-fps-combat-sniper-3d.json](./106868-modern-fps-combat-sniper-3d.json) |
 | Modern Game Tycoon | 189801 | [189801-modern-game-tycoon.json](./189801-modern-game-tycoon.json) |
 | Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
@@ -20224,6 +20226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motel Murder | 157232 | [157232-motel-murder.json](./157232-motel-murder.json) |
 | Motel Nightmares | 372965 | [372965-motel-nightmares.json](./372965-motel-nightmares.json) |
 | Motel Owner Simulator | 344289 | [344289-motel-owner-simulator.json](./344289-motel-owner-simulator.json) |
+| Motel Renovator Simulator | 420720 | [420720-motel-renovator-simulator.json](./420720-motel-renovator-simulator.json) |
 | Motel Simulator | 211165 | [211165-motel-simulator.json](./211165-motel-simulator.json) |
 | Motel Simulator: Create, Renovate & Grow Business | 261616 | [261616-motel-simulator-create-renovate-and-grow-business.json](./261616-motel-simulator-create-renovate-and-grow-business.json) |
 | Motel Snooze | 135800 | [135800-motel-snooze.json](./135800-motel-snooze.json) |
@@ -20779,6 +20782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount Hop | 184169 | [184169-mount-hop.json](./184169-mount-hop.json) |
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
+| Mount Misfits | 420231 | [420231-mount-misfits.json](./420231-mount-misfits.json) |
 | Mount Quest: Take the Upper Hand Among Classmates | 343546 | [343546-mount-quest-take-the-upper-hand-among-classmates.json](./343546-mount-quest-take-the-upper-hand-among-classmates.json) |
 | Mount Serenity: Guardian of the Spirits | 148029 | [148029-mount-serenity-guardian-of-the-spirits.json](./148029-mount-serenity-guardian-of-the-spirits.json) |
 | Mount Wingsuit | 32082 | [32082-mount-wingsuit.json](./32082-mount-wingsuit.json) |
@@ -23234,6 +23238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Classmate is AV Actress | 393708 | [393708-my-classmate-is-av-actress.json](./393708-my-classmate-is-av-actress.json) |
 | My Clinical Death | 414168 | [414168-my-clinical-death.json](./414168-my-clinical-death.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
+| My Clothing Store Simulator | 420721 | [420721-my-clothing-store-simulator.json](./420721-my-clothing-store-simulator.json) |
 | My Club Dino | 138284 | [138284-my-club-dino.json](./138284-my-club-dino.json) |
 | My College Life is Very Happy | 405168 | [405168-my-college-life-is-very-happy.json](./405168-my-college-life-is-very-happy.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
@@ -24279,6 +24284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Anthro 2: RainbowRound! | 419318 | [419318-my-sexy-anthro-2-rainbowround.json](./419318-my-sexy-anthro-2-rainbowround.json) |
 | My Sexy Anthro: Fluttertime! | 273944 | [273944-my-sexy-anthro-fluttertime.json](./273944-my-sexy-anthro-fluttertime.json) |
 | My Sexy Boss: Office Romance Boys | 420667 | [420667-my-sexy-boss-office-romance-boys.json](./420667-my-sexy-boss-office-romance-boys.json) |
+| My Sexy Boss: Office Romance Girls | 420723 | [420723-my-sexy-boss-office-romance-girls.json](./420723-my-sexy-boss-office-romance-girls.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
 | My Sexy Neighbour 2 | 380738 | [380738-my-sexy-neighbour-2.json](./380738-my-sexy-neighbour-2.json) |
