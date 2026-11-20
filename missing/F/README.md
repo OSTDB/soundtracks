@@ -8375,6 +8375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaiser | 183449 | [183449-flaiser.json](./183449-flaiser.json) |
 | Flak | 14073 | [14073-flak.json](./14073-flak.json) |
 | Flak | 170893 | [170893-flak.json](./170893-flak.json) |
+| Flak Simulator | 426469 | [426469-flak-simulator.json](./426469-flak-simulator.json) |
 | Flakboy | 264480 | [264480-flakboy.json](./264480-flakboy.json) |
 | Flakboy 2 | 265903 | [265903-flakboy-2.json](./265903-flakboy-2.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
