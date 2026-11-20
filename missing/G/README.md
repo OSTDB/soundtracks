@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem of Destiny | 304157 | [304157-gem-of-destiny.json](./304157-gem-of-destiny.json) |
 | Gem Party | 416027 | [416027-gem-party.json](./416027-gem-party.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
+| Gem Quest: 4 Elements | 24313 | [24313-gem-quest-4-elements.json](./24313-gem-quest-4-elements.json) |
 | Gem Quest: Rush | 416643 | [416643-gem-quest-rush.json](./416643-gem-quest-rush.json) |
 | Gem Raider 2 | 188467 | [188467-gem-raider-2.json](./188467-gem-raider-2.json) |
 | Gem Rifts | 188498 | [188498-gem-rifts.json](./188498-gem-rifts.json) |
@@ -12784,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Blood: 2D Zombie Shooter | 96025 | [96025-guns-and-blood-2d-zombie-shooter.json](./96025-guns-and-blood-2d-zombie-shooter.json) |
 | Guns and Braps | 127027 | [127027-guns-and-braps.json](./127027-guns-and-braps.json) |
 | Guns and Bullets Bundle | 397734 | [397734-guns-and-bullets-bundle.json](./397734-guns-and-bullets-bundle.json) |
+| Guns and Cards: Leap of Fate | 24364 | [24364-guns-and-cards-leap-of-fate.json](./24364-guns-and-cards-leap-of-fate.json) |
 | Guns and Donuts | 260635 | [260635-guns-and-donuts.json](./260635-guns-and-donuts.json) |
 | Guns and Ghosts | 110676 | [110676-guns-and-ghosts.json](./110676-guns-and-ghosts.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
