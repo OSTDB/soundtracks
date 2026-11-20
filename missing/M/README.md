@@ -3362,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Fortress | 244157 | [244157-mana-fortress.json](./244157-mana-fortress.json) |
 | Mana Gloom | 142175 | [142175-mana-gloom.json](./142175-mana-gloom.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
+| Mana Khemia 2: Fall of Alchemy | 24320 | [24320-mana-khemia-2-fall-of-alchemy.json](./24320-mana-khemia-2-fall-of-alchemy.json) |
 | Mana Khemia 2: Fall of Alchemy Portable Plus | 42740 | [42740-mana-khemia-2-fall-of-alchemy-portable-plus.json](./42740-mana-khemia-2-fall-of-alchemy-portable-plus.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
