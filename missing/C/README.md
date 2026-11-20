@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage Grind | 417757 | [417757-cage-grind.json](./417757-cage-grind.json) |
 | Cage in My Head in My Cage in My Head in My | 389686 | [389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json](./389686-cage-in-my-head-in-my-cage-in-my-head-in-my.json) |
+| Cage Legacy | 424429 | [424429-cage-legacy.json](./424429-cage-legacy.json) |
 | Cage Match | 13987 | [13987-cage-match.json](./13987-cage-match.json) |
 | Cage Me Not | 372631 | [372631-cage-me-not.json](./372631-cage-me-not.json) |
 | Cage of Etha | 217063 | [217063-cage-of-etha.json](./217063-cage-of-etha.json) |
@@ -5677,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
+| Cave Expedition | 424384 | [424384-cave-expedition.json](./424384-cave-expedition.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
 | Cave Explorers | 158852 | [158852-cave-explorers.json](./158852-cave-explorers.json) |
 | Cave Explorers | 374916 | [374916-cave-explorers.json](./374916-cave-explorers.json) |
@@ -20465,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croak'd | 368991 | [368991-croakd.json](./368991-croakd.json) |
 | Croaka-Crawla | 319576 | [319576-croaka-crawla.json](./319576-croaka-crawla.json) |
 | Croaked | 251652 | [251652-croaked.json](./251652-croaked.json) |
+| Croaked | 424425 | [424425-croaked.json](./424425-croaked.json) |
 | Croaking Around | 265696 | [265696-croaking-around.json](./265696-croaking-around.json) |
 | Croakoloco | 272342 | [272342-croakoloco.json](./272342-croakoloco.json) |
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
@@ -20547,6 +20550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crony Corp | 325307 | [325307-crony-corp.json](./325307-crony-corp.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
+| Crooked Derby | 424426 | [424426-crooked-derby.json](./424426-crooked-derby.json) |
 | Crooked Frames | 424541 | [424541-crooked-frames.json](./424541-crooked-frames.json) |
 | Crooked Path | 57784 | [57784-crooked-path.json](./57784-crooked-path.json) |
 | Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
