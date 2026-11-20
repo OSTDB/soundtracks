@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
+| Dark Prodigy Simulator | 418813 | [418813-dark-prodigy-simulator.json](./418813-dark-prodigy-simulator.json) |
 | Dark Project | 29685 | [29685-dark-project.json](./29685-dark-project.json) |
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
 | Dark Queen of Samobor | 311877 | [311877-dark-queen-of-samobor.json](./311877-dark-queen-of-samobor.json) |
