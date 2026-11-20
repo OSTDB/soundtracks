@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanba Warriors: Character Pack 5 | 202623 | [202623-wanba-warriors-character-pack-5.json](./202623-wanba-warriors-character-pack-5.json) |
 | Wand & Order: Tidy Up the Magic Shop! | 411997 | [411997-wand-and-order-tidy-up-the-magic-shop.json](./411997-wand-and-order-tidy-up-the-magic-shop.json) |
 | Wand Art Online | 392607 | [392607-wand-art-online.json](./392607-wand-art-online.json) |
+| Wand Keeper | 421309 | [421309-wand-keeper.json](./421309-wand-keeper.json) |
 | Wand Mart | 371451 | [371451-wand-mart.json](./371451-wand-mart.json) |
 | Wand of Fortune | 218957 | [218957-wand-of-fortune.json](./218957-wand-of-fortune.json) |
 | Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue | 219130 | [219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json](./219130-wand-of-fortune-2-fd-kimi-ni-sasageru-epilogue.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Crypt | 336297 | [336297-warden-of-the-crypt.json](./336297-warden-of-the-crypt.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
+| Warden of the Sunken Keep | 420881 | [420881-warden-of-the-sunken-keep.json](./420881-warden-of-the-sunken-keep.json) |
 | Warden: Melody of the Undergrowth | 18796 | [18796-warden-melody-of-the-undergrowth.json](./18796-warden-melody-of-the-undergrowth.json) |
 | Warden's Ascent | 320104 | [320104-wardens-ascent.json](./320104-wardens-ascent.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
@@ -4576,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheelchair Tester | 263723 | [263723-wheelchair-tester.json](./263723-wheelchair-tester.json) |
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
+| Wheele Fast | 421293 | [421293-wheele-fast.json](./421293-wheele-fast.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
 | Wheeler Institute: Screening | 178699 | [178699-wheeler-institute-screening.json](./178699-wheeler-institute-screening.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
@@ -6258,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildrise | 344412 | [344412-wildrise.json](./344412-wildrise.json) |
 | WildRoot | 409708 | [409708-wildroot.json](./409708-wildroot.json) |
 | Wilds | 141935 | [141935-wilds.json](./141935-wilds.json) |
+| Wilds of Lumithra | 421292 | [421292-wilds-of-lumithra.json](./421292-wilds-of-lumithra.json) |
 | Wilds of the Realmwalker | 356747 | [356747-wilds-of-the-realmwalker.json](./356747-wilds-of-the-realmwalker.json) |
 | Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildseed | 356170 | [356170-wildseed.json](./356170-wildseed.json) |
@@ -9431,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mixed Martial Arts 3 | 35885 | [35885-world-of-mixed-martial-arts-3.json](./35885-world-of-mixed-martial-arts-3.json) |
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
+| World of Mixed Martial Arts 6 | 421344 | [421344-world-of-mixed-martial-arts-6.json](./421344-world-of-mixed-martial-arts-6.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
 | World of Motors | 369324 | [369324-world-of-motors.json](./369324-world-of-motors.json) |
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
@@ -10108,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole: Battle for Planet Earth | 265091 | [265091-wormhole-battle-for-planet-earth.json](./265091-wormhole-battle-for-planet-earth.json) |
 | Wormholes n' chill | 183281 | [183281-wormholes-n-chill.json](./183281-wormholes-n-chill.json) |
 | Wormi | 269083 | [269083-wormi.json](./269083-wormi.json) |
+| Wormin | 421303 | [421303-wormin.json](./421303-wormin.json) |
 | Worming from Home | 386933 | [386933-worming-from-home.json](./386933-worming-from-home.json) |
 | Wormix | 315030 | [315030-wormix.json](./315030-wormix.json) |
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
