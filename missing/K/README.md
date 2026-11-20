@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
 | Keep Digging | 364702 | [364702-keep-digging.json](./364702-keep-digging.json) |
 | Keep Driving | 310904 | [310904-keep-driving.json](./310904-keep-driving.json) |
+| Keep Farming Aura | 421295 | [421295-keep-farming-aura.json](./421295-keep-farming-aura.json) |
 | Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Fire | 360869 | [360869-keep-fire.json](./360869-keep-fire.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
 | Kill Z: Battle Royale | 427238 | [427238-kill-z-battle-royale.json](./427238-kill-z-battle-royale.json) |
 | Kill Ze Bugs | 363688 | [363688-kill-ze-bugs.json](./363688-kill-ze-bugs.json) |
+| Kill-All Go! | 421350 | [421350-kill-all-go.json](./421350-kill-all-go.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
 | Kill.Switch | 5881 | [5881-kill-switch.json](./5881-kill-switch.json) |
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
@@ -4189,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsguard | 322290 | [322290-kingsguard.json](./322290-kingsguard.json) |
 | Kingshot | 337547 | [337547-kingshot.json](./337547-kingshot.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
+| Kingside Break | 421298 | [421298-kingside-break.json](./421298-kingside-break.json) |
 | KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
 | Kingsland Online | 137551 | [137551-kingsland-online.json](./137551-kingsland-online.json) |
 | Kingslayer Tactics | 117065 | [117065-kingslayer-tactics.json](./117065-kingslayer-tactics.json) |
