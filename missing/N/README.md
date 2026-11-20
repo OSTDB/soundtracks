@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of The Living Dead VR | 128204 | [128204-night-of-the-living-dead-vr.json](./128204-night-of-the-living-dead-vr.json) |
 | Night of the Living Robot | 418693 | [418693-night-of-the-living-robot.json](./418693-night-of-the-living-robot.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
+| Night of the Living Toys | 425466 | [425466-night-of-the-living-toys.json](./425466-night-of-the-living-toys.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Meteor | 170281 | [170281-night-of-the-meteor.json](./170281-night-of-the-meteor.json) |
 | Night of the Neighbor | 95851 | [95851-night-of-the-neighbor.json](./95851-night-of-the-neighbor.json) |
@@ -7494,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noods | 402976 | [402976-noods.json](./402976-noods.json) |
 | Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
 | Nookle | 361709 | [361709-nookle.json](./361709-nookle.json) |
+| Nookmaker | 425460 | [425460-nookmaker.json](./425460-nookmaker.json) |
 | Noolwok Nimble Delivery Service | 141481 | [141481-noolwok-nimble-delivery-service.json](./141481-noolwok-nimble-delivery-service.json) |
 | Noon | 78222 | [78222-noon.json](./78222-noon.json) |
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
