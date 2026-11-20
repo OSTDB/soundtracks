@@ -8409,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Deskmate Girl | 161485 | [161485-deskmate-girl.json](./161485-deskmate-girl.json) |
+| Deskpot | 427300 | [427300-deskpot.json](./427300-deskpot.json) |
 | Deskrawl: Idle ARPG | 420467 | [420467-deskrawl-idle-arpg.json](./420467-deskrawl-idle-arpg.json) |
 | Desktop Agents: Covid-999 | 264449 | [264449-desktop-agents-covid-999.json](./264449-desktop-agents-covid-999.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
@@ -17687,6 +17688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
 | Dragon's Rock | 49303 | [49303-dragons-rock.json](./49303-dragons-rock.json) |
 | Dragon's Ruler | 268299 | [268299-dragons-ruler.json](./268299-dragons-ruler.json) |
+| Dragon's Tear | 427301 | [427301-dragons-tear.json](./427301-dragons-tear.json) |
 | Dragon's Tower | 172210 | [172210-dragons-tower.json](./172210-dragons-tower.json) |
 | Dragon's Treasure | 236589 | [236589-dragons-treasure.json](./236589-dragons-treasure.json) |
 | Dragon's Valkyrie: Wings of Fire | 337667 | [337667-dragons-valkyrie-wings-of-fire.json](./337667-dragons-valkyrie-wings-of-fire.json) |
@@ -18926,6 +18928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drema | 157383 | [157383-drema.json](./157383-drema.json) |
 | Dremica | 393655 | [393655-dremica.json](./393655-dremica.json) |
 | Drench | 289826 | [289826-drench.json](./289826-drench.json) |
+| Drenched | 427315 | [427315-drenched.json](./427315-drenched.json) |
 | Dresden Files Cooperative Card Game | 68570 | [68570-dresden-files-cooperative-card-game.json](./68570-dresden-files-cooperative-card-game.json) |
 | Dresden Files Cooperative Card Game: Dead Ends | 170488 | [170488-dresden-files-cooperative-card-game-dead-ends.json](./170488-dresden-files-cooperative-card-game-dead-ends.json) |
 | Dresden Files Cooperative Card Game: Fan Favorites | 266499 | [266499-dresden-files-cooperative-card-game-fan-favorites.json](./266499-dresden-files-cooperative-card-game-fan-favorites.json) |
@@ -21123,6 +21126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Raid: Zero Floor | 365888 | [365888-dungeon-raid-zero-floor.json](./365888-dungeon-raid-zero-floor.json) |
 | Dungeon Raider | 192784 | [192784-dungeon-raider.json](./192784-dungeon-raider.json) |
 | Dungeon Raiders | 174566 | [174566-dungeon-raiders.json](./174566-dungeon-raiders.json) |
+| Dungeon Raiders | 427036 | [427036-dungeon-raiders.json](./427036-dungeon-raiders.json) |
 | Dungeon Raiders | 47714 | [47714-dungeon-raiders.json](./47714-dungeon-raiders.json) |
 | Dungeon Rampage | 142975 | [142975-dungeon-rampage.json](./142975-dungeon-rampage.json) |
 | Dungeon Rankers | 105086 | [105086-dungeon-rankers.json](./105086-dungeon-rankers.json) |
