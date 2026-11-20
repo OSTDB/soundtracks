@@ -6884,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
 | Delectatio Morosa: A Conclave Visual Novel | 343144 | [343144-delectatio-morosa-a-conclave-visual-novel.json](./343144-delectatio-morosa-a-conclave-visual-novel.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
+| Delenar TD: Remastered | 423703 | [423703-delenar-td-remastered.json](./423703-delenar-td-remastered.json) |
 | Deletar | 39897 | [39897-deletar.json](./39897-deletar.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
@@ -16153,6 +16154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
 | Dòuluó Dàlù: Wángguó Yìnjì | 147033 | [147033-douluo-dalu-wangguo-yinji.json](./147033-douluo-dalu-wangguo-yinji.json) |
 | Doupleri | 295082 | [295082-doupleri.json](./295082-doupleri.json) |
+| Dour Tower | 423551 | [423551-dour-tower.json](./423551-dour-tower.json) |
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Douse | 126175 | [126175-douse.json](./126175-douse.json) |
 | Dousei | 98728 | [98728-dousei.json](./98728-dousei.json) |
@@ -18150,6 +18152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
 | Dread of Laughter | 110432 | [110432-dread-of-laughter.json](./110432-dread-of-laughter.json) |
+| Dread of the Deep | 423671 | [423671-dread-of-the-deep.json](./423671-dread-of-the-deep.json) |
 | Dread or Dead | 418508 | [418508-dread-or-dead.json](./418508-dread-or-dead.json) |
 | Dread Pilots | 252854 | [252854-dread-pilots.json](./252854-dread-pilots.json) |
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
