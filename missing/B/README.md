@@ -15785,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
+| Boulder Dash: Rocks! | 22532 | [22532-boulder-dash-rocks.json](./22532-boulder-dash-rocks.json) |
 | Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
 | Boulder Dash: Treasure Pleasure | 63968 | [63968-boulder-dash-treasure-pleasure.json](./63968-boulder-dash-treasure-pleasure.json) |
 | Boulder Dash: Ultimate Collection | 178765 | [178765-boulder-dash-ultimate-collection.json](./178765-boulder-dash-ultimate-collection.json) |
@@ -16579,6 +16580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
+| Brain Age Express: Math | 22538 | [22538-brain-age-express-math.json](./22538-brain-age-express-math.json) |
 | Brain Age Express: Sudoku | 67839 | [67839-brain-age-express-sudoku.json](./67839-brain-age-express-sudoku.json) |
 | Brain Age: Concentration Training | 20884 | [20884-brain-age-concentration-training.json](./20884-brain-age-concentration-training.json) |
 | Brain Assist | 21679 | [21679-brain-assist.json](./21679-brain-assist.json) |
