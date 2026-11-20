@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odysseus Kosmos and his Robot Quest: Episode 3 | 171325 | [171325-odysseus-kosmos-and-his-robot-quest-episode-3.json](./171325-odysseus-kosmos-and-his-robot-quest-episode-3.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 4 | 171524 | [171524-odysseus-kosmos-and-his-robot-quest-episode-4.json](./171524-odysseus-kosmos-and-his-robot-quest-episode-4.json) |
 | Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
+| Odysseus: Long Way Home | 35748 | [35748-odysseus-long-way-home.json](./35748-odysseus-long-way-home.json) |
 | Odyssey | 12706 | [12706-odyssey.json](./12706-odyssey.json) |
 | Odyssey | 274168 | [274168-odyssey.json](./274168-odyssey.json) |
 | Odyssey | 30443 | [30443-odyssey.json](./30443-odyssey.json) |
@@ -5088,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ossan Kyoushi no Joshikousei Tsuma ga Yarichin Danshi ni Netorareru Hanashi | 82996 | [82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json](./82996-ossan-kyoushi-no-joshikousei-tsuma-ga-yarichin-danshi-ni-netorareru-hanashi.json) |
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ossuarium | 230079 | [230079-ossuarium.json](./230079-ossuarium.json) |
+| Ossuary | 35554 | [35554-ossuary.json](./35554-ossuary.json) |
 | Osta | 411850 | [411850-osta.json](./411850-osta.json) |
 | Ostalgie: Disorder in Yugoslavia | 196151 | [196151-ostalgie-disorder-in-yugoslavia.json](./196151-ostalgie-disorder-in-yugoslavia.json) |
 | Ostalgie: Fall of the Curtain | 174152 | [174152-ostalgie-fall-of-the-curtain.json](./174152-ostalgie-fall-of-the-curtain.json) |
