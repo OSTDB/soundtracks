@@ -12381,6 +12381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
 | Pokémon AlteRed | 210072 | [210072-pokemon-altered.json](./210072-pokemon-altered.json) |
+| Pokémon Ambre | 425530 | [425530-pokemon-ambre.json](./425530-pokemon-ambre.json) |
 | Pokémon Ambrosia | 337408 | [337408-pokemon-ambrosia.json](./337408-pokemon-ambrosia.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon Ancestral X | 265983 | [265983-pokemon-ancestral-x.json](./265983-pokemon-ancestral-x.json) |
@@ -14862,6 +14863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porf Royale | 134090 | [134090-porf-royale.json](./134090-porf-royale.json) |
 | Porg Wars | 102841 | [102841-porg-wars.json](./102841-porg-wars.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
+| Poring Clicker | 425540 | [425540-poring-clicker.json](./425540-poring-clicker.json) |
 | Pork 1: The Great Underground Sewer System | 350155 | [350155-pork-1-the-great-underground-sewer-system.json](./350155-pork-1-the-great-underground-sewer-system.json) |
 | Pork Barrel | 318164 | [318164-pork-barrel.json](./318164-pork-barrel.json) |
 | Porkchop's Adventure | 209281 | [209281-porkchops-adventure.json](./209281-porkchops-adventure.json) |
