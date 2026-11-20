@@ -1773,6 +1773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
 | Papa's Cupcakeria HD | 88890 | [88890-papas-cupcakeria-hd.json](./88890-papas-cupcakeria-hd.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
+| Papa's Donuteria To Go! | 418790 | [418790-papas-donuteria-to-go.json](./418790-papas-donuteria-to-go.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
 | Papa's Freezeria HD | 88886 | [88886-papas-freezeria-hd.json](./88886-papas-freezeria-hd.json) |
@@ -17620,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Thief | 368708 | [368708-professional-thief.json](./368708-professional-thief.json) |
 | Professional Tour Golf | 296545 | [296545-professional-tour-golf.json](./296545-professional-tour-golf.json) |
 | Professional Underground League of Pain | 45038 | [45038-professional-underground-league-of-pain.json](./45038-professional-underground-league-of-pain.json) |
+| Professionals Pool Paradise | 418828 | [418828-professionals-pool-paradise.json](./418828-professionals-pool-paradise.json) |
 | Professor Brainium's Games | 80358 | [80358-professor-brainiums-games.json](./80358-professor-brainiums-games.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
