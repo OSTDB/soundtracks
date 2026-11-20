@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Broken Robots | 113975 | [113975-little-broken-robots.json](./113975-little-broken-robots.json) |
+| Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
 | Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
@@ -11048,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumberjack VR | 72399 | [72399-lumberjack-vr.json](./72399-lumberjack-vr.json) |
+| Lumberjack's Dynasty | 122038 | [122038-lumberjacks-dynasty.json](./122038-lumberjacks-dynasty.json) |
 | Lumberjack's Dynasty: Digital Supporter Edition | 169187 | [169187-lumberjacks-dynasty-digital-supporter-edition.json](./169187-lumberjacks-dynasty-digital-supporter-edition.json) |
 | Lumberjacked | 341623 | [341623-lumberjacked.json](./341623-lumberjacked.json) |
 | LumberKill | 310828 | [310828-lumberkill.json](./310828-lumberkill.json) |
@@ -11400,6 +11402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
 | Lunaxxx | 101175 | [101175-lunaxxx.json](./101175-lunaxxx.json) |
+| Lunch A Palooza | 120623 | [120623-lunch-a-palooza.json](./120623-lunch-a-palooza.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
 | Lunch Box Ready | 308621 | [308621-lunch-box-ready.json](./308621-lunch-box-ready.json) |
