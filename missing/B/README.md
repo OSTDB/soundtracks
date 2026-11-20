@@ -19778,6 +19778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
 | Bull Riding Challenge 3 | 235129 | [235129-bull-riding-challenge-3.json](./235129-bull-riding-challenge-3.json) |
 | Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
+| Bull Simulator | 427930 | [427930-bull-simulator.json](./427930-bull-simulator.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull's Eye Barbecue Sauce | 218933 | [218933-bulls-eye-barbecue-sauce.json](./218933-bulls-eye-barbecue-sauce.json) |
 | Bull's Eye Saloon | 421957 | [421957-bulls-eye-saloon.json](./421957-bulls-eye-saloon.json) |
