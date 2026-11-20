@@ -5835,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
+| Sega Classics Collection | 22570 | [22570-sega-classics-collection.json](./22570-sega-classics-collection.json) |
 | Sega Classics for Amazon Fire TV | 131033 | [131033-sega-classics-for-amazon-fire-tv.json](./131033-sega-classics-for-amazon-fire-tv.json) |
 | Sega Clay Challenge | 39432 | [39432-sega-clay-challenge.json](./39432-sega-clay-challenge.json) |
 | Sega Driving Simulator | 58382 | [58382-sega-driving-simulator.json](./58382-sega-driving-simulator.json) |
@@ -9888,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
 | Shining Force III: Premium Disc | 46060 | [46060-shining-force-iii-premium-disc.json](./46060-shining-force-iii-premium-disc.json) |
+| Shining Force Neo | 22562 | [22562-shining-force-neo.json](./22562-shining-force-neo.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
 | Shining Force: Horizons | 307527 | [307527-shining-force-horizons.json](./307527-shining-force-horizons.json) |
 | Shining Force: Resurrection of the Dark Dragon | 22285 | [22285-shining-force-resurrection-of-the-dark-dragon.json](./22285-shining-force-resurrection-of-the-dark-dragon.json) |
@@ -14378,6 +14380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skoof Simulator | 326343 | [326343-skoof-simulator.json](./326343-skoof-simulator.json) |
 | Skooky | 131111 | [131111-skooky.json](./131111-skooky.json) |
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
+| Skool Daze | 23079 | [23079-skool-daze.json](./23079-skool-daze.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skooter | 410637 | [410637-skooter.json](./410637-skooter.json) |
@@ -18569,6 +18572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM: U.S. Navy SEALs Confrontation | 7460 | [7460-socom-u-s-navy-seals-confrontation.json](./7460-socom-u-s-navy-seals-confrontation.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo | 24148 | [24148-socom-u-s-navy-seals-fireteam-bravo.json](./24148-socom-u-s-navy-seals-fireteam-bravo.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
+| SOCOM: U.S. Navy SEALs Tactical Strike | 22530 | [22530-socom-u-s-navy-seals-tactical-strike.json](./22530-socom-u-s-navy-seals-tactical-strike.json) |
 | SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
 | Socrates Chess 3 | 151916 | [151916-socrates-chess-3.json](./151916-socrates-chess-3.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
@@ -31403,6 +31407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
 | Stop the Crawl | 247733 | [247733-stop-the-crawl.json](./247733-stop-the-crawl.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
+| Stop the Express | 23076 | [23076-stop-the-express.json](./23076-stop-the-express.json) |
 | Stop The F | 304509 | [304509-stop-the-f.json](./304509-stop-the-f.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
