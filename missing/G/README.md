@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Saloon Simulator | 370376 | [370376-game-saloon-simulator.json](./370376-game-saloon-simulator.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
+| Game Set Dash | 422553 | [422553-game-set-dash.json](./422553-game-set-dash.json) |
 | Game Shelver 99: I Must Organize My Steam Library and Defend It Against Pirates With a Shotgun | 422308 | [422308-game-shelver-99-i-must-organize-my-steam-library-and-defend-it-against-pirates-with-a-shotgun.json](./422308-game-shelver-99-i-must-organize-my-steam-library-and-defend-it-against-pirates-with-a-shotgun.json) |
 | Game Shop Panic | 413297 | [413297-game-shop-panic.json](./413297-game-shop-panic.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemerald | 327250 | [327250-gemerald.json](./327250-gemerald.json) |
 | Gemfall | 420027 | [420027-gemfall.json](./420027-gemfall.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
+| Gemheart Valley | 422568 | [422568-gemheart-valley.json](./422568-gemheart-valley.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemina Umbra | 180733 | [180733-gemina-umbra.json](./180733-gemina-umbra.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
