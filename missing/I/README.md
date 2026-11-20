@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
 | Idle Deepcore | 398901 | [398901-idle-deepcore.json](./398901-idle-deepcore.json) |
 | Idle Defragmenter 95 | 381902 | [381902-idle-defragmenter-95.json](./381902-idle-defragmenter-95.json) |
+| Idle Demon Lord II | 424905 | [424905-idle-demon-lord-ii.json](./424905-idle-demon-lord-ii.json) |
 | Idle Demon Summoner | 389233 | [389233-idle-demon-summoner.json](./389233-idle-demon-summoner.json) |
 | Idle Desktop Marbles | 390337 | [390337-idle-desktop-marbles.json](./390337-idle-desktop-marbles.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
 | Idle Museum Tycoon: Art Empire | 290288 | [290288-idle-museum-tycoon-art-empire.json](./290288-idle-museum-tycoon-art-empire.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
+| Idle Necronomics | 424881 | [424881-idle-necronomics.json](./424881-idle-necronomics.json) |
 | Idle Nine Heavens | 294072 | [294072-idle-nine-heavens.json](./294072-idle-nine-heavens.json) |
 | Idle Obelisk Miner | 256567 | [256567-idle-obelisk-miner.json](./256567-idle-obelisk-miner.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
@@ -3110,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
 | Impostor Inside Us | 167532 | [167532-impostor-inside-us.json](./167532-impostor-inside-us.json) |
 | Impostor Online | 303576 | [303576-impostor-online.json](./303576-impostor-online.json) |
+| Impostor Orchestra | 424759 | [424759-impostor-orchestra.json](./424759-impostor-orchestra.json) |
 | Impostor Syndrom | 428137 | [428137-impostor-syndrom.json](./428137-impostor-syndrom.json) |
 | Impostor syndrome | 110385 | [110385-impostor-syndrome.json](./110385-impostor-syndrome.json) |
 | Impower | 189230 | [189230-impower.json](./189230-impower.json) |
