@@ -9904,6 +9904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos: Dawn of Time | 234756 | [234756-chronos-dawn-of-time.json](./234756-chronos-dawn-of-time.json) |
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
 | Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
+| Chronoseum | 422583 | [422583-chronoseum.json](./422583-chronoseum.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
 | Chronosmith's Saga | 382708 | [382708-chronosmiths-saga.json](./382708-chronosmiths-saga.json) |
 | Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
@@ -18895,6 +18896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Fortress! + | 103173 | [103173-crash-fortress.json](./103173-crash-fortress.json) |
 | Crash Forts | 201877 | [201877-crash-forts.json](./201877-crash-forts.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
+| Crash Funksanity | 422556 | [422556-crash-funksanity.json](./422556-crash-funksanity.json) |
 | Crash Garrett | 13529 | [13529-crash-garrett.json](./13529-crash-garrett.json) |
 | Crash it Smash it | 74758 | [74758-crash-it-smash-it.json](./74758-crash-it-smash-it.json) |
 | Crash Landed | 115406 | [115406-crash-landed.json](./115406-crash-landed.json) |
