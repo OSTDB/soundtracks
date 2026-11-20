@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition | 343444 | [343444-s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition.json](./343444-s-t-a-l-k-e-r-call-of-prypiat-enhanced-edition.json) |
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition | 343443 | [343443-s-t-a-l-k-e-r-clear-sky-enhanced-edition.json](./343443-s-t-a-l-k-e-r-clear-sky-enhanced-edition.json) |
+| S.T.A.L.K.E.R.: Complete | 430398 | [430398-s-t-a-l-k-e-r-complete.json](./430398-s-t-a-l-k-e-r-complete.json) |
 | S.T.A.L.K.E.R.: Dead Air | 132010 | [132010-s-t-a-l-k-e-r-dead-air.json](./132010-s-t-a-l-k-e-r-dead-air.json) |
 | S.T.A.L.K.E.R.: Escape From Pripyat | 186030 | [186030-s-t-a-l-k-e-r-escape-from-pripyat.json](./186030-s-t-a-l-k-e-r-escape-from-pripyat.json) |
 | S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
@@ -873,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row: Front to Back Cosmetic Pack | 307141 | [307141-saints-row-front-to-back-cosmetic-pack.json](./307141-saints-row-front-to-back-cosmetic-pack.json) |
 | Saints Row: Funky Fresh Pack | 400840 | [400840-saints-row-funky-fresh-pack.json](./400840-saints-row-funky-fresh-pack.json) |
 | Saints Row: Gat Out of Hell | 7708 | [7708-saints-row-gat-out-of-hell.json](./7708-saints-row-gat-out-of-hell.json) |
+| Saints Row: Gat Out of Hell - Devil's Workshop Pack | 430598 | [430598-saints-row-gat-out-of-hell-devils-workshop-pack.json](./430598-saints-row-gat-out-of-hell-devils-workshop-pack.json) |
 | Saints Row: Going Commando Cosmetic Pack | 307144 | [307144-saints-row-going-commando-cosmetic-pack.json](./307144-saints-row-going-commando-cosmetic-pack.json) |
 | Saints Row: Gold Edition | 169195 | [169195-saints-row-gold-edition.json](./169195-saints-row-gold-edition.json) |
 | Saints Row: Hexy Halloween Free Cosmetic Pack | 274604 | [274604-saints-row-hexy-halloween-free-cosmetic-pack.json](./274604-saints-row-hexy-halloween-free-cosmetic-pack.json) |
@@ -11103,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
+| Showgunners - Weapon Reskin: Magical Girl | 430590 | [430590-showgunners-weapon-reskin-magical-girl.json](./430590-showgunners-weapon-reskin-magical-girl.json) |
 | Showgunners: Deluxe Edition | 248360 | [248360-showgunners-deluxe-edition.json](./248360-showgunners-deluxe-edition.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | Showing Tonight: Mindhunters Incident | 34087 | [34087-showing-tonight-mindhunters-incident.json](./34087-showing-tonight-mindhunters-incident.json) |
@@ -19813,6 +19816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Araiah: Re-Mastered Edition | 73076 | [73076-songs-of-araiah-re-mastered-edition.json](./73076-songs-of-araiah-re-mastered-edition.json) |
 | Songs of Armageddopolis | 191150 | [191150-songs-of-armageddopolis.json](./191150-songs-of-armageddopolis.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
+| Songs of Conquest: Complete | 430399 | [430399-songs-of-conquest-complete.json](./430399-songs-of-conquest-complete.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
 | Songs of Conquest: Supporter Edition | 201036 | [201036-songs-of-conquest-supporter-edition.json](./201036-songs-of-conquest-supporter-edition.json) |
@@ -21279,6 +21283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
+| Sort the Roost | 430652 | [430652-sort-the-roost.json](./430652-sort-the-roost.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
 | Sort Them Alpacas: Overload! | 426934 | [426934-sort-them-alpacas-overload.json](./426934-sort-them-alpacas-overload.json) |
@@ -30187,6 +30192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Nemesis #2 - Lvov Offensive | 166415 | [166415-steel-division-2-nemesis-2-lvov-offensive.json](./166415-steel-division-2-nemesis-2-lvov-offensive.json) |
 | Steel Division 2: Nemesis #4 - Storming Toulon | 157535 | [157535-steel-division-2-nemesis-4-storming-toulon.json](./157535-steel-division-2-nemesis-4-storming-toulon.json) |
 | Steel Division 2: Nemesis #5 - Raid on Drvar | 204890 | [204890-steel-division-2-nemesis-5-raid-on-drvar.json](./204890-steel-division-2-nemesis-5-raid-on-drvar.json) |
+| Steel Division 2: Nemesis #6 - Siege of Dunkirk | 430581 | [430581-steel-division-2-nemesis-6-siege-of-dunkirk.json](./430581-steel-division-2-nemesis-6-siege-of-dunkirk.json) |
 | Steel Division 2: Reinforcement Pack #1 | 154660 | [154660-steel-division-2-reinforcement-pack-1.json](./154660-steel-division-2-reinforcement-pack-1.json) |
 | Steel Division 2: Reinforcement Pack #10 - Tannenberg | 154670 | [154670-steel-division-2-reinforcement-pack-10-tannenberg.json](./154670-steel-division-2-reinforcement-pack-10-tannenberg.json) |
 | Steel Division 2: Reinforcement Pack #11 | 157542 | [157542-steel-division-2-reinforcement-pack-11.json](./157542-steel-division-2-reinforcement-pack-11.json) |
@@ -31362,6 +31368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stones Throw | 196371 | [196371-stones-throw.json](./196371-stones-throw.json) |
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | Stoneshard | 28649 | [28649-stoneshard.json](./28649-stoneshard.json) |
+| Stoneshard: Supporter Bundle | 430397 | [430397-stoneshard-supporter-bundle.json](./430397-stoneshard-supporter-bundle.json) |
 | Stonesong | 421711 | [421711-stonesong.json](./421711-stonesong.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
 | Stonespire | 421709 | [421709-stonespire.json](./421709-stonespire.json) |
@@ -39697,6 +39704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
 | Surviving Mars: Project Laika | 124952 | [124952-surviving-mars-project-laika.json](./124952-surviving-mars-project-laika.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
+| Surviving Mars: Revelation Radio Pack | 430592 | [430592-surviving-mars-revelation-radio-pack.json](./430592-surviving-mars-revelation-radio-pack.json) |
 | Surviving Mars: Space Race | 115113 | [115113-surviving-mars-space-race.json](./115113-surviving-mars-space-race.json) |
 | Surviving Mars: Starter Bundle | 254284 | [254284-surviving-mars-starter-bundle.json](./254284-surviving-mars-starter-bundle.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
@@ -41233,6 +41241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia: The World Before - 20 Years Edition | 204908 | [204908-syberia-the-world-before-20-years-edition.json](./204908-syberia-the-world-before-20-years-edition.json) |
 | Syberia: The World Before - Collector's Edition | 204907 | [204907-syberia-the-world-before-collectors-edition.json](./204907-syberia-the-world-before-collectors-edition.json) |
 | Syberia: The World Before - Deluxe Edition | 169167 | [169167-syberia-the-world-before-deluxe-edition.json](./169167-syberia-the-world-before-deluxe-edition.json) |
+| Syberia: The World Before x Amerzone: The Explorer's Legacy | 430395 | [430395-syberia-the-world-before-x-amerzone-the-explorers-legacy.json](./430395-syberia-the-world-before-x-amerzone-the-explorers-legacy.json) |
 | Sybil is Haunted | 249393 | [249393-sybil-is-haunted.json](./249393-sybil-is-haunted.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Sycamore | 186618 | [186618-sycamore.json](./186618-sycamore.json) |
