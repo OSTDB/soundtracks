@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
 | AI2U: With You 'Til The End | 293905 | [293905-ai2u-with-you-til-the-end.json](./293905-ai2u-with-you-til-the-end.json) |
+| AiAi Banana Catch | 425590 | [425590-aiai-banana-catch.json](./425590-aiai-banana-catch.json) |
 | Aiai Kitan | 378484 | [378484-aiai-kitan.json](./378484-aiai-kitan.json) |
 | Aiball | 32852 | [32852-aiball.json](./32852-aiball.json) |
 | Aibeya | 121520 | [121520-aibeya.json](./121520-aibeya.json) |
@@ -15100,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Volleyball | 19232 | [19232-arcade-volleyball.json](./19232-arcade-volleyball.json) |
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
 | Arcade Waifu | 212841 | [212841-arcade-waifu.json](./212841-arcade-waifu.json) |
+| Arcade Warlord | 425580 | [425580-arcade-warlord.json](./425580-arcade-warlord.json) |
 | Arcade Zone | 50742 | [50742-arcade-zone.json](./50742-arcade-zone.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
@@ -18089,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Box | 30636 | [30636-assassination-box.json](./30636-assassination-box.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
+| Assassination Contracts | 425601 | [425601-assassination-contracts.json](./425601-assassination-contracts.json) |
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Guild | 223207 | [223207-assassins-guild.json](./223207-assassins-guild.json) |
