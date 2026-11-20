@@ -1524,7 +1524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
-| NBA Jam | 8997 | [8997-nba-jam.json](./8997-nba-jam.json) |
 | NBA Jam 2000 | 3552 | [3552-nba-jam-2000.json](./3552-nba-jam-2000.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
 | NBA Jam 2002 | 6523 | [6523-nba-jam-2002.json](./6523-nba-jam-2002.json) |
@@ -4357,7 +4356,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2K10 | 229285 | [229285-nhl-2k10.json](./229285-nhl-2k10.json) |
 | NHL 2K10 | 287014 | [287014-nhl-2k10.json](./287014-nhl-2k10.json) |
 | NHL 2K10 | 5069 | [5069-nhl-2k10.json](./5069-nhl-2k10.json) |
-| NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
 | NHL 2K6 | 5965 | [5965-nhl-2k6.json](./5965-nhl-2k6.json) |
 | NHL 2K7 | 5966 | [5966-nhl-2k7.json](./5966-nhl-2k7.json) |
