@@ -9146,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion Core | 201510 | [201510-expansion-core.json](./201510-expansion-core.json) |
 | Expansion Pack for Microsoft Flight Simulator for Windows 95 | 80291 | [80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json](./80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json) |
 | Expect No Mercy | 47103 | [47103-expect-no-mercy.json](./47103-expect-no-mercy.json) |
+| Expect the Unexpected | 31271 | [31271-expect-the-unexpected.json](./31271-expect-the-unexpected.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
