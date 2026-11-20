@@ -6115,7 +6115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Republic at War | 377612 | [377612-republic-at-war.json](./377612-republic-at-war.json) |
 | Republic of Jungle | 138655 | [138655-republic-of-jungle.json](./138655-republic-of-jungle.json) |
 | Republic of Pirates | 278603 | [278603-republic-of-pirates.json](./278603-republic-of-pirates.json) |
-| Republic: The Revolution | 10236 | [10236-republic-the-revolution.json](./10236-republic-the-revolution.json) |
 | Republican Bayonets on the Rhine | 144826 | [144826-republican-bayonets-on-the-rhine.json](./144826-republican-bayonets-on-the-rhine.json) |
 | Republique Remastered | 9917 | [9917-republique-remastered.json](./9917-republique-remastered.json) |
 | République VR | 159154 | [159154-republique-vr.json](./159154-republique-vr.json) |
