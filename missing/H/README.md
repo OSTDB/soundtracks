@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Poppp | 425446 | [425446-halloween-poppp.json](./425446-halloween-poppp.json) |
 | Halloween Pumpkin Brawl | 317447 | [317447-halloween-pumpkin-brawl.json](./317447-halloween-pumpkin-brawl.json) |
+| Halloween Pumpkin Simulator | 424885 | [424885-halloween-pumpkin-simulator.json](./424885-halloween-pumpkin-simulator.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Puzzle | 172998 | [172998-halloween-puzzle.json](./172998-halloween-puzzle.json) |
 | Halloween Puzzle | 275165 | [275165-halloween-puzzle.json](./275165-halloween-puzzle.json) |
@@ -9580,6 +9581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historical Jigsaw Puzzle: World War I | 154287 | [154287-historical-jigsaw-puzzle-world-war-i.json](./154287-historical-jigsaw-puzzle-world-war-i.json) |
 | Historical Trilogy | 218494 | [218494-historical-trilogy.json](./218494-historical-trilogy.json) |
 | HistoriCity: Florence | 262859 | [262859-historicity-florence.json](./262859-historicity-florence.json) |
+| Historiker | 424897 | [424897-historiker.json](./424897-historiker.json) |
 | Historion: Babylons Fluch | 418224 | [418224-historion-babylons-fluch.json](./418224-historion-babylons-fluch.json) |
 | Historium VR - Relive the history of Bruges | 30290 | [30290-historium-vr-relive-the-history-of-bruges.json](./30290-historium-vr-relive-the-history-of-bruges.json) |
 | History 2048 | 115749 | [115749-history-2048.json](./115749-history-2048.json) |
@@ -12041,6 +12043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
 | Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
 | Hospital Renovator | 217079 | [217079-hospital-renovator.json](./217079-hospital-renovator.json) |
+| Hospital Rhapsody | 424908 | [424908-hospital-rhapsody.json](./424908-hospital-rhapsody.json) |
 | Hospital Romance: Anime Doctor Crush | 400178 | [400178-hospital-romance-anime-doctor-crush.json](./400178-hospital-romance-anime-doctor-crush.json) |
 | Hospital Romance: Anime Nurse Crush | 401343 | [401343-hospital-romance-anime-nurse-crush.json](./401343-hospital-romance-anime-nurse-crush.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
