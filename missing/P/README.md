@@ -4853,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentominon | 102859 | [102859-pentominon.json](./102859-pentominon.json) |
 | Pentominon Transctiption | 102864 | [102864-pentominon-transctiption.json](./102864-pentominon-transctiption.json) |
 | Pentominovich | 207847 | [207847-pentominovich.json](./207847-pentominovich.json) |
+| Pentu Wonderhunter: Ocean Expedition | 427319 | [427319-pentu-wonderhunter-ocean-expedition.json](./427319-pentu-wonderhunter-ocean-expedition.json) |
 | Penultima | 307189 | [307189-penultima.json](./307189-penultima.json) |
 | Penumbra | 140093 | [140093-penumbra.json](./140093-penumbra.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
@@ -5846,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petunia's Purgatory | 380836 | [380836-petunias-purgatory.json](./380836-petunias-purgatory.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWings | 9121 | [9121-petwings.json](./9121-petwings.json) |
+| PetWith | 427048 | [427048-petwith.json](./427048-petwith.json) |
 | PetWorld - WildLife America | 68919 | [68919-petworld-wildlife-america.json](./68919-petworld-wildlife-america.json) |
 | PetWorld 3D | 131405 | [131405-petworld-3d.json](./131405-petworld-3d.json) |
 | PetWorld 3D: Premium | 86845 | [86845-petworld-3d-premium.json](./86845-petworld-3d-premium.json) |
@@ -7088,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictionary 2017 | 94794 | [94794-pictionary-2017.json](./94794-pictionary-2017.json) |
+| Pictionary: Game Night | 427050 | [427050-pictionary-game-night.json](./427050-pictionary-game-night.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
 | Pictionary: Ultimate Edition (uDraw) | 21725 | [21725-pictionary-ultimate-edition-udraw.json](./21725-pictionary-ultimate-edition-udraw.json) |
 | Pictlogica Final Fantasy: Nearly Equal | 343426 | [343426-pictlogica-final-fantasy-nearly-equal.json](./343426-pictlogica-final-fantasy-nearly-equal.json) |
@@ -14397,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop KIller III | 229825 | [229825-poop-killer-iii.json](./229825-poop-killer-iii.json) |
 | Poop Killer Origins | 229833 | [229833-poop-killer-origins.json](./229833-poop-killer-origins.json) |
 | Poop Killer: Flush or Die | 335997 | [335997-poop-killer-flush-or-die.json](./335997-poop-killer-flush-or-die.json) |
+| Poop Killer: The Golden Fart | 427243 | [427243-poop-killer-the-golden-fart.json](./427243-poop-killer-the-golden-fart.json) |
 | Poop on 2020 Simulator | 170584 | [170584-poop-on-2020-simulator.json](./170584-poop-on-2020-simulator.json) |
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
@@ -16336,6 +16340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
 | Prim Rogue | 93803 | [93803-prim-rogue.json](./93803-prim-rogue.json) |
 | Prim's Tower | 69465 | [69465-prims-tower.json](./69465-prims-tower.json) |
+| Prima Dere ZX | 427035 | [427035-prima-dere-zx.json](./427035-prima-dere-zx.json) |
 | Prima Doll Encore | 218825 | [218825-prima-doll-encore.json](./218825-prima-doll-encore.json) |
 | Prima Doll: Fuyuzora Hanabi/Sekka Monyou | 218764 | [218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json](./218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json) |
 | Prima Doll: Kouto Tantei | 218766 | [218766-prima-doll-kouto-tantei.json](./218766-prima-doll-kouto-tantei.json) |
@@ -17772,6 +17777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 1337: The Well | 330587 | [330587-project-1337-the-well.json](./330587-project-1337-the-well.json) |
+| Project 14 | 427310 | [427310-project-14.json](./427310-project-14.json) |
 | Project 1942 | 297853 | [297853-project-1942.json](./297853-project-1942.json) |
 | Project 1v1 | 103383 | [103383-project-1v1.json](./103383-project-1v1.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
