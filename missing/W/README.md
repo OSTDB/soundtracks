@@ -3140,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
 | Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
+| Wayward Cosmos | 424422 | [424422-wayward-cosmos.json](./424422-wayward-cosmos.json) |
 | Wayward Harbor | 192342 | [192342-wayward-harbor.json](./192342-wayward-harbor.json) |
 | Wayward Manor | 16624 | [16624-wayward-manor.json](./16624-wayward-manor.json) |
 | Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf of The Desert | 417101 | [417101-wolf-of-the-desert.json](./417101-wolf-of-the-desert.json) |
 | Wolf of the Mountain | 196571 | [196571-wolf-of-the-mountain.json](./196571-wolf-of-the-mountain.json) |
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
+| Wolf Override | 424402 | [424402-wolf-override.json](./424402-wolf-override.json) |
 | Wolf Pack | 273222 | [273222-wolf-pack.json](./273222-wolf-pack.json) |
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
 | Wolf Peak: The Case of Ruth Choi | 282197 | [282197-wolf-peak-the-case-of-ruth-choi.json](./282197-wolf-peak-the-case-of-ruth-choi.json) |
