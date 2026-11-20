@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Cadence | 63378 | [63378-18-cadence.json](./63378-18-cadence.json) |
 | 18 Classic Card Games | 98616 | [98616-18-classic-card-games.json](./98616-18-classic-card-games.json) |
 | 18 Dreamers | 214285 | [214285-18-dreamers.json](./214285-18-dreamers.json) |
+| 18 Floors | 104939 | [104939-18-floors.json](./104939-18-floors.json) |
 | 18 Floors | 411268 | [411268-18-floors.json](./411268-18-floors.json) |
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
 | 18 in 1: Family Games Giga Pack | 330435 | [330435-18-in-1-family-games-giga-pack.json](./330435-18-in-1-family-games-giga-pack.json) |
