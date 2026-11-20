@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
 | Geometry Madness | 334429 | [334429-geometry-madness.json](./334429-geometry-madness.json) |
 | Geometry May. I swear it's a nice free game | 235899 | [235899-geometry-may-i-swear-its-a-nice-free-game.json](./235899-geometry-may-i-swear-its-a-nice-free-game.json) |
+| Geometry Platforms | 428535 | [428535-geometry-platforms.json](./428535-geometry-platforms.json) |
 | Geometry Race | 252572 | [252572-geometry-race.json](./252572-geometry-race.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomicide | 421956 | [421956-gnomicide.json](./421956-gnomicide.json) |
 | Gnomitaire | 242737 | [242737-gnomitaire.json](./242737-gnomitaire.json) |
 | Gnomium: Pocket Edition | 241215 | [241215-gnomium-pocket-edition.json](./241215-gnomium-pocket-edition.json) |
+| Gnomonatics | 428541 | [428541-gnomonatics.json](./428541-gnomonatics.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomophobia | 381068 | [381068-gnomophobia.json](./381068-gnomophobia.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
@@ -10506,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
+| Grey's Anatomy: The Mobile Game | 428512 | [428512-greys-anatomy-the-mobile-game.json](./428512-greys-anatomy-the-mobile-game.json) |
 | Grey's Anatomy: The Video Game | 4897 | [4897-greys-anatomy-the-video-game.json](./4897-greys-anatomy-the-video-game.json) |
 | Greybit | 336841 | [336841-greybit.json](./336841-greybit.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
@@ -10883,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire OnceMore: Deluxe Edition | 216577 | [216577-grimgrimoire-oncemore-deluxe-edition.json](./216577-grimgrimoire-oncemore-deluxe-edition.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
+| Grimhand | 428562 | [428562-grimhand.json](./428562-grimhand.json) |
 | Grimhold | 423184 | [423184-grimhold.json](./423184-grimhold.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
