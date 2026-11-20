@@ -6386,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Karting Outdoor HD | 175867 | [175867-go-karting-outdoor-hd.json](./175867-go-karting-outdoor-hd.json) |
 | Go Keeper | 382110 | [382110-go-keeper.json](./382110-go-keeper.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
+| Go Long! | 427391 | [427391-go-long.json](./427391-go-long.json) |
 | Go Marbles! | 427702 | [427702-go-marbles.json](./427702-go-marbles.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
 | Go Minimal | 186704 | [186704-go-minimal.json](./186704-go-minimal.json) |
