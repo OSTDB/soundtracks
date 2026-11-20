@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
 | HeliHopper | 99889 | [99889-helihopper.json](./99889-helihopper.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
+| Heliobane | 430466 | [430466-heliobane.json](./430466-heliobane.json) |
 | Helion | 268368 | [268368-helion.json](./268368-helion.json) |
 | Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
 | Helionaut | 136730 | [136730-helionaut.json](./136730-helionaut.json) |
