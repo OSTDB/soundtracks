@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Haddie's Pizzeria | 264925 | [264925-haddies-pizzeria.json](./264925-haddies-pizzeria.json) |
+| Hade | 30655 | [30655-hade.json](./30655-hade.json) |
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
 | Hadean Tactics | 133361 | [133361-hadean-tactics.json](./133361-hadean-tactics.json) |
 | Hadelia Quest | 233304 | [233304-hadelia-quest.json](./233304-hadelia-quest.json) |
@@ -1519,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
 | Handball | 287286 | [287286-handball.json](./287286-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
+| Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
 | Handball 21 | 138631 | [138631-handball-21.json](./138631-handball-21.json) |
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball for Plants! | 297408 | [297408-handball-for-plants.json](./297408-handball-for-plants.json) |
@@ -6948,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
 | Hero Z TPS | 223325 | [223325-hero-z-tps.json](./223325-hero-z-tps.json) |
+| Hero Zero | 32496 | [32496-hero-zero.json](./32496-hero-zero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero-E | 29366 | [29366-hero-e.json](./29366-hero-e.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
@@ -7339,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
 | Heroine | 410562 | [410562-heroine.json](./410562-heroine.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
+| Heroine Anthem Zero | 30997 | [30997-heroine-anthem-zero.json](./30997-heroine-anthem-zero.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
 | Heroine Anthem Zero: Episode 2 | 114467 | [114467-heroine-anthem-zero-episode-2.json](./114467-heroine-anthem-zero-episode-2.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
