@@ -3396,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
 | In the Pit | 92363 | [92363-in-the-pit.json](./92363-in-the-pit.json) |
 | In the Psychic City | 65623 | [65623-in-the-psychic-city.json](./65623-in-the-psychic-city.json) |
+| In the Pumpkin Light | 427302 | [427302-in-the-pumpkin-light.json](./427302-in-the-pumpkin-light.json) |
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
 | In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
