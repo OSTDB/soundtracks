@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
 | Kaodi | 328336 | [328336-kaodi.json](./328336-kaodi.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
+| Kaori | 428542 | [428542-kaori.json](./428542-kaori.json) |
 | Kaorin Fight | 305426 | [305426-kaorin-fight.json](./305426-kaorin-fight.json) |
 | Kaos | 118397 | [118397-kaos.json](./118397-kaos.json) |
 | Kaos | 281848 | [281848-kaos.json](./281848-kaos.json) |
@@ -1697,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kedama no Gonjiro: Fit & Run | 194064 | [194064-kedama-no-gonjiro-fit-and-run.json](./194064-kedama-no-gonjiro-fit-and-run.json) |
 | Kedama's Adventure | 202516 | [202516-kedamas-adventure.json](./202516-kedamas-adventure.json) |
 | Kedemara: The Orphan's Ballad | 127545 | [127545-kedemara-the-orphans-ballad.json](./127545-kedemara-the-orphans-ballad.json) |
+| Kedr | 428561 | [428561-kedr.json](./428561-kedr.json) |
 | Keeb Quest: Typing Battles | 413313 | [413313-keeb-quest-typing-battles.json](./413313-keeb-quest-typing-battles.json) |
 | Keebee | 348162 | [348162-keebee.json](./348162-keebee.json) |
 | Keebo's Adventure | 293277 | [293277-keebos-adventure.json](./293277-keebos-adventure.json) |
