@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neither Day nor Night | 123768 | [123768-neither-day-nor-night.json](./123768-neither-day-nor-night.json) |
 | Neither Dead nor Alive | 345823 | [345823-neither-dead-nor-alive.json](./345823-neither-dead-nor-alive.json) |
 | Neji-Shiki | 243918 | [243918-neji-shiki.json](./243918-neji-shiki.json) |
+| Neki’s Asylum | 425535 | [425535-neki-s-asylum.json](./425535-neki-s-asylum.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
 | Nekketsu Fighting Legend | 48410 | [48410-nekketsu-fighting-legend.json](./48410-nekketsu-fighting-legend.json) |
 | Nekketsu High School Dodgeball Club | 46817 | [46817-nekketsu-high-school-dodgeball-club.json](./46817-nekketsu-high-school-dodgeball-club.json) |
@@ -8916,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NyanNyanConnect | 263332 | [263332-nyannyanconnect.json](./263332-nyannyanconnect.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
+| Nyantum Jump | 425526 | [425526-nyantum-jump.json](./425526-nyantum-jump.json) |
 | Nyanyan Ga Nyan: Light Fantasy Gaiden | 44783 | [44783-nyanyan-ga-nyan-light-fantasy-gaiden.json](./44783-nyanyan-ga-nyan-light-fantasy-gaiden.json) |
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi Bomb Cave | 291658 | [291658-nyanzou-and-kumakichi-bomb-cave.json](./291658-nyanzou-and-kumakichi-bomb-cave.json) |
