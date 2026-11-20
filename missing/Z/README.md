@@ -2196,7 +2196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Society: Dead Detective | 28019 | [28019-zombie-society-dead-detective.json](./28019-zombie-society-dead-detective.json) |
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
-| Zombie Solitaire | 9306 | [9306-zombie-solitaire.json](./9306-zombie-solitaire.json) |
 | Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
 | Zombie Soup | 123792 | [123792-zombie-soup.json](./123792-zombie-soup.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
