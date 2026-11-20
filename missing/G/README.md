@@ -552,7 +552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Arms Race | 8915 | [8915-galactic-arms-race.json](./8915-galactic-arms-race.json) |
 | Galactic Ascendancy | 290203 | [290203-galactic-ascendancy.json](./290203-galactic-ascendancy.json) |
 | Galactic Assault Squad | 196696 | [196696-galactic-assault-squad.json](./196696-galactic-assault-squad.json) |
-| Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
 | Galactic Asteroids Patrol | 127086 | [127086-galactic-asteroids-patrol.json](./127086-galactic-asteroids-patrol.json) |
 | Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
@@ -12686,7 +12685,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunlocked 2 | 334208 | [334208-gunlocked-2.json](./334208-gunlocked-2.json) |
 | Gunlocked: The 2nd Gunning | 238464 | [238464-gunlocked-the-2nd-gunning.json](./238464-gunlocked-the-2nd-gunning.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
-| Gunlord | 9124 | [9124-gunlord.json](./9124-gunlord.json) |
 | Gunlord X | 108254 | [108254-gunlord-x.json](./108254-gunlord-x.json) |
 | Gunma no Yabou for Nintendo 3DS | 222294 | [222294-gunma-no-yabou-for-nintendo-3ds.json](./222294-gunma-no-yabou-for-nintendo-3ds.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
