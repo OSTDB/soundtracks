@@ -7328,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Revans | 231145 | [231145-revans.json](./231145-revans.json) |
 | Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
+| Reveal | 104949 | [104949-reveal.json](./104949-reveal.json) |
 | Reveal | 128814 | [128814-reveal.json](./128814-reveal.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
@@ -7574,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversi Fun | 103579 | [103579-reversi-fun.json](./103579-reversi-fun.json) |
 | Reversi HD | 95697 | [95697-reversi-hd.json](./95697-reversi-hd.json) |
 | Reversi Let's Go | 150264 | [150264-reversi-lets-go.json](./150264-reversi-lets-go.json) |
+| Reversi Quest | 104780 | [104780-reversi-quest.json](./104780-reversi-quest.json) |
 | Reversi Temple | 289784 | [289784-reversi-temple.json](./289784-reversi-temple.json) |
 | Reversi X | 106360 | [106360-reversi-x.json](./106360-reversi-x.json) |
 | Reversi xVSx | 295564 | [295564-reversi-xvsx.json](./295564-reversi-xvsx.json) |
@@ -14720,6 +14722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
+| Russia Battlegrounds | 105271 | [105271-russia-battlegrounds.json](./105271-russia-battlegrounds.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
