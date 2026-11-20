@@ -5061,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark PC Port | 271424 | [271424-perfect-dark-pc-port.json](./271424-perfect-dark-pc-port.json) |
 | Perfect Dark VR | 410083 | [410083-perfect-dark-vr.json](./410083-perfect-dark-vr.json) |
 | Perfect Dark With Mario Characters | 283111 | [283111-perfect-dark-with-mario-characters.json](./283111-perfect-dark-with-mario-characters.json) |
+| Perfect Dark XBLA PC Recomp | 426407 | [426407-perfect-dark-xbla-pc-recomp.json](./426407-perfect-dark-xbla-pc-recomp.json) |
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero Recomp | 424869 | [424869-perfect-dark-zero-recomp.json](./424869-perfect-dark-zero-recomp.json) |
@@ -6604,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Playhouse | 310295 | [310295-photo-playhouse.json](./310295-photo-playhouse.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Quiz: Animals | 370993 | [370993-photo-quiz-animals.json](./370993-photo-quiz-animals.json) |
+| Photo Roboto: A Timesnap Adventure | 426647 | [426647-photo-roboto-a-timesnap-adventure.json](./426647-photo-roboto-a-timesnap-adventure.json) |
 | Photo Roulette | 326511 | [326511-photo-roulette.json](./326511-photo-roulette.json) |
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
 | Photo Studio Simulator | 309730 | [309730-photo-studio-simulator.json](./309730-photo-studio-simulator.json) |
@@ -12107,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
 | Podstakannik Rails | 417733 | [417733-podstakannik-rails.json](./417733-podstakannik-rails.json) |
 | Podvodsk | 360472 | [360472-podvodsk.json](./360472-podvodsk.json) |
+| Podyezd 8 | 426644 | [426644-podyezd-8.json](./426644-podyezd-8.json) |
 | Poe | 227889 | [227889-poe.json](./227889-poe.json) |
 | Poe | 293362 | [293362-poe.json](./293362-poe.json) |
 | Poem Ex Machina | 333106 | [333106-poem-ex-machina.json](./333106-poem-ex-machina.json) |
@@ -13382,6 +13385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Hands Bullshit | 388639 | [388639-poker-hands-bullshit.json](./388639-poker-hands-bullshit.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Heat | 77434 | [77434-poker-heat.json](./77434-poker-heat.json) |
+| Poker King | 426531 | [426531-poker-king.json](./426531-poker-king.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
 | Poker Knight | 175443 | [175443-poker-knight.json](./175443-poker-knight.json) |
 | Poker Ladies | 39397 | [39397-poker-ladies.json](./39397-poker-ladies.json) |
@@ -18023,6 +18027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dodo | 131703 | [131703-project-dodo.json](./131703-project-dodo.json) |
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Drag Racing | 336281 | [336281-project-drag-racing.json](./336281-project-drag-racing.json) |
+| Project Dream | 426463 | [426463-project-dream.json](./426463-project-dream.json) |
 | Project Dream 64 | 315029 | [315029-project-dream-64.json](./315029-project-dream-64.json) |
 | Project Dreamcat | 184217 | [184217-project-dreamcat.json](./184217-project-dreamcat.json) |
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
@@ -18381,6 +18386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
 | Project RE: Visited - Resident Evil 3 | 424186 | [424186-project-re-visited-resident-evil-3.json](./424186-project-re-visited-resident-evil-3.json) |
+| Project Re:Anim | 426673 | [426673-project-re-anim.json](./426673-project-re-anim.json) |
 | Project Readjusted 4: Jet Black | 417008 | [417008-project-readjusted-4-jet-black.json](./417008-project-readjusted-4-jet-black.json) |
 | Project Reality | 294572 | [294572-project-reality.json](./294572-project-reality.json) |
 | Project Reality | 315026 | [315026-project-reality.json](./315026-project-reality.json) |
