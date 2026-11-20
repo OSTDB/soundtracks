@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adoption | 55670 | [55670-adoption.json](./55670-adoption.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorabilis | 254373 | [254373-adorabilis.json](./254373-adorabilis.json) |
+| Adorable Adventures | 353276 | [353276-adorable-adventures.json](./353276-adorable-adventures.json) |
 | Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Garden | 352865 | [352865-adorable-garden.json](./352865-adorable-garden.json) |
 | Adorable Girls | 159938 | [159938-adorable-girls.json](./159938-adorable-girls.json) |
@@ -11750,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing: Classic Game Card - Mario Bros. | 229501 | [229501-animal-crossing-classic-game-card-mario-bros.json](./229501-animal-crossing-classic-game-card-mario-bros.json) |
 | Animal Crossing: Happy Home Designer | 10143 | [10143-animal-crossing-happy-home-designer.json](./10143-animal-crossing-happy-home-designer.json) |
 | Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
+| Animal Crossing: New Horizons - Nintendo Switch 2 Edition | 375733 | [375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json](./375733-animal-crossing-new-horizons-nintendo-switch-2-edition.json) |
 | Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Crossing: New Leaf - Welcome Amiibo! | 210422 | [210422-animal-crossing-new-leaf-welcome-amiibo.json](./210422-animal-crossing-new-leaf-welcome-amiibo.json) |
 | Animal Crossing: New Leaf - Welcome Amiibo! | 218748 | [218748-animal-crossing-new-leaf-welcome-amiibo.json](./218748-animal-crossing-new-leaf-welcome-amiibo.json) |
@@ -14438,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Apocalypse Bundle | 99559 | [99559-arcade-apocalypse-bundle.json](./99559-arcade-apocalypse-bundle.json) |
 | Arcade Archives 2: Ace Driver | 403299 | [403299-arcade-archives-2-ace-driver.json](./403299-arcade-archives-2-ace-driver.json) |
 | Arcade Archives 2: Adventure Canoe | 392764 | [392764-arcade-archives-2-adventure-canoe.json](./392764-arcade-archives-2-adventure-canoe.json) |
+| Arcade Archives 2: Air Combat 22 | 352492 | [352492-arcade-archives-2-air-combat-22.json](./352492-arcade-archives-2-air-combat-22.json) |
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
 | Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
@@ -14806,6 +14809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Contra | 283022 | [283022-arcade-archives-super-contra.json](./283022-arcade-archives-super-contra.json) |
 | Arcade Archives: Super Dimension Fortress Macross | 327537 | [327537-arcade-archives-super-dimension-fortress-macross.json](./327537-arcade-archives-super-dimension-fortress-macross.json) |
+| Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
 | Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
@@ -17579,6 +17583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity | 11666 | [11666-ashes-of-the-singularity.json](./11666-ashes-of-the-singularity.json) |
+| Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
 | Ashes of the Singularity: Escalation | 25741 | [25741-ashes-of-the-singularity-escalation.json](./25741-ashes-of-the-singularity-escalation.json) |
 | Ashes of the Singularity: Escalation - Co-Op Map Pack | 224354 | [224354-ashes-of-the-singularity-escalation-co-op-map-pack.json](./224354-ashes-of-the-singularity-escalation-co-op-map-pack.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
@@ -18612,6 +18617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Space | 189359 | [189359-astral-space.json](./189359-astral-space.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
 | Astral Survivor | 345837 | [345837-astral-survivor.json](./345837-astral-survivor.json) |
+| Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
 | Astral Throne | 263819 | [263819-astral-throne.json](./263819-astral-throne.json) |
@@ -21288,6 +21294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
 | Axis Football 2024 | 264762 | [264762-axis-football-2024.json](./264762-axis-football-2024.json) |
+| Axis Football 2026 | 362506 | [362506-axis-football-2026.json](./362506-axis-football-2026.json) |
 | Axis Football 2027 | 416119 | [416119-axis-football-2027.json](./416119-axis-football-2027.json) |
 | Axis Football League | 58041 | [58041-axis-football-league.json](./58041-axis-football-league.json) |
 | Axis Forward | 100930 | [100930-axis-forward.json](./100930-axis-forward.json) |
