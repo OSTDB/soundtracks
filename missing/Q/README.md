@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest: The Adventure for the 6 Stones | 335751 | [335751-quest-the-adventure-for-the-6-stones.json](./335751-quest-the-adventure-for-the-6-stones.json) |
 | Quest? Quest! | 118643 | [118643-quest-quest.json](./118643-quest-quest.json) |
 | Quest64: Recompiled | 385279 | [385279-quest64-recompiled.json](./385279-quest64-recompiled.json) |
+| QuestAway | 421976 | [421976-questaway.json](./421976-questaway.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
 | Quester | 197387 | [197387-quester.json](./197387-quester.json) |
