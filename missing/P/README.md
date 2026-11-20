@@ -9840,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Town: Akanemachi Sideshow | 298162 | [298162-pixel-town-akanemachi-sideshow.json](./298162-pixel-town-akanemachi-sideshow.json) |
 | Pixel Traffic: Circle Rush | 54875 | [54875-pixel-traffic-circle-rush.json](./54875-pixel-traffic-circle-rush.json) |
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
+| Pixel Traffic: Risky Bridge | 55596 | [55596-pixel-traffic-risky-bridge.json](./55596-pixel-traffic-risky-bridge.json) |
 | Pixel Trainer | 107098 | [107098-pixel-trainer.json](./107098-pixel-trainer.json) |
 | Pixel Transit | 339296 | [339296-pixel-transit.json](./339296-pixel-transit.json) |
 | Pixel Traveler | 210392 | [210392-pixel-traveler.json](./210392-pixel-traveler.json) |
@@ -18344,6 +18345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
 | Project Nimbus | 10724 | [10724-project-nimbus.json](./10724-project-nimbus.json) |
+| Project Nimbus: Code Mirai | 68315 | [68315-project-nimbus-code-mirai.json](./68315-project-nimbus-code-mirai.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Nine Tails | 428138 | [428138-project-nine-tails.json](./428138-project-nine-tails.json) |
