@@ -18292,6 +18292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
 | Dream Catcher | 194931 | [194931-dream-catcher.json](./194931-dream-catcher.json) |
 | Dream Catcher | 237803 | [237803-dream-catcher.json](./237803-dream-catcher.json) |
+| Dream Catcher | 422536 | [422536-dream-catcher.json](./422536-dream-catcher.json) |
 | Dream Catcher Chronicles: Manitou | 33772 | [33772-dream-catcher-chronicles-manitou.json](./33772-dream-catcher-chronicles-manitou.json) |
 | Dream Catcher VR | 203757 | [203757-dream-catcher-vr.json](./203757-dream-catcher-vr.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
