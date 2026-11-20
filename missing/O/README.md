@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Machines: Mechanical Boxes | 428322 | [428322-odd-machines-mechanical-boxes.json](./428322-odd-machines-mechanical-boxes.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd Night | 302400 | [302400-odd-night.json](./302400-odd-night.json) |
+| Odd Odds | 426403 | [426403-odd-odds.json](./426403-odd-odds.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd One Out | 207418 | [207418-odd-one-out.json](./207418-odd-one-out.json) |
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
