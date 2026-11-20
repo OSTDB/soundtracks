@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necron: Aptor Quest | 138853 | [138853-necron-aptor-quest.json](./138853-necron-aptor-quest.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
+| Necronator: Dead Wrong | 122064 | [122064-necronator-dead-wrong.json](./122064-necronator-dead-wrong.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
 | Necronom | 12698 | [12698-necronom.json](./12698-necronom.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon Noir | 226001 | [226001-neon-noir.json](./226001-neon-noir.json) |
+| Neon Noodles: Cyberpunk Kitchen Automation | 121808 | [121808-neon-noodles-cyberpunk-kitchen-automation.json](./121808-neon-noodles-cyberpunk-kitchen-automation.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
 | Neon Null | 406359 | [406359-neon-null.json](./406359-neon-null.json) |
 | Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
@@ -7971,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight & Not Tonight 2 | 292922 | [292922-not-tonight-and-not-tonight-2.json](./292922-not-tonight-and-not-tonight-2.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
+| Not Tonight: Take Back Control Edition | 121156 | [121156-not-tonight-take-back-control-edition.json](./121156-not-tonight-take-back-control-edition.json) |
 | Not Treasure Hunter | 56141 | [56141-not-treasure-hunter.json](./56141-not-treasure-hunter.json) |
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
 | Not Us | 394987 | [394987-not-us.json](./394987-not-us.json) |
