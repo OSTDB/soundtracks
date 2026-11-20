@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: New 'n' Tasty - Alf's Escape | 26110 | [26110-oddworld-new-n-tasty-alfs-escape.json](./26110-oddworld-new-n-tasty-alfs-escape.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddworld: New 'n' Tasty - Limited Edition | 139855 | [139855-oddworld-new-n-tasty-limited-edition.json](./139855-oddworld-new-n-tasty-limited-edition.json) |
+| Oddworld: New 'n' Tasty - Scrub Abe | 430595 | [430595-oddworld-new-n-tasty-scrub-abe.json](./430595-oddworld-new-n-tasty-scrub-abe.json) |
 | Oddworld: Soulstorm | 18357 | [18357-oddworld-soulstorm.json](./18357-oddworld-soulstorm.json) |
 | Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ops | 309749 | [309749-ops.json](./309749-ops.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | OpsCam: Body Cam Shooter | 345675 | [345675-opscam-body-cam-shooter.json](./345675-opscam-body-cam-shooter.json) |
+| OpSec Simulator | 430710 | [430710-opsec-simulator.json](./430710-opsec-simulator.json) |
 | Opsys | 71749 | [71749-opsys.json](./71749-opsys.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
