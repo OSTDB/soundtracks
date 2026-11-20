@@ -13123,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Feed the Monkeys 2099: Two Cage Seasoning Pack | 285076 | [285076-do-not-feed-the-monkeys-2099-two-cage-seasoning-pack.json](./285076-do-not-feed-the-monkeys-2099-two-cage-seasoning-pack.json) |
 | Do Not Feed the Monkeys: Collector's Edition | 166963 | [166963-do-not-feed-the-monkeys-collectors-edition.json](./166963-do-not-feed-the-monkeys-collectors-edition.json) |
 | Do Not Feed the Virus | 389846 | [389846-do-not-feed-the-virus.json](./389846-do-not-feed-the-virus.json) |
+| Do Not Find It: Anomaly Photo Files | 420715 | [420715-do-not-find-it-anomaly-photo-files.json](./420715-do-not-find-it-anomaly-photo-files.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
 | Do Not Look at the Moon | 309360 | [309360-do-not-look-at-the-moon.json](./309360-do-not-look-at-the-moon.json) |
 | Do Not Open | 183869 | [183869-do-not-open.json](./183869-do-not-open.json) |
