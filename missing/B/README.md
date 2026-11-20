@@ -13958,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bode Miller Alpine Skiing | 43553 | [43553-bode-miller-alpine-skiing.json](./43553-bode-miller-alpine-skiing.json) |
 | Bodega | 309904 | [309904-bodega.json](./309904-bodega.json) |
 | Bodge Dall | 180457 | [180457-bodge-dall.json](./180457-bodge-dall.json) |
+| BodgeBall | 428564 | [428564-bodgeball.json](./428564-bodgeball.json) |
 | Bodhi 'n' Friends | 236264 | [236264-bodhi-n-friends.json](./236264-bodhi-n-friends.json) |
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
@@ -15758,6 +15759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boukoku no Aegis 2035: Warship Gunner | 269386 | [269386-boukoku-no-aegis-2035-warship-gunner.json](./269386-boukoku-no-aegis-2035-warship-gunner.json) |
 | Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
+| Boukyaku Shitsuji to Koi Suru Ojou-sama no Memoir | 428549 | [428549-boukyaku-shitsuji-to-koi-suru-ojou-sama-no-memoir.json](./428549-boukyaku-shitsuji-to-koi-suru-ojou-sama-no-memoir.json) |
 | Boulder Baby | 396450 | [396450-boulder-baby.json](./396450-boulder-baby.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Crash | 329283 | [329283-boulder-crash.json](./329283-boulder-crash.json) |
@@ -17502,6 +17504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Newton | 192214 | [192214-breaking-newton.json](./192214-breaking-newton.json) |
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
 | Breaking Point: Operation Exodus | 421029 | [421029-breaking-point-operation-exodus.json](./421029-breaking-point-operation-exodus.json) |
+| Breaking Protocol | 428556 | [428556-breaking-protocol.json](./428556-breaking-protocol.json) |
 | Breaking Survivors | 258968 | [258968-breaking-survivors.json](./258968-breaking-survivors.json) |
 | Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
 | Breaking the Bank | 101898 | [101898-breaking-the-bank.json](./101898-breaking-the-bank.json) |
@@ -19043,6 +19046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
 | Bubble Plus | 71130 | [71130-bubble-plus.json](./71130-bubble-plus.json) |
 | Bubble Pong Pong | 278234 | [278234-bubble-pong-pong.json](./278234-bubble-pong-pong.json) |
+| Bubble Pop | 428530 | [428530-bubble-pop.json](./428530-bubble-pop.json) |
 | Bubble Pop | 89466 | [89466-bubble-pop.json](./89466-bubble-pop.json) |
 | Bubble Pop It ASMR | 195838 | [195838-bubble-pop-it-asmr.json](./195838-bubble-pop-it-asmr.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
@@ -19988,6 +19992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | Bully Billy | 177146 | [177146-bully-billy.json](./177146-bully-billy.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
+| Bully Bully | 428529 | [428529-bully-bully.json](./428529-bully-bully.json) |
 | Bully Me More | 299070 | [299070-bully-me-more.json](./299070-bully-me-more.json) |
 | Bully Mobile | 85796 | [85796-bully-mobile.json](./85796-bully-mobile.json) |
 | Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
