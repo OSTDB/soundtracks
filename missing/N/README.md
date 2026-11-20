@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Tomo | 104255 | [104255-neko-tomo.json](./104255-neko-tomo.json) |
 | Neko Tomo: Smile Mashimashi | 141993 | [141993-neko-tomo-smile-mashimashi.json](./141993-neko-tomo-smile-mashimashi.json) |
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
+| Neko Waifu: Pixel Dancer DLC | 427974 | [427974-neko-waifu-pixel-dancer-dlc.json](./427974-neko-waifu-pixel-dancer-dlc.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Yume Douchuuki | 213094 | [213094-neko-yume-douchuuki.json](./213094-neko-yume-douchuuki.json) |
 | Neko Zamurai | 128364 | [128364-neko-zamurai.json](./128364-neko-zamurai.json) |
@@ -4877,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Full Moon: Little Pig Monster - Crossover | 269233 | [269233-night-of-full-moon-little-pig-monster-crossover.json](./269233-night-of-full-moon-little-pig-monster-crossover.json) |
 | Night of Full Moon: Magic Curtain | 170464 | [170464-night-of-full-moon-magic-curtain.json](./170464-night-of-full-moon-magic-curtain.json) |
 | Night of Full Moon: Memory Puzzle | 163523 | [163523-night-of-full-moon-memory-puzzle.json](./163523-night-of-full-moon-memory-puzzle.json) |
+| Night of Full Moon: Pan Peter - Puppy's Adventure | 427966 | [427966-night-of-full-moon-pan-peter-puppys-adventure.json](./427966-night-of-full-moon-pan-peter-puppys-adventure.json) |
 | Night of Full Moon: The Red Hood Diary | 170460 | [170460-night-of-full-moon-the-red-hood-diary.json](./170460-night-of-full-moon-the-red-hood-diary.json) |
 | Night of Full Moon: Witch - Wishing | 269235 | [269235-night-of-full-moon-witch-wishing.json](./269235-night-of-full-moon-witch-wishing.json) |
 | Night of Full Moon: Witcher - Mirror | 269234 | [269234-night-of-full-moon-witcher-mirror.json](./269234-night-of-full-moon-witcher-mirror.json) |
@@ -5093,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Protocol | 397467 | [397467-nightfall-protocol.json](./397467-nightfall-protocol.json) |
 | NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
 | Nightfall Streak: Underground Racing | 422947 | [422947-nightfall-streak-underground-racing.json](./422947-nightfall-streak-underground-racing.json) |
+| Nightfall Survivor | 427964 | [427964-nightfall-survivor.json](./427964-nightfall-survivor.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
@@ -5636,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Laps | 427153 | [427153-nine-laps.json](./427153-nine-laps.json) |
+| Nine Legion | 427953 | [427953-nine-legion.json](./427953-nine-legion.json) |
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
 | Nine Lives Hospital | 423357 | [423357-nine-lives-hospital.json](./423357-nine-lives-hospital.json) |
 | Nine Lives Ninja: Explore! | 293798 | [293798-nine-lives-ninja-explore.json](./293798-nine-lives-ninja-explore.json) |
@@ -7456,6 +7460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms Katana | 246159 | [246159-nonograms-katana.json](./246159-nonograms-katana.json) |
 | Nonograms Pro | 400083 | [400083-nonograms-pro.json](./400083-nonograms-pro.json) |
 | Nonograms Prophecy | 81020 | [81020-nonograms-prophecy.json](./81020-nonograms-prophecy.json) |
+| Nonograms: Abstractions #1 | 427950 | [427950-nonograms-abstractions-1.json](./427950-nonograms-abstractions-1.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
 | Nonograms: Engineering | 285710 | [285710-nonograms-engineering.json](./285710-nonograms-engineering.json) |
 | Nonograms: Fishing | 285706 | [285706-nonograms-fishing.json](./285706-nonograms-fishing.json) |
