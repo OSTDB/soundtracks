@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One week, My room | 245682 | [245682-one-week-my-room.json](./245682-one-week-my-room.json) |
 | One Wheel | 247325 | [247325-one-wheel.json](./247325-one-wheel.json) |
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
+| One Wish | 103939 | [103939-one-wish.json](./103939-one-wish.json) |
 | One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
 | One Withered Night at Freddy's | 299645 | [299645-one-withered-night-at-freddys.json](./299645-one-withered-night-at-freddys.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
