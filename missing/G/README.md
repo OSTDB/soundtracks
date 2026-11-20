@@ -3711,6 +3711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
 | GeoJet | 332886 | [332886-geojet.json](./332886-geojet.json) |
 | GeoLogic | 133138 | [133138-geologic.json](./133138-geologic.json) |
+| Geology Business | 31321 | [31321-geology-business.json](./31321-geology-business.json) |
 | Geolosys | 226566 | [226566-geolosys.json](./226566-geolosys.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
@@ -6218,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
 | Gnomes Garden 3 In 1 Bundle | 117892 | [117892-gnomes-garden-3-in-1-bundle.json](./117892-gnomes-garden-3-in-1-bundle.json) |
+| Gnomes Garden 3: The Thief of Castles | 30869 | [30869-gnomes-garden-3-the-thief-of-castles.json](./30869-gnomes-garden-3-the-thief-of-castles.json) |
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
@@ -8707,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab n' Throw | 217151 | [217151-grab-n-throw.json](./217151-grab-n-throw.json) |
 | Grab the Apple | 266130 | [266130-grab-the-apple.json](./266130-grab-the-apple.json) |
 | Grab the Beat | 132360 | [132360-grab-the-beat.json](./132360-grab-the-beat.json) |
+| Grab the Bottle | 30879 | [30879-grab-the-bottle.json](./30879-grab-the-bottle.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
