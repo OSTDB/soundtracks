@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Explorer | 63460 | [63460-realm-explorer.json](./63460-realm-explorer.json) |
 | Realm Grinder | 36721 | [36721-realm-grinder.json](./36721-realm-grinder.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
+| Realm Idle | 422521 | [422521-realm-idle.json](./422521-realm-idle.json) |
 | Realm Lands | 125686 | [125686-realm-lands.json](./125686-realm-lands.json) |
 | Realm of Abhorrus | 182747 | [182747-realm-of-abhorrus.json](./182747-realm-of-abhorrus.json) |
 | Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
