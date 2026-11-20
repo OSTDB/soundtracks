@@ -14667,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonbon | 74482 | [74482-bonbon.json](./74482-bonbon.json) |
 | Bonbon Cakery | 69509 | [69509-bonbon-cakery.json](./69509-bonbon-cakery.json) |
 | Bonbonribbon: Tokimeki Coord Kirakira Dance | 222419 | [222419-bonbonribbon-tokimeki-coord-kirakira-dance.json](./222419-bonbonribbon-tokimeki-coord-kirakira-dance.json) |
+| Boncuk FC | 430645 | [430645-boncuk-fc.json](./430645-boncuk-fc.json) |
 | Bond | 302388 | [302388-bond.json](./302388-bond.json) |
 | Bond Blues | 293107 | [293107-bond-blues.json](./293107-bond-blues.json) |
 | Bond: Wish of the Forest | 178193 | [178193-bond-wish-of-the-forest.json](./178193-bond-wish-of-the-forest.json) |
@@ -18075,6 +18076,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Memory Collection | 193752 | [193752-bright-memory-collection.json](./193752-bright-memory-collection.json) |
 | Bright Memory Mobile | 174688 | [174688-bright-memory-mobile.json](./174688-bright-memory-mobile.json) |
 | Bright Memory: Infinite | 113739 | [113739-bright-memory-infinite.json](./113739-bright-memory-infinite.json) |
+| Bright Memory: Infinite - Cheongsam (Blue Flowers) | 430579 | [430579-bright-memory-infinite-cheongsam-blue-flowers.json](./430579-bright-memory-infinite-cheongsam-blue-flowers.json) |
+| Bright Memory: Infinite - Cyber Rabbit | 430601 | [430601-bright-memory-infinite-cyber-rabbit.json](./430601-bright-memory-infinite-cyber-rabbit.json) |
 | Bright Memory: Infinite - Gold Edition | 186531 | [186531-bright-memory-infinite-gold-edition.json](./186531-bright-memory-infinite-gold-edition.json) |
 | Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
 | Bright Memory: Infinite - Ultimate Edition | 186532 | [186532-bright-memory-infinite-ultimate-edition.json](./186532-bright-memory-infinite-ultimate-edition.json) |
