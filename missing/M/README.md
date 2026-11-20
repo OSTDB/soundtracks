@@ -4922,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
 | Mark's Power | 283070 | [283070-marks-power.json](./283070-marks-power.json) |
 | Marked | 420378 | [420378-marked.json](./420378-marked.json) |
+| Marked | 423697 | [423697-marked.json](./423697-marked.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
 | Marked for Mayhem | 419040 | [419040-marked-for-mayhem.json](./419040-marked-for-mayhem.json) |
 | Marked: The Quest for Tripura | 294355 | [294355-marked-the-quest-for-tripura.json](./294355-marked-the-quest-for-tripura.json) |
@@ -7514,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meaning of Flower | 343736 | [343736-meaning-of-flower.json](./343736-meaning-of-flower.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
 | Meaningless | 250718 | [250718-meaningless.json](./250718-meaningless.json) |
+| Meaningless | 423699 | [423699-meaningless.json](./423699-meaningless.json) |
 | Meaningless Random Numbers | 388696 | [388696-meaningless-random-numbers.json](./388696-meaningless-random-numbers.json) |
 | Meaningless Suffering | 364146 | [364146-meaningless-suffering.json](./364146-meaningless-suffering.json) |
 | Meaningless Tragedy | 397046 | [397046-meaningless-tragedy.json](./397046-meaningless-tragedy.json) |
@@ -23245,6 +23247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
+| My Cozy BookShop | 423723 | [423723-my-cozy-bookshop.json](./423723-my-cozy-bookshop.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
 | My Cozy Room: Coffee | 366796 | [366796-my-cozy-room-coffee.json](./366796-my-cozy-room-coffee.json) |
