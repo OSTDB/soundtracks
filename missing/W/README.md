@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 3: Ultimate - Definitive Edition | 209081 | [209081-warriors-orochi-3-ultimate-definitive-edition.json](./209081-warriors-orochi-3-ultimate-definitive-edition.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
+| Warriors Orochi 4 Ultimate | 122081 | [122081-warriors-orochi-4-ultimate.json](./122081-warriors-orochi-4-ultimate.json) |
 | Warriors Orochi 4 Ultimate: Deluxe Edition | 220895 | [220895-warriors-orochi-4-ultimate-deluxe-edition.json](./220895-warriors-orochi-4-ultimate-deluxe-edition.json) |
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
@@ -3270,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Happy Few | 9182 | [9182-we-happy-few.json](./9182-we-happy-few.json) |
 | We Happy Few: Deluxe Edition | 90296 | [90296-we-happy-few-deluxe-edition.json](./90296-we-happy-few-deluxe-edition.json) |
 | We Happy Few: Digital Deluxe Edition | 225471 | [225471-we-happy-few-digital-deluxe-edition.json](./225471-we-happy-few-digital-deluxe-edition.json) |
+| We Happy Few: Lightbearer | 121153 | [121153-we-happy-few-lightbearer.json](./121153-we-happy-few-lightbearer.json) |
 | We Happy Few: Uncle Jack Live VR | 106852 | [106852-we-happy-few-uncle-jack-live-vr.json](./106852-we-happy-few-uncle-jack-live-vr.json) |
 | We Happy Few: We All Fall Down | 126173 | [126173-we-happy-few-we-all-fall-down.json](./126173-we-happy-few-we-all-fall-down.json) |
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
@@ -4120,6 +4122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
+| Westworld Awakening | 121924 | [121924-westworld-awakening.json](./121924-westworld-awakening.json) |
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
 | Wet 2 | 66297 | [66297-wet-2.json](./66297-wet-2.json) |
 | Wet and Wild | 369893 | [369893-wet-and-wild.json](./369893-wet-and-wild.json) |
