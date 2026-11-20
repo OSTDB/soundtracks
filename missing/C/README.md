@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat And Life | 301620 | [301620-cat-and-life.json](./301620-cat-and-life.json) |
 | Cat and Mouse | 11533 | [11533-cat-and-mouse.json](./11533-cat-and-mouse.json) |
 | Cat and Mouse | 291280 | [291280-cat-and-mouse.json](./291280-cat-and-mouse.json) |
+| Cat and Paste! | 423128 | [423128-cat-and-paste.json](./423128-cat-and-paste.json) |
 | Cat and Rat | 405278 | [405278-cat-and-rat.json](./405278-cat-and-rat.json) |
 | Cat and Shadow and Death's Four Friends | 374070 | [374070-cat-and-shadow-and-deaths-four-friends.json](./374070-cat-and-shadow-and-deaths-four-friends.json) |
 | Cat and Watermouse | 216689 | [216689-cat-and-watermouse.json](./216689-cat-and-watermouse.json) |
@@ -13495,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Breath | 151050 | [151050-cold-breath.json](./151050-cold-breath.json) |
 | Cold Cable: Lifeshift | 115810 | [115810-cold-cable-lifeshift.json](./115810-cold-cable-lifeshift.json) |
 | Cold Call | 165989 | [165989-cold-call.json](./165989-cold-call.json) |
+| Cold Call | 422980 | [422980-cold-call.json](./422980-cold-call.json) |
 | Cold Calling | 115571 | [115571-cold-calling.json](./115571-cold-calling.json) |
 | Cold Case | 413103 | [413103-cold-case.json](./413103-cold-case.json) |
 | Cold Case Files | 57683 | [57683-cold-case-files.json](./57683-cold-case-files.json) |
