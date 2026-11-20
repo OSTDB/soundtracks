@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaliVan | 259913 | [259913-talivan.json](./259913-talivan.json) |
 | Talk About Something in the Nowhere | 419142 | [419142-talk-about-something-in-the-nowhere.json](./419142-talk-about-something-in-the-nowhere.json) |
 | Talk it Out | 123458 | [123458-talk-it-out.json](./123458-talk-it-out.json) |
+| Talk Of The Tavern | 424525 | [424525-talk-of-the-tavern.json](./424525-talk-of-the-tavern.json) |
 | Talk Tac Toe Lite | 253271 | [253271-talk-tac-toe-lite.json](./253271-talk-tac-toe-lite.json) |
 | Talk to Aya | 74913 | [74913-talk-to-aya.json](./74913-talk-to-aya.json) |
 | Talk To Me | 134586 | [134586-talk-to-me.json](./134586-talk-to-me.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tawhid | 251272 | [251272-tawhid.json](./251272-tawhid.json) |
 | Tax Avoiders | 40618 | [40618-tax-avoiders.json](./40618-tax-avoiders.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
+| Tax Empire | 424879 | [424879-tax-empire.json](./424879-tax-empire.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Tax Fugitive | 169135 | [169135-tax-fugitive.json](./169135-tax-fugitive.json) |
 | Tax Heaven 3000 | 242362 | [242362-tax-heaven-3000.json](./242362-tax-heaven-3000.json) |
@@ -6891,6 +6893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attack | 44375 | [44375-the-attack.json](./44375-the-attack.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
+| The Attending | 424906 | [424906-the-attending.json](./424906-the-attending.json) |
 | The Attic | 265286 | [265286-the-attic.json](./265286-the-attic.json) |
 | The Attic | 288271 | [288271-the-attic.json](./288271-the-attic.json) |
 | The Attic | 377353 | [377353-the-attic.json](./377353-the-attic.json) |
@@ -22083,6 +22086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wrong Ones | 420754 | [420754-the-wrong-ones.json](./420754-the-wrong-ones.json) |
 | The Wrong Thing | 231103 | [231103-the-wrong-thing.json](./231103-the-wrong-thing.json) |
+| The Wrong Way | 424513 | [424513-the-wrong-way.json](./424513-the-wrong-way.json) |
 | The Wungo Dungo Surprise | 338989 | [338989-the-wungo-dungo-surprise.json](./338989-the-wungo-dungo-surprise.json) |
 | The Wylde | 23875 | [23875-the-wylde.json](./23875-the-wylde.json) |
 | The X Animal | 54997 | [54997-the-x-animal.json](./54997-the-x-animal.json) |
@@ -24067,6 +24071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy & Bright: Together at the Christmas Market | 421718 | [421718-tidy-and-bright-together-at-the-christmas-market.json](./421718-tidy-and-bright-together-at-the-christmas-market.json) |
+| Tidy Arcana | 424903 | [424903-tidy-arcana.json](./424903-tidy-arcana.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Backpack: In the Faraway Lands | 412003 | [412003-tidy-backpack-in-the-faraway-lands.json](./412003-tidy-backpack-in-the-faraway-lands.json) |
 | Tidy Bakery | 427162 | [427162-tidy-bakery.json](./427162-tidy-bakery.json) |
@@ -29269,6 +29274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooth & Tide | 425347 | [425347-tooth-and-tide.json](./425347-tooth-and-tide.json) |
 | Tooth and Claw | 81057 | [81057-tooth-and-claw.json](./81057-tooth-and-claw.json) |
 | Tooth and Tail | 12519 | [12519-tooth-and-tail.json](./12519-tooth-and-tail.json) |
+| Tooth and Tusk | 424752 | [424752-tooth-and-tusk.json](./424752-tooth-and-tusk.json) |
 | Tooth Fairy Horse | 250454 | [250454-tooth-fairy-horse.json](./250454-tooth-fairy-horse.json) |
 | Tooth Invaders | 92322 | [92322-tooth-invaders.json](./92322-tooth-invaders.json) |
 | Tooth Protectors | 11236 | [11236-tooth-protectors.json](./11236-tooth-protectors.json) |
@@ -34470,6 +34476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
+| Trash to Cash | 424891 | [424891-trash-to-cash.json](./424891-trash-to-cash.json) |
 | Trash to Trees: Tidy Up the Forest! | 421719 | [421719-trash-to-trees-tidy-up-the-forest.json](./421719-trash-to-trees-tidy-up-the-forest.json) |
 | Trash Trek Simulator | 334556 | [334556-trash-trek-simulator.json](./334556-trash-trek-simulator.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
@@ -36042,6 +36049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
 | Tropic Empire | 114695 | [114695-tropic-empire.json](./114695-tropic-empire.json) |
+| Tropic Industry | 424894 | [424894-tropic-industry.json](./424894-tropic-industry.json) |
 | Tropic Island | 289758 | [289758-tropic-island.json](./289758-tropic-island.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropic Jim's Sweet Island Adventure | 233132 | [233132-tropic-jims-sweet-island-adventure.json](./233132-tropic-jims-sweet-island-adventure.json) |
