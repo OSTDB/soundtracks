@@ -11226,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honya Monogatari | 173415 | [173415-honya-monogatari.json](./173415-honya-monogatari.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hoo-Boy | 56660 | [56660-hoo-boy.json](./56660-hoo-boy.json) |
 | Hood | 426054 | [426054-hood.json](./426054-hood.json) |
 | Hood Episode 1 | 393032 | [393032-hood-episode-1.json](./393032-hood-episode-1.json) |
 | Hood Episode 2 | 393035 | [393035-hood-episode-2.json](./393035-hood-episode-2.json) |
