@@ -8059,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Blacksmith | 291801 | [291801-medieval-blacksmith.json](./291801-medieval-blacksmith.json) |
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
 | Medieval Businessman | 311218 | [311218-medieval-businessman.json](./311218-medieval-businessman.json) |
+| Medieval Bust | 424883 | [424883-medieval-bust.json](./424883-medieval-bust.json) |
 | Medieval Castle Siege Defense vs. Invaders | 406083 | [406083-medieval-castle-siege-defense-vs-invaders.json](./406083-medieval-castle-siege-defense-vs-invaders.json) |
 | Medieval Chaos | 302315 | [302315-medieval-chaos.json](./302315-medieval-chaos.json) |
 | Medieval Clicker Blacksmith | 256735 | [256735-medieval-clicker-blacksmith.json](./256735-medieval-clicker-blacksmith.json) |
@@ -17726,6 +17727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Girls: Autobattler | 328205 | [328205-monmusu-girls-autobattler.json](./328205-monmusu-girls-autobattler.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Monmusu Paradise: Visitors | 344602 | [344602-monmusu-paradise-visitors.json](./344602-monmusu-paradise-visitors.json) |
+| Monmusu Rush | 424892 | [424892-monmusu-rush.json](./424892-monmusu-rush.json) |
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
 | Mono | 70748 | [70748-mono.json](./70748-mono.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
@@ -23855,6 +23857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Colony | 193393 | [193393-my-little-colony.json](./193393-my-little-colony.json) |
 | My Little Dictator | 86274 | [86274-my-little-dictator.json](./86274-my-little-dictator.json) |
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
+| My Little Empire: Cyber Lounge | 424890 | [424890-my-little-empire-cyber-lounge.json](./424890-my-little-empire-cyber-lounge.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Farmies | 86641 | [86641-my-little-farmies.json](./86641-my-little-farmies.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
