@@ -6753,7 +6753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
-| Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wings.io | 58433 | [58433-wings-io.json](./58433-wings-io.json) |
 | Wingspan + European Expansion | 200514 | [200514-wingspan-european-expansion.json](./200514-wingspan-european-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
