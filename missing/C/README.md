@@ -4367,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleStorm: Complete Edition | 99924 | [99924-castlestorm-complete-edition.json](./99924-castlestorm-complete-edition.json) |
 | CastleStorm: From Outcast to Savior | 50780 | [50780-castlestorm-from-outcast-to-savior.json](./50780-castlestorm-from-outcast-to-savior.json) |
 | CastleStorm: The Warrior Queen | 50779 | [50779-castlestorm-the-warrior-queen.json](./50779-castlestorm-the-warrior-queen.json) |
+| CastleStorm: Virtual Reality | 104782 | [104782-castlestorm-virtual-reality.json](./104782-castlestorm-virtual-reality.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Golf | 364373 | [364373-celestial-golf.json](./364373-celestial-golf.json) |
 | Celestial Green | 181706 | [181706-celestial-green.json](./181706-celestial-green.json) |
+| Celestial Hacker Girl Jessica | 104884 | [104884-celestial-hacker-girl-jessica.json](./104884-celestial-hacker-girl-jessica.json) |
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Impact | 62665 | [62665-celestial-impact.json](./62665-celestial-impact.json) |
@@ -7313,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase the Sun 3D | 244814 | [244814-chase-the-sun-3d.json](./244814-chase-the-sun-3d.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
 | Chase: Cold Case Investigations - Distant Memories | 25039 | [25039-chase-cold-case-investigations-distant-memories.json](./25039-chase-cold-case-investigations-distant-memories.json) |
+| Chase: Distant Memories | 104781 | [104781-chase-distant-memories.json](./104781-chase-distant-memories.json) |
 | Chase: Hollywood Stunt Driver | 5774 | [5774-chase-hollywood-stunt-driver.json](./5774-chase-hollywood-stunt-driver.json) |
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
@@ -8314,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
+| Chicken Rider | 104878 | [104878-chicken-rider.json](./104878-chicken-rider.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run | 198716 | [198716-chicken-run.json](./198716-chicken-run.json) |
 | Chicken Run | 248768 | [248768-chicken-run.json](./248768-chicken-run.json) |
