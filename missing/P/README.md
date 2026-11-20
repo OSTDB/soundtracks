@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin | 71600 | [71600-paladin.json](./71600-paladin.json) |
 | Paladin Dream | 154995 | [154995-paladin-dream.json](./154995-paladin-dream.json) |
 | Paladin Duty: Knights and Blades | 89393 | [89393-paladin-duty-knights-and-blades.json](./89393-paladin-duty-knights-and-blades.json) |
+| Paladin HC | 424888 | [424888-paladin-hc.json](./424888-paladin-hc.json) |
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin Lias | 160113 | [160113-paladin-lias.json](./160113-paladin-lias.json) |
 | Paladin Quest Disk: The Scrolls of Talmouth | 70284 | [70284-paladin-quest-disk-the-scrolls-of-talmouth.json](./70284-paladin-quest-disk-the-scrolls-of-talmouth.json) |
@@ -6908,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
 | Picket Line | 249714 | [249714-picket-line.json](./249714-picket-line.json) |
 | Picket Puzzle | 293778 | [293778-picket-puzzle.json](./293778-picket-puzzle.json) |
+| Pickie Grappy | 424901 | [424901-pickie-grappy.json](./424901-pickie-grappy.json) |
 | Picking up the Pieces | 232225 | [232225-picking-up-the-pieces.json](./232225-picking-up-the-pieces.json) |
 | Picking Wheat | 208650 | [208650-picking-wheat.json](./208650-picking-wheat.json) |
 | Pickle | 314264 | [314264-pickle.json](./314264-pickle.json) |
@@ -8945,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Pioneers | 391153 | [391153-pit-pioneers.json](./391153-pit-pioneers.json) |
 | Pit Pot | 46113 | [46113-pit-pot.json](./46113-pit-pot.json) |
 | Pit Pot: The Magical Castle | 36678 | [36678-pit-pot-the-magical-castle.json](./36678-pit-pot-the-magical-castle.json) |
+| Pit Purge | 424899 | [424899-pit-purge.json](./424899-pit-purge.json) |
 | Pit Rush | 183382 | [183382-pit-rush.json](./183382-pit-rush.json) |
 | Pit Stop Challenge | 237587 | [237587-pit-stop-challenge.json](./237587-pit-stop-challenge.json) |
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
