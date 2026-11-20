@@ -7924,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Gods | 414464 | [414464-between-gods.json](./414464-between-gods.json) |
+| Between Hammer and Anvil | 423758 | [423758-between-hammer-and-anvil.json](./423758-between-hammer-and-anvil.json) |
 | Between Heaven and Hell | 72033 | [72033-between-heaven-and-hell.json](./72033-between-heaven-and-hell.json) |
 | Between Horizons | 206426 | [206426-between-horizons.json](./206426-between-horizons.json) |
 | Between Horizons + Lacuna Bundle | 317553 | [317553-between-horizons-lacuna-bundle.json](./317553-between-horizons-lacuna-bundle.json) |
@@ -8878,6 +8879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigMcGee | 309202 | [309202-bigmcgee.json](./309202-bigmcgee.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigtop Barney | 91796 | [91796-bigtop-barney.json](./91796-bigtop-barney.json) |
+| BigWall: WildKnight | 423788 | [423788-bigwall-wildknight.json](./423788-bigwall-wildknight.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
 | BigWorld: Citizen Zero | 60673 | [60673-bigworld-citizen-zero.json](./60673-bigworld-citizen-zero.json) |
@@ -14033,6 +14035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodyslam | 222600 | [222600-bodyslam.json](./222600-bodyslam.json) |
 | BodySlam! | 180705 | [180705-bodyslam.json](./180705-bodyslam.json) |
 | Bodyworks Voyager: Mission in Anatomy | 74084 | [74084-bodyworks-voyager-mission-in-anatomy.json](./74084-bodyworks-voyager-mission-in-anatomy.json) |
+| Bodzin | 423745 | [423745-bodzin.json](./423745-bodzin.json) |
 | Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
 | Boet Fighter | 120999 | [120999-boet-fighter.json](./120999-boet-fighter.json) |
