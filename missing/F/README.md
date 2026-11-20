@@ -7993,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five Hearts Under One Roof 2 | 370971 | [370971-five-hearts-under-one-roof-2.json](./370971-five-hearts-under-one-roof-2.json) |
+| Five Hearts Under One Roof 2: Winter Trip DLC | 421288 | [421288-five-hearts-under-one-roof-2-winter-trip-dlc.json](./421288-five-hearts-under-one-roof-2-winter-trip-dlc.json) |
 | Five Hearts Under One Roof 3 | 423891 | [423891-five-hearts-under-one-roof-3.json](./423891-five-hearts-under-one-roof-3.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
 | Five Hundred (500) | 104754 | [104754-five-hundred-500.json](./104754-five-hundred-500.json) |
@@ -8475,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
+| Flappers 98 | 421339 | [421339-flappers-98.json](./421339-flappers-98.json) |
 | Flappin Nutz | 27504 | [27504-flappin-nutz.json](./27504-flappin-nutz.json) |
 | FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | Flapping Over It | 100632 | [100632-flapping-over-it.json](./100632-flapping-over-it.json) |
