@@ -9467,6 +9467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
+| Extraction Shop Simulator | 424946 | [424946-extraction-shop-simulator.json](./424946-extraction-shop-simulator.json) |
 | Extraction Valley | 121020 | [121020-extraction-valley.json](./121020-extraction-valley.json) |
 | Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
 | Extracurricular Activities | 205696 | [205696-extracurricular-activities.json](./205696-extracurricular-activities.json) |
