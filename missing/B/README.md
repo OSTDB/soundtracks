@@ -10725,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Zero Point | 259195 | [259195-blackout-zero-point.json](./259195-blackout-zero-point.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| Blackpool | 427042 | [427042-blackpool.json](./427042-blackpool.json) |
 | Blackrock | 359097 | [359097-blackrock.json](./359097-blackrock.json) |
 | Blackroom | 18915 | [18915-blackroom.json](./18915-blackroom.json) |
 | Blackroot: Medieval Survival | 348571 | [348571-blackroot-medieval-survival.json](./348571-blackroot-medieval-survival.json) |
@@ -13199,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blox 3D City Creator | 186424 | [186424-blox-3d-city-creator.json](./186424-blox-3d-city-creator.json) |
 | Blox 3D World | 196053 | [196053-blox-3d-world.json](./196053-blox-3d-world.json) |
 | Blox 3D World Creator | 102466 | [102466-blox-3d-world-creator.json](./102466-blox-3d-world-creator.json) |
+| Blox Shop Simulator | 427063 | [427063-blox-shop-simulator.json](./427063-blox-shop-simulator.json) |
 | BloxAR | 357299 | [357299-bloxar.json](./357299-bloxar.json) |
 | Bloxcalibur | 322043 | [322043-bloxcalibur.json](./322043-bloxcalibur.json) |
 | Bloxd.io | 280970 | [280970-bloxd-io.json](./280970-bloxd-io.json) |
