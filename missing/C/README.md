@@ -10244,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinicross | 367828 | [367828-cinicross.json](./367828-cinicross.json) |
 | Cinnabar Kamen | 269141 | [269141-cinnabar-kamen.json](./269141-cinnabar-kamen.json) |
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
+| Cinnaboi: Baked Brawl | 423673 | [423673-cinnaboi-baked-brawl.json](./423673-cinnaboi-baked-brawl.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | Cinnamon Ball: Kuru-kuru Sweets Paradise | 123299 | [123299-cinnamon-ball-kuru-kuru-sweets-paradise.json](./123299-cinnamon-ball-kuru-kuru-sweets-paradise.json) |
 | Cinnamon fight | 150298 | [150298-cinnamon-fight.json](./150298-cinnamon-fight.json) |
@@ -18421,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPCMiniPac | 267217 | [267217-cpcminipac.json](./267217-cpcminipac.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
+| CPM 2 | 423731 | [423731-cpm-2.json](./423731-cpm-2.json) |
 | CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
 | CPU Architecture Sim | 116930 | [116930-cpu-architecture-sim.json](./116930-cpu-architecture-sim.json) |
@@ -20237,6 +20239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Snow Deluxe | 310030 | [310030-crimson-snow-deluxe.json](./310030-crimson-snow-deluxe.json) |
 | Crimson Song | 239818 | [239818-crimson-song.json](./239818-crimson-song.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
+| Crimson Spine | 423728 | [423728-crimson-spine.json](./423728-crimson-spine.json) |
 | Crimson Spires | 143790 | [143790-crimson-spires.json](./143790-crimson-spires.json) |
 | Crimson Spirit | 258153 | [258153-crimson-spirit.json](./258153-crimson-spirit.json) |
 | Crimson Standard | 205865 | [205865-crimson-standard.json](./205865-crimson-standard.json) |
