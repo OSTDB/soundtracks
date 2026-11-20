@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Crush VR | 190423 | [190423-zombie-crush-vr.json](./190423-zombie-crush-vr.json) |
 | Zombie Crusher | 350766 | [350766-zombie-crusher.json](./350766-zombie-crusher.json) |
+| Zombie Crypt | 422540 | [422540-zombie-crypt.json](./422540-zombie-crypt.json) |
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
 | Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
 | Zombie Cure Lab | 165153 | [165153-zombie-cure-lab.json](./165153-zombie-cure-lab.json) |
