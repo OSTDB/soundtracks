@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Golf | 47504 | [47504-queens-golf.json](./47504-queens-golf.json) |
 | Queen’s Guard | 371797 | [371797-queen-s-guard.json](./371797-queen-s-guard.json) |
 | Queen's Loyalty | 298640 | [298640-queens-loyalty.json](./298640-queens-loyalty.json) |
+| Queen's Pact | 426767 | [426767-queens-pact.json](./426767-queens-pact.json) |
 | Queen's Quest 2: Stories of Forgotten Past | 30424 | [30424-queens-quest-2-stories-of-forgotten-past.json](./30424-queens-quest-2-stories-of-forgotten-past.json) |
 | Queen's Quest 2: Stories of Forgotten Past - Collector's Edition | 343352 | [343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json](./343352-queens-quest-2-stories-of-forgotten-past-collectors-edition.json) |
 | Queen's Quest 3: The End of Dawn | 28310 | [28310-queens-quest-3-the-end-of-dawn.json](./28310-queens-quest-3-the-end-of-dawn.json) |
