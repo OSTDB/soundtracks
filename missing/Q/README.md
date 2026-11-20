@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questprobe featuring Human Torch and the Thing | 24385 | [24385-questprobe-featuring-human-torch-and-the-thing.json](./24385-questprobe-featuring-human-torch-and-the-thing.json) |
 | Questprobe featuring Spider-Man | 24384 | [24384-questprobe-featuring-spider-man.json](./24384-questprobe-featuring-spider-man.json) |
 | Questprobe featuring The Hulk | 12934 | [12934-questprobe-featuring-the-hulk.json](./12934-questprobe-featuring-the-hulk.json) |
+| Questr | 55458 | [55458-questr.json](./55458-questr.json) |
 | Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
