@@ -18372,6 +18372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid 69 | 387096 | [387096-asteroid-69.json](./387096-asteroid-69.json) |
 | Asteroid Arcade | 240601 | [240601-asteroid-arcade.json](./240601-asteroid-arcade.json) |
 | Asteroid Arena | 190060 | [190060-asteroid-arena.json](./190060-asteroid-arena.json) |
+| Asteroid Bastion | 427952 | [427952-asteroid-bastion.json](./427952-asteroid-bastion.json) |
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
 | Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
