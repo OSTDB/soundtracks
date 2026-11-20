@@ -672,7 +672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Police | 12694 | [12694-narco-police.json](./12694-narco-police.json) |
 | Narco Strike | 115387 | [115387-narco-strike.json](./115387-narco-strike.json) |
-| Narco Terror | 16446 | [16446-narco-terror.json](./16446-narco-terror.json) |
 | Narco Tycoon | 153896 | [153896-narco-tycoon.json](./153896-narco-tycoon.json) |
 | Narco Wars | 263133 | [263133-narco-wars.json](./263133-narco-wars.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
@@ -5702,7 +5701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Arena | 110571 | [110571-ninja-arena.json](./110571-ninja-arena.json) |
 | Ninja Arena | 376804 | [376804-ninja-arena.json](./376804-ninja-arena.json) |
 | Ninja Assassin | 228138 | [228138-ninja-assassin.json](./228138-ninja-assassin.json) |
-| Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
 | Ninja Assault | 245110 | [245110-ninja-assault.json](./245110-ninja-assault.json) |
 | Ninja Attack | 280152 | [280152-ninja-attack.json](./280152-ninja-attack.json) |
 | Ninja Attack! | 87000 | [87000-ninja-attack.json](./87000-ninja-attack.json) |
@@ -8688,7 +8686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbra | 346727 | [346727-numbra.json](./346727-numbra.json) |
 | Numbskull | 308343 | [308343-numbskull.json](./308343-numbskull.json) |
 | Numbskull Monogatari | 415958 | [415958-numbskull-monogatari.json](./415958-numbskull-monogatari.json) |
-| Numen: Contest of Heroes | 16195 | [16195-numen-contest-of-heroes.json](./16195-numen-contest-of-heroes.json) |
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
