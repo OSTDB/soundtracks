@@ -23330,7 +23330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threads of Time | 317820 | [317820-threads-of-time.json](./317820-threads-of-time.json) |
 | Threads of War | 296691 | [296691-threads-of-war.json](./296691-threads-of-war.json) |
 | Threads of You: Beyond the Bay | 284034 | [284034-threads-of-you-beyond-the-bay.json](./284034-threads-of-you-beyond-the-bay.json) |
-| ThreadSpace: Hyperbol | 14802 | [14802-threadspace-hyperbol.json](./14802-threadspace-hyperbol.json) |
 | Threat | 94410 | [94410-threat.json](./94410-threat.json) |
 | Threat Actor | 245745 | [245745-threat-actor.json](./245745-threat-actor.json) |
 | Threat Assessment | 300669 | [300669-threat-assessment.json](./300669-threat-assessment.json) |
