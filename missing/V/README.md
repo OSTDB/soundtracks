@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Fever | 120026 | [120026-volleyball-fever.json](./120026-volleyball-fever.json) |
 | Volleyball Fever Flat | 126783 | [126783-volleyball-fever-flat.json](./126783-volleyball-fever-flat.json) |
 | Volleyball Heaven | 113275 | [113275-volleyball-heaven.json](./113275-volleyball-heaven.json) |
+| Volleyball Mania | 421935 | [421935-volleyball-mania.json](./421935-volleyball-mania.json) |
 | Volleyball Simulator | 111900 | [111900-volleyball-simulator.json](./111900-volleyball-simulator.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
 | Volleyball Unbound | 31548 | [31548-volleyball-unbound.json](./31548-volleyball-unbound.json) |
