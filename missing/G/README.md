@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Love | 163249 | [163249-game-of-love.json](./163249-game-of-love.json) |
 | Game of Lust | 173850 | [173850-game-of-lust.json](./173850-game-of-lust.json) |
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
+| Game of Mods | 418779 | [418779-game-of-mods.json](./418779-game-of-mods.json) |
 | Game of Planets | 391569 | [391569-game-of-planets.json](./391569-game-of-planets.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
