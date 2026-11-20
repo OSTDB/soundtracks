@@ -3620,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump and Ride: Riding Academy | 210144 | [210144-jump-and-ride-riding-academy.json](./210144-jump-and-ride-riding-academy.json) |
 | Jump and Roll | 243102 | [243102-jump-and-roll.json](./243102-jump-and-roll.json) |
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
+| Jump Bald | 423681 | [423681-jump-bald.json](./423681-jump-bald.json) |
 | Jump Ball | 223044 | [223044-jump-ball.json](./223044-jump-ball.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
 | Jump Ball Blast | 106781 | [106781-jump-ball-blast.json](./106781-jump-ball-blast.json) |
