@@ -5351,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeScape | 351554 | [351554-lifescape.json](./351554-lifescape.json) |
 | Lifescape 2: Bodybionics | 351552 | [351552-lifescape-2-bodybionics.json](./351552-lifescape-2-bodybionics.json) |
 | Lifesigns | 143575 | [143575-lifesigns.json](./143575-lifesigns.json) |
+| LifeSimOS | 421917 | [421917-lifesimos.json](./421917-lifesimos.json) |
 | Lifeslide | 111101 | [111101-lifeslide.json](./111101-lifeslide.json) |
 | Lifespace Traveler | 226482 | [226482-lifespace-traveler.json](./226482-lifespace-traveler.json) |
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
