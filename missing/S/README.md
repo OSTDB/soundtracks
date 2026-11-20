@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
 | S.A.I.N | 133582 | [133582-s-a-i-n.json](./133582-s-a-i-n.json) |
+| S.A.L.A.M.E. | 419524 | [419524-s-a-l-a-m-e.json](./419524-s-a-l-a-m-e.json) |
 | S.A.M | 312951 | [312951-s-a-m.json](./312951-s-a-m.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
 | Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
+| Sahrtkom | 419513 | [419513-sahrtkom.json](./419513-sahrtkom.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
 | SaHwa: The Altered Timeline | 368601 | [368601-sahwa-the-altered-timeline.json](./368601-sahwa-the-altered-timeline.json) |
 | Sai | 133880 | [133880-sai.json](./133880-sai.json) |
@@ -13119,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin & Host: The Diner | 258566 | [258566-sin-and-host-the-diner.json](./258566-sin-and-host-the-diner.json) |
 | Sin & Siege | 352149 | [352149-sin-and-siege.json](./352149-sin-and-siege.json) |
 | Sin and Love | 344830 | [344830-sin-and-love.json](./344830-sin-and-love.json) |
+| Sin and Serve | 419525 | [419525-sin-and-serve.json](./419525-sin-and-serve.json) |
 | Sin Bearers Tactics | 189232 | [189232-sin-bearers-tactics.json](./189232-sin-bearers-tactics.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
@@ -31093,6 +31096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stillness | 348385 | [348385-stillness.json](./348385-stillness.json) |
 | Stillness | 385149 | [385149-stillness.json](./385149-stillness.json) |
 | Stilltrace | 419388 | [419388-stilltrace.json](./419388-stilltrace.json) |
+| Stillwake | 419534 | [419534-stillwake.json](./419534-stillwake.json) |
 | Stillwater | 191558 | [191558-stillwater.json](./191558-stillwater.json) |
 | Stillwater | 398402 | [398402-stillwater.json](./398402-stillwater.json) |
 | Stillwater Remastered | 280424 | [280424-stillwater-remastered.json](./280424-stillwater-remastered.json) |
