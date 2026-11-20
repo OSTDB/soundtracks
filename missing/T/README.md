@@ -5164,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranean | 83353 | [83353-terranean.json](./83353-terranean.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
+| Terranigma 2: Spark of Creation | 419477 | [419477-terranigma-2-spark-of-creation.json](./419477-terranigma-2-spark-of-creation.json) |
 | Terranigma: Boss Rush | 343033 | [343033-terranigma-boss-rush.json](./343033-terranigma-boss-rush.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
@@ -24113,6 +24114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
+| Tidy Up the Backrooms | 419519 | [419519-tidy-up-the-backrooms.json](./419519-tidy-up-the-backrooms.json) |
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
@@ -37953,6 +37955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Drive | 425143 | [425143-twin-drive.json](./425143-twin-drive.json) |
 | Twin Eagle | 247300 | [247300-twin-eagle.json](./247300-twin-eagle.json) |
+| Twin Eagle | 419518 | [419518-twin-eagle.json](./419518-twin-eagle.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Eagle II: The Rescue Mission | 39296 | [39296-twin-eagle-ii-the-rescue-mission.json](./39296-twin-eagle-ii-the-rescue-mission.json) |
