@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Heroes 2 | 59892 | [59892-random-heroes-2.json](./59892-random-heroes-2.json) |
 | Random Heroes 3 | 59893 | [59893-random-heroes-3.json](./59893-random-heroes-3.json) |
 | Random Heroes: Gold Edition | 129249 | [129249-random-heroes-gold-edition.json](./129249-random-heroes-gold-edition.json) |
+| Random Horse Derby | 419487 | [419487-random-horse-derby.json](./419487-random-horse-derby.json) |
 | Random House Puzzles & Games: Crosswords & Crostics | 209313 | [209313-random-house-puzzles-and-games-crosswords-and-crostics.json](./209313-random-house-puzzles-and-games-crosswords-and-crostics.json) |
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
@@ -5941,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
 | Renowned Explorers: International Society | 12510 | [12510-renowned-explorers-international-society.json](./12510-renowned-explorers-international-society.json) |
 | Renowned Explorers: The Emperor's Challenge | 51876 | [51876-renowned-explorers-the-emperors-challenge.json](./51876-renowned-explorers-the-emperors-challenge.json) |
+| Rense | 419535 | [419535-rense.json](./419535-rense.json) |
 | Renshin no Astral | 196601 | [196601-renshin-no-astral.json](./196601-renshin-no-astral.json) |
 | Rent A Car Simulator 24 | 293121 | [293121-rent-a-car-simulator-24.json](./293121-rent-a-car-simulator-24.json) |
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
@@ -10636,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Revolution | 7164 | [7164-rock-revolution.json](./7164-rock-revolution.json) |
 | Rock Rock Rock | 326105 | [326105-rock-rock-rock.json](./326105-rock-rock-rock.json) |
 | Rock Run | 103988 | [103988-rock-run.json](./103988-rock-run.json) |
+| Rock Runner | 419475 | [419475-rock-runner.json](./419475-rock-runner.json) |
 | Rock Runners | 23403 | [23403-rock-runners.json](./23403-rock-runners.json) |
 | Rock Rush | 231147 | [231147-rock-rush.json](./231147-rock-rush.json) |
 | Rock Scissor Paper | 262927 | [262927-rock-scissor-paper.json](./262927-rock-scissor-paper.json) |
@@ -11769,6 +11772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
 | Roll a Dice | 333473 | [333473-roll-a-dice.json](./333473-roll-a-dice.json) |
+| Roll Arena | 419504 | [419504-roll-arena.json](./419504-roll-arena.json) |
 | Roll Away | 9678 | [9678-roll-away.json](./9678-roll-away.json) |
 | Roll Back Home | 103113 | [103113-roll-back-home.json](./103113-roll-back-home.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
@@ -12071,6 +12075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolypolys no Sekai Daibouken | 123289 | [123289-rolypolys-no-sekai-daibouken.json](./123289-rolypolys-no-sekai-daibouken.json) |
 | Rom | 176846 | [176846-rom.json](./176846-rom.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
+| ROM Check Panic! | 419497 | [419497-rom-check-panic.json](./419497-rom-check-panic.json) |
 | Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | ROM: Extraction | 26549 | [26549-rom-extraction.json](./26549-rom-extraction.json) |
 | ROM: Remember of Majesty | 288993 | [288993-rom-remember-of-majesty.json](./288993-rom-remember-of-majesty.json) |
