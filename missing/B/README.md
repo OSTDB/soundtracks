@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
 | Badge(r)s | 317141 | [317141-badge-r-s.json](./317141-badge-r-s.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
+| Badiya: Desert Survival | 30925 | [30925-badiya-desert-survival.json](./30925-badiya-desert-survival.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
 | Badland 2 | 15470 | [15470-badland-2.json](./15470-badland-2.json) |
@@ -6775,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beekeeper Simulator | 428273 | [428273-beekeeper-simulator.json](./428273-beekeeper-simulator.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
+| Beekyr Reloaded | 32507 | [32507-beekyr-reloaded.json](./32507-beekyr-reloaded.json) |
 | Beel the Pollinator | 401372 | [401372-beel-the-pollinator.json](./401372-beel-the-pollinator.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
@@ -17309,6 +17311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arcade Games Out | 282230 | [282230-break-arcade-games-out.json](./282230-break-arcade-games-out.json) |
+| Break Arts II | 30812 | [30812-break-arts-ii.json](./30812-break-arts-ii.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Blocks | 65111 | [65111-break-blocks.json](./65111-break-blocks.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
