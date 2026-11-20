@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnytour | 244402 | [244402-magnytour.json](./244402-magnytour.json) |
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Mago: The Villain's Burger | 188698 | [188698-mago-the-villains-burger.json](./188698-mago-the-villains-burger.json) |
+| Mago's Empire | 426747 | [426747-magos-empire.json](./426747-magos-empire.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
 | Magolor Wii | 314562 | [314562-magolor-wii.json](./314562-magolor-wii.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mags and Body Bags | 415555 | [415555-mags-and-body-bags.json](./415555-mags-and-body-bags.json) |
 | Magsic | 324044 | [324044-magsic.json](./324044-magsic.json) |
 | Magsic II | 324050 | [324050-magsic-ii.json](./324050-magsic-ii.json) |
+| Magtiles | 426762 | [426762-magtiles.json](./426762-magtiles.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
@@ -10530,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Playground | 168543 | [168543-meow-playground.json](./168543-meow-playground.json) |
 | Meow Pow | 156790 | [156790-meow-pow.json](./156790-meow-pow.json) |
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
+| Meow Sudoku | 426736 | [426736-meow-sudoku.json](./426736-meow-sudoku.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Sushi Night | 183310 | [183310-meow-sushi-night.json](./183310-meow-sushi-night.json) |
 | Meow TD: Endless Yarn | 332790 | [332790-meow-td-endless-yarn.json](./332790-meow-td-endless-yarn.json) |
@@ -15859,6 +15862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing | 374163 | [374163-missing.json](./374163-missing.json) |
 | Missing Banban | 315973 | [315973-missing-banban.json](./315973-missing-banban.json) |
 | Missing Blue | 125405 | [125405-missing-blue.json](./125405-missing-blue.json) |
+| Missing Body | 426793 | [426793-missing-body.json](./426793-missing-body.json) |
 | Missing Bullet | 159413 | [159413-missing-bullet.json](./159413-missing-bullet.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
