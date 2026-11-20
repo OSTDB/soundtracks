@@ -7092,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banana Splits: Pie-Toss | 376513 | [376513-the-banana-splits-pie-toss.json](./376513-the-banana-splits-pie-toss.json) |
 | The Bananatree Brothers | 97455 | [97455-the-bananatree-brothers.json](./97455-the-bananatree-brothers.json) |
 | The Bananatree Brothers: Eat Carrots | 97454 | [97454-the-bananatree-brothers-eat-carrots.json](./97454-the-bananatree-brothers-eat-carrots.json) |
+| The Banishing Act | 430547 | [430547-the-banishing-act.json](./430547-the-banishing-act.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 2: Deluxe Edition | 51708 | [51708-the-banner-saga-2-deluxe-edition.json](./51708-the-banner-saga-2-deluxe-edition.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
@@ -7675,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Biblets: Part 1 - In the Beginning | 65126 | [65126-the-book-of-biblets-part-1-in-the-beginning.json](./65126-the-book-of-biblets-part-1-in-the-beginning.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Bondmaids | 171672 | [171672-the-book-of-bondmaids.json](./171672-the-book-of-bondmaids.json) |
+| The Book of Bondmaids: Cooks, Thieves, Wives and Lovers | 430587 | [430587-the-book-of-bondmaids-cooks-thieves-wives-and-lovers.json](./430587-the-book-of-bondmaids-cooks-thieves-wives-and-lovers.json) |
 | The Book of Bondmaids: Tales | 226905 | [226905-the-book-of-bondmaids-tales.json](./226905-the-book-of-bondmaids-tales.json) |
 | The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
@@ -23126,6 +23128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker | 117975 | [117975-this-is-snooker.json](./117975-this-is-snooker.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
+| This Is the ... Ultimate Loyalty Bundle | 430396 | [430396-this-is-the-ultimate-loyalty-bundle.json](./430396-this-is-the-ultimate-loyalty-bundle.json) |
 | This is the last time | 337550 | [337550-this-is-the-last-time.json](./337550-this-is-the-last-time.json) |
 | This is the Only Level | 121726 | [121726-this-is-the-only-level.json](./121726-this-is-the-only-level.json) |
 | This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
@@ -26077,6 +26080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile To Tile | 319244 | [319244-tile-to-tile.json](./319244-tile-to-tile.json) |
 | Tile Town | 220519 | [220519-tile-town.json](./220519-tile-town.json) |
 | Tile Trials | 392196 | [392196-tile-trials.json](./392196-tile-trials.json) |
+| Tile Trio | 430654 | [430654-tile-trio.json](./430654-tile-trio.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile Typer | 81673 | [81673-tile-typer.json](./81673-tile-typer.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
