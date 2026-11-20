@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inch By Inch | 266540 | [266540-inch-by-inch.json](./266540-inch-by-inch.json) |
 | Inching Along | 403271 | [403271-inching-along.json](./403271-inching-along.json) |
 | Inchworm Animation | 85194 | [85194-inchworm-animation.json](./85194-inchworm-animation.json) |
+| Incident 24 | 423724 | [423724-incident-24.json](./423724-incident-24.json) |
 | Incident 370-B | 284156 | [284156-incident-370-b.json](./284156-incident-370-b.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
@@ -4357,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dungeon Crawler: The Infernal Dungeons | 155348 | [155348-infinite-dungeon-crawler-the-infernal-dungeons.json](./155348-infinite-dungeon-crawler-the-infernal-dungeons.json) |
 | Infinite Dungeon Crawler: The Swampy Isles | 250799 | [250799-infinite-dungeon-crawler-the-swampy-isles.json](./250799-infinite-dungeon-crawler-the-swampy-isles.json) |
 | Infinite Dungeon: Idle Adventure | 398606 | [398606-infinite-dungeon-idle-adventure.json](./398606-infinite-dungeon-idle-adventure.json) |
+| Infinite Dwarf Mine | 423678 | [423678-infinite-dwarf-mine.json](./423678-infinite-dwarf-mine.json) |
 | Infinite Echoes Advance | 419926 | [419926-infinite-echoes-advance.json](./419926-infinite-echoes-advance.json) |
 | Infinite Einstein Tiles | 352291 | [352291-infinite-einstein-tiles.json](./352291-infinite-einstein-tiles.json) |
 | Infinite Einstein Tiles2 | 374253 | [374253-infinite-einstein-tiles2.json](./374253-infinite-einstein-tiles2.json) |
@@ -4708,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
+| Infusion | 423711 | [423711-infusion.json](./423711-infusion.json) |
 | Inga Ouhou: Murderous Plaza | 197019 | [197019-inga-ouhou-murderous-plaza.json](./197019-inga-ouhou-murderous-plaza.json) |
 | InGame.exe | 65817 | [65817-ingame-exe.json](./65817-ingame-exe.json) |
 | Inganock of the Raging Flame: What a Beautiful People | 387048 | [387048-inganock-of-the-raging-flame-what-a-beautiful-people.json](./387048-inganock-of-the-raging-flame-what-a-beautiful-people.json) |
