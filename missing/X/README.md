@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBall Champion | 86232 | [86232-xball-champion.json](./86232-xball-champion.json) |
 | XBattle | 192104 | [192104-xbattle.json](./192104-xbattle.json) |
 | Xbird | 28424 | [28424-xbird.json](./28424-xbird.json) |
+| XBlast | 425538 | [425538-xblast.json](./425538-xblast.json) |
 | XBlaze Code: Embryo | 11636 | [11636-xblaze-code-embryo.json](./11636-xblaze-code-embryo.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Buddies | 138977 | [138977-xbox-buddies.json](./138977-xbox-buddies.json) |
