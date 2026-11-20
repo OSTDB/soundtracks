@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse: Echo of Dimension | 295490 | [295490-eclipse-echo-of-dimension.json](./295490-eclipse-echo-of-dimension.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
 | Eclipse: Fall - Kami no Danzai | 379353 | [379353-eclipse-fall-kami-no-danzai.json](./379353-eclipse-fall-kami-no-danzai.json) |
+| Eclipse: New Dawn for the Galaxy | 24410 | [24410-eclipse-new-dawn-for-the-galaxy.json](./24410-eclipse-new-dawn-for-the-galaxy.json) |
 | Eclipse: Shine of Dawn | 219246 | [219246-eclipse-shine-of-dawn.json](./219246-eclipse-shine-of-dawn.json) |
 | Eclipse: Special Forces | 345002 | [345002-eclipse-special-forces.json](./345002-eclipse-special-forces.json) |
 | Eclipsed | 33592 | [33592-eclipsed.json](./33592-eclipsed.json) |
