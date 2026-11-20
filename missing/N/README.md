@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
 | Naberon | 421594 | [421594-naberon.json](./421594-naberon.json) |
 | Nabi | 320551 | [320551-nabi.json](./320551-nabi.json) |
+| Nabi | 427379 | [427379-nabi.json](./427379-nabi.json) |
 | Nabogorf | 284229 | [284229-nabogorf.json](./284229-nabogorf.json) |
 | Naboki | 125070 | [125070-naboki.json](./125070-naboki.json) |
 | Nabokos | 185140 | [185140-nabokos.json](./185140-nabokos.json) |
@@ -2337,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-nin ExHeart Spin! | 255547 | [255547-neko-nin-exheart-spin.json](./255547-neko-nin-exheart-spin.json) |
 | Neko-nin ExHeart Spin! | 255548 | [255548-neko-nin-exheart-spin.json](./255548-neko-nin-exheart-spin.json) |
+| Neko-nin ExHeart Spin! 2 | 427386 | [427386-neko-nin-exheart-spin-2.json](./427386-neko-nin-exheart-spin-2.json) |
 | Neko-Nin exHeart Spin! Love+Plus | 384234 | [384234-neko-nin-exheart-spin-love-plus.json](./384234-neko-nin-exheart-spin-love-plus.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
@@ -6697,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Returns | 403398 | [403398-no-one-returns.json](./403398-no-one-returns.json) |
 | No One Survived | 200616 | [200616-no-one-survived.json](./200616-no-one-survived.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
+| No One to See: Pinebark Camp | 427377 | [427377-no-one-to-see-pinebark-camp.json](./427377-no-one-to-see-pinebark-camp.json) |
 | No One Will Miss Me | 419932 | [419932-no-one-will-miss-me.json](./419932-no-one-will-miss-me.json) |
 | No One's Earth | 189850 | [189850-no-ones-earth.json](./189850-no-ones-earth.json) |
 | No One's Escaped | 337886 | [337886-no-ones-escaped.json](./337886-no-ones-escaped.json) |
