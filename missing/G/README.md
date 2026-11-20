@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gandpa: The Last Winter | 419684 | [419684-gandpa-the-last-winter.json](./419684-gandpa-the-last-winter.json) |
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
+| Gang Birds | 429137 | [429137-gang-birds.json](./429137-gang-birds.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang Busters | 39735 | [39735-gang-busters.json](./39735-gang-busters.json) |
 | Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
@@ -6841,6 +6842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God in a Closet | 360890 | [360890-god-in-a-closet.json](./360890-god-in-a-closet.json) |
 | God is a Cube: Programming Robot Cubes | 110445 | [110445-god-is-a-cube-programming-robot-cubes.json](./110445-god-is-a-cube-programming-robot-cubes.json) |
 | God is a Cube: Programming Robot Cubes | 58110 | [58110-god-is-a-cube-programming-robot-cubes.json](./58110-god-is-a-cube-programming-robot-cubes.json) |
+| God Is Debt | 429159 | [429159-god-is-debt.json](./429159-god-is-debt.json) |
 | God is in the Radio | 269314 | [269314-god-is-in-the-radio.json](./269314-god-is-in-the-radio.json) |
 | God Is Not Here | 411882 | [411882-god-is-not-here.json](./411882-god-is-not-here.json) |
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Jong Premium | 319622 | [319622-gokuraku-jong-premium.json](./319622-gokuraku-jong-premium.json) |
+| Gokuraku Jongg | 429148 | [429148-gokuraku-jongg.json](./429148-gokuraku-jongg.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
 | Gokusaishiki Sushi Taisen: Proud Tradition vs. Crazy Imitation | 316658 | [316658-gokusaishiki-sushi-taisen-proud-tradition-vs-crazy-imitation.json](./316658-gokusaishiki-sushi-taisen-proud-tradition-vs-crazy-imitation.json) |
 | Gokuu Densetsu: Magic Beast Warriors | 43775 | [43775-gokuu-densetsu-magic-beast-warriors.json](./43775-gokuu-densetsu-magic-beast-warriors.json) |
