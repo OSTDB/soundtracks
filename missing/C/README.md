@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Dig 3 | 73113 | [73113-cave-dig-3.json](./73113-cave-dig-3.json) |
 | Cave Digger | 143974 | [143974-cave-digger.json](./143974-cave-digger.json) |
 | Cave Digger 2 | 266177 | [266177-cave-digger-2.json](./266177-cave-digger-2.json) |
+| Cave Digger 2: Dig Harder | 158682 | [158682-cave-digger-2-dig-harder.json](./158682-cave-digger-2-dig-harder.json) |
 | Cave Digger 2: Mixed Reality Expansion | 306958 | [306958-cave-digger-2-mixed-reality-expansion.json](./306958-cave-digger-2-mixed-reality-expansion.json) |
 | Cave Digger VR | 96467 | [96467-cave-digger-vr.json](./96467-cave-digger-vr.json) |
 | Cave Digger: Riches | 107230 | [107230-cave-digger-riches.json](./107230-cave-digger-riches.json) |
@@ -6282,6 +6283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
 | Centipede: Infestation | 4760 | [4760-centipede-infestation.json](./4760-centipede-infestation.json) |
+| Centipede: Recharged | 166683 | [166683-centipede-recharged.json](./166683-centipede-recharged.json) |
 | Centipede: Sega Version | 398660 | [398660-centipede-sega-version.json](./398660-centipede-sega-version.json) |
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipod | 14000 | [14000-centipod.json](./14000-centipod.json) |
