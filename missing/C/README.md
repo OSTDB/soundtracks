@@ -5112,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Mind | 125870 | [125870-catch-mind.json](./125870-catch-mind.json) |
 | Catch My Color | 295275 | [295275-catch-my-color.json](./295275-catch-my-color.json) |
 | Catch of the day | 302072 | [302072-catch-of-the-day.json](./302072-catch-of-the-day.json) |
+| Catch of the Heart! | 417631 | [417631-catch-of-the-heart.json](./417631-catch-of-the-heart.json) |
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch Simona in New York City | 69004 | [69004-catch-simona-in-new-york-city.json](./69004-catch-simona-in-new-york-city.json) |
@@ -16704,6 +16705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookthulhu | 303427 | [303427-cookthulhu.json](./303427-cookthulhu.json) |
 | Cooktopia | 274796 | [274796-cooktopia.json](./274796-cooktopia.json) |
 | Cookulo | 325017 | [325017-cookulo.json](./325017-cookulo.json) |
+| Cookworm | 417619 | [417619-cookworm.json](./417619-cookworm.json) |
 | Cool 104 Joker & Setline | 269623 | [269623-cool-104-joker-and-setline.json](./269623-cool-104-joker-and-setline.json) |
 | Cool 2 Players Games | 424646 | [424646-cool-2-players-games.json](./424646-cool-2-players-games.json) |
 | Cool Animals | 201611 | [201611-cool-animals.json](./201611-cool-animals.json) |
