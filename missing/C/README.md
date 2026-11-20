@@ -134,7 +134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's 4x4 Off-Road Adventure | 94238 | [94238-cabelas-4x4-off-road-adventure.json](./94238-cabelas-4x4-off-road-adventure.json) |
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
 | Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
-| Cabela's Adventure Camp | 6648 | [6648-cabelas-adventure-camp.json](./6648-cabelas-adventure-camp.json) |
 | Cabela's African Adventures | 7807 | [7807-cabelas-african-adventures.json](./7807-cabelas-african-adventures.json) |
 | Cabela's African Safari | 6931 | [6931-cabelas-african-safari.json](./6931-cabelas-african-safari.json) |
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
@@ -174,7 +173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Outdoor Adventures | 91390 | [91390-cabelas-outdoor-adventures.json](./91390-cabelas-outdoor-adventures.json) |
 | Cabela's Outdoor Adventures | 95007 | [95007-cabelas-outdoor-adventures.json](./95007-cabelas-outdoor-adventures.json) |
 | Cabela's Sportman's Challenge | 93435 | [93435-cabelas-sportmans-challenge.json](./93435-cabelas-sportmans-challenge.json) |
-| Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Trophy Bucks | 4739 | [4739-cabelas-trophy-bucks.json](./4739-cabelas-trophy-bucks.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt 2 | 51334 | [51334-cabelas-ultimate-deer-hunt-2.json](./51334-cabelas-ultimate-deer-hunt-2.json) |
@@ -2014,7 +2012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CapitalCraft | 391461 | [391461-capitalcraft.json](./391461-capitalcraft.json) |
 | Capitale | 330772 | [330772-capitale.json](./330772-capitale.json) |
 | Capitalism | 113976 | [113976-capitalism.json](./113976-capitalism.json) |
-| Capitalism | 9210 | [9210-capitalism.json](./9210-capitalism.json) |
 | Capitalism II | 921 | [921-capitalism-ii.json](./921-capitalism-ii.json) |
 | Capitalism Lab | 27295 | [27295-capitalism-lab.json](./27295-capitalism-lab.json) |
 | Capitalism Plus | 9209 | [9209-capitalism-plus.json](./9209-capitalism-plus.json) |
@@ -2190,7 +2187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain McSpacebiff | 301981 | [301981-captain-mcspacebiff.json](./301981-captain-mcspacebiff.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Midnight | 325715 | [325715-captain-midnight.json](./325715-captain-midnight.json) |
-| Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain Moviestar 3D | 245832 | [245832-captain-moviestar-3d.json](./245832-captain-moviestar-3d.json) |
 | Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain Novolin | 18986 | [18986-captain-novolin.json](./18986-captain-novolin.json) |
@@ -10765,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Escaper | 96969 | [96969-city-escaper.json](./96969-city-escaper.json) |
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Extreme Driving Collection | 328538 | [328538-city-extreme-driving-collection.json](./328538-city-extreme-driving-collection.json) |
+| City Eye | 87967 | [87967-city-eye.json](./87967-city-eye.json) |
 | City Fascination | 405739 | [405739-city-fascination.json](./405739-city-fascination.json) |
 | City Fighter | 59641 | [59641-city-fighter.json](./59641-city-fighter.json) |
 | City Fighter vs Street Gang | 220188 | [220188-city-fighter-vs-street-gang.json](./220188-city-fighter-vs-street-gang.json) |
@@ -13004,7 +13001,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
 | Code Lyoko: Carthage Explorer | 128207 | [128207-code-lyoko-carthage-explorer.json](./128207-code-lyoko-carthage-explorer.json) |
 | Code Lyoko: Fall of X.A.N.A. | 8454 | [8454-code-lyoko-fall-of-x-a-n-a.json](./8454-code-lyoko-fall-of-x-a-n-a.json) |
-| Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code Market | 428309 | [428309-code-market.json](./428309-code-market.json) |
 | Code Moo | 318929 | [318929-code-moo.json](./318929-code-moo.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
@@ -23657,7 +23653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Troopers Virtual-On Force | 6951 | [6951-cyber-troopers-virtual-on-force.json](./6951-cyber-troopers-virtual-on-force.json) |
 | Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Troopers Virtual-On Masterpiece 1995 - 2001 | 126474 | [126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json](./126474-cyber-troopers-virtual-on-masterpiece-1995-2001.json) |
-| Cyber Troopers Virtual-On Oratorio Tangram | 9190 | [9190-cyber-troopers-virtual-on-oratorio-tangram.json](./9190-cyber-troopers-virtual-on-oratorio-tangram.json) |
 | Cyber Troopers Virtual-On: Oratorio Tangram - M.S.B.S. Ver. 5.66 | 172535 | [172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json](./172535-cyber-troopers-virtual-on-oratorio-tangram-m-s-b-s-ver-5-66.json) |
 | Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki | 144179 | [144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json](./144179-cyber-troopers-virtual-on-x-toaru-majutsu-no-index-toaru-majutsu-no-dennou-senki.json) |
 | Cyber Tunnel Escape | 310866 | [310866-cyber-tunnel-escape.json](./310866-cyber-tunnel-escape.json) |
