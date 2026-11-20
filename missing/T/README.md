@@ -17706,6 +17706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit and the Owl | 51612 | [51612-the-rabbit-and-the-owl.json](./51612-the-rabbit-and-the-owl.json) |
 | The Rabbit Crazy Adventure | 261331 | [261331-the-rabbit-crazy-adventure.json](./261331-the-rabbit-crazy-adventure.json) |
 | The Rabbit Haul | 265277 | [265277-the-rabbit-haul.json](./265277-the-rabbit-haul.json) |
+| The Rabbit Hole | 31237 | [31237-the-rabbit-hole.json](./31237-the-rabbit-hole.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Rabbit's Shadow | 360074 | [360074-the-rabbits-shadow.json](./360074-the-rabbits-shadow.json) |
@@ -18000,6 +18001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenant Protocol | 171865 | [171865-the-revenant-protocol.json](./171865-the-revenant-protocol.json) |
 | The Revenant's Lament | 350920 | [350920-the-revenants-lament.json](./350920-the-revenants-lament.json) |
 | The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
+| The Revenge of Johnny Bonasera | 31111 | [31111-the-revenge-of-johnny-bonasera.json](./31111-the-revenge-of-johnny-bonasera.json) |
 | The Revenge of Johnny Bonasera: Episode 2 | 84068 | [84068-the-revenge-of-johnny-bonasera-episode-2.json](./84068-the-revenge-of-johnny-bonasera-episode-2.json) |
 | The Revenge of Johnny Bonasera: Episode 3 | 114086 | [114086-the-revenge-of-johnny-bonasera-episode-3.json](./114086-the-revenge-of-johnny-bonasera-episode-3.json) |
 | The Revenge of Johnny Bonasera: Episode 4 | 132964 | [132964-the-revenge-of-johnny-bonasera-episode-4.json](./132964-the-revenge-of-johnny-bonasera-episode-4.json) |
@@ -22936,6 +22938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
 | Think Tank | 245598 | [245598-think-tank.json](./245598-think-tank.json) |
 | Think Tap Turn | 100815 | [100815-think-tap-turn.json](./100815-think-tap-turn.json) |
+| Think to Die | 31084 | [31084-think-to-die.json](./31084-think-to-die.json) |
 | Think to Die 2 | 31016 | [31016-think-to-die-2.json](./31016-think-to-die-2.json) |
 | Think to Die 3 | 29071 | [29071-think-to-die-3.json](./29071-think-to-die-3.json) |
 | Think_ | 121057 | [121057-think.json](./121057-think.json) |
@@ -31434,6 +31437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of idiots | 248388 | [248388-town-of-idiots.json](./248388-town-of-idiots.json) |
 | Town of Illustive | 244455 | [244455-town-of-illustive.json](./244455-town-of-illustive.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
+| Town of Night | 30852 | [30852-town-of-night.json](./30852-town-of-night.json) |
 | Town of Passion | 127633 | [127633-town-of-passion.json](./127633-town-of-passion.json) |
 | Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Salem 2 | 247531 | [247531-town-of-salem-2.json](./247531-town-of-salem-2.json) |
@@ -37413,6 +37417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
 | Turbo Prop Racing | 44925 | [44925-turbo-prop-racing.json](./44925-turbo-prop-racing.json) |
+| Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
@@ -37857,6 +37862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
+| Twelve Sky 2 Classic | 31021 | [31021-twelve-sky-2-classic.json](./31021-twelve-sky-2-classic.json) |
 | Twelve Sky 3 | 334409 | [334409-twelve-sky-3.json](./334409-twelve-sky-3.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
