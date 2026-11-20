@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D'ark | 412132 | [412132-dark.json](./412132-dark.json) |
 | D'ark Gaiden | 412135 | [412135-dark-gaiden.json](./412135-dark-gaiden.json) |
 | D'Arrancar | 57794 | [57794-darrancar.json](./57794-darrancar.json) |
+| D'lirium | 55488 | [55488-dlirium.json](./55488-dlirium.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D'ni Legacy | 142085 | [142085-dni-legacy.json](./142085-dni-legacy.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
@@ -695,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Tokyo | 21706 | [21706-damascus-gear-operation-tokyo.json](./21706-damascus-gear-operation-tokyo.json) |
+| Damascus Gear: Operation Tokyo HD | 55532 | [55532-damascus-gear-operation-tokyo-hd.json](./55532-damascus-gear-operation-tokyo-hd.json) |
 | Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
 | Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
@@ -8619,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
+| Destination Dungeon: Crypts of Warthallow | 55631 | [55631-destination-dungeon-crypts-of-warthallow.json](./55631-destination-dungeon-crypts-of-warthallow.json) |
 | Destination Dungeon: Tomb of Repentance | 109795 | [109795-destination-dungeon-tomb-of-repentance.json](./109795-destination-dungeon-tomb-of-repentance.json) |
 | Destination Dungeons Crypts of Warthallow | 180045 | [180045-destination-dungeons-crypts-of-warthallow.json](./180045-destination-dungeons-crypts-of-warthallow.json) |
 | Destination Dungeons: Catacombs of Dreams | 103482 | [103482-destination-dungeons-catacombs-of-dreams.json](./103482-destination-dungeons-catacombs-of-dreams.json) |
