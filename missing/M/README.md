@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | MALdle | 372107 | [372107-maldle.json](./372107-maldle.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
+| Malebolge | 426648 | [426648-malebolge.json](./426648-malebolge.json) |
 | Malediction | 127574 | [127574-malediction.json](./127574-malediction.json) |
 | Maledictor | 296969 | [296969-maledictor.json](./296969-maledictor.json) |
 | Maledictum | 382295 | [382295-maledictum.json](./382295-maledictum.json) |
@@ -7177,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Nightmare: Edge of Darkness | 379710 | [379710-maze-nightmare-edge-of-darkness.json](./379710-maze-nightmare-edge-of-darkness.json) |
 | Maze Ninja | 115141 | [115141-maze-ninja.json](./115141-maze-ninja.json) |
 | Maze Nuts | 237133 | [237133-maze-nuts.json](./237133-maze-nuts.json) |
+| Maze Odyssey | 426529 | [426529-maze-odyssey.json](./426529-maze-odyssey.json) |
 | Maze of Acheron | 172098 | [172098-maze-of-acheron.json](./172098-maze-of-acheron.json) |
 | Maze of Adventures | 81745 | [81745-maze-of-adventures.json](./81745-maze-of-adventures.json) |
 | Maze of Apocrypha | 287464 | [287464-maze-of-apocrypha.json](./287464-maze-of-apocrypha.json) |
