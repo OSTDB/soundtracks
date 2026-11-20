@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest: Deluxe Bundle | 114010 | [114010-death-end-re-quest-deluxe-bundle.json](./114010-death-end-re-quest-deluxe-bundle.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death end re;Quest: Rook's Traveler Set | 223826 | [223826-death-end-re-quest-rooks-traveler-set.json](./223826-death-end-re-quest-rooks-traveler-set.json) |
+| Death End Re;Quest: Rook's Warrior Set | 430596 | [430596-death-end-re-quest-rooks-warrior-set.json](./430596-death-end-re-quest-rooks-warrior-set.json) |
 | Death Ephemera | 365951 | [365951-death-ephemera.json](./365951-death-ephemera.json) |
 | Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Everywhere, So Save Paranoiacally | 397401 | [397401-death-everywhere-so-save-paranoiacally.json](./397401-death-everywhere-so-save-paranoiacally.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Déraciné | 103332 | [103332-deracine.json](./103332-deracine.json) |
 | Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
+| Derail Party | 430562 | [430562-derail-party.json](./430562-derail-party.json) |
 | Derail Valley | 29564 | [29564-derail-valley.json](./29564-derail-valley.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
 | Derailed | 348710 | [348710-derailed.json](./348710-derailed.json) |
