@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanon: Standard Edition | 290871 | [290871-kanon-standard-edition.json](./290871-kanon-standard-edition.json) |
 | Kanosen: My Girlfriend is a Naughty Teacher | 264278 | [264278-kanosen-my-girlfriend-is-a-naughty-teacher.json](./264278-kanosen-my-girlfriend-is-a-naughty-teacher.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
+| Kanousei | 425520 | [425520-kanousei.json](./425520-kanousei.json) |
 | Kanpani Girls | 175045 | [175045-kanpani-girls.json](./175045-kanpani-girls.json) |
 | Kanpeki | 191969 | [191969-kanpeki.json](./191969-kanpeki.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
 | Keep it Cool, Man | 202625 | [202625-keep-it-cool-man.json](./202625-keep-it-cool-man.json) |
 | Keep it Live | 194666 | [194666-keep-it-live.json](./194666-keep-it-live.json) |
+| Keep It on Her | 425575 | [425575-keep-it-on-her.json](./425575-keep-it-on-her.json) |
 | Keep it Rise | 100620 | [100620-keep-it-rise.json](./100620-keep-it-rise.json) |
 | Keep It Running | 283747 | [283747-keep-it-running.json](./283747-keep-it-running.json) |
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
@@ -2155,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Keriotosse! | 58728 | [58728-keriotosse.json](./58728-keriotosse.json) |
 | Kerker | 274786 | [274786-kerker.json](./274786-kerker.json) |
+| Kerkerkoller | 425564 | [425564-kerkerkoller.json](./425564-kerkerkoller.json) |
 | Kerkerkruip | 60120 | [60120-kerkerkruip.json](./60120-kerkerkruip.json) |
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
@@ -3483,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Cuthbert | 396244 | [396244-king-cuthbert.json](./396244-king-cuthbert.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
+| King Dies Rich | 425551 | [425551-king-dies-rich.json](./425551-king-dies-rich.json) |
 | King Drift and Hajwalah | 287554 | [287554-king-drift-and-hajwalah.json](./287554-king-drift-and-hajwalah.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
 | King Exit | 63715 | [63715-king-exit.json](./63715-king-exit.json) |
