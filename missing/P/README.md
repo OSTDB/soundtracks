@@ -1735,7 +1735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
-| Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
 | Panzer Waltz | 81619 | [81619-panzer-waltz.json](./81619-panzer-waltz.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
@@ -6911,7 +6910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picker 3D | 387077 | [387077-picker-3d.json](./387077-picker-3d.json) |
 | Picker Bot 42 | 287189 | [287189-picker-bot-42.json](./287189-picker-bot-42.json) |
 | Picker Magnate Simulator | 422968 | [422968-picker-magnate-simulator.json](./422968-picker-magnate-simulator.json) |
-| Pickers | 10572 | [10572-pickers.json](./10572-pickers.json) |
 | Pickers: Adventures in Rust | 209967 | [209967-pickers-adventures-in-rust.json](./209967-pickers-adventures-in-rust.json) |
 | Picket Fences | 262345 | [262345-picket-fences.json](./262345-picket-fences.json) |
 | Picket Line | 249714 | [249714-picket-line.json](./249714-picket-line.json) |
@@ -8055,14 +8053,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2 VR: The Walking Dead | 164023 | [164023-pinball-fx2-vr-the-walking-dead.json](./164023-pinball-fx2-vr-the-walking-dead.json) |
 | Pinball FX2 VR: Universal Classics Pinball | 164024 | [164024-pinball-fx2-vr-universal-classics-pinball.json](./164024-pinball-fx2-vr-universal-classics-pinball.json) |
 | Pinball FX2: Civil War Table DLC | 10694 | [10694-pinball-fx2-civil-war-table-dlc.json](./10694-pinball-fx2-civil-war-table-dlc.json) |
-| Pinball FX2: Epic Quest Table | 10695 | [10695-pinball-fx2-epic-quest-table.json](./10695-pinball-fx2-epic-quest-table.json) |
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
-| Pinball FX2: Paranormal | 10698 | [10698-pinball-fx2-paranormal.json](./10698-pinball-fx2-paranormal.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
 | Pinball FX2: Portal Pinball | 20866 | [20866-pinball-fx2-portal-pinball.json](./20866-pinball-fx2-portal-pinball.json) |
 | Pinball FX2: Rocky and Bullwinkle | 354448 | [354448-pinball-fx2-rocky-and-bullwinkle.json](./354448-pinball-fx2-rocky-and-bullwinkle.json) |
@@ -9346,7 +9342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes | 217067 | [217067-pixel-heroes.json](./217067-pixel-heroes.json) |
 | Pixel Heroes Adventure | 338660 | [338660-pixel-heroes-adventure.json](./338660-pixel-heroes-adventure.json) |
-| Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
 | Pixel Heroes: Mega Byte & Magic | 178807 | [178807-pixel-heroes-mega-byte-and-magic.json](./178807-pixel-heroes-mega-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
 | Pixel Heros - Idle RPG | 58633 | [58633-pixel-heros-idle-rpg.json](./58633-pixel-heros-idle-rpg.json) |
@@ -12257,7 +12252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point of View | 150227 | [150227-point-of-view.json](./150227-point-of-view.json) |
-| Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
 | Point Rescue Arcade | 211998 | [211998-point-rescue-arcade.json](./211998-point-rescue-arcade.json) |
 | Point Salad | 275422 | [275422-point-salad.json](./275422-point-salad.json) |
 | Point Snake | 68818 | [68818-point-snake.json](./68818-point-snake.json) |
@@ -14670,7 +14664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye & The Sunken Treasure | 209329 | [209329-popeye-and-the-sunken-treasure.json](./209329-popeye-and-the-sunken-treasure.json) |
-| Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
 | Popeye 2 | 417617 | [417617-popeye-2.json](./417617-popeye-2.json) |
 | Popeye 3: WrestleCrazy | 41022 | [41022-popeye-3-wrestlecrazy.json](./41022-popeye-3-wrestlecrazy.json) |
 | Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
@@ -19972,7 +19965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch Kidd | 193700 | [193700-punch-kidd.json](./193700-punch-kidd.json) |
 | Punch King | 49180 | [49180-punch-king.json](./49180-punch-king.json) |
-| Punch Line | 11775 | [11775-punch-line.json](./11775-punch-line.json) |
 | Punch Line: Cheermancy Edition | 105109 | [105109-punch-line-cheermancy-edition.json](./105109-punch-line-cheermancy-edition.json) |
 | Punch Lunch: Foodtruck Fighter | 364698 | [364698-punch-lunch-foodtruck-fighter.json](./364698-punch-lunch-foodtruck-fighter.json) |
 | Punch Mania Hokuto no Ken 2: Gekitou Shura no Kuni Hen | 64166 | [64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json](./64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json) |
