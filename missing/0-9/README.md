@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 027 | 278425 | [278425-027.json](./278425-027.json) |
 | 02Rhythm | 316025 | [316025-02rhythm.json](./316025-02rhythm.json) |
 | 03:17 am | 315778 | [315778-03-17-am.json](./315778-03-17-am.json) |
+| 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0818 Petrichor Lane | 421061 | [421061-0818-petrichor-lane.json](./421061-0818-petrichor-lane.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15,000 Sudoku Puzzles | 268914 | [268914-15-000-sudoku-puzzles.json](./268914-15-000-sudoku-puzzles.json) |
 | 15's | 83111 | [83111-15s.json](./83111-15s.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
+| 150,000 B.C. | 102404 | [102404-150-000-b-c.json](./102404-150-000-b-c.json) |
 | 1500 DS Spirits Vol. 1: Mahjong | 77021 | [77021-1500-ds-spirits-vol-1-mahjong.json](./77021-1500-ds-spirits-vol-1-mahjong.json) |
 | 1500 DS Spirits Vol. 3: Block Kuzushi | 69129 | [69129-1500-ds-spirits-vol-3-block-kuzushi.json](./69129-1500-ds-spirits-vol-3-block-kuzushi.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
