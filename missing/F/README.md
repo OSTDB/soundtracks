@@ -6731,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Proto-Rogue | 398378 | [398378-fire-emblem-proto-rogue.json](./398378-fire-emblem-proto-rogue.json) |
+| Fire Emblem Shadows | 370036 | [370036-fire-emblem-shadows.json](./370036-fire-emblem-shadows.json) |
 | Fire Emblem Warriors | 26769 | [26769-fire-emblem-warriors.json](./26769-fire-emblem-warriors.json) |
 | Fire Emblem Warriors + Season Pass Bundle | 294234 | [294234-fire-emblem-warriors-season-pass-bundle.json](./294234-fire-emblem-warriors-season-pass-bundle.json) |
 | Fire Emblem Warriors: Fire Emblem - Shadow Dragon DLC Pack | 238323 | [238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json](./238323-fire-emblem-warriors-fire-emblem-shadow-dragon-dlc-pack.json) |
@@ -10703,6 +10704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
 | Football Manager 26 Touch | 367573 | [367573-football-manager-26-touch.json](./367573-football-manager-26-touch.json) |
+| Football Manager 27 | 420884 | [420884-football-manager-27.json](./420884-football-manager-27.json) |
 | Football Manager 27 Console | 420982 | [420982-football-manager-27-console.json](./420982-football-manager-27-console.json) |
 | Football Manager 27 Mobile | 420983 | [420983-football-manager-27-mobile.json](./420983-football-manager-27-mobile.json) |
 | Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
@@ -14704,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
 | Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
+| Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
