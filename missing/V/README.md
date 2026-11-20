@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vergjorn | 160003 | [160003-vergjorn.json](./160003-vergjorn.json) |
 | Verho: Curse of Faces | 318767 | [318767-verho-curse-of-faces.json](./318767-verho-curse-of-faces.json) |
 | Verho: Curse of Faces | 410369 | [410369-verho-curse-of-faces.json](./410369-verho-curse-of-faces.json) |
+| Verho: Whispers of the Wind | 430779 | [430779-verho-whispers-of-the-wind.json](./430779-verho-whispers-of-the-wind.json) |
 | Veridian Expanse | 219399 | [219399-veridian-expanse.json](./219399-veridian-expanse.json) |
 | Veridus: The Walking Nightmare | 416672 | [416672-veridus-the-walking-nightmare.json](./416672-veridus-the-walking-nightmare.json) |
 | Verify: Please Prove That you are Human | 367675 | [367675-verify-please-prove-that-you-are-human.json](./367675-verify-please-prove-that-you-are-human.json) |
