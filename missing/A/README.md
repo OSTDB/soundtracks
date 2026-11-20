@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Lost Expedition | 231193 | [231193-adventure-mosaics-lost-expedition.json](./231193-adventure-mosaics-lost-expedition.json) |
 | Adventure Mosaics: Moto-Trip | 196155 | [196155-adventure-mosaics-moto-trip.json](./196155-adventure-mosaics-moto-trip.json) |
 | Adventure Mosaics: Moto-Trip Africa | 294202 | [294202-adventure-mosaics-moto-trip-africa.json](./294202-adventure-mosaics-moto-trip-africa.json) |
+| Adventure Mosaics: Moto-Trip Australia | 426741 | [426741-adventure-mosaics-moto-trip-australia.json](./426741-adventure-mosaics-moto-trip-australia.json) |
 | Adventure Mosaics: Small Islanders | 157932 | [157932-adventure-mosaics-small-islanders.json](./157932-adventure-mosaics-small-islanders.json) |
 | Adventure Mosaics: St. Patrick's Day | 417517 | [417517-adventure-mosaics-st-patricks-day.json](./417517-adventure-mosaics-st-patricks-day.json) |
 | Adventure Mosaics: Venice Carnival | 336984 | [336984-adventure-mosaics-venice-carnival.json](./336984-adventure-mosaics-venice-carnival.json) |
@@ -5046,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aethernaut | 136660 | [136660-aethernaut.json](./136660-aethernaut.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
+| Aethris: Into the Unknown | 426763 | [426763-aethris-into-the-unknown.json](./426763-aethris-into-the-unknown.json) |
 | Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
 | Aetolia | 122895 | [122895-aetolia.json](./122895-aetolia.json) |
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
@@ -20435,6 +20437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
 | Auto_Battler_RPG | 320568 | [320568-auto-battler-rpg.json](./320568-auto-battler-rpg.json) |
+| Auto-Astra | 426786 | [426786-auto-astra.json](./426786-auto-astra.json) |
 | Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
 | Auto-Land: Mechanical Horror | 356335 | [356335-auto-land-mechanical-horror.json](./356335-auto-land-mechanical-horror.json) |
 | Auto-Miner | 183795 | [183795-auto-miner.json](./183795-auto-miner.json) |
