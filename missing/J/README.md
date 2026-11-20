@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
 | Jiao Wo Zhu Zao Shi | 126204 | [126204-jiao-wo-zhu-zao-shi.json](./126204-jiao-wo-zhu-zao-shi.json) |
+| Jiaohun | 422246 | [422246-jiaohun.json](./422246-jiaohun.json) |
 | Jiaozi & Shopkeeper | 383578 | [383578-jiaozi-and-shopkeeper.json](./383578-jiaozi-and-shopkeeper.json) |
 | Jiayou MemoVirus | 134978 | [134978-jiayou-memovirus.json](./134978-jiayou-memovirus.json) |
 | Jibaku Kanojo: Kanojo wa Kakurete Mimodaeru | 194603 | [194603-jibaku-kanojo-kanojo-wa-kakurete-mimodaeru.json](./194603-jibaku-kanojo-kanojo-wa-kakurete-mimodaeru.json) |
