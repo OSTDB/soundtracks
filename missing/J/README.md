@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingai Makyou | 281228 | [281228-jingai-makyou.json](./281228-jingai-makyou.json) |
 | Jingai Makyou | 70612 | [70612-jingai-makyou.json](./70612-jingai-makyou.json) |
 | Jingi Storm: The Arcade | 77813 | [77813-jingi-storm-the-arcade.json](./77813-jingi-storm-the-arcade.json) |
+| Jingi Tensei | 421305 | [421305-jingi-tensei.json](./421305-jingi-tensei.json) |
 | Jìngjiè 2: Qiánkūn Yī Zhì | 373687 | [373687-jingjie-2-qiankun-yi-zhi.json](./373687-jingjie-2-qiankun-yi-zhi.json) |
 | Jingle | 81694 | [81694-jingle.json](./81694-jingle.json) |
 | Jingle Balls | 235393 | [235393-jingle-balls.json](./235393-jingle-balls.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
 | Just Kiss Her Already! | 246211 | [246211-just-kiss-her-already.json](./246211-just-kiss-her-already.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
+| Just Kukuruza | 421296 | [421296-just-kukuruza.json](./421296-just-kukuruza.json) |
 | Just Let Me Fix the Mecha Girls! | 426672 | [426672-just-let-me-fix-the-mecha-girls.json](./426672-just-let-me-fix-the-mecha-girls.json) |
 | Just Loot | 410162 | [410162-just-loot.json](./410162-just-loot.json) |
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
