@@ -4272,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do You Call a Group of Skeletons? | 352546 | [352546-what-do-you-call-a-group-of-skeletons.json](./352546-what-do-you-call-a-group-of-skeletons.json) |
 | What Do You Do When You Ask Four People Out and They All Say Yes? | 179830 | [179830-what-do-you-do-when-you-ask-four-people-out-and-they-all-say-yes.json](./179830-what-do-you-do-when-you-ask-four-people-out-and-they-all-say-yes.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
+| What Do You Meme? The Video Game | 424308 | [424308-what-do-you-meme-the-video-game.json](./424308-what-do-you-meme-the-video-game.json) |
 | What Friends Are For | 251375 | [251375-what-friends-are-for.json](./251375-what-friends-are-for.json) |
 | What Fuwa Bansaku Found | 145729 | [145729-what-fuwa-bansaku-found.json](./145729-what-fuwa-bansaku-found.json) |
 | What Games Does Your Dad Play | 276577 | [276577-what-games-does-your-dad-play.json](./276577-what-games-does-your-dad-play.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Wonderland | 31179 | [31179-winter-wonderland.json](./31179-winter-wonderland.json) |
 | Winter Wonderland | 80461 | [80461-winter-wonderland.json](./80461-winter-wonderland.json) |
 | Winter Worm, Summer Grass | 127105 | [127105-winter-worm-summer-grass.json](./127105-winter-worm-summer-grass.json) |
+| Winter Wraith | 424158 | [424158-winter-wraith.json](./424158-winter-wraith.json) |
 | Winter X Games SnoCross | 125782 | [125782-winter-x-games-snocross.json](./125782-winter-x-games-snocross.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
