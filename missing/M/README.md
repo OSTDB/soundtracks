@@ -10834,6 +10834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merged | 57528 | [57528-merged.json](./57528-merged.json) |
 | Merged Gravity | 258655 | [258655-merged-gravity.json](./258655-merged-gravity.json) |
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
+| Mergemon Wilds | 429140 | [429140-mergemon-wilds.json](./429140-mergemon-wilds.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | Mergest Kingdom | 182012 | [182012-mergest-kingdom.json](./182012-mergest-kingdom.json) |
@@ -24701,6 +24702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mylk | 146830 | [146830-mylk.json](./146830-mylk.json) |
 | Mylo uronil | 110143 | [110143-mylo-uronil.json](./110143-mylo-uronil.json) |
 | MyMan | 93150 | [93150-myman.json](./93150-myman.json) |
+| MyMemeCards | 429124 | [429124-mymemecards.json](./429124-mymemecards.json) |
 | MyMustache | 289279 | [289279-mymustache.json](./289279-mymustache.json) |
 | MyMyMoba | 216046 | [216046-mymymoba.json](./216046-mymymoba.json) |
 | Mymyry | 106890 | [106890-mymyry.json](./106890-mymyry.json) |
@@ -25242,6 +25244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
+| Mystic Courtesan Stories: Trainee Maria | 429152 | [429152-mystic-courtesan-stories-trainee-maria.json](./429152-mystic-courtesan-stories-trainee-maria.json) |
 | Mystic Craft | 96979 | [96979-mystic-craft.json](./96979-mystic-craft.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
 | Mystic Defense | 30581 | [30581-mystic-defense.json](./30581-mystic-defense.json) |
