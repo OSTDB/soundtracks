@@ -7158,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
+| The Basilisk | 104883 | [104883-the-basilisk.json](./104883-the-basilisk.json) |
 | The Basket Manager | 11943 | [11943-the-basket-manager.json](./11943-the-basket-manager.json) |
 | The Basketball B | 206828 | [206828-the-basketball-b.json](./206828-the-basketball-b.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
@@ -11820,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gaias | 95196 | [95196-the-great-gaias.json](./95196-the-great-gaias.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
+| The Great Geometric Multiverse Tour | 105337 | [105337-the-great-geometric-multiverse-tour.json](./105337-the-great-geometric-multiverse-tour.json) |
 | The Great Ghoul Duel | 140061 | [140061-the-great-ghoul-duel.json](./140061-the-great-ghoul-duel.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
@@ -12864,6 +12866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inheritance of Crimson Manor | 149163 | [149163-the-inheritance-of-crimson-manor.json](./149163-the-inheritance-of-crimson-manor.json) |
 | The Inheritance of Crimson Manor: Victorian Edition | 324776 | [324776-the-inheritance-of-crimson-manor-victorian-edition.json](./324776-the-inheritance-of-crimson-manor-victorian-edition.json) |
 | The Inheritance: Panic in Las Vegas | 36561 | [36561-the-inheritance-panic-in-las-vegas.json](./36561-the-inheritance-panic-in-las-vegas.json) |
+| The Initiate 2: The First Interviews | 103611 | [103611-the-initiate-2-the-first-interviews.json](./103611-the-initiate-2-the-first-interviews.json) |
 | The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
 | The Initiation | 345128 | [345128-the-initiation.json](./345128-the-initiation.json) |
 | The Ink Tower | 421315 | [421315-the-ink-tower.json](./421315-the-ink-tower.json) |
@@ -12875,6 +12878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Demons | 262785 | [262785-the-inner-demons.json](./262785-the-inner-demons.json) |
 | The Inner Descent | 286160 | [286160-the-inner-descent.json](./286160-the-inner-descent.json) |
+| The Inner Friend | 104280 | [104280-the-inner-friend.json](./104280-the-inner-friend.json) |
 | The Inner Light | 177754 | [177754-the-inner-light.json](./177754-the-inner-light.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World | 7144 | [7144-the-inner-world.json](./7144-the-inner-world.json) |
@@ -14240,6 +14244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
 | The legacy of W. Whitlaw VR | 131866 | [131866-the-legacy-of-w-whitlaw-vr.json](./131866-the-legacy-of-w-whitlaw-vr.json) |
+| The Legacy: Prisoner | 104187 | [104187-the-legacy-prisoner.json](./104187-the-legacy-prisoner.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
 | The Legend of Alfur | 210793 | [210793-the-legend-of-alfur.json](./210793-the-legend-of-alfur.json) |
@@ -26854,6 +26859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
 | Tiny & Big: Up that Mountain | 184167 | [184167-tiny-and-big-up-that-mountain.json](./184167-tiny-and-big-up-that-mountain.json) |
 | tiny & Tall: Gleipnir | 112031 | [112031-tiny-and-tall-gleipnir.json](./112031-tiny-and-tall-gleipnir.json) |
+| tiny & Tall: Gleipnir Episode One | 105253 | [105253-tiny-and-tall-gleipnir-episode-one.json](./105253-tiny-and-tall-gleipnir-episode-one.json) |
 | Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny and Big: Grandpa's Leftovers | 3079 | [3079-tiny-and-big-grandpas-leftovers.json](./3079-tiny-and-big-grandpas-leftovers.json) |
@@ -31009,6 +31015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Gun: Zombie Shooter 3D | 243992 | [243992-tower-gun-zombie-shooter-3d.json](./243992-tower-gun-zombie-shooter-3d.json) |
 | Tower Guy: Remastered | 177224 | [177224-tower-guy-remastered.json](./177224-tower-guy-remastered.json) |
 | Tower Hover | 314684 | [314684-tower-hover.json](./314684-tower-hover.json) |
+| Tower Hunter: Erza's Trial | 104186 | [104186-tower-hunter-erzas-trial.json](./104186-tower-hunter-erzas-trial.json) |
 | Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower Inc. | 369717 | [369717-tower-inc.json](./369717-tower-inc.json) |
 | Tower Inferno | 147493 | [147493-tower-inferno.json](./147493-tower-inferno.json) |
