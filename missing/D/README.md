@@ -3406,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream | 77518 | [77518-daydream.json](./77518-daydream.json) |
 | DayDream | 201197 | [201197-daydream.json](./201197-daydream.json) |
 | Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
+| Daydream Cat: DreamSpirits Idle Adventure | 421962 | [421962-daydream-cat-dreamspirits-idle-adventure.json](./421962-daydream-cat-dreamspirits-idle-adventure.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics | 181102 | [181102-daydream-mosaics.json](./181102-daydream-mosaics.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel | 140129 | [140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json](./140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
+| Death and Burial of Poor Cock Robin | 421918 | [421918-death-and-burial-of-poor-cock-robin.json](./421918-death-and-burial-of-poor-cock-robin.json) |
 | Death and Ladders | 333301 | [333301-death-and-ladders.json](./333301-death-and-ladders.json) |
 | Death and Progress | 121118 | [121118-death-and-progress.json](./121118-death-and-progress.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
@@ -10178,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
 | Die Fugger II | 85791 | [85791-die-fugger-ii.json](./85791-die-fugger-ii.json) |
+| Die geheimen Memoiren des Howard Carter: Der Fluch des Chaluul | 421961 | [421961-die-geheimen-memoiren-des-howard-carter-der-fluch-des-chaluul.json](./421961-die-geheimen-memoiren-des-howard-carter-der-fluch-des-chaluul.json) |
 | Die Gekirin | 137419 | [137419-die-gekirin.json](./137419-die-gekirin.json) |
 | Die Gekirin & Die Dekirin II Pack | 137457 | [137457-die-gekirin-and-die-dekirin-ii-pack.json](./137457-die-gekirin-and-die-dekirin-ii-pack.json) |
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
@@ -21996,6 +21999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Legacy | 338297 | [338297-dwarf-legacy.json](./338297-dwarf-legacy.json) |
 | Dwarf Looter | 274030 | [274030-dwarf-looter.json](./274030-dwarf-looter.json) |
 | Dwarf Miner | 376157 | [376157-dwarf-miner.json](./376157-dwarf-miner.json) |
+| Dwarf Planet One | 421965 | [421965-dwarf-planet-one.json](./421965-dwarf-planet-one.json) |
 | Dwarf Prison | 211546 | [211546-dwarf-prison.json](./211546-dwarf-prison.json) |
 | Dwarf Quest | 50835 | [50835-dwarf-quest.json](./50835-dwarf-quest.json) |
 | Dwarf Shop | 130155 | [130155-dwarf-shop.json](./130155-dwarf-shop.json) |
