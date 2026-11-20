@@ -1470,9 +1470,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Coin | 279495 | [279495-oil-coin.json](./279495-oil-coin.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Empire | 395732 | [395732-oil-empire.json](./395732-oil-empire.json) |
+| Oil Enterprise | 24520 | [24520-oil-enterprise.json](./24520-oil-enterprise.json) |
 | Oil Era | 214286 | [214286-oil-era.json](./214286-oil-era.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
 | Oil Invasion | 196754 | [196754-oil-invasion.json](./196754-oil-invasion.json) |
+| Oil Leak: Oil Enterprise | 24367 | [24367-oil-leak-oil-enterprise.json](./24367-oil-leak-oil-enterprise.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
 | Oil Mogul | 126758 | [126758-oil-mogul.json](./126758-oil-mogul.json) |
 | Oil Panic | 145208 | [145208-oil-panic.json](./145208-oil-panic.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 191342 | [191342-ouroboros.json](./191342-ouroboros.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
+| Ouroboros | 24418 | [24418-ouroboros.json](./24418-ouroboros.json) |
 | Ouroboros | 308155 | [308155-ouroboros.json](./308155-ouroboros.json) |
 | Ouroboros | 340969 | [340969-ouroboros.json](./340969-ouroboros.json) |
 | Ouroboros Dungeon | 172214 | [172214-ouroboros-dungeon.json](./172214-ouroboros-dungeon.json) |
