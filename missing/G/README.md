@@ -2218,6 +2218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes | 63434 | [63434-gardenscapes.json](./63434-gardenscapes.json) |
 | Gardenscapes 2 | 63436 | [63436-gardenscapes-2.json](./63436-gardenscapes-2.json) |
+| Gardenscapes 2: Collector's Edition | 426115 | [426115-gardenscapes-2-collectors-edition.json](./426115-gardenscapes-2-collectors-edition.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Gardius Empire | 103028 | [103028-gardius-empire.json](./103028-gardius-empire.json) |
@@ -8548,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Classic | 260799 | [260799-gothic-classic.json](./260799-gothic-classic.json) |
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
+| Gothic Fiction: Dark Saga - Collector's Edition | 426118 | [426118-gothic-fiction-dark-saga-collectors-edition.json](./426118-gothic-fiction-dark-saga-collectors-edition.json) |
 | Gothic Girls | 169815 | [169815-gothic-girls.json](./169815-gothic-girls.json) |
 | Gothic Hell: Survivors | 393991 | [393991-gothic-hell-survivors.json](./393991-gothic-hell-survivors.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
@@ -10711,6 +10713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: A Wealth of Betrayal - Collector's Edition | 90154 | [90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json](./90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
+| Grim Facade: Monster in Disguise - Collector's Edition | 426120 | [426120-grim-facade-monster-in-disguise-collectors-edition.json](./426120-grim-facade-monster-in-disguise-collectors-edition.json) |
 | Grim Facade: Mystery of Venice | 140215 | [140215-grim-facade-mystery-of-venice.json](./140215-grim-facade-mystery-of-venice.json) |
 | Grim Facade: Mystery of Venice - Collector's Edition | 30525 | [30525-grim-facade-mystery-of-venice-collectors-edition.json](./30525-grim-facade-mystery-of-venice-collectors-edition.json) |
 | Grim Facade: Mystery of Venice & Grim Facade: Sinister Obsession | 201866 | [201866-grim-facade-mystery-of-venice-and-grim-facade-sinister-obsession.json](./201866-grim-facade-mystery-of-venice-and-grim-facade-sinister-obsession.json) |
@@ -10732,9 +10735,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
 | Grim Leaper | 181534 | [181534-grim-leaper.json](./181534-grim-leaper.json) |
 | Grim Legends 2: Song of the Dark Swan | 17095 | [17095-grim-legends-2-song-of-the-dark-swan.json](./17095-grim-legends-2-song-of-the-dark-swan.json) |
+| Grim Legends 2: Song of the Dark Swan - Collector's Edition | 426122 | [426122-grim-legends-2-song-of-the-dark-swan-collectors-edition.json](./426122-grim-legends-2-song-of-the-dark-swan-collectors-edition.json) |
 | Grim Legends 3: The Dark City | 33110 | [33110-grim-legends-3-the-dark-city.json](./33110-grim-legends-3-the-dark-city.json) |
+| Grim Legends 3: The Dark City - Collector's Edition | 426121 | [426121-grim-legends-3-the-dark-city-collectors-edition.json](./426121-grim-legends-3-the-dark-city-collectors-edition.json) |
 | Grim Legends Collection | 118847 | [118847-grim-legends-collection.json](./118847-grim-legends-collection.json) |
 | Grim Legends: The Forsaken Bride | 17142 | [17142-grim-legends-the-forsaken-bride.json](./17142-grim-legends-the-forsaken-bride.json) |
+| Grim Legends: The Forsaken Bride - Collector's Edition | 426123 | [426123-grim-legends-the-forsaken-bride-collectors-edition.json](./426123-grim-legends-the-forsaken-bride-collectors-edition.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Nights: Elven Curse | 174417 | [174417-grim-nights-elven-curse.json](./174417-grim-nights-elven-curse.json) |
@@ -10774,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Guest from the Future | 140219 | [140219-grim-tales-guest-from-the-future.json](./140219-grim-tales-guest-from-the-future.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Heritage | 181995 | [181995-grim-tales-heritage.json](./181995-grim-tales-heritage.json) |
+| Grim Tales: Heritage - Collector's Edition | 426124 | [426124-grim-tales-heritage-collectors-edition.json](./426124-grim-tales-heritage-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
@@ -10792,6 +10799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Legacy | 80522 | [80522-grim-tales-the-legacy.json](./80522-grim-tales-the-legacy.json) |
 | Grim Tales: The Legacy - Collector's Edition | 28687 | [28687-grim-tales-the-legacy-collectors-edition.json](./28687-grim-tales-the-legacy-collectors-edition.json) |
 | Grim Tales: The Nomad | 191650 | [191650-grim-tales-the-nomad.json](./191650-grim-tales-the-nomad.json) |
+| Grim Tales: The Nomad - Collector's Edition | 426125 | [426125-grim-tales-the-nomad-collectors-edition.json](./426125-grim-tales-the-nomad-collectors-edition.json) |
 | Grim Tales: The Stone Queen | 76516 | [76516-grim-tales-the-stone-queen.json](./76516-grim-tales-the-stone-queen.json) |
 | Grim Tales: The Stone Queen - Collector's Edition | 96943 | [96943-grim-tales-the-stone-queen-collectors-edition.json](./96943-grim-tales-the-stone-queen-collectors-edition.json) |
 | Grim Tales: The Time Traveler | 258697 | [258697-grim-tales-the-time-traveler.json](./258697-grim-tales-the-time-traveler.json) |
