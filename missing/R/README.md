@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebaixados Elite Brasil Clássicos | 282837 | [282837-rebaixados-elite-brasil-classicos.json](./282837-rebaixados-elite-brasil-classicos.json) |
 | Reball | 68931 | [68931-reball.json](./68931-reball.json) |
 | ReBall | 153227 | [153227-reball.json](./153227-reball.json) |
+| Rebase | 425729 | [425729-rebase.json](./425729-rebase.json) |
 | Rebecca and the Sword of Nasty Curses | 363650 | [363650-rebecca-and-the-sword-of-nasty-curses.json](./363650-rebecca-and-the-sword-of-nasty-curses.json) |
 | Rebekka's Bag O'Bones | 401207 | [401207-rebekkas-bag-obones.json](./401207-rebekkas-bag-obones.json) |
 | Rebel | 193593 | [193593-rebel.json](./193593-rebel.json) |
@@ -8570,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigby Saw Game | 384923 | [384923-rigby-saw-game.json](./384923-rigby-saw-game.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
 | Rigged Hammer | 247030 | [247030-rigged-hammer.json](./247030-rigged-hammer.json) |
+| Riggle | 425733 | [425733-riggle.json](./425733-riggle.json) |
 | Right & Left Column Battle | 372026 | [372026-right-and-left-column-battle.json](./372026-right-and-left-column-battle.json) |
 | Right and Down | 207494 | [207494-right-and-down.json](./207494-right-and-down.json) |
 | Right and Down and Dice | 238600 | [238600-right-and-down-and-dice.json](./238600-right-and-down-and-dice.json) |
