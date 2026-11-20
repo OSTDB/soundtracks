@@ -19419,6 +19419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
+| The Snackbar at the End of the World | 429689 | [429689-the-snackbar-at-the-end-of-the-world.json](./429689-the-snackbar-at-the-end-of-the-world.json) |
 | The Snake Is the Tower | 382098 | [382098-the-snake-is-the-tower.json](./382098-the-snake-is-the-tower.json) |
 | The Snake King | 146947 | [146947-the-snake-king.json](./146947-the-snake-king.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
@@ -24169,6 +24170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up the Town | 419228 | [419228-tidy-up-the-town.json](./419228-tidy-up-the-town.json) |
+| Tidy Up: Bricks n Blocks | 429756 | [429756-tidy-up-bricks-n-blocks.json](./429756-tidy-up-bricks-n-blocks.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
@@ -27747,6 +27749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the couple two rows in front of us | 208868 | [208868-to-the-couple-two-rows-in-front-of-us.json](./208868-to-the-couple-two-rows-in-front-of-us.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
+| To the Death | 429696 | [429696-to-the-death.json](./429696-to-the-death.json) |
 | To The Death | 286025 | [286025-to-the-death.json](./286025-to-the-death.json) |
 | To the Dragon Cave | 201937 | [201937-to-the-dragon-cave.json](./201937-to-the-dragon-cave.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
@@ -29272,6 +29275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
+| Too. Many. Socks. | 429781 | [429781-too-many-socks.json](./429781-too-many-socks.json) |
 | Toobin' | 12867 | [12867-toobin.json](./12867-toobin.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toobtrix | 96548 | [96548-toobtrix.json](./96548-toobtrix.json) |
