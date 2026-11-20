@@ -7031,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firecracker Fight | 95689 | [95689-firecracker-fight.json](./95689-firecracker-fight.json) |
 | Firecracker HD | 67174 | [67174-firecracker-hd.json](./67174-firecracker-hd.json) |
 | Firecrackers | 393133 | [393133-firecrackers.json](./393133-firecrackers.json) |
+| Fired Up | 22451 | [22451-fired-up.json](./22451-fired-up.json) |
 | Firedog: Swooce & Rescue | 316167 | [316167-firedog-swooce-and-rescue.json](./316167-firedog-swooce-and-rescue.json) |
 | Firedragon | 397744 | [397744-firedragon.json](./397744-firedragon.json) |
 | FireFall | 3013 | [3013-firefall.json](./3013-firefall.json) |
@@ -7253,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Days of Atlantis | 158387 | [158387-first-days-of-atlantis.json](./158387-first-days-of-atlantis.json) |
 | First Draft of the Revolution | 60126 | [60126-first-draft-of-the-revolution.json](./60126-first-draft-of-the-revolution.json) |
 | First Dwarf | 215296 | [215296-first-dwarf.json](./215296-first-dwarf.json) |
+| First Eagles: The Great Air War 1918 | 23090 | [23090-first-eagles-the-great-air-war-1918.json](./23090-first-eagles-the-great-air-war-1918.json) |
 | First Encounters | 278762 | [278762-first-encounters.json](./278762-first-encounters.json) |
 | First Expedition | 2892 | [2892-first-expedition.json](./2892-first-expedition.json) |
 | First Feudal | 75813 | [75813-first-feudal.json](./75813-first-feudal.json) |
@@ -9869,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly | 328125 | [328125-fly.json](./328125-fly.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
+| Fly and Destroy | 22386 | [22386-fly-and-destroy.json](./22386-fly-and-destroy.json) |
 | Fly Away | 29682 | [29682-fly-away.json](./29682-fly-away.json) |
 | Fly Away Baseball | 159907 | [159907-fly-away-baseball.json](./159907-fly-away-baseball.json) |
 | Fly By Knight | 201429 | [201429-fly-by-knight.json](./201429-fly-by-knight.json) |
@@ -13140,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | FrankenStorm TD: Prologue | 154108 | [154108-frankenstorm-td-prologue.json](./154108-frankenstorm-td-prologue.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
+| Frankie Goes to Hollywood | 22519 | [22519-frankie-goes-to-hollywood.json](./22519-frankie-goes-to-hollywood.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
