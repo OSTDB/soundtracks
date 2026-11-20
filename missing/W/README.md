@@ -1762,7 +1762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
 | Warhammer 40,000: Space Wolf - Wrath of the Damned | 155353 | [155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json](./155353-warhammer-40-000-space-wolf-wrath-of-the-damned.json) |
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
-| Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer 40,000: Tacticus | 203274 | [203274-warhammer-40-000-tacticus.json](./203274-warhammer-40-000-tacticus.json) |
 | Warhammer 40,000: Tacticus - Machines of War | 302170 | [302170-warhammer-40-000-tacticus-machines-of-war.json](./302170-warhammer-40-000-tacticus-machines-of-war.json) |
 | Warhammer 40,000: Warpforge | 203256 | [203256-warhammer-40-000-warpforge.json](./203256-warhammer-40-000-warpforge.json) |
@@ -6361,7 +6360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William and Sly: Classic Collection | 276581 | [276581-william-and-sly-classic-collection.json](./276581-william-and-sly-classic-collection.json) |
 | William and the Lands of Rage | 127621 | [127621-william-and-the-lands-of-rage.json](./127621-william-and-the-lands-of-rage.json) |
 | William Shakespeare's Hamlet: A Murder Mystery | 73901 | [73901-william-shakespeares-hamlet-a-murder-mystery.json](./73901-william-shakespeares-hamlet-a-murder-mystery.json) |
-| William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
 | William's Dad's Secret | 263716 | [263716-williams-dads-secret.json](./263716-williams-dads-secret.json) |
@@ -9124,7 +9122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Baseball Stars | 234443 | [234443-world-baseball-stars.json](./234443-world-baseball-stars.json) |
 | World Basketball Manager 2010 | 16154 | [16154-world-basketball-manager-2010.json](./16154-world-basketball-manager-2010.json) |
 | World Basketball Manager 2014 | 53113 | [53113-world-basketball-manager-2014.json](./53113-world-basketball-manager-2014.json) |
-| World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Basketball Tycoon | 52129 | [52129-world-basketball-tycoon.json](./52129-world-basketball-tycoon.json) |
 | World Beach Volley | 40547 | [40547-world-beach-volley.json](./40547-world-beach-volley.json) |
 | World Beach Volley: 1992 GB Cup | 117961 | [117961-world-beach-volley-1992-gb-cup.json](./117961-world-beach-volley-1992-gb-cup.json) |
@@ -10048,7 +10045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
 | Worlds of Chaos: Invasion | 33678 | [33678-worlds-of-chaos-invasion.json](./33678-worlds-of-chaos-invasion.json) |
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
-| Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | Worlds of Magic: Planar Conquest | 79925 | [79925-worlds-of-magic-planar-conquest.json](./79925-worlds-of-magic-planar-conquest.json) |
 | Worlds of Magic: Sorcerer Lords Pack | 226878 | [226878-worlds-of-magic-sorcerer-lords-pack.json](./226878-worlds-of-magic-sorcerer-lords-pack.json) |
 | Worlds of Magic: Titans | 160281 | [160281-worlds-of-magic-titans.json](./160281-worlds-of-magic-titans.json) |
@@ -10365,7 +10361,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 10: Arena Panzerplatte SSS | 174395 | [174395-wrc-10-arena-panzerplatte-sss.json](./174395-wrc-10-arena-panzerplatte-sss.json) |
 | WRC 10: Deluxe Edition | 169202 | [169202-wrc-10-deluxe-edition.json](./169202-wrc-10-deluxe-edition.json) |
 | WRC 10: Subaru Impreza WRC 1997 | 174394 | [174394-wrc-10-subaru-impreza-wrc-1997.json](./174394-wrc-10-subaru-impreza-wrc-1997.json) |
-| WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
 | WRC 3 | 8315 | [8315-wrc-3.json](./8315-wrc-3.json) |
 | WRC 3: FIA World Rally Championship | 43037 | [43037-wrc-3-fia-world-rally-championship.json](./43037-wrc-3-fia-world-rally-championship.json) |
