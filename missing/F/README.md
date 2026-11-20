@@ -4482,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
 | Femboy Fury | 377550 | [377550-femboy-fury.json](./377550-femboy-fury.json) |
 | Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
+| Femboy Love Story | 428538 | [428538-femboy-love-story.json](./428538-femboy-love-story.json) |
 | Femboy Next Door | 405697 | [405697-femboy-next-door.json](./405697-femboy-next-door.json) |
 | Femboy Streamer | 349727 | [349727-femboy-streamer.json](./349727-femboy-streamer.json) |
 | Femboys & Fries | 211837 | [211837-femboys-and-fries.json](./211837-femboys-and-fries.json) |
@@ -10587,11 +10588,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football 26 League Superstar | 390844 | [390844-football-26-league-superstar.json](./390844-football-26-league-superstar.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
+| Football Academy Director | 428531 | [428531-football-academy-director.json](./428531-football-academy-director.json) |
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
 | Football Academy Simulator | 420757 | [420757-football-academy-simulator.json](./420757-football-academy-simulator.json) |
 | Football Academy: Build and Prove Your Football Knowledge | 269818 | [269818-football-academy-build-and-prove-your-football-knowledge.json](./269818-football-academy-build-and-prove-your-football-knowledge.json) |
 | Football Agent | 200215 | [200215-football-agent.json](./200215-football-agent.json) |
 | Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
+| Football Agent | 428528 | [428528-football-agent.json](./428528-football-agent.json) |
 | Football Basketball Soccer: 3 Games in One | 245475 | [245475-football-basketball-soccer-3-games-in-one.json](./245475-football-basketball-soccer-3-games-in-one.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
@@ -10629,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Director II | 83202 | [83202-football-director-ii.json](./83202-football-director-ii.json) |
 | Football Drama | 105592 | [105592-football-drama.json](./105592-football-drama.json) |
+| Football Executive 27 | 428525 | [428525-football-executive-27.json](./428525-football-executive-27.json) |
 | Football Fan: Run Team Run! | 244094 | [244094-football-fan-run-team-run.json](./244094-football-fan-run-team-run.json) |
 | Football for the TRS-80 CoCo | 131494 | [131494-football-for-the-trs-80-coco.json](./131494-football-for-the-trs-80-coco.json) |
 | Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
