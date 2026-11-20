@@ -3673,7 +3673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
-| Emlyn Hughes International Soccer | 13637 | [13637-emlyn-hughes-international-soccer.json](./13637-emlyn-hughes-international-soccer.json) |
 | Emma | 101253 | [101253-emma.json](./101253-emma.json) |
 | Emma Adventure | 164111 | [164111-emma-adventure.json](./164111-emma-adventure.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
@@ -6404,7 +6403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
 | Escape Rooms Bundle | 241806 | [241806-escape-rooms-bundle.json](./241806-escape-rooms-bundle.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
-| Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Route | 147871 | [147871-escape-route.json](./147871-escape-route.json) |
 | Escape Ruin | 395300 | [395300-escape-ruin.json](./395300-escape-ruin.json) |
 | Escape Sand Dunes | 193514 | [193514-escape-sand-dunes.json](./193514-escape-sand-dunes.json) |
@@ -7197,7 +7195,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternum Ex | 111128 | [111128-eternum-ex.json](./111128-eternum-ex.json) |
 | Eterspire | 143526 | [143526-eterspire.json](./143526-eterspire.json) |
 | Ethan Lit 2 | 180404 | [180404-ethan-lit-2.json](./180404-ethan-lit-2.json) |
-| Ethan: Meteor Hunter | 10279 | [10279-ethan-meteor-hunter.json](./10279-ethan-meteor-hunter.json) |
 | Ethan's Watch | 390613 | [390613-ethans-watch.json](./390613-ethans-watch.json) |
 | Ethanol in dungeon | 118253 | [118253-ethanol-in-dungeon.json](./118253-ethanol-in-dungeon.json) |
 | Ethel | 290728 | [290728-ethel.json](./290728-ethel.json) |
@@ -7304,7 +7301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclid's Nightmare | 277094 | [277094-euclids-nightmare.json](./277094-euclids-nightmare.json) |
 | Euclidea | 83010 | [83010-euclidea.json](./83010-euclidea.json) |
-| Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclidean Crisis | 92193 | [92193-euclidean-crisis.json](./92193-euclidean-crisis.json) |
 | Euclidean Escape | 195343 | [195343-euclidean-escape.json](./195343-euclidean-escape.json) |
 | Euclidean Lands | 26708 | [26708-euclidean-lands.json](./26708-euclidean-lands.json) |
@@ -7554,7 +7550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Conqueror X | 106700 | [106700-european-conqueror-x.json](./106700-european-conqueror-x.json) |
 | European Expansion + Oceania Expansion | 276550 | [276550-european-expansion-oceania-expansion.json](./276550-european-expansion-oceania-expansion.json) |
 | European Expansion + Oceania Expansion + Seasonal Decorative Pack | 276551 | [276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
-| European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Football Dynasty 2023 | 217084 | [217084-european-football-dynasty-2023.json](./217084-european-football-dynasty-2023.json) |
@@ -7568,7 +7563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Mystery: The Face of Envy - Collector's Edition | 55606 | [55606-european-mystery-the-face-of-envy-collectors-edition.json](./55606-european-mystery-the-face-of-envy-collectors-edition.json) |
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
 | European Racers | 69528 | [69528-european-racers.json](./69528-european-racers.json) |
-| European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
 | European Soccer Challenge | 40840 | [40840-european-soccer-challenge.json](./40840-european-soccer-challenge.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
@@ -8731,7 +8725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
 | Executioner Girls: Legacy Pack | 293447 | [293447-executioner-girls-legacy-pack.json](./293447-executioner-girls-legacy-pack.json) |
 | Executioners | 91867 | [91867-executioners.json](./91867-executioners.json) |
-| Executive Assault | 11585 | [11585-executive-assault.json](./11585-executive-assault.json) |
 | Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Golf DX | 151968 | [151968-executive-golf-dx.json](./151968-executive-golf-dx.json) |
