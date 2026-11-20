@@ -7950,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between: Stardust Trail | 257554 | [257554-between-stardust-trail.json](./257554-between-stardust-trail.json) |
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
+| BetWin | 425577 | [425577-betwin.json](./425577-betwin.json) |
 | Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
 | Beullokgwa Miyeonsiwa Godae Geuriseu | 264820 | [264820-beullokgwa-miyeonsiwa-godae-geuriseu.json](./264820-beullokgwa-miyeonsiwa-godae-geuriseu.json) |
 | beVaiR | 183672 | [183672-bevair.json](./183672-bevair.json) |
@@ -11532,6 +11533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Metal Rainbow | 368730 | [368730-bleeding-metal-rainbow.json](./368730-bleeding-metal-rainbow.json) |
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleeding Neon | 184764 | [184764-bleeding-neon.json](./184764-bleeding-neon.json) |
+| Bleeding Nightmare | 425539 | [425539-bleeding-nightmare.json](./425539-bleeding-nightmare.json) |
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleeding Sun | 104920 | [104920-bleeding-sun.json](./104920-bleeding-sun.json) |
 | Bleedout | 392498 | [392498-bleedout.json](./392498-bleedout.json) |
