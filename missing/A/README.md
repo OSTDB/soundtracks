@@ -16295,6 +16295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 2 | 572 | [572-arma-2.json](./572-arma-2.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
+| Arma 2: Combined Operations | 24314 | [24314-arma-2-combined-operations.json](./24314-arma-2-combined-operations.json) |
 | Arma 2: Free | 131091 | [131091-arma-2-free.json](./131091-arma-2-free.json) |
 | ArmA 2: Operation Arrowhead | 601 | [601-arma-2-operation-arrowhead.json](./601-arma-2-operation-arrowhead.json) |
 | Arma 2: Private Military Company | 15868 | [15868-arma-2-private-military-company.json](./15868-arma-2-private-military-company.json) |
@@ -18455,6 +18456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
+| Asteroids Minesweeper | 25807 | [25807-asteroids-minesweeper.json](./25807-asteroids-minesweeper.json) |
 | Asteroids Mining Saga | 238974 | [238974-asteroids-mining-saga.json](./238974-asteroids-mining-saga.json) |
 | Asteroids Neon | 280406 | [280406-asteroids-neon.json](./280406-asteroids-neon.json) |
 | Asteroids Origin | 181982 | [181982-asteroids-origin.json](./181982-asteroids-origin.json) |
