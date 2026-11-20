@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Pumpkins | 175852 | [175852-100-pumpkins.json](./175852-100-pumpkins.json) |
 | 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
+| 100 Raft Cats | 426210 | [426210-100-raft-cats.json](./426210-100-raft-cats.json) |
 | 100 Ramen Cats | 376179 | [376179-100-ramen-cats.json](./376179-100-ramen-cats.json) |
 | 100 Robo Cats | 284583 | [284583-100-robo-cats.json](./284583-100-robo-cats.json) |
 | 100 Robo Cats: Extra Content | 288730 | [288730-100-robo-cats-extra-content.json](./288730-100-robo-cats-extra-content.json) |
@@ -4247,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Dechika: Island of Love and Bonds | 374119 | [374119-dechika-island-of-love-and-bonds.json](./374119-dechika-island-of-love-and-bonds.json) |
 | Đồng CỎ Lau: The Reed Field | 366138 | [366138-ong-co-lau-the-reed-field.json](./366138-ong-co-lau-the-reed-field.json) |
 | Éalú | 342964 | [342964-ealu.json](./342964-ealu.json) |
+| Éclaircies | 426219 | [426219-eclaircies.json](./426219-eclaircies.json) |
 | Éclipse The Cat | 265896 | [265896-eclipse-the-cat.json](./265896-eclipse-the-cat.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
