@@ -3961,6 +3961,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Help | 179097 | [179097-get-help.json](./179097-get-help.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
 | Get In Get Out | 376434 | [376434-get-in-get-out.json](./376434-get-in-get-out.json) |
+| Get in Santa's Pants | 424977 | [424977-get-in-santas-pants.json](./424977-get-in-santas-pants.json) |
+| Get in Santa's Pants 2 | 424978 | [424978-get-in-santas-pants-2.json](./424978-get-in-santas-pants-2.json) |
+| Get in Santa's Pants III: Knickerless for St Nicholas | 424982 | [424982-get-in-santas-pants-iii-knickerless-for-st-nicholas.json](./424982-get-in-santas-pants-iii-knickerless-for-st-nicholas.json) |
 | Get In Shape | 184733 | [184733-get-in-shape.json](./184733-get-in-shape.json) |
 | Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
 | Get in the Car, Loser!: Battle on the Big Boardwalk | 173374 | [173374-get-in-the-car-loser-battle-on-the-big-boardwalk.json](./173374-get-in-the-car-loser-battle-on-the-big-boardwalk.json) |
@@ -6634,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobble | 394530 | [394530-gobble.json](./394530-gobble.json) |
 | Gobble Dash | 117987 | [117987-gobble-dash.json](./117987-gobble-dash.json) |
 | Gobble Fantasy 2003 | 376039 | [376039-gobble-fantasy-2003.json](./376039-gobble-fantasy-2003.json) |
+| Gobble Inn | 424976 | [424976-gobble-inn.json](./424976-gobble-inn.json) |
 | Gobble It | 240109 | [240109-gobble-it.json](./240109-gobble-it.json) |
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbles | 427590 | [427590-gobbles.json](./427590-gobbles.json) |
@@ -6675,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Boom | 295745 | [295745-goblin-boom.json](./295745-goblin-boom.json) |
 | Goblin Buster | 361430 | [361430-goblin-buster.json](./361430-goblin-buster.json) |
 | Goblin Camp | 258300 | [258300-goblin-camp.json](./258300-goblin-camp.json) |
+| Goblin Card RPG: Tower Trials | 424981 | [424981-goblin-card-rpg-tower-trials.json](./424981-goblin-card-rpg-tower-trials.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
 | Goblin Clicker | 365876 | [365876-goblin-clicker.json](./365876-goblin-clicker.json) |
 | Goblin Colony | 235705 | [235705-goblin-colony.json](./235705-goblin-colony.json) |
@@ -10688,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Syndrome | 51343 | [51343-grief-syndrome.json](./51343-grief-syndrome.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
+| Griefborn | 424974 | [424974-griefborn.json](./424974-griefborn.json) |
 | Griefer | 95219 | [95219-griefer.json](./95219-griefer.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
 | Griel's Quest for the Sangraal | 73909 | [73909-griels-quest-for-the-sangraal.json](./73909-griels-quest-for-the-sangraal.json) |
