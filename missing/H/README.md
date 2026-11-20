@@ -11406,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
 | Hop Skip and Thump | 187257 | [187257-hop-skip-and-thump.json](./187257-hop-skip-and-thump.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
+| Hop Slash | 429176 | [429176-hop-slash.json](./429176-hop-slash.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
 | Hop Step Sing VR Live: Hop Summer Tour 2020 | 149684 | [149684-hop-step-sing-vr-live-hop-summer-tour-2020.json](./149684-hop-step-sing-vr-live-hop-summer-tour-2020.json) |
