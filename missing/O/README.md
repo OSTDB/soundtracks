@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
+| Olympus 2249 | 419506 | [419506-olympus-2249.json](./419506-olympus-2249.json) |
 | Olympus Griddlers | 108546 | [108546-olympus-griddlers.json](./108546-olympus-griddlers.json) |
 | Olympus of the Heavens | 421723 | [421723-olympus-of-the-heavens.json](./421723-olympus-of-the-heavens.json) |
 | Olympus Rangers | 399236 | [399236-olympus-rangers.json](./399236-olympus-rangers.json) |
@@ -3622,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
 | Onyx Clad | 135344 | [135344-onyx-clad.json](./135344-onyx-clad.json) |
 | Onyx: The Dark Grip | 417170 | [417170-onyx-the-dark-grip.json](./417170-onyx-the-dark-grip.json) |
+| Onyx2d | 419473 | [419473-onyx2d.json](./419473-onyx2d.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | OO.Inc | 113310 | [113310-oo-inc.json](./113310-oo-inc.json) |
