@@ -5155,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terramachi: Battle Card Game | 215007 | [215007-terramachi-battle-card-game.json](./215007-terramachi-battle-card-game.json) |
 | Terramancer | 128153 | [128153-terramancer.json](./128153-terramancer.json) |
 | TerraMartis4x | 157050 | [157050-terramartis4x.json](./157050-terramartis4x.json) |
+| Terramiasma | 421314 | [421314-terramiasma.json](./421314-terramiasma.json) |
 | Terramorphers: Turn Based RPG | 205135 | [205135-terramorphers-turn-based-rpg.json](./205135-terramorphers-turn-based-rpg.json) |
 | Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
 | Terran Dawn | 425911 | [425911-terran-dawn.json](./425911-terran-dawn.json) |
@@ -12837,6 +12838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inheritance: Panic in Las Vegas | 36561 | [36561-the-inheritance-panic-in-las-vegas.json](./36561-the-inheritance-panic-in-las-vegas.json) |
 | The Initiate: The First Interviews | 109555 | [109555-the-initiate-the-first-interviews.json](./109555-the-initiate-the-first-interviews.json) |
 | The Initiation | 345128 | [345128-the-initiation.json](./345128-the-initiation.json) |
+| The Ink Tower | 421315 | [421315-the-ink-tower.json](./421315-the-ink-tower.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
@@ -36645,6 +36647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
 | Truth Universally Acknowledged: Nine Hearts | 421283 | [421283-truth-universally-acknowledged-nine-hearts.json](./421283-truth-universally-acknowledged-nine-hearts.json) |
 | Truth Universally Acknowledged: Seasilk Heart | 394287 | [394287-truth-universally-acknowledged-seasilk-heart.json](./394287-truth-universally-acknowledged-seasilk-heart.json) |
+| Truth Universally Acknowledged: Silver Heart | 421285 | [421285-truth-universally-acknowledged-silver-heart.json](./421285-truth-universally-acknowledged-silver-heart.json) |
 | Truth: Disorder | 76307 | [76307-truth-disorder.json](./76307-truth-disorder.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
