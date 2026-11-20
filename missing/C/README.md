@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardterrupters | 213564 | [213564-cardterrupters.json](./213564-cardterrupters.json) |
 | Cardtographer | 330339 | [330339-cardtographer.json](./330339-cardtographer.json) |
 | Cardtonia | 389373 | [389373-cardtonia.json](./389373-cardtonia.json) |
+| Cardungeon | 426185 | [426185-cardungeon.json](./426185-cardungeon.json) |
 | Cardverse | 303394 | [303394-cardverse.json](./303394-cardverse.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | Cardwheel | 390876 | [390876-cardwheel.json](./390876-cardwheel.json) |
@@ -22206,6 +22207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubelz | 101357 | [101357-cubelz.json](./101357-cubelz.json) |
 | Cubelz: Cars | 168714 | [168714-cubelz-cars.json](./168714-cubelz-cars.json) |
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
+| CubeMatch | 426188 | [426188-cubematch.json](./426188-cubematch.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | Cubematrix | 232639 | [232639-cubematrix.json](./232639-cubematrix.json) |
 | Cubemen | 16346 | [16346-cubemen.json](./16346-cubemen.json) |
