@@ -9514,6 +9514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirotonfa's American Revolution Smuggler | 366565 | [366565-hirotonfas-american-revolution-smuggler.json](./366565-hirotonfas-american-revolution-smuggler.json) |
 | Hirt | 129327 | [129327-hirt.json](./129327-hirt.json) |
 | Hiru: Mansa Assegai | 424201 | [424201-hiru-mansa-assegai.json](./424201-hiru-mansa-assegai.json) |
+| Hirugao | 423767 | [423767-hirugao.json](./423767-hirugao.json) |
 | Hirusagari, Yokkyuu Fuman na Hitozuma-tachi ha...: Mesu Ochi Kikenbi Tanetsuke Koubi Kurui | 413704 | [413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json](./413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
