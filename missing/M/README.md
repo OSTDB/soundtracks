@@ -14215,6 +14215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Doctor Who Skin Pack Volume 2 | 254876 | [254876-minecraft-doctor-who-skin-pack-volume-2.json](./254876-minecraft-doctor-who-skin-pack-volume-2.json) |
 | Minecraft: Dragonborn Mash-up | 233961 | [233961-minecraft-dragonborn-mash-up.json](./233961-minecraft-dragonborn-mash-up.json) |
 | Minecraft: DuckTales | 254079 | [254079-minecraft-ducktales.json](./254079-minecraft-ducktales.json) |
+| Minecraft: Dungeons & Dragons | 251497 | [251497-minecraft-dungeons-and-dragons.json](./251497-minecraft-dungeons-and-dragons.json) |
 | Minecraft: Echo Crystal | 343904 | [343904-minecraft-echo-crystal.json](./343904-minecraft-echo-crystal.json) |
 | Minecraft: Egyptian Mythology Mash-up | 237331 | [237331-minecraft-egyptian-mythology-mash-up.json](./237331-minecraft-egyptian-mythology-mash-up.json) |
 | Minecraft: Essentials | 327115 | [327115-minecraft-essentials.json](./327115-minecraft-essentials.json) |
@@ -15995,6 +15996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Impossible | 350136 | [350136-mission-impossible.json](./350136-mission-impossible.json) |
 | Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
+| Mission: Impossible - Operation Surma | 248447 | [248447-mission-impossible-operation-surma.json](./248447-mission-impossible-operation-surma.json) |
 | Mission: Impossible - Operation Surma | 4013 | [4013-mission-impossible-operation-surma.json](./4013-mission-impossible-operation-surma.json) |
 | Mission: Impossible Arcade | 234951 | [234951-mission-impossible-arcade.json](./234951-mission-impossible-arcade.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
@@ -23025,6 +23027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Supercross - Encore: Supercross Track Pack 4 | 158782 | [158782-mx-vs-atv-supercross-encore-supercross-track-pack-4.json](./158782-mx-vs-atv-supercross-encore-supercross-track-pack-4.json) |
 | MX vs. ATV: Unleashed | 24150 | [24150-mx-vs-atv-unleashed.json](./24150-mx-vs-atv-unleashed.json) |
 | MX vs. ATV: Untamed | 248554 | [248554-mx-vs-atv-untamed.json](./248554-mx-vs-atv-untamed.json) |
+| MX vs. ATV: Untamed | 248555 | [248555-mx-vs-atv-untamed.json](./248555-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 248556 | [248556-mx-vs-atv-untamed.json](./248556-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 249272 | [249272-mx-vs-atv-untamed.json](./249272-mx-vs-atv-untamed.json) |
 | MX vs. ATV: Untamed | 5028 | [5028-mx-vs-atv-untamed.json](./5028-mx-vs-atv-untamed.json) |
