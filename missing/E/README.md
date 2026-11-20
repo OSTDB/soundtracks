@@ -7844,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everdawn | 377182 | [377182-everdawn.json](./377182-everdawn.json) |
 | Everdawn Isle | 375129 | [375129-everdawn-isle.json](./375129-everdawn-isle.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
+| Everdeep Aurora | 252778 | [252778-everdeep-aurora.json](./252778-everdeep-aurora.json) |
 | Everdell | 210527 | [210527-everdell.json](./210527-everdell.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream | 307562 | [307562-everdream.json](./307562-everdream.json) |
