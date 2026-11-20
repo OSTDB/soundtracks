@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
 | Yolanda: The Ultimate Challenge | 78390 | [78390-yolanda-the-ultimate-challenge.json](./78390-yolanda-the-ultimate-challenge.json) |
 | Yoli | 172883 | [172883-yoli.json](./172883-yoli.json) |
+| Yolk & Yonder | 420880 | [420880-yolk-and-yonder.json](./420880-yolk-and-yonder.json) |
 | Yolk Heroes: A Long Tamago | 250985 | [250985-yolk-heroes-a-long-tamago.json](./250985-yolk-heroes-a-long-tamago.json) |
 | Yolka | 172281 | [172281-yolka.json](./172281-yolka.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
