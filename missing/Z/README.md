@@ -2091,7 +2091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Pets | 64579 | [64579-zombie-pets.json](./64579-zombie-pets.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Pirate Robot Attack | 175261 | [175261-zombie-pirate-robot-attack.json](./175261-zombie-pirate-robot-attack.json) |
-| Zombie Pirates | 15028 | [15028-zombie-pirates.json](./15028-zombie-pirates.json) |
 | Zombie Pixel Zombie | 56314 | [56314-zombie-pixel-zombie.json](./56314-zombie-pixel-zombie.json) |
 | Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
 | Zombie Police: Midsummer Unhappy New Year | 419509 | [419509-zombie-police-midsummer-unhappy-new-year.json](./419509-zombie-police-midsummer-unhappy-new-year.json) |
