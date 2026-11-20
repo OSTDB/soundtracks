@@ -816,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen,Don't be afraid | 294365 | [294365-queen-dont-be-afraid.json](./294365-queen-dont-be-afraid.json) |
 | Queen: Rock Tour | 231466 | [231466-queen-rock-tour.json](./231466-queen-rock-tour.json) |
 | Queen: The Eye | 71958 | [71958-queen-the-eye.json](./71958-queen-the-eye.json) |
+| Queen's Blade Limit Break | 424958 | [424958-queens-blade-limit-break.json](./424958-queens-blade-limit-break.json) |
 | Queen's Blade Re:Build | 406940 | [406940-queens-blade-re-build.json](./406940-queens-blade-re-build.json) |
 | Queen's Blade: Spiral Chaos | 38458 | [38458-queens-blade-spiral-chaos.json](./38458-queens-blade-spiral-chaos.json) |
 | Queen's Blade: White Triangle | 112658 | [112658-queens-blade-white-triangle.json](./112658-queens-blade-white-triangle.json) |
