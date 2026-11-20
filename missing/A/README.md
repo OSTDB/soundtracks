@@ -18085,6 +18085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Fire | 137583 | [137583-assault-fire.json](./137583-assault-fire.json) |
 | Assault Gear | 397007 | [397007-assault-gear.json](./397007-assault-gear.json) |
 | Assault Gunners | 8645 | [8645-assault-gunners.json](./8645-assault-gunners.json) |
+| Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
 | Assault Gunners: HD Edition - Complete Set | 87856 | [87856-assault-gunners-hd-edition-complete-set.json](./87856-assault-gunners-hd-edition-complete-set.json) |
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
