@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Groovy Games | 67729 | [67729-barbie-groovy-games.json](./67729-barbie-groovy-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
+| Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
 | Barbie: Jet, Set & Style! | 17450 | [17450-barbie-jet-set-and-style.json](./17450-barbie-jet-set-and-style.json) |
 | Barbie: Laptop Charm Tech | 294486 | [294486-barbie-laptop-charm-tech.json](./294486-barbie-laptop-charm-tech.json) |
 | Barbie: Let's Baby-Sit Baby Krissy | 293192 | [293192-barbie-lets-baby-sit-baby-krissy.json](./293192-barbie-lets-baby-sit-baby-krissy.json) |
@@ -8231,6 +8232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Truth | 184372 | [184372-beyond-truth.json](./184372-beyond-truth.json) |
 | Beyond U | 250115 | [250115-beyond-u.json](./250115-beyond-u.json) |
 | Beyond Up | 386297 | [386297-beyond-up.json](./386297-beyond-up.json) |
+| Beyond Words | 375690 | [375690-beyond-words.json](./375690-beyond-words.json) |
 | Beyond Yardwork Simulator | 397238 | [397238-beyond-yardwork-simulator.json](./397238-beyond-yardwork-simulator.json) |
 | Beyond Ynth | 39240 | [39240-beyond-ynth.json](./39240-beyond-ynth.json) |
 | Beyond Ynth HDX | 103880 | [103880-beyond-ynth-hdx.json](./103880-beyond-ynth-hdx.json) |
@@ -12763,6 +12765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: Fresh Supply | 116539 | [116539-blood-fresh-supply.json](./116539-blood-fresh-supply.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
 | Blood: Plasma Pak | 18500 | [18500-blood-plasma-pak.json](./18500-blood-plasma-pak.json) |
+| Blood: Refreshed Supply | 370701 | [370701-blood-refreshed-supply.json](./370701-blood-refreshed-supply.json) |
 | Blood: Refreshed Supply - Death Wish | 394316 | [394316-blood-refreshed-supply-death-wish.json](./394316-blood-refreshed-supply-death-wish.json) |
 | Blood: The Last Vampire - First Volume | 65028 | [65028-blood-the-last-vampire-first-volume.json](./65028-blood-the-last-vampire-first-volume.json) |
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
@@ -13175,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom Tales 2: The Minotaur Prince | 172489 | [172489-blossom-tales-2-the-minotaur-prince.json](./172489-blossom-tales-2-the-minotaur-prince.json) |
 | Blossom Voyage | 403740 | [403740-blossom-voyage.json](./403740-blossom-voyage.json) |
 | Blossom: La Jirafa Saga | 186496 | [186496-blossom-la-jirafa-saga.json](./186496-blossom-la-jirafa-saga.json) |
+| Blossom: The Seed of Life | 370981 | [370981-blossom-the-seed-of-life.json](./370981-blossom-the-seed-of-life.json) |
 | Blossom's Bloom Boutique | 214659 | [214659-blossoms-bloom-boutique.json](./214659-blossoms-bloom-boutique.json) |
 | Blossom’s Grove: An English-learning Game | 393243 | [393243-blossom-s-grove-an-english-learning-game.json](./393243-blossom-s-grove-an-english-learning-game.json) |
 | Blossoming Buds | 308594 | [308594-blossoming-buds.json](./308594-blossoming-buds.json) |
@@ -18922,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble: Lost Cave | 278230 | [278230-bubble-bobble-lost-cave.json](./278230-bubble-bobble-lost-cave.json) |
 | Bubble Bobble: Old & New | 49162 | [49162-bubble-bobble-old-and-new.json](./49162-bubble-bobble-old-and-new.json) |
 | Bubble Bobble: Return of Great Dragon | 321668 | [321668-bubble-bobble-return-of-great-dragon.json](./321668-bubble-bobble-return-of-great-dragon.json) |
+| Bubble Bobble: Sugar Dungeons | 351212 | [351212-bubble-bobble-sugar-dungeons.json](./351212-bubble-bobble-sugar-dungeons.json) |
 | Bubble Bobble: Sugar Dungeons - Deluxe Edition | 376241 | [376241-bubble-bobble-sugar-dungeons-deluxe-edition.json](./376241-bubble-bobble-sugar-dungeons-deluxe-edition.json) |
 | Bubble Bop | 245702 | [245702-bubble-bop.json](./245702-bubble-bop.json) |
 | Bubble Bounce | 133478 | [133478-bubble-bounce.json](./133478-bubble-bounce.json) |
