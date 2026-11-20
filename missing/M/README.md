@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble Shooter: Classic Bubbles Arcade | 248868 | [248868-magic-bubble-shooter-classic-bubbles-arcade.json](./248868-magic-bubble-shooter-classic-bubbles-arcade.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Builder | 204591 | [204591-magic-builder.json](./204591-magic-builder.json) |
+| Magic Campus Neo | 424972 | [424972-magic-campus-neo.json](./424972-magic-campus-neo.json) |
 | Magic Card: CZ12 | 287690 | [287690-magic-card-cz12.json](./287690-magic-card-cz12.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet | 185275 | [185275-magnet.json](./185275-magnet.json) |
 | Magnet Action: Zi | 147890 | [147890-magnet-action-zi.json](./147890-magnet-action-zi.json) |
 | Magnet Block | 223224 | [223224-magnet-block.json](./223224-magnet-block.json) |
+| Magnet Bros | 424966 | [424966-magnet-bros.json](./424966-magnet-bros.json) |
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Face | 203091 | [203091-magnet-face.json](./203091-magnet-face.json) |
@@ -15049,6 +15051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minima | 380160 | [380160-minima.json](./380160-minima.json) |
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
+| Minimal AI Build Shop 24-26 | 424962 | [424962-minimal-ai-build-shop-24-26.json](./424962-minimal-ai-build-shop-24-26.json) |
 | Minimal Arcade | 319130 | [319130-minimal-arcade.json](./319130-minimal-arcade.json) |
 | Minimal Bubble Pop | 208648 | [208648-minimal-bubble-pop.json](./208648-minimal-bubble-pop.json) |
 | Minimal Crypt | 163947 | [163947-minimal-crypt.json](./163947-minimal-crypt.json) |
@@ -15765,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Kawaii 3 | 227598 | [227598-miss-kawaii-3.json](./227598-miss-kawaii-3.json) |
 | Miss Kobayashi's Dragon Maid Burst Forth!! Choro-gon Breath: Director's Cut | 220763 | [220763-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath-directors-cut.json](./220763-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath-directors-cut.json) |
+| Miss Kobayashi's Dragon Maid Fantasia | 424956 | [424956-miss-kobayashis-dragon-maid-fantasia.json](./424956-miss-kobayashis-dragon-maid-fantasia.json) |
 | Miss Kobayashi's Dragon Maid: Burst Forth!! Choro-gon Breath | 172393 | [172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json](./172393-miss-kobayashis-dragon-maid-burst-forth-choro-gon-breath.json) |
 | Miss Lisette's Assassin Maid | 118255 | [118255-miss-lisettes-assassin-maid.json](./118255-miss-lisettes-assassin-maid.json) |
 | Miss Lu | 236494 | [236494-miss-lu.json](./236494-miss-lu.json) |
