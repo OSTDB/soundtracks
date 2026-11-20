@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Visitor on Venus | 179590 | [179590-a-visitor-on-venus.json](./179590-a-visitor-on-venus.json) |
 | A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A | 72308 | [72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json](./72308-a-visual-mix-ayumi-hamasaki-dome-tour-2001-a.json) |
 | A Vøid | 240727 | [240727-a-v-id.json](./240727-a-v-id.json) |
+| A Void Hope | 252360 | [252360-a-void-hope.json](./252360-a-void-hope.json) |
 | A Void Shaper | 277981 | [277981-a-void-shaper.json](./277981-a-void-shaper.json) |
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voxel Action | 65411 | [65411-a-voxel-action.json](./65411-a-voxel-action.json) |
@@ -19936,6 +19937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan the Game | 405643 | [405643-attack-on-titan-the-game.json](./405643-attack-on-titan-the-game.json) |
 | Attack on Titan Tribute Game | 79394 | [79394-attack-on-titan-tribute-game.json](./79394-attack-on-titan-tribute-game.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
+| Attack on Titan VR: Unbreakable | 251566 | [251566-attack-on-titan-vr-unbreakable.json](./251566-attack-on-titan-vr-unbreakable.json) |
 | Attack on Titan: A Choice with No Regrets | 200562 | [200562-attack-on-titan-a-choice-with-no-regrets.json](./200562-attack-on-titan-a-choice-with-no-regrets.json) |
 | Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
 | Attack on Titan: Brave Order | 174604 | [174604-attack-on-titan-brave-order.json](./174604-attack-on-titan-brave-order.json) |
