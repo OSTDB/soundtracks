@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
+| Epic Cards Battle 2-Dragons Rising (TCG) | 55372 | [55372-epic-cards-battle-2-dragons-rising-tcg.json](./55372-epic-cards-battle-2-dragons-rising-tcg.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
 | Epic Citadel | 91847 | [91847-epic-citadel.json](./91847-epic-citadel.json) |
