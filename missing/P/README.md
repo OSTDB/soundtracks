@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
 | Paw Paw Miaw | 286360 | [286360-paw-paw-miaw.json](./286360-paw-paw-miaw.json) |
 | Paw Pirates | 310841 | [310841-paw-pirates.json](./310841-paw-pirates.json) |
+| Paw Tales: Eternal Bond | 424315 | [424315-paw-tales-eternal-bond.json](./424315-paw-tales-eternal-bond.json) |
 | Paw's Boba Shop | 414737 | [414737-paws-boba-shop.json](./414737-paws-boba-shop.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
