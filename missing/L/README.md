@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Metro Drive | 374965 | [374965-late-metro-drive.json](./374965-late-metro-drive.json) |
 | Late Ming Dynasty | 379101 | [379101-late-ming-dynasty.json](./379101-late-ming-dynasty.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
+| Late Ming: Reborn in Flames | 429619 | [429619-late-ming-reborn-in-flames.json](./429619-late-ming-reborn-in-flames.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night at the KWL | 308114 | [308114-late-night-at-the-kwl.json](./308114-late-night-at-the-kwl.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
