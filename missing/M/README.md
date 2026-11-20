@@ -6953,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Treasures | 150464 | [150464-maya-treasures.json](./150464-maya-treasures.json) |
 | Maya: Cats of Istanbul | 332975 | [332975-maya-cats-of-istanbul.json](./332975-maya-cats-of-istanbul.json) |
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
+| Maya's Domain | 427957 | [427957-mayas-domain.json](./427957-mayas-domain.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
 | Maya's Mission | 102657 | [102657-mayas-mission.json](./102657-mayas-mission.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
@@ -8105,6 +8106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Engineers: Deluxe Edition | 54216 | [54216-medieval-engineers-deluxe-edition.json](./54216-medieval-engineers-deluxe-edition.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
 | Medieval Europe | 26738 | [26738-medieval-europe.json](./26738-medieval-europe.json) |
+| Medieval Fantasy Blacksmith Shop | 427949 | [427949-medieval-fantasy-blacksmith-shop.json](./427949-medieval-fantasy-blacksmith-shop.json) |
 | Medieval Fantasy Survival Simulator | 192525 | [192525-medieval-fantasy-survival-simulator.json](./192525-medieval-fantasy-survival-simulator.json) |
 | Medieval Fantasy Survival Simulator 2: Gladiator Edition | 237465 | [237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json](./237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
@@ -22769,6 +22771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Fighter | 40383 | [40383-mutant-fighter.json](./40383-mutant-fighter.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Fighting Cup 2 | 30367 | [30367-mutant-fighting-cup-2.json](./30367-mutant-fighting-cup-2.json) |
+| Mutant Fish | 427947 | [427947-mutant-fish.json](./427947-mutant-fish.json) |
 | Mutant Fish Lab | 363066 | [363066-mutant-fish-lab.json](./363066-mutant-fish-lab.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
