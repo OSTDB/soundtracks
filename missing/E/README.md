@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
 | Erewhon | 422708 | [422708-erewhon.json](./422708-erewhon.json) |
+| ErfCity | 419491 | [419491-erfcity.json](./419491-erfcity.json) |
 | Ergastulum | 75580 | [75580-ergastulum.json](./75580-ergastulum.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergenekon | 380324 | [380324-ergenekon.json](./380324-ergenekon.json) |
@@ -7431,6 +7432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroCops | 62984 | [62984-eurocops.json](./62984-eurocops.json) |
 | EuroDrive | 414570 | [414570-eurodrive.json](./414570-eurodrive.json) |
+| EuroDrive Albania | 419510 | [419510-eurodrive-albania.json](./419510-eurodrive-albania.json) |
 | EuroDrive: Bosnia And Herzegovina | 413823 | [413823-eurodrive-bosnia-and-herzegovina.json](./413823-eurodrive-bosnia-and-herzegovina.json) |
 | EuroDrive: Greece | 413822 | [413822-eurodrive-greece.json](./413822-eurodrive-greece.json) |
 | Eurofighter Typhoon | 10281 | [10281-eurofighter-typhoon.json](./10281-eurofighter-typhoon.json) |
@@ -8878,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit VR | 51713 | [51713-exit-vr.json](./51713-exit-vr.json) |
 | Exit Ways | 346652 | [346652-exit-ways.json](./346652-exit-ways.json) |
 | Exit Zone | 375774 | [375774-exit-zone.json](./375774-exit-zone.json) |
+| Exit_ComputerLab | 419508 | [419508-exit-computerlab.json](./419508-exit-computerlab.json) |
 | Exit, Seriously? | 401385 | [401385-exit-seriously.json](./401385-exit-seriously.json) |
 | Exit: A Biodelic Adventure | 129020 | [129020-exit-a-biodelic-adventure.json](./129020-exit-a-biodelic-adventure.json) |
 | Exit: Echoes of Insanity | 395145 | [395145-exit-echoes-of-insanity.json](./395145-exit-echoes-of-insanity.json) |
@@ -8958,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus | 330604 | [330604-exodus.json](./330604-exodus.json) |
 | Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
+| Exodus | 419471 | [419471-exodus.json](./419471-exodus.json) |
 | Exodus Borealis | 148065 | [148065-exodus-borealis.json](./148065-exodus-borealis.json) |
 | Exodus Checkmate | 216398 | [216398-exodus-checkmate.json](./216398-exodus-checkmate.json) |
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
