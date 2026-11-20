@@ -11439,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Legacy: Wanderer Edition | 140073 | [140073-rogue-legacy-wanderer-edition.json](./140073-rogue-legacy-wanderer-edition.json) |
 | Rogue Legend: Tame the Wild | 102048 | [102048-rogue-legend-tame-the-wild.json](./102048-rogue-legend-tame-the-wild.json) |
 | Rogue Light Deck Builder | 300049 | [300049-rogue-light-deck-builder.json](./300049-rogue-light-deck-builder.json) |
+| Rogue Links | 424887 | [424887-rogue-links.json](./424887-rogue-links.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords | 131573 | [131573-rogue-lords.json](./131573-rogue-lords.json) |
 | Rogue Lords: Blood Moon Edition | 173100 | [173100-rogue-lords-blood-moon-edition.json](./173100-rogue-lords-blood-moon-edition.json) |
