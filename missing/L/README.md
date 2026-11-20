@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legion: Immortal Survivors | 399963 | [399963-legion-immortal-survivors.json](./399963-legion-immortal-survivors.json) |
 | Legion: Legend of Excalibur | 44714 | [44714-legion-legend-of-excalibur.json](./44714-legion-legend-of-excalibur.json) |
+| Legion's Crawl | 105215 | [105215-legions-crawl.json](./105215-legions-crawl.json) |
 | Legion's Crawl 2 | 132899 | [132899-legions-crawl-2.json](./132899-legions-crawl-2.json) |
 | Legion's Hand | 427804 | [427804-legions-hand.json](./427804-legions-hand.json) |
 | Legionbound | 387609 | [387609-legionbound.json](./387609-legionbound.json) |
