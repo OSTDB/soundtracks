@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
 | Online Soccer Manager | 77576 | [77576-online-soccer-manager.json](./77576-online-soccer-manager.json) |
 | Online Sparkler | 151770 | [151770-online-sparkler.json](./151770-online-sparkler.json) |
+| Online Wife | 418817 | [418817-online-wife.json](./418817-online-wife.json) |
 | Online World Drifting Championships | 373672 | [373672-online-world-drifting-championships.json](./373672-online-world-drifting-championships.json) |
 | Online Yuki Gassen DX | 151778 | [151778-online-yuki-gassen-dx.json](./151778-online-yuki-gassen-dx.json) |
 | Online: 404 | 403155 | [403155-online-404.json](./403155-online-404.json) |
@@ -6537,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overstimulacrum | 415461 | [415461-overstimulacrum.json](./415461-overstimulacrum.json) |
 | Overstorm | 267498 | [267498-overstorm.json](./267498-overstorm.json) |
 | Overstrike Arena | 235650 | [235650-overstrike-arena.json](./235650-overstrike-arena.json) |
+| Overstrum | 418786 | [418786-overstrum.json](./418786-overstrum.json) |
 | Oversynth | 401946 | [401946-oversynth.json](./401946-oversynth.json) |
 | Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTake: The Elite Challenge | 124295 | [124295-overtake-the-elite-challenge.json](./124295-overtake-the-elite-challenge.json) |
