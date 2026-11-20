@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
 | Shade | 79903 | [79903-shade.json](./79903-shade.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
+| Shade of the Marionette: The Story of Piyorita | 418012 | [418012-shade-of-the-marionette-the-story-of-piyorita.json](./418012-shade-of-the-marionette-the-story-of-piyorita.json) |
 | Shade Protocol | 345174 | [345174-shade-protocol.json](./345174-shade-protocol.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
@@ -10003,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
 | Shinrei Ryokan | 283068 | [283068-shinrei-ryokan.json](./283068-shinrei-ryokan.json) |
+| Shinrei Shinjuu | 417654 | [417654-shinrei-shinjuu.json](./417654-shinrei-shinjuu.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
 | Shinri Kenkyuuka Yuuki Yuu Kanshuu: Mainichi Kokorobics DS Therapy | 68402 | [68402-shinri-kenkyuuka-yuuki-yuu-kanshuu-mainichi-kokorobics-ds-therapy.json](./68402-shinri-kenkyuuka-yuuki-yuu-kanshuu-mainichi-kokorobics-ds-therapy.json) |
 | Shinrin-yoku | 81922 | [81922-shinrin-yoku.json](./81922-shinrin-yoku.json) |
@@ -10166,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | Shippin | 325204 | [325204-shippin.json](./325204-shippin.json) |
+| Shipping | 417634 | [417634-shipping.json](./417634-shipping.json) |
 | Shipping Manager | 264937 | [264937-shipping-manager.json](./264937-shipping-manager.json) |
 | Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
@@ -17348,6 +17351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeGame | 193028 | [193028-snakegame.json](./193028-snakegame.json) |
 | SnakeGame.Live | 422477 | [422477-snakegame-live.json](./422477-snakegame-live.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
+| Snakehead | 417621 | [417621-snakehead.json](./417621-snakehead.json) |
 | SnakeLaw Island | 167375 | [167375-snakelaw-island.json](./167375-snakelaw-island.json) |
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
 | SnakeLike | 374231 | [374231-snakelike.json](./374231-snakelike.json) |
@@ -27558,6 +27562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
 | Star Atlas | 175639 | [175639-star-atlas.json](./175639-star-atlas.json) |
 | Star Attack | 287560 | [287560-star-attack.json](./287560-star-attack.json) |
+| Star Avenger | 418018 | [418018-star-avenger.json](./418018-star-avenger.json) |
 | Star Ball | 245171 | [245171-star-ball.json](./245171-star-ball.json) |
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Balls | 35370 | [35370-star-balls.json](./35370-star-balls.json) |
@@ -33907,6 +33912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Haven | 408723 | [408723-sudoku-haven.json](./408723-sudoku-haven.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku HD for iPad | 101666 | [101666-sudoku-hd-for-ipad.json](./101666-sudoku-hd-for-ipad.json) |
+| Sudoku II 9x9 Grid Sudoku Game | 413265 | [413265-sudoku-ii-9x9-grid-sudoku-game.json](./413265-sudoku-ii-9x9-grid-sudoku-game.json) |
 | Sudoku Infinite | 310688 | [310688-sudoku-infinite.json](./310688-sudoku-infinite.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Keychain LCD Game | 233607 | [233607-sudoku-keychain-lcd-game.json](./233607-sudoku-keychain-lcd-game.json) |
