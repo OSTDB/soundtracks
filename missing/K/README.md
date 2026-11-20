@@ -5525,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knortex | 384988 | [384988-knortex.json](./384988-knortex.json) |
 | Knossos | 55497 | [55497-knossos.json](./55497-knossos.json) |
 | Knossu | 220571 | [220571-knossu.json](./220571-knossu.json) |
+| Knot | 24521 | [24521-knot.json](./24521-knot.json) |
 | Knot Fiction! | 144202 | [144202-knot-fiction.json](./144202-knot-fiction.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot Me! | 146474 | [146474-knot-me.json](./146474-knot-me.json) |
