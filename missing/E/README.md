@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aincrad: Genesis Maidens | 416126 | [416126-echoes-of-aincrad-genesis-maidens.json](./416126-echoes-of-aincrad-genesis-maidens.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Aincrad: Ultimate Edition | 393968 | [393968-echoes-of-aincrad-ultimate-edition.json](./393968-echoes-of-aincrad-ultimate-edition.json) |
+| Echoes of Another Sky | 422570 | [422570-echoes-of-another-sky.json](./422570-echoes-of-another-sky.json) |
 | Echoes of Aromia | 418551 | [418551-echoes-of-aromia.json](./418551-echoes-of-aromia.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
@@ -4545,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
 | Endless, Nameless | 60116 | [60116-endless-nameless.json](./60116-endless-nameless.json) |
+| Endless.Fishing | 422563 | [422563-endless-fishing.json](./422563-endless-fishing.json) |
 | EndlessCar | 280157 | [280157-endlesscar.json](./280157-endlesscar.json) |
 | EndlessChoice | 289236 | [289236-endlesschoice.json](./289236-endlesschoice.json) |
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
@@ -8393,6 +8395,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evilmun Family: Season 4 Spark | 198508 | [198508-evilmun-family-season-4-spark.json](./198508-evilmun-family-season-4-spark.json) |
 | Evilmun Family: Season 5 water renewal Part 1 | 230533 | [230533-evilmun-family-season-5-water-renewal-part-1.json](./230533-evilmun-family-season-5-water-renewal-part-1.json) |
 | Evilmun Online | 242746 | [242746-evilmun-online.json](./242746-evilmun-online.json) |
+| Evilnessa: Nightmare House | 422504 | [422504-evilnessa-nightmare-house.json](./422504-evilnessa-nightmare-house.json) |
+| Evilnessa: The Book of Life | 422502 | [422502-evilnessa-the-book-of-life.json](./422502-evilnessa-the-book-of-life.json) |
+| Evilnessa: The Cursed Place | 422503 | [422503-evilnessa-the-cursed-place.json](./422503-evilnessa-the-cursed-place.json) |
 | Evilot | 63386 | [63386-evilot.json](./63386-evilot.json) |
 | EvilQuest | 3237 | [3237-evilquest.json](./3237-evilquest.json) |
 | EvilSlayer | 367354 | [367354-evilslayer.json](./367354-evilslayer.json) |
@@ -8526,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
 | Evorales | 163020 | [163020-evorales.json](./163020-evorales.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
+| Evoruption | 422584 | [422584-evoruption.json](./422584-evoruption.json) |
 | Evoscape | 325301 | [325301-evoscape.json](./325301-evoscape.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evostrike | 288800 | [288800-evostrike.json](./288800-evostrike.json) |
