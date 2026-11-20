@@ -8133,6 +8133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Bow | 153789 | [153789-beyond-the-bow.json](./153789-beyond-the-bow.json) |
 | Beyond the Breach | 291863 | [291863-beyond-the-breach.json](./291863-beyond-the-breach.json) |
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
+| Beyond the Broken Veil | 419533 | [419533-beyond-the-broken-veil.json](./419533-beyond-the-broken-veil.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the City VR | 29665 | [29665-beyond-the-city-vr.json](./29665-beyond-the-city-vr.json) |
 | Beyond The Clouds | 303547 | [303547-beyond-the-clouds.json](./303547-beyond-the-clouds.json) |
@@ -14795,6 +14796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongus Bright-Eye & The Great Axe-Stravaganza | 255252 | [255252-bongus-bright-eye-and-the-great-axe-stravaganza.json](./255252-bongus-bright-eye-and-the-great-axe-stravaganza.json) |
 | Bonhomme 7 Heures | 151617 | [151617-bonhomme-7-heures.json](./151617-bonhomme-7-heures.json) |
 | Bōnin | 407052 | [407052-bonin.json](./407052-bonin.json) |
+| Bonitāka's Aquarium of Medusae | 418976 | [418976-bonitakas-aquarium-of-medusae.json](./418976-bonitakas-aquarium-of-medusae.json) |
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
@@ -19378,6 +19380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bots | 275749 | [275749-bug-bots.json](./275749-bug-bots.json) |
 | Bug Bounce | 401068 | [401068-bug-bounce.json](./401068-bug-bounce.json) |
 | Bug Bunny: Discontroll | 373729 | [373729-bug-bunny-discontroll.json](./373729-bug-bunny-discontroll.json) |
+| Bug Buster Bros. | 419484 | [419484-bug-buster-bros.json](./419484-bug-buster-bros.json) |
 | Bug Busters | 271389 | [271389-bug-busters.json](./271389-bug-busters.json) |
 | Bug Butcher | 203622 | [203622-bug-butcher.json](./203622-bug-butcher.json) |
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
