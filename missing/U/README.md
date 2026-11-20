@@ -3095,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal PT | 113626 | [113626-unreal-pt.json](./113626-unreal-pt.json) |
+| Unreal Revived | 424349 | [424349-unreal-revived.json](./424349-unreal-revived.json) |
 | Unreal Sandbox | 165754 | [165754-unreal-sandbox.json](./165754-unreal-sandbox.json) |
 | Unreal Shift At Freddy's | 209296 | [209296-unreal-shift-at-freddys.json](./209296-unreal-shift-at-freddys.json) |
 | Unreal Strike | 256994 | [256994-unreal-strike.json](./256994-unreal-strike.json) |
