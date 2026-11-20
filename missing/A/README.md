@@ -5194,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark | 357793 | [357793-after-dark.json](./357793-after-dark.json) |
 | After Dark | 376844 | [376844-after-dark.json](./376844-after-dark.json) |
 | After Dark Games | 85943 | [85943-after-dark-games.json](./85943-after-dark-games.json) |
+| After Dark Pinas: Check In | 427297 | [427297-after-dark-pinas-check-in.json](./427297-after-dark-pinas-check-in.json) |
 | After Dark VR | 187533 | [187533-after-dark-vr.json](./187533-after-dark-vr.json) |
 | After Dark: Tower 47 | 420383 | [420383-after-dark-tower-47.json](./420383-after-dark-tower-47.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
@@ -14115,6 +14116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanox: Deep Descent | 16708 | [16708-aquanox-deep-descent.json](./16708-aquanox-deep-descent.json) |
 | Aquanox: Deep Descent - Collector's Edition | 140667 | [140667-aquanox-deep-descent-collectors-edition.json](./140667-aquanox-deep-descent-collectors-edition.json) |
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
+| Aquapact | 427320 | [427320-aquapact.json](./427320-aquapact.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
 | Aquapark io: Cool Edition | 404544 | [404544-aquapark-io-cool-edition.json](./404544-aquapark-io-cool-edition.json) |
@@ -15580,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Roll | 424661 | [424661-arctic-roll.json](./424661-arctic-roll.json) |
 | Arctic Shift: Fuel Station | 410497 | [410497-arctic-shift-fuel-station.json](./410497-arctic-shift-fuel-station.json) |
 | Arctic Shop Simulator | 421656 | [421656-arctic-shop-simulator.json](./421656-arctic-shop-simulator.json) |
+| Arctic Station Six | 427295 | [427295-arctic-station-six.json](./427295-arctic-station-six.json) |
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
 | Arctic Tale | 4679 | [4679-arctic-tale.json](./4679-arctic-tale.json) |
@@ -20700,6 +20703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
 | Avaris3 | 271104 | [271104-avaris3.json](./271104-avaris3.json) |
 | Avaritia | 232635 | [232635-avaritia.json](./232635-avaritia.json) |
+| Avaryn | 427299 | [427299-avaryn.json](./427299-avaryn.json) |
 | Avast Ye: Antventure be Calling | 121085 | [121085-avast-ye-antventure-be-calling.json](./121085-avast-ye-antventure-be-calling.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
