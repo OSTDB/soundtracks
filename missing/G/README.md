@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Puzzle | 202214 | [202214-glitch-puzzle.json](./202214-glitch-puzzle.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
 | Glitch Run | 412977 | [412977-glitch-run.json](./412977-glitch-run.json) |
+| Glitch Simulator 2018 | 55634 | [55634-glitch-simulator-2018.json](./55634-glitch-simulator-2018.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tank | 61362 | [61362-glitch-tank.json](./61362-glitch-tank.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
