@@ -7237,6 +7237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
+| Beltrunner | 424412 | [424412-beltrunner.json](./424412-beltrunner.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
@@ -11066,6 +11067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blali | 418381 | [418381-blali.json](./418381-blali.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
+| Blam! Blam! | 424403 | [424403-blam-blam.json](./424403-blam-blam.json) |
 | Blam! Machinehead | 45414 | [45414-blam-machinehead.json](./45414-blam-machinehead.json) |
 | Blamcon Shooting Gallery | 274294 | [274294-blamcon-shooting-gallery.json](./274294-blamcon-shooting-gallery.json) |
 | Blamdodge | 177640 | [177640-blamdodge.json](./177640-blamdodge.json) |
@@ -11134,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasphemous: Wounds of Eventide | 165391 | [165391-blasphemous-wounds-of-eventide.json](./165391-blasphemous-wounds-of-eventide.json) |
 | Blast | 55758 | [55758-blast.json](./55758-blast.json) |
 | Blast | 88710 | [88710-blast.json](./88710-blast.json) |
+| Blast 10 | 424392 | [424392-blast-10.json](./424392-blast-10.json) |
 | Blast 3D The Arrival: Chapter 0 | 303366 | [303366-blast-3d-the-arrival-chapter-0.json](./303366-blast-3d-the-arrival-chapter-0.json) |
 | Blast Arena | 280039 | [280039-blast-arena.json](./280039-blast-arena.json) |
 | Blast Attack | 248962 | [248962-blast-attack.json](./248962-blast-attack.json) |
@@ -14091,6 +14094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boiled | 392010 | [392010-boiled.json](./392010-boiled.json) |
+| Boiled Bison | 424400 | [424400-boiled-bison.json](./424400-boiled-bison.json) |
 | Boiler & Blood | 428105 | [428105-boiler-and-blood.json](./428105-boiler-and-blood.json) |
 | Boiler Room | 415378 | [415378-boiler-room.json](./415378-boiler-room.json) |
 | Boiling Ossan Eggs! | 61811 | [61811-boiling-ossan-eggs.json](./61811-boiling-ossan-eggs.json) |
