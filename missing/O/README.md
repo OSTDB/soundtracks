@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenClonk | 60297 | [60297-openclonk.json](./60297-openclonk.json) |
+| OpenCMR2 | 423149 | [423149-opencmr2.json](./423149-opencmr2.json) |
 | OpenFront | 333095 | [333095-openfront.json](./333095-openfront.json) |
 | OpenGeneral | 79518 | [79518-opengeneral.json](./79518-opengeneral.json) |
 | OpenGoal: Jak 3 | 396702 | [396702-opengoal-jak-3.json](./396702-opengoal-jak-3.json) |
