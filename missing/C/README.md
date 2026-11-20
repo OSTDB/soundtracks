@@ -13313,6 +13313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
 | Coffin Valley | 400210 | [400210-coffin-valley.json](./400210-coffin-valley.json) |
+| Coffinmaker | 429167 | [429167-coffinmaker.json](./429167-coffinmaker.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | CoFishing | 428927 | [428927-cofishing.json](./428927-cofishing.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
@@ -17545,6 +17546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Rays | 390253 | [390253-cosmic-rays.json](./390253-cosmic-rays.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
+| Cosmic Recomp | 429132 | [429132-cosmic-recomp.json](./429132-cosmic-recomp.json) |
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
 | Cosmic Remnants | 309831 | [309831-cosmic-remnants.json](./309831-cosmic-remnants.json) |
 | Cosmic Resistance | 262816 | [262816-cosmic-resistance.json](./262816-cosmic-resistance.json) |
@@ -22763,6 +22765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious George Visits the Library | 39365 | [39365-curious-george-visits-the-library.json](./39365-curious-george-visits-the-library.json) |
 | Curious George: Downtown Adventure | 73973 | [73973-curious-george-downtown-adventure.json](./73973-curious-george-downtown-adventure.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
+| Curious Paws: Pawsitive Journey | 429170 | [429170-curious-paws-pawsitive-journey.json](./429170-curious-paws-pawsitive-journey.json) |
 | Curious? | 406813 | [406813-curious.json](./406813-curious.json) |
 | Curl Up and Fly! | 179272 | [179272-curl-up-and-fly.json](./179272-curl-up-and-fly.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
