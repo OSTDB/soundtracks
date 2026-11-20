@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Clearance | 406396 | [406396-zero-clearance.json](./406396-zero-clearance.json) |
 | Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
+| Zero Contact | 417638 | [417638-zero-contact.json](./417638-zero-contact.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
 | Zero Critical | 8418 | [8418-zero-critical.json](./8418-zero-critical.json) |
 | Zero Day Exploit | 427872 | [427872-zero-day-exploit.json](./427872-zero-day-exploit.json) |
