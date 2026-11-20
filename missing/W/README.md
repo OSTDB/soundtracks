@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War crime | 82815 | [82815-war-crime.json](./82815-war-crime.json) |
 | War Cube | 31342 | [31342-war-cube.json](./31342-war-cube.json) |
 | War Diary | 2620 | [2620-war-diary.json](./2620-war-diary.json) |
+| War Doctor | 426789 | [426789-war-doctor.json](./426789-war-doctor.json) |
 | War Dogs: Ace Fighters of WWII | 403106 | [403106-war-dogs-ace-fighters-of-wwii.json](./403106-war-dogs-ace-fighters-of-wwii.json) |
 | War Dogs: Red's Return | 147095 | [147095-war-dogs-reds-return.json](./147095-war-dogs-reds-return.json) |
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
@@ -3145,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Terran Frontier: Zero Falls | 34680 | [34680-wayward-terran-frontier-zero-falls.json](./34680-wayward-terran-frontier-zero-falls.json) |
 | Wayward Tide | 94066 | [94066-wayward-tide.json](./94066-wayward-tide.json) |
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
+| WAZATO: Sabotage or Mistake? | 426730 | [426730-wazato-sabotage-or-mistake.json](./426730-wazato-sabotage-or-mistake.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
 | WB All-Star Mayhem | 428378 | [428378-wb-all-star-mayhem.json](./428378-wb-all-star-mayhem.json) |
 | WB Solitaire | 424540 | [424540-wb-solitaire.json](./424540-wb-solitaire.json) |
@@ -10651,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wubbo: PuterPal | 390687 | [390687-wubbo-puterpal.json](./390687-wubbo-puterpal.json) |
 | Wubbzy's Amazing Adventure | 154780 | [154780-wubbzys-amazing-adventure.json](./154780-wubbzys-amazing-adventure.json) |
 | Wubbzy's Bilingual Treehouse Laptop | 299665 | [299665-wubbzys-bilingual-treehouse-laptop.json](./299665-wubbzys-bilingual-treehouse-laptop.json) |
+| Wuchang: Fallen Feathers - Night & White Cosmetics and Weapon Pack | 426776 | [426776-wuchang-fallen-feathers-night-and-white-cosmetics-and-weapon-pack.json](./426776-wuchang-fallen-feathers-night-and-white-cosmetics-and-weapon-pack.json) |
 | Wudao | 284604 | [284604-wudao.json](./284604-wudao.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
 | Wúgòu zhī Liàn: Zhànfàng Yú Chūn zhī Huāhǎi | 403636 | [403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json](./403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json) |
