@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Pilot | 160254 | [160254-vacuum-pilot.json](./160254-vacuum-pilot.json) |
 | Vacuum Pilot 2 | 420557 | [420557-vacuum-pilot-2.json](./420557-vacuum-pilot-2.json) |
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
+| Vacuum Uprising | 420168 | [420168-vacuum-uprising.json](./420168-vacuum-uprising.json) |
 | Vacuum Warrior | 238829 | [238829-vacuum-warrior.json](./238829-vacuum-warrior.json) |
 | Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
 | VAD | 100453 | [100453-vad.json](./100453-vad.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
 | Villain Boys: Date the Dark Side | 418321 | [418321-villain-boys-date-the-dark-side.json](./418321-villain-boys-date-the-dark-side.json) |
+| Villain Girls: Date the Dark Side | 420730 | [420730-villain-girls-date-the-dark-side.json](./420730-villain-girls-date-the-dark-side.json) |
 | Villain Master: Dead or Alive | 197356 | [197356-villain-master-dead-or-alive.json](./197356-villain-master-dead-or-alive.json) |
 | Villain Project | 225638 | [225638-villain-project.json](./225638-villain-project.json) |
 | Villain Rehabilitation | 181621 | [181621-villain-rehabilitation.json](./181621-villain-rehabilitation.json) |
