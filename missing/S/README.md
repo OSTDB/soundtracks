@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
 | Saint Slaughter X Days | 103602 | [103602-saint-slaughter-x-days.json](./103602-saint-slaughter-x-days.json) |
+| Saint Slayer: Spear of Sacrilege | 376985 | [376985-saint-slayer-spear-of-sacrilege.json](./376985-saint-slayer-spear-of-sacrilege.json) |
 | Saint Spell's Love Guide to the Magical Student's Spellbook | 191603 | [191603-saint-spells-love-guide-to-the-magical-students-spellbook.json](./191603-saint-spells-love-guide-to-the-magical-students-spellbook.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
 | Saint Warner's Angels | 239768 | [239768-saint-warners-angels.json](./239768-saint-warners-angels.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai | 377325 | [377325-samurai.json](./377325-samurai.json) |
 | Samurai | 94847 | [94847-samurai.json](./94847-samurai.json) |
 | Samurai & Dragons | 64544 | [64544-samurai-and-dragons.json](./64544-samurai-and-dragons.json) |
+| Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 210802 | [210802-samurai-aces.json](./210802-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
 | Samurai Aces III: Sengoku Cannon for Nintendo Switch | 212633 | [212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json](./212633-samurai-aces-iii-sengoku-cannon-for-nintendo-switch.json) |
@@ -28375,6 +28377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battlefront - Elite Squadron | 476 | [476-star-wars-battlefront-elite-squadron.json](./476-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Battlefront - Renegade Squadron | 23063 | [23063-star-wars-battlefront-renegade-squadron.json](./23063-star-wars-battlefront-renegade-squadron.json) |
 | Star Wars: Battlefront III | 76722 | [76722-star-wars-battlefront-iii.json](./76722-star-wars-battlefront-iii.json) |
+| Star Wars: Beyond Victory | 372103 | [372103-star-wars-beyond-victory.json](./372103-star-wars-beyond-victory.json) |
 | Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Bounty Hunter | 4180 | [4180-star-wars-bounty-hunter.json](./4180-star-wars-bounty-hunter.json) |
@@ -41516,6 +41519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Jamie Berry - "Lost In The Rhythm" | 356360 | [356360-synth-riders-jamie-berry-lost-in-the-rhythm.json](./356360-synth-riders-jamie-berry-lost-in-the-rhythm.json) |
 | Synth Riders: K/DA - "More" | 356355 | [356355-synth-riders-k-da-more.json](./356355-synth-riders-k-da-more.json) |
 | Synth Riders: K/DA - "Pop/Stars" | 356354 | [356354-synth-riders-k-da-pop-stars.json](./356354-synth-riders-k-da-pop-stars.json) |
+| Synth Riders: Kendrick Lamar - "Humble." + Experience | 372106 | [372106-synth-riders-kendrick-lamar-humble-experience.json](./372106-synth-riders-kendrick-lamar-humble-experience.json) |
 | Synth Riders: Lady Gaga - "Abracadabra" | 382266 | [382266-synth-riders-lady-gaga-abracadabra.json](./382266-synth-riders-lady-gaga-abracadabra.json) |
 | Synth Riders: Lady Gaga - "Applause" | 382269 | [382269-synth-riders-lady-gaga-applause.json](./382269-synth-riders-lady-gaga-applause.json) |
 | Synth Riders: Lady Gaga - "Bad Romance" | 382265 | [382265-synth-riders-lady-gaga-bad-romance.json](./382265-synth-riders-lady-gaga-bad-romance.json) |
