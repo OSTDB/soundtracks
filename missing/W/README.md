@@ -2302,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Abyss - Nobunaga's Ambition Yukimura Sanada Costume Set | 379112 | [379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json](./379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json) |
 | Warriors: Abyss - Samurai Warriors Classic Costume Set | 379111 | [379111-warriors-abyss-samurai-warriors-classic-costume-set.json](./379111-warriors-abyss-samurai-warriors-classic-costume-set.json) |
 | Warriors: Abyss - Samurai Warriors Western Japan Classic Costume Set | 379110 | [379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json](./379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json) |
+| Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Warriors: Rise to Glory! | 82148 | [82148-warriors-rise-to-glory.json](./82148-warriors-rise-to-glory.json) |
 | Warriors' Market Mayhem VIP | 102532 | [102532-warriors-market-mayhem-vip.json](./102532-warriors-market-mayhem-vip.json) |
 | Warriors' Wrath | 32743 | [32743-warriors-wrath.json](./32743-warriors-wrath.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
+| WarTech: Senko no Ronde | 7245 | [7245-wartech-senko-no-ronde.json](./7245-wartech-senko-no-ronde.json) |
 | Wartheon | 367722 | [367722-wartheon.json](./367722-wartheon.json) |
 | Warthog Launch | 165168 | [165168-warthog-launch.json](./165168-warthog-launch.json) |
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
@@ -8120,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfie's Break Out | 161535 | [161535-wolfies-break-out.json](./161535-wolfies-break-out.json) |
 | Wolfight: Duel for the Win | 424178 | [424178-wolfight-duel-for-the-win.json](./424178-wolfight-duel-for-the-win.json) |
 | WolfKnights | 59930 | [59930-wolfknights.json](./59930-wolfknights.json) |
+| Wolflame | 19305 | [19305-wolflame.json](./19305-wolflame.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
 | Wolfman | 320547 | [320547-wolfman.json](./320547-wolfman.json) |
@@ -8435,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
 | Wooden Battles: Spec Ops | 247816 | [247816-wooden-battles-spec-ops.json](./247816-wooden-battles-spec-ops.json) |
 | Wooden Block Puzzle Games | 98899 | [98899-wooden-block-puzzle-games.json](./98899-wooden-block-puzzle-games.json) |
+| Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
 | Wooden Floor 2 - Resurrection | 33769 | [33769-wooden-floor-2-resurrection.json](./33769-wooden-floor-2-resurrection.json) |
 | Wooden Hearts | 134999 | [134999-wooden-hearts.json](./134999-wooden-hearts.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
@@ -9275,6 +9279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Games | 304984 | [304984-world-games.json](./304984-world-games.json) |
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
+| World Gone Sour | 6759 | [6759-world-gone-sour.json](./6759-world-gone-sour.json) |
 | World Grand Prix | 29132 | [29132-world-grand-prix.json](./29132-world-grand-prix.json) |
 | World Grand Prix 2 | 40572 | [40572-world-grand-prix-2.json](./40572-world-grand-prix-2.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
@@ -9732,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Slayer | 28490 | [28490-world-slayer.json](./28490-world-slayer.json) |
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2005 | 22292 | [22292-world-snooker-championship-2005.json](./22292-world-snooker-championship-2005.json) |
+| World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
 | World Snooker Championship Real 2011 | 78207 | [78207-world-snooker-championship-real-2011.json](./78207-world-snooker-championship-real-2011.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
