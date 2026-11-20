@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master 3 | 358906 | [358906-jewel-master-3.json](./358906-jewel-master-3.json) |
 | Jewel Master Atlantis 3D | 85205 | [85205-jewel-master-atlantis-3d.json](./85205-jewel-master-atlantis-3d.json) |
 | Jewel Master Double Pack | 145392 | [145392-jewel-master-double-pack.json](./145392-jewel-master-double-pack.json) |
+| Jewel Master: Cradle of Athena | 24365 | [24365-jewel-master-cradle-of-athena.json](./24365-jewel-master-cradle-of-athena.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
 | Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
