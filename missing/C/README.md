@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canvas of a Rainy Day | 187582 | [187582-canvas-of-a-rainy-day.json](./187582-canvas-of-a-rainy-day.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
 | Canvas of Thoughts | 399590 | [399590-canvas-of-thoughts.json](./399590-canvas-of-thoughts.json) |
+| Canvas Puzzle | 420713 | [420713-canvas-puzzle.json](./420713-canvas-puzzle.json) |
 | Canvas Quest | 44290 | [44290-canvas-quest.json](./44290-canvas-quest.json) |
 | Canvas Street | 347904 | [347904-canvas-street.json](./347904-canvas-street.json) |
 | Canvas the Gallery | 29515 | [29515-canvas-the-gallery.json](./29515-canvas-the-gallery.json) |
@@ -2420,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capyverse Odyssey | 379607 | [379607-capyverse-odyssey.json](./379607-capyverse-odyssey.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car & Driver Presents: Grand Tour Racing '98 | 45025 | [45025-car-and-driver-presents-grand-tour-racing-98.json](./45025-car-and-driver-presents-grand-tour-racing-98.json) |
+| Car & Moto Simulator Bundle: Racing & Driving | 420700 | [420700-car-and-moto-simulator-bundle-racing-and-driving.json](./420700-car-and-moto-simulator-bundle-racing-and-driving.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Battler Joe | 6344 | [6344-car-battler-joe.json](./6344-car-battler-joe.json) |
 | Car Boosting | 25407 | [25407-car-boosting.json](./25407-car-boosting.json) |
@@ -4755,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Meme Clicker | 391214 | [391214-cat-meme-clicker.json](./391214-cat-meme-clicker.json) |
 | Cat Memories - Find the Hidden Stories | 305973 | [305973-cat-memories-find-the-hidden-stories.json](./305973-cat-memories-find-the-hidden-stories.json) |
 | Cat Meoir: Feline Detective | 298416 | [298416-cat-meoir-feline-detective.json](./298416-cat-meoir-feline-detective.json) |
+| Cat Meow-tilation | 420731 | [420731-cat-meow-tilation.json](./420731-cat-meow-tilation.json) |
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
 | Cat Milk | 163171 | [163171-cat-milk.json](./163171-cat-milk.json) |
@@ -9173,6 +9176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Rescue | 84400 | [84400-chopper-rescue.json](./84400-chopper-rescue.json) |
 | Chopper Squad | 13490 | [13490-chopper-squad.json](./13490-chopper-squad.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
+| Chopper Strike 2 | 420712 | [420712-chopper-strike-2.json](./420712-chopper-strike-2.json) |
 | Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
 | Chopper: Attack helicopters | 56645 | [56645-chopper-attack-helicopters.json](./56645-chopper-attack-helicopters.json) |
@@ -18404,6 +18408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Stitch Puzzle | 342365 | [342365-cozy-stitch-puzzle.json](./342365-cozy-stitch-puzzle.json) |
 | Cozy Sudoku | 339331 | [339331-cozy-sudoku.json](./339331-cozy-sudoku.json) |
 | Cozy Tales | 426519 | [426519-cozy-tales.json](./426519-cozy-tales.json) |
+| Cozy Tea House | 420716 | [420716-cozy-tea-house.json](./420716-cozy-tea-house.json) |
 | Cozy Tide | 406852 | [406852-cozy-tide.json](./406852-cozy-tide.json) |
 | Cozy Tides | 342366 | [342366-cozy-tides.json](./342366-cozy-tides.json) |
 | Cozy Time | 207424 | [207424-cozy-time.json](./207424-cozy-time.json) |
