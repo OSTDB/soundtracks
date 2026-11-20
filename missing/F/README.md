@@ -3725,7 +3725,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate's Theater | 292214 | [292214-fates-theater.json](./292214-fates-theater.json) |
 | Fate's Ultimatum for Destiny | 364854 | [364854-fates-ultimatum-for-destiny.json](./364854-fates-ultimatum-for-destiny.json) |
 | Fate/Empire of Dirt | 232783 | [232783-fate-empire-of-dirt.json](./232783-fate-empire-of-dirt.json) |
+| Fate/Empire of Dirt Complete | 424156 | [424156-fate-empire-of-dirt-complete.json](./424156-fate-empire-of-dirt-complete.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
+| Fate/Empire of Dirt: Stella Splendens | 424155 | [424155-fate-empire-of-dirt-stella-splendens.json](./424155-fate-empire-of-dirt-stella-splendens.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
 | Fate/Extella Link: Emperor of Paladins Edition | 112109 | [112109-fate-extella-link-emperor-of-paladins-edition.json](./112109-fate-extella-link-emperor-of-paladins-edition.json) |
@@ -4801,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fi-Knight Kingdom | 262450 | [262450-fi-knight-kingdom.json](./262450-fi-knight-kingdom.json) |
 | Fi, Chris and the Apocalypse | 199821 | [199821-fi-chris-and-the-apocalypse.json](./199821-fi-chris-and-the-apocalypse.json) |
 | FIA European Truck Racing Championship | 117855 | [117855-fia-european-truck-racing-championship.json](./117855-fia-european-truck-racing-championship.json) |
+| Fiak | 424340 | [424340-fiak.json](./424340-fiak.json) |
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fiasco Restoration and Repair | 193096 | [193096-fiasco-restoration-and-repair.json](./193096-fiasco-restoration-and-repair.json) |
 | Fibbage | 7782 | [7782-fibbage.json](./7782-fibbage.json) |
@@ -8865,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleuch 2.0 | 94460 | [94460-fleuch-2-0.json](./94460-fleuch-2-0.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Fleuret Blanc | 131086 | [131086-fleuret-blanc.json](./131086-fleuret-blanc.json) |
+| Fleurette | 424073 | [424073-fleurette.json](./424073-fleurette.json) |
 | Flewberry | 108747 | [108747-flewberry.json](./108747-flewberry.json) |
 | Flewfies Adventure | 148814 | [148814-flewfies-adventure.json](./148814-flewfies-adventure.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
@@ -15691,6 +15695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fureraba: Friend to Lover - Mini Fandisk | 77936 | [77936-fureraba-friend-to-lover-mini-fandisk.json](./77936-fureraba-friend-to-lover-mini-fandisk.json) |
 | Furfly | 33858 | [33858-furfly.json](./33858-furfly.json) |
 | Furgal's Jetpack | 161424 | [161424-furgals-jetpack.json](./161424-furgals-jetpack.json) |
+| FurHouse | 424065 | [424065-furhouse.json](./424065-furhouse.json) |
 | Furi Demake: The Chain | 278637 | [278637-furi-demake-the-chain.json](./278637-furi-demake-the-chain.json) |
 | Furi: Modore Edition | 201943 | [201943-furi-modore-edition.json](./201943-furi-modore-edition.json) |
 | Furi: One More Fight | 53090 | [53090-furi-one-more-fight.json](./53090-furi-one-more-fight.json) |
