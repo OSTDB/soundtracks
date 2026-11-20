@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
+| NDHA: Non Dominant Hand Adventures | 421941 | [421941-ndha-non-dominant-hand-adventures.json](./421941-ndha-non-dominant-hand-adventures.json) |
 | NDR Racing | 60862 | [60862-ndr-racing.json](./60862-ndr-racing.json) |
 | Ne no Kami - The Two Princess Knights of Kyoto Part 2 | 59240 | [59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json](./59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json) |
 | Ne no Kami: The Two Princess Knights of Kyoto - Extra Story | 155241 | [155241-ne-no-kami-the-two-princess-knights-of-kyoto-extra-story.json](./155241-ne-no-kami-the-two-princess-knights-of-kyoto-extra-story.json) |
@@ -2791,6 +2792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Hockey | 63176 | [63176-neon-hockey.json](./63176-neon-hockey.json) |
 | Neon Horizon: Eclipse | 193515 | [193515-neon-horizon-eclipse.json](./193515-neon-horizon-eclipse.json) |
 | Neon Howl | 415717 | [415717-neon-howl.json](./415717-neon-howl.json) |
+| Neon Hustle | 421910 | [421910-neon-hustle.json](./421910-neon-hustle.json) |
 | Neon Hyperdrive | 356008 | [356008-neon-hyperdrive.json](./356008-neon-hyperdrive.json) |
 | Neon Idle | 367299 | [367299-neon-idle.json](./367299-neon-idle.json) |
 | Neon Impact | 233464 | [233464-neon-impact.json](./233464-neon-impact.json) |
