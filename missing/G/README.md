@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoExpert - World | 100616 | [100616-geoexpert-world.json](./100616-geoexpert-world.json) |
 | Geoff Capes Strongman | 79164 | [79164-geoff-capes-strongman.json](./79164-geoff-capes-strongman.json) |
 | GeoFlag | 406484 | [406484-geoflag.json](./406484-geoflag.json) |
+| GeoFooty | 426173 | [426173-geofooty.json](./426173-geofooty.json) |
 | GeoFS | 142942 | [142942-geofs.json](./142942-geofs.json) |
 | GeoFunGames | 402209 | [402209-geofungames.json](./402209-geofungames.json) |
 | GeoFußball | 422707 | [422707-geofu-ball.json](./422707-geofu-ball.json) |
@@ -6665,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin and Coins | 30638 | [30638-goblin-and-coins.json](./30638-goblin-and-coins.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
+| Goblin and Glory | 426195 | [426195-goblin-and-glory.json](./426195-goblin-and-glory.json) |
 | Goblin and Recipes: Match-3 Adventure | 410428 | [410428-goblin-and-recipes-match-3-adventure.json](./410428-goblin-and-recipes-match-3-adventure.json) |
 | Goblin Assault | 333426 | [333426-goblin-assault.json](./333426-goblin-assault.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
@@ -11116,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grobda Remix | 229459 | [229459-grobda-remix.json](./229459-grobda-remix.json) |
 | Grobda Remix | 74986 | [74986-grobda-remix.json](./74986-grobda-remix.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
+| Grocer Guessr | 426170 | [426170-grocer-guessr.json](./426170-grocer-guessr.json) |
 | Groceries and JumpScares | 253730 | [253730-groceries-and-jumpscares.json](./253730-groceries-and-jumpscares.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
 | Grocery Quest mini | 178504 | [178504-grocery-quest-mini.json](./178504-grocery-quest-mini.json) |
@@ -11124,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Grocery Store Tycoon | 297116 | [297116-grocery-store-tycoon.json](./297116-grocery-store-tycoon.json) |
+| GroceryGuessr | 426171 | [426171-groceryguessr.json](./426171-groceryguessr.json) |
 | Grocket | 192741 | [192741-grocket.json](./192741-grocket.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog | 272987 | [272987-grog.json](./272987-grog.json) |
@@ -13145,6 +13149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
 | Gwent: Iron Judgment | 122661 | [122661-gwent-iron-judgment.json](./122661-gwent-iron-judgment.json) |
 | Gwent: Rogue Mage | 208307 | [208307-gwent-rogue-mage.json](./208307-gwent-rogue-mage.json) |
+| Gwiazdozbiór | 426199 | [426199-gwiazdozbior.json](./426199-gwiazdozbior.json) |
 | Gwihyang: Homecoming | 309941 | [309941-gwihyang-homecoming.json](./309941-gwihyang-homecoming.json) |
 | Gwimbly 2600 | 336477 | [336477-gwimbly-2600.json](./336477-gwimbly-2600.json) |
 | Gwiryungdan: Joseon's Twelve | 291361 | [291361-gwiryungdan-joseons-twelve.json](./291361-gwiryungdan-joseons-twelve.json) |
