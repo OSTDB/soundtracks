@@ -4693,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Kill Me. | 341133 | [341133-just-kill-me.json](./341133-just-kill-me.json) |
 | Just Kiss Her Already! | 246211 | [246211-just-kiss-her-already.json](./246211-just-kiss-her-already.json) |
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
+| Just Let Me Fix the Mecha Girls! | 426672 | [426672-just-let-me-fix-the-mecha-girls.json](./426672-just-let-me-fix-the-mecha-girls.json) |
 | Just Loot | 410162 | [410162-just-loot.json](./410162-just-loot.json) |
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Madness: Earth Apocalypse 1979 | 412250 | [412250-just-madness-earth-apocalypse-1979.json](./412250-just-madness-earth-apocalypse-1979.json) |
