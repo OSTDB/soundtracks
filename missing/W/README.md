@@ -5341,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Magic | 261710 | [261710-white-magic.json](./261710-white-magic.json) |
 | White Magic 2 | 429555 | [429555-white-magic-2.json](./429555-white-magic-2.json) |
 | White Mask | 136487 | [136487-white-mask.json](./136487-white-mask.json) |
+| White Mask Mansion | 423555 | [423555-white-mask-mansion.json](./423555-white-mask-mansion.json) |
 | White Memories | 383101 | [383101-white-memories.json](./383101-white-memories.json) |
 | White Men Can't Jump | 40821 | [40821-white-men-cant-jump.json](./40821-white-men-cant-jump.json) |
 | White Middle Class Guy Simulator | 261976 | [261976-white-middle-class-guy-simulator.json](./261976-white-middle-class-guy-simulator.json) |
