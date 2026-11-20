@@ -7111,6 +7111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
+| Severed Chains | 424076 | [424076-severed-chains.json](./424076-severed-chains.json) |
 | Severed Lands | 240415 | [240415-severed-lands.json](./240415-severed-lands.json) |
 | Severed Love | 342754 | [342754-severed-love.json](./342754-severed-love.json) |
 | Severed Souls | 396675 | [396675-severed-souls.json](./396675-severed-souls.json) |
@@ -15281,6 +15282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavic Winter Simulator | 326345 | [326345-slavic-winter-simulator.json](./326345-slavic-winter-simulator.json) |
 | Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
+| Slavlands: Tribes at War | 424333 | [424333-slavlands-tribes-at-war.json](./424333-slavlands-tribes-at-war.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
 | Slay | 23183 | [23183-slay.json](./23183-slay.json) |
@@ -19660,6 +19662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
 | Son and Bone | 308223 | [308223-son-and-bone.json](./308223-son-and-bone.json) |
+| Son Durak | 424323 | [424323-son-durak.json](./424323-son-durak.json) |
 | Son Korsan | 40475 | [40475-son-korsan.json](./40475-son-korsan.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
@@ -21466,6 +21469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Land: Awakening World | 418059 | [418059-soul-land-awakening-world.json](./418059-soul-land-awakening-world.json) |
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
+| Soul Land: New World | 424319 | [424319-soul-land-new-world.json](./424319-soul-land-new-world.json) |
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Launcher!: Tower Defense | 247238 | [247238-soul-launcher-tower-defense.json](./247238-soul-launcher-tower-defense.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
@@ -25830,6 +25834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
+| Sploodie | 424337 | [424337-sploodie.json](./424337-sploodie.json) |
 | Sploot | 11825 | [11825-sploot.json](./11825-sploot.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
@@ -27476,6 +27481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standard Dev1ations GGB: Grim Gauntlet Beneath | 335595 | [335595-standard-dev1ations-ggb-grim-gauntlet-beneath.json](./335595-standard-dev1ations-ggb-grim-gauntlet-beneath.json) |
 | Standard Human Pizza | 398769 | [398769-standard-human-pizza.json](./398769-standard-human-pizza.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
+| Standard Procedures | 424329 | [424329-standard-procedures.json](./424329-standard-procedures.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
 | Standball | 367154 | [367154-standball.json](./367154-standball.json) |
 | Standbox | 317134 | [317134-standbox.json](./317134-standbox.json) |
@@ -29712,6 +29718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statik | 169678 | [169678-statik.json](./169678-statik.json) |
 | Statik | 26683 | [26683-statik.json](./26683-statik.json) |
 | Station 117 | 224644 | [224644-station-117.json](./224644-station-117.json) |
+| Station 12 | 424325 | [424325-station-12.json](./424325-station-12.json) |
 | Station 13 | 252003 | [252003-station-13.json](./252003-station-13.json) |
 | Station 141 | 408364 | [408364-station-141.json](./408364-station-141.json) |
 | Station 17 | 165629 | [165629-station-17.json](./165629-station-17.json) |
