@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rampage | 101996 | [101996-dead-rampage.json](./101996-dead-rampage.json) |
 | Dead Realm | 11596 | [11596-dead-realm.json](./11596-dead-realm.json) |
 | Dead Reckoner | 406220 | [406220-dead-reckoner.json](./406220-dead-reckoner.json) |
+| Dead Reckoning | 423189 | [423189-dead-reckoning.json](./423189-dead-reckoning.json) |
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
 | Dead Reckoning: Brassfield Manor - Collector's Edition | 55782 | [55782-dead-reckoning-brassfield-manor-collectors-edition.json](./55782-dead-reckoning-brassfield-manor-collectors-edition.json) |
@@ -8607,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
+| Despiry | 423129 | [423129-despiry.json](./423129-despiry.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
 | Despondent | 311899 | [311899-despondent.json](./311899-despondent.json) |
 | Desposis | 289821 | [289821-desposis.json](./289821-desposis.json) |
@@ -20631,6 +20633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
 | Dummy Pirates: Ocean Tales | 236078 | [236078-dummy-pirates-ocean-tales.json](./236078-dummy-pirates-ocean-tales.json) |
 | Dummy Test | 100911 | [100911-dummy-test.json](./100911-dummy-test.json) |
+| Dummy Works | 423186 | [423186-dummy-works.json](./423186-dummy-works.json) |
 | Dummy! | 113339 | [113339-dummy.json](./113339-dummy.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
