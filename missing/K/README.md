@@ -6150,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konrad's Kittens | 31830 | [31830-konrads-kittens.json](./31830-konrads-kittens.json) |
 | Konran;Zanki | 353452 | [353452-konran-zanki.json](./353452-konran-zanki.json) |
 | Konsairi | 158337 | [158337-konsairi.json](./158337-konsairi.json) |
+| Konshin Saiban | 423726 | [423726-konshin-saiban.json](./423726-konshin-saiban.json) |
 | Konsui Fighter | 105555 | [105555-konsui-fighter.json](./105555-konsui-fighter.json) |
 | Kontra | 238396 | [238396-kontra.json](./238396-kontra.json) |
 | Kontrakt | 107464 | [107464-kontrakt.json](./107464-kontrakt.json) |
