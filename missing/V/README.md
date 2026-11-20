@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Anthology vol. 5: Crazy Climber/Crazy Climber 2 | 61832 | [61832-video-game-anthology-vol-5-crazy-climber-crazy-climber-2.json](./61832-video-game-anthology-vol-5-crazy-climber-crazy-climber-2.json) |
 | Video Game Anthology vol. 8: Shusse Ozumo/Exciting Hour | 58552 | [58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json](./58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json) |
 | Video Game Bandle | 360891 | [360891-video-game-bandle.json](./360891-video-game-bandle.json) |
+| Video Game Fables | 156920 | [156920-video-game-fables.json](./156920-video-game-fables.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
