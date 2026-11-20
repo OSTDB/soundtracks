@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
+| Academagia: The Making of Mages | 31060 | [31060-academagia-the-making-of-mages.json](./31060-academagia-the-making-of-mages.json) |
 | Academia do Saber | 230672 | [230672-academia-do-saber.json](./230672-academia-do-saber.json) |
 | Academia Ovivim | 332287 | [332287-academia-ovivim.json](./332287-academia-ovivim.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
@@ -15476,6 +15477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archie's Riverdale Run | 64510 | [64510-archies-riverdale-run.json](./64510-archies-riverdale-run.json) |
 | ArchiHexago | 247806 | [247806-archihexago.json](./247806-archihexago.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
+| Archimedes | 31228 | [31228-archimedes.json](./31228-archimedes.json) |
 | Archimedes II: Some Like It Hot | 409601 | [409601-archimedes-ii-some-like-it-hot.json](./409601-archimedes-ii-some-like-it-hot.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
@@ -18062,6 +18064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Utopia | 61278 | [61278-assassins-creed-utopia.json](./61278-assassins-creed-utopia.json) |
 | Assassin's Shadows | 331306 | [331306-assassins-shadows.json](./331306-assassins-shadows.json) |
 | Assassin's Vol. | 219199 | [219199-assassins-vol.json](./219199-assassins-vol.json) |
+| Assassination Box | 30636 | [30636-assassination-box.json](./30636-assassination-box.json) |
 | Assassination Classroom VR Balloon Challenge Time | 44611 | [44611-assassination-classroom-vr-balloon-challenge-time.json](./44611-assassination-classroom-vr-balloon-challenge-time.json) |
 | Assassination Classroom: Koro-Sensei's Great Besiegement!! | 64206 | [64206-assassination-classroom-koro-senseis-great-besiegement.json](./64206-assassination-classroom-koro-senseis-great-besiegement.json) |
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
@@ -19773,6 +19776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atonement | 260992 | [260992-atonement.json](./260992-atonement.json) |
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
+| Atonement 2: Ruptured by Despair | 31088 | [31088-atonement-2-ruptured-by-despair.json](./31088-atonement-2-ruptured-by-despair.json) |
 | Atonement: Scourge of Time | 9989 | [9989-atonement-scourge-of-time.json](./9989-atonement-scourge-of-time.json) |
 | Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
 | Atonia: Netorare Annals | 332612 | [332612-atonia-netorare-annals.json](./332612-atonia-netorare-annals.json) |
