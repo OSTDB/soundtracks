@@ -240,7 +240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack The Miner | 110010 | [110010-jack-the-miner.json](./110010-jack-the-miner.json) |
 | Jack the Nipper | 28482 | [28482-jack-the-nipper.json](./28482-jack-the-nipper.json) |
 | Jack the Nipper II: In Coconut Capers | 40944 | [40944-jack-the-nipper-ii-in-coconut-capers.json](./40944-jack-the-nipper-ii-in-coconut-capers.json) |
-| Jack the Ripper | 14134 | [14134-jack-the-ripper.json](./14134-jack-the-ripper.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack the Ripper - Letters from Hell | 122098 | [122098-jack-the-ripper-letters-from-hell.json](./122098-jack-the-ripper-letters-from-hell.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
