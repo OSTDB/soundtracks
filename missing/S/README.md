@@ -3365,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scent of Ashes | 401712 | [401712-scent-of-ashes.json](./401712-scent-of-ashes.json) |
 | Scent of Greed | 273433 | [273433-scent-of-greed.json](./273433-scent-of-greed.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
+| Scentkeeper: Tidy Up the Perfume Archive! | 424893 | [424893-scentkeeper-tidy-up-the-perfume-archive.json](./424893-scentkeeper-tidy-up-the-perfume-archive.json) |
 | Scents & Semiosis | 177432 | [177432-scents-and-semiosis.json](./177432-scents-and-semiosis.json) |
 | Scepter of Kzirgla | 356688 | [356688-scepter-of-kzirgla.json](./356688-scepter-of-kzirgla.json) |
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
@@ -8186,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Damned | 5971 | [5971-shadows-of-the-damned.json](./5971-shadows-of-the-damned.json) |
 | Shadows of the Damned: Hella Remastered | 252501 | [252501-shadows-of-the-damned-hella-remastered.json](./252501-shadows-of-the-damned-hella-remastered.json) |
 | Shadows of the Deepforge | 362724 | [362724-shadows-of-the-deepforge.json](./362724-shadows-of-the-deepforge.json) |
+| Shadows of the Dungeon | 424518 | [424518-shadows-of-the-dungeon.json](./424518-shadows-of-the-dungeon.json) |
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of The Nightmare Realm | 256915 | [256915-shadows-of-the-nightmare-realm.json](./256915-shadows-of-the-nightmare-realm.json) |
 | Shadows of the Past | 265605 | [265605-shadows-of-the-past.json](./265605-shadows-of-the-past.json) |
@@ -8677,6 +8679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardpunk: Deluxe Edition | 246038 | [246038-shardpunk-deluxe-edition.json](./246038-shardpunk-deluxe-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards | 225429 | [225429-shards.json](./225429-shards.json) |
+| Shards | 424521 | [424521-shards.json](./424521-shards.json) |
 | Shards Between Us | 292213 | [292213-shards-between-us.json](./292213-shards-between-us.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
 | Shards of Chaos | 187729 | [187729-shards-of-chaos.json](./187729-shards-of-chaos.json) |
@@ -9400,6 +9403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shibadungeon | 187692 | [187692-shibadungeon.json](./187692-shibadungeon.json) |
 | Shibai Michi | 337895 | [337895-shibai-michi.json](./337895-shibai-michi.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
+| ShibaWarriors | 424758 | [424758-shibawarriors.json](./424758-shibawarriors.json) |
 | Shibogami | 412894 | [412894-shibogami.json](./412894-shibogami.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
 | Shibuya | 66414 | [66414-shibuya.json](./66414-shibuya.json) |
@@ -18203,6 +18207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | Snug Finder: Complete Edition | 220437 | [220437-snug-finder-complete-edition.json](./220437-snug-finder-complete-edition.json) |
 | Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
+| Snugfang | 424516 | [424516-snugfang.json](./424516-snugfang.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
 | Snugglebat | 131794 | [131794-snugglebat.json](./131794-snugglebat.json) |
@@ -23990,6 +23995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Counter Force Attack | 111610 | [111610-special-counter-force-attack.json](./111610-special-counter-force-attack.json) |
 | Special Courier | 238457 | [238457-special-courier.json](./238457-special-courier.json) |
 | Special Delivery | 30364 | [30364-special-delivery.json](./30364-special-delivery.json) |
+| Special Delivery | 424889 | [424889-special-delivery.json](./424889-special-delivery.json) |
 | Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Edition Pinball Dreams Pinball Fantasies | 74032 | [74032-special-edition-pinball-dreams-pinball-fantasies.json](./74032-special-edition-pinball-dreams-pinball-fantasies.json) |
@@ -39583,6 +39589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Together | 126438 | [126438-survive-together.json](./126438-survive-together.json) |
 | Survive Undead Rush | 322534 | [322534-survive-undead-rush.json](./322534-survive-undead-rush.json) |
 | Survive Zombies.exe | 111987 | [111987-survive-zombies-exe.json](./111987-survive-zombies-exe.json) |
+| Survive, Resist, Collaborate | 424753 | [424753-survive-resist-collaborate.json](./424753-survive-resist-collaborate.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
 | Survive: Frost Bite | 325710 | [325710-survive-frost-bite.json](./325710-survive-frost-bite.json) |
