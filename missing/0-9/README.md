@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Disney Games: Disney Sports Skateboarding + Disney Sports Football | 147310 | [147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json](./147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json) |
 | 2 Disney Games: Phineas and Ferb + Phineas and Ferb Ride Again | 416337 | [416337-2-disney-games-phineas-and-ferb-phineas-and-ferb-ride-again.json](./416337-2-disney-games-phineas-and-ferb-phineas-and-ferb-ride-again.json) |
+| 2 Étoiles sont nées | 413264 | [413264-2-etoiles-sont-nees.json](./413264-2-etoiles-sont-nees.json) |
 | 2 Expensive 2 Break | 95023 | [95023-2-expensive-2-break.json](./95023-2-expensive-2-break.json) |
 | 2 Fast 2 Furious | 222122 | [222122-2-fast-2-furious.json](./222122-2-fast-2-furious.json) |
 | 2 Fast 2 Furious | 301502 | [301502-2-fast-2-furious.json](./301502-2-fast-2-furious.json) |
