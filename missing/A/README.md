@@ -12677,6 +12677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly: Warzone Earth | 8758 | [8758-anomaly-warzone-earth.json](./8758-anomaly-warzone-earth.json) |
 | Anomaly: Warzone Earth - Mobile Campaign | 8759 | [8759-anomaly-warzone-earth-mobile-campaign.json](./8759-anomaly-warzone-earth-mobile-campaign.json) |
 | Anomalytics: From the Files of the Arcane Statistics Authority | 293094 | [293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json](./293094-anomalytics-from-the-files-of-the-arcane-statistics-authority.json) |
+| Anomia: Listening Post K-7 | 428539 | [428539-anomia-listening-post-k-7.json](./428539-anomia-listening-post-k-7.json) |
 | Anomiac. | 229553 | [229553-anomiac.json](./229553-anomiac.json) |
 | Anomie | 55548 | [55548-anomie.json](./55548-anomie.json) |
 | Anominal | 283913 | [283913-anominal.json](./283913-anominal.json) |
@@ -16421,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
 | Armed Seven | 35769 | [35769-armed-seven.json](./35769-armed-seven.json) |
+| Armed Snake | 428559 | [428559-armed-snake.json](./428559-armed-snake.json) |
 | Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
@@ -17856,6 +17858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider | 384680 | [384680-assassin-of-spider.json](./384680-assassin-of-spider.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
+| Assassin of Werewolf | 428555 | [428555-assassin-of-werewolf.json](./428555-assassin-of-werewolf.json) |
 | Assassin Run 2D | 164755 | [164755-assassin-run-2d.json](./164755-assassin-run-2d.json) |
 | Assassin Story | 345076 | [345076-assassin-story.json](./345076-assassin-story.json) |
 | Assassin vs. Mummies: Match 3 | 101047 | [101047-assassin-vs-mummies-match-3.json](./101047-assassin-vs-mummies-match-3.json) |
