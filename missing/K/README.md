@@ -2573,6 +2573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
 | Kid Kool and the Quest for the Seven Wonder Herbs | 48150 | [48150-kid-kool-and-the-quest-for-the-seven-wonder-herbs.json](./48150-kid-kool-and-the-quest-for-the-seven-wonder-herbs.json) |
 | Kid Meat | 152806 | [152806-kid-meat.json](./152806-kid-meat.json) |
+| KID Mix Section: Character Collection | 419528 | [419528-kid-mix-section-character-collection.json](./419528-kid-mix-section-character-collection.json) |
 | Kid Monkey: Banana Frenzy | 234549 | [234549-kid-monkey-banana-frenzy.json](./234549-kid-monkey-banana-frenzy.json) |
 | Kid Mystic: Enchanted Edition | 378206 | [378206-kid-mystic-enchanted-edition.json](./378206-kid-mystic-enchanted-edition.json) |
 | Kid Niki: Radical Ninja | 39465 | [39465-kid-niki-radical-ninja.json](./39465-kid-niki-radical-ninja.json) |
