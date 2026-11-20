@@ -27473,6 +27473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan's Tower | 119238 | [119238-titans-tower.json](./119238-titans-tower.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanclimb | 386089 | [386089-titanclimb.json](./386089-titanclimb.json) |
+| Titanfall 2 VR | 421892 | [421892-titanfall-2-vr.json](./421892-titanfall-2-vr.json) |
 | Titanfall 2: Angel City's Most Wanted Bundle | 170861 | [170861-titanfall-2-angel-citys-most-wanted-bundle.json](./170861-titanfall-2-angel-citys-most-wanted-bundle.json) |
 | Titanfall 2: Deluxe Edition | 53805 | [53805-titanfall-2-deluxe-edition.json](./53805-titanfall-2-deluxe-edition.json) |
 | Titanfall 2: Monarch's Reign | 36700 | [36700-titanfall-2-monarchs-reign.json](./36700-titanfall-2-monarchs-reign.json) |
@@ -37590,6 +37591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkey, Please! | 130582 | [130582-turkey-please.json](./130582-turkey-please.json) |
 | Turkish Coffee Daily | 359628 | [359628-turkish-coffee-daily.json](./359628-turkish-coffee-daily.json) |
+| Turkish Hairlines | 421973 | [421973-turkish-hairlines.json](./421973-turkish-hairlines.json) |
 | Turkish Throne | 288558 | [288558-turkish-throne.json](./288558-turkish-throne.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
