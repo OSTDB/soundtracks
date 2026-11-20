@@ -5914,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Boar Survival | 334373 | [334373-wild-boar-survival.json](./334373-wild-boar-survival.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
+| Wild Buster | 55583 | [55583-wild-buster.json](./55583-wild-buster.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
 | Wild Card Football | 260011 | [260011-wild-card-football.json](./260011-wild-card-football.json) |
@@ -8442,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodcutter Simulator 2013 | 16900 | [16900-woodcutter-simulator-2013.json](./16900-woodcutter-simulator-2013.json) |
 | Woodcutter Simulator 2013: Gold Edition | 25212 | [25212-woodcutter-simulator-2013-gold-edition.json](./25212-woodcutter-simulator-2013-gold-edition.json) |
 | Woodcutter Survival | 123316 | [123316-woodcutter-survival.json](./123316-woodcutter-survival.json) |
+| Wooden Battles | 55717 | [55717-wooden-battles.json](./55717-wooden-battles.json) |
 | Wooden Battles: Spec Ops | 247816 | [247816-wooden-battles-spec-ops.json](./247816-wooden-battles-spec-ops.json) |
 | Wooden Block Puzzle Games | 98899 | [98899-wooden-block-puzzle-games.json](./98899-wooden-block-puzzle-games.json) |
 | Wooden Floor | 24613 | [24613-wooden-floor.json](./24613-wooden-floor.json) |
@@ -10590,6 +10592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WrongKynd | 232223 | [232223-wrongkynd.json](./232223-wrongkynd.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
+| Wrongworld | 55579 | [55579-wrongworld.json](./55579-wrongworld.json) |
 | Wroom Classic | 421437 | [421437-wroom-classic.json](./421437-wroom-classic.json) |
 | Wroom Wroom Bundle! | 96357 | [96357-wroom-wroom-bundle.json](./96357-wroom-wroom-bundle.json) |
 | Wroom Wroom Puzzles | 261343 | [261343-wroom-wroom-puzzles.json](./261343-wroom-wroom-puzzles.json) |
