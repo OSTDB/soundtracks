@@ -12288,7 +12288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hilltop Funeral | 349005 | [349005-the-hilltop-funeral.json](./349005-the-hilltop-funeral.json) |
 | The Hilltop Mansion | 149878 | [149878-the-hilltop-mansion.json](./149878-the-hilltop-mansion.json) |
 | The HinterLands | 33427 | [33427-the-hinterlands.json](./33427-the-hinterlands.json) |
-| The Hip Hop Dance Experience | 15561 | [15561-the-hip-hop-dance-experience.json](./15561-the-hip-hop-dance-experience.json) |
 | The Hippo G | 213088 | [213088-the-hippo-g.json](./213088-the-hippo-g.json) |
 | The History Channel: Alamo - Fight for Independence | 69651 | [69651-the-history-channel-alamo-fight-for-independence.json](./69651-the-history-channel-alamo-fight-for-independence.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
@@ -13317,7 +13316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The Kindling | 374032 | [374032-the-kindling.json](./374032-the-kindling.json) |
-| The Kindred | 14576 | [14576-the-kindred.json](./14576-the-kindred.json) |
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
@@ -18584,7 +18582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sentient | 34184 | [34184-the-sentient.json](./34184-the-sentient.json) |
 | The Sentient Box | 226594 | [226594-the-sentient-box.json](./226594-the-sentient-box.json) |
 | The Sentinel | 130975 | [130975-the-sentinel.json](./130975-the-sentinel.json) |
-| The Sentinel | 15363 | [15363-the-sentinel.json](./15363-the-sentinel.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
@@ -21936,7 +21933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard's Castle | 25127 | [25127-the-wizards-castle.json](./25127-the-wizards-castle.json) |
 | The Wizard's Dolly Break | 385941 | [385941-the-wizards-dolly-break.json](./385941-the-wizards-dolly-break.json) |
 | The Wizard's Lair | 31949 | [31949-the-wizards-lair.json](./31949-the-wizards-lair.json) |
-| The Wizard's Pen | 14877 | [14877-the-wizards-pen.json](./14877-the-wizards-pen.json) |
 | The Wizard's Tower | 113716 | [113716-the-wizards-tower.json](./113716-the-wizards-tower.json) |
 | The Wizards | 29578 | [29578-the-wizards.json](./29578-the-wizards.json) |
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
