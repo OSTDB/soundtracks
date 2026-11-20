@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
 | Necro Blade | 341361 | [341361-necro-blade.json](./341361-necro-blade.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
+| Necro Echo | 424514 | [424514-necro-echo.json](./424514-necro-echo.json) |
 | Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Immortallis | 102398 | [102398-necro-immortallis.json](./102398-necro-immortallis.json) |
@@ -6383,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NMO: No More Operators | 294341 | [294341-nmo-no-more-operators.json](./294341-nmo-no-more-operators.json) |
 | NMORPG | 132910 | [132910-nmorpg.json](./132910-nmorpg.json) |
 | Nmpisun | 128751 | [128751-nmpisun.json](./128751-nmpisun.json) |
+| Nna-tan's Pixel Princess | 424761 | [424761-nna-tans-pixel-princess.json](./424761-nna-tans-pixel-princess.json) |
 | NNC News, with Tom Vandercar | 181821 | [181821-nnc-news-with-tom-vandercar.json](./181821-nnc-news-with-tom-vandercar.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
 | No Body Home | 111338 | [111338-no-body-home.json](./111338-no-body-home.json) |
+| No Body No Problem! | 424522 | [424522-no-body-no-problem.json](./424522-no-body-no-problem.json) |
 | No Border | 258658 | [258658-no-border.json](./258658-no-border.json) |
 | No Brake No Gain | 345283 | [345283-no-brake-no-gain.json](./345283-no-brake-no-gain.json) |
 | No Brakes | 241704 | [241704-no-brakes.json](./241704-no-brakes.json) |
