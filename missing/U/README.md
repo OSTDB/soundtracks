@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwanted Experiment | 199944 | [199944-unwanted-experiment.json](./199944-unwanted-experiment.json) |
 | Unwanted gray | 141513 | [141513-unwanted-gray.json](./141513-unwanted-gray.json) |
 | Unwanted Guest | 423621 | [423621-unwanted-guest.json](./423621-unwanted-guest.json) |
+| Unwanted Host | 427064 | [427064-unwanted-host.json](./427064-unwanted-host.json) |
 | Unwanted visitors | 154090 | [154090-unwanted-visitors.json](./154090-unwanted-visitors.json) |
 | Unwanted Xmas Gift Burning Simulator | 326324 | [326324-unwanted-xmas-gift-burning-simulator.json](./326324-unwanted-xmas-gift-burning-simulator.json) |
 | Unwashed | 244294 | [244294-unwashed.json](./244294-unwashed.json) |
