@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Survival Simulator | 338415 | [338415-office-survival-simulator.json](./338415-office-survival-simulator.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
+| Office Wars: Escape from 9 to 5 | 427942 | [427942-office-wars-escape-from-9-to-5.json](./427942-office-wars-escape-from-9-to-5.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | Office7 | 292460 | [292460-office7.json](./292460-office7.json) |
 | OfficeBotsVR | 90952 | [90952-officebotsvr.json](./90952-officebotsvr.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oktoberfest Break | 187684 | [187684-oktoberfest-break.json](./187684-oktoberfest-break.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oktoberfest Fun | 218191 | [218191-oktoberfest-fun.json](./218191-oktoberfest-fun.json) |
+| Oktoberfest Pinball | 427932 | [427932-oktoberfest-pinball.json](./427932-oktoberfest-pinball.json) |
 | Oktoberfest Run | 202906 | [202906-oktoberfest-run.json](./202906-oktoberfest-run.json) |
 | Oktoberfest Wiesn-Gaudi | 125168 | [125168-oktoberfest-wiesn-gaudi.json](./125168-oktoberfest-wiesn-gaudi.json) |
 | Oktoberfest: The Official Game | 67682 | [67682-oktoberfest-the-official-game.json](./67682-oktoberfest-the-official-game.json) |
@@ -5241,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Ourania | 274598 | [274598-otherworld-legends-ourania.json](./274598-otherworld-legends-ourania.json) |
 | Otherworld Legends: Sinistar Ruthven | 274600 | [274600-otherworld-legends-sinistar-ruthven.json](./274600-otherworld-legends-sinistar-ruthven.json) |
 | Otherworld Legends: Skin - Mint & Sea Salt Millefeuille | 279978 | [279978-otherworld-legends-skin-mint-and-sea-salt-millefeuille.json](./279978-otherworld-legends-skin-mint-and-sea-salt-millefeuille.json) |
+| Otherworld Legends: Skin - Plebiosaur | 427946 | [427946-otherworld-legends-skin-plebiosaur.json](./427946-otherworld-legends-skin-plebiosaur.json) |
 | Otherworld Legends: Skin - Striker Dragoneer | 286984 | [286984-otherworld-legends-skin-striker-dragoneer.json](./286984-otherworld-legends-skin-striker-dragoneer.json) |
 | Otherworld Legends: Skin - Sunclipse | 286985 | [286985-otherworld-legends-skin-sunclipse.json](./286985-otherworld-legends-skin-sunclipse.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
