@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
 | Gensokyo Defenders Plus | 210333 | [210333-gensokyo-defenders-plus.json](./210333-gensokyo-defenders-plus.json) |
+| Gensokyo Night Festival | 121286 | [121286-gensokyo-night-festival.json](./121286-gensokyo-night-festival.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
@@ -5850,6 +5851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
 | Globematcher feat. Tokidoki x Hello Kitty | 256637 | [256637-globematcher-feat-tokidoki-x-hello-kitty.json](./256637-globematcher-feat-tokidoki-x-hello-kitty.json) |
 | Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
+| Globesweeper: Hex Puzzler | 121407 | [121407-globesweeper-hex-puzzler.json](./121407-globesweeper-hex-puzzler.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | GlobeTrotter | 354649 | [354649-globetrotter.json](./354649-globetrotter.json) |
 | Globetrotter 2 | 73878 | [73878-globetrotter-2.json](./73878-globetrotter-2.json) |
@@ -9837,6 +9839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Garden | 365759 | [365759-gravity-garden.json](./365759-gravity-garden.json) |
 | Gravity Gems | 93257 | [93257-gravity-gems.json](./93257-gravity-gems.json) |
 | Gravity Ghost | 16669 | [16669-gravity-ghost.json](./16669-gravity-ghost.json) |
+| Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
 | Gravity Goomba | 322904 | [322904-gravity-goomba.json](./322904-gravity-goomba.json) |
