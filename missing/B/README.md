@@ -12757,6 +12757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood West: Dead Man's Edition | 406476 | [406476-blood-west-dead-mans-edition.json](./406476-blood-west-dead-mans-edition.json) |
 | Blood West: Dead Man’s Promise | 321312 | [321312-blood-west-dead-man-s-promise.json](./321312-blood-west-dead-man-s-promise.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
+| Blood will be Spilled | 103811 | [103811-blood-will-be-spilled.json](./103811-blood-will-be-spilled.json) |
 | Blood Will Tell: Tezuka Osamu's Dororo | 18864 | [18864-blood-will-tell-tezuka-osamus-dororo.json](./18864-blood-will-tell-tezuka-osamus-dororo.json) |
 | Blood Within | 298444 | [298444-blood-within.json](./298444-blood-within.json) |
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
@@ -18142,6 +18143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring The Chickens Home | 260520 | [260520-bring-the-chickens-home.json](./260520-bring-the-chickens-home.json) |
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
+| Bring to Light | 104849 | [104849-bring-to-light.json](./104849-bring-to-light.json) |
 | Bring You Home | 87031 | [87031-bring-you-home.json](./87031-bring-you-home.json) |
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
