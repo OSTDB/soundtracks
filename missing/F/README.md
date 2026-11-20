@@ -9775,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Slime Maker | 106769 | [106769-fluffy-slime-maker.json](./106769-fluffy-slime-maker.json) |
 | Fluffy Smash | 219791 | [219791-fluffy-smash.json](./219791-fluffy-smash.json) |
 | Fluffy Snakes | 343530 | [343530-fluffy-snakes.json](./343530-fluffy-snakes.json) |
+| Fluffy Store | 120606 | [120606-fluffy-store.json](./120606-fluffy-store.json) |
 | Fluffy Story | 423410 | [423410-fluffy-story.json](./423410-fluffy-story.json) |
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
@@ -11156,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Foresia: The Cursed Oath | 247845 | [247845-foresia-the-cursed-oath.json](./247845-foresia-the-cursed-oath.json) |
 | Foresight | 17677 | [17677-foresight.json](./17677-foresight.json) |
+| Foreskin Fury | 120616 | [120616-foreskin-fury.json](./120616-foreskin-fury.json) |
 | Forest | 100307 | [100307-forest.json](./100307-forest.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
@@ -14626,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Steel | 363921 | [363921-frontline-steel.json](./363921-frontline-steel.json) |
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
+| Frontline Zed | 120418 | [120418-frontline-zed.json](./120418-frontline-zed.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Panzer Blitzkrieg! | 131650 | [131650-frontline-panzer-blitzkrieg.json](./131650-frontline-panzer-blitzkrieg.json) |
