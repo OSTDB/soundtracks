@@ -869,7 +869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelstrom | 71446 | [71446-maelstrom.json](./71446-maelstrom.json) |
 | Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
 | Maelstrom: A Yaoi Visual Novel | 159571 | [159571-maelstrom-a-yaoi-visual-novel.json](./159571-maelstrom-a-yaoi-visual-novel.json) |
-| Maelstrom: The Battle for Earth Begins | 10134 | [10134-maelstrom-the-battle-for-earth-begins.json](./10134-maelstrom-the-battle-for-earth-begins.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maelstrom: Undertow Bundle | 167908 | [167908-maelstrom-undertow-bundle.json](./167908-maelstrom-undertow-bundle.json) |
 | Maenhir | 163885 | [163885-maenhir.json](./163885-maenhir.json) |
@@ -1905,7 +1904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicka: Vietnam | 21781 | [21781-magicka-vietnam.json](./21781-magicka-vietnam.json) |
 | Magicka: Wizard Wars | 2006 | [2006-magicka-wizard-wars.json](./2006-magicka-wizard-wars.json) |
 | Magicka: Wizard's Survival Kit | 50820 | [50820-magicka-wizards-survival-kit.json](./50820-magicka-wizards-survival-kit.json) |
-| Magicka: Wizards of the Square Tablet | 10527 | [10527-magicka-wizards-of-the-square-tablet.json](./10527-magicka-wizards-of-the-square-tablet.json) |
 | Magicland Dizzy | 12182 | [12182-magicland-dizzy.json](./12182-magicland-dizzy.json) |
 | Magiclean | 391321 | [391321-magiclean.json](./391321-magiclean.json) |
 | Magicliment | 261260 | [261260-magicliment.json](./261260-magicliment.json) |
@@ -3386,7 +3384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manacircle | 192501 | [192501-manacircle.json](./192501-manacircle.json) |
 | Manacle | 238453 | [238453-manacle.json](./238453-manacle.json) |
 | Manaclysm | 258388 | [258388-manaclysm.json](./258388-manaclysm.json) |
-| ManaCollect | 11572 | [11572-manacollect.json](./11572-manacollect.json) |
 | ManaCollect 2 | 370020 | [370020-manacollect-2.json](./370020-manacollect-2.json) |
 | Manacrest Online | 133310 | [133310-manacrest-online.json](./133310-manacrest-online.json) |
 | Manafall | 244186 | [244186-manafall.json](./244186-manafall.json) |
@@ -6158,7 +6155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masters of the Universe: The Super Adventure | 8159 | [8159-masters-of-the-universe-the-super-adventure.json](./8159-masters-of-the-universe-the-super-adventure.json) |
-| Masters of the World: Geopolitical Simulator 3 | 10542 | [10542-masters-of-the-world-geopolitical-simulator-3.json](./10542-masters-of-the-world-geopolitical-simulator-3.json) |
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
@@ -8084,7 +8080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Crafter: Blacksmith | 244837 | [244837-medieval-crafter-blacksmith.json](./244837-medieval-crafter-blacksmith.json) |
 | Medieval Darkness | 258746 | [258746-medieval-darkness.json](./258746-medieval-darkness.json) |
 | Medieval Defence | 235997 | [235997-medieval-defence.json](./235997-medieval-defence.json) |
-| Medieval Defenders | 10545 | [10545-medieval-defenders.json](./10545-medieval-defenders.json) |
 | Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
 | Medieval Defenders Saga | 99143 | [99143-medieval-defenders-saga.json](./99143-medieval-defenders-saga.json) |
 | Medieval Defense Z | 346904 | [346904-medieval-defense-z.json](./346904-medieval-defense-z.json) |
@@ -12263,7 +12258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micromega | 341944 | [341944-micromega.json](./341944-micromega.json) |
 | Micromon | 125761 | [125761-micromon.json](./125761-micromon.json) |
 | Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
-| Micron | 13673 | [13673-micron.json](./13673-micron.json) |
 | Micron Defense Force | 303062 | [303062-micron-defense-force.json](./303062-micron-defense-force.json) |
 | Micron Survivor | 378104 | [378104-micron-survivor.json](./378104-micron-survivor.json) |
 | Micronaut One | 53149 | [53149-micronaut-one.json](./53149-micronaut-one.json) |
@@ -12896,8 +12890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
 | Midnight Mutants | 12335 | [12335-midnight-mutants.json](./12335-midnight-mutants.json) |
-| Midnight Mysteries 2: Salem Witch Trials | 10573 | [10573-midnight-mysteries-2-salem-witch-trials.json](./10573-midnight-mysteries-2-salem-witch-trials.json) |
-| Midnight Mysteries 3: Devil on the Mississippi | 10547 | [10547-midnight-mysteries-3-devil-on-the-mississippi.json](./10547-midnight-mysteries-3-devil-on-the-mississippi.json) |
 | Midnight Mysteries 4: Haunted Houdini | 10548 | [10548-midnight-mysteries-4-haunted-houdini.json](./10548-midnight-mysteries-4-haunted-houdini.json) |
 | Midnight Mysteries 4: Haunted Houdini - Collector's Edition | 95902 | [95902-midnight-mysteries-4-haunted-houdini-collectors-edition.json](./95902-midnight-mysteries-4-haunted-houdini-collectors-edition.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
@@ -12905,7 +12897,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Mysteries: Ghostwriting - Collector’s Edition | 239231 | [239231-midnight-mysteries-ghostwriting-collector-s-edition.json](./239231-midnight-mysteries-ghostwriting-collector-s-edition.json) |
 | Midnight Mysteries: Salem Witch Trials | 140190 | [140190-midnight-mysteries-salem-witch-trials.json](./140190-midnight-mysteries-salem-witch-trials.json) |
 | Midnight Mysteries: Salem Witch Trials - Collector's Edition | 94888 | [94888-midnight-mysteries-salem-witch-trials-collectors-edition.json](./94888-midnight-mysteries-salem-witch-trials-collectors-edition.json) |
-| Midnight Mysteries: The Edgar Allan Poe Conspiracy | 10549 | [10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json](./10549-midnight-mysteries-the-edgar-allan-poe-conspiracy.json) |
 | Midnight Mysteries: Witches of Abraham | 140191 | [140191-midnight-mysteries-witches-of-abraham.json](./140191-midnight-mysteries-witches-of-abraham.json) |
 | Midnight Mysteries: Witches of Abraham - Collector's Edition | 36150 | [36150-midnight-mysteries-witches-of-abraham-collectors-edition.json](./36150-midnight-mysteries-witches-of-abraham-collectors-edition.json) |
 | Midnight Myths | 307195 | [307195-midnight-myths.json](./307195-midnight-myths.json) |
@@ -20404,7 +20395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 4: Rider Pack - The Truth | 261009 | [261009-moto-racer-4-rider-pack-the-truth.json](./261009-moto-racer-4-rider-pack-the-truth.json) |
 | Moto Racer Advance | 6515 | [6515-moto-racer-advance.json](./6515-moto-racer-advance.json) |
 | Moto Racer Collection | 36248 | [36248-moto-racer-collection.json](./36248-moto-racer-collection.json) |
-| Moto Racer DS | 10564 | [10564-moto-racer-ds.json](./10564-moto-racer-ds.json) |
 | Moto Racer Highway Traffic | 396132 | [396132-moto-racer-highway-traffic.json](./396132-moto-racer-highway-traffic.json) |
 | Moto Racer Simulator GT Games | 256759 | [256759-moto-racer-simulator-gt-games.json](./256759-moto-racer-simulator-gt-games.json) |
 | Moto Racer World Tour | 10562 | [10562-moto-racer-world-tour.json](./10562-moto-racer-world-tour.json) |
@@ -20600,7 +20590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor World: Car Factory | 233914 | [233914-motor-world-car-factory.json](./233914-motor-world-car-factory.json) |
 | MotoRace USA | 4626 | [4626-motorace-usa.json](./4626-motorace-usa.json) |
 | Motoracing | 380925 | [380925-motoracing.json](./380925-motoracing.json) |
-| Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
@@ -21842,7 +21831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen Senshi Valis: The Fantasm Soldier | 278226 | [278226-mugen-senshi-valis-the-fantasm-soldier.json](./278226-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Fantasm Soldier | 36789 | [36789-mugen-senshi-valis-the-fantasm-soldier.json](./36789-mugen-senshi-valis-the-fantasm-soldier.json) |
 | Mugen Senshi Valis: The Legend of a Fantasm Soldier | 186074 | [186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json](./186074-mugen-senshi-valis-the-legend-of-a-fantasm-soldier.json) |
-| Mugen Souls | 11501 | [11501-mugen-souls.json](./11501-mugen-souls.json) |
 | Mugen Souls Double Pack | 262325 | [262325-mugen-souls-double-pack.json](./262325-mugen-souls-double-pack.json) |
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Mugen Sweeper | 256910 | [256910-mugen-sweeper.json](./256910-mugen-sweeper.json) |
@@ -22846,7 +22834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson | 65691 | [65691-mute-crimson.json](./65691-mute-crimson.json) |
 | Mute Crimson DX | 293595 | [293595-mute-crimson-dx.json](./293595-mute-crimson-dx.json) |
-| Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muted | 247899 | [247899-muted.json](./247899-muted.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Muteki-Ou Tri-Zenon | 251309 | [251309-muteki-ou-tri-zenon.json](./251309-muteki-ou-tri-zenon.json) |
@@ -22886,7 +22873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
 | Muv-Luv Girls Garden | 373425 | [373425-muv-luv-girls-garden.json](./373425-muv-luv-girls-garden.json) |
 | Muv-Luv Integrate | 154845 | [154845-muv-luv-integrate.json](./154845-muv-luv-integrate.json) |
-| Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
 | Muv-Luv Photonmelodies | 11801 | [11801-muv-luv-photonmelodies.json](./11801-muv-luv-photonmelodies.json) |
 | Muv-Luv Remastered | 308623 | [308623-muv-luv-remastered.json](./308623-muv-luv-remastered.json) |
 | Muv-Luv Resonative | 154844 | [154844-muv-luv-resonative.json](./154844-muv-luv-resonative.json) |
