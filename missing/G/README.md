@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galumb | 414573 | [414573-galumb.json](./414573-galumb.json) |
 | Galvanic Bride | 260183 | [260183-galvanic-bride.json](./260183-galvanic-bride.json) |
 | Galvanica | 176280 | [176280-galvanica.json](./176280-galvanica.json) |
+| Galvanize Simulator | 424428 | [424428-galvanize-simulator.json](./424428-galvanize-simulator.json) |
 | Galvanized | 280302 | [280302-galvanized.json](./280302-galvanized.json) |
 | Galvatein: Adventurer’s Guild | 346495 | [346495-galvatein-adventurer-s-guild.json](./346495-galvatein-adventurer-s-guild.json) |
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
@@ -6695,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Defenders: Steel'n' Wood | 34081 | [34081-goblin-defenders-steeln-wood.json](./34081-goblin-defenders-steeln-wood.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Dish | 413454 | [413454-goblin-dish.json](./413454-goblin-dish.json) |
+| Goblin Dodge | 424431 | [424431-goblin-dodge.json](./424431-goblin-dodge.json) |
 | Goblin Down | 247973 | [247973-goblin-down.json](./247973-goblin-down.json) |
 | Goblin Dungeoneer | 151526 | [151526-goblin-dungeoneer.json](./151526-goblin-dungeoneer.json) |
 | Goblin Gearshop | 81826 | [81826-goblin-gearshop.json](./81826-goblin-gearshop.json) |
@@ -10764,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender HD | 99299 | [99299-grim-facade-the-artist-and-the-pretender-hd.json](./99299-grim-facade-the-artist-and-the-pretender-hd.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Fate: Cloverleaf Bay | 420025 | [420025-grim-fate-cloverleaf-bay.json](./420025-grim-fate-cloverleaf-bay.json) |
+| Grim Guild | 424437 | [424437-grim-guild.json](./424437-grim-guild.json) |
 | Grim Hammer | 411875 | [411875-grim-hammer.json](./411875-grim-hammer.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
