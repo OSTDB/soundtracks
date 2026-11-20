@@ -18030,6 +18030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenge of Sophia Red | 165084 | [165084-the-revenge-of-sophia-red.json](./165084-the-revenge-of-sophia-red.json) |
 | The Revenge of the Smurfs | 8079 | [8079-the-revenge-of-the-smurfs.json](./8079-the-revenge-of-the-smurfs.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
+| The Reverend | 426190 | [426190-the-reverend.json](./426190-the-reverend.json) |
 | The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
 | The Revolt Fire Rising | 246762 | [246762-the-revolt-fire-rising.json](./246762-the-revolt-fire-rising.json) |
@@ -37915,6 +37916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty Days | 381891 | [381891-twenty-days.json](./381891-twenty-days.json) |
 | Twenty One | 301156 | [301156-twenty-one.json](./301156-twenty-one.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
+| Twenty One Points | 426186 | [426186-twenty-one-points.json](./426186-twenty-one-points.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
 | Twenty-second: Stories of Underground Kharkiv | 295170 | [295170-twenty-second-stories-of-underground-kharkiv.json](./295170-twenty-second-stories-of-underground-kharkiv.json) |
