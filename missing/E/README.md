@@ -9782,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
+| EyeToy: Kinetic | 22550 | [22550-eyetoy-kinetic.json](./22550-eyetoy-kinetic.json) |
 | EyeToy: Monkey Mania | 44677 | [44677-eyetoy-monkey-mania.json](./44677-eyetoy-monkey-mania.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play | 18724 | [18724-eyetoy-play.json](./18724-eyetoy-play.json) |
