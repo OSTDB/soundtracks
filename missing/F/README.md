@@ -6528,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Findom Queen | 360033 | [360033-findom-queen.json](./360033-findom-queen.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine China | 31267 | [31267-fine-china.json](./31267-fine-china.json) |
+| Fine Dining Fraud | 423801 | [423801-fine-dining-fraud.json](./423801-fine-dining-fraud.json) |
 | Fine Dying | 422056 | [422056-fine-dying.json](./422056-fine-dying.json) |
 | Fine Ski Jumping | 188333 | [188333-fine-ski-jumping.json](./188333-fine-ski-jumping.json) |
 | Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
@@ -6806,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Fallen King | 140094 | [140094-fire-emblem-fallen-king.json](./140094-fire-emblem-fallen-king.json) |
 | Fire Emblem: Fortune's Weave | 366896 | [366896-fire-emblem-fortunes-weave.json](./366896-fire-emblem-fortunes-weave.json) |
 | Fire Emblem: Fortune's Weave - Dagdan Collection | 407117 | [407117-fire-emblem-fortunes-weave-dagdan-collection.json](./407117-fire-emblem-fortunes-weave-dagdan-collection.json) |
+| Fire Emblem: Fortune's Weave Expansion Pass | 423780 | [423780-fire-emblem-fortunes-weave-expansion-pass.json](./423780-fire-emblem-fortunes-weave-expansion-pass.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
 | Fire Emblem: Fuuin no Tsurugi | 1438 | [1438-fire-emblem-fuuin-no-tsurugi.json](./1438-fire-emblem-fuuin-no-tsurugi.json) |
 | Fire Emblem: Gilmore Girls | 146274 | [146274-fire-emblem-gilmore-girls.json](./146274-fire-emblem-gilmore-girls.json) |
