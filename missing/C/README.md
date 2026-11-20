@@ -667,7 +667,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Booty | 105617 | [105617-call-of-booty.json](./105617-call-of-booty.json) |
 | Call of Brothers: The Backrooms Zombie Survival | 353555 | [353555-call-of-brothers-the-backrooms-zombie-survival.json](./353555-call-of-brothers-the-backrooms-zombie-survival.json) |
-| Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
 | Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
@@ -7700,7 +7699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
 | Cheops | 13481 | [13481-cheops.json](./13481-cheops.json) |
-| Chequered Flag | 13246 | [13246-chequered-flag.json](./13246-chequered-flag.json) |
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheree: Remembering My Murder | 299684 | [299684-cheree-remembering-my-murder.json](./299684-cheree-remembering-my-murder.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
@@ -8861,7 +8859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry is Not Dead | 377271 | [377271-chivalry-is-not-dead.json](./377271-chivalry-is-not-dead.json) |
 | Chivalry Quest: Sword and Flame | 416530 | [416530-chivalry-quest-sword-and-flame.json](./416530-chivalry-quest-sword-and-flame.json) |
 | Chivalry Quest: Sword and Flame - Collector's Edition | 361431 | [361431-chivalry-quest-sword-and-flame-collectors-edition.json](./361431-chivalry-quest-sword-and-flame-collectors-edition.json) |
-| Chivalry: Deadliest Warrior | 10083 | [10083-chivalry-deadliest-warrior.json](./10083-chivalry-deadliest-warrior.json) |
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
 | Chiyoda | 418114 | [418114-chiyoda.json](./418114-chiyoda.json) |
@@ -9893,7 +9890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoQuest VR | 412200 | [412200-chronoquest-vr.json](./412200-chronoquest-vr.json) |
 | Chronoraptor | 117459 | [117459-chronoraptor.json](./117459-chronoraptor.json) |
 | ChronoRewind: The Great Ritual | 421027 | [421027-chronorewind-the-great-ritual.json](./421027-chronorewind-the-great-ritual.json) |
-| Chronos | 13492 | [13492-chronos.json](./13492-chronos.json) |
 | Chronos Affinity | 250751 | [250751-chronos-affinity.json](./250751-chronos-affinity.json) |
 | Chronos Fantasy | 214287 | [214287-chronos-fantasy.json](./214287-chronos-fantasy.json) |
 | Chronos Gate | 56313 | [56313-chronos-gate.json](./56313-chronos-gate.json) |
@@ -12341,7 +12337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Bashers DX | 154251 | [154251-cloud-bashers-dx.json](./154251-cloud-bashers-dx.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Cats' Land | 361973 | [361973-cloud-cats-land.json](./361973-cloud-cats-land.json) |
-| Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Crashers | 303421 | [303421-cloud-crashers.json](./303421-cloud-crashers.json) |
@@ -12700,7 +12695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Tower | 246853 | [246853-cluster-tower.json](./246853-cluster-tower.json) |
 | Cluster Traffic: Parkour Trucks | 108545 | [108545-cluster-traffic-parkour-trucks.json](./108545-cluster-traffic-parkour-trucks.json) |
 | Cluster Tumble | 118156 | [118156-cluster-tumble.json](./118156-cluster-tumble.json) |
-| Clusterball | 10349 | [10349-clusterball.json](./10349-clusterball.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | ClusterCluck | 382119 | [382119-clustercluck.json](./382119-clustercluck.json) |
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
@@ -12792,7 +12786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coalminer | 273705 | [273705-coalminer.json](./273705-coalminer.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
-| Coast Guard | 13209 | [13209-coast-guard.json](./13209-coast-guard.json) |
 | Coast Guard: Beach Rescue Team | 96908 | [96908-coast-guard-beach-rescue-team.json](./96908-coast-guard-beach-rescue-team.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
 | Coastal Cargo | 428994 | [428994-coastal-cargo.json](./428994-coastal-cargo.json) |
@@ -12836,7 +12829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobi Golf Shots | 96283 | [96283-cobi-golf-shots.json](./96283-cobi-golf-shots.json) |
 | Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
-| Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
 | Cobits Premium | 63483 | [63483-cobits-premium.json](./63483-cobits-premium.json) |
 | Cobos | 74596 | [74596-cobos.json](./74596-cobos.json) |
 | Cobot-Man Adventure | 425410 | [425410-cobot-man-adventure.json](./425410-cobot-man-adventure.json) |
@@ -13022,7 +13014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
 | Code of Honor 2: Conspiracy Island | 10098 | [10098-code-of-honor-2-conspiracy-island.json](./10098-code-of-honor-2-conspiracy-island.json) |
 | Code of Honor 3: Desperate Measures | 27473 | [27473-code-of-honor-3-desperate-measures.json](./27473-code-of-honor-3-desperate-measures.json) |
-| Code of Honor: The French Foreign Legion | 10099 | [10099-code-of-honor-the-french-foreign-legion.json](./10099-code-of-honor-the-french-foreign-legion.json) |
 | Code of Princess | 6751 | [6751-code-of-princess.json](./6751-code-of-princess.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
@@ -14093,7 +14084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
 | Color.Number - Draw Pixel Color by Number Coloring | 101140 | [101140-color-number-draw-pixel-color-by-number-coloring.json](./101140-color-number-draw-pixel-color-by-number-coloring.json) |
 | Colorace | 402659 | [402659-colorace.json](./402659-colorace.json) |
-| Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
 | Colorado Cocoa Club | 151351 | [151351-colorado-cocoa-club.json](./151351-colorado-cocoa-club.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Colorama Cubes | 308302 | [308302-colorama-cubes.json](./308302-colorama-cubes.json) |
@@ -14471,7 +14461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
 | Colossus Mission | 153651 | [153651-colossus-mission.json](./153651-colossus-mission.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
-| Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
 | Colour Box | 89363 | [89363-colour-box.json](./89363-colour-box.json) |
 | Colour Chain | 314841 | [314841-colour-chain.json](./314841-colour-chain.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
@@ -14676,7 +14665,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Two | 40609 | [40609-combat-two.json](./40609-combat-two.json) |
 | Combat Weapon | 224084 | [224084-combat-weapon.json](./224084-combat-weapon.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
-| Combat Wings: Battle of Britain | 9800 | [9800-combat-wings-battle-of-britain.json](./9800-combat-wings-battle-of-britain.json) |
 | Combat Wings: The Great Battles of WWII | 47437 | [47437-combat-wings-the-great-battles-of-wwii.json](./47437-combat-wings-the-great-battles-of-wwii.json) |
 | Combat Wombat | 130537 | [130537-combat-wombat.json](./130537-combat-wombat.json) |
 | Combat Zone | 13510 | [13510-combat-zone.json](./13510-combat-zone.json) |
@@ -15061,7 +15049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Gun | 216137 | [216137-commando-gun.json](./216137-commando-gun.json) |
 | Commando Hero | 229014 | [229014-commando-hero.json](./229014-commando-hero.json) |
 | Commando Hero 2: First Blood | 293796 | [293796-commando-hero-2-first-blood.json](./293796-commando-hero-2-first-blood.json) |
-| Commando Jack | 9801 | [9801-commando-jack.json](./9801-commando-jack.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Mountain Rescue | 200433 | [200433-commando-mountain-rescue.json](./200433-commando-mountain-rescue.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
@@ -15861,7 +15848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest Reforged | 336835 | [336835-conquest-reforged.json](./336835-conquest-reforged.json) |
 | Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
 | Conquest: Divide and Conquer | 66262 | [66262-conquest-divide-and-conquer.json](./66262-conquest-divide-and-conquer.json) |
-| Conquest: Frontier Wars | 11278 | [11278-conquest-frontier-wars.json](./11278-conquest-frontier-wars.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
@@ -19765,7 +19751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures | 313973 | [313973-creatures.json](./313973-creatures.json) |
 | Creatures | 380097 | [380097-creatures.json](./380097-creatures.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
-| Creatures 3 | 11372 | [11372-creatures-3.json](./11372-creatures-3.json) |
 | Creatures 4 | 79200 | [79200-creatures-4.json](./79200-creatures-4.json) |
 | Creatures Adventures | 11377 | [11377-creatures-adventures.json](./11377-creatures-adventures.json) |
 | Creatures After Calamity | 291517 | [291517-creatures-after-calamity.json](./291517-creatures-after-calamity.json) |
