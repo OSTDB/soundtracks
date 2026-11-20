@@ -6221,6 +6221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
 | Cendrillon palikA | 69347 | [69347-cendrillon-palika.json](./69347-cendrillon-palika.json) |
 | Cenk The Chopper | 313403 | [313403-cenk-the-chopper.json](./313403-cenk-the-chopper.json) |
+| Censer Infinite | 426103 | [426103-censer-infinite.json](./426103-censer-infinite.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centaur | 79685 | [79685-centaur.json](./79685-centaur.json) |
 | Centauri Alliance | 79435 | [79435-centauri-alliance.json](./79435-centauri-alliance.json) |
@@ -8668,6 +8669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimp Test | 315950 | [315950-chimp-test.json](./315950-chimp-test.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
 | Chimpact 1: Chuck's Adventure | 31564 | [31564-chimpact-1-chucks-adventure.json](./31564-chimpact-1-chucks-adventure.json) |
+| Chimpanik | 425725 | [425725-chimpanik.json](./425725-chimpanik.json) |
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chimpology | 37391 | [37391-chimpology.json](./37391-chimpology.json) |
@@ -9646,6 +9648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Circuit | 423026 | [423026-chrome-circuit.json](./423026-chrome-circuit.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
+| Chrome Iris | 426107 | [426107-chrome-iris.json](./426107-chrome-iris.json) |
 | Chrome Sweat | 251975 | [251975-chrome-sweat.json](./251975-chrome-sweat.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
@@ -13351,6 +13354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin | 314433 | [314433-coin.json](./314433-coin.json) |
 | Coin 'n Carry | 63684 | [63684-coin-n-carry.json](./63684-coin-n-carry.json) |
 | Coin & Cauldron | 391618 | [391618-coin-and-cauldron.json](./391618-coin-and-cauldron.json) |
+| Coin and Contract: Brackenmarch | 425720 | [425720-coin-and-contract-brackenmarch.json](./425720-coin-and-contract-brackenmarch.json) |
 | Coin Blitz | 369527 | [369527-coin-blitz.json](./369527-coin-blitz.json) |
 | Coin Cascade | 323124 | [323124-coin-cascade.json](./323124-coin-cascade.json) |
 | Coin Coliseum | 184851 | [184851-coin-coliseum.json](./184851-coin-coliseum.json) |
@@ -18362,6 +18366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Memory | 373960 | [373960-cozy-memory.json](./373960-cozy-memory.json) |
 | Cozy Meowmory | 422280 | [422280-cozy-meowmory.json](./422280-cozy-meowmory.json) |
 | Cozy Mining | 407047 | [407047-cozy-mining.json](./407047-cozy-mining.json) |
+| Cozy Moka | 426099 | [426099-cozy-moka.json](./426099-cozy-moka.json) |
 | Cozy Monsters: The Mischievous Trabus | 356521 | [356521-cozy-monsters-the-mischievous-trabus.json](./356521-cozy-monsters-the-mischievous-trabus.json) |
 | Cozy Mozy | 399153 | [399153-cozy-mozy.json](./399153-cozy-mozy.json) |
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
@@ -18902,6 +18907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
+| Crash of the Titans: Definitive Edition | 425721 | [425721-crash-of-the-titans-definitive-edition.json](./425721-crash-of-the-titans-definitive-edition.json) |
 | Crash Override | 215518 | [215518-crash-override.json](./215518-crash-override.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Powertape September 1991 | 71383 | [71383-crash-powertape-september-1991.json](./71383-crash-powertape-september-1991.json) |
@@ -21119,6 +21125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
 | CruiSim | 328136 | [328136-cruisim.json](./328136-cruisim.json) |
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
+| Cruisopolis: Cruise Line Tycoon | 425726 | [425726-cruisopolis-cruise-line-tycoon.json](./425726-cruisopolis-cruise-line-tycoon.json) |
 | Crumb Circuit Simulator | 225986 | [225986-crumb-circuit-simulator.json](./225986-crumb-circuit-simulator.json) |
 | Crumbeats | 419836 | [419836-crumbeats.json](./419836-crumbeats.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
