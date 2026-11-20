@@ -9462,6 +9462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle Heroes | 200958 | [200958-bionicle-heroes.json](./200958-bionicle-heroes.json) |
 | Bionicle Heroes | 200959 | [200959-bionicle-heroes.json](./200959-bionicle-heroes.json) |
+| Bionicle Heroes | 248509 | [248509-bionicle-heroes.json](./248509-bionicle-heroes.json) |
 | Bionicle Heroes | 248510 | [248510-bionicle-heroes.json](./248510-bionicle-heroes.json) |
 | Bionicle Heroes | 248511 | [248511-bionicle-heroes.json](./248511-bionicle-heroes.json) |
 | Bionicle Heroes | 3818 | [3818-bionicle-heroes.json](./3818-bionicle-heroes.json) |
@@ -18190,6 +18191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
+| Britney's Dance Beat | 248750 | [248750-britneys-dance-beat.json](./248750-britneys-dance-beat.json) |
 | Britney's Dance Beat | 340652 | [340652-britneys-dance-beat.json](./340652-britneys-dance-beat.json) |
 | Britney's Dance Beat | 6338 | [6338-britneys-dance-beat.json](./6338-britneys-dance-beat.json) |
 | Brittany Home Alone | 177628 | [177628-brittany-home-alone.json](./177628-brittany-home-alone.json) |
