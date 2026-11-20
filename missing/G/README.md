@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit! | 193173 | [193173-gambit.json](./193173-gambit.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gamble Hourouki | 56928 | [56928-gamble-hourouki.json](./56928-gamble-hourouki.json) |
+| Gamble Hunters | 422253 | [422253-gamble-hunters.json](./422253-gamble-hunters.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble of Gods | 111100 | [111100-gamble-of-gods.json](./111100-gamble-of-gods.json) |
@@ -7115,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
 | Gods Will Fall | 141207 | [141207-gods-will-fall.json](./141207-gods-will-fall.json) |
 | Gods Will Fall: Valiant Edition | 154205 | [154205-gods-will-fall-valiant-edition.json](./154205-gods-will-fall-valiant-edition.json) |
+| Gods with Badges | 422256 | [422256-gods-with-badges.json](./422256-gods-with-badges.json) |
 | Gods With Guns: Deluxe Edition | 412581 | [412581-gods-with-guns-deluxe-edition.json](./412581-gods-with-guns-deluxe-edition.json) |
 | Gods With Guns: Samurai Spirit | 412579 | [412579-gods-with-guns-samurai-spirit.json](./412579-gods-with-guns-samurai-spirit.json) |
 | Gods, Death & Reapers | 328104 | [328104-gods-death-and-reapers.json](./328104-gods-death-and-reapers.json) |
