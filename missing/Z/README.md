@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarjas | 142525 | [142525-zarjas.json](./142525-zarjas.json) |
 | Zarktor's Realm | 189172 | [189172-zarktors-realm.json](./189172-zarktors-realm.json) |
 | Zarlor Mercenary | 12371 | [12371-zarlor-mercenary.json](./12371-zarlor-mercenary.json) |
+| Zarlor: Le Sanctuaire des Veilleurs | 425525 | [425525-zarlor-le-sanctuaire-des-veilleurs.json](./425525-zarlor-le-sanctuaire-des-veilleurs.json) |
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarts | 186546 | [186546-zarts.json](./186546-zarts.json) |
 | Zaru | 312494 | [312494-zaru.json](./312494-zaru.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies and Pterodactyls 2005 | 71417 | [71417-zombies-and-pterodactyls-2005.json](./71417-zombies-and-pterodactyls-2005.json) |
 | Zombies and Strangers | 350512 | [350512-zombies-and-strangers.json](./350512-zombies-and-strangers.json) |
+| Zombies Aren't Real | 425594 | [425594-zombies-arent-real.json](./425594-zombies-arent-real.json) |
 | Zombies Aren't Your Friends | 235654 | [235654-zombies-arent-your-friends.json](./235654-zombies-arent-your-friends.json) |
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
 | Zombies ate my dog | 192813 | [192813-zombies-ate-my-dog.json](./192813-zombies-ate-my-dog.json) |
