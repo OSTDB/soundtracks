@@ -5350,6 +5350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catorize | 34043 | [34043-catorize.json](./34043-catorize.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
+| CatPipes | 430726 | [430726-catpipes.json](./430726-catpipes.json) |
 | CatPuncher | 365350 | [365350-catpuncher.json](./365350-catpuncher.json) |
 | CatPunk | 338501 | [338501-catpunk.json](./338501-catpunk.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
@@ -16410,6 +16411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convergence | 380086 | [380086-convergence.json](./380086-convergence.json) |
 | Convergence Compulsion | 137345 | [137345-convergence-compulsion.json](./137345-convergence-compulsion.json) |
 | Convergence: A League of Legends Story - Deluxe Edition | 249360 | [249360-convergence-a-league-of-legends-story-deluxe-edition.json](./249360-convergence-a-league-of-legends-story-deluxe-edition.json) |
+| Convergence: A League of Legends Story - Golden Ekko Skin | 430582 | [430582-convergence-a-league-of-legends-story-golden-ekko-skin.json](./430582-convergence-a-league-of-legends-story-golden-ekko-skin.json) |
 | Converger | 184248 | [184248-converger.json](./184248-converger.json) |
 | Conversation With a Rock | 297099 | [297099-conversation-with-a-rock.json](./297099-conversation-with-a-rock.json) |
 | ConversationalRumblings | 300340 | [300340-conversationalrumblings.json](./300340-conversationalrumblings.json) |
