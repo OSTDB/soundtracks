@@ -8239,6 +8239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Chasers | 338510 | [338510-chicken-chasers.json](./338510-chicken-chasers.json) |
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
+| Chicken Clash | 427939 | [427939-chicken-clash.json](./427939-chicken-clash.json) |
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
 | Chicken Cluck Cluck! | 250823 | [250823-chicken-cluck-cluck.json](./250823-chicken-cluck-cluck.json) |
 | Chicken Coop | 193279 | [193279-chicken-coop.json](./193279-chicken-coop.json) |
