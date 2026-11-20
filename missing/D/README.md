@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Collector's Edition | 42988 | [42988-dark-souls-ii-collectors-edition.json](./42988-dark-souls-ii-collectors-edition.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
+| Dark Souls II: Season Pass | 425730 | [425730-dark-souls-ii-season-pass.json](./425730-dark-souls-ii-season-pass.json) |
 | Dark Souls II: Seeker of Fire | 238899 | [238899-dark-souls-ii-seeker-of-fire.json](./238899-dark-souls-ii-seeker-of-fire.json) |
 | Dark Souls II: Webhallen Edition | 42996 | [42996-dark-souls-ii-webhallen-edition.json](./42996-dark-souls-ii-webhallen-edition.json) |
 | Dark Souls III: Apocalypse Edition | 41637 | [41637-dark-souls-iii-apocalypse-edition.json](./41637-dark-souls-iii-apocalypse-edition.json) |
@@ -21281,6 +21282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Warriors | 155849 | [155849-dungeon-warriors.json](./155849-dungeon-warriors.json) |
 | Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
+| Dungeon Weaver | 426108 | [426108-dungeon-weaver.json](./426108-dungeon-weaver.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
 | Dungeon Witches | 182638 | [182638-dungeon-witches.json](./182638-dungeon-witches.json) |
 | Dungeon With Girl | 346171 | [346171-dungeon-with-girl.json](./346171-dungeon-with-girl.json) |
