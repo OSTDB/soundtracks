@@ -3492,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to the Creator: DLC1 | 290850 | [290850-path-to-the-creator-dlc1.json](./290850-path-to-the-creator-dlc1.json) |
 | Path to the Cyber Land | 82513 | [82513-path-to-the-cyber-land.json](./82513-path-to-the-cyber-land.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
+| Path to the End | 421926 | [421926-path-to-the-end.json](./421926-path-to-the-end.json) |
 | Path to the Goal | 319400 | [319400-path-to-the-goal.json](./319400-path-to-the-goal.json) |
 | Path to the Sky | 35237 | [35237-path-to-the-sky.json](./35237-path-to-the-sky.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
@@ -8898,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates? Pirates! | 132375 | [132375-pirates-pirates.json](./132375-pirates-pirates.json) |
 | Pirates. Naval battle | 290600 | [290600-pirates-naval-battle.json](./290600-pirates-naval-battle.json) |
 | PiratesBattle | 176302 | [176302-piratesbattle.json](./176302-piratesbattle.json) |
+| Piratesgame | 421945 | [421945-piratesgame.json](./421945-piratesgame.json) |
 | Pirateville | 201889 | [201889-pirateville.json](./201889-pirateville.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
 | Piratiska Riba VR | 182876 | [182876-piratiska-riba-vr.json](./182876-piratiska-riba-vr.json) |
@@ -10775,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets of War | 37426 | [37426-planets-of-war.json](./37426-planets-of-war.json) |
 | Planets Under Attack | 16408 | [16408-planets-under-attack.json](./16408-planets-under-attack.json) |
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
+| Planetshaper | 421927 | [421927-planetshaper.json](./421927-planetshaper.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
@@ -12703,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Conquerors | 314727 | [314727-pokemon-conquerors.json](./314727-pokemon-conquerors.json) |
 | Pokémon Conquest | 2288 | [2288-pokemon-conquest.json](./2288-pokemon-conquest.json) |
 | Pokémon Consonancia | 314716 | [314716-pokemon-consonancia.json](./314716-pokemon-consonancia.json) |
+| Pokémon Contingency Contract: Operation Masquerade | 421924 | [421924-pokemon-contingency-contract-operation-masquerade.json](./421924-pokemon-contingency-contract-operation-masquerade.json) |
 | Pokémon Cope | 337411 | [337411-pokemon-cope.json](./337411-pokemon-cope.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
@@ -18213,6 +18217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Inline | 69461 | [69461-project-inline.json](./69461-project-inline.json) |
 | Project IO | 126920 | [126920-project-io.json](./126920-project-io.json) |
 | Project Ion | 62550 | [62550-project-ion.json](./62550-project-ion.json) |
+| Project Jacinto | 421946 | [421946-project-jacinto.json](./421946-project-jacinto.json) |
 | Project Jeff | 286343 | [286343-project-jeff.json](./286343-project-jeff.json) |
 | Project Joshi | 256939 | [256939-project-joshi.json](./256939-project-joshi.json) |
 | Project Juggler | 305967 | [305967-project-juggler.json](./305967-project-juggler.json) |
