@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandness | 298158 | [298158-wandness.json](./298158-wandness.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
+| Wands & Whiskers | 425562 | [425562-wands-and-whiskers.json](./425562-wands-and-whiskers.json) |
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
 | Wands and Witches | 140835 | [140835-wands-and-witches.json](./140835-wands-and-witches.json) |
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Field | 105682 | [105682-war-field.json](./105682-war-field.json) |
 | War Flags 1 | 180730 | [180730-war-flags-1.json](./180730-war-flags-1.json) |
 | War Flavor | 347992 | [347992-war-flavor.json](./347992-war-flavor.json) |
+| War for Athelay | 425548 | [425548-war-for-athelay.json](./425548-war-for-athelay.json) |
 | War for Bryndor | 391948 | [391948-war-for-bryndor.json](./391948-war-for-bryndor.json) |
 | War For Galaxy | 250897 | [250897-war-for-galaxy.json](./250897-war-for-galaxy.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
@@ -2653,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch | 117604 | [117604-watch.json](./117604-watch.json) |
 | Watch | 271912 | [271912-watch.json](./271912-watch.json) |
 | Watch | 310212 | [310212-watch.json](./310212-watch.json) |
+| Watch and Whisper | 425536 | [425536-watch-and-whisper.json](./425536-watch-and-whisper.json) |
 | Watch Dogs | 128787 | [128787-watch-dogs.json](./128787-watch-dogs.json) |
 | Watch Dogs + Watch Dogs 2 Double Pack | 136697 | [136697-watch-dogs-watch-dogs-2-double-pack.json](./136697-watch-dogs-watch-dogs-2-double-pack.json) |
 | Watch Dogs 1 + Watch Dogs 2 Gold Editions Bundle | 164573 | [164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json](./164573-watch-dogs-1-watch-dogs-2-gold-editions-bundle.json) |
@@ -6450,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilson: In Search of Tom | 307088 | [307088-wilson-in-search-of-tom.json](./307088-wilson-in-search-of-tom.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wilt | 319219 | [319219-wilt.json](./319219-wilt.json) |
+| Wiltcards | 425527 | [425527-wiltcards.json](./425527-wiltcards.json) |
 | Wilva | 374357 | [374357-wilva.json](./374357-wilva.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
 | Wily & Right no RockBoard: That's Paradise | 1729 | [1729-wily-and-right-no-rockboard-thats-paradise.json](./1729-wily-and-right-no-rockboard-thats-paradise.json) |
