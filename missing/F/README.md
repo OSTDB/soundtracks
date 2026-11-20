@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall | 364999 | [364999-fall.json](./364999-fall.json) |
 | Fall | 380756 | [380756-fall.json](./380756-fall.json) |
+| Fall Adventure | 426174 | [426174-fall-adventure.json](./426174-fall-adventure.json) |
 | Fall and Destroy | 233891 | [233891-fall-and-destroy.json](./233891-fall-and-destroy.json) |
 | Fall Apartment | 183825 | [183825-fall-apartment.json](./183825-fall-apartment.json) |
 | Fall Asleep | 331465 | [331465-fall-asleep.json](./331465-fall-asleep.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane: Road to Revenge | 56003 | [56003-fastlane-road-to-revenge.json](./56003-fastlane-road-to-revenge.json) |
 | Fastlaners | 239408 | [239408-fastlaners.json](./239408-fastlaners.json) |
 | Fastlife | 383445 | [383445-fastlife.json](./383445-fastlife.json) |
+| Fastline Rivals | 426198 | [426198-fastline-rivals.json](./426198-fastline-rivals.json) |
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
 | FastPack | 293443 | [293443-fastpack.json](./293443-fastpack.json) |
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
@@ -3855,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fates & Constellations | 120534 | [120534-fates-and-constellations.json](./120534-fates-and-constellations.json) |
 | Fates Call: A New Beginning | 169480 | [169480-fates-call-a-new-beginning.json](./169480-fates-call-a-new-beginning.json) |
 | Fates Forever | 19247 | [19247-fates-forever.json](./19247-fates-forever.json) |
+| Fates Gamble | 426193 | [426193-fates-gamble.json](./426193-fates-gamble.json) |
 | Fates of Ort | 112857 | [112857-fates-of-ort.json](./112857-fates-of-ort.json) |
 | Fates: Determination | 224823 | [224823-fates-determination.json](./224823-fates-determination.json) |
 | Fatespun | 427731 | [427731-fatespun.json](./427731-fatespun.json) |
@@ -11191,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest | 346813 | [346813-forest.json](./346813-forest.json) |
 | Forest 3 | 381236 | [381236-forest-3.json](./381236-forest-3.json) |
 | Forest 6174 | 410354 | [410354-forest-6174.json](./410354-forest-6174.json) |
+| Forest 6174: Judy | 426182 | [426182-forest-6174-judy.json](./426182-forest-6174-judy.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
 | Forest Adventure | 247280 | [247280-forest-adventure.json](./247280-forest-adventure.json) |
 | Forest Adventure | 262578 | [262578-forest-adventure.json](./262578-forest-adventure.json) |
