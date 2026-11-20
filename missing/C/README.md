@@ -10615,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Deluxe Edition Upgrade Pack | 119968 | [119968-cities-skylines-deluxe-edition-upgrade-pack.json](./119968-cities-skylines-deluxe-edition-upgrade-pack.json) |
 | Cities: Skylines - Downtown Bundle | 215563 | [215563-cities-skylines-downtown-bundle.json](./215563-cities-skylines-downtown-bundle.json) |
 | Cities: Skylines - Downtown Radio | 241099 | [241099-cities-skylines-downtown-radio.json](./241099-cities-skylines-downtown-radio.json) |
+| Cities: Skylines - Expanded Edition | 422232 | [422232-cities-skylines-expanded-edition.json](./422232-cities-skylines-expanded-edition.json) |
 | Cities: Skylines - Financial Districts | 226303 | [226303-cities-skylines-financial-districts.json](./226303-cities-skylines-financial-districts.json) |
 | Cities: Skylines - Financial Districts Bundle | 231015 | [231015-cities-skylines-financial-districts-bundle.json](./231015-cities-skylines-financial-districts-bundle.json) |
 | Cities: Skylines - Green Cities | 119961 | [119961-cities-skylines-green-cities.json](./119961-cities-skylines-green-cities.json) |
@@ -13581,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldfire Keep | 9799 | [9799-coldfire-keep.json](./9799-coldfire-keep.json) |
 | ColdFortune | 204231 | [204231-coldfortune.json](./204231-coldfortune.json) |
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
+| Coldline: Disconnect | 422240 | [422240-coldline-disconnect.json](./422240-coldline-disconnect.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
 | ColdSide | 128834 | [128834-coldside.json](./128834-coldside.json) |
