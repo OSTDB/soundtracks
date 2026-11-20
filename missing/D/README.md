@@ -20619,6 +20619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy! | 113339 | [113339-dummy.json](./113339-dummy.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
+| Dump Chaos | 429169 | [429169-dump-chaos.json](./429169-dump-chaos.json) |
 | Dump of the Dead X | 368232 | [368232-dump-of-the-dead-x.json](./368232-dump-of-the-dead-x.json) |
 | Dump The Corpse | 288818 | [288818-dump-the-corpse.json](./288818-dump-the-corpse.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
