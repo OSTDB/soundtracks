@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayak Extreme | 209844 | [209844-kayak-extreme.json](./209844-kayak-extreme.json) |
 | Kayak League | 236467 | [236467-kayak-league.json](./236467-kayak-league.json) |
 | Kayak Photography Sim | 415109 | [415109-kayak-photography-sim.json](./415109-kayak-photography-sim.json) |
+| Kayak VR: Mirage | 157244 | [157244-kayak-vr-mirage.json](./157244-kayak-vr-mirage.json) |
 | Kayak VR: Mirage - Soča Valley | 305363 | [305363-kayak-vr-mirage-soca-valley.json](./305363-kayak-vr-mirage-soca-valley.json) |
 | Kayak with Friends | 418046 | [418046-kayak-with-friends.json](./418046-kayak-with-friends.json) |
 | Kayaking | 363097 | [363097-kayaking.json](./363097-kayaking.json) |
@@ -7198,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurusuku Shichauzo | 98054 | [98054-kurusuku-shichauzo.json](./98054-kurusuku-shichauzo.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kurwa Sprint | 329869 | [329869-kurwa-sprint.json](./329869-kurwa-sprint.json) |
+| Kusan: City of Wolves | 167419 | [167419-kusan-city-of-wolves.json](./167419-kusan-city-of-wolves.json) |
 | Kusari Doi: In October The Rain Never Stopped | 401991 | [401991-kusari-doi-in-october-the-rain-never-stopped.json](./401991-kusari-doi-in-october-the-rain-never-stopped.json) |
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
