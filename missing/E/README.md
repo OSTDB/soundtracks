@@ -7245,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ethos: Divinity's Curse | 201706 | [201706-ethos-divinitys-curse.json](./201706-ethos-divinitys-curse.json) |
 | Ethoterria's Last Soldier | 398042 | [398042-ethoterrias-last-soldier.json](./398042-ethoterrias-last-soldier.json) |
 | Ethra | 236489 | [236489-ethra.json](./236489-ethra.json) |
+| Ethral | 423557 | [423557-ethral.json](./423557-ethral.json) |
 | Ethyrial | 133073 | [133073-ethyrial.json](./133073-ethyrial.json) |
 | Eti Yami: Mekanik Istila | 92630 | [92630-eti-yami-mekanik-istila.json](./92630-eti-yami-mekanik-istila.json) |
 | Etihad Al Abtal (Heroes United) | 114631 | [114631-etihad-al-abtal-heroes-united.json](./114631-etihad-al-abtal-heroes-united.json) |
