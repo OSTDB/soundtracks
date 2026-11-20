@@ -5048,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris | 261476 | [261476-osiris.json](./261476-osiris.json) |
 | Osiris | 294900 | [294900-osiris.json](./294900-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
+| Osk | 122149 | [122149-osk.json](./122149-osk.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman | 41073 | [41073-osman.json](./41073-osman.json) |
 | Osman Gazi | 158311 | [158311-osman-gazi.json](./158311-osman-gazi.json) |
@@ -5733,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out There | 9539 | [9539-out-there.json](./9539-out-there.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
+| Out There: Oceans of Time | 122071 | [122071-out-there-oceans-of-time.json](./122071-out-there-oceans-of-time.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
 | Out There: Ω The Alliance | 341053 | [341053-out-there-the-alliance.json](./341053-out-there-the-alliance.json) |
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
