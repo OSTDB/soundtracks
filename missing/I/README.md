@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Cipher | 102988 | [102988-ink-cipher.json](./102988-ink-cipher.json) |
+| Ink Dreamers | 424968 | [424968-ink-dreamers.json](./424968-ink-dreamers.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Escape: Coven Conundrum | 310270 | [310270-ink-escape-coven-conundrum.json](./310270-ink-escape-coven-conundrum.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
