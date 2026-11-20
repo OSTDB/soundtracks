@@ -8565,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Up | 20312 | [20312-shape-up.json](./20312-shape-up.json) |
 | Shape Up Battle Run | 364454 | [364454-shape-up-battle-run.json](./364454-shape-up-battle-run.json) |
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
+| Shape Up! | 427317 | [427317-shape-up.json](./427317-shape-up.json) |
 | Shape VS Shapes | 155794 | [155794-shape-vs-shapes.json](./155794-shape-vs-shapes.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
@@ -17216,6 +17217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
 | Snake Effect | 280634 | [280634-snake-effect.json](./280634-snake-effect.json) |
 | Snake Escape | 226918 | [226918-snake-escape.json](./226918-snake-escape.json) |
+| Snake Escape | 427313 | [427313-snake-escape.json](./427313-snake-escape.json) |
 | Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake EX2 | 119435 | [119435-snake-ex2.json](./119435-snake-ex2.json) |
@@ -30949,6 +30951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Limey | 393225 | [393225-sticky-limey.json](./393225-sticky-limey.json) |
 | Sticky Linky | 53673 | [53673-sticky-linky.json](./53673-sticky-linky.json) |
+| Sticky Mechanic | 427306 | [427306-sticky-mechanic.json](./427306-sticky-mechanic.json) |
 | Sticky Monsters | 147082 | [147082-sticky-monsters.json](./147082-sticky-monsters.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
 | Sticky Paws | 123812 | [123812-sticky-paws.json](./123812-sticky-paws.json) |
