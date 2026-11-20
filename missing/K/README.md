@@ -757,7 +757,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kampf dem Virus | 421627 | [421627-kampf-dem-virus.json](./421627-kampf-dem-virus.json) |
 | Kampfgruppe | 25900 | [25900-kampfgruppe.json](./25900-kampfgruppe.json) |
 | Kamu's Offering | 149232 | [149232-kamus-offering.json](./149232-kamus-offering.json) |
-| Kamui | 10983 | [10983-kamui.json](./10983-kamui.json) |
 | Kamura: Kamigami to Chigiri Shisha | 292095 | [292095-kamura-kamigami-to-chigiri-shisha.json](./292095-kamura-kamigami-to-chigiri-shisha.json) |
 | Kamyla and the Scarlet Mage | 212036 | [212036-kamyla-and-the-scarlet-mage.json](./212036-kamyla-and-the-scarlet-mage.json) |
 | Kana | 303607 | [303607-kana.json](./303607-kana.json) |
@@ -2187,7 +2186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keshtat | 72368 | [72368-keshtat.json](./72368-keshtat.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen Daikaiju | 218231 | [218231-kessen-daikaiju.json](./218231-kessen-daikaiju.json) |
-| Kessen II | 10897 | [10897-kessen-ii.json](./10897-kessen-ii.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi | 37963 | [37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json](./37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json) |
 | Kessis and her Geeky Secret | 405932 | [405932-kessis-and-her-geeky-secret.json](./405932-kessis-and-her-geeky-secret.json) |
@@ -2840,7 +2838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikou Souhei Armodyne | 59076 | [59076-kikou-souhei-armodyne.json](./59076-kikou-souhei-armodyne.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
-| Kikstart II | 12658 | [12658-kikstart-ii.json](./12658-kikstart-ii.json) |
 | Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Basic | 56753 | [56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json](./56753-kikuite-oboeru-eitango-arc-no-kikutan-basic.json) |
 | Kikuite Oboeru Eitango: Arc No Kikutan Entry | 56751 | [56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json](./56751-kikuite-oboeru-eitango-arc-no-kikutan-entry.json) |
@@ -2912,8 +2909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Shot | 59639 | [59639-kill-shot.json](./59639-kill-shot.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill Spree | 175618 | [175618-kill-spree.json](./175618-kill-spree.json) |
-| Kill Strain | 11201 | [11201-kill-strain.json](./11201-kill-strain.json) |
-| Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill The Business | 363937 | [363937-kill-the-business.json](./363937-kill-the-business.json) |
@@ -3443,7 +3438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur II: The Role-Playing Wargame + Dead Legions | 313230 | [313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json](./313230-king-arthur-ii-the-role-playing-wargame-dead-legions.json) |
 | King Arthur Is Dead | 385299 | [385299-king-arthur-is-dead.json](./385299-king-arthur-is-dead.json) |
 | King Arthur Project | 252341 | [252341-king-arthur-project.json](./252341-king-arthur-project.json) |
-| King Arthur: Fallen Champions | 10484 | [10484-king-arthur-fallen-champions.json](./10484-king-arthur-fallen-champions.json) |
 | King Arthur: Knight's Tale | 139883 | [139883-king-arthur-knights-tale.json](./139883-king-arthur-knights-tale.json) |
 | King Arthur: Knight's Tale - Brigands Skirmish Pack | 227717 | [227717-king-arthur-knights-tale-brigands-skirmish-pack.json](./227717-king-arthur-knights-tale-brigands-skirmish-pack.json) |
 | King Arthur: Knight's Tale - Pict Skirmish Pack | 227718 | [227718-king-arthur-knights-tale-pict-skirmish-pack.json](./227718-king-arthur-knights-tale-pict-skirmish-pack.json) |
