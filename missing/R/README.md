@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Tactics | 21702 | [21702-ragnarok-tactics.json](./21702-ragnarok-tactics.json) |
 | Ragnarok: The Lost Memories | 175719 | [175719-ragnarok-the-lost-memories.json](./175719-ragnarok-the-lost-memories.json) |
 | Ragnarok: The New World | 364821 | [364821-ragnarok-the-new-world.json](./364821-ragnarok-the-new-world.json) |
+| Ragnarok: Twilight | 424316 | [424316-ragnarok-twilight.json](./424316-ragnarok-twilight.json) |
 | Ragnarok: Vikings at War | 107352 | [107352-ragnarok-vikings-at-war.json](./107352-ragnarok-vikings-at-war.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raised From Hell | 374018 | [374018-raised-from-hell.json](./374018-raised-from-hell.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raishi Konpeki no Shou | 145064 | [145064-raishi-konpeki-no-shou.json](./145064-raishi-konpeki-no-shou.json) |
+| Raisin Word-Connect | 424343 | [424343-raisin-word-connect.json](./424343-raisin-word-connect.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
 | Raising Archangel | 256133 | [256133-raising-archangel.json](./256133-raising-archangel.json) |
@@ -14990,6 +14992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar: The Battle of Argus | 21058 | [21058-rygar-the-battle-of-argus.json](./21058-rygar-the-battle-of-argus.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | Rygrad | 224722 | [224722-rygrad.json](./224722-rygrad.json) |
+| RyGT | 424075 | [424075-rygt.json](./424075-rygt.json) |
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rylayeh | 261479 | [261479-rylayeh.json](./261479-rylayeh.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
