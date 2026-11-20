@@ -20809,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tripods | 72927 | [72927-the-tripods.json](./72927-the-tripods.json) |
 | The Tritan Initiative | 43077 | [43077-the-tritan-initiative.json](./43077-the-tritan-initiative.json) |
 | The Triumphant Return of Diabolos | 157333 | [157333-the-triumphant-return-of-diabolos.json](./157333-the-triumphant-return-of-diabolos.json) |
+| The Trivia Show | 425731 | [425731-the-trivia-show.json](./425731-the-trivia-show.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
@@ -24060,6 +24061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideward | 419365 | [419365-tideward.json](./419365-tideward.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
+| Tidewild | 426116 | [426116-tidewild.json](./426116-tidewild.json) |
 | Tidewoken | 133334 | [133334-tidewoken.json](./133334-tidewoken.json) |
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy & Bright: Together at the Christmas Market | 421718 | [421718-tidy-and-bright-together-at-the-christmas-market.json](./421718-tidy-and-bright-together-at-the-christmas-market.json) |
@@ -27625,6 +27627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Love-Ru Trouble: Doki-doki! Rinkaigakkou-hen | 72594 | [72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json](./72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json) |
 | To Love-Ru: Waku-waku! Rinkangakkou-hen | 72593 | [72593-to-love-ru-waku-waku-rinkangakkou-hen.json](./72593-to-love-ru-waku-waku-rinkangakkou-hen.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
+| To Me, to Zoo! | 425715 | [425715-to-me-to-zoo.json](./425715-to-me-to-zoo.json) |
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
