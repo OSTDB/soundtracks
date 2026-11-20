@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T11:55:57.808Z",
-  "total_soundtracks": 3873,
+  "generated_at": "2026-11-20T13:15:56.415Z",
+  "total_soundtracks": 3874,
   "games": [
     {
       "igdb_id": 292844,
@@ -33043,6 +33043,20 @@
         {
           "album_name": "Rend (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2ZLYc6AjGshZitVV2wnFMP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8919,
+      "game_name": "Renoir",
+      "game_url": "https://ostdb.net/games/renoir",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733dc6f7e439d4f92563bb65b9",
+      "albums": [
+        {
+          "album_name": "Renoir (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6z9SP64nzXqs1PdOuOIP4P",
           "apple_music_url": "",
           "album_link_url": ""
         }
