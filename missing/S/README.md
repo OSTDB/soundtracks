@@ -7293,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
 | Sex Interview: Ice Cream | 340636 | [340636-sex-interview-ice-cream.json](./340636-sex-interview-ice-cream.json) |
+| Sex King: From Rags to Sexcess | 418768 | [418768-sex-king-from-rags-to-sexcess.json](./418768-sex-king-from-rags-to-sexcess.json) |
 | Sex Kitten Sim-Date | 293289 | [293289-sex-kitten-sim-date.json](./293289-sex-kitten-sim-date.json) |
 | Sex Kitten Sim-Date 2 | 305119 | [305119-sex-kitten-sim-date-2.json](./305119-sex-kitten-sim-date-2.json) |
 | Sex Kitten Sim-Date 3 | 305117 | [305117-sex-kitten-sim-date-3.json](./305117-sex-kitten-sim-date-3.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach Premium Resort | 22485 | [22485-sexy-beach-premium-resort.json](./22485-sexy-beach-premium-resort.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Beaches | 399349 | [399349-sexy-beaches.json](./399349-sexy-beaches.json) |
+| Sexy Beaches 2 | 418767 | [418767-sexy-beaches-2.json](./418767-sexy-beaches-2.json) |
 | Sexy Beats | 301656 | [301656-sexy-beats.json](./301656-sexy-beats.json) |
 | Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
@@ -24592,6 +24594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
 | SpellBound | 371571 | [371571-spellbound.json](./371571-spellbound.json) |
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
+| Spellbound & Shelved | 418802 | [418802-spellbound-and-shelved.json](./418802-spellbound-and-shelved.json) |
 | Spellbound 2 | 77039 | [77039-spellbound-2.json](./77039-spellbound-2.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
@@ -28902,6 +28905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starforge | 172038 | [172038-starforge.json](./172038-starforge.json) |
 | Starforge | 2649 | [2649-starforge.json](./2649-starforge.json) |
 | Starforge | 295305 | [295305-starforge.json](./295305-starforge.json) |
+| Starforge Pirate | 418803 | [418803-starforge-pirate.json](./418803-starforge-pirate.json) |
 | Starforge Reborn | 412072 | [412072-starforge-reborn.json](./412072-starforge-reborn.json) |
 | Starforged Legacy | 358574 | [358574-starforged-legacy.json](./358574-starforged-legacy.json) |
 | Starfox | 54519 | [54519-starfox.json](./54519-starfox.json) |
@@ -34630,6 +34634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoners War: Lost Centuria | 115479 | [115479-summoners-war-lost-centuria.json](./115479-summoners-war-lost-centuria.json) |
 | Summoners War: Rush | 350162 | [350162-summoners-war-rush.json](./350162-summoners-war-rush.json) |
 | SummonerVR | 74491 | [74491-summonervr.json](./74491-summonervr.json) |
+| Summoning PD: Reincarnated | 418800 | [418800-summoning-pd-reincarnated.json](./418800-summoning-pd-reincarnated.json) |
 | Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summons Board | 79407 | [79407-summons-board.json](./79407-summons-board.json) |
@@ -39711,6 +39716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Fantasia | 284605 | [284605-survivor-fantasia.json](./284605-survivor-fantasia.json) |
 | Survivor Girls | 277367 | [277367-survivor-girls.json](./277367-survivor-girls.json) |
 | Survivor Girls of Monster Dungeon | 417813 | [417813-survivor-girls-of-monster-dungeon.json](./417813-survivor-girls-of-monster-dungeon.json) |
+| Survivor Girls Sanctuary | 418842 | [418842-survivor-girls-sanctuary.json](./418842-survivor-girls-sanctuary.json) |
 | Survivor Heroes | 313222 | [313222-survivor-heroes.json](./313222-survivor-heroes.json) |
 | Survivor Idle Run | 248124 | [248124-survivor-idle-run.json](./248124-survivor-idle-run.json) |
 | Survivor In Rainbow Monster | 223897 | [223897-survivor-in-rainbow-monster.json](./223897-survivor-in-rainbow-monster.json) |
