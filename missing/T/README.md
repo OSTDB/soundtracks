@@ -8576,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Computer Quiz | 78999 | [78999-the-computer-quiz.json](./78999-the-computer-quiz.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
+| The Con | 22578 | [22578-the-con.json](./22578-the-con.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
 | The Concentration of Lust | 311448 | [311448-the-concentration-of-lust.json](./311448-the-concentration-of-lust.json) |
 | The Concept | 334265 | [334265-the-concept.json](./334265-the-concept.json) |
@@ -17902,6 +17903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reformatory | 330654 | [330654-the-reformatory.json](./330654-the-reformatory.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Regiment | 22577 | [22577-the-regiment.json](./22577-the-regiment.json) |
 | The Region | 114959 | [114959-the-region.json](./114959-the-region.json) |
 | The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
@@ -19002,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: H&M Fashion Stuff | 13132 | [13132-the-sims-2-h-and-m-fashion-stuff.json](./13132-the-sims-2-h-and-m-fashion-stuff.json) |
 | The Sims 2: Happy Holiday Pack | 13127 | [13127-the-sims-2-happy-holiday-pack.json](./13127-the-sims-2-happy-holiday-pack.json) |
 | The Sims 2: Happy Holiday Stuff | 13130 | [13130-the-sims-2-happy-holiday-stuff.json](./13130-the-sims-2-happy-holiday-stuff.json) |
+| The Sims 2: Holiday Party Pack | 22457 | [22457-the-sims-2-holiday-party-pack.json](./22457-the-sims-2-holiday-party-pack.json) |
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Kitchen & Bath Interior Design Stuff | 13134 | [13134-the-sims-2-kitchen-and-bath-interior-design-stuff.json](./13134-the-sims-2-kitchen-and-bath-interior-design-stuff.json) |
 | The Sims 2: Mansion & Garden Stuff | 13136 | [13136-the-sims-2-mansion-and-garden-stuff.json](./13136-the-sims-2-mansion-and-garden-stuff.json) |
