@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T03:26:06.944Z",
-  "total_soundtracks": 3865,
+  "generated_at": "2026-11-20T05:35:56.344Z",
+  "total_soundtracks": 3866,
   "games": [
     {
       "igdb_id": 292844,
@@ -44695,6 +44695,20 @@
         {
           "album_name": "Thrasher (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/13VytCzYtqIQfIPlBfU74c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14802,
+      "game_name": "ThreadSpace: Hyperbol",
+      "game_url": "https://ostdb.net/games/threadspace-hyperbol",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737a8809d25d4fa9ac2c80a351",
+      "albums": [
+        {
+          "album_name": "ThreadSpace: Hyperbol (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/48XrcqaGb27WylmzrXHi42",
           "apple_music_url": "",
           "album_link_url": ""
         }
