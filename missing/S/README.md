@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | Salt and Sails | 153921 | [153921-salt-and-sails.json](./153921-salt-and-sails.json) |
 | Salt and Sanctuary: Drowned Tome Edition | 136349 | [136349-salt-and-sanctuary-drowned-tome-edition.json](./136349-salt-and-sanctuary-drowned-tome-edition.json) |
+| Salt and Soil | 429688 | [429688-salt-and-soil.json](./429688-salt-and-soil.json) |
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
@@ -2910,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saviour of the Wasteland | 258959 | [258959-saviour-of-the-wasteland.json](./258959-saviour-of-the-wasteland.json) |
 | Savoir-Faire | 60128 | [60128-savoir-faire.json](./60128-savoir-faire.json) |
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
+| Savoury Cascade | 429701 | [429701-savoury-cascade.json](./429701-savoury-cascade.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Savvy Fisher | 260475 | [260475-savvy-fisher.json](./260475-savvy-fisher.json) |
 | Savvy Four | 256607 | [256607-savvy-four.json](./256607-savvy-four.json) |
@@ -4732,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Of Rifts | 279270 | [279270-sea-of-rifts.json](./279270-sea-of-rifts.json) |
 | Sea of Roses | 150722 | [150722-sea-of-roses.json](./150722-sea-of-roses.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
+| Sea of Shadows | 429691 | [429691-sea-of-shadows.json](./429691-sea-of-shadows.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
 | Sea of Squares | 96411 | [96411-sea-of-squares.json](./96411-sea-of-squares.json) |
 | Sea of Stars | 131890 | [131890-sea-of-stars.json](./131890-sea-of-stars.json) |
@@ -8611,6 +8614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
 | ShapeGrid | 189048 | [189048-shapegrid.json](./189048-shapegrid.json) |
+| ShapeGrow | 429617 | [429617-shapegrow.json](./429617-shapegrow.json) |
 | Shapeguard | 264023 | [264023-shapeguard.json](./264023-shapeguard.json) |
 | ShapeHero Factory | 250848 | [250848-shapehero-factory.json](./250848-shapehero-factory.json) |
 | Shapeland | 366298 | [366298-shapeland.json](./366298-shapeland.json) |
@@ -16911,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiterino | 300050 | [300050-smiterino.json](./300050-smiterino.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
+| Smith Legend | 429712 | [429712-smith-legend.json](./429712-smith-legend.json) |
 | Smith's Chronicles | 358868 | [358868-smiths-chronicles.json](./358868-smiths-chronicles.json) |
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
@@ -21280,6 +21285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort My Pigs | 421928 | [421928-sort-my-pigs.json](./421928-sort-my-pigs.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
+| Sort of Paradise | 429779 | [429779-sort-of-paradise.json](./429779-sort-of-paradise.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
@@ -37149,6 +37155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Me-Mail GB: Me-Mail Bear no Happy Mail Town | 282662 | [282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json](./282662-super-me-mail-gb-me-mail-bear-no-happy-mail-town.json) |
 | Super Meat Boy | 300461 | [300461-super-meat-boy.json](./300461-super-meat-boy.json) |
+| Super Meat Boy Again+ | 429716 | [429716-super-meat-boy-again.json](./429716-super-meat-boy-again.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: Collector's Edition | 333140 | [333140-super-meat-boy-collectors-edition.json](./333140-super-meat-boy-collectors-edition.json) |
 | Super Meat Boy: Race Mode | 158806 | [158806-super-meat-boy-race-mode.json](./158806-super-meat-boy-race-mode.json) |
