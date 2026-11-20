@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Packed: Couch Chaos | 198012 | [198012-get-packed-couch-chaos.json](./198012-get-packed-couch-chaos.json) |
 | Get Puzzled! | 69043 | [69043-get-puzzled.json](./69043-get-puzzled.json) |
 | Get Puzzled! | 69061 | [69061-get-puzzled.json](./69061-get-puzzled.json) |
+| Get Rammed | 421875 | [421875-get-rammed.json](./421875-get-rammed.json) |
 | Get Ready for Kindergarten | 230432 | [230432-get-ready-for-kindergarten.json](./230432-get-ready-for-kindergarten.json) |
 | Get Ready For School, Charlie Brown! | 209596 | [209596-get-ready-for-school-charlie-brown.json](./209596-get-ready-for-school-charlie-brown.json) |
 | Get Rektorized | 207522 | [207522-get-rektorized.json](./207522-get-rektorized.json) |
@@ -5948,6 +5949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorace: Phantastic Carnival | 67813 | [67813-glorace-phantastic-carnival.json](./67813-glorace-phantastic-carnival.json) |
 | Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
+| Glorgo's Microplastics Mine | 421904 | [421904-glorgos-microplastics-mine.json](./421904-glorgos-microplastics-mine.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria in Excelsis Deo | 74751 | [74751-gloria-in-excelsis-deo.json](./74751-gloria-in-excelsis-deo.json) |
 | Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
@@ -6624,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOATier.io | 414528 | [414528-goatier-io.json](./414528-goatier-io.json) |
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
+| Goatquizz | 421893 | [421893-goatquizz.json](./421893-goatquizz.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 214834 | [214834-gob.json](./214834-gob.json) |
