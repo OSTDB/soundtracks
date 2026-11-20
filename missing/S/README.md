@@ -12994,6 +12994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Mazes | 105806 | [105806-simply-mazes.json](./105806-simply-mazes.json) |
 | Simply Minesweeper | 85369 | [85369-simply-minesweeper.json](./85369-simply-minesweeper.json) |
 | Simply Moose | 270919 | [270919-simply-moose.json](./270919-simply-moose.json) |
+| Simply Padel | 422561 | [422561-simply-padel.json](./422561-simply-padel.json) |
 | Simply Parkour | 169742 | [169742-simply-parkour.json](./169742-simply-parkour.json) |
 | Simply Phobos | 275265 | [275265-simply-phobos.json](./275265-simply-phobos.json) |
 | Simply Purple | 252337 | [252337-simply-purple.json](./252337-simply-purple.json) |
@@ -26845,6 +26846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
 | Square City Builder | 265291 | [265291-square-city-builder.json](./265291-square-city-builder.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
+| Square Computer | 422591 | [422591-square-computer.json](./422591-square-computer.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
 | Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
 | Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
@@ -27311,6 +27313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacko | 409248 | [409248-stacko.json](./409248-stacko.json) |
 | Stacko Level Pack | 409249 | [409249-stacko-level-pack.json](./409249-stacko-level-pack.json) |
 | Stackoban | 184351 | [184351-stackoban.json](./184351-stackoban.json) |
+| StackOn | 422566 | [422566-stackon.json](./422566-stackon.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
 | Stackpot! | 408551 | [408551-stackpot.json](./408551-stackpot.json) |
 | Stackronym | 360248 | [360248-stackronym.json](./360248-stackronym.json) |
