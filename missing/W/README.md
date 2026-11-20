@@ -1597,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
 | Warhammer 40,000: Battlesector - Black Legion | 380947 | [380947-warhammer-40-000-battlesector-black-legion.json](./380947-warhammer-40-000-battlesector-black-legion.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
+| Warhammer 40,000: Battlesector - Courage & Catastrophe | 430616 | [430616-warhammer-40-000-battlesector-courage-and-catastrophe.json](./430616-warhammer-40-000-battlesector-courage-and-catastrophe.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
 | Warhammer 40,000: Battlesector - Orks | 250908 | [250908-warhammer-40-000-battlesector-orks.json](./250908-warhammer-40-000-battlesector-orks.json) |
@@ -7109,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Join the Club | 78838 | [78838-winx-club-join-the-club.json](./78838-winx-club-join-the-club.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
 | Winx Club: Mission Enchantix | 78837 | [78837-winx-club-mission-enchantix.json](./78837-winx-club-mission-enchantix.json) |
+| Winx Club: Moonlight Quest | 430605 | [430605-winx-club-moonlight-quest.json](./430605-winx-club-moonlight-quest.json) |
 | WinX Club: Quest for the Codex | 49457 | [49457-winx-club-quest-for-the-codex.json](./49457-winx-club-quest-for-the-codex.json) |
 | Winx Club: Saving Alfea | 61159 | [61159-winx-club-saving-alfea.json](./61159-winx-club-saving-alfea.json) |
 | Winx Club: The Magic Is Back | 381167 | [381167-winx-club-the-magic-is-back.json](./381167-winx-club-the-magic-is-back.json) |
