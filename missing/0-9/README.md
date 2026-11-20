@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999 Hidden Cats: Brazil Together | 349281 | [349281-999-hidden-cats-brazil-together.json](./349281-999-hidden-cats-brazil-together.json) |
 | 9999 | 423334 | [423334-9999.json](./423334-9999.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
+| 9999+ Weapons: Idle RPG | 424947 | [424947-9999-weapons-idle-rpg.json](./424947-9999-weapons-idle-rpg.json) |
 | 99999 Ryo | 359668 | [359668-99999-ryo.json](./359668-99999-ryo.json) |
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
