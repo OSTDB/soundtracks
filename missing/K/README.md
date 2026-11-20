@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
 | Kagerou Densetsu | 48448 | [48448-kagerou-densetsu.json](./48448-kagerou-densetsu.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
+| Kageshita ni Naru: Beneath the Shadow | 426761 | [426761-kageshita-ni-naru-beneath-the-shadow.json](./426761-kageshita-ni-naru-beneath-the-shadow.json) |
 | Kagi wo Kakushita Kago no Tori: Bird in Cage Hiding the Key | 260120 | [260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json](./260120-kagi-wo-kakushita-kago-no-tori-bird-in-cage-hiding-the-key.json) |
 | Kagiana Satsujin Jiken | 137798 | [137798-kagiana-satsujin-jiken.json](./137798-kagiana-satsujin-jiken.json) |
 | Kagidoko: A Deep Learning Horror Game | 275514 | [275514-kagidoko-a-deep-learning-horror-game.json](./275514-kagidoko-a-deep-learning-horror-game.json) |
