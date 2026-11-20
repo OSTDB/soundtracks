@@ -7033,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Man | 226005 | [226005-delivery-man.json](./226005-delivery-man.json) |
 | Delivery man simulator | 99628 | [99628-delivery-man-simulator.json](./99628-delivery-man-simulator.json) |
 | Delivery Mayhem | 296888 | [296888-delivery-mayhem.json](./296888-delivery-mayhem.json) |
+| Delivery Mo | 429707 | [429707-delivery-mo.json](./429707-delivery-mo.json) |
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
 | Delivery Mystery | 376032 | [376032-delivery-mystery.json](./376032-delivery-mystery.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
@@ -11520,6 +11521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
 | Dirt Showdown | 7966 | [7966-dirt-showdown.json](./7966-dirt-showdown.json) |
+| Dirt Town | 429690 | [429690-dirt-town.json](./429690-dirt-town.json) |
 | Dirt Track Go Karting! | 217661 | [217661-dirt-track-go-karting.json](./217661-dirt-track-go-karting.json) |
 | Dirt Track Racer | 14034 | [14034-dirt-track-racer.json](./14034-dirt-track-racer.json) |
 | Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
@@ -13914,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | DokiSui: Doki-doki Suikoden | 278827 | [278827-dokisui-doki-doki-suikoden.json](./278827-dokisui-doki-doki-suikoden.json) |
+| Dokitale: Last Goodbye to the Literature Club | 429693 | [429693-dokitale-last-goodbye-to-the-literature-club.json](./429693-dokitale-last-goodbye-to-the-literature-club.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkaebi Kiugi: Bangchihyeong Geim | 228166 | [228166-dokkaebi-kiugi-bangchihyeong-geim.json](./228166-dokkaebi-kiugi-bangchihyeong-geim.json) |
 | Dokkaebi-ga Ganda | 39916 | [39916-dokkaebi-ga-ganda.json](./39916-dokkaebi-ga-ganda.json) |
