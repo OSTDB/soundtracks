@@ -5384,8 +5384,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDEF: Base Defenders | 179329 | [179329-bdef-base-defenders.json](./179329-bdef-base-defenders.json) |
 | BDSM Clicker | 355136 | [355136-bdsm-clicker.json](./355136-bdsm-clicker.json) |
 | BDSM Fuel Station: Interactive Physics Simulation | 326287 | [326287-bdsm-fuel-station-interactive-physics-simulation.json](./326287-bdsm-fuel-station-interactive-physics-simulation.json) |
+| BDSM History | 418815 | [418815-bdsm-history.json](./418815-bdsm-history.json) |
 | BDSM Love | 237165 | [237165-bdsm-love.json](./237165-bdsm-love.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
+| BDSM Sex | 418814 | [418814-bdsm-sex.json](./418814-bdsm-sex.json) |
 | BDSM Sex: Episode 1 | 294195 | [294195-bdsm-sex-episode-1.json](./294195-bdsm-sex-episode-1.json) |
 | BDSM Sex: Episode 2 | 295381 | [295381-bdsm-sex-episode-2.json](./295381-bdsm-sex-episode-2.json) |
 | BDSM Sex: Episode 3 | 295382 | [295382-bdsm-sex-episode-3.json](./295382-bdsm-sex-episode-3.json) |
