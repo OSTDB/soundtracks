@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
 | Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
 | Quadbots: The Rise of Chrono | 296393 | [296393-quadbots-the-rise-of-chrono.json](./296393-quadbots-the-rise-of-chrono.json) |
+| Quadcopter Pilot Challenge | 85358 | [85358-quadcopter-pilot-challenge.json](./85358-quadcopter-pilot-challenge.json) |
 | QuadcopterFx Simulator | 89707 | [89707-quadcopterfx-simulator.json](./89707-quadcopterfx-simulator.json) |
 | Quadcubes | 357178 | [357178-quadcubes.json](./357178-quadcubes.json) |
 | Quaddro 2 | 90275 | [90275-quaddro-2.json](./90275-quaddro-2.json) |
