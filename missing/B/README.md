@@ -7965,6 +7965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware of Light | 297355 | [297355-beware-of-light.json](./297355-beware-of-light.json) |
 | Beware of Space Dragons | 348423 | [348423-beware-of-space-dragons.json](./348423-beware-of-space-dragons.json) |
 | Beware of the Bad Seed | 90504 | [90504-beware-of-the-bad-seed.json](./90504-beware-of-the-bad-seed.json) |
+| Beware of the Black Fleet | 24301 | [24301-beware-of-the-black-fleet.json](./24301-beware-of-the-black-fleet.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
 | Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
 | Beware the Bully Redux | 211451 | [211451-beware-the-bully-redux.json](./211451-beware-the-bully-redux.json) |
@@ -8598,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Rigs: Bus Driver | 25456 | [25456-big-city-rigs-bus-driver.json](./25456-big-city-rigs-bus-driver.json) |
 | Big City Rigs: Garbage Truck | 52462 | [52462-big-city-rigs-garbage-truck.json](./52462-big-city-rigs-garbage-truck.json) |
 | Big City Rigs: Garbage Truck Driver | 153478 | [153478-big-city-rigs-garbage-truck-driver.json](./153478-big-city-rigs-garbage-truck-driver.json) |
+| Big City Stories | 24524 | [24524-big-city-stories.json](./24524-big-city-stories.json) |
 | Big Cock Simulator | 156194 | [156194-big-cock-simulator.json](./156194-big-cock-simulator.json) |
 | Big Company: Skytopia | 105526 | [105526-big-company-skytopia.json](./105526-big-company-skytopia.json) |
 | Big Craft Exploration 2 | 105839 | [105839-big-craft-exploration-2.json](./105839-big-craft-exploration-2.json) |
@@ -16485,6 +16487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxxyQuest: The Gathering Storm | 143929 | [143929-boxxyquest-the-gathering-storm.json](./143929-boxxyquest-the-gathering-storm.json) |
 | Boxy & Prisma | 226083 | [226083-boxy-and-prisma.json](./226083-boxy-and-prisma.json) |
 | Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
+| Boxy Kingdom | 24536 | [24536-boxy-kingdom.json](./24536-boxy-kingdom.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
 | Boxzle | 85006 | [85006-boxzle.json](./85006-boxzle.json) |
@@ -21244,6 +21247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
+| Bye-Bye, Wacky Planet | 25787 | [25787-bye-bye-wacky-planet.json](./25787-bye-bye-wacky-planet.json) |
 | Bye, Bye Birdie | 385515 | [385515-bye-bye-birdie.json](./385515-bye-bye-birdie.json) |
 | Bye: Integral | 403994 | [403994-bye-integral.json](./403994-bye-integral.json) |
 | Bye!Den, Go! | 338459 | [338459-bye-den-go.json](./338459-bye-den-go.json) |
