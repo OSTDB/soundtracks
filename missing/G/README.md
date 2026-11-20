@@ -5388,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Up the Ghost | 387835 | [387835-give-up-the-ghost.json](./387835-give-up-the-ghost.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Give Up, Robot | 147049 | [147049-give-up-robot.json](./147049-give-up-robot.json) |
+| Give Us Back Gravity | 424757 | [424757-give-us-back-gravity.json](./424757-give-us-back-gravity.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
 | Giza | 137839 | [137839-giza.json](./137839-giza.json) |
