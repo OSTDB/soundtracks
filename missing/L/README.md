@@ -6713,7 +6713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
-| Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Broken Robots | 113975 | [113975-little-broken-robots.json](./113975-little-broken-robots.json) |
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
 | Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
@@ -11308,7 +11307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Lander | 16973 | [16973-lunar-lander.json](./16973-lunar-lander.json) |
 | Lunar Lander | 187373 | [187373-lunar-lander.json](./187373-lunar-lander.json) |
 | Lunar Lander | 276532 | [276532-lunar-lander.json](./276532-lunar-lander.json) |
-| Lunar Lander | 9128 | [9128-lunar-lander.json](./9128-lunar-lander.json) |
 | Lunar Lander Beyond | 260301 | [260301-lunar-lander-beyond.json](./260301-lunar-lander-beyond.json) |
 | Lunar Lander Beyond: Deluxe Edition | 284477 | [284477-lunar-lander-beyond-deluxe-edition.json](./284477-lunar-lander-beyond-deluxe-edition.json) |
 | Lunar Lander Mission | 265758 | [265758-lunar-lander-mission.json](./265758-lunar-lander-mission.json) |
