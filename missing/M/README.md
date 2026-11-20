@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo | 84022 | [84022-marco-polo.json](./84022-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
+| Marco Polo Shotgun | 423165 | [423165-marco-polo-shotgun.json](./423165-marco-polo-shotgun.json) |
 | Marco Polo: Pool Party | 405234 | [405234-marco-polo-pool-party.json](./405234-marco-polo-pool-party.json) |
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
 | Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
@@ -9891,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
+| Melt Down | 423162 | [423162-melt-down.json](./423162-melt-down.json) |
 | Melt Them All | 341224 | [341224-melt-them-all.json](./341224-melt-them-all.json) |
 | Meltdown | 282763 | [282763-meltdown.json](./282763-meltdown.json) |
 | Meltdown | 415681 | [415681-meltdown.json](./415681-meltdown.json) |
@@ -15616,6 +15618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misao | 47097 | [47097-misao.json](./47097-misao.json) |
 | Misao: 2024 HD Remaster | 313167 | [313167-misao-2024-hd-remaster.json](./313167-misao-2024-hd-remaster.json) |
 | Misao: Definitive Edition | 74567 | [74567-misao-definitive-edition.json](./74567-misao-definitive-edition.json) |
+| Misblood | 423150 | [423150-misblood.json](./423150-misblood.json) |
 | MisBloody | 280620 | [280620-misbloody.json](./280620-misbloody.json) |
 | Misc Timelines | 126824 | [126824-misc-timelines.json](./126824-misc-timelines.json) |
 | Misc. | 159079 | [159079-misc.json](./159079-misc.json) |
