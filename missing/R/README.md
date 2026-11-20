@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RandoMine | 221098 | [221098-randomine.json](./221098-randomine.json) |
 | Randomish | 217400 | [217400-randomish.json](./217400-randomish.json) |
 | Randomish Races | 144027 | [144027-randomish-races.json](./144027-randomish-races.json) |
+| Randomization of Souls | 423689 | [423689-randomization-of-souls.json](./423689-randomization-of-souls.json) |
 | Randomizator | 44300 | [44300-randomizator.json](./44300-randomizator.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randomlife Reborn | 347587 | [347587-randomlife-reborn.json](./347587-randomlife-reborn.json) |
@@ -5993,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeat the image: Animals | 106425 | [106425-repeat-the-image-animals.json](./106425-repeat-the-image-animals.json) |
 | Repeat: A Memory Game | 252554 | [252554-repeat-a-memory-game.json](./252554-repeat-a-memory-game.json) |
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
+| Repeating Society | 423695 | [423695-repeating-society.json](./423695-repeating-society.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
 | Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
 | Repel the Rifts | 367719 | [367719-repel-the-rifts.json](./367719-repel-the-rifts.json) |
@@ -7439,9 +7441,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revengeful Ghost | 351518 | [351518-revengeful-ghost.json](./351518-revengeful-ghost.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
+| Revenger | 423675 | [423675-revenger.json](./423675-revenger.json) |
 | Revenger 84 | 306862 | [306862-revenger-84.json](./306862-revenger-84.json) |
 | Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
+| Revenger2 | 423682 | [423682-revenger2.json](./423682-revenger2.json) |
 | Revenger3 | 403349 | [403349-revenger3.json](./403349-revenger3.json) |
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revengers of Vengeance | 46411 | [46411-revengers-of-vengeance.json](./46411-revengers-of-vengeance.json) |
