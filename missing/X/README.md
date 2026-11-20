@@ -901,7 +901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | XIII | 1987 | [1987-xiii.json](./1987-xiii.json) |
 | XIII Century: Blood of Europe | 9311 | [9311-xiii-century-blood-of-europe.json](./9311-xiii-century-blood-of-europe.json) |
-| XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | XIII Century: Gold Edition | 27847 | [27847-xiii-century-gold-edition.json](./27847-xiii-century-gold-edition.json) |
 | XIII: A Final Game of Tarot With Death | 337924 | [337924-xiii-a-final-game-of-tarot-with-death.json](./337924-xiii-a-final-game-of-tarot-with-death.json) |
 | XIII: Covert Identity | 130412 | [130412-xiii-covert-identity.json](./130412-xiii-covert-identity.json) |
