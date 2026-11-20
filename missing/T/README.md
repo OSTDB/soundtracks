@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Dungeon Descent | 387449 | [387449-the-case-of-the-dungeon-descent.json](./387449-the-case-of-the-dungeon-descent.json) |
 | The Case of the Golden Idol: Complete Edition | 264814 | [264814-the-case-of-the-golden-idol-complete-edition.json](./264814-the-case-of-the-golden-idol-complete-edition.json) |
 | The Case of the Golden Idol: Spider of Lanka Bundle | 251480 | [251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json](./251480-the-case-of-the-golden-idol-spider-of-lanka-bundle.json) |
+| The Case of the Last Shawarma | 421907 | [421907-the-case-of-the-last-shawarma.json](./421907-the-case-of-the-last-shawarma.json) |
 | The Case of the Missing Heirloom | 371399 | [371399-the-case-of-the-missing-heirloom.json](./371399-the-case-of-the-missing-heirloom.json) |
 | The Case of the Muffin Diver | 70371 | [70371-the-case-of-the-muffin-diver.json](./70371-the-case-of-the-muffin-diver.json) |
 | The Case of the Murdered Matriarch | 302500 | [302500-the-case-of-the-murdered-matriarch.json](./302500-the-case-of-the-murdered-matriarch.json) |
@@ -8428,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coagula Contest 2 | 271517 | [271517-the-coagula-contest-2.json](./271517-the-coagula-contest-2.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
 | The Coal Room | 323617 | [323617-the-coal-room.json](./323617-the-coal-room.json) |
+| The Coast is Clear: Tidy up the Beach! | 421966 | [421966-the-coast-is-clear-tidy-up-the-beach.json](./421966-the-coast-is-clear-tidy-up-the-beach.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
 | The Cockpit | 41755 | [41755-the-cockpit.json](./41755-the-cockpit.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
@@ -8528,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Commission: Organized Crime Grand Strategy | 107635 | [107635-the-commission-organized-crime-grand-strategy.json](./107635-the-commission-organized-crime-grand-strategy.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
+| The Company | 421909 | [421909-the-company.json](./421909-the-company.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
 | The Company of Copperhill | 393162 | [393162-the-company-of-copperhill.json](./393162-the-company-of-copperhill.json) |
 | The Company of Myself | 101723 | [101723-the-company-of-myself.json](./101723-the-company-of-myself.json) |
@@ -8568,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confraternity of Toast | 176652 | [176652-the-confraternity-of-toast.json](./176652-the-confraternity-of-toast.json) |
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
 | The Conjurer | 53705 | [53705-the-conjurer.json](./53705-the-conjurer.json) |
+| The Conjuring: Unspoken | 421960 | [421960-the-conjuring-unspoken.json](./421960-the-conjuring-unspoken.json) |
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
 | The Conquest of Go | 132933 | [132933-the-conquest-of-go.json](./132933-the-conquest-of-go.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
@@ -17713,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
 | The Rake: Rust Dead Survival | 276050 | [276050-the-rake-rust-dead-survival.json](./276050-the-rake-rust-dead-survival.json) |
+| The Ramen Bar | 421963 | [421963-the-ramen-bar.json](./421963-the-ramen-bar.json) |
 | The Ramen Prince | 171800 | [171800-the-ramen-prince.json](./171800-the-ramen-prince.json) |
 | The Ramen Sensei | 146944 | [146944-the-ramen-sensei.json](./146944-the-ramen-sensei.json) |
 | The Ramen Sensei 2 | 335757 | [335757-the-ramen-sensei-2.json](./335757-the-ramen-sensei-2.json) |
@@ -23300,6 +23305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threaded | 191001 | [191001-threaded.json](./191001-threaded.json) |
 | Threaded Dungeons | 335568 | [335568-threaded-dungeons.json](./335568-threaded-dungeons.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
+| Threadmill | 421929 | [421929-threadmill.json](./421929-threadmill.json) |
 | Threads of Destiny | 33921 | [33921-threads-of-destiny.json](./33921-threads-of-destiny.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
 | Threads of Karma | 338325 | [338325-threads-of-karma.json](./338325-threads-of-karma.json) |
