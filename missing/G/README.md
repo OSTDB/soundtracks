@@ -6025,6 +6025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
 | Glow Hockey 2L | 88062 | [88062-glow-hockey-2l.json](./88062-glow-hockey-2l.json) |
 | Glow Hockey HD - 2 Player Neon Light Air Hockey | 103546 | [103546-glow-hockey-hd-2-player-neon-light-air-hockey.json](./103546-glow-hockey-hd-2-player-neon-light-air-hockey.json) |
+| Glow in the Shadows | 420706 | [420706-glow-in-the-shadows.json](./420706-glow-in-the-shadows.json) |
 | Glow Journey | 339310 | [339310-glow-journey.json](./339310-glow-journey.json) |
 | Glow of Honeydew | 395182 | [395182-glow-of-honeydew.json](./395182-glow-of-honeydew.json) |
 | Glow Puzzle | 96568 | [96568-glow-puzzle.json](./96568-glow-puzzle.json) |
@@ -8791,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Kingdom | 11358 | [11358-graffiti-kingdom.json](./11358-graffiti-kingdom.json) |
 | Graffiti Man | 73155 | [73155-graffiti-man.json](./73155-graffiti-man.json) |
+| Graffiti Rush | 420233 | [420233-graffiti-rush.json](./420233-graffiti-rush.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | Graffiti Smash | 98559 | [98559-graffiti-smash.json](./98559-graffiti-smash.json) |
 | GraFi | 117476 | [117476-grafi.json](./117476-grafi.json) |
@@ -9542,6 +9544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
 | Grave Orbit | 419081 | [419081-grave-orbit.json](./419081-grave-orbit.json) |
 | Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
+| Grave Profits | 420225 | [420225-grave-profits.json](./420225-grave-profits.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: Redux- part 1 | 35553 | [35553-grave-prosperity-redux-part-1.json](./35553-grave-prosperity-redux-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
@@ -10483,6 +10486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Matter | 78518 | [78518-grey-matter.json](./78518-grey-matter.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
 | Grey Plague | 133572 | [133572-grey-plague.json](./133572-grey-plague.json) |
+| Grey Prince | 420166 | [420166-grey-prince.json](./420166-grey-prince.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Tower | 171230 | [171230-grey-tower.json](./171230-grey-tower.json) |
