@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Drop Brick Breaker | 421185 | [421185-water-drop-brick-breaker.json](./421185-water-drop-brick-breaker.json) |
+| Water Drop Brick Breaker: Orange Skin Pack | 426197 | [426197-water-drop-brick-breaker-orange-skin-pack.json](./426197-water-drop-brick-breaker-orange-skin-pack.json) |
 | Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
 | Water Festa | 291320 | [291320-water-festa.json](./291320-water-festa.json) |
 | Water Fire | 277688 | [277688-water-fire.json](./277688-water-fire.json) |
@@ -9032,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordSearch Story: Chapter 1 | 213325 | [213325-wordsearch-story-chapter-1.json](./213325-wordsearch-story-chapter-1.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordsmith | 224682 | [224682-wordsmith.json](./224682-wordsmith.json) |
+| Wordsmithia | 426179 | [426179-wordsmithia.json](./426179-wordsmithia.json) |
 | Wordsmyth | 191315 | [191315-wordsmyth.json](./191315-wordsmyth.json) |
 | WordsNoir | 388770 | [388770-wordsnoir.json](./388770-wordsnoir.json) |
 | Wordsock Classic | 253431 | [253431-wordsock-classic.json](./253431-wordsock-classic.json) |
