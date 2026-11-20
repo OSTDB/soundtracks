@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Island | 131762 | [131762-rain-island.json](./131762-rain-island.json) |
 | Rain Island: Orange | 152445 | [152445-rain-island-orange.json](./152445-rain-island-orange.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
+| Rain Memory: Amayadori | 421921 | [421921-rain-memory-amayadori.json](./421921-rain-memory-amayadori.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Awakening | 410540 | [410540-rain-of-awakening.json](./410540-rain-of-awakening.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
@@ -13035,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Routemania | 221114 | [221114-routemania.json](./221114-routemania.json) |
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routes | 112509 | [112509-routes.json](./112509-routes.json) |
+| Routes and Forges | 421955 | [421955-routes-and-forges.json](./421955-routes-and-forges.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
 | Routine | 134160 | [134160-routine.json](./134160-routine.json) |
 | Routine | 308460 | [308460-routine.json](./308460-routine.json) |
