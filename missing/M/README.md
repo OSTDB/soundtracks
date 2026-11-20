@@ -19644,6 +19644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Shift | 309155 | [309155-morning-shift.json](./309155-morning-shift.json) |
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
 | Morning Star | 327483 | [327483-morning-star.json](./327483-morning-star.json) |
+| Morning Star | 427314 | [427314-morning-star.json](./427314-morning-star.json) |
 | Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
 | Morning's Wrath | 72259 | [72259-mornings-wrath.json](./72259-mornings-wrath.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
@@ -24868,6 +24869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: 13th Skull | 5515 | [5515-mystery-case-files-13th-skull.json](./5515-mystery-case-files-13th-skull.json) |
 | Mystery Case Files: 13th Skull - Collector's Edition | 31691 | [31691-mystery-case-files-13th-skull-collectors-edition.json](./31691-mystery-case-files-13th-skull-collectors-edition.json) |
 | Mystery Case Files: A Crime in Reflection - Collector's Edition | 283552 | [283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json](./283552-mystery-case-files-a-crime-in-reflection-collectors-edition.json) |
+| Mystery Case Files: Agent X | 427043 | [427043-mystery-case-files-agent-x.json](./427043-mystery-case-files-agent-x.json) |
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
