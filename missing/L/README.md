@@ -3193,7 +3193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
 | Legend: Ashita he no Tsubasa | 334883 | [334883-legend-ashita-he-no-tsubasa.json](./334883-legend-ashita-he-no-tsubasa.json) |
-| Legend: Hand of God | 15793 | [15793-legend-hand-of-god.json](./15793-legend-hand-of-god.json) |
 | Legend: King's Legacy II | 98119 | [98119-legend-kings-legacy-ii.json](./98119-legend-kings-legacy-ii.json) |
 | Legend: Legacy of the Dragons | 71187 | [71187-legend-legacy-of-the-dragons.json](./71187-legend-legacy-of-the-dragons.json) |
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
@@ -5473,7 +5472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light No Fire | 279655 | [279655-light-no-fire.json](./279655-light-no-fire.json) |
 | Light Odyssey | 252347 | [252347-light-odyssey.json](./252347-light-odyssey.json) |
 | Light of Alariya | 236431 | [236431-light-of-alariya.json](./236431-light-of-alariya.json) |
-| Light of Altair | 16041 | [16041-light-of-altair.json](./16041-light-of-altair.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
 | Light of Coco | 250750 | [250750-light-of-coco.json](./250750-light-of-coco.json) |
@@ -10640,7 +10638,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid: A Game About Dreams | 161471 | [161471-lucid-a-game-about-dreams.json](./161471-lucid-a-game-about-dreams.json) |
 | Lucid: Parables of the Ubermensch | 151384 | [151384-lucid-parables-of-the-ubermensch.json](./151384-lucid-parables-of-the-ubermensch.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
-| Lucidity | 15101 | [15101-lucidity.json](./15101-lucidity.json) |
 | Lucido Cancels Everything | 295309 | [295309-lucido-cancels-everything.json](./295309-lucido-cancels-everything.json) |
 | Lucidscape | 141067 | [141067-lucidscape.json](./141067-lucidscape.json) |
 | Lucidus Mortem | 154075 | [154075-lucidus-mortem.json](./154075-lucidus-mortem.json) |
@@ -11447,7 +11444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunistice | 139168 | [139168-lunistice.json](./139168-lunistice.json) |
 | Lunistice 1.5: Accel Coda | 280015 | [280015-lunistice-1-5-accel-coda.json](./280015-lunistice-1-5-accel-coda.json) |
 | Lunium | 282674 | [282674-lunium.json](./282674-lunium.json) |
-| Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Lunokhod | 419272 | [419272-lunokhod.json](./419272-lunokhod.json) |
 | Lunorbit | 342850 | [342850-lunorbit.json](./342850-lunorbit.json) |
 | Lunorbit Deluxe | 342852 | [342852-lunorbit-deluxe.json](./342852-lunorbit-deluxe.json) |
