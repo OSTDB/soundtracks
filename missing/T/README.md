@@ -11577,6 +11577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godbeast | 108299 | [108299-the-godbeast.json](./108299-the-godbeast.json) |
 | The Goddess of Time and the Ice Princess: Episode 1 | 170735 | [170735-the-goddess-of-time-and-the-ice-princess-episode-1.json](./170735-the-goddess-of-time-and-the-ice-princess-episode-1.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
+| The Goddess Told Me: Steal That Loaf of Bread | 422571 | [422571-the-goddess-told-me-steal-that-loaf-of-bread.json](./422571-the-goddess-told-me-steal-that-loaf-of-bread.json) |
 | The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
 | The Godfather | 2482 | [2482-the-godfather.json](./2482-the-godfather.json) |
@@ -12005,6 +12006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hall | 399025 | [399025-the-hall.json](./399025-the-hall.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halley Project: A Mission in Our Solar System | 12607 | [12607-the-halley-project-a-mission-in-our-solar-system.json](./12607-the-halley-project-a-mission-in-our-solar-system.json) |
+| The Halloway Haunting | 422585 | [422585-the-halloway-haunting.json](./422585-the-halloway-haunting.json) |
 | The Hallowed Garden | 321701 | [321701-the-hallowed-garden.json](./321701-the-hallowed-garden.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
 | The Halloween Incident | 368222 | [368222-the-halloween-incident.json](./368222-the-halloween-incident.json) |
@@ -28384,6 +28386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toll: The Ferryman's Ledger | 415566 | [415566-toll-the-ferrymans-ledger.json](./415566-toll-the-ferrymans-ledger.json) |
 | Tollan Survivors | 345205 | [345205-tollan-survivors.json](./345205-tollan-survivors.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
+| Tollmire | 422562 | [422562-tollmire.json](./422562-tollmire.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tolom | 346361 | [346361-tolom.json](./346361-tolom.json) |
 | Tölt | 350931 | [350931-tolt.json](./350931-tolt.json) |
@@ -36891,6 +36894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukue de Dodgeball | 144666 | [144666-tsukue-de-dodgeball.json](./144666-tsukue-de-dodgeball.json) |
 | Tsukumo Onna Aoe | 77723 | [77723-tsukumo-onna-aoe.json](./77723-tsukumo-onna-aoe.json) |
 | Tsukumo Reiko's Summer Holidays | 394163 | [394163-tsukumo-reikos-summer-holidays.json](./394163-tsukumo-reikos-summer-holidays.json) |
+| Tsukumo Snap! | 422567 | [422567-tsukumo-snap.json](./422567-tsukumo-snap.json) |
 | Tsukumobake | 183452 | [183452-tsukumobake.json](./183452-tsukumobake.json) |
 | Tsukumogami | 16819 | [16819-tsukumogami.json](./16819-tsukumogami.json) |
 | Tsukumogamis! | 272870 | [272870-tsukumogamis.json](./272870-tsukumogamis.json) |
