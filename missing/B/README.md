@@ -13144,6 +13144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons Supermonkey 2 | 247123 | [247123-bloons-supermonkey-2.json](./247123-bloons-supermonkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
+| Bloons TD | 85512 | [85512-bloons-td.json](./85512-bloons-td.json) |
 | Bloons TD 2 | 109114 | [109114-bloons-td-2.json](./109114-bloons-td-2.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
@@ -20948,6 +20949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Plus! | 84796 | [84796-bust-a-move-plus.json](./84796-bust-a-move-plus.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bust-A-Move Universe | 21154 | [21154-bust-a-move-universe.json](./21154-bust-a-move-universe.json) |
+| Bust-a-Move: Deluxe | 84162 | [84162-bust-a-move-deluxe.json](./84162-bust-a-move-deluxe.json) |
 | Bust-N-Rush | 64531 | [64531-bust-n-rush.json](./64531-bust-n-rush.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
