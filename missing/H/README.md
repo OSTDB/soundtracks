@@ -11778,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Inside the Forest | 266441 | [266441-horror-inside-the-forest.json](./266441-horror-inside-the-forest.json) |
 | Horror Ken | 262374 | [262374-horror-ken.json](./262374-horror-ken.json) |
 | Horror Loop | 259590 | [259590-horror-loop.json](./259590-horror-loop.json) |
+| Horror Mahjong | 426465 | [426465-horror-mahjong.json](./426465-horror-mahjong.json) |
 | Horror Manor | 321955 | [321955-horror-manor.json](./321955-horror-manor.json) |
 | Horror Maze | 172996 | [172996-horror-maze.json](./172996-horror-maze.json) |
 | Horror Maze 2 | 246838 | [246838-horror-maze-2.json](./246838-horror-maze-2.json) |
@@ -13354,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
 | Huetopia | 57756 | [57756-huetopia.json](./57756-huetopia.json) |
+| Huex | 426467 | [426467-huex.json](./426467-huex.json) |
 | Huey | 109147 | [109147-huey.json](./109147-huey.json) |
 | Huey | 90247 | [90247-huey.json](./90247-huey.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
