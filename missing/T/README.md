@@ -10959,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
 | The First Nightmare | 366144 | [366144-the-first-nightmare.json](./366144-the-first-nightmare.json) |
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
+| The First Pixel | 423787 | [423787-the-first-pixel.json](./423787-the-first-pixel.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
 | The First Project | 144584 | [144584-the-first-project.json](./144584-the-first-project.json) |
 | The First Round | 289135 | [289135-the-first-round.json](./289135-the-first-round.json) |
@@ -14853,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Library of Babel | 201214 | [201214-the-library-of-babel.json](./201214-the-library-of-babel.json) |
 | The Library of Babel: Deluxe Edition | 231576 | [231576-the-library-of-babel-deluxe-edition.json](./231576-the-library-of-babel-deluxe-edition.json) |
 | The Library on the Lake | 416029 | [416029-the-library-on-the-lake.json](./416029-the-library-on-the-lake.json) |
+| The Lich Wars | 423756 | [423756-the-lich-wars.json](./423756-the-lich-wars.json) |
 | The Lie | 127515 | [127515-the-lie.json](./127515-the-lie.json) |
 | The Lie: Cottage of Secrets | 103933 | [103933-the-lie-cottage-of-secrets.json](./103933-the-lie-cottage-of-secrets.json) |
 | The Lies We Tell Ourselves | 221135 | [221135-the-lies-we-tell-ourselves.json](./221135-the-lies-we-tell-ourselves.json) |
