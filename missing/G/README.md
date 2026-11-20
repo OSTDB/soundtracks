@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardens of a New World | 394450 | [394450-gardens-of-a-new-world.json](./394450-gardens-of-a-new-world.json) |
 | Gardens Of Celestial Globes | 278311 | [278311-gardens-of-celestial-globes.json](./278311-gardens-of-celestial-globes.json) |
+| Gardens of Purity | 424160 | [424160-gardens-of-purity.json](./424160-gardens-of-purity.json) |
 | Gardens of the Void | 280924 | [280924-gardens-of-the-void.json](./280924-gardens-of-the-void.json) |
 | Gardens of Time | 65951 | [65951-gardens-of-time.json](./65951-gardens-of-time.json) |
 | Gardens of Vextro | 229091 | [229091-gardens-of-vextro.json](./229091-gardens-of-vextro.json) |
