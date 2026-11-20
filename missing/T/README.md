@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Golfing | 166275 | [166275-tank-golfing.json](./166275-tank-golfing.json) |
 | Tank Guards | 169541 | [169541-tank-guards.json](./169541-tank-guards.json) |
 | Tank Hangar Simulator | 193636 | [193636-tank-hangar-simulator.json](./193636-tank-hangar-simulator.json) |
+| Tank Havoc | 426668 | [426668-tank-havoc.json](./426668-tank-havoc.json) |
 | Tank Hero | 104279 | [104279-tank-hero.json](./104279-tank-hero.json) |
 | Tank Hero VR | 32007 | [32007-tank-hero-vr.json](./32007-tank-hero-vr.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
@@ -8681,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cowlitz Gamers' 2nd Adventure | 122455 | [122455-the-cowlitz-gamers-2nd-adventure.json](./122455-the-cowlitz-gamers-2nd-adventure.json) |
 | The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
 | The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
+| The Cozy Board Game Shop: Tidy Up | 426663 | [426663-the-cozy-board-game-shop-tidy-up.json](./426663-the-cozy-board-game-shop-tidy-up.json) |
 | The Cozy Funemployment | 423019 | [423019-the-cozy-funemployment.json](./423019-the-cozy-funemployment.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab is Walking | 418051 | [418051-the-crab-is-walking.json](./418051-the-crab-is-walking.json) |
@@ -12149,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heilwald Loophole | 188769 | [188769-the-heilwald-loophole.json](./188769-the-heilwald-loophole.json) |
 | The Heir: Steampunk Escape Room | 425368 | [425368-the-heir-steampunk-escape-room.json](./425368-the-heir-steampunk-escape-room.json) |
+| The Heir's Guild | 426464 | [426464-the-heirs-guild.json](./426464-the-heirs-guild.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heiress of Sorcery | 130210 | [130210-the-heiress-of-sorcery.json](./130210-the-heiress-of-sorcery.json) |
 | The Heirloom | 292604 | [292604-the-heirloom.json](./292604-the-heirloom.json) |
@@ -14167,6 +14170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Launching Section | 275825 | [275825-the-launching-section.json](./275825-the-launching-section.json) |
 | The Laundry | 157304 | [157304-the-laundry.json](./157304-the-laundry.json) |
 | The Laundry That Won’t Open | 404664 | [404664-the-laundry-that-won-t-open.json](./404664-the-laundry-that-won-t-open.json) |
+| The Laurencia | 426528 | [426528-the-laurencia.json](./426528-the-laurencia.json) |
 | The Lava Birds | 427033 | [427033-the-lava-birds.json](./427033-the-lava-birds.json) |
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
@@ -30092,6 +30096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
 | Totes the Goat | 57886 | [57886-totes-the-goat.json](./57886-totes-the-goat.json) |
+| TotK Recomp | 426670 | [426670-totk-recomp.json](./426670-totk-recomp.json) |
 | Totm | 17865 | [17865-totm.json](./17865-totm.json) |
 | Toto a la Campagne | 137904 | [137904-toto-a-la-campagne.json](./137904-toto-a-la-campagne.json) |
 | Toto Quest | 204852 | [204852-toto-quest.json](./204852-toto-quest.json) |
