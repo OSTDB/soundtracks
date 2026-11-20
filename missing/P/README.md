@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic! | 36547 | [36547-panic.json](./36547-panic.json) |
 | Panic! | 5409 | [5409-panic.json](./5409-panic.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
+| Panic! at the Jigsaw | 429778 | [429778-panic-at-the-jigsaw.json](./429778-panic-at-the-jigsaw.json) |
 | Panic! Dizzy | 39163 | [39163-panic-dizzy.json](./39163-panic-dizzy.json) |
 | Panic+19 | 329414 | [329414-panic-19.json](./329414-panic-19.json) |
 | PanicBoy go: Pixel man run | 175086 | [175086-panicboy-go-pixel-man-run.json](./175086-panicboy-go-pixel-man-run.json) |
@@ -8288,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinewater | 413782 | [413782-pinewater.json](./413782-pinewater.json) |
 | Pinewood Computer Core | 154627 | [154627-pinewood-computer-core.json](./154627-pinewood-computer-core.json) |
 | Pinewood Derby | 209961 | [209961-pinewood-derby.json](./209961-pinewood-derby.json) |
+| Pinewood Inn | 429704 | [429704-pinewood-inn.json](./429704-pinewood-inn.json) |
 | Pinewood Island | 69388 | [69388-pinewood-island.json](./69388-pinewood-island.json) |
 | Pinewood Valley | 239719 | [239719-pinewood-valley.json](./239719-pinewood-valley.json) |
 | Pinfall | 255615 | [255615-pinfall.json](./255615-pinfall.json) |
@@ -20469,6 +20471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push | 266965 | [266965-push.json](./266965-push.json) |
 | Push | 55799 | [55799-push.json](./55799-push.json) |
+| Push & Bloom | 429708 | [429708-push-and-bloom.json](./429708-push-and-bloom.json) |
 | Push & Plunder | 312669 | [312669-push-and-plunder.json](./312669-push-and-plunder.json) |
 | Push 3D | 341432 | [341432-push-3d.json](./341432-push-3d.json) |
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
@@ -21604,6 +21607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
 | Pyramid of Mahjong | 182019 | [182019-pyramid-of-mahjong.json](./182019-pyramid-of-mahjong.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
+| Pyramid Party | 429709 | [429709-pyramid-party.json](./429709-pyramid-party.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Peril | 343174 | [343174-pyramid-peril.json](./343174-pyramid-peril.json) |
 | Pyramid Platformer: The Gem Heist | 329516 | [329516-pyramid-platformer-the-gem-heist.json](./329516-pyramid-platformer-the-gem-heist.json) |
