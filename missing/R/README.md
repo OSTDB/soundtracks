@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands | 194445 | [194445-rainbow-islands.json](./194445-rainbow-islands.json) |
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
 | Rainbow Islands CS | 407279 | [407279-rainbow-islands-cs.json](./407279-rainbow-islands-cs.json) |
+| Rainbow Islands Evolution | 23087 | [23087-rainbow-islands-evolution.json](./23087-rainbow-islands-evolution.json) |
 | Rainbow Islands Extra | 45749 | [45749-rainbow-islands-extra.json](./45749-rainbow-islands-extra.json) |
 | Rainbow Islands Revolution | 22598 | [22598-rainbow-islands-revolution.json](./22598-rainbow-islands-revolution.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
@@ -6759,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReStreet | 424214 | [424214-restreet.json](./424214-restreet.json) |
 | Restricted Airspace | 186151 | [186151-restricted-airspace.json](./186151-restricted-airspace.json) |
 | Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
+| Restricted Area | 22448 | [22448-restricted-area.json](./22448-restricted-area.json) |
 | Restricted Area | 266768 | [266768-restricted-area.json](./266768-restricted-area.json) |
 | Restricted Footage | 237031 | [237031-restricted-footage.json](./237031-restricted-footage.json) |
 | Restricted Section | 178439 | [178439-restricted-section.json](./178439-restricted-section.json) |
@@ -11857,6 +11859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Ball Adventure | 220820 | [220820-roller-ball-adventure.json](./220820-roller-ball-adventure.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
+| Roller Coaster | 22523 | [22523-roller-coaster.json](./22523-roller-coaster.json) |
 | Roller Coaster | 363625 | [363625-roller-coaster.json](./363625-roller-coaster.json) |
 | Roller Coaster | 84350 | [84350-roller-coaster.json](./84350-roller-coaster.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
