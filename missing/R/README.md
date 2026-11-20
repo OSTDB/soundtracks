@@ -5929,7 +5929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rennsport | 230191 | [230191-rennsport.json](./230191-rennsport.json) |
 | Rennsport: Deluxe Edition | 368528 | [368528-rennsport-deluxe-edition.json](./368528-rennsport-deluxe-edition.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
-| Renoir | 8919 | [8919-renoir.json](./8919-renoir.json) |
 | Renounced | 340703 | [340703-renounced.json](./340703-renounced.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
 | Renovation Plan | 272596 | [272596-renovation-plan.json](./272596-renovation-plan.json) |
