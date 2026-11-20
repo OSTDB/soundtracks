@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sago Mini Trips+ | 355989 | [355989-sago-mini-trips.json](./355989-sago-mini-trips.json) |
 | Sagrada | 132490 | [132490-sagrada.json](./132490-sagrada.json) |
 | Sagres | 213121 | [213121-sagres.json](./213121-sagres.json) |
+| Sagventyr | 427941 | [427941-sagventyr.json](./427941-sagventyr.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
 | Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
 | Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
 | Sea Wolves | 73517 | [73517-sea-wolves.json](./73517-sea-wolves.json) |
 | Sea World | 246503 | [246503-sea-world.json](./246503-sea-world.json) |
+| Sea You Around | 427959 | [427959-sea-you-around.json](./427959-sea-you-around.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
 | Sea-Doo HydroCross | 45055 | [45055-sea-doo-hydrocross.json](./45055-sea-doo-hydrocross.json) |
 | Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
@@ -21294,6 +21296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
+| Sort the Red Pandas: Tidy Up & Shelve | 427926 | [427926-sort-the-red-pandas-tidy-up-and-shelve.json](./427926-sort-the-red-pandas-tidy-up-and-shelve.json) |
 | Sort the Roost | 430652 | [430652-sort-the-roost.json](./430652-sort-the-roost.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
@@ -27003,6 +27006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares Rage | 151508 | [151508-squares-rage.json](./151508-squares-rage.json) |
 | Squares Rage: Character - Crying Chris | 170120 | [170120-squares-rage-character-crying-chris.json](./170120-squares-rage-character-crying-chris.json) |
 | Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
+| Squares vs. Triangles | 427927 | [427927-squares-vs-triangles.json](./427927-squares-vs-triangles.json) |
 | Squares: Brain Game | 165214 | [165214-squares-brain-game.json](./165214-squares-brain-game.json) |
 | Squaretrail: Lines of The Frame | 305393 | [305393-squaretrail-lines-of-the-frame.json](./305393-squaretrail-lines-of-the-frame.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
@@ -33820,6 +33824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Darkness | 190238 | [190238-sudden-darkness.json](./190238-sudden-darkness.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Death Golf | 427954 | [427954-sudden-death-golf.json](./427954-sudden-death-golf.json) |
 | Sudden Death Soccer | 99278 | [99278-sudden-death-soccer.json](./99278-sudden-death-soccer.json) |
 | Sudden Market | 228055 | [228055-sudden-market.json](./228055-sudden-market.json) |
 | Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
@@ -34871,6 +34876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Dreams | 371499 | [371499-sunken-dreams.json](./371499-sunken-dreams.json) |
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Fallacy | 271540 | [271540-sunken-fallacy.json](./271540-sunken-fallacy.json) |
+| Sunken Graves | 427961 | [427961-sunken-graves.json](./427961-sunken-graves.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Memories | 344077 | [344077-sunken-memories.json](./344077-sunken-memories.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
