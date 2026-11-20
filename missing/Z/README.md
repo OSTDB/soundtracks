@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Below the Sun | 253626 | [253626-zero-below-the-sun.json](./253626-zero-below-the-sun.json) |
 | Zero Caliber 2 | 279386 | [279386-zero-caliber-2.json](./279386-zero-caliber-2.json) |
 | Zero Caliber 2 Remastered | 428306 | [428306-zero-caliber-2-remastered.json](./428306-zero-caliber-2-remastered.json) |
+| Zero Caliber VR | 104282 | [104282-zero-caliber-vr.json](./104282-zero-caliber-vr.json) |
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zu Xing | 404606 | [404606-zu-xing.json](./404606-zu-xing.json) |
 | Zub | 83382 | [83382-zub.json](./83382-zub.json) |
 | Zubash | 262891 | [262891-zubash.json](./262891-zubash.json) |
+| Zueirama | 110641 | [110641-zueirama.json](./110641-zueirama.json) |
 | Zueirama 2077 | 323276 | [323276-zueirama-2077.json](./323276-zueirama-2077.json) |
 | Zug in Sicht | 383972 | [383972-zug-in-sicht.json](./383972-zug-in-sicht.json) |
 | Zug Simulator 2013 | 52299 | [52299-zug-simulator-2013.json](./52299-zug-simulator-2013.json) |
