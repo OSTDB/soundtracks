@@ -1237,7 +1237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
-| Salt Lake 2002 | 6584 | [6584-salt-lake-2002.json](./6584-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt of the Earth | 401516 | [401516-salt-of-the-earth.json](./401516-salt-of-the-earth.json) |
 | Salt of the Earth | 417016 | [417016-salt-of-the-earth.json](./417016-salt-of-the-earth.json) |
@@ -11952,7 +11951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
 | Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
-| Sigma Star Saga | 6595 | [6595-sigma-star-saga.json](./6595-sigma-star-saga.json) |
 | Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
 | Sigma Survivor | 427260 | [427260-sigma-survivor.json](./427260-sigma-survivor.json) |
 | Sigma Theory: Global Cold War | 59079 | [59079-sigma-theory-global-cold-war.json](./59079-sigma-theory-global-cold-war.json) |
@@ -13156,7 +13154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Zero | 361054 | [361054-sin-zero.json](./361054-sin-zero.json) |
 | Sin-Cay | 162433 | [162433-sin-cay.json](./162433-sin-cay.json) |
 | Sin; Vengeance | 115135 | [115135-sin-vengeance.json](./115135-sin-vengeance.json) |
-| SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sin(e)s | 255216 | [255216-sin-e-s.json](./255216-sin-e-s.json) |
 | sin(Surfing) | 79647 | [79647-sin-surfing.json](./79647-sin-surfing.json) |
@@ -14006,7 +14003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
 | Skeleton War | 290857 | [290857-skeleton-war.json](./290857-skeleton-war.json) |
 | Skeleton Warrior | 130198 | [130198-skeleton-warrior.json](./130198-skeleton-warrior.json) |
-| Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeleton Warriors: The Dark Crusade | 217688 | [217688-skeleton-warriors-the-dark-crusade.json](./217688-skeleton-warriors-the-dark-crusade.json) |
 | Skeleton Wave | 156894 | [156894-skeleton-wave.json](./156894-skeleton-wave.json) |
 | Skeleton+ | 79512 | [79512-skeleton.json](./79512-skeleton.json) |
@@ -15044,7 +15040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward | 291940 | [291940-skyward.json](./291940-skyward.json) |
 | Skyward Bastion | 384125 | [384125-skyward-bastion.json](./384125-skyward-bastion.json) |
 | Skyward Battles | 334855 | [334855-skyward-battles.json](./334855-skyward-battles.json) |
-| Skyward Collapse | 9328 | [9328-skyward-collapse.json](./9328-skyward-collapse.json) |
 | Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyward Descent | 152946 | [152946-skyward-descent.json](./152946-skyward-descent.json) |
 | Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
@@ -18232,7 +18227,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
 | Snugfang | 424516 | [424516-snugfang.json](./424516-snugfang.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
-| Snuggle Truck | 9025 | [9025-snuggle-truck.json](./9025-snuggle-truck.json) |
 | Snugglebat | 131794 | [131794-snugglebat.json](./131794-snugglebat.json) |
 | Snuse 221 | 116508 | [116508-snuse-221.json](./116508-snuse-221.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
@@ -25115,7 +25109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: 058 - FX Mod: Sound Mode | 363368 | [363368-spider-man-058-fx-mod-sound-mode.json](./363368-spider-man-058-fx-mod-sound-mode.json) |
 | Spider-Man: 059 - Enemy Mod: Quick Learner | 363371 | [363371-spider-man-059-enemy-mod-quick-learner.json](./363371-spider-man-059-enemy-mod-quick-learner.json) |
 | Spider-Man: 060 - FX Mod: Comic Book Mode | 363373 | [363373-spider-man-060-fx-mod-comic-book-mode.json](./363373-spider-man-060-fx-mod-comic-book-mode.json) |
-| Spider-Man: Battle for New York | 6604 | [6604-spider-man-battle-for-new-york.json](./6604-spider-man-battle-for-new-york.json) |
 | Spider-Man: Brand New Day | 410529 | [410529-spider-man-brand-new-day.json](./410529-spider-man-brand-new-day.json) |
 | Spider-Man: City Raid | 337120 | [337120-spider-man-city-raid.json](./337120-spider-man-city-raid.json) |
 | Spider-Man: Edge of Time | 218005 | [218005-spider-man-edge-of-time.json](./218005-spider-man-edge-of-time.json) |
@@ -25908,7 +25901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob Funny Pack | 428876 | [428876-spongebob-funny-pack.json](./428876-spongebob-funny-pack.json) |
 | Spongebob Games and Patrick Fighting | 102536 | [102536-spongebob-games-and-patrick-fighting.json](./102536-spongebob-games-and-patrick-fighting.json) |
 | SpongeBob GameStation | 196552 | [196552-spongebob-gamestation.json](./196552-spongebob-gamestation.json) |
-| SpongeBob HeroPants | 8474 | [8474-spongebob-heropants.json](./8474-spongebob-heropants.json) |
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob Laptop | 293737 | [293737-spongebob-laptop.json](./293737-spongebob-laptop.json) |
 | SpongeBob Marbles & Slides | 97200 | [97200-spongebob-marbles-and-slides.json](./97200-spongebob-marbles-and-slides.json) |
@@ -27450,7 +27442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalcube | 388270 | [388270-stalcube.json](./388270-stalcube.json) |
 | Stale Conversations | 141116 | [141116-stale-conversations.json](./141116-stale-conversations.json) |
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
-| Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
 | Stalin vs. Martians 4 | 117736 | [117736-stalin-vs-martians-4.json](./117736-stalin-vs-martians-4.json) |
 | Stalin's Dilemma | 73714 | [73714-stalins-dilemma.json](./73714-stalins-dilemma.json) |
 | Stalingrad | 177096 | [177096-stalingrad.json](./177096-stalingrad.json) |
@@ -28449,7 +28440,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: First Assault | 64562 | [64562-star-wars-first-assault.json](./64562-star-wars-first-assault.json) |
-| Star Wars: Flight of the Falcon | 6608 | [6608-star-wars-flight-of-the-falcon.json](./6608-star-wars-flight-of-the-falcon.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
@@ -28621,7 +28611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wraith IV: Reviction | 15112 | [15112-star-wraith-iv-reviction.json](./15112-star-wraith-iv-reviction.json) |
 | Star Wrath | 391648 | [391648-star-wrath.json](./391648-star-wrath.json) |
 | Star Wreck | 92715 | [92715-star-wreck.json](./92715-star-wreck.json) |
-| Star X | 6610 | [6610-star-x.json](./6610-star-x.json) |
 | Star Zeal | 110483 | [110483-star-zeal.json](./110483-star-zeal.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
@@ -32839,7 +32828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Solitaire 3 | 99910 | [99910-strike-solitaire-3.json](./99910-strike-solitaire-3.json) |
 | Strike Squad | 84116 | [84116-strike-squad.json](./84116-strike-squad.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
-| Strike Suit Infinity | 9329 | [9329-strike-suit-infinity.json](./9329-strike-suit-infinity.json) |
 | Strike Suit Zero | 8507 | [8507-strike-suit-zero.json](./8507-strike-suit-zero.json) |
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
@@ -41004,7 +40992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
-| Sword of the Samurai | 9218 | [9218-sword-of-the-samurai.json](./9218-sword-of-the-samurai.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
 | Sword of the Stars II: Enhanced Edition | 10937 | [10937-sword-of-the-stars-ii-enhanced-edition.json](./10937-sword-of-the-stars-ii-enhanced-edition.json) |
