@@ -7520,6 +7520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
 | It Happened At Night | 310144 | [310144-it-happened-at-night.json](./310144-it-happened-at-night.json) |
+| It Happened at Night: A New Nightmare | 424346 | [424346-it-happened-at-night-a-new-nightmare.json](./424346-it-happened-at-night-a-new-nightmare.json) |
 | It Happened Here: A Storm is Brewing - Collector's Edition | 337247 | [337247-it-happened-here-a-storm-is-brewing-collectors-edition.json](./337247-it-happened-here-a-storm-is-brewing-collectors-edition.json) |
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
