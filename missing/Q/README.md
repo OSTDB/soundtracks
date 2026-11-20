@@ -606,7 +606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine City | 361970 | [361970-quarantine-city.json](./361970-quarantine-city.json) |
 | Quarantine Cutz | 150519 | [150519-quarantine-cutz.json](./150519-quarantine-cutz.json) |
 | Quarantine Diary | 142539 | [142539-quarantine-diary.json](./142539-quarantine-diary.json) |
-| Quarantine II: Road Warrior | 9234 | [9234-quarantine-ii-road-warrior.json](./9234-quarantine-ii-road-warrior.json) |
 | Quarantine Lab Sort | 423590 | [423590-quarantine-lab-sort.json](./423590-quarantine-lab-sort.json) |
 | Quarantine Lockdown Simulator: Zombie Border | 366217 | [366217-quarantine-lockdown-simulator-zombie-border.json](./366217-quarantine-lockdown-simulator-zombie-border.json) |
 | Quarantine Market Simulator | 399218 | [399218-quarantine-market-simulator.json](./399218-quarantine-market-simulator.json) |
