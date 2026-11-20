@@ -13567,6 +13567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
 | Pokonyan! Henpokorin Adventure | 135497 | [135497-pokonyan-henpokorin-adventure.json](./135497-pokonyan-henpokorin-adventure.json) |
 | Pokonyan! Yume no Daibouken | 205705 | [205705-pokonyan-yume-no-daibouken.json](./205705-pokonyan-yume-no-daibouken.json) |
+| Pokopia Recomp | 427397 | [427397-pokopia-recomp.json](./427397-pokopia-recomp.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
@@ -18744,6 +18745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: EGG | 330872 | [330872-project-egg.json](./330872-project-egg.json) |
 | Project: Eliot | 337158 | [337158-project-eliot.json](./337158-project-eliot.json) |
 | Project: Emplorer | 303833 | [303833-project-emplorer.json](./303833-project-emplorer.json) |
+| Project: Esper | 427378 | [427378-project-esper.json](./427378-project-esper.json) |
 | Project: Eternal Flame | 208233 | [208233-project-eternal-flame.json](./208233-project-eternal-flame.json) |
 | Project: Ether | 371487 | [371487-project-ether.json](./371487-project-ether.json) |
 | Project: Extreme | 224821 | [224821-project-extreme.json](./224821-project-extreme.json) |
