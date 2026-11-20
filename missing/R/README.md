@@ -4791,11 +4791,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Clock of Fate | 57786 | [57786-redemption-cemetery-clock-of-fate.json](./57786-redemption-cemetery-clock-of-fate.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
+| Redemption Cemetery: Day of the Almost Dead | 427037 | [427037-redemption-cemetery-day-of-the-almost-dead.json](./427037-redemption-cemetery-day-of-the-almost-dead.json) |
+| Redemption Cemetery: Day of the Almost Dead - Collector's Edition | 427038 | [427038-redemption-cemetery-day-of-the-almost-dead-collectors-edition.json](./427038-redemption-cemetery-day-of-the-almost-dead-collectors-edition.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
 | Redemption Cemetery: Dead Park - Collector's Edition | 188717 | [188717-redemption-cemetery-dead-park-collectors-edition.json](./188717-redemption-cemetery-dead-park-collectors-edition.json) |
+| Redemption Cemetery: Embodiment of Evil - Collector's Edition | 427041 | [427041-redemption-cemetery-embodiment-of-evil-collectors-edition.json](./427041-redemption-cemetery-embodiment-of-evil-collectors-edition.json) |
 | Redemption Cemetery: Evil | 95096 | [95096-redemption-cemetery-evil.json](./95096-redemption-cemetery-evil.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
+| Redemption Cemetery: One Foot in the Grave | 427039 | [427039-redemption-cemetery-one-foot-in-the-grave.json](./427039-redemption-cemetery-one-foot-in-the-grave.json) |
+| Redemption Cemetery: One Foot in the Grave - Collector's Edition | 427040 | [427040-redemption-cemetery-one-foot-in-the-grave-collectors-edition.json](./427040-redemption-cemetery-one-foot-in-the-grave-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Salvation of the Lost - Collector's Edition | 32790 | [32790-redemption-cemetery-salvation-of-the-lost-collectors-edition.json](./32790-redemption-cemetery-salvation-of-the-lost-collectors-edition.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
@@ -8452,6 +8457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
 | Rift Investigations | 402992 | [402992-rift-investigations.json](./402992-rift-investigations.json) |
+| Rift Leaper | 427311 | [427311-rift-leaper.json](./427311-rift-leaper.json) |
 | Rift Loopers | 215954 | [215954-rift-loopers.json](./215954-rift-loopers.json) |
 | Rift Loopers: Pyro Class | 253318 | [253318-rift-loopers-pyro-class.json](./253318-rift-loopers-pyro-class.json) |
 | Rift Miner | 375446 | [375446-rift-miner.json](./375446-rift-miner.json) |
