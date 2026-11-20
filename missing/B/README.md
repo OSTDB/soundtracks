@@ -15112,6 +15112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom! VR | 158069 | [158069-boom-vr.json](./158069-boom-vr.json) |
 | Boomadrons Bouncyverse Rebound | 303824 | [303824-boomadrons-bouncyverse-rebound.json](./303824-boomadrons-bouncyverse-rebound.json) |
 | BoomBang | 135676 | [135676-boombang.json](./135676-boombang.json) |
+| Boombaz! | 420714 | [420714-boombaz.json](./420714-boombaz.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | BoomBoard! | 198043 | [198043-boomboard.json](./198043-boomboard.json) |
 | Boombot | 275180 | [275180-boombot.json](./275180-boombot.json) |
