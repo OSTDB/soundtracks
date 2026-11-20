@@ -1207,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salmon Man | 274318 | [274318-salmon-man.json](./274318-salmon-man.json) |
 | Salmon Ninja | 31409 | [31409-salmon-ninja.json](./31409-salmon-ninja.json) |
 | Salmon Run | 69800 | [69800-salmon-run.json](./69800-salmon-run.json) |
+| Salmon Sellers | 426665 | [426665-salmon-sellers.json](./426665-salmon-sellers.json) |
 | Salmon Tower | 404182 | [404182-salmon-tower.json](./404182-salmon-tower.json) |
 | Salom Adventure | 331060 | [331060-salom-adventure.json](./331060-salom-adventure.json) |
 | Salome | 198403 | [198403-salome.json](./198403-salome.json) |
@@ -2289,6 +2290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapper's bad dream | 32185 | [32185-sappers-bad-dream.json](./32185-sappers-bad-dream.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
+| Sapphire City | 426661 | [426661-sapphire-city.json](./426661-sapphire-city.json) |
 | Sapphire City 2 | 318113 | [318113-sapphire-city-2.json](./318113-sapphire-city-2.json) |
 | Sapphire City Part 3 | 319172 | [319172-sapphire-city-part-3.json](./319172-sapphire-city-part-3.json) |
 | Sapphire Hotel: The Little Tales of | 267220 | [267220-sapphire-hotel-the-little-tales-of.json](./267220-sapphire-hotel-the-little-tales-of.json) |
@@ -11950,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
+| Signal Gathering | 426406 | [426406-signal-gathering.json](./426406-signal-gathering.json) |
 | Signal Heart | 418193 | [418193-signal-heart.json](./418193-signal-heart.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Intentions | 349077 | [349077-signal-intentions.json](./349077-signal-intentions.json) |
@@ -21690,6 +21693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulless Legions | 189800 | [189800-soulless-legions.json](./189800-soulless-legions.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
 | Soulmask | 272600 | [272600-soulmask.json](./272600-soulmask.json) |
+| Soulmask: Bone Bash | 426645 | [426645-soulmask-bone-bash.json](./426645-soulmask-bone-bash.json) |
 | Soulmask: Shifting Sands | 370724 | [370724-soulmask-shifting-sands.json](./370724-soulmask-shifting-sands.json) |
 | Soulmate | 154305 | [154305-soulmate.json](./154305-soulmate.json) |
 | Soulmate Factory | 230743 | [230743-soulmate-factory.json](./230743-soulmate-factory.json) |
