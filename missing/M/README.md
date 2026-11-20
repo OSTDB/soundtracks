@@ -12975,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
 | Midnight Snack | 339894 | [339894-midnight-snack.json](./339894-midnight-snack.json) |
 | Midnight Snack | 342248 | [342248-midnight-snack.json](./342248-midnight-snack.json) |
+| Midnight Snack | 418847 | [418847-midnight-snack.json](./418847-midnight-snack.json) |
 | Midnight Souls | 365083 | [365083-midnight-souls.json](./365083-midnight-souls.json) |
 | Midnight Souvenirs | 349229 | [349229-midnight-souvenirs.json](./349229-midnight-souvenirs.json) |
 | Midnight Special | 319815 | [319815-midnight-special.json](./319815-midnight-special.json) |
@@ -18072,6 +18073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Farm | 108078 | [108078-monster-farm.json](./108078-monster-farm.json) |
 | Monster Farm DS 2: Yomigaeru! Master Breeder Densetsu | 124479 | [124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json](./124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
+| Monster Femdom | 418825 | [418825-monster-femdom.json](./418825-monster-femdom.json) |
 | Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
 | Monster Fighter | 199360 | [199360-monster-fighter.json](./199360-monster-fighter.json) |
 | Monster Fishing | 250249 | [250249-monster-fishing.json](./250249-monster-fishing.json) |
@@ -20865,6 +20867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse adventure | 152956 | [152956-mouse-adventure.json](./152956-mouse-adventure.json) |
 | Mouse and Cheese Tactics | 142636 | [142636-mouse-and-cheese-tactics.json](./142636-mouse-and-cheese-tactics.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
+| Mouse Box | 418781 | [418781-mouse-box.json](./418781-mouse-box.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
 | Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
 | Mouse Dream | 166772 | [166772-mouse-dream.json](./166772-mouse-dream.json) |
@@ -23578,6 +23581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ghost Girlfriend | 210372 | [210372-my-ghost-girlfriend.json](./210372-my-ghost-girlfriend.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Ghost Roommate | 397281 | [397281-my-ghost-roommate.json](./397281-my-ghost-roommate.json) |
+| My Giant Bully | 418804 | [418804-my-giant-bully.json](./418804-my-giant-bully.json) |
 | My Giant Friend | 220677 | [220677-my-giant-friend.json](./220677-my-giant-friend.json) |
 | My Giant Sexy Sensei Bullies Me | 385612 | [385612-my-giant-sexy-sensei-bullies-me.json](./385612-my-giant-sexy-sensei-bullies-me.json) |
 | My Giant Sexy Sensei Bullies Me 10 | 384738 | [384738-my-giant-sexy-sensei-bullies-me-10.json](./384738-my-giant-sexy-sensei-bullies-me-10.json) |
@@ -23786,6 +23790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Isekai Hotel | 404059 | [404059-my-isekai-hotel.json](./404059-my-isekai-hotel.json) |
 | My IShowSpeed | 286333 | [286333-my-ishowspeed.json](./286333-my-ishowspeed.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
+| My Japanese Teacher | 418766 | [418766-my-japanese-teacher.json](./418766-my-japanese-teacher.json) |
 | My Jigsaw Adventures: A Lost Story | 162964 | [162964-my-jigsaw-adventures-a-lost-story.json](./162964-my-jigsaw-adventures-a-lost-story.json) |
 | My Jigsaw Adventures: Forgotten Destiny | 162967 | [162967-my-jigsaw-adventures-forgotten-destiny.json](./162967-my-jigsaw-adventures-forgotten-destiny.json) |
 | My Jigsaw Adventures: Roads of Life | 129306 | [129306-my-jigsaw-adventures-roads-of-life.json](./129306-my-jigsaw-adventures-roads-of-life.json) |
