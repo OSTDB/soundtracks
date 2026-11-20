@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enterprise | 12993 | [12993-enterprise.json](./12993-enterprise.json) |
 | Enterprise | 245485 | [245485-enterprise.json](./245485-enterprise.json) |
 | Enterprise | 252181 | [252181-enterprise.json](./252181-enterprise.json) |
+| Enterprise Employer | 420159 | [420159-enterprise-employer.json](./420159-enterprise-employer.json) |
 | Enterprise: Space Agency Simulator | 290630 | [290630-enterprise-space-agency-simulator.json](./290630-enterprise-space-agency-simulator.json) |
 | Entertainment Hero | 26833 | [26833-entertainment-hero.json](./26833-entertainment-hero.json) |
 | Entertainment Hero 2 | 130154 | [130154-entertainment-hero-2.json](./130154-entertainment-hero-2.json) |
@@ -5586,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EraTurn | 263812 | [263812-eraturn.json](./263812-eraturn.json) |
 | Erayu | 58903 | [58903-erayu.json](./58903-erayu.json) |
 | Erazer: Devise & Destroy | 164058 | [164058-erazer-devise-and-destroy.json](./164058-erazer-devise-and-destroy.json) |
+| Erde: Nezu no Ki no Shita de | 420733 | [420733-erde-nezu-no-ki-no-shita-de.json](./420733-erde-nezu-no-ki-no-shita-de.json) |
 | Erdetspill | 411414 | [411414-erdetspill.json](./411414-erdetspill.json) |
 | Erdluitl: Legends of Below | 288708 | [288708-erdluitl-legends-of-below.json](./288708-erdluitl-legends-of-below.json) |
 | EreaDrone | 191421 | [191421-ereadrone.json](./191421-ereadrone.json) |
@@ -5963,6 +5965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Chancellor's Chambers | 348996 | [348996-escape-from-chancellors-chambers.json](./348996-escape-from-chancellors-chambers.json) |
 | Escape from Chernobyl | 115110 | [115110-escape-from-chernobyl.json](./115110-escape-from-chernobyl.json) |
 | Escape from Chernobyl: Jailbreak | 121873 | [121873-escape-from-chernobyl-jailbreak.json](./121873-escape-from-chernobyl-jailbreak.json) |
+| Escape from ChungaChanga: Island Survival | 420717 | [420717-escape-from-chungachanga-island-survival.json](./420717-escape-from-chungachanga-island-survival.json) |
 | Escape from Classroom | 120018 | [120018-escape-from-classroom.json](./120018-escape-from-classroom.json) |
 | Escape From Clive | 339767 | [339767-escape-from-clive.json](./339767-escape-from-clive.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
