@@ -6522,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senti Metrica | 423893 | [423893-senti-metrica.json](./423893-senti-metrica.json) |
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentience | 341388 | [341388-sentience.json](./341388-sentience.json) |
+| Sentience: The Android's Tale | 36631 | [36631-sentience-the-androids-tale.json](./36631-sentience-the-androids-tale.json) |
 | Sentient | 2234 | [2234-sentient.json](./2234-sentient.json) |
 | Sentient | 227966 | [227966-sentient.json](./227966-sentient.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
@@ -18940,6 +18941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Scion | 139010 | [139010-solar-scion.json](./139010-solar-scion.json) |
 | Solar Serpent Squadron | 287921 | [287921-solar-serpent-squadron.json](./287921-solar-serpent-squadron.json) |
+| Solar Shifter EX | 35565 | [35565-solar-shifter-ex.json](./35565-solar-shifter-ex.json) |
 | Solar Showdown | 249988 | [249988-solar-showdown.json](./249988-solar-showdown.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
@@ -33222,6 +33224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
 | Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
+| Stunt Kite Masters VR | 36714 | [36714-stunt-kite-masters-vr.json](./36714-stunt-kite-masters-vr.json) |
 | Stunt Kite Party | 114047 | [114047-stunt-kite-party.json](./114047-stunt-kite-party.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Man | 282779 | [282779-stunt-man.json](./282779-stunt-man.json) |
@@ -39543,6 +39546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Lost Way | 143206 | [143206-survival-lost-way.json](./143206-survival-lost-way.json) |
 | Survival: Man vs. Wild | 100492 | [100492-survival-man-vs-wild.json](./100492-survival-man-vs-wild.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
+| Survival: Postapocalypse Now | 35706 | [35706-survival-postapocalypse-now.json](./35706-survival-postapocalypse-now.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
