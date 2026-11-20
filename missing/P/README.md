@@ -7409,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigmentum | 29695 | [29695-pigmentum.json](./29695-pigmentum.json) |
 | Pignator | 244137 | [244137-pignator.json](./244137-pignator.json) |
 | Pigocefal | 116491 | [116491-pigocefal.json](./116491-pigocefal.json) |
+| PigPonyPocalypse | 422259 | [422259-pigponypocalypse.json](./422259-pigponypocalypse.json) |
 | Pigromance | 141202 | [141202-pigromance.json](./141202-pigromance.json) |
 | Pigs a Pop'n | 112208 | [112208-pigs-a-popn.json](./112208-pigs-a-popn.json) |
 | Pigs and Luig | 398154 | [398154-pigs-and-luig.json](./398154-pigs-and-luig.json) |
@@ -11043,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platdude in the Endless Forest | 61950 | [61950-platdude-in-the-endless-forest.json](./61950-platdude-in-the-endless-forest.json) |
 | Platdude in the Spirit Collector | 61953 | [61953-platdude-in-the-spirit-collector.json](./61953-platdude-in-the-spirit-collector.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
+| Plate and Profit | 422244 | [422244-plate-and-profit.json](./422244-plate-and-profit.json) |
 | Plate Spinning | 202006 | [202006-plate-spinning.json](./202006-plate-spinning.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
@@ -12846,6 +12848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon FireRed Omega | 143757 | [143757-pokemon-firered-omega.json](./143757-pokemon-firered-omega.json) |
+| Pokémon FireRed Reignited | 422243 | [422243-pokemon-firered-reignited.json](./422243-pokemon-firered-reignited.json) |
 | Pokémon FireRed VR Missions | 214216 | [214216-pokemon-firered-vr-missions.json](./214216-pokemon-firered-vr-missions.json) |
 | Pokémon FireRed: Rocket Edition | 143758 | [143758-pokemon-firered-rocket-edition.json](./143758-pokemon-firered-rocket-edition.json) |
 | Pokémon Flora Sky | 129817 | [129817-pokemon-flora-sky.json](./129817-pokemon-flora-sky.json) |
