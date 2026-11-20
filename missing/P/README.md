@@ -3775,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Grand Prix - Race in Barkingburg | 231249 | [231249-paw-patrol-grand-prix-race-in-barkingburg.json](./231249-paw-patrol-grand-prix-race-in-barkingburg.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: On a Roll! | 89074 | [89074-paw-patrol-on-a-roll.json](./89074-paw-patrol-on-a-roll.json) |
+| Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
 | Paw Patrol: World | 252175 | [252175-paw-patrol-world.json](./252175-paw-patrol-world.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Clash | 421091 | [421091-penguin-clash.json](./421091-penguin-clash.json) |
 | Penguin Climbing | 150387 | [150387-penguin-climbing.json](./150387-penguin-climbing.json) |
+| Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Diner 2 | 64615 | [64615-penguin-diner-2.json](./64615-penguin-diner-2.json) |
 | Penguin Diner: Restaurant Dash | 188560 | [188560-penguin-diner-restaurant-dash.json](./188560-penguin-diner-restaurant-dash.json) |
