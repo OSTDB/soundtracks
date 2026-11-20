@@ -9881,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hittin Switchez | 77801 | [77801-hittin-switchez.json](./77801-hittin-switchez.json) |
 | Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
 | Hitting Balls | 295755 | [295755-hitting-balls.json](./295755-hitting-balls.json) |
+| Hitting Home's Carnival | 421971 | [421971-hitting-homes-carnival.json](./421971-hitting-homes-carnival.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTone | 273676 | [273676-hittone.json](./273676-hittone.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
@@ -13338,6 +13339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HTR+ Slot Car Simulation | 17197 | [17197-htr-slot-car-simulation.json](./17197-htr-slot-car-simulation.json) |
 | HU-man Dungeons | 294963 | [294963-hu-man-dungeons.json](./294963-hu-man-dungeons.json) |
 | Hua Lian Yue Yi | 407197 | [407197-hua-lian-yue-yi.json](./407197-hua-lian-yue-yi.json) |
+| Hua Manlou | 421983 | [421983-hua-manlou.json](./421983-hua-manlou.json) |
 | Hua Mulan | 94491 | [94491-hua-mulan.json](./94491-hua-mulan.json) |
 | Hua Mulan: A Chinese Learning Adventure | 193569 | [193569-hua-mulan-a-chinese-learning-adventure.json](./193569-hua-mulan-a-chinese-learning-adventure.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
@@ -13516,6 +13518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HullBreach: Uncloaked | 85173 | [85173-hullbreach-uncloaked.json](./85173-hullbreach-uncloaked.json) |
 | Hullbreaker | 329157 | [329157-hullbreaker.json](./329157-hullbreaker.json) |
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
+| Hullmates | 421977 | [421977-hullmates.json](./421977-hullmates.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Hulzuyot: Horror Game | 291142 | [291142-hulzuyot-horror-game.json](./291142-hulzuyot-horror-game.json) |
@@ -14194,6 +14197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
 | Hushed Walls | 272167 | [272167-hushed-walls.json](./272167-hushed-walls.json) |
+| HushWood | 421857 | [421857-hushwood.json](./421857-hushwood.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husk of Axiom | 386666 | [386666-husk-of-axiom.json](./386666-husk-of-axiom.json) |
