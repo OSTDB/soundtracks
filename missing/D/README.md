@@ -10779,6 +10779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillo's Dilemma | 346692 | [346692-dillos-dilemma.json](./346692-dillos-dilemma.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Dillon's Rolling Western | 47655 | [47655-dillons-rolling-western.json](./47655-dillons-rolling-western.json) |
+| Dillon's Rolling Western: The Last Ranger | 24294 | [24294-dillons-rolling-western-the-last-ranger.json](./24294-dillons-rolling-western-the-last-ranger.json) |
 | Diluted | 382739 | [382739-diluted.json](./382739-diluted.json) |
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
@@ -10922,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
+| Diner Dash: Flo on the Go | 24336 | [24336-diner-dash-flo-on-the-go.json](./24336-diner-dash-flo-on-the-go.json) |
 | Diner Dash: Flo Through Time | 141919 | [141919-diner-dash-flo-through-time.json](./141919-diner-dash-flo-through-time.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
