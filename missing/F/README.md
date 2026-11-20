@@ -1960,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fan of Guns | 194122 | [194122-fan-of-guns.json](./194122-fan-of-guns.json) |
 | Fan Pop Rhythm Stage: Aim for the Heart | 279137 | [279137-fan-pop-rhythm-stage-aim-for-the-heart.json](./279137-fan-pop-rhythm-stage-aim-for-the-heart.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
+| Fan Xiu | 426132 | [426132-fan-xiu.json](./426132-fan-xiu.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
 | Fanais Chess | 239996 | [239996-fanais-chess.json](./239996-fanais-chess.json) |
@@ -6212,6 +6213,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 9: Fantasy | 345248 | [345248-find-all-9-fantasy.json](./345248-find-all-9-fantasy.json) |
 | Find All Things | 340078 | [340078-find-all-things.json](./340078-find-all-things.json) |
 | Find All Things: Christmas | 361059 | [361059-find-all-things-christmas.json](./361059-find-all-things-christmas.json) |
+| Find All Things: Christmas - Collector's Edition | 426111 | [426111-find-all-things-christmas-collectors-edition.json](./426111-find-all-things-christmas-collectors-edition.json) |
+| Find All Things: Collector's Edition | 426110 | [426110-find-all-things-collectors-edition.json](./426110-find-all-things-collectors-edition.json) |
 | Find All: Bunker | 337499 | [337499-find-all-bunker.json](./337499-find-all-bunker.json) |
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Christmas | 324240 | [324240-find-all-christmas.json](./324240-find-all-christmas.json) |
@@ -9045,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightmare | 97024 | [97024-flightmare.json](./97024-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
+| Flights of Fancy: Two Doves - Collector's Edition | 426112 | [426112-flights-of-fancy-two-doves-collectors-edition.json](./426112-flights-of-fancy-two-doves-collectors-edition.json) |
 | FlightSim I | 69416 | [69416-flightsim-i.json](./69416-flightsim-i.json) |
 | Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
 | Flikk | 292172 | [292172-flikk.json](./292172-flikk.json) |
@@ -9821,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Ascendant | 403544 | [403544-flux-ascendant.json](./403544-flux-ascendant.json) |
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
+| Flux Family Secrets: The Rabbit Hole - Collector's Edition | 426113 | [426113-flux-family-secrets-the-rabbit-hole-collectors-edition.json](./426113-flux-family-secrets-the-rabbit-hole-collectors-edition.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
 | Flux Games: Couch Party Pack | 311049 | [311049-flux-games-couch-party-pack.json](./311049-flux-games-couch-party-pack.json) |
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
@@ -11449,6 +11454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Ball | 33725 | [33725-forgotten-ball.json](./33725-forgotten-ball.json) |
 | Forgotten Beginnings: A New Afterlife | 359162 | [359162-forgotten-beginnings-a-new-afterlife.json](./359162-forgotten-beginnings-a-new-afterlife.json) |
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
+| Forgotten Books: The Enchanted Crown - Collector's Edition | 426114 | [426114-forgotten-books-the-enchanted-crown-collectors-edition.json](./426114-forgotten-books-the-enchanted-crown-collectors-edition.json) |
 | Forgotten Bunker 1939 | 309809 | [309809-forgotten-bunker-1939.json](./309809-forgotten-bunker-1939.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
