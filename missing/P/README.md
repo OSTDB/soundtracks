@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 2: Party Hustle Pack | 296246 | [296246-party-party-time-2-party-hustle-pack.json](./296246-party-party-time-2-party-hustle-pack.json) |
 | Party Party Time 2: Party Spirit Pack | 310078 | [310078-party-party-time-2-party-spirit-pack.json](./310078-party-party-time-2-party-spirit-pack.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
+| Party Party Time 3: Nintendo Switch 2 Edition | 420710 | [420710-party-party-time-3-nintendo-switch-2-edition.json](./420710-party-party-time-3-nintendo-switch-2-edition.json) |
 | Party Party Time: Character Skin Pack | 250189 | [250189-party-party-time-character-skin-pack.json](./250189-party-party-time-character-skin-pack.json) |
 | Party Party Time: Character Skin Pack 2 | 256460 | [256460-party-party-time-character-skin-pack-2.json](./256460-party-party-time-character-skin-pack-2.json) |
 | Party Party Time: Excitement Happy Thrilling Power 4 Pack Set | 280063 | [280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json](./280063-party-party-time-excitement-happy-thrilling-power-4-pack-set.json) |
@@ -10808,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | planktOs | 36200 | [36200-planktos.json](./36200-planktos.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
+| Plant & Profit | 420227 | [420227-plant-and-profit.json](./420227-plant-and-profit.json) |
 | Plant Anywhere | 411919 | [411919-plant-anywhere.json](./411919-plant-anywhere.json) |
 | Plant Chess | 260058 | [260058-plant-chess.json](./260058-plant-chess.json) |
 | Plant Daddy | 131854 | [131854-plant-daddy.json](./131854-plant-daddy.json) |
@@ -16366,6 +16368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest: An Exorcist Simulator | 109559 | [109559-priest-an-exorcist-simulator.json](./109559-priest-an-exorcist-simulator.json) |
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Priestess In Training Sahnia : her fairest limbs devoured by the filthy forest | 82634 | [82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json](./82634-priestess-in-training-sahnia-her-fairest-limbs-devoured-by-the-filthy-forest.json) |
+| Priestess’s Delusions | 420161 | [420161-priestess-s-delusions.json](./420161-priestess-s-delusions.json) |
 | Prigod Idle | 424111 | [424111-prigod-idle.json](./424111-prigod-idle.json) |
 | Priklyucheniya Mishek Gammi | 210311 | [210311-priklyucheniya-mishek-gammi.json](./210311-priklyucheniya-mishek-gammi.json) |
 | Prim | 143333 | [143333-prim.json](./143333-prim.json) |
@@ -16872,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Crash | 38742 | [38742-prism-crash.json](./38742-prism-crash.json) |
 | Prism Cross | 354399 | [354399-prism-cross.json](./354399-prism-cross.json) |
 | Prism Crush | 372131 | [372131-prism-crush.json](./372131-prism-crush.json) |
+| Prism Factory | 420160 | [420160-prism-factory.json](./420160-prism-factory.json) |
 | Prism Heart | 283127 | [283127-prism-heart.json](./283127-prism-heart.json) |
 | Prism Hotel Murder Case: Super Mystery Wars - Episode Conan | 310012 | [310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json](./310012-prism-hotel-murder-case-super-mystery-wars-episode-conan.json) |
 | Prism Indigo | 297421 | [297421-prism-indigo.json](./297421-prism-indigo.json) |
@@ -16902,6 +16906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismatix | 88071 | [88071-prismatix.json](./88071-prismatix.json) |
 | PrismaVenture Clash | 293805 | [293805-prismaventure-clash.json](./293805-prismaventure-clash.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
+| Prismfall | 420167 | [420167-prismfall.json](./420167-prismfall.json) |
 | Prismhold | 424143 | [424143-prismhold.json](./424143-prismhold.json) |
 | PrismNeedle | 323000 | [323000-prismneedle.json](./323000-prismneedle.json) |
 | Prismpunk | 423604 | [423604-prismpunk.json](./423604-prismpunk.json) |
@@ -16913,6 +16918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Alone | 311867 | [311867-prison-alone.json](./311867-prison-alone.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
+| Prison Anomaly | 420165 | [420165-prison-anomaly.json](./420165-prison-anomaly.json) |
 | Prison Architect | 1338 | [1338-prison-architect.json](./1338-prison-architect.json) |
 | Prison Architect DLC Bundle | 118886 | [118886-prison-architect-dlc-bundle.json](./118886-prison-architect-dlc-bundle.json) |
 | Prison Architect: Aficionado | 124866 | [124866-prison-architect-aficionado.json](./124866-prison-architect-aficionado.json) |
@@ -16995,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison Notes | 328192 | [328192-prison-notes.json](./328192-prison-notes.json) |
+| Prison of Doubles | 420162 | [420162-prison-of-doubles.json](./420162-prison-of-doubles.json) |
 | Prison of Hope | 271855 | [271855-prison-of-hope.json](./271855-prison-of-hope.json) |
 | Prison of Husks | 269682 | [269682-prison-of-husks.json](./269682-prison-of-husks.json) |
 | Prison of Illusion | 301770 | [301770-prison-of-illusion.json](./301770-prison-of-illusion.json) |
