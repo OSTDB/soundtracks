@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballgame 2 | 79224 | [79224-ballgame-2.json](./79224-ballgame-2.json) |
 | Ballgirl and the 64 Lost Gems | 181720 | [181720-ballgirl-and-the-64-lost-gems.json](./181720-ballgirl-and-the-64-lost-gems.json) |
 | Ballhalla | 339606 | [339606-ballhalla.json](./339606-ballhalla.json) |
+| BallHole | 425471 | [425471-ballhole.json](./425471-ballhole.json) |
 | Ballimals | 67594 | [67594-ballimals.json](./67594-ballimals.json) |
 | Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Balling Up | 267745 | [267745-balling-up.json](./267745-balling-up.json) |
