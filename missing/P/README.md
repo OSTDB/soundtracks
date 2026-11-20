@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Pack of Demons | 168588 | [168588-pack-of-demons.json](./168588-pack-of-demons.json) |
+| Pack Party | 429127 | [429127-pack-party.json](./429127-pack-party.json) |
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Playlink That's You! + Knowledge is Power + Singstar Celebration + Hidden Agenda | 145334 | [145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json](./145334-pack-playlink-thats-you-knowledge-is-power-singstar-celebration-hidden-agenda.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
+| Papertale | 429174 | [429174-papertale.json](./429174-papertale.json) |
 | Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
@@ -5617,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Pat | 221568 | [221568-pet-pat.json](./221568-pet-pat.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Pet Pet | 62897 | [62897-pet-pet-pet.json](./62897-pet-pet-pet.json) |
+| Pet Pet Pet: Tidy Up! | 429126 | [429126-pet-pet-pet-tidy-up.json](./429126-pet-pet-pet-tidy-up.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
 | Pet Rabbit 3D Simulator | 96807 | [96807-pet-rabbit-3d-simulator.json](./96807-pet-rabbit-3d-simulator.json) |
 | Pet Racer | 65106 | [65106-pet-racer.json](./65106-pet-racer.json) |
