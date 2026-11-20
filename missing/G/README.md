@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacard: Ackian Archives | 365210 | [365210-galacard-ackian-archives.json](./365210-galacard-ackian-archives.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
 | Galacdrive | 251661 | [251661-galacdrive.json](./251661-galacdrive.json) |
+| Galacide | 35581 | [35581-galacide.json](./35581-galacide.json) |
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galact Quest | 36483 | [36483-galact-quest.json](./36483-galact-quest.json) |
 | Galacta: The Battle for Saturn | 71401 | [71401-galacta-the-battle-for-saturn.json](./71401-galacta-the-battle-for-saturn.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
+| Ghost Encounters: Deadwood - Collector's Edition | 35691 | [35691-ghost-encounters-deadwood-collectors-edition.json](./35691-ghost-encounters-deadwood-collectors-edition.json) |
 | Ghost Exile | 186477 | [186477-ghost-exile.json](./186477-ghost-exile.json) |
 | Ghost Exorcism Inc. | 151868 | [151868-ghost-exorcism-inc.json](./151868-ghost-exorcism-inc.json) |
 | Ghost Exorcist | 408452 | [408452-ghost-exorcist.json](./408452-ghost-exorcist.json) |
@@ -4756,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giana Sisters | 293267 | [293267-giana-sisters.json](./293267-giana-sisters.json) |
 | Giana Sisters 2 | 77690 | [77690-giana-sisters-2.json](./77690-giana-sisters-2.json) |
+| Giana Sisters 2D | 35739 | [35739-giana-sisters-2d.json](./35739-giana-sisters-2d.json) |
 | Giana Sisters DS | 298945 | [298945-giana-sisters-ds.json](./298945-giana-sisters-ds.json) |
 | Giana Sisters: Dream Runners | 20879 | [20879-giana-sisters-dream-runners.json](./20879-giana-sisters-dream-runners.json) |
 | Giana Sisters: Project Radiant | 318533 | [318533-giana-sisters-project-radiant.json](./318533-giana-sisters-project-radiant.json) |
