@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
 | Hacker Typing | 231102 | [231102-hacker-typing.json](./231102-hacker-typing.json) |
 | Hacker vs It | 412745 | [412745-hacker-vs-it.json](./412745-hacker-vs-it.json) |
+| Hacker: The Dark Shadow | 423097 | [423097-hacker-the-dark-shadow.json](./423097-hacker-the-dark-shadow.json) |
 | Hacker's Adventure | 142244 | [142244-hackers-adventure.json](./142244-hackers-adventure.json) |
 | Hacker's Beat | 35560 | [35560-hackers-beat.json](./35560-hackers-beat.json) |
 | Hacker’s Journey | 411625 | [411625-hacker-s-journey.json](./411625-hacker-s-journey.json) |
@@ -11262,6 +11263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
 | Hood Tales Part 1: Morocco | 337918 | [337918-hood-tales-part-1-morocco.json](./337918-hood-tales-part-1-morocco.json) |
 | Hood Warfare | 233644 | [233644-hood-warfare.json](./233644-hood-warfare.json) |
+| Hood Warfare 2 | 423121 | [423121-hood-warfare-2.json](./423121-hood-warfare-2.json) |
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Forest Lords Pack | 223870 | [223870-hood-outlaws-and-legends-forest-lords-pack.json](./223870-hood-outlaws-and-legends-forest-lords-pack.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
@@ -12370,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Let's Race: Ultimate Speed - High Voltage Speed Pack | 371438 | [371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json](./371438-hot-wheels-lets-race-ultimate-speed-high-voltage-speed-pack.json) |
 | Hot Wheels Micro Racers | 163632 | [163632-hot-wheels-micro-racers.json](./163632-hot-wheels-micro-racers.json) |
 | Hot Wheels Monster Trucks: Stunt Mayhem - Deluxe Edition | 317910 | [317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json](./317910-hot-wheels-monster-trucks-stunt-mayhem-deluxe-edition.json) |
+| Hot Wheels Rally | 423112 | [423112-hot-wheels-rally.json](./423112-hot-wheels-rally.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Stunt Track Driver | 249155 | [249155-hot-wheels-stunt-track-driver.json](./249155-hot-wheels-stunt-track-driver.json) |
 | Hot Wheels Stunt Track Driver | 26688 | [26688-hot-wheels-stunt-track-driver.json](./26688-hot-wheels-stunt-track-driver.json) |
