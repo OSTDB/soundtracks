@@ -5627,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ericanskinsmonsters | 277444 | [277444-ericanskinsmonsters.json](./277444-ericanskinsmonsters.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
 | Erick Golden | 335713 | [335713-erick-golden.json](./335713-erick-golden.json) |
+| Eridani | 426105 | [426105-eridani.json](./426105-eridani.json) |
 | Eridani Survivors | 347925 | [347925-eridani-survivors.json](./347925-eridani-survivors.json) |
 | Eridle. | 421180 | [421180-eridle.json](./421180-eridle.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
