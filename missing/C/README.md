@@ -6459,6 +6459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Letter | 351365 | [351365-chain-letter.json](./351365-chain-letter.json) |
 | Chain Mail: Trip to the Panic World! | 97641 | [97641-chain-mail-trip-to-the-panic-world.json](./97641-chain-mail-trip-to-the-panic-world.json) |
 | Chain Ninja | 243577 | [243577-chain-ninja.json](./243577-chain-ninja.json) |
+| Chain of Command | 425258 | [425258-chain-of-command.json](./425258-chain-of-command.json) |
 | Chain of Command | 57857 | [57857-chain-of-command.json](./57857-chain-of-command.json) |
 | Chain of Command: Eastern Front | 206907 | [206907-chain-of-command-eastern-front.json](./206907-chain-of-command-eastern-front.json) |
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
@@ -13402,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Rush | 181054 | [181054-coin-rush.json](./181054-coin-rush.json) |
 | Coin Rush | 336594 | [336594-coin-rush.json](./336594-coin-rush.json) |
 | Coin Shark | 374577 | [374577-coin-shark.json](./374577-coin-shark.json) |
+| Coin Shower | 425468 | [425468-coin-shower.json](./425468-coin-shower.json) |
 | Coin Slot | 355181 | [355181-coin-slot.json](./355181-coin-slot.json) |
 | Coin Slots Live | 386856 | [386856-coin-slots-live.json](./386856-coin-slots-live.json) |
 | Coin Smith | 337067 | [337067-coin-smith.json](./337067-coin-smith.json) |
@@ -15912,6 +15914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Ninja-Kid II | 395248 | [395248-console-archives-ninja-kid-ii.json](./395248-console-archives-ninja-kid-ii.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
 | Console Archives: Nobunaga's Ambition II | 417859 | [417859-console-archives-nobunagas-ambition-ii.json](./417859-console-archives-nobunagas-ambition-ii.json) |
+| Console Archives: Raiden Project | 425325 | [425325-console-archives-raiden-project.json](./425325-console-archives-raiden-project.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
@@ -23414,6 +23417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Bodies | 224842 | [224842-cyber-bodies.json](./224842-cyber-bodies.json) |
 | Cyber Boxing Arena | 391419 | [391419-cyber-boxing-arena.json](./391419-cyber-boxing-arena.json) |
 | Cyber Breaker | 391369 | [391369-cyber-breaker.json](./391369-cyber-breaker.json) |
+| Cyber Breaker ’95 | 425227 | [425227-cyber-breaker-95.json](./425227-cyber-breaker-95.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Car | 199407 | [199407-cyber-car.json](./199407-cyber-car.json) |
 | Cyber Car Seller Simulator | 347062 | [347062-cyber-car-seller-simulator.json](./347062-cyber-car-seller-simulator.json) |
