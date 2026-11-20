@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 6 R | 276350 | [276350-wangan-midnight-maximum-tune-6-r.json](./276350-wangan-midnight-maximum-tune-6-r.json) |
 | Wangan Midnight Maximum Tune 6 RR | 276352 | [276352-wangan-midnight-maximum-tune-6-rr.json](./276352-wangan-midnight-maximum-tune-6-rr.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wangan Midnight Maximum Tune Ignition | 428514 | [428514-wangan-midnight-maximum-tune-ignition.json](./428514-wangan-midnight-maximum-tune-ignition.json) |
 | Wangan Midnight Portable | 269511 | [269511-wangan-midnight-portable.json](./269511-wangan-midnight-portable.json) |
 | Wangan Midnight: R | 215170 | [215170-wangan-midnight-r.json](./215170-wangan-midnight-r.json) |
 | Wangan Sensen Red City | 231525 | [231525-wangan-sensen-red-city.json](./231525-wangan-sensen-red-city.json) |
@@ -3467,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weatherworn: The Adventure of Pap & Pup | 157526 | [157526-weatherworn-the-adventure-of-pap-and-pup.json](./157526-weatherworn-the-adventure-of-pap-and-pup.json) |
 | Weave | 108823 | [108823-weave.json](./108823-weave.json) |
 | Weave | 183935 | [183935-weave.json](./183935-weave.json) |
+| Weave & Wander | 428551 | [428551-weave-and-wander.json](./428551-weave-and-wander.json) |
 | Weave the Line | 99943 | [99943-weave-the-line.json](./99943-weave-the-line.json) |
 | Weave the Line - Puzzle games | 108278 | [108278-weave-the-line-puzzle-games.json](./108278-weave-the-line-puzzle-games.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
@@ -4253,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
 | Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
 | Whalefall | 194493 | [194493-whalefall.json](./194493-whalefall.json) |
+| Whalefall | 428515 | [428515-whalefall.json](./428515-whalefall.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
 | Whalien: Unexpected Guests | 165277 | [165277-whalien-unexpected-guests.json](./165277-whalien-unexpected-guests.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
@@ -8309,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderEnd 0 | 341258 | [341258-wonderend-0.json](./341258-wonderend-0.json) |
 | Wonderers: Eternal World | 194056 | [194056-wonderers-eternal-world.json](./194056-wonderers-eternal-world.json) |
 | Wonderfall | 361645 | [361645-wonderfall.json](./361645-wonderfall.json) |
+| Wonderful Body Wanted | 428545 | [428545-wonderful-body-wanted.json](./428545-wonderful-body-wanted.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Doom | 273059 | [273059-wonderful-doom.json](./273059-wonderful-doom.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
