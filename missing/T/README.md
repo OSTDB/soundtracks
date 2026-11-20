@@ -12737,7 +12737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Immortal Mayor: The Feather Kingdom | 293756 | [293756-the-immortal-mayor-the-feather-kingdom.json](./293756-the-immortal-mayor-the-feather-kingdom.json) |
-| The Immortals of Terra: A Perry Rhodan Adventure | 9108 | [9108-the-immortals-of-terra-a-perry-rhodan-adventure.json](./9108-the-immortals-of-terra-a-perry-rhodan-adventure.json) |
 | The Impassable Speed Labyrinth | 57226 | [57226-the-impassable-speed-labyrinth.json](./57226-the-impassable-speed-labyrinth.json) |
 | The Imperial Base | 359450 | [359450-the-imperial-base.json](./359450-the-imperial-base.json) |
 | The Imperial Capital Burns: Muv-Luv Alternative Total Eclipse | 276596 | [276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json](./276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json) |
@@ -17709,7 +17708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Race | 171802 | [171802-the-race.json](./171802-the-race.json) |
 | The Race Against Time | 39132 | [39132-the-race-against-time.json](./39132-the-race-against-time.json) |
 | The Race Factory | 129302 | [129302-the-race-factory.json](./129302-the-race-factory.json) |
-| The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Race to Galamax | 147281 | [147281-the-race-to-galamax.json](./147281-the-race-to-galamax.json) |
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
@@ -20212,7 +20210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
 | The Terminator: Dawn of Fate | 6195 | [6195-the-terminator-dawn-of-fate.json](./6195-the-terminator-dawn-of-fate.json) |
-| The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
 | The Terminator: Rampage | 8412 | [8412-the-terminator-rampage.json](./8412-the-terminator-rampage.json) |
 | The Terminator: SkyNet | 8414 | [8414-the-terminator-skynet.json](./8414-the-terminator-skynet.json) |
 | The Termiraptor | 233393 | [233393-the-termiraptor.json](./233393-the-termiraptor.json) |
@@ -20725,7 +20722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Worth | 116935 | [116935-the-tower-of-worth.json](./116935-the-tower-of-worth.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower on the Borderland | 258897 | [258897-the-tower-on-the-borderland.json](./258897-the-tower-on-the-borderland.json) |
-| The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Tower Stories Green 1 | 295378 | [295378-the-tower-stories-green-1.json](./295378-the-tower-stories-green-1.json) |
 | The Tower: A Bomb's Climb | 64676 | [64676-the-tower-a-bombs-climb.json](./64676-the-tower-a-bombs-climb.json) |
 | The Tower: Last Stand | 31742 | [31742-the-tower-last-stand.json](./31742-the-tower-last-stand.json) |
@@ -23853,7 +23849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thundercade | 40480 | [40480-thundercade.json](./40480-thundercade.json) |
 | ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
-| ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
 | ThunderCats: The Lost Eye of Thundera | 8059 | [8059-thundercats-the-lost-eye-of-thundera.json](./8059-thundercats-the-lost-eye-of-thundera.json) |
 | Thunderchopper | 37161 | [37161-thunderchopper.json](./37161-thunderchopper.json) |
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
