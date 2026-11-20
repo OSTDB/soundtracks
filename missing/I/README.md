@@ -4710,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
 | Informe Ypsilon | 321082 | [321082-informe-ypsilon.json](./321082-informe-ypsilon.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
+| Infploria | 427967 | [427967-infploria.json](./427967-infploria.json) |
 | Infra | 16310 | [16310-infra.json](./16310-infra.json) |
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
 | Infra Arcana | 57855 | [57855-infra-arcana.json](./57855-infra-arcana.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
 | Internal Invasion | 85625 | [85625-internal-invasion.json](./85625-internal-invasion.json) |
 | Internal Plexus | 229747 | [229747-internal-plexus.json](./229747-internal-plexus.json) |
+| Internal Power | 427925 | [427925-internal-power.json](./427925-internal-power.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | Internal Storm | 90252 | [90252-internal-storm.json](./90252-internal-storm.json) |
@@ -6623,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris: I'm Reflecting in the Silence | 413771 | [413771-iris-im-reflecting-in-the-silence.json](./413771-iris-im-reflecting-in-the-silence.json) |
 | Iris.Fall | 109129 | [109129-iris-fall.json](./109129-iris-fall.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
+| Iris's Idle Log | 427969 | [427969-iriss-idle-log.json](./427969-iriss-idle-log.json) |
 | Irish Coffee | 142291 | [142291-irish-coffee.json](./142291-irish-coffee.json) |
 | Irish The Cat | 421764 | [421764-irish-the-cat.json](./421764-irish-the-cat.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
