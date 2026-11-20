@@ -258,8 +258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2140: Mission Pack 2 - Final Conflict | 73593 | [73593-earth-2140-mission-pack-2-final-conflict.json](./73593-earth-2140-mission-pack-2-final-conflict.json) |
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
-| Earth 2150: Lost Souls | 8934 | [8934-earth-2150-lost-souls.json](./8934-earth-2150-lost-souls.json) |
-| Earth 2150: The Moon Project | 8933 | [8933-earth-2150-the-moon-project.json](./8933-earth-2150-the-moon-project.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
 | Earth 2160: Edition 2012 | 53974 | [53974-earth-2160-edition-2012.json](./53974-earth-2160-edition-2012.json) |
 | Earth Analog | 127581 | [127581-earth-analog.json](./127581-earth-analog.json) |
@@ -5557,7 +5555,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicate | 183769 | [183769-eradicate.json](./183769-eradicate.json) |
 | Eradicated | 26011 | [26011-eradicated.json](./26011-eradicated.json) |
-| Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Eradicator Genesis | 384187 | [384187-eradicator-genesis.json](./384187-eradicator-genesis.json) |
 | Eragon | 5821 | [5821-eragon.json](./5821-eragon.json) |
 | Eragon's Tale | 195359 | [195359-eragons-tale.json](./195359-eragons-tale.json) |
@@ -6500,7 +6497,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Maze | 371195 | [371195-escape-the-maze.json](./371195-escape-the-maze.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
 | Escape the MonStalkers! | 343042 | [343042-escape-the-monstalkers.json](./343042-escape-the-monstalkers.json) |
-| Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
 | Escape the Ninja Room | 127429 | [127429-escape-the-ninja-room.json](./127429-escape-the-ninja-room.json) |
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
