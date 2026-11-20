@@ -10456,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggems | 420031 | [420031-diggems.json](./420031-diggems.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger | 24425 | [24425-digger.json](./24425-digger.json) |
+| Digger | 423140 | [423140-digger.json](./423140-digger.json) |
 | Digger Chan | 45622 | [45622-digger-chan.json](./45622-digger-chan.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
 | Digger Dan | 14033 | [14033-digger-dan.json](./14033-digger-dan.json) |
@@ -13395,6 +13396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgeball Championship League | 230152 | [230152-dodgeball-championship-league.json](./230152-dodgeball-championship-league.json) |
 | Dodgeball Circuit | 339534 | [339534-dodgeball-circuit.json](./339534-dodgeball-circuit.json) |
 | Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
+| Dodgeball Disorder | 423147 | [423147-dodgeball-disorder.json](./423147-dodgeball-disorder.json) |
 | Dodgeball Dojo | 309062 | [309062-dodgeball-dojo.json](./309062-dodgeball-dojo.json) |
 | Dodgeball Dojo: Pusoy Dos | 339535 | [339535-dodgeball-dojo-pusoy-dos.json](./339535-dodgeball-dojo-pusoy-dos.json) |
 | Dodgeball Duel | 208063 | [208063-dodgeball-duel.json](./208063-dodgeball-duel.json) |
@@ -18007,6 +18009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw and Color: Kawaii - Ultimate Edition | 226093 | [226093-draw-and-color-kawaii-ultimate-edition.json](./226093-draw-and-color-kawaii-ultimate-edition.json) |
 | Draw and Color: Kawaii - Ultra Deluxe | 273333 | [273333-draw-and-color-kawaii-ultra-deluxe.json](./273333-draw-and-color-kawaii-ultra-deluxe.json) |
 | Draw and Go! | 276129 | [276129-draw-and-go.json](./276129-draw-and-go.json) |
+| Draw and Guess | 423156 | [423156-draw-and-guess.json](./423156-draw-and-guess.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
 | Draw Around | 142402 | [142402-draw-around.json](./142402-draw-around.json) |
 | Draw Battle! | 186526 | [186526-draw-battle.json](./186526-draw-battle.json) |
@@ -21732,6 +21735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duolingo: Chess | 373509 | [373509-duolingo-chess.json](./373509-duolingo-chess.json) |
 | Duolty | 382740 | [382740-duolty.json](./382740-duolty.json) |
 | DuoQ | 343225 | [343225-duoq.json](./343225-duoq.json) |
+| Duoshift | 423180 | [423180-duoshift.json](./423180-duoshift.json) |
 | Duotone | 213269 | [213269-duotone.json](./213269-duotone.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | Duotris | 67344 | [67344-duotris.json](./67344-duotris.json) |
