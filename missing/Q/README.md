@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Covenant | 416236 | [416236-quantum-covenant.json](./416236-quantum-covenant.json) |
 | Quantum Curse | 385776 | [385776-quantum-curse.json](./385776-quantum-curse.json) |
+| Quantum Defense | 420722 | [420722-quantum-defense.json](./420722-quantum-defense.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
 | Quantum Derelict | 254408 | [254408-quantum-derelict.json](./254408-quantum-derelict.json) |
 | Quantum Dogfight | 349179 | [349179-quantum-dogfight.json](./349179-quantum-dogfight.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest and Arena | 298521 | [298521-quest-and-arena.json](./298521-quest-and-arena.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Braintainment | 334625 | [334625-quest-braintainment.json](./334625-quest-braintainment.json) |
+| Quest Dice | 420734 | [420734-quest-dice.json](./420734-quest-dice.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest fo Karma | 62303 | [62303-quest-fo-karma.json](./62303-quest-fo-karma.json) |
 | Quest for 2Moo | 273252 | [273252-quest-for-2moo.json](./273252-quest-for-2moo.json) |
