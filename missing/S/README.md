@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Sailors: Age of Corsairs | 216922 | [216922-sailors-age-of-corsairs.json](./216922-sailors-age-of-corsairs.json) |
 | Sails | 412642 | [412642-sails.json](./412642-sails.json) |
+| Sails of Salt | 427359 | [427359-sails-of-salt.json](./427359-sails-of-salt.json) |
 | SailSim | 204266 | [204266-sailsim.json](./204266-sailsim.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapwings | 346352 | [346352-scrapwings.json](./346352-scrapwings.json) |
 | Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
 | Scrapyard | 63421 | [63421-scrapyard.json](./63421-scrapyard.json) |
+| ScrapYard | 427392 | [427392-scrapyard.json](./427392-scrapyard.json) |
 | Scrapyard Arena | 231123 | [231123-scrapyard-arena.json](./231123-scrapyard-arena.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
@@ -12137,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
 | Silent Heroes: Elite Troups of WWII | 62302 | [62302-silent-heroes-elite-troups-of-wwii.json](./62302-silent-heroes-elite-troups-of-wwii.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
+| Silent Hill 2 for Nintendo 3DS | 427372 | [427372-silent-hill-2-for-nintendo-3ds.json](./427372-silent-hill-2-for-nintendo-3ds.json) |
 | Silent Hill 2: 20th Anniversary Demake | 286880 | [286880-silent-hill-2-20th-anniversary-demake.json](./286880-silent-hill-2-20th-anniversary-demake.json) |
 | Silent Hill 2: Born From A Wish Demake | 342983 | [342983-silent-hill-2-born-from-a-wish-demake.json](./342983-silent-hill-2-born-from-a-wish-demake.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
@@ -27765,6 +27768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Dynasties | 122934 | [122934-star-dynasties.json](./122934-star-dynasties.json) |
 | Star Dynasties Bloodlines | 194261 | [194261-star-dynasties-bloodlines.json](./194261-star-dynasties-bloodlines.json) |
+| Star Eden: Here Sleep Angels | 427376 | [427376-star-eden-here-sleep-angels.json](./427376-star-eden-here-sleep-angels.json) |
 | Star Epica 3720 | 84038 | [84038-star-epica-3720.json](./84038-star-epica-3720.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Escape | 135052 | [135052-star-escape.json](./135052-star-escape.json) |
@@ -30658,6 +30662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
 | Step Lightly | 410551 | [410551-step-lightly.json](./410551-step-lightly.json) |
+| Step On It | 427404 | [427404-step-on-it.json](./427404-step-on-it.json) |
 | Step On It! | 343001 | [343001-step-on-it.json](./343001-step-on-it.json) |
 | Step Quest | 240671 | [240671-step-quest.json](./240671-step-quest.json) |
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
@@ -31264,6 +31269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Skies | 390840 | [390840-stolen-skies.json](./390840-stolen-skies.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomach | 358750 | [358750-stomach.json](./358750-stomach.json) |
+| Stomata | 427388 | [427388-stomata.json](./427388-stomata.json) |
 | Stomp | 27294 | [27294-stomp.json](./27294-stomp.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
@@ -35088,6 +35094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
 | Supa Kila Monsta Hunta | 30996 | [30996-supa-kila-monsta-hunta.json](./30996-supa-kila-monsta-hunta.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
+| Supa-Market: Japanese Super-Market Simulator | 427394 | [427394-supa-market-japanese-super-market-simulator.json](./427394-supa-market-japanese-super-market-simulator.json) |
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
 | Supanda | 267524 | [267524-supanda.json](./267524-supanda.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
@@ -41718,6 +41725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthroute 82 | 304649 | [304649-synthroute-82.json](./304649-synthroute-82.json) |
 | Synthrun | 114875 | [114875-synthrun.json](./114875-synthrun.json) |
 | SynthRunner | 233630 | [233630-synthrunner.json](./233630-synthrunner.json) |
+| Synthularity | 427367 | [427367-synthularity.json](./427367-synthularity.json) |
 | SynthVR | 145267 | [145267-synthvr.json](./145267-synthvr.json) |
 | Synthwaifu: Neon Space Fighter | 171314 | [171314-synthwaifu-neon-space-fighter.json](./171314-synthwaifu-neon-space-fighter.json) |
 | Synthwave Ascension | 265117 | [265117-synthwave-ascension.json](./265117-synthwave-ascension.json) |
