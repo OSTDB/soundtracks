@@ -5884,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Illusion Express: Deep Psyche | 69086 | [69086-master-of-illusion-express-deep-psyche.json](./69086-master-of-illusion-express-deep-psyche.json) |
+| Master of Illusion Express: Funny Face | 22536 | [22536-master-of-illusion-express-funny-face.json](./22536-master-of-illusion-express-funny-face.json) |
 | Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
 | Master of Illusion Express: Mind Probe | 85276 | [85276-master-of-illusion-express-mind-probe.json](./85276-master-of-illusion-express-mind-probe.json) |
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
@@ -8370,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Alberto Cousins | 181467 | [181467-mega-alberto-cousins.json](./181467-mega-alberto-cousins.json) |
 | Mega Alien Destroyer | 266565 | [266565-mega-alien-destroyer.json](./266565-mega-alien-destroyer.json) |
+| Mega Apocalypse | 22525 | [22525-mega-apocalypse.json](./22525-mega-apocalypse.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
 | Mega Blast | 71664 | [71664-mega-blast.json](./71664-mega-blast.json) |
@@ -20807,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Climber: Frozen Dream | 218611 | [218611-mountain-climber-frozen-dream.json](./218611-mountain-climber-frozen-dream.json) |
 | Mountain Crime: Requital | 34640 | [34640-mountain-crime-requital.json](./34640-mountain-crime-requital.json) |
 | Mountain Driving | 270989 | [270989-mountain-driving.json](./270989-mountain-driving.json) |
+| Mountain Goat Mountain | 22447 | [22447-mountain-goat-mountain.json](./22447-mountain-goat-mountain.json) |
 | Mountain King | 12315 | [12315-mountain-king.json](./12315-mountain-king.json) |
 | Mountain King Return | 288662 | [288662-mountain-king-return.json](./288662-mountain-king-return.json) |
 | Mountain Legends 3 | 291254 | [291254-mountain-legends-3.json](./291254-mountain-legends-3.json) |
@@ -22819,6 +22822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant: War of Mercenaries | 208068 | [208068-mutant-war-of-mercenaries.json](./208068-mutant-war-of-mercenaries.json) |
 | MutantDungeon | 402862 | [402862-mutantdungeon.json](./402862-mutantdungeon.json) |
 | Mutantity | 250887 | [250887-mutantity.json](./250887-mutantity.json) |
+| Mutants | 22522 | [22522-mutants.json](./22522-mutants.json) |
 | Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
