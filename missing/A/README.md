@@ -6218,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
 | AI: The Somnium Files - Nirvana Initiative | 153808 | [153808-ai-the-somnium-files-nirvana-initiative.json](./153808-ai-the-somnium-files-nirvana-initiative.json) |
 | AI: The Somnium Files - Nirvana Initiative: Collector's Edition | 154708 | [154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json](./154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json) |
+| AI: The Somnium Files - Special Agent Edition | 104974 | [104974-ai-the-somnium-files-special-agent-edition.json](./104974-ai-the-somnium-files-special-agent-edition.json) |
 | Ai.ai | 425351 | [425351-ai-ai.json](./425351-ai-ai.json) |
 | AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
@@ -10871,6 +10872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient Altar | 348516 | [348516-ancient-altar.json](./348516-ancient-altar.json) |
+| Ancient Amuletor: Into the Ice | 104783 | [104783-ancient-amuletor-into-the-ice.json](./104783-ancient-amuletor-into-the-ice.json) |
 | Ancient Anathema | 114098 | [114098-ancient-anathema.json](./114098-ancient-anathema.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
@@ -15206,6 +15208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
+| Arcane Golf | 105176 | [105176-arcane-golf.json](./105176-arcane-golf.json) |
 | Arcane Intern (Unpaid) | 98841 | [98841-arcane-intern-unpaid.json](./98841-arcane-intern-unpaid.json) |
 | Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
 | Arcane Lands | 296713 | [296713-arcane-lands.json](./296713-arcane-lands.json) |
