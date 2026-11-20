@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Counter | 149686 | [149686-under-the-counter.json](./149686-under-the-counter.json) |
 | Under The Crisis: Dárlia Island Remaster | 350716 | [350716-under-the-crisis-darlia-island-remaster.json](./350716-under-the-crisis-darlia-island-remaster.json) |
 | Under the Disco Lights: 80's Bar Simulator | 348678 | [348678-under-the-disco-lights-80s-bar-simulator.json](./348678-under-the-disco-lights-80s-bar-simulator.json) |
+| Under the Earth | 428550 | [428550-under-the-earth.json](./428550-under-the-earth.json) |
 | Under the Fallen Snow | 119116 | [119116-under-the-fallen-snow.json](./119116-under-the-fallen-snow.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under The Floor | 367865 | [367865-under-the-floor.json](./367865-under-the-floor.json) |
