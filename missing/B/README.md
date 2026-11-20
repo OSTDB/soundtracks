@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketmania | 88435 | [88435-basketmania.json](./88435-basketmania.json) |
 | Basketmania All Stars | 90453 | [90453-basketmania-all-stars.json](./90453-basketmania-all-stars.json) |
 | Basketrio | 154829 | [154829-basketrio.json](./154829-basketrio.json) |
+| Baskets and Blooms | 422508 | [422508-baskets-and-blooms.json](./422508-baskets-and-blooms.json) |
 | Baskhead | 32254 | [32254-baskhead.json](./32254-baskhead.json) |
 | Baskhead Training | 29706 | [29706-baskhead-training.json](./29706-baskhead-training.json) |
 | Baskin-Robbins: Enter the Flavour-Verse | 257334 | [257334-baskin-robbins-enter-the-flavour-verse.json](./257334-baskin-robbins-enter-the-flavour-verse.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathory: The Bloody Countess | 32418 | [32418-bathory-the-bloody-countess.json](./32418-bathory-the-bloody-countess.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathotel | 202495 | [202495-bathotel.json](./202495-bathotel.json) |
+| Bathroom | 422511 | [422511-bathroom.json](./422511-bathroom.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
 | Bathroom Please! | 424900 | [424900-bathroom-please.json](./424900-bathroom-please.json) |
 | Bathtime Toys | 192206 | [192206-bathtime-toys.json](./192206-bathtime-toys.json) |
@@ -7508,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benjy Adventure | 417675 | [417675-benjy-adventure.json](./417675-benjy-adventure.json) |
 | Benkei Gaiden | 80572 | [80572-benkei-gaiden.json](./80572-benkei-gaiden.json) |
 | Benkei Gaiden: Suna no Shou | 16140 | [16140-benkei-gaiden-suna-no-shou.json](./16140-benkei-gaiden-suna-no-shou.json) |
+| Benki Sensou | 422524 | [422524-benki-sensou.json](./422524-benki-sensou.json) |
 | Bennett Foddy's Speed Chess | 342167 | [342167-bennett-foddys-speed-chess.json](./342167-bennett-foddys-speed-chess.json) |
 | Bennu | 94057 | [94057-bennu.json](./94057-bennu.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
@@ -10097,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
 | Bitvoxel | 409822 | [409822-bitvoxel.json](./409822-bitvoxel.json) |
 | Bitweb | 35120 | [35120-bitweb.json](./35120-bitweb.json) |
+| BitWise | 422589 | [422589-bitwise.json](./422589-bitwise.json) |
 | Bitworm | 113701 | [113701-bitworm.json](./113701-bitworm.json) |
 | Bitzee | 340219 | [340219-bitzee.json](./340219-bitzee.json) |
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
@@ -18390,6 +18394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Time | 323466 | [323466-broken-time.json](./323466-broken-time.json) |
 | Broken Trapezium | 428356 | [428356-broken-trapezium.json](./428356-broken-trapezium.json) |
+| Broken Triad | 422506 | [422506-broken-triad.json](./422506-broken-triad.json) |
 | Broken Universe | 150788 | [150788-broken-universe.json](./150788-broken-universe.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
