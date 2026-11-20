@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter Talisman: Lord of the Harvest | 182257 | [182257-peter-talisman-lord-of-the-harvest.json](./182257-peter-talisman-lord-of-the-harvest.json) |
 | Peter World | 106282 | [106282-peter-world.json](./106282-peter-world.json) |
+| Peter's Adventure | 425727 | [425727-peters-adventure.json](./425727-peters-adventure.json) |
 | Peter's Adventures in English | 315455 | [315455-peters-adventures-in-english.json](./315455-peters-adventures-in-english.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Day Out | 165366 | [165366-peters-day-out.json](./165366-peters-day-out.json) |
@@ -7178,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Piczle World of Puzzles | 358033 | [358033-piczle-world-of-puzzles.json](./358033-piczle-world-of-puzzles.json) |
+| Piczle World of Puzzles: Piczle Colors Pack | 426130 | [426130-piczle-world-of-puzzles-piczle-colors-pack.json](./426130-piczle-world-of-puzzles-piczle-colors-pack.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
 | Pid: Deluxe Edition | 231248 | [231248-pid-deluxe-edition.json](./231248-pid-deluxe-edition.json) |
