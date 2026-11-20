@@ -11693,6 +11693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder Panic | 97965 | [97965-plunder-panic.json](./97965-plunder-panic.json) |
 | Plunder Pirates | 60830 | [60830-plunder-pirates.json](./60830-plunder-pirates.json) |
 | Plunder Protocol | 420544 | [420544-plunder-protocol.json](./420544-plunder-protocol.json) |
+| Plunder Rush | 426215 | [426215-plunder-rush.json](./426215-plunder-rush.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder Struck | 196919 | [196919-plunder-struck.json](./196919-plunder-struck.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
