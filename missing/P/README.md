@@ -4010,6 +4010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: The Alesso Heist | 167689 | [167689-payday-2-the-alesso-heist.json](./167689-payday-2-the-alesso-heist.json) |
 | Payday 2: The Armored Transport | 10691 | [10691-payday-2-the-armored-transport.json](./10691-payday-2-the-armored-transport.json) |
 | Payday 2: The Big Bank Heist | 150508 | [150508-payday-2-the-big-bank-heist.json](./150508-payday-2-the-big-bank-heist.json) |
+| Payday 2: The Big Score Edition | 24483 | [24483-payday-2-the-big-score-edition.json](./24483-payday-2-the-big-score-edition.json) |
 | Payday 2: The Biker Heist | 19613 | [19613-payday-2-the-biker-heist.json](./19613-payday-2-the-biker-heist.json) |
 | Payday 2: The Bomb Heists | 167692 | [167692-payday-2-the-bomb-heists.json](./167692-payday-2-the-bomb-heists.json) |
 | Payday 2: The Butcher's AK/CAR Mod Pack | 252880 | [252880-payday-2-the-butchers-ak-car-mod-pack.json](./252880-payday-2-the-butchers-ak-car-mod-pack.json) |
