@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphire Snowe: The Bear, The Beast & The Blizzard | 284158 | [284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json](./284158-sapphire-snowe-the-bear-the-beast-and-the-blizzard.json) |
 | Sapphire Tempest | 401724 | [401724-sapphire-tempest.json](./401724-sapphire-tempest.json) |
 | Sapphire Yours | 59571 | [59571-sapphire-yours.json](./59571-sapphire-yours.json) |
+| Sapphobos | 422979 | [422979-sapphobos.json](./422979-sapphobos.json) |
 | Saprophyte | 183084 | [183084-saprophyte.json](./183084-saprophyte.json) |
 | Sapu | 233025 | [233025-sapu.json](./233025-sapu.json) |
 | Sapu: Reborn | 424188 | [424188-sapu-reborn.json](./424188-sapu-reborn.json) |
@@ -14790,6 +14791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Sports Football Quiz: Season 02 | 60303 | [60303-sky-sports-football-quiz-season-02.json](./60303-sky-sports-football-quiz-season-02.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Sky Streaker | 317137 | [317137-sky-streaker.json](./317137-sky-streaker.json) |
+| Sky Strike Overdrive | 423103 | [423103-sky-strike-overdrive.json](./423103-sky-strike-overdrive.json) |
 | Sky Strikers VR | 240645 | [240645-sky-strikers-vr.json](./240645-sky-strikers-vr.json) |
 | Sky Surfer | 72223 | [72223-sky-surfer.json](./72223-sky-surfer.json) |
 | Sky Surfing | 233427 | [233427-sky-surfing.json](./233427-sky-surfing.json) |
@@ -16903,6 +16905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmileTris Panic! | 70193 | [70193-smiletris-panic.json](./70193-smiletris-panic.json) |
 | SmileXCorp 3 | 236945 | [236945-smilexcorp-3.json](./236945-smilexcorp-3.json) |
 | Smiley | 403670 | [403670-smiley.json](./403670-smiley.json) |
+| Smiley Arena | 423124 | [423124-smiley-arena.json](./423124-smiley-arena.json) |
 | Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
 | Smiley Steel | 426064 | [426064-smiley-steel.json](./426064-smiley-steel.json) |
@@ -21238,6 +21241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
 | Sore Losers | 124453 | [124453-sore-losers.json](./124453-sore-losers.json) |
 | Sore Yuke! Omocha Sensha | 222061 | [222061-sore-yuke-omocha-sensha.json](./222061-sore-yuke-omocha-sensha.json) |
+| Soredemo Ore ha Binyuu ga Suki: Kyonyuu Osananajimi no Kyousei Approach | 423194 | [423194-soredemo-ore-ha-binyuu-ga-suki-kyonyuu-osananajimi-no-kyousei-approach.json](./423194-soredemo-ore-ha-binyuu-ga-suki-kyonyuu-osananajimi-no-kyousei-approach.json) |
 | Soreike! Anpanman Card de Tanoshiku ABC | 327608 | [327608-soreike-anpanman-card-de-tanoshiku-abc.json](./327608-soreike-anpanman-card-de-tanoshiku-abc.json) |
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
@@ -25857,6 +25861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splinter | 138691 | [138691-splinter.json](./138691-splinter.json) |
 | Splinter Cell Double Agent + Rainbow Six Vegas | 147230 | [147230-splinter-cell-double-agent-rainbow-six-vegas.json](./147230-splinter-cell-double-agent-rainbow-six-vegas.json) |
 | Splinter Cell: Blacklist Spider-Bot | 344900 | [344900-splinter-cell-blacklist-spider-bot.json](./344900-splinter-cell-blacklist-spider-bot.json) |
+| Splinter Cell: Double Agent - XBE Recomp | 423114 | [423114-splinter-cell-double-agent-xbe-recomp.json](./423114-splinter-cell-double-agent-xbe-recomp.json) |
 | Splinter Zone | 28867 | [28867-splinter-zone.json](./28867-splinter-zone.json) |
 | Splintered | 319206 | [319206-splintered.json](./319206-splintered.json) |
 | Splinterlands | 165055 | [165055-splinterlands.json](./165055-splinterlands.json) |
@@ -34498,6 +34503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
 | Summer Flower of Summer Snow | 339482 | [339482-summer-flower-of-summer-snow.json](./339482-summer-flower-of-summer-snow.json) |
 | Summer Flowers | 286731 | [286731-summer-flowers.json](./286731-summer-flowers.json) |
+| Summer for Ant | 423080 | [423080-summer-for-ant.json](./423080-summer-for-ant.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Fruit | 134921 | [134921-summer-fruit.json](./134921-summer-fruit.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
