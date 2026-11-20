@@ -10337,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Glorious Regime Prison | 124884 | [124884-the-escapists-2-glorious-regime-prison.json](./124884-the-escapists-2-glorious-regime-prison.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
 | The Escapists 2: Wicked Ward | 124882 | [124882-the-escapists-2-wicked-ward.json](./124882-the-escapists-2-wicked-ward.json) |
+| The Escapists 3 | 422261 | [422261-the-escapists-3.json](./422261-the-escapists-3.json) |
 | The Escapists DLC Bundle | 227091 | [227091-the-escapists-dlc-bundle.json](./227091-the-escapists-dlc-bundle.json) |
 | The Escapists: Alcatraz | 53732 | [53732-the-escapists-alcatraz.json](./53732-the-escapists-alcatraz.json) |
 | The Escapists: Complete Edition | 108196 | [108196-the-escapists-complete-edition.json](./108196-the-escapists-complete-edition.json) |
@@ -12850,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: Rise of the Underminer | 3955 | [3955-the-incredibles-rise-of-the-underminer.json](./3955-the-incredibles-rise-of-the-underminer.json) |
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Incredibly soft adventures of Toothie | 180318 | [180318-the-incredibly-soft-adventures-of-toothie.json](./180318-the-incredibly-soft-adventures-of-toothie.json) |
+| The Incredimental Horse | 422236 | [422236-the-incredimental-horse.json](./422236-the-incredimental-horse.json) |
 | The Indespensible T_DUNNxx.WAD Series : For Heretic | 268625 | [268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json](./268625-the-indespensible-t-dunnxx-wad-series-for-heretic.json) |
 | The Indestructible Moxy Boxy | 169807 | [169807-the-indestructible-moxy-boxy.json](./169807-the-indestructible-moxy-boxy.json) |
 | The Indian in the Cupboard | 74044 | [74044-the-indian-in-the-cupboard.json](./74044-the-indian-in-the-cupboard.json) |
@@ -14296,6 +14298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of California | 394520 | [394520-the-legend-of-california.json](./394520-the-legend-of-california.json) |
 | The Legend of Candlewind: Nights & Candles | 17910 | [17910-the-legend-of-candlewind-nights-and-candles.json](./17910-the-legend-of-candlewind-nights-and-candles.json) |
 | The Legend of Capa Negra | 215738 | [215738-the-legend-of-capa-negra.json](./215738-the-legend-of-capa-negra.json) |
+| The Legend of Celia | 422593 | [422593-the-legend-of-celia.json](./422593-the-legend-of-celia.json) |
 | The Legend of Cesar | 160236 | [160236-the-legend-of-cesar.json](./160236-the-legend-of-cesar.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
 | The Legend of Chibi Ninja | 200925 | [200925-the-legend-of-chibi-ninja.json](./200925-the-legend-of-chibi-ninja.json) |
@@ -19269,6 +19272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sin | 148329 | [148329-the-sin.json](./148329-the-sin.json) |
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
 | The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
+| The Sin of Ritter | 422606 | [422606-the-sin-of-ritter.json](./422606-the-sin-of-ritter.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
 | The Single-Eye Nightmare | 368992 | [368992-the-single-eye-nightmare.json](./368992-the-single-eye-nightmare.json) |
 | The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
@@ -23699,6 +23703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
 | Through Time | 206220 | [206220-through-time.json](./206220-through-time.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
+| Throughput | 422614 | [422614-throughput.json](./422614-throughput.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
 | Throuple in Paradise | 426067 | [426067-throuple-in-paradise.json](./426067-throuple-in-paradise.json) |
 | Throw Anything | 86622 | [86622-throw-anything.json](./86622-throw-anything.json) |
@@ -26314,6 +26319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Circuit | 258684 | [258684-time-circuit.json](./258684-time-circuit.json) |
 | Time Clickers | 19149 | [19149-time-clickers.json](./19149-time-clickers.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
+| Time Collage | 422603 | [422603-time-collage.json](./422603-time-collage.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
 | Time Crack | 378068 | [378068-time-crack.json](./378068-time-crack.json) |
 | Time Crash | 77464 | [77464-time-crash.json](./77464-time-crash.json) |
@@ -28082,6 +28088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToeJam & Earl: Back in the Groove | 11122 | [11122-toejam-and-earl-back-in-the-groove.json](./11122-toejam-and-earl-back-in-the-groove.json) |
 | Toem | 118193 | [118193-toem.json](./118193-toem.json) |
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
+| Toey Weedz Smoke Dead Halloween | 422607 | [422607-toey-weedz-smoke-dead-halloween.json](./422607-toey-weedz-smoke-dead-halloween.json) |
 | Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
 | Toey Weedz Smoke One | 338959 | [338959-toey-weedz-smoke-one.json](./338959-toey-weedz-smoke-one.json) |
 | Tofas Sahin: Online Car Driving | 235509 | [235509-tofas-sahin-online-car-driving.json](./235509-tofas-sahin-online-car-driving.json) |
@@ -30417,6 +30424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Artificial Dream in Arcadia | 228758 | [228758-touhou-artificial-dream-in-arcadia.json](./228758-touhou-artificial-dream-in-arcadia.json) |
 | Touhou Asked | 109351 | [109351-touhou-asked.json](./109351-touhou-asked.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
+| Touhou Bansho Cards | 422609 | [422609-touhou-bansho-cards.json](./422609-touhou-bansho-cards.json) |
 | Touhou Battle Raiders | 250585 | [250585-touhou-battle-raiders.json](./250585-touhou-battle-raiders.json) |
 | Touhou Big Big Battle | 107723 | [107723-touhou-big-big-battle.json](./107723-touhou-big-big-battle.json) |
 | Touhou Big Big Battle: Character Pack 1 | 224362 | [224362-touhou-big-big-battle-character-pack-1.json](./224362-touhou-big-big-battle-character-pack-1.json) |
@@ -35871,6 +35879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zombie Collection | 274443 | [274443-triple-zombie-collection.json](./274443-triple-zombie-collection.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
+| Triple-A Minesweeper | 422484 | [422484-triple-a-minesweeper.json](./422484-triple-a-minesweeper.json) |
 | TripleA | 124699 | [124699-triplea.json](./124699-triplea.json) |
 | TripleBuilder | 161168 | [161168-triplebuilder.json](./161168-triplebuilder.json) |
 | Triplets Trouble!!! | 262903 | [262903-triplets-trouble.json](./262903-triplets-trouble.json) |
