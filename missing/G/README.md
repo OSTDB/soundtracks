@@ -8611,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Get Going: Steam Smugglers Prologue | 90402 | [90402-gotta-get-going-steam-smugglers-prologue.json](./90402-gotta-get-going-steam-smugglers-prologue.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Go Fast: Racing Collection | 246572 | [246572-gotta-go-fast-racing-collection.json](./246572-gotta-go-fast-racing-collection.json) |
+| Gotta Protectors | 22461 | [22461-gotta-protectors.json](./22461-gotta-protectors.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
