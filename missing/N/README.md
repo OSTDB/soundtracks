@@ -8073,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
 | Nothing is Known: The Innocents | 364575 | [364575-nothing-is-known-the-innocents.json](./364575-nothing-is-known-the-innocents.json) |
 | Nothing Left: Give Up | 268278 | [268278-nothing-left-give-up.json](./268278-nothing-left-give-up.json) |
+| Nothing Lost | 422233 | [422233-nothing-lost.json](./422233-nothing-lost.json) |
 | Nothing Somewhere | 257591 | [257591-nothing-somewhere.json](./257591-nothing-somewhere.json) |
 | Nothing Special | 182424 | [182424-nothing-special.json](./182424-nothing-special.json) |
 | Nothing Strange Here | 352856 | [352856-nothing-strange-here.json](./352856-nothing-strange-here.json) |
