@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
 | Dead End Beam | 398671 | [398671-dead-end-beam.json](./398671-dead-end-beam.json) |
 | Dead End City | 197176 | [197176-dead-end-city.json](./197176-dead-end-city.json) |
+| Dead End Directive | 417672 | [417672-dead-end-directive.json](./417672-dead-end-directive.json) |
 | Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
 | Dead End Exit 8 | 288027 | [288027-dead-end-exit-8.json](./288027-dead-end-exit-8.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
@@ -21390,6 +21391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Darkness | 32535 | [32535-dungeons-and-darkness.json](./32535-dungeons-and-darkness.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
+| Dungeons & Digits | 417633 | [417633-dungeons-and-digits.json](./417633-dungeons-and-digits.json) |
 | Dungeons & Dimensions | 290196 | [290196-dungeons-and-dimensions.json](./290196-dungeons-and-dimensions.json) |
 | Dungeons & Dining Tables | 287484 | [287484-dungeons-and-dining-tables.json](./287484-dungeons-and-dining-tables.json) |
 | Dungeons & Directories | 381931 | [381931-dungeons-and-directories.json](./381931-dungeons-and-directories.json) |
