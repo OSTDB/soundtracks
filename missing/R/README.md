@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
 | Raiders of the Lost Island | 76128 | [76128-raiders-of-the-lost-island.json](./76128-raiders-of-the-lost-island.json) |
+| Raiders of the North Sea | 121135 | [121135-raiders-of-the-north-sea.json](./121135-raiders-of-the-north-sea.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
 | Raiders Run | 125440 | [125440-raiders-run.json](./125440-raiders-run.json) |
