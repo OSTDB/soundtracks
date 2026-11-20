@@ -408,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
 | Sacrifice of the Beloved | 115318 | [115318-sacrifice-of-the-beloved.json](./115318-sacrifice-of-the-beloved.json) |
 | Sacrifice of The Spirit | 167438 | [167438-sacrifice-of-the-spirit.json](./167438-sacrifice-of-the-spirit.json) |
+| Sacrifice Sanctuary: The Ritual Maiden's Life With Monsters | 423735 | [423735-sacrifice-sanctuary-the-ritual-maidens-life-with-monsters.json](./423735-sacrifice-sanctuary-the-ritual-maidens-life-with-monsters.json) |
 | Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 279897 | [279897-sacrifices.json](./279897-sacrifices.json) |
@@ -11883,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sig.Null | 32071 | [32071-sig-null.json](./32071-sig-null.json) |
+| Sigabrt | 423676 | [423676-sigabrt.json](./423676-sigabrt.json) |
 | SIGame | 285584 | [285584-sigame.json](./285584-sigame.json) |
 | Sigformation | 235369 | [235369-sigformation.json](./235369-sigformation.json) |
 | Sigh of the Abyss | 207584 | [207584-sigh-of-the-abyss.json](./207584-sigh-of-the-abyss.json) |
@@ -17644,6 +17646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack | 351494 | [351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json](./351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json) |
 | Sniper Elite: Resistance - Striking Range | 375750 | [375750-sniper-elite-resistance-striking-range.json](./375750-sniper-elite-resistance-striking-range.json) |
 | Sniper Elite: Resistance - Target Führer: Lights, Camera, Achtung | 343572 | [343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json](./343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json) |
+| Sniper Elite: Resistance - Vercors Vendetta | 423550 | [423550-sniper-elite-resistance-vercors-vendetta.json](./423550-sniper-elite-resistance-vercors-vendetta.json) |
 | Sniper Elite: Resistance - Wrath of the Resistance Weapon and Skins Pack | 351493 | [351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json](./351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
 | Sniper Fury | 20356 | [20356-sniper-fury.json](./20356-sniper-fury.json) |
@@ -18861,6 +18864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar | 421037 | [421037-solar.json](./421037-solar.json) |
 | Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
+| Solar Arena | 423729 | [423729-solar-arena.json](./423729-solar-arena.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
 | Solar Baron | 161490 | [161490-solar-baron.json](./161490-solar-baron.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
@@ -20086,6 +20090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Chrome Madness | 333813 | [333813-sonic-chrome-madness.json](./333813-sonic-chrome-madness.json) |
 | Sonic Chronicles: The Dark Brotherhood | 299874 | [299874-sonic-chronicles-the-dark-brotherhood.json](./299874-sonic-chronicles-the-dark-brotherhood.json) |
 | Sonic Chrono Adventure | 19739 | [19739-sonic-chrono-adventure.json](./19739-sonic-chrono-adventure.json) |
+| Sonic Chrono Adventure Eternal | 423680 | [423680-sonic-chrono-adventure-eternal.json](./423680-sonic-chrono-adventure-eternal.json) |
 | Sonic Classic | 175974 | [175974-sonic-classic.json](./175974-sonic-classic.json) |
 | Sonic Classic 2 | 175975 | [175975-sonic-classic-2.json](./175975-sonic-classic-2.json) |
 | Sonic Classic Collection | 20502 | [20502-sonic-classic-collection.json](./20502-sonic-classic-collection.json) |
@@ -31686,6 +31691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straftat: Weapons, Maps and Hats | 326569 | [326569-straftat-weapons-maps-and-hats.json](./326569-straftat-weapons-maps-and-hats.json) |
 | Strahl | 4336 | [4336-strahl.json](./4336-strahl.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
+| Straight 4 | 423687 | [423687-straight-4.json](./423687-straight-4.json) |
 | Straight Ahead | 187394 | [187394-straight-ahead.json](./187394-straight-ahead.json) |
 | Straight Dice | 389338 | [389338-straight-dice.json](./389338-straight-dice.json) |
 | Straight Flush | 40438 | [40438-straight-flush.json](./40438-straight-flush.json) |
@@ -39159,6 +39165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Stick Warriors | 220246 | [220246-supreme-stick-warriors.json](./220246-supreme-stick-warriors.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
 | Supreme Warrior | 298560 | [298560-supreme-warrior.json](./298560-supreme-warrior.json) |
+| Supreme Warrior | 423719 | [423719-supreme-warrior.json](./423719-supreme-warrior.json) |
 | Supreme Warrior | 4291 | [4291-supreme-warrior.json](./4291-supreme-warrior.json) |
 | Supreme: Pizza Empire | 17742 | [17742-supreme-pizza-empire.json](./17742-supreme-pizza-empire.json) |
 | Suprotyv | 402376 | [402376-suprotyv.json](./402376-suprotyv.json) |
