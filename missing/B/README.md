@@ -7239,6 +7239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Beltrunner | 424412 | [424412-beltrunner.json](./424412-beltrunner.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
+| Beltz | 421899 | [421899-beltz.json](./421899-beltz.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
 | Beluga | 256857 | [256857-beluga.json](./256857-beluga.json) |
 | Beluga Dreams | 268498 | [268498-beluga-dreams.json](./268498-beluga-dreams.json) |
@@ -15342,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Control | 114488 | [114488-border-control.json](./114488-border-control.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
+| Border Empires | 421969 | [421969-border-empires.json](./421969-border-empires.json) |
 | Border Force | 114512 | [114512-border-force.json](./114512-border-force.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border Jumper | 320822 | [320822-border-jumper.json](./320822-border-jumper.json) |
@@ -17406,6 +17408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break the Loop | 267161 | [267161-break-the-loop.json](./267161-break-the-loop.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
+| Break the Piñatas | 421897 | [421897-break-the-pinatas.json](./421897-break-the-pinatas.json) |
 | Break the Sky | 182688 | [182688-break-the-sky.json](./182688-break-the-sky.json) |
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
