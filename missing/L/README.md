@@ -10835,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludicrous Uprising | 220434 | [220434-ludicrous-uprising.json](./220434-ludicrous-uprising.json) |
 | Ludo | 418923 | [418923-ludo.json](./418923-ludo.json) |
+| Ludo | 423153 | [423153-ludo.json](./423153-ludo.json) |
 | Ludo | 88853 | [88853-ludo.json](./88853-ludo.json) |
 | Ludo 3D | 175465 | [175465-ludo-3d.json](./175465-ludo-3d.json) |
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
