@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
 | Payday 2: Hostile Takeover Heist | 240957 | [240957-payday-2-hostile-takeover-heist.json](./240957-payday-2-hostile-takeover-heist.json) |
 | Payday 2: Hotline Miami | 138275 | [138275-payday-2-hotline-miami.json](./138275-payday-2-hotline-miami.json) |
+| Payday 2: Jacket Character Pack | 426772 | [426772-payday-2-jacket-character-pack.json](./426772-payday-2-jacket-character-pack.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
 | Payday 2: John Wick Weapon Pack | 278044 | [278044-payday-2-john-wick-weapon-pack.json](./278044-payday-2-john-wick-weapon-pack.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
@@ -4033,11 +4034,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: The Shadow Raid Heist | 167687 | [167687-payday-2-the-shadow-raid-heist.json](./167687-payday-2-the-shadow-raid-heist.json) |
 | Payday 2: The Ukrainian Prisoner Heist | 167699 | [167699-payday-2-the-ukrainian-prisoner-heist.json](./167699-payday-2-the-ukrainian-prisoner-heist.json) |
 | Payday 2: Ultimate Edition | 37149 | [37149-payday-2-ultimate-edition.json](./37149-payday-2-ultimate-edition.json) |
+| Payday 2: Under the Hammer Heist | 426775 | [426775-payday-2-under-the-hammer-heist.json](./426775-payday-2-under-the-hammer-heist.json) |
 | Payday 2: Wolf Pack | 225169 | [225169-payday-2-wolf-pack.json](./225169-payday-2-wolf-pack.json) |
 | Payday 2: Yakuza Character Pack | 225168 | [225168-payday-2-yakuza-character-pack.json](./225168-payday-2-yakuza-character-pack.json) |
 | Payday 3: Boys in Blue Heist | 312011 | [312011-payday-3-boys-in-blue-heist.json](./312011-payday-3-boys-in-blue-heist.json) |
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
+| Payday 3: Brute Force Crimebond | 426773 | [426773-payday-3-brute-force-crimebond.json](./426773-payday-3-brute-force-crimebond.json) |
 | Payday 3: Chapter 1 - Syntax Error | 280396 | [280396-payday-3-chapter-1-syntax-error.json](./280396-payday-3-chapter-1-syntax-error.json) |
 | Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
 | Payday 3: Chapter 3 - Houston Breakout | 314227 | [314227-payday-3-chapter-3-houston-breakout.json](./314227-payday-3-chapter-3-houston-breakout.json) |
@@ -4047,15 +4050,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Fear & Greed Heist | 338033 | [338033-payday-3-fear-and-greed-heist.json](./338033-payday-3-fear-and-greed-heist.json) |
 | Payday 3: Fear & Greed Tailor Pack | 338034 | [338034-payday-3-fear-and-greed-tailor-pack.json](./338034-payday-3-fear-and-greed-tailor-pack.json) |
 | Payday 3: Fear & Greed Weapon Pack | 338035 | [338035-payday-3-fear-and-greed-weapon-pack.json](./338035-payday-3-fear-and-greed-weapon-pack.json) |
+| Payday 3: First Responder Tailor Pack | 426771 | [426771-payday-3-first-responder-tailor-pack.json](./426771-payday-3-first-responder-tailor-pack.json) |
 | Payday 3: Gold Edition | 252878 | [252878-payday-3-gold-edition.json](./252878-payday-3-gold-edition.json) |
 | Payday 3: Gold Pass | 314515 | [314515-payday-3-gold-pass.json](./314515-payday-3-gold-pass.json) |
+| Payday 3: Guns Blazin' Crimebond | 426770 | [426770-payday-3-guns-blazin-crimebond.json](./426770-payday-3-guns-blazin-crimebond.json) |
 | Payday 3: Houston Breakout Heist | 314518 | [314518-payday-3-houston-breakout-heist.json](./314518-payday-3-houston-breakout-heist.json) |
 | Payday 3: Houston Breakout Tailor Pack | 314516 | [314516-payday-3-houston-breakout-tailor-pack.json](./314516-payday-3-houston-breakout-tailor-pack.json) |
 | Payday 3: Houston Breakout Weapon Pack | 314517 | [314517-payday-3-houston-breakout-weapon-pack.json](./314517-payday-3-houston-breakout-weapon-pack.json) |
 | Payday 3: Houston Character Pack | 357269 | [357269-payday-3-houston-character-pack.json](./357269-payday-3-houston-character-pack.json) |
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday 3: Party Powder Heist | 369604 | [369604-payday-3-party-powder-heist.json](./369604-payday-3-party-powder-heist.json) |
+| Payday 3: Shopping Spree Heist | 426792 | [426792-payday-3-shopping-spree-heist.json](./426792-payday-3-shopping-spree-heist.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
+| Payday 3: Swedish Weapon Pack | 426774 | [426774-payday-3-swedish-weapon-pack.json](./426774-payday-3-swedish-weapon-pack.json) |
 | Payday 3: Syntax Error Heist | 280395 | [280395-payday-3-syntax-error-heist.json](./280395-payday-3-syntax-error-heist.json) |
 | Payday 3: Syntax Error Tailor Pack | 280394 | [280394-payday-3-syntax-error-tailor-pack.json](./280394-payday-3-syntax-error-tailor-pack.json) |
 | Payday 3: Syntax Error Weapon Pack | 280393 | [280393-payday-3-syntax-error-weapon-pack.json](./280393-payday-3-syntax-error-weapon-pack.json) |
@@ -17081,6 +17088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner of War | 5990 | [5990-prisoner-of-war.json](./5990-prisoner-of-war.json) |
 | Prisoner: The Mystery Complex | 122243 | [122243-prisoner-the-mystery-complex.json](./122243-prisoner-the-mystery-complex.json) |
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
+| Prisoners | 426781 | [426781-prisoners.json](./426781-prisoners.json) |
 | Prisoners Chess | 416713 | [416713-prisoners-chess.json](./416713-prisoners-chess.json) |
 | Prisoners Hunt | 344584 | [344584-prisoners-hunt.json](./344584-prisoners-hunt.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
