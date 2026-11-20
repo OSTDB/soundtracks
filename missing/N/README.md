@@ -3384,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutron Base: The Arrival | 272133 | [272133-neutron-base-the-arrival.json](./272133-neutron-base-the-arrival.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
 | Neutron Zapper | 94630 | [94630-neutron-zapper.json](./94630-neutron-zapper.json) |
+| Neuville | 423674 | [423674-neuville.json](./423674-neuville.json) |
 | Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
 | Nev vs. Bouncer Boy | 240152 | [240152-nev-vs-bouncer-boy.json](./240152-nev-vs-bouncer-boy.json) |
 | Nev's Jam Buster | 235337 | [235337-nevs-jam-buster.json](./235337-nevs-jam-buster.json) |
@@ -7612,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Normal Super Mario Bros. DX | 279797 | [279797-normal-super-mario-bros-dx.json](./279797-normal-super-mario-bros-dx.json) |
 | Normal Super Mario Bros. Trilogy DX | 279799 | [279799-normal-super-mario-bros-trilogy-dx.json](./279799-normal-super-mario-bros-trilogy-dx.json) |
 | Normality | 8071 | [8071-normality.json](./8071-normality.json) |
+| Normalize | 423702 | [423702-normalize.json](./423702-normalize.json) |
 | Normalize Human Communication | 398982 | [398982-normalize-human-communication.json](./398982-normalize-human-communication.json) |
 | NormalTanks | 66658 | [66658-normaltanks.json](./66658-normaltanks.json) |
 | Norman | 245152 | [245152-norman.json](./245152-norman.json) |
