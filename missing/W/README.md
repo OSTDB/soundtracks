@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagamama Fairy: Mirumo de Pon! Ougon Maracas no Densetsu | 284598 | [284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json](./284598-wagamama-fairy-mirumo-de-pon-ougon-maracas-no-densetsu.json) |
 | Wagamama Fairy: Mirumo de Pon! Taisen Mahoudama | 283397 | [283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json](./283397-wagamama-fairy-mirumo-de-pon-taisen-mahoudama.json) |
 | Wagamama Fashion: Girls Mode Yokubari Sengen! Tokimeki Up! | 136906 | [136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json](./136906-wagamama-fashion-girls-mode-yokubari-sengen-tokimeki-up.json) |
+| Wagamama High Spec | 36727 | [36727-wagamama-high-spec.json](./36727-wagamama-high-spec.json) |
 | Wagamama High Spec Oc | 384235 | [384235-wagamama-high-spec-oc.json](./384235-wagamama-high-spec-oc.json) |
 | Wage Slave TD | 285174 | [285174-wage-slave-td.json](./285174-wage-slave-td.json) |
 | Wagee | 402519 | [402519-wagee.json](./402519-wagee.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We are kings | 183925 | [183925-we-are-kings.json](./183925-we-are-kings.json) |
+| We Are Legion | 35665 | [35665-we-are-legion.json](./35665-we-are-legion.json) |
 | We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
