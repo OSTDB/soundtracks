@@ -568,7 +568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Seek! Where is "Picto"-san? | 280584 | [280584-i-seek-where-is-picto-san.json](./280584-i-seek-where-is-picto-san.json) |
 | I Sell Lemonade | 373996 | [373996-i-sell-lemonade.json](./373996-i-sell-lemonade.json) |
 | I Shall Name the Dead | 408315 | [408315-i-shall-name-the-dead.json](./408315-i-shall-name-the-dead.json) |
-| I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Shouldn’t Have Drawn That! | 382713 | [382713-i-shouldn-t-have-drawn-that.json](./382713-i-shouldn-t-have-drawn-that.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spoke to God | 176143 | [176143-i-spoke-to-god.json](./176143-i-spoke-to-god.json) |
@@ -782,7 +781,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, AI | 143897 | [143897-i-ai.json](./143897-i-ai.json) |
 | I, Bag | 187601 | [187601-i-bag.json](./187601-i-bag.json) |
-| I, Ball | 15232 | [15232-i-ball.json](./15232-i-ball.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
 | I, Damiano | 24671 | [24671-i-damiano.json](./24671-i-damiano.json) |
@@ -3443,7 +3441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
 | In Us | 399437 | [399437-in-us.json](./399437-in-us.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
-| In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Vino Veritas | 420627 | [420627-in-vino-veritas.json](./420627-in-vino-veritas.json) |
 | In Vitra | 30310 | [30310-in-vitra.json](./30310-in-vitra.json) |
 | In Winter: A New Apartment | 337354 | [337354-in-winter-a-new-apartment.json](./337354-in-winter-a-new-apartment.json) |
@@ -5238,7 +5235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside & Limbo Bundle | 165866 | [165866-inside-and-limbo-bundle.json](./165866-inside-and-limbo-bundle.json) |
 | Inside a Dead Skyscraper | 316687 | [316687-inside-a-dead-skyscraper.json](./316687-inside-a-dead-skyscraper.json) |
 | Inside a Dungeon | 244661 | [244661-inside-a-dungeon.json](./244661-inside-a-dungeon.json) |
-| Inside a Star-filled Sky | 15137 | [15137-inside-a-star-filled-sky.json](./15137-inside-a-star-filled-sky.json) |
 | Inside Darkness | 396703 | [396703-inside-darkness.json](./396703-inside-darkness.json) |
 | Inside Depth 6 | 144581 | [144581-inside-depth-6.json](./144581-inside-depth-6.json) |
 | Inside Explorer | 148966 | [148966-inside-explorer.json](./148966-inside-explorer.json) |
@@ -6743,7 +6739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Madness | 33542 | [33542-iron-madness.json](./33542-iron-madness.json) |
 | Iron Maiden Quiz | 220805 | [220805-iron-maiden-quiz.json](./220805-iron-maiden-quiz.json) |
 | Iron Maiden: Ed Hunter | 50360 | [50360-iron-maiden-ed-hunter.json](./50360-iron-maiden-ed-hunter.json) |
-| Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
