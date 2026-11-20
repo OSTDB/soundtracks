@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
 | VR Battle Grid | 32288 | [32288-vr-battle-grid.json](./32288-vr-battle-grid.json) |
+| VR Battleship Yamato | 55530 | [55530-vr-battleship-yamato.json](./55530-vr-battleship-yamato.json) |
 | VR Black Hole Travel Hypothesis | 172248 | [172248-vr-black-hole-travel-hypothesis.json](./172248-vr-black-hole-travel-hypothesis.json) |
 | VR Blade of Blocks | 334924 | [334924-vr-blade-of-blocks.json](./334924-vr-blade-of-blocks.json) |
 | VR Boxing Master | 170620 | [170620-vr-boxing-master.json](./170620-vr-boxing-master.json) |
