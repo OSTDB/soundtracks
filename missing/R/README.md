@@ -7610,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive... Sosei | 94374 | [94374-revive-sosei.json](./94374-revive-sosei.json) |
 | Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
+| Revived Legends: Titan's Revenge - Collector's Edition | 426409 | [426409-revived-legends-titans-revenge-collectors-edition.json](./426409-revived-legends-titans-revenge-collectors-edition.json) |
 | Revived Legends: Titan's Revenge HD | 107099 | [107099-revived-legends-titans-revenge-hd.json](./107099-revived-legends-titans-revenge-hd.json) |
 | Revived Souls | 163912 | [163912-revived-souls.json](./163912-revived-souls.json) |
 | Revived Witch | 170356 | [170356-revived-witch.json](./170356-revived-witch.json) |
@@ -9272,6 +9273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Life | 34119 | [34119-rite-of-life.json](./34119-rite-of-life.json) |
 | Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
 | Rite of Passage | 89321 | [89321-rite-of-passage.json](./89321-rite-of-passage.json) |
+| Rite of Passage: Bloodlines - Collector's Edition | 426410 | [426410-rite-of-passage-bloodlines-collectors-edition.json](./426410-rite-of-passage-bloodlines-collectors-edition.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Child of the Forest - Collector's Edition | 28743 | [28743-rite-of-passage-child-of-the-forest-collectors-edition.json](./28743-rite-of-passage-child-of-the-forest-collectors-edition.json) |
 | Rite of Passage: Deck of Fates - Collector's Edition | 426411 | [426411-rite-of-passage-deck-of-fates-collectors-edition.json](./426411-rite-of-passage-deck-of-fates-collectors-edition.json) |
