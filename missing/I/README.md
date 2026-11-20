@@ -3027,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impermanence | 365837 | [365837-impermanence.json](./365837-impermanence.json) |
 | Impermanence | 404915 | [404915-impermanence.json](./404915-impermanence.json) |
 | Impersonal | 340503 | [340503-impersonal.json](./340503-impersonal.json) |
+| Impeto | 421311 | [421311-impeto.json](./421311-impeto.json) |
 | Impetum | 317725 | [317725-impetum.json](./317725-impetum.json) |
 | Impetus | 266701 | [266701-impetus.json](./266701-impetus.json) |
 | Impetus | 327977 | [327977-impetus.json](./327977-impetus.json) |
@@ -7245,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Time VR | 88301 | [88301-island-time-vr.json](./88301-island-time-vr.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
 | Island Treasure Chase | 369316 | [369316-island-treasure-chase.json](./369316-island-treasure-chase.json) |
+| Island Treasures | 420882 | [420882-island-treasures.json](./420882-island-treasures.json) |
 | Island Tribe | 54117 | [54117-island-tribe.json](./54117-island-tribe.json) |
 | Island Tribe 2 | 54116 | [54116-island-tribe-2.json](./54116-island-tribe-2.json) |
 | Island Tribe 3 | 25001 | [25001-island-tribe-3.json](./25001-island-tribe-3.json) |
