@@ -5075,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasonspree | 152195 | [152195-seasonspree.json](./152195-seasonspree.json) |
 | Seastalker | 12622 | [12622-seastalker.json](./12622-seastalker.json) |
 | Seasteader | 29473 | [29473-seasteader.json](./29473-seasteader.json) |
+| Seat of Power | 429162 | [429162-seat-of-power.json](./429162-seat-of-power.json) |
 | Seat of War | 104832 | [104832-seat-of-war.json](./104832-seat-of-war.json) |
 | Seatercel | 345946 | [345946-seatercel.json](./345946-seatercel.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
@@ -9620,6 +9621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shimizu Ritual | 283338 | [283338-shimizu-ritual.json](./283338-shimizu-ritual.json) |
 | Shimmer | 105213 | [105213-shimmer.json](./105213-shimmer.json) |
+| Shimmer | 429171 | [429171-shimmer.json](./429171-shimmer.json) |
 | Shimmer's Quest: Way of the Whoop | 361076 | [361076-shimmers-quest-way-of-the-whoop.json](./361076-shimmers-quest-way-of-the-whoop.json) |
 | Shimojimo no Seikatsu wo Tashinamu Tame no Tsudoi: Muchi de Kouki na Ojou-sama wa Shomin no Seikatsu ni Kyoumi Shinshin | 194490 | [194490-shimojimo-no-seikatsu-wo-tashinamu-tame-no-tsudoi-muchi-de-kouki-na-ojou-sama-wa-shomin-no-seikatsu-ni-kyoumi-shinshin.json](./194490-shimojimo-no-seikatsu-wo-tashinamu-tame-no-tsudoi-muchi-de-kouki-na-ojou-sama-wa-shomin-no-seikatsu-ni-kyoumi-shinshin.json) |
 | Shimokita Rose & Tears | 303298 | [303298-shimokita-rose-and-tears.json](./303298-shimokita-rose-and-tears.json) |
@@ -20639,6 +20641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
 | Sonic Suggests | 136822 | [136822-sonic-suggests.json](./136822-sonic-suggests.json) |
+| Sonic Sunburst | 429138 | [429138-sonic-sunburst.json](./429138-sonic-sunburst.json) |
 | Sonic Sundown | 321395 | [321395-sonic-sundown.json](./321395-sonic-sundown.json) |
 | Sonic Sunsation | 316498 | [316498-sonic-sunsation.json](./316498-sonic-sunsation.json) |
 | Sonic Sunventure | 270221 | [270221-sonic-sunventure.json](./270221-sonic-sunventure.json) |
@@ -36523,6 +36526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 DS | 22301 | [22301-super-mario-64-ds.json](./22301-super-mario-64-ds.json) |
 | Super Mario 64 DS 2: The New Stars | 294775 | [294775-super-mario-64-ds-2-the-new-stars.json](./294775-super-mario-64-ds-2-the-new-stars.json) |
 | Super Mario 64 DS Online | 313410 | [313410-super-mario-64-ds-online.json](./313410-super-mario-64-ds-online.json) |
+| Super Mario 64 DS PC Port | 429130 | [429130-super-mario-64-ds-pc-port.json](./429130-super-mario-64-ds-pc-port.json) |
 | Super Mario 64 DS Sub Zero | 315013 | [315013-super-mario-64-ds-sub-zero.json](./315013-super-mario-64-ds-sub-zero.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
