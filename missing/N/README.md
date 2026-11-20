@@ -6528,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Longer Home: Farewell Edition | 167177 | [167177-no-longer-home-farewell-edition.json](./167177-no-longer-home-farewell-edition.json) |
 | No Longer Home: Friary Road | 213359 | [213359-no-longer-home-friary-road.json](./213359-no-longer-home-friary-road.json) |
 | No Longer Human | 205166 | [205166-no-longer-human.json](./205166-no-longer-human.json) |
+| No Longer Required | 425724 | [425724-no-longer-required.json](./425724-no-longer-required.json) |
 | No Loose Threads | 301918 | [301918-no-loose-threads.json](./301918-no-loose-threads.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Love Lost | 235600 | [235600-no-love-lost.json](./235600-no-love-lost.json) |
@@ -8528,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Path | 327912 | [327912-null-path.json](./327912-null-path.json) |
 | Null Reference Exception | 310772 | [310772-null-reference-exception.json](./310772-null-reference-exception.json) |
 | Null Sequence | 263213 | [263213-null-sequence.json](./263213-null-sequence.json) |
+| Null Signal | 426101 | [426101-null-signal.json](./426101-null-signal.json) |
 | Null Space | 259220 | [259220-null-space.json](./259220-null-space.json) |
 | Null State | 327807 | [327807-null-state.json](./327807-null-state.json) |
 | Null Train | 373497 | [373497-null-train.json](./373497-null-train.json) |
