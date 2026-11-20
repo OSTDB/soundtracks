@@ -1870,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
 | Jigoku Unko: Toripuru | 203742 | [203742-jigoku-unko-toripuru.json](./203742-jigoku-unko-toripuru.json) |
+| Jigoku Yugi | 422574 | [422574-jigoku-yugi.json](./422574-jigoku-yugi.json) |
 | Jigokuraku: Paradise Battle | 409820 | [409820-jigokuraku-paradise-battle.json](./409820-jigokuraku-paradise-battle.json) |
 | Jigoro | 367140 | [367140-jigoro.json](./367140-jigoro.json) |
 | Jigrift | 383401 | [383401-jigrift.json](./383401-jigrift.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuouki | 38073 | [38073-juuouki.json](./38073-juuouki.json) |
 | Juuouki | 86410 | [86410-juuouki.json](./86410-juuouki.json) |
 | Juurin | 93986 | [93986-juurin.json](./93986-juurin.json) |
+| Juuroudou | 422525 | [422525-juuroudou.json](./422525-juuroudou.json) |
 | Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juusanshi Engi: Engetsu Sangokuden 1 & 2 | 136758 | [136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json](./136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json) |
