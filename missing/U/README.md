@@ -2026,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
+| Underground Garage | 156087 | [156087-underground-garage.json](./156087-underground-garage.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
 | Underground Keeper | 22727 | [22727-underground-keeper.json](./22727-underground-keeper.json) |
