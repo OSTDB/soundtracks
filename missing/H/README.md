@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairdresser Liquidator Bundle | 342236 | [342236-hairdresser-liquidator-bundle.json](./342236-hairdresser-liquidator-bundle.json) |
 | Hairdresser Simulator | 149731 | [149731-hairdresser-simulator.json](./149731-hairdresser-simulator.json) |
 | Hairdresser Simulator: Beards and Mustaches | 293125 | [293125-hairdresser-simulator-beards-and-mustaches.json](./293125-hairdresser-simulator-beards-and-mustaches.json) |
+| Hairs | 417635 | [417635-hairs.json](./417635-hairs.json) |
 | Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Hairy Harry | 146469 | [146469-hairy-harry.json](./146469-hairy-harry.json) |
 | Hairy Ladies | 417820 | [417820-hairy-ladies.json](./417820-hairy-ladies.json) |
@@ -4730,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
 | Hell Breaker | 113220 | [113220-hell-breaker.json](./113220-hell-breaker.json) |
 | Hell Breaker | 413392 | [413392-hell-breaker.json](./413392-hell-breaker.json) |
+| Hell Breezer | 417996 | [417996-hell-breezer.json](./417996-hell-breezer.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
@@ -5759,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dreams | 111804 | [111804-hentai-dreams.json](./111804-hentai-dreams.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Elf | 370973 | [370973-hentai-elf.json](./370973-hentai-elf.json) |
+| Hentai Elf: Elaria | 418001 | [418001-hentai-elf-elaria.json](./418001-hentai-elf-elaria.json) |
 | Hentai Elizabeth | 340432 | [340432-hentai-elizabeth.json](./340432-hentai-elizabeth.json) |
 | Hentai Ellie | 244535 | [244535-hentai-ellie.json](./244535-hentai-ellie.json) |
 | Hentai Emiko | 340433 | [340433-hentai-emiko.json](./340433-hentai-emiko.json) |
@@ -7150,6 +7153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
 | Heroes of Loot 2 | 33596 | [33596-heroes-of-loot-2.json](./33596-heroes-of-loot-2.json) |
 | Heroes of Loot: Gauntlet of Power | 243874 | [243874-heroes-of-loot-gauntlet-of-power.json](./243874-heroes-of-loot-gauntlet-of-power.json) |
+| Heroes of Lust and Magic | 417997 | [417997-heroes-of-lust-and-magic.json](./417997-heroes-of-lust-and-magic.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic and Steel | 376660 | [376660-heroes-of-magic-and-steel.json](./376660-heroes-of-magic-and-steel.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
@@ -9650,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit n' Run: Highway Demolition | 239429 | [239429-hit-n-run-highway-demolition.json](./239429-hit-n-run-highway-demolition.json) |
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit of Chernobyl | 316567 | [316567-hit-of-chernobyl.json](./316567-hit-of-chernobyl.json) |
+| Hit or Die | 418015 | [418015-hit-or-die.json](./418015-hit-or-die.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
 | Hit Skater: Team 10 | 104288 | [104288-hit-skater-team-10.json](./104288-hit-skater-team-10.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
