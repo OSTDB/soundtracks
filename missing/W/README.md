@@ -3931,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wendy: Every Witch Way | 49855 | [49855-wendy-every-witch-way.json](./49855-wendy-every-witch-way.json) |
 | Wendy's Mart 3D | 84058 | [84058-wendys-mart-3d.json](./84058-wendys-mart-3d.json) |
 | Wendy's Quest | 233594 | [233594-wendys-quest.json](./233594-wendys-quest.json) |
+| WendyQuest: Legend of the Four Corner Stones | 426109 | [426109-wendyquest-legend-of-the-four-corner-stones.json](./426109-wendyquest-legend-of-the-four-corner-stones.json) |
 | Wenjia: Complete Edition | 221463 | [221463-wenjia-complete-edition.json](./221463-wenjia-complete-edition.json) |
 | Wenl Mine | 271798 | [271798-wenl-mine.json](./271798-wenl-mine.json) |
 | Went: One Alive | 114915 | [114915-went-one-alive.json](./114915-went-one-alive.json) |
