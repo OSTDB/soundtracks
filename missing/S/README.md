@@ -28021,7 +28021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Route | 200208 | [200208-star-route.json](./200208-star-route.json) |
 | Star Rover | 166820 | [166820-star-rover.json](./166820-star-rover.json) |
-| Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
 | Star Run!: Rainbow Galaxy | 241820 | [241820-star-run-rainbow-galaxy.json](./241820-star-run-rainbow-galaxy.json) |
 | Star Runaway | 367087 | [367087-star-runaway.json](./367087-star-runaway.json) |
