@@ -4138,7 +4138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Runner | 192842 | [192842-jungle-runner.json](./192842-jungle-runner.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Shoot | 410182 | [410182-jungle-shoot.json](./410182-jungle-shoot.json) |
-| Jungle Speed | 11299 | [11299-jungle-speed.json](./11299-jungle-speed.json) |
 | Jungle Strike | 4368 | [4368-jungle-strike.json](./4368-jungle-strike.json) |
 | Jungle Strike: The Sequel to Desert Strike | 242319 | [242319-jungle-strike-the-sequel-to-desert-strike.json](./242319-jungle-strike-the-sequel-to-desert-strike.json) |
 | Jungle Strike: The Sequel to Desert Strike | 242320 | [242320-jungle-strike-the-sequel-to-desert-strike.json](./242320-jungle-strike-the-sequel-to-desert-strike.json) |
