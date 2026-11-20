@@ -10578,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
 | LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
+| LSDos: Digital Simulation Simulator | 421887 | [421887-lsdos-digital-simulation-simulator.json](./421887-lsdos-digital-simulation-simulator.json) |
 | LSDriver 1+2: Remastered Collection | 174542 | [174542-lsdriver-1-2-remastered-collection.json](./174542-lsdriver-1-2-remastered-collection.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
 | LSI Table Stadium Baseball | 198639 | [198639-lsi-table-stadium-baseball.json](./198639-lsi-table-stadium-baseball.json) |
