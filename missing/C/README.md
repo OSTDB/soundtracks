@@ -4379,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania Chronicles III: Dracula's Curse | 300595 | [300595-castlevania-chronicles-iii-draculas-curse.json](./300595-castlevania-chronicles-iii-draculas-curse.json) |
 | Castlevania Collections Bundle | 319328 | [319328-castlevania-collections-bundle.json](./319328-castlevania-collections-bundle.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
+| Castlevania Double Pack | 22575 | [22575-castlevania-double-pack.json](./22575-castlevania-double-pack.json) |
 | Castlevania Fighter | 206847 | [206847-castlevania-fighter.json](./206847-castlevania-fighter.json) |
 | Castlevania II English Re-Translation (+Map) | 364173 | [364173-castlevania-ii-english-re-translation-map.json](./364173-castlevania-ii-english-re-translation-map.json) |
 | Castlevania II SNES Port | 377727 | [377727-castlevania-ii-snes-port.json](./377727-castlevania-ii-snes-port.json) |
