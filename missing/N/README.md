@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nair | 151951 | [151951-nair.json](./151951-nair.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
+| Nairi: Rising Tide | 161468 | [161468-nairi-rising-tide.json](./161468-nairi-rising-tide.json) |
 | Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
 | Nairi: Tower of Shirin - Deluxe Edition | 226527 | [226527-nairi-tower-of-shirin-deluxe-edition.json](./226527-nairi-tower-of-shirin-deluxe-edition.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
@@ -8835,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
 | Nyaa-kuza!! | 145756 | [145756-nyaa-kuza.json](./145756-nyaa-kuza.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
+| Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
 | Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
