@@ -6555,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
 | Krabby Kats | 97205 | [97205-krabby-kats.json](./97205-krabby-kats.json) |
 | Krack The Hack | 268341 | [268341-krack-the-hack.json](./268341-krack-the-hack.json) |
+| KraDawn | 423171 | [423171-kradawn.json](./423171-kradawn.json) |
 | Kraden's Crypt | 60725 | [60725-kradens-crypt.json](./60725-kradens-crypt.json) |
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krunt.io | 125871 | [125871-krunt-io.json](./125871-krunt-io.json) |
 | Krusenstern: A Stellar Sail | 226730 | [226730-krusenstern-a-stellar-sail.json](./226730-krusenstern-a-stellar-sail.json) |
 | Krush Kill 'N Destroy Bundle | 335619 | [335619-krush-kill-n-destroy-bundle.json](./335619-krush-kill-n-destroy-bundle.json) |
+| Krushpit | 423135 | [423135-krushpit.json](./423135-krushpit.json) |
 | Krusty Krab Nightmare | 100934 | [100934-krusty-krab-nightmare.json](./100934-krusty-krab-nightmare.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Krusty's Fun House | 307105 | [307105-krustys-fun-house.json](./307105-krustys-fun-house.json) |
