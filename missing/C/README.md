@@ -7504,6 +7504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Playroom | 381935 | [381935-checkers-playroom.json](./381935-checkers-playroom.json) |
 | Checkers' Treasure Hunt | 381937 | [381937-checkers-treasure-hunt.json](./381937-checkers-treasure-hunt.json) |
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
+| Checkfire | 429620 | [429620-checkfire.json](./429620-checkfire.json) |
 | Checkmate | 15210 | [15210-checkmate.json](./15210-checkmate.json) |
 | Checkmate | 81568 | [81568-checkmate.json](./81568-checkmate.json) |
 | Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
@@ -12319,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Closing Spaces | 178898 | [178898-closing-spaces.json](./178898-closing-spaces.json) |
 | Closing Time | 260576 | [260576-closing-time.json](./260576-closing-time.json) |
+| Closing Time at the Wooden Toy Shop | 429780 | [429780-closing-time-at-the-wooden-toy-shop.json](./429780-closing-time-at-the-wooden-toy-shop.json) |
 | Closr | 427308 | [427308-closr.json](./427308-closr.json) |
 | Clossure | 302399 | [302399-clossure.json](./302399-clossure.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
