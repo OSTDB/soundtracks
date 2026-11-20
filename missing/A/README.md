@@ -1882,7 +1882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Mazing 3D | 264728 | [264728-a-mazing-3d.json](./264728-a-mazing-3d.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
 | A-Mazing Enigmas | 202429 | [202429-a-mazing-enigmas.json](./202429-a-mazing-enigmas.json) |
-| A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
 | A-Mused | 58085 | [58085-a-mused.json](./58085-a-mused.json) |
 | A-Rabbit | 337053 | [337053-a-rabbit.json](./337053-a-rabbit.json) |
 | A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
@@ -2659,7 +2658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 377542 | [377542-abyss.json](./377542-abyss.json) |
 | Abyss | 414121 | [414121-abyss.json](./414121-abyss.json) |
 | Abyss | 80512 | [80512-abyss.json](./80512-abyss.json) |
-| Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Attack | 107331 | [107331-abyss-attack.json](./107331-abyss-attack.json) |
@@ -6199,7 +6197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI War 2: Titan Edition | 159700 | [159700-ai-war-2-titan-edition.json](./159700-ai-war-2-titan-edition.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War Collection | 51695 | [51695-ai-war-collection.json](./51695-ai-war-collection.json) |
-| AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
 | AI War: Children of Neinzul | 8886 | [8886-ai-war-children-of-neinzul.json](./8886-ai-war-children-of-neinzul.json) |
 | AI War: Destroyer of Worlds | 8890 | [8890-ai-war-destroyer-of-worlds.json](./8890-ai-war-destroyer-of-worlds.json) |
 | AI War: DLC Pack | 155281 | [155281-ai-war-dlc-pack.json](./155281-ai-war-dlc-pack.json) |
@@ -6632,7 +6629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air&Hook | 372643 | [372643-air-and-hook.json](./372643-air-and-hook.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace | 67079 | [67079-airace.json](./67079-airace.json) |
-| AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace Xeno | 61522 | [61522-airace-xeno.json](./61522-airace-xeno.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
@@ -15566,7 +15562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcsmith | 175661 | [175661-arcsmith.json](./175661-arcsmith.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic 51 | 251725 | [251725-arctic-51.json](./251725-arctic-51.json) |
-| Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
 | Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
 | Arctic Adventure: Penguin & Seal | 48276 | [48276-arctic-adventure-penguin-and-seal.json](./48276-arctic-adventure-penguin-and-seal.json) |
 | Arctic Adventures | 42780 | [42780-arctic-adventures.json](./42780-arctic-adventures.json) |
@@ -20020,10 +20015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Mudracer | 52428 | [52428-atv-mudracer.json](./52428-atv-mudracer.json) |
 | ATV Offroad Fury | 8269 | [8269-atv-offroad-fury.json](./8269-atv-offroad-fury.json) |
 | ATV Offroad Fury 2 | 8270 | [8270-atv-offroad-fury-2.json](./8270-atv-offroad-fury-2.json) |
-| ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury 4 | 8273 | [8273-atv-offroad-fury-4.json](./8273-atv-offroad-fury-4.json) |
-| ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
-| ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
 | ATV Offroad Simulator 24 | 271091 | [271091-atv-offroad-simulator-24.json](./271091-atv-offroad-simulator-24.json) |
 | ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
 | ATV Quad Bike Simulator 2018: Bike Taxi Games | 103666 | [103666-atv-quad-bike-simulator-2018-bike-taxi-games.json](./103666-atv-quad-bike-simulator-2018-bike-taxi-games.json) |
@@ -20893,7 +20885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernoth | 390049 | [390049-avernoth.json](./390049-avernoth.json) |
 | Avernum | 19580 | [19580-avernum.json](./19580-avernum.json) |
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
-| Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avernum 4: Greed and Glory | 357534 | [357534-avernum-4-greed-and-glory.json](./357534-avernum-4-greed-and-glory.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
