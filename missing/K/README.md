@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaeru no Tame ni Kane wa Naru | 49078 | [49078-kaeru-no-tame-ni-kane-wa-naru.json](./49078-kaeru-no-tame-ni-kane-wa-naru.json) |
 | Kaeru nyo Panyo~n | 146266 | [146266-kaeru-nyo-panyo-n.json](./146266-kaeru-nyo-panyo-n.json) |
 | Kaerun | 421793 | [421793-kaerun.json](./421793-kaerun.json) |
+| Kaet Must Die! | 55610 | [55610-kaet-must-die.json](./55610-kaet-must-die.json) |
 | Kaetram | 301401 | [301401-kaetram.json](./301401-kaetram.json) |
 | Kaette Kita Tanteidan X | 356060 | [356060-kaette-kita-tanteidan-x.json](./356060-kaette-kita-tanteidan-x.json) |
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
@@ -637,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider: Battride War Genesis - Memorial TV Sound Edition | 136694 | [136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json](./136694-kamen-rider-battride-war-genesis-memorial-tv-sound-edition.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Break Joker | 61501 | [61501-kamen-rider-break-joker.json](./61501-kamen-rider-break-joker.json) |
+| Kamen Rider: Climax Fighters | 56666 | [56666-kamen-rider-climax-fighters.json](./56666-kamen-rider-climax-fighters.json) |
 | Kamen Rider: Climax Fighters - Premium R Sound Edition | 136724 | [136724-kamen-rider-climax-fighters-premium-r-sound-edition.json](./136724-kamen-rider-climax-fighters-premium-r-sound-edition.json) |
 | Kamen Rider: Climax Heroes | 4947 | [4947-kamen-rider-climax-heroes.json](./4947-kamen-rider-climax-heroes.json) |
 | Kamen Rider: Climax Heroes Fourze | 64239 | [64239-kamen-rider-climax-heroes-fourze.json](./64239-kamen-rider-climax-heroes-fourze.json) |
@@ -4100,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Ereloth | 238711 | [238711-kingdoms-of-ereloth.json](./238711-kingdoms-of-ereloth.json) |
 | Kingdoms Of Eternity | 318488 | [318488-kingdoms-of-eternity.json](./318488-kingdoms-of-eternity.json) |
 | Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
+| Kingdoms of Heckfire | 56014 | [56014-kingdoms-of-heckfire.json](./56014-kingdoms-of-heckfire.json) |
 | Kingdoms of Lost Valleys | 311126 | [311126-kingdoms-of-lost-valleys.json](./311126-kingdoms-of-lost-valleys.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
