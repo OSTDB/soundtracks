@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Stop | 102053 | [102053-never-stop.json](./102053-never-stop.json) |
 | Never Stop Never Stopping | 317085 | [317085-never-stop-never-stopping.json](./317085-never-stop-never-stopping.json) |
 | Never Stop Rolling | 312123 | [312123-never-stop-rolling.json](./312123-never-stop-rolling.json) |
+| Never Trust a Fox | 428532 | [428532-never-trust-a-fox.json](./428532-never-trust-a-fox.json) |
 | Never Trust a Girl in a Portal | 420205 | [420205-never-trust-a-girl-in-a-portal.json](./420205-never-trust-a-girl-in-a-portal.json) |
 | Never Trust a Zone Warden | 274266 | [274266-never-trust-a-zone-warden.json](./274266-never-trust-a-zone-warden.json) |
 | Never wake up | 287711 | [287711-never-wake-up.json](./287711-never-wake-up.json) |
@@ -8198,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novalie | 191610 | [191610-novalie.json](./191610-novalie.json) |
 | Novalight Tetris | 73858 | [73858-novalight-tetris.json](./73858-novalight-tetris.json) |
 | NovaMundi: The Spear of Chaquén | 145718 | [145718-novamundi-the-spear-of-chaquen.json](./145718-novamundi-the-spear-of-chaquen.json) |
+| Novanoom | 428543 | [428543-novanoom.json](./428543-novanoom.json) |
 | Novantica | 265312 | [265312-novantica.json](./265312-novantica.json) |
 | Novark | 290510 | [290510-novark.json](./290510-novark.json) |
 | NovaRush | 397483 | [397483-novarush.json](./397483-novarush.json) |
@@ -8317,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxpheria: The Crimson Madness | 385146 | [385146-noxpheria-the-crimson-madness.json](./385146-noxpheria-the-crimson-madness.json) |
 | NoxTurn | 398933 | [398933-noxturn.json](./398933-noxturn.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
+| Noyan: Club Chairman | 428527 | [428527-noyan-club-chairman.json](./428527-noyan-club-chairman.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
 | Noyo-! | 120038 | [120038-noyo.json](./120038-noyo.json) |
 | Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
