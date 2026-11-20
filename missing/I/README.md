@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Star Tribes | 149622 | [149622-ice-star-tribes.json](./149622-ice-star-tribes.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Station Z | 195312 | [195312-ice-station-z.json](./195312-ice-station-z.json) |
+| Ice Station Z | 85186 | [85186-ice-station-z.json](./85186-ice-station-z.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice Survival | 270783 | [270783-ice-survival.json](./270783-ice-survival.json) |
 | Ice Tales HD | 175518 | [175518-ice-tales-hd.json](./175518-ice-tales-hd.json) |
