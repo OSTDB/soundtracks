@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uFighter | 115428 | [115428-ufighter.json](./115428-ufighter.json) |
 | UFindo | 262454 | [262454-ufindo.json](./262454-ufindo.json) |
 | UFL | 165352 | [165352-ufl.json](./165352-ufl.json) |
+| UFL | 425452 | [425452-ufl.json](./425452-ufl.json) |
 | UFL: Club | 332087 | [332087-ufl-club.json](./332087-ufl-club.json) |
 | UFL: Foundation | 332085 | [332085-ufl-foundation.json](./332085-ufl-foundation.json) |
 | UFL: Ultimate UFL club | 332086 | [332086-ufl-ultimate-ufl-club.json](./332086-ufl-ultimate-ufl-club.json) |
@@ -1488,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound | 167249 | [167249-unbound.json](./167249-unbound.json) |
 | Unbound | 380749 | [380749-unbound.json](./380749-unbound.json) |
 | Unbound | 407799 | [407799-unbound.json](./407799-unbound.json) |
+| Unbound | 425242 | [425242-unbound.json](./425242-unbound.json) |
 | Unbound | 94274 | [94274-unbound.json](./94274-unbound.json) |
 | UnBound | 380748 | [380748-unbound.json](./380748-unbound.json) |
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
