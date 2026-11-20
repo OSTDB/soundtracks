@@ -4348,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Engines | 219249 | [219249-endless-engines.json](./219249-endless-engines.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
+| Endless Estate | 423753 | [423753-endless-estate.json](./423753-endless-estate.json) |
 | Endless Evolution | 390641 | [390641-endless-evolution.json](./390641-endless-evolution.json) |
 | Endless Fables 2: Frozen Path | 75586 | [75586-endless-fables-2-frozen-path.json](./75586-endless-fables-2-frozen-path.json) |
 | Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
