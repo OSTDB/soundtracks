@@ -14072,6 +14072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sker Ritual: Skerville Slasher | 322721 | [322721-sker-ritual-skerville-slasher.json](./322721-sker-ritual-skerville-slasher.json) |
 | Sker Ritual: Stranger Danger | 241317 | [241317-sker-ritual-stranger-danger.json](./241317-sker-ritual-stranger-danger.json) |
 | Sker Ritual: The Quiet Ones | 235843 | [235843-sker-ritual-the-quiet-ones.json](./235843-sker-ritual-the-quiet-ones.json) |
+| Sker: The Bleeding Veil | 423778 | [423778-sker-the-bleeding-veil.json](./423778-sker-the-bleeding-veil.json) |
 | Skera VR | 237026 | [237026-skera-vr.json](./237026-skera-vr.json) |
 | Skerda Armor | 371799 | [371799-skerda-armor.json](./371799-skerda-armor.json) |
 | Sketch | 199762 | [199762-sketch.json](./199762-sketch.json) |
@@ -21794,6 +21795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulpath: The Final Journey | 154876 | [154876-soulpath-the-final-journey.json](./154876-soulpath-the-final-journey.json) |
 | SoulQuest | 260649 | [260649-soulquest.json](./260649-soulquest.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
+| Soulrite | 423792 | [423792-soulrite.json](./423792-soulrite.json) |
 | Soulrun | 115955 | [115955-soulrun.json](./115955-soulrun.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
 | Souls | 290622 | [290622-souls.json](./290622-souls.json) |
