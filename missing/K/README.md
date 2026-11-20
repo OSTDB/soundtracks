@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
 | Kahoots | 42823 | [42823-kahoots.json](./42823-kahoots.json) |
 | Kahoro and Tetra | 321690 | [321690-kahoro-and-tetra.json](./321690-kahoro-and-tetra.json) |
+| Kahraman Koyu | 425718 | [425718-kahraman-koyu.json](./425718-kahraman-koyu.json) |
 | Kahuna | 108548 | [108548-kahuna.json](./108548-kahuna.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
 | Kai Entity | 107510 | [107510-kai-entity.json](./107510-kai-entity.json) |
@@ -1328,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasshoku no Sei Senshi Aisha | 108119 | [108119-kasshoku-no-sei-senshi-aisha.json](./108119-kasshoku-no-sei-senshi-aisha.json) |
 | Kasso Gaiden: Escape from the Skaterverse | 395634 | [395634-kasso-gaiden-escape-from-the-skaterverse.json](./395634-kasso-gaiden-escape-from-the-skaterverse.json) |
 | Kastle Krush | 123718 | [123718-kastle-krush.json](./123718-kastle-krush.json) |
+| Kastrava | 426102 | [426102-kastrava.json](./426102-kastrava.json) |
 | Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
