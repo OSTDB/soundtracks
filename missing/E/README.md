@@ -3916,7 +3916,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
 | Empress of the Deep 3: Legacy of the Phoenix - Collector's Edition | 426072 | [426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json](./426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json) |
-| Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Emprise | 237171 | [237171-emprise.json](./237171-emprise.json) |
 | Empronix Game | 369027 | [369027-empronix-game.json](./369027-empronix-game.json) |
