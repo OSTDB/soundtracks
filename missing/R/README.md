@@ -3060,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Destiny | 169091 | [169091-re-destiny.json](./169091-re-destiny.json) |
+| Re:Draw | 423102 | [423102-re-draw.json](./423102-re-draw.json) |
 | Re:Dream | 412756 | [412756-re-dream.json](./412756-re-dream.json) |
 | Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
 | Re:Flex | 340709 | [340709-re-flex.json](./340709-re-flex.json) |
@@ -4626,6 +4627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
 | Red Room | 367605 | [367605-red-room.json](./367605-red-room.json) |
 | Red Rooms | 409642 | [409642-red-rooms.json](./409642-red-rooms.json) |
+| Red Rooster | 423117 | [423117-red-rooster.json](./423117-red-rooster.json) |
 | Red Rope: Don't Fall Behind | 21633 | [21633-red-rope-dont-fall-behind.json](./21633-red-rope-dont-fall-behind.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
@@ -9344,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
 | Ritual | 343168 | [343168-ritual.json](./343168-ritual.json) |
 | Ritual Bound | 250120 | [250120-ritual-bound.json](./250120-ritual-bound.json) |
+| Ritual Break | 423192 | [423192-ritual-break.json](./423192-ritual-break.json) |
 | Ritual Chamber | 317713 | [317713-ritual-chamber.json](./317713-ritual-chamber.json) |
 | Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
@@ -10339,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rescue 3D | 84846 | [84846-robot-rescue-3d.json](./84846-robot-rescue-3d.json) |
 | Robot Rescue Revolution | 9012 | [9012-robot-rescue-revolution.json](./9012-robot-rescue-revolution.json) |
 | Robot Resistors | 215818 | [215818-robot-resistors.json](./215818-robot-resistors.json) |
+| Robot Resources | 423123 | [423123-robot-resources.json](./423123-robot-resources.json) |
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
 | Robot Rice Cooker Revolt | 133717 | [133717-robot-rice-cooker-revolt.json](./133717-robot-rice-cooker-revolt.json) |
@@ -11819,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
+| Roll of Chaos | 423101 | [423101-roll-of-chaos.json](./423101-roll-of-chaos.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll of Fate | 311911 | [311911-roll-of-fate.json](./311911-roll-of-fate.json) |
 | Roll on Dice | 217423 | [217423-roll-on-dice.json](./217423-roll-on-dice.json) |
@@ -12963,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouen | 97935 | [97935-rouen.json](./97935-rouen.json) |
 | Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Patrol | 189096 | [189096-rouge-patrol.json](./189096-rouge-patrol.json) |
+| Rouge Process | 423100 | [423100-rouge-process.json](./423100-rouge-process.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rouge the Bat in Sonic the Hedgehog | 203162 | [203162-rouge-the-bat-in-sonic-the-hedgehog.json](./203162-rouge-the-bat-in-sonic-the-hedgehog.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
@@ -14903,6 +14909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustown | 424836 | [424836-rustown.json](./424836-rustown.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
+| Rustwater | 423106 | [423106-rustwater.json](./423106-rustwater.json) |
 | Rustwing | 302876 | [302876-rustwing.json](./302876-rustwing.json) |
 | RustX | 402753 | [402753-rustx.json](./402753-rustx.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
