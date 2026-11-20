@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys | 83543 | [83543-keys.json](./83543-keys.json) |
 | Keys and Kastles | 260248 | [260248-keys-and-kastles.json](./260248-keys-and-kastles.json) |
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
+| Keys of Fury | 356993 | [356993-keys-of-fury.json](./356993-keys-of-fury.json) |
 | Keys of The Kingdom | 209840 | [209840-keys-of-the-kingdom.json](./209840-keys-of-the-kingdom.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
