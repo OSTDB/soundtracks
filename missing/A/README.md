@@ -10297,6 +10297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ami | 129369 | [129369-ami.json](./129369-ami.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
 | Ami Solitaire | 51320 | [51320-ami-solitaire.json](./51320-ami-solitaire.json) |
+| Ami's Pearl Dive | 423730 | [423730-amis-pearl-dive.json](./423730-amis-pearl-dive.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
 | Amicusia | 394123 | [394123-amicusia.json](./394123-amicusia.json) |
@@ -13528,6 +13529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Science DS | 165245 | [165245-aperture-science-ds.json](./165245-aperture-science-ds.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes At Sea | 254022 | [254022-apes-at-sea.json](./254022-apes-at-sea.json) |
+| Apes Recoded | 423718 | [423718-apes-recoded.json](./423718-apes-recoded.json) |
 | Apes vs. Zombies | 314596 | [314596-apes-vs-zombies.json](./314596-apes-vs-zombies.json) |
 | Apes Warfare | 374123 | [374123-apes-warfare.json](./374123-apes-warfare.json) |
 | Apes.io | 240311 | [240311-apes-io.json](./240311-apes-io.json) |
