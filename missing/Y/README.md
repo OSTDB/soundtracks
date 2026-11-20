@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yosuga no Sora | 329518 | [329518-yosuga-no-sora.json](./329518-yosuga-no-sora.json) |
 | Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
+| Yotsudomoe | 422533 | [422533-yotsudomoe.json](./422533-yotsudomoe.json) |
 | Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
 | Yotsume God: Reunion | 193025 | [193025-yotsume-god-reunion.json](./193025-yotsume-god-reunion.json) |
 | Yotsunoha | 401170 | [401170-yotsunoha.json](./401170-yotsunoha.json) |
