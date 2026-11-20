@@ -564,7 +564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 78530 | [78530-backgammon.json](./78530-backgammon.json) |
 | Backgammon 2000 | 97485 | [97485-backgammon-2000.json](./97485-backgammon-2000.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
-| Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
 | Backgammon Deluxe | 69568 | [69568-backgammon-deluxe.json](./69568-backgammon-deluxe.json) |
 | Backgammon HD | 90052 | [90052-backgammon-hd.json](./90052-backgammon-hd.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
@@ -20468,7 +20467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | BurgerTime Micro Player | 229893 | [229893-burgertime-micro-player.json](./229893-burgertime-micro-player.json) |
 | BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
-| BurgerTime: World Tour | 6576 | [6576-burgertime-world-tour.json](./6576-burgertime-world-tour.json) |
 | BurgerWave | 225964 | [225964-burgerwave.json](./225964-burgerwave.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
