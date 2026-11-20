@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
 | Parcel Escape | 314687 | [314687-parcel-escape.json](./314687-parcel-escape.json) |
 | Parcel Frenzy: Get To Work! | 357149 | [357149-parcel-frenzy-get-to-work.json](./357149-parcel-frenzy-get-to-work.json) |
+| Parcel Inspector Simulator | 421866 | [421866-parcel-inspector-simulator.json](./421866-parcel-inspector-simulator.json) |
 | Parcel Mania | 275533 | [275533-parcel-mania.json](./275533-parcel-mania.json) |
 | Parcel Master | 317793 | [317793-parcel-master.json](./317793-parcel-master.json) |
 | Parcel Packing Simulator | 263994 | [263994-parcel-packing-simulator.json](./263994-parcel-packing-simulator.json) |
@@ -17597,6 +17598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodeus: The Elder Veil | 276509 | [276509-prodeus-the-elder-veil.json](./276509-prodeus-the-elder-veil.json) |
 | Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
+| Prodigal | 421975 | [421975-prodigal.json](./421975-prodigal.json) |
 | Prodigious Avian | 257775 | [257775-prodigious-avian.json](./257775-prodigious-avian.json) |
 | Prodigy | 28956 | [28956-prodigy.json](./28956-prodigy.json) |
 | Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
