@@ -5834,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Play: Motion | 5281 | [5281-wii-play-motion.json](./5281-wii-play-motion.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
+| Wii Sports Club: Baseball + Boxing | 85487 | [85487-wii-sports-club-baseball-boxing.json](./85487-wii-sports-club-baseball-boxing.json) |
 | Wii Sports Club: Bowling | 85488 | [85488-wii-sports-club-bowling.json](./85488-wii-sports-club-bowling.json) |
 | Wii Sports Club: Golf | 85489 | [85489-wii-sports-club-golf.json](./85489-wii-sports-club-golf.json) |
 | Wii Sports Club: Tennis | 85490 | [85490-wii-sports-club-tennis.json](./85490-wii-sports-club-tennis.json) |
