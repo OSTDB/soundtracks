@@ -4171,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
+| Nexus: Eternal Ruin | 424971 | [424971-nexus-eternal-ruin.json](./424971-nexus-eternal-ruin.json) |
 | NeXus: One Core | 10596 | [10596-nexus-one-core.json](./10596-nexus-one-core.json) |
 | Nexus: Quantum Industries | 414080 | [414080-nexus-quantum-industries.json](./414080-nexus-quantum-industries.json) |
 | Nexus: The Jupiter Incident | 14828 | [14828-nexus-the-jupiter-incident.json](./14828-nexus-the-jupiter-incident.json) |
@@ -7810,11 +7811,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
 | Nosferatu | 11125 | [11125-nosferatu.json](./11125-nosferatu.json) |
+| Nosferatu | 424969 | [424969-nosferatu.json](./424969-nosferatu.json) |
 | Nosferatu 2: Run from the Sun | 248410 | [248410-nosferatu-2-run-from-the-sun.json](./248410-nosferatu-2-run-from-the-sun.json) |
 | Nosferatu Lilinor | 126389 | [126389-nosferatu-lilinor.json](./126389-nosferatu-lilinor.json) |
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
 | Nosferatu the Vampyre | 28957 | [28957-nosferatu-the-vampyre.json](./28957-nosferatu-the-vampyre.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
+| Nosferatu: Volume 2 | 424970 | [424970-nosferatu-volume-2.json](./424970-nosferatu-volume-2.json) |
 | Nosferatu's Butler | 149808 | [149808-nosferatus-butler.json](./149808-nosferatus-butler.json) |
 | Nosferatu's Dominion | 337370 | [337370-nosferatus-dominion.json](./337370-nosferatus-dominion.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
