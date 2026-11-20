@@ -3637,7 +3637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Basketball: The Pro Game | 362396 | [362396-basketball-the-pro-game.json](./362396-basketball-the-pro-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
-| BasketBelle | 14766 | [14766-basketbelle.json](./14766-basketbelle.json) |
 | BasketBlow | 391416 | [391416-basketblow.json](./391416-basketblow.json) |
 | Basketboy's Adventure | 374422 | [374422-basketboys-adventure.json](./374422-basketboys-adventure.json) |
 | Basketbrawl | 11867 | [11867-basketbrawl.json](./11867-basketbrawl.json) |
@@ -4181,7 +4180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess Enhanced | 144453 | [144453-battle-chess-enhanced.json](./144453-battle-chess-enhanced.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
-| Battle Chess: Game of Kings | 15152 | [15152-battle-chess-game-of-kings.json](./15152-battle-chess-game-of-kings.json) |
 | Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
 | Battle Circuit | 38545 | [38545-battle-circuit.json](./38545-battle-circuit.json) |
@@ -8522,7 +8520,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boy's Birthday Party | 309275 | [309275-big-boys-birthday-party.json](./309275-big-boys-birthday-party.json) |
 | Big Brain Academy: Brain vs. Brain | 166489 | [166489-big-brain-academy-brain-vs-brain.json](./166489-big-brain-academy-brain-vs-brain.json) |
 | Big Brain Academy: Wii Degree | 4713 | [4713-big-brain-academy-wii-degree.json](./4713-big-brain-academy-wii-degree.json) |
-| Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
 | Big Breezy Boat | 110600 | [110600-big-breezy-boat.json](./110600-big-breezy-boat.json) |
@@ -11786,7 +11783,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlitzKeep Unleashed | 110148 | [110148-blitzkeep-unleashed.json](./110148-blitzkeep-unleashed.json) |
 | Blitzkrieg | 10242 | [10242-blitzkrieg.json](./10242-blitzkrieg.json) |
 | Blitzkrieg | 122201 | [122201-blitzkrieg.json](./122201-blitzkrieg.json) |
-| Blitzkrieg | 15676 | [15676-blitzkrieg.json](./15676-blitzkrieg.json) |
 | Blitzkrieg 2 | 7288 | [7288-blitzkrieg-2.json](./7288-blitzkrieg-2.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 2: Fall of the Reich | 11106 | [11106-blitzkrieg-2-fall-of-the-reich.json](./11106-blitzkrieg-2-fall-of-the-reich.json) |
@@ -15031,7 +15027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm | 316279 | [316279-bookworm.json](./316279-bookworm.json) |
 | Bookworm | 8325 | [8325-bookworm.json](./8325-bookworm.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
-| Bookworm Adventures Volume 2 | 15714 | [15714-bookworm-adventures-volume-2.json](./15714-bookworm-adventures-volume-2.json) |
 | Bookworm Deluxe | 140996 | [140996-bookworm-deluxe.json](./140996-bookworm-deluxe.json) |
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
@@ -15333,7 +15328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Town | 272117 | [272117-border-town.json](./272117-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
-| Border Zone | 15491 | [15491-border-zone.json](./15491-border-zone.json) |
 | Bordercide | 168711 | [168711-bordercide.json](./168711-bordercide.json) |
 | BorderCollie Blaster | 175768 | [175768-bordercollie-blaster.json](./175768-bordercollie-blaster.json) |
 | BorderCollie Game | 393011 | [393011-bordercollie-game.json](./393011-bordercollie-game.json) |
@@ -16818,7 +16812,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brake or Break | 114716 | [114716-brake-or-break.json](./114716-brake-or-break.json) |
 | Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Brakeless | 410615 | [410615-brakeless.json](./410615-brakeless.json) |
-| Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14340 | [14340-bram-stokers-dracula.json](./14340-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
@@ -19646,7 +19639,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Lot 2: Town of the Year | 16087 | [16087-build-a-lot-2-town-of-the-year.json](./16087-build-a-lot-2-town-of-the-year.json) |
 | Build-A-Lot 3: Passport to Europe | 16088 | [16088-build-a-lot-3-passport-to-europe.json](./16088-build-a-lot-3-passport-to-europe.json) |
 | Build-a-lot 3: Passport to Europe HD | 175586 | [175586-build-a-lot-3-passport-to-europe-hd.json](./175586-build-a-lot-3-passport-to-europe-hd.json) |
-| Build-A-Lot 4: Power Source | 16089 | [16089-build-a-lot-4-power-source.json](./16089-build-a-lot-4-power-source.json) |
 | Build-a-lot 4: Power Source HD | 99722 | [99722-build-a-lot-4-power-source-hd.json](./99722-build-a-lot-4-power-source-hd.json) |
 | Build-A-Lot: Fairy Tales | 62821 | [62821-build-a-lot-fairy-tales.json](./62821-build-a-lot-fairy-tales.json) |
 | Build-A-Lot: Mysteries | 62820 | [62820-build-a-lot-mysteries.json](./62820-build-a-lot-mysteries.json) |
