@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Symphonia Remastered: Chosen Edition | 218219 | [218219-tales-of-symphonia-remastered-chosen-edition.json](./218219-tales-of-symphonia-remastered-chosen-edition.json) |
 | Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Symphonia: Dawn of the New World | 5210 | [5210-tales-of-symphonia-dawn-of-the-new-world.json](./5210-tales-of-symphonia-dawn-of-the-new-world.json) |
+| Tales of Symphonia: Definitive Edition | 423111 | [423111-tales-of-symphonia-definitive-edition.json](./423111-tales-of-symphonia-definitive-edition.json) |
 | Tales of Tarium: Awakening from the Ashes | 213538 | [213538-tales-of-tarium-awakening-from-the-ashes.json](./213538-tales-of-tarium-awakening-from-the-ashes.json) |
 | Tales of Terazul | 98187 | [98187-tales-of-terazul.json](./98187-tales-of-terazul.json) |
 | Tales of Terrabanthis | 237301 | [237301-tales-of-terrabanthis.json](./237301-tales-of-terrabanthis.json) |
@@ -4788,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshou Gakuen Gekkouroku | 138351 | [138351-tenshou-gakuen-gekkouroku.json](./138351-tenshou-gakuen-gekkouroku.json) |
 | Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tenshu General | 35473 | [35473-tenshu-general.json](./35473-tenshu-general.json) |
+| Tensio | 423188 | [423188-tensio.json](./423188-tensio.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
@@ -11875,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
 | The Great Rebellion | 290012 | [290012-the-great-rebellion.json](./290012-the-great-rebellion.json) |
+| The Great Release | 423127 | [423127-the-great-release.json](./423127-the-great-release.json) |
 | The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
 | The Great Sea Battle | 282940 | [282940-the-great-sea-battle.json](./282940-the-great-sea-battle.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
@@ -18415,6 +18418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
 | The Scarlet Harvest | 366618 | [366618-the-scarlet-harvest.json](./366618-the-scarlet-harvest.json) |
 | The Scarlet Lion | 409769 | [409769-the-scarlet-lion.json](./409769-the-scarlet-lion.json) |
+| The Scarlet Thread | 423115 | [423115-the-scarlet-thread.json](./423115-the-scarlet-thread.json) |
 | The Scary Square | 169862 | [169862-the-scary-square.json](./169862-the-scary-square.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
@@ -19504,6 +19508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
 | The Somerton Man | 201058 | [201058-the-somerton-man.json](./201058-the-somerton-man.json) |
 | The Son of Art | 346279 | [346279-the-son-of-art.json](./346279-the-son-of-art.json) |
+| The Son of Stone | 422974 | [422974-the-son-of-stone.json](./422974-the-son-of-stone.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
 | The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
@@ -26270,6 +26275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
 | Timbi.World | 176666 | [176666-timbi-world.json](./176666-timbi-world.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
+| TimbrianGuard | 422975 | [422975-timbrianguard.json](./422975-timbrianguard.json) |
 | Time | 103708 | [103708-time.json](./103708-time.json) |
 | Time | 130947 | [130947-time.json](./130947-time.json) |
 | Time | 273219 | [273219-time.json](./273219-time.json) |
@@ -28198,6 +28204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
 | Toiletisia vs. Evil | 309156 | [309156-toiletisia-vs-evil.json](./309156-toiletisia-vs-evil.json) |
+| Toiletocalypse | 423116 | [423116-toiletocalypse.json](./423116-toiletocalypse.json) |
 | Toiletrooms | 254828 | [254828-toiletrooms.json](./254828-toiletrooms.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
 | Toing's Pops | 259444 | [259444-toings-pops.json](./259444-toings-pops.json) |
