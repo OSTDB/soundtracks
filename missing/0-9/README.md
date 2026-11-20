@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Milan | 407182 | [407182-101-dogs-hidden-in-milan.json](./407182-101-dogs-hidden-in-milan.json) |
 | 101 Dogs Hidden in New Delhi | 407531 | [407531-101-dogs-hidden-in-new-delhi.json](./407531-101-dogs-hidden-in-new-delhi.json) |
 | 101 Dogs Hidden in New York | 407536 | [407536-101-dogs-hidden-in-new-york.json](./407536-101-dogs-hidden-in-new-york.json) |
+| 101 Dogs Hidden in Orlando | 420883 | [420883-101-dogs-hidden-in-orlando.json](./420883-101-dogs-hidden-in-orlando.json) |
 | 101 Dogs Hidden in Rome | 408801 | [408801-101-dogs-hidden-in-rome.json](./408801-101-dogs-hidden-in-rome.json) |
 | 101 Dogs Hidden in Shanghai | 374136 | [374136-101-dogs-hidden-in-shanghai.json](./374136-101-dogs-hidden-in-shanghai.json) |
 | 101 Dogs Hidden in Singapore | 407181 | [407181-101-dogs-hidden-in-singapore.json](./407181-101-dogs-hidden-in-singapore.json) |
