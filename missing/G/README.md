@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | Go Rollo Go | 295188 | [295188-go-rollo-go.json](./295188-go-rollo-go.json) |
 | Go Run a Dungeon | 192470 | [192470-go-run-a-dungeon.json](./192470-go-run-a-dungeon.json) |
+| GO Series: Captain Sub | 84547 | [84547-go-series-captain-sub.json](./84547-go-series-captain-sub.json) |
 | GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
 | GO Series: Earth Saver | 84503 | [84503-go-series-earth-saver.json](./84503-go-series-earth-saver.json) |
 | GO Series: Fishing Resort | 84502 | [84502-go-series-fishing-resort.json](./84502-go-series-fishing-resort.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Series: Pinball Attack! | 62845 | [62845-go-series-pinball-attack.json](./62845-go-series-pinball-attack.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
+| GO Series: Undead Storm | 84498 | [84498-go-series-undead-storm.json](./84498-go-series-undead-storm.json) |
 | Go Slimey Go! | 325219 | [325219-go-slimey-go.json](./325219-go-slimey-go.json) |
 | Go Slo | 213093 | [213093-go-slo.json](./213093-go-slo.json) |
 | Go Soccer | 246445 | [246445-go-soccer.json](./246445-go-soccer.json) |
