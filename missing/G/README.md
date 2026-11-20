@@ -5907,6 +5907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
 | Gloomhaven: Mercenaries Edition | 254680 | [254680-gloomhaven-mercenaries-edition.json](./254680-gloomhaven-mercenaries-edition.json) |
+| Gloomhaven: Solo Scenarios Pack - Mercenary Challenges | 430586 | [430586-gloomhaven-solo-scenarios-pack-mercenary-challenges.json](./430586-gloomhaven-solo-scenarios-pack-mercenary-challenges.json) |
 | Gloomier Keep | 271354 | [271354-gloomier-keep.json](./271354-gloomier-keep.json) |
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
+| Gloosh! | 430634 | [430634-gloosh.json](./430634-gloosh.json) |
 | Glopy | 113928 | [113928-glopy.json](./113928-glopy.json) |
 | Glor.IO | 176670 | [176670-glor-io.json](./176670-glor-io.json) |
 | Glorace: Phantastic Carnival | 67813 | [67813-glorace-phantastic-carnival.json](./67813-glorace-phantastic-carnival.json) |
