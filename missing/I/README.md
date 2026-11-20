@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Vegend: Zombiegeddon | 17426 | [17426-i-am-vegend-zombiegeddon.json](./17426-i-am-vegend-zombiegeddon.json) |
 | I Am Very Good At Walking | 377663 | [377663-i-am-very-good-at-walking.json](./377663-i-am-very-good-at-walking.json) |
 | I Am Weapon | 54110 | [54110-i-am-weapon.json](./54110-i-am-weapon.json) |
+| I am Weapon: Revival | 22561 | [22561-i-am-weapon-revival.json](./22561-i-am-weapon-revival.json) |
 | I am working | 177750 | [177750-i-am-working.json](./177750-i-am-working.json) |
 | I Am You, I Am Everything. | 367189 | [367189-i-am-you-i-am-everything.json](./367189-i-am-you-i-am-everything.json) |
 | I Am Your Beast | 305180 | [305180-i-am-your-beast.json](./305180-i-am-your-beast.json) |
@@ -4663,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitype | 195470 | [195470-infinitype.json](./195470-infinitype.json) |
 | Infinium | 311192 | [311192-infinium.json](./311192-infinium.json) |
 | Infinium | 314700 | [314700-infinium.json](./314700-infinium.json) |
+| Infinium Strike | 22442 | [22442-infinium-strike.json](./22442-infinium-strike.json) |
 | Infinium Strike: Broken Overlord | 171454 | [171454-infinium-strike-broken-overlord.json](./171454-infinium-strike-broken-overlord.json) |
 | InfiniVirus | 381344 | [381344-infinivirus.json](./381344-infinivirus.json) |
 | Infiniwar | 312750 | [312750-infiniwar.json](./312750-infiniwar.json) |
