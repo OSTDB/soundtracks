@@ -4952,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefront Trench Warriors: Ops of Warfare & Trench Shooter: Warfare Tactics Bundle Collection | 332326 | [332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json](./332326-battlefront-trench-warriors-ops-of-warfare-and-trench-shooter-warfare-tactics-bundle-collection.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
 | Battlegammon | 61828 | [61828-battlegammon.json](./61828-battlegammon.json) |
+| Battlegenics | 424963 | [424963-battlegenics.json](./424963-battlegenics.json) |
 | BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
@@ -11934,6 +11935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Attack: Rise of the Blocks | 176732 | [176732-block-attack-rise-of-the-blocks.json](./176732-block-attack-rise-of-the-blocks.json) |
 | Block Balls | 101431 | [101431-block-balls.json](./101431-block-balls.json) |
 | Block Basher 3D | 346913 | [346913-block-basher-3d.json](./346913-block-basher-3d.json) |
+| Block Battlefield | 424998 | [424998-block-battlefield.json](./424998-block-battlefield.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blast! | 284125 | [284125-block-blast.json](./284125-block-blast.json) |
