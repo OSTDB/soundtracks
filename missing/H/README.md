@@ -7474,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex of the Lich | 164889 | [164889-hex-of-the-lich.json](./164889-hex-of-the-lich.json) |
 | Hex Park | 380134 | [380134-hex-park.json](./380134-hex-park.json) |
 | Hex Park: Master DLC | 411828 | [411828-hex-park-master-dlc.json](./411828-hex-park-master-dlc.json) |
+| Hex Party | 422500 | [422500-hex-party.json](./422500-hex-party.json) |
 | Hex Phase | 30609 | [30609-hex-phase.json](./30609-hex-phase.json) |
 | Hex Picross | 213362 | [213362-hex-picross.json](./213362-hex-picross.json) |
 | Hex Pipe | 403665 | [403665-hex-pipe.json](./403665-hex-pipe.json) |
