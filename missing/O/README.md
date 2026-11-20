@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
 | One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
 | One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
+| One of the Last | 30706 | [30706-one-of-the-last.json](./30706-one-of-the-last.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One of These People is a Vampire | 184663 | [184663-one-of-these-people-is-a-vampire.json](./184663-one-of-these-people-is-a-vampire.json) |
@@ -4079,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Labrat | 180869 | [180869-operation-labrat.json](./180869-operation-labrat.json) |
 | Operation: Matriarchy | 33684 | [33684-operation-matriarchy.json](./33684-operation-matriarchy.json) |
+| Operation: New Earth | 31259 | [31259-operation-new-earth.json](./31259-operation-new-earth.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak | 382169 | [382169-operation-outbreak.json](./382169-operation-outbreak.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
@@ -4346,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Zero | 260593 | [260593-orbit-zero.json](./260593-orbit-zero.json) |
 | Orbit-Hopper | 210791 | [210791-orbit-hopper.json](./210791-orbit-hopper.json) |
 | Orbit-X | 148579 | [148579-orbit-x.json](./148579-orbit-x.json) |
+| Orbit: Playing with Gravity | 30651 | [30651-orbit-playing-with-gravity.json](./30651-orbit-playing-with-gravity.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
 | Orbit's Grocery | 407796 | [407796-orbits-grocery.json](./407796-orbits-grocery.json) |
