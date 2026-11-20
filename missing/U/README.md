@@ -3935,7 +3935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urusei Yatsura: Miss Tomobiki wo Sagase! | 66195 | [66195-urusei-yatsura-miss-tomobiki-wo-sagase.json](./66195-urusei-yatsura-miss-tomobiki-wo-sagase.json) |
 | Urusei Yatsura: Stay With You | 66196 | [66196-urusei-yatsura-stay-with-you.json](./66196-urusei-yatsura-stay-with-you.json) |
 | Uruz: Return of the Er Kishi | 122162 | [122162-uruz-return-of-the-er-kishi.json](./122162-uruz-return-of-the-er-kishi.json) |
-| Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US AAF Mustang | 39857 | [39857-us-aaf-mustang.json](./39857-us-aaf-mustang.json) |
 | Us Against Aliens | 181033 | [181033-us-against-aliens.json](./181033-us-against-aliens.json) |
 | US Basketball HD | 233060 | [233060-us-basketball-hd.json](./233060-us-basketball-hd.json) |
