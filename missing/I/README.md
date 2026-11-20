@@ -2238,7 +2238,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iGun Pro 2 | 86959 | [86959-igun-pro-2.json](./86959-igun-pro-2.json) |
 | Ihatovo Monogatari | 42289 | [42289-ihatovo-monogatari.json](./42289-ihatovo-monogatari.json) |
 | iHearts | 90340 | [90340-ihearts.json](./90340-ihearts.json) |
-| IHF Handball Challenge 12 | 10433 | [10433-ihf-handball-challenge-12.json](./10433-ihf-handball-challenge-12.json) |
 | IHF Handball Challenge 13 | 64748 | [64748-ihf-handball-challenge-13.json](./64748-ihf-handball-challenge-13.json) |
 | IHF Handball Challenge 14 | 17088 | [17088-ihf-handball-challenge-14.json](./17088-ihf-handball-challenge-14.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
@@ -5277,7 +5276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Flesh Engine | 360825 | [360825-inside-the-flesh-engine.json](./360825-inside-the-flesh-engine.json) |
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
 | Inside the Forest | 324633 | [324633-inside-the-forest.json](./324633-inside-the-forest.json) |
-| Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
 | Inside the Labs | 251996 | [251996-inside-the-labs.json](./251996-inside-the-labs.json) |
 | Inside the loop | 182727 | [182727-inside-the-loop.json](./182727-inside-the-loop.json) |
 | Inside the Machine | 290844 | [290844-inside-the-machine.json](./290844-inside-the-machine.json) |
@@ -6021,7 +6019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
 | Into the Fold: Nala Junction | 345282 | [345282-into-the-fold-nala-junction.json](./345282-into-the-fold-nala-junction.json) |
 | Into the Forest: Out of Your Mind | 335539 | [335539-into-the-forest-out-of-your-mind.json](./335539-into-the-forest-out-of-your-mind.json) |
-| Into the Gloom | 10441 | [10441-into-the-gloom.json](./10441-into-the-gloom.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
 | Into The Haunted Land | 403833 | [403833-into-the-haunted-land.json](./403833-into-the-haunted-land.json) |
@@ -6497,7 +6494,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iona's Island | 348658 | [348658-ionas-island.json](./348658-ionas-island.json) |
 | Iona's Toybox | 361041 | [361041-ionas-toybox.json](./361041-ionas-toybox.json) |
 | IonAxxia | 61882 | [61882-ionaxxia.json](./61882-ionaxxia.json) |
-| IonBall 2: Ionstorm | 10443 | [10443-ionball-2-ionstorm.json](./10443-ionball-2-ionstorm.json) |
 | Ionball 3 | 98844 | [98844-ionball-3.json](./98844-ionball-3.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionia | 58985 | [58985-ionia.json](./58985-ionia.json) |
@@ -6812,7 +6808,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 2 | 40827 | [40827-iron-soldier-2.json](./40827-iron-soldier-2.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
-| Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
 | Iron Storm | 165449 | [165449-iron-storm.json](./165449-iron-storm.json) |
 | Iron Storm | 8929 | [8929-iron-storm.json](./8929-iron-storm.json) |
 | Iron Sun | 126821 | [126821-iron-sun.json](./126821-iron-sun.json) |
