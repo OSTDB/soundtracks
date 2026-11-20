@@ -20880,6 +20880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Quest for the Lost Eternia Shards Part 3 | 164352 | [164352-dungeon-defenders-quest-for-the-lost-eternia-shards-part-3.json](./164352-dungeon-defenders-quest-for-the-lost-eternia-shards-part-3.json) |
 | Dungeon Defenders: Quest for the Lost Eternia Shards Part 4 | 164353 | [164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json](./164353-dungeon-defenders-quest-for-the-lost-eternia-shards-part-4.json) |
 | Dungeon Defenders: Series EV Hero DLC | 164355 | [164355-dungeon-defenders-series-ev-hero-dlc.json](./164355-dungeon-defenders-series-ev-hero-dlc.json) |
+| Dungeon Defenders: Shaman Hero DLC | 426204 | [426204-dungeon-defenders-shaman-hero-dlc.json](./426204-dungeon-defenders-shaman-hero-dlc.json) |
 | Dungeon Defenders: Summoner Hero DLC | 164349 | [164349-dungeon-defenders-summoner-hero-dlc.json](./164349-dungeon-defenders-summoner-hero-dlc.json) |
 | Dungeon Defenders: Talay Mining Complex Mission Pack | 160298 | [160298-dungeon-defenders-talay-mining-complex-mission-pack.json](./160298-dungeon-defenders-talay-mining-complex-mission-pack.json) |
 | Dungeon Defenders: The Great Turkey Hunt! Mission & Costumes | 164357 | [164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json](./164357-dungeon-defenders-the-great-turkey-hunt-mission-and-costumes.json) |
@@ -21614,6 +21615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Edera | 121986 | [121986-dungeons-of-edera.json](./121986-dungeons-of-edera.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
+| Dungeons of Eternity: Helms of Glory Collection | 426178 | [426178-dungeons-of-eternity-helms-of-glory-collection.json](./426178-dungeons-of-eternity-helms-of-glory-collection.json) |
 | Dungeons of Evermore | 212373 | [212373-dungeons-of-evermore.json](./212373-dungeons-of-evermore.json) |
 | Dungeons of Fayte | 242730 | [242730-dungeons-of-fayte.json](./242730-dungeons-of-fayte.json) |
 | Dungeons of Freeport | 408249 | [408249-dungeons-of-freeport.json](./408249-dungeons-of-freeport.json) |
@@ -21808,6 +21810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Durus | 220363 | [220363-durus.json](./220363-durus.json) |
 | Dǔshén zhī Mènghuàn Poker | 128864 | [128864-dushen-zhi-menghuan-poker.json](./128864-dushen-zhi-menghuan-poker.json) |
+| Dūshì Chuánqí zhī Rén zài Jiānghú Dāng Dàlǎo | 426223 | [426223-dushi-chuanqi-zhi-ren-zai-jianghu-dang-dalao.json](./426223-dushi-chuanqi-zhi-ren-zai-jianghu-dang-dalao.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
