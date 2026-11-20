@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Pandemia 2D | 324755 | [324755-zombie-pandemia-2d.json](./324755-zombie-pandemia-2d.json) |
 | Zombie Panic | 415541 | [415541-zombie-panic.json](./415541-zombie-panic.json) |
 | Zombie Panic in Wonderland | 50980 | [50980-zombie-panic-in-wonderland.json](./50980-zombie-panic-in-wonderland.json) |
+| Zombie Panic in Wonderland DX | 84969 | [84969-zombie-panic-in-wonderland-dx.json](./84969-zombie-panic-in-wonderland-dx.json) |
 | Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
 | Zombie Panic in Zombieland Plus | 120219 | [120219-zombie-panic-in-zombieland-plus.json](./120219-zombie-panic-in-zombieland-plus.json) |
 | Zombie Panic! | 67706 | [67706-zombie-panic.json](./67706-zombie-panic.json) |
