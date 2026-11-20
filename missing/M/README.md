@@ -7829,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
 | MechKnight Chronicles: Knightfall | 51674 | [51674-mechknight-chronicles-knightfall.json](./51674-mechknight-chronicles-knightfall.json) |
 | MechNest | 182121 | [182121-mechnest.json](./182121-mechnest.json) |
+| Mecho Tales | 56589 | [56589-mecho-tales.json](./56589-mecho-tales.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
 | Mecho Wars: Desert Ashes | 114174 | [114174-mecho-wars-desert-ashes.json](./114174-mecho-wars-desert-ashes.json) |
 | MechoEcho | 33730 | [33730-mechoecho.json](./33730-mechoecho.json) |
@@ -13330,6 +13331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike & Tyler | 133348 | [133348-mike-and-tyler.json](./133348-mike-and-tyler.json) |
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
+| Mike Dies | 56639 | [56639-mike-dies.json](./56639-mike-dies.json) |
 | Mike Ditka Power Football | 46679 | [46679-mike-ditka-power-football.json](./46679-mike-ditka-power-football.json) |
 | Mike Edwards' Realm of Impossibility | 24635 | [24635-mike-edwards-realm-of-impossibility.json](./24635-mike-edwards-realm-of-impossibility.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
@@ -23860,6 +23862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Baby 3D | 84625 | [84625-my-little-baby-3d.json](./84625-my-little-baby-3d.json) |
 | My Little Bakery | 89228 | [89228-my-little-bakery.json](./89228-my-little-bakery.json) |
 | My Little Blacksmith | 79684 | [79684-my-little-blacksmith.json](./79684-my-little-blacksmith.json) |
+| My Little Blacksmith Shop | 55819 | [55819-my-little-blacksmith-shop.json](./55819-my-little-blacksmith-shop.json) |
 | My Little Blood Cult: Let's Summon Demons | 264791 | [264791-my-little-blood-cult-lets-summon-demons.json](./264791-my-little-blood-cult-lets-summon-demons.json) |
 | My Little Bomb | 81920 | [81920-my-little-bomb.json](./81920-my-little-bomb.json) |
 | My Little Booth Bundle | 216365 | [216365-my-little-booth-bundle.json](./216365-my-little-booth-bundle.json) |
