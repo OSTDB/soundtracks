@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Blitz | 181761 | [181761-bacon-blitz.json](./181761-bacon-blitz.json) |
+| Bacon Cannibal | 421308 | [421308-bacon-cannibal.json](./421308-bacon-cannibal.json) |
 | Bacon Escape | 97058 | [97058-bacon-escape.json](./97058-bacon-escape.json) |
 | Bacon Escape 2: Spaced Out! | 114647 | [114647-bacon-escape-2-spaced-out.json](./114647-bacon-escape-2-spaced-out.json) |
 | Bacon Grease | 277492 | [277492-bacon-grease.json](./277492-bacon-grease.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham City Lockdown | 77258 | [77258-batman-arkham-city-lockdown.json](./77258-batman-arkham-city-lockdown.json) |
 | Batman: Arkham Collection | 112659 | [112659-batman-arkham-collection.json](./112659-batman-arkham-collection.json) |
+| Batman: Arkham Dual Pack | 421334 | [421334-batman-arkham-dual-pack.json](./421334-batman-arkham-dual-pack.json) |
 | Batman: Arkham Knight - 1970s Batman Themed Batmobile Skin | 26035 | [26035-batman-arkham-knight-1970s-batman-themed-batmobile-skin.json](./26035-batman-arkham-knight-1970s-batman-themed-batmobile-skin.json) |
 | Batman: Arkham Knight - 1989 Movie Batmobile Pack | 15520 | [15520-batman-arkham-knight-1989-movie-batmobile-pack.json](./15520-batman-arkham-knight-1989-movie-batmobile-pack.json) |
 | Batman: Arkham Knight - 1st Appearance Batman Skin | 25977 | [25977-batman-arkham-knight-1st-appearance-batman-skin.json](./25977-batman-arkham-knight-1st-appearance-batman-skin.json) |
@@ -6990,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeHero: Be Your Legend | 122889 | [122889-behero-be-your-legend.json](./122889-behero-be-your-legend.json) |
 | Behind Border Zone | 372215 | [372215-behind-border-zone.json](./372215-behind-border-zone.json) |
 | Behind Closed Doors | 385578 | [385578-behind-closed-doors.json](./385578-behind-closed-doors.json) |
+| Behind Closed Doors | 421356 | [421356-behind-closed-doors.json](./421356-behind-closed-doors.json) |
 | Behind Closed Doors | 70801 | [70801-behind-closed-doors.json](./70801-behind-closed-doors.json) |
 | Behind Closed Doors (Revenge of the Ants) | 58847 | [58847-behind-closed-doors-revenge-of-the-ants.json](./58847-behind-closed-doors-revenge-of-the-ants.json) |
 | Behind Closed Doors (The Sequel) | 58852 | [58852-behind-closed-doors-the-sequel.json](./58852-behind-closed-doors-the-sequel.json) |
@@ -12291,6 +12294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
 | Blocks and Bones | 270028 | [270028-blocks-and-bones.json](./270028-blocks-and-bones.json) |
 | Blocks and Ropes | 224092 | [224092-blocks-and-ropes.json](./224092-blocks-and-ropes.json) |
+| Blocks Beyond the Stars | 421337 | [421337-blocks-beyond-the-stars.json](./421337-blocks-beyond-the-stars.json) |
 | Blocks Challenge | 315771 | [315771-blocks-challenge.json](./315771-blocks-challenge.json) |
 | Blocks Crush | 234458 | [234458-blocks-crush.json](./234458-blocks-crush.json) |
 | Blocks Flying At Me | 364800 | [364800-blocks-flying-at-me.json](./364800-blocks-flying-at-me.json) |
@@ -17645,6 +17649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brendan Keogh's Putting Challenge | 191444 | [191444-brendan-keoghs-putting-challenge.json](./191444-brendan-keoghs-putting-challenge.json) |
 | Brendan Keogh's Putting Land | 329908 | [329908-brendan-keoghs-putting-land.json](./329908-brendan-keoghs-putting-land.json) |
 | Brendon's Water Polo | 306401 | [306401-brendons-water-polo.json](./306401-brendons-water-polo.json) |
+| Brennan's Light | 421297 | [421297-brennans-light.json](./421297-brennans-light.json) |
 | Brentwood | 310296 | [310296-brentwood.json](./310296-brentwood.json) |
 | Bret Airborne | 28587 | [28587-bret-airborne.json](./28587-bret-airborne.json) |
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
@@ -20605,6 +20610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Requiem: Fates | 207702 | [207702-burning-requiem-fates.json](./207702-burning-requiem-fates.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
 | Burning Road | 44857 | [44857-burning-road.json](./44857-burning-road.json) |
+| Burning Roots | 421313 | [421313-burning-roots.json](./421313-burning-roots.json) |
 | Burning Rubber | 14354 | [14354-burning-rubber.json](./14354-burning-rubber.json) |
 | Burning Sand | 146739 | [146739-burning-sand.json](./146739-burning-sand.json) |
 | Burning Sand 2 | 146740 | [146740-burning-sand-2.json](./146740-burning-sand-2.json) |
