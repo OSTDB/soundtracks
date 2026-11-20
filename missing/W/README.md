@@ -3609,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekend in Waimanalo | 301221 | [301221-weekend-in-waimanalo.json](./301221-weekend-in-waimanalo.json) |
 | Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
 | Weekend Romance | 286170 | [286170-weekend-romance.json](./286170-weekend-romance.json) |
+| Weekend Solitaire 8 | 419482 | [419482-weekend-solitaire-8.json](./419482-weekend-solitaire-8.json) |
 | Weekend Solitaire: Airplanes | 388887 | [388887-weekend-solitaire-airplanes.json](./388887-weekend-solitaire-airplanes.json) |
 | Weekend Solitaire: Grace in Motion | 416081 | [416081-weekend-solitaire-grace-in-motion.json](./416081-weekend-solitaire-grace-in-motion.json) |
 | Weekend Solitaire: Meditation | 337257 | [337257-weekend-solitaire-meditation.json](./337257-weekend-solitaire-meditation.json) |
