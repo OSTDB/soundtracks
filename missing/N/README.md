@@ -3071,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - Emotional Limited Edition | 167057 | [167057-neptunia-virtual-stars-emotional-limited-edition.json](./167057-neptunia-virtual-stars-emotional-limited-edition.json) |
 | Neptunia: Virtual Stars - Kizuna AI | 196085 | [196085-neptunia-virtual-stars-kizuna-ai.json](./196085-neptunia-virtual-stars-kizuna-ai.json) |
+| Neptunia: Virtual Stars - Swimsuit Outfit: Goddess Set | 430589 | [430589-neptunia-virtual-stars-swimsuit-outfit-goddess-set.json](./430589-neptunia-virtual-stars-swimsuit-outfit-goddess-set.json) |
 | Neptunia: Virtual Stars - Towa Kiseki | 196086 | [196086-neptunia-virtual-stars-towa-kiseki.json](./196086-neptunia-virtual-stars-towa-kiseki.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Neptunian Donut | 72408 | [72408-neptunian-donut.json](./72408-neptunian-donut.json) |
@@ -3152,7 +3153,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nessen Koushien: Exciting Baseball | 83137 | [83137-nessen-koushien-exciting-baseball.json](./83137-nessen-koushien-exciting-baseball.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
+| Nest Fit | 430656 | [430656-nest-fit.json](./430656-nest-fit.json) |
 | Nest Lander | 134894 | [134894-nest-lander.json](./134894-nest-lander.json) |
+| Nest Match | 430651 | [430651-nest-match.json](./430651-nest-match.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
 | NEStalgia | 16650 | [16650-nestalgia.json](./16650-nestalgia.json) |
 | Nested | 274101 | [274101-nested.json](./274101-nested.json) |
