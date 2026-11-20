@@ -6824,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sky: Operation High Jump | 66816 | [66816-iron-sky-operation-high-jump.json](./66816-iron-sky-operation-high-jump.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Snout | 28733 | [28733-iron-snout.json](./28733-iron-snout.json) |
+| Iron Sol | 426788 | [426788-iron-sol.json](./426788-iron-sol.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 2 | 40827 | [40827-iron-soldier-2.json](./40827-iron-soldier-2.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
