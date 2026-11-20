@@ -5411,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
 | Instant Sports + | 191350 | [191350-instant-sports.json](./191350-instant-sports.json) |
 | Instant Sports 2 | 397676 | [397676-instant-sports-2.json](./397676-instant-sports-2.json) |
+| Instant Sports Paradise | 154788 | [154788-instant-sports-paradise.json](./154788-instant-sports-paradise.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
 | Instant Sports Tennis | 144207 | [144207-instant-sports-tennis.json](./144207-instant-sports-tennis.json) |
@@ -6486,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault | 10442 | [10442-ion-assault.json](./10442-ion-assault.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
+| Ion Driver | 164310 | [164310-ion-driver.json](./164310-ion-driver.json) |
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
 | Ion Racer | 251261 | [251261-ion-racer.json](./251261-ion-racer.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
@@ -7264,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanded | 10350 | [10350-islanded.json](./10350-islanded.json) |
 | Islander | 176851 | [176851-islander.json](./176851-islander.json) |
 | Islanders | 116133 | [116133-islanders.json](./116133-islanders.json) |
+| Islanders: Console Edition | 163628 | [163628-islanders-console-edition.json](./163628-islanders-console-edition.json) |
 | Islanders: New Shores | 333961 | [333961-islanders-new-shores.json](./333961-islanders-new-shores.json) |
 | Islanders: New Shores - Island Hopping Bundle | 349607 | [349607-islanders-new-shores-island-hopping-bundle.json](./349607-islanders-new-shores-island-hopping-bundle.json) |
 | Islanders: New Shores - Photo Filter Pack | 349602 | [349602-islanders-new-shores-photo-filter-pack.json](./349602-islanders-new-shores-photo-filter-pack.json) |
