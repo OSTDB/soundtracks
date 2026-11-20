@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,867" src="https://img.shields.io/badge/soundtracks-3%2C867-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,384" src="https://img.shields.io/badge/games-3%2C384-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 366,564" src="https://img.shields.io/badge/missing-366%2C564-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 367,016" src="https://img.shields.io/badge/missing-367%2C016-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vendetta-curse-of-ravens-cry"><img src="https://i.scdn.co/image/ab67616d0000b2738808d679e68897e650e3c83e" width="120" height="120" alt="" /></a><br /><sub><b>Vendetta: Curse of Raven's Cry</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/threadspace-hyperbol"><img src="https://i.scdn.co/image/ab67616d0000b2737a8809d25d4fa9ac2c80a351" width="120" height="120" alt="" /></a><br /><sub><b>ThreadSpace: Hyperbol</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/muscle-march"><img src="https://i.scdn.co/image/ab67616d0000b273800408d56aaddfe6b17ccf84" width="120" height="120" alt="" /></a><br /><sub><b>Muscle March</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hyperdrive-massacre"><img src="https://i.scdn.co/image/ab67616d0000b2733b2215a929f615bc3ae6cc5d" width="120" height="120" alt="" /></a><br /><sub><b>Hyperdrive Massacre</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/frozen-cortex"><img src="https://i.scdn.co/image/ab67616d0000b2737a8a031b410814a887be884e" width="120" height="120" alt="" /></a><br /><sub><b>Frozen Cortex</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/enola"><img src="https://i.scdn.co/image/ab67616d0000b273f01bb071d29bb3a1f7d954aa" width="120" height="120" alt="" /></a><br /><sub><b>Enola</b></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spate"><img src="https://i.scdn.co/image/ab67616d0000b2737f97d64d984dd0cb971a2e0d" width="120" height="120" alt="" /></a><br /><sub><b>Spate</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tinertia"><img src="https://i.scdn.co/image/ab67616d0000b27336ab2bc0df864bd5a3401c78" width="120" height="120" alt="" /></a><br /><sub><b>Tinertia</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/legions-of-steel"><img src="https://i.scdn.co/image/ab67616d0000b2738135309b1620d00b1a5fc061" width="120" height="120" alt="" /></a><br /><sub><b>Legions of Steel</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/poltergeist-a-pixelated-horror"><img src="https://i.scdn.co/image/ab67616d0000b273d5357ee79ca0b774feb86aa2" width="120" height="120" alt="" /></a><br /><sub><b>Poltergeist: A Pixelated Horror</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/horizon-shift"><img src="https://i.scdn.co/image/ab67616d0000b273cf7c3603e77c5a4c93a798be" width="120" height="120" alt="" /></a><br /><sub><b>Horizon Shift</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/flat-kingdom"><img src="https://i.scdn.co/image/ab67616d0000b2737deb4c8d010e0af61e625fc4" width="120" height="120" alt="" /></a><br /><sub><b>Flat Kingdom</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ecotone"><img src="https://i.scdn.co/image/ab67616d0000b27397ca2cffc35fd13ea625c6ad" width="120" height="120" alt="" /></a><br /><sub><b>Ecotone</b></sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skyhook"><img src="https://i.scdn.co/image/ab67616d0000b2735095e2097d9c865d93dfdc63" width="120" height="120" alt="" /></a><br /><sub><b>Skyhook</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/chain-chronicle"><img src="https://i.scdn.co/image/ab67616d0000b273191816db12caccfef63f2d1b" width="120" height="120" alt="" /></a><br /><sub><b>Chain Chronicle</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/polychromatic"><img src="https://i.scdn.co/image/ab67616d0000b273331cf10c609b150dd81fdd1f" width="120" height="120" alt="" /></a><br /><sub><b>Polychromatic</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spy-hunter"><img src="https://i.scdn.co/image/ab67616d0000b273e1b5867cd262f9a2127d81df" width="120" height="120" alt="" /></a><br /><sub><b>Spy Hunter</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/d-generation-hd"><img src="https://i.scdn.co/image/ab67616d0000b273cb502af26c2b68ab708d3cf0" width="120" height="120" alt="" /></a><br /><sub><b>D/Generation HD</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hartacon-tactics"><img src="https://i.scdn.co/image/ab67616d0000b273b3cfea85e60cfc62d44897cf" width="120" height="120" alt="" /></a><br /><sub><b>Hartacon Tactics</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (366,564 games).
+More in **[missing/](missing/README.md)** (367,016 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,867 soundtracks &middot; last updated 2026-11-20T05:45:49.313Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,867 soundtracks &middot; last updated 2026-11-20T06:41:05.046Z</sub>
