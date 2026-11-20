@@ -532,9 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
 | Pacific Rim: Breach Wars | 95099 | [95099-pacific-rim-breach-wars.json](./95099-pacific-rim-breach-wars.json) |
-| Pacific Storm | 14884 | [14884-pacific-storm.json](./14884-pacific-storm.json) |
 | Pacific Storm 6: Battle for Normandy | 111930 | [111930-pacific-storm-6-battle-for-normandy.json](./111930-pacific-storm-6-battle-for-normandy.json) |
-| Pacific Storm: Allies | 14855 | [14855-pacific-storm-allies.json](./14855-pacific-storm-allies.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
@@ -3308,7 +3306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasture: The Livestock Simulator | 264740 | [264740-pasture-the-livestock-simulator.json](./264740-pasture-the-livestock-simulator.json) |
 | Pastures New | 309312 | [309312-pastures-new.json](./309312-pastures-new.json) |
 | Pasvan | 131671 | [131671-pasvan.json](./131671-pasvan.json) |
-| Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
 | Pat Sajak's Lucky Letters Deluxe | 51360 | [51360-pat-sajaks-lucky-letters-deluxe.json](./51360-pat-sajaks-lucky-letters-deluxe.json) |
@@ -4092,7 +4089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pazuzu | 274169 | [274169-pazuzu.json](./274169-pazuzu.json) |
 | Pazzon | 92649 | [92649-pazzon.json](./92649-pazzon.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
-| PBA Bowling | 15507 | [15507-pba-bowling.json](./15507-pba-bowling.json) |
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
 | PBA Bowling Challenge | 88864 | [88864-pba-bowling-challenge.json](./88864-pba-bowling-challenge.json) |
@@ -5217,7 +5213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perils of Poom | 171257 | [171257-perils-of-poom.json](./171257-perils-of-poom.json) |
 | Perimbó | 349431 | [349431-perimbo.json](./349431-perimbo.json) |
 | Perimeter | 397689 | [397689-perimeter.json](./397689-perimeter.json) |
-| Perimeter 2: New Earth | 14859 | [14859-perimeter-2-new-earth.json](./14859-perimeter-2-new-earth.json) |
 | Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
 | Perimeter: Legate Edition | 299806 | [299806-perimeter-legate-edition.json](./299806-perimeter-legate-edition.json) |
 | Perino Candy Buster | 321715 | [321715-perino-candy-buster.json](./321715-perino-candy-buster.json) |
@@ -5288,7 +5283,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpetual Powers | 259792 | [259792-perpetual-powers.json](./259792-perpetual-powers.json) |
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
-| Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | Perpetuum Mobile | 126063 | [126063-perpetuum-mobile.json](./126063-perpetuum-mobile.json) |
 | Perplex | 328127 | [328127-perplex.json](./328127-perplex.json) |
 | Perplex City | 71320 | [71320-perplex-city.json](./71320-perplex-city.json) |
@@ -10482,7 +10476,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Bounce: Devastator DLC Pack | 171137 | [171137-planet-bounce-devastator-dlc-pack.json](./171137-planet-bounce-devastator-dlc-pack.json) |
 | Planet Breakout 2 | 224701 | [224701-planet-breakout-2.json](./224701-planet-breakout-2.json) |
 | Planet Builder - Create Your Own Solar System | 106924 | [106924-planet-builder-create-your-own-solar-system.json](./106924-planet-builder-create-your-own-solar-system.json) |
-| Planet Busters | 14908 | [14908-planet-busters.json](./14908-planet-busters.json) |
 | Planet Centauri | 34841 | [34841-planet-centauri.json](./34841-planet-centauri.json) |
 | Planet Chyton | 391760 | [391760-planet-chyton.json](./391760-planet-chyton.json) |
 | Planet Coaster 2 | 308099 | [308099-planet-coaster-2.json](./308099-planet-coaster-2.json) |
@@ -15364,7 +15357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pound for Pound | 389836 | [389836-pound-for-pound.json](./389836-pound-for-pound.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
 | Pound of Flesh | 75714 | [75714-pound-of-flesh.json](./75714-pound-of-flesh.json) |
-| Pound of Ground | 16030 | [16030-pound-of-ground.json](./16030-pound-of-ground.json) |
 | Poupée Girl DS | 122303 | [122303-poupee-girl-ds.json](./122303-poupee-girl-ds.json) |
 | Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
 | Poupée Girl DS 2: Sweet Pink Style | 122505 | [122505-poupee-girl-ds-2-sweet-pink-style.json](./122505-poupee-girl-ds-2-sweet-pink-style.json) |
@@ -16415,7 +16407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Dungeon Adventure | 394575 | [394575-primal-dungeon-adventure.json](./394575-primal-dungeon-adventure.json) |
 | Primal Earth | 258155 | [258155-primal-earth.json](./258155-primal-earth.json) |
 | Primal Echo | 374822 | [374822-primal-echo.json](./374822-primal-echo.json) |
-| Primal Fears | 15300 | [15300-primal-fears.json](./15300-primal-fears.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
 | Primal Forge | 117402 | [117402-primal-forge.json](./117402-primal-forge.json) |
 | Primal Fray | 244469 | [244469-primal-fray.json](./244469-primal-fray.json) |
@@ -17036,7 +17027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Test | 102369 | [102369-prison-test.json](./102369-prison-test.json) |
 | Prison Tycoon | 14880 | [14880-prison-tycoon.json](./14880-prison-tycoon.json) |
 | Prison Tycoon 2: Maximum Security | 14881 | [14881-prison-tycoon-2-maximum-security.json](./14881-prison-tycoon-2-maximum-security.json) |
-| Prison Tycoon 3: Lockdown | 14862 | [14862-prison-tycoon-3-lockdown.json](./14862-prison-tycoon-3-lockdown.json) |
 | Prison Tycoon 4: Supermax | 14882 | [14882-prison-tycoon-4-supermax.json](./14882-prison-tycoon-4-supermax.json) |
 | Prison Tycoon: Alcatraz | 14883 | [14883-prison-tycoon-alcatraz.json](./14883-prison-tycoon-alcatraz.json) |
 | Prison Tycoon: Under New Management | 152405 | [152405-prison-tycoon-under-new-management.json](./152405-prison-tycoon-under-new-management.json) |
@@ -18132,7 +18122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Forgemaster | 310895 | [310895-project-forgemaster.json](./310895-project-forgemaster.json) |
 | Project Fox Online | 76818 | [76818-project-fox-online.json](./76818-project-fox-online.json) |
 | Project Foxx | 405285 | [405285-project-foxx.json](./405285-project-foxx.json) |
-| Project Freedom | 16044 | [16044-project-freedom.json](./16044-project-freedom.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Freefall | 364275 | [364275-project-freefall.json](./364275-project-freefall.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
@@ -19124,7 +19113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProtoDungeon: Episode II | 405620 | [405620-protodungeon-episode-ii.json](./405620-protodungeon-episode-ii.json) |
 | ProtoDungeon: Episode III | 117646 | [117646-protodungeon-episode-iii.json](./117646-protodungeon-episode-iii.json) |
 | Protoform | 107113 | [107113-protoform.json](./107113-protoform.json) |
-| ProtoGalaxy | 16194 | [16194-protogalaxy.json](./16194-protogalaxy.json) |
 | Protoganda II | 199153 | [199153-protoganda-ii.json](./199153-protoganda-ii.json) |
 | Protoganda: Strings | 71844 | [71844-protoganda-strings.json](./71844-protoganda-strings.json) |
 | Protogen Inc. | 372754 | [372754-protogen-inc.json](./372754-protogen-inc.json) |
@@ -21353,7 +21341,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler King | 97261 | [97261-puzzler-king.json](./97261-puzzler-king.json) |
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
-| Puzzler World 2 | 16272 | [16272-puzzler-world-2.json](./16272-puzzler-world-2.json) |
 | Puzzler World 2011 | 84787 | [84787-puzzler-world-2011.json](./84787-puzzler-world-2011.json) |
 | Puzzler World 2012 3D | 47636 | [47636-puzzler-world-2012-3d.json](./47636-puzzler-world-2012-3d.json) |
 | Puzzler World 2013 | 47659 | [47659-puzzler-world-2013.json](./47659-puzzler-world-2013.json) |
@@ -21655,7 +21642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro Sand | 146670 | [146670-pyro-sand.json](./146670-pyro-sand.json) |
 | Pyro the Exterminator | 130092 | [130092-pyro-the-exterminator.json](./130092-pyro-the-exterminator.json) |
 | Pyro VR | 29602 | [29602-pyro-vr.json](./29602-pyro-vr.json) |
-| Pyroblazer | 14928 | [14928-pyroblazer.json](./14928-pyroblazer.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyroclysm | 54271 | [54271-pyroclysm.json](./54271-pyroclysm.json) |
 | PyroKite | 397325 | [397325-pyrokite.json](./397325-pyrokite.json) |
