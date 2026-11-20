@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Was Late Because A Dry-Eyed Alien Stole My Pen! | 416738 | [416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json](./416738-i-was-late-because-a-dry-eyed-alien-stole-my-pen.json) |
 | I Was Lost | 203245 | [203245-i-was-lost.json](./203245-i-was-lost.json) |
 | I was rebuilt | 415821 | [415821-i-was-rebuilt.json](./415821-i-was-rebuilt.json) |
+| I Was Reincarnated as a Bosozoku Hamster, so I Became a Racing Champion to Return Home | 422575 | [422575-i-was-reincarnated-as-a-bosozoku-hamster-so-i-became-a-racing-champion-to-return-home.json](./422575-i-was-reincarnated-as-a-bosozoku-hamster-so-i-became-a-racing-champion-to-return-home.json) |
 | I Was Seen as the Weakest Hero But I Can Secretly Edit the Metadata of the World?!? | 413410 | [413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json](./413410-i-was-seen-as-the-weakest-hero-but-i-can-secretly-edit-the-metadata-of-the-world.json) |
 | I Was Summoned to Another World, but All I Do Is Organize a Run-Down Village | 419235 | [419235-i-was-summoned-to-another-world-but-all-i-do-is-organize-a-run-down-village.json](./419235-i-was-summoned-to-another-world-but-all-i-do-is-organize-a-run-down-village.json) |
 | I Was the Cat | 240138 | [240138-i-was-the-cat.json](./240138-i-was-the-cat.json) |
@@ -870,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Borr | 196604 | [196604-im-borr.json](./196604-im-borr.json) |
 | I'm Calling the Cops! | 128997 | [128997-im-calling-the-cops.json](./128997-im-calling-the-cops.json) |
 | I'm Caught in a Time Loop: I Need to Find a Girl as Soon as Possible | 340508 | [340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json](./340508-im-caught-in-a-time-loop-i-need-to-find-a-girl-as-soon-as-possible.json) |
+| I'm Definitely in a Basement | 422576 | [422576-im-definitely-in-a-basement.json](./422576-im-definitely-in-a-basement.json) |
 | I'm Determined to Make 3A: 01/65 | 296934 | [296934-im-determined-to-make-3a-01-65.json](./296934-im-determined-to-make-3a-01-65.json) |
 | I'm Down | 394356 | [394356-im-down.json](./394356-im-down.json) |
 | I'm Fine | 116579 | [116579-im-fine.json](./116579-im-fine.json) |
@@ -7872,6 +7874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwaihime: Extra Chapter - Musubihime | 168844 | [168844-iwaihime-extra-chapter-musubihime.json](./168844-iwaihime-extra-chapter-musubihime.json) |
 | Iwaihime: Matsuri | 28291 | [28291-iwaihime-matsuri.json](./28291-iwaihime-matsuri.json) |
 | Iwakutsugi | 356266 | [356266-iwakutsugi.json](./356266-iwakutsugi.json) |
+| Iwanu ga Hana | 422572 | [422572-iwanu-ga-hana.json](./422572-iwanu-ga-hana.json) |
 | iWarehouse: World Tour | 269346 | [269346-iwarehouse-world-tour.json](./269346-iwarehouse-world-tour.json) |
 | Iwate Mountain Dance | 132313 | [132313-iwate-mountain-dance.json](./132313-iwate-mountain-dance.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
