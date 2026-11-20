@@ -17683,6 +17683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
 | Monkey Magic | 76854 | [76854-monkey-magic.json](./76854-monkey-magic.json) |
 | Monkey Mansion | 193645 | [193645-monkey-mansion.json](./193645-monkey-mansion.json) |
+| Monkey Mart | 427382 | [427382-monkey-mart.json](./427382-monkey-mart.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Math School Sunshine | 291969 | [291969-monkey-math-school-sunshine.json](./291969-monkey-math-school-sunshine.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
@@ -20097,6 +20098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morty the Matador | 110212 | [110212-morty-the-matador.json](./110212-morty-the-matador.json) |
 | Mortyr 2093-1944 | 8342 | [8342-mortyr-2093-1944.json](./8342-mortyr-2093-1944.json) |
 | Mortyr II | 8343 | [8343-mortyr-ii.json](./8343-mortyr-ii.json) |
+| Morvex | 427363 | [427363-morvex.json](./427363-morvex.json) |
 | Morvus | 407997 | [407997-morvus.json](./407997-morvus.json) |
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
@@ -21102,6 +21104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie's Lemon | 166911 | [166911-moxies-lemon.json](./166911-moxies-lemon.json) |
 | Mòxīn: Bōyún Guǐchuán | 156922 | [156922-moxin-boyun-guichuan.json](./156922-moxin-boyun-guichuan.json) |
 | Moxina | 148191 | [148191-moxina.json](./148191-moxina.json) |
+| Moxter | 427393 | [427393-moxter.json](./427393-moxter.json) |
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
 | Moyashi Monogatari | 287432 | [287432-moyashi-monogatari.json](./287432-moyashi-monogatari.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
