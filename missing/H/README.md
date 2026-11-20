@@ -8849,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Dirty Secrets | 220428 | [220428-high-school-dirty-secrets.json](./220428-high-school-dirty-secrets.json) |
 | High School Dreams: Best Friends Forever | 60942 | [60942-high-school-dreams-best-friends-forever.json](./60942-high-school-dreams-best-friends-forever.json) |
 | High School DxD | 61181 | [61181-high-school-dxd.json](./61181-high-school-dxd.json) |
+| High School DxD Operation Paradise Infinity | 424957 | [424957-high-school-dxd-operation-paradise-infinity.json](./424957-high-school-dxd-operation-paradise-infinity.json) |
 | High School DxD: New Fight | 61191 | [61191-high-school-dxd-new-fight.json](./61191-high-school-dxd-new-fight.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
