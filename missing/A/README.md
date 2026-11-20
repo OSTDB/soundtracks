@@ -4706,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
 | Aeloren Tactics | 157111 | [157111-aeloren-tactics.json](./157111-aeloren-tactics.json) |
+| Aelsia Story | 429705 | [429705-aelsia-story.json](./429705-aelsia-story.json) |
 | Aelwater | 390079 | [390079-aelwater.json](./390079-aelwater.json) |
 | Aenaon | 150288 | [150288-aenaon.json](./150288-aenaon.json) |
 | Aenigma | 394072 | [394072-aenigma.json](./394072-aenigma.json) |
@@ -7022,6 +7023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
 | Akahane Academy | 251330 | [251330-akahane-academy.json](./251330-akahane-academy.json) |
 | Akahane: After Class | 278617 | [278617-akahane-after-class.json](./278617-akahane-after-class.json) |
+| Akai Black Sarena | 429615 | [429615-akai-black-sarena.json](./429615-akai-black-sarena.json) |
 | Akai Corridor | 316282 | [316282-akai-corridor.json](./316282-akai-corridor.json) |
 | Akai Hana | 386935 | [386935-akai-hana.json](./386935-akai-hana.json) |
 | Akai Heya | 318343 | [318343-akai-heya.json](./318343-akai-heya.json) |
