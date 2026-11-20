@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Connection V4.5 | 229948 | [229948-tamagotchi-connection-v4-5.json](./229948-tamagotchi-connection-v4-5.json) |
 | Tamagotchi Connection V5 Familitchi | 229954 | [229954-tamagotchi-connection-v5-familitchi.json](./229954-tamagotchi-connection-v5-familitchi.json) |
 | Tamagotchi Connection V5.5 Celebrity | 229955 | [229955-tamagotchi-connection-v5-5-celebrity.json](./229955-tamagotchi-connection-v5-5-celebrity.json) |
+| Tamagotchi Connection: Corner Shop | 20491 | [20491-tamagotchi-connection-corner-shop.json](./20491-tamagotchi-connection-corner-shop.json) |
 | Tamagotchi Connection: Corner Shop 2 | 20607 | [20607-tamagotchi-connection-corner-shop-2.json](./20607-tamagotchi-connection-corner-shop-2.json) |
 | Tamagotchi Friends: Digital Friend | 229959 | [229959-tamagotchi-friends-digital-friend.json](./229959-tamagotchi-friends-digital-friend.json) |
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Cookie & Cream | 10758 | [10758-the-adventures-of-cookie-and-cream.json](./10758-the-adventures-of-cookie-and-cream.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
+| The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
 | The Adventures of Dash | 63710 | [63710-the-adventures-of-dash.json](./63710-the-adventures-of-dash.json) |
 | The Adventures of Death: Episode One - Emo Harvest on the Oregon Trail | 131007 | [131007-the-adventures-of-death-episode-one-emo-harvest-on-the-oregon-trail.json](./131007-the-adventures-of-death-episode-one-emo-harvest-on-the-oregon-trail.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
@@ -6615,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
 | The Ambassador's Coterie | 195668 | [195668-the-ambassadors-coterie.json](./195668-the-ambassadors-coterie.json) |
+| The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Ambush! | 306250 | [306250-the-ambush.json](./306250-the-ambush.json) |
 | The AMC Pleaser | 271976 | [271976-the-amc-pleaser.json](./271976-the-amc-pleaser.json) |
 | The AMC Squad | 257052 | [257052-the-amc-squad.json](./257052-the-amc-squad.json) |
@@ -6929,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awaited ReCollection | 239791 | [239791-the-awaited-recollection.json](./239791-the-awaited-recollection.json) |
 | The Awakened Avenger | 372467 | [372467-the-awakened-avenger.json](./372467-the-awakened-avenger.json) |
 | The Awakened Blade | 417454 | [417454-the-awakened-blade.json](./417454-the-awakened-blade.json) |
+| The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Battle Tendency | 372813 | [372813-the-awakener-battle-tendency.json](./372813-the-awakener-battle-tendency.json) |
 | The Awakener: Forgotten Oath | 263734 | [263734-the-awakener-forgotten-oath.json](./263734-the-awakener-forgotten-oath.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
@@ -7471,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birthday | 199199 | [199199-the-birthday.json](./199199-the-birthday.json) |
 | The Birthday | 215807 | [215807-the-birthday.json](./215807-the-birthday.json) |
 | The Bistro: Ryouri & Wine no Shokunin tachi | 387137 | [387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json](./387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json) |
+| The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
@@ -11028,6 +11033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
 | The Flipbook | 374900 | [374900-the-flipbook.json](./374900-the-flipbook.json) |
 | The Floating City | 148884 | [148884-the-floating-city.json](./148884-the-floating-city.json) |
+| The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
 | The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
 | The Flood: Forgotten Exile | 332928 | [332928-the-flood-forgotten-exile.json](./332928-the-flood-forgotten-exile.json) |
 | ﻿﻿The Flooded Tower | 321709 | [321709-the-flooded-tower.json](./321709-the-flooded-tower.json) |
@@ -11804,6 +11810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fluctus | 319045 | [319045-the-great-fluctus.json](./319045-the-great-fluctus.json) |
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fumo Binning | 311982 | [311982-the-great-fumo-binning.json](./311982-the-great-fumo-binning.json) |
+| The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gaias | 95196 | [95196-the-great-gaias.json](./95196-the-great-gaias.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Ghoul Duel | 140061 | [140061-the-great-ghoul-duel.json](./140061-the-great-ghoul-duel.json) |
@@ -12298,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History Channel: Civil War - Great Battles | 70189 | [70189-the-history-channel-civil-war-great-battles.json](./70189-the-history-channel-civil-war-great-battles.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
 | The History Channel: Great Battles of Rome | 143345 | [143345-the-history-channel-great-battles-of-rome.json](./143345-the-history-channel-great-battles-of-rome.json) |
+| The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: Lost Worlds | 207011 | [207011-the-history-channel-lost-worlds.json](./207011-the-history-channel-lost-worlds.json) |
 | The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
 | The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
@@ -17853,6 +17861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
 | The Red Solstice 2: Survivors - M.E.R.C.S. | 213063 | [213063-the-red-solstice-2-survivors-m-e-r-c-s.json](./213063-the-red-solstice-2-survivors-m-e-r-c-s.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
+| The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
 | The Red Stare | 28670 | [28670-the-red-stare.json](./28670-the-red-stare.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
@@ -18546,6 +18555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret World: Ultimate Edition | 35524 | [35524-the-secret-world-ultimate-edition.json](./35524-the-secret-world-ultimate-edition.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Alamut | 73974 | [73974-the-secrets-of-alamut.json](./73974-the-secrets-of-alamut.json) |
+| The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Bharas | 356874 | [356874-the-secrets-of-bharas.json](./356874-the-secrets-of-bharas.json) |
 | The Secrets of Da Vinci | 101024 | [101024-the-secrets-of-da-vinci.json](./101024-the-secrets-of-da-vinci.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
@@ -18815,6 +18825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shogi | 222026 | [222026-the-shogi.json](./222026-the-shogi.json) |
 | The Shogun Empire | 22130 | [22130-the-shogun-empire.json](./22130-the-shogun-empire.json) |
 | The Shojing | 331892 | [331892-the-shojing.json](./331892-the-shojing.json) |
+| The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
 | The Shooter Ball | 233386 | [233386-the-shooter-ball.json](./233386-the-shooter-ball.json) |
 | The Shooting & The Helicopter | 203395 | [203395-the-shooting-and-the-helicopter.json](./203395-the-shooting-and-the-helicopter.json) |
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
@@ -26351,6 +26362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine Bronzeville | 287805 | [287805-time-machine-bronzeville.json](./287805-time-machine-bronzeville.json) |
 | Time Machine I - Secret of the Knights | 69469 | [69469-time-machine-i-secret-of-the-knights.json](./69469-time-machine-i-secret-of-the-knights.json) |
+| Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Master | 142008 | [142008-time-master.json](./142008-time-master.json) |
@@ -29396,6 +29408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Combat Zones | 146784 | [146784-top-gun-combat-zones.json](./146784-top-gun-combat-zones.json) |
 | Top Gun: Combat Zones | 9236 | [9236-top-gun-combat-zones.json](./9236-top-gun-combat-zones.json) |
 | Top Gun: Danger Zone | 73092 | [73092-top-gun-danger-zone.json](./73092-top-gun-danger-zone.json) |
+| Top Gun: Fire At Will | 20129 | [20129-top-gun-fire-at-will.json](./20129-top-gun-fire-at-will.json) |
 | Top Gun: Fire at Will! | 44990 | [44990-top-gun-fire-at-will.json](./44990-top-gun-fire-at-will.json) |
 | Top Gun: Firestorm | 66496 | [66496-top-gun-firestorm.json](./66496-top-gun-firestorm.json) |
 | Top Gun: Firestorm Advance | 49209 | [49209-top-gun-firestorm-advance.json](./49209-top-gun-firestorm-advance.json) |
@@ -35635,6 +35648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger: Extra Episode - Violet | 247262 | [247262-trinity-trigger-extra-episode-violet.json](./247262-trinity-trigger-extra-episode-violet.json) |
 | Trinity Trigger: Extra Episode - Zantis | 247261 | [247261-trinity-trigger-extra-episode-zantis.json](./247261-trinity-trigger-extra-episode-zantis.json) |
 | Trinity Trigger: Ultimate Edition | 220904 | [220904-trinity-trigger-ultimate-edition.json](./220904-trinity-trigger-ultimate-edition.json) |
+| Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
 | Trinity: Souls of Zill O'll | 7475 | [7475-trinity-souls-of-zill-oll.json](./7475-trinity-souls-of-zill-oll.json) |
@@ -38192,6 +38206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | Twister - Best Ride Simulators | 96804 | [96804-twister-best-ride-simulators.json](./96804-twister-best-ride-simulators.json) |
 | Twister Icefun | 307360 | [307360-twister-icefun.json](./307360-twister-icefun.json) |
+| Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | Twister Road | 125251 | [125251-twister-road.json](./125251-twister-road.json) |
 | Twister: Mother of Charlotte | 73188 | [73188-twister-mother-of-charlotte.json](./73188-twister-mother-of-charlotte.json) |
 | Twister: Thanksgiving Throwdown | 204667 | [204667-twister-thanksgiving-throwdown.json](./204667-twister-thanksgiving-throwdown.json) |
