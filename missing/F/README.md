@@ -14736,7 +14736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Below: Arctic Expedition | 294318 | [294318-frozen-below-arctic-expedition.json](./294318-frozen-below-arctic-expedition.json) |
 | Frozen Bubble | 61702 | [61702-frozen-bubble.json](./61702-frozen-bubble.json) |
 | Frozen City | 228826 | [228826-frozen-city.json](./228826-frozen-city.json) |
-| Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Depths | 67632 | [67632-frozen-depths.json](./67632-frozen-depths.json) |
 | Frozen dirt | 134844 | [134844-frozen-dirt.json](./134844-frozen-dirt.json) |
 | Frozen Dragon Gems | 96849 | [96849-frozen-dragon-gems.json](./96849-frozen-dragon-gems.json) |
