@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
 | Real RC Flight Simulator | 76807 | [76807-real-rc-flight-simulator.json](./76807-real-rc-flight-simulator.json) |
 | Real Riders | 250407 | [250407-real-riders.json](./250407-real-riders.json) |
+| Real Road Racer | 424961 | [424961-real-road-racer.json](./424961-real-road-racer.json) |
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robot Regiment | 59332 | [59332-real-robot-regiment.json](./59332-real-robot-regiment.json) |
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
@@ -7309,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunion | 323776 | [323776-reunion.json](./323776-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Reunion | 408589 | [408589-reunion.json](./408589-reunion.json) |
+| Reunion Fate | 424991 | [424991-reunion-fate.json](./424991-reunion-fate.json) |
 | Reunion of Angel | 271706 | [271706-reunion-of-angel.json](./271706-reunion-of-angel.json) |
 | Reunion Online | 379155 | [379155-reunion-online.json](./379155-reunion-online.json) |
 | Reunion: Autumn Leaf - Final Release | 385893 | [385893-reunion-autumn-leaf-final-release.json](./385893-reunion-autumn-leaf-final-release.json) |
