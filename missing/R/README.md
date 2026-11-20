@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealityMinds | 165651 | [165651-realityminds.json](./165651-realityminds.json) |
 | Realization | 345438 | [345438-realization.json](./345438-realization.json) |
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
+| Realize in Peace | 428553 | [428553-realize-in-peace.json](./428553-realize-in-peace.json) |
 | Realize Me | 307873 | [307873-realize-me.json](./307873-realize-me.json) |
 | Really Another True | 192858 | [192858-really-another-true.json](./192858-really-another-true.json) |
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
@@ -4873,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RedLine Racer | 39508 | [39508-redline-racer.json](./39508-redline-racer.json) |
 | Redline Racing | 263056 | [263056-redline-racing.json](./263056-redline-racing.json) |
 | Redline Racing GTS | 216058 | [216058-redline-racing-gts.json](./216058-redline-racing-gts.json) |
+| Redline Recompiled | 428563 | [428563-redline-recompiled.json](./428563-redline-recompiled.json) |
 | Redline Royale | 237633 | [237633-redline-royale.json](./237633-redline-royale.json) |
 | Redline Rumble | 388120 | [388120-redline-rumble.json](./388120-redline-rumble.json) |
 | Redline Rush | 242003 | [242003-redline-rush.json](./242003-redline-rush.json) |
