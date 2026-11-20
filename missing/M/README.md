@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Contract | 143809 | [143809-mafia-contract.json](./143809-mafia-contract.json) |
 | Mafia Contract II: The Sequel | 143810 | [143810-mafia-contract-ii-the-sequel.json](./143810-mafia-contract-ii-the-sequel.json) |
+| Mafia Deal | 424395 | [424395-mafia-deal.json](./424395-mafia-deal.json) |
 | Mafia Esper | 219970 | [219970-mafia-esper.json](./219970-mafia-esper.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
 | Mafia Gangster City | 151266 | [151266-mafia-gangster-city.json](./151266-mafia-gangster-city.json) |
@@ -3146,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malkyrs: Arenas of Eternity | 74365 | [74365-malkyrs-arenas-of-eternity.json](./74365-malkyrs-arenas-of-eternity.json) |
 | Malkyrs: Les Arènes de L'Eternité | 24514 | [24514-malkyrs-les-arenes-de-leternite.json](./24514-malkyrs-les-arenes-de-leternite.json) |
 | Mall Control | 358898 | [358898-mall-control.json](./358898-mall-control.json) |
+| Mall Corp | 424385 | [424385-mall-corp.json](./424385-mall-corp.json) |
 | Mall Craze | 129090 | [129090-mall-craze.json](./129090-mall-craze.json) |
 | Mall Empire | 29478 | [29478-mall-empire.json](./29478-mall-empire.json) |
 | Mall Girl: Dressup, Shop & Spa | 99361 | [99361-mall-girl-dressup-shop-and-spa.json](./99361-mall-girl-dressup-shop-and-spa.json) |
@@ -7022,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday Memory | 133602 | [133602-mayday-memory.json](./133602-mayday-memory.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday Squad | 14780 | [14780-mayday-squad.json](./14780-mayday-squad.json) |
+| Mayday Vacay | 424383 | [424383-mayday-vacay.json](./424383-mayday-vacay.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayday!: Emergency Landing | 248876 | [248876-mayday-emergency-landing.json](./248876-mayday-emergency-landing.json) |
@@ -17772,6 +17775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Rush | 424892 | [424892-monmusu-rush.json](./424892-monmusu-rush.json) |
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
 | Mono | 70748 | [70748-mono.json](./70748-mono.json) |
+| Mono Chameleon | 424396 | [424396-mono-chameleon.json](./424396-mono-chameleon.json) |
 | Mono Grav | 185110 | [185110-mono-grav.json](./185110-mono-grav.json) |
 | Mono Playground | 211349 | [211349-mono-playground.json](./211349-mono-playground.json) |
 | Mono Trail | 127317 | [127317-mono-trail.json](./127317-mono-trail.json) |
