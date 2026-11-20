@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garisani Detective Agency | 406571 | [406571-garisani-detective-agency.json](./406571-garisani-detective-agency.json) |
+| Garito | 423750 | [423750-garito.json](./423750-garito.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garlant: My Story | 207480 | [207480-garlant-my-story.json](./207480-garlant-my-story.json) |
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
@@ -9383,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Survival Escape | 419832 | [419832-granny-survival-escape.json](./419832-granny-survival-escape.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
 | Granny: Chapter Two | 127767 | [127767-granny-chapter-two.json](./127767-granny-chapter-two.json) |
+| Granny: Chapter Two Reworked | 423746 | [423746-granny-chapter-two-reworked.json](./423746-granny-chapter-two-reworked.json) |
 | Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
 | Granny: Recaptured | 423491 | [423491-granny-recaptured.json](./423491-granny-recaptured.json) |
 | Granny's Garden | 11848 | [11848-grannys-garden.json](./11848-grannys-garden.json) |
@@ -10769,6 +10771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Guild | 424437 | [424437-grim-guild.json](./424437-grim-guild.json) |
 | Grim Hammer | 411875 | [411875-grim-hammer.json](./411875-grim-hammer.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
+| Grim Heart: Bleak Laments | 423804 | [423804-grim-heart-bleak-laments.json](./423804-grim-heart-bleak-laments.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
 | Grim Hope | 418398 | [418398-grim-hope.json](./418398-grim-hope.json) |
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
