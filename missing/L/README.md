@@ -3088,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Song | 287339 | [287339-legend-of-song.json](./287339-legend-of-song.json) |
 | Legend of Soul Cube | 220065 | [220065-legend-of-soul-cube.json](./220065-legend-of-soul-cube.json) |
 | Legend of Spacewalker | 214033 | [214033-legend-of-spacewalker.json](./214033-legend-of-spacewalker.json) |
+| Legend of St. Stephen: St. Stephen Preaching / St. Stephen before the High Priest and Elders of the Sanhedrin | 423716 | [423716-legend-of-st-stephen-st-stephen-preaching-st-stephen-before-the-high-priest-and-elders-of-the-sanhedrin.json](./423716-legend-of-st-stephen-st-stephen-preaching-st-stephen-before-the-high-priest-and-elders-of-the-sanhedrin.json) |
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
@@ -11685,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luxworks | 211976 | [211976-luxworks.json](./211976-luxworks.json) |
 | Luyen Nguc | 255237 | [255237-luyen-nguc.json](./255237-luyen-nguc.json) |
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
+| Luz Mala | 423725 | [423725-luz-mala.json](./423725-luz-mala.json) |
 | LV-426 | 125139 | [125139-lv-426.json](./125139-lv-426.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | LVL | 106042 | [106042-lvl.json](./106042-lvl.json) |
@@ -11708,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycoris | 379603 | [379603-lycoris.json](./379603-lycoris.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
+| Lyden Lys | 423683 | [423683-lyden-lys.json](./423683-lyden-lys.json) |
 | Lydia Was Here | 385000 | [385000-lydia-was-here.json](./385000-lydia-was-here.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
