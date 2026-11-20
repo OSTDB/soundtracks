@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire | 166333 | [166333-harry-potter-and-the-goblet-of-fire.json](./166333-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 248544 | [248544-harry-potter-and-the-goblet-of-fire.json](./248544-harry-potter-and-the-goblet-of-fire.json) |
+| Harry Potter and the Goblet of Fire | 248545 | [248545-harry-potter-and-the-goblet-of-fire.json](./248545-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 3942 | [3942-harry-potter-and-the-goblet-of-fire.json](./3942-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 166354 | [166354-harry-potter-and-the-half-blood-prince.json](./166354-harry-potter-and-the-half-blood-prince.json) |
@@ -8777,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Baseball 2000 | 746 | [746-high-heat-baseball-2000.json](./746-high-heat-baseball-2000.json) |
 | High Heat Major League Baseball 2002 | 248754 | [248754-high-heat-major-league-baseball-2002.json](./248754-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
+| High Heat Major League Baseball 2003 | 248753 | [248753-high-heat-major-league-baseball-2003.json](./248753-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
 | High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
