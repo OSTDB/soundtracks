@@ -6285,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Therapy | 158868 | [158868-deep-therapy.json](./158868-deep-therapy.json) |
 | Deep Town | 98532 | [98532-deep-town.json](./98532-deep-town.json) |
 | Deep Treasure | 275080 | [275080-deep-treasure.json](./275080-deep-treasure.json) |
+| Deep Trouble | 421978 | [421978-deep-trouble.json](./421978-deep-trouble.json) |
 | Deep Trouble 2 | 73571 | [73571-deep-trouble-2.json](./73571-deep-trouble-2.json) |
 | Deep Under | 260302 | [260302-deep-under.json](./260302-deep-under.json) |
 | Deep Under the Sky | 17688 | [17688-deep-under-the-sky.json](./17688-deep-under-the-sky.json) |
@@ -11666,6 +11667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disastr_Blastr | 33839 | [33839-disastr-blastr.json](./33839-disastr-blastr.json) |
 | Disavowed | 236031 | [236031-disavowed.json](./236031-disavowed.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
+| Disbond | 421864 | [421864-disbond.json](./421864-disbond.json) |
 | Disc | 14650 | [14650-disc.json](./14650-disc.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
@@ -21289,6 +21291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Sweeper | 298922 | [298922-dungeon-sweeper.json](./298922-dungeon-sweeper.json) |
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
+| Dungeon Swipe | 421872 | [421872-dungeon-swipe.json](./421872-dungeon-swipe.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
 | Dungeon Tactics | 154148 | [154148-dungeon-tactics.json](./154148-dungeon-tactics.json) |
 | Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
