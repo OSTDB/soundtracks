@@ -21935,6 +21935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multi Theft Auto | 140059 | [140059-multi-theft-auto.json](./140059-multi-theft-auto.json) |
 | Multi Turret Academy | 267131 | [267131-multi-turret-academy.json](./267131-multi-turret-academy.json) |
+| Multi-Championship Futsal | 420886 | [420886-multi-championship-futsal.json](./420886-multi-championship-futsal.json) |
 | Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
 | Multi-Quest | 81614 | [81614-multi-quest.json](./81614-multi-quest.json) |
