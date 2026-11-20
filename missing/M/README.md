@@ -7011,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe: Interactive Stories - The Tyrant's Bodyguard | 226078 | [226078-maybe-interactive-stories-the-tyrants-bodyguard.json](./226078-maybe-interactive-stories-the-tyrants-bodyguard.json) |
 | Maybe: Interactive Stories - Triangle of Kisses | 139694 | [139694-maybe-interactive-stories-triangle-of-kisses.json](./139694-maybe-interactive-stories-triangle-of-kisses.json) |
 | Maybe: Interactive Stories - Wild Pitch | 226073 | [226073-maybe-interactive-stories-wild-pitch.json](./226073-maybe-interactive-stories-wild-pitch.json) |
+| Maybe... I'll Go to the Beach | 426205 | [426205-maybe-ill-go-to-the-beach.json](./426205-maybe-ill-go-to-the-beach.json) |
 | Maybot Run | 74124 | [74124-maybot-run.json](./74124-maybot-run.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
@@ -10040,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
 | Memoirs of Magic | 117893 | [117893-memoirs-of-magic.json](./117893-memoirs-of-magic.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
+| Memoirs of Murder: Behind the Scenes - Collector's Edition | 426177 | [426177-memoirs-of-murder-behind-the-scenes-collectors-edition.json](./426177-memoirs-of-murder-behind-the-scenes-collectors-edition.json) |
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memolith: Forsaken by Light | 399744 | [399744-memolith-forsaken-by-light.json](./399744-memolith-forsaken-by-light.json) |
@@ -12704,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
+| Microvolts: Recharged - 2025 Spring Season Starter Pack: Platinum | 426220 | [426220-microvolts-recharged-2025-spring-season-starter-pack-platinum.json](./426220-microvolts-recharged-2025-spring-season-starter-pack-platinum.json) |
 | Microvolts: Recharged - 2026 Spring Season Starter Pack: Platinum | 426616 | [426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json](./426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json) |
 | Microvolts: Recharged - Starter Pack: Silver 2 | 311401 | [311401-microvolts-recharged-starter-pack-silver-2.json](./311401-microvolts-recharged-starter-pack-silver-2.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
@@ -13832,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mination | 348419 | [348419-mination.json](./348419-mination.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
 | Minato Shokudo: Mirage of the Great Clam | 425999 | [425999-minato-shokudo-mirage-of-the-great-clam.json](./425999-minato-shokudo-mirage-of-the-great-clam.json) |
+| Minatro | 426207 | [426207-minatro.json](./426207-minatro.json) |
 | Minaurs | 103392 | [103392-minaurs.json](./103392-minaurs.json) |
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Minced | 309960 | [309960-minced.json](./309960-minced.json) |
@@ -24839,6 +24843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the House | 427182 | [427182-mysteries-of-the-house.json](./427182-mysteries-of-the-house.json) |
 | Mysteries of the Manor | 297752 | [297752-mysteries-of-the-manor.json](./297752-mysteries-of-the-manor.json) |
+| Mysteries of the Mind: Coma - Collector's Edition | 426208 | [426208-mysteries-of-the-mind-coma-collectors-edition.json](./426208-mysteries-of-the-mind-coma-collectors-edition.json) |
 | Mysteries of the Past: Shadow of the Daemon | 140196 | [140196-mysteries-of-the-past-shadow-of-the-daemon.json](./140196-mysteries-of-the-past-shadow-of-the-daemon.json) |
 | Mysteries of the Past: Shadow of the Daemon - Collector's Edition | 33581 | [33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json](./33581-mysteries-of-the-past-shadow-of-the-daemon-collectors-edition.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
@@ -24898,6 +24903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious: Dark Journey | 157976 | [157976-mysterious-dark-journey.json](./157976-mysterious-dark-journey.json) |
 | Mysterium | 26811 | [26811-mysterium.json](./26811-mysterium.json) |
 | Mysterium: Hidden Signs | 163587 | [163587-mysterium-hidden-signs.json](./163587-mysterium-hidden-signs.json) |
+| Mysterium: Lake Bliss - Collector's Edition | 426218 | [426218-mysterium-lake-bliss-collectors-edition.json](./426218-mysterium-lake-bliss-collectors-edition.json) |
 | Mysterium: Secrets & Lies | 163586 | [163586-mysterium-secrets-and-lies.json](./163586-mysterium-secrets-and-lies.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
