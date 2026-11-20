@@ -2801,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Planet | 149637 | [149637-save-the-planet.json](./149637-save-the-planet.json) |
 | Save the Planet | 153425 | [153425-save-the-planet.json](./153425-save-the-planet.json) |
 | Save The Planets: Meteor Storm | 263565 | [263565-save-the-planets-meteor-storm.json](./263565-save-the-planets-meteor-storm.json) |
+| Save The President | 420726 | [420726-save-the-president.json](./420726-save-the-president.json) |
 | Save the President: Trust Issues | 409995 | [409995-save-the-president-trust-issues.json](./409995-save-the-president-trust-issues.json) |
 | Save the Princess | 134922 | [134922-save-the-princess.json](./134922-save-the-princess.json) |
 | Save the Princess | 216927 | [216927-save-the-princess.json](./216927-save-the-princess.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
 | Scary Pranks: The Horror Creed | 196392 | [196392-scary-pranks-the-horror-creed.json](./196392-scary-pranks-the-horror-creed.json) |
 | Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
+| Scary Ring | 420725 | [420725-scary-ring.json](./420725-scary-ring.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
 | Scary School Simulator | 215261 | [215261-scary-school-simulator.json](./215261-scary-school-simulator.json) |
@@ -13946,6 +13948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skein | 74764 | [74764-skein.json](./74764-skein.json) |
 | Skel and Defense | 304319 | [304319-skel-and-defense.json](./304319-skel-and-defense.json) |
 | Skel Dungeon | 320572 | [320572-skel-dungeon.json](./320572-skel-dungeon.json) |
+| Skel the Heroes Hunter: Trap Dungeon! | 420724 | [420724-skel-the-heroes-hunter-trap-dungeon.json](./420724-skel-the-heroes-hunter-trap-dungeon.json) |
 | Skelagon | 85807 | [85807-skelagon.json](./85807-skelagon.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skeleboy | 393848 | [393848-skeleboy.json](./393848-skeleboy.json) |
@@ -17446,6 +17449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Girls 4 | 373976 | [373976-snapshot-girls-4.json](./373976-snapshot-girls-4.json) |
 | Snapshot Girls 5 | 374897 | [374897-snapshot-girls-5.json](./374897-snapshot-girls-5.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
+| Snapshot Girls Collection 6 in 1 | 420702 | [420702-snapshot-girls-collection-6-in-1.json](./420702-snapshot-girls-collection-6-in-1.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshot Spirit Live! | 357669 | [357669-snapshot-spirit-live.json](./357669-snapshot-spirit-live.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
@@ -21914,6 +21918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup Pot | 145087 | [145087-soup-pot.json](./145087-soup-pot.json) |
 | Soup Raiders | 358552 | [358552-soup-raiders.json](./358552-soup-raiders.json) |
 | Soup Tour | 425260 | [425260-soup-tour.json](./425260-soup-tour.json) |
+| Soup Weather | 420727 | [420727-soup-weather.json](./420727-soup-weather.json) |
 | Soup-of-War | 362243 | [362243-soup-of-war.json](./362243-soup-of-war.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
@@ -31828,6 +31833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Magic Escape | 36567 | [36567-strange-magic-escape.json](./36567-strange-magic-escape.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange Midnight | 164649 | [164649-strange-midnight.json](./164649-strange-midnight.json) |
+| Strange Mystery Room | 420728 | [420728-strange-mystery-room.json](./420728-strange-mystery-room.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
 | Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
@@ -35218,6 +35224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
 | Super Bedrock Brawl | 427726 | [427726-super-bedrock-brawl.json](./427726-super-bedrock-brawl.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
+| Super Beefit | 420230 | [420230-super-beefit.json](./420230-super-beefit.json) |
 | Super Benbo Quest: Turbo Deluxe | 88179 | [88179-super-benbo-quest-turbo-deluxe.json](./88179-super-benbo-quest-turbo-deluxe.json) |
 | Super Bernie World | 132574 | [132574-super-bernie-world.json](./132574-super-bernie-world.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
