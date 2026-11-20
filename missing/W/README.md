@@ -5137,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers & Wags Cleaning Co. | 325196 | [325196-whiskers-and-wags-cleaning-co.json](./325196-whiskers-and-wags-cleaning-co.json) |
 | Whiskers and Wizardry | 345084 | [345084-whiskers-and-wizardry.json](./345084-whiskers-and-wizardry.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
+| Whiskers of Yesterday | 424984 | [424984-whiskers-of-yesterday.json](./424984-whiskers-of-yesterday.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
 | Whiskers Reborn | 267348 | [267348-whiskers-reborn.json](./267348-whiskers-reborn.json) |
 | Whiskers Tale | 390371 | [390371-whiskers-tale.json](./390371-whiskers-tale.json) |
@@ -5504,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Gave Them Weapons | 418853 | [418853-who-gave-them-weapons.json](./418853-who-gave-them-weapons.json) |
 | Who Has the Biggest Brain? | 182214 | [182214-who-has-the-biggest-brain.json](./182214-who-has-the-biggest-brain.json) |
 | Who Haunts the Haunters? | 405751 | [405751-who-haunts-the-haunters.json](./405751-who-haunts-the-haunters.json) |
+| Who Heckled? | 424943 | [424943-who-heckled.json](./424943-who-heckled.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
 | Who is Abby | 270819 | [270819-who-is-abby.json](./270819-who-is-abby.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witz | 377527 | [377527-witz.json](./377527-witz.json) |
 | Wiwi's Adventures 2 | 66276 | [66276-wiwis-adventures-2.json](./66276-wiwis-adventures-2.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
+| Wixoss Multiverse | 424953 | [424953-wixoss-multiverse.json](./424953-wixoss-multiverse.json) |
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
 | Wiz | 47151 | [47151-wiz.json](./47151-wiz.json) |
