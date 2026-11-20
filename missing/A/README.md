@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
 | A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
 | A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
+| A Street Cat's Tale | 122056 | [122056-a-street-cats-tale.json](./122056-a-street-cats-tale.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Street Story | 98317 | [98317-a-street-story.json](./98317-a-street-story.json) |
 | A Stroke of Fate: Operation Bunker | 35155 | [35155-a-stroke-of-fate-operation-bunker.json](./35155-a-stroke-of-fate-operation-bunker.json) |
@@ -4906,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aerthlings | 373441 | [373441-aerthlings.json](./373441-aerthlings.json) |
 | Aeruta | 277563 | [277563-aeruta.json](./277563-aeruta.json) |
+| Aery | 121562 | [121562-aery.json](./121562-aery.json) |
 | Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
@@ -8276,6 +8278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2 Conscription | 16367 | [16367-alien-shooter-2-conscription.json](./16367-alien-shooter-2-conscription.json) |
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Shooter 2: Reloaded | 11088 | [11088-alien-shooter-2-reloaded.json](./11088-alien-shooter-2-reloaded.json) |
+| Alien Shooter 2: The Legend | 120730 | [120730-alien-shooter-2-the-legend.json](./120730-alien-shooter-2-the-legend.json) |
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
 | Alien Shooter in Space Cradle: Virtual Reality | 120576 | [120576-alien-shooter-in-space-cradle-virtual-reality.json](./120576-alien-shooter-in-space-cradle-virtual-reality.json) |
 | Alien Shooter TD | 26812 | [26812-alien-shooter-td.json](./26812-alien-shooter-td.json) |
@@ -16297,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
 | Arma 3: Art of War Charity Pack | 203431 | [203431-arma-3-art-of-war-charity-pack.json](./203431-arma-3-art-of-war-charity-pack.json) |
 | Arma 3: Art of War Charity Pack | 224348 | [224348-arma-3-art-of-war-charity-pack.json](./224348-arma-3-art-of-war-charity-pack.json) |
+| Arma 3: Contact | 121163 | [121163-arma-3-contact.json](./121163-arma-3-contact.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
@@ -16449,6 +16453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash | 34622 | [34622-armor-clash.json](./34622-armor-clash.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
+| Armor Clash 3 | 121052 | [121052-armor-clash-3.json](./121052-armor-clash-3.json) |
 | Armor Clash II | 30338 | [30338-armor-clash-ii.json](./30338-armor-clash-ii.json) |
 | Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
@@ -21293,6 +21298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
 | Axis Football 2018 | 107524 | [107524-axis-football-2018.json](./107524-axis-football-2018.json) |
+| Axis Football 2019 | 122034 | [122034-axis-football-2019.json](./122034-axis-football-2019.json) |
 | Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
