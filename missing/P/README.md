@@ -6335,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Management Simulator | 348031 | [348031-pharmacy-management-simulator.json](./348031-pharmacy-management-simulator.json) |
+| Pharmacy Owner Simulator | 423187 | [423187-pharmacy-owner-simulator.json](./423187-pharmacy-owner-simulator.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Pharmageddon | 268272 | [268272-pharmageddon.json](./268272-pharmageddon.json) |
 | Pharmakon | 43138 | [43138-pharmakon.json](./43138-pharmakon.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
 | Phone in Mouth | 128756 | [128756-phone-in-mouth.json](./128756-phone-in-mouth.json) |
 | Phone Seller Simulator | 201893 | [201893-phone-seller-simulator.json](./201893-phone-seller-simulator.json) |
+| Phone Shop Simulator | 423132 | [423132-phone-shop-simulator.json](./423132-phone-shop-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonegame | 415450 | [415450-phonegame.json](./415450-phonegame.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -11378,6 +11380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playroom Racer 3 | 104765 | [104765-playroom-racer-3.json](./104765-playroom-racer-3.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | Playrooms | 400551 | [400551-playrooms.json](./400551-playrooms.json) |
+| Playrooms | 423125 | [423125-playrooms.json](./423125-playrooms.json) |
 | Playsets | 89051 | [89051-playsets.json](./89051-playsets.json) |
 | Playshake | 92678 | [92678-playshake.json](./92678-playshake.json) |
 | Playskool Puzzles | 209361 | [209361-playskool-puzzles.json](./209361-playskool-puzzles.json) |
@@ -14024,6 +14027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyDestroyer | 291370 | [291370-polydestroyer.json](./291370-polydestroyer.json) |
 | Polydeuces | 138132 | [138132-polydeuces.json](./138132-polydeuces.json) |
 | PolyDodge | 108816 | [108816-polydodge.json](./108816-polydodge.json) |
+| PolyDogfight | 422978 | [422978-polydogfight.json](./422978-polydogfight.json) |
 | PolyDome | 32499 | [32499-polydome.json](./32499-polydome.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polydrone | 181462 | [181462-polydrone.json](./181462-polydrone.json) |
