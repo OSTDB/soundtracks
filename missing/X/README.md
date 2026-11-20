@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Girlfriend 4 | 384846 | [384846-xeno-girlfriend-4.json](./384846-xeno-girlfriend-4.json) |
 | Xeno Rangers | 360694 | [360694-xeno-rangers.json](./360694-xeno-rangers.json) |
 | Xeno Runners | 278351 | [278351-xeno-runners.json](./278351-xeno-runners.json) |
+| Xeno Series Heardle | 429150 | [429150-xeno-series-heardle.json](./429150-xeno-series-heardle.json) |
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strike | 366388 | [366388-xeno-strike.json](./366388-xeno-strike.json) |
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
