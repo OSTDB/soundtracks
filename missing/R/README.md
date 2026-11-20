@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race on Ice 2020 Pro | 237787 | [237787-race-on-ice-2020-pro.json](./237787-race-on-ice-2020-pro.json) |
 | Race on Ice 2021 Pro | 237786 | [237786-race-on-ice-2021-pro.json](./237786-race-on-ice-2021-pro.json) |
 | Race on Ice 2022 Pro | 237785 | [237785-race-on-ice-2022-pro.json](./237785-race-on-ice-2022-pro.json) |
+| Race Online | 35637 | [35637-race-online.json](./35637-race-online.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
 | Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
 | Race Pro | 7151 | [7151-race-pro.json](./7151-race-pro.json) |
@@ -7170,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Home | 115872 | [115872-return-home.json](./115872-return-home.json) |
 | Return Journey | 318340 | [318340-return-journey.json](./318340-return-journey.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
+| Return Null: Episode 1 | 35529 | [35529-return-null-episode-1.json](./35529-return-null-episode-1.json) |
 | Return Null: Episode 2 | 24726 | [24726-return-null-episode-2.json](./24726-return-null-episode-2.json) |
 | Return of Die Vie Ess | 71162 | [71162-return-of-die-vie-ess.json](./71162-return-of-die-vie-ess.json) |
 | Return of Donkey Kong | 131902 | [131902-return-of-donkey-kong.json](./131902-return-of-donkey-kong.json) |
@@ -10233,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Arena | 9015 | [9015-robot-arena.json](./9015-robot-arena.json) |
 | Robot Arena 2: Design and Destroy | 8854 | [8854-robot-arena-2-design-and-destroy.json](./8854-robot-arena-2-design-and-destroy.json) |
 | Robot Arena III | 25441 | [25441-robot-arena-iii.json](./25441-robot-arena-iii.json) |
+| Robot Arena III | 35556 | [35556-robot-arena-iii.json](./35556-robot-arena-iii.json) |
 | Robot Arena Survivors | 297836 | [297836-robot-arena-survivors.json](./297836-robot-arena-survivors.json) |
 | Robot Arena: Design & Destroy | 79323 | [79323-robot-arena-design-and-destroy.json](./79323-robot-arena-design-and-destroy.json) |
 | Robot Auto Racing Simulator | 127950 | [127950-robot-auto-racing-simulator.json](./127950-robot-auto-racing-simulator.json) |
