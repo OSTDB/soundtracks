@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Island | 302770 | [302770-impossible-island.json](./302770-impossible-island.json) |
 | Impossible Isles | 175609 | [175609-impossible-isles.json](./175609-impossible-isles.json) |
 | Impossible Jumpy Quest | 95574 | [95574-impossible-jumpy-quest.json](./95574-impossible-jumpy-quest.json) |
+| Impossible Machine | 421943 | [421943-impossible-machine.json](./421943-impossible-machine.json) |
 | Impossible Maze | 135898 | [135898-impossible-maze.json](./135898-impossible-maze.json) |
 | Impossible Mission | 148731 | [148731-impossible-mission.json](./148731-impossible-mission.json) |
 | Impossible Mission | 210090 | [210090-impossible-mission.json](./210090-impossible-mission.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inkling Cats: Beneath the dreams | 323635 | [323635-inkling-cats-beneath-the-dreams.json](./323635-inkling-cats-beneath-the-dreams.json) |
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
+| Inkly | 421920 | [421920-inkly.json](./421920-inkly.json) |
 | Inkmotes | 421990 | [421990-inkmotes.json](./421990-inkmotes.json) |
 | Inko Beasts | 334974 | [334974-inko-beasts.json](./334974-inko-beasts.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
@@ -7290,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
+| Isle Forge | 421938 | [421938-isle-forge.json](./421938-isle-forge.json) |
 | Isle Frontier | 345363 | [345363-isle-frontier.json](./345363-isle-frontier.json) |
 | Isle Goblin | 217158 | [217158-isle-goblin.json](./217158-isle-goblin.json) |
 | Isle in the Sky | 41123 | [41123-isle-in-the-sky.json](./41123-isle-in-the-sky.json) |
