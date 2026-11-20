@@ -5372,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift | 304474 | [304474-nightshift.json](./304474-nightshift.json) |
 | NightShift | 267040 | [267040-nightshift.json](./267040-nightshift.json) |
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
+| Nightshift Drift | 426468 | [426468-nightshift-drift.json](./426468-nightshift-drift.json) |
 | Nightshift Galaxy | 306761 | [306761-nightshift-galaxy.json](./306761-nightshift-galaxy.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
 | Nightshift Nightmares | 320060 | [320060-nightshift-nightmares.json](./320060-nightshift-nightmares.json) |
@@ -5633,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
 | Nine Rooms | 383192 | [383192-nine-rooms.json](./383192-nine-rooms.json) |
 | Nine Rounds Rapid | 238718 | [238718-nine-rounds-rapid.json](./238718-nine-rounds-rapid.json) |
+| Nine Silver Cards | 426676 | [426676-nine-silver-cards.json](./426676-nine-silver-cards.json) |
 | Nine Skies | 390650 | [390650-nine-skies.json](./390650-nine-skies.json) |
 | Nine Spaces | 406182 | [406182-nine-spaces.json](./406182-nine-spaces.json) |
 | Nine Tiles | 233876 | [233876-nine-tiles.json](./233876-nine-tiles.json) |
