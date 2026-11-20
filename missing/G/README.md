@@ -6045,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowing Abyss | 278766 | [278766-glowing-abyss.json](./278766-glowing-abyss.json) |
 | Glowing Cat | 112098 | [112098-glowing-cat.json](./112098-glowing-cat.json) |
+| Glowing Lamps | 425462 | [425462-glowing-lamps.json](./425462-glowing-lamps.json) |
 | Glowing Sokoban | 41949 | [41949-glowing-sokoban.json](./41949-glowing-sokoban.json) |
 | Glowing Stones: Heroes' Awakening | 371019 | [371019-glowing-stones-heroes-awakening.json](./371019-glowing-stones-heroes-awakening.json) |
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
@@ -6297,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
+| Go Fishin! | 425238 | [425238-go-fishin.json](./425238-go-fishin.json) |
 | Go Fkn Fast | 340316 | [340316-go-fkn-fast.json](./340316-go-fkn-fast.json) |
 | Go Fly a Kite | 239864 | [239864-go-fly-a-kite.json](./239864-go-fly-a-kite.json) |
 | Go for a Punch! Saki Sanobashi | 264722 | [264722-go-for-a-punch-saki-sanobashi.json](./264722-go-for-a-punch-saki-sanobashi.json) |
@@ -8241,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
 | Gooner on the Orient Express | 292450 | [292450-gooner-on-the-orient-express.json](./292450-gooner-on-the-orient-express.json) |
 | Gooning Aim Trainer | 340320 | [340320-gooning-aim-trainer.json](./340320-gooning-aim-trainer.json) |
+| Goons! | 425464 | [425464-goons.json](./425464-goons.json) |
 | Goons.io Knight Warriors | 104275 | [104275-goons-io-knight-warriors.json](./104275-goons-io-knight-warriors.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
