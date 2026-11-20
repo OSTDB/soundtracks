@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwalkers | 165392 | [165392-sandwalkers.json](./165392-sandwalkers.json) |
 | Sandwarriors | 73922 | [73922-sandwarriors.json](./73922-sandwarriors.json) |
+| Sandweh | 421950 | [421950-sandweh.json](./421950-sandweh.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich +1 | 397380 | [397380-sandwich-1.json](./397380-sandwich-1.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
@@ -4184,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
 | Scrapyard Simulator | 157544 | [157544-scrapyard-simulator.json](./157544-scrapyard-simulator.json) |
+| Scrapyard Survivors | 421934 | [421934-scrapyard-survivors.json](./421934-scrapyard-survivors.json) |
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scrat's Cheestrings Meltdown | 312956 | [312956-scrats-cheestrings-meltdown.json](./312956-scrats-cheestrings-meltdown.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream of the Viking Redux | 117251 | [117251-scream-of-the-viking-redux.json](./117251-scream-of-the-viking-redux.json) |
+| Scream Operator: Haunted House Manager | 421931 | [421931-scream-operator-haunted-house-manager.json](./421931-scream-operator-haunted-house-manager.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
 | Scream Timbernote:the game of voice controller | 232253 | [232253-scream-timbernote-the-game-of-voice-controller.json](./232253-scream-timbernote-the-game-of-voice-controller.json) |
@@ -21149,6 +21152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcerous 2: City of Cults | 421967 | [421967-sorcerous-2-city-of-cults.json](./421967-sorcerous-2-city-of-cults.json) |
 | Sorcery | 26006 | [26006-sorcery.json](./26006-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
@@ -21249,6 +21253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
 | Sort My Comics! | 422271 | [422271-sort-my-comics.json](./422271-sort-my-comics.json) |
+| Sort My Pigs | 421928 | [421928-sort-my-pigs.json](./421928-sort-my-pigs.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
