@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banished Souls | 365309 | [365309-banished-souls.json](./365309-banished-souls.json) |
 | Banished Stone | 290859 | [290859-banished-stone.json](./290859-banished-stone.json) |
 | Banisher | 346243 | [346243-banisher.json](./346243-banisher.json) |
+| Banishers: Faiths Entwined | 424309 | [424309-banishers-faiths-entwined.json](./424309-banishers-faiths-entwined.json) |
 | Banishers: Ghosts of New Eden | 228539 | [228539-banishers-ghosts-of-new-eden.json](./228539-banishers-ghosts-of-new-eden.json) |
 | Banishers: Ghosts of New Eden - Red Echoes Edition | 264481 | [264481-banishers-ghosts-of-new-eden-red-echoes-edition.json](./264481-banishers-ghosts-of-new-eden-red-echoes-edition.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
@@ -9736,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
 | Birdy Trip | 87880 | [87880-birdy-trip.json](./87880-birdy-trip.json) |
+| Birdy's Island | 424344 | [424344-birdys-island.json](./424344-birdys-island.json) |
 | Birfia | 184009 | [184009-birfia.json](./184009-birfia.json) |
 | Birger's Tale | 235608 | [235608-birgers-tale.json](./235608-birgers-tale.json) |
 | BiriBiriBeat | 227995 | [227995-biribiribeat.json](./227995-biribiribeat.json) |
@@ -12211,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockey: Block Yeah! | 123727 | [123727-blockey-block-yeah.json](./123727-blockey-block-yeah.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
+| Blockflow | 424334 | [424334-blockflow.json](./424334-blockflow.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
 | BlockForm | 84999 | [84999-blockform.json](./84999-blockform.json) |
 | BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
