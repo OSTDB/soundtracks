@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferromon Together | 226050 | [226050-ferromon-together.json](./226050-ferromon-together.json) |
 | Ferroplasma | 130265 | [130265-ferroplasma.json](./130265-ferroplasma.json) |
 | FerroSlug | 218727 | [218727-ferroslug.json](./218727-ferroslug.json) |
+| Ferrovalis | 427304 | [427304-ferrovalis.json](./427304-ferrovalis.json) |
 | Ferrule Instincts | 211952 | [211952-ferrule-instincts.json](./211952-ferrule-instincts.json) |
 | Ferrum | 406729 | [406729-ferrum.json](./406729-ferrum.json) |
 | Ferrum inc | 199571 | [199571-ferrum-inc.json](./199571-ferrum-inc.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fianna | 410425 | [410425-fianna.json](./410425-fianna.json) |
 | Fiasco Restoration and Repair | 193096 | [193096-fiasco-restoration-and-repair.json](./193096-fiasco-restoration-and-repair.json) |
 | Fibbage | 7782 | [7782-fibbage.json](./7782-fibbage.json) |
+| Fibbage 4 | 427055 | [427055-fibbage-4.json](./427055-fibbage-4.json) |
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibber Kit | 122833 | [122833-fibber-kit.json](./122833-fibber-kit.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
@@ -6503,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finesse | 250686 | [250686-finesse.json](./250686-finesse.json) |
 | Finest Fable | 379832 | [379832-finest-fable.json](./379832-finest-fable.json) |
 | Finest Hour | 40331 | [40331-finest-hour.json](./40331-finest-hour.json) |
+| Finest Hour Remastered | 427062 | [427062-finest-hour-remastered.json](./427062-finest-hour-remastered.json) |
 | Fingeance | 58408 | [58408-fingeance.json](./58408-fingeance.json) |
 | Finger Balance | 175215 | [175215-finger-balance.json](./175215-finger-balance.json) |
 | Finger Ballz | 96584 | [96584-finger-ballz.json](./96584-finger-ballz.json) |
