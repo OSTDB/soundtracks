@@ -5357,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic War Saga | 234262 | [234262-epic-war-saga.json](./234262-epic-war-saga.json) |
 | Epic War VI | 234264 | [234264-epic-war-vi.json](./234264-epic-war-vi.json) |
 | Epic Warrior: The Sword of Light | 224347 | [224347-epic-warrior-the-sword-of-light.json](./224347-epic-warrior-the-sword-of-light.json) |
+| Epic Wings 2 | 429157 | [429157-epic-wings-2.json](./429157-epic-wings-2.json) |
 | Epic Word Search Collection | 85125 | [85125-epic-word-search-collection.json](./85125-epic-word-search-collection.json) |
 | Epic Word Search Collection 2 | 85124 | [85124-epic-word-search-collection-2.json](./85124-epic-word-search-collection-2.json) |
 | Epic Word Search Holiday Special | 85123 | [85123-epic-word-search-holiday-special.json](./85123-epic-word-search-holiday-special.json) |
