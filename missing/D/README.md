@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dairoku: Agents of Sakuratani | 146180 | [146180-dairoku-agents-of-sakuratani.json](./146180-dairoku-agents-of-sakuratani.json) |
 | Dairy Dash | 90700 | [90700-dairy-dash.json](./90700-dairy-dash.json) |
 | Dairy Dave | 157316 | [157316-dairy-dave.json](./157316-dairy-dave.json) |
+| Dairy Empire | 424434 | [424434-dairy-empire.json](./424434-dairy-empire.json) |
 | Dairy of the Dead | 339362 | [339362-dairy-of-the-dead.json](./339362-dairy-of-the-dead.json) |
 | Dairy Princess | 126845 | [126845-dairy-princess.json](./126845-dairy-princess.json) |
 | Daiseiou | 64492 | [64492-daiseiou.json](./64492-daiseiou.json) |
@@ -7047,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Simulator | 391247 | [391247-delivery-simulator.json](./391247-delivery-simulator.json) |
 | Delivery Survivors | 412913 | [412913-delivery-survivors.json](./412913-delivery-survivors.json) |
 | Delivery to Graveyard Manor | 377618 | [377618-delivery-to-graveyard-manor.json](./377618-delivery-to-graveyard-manor.json) |
+| Delivery Today | 424411 | [424411-delivery-today.json](./424411-delivery-today.json) |
 | Delivery Truck Simulator 2010 | 52896 | [52896-delivery-truck-simulator-2010.json](./52896-delivery-truck-simulator-2010.json) |
 | Delivery Up | 361168 | [361168-delivery-up.json](./361168-delivery-up.json) |
 | DeliveryGuy | 177793 | [177793-deliveryguy.json](./177793-deliveryguy.json) |
@@ -21747,6 +21749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duo | 32384 | [32384-duo.json](./32384-duo.json) |
 | Duo | 327753 | [327753-duo.json](./327753-duo.json) |
 | Duō Bǎo Xiūxiān | 188524 | [188524-duo-bao-xiuxian.json](./188524-duo-bao-xiuxian.json) |
+| Duo Control | 424424 | [424424-duo-control.json](./424424-duo-control.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
 | Duo Games | 351227 | [351227-duo-games.json](./351227-duo-games.json) |
 | Duo Princess | 50334 | [50334-duo-princess.json](./50334-duo-princess.json) |
