@@ -7980,7 +7980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Endor | 320627 | [320627-depths-of-endor.json](./320627-depths-of-endor.json) |
 | Depths of Europa | 413404 | [413404-depths-of-europa.json](./413404-depths-of-europa.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
-| Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
 | Depths of Helheim | 238674 | [238674-depths-of-helheim.json](./238674-depths-of-helheim.json) |
 | Depths of Horror: Mushroom Day | 152792 | [152792-depths-of-horror-mushroom-day.json](./152792-depths-of-horror-mushroom-day.json) |
 | Depths of Insanity | 238688 | [238688-depths-of-insanity.json](./238688-depths-of-insanity.json) |
