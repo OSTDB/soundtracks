@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obby Kingdom | 372159 | [372159-obby-kingdom.json](./372159-obby-kingdom.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
 | Obby Sprunki Towers | 415721 | [415721-obby-sprunki-towers.json](./415721-obby-sprunki-towers.json) |
+| Obby Sword Master | 420701 | [420701-obby-sword-master.json](./420701-obby-sword-master.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
 | Obduracy | 316561 | [316561-obduracy.json](./316561-obduracy.json) |
@@ -3840,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
 | Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
+| OpenCE | 420708 | [420708-opence.json](./420708-opence.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenClonk | 60297 | [60297-openclonk.json](./60297-openclonk.json) |
 | OpenCMR2 | 423149 | [423149-opencmr2.json](./423149-opencmr2.json) |
@@ -6480,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | Overpowered 1: Mars Infestation | 353973 | [353973-overpowered-1-mars-infestation.json](./353973-overpowered-1-mars-infestation.json) |
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
+| Overprint | 420163 | [420163-overprint.json](./420163-overprint.json) |
 | OverQuartz | 188246 | [188246-overquartz.json](./188246-overquartz.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Overreign | 117989 | [117989-overreign.json](./117989-overreign.json) |
