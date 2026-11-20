@@ -4399,7 +4399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Legend: Echoes of Auriga | 168765 | [168765-endless-legend-echoes-of-auriga.json](./168765-endless-legend-echoes-of-auriga.json) |
 | Endless Legend: Emperor Edition | 52951 | [52951-endless-legend-emperor-edition.json](./52951-endless-legend-emperor-edition.json) |
 | Endless Legend: Forgotten Love Add-on | 168766 | [168766-endless-legend-forgotten-love-add-on.json](./168766-endless-legend-forgotten-love-add-on.json) |
-| Endless Legend: Guardians | 14603 | [14603-endless-legend-guardians.json](./14603-endless-legend-guardians.json) |
 | Endless Legend: Monstrous Tales | 166330 | [166330-endless-legend-monstrous-tales.json](./166330-endless-legend-monstrous-tales.json) |
 | Endless Legend: Shadows | 14604 | [14604-endless-legend-shadows.json](./14604-endless-legend-shadows.json) |
 | Endless Legend: Shifters | 141264 | [141264-endless-legend-shifters.json](./141264-endless-legend-shifters.json) |
@@ -5392,7 +5391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epido | 127947 | [127947-epido.json](./127947-epido.json) |
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epifrog | 128248 | [128248-epifrog.json](./128248-epifrog.json) |
-| Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
 | Epiko Regal | 318575 | [318575-epiko-regal.json](./318575-epiko-regal.json) |
 | Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
@@ -8130,7 +8128,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Stranger | 240641 | [240641-everybodys-stranger.json](./240641-everybodys-stranger.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
 | Everyday Devil | 380839 | [380839-everyday-devil.json](./380839-everyday-devil.json) |
-| Everyday Genius: SquareLogic | 16005 | [16005-everyday-genius-squarelogic.json](./16005-everyday-genius-squarelogic.json) |
 | Everyday Golf VR | 40504 | [40504-everyday-golf-vr.json](./40504-everyday-golf-vr.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
@@ -8570,7 +8567,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Holics.exe | 231590 | [231590-ex-holics-exe.json](./231590-ex-holics-exe.json) |
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
-| Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | EX Monopoly | 59334 | [59334-ex-monopoly.json](./59334-ex-monopoly.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
 | Ex Nihilo | 416747 | [416747-ex-nihilo.json](./416747-ex-nihilo.json) |
