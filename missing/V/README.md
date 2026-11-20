@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Angel | 291153 | [291153-violent-angel.json](./291153-violent-angel.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
 | Violent Fighter | 112243 | [112243-violent-fighter.json](./112243-violent-fighter.json) |
+| Violent Force | 426658 | [426658-violent-force.json](./426658-violent-force.json) |
 | Violent Horror Stories 2 | 377849 | [377849-violent-horror-stories-2.json](./377849-violent-horror-stories-2.json) |
 | Violent Horror Stories: Anthology | 312120 | [312120-violent-horror-stories-anthology.json](./312120-violent-horror-stories-anthology.json) |
 | Violent killer VR | 29317 | [29317-violent-killer-vr.json](./29317-violent-killer-vr.json) |
