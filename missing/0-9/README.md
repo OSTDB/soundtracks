@@ -1765,7 +1765,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Expensive 2 Break | 95023 | [95023-2-expensive-2-break.json](./95023-2-expensive-2-break.json) |
 | 2 Fast 2 Furious | 222122 | [222122-2-fast-2-furious.json](./222122-2-fast-2-furious.json) |
 | 2 Fast 2 Furious | 301502 | [301502-2-fast-2-furious.json](./301502-2-fast-2-furious.json) |
-| 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Fast 4 You | 25700 | [25700-2-fast-4-you.json](./25700-2-fast-4-you.json) |
 | 2 Fast Driver | 52358 | [52358-2-fast-driver.json](./52358-2-fast-driver.json) |
 | 2 Fights in 2 Tight Spaces | 405126 | [405126-2-fights-in-2-tight-spaces.json](./405126-2-fights-in-2-tight-spaces.json) |
