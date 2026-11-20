@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
 | Legacy of Medieval | 83283 | [83283-legacy-of-medieval.json](./83283-legacy-of-medieval.json) |
+| Legacy of Mind | 422586 | [422586-legacy-of-mind.json](./422586-legacy-of-mind.json) |
 | Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
 | Legacy of Pandora | 365970 | [365970-legacy-of-pandora.json](./365970-legacy-of-pandora.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
@@ -5157,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Inc. | 389727 | [389727-life-inc.json](./389727-life-inc.json) |
 | Life Inside | 335357 | [335357-life-inside.json](./335357-life-inside.json) |
 | Life is 2-D | 193380 | [193380-life-is-2-d.json](./193380-life-is-2-d.json) |
+| Life Is a Dungeon: Lean Into It. | 422588 | [422588-life-is-a-dungeon-lean-into-it.json](./422588-life-is-a-dungeon-lean-into-it.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
 | Life is a Race | 199086 | [199086-life-is-a-race.json](./199086-life-is-a-race.json) |
 | Life Is Beautiful | 299617 | [299617-life-is-beautiful.json](./299617-life-is-beautiful.json) |
@@ -10686,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Birds City | 254889 | [254889-lucky-birds-city.json](./254889-lucky-birds-city.json) |
 | Lucky Block | 414214 | [414214-lucky-block.json](./414214-lucky-block.json) |
+| Lucky Block | 422582 | [422582-lucky-block.json](./422582-lucky-block.json) |
 | Lucky Boom | 56082 | [56082-lucky-boom.json](./56082-lucky-boom.json) |
 | Lucky Boy | 193980 | [193980-lucky-boy.json](./193980-lucky-boy.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
