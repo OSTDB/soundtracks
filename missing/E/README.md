@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Economic Miracle | 361486 | [361486-economic-miracle.json](./361486-economic-miracle.json) |
 | Economic War | 202701 | [202701-economic-war.json](./202701-economic-war.json) |
 | Economica | 131218 | [131218-economica.json](./131218-economica.json) |
+| Economy Bros | 423176 | [423176-economy-bros.json](./423176-economy-bros.json) |
 | Economy Bundle | 193740 | [193740-economy-bundle.json](./193740-economy-bundle.json) |
 | Ecoplanet | 217224 | [217224-ecoplanet.json](./217224-ecoplanet.json) |
 | Ecopoiesis | 75927 | [75927-ecopoiesis.json](./75927-ecopoiesis.json) |
@@ -6402,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Sequence | 164293 | [164293-escape-sequence.json](./164293-escape-sequence.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Shadow Storm | 255272 | [255272-escape-shadow-storm.json](./255272-escape-shadow-storm.json) |
+| Escape Show | 423170 | [423170-escape-show.json](./423170-escape-show.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
 | Escape Simulator 2: Apocalypse DLC | 407417 | [407417-escape-simulator-2-apocalypse-dlc.json](./407417-escape-simulator-2-apocalypse-dlc.json) |
 | Escape Simulator VR | 253530 | [253530-escape-simulator-vr.json](./253530-escape-simulator-vr.json) |
@@ -7123,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
 | Eternal Survival | 341100 | [341100-eternal-survival.json](./341100-eternal-survival.json) |
 | Eternal Survivor | 247427 | [247427-eternal-survivor.json](./247427-eternal-survivor.json) |
+| Eternal Survivors | 423179 | [423179-eternal-survivors.json](./423179-eternal-survivors.json) |
 | Eternal Sword M | 207955 | [207955-eternal-sword-m.json](./207955-eternal-sword-m.json) |
 | Eternal Threads | 116400 | [116400-eternal-threads.json](./116400-eternal-threads.json) |
 | Eternal Tombs | 186118 | [186118-eternal-tombs.json](./186118-eternal-tombs.json) |
@@ -8827,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 4: Portal | 80951 | [80951-exit-4-portal.json](./80951-exit-4-portal.json) |
 | Exit 8 / Platform 8 | 404112 | [404112-exit-8-platform-8.json](./404112-exit-8-platform-8.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
+| Exit Denied | 423177 | [423177-exit-denied.json](./423177-exit-denied.json) |
 | Exit Doors | 240639 | [240639-exit-doors.json](./240639-exit-doors.json) |
 | Exit Dream | 371159 | [371159-exit-dream.json](./371159-exit-dream.json) |
 | Exit DS | 21471 | [21471-exit-ds.json](./21471-exit-ds.json) |
