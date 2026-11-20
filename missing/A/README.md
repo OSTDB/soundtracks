@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
+| Accursed | 420709 | [420709-accursed.json](./420709-accursed.json) |
 | Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
 | Accuser | 299678 | [299678-accuser.json](./299678-accuser.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
