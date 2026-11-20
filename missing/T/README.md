@@ -17591,6 +17591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle Trouble | 53769 | [53769-the-puzzle-trouble.json](./53769-the-puzzle-trouble.json) |
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
 | The Pyramid | 183204 | [183204-the-pyramid.json](./183204-the-pyramid.json) |
+| The Pyramid | 427361 | [427361-the-pyramid.json](./427361-the-pyramid.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Gate | 300583 | [300583-the-pyramid-gate.json](./300583-the-pyramid-gate.json) |
 | The Pyramid of Bones | 235053 | [235053-the-pyramid-of-bones.json](./235053-the-pyramid-of-bones.json) |
@@ -22274,6 +22275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thea Realm Fighters | 270273 | [270273-thea-realm-fighters.json](./270273-thea-realm-fighters.json) |
 | Thea: The Awakening | 14685 | [14685-thea-the-awakening.json](./14685-thea-the-awakening.json) |
 | Thea: The Awakening - Return of the Giants | 171334 | [171334-thea-the-awakening-return-of-the-giants.json](./171334-thea-the-awakening-return-of-the-giants.json) |
+| TheA1200 | 427417 | [427417-thea1200.json](./427417-thea1200.json) |
 | Thearchy | 158929 | [158929-thearchy.json](./158929-thearchy.json) |
 | Theater Commander: The Coming Wars | 121067 | [121067-theater-commander-the-coming-wars.json](./121067-theater-commander-the-coming-wars.json) |
 | Theater of Carnage | 157452 | [157452-theater-of-carnage.json](./157452-theater-of-carnage.json) |
@@ -35499,6 +35501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick-Track! | 94432 | [94432-trick-track.json](./94432-trick-track.json) |
 | Trick'N Snowboarder | 44923 | [44923-trickn-snowboarder.json](./44923-trickn-snowboarder.json) |
 | Trickalized | 409045 | [409045-trickalized.json](./409045-trickalized.json) |
+| Trickcal Patima | 427411 | [427411-trickcal-patima.json](./427411-trickcal-patima.json) |
 | Trickcal: Chibi Go | 172648 | [172648-trickcal-chibi-go.json](./172648-trickcal-chibi-go.json) |
 | Tricked N' Tuned: West Coast Streets | 206665 | [206665-tricked-n-tuned-west-coast-streets.json](./206665-tricked-n-tuned-west-coast-streets.json) |
 | Trickery&Strategy | 148905 | [148905-trickery-and-strategy.json](./148905-trickery-and-strategy.json) |
@@ -38089,6 +38092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Peaks: Into the Night | 261025 | [261025-twin-peaks-into-the-night.json](./261025-twin-peaks-into-the-night.json) |
+| Twin Peaks: Meanwhile | 427373 | [427373-twin-peaks-meanwhile.json](./427373-twin-peaks-meanwhile.json) |
 | Twin Puzzle: Kisekae Wanko EX | 287262 | [287262-twin-puzzle-kisekae-wanko-ex.json](./287262-twin-puzzle-kisekae-wanko-ex.json) |
 | Twin Qix | 40491 | [40491-twin-qix.json](./40491-twin-qix.json) |
 | Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
