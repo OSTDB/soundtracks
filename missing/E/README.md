@@ -7750,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvenFlo | 58111 | [58111-evenflo.json](./58111-evenflo.json) |
 | Evenicle 2 | 128796 | [128796-evenicle-2.json](./128796-evenicle-2.json) |
 | Evenicle: Next Fragment Medica | 422361 | [422361-evenicle-next-fragment-medica.json](./422361-evenicle-next-fragment-medica.json) |
+| Evenin' Shift | 421294 | [421294-evenin-shift.json](./421294-evenin-shift.json) |
 | Evening | 360501 | [360501-evening.json](./360501-evening.json) |
 | Evening Chaos | 81125 | [81125-evening-chaos.json](./81125-evening-chaos.json) |
 | EVEning Course | 417966 | [417966-evening-course.json](./417966-evening-course.json) |
