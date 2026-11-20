@@ -7601,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
+| LMA Manager 2006 | 22548 | [22548-lma-manager-2006.json](./22548-lma-manager-2006.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
 | LN of Zombies | 206434 | [206434-ln-of-zombies.json](./206434-ln-of-zombies.json) |
@@ -8765,6 +8766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
 | Lootdeck | 411986 | [411986-lootdeck.json](./411986-lootdeck.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
+| Looterkings | 22383 | [22383-looterkings.json](./22383-looterkings.json) |
 | Looters | 398049 | [398049-looters.json](./398049-looters.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
