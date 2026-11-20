@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
 | Helichoppy | 383698 | [383698-helichoppy.json](./383698-helichoppy.json) |
 | HeliCity Demolition Man | 315382 | [315382-helicity-demolition-man.json](./315382-helicity-demolition-man.json) |
+| Heliconia: Evil Prevails | 424423 | [424423-heliconia-evil-prevails.json](./424423-heliconia-evil-prevails.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicop Investigates Words and Numbers | 317766 | [317766-helicop-investigates-words-and-numbers.json](./317766-helicop-investigates-words-and-numbers.json) |
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
@@ -9312,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillthorn | 343166 | [343166-hillthorn.json](./343166-hillthorn.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Hilm | 242941 | [242941-hilm.json](./242941-hilm.json) |
+| HiLo: Higher or Lower Game | 424387 | [424387-hilo-higher-or-lower-game.json](./424387-hilo-higher-or-lower-game.json) |
 | Hilomi | 116441 | [116441-hilomi.json](./116441-hilomi.json) |
 | Hilton Ultimate Team Play | 63757 | [63757-hilton-ultimate-team-play.json](./63757-hilton-ultimate-team-play.json) |
 | Him | 171979 | [171979-him.json](./171979-him.json) |
@@ -12562,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mahjong | 177067 | [177067-hotel-mahjong.json](./177067-hotel-mahjong.json) |
 | Hotel Management Simulator | 217285 | [217285-hotel-management-simulator.json](./217285-hotel-management-simulator.json) |
 | Hotel Manager Simulator | 199498 | [199498-hotel-manager-simulator.json](./199498-hotel-manager-simulator.json) |
+| Hotel Manager Simulator | 424381 | [424381-hotel-manager-simulator.json](./424381-hotel-manager-simulator.json) |
 | Hotel Manager: Together | 407751 | [407751-hotel-manager-together.json](./407751-hotel-manager-together.json) |
 | Hotel Manibella | 249000 | [249000-hotel-manibella.json](./249000-hotel-manibella.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
