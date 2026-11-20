@@ -7187,6 +7187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Lines Jr. Green | 175455 | [175455-piczle-lines-jr-green.json](./175455-piczle-lines-jr-green.json) |
 | Piczle Lines Jr. Red | 175480 | [175480-piczle-lines-jr-red.json](./175480-piczle-lines-jr-red.json) |
 | Piczle Lines Super Puzzle Turbo Bundle | 385131 | [385131-piczle-lines-super-puzzle-turbo-bundle.json](./385131-piczle-lines-super-puzzle-turbo-bundle.json) |
+| Piczle Puzzle & Watch Collection | 154906 | [154906-piczle-puzzle-and-watch-collection.json](./154906-piczle-puzzle-and-watch-collection.json) |
 | Piczle Puzzle Adventures | 140671 | [140671-piczle-puzzle-adventures.json](./140671-piczle-puzzle-adventures.json) |
 | Piczle Puzzle Adventures + Picto Quest Puzzle Bundle | 145690 | [145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json](./145690-piczle-puzzle-adventures-picto-quest-puzzle-bundle.json) |
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
