@@ -13075,6 +13075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 11 | 318644 | [318644-franchise-hockey-manager-11.json](./318644-franchise-hockey-manager-11.json) |
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
 | Franchise Hockey Manager 13 | 422348 | [422348-franchise-hockey-manager-13.json](./422348-franchise-hockey-manager-13.json) |
+| Franchise Hockey Manager 2 | 24350 | [24350-franchise-hockey-manager-2.json](./24350-franchise-hockey-manager-2.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
