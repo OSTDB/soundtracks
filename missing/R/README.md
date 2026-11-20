@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiated Life | 247714 | [247714-radiated-life.json](./247714-radiated-life.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
+| Radiation City | 56585 | [56585-radiation-city.json](./56585-radiation-city.json) |
 | Radiation Hazard | 427843 | [427843-radiation-hazard.json](./427843-radiation-hazard.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
 | Radiation Pigeon | 120614 | [120614-radiation-pigeon.json](./120614-radiation-pigeon.json) |
@@ -10400,6 +10401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotfindskitten3d | 80039 | [80039-robotfindskitten3d.json](./80039-robotfindskitten3d.json) |
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
+| Robothorium | 55580 | [55580-robothorium.json](./55580-robothorium.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
 | Robotic Invasion 2 | 412677 | [412677-robotic-invasion-2.json](./412677-robotic-invasion-2.json) |
@@ -10558,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Track Pack: Classic Rock | 91207 | [91207-rock-band-track-pack-classic-rock.json](./91207-rock-band-track-pack-classic-rock.json) |
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
+| Rock Band: Country Track Pack | 68407 | [68407-rock-band-country-track-pack.json](./68407-rock-band-country-track-pack.json) |
 | Rock Band: Japan | 250664 | [250664-rock-band-japan.json](./250664-rock-band-japan.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Band: Track Pack - Volume 1 | 43593 | [43593-rock-band-track-pack-volume-1.json](./43593-rock-band-track-pack-volume-1.json) |
@@ -11962,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Balls | 193428 | [193428-rolling-balls.json](./193428-rolling-balls.json) |
 | Rolling Bird | 113510 | [113510-rolling-bird.json](./113510-rolling-bird.json) |
 | Rolling Bloobs | 92340 | [92340-rolling-bloobs.json](./92340-rolling-bloobs.json) |
+| Rolling Bob | 56256 | [56256-rolling-bob.json](./56256-rolling-bob.json) |
 | Rolling Car | 156215 | [156215-rolling-car.json](./156215-rolling-car.json) |
 | Rolling Car | 198069 | [198069-rolling-car.json](./198069-rolling-car.json) |
 | Rolling Car: Deluxe Edition | 204300 | [204300-rolling-car-deluxe-edition.json](./204300-rolling-car-deluxe-edition.json) |
