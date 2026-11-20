@@ -8189,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chichen Itza | 13486 | [13486-chichen-itza.json](./13486-chichen-itza.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chichens | 192102 | [192102-chichens.json](./192102-chichens.json) |
+| Chichi's Idle Bakery Tycoon | 426738 | [426738-chichis-idle-bakery-tycoon.json](./426738-chichis-idle-bakery-tycoon.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
 | Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
 | Chick Chaser | 70507 | [70507-chick-chaser.json](./70507-chick-chaser.json) |
