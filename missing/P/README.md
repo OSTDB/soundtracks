@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Cinder | 242187 | [242187-pale-cinder.json](./242187-pale-cinder.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
+| Pale Incense | 419481 | [419481-pale-incense.json](./419481-pale-incense.json) |
 | Pale Lands VR | 86636 | [86636-pale-lands-vr.json](./86636-pale-lands-vr.json) |
 | Pale Luna | 393080 | [393080-pale-luna.json](./393080-pale-luna.json) |
 | Pale Machine | 128809 | [128809-pale-machine.json](./128809-pale-machine.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of The Builder | 324034 | [324034-path-of-the-builder.json](./324034-path-of-the-builder.json) |
 | Path of the Dead | 185335 | [185335-path-of-the-dead.json](./185335-path-of-the-dead.json) |
 | Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
+| Path of the Idle Cultivator | 419489 | [419489-path-of-the-idle-cultivator.json](./419489-path-of-the-idle-cultivator.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
@@ -21391,7 +21393,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
+| Puzzles: Monkey | 419495 | [419495-puzzles-monkey.json](./419495-puzzles-monkey.json) |
+| Puzzles: Mountain | 419498 | [419498-puzzles-mountain.json](./419498-puzzles-mountain.json) |
 | Puzzles: Space Cats | 408314 | [408314-puzzles-space-cats.json](./408314-puzzles-space-cats.json) |
+| Puzzles: Water | 419496 | [419496-puzzles-water.json](./419496-puzzles-water.json) |
 | PuzzlesCave | 125091 | [125091-puzzlescave.json](./125091-puzzlescave.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
 | PuzzleSnap | 407637 | [407637-puzzlesnap.json](./407637-puzzlesnap.json) |
