@@ -2763,7 +2763,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: One World Complete | 300478 | [300478-harvest-moon-one-world-complete.json](./300478-harvest-moon-one-world-complete.json) |
 | Harvest Moon: Save the Homeland | 3382 | [3382-harvest-moon-save-the-homeland.json](./3382-harvest-moon-save-the-homeland.json) |
-| Harvest Moon: Seeds of Memories | 11188 | [11188-harvest-moon-seeds-of-memories.json](./11188-harvest-moon-seeds-of-memories.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Moon: Skytree Village | 358623 | [358623-harvest-moon-skytree-village.json](./358623-harvest-moon-skytree-village.json) |
 | Harvest Moon: The Lost Valley | 358624 | [358624-harvest-moon-the-lost-valley.json](./358624-harvest-moon-the-lost-valley.json) |
@@ -2933,7 +2932,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haters | 149263 | [149263-haters.json](./149263-haters.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
-| Hatfall | 11818 | [11818-hatfall.json](./11818-hatfall.json) |
 | Hatfields and McCoys | 209864 | [209864-hatfields-and-mccoys.json](./209864-hatfields-and-mccoys.json) |
 | HatLand | 247970 | [247970-hatland.json](./247970-hatland.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
@@ -4066,7 +4064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron III Collection | 53177 | [53177-hearts-of-iron-iii-collection.json](./53177-hearts-of-iron-iii-collection.json) |
 | Hearts of Iron III: Axis Minors Vehicle Pack | 162051 | [162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json](./162051-hearts-of-iron-iii-axis-minors-vehicle-pack.json) |
 | Hearts of Iron III: DLC Collection | 154613 | [154613-hearts-of-iron-iii-dlc-collection.json](./154613-hearts-of-iron-iii-dlc-collection.json) |
-| Hearts of Iron III: For the Motherland | 10400 | [10400-hearts-of-iron-iii-for-the-motherland.json](./10400-hearts-of-iron-iii-for-the-motherland.json) |
 | Hearts of Iron III: Italian Vehicle Pack | 162050 | [162050-hearts-of-iron-iii-italian-vehicle-pack.json](./162050-hearts-of-iron-iii-italian-vehicle-pack.json) |
 | Hearts of Iron III: Semper Fi | 10399 | [10399-hearts-of-iron-iii-semper-fi.json](./10399-hearts-of-iron-iii-semper-fi.json) |
 | Hearts of Iron III: Semper Fi - Dies Irae Götterdämmerung | 151256 | [151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json](./151256-hearts-of-iron-iii-semper-fi-dies-irae-gotterdammerung.json) |
@@ -10549,7 +10546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holt | 158596 | [158596-holt.json](./158596-holt.json) |
 | Holua's Arcades | 261680 | [261680-holuas-arcades.json](./261680-holuas-arcades.json) |
-| Holy Avatar Vs Maidens of the Dead | 10413 | [10413-holy-avatar-vs-maidens-of-the-dead.json](./10413-holy-avatar-vs-maidens-of-the-dead.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
@@ -12435,7 +12431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: Victory Lap | 412079 | [412079-hot-wheels-victory-lap.json](./412079-hot-wheels-victory-lap.json) |
-| Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
 | Hot Wife Tara: Nocturnal Desires | 368959 | [368959-hot-wife-tara-nocturnal-desires.json](./368959-hot-wife-tara-nocturnal-desires.json) |
 | Hot Wired | 73660 | [73660-hot-wired.json](./73660-hot-wired.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
@@ -13677,7 +13672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul | 124463 | [124463-hundred-soul.json](./124463-hundred-soul.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
-| Hundred Swords | 12435 | [12435-hundred-swords.json](./12435-hundred-swords.json) |
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
 | Hundreds & Thousands | 269450 | [269450-hundreds-and-thousands.json](./269450-hundreds-and-thousands.json) |
 | Hundreds of Mysteries: Season1 | 174066 | [174066-hundreds-of-mysteries-season1.json](./174066-hundreds-of-mysteries-season1.json) |
@@ -14098,7 +14092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huntsman | 337368 | [337368-huntsman.json](./337368-huntsman.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
 | Huntsman: Protect & Serve | 422115 | [422115-huntsman-protect-and-serve.json](./422115-huntsman-protect-and-serve.json) |
-| Huntsman: The Orphanage | 10422 | [10422-huntsman-the-orphanage.json](./10422-huntsman-the-orphanage.json) |
 | Huntsman: The Orphanage - Halloween Edition | 30246 | [30246-huntsman-the-orphanage-halloween-edition.json](./30246-huntsman-the-orphanage-halloween-edition.json) |
 | Huntsmen | 286317 | [286317-huntsmen.json](./286317-huntsmen.json) |
 | Hunyadi Strategy | 197200 | [197200-hunyadi-strategy.json](./197200-hunyadi-strategy.json) |
