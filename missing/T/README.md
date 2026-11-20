@@ -17839,6 +17839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The Red Village | 201652 | [201652-the-red-village.json](./201652-the-red-village.json) |
 | The Red Weight | 402406 | [402406-the-red-weight.json](./402406-the-red-weight.json) |
+| The Red Window | 423167 | [423167-the-red-window.json](./423167-the-red-window.json) |
 | The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
 | The Red Zone: Zombie Factory | 359656 | [359656-the-red-zone-zombie-factory.json](./359656-the-red-zone-zombie-factory.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
@@ -28654,6 +28655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom's Adventure | 245600 | [245600-toms-adventure.json](./245600-toms-adventure.json) |
 | Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
 | Tom's Cruise | 28348 | [28348-toms-cruise.json](./28348-toms-cruise.json) |
+| Tom's Last Adventure | 423139 | [423139-toms-last-adventure.json](./423139-toms-last-adventure.json) |
 | Tom's Mansion | 76322 | [76322-toms-mansion.json](./76322-toms-mansion.json) |
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
@@ -31414,6 +31416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | Towny Bar | 325516 | [325516-towny-bar.json](./325516-towny-bar.json) |
 | TowOrbs | 413726 | [413726-toworbs.json](./413726-toworbs.json) |
+| Tox-17 | 423169 | [423169-tox-17.json](./423169-tox-17.json) |
 | Toxa | 169822 | [169822-toxa.json](./169822-toxa.json) |
 | Toxastra | 132699 | [132699-toxastra.json](./132699-toxastra.json) |
 | Toxic | 90946 | [90946-toxic.json](./90946-toxic.json) |
@@ -31643,6 +31646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
 | Toziuha Night: Dracula's Revenge | 192635 | [192635-toziuha-night-draculas-revenge.json](./192635-toziuha-night-draculas-revenge.json) |
+| Toziuha Night: Nosferatu's Curse | 423183 | [423183-toziuha-night-nosferatus-curse.json](./423183-toziuha-night-nosferatus-curse.json) |
 | Toziuha Night: Order of the Alchemists | 177207 | [177207-toziuha-night-order-of-the-alchemists.json](./177207-toziuha-night-order-of-the-alchemists.json) |
 | Tozzle - Toddler's favorite puzzle | 88034 | [88034-tozzle-toddlers-favorite-puzzle.json](./88034-tozzle-toddlers-favorite-puzzle.json) |
 | TP Bullet | 289930 | [289930-tp-bullet.json](./289930-tp-bullet.json) |
@@ -35821,6 +35825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Quiz: All about everything! | 106156 | [106156-trivia-quiz-all-about-everything.json](./106156-trivia-quiz-all-about-everything.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Star Quiz | 216060 | [216060-trivia-star-quiz.json](./216060-trivia-star-quiz.json) |
+| Trivia Tavern | 423154 | [423154-trivia-tavern.json](./423154-trivia-tavern.json) |
 | Trivia Throwdown | 119992 | [119992-trivia-throwdown.json](./119992-trivia-throwdown.json) |
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
 | Trivia Trek | 412414 | [412414-trivia-trek.json](./412414-trivia-trek.json) |
