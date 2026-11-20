@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King | 202472 | [202472-king.json](./202472-king.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King & Balloon | 21689 | [21689-king-and-balloon.json](./21689-king-and-balloon.json) |
+| King 4 a Day | 427309 | [427309-king-4-a-day.json](./427309-king-4-a-day.json) |
 | King and Assassins | 175230 | [175230-king-and-assassins.json](./175230-king-and-assassins.json) |
 | King and Assassins: The Board Game | 106907 | [106907-king-and-assassins-the-board-game.json](./106907-king-and-assassins-the-board-game.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
