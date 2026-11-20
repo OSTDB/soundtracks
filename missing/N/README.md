@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narcissus | 60355 | [60355-narcissus.json](./60355-narcissus.json) |
 | Narco Check | 389518 | [389518-narco-check.json](./389518-narco-check.json) |
+| Narco Empire | 424401 | [424401-narco-empire.json](./424401-narco-empire.json) |
 | Narco Express | 353399 | [353399-narco-express.json](./353399-narco-express.json) |
 | Narco Police | 12694 | [12694-narco-police.json](./12694-narco-police.json) |
 | Narco Strike | 115387 | [115387-narco-strike.json](./115387-narco-strike.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroverse: Undying Shadows | 391262 | [391262-necroverse-undying-shadows.json](./391262-necroverse-undying-shadows.json) |
 | NecroVisioN | 10591 | [10591-necrovision.json](./10591-necrovision.json) |
 | NecroVisioN: Lost Company | 16146 | [16146-necrovision-lost-company.json](./16146-necrovision-lost-company.json) |
+| Necrovoid | 424430 | [424430-necrovoid.json](./424430-necrovoid.json) |
 | Necrow Co. | 187735 | [187735-necrow-co.json](./187735-necrow-co.json) |
 | Necrowarp | 129691 | [129691-necrowarp.json](./129691-necrowarp.json) |
 | Necrowarp | 426430 | [426430-necrowarp.json](./426430-necrowarp.json) |
@@ -7937,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not in Heaven | 125580 | [125580-not-in-heaven.json](./125580-not-in-heaven.json) |
 | Not In My Cave | 248225 | [248225-not-in-my-cave.json](./248225-not-in-my-cave.json) |
 | Not In My Crapper | 165376 | [165376-not-in-my-crapper.json](./165376-not-in-my-crapper.json) |
+| Not in My House | 424391 | [424391-not-in-my-house.json](./424391-not-in-my-house.json) |
 | Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
 | Not Involved | 229782 | [229782-not-involved.json](./229782-not-involved.json) |
 | Not Involved: Vermillion | 236320 | [236320-not-involved-vermillion.json](./236320-not-involved-vermillion.json) |
