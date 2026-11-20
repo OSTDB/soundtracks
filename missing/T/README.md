@@ -12594,6 +12594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted | 344261 | [344261-the-hunted.json](./344261-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
+| The Hunter | 428518 | [428518-the-hunter.json](./428518-the-hunter.json) |
 | The Hunter 2012 | 50281 | [50281-the-hunter-2012.json](./50281-the-hunter-2012.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunter Files: Case One | 398048 | [398048-the-hunter-files-case-one.json](./398048-the-hunter-files-case-one.json) |
@@ -20059,6 +20060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Synergist | 195339 | [195339-the-synergist.json](./195339-the-synergist.json) |
 | The System: Opposing Facility | 273240 | [273240-the-system-opposing-facility.json](./273240-the-system-opposing-facility.json) |
 | The Szechuan Sword: A PostModern Strategy Game | 380949 | [380949-the-szechuan-sword-a-postmodern-strategy-game.json](./380949-the-szechuan-sword-a-postmodern-strategy-game.json) |
+| The Szyk | 428558 | [428558-the-szyk.json](./428558-the-szyk.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The table at war VR | 30544 | [30544-the-table-at-war-vr.json](./30544-the-table-at-war-vr.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
