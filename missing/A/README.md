@@ -12580,6 +12580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anoma | 399681 | [399681-anoma.json](./399681-anoma.json) |
+| Anomagram | 425723 | [425723-anomagram.json](./425723-anomagram.json) |
 | Anomalarity: A Distributive Allegory | 324180 | [324180-anomalarity-a-distributive-allegory.json](./324180-anomalarity-a-distributive-allegory.json) |
 | Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
 | Anomalia O Despertar | 320027 | [320027-anomalia-o-despertar.json](./320027-anomalia-o-despertar.json) |
@@ -13600,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Apex Rush | 277785 | [277785-apex-rush.json](./277785-apex-rush.json) |
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
+| Apex Swoop: Card Game | 426128 | [426128-apex-swoop-card-game.json](./426128-apex-swoop-card-game.json) |
 | Apex Tournament | 76385 | [76385-apex-tournament.json](./76385-apex-tournament.json) |
 | Apexaris Tower | 313558 | [313558-apexaris-tower.json](./313558-apexaris-tower.json) |
 | Apez | 74150 | [74150-apez.json](./74150-apez.json) |
