@@ -4196,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whac-a-Mole | 421420 | [421420-whac-a-mole.json](./421420-whac-a-mole.json) |
 | Whac-A-Mole | 413717 | [413717-whac-a-mole.json](./413717-whac-a-mole.json) |
 | Whac-A-Mole | 49347 | [49347-whac-a-mole.json](./49347-whac-a-mole.json) |
+| Whac-A-Morphic | 427970 | [427970-whac-a-morphic.json](./427970-whac-a-morphic.json) |
 | Whack 'em All! | 91750 | [91750-whack-em-all.json](./91750-whack-em-all.json) |
 | Whack 'Em Smack 'Em Byrons | 306459 | [306459-whack-em-smack-em-byrons.json](./306459-whack-em-smack-em-byrons.json) |
 | Whack A Bubble | 45900 | [45900-whack-a-bubble.json](./45900-whack-a-bubble.json) |
@@ -8510,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woods: David's Story | 171715 | [171715-woods-davids-story.json](./171715-woods-davids-story.json) |
 | Woodsalt | 138889 | [138889-woodsalt.json](./138889-woodsalt.json) |
+| WoodsFolk | 427965 | [427965-woodsfolk.json](./427965-woodsfolk.json) |
 | Woodshire Foragers | 427686 | [427686-woodshire-foragers.json](./427686-woodshire-foragers.json) |
 | Woodside | 271893 | [271893-woodside.json](./271893-woodside.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
