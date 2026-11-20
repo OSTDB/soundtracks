@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fencer F | 9893 | [9893-fairy-fencer-f.json](./9893-fairy-fencer-f.json) |
 | Fairy Fencer F: Additional Fairy Pack | 227072 | [227072-fairy-fencer-f-additional-fairy-pack.json](./227072-fairy-fencer-f-additional-fairy-pack.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
+| Fairy Fencer F: Advent Dark Force - Veteran Fencer Armor Set | 430593 | [430593-fairy-fencer-f-advent-dark-force-veteran-fencer-armor-set.json](./430593-fairy-fencer-f-advent-dark-force-veteran-fencer-armor-set.json) |
 | Fairy Fencer F: Advent Dark Force DLC Bundle | 227385 | [227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json](./227385-fairy-fencer-f-advent-dark-force-dlc-bundle.json) |
 | Fairy Fencer F: Refrain Chord - Day One Edition | 233272 | [233272-fairy-fencer-f-refrain-chord-day-one-edition.json](./233272-fairy-fencer-f-refrain-chord-day-one-edition.json) |
 | Fairy Fencer F: Refrain Chord - Digital Deluxe Edition | 220420 | [220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json](./220420-fairy-fencer-f-refrain-chord-digital-deluxe-edition.json) |
@@ -4585,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Frontier | 116692 | [116692-feral-frontier.json](./116692-feral-frontier.json) |
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
+| Feral Road | 430712 | [430712-feral-road.json](./430712-feral-road.json) |
 | Feral Sense | 336978 | [336978-feral-sense.json](./336978-feral-sense.json) |
 | Feralbound Online | 295827 | [295827-feralbound-online.json](./295827-feralbound-online.json) |
 | FeralHeart | 166478 | [166478-feralheart.json](./166478-feralheart.json) |
@@ -11111,6 +11113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forced Showdown | 14578 | [14578-forced-showdown.json](./14578-forced-showdown.json) |
 | Forced Showdown: Deluxe Content | 51810 | [51810-forced-showdown-deluxe-content.json](./51810-forced-showdown-deluxe-content.json) |
 | Forced Showdown: Drone Invasion | 51809 | [51809-forced-showdown-drone-invasion.json](./51809-forced-showdown-drone-invasion.json) |
+| Forced Showdown: Supreme Skin Pack | 430575 | [430575-forced-showdown-supreme-skin-pack.json](./430575-forced-showdown-supreme-skin-pack.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
 | Forceline | 63579 | [63579-forceline.json](./63579-forceline.json) |
 | Forces of Ether | 312137 | [312137-forces-of-ether.json](./312137-forces-of-ether.json) |
