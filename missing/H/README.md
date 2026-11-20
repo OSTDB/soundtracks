@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacker life simulator | 205750 | [205750-hacker-life-simulator.json](./205750-hacker-life-simulator.json) |
 | Hacker Man | 204004 | [204004-hacker-man.json](./204004-hacker-man.json) |
 | Hacker Online RPG | 87439 | [87439-hacker-online-rpg.json](./87439-hacker-online-rpg.json) |
+| Hacker or Dev Tycoon? | 426194 | [426194-hacker-or-dev-tycoon.json](./426194-hacker-or-dev-tycoon.json) |
 | Hacker Series | 31115 | [31115-hacker-series.json](./31115-hacker-series.json) |
 | Hacker Simulator | 178337 | [178337-hacker-simulator.json](./178337-hacker-simulator.json) |
 | Hacker the Beginning | 234585 | [234585-hacker-the-beginning.json](./234585-hacker-the-beginning.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haneru no Tobira Wii: Kirigirisu | 266282 | [266282-haneru-no-tobira-wii-kirigirisu.json](./266282-haneru-no-tobira-wii-kirigirisu.json) |
 | Hanerutchi | 229961 | [229961-hanerutchi.json](./229961-hanerutchi.json) |
 | Hanerutchi 2 | 229962 | [229962-hanerutchi-2.json](./229962-hanerutchi-2.json) |
+| Hang Down | 426211 | [426211-hang-down.json](./426211-hang-down.json) |
 | Hang Glider Simulator | 321506 | [321506-hang-glider-simulator.json](./321506-hang-glider-simulator.json) |
 | Hang Gliding: VR Experience | 243220 | [243220-hang-gliding-vr-experience.json](./243220-hang-gliding-vr-experience.json) |
 | Hang in! Monkey Bars Robot | 150181 | [150181-hang-in-monkey-bars-robot.json](./150181-hang-in-monkey-bars-robot.json) |
