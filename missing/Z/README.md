@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiack | 40000 | [40000-zodiack.json](./40000-zodiack.json) |
+| Zodiacra | 426184 | [426184-zodiacra.json](./426184-zodiacra.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
 | Zodiarc Ring | 331146 | [331146-zodiarc-ring.json](./331146-zodiarc-ring.json) |
