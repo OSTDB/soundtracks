@@ -6023,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
 | Glow | 369253 | [369253-glow.json](./369253-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
+| Glow and Panic | 427956 | [427956-glow-and-panic.json](./427956-glow-and-panic.json) |
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
@@ -7823,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golf+ | 186012 | [186012-golf.json](./186012-golf.json) |
 | Golf+: Pinehurst No. 2 | 426603 | [426603-golf-pinehurst-no-2.json](./426603-golf-pinehurst-no-2.json) |
+| Golf+: Torrey Pines North Course | 427955 | [427955-golf-torrey-pines-north-course.json](./427955-golf-torrey-pines-north-course.json) |
 | Golf98 | 123885 | [123885-golf98.json](./123885-golf98.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
 | Golfamania | 45673 | [45673-golfamania.json](./45673-golfamania.json) |
