@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap the Planet | 95520 | [95520-tap-the-planet.json](./95520-tap-the-planet.json) |
 | Tap the Road | 259684 | [259684-tap-the-road.json](./259684-tap-the-road.json) |
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
+| Tap Tile! | 426735 | [426735-tap-tile.json](./426735-tap-tile.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap Titans 2 | 57168 | [57168-tap-titans-2.json](./57168-tap-titans-2.json) |
 | Tap To 1000 | 359573 | [359573-tap-to-1000.json](./359573-tap-to-1000.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
 | The Assembly | 20787 | [20787-the-assembly.json](./20787-the-assembly.json) |
 | The Assembly / Perfect Double Pack | 145256 | [145256-the-assembly-perfect-double-pack.json](./145256-the-assembly-perfect-double-pack.json) |
+| The Assessment | 426795 | [426795-the-assessment.json](./426795-the-assessment.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
 | The Asteroid Belt's Trial | 107744 | [107744-the-asteroid-belts-trial.json](./107744-the-asteroid-belts-trial.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
@@ -28474,6 +28476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tolem | 409506 | [409506-tolem.json](./409506-tolem.json) |
 | Toleo | 239825 | [239825-toleo.json](./239825-toleo.json) |
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
+| Toll Idle | 426782 | [426782-toll-idle.json](./426782-toll-idle.json) |
 | Toll: The Ferryman's Ledger | 415566 | [415566-toll-the-ferrymans-ledger.json](./415566-toll-the-ferrymans-ledger.json) |
 | Tollan Survivors | 345205 | [345205-tollan-survivors.json](./345205-tollan-survivors.json) |
 | Tollan Worlds | 252805 | [252805-tollan-worlds.json](./252805-tollan-worlds.json) |
@@ -35434,6 +35437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
 | Tribes & Monsters | 270510 | [270510-tribes-and-monsters.json](./270510-tribes-and-monsters.json) |
+| Tribes & Thrones | 426779 | [426779-tribes-and-thrones.json](./426779-tribes-and-thrones.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes 3: Rivals | 278321 | [278321-tribes-3-rivals.json](./278321-tribes-3-rivals.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
@@ -36006,6 +36010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial PurTwitch | 396241 | [396241-trivial-purtwitch.json](./396241-trivial-purtwitch.json) |
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | TriviaQuest: Mythic Conquest | 282270 | [282270-triviaquest-mythic-conquest.json](./282270-triviaquest-mythic-conquest.json) |
+| Triviatro | 426725 | [426725-triviatro.json](./426725-triviatro.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | Trivox | 427195 | [427195-trivox.json](./427195-trivox.json) |
 | TriwarM Global | 411257 | [411257-triwarm-global.json](./411257-triwarm-global.json) |
@@ -38193,6 +38198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
 | Twins of the Sun | 369477 | [369477-twins-of-the-sun.json](./369477-twins-of-the-sun.json) |
 | Twins of the Sun: Arena of Heroes | 383094 | [383094-twins-of-the-sun-arena-of-heroes.json](./383094-twins-of-the-sun-arena-of-heroes.json) |
+| Twins of the Sun: Legacy Edition | 426769 | [426769-twins-of-the-sun-legacy-edition.json](./426769-twins-of-the-sun-legacy-edition.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twins Story: Kimi ni Tsutaetakute... | 138988 | [138988-twins-story-kimi-ni-tsutaetakute.json](./138988-twins-story-kimi-ni-tsutaetakute.json) |
 | Twinsanity: Omicron | 177374 | [177374-twinsanity-omicron.json](./177374-twinsanity-omicron.json) |
