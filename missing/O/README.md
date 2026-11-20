@@ -5816,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Epidemic | 119532 | [119532-outbreak-epidemic.json](./119532-outbreak-epidemic.json) |
 | Outbreak: Epidemic - Definitive Edition | 164845 | [164845-outbreak-epidemic-definitive-edition.json](./164845-outbreak-epidemic-definitive-edition.json) |
 | Outbreak: Epidemic Viral Terror | 261361 | [261361-outbreak-epidemic-viral-terror.json](./261361-outbreak-epidemic-viral-terror.json) |
+| Outbreak: Fight to Survive | 424944 | [424944-outbreak-fight-to-survive.json](./424944-outbreak-fight-to-survive.json) |
 | Outbreak: Genesis Collection | 331430 | [331430-outbreak-genesis-collection.json](./331430-outbreak-genesis-collection.json) |
 | Outbreak: Gold Collection | 196290 | [196290-outbreak-gold-collection.json](./196290-outbreak-gold-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
@@ -6376,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
 | Overexplode | 364806 | [364806-overexplode.json](./364806-overexplode.json) |
+| Overexposed | 424983 | [424983-overexposed.json](./424983-overexposed.json) |
 | Overexposure | 184773 | [184773-overexposure.json](./184773-overexposure.json) |
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
 | OverField | 306810 | [306810-overfield.json](./306810-overfield.json) |
