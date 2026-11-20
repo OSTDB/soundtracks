@@ -16180,6 +16180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Breach | 309813 | [309813-containment-breach.json](./309813-containment-breach.json) |
 | Containment Corp, Inc. | 324591 | [324591-containment-corp-inc.json](./324591-containment-corp-inc.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
+| Containment Initiative | 31348 | [31348-containment-initiative.json](./31348-containment-initiative.json) |
 | Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Search | 303173 | [303173-containment-search.json](./303173-containment-search.json) |
@@ -17090,6 +17091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
 | Corona Blossom | 26998 | [26998-corona-blossom.json](./26998-corona-blossom.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
+| Corona Blossom Vol.2 The Truth from Beyond | 31199 | [31199-corona-blossom-vol-2-the-truth-from-beyond.json](./31199-corona-blossom-vol-2-the-truth-from-beyond.json) |
 | Corona Blossom Vol.3 Journey to the Stars | 30334 | [30334-corona-blossom-vol-3-journey-to-the-stars.json](./30334-corona-blossom-vol-3-journey-to-the-stars.json) |
 | Corona Borealis | 113186 | [113186-corona-borealis.json](./113186-corona-borealis.json) |
 | Corona Cannon | 103914 | [103914-corona-cannon.json](./103914-corona-cannon.json) |
@@ -19802,6 +19804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creed Arena | 52324 | [52324-creed-arena.json](./52324-creed-arena.json) |
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creed: Rise to Glory - Championship Edition | 239419 | [239419-creed-rise-to-glory-championship-edition.json](./239419-creed-rise-to-glory-championship-edition.json) |
+| Creekside Creep Invasion | 30671 | [30671-creekside-creep-invasion.json](./30671-creekside-creep-invasion.json) |
 | Creep | 116571 | [116571-creep.json](./116571-creep.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Clash | 360229 | [360229-creep-clash.json](./360229-creep-clash.json) |
@@ -19938,6 +19941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crewin: The Wrath Of Athys | 173953 | [173953-crewin-the-wrath-of-athys.json](./173953-crewin-the-wrath-of-athys.json) |
 | Crewmate Rush Space Escape Runner | 414539 | [414539-crewmate-rush-space-escape-runner.json](./414539-crewmate-rush-space-escape-runner.json) |
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
+| Crewsaders | 30962 | [30962-crewsaders.json](./30962-crewsaders.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | CRI Gokan Pack | 299824 | [299824-cri-gokan-pack.json](./299824-cri-gokan-pack.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
@@ -20974,6 +20978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown & Cauldron | 184921 | [184921-crown-and-cauldron.json](./184921-crown-and-cauldron.json) |
 | Crown & Coin: The Hundred Years | 427736 | [427736-crown-and-coin-the-hundred-years.json](./427736-crown-and-coin-the-hundred-years.json) |
 | Crown and Adventure | 309573 | [309573-crown-and-adventure.json](./309573-crown-and-adventure.json) |
+| Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
 | Crown Clash | 376370 | [376370-crown-clash.json](./376370-crown-clash.json) |
