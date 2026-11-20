@@ -7129,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Ablaze | 211118 | [211118-maze-ablaze.json](./211118-maze-ablaze.json) |
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
+| Maze AI | 421902 | [421902-maze-ai.json](./421902-maze-ai.json) |
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
 | Maze and Fairy tale | 291302 | [291302-maze-and-fairy-tale.json](./291302-maze-and-fairy-tale.json) |
 | Maze Art: Black | 190857 | [190857-maze-art-black.json](./190857-maze-art-black.json) |
@@ -13714,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo and Kate | 90920 | [90920-milo-and-kate.json](./90920-milo-and-kate.json) |
 | Milo and the Cake of Happiness | 386200 | [386200-milo-and-the-cake-of-happiness.json](./386200-milo-and-the-cake-of-happiness.json) |
 | Milo and the Christmas Gift | 281092 | [281092-milo-and-the-christmas-gift.json](./281092-milo-and-the-christmas-gift.json) |
+| Milo Gets Silly When He Is In Love! | 421905 | [421905-milo-gets-silly-when-he-is-in-love.json](./421905-milo-gets-silly-when-he-is-in-love.json) |
 | Milo no Senki 3 | 239696 | [239696-milo-no-senki-3.json](./239696-milo-no-senki-3.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
