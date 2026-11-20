@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales from the Under-Realm: Hazel | 149401 | [149401-tales-from-the-under-realm-hazel.json](./149401-tales-from-the-under-realm-hazel.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
+| Tales From the Void | 24538 | [24538-tales-from-the-void.json](./24538-tales-from-the-void.json) |
 | Tales From the Wasteland | 188301 | [188301-tales-from-the-wasteland.json](./188301-tales-from-the-wasteland.json) |
 | Tales from the Watchtower: The Conjurer | 418553 | [418553-tales-from-the-watchtower-the-conjurer.json](./418553-tales-from-the-watchtower-the-conjurer.json) |
 | Tales From Toppletown | 180453 | [180453-tales-from-toppletown.json](./180453-tales-from-toppletown.json) |
@@ -12572,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
+| The Hunt for Red Panda | 24523 | [24523-the-hunt-for-red-panda.json](./24523-the-hunt-for-red-panda.json) |
 | The Hunt for Teddy - A Storyshape Adventure | 114622 | [114622-the-hunt-for-teddy-a-storyshape-adventure.json](./114622-the-hunt-for-teddy-a-storyshape-adventure.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Gay Planet | 352150 | [352150-the-hunt-for-the-gay-planet.json](./352150-the-hunt-for-the-gay-planet.json) |
@@ -12792,6 +12794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
 | The Incredible Adventures of Van Helsing: Thaumaturge | 14690 | [14690-the-incredible-adventures-of-van-helsing-thaumaturge.json](./14690-the-incredible-adventures-of-van-helsing-thaumaturge.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
+| The Incredible Baron | 24530 | [24530-the-incredible-baron.json](./24530-the-incredible-baron.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
 | The Incredible Crash Dummies | 2160 | [2160-the-incredible-crash-dummies.json](./2160-the-incredible-crash-dummies.json) |
@@ -24024,10 +24027,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick Tack Puppet | 206441 | [206441-tick-tack-puppet.json](./206441-tick-tack-puppet.json) |
 | Tick Tick Pass | 55627 | [55627-tick-tick-pass.json](./55627-tick-tick-pass.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Tick Tock Isle | 24527 | [24527-tick-tock-isle.json](./24527-tick-tock-isle.json) |
 | Tick Tock: A Tale for Two | 86295 | [86295-tick-tock-a-tale-for-two.json](./86295-tick-tock-a-tale-for-two.json) |
 | Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
+| Tick's Tales | 24529 | [24529-ticks-tales.json](./24529-ticks-tales.json) |
 | Tickdown | 237114 | [237114-tickdown.json](./237114-tickdown.json) |
 | Ticker | 338965 | [338965-ticker.json](./338965-ticker.json) |
 | Ticker Tape | 275401 | [275401-ticker-tape.json](./275401-ticker-tape.json) |
@@ -29533,6 +29538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topac Battle | 296262 | [296262-topac-battle.json](./296262-topac-battle.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
+| Topatoi: Pillar of the Skies | 24344 | [24344-topatoi-pillar-of-the-skies.json](./24344-topatoi-pillar-of-the-skies.json) |
 | Topatoi: Spinning Through the Worlds | 52981 | [52981-topatoi-spinning-through-the-worlds.json](./52981-topatoi-spinning-through-the-worlds.json) |
 | Topdeck Automat | 392686 | [392686-topdeck-automat.json](./392686-topdeck-automat.json) |
 | Topdown Showdown | 51600 | [51600-topdown-showdown.json](./51600-topdown-showdown.json) |
