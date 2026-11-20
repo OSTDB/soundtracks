@@ -4163,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathcliff: Fun with Spelling | 325097 | [325097-heathcliff-fun-with-spelling.json](./325097-heathcliff-fun-with-spelling.json) |
 | Heathcliff: Spot On | 84526 | [84526-heathcliff-spot-on.json](./84526-heathcliff-spot-on.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
+| Heathen - The sons of the law | 104848 | [104848-heathen-the-sons-of-the-law.json](./104848-heathen-the-sons-of-the-law.json) |
 | Heathen Engineering's Terran | 33909 | [33909-heathen-engineerings-terran.json](./33909-heathen-engineerings-terran.json) |
 | Heathen's Forge | 176658 | [176658-heathens-forge.json](./176658-heathens-forge.json) |
 | Heather The Smither | 297961 | [297961-heather-the-smither.json](./297961-heather-the-smither.json) |
@@ -7573,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexamoon Guardians | 166350 | [166350-hexamoon-guardians.json](./166350-hexamoon-guardians.json) |
 | Hexanaut.io | 261027 | [261027-hexanaut-io.json](./261027-hexanaut-io.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
+| Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
 | HexaPlunge | 68806 | [68806-hexaplunge.json](./68806-hexaplunge.json) |
 | HexaPlunge 2 | 68808 | [68808-hexaplunge-2.json](./68808-hexaplunge-2.json) |
 | Hexapoda | 244427 | [244427-hexapoda.json](./244427-hexapoda.json) |
@@ -14733,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Colonization | 176616 | [176616-hyperspace-colonization.json](./176616-hyperspace-colonization.json) |
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Delivery Boy! | 69016 | [69016-hyperspace-delivery-boy.json](./69016-hyperspace-delivery-boy.json) |
+| Hyperspace Delivery Service | 103780 | [103780-hyperspace-delivery-service.json](./103780-hyperspace-delivery-service.json) |
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
