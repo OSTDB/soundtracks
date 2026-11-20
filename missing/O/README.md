@@ -4427,7 +4427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
 | Orbo's Exodus | 314907 | [314907-orbos-exodus.json](./314907-orbos-exodus.json) |
 | Orbo's Odyssey | 260493 | [260493-orbos-odyssey.json](./260493-orbos-odyssey.json) |
-| Orborun | 10643 | [10643-orborun.json](./10643-orborun.json) |
 | Orbos | 90123 | [90123-orbos.json](./90123-orbos.json) |
 | Orbosis Gloriosis | 406238 | [406238-orbosis-gloriosis.json](./406238-orbosis-gloriosis.json) |
 | Orbox C | 30786 | [30786-orbox-c.json](./30786-orbox-c.json) |
@@ -4867,7 +4866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orpega | 57250 | [57250-orpega.json](./57250-orpega.json) |
 | Orph: The Lost Boy | 173328 | [173328-orph-the-lost-boy.json](./173328-orph-the-lost-boy.json) |
-| Orphan | 11580 | [11580-orphan.json](./11580-orphan.json) |
 | Orphan Age | 103133 | [103133-orphan-age.json](./103133-orphan-age.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
@@ -5103,7 +5101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostranauts | 115299 | [115299-ostranauts.json](./115299-ostranauts.json) |
 | Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
-| Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
 | Ostrich Run | 319426 | [319426-ostrich-run.json](./319426-ostrich-run.json) |
 | Ostrich Runner | 25490 | [25490-ostrich-runner.json](./25490-ostrich-runner.json) |
 | Ostriv | 24512 | [24512-ostriv.json](./24512-ostriv.json) |
