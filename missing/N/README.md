@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ninja Council 4 | 21122 | [21122-naruto-shippuden-ninja-council-4.json](./21122-naruto-shippuden-ninja-council-4.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ninja Destiny 3 | 47824 | [47824-naruto-shippuden-ninja-destiny-3.json](./47824-naruto-shippuden-ninja-destiny-3.json) |
+| Naruto Shippuden: Shinobi Rumble | 24287 | [24287-naruto-shippuden-shinobi-rumble.json](./24287-naruto-shippuden-shinobi-rumble.json) |
 | Naruto Shippuden: Ultimate Ninja 4 | 19623 | [19623-naruto-shippuden-ultimate-ninja-4.json](./19623-naruto-shippuden-ultimate-ninja-4.json) |
 | Naruto Shippuden: Ultimate Ninja 5 | 25112 | [25112-naruto-shippuden-ultimate-ninja-5.json](./25112-naruto-shippuden-ultimate-ninja-5.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K Playgrounds 2 | 96487 | [96487-nba-2k-playgrounds-2.json](./96487-nba-2k-playgrounds-2.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K10 | 5054 | [5054-nba-2k10.json](./5054-nba-2k10.json) |
+| NBA 2K10: Draft Combine | 24321 | [24321-nba-2k10-draft-combine.json](./24321-nba-2k10-draft-combine.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
 | NBA 2K12 | 256894 | [256894-nba-2k12.json](./256894-nba-2k12.json) |
 | NBA 2K12 | 256895 | [256895-nba-2k12.json](./256895-nba-2k12.json) |
