@@ -5255,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Wolf 2014 | 87444 | [87444-life-of-wolf-2014.json](./87444-life-of-wolf-2014.json) |
 | Life on a Pizza | 164880 | [164880-life-on-a-pizza.json](./164880-life-on-a-pizza.json) |
 | Life on Earth: Reimagined | 277552 | [277552-life-on-earth-reimagined.json](./277552-life-on-earth-reimagined.json) |
+| Life on Mars Remake | 55443 | [55443-life-on-mars-remake.json](./55443-life-on-mars-remake.json) |
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on Neptune | 415556 | [415556-life-on-neptune.json](./415556-life-on-neptune.json) |
