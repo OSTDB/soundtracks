@@ -6519,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Panda Donuts | 214334 | [214334-escape-the-panda-donuts.json](./214334-escape-the-panda-donuts.json) |
 | Escape the Past | 32463 | [32463-escape-the-past.json](./32463-escape-the-past.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
+| Escape the Playground | 421881 | [421881-escape-the-playground.json](./421881-escape-the-playground.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
 | Escape the Reef | 315249 | [315249-escape-the-reef.json](./315249-escape-the-reef.json) |
