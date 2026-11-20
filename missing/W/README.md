@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Did I Park? | 420286 | [420286-where-did-i-park.json](./420286-where-did-i-park.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Did the Humans Go? | 233333 | [233333-where-did-the-humans-go.json](./233333-where-did-the-humans-go.json) |
+| Where Did the Moon Go? | 427031 | [427031-where-did-the-moon-go.json](./427031-where-did-the-moon-go.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Does Art Go When It Dies? | 285289 | [285289-where-does-art-go-when-it-dies.json](./285289-where-does-art-go-when-it-dies.json) |
 | Where Dolls Hang | 403847 | [403847-where-dolls-hang.json](./403847-where-dolls-hang.json) |
