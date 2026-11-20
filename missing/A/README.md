@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Better Mouse Trap | 71170 | [71170-a-better-mouse-trap.json](./71170-a-better-mouse-trap.json) |
 | A Better Schlo Dating Simulation | 298788 | [298788-a-better-schlo-dating-simulation.json](./298788-a-better-schlo-dating-simulation.json) |
 | A Better Tomorrow | 309269 | [309269-a-better-tomorrow.json](./309269-a-better-tomorrow.json) |
+| A Better Tomorrow | 423760 | [423760-a-better-tomorrow.json](./423760-a-better-tomorrow.json) |
 | A Better World | 325726 | [325726-a-better-world.json](./325726-a-better-world.json) |
 | A Better World | 345591 | [345591-a-better-world.json](./345591-a-better-world.json) |
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alkirian: The Wind Stone | 315184 | [315184-alkirian-the-wind-stone.json](./315184-alkirian-the-wind-stone.json) |
 | Alkurai | 223323 | [223323-alkurai.json](./223323-alkurai.json) |
 | All @ Once | 201651 | [201651-all-once.json](./201651-all-once.json) |
+| All 4 Naught | 423773 | [423773-all-4-naught.json](./423773-all-4-naught.json) |
 | All 9 Lives | 408271 | [408271-all-9-lives.json](./408271-all-9-lives.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
 | All Aboard! The Twilight Train | 347434 | [347434-all-aboard-the-twilight-train.json](./347434-all-aboard-the-twilight-train.json) |
@@ -8840,6 +8842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Things Devours | 60107 | [60107-all-things-devours.json](./60107-all-things-devours.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All Things It Devours | 429142 | [429142-all-things-it-devours.json](./429142-all-things-it-devours.json) |
+| All Those Dungeons in Alva's Head | 423747 | [423747-all-those-dungeons-in-alvas-head.json](./423747-all-those-dungeons-in-alvas-head.json) |
 | All to Get Her | 176529 | [176529-all-to-get-her.json](./176529-all-to-get-her.json) |
 | All to Race | 192705 | [192705-all-to-race.json](./192705-all-to-race.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
@@ -14526,6 +14529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Tatakae! Big Fighter | 403300 | [403300-arcade-archives-2-tatakae-big-fighter.json](./403300-arcade-archives-2-tatakae-big-fighter.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
+| Arcade Archives 2: Thundercade | 423761 | [423761-arcade-archives-2-thundercade.json](./423761-arcade-archives-2-thundercade.json) |
 | Arcade Archives 2: Tokyo Wars | 377001 | [377001-arcade-archives-2-tokyo-wars.json](./377001-arcade-archives-2-tokyo-wars.json) |
 | Arcade Archives 2: Top Speed | 389061 | [389061-arcade-archives-2-top-speed.json](./389061-arcade-archives-2-top-speed.json) |
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
@@ -16277,6 +16281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights: Endfield - Update 1.3: Sketches of Lost Heirlooms | 404499 | [404499-arknights-endfield-update-1-3-sketches-of-lost-heirlooms.json](./404499-arknights-endfield-update-1-3-sketches-of-lost-heirlooms.json) |
 | Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
+| Arknights: Endfield - Update 1.6: Sanctuary of Ink | 423775 | [423775-arknights-endfield-update-1-6-sanctuary-of-ink.json](./423775-arknights-endfield-update-1-6-sanctuary-of-ink.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
 | Arko | 143972 | [143972-arko.json](./143972-arko.json) |
 | Arkona | 398632 | [398632-arkona.json](./398632-arkona.json) |
