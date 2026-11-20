@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Stress King: Idle Defense | 389938 | [389938-zero-stress-king-idle-defense.json](./389938-zero-stress-king-idle-defense.json) |
 | Zero Sum | 406149 | [406149-zero-sum.json](./406149-zero-sum.json) |
 | Zero Sum Future | 107751 | [107751-zero-sum-future.json](./107751-zero-sum-future.json) |
+| Zero Survivors: The Hero Must Die | 423679 | [423679-zero-survivors-the-hero-must-die.json](./423679-zero-survivors-the-hero-must-die.json) |
 | Zero Target | 272797 | [272797-zero-target.json](./272797-zero-target.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
 | Zero Tenshi: Blue Sun | 364399 | [364399-zero-tenshi-blue-sun.json](./364399-zero-tenshi-blue-sun.json) |
