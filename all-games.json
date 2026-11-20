@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T10:45:56.717Z",
-  "total_soundtracks": 3871,
+  "generated_at": "2026-11-20T10:55:56.119Z",
+  "total_soundtracks": 3872,
   "games": [
     {
       "igdb_id": 292844,
@@ -10565,6 +10565,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-typhoon-of-chugoku-from-denshattack-single/1877169859?uo=4",
           "album_link_url": "https://album.link/i/1877169859"
+        }
+      ]
+    },
+    {
+      "igdb_id": 10182,
+      "game_name": "Depths of Fear: Knossos",
+      "game_url": "https://ostdb.net/games/depths-of-fear-knossos",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735ba16272ea339df9c873d494",
+      "albums": [
+        {
+          "album_name": "DEPTHS of FEAR :: KNOSSOS (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6jxOlWhPpwm8Qr2kCw4Gel",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
