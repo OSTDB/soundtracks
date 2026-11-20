@@ -13770,6 +13770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision | 331107 | [331107-collision.json](./331107-collision.json) |
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collision Course | 69626 | [69626-collision-course.json](./69626-collision-course.json) |
+| Collision Effect | 427406 | [427406-collision-effect.json](./427406-collision-effect.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
 | Collision Paradise | 259905 | [259905-collision-paradise.json](./259905-collision-paradise.json) |
 | Collision System Test | 369007 | [369007-collision-system-test.json](./369007-collision-system-test.json) |
@@ -17815,6 +17816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotrio | 90725 | [90725-cotrio.json](./90725-cotrio.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
+| CottageCore | 427365 | [427365-cottagecore.json](./427365-cottagecore.json) |
 | CottageVille | 244527 | [244527-cottageville.json](./244527-cottageville.json) |
 | Cotton 100% | 182015 | [182015-cotton-100.json](./182015-cotton-100.json) |
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
@@ -19908,6 +19910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crelo Kingdom | 52818 | [52818-crelo-kingdom.json](./52818-crelo-kingdom.json) |
 | Creme de la Creme | 126884 | [126884-creme-de-la-creme.json](./126884-creme-de-la-creme.json) |
 | Creme de la Creme: A Silver Spoon | 238923 | [238923-creme-de-la-creme-a-silver-spoon.json](./238923-creme-de-la-creme-a-silver-spoon.json) |
+| Creobel | 427366 | [427366-creobel.json](./427366-creobel.json) |
 | Creovia | 404626 | [404626-creovia.json](./404626-creovia.json) |
 | Crepe Master! | 394504 | [394504-crepe-master.json](./394504-crepe-master.json) |
 | Crepitations | 275210 | [275210-crepitations.json](./275210-crepitations.json) |
