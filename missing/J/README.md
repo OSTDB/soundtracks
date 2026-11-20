@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Good: Tea and Scones | 273805 | [273805-jolly-good-tea-and-scones.json](./273805-jolly-good-tea-and-scones.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
 | Jolly Join | 58754 | [58754-jolly-join.json](./58754-jolly-join.json) |
+| Jolly Junction: Risky Rebellion | 427968 | [427968-jolly-junction-risky-rebellion.json](./427968-jolly-junction-risky-rebellion.json) |
 | Jolly Junkyard | 257145 | [257145-jolly-junkyard.json](./257145-jolly-junkyard.json) |
 | Jolly Land Adventure | 347388 | [347388-jolly-land-adventure.json](./347388-jolly-land-adventure.json) |
 | Jolly Laughter | 191563 | [191563-jolly-laughter.json](./191563-jolly-laughter.json) |
