@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b273276f7b364e77dab67e9e6054" width="60" /> | [OTTTD](https://ostdb.net/games/otttd) | **Otttd (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5oHChE1RFk5kX38REsERp8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27316adaadc43430086f3ef2192" width="60" /> | [OTXO](https://ostdb.net/games/otxo) | **OTXO Original Soundtrack** · [Spotify](https://open.spotify.com/album/5P96YJVQOBB7oh4N2s64jW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ef446e7721421fedb338e7ef" width="60" /> | [Oaken](https://ostdb.net/games/oaken) | **Oaken (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2bc98MGeRnLYPH8dQb0h1W) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/dd/bc/21/ddbc21df-296d-f950-2240-a699ad113c95/859718116158_cover.jpg/1000x1000bb.jpg" width="60" /> | [Obduction](https://ostdb.net/games/obduction) | **Obduction (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/obduction-original-soundtrack/1148568097?uo=4) · [Album](https://album.link/i/1148568097) |
