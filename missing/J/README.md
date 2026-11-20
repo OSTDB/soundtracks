@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Shot | 285657 | [285657-jelly-shot.json](./285657-jelly-shot.json) |
 | Jelly slice! | 200864 | [200864-jelly-slice.json](./200864-jelly-slice.json) |
 | Jelly Solitaire | 89790 | [89790-jelly-solitaire.json](./89790-jelly-solitaire.json) |
+| Jelly Sprint | 420164 | [420164-jelly-sprint.json](./420164-jelly-sprint.json) |
 | Jelly Tots | 28270 | [28270-jelly-tots.json](./28270-jelly-tots.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
