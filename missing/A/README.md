@@ -6123,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
 | AI Game Master | 334434 | [334434-ai-game-master.json](./334434-ai-game-master.json) |
+| AI Games | 419494 | [419494-ai-games.json](./419494-ai-games.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
@@ -12985,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antaria Online | 55438 | [55438-antaria-online.json](./55438-antaria-online.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
 | AntarticaRoyale | 255284 | [255284-antarticaroyale.json](./255284-antarticaroyale.json) |
+| Antartida | 419523 | [419523-antartida.json](./419523-antartida.json) |
 | Antbassador | 247162 | [247162-antbassador.json](./247162-antbassador.json) |
 | Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
 | Antbot | 106213 | [106213-antbot.json](./106213-antbot.json) |
@@ -18476,6 +18478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astervoid 2000 | 33948 | [33948-astervoid-2000.json](./33948-astervoid-2000.json) |
 | Asterz | 343141 | [343141-asterz.json](./343141-asterz.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
+| Asther | 419527 | [419527-asther.json](./419527-asther.json) |
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
