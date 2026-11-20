@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
 | Indiepocalypse #77 | 412930 | [412930-indiepocalypse-77.json](./412930-indiepocalypse-77.json) |
 | Indiepocalypse #8 | 176539 | [176539-indiepocalypse-8.json](./176539-indiepocalypse-8.json) |
+| Indiepocalypse #80 | 417636 | [417636-indiepocalypse-80.json](./417636-indiepocalypse-80.json) |
 | Indiepocalypse #81 | 423637 | [423637-indiepocalypse-81.json](./423637-indiepocalypse-81.json) |
 | Indies' Lies | 153219 | [153219-indies-lies.json](./153219-indies-lies.json) |
 | Indies' Lies 2: Fire Seed | 292942 | [292942-indies-lies-2-fire-seed.json](./292942-indies-lies-2-fire-seed.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inn Trouble | 336298 | [336298-inn-trouble.json](./336298-inn-trouble.json) |
 | Inn: the Countryside | 106460 | [106460-inn-the-countryside.json](./106460-inn-the-countryside.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
+| Innards | 417665 | [417665-innards.json](./417665-innards.json) |
 | Innawoods | 227126 | [227126-innawoods.json](./227126-innawoods.json) |
 | Innbc Starfighter | 397394 | [397394-innbc-starfighter.json](./397394-innbc-starfighter.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
