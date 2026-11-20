@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie the Caregiver: Episode 2 - Preschool | 206838 | [206838-carrie-the-caregiver-episode-2-preschool.json](./206838-carrie-the-caregiver-episode-2-preschool.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
+| Carried Away: Winter Sports | 84049 | [84049-carried-away-winter-sports.json](./84049-carried-away-winter-sports.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
 | Carrier | 6720 | [6720-carrier.json](./6720-carrier.json) |
 | Carrier | 71183 | [71183-carrier.json](./71183-carrier.json) |
@@ -7207,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie: The Legend | 172022 | [172022-charlie-the-legend.json](./172022-charlie-the-legend.json) |
 | Charlie's Adventure | 30487 | [30487-charlies-adventure.json](./30487-charlies-adventure.json) |
 | Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
+| Charlie's Angels | 84336 | [84336-charlies-angels.json](./84336-charlies-angels.json) |
 | Charlie's Angels: Angel X | 206920 | [206920-charlies-angels-angel-x.json](./206920-charlies-angels-angel-x.json) |
 | Charlie's Conscious | 110638 | [110638-charlies-conscious.json](./110638-charlies-conscious.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
@@ -13327,6 +13329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogmount | 341638 | [341638-cogmount.json](./341638-cogmount.json) |
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognition: An Erica Reed Thriller | 8426 | [8426-cognition-an-erica-reed-thriller.json](./8426-cognition-an-erica-reed-thriller.json) |
+| Cognition: An Erica Reed Thriller - Episode 1: The Hangman | 84191 | [84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json](./84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json) |
 | Cognition: Game of the Year Edition | 51700 | [51700-cognition-game-of-the-year-edition.json](./51700-cognition-game-of-the-year-edition.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognitive Reconquista | 418408 | [418408-cognitive-reconquista.json](./418408-cognitive-reconquista.json) |
@@ -13863,6 +13866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Bomb! | 274954 | [274954-color-bomb.json](./274954-color-bomb.json) |
+| Color Bombs | 85040 | [85040-color-bombs.json](./85040-color-bombs.json) |
 | Color Book: Cute Pixel Art | 99326 | [99326-color-book-cute-pixel-art.json](./99326-color-book-cute-pixel-art.json) |
 | Color Bound | 181663 | [181663-color-bound.json](./181663-color-bound.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
@@ -14073,6 +14077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Wheel | 178726 | [178726-color-wheel.json](./178726-color-wheel.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
+| Color Zen Kids | 85048 | [85048-color-zen-kids.json](./85048-color-zen-kids.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
 | Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
 | Color-A-Cube: Ancient Rome Pack #1 | 371288 | [371288-color-a-cube-ancient-rome-pack-1.json](./371288-color-a-cube-ancient-rome-pack-1.json) |
@@ -15618,6 +15623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confuzion | 13511 | [13511-confuzion.json](./13511-confuzion.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Conga Master Go! | 148265 | [148265-conga-master-go.json](./148265-conga-master-go.json) |
+| Conga Master Party! | 85050 | [85050-conga-master-party.json](./85050-conga-master-party.json) |
 | Congee | 139276 | [139276-congee.json](./139276-congee.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion 384 | 273727 | [273727-congestion-384.json](./273727-congestion-384.json) |
@@ -19301,6 +19307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Coin | 252946 | [252946-crazy-coin.json](./252946-crazy-coin.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
+| Crazy Construction | 85052 | [85052-crazy-construction.json](./85052-crazy-construction.json) |
 | Crazy Cook | 204989 | [204989-crazy-cook.json](./204989-crazy-cook.json) |
 | Crazy Cooking | 52319 | [52319-crazy-cooking.json](./52319-crazy-cooking.json) |
 | Crazy Cooking Star Chef | 105699 | [105699-crazy-cooking-star-chef.json](./105699-crazy-cooking-star-chef.json) |
