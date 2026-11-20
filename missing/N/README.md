@@ -3405,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutron Base: The Arrival | 272133 | [272133-neutron-base-the-arrival.json](./272133-neutron-base-the-arrival.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
 | Neutron Zapper | 94630 | [94630-neutron-zapper.json](./94630-neutron-zapper.json) |
+| Neutrophils Rush | 423774 | [423774-neutrophils-rush.json](./423774-neutrophils-rush.json) |
 | Neuville | 423674 | [423674-neuville.json](./423674-neuville.json) |
 | Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
 | Nev vs. Bouncer Boy | 240152 | [240152-nev-vs-bouncer-boy.json](./240152-nev-vs-bouncer-boy.json) |
