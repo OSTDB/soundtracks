@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
 | Kanzen Hanzai Mystery | 251622 | [251622-kanzen-hanzai-mystery.json](./251622-kanzen-hanzai-mystery.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
+| Kao Challengers | 22564 | [22564-kao-challengers.json](./22564-kao-challengers.json) |
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 36745 | [36745-kao-the-kangaroo.json](./36745-kao-the-kangaroo.json) |
