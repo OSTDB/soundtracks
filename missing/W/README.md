@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Angels Meet | 135114 | [135114-where-angels-meet.json](./135114-where-angels-meet.json) |
 | Where are Leo and Mia? Pirate Island | 420655 | [420655-where-are-leo-and-mia-pirate-island.json](./420655-where-are-leo-and-mia-pirate-island.json) |
+| Where Are My Cats? | 421900 | [421900-where-are-my-cats.json](./421900-where-are-my-cats.json) |
 | Where Are My Cats? | 82196 | [82196-where-are-my-cats.json](./82196-where-are-my-cats.json) |
 | Where Are My Friends? | 72517 | [72517-where-are-my-friends.json](./72517-where-are-my-friends.json) |
 | Where are My Mittens | 195005 | [195005-where-are-my-mittens.json](./195005-where-are-my-mittens.json) |
