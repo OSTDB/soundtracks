@@ -5548,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fill the Void | 419326 | [419326-fill-the-void.json](./419326-fill-the-void.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
+| Fill-a-Pix: Phil's Epic Adventure | 84693 | [84693-fill-a-pix-phils-epic-adventure.json](./84693-fill-a-pix-phils-epic-adventure.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | Filled to the Limit | 266113 | [266113-filled-to-the-limit.json](./266113-filled-to-the-limit.json) |
 | Filler | 261210 | [261210-filler.json](./261210-filler.json) |
@@ -13326,6 +13327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
+| Frederic 2: Evil Strikes Back | 85154 | [85154-frederic-2-evil-strikes-back.json](./85154-frederic-2-evil-strikes-back.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
 | Free Agency | 128116 | [128116-free-agency.json](./128116-free-agency.json) |
