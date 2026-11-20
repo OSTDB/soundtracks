@@ -3798,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire Earth: The Art of Conquest | 1609 | [1609-empire-earth-the-art-of-conquest.json](./1609-empire-earth-the-art-of-conquest.json) |
+| Empire Eleven 2026 | 428524 | [428524-empire-eleven-2026.json](./428524-empire-eleven-2026.json) |
 | Empire FactionWar | 290512 | [290512-empire-factionwar.json](./290512-empire-factionwar.json) |
 | Empire Game | 346841 | [346841-empire-game.json](./346841-empire-game.json) |
 | Empire Game: Pixel Hero | 364053 | [364053-empire-game-pixel-hero.json](./364053-empire-game-pixel-hero.json) |
