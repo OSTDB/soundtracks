@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving Punyville | 157032 | [157032-saving-punyville.json](./157032-saving-punyville.json) |
 | Saving Sheep | 202445 | [202445-saving-sheep.json](./202445-saving-sheep.json) |
 | Saving Simon | 115162 | [115162-saving-simon.json](./115162-saving-simon.json) |
+| Saving Songburg | 425329 | [425329-saving-songburg.json](./425329-saving-songburg.json) |
 | Saving Sparksville | 338146 | [338146-saving-sparksville.json](./338146-saving-sparksville.json) |
 | Saving Stages | 132595 | [132595-saving-stages.json](./132595-saving-stages.json) |
 | Saving Sunrise | 190844 | [190844-saving-sunrise.json](./190844-saving-sunrise.json) |
@@ -4248,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
 | Screen Bridge | 88152 | [88152-screen-bridge.json](./88152-screen-bridge.json) |
 | Screen Cat | 328023 | [328023-screen-cat.json](./328023-screen-cat.json) |
+| Screen Cross | 425232 | [425232-screen-cross.json](./425232-screen-cross.json) |
 | Screen King | 259181 | [259181-screen-king.json](./259181-screen-king.json) |
 | Screen Stocks | 416925 | [416925-screen-stocks.json](./416925-screen-stocks.json) |
 | Screen TRPG | 371119 | [371119-screen-trpg.json](./371119-screen-trpg.json) |
@@ -8774,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark's Song | 283105 | [283105-sharks-song.json](./283105-sharks-song.json) |
 | Shark's Treasures Adventure | 339901 | [339901-sharks-treasures-adventure.json](./339901-sharks-treasures-adventure.json) |
 | Sharkarama | 402446 | [402446-sharkarama.json](./402446-sharkarama.json) |
+| SharkAttack | 425248 | [425248-sharkattack.json](./425248-sharkattack.json) |
 | Sharkbaked | 379009 | [379009-sharkbaked.json](./379009-sharkbaked.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharkey's 3D Pool | 11873 | [11873-sharkeys-3d-pool.json](./11873-sharkeys-3d-pool.json) |
@@ -8968,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
 | She Hates Unicorns | 189979 | [189979-she-hates-unicorns.json](./189979-she-hates-unicorns.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
+| She Hunts | 425240 | [425240-she-hunts.json](./425240-she-hunts.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
 | She is mad: Pay your demon | 201522 | [201522-she-is-mad-pay-your-demon.json](./201522-she-is-mad-pay-your-demon.json) |
 | She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
@@ -12454,6 +12458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Thread: Episode Three | 370727 | [370727-silver-thread-episode-three.json](./370727-silver-thread-episode-three.json) |
 | Silver Trigger 64 | 184693 | [184693-silver-trigger-64.json](./184693-silver-trigger-64.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
+| Silver Valley Screams | 425459 | [425459-silver-valley-screams.json](./425459-silver-valley-screams.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
 | Silver Whistle | 161499 | [161499-silver-whistle.json](./161499-silver-whistle.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
@@ -21881,6 +21886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soup Boy Goes to the Soup Convention | 320712 | [320712-soup-boy-goes-to-the-soup-convention.json](./320712-soup-boy-goes-to-the-soup-convention.json) |
 | Soup Pot | 145087 | [145087-soup-pot.json](./145087-soup-pot.json) |
 | Soup Raiders | 358552 | [358552-soup-raiders.json](./358552-soup-raiders.json) |
+| Soup Tour | 425260 | [425260-soup-tour.json](./425260-soup-tour.json) |
 | Soup-of-War | 362243 | [362243-soup-of-war.json](./362243-soup-of-war.json) |
 | Soup: The Game | 58899 | [58899-soup-the-game.json](./58899-soup-the-game.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
@@ -34794,6 +34800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunland Town | 274899 | [274899-sunland-town.json](./274899-sunland-town.json) |
 | Sunless City | 124459 | [124459-sunless-city.json](./124459-sunless-city.json) |
 | Sunless Empire | 383603 | [383603-sunless-empire.json](./383603-sunless-empire.json) |
+| Sunless Horizon 1.5 | 425457 | [425457-sunless-horizon-1-5.json](./425457-sunless-horizon-1-5.json) |
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Sea: Zubmariner Edition | 218845 | [218845-sunless-sea-zubmariner-edition.json](./218845-sunless-sea-zubmariner-edition.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
