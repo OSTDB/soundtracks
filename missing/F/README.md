@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Weiss | 62205 | [62205-fall-weiss.json](./62205-fall-weiss.json) |
 | Fall With Friends | 393217 | [393217-fall-with-friends.json](./393217-fall-with-friends.json) |
 | Fall Words | 296350 | [296350-fall-words.json](./296350-fall-words.json) |
+| Fall, Fall, Fall for you | 418839 | [418839-fall-fall-fall-for-you.json](./418839-fall-fall-fall-for-you.json) |
 | Fall... in Love | 105228 | [105228-fall-in-love.json](./105228-fall-in-love.json) |
 | Fallacy of Dawn | 57613 | [57613-fallacy-of-dawn.json](./57613-fallacy-of-dawn.json) |
 | Fallacy Quiz | 291432 | [291432-fallacy-quiz.json](./291432-fallacy-quiz.json) |
@@ -2389,6 +2390,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Online: Remake | 274777 | [274777-fantasy-online-remake.json](./274777-fantasy-online-remake.json) |
+| Fantasy Pieces: Chapter I | 418808 | [418808-fantasy-pieces-chapter-i.json](./418808-fantasy-pieces-chapter-i.json) |
+| Fantasy Pieces: Chapter II | 418809 | [418809-fantasy-pieces-chapter-ii.json](./418809-fantasy-pieces-chapter-ii.json) |
+| Fantasy Pieces: Chapter III | 418810 | [418810-fantasy-pieces-chapter-iii.json](./418810-fantasy-pieces-chapter-iii.json) |
 | Fantasy Pinball | 230713 | [230713-fantasy-pinball.json](./230713-fantasy-pinball.json) |
 | Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
 | Fantasy Princess - Girls Makeup & Dress Up Games | 87491 | [87491-fantasy-princess-girls-makeup-and-dress-up-games.json](./87491-fantasy-princess-girls-makeup-and-dress-up-games.json) |
@@ -3747,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Extra CCC | 12504 | [12504-fate-extra-ccc.json](./12504-fate-extra-ccc.json) |
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
+| Fate/Extra Record: Animate Limited Set | 418824 | [418824-fate-extra-record-animate-limited-set.json](./418824-fate-extra-record-animate-limited-set.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
 | Fate/Extra: Limited Edition | 42715 | [42715-fate-extra-limited-edition.json](./42715-fate-extra-limited-edition.json) |
 | Fate/Grand Order | 24493 | [24493-fate-grand-order.json](./24493-fate-grand-order.json) |
@@ -3771,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
 | Fate/Grand Order: Great Void Sea Battle, Imaginary Scramble | 417630 | [417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json](./417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json) |
 | Fate/Grand Order: Lostbelt No. 2 - Götterdämmerung | 417540 | [417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json](./417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json) |
+| Fate/Grand Order: Merry Christmas in the Underworld | 418780 | [418780-fate-grand-order-merry-christmas-in-the-underworld.json](./418780-fate-grand-order-merry-christmas-in-the-underworld.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Grand Order: Ordeal Call II - Id | 413505 | [413505-fate-grand-order-ordeal-call-ii-id.json](./413505-fate-grand-order-ordeal-call-ii-id.json) |
@@ -7369,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
 | Fish and Groove | 151101 | [151101-fish-and-groove.json](./151101-fish-and-groove.json) |
 | Fish Bone | 226156 | [226156-fish-bone.json](./226156-fish-bone.json) |
+| Fish Bone | 418769 | [418769-fish-bone.json](./418769-fish-bone.json) |
 | Fish Can Run 2 | 411273 | [411273-fish-can-run-2.json](./411273-fish-can-run-2.json) |
 | Fish Catcher | 105374 | [105374-fish-catcher.json](./105374-fish-catcher.json) |
 | Fish Catcher | 277661 | [277661-fish-catcher.json](./277661-fish-catcher.json) |
@@ -13921,6 +13928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends for the Apocalypse | 126222 | [126222-friends-for-the-apocalypse.json](./126222-friends-for-the-apocalypse.json) |
+| Friends Game | 418801 | [418801-friends-game.json](./418801-friends-game.json) |
 | Friends Gem for Kakao | 109928 | [109928-friends-gem-for-kakao.json](./109928-friends-gem-for-kakao.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
