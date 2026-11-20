@@ -5660,6 +5660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Plus 2 | 39403 | [39403-tetris-plus-2.json](./39403-tetris-plus-2.json) |
 | Tetris Pop | 298771 | [298771-tetris-pop.json](./298771-tetris-pop.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
+| Tetris Refresh | 418811 | [418811-tetris-refresh.json](./418811-tetris-refresh.json) |
 | Tetris Rosy Retrospection DX | 359081 | [359081-tetris-rosy-retrospection-dx.json](./359081-tetris-rosy-retrospection-dx.json) |
 | Tetris Royale | 120266 | [120266-tetris-royale.json](./120266-tetris-royale.json) |
 | Tetris Rtx | 191053 | [191053-tetris-rtx.json](./191053-tetris-rtx.json) |
@@ -10725,6 +10726,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Female Teacher's Sex Training | 97789 | [97789-the-female-teachers-sex-training.json](./97789-the-female-teachers-sex-training.json) |
 | The Femboy Next Door Thinks I'm Cute | 286173 | [286173-the-femboy-next-door-thinks-im-cute.json](./286173-the-femboy-next-door-thinks-im-cute.json) |
 | The Femdom Project | 392981 | [392981-the-femdom-project.json](./392981-the-femdom-project.json) |
+| The Femdom Project 2 | 418827 | [418827-the-femdom-project-2.json](./418827-the-femdom-project-2.json) |
+| The Femdom Project 3 | 418830 | [418830-the-femdom-project-3.json](./418830-the-femdom-project-3.json) |
+| The Femdom Project 4 | 418832 | [418832-the-femdom-project-4.json](./418832-the-femdom-project-4.json) |
+| The Femdom Project 5 | 418833 | [418833-the-femdom-project-5.json](./418833-the-femdom-project-5.json) |
+| The Femdom Project 6 | 418834 | [418834-the-femdom-project-6.json](./418834-the-femdom-project-6.json) |
 | The Fennels Figure Math | 93189 | [93189-the-fennels-figure-math.json](./93189-the-fennels-figure-math.json) |
 | The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Fermi Paradox | 154094 | [154094-the-fermi-paradox.json](./154094-the-fermi-paradox.json) |
@@ -14460,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Shiande | 324783 | [324783-the-legend-of-shiande.json](./324783-the-legend-of-shiande.json) |
 | The Legend of Shonan | 387002 | [387002-the-legend-of-shonan.json](./387002-the-legend-of-shonan.json) |
 | The Legend of Silkroad | 39416 | [39416-the-legend-of-silkroad.json](./39416-the-legend-of-silkroad.json) |
+| The Legend of Sinbad | 418799 | [418799-the-legend-of-sinbad.json](./418799-the-legend-of-sinbad.json) |
 | The Legend of Sky Stones | 307951 | [307951-the-legend-of-sky-stones.json](./307951-the-legend-of-sky-stones.json) |
 | The Legend of Skye | 239802 | [239802-the-legend-of-skye.json](./239802-the-legend-of-skye.json) |
 | The Legend of Slime | 67923 | [67923-the-legend-of-slime.json](./67923-the-legend-of-slime.json) |
@@ -28078,6 +28085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
 | Toilet Chronicles: Staff Only | 228801 | [228801-toilet-chronicles-staff-only.json](./228801-toilet-chronicles-staff-only.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
+| Toilet Femdom 3: Christmas Punks | 418806 | [418806-toilet-femdom-3-christmas-punks.json](./418806-toilet-femdom-3-christmas-punks.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
 | Toilet Flushing Simulator | 175710 | [175710-toilet-flushing-simulator.json](./175710-toilet-flushing-simulator.json) |
 | Toilet he Go 1+2 | 329318 | [329318-toilet-he-go-1-2.json](./329318-toilet-he-go-1-2.json) |
@@ -38292,6 +38300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Hands Hospital Assistant Simulator | 370007 | [370007-two-hands-hospital-assistant-simulator.json](./370007-two-hands-hospital-assistant-simulator.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
+| Two Hot Chicks: An Erotica Porn Space Orgy! | 418844 | [418844-two-hot-chicks-an-erotica-porn-space-orgy.json](./418844-two-hot-chicks-an-erotica-porn-space-orgy.json) |
 | Two Hour Escape Mystery: A Puzzling Voyage | 272902 | [272902-two-hour-escape-mystery-a-puzzling-voyage.json](./272902-two-hour-escape-mystery-a-puzzling-voyage.json) |
 | Two Hours One Life | 142289 | [142289-two-hours-one-life.json](./142289-two-hours-one-life.json) |
 | Two Hundred Fifty Six | 362731 | [362731-two-hundred-fifty-six.json](./362731-two-hundred-fifty-six.json) |
