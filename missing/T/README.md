@@ -6895,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Atlas: Renaissance Voyager | 324956 | [324956-the-atlas-renaissance-voyager.json](./324956-the-atlas-renaissance-voyager.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
+| The Atrium | 418009 | [418009-the-atrium.json](./418009-the-atrium.json) |
 | The Attack | 44375 | [44375-the-attack.json](./44375-the-attack.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
@@ -7442,6 +7443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Game Boy Edition | 185917 | [185917-the-binding-of-isaac-game-boy-edition.json](./185917-the-binding-of-isaac-game-boy-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
+| The Binding of Isaac: Sacrilege | 417620 | [417620-the-binding-of-isaac-sacrilege.json](./417620-the-binding-of-isaac-sacrilege.json) |
 | The Binding of Isaac: Wrath of the Lamb | 14542 | [14542-the-binding-of-isaac-wrath-of-the-lamb.json](./14542-the-binding-of-isaac-wrath-of-the-lamb.json) |
 | The Binding of Survivors | 207593 | [207593-the-binding-of-survivors.json](./207593-the-binding-of-survivors.json) |
 | The Binding of You | 83551 | [83551-the-binding-of-you.json](./83551-the-binding-of-you.json) |
@@ -12821,6 +12823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infected Truth | 177214 | [177214-the-infected-truth.json](./177214-the-infected-truth.json) |
 | The Infecting 3 | 190155 | [190155-the-infecting-3.json](./190155-the-infecting-3.json) |
+| The Infectious Adventure | 417637 | [417637-the-infectious-adventure.json](./417637-the-infectious-adventure.json) |
 | The Infectious Madness of Doctor Dekker 2 | 321046 | [321046-the-infectious-madness-of-doctor-dekker-2.json](./321046-the-infectious-madness-of-doctor-dekker-2.json) |
 | The Infernal Abyss | 337657 | [337657-the-infernal-abyss.json](./337657-the-infernal-abyss.json) |
 | The Infernal Masquerade | 236963 | [236963-the-infernal-masquerade.json](./236963-the-infernal-masquerade.json) |
