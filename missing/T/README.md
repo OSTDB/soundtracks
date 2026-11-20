@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - 1987 Animated Series Pack | 324363 | [324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json](./324363-teenage-mutant-ninja-turtles-mutants-unleashed-1987-animated-series-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Deluxe Edition | 323945 | [323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json](./323945-teenage-mutant-ninja-turtles-mutants-unleashed-deluxe-edition.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Digital Deluxe Edition | 320674 | [320674-teenage-mutant-ninja-turtles-mutants-unleashed-digital-deluxe-edition.json](./320674-teenage-mutant-ninja-turtles-mutants-unleashed-digital-deluxe-edition.json) |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed - Metalheads Pack | 356480 | [356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json](./356480-teenage-mutant-ninja-turtles-mutants-unleashed-metalheads-pack.json) |
 | Teenage Mutant Ninja Turtles: Mutants Unleashed - Season Pass | 324361 | [324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json](./324361-teenage-mutant-ninja-turtles-mutants-unleashed-season-pass.json) |
 | Teenage Mutant Ninja Turtles: Portal Power | 59086 | [59086-teenage-mutant-ninja-turtles-portal-power.json](./59086-teenage-mutant-ninja-turtles-portal-power.json) |
 | Teenage Mutant Ninja Turtles: Rescue Palooza! | 126491 | [126491-teenage-mutant-ninja-turtles-rescue-palooza.json](./126491-teenage-mutant-ninja-turtles-rescue-palooza.json) |
@@ -19033,6 +19034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: University Life | 3158 | [3158-the-sims-3-university-life.json](./3158-the-sims-3-university-life.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4 Love & Family Bundle | 366930 | [366930-the-sims-4-love-and-family-bundle.json](./366930-the-sims-4-love-and-family-bundle.json) |
+| The Sims 4: Adventure Awaits | 365588 | [365588-the-sims-4-adventure-awaits.json](./365588-the-sims-4-adventure-awaits.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Autumn Apparel Kit | 375441 | [375441-the-sims-4-autumn-apparel-kit.json](./375441-the-sims-4-autumn-apparel-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
@@ -19080,6 +19082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Dream Home Decorator | 152318 | [152318-the-sims-4-dream-home-decorator.json](./152318-the-sims-4-dream-home-decorator.json) |
 | The Sims 4: EA Play Edition | 384181 | [384181-the-sims-4-ea-play-edition.json](./384181-the-sims-4-ea-play-edition.json) |
 | The Sims 4: Eco Lifestyle | 135144 | [135144-the-sims-4-eco-lifestyle.json](./135144-the-sims-4-eco-lifestyle.json) |
+| The Sims 4: Enchanted by Nature | 350995 | [350995-the-sims-4-enchanted-by-nature.json](./350995-the-sims-4-enchanted-by-nature.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Clutter Kit | 226792 | [226792-the-sims-4-everyday-clutter-kit.json](./226792-the-sims-4-everyday-clutter-kit.json) |
 | The Sims 4: Everyday Sims Bundle | 225463 | [225463-the-sims-4-everyday-sims-bundle.json](./225463-the-sims-4-everyday-sims-bundle.json) |
@@ -19378,6 +19381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Dreams | 299572 | [299572-the-smurfs-dreams.json](./299572-the-smurfs-dreams.json) |
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
 | The Smurfs: Epic Run | 58379 | [58379-the-smurfs-epic-run.json](./58379-the-smurfs-epic-run.json) |
+| The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Brainy Smurf Hidden Story | 280587 | [280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json](./280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
@@ -38355,6 +38359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Culture Shock | 140283 | [140283-two-point-hospital-culture-shock.json](./140283-two-point-hospital-culture-shock.json) |
 | Two Point Hospital: Exhibition Items Pack | 223541 | [223541-two-point-hospital-exhibition-items-pack.json](./223541-two-point-hospital-exhibition-items-pack.json) |
 | Two Point Hospital: Fancy Dress Pack | 223545 | [223545-two-point-hospital-fancy-dress-pack.json](./223545-two-point-hospital-fancy-dress-pack.json) |
+| Two Point Hospital: Full Health Collection | 370588 | [370588-two-point-hospital-full-health-collection.json](./370588-two-point-hospital-full-health-collection.json) |
 | Two Point Hospital: Full Health Collection Upgrade | 428785 | [428785-two-point-hospital-full-health-collection-upgrade.json](./428785-two-point-hospital-full-health-collection-upgrade.json) |
 | Two Point Hospital: Jumbo Edition | 142815 | [142815-two-point-hospital-jumbo-edition.json](./142815-two-point-hospital-jumbo-edition.json) |
 | Two Point Hospital: Off the Grid | 131842 | [131842-two-point-hospital-off-the-grid.json](./131842-two-point-hospital-off-the-grid.json) |
