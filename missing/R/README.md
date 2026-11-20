@@ -13517,6 +13517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Bird | 404862 | [404862-rubber-bird.json](./404862-rubber-bird.json) |
 | Rubber Brawl | 219644 | [219644-rubber-brawl.json](./219644-rubber-brawl.json) |
 | Rubber Dinghy | 101733 | [101733-rubber-dinghy.json](./101733-rubber-dinghy.json) |
+| Rubber Duck Frontier | 425578 | [425578-rubber-duck-frontier.json](./425578-rubber-duck-frontier.json) |
 | Rubber Duck Race Simulator | 356535 | [356535-rubber-duck-race-simulator.json](./356535-rubber-duck-race-simulator.json) |
 | Rubber Duck Survival | 411556 | [411556-rubber-duck-survival.json](./411556-rubber-duck-survival.json) |
 | Rubber Ducky and the Rainbow Gun | 34093 | [34093-rubber-ducky-and-the-rainbow-gun.json](./34093-rubber-ducky-and-the-rainbow-gun.json) |
