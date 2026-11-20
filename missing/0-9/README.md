@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
+| 007: Agent Under Fire - XBE Recomp | 427384 | [427384-007-agent-under-fire-xbe-recomp.json](./427384-007-agent-under-fire-xbe-recomp.json) |
 | 007: Everything or Nothing - XBE Recomp | 426038 | [426038-007-everything-or-nothing-xbe-recomp.json](./426038-007-everything-or-nothing-xbe-recomp.json) |
 | 007: Licence to Spell Doom | 312971 | [312971-007-licence-to-spell-doom.json](./312971-007-licence-to-spell-doom.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
