@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella: The Umbral Star - Noble Phantasm Edition | 136318 | [136318-fate-extella-the-umbral-star-noble-phantasm-edition.json](./136318-fate-extella-the-umbral-star-noble-phantasm-edition.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Extra CCC | 12504 | [12504-fate-extra-ccc.json](./12504-fate-extra-ccc.json) |
+| Fate/Extra CCC: Type-Moon Virgin White Box | 422496 | [422496-fate-extra-ccc-type-moon-virgin-white-box.json](./422496-fate-extra-ccc-type-moon-virgin-white-box.json) |
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Animate Limited Set | 418824 | [418824-fate-extra-record-animate-limited-set.json](./418824-fate-extra-record-animate-limited-set.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
@@ -6998,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Fire: Ungh's Quest | 58565 | [58565-fire-unghs-quest.json](./58565-fire-unghs-quest.json) |
 | Fire! | 223091 | [223091-fire.json](./223091-fire.json) |
+| Fire. Hold. Repeat. | 422604 | [422604-fire-hold-repeat.json](./422604-fire-hold-repeat.json) |
 | FireAirPlan | 195926 | [195926-fireairplan.json](./195926-fireairplan.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
 | Firearms | 229495 | [229495-firearms.json](./229495-firearms.json) |
@@ -8635,6 +8637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Bash | 345845 | [345845-flash-bash.json](./345845-flash-bash.json) |
 | Flash Boy | 58035 | [58035-flash-boy.json](./58035-flash-boy.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
+| Flash Circle TD | 422497 | [422497-flash-circle-td.json](./422497-flash-circle-td.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
 | Flash Diving | 290609 | [290609-flash-diving.json](./290609-flash-diving.json) |
 | Flash Doll | 326178 | [326178-flash-doll.json](./326178-flash-doll.json) |
@@ -9977,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly! II | 68973 | [68973-fly-ii.json](./68973-fly-ii.json) |
 | Fly!!! | 233254 | [233254-fly.json](./233254-fly.json) |
 | Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
+| Fly&Goal | 422602 | [422602-fly-and-goal.json](./422602-fly-and-goal.json) |
 | Fly&Ride Collection | 277728 | [277728-fly-and-ride-collection.json](./277728-fly-and-ride-collection.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
@@ -11718,6 +11722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formation | 177976 | [177976-formation.json](./177976-formation.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Armed F | 42091 | [42091-formation-armed-f.json](./42091-formation-armed-f.json) |
+| Formation Builder Idle | 422596 | [422596-formation-builder-idle.json](./422596-formation-builder-idle.json) |
 | Formation Soccer '97: The Road to France | 286577 | [286577-formation-soccer-97-the-road-to-france.json](./286577-formation-soccer-97-the-road-to-france.json) |
 | Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
@@ -13039,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of a Mind | 157428 | [157428-fragments-of-a-mind.json](./157428-fragments-of-a-mind.json) |
 | Fragments of Dread: Fale Haven | 372827 | [372827-fragments-of-dread-fale-haven.json](./372827-fragments-of-dread-fale-haven.json) |
 | Fragments of Dread: Late Lines FM | 390228 | [390228-fragments-of-dread-late-lines-fm.json](./390228-fragments-of-dread-late-lines-fm.json) |
+| Fragments of Ember | 422594 | [422594-fragments-of-ember.json](./422594-fragments-of-ember.json) |
 | Fragments of Euclid | 133851 | [133851-fragments-of-euclid.json](./133851-fragments-of-euclid.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragments of Him | 12518 | [12518-fragments-of-him.json](./12518-fragments-of-him.json) |
