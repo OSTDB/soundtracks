@@ -14487,6 +14487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines | 94643 | [94643-mines.json](./94643-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
+| Mines and Magic | 104909 | [104909-mines-and-magic.json](./104909-mines-and-magic.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
 | Mines of Grimvale | 53350 | [53350-mines-of-grimvale.json](./53350-mines-of-grimvale.json) |
@@ -17108,6 +17109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
 | Mojito Woody's Rescue | 189213 | [189213-mojito-woodys-rescue.json](./189213-mojito-woodys-rescue.json) |
 | Mojiworld | 430176 | [430176-mojiworld.json](./430176-mojiworld.json) |
+| Mojo | 105152 | [105152-mojo.json](./105152-mojo.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
 | Mojo 2: Mia | 110653 | [110653-mojo-2-mia.json](./110653-mojo-2-mia.json) |
 | Mojo Is Loved | 424138 | [424138-mojo-is-loved.json](./424138-mojo-is-loved.json) |
@@ -18333,6 +18335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Land: 2D MMORPG | 208746 | [208746-monster-land-2d-mmorpg.json](./208746-monster-land-2d-mmorpg.json) |
 | Monster land: Builder | 216043 | [216043-monster-land-builder.json](./216043-monster-land-builder.json) |
 | Monster Layer | 392680 | [392680-monster-layer.json](./392680-monster-layer.json) |
+| Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster League Baseball | 428953 | [428953-monster-league-baseball.json](./428953-monster-league-baseball.json) |
 | Monster Legacy: Cozy Puzzle Crossing | 356528 | [356528-monster-legacy-cozy-puzzle-crossing.json](./356528-monster-legacy-cozy-puzzle-crossing.json) |
 | Monster Legacy: New Horizons | 287038 | [287038-monster-legacy-new-horizons.json](./287038-monster-legacy-new-horizons.json) |
