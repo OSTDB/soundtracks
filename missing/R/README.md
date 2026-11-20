@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raddio | 181454 | [181454-raddio.json](./181454-raddio.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Raddoll | 262109 | [262109-raddoll.json](./262109-raddoll.json) |
+| Radia Island | 427357 | [427357-radia-island.json](./427357-radia-island.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
 | Radial | 128945 | [128945-radial.json](./128945-radial.json) |
 | Radial 50 | 67215 | [67215-radial-50.json](./67215-radial-50.json) |
