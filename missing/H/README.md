@@ -11617,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordelicious | 34929 | [34929-hordelicious.json](./34929-hordelicious.json) |
 | Hordelight | 427578 | [427578-hordelight.json](./427578-hordelight.json) |
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
+| HordeNight | 427948 | [427948-hordenight.json](./427948-hordenight.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
 | Hordes of Hunger | 244839 | [244839-hordes-of-hunger.json](./244839-hordes-of-hunger.json) |
@@ -13403,6 +13404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huey | 109147 | [109147-huey.json](./109147-huey.json) |
 | Huey | 90247 | [90247-huey.json](./90247-huey.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
+| Hufvudsta | 427972 | [427972-hufvudsta.json](./427972-hufvudsta.json) |
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
 | Hug Arena | 334444 | [334444-hug-arena.json](./334444-hug-arena.json) |
 | Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
@@ -14566,6 +14568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper//Echo | 206911 | [206911-hyper-echo.json](./206911-hyper-echo.json) |
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
 | Hyperacusis | 310327 | [310327-hyperacusis.json](./310327-hyperacusis.json) |
+| Hyperarousal | 427971 | [427971-hyperarousal.json](./427971-hyperarousal.json) |
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
 | Hyperball | 115084 | [115084-hyperball.json](./115084-hyperball.json) |
 | Hyperball Tachyon | 192533 | [192533-hyperball-tachyon.json](./192533-hyperball-tachyon.json) |
