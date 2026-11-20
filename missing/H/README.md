@@ -11892,6 +11892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrortale: Waterfall | 332881 | [332881-horrortale-waterfall.json](./332881-horrortale-waterfall.json) |
 | HorrorToleranceTest | 359710 | [359710-horrortolerancetest.json](./359710-horrortolerancetest.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
+| Horrorvania | 429715 | [429715-horrorvania.json](./429715-horrorvania.json) |
 | Horroyale | 158414 | [158414-horroyale.json](./158414-horroyale.json) |
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
 | Horse & Horse | 401802 | [401802-horse-and-horse.json](./401802-horse-and-horse.json) |
