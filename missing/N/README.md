@@ -5937,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Nightfall | 394573 | [394573-ninja-nightfall.json](./394573-ninja-nightfall.json) |
 | Ninja no Gakko | 290402 | [290402-ninja-no-gakko.json](./290402-ninja-no-gakko.json) |
 | Ninja Noboken | 196218 | [196218-ninja-noboken.json](./196218-ninja-noboken.json) |
+| Ninja Noboken Episode 2 | 423131 | [423131-ninja-noboken-episode-2.json](./423131-ninja-noboken-episode-2.json) |
 | Ninja Numpties | 324333 | [324333-ninja-numpties.json](./324333-ninja-numpties.json) |
 | Ninja Online | 58607 | [58607-ninja-online.json](./58607-ninja-online.json) |
 | Ninja or Die 2 Die | 402677 | [402677-ninja-or-die-2-die.json](./402677-ninja-or-die-2-die.json) |
@@ -6602,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Fractal | 239278 | [239278-no-mans-sky-fractal.json](./239278-no-mans-sky-fractal.json) |
 | No Man's Sky: Frontiers | 221607 | [221607-no-mans-sky-frontiers.json](./221607-no-mans-sky-frontiers.json) |
 | No Man's Sky: Interceptor | 243881 | [243881-no-mans-sky-interceptor.json](./243881-no-mans-sky-interceptor.json) |
+| No Man's Sky: iOS | 423130 | [423130-no-mans-sky-ios.json](./423130-no-mans-sky-ios.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
 | No Man's Sky: Next | 222778 | [222778-no-mans-sky-next.json](./222778-no-mans-sky-next.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
