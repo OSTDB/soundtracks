@@ -13676,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Wild Run | 299506 | [299506-bmx-wild-run.json](./299506-bmx-wild-run.json) |
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
+| BMZ Player | 427368 | [427368-bmz-player.json](./427368-bmz-player.json) |
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
 | BND Legenden: Operation Blackout | 388772 | [388772-bnd-legenden-operation-blackout.json](./388772-bnd-legenden-operation-blackout.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
