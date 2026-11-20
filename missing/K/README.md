@@ -4048,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands Edition | 186529 | [186529-kingdom-two-crowns-norse-lands-edition.json](./186529-kingdom-two-crowns-norse-lands-edition.json) |
 | Kingdom Two Crowns: Olympus Edition | 320684 | [320684-kingdom-two-crowns-olympus-edition.json](./320684-kingdom-two-crowns-olympus-edition.json) |
+| Kingdom Two Crowns: Pharaoh Lands | 422257 | [422257-kingdom-two-crowns-pharaoh-lands.json](./422257-kingdom-two-crowns-pharaoh-lands.json) |
 | Kingdom Two Crowns: Shogun | 233835 | [233835-kingdom-two-crowns-shogun.json](./233835-kingdom-two-crowns-shogun.json) |
 | Kingdom Under Fire II | 6414 | [6414-kingdom-under-fire-ii.json](./6414-kingdom-under-fire-ii.json) |
 | Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
