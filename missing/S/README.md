@@ -6230,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen-Know | 178163 | [178163-sen-know.json](./178163-sen-know.json) |
 | SEN: Seven Eight Nine | 129943 | [129943-sen-seven-eight-nine.json](./129943-sen-seven-eight-nine.json) |
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
+| Senalux | 55700 | [55700-senalux.json](./55700-senalux.json) |
 | Senalux: Level Pack 2 | 226927 | [226927-senalux-level-pack-2.json](./226927-senalux-level-pack-2.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
@@ -6459,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
+| Sense of the Devil | 56653 | [56653-sense-of-the-devil.json](./56653-sense-of-the-devil.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
 | Sense: A Cyberpunk Ghost Story | 102421 | [102421-sense-a-cyberpunk-ghost-story.json](./102421-sense-a-cyberpunk-ghost-story.json) |
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
@@ -29809,6 +29811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Status Entropos | 377918 | [377918-status-entropos.json](./377918-status-entropos.json) |
 | Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
 | Status One | 310807 | [310807-status-one.json](./310807-status-one.json) |
+| Status: Insane | 55701 | [55701-status-insane.json](./55701-status-insane.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
 | Stax | 82334 | [82334-stax.json](./82334-stax.json) |
@@ -30525,6 +30528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaren II | 171999 | [171999-stellaren-ii.json](./171999-stellaren-ii.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
+| StellarHub | 55475 | [55475-stellarhub.json](./55475-stellarhub.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
 | Stellaris Pack | 428887 | [428887-stellaris-pack.json](./428887-stellaris-pack.json) |
@@ -30583,6 +30587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellaSpella | 151447 | [151447-stellaspella.json](./151447-stellaspella.json) |
 | Stellata Waterway | 249402 | [249402-stellata-waterway.json](./249402-stellata-waterway.json) |
 | Stellations | 353937 | [353937-stellations.json](./353937-stellations.json) |
+| Stellatum | 55573 | [55573-stellatum.json](./55573-stellatum.json) |
 | Stellavanity: Prelude to the Destined Calamity | 62474 | [62474-stellavanity-prelude-to-the-destined-calamity.json](./62474-stellavanity-prelude-to-the-destined-calamity.json) |
 | Stellaxy | 129454 | [129454-stellaxy.json](./129454-stellaxy.json) |
 | Stellfire | 296299 | [296299-stellfire.json](./296299-stellfire.json) |
