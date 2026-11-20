@@ -7677,6 +7677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Duel | 377144 | [377144-wizard-duel.json](./377144-wizard-duel.json) |
 | Wizard Dungeon | 412106 | [412106-wizard-dungeon.json](./412106-wizard-dungeon.json) |
 | Wizard Fight! | 357739 | [357739-wizard-fight.json](./357739-wizard-fight.json) |
+| Wizard Fighters | 426659 | [426659-wizard-fighters.json](./426659-wizard-fighters.json) |
 | Wizard Fire | 39288 | [39288-wizard-fire.json](./39288-wizard-fire.json) |
 | Wizard Girl Anzu | 190057 | [190057-wizard-girl-anzu.json](./190057-wizard-girl-anzu.json) |
 | Wizard Gold | 418404 | [418404-wizard-gold.json](./418404-wizard-gold.json) |
