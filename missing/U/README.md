@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
+| Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
 | Under Development | 131344 | [131344-under-development.json](./131344-under-development.json) |
 | Under Domain | 139190 | [139190-under-domain.json](./139190-under-domain.json) |
@@ -4106,6 +4107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia | 377298 | [377298-utopia.json](./377298-utopia.json) |
 | Utopia | 390549 | [390549-utopia.json](./390549-utopia.json) |
 | Utopia | 5702 | [5702-utopia.json](./5702-utopia.json) |
+| Utopia 9: A Volatile Vacation | 20360 | [20360-utopia-9-a-volatile-vacation.json](./20360-utopia-9-a-volatile-vacation.json) |
 | Utopia City | 36659 | [36659-utopia-city.json](./36659-utopia-city.json) |
 | Utopia Colony | 131680 | [131680-utopia-colony.json](./131680-utopia-colony.json) |
 | Utopia Gatekeeper | 412617 | [412617-utopia-gatekeeper.json](./412617-utopia-gatekeeper.json) |
