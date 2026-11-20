@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quebrantar: Caila The Witch | 315695 | [315695-quebrantar-caila-the-witch.json](./315695-quebrantar-caila-the-witch.json) |
 | Quebrantar: The Black Swamp | 315696 | [315696-quebrantar-the-black-swamp.json](./315696-quebrantar-the-black-swamp.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
+| Quedex | 22527 | [22527-quedex.json](./22527-quedex.json) |
 | Queen Anne's Lace | 387561 | [387561-queen-annes-lace.json](./387561-queen-annes-lace.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen At Arms | 24617 | [24617-queen-at-arms.json](./24617-queen-at-arms.json) |
