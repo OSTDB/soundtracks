@@ -16897,6 +16897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Strike VR | 240628 | [240628-copter-strike-vr.json](./240628-copter-strike-vr.json) |
 | Copter.io | 322527 | [322527-copter-io.json](./322527-copter-io.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
+| Copy | 423744 | [423744-copy.json](./423744-copy.json) |
 | Copy Cat | 409094 | [409094-copy-cat.json](./409094-copy-cat.json) |
 | Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
@@ -20023,6 +20024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Coach 2007 | 10114 | [10114-cricket-coach-2007.json](./10114-cricket-coach-2007.json) |
 | Cricket Crazy | 13533 | [13533-cricket-crazy.json](./13533-cricket-crazy.json) |
 | Cricket Cup | 241113 | [241113-cricket-cup.json](./241113-cricket-cup.json) |
+| Cricket Franchise Master | 423798 | [423798-cricket-franchise-master.json](./423798-cricket-franchise-master.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
 | Cricket Legends | 309707 | [309707-cricket-legends.json](./309707-cricket-legends.json) |
@@ -20933,6 +20935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Road Castle | 123708 | [123708-crossy-road-castle.json](./123708-crossy-road-castle.json) |
+| Crossy Road Rush | 423799 | [423799-crossy-road-rush.json](./423799-crossy-road-rush.json) |
 | Crossy Road+ | 257791 | [257791-crossy-road.json](./257791-crossy-road.json) |
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
@@ -22845,6 +22848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Darkness | 360880 | [360880-curse-of-darkness.json](./360880-curse-of-darkness.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
+| Curse of Diamond | 423794 | [423794-curse-of-diamond.json](./423794-curse-of-diamond.json) |
 | Curse of Disaster Spirit: Anecdotes of Mansion | 170643 | [170643-curse-of-disaster-spirit-anecdotes-of-mansion.json](./170643-curse-of-disaster-spirit-anecdotes-of-mansion.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Dragor | 170076 | [170076-curse-of-dragor.json](./170076-curse-of-dragor.json) |
