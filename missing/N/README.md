@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 18: Young Stars Deluxe Edition | 85253 | [85253-nhl-18-young-stars-deluxe-edition.json](./85253-nhl-18-young-stars-deluxe-edition.json) |
 | NHL 18: Young Stars Edition | 85230 | [85230-nhl-18-young-stars-edition.json](./85230-nhl-18-young-stars-edition.json) |
+| NHL 19 Recomp | 429134 | [429134-nhl-19-recomp.json](./429134-nhl-19-recomp.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 20 | 119947 | [119947-nhl-20.json](./119947-nhl-20.json) |
 | NHL 20: Deluxe Edition | 128387 | [128387-nhl-20-deluxe-edition.json](./128387-nhl-20-deluxe-edition.json) |
