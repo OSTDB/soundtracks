@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper - A Game of Folding | 123859 | [123859-paper-a-game-of-folding.json](./123859-paper-a-game-of-folding.json) |
 | Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
+| Paper Airplane Chase | 85325 | [85325-paper-airplane-chase.json](./85325-paper-airplane-chase.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
@@ -5493,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Study | 393939 | [393939-personal-study.json](./393939-personal-study.json) |
 | Personal Trainer Simulator | 192519 | [192519-personal-trainer-simulator.json](./192519-personal-trainer-simulator.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
+| Personal Trainer: Cooking | 85049 | [85049-personal-trainer-cooking.json](./85049-personal-trainer-cooking.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
 | Personal Trip to the Moon | 128697 | [128697-personal-trip-to-the-moon.json](./128697-personal-trip-to-the-moon.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
@@ -9800,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Skater | 241699 | [241699-pixel-skater.json](./241699-pixel-skater.json) |
 | Pixel Slayer | 231141 | [231141-pixel-slayer.json](./231141-pixel-slayer.json) |
+| Pixel Slime U | 84817 | [84817-pixel-slime-u.json](./84817-pixel-slime-u.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Solo Ops | 424733 | [424733-pixel-solo-ops.json](./424733-pixel-solo-ops.json) |
@@ -10851,6 +10854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Plantera | 17004 | [17004-plantera.json](./17004-plantera.json) |
 | Plantera 2: Golden Acorn | 128835 | [128835-plantera-2-golden-acorn.json](./128835-plantera-2-golden-acorn.json) |
+| Plantera Deluxe | 84724 | [84724-plantera-deluxe.json](./84724-plantera-deluxe.json) |
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
@@ -14197,6 +14201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
+| Pong Toss: Frat Party Games | 85156 | [85156-pong-toss-frat-party-games.json](./85156-pong-toss-frat-party-games.json) |
 | Pong World | 64055 | [64055-pong-world.json](./64055-pong-world.json) |
 | Pong-Tron | 70702 | [70702-pong-tron.json](./70702-pong-tron.json) |
 | Pong-Tron II | 70703 | [70703-pong-tron-ii.json](./70703-pong-tron-ii.json) |
@@ -16141,6 +16146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
 | President Rocket Game | 189937 | [189937-president-rocket-game.json](./189937-president-rocket-game.json) |
 | President Simulator | 400440 | [400440-president-simulator.json](./400440-president-simulator.json) |
+| President Trump the Way in Uganda | 84084 | [84084-president-trump-the-way-in-uganda.json](./84084-president-trump-the-way-in-uganda.json) |
 | President Yukino | 106614 | [106614-president-yukino.json](./106614-president-yukino.json) |
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | President's Sniper Shooting | 155945 | [155945-presidents-sniper-shooting.json](./155945-presidents-sniper-shooting.json) |
