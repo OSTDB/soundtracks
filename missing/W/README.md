@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand Out: A 3D Magical Gay Novel | 211891 | [211891-wand-out-a-3d-magical-gay-novel.json](./211891-wand-out-a-3d-magical-gay-novel.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wand Wars: Rise | 114471 | [114471-wand-wars-rise.json](./114471-wand-wars-rise.json) |
+| Wanda: A Beautiful Apocalypse | 24533 | [24533-wanda-a-beautiful-apocalypse.json](./24533-wanda-a-beautiful-apocalypse.json) |
 | Wander | 80032 | [80032-wander.json](./80032-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
@@ -7888,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards of Nature | 329674 | [329674-wizards-of-nature.json](./329674-wizards-of-nature.json) |
 | Wizards of the West | 155749 | [155749-wizards-of-the-west.json](./155749-wizards-of-the-west.json) |
 | Wizards of Waverly Place | 44065 | [44065-wizards-of-waverly-place.json](./44065-wizards-of-waverly-place.json) |
+| Wizards of Waverly Place: Spellbound | 24309 | [24309-wizards-of-waverly-place-spellbound.json](./24309-wizards-of-waverly-place-spellbound.json) |
 | Wizards Quest: Adventure in the Kingdom | 274940 | [274940-wizards-quest-adventure-in-the-kingdom.json](./274940-wizards-quest-adventure-in-the-kingdom.json) |
 | Wizards Rule | 422738 | [422738-wizards-rule.json](./422738-wizards-rule.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
