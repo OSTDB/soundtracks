@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Dungeon | 313938 | [313938-easy-dungeon.json](./313938-easy-dungeon.json) |
 | Easy Fishing Simulator | 428290 | [428290-easy-fishing-simulator.json](./428290-easy-fishing-simulator.json) |
+| Easy Flight Simulator | 159385 | [159385-easy-flight-simulator.json](./159385-easy-flight-simulator.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
 | Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
