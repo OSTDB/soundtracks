@@ -12062,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime & Manga Color by Number: Sandbox Pixel Art | 102551 | [102551-anime-and-manga-color-by-number-sandbox-pixel-art.json](./102551-anime-and-manga-color-by-number-sandbox-pixel-art.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
+| Anime Angels feat. Luca Brasil | 417994 | [417994-anime-angels-feat-luca-brasil.json](./417994-anime-angels-feat-luca-brasil.json) |
 | Anime Angels feat. Tomozero | 275439 | [275439-anime-angels-feat-tomozero.json](./275439-anime-angels-feat-tomozero.json) |
 | Anime Arena: Infinite War | 167453 | [167453-anime-arena-infinite-war.json](./167453-anime-arena-infinite-war.json) |
 | Anime Armpits | 202646 | [202646-anime-armpits.json](./202646-anime-armpits.json) |
@@ -15934,6 +15935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Pandora's Box | 117094 | [117094-argonauts-agency-pandoras-box.json](./117094-argonauts-agency-pandoras-box.json) |
 | Argonauts Agency: Pandora's Box - Collector's Edition | 357420 | [357420-argonauts-agency-pandoras-box-collectors-edition.json](./357420-argonauts-agency-pandoras-box-collectors-edition.json) |
 | Argonauts Agency: Patterns of Morpheus | 380202 | [380202-argonauts-agency-patterns-of-morpheus.json](./380202-argonauts-agency-patterns-of-morpheus.json) |
+| Argonauts Agency: Patterns of Morpheus - Collector's Edition | 417625 | [417625-argonauts-agency-patterns-of-morpheus-collectors-edition.json](./417625-argonauts-agency-patterns-of-morpheus-collectors-edition.json) |
 | Argonauts Agency: Secret of the Labyrinth | 418539 | [418539-argonauts-agency-secret-of-the-labyrinth.json](./418539-argonauts-agency-secret-of-the-labyrinth.json) |
 | Argonauts Agency: The Bronze Plague - Collector's Edition | 383416 | [383416-argonauts-agency-the-bronze-plague-collectors-edition.json](./383416-argonauts-agency-the-bronze-plague-collectors-edition.json) |
 | Argonauts Agency: The World on His Shoulders | 415583 | [415583-argonauts-agency-the-world-on-his-shoulders.json](./415583-argonauts-agency-the-world-on-his-shoulders.json) |
