@@ -4300,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle War | 244981 | [244981-castle-war.json](./244981-castle-war.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
+| Castle Warfare | 426653 | [426653-castle-warfare.json](./426653-castle-warfare.json) |
 | Castle Warrior | 12535 | [12535-castle-warrior.json](./12535-castle-warrior.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
 | Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
@@ -5060,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
 | Catburglar | 406789 | [406789-catburglar.json](./406789-catburglar.json) |
 | Catbusters | 226139 | [226139-catbusters.json](./226139-catbusters.json) |
+| CATCAR Pit Crew | 426666 | [426666-catcar-pit-crew.json](./426666-catcar-pit-crew.json) |
 | CatCat | 325400 | [325400-catcat.json](./325400-catcat.json) |
 | CatCat | 345960 | [345960-catcat.json](./345960-catcat.json) |
 | CatCat Save The World | 284794 | [284794-catcat-save-the-world.json](./284794-catcat-save-the-world.json) |
@@ -9343,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christine | 193458 | [193458-christine.json](./193458-christine.json) |
 | Christine | 92150 | [92150-christine.json](./92150-christine.json) |
 | Christine's Care | 382144 | [382144-christines-care.json](./382144-christines-care.json) |
+| Christkind | 426655 | [426655-christkind.json](./426655-christkind.json) |
 | Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
@@ -10336,6 +10339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circlebrix: Falling Bricks | 285530 | [285530-circlebrix-falling-bricks.json](./285530-circlebrix-falling-bricks.json) |
 | Circlecers | 334790 | [334790-circlecers.json](./334790-circlecers.json) |
 | Circledrive | 312275 | [312275-circledrive.json](./312275-circledrive.json) |
+| Circlemate: Her Secret | 426669 | [426669-circlemate-her-secret.json](./426669-circlemate-her-secret.json) |
 | Circlemount | 341634 | [341634-circlemount.json](./341634-circlemount.json) |
 | CircleRun I | 262588 | [262588-circlerun-i.json](./262588-circlerun-i.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
@@ -15458,6 +15462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Abyss | 402648 | [402648-concrete-abyss.json](./402648-concrete-abyss.json) |
 | Concrete and Steel | 33460 | [33460-concrete-and-steel.json](./33460-concrete-and-steel.json) |
 | Concrete Burial | 414555 | [414555-concrete-burial.json](./414555-concrete-burial.json) |
+| Concrete Carnage: Scrapheap | 426671 | [426671-concrete-carnage-scrapheap.json](./426671-concrete-carnage-scrapheap.json) |
 | Concrete Crown | 198039 | [198039-concrete-crown.json](./198039-concrete-crown.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
