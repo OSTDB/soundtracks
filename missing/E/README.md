@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminate | 80700 | [80700-eliminate.json](./80700-eliminate.json) |
 | Eliminate Down | 46176 | [46176-eliminate-down.json](./46176-eliminate-down.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
+| Eliminate Fear | 425253 | [425253-eliminate-fear.json](./425253-eliminate-fear.json) |
 | Eliminate Pro | 79396 | [79396-eliminate-pro.json](./79396-eliminate-pro.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
@@ -8967,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus: The Rise of Chaos | 309397 | [309397-exodus-the-rise-of-chaos.json](./309397-exodus-the-rise-of-chaos.json) |
 | Exodus: Trapped In Time | 190318 | [190318-exodus-trapped-in-time.json](./190318-exodus-trapped-in-time.json) |
 | Exofinity Clicker | 383579 | [383579-exofinity-clicker.json](./383579-exofinity-clicker.json) |
+| ExoFlora: First Seeds | 425231 | [425231-exoflora-first-seeds.json](./425231-exoflora-first-seeds.json) |
 | Exoforge | 332931 | [332931-exoforge.json](./332931-exoforge.json) |
 | ExoFrontier: Venus | 319724 | [319724-exofrontier-venus.json](./319724-exofrontier-venus.json) |
 | Exogate Initiative | 161695 | [161695-exogate-initiative.json](./161695-exogate-initiative.json) |
