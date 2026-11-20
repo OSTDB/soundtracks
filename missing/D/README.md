@@ -7598,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demon&Fairy | 75521 | [75521-demon-and-fairy.json](./75521-demon-and-fairy.json) |
 | Demonastery | 261174 | [261174-demonastery.json](./261174-demonastery.json) |
+| Demonator | 428560 | [428560-demonator.json](./428560-demonator.json) |
 | Demonbane: Ascension | 389331 | [389331-demonbane-ascension.json](./389331-demonbane-ascension.json) |
 | Demonblood | 142632 | [142632-demonblood.json](./142632-demonblood.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
@@ -9798,6 +9799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Cute Edition | 317260 | [317260-diamond-painting-asmr-cute-edition.json](./317260-diamond-painting-asmr-cute-edition.json) |
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Quest | 98537 | [98537-diamond-quest.json](./98537-diamond-quest.json) |
+| Diamond Quest: Don't Rush! | 428554 | [428554-diamond-quest-dont-rush.json](./428554-diamond-quest-dont-rush.json) |
 | Diamond Quest! | 98628 | [98628-diamond-quest.json](./98628-diamond-quest.json) |
 | Diamond Rose | 181265 | [181265-diamond-rose.json](./181265-diamond-rose.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
@@ -18990,6 +18992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress-Up Pups | 87895 | [87895-dress-up-pups.json](./87895-dress-up-pups.json) |
 | Dress-Up With Helene | 344113 | [344113-dress-up-with-helene.json](./344113-dress-up-with-helene.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
+| Dressed Delivery | 428557 | [428557-dressed-delivery.json](./428557-dressed-delivery.json) |
 | Dressed For Work | 403243 | [403243-dressed-for-work.json](./403243-dressed-for-work.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
@@ -22050,6 +22053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Mercenaries | 227575 | [227575-dwarven-mercenaries.json](./227575-dwarven-mercenaries.json) |
+| Dwarven Rails | 428521 | [428521-dwarven-rails.json](./428521-dwarven-rails.json) |
 | Dwarven Rampart | 375288 | [375288-dwarven-rampart.json](./375288-dwarven-rampart.json) |
 | Dwarven Realm | 292625 | [292625-dwarven-realm.json](./292625-dwarven-realm.json) |
 | Dwarven Realms | 215873 | [215873-dwarven-realms.json](./215873-dwarven-realms.json) |
