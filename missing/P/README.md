@@ -31,7 +31,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.3 | 123815 | [123815-p-3.json](./123815-p-3.json) |
 | P.A.C.K.: Post Apocalyptic Cleaning Kit | 344087 | [344087-p-a-c-k-post-apocalyptic-cleaning-kit.json](./344087-p-a-c-k-post-apocalyptic-cleaning-kit.json) |
 | P.A.I.N.T. | 161522 | [161522-p-a-i-n-t.json](./161522-p-a-i-n-t.json) |
-| P.A.M.E.L.A. | 9216 | [9216-p-a-m-e-l-a.json](./9216-p-a-m-e-l-a.json) |
 | P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
 | P.A.S. | 105431 | [105431-p-a-s.json](./105431-p-a-s.json) |
 | P.A.T.H. | 175565 | [175565-p-a-t-h.json](./175565-p-a-t-h.json) |
@@ -5560,7 +5559,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet | 240170 | [240170-pet.json](./240170-pet.json) |
 | Pet & Dog Simulator | 333736 | [333736-pet-and-dog-simulator.json](./333736-pet-and-dog-simulator.json) |
 | Pet Adoption Center | 122470 | [122470-pet-adoption-center.json](./122470-pet-adoption-center.json) |
-| Pet Alien: An Intergalactic Puzzlepalooza | 8120 | [8120-pet-alien-an-intergalactic-puzzlepalooza.json](./8120-pet-alien-an-intergalactic-puzzlepalooza.json) |
 | Pet Buddies | 356732 | [356732-pet-buddies.json](./356732-pet-buddies.json) |
 | Pet Cam | 319272 | [319272-pet-cam.json](./319272-pet-cam.json) |
 | Pet Care | 115335 | [115335-pet-care.json](./115335-pet-care.json) |
@@ -10377,7 +10375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plaid - A Unique Puzzle Game | 101193 | [101193-plaid-a-unique-puzzle-game.json](./101193-plaid-a-unique-puzzle-game.json) |
 | Plain | 322873 | [322873-plain.json](./322873-plain.json) |
-| Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
 | Plain Song: Christmas Special | 368544 | [368544-plain-song-christmas-special.json](./368544-plain-song-christmas-special.json) |
 | Plain Tic Tac Toe | 89281 | [89281-plain-tic-tac-toe.json](./89281-plain-tic-tac-toe.json) |
