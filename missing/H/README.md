@@ -4757,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
 | Hell Ground | 256827 | [256827-hell-ground.json](./256827-hell-ground.json) |
 | Hell Guide | 130852 | [130852-hell-guide.json](./130852-hell-guide.json) |
+| Hell Healers | 426104 | [426104-hell-healers.json](./426104-hell-healers.json) |
 | Hell Heroes | 226720 | [226720-hell-heroes.json](./226720-hell-heroes.json) |
 | Hell Hold'em | 401460 | [401460-hell-holdem.json](./401460-hell-holdem.json) |
 | Hell Hole | 73173 | [73173-hell-hole.json](./73173-hell-hole.json) |
@@ -10317,6 +10318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Ascent | 370840 | [370840-hollow-ascent.json](./370840-hollow-ascent.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
+| Hollow Card | 426106 | [426106-hollow-card.json](./426106-hollow-card.json) |
 | Hollow Cedar | 428979 | [428979-hollow-cedar.json](./428979-hollow-cedar.json) |
 | Hollow Cocoon | 255114 | [255114-hollow-cocoon.json](./255114-hollow-cocoon.json) |
 | Hollow Crew | 416806 | [416806-hollow-crew.json](./416806-hollow-crew.json) |
