@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
 | Zelda Online | 321706 | [321706-zelda-online.json](./321706-zelda-online.json) |
 | Zelda Online | 323863 | [323863-zelda-online.json](./323863-zelda-online.json) |
+| Zelda Wind Waker HD Recomp | 423771 | [423771-zelda-wind-waker-hd-recomp.json](./423771-zelda-wind-waker-hd-recomp.json) |
 | Zelda: Forest of the Lost Soul | 315028 | [315028-zelda-forest-of-the-lost-soul.json](./315028-zelda-forest-of-the-lost-soul.json) |
 | Zelda: Interconnected Strongholds | 249397 | [249397-zelda-interconnected-strongholds.json](./249397-zelda-interconnected-strongholds.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorbit's Orbits | 108880 | [108880-zorbits-orbits.json](./108880-zorbits-orbits.json) |
 | Zorbus | 126268 | [126268-zorbus.json](./126268-zorbus.json) |
 | Zordak | 140297 | [140297-zordak.json](./140297-zordak.json) |
+| Zorezdra | 423803 | [423803-zorezdra.json](./423803-zorezdra.json) |
 | Zorg: The Typing Warrior | 119835 | [119835-zorg-the-typing-warrior.json](./119835-zorg-the-typing-warrior.json) |
 | Zoria and the Cursed Land | 152227 | [152227-zoria-and-the-cursed-land.json](./152227-zoria-and-the-cursed-land.json) |
 | Zoria: Age of Shattering | 123928 | [123928-zoria-age-of-shattering.json](./123928-zoria-age-of-shattering.json) |
