@@ -9398,7 +9398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Crush | 6827 | [6827-devils-crush.json](./6827-devils-crush.json) |
-| Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Deck: Polar Night Falls | 284876 | [284876-devils-deck-polar-night-falls.json](./284876-devils-deck-polar-night-falls.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
@@ -10297,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
 | Diesel Racer 2 | 106951 | [106951-diesel-racer-2.json](./106951-diesel-racer-2.json) |
+| Diesel Railcar Simulator | 87937 | [87937-diesel-railcar-simulator.json](./87937-diesel-railcar-simulator.json) |
 | Diesel Skies | 296893 | [296893-diesel-skies.json](./296893-diesel-skies.json) |
 | Diesel the Pug Warrior | 232922 | [232922-diesel-the-pug-warrior.json](./232922-diesel-the-pug-warrior.json) |
 | DieselDome: Oil & Blood | 244127 | [244127-dieseldome-oil-and-blood.json](./244127-dieseldome-oil-and-blood.json) |
@@ -10892,7 +10892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimwood | 338682 | [338682-dimwood.json](./338682-dimwood.json) |
 | Din | 242696 | [242696-din.json](./242696-din.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
-| Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
 | Din's Curse: Demon War | 8821 | [8821-dins-curse-demon-war.json](./8821-dins-curse-demon-war.json) |
 | Din's Legacy | 107680 | [107680-dins-legacy.json](./107680-dins-legacy.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
@@ -16588,7 +16587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconius GO | 74900 | [74900-draconius-go.json](./74900-draconius-go.json) |
 | Draconius GO: Catch a Dragon! | 98170 | [98170-draconius-go-catch-a-dragon.json](./98170-draconius-go-catch-a-dragon.json) |
 | Draconus | 14040 | [14040-draconus.json](./14040-draconus.json) |
-| Draconus: Cult of the Wyrm | 9189 | [9189-draconus-cult-of-the-wyrm.json](./9189-draconus-cult-of-the-wyrm.json) |
 | Dracoslayer | 273501 | [273501-dracoslayer.json](./273501-dracoslayer.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
 | Dracu-Riot! | 137087 | [137087-dracu-riot.json](./137087-dracu-riot.json) |
@@ -19416,7 +19414,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DRMS-04 | 176536 | [176536-drms-04.json](./176536-drms-04.json) |
 | Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
 | Drod 1+2+3 | 124914 | [124914-drod-1-2-3.json](./124914-drod-1-2-3.json) |
-| DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
 | Drod: All the Smitemaster's Selections | 52942 | [52942-drod-all-the-smitemasters-selections.json](./52942-drod-all-the-smitemasters-selections.json) |
@@ -19430,7 +19427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DROD: Smitemaster's Selection Expansions 7+8 | 321311 | [321311-drod-smitemasters-selection-expansions-7-8.json](./321311-drod-smitemasters-selection-expansions-7-8.json) |
 | DROD: Smitemaster's Selection Expansions 9+10 | 321314 | [321314-drod-smitemasters-selection-expansions-9-10.json](./321314-drod-smitemasters-selection-expansions-9-10.json) |
 | DROD: The City Beneath | 9086 | [9086-drod-the-city-beneath.json](./9086-drod-the-city-beneath.json) |
-| DROD: The Second Sky | 8823 | [8823-drod-the-second-sky.json](./8823-drod-the-second-sky.json) |
 | Drogna | 13709 | [13709-drogna.json](./13709-drogna.json) |
 | Droian | 319220 | [319220-droian.json](./319220-droian.json) |
 | Droid Assault | 9704 | [9704-droid-assault.json](./9704-droid-assault.json) |
@@ -21623,7 +21619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Gold Edition | 52931 | [52931-dungeons-gold-edition.json](./52931-dungeons-gold-edition.json) |
 | Dungeons: Into the Dark | 10266 | [10266-dungeons-into-the-dark.json](./10266-dungeons-into-the-dark.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
-| Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | Dungeons: The Dark Lord - Steam Special Edition | 90486 | [90486-dungeons-the-dark-lord-steam-special-edition.json](./90486-dungeons-the-dark-lord-steam-special-edition.json) |
 | Dungeons: The Eye of Draconus | 17444 | [17444-dungeons-the-eye-of-draconus.json](./17444-dungeons-the-eye-of-draconus.json) |
 | DungeonScape | 181261 | [181261-dungeonscape.json](./181261-dungeonscape.json) |
