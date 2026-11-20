@@ -12042,6 +12042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb to the Top of the Castle | 65117 | [65117-climb-to-the-top-of-the-castle.json](./65117-climb-to-the-top-of-the-castle.json) |
 | Climb Up the Down | 158498 | [158498-climb-up-the-down.json](./158498-climb-up-the-down.json) |
 | Climb Up To The Sky | 303417 | [303417-climb-up-to-the-sky.json](./303417-climb-up-to-the-sky.json) |
+| Climb With Wheelbarrow | 120724 | [120724-climb-with-wheelbarrow.json](./120724-climb-with-wheelbarrow.json) |
 | Climb-It | 13499 | [13499-climb-it.json](./13499-climb-it.json) |
 | Climb, Cube, Climb! | 414596 | [414596-climb-cube-climb.json](./414596-climb-cube-climb.json) |
 | Climb! | 118752 | [118752-climb.json](./118752-climb.json) |
@@ -15437,6 +15438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
+| Conception Plus: Maidens of the Twelve Stars | 121227 | [121227-conception-plus-maidens-of-the-twelve-stars.json](./121227-conception-plus-maidens-of-the-twelve-stars.json) |
 | Conception: Ore no Kodomo wo Undekure! | 4702 | [4702-conception-ore-no-kodomo-wo-undekure.json](./4702-conception-ore-no-kodomo-wo-undekure.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
@@ -16622,6 +16624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
 | Cooking Mama World: Combo Pack Volume 2 | 56332 | [56332-cooking-mama-world-combo-pack-volume-2.json](./56332-cooking-mama-world-combo-pack-volume-2.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
+| Cooking Mama: Cookstar | 121516 | [121516-cooking-mama-cookstar.json](./121516-cooking-mama-cookstar.json) |
 | Cooking Mama: Cuisine! | 203461 | [203461-cooking-mama-cuisine.json](./203461-cooking-mama-cuisine.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
@@ -20936,6 +20939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Playground | 422272 | [422272-crowd-playground.json](./422272-crowd-playground.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
+| Crowd Simulator | 121776 | [121776-crowd-simulator.json](./121776-crowd-simulator.json) |
 | Crowd Simulator: Long Way to Go | 170581 | [170581-crowd-simulator-long-way-to-go.json](./170581-crowd-simulator-long-way-to-go.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
