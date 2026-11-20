@@ -3145,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
 | Ace Lightning | 6298 | [6298-ace-lightning.json](./6298-ace-lightning.json) |
 | Ace Low | 13935 | [13935-ace-low.json](./13935-ace-low.json) |
+| Ace Marks the Spot | 421936 | [421936-ace-marks-the-spot.json](./421936-ace-marks-the-spot.json) |
 | Ace Mathician | 77767 | [77767-ace-mathician.json](./77767-ace-mathician.json) |
 | Ace Maverick | 27528 | [27528-ace-maverick.json](./27528-ace-maverick.json) |
 | Ace Meerkats | 109825 | [109825-ace-meerkats.json](./109825-ace-meerkats.json) |
