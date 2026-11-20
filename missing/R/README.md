@@ -2890,7 +2890,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor Trail Survivors | 420431 | [420431-razor-trail-survivors.json](./420431-razor-trail-survivors.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
-| Razor2: Hidden Skies | 14972 | [14972-razor2-hidden-skies.json](./14972-razor2-hidden-skies.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
 | Razorlocks | 378684 | [378684-razorlocks.json](./378684-razorlocks.json) |
 | Razortron 2084 | 116893 | [116893-razortron-2084.json](./116893-razortron-2084.json) |
@@ -4475,7 +4474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RED Fuse: Rolling Explosive Device | 34931 | [34931-red-fuse-rolling-explosive-device.json](./34931-red-fuse-rolling-explosive-device.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
-| Red Game Without a Great Name | 15038 | [15038-red-game-without-a-great-name.json](./15038-red-game-without-a-great-name.json) |
 | Red Gate | 118360 | [118360-red-gate.json](./118360-red-gate.json) |
 | Red Genesis | 367592 | [367592-red-genesis.json](./367592-red-genesis.json) |
 | Red Genie: An Eidola Tale | 258737 | [258737-red-genie-an-eidola-tale.json](./258737-red-genie-an-eidola-tale.json) |
@@ -7553,7 +7551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
 | Reverse Will | 277499 | [277499-reverse-will.json](./277499-reverse-will.json) |
 | Reverse Woman of Human Ball | 234270 | [234270-reverse-woman-of-human-ball.json](./234270-reverse-woman-of-human-ball.json) |
-| Reverse x Reverse | 15385 | [15385-reverse-x-reverse.json](./15385-reverse-x-reverse.json) |
 | Reverse: 1999 | 188383 | [188383-reverse-1999.json](./188383-reverse-1999.json) |
 | ReverseBlue x Re-birthend | 362785 | [362785-reverseblue-x-re-birthend.json](./362785-reverseblue-x-re-birthend.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
@@ -8234,7 +8231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddlewood Manor | 312786 | [312786-riddlewood-manor.json](./312786-riddlewood-manor.json) |
 | Ride | 183311 | [183311-ride.json](./183311-ride.json) |
 | Ride | 20047 | [20047-ride.json](./20047-ride.json) |
-| Ride 'em Low | 16205 | [16205-ride-em-low.json](./16205-ride-em-low.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
 | Ride 2: 2017 Top Bikes Pack | 226961 | [226961-ride-2-2017-top-bikes-pack.json](./226961-ride-2-2017-top-bikes-pack.json) |
 | Ride 2: Aprilia and Suzuki Bonus Pack | 226962 | [226962-ride-2-aprilia-and-suzuki-bonus-pack.json](./226962-ride-2-aprilia-and-suzuki-bonus-pack.json) |
@@ -9982,7 +9978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin: Race! | 145133 | [145133-robin-race.json](./145133-robin-race.json) |
 | Robin: The Twisted Timber Trail | 309934 | [309934-robin-the-twisted-timber-trail.json](./309934-robin-the-twisted-timber-trail.json) |
 | Robin's Island Adventure | 17844 | [17844-robins-island-adventure.json](./17844-robins-island-adventure.json) |
-| Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
@@ -12831,7 +12826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotaeno | 121276 | [121276-rotaeno.json](./121276-rotaeno.json) |
 | Rotaliate | 423214 | [423214-rotaliate.json](./423214-rotaliate.json) |
 | RotaPicture | 93323 | [93323-rotapicture.json](./93323-rotapicture.json) |
-| Rotastic | 15275 | [15275-rotastic.json](./15275-rotastic.json) |
 | Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate | 109086 | [109086-rotate.json](./109086-rotate.json) |
 | Rotate 'N' Shoot | 176155 | [176155-rotate-n-shoot.json](./176155-rotate-n-shoot.json) |
@@ -13650,7 +13644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 2006 | 6020 | [6020-rugby-challenge-2006.json](./6020-rugby-challenge-2006.json) |
-| Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
 | Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
@@ -14954,7 +14947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruyn HD | 345565 | [345565-ruyn-hd.json](./345565-ruyn-hd.json) |
 | Ruza | 222696 | [222696-ruza.json](./222696-ruza.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
-| Ruzar: The Life Stone | 15196 | [15196-ruzar-the-life-stone.json](./15196-ruzar-the-life-stone.json) |
 | Ruzh Delta Z | 35230 | [35230-ruzh-delta-z.json](./35230-ruzh-delta-z.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
