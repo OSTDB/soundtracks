@@ -17160,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole | 177389 | [177389-mole.json](./177389-mole.json) |
 | Mole | 277532 | [277532-mole.json](./277532-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
+| Mole a Hole | 421906 | [421906-mole-a-hole.json](./421906-mole-a-hole.json) |
 | Mole Attack | 39723 | [39723-mole-attack.json](./39723-mole-attack.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
@@ -22021,6 +22022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
 | Multiverse | 377183 | [377183-multiverse.json](./377183-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
+| Multiverse All Star Fighters! | 421947 | [421947-multiverse-all-star-fighters.json](./421947-multiverse-all-star-fighters.json) |
 | Multiverse Battle Royale | 292334 | [292334-multiverse-battle-royale.json](./292334-multiverse-battle-royale.json) |
 | Multiverse Crush | 258137 | [258137-multiverse-crush.json](./258137-multiverse-crush.json) |
 | Multiverse Designer | 372219 | [372219-multiverse-designer.json](./372219-multiverse-designer.json) |
