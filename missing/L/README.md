@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lea Born for Adventure | 89301 | [89301-lea-born-for-adventure.json](./89301-lea-born-for-adventure.json) |
 | Lead | 258843 | [258843-lead.json](./258843-lead.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
+| Lead Foot | 424965 | [424965-lead-foot.json](./424965-lead-foot.json) |
 | Lead Haul | 185066 | [185066-lead-haul.json](./185066-lead-haul.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
 | Lead Soldier | 270616 | [270616-lead-soldier.json](./270616-lead-soldier.json) |
@@ -3129,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Dragon Slayer | 395304 | [395304-legend-of-the-dragon-slayer.json](./395304-legend-of-the-dragon-slayer.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
+| Legend of the Galactic Heroes: Rondo of War | 424954 | [424954-legend-of-the-galactic-heroes-rondo-of-war.json](./424954-legend-of-the-galactic-heroes-rondo-of-war.json) |
 | Legend of the Ghost Lion | 73926 | [73926-legend-of-the-ghost-lion.json](./73926-legend-of-the-ghost-lion.json) |
 | Legend of the Hidden Tech | 257173 | [257173-legend-of-the-hidden-tech.json](./257173-legend-of-the-hidden-tech.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
@@ -8578,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Craft | 116090 | [116090-loop-craft.json](./116090-loop-craft.json) |
 | Loop Drive | 239249 | [239249-loop-drive.json](./239249-loop-drive.json) |
 | Loop Dungeon | 248321 | [248321-loop-dungeon.json](./248321-loop-dungeon.json) |
+| Loop Dungeon: Incremental | 424997 | [424997-loop-dungeon-incremental.json](./424997-loop-dungeon-incremental.json) |
 | Loop Eraser | 92109 | [92109-loop-eraser.json](./92109-loop-eraser.json) |
 | Loop Firefighters | 388362 | [388362-loop-firefighters.json](./388362-loop-firefighters.json) |
 | Loop Frogs | 284893 | [284893-loop-frogs.json](./284893-loop-frogs.json) |
