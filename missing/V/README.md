@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Gogh Museum | 181445 | [181445-van-gogh-museum.json](./181445-van-gogh-museum.json) |
 | Van Gogh's Masterpiece Jigsaw Puzzles | 286240 | [286240-van-goghs-masterpiece-jigsaw-puzzles.json](./286240-van-goghs-masterpiece-jigsaw-puzzles.json) |
 | Van Hellswing | 247869 | [247869-van-hellswing.json](./247869-van-hellswing.json) |
+| Van Helsing | 248620 | [248620-van-helsing.json](./248620-van-helsing.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Helsing: Hunter or Hunted | 297399 | [297399-van-helsing-hunter-or-hunted.json](./297399-van-helsing-hunter-or-hunted.json) |
