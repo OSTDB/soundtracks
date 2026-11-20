@@ -7458,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
 | Europa Universalis III: Napoleon's Ambition | 10269 | [10269-europa-universalis-iii-napoleons-ambition.json](./10269-europa-universalis-iii-napoleons-ambition.json) |
 | Europa Universalis IV Collection | 52968 | [52968-europa-universalis-iv-collection.json](./52968-europa-universalis-iv-collection.json) |
+| Europa Universalis IV: 10th Anniversary Community Music Pack | 430591 | [430591-europa-universalis-iv-10th-anniversary-community-music-pack.json](./430591-europa-universalis-iv-10th-anniversary-community-music-pack.json) |
 | Europa Universalis IV: American Dream | 170118 | [170118-europa-universalis-iv-american-dream.json](./170118-europa-universalis-iv-american-dream.json) |
 | Europa Universalis IV: Art of War | 10282 | [10282-europa-universalis-iv-art-of-war.json](./10282-europa-universalis-iv-art-of-war.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Evangelical Majors Unit Pack | 170117 | [170117-europa-universalis-iv-evangelical-majors-unit-pack.json](./170117-europa-universalis-iv-evangelical-majors-unit-pack.json) |
 | Europa Universalis IV: Evangelical Union Unit Pack | 155316 | [155316-europa-universalis-iv-evangelical-union-unit-pack.json](./155316-europa-universalis-iv-evangelical-union-unit-pack.json) |
 | Europa Universalis IV: Extreme Edition | 53008 | [53008-europa-universalis-iv-extreme-edition.json](./53008-europa-universalis-iv-extreme-edition.json) |
+| Europa Universalis IV: Fredman's Epistles | 430580 | [430580-europa-universalis-iv-fredmans-epistles.json](./430580-europa-universalis-iv-fredmans-epistles.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
 | Europa Universalis IV: History Lessons Bundle | 254292 | [254292-europa-universalis-iv-history-lessons-bundle.json](./254292-europa-universalis-iv-history-lessons-bundle.json) |
 | Europa Universalis IV: Indian Ships Unit Pack | 155325 | [155325-europa-universalis-iv-indian-ships-unit-pack.json](./155325-europa-universalis-iv-indian-ships-unit-pack.json) |
