@@ -10184,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships | 125738 | [125738-ships.json](./125738-ships.json) |
 | Ships | 187826 | [187826-ships.json](./187826-ships.json) |
+| Ships 2017 | 25822 | [25822-ships-2017.json](./25822-ships-2017.json) |
 | Ships 2022 | 148897 | [148897-ships-2022.json](./148897-ships-2022.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships at Sea | 251741 | [251741-ships-at-sea.json](./251741-ships-at-sea.json) |
@@ -22252,6 +22253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Between Worlds | 108306 | [108306-space-between-worlds.json](./108306-space-between-worlds.json) |
 | Space Bit Attack | 19046 | [19046-space-bit-attack.json](./19046-space-bit-attack.json) |
+| Space Bits | 24550 | [24550-space-bits.json](./24550-space-bits.json) |
 | Space Blade | 266598 | [266598-space-blade.json](./266598-space-blade.json) |
 | Space Blast | 371794 | [371794-space-blast.json](./371794-space-blast.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
@@ -28162,6 +28164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek - Armada | 18902 | [18902-star-trek-armada.json](./18902-star-trek-armada.json) |
 | Star Trek Adversaries | 95638 | [95638-star-trek-adversaries.json](./95638-star-trek-adversaries.json) |
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
+| Star Trek Attack Wing | 24291 | [24291-star-trek-attack-wing.json](./24291-star-trek-attack-wing.json) |
 | Star Trek Bridge Crew: The Next Generation Bundle | 118846 | [118846-star-trek-bridge-crew-the-next-generation-bundle.json](./118846-star-trek-bridge-crew-the-next-generation-bundle.json) |
 | Star Trek Catan | 24191 | [24191-star-trek-catan.json](./24191-star-trek-catan.json) |
 | Star Trek First Contact | 362902 | [362902-star-trek-first-contact.json](./362902-star-trek-first-contact.json) |
@@ -28231,6 +28234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Outposts Unknown | 405102 | [405102-star-trek-outposts-unknown.json](./405102-star-trek-outposts-unknown.json) |
 | Star Trek: Phaser Strike | 68129 | [68129-star-trek-phaser-strike.json](./68129-star-trek-phaser-strike.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
+| Star Trek: Rivals | 24551 | [24551-star-trek-rivals.json](./24551-star-trek-rivals.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
 | Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
@@ -30112,6 +30116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
 | SteamWorld Heist: Hatbox - Hatful Eight + 2 | 124849 | [124849-steamworld-heist-hatbox-hatful-eight-2.json](./124849-steamworld-heist-hatbox-hatful-eight-2.json) |
+| SteamWorld Heist: The Outsider | 24420 | [24420-steamworld-heist-the-outsider.json](./24420-steamworld-heist-the-outsider.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
 | SteamWorld Quest: Hand of Gilgamech | 114415 | [114415-steamworld-quest-hand-of-gilgamech.json](./114415-steamworld-quest-hand-of-gilgamech.json) |
 | SteamWorld Tower Defense | 84391 | [84391-steamworld-tower-defense.json](./84391-steamworld-tower-defense.json) |
@@ -33880,6 +33885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Acres | 298196 | [298196-sudoku-acres.json](./298196-sudoku-acres.json) |
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
+| Sudoku Ball: Detective | 24349 | [24349-sudoku-ball-detective.json](./24349-sudoku-ball-detective.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
 | Sudoku Battle | 327665 | [327665-sudoku-battle.json](./327665-sudoku-battle.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
