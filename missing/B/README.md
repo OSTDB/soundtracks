@@ -8168,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Map | 332913 | [332913-beyond-the-map.json](./332913-beyond-the-map.json) |
 | Beyond the Marion | 338233 | [338233-beyond-the-marion.json](./338233-beyond-the-marion.json) |
 | Beyond the Mind | 103837 | [103837-beyond-the-mind.json](./103837-beyond-the-mind.json) |
+| Beyond the Mist | 426119 | [426119-beyond-the-mist.json](./426119-beyond-the-mist.json) |
 | Beyond The Mist: Beginnings | 327908 | [327908-beyond-the-mist-beginnings.json](./327908-beyond-the-mist-beginnings.json) |
 | Beyond the Mountains | 244201 | [244201-beyond-the-mountains.json](./244201-beyond-the-mountains.json) |
 | Beyond the Oaks | 270019 | [270019-beyond-the-oaks.json](./270019-beyond-the-oaks.json) |
