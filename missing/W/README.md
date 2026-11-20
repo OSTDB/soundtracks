@@ -1453,7 +1453,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Ultimate Edition | 118509 | [118509-warface-ultimate-edition.json](./118509-warface-ultimate-edition.json) |
 | Warfactory | 359655 | [359655-warfactory.json](./359655-warfactory.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
-| Warfare | 16048 | [16048-warfare.json](./16048-warfare.json) |
 | Warfare 1776 | 420976 | [420976-warfare-1776.json](./420976-warfare-1776.json) |
 | Warfare 1917 | 61588 | [61588-warfare-1917.json](./61588-warfare-1917.json) |
 | Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
@@ -6230,7 +6229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 2: Kitz (fawn) | 163274 | [163274-wildlife-park-2-kitz-fawn.json](./163274-wildlife-park-2-kitz-fawn.json) |
 | Wildlife Park 2: Marine World | 17549 | [17549-wildlife-park-2-marine-world.json](./17549-wildlife-park-2-marine-world.json) |
 | Wildlife Park 2: Ultimate Edition | 53913 | [53913-wildlife-park-2-ultimate-edition.json](./53913-wildlife-park-2-ultimate-edition.json) |
-| Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Africa | 168950 | [168950-wildlife-park-3-africa.json](./168950-wildlife-park-3-africa.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Amazonas | 168952 | [168952-wildlife-park-3-amazonas.json](./168952-wildlife-park-3-amazonas.json) |
@@ -6752,7 +6750,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings Over Europe: Cold War Gone Hot | 23120 | [23120-wings-over-europe-cold-war-gone-hot.json](./23120-wings-over-europe-cold-war-gone-hot.json) |
 | Wings Over Flanders Fields | 80656 | [80656-wings-over-flanders-fields.json](./80656-wings-over-flanders-fields.json) |
 | Wings Over Israel | 73071 | [73071-wings-over-israel.json](./73071-wings-over-israel.json) |
-| Wings over Vietnam | 16320 | [16320-wings-over-vietnam.json](./16320-wings-over-vietnam.json) |
 | Wings Over Water | 397864 | [397864-wings-over-water.json](./397864-wings-over-water.json) |
 | Wings Through Time | 174731 | [174731-wings-through-time.json](./174731-wings-through-time.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
@@ -9145,7 +9142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Championship Rugby | 6239 | [6239-world-championship-rugby.json](./6239-world-championship-rugby.json) |
 | World Championship Snooker | 72787 | [72787-world-championship-snooker.json](./72787-world-championship-snooker.json) |
 | World Championship Snooker 2002 | 72788 | [72788-world-championship-snooker-2002.json](./72788-world-championship-snooker-2002.json) |
-| World Championship Snooker 2003 | 14547 | [14547-world-championship-snooker-2003.json](./14547-world-championship-snooker-2003.json) |
 | World Championship Snooker 2004 | 70728 | [70728-world-championship-snooker-2004.json](./70728-world-championship-snooker-2004.json) |
 | World Championship Soccer | 18664 | [18664-world-championship-soccer.json](./18664-world-championship-soccer.json) |
 | World Championship Soccer | 300560 | [300560-world-championship-soccer.json](./300560-world-championship-soccer.json) |
