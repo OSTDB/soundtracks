@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Heroes | 4830 | [4830-emergency-heroes.json](./4830-emergency-heroes.json) |
 | Emergency HQ | 97760 | [97760-emergency-hq.json](./97760-emergency-hq.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
+| Emergency Jam | 418004 | [418004-emergency-jam.json](./418004-emergency-jam.json) |
 | Emergency Lüdenscheid | 346128 | [346128-emergency-ludenscheid.json](./346128-emergency-ludenscheid.json) |
 | Emergency Monster Team | 172441 | [172441-emergency-monster-team.json](./172441-emergency-monster-team.json) |
 | Emergency Parking Only | 246033 | [246033-emergency-parking-only.json](./246033-emergency-parking-only.json) |
