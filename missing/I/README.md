@@ -5902,7 +5902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Together | 426601 | [426601-interstellar-together.json](./426601-interstellar-together.json) |
 | Interstellar Trader 2 | 70727 | [70727-interstellar-trader-2.json](./70727-interstellar-trader-2.json) |
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
-| Interstellaria | 9044 | [9044-interstellaria.json](./9044-interstellaria.json) |
 | Interstice | 278263 | [278263-interstice.json](./278263-interstice.json) |
 | Interstice Academy: Love is Blind | 284735 | [284735-interstice-academy-love-is-blind.json](./284735-interstice-academy-love-is-blind.json) |
 | Interstice: Journey Into Darkness | 361945 | [361945-interstice-journey-into-darkness.json](./361945-interstice-journey-into-darkness.json) |
