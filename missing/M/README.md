@@ -3887,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
 | Marathon Infinity | 8711 | [8711-marathon-infinity.json](./8711-marathon-infinity.json) |
 | Marathon Recompiled | 358340 | [358340-marathon-recompiled.json](./358340-marathon-recompiled.json) |
+| Marathon Squadron | 422581 | [422581-marathon-squadron.json](./422581-marathon-squadron.json) |
 | Marathon Trilogy Box Set | 366152 | [366152-marathon-trilogy-box-set.json](./366152-marathon-trilogy-box-set.json) |
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marathon: Eternal X | 228484 | [228484-marathon-eternal-x.json](./228484-marathon-eternal-x.json) |
@@ -20206,6 +20207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mot's Grand Prix | 293749 | [293749-mots-grand-prix.json](./293749-mots-grand-prix.json) |
 | Mota Must Die | 397248 | [397248-mota-must-die.json](./397248-mota-must-die.json) |
 | Motamo | 361768 | [361768-motamo.json](./361768-motamo.json) |
+| Motapon | 422555 | [422555-motapon.json](./422555-motapon.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
 | Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
@@ -21432,6 +21434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meat: Horror Escape Room | 356633 | [356633-mr-meat-horror-escape-room.json](./356633-mr-meat-horror-escape-room.json) |
 | Mr. Meaty | 320747 | [320747-mr-meaty.json](./320747-mr-meaty.json) |
 | Mr. Meaty Hangman | 320751 | [320751-mr-meaty-hangman.json](./320751-mr-meaty-hangman.json) |
+| Mr. Meaty: Holiday Havoc! | 422523 | [422523-mr-meaty-holiday-havoc.json](./422523-mr-meaty-holiday-havoc.json) |
 | Mr. Meaty: Night of the Attack of the Flesh Hungry Meat Monsters | 320748 | [320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json](./320748-mr-meaty-night-of-the-attack-of-the-flesh-hungry-meat-monsters.json) |
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
 | Mr. Melk Winter Games | 262591 | [262591-mr-melk-winter-games.json](./262591-mr-melk-winter-games.json) |
