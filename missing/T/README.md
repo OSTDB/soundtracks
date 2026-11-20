@@ -16311,6 +16311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer Cometh! | 253472 | [253472-the-necromancer-cometh.json](./253472-the-necromancer-cometh.json) |
 | The Necromancer's Castle | 82462 | [82462-the-necromancers-castle.json](./82462-the-necromancers-castle.json) |
 | The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
+| The Necromancer's Tale | 167734 | [167734-the-necromancers-tale.json](./167734-the-necromancers-tale.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Necrons | 60281 | [60281-the-necrons.json](./60281-the-necrons.json) |
 | The Ned Balls | 113393 | [113393-the-ned-balls.json](./113393-the-ned-balls.json) |
@@ -23157,6 +23158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Final Cut | 199168 | [199168-this-war-of-mine-final-cut.json](./199168-this-war-of-mine-final-cut.json) |
 | This War of Mine: Forget Celebrations | 323204 | [323204-this-war-of-mine-forget-celebrations.json](./323204-this-war-of-mine-forget-celebrations.json) |
+| This War of Mine: Stories - Fading Embers | 155079 | [155079-this-war-of-mine-stories-fading-embers.json](./155079-this-war-of-mine-stories-fading-embers.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | This War of Mine: Stories - The Last Broadcast | 111646 | [111646-this-war-of-mine-stories-the-last-broadcast.json](./111646-this-war-of-mine-stories-the-last-broadcast.json) |
@@ -23882,6 +23884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
 | Thwocker | 77185 | [77185-thwocker.json](./77185-thwocker.json) |
+| Thy Creature | 166850 | [166850-thy-creature.json](./166850-thy-creature.json) |
 | Thy Dungeonman | 132037 | [132037-thy-dungeonman.json](./132037-thy-dungeonman.json) |
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
@@ -28069,6 +28072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together: Moon Escape | 366607 | [366607-together-moon-escape.json](./366607-together-moon-escape.json) |
 | Together: To Get Her | 121408 | [121408-together-to-get-her.json](./121408-together-to-get-her.json) |
 | Togges | 182117 | [182117-togges.json](./182117-togges.json) |
+| Toggle | 156714 | [156714-toggle.json](./156714-toggle.json) |
 | Toggle Cube | 207551 | [207551-toggle-cube.json](./207551-toggle-cube.json) |
 | Toggle Tile | 331601 | [331601-toggle-tile.json](./331601-toggle-tile.json) |
 | Togglebot | 387707 | [387707-togglebot.json](./387707-togglebot.json) |
@@ -36014,6 +36018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Gold | 32162 | [32162-trolley-gold.json](./32162-trolley-gold.json) |
 | Trolley Path to Gold | 288556 | [288556-trolley-path-to-gold.json](./288556-trolley-path-to-gold.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
+| Trolley Problem, Inc. | 159793 | [159793-trolley-problem-inc.json](./159793-trolley-problem-inc.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
 | Trolley Time | 360807 | [360807-trolley-time.json](./360807-trolley-time.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
