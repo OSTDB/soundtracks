@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
 | Magecraft: Spellbuilding | 347401 | [347401-magecraft-spellbuilding.json](./347401-magecraft-spellbuilding.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
+| Magehold Fairwinds | 423754 | [423754-magehold-fairwinds.json](./423754-magehold-fairwinds.json) |
 | Magehunter: Phoenix Flame | 250834 | [250834-magehunter-phoenix-flame.json](./250834-magehunter-phoenix-flame.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | Magellania | 143149 | [143149-magellania.json](./143149-magellania.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Amber: Tobi Tsukihime | 222742 | [222742-magical-amber-tobi-tsukihime.json](./222742-magical-amber-tobi-tsukihime.json) |
 | Magical Angel Fairy Flower | 289520 | [289520-magical-angel-fairy-flower.json](./289520-magical-angel-fairy-flower.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
+| Magical Ascent | 423748 | [423748-magical-ascent.json](./423748-magical-ascent.json) |
 | Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
 | Magical Bakery | 305078 | [305078-magical-bakery.json](./305078-magical-bakery.json) |
@@ -6630,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
 | Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
+| Matryoshka | 423785 | [423785-matryoshka.json](./423785-matryoshka.json) |
 | Matryoshka Strike | 59570 | [59570-matryoshka-strike.json](./59570-matryoshka-strike.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsukata Hiroki no Super Trawling | 37930 | [37930-matsukata-hiroki-no-super-trawling.json](./37930-matsukata-hiroki-no-super-trawling.json) |
@@ -17166,6 +17169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokis | 412678 | [412678-mokis.json](./412678-mokis.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
+| MokoFied | 423797 | [423797-mokofied.json](./423797-mokofied.json) |
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
 | Mokoko X | 191723 | [191723-mokoko-x.json](./191723-mokoko-x.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
