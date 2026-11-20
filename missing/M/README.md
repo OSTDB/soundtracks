@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machina of the Planet Tree -Planet Ruler- | 11539 | [11539-machina-of-the-planet-tree-planet-ruler.json](./11539-machina-of-the-planet-tree-planet-ruler.json) |
 | Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
 | Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
+| Machina Waking | 424312 | [424312-machina-waking.json](./424312-machina-waking.json) |
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machinarium & Creaks Bundle | 164571 | [164571-machinarium-and-creaks-bundle.json](./164571-machinarium-and-creaks-bundle.json) |
@@ -4376,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
 | Mario Forever Remake | 307667 | [307667-mario-forever-remake.json](./307667-mario-forever-remake.json) |
 | Mario Forever: Community Edition | 324070 | [324070-mario-forever-community-edition.json](./324070-mario-forever-community-edition.json) |
+| Mario Forever: Party Worlds Reimagined | 424322 | [424322-mario-forever-party-worlds-reimagined.json](./424322-mario-forever-party-worlds-reimagined.json) |
 | Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Game | 276419 | [276419-mario-game.json](./276419-mario-game.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
