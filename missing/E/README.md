@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Mechanica | 336163 | [336163-earth-mechanica.json](./336163-earth-mechanica.json) |
 | Earth Missile Defense System | 118246 | [118246-earth-missile-defense-system.json](./118246-earth-missile-defense-system.json) |
 | Earth Muncher | 95178 | [95178-earth-muncher.json](./95178-earth-muncher.json) |
+| Earth Must Die | 370698 | [370698-earth-must-die.json](./370698-earth-must-die.json) |
 | Earth New Fall | 408252 | [408252-earth-new-fall.json](./408252-earth-new-fall.json) |
 | Earth No More | 11579 | [11579-earth-no-more.json](./11579-earth-no-more.json) |
 | Earth of Oryn | 217206 | [217206-earth-of-oryn.json](./217206-earth-of-oryn.json) |
@@ -7264,6 +7265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto-cetera You no Maki | 344267 | [344267-eto-cetera-you-no-maki.json](./344267-eto-cetera-you-no-maki.json) |
 | Etoile Princesse | 70834 | [70834-etoile-princesse.json](./70834-etoile-princesse.json) |
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
+| Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etrange Overlord: Launch Edition | 401968 | [401968-etrange-overlord-launch-edition.json](./401968-etrange-overlord-launch-edition.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
@@ -9288,6 +9290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explorer: Adventure Awaits | 297925 | [297925-explorer-adventure-awaits.json](./297925-explorer-adventure-awaits.json) |
 | Explorer: Golden Empire | 247985 | [247985-explorer-golden-empire.json](./247985-explorer-golden-empire.json) |
 | Explorers | 322479 | [322479-explorers.json](./322479-explorers.json) |
+| Explorers Collection: The Oregon Trail & Carmen Sandiego Bundle | 353982 | [353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json](./353982-explorers-collection-the-oregon-trail-and-carmen-sandiego-bundle.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Palan | 416843 | [416843-explorers-of-palan.json](./416843-explorers-of-palan.json) |
 | Explorers of Space | 305452 | [305452-explorers-of-space.json](./305452-explorers-of-space.json) |
