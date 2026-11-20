@@ -5136,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
 | Death Delivery | 336764 | [336764-death-delivery.json](./336764-death-delivery.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
+| Death Denied | 426787 | [426787-death-denied.json](./426787-death-denied.json) |
 | Death Deserves Holidays | 182649 | [182649-death-deserves-holidays.json](./182649-death-deserves-holidays.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
 | Death Dream | 155361 | [155361-death-dream.json](./155361-death-dream.json) |
@@ -8453,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
+| Desktop Factory | 426790 | [426790-desktop-factory.json](./426790-desktop-factory.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
 | Desktop Farm Remastered | 367664 | [367664-desktop-farm-remastered.json](./367664-desktop-farm-remastered.json) |
 | Desktop Farm: Expansion Pack | 309297 | [309297-desktop-farm-expansion-pack.json](./309297-desktop-farm-expansion-pack.json) |
