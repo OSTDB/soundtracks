@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
 | Sakura Note | 67734 | [67734-sakura-note.json](./67734-sakura-note.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
+| Sakura Nova | 31022 | [31022-sakura-nova.json](./31022-sakura-nova.json) |
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
@@ -18011,6 +18012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Showdown | 184703 | [184703-snowball-showdown.json](./184703-snowball-showdown.json) |
 | Snowball Sunday | 57810 | [57810-snowball-sunday.json](./57810-snowball-sunday.json) |
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
+| Snowball! | 30835 | [30835-snowball.json](./30835-snowball.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballed: Crazy Downhill | 111953 | [111953-snowballed-crazy-downhill.json](./111953-snowballed-crazy-downhill.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
@@ -21647,6 +21649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulblade Ascendant | 397476 | [397476-soulblade-ascendant.json](./397476-soulblade-ascendant.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
+| Soulblight | 31229 | [31229-soulblight.json](./31229-soulblight.json) |
 | Soulbond | 269996 | [269996-soulbond.json](./269996-soulbond.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | Soulbound | 139578 | [139578-soulbound.json](./139578-soulbound.json) |
@@ -29622,6 +29625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starush | 418180 | [418180-starush.json](./418180-starush.json) |
+| Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | StarVaders | 237038 | [237038-starvaders.json](./237038-starvaders.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
