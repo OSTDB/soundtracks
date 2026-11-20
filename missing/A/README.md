@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lab of One's Own | 177848 | [177848-a-lab-of-ones-own.json](./177848-a-lab-of-ones-own.json) |
 | A Labyrinth Game / Supermind | 92166 | [92166-a-labyrinth-game-supermind.json](./92166-a-labyrinth-game-supermind.json) |
 | A Lakeside Walk in the Dolomites | 341085 | [341085-a-lakeside-walk-in-the-dolomites.json](./341085-a-lakeside-walk-in-the-dolomites.json) |
+| A Land Fit For Heroes | 22441 | [22441-a-land-fit-for-heroes.json](./22441-a-land-fit-for-heroes.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Lanterns Glow | 130422 | [130422-a-lanterns-glow.json](./130422-a-lanterns-glow.json) |
@@ -1826,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch's Word | 123280 | [123280-a-witchs-word.json](./123280-a-witchs-word.json) |
 | A Wizard's Curse | 416855 | [416855-a-wizards-curse.json](./416855-a-wizards-curse.json) |
 | A Wizard's Lizard | 11232 | [11232-a-wizards-lizard.json](./11232-a-wizards-lizard.json) |
+| A Wizard's Lizard: Soul Thief | 22376 | [22376-a-wizards-lizard-soul-thief.json](./22376-a-wizards-lizard-soul-thief.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wizardry Enchantment | 284175 | [284175-a-wizardry-enchantment.json](./284175-a-wizardry-enchantment.json) |
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
@@ -12047,6 +12049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaws: Japanese Women | 110734 | [110734-animated-jigsaws-japanese-women.json](./110734-animated-jigsaws-japanese-women.json) |
 | Animated Jigsaws: Wild Animals | 114205 | [114205-animated-jigsaws-wild-animals.json](./114205-animated-jigsaws-wild-animals.json) |
 | Animated Money | 344071 | [344071-animated-money.json](./344071-animated-money.json) |
+| Animated Puzzles | 22396 | [22396-animated-puzzles.json](./22396-animated-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
 | Animated Strip Poker | 13324 | [13324-animated-strip-poker.json](./13324-animated-strip-poker.json) |
@@ -16506,6 +16509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Core VI: Fires of Rubicon - Premium Edition | 263370 | [263370-armored-core-vi-fires-of-rubicon-premium-edition.json](./263370-armored-core-vi-fires-of-rubicon-premium-edition.json) |
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
+| Armored Core: Formula Front | 22594 | [22594-armored-core-formula-front.json](./22594-armored-core-formula-front.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Core: Last Raven Portable | 38480 | [38480-armored-core-last-raven-portable.json](./38480-armored-core-last-raven-portable.json) |
@@ -16986,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
+| Art Style: Aquia | 22537 | [22537-art-style-aquia.json](./22537-art-style-aquia.json) |
 | Art Style: Base 10 | 84764 | [84764-art-style-base-10.json](./84764-art-style-base-10.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
@@ -18102,6 +18107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
 | Assault Gunners: HD Edition - Complete Set | 87856 | [87856-assault-gunners-hd-edition-complete-set.json](./87856-assault-gunners-hd-edition-complete-set.json) |
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
+| Assault Heroes 2 | 22592 | [22592-assault-heroes-2.json](./22592-assault-heroes-2.json) |
 | Assault Lily Last Bullet | 139086 | [139086-assault-lily-last-bullet.json](./139086-assault-lily-last-bullet.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault of the Robots | 116701 | [116701-assault-of-the-robots.json](./116701-assault-of-the-robots.json) |
