@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
 | Backrooms: Spirits of the Forgotten | 318682 | [318682-backrooms-spirits-of-the-forgotten.json](./318682-backrooms-spirits-of-the-forgotten.json) |
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
+| Backrooms: Steal the Furniture | 423185 | [423185-backrooms-steal-the-furniture.json](./423185-backrooms-steal-the-furniture.json) |
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
 | Backrooms: The Deep Dark | 407814 | [407814-backrooms-the-deep-dark.json](./407814-backrooms-the-deep-dark.json) |
