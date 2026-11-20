@@ -17844,6 +17844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonStrike | 5467 | [5467-dragonstrike.json](./5467-dragonstrike.json) |
 | Dragonsweeper | 328076 | [328076-dragonsweeper.json](./328076-dragonsweeper.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
+| DragonSword: Awakening - Costume: Black-Dyed Vestment | 427935 | [427935-dragonsword-awakening-costume-black-dyed-vestment.json](./427935-dragonsword-awakening-costume-black-dyed-vestment.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragontwin | 328849 | [328849-dragontwin.json](./328849-dragontwin.json) |
 | DragonVale | 22705 | [22705-dragonvale.json](./22705-dragonvale.json) |
