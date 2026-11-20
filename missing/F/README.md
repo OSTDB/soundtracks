@@ -5646,6 +5646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Combat | 48357 | [48357-final-combat.json](./48357-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
+| Final Commit | 424420 | [424420-final-commit.json](./424420-final-commit.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
 | Final Contract | 290874 | [290874-final-contract.json](./290874-final-contract.json) |
 | Final Core | 30502 | [30502-final-core.json](./30502-final-core.json) |
