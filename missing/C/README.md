@@ -7970,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessBase 16: Steam Edition | 404591 | [404591-chessbase-16-steam-edition.json](./404591-chessbase-16-steam-edition.json) |
 | ChessBlaze | 337281 | [337281-chessblaze.json](./337281-chessblaze.json) |
 | Chessboard Kingdoms | 109556 | [109556-chessboard-kingdoms.json](./109556-chessboard-kingdoms.json) |
+| Chessboxing | 424067 | [424067-chessboxing.json](./424067-chessboxing.json) |
 | Chesscake | 132626 | [132626-chesscake.json](./132626-chesscake.json) |
 | Chesscape Room | 378891 | [378891-chesscape-room.json](./378891-chesscape-room.json) |
 | Chesscent | 406666 | [406666-chesscent.json](./406666-chesscent.json) |
@@ -11618,6 +11619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayFighter: Sculptor's Cut | 3461 | [3461-clayfighter-sculptors-cut.json](./3461-clayfighter-sculptors-cut.json) |
 | ClayFighter: Tournament Edition | 42616 | [42616-clayfighter-tournament-edition.json](./42616-clayfighter-tournament-edition.json) |
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
+| Claymo | 424331 | [424331-claymo.json](./424331-claymo.json) |
 | Claymore | 93919 | [93919-claymore.json](./93919-claymore.json) |
 | Claymore: Gingan no Majo | 123300 | [123300-claymore-gingan-no-majo.json](./123300-claymore-gingan-no-majo.json) |
 | Claymores of the Lost Kingdom | 258289 | [258289-claymores-of-the-lost-kingdom.json](./258289-claymores-of-the-lost-kingdom.json) |
@@ -18081,6 +18083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courier Tale | 202171 | [202171-courier-tale.json](./202171-courier-tale.json) |
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Course of Temptation | 321249 | [321249-course-of-temptation.json](./321249-course-of-temptation.json) |
+| CourseCraze | 424330 | [424330-coursecraze.json](./424330-coursecraze.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Crowns | 207561 | [207561-court-of-crowns.json](./207561-court-of-crowns.json) |
 | Court of Darkness | 228937 | [228937-court-of-darkness.json](./228937-court-of-darkness.json) |
@@ -20694,6 +20697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossed Swords II | 47588 | [47588-crossed-swords-ii.json](./47588-crossed-swords-ii.json) |
 | Crossed Tiles | 391696 | [391696-crossed-tiles.json](./391696-crossed-tiles.json) |
 | Crossed Wires | 291191 | [291191-crossed-wires.json](./291191-crossed-wires.json) |
+| Crossed Worlds: The Magic Pen | 424068 | [424068-crossed-worlds-the-magic-pen.json](./424068-crossed-worlds-the-magic-pen.json) |
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | Crosser | 121550 | [121550-crosser.json](./121550-crosser.json) |
 | Crossfar | 207640 | [207640-crossfar.json](./207640-crossfar.json) |
