@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
 | Reflections | 22506 | [22506-reflections.json](./22506-reflections.json) |
 | Reflections in Amber | 399672 | [399672-reflections-in-amber.json](./399672-reflections-in-amber.json) |
+| Reflections in Red | 423757 | [423757-reflections-in-red.json](./423757-reflections-in-red.json) |
 | Reflections Life: Equilibrium | 106451 | [106451-reflections-life-equilibrium.json](./106451-reflections-life-equilibrium.json) |
 | Reflections of Life: A Shattered Heart | 416532 | [416532-reflections-of-life-a-shattered-heart.json](./416532-reflections-of-life-a-shattered-heart.json) |
 | Reflections of Life: Call of the Ancestors | 187954 | [187954-reflections-of-life-call-of-the-ancestors.json](./187954-reflections-of-life-call-of-the-ancestors.json) |
@@ -12915,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotolla Mono | 413020 | [413020-rotolla-mono.json](./413020-rotolla-mono.json) |
 | Rotor | 13255 | [13255-rotor.json](./13255-rotor.json) |
 | Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
+| Rotor City | 423772 | [423772-rotor-city.json](./423772-rotor-city.json) |
 | Rotor Raiders | 44362 | [44362-rotor-raiders.json](./44362-rotor-raiders.json) |
 | Rotor Rescue Choplifter | 413851 | [413851-rotor-rescue-choplifter.json](./413851-rotor-rescue-choplifter.json) |
 | Rotor Rush | 77805 | [77805-rotor-rush.json](./77805-rotor-rush.json) |
