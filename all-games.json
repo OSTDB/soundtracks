@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T02:15:56.300Z",
-  "total_soundtracks": 3863,
+  "generated_at": "2026-11-20T03:26:06.944Z",
+  "total_soundtracks": 3865,
   "games": [
     {
       "igdb_id": 292844,
@@ -20219,6 +20219,20 @@
       ]
     },
     {
+      "igdb_id": 15902,
+      "game_name": "Hyperdrive Massacre",
+      "game_url": "https://ostdb.net/games/hyperdrive-massacre",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733b2215a929f615bc3ae6cc5d",
+      "albums": [
+        {
+          "album_name": "Hyperdrive Massacre (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1dW5Q2OotSmrtt7k9YSsjE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 96727,
       "game_name": "Hyperforma",
       "game_url": "https://ostdb.net/games/hyperforma",
@@ -27133,6 +27147,20 @@
         {
           "album_name": "Murderous Pursuits (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0c5OzZG8JB01NithjpPHzY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15914,
+      "game_name": "Muscle March",
+      "game_url": "https://ostdb.net/games/muscle-march",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273800408d56aaddfe6b17ccf84",
+      "albums": [
+        {
+          "album_name": "Muscle March Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/57t6gEWodU4RMcMfceKuA8",
           "apple_music_url": "",
           "album_link_url": ""
         }
