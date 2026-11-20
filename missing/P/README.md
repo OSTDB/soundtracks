@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palisade Guardian | 387946 | [387946-palisade-guardian.json](./387946-palisade-guardian.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palitron | 58199 | [58199-palitron.json](./58199-palitron.json) |
+| Palix Transit | 427936 | [427936-palix-transit.json](./427936-palix-transit.json) |
 | Palladise Island | 153066 | [153066-palladise-island.json](./153066-palladise-island.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Palladium | 250813 | [250813-palladium.json](./250813-palladium.json) |
@@ -4428,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek-A-Boo | 282765 | [282765-peek-a-boo.json](./282765-peek-a-boo.json) |
 | Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
 | Peek-a-Boo! | 40407 | [40407-peek-a-boo.json](./40407-peek-a-boo.json) |
+| Peek-A-Mimic | 427929 | [427929-peek-a-mimic.json](./427929-peek-a-mimic.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
 | Peekablock | 414002 | [414002-peekablock.json](./414002-peekablock.json) |
 | Peekaboo | 337585 | [337585-peekaboo.json](./337585-peekaboo.json) |
