@@ -9402,6 +9402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Evo | 236108 | [236108-alter-evo.json](./236108-alter-evo.json) |
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
+| Alter-Egoism of Apocalypse | 423143 | [423143-alter-egoism-of-apocalypse.json](./423143-alter-egoism-of-apocalypse.json) |
 | Alter: Between Two Worlds | 283006 | [283006-alter-between-two-worlds.json](./283006-alter-between-two-worlds.json) |
 | Altera | 88385 | [88385-altera.json](./88385-altera.json) |
 | Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
@@ -10501,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
 | Amp | 266577 | [266577-amp.json](./266577-amp.json) |
 | Amp! | 176563 | [176563-amp.json](./176563-amp.json) |
+| Ampanic | 423146 | [423146-ampanic.json](./423146-ampanic.json) |
 | Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
@@ -15300,6 +15302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
 | Arcanum Knights | 125512 | [125512-arcanum-knights.json](./125512-arcanum-knights.json) |
+| Arcanum Solitarius | 423164 | [423164-arcanum-solitarius.json](./423164-arcanum-solitarius.json) |
 | Arcanum: of Steamworks and Magick Obscura | 255 | [255-arcanum-of-steamworks-and-magick-obscura.json](./255-arcanum-of-steamworks-and-magick-obscura.json) |
 | Arcanum: Theory of Magic | 328899 | [328899-arcanum-theory-of-magic.json](./328899-arcanum-theory-of-magic.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
@@ -18534,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraaal | 133270 | [133270-astraaal.json](./133270-astraaal.json) |
 | Astracraft | 142615 | [142615-astracraft.json](./142615-astracraft.json) |
+| AstraCube | 423144 | [423144-astracube.json](./423144-astracube.json) |
 | Astrae Oratio | 403926 | [403926-astrae-oratio.json](./403926-astrae-oratio.json) |
 | Astraea | 219713 | [219713-astraea.json](./219713-astraea.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
