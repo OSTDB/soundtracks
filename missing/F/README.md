@@ -3448,7 +3448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast RMX | 26816 | [26816-fast-rmx.json](./26816-fast-rmx.json) |
 | Fast Rolling | 77178 | [77178-fast-rolling.json](./77178-fast-rolling.json) |
 | Fast Running | 311183 | [311183-fast-running.json](./311183-fast-running.json) |
-| Fast Striker | 9125 | [9125-fast-striker.json](./9125-fast-striker.json) |
 | Fast Striker 1.5 | 45787 | [45787-fast-striker-1-5.json](./45787-fast-striker-1-5.json) |
 | Fast Striker: Limited Edition | 166998 | [166998-fast-striker-limited-edition.json](./166998-fast-striker-limited-edition.json) |
 | Fast Tracks: The Computer Slot Car Construction Kit | 131157 | [131157-fast-tracks-the-computer-slot-car-construction-kit.json](./131157-fast-tracks-the-computer-slot-car-construction-kit.json) |
@@ -6130,7 +6129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Signature | 361956 | [361956-final-signature.json](./361956-final-signature.json) |
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
 | Final Sky | 59819 | [59819-final-sky.json](./59819-final-sky.json) |
-| Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
 | Final Slam II | 61494 | [61494-final-slam-ii.json](./61494-final-slam-ii.json) |
 | Final Soccer VR - Previously Final Goalie | 30552 | [30552-final-soccer-vr-previously-final-goalie.json](./30552-final-soccer-vr-previously-final-goalie.json) |
 | Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
@@ -11772,8 +11770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One 04 | 8302 | [8302-formula-one-04.json](./8302-formula-one-04.json) |
 | Formula One 2000 | 204232 | [204232-formula-one-2000.json](./204232-formula-one-2000.json) |
 | Formula One 2001 | 8299 | [8299-formula-one-2001.json](./8299-formula-one-2001.json) |
-| Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
-| Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
 | Formula One Arcade | 66335 | [66335-formula-one-arcade.json](./66335-formula-one-arcade.json) |
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
@@ -13075,7 +13071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
 | Franchise Hockey Manager 13 | 422348 | [422348-franchise-hockey-manager-13.json](./422348-franchise-hockey-manager-13.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
-| Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
 | Franchise Hockey Manager 3 | 25655 | [25655-franchise-hockey-manager-3.json](./25655-franchise-hockey-manager-3.json) |
 | Franchise Hockey Manager 4 | 69422 | [69422-franchise-hockey-manager-4.json](./69422-franchise-hockey-manager-4.json) |
 | Franchise Hockey Manager 5 | 110453 | [110453-franchise-hockey-manager-5.json](./110453-franchise-hockey-manager-5.json) |
