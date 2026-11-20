@@ -3168,6 +3168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elminage II DS Remix: Sousei no Megami to Unmei no Daichi | 21028 | [21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json](./21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json) |
 | Elminage II: Sousei no Megami to Unmei no Daichi | 21027 | [21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json](./21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json) |
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
+| Elminage Mobile: Fukkatsu no Majo to Seinaru Hana | 418788 | [418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json](./418788-elminage-mobile-fukkatsu-no-majo-to-seinaru-hana.json) |
 | Elminage: Yami no Miko to Kamigami no Yubiwa | 21025 | [21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json](./21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elmo Calls | 87337 | [87337-elmo-calls.json](./87337-elmo-calls.json) |
 | Elmo Loves 123s | 88971 | [88971-elmo-loves-123s.json](./88971-elmo-loves-123s.json) |
@@ -3911,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Employee of the Month | 202550 | [202550-employee-of-the-month.json](./202550-employee-of-the-month.json) |
 | Employee Recycling Center | 36463 | [36463-employee-recycling-center.json](./36463-employee-recycling-center.json) |
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
+| Employee: Mika | 418812 | [418812-employee-mika.json](./418812-employee-mika.json) |
 | Empolicy | 290736 | [290736-empolicy.json](./290736-empolicy.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
 | Empous | 373262 | [373262-empous.json](./373262-empous.json) |
@@ -4854,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkindle | 294925 | [294925-enkindle.json](./294925-enkindle.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
+| Enkyori Renai | 418794 | [418794-enkyori-renai.json](./418794-enkyori-renai.json) |
 | Enlight Strategy Bundle | 429527 | [429527-enlight-strategy-bundle.json](./429527-enlight-strategy-bundle.json) |
 | Enlighten The Darkness: Again | 273242 | [273242-enlighten-the-darkness-again.json](./273242-enlighten-the-darkness-again.json) |
 | Enlighten: Learn the Art of Learning | 143866 | [143866-enlighten-learn-the-art-of-learning.json](./143866-enlighten-learn-the-art-of-learning.json) |
