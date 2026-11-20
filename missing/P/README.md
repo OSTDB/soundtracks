@@ -8539,6 +8539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
 | Pip Puzzle | 358032 | [358032-pip-puzzle.json](./358032-pip-puzzle.json) |
 | Pip Puzzle: Pip and Ooma's Battle | 342946 | [342946-pip-puzzle-pip-and-oomas-battle.json](./342946-pip-puzzle-pip-and-oomas-battle.json) |
+| Pip Sellfish | 424406 | [424406-pip-sellfish.json](./424406-pip-sellfish.json) |
 | Pip X | 231142 | [231142-pip-x.json](./231142-pip-x.json) |
 | Pip XL | 234235 | [234235-pip-xl.json](./234235-pip-xl.json) |
 | Pip: Battle for the Arctic | 240723 | [240723-pip-battle-for-the-arctic.json](./240723-pip-battle-for-the-arctic.json) |
@@ -18367,6 +18368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Nautilus | 199399 | [199399-project-nautilus.json](./199399-project-nautilus.json) |
 | Project Nebula | 282074 | [282074-project-nebula.json](./282074-project-nebula.json) |
+| Project Nebula | 424410 | [424410-project-nebula.json](./424410-project-nebula.json) |
 | Project Nebula | 44344 | [44344-project-nebula.json](./44344-project-nebula.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
 | Project Neos | 406177 | [406177-project-neos.json](./406177-project-neos.json) |
