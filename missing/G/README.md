@@ -6204,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomedrome | 202575 | [202575-gnomedrome.json](./202575-gnomedrome.json) |
 | Gnomelings: Migration | 41130 | [41130-gnomelings-migration.json](./41130-gnomelings-migration.json) |
 | Gnomemade | 291895 | [291895-gnomemade.json](./291895-gnomemade.json) |
+| Gnomenclature | 421310 | [421310-gnomenclature.json](./421310-gnomenclature.json) |
 | Gnomepunk | 145994 | [145994-gnomepunk.json](./145994-gnomepunk.json) |
 | Gnomer | 310321 | [310321-gnomer.json](./310321-gnomer.json) |
 | Gnomes | 312792 | [312792-gnomes.json](./312792-gnomes.json) |
