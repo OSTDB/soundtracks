@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mini Falafel Adventure | 56880 | [56880-a-mini-falafel-adventure.json](./56880-a-mini-falafel-adventure.json) |
 | A Mining Game | 120861 | [120861-a-mining-game.json](./120861-a-mining-game.json) |
 | A Minor Pest Problem | 363120 | [363120-a-minor-pest-problem.json](./363120-a-minor-pest-problem.json) |
+| A Mirror Apart | 421301 | [421301-a-mirror-apart.json](./421301-a-mirror-apart.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
 | A Missing Salesman | 301792 | [301792-a-missing-salesman.json](./301792-a-missing-salesman.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
 | Ablah | 106906 | [106906-ablah.json](./106906-ablah.json) |
+| Ablation | 420887 | [420887-ablation.json](./420887-ablation.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablaze | 272130 | [272130-ablaze.json](./272130-ablaze.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
@@ -4175,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
+| Advancing Legion | 421306 | [421306-advancing-legion.json](./421306-advancing-legion.json) |
 | Advancity | 132913 | [132913-advancity.json](./132913-advancity.json) |
 | Advantage Tennis | 11888 | [11888-advantage-tennis.json](./11888-advantage-tennis.json) |
 | Advaria: Chronicles of Immortality | 283898 | [283898-advaria-chronicles-of-immortality.json](./283898-advaria-chronicles-of-immortality.json) |
@@ -18253,6 +18256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterigos: Curse of the Stars - Ultimate Edition | 216376 | [216376-asterigos-curse-of-the-stars-ultimate-edition.json](./216376-asterigos-curse-of-the-stars-ultimate-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterion | 110623 | [110623-asterion.json](./110623-asterion.json) |
+| Asteris | 421364 | [421364-asteris.json](./421364-asteris.json) |
 | Asteris-K | 190766 | [190766-asteris-k.json](./190766-asteris-k.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterisk 2: Next Now a Day | 387389 | [387389-asterisk-2-next-now-a-day.json](./387389-asterisk-2-next-now-a-day.json) |
