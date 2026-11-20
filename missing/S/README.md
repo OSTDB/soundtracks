@@ -17311,6 +17311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake It 'Til You Make It | 153833 | [153833-snake-it-til-you-make-it.json](./153833-snake-it-til-you-make-it.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake King | 340358 | [340358-snake-king.json](./340358-snake-king.json) |
+| Snake King | 421972 | [421972-snake-king.json](./421972-snake-king.json) |
 | Snake Line | 100893 | [100893-snake-line.json](./100893-snake-line.json) |
 | Snake Man's Adventure | 158066 | [158066-snake-mans-adventure.json](./158066-snake-mans-adventure.json) |
 | Snake Memory | 422751 | [422751-snake-memory.json](./422751-snake-memory.json) |
@@ -21319,6 +21320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
 | Sort of Paradise | 429779 | [429779-sort-of-paradise.json](./429779-sort-of-paradise.json) |
+| Sort The Bunnies | 421974 | [421974-sort-the-bunnies.json](./421974-sort-the-bunnies.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
@@ -24201,6 +24203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Gene | 44671 | [44671-spectral-gene.json](./44671-spectral-gene.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
+| Spectral Map | 421888 | [421888-spectral-map.json](./421888-spectral-map.json) |
 | Spectral Panic | 137204 | [137204-spectral-panic.json](./137204-spectral-panic.json) |
 | Spectral Prison | 318877 | [318877-spectral-prison.json](./318877-spectral-prison.json) |
 | Spectral Protocol | 350363 | [350363-spectral-protocol.json](./350363-spectral-protocol.json) |
@@ -29054,6 +29057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starkheim Tournament | 270901 | [270901-starkheim-tournament.json](./270901-starkheim-tournament.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | Starl 11: The Fog Loop | 415819 | [415819-starl-11-the-fog-loop.json](./415819-starl-11-the-fog-loop.json) |
+| StarL 9 Ashes Of The Past | 421883 | [421883-starl-9-ashes-of-the-past.json](./421883-starl-9-ashes-of-the-past.json) |
 | Starl Metaverse Project | 229284 | [229284-starl-metaverse-project.json](./229284-starl-metaverse-project.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
@@ -30847,6 +30851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Knight | 240852 | [240852-stick-knight.json](./240852-stick-knight.json) |
 | Stick Knight | 344809 | [344809-stick-knight.json](./344809-stick-knight.json) |
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
+| Stick Life: The Daily Grind | 421890 | [421890-stick-life-the-daily-grind.json](./421890-stick-life-the-daily-grind.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick Man: Helping Santa | 90968 | [90968-stick-man-helping-santa.json](./90968-stick-man-helping-santa.json) |
@@ -31390,6 +31395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
 | Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
+| Stonefeather | 421894 | [421894-stonefeather.json](./421894-stonefeather.json) |
 | Stonefly: Collector's Edition | 254225 | [254225-stonefly-collectors-edition.json](./254225-stonefly-collectors-edition.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stonegeon | 200872 | [200872-stonegeon.json](./200872-stonegeon.json) |
@@ -35922,6 +35928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
+| Super Flávio World | 421979 | [421979-super-flavio-world.json](./421979-super-flavio-world.json) |
 | Super Flip | 25306 | [25306-super-flip.json](./25306-super-flip.json) |
 | Super Flipman Adventure World | 25887 | [25887-super-flipman-adventure-world.json](./25887-super-flipman-adventure-world.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
