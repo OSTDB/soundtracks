@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Trivia Tournament | 238867 | [238867-in-flight-trivia-tournament.json](./238867-in-flight-trivia-tournament.json) |
 | In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
 | In-Terror-Gation | 280960 | [280960-in-terror-gation.json](./280960-in-terror-gation.json) |
+| In-Vert | 56592 | [56592-in-vert.json](./56592-in-vert.json) |
 | In:Dark Recall | 401591 | [401591-in-dark-recall.json](./401591-in-dark-recall.json) |
 | In.My.Mind | 115986 | [115986-in-my-mind.json](./115986-in-my-mind.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
@@ -4023,6 +4024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
 | IndyCar Series 2005 | 23543 | [23543-indycar-series-2005.json](./23543-indycar-series-2005.json) |
+| Indygo | 55632 | [55632-indygo.json](./55632-indygo.json) |
 | Inearth | 424662 | [424662-inearth.json](./424662-inearth.json) |
 | Ineffable escape | 176943 | [176943-ineffable-escape.json](./176943-ineffable-escape.json) |
 | iNeko | 84453 | [84453-ineko.json](./84453-ineko.json) |
