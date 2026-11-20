@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayon Riddles: Rise of the Goblin King | 33762 | [33762-rayon-riddles-rise-of-the-goblin-king.json](./33762-rayon-riddles-rise-of-the-goblin-king.json) |
 | Raysing! | 423969 | [423969-raysing.json](./423969-raysing.json) |
 | RayStorm HD | 47448 | [47448-raystorm-hd.json](./47448-raystorm-hd.json) |
+| RayStorm Neo-HD | 418776 | [418776-raystorm-neo-hd.json](./418776-raystorm-neo-hd.json) |
 | RayStorm x RayCrisis HD Collection | 240039 | [240039-raystorm-x-raycrisis-hd-collection.json](./240039-raystorm-x-raycrisis-hd-collection.json) |
 | Raywin | 34891 | [34891-raywin.json](./34891-raywin.json) |
 | Rayxanber | 92647 | [92647-rayxanber.json](./92647-rayxanber.json) |
