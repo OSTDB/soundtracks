@@ -4633,6 +4633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelsprung | 340856 | [340856-wheelsprung.json](./340856-wheelsprung.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
+| Wheely | 30715 | [30715-wheely.json](./30715-wheely.json) |
 | Wheely 4: Time Travel | 102004 | [102004-wheely-4-time-travel.json](./102004-wheely-4-time-travel.json) |
 | Wheely 5: Armageddon | 101901 | [101901-wheely-5-armageddon.json](./101901-wheely-5-armageddon.json) |
 | Wheely World | 109265 | [109265-wheely-world.json](./109265-wheely-world.json) |
@@ -5888,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Americas | 247979 | [247979-wild-americas.json](./247979-wild-americas.json) |
 | Wild Angels: Episode 1 | 282209 | [282209-wild-angels-episode-1.json](./282209-wild-angels-episode-1.json) |
 | Wild Animal Racing | 34784 | [34784-wild-animal-racing.json](./34784-wild-animal-racing.json) |
+| Wild Animals - Animated Jigsaws | 30862 | [30862-wild-animals-animated-jigsaws.json](./30862-wild-animals-animated-jigsaws.json) |
 | Wild Animals Kingdom Battle Simulator 2018 | 102458 | [102458-wild-animals-kingdom-battle-simulator-2018.json](./102458-wild-animals-kingdom-battle-simulator-2018.json) |
 | Wild Animals Transporter | 294334 | [294334-wild-animals-transporter.json](./294334-wild-animals-transporter.json) |
 | Wild Area | 237226 | [237226-wild-area.json](./237226-wild-area.json) |
