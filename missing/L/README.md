@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazlet | 82550 | [82550-lazlet.json](./82550-lazlet.json) |
 | Lazlos' Leap | 61363 | [61363-lazlos-leap.json](./61363-lazlos-leap.json) |
+| Lazors | 24471 | [24471-lazors.json](./24471-lazors.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazriel the Demon's Fall | 195968 | [195968-lazriel-the-demons-fall.json](./195968-lazriel-the-demons-fall.json) |
 | LazuLight: By Your Side | 201749 | [201749-lazulight-by-your-side.json](./201749-lazulight-by-your-side.json) |
