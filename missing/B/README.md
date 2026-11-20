@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basted | 67666 | [67666-basted.json](./67666-basted.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
 | Bastet | 56985 | [56985-bastet.json](./56985-bastet.json) |
+| Bastide | 120723 | [120723-bastide.json](./120723-bastide.json) |
 | Bastion Frontier | 353948 | [353948-bastion-frontier.json](./353948-bastion-frontier.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bastion of the Underworld | 271358 | [271358-bastion-of-the-underworld.json](./271358-bastion-of-the-underworld.json) |
@@ -5764,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bears In Space | 158064 | [158064-bears-in-space.json](./158064-bears-in-space.json) |
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
+| Bears, Vodka, Balalaika! | 121397 | [121397-bears-vodka-balalaika.json](./121397-bears-vodka-balalaika.json) |
 | BearShark | 63405 | [63405-bearshark.json](./63405-bearshark.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearskull 2 | 373833 | [373833-bearskull-2.json](./373833-bearskull-2.json) |
@@ -5918,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Battle | 302796 | [302796-beat-battle.json](./302796-beat-battle.json) |
 | Beat Biome | 158321 | [158321-beat-biome.json](./158321-beat-biome.json) |
 | Beat Blade: Dash Dance | 182317 | [182317-beat-blade-dash-dance.json](./182317-beat-blade-dash-dance.json) |
+| Beat Blast | 121595 | [121595-beat-blast.json](./121595-beat-blast.json) |
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
@@ -10805,6 +10808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackstone Academy for the Magical Arts | 131757 | [131757-blackstone-academy-for-the-magical-arts.json](./131757-blackstone-academy-for-the-magical-arts.json) |
 | Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
+| Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
 | Blackthorn Arena: Gods of War | 164333 | [164333-blackthorn-arena-gods-of-war.json](./164333-blackthorn-arena-gods-of-war.json) |
 | Blackthorn Arena: Path of Kiren | 164335 | [164335-blackthorn-arena-path-of-kiren.json](./164335-blackthorn-arena-path-of-kiren.json) |
 | Blackthorn Arena: Reforged | 314434 | [314434-blackthorn-arena-reforged.json](./314434-blackthorn-arena-reforged.json) |
@@ -17417,6 +17421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers | 28707 | [28707-breakers.json](./28707-breakers.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
+| Breakers Collection | 121730 | [121730-breakers-collection.json](./121730-breakers-collection.json) |
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakers Revenge Chicago | 406501 | [406501-breakers-revenge-chicago.json](./406501-breakers-revenge-chicago.json) |
 | BreakEven: Idle | 409865 | [409865-breakeven-idle.json](./409865-breakeven-idle.json) |
