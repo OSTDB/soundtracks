@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 7479 | [7479-warhawk.json](./7479-warhawk.json) |
+| Warhawk: Operation Broken Mirror | 22589 | [22589-warhawk-operation-broken-mirror.json](./22589-warhawk-operation-broken-mirror.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhawk: Operation Omega Dawn | 22533 | [22533-warhawk-operation-omega-dawn.json](./22533-warhawk-operation-omega-dawn.json) |
 | Warhawks | 34993 | [34993-warhawks.json](./34993-warhawks.json) |
