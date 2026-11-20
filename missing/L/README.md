@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
 | Lamphead | 271859 | [271859-lamphead.json](./271859-lamphead.json) |
 | Lamplight | 304508 | [304508-lamplight.json](./304508-lamplight.json) |
+| Lamplight | 427312 | [427312-lamplight.json](./427312-lamplight.json) |
 | Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | Lamplighter | 150417 | [150417-lamplighter.json](./150417-lamplighter.json) |
@@ -1887,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latangerine Last Journey | 116277 | [116277-latangerine-last-journey.json](./116277-latangerine-last-journey.json) |
 | Latarnik | 352360 | [352360-latarnik.json](./352360-latarnik.json) |
 | Latarnix Puzzle | 190183 | [190183-latarnix-puzzle.json](./190183-latarnix-puzzle.json) |
+| Late 2 Escape: Chapter One | 427046 | [427046-late-2-escape-chapter-one.json](./427046-late-2-escape-chapter-one.json) |
 | Late Amusement | 361821 | [361821-late-amusement.json](./361821-late-amusement.json) |
 | Late Bird | 187406 | [187406-late-bird.json](./187406-late-bird.json) |
 | Late Checkout | 417023 | [417023-late-checkout.json](./417023-late-checkout.json) |
