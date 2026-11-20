@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Lake | 204147 | [204147-heart-lake.json](./204147-heart-lake.json) |
+| Heart Light: Knight of the Gnomes | 424350 | [424350-heart-light-knight-of-the-gnomes.json](./424350-heart-light-knight-of-the-gnomes.json) |
 | Heart Like a Wheel | 282772 | [282772-heart-like-a-wheel.json](./282772-heart-like-a-wheel.json) |
 | Heart Lock: A Free Metroid Inspired Game | 165719 | [165719-heart-lock-a-free-metroid-inspired-game.json](./165719-heart-lock-a-free-metroid-inspired-game.json) |
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
@@ -4445,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hehe | 281067 | [281067-hehe.json](./281067-hehe.json) |
+| Hehehe Game | 424151 | [424151-hehehe-game.json](./424151-hehehe-game.json) |
 | Hehu and the Taniwha | 98552 | [98552-hehu-and-the-taniwha.json](./98552-hehu-and-the-taniwha.json) |
 | Hei | 115173 | [115173-hei.json](./115173-hei.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
@@ -5298,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
 | Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
 | Hello, Neighbor! Reborn | 357197 | [357197-hello-neighbor-reborn.json](./357197-hello-neighbor-reborn.json) |
+| Hello, Peach! | 424071 | [424071-hello-peach.json](./424071-hello-peach.json) |
 | Hello, Runa! | 413451 | [413451-hello-runa.json](./413451-hello-runa.json) |
 | Hello, This Is Bear | 272344 | [272344-hello-this-is-bear.json](./272344-hello-this-is-bear.json) |
 | Hello, Vic | 258543 | [258543-hello-vic.json](./258543-hello-vic.json) |
@@ -7315,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Tale | 180364 | [180364-heroic-tale.json](./180364-heroic-tale.json) |
 | Heroic Tale Value! | 425772 | [425772-heroic-tale-value.json](./425772-heroic-tale-value.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
+| Heroic Uncle Kim | 424311 | [424311-heroic-uncle-kim.json](./424311-heroic-uncle-kim.json) |
 | Heroic: Magic Duel | 120504 | [120504-heroic-magic-duel.json](./120504-heroic-magic-duel.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
@@ -10868,6 +10872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homestead | 111764 | [111764-homestead.json](./111764-homestead.json) |
 | Homestead Online | 337668 | [337668-homestead-online.json](./337668-homestead-online.json) |
 | Homesteader | 62660 | [62660-homesteader.json](./62660-homesteader.json) |
+| HomeStray | 424335 | [424335-homestray.json](./424335-homestray.json) |
 | Homestuck: Strife Project | 392326 | [392326-homestuck-strife-project.json](./392326-homestuck-strife-project.json) |
 | Hometopia | 205732 | [205732-hometopia.json](./205732-hometopia.json) |
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
