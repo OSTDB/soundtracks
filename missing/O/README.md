@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oookuki | 281694 | [281694-oookuki.json](./281694-oookuki.json) |
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
+| Ooops! 2 | 165604 | [165604-ooops-2.json](./165604-ooops-2.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oopi's Quest | 120530 | [120530-oopis-quest.json](./120530-oopis-quest.json) |
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
+| Orbibot | 165208 | [165208-orbibot.json](./165208-orbibot.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbifold | 365317 | [365317-orbifold.json](./365317-orbifold.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
