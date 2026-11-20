@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.Hack//G.U. Vol1 | 124282 | [124282-e-hack-g-u-vol1.json](./124282-e-hack-g-u-vol1.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
+| E.S.C.A.P.E. | 425529 | [425529-e-s-c-a-p-e.json](./425529-e-s-c-a-p-e.json) |
 | E.S.D.E. | 425951 | [425951-e-s-d-e.json](./425951-e-s-d-e.json) |
 | E.S.O: Don't Forget | 398069 | [398069-e-s-o-dont-forget.json](./398069-e-s-o-dont-forget.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
 | Ebb | 409903 | [409903-ebb.json](./409903-ebb.json) |
 | Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
+| Ebbtide | 425528 | [425528-ebbtide.json](./425528-ebbtide.json) |
 | EBE | 170595 | [170595-ebe.json](./170595-ebe.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
