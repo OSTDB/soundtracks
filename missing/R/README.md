@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Final 2: Inaugural Flight Edition | 140441 | [140441-r-type-final-2-inaugural-flight-edition.json](./140441-r-type-final-2-inaugural-flight-edition.json) |
 | R-Type Final 2: Limited Edition | 143057 | [143057-r-type-final-2-limited-edition.json](./143057-r-type-final-2-limited-edition.json) |
 | R-Type Final 2: Limited Edition + Special Chronicle Box Set | 143058 | [143058-r-type-final-2-limited-edition-special-chronicle-box-set.json](./143058-r-type-final-2-limited-edition-special-chronicle-box-set.json) |
+| R-Type Final 2: OFX-X MARIKO R-Craft | 430585 | [430585-r-type-final-2-ofx-x-mariko-r-craft.json](./430585-r-type-final-2-ofx-x-mariko-r-craft.json) |
 | R-Type Final 2: Ultimate Edition | 271121 | [271121-r-type-final-2-ultimate-edition.json](./271121-r-type-final-2-ultimate-edition.json) |
 | R-Type Final 3 Evolved: Deluxe Edition | 225781 | [225781-r-type-final-3-evolved-deluxe-edition.json](./225781-r-type-final-3-evolved-deluxe-edition.json) |
 | R-Type Final 3 Evolved: Special Edition | 225780 | [225780-r-type-final-3-evolved-special-edition.json](./225780-r-type-final-3-evolved-special-edition.json) |
@@ -7329,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rev Up! RC Grand Prix | 147711 | [147711-rev-up-rc-grand-prix.json](./147711-rev-up-rc-grand-prix.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Rev'd Up Racing | 312195 | [312195-revd-up-racing.json](./312195-revd-up-racing.json) |
+| Reval 1420 | 430703 | [430703-reval-1420.json](./430703-reval-1420.json) |
 | ReVamp | 394666 | [394666-revamp.json](./394666-revamp.json) |
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Revans | 231145 | [231145-revans.json](./231145-revans.json) |
