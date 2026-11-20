@@ -7322,6 +7322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
 | LittleRunner | 387483 | [387483-littlerunner.json](./387483-littlerunner.json) |
 | LittleShadows | 116676 | [116676-littleshadows.json](./116676-littleshadows.json) |
+| Littlest Catalyst: Swarm Defense | 423120 | [423120-littlest-catalyst-swarm-defense.json](./423120-littlest-catalyst-swarm-defense.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Blue Team | 201922 | [201922-littlest-pet-shop-3-biggest-stars-blue-team.json](./201922-littlest-pet-shop-3-biggest-stars-blue-team.json) |
@@ -9579,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oath | 260600 | [260600-lost-oath.json](./260600-lost-oath.json) |
 | Lost Oddies | 243097 | [243097-lost-oddies.json](./243097-lost-oddies.json) |
 | Lost Odyssey | 7057 | [7057-lost-odyssey.json](./7057-lost-odyssey.json) |
+| Lost Odyssey HD Remaster | 423108 | [423108-lost-odyssey-hd-remaster.json](./423108-lost-odyssey-hd-remaster.json) |
 | Lost Odyssey: Recompiled | 417263 | [417263-lost-odyssey-recompiled.json](./417263-lost-odyssey-recompiled.json) |
 | Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Oliver | 235595 | [235595-lost-oliver.json](./235595-lost-oliver.json) |
