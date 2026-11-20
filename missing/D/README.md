@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Planet | 175625 | [175625-dark-planet.json](./175625-dark-planet.json) |
 | Dark Podval | 164174 | [164174-dark-podval.json](./164174-dark-podval.json) |
 | Dark Points | 408616 | [408616-dark-points.json](./408616-dark-points.json) |
+| Dark Pray | 427383 | [427383-dark-pray.json](./427383-dark-pray.json) |
 | Dark Presence | 67962 | [67962-dark-presence.json](./67962-dark-presence.json) |
 | Dark Prisms | 243972 | [243972-dark-prisms.json](./243972-dark-prisms.json) |
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
@@ -17590,6 +17591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Truster | 398267 | [398267-dragon-truster.json](./398267-dragon-truster.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
 | Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
+| Dragon Up! Together | 427374 | [427374-dragon-up-together.json](./427374-dragon-up-together.json) |
 | Dragon Uprising Online | 247827 | [247827-dragon-uprising-online.json](./247827-dragon-uprising-online.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
@@ -19657,6 +19659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropchord | 22169 | [22169-dropchord.json](./22169-dropchord.json) |
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
 | DropCore | 58329 | [58329-dropcore.json](./58329-dropcore.json) |
+| Dropdex | 427369 | [427369-dropdex.json](./427369-dropdex.json) |
 | DropDisk | 339573 | [339573-dropdisk.json](./339573-dropdisk.json) |
 | Dropdom: Jigsaw Puzzle | 191771 | [191771-dropdom-jigsaw-puzzle.json](./191771-dropdom-jigsaw-puzzle.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
@@ -21776,6 +21779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duplo | 407947 | [407947-duplo.json](./407947-duplo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
 | Dura Vita Online | 164082 | [164082-dura-vita-online.json](./164082-dura-vita-online.json) |
+| Durak Card Game | 427409 | [427409-durak-card-game.json](./427409-durak-card-game.json) |
 | Durak NTR: Doomed Romance Pack | 280412 | [280412-durak-ntr-doomed-romance-pack.json](./280412-durak-ntr-doomed-romance-pack.json) |
 | Durak NTR: the Fool who lost his gf in a card game | 280410 | [280410-durak-ntr-the-fool-who-lost-his-gf-in-a-card-game.json](./280410-durak-ntr-the-fool-who-lost-his-gf-in-a-card-game.json) |
 | Durak Online | 266371 | [266371-durak-online.json](./266371-durak-online.json) |
