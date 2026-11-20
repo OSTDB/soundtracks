@@ -469,7 +469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
-| Racer 8 | 9009 | [9009-racer-8.json](./9009-racer-8.json) |
 | Racer Overdrive | 373188 | [373188-racer-overdrive.json](./373188-racer-overdrive.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RacerMate Challenge II | 48379 | [48379-racermate-challenge-ii.json](./48379-racermate-challenge-ii.json) |
@@ -6083,7 +6082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
 | Repressed Gamer | 180436 | [180436-repressed-gamer.json](./180436-repressed-gamer.json) |
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
-| Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | Reproach | 306915 | [306915-reproach.json](./306915-reproach.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
 | Reprobate | 395731 | [395731-reprobate.json](./395731-reprobate.json) |
@@ -10428,7 +10426,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotrek | 42649 | [42649-robotrek.json](./42649-robotrek.json) |
 | RobotRiot | 25505 | [25505-robotriot.json](./25505-robotriot.json) |
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
-| Robotron X | 9186 | [9186-robotron-x.json](./9186-robotron-x.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robotry! | 172906 | [172906-robotry.json](./172906-robotry.json) |
 | Robots | 134213 | [134213-robots.json](./134213-robots.json) |
