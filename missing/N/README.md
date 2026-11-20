@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: Star Students - Ninja Survival | 203058 | [203058-naruto-star-students-ninja-survival.json](./203058-naruto-star-students-ninja-survival.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
+| Naruto: The Broken Bond - PC Port | 427065 | [427065-naruto-the-broken-bond-pc-port.json](./427065-naruto-the-broken-bond-pc-port.json) |
 | Naruto: Ultimate Collection | 220253 | [220253-naruto-ultimate-collection.json](./220253-naruto-ultimate-collection.json) |
 | Naruto: Ultimate Duel | 174605 | [174605-naruto-ultimate-duel.json](./174605-naruto-ultimate-duel.json) |
 | Naruto: Ultimate Ninja | 18386 | [18386-naruto-ultimate-ninja.json](./18386-naruto-ultimate-ninja.json) |
@@ -3204,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
 | NetEscape | 334961 | [334961-netescape.json](./334961-netescape.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
+| Netflix Minigolf | 427044 | [427044-netflix-minigolf.json](./427044-netflix-minigolf.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
 | Netflix Stories | 358569 | [358569-netflix-stories.json](./358569-netflix-stories.json) |
 | Netflix Stories: Emily in Paris | 305101 | [305101-netflix-stories-emily-in-paris.json](./305101-netflix-stories-emily-in-paris.json) |
@@ -6655,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One Lives in Heaven | 149635 | [149635-no-one-lives-in-heaven.json](./149635-no-one-lives-in-heaven.json) |
 | No One Lives in Heaven: Digital Deluxe Edition | 167182 | [167182-no-one-lives-in-heaven-digital-deluxe-edition.json](./167182-no-one-lives-in-heaven-digital-deluxe-edition.json) |
 | No One Lives Under the Lighthouse: Director's Cut | 313362 | [313362-no-one-lives-under-the-lighthouse-directors-cut.json](./313362-no-one-lives-under-the-lighthouse-directors-cut.json) |
+| No One Owns the Light | 427321 | [427321-no-one-owns-the-light.json](./427321-no-one-owns-the-light.json) |
 | No One Returns | 403398 | [403398-no-one-returns.json](./403398-no-one-returns.json) |
 | No One Survived | 200616 | [200616-no-one-survived.json](./200616-no-one-survived.json) |
 | No One Survived: Military clothing | 337766 | [337766-no-one-survived-military-clothing.json](./337766-no-one-survived-military-clothing.json) |
@@ -7925,6 +7928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Quite A Fairy Tale | 311895 | [311895-not-quite-a-fairy-tale.json](./311895-not-quite-a-fairy-tale.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not Quite Right | 180400 | [180400-not-quite-right.json](./180400-not-quite-right.json) |
+| Not Quite Trash | 427296 | [427296-not-quite-trash.json](./427296-not-quite-trash.json) |
 | Not Quite Vegas | 315407 | [315407-not-quite-vegas.json](./315407-not-quite-vegas.json) |
 | Not Raised by Wolves | 372980 | [372980-not-raised-by-wolves.json](./372980-not-raised-by-wolves.json) |
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
