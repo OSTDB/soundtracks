@@ -11376,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Bites: Bam 'N Jam | 133645 | [133645-classic-bites-bam-n-jam.json](./133645-classic-bites-bam-n-jam.json) |
+| Classic Blackjack | 421915 | [421915-classic-blackjack.json](./421915-classic-blackjack.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
 | Classic Bubble Bobble | 69953 | [69953-classic-bubble-bobble.json](./69953-classic-bubble-bobble.json) |
@@ -14863,6 +14864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comicado | 16858 | [16858-comicado.json](./16858-comicado.json) |
 | Comical Machine Gun Joe | 45627 | [45627-comical-machine-gun-joe.json](./45627-comical-machine-gun-joe.json) |
 | ComicBachiCooon!! | 293833 | [293833-comicbachicooon.json](./293833-comicbachicooon.json) |
+| ComicKingdom | 421939 | [421939-comickingdom.json](./421939-comickingdom.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming From Above! | 338881 | [338881-coming-from-above.json](./338881-coming-from-above.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
@@ -15877,6 +15879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistador Rex | 276678 | [276678-conquistador-rex.json](./276678-conquistador-rex.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conquistadors | 286356 | [286356-conquistadors.json](./286356-conquistadors.json) |
+| Conquisterra Roguelie | 421968 | [421968-conquisterra-roguelie.json](./421968-conquisterra-roguelie.json) |
 | Conquiztador | 302228 | [302228-conquiztador.json](./302228-conquiztador.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
@@ -21040,6 +21043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
 | Crownslayers | 387416 | [387416-crownslayers.json](./387416-crownslayers.json) |
+| Crownspat | 421937 | [421937-crownspat.json](./421937-crownspat.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crowntakers - The Ultimate Strategy RPG | 90053 | [90053-crowntakers-the-ultimate-strategy-rpg.json](./90053-crowntakers-the-ultimate-strategy-rpg.json) |
 | Crowntakers: Undead Undertakings | 170221 | [170221-crowntakers-undead-undertakings.json](./170221-crowntakers-undead-undertakings.json) |
@@ -22113,6 +22117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Sumbledore | 244587 | [244587-cube-sumbledore.json](./244587-cube-sumbledore.json) |
 | Cube Survival: LDoE | 104309 | [104309-cube-survival-ldoe.json](./104309-cube-survival-ldoe.json) |
 | Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
+| Cube Sweeper: 3D Minesweeper | 421914 | [421914-cube-sweeper-3d-minesweeper.json](./421914-cube-sweeper-3d-minesweeper.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube Universe | 98759 | [98759-cube-universe.json](./98759-cube-universe.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
