@@ -11828,6 +11828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click Dungeon | 259503 | [259503-click-dungeon.json](./259503-click-dungeon.json) |
+| Click Flip | 425522 | [425522-click-flip.json](./425522-click-flip.json) |
 | Click for Biscuits! | 133766 | [133766-click-for-biscuits.json](./133766-click-for-biscuits.json) |
 | Click For Cash | 213069 | [213069-click-for-cash.json](./213069-click-for-cash.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
@@ -21197,6 +21198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumbs for a Week | 390280 | [390280-crumbs-for-a-week.json](./390280-crumbs-for-a-week.json) |
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
+| Crumple Toss | 425565 | [425565-crumple-toss.json](./425565-crumple-toss.json) |
 | Crumple Zone | 117365 | [117365-crumple-zone.json](./117365-crumple-zone.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
 | Crunch | 119478 | [119478-crunch.json](./119478-crunch.json) |
