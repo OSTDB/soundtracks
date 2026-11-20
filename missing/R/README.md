@@ -9419,6 +9419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rive | 17069 | [17069-rive.json](./17069-rive.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
+| Rive: Ultimate Edition | 84837 | [84837-rive-ultimate-edition.json](./84837-rive-ultimate-edition.json) |
 | Rivelon | 179104 | [179104-rivelon.json](./179104-rivelon.json) |
 | Riven Crown | 339237 | [339237-riven-crown.json](./339237-riven-crown.json) |
 | Riven: The Sequel to Myst | 238 | [238-riven-the-sequel-to-myst.json](./238-riven-the-sequel-to-myst.json) |
@@ -10314,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Rescue | 84844 | [84844-robot-rescue.json](./84844-robot-rescue.json) |
 | Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
+| Robot Rescue 3D | 84846 | [84846-robot-rescue-3d.json](./84846-robot-rescue-3d.json) |
 | Robot Rescue Revolution | 9012 | [9012-robot-rescue-revolution.json](./9012-robot-rescue-revolution.json) |
 | Robot Resistors | 215818 | [215818-robot-resistors.json](./215818-robot-resistors.json) |
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
