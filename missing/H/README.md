@@ -6826,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Must Die | 289139 | [289139-hero-must-die.json](./289139-hero-must-die.json) |
 | Hero Must Die | 60035 | [60035-hero-must-die.json](./60035-hero-must-die.json) |
 | Hero Must Die: Director's Cut | 289140 | [289140-hero-must-die-directors-cut.json](./289140-hero-must-die-directors-cut.json) |
+| Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
 | Hero of Aethric | 222551 | [222551-hero-of-aethric.json](./222551-hero-of-aethric.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
@@ -7183,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic: A Strategic Quest | 362 | [362-heroes-of-might-and-magic-a-strategic-quest.json](./362-heroes-of-might-and-magic-a-strategic-quest.json) |
 | Heroes of Might and Magic: Quest for the Dragon Bone Staff | 13459 | [13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json](./13459-heroes-of-might-and-magic-quest-for-the-dragon-bone-staff.json) |
 | Heroes of Mount Dragon | 294053 | [294053-heroes-of-mount-dragon.json](./294053-heroes-of-mount-dragon.json) |
+| Heroes of Myth | 121319 | [121319-heroes-of-myth.json](./121319-heroes-of-myth.json) |
 | Heroes of Mythic Might | 253768 | [253768-heroes-of-mythic-might.json](./253768-heroes-of-mythic-might.json) |
 | Heroes of Myths - Warriors of Gods | 76752 | [76752-heroes-of-myths-warriors-of-gods.json](./76752-heroes-of-myths-warriors-of-gods.json) |
 | Heroes of Nature 4 in 1 | 332023 | [332023-heroes-of-nature-4-in-1.json](./332023-heroes-of-nature-4-in-1.json) |
@@ -10767,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Sweet Home | 346758 | [346758-home-sweet-home.json](./346758-home-sweet-home.json) |
 | Home Sweet Home | 81496 | [81496-home-sweet-home.json](./81496-home-sweet-home.json) |
 | Home Sweet Home 2: Kitchens | 254199 | [254199-home-sweet-home-2-kitchens.json](./254199-home-sweet-home-2-kitchens.json) |
+| Home Sweet Home: Episode 2 | 121331 | [121331-home-sweet-home-episode-2.json](./121331-home-sweet-home-episode-2.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Home: Survive | 144132 | [144132-home-sweet-home-survive.json](./144132-home-sweet-home-survive.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
