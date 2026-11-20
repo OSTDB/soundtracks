@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Custom Lady Maker | 128010 | [128010-3d-custom-lady-maker.json](./128010-3d-custom-lady-maker.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Dark-Stalker: Destruction Simulator | 180330 | [180330-3d-dark-stalker-destruction-simulator.json](./180330-3d-dark-stalker-destruction-simulator.json) |
+| 3D Deathchase | 23075 | [23075-3d-deathchase.json](./23075-3d-deathchase.json) |
 | 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
 | 3D Defenders | 140266 | [140266-3d-defenders.json](./140266-3d-defenders.json) |
 | 3D Dinosaur Hunter | 263459 | [263459-3d-dinosaur-hunter.json](./263459-3d-dinosaur-hunter.json) |
