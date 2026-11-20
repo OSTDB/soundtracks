@@ -22400,7 +22400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Giants | 236059 | [236059-muscle-giants.json](./236059-muscle-giants.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
 | Muscle Magic | 117209 | [117209-muscle-magic.json](./117209-muscle-magic.json) |
-| Muscle March | 15914 | [15914-muscle-march.json](./15914-muscle-march.json) |
 | Muscle Memory Corruption | 178972 | [178972-muscle-memory-corruption.json](./178972-muscle-memory-corruption.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
 | Muscle Power | 148732 | [148732-muscle-power.json](./148732-muscle-power.json) |
