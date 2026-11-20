@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kachinka | 421328 | [421328-kachinka.json](./421328-kachinka.json) |
 | Kachou Shima Kousaku DS: Dekiru Otoko no Love & Successss | 123336 | [123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json](./123336-kachou-shima-kousaku-ds-dekiru-otoko-no-love-and-successss.json) |
 | Kachou Shima Kousaku: Super Business Adventure | 37969 | [37969-kachou-shima-kousaku-super-business-adventure.json](./37969-kachou-shima-kousaku-super-business-adventure.json) |
+| Kachow Kart Racing | 424339 | [424339-kachow-kart-racing.json](./424339-kachow-kart-racing.json) |
 | Kacipbara | 393159 | [393159-kacipbara.json](./393159-kacipbara.json) |
 | Kadath | 114553 | [114553-kadath.json](./114553-kadath.json) |
 | Kadath | 386925 | [386925-kadath.json](./386925-kadath.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeping SNES Alive | 306132 | [306132-keeping-snes-alive.json](./306132-keeping-snes-alive.json) |
 | Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
 | Keeplanet | 83967 | [83967-keeplanet.json](./83967-keeplanet.json) |
+| Keeplings | 424279 | [424279-keeplings.json](./424279-keeplings.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | Keepsake County | 204642 | [204642-keepsake-county.json](./204642-keepsake-county.json) |
 | KeepShopkeeping | 108053 | [108053-keepshopkeeping.json](./108053-keepshopkeeping.json) |
