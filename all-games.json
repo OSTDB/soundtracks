@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T01:20:57.359Z",
-  "total_soundtracks": 3861,
+  "generated_at": "2026-11-20T01:35:55.092Z",
+  "total_soundtracks": 3862,
   "games": [
     {
       "igdb_id": 292844,
@@ -13201,6 +13201,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/enigma-of-fear-original-sound-track-volume-2/1788319768?uo=4",
           "album_link_url": "https://album.link/i/1788319768"
+        }
+      ]
+    },
+    {
+      "igdb_id": 16842,
+      "game_name": "Enola",
+      "game_url": "https://ostdb.net/games/enola",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f01bb071d29bb3a1f7d954aa",
+      "albums": [
+        {
+          "album_name": "Enola Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5oAcZzZj9GgLAtRc2Axv9y",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
