@@ -9992,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Egg of Basan | 134857 | [134857-the-egg-of-basan.json](./134857-the-egg-of-basan.json) |
 | The Egg of Human Endeavors | 223133 | [223133-the-egg-of-human-endeavors.json](./223133-the-egg-of-human-endeavors.json) |
 | The Eggs Terminator 2: Happy Easter | 418380 | [418380-the-eggs-terminator-2-happy-easter.json](./418380-the-eggs-terminator-2-happy-easter.json) |
+| The Eggsortist | 424390 | [424390-the-eggsortist.json](./424390-the-eggsortist.json) |
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Egyptian Prophecy: The Fate of Ramses | 17414 | [17414-the-egyptian-prophecy-the-fate-of-ramses.json](./17414-the-egyptian-prophecy-the-fate-of-ramses.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
@@ -27764,6 +27765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the Capital 2 | 88117 | [88117-to-the-capital-2.json](./88117-to-the-capital-2.json) |
 | To the Carrot | 421178 | [421178-to-the-carrot.json](./421178-to-the-carrot.json) |
+| To the Center of the Earth | 424407 | [424407-to-the-center-of-the-earth.json](./424407-to-the-center-of-the-earth.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Core | 105201 | [105201-to-the-core.json](./105201-to-the-core.json) |
 | To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
