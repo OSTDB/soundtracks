@@ -403,7 +403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Horses Champions 3 | 242176 | [242176-race-horses-champions-3.json](./242176-race-horses-champions-3.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race in Desert | 234747 | [234747-race-in-desert.json](./234747-race-in-desert.json) |
-| Race Injection | 10867 | [10867-race-injection.json](./10867-race-injection.json) |
 | Race Jam | 344982 | [344982-race-jam.json](./344982-race-jam.json) |
 | Race Journey | 227711 | [227711-race-journey.json](./227711-race-journey.json) |
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
@@ -3501,7 +3500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real WarBots | 24459 | [24459-real-warbots.json](./24459-real-warbots.json) |
-| Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Warfare 2: Northern Crusades | 9414 | [9414-real-warfare-2-northern-crusades.json](./9414-real-warfare-2-northern-crusades.json) |
 | Real Web Legends: Carter's Quest | 249987 | [249987-real-web-legends-carters-quest.json](./249987-real-web-legends-carters-quest.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
@@ -5330,7 +5328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
 | Reign Over | 210981 | [210981-reign-over.json](./210981-reign-over.json) |
-| Reign: Conflict of Nations | 11430 | [11430-reign-conflict-of-nations.json](./11430-reign-conflict-of-nations.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
 | Reigning Cats | 34556 | [34556-reigning-cats.json](./34556-reigning-cats.json) |
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
@@ -5618,7 +5615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reload | 183874 | [183874-reload.json](./183874-reload.json) |
 | Reload | 213102 | [213102-reload.json](./213102-reload.json) |
 | Reload | 342109 | [342109-reload.json](./342109-reload.json) |
-| Reload | 9408 | [9408-reload.json](./9408-reload.json) |
 | Reload 2 Remember | 227470 | [227470-reload-2-remember.json](./227470-reload-2-remember.json) |
 | Reload Map Jam | 271844 | [271844-reload-map-jam.json](./271844-reload-map-jam.json) |
 | Reloader: test_subject | 168129 | [168129-reloader-test-subject.json](./168129-reloader-test-subject.json) |
@@ -8856,7 +8852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
 | Ripit Hook | 199145 | [199145-ripit-hook.json](./199145-ripit-hook.json) |
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
-| Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Riposte! | 129284 | [129284-riposte.json](./129284-riposte.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
 | Ripped Pants at Work | 76273 | [76273-ripped-pants-at-work.json](./76273-ripped-pants-at-work.json) |
