@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Exit Plan | 415563 | [415563-harvest-exit-plan.json](./415563-harvest-exit-plan.json) |
 | Harvest Green | 138429 | [138429-harvest-green.json](./138429-harvest-green.json) |
 | Harvest Green | 158759 | [158759-harvest-green.json](./158759-harvest-green.json) |
+| Harvest Hand | 421930 | [421930-harvest-hand.json](./421930-harvest-hand.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
@@ -5302,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Hello World! | 147705 | [147705-hello-hello-world.json](./147705-hello-hello-world.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello, Lucia | 235818 | [235818-hello-lucia.json](./235818-hello-lucia.json) |
+| Hello, Luigi! | 421954 | [421954-hello-luigi.json](./421954-hello-luigi.json) |
 | Hello, Mario! | 363807 | [363807-hello-mario.json](./363807-hello-mario.json) |
 | Hello, Neighbor! Reborn | 357197 | [357197-hello-neighbor-reborn.json](./357197-hello-neighbor-reborn.json) |
 | Hello, Peach! | 424071 | [424071-hello-peach.json](./424071-hello-peach.json) |
@@ -11600,6 +11602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
+| Horiforge | 421933 | [421933-horiforge.json](./421933-horiforge.json) |
 | Horizon | 102699 | [102699-horizon.json](./102699-horizon.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon | 213688 | [213688-horizon.json](./213688-horizon.json) |
