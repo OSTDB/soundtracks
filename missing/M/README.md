@@ -7861,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
 | MechWarrior 5: Mercenaries | 26227 | [26227-mechwarrior-5-mercenaries.json](./26227-mechwarrior-5-mercenaries.json) |
+| MechWarrior 5: Mercenaries - Ashes and Ascension | 425738 | [425738-mechwarrior-5-mercenaries-ashes-and-ascension.json](./425738-mechwarrior-5-mercenaries-ashes-and-ascension.json) |
 | MechWarrior 5: Mercenaries - Call to Arms | 202533 | [202533-mechwarrior-5-mercenaries-call-to-arms.json](./202533-mechwarrior-5-mercenaries-call-to-arms.json) |
 | MechWarrior 5: Mercenaries - Chaos Reign | 402396 | [402396-mechwarrior-5-mercenaries-chaos-reign.json](./402396-mechwarrior-5-mercenaries-chaos-reign.json) |
 | MechWarrior 5: Mercenaries - Dropship Collection | 154618 | [154618-mechwarrior-5-mercenaries-dropship-collection.json](./154618-mechwarrior-5-mercenaries-dropship-collection.json) |
@@ -14482,6 +14483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
 | Mines of Grimvale | 53350 | [53350-mines-of-grimvale.json](./53350-mines-of-grimvale.json) |
+| Mines of Mana | 426100 | [426100-mines-of-mana.json](./426100-mines-of-mana.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
