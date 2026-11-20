@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Barren Wasteland | 200255 | [200255-a-barren-wasteland.json](./200255-a-barren-wasteland.json) |
 | A Bastard's Tale | 19944 | [19944-a-bastards-tale.json](./19944-a-bastards-tale.json) |
+| A Beacon | 424951 | [424951-a-beacon.json](./424951-a-beacon.json) |
 | A Bear Family Adventure | 205966 | [205966-a-bear-family-adventure.json](./205966-a-bear-family-adventure.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
@@ -2212,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abarenbo Tengu & Zombie Nation | 172796 | [172796-abarenbo-tengu-and-zombie-nation.json](./172796-abarenbo-tengu-and-zombie-nation.json) |
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
+| Abarya | 424948 | [424948-abarya.json](./424948-abarya.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abashera | 71108 | [71108-abashera.json](./71108-abashera.json) |
 | Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
@@ -2278,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
 | Abda Redeemer: Space Alien Invasion | 167451 | [167451-abda-redeemer-space-alien-invasion.json](./167451-abda-redeemer-space-alien-invasion.json) |
 | Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
+| Abdication | 424949 | [424949-abdication.json](./424949-abdication.json) |
 | Abdogtion | 287439 | [287439-abdogtion.json](./287439-abdogtion.json) |
 | Abdomen Expansion | 403251 | [403251-abdomen-expansion.json](./403251-abdomen-expansion.json) |
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
@@ -2682,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss Expedition | 424301 | [424301-abyss-expedition.json](./424301-abyss-expedition.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
+| Abyss Forge | 424959 | [424959-abyss-forge.json](./424959-abyss-forge.json) |
 | Abyss Horizon | 97453 | [97453-abyss-horizon.json](./97453-abyss-horizon.json) |
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
@@ -2745,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
 | Abyssal Descent | 258753 | [258753-abyssal-descent.json](./258753-abyssal-descent.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
+| Abyssal Elevator: Idle Breaker | 424952 | [424952-abyssal-elevator-idle-breaker.json](./424952-abyssal-elevator-idle-breaker.json) |
 | Abyssal Fall | 54885 | [54885-abyssal-fall.json](./54885-abyssal-fall.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
 | Abyssal Guardians | 423275 | [423275-abyssal-guardians.json](./423275-abyssal-guardians.json) |
@@ -3034,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace & Hearts | 142084 | [142084-ace-and-hearts.json](./142084-ace-and-hearts.json) |
 | ACE 2 | 13283 | [13283-ace-2.json](./13283-ace-2.json) |
 | ACE 2088 | 60721 | [60721-ace-2088.json](./60721-ace-2088.json) |
+| Ace Academy | 424960 | [424960-ace-academy.json](./424960-ace-academy.json) |
 | ACE Academy | 34610 | [34610-ace-academy.json](./34610-ace-academy.json) |
 | Ace Angler | 144863 | [144863-ace-angler.json](./144863-ace-angler.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
@@ -7580,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
+| Alderun | 424945 | [424945-alderun.json](./424945-alderun.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
 | Aldmark Calls for Aid | 420288 | [420288-aldmark-calls-for-aid.json](./420288-aldmark-calls-for-aid.json) |
 | Aldo Again | 50087 | [50087-aldo-again.json](./50087-aldo-again.json) |
@@ -13267,6 +13274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis of the Moon's Surface | 38017 | [38017-anubis-of-the-moons-surface.json](./38017-anubis-of-the-moons-surface.json) |
 | Anubis Temple: La Perla de Egipto | 424729 | [424729-anubis-temple-la-perla-de-egipto.json](./424729-anubis-temple-la-perla-de-egipto.json) |
 | Anubis Temple: Skin Dinosaurio (Niña) | 424731 | [424731-anubis-temple-skin-dinosaurio-nina.json](./424731-anubis-temple-skin-dinosaurio-nina.json) |
+| Anubis: Wrath of the Underworld | 424990 | [424990-anubis-wrath-of-the-underworld.json](./424990-anubis-wrath-of-the-underworld.json) |
 | Anubis' Challenge | 111787 | [111787-anubis-challenge.json](./111787-anubis-challenge.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
 | Anuchard | 145264 | [145264-anuchard.json](./145264-anuchard.json) |
