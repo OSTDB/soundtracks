@@ -208,7 +208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack-R | 413399 | [413399-hack-r.json](./413399-hack-r.json) |
 | Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
-| Hack, Slash, Loot | 8951 | [8951-hack-slash-loot.json](./8951-hack-slash-loot.json) |
 | Hack.88 | 120788 | [120788-hack-88.json](./120788-hack-88.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
