@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Shot | 381871 | [381871-bank-shot.json](./381871-bank-shot.json) |
 | Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank Tycoon | 237154 | [237154-bank-tycoon.json](./237154-bank-tycoon.json) |
+| Bank Vault: Tidy Up Together | 429776 | [429776-bank-vault-tidy-up-together.json](./429776-bank-vault-tidy-up-together.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | Banka | 273186 | [273186-banka.json](./273186-banka.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
 | Beer Gunner | 399251 | [399251-beer-gunner.json](./399251-beer-gunner.json) |
 | Beer League Hockey | 241809 | [241809-beer-league-hockey.json](./241809-beer-league-hockey.json) |
+| Beer League Hockey | 429686 | [429686-beer-league-hockey.json](./429686-beer-league-hockey.json) |
 | Beer Machine | 374316 | [374316-beer-machine.json](./374316-beer-machine.json) |
 | Beer Manufacture Simulator | 373268 | [373268-beer-manufacture-simulator.json](./373268-beer-manufacture-simulator.json) |
 | Beer Pong | 65053 | [65053-beer-pong.json](./65053-beer-pong.json) |
@@ -8369,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblically Inaccurate | 374043 | [374043-biblically-inaccurate.json](./374043-biblically-inaccurate.json) |
 | Biblinthus | 130586 | [130586-biblinthus.json](./130586-biblinthus.json) |
 | BiblioMania | 204963 | [204963-bibliomania.json](./204963-bibliomania.json) |
+| Bibliopyre | 429682 | [429682-bibliopyre.json](./429682-bibliopyre.json) |
 | Biblios Dice | 234115 | [234115-biblios-dice.json](./234115-biblios-dice.json) |
 | Biblios: Tome of Darkness | 306343 | [306343-biblios-tome-of-darkness.json](./306343-biblios-tome-of-darkness.json) |
 | Biblioteksspel | 393749 | [393749-biblioteksspel.json](./393749-biblioteksspel.json) |
@@ -14267,6 +14270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
 | BoltHead | 368701 | [368701-bolthead.json](./368701-bolthead.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
+| Boltz | 429684 | [429684-boltz.json](./429684-boltz.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bom Bom Bombian | 247727 | [247727-bom-bom-bombian.json](./247727-bom-bom-bombian.json) |
