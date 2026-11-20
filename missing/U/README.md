@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Heart | 126183 | [126183-unlimited-heart.json](./126183-unlimited-heart.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
+| Unlimited Maid Works | 429621 | [429621-unlimited-maid-works.json](./429621-unlimited-maid-works.json) |
 | Unlimited SaGa: Limited Edition | 382675 | [382675-unlimited-saga-limited-edition.json](./382675-unlimited-saga-limited-edition.json) |
 | Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
 | Unlimited Trees' Sonic 1 | 319508 | [319508-unlimited-trees-sonic-1.json](./319508-unlimited-trees-sonic-1.json) |
