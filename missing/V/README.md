@@ -1564,7 +1564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vendetta | 91874 | [91874-vendetta.json](./91874-vendetta.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
 | Vendetta Online | 2450 | [2450-vendetta-online.json](./2450-vendetta-online.json) |
-| Vendetta: Curse of Raven's Cry | 14602 | [14602-vendetta-curse-of-ravens-cry.json](./14602-vendetta-curse-of-ravens-cry.json) |
 | Vendetta: Curse of Raven's Cry - Deluxe Edition | 53875 | [53875-vendetta-curse-of-ravens-cry-deluxe-edition.json](./53875-vendetta-curse-of-ravens-cry-deluxe-edition.json) |
 | Vendetta: Mafia Wars | 216856 | [216856-vendetta-mafia-wars.json](./216856-vendetta-mafia-wars.json) |
 | Vending Dokan!: Kozy Kiosk | 331218 | [331218-vending-dokan-kozy-kiosk.json](./331218-vending-dokan-kozy-kiosk.json) |
