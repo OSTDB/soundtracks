@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
 | Embargo | 40300 | [40300-embargo.json](./40300-embargo.json) |
+| Embark | 423700 | [423700-embark.json](./423700-embark.json) |
 | Embark | 83286 | [83286-embark.json](./83286-embark.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
