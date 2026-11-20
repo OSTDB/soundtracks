@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Brain Workout | 358626 | [358626-quiz-brain-workout.json](./358626-quiz-brain-workout.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Carnival 2 -Meguriai Version- | 106284 | [106284-quiz-carnival-2-meguriai-version.json](./106284-quiz-carnival-2-meguriai-version.json) |
+| Quiz Challenge | 424427 | [424427-quiz-challenge.json](./424427-quiz-challenge.json) |
 | Quiz Challenge Multiplayer | 413939 | [413939-quiz-challenge-multiplayer.json](./413939-quiz-challenge-multiplayer.json) |
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
 | Quiz Climber Rivals | 22923 | [22923-quiz-climber-rivals.json](./22923-quiz-climber-rivals.json) |
