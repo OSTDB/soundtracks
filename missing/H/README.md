@@ -14652,7 +14652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
 | Hyperdrive Inn | 265092 | [265092-hyperdrive-inn.json](./265092-hyperdrive-inn.json) |
-| Hyperdrive Massacre | 15902 | [15902-hyperdrive-massacre.json](./15902-hyperdrive-massacre.json) |
 | HyperDrive X | 409241 | [409241-hyperdrive-x.json](./409241-hyperdrive-x.json) |
 | Hyperdrome | 125330 | [125330-hyperdrome.json](./125330-hyperdrome.json) |
 | Hyperdrome | 237001 | [237001-hyperdrome.json](./237001-hyperdrome.json) |
