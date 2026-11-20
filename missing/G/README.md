@@ -9611,6 +9611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Dude | 340203 | [340203-graveyard-dude.json](./340203-graveyard-dude.json) |
 | Graveyard Ghoul! | 133999 | [133999-graveyard-ghoul.json](./133999-graveyard-ghoul.json) |
 | Graveyard Girls | 207727 | [207727-graveyard-girls.json](./207727-graveyard-girls.json) |
+| Graveyard Grift | 423138 | [423138-graveyard-grift.json](./423138-graveyard-grift.json) |
 | Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
 | Graveyard Keeper | 212593 | [212593-graveyard-keeper.json](./212593-graveyard-keeper.json) |
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
@@ -10866,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire OnceMore: Deluxe Edition | 216577 | [216577-grimgrimoire-oncemore-deluxe-edition.json](./216577-grimgrimoire-oncemore-deluxe-edition.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
+| Grimhold | 423184 | [423184-grimhold.json](./423184-grimhold.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | Grimhunt | 201446 | [201446-grimhunt.json](./201446-grimhunt.json) |
 | Grimind | 8950 | [8950-grimind.json](./8950-grimind.json) |
