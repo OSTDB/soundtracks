@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
+| Webs of Reverie | 422560 | [422560-webs-of-reverie.json](./422560-webs-of-reverie.json) |
 | Webshooters | 282218 | [282218-webshooters.json](./282218-webshooters.json) |
 | Websling | 310877 | [310877-websling.json](./310877-websling.json) |
 | Webstore Mogul | 331066 | [331066-webstore-mogul.json](./331066-webstore-mogul.json) |
