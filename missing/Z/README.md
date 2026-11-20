@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
 | Znax | 183682 | [183682-znax.json](./183682-znax.json) |
+| Zniw Adventure | 107964 | [107964-zniw-adventure.json](./107964-zniw-adventure.json) |
 | Znkl: 177 | 83582 | [83582-znkl-177.json](./83582-znkl-177.json) |
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
@@ -2024,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Killer: Type to Shoot! | 114899 | [114899-zombie-killer-type-to-shoot.json](./114899-zombie-killer-type-to-shoot.json) |
 | Zombie Killers | 115090 | [115090-zombie-killers.json](./115090-zombie-killers.json) |
 | Zombie Killin' | 29697 | [29697-zombie-killin.json](./29697-zombie-killin.json) |
+| Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
 | Zombie Killing: Call of Killer | 297674 | [297674-zombie-killing-call-of-killer.json](./297674-zombie-killing-call-of-killer.json) |
 | Zombie Killtime | 35003 | [35003-zombie-killtime.json](./35003-zombie-killtime.json) |
 | Zombie Knockout | 263844 | [263844-zombie-knockout.json](./263844-zombie-knockout.json) |
