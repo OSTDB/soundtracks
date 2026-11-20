@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashgrab | 418216 | [418216-cashgrab.json](./418216-cashgrab.json) |
 | CashGrab | 368686 | [368686-cashgrab.json](./368686-cashgrab.json) |
 | CashGrab: Refunded | 350952 | [350952-cashgrab-refunded.json](./350952-cashgrab-refunded.json) |
+| Cashgrind Simulator | 427045 | [427045-cashgrind-simulator.json](./427045-cashgrind-simulator.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Lover | 55281 | [55281-cats-lover.json](./55281-cats-lover.json) |
 | Cats Make You Smarter! | 74227 | [74227-cats-make-you-smarter.json](./74227-cats-make-you-smarter.json) |
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
+| Cats of Light | 427303 | [427303-cats-of-light.json](./427303-cats-of-light.json) |
 | Cats of Mona Lisa: A Hidden Object Game | 326933 | [326933-cats-of-mona-lisa-a-hidden-object-game.json](./326933-cats-of-mona-lisa-a-hidden-object-game.json) |
 | Cats of the Ming Dynasty | 289674 | [289674-cats-of-the-ming-dynasty.json](./289674-cats-of-the-ming-dynasty.json) |
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
@@ -9155,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Command | 18408 | [18408-chopper-command.json](./18408-chopper-command.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
+| Chopper Defence | 427032 | [427032-chopper-defence.json](./427032-chopper-defence.json) |
 | Chopper Down | 92007 | [92007-chopper-down.json](./92007-chopper-down.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
@@ -11868,6 +11871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click! Safari | 90447 | [90447-click-safari.json](./90447-click-safari.json) |
 | Click.O.Fast | 100400 | [100400-click-o-fast.json](./100400-click-o-fast.json) |
 | Click&Fight | 81795 | [81795-click-and-fight.json](./81795-click-and-fight.json) |
+| Click&Fix | 427307 | [427307-click-and-fix.json](./427307-click-and-fix.json) |
 | Clickable Coffee Shop | 120127 | [120127-clickable-coffee-shop.json](./120127-clickable-coffee-shop.json) |
 | Clickart | 255146 | [255146-clickart.json](./255146-clickart.json) |
 | Clickbait | 379838 | [379838-clickbait.json](./379838-clickbait.json) |
@@ -12293,6 +12297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Closing Shift | 412551 | [412551-closing-shift.json](./412551-closing-shift.json) |
 | Closing Spaces | 178898 | [178898-closing-spaces.json](./178898-closing-spaces.json) |
 | Closing Time | 260576 | [260576-closing-time.json](./260576-closing-time.json) |
+| Closr | 427308 | [427308-closr.json](./427308-closr.json) |
 | Clossure | 302399 | [302399-clossure.json](./302399-clossure.json) |
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
