@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neden | 301800 | [301800-neden.json](./301800-neden.json) |
 | Nederland | 57013 | [57013-nederland.json](./57013-nederland.json) |
 | Nedetskie Skazki | 252821 | [252821-nedetskie-skazki.json](./252821-nedetskie-skazki.json) |
+| Nedi Cloud Simulator | 423173 | [423173-nedi-cloud-simulator.json](./423173-nedi-cloud-simulator.json) |
 | Nedia Hotel | 201548 | [201548-nedia-hotel.json](./201548-nedia-hotel.json) |
 | Nedoida | 179358 | [179358-nedoida.json](./179358-nedoida.json) |
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
@@ -6629,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Money | 232233 | [232233-no-more-money.json](./232233-no-more-money.json) |
 | No More Monsters | 426928 | [426928-no-more-monsters.json](./426928-no-more-monsters.json) |
 | No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
+| No More Pain | 423142 | [423142-no-more-pain.json](./423142-no-more-pain.json) |
 | No More Papers Please | 185237 | [185237-no-more-papers-please.json](./185237-no-more-papers-please.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Plumbers | 65684 | [65684-no-more-plumbers.json](./65684-no-more-plumbers.json) |
