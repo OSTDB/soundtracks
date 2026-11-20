@@ -9920,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
+| Amberskull | 56208 | [56208-amberskull.json](./56208-amberskull.json) |
 | Amberspire | 325713 | [325713-amberspire.json](./325713-amberspire.json) |
 | Amberstar | 2424 | [2424-amberstar.json](./2424-amberstar.json) |
 | Ambidangerous | 119802 | [119802-ambidangerous.json](./119802-ambidangerous.json) |
@@ -10171,6 +10172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
 | American Oudan Ultra Quiz | 305026 | [305026-american-oudan-ultra-quiz.json](./305026-american-oudan-ultra-quiz.json) |
+| American Patriots: Boston Tea Party | 55741 | [55741-american-patriots-boston-tea-party.json](./55741-american-patriots-boston-tea-party.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Pickers | 52393 | [52393-american-pickers.json](./52393-american-pickers.json) |
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
@@ -14743,6 +14745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Pro Tennis World Court | 200943 | [200943-arcade-archives-pro-tennis-world-court.json](./200943-arcade-archives-pro-tennis-world-court.json) |
 | Arcade Archives: Psycho Soldier | 117879 | [117879-arcade-archives-psycho-soldier.json](./117879-arcade-archives-psycho-soldier.json) |
+| Arcade Archives: Punch-Out!! | 68357 | [68357-arcade-archives-punch-out.json](./68357-arcade-archives-punch-out.json) |
 | Arcade Archives: Punk Shot | 342962 | [342962-arcade-archives-punk-shot.json](./342962-arcade-archives-punk-shot.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Quester | 389843 | [389843-arcade-archives-quester.json](./389843-arcade-archives-quester.json) |
@@ -18740,6 +18743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Delivery | 372380 | [372380-astro-delivery.json](./372380-astro-delivery.json) |
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel 2 | 217131 | [217131-astro-duel-2.json](./217131-astro-duel-2.json) |
+| Astro Duel Deluxe | 56030 | [56030-astro-duel-deluxe.json](./56030-astro-duel-deluxe.json) |
 | Astro Duel Deluxe + Astro Duel 2 | 386215 | [386215-astro-duel-deluxe-astro-duel-2.json](./386215-astro-duel-deluxe-astro-duel-2.json) |
 | Astro Empires | 124660 | [124660-astro-empires.json](./124660-astro-empires.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
