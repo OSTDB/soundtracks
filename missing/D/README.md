@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Rot | 376979 | [376979-data-rot.json](./376979-data-rot.json) |
+| Data Rush | 426656 | [426656-data-rush.json](./426656-data-rush.json) |
 | Data Rush: La Course Aux Données | 292177 | [292177-data-rush-la-course-aux-donnees.json](./292177-data-rush-la-course-aux-donnees.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
 | Data Thief | 68574 | [68574-data-thief.json](./68574-data-thief.json) |
@@ -4688,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline Day | 421245 | [421245-deadline-day.json](./421245-deadline-day.json) |
 | Deadline Enchanter | 217669 | [217669-deadline-enchanter.json](./217669-deadline-enchanter.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
+| Deadline for Submission | 426657 | [426657-deadline-for-submission.json](./426657-deadline-for-submission.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadline Savior | 347016 | [347016-deadline-savior.json](./347016-deadline-savior.json) |
 | Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
@@ -14643,6 +14645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don'Yoku | 35002 | [35002-donyoku.json](./35002-donyoku.json) |
 | Don´t Hang Up | 374654 | [374654-don-t-hang-up.json](./374654-don-t-hang-up.json) |
 | Dona Vasa | 151953 | [151953-dona-vasa.json](./151953-dona-vasa.json) |
+| Donako no Awai Koimoyou | 426674 | [426674-donako-no-awai-koimoyou.json](./426674-donako-no-awai-koimoyou.json) |
 | Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
 | Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
 | Donald and Xi at the 2021 Olympics | 383438 | [383438-donald-and-xi-at-the-2021-olympics.json](./383438-donald-and-xi-at-the-2021-olympics.json) |
