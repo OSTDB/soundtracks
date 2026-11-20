@@ -17276,6 +17276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Long As It's Not Illegal: Act I | 230322 | [230322-as-long-as-its-not-illegal-act-i.json](./230322-as-long-as-its-not-illegal-act-i.json) |
 | As Long As It's Not Illegal: Act II | 254367 | [254367-as-long-as-its-not-illegal-act-ii.json](./254367-as-long-as-its-not-illegal-act-ii.json) |
 | As Long As It's Not Illegal: Last Act | 264812 | [264812-as-long-as-its-not-illegal-last-act.json](./264812-as-long-as-its-not-illegal-last-act.json) |
+| As Long as She Forgot | 424345 | [424345-as-long-as-she-forgot.json](./424345-as-long-as-she-forgot.json) |
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
 | As One We Survive | 247734 | [247734-as-one-we-survive.json](./247734-as-one-we-survive.json) |
@@ -18851,6 +18852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroclone | 28478 | [28478-astroclone.json](./28478-astroclone.json) |
 | Astrocode | 383119 | [383119-astrocode.json](./383119-astrocode.json) |
 | Astrocop | 295848 | [295848-astrocop.json](./295848-astrocop.json) |
+| AstroCore | 424342 | [424342-astrocore.json](./424342-astrocore.json) |
 | AstroCore Mining | 356348 | [356348-astrocore-mining.json](./356348-astrocore-mining.json) |
 | Astrocounter of Crescents | 50080 | [50080-astrocounter-of-crescents.json](./50080-astrocounter-of-crescents.json) |
 | Astrocraft | 418889 | [418889-astrocraft.json](./418889-astrocraft.json) |
@@ -21161,6 +21163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Marco Bros | 290583 | [290583-awful-marco-bros.json](./290583-awful-marco-bros.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
+| Awful Tower | 424348 | [424348-awful-tower.json](./424348-awful-tower.json) |
 | Awfully Good Pizza | 148196 | [148196-awfully-good-pizza.json](./148196-awfully-good-pizza.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
 | AWK: Adventures of Walker King | 201413 | [201413-awk-adventures-of-walker-king.json](./201413-awk-adventures-of-walker-king.json) |
