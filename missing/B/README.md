@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Go Home | 207556 | [207556-ball-go-home.json](./207556-ball-go-home.json) |
 | Ball Grabbers | 100482 | [100482-ball-grabbers.json](./100482-ball-grabbers.json) |
 | Ball Guys : Stumble & Fall | 393130 | [393130-ball-guys-stumble-and-fall.json](./393130-ball-guys-stumble-and-fall.json) |
+| Ball Guys: Merge Party | 426780 | [426780-ball-guys-merge-party.json](./426780-ball-guys-merge-party.json) |
 | Ball Hentai Puzzle | 273359 | [273359-ball-hentai-puzzle.json](./273359-ball-hentai-puzzle.json) |
 | Ball Heroes | 369633 | [369633-ball-heroes.json](./369633-ball-heroes.json) |
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
@@ -9899,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit & Quantum: Save the Earth! | 305085 | [305085-bit-and-quantum-save-the-earth.json](./305085-bit-and-quantum-save-the-earth.json) |
 | Bit Addiction | 277573 | [277573-bit-addiction.json](./277573-bit-addiction.json) |
 | Bit Adventure | 186349 | [186349-bit-adventure.json](./186349-bit-adventure.json) |
+| Bit Awakening | 426729 | [426729-bit-awakening.json](./426729-bit-awakening.json) |
 | Bit Ballers | 175557 | [175557-bit-ballers.json](./175557-bit-ballers.json) |
 | Bit Battles | 386068 | [386068-bit-battles.json](./386068-bit-battles.json) |
 | Bit Bike | 250778 | [250778-bit-bike.json](./250778-bit-bike.json) |
@@ -17910,6 +17912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brico Utile | 269676 | [269676-brico-utile.json](./269676-brico-utile.json) |
 | Bricole | 163773 | [163773-bricole.json](./163773-bricole.json) |
 | Briddle | 169615 | [169615-briddle.json](./169615-briddle.json) |
+| Bride Auction | 426766 | [426766-bride-auction.json](./426766-bride-auction.json) |
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
