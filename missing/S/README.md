@@ -14403,6 +14403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skool Daze | 23079 | [23079-skool-daze.json](./23079-skool-daze.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
+| Skoot: Keyboard Brawl | 424409 | [424409-skoot-keyboard-brawl.json](./424409-skoot-keyboard-brawl.json) |
 | Skooter | 410637 | [410637-skooter.json](./410637-skooter.json) |
 | Skopje '83 | 329862 | [329862-skopje-83.json](./329862-skopje-83.json) |
 | Skorb | 57384 | [57384-skorb.json](./57384-skorb.json) |
@@ -14452,6 +14453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Bullets | 188859 | [188859-skull-bullets.json](./188859-skull-bullets.json) |
 | Skull Candy Match | 110000 | [110000-skull-candy-match.json](./110000-skull-candy-match.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
+| Skull Crusher | 424413 | [424413-skull-crusher.json](./424413-skull-crusher.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
 | Skull Fang | 320502 | [320502-skull-fang.json](./320502-skull-fang.json) |
 | Skull Fang | 62341 | [62341-skull-fang.json](./62341-skull-fang.json) |
@@ -15872,6 +15874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Nomi | 324795 | [324795-slime-nomi.json](./324795-slime-nomi.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Order | 370176 | [370176-slime-order.json](./370176-slime-order.json) |
+| Slime Overflow | 424405 | [424405-slime-overflow.json](./424405-slime-overflow.json) |
 | Slime Pandemic TD | 171932 | [171932-slime-pandemic-td.json](./171932-slime-pandemic-td.json) |
 | Slime Pizza | 90360 | [90360-slime-pizza.json](./90360-slime-pizza.json) |
 | Slime Princess | 310331 | [310331-slime-princess.json](./310331-slime-princess.json) |
@@ -32933,6 +32936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrikeForce Kitty League | 400610 | [400610-strikeforce-kitty-league.json](./400610-strikeforce-kitty-league.json) |
 | Strikeforce Kitty: Last Stand | 101904 | [101904-strikeforce-kitty-last-stand.json](./101904-strikeforce-kitty-last-stand.json) |
 | StrikeForce-Psi | 79509 | [79509-strikeforce-psi.json](./79509-strikeforce-psi.json) |
+| Strikem | 424436 | [424436-strikem.json](./424436-strikem.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker | 12783 | [12783-striker.json](./12783-striker.json) |
 | Striker | 237503 | [237503-striker.json](./237503-striker.json) |
@@ -33623,6 +33627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsist: Apocalypse Survival | 296453 | [296453-subsist-apocalypse-survival.json](./296453-subsist-apocalypse-survival.json) |
 | Subsistence | 34071 | [34071-subsistence.json](./34071-subsistence.json) |
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
+| Subspace Brawl | 424399 | [424399-subspace-brawl.json](./424399-subspace-brawl.json) |
 | Subspace Continuum | 308108 | [308108-subspace-continuum.json](./308108-subspace-continuum.json) |
 | Subspace Discovery | 384551 | [384551-subspace-discovery.json](./384551-subspace-discovery.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
@@ -40526,6 +40531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
 | Sweet Office 2 | 306303 | [306303-sweet-office-2.json](./306303-sweet-office-2.json) |
+| Sweet Order: Candy Shop Tidy Up! | 424432 | [424432-sweet-order-candy-shop-tidy-up.json](./424432-sweet-order-candy-shop-tidy-up.json) |
 | Sweet Orgasm | 418840 | [418840-sweet-orgasm.json](./418840-sweet-orgasm.json) |
 | Sweet Pea | 145823 | [145823-sweet-pea.json](./145823-sweet-pea.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
