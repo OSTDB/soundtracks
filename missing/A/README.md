@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abenteuer Stahl | 141497 | [141497-abenteuer-stahl.json](./141497-abenteuer-stahl.json) |
 | Abenteuer Weltraum | 123246 | [123246-abenteuer-weltraum.json](./123246-abenteuer-weltraum.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
+| Aberoth | 35662 | [35662-aberoth.json](./35662-aberoth.json) |
 | Aberrant Domain: Fog City | 420951 | [420951-aberrant-domain-fog-city.json](./420951-aberrant-domain-fog-city.json) |
 | Aberrant Nights | 304671 | [304671-aberrant-nights.json](./304671-aberrant-nights.json) |
 | Aberrant Rift | 214241 | [214241-aberrant-rift.json](./214241-aberrant-rift.json) |
@@ -4714,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
 | Aeolus Fighter 3 | 265585 | [265585-aeolus-fighter-3.json](./265585-aeolus-fighter-3.json) |
 | Aeolwyn's Legacy | 200707 | [200707-aeolwyns-legacy.json](./200707-aeolwyns-legacy.json) |
+| Aeon | 36635 | [36635-aeon.json](./36635-aeon.json) |
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Avenger | 69447 | [69447-aeon-avenger.json](./69447-aeon-avenger.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
@@ -6830,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Fire Department: The Simulation | 32041 | [32041-airport-fire-department-the-simulation.json](./32041-airport-fire-department-the-simulation.json) |
 | Airport Firefighter Simulator | 62469 | [62469-airport-firefighter-simulator.json](./62469-airport-firefighter-simulator.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
+| Airport Firefighters: The Simulation | 35733 | [35733-airport-firefighters-the-simulation.json](./35733-airport-firefighters-the-simulation.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Ground Handling Simulator VR | 212673 | [212673-airport-ground-handling-simulator-vr.json](./212673-airport-ground-handling-simulator-vr.json) |
 | Airport Inc. | 60667 | [60667-airport-inc.json](./60667-airport-inc.json) |
@@ -9538,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Sometimes Monsters | 7289 | [7289-always-sometimes-monsters.json](./7289-always-sometimes-monsters.json) |
 | Always Sunset | 413736 | [413736-always-sunset.json](./413736-always-sunset.json) |
 | Always Surrender | 283401 | [283401-always-surrender.json](./283401-always-surrender.json) |
+| Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
 | Always the Same Nightmare | 191136 | [191136-always-the-same-nightmare.json](./191136-always-the-same-nightmare.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Always with You | 349030 | [349030-always-with-you.json](./349030-always-with-you.json) |
@@ -10670,6 +10674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Occasional Dream | 55690 | [55690-an-occasional-dream.json](./55690-an-occasional-dream.json) |
 | An Occurrence at Owl Creek Bridge | 116670 | [116670-an-occurrence-at-owl-creek-bridge.json](./116670-an-occurrence-at-owl-creek-bridge.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
+| An Octave Higher | 35688 | [35688-an-octave-higher.json](./35688-an-octave-higher.json) |
 | An Octonaut Odyssey | 30198 | [30198-an-octonaut-odyssey.json](./30198-an-octonaut-odyssey.json) |
 | An Odd Tale | 159380 | [159380-an-odd-tale.json](./159380-an-odd-tale.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
@@ -16405,6 +16410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Heroes Online | 64880 | [64880-armed-heroes-online.json](./64880-armed-heroes-online.json) |
 | Armed Police Batrider | 13687 | [13687-armed-police-batrider.json](./13687-armed-police-batrider.json) |
 | Armed Resistance | 98229 | [98229-armed-resistance.json](./98229-armed-resistance.json) |
+| Armed Seven | 35769 | [35769-armed-seven.json](./35769-armed-seven.json) |
 | Armed to the Gears | 90407 | [90407-armed-to-the-gears.json](./90407-armed-to-the-gears.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
 | Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
@@ -20662,6 +20668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche | 233850 | [233850-avalanche.json](./233850-avalanche.json) |
 | Avalanche | 370979 | [370979-avalanche.json](./370979-avalanche.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
+| Avalanche 2: Super Avalanche | 35705 | [35705-avalanche-2-super-avalanche.json](./35705-avalanche-2-super-avalanche.json) |
 | Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche: The Struggle for Italy | 13354 | [13354-avalanche-the-struggle-for-italy.json](./13354-avalanche-the-struggle-for-italy.json) |
