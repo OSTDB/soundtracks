@@ -944,7 +944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landlord Tycoon | 127984 | [127984-landlord-tycoon.json](./127984-landlord-tycoon.json) |
 | Landlord's Super | 121388 | [121388-landlords-super.json](./121388-landlords-super.json) |
 | Landlords & Tax Evasion | 266445 | [266445-landlords-and-tax-evasion.json](./266445-landlords-and-tax-evasion.json) |
-| Landmark | 9629 | [9629-landmark.json](./9629-landmark.json) |
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landmine Larry | 31174 | [31174-landmine-larry.json](./31174-landmine-larry.json) |
 | Landmine Princess | 342881 | [342881-landmine-princess.json](./342881-landmine-princess.json) |
@@ -3287,7 +3286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of 100 Heroes | 174669 | [174669-legends-of-100-heroes.json](./174669-legends-of-100-heroes.json) |
 | Legends of Aden | 298674 | [298674-legends-of-aden.json](./298674-legends-of-aden.json) |
 | Legends of Adventure | 210176 | [210176-legends-of-adventure.json](./210176-legends-of-adventure.json) |
-| Legends of Aethereus | 10509 | [10509-legends-of-aethereus.json](./10509-legends-of-aethereus.json) |
 | Legends of Allods | 326147 | [326147-legends-of-allods.json](./326147-legends-of-allods.json) |
 | Legends of Alterra | 285498 | [285498-legends-of-alterra.json](./285498-legends-of-alterra.json) |
 | Legends of Amberland II: The Song of Trees | 220604 | [220604-legends-of-amberland-ii-the-song-of-trees.json](./220604-legends-of-amberland-ii-the-song-of-trees.json) |
@@ -3371,7 +3369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Norrath: Oathbreaker | 209411 | [209411-legends-of-norrath-oathbreaker.json](./209411-legends-of-norrath-oathbreaker.json) |
 | Legends of Old | 278470 | [278470-legends-of-old.json](./278470-legends-of-old.json) |
 | Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
-| Legends of Pegasus | 10389 | [10389-legends-of-pegasus.json](./10389-legends-of-pegasus.json) |
 | Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
 | Legends of Pindorama | 197835 | [197835-legends-of-pindorama.json](./197835-legends-of-pindorama.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
@@ -4407,7 +4404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's School: Water Towns Furniture Pack | 297120 | [297120-lets-school-water-towns-furniture-pack.json](./297120-lets-school-water-towns-furniture-pack.json) |
 | Let's Seduce the Heroine! | 220606 | [220606-lets-seduce-the-heroine.json](./220606-lets-seduce-the-heroine.json) |
 | Let's See What You Got | 124768 | [124768-lets-see-what-you-got.json](./124768-lets-see-what-you-got.json) |
-| Let's Sing | 10511 | [10511-lets-sing.json](./10511-lets-sing.json) |
 | Let's Sing | 268191 | [268191-lets-sing.json](./268191-lets-sing.json) |
 | Let's Sing 10 | 118830 | [118830-lets-sing-10.json](./118830-lets-sing-10.json) |
 | Let's Sing 10: Platinum Edition | 118831 | [118831-lets-sing-10-platinum-edition.json](./118831-lets-sing-10-platinum-edition.json) |
@@ -6754,7 +6750,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Climber | 174482 | [174482-little-climber.json](./174482-little-climber.json) |
 | Little Comet | 112597 | [112597-little-comet.json](./112597-little-comet.json) |
-| Little Computer People | 12179 | [12179-little-computer-people.json](./12179-little-computer-people.json) |
 | Little Corner Tea House | 327278 | [327278-little-corner-tea-house.json](./327278-little-corner-tea-house.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Cousins | 241582 | [241582-little-cousins.json](./241582-little-cousins.json) |
@@ -7740,7 +7735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock On | 38430 | [38430-lock-on.json](./38430-lock-on.json) |
 | Lock On: Flaming Cliffs 2 | 10202 | [10202-lock-on-flaming-cliffs-2.json](./10202-lock-on-flaming-cliffs-2.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
-| Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
 | Lock Parsing 2 | 86471 | [86471-lock-parsing-2.json](./86471-lock-parsing-2.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
@@ -8933,7 +8927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Solgrund | 190090 | [190090-lords-of-solgrund.json](./190090-lords-of-solgrund.json) |
 | Lords of Solitaire | 174194 | [174194-lords-of-solitaire.json](./174194-lords-of-solitaire.json) |
 | Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
-| Lords of the Black Sun | 10522 | [10522-lords-of-the-black-sun.json](./10522-lords-of-the-black-sun.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
 | Lords of the Darkreign | 160116 | [160116-lords-of-the-darkreign.json](./160116-lords-of-the-darkreign.json) |
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
