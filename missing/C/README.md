@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
 | Chainsaw Warrior: Total Darkness Edition | 52709 | [52709-chainsaw-warrior-total-darkness-edition.json](./52709-chainsaw-warrior-total-darkness-edition.json) |
 | ChainSki | 215505 | [215505-chainski.json](./215505-chainski.json) |
+| ChainSlayer | 428533 | [428533-chainslayer.json](./428533-chainslayer.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chainz | 94467 | [94467-chainz.json](./94467-chainz.json) |
@@ -18434,6 +18435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Woods | 342367 | [342367-cozy-woods.json](./342367-cozy-woods.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
+| Cozyfish.io | 428520 | [428520-cozyfish-io.json](./428520-cozyfish-io.json) |
 | Cozynauts | 266617 | [266617-cozynauts.json](./266617-cozynauts.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
@@ -18487,6 +18489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab Rhapsody: Vol.1 | 249009 | [249009-crab-rhapsody-vol-1.json](./249009-crab-rhapsody-vol-1.json) |
+| Crab Volleyball | 428569 | [428569-crab-volleyball.json](./428569-crab-volleyball.json) |
 | Crab War | 114691 | [114691-crab-war.json](./114691-crab-war.json) |
 | Crab Wave | 315646 | [315646-crab-wave.json](./315646-crab-wave.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
@@ -20538,6 +20541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crooked Frames | 424541 | [424541-crooked-frames.json](./424541-crooked-frames.json) |
 | Crooked Path | 57784 | [57784-crooked-path.json](./57784-crooked-path.json) |
 | Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
+| Crooked Streets of Anarchy | 428517 | [428517-crooked-streets-of-anarchy.json](./428517-crooked-streets-of-anarchy.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooked Waters | 96273 | [96273-crooked-waters.json](./96273-crooked-waters.json) |
 | Crooks Like Us | 143032 | [143032-crooks-like-us.json](./143032-crooks-like-us.json) |
