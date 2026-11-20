@@ -12634,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless Fashion | 196946 | [196946-clueless-fashion.json](./196946-clueless-fashion.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
+| Cluemates | 424895 | [424895-cluemates.json](./424895-cluemates.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
 | ClueSweeper | 281262 | [281262-cluesweeper.json](./281262-cluesweeper.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
@@ -20886,6 +20887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crossybara | 310911 | [310911-crossybara.json](./310911-crossybara.json) |
 | CrossyZombie | 207938 | [207938-crossyzombie.json](./207938-crossyzombie.json) |
+| Croswa | 424755 | [424755-croswa.json](./424755-croswa.json) |
 | Crouching Panda, Hidden Moose | 343584 | [343584-crouching-panda-hidden-moose.json](./343584-crouching-panda-hidden-moose.json) |
 | Crouching Pony Hidden Dragon | 17173 | [17173-crouching-pony-hidden-dragon.json](./17173-crouching-pony-hidden-dragon.json) |
 | Crouching Tiger, Hidden Dragon | 248616 | [248616-crouching-tiger-hidden-dragon.json](./248616-crouching-tiger-hidden-dragon.json) |
@@ -21886,6 +21888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR Native | 407953 | [407953-ctr-native.json](./407953-ctr-native.json) |
+| CTR Nitro-Fueled PC | 424884 | [424884-ctr-nitro-fueled-pc.json](./424884-ctr-nitro-fueled-pc.json) |
 | CTR: Nightmare Fueled | 427285 | [427285-ctr-nightmare-fueled.json](./427285-ctr-nightmare-fueled.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
@@ -23352,6 +23355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutout Village | 366620 | [366620-cutout-village.json](./366620-cutout-village.json) |
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
+| Cutset | 424902 | [424902-cutset.json](./424902-cutset.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Cove | 166901 | [166901-cutthroat-cove.json](./166901-cutthroat-cove.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
