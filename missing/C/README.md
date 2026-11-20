@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cakefoot | 292134 | [292134-cakefoot.json](./292134-cakefoot.json) |
 | Caketomino | 31599 | [31599-caketomino.json](./31599-caketomino.json) |
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
+| Cakey & Tanaka: Candy Land Adventure | 419483 | [419483-cakey-and-tanaka-candy-land-adventure.json](./419483-cakey-and-tanaka-candy-land-adventure.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal & Bomba | 318656 | [318656-cal-and-bomba.json](./318656-cal-and-bomba.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
 | Carbon Battle Royale | 143717 | [143717-carbon-battle-royale.json](./143717-carbon-battle-royale.json) |
 | Carbon Dating: Green Romance | 130427 | [130427-carbon-dating-green-romance.json](./130427-carbon-dating-green-romance.json) |
+| Carbon Dreams Land | 419490 | [419490-carbon-dreams-land.json](./419490-carbon-dreams-land.json) |
 | Carbón Heart | 294949 | [294949-carbon-heart.json](./294949-carbon-heart.json) |
 | Carbon Steel | 227567 | [227567-carbon-steel.json](./227567-carbon-steel.json) |
 | Carbon Warfare | 106128 | [106128-carbon-warfare.json](./106128-carbon-warfare.json) |
@@ -9633,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Fantasy | 159942 | [159942-chromatic-fantasy.json](./159942-chromatic-fantasy.json) |
 | Chromatic Isle | 275740 | [275740-chromatic-isle.json](./275740-chromatic-isle.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
+| Chromatic Mage | 419485 | [419485-chromatic-mage.json](./419485-chromatic-mage.json) |
 | Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
 | Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
 | Chromatic Resonance | 258581 | [258581-chromatic-resonance.json](./258581-chromatic-resonance.json) |
@@ -17554,6 +17557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Rush | 331743 | [331743-cosmic-rush.json](./331743-cosmic-rush.json) |
 | Cosmic Salvage | 259305 | [259305-cosmic-salvage.json](./259305-cosmic-salvage.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
+| Cosmic Seance | 419517 | [419517-cosmic-seance.json](./419517-cosmic-seance.json) |
 | Cosmic Security | 191051 | [191051-cosmic-security.json](./191051-cosmic-security.json) |
 | Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
 | Cosmic Sheriff | 13519 | [13519-cosmic-sheriff.json](./13519-cosmic-sheriff.json) |
