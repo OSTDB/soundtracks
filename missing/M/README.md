@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinaero | 240837 | [240837-machinaero.json](./240837-machinaero.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machinarium & Creaks Bundle | 164571 | [164571-machinarium-and-creaks-bundle.json](./164571-machinarium-and-creaks-bundle.json) |
+| Machinarium 2 | 422247 | [422247-machinarium-2.json](./422247-machinarium-2.json) |
 | Machinarium: Collector's Edition | 51838 | [51838-machinarium-collectors-edition.json](./51838-machinarium-collectors-edition.json) |
 | Machinations: Fog of War | 31582 | [31582-machinations-fog-of-war.json](./31582-machinations-fog-of-war.json) |
 | Machindranaath Raath Game | 214702 | [214702-machindranaath-raath-game.json](./214702-machindranaath-raath-game.json) |
@@ -23173,6 +23174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bed, Your Grave | 327659 | [327659-my-bed-your-grave.json](./327659-my-bed-your-grave.json) |
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
 | My Beloved Girl Is A Married Woman: Sadistic Widow | 97942 | [97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json](./97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json) |
+| My Best Friend | 422598 | [422598-my-best-friend.json](./422598-my-best-friend.json) |
 | My Best Friend Anna | 95790 | [95790-my-best-friend-anna.json](./95790-my-best-friend-anna.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friend's Birthday | 185175 | [185175-my-best-friends-birthday.json](./185175-my-best-friends-birthday.json) |
