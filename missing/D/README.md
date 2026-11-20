@@ -11053,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
 | Dino Girls | 346893 | [346893-dino-girls.json](./346893-dino-girls.json) |
+| Dino Goodbye | 425239 | [425239-dino-goodbye.json](./425239-dino-goodbye.json) |
 | Dino Gun | 335718 | [335718-dino-gun.json](./335718-dino-gun.json) |
 | Dino Hazard: Chronos Blackout | 138547 | [138547-dino-hazard-chronos-blackout.json](./138547-dino-hazard-chronos-blackout.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
@@ -18904,6 +18905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Idea | 292065 | [292065-dreamy-idea.json](./292065-dreamy-idea.json) |
 | Dreamy Planet | 190350 | [190350-dreamy-planet.json](./190350-dreamy-planet.json) |
 | Dreamy Room | 337096 | [337096-dreamy-room.json](./337096-dreamy-room.json) |
+| Dreamy Sakura's Graduation Ceremony | 425254 | [425254-dreamy-sakuras-graduation-ceremony.json](./425254-dreamy-sakuras-graduation-ceremony.json) |
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dreamy Trail | 247844 | [247844-dreamy-trail.json](./247844-dreamy-trail.json) |
 | DreamyPoems | 310785 | [310785-dreamypoems.json](./310785-dreamypoems.json) |
