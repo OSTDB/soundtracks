@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant | 380956 | [380956-verdant.json](./380956-verdant.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdant Idea | 336213 | [336213-verdant-idea.json](./336213-verdant-idea.json) |
+| Verdant Requiem | 422977 | [422977-verdant-requiem.json](./422977-verdant-requiem.json) |
 | Verdant Skies | 58409 | [58409-verdant-skies.json](./58409-verdant-skies.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verde | 318170 | [318170-verde.json](./318170-verde.json) |
@@ -2094,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibe or Dare | 404046 | [404046-vibe-or-dare.json](./404046-vibe-or-dare.json) |
 | Vibe Punch | 383302 | [383302-vibe-punch.json](./383302-vibe-punch.json) |
 | Vibe Taxi | 419449 | [419449-vibe-taxi.json](./419449-vibe-taxi.json) |
+| Vibe Together | 423193 | [423193-vibe-together.json](./423193-vibe-together.json) |
 | Vibe Train | 425133 | [425133-vibe-train.json](./425133-vibe-train.json) |
 | Vibes | 354901 | [354901-vibes.json](./354901-vibes.json) |
 | Vibes | 94126 | [94126-vibes.json](./94126-vibes.json) |
@@ -3286,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtues | 240955 | [240955-virtues.json](./240955-virtues.json) |
 | VirtuGO | 55643 | [55643-virtugo.json](./55643-virtugo.json) |
+| Virtumon | 423109 | [423109-virtumon.json](./423109-virtumon.json) |
 | Virtuoso | 370964 | [370964-virtuoso.json](./370964-virtuoso.json) |
 | Virtuoso | 4247 | [4247-virtuoso.json](./4247-virtuoso.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
