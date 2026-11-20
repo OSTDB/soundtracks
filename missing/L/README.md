@@ -3989,6 +3989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
 | Lendlease | 370022 | [370022-lendlease.json](./370022-lendlease.json) |
+| Leng | 418008 | [418008-leng.json](./418008-leng.json) |
 | Lěngxiě Zhèng Shǎizǐ | 157365 | [157365-lengxie-zheng-shaizi.json](./157365-lengxie-zheng-shaizi.json) |
 | Lenin - The Lion | 99626 | [99626-lenin-the-lion.json](./99626-lenin-the-lion.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
@@ -7414,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livets Hopp | 277381 | [277381-livets-hopp.json](./277381-livets-hopp.json) |
 | Liveza: Death of the Earth | 32960 | [32960-liveza-death-of-the-earth.json](./32960-liveza-death-of-the-earth.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
+| Livin' the Cream: Ice Cream Simulator | 418017 | [418017-livin-the-cream-ice-cream-simulator.json](./418017-livin-the-cream-ice-cream-simulator.json) |
 | Living Art | 195555 | [195555-living-art.json](./195555-living-art.json) |
 | Living Ball | 93409 | [93409-living-ball.json](./93409-living-ball.json) |
 | Living Books: Aesop's The Tortoise and the Hare | 50282 | [50282-living-books-aesops-the-tortoise-and-the-hare.json](./50282-living-books-aesops-the-tortoise-and-the-hare.json) |
