@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | KibaGames | 255478 | [255478-kibagames.json](./255478-kibagames.json) |
+| Kibasen | 421901 | [421901-kibasen.json](./421901-kibasen.json) |
 | Kibbi Keeper | 190849 | [190849-kibbi-keeper.json](./190849-kibbi-keeper.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kibitz Bugs | 273852 | [273852-kibitz-bugs.json](./273852-kibitz-bugs.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klikwerk | 225282 | [225282-klikwerk.json](./225282-klikwerk.json) |
 | Klim | 178184 | [178184-klim.json](./178184-klim.json) |
 | Klim:S21 | 374397 | [374397-klim-s21.json](./374397-klim-s21.json) |
+| Klimatspelet | 421867 | [421867-klimatspelet.json](./421867-klimatspelet.json) |
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Klitter | 390473 | [390473-klitter.json](./390473-klitter.json) |
