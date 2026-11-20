@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
 | Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
+| Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gabe Newell Simulator | 13618 | [13618-gabe-newell-simulator.json](./13618-gabe-newell-simulator.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
 | Gaben Kingdom | 29457 | [29457-gaben-kingdom.json](./29457-gaben-kingdom.json) |
@@ -12264,6 +12265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball and the Shrink Ray | 426939 | [426939-gumball-and-the-shrink-ray.json](./426939-gumball-and-the-shrink-ray.json) |
 | Gumball Drift | 19058 | [19058-gumball-drift.json](./19058-gumball-drift.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
+| Gumball in Trick-or-Treat Land | 373763 | [373763-gumball-in-trick-or-treat-land.json](./373763-gumball-in-trick-or-treat-land.json) |
 | Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
