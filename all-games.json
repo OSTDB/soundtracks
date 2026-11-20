@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-19T15:36:03.010Z",
-  "total_soundtracks": 3860,
+  "generated_at": "2026-11-20T01:20:57.359Z",
+  "total_soundtracks": 3861,
   "games": [
     {
       "igdb_id": 292844,
@@ -37921,6 +37921,20 @@
         {
           "album_name": "Spartan Fist Official Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0MO3MkQT6DwX1Awr3iLtSF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16928,
+      "game_name": "Spate",
+      "game_url": "https://ostdb.net/games/spate",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f97d64d984dd0cb971a2e0d",
+      "albums": [
+        {
+          "album_name": "Spate (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BUHF4OkE4LJ7Rr7MnKAt1",
           "apple_music_url": "",
           "album_link_url": ""
         }
