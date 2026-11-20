@@ -506,7 +506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Zuisouroku Omokagebana | 221015 | [221015-hakuoki-zuisouroku-omokagebana.json](./221015-hakuoki-zuisouroku-omokagebana.json) |
 | Hakuoki Zuisouroku Portable | 221013 | [221013-hakuoki-zuisouroku-portable.json](./221013-hakuoki-zuisouroku-portable.json) |
 | Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
-| Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom - Limited Edition | 42714 | [42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json](./42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json) |
 | Hakuoki: Edo Blossoms - Deluxe Edition | 186545 | [186545-hakuoki-edo-blossoms-deluxe-edition.json](./186545-hakuoki-edo-blossoms-deluxe-edition.json) |
 | Hakuoki: Edo Blossoms - DLC Bundle | 186544 | [186544-hakuoki-edo-blossoms-dlc-bundle.json](./186544-hakuoki-edo-blossoms-dlc-bundle.json) |
@@ -3522,7 +3521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazelnut Latte | 294175 | [294175-hazelnut-latte.json](./294175-hazelnut-latte.json) |
 | Hazels | 257521 | [257521-hazels.json](./257521-hazels.json) |
 | Hazelwood Station | 295001 | [295001-hazelwood-station.json](./295001-hazelwood-station.json) |
-| Hazen: The Dark Whispers | 16153 | [16153-hazen-the-dark-whispers.json](./16153-hazen-the-dark-whispers.json) |
 | Hazen's Children | 379833 | [379833-hazens-children.json](./379833-hazens-children.json) |
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
@@ -4572,7 +4570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldenzeit | 138297 | [138297-heldenzeit.json](./138297-heldenzeit.json) |
-| Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Heldritch Rush | 422038 | [422038-heldritch-rush.json](./422038-heldritch-rush.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
 | Helen - Castle In Wonderland | 63447 | [63447-helen-castle-in-wonderland.json](./63447-helen-castle-in-wonderland.json) |
@@ -9010,7 +9007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Driving | 204014 | [204014-highway-driving.json](./204014-highway-driving.json) |
 | Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
-| Highway Encounter | 13877 | [13877-highway-encounter.json](./13877-highway-encounter.json) |
 | Highway Fighter | 354661 | [354661-highway-fighter.json](./354661-highway-fighter.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
@@ -9810,7 +9806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitobashira | 416192 | [416192-hitobashira.json](./416192-hitobashira.json) |
 | Hitobashira: Human Suika | 294306 | [294306-hitobashira-human-suika.json](./294306-hitobashira-human-suika.json) |
 | Hitogata | 383308 | [383308-hitogata.json](./383308-hitogata.json) |
-| Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
 | Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
 | Hitori | 334771 | [334771-hitori.json](./334771-hitori.json) |
@@ -11558,7 +11553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hora | 364980 | [364980-hora.json](./364980-hora.json) |
 | Horace | 120323 | [120323-horace.json](./120323-horace.json) |
 | Horace and the Spiders | 28518 | [28518-horace-and-the-spiders.json](./28518-horace-and-the-spiders.json) |
-| Horace Goes Skiing | 13881 | [13881-horace-goes-skiing.json](./13881-horace-goes-skiing.json) |
 | Horace Hagfish | 272975 | [272975-horace-hagfish.json](./272975-horace-hagfish.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
 | Horace: First Trip | 123724 | [123724-horace-first-trip.json](./123724-horace-first-trip.json) |
@@ -11614,7 +11608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horiforge | 421933 | [421933-horiforge.json](./421933-horiforge.json) |
 | Horizon | 102699 | [102699-horizon.json](./102699-horizon.json) |
-| Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon | 213688 | [213688-horizon.json](./213688-horizon.json) |
 | Horizon | 350058 | [350058-horizon.json](./350058-horizon.json) |
 | Horizon 1990 | 399171 | [399171-horizon-1990.json](./399171-horizon-1990.json) |
