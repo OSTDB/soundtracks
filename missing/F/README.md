@@ -44,7 +44,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Fighting Falcon | 14060 | [14060-f-16-fighting-falcon.json](./14060-f-16-fighting-falcon.json) |
 | F-16 Fighting Falcon | 36679 | [36679-f-16-fighting-falcon.json](./36679-f-16-fighting-falcon.json) |
-| F-16 Multirole Fighter | 16011 | [16011-f-16-multirole-fighter.json](./16011-f-16-multirole-fighter.json) |
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Hornet | 12322 | [12322-f-18-hornet.json](./12322-f-18-hornet.json) |
@@ -1122,7 +1121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
 | Fall of the Stick Knights | 251797 | [251797-fall-of-the-stick-knights.json](./251797-fall-of-the-stick-knights.json) |
-| Fall of the Titanic | 15036 | [15036-fall-of-the-titanic.json](./15036-fall-of-the-titanic.json) |
 | Fall off Reach | 415337 | [415337-fall-off-reach.json](./415337-fall-off-reach.json) |
 | Fall or Nothing | 361934 | [361934-fall-or-nothing.json](./361934-fall-or-nothing.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
@@ -3725,7 +3723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate: Gates of Dawn | 73057 | [73057-fate-gates-of-dawn.json](./73057-fate-gates-of-dawn.json) |
 | Fate: Reawakened | 319819 | [319819-fate-reawakened.json](./319819-fate-reawakened.json) |
 | Fate: The Complete Adventure | 155231 | [155231-fate-the-complete-adventure.json](./155231-fate-the-complete-adventure.json) |
-| Fate: The Traitor Soul | 15471 | [15471-fate-the-traitor-soul.json](./15471-fate-the-traitor-soul.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
@@ -8806,7 +8803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeing the Complex | 179273 | [179273-fleeing-the-complex.json](./179273-fleeing-the-complex.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
 | Fleet Buster | 62316 | [62316-fleet-buster.json](./62316-fleet-buster.json) |
-| Fleet Command | 14803 | [14803-fleet-command.json](./14803-fleet-command.json) |
 | Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
 | Fleet Commander II | 41805 | [41805-fleet-commander-ii.json](./41805-fleet-commander-ii.json) |
 | Fleet Commander: Pacific | 192560 | [192560-fleet-commander-pacific.json](./192560-fleet-commander-pacific.json) |
@@ -9503,7 +9499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flora Domina | 247426 | [247426-flora-domina.json](./247426-flora-domina.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | Flora Parasocial | 406765 | [406765-flora-parasocial.json](./406765-flora-parasocial.json) |
-| Flora's Fruit Farm | 16047 | [16047-floras-fruit-farm.json](./16047-floras-fruit-farm.json) |
 | Flora's World | 424547 | [424547-floras-world.json](./424547-floras-world.json) |
 | Floracide | 386977 | [386977-floracide.json](./386977-floracide.json) |
 | Florafarm | 428119 | [428119-florafarm.json](./428119-florafarm.json) |
@@ -12653,7 +12648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Play | 301476 | [301476-fowl-play.json](./301476-fowl-play.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
-| Fowl Space | 15144 | [15144-fowl-space.json](./15144-fowl-space.json) |
 | Fowl Swarm | 295837 | [295837-fowl-swarm.json](./295837-fowl-swarm.json) |
 | Fowl Words 2: Trouble at the Chicken Ranch! | 69690 | [69690-fowl-words-2-trouble-at-the-chicken-ranch.json](./69690-fowl-words-2-trouble-at-the-chicken-ranch.json) |
 | Fowl Words: Farm Fresh Goodness | 73990 | [73990-fowl-words-farm-fresh-goodness.json](./73990-fowl-words-farm-fresh-goodness.json) |
@@ -13196,7 +13190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fray Fight | 202523 | [202523-fray-fight.json](./202523-fray-fight.json) |
 | Fray in Magical Adventure | 41717 | [41717-fray-in-magical-adventure.json](./41717-fray-in-magical-adventure.json) |
 | Fray in Magical Adventure CD: Xak Gaiden | 65273 | [65273-fray-in-magical-adventure-cd-xak-gaiden.json](./65273-fray-in-magical-adventure-cd-xak-gaiden.json) |
-| Fray: Reloaded Edition | 16364 | [16364-fray-reloaded-edition.json](./16364-fray-reloaded-edition.json) |
 | Fray: Shugyou-hen | 130763 | [130763-fray-shugyou-hen.json](./130763-fray-shugyou-hen.json) |
 | Frayed | 292314 | [292314-frayed.json](./292314-frayed.json) |
 | Frayed Knights: The Skull of S'makh-Daon | 17649 | [17649-frayed-knights-the-skull-of-smakh-daon.json](./17649-frayed-knights-the-skull-of-smakh-daon.json) |
@@ -15689,7 +15682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Feathers HD | 252924 | [252924-fur-and-feathers-hd.json](./252924-fur-and-feathers-hd.json) |
 | Fur and Fists | 258784 | [258784-fur-and-fists.json](./258784-fur-and-fists.json) |
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
-| Fur Fighters | 14700 | [14700-fur-fighters.json](./14700-fur-fighters.json) |
 | Fur Fighters: Viggo on Glass | 299539 | [299539-fur-fighters-viggo-on-glass.json](./299539-fur-fighters-viggo-on-glass.json) |
 | Fur Fighters: Viggo's Revenge | 81565 | [81565-fur-fighters-viggos-revenge.json](./81565-fur-fighters-viggos-revenge.json) |
 | Fur Fun | 29544 | [29544-fur-fun.json](./29544-fur-fun.json) |
