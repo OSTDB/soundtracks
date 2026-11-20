@@ -693,7 +693,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wand Out: A 3D Magical Gay Novel | 211891 | [211891-wand-out-a-3d-magical-gay-novel.json](./211891-wand-out-a-3d-magical-gay-novel.json) |
 | Wand Wars VR | 81727 | [81727-wand-wars-vr.json](./81727-wand-wars-vr.json) |
 | Wand Wars: Rise | 114471 | [114471-wand-wars-rise.json](./114471-wand-wars-rise.json) |
-| Wander | 10920 | [10920-wander.json](./10920-wander.json) |
 | Wander | 80032 | [80032-wander.json](./80032-wander.json) |
 | Wander Hero | 173009 | [173009-wander-hero.json](./173009-wander-hero.json) |
 | Wander in Wonder | 272494 | [272494-wander-in-wonder.json](./272494-wander-in-wonder.json) |
@@ -10409,7 +10408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecked Shot | 314970 | [314970-wrecked-shot.json](./314970-wrecked-shot.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
-| Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
 | Wrecked! | 170635 | [170635-wrecked.json](./170635-wrecked.json) |
 | Wrecker | 127762 | [127762-wrecker.json](./127762-wrecker.json) |
 | Wrecker's Revenge | 317139 | [317139-wreckers-revenge.json](./317139-wreckers-revenge.json) |
