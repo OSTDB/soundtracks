@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watashi no Kokoro! Kimi no Koto ga Suki desu. | 161902 | [161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json](./161902-watashi-no-kokoro-kimi-no-koto-ga-suki-desu.json) |
 | Watashi no Licca-chan | 419838 | [419838-watashi-no-licca-chan.json](./419838-watashi-no-licca-chan.json) |
 | Watashi no MakeSalon | 275635 | [275635-watashi-no-makesalon.json](./275635-watashi-no-makesalon.json) |
+| Watashi no Mono | 423762 | [423762-watashi-no-mono.json](./423762-watashi-no-mono.json) |
 | Watashi no Restaurant | 282768 | [282768-watashi-no-restaurant.json](./282768-watashi-no-restaurant.json) |
 | Watashi no Rilakkuma | 98176 | [98176-watashi-no-rilakkuma.json](./98176-watashi-no-rilakkuma.json) |
 | Watashi Suzume | 216841 | [216841-watashi-suzume.json](./216841-watashi-suzume.json) |
