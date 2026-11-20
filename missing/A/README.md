@@ -8826,6 +8826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the World's Cravings | 404001 | [404001-all-the-worlds-cravings.json](./404001-all-the-worlds-cravings.json) |
 | All Things Devours | 60107 | [60107-all-things-devours.json](./60107-all-things-devours.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
+| All Things It Devours | 429142 | [429142-all-things-it-devours.json](./429142-all-things-it-devours.json) |
 | All to Get Her | 176529 | [176529-all-to-get-her.json](./176529-all-to-get-her.json) |
 | All to Race | 192705 | [192705-all-to-race.json](./192705-all-to-race.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
@@ -15260,6 +15261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Soul + | 38712 | [38712-arcane-soul.json](./38712-arcane-soul.json) |
 | Arcane Straight: Summoned Soul | 101406 | [101406-arcane-straight-summoned-soul.json](./101406-arcane-straight-summoned-soul.json) |
 | Arcane Summoner | 383298 | [383298-arcane-summoner.json](./383298-arcane-summoner.json) |
+| Arcane Surge | 429164 | [429164-arcane-surge.json](./429164-arcane-surge.json) |
 | Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
@@ -20380,6 +20382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
 | Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
 | Auto Destruct | 45084 | [45084-auto-destruct.json](./45084-auto-destruct.json) |
+| Auto Drill: Galaxy | 429147 | [429147-auto-drill-galaxy.json](./429147-auto-drill-galaxy.json) |
 | Auto Drive | 364852 | [364852-auto-drive.json](./364852-auto-drive.json) |
 | Auto Dungeon | 348108 | [348108-auto-dungeon.json](./348108-auto-dungeon.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
