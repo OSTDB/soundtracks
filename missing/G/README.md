@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerbil Riot of '67 | 92795 | [92795-gerbil-riot-of-67.json](./92795-gerbil-riot-of-67.json) |
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
 | Gerda: A Flame in Winter | 185776 | [185776-gerda-a-flame-in-winter.json](./185776-gerda-a-flame-in-winter.json) |
+| Gerda: A Flame in Winter - Liva's Story | 250545 | [250545-gerda-a-flame-in-winter-livas-story.json](./250545-gerda-a-flame-in-winter-livas-story.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
 | Gerda: A Flame in Winter - The Resistance Edition | 256013 | [256013-gerda-a-flame-in-winter-the-resistance-edition.json](./256013-gerda-a-flame-in-winter-the-resistance-edition.json) |
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
