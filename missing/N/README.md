@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Ballers: Chosen One | 7106 | [7106-nba-ballers-chosen-one.json](./7106-nba-ballers-chosen-one.json) |
 | NBA Ballers: Phenom | 5949 | [5949-nba-ballers-phenom.json](./5949-nba-ballers-phenom.json) |
 | NBA Ballers: Rebound | 72721 | [72721-nba-ballers-rebound.json](./72721-nba-ballers-rebound.json) |
+| NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
 | NBA Clash | 232127 | [232127-nba-clash.json](./232127-nba-clash.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Courtside 2002 | 4031 | [4031-nba-courtside-2002.json](./4031-nba-courtside-2002.json) |
