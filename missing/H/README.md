@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hareraiser: Prelude | 238831 | [238831-hareraiser-prelude.json](./238831-hareraiser-prelude.json) |
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Harezora Monogatari Again! | 332781 | [332781-harezora-monogatari-again.json](./332781-harezora-monogatari-again.json) |
+| Harfa | 421312 | [421312-harfa.json](./421312-harfa.json) |
 | Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
 | Harihari Seal Paradise | 66248 | [66248-harihari-seal-paradise.json](./66248-harihari-seal-paradise.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
@@ -7371,6 +7372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroSquare | 251773 | [251773-herosquare.json](./251773-herosquare.json) |
 | HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
+| Heroswarm | 421291 | [421291-heroswarm.json](./421291-heroswarm.json) |
 | HeroTail: Survivors | 390855 | [390855-herotail-survivors.json](./390855-herotail-survivors.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroTower | 259677 | [259677-herotower.json](./259677-herotower.json) |
