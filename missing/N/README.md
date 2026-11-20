@@ -4769,6 +4769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Drive | 332205 | [332205-night-drive.json](./332205-night-drive.json) |
 | Night Drive VR | 88024 | [88024-night-drive-vr.json](./88024-night-drive-vr.json) |
+| Night Drive: Anomaly | 422590 | [422590-night-drive-anomaly.json](./422590-night-drive-anomaly.json) |
 | Night Driver | 18649 | [18649-night-driver.json](./18649-night-driver.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
@@ -5181,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Frames | 152450 | [152450-nightmare-frames.json](./152450-nightmare-frames.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
+| Nightmare Funkin' | 422545 | [422545-nightmare-funkin.json](./422545-nightmare-funkin.json) |
 | Nightmare Gallery | 282441 | [282441-nightmare-gallery.json](./282441-nightmare-gallery.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
 | Nightmare Grotto | 34661 | [34661-nightmare-grotto.json](./34661-nightmare-grotto.json) |
