@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
 | Zenless Zone Zero: Update 3.2 - Their Secret Histories | 417098 | [417098-zenless-zone-zero-update-3-2-their-secret-histories.json](./417098-zenless-zone-zero-update-3-2-their-secret-histories.json) |
 | Zenless Zone Zero: Update 3.3 - Journey to the Sky | 422423 | [422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json](./422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json) |
+| Zenless Zone Zero: Update 3.4 - The Finality of the Day | 430734 | [430734-zenless-zone-zero-update-3-4-the-finality-of-the-day.json](./430734-zenless-zone-zero-update-3-4-the-finality-of-the-day.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
 | Zeno | 186429 | [186429-zeno.json](./186429-zeno.json) |
 | Zeno | 281232 | [281232-zeno.json](./281232-zeno.json) |
