@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius Da!: Shinwa kara Owarai he | 42095 | [42095-parodius-da-shinwa-kara-owarai-he.json](./42095-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
+| PaRoKuuu | 417999 | [417999-parokuuu.json](./417999-parokuuu.json) |
 | Paroniria | 111095 | [111095-paroniria.json](./111095-paroniria.json) |
 | Paroxysm | 71673 | [71673-paroxysm.json](./71673-paroxysm.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persha and the Magic Puzzle: Arabian Nyaights | 235210 | [235210-persha-and-the-magic-puzzle-arabian-nyaights.json](./235210-persha-and-the-magic-puzzle-arabian-nyaights.json) |
 | Persian Empire Builder | 216674 | [216674-persian-empire-builder.json](./216674-persian-empire-builder.json) |
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
+| Persian Maze | 417640 | [417640-persian-maze.json](./417640-persian-maze.json) |
 | Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
 | Persian Wars | 27589 | [27589-persian-wars.json](./27589-persian-wars.json) |
 | Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
@@ -5464,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Dancing Deluxe Twin Plus | 136764 | [136764-persona-dancing-deluxe-twin-plus.json](./136764-persona-dancing-deluxe-twin-plus.json) |
 | Persona Dancing: Endless Night Collection | 106988 | [106988-persona-dancing-endless-night-collection.json](./106988-persona-dancing-endless-night-collection.json) |
 | Persona Dancing: Persona Cinematic Selection | 362143 | [362143-persona-dancing-persona-cinematic-selection.json](./362143-persona-dancing-persona-cinematic-selection.json) |
+| Persona Mobile Online | 413269 | [413269-persona-mobile-online.json](./413269-persona-mobile-online.json) |
 | Persona O.A. | 87504 | [87504-persona-o-a.json](./87504-persona-o-a.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
@@ -14675,6 +14678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye & The Sunken Treasure | 209329 | [209329-popeye-and-the-sunken-treasure.json](./209329-popeye-and-the-sunken-treasure.json) |
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
+| Popeye 2 | 417617 | [417617-popeye-2.json](./417617-popeye-2.json) |
 | Popeye 3: WrestleCrazy | 41022 | [41022-popeye-3-wrestlecrazy.json](./41022-popeye-3-wrestlecrazy.json) |
 | Popeye and the Quest for the Woolly Mammoth | 73718 | [73718-popeye-and-the-quest-for-the-woolly-mammoth.json](./73718-popeye-and-the-quest-for-the-woolly-mammoth.json) |
 | Popeye Beach Volleyball | 45250 | [45250-popeye-beach-volleyball.json](./45250-popeye-beach-volleyball.json) |
@@ -15912,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
 | Precious Stones | 246148 | [246148-precious-stones.json](./246148-precious-stones.json) |
 | Precious Theatre: Pilot | 257619 | [257619-precious-theatre-pilot.json](./257619-precious-theatre-pilot.json) |
+| Precious: Mamorubekimono | 417662 | [417662-precious-mamorubekimono.json](./417662-precious-mamorubekimono.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Précipice | 415251 | [415251-precipice.json](./415251-precipice.json) |
@@ -16207,6 +16212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
+| Presumed Guilty! | 417615 | [417615-presumed-guilty.json](./417615-presumed-guilty.json) |
 | Preta: Vendetta Rising | 41943 | [41943-preta-vendetta-rising.json](./41943-preta-vendetta-rising.json) |
 | Pretend | 143272 | [143272-pretend.json](./143272-pretend.json) |
 | Pretend Cars Racing | 176673 | [176673-pretend-cars-racing.json](./176673-pretend-cars-racing.json) |
