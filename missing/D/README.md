@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
 | Darkdire: The Advanced Set - Greencastle Expansion | 224125 | [224125-darkdire-the-advanced-set-greencastle-expansion.json](./224125-darkdire-the-advanced-set-greencastle-expansion.json) |
+| Darke: Haunting Hours | 424760 | [424760-darke-haunting-hours.json](./424760-darke-haunting-hours.json) |
 | DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
 | Darken Derek: The Last Fallen | 223243 | [223243-darken-derek-the-last-fallen.json](./223243-darken-derek-the-last-fallen.json) |
 | Darken VR | 106334 | [106334-darken-vr.json](./106334-darken-vr.json) |
@@ -4527,6 +4528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead Station Files | 348493 | [348493-dead-station-files.json](./348493-dead-station-files.json) |
+| Dead Station Together | 424519 | [424519-dead-station-together.json](./424519-dead-station-together.json) |
 | Dead sticks | 177674 | [177674-dead-sticks.json](./177674-dead-sticks.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
@@ -9826,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diari | 272998 | [272998-diari.json](./272998-diari.json) |
 | Diaries of a Spaceport Janitor | 23881 | [23881-diaries-of-a-spaceport-janitor.json](./23881-diaries-of-a-spaceport-janitor.json) |
 | Diario: Rebirth Moon Legend | 6965 | [6965-diario-rebirth-moon-legend.json](./6965-diario-rebirth-moon-legend.json) |
+| Diarrhea Disaster | 424756 | [424756-diarrhea-disaster.json](./424756-diarrhea-disaster.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
 | Diary of A Cat | 101837 | [101837-diary-of-a-cat.json](./101837-diary-of-a-cat.json) |
@@ -14423,6 +14426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go Alone | 50277 | [50277-dont-go-alone.json](./50277-dont-go-alone.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Go Camp With Baldi | 106696 | [106696-dont-go-camp-with-baldi.json](./106696-dont-go-camp-with-baldi.json) |
+| Don't Go Duck | 424515 | [424515-dont-go-duck.json](./424515-dont-go-duck.json) |
 | Don't Go in the Old Greene House | 59175 | [59175-dont-go-in-the-old-greene-house.json](./59175-dont-go-in-the-old-greene-house.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go into the Woods | 119847 | [119847-dont-go-into-the-woods.json](./119847-dont-go-into-the-woods.json) |
@@ -20770,6 +20774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaners | 68211 | [68211-dungeon-cleaners.json](./68211-dungeon-cleaners.json) |
 | Dungeon Cleaners 2 | 72804 | [72804-dungeon-cleaners-2.json](./72804-dungeon-cleaners-2.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
+| Dungeon Cleared! | 424907 | [424907-dungeon-cleared.json](./424907-dungeon-cleared.json) |
 | Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon CompAInions | 351317 | [351317-dungeon-compainions.json](./351317-dungeon-compainions.json) |
