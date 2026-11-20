@@ -9365,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
 | Alruna: End of History | 372352 | [372352-alruna-end-of-history.json](./372352-alruna-end-of-history.json) |
+| Alruna: No Man's Land | 424386 | [424386-alruna-no-mans-land.json](./424386-alruna-no-mans-land.json) |
 | Alshark | 37578 | [37578-alshark.json](./37578-alshark.json) |
 | Alsmic Lizzi | 396777 | [396777-alsmic-lizzi.json](./396777-alsmic-lizzi.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
@@ -9719,6 +9720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMathing | 200271 | [200271-amathing.json](./200271-amathing.json) |
 | AmaTisMo | 404598 | [404598-amatismo.json](./404598-amatismo.json) |
 | Amato | 391273 | [391273-amato.json](./391273-amato.json) |
+| Amato Samurai | 424416 | [424416-amato-samurai.json](./424416-amato-samurai.json) |
 | Amatsu Misora ni! Kumo no Hatate ni | 62263 | [62263-amatsu-misora-ni-kumo-no-hatate-ni.json](./62263-amatsu-misora-ni-kumo-no-hatate-ni.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amatsuki Mahjong | 321045 | [321045-amatsuki-mahjong.json](./321045-amatsuki-mahjong.json) |
@@ -18808,6 +18810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Grover | 46912 | [46912-astro-grover.json](./46912-astro-grover.json) |
 | Astro Heist | 260440 | [260440-astro-heist.json](./260440-astro-heist.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
+| Astro Industry Wars | 424419 | [424419-astro-industry-wars.json](./424419-astro-industry-wars.json) |
 | Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Invaders | 206236 | [206236-astro-invaders.json](./206236-astro-invaders.json) |
