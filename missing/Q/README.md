@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
 | Quiplash 2 Interlashional | 132337 | [132337-quiplash-2-interlashional.json](./132337-quiplash-2-interlashional.json) |
+| Quiplash 3 | 427054 | [427054-quiplash-3.json](./427054-quiplash-3.json) |
 | Quiplash: Quip Pack 1 | 226987 | [226987-quiplash-quip-pack-1.json](./226987-quiplash-quip-pack-1.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk | 430117 | [430117-quirk.json](./430117-quirk.json) |
