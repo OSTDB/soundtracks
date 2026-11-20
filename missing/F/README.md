@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Bunny | 27964 | [27964-fat-bunny.json](./27964-fat-bunny.json) |
 | Fat Cat | 315164 | [315164-fat-cat.json](./315164-fat-cat.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
+| Fat Chance | 419478 | [419478-fat-chance.json](./419478-fat-chance.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dragons | 88885 | [88885-fat-dragons.json](./88885-fat-dragons.json) |
@@ -8266,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five: Champions of Canaan | 32324 | [32324-five-champions-of-canaan.json](./32324-five-champions-of-canaan.json) |
 | Five: Esports Manager Game | 199957 | [199957-five-esports-manager-game.json](./199957-five-esports-manager-game.json) |
 | Five: Guardians of David | 20205 | [20205-five-guardians-of-david.json](./20205-five-guardians-of-david.json) |
+| Fivefold | 419512 | [419512-fivefold.json](./419512-fivefold.json) |
 | FiveFold Fury | 419254 | [419254-fivefold-fury.json](./419254-fivefold-fury.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fives | 397478 | [397478-fives.json](./397478-fives.json) |
@@ -9822,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flutter Bombs | 118515 | [118515-flutter-bombs.json](./118515-flutter-bombs.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
+| Flutter Plane | 419501 | [419501-flutter-plane.json](./419501-flutter-plane.json) |
 | Flutter VR | 101662 | [101662-flutter-vr.json](./101662-flutter-vr.json) |
 | Flutter: Butterfly Sanctuary | 98737 | [98737-flutter-butterfly-sanctuary.json](./98737-flutter-butterfly-sanctuary.json) |
 | Flutter: Starlight | 137248 | [137248-flutter-starlight.json](./137248-flutter-starlight.json) |
@@ -10817,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Change | 60113 | [60113-for-a-change.json](./60113-for-a-change.json) |
 | For a Few Minutes | 370591 | [370591-for-a-few-minutes.json](./370591-for-a-few-minutes.json) |
+| For a Long Time, I Built Plans to Steal a Boy at Work and Didn't Dare to Do It, but I Happened to Get Him, so Now I Can Do All Sorts of Things with Him... | 419488 | [419488-for-a-long-time-i-built-plans-to-steal-a-boy-at-work-and-didnt-dare-to-do-it-but-i-happened-to-get-him-so-now-i-can-do-all-sorts-of-things-with-him.json](./419488-for-a-long-time-i-built-plans-to-steal-a-boy-at-work-and-didnt-dare-to-do-it-but-i-happened-to-get-him-so-now-i-can-do-all-sorts-of-things-with-him.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Reason | 264437 | [264437-for-a-reason.json](./264437-for-a-reason.json) |
 | For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
