@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umesawa Yukari no Igo Seminar | 54939 | [54939-umesawa-yukari-no-igo-seminar.json](./54939-umesawa-yukari-no-igo-seminar.json) |
 | Umezawa Yukari no Taikyoku Igo - Heisei Kiin II | 286087 | [286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json](./286087-umezawa-yukari-no-taikyoku-igo-heisei-kiin-ii.json) |
 | Umezma | 395302 | [395302-umezma.json](./395302-umezma.json) |
+| Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
 | Umi no Nushi Tsuri 2 | 61848 | [61848-umi-no-nushi-tsuri-2.json](./61848-umi-no-nushi-tsuri-2.json) |
 | Umi no Nushi Tsuri: Takara-jima ni Mukatte | 61850 | [61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json](./61850-umi-no-nushi-tsuri-takara-jima-ni-mukatte.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umigari | 372200 | [372200-umigari.json](./372200-umigari.json) |
 | Umihara Kawase | 15928 | [15928-umihara-kawase.json](./15928-umihara-kawase.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
+| Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Portable | 42847 | [42847-umihara-kawase-portable.json](./42847-umihara-kawase-portable.json) |
 | Umihara Kawase Shun | 45227 | [45227-umihara-kawase-shun.json](./45227-umihara-kawase-shun.json) |
 | Umihara Kawase Shun: Second Edition Complete | 63752 | [63752-umihara-kawase-shun-second-edition-complete.json](./63752-umihara-kawase-shun-second-edition-complete.json) |
