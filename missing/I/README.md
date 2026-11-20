@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
+| Immortal Darkness: Curse of The Pale King | 104874 | [104874-immortal-darkness-curse-of-the-pale-king.json](./104874-immortal-darkness-curse-of-the-pale-king.json) |
 | Immortal Defense | 17358 | [17358-immortal-defense.json](./17358-immortal-defense.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Desires | 313735 | [313735-immortal-desires.json](./313735-immortal-desires.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
 | Incredible Jack: Jump & Run | 331069 | [331069-incredible-jack-jump-and-run.json](./331069-incredible-jack-jump-and-run.json) |
 | Incredible Machine Mega Pack | 124970 | [124970-incredible-machine-mega-pack.json](./124970-incredible-machine-mega-pack.json) |
+| Incredible Mandy | 104436 | [104436-incredible-mandy.json](./104436-incredible-mandy.json) |
 | Incredible Monster Prison Escape Police Jail Break | 104582 | [104582-incredible-monster-prison-escape-police-jail-break.json](./104582-incredible-monster-prison-escape-police-jail-break.json) |
 | Incredible Monster VS US Army Prison Survival Game | 102535 | [102535-incredible-monster-vs-us-army-prison-survival-game.json](./102535-incredible-monster-vs-us-army-prison-survival-game.json) |
 | Incredible Puzzle | 224037 | [224037-incredible-puzzle.json](./224037-incredible-puzzle.json) |
@@ -7478,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istanbul Ship Simulator | 190771 | [190771-istanbul-ship-simulator.json](./190771-istanbul-ship-simulator.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
+| Istanbul: Digital Edition | 104265 | [104265-istanbul-digital-edition.json](./104265-istanbul-digital-edition.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | Istoria | 150907 | [150907-istoria.json](./150907-istoria.json) |
 | Istorii Uzhasov: Voskreshenie | 368244 | [368244-istorii-uzhasov-voskreshenie.json](./368244-istorii-uzhasov-voskreshenie.json) |
