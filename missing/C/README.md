@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
 | Catapult Girls | 383912 | [383912-catapult-girls.json](./383912-catapult-girls.json) |
 | Catapult Madness | 383266 | [383266-catapult-madness.json](./383266-catapult-madness.json) |
+| Catapult vs. Orcs | 423181 | [423181-catapult-vs-orcs.json](./423181-catapult-vs-orcs.json) |
 | Catapulteers | 404171 | [404171-catapulteers.json](./404171-catapulteers.json) |
 | Catapulture | 408024 | [408024-catapulture.json](./408024-catapulture.json) |
 | Cataract: Autobattler Roguelite Deckbuilder | 403200 | [403200-cataract-autobattler-roguelite-deckbuilder.json](./403200-cataract-autobattler-roguelite-deckbuilder.json) |
@@ -13805,6 +13806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony | 39738 | [39738-colony.json](./39738-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 13: Into the Void | 348509 | [348509-colony-13-into-the-void.json](./348509-colony-13-into-the-void.json) |
+| Colony 2 | 423166 | [423166-colony-2.json](./423166-colony-2.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 28 | 93315 | [93315-colony-28.json](./93315-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
@@ -14799,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Summoner Time Trial Version | 253759 | [253759-comet-summoner-time-trial-version.json](./253759-comet-summoner-time-trial-version.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
+| Comet's wayfaring odyssey | 423175 | [423175-comets-wayfaring-odyssey.json](./423175-comets-wayfaring-odyssey.json) |
 | Cometh Battle | 212568 | [212568-cometh-battle.json](./212568-cometh-battle.json) |
 | Cometrox! | 424594 | [424594-cometrox.json](./424594-cometrox.json) |
 | Comets Wake | 76918 | [76918-comets-wake.json](./76918-comets-wake.json) |
