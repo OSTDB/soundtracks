@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date de Blackjack | 401060 | [401060-date-de-blackjack.json](./401060-date-de-blackjack.json) |
 | Date Everything!: Lavish DLC | 345712 | [345712-date-everything-lavish-dlc.json](./345712-date-everything-lavish-dlc.json) |
 | Date Everything!: Lavish Edition | 345713 | [345713-date-everything-lavish-edition.json](./345713-date-everything-lavish-edition.json) |
+| Date for Dead | 422234 | [422234-date-for-dead.json](./422234-date-for-dead.json) |
 | Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
 | Date Knight | 197822 | [197822-date-knight.json](./197822-date-knight.json) |
 | Date Math | 407083 | [407083-date-math.json](./407083-date-math.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
+| Dave the Diver: Subnautica 2 | 422262 | [422262-dave-the-diver-subnautica-2.json](./422262-dave-the-diver-subnautica-2.json) |
 | Dave Winfield's Batter Up! | 111897 | [111897-dave-winfields-batter-up.json](./111897-dave-winfields-batter-up.json) |
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
 | Dave.exe | 276020 | [276020-dave-exe.json](./276020-dave-exe.json) |
@@ -3902,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Ascend | 320638 | [320638-dead-ascend.json](./320638-dead-ascend.json) |
+| Dead Awake | 422238 | [422238-dead-awake.json](./422238-dead-awake.json) |
 | Dead Beacon | 213770 | [213770-dead-beacon.json](./213770-dead-beacon.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
 | Dead Before Work: The Commute | 399087 | [399087-dead-before-work-the-commute.json](./399087-dead-before-work-the-commute.json) |
@@ -6087,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fringe | 335419 | [335419-deep-fringe.json](./335419-deep-fringe.json) |
+| Deep Frost | 422599 | [422599-deep-frost.json](./422599-deep-frost.json) |
 | Deep Fry | 381904 | [381904-deep-fry.json](./381904-deep-fry.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep GachiGasm | 75271 | [75271-deep-gachigasm.json](./75271-deep-gachigasm.json) |
@@ -19338,6 +19342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
 | Drive Together | 384799 | [384799-drive-together.json](./384799-drive-together.json) |
 | Drive Up | 266997 | [266997-drive-up.json](./266997-drive-up.json) |
+| Drive Up: Together | 422617 | [422617-drive-up-together.json](./422617-drive-up-together.json) |
 | Drive West Coast | 224496 | [224496-drive-west-coast.json](./224496-drive-west-coast.json) |
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
@@ -19575,6 +19580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droneboi 2 | 215260 | [215260-droneboi-2.json](./215260-droneboi-2.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
+| Dronefall | 422235 | [422235-dronefall.json](./422235-dronefall.json) |
 | DroneGlitch | 171702 | [171702-droneglitch.json](./171702-droneglitch.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | DroneRidge | 172860 | [172860-droneridge.json](./172860-droneridge.json) |
