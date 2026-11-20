@@ -13547,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Jam | 107735 | [107735-dog-jam.json](./107735-dog-jam.json) |
 | Dog Jigsaw from Japan | 397868 | [397868-dog-jigsaw-from-japan.json](./397868-dog-jigsaw-from-japan.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
+| Dog Licking Simulator | 425579 | [425579-dog-licking-simulator.json](./425579-dog-licking-simulator.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog Man: Bark in Action | 417896 | [417896-dog-man-bark-in-action.json](./417896-dog-man-bark-in-action.json) |
 | Dog Man: Mission Impawsible | 316875 | [316875-dog-man-mission-impawsible.json](./316875-dog-man-mission-impawsible.json) |
