@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keepers of Vyrellia | 383332 | [383332-keepers-of-vyrellia.json](./383332-keepers-of-vyrellia.json) |
 | Keepers: Fractured Realities | 399398 | [399398-keepers-fractured-realities.json](./399398-keepers-fractured-realities.json) |
+| Keepguard | 429698 | [429698-keepguard.json](./429698-keepguard.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keeping SNES Alive | 306132 | [306132-keeping-snes-alive.json](./306132-keeping-snes-alive.json) |
 | Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | KeyBreach | 389690 | [389690-keybreach.json](./389690-keybreach.json) |
 | Keycap Keycap! | 420975 | [420975-keycap-keycap.json](./420975-keycap-keycap.json) |
+| Keycap: Tidy Up! | 429782 | [429782-keycap-tidy-up.json](./429782-keycap-tidy-up.json) |
 | KeyCars | 134768 | [134768-keycars.json](./134768-keycars.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
