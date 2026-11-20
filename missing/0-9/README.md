@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25 Days in the Dark | 406509 | [406509-25-days-in-the-dark.json](./406509-25-days-in-the-dark.json) |
 | 25 in 1 Family Games Mega Collection | 385159 | [385159-25-in-1-family-games-mega-collection.json](./385159-25-in-1-family-games-mega-collection.json) |
 | 25 Layers of Pain | 172917 | [172917-25-layers-of-pain.json](./172917-25-layers-of-pain.json) |
+| 25 Magic Knight Ln | 421880 | [421880-25-magic-knight-ln.json](./421880-25-magic-knight-ln.json) |
 | 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
 | 25 Skiing | 27224 | [27224-25-skiing.json](./27224-25-skiing.json) |
 | 25 To Life | 5714 | [5714-25-to-life.json](./5714-25-to-life.json) |
@@ -4163,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Days | 372900 | [372900-99-days.json](./372900-99-days.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 Fails | 239125 | [239125-99-fails.json](./239125-99-fails.json) |
+| 99 Fails Lite | 421870 | [421870-99-fails-lite.json](./421870-99-fails-lite.json) |
 | 99 Managers Futsal Edition | 359667 | [359667-99-managers-futsal-edition.json](./359667-99-managers-futsal-edition.json) |
 | 99 Moves | 221991 | [221991-99-moves.json](./221991-99-moves.json) |
 | 99 Nendohan: Eitango Center 1500 | 133254 | [133254-99-nendohan-eitango-center-1500.json](./133254-99-nendohan-eitango-center-1500.json) |
