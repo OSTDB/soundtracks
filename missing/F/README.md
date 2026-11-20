@@ -3776,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Final Singularity - Solomon | 415255 | [415255-fate-grand-order-final-singularity-solomon.json](./415255-fate-grand-order-final-singularity-solomon.json) |
 | Fate/Grand Order: Great Void Sea Battle, Imaginary Scramble | 417630 | [417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json](./417630-fate-grand-order-great-void-sea-battle-imaginary-scramble.json) |
 | Fate/Grand Order: Lostbelt No. 2 - Götterdämmerung | 417540 | [417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json](./417540-fate-grand-order-lostbelt-no-2-gotterdammerung.json) |
+| Fate/Grand Order: Lostbelt No. 4 - Yuga Kshetra | 417568 | [417568-fate-grand-order-lostbelt-no-4-yuga-kshetra.json](./417568-fate-grand-order-lostbelt-no-4-yuga-kshetra.json) |
 | Fate/Grand Order: Merry Christmas in the Underworld | 418780 | [418780-fate-grand-order-merry-christmas-in-the-underworld.json](./418780-fate-grand-order-merry-christmas-in-the-underworld.json) |
 | Fate/Grand Order: Naraka Mandala - Heian-kyo | 416642 | [416642-fate-grand-order-naraka-mandala-heian-kyo.json](./416642-fate-grand-order-naraka-mandala-heian-kyo.json) |
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
@@ -9773,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Memories | 346281 | [346281-fluffy-memories.json](./346281-fluffy-memories.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Party | 365910 | [365910-fluffy-party.json](./365910-fluffy-party.json) |
+| Fluffy Rumble | 417616 | [417616-fluffy-rumble.json](./417616-fluffy-rumble.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Rush | 241600 | [241600-fluffy-rush.json](./241600-fluffy-rush.json) |
 | Fluffy Sailors | 309924 | [309924-fluffy-sailors.json](./309924-fluffy-sailors.json) |
