@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bibelot: Prototo | 314676 | [314676-a-bibelot-prototo.json](./314676-a-bibelot-prototo.json) |
 | A Bibelot: Y-Break | 332593 | [332593-a-bibelot-y-break.json](./332593-a-bibelot-y-break.json) |
 | A Bibelot: Y-Type | 324951 | [324951-a-bibelot-y-type.json](./324951-a-bibelot-y-type.json) |
+| A Big Impertinent Face | 426650 | [426650-a-big-impertinent-face.json](./426650-a-big-impertinent-face.json) |
 | A Bike Ride to the Creek | 266135 | [266135-a-bike-ride-to-the-creek.json](./266135-a-bike-ride-to-the-creek.json) |
 | A Bird Called Mike | 239420 | [239420-a-bird-called-mike.json](./239420-a-bird-called-mike.json) |
 | A Bird Hunt: Retro Bird Hunting Game | 175543 | [175543-a-bird-hunt-retro-bird-hunting-game.json](./175543-a-bird-hunt-retro-bird-hunting-game.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
+| Aestia: The Engineer's Odyssey | 426466 | [426466-aestia-the-engineers-odyssey.json](./426466-aestia-the-engineers-odyssey.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Lucis | 280572 | [280572-aeterna-lucis.json](./280572-aeterna-lucis.json) |
 | Aeterna Noctis | 144380 | [144380-aeterna-noctis.json](./144380-aeterna-noctis.json) |
@@ -10353,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ammo 666 | 153883 | [153883-ammo-666.json](./153883-ammo-666.json) |
 | Ammo and Oxygen | 264568 | [264568-ammo-and-oxygen.json](./264568-ammo-and-oxygen.json) |
 | Ammo Bounce | 359145 | [359145-ammo-bounce.json](./359145-ammo-bounce.json) |
+| Ammo Dump | 426664 | [426664-ammo-dump.json](./426664-ammo-dump.json) |
 | Ammo Garden | 336574 | [336574-ammo-garden.json](./336574-ammo-garden.json) |
 | Ammo Pigs: Armed and Delicious | 107889 | [107889-ammo-pigs-armed-and-delicious.json](./107889-ammo-pigs-armed-and-delicious.json) |
 | Ammo Pigs: Cocked and Loaded | 192012 | [192012-ammo-pigs-cocked-and-loaded.json](./192012-ammo-pigs-cocked-and-loaded.json) |
