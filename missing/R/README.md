@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Cars: the Extreme Rally | 71065 | [71065-race-cars-the-extreme-rally.json](./71065-race-cars-the-extreme-rally.json) |
 | Race City | 72214 | [72214-race-city.json](./72214-race-city.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
+| Race Control | 429139 | [429139-race-control.json](./429139-race-control.json) |
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
 | Race Day | 251331 | [251331-race-day.json](./251331-race-day.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
@@ -4167,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact Istanbul: Eyes Of Sky | 321167 | [321167-recontact-istanbul-eyes-of-sky.json](./321167-recontact-istanbul-eyes-of-sky.json) |
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record Life | 126307 | [126307-record-life.json](./126307-record-life.json) |
+| Record of '99 | 429141 | [429141-record-of-99.json](./429141-record-of-99.json) |
 | Record of Agarest War | 7158 | [7158-record-of-agarest-war.json](./7158-record-of-agarest-war.json) |
 | Record of Agarest War 2 | 46031 | [46031-record-of-agarest-war-2.json](./46031-record-of-agarest-war-2.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
