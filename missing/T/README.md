@@ -5062,6 +5062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Invicta: Dark Skies | 408608 | [408608-terra-invicta-dark-skies.json](./408608-terra-invicta-dark-skies.json) |
 | Terra Lander | 9457 | [9457-terra-lander.json](./9457-terra-lander.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
+| Terra Machina | 425566 | [425566-terra-machina.json](./425566-terra-machina.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
 | Terra Memoria | 252345 | [252345-terra-memoria.json](./252345-terra-memoria.json) |
@@ -6625,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Universe of the Psychotrons | 315610 | [315610-the-amazing-universe-of-the-psychotrons.json](./315610-the-amazing-universe-of-the-psychotrons.json) |
 | The Amazing Virtual Sea-Monkeys | 49267 | [49267-the-amazing-virtual-sea-monkeys.json](./49267-the-amazing-virtual-sea-monkeys.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
+| The Amazing World of Gumball: Blind Fooled | 425552 | [425552-the-amazing-world-of-gumball-blind-fooled.json](./425552-the-amazing-world-of-gumball-blind-fooled.json) |
 | The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
 | the Amazing-frog 3D | 96985 | [96985-the-amazing-frog-3d.json](./96985-the-amazing-frog-3d.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
@@ -13717,6 +13719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Bot | 270547 | [270547-the-last-bot.json](./270547-the-last-bot.json) |
 | The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
 | The Last Braincell | 265276 | [265276-the-last-braincell.json](./265276-the-last-braincell.json) |
+| The Last Brazilian | 425553 | [425553-the-last-brazilian.json](./425553-the-last-brazilian.json) |
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 339194 | [339194-the-last-bug.json](./339194-the-last-bug.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
@@ -26559,6 +26562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Bundle | 308828 | [308828-time-travel-bundle.json](./308828-time-travel-bundle.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
+| Time Travel Is No Picnic | 425534 | [425534-time-travel-is-no-picnic.json](./425534-time-travel-is-no-picnic.json) |
 | Time Travel Shanty | 172330 | [172330-time-travel-shanty.json](./172330-time-travel-shanty.json) |
 | Time Travel Train | 381194 | [381194-time-travel-train.json](./381194-time-travel-train.json) |
 | Time Travel Trainer | 126777 | [126777-time-travel-trainer.json](./126777-time-travel-trainer.json) |
@@ -37812,6 +37816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutenstone | 251985 | [251985-tutenstone.json](./251985-tutenstone.json) |
 | Tutien Path | 361596 | [361596-tutien-path.json](./361596-tutien-path.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
+| Tutsak | 425546 | [425546-tutsak.json](./425546-tutsak.json) |
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
 | Tuttle: Star Flower Harvest | 247934 | [247934-tuttle-star-flower-harvest.json](./247934-tuttle-star-flower-harvest.json) |
 | Tuttuki Bako | 289177 | [289177-tuttuki-bako.json](./289177-tuttuki-bako.json) |
@@ -38357,6 +38362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two | 284107 | [284107-two.json](./284107-two.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
+| Two & Two: Agents | 425523 | [425523-two-and-two-agents.json](./425523-two-and-two-agents.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
 | Two Apples | 367085 | [367085-two-apples.json](./367085-two-apples.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
