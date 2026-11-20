@@ -2024,7 +2024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
 | Magnetic Block Puzzle | 367877 | [367877-magnetic-block-puzzle.json](./367877-magnetic-block-puzzle.json) |
 | Magnetic Bonds | 208563 | [208563-magnetic-bonds.json](./208563-magnetic-bonds.json) |
-| Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Catch | 424136 | [424136-magnetic-catch.json](./424136-magnetic-catch.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
@@ -13646,7 +13645,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire City | 115543 | [115543-millionaire-city.json](./115543-millionaire-city.json) |
 | Millionaire Dancer | 117098 | [117098-millionaire-dancer.json](./117098-millionaire-dancer.json) |
 | Millionaire Escape | 353582 | [353582-millionaire-escape.json](./353582-millionaire-escape.json) |
-| Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
 | Millionaire Monster Penthouse | 298906 | [298906-millionaire-monster-penthouse.json](./298906-millionaire-monster-penthouse.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
@@ -18725,7 +18723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters and Weapons | 190762 | [190762-monsters-and-weapons.json](./190762-monsters-and-weapons.json) |
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
-| Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Ate My Condo | 22925 | [22925-monsters-ate-my-condo.json](./22925-monsters-ate-my-condo.json) |
 | Monsters Ate My Metropolis | 122010 | [122010-monsters-ate-my-metropolis.json](./122010-monsters-ate-my-metropolis.json) |
 | Monsters Attack | 89440 | [89440-monsters-attack.json](./89440-monsters-attack.json) |
