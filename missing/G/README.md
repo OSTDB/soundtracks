@@ -8602,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
 | Gotta Go Fast: Racing Collection | 246572 | [246572-gotta-go-fast-racing-collection.json](./246572-gotta-go-fast-racing-collection.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
+| Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Gotta Protectors: Cart of Darkness - Ultimate Deluxe Bundle | 199883 | [199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json](./199883-gotta-protectors-cart-of-darkness-ultimate-deluxe-bundle.json) |
 | Gotta Protectors: Cart of Darkness DLC Bundle Packs 1-4 | 223590 | [223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json](./223590-gotta-protectors-cart-of-darkness-dlc-bundle-packs-1-4.json) |
 | Gotta Protectors: Cart of Darkness DLC Pack 1 | 199878 | [199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json](./199878-gotta-protectors-cart-of-darkness-dlc-pack-1.json) |
@@ -12948,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Mission: "VS ???" | 170842 | [170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json](./170842-gunvolt-chronicles-luminous-avenger-ix-extra-mission-vs.json) |
 | Gunvolt Chronicles: Luminous Avenger iX - Extra Song: "Raison d'être" | 296852 | [296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json](./296852-gunvolt-chronicles-luminous-avenger-ix-extra-song-raison-detre.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection | 392770 | [392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json](./392770-gunvolt-chronicles-luminous-avenger-ix-1-2-dual-collection.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 2 | 166326 | [166326-gunvolt-chronicles-luminous-avenger-ix-2.json](./166326-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Jason Frudnick | 196153 | [196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json](./196153-gunvolt-chronicles-luminous-avenger-ix-2-jason-frudnick.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Limited Edition | 186922 | [186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json](./186922-gunvolt-chronicles-luminous-avenger-ix-2-limited-edition.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
