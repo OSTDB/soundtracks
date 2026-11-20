@@ -13748,6 +13748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Station Simulator | 296302 | [296302-police-station-simulator.json](./296302-police-station-simulator.json) |
 | Police Stories | 28225 | [28225-police-stories.json](./28225-police-stories.json) |
+| Police Stories 2 | 423141 | [423141-police-stories-2.json](./423141-police-stories-2.json) |
 | Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Story | 95788 | [95788-police-story.json](./95788-police-story.json) |
@@ -16879,6 +16880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisma & the Masquerade Menace | 30907 | [30907-prisma-and-the-masquerade-menace.json](./30907-prisma-and-the-masquerade-menace.json) |
 | Prisma Light | 236849 | [236849-prisma-light.json](./236849-prisma-light.json) |
 | PrismaDrop | 219903 | [219903-prismadrop.json](./219903-prismadrop.json) |
+| Prismania | 423136 | [423136-prismania.json](./423136-prismania.json) |
 | Prismarch | 388553 | [388553-prismarch.json](./388553-prismarch.json) |
 | Prismata | 8215 | [8215-prismata.json](./8215-prismata.json) |
 | Prismata: Founder's Edition DLC | 167920 | [167920-prismata-founders-edition-dlc.json](./167920-prismata-founders-edition-dlc.json) |
@@ -18916,6 +18918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
 | Property Pro | 235549 | [235549-property-pro.json](./235549-property-pro.json) |
+| Property Rush | 423148 | [423148-property-rush.json](./423148-property-rush.json) |
 | Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
 | PropFight | 331438 | [331438-propfight.json](./331438-propfight.json) |
 | Prophan Escape | 274534 | [274534-prophan-escape.json](./274534-prophan-escape.json) |
