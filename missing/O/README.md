@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Axis | 422687 | [422687-off-axis.json](./422687-off-axis.json) |
 | Off Base | 271461 | [271461-off-base.json](./271461-off-base.json) |
 | Off Course | 361839 | [361839-off-course.json](./361839-off-course.json) |
+| Off Course | 422595 | [422595-off-course.json](./422595-off-course.json) |
 | Off Day | 178501 | [178501-off-day.json](./178501-off-day.json) |
 | Off Garbage | 398100 | [398100-off-garbage.json](./398100-off-garbage.json) |
 | Off Grid | 392388 | [392388-off-grid.json](./392388-off-grid.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: World Seeker - The Pirate King Edition | 166282 | [166282-one-piece-world-seeker-the-pirate-king-edition.json](./166282-one-piece-world-seeker-the-pirate-king-edition.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
+| One Piexel | 422263 | [422263-one-piexel.json](./422263-one-piexel.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
 | One Pixel | 155895 | [155895-one-pixel.json](./155895-one-pixel.json) |
@@ -6019,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Volleyball Red Hot | 47379 | [47379-outlaw-volleyball-red-hot.json](./47379-outlaw-volleyball-red-hot.json) |
 | Outlaw Volleyball: Remixed | 43628 | [43628-outlaw-volleyball-remixed.json](./43628-outlaw-volleyball-remixed.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
+| Outlaw's Vengeance | 422600 | [422600-outlaws-vengeance.json](./422600-outlaws-vengeance.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
