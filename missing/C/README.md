@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
 | Capsule | 174948 | [174948-capsule.json](./174948-capsule.json) |
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
+| Capsule Arcade | 424992 | [424992-capsule-arcade.json](./424992-capsule-arcade.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Fight | 299518 | [299518-capsule-fight.json](./299518-capsule-fight.json) |
 | Capsule Fighting | 334560 | [334560-capsule-fighting.json](./334560-capsule-fighting.json) |
@@ -10222,6 +10223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinders of Hades | 158772 | [158772-cinders-of-hades.json](./158772-cinders-of-hades.json) |
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
+| Cinderwake | 424950 | [424950-cinderwake.json](./424950-cinderwake.json) |
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
 | Cindy's Fashion World | 278863 | [278863-cindys-fashion-world.json](./278863-cindys-fashion-world.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
