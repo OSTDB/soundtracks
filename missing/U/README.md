@@ -284,7 +284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Aftermath | 8928 | [8928-ufo-aftermath.json](./8928-ufo-aftermath.json) |
 | UFO: Aftershock | 9853 | [9853-ufo-aftershock.json](./9853-ufo-aftershock.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
-| UFO: Extraterrestrials | 9437 | [9437-ufo-extraterrestrials.json](./9437-ufo-extraterrestrials.json) |
 | UFO: Extraterrestrials Platinum | 251984 | [251984-ufo-extraterrestrials-platinum.json](./251984-ufo-extraterrestrials-platinum.json) |
 | UFO: Henfield | 277974 | [277974-ufo-henfield.json](./277974-ufo-henfield.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
