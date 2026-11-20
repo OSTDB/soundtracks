@@ -1824,7 +1824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olu | 100249 | [100249-olu.json](./100249-olu.json) |
 | Olyen | 378239 | [378239-olyen.json](./378239-olyen.json) |
-| Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia Soirée | 136601 | [136601-olympia-soiree.json](./136601-olympia-soiree.json) |
 | Olympia Soirée Catharsis | 382140 | [382140-olympia-soiree-catharsis.json](./382140-olympia-soiree-catharsis.json) |
 | Olympia Soirée: Limited Edition | 257627 | [257627-olympia-soiree-limited-edition.json](./257627-olympia-soiree-limited-edition.json) |
