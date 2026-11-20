@@ -1140,7 +1140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yosin: Gumihodyeon | 215847 | [215847-yosin-gumihodyeon.json](./215847-yosin-gumihodyeon.json) |
 | Yosou Shin Karon | 37462 | [37462-yosou-shin-karon.json](./37462-yosou-shin-karon.json) |
 | Yosuga no Sora | 329518 | [329518-yosuga-no-sora.json](./329518-yosuga-no-sora.json) |
-| Yosumin! | 9309 | [9309-yosumin.json](./9309-yosumin.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsudomoe | 422533 | [422533-yotsudomoe.json](./422533-yotsudomoe.json) |
 | Yotsume God | 202709 | [202709-yotsume-god.json](./202709-yotsume-god.json) |
