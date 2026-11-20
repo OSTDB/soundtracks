@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.G: Fight For Your Life | 70203 | [70203-d-o-g-fight-for-your-life.json](./70203-d-o-g-fight-for-your-life.json) |
 | D.O.L.L.S. | 373607 | [373607-d-o-l-l-s.json](./373607-d-o-l-l-s.json) |
+| D.O.P.E. | 419493 | [419493-d-o-p-e.json](./419493-d-o-p-e.json) |
 | D.O.R.F. Real-Time Strategic Conflict | 247998 | [247998-d-o-r-f-real-time-strategic-conflict.json](./247998-d-o-r-f-real-time-strategic-conflict.json) |
 | D.O.T. Defence | 334069 | [334069-d-o-t-defence.json](./334069-d-o-t-defence.json) |
 | D.O.T. Defender of Texel | 326505 | [326505-d-o-t-defender-of-texel.json](./326505-d-o-t-defender-of-texel.json) |
@@ -7262,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
 | Demian: The Ritual | 157412 | [157412-demian-the-ritual.json](./157412-demian-the-ritual.json) |
+| Demidoff Corp | 419520 | [419520-demidoff-corp.json](./419520-demidoff-corp.json) |
 | Demigod | 9279 | [9279-demigod.json](./9279-demigod.json) |
 | Demigod Daycare | 394080 | [394080-demigod-daycare.json](./394080-demigod-daycare.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
@@ -9641,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
 | Diablo | 247342 | [247342-diablo.json](./247342-diablo.json) |
+| Diablo | 419476 | [419476-diablo.json](./419476-diablo.json) |
 | Diablo + Hellfire | 127781 | [127781-diablo-hellfire.json](./127781-diablo-hellfire.json) |
 | Diablo II: Resurrected | 142803 | [142803-diablo-ii-resurrected.json](./142803-diablo-ii-resurrected.json) |
 | Diablo II: Resurrected - Prime Evil Collection | 155099 | [155099-diablo-ii-resurrected-prime-evil-collection.json](./155099-diablo-ii-resurrected-prime-evil-collection.json) |
@@ -22381,6 +22384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
 | Dyno Adventure | 31399 | [31399-dyno-adventure.json](./31399-dyno-adventure.json) |
+| Dyno Burst | 419486 | [419486-dyno-burst.json](./419486-dyno-burst.json) |
 | Dyno Master | 219951 | [219951-dyno-master.json](./219951-dyno-master.json) |
 | Dyno Tennis | 245116 | [245116-dyno-tennis.json](./245116-dyno-tennis.json) |
 | DynoBlaze | 350144 | [350144-dynoblaze.json](./350144-dynoblaze.json) |
