@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
 | Yomawari: Night Alone - Limited Edition | 42728 | [42728-yomawari-night-alone-limited-edition.json](./42728-yomawari-night-alone-limited-edition.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
+| Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomegami: My Sweet Goddess | 361980 | [361980-yomegami-my-sweet-goddess.json](./361980-yomegami-my-sweet-goddess.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi | 17189 | [17189-yomi.json](./17189-yomi.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
 | Yoren | 131657 | [131657-yoren.json](./131657-yoren.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
+| Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
 | Yori's Journey: Forgotten Origins | 304767 | [304767-yoris-journey-forgotten-origins.json](./304767-yoris-journey-forgotten-origins.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
@@ -1547,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
 | Young Merlin | 11665 | [11665-young-merlin.json](./11665-young-merlin.json) |
 | Young Sherlock: The Legacy of Doyle | 70163 | [70163-young-sherlock-the-legacy-of-doyle.json](./70163-young-sherlock-the-legacy-of-doyle.json) |
+| Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Team Sounds | 263715 | [263715-young-team-sounds.json](./263715-young-team-sounds.json) |
 | Young Thor | 20467 | [20467-young-thor.json](./20467-young-thor.json) |
