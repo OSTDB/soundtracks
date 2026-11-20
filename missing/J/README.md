@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump5 Video Director | 414544 | [414544-jump5-video-director.json](./414544-jump5-video-director.json) |
 | Jumpah | 254755 | [254755-jumpah.json](./254755-jumpah.json) |
 | Jumpala | 131934 | [131934-jumpala.json](./131934-jumpala.json) |
+| JumpBall | 30986 | [30986-jumpball.json](./30986-jumpball.json) |
 | JumpBall 2 | 75642 | [75642-jumpball-2.json](./75642-jumpball-2.json) |
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpbot | 120882 | [120882-jumpbot.json](./120882-jumpbot.json) |
