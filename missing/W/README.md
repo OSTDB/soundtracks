@@ -1257,7 +1257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
 | War Trigger 2 | 128197 | [128197-war-trigger-2.json](./128197-war-trigger-2.json) |
-| War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
 | War Trigger Classic | 107690 | [107690-war-trigger-classic.json](./107690-war-trigger-classic.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
