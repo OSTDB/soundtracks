@@ -5141,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Stone | 216314 | [216314-second-stone.json](./216314-second-stone.json) |
 | Second Story | 421743 | [421743-second-story.json](./421743-second-story.json) |
 | Second Story | 59688 | [59688-second-story.json](./59688-second-story.json) |
+| Second Strike | 421355 | [421355-second-strike.json](./421355-second-strike.json) |
 | Second Sun | 244915 | [244915-second-sun.json](./244915-second-sun.json) |
 | Second Thoughts | 203543 | [203543-second-thoughts.json](./203543-second-thoughts.json) |
 | Second to Nun | 189949 | [189949-second-to-nun.json](./189949-second-to-nun.json) |
@@ -10430,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi: Japanese Chess | 221357 | [221357-shogi-japanese-chess.json](./221357-shogi-japanese-chess.json) |
 | Shogi: Touryuumon | 37453 | [37453-shogi-touryuumon.json](./37453-shogi-touryuumon.json) |
 | Shogi! | 243444 | [243444-shogi.json](./243444-shogi.json) |
+| Shogo VR | 421323 | [421323-shogo-vr.json](./421323-shogo-vr.json) |
 | Shogo: Mobile Armor Division | 12464 | [12464-shogo-mobile-armor-division.json](./12464-shogo-mobile-armor-division.json) |
 | Shogun | 298095 | [298095-shogun.json](./298095-shogun.json) |
 | Shogun | 306534 | [306534-shogun.json](./306534-shogun.json) |
@@ -17325,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snake360 Lite | 68431 | [68431-snake360-lite.json](./68431-snake360-lite.json) |
 | Snake3d | 147776 | [147776-snake3d.json](./147776-snake3d.json) |
+| SnakeArea.io | 421290 | [421290-snakearea-io.json](./421290-snakearea-io.json) |
 | Snakeball | 21881 | [21881-snakeball.json](./21881-snakeball.json) |
 | Snakebird | 13104 | [13104-snakebird.json](./13104-snakebird.json) |
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
@@ -21741,6 +21744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Chess | 301057 | [301057-souls-chess.json](./301057-souls-chess.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
+| Souls for Relics | 421300 | [421300-souls-for-relics.json](./421300-souls-for-relics.json) |
 | Souls Inferno | 399668 | [399668-souls-inferno.json](./399668-souls-inferno.json) |
 | Souls Lore | 150725 | [150725-souls-lore.json](./150725-souls-lore.json) |
 | Souls of Amethyst | 145326 | [145326-souls-of-amethyst.json](./145326-souls-of-amethyst.json) |
@@ -28672,6 +28676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbot 4Ever | 337001 | [337001-starbot-4ever.json](./337001-starbot-4ever.json) |
 | Starbot: Asvertichaos | 316539 | [316539-starbot-asvertichaos.json](./316539-starbot-asvertichaos.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
+| Starbound Settlers | 421302 | [421302-starbound-settlers.json](./421302-starbound-settlers.json) |
 | Starboy | 111843 | [111843-starboy.json](./111843-starboy.json) |
 | StarBoy | 153800 | [153800-starboy.json](./153800-starboy.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
