@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
 | Tak 2: The Staff of Dreams | 2779 | [2779-tak-2-the-staff-of-dreams.json](./2779-tak-2-the-staff-of-dreams.json) |
 | Tak and the Guardians of Gross | 2781 | [2781-tak-and-the-guardians-of-gross.json](./2781-tak-and-the-guardians-of-gross.json) |
+| Tak and the Power of Juju | 248449 | [248449-tak-and-the-power-of-juju.json](./248449-tak-and-the-power-of-juju.json) |
 | Tak: Mojo Mistake | 2782 | [2782-tak-mojo-mistake.json](./2782-tak-mojo-mistake.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
 | Technitive | 196997 | [196997-technitive.json](./196997-technitive.json) |
+| Techno Banter | 250795 | [250795-techno-banter.json](./250795-techno-banter.json) |
 | Techno BB | 59397 | [59397-techno-bb.json](./59397-techno-bb.json) |
 | Techno Boy | 86529 | [86529-techno-boy.json](./86529-techno-boy.json) |
 | Techno Chopper | 416386 | [416386-techno-chopper.json](./416386-techno-chopper.json) |
@@ -4110,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telemochi | 176525 | [176525-telemochi.json](./176525-telemochi.json) |
 | TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
+| Telenet Shooting Collection | 251524 | [251524-telenet-shooting-collection.json](./251524-telenet-shooting-collection.json) |
 | Telenet Shooting Collection II | 396486 | [396486-telenet-shooting-collection-ii.json](./396486-telenet-shooting-collection-ii.json) |
 | Telengard | 2879 | [2879-telengard.json](./2879-telengard.json) |
 | TeleNovela | 159378 | [159378-telenovela.json](./159378-telenovela.json) |
@@ -4427,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten of the best: Educational Programs | 141396 | [141396-ten-of-the-best-educational-programs.json](./141396-ten-of-the-best-educational-programs.json) |
 | Ten People Ten Colors | 314742 | [314742-ten-people-ten-colors.json](./314742-ten-people-ten-colors.json) |
 | Ten Pin Alley | 6636 | [6636-ten-pin-alley.json](./6636-ten-pin-alley.json) |
+| Ten Pin Alley 2 | 248606 | [248606-ten-pin-alley-2.json](./248606-ten-pin-alley-2.json) |
 | Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
@@ -5054,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
+| Terra Memoria | 252345 | [252345-terra-memoria.json](./252345-terra-memoria.json) |
 | Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra MineDiver | 340149 | [340149-terra-minediver.json](./340149-terra-minediver.json) |
@@ -5457,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testament | 237303 | [237303-testament.json](./237303-testament.json) |
 | Testament | 415737 | [415737-testament.json](./415737-testament.json) |
 | Testament II | 124306 | [124306-testament-ii.json](./124306-testament-ii.json) |
+| Testament: The Order of High-Human | 250466 | [250466-testament-the-order-of-high-human.json](./250466-testament-the-order-of-high-human.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested on Humans: Escape Room | 143171 | [143171-tested-on-humans-escape-room.json](./143171-tested-on-humans-escape-room.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
@@ -19250,6 +19256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Sisterhood Pasture | 327527 | [327527-the-sisterhood-pasture.json](./327527-the-sisterhood-pasture.json) |
+| The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
 | The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
 | The Sisyphus Journey | 334366 | [334366-the-sisyphus-journey.json](./334366-the-sisyphus-journey.json) |
@@ -19344,6 +19351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs | 8083 | [8083-the-smurfs.json](./8083-the-smurfs.json) |
 | The Smurfs 2 | 2597 | [2597-the-smurfs-2.json](./2597-the-smurfs-2.json) |
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
+| The Smurfs 2: The Prisoner of the Green Stone | 250172 | [250172-the-smurfs-2-the-prisoner-of-the-green-stone.json](./250172-the-smurfs-2-the-prisoner-of-the-green-stone.json) |
 | The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit | 275060 | [275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json](./275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json) |
 | The Smurfs and the 4 Seasons | 109150 | [109150-the-smurfs-and-the-4-seasons.json](./109150-the-smurfs-and-the-4-seasons.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
@@ -28583,6 +28591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Lockdown | 312285 | [312285-tom-clancys-rainbow-six-lockdown.json](./312285-tom-clancys-rainbow-six-lockdown.json) |
 | Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
+| Tom Clancy's Rainbow Six: Rogue Spear | 249165 | [249165-tom-clancys-rainbow-six-rogue-spear.json](./249165-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Urban Operations | 1844 | [1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json](./1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear Mission Pack - Urban Operations | 78136 | [78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json](./78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json) |
@@ -28824,6 +28833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legacy of Atlantis - Deluxe Edition | 418337 | [418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json](./418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 165184 | [165184-tomb-raider-legend.json](./165184-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Legend - Tokyo | 165185 | [165185-tomb-raider-legend-tokyo.json](./165185-tomb-raider-legend-tokyo.json) |
@@ -29476,6 +29486,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Spin 2 | 259320 | [259320-top-spin-2.json](./259320-top-spin-2.json) |
 | Top Spin 2 | 259321 | [259321-top-spin-2.json](./259321-top-spin-2.json) |
 | Top Spin 2 | 5235 | [5235-top-spin-2.json](./5235-top-spin-2.json) |
+| Top Spin 3 | 248564 | [248564-top-spin-3.json](./248564-top-spin-3.json) |
+| Top Spin 3 | 248565 | [248565-top-spin-3.json](./248565-top-spin-3.json) |
 | Top Spin 3 | 5232 | [5232-top-spin-3.json](./5232-top-spin-3.json) |
 | Top Stars Football | 198146 | [198146-top-stars-football.json](./198146-top-stars-football.json) |
 | Top Steed | 414525 | [414525-top-steed.json](./414525-top-steed.json) |
@@ -30459,6 +30471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
 | Touhou Genso Wanderer Reloaded: Tojiko Soga | 207152 | [207152-touhou-genso-wanderer-reloaded-tojiko-soga.json](./207152-touhou-genso-wanderer-reloaded-tojiko-soga.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
+| Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Elegant Shrine Maiden Robe | 317669 | [317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json](./317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
 | Touhou Genso Wanderer: Limited Edition | 168553 | [168553-touhou-genso-wanderer-limited-edition.json](./168553-touhou-genso-wanderer-limited-edition.json) |
