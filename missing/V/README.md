@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagalume | 393741 | [393741-vagalume.json](./393741-vagalume.json) |
 | Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
 | Vagante | 19150 | [19150-vagante.json](./19150-vagante.json) |
+| Vaginator 3000 | 427962 | [427962-vaginator-3000.json](./427962-vaginator-3000.json) |
 | Vagneria | 282262 | [282262-vagneria.json](./282262-vagneria.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Fighter FX | 98259 | [98259-vagrant-fighter-fx.json](./98259-vagrant-fighter-fx.json) |
@@ -262,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vai Juliette! | 248758 | [248758-vai-juliette.json](./248758-vai-juliette.json) |
 | Vail | 142985 | [142985-vail.json](./142985-vail.json) |
 | Vail: Enigmia Pack | 290780 | [290780-vail-enigmia-pack.json](./290780-vail-enigmia-pack.json) |
+| Vail: ROVR-07 Character and Weapon Skin Bundle | 427928 | [427928-vail-rovr-07-character-and-weapon-skin-bundle.json](./427928-vail-rovr-07-character-and-weapon-skin-bundle.json) |
 | Vain Ascendance | 210436 | [210436-vain-ascendance.json](./210436-vain-ascendance.json) |
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
