@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect Galaxy | 213 | [213-mass-effect-galaxy.json](./213-mass-effect-galaxy.json) |
 | Mass Effect: Andromeda - Deluxe Edition | 27766 | [27766-mass-effect-andromeda-deluxe-edition.json](./27766-mass-effect-andromeda-deluxe-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
+| Mass Effect: Andromeda - Standard Recruit Edition | 84727 | [84727-mass-effect-andromeda-standard-recruit-edition.json](./84727-mass-effect-andromeda-standard-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Bring Down the Sky | 13784 | [13784-mass-effect-bring-down-the-sky.json](./13784-mass-effect-bring-down-the-sky.json) |
 | Mass Effect: Genesis | 202311 | [202311-mass-effect-genesis.json](./202311-mass-effect-genesis.json) |
@@ -16384,6 +16385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
 | MLB 99 | 28191 | [28191-mlb-99.json](./28191-mlb-99.json) |
 | MLB Ballpark Empire | 61354 | [61354-mlb-ballpark-empire.json](./61354-mlb-ballpark-empire.json) |
+| MLB Bobblehead Battle | 84443 | [84443-mlb-bobblehead-battle.json](./84443-mlb-bobblehead-battle.json) |
 | MLB Champions | 130783 | [130783-mlb-champions.json](./130783-mlb-champions.json) |
 | MLB Clutch Hit Baseball 2023 | 263848 | [263848-mlb-clutch-hit-baseball-2023.json](./263848-mlb-clutch-hit-baseball-2023.json) |
 | MLB Dream Nine Mobile | 291156 | [291156-mlb-dream-nine-mobile.json](./291156-mlb-dream-nine-mobile.json) |
@@ -18545,6 +18547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 166418 | [166418-monster-shooter.json](./166418-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
+| Monster Shooter | 84599 | [84599-monster-shooter.json](./84599-monster-shooter.json) |
 | Monster Shooter: The Lost Levels | 89807 | [89807-monster-shooter-the-lost-levels.json](./89807-monster-shooter-the-lost-levels.json) |
 | Monster Shop Simulator | 406858 | [406858-monster-shop-simulator.json](./406858-monster-shop-simulator.json) |
 | Monster Shopper | 236432 | [236432-monster-shopper.json](./236432-monster-shopper.json) |
