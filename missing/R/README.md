@@ -9314,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of the Dealer | 369613 | [369613-rite-of-the-dealer.json](./369613-rite-of-the-dealer.json) |
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Rite or Ruin | 391242 | [391242-rite-or-ruin.json](./391242-rite-or-ruin.json) |
+| Ritebound | 429702 | [429702-ritebound.json](./429702-ritebound.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
 | Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
 | Rites of Thaw | 429041 | [429041-rites-of-thaw.json](./429041-rites-of-thaw.json) |
@@ -10405,6 +10406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
+| Roboteka | 429685 | [429685-roboteka.json](./429685-roboteka.json) |
 | Robotex | 9017 | [9017-robotex.json](./9017-robotex.json) |
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
@@ -10435,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotory | 59304 | [59304-robotory.json](./59304-robotory.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
+| Robotragedy 3: Escape from Station Troy-IV | 429694 | [429694-robotragedy-3-escape-from-station-troy-iv.json](./429694-robotragedy-3-escape-from-station-troy-iv.json) |
 | RoboTraps | 43429 | [43429-robotraps.json](./43429-robotraps.json) |
 | Robotrek | 42649 | [42649-robotrek.json](./42649-robotrek.json) |
 | RobotRiot | 25505 | [25505-robotriot.json](./25505-robotriot.json) |
@@ -11653,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelegends: Dark Realms | 137852 | [137852-roguelegends-dark-realms.json](./137852-roguelegends-dark-realms.json) |
 | Roguelight | 56913 | [56913-roguelight.json](./56913-roguelight.json) |
 | Roguelike Adventures and Dungeons | 277651 | [277651-roguelike-adventures-and-dungeons.json](./277651-roguelike-adventures-and-dungeons.json) |
+| Roguelike Bricks | 429616 | [429616-roguelike-bricks.json](./429616-roguelike-bricks.json) |
 | Roguelike Chess | 291797 | [291797-roguelike-chess.json](./291797-roguelike-chess.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Roguelike Journey to the West: 100 Ways to Slay Erlang Shen | 359536 | [359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json](./359536-roguelike-journey-to-the-west-100-ways-to-slay-erlang-shen.json) |
