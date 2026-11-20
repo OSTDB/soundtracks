@@ -7697,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemistry and Physics | 188623 | [188623-chemistry-and-physics.json](./188623-chemistry-and-physics.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Chemists: Area of infection | 190896 | [190896-chemists-area-of-infection.json](./190896-chemists-area-of-infection.json) |
+| Chemp Physics | 421898 | [421898-chemp-physics.json](./421898-chemp-physics.json) |
 | ChemRacer 2713: The Legend of Kid Chem | 73913 | [73913-chemracer-2713-the-legend-of-kid-chem.json](./73913-chemracer-2713-the-legend-of-kid-chem.json) |
 | Cheney Wood the Ultimate Revenge | 111499 | [111499-cheney-wood-the-ultimate-revenge.json](./111499-cheney-wood-the-ultimate-revenge.json) |
 | ChengDu Mahjong | 219933 | [219933-chengdu-mahjong.json](./219933-chengdu-mahjong.json) |
@@ -11759,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt 13 | 215513 | [215513-clearit-13.json](./215513-clearit-13.json) |
 | ClearIt 16 | 276561 | [276561-clearit-16.json](./276561-clearit-16.json) |
+| ClearIt M4 | 421886 | [421886-clearit-m4.json](./421886-clearit-m4.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
 | Clearwater | 270718 | [270718-clearwater.json](./270718-clearwater.json) |
 | Clearworld | 148252 | [148252-clearworld.json](./148252-clearworld.json) |
@@ -18996,6 +18998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Team Racing: Lockbox Adventure | 428200 | [428200-crash-team-racing-lockbox-adventure.json](./428200-crash-team-racing-lockbox-adventure.json) |
 | Crash Team Racing: Lolo Racing GP | 405189 | [405189-crash-team-racing-lolo-racing-gp.json](./405189-crash-team-racing-lolo-racing-gp.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
+| Crash Team Racing: Turbocharged | 421980 | [421980-crash-team-racing-turbocharged.json](./421980-crash-team-racing-turbocharged.json) |
 | Crash Team Racing: Unlimited | 360136 | [360136-crash-team-racing-unlimited.json](./360136-crash-team-racing-unlimited.json) |
 | Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
 | Crash Team Rumble | 282416 | [282416-crash-team-rumble.json](./282416-crash-team-rumble.json) |
@@ -22501,6 +22504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue Sports | 192039 | [192039-cue-sports.json](./192039-cue-sports.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
+| Cue-rious | 421891 | [421891-cue-rious.json](./421891-cue-rious.json) |
 | CUE! -See You Everyday- | 141344 | [141344-cue-see-you-everyday.json](./141344-cue-see-you-everyday.json) |
 | Cueist | 108701 | [108701-cueist.json](./108701-cueist.json) |
 | Cueist 2 | 213145 | [213145-cueist-2.json](./213145-cueist-2.json) |
