@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sad Virus Winter | 350348 | [350348-sad-virus-winter.json](./350348-sad-virus-winter.json) |
 | Sadakichi Seven | 37656 | [37656-sadakichi-seven.json](./37656-sadakichi-seven.json) |
 | Sadakichi Seven: Hideyoshi no Ougon | 64289 | [64289-sadakichi-seven-hideyoshi-no-ougon.json](./64289-sadakichi-seven-hideyoshi-no-ougon.json) |
+| Sadame | 19980 | [19980-sadame.json](./19980-sadame.json) |
 | Sadball | 318959 | [318959-sadball.json](./318959-sadball.json) |
 | Sadboy | 113682 | [113682-sadboy.json](./113682-sadboy.json) |
 | Saddam Hussein Target Game | 350874 | [350874-saddam-hussein-target-game.json](./350874-saddam-hussein-target-game.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Cat | 150440 | [150440-samurai-cat.json](./150440-samurai-cat.json) |
 | Samurai Cats | 131363 | [131363-samurai-cats.json](./131363-samurai-cats.json) |
 | Samurai Challenge | 195748 | [195748-samurai-challenge.json](./195748-samurai-challenge.json) |
+| Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
 | Samurai Conqueror | 374830 | [374830-samurai-conqueror.json](./374830-samurai-conqueror.json) |
 | Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Score a goal 2 (Physical football) | 91305 | [91305-score-a-goal-2-physical-football.json](./91305-score-a-goal-2-physical-football.json) |
 | Score Gun | 225603 | [225603-score-gun.json](./225603-score-gun.json) |
+| Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score of a Lifetime | 276744 | [276744-score-of-a-lifetime.json](./276744-score-of-a-lifetime.json) |
 | Score Real Soccer 2016 | 100622 | [100622-score-real-soccer-2016.json](./100622-score-real-soccer-2016.json) |
 | Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
@@ -5745,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sefirot Shards | 119845 | [119845-sefirot-shards.json](./119845-sefirot-shards.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sefure Shindroomu | 91567 | [91567-sefure-shindroomu.json](./91567-sefure-shindroomu.json) |
+| Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
 | Sega 3D Fukkoku Archives | 60943 | [60943-sega-3d-fukkoku-archives.json](./60943-sega-3d-fukkoku-archives.json) |
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
@@ -6472,6 +6476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Soccer | 165461 | [165461-sensible-soccer.json](./165461-sensible-soccer.json) |
 | Sensible Soccer '98 | 94361 | [94361-sensible-soccer-98.json](./94361-sensible-soccer-98.json) |
 | Sensible Soccer 2000 | 80676 | [80676-sensible-soccer-2000.json](./80676-sensible-soccer-2000.json) |
+| Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
 | Sensible Soccer Skills | 165477 | [165477-sensible-soccer-skills.json](./165477-sensible-soccer-skills.json) |
 | Sensible Soccer Skillz | 165478 | [165478-sensible-soccer-skillz.json](./165478-sensible-soccer-skillz.json) |
 | Sensible Soccer: European Champions | 13257 | [13257-sensible-soccer-european-champions.json](./13257-sensible-soccer-european-champions.json) |
@@ -6557,6 +6562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels of the Multiverse: OblivAeon | 170414 | [170414-sentinels-of-the-multiverse-oblivaeon.json](./170414-sentinels-of-the-multiverse-oblivaeon.json) |
 | Sentinels of the Multiverse: Rook City | 170416 | [170416-sentinels-of-the-multiverse-rook-city.json](./170416-sentinels-of-the-multiverse-rook-city.json) |
 | Sentinels of the Multiverse: Shattered Timelines | 170417 | [170417-sentinels-of-the-multiverse-shattered-timelines.json](./170417-sentinels-of-the-multiverse-shattered-timelines.json) |
+| Sentinels of the Multiverse: The Video Game | 20051 | [20051-sentinels-of-the-multiverse-the-video-game.json](./20051-sentinels-of-the-multiverse-the-video-game.json) |
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentinels of the Multiverse: Villains of the Multiverse | 170412 | [170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json](./170412-sentinels-of-the-multiverse-villains-of-the-multiverse.json) |
 | Sentinels of the Multiverse: Wrath of the Cosmos | 170415 | [170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json](./170415-sentinels-of-the-multiverse-wrath-of-the-cosmos.json) |
@@ -9867,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force Cross Exlesia | 62090 | [62090-shining-force-cross-exlesia.json](./62090-shining-force-cross-exlesia.json) |
 | Shining Force Cross Exlesia Zenith | 321327 | [321327-shining-force-cross-exlesia-zenith.json](./321327-shining-force-cross-exlesia-zenith.json) |
 | Shining Force Cross Raid | 62091 | [62091-shining-force-cross-raid.json](./62091-shining-force-cross-raid.json) |
+| Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Gaiden: Ensei - Jashin no Kuni he | 46307 | [46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json](./46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json) |
 | Shining Force Gaiden: Final Conflict | 3200 | [3200-shining-force-gaiden-final-conflict.json](./3200-shining-force-gaiden-final-conflict.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
@@ -11527,6 +11534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Mind | 166357 | [166357-sick-mind.json](./166357-sick-mind.json) |
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
+| SickBrick | 24601 | [24601-sickbrick.json](./24601-sickbrick.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sickly Victorian Boy | 198407 | [198407-sickly-victorian-boy.json](./198407-sickly-victorian-boy.json) |
 | Sickness | 34145 | [34145-sickness.json](./34145-sickness.json) |
@@ -13290,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Pop Hits 2 | 273845 | [273845-singstar-pop-hits-2.json](./273845-singstar-pop-hits-2.json) |
 | SingStar: Pop Hits 4 | 273844 | [273844-singstar-pop-hits-4.json](./273844-singstar-pop-hits-4.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
+| SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: R&B | 15170 | [15170-singstar-r-and-b.json](./15170-singstar-r-and-b.json) |
 | Singstar: Rocks! | 15095 | [15095-singstar-rocks.json](./15095-singstar-rocks.json) |
 | SingStar: Singalong with Disney | 43488 | [43488-singstar-singalong-with-disney.json](./43488-singstar-singalong-with-disney.json) |
@@ -13767,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Heist | 215431 | [215431-sixty-second-heist.json](./215431-sixty-second-heist.json) |
 | Sixty Second Shooter Deluxe | 80088 | [80088-sixty-second-shooter-deluxe.json](./80088-sixty-second-shooter-deluxe.json) |
+| Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Sixyato | 364111 | [364111-sixyato.json](./364111-sixyato.json) |
 | Siyah: Initiation | 382565 | [382565-siyah-initiation.json](./382565-siyah-initiation.json) |
@@ -13916,6 +13926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skautfold: Into the Fray | 107925 | [107925-skautfold-into-the-fray.json](./107925-skautfold-into-the-fray.json) |
 | Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
+| Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skautfold: Usurper | 251103 | [251103-skautfold-usurper.json](./251103-skautfold-usurper.json) |
 | Skaz | 398899 | [398899-skaz.json](./398899-skaz.json) |
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
@@ -15358,6 +15369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sled Shred featuring the Jamaican Bobsled Team | 50665 | [50665-sled-shred-featuring-the-jamaican-bobsled-team.json](./50665-sled-shred-featuring-the-jamaican-bobsled-team.json) |
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
+| Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sled Together | 372940 | [372940-sled-together.json](./372940-sled-together.json) |
 | Sledders | 268811 | [268811-sledders.json](./268811-sledders.json) |
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
@@ -19597,6 +19609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
 | Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | SomethingWithSpace | 235034 | [235034-somethingwithspace.json](./235034-somethingwithspace.json) |
+| Sometimes Always Monsters | 20122 | [20122-sometimes-always-monsters.json](./20122-sometimes-always-monsters.json) |
 | Sometimes Always Monsters: Author Outfits | 155375 | [155375-sometimes-always-monsters-author-outfits.json](./155375-sometimes-always-monsters-author-outfits.json) |
 | Sometimes They Come Back | 204858 | [204858-sometimes-they-come-back.json](./204858-sometimes-they-come-back.json) |
 | Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real | 134256 | [134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json](./134256-sometimes-to-deal-with-the-difficulty-of-being-alive-i-need-to-believe-there-is-a-possibility-that-life-is-not-real.json) |
@@ -22267,6 +22280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bunnies Must Die! | 51371 | [51371-space-bunnies-must-die.json](./51371-space-bunnies-must-die.json) |
 | Space Bunny | 265454 | [265454-space-bunny.json](./265454-space-bunny.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
+| Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 140824 | [140824-space-cadet.json](./140824-space-cadet.json) |
 | Space Cadet | 41478 | [41478-space-cadet.json](./41478-space-cadet.json) |
@@ -24449,6 +24463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy Girls - Dream Team | 105151 | [105151-speedy-girls-dream-team.json](./105151-speedy-girls-dream-team.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
 | Speedy Golf | 90843 | [90843-speedy-golf.json](./90843-speedy-golf.json) |
+| Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Gonzales: Los Gatos Bandidos | 8076 | [8076-speedy-gonzales-los-gatos-bandidos.json](./8076-speedy-gonzales-los-gatos-bandidos.json) |
 | Speedy Gun Savage | 158890 | [158890-speedy-gun-savage.json](./158890-speedy-gun-savage.json) |
@@ -26846,6 +26861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Computer | 422591 | [422591-square-computer.json](./422591-square-computer.json) |
 | Square Dancer | 140476 | [140476-square-dancer.json](./140476-square-dancer.json) |
 | Square Deal | 72021 | [72021-square-deal.json](./72021-square-deal.json) |
+| Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
 | Square Dungeon 2 | 260180 | [260180-square-dungeon-2.json](./260180-square-dungeon-2.json) |
 | Square Edges | 268234 | [268234-square-edges.json](./268234-square-edges.json) |
@@ -28014,6 +28030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Route | 200208 | [200208-star-route.json](./200208-star-route.json) |
 | Star Rover | 166820 | [166820-star-rover.json](./166820-star-rover.json) |
+| Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
 | Star Run!: Rainbow Galaxy | 241820 | [241820-star-run-rainbow-galaxy.json](./241820-star-run-rainbow-galaxy.json) |
 | Star Runaway | 367087 | [367087-star-runaway.json](./367087-star-runaway.json) |
@@ -28291,6 +28308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
 | Star Wars Battlefront: Companion | 303966 | [303966-star-wars-battlefront-companion.json](./303966-star-wars-battlefront-companion.json) |
+| Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Battlefront: Mobile Squadrons | 76721 | [76721-star-wars-battlefront-mobile-squadrons.json](./76721-star-wars-battlefront-mobile-squadrons.json) |
 | Star Wars Battlefront: Outer Rim | 18161 | [18161-star-wars-battlefront-outer-rim.json](./18161-star-wars-battlefront-outer-rim.json) |
@@ -28978,6 +28996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starless Hotel | 231126 | [231126-starless-hotel.json](./231126-starless-hotel.json) |
 | Starless Night | 105614 | [105614-starless-night.json](./105614-starless-night.json) |
 | Starless Umbra | 348537 | [348537-starless-umbra.json](./348537-starless-umbra.json) |
+| Starless: Nymphomaniacs' Paradise | 19946 | [19946-starless-nymphomaniacs-paradise.json](./19946-starless-nymphomaniacs-paradise.json) |
 | Starlet Disorder | 380671 | [380671-starlet-disorder.json](./380671-starlet-disorder.json) |
 | Starlife | 413802 | [413802-starlife.json](./413802-starlife.json) |
 | Starlight | 181804 | [181804-starlight.json](./181804-starlight.json) |
@@ -30056,6 +30075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Voyage | 270467 | [270467-steampunk-voyage.json](./270467-steampunk-voyage.json) |
 | Steampunker | 57781 | [57781-steampunker.json](./57781-steampunker.json) |
 | Steampunks vs. Skeletons: Adventure Puzzle Park | 403249 | [403249-steampunks-vs-skeletons-adventure-puzzle-park.json](./403249-steampunks-vs-skeletons-adventure-puzzle-park.json) |
+| Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | Steamroll: Rustless Edition | 147623 | [147623-steamroll-rustless-edition.json](./147623-steamroll-rustless-edition.json) |
 | Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
@@ -31170,6 +31190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StoicScape | 289255 | [289255-stoicscape.json](./289255-stoicscape.json) |
 | Stoire | 38803 | [38803-stoire.json](./38803-stoire.json) |
 | Stoirs VR | 160156 | [160156-stoirs-vr.json](./160156-stoirs-vr.json) |
+| Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stolemates | 426571 | [426571-stolemates.json](./426571-stolemates.json) |
 | Stolen | 6177 | [6177-stolen.json](./6177-stolen.json) |
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
@@ -41666,6 +41687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syphon Filter: Combat Ops | 72191 | [72191-syphon-filter-combat-ops.json](./72191-syphon-filter-combat-ops.json) |
 | Syphon Filter: Dark Mirror | 20764 | [20764-syphon-filter-dark-mirror.json](./20764-syphon-filter-dark-mirror.json) |
 | Syphon Filter: Dark Mirror | 242307 | [242307-syphon-filter-dark-mirror.json](./242307-syphon-filter-dark-mirror.json) |
+| Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | Syphon Filter: Logan's Shadow | 250106 | [250106-syphon-filter-logans-shadow.json](./250106-syphon-filter-logans-shadow.json) |
 | Syphon Filter: The Omega Strain | 20185 | [20185-syphon-filter-the-omega-strain.json](./20185-syphon-filter-the-omega-strain.json) |
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
