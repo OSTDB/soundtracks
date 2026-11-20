@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbroken Warrior | 104366 | [104366-unbroken-warrior.json](./104366-unbroken-warrior.json) |
 | Unbroken: The Awakening | 247829 | [247829-unbroken-the-awakening.json](./247829-unbroken-the-awakening.json) |
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
+| Unburied | 422982 | [422982-unburied.json](./422982-unburied.json) |
 | UNC: Pathfinder | 267048 | [267048-unc-pathfinder.json](./267048-unc-pathfinder.json) |
 | Uncanny | 105432 | [105432-uncanny.json](./105432-uncanny.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
@@ -4177,6 +4178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
 | UwU Hunter | 350697 | [350697-uwu-hunter.json](./350697-uwu-hunter.json) |
+| Uyar Party | 423190 | [423190-uyar-party.json](./423190-uyar-party.json) |
 | Uyuriih's Perscription | 202600 | [202600-uyuriihs-perscription.json](./202600-uyuriihs-perscription.json) |
 | Uze Feud | 311352 | [311352-uze-feud.json](./311352-uze-feud.json) |
 | Uze Snakes | 270428 | [270428-uze-snakes.json](./270428-uze-snakes.json) |
