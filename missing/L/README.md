@@ -2363,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le mur de Berlin va sauter | 182421 | [182421-le-mur-de-berlin-va-sauter.json](./182421-le-mur-de-berlin-va-sauter.json) |
 | Le Mystère de Kikekankoi | 93005 | [93005-le-mystere-de-kikekankoi.json](./93005-le-mystere-de-kikekankoi.json) |
 | Le Mystère de la fleur de verre | 413039 | [413039-le-mystere-de-la-fleur-de-verre.json](./413039-le-mystere-de-la-fleur-de-verre.json) |
+| Le Ninja Game | 429146 | [429146-le-ninja-game.json](./429146-le-ninja-game.json) |
 | Le Pacte | 304056 | [304056-le-pacte.json](./304056-le-pacte.json) |
 | Le Parcours | 89734 | [89734-le-parcours.json](./89734-le-parcours.json) |
 | Le Parker: Sous Chef Extraordinaire | 99102 | [99102-le-parker-sous-chef-extraordinaire.json](./99102-le-parker-sous-chef-extraordinaire.json) |
@@ -3000,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Gallant | 295915 | [295915-legend-of-gallant.json](./295915-legend-of-gallant.json) |
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
+| Legend of Gods | 429155 | [429155-legend-of-gods.json](./429155-legend-of-gods.json) |
 | Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
@@ -9380,6 +9382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Secular Love | 31505 | [31505-lost-in-secular-love.json](./31505-lost-in-secular-love.json) |
 | Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
+| Lost in Socks | 429151 | [429151-lost-in-socks.json](./429151-lost-in-socks.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 179026 | [179026-lost-in-space.json](./179026-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
@@ -10453,6 +10456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovey-Dovey Lockdown | 258833 | [258833-lovey-dovey-lockdown.json](./258833-lovey-dovey-lockdown.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
+| Loving Decays | 429158 | [429158-loving-decays.json](./429158-loving-decays.json) |
 | Loving Flesh | 177264 | [177264-loving-flesh.json](./177264-loving-flesh.json) |
 | Loving Life | 25494 | [25494-loving-life.json](./25494-loving-life.json) |
 | Loving Life with Hello Kitty & Friends | 83208 | [83208-loving-life-with-hello-kitty-and-friends.json](./83208-loving-life-with-hello-kitty-and-friends.json) |
