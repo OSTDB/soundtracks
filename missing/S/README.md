@@ -12989,6 +12989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimplePlanes | 26473 | [26473-simpleplanes.json](./26473-simpleplanes.json) |
 | SimplePlanes 2 | 304696 | [304696-simpleplanes-2.json](./304696-simpleplanes-2.json) |
 | SimplePlanes VR | 169717 | [169717-simpleplanes-vr.json](./169717-simpleplanes-vr.json) |
+| Simpler Times | 252493 | [252493-simpler-times.json](./252493-simpler-times.json) |
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | SimpleRoad | 370872 | [370872-simpleroad.json](./370872-simpleroad.json) |
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
@@ -25029,6 +25030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
 | Spider-Man 3 | 220112 | [220112-spider-man-3.json](./220112-spider-man-3.json) |
 | Spider-Man 3 | 247535 | [247535-spider-man-3.json](./247535-spider-man-3.json) |
+| Spider-Man 3 | 252200 | [252200-spider-man-3.json](./252200-spider-man-3.json) |
 | Spider-Man 3 Action | 225298 | [225298-spider-man-3-action.json](./225298-spider-man-3-action.json) |
 | Spider-Man 3 Puzzle | 224948 | [224948-spider-man-3-puzzle.json](./224948-spider-man-3-puzzle.json) |
 | Spider-Man 3: Collector's Edition | 21616 | [21616-spider-man-3-collectors-edition.json](./21616-spider-man-3-collectors-edition.json) |
@@ -25114,6 +25116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Edge of Time | 249161 | [249161-spider-man-edge-of-time.json](./249161-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 5179 | [5179-spider-man-edge-of-time.json](./5179-spider-man-edge-of-time.json) |
 | Spider-Man: Far From Home - Virtual Reality Experience | 120445 | [120445-spider-man-far-from-home-virtual-reality-experience.json](./120445-spider-man-far-from-home-virtual-reality-experience.json) |
+| Spider-Man: Friend or Foe | 249162 | [249162-spider-man-friend-or-foe.json](./249162-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 249164 | [249164-spider-man-friend-or-foe.json](./249164-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
@@ -40985,6 +40988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Dimacreation: Side Story 3 - The Last, But Never End | 97517 | [97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json](./97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json) |
 | Sword of the Guardian | 96414 | [96414-sword-of-the-guardian.json](./96414-sword-of-the-guardian.json) |
 | Sword of the Last Second | 419433 | [419433-sword-of-the-last-second.json](./419433-sword-of-the-last-second.json) |
+| Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Samurai | 9218 | [9218-sword-of-the-samurai.json](./9218-sword-of-the-samurai.json) |
