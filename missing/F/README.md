@@ -720,7 +720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
 | Fairies vs. Darklings: Arcane Edition | 33744 | [33744-fairies-vs-darklings-arcane-edition.json](./33744-fairies-vs-darklings-arcane-edition.json) |
 | FairiTeller | 272203 | [272203-fairiteller.json](./272203-fairiteller.json) |
-| Fairlight | 12995 | [12995-fairlight.json](./12995-fairlight.json) |
 | Fairlight II: Trail of Darkness | 26444 | [26444-fairlight-ii-trail-of-darkness.json](./26444-fairlight-ii-trail-of-darkness.json) |
 | Fairlight: A Prelude | 40962 | [40962-fairlight-a-prelude.json](./40962-fairlight-a-prelude.json) |
 | Fairly Certain Doom | 95164 | [95164-fairly-certain-doom.json](./95164-fairly-certain-doom.json) |
@@ -5331,7 +5330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter of Evil | 28415 | [28415-fighter-of-evil.json](./28415-fighter-of-evil.json) |
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
-| Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
 | Fighter Pilot | 412512 | [412512-fighter-pilot.json](./412512-fighter-pilot.json) |
 | Fighter Pilot | 81552 | [81552-fighter-pilot.json](./81552-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
@@ -9644,7 +9642,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Shop | 421550 | [421550-flower-shop.json](./421550-flower-shop.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
-| Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
 | Flower Sort Puzzle | 261404 | [261404-flower-sort-puzzle.json](./261404-flower-sort-puzzle.json) |
 | Flower Spinner Puzzle | 371410 | [371410-flower-spinner-puzzle.json](./371410-flower-spinner-puzzle.json) |
@@ -11337,7 +11334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever in my footsteps 2 | 68455 | [68455-forever-in-my-footsteps-2.json](./68455-forever-in-my-footsteps-2.json) |
 | Forever In The Backrooms | 246831 | [246831-forever-in-the-backrooms.json](./246831-forever-in-the-backrooms.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
-| Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
 | Forever Legend | 169515 | [169515-forever-legend.json](./169515-forever-legend.json) |
 | Forever Loot | 184216 | [184216-forever-loot.json](./184216-forever-loot.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
@@ -13327,7 +13323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
-| Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
 | Free Agency | 128116 | [128116-free-agency.json](./128116-free-agency.json) |
@@ -13629,7 +13624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Manager | 365742 | [365742-freight-manager.json](./365742-freight-manager.json) |
 | Freight Simulator | 133260 | [133260-freight-simulator.json](./133260-freight-simulator.json) |
 | Freight Tycoon | 176891 | [176891-freight-tycoon.json](./176891-freight-tycoon.json) |
-| Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | Freja | 268280 | [268280-freja.json](./268280-freja.json) |
 | Freja and the False Prophecy | 142532 | [142532-freja-and-the-false-prophecy.json](./142532-freja-and-the-false-prophecy.json) |
@@ -14194,7 +14188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogFlop | 313295 | [313295-frogflop.json](./313295-frogflop.json) |
 | Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 11465 | [11465-frogger.json](./11465-frogger.json) |
-| Frogger | 11470 | [11470-frogger.json](./11470-frogger.json) |
 | Frogger | 11475 | [11475-frogger.json](./11475-frogger.json) |
 | Frogger | 198743 | [198743-frogger.json](./198743-frogger.json) |
 | Frogger | 198744 | [198744-frogger.json](./198744-frogger.json) |
@@ -14278,7 +14271,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger's Adventures: Temple of the Frog | 6411 | [6411-froggers-adventures-temple-of-the-frog.json](./6411-froggers-adventures-temple-of-the-frog.json) |
 | Frogger's Adventures: The Rescue | 3923 | [3923-froggers-adventures-the-rescue.json](./3923-froggers-adventures-the-rescue.json) |
 | Frogger's Crackout | 11479 | [11479-froggers-crackout.json](./11479-froggers-crackout.json) |
-| Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggi | 422731 | [422731-froggi.json](./422731-froggi.json) |
@@ -14520,7 +14512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page | 400024 | [400024-front-page.json](./400024-front-page.json) |
-| Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports Football Pro | 22603 | [22603-front-page-sports-football-pro.json](./22603-front-page-sports-football-pro.json) |
 | Front Page Sports Football Pro '96 | 22605 | [22605-front-page-sports-football-pro-96.json](./22605-front-page-sports-football-pro-96.json) |
 | Front Page Sports Football Pro '97 | 22606 | [22606-front-page-sports-football-pro-97.json](./22606-front-page-sports-football-pro-97.json) |
@@ -14633,7 +14624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
 | Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
-| Frontline: Fields of Thunder | 11108 | [11108-frontline-fields-of-thunder.json](./11108-frontline-fields-of-thunder.json) |
 | Frontline: Panzer Blitzkrieg! | 131650 | [131650-frontline-panzer-blitzkrieg.json](./131650-frontline-panzer-blitzkrieg.json) |
 | Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
@@ -16342,7 +16332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FX Chess | 94266 | [94266-fx-chess.json](./94266-fx-chess.json) |
 | FX Chess Plus | 92864 | [92864-fx-chess-plus.json](./92864-fx-chess-plus.json) |
 | FX Eleven | 62221 | [62221-fx-eleven.json](./62221-fx-eleven.json) |
-| FX Fighter | 11673 | [11673-fx-fighter.json](./11673-fx-fighter.json) |
 | FX Fighter Turbo | 68982 | [68982-fx-fighter-turbo.json](./68982-fx-fighter-turbo.json) |
 | FX Football | 9788 | [9788-fx-football.json](./9788-fx-football.json) |
 | FX Football: The Manager for Every Football Fan | 10340 | [10340-fx-football-the-manager-for-every-football-fan.json](./10340-fx-football-the-manager-for-every-football-fan.json) |
