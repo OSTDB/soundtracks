@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Show | 10847 | [10847-mad-show.json](./10847-mad-show.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
+| Mad Skills BMX 2 | 356519 | [356519-mad-skills-bmx-2.json](./356519-mad-skills-bmx-2.json) |
 | Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
 | Mad Skills Motocross | 25274 | [25274-mad-skills-motocross.json](./25274-mad-skills-motocross.json) |
 | Mad Skills Motocross 2 | 103626 | [103626-mad-skills-motocross-2.json](./103626-mad-skills-motocross-2.json) |
