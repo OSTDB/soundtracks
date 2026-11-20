@@ -7719,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Boundary Condition | 219549 | [219549-the-boundary-condition.json](./219549-the-boundary-condition.json) |
 | The Bounty | 40286 | [40286-the-bounty.json](./40286-the-bounty.json) |
+| The Bounty | 423701 | [423701-the-bounty.json](./423701-the-bounty.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
 | The Bounty Huntress | 153025 | [153025-the-bounty-huntress.json](./153025-the-bounty-huntress.json) |
@@ -8380,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clingy Ghost | 358519 | [358519-the-clingy-ghost.json](./358519-the-clingy-ghost.json) |
+| The Clinic of Thorns | 423677 | [423677-the-clinic-of-thorns.json](./423677-the-clinic-of-thorns.json) |
 | The Clique: Diss and Make-Up | 122439 | [122439-the-clique-diss-and-make-up.json](./122439-the-clique-diss-and-make-up.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
@@ -16522,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Number Devil: A Mathematical Adventure | 69013 | [69013-the-number-devil-a-mathematical-adventure.json](./69013-the-number-devil-a-mathematical-adventure.json) |
 | The Number Puzzle | 103953 | [103953-the-number-puzzle.json](./103953-the-number-puzzle.json) |
 | The Number Puzzle | 222015 | [222015-the-number-puzzle.json](./222015-the-number-puzzle.json) |
+| The Numbers | 423694 | [423694-the-numbers.json](./423694-the-numbers.json) |
 | The Numbers I Keep In My Head | 375385 | [375385-the-numbers-i-keep-in-my-head.json](./375385-the-numbers-i-keep-in-my-head.json) |
 | The Numzle | 233096 | [233096-the-numzle.json](./233096-the-numzle.json) |
 | The Nun | 105998 | [105998-the-nun.json](./105998-the-nun.json) |
@@ -26382,6 +26385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Recoil | 27785 | [27785-time-recoil.json](./27785-time-recoil.json) |
 | Time Reject | 190834 | [190834-time-reject.json](./190834-time-reject.json) |
 | Time Relics: Gears of Light | 18895 | [18895-time-relics-gears-of-light.json](./18895-time-relics-gears-of-light.json) |
+| Time Remover | 423713 | [423713-time-remover.json](./423713-time-remover.json) |
 | Time Reversal | 188352 | [188352-time-reversal.json](./188352-time-reversal.json) |
 | Time Riddles: The Mansion | 361386 | [361386-time-riddles-the-mansion.json](./361386-time-riddles-the-mansion.json) |
 | Time Riders in American History | 73722 | [73722-time-riders-in-american-history.json](./73722-time-riders-in-american-history.json) |
@@ -27639,6 +27643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Love-Ru Trouble: Doki-doki! Rinkaigakkou-hen | 72594 | [72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json](./72594-to-love-ru-trouble-doki-doki-rinkaigakkou-hen.json) |
 | To Love-Ru: Waku-waku! Rinkangakkou-hen | 72593 | [72593-to-love-ru-waku-waku-rinkangakkou-hen.json](./72593-to-love-ru-waku-waku-rinkangakkou-hen.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
+| To Make Your Wish Come True | 423707 | [423707-to-make-your-wish-come-true.json](./423707-to-make-your-wish-come-true.json) |
 | To Me, to Zoo! | 425715 | [425715-to-me-to-zoo.json](./425715-to-me-to-zoo.json) |
 | To Mortal Dust | 260217 | [260217-to-mortal-dust.json](./260217-to-mortal-dust.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
@@ -31447,6 +31452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Army Men: Defense | 196348 | [196348-toy-army-men-defense.json](./196348-toy-army-men-defense.json) |
 | Toy Attack | 96915 | [96915-toy-attack.json](./96915-toy-attack.json) |
 | Toy Balls HD | 175454 | [175454-toy-balls-hd.json](./175454-toy-balls-hd.json) |
+| Toy Battles | 423552 | [423552-toy-battles.json](./423552-toy-battles.json) |
 | Toy Bizarre | 24685 | [24685-toy-bizarre.json](./24685-toy-bizarre.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
@@ -35742,6 +35748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | TripTrap | 95545 | [95545-triptrap.json](./95545-triptrap.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
+| Triptych | 423736 | [423736-triptych.json](./423736-triptych.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
 | Triptych Book I: Blockhead | 328400 | [328400-triptych-book-i-blockhead.json](./328400-triptych-book-i-blockhead.json) |
 | Tripuzz | 273561 | [273561-tripuzz.json](./273561-tripuzz.json) |
