@@ -9013,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los 40 Principales: Karaoke Party Vol. 2 | 98652 | [98652-los-40-principales-karaoke-party-vol-2.json](./98652-los-40-principales-karaoke-party-vol-2.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Angeles Crimes | 194101 | [194101-los-angeles-crimes.json](./194101-los-angeles-crimes.json) |
+| Los Angeles Police Department | 418816 | [418816-los-angeles-police-department.json](./418816-los-angeles-police-department.json) |
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Cops | 154152 | [154152-los-cops.json](./154152-los-cops.json) |
 | Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
