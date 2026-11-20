@@ -7212,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
 | Pie.ai | 194066 | [194066-pie-ai.json](./194066-pie-ai.json) |
 | Pie's Ancient Europe | 405744 | [405744-pies-ancient-europe.json](./405744-pies-ancient-europe.json) |
+| Piece and Quiet: A Stained Glass Restoration | 430769 | [430769-piece-and-quiet-a-stained-glass-restoration.json](./430769-piece-and-quiet-a-stained-glass-restoration.json) |
 | Piece by Piece | 183087 | [183087-piece-by-piece.json](./183087-piece-by-piece.json) |
 | Piece by Piece | 325173 | [325173-piece-by-piece.json](./325173-piece-by-piece.json) |
 | Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
@@ -7658,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars | 248947 | [248947-pillars.json](./248947-pillars.json) |
 | Pillars of Dust | 123709 | [123709-pillars-of-dust.json](./123709-pillars-of-dust.json) |
+| Pillars of Eternity II: Deadfire - Beard and Hair Pack | 430597 | [430597-pillars-of-eternity-ii-deadfire-beard-and-hair-pack.json](./430597-pillars-of-eternity-ii-deadfire-beard-and-hair-pack.json) |
 | Pillars of Eternity II: Deadfire - Beast of Winter | 124958 | [124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json](./124958-pillars-of-eternity-ii-deadfire-beast-of-winter.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
@@ -10360,6 +10362,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Board Game | 430263 | [430263-plague-inc-the-board-game.json](./430263-plague-inc-the-board-game.json) |
+| Plague Inc: The Board Game - Armageddon | 430662 | [430662-plague-inc-the-board-game-armageddon.json](./430662-plague-inc-the-board-game-armageddon.json) |
+| Plague Inc: The Board Game - Designer Diseases | 430664 | [430664-plague-inc-the-board-game-designer-diseases.json](./430664-plague-inc-the-board-game-designer-diseases.json) |
+| Plague Inc: The Board Game - Extreme Events Pack | 430665 | [430665-plague-inc-the-board-game-extreme-events-pack.json](./430665-plague-inc-the-board-game-extreme-events-pack.json) |
+| Plague Inc: The Board Game - Patient Zero Pack | 430663 | [430663-plague-inc-the-board-game-patient-zero-pack.json](./430663-plague-inc-the-board-game-patient-zero-pack.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
 | Plague Infection | 189273 | [189273-plague-infection.json](./189273-plague-infection.json) |
 | Plague Lords: Witch Hunt | 189884 | [189884-plague-lords-witch-hunt.json](./189884-plague-lords-witch-hunt.json) |
