@@ -6193,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reroll Routine | 389814 | [389814-reroll-routine.json](./389814-reroll-routine.json) |
 | Reroll: Back to the throne | 76329 | [76329-reroll-back-to-the-throne.json](./76329-reroll-back-to-the-throne.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
+| Rerouted | 424382 | [424382-rerouted.json](./424382-rerouted.json) |
 | Rerun | 226372 | [226372-rerun.json](./226372-rerun.json) |
 | Res Arcana | 37869 | [37869-res-arcana.json](./37869-res-arcana.json) |
 | Res Arcana Diana Rei: Uranai no Meikyu | 58683 | [58683-res-arcana-diana-rei-uranai-no-meikyu.json](./58683-res-arcana-diana-rei-uranai-no-meikyu.json) |
@@ -12935,6 +12936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Dinner | 254092 | [254092-rotten-dinner.json](./254092-rotten-dinner.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Flesh | 274815 | [274815-rotten-flesh.json](./274815-rotten-flesh.json) |
+| Rotten Keep | 424435 | [424435-rotten-keep.json](./424435-rotten-keep.json) |
 | Rotten Machines | 426453 | [426453-rotten-machines.json](./426453-rotten-machines.json) |
 | Rotten Rounds | 409177 | [409177-rotten-rounds.json](./409177-rotten-rounds.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
@@ -13190,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
+| Royal Bomb Squad Pop! | 424417 | [424417-royal-bomb-squad-pop.json](./424417-royal-bomb-squad-pop.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
 | Royal Bounty HD | 36096 | [36096-royal-bounty-hd.json](./36096-royal-bounty-hd.json) |
 | Royal Card Clash | 296701 | [296701-royal-card-clash.json](./296701-royal-card-clash.json) |
