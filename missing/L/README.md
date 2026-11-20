@@ -469,6 +469,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Shattered Soul | 139489 | [139489-labyrinths-of-the-world-shattered-soul.json](./139489-labyrinths-of-the-world-shattered-soul.json) |
 | Labyrinths of the World: Shattered Soul - Collector's Edition | 30674 | [30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json](./30674-labyrinths-of-the-world-shattered-soul-collectors-edition.json) |
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
+| Labyrinths of the World: Stonehenge Legend - Collector's Edition | 426166 | [426166-labyrinths-of-the-world-stonehenge-legend-collectors-edition.json](./426166-labyrinths-of-the-world-stonehenge-legend-collectors-edition.json) |
+| Labyrinths of the World: The Devil's Tower - Collector's Edition | 426167 | [426167-labyrinths-of-the-world-the-devils-tower-collectors-edition.json](./426167-labyrinths-of-the-world-the-devils-tower-collectors-edition.json) |
 | Labyrinths of the World: The Game of Minds - Collector's Edition | 170203 | [170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json](./170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json) |
 | Labyrinths of the World: The Wild Side | 139490 | [139490-labyrinths-of-the-world-the-wild-side.json](./139490-labyrinths-of-the-world-the-wild-side.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
@@ -2515,6 +2517,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Light: Dark Omens - Collector's Edition | 31065 | [31065-league-of-light-dark-omens-collectors-edition.json](./31065-league-of-light-dark-omens-collectors-edition.json) |
 | League of Light: Dark Omens & League of Light: Wicked Harvest | 201815 | [201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json](./201815-league-of-light-dark-omens-and-league-of-light-wicked-harvest.json) |
 | League of Light: Edge of Justice | 108245 | [108245-league-of-light-edge-of-justice.json](./108245-league-of-light-edge-of-justice.json) |
+| League of Light: Edge of Justice - Collector's Edition | 426168 | [426168-league-of-light-edge-of-justice-collectors-edition.json](./426168-league-of-light-edge-of-justice-collectors-edition.json) |
+| League of Light: Growing Threat - Collector's Edition | 426169 | [426169-league-of-light-growing-threat-collectors-edition.json](./426169-league-of-light-growing-threat-collectors-edition.json) |
 | League of Light: Justice | 96182 | [96182-league-of-light-justice.json](./96182-league-of-light-justice.json) |
 | League of Light: Silent Mountain | 59765 | [59765-league-of-light-silent-mountain.json](./59765-league-of-light-silent-mountain.json) |
 | League of Light: Silent Mountain - Collector's Edition | 76482 | [76482-league-of-light-silent-mountain-collectors-edition.json](./76482-league-of-light-silent-mountain-collectors-edition.json) |
@@ -6389,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | Linking Logic | 40889 | [40889-linking-logic.json](./40889-linking-logic.json) |
+| Linkisa | 426214 | [426214-linkisa.json](./426214-linkisa.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkito | 239370 | [239370-linkito.json](./239370-linkito.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
@@ -9657,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
 | Lost Souls | 302838 | [302838-lost-souls.json](./302838-lost-souls.json) |
 | Lost Souls: Enchanted Paintings | 88750 | [88750-lost-souls-enchanted-paintings.json](./88750-lost-souls-enchanted-paintings.json) |
+| Lost Souls: Enchanted Paintings - Collector's Edition | 426175 | [426175-lost-souls-enchanted-paintings-collectors-edition.json](./426175-lost-souls-enchanted-paintings-collectors-edition.json) |
 | Lost Souls: Timeless Fables | 139499 | [139499-lost-souls-timeless-fables.json](./139499-lost-souls-timeless-fables.json) |
 | Lost Souls: Timeless Fables - Collector's Edition | 88500 | [88500-lost-souls-timeless-fables-collectors-edition.json](./88500-lost-souls-timeless-fables-collectors-edition.json) |
 | Lost Space: Ascend | 103100 | [103100-lost-space-ascend.json](./103100-lost-space-ascend.json) |
@@ -9926,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Chemistry: Sibella's Formula | 369526 | [369526-love-chemistry-sibellas-formula.json](./369526-love-chemistry-sibellas-formula.json) |
 | Love Chronicles: A Winter's Spell | 139498 | [139498-love-chronicles-a-winters-spell.json](./139498-love-chronicles-a-winters-spell.json) |
 | Love Chronicles: A Winter's Spell - Collector's Edition | 105165 | [105165-love-chronicles-a-winters-spell-collectors-edition.json](./105165-love-chronicles-a-winters-spell-collectors-edition.json) |
+| Love Chronicles: Beyond the Shadows - Collector's Edition | 426176 | [426176-love-chronicles-beyond-the-shadows-collectors-edition.json](./426176-love-chronicles-beyond-the-shadows-collectors-edition.json) |
 | Love Chronicles: Salvation | 139497 | [139497-love-chronicles-salvation.json](./139497-love-chronicles-salvation.json) |
 | Love Chronicles: Salvation - Collector's Edition | 89407 | [89407-love-chronicles-salvation-collectors-edition.json](./89407-love-chronicles-salvation-collectors-edition.json) |
 | Love Chronicles: The Spell | 139496 | [139496-love-chronicles-the-spell.json](./139496-love-chronicles-the-spell.json) |
