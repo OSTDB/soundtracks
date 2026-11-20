@@ -700,7 +700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Memories | 247954 | [247954-vampire-memories.json](./247954-vampire-memories.json) |
 | Vampire Moon: The Mystery of the Hidden Sun | 23663 | [23663-vampire-moon-the-mystery-of-the-hidden-sun.json](./23663-vampire-moon-the-mystery-of-the-hidden-sun.json) |
 | Vampire Mukuro | 424744 | [424744-vampire-mukuro.json](./424744-vampire-mukuro.json) |
-| Vampire Night | 13902 | [13902-vampire-night.json](./13902-vampire-night.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights | 184756 | [184756-vampire-nights.json](./184756-vampire-nights.json) |
 | Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
@@ -1190,7 +1189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectonic | 29522 | [29522-vectonic.json](./29522-vectonic.json) |
 | Vectopia | 46514 | [46514-vectopia.json](./46514-vectopia.json) |
 | Vector | 15545 | [15545-vector.json](./15545-vector.json) |
-| Vector 36 | 14412 | [14412-vector-36.json](./14412-vector-36.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Assault 2 | 160006 | [160006-vector-assault-2.json](./160006-vector-assault-2.json) |
 | Vector Bias | 282265 | [282265-vector-bias.json](./282265-vector-bias.json) |
@@ -2412,7 +2410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
 | Vigil RPG | 175491 | [175491-vigil-rpg.json](./175491-vigil-rpg.json) |
-| Vigil: Blood Bitterness | 15625 | [15625-vigil-blood-bitterness.json](./15625-vigil-blood-bitterness.json) |
 | Vigilance | 93480 | [93480-vigilance.json](./93480-vigilance.json) |
 | Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
 | Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
@@ -3371,7 +3368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
 | Vise | 417473 | [417473-vise.json](./417473-vise.json) |
 | Visegunne | 317775 | [317775-visegunne.json](./317775-visegunne.json) |
-| Visibility | 15546 | [15546-visibility.json](./15546-visibility.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
 | Vision | 313955 | [313955-vision.json](./313955-vision.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
