@@ -14244,6 +14244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legacy of Music | 113572 | [113572-the-legacy-of-music.json](./113572-the-legacy-of-music.json) |
 | The Legacy of Robin Hood | 320470 | [320470-the-legacy-of-robin-hood.json](./320470-the-legacy-of-robin-hood.json) |
 | The legacy of W. Whitlaw VR | 131866 | [131866-the-legacy-of-w-whitlaw-vr.json](./131866-the-legacy-of-w-whitlaw-vr.json) |
+| The Legacy: Forgotten Gates | 55546 | [55546-the-legacy-forgotten-gates.json](./55546-the-legacy-forgotten-gates.json) |
 | The Legacy: Prisoner | 104187 | [104187-the-legacy-prisoner.json](./104187-the-legacy-prisoner.json) |
 | The Legacy: Realm of Terror | 79233 | [79233-the-legacy-realm-of-terror.json](./79233-the-legacy-realm-of-terror.json) |
 | The Legend Beyond Legends | 302441 | [302441-the-legend-beyond-legends.json](./302441-the-legend-beyond-legends.json) |
@@ -31537,6 +31538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Cars | 63464 | [63464-toy-cars.json](./63464-toy-cars.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
 | Toy Chute: Sort Chute Organizer! | 416853 | [416853-toy-chute-sort-chute-organizer.json](./416853-toy-chute-sort-chute-organizer.json) |
+| Toy Clash | 55707 | [55707-toy-clash.json](./55707-toy-clash.json) |
 | Toy Clash: Commander of Toys | 169036 | [169036-toy-clash-commander-of-toys.json](./169036-toy-clash-commander-of-toys.json) |
 | Toy Collector | 212429 | [212429-toy-collector.json](./212429-toy-collector.json) |
 | Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
@@ -34318,6 +34320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TransmuTowers | 288560 | [288560-transmutowers.json](./288560-transmutowers.json) |
 | TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
+| Transparent Black | 55361 | [55361-transparent-black.json](./55361-transparent-black.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Girl | 374972 | [374972-transparent-girl.json](./374972-transparent-girl.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
@@ -35763,6 +35766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Match 3D | 216132 | [216132-triple-match-3d.json](./216132-triple-match-3d.json) |
 | Triple Miracle | 364114 | [364114-triple-miracle.json](./364114-triple-miracle.json) |
 | Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
+| Triple Otakus Puzzle | 55595 | [55595-triple-otakus-puzzle.json](./55595-triple-otakus-puzzle.json) |
 | Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
 | Triple Pairing | 386964 | [386964-triple-pairing.json](./386964-triple-pairing.json) |
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
