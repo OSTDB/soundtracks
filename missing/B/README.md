@@ -12845,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodline: Heroes of Lithas | 216106 | [216106-bloodline-heroes-of-lithas.json](./216106-bloodline-heroes-of-lithas.json) |
 | Bloodline: Last Royal Vampire | 208217 | [208217-bloodline-last-royal-vampire.json](./208217-bloodline-last-royal-vampire.json) |
 | BloodLines | 143363 | [143363-bloodlines.json](./143363-bloodlines.json) |
+| Bloodlines of Prima | 55374 | [55374-bloodlines-of-prima.json](./55374-bloodlines-of-prima.json) |
 | Bloodlines: Tales of brotherhood | 195324 | [195324-bloodlines-tales-of-brotherhood.json](./195324-bloodlines-tales-of-brotherhood.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | BloodLoop | 350724 | [350724-bloodloop.json](./350724-bloodloop.json) |
@@ -17829,6 +17830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Brickmasters | 240665 | [240665-brickmasters.json](./240665-brickmasters.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
+| Brickochet | 55483 | [55483-brickochet.json](./55483-brickochet.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | BrickOps | 417825 | [417825-brickops.json](./417825-brickops.json) |
 | BrickOut | 174452 | [174452-brickout.json](./174452-brickout.json) |
@@ -19356,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Isopods | 286548 | [286548-bug-and-seek-isopods.json](./286548-bug-and-seek-isopods.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
+| Bug Academy | 68277 | [68277-bug-academy.json](./68277-bug-academy.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Attack | 18747 | [18747-bug-attack.json](./18747-bug-attack.json) |
