@@ -7745,6 +7745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock & Key | 145716 | [145716-lock-and-key.json](./145716-lock-and-key.json) |
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock & Key: A Magical Girl Mystery | 202633 | [202633-lock-and-key-a-magical-girl-mystery.json](./202633-lock-and-key-a-magical-girl-mystery.json) |
+| Lock & Stone | 423802 | [423802-lock-and-stone.json](./423802-lock-and-stone.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock Her Up: The Trump Supremacy | 81815 | [81815-lock-her-up-the-trump-supremacy.json](./81815-lock-her-up-the-trump-supremacy.json) |
 | Lock In | 403324 | [403324-lock-in.json](./403324-lock-in.json) |
