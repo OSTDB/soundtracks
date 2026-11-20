@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savoir-Faire | 60128 | [60128-savoir-faire.json](./60128-savoir-faire.json) |
 | Savoring Sword | 296718 | [296718-savoring-sword.json](./296718-savoring-sword.json) |
 | Savoury Cascade | 429701 | [429701-savoury-cascade.json](./429701-savoury-cascade.json) |
+| Savu: The Horror Game | 426759 | [426759-savu-the-horror-game.json](./426759-savu-the-horror-game.json) |
 | Savvy | 410904 | [410904-savvy.json](./410904-savvy.json) |
 | Savvy Fisher | 260475 | [260475-savvy-fisher.json](./260475-savvy-fisher.json) |
 | Savvy Four | 256607 | [256607-savvy-four.json](./256607-savvy-four.json) |
@@ -18048,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
+| Snowboard King 2022 | 426742 | [426742-snowboard-king-2022.json](./426742-snowboard-king-2022.json) |
 | Snowboard League | 250822 | [250822-snowboard-league.json](./250822-snowboard-league.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
@@ -18507,6 +18509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Superstars | 165317 | [165317-soccer-superstars.json](./165317-soccer-superstars.json) |
 | Soccer Superstars | 38837 | [38837-soccer-superstars.json](./38837-soccer-superstars.json) |
 | Soccer Swipe & Match 3 | 233160 | [233160-soccer-swipe-and-match-3.json](./233160-soccer-swipe-and-match-3.json) |
+| Soccer Tactics | 426783 | [426783-soccer-tactics.json](./426783-soccer-tactics.json) |
 | Soccer Team Manager: English and Italian Leagues | 93376 | [93376-soccer-team-manager-english-and-italian-leagues.json](./93376-soccer-team-manager-english-and-italian-leagues.json) |
 | Soccer Tsuku 2002 | 372581 | [372581-soccer-tsuku-2002.json](./372581-soccer-tsuku-2002.json) |
 | Soccer Tsuku DS: Touch and Direct | 65016 | [65016-soccer-tsuku-ds-touch-and-direct.json](./65016-soccer-tsuku-ds-touch-and-direct.json) |
@@ -20455,6 +20458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Pacman | 357492 | [357492-sonic-pacman.json](./357492-sonic-pacman.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
 | Sonic Panic | 319504 | [319504-sonic-panic.json](./319504-sonic-panic.json) |
+| Sonic Panic | 426757 | [426757-sonic-panic.json](./426757-sonic-panic.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
 | Sonic Paradise | 335167 | [335167-sonic-paradise.json](./335167-sonic-paradise.json) |
@@ -21305,6 +21309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
 | Sort Them Alpacas: Overload! | 426934 | [426934-sort-them-alpacas-overload.json](./426934-sort-them-alpacas-overload.json) |
 | Sort Them Cats | 428408 | [428408-sort-them-cats.json](./428408-sort-them-cats.json) |
+| Sort Them Dogs | 426756 | [426756-sort-them-dogs.json](./426756-sort-them-dogs.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
 | Sort Till You Sleep | 428930 | [428930-sort-till-you-sleep.json](./428930-sort-till-you-sleep.json) |
