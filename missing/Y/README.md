@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Mop | 318342 | [318342-you-must-mop.json](./318342-you-must-mop.json) |
 | You Must Remember | 412660 | [412660-you-must-remember.json](./412660-you-must-remember.json) |
 | You Must Retry | 312508 | [312508-you-must-retry.json](./312508-you-must-retry.json) |
+| You Must Sleep: Ravenous Nightmares | 424880 | [424880-you-must-sleep-ravenous-nightmares.json](./424880-you-must-sleep-ravenous-nightmares.json) |
 | You Must Survive | 160048 | [160048-you-must-survive.json](./160048-you-must-survive.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
 | You Need to Summon a Demon | 419868 | [419868-you-need-to-summon-a-demon.json](./419868-you-need-to-summon-a-demon.json) |
