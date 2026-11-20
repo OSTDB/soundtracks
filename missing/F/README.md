@@ -13319,6 +13319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
 | Freddy Spaghetti | 132369 | [132369-freddy-spaghetti.json](./132369-freddy-spaghetti.json) |
+| Freddy Spaghetti 2 | 155471 | [155471-freddy-spaghetti-2.json](./155471-freddy-spaghetti-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Folly | 37220 | [37220-freddys-folly.json](./37220-freddys-folly.json) |
 | Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
@@ -13614,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreezeME | 23480 | [23480-freezeme.json](./23480-freezeme.json) |
 | Freezer Frenzy | 305698 | [305698-freezer-frenzy.json](./305698-freezer-frenzy.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
+| Freezer Pops | 163296 | [163296-freezer-pops.json](./163296-freezer-pops.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezia | 333315 | [333315-freezia.json](./333315-freezia.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
