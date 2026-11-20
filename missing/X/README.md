@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Digital Deluxe Edition | 52119 | [52119-xcom-2-digital-deluxe-edition.json](./52119-xcom-2-digital-deluxe-edition.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
+| XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | XCOM 2: War of the Chosen - Tactical Legacy Pack | 110871 | [110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json](./110871-xcom-2-war-of-the-chosen-tactical-legacy-pack.json) |
 | XCOM Legends | 159035 | [159035-xcom-legends.json](./159035-xcom-legends.json) |
 | XCOM: Enemy Unknown - Elite Soldier Pack | 286623 | [286623-xcom-enemy-unknown-elite-soldier-pack.json](./286623-xcom-enemy-unknown-elite-soldier-pack.json) |
@@ -810,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xetter 2020 | 364121 | [364121-xetter-2020.json](./364121-xetter-2020.json) |
 | Xevious | 284382 | [284382-xevious.json](./284382-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
+| Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
 | Xevious 3D/G+ | 220149 | [220149-xevious-3d-g.json](./220149-xevious-3d-g.json) |
 | Xevious Arrangement | 229441 | [229441-xevious-arrangement.json](./229441-xevious-arrangement.json) |
 | Xevious Resurrection | 229454 | [229454-xevious-resurrection.json](./229454-xevious-resurrection.json) |
