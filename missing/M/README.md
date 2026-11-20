@@ -2045,7 +2045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
 | Magnetik | 237746 | [237746-magnetik.json](./237746-magnetik.json) |
-| Magnetis | 16082 | [16082-magnetis.json](./16082-magnetis.json) |
 | Magnetism | 262129 | [262129-magnetism.json](./262129-magnetism.json) |
 | Magnetism | 278185 | [278185-magnetism.json](./278185-magnetism.json) |
 | Magnetism | 82566 | [82566-magnetism.json](./82566-magnetism.json) |
@@ -3033,7 +3032,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Camp | 109227 | [109227-making-camp.json](./109227-making-camp.json) |
 | Making Fiends: Pumpin Plunkin' | 304072 | [304072-making-fiends-pumpin-plunkin.json](./304072-making-fiends-pumpin-plunkin.json) |
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
-| Making History II: The War of the World | 15026 | [15026-making-history-ii-the-war-of-the-world.json](./15026-making-history-ii-the-war-of-the-world.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
 | Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
@@ -11082,7 +11080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metagates | 224526 | [224526-metagates.json](./224526-metagates.json) |
 | MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
-| MetaHuman Inc. | 15735 | [15735-metahuman-inc.json](./15735-metahuman-inc.json) |
 | Metahustle One | 405794 | [405794-metahustle-one.json](./405794-metahustle-one.json) |
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
@@ -15552,7 +15549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
 | Mirror Movement | 156825 | [156825-mirror-movement.json](./156825-mirror-movement.json) |
 | Mirror Museum | 348003 | [348003-mirror-museum.json](./348003-mirror-museum.json) |
-| Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror of Heaven | 380979 | [380979-mirror-of-heaven.json](./380979-mirror-of-heaven.json) |
 | Mirror of Immortality | 187421 | [187421-mirror-of-immortality.json](./187421-mirror-of-immortality.json) |
@@ -18658,7 +18654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Kids Racing Game | 89764 | [89764-monster-trucks-kids-racing-game.json](./89764-monster-trucks-kids-racing-game.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
-| Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
 | Monster Trucks Nitro II | 61762 | [61762-monster-trucks-nitro-ii.json](./61762-monster-trucks-nitro-ii.json) |
 | Monster Trucks Unleashed | 416867 | [416867-monster-trucks-unleashed.json](./416867-monster-trucks-unleashed.json) |
 | Monster Trucks: Urban Race | 89465 | [89465-monster-trucks-urban-race.json](./89465-monster-trucks-urban-race.json) |
@@ -20128,7 +20123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 3 | 151283 | [151283-mosaique-neko-waifus-3.json](./151283-mosaique-neko-waifus-3.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
-| Mosby's Confederacy | 14914 | [14914-mosbys-confederacy.json](./14914-mosbys-confederacy.json) |
 | Moscoleta | 308017 | [308017-moscoleta.json](./308017-moscoleta.json) |
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
 | Moscow Racer | 73025 | [73025-moscow-racer.json](./73025-moscow-racer.json) |
