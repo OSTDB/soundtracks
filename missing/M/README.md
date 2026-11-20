@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshal | 180728 | [180728-marshal.json](./180728-marshal.json) |
 | Marshal in Hell | 235611 | [235611-marshal-in-hell.json](./235611-marshal-in-hell.json) |
 | Marshall Mellow | 155875 | [155875-marshall-mellow.json](./155875-marshall-mellow.json) |
+| Marshall Palabritas | 425257 | [425257-marshall-palabritas.json](./425257-marshall-palabritas.json) |
 | Marshals of War: Orcblood | 408044 | [408044-marshals-of-war-orcblood.json](./408044-marshals-of-war-orcblood.json) |
 | Marshawn Lynch Blocky Football | 267328 | [267328-marshawn-lynch-blocky-football.json](./267328-marshawn-lynch-blocky-football.json) |
 | Marshawn Lynch Pro Football | 86858 | [86858-marshawn-lynch-pro-football.json](./86858-marshawn-lynch-pro-football.json) |
@@ -9666,6 +9667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meida!! | 98100 | [98100-meida.json](./98100-meida.json) |
 | Meidroid of the End | 358516 | [358516-meidroid-of-the-end.json](./358516-meidroid-of-the-end.json) |
 | MeiErWo Plan | 385987 | [385987-meierwo-plan.json](./385987-meierwo-plan.json) |
+| Meifu Kanshiki-Ka: The Underworld Forensics Division | 425454 | [425454-meifu-kanshiki-ka-the-underworld-forensics-division.json](./425454-meifu-kanshiki-ka-the-underworld-forensics-division.json) |
 | Meifumado | 176026 | [176026-meifumado.json](./176026-meifumado.json) |
 | Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
@@ -14491,6 +14493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Volantis | 121354 | [121354-mines-of-volantis.json](./121354-mines-of-volantis.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
+| Minesleeper | 425229 | [425229-minesleeper.json](./425229-minesleeper.json) |
 | MineSorter | 298545 | [298545-minesorter.json](./298545-minesorter.json) |
 | MineStickman | 76025 | [76025-minestickman.json](./76025-minestickman.json) |
 | Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
@@ -20341,6 +20344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
 | Motion Gravure Series: Nemoto Harumi | 72297 | [72297-motion-gravure-series-nemoto-harumi.json](./72297-motion-gravure-series-nemoto-harumi.json) |
 | Motion of the Heart | 133229 | [133229-motion-of-the-heart.json](./133229-motion-of-the-heart.json) |
+| Motion Sensing Car | 425236 | [425236-motion-sensing-car.json](./425236-motion-sensing-car.json) |
 | Motion Soccer Pro | 320521 | [320521-motion-soccer-pro.json](./320521-motion-soccer-pro.json) |
 | Motion Tennis | 212414 | [212414-motion-tennis.json](./212414-motion-tennis.json) |
 | Motion Wulin | 373515 | [373515-motion-wulin.json](./373515-motion-wulin.json) |
