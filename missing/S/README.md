@@ -3340,6 +3340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
 | Scavenger Mouse | 418486 | [418486-scavenger-mouse.json](./418486-scavenger-mouse.json) |
 | Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
+| Scavenger Run | 426183 | [426183-scavenger-run.json](./426183-scavenger-run.json) |
 | Scavenger Skirmish: Mortal World | 105372 | [105372-scavenger-skirmish-mortal-world.json](./105372-scavenger-skirmish-mortal-world.json) |
 | Scavenger SV-4 | 82347 | [82347-scavenger-sv-4.json](./82347-scavenger-sv-4.json) |
 | Scavenger T.O.M | 365179 | [365179-scavenger-t-o-m.json](./365179-scavenger-t-o-m.json) |
