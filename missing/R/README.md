@@ -8745,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
 | Ring Rage | 344049 | [344049-ring-rage.json](./344049-ring-rage.json) |
 | Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
+| Ring Release | 421970 | [421970-ring-release.json](./421970-ring-release.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Run Circus | 52705 | [52705-ring-run-circus.json](./52705-ring-run-circus.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
@@ -9963,6 +9964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robikon | 107448 | [107448-robikon.json](./107448-robikon.json) |
+| Robin | 421981 | [421981-robin.json](./421981-robin.json) |
 | Robin | 57837 | [57837-robin.json](./57837-robin.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
 | Robin Hood | 100246 | [100246-robin-hood.json](./100246-robin-hood.json) |
