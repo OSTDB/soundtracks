@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy Online | 76456 | [76456-family-guy-online.json](./76456-family-guy-online.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Air Griffin | 255575 | [255575-family-guy-air-griffin.json](./255575-family-guy-air-griffin.json) |
+| Family Guy: Another Freakin' Mobile Game | 56288 | [56288-family-guy-another-freakin-mobile-game.json](./56288-family-guy-another-freakin-mobile-game.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Stewie 2.0 | 257843 | [257843-family-guy-stewie-2-0.json](./257843-family-guy-stewie-2-0.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fastlane Pinball | 73889 | [73889-fastlane-pinball.json](./73889-fastlane-pinball.json) |
 | FastLane Street Racer | 262466 | [262466-fastlane-street-racer.json](./262466-fastlane-street-racer.json) |
+| Fastlane: Road to Revenge | 56003 | [56003-fastlane-road-to-revenge.json](./56003-fastlane-road-to-revenge.json) |
 | Fastlaners | 239408 | [239408-fastlaners.json](./239408-fastlaners.json) |
 | Fastlife | 383445 | [383445-fastlife.json](./383445-fastlife.json) |
 | Fastone Pyramid | 388297 | [388297-fastone-pyramid.json](./388297-fastone-pyramid.json) |
@@ -4091,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hunger | 353558 | [353558-fear-of-hunger.json](./353558-fear-of-hunger.json) |
 | Fear of Mine | 226560 | [226560-fear-of-mine.json](./226560-fear-of-mine.json) |
 | Fear of Neighbours | 253639 | [253639-fear-of-neighbours.json](./253639-fear-of-neighbours.json) |
+| Fear of Nightmares: Madness Descent | 55729 | [55729-fear-of-nightmares-madness-descent.json](./55729-fear-of-nightmares-madness-descent.json) |
 | Fear of Reptiles: Chapter 1 | 404595 | [404595-fear-of-reptiles-chapter-1.json](./404595-fear-of-reptiles-chapter-1.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
 | Fear of the dark | 185499 | [185499-fear-of-the-dark.json](./185499-fear-of-the-dark.json) |
