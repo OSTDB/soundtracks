@@ -8236,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | Google.exe | 400093 | [400093-google-exe.json](./400093-google-exe.json) |
+| Googlick | 426724 | [426724-googlick.json](./426724-googlick.json) |
 | googolChooChoo3D2 | 106990 | [106990-googolchoochoo3d2.json](./106990-googolchoochoo3d2.json) |
 | Googolplex | 64300 | [64300-googolplex.json](./64300-googolplex.json) |
 | Googoo: Bash! | 216728 | [216728-googoo-bash.json](./216728-googoo-bash.json) |
@@ -13134,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
 | Gwarf | 294122 | [294122-gwarf.json](./294122-gwarf.json) |
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
+| Gweilo 1886 | 426728 | [426728-gweilo-1886.json](./426728-gweilo-1886.json) |
 | Gwen the Hen 64 | 237180 | [237180-gwen-the-hen-64.json](./237180-gwen-the-hen-64.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade | 187567 | [187567-gwenblade.json](./187567-gwenblade.json) |
