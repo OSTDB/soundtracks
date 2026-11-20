@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sail the Seas | 302219 | [302219-sail-the-seas.json](./302219-sail-the-seas.json) |
 | Sail: Evolved Tides | 420416 | [420416-sail-evolved-tides.json](./420416-sail-evolved-tides.json) |
+| Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
 | Sailaway III | 272590 | [272590-sailaway-iii.json](./272590-sailaway-iii.json) |
 | Sailboat Championship | 208721 | [208721-sailboat-championship.json](./208721-sailboat-championship.json) |
 | Sailboat Explorer | 181121 | [181121-sailboat-explorer.json](./181121-sailboat-explorer.json) |
@@ -5705,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
 | Seeking Cat | 317396 | [317396-seeking-cat.json](./317396-seeking-cat.json) |
 | Seeking Dawn: Free to Play Edition | 111224 | [111224-seeking-dawn-free-to-play-edition.json](./111224-seeking-dawn-free-to-play-edition.json) |
+| Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Light: Chapter 1 | 284277 | [284277-seeking-light-chapter-1.json](./284277-seeking-light-chapter-1.json) |
@@ -6360,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senkaiden Ni: TV Animation Senkaiden Houshin Engi Yori | 37313 | [37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json](./37313-senkaiden-ni-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senkaiden: TV Animation Senkaiden Houshin Engi Yori | 37489 | [37489-senkaiden-tv-animation-senkaiden-houshin-engi-yori.json](./37489-senkaiden-tv-animation-senkaiden-houshin-engi-yori.json) |
 | Senki Zesshou Symphogear XD Unlimited | 142616 | [142616-senki-zesshou-symphogear-xd-unlimited.json](./142616-senki-zesshou-symphogear-xd-unlimited.json) |
+| Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
 | Senko no Ronde 2: Rounder Karel | 171145 | [171145-senko-no-ronde-2-rounder-karel.json](./171145-senko-no-ronde-2-rounder-karel.json) |
 | Senko no Ronde 2: Rounder Lili | 172217 | [172217-senko-no-ronde-2-rounder-lili.json](./172217-senko-no-ronde-2-rounder-lili.json) |
@@ -24831,6 +24834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SphereCats | 310241 | [310241-spherecats.json](./310241-spherecats.json) |
 | SphereCore Survival | 344402 | [344402-spherecore-survival.json](./344402-spherecore-survival.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
+| SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
 | SphereKnight | 109484 | [109484-sphereknight.json](./109484-sphereknight.json) |
 | Sphereout | 250382 | [250382-sphereout.json](./250382-sphereout.json) |
 | Spheres | 174551 | [174551-spheres.json](./174551-spheres.json) |
@@ -27222,6 +27226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
+| Stable Orbit | 28547 | [28547-stable-orbit.json](./28547-stable-orbit.json) |
 | Stable Stories: Forest and Meadow Ride | 317273 | [317273-stable-stories-forest-and-meadow-ride.json](./317273-stable-stories-forest-and-meadow-ride.json) |
 | StableBound | 297004 | [297004-stablebound.json](./297004-stablebound.json) |
 | Stablemasters | 415897 | [415897-stablemasters.json](./415897-stablemasters.json) |
@@ -28729,6 +28734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcross | 7565 | [7565-starcross.json](./7565-starcross.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
 | Starcross Starcade Special | 211341 | [211341-starcross-starcade-special.json](./211341-starcross-starcade-special.json) |
+| StarCrossed | 28770 | [28770-starcrossed.json](./28770-starcrossed.json) |
 | Starcube MMO | 212930 | [212930-starcube-mmo.json](./212930-starcube-mmo.json) |
 | Starcult. Night: Twisted Age | 402990 | [402990-starcult-night-twisted-age.json](./402990-starcult-night-twisted-age.json) |
 | Stardander Revenant | 190759 | [190759-stardander-revenant.json](./190759-stardander-revenant.json) |
@@ -40318,6 +40324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Elite | 298429 | [298429-sweet-elite.json](./298429-sweet-elite.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
 | Sweet F. Cake | 134470 | [134470-sweet-f-cake.json](./134470-sweet-f-cake.json) |
+| Sweet fantasy | 29081 | [29081-sweet-fantasy.json](./29081-sweet-fantasy.json) |
 | Sweet Fantasy | 339464 | [339464-sweet-fantasy.json](./339464-sweet-fantasy.json) |
 | Sweet Fantasy World | 339463 | [339463-sweet-fantasy-world.json](./339463-sweet-fantasy-world.json) |
 | Sweet Farm | 392907 | [392907-sweet-farm.json](./392907-sweet-farm.json) |
