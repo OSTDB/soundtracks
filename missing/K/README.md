@@ -6617,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kramora's Shadow | 35192 | [35192-kramoras-shadow.json](./35192-kramoras-shadow.json) |
 | Krampen | 257203 | [257203-krampen.json](./257203-krampen.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
+| Krampus | 427933 | [427933-krampus.json](./427933-krampus.json) |
 | Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
 | Krampus of Kirkwall | 415520 | [415520-krampus-of-kirkwall.json](./415520-krampus-of-kirkwall.json) |
