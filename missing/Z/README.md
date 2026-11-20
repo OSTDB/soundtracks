@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Pirates | 15028 | [15028-zombie-pirates.json](./15028-zombie-pirates.json) |
 | Zombie Pixel Zombie | 56314 | [56314-zombie-pixel-zombie.json](./56314-zombie-pixel-zombie.json) |
 | Zombie Police: Christmas Dancing with Police Zombies | 288443 | [288443-zombie-police-christmas-dancing-with-police-zombies.json](./288443-zombie-police-christmas-dancing-with-police-zombies.json) |
+| Zombie Police: Midsummer Unhappy New Year | 419509 | [419509-zombie-police-midsummer-unhappy-new-year.json](./419509-zombie-police-midsummer-unhappy-new-year.json) |
 | Zombie Poly | 216084 | [216084-zombie-poly.json](./216084-zombie-poly.json) |
 | Zombie Pop | 74981 | [74981-zombie-pop.json](./74981-zombie-pop.json) |
 | Zombie Prison Break | 237106 | [237106-zombie-prison-break.json](./237106-zombie-prison-break.json) |
