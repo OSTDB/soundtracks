@@ -16811,6 +16811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow of Death: Part 2 | 24692 | [24692-arrow-of-death-part-2.json](./24692-arrow-of-death-part-2.json) |
 | Arrow of Laputa | 227979 | [227979-arrow-of-laputa.json](./227979-arrow-of-laputa.json) |
 | Arrow of Laputa: Kage Nashi Sensei to Kiron no Fuuken | 59210 | [59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json](./59210-arrow-of-laputa-kage-nashi-sensei-to-kiron-no-fuuken.json) |
+| Arrow Out | 430650 | [430650-arrow-out.json](./430650-arrow-out.json) |
 | Arrow Patterns | 267361 | [267361-arrow-patterns.json](./267361-arrow-patterns.json) |
 | Arrow Point | 108726 | [108726-arrow-point.json](./108726-arrow-point.json) |
 | Arrow Puzzle Games | 415573 | [415573-arrow-puzzle-games.json](./415573-arrow-puzzle-games.json) |
