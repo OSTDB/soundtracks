@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Fabbrica Spaziale | 145977 | [145977-la-fabbrica-spaziale.json](./145977-la-fabbrica-spaziale.json) |
 | La Fattoria (Farm Slot) | 232278 | [232278-la-fattoria-farm-slot.json](./232278-la-fattoria-farm-slot.json) |
 | La femme qui ne supportait pas les ordinateurs | 138854 | [138854-la-femme-qui-ne-supportait-pas-les-ordinateurs.json](./138854-la-femme-qui-ne-supportait-pas-les-ordinateurs.json) |
+| La Foire aux Mystères 1 | 425330 | [425330-la-foire-aux-mysteres-1.json](./425330-la-foire-aux-mysteres-1.json) |
 | La Foret | 176779 | [176779-la-foret.json](./176779-la-foret.json) |
 | La Foret De Pago 2: Souvenir de Glace | 163800 | [163800-la-foret-de-pago-2-souvenir-de-glace.json](./163800-la-foret-de-pago-2-souvenir-de-glace.json) |
 | La Forêt de Pago: La vengeance du Dragon | 120593 | [120593-la-foret-de-pago-la-vengeance-du-dragon.json](./120593-la-foret-de-pago-la-vengeance-du-dragon.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
 | Last Land | 141277 | [141277-last-land.json](./141277-last-land.json) |
+| Last Landlord | 425237 | [425237-last-landlord.json](./425237-last-landlord.json) |
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
 | Last Lawn Standing | 424817 | [424817-last-lawn-standing.json](./424817-last-lawn-standing.json) |
