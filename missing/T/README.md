@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Bones of You | 266720 | [266720-the-bones-of-you.json](./266720-the-bones-of-you.json) |
 | The Bones Picked Clean and the Clean Bones Gone | 139316 | [139316-the-bones-picked-clean-and-the-clean-bones-gone.json](./139316-the-bones-picked-clean-and-the-clean-bones-gone.json) |
+| The Bonfire: Forsaken Lands | 84535 | [84535-the-bonfire-forsaken-lands.json](./84535-the-bonfire-forsaken-lands.json) |
 | The Bonte Room | 316828 | [316828-the-bonte-room.json](./316828-the-bonte-room.json) |
 | The Bonte Room 2 | 316829 | [316829-the-bonte-room-2.json](./316829-the-bonte-room-2.json) |
 | The Boo Club | 421016 | [421016-the-boo-club.json](./421016-the-boo-club.json) |
@@ -15467,6 +15468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
 | The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
+| The Magic Hammer | 85440 | [85440-the-magic-hammer.json](./85440-the-magic-hammer.json) |
 | The Magic Hour | 399053 | [399053-the-magic-hour.json](./399053-the-magic-hour.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
@@ -26078,6 +26080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileHunter | 188973 | [188973-tilehunter.json](./188973-tilehunter.json) |
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
+| Tilelicious: Delicious Tiles | 85445 | [85445-tilelicious-delicious-tiles.json](./85445-tilelicious-delicious-tiles.json) |
 | TileMan.io | 262188 | [262188-tileman-io.json](./262188-tileman-io.json) |
 | Tilemancer | 420752 | [420752-tilemancer.json](./420752-tilemancer.json) |
 | Tilemancer Dungeon | 307480 | [307480-tilemancer-dungeon.json](./307480-tilemancer-dungeon.json) |
@@ -26755,6 +26758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy and the Tower of Mu | 169876 | [169876-timothy-and-the-tower-of-mu.json](./169876-timothy-and-the-tower-of-mu.json) |
 | Timothy and Titus | 98304 | [98304-timothy-and-titus.json](./98304-timothy-and-titus.json) |
 | Timothy Leary's Mind Mirror | 26454 | [26454-timothy-learys-mind-mirror.json](./26454-timothy-learys-mind-mirror.json) |
+| Timothy vs. the Aliens | 84108 | [84108-timothy-vs-the-aliens.json](./84108-timothy-vs-the-aliens.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timothy's Night | 165303 | [165303-timothys-night.json](./165303-timothys-night.json) |
 | Timpu's Treasure | 132373 | [132373-timpus-treasure.json](./132373-timpus-treasure.json) |
@@ -29849,6 +29853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
+| Toss n Go | 84945 | [84945-toss-n-go.json](./84945-toss-n-go.json) |
 | Toss Office | 422029 | [422029-toss-office.json](./422029-toss-office.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
