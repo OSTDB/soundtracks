@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Unplugged the Kids | 412243 | [412243-i-unplugged-the-kids.json](./412243-i-unplugged-the-kids.json) |
 | I wa Sanjutsu Nari | 141426 | [141426-i-wa-sanjutsu-nari.json](./141426-i-wa-sanjutsu-nari.json) |
 | I Walk Among Zombies Vol. 0 | 163740 | [163740-i-walk-among-zombies-vol-0.json](./163740-i-walk-among-zombies-vol-0.json) |
+| I Walk Among Zombies Vol. 1 | 427364 | [427364-i-walk-among-zombies-vol-1.json](./427364-i-walk-among-zombies-vol-1.json) |
 | I Walk Among Zombies Vol. 3 | 161519 | [161519-i-walk-among-zombies-vol-3.json](./161519-i-walk-among-zombies-vol-3.json) |
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Ascend | 368702 | [368702-i-wanna-ascend.json](./368702-i-wanna-ascend.json) |
@@ -1800,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Obelisk Miner | 256567 | [256567-idle-obelisk-miner.json](./256567-idle-obelisk-miner.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
+| Idle Office Tycoon | 427401 | [427401-idle-office-tycoon.json](./427401-idle-office-tycoon.json) |
 | Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
 | Idle Outpost | 302674 | [302674-idle-outpost.json](./302674-idle-outpost.json) |
 | Idle Paladin | 192181 | [192181-idle-paladin.json](./192181-idle-paladin.json) |
@@ -2345,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikinari Maou | 221442 | [221442-ikinari-maou.json](./221442-ikinari-maou.json) |
 | Ikinari Musician | 48462 | [48462-ikinari-musician.json](./48462-ikinari-musician.json) |
 | Ikisugi!? Before After | 241191 | [241191-ikisugi-before-after.json](./241191-ikisugi-before-after.json) |
+| Ikitagaru Kimi to Ikitagaru Ore | 427370 | [427370-ikitagaru-kimi-to-ikitagaru-ore.json](./427370-ikitagaru-kimi-to-ikitagaru-ore.json) |
 | Ikkaku Senkin | 206542 | [206542-ikkaku-senkin.json](./206542-ikkaku-senkin.json) |
 | Ikkarus and the Prince of Sin | 211804 | [211804-ikkarus-and-the-prince-of-sin.json](./211804-ikkarus-and-the-prince-of-sin.json) |
 | Ikki | 12915 | [12915-ikki.json](./12915-ikki.json) |
@@ -5374,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Schmidt: A Bavarian Tale | 171185 | [171185-inspector-schmidt-a-bavarian-tale.json](./171185-inspector-schmidt-a-bavarian-tale.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
 | Inspector Schmidt: The Ebbing - Prologue | 335181 | [335181-inspector-schmidt-the-ebbing-prologue.json](./335181-inspector-schmidt-the-ebbing-prologue.json) |
+| Inspector Sommers in: Ouroborian Madness | 427415 | [427415-inspector-sommers-in-ouroborian-madness.json](./427415-inspector-sommers-in-ouroborian-madness.json) |
 | Inspector Waffles | 116730 | [116730-inspector-waffles.json](./116730-inspector-waffles.json) |
 | Inspector Waffles Full Story | 395289 | [395289-inspector-waffles-full-story.json](./395289-inspector-waffles-full-story.json) |
 | Inspector Waffles: Early Days | 273621 | [273621-inspector-waffles-early-days.json](./273621-inspector-waffles-early-days.json) |
