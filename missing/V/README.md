@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdict: Descent | 258086 | [258086-verdict-descent.json](./258086-verdict-descent.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
 | Verdoria's Kingdom Quest: Magic, Battles & Sorcery | 308485 | [308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json](./308485-verdorias-kingdom-quest-magic-battles-and-sorcery.json) |
+| Verdreamia | 423549 | [423549-verdreamia.json](./423549-verdreamia.json) |
 | Verdungeon | 120215 | [120215-verdungeon.json](./120215-verdungeon.json) |
 | Verdungo | 149943 | [149943-verdungo.json](./149943-verdungo.json) |
 | Verdure | 376276 | [376276-verdure.json](./376276-verdure.json) |
@@ -2377,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam '66 | 292480 | [292480-vietnam-66.json](./292480-vietnam-66.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
+| Vietnam Communist: Against U.S. Invasion | 423727 | [423727-vietnam-communist-against-u-s-invasion.json](./423727-vietnam-communist-against-u-s-invasion.json) |
 | Vietnam War | 341826 | [341826-vietnam-war.json](./341826-vietnam-war.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
 | Vietnam War Puzzles | 96472 | [96472-vietnam-war-puzzles.json](./96472-vietnam-war-puzzles.json) |
@@ -3628,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlak | 273190 | [273190-vlak.json](./273190-vlak.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlare | 395911 | [395911-vlare.json](./395911-vlare.json) |
+| VLCNP Story | 423715 | [423715-vlcnp-story.json](./423715-vlcnp-story.json) |
 | Vlinder Avatar Town Simulator | 301177 | [301177-vlinder-avatar-town-simulator.json](./301177-vlinder-avatar-town-simulator.json) |
 | Vlinder Gacha | 301172 | [301172-vlinder-gacha.json](./301172-vlinder-gacha.json) |
 | Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
