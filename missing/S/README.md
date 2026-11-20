@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuttle | 285697 | [285697-scuttle.json](./285697-scuttle.json) |
 | Scuttle Up | 292811 | [292811-scuttle-up.json](./292811-scuttle-up.json) |
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
+| Scuttled | 422616 | [422616-scuttled.json](./422616-scuttled.json) |
 | Scuttlers | 39143 | [39143-scuttlers.json](./39143-scuttlers.json) |
 | Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
 | Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
@@ -6375,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senioritis | 321723 | [321723-senioritis.json](./321723-senioritis.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
+| Senjin Aleste | 422615 | [422615-senjin-aleste.json](./422615-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senjou no Waltz | 61940 | [61940-senjou-no-waltz.json](./61940-senjou-no-waltz.json) |
 | Senjou no Waltz for Nintendo Switch: Limited Edition | 253740 | [253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json](./253740-senjou-no-waltz-for-nintendo-switch-limited-edition.json) |
@@ -22348,6 +22350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cadet | 140824 | [140824-space-cadet.json](./140824-space-cadet.json) |
 | Space Cadet | 41478 | [41478-space-cadet.json](./41478-space-cadet.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
+| Space Cadets: Engineering Corps | 422601 | [422601-space-cadets-engineering-corps.json](./422601-space-cadets-engineering-corps.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
 | Space Camel | 171246 | [171246-space-camel.json](./171246-space-camel.json) |
@@ -30584,6 +30587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
 | Stellar Winds | 145830 | [145830-stellar-winds.json](./145830-stellar-winds.json) |
 | Stellar Wing | 423850 | [423850-stellar-wing.json](./423850-stellar-wing.json) |
+| Stellar Wings | 422592 | [422592-stellar-wings.json](./422592-stellar-wings.json) |
 | Stellar Witch | 357471 | [357471-stellar-witch.json](./357471-stellar-witch.json) |
 | Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
