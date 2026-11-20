@@ -2802,7 +2802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
 | Major League Baseball 2K11 | 4992 | [4992-major-league-baseball-2k11.json](./4992-major-league-baseball-2k11.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
-| Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2k5: World Series Edition | 47327 | [47327-major-league-baseball-2k5-world-series-edition.json](./47327-major-league-baseball-2k5-world-series-edition.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248539 | [248539-major-league-baseball-2k6.json](./248539-major-league-baseball-2k6.json) |
@@ -13582,11 +13581,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennia: Eagle Archers & Wolfpack Warband | 294010 | [294010-millennia-eagle-archers-and-wolfpack-warband.json](./294010-millennia-eagle-archers-and-wolfpack-warband.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
-| Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
-| Millennium 3: Cry Wolf | 8180 | [8180-millennium-3-cry-wolf.json](./8180-millennium-3-cry-wolf.json) |
 | Millennium 4: Beyond Sunset | 17361 | [17361-millennium-4-beyond-sunset.json](./17361-millennium-4-beyond-sunset.json) |
 | Millennium 5: Battle of the Millennium | 54240 | [54240-millennium-5-battle-of-the-millennium.json](./54240-millennium-5-battle-of-the-millennium.json) |
-| Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
 | Millennium Atoll | 156838 | [156838-millennium-atoll.json](./156838-millennium-atoll.json) |
 | Millennium Auction | 94291 | [94291-millennium-auction.json](./94291-millennium-auction.json) |
@@ -19021,7 +19017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Caves | 142555 | [142555-moon-caves.json](./142555-moon-caves.json) |
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
-| Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Chronicles: Episode 1 | 84596 | [84596-moon-chronicles-episode-1.json](./84596-moon-chronicles-episode-1.json) |
 | Moon Chronicles: Episodes 2-4 | 84595 | [84595-moon-chronicles-episodes-2-4.json](./84595-moon-chronicles-episodes-2-4.json) |
 | Moon Coffee Conspiracy | 414680 | [414680-moon-coffee-conspiracy.json](./414680-moon-coffee-conspiracy.json) |
@@ -20381,7 +20376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto Chaser | 137512 | [137512-moto-chaser.json](./137512-moto-chaser.json) |
 | Moto Extreme | 70342 | [70342-moto-extreme.json](./70342-moto-extreme.json) |
-| Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
 | Moto Hero | 197706 | [197706-moto-hero.json](./197706-moto-hero.json) |
 | Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
 | Moto Highway Rider | 101535 | [101535-moto-highway-rider.json](./101535-moto-highway-rider.json) |
@@ -21726,9 +21720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-head | 307115 | [307115-mtvs-beavis-and-butt-head.json](./307115-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-Head | 7777 | [7777-mtvs-beavis-and-butt-head.json](./7777-mtvs-beavis-and-butt-head.json) |
 | MTV's Beavis and Butt-head in Virtual Stupidity | 8457 | [8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json](./8457-mtvs-beavis-and-butt-head-in-virtual-stupidity.json) |
-| MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
 | MTV's Beavis and Butt-head: Calling All Dorks | 8462 | [8462-mtvs-beavis-and-butt-head-calling-all-dorks.json](./8462-mtvs-beavis-and-butt-head-calling-all-dorks.json) |
-| MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
 | MTV's Beavis and Butt-head: Little Thingies | 8461 | [8461-mtvs-beavis-and-butt-head-little-thingies.json](./8461-mtvs-beavis-and-butt-head-little-thingies.json) |
 | MTV's Beavis and Butt-head: Screen Wreckers | 8463 | [8463-mtvs-beavis-and-butt-head-screen-wreckers.json](./8463-mtvs-beavis-and-butt-head-screen-wreckers.json) |
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
