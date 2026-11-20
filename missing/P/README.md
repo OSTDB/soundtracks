@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
 | Paperball: Secret Spy Pack | 170591 | [170591-paperball-secret-spy-pack.json](./170591-paperball-secret-spy-pack.json) |
+| Paperbark | 104478 | [104478-paperbark.json](./104478-paperbark.json) |
 | PaperBoat | 418493 | [418493-paperboat.json](./418493-paperboat.json) |
 | Paperbound | 21849 | [21849-paperbound.json](./21849-paperbound.json) |
 | Paperbound Brawlers | 115753 | [115753-paperbound-brawlers.json](./115753-paperbound-brawlers.json) |
@@ -10417,6 +10418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane in Hole | 116883 | [116883-plane-in-hole.json](./116883-plane-in-hole.json) |
 | Plane Landing Simulator | 108189 | [108189-plane-landing-simulator.json](./108189-plane-landing-simulator.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
+| Plane Mechanic Simulator | 104569 | [104569-plane-mechanic-simulator.json](./104569-plane-mechanic-simulator.json) |
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
@@ -18181,6 +18183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
 | Project Highrise | 20875 | [20875-project-highrise.json](./20875-project-highrise.json) |
+| Project Highrise: Architect's Edition | 103941 | [103941-project-highrise-architects-edition.json](./103941-project-highrise-architects-edition.json) |
 | Project Highrise: Brilliant Berlin | 124930 | [124930-project-highrise-brilliant-berlin.json](./124930-project-highrise-brilliant-berlin.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
