@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gacha Addict Simulator | 326198 | [326198-gacha-addict-simulator.json](./326198-gacha-addict-simulator.json) |
 | Gacha Adventure | 375323 | [375323-gacha-adventure.json](./375323-gacha-adventure.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
+| Gacha Chaos: Tidy Up Together | 423672 | [423672-gacha-chaos-tidy-up-together.json](./423672-gacha-chaos-tidy-up-together.json) |
 | Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
 | Gacha Fever | 276658 | [276658-gacha-fever.json](./276658-gacha-fever.json) |
 | Gacha Hack | 269906 | [269906-gacha-hack.json](./269906-gacha-hack.json) |
@@ -6707,6 +6708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Slayer: Endless Hunting | 230617 | [230617-goblin-slayer-endless-hunting.json](./230617-goblin-slayer-endless-hunting.json) |
+| Goblin Smasher | 423553 | [423553-goblin-smasher.json](./423553-goblin-smasher.json) |
 | Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
 | Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
@@ -9322,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrandPrix Unlimited 2017 | 88537 | [88537-grandprix-unlimited-2017.json](./88537-grandprix-unlimited-2017.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
 | Grandread | 130469 | [130469-grandread.json](./130469-grandread.json) |
+| Grandsire | 423546 | [423546-grandsire.json](./423546-grandsire.json) |
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | GrandTraveler | 227660 | [227660-grandtraveler.json](./227660-grandtraveler.json) |
@@ -10941,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire of Blanks | 418214 | [418214-grimoire-of-blanks.json](./418214-grimoire-of-blanks.json) |
 | Grimoire of Domance | 427692 | [427692-grimoire-of-domance.json](./427692-grimoire-of-domance.json) |
 | Grimoire of Gaia | 237528 | [237528-grimoire-of-gaia.json](./237528-grimoire-of-gaia.json) |
+| Grimoire of Hecate: Tower of Starlight | 423556 | [423556-grimoire-of-hecate-tower-of-starlight.json](./423556-grimoire-of-hecate-tower-of-starlight.json) |
 | Grimoire of Syvnta | 264745 | [264745-grimoire-of-syvnta.json](./264745-grimoire-of-syvnta.json) |
 | Grimoire Organizer | 282146 | [282146-grimoire-organizer.json](./282146-grimoire-organizer.json) |
 | Grimoire: Manastorm | 9904 | [9904-grimoire-manastorm.json](./9904-grimoire-manastorm.json) |
