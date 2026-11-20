@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Hills: Two-Horned Helmet Edition | 51791 | [51791-valhalla-hills-two-horned-helmet-edition.json](./51791-valhalla-hills-two-horned-helmet-edition.json) |
 | Valhalla Knights | 20073 | [20073-valhalla-knights.json](./20073-valhalla-knights.json) |
+| Valhalla Knights 2 | 20071 | [20071-valhalla-knights-2.json](./20071-valhalla-knights-2.json) |
 | Valhalla Knights 2: Battle Stance | 142322 | [142322-valhalla-knights-2-battle-stance.json](./142322-valhalla-knights-2-battle-stance.json) |
 | Valhalla Knights 3 | 20072 | [20072-valhalla-knights-3.json](./20072-valhalla-knights-3.json) |
 | Valhalla Knights 3 Gold | 53026 | [53026-valhalla-knights-3-gold.json](./53026-valhalla-knights-3-gold.json) |
@@ -2802,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
 | Violeta Goes to the Dentist | 400583 | [400583-violeta-goes-to-the-dentist.json](./400583-violeta-goes-to-the-dentist.json) |
 | Violetshift | 260501 | [260501-violetshift.json](./260501-violetshift.json) |
+| Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violett Remastered | 164712 | [164712-violett-remastered.json](./164712-violett-remastered.json) |
 | Violetta: Rhythm & Music | 58005 | [58005-violetta-rhythm-and-music.json](./58005-violetta-rhythm-and-music.json) |
 | Violetti Goottii | 150389 | [150389-violetti-goottii.json](./150389-violetti-goottii.json) |
