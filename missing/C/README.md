@@ -13322,6 +13322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
 | Cogen: Sword of Rewind - Limited Edition | 172803 | [172803-cogen-sword-of-rewind-limited-edition.json](./172803-cogen-sword-of-rewind-limited-edition.json) |
 | Cogen: Sword of Rewind: Additional Story & Playable Character - Akasha | 274997 | [274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json](./274997-cogen-sword-of-rewind-additional-story-and-playable-character-akasha.json) |
+| Cogheim | 421322 | [421322-cogheim.json](./421322-cogheim.json) |
 | Cogito | 30774 | [30774-cogito.json](./30774-cogito.json) |
 | Cogito Ergo Sum | 299852 | [299852-cogito-ergo-sum.json](./299852-cogito-ergo-sum.json) |
 | Cogito: Requiem | 402434 | [402434-cogito-requiem.json](./402434-cogito-requiem.json) |
@@ -20193,6 +20194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
+| Crimson Frontier: Youth | 420879 | [420879-crimson-frontier-youth.json](./420879-crimson-frontier-youth.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson Glaive Sigma | 161601 | [161601-crimson-glaive-sigma.json](./161601-crimson-glaive-sigma.json) |
 | Crimson Gray | 43141 | [43141-crimson-gray.json](./43141-crimson-gray.json) |
