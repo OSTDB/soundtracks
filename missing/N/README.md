@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer RPG | 225324 | [225324-necromancer-rpg.json](./225324-necromancer-rpg.json) |
 | Necromancer Story | 418141 | [418141-necromancer-story.json](./418141-necromancer-story.json) |
 | Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
+| Necromancer: Undead Legion RPG | 421523 | [421523-necromancer-undead-legion-rpg.json](./421523-necromancer-undead-legion-rpg.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Wendigo | 376980 | [376980-night-of-the-wendigo.json](./376980-night-of-the-wendigo.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Witch's Invasion | 330026 | [330026-night-of-the-witchs-invasion.json](./330026-night-of-the-witchs-invasion.json) |
+| Night of the Wolves | 421885 | [421885-night-of-the-wolves.json](./421885-night-of-the-wolves.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night of the X-mas Trees | 415247 | [415247-night-of-the-x-mas-trees.json](./415247-night-of-the-x-mas-trees.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
