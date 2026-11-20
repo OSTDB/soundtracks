@@ -6715,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ox & Horse Work in Hell | 345784 | [345784-ox-and-horse-work-in-hell.json](./345784-ox-and-horse-work-in-hell.json) |
 | OX Logic Puzzle 1000! | 124875 | [124875-ox-logic-puzzle-1000.json](./124875-ox-logic-puzzle-1000.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
+| Oxenfree: Director's Cut | 22446 | [22446-oxenfree-directors-cut.json](./22446-oxenfree-directors-cut.json) |
 | Oxide Room 208 | 240258 | [240258-oxide-room-208.json](./240258-oxide-room-208.json) |
 | Oxide Room 208: File Josh | 392344 | [392344-oxide-room-208-file-josh.json](./392344-oxide-room-208-file-josh.json) |
 | Oxide: Room 104 | 186663 | [186663-oxide-room-104.json](./186663-oxide-room-104.json) |
