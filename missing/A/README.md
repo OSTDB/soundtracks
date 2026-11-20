@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Places 2 | 11849 | [11849-abandoned-places-2.json](./11849-abandoned-places-2.json) |
 | Abandoned Places: A Time for Heroes | 2415 | [2415-abandoned-places-a-time-for-heroes.json](./2415-abandoned-places-a-time-for-heroes.json) |
+| Abandoned Pub | 427398 | [427398-abandoned-pub.json](./427398-abandoned-pub.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
 | Abandoned Snowy Castle | 118470 | [118470-abandoned-snowy-castle.json](./118470-abandoned-snowy-castle.json) |
 | Abandoned Souls | 249029 | [249029-abandoned-souls.json](./249029-abandoned-souls.json) |
@@ -15263,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Straight: Summoned Soul | 101406 | [101406-arcane-straight-summoned-soul.json](./101406-arcane-straight-summoned-soul.json) |
 | Arcane Summoner | 383298 | [383298-arcane-summoner.json](./383298-arcane-summoner.json) |
 | Arcane Surge | 429164 | [429164-arcane-surge.json](./429164-arcane-surge.json) |
+| Arcane Survivor | 427360 | [427360-arcane-survivor.json](./427360-arcane-survivor.json) |
 | Arcane Survivors | 250825 | [250825-arcane-survivors.json](./250825-arcane-survivors.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
@@ -17549,6 +17551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Seed | 385547 | [385547-ashen-seed.json](./385547-ashen-seed.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
+| Ashen Testament | 427408 | [427408-ashen-testament.json](./427408-ashen-testament.json) |
 | Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
 | Ashen Wilds | 360251 | [360251-ashen-wilds.json](./360251-ashen-wilds.json) |
