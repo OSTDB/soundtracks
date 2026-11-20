@@ -3998,6 +3998,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volatile Defender | 180791 | [180791-volatile-defender.json](./180791-volatile-defender.json) |
 | Volatile Particle | 267013 | [267013-volatile-particle.json](./267013-volatile-particle.json) |
 | Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
+| Volatiles | 422250 | [422250-volatiles.json](./422250-volatiles.json) |
+| Volatiles | 422251 | [422251-volatiles.json](./422251-volatiles.json) |
 | Volatility | 257806 | [257806-volatility.json](./257806-volatility.json) |
 | Volatility | 415551 | [415551-volatility.json](./415551-volatility.json) |
 | Volcan Defend the Tower | 110481 | [110481-volcan-defend-the-tower.json](./110481-volcan-defend-the-tower.json) |
