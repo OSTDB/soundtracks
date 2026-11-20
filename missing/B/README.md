@@ -5761,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearnard + What Lies in the Multiverse | 375405 | [375405-bearnard-what-lies-in-the-multiverse.json](./375405-bearnard-what-lies-in-the-multiverse.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
 | Bearricade | 327199 | [327199-bearricade.json](./327199-bearricade.json) |
+| Bears In Space | 158064 | [158064-bears-in-space.json](./158064-bears-in-space.json) |
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
 | BearShark | 63405 | [63405-bearshark.json](./63405-bearshark.json) |
@@ -8083,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Inseparable | 257701 | [257701-beyond-inseparable.json](./257701-beyond-inseparable.json) |
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
+| Beyond Mankind: The Awakening | 160002 | [160002-beyond-mankind-the-awakening.json](./160002-beyond-mankind-the-awakening.json) |
 | Beyond Melee | 294576 | [294576-beyond-melee.json](./294576-beyond-melee.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
@@ -11044,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
+| Blake: The Visual Novel | 163826 | [163826-blake-the-visual-novel.json](./163826-blake-the-visual-novel.json) |
 | Blali | 418381 | [418381-blali.json](./418381-blali.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
@@ -13417,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection: Final Fantasy XV Costumes | 396396 | [396396-blue-reflection-final-fantasy-xv-costumes.json](./396396-blue-reflection-final-fantasy-xv-costumes.json) |
 | Blue Reflection: Premium Box | 167079 | [167079-blue-reflection-premium-box.json](./167079-blue-reflection-premium-box.json) |
 | Blue Reflection: Seasons Pass | 396318 | [396318-blue-reflection-seasons-pass.json](./396318-blue-reflection-seasons-pass.json) |
+| Blue Reflection: Second Light | 154784 | [154784-blue-reflection-second-light.json](./154784-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Reflection: Second Light - Digital Deluxe Edition | 172823 | [172823-blue-reflection-second-light-digital-deluxe-edition.json](./172823-blue-reflection-second-light-digital-deluxe-edition.json) |
 | Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
@@ -20120,6 +20124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
 | Bungo's Bungite Collector | 303385 | [303385-bungos-bungite-collector.json](./303385-bungos-bungite-collector.json) |
 | Bungy jump Into Abyss | 213665 | [213665-bungy-jump-into-abyss.json](./213665-bungy-jump-into-abyss.json) |
+| Bunhouse | 158334 | [158334-bunhouse.json](./158334-bunhouse.json) |
 | BuniBon | 315238 | [315238-bunibon.json](./315238-bunibon.json) |
 | BuniBon 2 | 315239 | [315239-bunibon-2.json](./315239-bunibon-2.json) |
 | Bunk.Town | 185446 | [185446-bunk-town.json](./185446-bunk-town.json) |
