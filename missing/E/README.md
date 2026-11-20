@@ -2685,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
 | Elemental Land | 197097 | [197097-elemental-land.json](./197097-elemental-land.json) |
+| Elemental Lands | 423126 | [423126-elemental-lands.json](./423126-elemental-lands.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Magic Wars | 406228 | [406228-elemental-magic-wars.json](./406228-elemental-magic-wars.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 380339 | [380339-exorcist.json](./380339-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
+| Exorcist | 423191 | [423191-exorcist.json](./423191-exorcist.json) |
 | Exorcist | 54011 | [54011-exorcist.json](./54011-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist 3: Inception of Darkness | 201905 | [201905-exorcist-3-inception-of-darkness.json](./201905-exorcist-3-inception-of-darkness.json) |
