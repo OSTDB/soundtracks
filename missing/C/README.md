@@ -4260,7 +4260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Pals | 101182 | [101182-castle-pals.json](./101182-castle-pals.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
-| Castle Quest | 13997 | [13997-castle-quest.json](./13997-castle-quest.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Raid | 197984 | [197984-castle-raid.json](./197984-castle-raid.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
@@ -6795,7 +6794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
 | Championship Manager 2006 | 5771 | [5771-championship-manager-2006.json](./5771-championship-manager-2006.json) |
-| Championship Manager 2007 | 14887 | [14887-championship-manager-2007.json](./14887-championship-manager-2007.json) |
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
 | Championship Manager 2010 | 14888 | [14888-championship-manager-2010.json](./14888-championship-manager-2010.json) |
@@ -7056,7 +7054,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
 | Chaos Tavern | 120538 | [120538-chaos-tavern.json](./120538-chaos-tavern.json) |
 | Chaos Theory | 114298 | [114298-chaos-theory.json](./114298-chaos-theory.json) |
-| Chaos Theory | 15945 | [15945-chaos-theory.json](./15945-chaos-theory.json) |
 | Chaos Theory Pirates | 130193 | [130193-chaos-theory-pirates.json](./130193-chaos-theory-pirates.json) |
 | Chaos Town | 36819 | [36819-chaos-town.json](./36819-chaos-town.json) |
 | Chaos Trigger | 296860 | [296860-chaos-trigger.json](./296860-chaos-trigger.json) |
@@ -7281,7 +7278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chartle | 383786 | [383786-chartle.json](./383786-chartle.json) |
 | Chartreuse Star Adventure | 268671 | [268671-chartreuse-star-adventure.json](./268671-chartreuse-star-adventure.json) |
 | Charumera | 64578 | [64578-charumera.json](./64578-charumera.json) |
-| Chase | 15209 | [15209-chase.json](./15209-chase.json) |
 | Chase | 195500 | [195500-chase.json](./195500-chase.json) |
 | Chase | 253998 | [253998-chase.json](./253998-chase.json) |
 | Chase | 286775 | [286775-chase.json](./286775-chase.json) |
@@ -8822,7 +8818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
 | Chippy's Stash | 336877 | [336877-chippys-stash.json](./336877-chippys-stash.json) |
-| Chiptune Champion | 15905 | [15905-chiptune-champion.json](./15905-chiptune-champion.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | Chipwits | 318923 | [318923-chipwits.json](./318923-chipwits.json) |
@@ -11121,7 +11116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun Returns: This is Sengoku! | 27331 | [27331-cladun-returns-this-is-sengoku.json](./27331-cladun-returns-this-is-sengoku.json) |
-| Cladun X2 | 15284 | [15284-cladun-x2.json](./15284-cladun-x2.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
 | Claim Denied | 417190 | [417190-claim-denied.json](./417190-claim-denied.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
@@ -11201,7 +11195,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | Clannada: Gensou Shoujo | 253769 | [253769-clannada-gensou-shoujo.json](./253769-clannada-gensou-shoujo.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
-| Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
 | Clans of Four Color: Impossible Promise | 382716 | [382716-clans-of-four-color-impossible-promise.json](./382716-clans-of-four-color-impossible-promise.json) |
 | Clans of London | 379128 | [379128-clans-of-london.json](./379128-clans-of-london.json) |
@@ -12228,7 +12221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clone.Optimize.Sacrifice. | 419398 | [419398-clone-optimize-sacrifice.json](./419398-clone-optimize-sacrifice.json) |
-| Clones | 16218 | [16218-clones.json](./16218-clones.json) |
 | Clones Conquer Worlds | 374010 | [374010-clones-conquer-worlds.json](./374010-clones-conquer-worlds.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Clones Selection | 181030 | [181030-clones-selection.json](./181030-clones-selection.json) |
@@ -17520,7 +17512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters | 127505 | [127505-cosmic-monsters.json](./127505-cosmic-monsters.json) |
 | Cosmic Monsters | 281285 | [281285-cosmic-monsters.json](./281285-cosmic-monsters.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
-| Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
 | Cosmic Osmo's Hex Isle | 63909 | [63909-cosmic-osmos-hex-isle.json](./63909-cosmic-osmos-hex-isle.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Overdrive | 237160 | [237160-cosmic-overdrive.json](./237160-cosmic-overdrive.json) |
@@ -18775,7 +18766,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cannon | 149812 | [149812-cranky-cannon.json](./149812-cranky-cannon.json) |
-| Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Chibi Cthulhu | 274311 | [274311-cranky-chibi-cthulhu.json](./274311-cranky-chibi-cthulhu.json) |
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
 | Cranky Cove | 333823 | [333823-cranky-cove.json](./333823-cranky-cove.json) |
@@ -20107,9 +20097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
 | CrimeBound Chronicles | 345109 | [345109-crimebound-chronicles.json](./345109-crimebound-chronicles.json) |
 | CrimeCity | 81519 | [81519-crimecity.json](./81519-crimecity.json) |
-| CrimeCraft | 15040 | [15040-crimecraft.json](./15040-crimecraft.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
-| CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
 | CrimeCraft: Kingpin | 65633 | [65633-crimecraft-kingpin.json](./65633-crimecraft-kingpin.json) |
 | Crimen Exceptum | 333307 | [333307-crimen-exceptum.json](./333307-crimen-exceptum.json) |
 | Crimerunner | 217146 | [217146-crimerunner.json](./217146-crimerunner.json) |
