@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Arrows | 323513 | [323513-only-arrows.json](./323513-only-arrows.json) |
 | Only Axolotls | 429840 | [429840-only-axolotls.json](./429840-only-axolotls.json) |
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
+| Only Booze: Liquor Store Simulator | 425559 | [425559-only-booze-liquor-store-simulator.json](./425559-only-booze-liquor-store-simulator.json) |
 | Only Cassette Coloring! | 215059 | [215059-only-cassette-coloring.json](./215059-only-cassette-coloring.json) |
 | Only Climb: Better Together | 257316 | [257316-only-climb-better-together.json](./257316-only-climb-better-together.json) |
 | Only Climber | 293506 | [293506-only-climber.json](./293506-only-climber.json) |
