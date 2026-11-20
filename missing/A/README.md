@@ -9305,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphattack | 346829 | [346829-alphattack.json](./346829-alphattack.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
 | Alphie the Squid | 228187 | [228187-alphie-the-squid.json](./228187-alphie-the-squid.json) |
+| Alphos | 422534 | [422534-alphos.json](./422534-alphos.json) |
 | Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine | 374014 | [374014-alpine.json](./374014-alpine.json) |
