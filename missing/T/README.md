@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap Monster Duel | 417909 | [417909-tap-monster-duel.json](./417909-tap-monster-duel.json) |
+| Tap Monster: Saga | 427945 | [427945-tap-monster-saga.json](./427945-tap-monster-saga.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
 | Tap Ninja | 193136 | [193136-tap-ninja.json](./193136-tap-ninja.json) |
 | Tap On Overlap | 194168 | [194168-tap-on-overlap.json](./194168-tap-on-overlap.json) |
@@ -4283,6 +4284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Cerberus | 58117 | [58117-temple-of-cerberus.json](./58117-temple-of-cerberus.json) |
 | Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
+| Temple of Egmelitia | 427938 | [427938-temple-of-egmelitia.json](./427938-temple-of-egmelitia.json) |
 | Temple of Endless Night | 189895 | [189895-temple-of-endless-night.json](./189895-temple-of-endless-night.json) |
 | Temple of Horror | 213535 | [213535-temple-of-horror.json](./213535-temple-of-horror.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
@@ -8088,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Casino Collection: Ruleta, Vídeo Póker, Tragaperras, Craps, Baccarat, Five-Card Draw Poker, Texas hold 'em, Blackjack and Page One | 164725 | [164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json](./164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json) |
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
+| The Casket of the Bygone Witch | 427940 | [427940-the-casket-of-the-bygone-witch.json](./427940-the-casket-of-the-bygone-witch.json) |
 | The Cassandra Galleries | 86022 | [86022-the-cassandra-galleries.json](./86022-the-cassandra-galleries.json) |
 | The Cassir Simulator | 155852 | [155852-the-cassir-simulator.json](./155852-the-cassir-simulator.json) |
 | The Casting of Frank Stone: Deluxe Edition | 331833 | [331833-the-casting-of-frank-stone-deluxe-edition.json](./331833-the-casting-of-frank-stone-deluxe-edition.json) |
@@ -10765,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fernweh Saga: Book One | 223264 | [223264-the-fernweh-saga-book-one.json](./223264-the-fernweh-saga-book-one.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
+| The Ferryman's Trial | 427951 | [427951-the-ferrymans-trial.json](./427951-the-ferrymans-trial.json) |
 | The Feud: Wild West Tactics | 36335 | [36335-the-feud-wild-west-tactics.json](./36335-the-feud-wild-west-tactics.json) |
 | The Feudal | 251879 | [251879-the-feudal.json](./251879-the-feudal.json) |
 | The Fever | 141745 | [141745-the-fever.json](./141745-the-fever.json) |
@@ -16907,6 +16911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owl, the Thief and the Strawberries | 260364 | [260364-the-owl-the-thief-and-the-strawberries.json](./260364-the-owl-the-thief-and-the-strawberries.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pac-Man Brothers | 321930 | [321930-the-pac-man-brothers.json](./321930-the-pac-man-brothers.json) |
+| The Pacifist | 427973 | [427973-the-pacifist.json](./427973-the-pacifist.json) |
 | The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
 | The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Pack Rat | 73089 | [73089-the-pack-rat.json](./73089-the-pack-rat.json) |
@@ -33855,6 +33860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: CONTZ Pack - Standard Edition | 205404 | [205404-trainz-railroad-simulator-2022-contz-pack-standard-edition.json](./205404-trainz-railroad-simulator-2022-contz-pack-standard-edition.json) |
 | Trainz Railroad Simulator 2022: Cornish Mainline & Branches | 205339 | [205339-trainz-railroad-simulator-2022-cornish-mainline-and-branches.json](./205339-trainz-railroad-simulator-2022-cornish-mainline-and-branches.json) |
 | Trainz Railroad Simulator 2022: Cornish Mainline and Branches TRS19 | 205328 | [205328-trainz-railroad-simulator-2022-cornish-mainline-and-branches-trs19.json](./205328-trainz-railroad-simulator-2022-cornish-mainline-and-branches-trs19.json) |
+| Trainz Railroad Simulator 2022: CP ES44AC 8760-8839 | 427960 | [427960-trainz-railroad-simulator-2022-cp-es44ac-8760-8839.json](./427960-trainz-railroad-simulator-2022-cp-es44ac-8760-8839.json) |
 | Trainz Railroad Simulator 2022: CSD Bap 117 | 276315 | [276315-trainz-railroad-simulator-2022-csd-bap-117.json](./276315-trainz-railroad-simulator-2022-csd-bap-117.json) |
 | Trainz Railroad Simulator 2022: CSX EMD SD60 | 205407 | [205407-trainz-railroad-simulator-2022-csx-emd-sd60.json](./205407-trainz-railroad-simulator-2022-csx-emd-sd60.json) |
 | Trainz Railroad Simulator 2022: CSX Transportation GE B30-7 | 205327 | [205327-trainz-railroad-simulator-2022-csx-transportation-ge-b30-7.json](./205327-trainz-railroad-simulator-2022-csx-transportation-ge-b30-7.json) |
@@ -34886,6 +34892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 293981 | [293981-treasure-hunt.json](./293981-treasure-hunt.json) |
 | Treasure Hunt | 333479 | [333479-treasure-hunt.json](./333479-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
+| Treasure Hunt Dungeon | 427934 | [427934-treasure-hunt-dungeon.json](./427934-treasure-hunt-dungeon.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunt on a World Trip | 310442 | [310442-treasure-hunt-on-a-world-trip.json](./310442-treasure-hunt-on-a-world-trip.json) |
 | Treasure Hunt VR | 51741 | [51741-treasure-hunt-vr.json](./51741-treasure-hunt-vr.json) |
