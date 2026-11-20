@@ -4456,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2023: Classic Rock Song Pack | 257723 | [257723-lets-sing-2023-classic-rock-song-pack.json](./257723-lets-sing-2023-classic-rock-song-pack.json) |
 | Let's Sing 2023: Country Hits Song Pack | 257720 | [257720-lets-sing-2023-country-hits-song-pack.json](./257720-lets-sing-2023-country-hits-song-pack.json) |
 | Let's Sing 2023: Double Mic Bundle | 241088 | [241088-lets-sing-2023-double-mic-bundle.json](./241088-lets-sing-2023-double-mic-bundle.json) |
+| Let's Sing 2023: Eurovision Hits Song Pack | 249597 | [249597-lets-sing-2023-eurovision-hits-song-pack.json](./249597-lets-sing-2023-eurovision-hits-song-pack.json) |
 | Let's Sing 2023: Incluye Canciones Españolas | 221328 | [221328-lets-sing-2023-incluye-canciones-espanolas.json](./221328-lets-sing-2023-incluye-canciones-espanolas.json) |
 | Let's Sing 2023: Legendary Hits vol. 1 Song Pack | 257719 | [257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json](./257719-lets-sing-2023-legendary-hits-vol-1-song-pack.json) |
 | Let's Sing 2023: Legendary Hits vol. 2 Song Pack | 257718 | [257718-lets-sing-2023-legendary-hits-vol-2-song-pack.json](./257718-lets-sing-2023-legendary-hits-vol-2-song-pack.json) |
@@ -6552,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa the Vegaful | 172483 | [172483-lisa-the-vegaful.json](./172483-lisa-the-vegaful.json) |
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa Total Investigation! | 277994 | [277994-lisa-total-investigation.json](./277994-lisa-total-investigation.json) |
+| Lisa: Definitive Edition | 252184 | [252184-lisa-definitive-edition.json](./252184-lisa-definitive-edition.json) |
 | LISA: Desolate Expanse | 409650 | [409650-lisa-desolate-expanse.json](./409650-lisa-desolate-expanse.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
@@ -8513,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
 | Looney Tunes: Acme Antics | 137000 | [137000-looney-tunes-acme-antics.json](./137000-looney-tunes-acme-antics.json) |
 | Looney Tunes: Acme Arsenal | 4977 | [4977-looney-tunes-acme-arsenal.json](./4977-looney-tunes-acme-arsenal.json) |
+| Looney Tunes: Back in Action | 248448 | [248448-looney-tunes-back-in-action.json](./248448-looney-tunes-back-in-action.json) |
 | Looney Tunes: Back in Action | 3979 | [3979-looney-tunes-back-in-action.json](./3979-looney-tunes-back-in-action.json) |
 | Looney Tunes: Bugs Bunny | 198805 | [198805-looney-tunes-bugs-bunny.json](./198805-looney-tunes-bugs-bunny.json) |
 | Looney Tunes: Carrot Crazy | 49870 | [49870-looney-tunes-carrot-crazy.json](./49870-looney-tunes-carrot-crazy.json) |
