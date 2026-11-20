@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T13:15:56.415Z",
-  "total_soundtracks": 3874,
+  "generated_at": "2026-11-20T13:35:57.320Z",
+  "total_soundtracks": 3875,
   "games": [
     {
       "igdb_id": 292844,
@@ -48935,6 +48935,20 @@
         {
           "album_name": "Wings of Vi Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/04AJ9kMzDRE5gpGr1zx9pC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8801,
+      "game_name": "Wings! Remastered Edition",
+      "game_url": "https://ostdb.net/games/wings-remastered-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf947ed1d2f10dd13d8f6108",
+      "albums": [
+        {
+          "album_name": "Wings! Remastered Edition - Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5zBn9zhtMwZkTWqnQWsiNn",
           "apple_music_url": "",
           "album_link_url": ""
         }
