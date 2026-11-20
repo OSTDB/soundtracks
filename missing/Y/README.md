@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere Goth BDSM 7 | 371613 | [371613-yandere-goth-bdsm-7.json](./371613-yandere-goth-bdsm-7.json) |
 | Yandere Goth BDSM 8 | 372261 | [372261-yandere-goth-bdsm-8.json](./372261-yandere-goth-bdsm-8.json) |
 | Yandere Goth BDSM 9 | 372262 | [372262-yandere-goth-bdsm-9.json](./372262-yandere-goth-bdsm-9.json) |
+| Yandere Goth Boss 2: First Session | 418805 | [418805-yandere-goth-boss-2-first-session.json](./418805-yandere-goth-boss-2-first-session.json) |
 | Yandere Goth Boss: Valentine's Day | 338362 | [338362-yandere-goth-boss-valentines-day.json](./338362-yandere-goth-boss-valentines-day.json) |
 | Yandere Goth Delinquent Trouble 3 | 389805 | [389805-yandere-goth-delinquent-trouble-3.json](./389805-yandere-goth-delinquent-trouble-3.json) |
 | Yandere Goth Delinquent Trouble 4 | 389810 | [389810-yandere-goth-delinquent-trouble-4.json](./389810-yandere-goth-delinquent-trouble-4.json) |
