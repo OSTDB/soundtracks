@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farcaster | 244428 | [244428-farcaster.json](./244428-farcaster.json) |
 | Fare Thee Well | 96730 | [96730-fare-thee-well.json](./96730-fare-thee-well.json) |
 | Fareast Four Season: Hello World | 269014 | [269014-fareast-four-season-hello-world.json](./269014-fareast-four-season-hello-world.json) |
+| Fareidolia | 421919 | [421919-fareidolia.json](./421919-fareidolia.json) |
 | Faren Touga | 172696 | [172696-faren-touga.json](./172696-faren-touga.json) |
 | Fareo: Shadowlands | 130916 | [130916-fareo-shadowlands.json](./130916-fareo-shadowlands.json) |
 | Fares | 121074 | [121074-fares.json](./121074-fares.json) |
@@ -7014,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firebug | 194777 | [194777-firebug.json](./194777-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
+| Firechan Breaking and Entering | 421922 | [421922-firechan-breaking-and-entering.json](./421922-firechan-breaking-and-entering.json) |
 | FireChess | 275108 | [275108-firechess.json](./275108-firechess.json) |
 | FireChild: Born Into the Fire | 123095 | [123095-firechild-born-into-the-fire.json](./123095-firechild-born-into-the-fire.json) |
 | Firecracker Fight | 95689 | [95689-firecracker-fight.json](./95689-firecracker-fight.json) |
