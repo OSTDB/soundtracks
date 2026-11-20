@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keepers of Vyrellia | 383332 | [383332-keepers-of-vyrellia.json](./383332-keepers-of-vyrellia.json) |
 | Keepers: Fractured Realities | 399398 | [399398-keepers-fractured-realities.json](./399398-keepers-fractured-realities.json) |
+| Keepers' Dissension: Unchained | 429161 | [429161-keepers-dissension-unchained.json](./429161-keepers-dissension-unchained.json) |
 | Keepguard | 429698 | [429698-keepguard.json](./429698-keepguard.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keeping SNES Alive | 306132 | [306132-keeping-snes-alive.json](./306132-keeping-snes-alive.json) |
@@ -1936,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kekkon Shugi Kokka | 334728 | [334728-kekkon-shugi-kokka.json](./334728-kekkon-shugi-kokka.json) |
 | Kekkon Zenya | 216419 | [216419-kekkon-zenya.json](./216419-kekkon-zenya.json) |
 | Kekkyoku Nankyoku Daibouken | 218918 | [218918-kekkyoku-nankyoku-daibouken.json](./218918-kekkyoku-nankyoku-daibouken.json) |
+| Keko & the NightShard | 429175 | [429175-keko-and-the-nightshard.json](./429175-keko-and-the-nightshard.json) |
 | KEL Reaper of Entropy | 17737 | [17737-kel-reaper-of-entropy.json](./17737-kel-reaper-of-entropy.json) |
 | Kelder | 311185 | [311185-kelder.json](./311185-kelder.json) |
 | Kelime Oyunu | 332694 | [332694-kelime-oyunu.json](./332694-kelime-oyunu.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
 | Killbug | 246064 | [246064-killbug.json](./246064-killbug.json) |
+| KillCache | 429128 | [429128-killcache.json](./429128-killcache.json) |
 | KillCam Blablublas Battle Royale | 374911 | [374911-killcam-blablublas-battle-royale.json](./374911-killcam-blablublas-battle-royale.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killdozer Simulator | 291386 | [291386-killdozer-simulator.json](./291386-killdozer-simulator.json) |
@@ -6676,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | Krillion | 414051 | [414051-krillion.json](./414051-krillion.json) |
+| Krillion Space | 429156 | [429156-krillion-space.json](./429156-krillion-space.json) |
 | Krim: The Music Bot | 102383 | [102383-krim-the-music-bot.json](./102383-krim-the-music-bot.json) |
 | Krim: The War in the Crimea 1941-42 | 173984 | [173984-krim-the-war-in-the-crimea-1941-42.json](./173984-krim-the-war-in-the-crimea-1941-42.json) |
 | Krimson | 177262 | [177262-krimson.json](./177262-krimson.json) |
