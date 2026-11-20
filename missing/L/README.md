@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lament | 386821 | [386821-lament.json](./386821-lament.json) |
 | Lament of Kyoto: Origins | 223267 | [223267-lament-of-kyoto-origins.json](./223267-lament-of-kyoto-origins.json) |
 | Lament of the Yuppie | 226340 | [226340-lament-of-the-yuppie.json](./226340-lament-of-the-yuppie.json) |
+| Lament: Incarnation of the Goddess | 427400 | [427400-lament-incarnation-of-the-goddess.json](./427400-lament-incarnation-of-the-goddess.json) |
 | Lamentations | 318699 | [318699-lamentations.json](./318699-lamentations.json) |
 | Lamento: Beyond the Void | 135483 | [135483-lamento-beyond-the-void.json](./135483-lamento-beyond-the-void.json) |
 | Lamento: Beyond the Void - Treasure Disc | 223844 | [223844-lamento-beyond-the-void-treasure-disc.json](./223844-lamento-beyond-the-void-treasure-disc.json) |
