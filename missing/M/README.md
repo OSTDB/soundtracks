@@ -13923,6 +13923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Clown | 349094 | [349094-mind-the-clown.json](./349094-mind-the-clown.json) |
+| Mind the Clown: Reborn | 419530 | [419530-mind-the-clown-reborn.json](./419530-mind-the-clown-reborn.json) |
 | Mind The Crates | 402738 | [402738-mind-the-crates.json](./402738-mind-the-crates.json) |
 | Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
@@ -14799,6 +14800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini MSX | 273531 | [273531-mini-msx.json](./273531-mini-msx.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Ninjas | 2192 | [2192-mini-ninjas.json](./2192-mini-ninjas.json) |
+| Mini Ninjas | 419516 | [419516-mini-ninjas.json](./419516-mini-ninjas.json) |
 | Mini Nuts | 61481 | [61481-mini-nuts.json](./61481-mini-nuts.json) |
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
