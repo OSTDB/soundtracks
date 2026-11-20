@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle's Basement: Collector's pack | 296249 | [296249-uncles-basement-collectors-pack.json](./296249-uncles-basement-collectors-pack.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
+| Unclean Hands | 427931 | [427931-unclean-hands.json](./427931-unclean-hands.json) |
 | Unclean Water | 407015 | [407015-unclean-water.json](./407015-unclean-water.json) |
 | Unclogged | 302055 | [302055-unclogged.json](./302055-unclogged.json) |
 | Unclouded | 418537 | [418537-unclouded.json](./418537-unclouded.json) |
