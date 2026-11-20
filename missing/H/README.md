@@ -14469,6 +14469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pop | 234131 | [234131-hyper-pop.json](./234131-hyper-pop.json) |
 | Hyper Primate | 258575 | [258575-hyper-primate.json](./258575-hyper-primate.json) |
 | Hyper Princess Pitch | 79745 | [79745-hyper-princess-pitch.json](./79745-hyper-princess-pitch.json) |
+| Hyper Profit Pets | 420229 | [420229-hyper-profit-pets.json](./420229-hyper-profit-pets.json) |
 | Hyper Psychic Gauntlets | 150340 | [150340-hyper-psychic-gauntlets.json](./150340-hyper-psychic-gauntlets.json) |
 | Hyper Rails | 91650 | [91650-hyper-rails.json](./91650-hyper-rails.json) |
 | Hyper Rally | 29034 | [29034-hyper-rally.json](./29034-hyper-rally.json) |
