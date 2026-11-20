@@ -4043,7 +4043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
-| Kingdom Wars | 8955 | [8955-kingdom-wars.json](./8955-kingdom-wars.json) |
 | Kingdom Wars 2: Battles | 16691 | [16691-kingdom-wars-2-battles.json](./16691-kingdom-wars-2-battles.json) |
 | Kingdom Wars 4 | 135730 | [135730-kingdom-wars-4.json](./135730-kingdom-wars-4.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
