@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-20T05:35:56.344Z",
-  "total_soundtracks": 3866,
+  "generated_at": "2026-11-20T05:45:54.500Z",
+  "total_soundtracks": 3867,
   "games": [
     {
       "igdb_id": 292844,
@@ -47183,6 +47183,20 @@
         {
           "album_name": "Velocity Ultra (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5DyQQIg9aLEGFk63KQ9hZk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14602,
+      "game_name": "Vendetta: Curse of Raven's Cry",
+      "game_url": "https://ostdb.net/games/vendetta-curse-of-ravens-cry",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738808d679e68897e650e3c83e",
+      "albums": [
+        {
+          "album_name": "Vendetta Curse of Raven's Cry OST",
+          "spotify_url": "https://open.spotify.com/album/4NqHV6mY46uk3hfqI6ZEws",
           "apple_music_url": "",
           "album_link_url": ""
         }
