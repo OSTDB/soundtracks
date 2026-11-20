@@ -15908,6 +15908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares: The Iron Vanguard | 418196 | [418196-ares-the-iron-vanguard.json](./418196-ares-the-iron-vanguard.json) |
 | Aresda | 385422 | [385422-aresda.json](./385422-aresda.json) |
 | Arete | 338466 | [338466-arete.json](./338466-arete.json) |
+| Areteion | 422983 | [422983-areteion.json](./422983-areteion.json) |
 | Aretha | 222820 | [222820-aretha.json](./222820-aretha.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
