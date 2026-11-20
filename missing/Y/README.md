@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Weren't Invited | 421021 | [421021-you-werent-invited.json](./421021-you-werent-invited.json) |
 | You Will Die | 66639 | [66639-you-will-die.json](./66639-you-will-die.json) |
 | You Will Die a Lot Buddy, Trust Me! | 197103 | [197103-you-will-die-a-lot-buddy-trust-me.json](./197103-you-will-die-a-lot-buddy-trust-me.json) |
+| You Will Die Here Tonight | 157359 | [157359-you-will-die-here-tonight.json](./157359-you-will-die-here-tonight.json) |
 | You Will Fall | 245000 | [245000-you-will-fall.json](./245000-you-will-fall.json) |
 | You Will Fall | 396969 | [396969-you-will-fall.json](./396969-you-will-fall.json) |
 | You Will Never Get This Achievement | 81848 | [81848-you-will-never-get-this-achievement.json](./81848-you-will-never-get-this-achievement.json) |
