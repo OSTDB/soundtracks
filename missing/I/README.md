@@ -5784,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
 | Internet Fisherman | 367994 | [367994-internet-fisherman.json](./367994-internet-fisherman.json) |
+| Internet Futbol Manager | 423168 | [423168-internet-futbol-manager.json](./423168-internet-futbol-manager.json) |
 | Internet Generation | 157951 | [157951-internet-generation.json](./157951-internet-generation.json) |
 | Internet Hearts | 298731 | [298731-internet-hearts.json](./298731-internet-hearts.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
