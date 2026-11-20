@@ -7846,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisk | 81089 | [81089-fisk.json](./81089-fisk.json) |
 | Fiskal Clif | 303744 | [303744-fiskal-clif.json](./303744-fiskal-clif.json) |
 | Fisraduth: Castle of Tyramis | 321337 | [321337-fisraduth-castle-of-tyramis.json](./321337-fisraduth-castle-of-tyramis.json) |
+| Fiss the Elf's Puzzling Pin-Ups | 424979 | [424979-fiss-the-elfs-puzzling-pin-ups.json](./424979-fiss-the-elfs-puzzling-pin-ups.json) |
 | Fissh | 340132 | [340132-fissh.json](./340132-fissh.json) |
 | Fission | 164917 | [164917-fission.json](./164917-fission.json) |
 | Fission | 293548 | [293548-fission.json](./293548-fission.json) |
