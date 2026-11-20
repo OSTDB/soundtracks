@@ -2043,6 +2043,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wars | 8410 | [8410-happy-wars.json](./8410-happy-wars.json) |
 | Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
 | Happy Weekend | 418826 | [418826-happy-weekend.json](./418826-happy-weekend.json) |
+| Happy Weekend: Deluxe Limited Edition | 418829 | [418829-happy-weekend-deluxe-limited-edition.json](./418829-happy-weekend-deluxe-limited-edition.json) |
+| Happy Weekend: WonderGOO Exclusive Set | 418831 | [418831-happy-weekend-wondergoo-exclusive-set.json](./418831-happy-weekend-wondergoo-exclusive-set.json) |
 | Happy Wheels 2 | 95839 | [95839-happy-wheels-2.json](./95839-happy-wheels-2.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
