@@ -2152,7 +2152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abalon | 107591 | [107591-abalon.json](./107591-abalon.json) |
 | Abalon Arena | 244444 | [244444-abalon-arena.json](./244444-abalon-arena.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
-| Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abalyte | 110692 | [110692-abalyte.json](./110692-abalyte.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Aban Hawkins and the 1,001 Spikes | 52037 | [52037-aban-hawkins-and-the-1-001-spikes.json](./52037-aban-hawkins-and-the-1-001-spikes.json) |
@@ -3843,7 +3842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
 | Adibou: Je lis, je calcule 5-6 ans | 242528 | [242528-adibou-je-lis-je-calcule-5-6-ans.json](./242528-adibou-je-lis-je-calcule-5-6-ans.json) |
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
-| Adidas Championship Football | 13286 | [13286-adidas-championship-football.json](./13286-adidas-championship-football.json) |
 | Adidas Championship Tie Break | 13287 | [13287-adidas-championship-tie-break.json](./13287-adidas-championship-tie-break.json) |
 | Adidas Power Soccer | 20302 | [20302-adidas-power-soccer.json](./20302-adidas-power-soccer.json) |
 | Adidas Power Soccer 2 | 269177 | [269177-adidas-power-soccer-2.json](./269177-adidas-power-soccer-2.json) |
@@ -4519,7 +4517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Farmer: Save my Son! | 265466 | [265466-adventurer-farmer-save-my-son.json](./265466-adventurer-farmer-save-my-son.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
-| Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
 | Adventurer Pets HD | 70532 | [70532-adventurer-pets-hd.json](./70532-adventurer-pets-hd.json) |
 | Adventurer Shop Simulator | 357784 | [357784-adventurer-shop-simulator.json](./357784-adventurer-shop-simulator.json) |
@@ -5565,7 +5562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conan: Unchained - Hyborian Conqueror Collection | 171936 | [171936-age-of-conan-unchained-hyborian-conqueror-collection.json](./171936-age-of-conan-unchained-hyborian-conqueror-collection.json) |
-| Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Conquest: Asia | 174583 | [174583-age-of-conquest-asia.json](./174583-age-of-conquest-asia.json) |
 | Age of Conquest: South America | 175515 | [175515-age-of-conquest-south-america.json](./175515-age-of-conquest-south-america.json) |
@@ -5657,7 +5653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 5: The Day of the Rat | 149671 | [149671-age-of-fear-5-the-day-of-the-rat.json](./149671-age-of-fear-5-the-day-of-the-rat.json) |
 | Age of Fear: The Free World | 111940 | [111940-age-of-fear-the-free-world.json](./111940-age-of-fear-the-free-world.json) |
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
-| Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
 | Age of Fear: The Undead King Gold - Pirates! Expansion | 169526 | [169526-age-of-fear-the-undead-king-gold-pirates-expansion.json](./169526-age-of-fear-the-undead-king-gold-pirates-expansion.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
@@ -5972,7 +5967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agnry Faic 2 | 407670 | [407670-agnry-faic-2.json](./407670-agnry-faic-2.json) |
-| Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agon: The Mysterious Codex - Episode 1: London Scene | 79052 | [79052-agon-the-mysterious-codex-episode-1-london-scene.json](./79052-agon-the-mysterious-codex-episode-1-london-scene.json) |
 | Agon: The Mysterious Codex - Episode 2: Adventures in Lapland | 70238 | [70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json](./70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json) |
 | Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
@@ -6013,7 +6007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2013: Collector's Edition | 25047 | [25047-agricultural-simulator-2013-collectors-edition.json](./25047-agricultural-simulator-2013-collectors-edition.json) |
 | Agricultural Simulator 2013: Gold Edition | 52373 | [52373-agricultural-simulator-2013-gold-edition.json](./52373-agricultural-simulator-2013-gold-edition.json) |
 | Agricultural Simulator Anthology | 52372 | [52372-agricultural-simulator-anthology.json](./52372-agricultural-simulator-anthology.json) |
-| Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | AgriLife | 191837 | [191837-agrilife.json](./191837-agrilife.json) |
@@ -7882,7 +7875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
 | Alice in Wonder Underland AIWU | 394687 | [394687-alice-in-wonder-underland-aiwu.json](./394687-alice-in-wonder-underland-aiwu.json) |
 | Alice in Wonderdream | 38091 | [38091-alice-in-wonderdream.json](./38091-alice-in-wonderdream.json) |
-| Alice in Wonderland | 12250 | [12250-alice-in-wonderland.json](./12250-alice-in-wonderland.json) |
 | Alice in Wonderland | 125307 | [125307-alice-in-wonderland.json](./125307-alice-in-wonderland.json) |
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
 | Alice in Wonderland | 162443 | [162443-alice-in-wonderland.json](./162443-alice-in-wonderland.json) |
@@ -8874,7 +8866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Air Hockey | 84743 | [84743-all-star-air-hockey.json](./84743-all-star-air-hockey.json) |
 | All-Star Baseball '99 | 10663 | [10663-all-star-baseball-99.json](./10663-all-star-baseball-99.json) |
 | All-Star Baseball '99 | 248745 | [248745-all-star-baseball-99.json](./248745-all-star-baseball-99.json) |
-| All-Star Baseball 2000 | 10658 | [10658-all-star-baseball-2000.json](./10658-all-star-baseball-2000.json) |
 | All-Star Baseball 2000 | 270060 | [270060-all-star-baseball-2000.json](./270060-all-star-baseball-2000.json) |
 | All-Star Baseball 2001 | 249134 | [249134-all-star-baseball-2001.json](./249134-all-star-baseball-2001.json) |
 | All-Star Baseball 2001 | 69229 | [69229-all-star-baseball-2001.json](./69229-all-star-baseball-2001.json) |
@@ -8882,7 +8873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Baseball 2003 | 248445 | [248445-all-star-baseball-2003.json](./248445-all-star-baseball-2003.json) |
 | All-Star Baseball 2004 | 282834 | [282834-all-star-baseball-2004.json](./282834-all-star-baseball-2004.json) |
-| All-Star Baseball 2005 | 11559 | [11559-all-star-baseball-2005.json](./11559-all-star-baseball-2005.json) |
 | All-Star Fielding Challenge VR | 29406 | [29406-all-star-fielding-challenge-vr.json](./29406-all-star-fielding-challenge-vr.json) |
 | All-Star Fighters | 64794 | [64794-all-star-fighters.json](./64794-all-star-fighters.json) |
 | All-Star Fruit Racing VR | 116431 | [116431-all-star-fruit-racing-vr.json](./116431-all-star-fruit-racing-vr.json) |
@@ -11807,7 +11797,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Genius | 69192 | [69192-animal-genius.json](./69192-animal-genius.json) |
 | Animal Girls Dating Agency | 388534 | [388534-animal-girls-dating-agency.json](./388534-animal-girls-dating-agency.json) |
 | Animal God | 359543 | [359543-animal-god.json](./359543-animal-god.json) |
-| Animal Gods | 13191 | [13191-animal-gods.json](./13191-animal-gods.json) |
 | Animal Golf: Battle Race | 231037 | [231037-animal-golf-battle-race.json](./231037-animal-golf-battle-race.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
 | Animal Herding | 53316 | [53316-animal-herding.json](./53316-animal-herding.json) |
@@ -12797,7 +12786,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Nightmare | 377102 | [377102-another-nightmare.json](./377102-another-nightmare.json) |
 | Another Otter | 104322 | [104322-another-otter.json](./104322-another-otter.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
-| Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Piece of Candy: Sweet Fusions | 182856 | [182856-another-piece-of-candy-sweet-fusions.json](./182856-another-piece-of-candy-sweet-fusions.json) |
 | Another Pint | 361865 | [361865-another-pint.json](./361865-another-pint.json) |
 | Another Pokémon Game | 237798 | [237798-another-pokemon-game.json](./237798-another-pokemon-game.json) |
@@ -18895,7 +18883,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrolander | 197169 | [197169-astrolander.json](./197169-astrolander.json) |
 | Astrolight | 182144 | [182144-astrolight.json](./182144-astrolight.json) |
 | Astrolite | 372421 | [372421-astrolite.json](./372421-astrolite.json) |
-| Astroloco: Worst Contact | 9987 | [9987-astroloco-worst-contact.json](./9987-astroloco-worst-contact.json) |
 | Astrologaster | 68390 | [68390-astrologaster.json](./68390-astrologaster.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
 | Astrologia Odyssey IV: Chronos Reflection | 28248 | [28248-astrologia-odyssey-iv-chronos-reflection.json](./28248-astrologia-odyssey-iv-chronos-reflection.json) |
@@ -19471,7 +19458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atemporal Silentium | 417930 | [417930-atemporal-silentium.json](./417930-atemporal-silentium.json) |
 | Aternia: Deep | 157001 | [157001-aternia-deep.json](./157001-aternia-deep.json) |
 | Atex Brawl | 100425 | [100425-atex-brawl.json](./100425-atex-brawl.json) |
-| ATF: Advanced Tactical Fighter | 13344 | [13344-atf-advanced-tactical-fighter.json](./13344-atf-advanced-tactical-fighter.json) |
 | ATF: Armored Task Force | 59564 | [59564-atf-armored-task-force.json](./59564-atf-armored-task-force.json) |
 | Atganga: Spectacle for the Gods | 249071 | [249071-atganga-spectacle-for-the-gods.json](./249071-atganga-spectacle-for-the-gods.json) |
 | Atgtha in Absurdia | 133913 | [133913-atgtha-in-absurdia.json](./133913-atgtha-in-absurdia.json) |
