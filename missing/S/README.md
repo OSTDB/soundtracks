@@ -11427,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
+| Shuttle Rush | 85373 | [85373-shuttle-rush.json](./85373-shuttle-rush.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
 | Shuttle Siege | 31520 | [31520-shuttle-siege.json](./31520-shuttle-siege.json) |
@@ -33965,6 +33966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Touch | 88415 | [88415-sudoku-touch.json](./88415-sudoku-touch.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
+| Sudoku Universe | 84130 | [84130-sudoku-universe.json](./84130-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
 | Sudoku Variants by Logic Wiz | 263911 | [263911-sudoku-variants-by-logic-wiz.json](./263911-sudoku-variants-by-logic-wiz.json) |
