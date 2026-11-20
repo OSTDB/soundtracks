@@ -11465,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forgery | 425150 | [425150-forgery.json](./425150-forgery.json) |
 | Forgery Craft | 276210 | [276210-forgery-craft.json](./276210-forgery-craft.json) |
+| Forgery: Before the Law (Study) | 421879 | [421879-forgery-before-the-law-study.json](./421879-forgery-before-the-law-study.json) |
 | Forget | 313530 | [313530-forget.json](./313530-forget.json) |
 | Forget Me Not, My Love | 238890 | [238890-forget-me-not-my-love.json](./238890-forget-me-not-my-love.json) |
 | Forget Me Not: My Organic Garden | 35566 | [35566-forget-me-not-my-organic-garden.json](./35566-forget-me-not-my-organic-garden.json) |
@@ -14175,6 +14176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Holm | 309811 | [309811-frog-holm.json](./309811-frog-holm.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
+| Frog in the Hole! | 421877 | [421877-frog-in-the-hole.json](./421877-frog-in-the-hole.json) |
 | Frog in the Pocket | 422215 | [422215-frog-in-the-pocket.json](./422215-frog-in-the-pocket.json) |
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
