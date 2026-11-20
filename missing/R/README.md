@@ -5201,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
 | Refund Me TD 2 | 426602 | [426602-refund-me-td-2.json](./426602-refund-me-td-2.json) |
+| Refund This Game | 423133 | [423133-refund-this-game.json](./423133-refund-this-game.json) |
 | Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
 | Refuse: Home Sweep Home | 210816 | [210816-refuse-home-sweep-home.json](./210816-refuse-home-sweep-home.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
@@ -10626,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Shift | 137433 | [137433-rock-paper-shift.json](./137433-rock-paper-shift.json) |
 | Rock Paper Smash | 213464 | [213464-rock-paper-smash.json](./213464-rock-paper-smash.json) |
 | Rock Paper Sock | 136739 | [136739-rock-paper-sock.json](./136739-rock-paper-sock.json) |
+| Rock Paper Viking | 423178 | [423178-rock-paper-viking.json](./423178-rock-paper-viking.json) |
 | Rock Pit | 288108 | [288108-rock-pit.json](./288108-rock-pit.json) |
 | Rock Quest: A Rhythm Adventure | 346173 | [346173-rock-quest-a-rhythm-adventure.json](./346173-rock-quest-a-rhythm-adventure.json) |
 | Rock Revolution | 210456 | [210456-rock-revolution.json](./210456-rock-revolution.json) |
@@ -12114,6 +12116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance MD: Always on Call | 239207 | [239207-romance-md-always-on-call.json](./239207-romance-md-always-on-call.json) |
 | Romance of a Demon Kingdom's Fall | 262782 | [262782-romance-of-a-demon-kingdoms-fall.json](./262782-romance-of-a-demon-kingdoms-fall.json) |
 | Romance of Bousouzoku | 298515 | [298515-romance-of-bousouzoku.json](./298515-romance-of-bousouzoku.json) |
+| Romance of Fangs: Part 1 | 423163 | [423163-romance-of-fangs-part-1.json](./423163-romance-of-fangs-part-1.json) |
 | Romance of Five Kingdoms | 427146 | [427146-romance-of-five-kingdoms.json](./427146-romance-of-five-kingdoms.json) |
 | Romance of Raskya | 156799 | [156799-romance-of-raskya.json](./156799-romance-of-raskya.json) |
 | Romance of Rome | 16096 | [16096-romance-of-rome.json](./16096-romance-of-rome.json) |
