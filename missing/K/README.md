@@ -5182,6 +5182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Trail | 248955 | [248955-knight-trail.json](./248955-knight-trail.json) |
 | Knight Tyme | 12360 | [12360-knight-tyme.json](./12360-knight-tyme.json) |
 | Knight Versus Demon | 277518 | [277518-knight-versus-demon.json](./277518-knight-versus-demon.json) |
+| Knight vs Giant: The Broken Excalibur | 250419 | [250419-knight-vs-giant-the-broken-excalibur.json](./250419-knight-vs-giant-the-broken-excalibur.json) |
 | Knight vs. Giant | 157336 | [157336-knight-vs-giant.json](./157336-knight-vs-giant.json) |
 | Knight vs. Monsters | 352234 | [352234-knight-vs-monsters.json](./352234-knight-vs-monsters.json) |
 | Knight War: Idle Defense | 227541 | [227541-knight-war-idle-defense.json](./227541-knight-war-idle-defense.json) |
