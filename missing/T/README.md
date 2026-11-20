@@ -12985,6 +12985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
 | The Jackbox Naughty and Nice Bundle | 328720 | [328720-the-jackbox-naughty-and-nice-bundle.json](./328720-the-jackbox-naughty-and-nice-bundle.json) |
 | The Jackbox Party Bundle | 96362 | [96362-the-jackbox-party-bundle.json](./96362-the-jackbox-party-bundle.json) |
+| The Jackbox Party Essentials | 427051 | [427051-the-jackbox-party-essentials.json](./427051-the-jackbox-party-essentials.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
@@ -14166,6 +14167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Launching Section | 275825 | [275825-the-launching-section.json](./275825-the-launching-section.json) |
 | The Laundry | 157304 | [157304-the-laundry.json](./157304-the-laundry.json) |
 | The Laundry That Won’t Open | 404664 | [404664-the-laundry-that-won-t-open.json](./404664-the-laundry-that-won-t-open.json) |
+| The Lava Birds | 427033 | [427033-the-lava-birds.json](./427033-the-lava-birds.json) |
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
 | The Law Man: Secure the Law | 137160 | [137160-the-law-man-secure-the-law.json](./137160-the-law-man-secure-the-law.json) |
@@ -24066,6 +24068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Bakery | 427162 | [427162-tidy-bakery.json](./427162-tidy-bakery.json) |
 | Tidy Cauldron | 288613 | [288613-tidy-cauldron.json](./288613-tidy-cauldron.json) |
 | Tidy Farm | 425169 | [425169-tidy-farm.json](./425169-tidy-farm.json) |
+| Tidy Mall Together | 427305 | [427305-tidy-mall-together.json](./427305-tidy-mall-together.json) |
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
 | Tidy or Treat | 419560 | [419560-tidy-or-treat.json](./419560-tidy-or-treat.json) |
 | Tidy Pills | 426936 | [426936-tidy-pills.json](./426936-tidy-pills.json) |
@@ -27000,6 +27003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pasture: Ribbitribbit and Quackquack | 383625 | [383625-tiny-pasture-ribbitribbit-and-quackquack.json](./383625-tiny-pasture-ribbitribbit-and-quackquack.json) |
 | Tiny Patisserie | 422326 | [422326-tiny-patisserie.json](./422326-tiny-patisserie.json) |
 | Tiny Paw Academy: Numbers + Fun | 413372 | [413372-tiny-paw-academy-numbers-fun.json](./413372-tiny-paw-academy-numbers-fun.json) |
+| Tiny Pet Salon | 427316 | [427316-tiny-pet-salon.json](./427316-tiny-pet-salon.json) |
 | Tiny Pharaoh: Pixel Strategy | 264011 | [264011-tiny-pharaoh-pixel-strategy.json](./264011-tiny-pharaoh-pixel-strategy.json) |
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
 | Tiny Pirates - Activity Book | 104421 | [104421-tiny-pirates-activity-book.json](./104421-tiny-pirates-activity-book.json) |
