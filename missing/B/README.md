@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balefire Blues | 410201 | [410201-balefire-blues.json](./410201-balefire-blues.json) |
 | Balefire: Ashes To Ashes | 360285 | [360285-balefire-ashes-to-ashes.json](./360285-balefire-ashes-to-ashes.json) |
 | Baleful Tactics | 425357 | [425357-baleful-tactics.json](./425357-baleful-tactics.json) |
+| BalenaScape | 421942 | [421942-balenascape.json](./421942-balenascape.json) |
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
@@ -2615,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barack Fu: The Adventures of Dirty Barry | 407397 | [407397-barack-fu-the-adventures-of-dirty-barry.json](./407397-barack-fu-the-adventures-of-dirty-barry.json) |
 | Baradroid: A Gay Visual Novel | 211088 | [211088-baradroid-a-gay-visual-novel.json](./211088-baradroid-a-gay-visual-novel.json) |
 | Baraduke | 39856 | [39856-baraduke.json](./39856-baraduke.json) |
+| Barahir | 421952 | [421952-barahir.json](./421952-barahir.json) |
 | Baraja Sistema Coral | 28185 | [28185-baraja-sistema-coral.json](./28185-baraja-sistema-coral.json) |
 | Barakel | 47564 | [47564-barakel.json](./47564-barakel.json) |
 | Barakel: The Fallen Angel | 175912 | [175912-barakel-the-fallen-angel.json](./175912-barakel-the-fallen-angel.json) |
@@ -5011,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlemaster | 11947 | [11947-battlemaster.json](./11947-battlemaster.json) |
 | BattleMaster | 172045 | [172045-battlemaster.json](./172045-battlemaster.json) |
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
+| Battlements | 421913 | [421913-battlements.json](./421913-battlements.json) |
 | Battlemetal | 149398 | [149398-battlemetal.json](./149398-battlemetal.json) |
 | Battleminer Giants | 322116 | [322116-battleminer-giants.json](./322116-battleminer-giants.json) |
 | Battleminerz | 79799 | [79799-battleminerz.json](./79799-battleminerz.json) |
@@ -8007,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond | 131452 | [131452-beyond.json](./131452-beyond.json) |
 | Beyond | 222887 | [222887-beyond.json](./222887-beyond.json) |
 | Beyond | 294256 | [294256-beyond.json](./294256-beyond.json) |
+| Beyond 90: A Footballer's Life | 421912 | [421912-beyond-90-a-footballers-life.json](./421912-beyond-90-a-footballers-life.json) |
 | Beyond a Steel Sky: Beyond a Steel Book Edition | 171279 | [171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json](./171279-beyond-a-steel-sky-beyond-a-steel-book-edition.json) |
 | Beyond A Steel Sky: Utopia Edition | 170029 | [170029-beyond-a-steel-sky-utopia-edition.json](./170029-beyond-a-steel-sky-utopia-edition.json) |
 | Beyond a Total Loss | 117563 | [117563-beyond-a-total-loss.json](./117563-beyond-a-total-loss.json) |
@@ -19323,6 +19327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buff Studio Bundle | 335609 | [335609-buff-studio-bundle.json](./335609-buff-studio-bundle.json) |
 | Buffalo Bill's Wild West Show | 12284 | [12284-buffalo-bills-wild-west-show.json](./12284-buffalo-bills-wild-west-show.json) |
 | Buffalo Roundup | 13888 | [13888-buffalo-roundup.json](./13888-buffalo-roundup.json) |
+| Buffer Phantom | 421932 | [421932-buffer-phantom.json](./421932-buffer-phantom.json) |
 | Buffers Evolution | 37530 | [37530-buffers-evolution.json](./37530-buffers-evolution.json) |
 | Buffet Blast | 185269 | [185269-buffet-blast.json](./185269-buffet-blast.json) |
 | Buffet Boss | 231975 | [231975-buffet-boss.json](./231975-buffet-boss.json) |
@@ -19737,6 +19742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull's Eye Barbecue Sauce | 218933 | [218933-bulls-eye-barbecue-sauce.json](./218933-bulls-eye-barbecue-sauce.json) |
+| Bull's Eye Saloon | 421957 | [421957-bulls-eye-saloon.json](./421957-bulls-eye-saloon.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
 | Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
 | Bulldog | 13889 | [13889-bulldog.json](./13889-bulldog.json) |
