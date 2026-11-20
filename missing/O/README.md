@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
+| One More Candle | 421889 | [421889-one-more-candle.json](./421889-one-more-candle.json) |
 | One More Chance | 429553 | [429553-one-more-chance.json](./429553-one-more-chance.json) |
 | One More Claw | 422437 | [422437-one-more-claw.json](./422437-one-more-claw.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
