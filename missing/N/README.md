@@ -4130,7 +4130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NextRev: Takken Shiken 2015 | 179477 | [179477-nextrev-takken-shiken-2015.json](./179477-nextrev-takken-shiken-2015.json) |
 | NextRP | 333819 | [333819-nextrp.json](./333819-nextrp.json) |
 | NextWar: The Quest for Earth | 91731 | [91731-nextwar-the-quest-for-earth.json](./91731-nextwar-the-quest-for-earth.json) |
-| Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus | 259902 | [259902-nexus.json](./259902-nexus.json) |
 | Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
@@ -8077,7 +8076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nótt & Dagr | 135039 | [135039-nott-and-dagr.json](./135039-nott-and-dagr.json) |
 | Nott Longa | 181090 | [181090-nott-longa.json](./181090-nott-longa.json) |
-| NotTheNameWeWanted | 11315 | [11315-notthenamewewanted.json](./11315-notthenamewewanted.json) |
 | Nottolot | 290648 | [290648-nottolot.json](./290648-nottolot.json) |
 | Notyet | 57352 | [57352-notyet.json](./57352-notyet.json) |
 | NotZilla Ice Cream Vendor | 179533 | [179533-notzilla-ice-cream-vendor.json](./179533-notzilla-ice-cream-vendor.json) |
@@ -8818,7 +8816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚwáng | 407321 | [407321-nuwang.json](./407321-nuwang.json) |
 | Nuwe: First seeds | 199099 | [199099-nuwe-first-seeds.json](./199099-nuwe-first-seeds.json) |
 | Nuworm | 378570 | [378570-nuworm.json](./378570-nuworm.json) |
-| Nux | 10604 | [10604-nux.json](./10604-nux.json) |
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVA: Mission Vorwärts Immer! | 96541 | [96541-nva-mission-vorwarts-immer.json](./96541-nva-mission-vorwarts-immer.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
