@@ -2456,7 +2456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Shots Left | 294243 | [294243-3-shots-left.json](./294243-3-shots-left.json) |
 | 3 Skulls of the Toltecs | 2204 | [2204-3-skulls-of-the-toltecs.json](./2204-3-skulls-of-the-toltecs.json) |
 | 3 Slices | 132105 | [132105-3-slices.json](./132105-3-slices.json) |
-| 3 Stars of Destiny | 9933 | [9933-3-stars-of-destiny.json](./9933-3-stars-of-destiny.json) |
 | 3 Switch Problem | 424572 | [424572-3-switch-problem.json](./424572-3-switch-problem.json) |
 | 3 Tactical Lines | 158538 | [158538-3-tactical-lines.json](./158538-3-tactical-lines.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
@@ -2595,7 +2594,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 307 Racing | 367763 | [367763-307-racing.json](./367763-307-racing.json) |
 | 3072 | 328163 | [328163-3072.json](./328163-3072.json) |
-| 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
 | 3089 | 11432 | [11432-3089.json](./11432-3089.json) |
 | 30km survival zone: Chernobyl | 131272 | [131272-30km-survival-zone-chernobyl.json](./131272-30km-survival-zone-chernobyl.json) |
 | 30minutes Night Flight | 263327 | [263327-30minutes-night-flight.json](./263327-30minutes-night-flight.json) |
@@ -2964,7 +2962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Spades Deluxe | 205952 | [205952-3d-spades-deluxe.json](./205952-3d-spades-deluxe.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
 | 3D Starfighter | 13270 | [13270-3d-starfighter.json](./13270-3d-starfighter.json) |
-| 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
 | 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
@@ -2995,7 +2992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
 | 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
 | 3D Ultra MiniGolf 2 | 106036 | [106036-3d-ultra-minigolf-2.json](./106036-3d-ultra-minigolf-2.json) |
-| 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures Deluxe | 29113 | [29113-3d-ultra-minigolf-adventures-deluxe.json](./29113-3d-ultra-minigolf-adventures-deluxe.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Lost Island | 138294 | [138294-3d-ultra-minigolf-adventures-lost-island.json](./138294-3d-ultra-minigolf-adventures-lost-island.json) |
@@ -3068,7 +3064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Scapes | 228798 | [228798-3scapes.json](./228798-3scapes.json) |
 | 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
 | 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
-| 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3T Games Compilation | 80400 | [80400-3t-games-compilation.json](./80400-3t-games-compilation.json) |
 | 3T Games Compilation 1 | 60615 | [60615-3t-games-compilation-1.json](./60615-3t-games-compilation-1.json) |
 | 3T Games Compilation 2 | 60616 | [60616-3t-games-compilation-2.json](./60616-3t-games-compilation-2.json) |
