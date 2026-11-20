@@ -18019,6 +18019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ringing of Twilight | 334925 | [334925-the-ringing-of-twilight.json](./334925-the-ringing-of-twilight.json) |
 | The Rings of Powder | 251790 | [251790-the-rings-of-powder.json](./251790-the-rings-of-powder.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
+| The Rip-Princess Cliché | 424159 | [424159-the-rip-princess-cliche.json](./424159-the-rip-princess-cliche.json) |
 | The Ripe Blood Anthology: This World Is Just for the Two of Us | 258135 | [258135-the-ripe-blood-anthology-this-world-is-just-for-the-two-of-us.json](./258135-the-ripe-blood-anthology-this-world-is-just-for-the-two-of-us.json) |
 | The Ripper | 282726 | [282726-the-ripper.json](./282726-the-ripper.json) |
 | The Ripper Wash | 313012 | [313012-the-ripper-wash.json](./313012-the-ripper-wash.json) |
@@ -19954,6 +19955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope | 10946 | [10946-the-sword-of-hope.json](./10946-the-sword-of-hope.json) |
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword of Ianna | 221902 | [221902-the-sword-of-ianna.json](./221902-the-sword-of-ianna.json) |
+| The Sword of Lagoon II: OceanVoice | 424157 | [424157-the-sword-of-lagoon-ii-oceanvoice.json](./424157-the-sword-of-lagoon-ii-oceanvoice.json) |
 | The Sword of Rhivenia | 197048 | [197048-the-sword-of-rhivenia.json](./197048-the-sword-of-rhivenia.json) |
 | The Sword of Zedek | 356674 | [356674-the-sword-of-zedek.json](./356674-the-sword-of-zedek.json) |
 | The Sword That Kills Christmas | 231116 | [231116-the-sword-that-kills-christmas.json](./231116-the-sword-that-kills-christmas.json) |
@@ -26896,6 +26898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Europe | 258033 | [258033-tiny-europe.json](./258033-tiny-europe.json) |
 | Tiny Explorer | 412064 | [412064-tiny-explorer.json](./412064-tiny-explorer.json) |
 | Tiny Factory | 419548 | [419548-tiny-factory.json](./419548-tiny-factory.json) |
+| Tiny Factory | 424064 | [424064-tiny-factory.json](./424064-tiny-factory.json) |
 | Tiny Fantasy | 140426 | [140426-tiny-fantasy.json](./140426-tiny-fantasy.json) |
 | Tiny Farm | 303143 | [303143-tiny-farm.json](./303143-tiny-farm.json) |
 | Tiny Farm: Remastered | 335817 | [335817-tiny-farm-remastered.json](./335817-tiny-farm-remastered.json) |
@@ -31651,6 +31654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracadie Bird Shit | 231117 | [231117-tracadie-bird-shit.json](./231117-tracadie-bird-shit.json) |
 | Trace | 240458 | [240458-trace.json](./240458-trace.json) |
 | Trace | 297830 | [297830-trace.json](./297830-trace.json) |
+| Trace | 424070 | [424070-trace.json](./424070-trace.json) |
 | Trace | 92662 | [92662-trace.json](./92662-trace.json) |
 | Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
 | Trace Blackout: The Perfect Crime Mystery | 401119 | [401119-trace-blackout-the-perfect-crime-mystery.json](./401119-trace-blackout-the-perfect-crime-mystery.json) |
