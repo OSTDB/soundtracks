@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quibble Race | 318301 | [318301-quibble-race.json](./318301-quibble-race.json) |
 | Quibbles | 61797 | [61797-quibbles.json](./61797-quibbles.json) |
+| Quibi | 419492 | [419492-quibi.json](./419492-quibi.json) |
 | Quible Sphere | 105281 | [105281-quible-sphere.json](./105281-quible-sphere.json) |
 | Quical | 129661 | [129661-quical.json](./129661-quical.json) |
 | Quicar | 307264 | [307264-quicar.json](./307264-quicar.json) |
