@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Collector | 171615 | [171615-waifu-collector.json](./171615-waifu-collector.json) |
 | Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
+| Waifu Curator | 424520 | [424520-waifu-curator.json](./424520-waifu-curator.json) |
 | Waifu Desire | 226577 | [226577-waifu-desire.json](./226577-waifu-desire.json) |
 | Waifu Discovered 2 | 157225 | [157225-waifu-discovered-2.json](./157225-waifu-discovered-2.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
 | Who Dunit | 40552 | [40552-who-dunit.json](./40552-who-dunit.json) |
+| Who Fart? | 424754 | [424754-who-fart.json](./424754-who-fart.json) |
 | Who Framed Roger Rabbit | 12826 | [12826-who-framed-roger-rabbit.json](./12826-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 72470 | [72470-who-framed-roger-rabbit.json](./72470-who-framed-roger-rabbit.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
