@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Spooky Horror 2 (Most Horror Ever) | 427128 | [427128-very-spooky-horror-2-most-horror-ever.json](./427128-very-spooky-horror-2-most-horror-ever.json) |
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
+| Very Very Rare | 424415 | [424415-very-very-rare.json](./424415-very-very-rare.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
 | Verytex | 46162 | [46162-verytex.json](./46162-verytex.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vest A Life | 302186 | [302186-vest-a-life.json](./302186-vest-a-life.json) |
 | Vesta | 76845 | [76845-vesta.json](./76845-vesta.json) |
 | Vesta: Limited Edition | 166267 | [166267-vesta-limited-edition.json](./166267-vesta-limited-edition.json) |
+| Vestalborne | 424433 | [424433-vestalborne.json](./424433-vestalborne.json) |
 | Vestaria Saga Gaiden: Heroes of Lucca | 334000 | [334000-vestaria-saga-gaiden-heroes-of-lucca.json](./334000-vestaria-saga-gaiden-heroes-of-lucca.json) |
 | Vestaria Saga I: War of the Scions | 59613 | [59613-vestaria-saga-i-war-of-the-scions.json](./59613-vestaria-saga-i-war-of-the-scions.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
