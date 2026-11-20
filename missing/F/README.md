@@ -8363,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
+| Flag Fiasco: Tidy Up | 429775 | [429775-flag-fiasco-tidy-up.json](./429775-flag-fiasco-tidy-up.json) |
 | Flag Kaihi: Dasshutsu Game | 214379 | [214379-flag-kaihi-dasshutsu-game.json](./214379-flag-kaihi-dasshutsu-game.json) |
 | Flag Master Guess the Country | 426560 | [426560-flag-master-guess-the-country.json](./426560-flag-master-guess-the-country.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
