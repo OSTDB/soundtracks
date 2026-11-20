@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Stranger Stars | 116018 | [116018-under-stranger-stars.json](./116018-under-stranger-stars.json) |
 | Under Supernova | 251875 | [251875-under-supernova.json](./251875-under-supernova.json) |
 | Under That Rain | 29309 | [29309-under-that-rain.json](./29309-under-that-rain.json) |
+| Under The | 429143 | [429143-under-the.json](./429143-under-the.json) |
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the bed | 260471 | [260471-under-the-bed.json](./260471-under-the-bed.json) |
 | Under the Black Moon | 221651 | [221651-under-the-black-moon.json](./221651-under-the-black-moon.json) |
