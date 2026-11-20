@@ -4623,6 +4623,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaria Fables 2 | 398521 | [398521-kitaria-fables-2.json](./398521-kitaria-fables-2.json) |
 | Kitaria Fables: Deluxe Edition | 166686 | [166686-kitaria-fables-deluxe-edition.json](./166686-kitaria-fables-deluxe-edition.json) |
 | Kitaria Fables: Digital Deluxe Edition | 167180 | [167180-kitaria-fables-digital-deluxe-edition.json](./167180-kitaria-fables-digital-deluxe-edition.json) |
+| Kitaria Fables: Elf Hat | 430577 | [430577-kitaria-fables-elf-hat.json](./430577-kitaria-fables-elf-hat.json) |
+| Kitaria Fables: Grouch Skin | 430578 | [430578-kitaria-fables-grouch-skin.json](./430578-kitaria-fables-grouch-skin.json) |
+| Kitaria Fables: Rudolph Skin | 430594 | [430594-kitaria-fables-rudolph-skin.json](./430594-kitaria-fables-rudolph-skin.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
 | Kitball 20000 | 226042 | [226042-kitball-20000.json](./226042-kitball-20000.json) |
