@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Supply Simulator 25 | 382671 | [382671-farm-supply-simulator-25.json](./382671-farm-supply-simulator-25.json) |
 | Farm Tiles | 101772 | [101772-farm-tiles.json](./101772-farm-tiles.json) |
 | Farm to Fork: Collector's Edition | 355526 | [355526-farm-to-fork-collectors-edition.json](./355526-farm-to-fork-collectors-edition.json) |
+| Farm to Fortune | 427399 | [427399-farm-to-fortune.json](./427399-farm-to-fortune.json) |
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
 | Farm Together | 86737 | [86737-farm-together.json](./86737-farm-together.json) |
 | Farm Together 2 | 295197 | [295197-farm-together-2.json](./295197-farm-together-2.json) |
@@ -12109,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 6 - Season 2: Lawless | 332192 | [332192-fortnite-chapter-6-season-2-lawless.json](./332192-fortnite-chapter-6-season-2-lawless.json) |
 | Fortnite: Chapter 6 - Season 3: Super | 347930 | [347930-fortnite-chapter-6-season-3-super.json](./347930-fortnite-chapter-6-season-3-super.json) |
 | Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
+| Fortnite: Chapter 7 - Mini Season: Treasure Hunters | 427403 | [427403-fortnite-chapter-7-mini-season-treasure-hunters.json](./427403-fortnite-chapter-7-mini-season-treasure-hunters.json) |
 | Fortnite: Chapter 7 - Season 1: Pacific Break | 379299 | [379299-fortnite-chapter-7-season-1-pacific-break.json](./379299-fortnite-chapter-7-season-1-pacific-break.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
@@ -13019,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 224926 | [224926-fragments.json](./224926-fragments.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
+| Fragments | 427413 | [427413-fragments.json](./427413-fragments.json) |
 | Fragments | 74490 | [74490-fragments.json](./74490-fragments.json) |
 | Fragments Blue | 380603 | [380603-fragments-blue.json](./380603-fragments-blue.json) |
 | Fragments of a Melody | 408503 | [408503-fragments-of-a-melody.json](./408503-fragments-of-a-melody.json) |
@@ -13158,6 +13161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | FrankenStorm TD: Prologue | 154108 | [154108-frankenstorm-td-prologue.json](./154108-frankenstorm-td-prologue.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
+| Frankie Freako | 427396 | [427396-frankie-freako.json](./427396-frankie-freako.json) |
 | Frankie Goes to Hollywood | 22519 | [22519-frankie-goes-to-hollywood.json](./22519-frankie-goes-to-hollywood.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
@@ -15781,6 +15785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furni-Chore | 383879 | [383879-furni-chore.json](./383879-furni-chore.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
+| Furniture | 427381 | [427381-furniture.json](./427381-furniture.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
 | Furniture Busters | 211991 | [211991-furniture-busters.json](./211991-furniture-busters.json) |
 | Furniture Flipper Simulator 2023: Revive, Restoration & Creative Crafting | 276549 | [276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json](./276549-furniture-flipper-simulator-2023-revive-restoration-and-creative-crafting.json) |
