@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1080 Snowboarding 2 | 176039 | [176039-1080-snowboarding-2.json](./176039-1080-snowboarding-2.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 1080° Snowboarding | 3328 | [3328-1080-snowboarding.json](./3328-1080-snowboarding.json) |
+| 1080° Snowboarding: Recompiled | 426404 | [426404-1080-snowboarding-recompiled.json](./426404-1080-snowboarding-recompiled.json) |
 | 1080p | 288397 | [288397-1080p.json](./288397-1080p.json) |
 | 109 Remastered | 173962 | [173962-109-remastered.json](./173962-109-remastered.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
