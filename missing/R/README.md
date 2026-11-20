@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type | 6840 | [6840-r-type.json](./6840-r-type.json) |
 | R-Type Complete CD | 210583 | [210583-r-type-complete-cd.json](./210583-r-type-complete-cd.json) |
 | R-Type Delta | 28397 | [28397-r-type-delta.json](./28397-r-type-delta.json) |
+| R-Type Delta: HD Boosted | 360913 | [360913-r-type-delta-hd-boosted.json](./360913-r-type-delta-hd-boosted.json) |
 | R-Type Dimensions EX | 112105 | [112105-r-type-dimensions-ex.json](./112105-r-type-dimensions-ex.json) |
 | R-Type Dimensions III | 381109 | [381109-r-type-dimensions-iii.json](./381109-r-type-dimensions-iii.json) |
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Basketball | 89688 | [89688-real-basketball.json](./89688-real-basketball.json) |
 | Real Bike Racing | 297989 | [297989-real-bike-racing.json](./297989-real-bike-racing.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
+| Real Bout Fatal Fury 2: The Newcomers | 370692 | [370692-real-bout-fatal-fury-2-the-newcomers.json](./370692-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
 | Real Bout Fatal Fury Genesis | 341730 | [341730-real-bout-fatal-fury-genesis.json](./341730-real-bout-fatal-fury-genesis.json) |
@@ -6739,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restore | 305314 | [305314-restore.json](./305314-restore.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restore the Luminous | 413935 | [413935-restore-the-luminous.json](./413935-restore-the-luminous.json) |
+| Restore Your Island | 363903 | [363903-restore-your-island.json](./363903-restore-your-island.json) |
 | Restore, Reflect, Retry | 335839 | [335839-restore-reflect-retry.json](./335839-restore-reflect-retry.json) |
 | Restorer | 355056 | [355056-restorer.json](./355056-restorer.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
