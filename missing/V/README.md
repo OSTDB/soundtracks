@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoriana - Steampunk Text Adventure | 123965 | [123965-victoriana-steampunk-text-adventure.json](./123965-victoriana-steampunk-text-adventure.json) |
 | Victorious | 178692 | [178692-victorious.json](./178692-victorious.json) |
 | Victorious | 302002 | [302002-victorious.json](./302002-victorious.json) |
+| Victorious Boxers 2: Fighting Spirit | 22450 | [22450-victorious-boxers-2-fighting-spirit.json](./22450-victorious-boxers-2-fighting-spirit.json) |
 | Victorious Boxers: Ippo's Road to Glory | 43527 | [43527-victorious-boxers-ippos-road-to-glory.json](./43527-victorious-boxers-ippos-road-to-glory.json) |
 | Victorious Hollywood Arts Debut | 9750 | [9750-victorious-hollywood-arts-debut.json](./9750-victorious-hollywood-arts-debut.json) |
 | Victorious Nine | 92021 | [92021-victorious-nine.json](./92021-victorious-nine.json) |
