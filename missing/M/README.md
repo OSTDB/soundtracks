@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimaimaigoen: Episode 7 - The Lost Path | 343940 | [343940-maimaimaigoen-episode-7-the-lost-path.json](./343940-maimaimaigoen-episode-7-the-lost-path.json) |
 | Maimu | 229391 | [229391-maimu.json](./229391-maimu.json) |
 | Main Action | 254777 | [254777-main-action.json](./254777-main-action.json) |
+| Main Assembly | 121229 | [121229-main-assembly.json](./121229-main-assembly.json) |
 | Main Character Simulator | 107709 | [107709-main-character-simulator.json](./107709-main-character-simulator.json) |
 | Main Competition | 124309 | [124309-main-competition.json](./124309-main-competition.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
