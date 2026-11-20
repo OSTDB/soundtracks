@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Blocks | 208885 | [208885-penguin-blocks.json](./208885-penguin-blocks.json) |
 | Penguin Brothers | 40406 | [40406-penguin-brothers.json](./40406-penguin-brothers.json) |
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
+| Penguin Capitalism Simulator | 422579 | [422579-penguin-capitalism-simulator.json](./422579-penguin-capitalism-simulator.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Chat 3 | 227928 | [227928-penguin-chat-3.json](./227928-penguin-chat-3.json) |
 | Penguin Clash | 421091 | [421091-penguin-clash.json](./421091-penguin-clash.json) |
@@ -5939,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pferd & Pony - Mein Pferdehof | 125959 | [125959-pferd-and-pony-mein-pferdehof.json](./125959-pferd-and-pony-mein-pferdehof.json) |
 | Pferd & Pony: Mein Pferdehof & Lass uns Reiten 2 | 137895 | [137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json](./137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json) |
 | Pferdefreunde Puzzle: Echter Puzzlespass für Unterwegs | 252664 | [252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json](./252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json) |
+| Pfh'Joueur | 422578 | [422578-pfhjoueur.json](./422578-pfhjoueur.json) |
 | PGA Championship Golf 1999 Edition | 830 | [830-pga-championship-golf-1999-edition.json](./830-pga-championship-golf-1999-edition.json) |
 | PGA Championship Golf 2000 | 831 | [831-pga-championship-golf-2000.json](./831-pga-championship-golf-2000.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
@@ -13168,6 +13170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
 | Pokemon Sour Crystal | 265985 | [265985-pokemon-sour-crystal.json](./265985-pokemon-sour-crystal.json) |
+| Pokémon Spaceless Pearl | 422554 | [422554-pokemon-spaceless-pearl.json](./422554-pokemon-spaceless-pearl.json) |
 | Pokémon Sphynx | 243998 | [243998-pokemon-sphynx.json](./243998-pokemon-sphynx.json) |
 | Pokémon SpinSpinSpin | 350668 | [350668-pokemon-spinspinspin.json](./350668-pokemon-spinspinspin.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
@@ -13218,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Thief Ruby | 377859 | [377859-pokemon-thief-ruby.json](./377859-pokemon-thief-ruby.json) |
 | Pokémon This Gym of Mine | 227653 | [227653-pokemon-this-gym-of-mine.json](./227653-pokemon-this-gym-of-mine.json) |
 | Pokémon Throwback | 232636 | [232636-pokemon-throwback.json](./232636-pokemon-throwback.json) |
+| Pokémon Timeless Diamond | 422550 | [422550-pokemon-timeless-diamond.json](./422550-pokemon-timeless-diamond.json) |
 | Pokémon Titan | 191939 | [191939-pokemon-titan.json](./191939-pokemon-titan.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
