@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Wizard | 101773 | [101773-idle-wizard.json](./101773-idle-wizard.json) |
 | Idle World | 392449 | [392449-idle-world.json](./392449-idle-world.json) |
 | Idle Worlds | 257059 | [257059-idle-worlds.json](./257059-idle-worlds.json) |
+| Idle Xanxia | 426192 | [426192-idle-xanxia.json](./426192-idle-xanxia.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zombie Wave: Survivors | 345381 | [345381-idle-zombie-wave-survivors.json](./345381-idle-zombie-wave-survivors.json) |
 | Idle Zombies Clicker | 213529 | [213529-idle-zombies-clicker.json](./213529-idle-zombies-clicker.json) |
@@ -7420,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolation | 331609 | [331609-isolation.json](./331609-isolation.json) |
 | Isolation Edge | 427757 | [427757-isolation-edge.json](./427757-isolation-edge.json) |
+| Isolation Hospital | 426221 | [426221-isolation-hospital.json](./426221-isolation-hospital.json) |
 | Isolation Instinct: Farming, Craft, Survival | 312980 | [312980-isolation-instinct-farming-craft-survival.json](./312980-isolation-instinct-farming-craft-survival.json) |
 | Isolation One | 274385 | [274385-isolation-one.json](./274385-isolation-one.json) |
 | Isolation Simulator | 156773 | [156773-isolation-simulator.json](./156773-isolation-simulator.json) |
