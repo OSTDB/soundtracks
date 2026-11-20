@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 4: Collector's Edition | 47489 | [47489-gears-of-war-4-collectors-edition.json](./47489-gears-of-war-4-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
 | Gears of War 4: Ultimate Edition | 41627 | [41627-gears-of-war-4-ultimate-edition.json](./41627-gears-of-war-4-ultimate-edition.json) |
+| Gears of War Redux | 418003 | [418003-gears-of-war-redux.json](./418003-gears-of-war-redux.json) |
 | Gears of War: E-Day Premium Edition | 407702 | [407702-gears-of-war-e-day-premium-edition.json](./407702-gears-of-war-e-day-premium-edition.json) |
 | Gears of War: Limited Collector's Edition | 47450 | [47450-gears-of-war-limited-collectors-edition.json](./47450-gears-of-war-limited-collectors-edition.json) |
 | Gears of War: Reloaded | 342721 | [342721-gears-of-war-reloaded.json](./342721-gears-of-war-reloaded.json) |
