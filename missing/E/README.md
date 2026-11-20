@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | EDP 445 Simulator | 370078 | [370078-edp-445-simulator.json](./370078-edp-445-simulator.json) |
+| Edrath | 429697 | [429697-edrath.json](./429697-edrath.json) |
 | Edrick's Conquest | 198041 | [198041-edricks-conquest.json](./198041-edricks-conquest.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Cards for Pre-school Kids | 89063 | [89063-edu-cards-for-pre-school-kids.json](./89063-edu-cards-for-pre-school-kids.json) |
