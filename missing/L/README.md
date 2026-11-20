@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left to Survive | 106608 | [106608-left-to-survive.json](./106608-left-to-survive.json) |
 | Left Turn Legend | 297515 | [297515-left-turn-legend.json](./297515-left-turn-legend.json) |
 | Left-Right: The Mansion | 114202 | [114202-left-right-the-mansion.json](./114202-left-right-the-mansion.json) |
+| Left! Left! LEFT! | 425554 | [425554-left-left-left.json](./425554-left-left-left.json) |
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Left/Right | 191413 | [191413-left-right.json](./191413-left-right.json) |
 | Left&Right | 86357 | [86357-left-and-right.json](./86357-left-and-right.json) |
@@ -9047,6 +9048,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Control | 380642 | [380642-lose-control.json](./380642-lose-control.json) |
 | Lose Ctrl | 215341 | [215341-lose-ctrl.json](./215341-lose-ctrl.json) |
 | Lose Grace Tale | 358478 | [358478-lose-grace-tale.json](./358478-lose-grace-tale.json) |
+| Lose the Heat | 425571 | [425571-lose-the-heat.json](./425571-lose-the-heat.json) |
+| Lose the Heat 2 | 425572 | [425572-lose-the-heat-2.json](./425572-lose-the-heat-2.json) |
+| Lose the Heat 3: Highway Hero | 425573 | [425573-lose-the-heat-3-highway-hero.json](./425573-lose-the-heat-3-highway-hero.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Lose Your Head Deluxe Bundle | 164810 | [164810-lose-your-head-deluxe-bundle.json](./164810-lose-your-head-deluxe-bundle.json) |
 | Lose Your Marbles | 362334 | [362334-lose-your-marbles.json](./362334-lose-your-marbles.json) |
