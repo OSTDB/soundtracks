@@ -15854,6 +15854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
 | Slime Rancher: Deluxe Edition | 134106 | [134106-slime-rancher-deluxe-edition.json](./134106-slime-rancher-deluxe-edition.json) |
+| Slime Rancher: Plortable Edition | 163631 | [163631-slime-rancher-plortable-edition.json](./163631-slime-rancher-plortable-edition.json) |
 | Slime Rancher: Secret Style Pack | 118666 | [118666-slime-rancher-secret-style-pack.json](./118666-slime-rancher-secret-style-pack.json) |
 | Slime Rancher: VR Playground | 171210 | [171210-slime-rancher-vr-playground.json](./171210-slime-rancher-vr-playground.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
@@ -21073,6 +21074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophistry: Live2D | 168048 | [168048-sophistry-live2d.json](./168048-sophistry-live2d.json) |
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
+| Sophstar | 157973 | [157973-sophstar.json](./157973-sophstar.json) |
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
 | Soporific: A Bedtime Story | 181470 | [181470-soporific-a-bedtime-story.json](./181470-soporific-a-bedtime-story.json) |
 | Soppel | 203585 | [203585-soppel.json](./203585-soppel.json) |
@@ -21161,6 +21163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
+| Sorcerous | 155851 | [155851-sorcerous.json](./155851-sorcerous.json) |
 | Sorcerous 2: City of Cults | 421967 | [421967-sorcerous-2-city-of-cults.json](./421967-sorcerous-2-city-of-cults.json) |
 | Sorcery | 26006 | [26006-sorcery.json](./26006-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
@@ -22959,6 +22962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Monster | 72971 | [72971-space-monster.json](./72971-space-monster.json) |
 | Space Moonshiner | 230969 | [230969-space-moonshiner.json](./230969-space-moonshiner.json) |
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
+| Space Moth: Lunar Edition | 158935 | [158935-space-moth-lunar-edition.json](./158935-space-moth-lunar-edition.json) |
 | Space Mountain | 45384 | [45384-space-mountain.json](./45384-space-mountain.json) |
 | Space Mouse | 30874 | [30874-space-mouse.json](./30874-space-mouse.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
@@ -25305,6 +25309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
 | SpinCross | 202040 | [202040-spincross.json](./202040-spincross.json) |
 | Spindizzy Worlds | 15374 | [15374-spindizzy-worlds.json](./15374-spindizzy-worlds.json) |
+| Spindle | 159684 | [159684-spindle.json](./159684-spindle.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
@@ -37787,6 +37792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Safe Spelunking | 372246 | [372246-super-safe-spelunking.json](./372246-super-safe-spelunking.json) |
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
+| Super Sami Roll | 158582 | [158582-super-sami-roll.json](./158582-super-sami-roll.json) |
 | Super Sami Roll 2 | 290751 | [290751-super-sami-roll-2.json](./290751-super-sami-roll-2.json) |
 | Super Samtong | 92509 | [92509-super-samtong.json](./92509-super-samtong.json) |
 | Super Samurai Rampage | 54500 | [54500-super-samurai-rampage.json](./54500-super-samurai-rampage.json) |
