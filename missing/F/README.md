@@ -11573,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Tales | 318150 | [318150-forgotten-tales.json](./318150-forgotten-tales.json) |
 | Forgotten Tales RPG | 318149 | [318149-forgotten-tales-rpg.json](./318149-forgotten-tales-rpg.json) |
 | Forgotten Tales: Day of the Dead | 33244 | [33244-forgotten-tales-day-of-the-dead.json](./33244-forgotten-tales-day-of-the-dead.json) |
+| Forgotten Towns | 423152 | [423152-forgotten-towns.json](./423152-forgotten-towns.json) |
 | Forgotten Trace: Thanatos in Nostalgia | 156967 | [156967-forgotten-trace-thanatos-in-nostalgia.json](./156967-forgotten-trace-thanatos-in-nostalgia.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
@@ -15797,6 +15798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Cyberfucker II | 204029 | [204029-furry-cyberfucker-ii.json](./204029-furry-cyberfucker-ii.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
+| Furry Delights: Erotic Arcade Lounge | 423160 | [423160-furry-delights-erotic-arcade-lounge.json](./423160-furry-delights-erotic-arcade-lounge.json) |
 | Furry Dots | 427750 | [427750-furry-dots.json](./427750-furry-dots.json) |
 | Furry Dream | 236118 | [236118-furry-dream.json](./236118-furry-dream.json) |
 | Furry Dreams | 385011 | [385011-furry-dreams.json](./385011-furry-dreams.json) |
