@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uberlaufer | 149884 | [149884-uberlaufer.json](./149884-uberlaufer.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
+| Ubermosh Collection | 427395 | [427395-ubermosh-collection.json](./427395-ubermosh-collection.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Um Jammer Lammy | 6081 | [6081-um-jammer-lammy.json](./6081-um-jammer-lammy.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
+| Uma Versus | 427375 | [427375-uma-versus.json](./427375-uma-versus.json) |
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umai | 128681 | [128681-umai.json](./128681-umai.json) |
@@ -3375,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
 | Untitled Lord of the Rings MMO | 131430 | [131430-untitled-lord-of-the-rings-mmo.json](./131430-untitled-lord-of-the-rings-mmo.json) |
 | Untitled Marble Game | 152631 | [152631-untitled-marble-game.json](./152631-untitled-marble-game.json) |
+| Untitled Maze Game | 427358 | [427358-untitled-maze-game.json](./427358-untitled-maze-game.json) |
 | Untitled Mech Game | 395908 | [395908-untitled-mech-game.json](./395908-untitled-mech-game.json) |
 | Untitled NieR:Automata Project | 391942 | [391942-untitled-nier-automata-project.json](./391942-untitled-nier-automata-project.json) |
 | Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
