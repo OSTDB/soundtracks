@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Fishing | 131643 | [131643-kaiju-fishing.json](./131643-kaiju-fishing.json) |
 | Kaiju Fury Turbo | 303609 | [303609-kaiju-fury-turbo.json](./303609-kaiju-fury-turbo.json) |
 | KaiJu Girls | 236475 | [236475-kaiju-girls.json](./236475-kaiju-girls.json) |
+| Kaiju Harvest | 418775 | [418775-kaiju-harvest.json](./418775-kaiju-harvest.json) |
 | Kaiju Inc. | 384630 | [384630-kaiju-inc.json](./384630-kaiju-inc.json) |
 | Kaiju Khaos | 123335 | [123335-kaiju-khaos.json](./123335-kaiju-khaos.json) |
 | Kaiju Kite Attack | 121083 | [121083-kaiju-kite-attack.json](./121083-kaiju-kite-attack.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's Gut Bacteria Reef | 154767 | [154767-kelloggs-gut-bacteria-reef.json](./154767-kelloggs-gut-bacteria-reef.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
+| Kellogg's Tour 1988 | 418777 | [418777-kelloggs-tour-1988.json](./418777-kelloggs-tour-1988.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelluva Linna | 271359 | [271359-kelluva-linna.json](./271359-kelluva-linna.json) |
 | Kelly Club: Clubhouse Fun | 50013 | [50013-kelly-club-clubhouse-fun.json](./50013-kelly-club-clubhouse-fun.json) |
@@ -2035,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kendo | 123926 | [123926-kendo.json](./123926-kendo.json) |
 | Kendo Rage | 15845 | [15845-kendo-rage.json](./15845-kendo-rage.json) |
 | Kendo Warrior | 286224 | [286224-kendo-warrior.json](./286224-kendo-warrior.json) |
+| Kendo Warrior | 418778 | [418778-kendo-warrior.json](./418778-kendo-warrior.json) |
 | Kendrick Lamar Heardle | 369137 | [369137-kendrick-lamar-heardle.json](./369137-kendrick-lamar-heardle.json) |
 | Keng's Little Universe | 187029 | [187029-kengs-little-universe.json](./187029-kengs-little-universe.json) |
 | KenGeki CrossZone | 393953 | [393953-kengeki-crosszone.json](./393953-kengeki-crosszone.json) |
@@ -2210,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsui: Kizuna Jigoku-tachi | 7035 | [7035-ketsui-kizuna-jigoku-tachi.json](./7035-ketsui-kizuna-jigoku-tachi.json) |
 | Ketsui: Kizuna Jigoku-tachi DX | 214714 | [214714-ketsui-kizuna-jigoku-tachi-dx.json](./214714-ketsui-kizuna-jigoku-tachi-dx.json) |
 | Kettle | 207141 | [207141-kettle.json](./207141-kettle.json) |
+| Kettle | 418782 | [418782-kettle.json](./418782-kettle.json) |
 | Kettlebell: Inferno Hotel | 398369 | [398369-kettlebell-inferno-hotel.json](./398369-kettlebell-inferno-hotel.json) |
 | Ketto Majiku | 105123 | [105123-ketto-majiku.json](./105123-ketto-majiku.json) |
 | Kettou Beast Wars: Beast Senshi Saikyou Ketteisen | 64770 | [64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json](./64770-kettou-beast-wars-beast-senshi-saikyou-ketteisen.json) |
@@ -5514,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
 | Knockout RPS | 103921 | [103921-knockout-rps.json](./103921-knockout-rps.json) |
+| Knockout! | 418784 | [418784-knockout.json](./418784-knockout.json) |
 | knockout! Archetype: False | 340729 | [340729-knockout-archetype-false.json](./340729-knockout-archetype-false.json) |
 | Knockturne | 340886 | [340886-knockturne.json](./340886-knockturne.json) |
 | Knocky Balls | 54894 | [54894-knocky-balls.json](./54894-knocky-balls.json) |
