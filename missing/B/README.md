@@ -15535,6 +15535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borodino | 14335 | [14335-borodino.json](./14335-borodino.json) |
 | Boros | 90455 | [90455-boros.json](./90455-boros.json) |
 | Borrowed Book | 314071 | [314071-borrowed-book.json](./314071-borrowed-book.json) |
+| Borrowed Flesh | 423105 | [423105-borrowed-flesh.json](./423105-borrowed-flesh.json) |
 | Borrowed Landscapes | 176776 | [176776-borrowed-landscapes.json](./176776-borrowed-landscapes.json) |
 | Borrowed Light | 402503 | [402503-borrowed-light.json](./402503-borrowed-light.json) |
 | Borrowed Sight | 414866 | [414866-borrowed-sight.json](./414866-borrowed-sight.json) |
@@ -17373,6 +17374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break My Case | 333943 | [333943-break-my-case.json](./333943-break-my-case.json) |
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break of Dawn | 420475 | [420475-break-of-dawn.json](./420475-break-of-dawn.json) |
+| Break Order | 423122 | [423122-break-order.json](./423122-break-order.json) |
 | Break Out | 404795 | [404795-break-out.json](./404795-break-out.json) |
 | Break Out Kangel | 283605 | [283605-break-out-kangel.json](./283605-break-out-kangel.json) |
 | Break Pattern | 211458 | [211458-break-pattern.json](./211458-break-pattern.json) |
