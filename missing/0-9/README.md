@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
 | 500 Years Act 1 | 35587 | [35587-500-years-act-1.json](./35587-500-years-act-1.json) |
 | 500,000 Games 3.0 | 146423 | [146423-500-000-games-3-0.json](./146423-500-000-games-3-0.json) |
+| 5000 Donuts | 429784 | [429784-5000-donuts.json](./429784-5000-donuts.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 502's Arcade | 179444 | [179444-502s-arcade.json](./179444-502s-arcade.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
