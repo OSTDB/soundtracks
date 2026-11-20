@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouritsu Anapoko Gakuen | 112888 | [112888-ouritsu-anapoko-gakuen.json](./112888-ouritsu-anapoko-gakuen.json) |
 | Ourkade | 341521 | [341521-ourkade.json](./341521-ourkade.json) |
 | Ourlands | 317152 | [317152-ourlands.json](./317152-ourlands.json) |
+| OurLife | 421916 | [421916-ourlife.json](./421916-ourlife.json) |
 | Ourmaze | 26367 | [26367-ourmaze.json](./26367-ourmaze.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
 | Ouroboros | 191342 | [191342-ouroboros.json](./191342-ouroboros.json) |
