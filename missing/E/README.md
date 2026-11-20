@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge | 111122 | [111122-edge.json](./111122-edge.json) |
 | Edge | 380303 | [380303-edge.json](./380303-edge.json) |
+| Edge & Trigger | 427389 | [427389-edge-and-trigger.json](./427389-edge-and-trigger.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
 | Edge Grinder | 39079 | [39079-edge-grinder.json](./39079-edge-grinder.json) |
@@ -8429,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
 | Evo Pop: Virus DLC | 373411 | [373411-evo-pop-virus-dlc.json](./373411-evo-pop-virus-dlc.json) |
 | Evo Q | 284141 | [284141-evo-q.json](./284141-evo-q.json) |
+| EVO RNG | 427416 | [427416-evo-rng.json](./427416-evo-rng.json) |
 | Evo\Wave | 144614 | [144614-evo-wave.json](./144614-evo-wave.json) |
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
 | Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
