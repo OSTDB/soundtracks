@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Mother Disgusts Me | 388801 | [388801-your-mother-disgusts-me.json](./388801-your-mother-disgusts-me.json) |
 | Your Move | 371150 | [371150-your-move.json](./371150-your-move.json) |
 | Your Music Puzzle | 367666 | [367666-your-music-puzzle.json](./367666-your-music-puzzle.json) |
+| Your New Family | 427387 | [427387-your-new-family.json](./427387-your-new-family.json) |
 | Your Otherworldly Harem | 235723 | [235723-your-otherworldly-harem.json](./235723-your-otherworldly-harem.json) |
 | Your Own Cozy Motel | 409729 | [409729-your-own-cozy-motel.json](./409729-your-own-cozy-motel.json) |
 | Your Own Reality | 141702 | [141702-your-own-reality.json](./141702-your-own-reality.json) |
