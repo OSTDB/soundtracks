@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valravn | 244363 | [244363-valravn.json](./244363-valravn.json) |
 | Valsa das Macaúbas | 350905 | [350905-valsa-das-macaubas.json](./350905-valsa-das-macaubas.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
+| Valtheris Chronicles | 426117 | [426117-valtheris-chronicles.json](./426117-valtheris-chronicles.json) |
 | Valthirian Arc | 347033 | [347033-valthirian-arc.json](./347033-valthirian-arc.json) |
 | Valthirian Arc II | 123178 | [123178-valthirian-arc-ii.json](./123178-valthirian-arc-ii.json) |
 | Valthirian Arc: Hero School Story | 104975 | [104975-valthirian-arc-hero-school-story.json](./104975-valthirian-arc-hero-school-story.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vow of the Wordlocks | 386348 | [386348-vow-of-the-wordlocks.json](./386348-vow-of-the-wordlocks.json) |
 | Vow of Vengeance | 261962 | [261962-vow-of-vengeance.json](./261962-vow-of-vengeance.json) |
 | Vowel Movements | 201364 | [201364-vowel-movements.json](./201364-vowel-movements.json) |
+| Vowelkit | 425717 | [425717-vowelkit.json](./425717-vowelkit.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox | 16686 | [16686-vox.json](./16686-vox.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
