@@ -3317,7 +3317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achromira | 187635 | [187635-achromira.json](./187635-achromira.json) |
-| Achron | 16264 | [16264-achron.json](./16264-achron.json) |
 | Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
@@ -9869,7 +9868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Wizard | 79642 | [79642-amazing-wizard.json](./79642-amazing-wizard.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
-| Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
 | Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazo | 241680 | [241680-amazo.json](./241680-amazo.json) |
@@ -12343,7 +12341,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anka | 22122 | [22122-anka.json](./22122-anka.json) |
 | Ankabar | 228878 | [228878-ankabar.json](./228878-ankabar.json) |
 | Ankewill | 235783 | [235783-ankewill.json](./235783-ankewill.json) |
-| Ankh | 13803 | [13803-ankh.json](./13803-ankh.json) |
 | Ankh 2: Heart of Osiris | 15785 | [15785-ankh-2-heart-of-osiris.json](./15785-ankh-2-heart-of-osiris.json) |
 | Ankh 2: Tutankhamun no Nazo | 234163 | [234163-ankh-2-tutankhamun-no-nazo.json](./234163-ankh-2-tutankhamun-no-nazo.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
@@ -12925,7 +12922,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer To Survive | 290886 | [290886-answer-to-survive.json](./290886-answer-to-survive.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
 | Ant Art Tycoon | 311926 | [311926-ant-art-tycoon.json](./311926-ant-art-tycoon.json) |
-| Ant Attack | 13954 | [13954-ant-attack.json](./13954-ant-attack.json) |
 | Ant Attack | 303148 | [303148-ant-attack.json](./303148-ant-attack.json) |
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
 | Ant Colony: Wild Forest | 336448 | [336448-ant-colony-wild-forest.json](./336448-ant-colony-wild-forest.json) |
@@ -13017,7 +13013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
 | Anthalia | 400580 | [400580-anthalia.json](./400580-anthalia.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
-| AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Antheads: It Came from the Desert II | 1061 | [1061-antheads-it-came-from-the-desert-ii.json](./1061-antheads-it-came-from-the-desert-ii.json) |
 | Anthelion | 32308 | [32308-anthelion.json](./32308-anthelion.json) |
 | Anthem of Roses | 55067 | [55067-anthem-of-roses.json](./55067-anthem-of-roses.json) |
@@ -15105,7 +15100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadegeddon | 154814 | [154814-arcadegeddon.json](./154814-arcadegeddon.json) |
 | Arcadeon VR | 148826 | [148826-arcadeon-vr.json](./148826-arcadeon-vr.json) |
 | ArcadeSearch | 124337 | [124337-arcadesearch.json](./124337-arcadesearch.json) |
-| Arcadia | 16219 | [16219-arcadia.json](./16219-arcadia.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia | 250131 | [250131-arcadia.json](./250131-arcadia.json) |
@@ -15157,7 +15151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Famiglia: Festa Regalo | 194276 | [194276-arcana-famiglia-festa-regalo.json](./194276-arcana-famiglia-festa-regalo.json) |
 | Arcana Famiglia: La storia della Arcana Famiglia - Ancora | 218375 | [218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json](./218375-arcana-famiglia-la-storia-della-arcana-famiglia-ancora.json) |
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
-| Arcana Heart | 15864 | [15864-arcana-heart.json](./15864-arcana-heart.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
 | Arcana Heart 3 | 5490 | [5490-arcana-heart-3.json](./5490-arcana-heart-3.json) |
@@ -15846,7 +15839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena Trainer | 107036 | [107036-arena-trainer.json](./107036-arena-trainer.json) |
 | Arena Warrior | 325022 | [325022-arena-warrior.json](./325022-arena-warrior.json) |
-| Arena Wars | 15388 | [15388-arena-wars.json](./15388-arena-wars.json) |
 | Arena Wars 2 | 15289 | [15289-arena-wars-2.json](./15289-arena-wars-2.json) |
 | Arena Wars Reloaded | 73493 | [73493-arena-wars-reloaded.json](./73493-arena-wars-reloaded.json) |
 | Arena Worker | 292780 | [292780-arena-worker.json](./292780-arena-worker.json) |
@@ -16345,7 +16337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
 | Armada 2526 | 15027 | [15027-armada-2526.json](./15027-armada-2526.json) |
 | Armada 2526: Gold Edition | 30223 | [30223-armada-2526-gold-edition.json](./30223-armada-2526-gold-edition.json) |
-| Armada 2526: Supernova | 15039 | [15039-armada-2526-supernova.json](./15039-armada-2526-supernova.json) |
 | Armada F/X Racers | 65681 | [65681-armada-f-x-racers.json](./65681-armada-f-x-racers.json) |
 | Armada Fighters | 415284 | [415284-armada-fighters.json](./415284-armada-fighters.json) |
 | Armada Online | 60410 | [60410-armada-online.json](./60410-armada-online.json) |
@@ -16382,7 +16373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armagetron | 94473 | [94473-armagetron.json](./94473-armagetron.json) |
 | Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armajet | 57939 | [57939-armajet.json](./57939-armajet.json) |
-| Armalyte | 13795 | [13795-armalyte.json](./13795-armalyte.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armament 2028 | 99380 | [99380-armament-2028.json](./99380-armament-2028.json) |
@@ -18117,7 +18107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Ops: Warzone | 59741 | [59741-assault-ops-warzone.json](./59741-assault-ops-warzone.json) |
 | Assault Plus | 229464 | [229464-assault-plus.json](./229464-assault-plus.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
-| Assault Rigs | 15476 | [15476-assault-rigs.json](./15476-assault-rigs.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Shell | 144644 | [144644-assault-shell.json](./144644-assault-shell.json) |
 | Assault Shell 2 | 260449 | [260449-assault-shell-2.json](./260449-assault-shell-2.json) |
@@ -19573,7 +19562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis no Puzzle | 230250 | [230250-atlantis-no-puzzle.json](./230250-atlantis-no-puzzle.json) |
 | Atlantis Odyssey | 320345 | [320345-atlantis-odyssey.json](./320345-atlantis-odyssey.json) |
 | Atlantis Quest | 73744 | [73744-atlantis-quest.json](./73744-atlantis-quest.json) |
-| Atlantis Sky Patrol | 16182 | [16182-atlantis-sky-patrol.json](./16182-atlantis-sky-patrol.json) |
 | Atlantis VR | 75328 | [75328-atlantis-vr.json](./75328-atlantis-vr.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
 | Atlantis: Alien Space Shooter | 256508 | [256508-atlantis-alien-space-shooter.json](./256508-atlantis-alien-space-shooter.json) |
@@ -20904,10 +20892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2 | 19581 | [19581-avernum-2.json](./19581-avernum-2.json) |
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
-| Avernum 4 | 16337 | [16337-avernum-4.json](./16337-avernum-4.json) |
 | Avernum 4: Greed and Glory | 357534 | [357534-avernum-4-greed-and-glory.json](./357534-avernum-4-greed-and-glory.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
-| Avernum 6 | 16339 | [16339-avernum-6.json](./16339-avernum-6.json) |
 | Avernum: Escape from the Pit | 8752 | [8752-avernum-escape-from-the-pit.json](./8752-avernum-escape-from-the-pit.json) |
 | Avernum: The Complete Saga | 51709 | [51709-avernum-the-complete-saga.json](./51709-avernum-the-complete-saga.json) |
 | Avernus | 109377 | [109377-avernus.json](./109377-avernus.json) |
