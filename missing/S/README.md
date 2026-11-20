@@ -6321,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Princess | 208707 | [208707-sengoku-princess.json](./208707-sengoku-princess.json) |
 | Sengoku Providence | 109955 | [109955-sengoku-providence.json](./109955-sengoku-providence.json) |
 | Sengoku Rance | 37138 | [37138-sengoku-rance.json](./37138-sengoku-rance.json) |
+| Sengoku Rance | 425714 | [425714-sengoku-rance.json](./425714-sengoku-rance.json) |
 | Sengoku Rance: Limited Edition | 185689 | [185689-sengoku-rance-limited-edition.json](./185689-sengoku-rance-limited-edition.json) |
 | Sengoku Rance: Sanbiki ga Kittari Tsuitari Moyashitari - Slash! Thrust! Burn! | 259312 | [259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json](./259312-sengoku-rance-sanbiki-ga-kittari-tsuitari-moyashitari-slash-thrust-burn.json) |
 | Sengoku Shura Soul | 214813 | [214813-sengoku-shura-soul.json](./214813-sengoku-shura-soul.json) |
@@ -15286,6 +15287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Beat | 235076 | [235076-slay-the-beat.json](./235076-slay-the-beat.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
+| Slay the Demon King | 425736 | [425736-slay-the-demon-king.json](./425736-slay-the-demon-king.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
 | Slay the Dragon | 107999 | [107999-slay-the-dragon.json](./107999-slay-the-dragon.json) |
 | Slay the Dragon! | 143210 | [143210-slay-the-dragon.json](./143210-slay-the-dragon.json) |
@@ -20282,6 +20284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Jump Anniversary | 361567 | [361567-sonic-jump-anniversary.json](./361567-sonic-jump-anniversary.json) |
 | Sonic Jump Fever | 8502 | [8502-sonic-jump-fever.json](./8502-sonic-jump-fever.json) |
+| Sonic Jump Revival | 425735 | [425735-sonic-jump-revival.json](./425735-sonic-jump-revival.json) |
 | Sonic Kaiser | 331377 | [331377-sonic-kaiser.json](./331377-sonic-kaiser.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Ki | 326148 | [326148-sonic-ki.json](./326148-sonic-ki.json) |
@@ -37870,6 +37873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros: Exo | 394607 | [394607-super-smash-bros-exo.json](./394607-super-smash-bros-exo.json) |
 | Super Smash Bros. | 328589 | [328589-super-smash-bros.json](./328589-super-smash-bros.json) |
 | Super Smash Bros. 3D | 339945 | [339945-super-smash-bros-3d.json](./339945-super-smash-bros-3d.json) |
+| Super Smash Bros. 4 PC | 425719 | [425719-super-smash-bros-4-pc.json](./425719-super-smash-bros-4-pc.json) |
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Brawl | 328674 | [328674-super-smash-bros-brawl.json](./328674-super-smash-bros-brawl.json) |
 | Super Smash Bros. Brawl: Limited Edition | 231867 | [231867-super-smash-bros-brawl-limited-edition.json](./231867-super-smash-bros-brawl-limited-edition.json) |
