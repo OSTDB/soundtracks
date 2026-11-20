@@ -15765,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slightly Magic | 97124 | [97124-slightly-magic.json](./97124-slightly-magic.json) |
 | Slightly Magic: 8bit Legacy Edition | 32573 | [32573-slightly-magic-8bit-legacy-edition.json](./32573-slightly-magic-8bit-legacy-edition.json) |
 | Slightly Overweight Superhero and the Seven Levels of Death | 264164 | [264164-slightly-overweight-superhero-and-the-seven-levels-of-death.json](./264164-slightly-overweight-superhero-and-the-seven-levels-of-death.json) |
+| Slightly Used Sorcery | 424967 | [424967-slightly-used-sorcery.json](./424967-slightly-used-sorcery.json) |
 | SligStorm | 279453 | [279453-sligstorm.json](./279453-sligstorm.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
@@ -16830,6 +16831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Road: Wanted | 58364 | [58364-smashy-road-wanted.json](./58364-smashy-road-wanted.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
 | SmashZombies | 29274 | [29274-smashzombies.json](./29274-smashzombies.json) |
+| Smawverse | 424989 | [424989-smawverse.json](./424989-smawverse.json) |
 | Smaze | 306775 | [306775-smaze.json](./306775-smaze.json) |
 | SMB Extended | 290236 | [290236-smb-extended.json](./290236-smb-extended.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
@@ -22280,6 +22282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battlefield | 187979 | [187979-space-battlefield.json](./187979-space-battlefield.json) |
 | Space Battles | 80631 | [80631-space-battles.json](./80631-space-battles.json) |
 | Space Battleship Yamato: Eiyuu no Kiseki | 278227 | [278227-space-battleship-yamato-eiyuu-no-kiseki.json](./278227-space-battleship-yamato-eiyuu-no-kiseki.json) |
+| Space Battleship Yamato: Voyagers of Tomorrow | 424955 | [424955-space-battleship-yamato-voyagers-of-tomorrow.json](./424955-space-battleship-yamato-voyagers-of-tomorrow.json) |
 | Space Beam | 277882 | [277882-space-beam.json](./277882-space-beam.json) |
 | Space Bear | 128946 | [128946-space-bear.json](./128946-space-bear.json) |
 | Space Beast Terror Fright | 35528 | [35528-space-beast-terror-fright.json](./35528-space-beast-terror-fright.json) |
@@ -34730,6 +34733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumotori Dreams Classic | 150838 | [150838-sumotori-dreams-classic.json](./150838-sumotori-dreams-classic.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
+| Sump | 424942 | [424942-sump.json](./424942-sump.json) |
 | Sumple | 159451 | [159451-sumple.json](./159451-sumple.json) |
 | Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
 | SUMS | 246563 | [246563-sums.json](./246563-sums.json) |
