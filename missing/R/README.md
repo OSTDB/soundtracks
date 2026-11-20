@@ -4532,6 +4532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Kiss | 405117 | [405117-red-kiss.json](./405117-red-kiss.json) |
 | Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
+| Red Lake | 422608 | [422608-red-lake.json](./422608-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
 | Red Lands | 244679 | [244679-red-lands.json](./244679-red-lands.json) |
 | Red Laser Z | 146647 | [146647-red-laser-z.json](./146647-red-laser-z.json) |
@@ -6617,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance | 210332 | [210332-resonance.json](./210332-resonance.json) |
 | Resonance | 215322 | [215322-resonance.json](./215322-resonance.json) |
 | Resonance | 276280 | [276280-resonance.json](./276280-resonance.json) |
+| Resonance | 422611 | [422611-resonance.json](./422611-resonance.json) |
 | Resonance | 6327 | [6327-resonance.json](./6327-resonance.json) |
 | Resonance chain | 295488 | [295488-resonance-chain.json](./295488-resonance-chain.json) |
 | Resonance in Orbit | 408192 | [408192-resonance-in-orbit.json](./408192-resonance-in-orbit.json) |
