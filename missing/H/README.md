@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Dentist | 106193 | [106193-halloween-dentist.json](./106193-halloween-dentist.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Fair: Tidy Up Together | 426720 | [426720-halloween-fair-tidy-up-together.json](./426720-halloween-fair-tidy-up-together.json) |
 | Halloween Filled With Cats | 392558 | [392558-halloween-filled-with-cats.json](./392558-halloween-filled-with-cats.json) |
 | Halloween Games for Toddlers and Babies | 271518 | [271518-halloween-games-for-toddlers-and-babies.json](./271518-halloween-games-for-toddlers-and-babies.json) |
 | Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heardle | 193526 | [193526-heardle.json](./193526-heardle.json) |
 | Hearing | 94131 | [94131-hearing.json](./94131-hearing.json) |
 | Hearing Voices | 405323 | [405323-hearing-voices.json](./405323-hearing-voices.json) |
+| Hearsay | 426731 | [426731-hearsay.json](./426731-hearsay.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
@@ -11170,6 +11172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Jolted Awake From a Winter Dream | 268380 | [268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json](./268380-honkai-star-rail-jolted-awake-from-a-winter-dream.json) |
 | Honkai: Star Rail - Light Slips the Gate, Shadow Greets the Throne | 331635 | [331635-honkai-star-rail-light-slips-the-gate-shadow-greets-the-throne.json](./331635-honkai-star-rail-light-slips-the-gate-shadow-greets-the-throne.json) |
 | Honkai: Star Rail - Memories are the Prelude to Dreams | 380531 | [380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json](./380531-honkai-star-rail-memories-are-the-prelude-to-dreams.json) |
+| Honkai: Star Rail - Now, Lay Laughter to All Stars | 426778 | [426778-honkai-star-rail-now-lay-laughter-to-all-stars.json](./426778-honkai-star-rail-now-lay-laughter-to-all-stars.json) |
 | Honkai: Star Rail - Paean of Era Nova | 326609 | [326609-honkai-star-rail-paean-of-era-nova.json](./326609-honkai-star-rail-paean-of-era-nova.json) |
 | Honkai: Star Rail - So Laughed the Masses | 398432 | [398432-honkai-star-rail-so-laughed-the-masses.json](./398432-honkai-star-rail-so-laughed-the-masses.json) |
 | Honkai: Star Rail - The Crepuscule Zone | 274834 | [274834-honkai-star-rail-the-crepuscule-zone.json](./274834-honkai-star-rail-the-crepuscule-zone.json) |
@@ -13918,6 +13921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunted | 188370 | [188370-hunted.json](./188370-hunted.json) |
 | Hunted | 195944 | [195944-hunted.json](./195944-hunted.json) |
 | Hunted | 411137 | [411137-hunted.json](./411137-hunted.json) |
+| Hunted | 426753 | [426753-hunted.json](./426753-hunted.json) |
 | Hunted By Monsters: Haunting In The Castle Dungeon | 240875 | [240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json](./240875-hunted-by-monsters-haunting-in-the-castle-dungeon.json) |
 | Hunted Dream House | 75668 | [75668-hunted-dream-house.json](./75668-hunted-dream-house.json) |
 | Hunted Hunter | 369709 | [369709-hunted-hunter.json](./369709-hunted-hunter.json) |
