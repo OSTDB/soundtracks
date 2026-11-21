@@ -5929,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ded Inside | 120776 | [120776-ded-inside.json](./120776-ded-inside.json) |
 | Deda | 383905 | [383905-deda.json](./383905-deda.json) |
 | Dedale | 73435 | [73435-dedale.json](./73435-dedale.json) |
+| Dédale: A Cave Diving Experience | 426706 | [426706-dedale-a-cave-diving-experience.json](./426706-dedale-a-cave-diving-experience.json) |
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Dedalo | 328732 | [328732-dedalo.json](./328732-dedalo.json) |
 | Dedalus | 138998 | [138998-dedalus.json](./138998-dedalus.json) |
@@ -18278,6 +18279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadmoor | 340334 | [340334-dreadmoor.json](./340334-dreadmoor.json) |
 | Dreadmyst | 381656 | [381656-dreadmyst.json](./381656-dreadmyst.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
+| Dreadnauts | 426827 | [426827-dreadnauts.json](./426827-dreadnauts.json) |
 | Dreadnought | 266432 | [266432-dreadnought.json](./266432-dreadnought.json) |
 | Dreadnought | 7336 | [7336-dreadnought.json](./7336-dreadnought.json) |
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
@@ -21701,6 +21703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of the Obelisk | 251151 | [251151-dungeons-of-the-obelisk.json](./251151-dungeons-of-the-obelisk.json) |
 | Dungeons of the Unforgiven | 73616 | [73616-dungeons-of-the-unforgiven.json](./73616-dungeons-of-the-unforgiven.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
+| Dungeons on Stream | 426817 | [426817-dungeons-on-stream.json](./426817-dungeons-on-stream.json) |
 | Dungeons, Amethysts, Alchemists 'N' Everythin' | 12576 | [12576-dungeons-amethysts-alchemists-n-everythin.json](./12576-dungeons-amethysts-alchemists-n-everythin.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
