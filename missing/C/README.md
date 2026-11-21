@@ -10154,6 +10154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cibele | 14702 | [14702-cibele.json](./14702-cibele.json) |
 | Cibos | 89324 | [89324-cibos.json](./89324-cibos.json) |
 | Cicada | 360244 | [360244-cicada.json](./360244-cicada.json) |
+| Cicada Communication | 420852 | [420852-cicada-communication.json](./420852-cicada-communication.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadamata" | 377768 | [377768-cicadamata.json](./377768-cicadamata.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
@@ -11610,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
 | Clawstral | 423946 | [423946-clawstral.json](./423946-clawstral.json) |
+| Clawstrophobia | 420862 | [420862-clawstrophobia.json](./420862-clawstrophobia.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay Game | 137727 | [137727-clay-game.json](./137727-clay-game.json) |
@@ -16905,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
 | Copy | 423744 | [423744-copy.json](./423744-copy.json) |
 | Copy Cat | 409094 | [409094-copy-cat.json](./409094-copy-cat.json) |
+| Copy Cat Deluxe | 421392 | [421392-copy-cat-deluxe.json](./421392-copy-cat-deluxe.json) |
 | Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
 | Copy Editor: A RegEx Puzzle | 158623 | [158623-copy-editor-a-regex-puzzle.json](./158623-copy-editor-a-regex-puzzle.json) |
@@ -18223,6 +18226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
+| Cow | 420830 | [420830-cow.json](./420830-cow.json) |
 | Cow & Chicken: Christmas in July | 241141 | [241141-cow-and-chicken-christmas-in-july.json](./241141-cow-and-chicken-christmas-in-july.json) |
 | Cow & Chicken: Super Cow Adventure | 391945 | [391945-cow-and-chicken-super-cow-adventure.json](./391945-cow-and-chicken-super-cow-adventure.json) |
 | Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
@@ -18748,6 +18752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranium | 92757 | [92757-cranium.json](./92757-cranium.json) |
 | Cranium Conundrum | 31341 | [31341-cranium-conundrum.json](./31341-cranium-conundrum.json) |
 | Cranium Kabookii | 76755 | [76755-cranium-kabookii.json](./76755-cranium-kabookii.json) |
+| Cranium Planet | 420824 | [420824-cranium-planet.json](./420824-cranium-planet.json) |
 | Cranium: Partyland Park | 230460 | [230460-cranium-partyland-park.json](./230460-cranium-partyland-park.json) |
 | Crank | 331113 | [331113-crank.json](./331113-crank.json) |
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
