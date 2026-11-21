@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
 | Scales | 392585 | [392585-scales.json](./392585-scales.json) |
+| Scales and Tails | 427900 | [427900-scales-and-tails.json](./427900-scales-and-tails.json) |
 | Scales of Gold | 421748 | [421748-scales-of-gold.json](./421748-scales-of-gold.json) |
 | Scales of Justice | 311879 | [311879-scales-of-justice.json](./311879-scales-of-justice.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
@@ -12388,6 +12389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Collector: Tidy Up the Clothing Store! | 420751 | [420751-silk-collector-tidy-up-the-clothing-store.json](./420751-silk-collector-tidy-up-the-clothing-store.json) |
+| Silk Home: Echoes of the Forbidden | 427919 | [427919-silk-home-echoes-of-the-forbidden.json](./427919-silk-home-echoes-of-the-forbidden.json) |
 | Silk Road 2 | 266335 | [266335-silk-road-2.json](./266335-silk-road-2.json) |
 | Silk Road: Legend of Gero | 83711 | [83711-silk-road-legend-of-gero.json](./83711-silk-road-legend-of-gero.json) |
 | Silk Roads II: Paths of Fortune | 348562 | [348562-silk-roads-ii-paths-of-fortune.json](./348562-silk-roads-ii-paths-of-fortune.json) |
@@ -23950,6 +23952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark of Light | 116049 | [116049-spark-of-light.json](./116049-spark-of-light.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
+| Spark of Y | 427992 | [427992-spark-of-y.json](./427992-spark-of-y.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
 | Spark Rising | 16892 | [16892-spark-rising.json](./16892-spark-rising.json) |
@@ -25431,6 +25434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
 | Spine Lasher | 368057 | [368057-spine-lasher.json](./368057-spine-lasher.json) |
+| Spineless | 427912 | [427912-spineless.json](./427912-spineless.json) |
 | Spinera | 338892 | [338892-spinera.json](./338892-spinera.json) |
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinfrog: All Aboard the Frogcopter | 222461 | [222461-spinfrog-all-aboard-the-frogcopter.json](./222461-spinfrog-all-aboard-the-frogcopter.json) |
@@ -33130,6 +33134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Striving for Light | 159919 | [159919-striving-for-light.json](./159919-striving-for-light.json) |
 | Striving for Light: Survival | 234130 | [234130-striving-for-light-survival.json](./234130-striving-for-light-survival.json) |
+| Strix and Scholar | 427996 | [427996-strix-and-scholar.json](./427996-strix-and-scholar.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
 | Strobophagia: Rave Horror | 139460 | [139460-strobophagia-rave-horror.json](./139460-strobophagia-rave-horror.json) |
 | Stroggman's Tundra | 257128 | [257128-stroggmans-tundra.json](./257128-stroggmans-tundra.json) |
