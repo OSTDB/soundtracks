@@ -1536,7 +1536,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Timing | 368108 | [368108-panic-timing.json](./368108-panic-timing.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! | 36547 | [36547-panic.json](./36547-panic.json) |
-| Panic! | 5409 | [5409-panic.json](./5409-panic.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
 | Panic! at the Jigsaw | 429778 | [429778-panic-at-the-jigsaw.json](./429778-panic-at-the-jigsaw.json) |
 | Panic! Dizzy | 39163 | [39163-panic-dizzy.json](./39163-panic-dizzy.json) |
@@ -3623,7 +3622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathUp! | 338468 | [338468-pathup.json](./338468-pathup.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
-| Pathway to Glory: Ikusa Islands | 6271 | [6271-pathway-to-glory-ikusa-islands.json](./6271-pathway-to-glory-ikusa-islands.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
 | Pathways | 242701 | [242701-pathways.json](./242701-pathways.json) |
@@ -6168,7 +6166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Core 2 | 288639 | [288639-phantom-core-2.json](./288639-phantom-core-2.json) |
 | Phantom Core: The Moon Mission | 284176 | [284176-phantom-core-the-moon-mission.json](./284176-phantom-core-the-moon-mission.json) |
-| Phantom Crash | 5980 | [5980-phantom-crash.json](./5980-phantom-crash.json) |
 | Phantom Dash | 302789 | [302789-phantom-dash.json](./302789-phantom-dash.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
 | Phantom Detective | 127503 | [127503-phantom-detective.json](./127503-phantom-detective.json) |
@@ -6176,7 +6173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Doctrine: The Cabal | 138122 | [138122-phantom-doctrine-the-cabal.json](./138122-phantom-doctrine-the-cabal.json) |
 | Phantom Dust | 280275 | [280275-phantom-dust.json](./280275-phantom-dust.json) |
-| Phantom Dust | 5981 | [5981-phantom-dust.json](./5981-phantom-dust.json) |
 | Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
 | Phantom Eden | 110027 | [110027-phantom-eden.json](./110027-phantom-eden.json) |
 | Phantom Fighter | 48188 | [48188-phantom-fighter.json](./48188-phantom-fighter.json) |
@@ -14376,7 +14372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Champion | 85929 | [85929-pool-champion.json](./85929-pool-champion.json) |
 | Pool Cleaning Simulator | 235399 | [235399-pool-cleaning-simulator.json](./235399-pool-cleaning-simulator.json) |
 | Pool Club kara no Dasshutsu | 358493 | [358493-pool-club-kara-no-dasshutsu.json](./358493-pool-club-kara-no-dasshutsu.json) |
-| Pool Edge | 4072 | [4072-pool-edge.json](./4072-pool-edge.json) |
 | Pool Elite | 103180 | [103180-pool-elite.json](./103180-pool-elite.json) |
 | Pool Elite | 60729 | [60729-pool-elite.json](./60729-pool-elite.json) |
 | Pool Fever | 323696 | [323696-pool-fever.json](./323696-pool-fever.json) |
@@ -14412,7 +14407,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 185196 | [185196-pool-party.json](./185196-pool-party.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
-| Pool Party | 5103 | [5103-pool-party.json](./5103-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
 | Pool Party Girls: Splash Babes | 411824 | [411824-pool-party-girls-splash-babes.json](./411824-pool-party-girls-splash-babes.json) |
 | Pool Party Panic | 26953 | [26953-pool-party-panic.json](./26953-pool-party-panic.json) |
@@ -20329,7 +20323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Mini Golf and Pool Puzzles Bundle | 266063 | [266063-pure-mini-golf-and-pool-puzzles-bundle.json](./266063-pure-mini-golf-and-pool-puzzles-bundle.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
-| Pure Pinball | 5995 | [5995-pure-pinball.json](./5995-pure-pinball.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
