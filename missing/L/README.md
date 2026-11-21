@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Changing the Past - Collector's Edition | 46955 | [46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json](./46955-labyrinths-of-the-world-changing-the-past-collectors-edition.json) |
 | Labyrinths of the World: Changing the Past HD | 102683 | [102683-labyrinths-of-the-world-changing-the-past-hd.json](./102683-labyrinths-of-the-world-changing-the-past-hd.json) |
 | Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
+| Labyrinths of the World: Eternal Winter - Collector's Edition | 426165 | [426165-labyrinths-of-the-world-eternal-winter-collectors-edition.json](./426165-labyrinths-of-the-world-eternal-winter-collectors-edition.json) |
 | Labyrinths of the World: Fool's Gold | 139487 | [139487-labyrinths-of-the-world-fools-gold.json](./139487-labyrinths-of-the-world-fools-gold.json) |
 | Labyrinths of the World: Fool's Gold - Collector's Edition | 121811 | [121811-labyrinths-of-the-world-fools-gold-collectors-edition.json](./121811-labyrinths-of-the-world-fools-gold-collectors-edition.json) |
 | Labyrinths of the World: Forbidden Muse | 139488 | [139488-labyrinths-of-the-world-forbidden-muse.json](./139488-labyrinths-of-the-world-forbidden-muse.json) |
