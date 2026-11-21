@@ -6948,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
 | Eternal Afternoon | 388497 | [388497-eternal-afternoon.json](./388497-eternal-afternoon.json) |
 | Eternal Alien | 128821 | [128821-eternal-alien.json](./128821-eternal-alien.json) |
+| Eternal Angler | 420128 | [420128-eternal-angler.json](./420128-eternal-angler.json) |
 | Eternal Anima | 417174 | [417174-eternal-anima.json](./417174-eternal-anima.json) |
 | Eternal Anima: Limited Edition | 417196 | [417196-eternal-anima-limited-edition.json](./417196-eternal-anima-limited-edition.json) |
 | Eternal Arena | 38691 | [38691-eternal-arena.json](./38691-eternal-arena.json) |
