@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.T#200 | 395738 | [395738-r-a-t-200.json](./395738-r-a-t-200.json) |
 | R.A.V.E | 328108 | [328108-r-a-v-e.json](./328108-r-a-v-e.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
+| R.B.I Baseball 18 | 83781 | [83781-r-b-i-baseball-18.json](./83781-r-b-i-baseball-18.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
@@ -741,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Chess | 134207 | [134207-radical-chess.json](./134207-radical-chess.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
 | Radical Dreamers: Le Trésor Interdit | 335489 | [335489-radical-dreamers-le-tresor-interdit.json](./335489-radical-dreamers-le-tresor-interdit.json) |
+| Radical Dungeon Sweeper | 83984 | [83984-radical-dungeon-sweeper.json](./83984-radical-dungeon-sweeper.json) |
 | Radical Fishing | 283311 | [283311-radical-fishing.json](./283311-radical-fishing.json) |
 | Radical Friday | 365619 | [365619-radical-friday.json](./365619-radical-friday.json) |
 | Radical Gear | 121092 | [121092-radical-gear.json](./121092-radical-gear.json) |
@@ -10576,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: Any Other Heart | 366816 | [366816-rock-band-4-any-other-heart.json](./366816-rock-band-4-any-other-heart.json) |
 | Rock Band 4: Bang! | 366192 | [366192-rock-band-4-bang.json](./366192-rock-band-4-bang.json) |
 | Rock Band 4: Discover ReverbNation & Firefly Music Festival | 366194 | [366194-rock-band-4-discover-reverbnation-and-firefly-music-festival.json](./366194-rock-band-4-discover-reverbnation-and-firefly-music-festival.json) |
+| Rock Band 4: Rivals Bundle | 82421 | [82421-rock-band-4-rivals-bundle.json](./82421-rock-band-4-rivals-bundle.json) |
 | Rock Band 4: Rivals Expansion | 175664 | [175664-rock-band-4-rivals-expansion.json](./175664-rock-band-4-rivals-expansion.json) |
 | Rock Band 4: The Final Countdown | 366191 | [366191-rock-band-4-the-final-countdown.json](./366191-rock-band-4-the-final-countdown.json) |
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
@@ -12167,6 +12170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms | 336965 | [336965-romance-of-the-three-kingdoms.json](./336965-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 350709 | [350709-romance-of-the-three-kingdoms.json](./350709-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
+| Romance of the Three Kingdoms 11 with Power Up Kit | 82406 | [82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json](./82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json) |
 | Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
 | Romance of the Three Kingdoms 8 Remake: Destiny and Strategy Expansion Pack | 372351 | [372351-romance-of-the-three-kingdoms-8-remake-destiny-and-strategy-expansion-pack.json](./372351-romance-of-the-three-kingdoms-8-remake-destiny-and-strategy-expansion-pack.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
@@ -12211,6 +12215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIII: Ancient Officers Officer Data Set | 164503 | [164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json](./164503-romance-of-the-three-kingdoms-xiii-ancient-officers-officer-data-set.json) |
 | Romance of the Three Kingdoms XIII: Best Scenario for RTK Japan - The Tyrant Returns | 162060 | [162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json](./162060-romance-of-the-three-kingdoms-xiii-best-scenario-for-rtk-japan-the-tyrant-returns.json) |
 | Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack | 162062 | [162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json](./162062-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack.json) |
+| Romance of the Three Kingdoms XIII: Fame and Strategy Expansion Pack Bundle | 82420 | [82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json](./82420-romance-of-the-three-kingdoms-xiii-fame-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 2 | 225916 | [225916-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-2.json](./225916-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-2.json) |
 | Romance of the Three Kingdoms XIII: Hero Mode Additional Stage Set 3 | 225915 | [225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json](./225915-romance-of-the-three-kingdoms-xiii-hero-mode-additional-stage-set-3.json) |
 | Romance of the Three Kingdoms XIII: Scenario - A Yellow Sky | 164492 | [164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json](./164492-romance-of-the-three-kingdoms-xiii-scenario-a-yellow-sky.json) |
@@ -13697,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Live 2: Quick Match | 106013 | [106013-rugby-league-live-2-quick-match.json](./106013-rugby-league-live-2-quick-match.json) |
 | Rugby League Live 2: World Cup Edition | 194940 | [194940-rugby-league-live-2-world-cup-edition.json](./194940-rugby-league-live-2-world-cup-edition.json) |
 | Rugby League Live 3 | 17623 | [17623-rugby-league-live-3.json](./17623-rugby-league-live-3.json) |
+| Rugby League Live 4: World Cup Edition | 83777 | [83777-rugby-league-live-4-world-cup-edition.json](./83777-rugby-league-live-4-world-cup-edition.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2015 | 35315 | [35315-rugby-league-team-manager-2015.json](./35315-rugby-league-team-manager-2015.json) |
