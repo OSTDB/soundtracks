@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,888" src="https://img.shields.io/badge/soundtracks-3%2C888-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,405" src="https://img.shields.io/badge/games-3%2C405-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 368,051" src="https://img.shields.io/badge/missing-368%2C051-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 367,853" src="https://img.shields.io/badge/missing-367%2C853-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nethack-legacy"><img src="https://i.scdn.co/image/ab67616d0000b27368cc4bc1b6039d131688556c" width="120" height="120" alt="" /></a><br /><sub><b>NetHack: Legacy</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/oh-jeez-oh-no-my-rabbits-are-gone"><img src="https://i.scdn.co/image/ab67616d0000b2739a7ce3c28c68670a54616973" width="120" height="120" alt="" /></a><br /><sub><b>Oh Jeez, Oh No, My Rabbits Are Gone!</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tower-of-shades"><img src="https://i.scdn.co/image/ab67616d0000b273a784862692526a04af41ecde" width="120" height="120" alt="" /></a><br /><sub><b>Tower of Shades</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hollow-island"><img src="https://i.scdn.co/image/ab67616d0000b27304f32df468ebee20b444313a" width="120" height="120" alt="" /></a><br /><sub><b>Hollow Island</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/featherfall"><img src="https://i.scdn.co/image/ab67616d0000b273c46cd9bd88d8fe084159cede" width="120" height="120" alt="" /></a><br /><sub><b>Featherfall</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/surviving-titan"><img src="https://i.scdn.co/image/ab67616d0000b2733e2c389cb637259ea3f91138" width="120" height="120" alt="" /></a><br /><sub><b>Surviving Titan</b></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/elden-ring-nightreign-the-forsaken-hollows"><img src="https://i.scdn.co/image/ab67616d0000b2732e9c8471acb9ea2059e6cd9a" width="120" height="120" alt="" /></a><br /><sub><b>Elden Ring Nightreign - The Forsaken Hollows</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/command-and-conquer"><img src="https://i.scdn.co/image/ab67616d0000b273cd25136985700afc78789434" width="120" height="120" alt="" /></a><br /><sub><b>Command &amp; Conquer</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/influx"><img src="https://i.scdn.co/image/ab67616d0000b273d9a7c0d3d15b5b3ccb03103b" width="120" height="120" alt="" /></a><br /><sub><b>InFlux</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/baroque"><img src="https://i.scdn.co/image/ab67616d0000b273fd47431151fe0061eadaca85" width="120" height="120" alt="" /></a><br /><sub><b>Baroque</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/xyanide"><img src="https://i.scdn.co/image/ab67616d0000b273c7aa57a36b59e0c805cb9c92" width="120" height="120" alt="" /></a><br /><sub><b>Xyanide</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hot-potato"><img src="https://i.scdn.co/image/ab67616d0000b2733ba96be2170ef51bb7f38cdc" width="120" height="120" alt="" /></a><br /><sub><b>Hot Potato!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/infinite-crisis"><img src="https://i.scdn.co/image/ab67616d0000b2739e5483e44ddb613f2fd70b79" width="120" height="120" alt="" /></a><br /><sub><b>Infinite Crisis</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/wings-remastered-edition"><img src="https://i.scdn.co/image/ab67616d0000b273bf947ed1d2f10dd13d8f6108" width="120" height="120" alt="" /></a><br /><sub><b>Wings! Remastered Edition</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/renoir"><img src="https://i.scdn.co/image/ab67616d0000b2733dc6f7e439d4f92563bb65b9" width="120" height="120" alt="" /></a><br /><sub><b>Renoir</b></sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/star-ruler"><img src="https://i.scdn.co/image/ab67616d0000b273948f7577bbdfe5b654b2d4b1" width="120" height="120" alt="" /></a><br /><sub><b>Star Ruler</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/depths-of-fear-knossos"><img src="https://i.scdn.co/image/ab67616d0000b2735ba16272ea339df9c873d494" width="120" height="120" alt="" /></a><br /><sub><b>Depths of Fear: Knossos</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/republic-the-revolution"><img src="https://i.scdn.co/image/ab67616d0000b273417a2a3f45b05a6b5f516307" width="120" height="120" alt="" /></a><br /><sub><b>Republic: The Revolution</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/otttd"><img src="https://i.scdn.co/image/ab67616d0000b273276f7b364e77dab67e9e6054" width="120" height="120" alt="" /></a><br /><sub><b>OTTTD</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/god-factory-wingmen"><img src="https://i.scdn.co/image/ab67616d0000b273d8b9f1f2682d838a64abfe93" width="120" height="120" alt="" /></a><br /><sub><b>GoD Factory: Wingmen</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tunnel-b1"><img src="https://i.scdn.co/image/ab67616d0000b273c867c66e2c606acd8c26c59d" width="120" height="120" alt="" /></a><br /><sub><b>Tunnel B1</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (368,051 games).
+More in **[missing/](missing/README.md)** (367,853 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,888 soundtracks &middot; last updated 2026-11-21T12:25:48.525Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,888 soundtracks &middot; last updated 2026-11-21T12:41:07.470Z</sub>
