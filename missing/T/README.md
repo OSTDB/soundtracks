@@ -31199,7 +31199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Radia | 48876 | [48876-tower-of-radia.json](./48876-tower-of-radia.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Scherbenmark | 413023 | [413023-tower-of-scherbenmark.json](./413023-tower-of-scherbenmark.json) |
-| Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
 | Tower of Shadow | 22960 | [22960-tower-of-shadow.json](./22960-tower-of-shadow.json) |
 | Tower of Souls | 61550 | [61550-tower-of-souls.json](./61550-tower-of-souls.json) |
 | Tower of Spirit | 203670 | [203670-tower-of-spirit.json](./203670-tower-of-spirit.json) |
