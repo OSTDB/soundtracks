@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2005 Real Soccer | 116345 | [116345-2005-real-soccer.json](./116345-2005-real-soccer.json) |
 | 2005: A Game of Macroeconomics | 299559 | [299559-2005-a-game-of-macroeconomics.json](./299559-2005-a-game-of-macroeconomics.json) |
 | 2006 FIFA World Cup | 240282 | [240282-2006-fifa-world-cup.json](./240282-2006-fifa-world-cup.json) |
+| 2006 FIFA World Cup | 240283 | [240283-2006-fifa-world-cup.json](./240283-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 240284 | [240284-2006-fifa-world-cup.json](./240284-2006-fifa-world-cup.json) |
 | 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 200V Mahjong Challenge Spirits | 261057 | [261057-200v-mahjong-challenge-spirits.json](./261057-200v-mahjong-challenge-spirits.json) |
 | 201 Street | 377861 | [377861-201-street.json](./377861-201-street.json) |
 | 201: The Bad Number | 328161 | [328161-201-the-bad-number.json](./328161-201-the-bad-number.json) |
+| 2010 FIFA World Cup South Africa | 240361 | [240361-2010-fifa-world-cup-south-africa.json](./240361-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240362 | [240362-2010-fifa-world-cup-south-africa.json](./240362-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 240363 | [240363-2010-fifa-world-cup-south-africa.json](./240363-2010-fifa-world-cup-south-africa.json) |
 | 2010 FIFA World Cup South Africa | 4655 | [4655-2010-fifa-world-cup-south-africa.json](./4655-2010-fifa-world-cup-south-africa.json) |
