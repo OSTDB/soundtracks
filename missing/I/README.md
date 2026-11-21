@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
 | Ignite | 16144 | [16144-ignite.json](./16144-ignite.json) |
 | Ignite | 219849 | [219849-ignite.json](./219849-ignite.json) |
+| Ignite the Depths | 413258 | [413258-ignite-the-depths.json](./413258-ignite-the-depths.json) |
 | Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
 | Ignited Entry | 316514 | [316514-ignited-entry.json](./316514-ignited-entry.json) |
 | Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
