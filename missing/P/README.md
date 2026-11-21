@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Chaos Weekend - Collector's Edition | 358094 | [358094-paranormal-files-chaos-weekend-collectors-edition.json](./358094-paranormal-files-chaos-weekend-collectors-edition.json) |
 | Paranormal Files: Counterpart - Collector's Edition | 337238 | [337238-paranormal-files-counterpart-collectors-edition.json](./337238-paranormal-files-counterpart-collectors-edition.json) |
 | Paranormal Files: Enjoy the Shopping | 142012 | [142012-paranormal-files-enjoy-the-shopping.json](./142012-paranormal-files-enjoy-the-shopping.json) |
+| Paranormal Files: Enjoy the Shopping - Collector's Edition | 426247 | [426247-paranormal-files-enjoy-the-shopping-collectors-edition.json](./426247-paranormal-files-enjoy-the-shopping-collectors-edition.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Fellow Traveler - Collector's Edition | 143274 | [143274-paranormal-files-fellow-traveler-collectors-edition.json](./143274-paranormal-files-fellow-traveler-collectors-edition.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Romana | 115512 | [115512-pax-romana.json](./115512-pax-romana.json) |
 | Pax Romana: Romulus | 70076 | [70076-pax-romana-romulus.json](./70076-pax-romana-romulus.json) |
 | Pax Ruthenia | 123855 | [123855-pax-ruthenia.json](./123855-pax-ruthenia.json) |
+| Pax Serica: Rise of the Ming | 426225 | [426225-pax-serica-rise-of-the-ming.json](./426225-pax-serica-rise-of-the-ming.json) |
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pax Warrior | 174108 | [174108-pax-warrior.json](./174108-pax-warrior.json) |
 | Pay 2 Win: The World Is Mine | 367378 | [367378-pay-2-win-the-world-is-mine.json](./367378-pay-2-win-the-world-is-mine.json) |
@@ -5349,6 +5351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persian Gulf Inferno | 72329 | [72329-persian-gulf-inferno.json](./72329-persian-gulf-inferno.json) |
 | Persian Maze | 417640 | [417640-persian-maze.json](./417640-persian-maze.json) |
 | Persian Nights 2: The Moonlight Veil | 134557 | [134557-persian-nights-2-the-moonlight-veil.json](./134557-persian-nights-2-the-moonlight-veil.json) |
+| Persian Nights 2: The Moonlight Veil - Collector's Edition | 426248 | [426248-persian-nights-2-the-moonlight-veil-collectors-edition.json](./426248-persian-nights-2-the-moonlight-veil-collectors-edition.json) |
 | Persian Wars | 27589 | [27589-persian-wars.json](./27589-persian-wars.json) |
 | Persian: The Great Lamp Heist | 51505 | [51505-persian-the-great-lamp-heist.json](./51505-persian-the-great-lamp-heist.json) |
 | Persist | 223681 | [223681-persist.json](./223681-persist.json) |
@@ -6411,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenomeno: Mitsurugi Yoishi wa Kowagaranai | 64150 | [64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json](./64150-phenomeno-mitsurugi-yoishi-wa-kowagaranai.json) |
 | Phenomenon User Metropolitan Highway Invincible Legend Second Stage: Clash! Metropolitan Expressway Grand Prix- | 269941 | [269941-phenomenon-user-metropolitan-highway-invincible-legend-second-stage-clash-metropolitan-expressway-grand-prix.json](./269941-phenomenon-user-metropolitan-highway-invincible-legend-second-stage-clash-metropolitan-expressway-grand-prix.json) |
 | Phenomenon: City of Cyan | 61531 | [61531-phenomenon-city-of-cyan.json](./61531-phenomenon-city-of-cyan.json) |
+| Phenomenon: Meteorite - Collector's Edition | 426249 | [426249-phenomenon-meteorite-collectors-edition.json](./426249-phenomenon-meteorite-collectors-edition.json) |
 | Phenomenon: Outcome | 61533 | [61533-phenomenon-outcome.json](./61533-phenomenon-outcome.json) |
 | Phenomenon32 | 170228 | [170228-phenomenon32.json](./170228-phenomenon32.json) |
 | Pheonix II | 411746 | [411746-pheonix-ii.json](./411746-pheonix-ii.json) |
@@ -16773,6 +16777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Isabella: A Witch's Curse | 51002 | [51002-princess-isabella-a-witchs-curse.json](./51002-princess-isabella-a-witchs-curse.json) |
 | Princess Isabella: Return of the Curse | 17220 | [17220-princess-isabella-return-of-the-curse.json](./17220-princess-isabella-return-of-the-curse.json) |
+| Princess Isabella: The Rise of an Heir - Collector's Edition | 426250 | [426250-princess-isabella-the-rise-of-an-heir-collectors-edition.json](./426250-princess-isabella-the-rise-of-an-heir-collectors-edition.json) |
 | Princess Jigsaw Bundle | 319310 | [319310-princess-jigsaw-bundle.json](./319310-princess-jigsaw-bundle.json) |
 | Princess Kaguya | 34914 | [34914-princess-kaguya.json](./34914-princess-kaguya.json) |
 | Princess Kidnapper 2 - VR | 29430 | [29430-princess-kidnapper-2-vr.json](./29430-princess-kidnapper-2-vr.json) |
