@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
 | Marvel Putt Golf II | 239373 | [239373-marvel-putt-golf-ii.json](./239373-marvel-putt-golf-ii.json) |
 | Marvel Puzzle Quest | 7084 | [7084-marvel-puzzle-quest.json](./7084-marvel-puzzle-quest.json) |
+| Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
 | Marvel Quiz Quest | 295819 | [295819-marvel-quiz-quest.json](./295819-marvel-quiz-quest.json) |
 | Marvel Realm of Champions | 122756 | [122756-marvel-realm-of-champions.json](./122756-marvel-realm-of-champions.json) |
 | Marvel Rivals: Pick-Up Bundle | 355093 | [355093-marvel-rivals-pick-up-bundle.json](./355093-marvel-rivals-pick-up-bundle.json) |
@@ -10137,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of Magic | 424654 | [424654-memories-of-magic.json](./424654-memories-of-magic.json) |
 | Memories of Mana | 283372 | [283372-memories-of-mana.json](./283372-memories-of-mana.json) |
+| Memories of Mars | 83708 | [83708-memories-of-mars.json](./83708-memories-of-mars.json) |
 | Memories of Mir | 215837 | [215837-memories-of-mir.json](./215837-memories-of-mir.json) |
 | Memories of Misery | 297345 | [297345-memories-of-misery.json](./297345-memories-of-misery.json) |
 | Memories of Planet | 223324 | [223324-memories-of-planet.json](./223324-memories-of-planet.json) |
@@ -15455,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle World: Fushigi no Kuni no IQ Meiro | 256638 | [256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json](./256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json) |
 | Miracle! Panzou Uchu Daisakusen | 339044 | [339044-miracle-panzou-uchu-daisakusen.json](./339044-miracle-panzou-uchu-daisakusen.json) |
 | Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
+| Miraclr: Divine Dating Sim | 84047 | [84047-miraclr-divine-dating-sim.json](./84047-miraclr-divine-dating-sim.json) |
 | Miraculo Island | 192612 | [192612-miraculo-island.json](./192612-miraculo-island.json) |
 | Miraculous Fall | 336682 | [336682-miraculous-fall.json](./336682-miraculous-fall.json) |
 | Miraculous Ladybug & Cat Noir | 99322 | [99322-miraculous-ladybug-and-cat-noir.json](./99322-miraculous-ladybug-and-cat-noir.json) |
@@ -18913,6 +18916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monte Carlo 2 | 209068 | [209068-monte-carlo-2.json](./209068-monte-carlo-2.json) |
 | Monte Carlo Baccarat | 92907 | [92907-monte-carlo-baccarat.json](./92907-monte-carlo-baccarat.json) |
 | Monte Carlo Casino | 419740 | [419740-monte-carlo-casino.json](./419740-monte-carlo-casino.json) |
+| Montecrypto: The Bitcoin Enigma | 83998 | [83998-montecrypto-the-bitcoin-enigma.json](./83998-montecrypto-the-bitcoin-enigma.json) |
 | MonteCube Dodge | 117362 | [117362-montecube-dodge.json](./117362-montecube-dodge.json) |
 | Monterey Jack | 347217 | [347217-monterey-jack.json](./347217-monterey-jack.json) |
 | Montero | 100419 | [100419-montero.json](./100419-montero.json) |
