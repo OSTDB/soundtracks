@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Haldor | 202902 | [202902-haldor.json](./202902-haldor.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
+| Haley Is Not Alone | 420839 | [420839-haley-is-not-alone.json](./420839-haley-is-not-alone.json) |
 | Haley's Story | 393580 | [393580-haleys-story.json](./393580-haleys-story.json) |
 | Half | 178472 | [178472-half.json](./178472-half.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Summer Holiday | 158260 | [158260-happy-summer-holiday.json](./158260-happy-summer-holiday.json) |
 | Happy Summer Quest | 189931 | [189931-happy-summer-quest.json](./189931-happy-summer-quest.json) |
 | Happy Sumotori Dreams | 102237 | [102237-happy-sumotori-dreams.json](./102237-happy-sumotori-dreams.json) |
+| Happy Sunny Doll | 420874 | [420874-happy-sunny-doll.json](./420874-happy-sunny-doll.json) |
 | Happy Supercop! Catch the Thief | 388528 | [388528-happy-supercop-catch-the-thief.json](./388528-happy-supercop-catch-the-thief.json) |
 | Happy Tails Zoo Keeper | 54077 | [54077-happy-tails-zoo-keeper.json](./54077-happy-tails-zoo-keeper.json) |
 | Happy Tails: Animal Shelter | 198076 | [198076-happy-tails-animal-shelter.json](./198076-happy-tails-animal-shelter.json) |
@@ -9406,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinge | 268289 | [268289-hinge.json](./268289-hinge.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
 | Hinge VR | 161722 | [161722-hinge-vr.json](./161722-hinge-vr.json) |
+| Hino | 420850 | [420850-hino.json](./420850-hino.json) |
 | Hinokakera Chaotic Eclipse | 146153 | [146153-hinokakera-chaotic-eclipse.json](./146153-hinokakera-chaotic-eclipse.json) |
 | Hinokakera fragment:Eclipse | 146148 | [146148-hinokakera-fragment-eclipse.json](./146148-hinokakera-fragment-eclipse.json) |
 | Hinokakera the Fragments of Innocent Sinner | 64642 | [64642-hinokakera-the-fragments-of-innocent-sinner.json](./64642-hinokakera-the-fragments-of-innocent-sinner.json) |
@@ -13408,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huecube | 272967 | [272967-huecube.json](./272967-huecube.json) |
 | Huedango | 55370 | [55370-huedango.json](./55370-huedango.json) |
 | Huedini | 292185 | [292185-huedini.json](./292185-huedini.json) |
+| Huemon | 420871 | [420871-huemon.json](./420871-huemon.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huerons: A challenging Puzzle | 216157 | [216157-huerons-a-challenging-puzzle.json](./216157-huerons-a-challenging-puzzle.json) |
