@@ -5769,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuman Gaiden | 242861 | [242861-tetsuman-gaiden.json](./242861-tetsuman-gaiden.json) |
 | Tetsumi Mahjong | 266004 | [266004-tetsumi-mahjong.json](./266004-tetsumi-mahjong.json) |
 | Tetsumo Party | 119554 | [119554-tetsumo-party.json](./119554-tetsumo-party.json) |
+| Tetsunasubi | 421377 | [421377-tetsunasubi.json](./421377-tetsunasubi.json) |
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Tetword | 414756 | [414756-tetword.json](./414756-tetword.json) |
@@ -11766,6 +11767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
+| The Graves Vigil | 420863 | [420863-the-graves-vigil.json](./420863-the-graves-vigil.json) |
 | The Graveyard | 9255 | [9255-the-graveyard.json](./9255-the-graveyard.json) |
 | The Graveyard Shift | 259476 | [259476-the-graveyard-shift.json](./259476-the-graveyard-shift.json) |
 | The Gravity Box | 113578 | [113578-the-gravity-box.json](./113578-the-gravity-box.json) |
@@ -14330,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of Ezra Raymond Squirrel | 331774 | [331774-the-legend-of-ezra-raymond-squirrel.json](./331774-the-legend-of-ezra-raymond-squirrel.json) |
+| The Legend of Fancy Realm | 420843 | [420843-the-legend-of-fancy-realm.json](./420843-the-legend-of-fancy-realm.json) |
 | The Legend of Fartacus | 336847 | [336847-the-legend-of-fartacus.json](./336847-the-legend-of-fartacus.json) |
 | The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
@@ -18255,6 +18258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Masquerade | 313643 | [313643-the-royal-masquerade.json](./313643-the-royal-masquerade.json) |
 | The Royal Office of Magick Affairs | 315654 | [315654-the-royal-office-of-magick-affairs.json](./315654-the-royal-office-of-magick-affairs.json) |
 | The Royal Rebel Casino | 369365 | [369365-the-royal-rebel-casino.json](./369365-the-royal-rebel-casino.json) |
+| The Royal Restoration Society | 420841 | [420841-the-royal-restoration-society.json](./420841-the-royal-restoration-society.json) |
 | The Royal Romance: Book 1 | 313668 | [313668-the-royal-romance-book-1.json](./313668-the-royal-romance-book-1.json) |
 | The Royal Romance: Book 2 | 313669 | [313669-the-royal-romance-book-2.json](./313669-the-royal-romance-book-2.json) |
 | The Royal Romance: Book 3 | 313670 | [313670-the-royal-romance-book-3.json](./313670-the-royal-romance-book-3.json) |
@@ -36810,6 +36814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try Shoot Me | 420819 | [420819-try-shoot-me.json](./420819-try-shoot-me.json) |
 | Try Them All! | 341852 | [341852-try-them-all.json](./341852-try-them-all.json) |
 | Try to Catch Me! | 372741 | [372741-try-to-catch-me.json](./372741-try-to-catch-me.json) |
 | Try to Catch Up | 174040 | [174040-try-to-catch-up.json](./174040-try-to-catch-up.json) |
