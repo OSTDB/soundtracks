@@ -572,9 +572,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL '94 | 4381 | [4381-madden-nfl-94.json](./4381-madden-nfl-94.json) |
 | Madden NFL '95 | 282501 | [282501-madden-nfl-95.json](./282501-madden-nfl-95.json) |
+| Madden NFL 06 | 243002 | [243002-madden-nfl-06.json](./243002-madden-nfl-06.json) |
+| Madden NFL 06 | 243003 | [243003-madden-nfl-06.json](./243003-madden-nfl-06.json) |
 | Madden NFL 06 | 243004 | [243004-madden-nfl-06.json](./243004-madden-nfl-06.json) |
 | Madden NFL 06 | 243005 | [243005-madden-nfl-06.json](./243005-madden-nfl-06.json) |
 | Madden NFL 06 | 243006 | [243006-madden-nfl-06.json](./243006-madden-nfl-06.json) |
+| Madden NFL 06 | 243007 | [243007-madden-nfl-06.json](./243007-madden-nfl-06.json) |
 | Madden NFL 06 | 5906 | [5906-madden-nfl-06.json](./5906-madden-nfl-06.json) |
 | Madden NFL 07 | 243008 | [243008-madden-nfl-07.json](./243008-madden-nfl-07.json) |
 | Madden NFL 07 | 243009 | [243009-madden-nfl-07.json](./243009-madden-nfl-07.json) |
@@ -641,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2005 | 243179 | [243179-madden-nfl-2005.json](./243179-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243180 | [243180-madden-nfl-2005.json](./243180-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
+| Madden NFL 2005 | 243182 | [243182-madden-nfl-2005.json](./243182-madden-nfl-2005.json) |
 | Madden NFL 2005 | 778 | [778-madden-nfl-2005.json](./778-madden-nfl-2005.json) |
 | Madden NFL 2005: Collector's Edition | 43381 | [43381-madden-nfl-2005-collectors-edition.json](./43381-madden-nfl-2005-collectors-edition.json) |
 | Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
@@ -15624,6 +15628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirt. Tales of the Cold Land. Chapter one | 71031 | [71031-mirt-tales-of-the-cold-land-chapter-one.json](./71031-mirt-tales-of-the-cold-land-chapter-one.json) |
 | Mirth Island | 249854 | [249854-mirth-island.json](./249854-mirth-island.json) |
 | Mirth Melody | 313781 | [313781-mirth-melody.json](./313781-mirth-melody.json) |
+| Mirthwood | 245751 | [245751-mirthwood.json](./245751-mirthwood.json) |
 | Mirum Orbis | 262482 | [262482-mirum-orbis.json](./262482-mirum-orbis.json) |
 | Miruri: Mahou Fuku Bouken | 408248 | [408248-miruri-mahou-fuku-bouken.json](./408248-miruri-mahou-fuku-bouken.json) |
 | Miryam: The Polluted Land | 333481 | [333481-miryam-the-polluted-land.json](./333481-miryam-the-polluted-land.json) |
@@ -17443,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mon Samsara | 181810 | [181810-mon-samsara.json](./181810-mon-samsara.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
 | Mon-Musu Master | 201462 | [201462-mon-musu-master.json](./201462-mon-musu-master.json) |
+| Mon-Yu: Defeat Monsters And Gain Strong Weapons And Armor. You May Be Defeated, But Don’t Give Up. Become Stronger. I Believe There Will Be A Day When The Heroes Defeat The Devil King. | 248298 | [248298-mon-yu-defeat-monsters-and-gain-strong-weapons-and-armor-you-may-be-defeated-but-don-t-give-up-become-stronger-i-believe-there-will-be-a-day-when-the-heroes-defeat-the-devil-king.json](./248298-mon-yu-defeat-monsters-and-gain-strong-weapons-and-armor-you-may-be-defeated-but-don-t-give-up-become-stronger-i-believe-there-will-be-a-day-when-the-heroes-defeat-the-devil-king.json) |
 | Mona | 201783 | [201783-mona.json](./201783-mona.json) |
 | Mona | 212161 | [212161-mona.json](./212161-mona.json) |
 | Mona | 217473 | [217473-mona.json](./217473-mona.json) |
@@ -18349,6 +18355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Steel Titans Power Out Bundle | 164614 | [164614-monster-jam-steel-titans-power-out-bundle.json](./164614-monster-jam-steel-titans-power-out-bundle.json) |
 | Monster Jam Steel Titans: Fire & Ice Truck Bundle | 225943 | [225943-monster-jam-steel-titans-fire-and-ice-truck-bundle.json](./225943-monster-jam-steel-titans-fire-and-ice-truck-bundle.json) |
 | Monster Jam: Crush It! | 42932 | [42932-monster-jam-crush-it.json](./42932-monster-jam-crush-it.json) |
+| Monster Jam: Maximum Destruction | 242805 | [242805-monster-jam-maximum-destruction.json](./242805-monster-jam-maximum-destruction.json) |
 | Monster Jam: Maximum Destruction | 4019 | [4019-monster-jam-maximum-destruction.json](./4019-monster-jam-maximum-destruction.json) |
 | Monster Jam: Path of Destruction | 5016 | [5016-monster-jam-path-of-destruction.json](./5016-monster-jam-path-of-destruction.json) |
 | Monster Jam: Urban Assault | 5017 | [5017-monster-jam-urban-assault.json](./5017-monster-jam-urban-assault.json) |
@@ -20582,6 +20589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 21 | 143772 | [143772-motogp-21.json](./143772-motogp-21.json) |
 | MotoGP 21: Limited Edition Liveries | 168363 | [168363-motogp-21-limited-edition-liveries.json](./168363-motogp-21-limited-edition-liveries.json) |
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
+| MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
 | MotoGP 23: Day One Edition | 243870 | [243870-motogp-23-day-one-edition.json](./243870-motogp-23-day-one-edition.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
