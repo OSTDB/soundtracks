@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
 | Fearcraft | 270840 | [270840-fearcraft.json](./270840-fearcraft.json) |
+| FeArea | 82534 | [82534-fearea.json](./82534-fearea.json) |
 | FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
 | FearFactor Institute | 356445 | [356445-fearfactor-institute.json](./356445-fearfactor-institute.json) |
 | Fearful Injection | 298204 | [298204-fearful-injection.json](./298204-fearful-injection.json) |
@@ -5037,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
 | FIFA 16 | 240448 | [240448-fifa-16.json](./240448-fifa-16.json) |
 | FIFA 16 | 240449 | [240449-fifa-16.json](./240449-fifa-16.json) |
+| FIFA 16: Deluxe Edition | 82446 | [82446-fifa-16-deluxe-edition.json](./82446-fifa-16-deluxe-edition.json) |
 | FIFA 17 | 240450 | [240450-fifa-17.json](./240450-fifa-17.json) |
 | FIFA 17: Deluxe Edition | 53044 | [53044-fifa-17-deluxe-edition.json](./53044-fifa-17-deluxe-edition.json) |
 | FIFA 18: ICON Edition | 83753 | [83753-fifa-18-icon-edition.json](./83753-fifa-18-icon-edition.json) |
@@ -5610,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIM Speedway Grand Prix 3 | 67676 | [67676-fim-speedway-grand-prix-3.json](./67676-fim-speedway-grand-prix-3.json) |
 | FIM Speedway Grand Prix 4 | 54044 | [54044-fim-speedway-grand-prix-4.json](./54044-fim-speedway-grand-prix-4.json) |
 | Fimbles: Fimbling Fun! | 307345 | [307345-fimbles-fimbling-fun.json](./307345-fimbles-fimbling-fun.json) |
+| Fimbul | 83614 | [83614-fimbul.json](./83614-fimbul.json) |
 | Fimbul Winter | 149891 | [149891-fimbul-winter.json](./149891-fimbul-winter.json) |
 | Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
 | Fimbul's Gemboree | 277621 | [277621-fimbuls-gemboree.json](./277621-fimbuls-gemboree.json) |
