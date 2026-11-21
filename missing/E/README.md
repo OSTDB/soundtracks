@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EatWell | 52268 | [52268-eatwell.json](./52268-eatwell.json) |
 | Eaves | 244439 | [244439-eaves.json](./244439-eaves.json) |
 | EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
+| Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
