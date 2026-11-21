@@ -5006,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giltsteader | 289774 | [289774-giltsteader.json](./289774-giltsteader.json) |
 | Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
 | Gimbal Gravity | 82450 | [82450-gimbal-gravity.json](./82450-gimbal-gravity.json) |
+| Gimbap Heaven | 424373 | [424373-gimbap-heaven.json](./424373-gimbap-heaven.json) |
 | Gimel Dimension | 108674 | [108674-gimel-dimension.json](./108674-gimel-dimension.json) |
 | Gimlé Trials | 335231 | [335231-gimle-trials.json](./335231-gimle-trials.json) |
 | Gimle: The Broken Prophecy | 180020 | [180020-gimle-the-broken-prophecy.json](./180020-gimle-the-broken-prophecy.json) |
@@ -6172,6 +6173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gninja Pig | 237129 | [237129-gninja-pig.json](./237129-gninja-pig.json) |
 | Gnoblins | 79406 | [79406-gnoblins.json](./79406-gnoblins.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
+| Gnom | 424442 | [424442-gnom.json](./424442-gnom.json) |
 | GNOM | 347377 | [347377-gnom.json](./347377-gnom.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon | 54650 | [54650-gnomageddon.json](./54650-gnomageddon.json) |
