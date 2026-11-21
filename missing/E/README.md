@@ -3158,7 +3158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
-| Elmarion: Dragon time | 123523 | [123523-elmarion-dragon-time.json](./123523-elmarion-dragon-time.json) |
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmer | 386737 | [386737-elmer.json](./386737-elmer.json) |
