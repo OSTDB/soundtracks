@@ -3907,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires in Arms | 215076 | [215076-empires-in-arms.json](./215076-empires-in-arms.json) |
 | Empires in Ruins | 51406 | [51406-empires-in-ruins.json](./51406-empires-in-ruins.json) |
+| Empires of Black Powder | 421507 | [421507-empires-of-black-powder.json](./421507-empires-of-black-powder.json) |
 | Empires of Creation | 34179 | [34179-empires-of-creation.json](./34179-empires-of-creation.json) |
 | Empires of Europe 1100 | 356158 | [356158-empires-of-europe-1100.json](./356158-empires-of-europe-1100.json) |
 | Empires of Europe 1700 | 356164 | [356164-empires-of-europe-1700.json](./356164-empires-of-europe-1700.json) |
