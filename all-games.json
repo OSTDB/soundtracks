@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T11:25:55.214Z",
-  "total_soundtracks": 3887,
+  "generated_at": "2026-11-21T12:25:54.377Z",
+  "total_soundtracks": 3888,
   "games": [
     {
       "igdb_id": 292844,
@@ -28071,6 +28071,20 @@
         {
           "album_name": "Neon White Soundtrack Part 1 \"The Wicked Heart\"",
           "spotify_url": "https://open.spotify.com/album/0uYxgIHjLcufVqbvOAeGDb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 126492,
+      "game_name": "NetHack: Legacy",
+      "game_url": "https://ostdb.net/games/nethack-legacy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27368cc4bc1b6039d131688556c",
+      "albums": [
+        {
+          "album_name": "NetHack: Legacy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7wFYNkZutJBdj20To8rHdW",
           "apple_music_url": "",
           "album_link_url": ""
         }
