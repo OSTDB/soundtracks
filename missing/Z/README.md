@@ -2914,10 +2914,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba Aqua | 176111 | [176111-zumba-aqua.json](./176111-zumba-aqua.json) |
 | Zumba Blitz | 214661 | [214661-zumba-blitz.json](./214661-zumba-blitz.json) |
 | Zumba Fitness | 3705 | [3705-zumba-fitness.json](./3705-zumba-fitness.json) |
+| Zumba Fitness 2 | 5306 | [5306-zumba-fitness-2.json](./5306-zumba-fitness-2.json) |
 | Zumba Fitness Core | 5307 | [5307-zumba-fitness-core.json](./5307-zumba-fitness-core.json) |
 | Zumba Fitness Party | 421399 | [421399-zumba-fitness-party.json](./421399-zumba-fitness-party.json) |
 | Zumba Fitness World Party | 5308 | [5308-zumba-fitness-world-party.json](./5308-zumba-fitness-world-party.json) |
 | Zumba Garden | 211320 | [211320-zumba-garden.json](./211320-zumba-garden.json) |
+| Zumba Kids | 5309 | [5309-zumba-kids.json](./5309-zumba-kids.json) |
 | Zumba Marble Blast | 309056 | [309056-zumba-marble-blast.json](./309056-zumba-marble-blast.json) |
 | Zumba Royal Marble Shooter Mania | 323107 | [323107-zumba-royal-marble-shooter-mania.json](./323107-zumba-royal-marble-shooter-mania.json) |
 | Zumba World: The Crazy Marble Dimension | 389076 | [389076-zumba-world-the-crazy-marble-dimension.json](./389076-zumba-world-the-crazy-marble-dimension.json) |
