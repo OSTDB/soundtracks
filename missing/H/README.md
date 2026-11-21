@@ -2920,7 +2920,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatayama Hacchi no Pro Yakyuu News! Jitsumei-ban: Yakult Swallows Senyou | 329819 | [329819-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yakult-swallows-senyou.json](./329819-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yakult-swallows-senyou.json) |
 | Hatayama Hacchi no Pro Yakyuu News! Jitsumei-ban: Yokohama Bay Stars Senyou | 329823 | [329823-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yokohama-bay-stars-senyou.json](./329823-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yokohama-bay-stars-senyou.json) |
 | Hatayama Hacchi no Pro Yakyuu News! Jitsumei-ban: Yomiuri Giants Senyou | 329820 | [329820-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yomiuri-giants-senyou.json](./329820-hatayama-hacchi-no-pro-yakyuu-news-jitsumei-ban-yomiuri-giants-senyou.json) |
-| Hatch | 122383 | [122383-hatch.json](./122383-hatch.json) |
 | Hatch | 169258 | [169258-hatch.json](./169258-hatch.json) |
 | Hatch | 314491 | [314491-hatch.json](./314491-hatch.json) |
 | Hatch and Slay | 33884 | [33884-hatch-and-slay.json](./33884-hatch-and-slay.json) |
@@ -6902,7 +6901,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Online | 253782 | [253782-hero-online.json](./253782-hero-online.json) |
 | Hero or Foe | 173232 | [173232-hero-or-foe.json](./173232-hero-or-foe.json) |
 | Hero or Villain: Battle Royale | 156927 | [156927-hero-or-villain-battle-royale.json](./156927-hero-or-villain-battle-royale.json) |
-| Hero or Villain: Genesis | 122452 | [122452-hero-or-villain-genesis.json](./122452-hero-or-villain-genesis.json) |
 | Hero or Villain: Genesis - Supercharged! | 265354 | [265354-hero-or-villain-genesis-supercharged.json](./265354-hero-or-villain-genesis-supercharged.json) |
 | Hero Pack | 340466 | [340466-hero-pack.json](./340466-hero-pack.json) |
 | Hero Panda Bomber | 60794 | [60794-hero-panda-bomber.json](./60794-hero-panda-bomber.json) |
@@ -12360,7 +12358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Springs Story 2 | 180274 | [180274-hot-springs-story-2.json](./180274-hot-springs-story-2.json) |
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
-| Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
 | Hot Stakes Casino: American Roulette | 360215 | [360215-hot-stakes-casino-american-roulette.json](./360215-hot-stakes-casino-american-roulette.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot steel | 129266 | [129266-hot-steel.json](./129266-hot-steel.json) |
