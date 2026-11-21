@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
 | Sakura Melody | 216921 | [216921-sakura-melody.json](./216921-sakura-melody.json) |
 | Sakura Mirror | 235413 | [235413-sakura-mirror.json](./235413-sakura-mirror.json) |
+| Sakura MMO 3 | 119492 | [119492-sakura-mmo-3.json](./119492-sakura-mmo-3.json) |
 | Sakura MMO Extra | 142522 | [142522-sakura-mmo-extra.json](./142522-sakura-mmo-extra.json) |
 | Sakura Mochi | 167485 | [167485-sakura-mochi.json](./167485-sakura-mochi.json) |
 | Sakura Momoko Gekijou: Kojikoji | 96493 | [96493-sakura-momoko-gekijou-kojikoji.json](./96493-sakura-momoko-gekijou-kojikoji.json) |
@@ -11249,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine of Haunts | 347336 | [347336-shrine-of-haunts.json](./347336-shrine-of-haunts.json) |
 | Shrine of Tails | 192763 | [192763-shrine-of-tails.json](./192763-shrine-of-tails.json) |
 | Shrine of the Forest God | 333463 | [333463-shrine-of-the-forest-god.json](./333463-shrine-of-the-forest-god.json) |
+| Shrine of the God-Ape | 120128 | [120128-shrine-of-the-god-ape.json](./120128-shrine-of-the-god-ape.json) |
 | Shrine of the Silver CyberPrimate | 261466 | [261466-shrine-of-the-silver-cyberprimate.json](./261466-shrine-of-the-silver-cyberprimate.json) |
 | Shrine of the Spirits | 231544 | [231544-shrine-of-the-spirits.json](./231544-shrine-of-the-spirits.json) |
 | Shrine of the Spirits: SS Hero | 230881 | [230881-shrine-of-the-spirits-ss-hero.json](./230881-shrine-of-the-spirits-ss-hero.json) |
@@ -23015,6 +23017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mercenary Shooter: Episode 2 | 173980 | [173980-space-mercenary-shooter-episode-2.json](./173980-space-mercenary-shooter-episode-2.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
+| Space Mercs | 119493 | [119493-space-mercs.json](./119493-space-mercs.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
 | Space Metal Mania | 420823 | [420823-space-metal-mania.json](./420823-space-metal-mania.json) |
 | Space Milkman: Tsuneo wa Uchuu no Gyuunyuuya-san | 108133 | [108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json](./108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json) |
@@ -30618,6 +30621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellarion | 334158 | [334158-stellarion.json](./334158-stellarion.json) |
 | Stellaris Pack | 428887 | [428887-stellaris-pack.json](./428887-stellaris-pack.json) |
+| Stellaris: Ancient Relics | 119187 | [119187-stellaris-ancient-relics.json](./119187-stellaris-ancient-relics.json) |
 | Stellaris: Apocalypse | 90095 | [90095-stellaris-apocalypse.json](./90095-stellaris-apocalypse.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
 | Stellaris: Astral Planes | 272910 | [272910-stellaris-astral-planes.json](./272910-stellaris-astral-planes.json) |
@@ -33890,6 +33894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
 | Sudden Strike 3: The Last Stand | 155243 | [155243-sudden-strike-3-the-last-stand.json](./155243-sudden-strike-3-the-last-stand.json) |
 | Sudden Strike 4: Africa-Desert War | 111053 | [111053-sudden-strike-4-africa-desert-war.json](./111053-sudden-strike-4-africa-desert-war.json) |
+| Sudden Strike 4: Complete Collection | 119921 | [119921-sudden-strike-4-complete-collection.json](./119921-sudden-strike-4-complete-collection.json) |
 | Sudden Strike 4: European Battlefields Edition | 104244 | [104244-sudden-strike-4-european-battlefields-edition.json](./104244-sudden-strike-4-european-battlefields-edition.json) |
 | Sudden Strike 4: Finland - Winter Storm | 124799 | [124799-sudden-strike-4-finland-winter-storm.json](./124799-sudden-strike-4-finland-winter-storm.json) |
 | Sudden Strike 4: Road to Dunkirk | 124839 | [124839-sudden-strike-4-road-to-dunkirk.json](./124839-sudden-strike-4-road-to-dunkirk.json) |
@@ -37438,6 +37443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nasu Bros | 225439 | [225439-super-nasu-bros.json](./225439-super-nasu-bros.json) |
 | Super Nate Adventure | 138589 | [138589-super-nate-adventure.json](./138589-super-nate-adventure.json) |
 | Super Natural Dorm | 347762 | [347762-super-natural-dorm.json](./347762-super-natural-dorm.json) |
+| Super Naughty Maid | 119037 | [119037-super-naughty-maid.json](./119037-super-naughty-maid.json) |
 | Super Naughty Maid 2 | 122106 | [122106-super-naughty-maid-2.json](./122106-super-naughty-maid-2.json) |
 | Super Navecitas 2 | 110512 | [110512-super-navecitas-2.json](./110512-super-navecitas-2.json) |
 | Super Naxat Open | 37809 | [37809-super-naxat-open.json](./37809-super-naxat-open.json) |
