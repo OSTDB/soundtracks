@@ -4155,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
 | Heartwood Village | 426628 | [426628-heartwood-village.json](./426628-heartwood-village.json) |
+| Hearty Haven: Amalgamated | 422867 | [422867-hearty-haven-amalgamated.json](./422867-hearty-haven-amalgamated.json) |
 | HeartZ | 18578 | [18578-heartz.json](./18578-heartz.json) |
 | HeartZ: Co-Hope Puzzles | 35803 | [35803-heartz-co-hope-puzzles.json](./35803-heartz-co-hope-puzzles.json) |
 | Heat | 113542 | [113542-heat.json](./113542-heat.json) |
@@ -11851,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Gallery | 262908 | [262908-horror-gallery.json](./262908-horror-gallery.json) |
 | Horror Game | 275273 | [275273-horror-game.json](./275273-horror-game.json) |
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
+| Horror Game Creator | 422889 | [422889-horror-game-creator.json](./422889-horror-game-creator.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
