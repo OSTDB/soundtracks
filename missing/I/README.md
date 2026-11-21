@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Rush | 232348 | [232348-ice-cream-rush.json](./232348-ice-cream-rush.json) |
 | Ice Cream Simulator | 345665 | [345665-ice-cream-simulator.json](./345665-ice-cream-simulator.json) |
 | Ice Cream Stall | 63711 | [63711-ice-cream-stall.json](./63711-ice-cream-stall.json) |
+| Ice Cream Surfer | 35442 | [35442-ice-cream-surfer.json](./35442-ice-cream-surfer.json) |
 | Ice Cream Together: A Cozy Parlor Simulator | 343163 | [343163-ice-cream-together-a-cozy-parlor-simulator.json](./343163-ice-cream-together-a-cozy-parlor-simulator.json) |
 | Ice Cream Trip | 207829 | [207829-ice-cream-trip.json](./207829-ice-cream-trip.json) |
 | Ice Cream Truck | 155511 | [155511-ice-cream-truck.json](./155511-ice-cream-truck.json) |
@@ -2028,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Knight | 177464 | [177464-idol-knight.json](./177464-idol-knight.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Magical Girl Chiru Chiru Michiru | 11538 | [11538-idol-magical-girl-chiru-chiru-michiru.json](./11538-idol-magical-girl-chiru-chiru-michiru.json) |
+| Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
 | Idol Maker VR | 322286 | [322286-idol-maker-vr.json](./322286-idol-maker-vr.json) |
