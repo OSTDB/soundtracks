@@ -17029,7 +17029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Base 10 | 84764 | [84764-art-style-base-10.json](./84764-art-style-base-10.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
-| Art Style: Light Trax | 6567 | [6567-art-style-light-trax.json](./6567-art-style-light-trax.json) |
 | Art Style: Orbient | 21181 | [21181-art-style-orbient.json](./21181-art-style-orbient.json) |
 | Art Style: Pictobits | 21672 | [21672-art-style-pictobits.json](./21672-art-style-pictobits.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
