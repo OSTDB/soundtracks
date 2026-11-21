@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Carnations | 239316 | [239316-pale-carnations.json](./239316-pale-carnations.json) |
 | Pale Cinder | 242187 | [242187-pale-cinder.json](./242187-pale-cinder.json) |
 | Pale Coins | 253876 | [253876-pale-coins.json](./253876-pale-coins.json) |
+| Pale Echoes | 35068 | [35068-pale-echoes.json](./35068-pale-echoes.json) |
 | Pale Incense | 419481 | [419481-pale-incense.json](./419481-pale-incense.json) |
 | Pale Lands VR | 86636 | [86636-pale-lands-vr.json](./86636-pale-lands-vr.json) |
 | Pale Luna | 393080 | [393080-pale-luna.json](./393080-pale-luna.json) |
@@ -14264,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongis Run | 126084 | [126084-pongis-run.json](./126084-pongis-run.json) |
 | PonGlow | 119474 | [119474-ponglow.json](./119474-ponglow.json) |
 | Pongmatic 2300 | 256211 | [256211-pongmatic-2300.json](./256211-pongmatic-2300.json) |
+| Pongo | 35298 | [35298-pongo.json](./35298-pongo.json) |
 | Pongo! | 137708 | [137708-pongo.json](./137708-pongo.json) |
 | Pongo17 | 251371 | [251371-pongo17.json](./251371-pongo17.json) |
 | PongPD | 364428 | [364428-pongpd.json](./364428-pongpd.json) |
@@ -14998,6 +15000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Mortal | 156713 | [156713-portal-mortal.json](./156713-portal-mortal.json) |
 | Portal Of Doom: Undead Rising | 241738 | [241738-portal-of-doom-undead-rising.json](./241738-portal-of-doom-undead-rising.json) |
 | Portal of Evil: Stolen Runes | 77206 | [77206-portal-of-evil-stolen-runes.json](./77206-portal-of-evil-stolen-runes.json) |
+| Portal of Evil: Stolen Runes - Collector's Edition | 35451 | [35451-portal-of-evil-stolen-runes-collectors-edition.json](./35451-portal-of-evil-stolen-runes-collectors-edition.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pinball | 354680 | [354680-portal-pinball.json](./354680-portal-pinball.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
