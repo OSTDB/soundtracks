@@ -11364,6 +11364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
 | Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
 | Lunar Mirror: Moon Night Without Light | 296964 | [296964-lunar-mirror-moon-night-without-light.json](./296964-lunar-mirror-moon-night-without-light.json) |
+| Lunar Mission 2 | 418950 | [418950-lunar-mission-2.json](./418950-lunar-mission-2.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
 | Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
 | Lunar New Year | 305680 | [305680-lunar-new-year.json](./305680-lunar-new-year.json) |
