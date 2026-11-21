@@ -14642,6 +14642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Saisen | 42838 | [42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json](./42838-rurouni-kenshin-meiji-kenkaku-romantan-saisen.json) |
 | Ruru's Christmas Run | 184738 | [184738-rurus-christmas-run.json](./184738-rurus-christmas-run.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
+| Rus: Source | 428480 | [428480-rus-source.json](./428480-rus-source.json) |
 | Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
 | Rusalka Wrath | 427218 | [427218-rusalka-wrath.json](./427218-rusalka-wrath.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
