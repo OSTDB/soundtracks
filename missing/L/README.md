@@ -3012,7 +3012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Of Ghost Slayer Idle | 245376 | [245376-legend-of-ghost-slayer-idle.json](./245376-legend-of-ghost-slayer-idle.json) |
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Gods | 429155 | [429155-legend-of-gods.json](./429155-legend-of-gods.json) |
-| Legend of Golfer | 3972 | [3972-legend-of-golfer.json](./3972-legend-of-golfer.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Hero Tonma | 10453 | [10453-legend-of-hero-tonma.json](./10453-legend-of-hero-tonma.json) |
@@ -3127,7 +3126,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Corndog(s) | 382551 | [382551-legend-of-the-corndog-s.json](./382551-legend-of-the-corndog-s.json) |
 | Legend of the Cryptids | 59606 | [59606-legend-of-the-cryptids.json](./59606-legend-of-the-cryptids.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
-| Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
 | Legend of the Dragon Slayer | 395304 | [395304-legend-of-the-dragon-slayer.json](./395304-legend-of-the-dragon-slayer.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
@@ -6411,7 +6409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2003 | 22068 | [22068-links-2003.json](./22068-links-2003.json) |
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
 | Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
-| Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
 | Links 386 CD | 22610 | [22610-links-386-cd.json](./22610-links-386-cd.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6 | 152507 | [152507-links-e6.json](./152507-links-e6.json) |
@@ -11159,7 +11156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines II | 4690 | [4690-lumines-ii.json](./4690-lumines-ii.json) |
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
-| Lumines Supernova | 4692 | [4692-lumines-supernova.json](./4692-lumines-supernova.json) |
 | Lumines: Advance Pack | 66219 | [66219-lumines-advance-pack.json](./66219-lumines-advance-pack.json) |
 | Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
