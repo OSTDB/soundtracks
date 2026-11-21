@@ -1137,7 +1137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs Demake | 222699 | [222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json](./222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json) |
 | A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
-| A Nightmare's Trip | 123906 | [123906-a-nightmares-trip.json](./123906-a-nightmares-trip.json) |
 | A Nights Haunting: Source | 333857 | [333857-a-nights-haunting-source.json](./333857-a-nights-haunting-source.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
@@ -3659,7 +3658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actua Golf 4 | 356274 | [356274-actua-golf-4.json](./356274-actua-golf-4.json) |
 | Actua Ice Hockey | 68964 | [68964-actua-ice-hockey.json](./68964-actua-ice-hockey.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
-| Actua Pool | 122734 | [122734-actua-pool.json](./122734-actua-pool.json) |
 | Actua Soccer 2 | 1993 | [1993-actua-soccer-2.json](./1993-actua-soccer-2.json) |
 | Actua Soccer 3 | 1994 | [1994-actua-soccer-3.json](./1994-actua-soccer-3.json) |
 | Actua Soccer: Club Edition | 1992 | [1992-actua-soccer-club-edition.json](./1992-actua-soccer-club-edition.json) |
@@ -12412,7 +12410,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
 | Anmynor Puzzles | 17040 | [17040-anmynor-puzzles.json](./17040-anmynor-puzzles.json) |
 | Ann | 165483 | [165483-ann.json](./165483-ann.json) |
-| Ann Achronist: Many Happy Returns | 123949 | [123949-ann-achronist-many-happy-returns.json](./123949-ann-achronist-many-happy-returns.json) |
 | Ann's Parlor | 415803 | [415803-anns-parlor.json](./415803-anns-parlor.json) |
 | Anna | 388893 | [388893-anna.json](./388893-anna.json) |
 | Anna | 9976 | [9976-anna.json](./9976-anna.json) |
@@ -17033,7 +17030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of War 2: Global Confederation | 415646 | [415646-art-of-war-2-global-confederation.json](./415646-art-of-war-2-global-confederation.json) |
 | Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
-| Art Plunge | 122437 | [122437-art-plunge.json](./122437-art-plunge.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
 | Art Reborn: Painting Connoisseur | 268061 | [268061-art-reborn-painting-connoisseur.json](./268061-art-reborn-painting-connoisseur.json) |
@@ -17607,7 +17603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Ashen: Definitive Edition | 165871 | [165871-ashen-definitive-edition.json](./165871-ashen-definitive-edition.json) |
 | Ashen: Nightstorm Isle | 133044 | [133044-ashen-nightstorm-isle.json](./133044-ashen-nightstorm-isle.json) |
-| AshenForest | 124236 | [124236-ashenforest.json](./124236-ashenforest.json) |
 | Ashentia Hauntings | 386822 | [386822-ashentia-hauntings.json](./386822-ashentia-hauntings.json) |
 | Asher | 184726 | [184726-asher.json](./184726-asher.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
@@ -19052,7 +19047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | Astronought | 399988 | [399988-astronought.json](./399988-astronought.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
-| AstronTycoon2: Ritual | 123825 | [123825-astrontycoon2-ritual.json](./123825-astrontycoon2-ritual.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
 | AstroPanic | 275761 | [275761-astropanic.json](./275761-astropanic.json) |
