@@ -610,7 +610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Garden on the Sea | 185236 | [185236-a-garden-on-the-sea.json](./185236-a-garden-on-the-sea.json) |
 | A Gay Dragon | 114634 | [114634-a-gay-dragon.json](./114634-a-gay-dragon.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
-| A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
 | A Gentleman's Adventure | 176557 | [176557-a-gentlemans-adventure.json](./176557-a-gentlemans-adventure.json) |
 | A Gentlemanly Adventure | 104844 | [104844-a-gentlemanly-adventure.json](./104844-a-gentlemanly-adventure.json) |
 | A Ghost and a Snail | 401322 | [401322-a-ghost-and-a-snail.json](./401322-a-ghost-and-a-snail.json) |
@@ -2223,7 +2222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
 | Abatron | 25556 | [25556-abatron.json](./25556-abatron.json) |
 | Abattoir: Cow Escape | 390354 | [390354-abattoir-cow-escape.json](./390354-abattoir-cow-escape.json) |
-| ABBA: You Can Dance | 3305 | [3305-abba-you-can-dance.json](./3305-abba-you-can-dance.json) |
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
@@ -6060,7 +6058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-1 Viper Cobra Ops | 223959 | [223959-ah-1-viper-cobra-ops.json](./223959-ah-1-viper-cobra-ops.json) |
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | AH-64 Apache Air Assault | 55974 | [55974-ah-64-apache-air-assault.json](./55974-ah-64-apache-air-assault.json) |
-| AH-64D Longbow | 592 | [592-ah-64d-longbow.json](./592-ah-64d-longbow.json) |
 | AH-64D Longbow Gold | 50104 | [50104-ah-64d-longbow-gold.json](./50104-ah-64d-longbow-gold.json) |
 | AH-64D Longbow: Flash Point Korea | 73686 | [73686-ah-64d-longbow-flash-point-korea.json](./73686-ah-64d-longbow-flash-point-korea.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
@@ -10809,7 +10806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarchy: Wolf's Law - Summer Adventure | 226222 | [226222-anarchy-wolfs-law-summer-adventure.json](./226222-anarchy-wolfs-law-summer-adventure.json) |
 | AnarchyField: Infinite Euphoric Level Destruction | 273639 | [273639-anarchyfield-infinite-euphoric-level-destruction.json](./273639-anarchyfield-infinite-euphoric-level-destruction.json) |
 | Anarcute | 20471 | [20471-anarcute.json](./20471-anarcute.json) |
-| Anarea Battle Royale | 128037 | [128037-anarea-battle-royale.json](./128037-anarea-battle-royale.json) |
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anaria: Reborn | 391383 | [391383-anaria-reborn.json](./391383-anaria-reborn.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
@@ -11233,7 +11229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
 | Angel Collection 2: Pichimo Ni Narou | 49449 | [49449-angel-collection-2-pichimo-ni-narou.json](./49449-angel-collection-2-pichimo-ni-narou.json) |
 | Angel Collection: Mezase! Gakuen no Fashion Leader | 49448 | [49448-angel-collection-mezase-gakuen-no-fashion-leader.json](./49448-angel-collection-mezase-gakuen-no-fashion-leader.json) |
-| Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
@@ -12849,7 +12844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
 | Another Tomorrow | 193707 | [193707-another-tomorrow.json](./193707-another-tomorrow.json) |
-| Another Try | 127097 | [127097-another-try.json](./127097-another-try.json) |
 | Another Try 2 | 291460 | [291460-another-try-2.json](./291460-another-try-2.json) |
 | Another Vic in the Wall | 83267 | [83267-another-vic-in-the-wall.json](./83267-another-vic-in-the-wall.json) |
 | Another War | 68992 | [68992-another-war.json](./68992-another-war.json) |
@@ -13282,7 +13276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
 | Anvil Empires | 243273 | [243273-anvil-empires.json](./243273-anvil-empires.json) |
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
-| Anvil of Dawn | 2427 | [2427-anvil-of-dawn.json](./2427-anvil-of-dawn.json) |
 | Anvil of Tristheim | 263977 | [263977-anvil-of-tristheim.json](./263977-anvil-of-tristheim.json) |
 | Anvil Saga | 152766 | [152766-anvil-saga.json](./152766-anvil-saga.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
@@ -13434,7 +13427,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
 | Apachacha | 92565 | [92565-apachacha.json](./92565-apachacha.json) |
 | Apache | 245155 | [245155-apache.json](./245155-apache.json) |
-| Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache 3 | 39322 | [39322-apache-3.json](./39322-apache-3.json) |
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
@@ -16959,7 +16951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Beauties | 385791 | [385791-art-of-beauties.json](./385791-art-of-beauties.json) |
 | Art of Blades | 292428 | [292428-art-of-blades.json](./292428-art-of-blades.json) |
 | Art of Bloodshed | 350747 | [350747-art-of-bloodshed.json](./350747-art-of-bloodshed.json) |
-| Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Conquest | 79154 | [79154-art-of-conquest.json](./79154-art-of-conquest.json) |
 | Art of Deception | 127404 | [127404-art-of-deception.json](./127404-art-of-deception.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
@@ -21394,7 +21385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya-chan wo Sagase! | 403289 | [403289-aya-chan-wo-sagase.json](./403289-aya-chan-wo-sagase.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Aya's Journey | 55747 | [55747-ayas-journey.json](./55747-ayas-journey.json) |
-| Ayahuasca | 128131 | [128131-ayahuasca.json](./128131-ayahuasca.json) |
 | Ayahuasca: Polyventure | 81599 | [81599-ayahuasca-polyventure.json](./81599-ayahuasca-polyventure.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Akashi | 148006 | [148006-ayakashi-akashi.json](./148006-ayakashi-akashi.json) |
