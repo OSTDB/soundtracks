@@ -24876,6 +24876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellSlingers | 212927 | [212927-spellslingers.json](./212927-spellslingers.json) |
 | Spellsouls - Duel of Legends | 26908 | [26908-spellsouls-duel-of-legends.json](./26908-spellsouls-duel-of-legends.json) |
 | Spellsphere | 235435 | [235435-spellsphere.json](./235435-spellsphere.json) |
+| Spellspill: Magic Destruction Sandbox | 424941 | [424941-spellspill-magic-destruction-sandbox.json](./424941-spellspill-magic-destruction-sandbox.json) |
 | Spellspire | 36462 | [36462-spellspire.json](./36462-spellspire.json) |
 | Spellstone | 26794 | [26794-spellstone.json](./26794-spellstone.json) |
 | Spellstorm | 145869 | [145869-spellstorm.json](./145869-spellstorm.json) |
@@ -30096,6 +30097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealth Syndicate | 320643 | [320643-stealth-syndicate.json](./320643-stealth-syndicate.json) |
 | Stealth The Hedgehog | 316532 | [316532-stealth-the-hedgehog.json](./316532-stealth-the-hedgehog.json) |
+| Stealthmate: A Chess Puzzle | 424928 | [424928-stealthmate-a-chess-puzzle.json](./424928-stealthmate-a-chess-puzzle.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
 | Stealthy Guy | 102573 | [102573-stealthy-guy.json](./102573-stealthy-guy.json) |
 | Stealthy Ninja | 149384 | [149384-stealthy-ninja.json](./149384-stealthy-ninja.json) |
@@ -33136,6 +33138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stripper Anya: Demon Slayer | 51511 | [51511-stripper-anya-demon-slayer.json](./51511-stripper-anya-demon-slayer.json) |
 | Strippers | 240145 | [240145-strippers.json](./240145-strippers.json) |
 | Striptease | 128692 | [128692-striptease.json](./128692-striptease.json) |
+| Stripy: Lost & Hungry | 424933 | [424933-stripy-lost-and-hungry.json](./424933-stripy-lost-and-hungry.json) |
 | Strive | 102883 | [102883-strive.json](./102883-strive.json) |
 | Strive For Power: King Growth Program | 308868 | [308868-strive-for-power-king-growth-program.json](./308868-strive-for-power-king-growth-program.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
