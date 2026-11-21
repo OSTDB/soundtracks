@@ -4871,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
 | Injustice: Gods Among Us - Ame-Comi Skins | 75477 | [75477-injustice-gods-among-us-ame-comi-skins.json](./75477-injustice-gods-among-us-ame-comi-skins.json) |
 | Injustice: Gods Among Us - Arkham City Skin Pack | 75459 | [75459-injustice-gods-among-us-arkham-city-skin-pack.json](./75459-injustice-gods-among-us-arkham-city-skin-pack.json) |
+| Injustice: Gods Among Us - Arrow Skin | 422896 | [422896-injustice-gods-among-us-arrow-skin.json](./422896-injustice-gods-among-us-arrow-skin.json) |
 | Injustice: Gods Among Us - Bad Girls Skins | 75453 | [75453-injustice-gods-among-us-bad-girls-skins.json](./75453-injustice-gods-among-us-bad-girls-skins.json) |
 | Injustice: Gods Among Us - Batgirl | 75437 | [75437-injustice-gods-among-us-batgirl.json](./75437-injustice-gods-among-us-batgirl.json) |
 | Injustice: Gods Among Us - Blackest Night Pack 1 | 75474 | [75474-injustice-gods-among-us-blackest-night-pack-1.json](./75474-injustice-gods-among-us-blackest-night-pack-1.json) |
@@ -4881,13 +4882,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Compat Pack 4: Classic Ares Skin | 422930 | [422930-injustice-gods-among-us-compat-pack-4-classic-ares-skin.json](./422930-injustice-gods-among-us-compat-pack-4-classic-ares-skin.json) |
 | Injustice: Gods Among Us - Compat Pack 5: John Stewart Green Lantern Skin | 422931 | [422931-injustice-gods-among-us-compat-pack-5-john-stewart-green-lantern-skin.json](./422931-injustice-gods-among-us-compat-pack-5-john-stewart-green-lantern-skin.json) |
 | Injustice: Gods Among Us - Compat Pack 6: Cyborg Superman Skin | 422933 | [422933-injustice-gods-among-us-compat-pack-6-cyborg-superman-skin.json](./422933-injustice-gods-among-us-compat-pack-6-cyborg-superman-skin.json) |
+| Injustice: Gods Among Us - Earth 2 Pack | 422898 | [422898-injustice-gods-among-us-earth-2-pack.json](./422898-injustice-gods-among-us-earth-2-pack.json) |
 | Injustice: Gods Among Us - Flashpoint Skin Pack | 75479 | [75479-injustice-gods-among-us-flashpoint-skin-pack.json](./75479-injustice-gods-among-us-flashpoint-skin-pack.json) |
 | Injustice: Gods Among Us - General Zod | 75440 | [75440-injustice-gods-among-us-general-zod.json](./75440-injustice-gods-among-us-general-zod.json) |
 | Injustice: Gods Among Us - Killing Joke Pack | 75473 | [75473-injustice-gods-among-us-killing-joke-pack.json](./75473-injustice-gods-among-us-killing-joke-pack.json) |
 | Injustice: Gods Among Us - Lobo | 75438 | [75438-injustice-gods-among-us-lobo.json](./75438-injustice-gods-among-us-lobo.json) |
 | Injustice: Gods Among Us - Martian Manhunter | 75467 | [75467-injustice-gods-among-us-martian-manhunter.json](./75467-injustice-gods-among-us-martian-manhunter.json) |
+| Injustice: Gods Among Us - New 52s Skin Pack | 422902 | [422902-injustice-gods-among-us-new-52s-skin-pack.json](./422902-injustice-gods-among-us-new-52s-skin-pack.json) |
 | Injustice: Gods Among Us - Red Son Pack | 75457 | [75457-injustice-gods-among-us-red-son-pack.json](./75457-injustice-gods-among-us-red-son-pack.json) |
 | Injustice: Gods Among Us - Red Son Pack 2 | 75480 | [75480-injustice-gods-among-us-red-son-pack-2.json](./75480-injustice-gods-among-us-red-son-pack-2.json) |
+| Injustice: Gods Among Us - S.T.A.R. Labs Missions | 422716 | [422716-injustice-gods-among-us-s-t-a-r-labs-missions.json](./422716-injustice-gods-among-us-s-t-a-r-labs-missions.json) |
 | Injustice: Gods Among Us - Scorpion | 75439 | [75439-injustice-gods-among-us-scorpion.json](./75439-injustice-gods-among-us-scorpion.json) |
 | Injustice: Gods Among Us - Special Edition | 212252 | [212252-injustice-gods-among-us-special-edition.json](./212252-injustice-gods-among-us-special-edition.json) |
 | Injustice: Gods Among Us - Teen Titans Skins | 75469 | [75469-injustice-gods-among-us-teen-titans-skins.json](./75469-injustice-gods-among-us-teen-titans-skins.json) |
@@ -7141,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSketch | 143375 | [143375-isketch.json](./143375-isketch.json) |
 | Iskhaar3D | 285524 | [285524-iskhaar3d.json](./285524-iskhaar3d.json) |
 | Iskib | 138526 | [138526-iskib.json](./138526-iskib.json) |
+| Iskra | 422872 | [422872-iskra.json](./422872-iskra.json) |
 | Isla de la Muerte | 399734 | [399734-isla-de-la-muerte.json](./399734-isla-de-la-muerte.json) |
 | Isla Dorada: Episode 1 - The Sands of Ephranis | 210046 | [210046-isla-dorada-episode-1-the-sands-of-ephranis.json](./210046-isla-dorada-episode-1-the-sands-of-ephranis.json) |
 | Isla Hearts | 418849 | [418849-isla-hearts.json](./418849-isla-hearts.json) |
