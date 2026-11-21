@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
+| 2236 A.D. | 101249 | [101249-2236-a-d.json](./101249-2236-a-d.json) |
 | 2236 A.D. Secretary Stories | 166936 | [166936-2236-a-d-secretary-stories.json](./166936-2236-a-d-secretary-stories.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
