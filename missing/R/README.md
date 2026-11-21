@@ -4603,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Planet Farming | 132428 | [132428-red-planet-farming.json](./132428-red-planet-farming.json) |
 | Red Planet Rampage | 291178 | [291178-red-planet-rampage.json](./291178-red-planet-rampage.json) |
 | Red Planet Rampart | 311205 | [311205-red-planet-rampart.json](./311205-red-planet-rampart.json) |
+| Red Planet Rescue | 418944 | [418944-red-planet-rescue.json](./418944-red-planet-rescue.json) |
 | Red Planet: Survive | 327919 | [327919-red-planet-survive.json](./327919-red-planet-survive.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Princess | 420820 | [420820-red-princess.json](./420820-red-princess.json) |
@@ -6741,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Grounds | 340698 | [340698-restless-grounds.json](./340698-restless-grounds.json) |
 | Restless Hero | 121939 | [121939-restless-hero.json](./121939-restless-hero.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
+| Restless II | 418942 | [418942-restless-ii.json](./418942-restless-ii.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
 | Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
 | Restless Night | 154901 | [154901-restless-night.json](./154901-restless-night.json) |
