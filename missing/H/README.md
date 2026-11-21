@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Harry: Ghost Building Company | 49048 | [49048-hammerin-harry-ghost-building-company.json](./49048-hammerin-harry-ghost-building-company.json) |
 | Hammerin' Hero | 42842 | [42842-hammerin-hero.json](./42842-hammerin-hero.json) |
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
+| Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
 | Hammerwatch II: Anniversary Pack | 280576 | [280576-hammerwatch-ii-anniversary-pack.json](./280576-hammerwatch-ii-anniversary-pack.json) |
 | Hammerwatch II: The Chronicles Edition | 243872 | [243872-hammerwatch-ii-the-chronicles-edition.json](./243872-hammerwatch-ii-the-chronicles-edition.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
@@ -8573,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Threats | 95323 | [95323-hidden-threats.json](./95323-hidden-threats.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Through Time 2: Discovery | 291422 | [291422-hidden-through-time-2-discovery.json](./291422-hidden-through-time-2-discovery.json) |
+| Hidden Through Time 2: Myths & Magic | 247907 | [247907-hidden-through-time-2-myths-and-magic.json](./247907-hidden-through-time-2-myths-and-magic.json) |
 | Hidden Through Time: Aztec Rituals | 212224 | [212224-hidden-through-time-aztec-rituals.json](./212224-hidden-through-time-aztec-rituals.json) |
 | Hidden Through Time: Definitive Edition | 198127 | [198127-hidden-through-time-definitive-edition.json](./198127-hidden-through-time-definitive-edition.json) |
 | Hidden Through Time: Deluxe Edition | 237852 | [237852-hidden-through-time-deluxe-edition.json](./237852-hidden-through-time-deluxe-edition.json) |
