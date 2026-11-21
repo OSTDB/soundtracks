@@ -9383,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Roam Free | 388224 | [388224-the-dead-roam-free.json](./388224-the-dead-roam-free.json) |
 | The Dead Rooms | 204229 | [204229-the-dead-rooms.json](./204229-the-dead-rooms.json) |
 | The Dead Sea Scrolls Adventure | 203798 | [203798-the-dead-sea-scrolls-adventure.json](./203798-the-dead-sea-scrolls-adventure.json) |
+| The Dead Thread | 424938 | [424938-the-dead-thread.json](./424938-the-dead-thread.json) |
 | The Dead Town: Walking Zombies | 104556 | [104556-the-dead-town-walking-zombies.json](./104556-the-dead-town-walking-zombies.json) |
 | The Dead Tree of Ranchiuna | 114513 | [114513-the-dead-tree-of-ranchiuna.json](./114513-the-dead-tree-of-ranchiuna.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
@@ -26347,6 +26348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
 | Timbertales | 51722 | [51722-timbertales.json](./51722-timbertales.json) |
 | Timberveil | 382757 | [382757-timberveil.json](./382757-timberveil.json) |
+| Timberworks | 425024 | [425024-timberworks.json](./425024-timberworks.json) |
 | Timbi.World | 176666 | [176666-timbi-world.json](./176666-timbi-world.json) |
 | Timbre Star | 83147 | [83147-timbre-star.json](./83147-timbre-star.json) |
 | TimbrianGuard | 422975 | [422975-timbrianguard.json](./422975-timbrianguard.json) |
