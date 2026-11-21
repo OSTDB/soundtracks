@@ -1249,7 +1249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 282483 | [282483-jeopardy.json](./282483-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
-| Jeopardy! | 3396 | [3396-jeopardy.json](./3396-jeopardy.json) |
 | Jeopardy! | 350913 | [350913-jeopardy.json](./350913-jeopardy.json) |
 | Jeopardy! | 414513 | [414513-jeopardy.json](./414513-jeopardy.json) |
 | Jeopardy! | 64476 | [64476-jeopardy.json](./64476-jeopardy.json) |
@@ -1651,7 +1650,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Atlantis Solitaire 3: Collector's Edition | 195949 | [195949-jewel-match-atlantis-solitaire-3-collectors-edition.json](./195949-jewel-match-atlantis-solitaire-3-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 4: Collector's Edition | 265343 | [265343-jewel-match-atlantis-solitaire-4-collectors-edition.json](./265343-jewel-match-atlantis-solitaire-4-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
-| Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
 | Jewel Match IV | 128477 | [128477-jewel-match-iv.json](./128477-jewel-match-iv.json) |
 | Jewel Match Origins 2: Bavarian Palace - Collector's Edition | 197487 | [197487-jewel-match-origins-2-bavarian-palace-collectors-edition.json](./197487-jewel-match-origins-2-bavarian-palace-collectors-edition.json) |
 | Jewel Match Origins 3: Camelot Castle - Collector's Edition | 295759 | [295759-jewel-match-origins-3-camelot-castle-collectors-edition.json](./295759-jewel-match-origins-3-camelot-castle-collectors-edition.json) |
@@ -4415,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 2: Prehistoric Marine Species Pack | 259955 | [259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json](./259955-jurassic-world-evolution-2-prehistoric-marine-species-pack.json) |
 | Jurassic World Evolution 2: Secret Species Pack | 290758 | [290758-jurassic-world-evolution-2-secret-species-pack.json](./290758-jurassic-world-evolution-2-secret-species-pack.json) |
+| Jurassic World Evolution 3 | 347650 | [347650-jurassic-world-evolution-3.json](./347650-jurassic-world-evolution-3.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution 3: Rebirth Expansion | 407074 | [407074-jurassic-world-evolution-3-rebirth-expansion.json](./407074-jurassic-world-evolution-3-rebirth-expansion.json) |
 | Jurassic World Evolution: Carnivore Dinosaur Pack | 152605 | [152605-jurassic-world-evolution-carnivore-dinosaur-pack.json](./152605-jurassic-world-evolution-carnivore-dinosaur-pack.json) |
@@ -4612,7 +4611,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance Kids 2 | 3300 | [3300-just-dance-kids-2.json](./3300-just-dance-kids-2.json) |
 | Just Dance Kids 2014 | 3301 | [3301-just-dance-kids-2014.json](./3301-just-dance-kids-2014.json) |
 | Just Dance VR | 241442 | [241442-just-dance-vr.json](./241442-just-dance-vr.json) |
-| Just Dance Wii | 3297 | [3297-just-dance-wii.json](./3297-just-dance-wii.json) |
 | Just Dance Wii 2 | 3298 | [3298-just-dance-wii-2.json](./3298-just-dance-wii-2.json) |
 | Just Dance Wii U | 15560 | [15560-just-dance-wii-u.json](./15560-just-dance-wii-u.json) |
 | Just Dance: Best Of | 3303 | [3303-just-dance-best-of.json](./3303-just-dance-best-of.json) |
