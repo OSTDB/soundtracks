@@ -6637,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
 | Resonance of Fate 4K/HD Edition: Collector's Edition | 167150 | [167150-resonance-of-fate-4k-hd-edition-collectors-edition.json](./167150-resonance-of-fate-4k-hd-edition-collectors-edition.json) |
+| Resonance of Fate Enhanced Remaster | 426714 | [426714-resonance-of-fate-enhanced-remaster.json](./426714-resonance-of-fate-enhanced-remaster.json) |
 | Resonance Solstice | 193786 | [193786-resonance-solstice.json](./193786-resonance-solstice.json) |
 | Resonance Tales: Alone | 350964 | [350964-resonance-tales-alone.json](./350964-resonance-tales-alone.json) |
 | Resonance Wars | 181089 | [181089-resonance-wars.json](./181089-resonance-wars.json) |
@@ -7083,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Winter Sports 1986 | 197241 | [197241-retro-winter-sports-1986.json](./197241-retro-winter-sports-1986.json) |
 | Retro World | 3229 | [3229-retro-world.json](./3229-retro-world.json) |
 | Retro-Bit Generations | 275244 | [275244-retro-bit-generations.json](./275244-retro-bit-generations.json) |
+| Retro-Bit Super Retro-Cade | 426717 | [426717-retro-bit-super-retro-cade.json](./426717-retro-bit-super-retro-cade.json) |
 | Retro-Pixel Castles | 17933 | [17933-retro-pixel-castles.json](./17933-retro-pixel-castles.json) |
 | Retro-Pixel Color Palette: Color by Number | 367640 | [367640-retro-pixel-color-palette-color-by-number.json](./367640-retro-pixel-color-palette-color-by-number.json) |
 | Retro/Grade | 16431 | [16431-retro-grade.json](./16431-retro-grade.json) |
