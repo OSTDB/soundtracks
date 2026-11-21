@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanbansen | 295711 | [295711-sanbansen.json](./295711-sanbansen.json) |
 | Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
+| Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
@@ -15327,6 +15328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavic Mythology Creatures | 297650 | [297650-slavic-mythology-creatures.json](./297650-slavic-mythology-creatures.json) |
 | Slavic Tales | 216687 | [216687-slavic-tales.json](./216687-slavic-tales.json) |
 | Slavic Winter Simulator | 326345 | [326345-slavic-winter-simulator.json](./326345-slavic-winter-simulator.json) |
+| SlavicPunk: Oldtimer | 239657 | [239657-slavicpunk-oldtimer.json](./239657-slavicpunk-oldtimer.json) |
 | Slavistan | 32152 | [32152-slavistan.json](./32152-slavistan.json) |
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavlands: Tribes at War | 424333 | [424333-slavlands-tribes-at-war.json](./424333-slavlands-tribes-at-war.json) |
