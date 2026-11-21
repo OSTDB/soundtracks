@@ -5936,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
 | Escape Fear: Hide And Seek Horror | 291653 | [291653-escape-fear-hide-and-seek-horror.json](./291653-escape-fear-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
+| Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
 | Escape Fishstop 3D | 149614 | [149614-escape-fishstop-3d.json](./149614-escape-fishstop-3d.json) |
 | Escape Floor 13 | 320650 | [320650-escape-floor-13.json](./320650-escape-floor-13.json) |
@@ -6835,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esports History | 172962 | [172962-esports-history.json](./172962-esports-history.json) |
 | eSports Jigsaw Puzzles | 236551 | [236551-esports-jigsaw-puzzles.json](./236551-esports-jigsaw-puzzles.json) |
 | Esports Legend | 107679 | [107679-esports-legend.json](./107679-esports-legend.json) |
+| Esports Life Tycoon | 118522 | [118522-esports-life-tycoon.json](./118522-esports-life-tycoon.json) |
 | eSports Manager | 171381 | [171381-esports-manager.json](./171381-esports-manager.json) |
 | Esports Manager 2026 | 285684 | [285684-esports-manager-2026.json](./285684-esports-manager-2026.json) |
 | Esports Saga | 95836 | [95836-esports-saga.json](./95836-esports-saga.json) |
