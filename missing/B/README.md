@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
+| Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badminton Warrior | 111116 | [111116-badminton-warrior.json](./111116-badminton-warrior.json) |
 | Badminton World | 323050 | [323050-badminton-world.json](./323050-badminton-world.json) |
 | Badnik Hunt 2 | 330115 | [330115-badnik-hunt-2.json](./330115-badnik-hunt-2.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Movie: That's Un-bee-lievable | 325147 | [325147-bee-movie-thats-un-bee-lievable.json](./325147-bee-movie-thats-un-bee-lievable.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee O' Factory | 359641 | [359641-bee-o-factory.json](./359641-bee-o-factory.json) |
+| Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
 | Bee Space | 408433 | [408433-bee-space.json](./408433-bee-space.json) |
 | Bee Storm: DoDonPachi II | 123085 | [123085-bee-storm-dodonpachi-ii.json](./123085-bee-storm-dodonpachi-ii.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
