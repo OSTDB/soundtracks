@@ -1060,7 +1060,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeep Climb Mountain | 312834 | [312834-jeep-climb-mountain.json](./312834-jeep-climb-mountain.json) |
 | Jeep Command | 47177 | [47177-jeep-command.json](./47177-jeep-command.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
-| Jeep Thrills | 4940 | [4940-jeep-thrills.json](./4940-jeep-thrills.json) |
 | Jeepers Creepers | 58418 | [58418-jeepers-creepers.json](./58418-jeepers-creepers.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
@@ -1638,7 +1637,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master Double Pack | 145392 | [145392-jewel-master-double-pack.json](./145392-jewel-master-double-pack.json) |
 | Jewel Master: Cradle of Athena | 24365 | [24365-jewel-master-cradle-of-athena.json](./24365-jewel-master-cradle-of-athena.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
-| Jewel Master: Cradle of Rome | 4774 | [4774-jewel-master-cradle-of-rome.json](./4774-jewel-master-cradle-of-rome.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
 | Jewel Master: Egypt | 47701 | [47701-jewel-master-egypt.json](./47701-jewel-master-egypt.json) |
 | Jewel Match | 204872 | [204872-jewel-match.json](./204872-jewel-match.json) |
@@ -2330,7 +2328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jillian Michael's Fitness Ultamatum 2009 | 50989 | [50989-jillian-michaels-fitness-ultamatum-2009.json](./50989-jillian-michaels-fitness-ultamatum-2009.json) |
 | Jillian Michaels Fitness Ultimatum 2011 | 65429 | [65429-jillian-michaels-fitness-ultimatum-2011.json](./65429-jillian-michaels-fitness-ultimatum-2011.json) |
 | Jillian Michaels' Fitness Adventure | 20222 | [20222-jillian-michaels-fitness-adventure.json](./20222-jillian-michaels-fitness-adventure.json) |
-| Jillian Michaels' Fitness Ultimatum 2009 | 4942 | [4942-jillian-michaels-fitness-ultimatum-2009.json](./4942-jillian-michaels-fitness-ultimatum-2009.json) |
 | Jillian Michaels' Fitness Ultimatum 2010 | 79817 | [79817-jillian-michaels-fitness-ultimatum-2010.json](./79817-jillian-michaels-fitness-ultimatum-2010.json) |
 | Jim & Dill 3 | 342118 | [342118-jim-and-dill-3.json](./342118-jim-and-dill-3.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
@@ -2801,7 +2798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny 7 | 56181 | [56181-johnny-7.json](./56181-johnny-7.json) |
 | Johnny 8: The Final Battle | 56190 | [56190-johnny-8-the-final-battle.json](./56190-johnny-8-the-final-battle.json) |
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
-| Johnny Bazookatone | 4256 | [4256-johnny-bazookatone.json](./4256-johnny-bazookatone.json) |
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Bravo in the Cherub Challenge | 241137 | [241137-johnny-bravo-in-the-cherub-challenge.json](./241137-johnny-bravo-in-the-cherub-challenge.json) |
