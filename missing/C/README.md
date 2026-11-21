@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
 | Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
+| Calm Bricks | 430909 | [430909-calm-bricks.json](./430909-calm-bricks.json) |
 | Calm Cards: Klondike | 88356 | [88356-calm-cards-klondike.json](./88356-calm-cards-klondike.json) |
 | Calm Colors | 197816 | [197816-calm-colors.json](./197816-calm-colors.json) |
 | Calm Cove | 272243 | [272243-calm-cove.json](./272243-calm-cove.json) |
@@ -5112,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
 | Catch Me Not | 421613 | [421613-catch-me-not.json](./421613-catch-me-not.json) |
+| Catch Me Wooo! | 430321 | [430321-catch-me-wooo.json](./430321-catch-me-wooo.json) |
 | Catch Me! | 199706 | [199706-catch-me.json](./199706-catch-me.json) |
 | Catch Meow if You Can | 417837 | [417837-catch-meow-if-you-can.json](./417837-catch-meow-if-you-can.json) |
 | Catch Mind | 125870 | [125870-catch-mind.json](./125870-catch-mind.json) |
@@ -6150,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
 | Cell War | 176074 | [176074-cell-war.json](./176074-cell-war.json) |
 | Cell Wars | 249077 | [249077-cell-wars.json](./249077-cell-wars.json) |
+| Cell: Emergence | 22326 | [22326-cell-emergence.json](./22326-cell-emergence.json) |
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
@@ -6310,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centralia | 121104 | [121104-centralia.json](./121104-centralia.json) |
 | Centralia: Homecoming | 123769 | [123769-centralia-homecoming.json](./123769-centralia-homecoming.json) |
 | Centration | 16566 | [16566-centration.json](./16566-centration.json) |
+| Centre 18 | 430916 | [430916-centre-18.json](./430916-centre-18.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
 | Centre Court: Hard Hitter | 43382 | [43382-centre-court-hard-hitter.json](./43382-centre-court-hard-hitter.json) |
@@ -7387,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
 | Chat, Is This Real? | 405799 | [405799-chat-is-this-real.json](./405799-chat-is-this-real.json) |
+| Chat, We Are Cooked | 430847 | [430847-chat-we-are-cooked.json](./430847-chat-we-are-cooked.json) |
 | Chataclysm | 243916 | [243916-chataclysm.json](./243916-chataclysm.json) |
 | ChatAid | 397600 | [397600-chataid.json](./397600-chataid.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
@@ -10971,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
+| City Tales: Medieval Era - Fluffy Companions | 430372 | [430372-city-tales-medieval-era-fluffy-companions.json](./430372-city-tales-medieval-era-fluffy-companions.json) |
 | City Taxi Driver | 212562 | [212562-city-taxi-driver.json](./212562-city-taxi-driver.json) |
 | City Things | 203583 | [203583-city-things.json](./203583-city-things.json) |
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
@@ -15985,6 +15991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy Girls: The Madness of Madison Delaroux | 219228 | [219228-conspiracy-girls-the-madness-of-madison-delaroux.json](./219228-conspiracy-girls-the-madness-of-madison-delaroux.json) |
 | Conspiracy: Tower Defense | 236594 | [236594-conspiracy-tower-defense.json](./236594-conspiracy-tower-defense.json) |
+| Conspiracy: Weapons of Mass Destruction | 22310 | [22310-conspiracy-weapons-of-mass-destruction.json](./22310-conspiracy-weapons-of-mass-destruction.json) |
 | Conspiracy! | 151638 | [151638-conspiracy.json](./151638-conspiracy.json) |
 | Conspiratio | 230039 | [230039-conspiratio.json](./230039-conspiratio.json) |
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
@@ -23459,6 +23466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
 | Cx6 | 240619 | [240619-cx6.json](./240619-cx6.json) |
 | CxC | 378694 | [378694-cxc.json](./378694-cxc.json) |
+| Cy Girls | 22284 | [22284-cy-girls.json](./22284-cy-girls.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan | 169808 | [169808-cyan.json](./169808-cyan.json) |
