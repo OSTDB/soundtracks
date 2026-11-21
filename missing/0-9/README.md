@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Cooking Recipes from Elle à Table | 98671 | [98671-1000-cooking-recipes-from-elle-a-table.json](./98671-1000-cooking-recipes-from-elle-a-table.json) |
 | 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
+| 1000 Days to Escape | 120028 | [120028-1000-days-to-escape.json](./120028-1000-days-to-escape.json) |
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
