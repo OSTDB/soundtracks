@@ -2529,7 +2529,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanzer | 103245 | [103245-tanzer.json](./103245-tanzer.json) |
 | Tanzia | 28309 | [28309-tanzia.json](./28309-tanzia.json) |
 | Tao | 58604 | [58604-tao.json](./58604-tao.json) |
-| Tao Feng: Fist of the Lotus | 6190 | [6190-tao-feng-fist-of-the-lotus.json](./6190-tao-feng-fist-of-the-lotus.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
@@ -7389,7 +7388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bibites: Digital Life | 290048 | [290048-the-bibites-digital-life.json](./290048-the-bibites-digital-life.json) |
 | The Bible | 327071 | [327071-the-bible.json](./327071-the-bible.json) |
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
-| The Bible Game | 5746 | [5746-the-bible-game.json](./5746-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
 | The Bible Trivia Challenge | 87387 | [87387-the-bible-trivia-challenge.json](./87387-the-bible-trivia-challenge.json) |
 | The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
@@ -9677,7 +9675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
-| The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
 | The Dog K | 206518 | [206518-the-dog-k.json](./206518-the-dog-k.json) |
 | The Dog Master | 209293 | [209293-the-dog-master.json](./209293-the-dog-master.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
@@ -16189,7 +16186,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy Returns | 49961 | [49961-the-mummy-returns.json](./49961-the-mummy-returns.json) |
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
-| The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
 | The Mummy's Tomb | 418945 | [418945-the-mummys-tomb.json](./418945-the-mummys-tomb.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
@@ -17099,7 +17095,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguin P | 215107 | [215107-the-penguin-p.json](./215107-the-penguin-p.json) |
 | The PenguinGame 2: Lies of Penguin | 272079 | [272079-the-penguingame-2-lies-of-penguin.json](./272079-the-penguingame-2-lies-of-penguin.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 307491 | [307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./307491-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
-| The Penguins of Madagascar: Dr. Blowhole Returns Again! | 3768 | [3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./3768-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
@@ -22528,7 +22523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
-| Theocracy | 6028 | [6028-theocracy.json](./6028-theocracy.json) |
 | TheOdd1sOut: Let's Bounce | 378081 | [378081-theodd1sout-lets-bounce.json](./378081-theodd1sout-lets-bounce.json) |
 | Theofil | 159400 | [159400-theofil.json](./159400-theofil.json) |
 | Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
@@ -29177,7 +29171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Workshop | 165293 | [165293-tonka-workshop.json](./165293-tonka-workshop.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tonka: On the Job | 49455 | [49455-tonka-on-the-job.json](./49455-tonka-on-the-job.json) |
-| Tonka: Rescue Patrol | 4202 | [4202-tonka-rescue-patrol.json](./4202-tonka-rescue-patrol.json) |
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
 | Tonko | 159213 | [159213-tonko.json](./159213-tonko.json) |
 | Tonko 2 | 159215 | [159215-tonko-2.json](./159215-tonko-2.json) |
@@ -29781,7 +29774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
 | Tork and Kral | 98128 | [98128-tork-and-kral.json](./98128-tork-and-kral.json) |
-| Tork: Prehistoric Punk | 6206 | [6206-tork-prehistoric-punk.json](./6206-tork-prehistoric-punk.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment | 257751 | [257751-torment.json](./257751-torment.json) |
 | Torment | 274170 | [274170-torment.json](./274170-torment.json) |
@@ -29963,7 +29955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
-| Total Club Manager 2005 | 6210 | [6210-total-club-manager-2005.json](./6210-total-club-manager-2005.json) |
 | Total Conflict: Resistance | 199677 | [199677-total-conflict-resistance.json](./199677-total-conflict-resistance.json) |
 | Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
 | Total Conquest | 50090 | [50090-total-conquest.json](./50090-total-conquest.json) |
@@ -29978,7 +29969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
 | Total Eclipse | 12562 | [12562-total-eclipse.json](./12562-total-eclipse.json) |
-| Total Eclipse | 4347 | [4347-total-eclipse.json](./4347-total-eclipse.json) |
 | Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
 | Total Eclipse Turbo | 44991 | [44991-total-eclipse-turbo.json](./44991-total-eclipse-turbo.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
@@ -34456,7 +34446,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transworld | 78435 | [78435-transworld.json](./78435-transworld.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
 | TransWorld Snowboarding | 20795 | [20795-transworld-snowboarding.json](./20795-transworld-snowboarding.json) |
-| TransWorld Surf | 4209 | [4209-transworld-surf.json](./4209-transworld-surf.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
 | Transylmania Deluxe | 265880 | [265880-transylmania-deluxe.json](./265880-transylmania-deluxe.json) |
