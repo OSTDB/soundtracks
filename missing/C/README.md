@@ -10650,6 +10650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Ultimate Content Bundle | 215562 | [215562-cities-skylines-ultimate-content-bundle.json](./215562-cities-skylines-ultimate-content-bundle.json) |
 | Cities: Skylines - World Tour Bundle | 240904 | [240904-cities-skylines-world-tour-bundle.json](./240904-cities-skylines-world-tour-bundle.json) |
 | Cities: Skylines - World Tour Bundle 2 | 243292 | [243292-cities-skylines-world-tour-bundle-2.json](./243292-cities-skylines-world-tour-bundle-2.json) |
+| Cities: Skylines - Xbox One Edition | 83511 | [83511-cities-skylines-xbox-one-edition.json](./83511-cities-skylines-xbox-one-edition.json) |
 | Cities: Skylines + Surviving Mars | 200826 | [200826-cities-skylines-surviving-mars.json](./200826-cities-skylines-surviving-mars.json) |
 | Cities: Skylines Collection | 52787 | [52787-cities-skylines-collection.json](./52787-cities-skylines-collection.json) |
 | Cities: Skylines II | 240902 | [240902-cities-skylines-ii.json](./240902-cities-skylines-ii.json) |
@@ -24222,6 +24223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytus II | 89095 | [89095-cytus-ii.json](./89095-cytus-ii.json) |
 | Cytus II: Miku | 358866 | [358866-cytus-ii-miku.json](./358866-cytus-ii-miku.json) |
 | Cytus Lambda | 80227 | [80227-cytus-lambda.json](./80227-cytus-lambda.json) |
+| cyubeVR | 83736 | [83736-cyubevr.json](./83736-cyubevr.json) |
 | CyVenge | 272637 | [272637-cyvenge.json](./272637-cyvenge.json) |
 | Cyverfunk | 419630 | [419630-cyverfunk.json](./419630-cyverfunk.json) |
 | Cyvern | 39835 | [39835-cyvern.json](./39835-cyvern.json) |
