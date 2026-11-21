@@ -827,7 +827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy | 4077 | [4077-radirgy.json](./4077-radirgy.json) |
 | Radirgy 2 | 254477 | [254477-radirgy-2.json](./254477-radirgy-2.json) |
 | Radirgy De Gojaru! | 222407 | [222407-radirgy-de-gojaru.json](./222407-radirgy-de-gojaru.json) |
-| Radirgy GeneriC | 122499 | [122499-radirgy-generic.json](./122499-radirgy-generic.json) |
 | Radirgy Noa | 254475 | [254475-radirgy-noa.json](./254475-radirgy-noa.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
@@ -3074,7 +3073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | re:fleXion | 179021 | [179021-re-flexion.json](./179021-re-flexion.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
-| Re:Gals Panic | 124197 | [124197-re-gals-panic.json](./124197-re-gals-panic.json) |
 | Re:in | 166467 | [166467-re-in.json](./166467-re-in.json) |
 | Re:Infinite | 196587 | [196587-re-infinite.json](./196587-re-infinite.json) |
 | Re:Integral | 422854 | [422854-re-integral.json](./422854-re-integral.json) |
@@ -5373,7 +5371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
 | Reikai Doushi | 40390 | [40390-reikai-doushi.json](./40390-reikai-doushi.json) |
 | Reikai Nikki | 269900 | [269900-reikai-nikki.json](./269900-reikai-nikki.json) |
-| Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
 | Reikoku: Ikeda Kizoku Shinrei Kenkyuujo | 115858 | [115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json](./115858-reikoku-ikeda-kizoku-shinrei-kenkyuujo.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
 | Reikon: Reawaken | 250987 | [250987-reikon-reawaken.json](./250987-reikon-reawaken.json) |
@@ -5653,7 +5650,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reloadian | 389223 | [389223-reloadian.json](./389223-reloadian.json) |
 | Relocat | 428971 | [428971-relocat.json](./428971-relocat.json) |
 | Relocation Simulator | 293122 | [293122-relocation-simulator.json](./293122-relocation-simulator.json) |
-| Relow | 124168 | [124168-relow.json](./124168-relow.json) |
 | Relumine | 174277 | [174277-relumine.json](./174277-relumine.json) |
 | Relyctum | 261439 | [261439-relyctum.json](./261439-relyctum.json) |
 | Rem | 225427 | [225427-rem.json](./225427-rem.json) |
@@ -8135,7 +8131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richest Thief | 369360 | [369360-richest-thief.json](./369360-richest-thief.json) |
 | Richie the Gnome: Treasure Hunter | 106943 | [106943-richie-the-gnome-treasure-hunter.json](./106943-richie-the-gnome-treasure-hunter.json) |
 | Richie the Gnome: Underground Treasures | 62096 | [62096-richie-the-gnome-underground-treasures.json](./62096-richie-the-gnome-underground-treasures.json) |
-| Richman 10 | 123860 | [123860-richman-10.json](./123860-richman-10.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
 | Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
@@ -9094,7 +9089,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Ronin: Digital Deluxe Edition | 284585 | [284585-rise-of-the-ronin-digital-deluxe-edition.json](./284585-rise-of-the-ronin-digital-deluxe-edition.json) |
 | Rise of the samurai in VR | 150331 | [150331-rise-of-the-samurai-in-vr.json](./150331-rise-of-the-samurai-in-vr.json) |
 | Rise of the Savage | 95274 | [95274-rise-of-the-savage.json](./95274-rise-of-the-savage.json) |
-| Rise of the Slime | 124244 | [124244-rise-of-the-slime.json](./124244-rise-of-the-slime.json) |
 | Rise of the Spellbaker | 415293 | [415293-rise-of-the-spellbaker.json](./415293-rise-of-the-spellbaker.json) |
 | Rise of the Successor | 384168 | [384168-rise-of-the-successor.json](./384168-rise-of-the-successor.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Bumper Bros | 146287 | [146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json](./146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json) |
@@ -9381,7 +9375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualRX | 346188 | [346188-ritualrx.json](./346188-ritualrx.json) |
 | Rituals | 27264 | [27264-rituals.json](./27264-rituals.json) |
-| Rituals in the Dark | 123797 | [123797-rituals-in-the-dark.json](./123797-rituals-in-the-dark.json) |
 | Rituals of Demons | 405698 | [405698-rituals-of-demons.json](./405698-rituals-of-demons.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Ritum Bitum | 147160 | [147160-ritum-bitum.json](./147160-ritum-bitum.json) |
@@ -14101,7 +14094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
-| Run Kitty Run | 122445 | [122445-run-kitty-run.json](./122445-run-kitty-run.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
@@ -14384,7 +14376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
 | RuneEra | 422487 | [422487-runeera.json](./422487-runeera.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
-| Runefall 2 | 123810 | [123810-runefall-2.json](./123810-runefall-2.json) |
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame | 303991 | [303991-runeflame.json](./303991-runeflame.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
