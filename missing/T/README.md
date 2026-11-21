@@ -24249,6 +24249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up the Backrooms | 419519 | [419519-tidy-up-the-backrooms.json](./419519-tidy-up-the-backrooms.json) |
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
+| Tidy Up the Flower Shop: Christmas | 429102 | [429102-tidy-up-the-flower-shop-christmas.json](./429102-tidy-up-the-flower-shop-christmas.json) |
 | Tidy Up the Gun Club | 429794 | [429794-tidy-up-the-gun-club.json](./429794-tidy-up-the-gun-club.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up the Town | 419228 | [419228-tidy-up-the-town.json](./419228-tidy-up-the-town.json) |
@@ -35257,6 +35258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches of War | 38758 | [38758-trenches-of-war.json](./38758-trenches-of-war.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trenchfoot | 89344 | [89344-trenchfoot.json](./89344-trenchfoot.json) |
+| Trenchhold TD | 429122 | [429122-trenchhold-td.json](./429122-trenchhold-td.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchpunk | 299700 | [299700-trenchpunk.json](./299700-trenchpunk.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
