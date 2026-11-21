@@ -1277,7 +1277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Icebox | 22355 | [22355-icebox.json](./22355-icebox.json) |
 | Icebox: Speedgunner | 56359 | [56359-icebox-speedgunner.json](./56359-icebox-speedgunner.json) |
-| Icebreaker | 4332 | [4332-icebreaker.json](./4332-icebreaker.json) |
 | Icebreaker 2 | 37121 | [37121-icebreaker-2.json](./37121-icebreaker-2.json) |
 | Icebreaker: A Viking Voyage | 69454 | [69454-icebreaker-a-viking-voyage.json](./69454-icebreaker-a-viking-voyage.json) |
 | Icebreaker: The Text Adventure | 60175 | [60175-icebreaker-the-text-adventure.json](./60175-icebreaker-the-text-adventure.json) |
@@ -5557,7 +5556,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
 | Intellivision Lives! | 299109 | [299109-intellivision-lives.json](./299109-intellivision-lives.json) |
 | Intellivision Lives! | 299111 | [299111-intellivision-lives.json](./299111-intellivision-lives.json) |
-| Intellivision Lives! | 3956 | [3956-intellivision-lives.json](./3956-intellivision-lives.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
 | Intellivision Shark! Shark! Gen2 | 61858 | [61858-intellivision-shark-shark-gen2.json](./61858-intellivision-shark-shark-gen2.json) |
 | Intellivision Skiing | 228882 | [228882-intellivision-skiing.json](./228882-intellivision-skiing.json) |
@@ -5769,7 +5767,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2 | 3957 | [3957-international-superstar-soccer-2.json](./3957-international-superstar-soccer-2.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
-| International Superstar Soccer 2000 | 3515 | [3515-international-superstar-soccer-2000.json](./3515-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
 | International Superstar Soccer 64 | 3516 | [3516-international-superstar-soccer-64.json](./3516-international-superstar-soccer-64.json) |
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
@@ -7700,7 +7697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Magic II | 408476 | [408476-its-magic-ii.json](./408476-its-magic-ii.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
-| It's Mr. Pants | 6355 | [6355-its-mr-pants.json](./6355-its-mr-pants.json) |
 | It's Not A Moon | 112447 | [112447-its-not-a-moon.json](./112447-its-not-a-moon.json) |
 | It's Not About the End | 172273 | [172273-its-not-about-the-end.json](./172273-its-not-about-the-end.json) |
 | It's Not Like I LIke You | 354538 | [354538-its-not-like-i-like-you.json](./354538-its-not-like-i-like-you.json) |
