@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
 | Bar Games | 11940 | [11940-bar-games.json](./11940-bar-games.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
+| Bar Keeper | 421513 | [421513-bar-keeper.json](./421513-bar-keeper.json) |
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
 | Bar Oasis 2 | 264973 | [264973-bar-oasis-2.json](./264973-bar-oasis-2.json) |
@@ -3131,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnacles Beers and Brawls | 294329 | [294329-barnacles-beers-and-brawls.json](./294329-barnacles-beers-and-brawls.json) |
 | Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
 | Barnard's Star | 158821 | [158821-barnards-star.json](./158821-barnards-star.json) |
+| Barnburners | 422638 | [422638-barnburners.json](./422638-barnburners.json) |
 | Barney Bear Goes Camping | 14284 | [14284-barney-bear-goes-camping.json](./14284-barney-bear-goes-camping.json) |
 | Barney Bear Goes to School | 12399 | [12399-barney-bear-goes-to-school.json](./12399-barney-bear-goes-to-school.json) |
 | Barney Bear Goes to Space | 12400 | [12400-barney-bear-goes-to-space.json](./12400-barney-bear-goes-to-space.json) |
@@ -6899,6 +6901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
+| Beetols They Do It | 422230 | [422230-beetols-they-do-it.json](./422230-beetols-they-do-it.json) |
 | Beetplanet | 238777 | [238777-beetplanet.json](./238777-beetplanet.json) |
 | Beezaster | 234501 | [234501-beezaster.json](./234501-beezaster.json) |
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
@@ -17839,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Buster Blast | 297371 | [297371-brick-buster-blast.json](./297371-brick-buster-blast.json) |
 | Brick by Brick | 389392 | [389392-brick-by-brick.json](./389392-brick-by-brick.json) |
 | Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
+| Brick by Brick: Tidy Up the Small Town! | 422642 | [422642-brick-by-brick-tidy-up-the-small-town.json](./422642-brick-by-brick-tidy-up-the-small-town.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
 | Brick Clear Storm | 234510 | [234510-brick-clear-storm.json](./234510-brick-clear-storm.json) |
@@ -20804,6 +20808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BursTrick: Wake Boarding!! | 44766 | [44766-burstrick-wake-boarding.json](./44766-burstrick-wake-boarding.json) |
 | Burt Roger | 176806 | [176806-burt-roger.json](./176806-burt-roger.json) |
 | Burtik | 96112 | [96112-burtik.json](./96112-burtik.json) |
+| Buru and the Old People | 422227 | [422227-buru-and-the-old-people.json](./422227-buru-and-the-old-people.json) |
 | Buru-buru Wolf | 238122 | [238122-buru-buru-wolf.json](./238122-buru-buru-wolf.json) |
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Burumajiru: Nikuyoku Shoujo Ninjyou | 98007 | [98007-burumajiru-nikuyoku-shoujo-ninjyou.json](./98007-burumajiru-nikuyoku-shoujo-ninjyou.json) |
