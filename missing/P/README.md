@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party, Darling? | 187210 | [187210-party-darling.json](./187210-party-darling.json) |
 | Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
 | Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
+| PartyCade | 420838 | [420838-partycade.json](./420838-partycade.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
 | PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | PartyLine VR | 122384 | [122384-partyline-vr.json](./122384-partyline-vr.json) |
@@ -20021,6 +20022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
 | Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
+| Punch Dungeon | 420851 | [420851-punch-dungeon.json](./420851-punch-dungeon.json) |
 | Punch Fit | 215324 | [215324-punch-fit.json](./215324-punch-fit.json) |
 | Punch Guy | 326928 | [326928-punch-guy.json](./326928-punch-guy.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
@@ -21523,6 +21525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Monthly Pack #35 - Inside and Out 2 | 353498 | [353498-puzzling-places-monthly-pack-35-inside-and-out-2.json](./353498-puzzling-places-monthly-pack-35-inside-and-out-2.json) |
 | Puzzling Places: Monthly Pack #36 - South Korea Pack | 353499 | [353499-puzzling-places-monthly-pack-36-south-korea-pack.json](./353499-puzzling-places-monthly-pack-36-south-korea-pack.json) |
 | Puzzling Places: Monthly Pack #4 - Promenade in Portugal | 353448 | [353448-puzzling-places-monthly-pack-4-promenade-in-portugal.json](./353448-puzzling-places-monthly-pack-4-promenade-in-portugal.json) |
+| Puzzling Places: Monthly Pack #47 | 420876 | [420876-puzzling-places-monthly-pack-47.json](./420876-puzzling-places-monthly-pack-47.json) |
 | Puzzling Places: Monthly Pack #5 - The Ukraine Pack | 353449 | [353449-puzzling-places-monthly-pack-5-the-ukraine-pack.json](./353449-puzzling-places-monthly-pack-5-the-ukraine-pack.json) |
 | Puzzling Places: Monthly Pack #6 - Remarkable Rooms | 353450 | [353450-puzzling-places-monthly-pack-6-remarkable-rooms.json](./353450-puzzling-places-monthly-pack-6-remarkable-rooms.json) |
 | Puzzling Places: Monthly Pack #7 | 353451 | [353451-puzzling-places-monthly-pack-7.json](./353451-puzzling-places-monthly-pack-7.json) |
