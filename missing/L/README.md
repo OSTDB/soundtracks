@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last in Orbit | 129063 | [129063-last-in-orbit.json](./129063-last-in-orbit.json) |
+| Last Inspection | 422879 | [422879-last-inspection.json](./422879-last-inspection.json) |
 | Last Inua | 10494 | [10494-last-inua.json](./10494-last-inua.json) |
 | Last Island | 134628 | [134628-last-island.json](./134628-last-island.json) |
 | Last Island of Survival | 175118 | [175118-last-island-of-survival.json](./175118-last-island-of-survival.json) |
@@ -9344,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Highway | 273196 | [273196-lost-highway.json](./273196-lost-highway.json) |
 | Lost Home | 74666 | [74666-lost-home.json](./74666-lost-home.json) |
 | Lost Hope | 285919 | [285919-lost-hope.json](./285919-lost-hope.json) |
+| Lost Hope | 422887 | [422887-lost-hope.json](./422887-lost-hope.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Hopes: Day of Betrayal | 415468 | [415468-lost-hopes-day-of-betrayal.json](./415468-lost-hopes-day-of-betrayal.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
