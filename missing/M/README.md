@@ -389,7 +389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Daedalus | 218160 | [218160-mad-daedalus.json](./218160-mad-daedalus.json) |
 | Mad Dagger | 29148 | [29148-mad-dagger.json](./29148-mad-dagger.json) |
 | Mad Dagger 2 | 100597 | [100597-mad-dagger-2.json](./100597-mad-dagger-2.json) |
-| Mad Dash Racing | 5905 | [5905-mad-dash-racing.json](./5905-mad-dash-racing.json) |
 | Mad Defense | 213583 | [213583-mad-defense.json](./213583-mad-defense.json) |
 | Mad Devils | 142621 | [142621-mad-devils.json](./142621-mad-devils.json) |
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
@@ -2808,7 +2807,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball | 5682 | [5682-major-league-baseball.json](./5682-major-league-baseball.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
-| Major League Baseball 2K11 | 4992 | [4992-major-league-baseball-2k11.json](./4992-major-league-baseball-2k11.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2k5: World Series Edition | 47327 | [47327-major-league-baseball-2k5-world-series-edition.json](./47327-major-league-baseball-2k5-world-series-edition.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
@@ -4915,7 +4913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marius | 76368 | [76368-marius.json](./76368-marius.json) |
 | Mark & Lara: Partners in Justice | 146028 | [146028-mark-and-lara-partners-in-justice.json](./146028-mark-and-lara-partners-in-justice.json) |
 | Mark After Dark | 67903 | [67903-mark-after-dark.json](./67903-mark-after-dark.json) |
-| Mark Davis Pro Bass Challenge | 3991 | [3991-mark-davis-pro-bass-challenge.json](./3991-mark-davis-pro-bass-challenge.json) |
 | Mark Davis': The Fishing Master | 42499 | [42499-mark-davis-the-fishing-master.json](./42499-mark-davis-the-fishing-master.json) |
 | Mark H. Walker's Lock 'n Load: Heroes of Stalingrad | 129539 | [129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json](./129539-mark-h-walkers-lock-n-load-heroes-of-stalingrad.json) |
 | Mark Leung: Revenge of the Bitch | 10538 | [10538-mark-leung-revenge-of-the-bitch.json](./10538-mark-leung-revenge-of-the-bitch.json) |
@@ -5594,7 +5591,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Pocket Planner | 298504 | [298504-mary-kate-and-ashley-pocket-planner.json](./298504-mary-kate-and-ashley-pocket-planner.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
-| Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 5921 | [5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Mary-san | 426006 | [426006-mary-san.json](./426006-mary-san.json) |
 | Mary: Mary-Hime no Dakkan | 413635 | [413635-mary-mary-hime-no-dakkan.json](./413635-mary-mary-hime-no-dakkan.json) |
@@ -6921,7 +6917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxo Scringle's "Human Rocket" Mini-Type Rocket Golf | 402367 | [402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json](./402367-maxo-scringles-human-rocket-mini-type-rocket-golf.json) |
 | Maxon Petting Simulator | 214991 | [214991-maxon-petting-simulator.json](./214991-maxon-petting-simulator.json) |
 | Maxoo 2 | 216412 | [216412-maxoo-2.json](./216412-maxoo-2.json) |
-| MaxPlay Classic Games Volume 1 | 3996 | [3996-maxplay-classic-games-volume-1.json](./3996-maxplay-classic-games-volume-1.json) |
 | MaXplosion | 92153 | [92153-maxplosion.json](./92153-maxplosion.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | MaxSwitch | 220214 | [220214-maxswitch.json](./220214-maxswitch.json) |
@@ -10730,7 +10725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Island | 187609 | [187609-mercury-island.json](./187609-mercury-island.json) |
 | Mercury Meltdown | 23125 | [23125-mercury-meltdown.json](./23125-mercury-meltdown.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
-| Mercury Meltdown Revolution | 5003 | [5003-mercury-meltdown-revolution.json](./5003-mercury-meltdown-revolution.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Particle Sandbox | 151300 | [151300-mercury-particle-sandbox.json](./151300-mercury-particle-sandbox.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
@@ -12006,7 +12000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasmata | 11062 | [11062-miasmata.json](./11062-miasmata.json) |
 | Miautemágica | 393559 | [393559-miautemagica.json](./393559-miautemagica.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
-| MIB: Alien Crisis | 5005 | [5005-mib-alien-crisis.json](./5005-mib-alien-crisis.json) |
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Mibo: Escape Adventure | 194156 | [194156-mibo-escape-adventure.json](./194156-mibo-escape-adventure.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
@@ -16451,7 +16444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Perfect Inning 24 | 321667 | [321667-mlb-perfect-inning-24.json](./321667-mlb-perfect-inning-24.json) |
 | MLB Perfect Inning Live | 96295 | [96295-mlb-perfect-inning-live.json](./96295-mlb-perfect-inning-live.json) |
 | MLB Perfect Inning: 23 | 212436 | [212436-mlb-perfect-inning-23.json](./212436-mlb-perfect-inning-23.json) |
-| MLB Power Pros | 5009 | [5009-mlb-power-pros.json](./5009-mlb-power-pros.json) |
 | MLB Power Pros 2008 | 5010 | [5010-mlb-power-pros-2008.json](./5010-mlb-power-pros-2008.json) |
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
@@ -16719,7 +16711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Gundam vs. Gundam | 72783 | [72783-mobile-suit-gundam-gundam-vs-gundam.json](./72783-mobile-suit-gundam-gundam-vs-gundam.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam Next | 75696 | [75696-mobile-suit-gundam-gundam-vs-gundam-next.json](./75696-mobile-suit-gundam-gundam-vs-gundam-next.json) |
 | Mobile Suit Gundam: Gundam vs. Gundam Next Plus | 75697 | [75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json](./75697-mobile-suit-gundam-gundam-vs-gundam-next-plus.json) |
-| Mobile Suit Gundam: Gundam vs. Zeta Gundam | 3964 | [3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json](./3964-mobile-suit-gundam-gundam-vs-zeta-gundam.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans G | 194096 | [194096-mobile-suit-gundam-iron-blooded-orphans-g.json](./194096-mobile-suit-gundam-iron-blooded-orphans-g.json) |
 | Mobile Suit Gundam: Iron-Blooded Orphans Urd's Hunt | 113627 | [113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json](./113627-mobile-suit-gundam-iron-blooded-orphans-urds-hunt.json) |
 | Mobile Suit Gundam: Journey to Jaburo | 43461 | [43461-mobile-suit-gundam-journey-to-jaburo.json](./43461-mobile-suit-gundam-journey-to-jaburo.json) |
@@ -17398,8 +17389,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu | 48771 | [48771-momotaro-dentetsu.json](./48771-momotaro-dentetsu.json) |
-| Momotaro Dentetsu 11: Black Bonbii Shutsugen! no Maki | 4014 | [4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json](./4014-momotaro-dentetsu-11-black-bonbii-shutsugen-no-maki.json) |
-| Momotaro Dentetsu 12: Nishi Nihon-hen mo Arimasse! | 4015 | [4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json](./4015-momotaro-dentetsu-12-nishi-nihon-hen-mo-arimasse.json) |
 | Momotaro Dentetsu 15: Godai Bonbii Toujou! no Maki | 64406 | [64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json](./64406-momotaro-dentetsu-15-godai-bonbii-toujou-no-maki.json) |
 | Momotaro Dentetsu 16 Gold | 67826 | [67826-momotaro-dentetsu-16-gold.json](./67826-momotaro-dentetsu-16-gold.json) |
 | Momotaro Dentetsu 16: Hokkaido Daiidou no Maki! | 64405 | [64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json](./64405-momotaro-dentetsu-16-hokkaido-daiidou-no-maki.json) |
@@ -17973,7 +17962,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
 | Monster 4x4 3D | 141860 | [141860-monster-4x4-3d.json](./141860-monster-4x4-3d.json) |
-| Monster 4x4: Masters of Metal | 4017 | [4017-monster-4x4-masters-of-metal.json](./4017-monster-4x4-masters-of-metal.json) |
 | Monster 4x4: Stunt Racer | 50958 | [50958-monster-4x4-stunt-racer.json](./50958-monster-4x4-stunt-racer.json) |
 | Monster Academy | 167307 | [167307-monster-academy.json](./167307-monster-academy.json) |
 | Monster Academy: An Interactive Story | 415063 | [415063-monster-academy-an-interactive-story.json](./415063-monster-academy-an-interactive-story.json) |
@@ -22214,7 +22202,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
 | Murakumo | 411908 | [411908-murakumo.json](./411908-murakumo.json) |
-| Murakumo: Renegade Mech Pursuit | 5936 | [5936-murakumo-renegade-mech-pursuit.json](./5936-murakumo-renegade-mech-pursuit.json) |
 | Mural | 118814 | [118814-mural.json](./118814-mural.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
@@ -22451,7 +22438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muscle Car 3: Illegal Street | 71742 | [71742-muscle-car-3-illegal-street.json](./71742-muscle-car-3-illegal-street.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
-| Muscle Champion: Kinnikutou Kessen | 4022 | [4022-muscle-champion-kinnikutou-kessen.json](./4022-muscle-champion-kinnikutou-kessen.json) |
 | Muscle Giants | 236059 | [236059-muscle-giants.json](./236059-muscle-giants.json) |
 | Muscle Girl Lisa: Training Diary | 310063 | [310063-muscle-girl-lisa-training-diary.json](./310063-muscle-girl-lisa-training-diary.json) |
 | Muscle Magic | 117209 | [117209-muscle-magic.json](./117209-muscle-magic.json) |
@@ -22918,7 +22904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutland | 113307 | [113307-mutland.json](./113307-mutland.json) |
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
-| Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
 | Mutsu: Water Looper Mutsu | 49709 | [49709-mutsu-water-looper-mutsu.json](./49709-mutsu-water-looper-mutsu.json) |
 | Mutter | 380981 | [380981-mutter.json](./380981-mutter.json) |
 | Mutton | 384882 | [384882-mutton.json](./384882-mutton.json) |
@@ -23794,7 +23779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hooptie | 369656 | [369656-my-hooptie.json](./369656-my-hooptie.json) |
 | My Horny Anime Girls | 417814 | [417814-my-horny-anime-girls.json](./417814-my-horny-anime-girls.json) |
 | My Horse | 99916 | [99916-my-horse.json](./99916-my-horse.json) |
-| My Horse & Me | 5030 | [5030-my-horse-and-me.json](./5030-my-horse-and-me.json) |
 | My Horse & Me: Riding for Gold | 50656 | [50656-my-horse-and-me-riding-for-gold.json](./50656-my-horse-and-me-riding-for-gold.json) |
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Club: On the Trail of the Mysterious Appaloosa | 257743 | [257743-my-horse-club-on-the-trail-of-the-mysterious-appaloosa.json](./257743-my-horse-club-on-the-trail-of-the-mysterious-appaloosa.json) |
@@ -25477,7 +25461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth III: The Wolf Age | 79984 | [79984-myth-iii-the-wolf-age.json](./79984-myth-iii-the-wolf-age.json) |
 | Myth Landers | 247617 | [247617-myth-landers.json](./247617-myth-landers.json) |
 | Myth Makers Super Kart GP | 5043 | [5043-myth-makers-super-kart-gp.json](./5043-myth-makers-super-kart-gp.json) |
-| Myth Makers: Orbs of Doom | 5041 | [5041-myth-makers-orbs-of-doom.json](./5041-myth-makers-orbs-of-doom.json) |
 | Myth Makers: Trixie in Toyland | 5044 | [5044-myth-makers-trixie-in-toyland.json](./5044-myth-makers-trixie-in-toyland.json) |
 | Myth Match | 122267 | [122267-myth-match.json](./122267-myth-match.json) |
 | Myth Matrix | 302030 | [302030-myth-matrix.json](./302030-myth-matrix.json) |
