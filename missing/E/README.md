@@ -6912,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
 | Estranged: Arctic Cold | 203982 | [203982-estranged-arctic-cold.json](./203982-estranged-arctic-cold.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
+| Estrella Quest | 426224 | [426224-estrella-quest.json](./426224-estrella-quest.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
 | Estress | 153583 | [153583-estress.json](./153583-estress.json) |
 | Estrus Princess | 203599 | [203599-estrus-princess.json](./203599-estrus-princess.json) |
