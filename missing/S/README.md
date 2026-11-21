@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Bunny Girls 2 | 355079 | [355079-sakura-bunny-girls-2.json](./355079-sakura-bunny-girls-2.json) |
 | Sakura Christmas Party | 69436 | [69436-sakura-christmas-party.json](./69436-sakura-christmas-party.json) |
 | Sakura Clicker | 34950 | [34950-sakura-clicker.json](./34950-sakura-clicker.json) |
+| Sakura Cupid | 83974 | [83974-sakura-cupid.json](./83974-sakura-cupid.json) |
 | Sakura Day 2 Mahjong | 100216 | [100216-sakura-day-2-mahjong.json](./100216-sakura-day-2-mahjong.json) |
 | Sakura Day Mahjong | 99363 | [99363-sakura-day-mahjong.json](./99363-sakura-day-mahjong.json) |
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
@@ -14980,6 +14981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure | 1585 | [1585-skylanders-spyros-adventure.json](./1585-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
+| Skylanders: SuperChargers - Portal Owner's Pack | 82418 | [82418-skylanders-superchargers-portal-owners-pack.json](./82418-skylanders-superchargers-portal-owners-pack.json) |
 | Skylanders: SuperChargers Racing | 85572 | [85572-skylanders-superchargers-racing.json](./85572-skylanders-superchargers-racing.json) |
 | Skylanders: Swap Force | 256681 | [256681-skylanders-swap-force.json](./256681-skylanders-swap-force.json) |
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
@@ -17790,6 +17792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves | 56072 | [56072-snipers-vs-thieves.json](./56072-snipers-vs-thieves.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
+| Snipers: Invisible, Silent, Deadly | 83883 | [83883-snipers-invisible-silent-deadly.json](./83883-snipers-invisible-silent-deadly.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
 | Snipiyo | 116519 | [116519-snipiyo.json](./116519-snipiyo.json) |
 | Snips & Snails | 140754 | [140754-snips-and-snails.json](./140754-snips-and-snails.json) |
