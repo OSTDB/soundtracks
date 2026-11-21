@@ -15728,6 +15728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect'Em | 56949 | [56949-connectem.json](./56949-connectem.json) |
 | Connect/Words | 87696 | [87696-connect-words.json](./87696-connect-words.json) |
 | Connect01 | 105657 | [105657-connect01.json](./105657-connect01.json) |
+| ConnecTank | 152381 | [152381-connectank.json](./152381-connectank.json) |
 | Connected Clue | 278789 | [278789-connected-clue.json](./278789-connected-clue.json) |
 | Connected Colors | 351906 | [351906-connected-colors.json](./351906-connected-colors.json) |
 | Connected Dreams | 225369 | [225369-connected-dreams.json](./225369-connected-dreams.json) |
@@ -16660,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Quest: Food Wagon Adventure | 198404 | [198404-cooking-quest-food-wagon-adventure.json](./198404-cooking-quest-food-wagon-adventure.json) |
 | Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
+| Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
 | Cooking Simulator: BBQ | 371170 | [371170-cooking-simulator-bbq.json](./371170-cooking-simulator-bbq.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Cooking with Food Network | 168934 | [168934-cooking-simulator-cooking-with-food-network.json](./168934-cooking-simulator-cooking-with-food-network.json) |
