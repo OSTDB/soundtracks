@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VP Voyage | 401517 | [401517-vp-voyage.json](./401517-vp-voyage.json) |
+| VPet Sort Together: Cozy Tidy Up | 425007 | [425007-vpet-sort-together-cozy-tidy-up.json](./425007-vpet-sort-together-cozy-tidy-up.json) |
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
 | VPet: Pancake Cat Skin package | 294798 | [294798-vpet-pancake-cat-skin-package.json](./294798-vpet-pancake-cat-skin-package.json) |
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
