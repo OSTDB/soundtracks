@@ -3742,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
 | Emojikara: A Clever Emoji Match Game | 58681 | [58681-emojikara-a-clever-emoji-match-game.json](./58681-emojikara-a-clever-emoji-match-game.json) |
 | Emojis Battle | 346863 | [346863-emojis-battle.json](./346863-emojis-battle.json) |
+| Emojis vs. Zombies | 425017 | [425017-emojis-vs-zombies.json](./425017-emojis-vs-zombies.json) |
 | EmojiShooter | 337878 | [337878-emojishooter.json](./337878-emojishooter.json) |
 | Emojly: Emoji Logic Puzzles | 232120 | [232120-emojly-emoji-logic-puzzles.json](./232120-emojly-emoji-logic-puzzles.json) |
 | Emokunai Kiss | 214344 | [214344-emokunai-kiss.json](./214344-emokunai-kiss.json) |
@@ -7809,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Eventide: Slavic Fable | 20362 | [20362-eventide-slavic-fable.json](./20362-eventide-slavic-fable.json) |
 | Eventide: Slavic Fable - Collector's Edition | 426087 | [426087-eventide-slavic-fable-collectors-edition.json](./426087-eventide-slavic-fable-collectors-edition.json) |
+| Eventlocation Simulator | 424925 | [424925-eventlocation-simulator.json](./424925-eventlocation-simulator.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17/Never 7 Double Pack | 329448 | [329448-ever-17-never-7-double-pack.json](./329448-ever-17-never-7-double-pack.json) |
