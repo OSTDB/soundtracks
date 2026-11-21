@@ -4221,7 +4221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feathered Run | 221467 | [221467-feathered-run.json](./221467-feathered-run.json) |
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
-| Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Feathers & All | 406446 | [406446-feathers-and-all.json](./406446-feathers-and-all.json) |
 | Featherweight | 169514 | [169514-featherweight.json](./169514-featherweight.json) |
 | Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
