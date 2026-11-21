@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
 | OldGrad | 88141 | [88141-oldgrad.json](./88141-oldgrad.json) |
 | OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
+| Oldies | 427995 | [427995-oldies.json](./427995-oldies.json) |
 | Oldish Stuff | 348521 | [348521-oldish-stuff.json](./348521-oldish-stuff.json) |
 | Oldlympics | 421771 | [421771-oldlympics.json](./421771-oldlympics.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
