@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geki Yaba Runner | 81486 | [81486-geki-yaba-runner.json](./81486-geki-yaba-runner.json) |
 | Geki Yaba Runner Deluxe | 84638 | [84638-geki-yaba-runner-deluxe.json](./84638-geki-yaba-runner-deluxe.json) |
 | Geki Yaba Runner Habanero | 222389 | [222389-geki-yaba-runner-habanero.json](./222389-geki-yaba-runner-habanero.json) |
+| Geki Yaba Runner: Anniversary Edition | 119509 | [119509-geki-yaba-runner-anniversary-edition.json](./119509-geki-yaba-runner-anniversary-edition.json) |
 | Geki-J Pachi-Slot: Chibari yo DX | 225340 | [225340-geki-j-pachi-slot-chibari-yo-dx.json](./225340-geki-j-pachi-slot-chibari-yo-dx.json) |
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
@@ -4016,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Over Blood | 148109 | [148109-get-over-blood.json](./148109-get-over-blood.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
 | Get Over Here! | 286794 | [286794-get-over-here.json](./286794-get-over-here.json) |
+| Get Packed | 119248 | [119248-get-packed.json](./119248-get-packed.json) |
 | Get Packed: Couch Chaos | 198012 | [198012-get-packed-couch-chaos.json](./198012-get-packed-couch-chaos.json) |
 | Get Packed: Fully Loaded | 152278 | [152278-get-packed-fully-loaded.json](./152278-get-packed-fully-loaded.json) |
 | Get Puzzled! | 69043 | [69043-get-puzzled.json](./69043-get-puzzled.json) |
@@ -4777,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gianpierino Adventures 2 | 410648 | [410648-gianpierino-adventures-2.json](./410648-gianpierino-adventures-2.json) |
 | GiAnt | 33696 | [33696-giant.json](./33696-giant.json) |
 | Giant and Me | 174757 | [174757-giant-and-me.json](./174757-giant-and-me.json) |
+| Giant Bear Rampage! | 119544 | [119544-giant-bear-rampage.json](./119544-giant-bear-rampage.json) |
 | Giant Blobs From Mars | 157391 | [157391-giant-blobs-from-mars.json](./157391-giant-blobs-from-mars.json) |
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
