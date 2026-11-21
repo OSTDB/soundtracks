@@ -1209,7 +1209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
-| Xyanide | 6254 | [6254-xyanide.json](./6254-xyanide.json) |
 | Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
 | Xybots | 12370 | [12370-xybots.json](./12370-xybots.json) |
 | Xydonia | 176521 | [176521-xydonia.json](./176521-xydonia.json) |
