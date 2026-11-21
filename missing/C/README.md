@@ -7979,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chess: The Gathering | 50446 | [50446-chess-the-gathering.json](./50446-chess-the-gathering.json) |
 | Chess: The Lost Pieces | 216702 | [216702-chess-the-lost-pieces.json](./216702-chess-the-lost-pieces.json) |
+| Chess: Three Kingdom | 427993 | [427993-chess-three-kingdom.json](./427993-chess-three-kingdom.json) |
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess? OK! - 3000 unique chess problems | 104320 | [104320-chess-ok-3000-unique-chess-problems.json](./104320-chess-ok-3000-unique-chess-problems.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
@@ -13600,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldline: Disconnect | 422240 | [422240-coldline-disconnect.json](./422240-coldline-disconnect.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
+| ColdShift Derby | 427918 | [427918-coldshift-derby.json](./427918-coldshift-derby.json) |
 | ColdSide | 128834 | [128834-coldside.json](./128834-coldside.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
 | Coldsnap | 400724 | [400724-coldsnap.json](./400724-coldsnap.json) |
@@ -17570,6 +17572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Pool | 238404 | [238404-cosmic-pool.json](./238404-cosmic-pool.json) |
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Puzzler | 135505 | [135505-cosmic-puzzler.json](./135505-cosmic-puzzler.json) |
+| Cosmic Puzzles | 427908 | [427908-cosmic-puzzles.json](./427908-cosmic-puzzles.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
 | Cosmic Race | 78852 | [78852-cosmic-race.json](./78852-cosmic-race.json) |
 | Cosmic Race: Galactic Showdown | 260267 | [260267-cosmic-race-galactic-showdown.json](./260267-cosmic-race-galactic-showdown.json) |
@@ -17909,6 +17912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Count Pacula | 335178 | [335178-count-pacula.json](./335178-count-pacula.json) |
 | Count Pumpcula | 207655 | [207655-count-pumpcula.json](./207655-count-pumpcula.json) |
 | Count the Dead | 148787 | [148787-count-the-dead.json](./148787-count-the-dead.json) |
+| Count the Draw | 427977 | [427977-count-the-draw.json](./427977-count-the-draw.json) |
 | Count the Score | 407839 | [407839-count-the-score.json](./407839-count-the-score.json) |
 | Count to 10: Learn Numbers with Montessori | 74834 | [74834-count-to-10-learn-numbers-with-montessori.json](./74834-count-to-10-learn-numbers-with-montessori.json) |
 | Count to Ten | 301876 | [301876-count-to-ten.json](./301876-count-to-ten.json) |
@@ -20228,6 +20232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Alive: Genesis of the Heretic | 125490 | [125490-crimson-alive-genesis-of-the-heretic.json](./125490-crimson-alive-genesis-of-the-heretic.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
+| Crimson Animatronic | 427976 | [427976-crimson-animatronic.json](./427976-crimson-animatronic.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Canyon | 260913 | [260913-crimson-canyon.json](./260913-crimson-canyon.json) |
@@ -22717,6 +22722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Mania | 323098 | [323098-cupcake-mania.json](./323098-cupcake-mania.json) |
 | Cupcake Match | 146751 | [146751-cupcake-match.json](./146751-cupcake-match.json) |
 | Cupcake Remember | 190028 | [190028-cupcake-remember.json](./190028-cupcake-remember.json) |
+| Cupcake Swap | 427979 | [427979-cupcake-swap.json](./427979-cupcake-swap.json) |
 | Cupcake: an Apartment Adventure | 163818 | [163818-cupcake-an-apartment-adventure.json](./163818-cupcake-an-apartment-adventure.json) |
 | Cupcakeroo! | 256792 | [256792-cupcakeroo.json](./256792-cupcakeroo.json) |
 | Cupcakes and Critters | 63560 | [63560-cupcakes-and-critters.json](./63560-cupcakes-and-critters.json) |
