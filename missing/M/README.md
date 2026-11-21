@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Me Real | 153777 | [153777-make-me-real.json](./153777-make-me-real.json) |
 | Make Me Real II: Sovereigns | 153778 | [153778-make-me-real-ii-sovereigns.json](./153778-make-me-real-ii-sovereigns.json) |
 | Make Me Real: Worthlessness Selected | 278314 | [278314-make-me-real-worthlessness-selected.json](./278314-make-me-real-worthlessness-selected.json) |
+| Make Me Whole | 427433 | [427433-make-me-whole.json](./427433-make-me-whole.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make More Views | 281798 | [281798-make-more-views.json](./281798-make-more-views.json) |
@@ -5438,10 +5439,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Doctor Doom Supreme Ruler Costume | 414776 | [414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json](./414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json) |
 | Marvel Tokon: Fighting Souls - Howard the Duck Lobby Avatar and Cosmo Lobby Pet | 414774 | [414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json](./414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json) |
 | Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
+| Marvel Tokon: Fighting Souls - Phoenix Cyclops Classic Costume Pack | 427342 | [427342-marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack.json](./427342-marvel-tokon-fighting-souls-phoenix-cyclops-classic-costume-pack.json) |
 | Marvel Tokon: Fighting Souls - Storm Punk Rock Costume | 414773 | [414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json](./414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json) |
 | Marvel Tokon: Fighting Souls - Ultimate Edition | 405239 | [405239-marvel-tokon-fighting-souls-ultimate-edition.json](./405239-marvel-tokon-fighting-souls-ultimate-edition.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
+| Marvel Tokon: Fighting Souls – Hulk Joe Fixit Costume Pack | 427344 | [427344-marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack.json](./427344-marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
 | Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
 | Marvel Ultimate Alliance & Forza Motorsport 2 | 246614 | [246614-marvel-ultimate-alliance-and-forza-motorsport-2.json](./246614-marvel-ultimate-alliance-and-forza-motorsport-2.json) |
@@ -18001,6 +18004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
+| Monster Alchemy | 427333 | [427333-monster-alchemy.json](./427333-monster-alchemy.json) |
 | Monster Allergy | 425874 | [425874-monster-allergy.json](./425874-monster-allergy.json) |
 | Monster Among Us | 189908 | [189908-monster-among-us.json](./189908-monster-among-us.json) |
 | Monster and Snakes 1.1 | 349497 | [349497-monster-and-snakes-1-1.json](./349497-monster-and-snakes-1-1.json) |
