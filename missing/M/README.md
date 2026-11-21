@@ -21693,6 +21693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MrFox | 207770 | [207770-mrfox.json](./207770-mrfox.json) |
 | MRG: Matando Robôs Gigantes - O Jogo | 346776 | [346776-mrg-matando-robos-gigantes-o-jogo.json](./346776-mrg-matando-robos-gigantes-o-jogo.json) |
 | MrHuh | 295213 | [295213-mrhuh.json](./295213-mrhuh.json) |
+| MRK1 | 425479 | [425479-mrk1.json](./425479-mrk1.json) |
 | Mroi | 333940 | [333940-mroi.json](./333940-mroi.json) |
 | Mrs Kim | 110214 | [110214-mrs-kim.json](./110214-mrs-kim.json) |
 | Mrs. Dad vs. Körv | 78515 | [78515-mrs-dad-vs-korv.json](./78515-mrs-dad-vs-korv.json) |
@@ -24229,6 +24230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
 | My Own Pet | 32058 | [32058-my-own-pet.json](./32058-my-own-pet.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
+| My Owner's Graveyard | 425619 | [425619-my-owners-graveyard.json](./425619-my-owners-graveyard.json) |
 | My Paint: The Animated Paint Program | 46415 | [46415-my-paint-the-animated-paint-program.json](./46415-my-paint-the-animated-paint-program.json) |
 | My Paper Boat | 34979 | [34979-my-paper-boat.json](./34979-my-paper-boat.json) |
 | My Parents are Aliens | 325556 | [325556-my-parents-are-aliens.json](./325556-my-parents-are-aliens.json) |
