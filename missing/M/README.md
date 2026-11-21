@@ -8368,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck Subway Story | 221619 | [221619-meetnfuck-subway-story.json](./221619-meetnfuck-subway-story.json) |
 | Meet'N'Fuck Threesome Fun | 221621 | [221621-meetnfuck-threesome-fun.json](./221621-meetnfuck-threesome-fun.json) |
 | Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
+| Meet'N'Fuck: Detective RPG | 418973 | [418973-meetnfuck-detective-rpg.json](./418973-meetnfuck-detective-rpg.json) |
 | Meet'N'Fuck: Magic Book | 418994 | [418994-meetnfuck-magic-book.json](./418994-meetnfuck-magic-book.json) |
 | Meet'N'Fuck: Ocean Cruise | 221729 | [221729-meetnfuck-ocean-cruise.json](./221729-meetnfuck-ocean-cruise.json) |
 | Meet'N'Fuck: Road Trip | 221622 | [221622-meetnfuck-road-trip.json](./221622-meetnfuck-road-trip.json) |
@@ -10107,6 +10108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 4 | 58527 | [58527-memorial-series-sunsoft-vol-4.json](./58527-memorial-series-sunsoft-vol-4.json) |
 | Memorial Series: Sunsoft vol. 5 | 58525 | [58525-memorial-series-sunsoft-vol-5.json](./58525-memorial-series-sunsoft-vol-5.json) |
 | Memorial Series: Sunsoft vol. 6 | 58526 | [58526-memorial-series-sunsoft-vol-6.json](./58526-memorial-series-sunsoft-vol-6.json) |
+| Memorial Song | 413246 | [413246-memorial-song.json](./413246-memorial-song.json) |
 | Memorick the Aprentice Knight | 47353 | [47353-memorick-the-aprentice-knight.json](./47353-memorick-the-aprentice-knight.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
@@ -16851,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
 | Model Employee | 274732 | [274732-model-employee.json](./274732-model-employee.json) |
 | Model Human | 277999 | [277999-model-human.json](./277999-model-human.json) |
+| Model Human | 418757 | [418757-model-human.json](./418757-model-human.json) |
 | Model Kit Shop Simulator | 397829 | [397829-model-kit-shop-simulator.json](./397829-model-kit-shop-simulator.json) |
 | Model Kit Simulator VR | 128232 | [128232-model-kit-simulator-vr.json](./128232-model-kit-simulator-vr.json) |
 | Model Melissa | 286521 | [286521-model-melissa.json](./286521-model-melissa.json) |
@@ -19181,6 +19184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moonbase Accident | 272122 | [272122-moonbase-accident.json](./272122-moonbase-accident.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
+| MoonBase Alpha 2019 | 418930 | [418930-moonbase-alpha-2019.json](./418930-moonbase-alpha-2019.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
 | Moonbase Down | 102984 | [102984-moonbase-down.json](./102984-moonbase-down.json) |
 | Moonbase IO | 23340 | [23340-moonbase-io.json](./23340-moonbase-io.json) |
@@ -19544,6 +19548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordecai Saw Game | 385050 | [385050-mordecai-saw-game.json](./385050-mordecai-saw-game.json) |
 | Mordeny | 356804 | [356804-mordeny.json](./356804-mordeny.json) |
 | Morder | 111565 | [111565-morder.json](./111565-morder.json) |
+| Morder | 418764 | [418764-morder.json](./418764-morder.json) |
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | MordeTwi Magic | 289156 | [289156-mordetwi-magic.json](./289156-mordetwi-magic.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
@@ -23130,6 +23135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ambitious Girlfriend | 299522 | [299522-my-ambitious-girlfriend.json](./299522-my-ambitious-girlfriend.json) |
 | My Amusement Park | 230438 | [230438-my-amusement-park.json](./230438-my-amusement-park.json) |
 | My Amusement Park | 47929 | [47929-my-amusement-park.json](./47929-my-amusement-park.json) |
+| My Anchor Girlfriend | 418762 | [418762-my-anchor-girlfriend.json](./418762-my-anchor-girlfriend.json) |
 | My Angel | 217770 | [217770-my-angel.json](./217770-my-angel.json) |
 | My Angel Girlfriend | 218657 | [218657-my-angel-girlfriend.json](./218657-my-angel-girlfriend.json) |
 | My Angel Romance | 299621 | [299621-my-angel-romance.json](./299621-my-angel-romance.json) |
@@ -24352,6 +24358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shelter | 348449 | [348449-my-shelter.json](./348449-my-shelter.json) |
 | My Shops | 241530 | [241530-my-shops.json](./241530-my-shops.json) |
 | My Shut-in Demon! | 399962 | [399962-my-shut-in-demon.json](./399962-my-shut-in-demon.json) |
+| My Silent Ville | 418969 | [418969-my-silent-ville.json](./418969-my-silent-ville.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
 | My Sim Aquarium | 70143 | [70143-my-sim-aquarium.json](./70143-my-sim-aquarium.json) |
