@@ -4871,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seahawk | 354663 | [354663-seahawk.json](./354663-seahawk.json) |
+| Seahorse Soap Patrol | 425486 | [425486-seahorse-soap-patrol.json](./425486-seahorse-soap-patrol.json) |
 | Seaking Hunter | 188183 | [188183-seaking-hunter.json](./188183-seaking-hunter.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
 | Seal Electric Railway | 147668 | [147668-seal-electric-railway.json](./147668-seal-electric-railway.json) |
@@ -31603,6 +31604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories and Smoke | 153799 | [153799-stories-and-smoke.json](./153799-stories-and-smoke.json) |
 | Stories from Sol: The Gun-Dog | 212585 | [212585-stories-from-sol-the-gun-dog.json](./212585-stories-from-sol-the-gun-dog.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
+| Stories From the Factory 3: A Slow Turn | 425648 | [425648-stories-from-the-factory-3-a-slow-turn.json](./425648-stories-from-the-factory-3-a-slow-turn.json) |
 | Stories from the Outbreak | 216522 | [216522-stories-from-the-outbreak.json](./216522-stories-from-the-outbreak.json) |
 | Stories in Glass: Winter | 274911 | [274911-stories-in-glass-winter.json](./274911-stories-in-glass-winter.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
