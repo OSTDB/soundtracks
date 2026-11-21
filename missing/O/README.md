@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offensive Combat: Redux! | 54697 | [54697-offensive-combat-redux.json](./54697-offensive-combat-redux.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | Offering App | 196076 | [196076-offering-app.json](./196076-offering-app.json) |
+| Offering to the Duck God | 428506 | [428506-offering-to-the-duck-god.json](./428506-offering-to-the-duck-god.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office 29 | 325743 | [325743-office-29.json](./325743-office-29.json) |
 | Office 5 | 372953 | [372953-office-5.json](./372953-office-5.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Small Favor | 176929 | [176929-one-small-favor.json](./176929-one-small-favor.json) |
 | One Small Fire At A Time | 32577 | [32577-one-small-fire-at-a-time.json](./32577-one-small-fire-at-a-time.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
+| One Sock Short | 428589 | [428589-one-sock-short.json](./428589-one-sock-short.json) |
 | One Socket | 295611 | [295611-one-socket.json](./295611-one-socket.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Song, One Life | 395278 | [395278-one-song-one-life.json](./395278-one-song-one-life.json) |
@@ -4144,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | OplitisAV | 189813 | [189813-oplitisav.json](./189813-oplitisav.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
+| Opolyx | 428504 | [428504-opolyx.json](./428504-opolyx.json) |
 | Opona | 380822 | [380822-opona.json](./380822-opona.json) |
 | Opossession | 312619 | [312619-opossession.json](./312619-opossession.json) |
 | Opossum Country | 181837 | [181837-opossum-country.json](./181837-opossum-country.json) |
