@@ -1904,7 +1904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 200 in 1 | 307457 | [307457-family-sport-200-in-1.json](./307457-family-sport-200-in-1.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
-| Family Stadium 2003 | 3913 | [3913-family-stadium-2003.json](./3913-family-stadium-2003.json) |
 | Family Table Tennis | 6681 | [6681-family-table-tennis.json](./6681-family-table-tennis.json) |
 | Family Table Tennis 3D | 85659 | [85659-family-table-tennis-3d.json](./85659-family-table-tennis-3d.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
@@ -6140,7 +6139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Round Tennis | 246328 | [246328-final-round-tennis.json](./246328-final-round-tennis.json) |
 | Final Rounds | 340076 | [340076-final-rounds.json](./340076-final-rounds.json) |
 | Final Rounds: DLC | 340077 | [340077-final-rounds-dlc.json](./340077-final-rounds-dlc.json) |
-| Final Rush | 3776 | [3776-final-rush.json](./3776-final-rush.json) |
 | Final Saga | 66763 | [66763-final-saga.json](./66763-final-saga.json) |
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Selection | 422801 | [422801-final-selection.json](./422801-final-selection.json) |
@@ -10463,7 +10461,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Mahjong | 56656 | [56656-food-mahjong.json](./56656-food-mahjong.json) |
 | Food Maze | 234678 | [234678-food-maze.json](./234678-food-maze.json) |
 | Food Monster and Animals Memory Match | 82354 | [82354-food-monster-and-animals-memory-match.json](./82354-food-monster-and-animals-memory-match.json) |
-| Food Network: Cook or Be Cooked | 4858 | [4858-food-network-cook-or-be-cooked.json](./4858-food-network-cook-or-be-cooked.json) |
 | Food of Fortune | 177745 | [177745-food-of-fortune.json](./177745-food-of-fortune.json) |
 | Food Park Manager | 333260 | [333260-food-park-manager.json](./333260-food-park-manager.json) |
 | Food Poppers | 189031 | [189031-food-poppers.json](./189031-food-poppers.json) |
@@ -13444,7 +13441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Road | 99464 | [99464-free-road.json](./99464-free-road.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
 | Free Running | 409046 | [409046-free-running.json](./409046-free-running.json) |
-| Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
 | Free Running 2 | 409047 | [409047-free-running-2.json](./409047-free-running-2.json) |
 | Free Shot Frenzy | 118538 | [118538-free-shot-frenzy.json](./118538-free-shot-frenzy.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
