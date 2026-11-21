@@ -2373,7 +2373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unextinction | 365862 | [365862-unextinction.json](./365862-unextinction.json) |
 | Unfabled | 180859 | [180859-unfabled.json](./180859-unfabled.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
-| Unfair | 124204 | [124204-unfair.json](./124204-unfair.json) |
 | Unfair | 233137 | [233137-unfair.json](./233137-unfair.json) |
 | Unfair Dungeon | 384305 | [384305-unfair-dungeon.json](./384305-unfair-dungeon.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
