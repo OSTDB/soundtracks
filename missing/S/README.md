@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Ground | 340675 | [340675-sacred-ground.json](./340675-sacred-ground.json) |
 | Sacred Grove Solitaire | 115523 | [115523-sacred-grove-solitaire.json](./115523-sacred-grove-solitaire.json) |
+| Sacred Judgment | 422911 | [422911-sacred-judgment.json](./422911-sacred-judgment.json) |
 | Sacred Land | 425433 | [425433-sacred-land.json](./425433-sacred-land.json) |
 | Sacred Legend: Battle of the Gods | 182037 | [182037-sacred-legend-battle-of-the-gods.json](./182037-sacred-legend-battle-of-the-gods.json) |
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
@@ -23964,6 +23965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark of Light | 116049 | [116049-spark-of-light.json](./116049-spark-of-light.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
+| Spark of Tales | 422877 | [422877-spark-of-tales.json](./422877-spark-of-tales.json) |
 | Spark of Y | 427992 | [427992-spark-of-y.json](./427992-spark-of-y.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
