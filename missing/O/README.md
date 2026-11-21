@@ -116,7 +116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oases | 134393 | [134393-oases.json](./134393-oases.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis | 390094 | [390094-oasis.json](./390094-oasis.json) |
-| Oasis | 821 | [821-oasis.json](./821-oasis.json) |
 | Oasis Bistro | 220154 | [220154-oasis-bistro.json](./220154-oasis-bistro.json) |
 | Oasis Blitz | 319690 | [319690-oasis-blitz.json](./319690-oasis-blitz.json) |
 | Oasis Defense | 367118 | [367118-oasis-defense.json](./367118-oasis-defense.json) |
@@ -636,7 +635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octodad Shorts | 382904 | [382904-octodad-shorts.json](./382904-octodad-shorts.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | Octofoot | 180446 | [180446-octofoot.json](./180446-octofoot.json) |
-| OctoFurry | 128971 | [128971-octofurry.json](./128971-octofurry.json) |
 | Octogeddon | 25640 | [25640-octogeddon.json](./25640-octogeddon.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octohill Ski Tycoon | 332899 | [332899-octohill-ski-tycoon.json](./332899-octohill-ski-tycoon.json) |
@@ -1182,7 +1180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Jeep Quest: Mountain Trails | 293363 | [293363-offroad-jeep-quest-mountain-trails.json](./293363-offroad-jeep-quest-mountain-trails.json) |
 | Offroad Legends | 88984 | [88984-offroad-legends.json](./88984-offroad-legends.json) |
 | Offroad Legends 2 | 38028 | [38028-offroad-legends-2.json](./38028-offroad-legends-2.json) |
-| Offroad Mania | 128460 | [128460-offroad-mania.json](./128460-offroad-mania.json) |
 | Offroad Masters: Motocross Races | 307638 | [307638-offroad-masters-motocross-races.json](./307638-offroad-masters-motocross-races.json) |
 | Offroad Mechanic Simulator | 149870 | [149870-offroad-mechanic-simulator.json](./149870-offroad-mechanic-simulator.json) |
 | Offroad Mini Racing | 143547 | [143547-offroad-mini-racing.json](./143547-offroad-mini-racing.json) |
@@ -6001,7 +5998,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Driver Simulator | 216961 | [216961-outlaw-driver-simulator.json](./216961-outlaw-driver-simulator.json) |
 | Outlaw Golf | 200896 | [200896-outlaw-golf.json](./200896-outlaw-golf.json) |
 | Outlaw Golf | 3438 | [3438-outlaw-golf.json](./3438-outlaw-golf.json) |
-| Outlaw Golf 2 | 3437 | [3437-outlaw-golf-2.json](./3437-outlaw-golf-2.json) |
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlaw Heart | 233815 | [233815-outlaw-heart.json](./233815-outlaw-heart.json) |
@@ -6173,7 +6169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
 | Outstation | 121858 | [121858-outstation.json](./121858-outstation.json) |
-| Outta Gas | 124403 | [124403-outta-gas.json](./124403-outta-gas.json) |
 | Outta Hand | 253175 | [253175-outta-hand.json](./253175-outta-hand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
 | Outta Space | 409330 | [409330-outta-space.json](./409330-outta-space.json) |
@@ -6459,11 +6454,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord | 341528 | [341528-overlord.json](./341528-overlord.json) |
 | Overlord | 44 | [44-overlord.json](./44-overlord.json) |
 | Overlord II | 46 | [46-overlord-ii.json](./46-overlord-ii.json) |
-| Overlord: Dark Legend | 47 | [47-overlord-dark-legend.json](./47-overlord-dark-legend.json) |
 | Overlord: Escape from Nazarick | 185855 | [185855-overlord-escape-from-nazarick.json](./185855-overlord-escape-from-nazarick.json) |
 | Overlord: Escape From Nazarick - Limited Collector's Edition | 285683 | [285683-overlord-escape-from-nazarick-limited-collectors-edition.json](./285683-overlord-escape-from-nazarick-limited-collectors-edition.json) |
 | Overlord: Fellowship of Evil | 9901 | [9901-overlord-fellowship-of-evil.json](./9901-overlord-fellowship-of-evil.json) |
-| Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
 | Overlord: Ultimate Evil Collection | 53439 | [53439-overlord-ultimate-evil-collection.json](./53439-overlord-ultimate-evil-collection.json) |
