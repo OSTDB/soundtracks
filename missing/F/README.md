@@ -6572,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Fury Showdown | 348535 | [348535-finger-fury-showdown.json](./348535-finger-fury-showdown.json) |
 | Finger Gravity | 253263 | [253263-finger-gravity.json](./253263-finger-gravity.json) |
 | Finger Guessing King | 169722 | [169722-finger-guessing-king.json](./169722-finger-guessing-king.json) |
+| Finger Hoola | 22199 | [22199-finger-hoola.json](./22199-finger-hoola.json) |
 | Finger Is 300 Bugs | 242958 | [242958-finger-is-300-bugs.json](./242958-finger-is-300-bugs.json) |
 | Finger Jets: Phase Challenge | 99452 | [99452-finger-jets-phase-challenge.json](./99452-finger-jets-phase-challenge.json) |
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
@@ -7983,6 +7984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Simulator | 96949 | [96949-fitness-simulator.json](./96949-fitness-simulator.json) |
 | Fitness Village | 114697 | [114697-fitness-village.json](./114697-fitness-village.json) |
 | Fitness VR | 201880 | [201880-fitness-vr.json](./201880-fitness-vr.json) |
+| Fitness Waifu | 430361 | [430361-fitness-waifu.json](./430361-fitness-waifu.json) |
 | Fitriz | 212147 | [212147-fitriz.json](./212147-fitriz.json) |
 | FitStrike | 187138 | [187138-fitstrike.json](./187138-fitstrike.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
@@ -9364,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floatineer | 358242 | [358242-floatineer.json](./358242-floatineer.json) |
 | Floating Block Forever | 393095 | [393095-floating-block-forever.json](./393095-floating-block-forever.json) |
+| Floating Cloud God Saves the Pilgrims | 22321 | [22321-floating-cloud-god-saves-the-pilgrims.json](./22321-floating-cloud-god-saves-the-pilgrims.json) |
 | Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Coffin | 262765 | [262765-floating-coffin.json](./262765-floating-coffin.json) |
@@ -12444,6 +12447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 6: VIP Membership | 401831 | [401831-forza-horizon-6-vip-membership.json](./401831-forza-horizon-6-vip-membership.json) |
 | Forza Horizon 6: Welcome Pack | 401829 | [401829-forza-horizon-6-welcome-pack.json](./401829-forza-horizon-6-welcome-pack.json) |
 | Forza Horizon: Limited Collector's Edition | 41594 | [41594-forza-horizon-limited-collectors-edition.json](./41594-forza-horizon-limited-collectors-edition.json) |
+| Forza Horizon: Rally | 22201 | [22201-forza-horizon-rally.json](./22201-forza-horizon-rally.json) |
 | Forza Motorsport | 3073 | [3073-forza-motorsport.json](./3073-forza-motorsport.json) |
 | Forza Motorsport 2 | 3072 | [3072-forza-motorsport-2.json](./3072-forza-motorsport-2.json) |
 | Forza Motorsport 2: Limited Collector's Edition | 47469 | [47469-forza-motorsport-2-limited-collectors-edition.json](./47469-forza-motorsport-2-limited-collectors-edition.json) |
