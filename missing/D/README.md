@@ -875,7 +875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova | 6779 | [6779-dance-dance-revolution-supernova.json](./6779-dance-dance-revolution-supernova.json) |
 | Dance Dance Revolution Supernova 2 | 6780 | [6780-dance-dance-revolution-supernova-2.json](./6780-dance-dance-revolution-supernova-2.json) |
-| Dance Dance Revolution Ultramix 2 | 5800 | [5800-dance-dance-revolution-ultramix-2.json](./5800-dance-dance-revolution-ultramix-2.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
 | Dance Dance Revolution Universe 3 | 6955 | [6955-dance-dance-revolution-universe-3.json](./6955-dance-dance-revolution-universe-3.json) |
@@ -2084,7 +2083,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Riddle | 227538 | [227538-dark-riddle.json](./227538-dark-riddle.json) |
 | Dark Ride Escape | 310577 | [310577-dark-ride-escape.json](./310577-dark-ride-escape.json) |
 | Dark Ride Simulator | 290605 | [290605-dark-ride-simulator.json](./290605-dark-ride-simulator.json) |
-| Dark Rift | 3468 | [3468-dark-rift.json](./3468-dark-rift.json) |
 | Dark Rising | 72482 | [72482-dark-rising.json](./72482-dark-rising.json) |
 | Dark Roast Cafe | 300508 | [300508-dark-roast-cafe.json](./300508-dark-roast-cafe.json) |
 | Dark Roll | 112861 | [112861-dark-roll.json](./112861-dark-roll.json) |
@@ -4955,7 +4953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal | 220081 | [220081-deal-or-no-deal.json](./220081-deal-or-no-deal.json) |
 | Deal or No Deal | 233990 | [233990-deal-or-no-deal.json](./233990-deal-or-no-deal.json) |
 | Deal or No Deal | 248609 | [248609-deal-or-no-deal.json](./248609-deal-or-no-deal.json) |
-| Deal or No Deal | 4800 | [4800-deal-or-no-deal.json](./4800-deal-or-no-deal.json) |
 | Deal or No Deal: Das Interaktive DVD-Spiel | 242434 | [242434-deal-or-no-deal-das-interaktive-dvd-spiel.json](./242434-deal-or-no-deal-das-interaktive-dvd-spiel.json) |
 | Deal or No Deal: DVD Game | 319737 | [319737-deal-or-no-deal-dvd-game.json](./319737-deal-or-no-deal-dvd-game.json) |
 | Deal or No Deal: Electronic Personald Hand Held Game | 316577 | [316577-deal-or-no-deal-electronic-personald-hand-held-game.json](./316577-deal-or-no-deal-electronic-personald-hand-held-game.json) |
@@ -5545,7 +5542,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathroids | 166907 | [166907-deathroids.json](./166907-deathroids.json) |
 | DeathRoll | 307000 | [307000-deathroll.json](./307000-deathroll.json) |
 | Deathroned | 182559 | [182559-deathroned.json](./182559-deathroned.json) |
-| Deathrow | 5811 | [5811-deathrow.json](./5811-deathrow.json) |
 | Deathrun | 276214 | [276214-deathrun.json](./276214-deathrun.json) |
 | Deathrun | 361030 | [361030-deathrun.json](./361030-deathrun.json) |
 | Deathrun Guys | 215176 | [215176-deathrun-guys.json](./215176-deathrun-guys.json) |
@@ -7819,7 +7815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Kusuriya-san | 255429 | [255429-densetsu-no-kusuriya-san.json](./255429-densetsu-no-kusuriya-san.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densetsu no Ogre Battle: Zenobia no Ouji | 70738 | [70738-densetsu-no-ogre-battle-zenobia-no-ouji.json](./70738-densetsu-no-ogre-battle-zenobia-no-ouji.json) |
-| Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
 | Densetsu no Starfy | 176085 | [176085-densetsu-no-starfy.json](./176085-densetsu-no-starfy.json) |
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
 | Densetsu no Starfy 2 | 6371 | [6371-densetsu-no-starfy-2.json](./6371-densetsu-no-starfy-2.json) |
@@ -11362,7 +11357,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotica | 361625 | [361625-dinotica.json](./361625-dinotica.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
-| Dinotopia: The Sunstone Odyssey | 3879 | [3879-dinotopia-the-sunstone-odyssey.json](./3879-dinotopia-the-sunstone-odyssey.json) |
 | Dinotopia: The Timestone Pirates | 6378 | [6378-dinotopia-the-timestone-pirates.json](./6378-dinotopia-the-timestone-pirates.json) |
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
 | DinoTrek | 107695 | [107695-dinotrek.json](./107695-dinotrek.json) |
@@ -12200,7 +12194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: Welcome Pack | 366988 | [366988-disney-speedstorm-welcome-pack.json](./366988-disney-speedstorm-welcome-pack.json) |
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
-| Disney Sports Basketball | 3880 | [3880-disney-sports-basketball.json](./3880-disney-sports-basketball.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Skateboarding | 248465 | [248465-disney-sports-skateboarding.json](./248465-disney-sports-skateboarding.json) |
@@ -12321,7 +12314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Hercules | 205929 | [205929-disneys-hercules.json](./205929-disneys-hercules.json) |
 | Disney's Hercules Action Game | 9814 | [9814-disneys-hercules-action-game.json](./9814-disneys-hercules-action-game.json) |
 | Disney's Hercules: Animated Storybook | 139313 | [139313-disneys-hercules-animated-storybook.json](./139313-disneys-hercules-animated-storybook.json) |
-| Disney's Hide and Sneak | 3885 | [3885-disneys-hide-and-sneak.json](./3885-disneys-hide-and-sneak.json) |
 | Disney's Home on the Range | 49153 | [49153-disneys-home-on-the-range.json](./49153-disneys-home-on-the-range.json) |
 | Disney's Hot Shots: Timon and Pumbaa's Jungle Pinball | 109480 | [109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json](./109480-disneys-hot-shots-timon-and-pumbaas-jungle-pinball.json) |
 | Disney's House of Mouse: Pack the House | 337139 | [337139-disneys-house-of-mouse-pack-the-house.json](./337139-disneys-house-of-mouse-pack-the-house.json) |
@@ -13790,7 +13782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
 | Dokapon 3-2-1: Arashi wo Yobu Yuujou | 38133 | [38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json](./38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json) |
-| Dokapon DX: Wataru Sekai ha Oni Darake | 3888 | [3888-dokapon-dx-wataru-sekai-ha-oni-darake.json](./3888-dokapon-dx-wataru-sekai-ha-oni-darake.json) |
 | Dokapon Gaiden: Honoo no Audition | 38132 | [38132-dokapon-gaiden-honoo-no-audition.json](./38132-dokapon-gaiden-honoo-no-audition.json) |
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
 | Dokapon Kingdom | 4816 | [4816-dokapon-kingdom.json](./4816-dokapon-kingdom.json) |
@@ -16393,7 +16384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
 | Dr Jugo | 404446 | [404446-dr-jugo.json](./404446-dr-jugo.json) |
 | Dr Kawashima's Brain Training for Nintendo Switch | 122705 | [122705-dr-kawashimas-brain-training-for-nintendo-switch.json](./122705-dr-kawashimas-brain-training-for-nintendo-switch.json) |
-| Dr Kawashima's Devilish Brain Training | 5680 | [5680-dr-kawashimas-devilish-brain-training.json](./5680-dr-kawashimas-devilish-brain-training.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Livingstone, I Presume? | 148338 | [148338-dr-livingstone-i-presume.json](./148338-dr-livingstone-i-presume.json) |
 | Dr Livingstone, I Presume?: Digital Deluxe Edition | 167178 | [167178-dr-livingstone-i-presume-digital-deluxe-edition.json](./167178-dr-livingstone-i-presume-digital-deluxe-edition.json) |
@@ -17202,7 +17192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
-| Dragon Drive: D-Masters Shot | 3897 | [3897-dragon-drive-d-masters-shot.json](./3897-dragon-drive-d-masters-shot.json) |
 | Dragon Drive: Tactics Break | 250097 | [250097-dragon-drive-tactics-break.json](./250097-dragon-drive-tactics-break.json) |
 | Dragon Drive: World D Break | 49174 | [49174-dragon-drive-world-d-break.json](./49174-dragon-drive-world-d-break.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
@@ -18803,7 +18792,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
 | Dreamlords: Resurrection | 202154 | [202154-dreamlords-resurrection.json](./202154-dreamlords-resurrection.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
-| DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
 | Dreamo | 122164 | [122164-dreamo.json](./122164-dreamo.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
@@ -20529,7 +20517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: Plutonium Pak | 85709 | [85709-duke-nukem-3d-plutonium-pak.json](./85709-duke-nukem-3d-plutonium-pak.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
 | Duke Nukem 64 | 354728 | [354728-duke-nukem-64.json](./354728-duke-nukem-64.json) |
-| Duke Nukem Advance | 6393 | [6393-duke-nukem-advance.json](./6393-duke-nukem-advance.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
 | Duke Nukem Eternity | 376199 | [376199-duke-nukem-eternity.json](./376199-duke-nukem-eternity.json) |
@@ -22407,7 +22394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Xu Shu Additional Hypothetical Scenarios Set | 225939 | [225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json](./225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
-| Dynasty Warriors Advance | 6394 | [6394-dynasty-warriors-advance.json](./6394-dynasty-warriors-advance.json) |
 | Dynasty Warriors DS: Fighter's Battle | 21534 | [21534-dynasty-warriors-ds-fighters-battle.json](./21534-dynasty-warriors-ds-fighters-battle.json) |
 | Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
 | Dynasty Warriors Next | 19267 | [19267-dynasty-warriors-next.json](./19267-dynasty-warriors-next.json) |
