@@ -2033,7 +2033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Destiny | 328892 | [328892-balls-of-destiny.json](./328892-balls-of-destiny.json) |
 | Balls of Fame Holiday Bundle | 227700 | [227700-balls-of-fame-holiday-bundle.json](./227700-balls-of-fame-holiday-bundle.json) |
-| Balls of Fury | 6573 | [6573-balls-of-fury.json](./6573-balls-of-fury.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Life | 313546 | [313546-balls-of-life.json](./313546-balls-of-life.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
@@ -4585,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Princess Madelyn | 27376 | [27376-battle-princess-madelyn.json](./27376-battle-princess-madelyn.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
+| Battle Princess Overdrive | 420152 | [420152-battle-princess-overdrive.json](./420152-battle-princess-overdrive.json) |
 | Battle Probe | 40874 | [40874-battle-probe.json](./40874-battle-probe.json) |
 | Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
 | Battle Puzzle 2048: Space Girls | 336406 | [336406-battle-puzzle-2048-space-girls.json](./336406-battle-puzzle-2048-space-girls.json) |
@@ -7882,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Boyfriend | 130234 | [130234-better-boyfriend.json](./130234-better-boyfriend.json) |
 | Better Call Saul | 221831 | [221831-better-call-saul.json](./221831-better-call-saul.json) |
 | Better Call Saul Kart | 228261 | [228261-better-call-saul-kart.json](./228261-better-call-saul-kart.json) |
+| Better Chaos: Tidy Up the Supermarket | 420741 | [420741-better-chaos-tidy-up-the-supermarket.json](./420741-better-chaos-tidy-up-the-supermarket.json) |
 | Better Cluck Next Time | 290982 | [290982-better-cluck-next-time.json](./290982-better-cluck-next-time.json) |
 | Better Cluck Next Time II | 290980 | [290980-better-cluck-next-time-ii.json](./290980-better-cluck-next-time-ii.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
@@ -16095,6 +16096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty For Sharks | 129992 | [129992-bounty-for-sharks.json](./129992-bounty-for-sharks.json) |
 | Bounty Fusion | 376858 | [376858-bounty-fusion.json](./376858-bounty-fusion.json) |
 | Bounty Game | 191462 | [191462-bounty-game.json](./191462-bounty-game.json) |
+| Bounty Gunman | 420134 | [420134-bounty-gunman.json](./420134-bounty-gunman.json) |
 | Bounty Hounds | 38471 | [38471-bounty-hounds.json](./38471-bounty-hounds.json) |
 | Bounty Hounds Online | 92495 | [92495-bounty-hounds-online.json](./92495-bounty-hounds-online.json) |
 | Bounty Hunter | 251009 | [251009-bounty-hunter.json](./251009-bounty-hunter.json) |
