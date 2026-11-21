@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidless | 244914 | [244914-voidless.json](./244914-voidless.json) |
 | Voidlifted | 123487 | [123487-voidlifted.json](./123487-voidlifted.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
+| Voidling Bound | 341400 | [341400-voidling-bound.json](./341400-voidling-bound.json) |
 | Voidloop | 388179 | [388179-voidloop.json](./388179-voidloop.json) |
 | Voidnomaly | 378415 | [378415-voidnomaly.json](./378415-voidnomaly.json) |
 | Voidnomicon | 384031 | [384031-voidnomicon.json](./384031-voidnomicon.json) |
