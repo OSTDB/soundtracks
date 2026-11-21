@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Mysteries: Curse of the Emerald Tear | 10474 | [10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json](./10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json) |
 | Jewel Quest Mysteries: The Seventh Gate | 90739 | [90739-jewel-quest-mysteries-the-seventh-gate.json](./90739-jewel-quest-mysteries-the-seventh-gate.json) |
+| Jewel Quest Mysteries: The Seventh Gate - Collector's Edition | 426161 | [426161-jewel-quest-mysteries-the-seventh-gate-collectors-edition.json](./426161-jewel-quest-mysteries-the-seventh-gate-collectors-edition.json) |
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
 | Jewel Quest Solitaire 1 | 10475 | [10475-jewel-quest-solitaire-1.json](./10475-jewel-quest-solitaire-1.json) |
 | Jewel Quest Solitaire 3 | 10476 | [10476-jewel-quest-solitaire-3.json](./10476-jewel-quest-solitaire-3.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Express | 68547 | [68547-jigsaw-puzzle-express.json](./68547-jigsaw-puzzle-express.json) |
 | Jigsaw Puzzle Fever | 244045 | [244045-jigsaw-puzzle-fever.json](./244045-jigsaw-puzzle-fever.json) |
 | Jigsaw Puzzle Lovers | 235594 | [235594-jigsaw-puzzle-lovers.json](./235594-jigsaw-puzzle-lovers.json) |
+| Jigsaw Puzzle Lovers Fantasy 2 | 426145 | [426145-jigsaw-puzzle-lovers-fantasy-2.json](./426145-jigsaw-puzzle-lovers-fantasy-2.json) |
 | Jigsaw Puzzle Nature | 272755 | [272755-jigsaw-puzzle-nature.json](./272755-jigsaw-puzzle-nature.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Aliens | 263223 | [263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json](./263223-jigsaw-puzzle-pack-pixel-puzzles-ultimate-aliens.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Electro Macro | 268529 | [268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json](./268529-jigsaw-puzzle-pack-pixel-puzzles-ultimate-electro-macro.json) |
@@ -2564,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jixo 2: Summer Dreams - Collector's Edition | 362854 | [362854-jixo-2-summer-dreams-collectors-edition.json](./362854-jixo-2-summer-dreams-collectors-edition.json) |
 | Jixo 3: Hidden Horizons - Collector's Edition | 362853 | [362853-jixo-3-hidden-horizons-collectors-edition.json](./362853-jixo-3-hidden-horizons-collectors-edition.json) |
 | Jixo 4: Magical Nights - Collector’s Edition | 416784 | [416784-jixo-4-magical-nights-collector-s-edition.json](./416784-jixo-4-magical-nights-collector-s-edition.json) |
+| Jixo 5: Mask Parade - Collector's Edition | 426162 | [426162-jixo-5-mask-parade-collectors-edition.json](./426162-jixo-5-mask-parade-collectors-edition.json) |
 | Jixo: The Season of Joy - Collector's Edition | 337282 | [337282-jixo-the-season-of-joy-collectors-edition.json](./337282-jixo-the-season-of-joy-collectors-edition.json) |
 | Jixxaw | 169571 | [169571-jixxaw.json](./169571-jixxaw.json) |
 | Jixxaw: Party Time | 158398 | [158398-jixxaw-party-time.json](./158398-jixxaw-party-time.json) |
