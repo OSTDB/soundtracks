@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave the Room | 180408 | [180408-leave-the-room.json](./180408-leave-the-room.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
+| Leaves & Lanterns | 428595 | [428595-leaves-and-lanterns.json](./428595-leaves-and-lanterns.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaves: The Return | 30064 | [30064-leaves-the-return.json](./30064-leaves-the-return.json) |
@@ -11128,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | Lumenfall | 424259 | [424259-lumenfall.json](./424259-lumenfall.json) |
+| Lumenfall | 428572 | [428572-lumenfall.json](./428572-lumenfall.json) |
 | Lumenile: Found Footage | 274313 | [274313-lumenile-found-footage.json](./274313-lumenile-found-footage.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
 | Lumeshift | 416061 | [416061-lumeshift.json](./416061-lumeshift.json) |
