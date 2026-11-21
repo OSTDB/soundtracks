@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
 | Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
+| Farming Simulator 15: Gold Edition | 24209 | [24209-farming-simulator-15-gold-edition.json](./24209-farming-simulator-15-gold-edition.json) |
 | Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
 | Farming Simulator 15: JCB | 166084 | [166084-farming-simulator-15-jcb.json](./166084-farming-simulator-15-jcb.json) |
 | Farming Simulator 15: New Holland Pack | 166083 | [166083-farming-simulator-15-new-holland-pack.json](./166083-farming-simulator-15-new-holland-pack.json) |
