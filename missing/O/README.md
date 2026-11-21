@@ -2055,6 +2055,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ominous Objects: Phantom Reflection | 139096 | [139096-ominous-objects-phantom-reflection.json](./139096-ominous-objects-phantom-reflection.json) |
 | Ominous Objects: Phantom Reflection - Collector's Edition | 74245 | [74245-ominous-objects-phantom-reflection-collectors-edition.json](./74245-ominous-objects-phantom-reflection-collectors-edition.json) |
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
+| Ominous Objects: The Cursed Guards - Collector's Edition | 426241 | [426241-ominous-objects-the-cursed-guards-collectors-edition.json](./426241-ominous-objects-the-cursed-guards-collectors-edition.json) |
+| Ominous Objects: Trail of Time - Collector's Edition | 426242 | [426242-ominous-objects-trail-of-time-collectors-edition.json](./426242-ominous-objects-trail-of-time-collectors-edition.json) |
 | Ominous Obscurity | 285544 | [285544-ominous-obscurity.json](./285544-ominous-obscurity.json) |
 | Ominous Paths | 206649 | [206649-ominous-paths.json](./206649-ominous-paths.json) |
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
@@ -4591,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
 | Order of the Gatekeepers | 120005 | [120005-order-of-the-gatekeepers.json](./120005-order-of-the-gatekeepers.json) |
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
+| Order of the Light: The Deathly Artisan - Collector's Edition | 426243 | [426243-order-of-the-light-the-deathly-artisan-collectors-edition.json](./426243-order-of-the-light-the-deathly-artisan-collectors-edition.json) |
 | Order of the Metal Glove | 51662 | [51662-order-of-the-metal-glove.json](./51662-order-of-the-metal-glove.json) |
 | Order of the Odonata | 143366 | [143366-order-of-the-odonata.json](./143366-order-of-the-odonata.json) |
 | Order of the Sinking Star | 381222 | [381222-order-of-the-sinking-star.json](./381222-order-of-the-sinking-star.json) |
@@ -5456,6 +5459,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Beautiful Earth 2 | 164887 | [164887-our-beautiful-earth-2.json](./164887-our-beautiful-earth-2.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
 | Our Beautiful Earth 4 | 294692 | [294692-our-beautiful-earth-4.json](./294692-our-beautiful-earth-4.json) |
+| Our Beautiful Earth 6: Collector's Edition | 426244 | [426244-our-beautiful-earth-6-collectors-edition.json](./426244-our-beautiful-earth-6-collectors-edition.json) |
+| Our Beautiful Earth 7: Collector's Edition | 426245 | [426245-our-beautiful-earth-7-collectors-edition.json](./426245-our-beautiful-earth-7-collectors-edition.json) |
+| Our Beautiful Earth 8: Collector's Edition | 426246 | [426246-our-beautiful-earth-8-collectors-edition.json](./426246-our-beautiful-earth-8-collectors-edition.json) |
 | Our Blood Ties | 415353 | [415353-our-blood-ties.json](./415353-our-blood-ties.json) |
 | Our Brotherly War | 190865 | [190865-our-brotherly-war.json](./190865-our-brotherly-war.json) |
 | Our Burial Dolls Remastered | 386210 | [386210-our-burial-dolls-remastered.json](./386210-our-burial-dolls-remastered.json) |
