@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Teddy | 106930 | [106930-camp-teddy.json](./106930-camp-teddy.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
 | Camp Wars | 186668 | [186668-camp-wars.json](./186668-camp-wars.json) |
+| Camp Whittlewood | 420737 | [420737-camp-whittlewood.json](./420737-camp-whittlewood.json) |
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
 | Campaign | 246322 | [246322-campaign.json](./246322-campaign.json) |
@@ -6592,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalk | 8625 | [8625-chalk.json](./8625-chalk.json) |
 | Chalk Dash Carnival | 111918 | [111918-chalk-dash-carnival.json](./111918-chalk-dash-carnival.json) |
 | Chalk Gardens | 119437 | [119437-chalk-gardens.json](./119437-chalk-gardens.json) |
+| Chalk Paper Scissors | 420120 | [420120-chalk-paper-scissors.json](./420120-chalk-paper-scissors.json) |
 | Chalk River | 322857 | [322857-chalk-river.json](./322857-chalk-river.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
 | Chalkboard | 183279 | [183279-chalkboard.json](./183279-chalkboard.json) |
@@ -8207,6 +8209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Flick | 239398 | [239398-chick-flick.json](./239398-chick-flick.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Invasion | 150939 | [150939-chick-invasion.json](./150939-chick-invasion.json) |
+| Chick N' Gun | 420115 | [420115-chick-n-gun.json](./420115-chick-n-gun.json) |
 | Chick Rage | 236032 | [236032-chick-rage.json](./236032-chick-rage.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
 | Chick Room Escape | 314011 | [314011-chick-room-escape.json](./314011-chick-room-escape.json) |
