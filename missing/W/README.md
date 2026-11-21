@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Sorting | 372518 | [372518-waste-sorting.json](./372518-waste-sorting.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
+| Waste Walkers | 35208 | [35208-waste-walkers.json](./35208-waste-walkers.json) |
 | Waste Walkers Deliverance | 135106 | [135106-waste-walkers-deliverance.json](./135106-waste-walkers-deliverance.json) |
 | Waste Walkers Subsistence | 135107 | [135107-waste-walkers-subsistence.json](./135107-waste-walkers-subsistence.json) |
 | Waste Water | 395175 | [395175-waste-water.json](./395175-waste-water.json) |
