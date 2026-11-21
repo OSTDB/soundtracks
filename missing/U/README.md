@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Exploration Bundle | 218462 | [218462-urban-exploration-bundle.json](./218462-urban-exploration-bundle.json) |
 | Urban Explorer | 120699 | [120699-urban-explorer.json](./120699-urban-explorer.json) |
 | Urban Explorer Golf | 105170 | [105170-urban-explorer-golf.json](./105170-urban-explorer-golf.json) |
+| Urban Explorer: Baldwin | 422868 | [422868-urban-explorer-baldwin.json](./422868-urban-explorer-baldwin.json) |
 | Urban Explorers | 334878 | [334878-urban-explorers.json](./334878-urban-explorers.json) |
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Extreme: Street Rage | 50934 | [50934-urban-extreme-street-rage.json](./50934-urban-extreme-street-rage.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsurogami | 259306 | [259306-utsurogami.json](./259306-utsurogami.json) |
 | Utsurun Desu: Kawauso Hawaii he Iku!!! | 48553 | [48553-utsurun-desu-kawauso-hawaii-he-iku.json](./48553-utsurun-desu-kawauso-hawaii-he-iku.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
+| Utsusemi: Kioku no Kanata | 422906 | [422906-utsusemi-kioku-no-kanata.json](./422906-utsusemi-kioku-no-kanata.json) |
 | Utsushite Jikkan! Diet Memo | 91682 | [91682-utsushite-jikkan-diet-memo.json](./91682-utsushite-jikkan-diet-memo.json) |
 | Utter a Name | 326216 | [326216-utter-a-name.json](./326216-utter-a-name.json) |
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
