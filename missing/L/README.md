@@ -2950,7 +2950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend | 81187 | [81187-legend.json](./81187-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
-| Legend Bowl | 122365 | [122365-legend-bowl.json](./122365-legend-bowl.json) |
 | Legend creatures | 128256 | [128256-legend-creatures.json](./128256-legend-creatures.json) |
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend Hunters | 248830 | [248830-legend-hunters.json](./248830-legend-hunters.json) |
