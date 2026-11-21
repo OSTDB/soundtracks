@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 5 - Kurai Hako no Ue | 296117 | [296117-tantei-kibukawa-ryousuke-jiken-tan-vol-5-kurai-hako-no-ue.json](./296117-tantei-kibukawa-ryousuke-jiken-tan-vol-5-kurai-hako-no-ue.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 6 - Tsuikou Saku Jiken | 296408 | [296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json](./296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json) |
+| Tantei Kibukawa Ryousuke Jikentan Midoumaru Tei Jiken | 413261 | [413261-tantei-kibukawa-ryousuke-jikentan-midoumaru-tei-jiken.json](./413261-tantei-kibukawa-ryousuke-jikentan-midoumaru-tei-jiken.json) |
 | Tantei Opera Milky Holmes | 38481 | [38481-tantei-opera-milky-holmes.json](./38481-tantei-opera-milky-holmes.json) |
 | Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
 | Tantei Shinshi Dash! | 122873 | [122873-tantei-shinshi-dash.json](./122873-tantei-shinshi-dash.json) |
@@ -16189,6 +16190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mummy: Dark Universe Stories | 36858 | [36858-the-mummy-dark-universe-stories.json](./36858-the-mummy-dark-universe-stories.json) |
 | The Mummy: Prodigium Strike | 36857 | [36857-the-mummy-prodigium-strike.json](./36857-the-mummy-prodigium-strike.json) |
 | The Mummy: Tomb of the Dragon Emperor | 5023 | [5023-the-mummy-tomb-of-the-dragon-emperor.json](./5023-the-mummy-tomb-of-the-dragon-emperor.json) |
+| The Mummy's Tomb | 418945 | [418945-the-mummys-tomb.json](./418945-the-mummys-tomb.json) |
 | The Munchables | 5024 | [5024-the-munchables.json](./5024-the-munchables.json) |
 | The Muncher | 67800 | [67800-the-muncher.json](./67800-the-muncher.json) |
 | The Munchkin Army | 335164 | [335164-the-munchkin-army.json](./335164-the-munchkin-army.json) |
@@ -23548,6 +23550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
 | Threedays | 351530 | [351530-threedays.json](./351530-threedays.json) |
+| Threedox | 413249 | [413249-threedox.json](./413249-threedox.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | Threejs | 206575 | [206575-threejs.json](./206575-threejs.json) |
 | Threes! | 9054 | [9054-threes.json](./9054-threes.json) |
@@ -23975,6 +23978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TI Puck | 421222 | [421222-ti-puck.json](./421222-ti-puck.json) |
 | TI Runner | 419116 | [419116-ti-runner.json](./419116-ti-runner.json) |
 | TI-Pei | 419895 | [419895-ti-pei.json](./419895-ti-pei.json) |
+| TI-Rex | 418948 | [418948-ti-rex.json](./418948-ti-rex.json) |
 | TI-Sweeper | 421191 | [421191-ti-sweeper.json](./421191-ti-sweeper.json) |
 | TI99 Clickety | 420969 | [420969-ti99-clickety.json](./420969-ti99-clickety.json) |
 | Tia: Weird Hunter | 378075 | [378075-tia-weird-hunter.json](./378075-tia-weird-hunter.json) |
@@ -34193,6 +34197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakker | 104898 | [104898-trakker.json](./104898-trakker.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
+| Traks | 413254 | [413254-traks.json](./413254-traks.json) |
 | Traktor | 46958 | [46958-traktor.json](./46958-traktor.json) |
 | Tralalero Tralala Backrooms Pools | 344244 | [344244-tralalero-tralala-backrooms-pools.json](./344244-tralalero-tralala-backrooms-pools.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
@@ -34236,6 +34241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | Tranquility | 55825 | [55825-tranquility.json](./55825-tranquility.json) |
+| Tranquility Base | 418929 | [418929-tranquility-base.json](./418929-tranquility-base.json) |
 | Tranquility Base Mining Colony: The Moon - Explorer Version | 106324 | [106324-tranquility-base-mining-colony-the-moon-explorer-version.json](./106324-tranquility-base-mining-colony-the-moon-explorer-version.json) |
 | Tranquility I | 131336 | [131336-tranquility-i.json](./131336-tranquility-i.json) |
 | Tranquilizer Gun | 61396 | [61396-tranquilizer-gun.json](./61396-tranquilizer-gun.json) |
@@ -37632,6 +37638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
+| Turn It Down | 418953 | [418953-turn-it-down.json](./418953-turn-it-down.json) |
 | Turn It On! | 95776 | [95776-turn-it-on.json](./95776-turn-it-on.json) |
 | Turn it! | 371430 | [371430-turn-it.json](./371430-turn-it.json) |
 | Turn Me On | 121399 | [121399-turn-me-on.json](./121399-turn-me-on.json) |
