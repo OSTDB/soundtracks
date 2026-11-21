@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Ball 3D | 335748 | [335748-nebula-ball-3d.json](./335748-nebula-ball-3d.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Commander | 46509 | [46509-nebula-commander.json](./46509-nebula-commander.json) |
+| Nebula Dominion | 426822 | [426822-nebula-dominion.json](./426822-nebula-dominion.json) |
 | Nebula Fighter | 126169 | [126169-nebula-fighter.json](./126169-nebula-fighter.json) |
 | Nebula Flow | 285079 | [285079-nebula-flow.json](./285079-nebula-flow.json) |
 | Nebula Invasion | 188845 | [188845-nebula-invasion.json](./188845-nebula-invasion.json) |
@@ -3546,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore: The Chamber Door | 149161 | [149161-nevermore-the-chamber-door.json](./149161-nevermore-the-chamber-door.json) |
 | Neverness to Everness: 999 Nights | 409904 | [409904-neverness-to-everness-999-nights.json](./409904-neverness-to-everness-999-nights.json) |
 | Neverness to Everness: For Whom the Verses Mourn | 421171 | [421171-neverness-to-everness-for-whom-the-verses-mourn.json](./421171-neverness-to-everness-for-whom-the-verses-mourn.json) |
+| Neverness to Everness: Once Upon a Glitched Call | 426688 | [426688-neverness-to-everness-once-upon-a-glitched-call.json](./426688-neverness-to-everness-once-upon-a-glitched-call.json) |
 | Neverness to Everness: Rising from the Moonlit Fog | 412691 | [412691-neverness-to-everness-rising-from-the-moonlit-fog.json](./412691-neverness-to-everness-rising-from-the-moonlit-fog.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
 | Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
 | Night at the Fun Park | 420345 | [420345-night-at-the-fun-park.json](./420345-night-at-the-fun-park.json) |
+| Night at The Gallery | 426689 | [426689-night-at-the-gallery.json](./426689-night-at-the-gallery.json) |
 | Night at the Grindhouse | 10599 | [10599-night-at-the-grindhouse.json](./10599-night-at-the-grindhouse.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
@@ -5199,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Cafe X | 339180 | [339180-nightmare-cafe-x.json](./339180-nightmare-cafe-x.json) |
 | Nightmare Castle | 229428 | [229428-nightmare-castle.json](./229428-nightmare-castle.json) |
 | Nightmare Cave | 121964 | [121964-nightmare-cave.json](./121964-nightmare-cave.json) |
+| Nightmare Challengers | 426708 | [426708-nightmare-challengers.json](./426708-nightmare-challengers.json) |
 | Nightmare Circus | 327111 | [327111-nightmare-circus.json](./327111-nightmare-circus.json) |
 | Nightmare Circus | 46177 | [46177-nightmare-circus.json](./46177-nightmare-circus.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
