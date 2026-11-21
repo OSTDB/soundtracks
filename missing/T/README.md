@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tearaway | 6363 | [6363-tearaway.json](./6363-tearaway.json) |
 | Tearaway Thomas | 57577 | [57577-tearaway-thomas.json](./57577-tearaway-thomas.json) |
 | Tearaway: Unfolded | 7606 | [7606-tearaway-unfolded.json](./7606-tearaway-unfolded.json) |
+| Tearaway: Unfolded - Crafted Edition | 24219 | [24219-tearaway-unfolded-crafted-edition.json](./24219-tearaway-unfolded-crafted-edition.json) |
 | Teardown | 122666 | [122666-teardown.json](./122666-teardown.json) |
 | Teardown: Creative Mode | 252848 | [252848-teardown-creative-mode.json](./252848-teardown-creative-mode.json) |
 | Teardown: Deluxe Edition | 270589 | [270589-teardown-deluxe-edition.json](./270589-teardown-deluxe-edition.json) |
@@ -7645,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue-G Interactive Vector Archive 77-97 | 406232 | [406232-the-blue-g-interactive-vector-archive-77-97.json](./406232-the-blue-g-interactive-vector-archive-77-97.json) |
 | The Bluecoats: North & South | 140958 | [140958-the-bluecoats-north-and-south.json](./140958-the-bluecoats-north-and-south.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
+| The Bluecoats: North vs. South | 24232 | [24232-the-bluecoats-north-vs-south.json](./24232-the-bluecoats-north-vs-south.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
@@ -26493,6 +26495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time O'Clock: The Mask of Crime | 423245 | [423245-time-oclock-the-mask-of-crime.json](./423245-time-oclock-the-mask-of-crime.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Ashes | 220521 | [220521-time-of-ashes.json](./220521-time-of-ashes.json) |
+| Time of Defiance | 24258 | [24258-time-of-defiance.json](./24258-time-of-defiance.json) |
 | Time of Dragons | 17029 | [17029-time-of-dragons.json](./17029-time-of-dragons.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
@@ -28522,6 +28525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Xanadu eX+: Limited Edition | 89846 | [89846-tokyo-xanadu-ex-limited-edition.json](./89846-tokyo-xanadu-ex-limited-edition.json) |
 | Tokyo Xtreme Racer | 20710 | [20710-tokyo-xtreme-racer.json](./20710-tokyo-xtreme-racer.json) |
 | Tokyo Xtreme Racer 2 | 4359 | [4359-tokyo-xtreme-racer-2.json](./4359-tokyo-xtreme-racer-2.json) |
+| Tokyo Xtreme Racer 3 | 24184 | [24184-tokyo-xtreme-racer-3.json](./24184-tokyo-xtreme-racer-3.json) |
 | Tokyo Xtreme Racer Advance | 49341 | [49341-tokyo-xtreme-racer-advance.json](./49341-tokyo-xtreme-racer-advance.json) |
 | Tokyo Xtreme Racer Drift | 44632 | [44632-tokyo-xtreme-racer-drift.json](./44632-tokyo-xtreme-racer-drift.json) |
 | Tokyo Xtreme Racer: Zero | 43289 | [43289-tokyo-xtreme-racer-zero.json](./43289-tokyo-xtreme-racer-zero.json) |
@@ -36317,6 +36321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 4: Gold Edition | 24226 | [24226-tropico-4-gold-edition.json](./24226-tropico-4-gold-edition.json) |
 | Tropico 4: Junta Military | 53851 | [53851-tropico-4-junta-military.json](./53851-tropico-4-junta-military.json) |
 | Tropico 4: Megalopolis | 53847 | [53847-tropico-4-megalopolis.json](./53847-tropico-4-megalopolis.json) |
+| Tropico 4: Modern Times | 24234 | [24234-tropico-4-modern-times.json](./24234-tropico-4-modern-times.json) |
 | Tropico 4: Pirate Heaven | 75685 | [75685-tropico-4-pirate-heaven.json](./75685-tropico-4-pirate-heaven.json) |
 | Tropico 4: Plantador | 53849 | [53849-tropico-4-plantador.json](./53849-tropico-4-plantador.json) |
 | Tropico 4: Propaganda | 53845 | [53845-tropico-4-propaganda.json](./53845-tropico-4-propaganda.json) |
