@@ -1532,7 +1532,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
 | NBA Jam 2000 | 3552 | [3552-nba-jam-2000.json](./3552-nba-jam-2000.json) |
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
-| NBA Jam 2002 | 6523 | [6523-nba-jam-2002.json](./6523-nba-jam-2002.json) |
 | NBA Jam 99 | 249121 | [249121-nba-jam-99.json](./249121-nba-jam-99.json) |
 | NBA Jam 99 | 3551 | [3551-nba-jam-99.json](./3551-nba-jam-99.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
@@ -3443,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Ending Night | 35919 | [35919-never-ending-night.json](./35919-never-ending-night.json) |
 | Never Ending Nightmare | 262247 | [262247-never-ending-nightmare.json](./262247-never-ending-nightmare.json) |
 | Never Ends Act | 208441 | [208441-never-ends-act.json](./208441-never-ends-act.json) |
+| Never Enough Corn | 420747 | [420747-never-enough-corn.json](./420747-never-enough-corn.json) |
 | Never Experiment On Cats! | 332830 | [332830-never-experiment-on-cats.json](./332830-never-experiment-on-cats.json) |
 | Never Fall | 334187 | [334187-never-fall.json](./334187-never-fall.json) |
 | Never Forget | 395379 | [395379-never-forget.json](./395379-never-forget.json) |
