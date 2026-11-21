@@ -2015,6 +2015,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Janshi Suchie-Pai IV Portable | 379905 | [379905-idol-janshi-suchie-pai-iv-portable.json](./379905-idol-janshi-suchie-pai-iv-portable.json) |
 | Idol Janshi Suchie-Pai Limited | 166550 | [166550-idol-janshi-suchie-pai-limited.json](./166550-idol-janshi-suchie-pai-limited.json) |
 | Idol Janshi Suchie-Pai Mecha Genteiban: Hatsubai 5 Shuunen (Toku) Package | 85821 | [85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json](./85821-idol-janshi-suchie-pai-mecha-genteiban-hatsubai-5-shuunen-toku-package.json) |
+| Idol Janshi Suchie-Pai Remix | 420858 | [420858-idol-janshi-suchie-pai-remix.json](./420858-idol-janshi-suchie-pai-remix.json) |
+| Idol Janshi Suchie-Pai Special | 420856 | [420856-idol-janshi-suchie-pai-special.json](./420856-idol-janshi-suchie-pai-special.json) |
 | Idol Janshi Suchie-Pai Special | 4305 | [4305-idol-janshi-suchie-pai-special.json](./4305-idol-janshi-suchie-pai-special.json) |
 | Idol Janshi Suchie-Pai: Milky no Yabou | 299296 | [299296-idol-janshi-suchie-pai-milky-no-yabou.json](./299296-idol-janshi-suchie-pai-milky-no-yabou.json) |
 | Idol Janshi Suchie-Pai: Saturn Tribute | 237764 | [237764-idol-janshi-suchie-pai-saturn-tribute.json](./237764-idol-janshi-suchie-pai-saturn-tribute.json) |
