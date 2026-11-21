@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Eat Paintings When Guards Aren't Looking | 394506 | [394506-i-eat-paintings-when-guards-arent-looking.json](./394506-i-eat-paintings-when-guards-arent-looking.json) |
 | I Expect You to Die | 25948 | [25948-i-expect-you-to-die.json](./25948-i-expect-you-to-die.json) |
 | I Expect You to Die 2 | 152218 | [152218-i-expect-you-to-die-2.json](./152218-i-expect-you-to-die-2.json) |
+| I Expect You to Die 3 | 240584 | [240584-i-expect-you-to-die-3.json](./240584-i-expect-you-to-die-3.json) |
 | I Expect You to Die: Home Sweet Home | 223146 | [223146-i-expect-you-to-die-home-sweet-home.json](./223146-i-expect-you-to-die-home-sweet-home.json) |
 | I face the darkness | 113141 | [113141-i-face-the-darkness.json](./113141-i-face-the-darkness.json) |
 | I Feel Fantastic | 217834 | [217834-i-feel-fantastic.json](./217834-i-feel-fantastic.json) |
