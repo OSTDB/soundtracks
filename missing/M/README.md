@@ -17280,6 +17280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moloko | 157006 | [157006-moloko.json](./157006-moloko.json) |
 | Molotov Man | 264275 | [264275-molotov-man.json](./264275-molotov-man.json) |
 | Molt | 260571 | [260571-molt.json](./260571-molt.json) |
+| Molten Armor | 55264 | [55264-molten-armor.json](./55264-molten-armor.json) |
 | Molten Horn | 243293 | [243293-molten-horn.json](./243293-molten-horn.json) |
 | Molten Winds: Open Editon | 288375 | [288375-molten-winds-open-editon.json](./288375-molten-winds-open-editon.json) |
 | Mòlù Tiáosèbǎn | 155883 | [155883-molu-tiaoseban.json](./155883-molu-tiaoseban.json) |
