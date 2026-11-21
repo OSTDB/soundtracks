@@ -12026,6 +12026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sign It | 413186 | [413186-sign-it.json](./413186-sign-it.json) |
 | Sign Me ABCs | 103659 | [103659-sign-me-abcs.json](./103659-sign-me-abcs.json) |
 | Sign Motion | 17805 | [17805-sign-motion.json](./17805-sign-motion.json) |
+| Sign My Petition | 423740 | [423740-sign-my-petition.json](./423740-sign-my-petition.json) |
 | Sign of Silence | 139275 | [139275-sign-of-silence.json](./139275-sign-of-silence.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Sign of Torment | 257348 | [257348-sign-of-torment.json](./257348-sign-of-torment.json) |
@@ -16405,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
+| Slums: Hauler 2 | 423742 | [423742-slums-hauler-2.json](./423742-slums-hauler-2.json) |
 | slurdgery | 307523 | [307523-slurdgery.json](./307523-slurdgery.json) |
 | Slurkum | 151348 | [151348-slurkum.json](./151348-slurkum.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
@@ -26546,6 +26548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprawl 96 | 314636 | [314636-sprawl-96.json](./314636-sprawl-96.json) |
 | Spray | 385404 | [385404-spray.json](./385404-spray.json) |
 | Spray | 5192 | [5192-spray.json](./5192-spray.json) |
+| Spray Days | 423466 | [423466-spray-days.json](./423466-spray-days.json) |
 | Spray Dynamite X Radioactive Insects | 111391 | [111391-spray-dynamite-x-radioactive-insects.json](./111391-spray-dynamite-x-radioactive-insects.json) |
 | Spray Girl | 111779 | [111779-spray-girl.json](./111779-spray-girl.json) |
 | Spray N' Pray | 369125 | [369125-spray-n-pray.json](./369125-spray-n-pray.json) |
@@ -26872,6 +26875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
 | Spyborgs | 5206 | [5206-spyborgs.json](./5206-spyborgs.json) |
 | Spybot: The Nightfall Incident | 83013 | [83013-spybot-the-nightfall-incident.json](./83013-spybot-the-nightfall-incident.json) |
+| SpyCat: Codename Wu | 423452 | [423452-spycat-codename-wu.json](./423452-spycat-codename-wu.json) |
 | Spycity | 157849 | [157849-spycity.json](./157849-spycity.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
 | Spyer | 203735 | [203735-spyer.json](./203735-spyer.json) |
@@ -28810,6 +28814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
+| Starbloom Ranch | 423449 | [423449-starbloom-ranch.json](./423449-starbloom-ranch.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starbo | 80009 | [80009-starbo.json](./80009-starbo.json) |
 | Starboard | 192366 | [192366-starboard.json](./192366-starboard.json) |
@@ -41635,6 +41640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Syne | 183759 | [183759-syne.json](./183759-syne.json) |
 | Syne | 421726 | [421726-syne.json](./421726-syne.json) |
+| Synemancy | 423815 | [423815-synemancy.json](./423815-synemancy.json) |
 | Synephoria | 383460 | [383460-synephoria.json](./383460-synephoria.json) |
 | Synergia | 116493 | [116493-synergia.json](./116493-synergia.json) |
 | Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
