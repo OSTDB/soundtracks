@@ -6985,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Descent: Heavy Metal Heroes | 60849 | [60849-eternal-descent-heavy-metal-heroes.json](./60849-eternal-descent-heavy-metal-heroes.json) |
 | Eternal Destinies | 88056 | [88056-eternal-destinies.json](./88056-eternal-destinies.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
+| Eternal Destiny | 35045 | [35045-eternal-destiny.json](./35045-eternal-destiny.json) |
 | Eternal Destiny: Angel's Ladder - Next Manhattan Project | 159446 | [159446-eternal-destiny-angels-ladder-next-manhattan-project.json](./159446-eternal-destiny-angels-ladder-next-manhattan-project.json) |
 | Eternal Destiny: Demon Slayer - Turmoil of Tohno | 159443 | [159443-eternal-destiny-demon-slayer-turmoil-of-tohno.json](./159443-eternal-destiny-demon-slayer-turmoil-of-tohno.json) |
 | Eternal Destiny: Demon's Casket - The Seven Sins | 159445 | [159445-eternal-destiny-demons-casket-the-seven-sins.json](./159445-eternal-destiny-demons-casket-the-seven-sins.json) |
