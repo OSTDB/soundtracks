@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
 | Quit Your Job! Become A VTuber Fanartist! | 372478 | [372478-quit-your-job-become-a-vtuber-fanartist.json](./372478-quit-your-job-become-a-vtuber-fanartist.json) |
 | Quite a Ride | 336891 | [336891-quite-a-ride.json](./336891-quite-a-ride.json) |
+| Quite My Tempo | 429543 | [429543-quite-my-tempo.json](./429543-quite-my-tempo.json) |
 | Quite Soulless | 216189 | [216189-quite-soulless.json](./216189-quite-soulless.json) |
 | Quiver | 94546 | [94546-quiver.json](./94546-quiver.json) |
 | Quiver & Die | 340336 | [340336-quiver-and-die.json](./340336-quiver-and-die.json) |
