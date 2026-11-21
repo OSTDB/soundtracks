@@ -340,7 +340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Finder 3000 | 114269 | [114269-gachi-finder-3000.json](./114269-gachi-finder-3000.json) |
 | Gachi Gang | 100485 | [100485-gachi-gang.json](./100485-gachi-gang.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
-| Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
 | Gachi Run: Running of the Slaves | 159508 | [159508-gachi-run-running-of-the-slaves.json](./159508-gachi-run-running-of-the-slaves.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
@@ -740,7 +739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
 | Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
-| Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Ruler Enlightenment | 290562 | [290562-galactic-ruler-enlightenment.json](./290562-galactic-ruler-enlightenment.json) |
 | Galactic Rumble | 393199 | [393199-galactic-rumble.json](./393199-galactic-rumble.json) |
 | Galactic Rush | 399554 | [399554-galactic-rush.json](./399554-galactic-rush.json) |
@@ -1755,7 +1753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Life | 127636 | [127636-gamer-life.json](./127636-gamer-life.json) |
 | Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
-| Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
 | Gamer Stop Simulator | 347959 | [347959-gamer-stop-simulator.json](./347959-gamer-stop-simulator.json) |
 | Gamer Stories: Dating Real Japanese Female Gamers | 309804 | [309804-gamer-stories-dating-real-japanese-female-gamers.json](./309804-gamer-stories-dating-real-japanese-female-gamers.json) |
 | Gamer's Dream | 410544 | [410544-gamers-dream.json](./410544-gamers-dream.json) |
@@ -4569,7 +4566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
 | Ghostbusters: Spirits Unleashed | 194682 | [194682-ghostbusters-spirits-unleashed.json](./194682-ghostbusters-spirits-unleashed.json) |
 | Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
-| Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
 | Ghostbusters: Spirits Unleashed - Free Update #1 | 273526 | [273526-ghostbusters-spirits-unleashed-free-update-1.json](./273526-ghostbusters-spirits-unleashed-free-update-1.json) |
 | Ghostbusters: Spirits Unleashed - Free Update #2 | 274255 | [274255-ghostbusters-spirits-unleashed-free-update-2.json](./274255-ghostbusters-spirits-unleashed-free-update-2.json) |
 | Ghostbusters: Spirits Unleashed - Free Update #3 | 274272 | [274272-ghostbusters-spirits-unleashed-free-update-3.json](./274272-ghostbusters-spirits-unleashed-free-update-3.json) |
@@ -7047,7 +7043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godless Avalon | 403384 | [403384-godless-avalon.json](./403384-godless-avalon.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
 | Godless Night | 273274 | [273274-godless-night.json](./273274-godless-night.json) |
-| Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
@@ -7567,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee 2020 | 143302 | [143302-golden-tee-2020.json](./143302-golden-tee-2020.json) |
 | Golden Tee 2K | 39327 | [39327-golden-tee-2k.json](./39327-golden-tee-2k.json) |
+| Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
 | Golden Tee Fore! | 133536 | [133536-golden-tee-fore.json](./133536-golden-tee-fore.json) |
 | Golden Tee Fore! 2004 | 46802 | [46802-golden-tee-fore-2004.json](./46802-golden-tee-fore-2004.json) |
@@ -8346,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
+| Goosebumps: Terror in Little Creek | 350211 | [350211-goosebumps-terror-in-little-creek.json](./350211-goosebumps-terror-in-little-creek.json) |
 | Goosebumps: Terror in Little Creek - Frightmare Edition | 358668 | [358668-goosebumps-terror-in-little-creek-frightmare-edition.json](./358668-goosebumps-terror-in-little-creek-frightmare-edition.json) |
 | Goosebumps: The Game | 23472 | [23472-goosebumps-the-game.json](./23472-goosebumps-the-game.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
@@ -8799,7 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius IV: Revival | 1486 | [1486-gradius-iv-revival.json](./1486-gradius-iv-revival.json) |
 | Gradius NEO | 377214 | [377214-gradius-neo.json](./377214-gradius-neo.json) |
 | Gradius NEO Imperial | 377215 | [377215-gradius-neo-imperial.json](./377215-gradius-neo-imperial.json) |
-| Gradius ReBirth | 1489 | [1489-gradius-rebirth.json](./1489-gradius-rebirth.json) |
+| Gradius Origins | 337028 | [337028-gradius-origins.json](./337028-gradius-origins.json) |
 | Gradius V | 1488 | [1488-gradius-v.json](./1488-gradius-v.json) |
 | Gradius: The Interstellar Assault | 48996 | [48996-gradius-the-interstellar-assault.json](./48996-gradius-the-interstellar-assault.json) |
 | Gradually Forward | 119611 | [119611-gradually-forward.json](./119611-gradually-forward.json) |
@@ -10366,7 +10363,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green World: Catharsis | 169744 | [169744-green-world-catharsis.json](./169744-green-world-catharsis.json) |
 | Green Wounds | 197190 | [197190-green-wounds.json](./197190-green-wounds.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
-| Green: An Orc's Life | 128115 | [128115-green-an-orcs-life.json](./128115-green-an-orcs-life.json) |
 | Green: The Life Algorithm | 120863 | [120863-green-the-life-algorithm.json](./120863-green-the-life-algorithm.json) |
 | Green's Xmas Collection | 80193 | [80193-greens-xmas-collection.json](./80193-greens-xmas-collection.json) |
 | Greenbound | 428899 | [428899-greenbound.json](./428899-greenbound.json) |
@@ -11221,6 +11217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Coaster: Dragon Spirit Medley | 361474 | [361474-groove-coaster-dragon-spirit-medley.json](./361474-groove-coaster-dragon-spirit-medley.json) |
 | Groove Coaster: Dream Coaster | 361554 | [361554-groove-coaster-dream-coaster.json](./361554-groove-coaster-dream-coaster.json) |
 | Groove Coaster: Fujin Rumble | 361470 | [361470-groove-coaster-fujin-rumble.json](./361470-groove-coaster-fujin-rumble.json) |
+| Groove Coaster: Future Performers | 343412 | [343412-groove-coaster-future-performers.json](./343412-groove-coaster-future-performers.json) |
 | Groove Coaster: Game Music Pack 01 | 361700 | [361700-groove-coaster-game-music-pack-01.json](./361700-groove-coaster-game-music-pack-01.json) |
 | Groove Coaster: Groove Master Pack 01 | 361699 | [361699-groove-coaster-groove-master-pack-01.json](./361699-groove-coaster-groove-master-pack-01.json) |
 | Groove Coaster: Groove Master Pack 02 | 361649 | [361649-groove-coaster-groove-master-pack-02.json](./361649-groove-coaster-groove-master-pack-02.json) |
@@ -11809,7 +11806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Rings | 127405 | [127405-guardians-of-rings.json](./127405-guardians-of-rings.json) |
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
 | Guardians of The AfterLife | 304501 | [304501-guardians-of-the-afterlife.json](./304501-guardians-of-the-afterlife.json) |
-| Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Galaxy Pinball | 83706 | [83706-guardians-of-the-galaxy-pinball.json](./83706-guardians-of-the-galaxy-pinball.json) |
 | Guardians of the Past | 103603 | [103603-guardians-of-the-past.json](./103603-guardians-of-the-past.json) |
