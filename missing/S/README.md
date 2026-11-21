@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
 | Sanbansen | 295711 | [295711-sanbansen.json](./295711-sanbansen.json) |
 | Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
+| Sancta | 426797 | [426797-sancta.json](./426797-sancta.json) |
 | Sanctale | 350431 | [350431-sanctale.json](./350431-sanctale.json) |
 | Sancticide | 291154 | [291154-sancticide.json](./291154-sancticide.json) |
 | Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
@@ -11475,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutterbug Jake and the Sounds Letters Make | 133541 | [133541-shutterbug-jake-and-the-sounds-letters-make.json](./133541-shutterbug-jake-and-the-sounds-letters-make.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttered | 346519 | [346519-shuttered.json](./346519-shuttered.json) |
+| Shutterspeed | 426818 | [426818-shutterspeed.json](./426818-shutterspeed.json) |
 | Shuttle | 94435 | [94435-shuttle.json](./94435-shuttle.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
 | Shuttle Hearts: Academy Smash | 430161 | [430161-shuttle-hearts-academy-smash.json](./430161-shuttle-hearts-academy-smash.json) |
@@ -29100,6 +29102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starhawk: Ultimate Edition | 99947 | [99947-starhawk-ultimate-edition.json](./99947-starhawk-ultimate-edition.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
 | StarHeroes | 221262 | [221262-starheroes.json](./221262-starheroes.json) |
+| Starhome | 426711 | [426711-starhome.json](./426711-starhome.json) |
 | StarHorse Pocket | 108764 | [108764-starhorse-pocket.json](./108764-starhorse-pocket.json) |
 | Starimu | 299107 | [299107-starimu.json](./299107-starimu.json) |
 | Staring Contest | 369545 | [369545-staring-contest.json](./369545-staring-contest.json) |
