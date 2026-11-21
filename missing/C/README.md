@@ -14911,7 +14911,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanager Tycoon | 98992 | [98992-commanager-tycoon.json](./98992-commanager-tycoon.json) |
 | Command | 137940 | [137940-command.json](./137940-command.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
-| Command & Conquer | 1901 | [1901-command-and-conquer.json](./1901-command-and-conquer.json) |
 | Command & Conquer 3: Alien Prophecies | 408360 | [408360-command-and-conquer-3-alien-prophecies.json](./408360-command-and-conquer-3-alien-prophecies.json) |
 | Command & Conquer 3: Kane's Wrath | 395863 | [395863-command-and-conquer-3-kanes-wrath.json](./395863-command-and-conquer-3-kanes-wrath.json) |
 | Command & Conquer 3: Kane's Wrath | 707 | [707-command-and-conquer-3-kanes-wrath.json](./707-command-and-conquer-3-kanes-wrath.json) |
