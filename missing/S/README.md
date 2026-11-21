@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
 | Saint & Greavsie | 417682 | [417682-saint-and-greavsie.json](./417682-saint-and-greavsie.json) |
 | Saint & Sinner | 332478 | [332478-saint-and-sinner.json](./332478-saint-and-sinner.json) |
+| Saint Beast: Rasen no Shou | 420736 | [420736-saint-beast-rasen-no-shou.json](./420736-saint-beast-rasen-no-shou.json) |
 | Saint Ceri | 236596 | [236596-saint-ceri.json](./236596-saint-ceri.json) |
 | Saint Dragon | 12207 | [12207-saint-dragon.json](./12207-saint-dragon.json) |
 | Saint Emiliana | 132743 | [132743-saint-emiliana.json](./132743-saint-emiliana.json) |
@@ -10478,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun | 306534 | [306534-shogun.json](./306534-shogun.json) |
 | Shogun | 400720 | [400720-shogun.json](./400720-shogun.json) |
 | Shogun Castle | 336590 | [336590-shogun-castle.json](./336590-shogun-castle.json) |
+| Shogun Chronicles | 420146 | [420146-shogun-chronicles.json](./420146-shogun-chronicles.json) |
 | Shogun Curse | 289779 | [289779-shogun-curse.json](./289779-shogun-curse.json) |
 | Shogun Samurai Tycoon | 308659 | [308659-shogun-samurai-tycoon.json](./308659-shogun-samurai-tycoon.json) |
 | Shogun Soul: Legendary Puzzle | 330615 | [330615-shogun-soul-legendary-puzzle.json](./330615-shogun-soul-legendary-puzzle.json) |
@@ -10488,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
+| Shogun's Stand | 420143 | [420143-shoguns-stand.json](./420143-shoguns-stand.json) |
 | Shogunaria | 208643 | [208643-shogunaria.json](./208643-shogunaria.json) |
 | Shogunate | 356031 | [356031-shogunate.json](./356031-shogunate.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
@@ -10973,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Farmers: Vitamin Seas Supporter Pack | 418053 | [418053-shotgun-farmers-vitamin-seas-supporter-pack.json](./418053-shotgun-farmers-vitamin-seas-supporter-pack.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
 | Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
+| Shotgun Joe | 420141 | [420141-shotgun-joe.json](./420141-shotgun-joe.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
@@ -10980,11 +10984,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Monkey | 429032 | [429032-shotgun-monkey.json](./429032-shotgun-monkey.json) |
 | Shotgun n Zombies | 131664 | [131664-shotgun-n-zombies.json](./131664-shotgun-n-zombies.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
+| Shotgun Pogostick | 420131 | [420131-shotgun-pogostick.json](./420131-shotgun-pogostick.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Recovery | 272587 | [272587-shotgun-recovery.json](./272587-shotgun-recovery.json) |
 | Shotgun Rogue | 382938 | [382938-shotgun-rogue.json](./382938-shotgun-rogue.json) |
 | Shotgun Science | 365155 | [365155-shotgun-science.json](./365155-shotgun-science.json) |
 | Shotgun Shenanigans | 279691 | [279691-shotgun-shenanigans.json](./279691-shotgun-shenanigans.json) |
+| Shotgun Sunday | 420150 | [420150-shotgun-sunday.json](./420150-shotgun-sunday.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shotgun Wedding | 182655 | [182655-shotgun-wedding.json](./182655-shotgun-wedding.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
@@ -12351,6 +12357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Scramble | 280490 | [280490-silicon-scramble.json](./280490-silicon-scramble.json) |
 | Silicon Scream | 242887 | [242887-silicon-scream.json](./242887-silicon-scream.json) |
 | Silicon Souls | 427576 | [427576-silicon-souls.json](./427576-silicon-souls.json) |
+| Silicon Sprint: Data Center Incremental | 420158 | [420158-silicon-sprint-data-center-incremental.json](./420158-silicon-sprint-data-center-incremental.json) |
 | Silicon Valley Inside the Hacker Hostel VR | 108166 | [108166-silicon-valley-inside-the-hacker-hostel-vr.json](./108166-silicon-valley-inside-the-hacker-hostel-vr.json) |
 | Silicon Valley Investor | 149204 | [149204-silicon-valley-investor.json](./149204-silicon-valley-investor.json) |
 | Silicon Valley SImulator: 1980s | 310314 | [310314-silicon-valley-simulator-1980s.json](./310314-silicon-valley-simulator-1980s.json) |
@@ -16221,6 +16228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Quest: Wild West Shootout | 25537 | [25537-slot-quest-wild-west-shootout.json](./25537-slot-quest-wild-west-shootout.json) |
 | Slot Racers | 18422 | [18422-slot-racers.json](./18422-slot-racers.json) |
 | Slot Revolution | 296034 | [296034-slot-revolution.json](./296034-slot-revolution.json) |
+| Slot Shogun | 420132 | [420132-slot-shogun.json](./420132-slot-shogun.json) |
 | Slot Shots Pinball 2 | 235657 | [235657-slot-shots-pinball-2.json](./235657-slot-shots-pinball-2.json) |
 | Slot Shots Pinball Collection | 197571 | [197571-slot-shots-pinball-collection.json](./197571-slot-shots-pinball-collection.json) |
 | Slot Shots Pinball: Ultimate Edition | 276969 | [276969-slot-shots-pinball-ultimate-edition.json](./276969-slot-shots-pinball-ultimate-edition.json) |
@@ -18584,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
 | Socially Awkward | 359199 | [359199-socially-awkward.json](./359199-socially-awkward.json) |
 | Society | 192561 | [192561-society.json](./192561-society.json) |
+| Society Chess 3D | 420744 | [420744-society-chess-3d.json](./420744-society-chess-3d.json) |
 | Society of the Serpent Moon: Last Half of Darkness | 53632 | [53632-society-of-the-serpent-moon-last-half-of-darkness.json](./53632-society-of-the-serpent-moon-last-half-of-darkness.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
@@ -28379,6 +28388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 307080 | [307080-star-wars.json](./307080-star-wars.json) |
 | Star Wars | 341792 | [341792-star-wars.json](./341792-star-wars.json) |
 | Star Wars | 345947 | [345947-star-wars.json](./345947-star-wars.json) |
+| Star Wars | 420746 | [420746-star-wars.json](./420746-star-wars.json) |
 | Star Wars | 54649 | [54649-star-wars.json](./54649-star-wars.json) |
 | Star Wars | 72396 | [72396-star-wars.json](./72396-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
