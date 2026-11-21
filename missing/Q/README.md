@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Joe | 326098 | [326098-quantum-joe.json](./326098-quantum-joe.json) |
 | Quantum Knights | 258570 | [258570-quantum-knights.json](./258570-quantum-knights.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
+| Quantum League | 118789 | [118789-quantum-league.json](./118789-quantum-league.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Loop | 394483 | [394483-quantum-loop.json](./394483-quantum-loop.json) |
@@ -1003,7 +1004,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest On Full Moon Island | 245361 | [245361-quest-on-full-moon-island.json](./245361-quest-on-full-moon-island.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
-| Quest Rooms | 129252 | [129252-quest-rooms.json](./129252-quest-rooms.json) |
 | Quest Run | 54314 | [54314-quest-run.json](./54314-quest-run.json) |
 | Quest to Aztlan | 266551 | [266551-quest-to-aztlan.json](./266551-quest-to-aztlan.json) |
 | Quest to be King | 99101 | [99101-quest-to-be-king.json](./99101-quest-to-be-king.json) |
