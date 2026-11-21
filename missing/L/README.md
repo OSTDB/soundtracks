@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Ascender | 413985 | [413985-last-ascender.json](./413985-last-ascender.json) |
 | Last Asylum | 398722 | [398722-last-asylum.json](./398722-last-asylum.json) |
+| Last Attendance: Hostel 13 | 427446 | [427446-last-attendance-hostel-13.json](./427446-last-attendance-hostel-13.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
@@ -8135,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logos | 55401 | [55401-logos.json](./55401-logos.json) |
 | Logos Panic: Goaisatu | 37942 | [37942-logos-panic-goaisatu.json](./37942-logos-panic-goaisatu.json) |
 | Logos Quiz | 254425 | [254425-logos-quiz.json](./254425-logos-quiz.json) |
+| Logosmancer | 427349 | [427349-logosmancer.json](./427349-logosmancer.json) |
 | Logout | 96856 | [96856-logout.json](./96856-logout.json) |
 | Logres: Japanese RPG | 75222 | [75222-logres-japanese-rpg.json](./75222-logres-japanese-rpg.json) |
 | LogScape: Puzzle Game | 163166 | [163166-logscape-puzzle-game.json](./163166-logscape-puzzle-game.json) |
