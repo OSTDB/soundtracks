@@ -9348,7 +9348,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes Consulting Detective Complete | 147288 | [147288-sherlock-holmes-consulting-detective-complete.json](./147288-sherlock-holmes-consulting-detective-complete.json) |
 | Sherlock Holmes Consulting Detective: Collection | 78363 | [78363-sherlock-holmes-consulting-detective-collection.json](./78363-sherlock-holmes-consulting-detective-collection.json) |
 | Sherlock Holmes Consulting Detective: The Case of Banker's Final Debt | 259177 | [259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json](./259177-sherlock-holmes-consulting-detective-the-case-of-bankers-final-debt.json) |
+| Sherlock Holmes Consulting Detective: The Case of the Mummy's Curse | 35139 | [35139-sherlock-holmes-consulting-detective-the-case-of-the-mummys-curse.json](./35139-sherlock-holmes-consulting-detective-the-case-of-the-mummys-curse.json) |
 | Sherlock Holmes Consulting Detective: The Case of the Mystified Murderess | 35063 | [35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json](./35063-sherlock-holmes-consulting-detective-the-case-of-the-mystified-murderess.json) |
+| Sherlock Holmes Consulting Detective: The Case of the Tin Soldier | 35062 | [35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json](./35062-sherlock-holmes-consulting-detective-the-case-of-the-tin-soldier.json) |
 | Sherlock Holmes Consulting Detective: Volume III | 73685 | [73685-sherlock-holmes-consulting-detective-volume-iii.json](./73685-sherlock-holmes-consulting-detective-volume-iii.json) |
 | Sherlock Holmes Essential Bundle | 201013 | [201013-sherlock-holmes-essential-bundle.json](./201013-sherlock-holmes-essential-bundle.json) |
 | Sherlock Holmes i el cas d'Arthur Gordon Pym | 345023 | [345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json](./345023-sherlock-holmes-i-el-cas-darthur-gordon-pym.json) |
@@ -10536,6 +10538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
 | Shoot & jump | 425398 | [425398-shoot-and-jump.json](./425398-shoot-and-jump.json) |
 | Shoot & Sow | 271591 | [271591-shoot-and-sow.json](./271591-shoot-and-sow.json) |
+| Shoot 1UP | 35175 | [35175-shoot-1up.json](./35175-shoot-1up.json) |
 | Shoot 1UP DX | 147660 | [147660-shoot-1up-dx.json](./147660-shoot-1up-dx.json) |
 | Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
 | Shoot 2nd | 97666 | [97666-shoot-2nd.json](./97666-shoot-2nd.json) |
@@ -13609,6 +13612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirin's Feather | 399899 | [399899-sirins-feather.json](./399899-sirins-feather.json) |
 | Sirius | 282936 | [282936-sirius.json](./282936-sirius.json) |
 | Sirius 7 | 93516 | [93516-sirius-7.json](./93516-sirius-7.json) |
+| Sirius Online | 35288 | [35288-sirius-online.json](./35288-sirius-online.json) |
 | Sirius-1 | 92129 | [92129-sirius-1.json](./92129-sirius-1.json) |
 | Sirius-4 | 270918 | [270918-sirius-4.json](./270918-sirius-4.json) |
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
@@ -21777,6 +21781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulchemist Renafine | 250248 | [250248-soulchemist-renafine.json](./250248-soulchemist-renafine.json) |
 | Soulchild | 149152 | [149152-soulchild.json](./149152-soulchild.json) |
 | Soulcoom | 393853 | [393853-soulcoom.json](./393853-soulcoom.json) |
+| SoulCraft | 35261 | [35261-soulcraft.json](./35261-soulcraft.json) |
 | SoulCraft 2 | 59339 | [59339-soulcraft-2.json](./59339-soulcraft-2.json) |
 | Soulcreek | 229616 | [229616-soulcreek.json](./229616-soulcreek.json) |
 | Soulcrusher | 255881 | [255881-soulcrusher.json](./255881-soulcrusher.json) |
@@ -22709,6 +22714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Grid Tournament | 146991 | [146991-space-grid-tournament.json](./146991-space-grid-tournament.json) |
 | Space Griffon VF-9 | 45833 | [45833-space-griffon-vf-9.json](./45833-space-griffon-vf-9.json) |
 | Space Grind | 181182 | [181182-space-grind.json](./181182-space-grind.json) |
+| Space Grunts | 35224 | [35224-space-grunts.json](./35224-space-grunts.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
 | Space Grunts: Chrono Shard | 345099 | [345099-space-grunts-chrono-shard.json](./345099-space-grunts-chrono-shard.json) |
 | Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
@@ -26168,6 +26174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Castle: The Adventures Of Kid Mystic | 141439 | [141439-spooky-castle-the-adventures-of-kid-mystic.json](./141439-spooky-castle-the-adventures-of-kid-mystic.json) |
+| Spooky Cats | 35195 | [35195-spooky-cats.json](./35195-spooky-cats.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Cooking | 301718 | [301718-spooky-cooking.json](./301718-spooky-cooking.json) |
 | Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
@@ -35793,6 +35800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Disc Box | 181263 | [181263-super-disc-box.json](./181263-super-disc-box.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
 | Super Discus | 209446 | [209446-super-discus.json](./209446-super-discus.json) |
+| Super Distro | 35412 | [35412-super-distro.json](./35412-super-distro.json) |
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 191662 | [191662-super-dodge-ball.json](./191662-super-dodge-ball.json) |
 | Super Dodge Ball | 40426 | [40426-super-dodge-ball.json](./40426-super-dodge-ball.json) |
