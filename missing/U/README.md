@@ -1218,6 +1218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
 | Umai | 128681 | [128681-umai.json](./128681-umai.json) |
 | Umami | 345582 | [345582-umami.json](./345582-umami.json) |
+| Umami Grove | 152645 | [152645-umami-grove.json](./152645-umami-grove.json) |
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unplug the Ocean | 425895 | [425895-unplug-the-ocean.json](./425895-unplug-the-ocean.json) |
 | Unplug: The Game | 224958 | [224958-unplug-the-game.json](./224958-unplug-the-game.json) |
+| Unplugged | 153854 | [153854-unplugged.json](./153854-unplugged.json) |
 | Unplugged | 171716 | [171716-unplugged.json](./171716-unplugged.json) |
 | Unplugged | 322446 | [322446-unplugged.json](./322446-unplugged.json) |
 | Unpogable | 210338 | [210338-unpogable.json](./210338-unpogable.json) |
