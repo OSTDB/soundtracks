@@ -5674,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
+| Erlik | 427910 | [427910-erlik.json](./427910-erlik.json) |
 | Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
 | ErMa: Early Mammal | 279787 | [279787-erma-early-mammal.json](./279787-erma-early-mammal.json) |
 | Erma: The Game | 383926 | [383926-erma-the-game.json](./383926-erma-the-game.json) |
@@ -9800,6 +9801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
+| EyeToy: Groove | 22250 | [22250-eyetoy-groove.json](./22250-eyetoy-groove.json) |
 | EyeToy: Kinetic | 22550 | [22550-eyetoy-kinetic.json](./22550-eyetoy-kinetic.json) |
 | EyeToy: Monkey Mania | 44677 | [44677-eyetoy-monkey-mania.json](./44677-eyetoy-monkey-mania.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
