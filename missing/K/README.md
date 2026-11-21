@@ -1667,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | Kazuma Kaneko's Tsukuyomi: Refined Arts Pack vol.1 | 390919 | [390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json](./390919-kazuma-kanekos-tsukuyomi-refined-arts-pack-vol-1.json) |
 | KBF: Knight Bar Fight | 291820 | [291820-kbf-knight-bar-fight.json](./291820-kbf-knight-bar-fight.json) |
+| Kblitz | 418936 | [418936-kblitz.json](./418936-kblitz.json) |
 | KBlocks | 82967 | [82967-kblocks.json](./82967-kblocks.json) |
 | KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
 | KBreakOut | 141550 | [141550-kbreakout.json](./141550-kbreakout.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest: Chapter 5 - The Good Knight | 28065 | [28065-kings-quest-chapter-5-the-good-knight.json](./28065-kings-quest-chapter-5-the-good-knight.json) |
 | King's Quest: Quest for the Crown | 892 | [892-kings-quest-quest-for-the-crown.json](./892-kings-quest-quest-for-the-crown.json) |
 | King's Raid | 79372 | [79372-kings-raid.json](./79372-kings-raid.json) |
+| King's Raid Re:Verse | 418955 | [418955-kings-raid-re-verse.json](./418955-kings-raid-re-verse.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
 | King's Subsidy | 372520 | [372520-kings-subsidy.json](./372520-kings-subsidy.json) |
