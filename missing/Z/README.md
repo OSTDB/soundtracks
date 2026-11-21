@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Fusion | 246231 | [246231-zone-fusion.json](./246231-zone-fusion.json) |
 | Zone Idle | 422417 | [422417-zone-idle.json](./422417-zone-idle.json) |
 | Zone Interactive | 246224 | [246224-zone-interactive.json](./246224-zone-interactive.json) |
+| Zone L.O.S.T. | 422885 | [422885-zone-l-o-s-t.json](./422885-zone-l-o-s-t.json) |
 | Zone Mini | 246226 | [246226-zone-mini.json](./246226-zone-mini.json) |
 | Zone of Action | 138557 | [138557-zone-of-action.json](./138557-zone-of-action.json) |
 | Zone of Death | 164169 | [164169-zone-of-death.json](./164169-zone-of-death.json) |
