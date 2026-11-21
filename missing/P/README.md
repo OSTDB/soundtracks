@@ -9433,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Monk | 280440 | [280440-pixel-monk.json](./280440-pixel-monk.json) |
 | Pixel Monsters Survival | 384557 | [384557-pixel-monsters-survival.json](./384557-pixel-monsters-survival.json) |
 | Pixel Neighbor: Welcome Home | 86821 | [86821-pixel-neighbor-welcome-home.json](./86821-pixel-neighbor-welcome-home.json) |
+| Pixel Nightshift: The Vesta Protocol | 422626 | [422626-pixel-nightshift-the-vesta-protocol.json](./422626-pixel-nightshift-the-vesta-protocol.json) |
 | Pixel Ninja | 160163 | [160163-pixel-ninja.json](./160163-pixel-ninja.json) |
 | Pixel Noir | 61721 | [61721-pixel-noir.json](./61721-pixel-noir.json) |
 | Pixel Odyssey | 395287 | [395287-pixel-odyssey.json](./395287-pixel-odyssey.json) |
@@ -16514,6 +16515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Light | 122794 | [122794-primal-light.json](./122794-primal-light.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
+| Primal One | 422620 | [422620-primal-one.json](./422620-primal-one.json) |
 | Primal Passions: Isekai Love | 322324 | [322324-primal-passions-isekai-love.json](./322324-primal-passions-isekai-love.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Prey | 71345 | [71345-primal-prey.json](./71345-primal-prey.json) |
@@ -19178,6 +19180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protoball | 104933 | [104933-protoball.json](./104933-protoball.json) |
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
+| Protocell | 421514 | [421514-protocell.json](./421514-protocell.json) |
 | Protocell | 50152 | [50152-protocell.json](./50152-protocell.json) |
 | Protocol | 35049 | [35049-protocol.json](./35049-protocol.json) |
 | Protocol | 350914 | [350914-protocol.json](./350914-protocol.json) |
@@ -19757,6 +19760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puck'n Hell | 418648 | [418648-puckn-hell.json](./418648-puckn-hell.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
+| Pucked Up | 422629 | [422629-pucked-up.json](./422629-pucked-up.json) |
 | Puckish | 285267 | [285267-puckish.json](./285267-puckish.json) |
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
@@ -20195,6 +20199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punyan Connecty | 362351 | [362351-punyan-connecty.json](./362351-punyan-connecty.json) |
 | Punyan for Nintendo Switch 2 | 378954 | [378954-punyan-for-nintendo-switch-2.json](./378954-punyan-for-nintendo-switch-2.json) |
 | Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
+| Pup & Mole: Gold Rush | 422228 | [422228-pup-and-mole-gold-rush.json](./422228-pup-and-mole-gold-rush.json) |
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
 | Pup Champs | 295616 | [295616-pup-champs.json](./295616-pup-champs.json) |
