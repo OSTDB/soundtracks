@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
+| Wavebound | 426810 | [426810-wavebound.json](./426810-wavebound.json) |
 | Wavebreaker | 411362 | [411362-wavebreaker.json](./411362-wavebreaker.json) |
 | Wavecade | 197008 | [197008-wavecade.json](./197008-wavecade.json) |
 | Wavecade: Ships Pack | 263085 | [263085-wavecade-ships-pack.json](./263085-wavecade-ships-pack.json) |
