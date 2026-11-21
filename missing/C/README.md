@@ -6251,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centauri Sector | 35616 | [35616-centauri-sector.json](./35616-centauri-sector.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Centaurus | 313375 | [313375-centaurus.json](./313375-centaurus.json) |
+| Centavo | 429104 | [429104-centavo.json](./429104-centavo.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
 | Center Ice Hockey | 423525 | [423525-center-ice-hockey.json](./423525-center-ice-hockey.json) |
@@ -13559,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Stone Creamery: Scoop It Up | 51013 | [51013-cold-stone-creamery-scoop-it-up.json](./51013-cold-stone-creamery-scoop-it-up.json) |
 | Cold Storage | 329214 | [329214-cold-storage.json](./329214-cold-storage.json) |
 | Cold Storage | 70857 | [70857-cold-storage.json](./70857-cold-storage.json) |
+| Cold Storage Run | 429107 | [429107-cold-storage-run.json](./429107-cold-storage-run.json) |
 | Cold Sweat | 248384 | [248384-cold-sweat.json](./248384-cold-sweat.json) |
 | Cold Sweat | 323508 | [323508-cold-sweat.json](./323508-cold-sweat.json) |
 | Cold Trigger | 415759 | [415759-cold-trigger.json](./415759-cold-trigger.json) |
@@ -18983,6 +18985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Presents December 1989 | 71070 | [71070-crash-presents-december-1989.json](./71070-crash-presents-december-1989.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Presents: July 1989 | 325327 | [325327-crash-presents-july-1989.json](./325327-crash-presents-july-1989.json) |
+| Crash Protocol: The Wrong Directive | 429121 | [429121-crash-protocol-the-wrong-directive.json](./429121-crash-protocol-the-wrong-directive.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Race | 157809 | [157809-crash-race.json](./157809-crash-race.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
