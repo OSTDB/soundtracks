@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parky and the Yellow Submarine | 66314 | [66314-parky-and-the-yellow-submarine.json](./66314-parky-and-the-yellow-submarine.json) |
+| Parley | 426825 | [426825-parley.json](./426825-parley.json) |
 | Parley Nightmare | 206392 | [206392-parley-nightmare.json](./206392-parley-nightmare.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
@@ -4150,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: Overclockers UK Workshop | 154686 | [154686-pc-building-simulator-overclockers-uk-workshop.json](./154686-pc-building-simulator-overclockers-uk-workshop.json) |
 | PC Building Simulator: Razer Workshop | 154680 | [154680-pc-building-simulator-razer-workshop.json](./154680-pc-building-simulator-razer-workshop.json) |
 | PC Building Simulator: Republic of Gamers Workshop | 154679 | [154679-pc-building-simulator-republic-of-gamers-workshop.json](./154679-pc-building-simulator-republic-of-gamers-workshop.json) |
+| PC Cafe Simulator | 426718 | [426718-pc-cafe-simulator.json](./426718-pc-cafe-simulator.json) |
 | PC Calciatori 2004 | 71304 | [71304-pc-calciatori-2004.json](./71304-pc-calciatori-2004.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
@@ -7299,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pier57 Autocracy | 80470 | [80470-pier57-autocracy.json](./80470-pier57-autocracy.json) |
 | Pierce Through Heavens | 415037 | [415037-pierce-through-heavens.json](./415037-pierce-through-heavens.json) |
 | Pierced by Love | 299653 | [299653-pierced-by-love.json](./299653-pierced-by-love.json) |
+| Piercing | 426702 | [426702-piercing.json](./426702-piercing.json) |
 | Piercing Blo | 58712 | [58712-piercing-blo.json](./58712-piercing-blo.json) |
 | Piercing Blow | 34944 | [34944-piercing-blow.json](./34944-piercing-blow.json) |
 | Piercing Fortress Europa | 129591 | [129591-piercing-fortress-europa.json](./129591-piercing-fortress-europa.json) |
@@ -10589,6 +10592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Finder | 362299 | [362299-planet-finder.json](./362299-planet-finder.json) |
 | Planet Fish | 84725 | [84725-planet-fish.json](./84725-planet-fish.json) |
 | Planet Flipper | 394893 | [394893-planet-flipper.json](./394893-planet-flipper.json) |
+| Planet Forge | 426712 | [426712-planet-forge.json](./426712-planet-forge.json) |
 | Planet G | 209972 | [209972-planet-g.json](./209972-planet-g.json) |
 | Planet Gallery | 379124 | [379124-planet-gallery.json](./379124-planet-gallery.json) |
 | Planet Game | 310149 | [310149-planet-game.json](./310149-planet-game.json) |
@@ -15909,6 +15913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragma Arbiter | 227990 | [227990-pragma-arbiter.json](./227990-pragma-arbiter.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pragmata: Deluxe Edition | 385206 | [385206-pragmata-deluxe-edition.json](./385206-pragmata-deluxe-edition.json) |
+| Pragmata: Mega Man Pack | 426823 | [426823-pragmata-mega-man-pack.json](./426823-pragmata-mega-man-pack.json) |
 | Pragmata: Shelter Variety Pack | 385179 | [385179-pragmata-shelter-variety-pack.json](./385179-pragmata-shelter-variety-pack.json) |
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
@@ -16272,6 +16277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prestigious Passions | 299045 | [299045-prestigious-passions.json](./299045-prestigious-passions.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
+| Presto! | 426801 | [426801-presto.json](./426801-presto.json) |
 | Preston Sterling | 31606 | [31606-preston-sterling.json](./31606-preston-sterling.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
