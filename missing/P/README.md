@@ -11479,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Care Over Stories: PCOS | 183679 | [183679-please-care-over-stories-pcos.json](./183679-please-care-over-stories-pcos.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
+| Please Confirm the Deceased | 422893 | [422893-please-confirm-the-deceased.json](./422893-please-confirm-the-deceased.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
 | Please Don't Bring Me Back to Reality! Sinfonia Stage | 142293 | [142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json](./142293-please-dont-bring-me-back-to-reality-sinfonia-stage.json) |
 | Please Don't Feed the Creatures of the Deep | 323272 | [323272-please-dont-feed-the-creatures-of-the-deep.json](./323272-please-dont-feed-the-creatures-of-the-deep.json) |
@@ -14236,6 +14237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pond Party | 364687 | [364687-pond-party.json](./364687-pond-party.json) |
 | Pond Scum | 157091 | [157091-pond-scum.json](./157091-pond-scum.json) |
 | Pond Scum | 268928 | [268928-pond-scum.json](./268928-pond-scum.json) |
+| Pond Thing | 422900 | [422900-pond-thing.json](./422900-pond-thing.json) |
 | Pondemonium | 372057 | [372057-pondemonium.json](./372057-pondemonium.json) |
 | Ponder | 217142 | [217142-ponder.json](./217142-ponder.json) |
 | Ponder | 301096 | [301096-ponder.json](./301096-ponder.json) |
@@ -16975,6 +16977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Pets | 85349 | [85349-prism-pets.json](./85349-prism-pets.json) |
 | Prism Queen's Heroine | 83934 | [83934-prism-queens-heroine.json](./83934-prism-queens-heroine.json) |
 | Prism Shift | 347090 | [347090-prism-shift.json](./347090-prism-shift.json) |
+| Prism TCG | 422865 | [422865-prism-tcg.json](./422865-prism-tcg.json) |
 | Prism Warriors DX | 346621 | [346621-prism-warriors-dx.json](./346621-prism-warriors-dx.json) |
 | Prism Wilds | 382404 | [382404-prism-wilds.json](./382404-prism-wilds.json) |
 | Prism: A Visual Novel | 199539 | [199539-prism-a-visual-novel.json](./199539-prism-a-visual-novel.json) |
@@ -20066,6 +20069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
 | Punch Champs | 356941 | [356941-punch-champs.json](./356941-punch-champs.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Clock Panic | 422905 | [422905-punch-clock-panic.json](./422905-punch-clock-panic.json) |
 | Punch Club | 15931 | [15931-punch-club.json](./15931-punch-club.json) |
 | Punch Club 2: Complete Edition | 309630 | [309630-punch-club-2-complete-edition.json](./309630-punch-club-2-complete-edition.json) |
 | Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
