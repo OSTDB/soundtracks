@@ -6543,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Silent Beast | 137801 | [137801-beauty-and-the-silent-beast.json](./137801-beauty-and-the-silent-beast.json) |
 | Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
+| Beauty Bounce | 35198 | [35198-beauty-bounce.json](./35198-beauty-bounce.json) |
 | Beauty Clicker | 371612 | [371612-beauty-clicker.json](./371612-beauty-clicker.json) |
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Contest | 157309 | [157309-beauty-contest.json](./157309-beauty-contest.json) |
@@ -8773,6 +8774,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
 | Big Theft Valkeala 2: San Piritori | 363074 | [363074-big-theft-valkeala-2-san-piritori.json](./363074-big-theft-valkeala-2-san-piritori.json) |
 | Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
+| Big Thinkers 1st Grade | 35061 | [35061-big-thinkers-1st-grade.json](./35061-big-thinkers-1st-grade.json) |
+| Big Thinkers Kindergarten | 35060 | [35060-big-thinkers-kindergarten.json](./35060-big-thinkers-kindergarten.json) |
 | Big Tiddy Goth Baddie | 417765 | [417765-big-tiddy-goth-baddie.json](./417765-big-tiddy-goth-baddie.json) |
 | Big Tiddy Goth GF Simulator | 136571 | [136571-big-tiddy-goth-gf-simulator.json](./136571-big-tiddy-goth-gf-simulator.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
@@ -15565,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Hunter: Revenge is Sweet! | 206465 | [206465-boss-hunter-revenge-is-sweet.json](./206465-boss-hunter-revenge-is-sweet.json) |
 | Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
+| Boss Monster | 35459 | [35459-boss-monster.json](./35459-boss-monster.json) |
 | Boss Must DIE!! | 101847 | [101847-boss-must-die.json](./101847-boss-must-die.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
@@ -16910,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass Rain | 373836 | [373836-brass-rain.json](./373836-brass-rain.json) |
 | Brass Restoration | 69153 | [69153-brass-restoration.json](./69153-brass-restoration.json) |
+| Brass Tactics | 36779 | [36779-brass-tactics.json](./36779-brass-tactics.json) |
 | Brass Town Wrestling | 128271 | [128271-brass-town-wrestling.json](./128271-brass-town-wrestling.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
 | Brassfang | 405021 | [405021-brassfang.json](./405021-brassfang.json) |
