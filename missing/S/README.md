@@ -5402,6 +5402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
 | Secrets of Arcadia | 59566 | [59566-secrets-of-arcadia.json](./59566-secrets-of-arcadia.json) |
+| Secrets of Blackrock Manor: Escape Room | 344652 | [344652-secrets-of-blackrock-manor-escape-room.json](./344652-secrets-of-blackrock-manor-escape-room.json) |
 | Secrets of Blinck Island | 397077 | [397077-secrets-of-blinck-island.json](./397077-secrets-of-blinck-island.json) |
 | Secrets of Deep Earth Shrine | 33282 | [33282-secrets-of-deep-earth-shrine.json](./33282-secrets-of-deep-earth-shrine.json) |
 | Secrets of Egypt | 163866 | [163866-secrets-of-egypt.json](./163866-secrets-of-egypt.json) |
@@ -9043,6 +9044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
+| She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
 | She's My Destined Fiancee?! | 277723 | [277723-shes-my-destined-fiancee.json](./277723-shes-my-destined-fiancee.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
@@ -16676,6 +16678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
+| Smash Cars | 335702 | [335702-smash-cars.json](./335702-smash-cars.json) |
 | Smash Cat | 417269 | [417269-smash-cat.json](./417269-smash-cat.json) |
 | Smash Cat | 50219 | [50219-smash-cat.json](./50219-smash-cat.json) |
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
@@ -32421,6 +32424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 3 - Sagat | 347691 | [347691-street-fighter-6-year-3-sagat.json](./347691-street-fighter-6-year-3-sagat.json) |
 | Street Fighter 6: Year 3 Character Pass | 347670 | [347670-street-fighter-6-year-3-character-pass.json](./347670-street-fighter-6-year-3-character-pass.json) |
 | Street Fighter 6: Year 3 Ultimate Pass | 356813 | [356813-street-fighter-6-year-3-ultimate-pass.json](./356813-street-fighter-6-year-3-ultimate-pass.json) |
+| Street Fighter 6: Years 1-2 - Fighters Edition | 338081 | [338081-street-fighter-6-years-1-2-fighters-edition.json](./338081-street-fighter-6-years-1-2-fighters-edition.json) |
 | Street Fighter 6: Years 1-2 - Fighters Edition | 338112 | [338112-street-fighter-6-years-1-2-fighters-edition.json](./338112-street-fighter-6-years-1-2-fighters-edition.json) |
 | Street Fighter Alpha 2 | 243451 | [243451-street-fighter-alpha-2.json](./243451-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 2 | 243452 | [243452-street-fighter-alpha-2.json](./243452-street-fighter-alpha-2.json) |
@@ -37857,6 +37861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars X: Steelbook Edition | 167016 | [167016-super-robot-wars-x-steelbook-edition.json](./167016-super-robot-wars-x-steelbook-edition.json) |
+| Super Robot Wars Y | 337040 | [337040-super-robot-wars-y.json](./337040-super-robot-wars-y.json) |
 | Super Robot Wars Y: Deluxe Edition | 356809 | [356809-super-robot-wars-y-deluxe-edition.json](./356809-super-robot-wars-y-deluxe-edition.json) |
 | Super Robot Wars Y: DLC 1 - Contract from the Darkness | 375171 | [375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json](./375171-super-robot-wars-y-dlc-1-contract-from-the-darkness.json) |
 | Super Robot Wars Y: DLC 2 - Awakening of a Soul | 375172 | [375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json](./375172-super-robot-wars-y-dlc-2-awakening-of-a-soul.json) |
@@ -38496,6 +38501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Taxi Driver | 66264 | [66264-super-taxi-driver.json](./66264-super-taxi-driver.json) |
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
+| Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
 | Super Techpack | 154138 | [154138-super-techpack.json](./154138-super-techpack.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
 | Super Tempo | 46050 | [46050-super-tempo.json](./46050-super-tempo.json) |
@@ -39573,6 +39579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island: Evolve Pro! | 97199 | [97199-survival-island-evolve-pro.json](./97199-survival-island-evolve-pro.json) |
 | Survival Island: The Forest 3D | 221364 | [221364-survival-island-the-forest-3d.json](./221364-survival-island-the-forest-3d.json) |
 | Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
+| Survival Kids | 338087 | [338087-survival-kids.json](./338087-survival-kids.json) |
 | Survival Kids 2: Dasshutsu!! Futago Shima! | 50001 | [50001-survival-kids-2-dasshutsu-futago-shima.json](./50001-survival-kids-2-dasshutsu-futago-shima.json) |
 | Survival Kingdom | 31154 | [31154-survival-kingdom.json](./31154-survival-kingdom.json) |
 | Survival Legion | 413958 | [413958-survival-legion.json](./413958-survival-legion.json) |
@@ -40203,6 +40210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swan's Song | 342283 | [342283-swans-song.json](./342283-swans-song.json) |
 | Swanfield Survival | 395322 | [395322-swanfield-survival.json](./395322-swanfield-survival.json) |
 | Swangman | 183366 | [183366-swangman.json](./183366-swangman.json) |
+| Swann's Song | 345889 | [345889-swanns-song.json](./345889-swanns-song.json) |
 | Swans At The Welkin | 390718 | [390718-swans-at-the-welkin.json](./390718-swans-at-the-welkin.json) |
 | Swans in the Wallow | 395991 | [395991-swans-in-the-wallow.json](./395991-swans-in-the-wallow.json) |
 | Swap | 177370 | [177370-swap.json](./177370-swap.json) |
