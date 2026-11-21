@@ -6695,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry 4 | 186866 | [186866-the-angry-4.json](./186866-the-angry-4.json) |
 | The Angry Banana | 114918 | [114918-the-angry-banana.json](./114918-the-angry-banana.json) |
 | The Angry Beavers: Match-Master | 273882 | [273882-the-angry-beavers-match-master.json](./273882-the-angry-beavers-match-master.json) |
+| The Angry Birds Movie 2 VR: Under Pressure | 119333 | [119333-the-angry-birds-movie-2-vr-under-pressure.json](./119333-the-angry-birds-movie-2-vr-under-pressure.json) |
 | The Angry Hand of God | 65869 | [65869-the-angry-hand-of-god.json](./65869-the-angry-hand-of-god.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
@@ -8976,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curious Case of Captain Cray | 257194 | [257194-the-curious-case-of-captain-cray.json](./257194-the-curious-case-of-captain-cray.json) |
 | The Curious Study of Dr. Blackwood | 273846 | [273846-the-curious-study-of-dr-blackwood.json](./273846-the-curious-study-of-dr-blackwood.json) |
+| The Curious Tale of the Stolen Pets | 119332 | [119332-the-curious-tale-of-the-stolen-pets.json](./119332-the-curious-tale-of-the-stolen-pets.json) |
 | The Curry Simulator | 364106 | [364106-the-curry-simulator.json](./364106-the-curry-simulator.json) |
 | The Curse | 356144 | [356144-the-curse.json](./356144-the-curse.json) |
 | The Curse 404 | 401440 | [401440-the-curse-404.json](./401440-the-curse-404.json) |
@@ -10049,6 +10051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Deadlands | 180605 | [180605-the-elder-scrolls-online-deadlands.json](./180605-the-elder-scrolls-online-deadlands.json) |
 | The Elder Scrolls Online: Deluxe Collection - Gold Road | 306481 | [306481-the-elder-scrolls-online-deluxe-collection-gold-road.json](./306481-the-elder-scrolls-online-deluxe-collection-gold-road.json) |
 | The Elder Scrolls Online: Dragon Bones | 80011 | [80011-the-elder-scrolls-online-dragon-bones.json](./80011-the-elder-scrolls-online-dragon-bones.json) |
+| The Elder Scrolls Online: Dragonhold | 119327 | [119327-the-elder-scrolls-online-dragonhold.json](./119327-the-elder-scrolls-online-dragonhold.json) |
 | The Elder Scrolls Online: Elsweyr | 113996 | [113996-the-elder-scrolls-online-elsweyr.json](./113996-the-elder-scrolls-online-elsweyr.json) |
 | The Elder Scrolls Online: Elsweyr - Collector's Edition | 118908 | [118908-the-elder-scrolls-online-elsweyr-collectors-edition.json](./118908-the-elder-scrolls-online-elsweyr-collectors-edition.json) |
 | The Elder Scrolls Online: Fallen Banners | 335415 | [335415-the-elder-scrolls-online-fallen-banners.json](./335415-the-elder-scrolls-online-fallen-banners.json) |
@@ -21472,6 +21475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
 | The Walking Dead Arcade | 131053 | [131053-the-walking-dead-arcade.json](./131053-the-walking-dead-arcade.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
+| The Walking Dead Onslaught | 118485 | [118485-the-walking-dead-onslaught.json](./118485-the-walking-dead-onslaught.json) |
 | The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
 | The Walking Dead: A New Frontier - Episode 2: Ties That Bind - Part Two | 127063 | [127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json](./127063-the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-two.json) |
 | The Walking Dead: A New Frontier - Episode 3: Above the Law | 127064 | [127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json](./127064-the-walking-dead-a-new-frontier-episode-3-above-the-law.json) |
@@ -22028,6 +22032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
 | The Wizards Who Fell In A Hole | 30324 | [30324-the-wizards-who-fell-in-a-hole.json](./30324-the-wizards-who-fell-in-a-hole.json) |
+| The Wizards: Dark Times | 119331 | [119331-the-wizards-dark-times.json](./119331-the-wizards-dark-times.json) |
 | The Wizards: Dark Times - Brotherhood | 288172 | [288172-the-wizards-dark-times-brotherhood.json](./288172-the-wizards-dark-times-brotherhood.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
 | The Wizards: Trials of Meliora | 105003 | [105003-the-wizards-trials-of-meliora.json](./105003-the-wizards-trials-of-meliora.json) |
@@ -28566,6 +28571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Boy | 46900 | [46900-tom-boy.json](./46900-tom-boy.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
+| Tom Clancy's Elite Squad | 119355 | [119355-tom-clancys-elite-squad.json](./119355-tom-clancys-elite-squad.json) |
 | Tom Clancy's EndWar | 7468 | [7468-tom-clancys-endwar.json](./7468-tom-clancys-endwar.json) |
 | Tom Clancy's EndWar Online | 23213 | [23213-tom-clancys-endwar-online.json](./23213-tom-clancys-endwar-online.json) |
 | Tom Clancy's Ghost Recon | 1294 | [1294-tom-clancys-ghost-recon.json](./1294-tom-clancys-ghost-recon.json) |
@@ -34430,6 +34436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition | 118500 | [118500-transport-giant-gold-edition.json](./118500-transport-giant-gold-edition.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
+| Transport INC | 118521 | [118521-transport-inc.json](./118521-transport-inc.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
 | Transport INC: Seamanship | 201363 | [201363-transport-inc-seamanship.json](./201363-transport-inc-seamanship.json) |
 | Transport Legion | 372517 | [372517-transport-legion.json](./372517-transport-legion.json) |
