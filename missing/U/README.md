@@ -339,7 +339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uh? | 419847 | [419847-uh.json](./419847-uh.json) |
 | Uhilant | 337294 | [337294-uhilant.json](./337294-uhilant.json) |
 | UHR-Warlords | 175526 | [175526-uhr-warlords.json](./175526-uhr-warlords.json) |
-| UIFO Defense HD | 128026 | [128026-uifo-defense-hd.json](./128026-uifo-defense-hd.json) |
 | UIM | 261711 | [261711-uim.json](./261711-uim.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Uirdz | 418457 | [418457-uirdz.json](./418457-uirdz.json) |
@@ -575,7 +574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
 | Ultimate Dinosaur Simulator | 88927 | [88927-ultimate-dinosaur-simulator.json](./88927-ultimate-dinosaur-simulator.json) |
-| Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Dog Simulator | 88941 | [88941-ultimate-dog-simulator.json](./88941-ultimate-dog-simulator.json) |
 | Ultimate Domain | 12430 | [12430-ultimate-domain.json](./12430-ultimate-domain.json) |
 | Ultimate Doom the Way id Did | 233343 | [233343-ultimate-doom-the-way-id-did.json](./233343-ultimate-doom-the-way-id-did.json) |
@@ -1855,7 +1853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
 | Under One Wing | 114811 | [114811-under-one-wing.json](./114811-under-one-wing.json) |
-| Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
@@ -2895,8 +2892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Cat | 172276 | [172276-unlock-the-cat.json](./172276-unlock-the-cat.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
-| Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
-| Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlocked | 148813 | [148813-unlocked.json](./148813-unlocked.json) |
 | Unlockers | 350088 | [350088-unlockers.json](./350088-unlockers.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
@@ -3314,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until Daybreak | 243692 | [243692-until-daybreak.json](./243692-until-daybreak.json) |
 | Until Death Do We Part | 416800 | [416800-until-death-do-we-part.json](./416800-until-death-do-we-part.json) |
 | Until Her Amorous Body Corrupts | 83067 | [83067-until-her-amorous-body-corrupts.json](./83067-until-her-amorous-body-corrupts.json) |
+| Until I Have You | 24977 | [24977-until-i-have-you.json](./24977-until-i-have-you.json) |
 | Until It's Undone | 185345 | [185345-until-its-undone.json](./185345-until-its-undone.json) |
 | Until It’s Undone: Unmastered | 282260 | [282260-until-it-s-undone-unmastered.json](./282260-until-it-s-undone-unmastered.json) |
 | Until Last Breath | 148539 | [148539-until-last-breath.json](./148539-until-last-breath.json) |
@@ -3967,7 +3963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | US Presidents Quiz Tutor | 90841 | [90841-us-presidents-quiz-tutor.json](./90841-us-presidents-quiz-tutor.json) |
 | US School Simulator Game | 296766 | [296766-us-school-simulator-game.json](./296766-us-school-simulator-game.json) |
-| US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
 | US States For Kids | 102498 | [102498-us-states-for-kids.json](./102498-us-states-for-kids.json) |
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
