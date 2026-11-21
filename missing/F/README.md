@@ -14784,6 +14784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
 | Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
+| Frostpunk 2: The Surge | 427345 | [427345-frostpunk-2-the-surge.json](./427345-frostpunk-2-the-surge.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
 | Frostpunk: Beyond the Ice | 199959 | [199959-frostpunk-beyond-the-ice.json](./199959-frostpunk-beyond-the-ice.json) |
