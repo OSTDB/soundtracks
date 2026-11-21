@@ -10839,6 +10839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 21: Coffeehouse | 342074 | [342074-shopping-clutter-21-coffeehouse.json](./342074-shopping-clutter-21-coffeehouse.json) |
 | Shopping Clutter 22: Haute Couture | 341868 | [341868-shopping-clutter-22-haute-couture.json](./341868-shopping-clutter-22-haute-couture.json) |
 | Shopping Clutter 23: Beauty Salon | 336998 | [336998-shopping-clutter-23-beauty-salon.json](./336998-shopping-clutter-23-beauty-salon.json) |
+| Shopping Clutter 24: Dracula's Summerhouse | 426143 | [426143-shopping-clutter-24-draculas-summerhouse.json](./426143-shopping-clutter-24-draculas-summerhouse.json) |
 | Shopping Clutter 25: Strawberry Thanksgiving | 324504 | [324504-shopping-clutter-25-strawberry-thanksgiving.json](./324504-shopping-clutter-25-strawberry-thanksgiving.json) |
 | Shopping Clutter 26: Christmas Rocks | 341873 | [341873-shopping-clutter-26-christmas-rocks.json](./341873-shopping-clutter-26-christmas-rocks.json) |
 | Shopping Clutter 3: Blooming Tale | 215031 | [215031-shopping-clutter-3-blooming-tale.json](./215031-shopping-clutter-3-blooming-tale.json) |
@@ -18601,6 +18602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
 | Social Democracy: Popular Front | 410565 | [410565-social-democracy-popular-front.json](./410565-social-democracy-popular-front.json) |
 | Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
+| Social Disaster | 426240 | [426240-social-disaster.json](./426240-social-disaster.json) |
 | Social Distancing | 156748 | [156748-social-distancing.json](./156748-social-distancing.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Empires | 172812 | [172812-social-empires.json](./172812-social-empires.json) |
@@ -21044,6 +21046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic.exe: Dark Souls | 369107 | [369107-sonic-exe-dark-souls.json](./369107-sonic-exe-dark-souls.json) |
 | Sonic.exe: Dark Souls Remake | 369098 | [369098-sonic-exe-dark-souls-remake.json](./369098-sonic-exe-dark-souls-remake.json) |
 | Sonic.EXE: The Assault | 321068 | [321068-sonic-exe-the-assault.json](./321068-sonic-exe-the-assault.json) |
+| Sonic.EXE: The Disaster 2D Redux | 426152 | [426152-sonic-exe-the-disaster-2d-redux.json](./426152-sonic-exe-the-disaster-2d-redux.json) |
 | Sonic.Exe: The Spirits of Hell | 255852 | [255852-sonic-exe-the-spirits-of-hell.json](./255852-sonic-exe-the-spirits-of-hell.json) |
 | Sonic.Nes | 311752 | [311752-sonic-nes.json](./311752-sonic-nes.json) |
 | Sonic's Action Game | 198592 | [198592-sonics-action-game.json](./198592-sonics-action-game.json) |
