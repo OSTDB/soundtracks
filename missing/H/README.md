@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Games | 397345 | [397345-head-games.json](./397345-head-games.json) |
 | Head Games and Tank Battle Retro | 238047 | [238047-head-games-and-tank-battle-retro.json](./238047-head-games-and-tank-battle-retro.json) |
+| Head Goal: Soccer Online | 54447 | [54447-head-goal-soccer-online.json](./54447-head-goal-soccer-online.json) |
 | Head Hunters | 250980 | [250980-head-hunters.json](./250980-head-hunters.json) |
 | Head It!: VR Soccer Heading Game | 30754 | [30754-head-it-vr-soccer-heading-game.json](./30754-head-it-vr-soccer-heading-game.json) |
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
@@ -12822,6 +12823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
+| House of 1000 Doors: Family Secrets - Collector's Edition | 53196 | [53196-house-of-1000-doors-family-secrets-collectors-edition.json](./53196-house-of-1000-doors-family-secrets-collectors-edition.json) |
 | House of 1000 Doors: Palm of Zoroaster | 50312 | [50312-house-of-1000-doors-palm-of-zoroaster.json](./50312-house-of-1000-doors-palm-of-zoroaster.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of 1000 Doors: The Palm of Zoroaster | 125688 | [125688-house-of-1000-doors-the-palm-of-zoroaster.json](./125688-house-of-1000-doors-the-palm-of-zoroaster.json) |
@@ -14580,6 +14582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Tunnel | 323486 | [323486-hyper-tunnel.json](./323486-hyper-tunnel.json) |
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper Ultra Astronautics | 116664 | [116664-hyper-ultra-astronautics.json](./116664-hyper-ultra-astronautics.json) |
+| Hyper Universe | 54817 | [54817-hyper-universe.json](./54817-hyper-universe.json) |
 | Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
 | Hyper Void | 20966 | [20966-hyper-void.json](./20966-hyper-void.json) |
 | Hyper Void Complete | 118540 | [118540-hyper-void-complete.json](./118540-hyper-void-complete.json) |
