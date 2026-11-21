@@ -3327,7 +3327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4th Dawn | 219512 | [219512-4th-dawn.json](./219512-4th-dawn.json) |
 | 4th Dimension | 137934 | [137934-4th-dimension.json](./137934-4th-dimension.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
-| 4th Generation Warfare | 128944 | [128944-4th-generation-warfare.json](./128944-4th-generation-warfare.json) |
 | 4th Generation Warfare: Commando Unit | 196056 | [196056-4th-generation-warfare-commando-unit.json](./196056-4th-generation-warfare-commando-unit.json) |
 | 4th of July VR | 43100 | [43100-4th-of-july-vr.json](./43100-4th-of-july-vr.json) |
 | 4th Super Industrial Revolution Wars | 129071 | [129071-4th-super-industrial-revolution-wars.json](./129071-4th-super-industrial-revolution-wars.json) |
@@ -4151,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 94%: Quiz, Trivia & Logic | 104342 | [104342-94-quiz-trivia-and-logic.json](./104342-94-quiz-trivia-and-logic.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
+| 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
 | 96: Another Story | 224877 | [224877-96-another-story.json](./224877-96-another-story.json) |
 | 98xx | 249715 | [249715-98xx.json](./249715-98xx.json) |
 | 99 Action Arcade | 365014 | [365014-99-action-arcade.json](./365014-99-action-arcade.json) |
