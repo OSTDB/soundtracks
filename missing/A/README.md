@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Haunting Novel: Surfaced Secrets - Collector's Edition | 358089 | [358089-a-haunting-novel-surfaced-secrets-collectors-edition.json](./358089-a-haunting-novel-surfaced-secrets-collectors-edition.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
+| A Healer's Almanac | 424919 | [424919-a-healers-almanac.json](./424919-a-healers-almanac.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
 | A Heart of Butterblue | 225238 | [225238-a-heart-of-butterblue.json](./225238-a-heart-of-butterblue.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
+| A Noble Steed | 424930 | [424930-a-noble-steed.json](./424930-a-noble-steed.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
 | A Noite Sem Fim | 367318 | [367318-a-noite-sem-fim.json](./367318-a-noite-sem-fim.json) |
 | A Normal Day at a Normal Beach | 420476 | [420476-a-normal-day-at-a-normal-beach.json](./420476-a-normal-day-at-a-normal-beach.json) |
@@ -5554,6 +5556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age | 270014 | [270014-age.json](./270014-age.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
 | Age Archives: 20th Box Edition | 185756 | [185756-age-archives-20th-box-edition.json](./185756-age-archives-20th-box-edition.json) |
+| Age Breaker | 424935 | [424935-age-breaker.json](./424935-age-breaker.json) |
 | Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
@@ -13998,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
 | Applied Energistics | 232627 | [232627-applied-energistics.json](./232627-applied-energistics.json) |
 | Applied Energistics 2 | 275742 | [275742-applied-energistics-2.json](./275742-applied-energistics-2.json) |
+| Applied Shamanism | 424920 | [424920-applied-shamanism.json](./424920-applied-shamanism.json) |
 | Apploid: Ballfare | 231687 | [231687-apploid-ballfare.json](./231687-apploid-ballfare.json) |
 | Apploval | 249512 | [249512-apploval.json](./249512-apploval.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
