@@ -6633,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
 | Goatquizz | 421893 | [421893-goatquizz.json](./421893-goatquizz.json) |
 | GoatUp | 93491 | [93491-goatup.json](./93491-goatup.json) |
+| GoatUp 2 | 22195 | [22195-goatup-2.json](./22195-goatup-2.json) |
 | Gob | 146080 | [146080-gob.json](./146080-gob.json) |
 | Gob | 214834 | [214834-gob.json](./214834-gob.json) |
 | Gob | 320129 | [320129-gob.json](./320129-gob.json) |
@@ -11474,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow in the Hole | 178275 | [178275-grow-in-the-hole.json](./178275-grow-in-the-hole.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
+| Grow It! | 430843 | [430843-grow-it.json](./430843-grow-it.json) |
 | Grow Light | 256494 | [256494-grow-light.json](./256494-grow-light.json) |
 | Grow Maze | 281204 | [281204-grow-maze.json](./281204-grow-maze.json) |
 | Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
