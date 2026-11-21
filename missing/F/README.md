@@ -10758,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 27 | 420884 | [420884-football-manager-27.json](./420884-football-manager-27.json) |
 | Football Manager 27 Console | 420982 | [420982-football-manager-27-console.json](./420982-football-manager-27-console.json) |
 | Football Manager 27 Mobile | 420983 | [420983-football-manager-27-mobile.json](./420983-football-manager-27-mobile.json) |
+| Football Manager 27 Touch | 429214 | [429214-football-manager-27-touch.json](./429214-football-manager-27-touch.json) |
 | Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
 | Football Manager Handheld | 22629 | [22629-football-manager-handheld.json](./22629-football-manager-handheld.json) |
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
@@ -16147,6 +16148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa Heroism | 235707 | [235707-futa-heroism.json](./235707-futa-heroism.json) |
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
+| Futa on Top | 429183 | [429183-futa-on-top.json](./429183-futa-on-top.json) |
 | Futa Paradise | 382384 | [382384-futa-paradise.json](./382384-futa-paradise.json) |
 | Futa Runner: Big Dick Edition | 352438 | [352438-futa-runner-big-dick-edition.json](./352438-futa-runner-big-dick-edition.json) |
 | Futa Slug EX | 376956 | [376956-futa-slug-ex.json](./376956-futa-slug-ex.json) |
