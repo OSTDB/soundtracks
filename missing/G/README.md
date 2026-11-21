@@ -258,7 +258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2 2001 | 80864 | [80864-g1-jockey-2-2001.json](./80864-g1-jockey-2-2001.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
-| G1 Jockey 4 | 4878 | [4878-g1-jockey-4.json](./4878-g1-jockey-4.json) |
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
 | G1deon: Towards God | 171799 | [171799-g1deon-towards-god.json](./171799-g1deon-towards-god.json) |
@@ -501,7 +500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
 | Gakuen Tokkyuu Hotokenser | 200939 | [200939-gakuen-tokkyuu-hotokenser.json](./200939-gakuen-tokkyuu-hotokenser.json) |
-| Gakuen Toshi Vara Noir | 3926 | [3926-gakuen-toshi-vara-noir.json](./3926-gakuen-toshi-vara-noir.json) |
 | Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
@@ -1584,7 +1582,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Over! | 380539 | [380539-game-over.json](./380539-game-over.json) |
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party | 208265 | [208265-game-party.json](./208265-game-party.json) |
-| Game Party | 4880 | [4880-game-party.json](./4880-game-party.json) |
 | Game Party 2 | 70696 | [70696-game-party-2.json](./70696-game-party-2.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Party Champions | 4881 | [4881-game-party-champions.json](./4881-game-party-champions.json) |
@@ -2251,7 +2248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Double Dares | 306764 | [306764-garfield-double-dares.json](./306764-garfield-double-dares.json) |
 | Garfield Food Truck | 331035 | [331035-garfield-food-truck.json](./331035-garfield-food-truck.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
-| Garfield Gets Real | 4882 | [4882-garfield-gets-real.json](./4882-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
 | Garfield in TV Land | 234569 | [234569-garfield-in-tv-land.json](./234569-garfield-in-tv-land.json) |
 | Garfield It's All About Reading and Phonics Volume 1 | 64803 | [64803-garfield-its-all-about-reading-and-phonics-volume-1.json](./64803-garfield-its-all-about-reading-and-phonics-volume-1.json) |
@@ -2969,7 +2965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekitou Power Modeller | 49126 | [49126-gekitou-power-modeller.json](./49126-gekitou-power-modeller.json) |
-| Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
 | Gekitou Senshi Nagerunder | 59202 | [59202-gekitou-senshi-nagerunder.json](./59202-gekitou-senshi-nagerunder.json) |
 | Gekitou! Crash Gear Turbo: Gear Champion League | 37445 | [37445-gekitou-crash-gear-turbo-gear-champion-league.json](./37445-gekitou-crash-gear-turbo-gear-champion-league.json) |
 | Gekitou! Crush Gear Turbo | 222184 | [222184-gekitou-crush-gear-turbo.json](./222184-gekitou-crush-gear-turbo.json) |
@@ -3249,7 +3244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Girl Gotta Groove | 65916 | [65916-generation-girl-gotta-groove.json](./65916-generation-girl-gotta-groove.json) |
 | Generation N: Identity Included | 238812 | [238812-generation-n-identity-included.json](./238812-generation-n-identity-included.json) |
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
-| Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
 | Generation of Chaos III | 61251 | [61251-generation-of-chaos-iii.json](./61251-generation-of-chaos-iii.json) |
 | Generation of Chaos Next | 61253 | [61253-generation-of-chaos-next.json](./61253-generation-of-chaos-next.json) |
 | Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
@@ -3823,7 +3817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Lopez: Lawn Art Bowling | 321237 | [321237-george-lopez-lawn-art-bowling.json](./321237-george-lopez-lawn-art-bowling.json) |
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
-| George of the Jungle and the Search for the Secret | 4889 | [4889-george-of-the-jungle-and-the-search-for-the-secret.json](./4889-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George Pontos: The Stolen Lyre | 246161 | [246161-george-pontos-the-stolen-lyre.json](./246161-george-pontos-the-stolen-lyre.json) |
 | George Scared of the Dark | 57973 | [57973-george-scared-of-the-dark.json](./57973-george-scared-of-the-dark.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
@@ -6511,7 +6504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Hamster Chef! | 249392 | [249392-go-go-hamster-chef.json](./249392-go-go-hamster-chef.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
 | Go! Go! Horse Run! | 418688 | [418688-go-go-horse-run.json](./418688-go-go-horse-run.json) |
-| Go! Go! Hypergrind | 3933 | [3933-go-go-hypergrind.json](./3933-go-go-hypergrind.json) |
 | Go! Go! Island Rescue! | 84500 | [84500-go-go-island-rescue.json](./84500-go-go-island-rescue.json) |
 | Go! Go! Kokopolo 3D | 56295 | [56295-go-go-kokopolo-3d.json](./56295-go-go-kokopolo-3d.json) |
 | Go! Go! Kokopolo Anniversary Collection | 203793 | [203793-go-go-kokopolo-anniversary-collection.json](./203793-go-go-kokopolo-anniversary-collection.json) |
@@ -10534,7 +10526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
 | Grey's Anatomy: The Mobile Game | 428512 | [428512-greys-anatomy-the-mobile-game.json](./428512-greys-anatomy-the-mobile-game.json) |
-| Grey's Anatomy: The Video Game | 4897 | [4897-greys-anatomy-the-video-game.json](./4897-greys-anatomy-the-video-game.json) |
 | Greybit | 336841 | [336841-greybit.json](./336841-greybit.json) |
 | Greyfell | 47140 | [47140-greyfell.json](./47140-greyfell.json) |
 | Greyfox | 19377 | [19377-greyfox.json](./19377-greyfox.json) |
@@ -11343,7 +11334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Runner | 130961 | [130961-groove-runner.json](./130961-groove-runner.json) |
 | Groove that Goob | 285972 | [285972-groove-that-goob.json](./285972-groove-that-goob.json) |
 | Groovekeeper: Sort the Record Shop | 415165 | [415165-groovekeeper-sort-the-record-shop.json](./415165-groovekeeper-sort-the-record-shop.json) |
-| Grooverider: Slot Car Thunder | 3937 | [3937-grooverider-slot-car-thunder.json](./3937-grooverider-slot-car-thunder.json) |
 | Grooverland | 230547 | [230547-grooverland.json](./230547-grooverland.json) |
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
 | Groovin' Blocks | 4898 | [4898-groovin-blocks.json](./4898-groovin-blocks.json) |
@@ -12187,7 +12177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guinea-Pig | 81879 | [81879-guinea-pig.json](./81879-guinea-pig.json) |
 | Guinevere | 313874 | [313874-guinevere.json](./313874-guinevere.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
-| Guinness World Records: The Video Game | 4901 | [4901-guinness-world-records-the-video-game.json](./4901-guinness-world-records-the-video-game.json) |
 | Guisard Revolution: Bokura wa Omoi wo Mi ni Matou | 289361 | [289361-guisard-revolution-bokura-wa-omoi-wo-mi-ni-matou.json](./289361-guisard-revolution-bokura-wa-omoi-wo-mi-ni-matou.json) |
 | Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Band Battle | 175729 | [175729-guitar-band-battle.json](./175729-guitar-band-battle.json) |
