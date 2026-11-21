@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Expedition | 424301 | [424301-abyss-expedition.json](./424301-abyss-expedition.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
 | Abyss Forge | 424959 | [424959-abyss-forge.json](./424959-abyss-forge.json) |
+| Abyss Horde | 429540 | [429540-abyss-horde.json](./429540-abyss-horde.json) |
 | Abyss Horizon | 97453 | [97453-abyss-horizon.json](./97453-abyss-horizon.json) |
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss King | 199485 | [199485-abyss-king.json](./199485-abyss-king.json) |
@@ -6145,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Game Master | 334434 | [334434-ai-game-master.json](./334434-ai-game-master.json) |
 | AI Games | 419494 | [419494-ai-games.json](./419494-ai-games.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
+| Ai ha Sadame, Sadame ha Shi | 429818 | [429818-ai-ha-sadame-sadame-ha-shi.json](./429818-ai-ha-sadame-sadame-ha-shi.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
 | AI Igo | 45447 | [45447-ai-igo.json](./45447-ai-igo.json) |
 | AI Igo 2003 | 269325 | [269325-ai-igo-2003.json](./269325-ai-igo-2003.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter: The Experiment | 11090 | [11090-alien-shooter-the-experiment.json](./11090-alien-shooter-the-experiment.json) |
 | Alien Shooter: Vengeance | 14145 | [14145-alien-shooter-vengeance.json](./14145-alien-shooter-vengeance.json) |
 | Alien Sidestep | 64816 | [64816-alien-sidestep.json](./64816-alien-sidestep.json) |
+| Alien Siege: Earth | 429613 | [429613-alien-siege-earth.json](./429613-alien-siege-earth.json) |
 | Alien Simulator | 123831 | [123831-alien-simulator.json](./123831-alien-simulator.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
@@ -18683,6 +18686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Ooze | 348345 | [348345-astral-ooze.json](./348345-astral-ooze.json) |
 | Astral Outcast | 298246 | [298246-astral-outcast.json](./298246-astral-outcast.json) |
 | Astral Party | 270039 | [270039-astral-party.json](./270039-astral-party.json) |
+| Astral Phase | 429809 | [429809-astral-phase.json](./429809-astral-phase.json) |
 | Astral Planes | 365821 | [365821-astral-planes.json](./365821-astral-planes.json) |
 | Astral Pursuit | 320601 | [320601-astral-pursuit.json](./320601-astral-pursuit.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
