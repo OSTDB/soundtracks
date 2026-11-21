@@ -6923,6 +6923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Cookie Monster’s Cookie Factory | 421421 | [421421-sesame-street-cookie-monster-s-cookie-factory.json](./421421-sesame-street-cookie-monster-s-cookie-factory.json) |
 | Sesame Street: Cookie's Counting Carnival | 50709 | [50709-sesame-street-cookies-counting-carnival.json](./50709-sesame-street-cookies-counting-carnival.json) |
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
+| Sesame Street: Elmo and Abby's Magical Letter Hunt | 421395 | [421395-sesame-street-elmo-and-abbys-magical-letter-hunt.json](./421395-sesame-street-elmo-and-abbys-magical-letter-hunt.json) |
 | Sesame Street: Elmo Says | 384072 | [384072-sesame-street-elmo-says.json](./384072-sesame-street-elmo-says.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's A-to-Zoo Adventure the Videogame | 47920 | [47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json](./47920-sesame-street-elmos-a-to-zoo-adventure-the-videogame.json) |
@@ -9253,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenanigans | 283362 | [283362-shenanigans.json](./283362-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
+| Shenaniguns | 420847 | [420847-shenaniguns.json](./420847-shenaniguns.json) |
 | Sheng Tian: Episode 1 | 395257 | [395257-sheng-tian-episode-1.json](./395257-sheng-tian-episode-1.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
 | Shengnü Zhi Ge: Heroine Anthem II - The Angel of Sarem | 81491 | [81491-shengnu-zhi-ge-heroine-anthem-ii-the-angel-of-sarem.json](./81491-shengnu-zhi-ge-heroine-anthem-ii-the-angel-of-sarem.json) |
@@ -12229,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Nights: Children's Orchestra - Collector's Edition | 370925 | [370925-silent-nights-childrens-orchestra-collectors-edition.json](./370925-silent-nights-childrens-orchestra-collectors-edition.json) |
 | Silent Nights: The Pianist | 63440 | [63440-silent-nights-the-pianist.json](./63440-silent-nights-the-pianist.json) |
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
+| Silent Noise: The Park Shift | 420872 | [420872-silent-noise-the-park-shift.json](./420872-silent-noise-the-park-shift.json) |
 | Silent North | 279401 | [279401-silent-north.json](./279401-silent-north.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
@@ -23000,6 +23003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Merchants: Arena | 30799 | [30799-space-merchants-arena.json](./30799-space-merchants-arena.json) |
 | Space Mergers | 289348 | [289348-space-mergers.json](./289348-space-mergers.json) |
+| Space Metal Mania | 420823 | [420823-space-metal-mania.json](./420823-space-metal-mania.json) |
 | Space Milkman: Tsuneo wa Uchuu no Gyuunyuuya-san | 108133 | [108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json](./108133-space-milkman-tsuneo-wa-uchuu-no-gyuunyuuya-san.json) |
 | Space Mine Raider | 422775 | [422775-space-mine-raider.json](./422775-space-mine-raider.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
@@ -25368,6 +25372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
+| Spinblade | 420857 | [420857-spinblade.json](./420857-spinblade.json) |
 | SpinBound | 400417 | [400417-spinbound.json](./400417-spinbound.json) |
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
 | SpinCross | 202040 | [202040-spincross.json](./202040-spincross.json) |
@@ -31269,6 +31274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
 | Stockle | 394839 | [394839-stockle.json](./394839-stockle.json) |
 | Stockpile | 109839 | [109839-stockpile.json](./109839-stockpile.json) |
+| Stockroom Syndrome | 420873 | [420873-stockroom-syndrome.json](./420873-stockroom-syndrome.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | Stocks: Main Force Simulator | 374337 | [374337-stocks-main-force-simulator.json](./374337-stocks-main-force-simulator.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
