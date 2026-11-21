@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | Darkphobia | 406991 | [406991-darkphobia.json](./406991-darkphobia.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
+| DarkPurple | 413257 | [413257-darkpurple.json](./413257-darkpurple.json) |
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | DarkRay | 410492 | [410492-darkray.json](./410492-darkray.json) |
 | Darkrise | 208196 | [208196-darkrise.json](./208196-darkrise.json) |
@@ -7324,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
 | Democratic Socialism Simulator | 131780 | [131780-democratic-socialism-simulator.json](./131780-democratic-socialism-simulator.json) |
 | Demolish | 311920 | [311920-demolish.json](./311920-demolish.json) |
+| Demolish | 418951 | [418951-demolish.json](./418951-demolish.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 3 | 210952 | [210952-demolish-and-build-3.json](./210952-demolish-and-build-3.json) |
@@ -12722,6 +12724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divergence: Online | 34007 | [34007-divergence-online.json](./34007-divergence-online.json) |
 | Divergence: Year Zero | 31287 | [31287-divergence-year-zero.json](./31287-divergence-year-zero.json) |
 | Divergences | 356267 | [356267-divergences.json](./356267-divergences.json) |
+| Divergences of Darkness Rework | 418975 | [418975-divergences-of-darkness-rework.json](./418975-divergences-of-darkness-rework.json) |
 | Divergent Shift | 85095 | [85095-divergent-shift.json](./85095-divergent-shift.json) |
 | Divers | 318712 | [318712-divers.json](./318712-divers.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
@@ -16384,6 +16387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
 | Dr Carter and the Wheels of Salvation | 71977 | [71977-dr-carter-and-the-wheels-of-salvation.json](./71977-dr-carter-and-the-wheels-of-salvation.json) |
 | Dr Dokkoy | 313541 | [313541-dr-dokkoy.json](./313541-dr-dokkoy.json) |
+| DR Dominoes | 418928 | [418928-dr-dominoes.json](./418928-dr-dominoes.json) |
 | Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
 | Dr GreenStuff | 75216 | [75216-dr-greenstuff.json](./75216-dr-greenstuff.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
@@ -20985,6 +20989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
 | Dungeon Girl | 25689 | [25689-dungeon-girl.json](./25689-dungeon-girl.json) |
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
+| Dungeon Girl | 418856 | [418856-dungeon-girl.json](./418856-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Glitchers VR | 182660 | [182660-dungeon-glitchers-vr.json](./182660-dungeon-glitchers-vr.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
