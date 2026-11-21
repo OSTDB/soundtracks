@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailing Wizard | 216923 | [216923-sailing-wizard.json](./216923-sailing-wizard.json) |
 | Sailist | 244333 | [244333-sailist.json](./244333-sailist.json) |
+| Sailor Alice: Alice at Sea | 421522 | [421522-sailor-alice-alice-at-sea.json](./421522-sailor-alice-alice-at-sea.json) |
 | Sailor Cats | 202708 | [202708-sailor-cats.json](./202708-sailor-cats.json) |
 | Sailor Cats 2: Space Odyssey | 202051 | [202051-sailor-cats-2-space-odyssey.json](./202051-sailor-cats-2-space-odyssey.json) |
 | Sailor Fuku Bijin Tsuma Senshi Aheahe Moon | 82979 | [82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json](./82979-sailor-fuku-bijin-tsuma-senshi-aheahe-moon.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
 | Sandcastles | 136010 | [136010-sandcastles.json](./136010-sandcastles.json) |
+| SandDog | 422644 | [422644-sanddog.json](./422644-sanddog.json) |
 | SandEEE | 399845 | [399845-sandeee.json](./399845-sandeee.json) |
 | Sandfall | 172923 | [172923-sandfall.json](./172923-sandfall.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
@@ -8976,6 +8978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered: Tale of the Forgotten King | 25555 | [25555-shattered-tale-of-the-forgotten-king.json](./25555-shattered-tale-of-the-forgotten-king.json) |
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterfarms | 406434 | [406434-shatterfarms.json](./406434-shatterfarms.json) |
+| Shatterflap | 422640 | [422640-shatterflap.json](./422640-shatterflap.json) |
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
@@ -24846,6 +24849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellirium | 63549 | [63549-spellirium.json](./63549-spellirium.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spelljammer: Pirates of Realmspace | 73446 | [73446-spelljammer-pirates-of-realmspace.json](./73446-spelljammer-pirates-of-realmspace.json) |
+| Spellk | 422622 | [422622-spellk.json](./422622-spellk.json) |
 | SpellKnights | 33500 | [33500-spellknights.json](./33500-spellknights.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
@@ -29802,6 +29806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starway Fleet | 29103 | [29103-starway-fleet.json](./29103-starway-fleet.json) |
 | Starway VR | 111373 | [111373-starway-vr.json](./111373-starway-vr.json) |
 | Starway: BaRaider | 223328 | [223328-starway-baraider.json](./223328-starway-baraider.json) |
+| Starways: Heart of the Cosmos | 422624 | [422624-starways-heart-of-the-cosmos.json](./422624-starways-heart-of-the-cosmos.json) |
 | Starweave | 249426 | [249426-starweave.json](./249426-starweave.json) |
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | Starwhal | 6781 | [6781-starwhal.json](./6781-starwhal.json) |
@@ -32321,6 +32326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
+| Streak Of Power | 421517 | [421517-streak-of-power.json](./421517-streak-of-power.json) |
 | Streak: Hoverboard Racing | 44910 | [44910-streak-hoverboard-racing.json](./44910-streak-hoverboard-racing.json) |
 | Streaker | 54571 | [54571-streaker.json](./54571-streaker.json) |
 | Streaking | 40435 | [40435-streaking.json](./40435-streaking.json) |
