@@ -10507,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Light Combat | 158954 | [158954-low-light-combat.json](./158954-low-light-combat.json) |
 | Low Light Combat | 63697 | [63697-low-light-combat.json](./63697-low-light-combat.json) |
 | Low Mem Sky | 181253 | [181253-low-mem-sky.json](./181253-low-mem-sky.json) |
+| Low Noon: The Gunless Goon | 420148 | [420148-low-noon-the-gunless-goon.json](./420148-low-noon-the-gunless-goon.json) |
 | Low Oxygen | 239697 | [239697-low-oxygen.json](./239697-low-oxygen.json) |
 | Low Polly | 331789 | [331789-low-polly.json](./331789-low-polly.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
