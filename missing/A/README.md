@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airgrave | 43804 | [43804-airgrave.json](./43804-airgrave.json) |
 | AirGun | 165716 | [165716-airgun.json](./165716-airgun.json) |
 | Airhack | 126746 | [126746-airhack.json](./126746-airhack.json) |
+| Airhead | 119015 | [119015-airhead.json](./119015-airhead.json) |
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airhead Games | 340724 | [340724-airhead-games.json](./340724-airhead-games.json) |
 | Airhead Hockey | 351428 | [351428-airhead-hockey.json](./351428-airhead-hockey.json) |
@@ -7170,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akiba's Trip Festa! | 148244 | [148244-akibas-trip-festa.json](./148244-akibas-trip-festa.json) |
 | Akiba's Trip Plus | 141285 | [141285-akibas-trip-plus.json](./141285-akibas-trip-plus.json) |
 | Akiba’s Trip: First Memory - 10th Anniversary Edition | 142373 | [142373-akiba-s-trip-first-memory-10th-anniversary-edition.json](./142373-akiba-s-trip-first-memory-10th-anniversary-edition.json) |
+| Akiba's Trip: Hellbound & Debriefed | 119460 | [119460-akibas-trip-hellbound-and-debriefed.json](./119460-akibas-trip-hellbound-and-debriefed.json) |
 | Akiba's Trip: Hellbound & Debriefed - 10th Anniversary Edition | 146159 | [146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json](./146159-akibas-trip-hellbound-and-debriefed-10th-anniversary-edition.json) |
 | Akiba's Trip: Hellbound & Debriefed - Digital Deluxe Edition | 164629 | [164629-akibas-trip-hellbound-and-debriefed-digital-deluxe-edition.json](./164629-akibas-trip-hellbound-and-debriefed-digital-deluxe-edition.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
@@ -9009,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Alluring Lullaby | 427748 | [427748-alluring-lullaby.json](./427748-alluring-lullaby.json) |
 | Alluring Neon Night Town | 417270 | [417270-alluring-neon-night-town.json](./417270-alluring-neon-night-town.json) |
+| Alluris | 118627 | [118627-alluris.json](./118627-alluris.json) |
 | Alluvium | 123209 | [123209-alluvium.json](./123209-alluvium.json) |
 | Allwheel.online | 114118 | [114118-allwheel-online.json](./114118-allwheel-online.json) |
 | Ally Gory: The Great Mushroom Hunt | 171998 | [171998-ally-gory-the-great-mushroom-hunt.json](./171998-ally-gory-the-great-mushroom-hunt.json) |
