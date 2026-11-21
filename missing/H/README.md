@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
+| Haboku | 428510 | [428510-haboku.json](./428510-haboku.json) |
 | Habroxia | 122654 | [122654-habroxia.json](./122654-habroxia.json) |
 | Habroxia 2: Limited Edition | 166242 | [166242-habroxia-2-limited-edition.json](./166242-habroxia-2-limited-edition.json) |
 | Habu Meijin no Omoshiro Shogi | 38013 | [38013-habu-meijin-no-omoshiro-shogi.json](./38013-habu-meijin-no-omoshiro-shogi.json) |
@@ -5803,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fantasy | 371380 | [371380-hentai-fantasy.json](./371380-hentai-fantasy.json) |
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Fantasy World | 365426 | [365426-hentai-fantasy-world.json](./365426-hentai-fantasy-world.json) |
+| Hentai Femboy Feet | 428495 | [428495-hentai-femboy-feet.json](./428495-hentai-femboy-feet.json) |
 | Hentai Femdom Sim: Femdom University | 159772 | [159772-hentai-femdom-sim-femdom-university.json](./159772-hentai-femdom-sim-femdom-university.json) |
 | Hentai Festival | 240616 | [240616-hentai-festival.json](./240616-hentai-festival.json) |
 | Hentai Fetish Tycoon | 177707 | [177707-hentai-fetish-tycoon.json](./177707-hentai-fetish-tycoon.json) |
@@ -13179,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Snooker | 60950 | [60950-how-to-snooker.json](./60950-how-to-snooker.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
 | How to Spend Holidays | 82989 | [82989-how-to-spend-holidays.json](./82989-how-to-spend-holidays.json) |
+| How to Summon a Demon | 428489 | [428489-how-to-summon-a-demon.json](./428489-how-to-summon-a-demon.json) |
 | How to Survive | 7420 | [7420-how-to-survive.json](./7420-how-to-survive.json) |
 | How to Survive 2 | 13210 | [13210-how-to-survive-2.json](./13210-how-to-survive-2.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
