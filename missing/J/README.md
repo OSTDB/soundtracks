@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
 | Joining Hands 2 | 264970 | [264970-joining-hands-2.json](./264970-joining-hands-2.json) |
 | Joint Force | 381585 | [381585-joint-force.json](./381585-joint-force.json) |
+| Joint Operations | 24243 | [24243-joint-operations.json](./24243-joint-operations.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Operations: Typhoon Rising | 9354 | [9354-joint-operations-typhoon-rising.json](./9354-joint-operations-typhoon-rising.json) |
 | Joint Recall | 265482 | [265482-joint-recall.json](./265482-joint-recall.json) |
