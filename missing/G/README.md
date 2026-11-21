@@ -5539,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam Descent | 260003 | [260003-glam-descent.json](./260003-glam-descent.json) |
 | Glam Doll House: Fashion Girls Craft & Exploration | 88025 | [88025-glam-doll-house-fashion-girls-craft-and-exploration.json](./88025-glam-doll-house-fashion-girls-craft-and-exploration.json) |
 | Glam Pursuit | 268279 | [268279-glam-pursuit.json](./268279-glam-pursuit.json) |
+| Glam Sort | 429117 | [429117-glam-sort.json](./429117-glam-sort.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glamor | 131112 | [131112-glamor.json](./131112-glamor.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
