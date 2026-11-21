@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
 | Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
+| Gabby's Dollhouse: A-meow-zing Moves | 421393 | [421393-gabbys-dollhouse-a-meow-zing-moves.json](./421393-gabbys-dollhouse-a-meow-zing-moves.json) |
 | Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gabe Newell Simulator | 13618 | [13618-gabe-newell-simulator.json](./13618-gabe-newell-simulator.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game is Full of Bugs | 295583 | [295583-game-is-full-of-bugs.json](./295583-game-is-full-of-bugs.json) |
 | Game Islands - Play All Day | 95126 | [95126-game-islands-play-all-day.json](./95126-game-islands-play-all-day.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
+| Game Keeper: Somebody Messed Up My Shop! | 420849 | [420849-game-keeper-somebody-messed-up-my-shop.json](./420849-game-keeper-somebody-messed-up-my-shop.json) |
 | Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
@@ -5380,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
 | Give Gifts Give Life | 397240 | [397240-give-gifts-give-life.json](./397240-give-gifts-give-life.json) |
+| Give him a break! | 421394 | [421394-give-him-a-break.json](./421394-give-him-a-break.json) |
 | Give It Up: Spring Festival | 200293 | [200293-give-it-up-spring-festival.json](./200293-give-it-up-spring-festival.json) |
 | Give It Up! | 59302 | [59302-give-it-up.json](./59302-give-it-up.json) |
 | Give It Up! 3 | 260897 | [260897-give-it-up-3.json](./260897-give-it-up-3.json) |
@@ -12029,6 +12032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guildfall Heroes | 418066 | [418066-guildfall-heroes.json](./418066-guildfall-heroes.json) |
 | Guildfire | 423294 | [423294-guildfire.json](./423294-guildfire.json) |
 | Guildford Castle VR | 268043 | [268043-guildford-castle-vr.json](./268043-guildford-castle-vr.json) |
+| Guildlands | 420842 | [420842-guildlands.json](./420842-guildlands.json) |
 | Guildlings | 96257 | [96257-guildlings.json](./96257-guildlings.json) |
 | Guildmaker | 405855 | [405855-guildmaker.json](./405855-guildmaker.json) |
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
