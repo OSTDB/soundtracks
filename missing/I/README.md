@@ -7512,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isshou Asoberu Todai Shogi: Sakidzsume Shogi Dojo | 56795 | [56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json](./56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
+| Istanbul Cats | 427990 | [427990-istanbul-cats.json](./427990-istanbul-cats.json) |
 | Istanbul Ship Simulator | 190771 | [190771-istanbul-ship-simulator.json](./190771-istanbul-ship-simulator.json) |
 | Istanbul, Texas | 159071 | [159071-istanbul-texas.json](./159071-istanbul-texas.json) |
 | Istanbul: Digital Edition | 104265 | [104265-istanbul-digital-edition.json](./104265-istanbul-digital-edition.json) |
