@@ -20680,6 +20680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putinoids vs. Navalnyats | 100477 | [100477-putinoids-vs-navalnyats.json](./100477-putinoids-vs-navalnyats.json) |
 | Putlestory | 133628 | [133628-putlestory.json](./133628-putlestory.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
+| Putrefaction 2: Void Walker | 30131 | [30131-putrefaction-2-void-walker.json](./30131-putrefaction-2-void-walker.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putrid Beasts | 367914 | [367914-putrid-beasts.json](./367914-putrid-beasts.json) |
 | Putrid Shark | 185860 | [185860-putrid-shark.json](./185860-putrid-shark.json) |
