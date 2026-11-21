@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
+| Parasite Core | 423450 | [423450-parasite-core.json](./423450-parasite-core.json) |
 | Parasite Days | 150198 | [150198-parasite-days.json](./150198-parasite-days.json) |
 | Parasite Elevator | 419438 | [419438-parasite-elevator.json](./419438-parasite-elevator.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
@@ -11698,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbers Don't Wear Ties: Definitive Edition | 203765 | [203765-plumbers-dont-wear-ties-definitive-edition.json](./203765-plumbers-dont-wear-ties-definitive-edition.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
+| Plumbo | 423821 | [423821-plumbo.json](./423821-plumbo.json) |
 | Plumbum | 329262 | [329262-plumbum.json](./329262-plumbum.json) |
 | Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
 | Plumley's Trot | 259785 | [259785-plumleys-trot.json](./259785-plumleys-trot.json) |
@@ -13020,6 +13022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Divided Spirits | 270368 | [270368-pokemon-mystery-dungeon-divided-spirits.json](./270368-pokemon-mystery-dungeon-divided-spirits.json) |
 | Pokémon Mystery Dungeon: Explorers of Alpha | 381141 | [381141-pokemon-mystery-dungeon-explorers-of-alpha.json](./381141-pokemon-mystery-dungeon-explorers-of-alpha.json) |
 | Pokémon Mystery Dungeon: Explorers of Darkness | 2322 | [2322-pokemon-mystery-dungeon-explorers-of-darkness.json](./2322-pokemon-mystery-dungeon-explorers-of-darkness.json) |
+| Pokémon Mystery Dungeon: Explorers of Fortune | 423462 | [423462-pokemon-mystery-dungeon-explorers-of-fortune.json](./423462-pokemon-mystery-dungeon-explorers-of-fortune.json) |
 | Pokémon Mystery Dungeon: Explorers of Hell | 255898 | [255898-pokemon-mystery-dungeon-explorers-of-hell.json](./255898-pokemon-mystery-dungeon-explorers-of-hell.json) |
 | Pokémon Mystery Dungeon: Explorers of Skies | 294796 | [294796-pokemon-mystery-dungeon-explorers-of-skies.json](./294796-pokemon-mystery-dungeon-explorers-of-skies.json) |
 | Pokémon Mystery Dungeon: Explorers of Sky | 2323 | [2323-pokemon-mystery-dungeon-explorers-of-sky.json](./2323-pokemon-mystery-dungeon-explorers-of-sky.json) |
@@ -19898,6 +19901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulpcraft DX | 231328 | [231328-pulpcraft-dx.json](./231328-pulpcraft-dx.json) |
 | Pulpergeist | 204206 | [204206-pulpergeist.json](./204206-pulpergeist.json) |
 | Pulpmon | 202038 | [202038-pulpmon.json](./202038-pulpmon.json) |
+| Pulpshot | 423453 | [423453-pulpshot.json](./423453-pulpshot.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar | 272622 | [272622-pulsar.json](./272622-pulsar.json) |
