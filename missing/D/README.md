@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Crown: Immortal Edition | 262890 | [262890-death-crown-immortal-edition.json](./262890-death-crown-immortal-edition.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Damnation | 192253 | [192253-death-damnation.json](./192253-death-damnation.json) |
+| Death Dealer | 422225 | [422225-death-dealer.json](./422225-death-dealer.json) |
 | Death Dealers | 137403 | [137403-death-dealers.json](./137403-death-dealers.json) |
 | Death Delivery | 336764 | [336764-death-delivery.json](./336764-death-delivery.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
@@ -6614,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Ardania: The Conjurer's Tricks | 52862 | [52862-defenders-of-ardania-the-conjurers-tricks.json](./52862-defenders-of-ardania-the-conjurers-tricks.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
+| Defenders of Cinderkeep | 422635 | [422635-defenders-of-cinderkeep.json](./422635-defenders-of-cinderkeep.json) |
 | Defenders of Dynatron City | 48066 | [48066-defenders-of-dynatron-city.json](./48066-defenders-of-dynatron-city.json) |
 | Defenders of Ekron | 54489 | [54489-defenders-of-ekron.json](./54489-defenders-of-ekron.json) |
 | Defenders of Ekron: Definitive Edition | 106624 | [106624-defenders-of-ekron-definitive-edition.json](./106624-defenders-of-ekron-definitive-edition.json) |
@@ -16569,6 +16571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Ruth's Computer Game of Good Sex | 69669 | [69669-dr-ruths-computer-game-of-good-sex.json](./69669-dr-ruths-computer-game-of-good-sex.json) |
 | Dr. Sbaitso | 64002 | [64002-dr-sbaitso.json](./64002-dr-sbaitso.json) |
+| Dr. Schiller's Chess | 421510 | [421510-dr-schillers-chess.json](./421510-dr-schillers-chess.json) |
 | Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
 | Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
 | Dr. Seuss Band | 89762 | [89762-dr-seuss-band.json](./89762-dr-seuss-band.json) |
@@ -20706,6 +20709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dump Truck: Skid Loader | 96787 | [96787-dump-truck-skid-loader.json](./96787-dump-truck-skid-loader.json) |
 | Dumpling | 377844 | [377844-dumpling.json](./377844-dumpling.json) |
+| Dumpling Delight | 421505 | [421505-dumpling-delight.json](./421505-dumpling-delight.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
 | Dumpster Date | 262138 | [262138-dumpster-date.json](./262138-dumpster-date.json) |
