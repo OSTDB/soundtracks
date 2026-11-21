@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T10:35:55.768Z",
-  "total_soundtracks": 3885,
+  "generated_at": "2026-11-21T11:16:01.224Z",
+  "total_soundtracks": 3886,
   "games": [
     {
       "igdb_id": 292844,
@@ -45737,6 +45737,20 @@
         {
           "album_name": "Tower of Heaven (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1BhxcmomhUniLCu173Rpn4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 127386,
+      "game_name": "Tower of Shades",
+      "game_url": "https://ostdb.net/games/tower-of-shades",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a784862692526a04af41ecde",
+      "albums": [
+        {
+          "album_name": "Tower of Shades (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/68jKmoQYHrNRcYIJpfsxp7",
           "apple_music_url": "",
           "album_link_url": ""
         }
