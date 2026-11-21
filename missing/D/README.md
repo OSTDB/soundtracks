@@ -4317,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 3 | 1389 | [1389-dead-or-alive-3.json](./1389-dead-or-alive-3.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round | 8211 | [8211-dead-or-alive-5-last-round.json](./8211-dead-or-alive-5-last-round.json) |
+| Dead or Alive 5 Last Round: Core Fighters | 82548 | [82548-dead-or-alive-5-last-round-core-fighters.json](./82548-dead-or-alive-5-last-round-core-fighters.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5 Plus | 11725 | [11725-dead-or-alive-5-plus.json](./11725-dead-or-alive-5-plus.json) |
 | Dead or Alive 5 Ultimate: Core Fighters | 99957 | [99957-dead-or-alive-5-ultimate-core-fighters.json](./99957-dead-or-alive-5-ultimate-core-fighters.json) |
@@ -15065,6 +15066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Infinite Alchemy Merge | 351291 | [351291-doodle-god-infinite-alchemy-merge.json](./351291-doodle-god-infinite-alchemy-merge.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
 | Doodle God: Mighty Trio | 97030 | [97030-doodle-god-mighty-trio.json](./97030-doodle-god-mighty-trio.json) |
+| Doodle God: Ultimate Edition | 82384 | [82384-doodle-god-ultimate-edition.json](./82384-doodle-god-ultimate-edition.json) |
 | Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
 | Doodle Harmony Ghosts | 285627 | [285627-doodle-harmony-ghosts.json](./285627-doodle-harmony-ghosts.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
