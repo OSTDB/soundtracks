@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Killer | 238576 | [238576-heart-of-the-killer.json](./238576-heart-of-the-killer.json) |
 | Heart of the Kingdom: Rebellion | 112824 | [112824-heart-of-the-kingdom-rebellion.json](./112824-heart-of-the-kingdom-rebellion.json) |
+| Heart of the Machine: Kinship | 430392 | [430392-heart-of-the-machine-kinship.json](./430392-heart-of-the-machine-kinship.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods: Collector's Edition | 258876 | [258876-heart-of-the-woods-collectors-edition.json](./258876-heart-of-the-woods-collectors-edition.json) |
 | Heart of Vegas: Casino Slots | 232357 | [232357-heart-of-vegas-casino-slots.json](./232357-heart-of-vegas-casino-slots.json) |
@@ -5618,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
 | Hentai Archer | 389148 | [389148-hentai-archer.json](./389148-hentai-archer.json) |
+| Hentai Arctic Beauty | 430362 | [430362-hentai-arctic-beauty.json](./430362-hentai-arctic-beauty.json) |
 | Hentai Arena \| Battle Royale | 143239 | [143239-hentai-arena-battle-royale.json](./143239-hentai-arena-battle-royale.json) |
 | Hentai Arena Holy Pussy | 284544 | [284544-hentai-arena-holy-pussy.json](./284544-hentai-arena-holy-pussy.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
@@ -9006,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
 | Highschool J | 427266 | [427266-highschool-j.json](./427266-highschool-j.json) |
+| Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
