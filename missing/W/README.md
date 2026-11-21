@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Game Simulator | 326312 | [326312-water-game-simulator.json](./326312-water-game-simulator.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
+| Water Gun Cat | 420130 | [420130-water-gun-cat.json](./420130-water-gun-cat.json) |
 | Water ha Ore no Musume | 195334 | [195334-water-ha-ore-no-musume.json](./195334-water-ha-ore-no-musume.json) |
 | Water Heroes: A Game for Change | 31252 | [31252-water-heroes-a-game-for-change.json](./31252-water-heroes-a-game-for-change.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Mansion Remastered | 181540 | [181540-welcome-to-the-mansion-remastered.json](./181540-welcome-to-the-mansion-remastered.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Pool Hall | 104888 | [104888-welcome-to-the-pool-hall.json](./104888-welcome-to-the-pool-hall.json) |
+| Welcome to the Syndicate | 420742 | [420742-welcome-to-the-syndicate.json](./420742-welcome-to-the-syndicate.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the Universe | 327523 | [327523-welcome-to-the-universe.json](./327523-welcome-to-the-universe.json) |
 | Welcome to the Untitled Game | 111080 | [111080-welcome-to-the-untitled-game.json](./111080-welcome-to-the-untitled-game.json) |
@@ -5661,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
 | Whodunnit: The Midnight Murder Mystery Files | 384985 | [384985-whodunnit-the-midnight-murder-mystery-files.json](./384985-whodunnit-the-midnight-murder-mystery-files.json) |
 | WhoIs | 374005 | [374005-whois.json](./374005-whois.json) |
+| WhoIsHe | 420740 | [420740-whoishe.json](./420740-whoishe.json) |
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
 | Whole Lotta Lies | 255536 | [255536-whole-lotta-lies.json](./255536-whole-lotta-lies.json) |
 | Whole Lotta Red | 184665 | [184665-whole-lotta-red.json](./184665-whole-lotta-red.json) |
@@ -6116,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
 | Wild West Guns | 21805 | [21805-wild-west-guns.json](./21805-wild-west-guns.json) |
 | Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
+| Wild West Gunslinger | 420121 | [420121-wild-west-gunslinger.json](./420121-wild-west-gunslinger.json) |
 | Wild West Legacy | 149118 | [149118-wild-west-legacy.json](./149118-wild-west-legacy.json) |
 | Wild West Math | 133523 | [133523-wild-west-math.json](./133523-wild-west-math.json) |
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
