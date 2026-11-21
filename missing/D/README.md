@@ -933,7 +933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
 | Dance of Theseus | 393986 | [393986-dance-of-theseus.json](./393986-dance-of-theseus.json) |
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
-| Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
 | Dance on the Water | 222676 | [222676-dance-on-the-water.json](./222676-dance-on-the-water.json) |
 | Dance Party | 247250 | [247250-dance-party.json](./247250-dance-party.json) |
@@ -2058,7 +2057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rage | 147019 | [147019-dark-rage.json](./147019-dark-rage.json) |
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raid: Bot Wars | 60164 | [60164-dark-raid-bot-wars.json](./60164-dark-raid-bot-wars.json) |
-| Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
 | Dark Rampage | 294304 | [294304-dark-rampage.json](./294304-dark-rampage.json) |
 | Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
@@ -2486,7 +2484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkless | 264172 | [264172-darkless.json](./264172-darkless.json) |
 | Darklight | 285065 | [285065-darklight.json](./285065-darklight.json) |
 | DarkLight | 418746 | [418746-darklight.json](./418746-darklight.json) |
-| Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | DarkLight: Platformer | 273509 | [273509-darklight-platformer.json](./273509-darklight-platformer.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
@@ -2530,7 +2527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
 | Darkness Inside | 212119 | [212119-darkness-inside.json](./212119-darkness-inside.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
-| Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
 | Darkness Myth | 299625 | [299625-darkness-myth.json](./299625-darkness-myth.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
@@ -4886,7 +4882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
 | Deadshot | 215784 | [215784-deadshot.json](./215784-deadshot.json) |
 | Deadshot | 260059 | [260059-deadshot.json](./260059-deadshot.json) |
-| DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
 | Deadside: "Anatomical Atlas" Skin Set | 296629 | [296629-deadside-anatomical-atlas-skin-set.json](./296629-deadside-anatomical-atlas-skin-set.json) |
 | Deadside: "Ass on Fire Team" Skin Set | 296640 | [296640-deadside-ass-on-fire-team-skin-set.json](./296640-deadside-ass-on-fire-team-skin-set.json) |
@@ -6034,7 +6029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Death Dungeon Darkness | 239702 | [239702-deep-death-dungeon-darkness.json](./239702-deep-death-dungeon-darkness.json) |
 | Deep Deep Deep Nightmare | 273780 | [273780-deep-deep-deep-nightmare.json](./273780-deep-deep-deep-nightmare.json) |
 | Deep Deep Dungeon | 175132 | [175132-deep-deep-dungeon.json](./175132-deep-deep-dungeon.json) |
-| Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 2 | 172885 | [172885-deep-despair-2.json](./172885-deep-despair-2.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
@@ -6393,7 +6387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
 | Deer Hunter 2003: Legendary Hunting | 261 | [261-deer-hunter-2003-legendary-hunting.json](./261-deer-hunter-2003-legendary-hunting.json) |
 | Deer Hunter 2004 | 262 | [262-deer-hunter-2004.json](./262-deer-hunter-2004.json) |
-| Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
 | Deer Hunter 2014 | 62525 | [62525-deer-hunter-2014.json](./62525-deer-hunter-2014.json) |
 | Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
 | Deer Hunter 2017 | 39272 | [39272-deer-hunter-2017.json](./39272-deer-hunter-2017.json) |
@@ -6458,7 +6451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defcom 1 | 13584 | [13584-defcom-1.json](./13584-defcom-1.json) |
 | DEFCON | 2592 | [2592-defcon.json](./2592-defcon.json) |
 | Defcon 1: Alien Invasion | 216151 | [216151-defcon-1-alien-invasion.json](./216151-defcon-1-alien-invasion.json) |
-| Defcon 5 | 2505 | [2505-defcon-5.json](./2505-defcon-5.json) |
 | Defcon 5 | 39776 | [39776-defcon-5.json](./39776-defcon-5.json) |
 | DEFCON VR | 27325 | [27325-defcon-vr.json](./27325-defcon-vr.json) |
 | Defcon Zero: Frontlines of Tomorrow | 378481 | [378481-defcon-zero-frontlines-of-tomorrow.json](./378481-defcon-zero-frontlines-of-tomorrow.json) |
@@ -8878,7 +8870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Derby | 171266 | [171266-destruction-derby.json](./171266-destruction-derby.json) |
 | Destruction Derby 2 | 1170 | [1170-destruction-derby-2.json](./1170-destruction-derby-2.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
-| Destruction Derby: Arenas | 1171 | [1171-destruction-derby-arenas.json](./1171-destruction-derby-arenas.json) |
 | Destruction Dummies | 190861 | [190861-destruction-dummies.json](./190861-destruction-dummies.json) |
 | Destruction Joukan | 386343 | [386343-destruction-joukan.json](./386343-destruction-joukan.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
@@ -8892,7 +8883,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructivator SE | 180984 | [180984-destructivator-se.json](./180984-destructivator-se.json) |
 | Destructive Behavior | 149645 | [149645-destructive-behavior.json](./149645-destructive-behavior.json) |
 | Destructive Contraptions | 156022 | [156022-destructive-contraptions.json](./156022-destructive-contraptions.json) |
-| Destructive physics | 127848 | [127848-destructive-physics.json](./127848-destructive-physics.json) |
 | Destructo | 171483 | [171483-destructo.json](./171483-destructo.json) |
 | Destructo | 54664 | [54664-destructo.json](./54664-destructo.json) |
 | Destructo 2 | 203032 | [203032-destructo-2.json](./203032-destructo-2.json) |
@@ -11943,6 +11933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea D2: A Brighter Darkness | 7299 | [7299-disgaea-d2-a-brighter-darkness.json](./7299-disgaea-d2-a-brighter-darkness.json) |
 | Disgaea DS | 21056 | [21056-disgaea-ds.json](./21056-disgaea-ds.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
+| Disgaea Mayhem | 335576 | [335576-disgaea-mayhem.json](./335576-disgaea-mayhem.json) |
 | Disgaea PC | 34392 | [34392-disgaea-pc.json](./34392-disgaea-pc.json) |
 | Disgaea RPG | 115271 | [115271-disgaea-rpg.json](./115271-disgaea-rpg.json) |
 | Disgaea: Afternoon of Darkness | 22528 | [22528-disgaea-afternoon-of-darkness.json](./22528-disgaea-afternoon-of-darkness.json) |
@@ -12154,6 +12145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 79718 | [79718-disney-princess.json](./79718-disney-princess.json) |
 | Disney Princess Cyber Arcade Pocket | 246557 | [246557-disney-princess-cyber-arcade-pocket.json](./246557-disney-princess-cyber-arcade-pocket.json) |
 | Disney Princess Fashion Boutique | 209891 | [209891-disney-princess-fashion-boutique.json](./209891-disney-princess-fashion-boutique.json) |
+| Disney Princess Jewelry Box Collection | 350331 | [350331-disney-princess-jewelry-box-collection.json](./350331-disney-princess-jewelry-box-collection.json) |
 | Disney Princess Palace Pets | 334251 | [334251-disney-princess-palace-pets.json](./334251-disney-princess-palace-pets.json) |
 | Disney Princess: Belle's Magic Mirror | 245507 | [245507-disney-princess-belles-magic-mirror.json](./245507-disney-princess-belles-magic-mirror.json) |
 | Disney Princess: Cinderella - Once Upon a Midnight | 221676 | [221676-disney-princess-cinderella-once-upon-a-midnight.json](./221676-disney-princess-cinderella-once-upon-a-midnight.json) |
@@ -12749,7 +12741,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divina | 293259 | [293259-divina.json](./293259-divina.json) |
 | Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
-| Divination | 127850 | [127850-divination.json](./127850-divination.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine | 229587 | [229587-divine.json](./229587-divine.json) |
 | Divine Academy | 348713 | [348713-divine-academy.json](./348713-divine-academy.json) |
@@ -16590,6 +16581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac is Back | 285298 | [285298-drac-is-back.json](./285298-drac-is-back.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
+| Dracamar | 348061 | [348061-dracamar.json](./348061-dracamar.json) |
 | Dracanea: The Ragtag Regalia | 422129 | [422129-dracanea-the-ragtag-regalia.json](./422129-dracanea-the-ragtag-regalia.json) |
 | Drachen Zor | 94011 | [94011-drachen-zor.json](./94011-drachen-zor.json) |
 | Draco | 130248 | [130248-draco.json](./130248-draco.json) |
@@ -18443,7 +18435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hike | 420684 | [420684-dream-hike.json](./420684-dream-hike.json) |
 | Dream Hills: Captured Magic | 74670 | [74670-dream-hills-captured-magic.json](./74670-dream-hills-captured-magic.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
-| Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
 | Dream Home Simulator | 326437 | [326437-dream-home-simulator.json](./326437-dream-home-simulator.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
 | Dream Hopper | 304147 | [304147-dream-hopper.json](./304147-dream-hopper.json) |
@@ -18704,7 +18695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamForge | 401210 | [401210-dreamforge.json](./401210-dreamforge.json) |
 | DreamGallery | 131968 | [131968-dreamgallery.json](./131968-dreamgallery.json) |
 | Dreamgame | 229487 | [229487-dreamgame.json](./229487-dreamgame.json) |
-| Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | DreamHack Beyond | 150568 | [150568-dreamhack-beyond.json](./150568-dreamhack-beyond.json) |
 | Dreamhaven | 278020 | [278020-dreamhaven.json](./278020-dreamhaven.json) |
 | DreamHero | 373118 | [373118-dreamhero.json](./373118-dreamhero.json) |
@@ -19194,7 +19184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
 | Drifto | 244103 | [244103-drifto.json](./244103-drifto.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
-| DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwave | 328932 | [328932-driftwave.json](./328932-driftwave.json) |
@@ -19795,7 +19784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Druid and His Circle of Animals | 176157 | [176157-druid-and-his-circle-of-animals.json](./176157-druid-and-his-circle-of-animals.json) |
 | Druid Kingdom HD | 200299 | [200299-druid-kingdom-hd.json](./200299-druid-kingdom-hd.json) |
 | Druid Soccer | 94598 | [94598-druid-soccer.json](./94598-druid-soccer.json) |
-| Druid: Daemons of the Mind | 2506 | [2506-druid-daemons-of-the-mind.json](./2506-druid-daemons-of-the-mind.json) |
 | Druid: Test of faith | 192770 | [192770-druid-test-of-faith.json](./192770-druid-test-of-faith.json) |
 | Druid: Yamie no Tsuisekisha | 268642 | [268642-druid-yamie-no-tsuisekisha.json](./268642-druid-yamie-no-tsuisekisha.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
@@ -21432,6 +21420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Computer Fantasy Game | 305446 | [305446-dungeons-and-dragons-computer-fantasy-game.json](./305446-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Computer Fantasy Game | 41426 | [41426-dungeons-and-dragons-computer-fantasy-game.json](./41426-dungeons-and-dragons-computer-fantasy-game.json) |
 | Dungeons & Dragons Fantasy Empires | 50454 | [50454-dungeons-and-dragons-fantasy-empires.json](./50454-dungeons-and-dragons-fantasy-empires.json) |
+| Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition | 348267 | [348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json](./348267-dungeons-and-dragons-neverwinter-nights-2-enhanced-edition.json) |
 | Dungeons & Dragons Online | 5629 | [5629-dungeons-and-dragons-online.json](./5629-dungeons-and-dragons-online.json) |
 | Dungeons & Dragons Online: Against the Slave Lords | 349770 | [349770-dungeons-and-dragons-online-against-the-slave-lords.json](./349770-dungeons-and-dragons-online-against-the-slave-lords.json) |
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
