@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Ascent | 238770 | [238770-vampire-ascent.json](./238770-vampire-ascent.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Blood Dynasty | 389823 | [389823-vampire-blood-dynasty.json](./389823-vampire-blood-dynasty.json) |
+| Vampire Bloodlines: War Games | 426701 | [426701-vampire-bloodlines-war-games.json](./426701-vampire-bloodlines-war-games.json) |
 | Vampire Bloody Star X | 111349 | [111349-vampire-bloody-star-x.json](./111349-vampire-bloody-star-x.json) |
 | Vampire Boyfriend | 267596 | [267596-vampire-boyfriend.json](./267596-vampire-boyfriend.json) |
 | Vampire Boyfriend Plus | 210521 | [210521-vampire-boyfriend-plus.json](./210521-vampire-boyfriend-plus.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vínculo | 355077 | [355077-vinculo.json](./355077-vinculo.json) |
 | Vinculum | 417644 | [417644-vinculum.json](./417644-vinculum.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
+| Vindari | 426693 | [426693-vindari.json](./426693-vindari.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
 | Vindex | 72471 | [72471-vindex.json](./72471-vindex.json) |
 | Vindicator | 46739 | [46739-vindicator.json](./46739-vindicator.json) |
