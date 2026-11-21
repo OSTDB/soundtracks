@@ -3169,7 +3169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pool 3 | 938 | [938-virtual-pool-3.json](./938-virtual-pool-3.json) |
 | Virtual Pool 4 | 36070 | [36070-virtual-pool-4.json](./36070-virtual-pool-4.json) |
 | Virtual Pool 4 Online | 91991 | [91991-virtual-pool-4-online.json](./91991-virtual-pool-4-online.json) |
-| Virtual Pool 64 | 3624 | [3624-virtual-pool-64.json](./3624-virtual-pool-64.json) |
 | Virtual Pool Hall | 93142 | [93142-virtual-pool-hall.json](./93142-virtual-pool-hall.json) |
 | Virtual Pool: Tournament Edition | 47331 | [47331-virtual-pool-tournament-edition.json](./47331-virtual-pool-tournament-edition.json) |
 | Virtual Pro Wrestling 2: Oudou Keishou | 3625 | [3625-virtual-pro-wrestling-2-oudou-keishou.json](./3625-virtual-pro-wrestling-2-oudou-keishou.json) |
