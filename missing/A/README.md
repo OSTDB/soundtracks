@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Aero Fighters 2 | 99495 | [99495-aca-neo-geo-aero-fighters-2.json](./99495-aca-neo-geo-aero-fighters-2.json) |
 | ACA Neo Geo: Aero Fighters 3 | 106071 | [106071-aca-neo-geo-aero-fighters-3.json](./106071-aca-neo-geo-aero-fighters-3.json) |
 | ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
+| ACA Neo Geo: Alpha Mission II | 68486 | [68486-aca-neo-geo-alpha-mission-ii.json](./68486-aca-neo-geo-alpha-mission-ii.json) |
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
 | ACA Neo Geo: Art of Fighting 2 | 99489 | [99489-aca-neo-geo-art-of-fighting-2.json](./99489-aca-neo-geo-art-of-fighting-2.json) |
 | ACA Neo Geo: Art of Fighting 3 | 118916 | [118916-aca-neo-geo-art-of-fighting-3.json](./118916-aca-neo-geo-art-of-fighting-3.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airman X | 233180 | [233180-airman-x.json](./233180-airman-x.json) |
 | Airmash | 82558 | [82558-airmash.json](./82558-airmash.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
+| AirMech: Wastelands | 54816 | [54816-airmech-wastelands.json](./54816-airmech-wastelands.json) |
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Airoheart | 142513 | [142513-airoheart.json](./142513-airoheart.json) |
 | Airon Ball | 37433 | [37433-airon-ball.json](./37433-airon-ball.json) |
@@ -9748,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
+| Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
 | Amaze Frozen | 95276 | [95276-amaze-frozen.json](./95276-amaze-frozen.json) |
@@ -11184,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda SS | 249705 | [249705-andromeda-ss.json](./249705-andromeda-ss.json) |
 | Andromeda Survivors | 219677 | [219677-andromeda-survivors.json](./219677-andromeda-survivors.json) |
 | Andromeda Survivors | 319324 | [319324-andromeda-survivors.json](./319324-andromeda-survivors.json) |
+| Andromeda Wing | 55288 | [55288-andromeda-wing.json](./55288-andromeda-wing.json) |
 | Andromeda Zombies Colonies | 233221 | [233221-andromeda-zombies-colonies.json](./233221-andromeda-zombies-colonies.json) |
 | Andromeda: Rebirth of Humanity | 148973 | [148973-andromeda-rebirth-of-humanity.json](./148973-andromeda-rebirth-of-humanity.json) |
 | Andromeda: There is No God Up Here | 22001 | [22001-andromeda-there-is-no-god-up-here.json](./22001-andromeda-there-is-no-god-up-here.json) |
@@ -13766,6 +13770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Fanbox Happiness Cage | 204565 | [204565-apocripha-0-fanbox-happiness-cage.json](./204565-apocripha-0-fanbox-happiness-cage.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
+| Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
 | Apocryph: an old-school shooter | 117926 | [117926-apocryph-an-old-school-shooter.json](./117926-apocryph-an-old-school-shooter.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
 | Apocryphauna | 271969 | [271969-apocryphauna.json](./271969-apocryphauna.json) |
