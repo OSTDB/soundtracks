@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
+| Jack 'n' Hat | 149790 | [149790-jack-n-hat.json](./149790-jack-n-hat.json) |
 | Jack & Beans | 176040 | [176040-jack-and-beans.json](./176040-jack-and-beans.json) |
 | Jack & Bob Remastered | 316308 | [316308-jack-and-bob-remastered.json](./316308-jack-and-bob-remastered.json) |
 | Jack & Detective | 197468 | [197468-jack-and-detective.json](./197468-jack-and-detective.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
 | Jennifer Wilde | 69390 | [69390-jennifer-wilde.json](./69390-jennifer-wilde.json) |
+| Jennifer Wilde: Unlikely Revolutionaries | 151177 | [151177-jennifer-wilde-unlikely-revolutionaries.json](./151177-jennifer-wilde-unlikely-revolutionaries.json) |
 | Jennifer's Fragments | 270056 | [270056-jennifers-fragments.json](./270056-jennifers-fragments.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jennifer's Nonsensical Christmas Adventure | 399253 | [399253-jennifers-nonsensical-christmas-adventure.json](./399253-jennifers-nonsensical-christmas-adventure.json) |
