@@ -3176,6 +3176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unscramble | 88656 | [88656-unscramble.json](./88656-unscramble.json) |
 | Unscramble Heroes | 218108 | [218108-unscramble-heroes.json](./218108-unscramble-heroes.json) |
 | Unscramble Words | 88730 | [88730-unscramble-words.json](./88730-unscramble-words.json) |
+| Unscrewed | 427353 | [427353-unscrewed.json](./427353-unscrewed.json) |
 | Unscripted | 150764 | [150764-unscripted.json](./150764-unscripted.json) |
 | Unscripted | 223383 | [223383-unscripted.json](./223383-unscripted.json) |
 | Unscripted Fate | 295210 | [295210-unscripted-fate.json](./295210-unscripted-fate.json) |
