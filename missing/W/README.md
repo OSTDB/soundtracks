@@ -5329,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White Ash Nightfall | 369451 | [369451-white-ash-nightfall.json](./369451-white-ash-nightfall.json) |
 | White Blade | 252229 | [252229-white-blade.json](./252229-white-blade.json) |
+| White Box Quiz | 426159 | [426159-white-box-quiz.json](./426159-white-box-quiz.json) |
 | White Breath: Kizuna | 411523 | [411523-white-breath-kizuna.json](./411523-white-breath-kizuna.json) |
 | White Breath: Perfect Edition | 125290 | [125290-white-breath-perfect-edition.json](./125290-white-breath-perfect-edition.json) |
 | White Camellia | 398510 | [398510-white-camellia.json](./398510-white-camellia.json) |
@@ -9746,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
 | World Puzzle | 157290 | [157290-world-puzzle.json](./157290-world-puzzle.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
+| World Quest 2: Europe Trip | 426151 | [426151-world-quest-2-europe-trip.json](./426151-world-quest-2-europe-trip.json) |
 | World Quest: Hidden Cities | 337856 | [337856-world-quest-hidden-cities.json](./337856-world-quest-hidden-cities.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing | 205843 | [205843-world-racing.json](./205843-world-racing.json) |
