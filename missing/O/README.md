@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
 | Omnitopia | 182048 | [182048-omnitopia.json](./182048-omnitopia.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
+| Omnivores Rule | 421520 | [421520-omnivores-rule.json](./421520-omnivores-rule.json) |
 | Omniwar | 109168 | [109168-omniwar.json](./109168-omniwar.json) |
 | Omnn | 338304 | [338304-omnn.json](./338304-omnn.json) |
 | Omochabako no Kuni no Alice: Wonderful Wonder World | 218782 | [218782-omochabako-no-kuni-no-alice-wonderful-wonder-world.json](./218782-omochabako-no-kuni-no-alice-wonderful-wonder-world.json) |
