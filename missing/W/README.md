@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
 | Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
+| Warhammer: The End Times - Vermintide: Digital Value Pack | 82405 | [82405-warhammer-the-end-times-vermintide-digital-value-pack.json](./82405-warhammer-the-end-times-vermintide-digital-value-pack.json) |
 | Warhammer: The Horus Heresy - Legions | 96402 | [96402-warhammer-the-horus-heresy-legions.json](./96402-warhammer-the-horus-heresy-legions.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Back to Ubersreik | 112087 | [112087-warhammer-vermintide-2-back-to-ubersreik.json](./112087-warhammer-vermintide-2-back-to-ubersreik.json) |
