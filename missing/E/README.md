@@ -1609,7 +1609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ef: The First Tale. | 122811 | [122811-ef-the-first-tale.json](./122811-ef-the-first-tale.json) |
 | Ef: The Latter Tale. | 123720 | [123720-ef-the-latter-tale.json](./123720-ef-the-latter-tale.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
-| EF2000 v2.0 | 677 | [677-ef2000-v2-0.json](./677-ef2000-v2-0.json) |
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
 | Efera & Jiliora: The Emblem From Darkness | 108923 | [108923-efera-and-jiliora-the-emblem-from-darkness.json](./108923-efera-and-jiliora-the-emblem-from-darkness.json) |
 | Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
@@ -2419,7 +2418,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EleBall | 302944 | [302944-eleball.json](./302944-eleball.json) |
 | Elebeater VR | 250242 | [250242-elebeater-vr.json](./250242-elebeater-vr.json) |
 | Elebits | 2747 | [2747-elebits.json](./2747-elebits.json) |
-| Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
 | Elec | 163793 | [163793-elec.json](./163793-elec.json) |
 | Elec Dude | 192493 | [192493-elec-dude.json](./192493-elec-dude.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
@@ -3437,7 +3435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embergarde | 14737 | [14737-embergarde.json](./14737-embergarde.json) |
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberglass | 154983 | [154983-emberglass.json](./154983-emberglass.json) |
-| Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Emberhold | 380317 | [380317-emberhold.json](./380317-emberhold.json) |
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
@@ -3754,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoticons | 209204 | [209204-emoticons.json](./209204-emoticons.json) |
 | Emotion | 169766 | [169766-emotion.json](./169766-emotion.json) |
 | Emotional flow | 278958 | [278958-emotional-flow.json](./278958-emotional-flow.json) |
+| Emotionless: The Last Ticket | 345425 | [345425-emotionless-the-last-ticket.json](./345425-emotionless-the-last-ticket.json) |
 | Emotions | 114856 | [114856-emotions.json](./114856-emotions.json) |
 | Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emotions: Social MeDie | 391300 | [391300-emotions-social-medie.json](./391300-emotions-social-medie.json) |
@@ -4396,7 +4394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
 | Endless Jade Sea: Midori no Umi | 107826 | [107826-endless-jade-sea-midori-no-umi.json](./107826-endless-jade-sea-midori-no-umi.json) |
 | Endless Jump: Infinity Loop | 232331 | [232331-endless-jump-infinity-loop.json](./232331-endless-jump-infinity-loop.json) |
-| Endless Knight | 126901 | [126901-endless-knight.json](./126901-endless-knight.json) |
 | Endless Labyrinth | 32264 | [32264-endless-labyrinth.json](./32264-endless-labyrinth.json) |
 | Endless League | 111129 | [111129-endless-league.json](./111129-endless-league.json) |
 | Endless Legend | 9278 | [9278-endless-legend.json](./9278-endless-legend.json) |
@@ -5879,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape 51 | 339766 | [339766-escape-51.json](./339766-escape-51.json) |
 | Escape 9 to 5 | 379291 | [379291-escape-9-to-5.json](./379291-escape-9-to-5.json) |
 | Escape Abstraction | 203980 | [203980-escape-abstraction.json](./203980-escape-abstraction.json) |
+| Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
 | Escape Academy: Escape From the Past | 252683 | [252683-escape-academy-escape-from-the-past.json](./252683-escape-academy-escape-from-the-past.json) |
@@ -6990,7 +6988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
 | Eternal Dragons | 234821 | [234821-eternal-dragons.json](./234821-eternal-dragons.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
-| Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dread 3 | 236111 | [236111-eternal-dread-3.json](./236111-eternal-dread-3.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dreamers Rising | 236554 | [236554-eternal-dreamers-rising.json](./236554-eternal-dreamers-rising.json) |
@@ -8012,7 +8009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: The Darkened Sea - Collector's Edition | 167199 | [167199-everquest-the-darkened-sea-collectors-edition.json](./167199-everquest-the-darkened-sea-collectors-edition.json) |
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
-| EverQuest: The Ruins of Kunark | 686 | [686-everquest-the-ruins-of-kunark.json](./686-everquest-the-ruins-of-kunark.json) |
 | EverQuest: The Scars of Velious | 69729 | [69729-everquest-the-scars-of-velious.json](./69729-everquest-the-scars-of-velious.json) |
 | EverQuest: The Serpent's Spine | 72908 | [72908-everquest-the-serpents-spine.json](./72908-everquest-the-serpents-spine.json) |
 | EverQuest: The Shadows of Luclin | 72544 | [72544-everquest-the-shadows-of-luclin.json](./72544-everquest-the-shadows-of-luclin.json) |
@@ -8147,7 +8143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Spelunker | 62301 | [62301-everyday-spelunker.json](./62301-everyday-spelunker.json) |
 | Everyday Today's Menu for Emiya Family | 146416 | [146416-everyday-todays-menu-for-emiya-family.json](./146416-everyday-todays-menu-for-emiya-family.json) |
 | Everyday Today's Menu for Emiya Family: Lancer Scenario Pack | 238000 | [238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json](./238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json) |
-| Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Fights | 339776 | [339776-everyone-fights.json](./339776-everyone-fights.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Moves With You | 205867 | [205867-everyone-moves-with-you.json](./205867-everyone-moves-with-you.json) |
