@@ -1388,7 +1388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakufuu Slash! Kizuna Arashi | 269358 | [269358-bakufuu-slash-kizuna-arashi.json](./269358-bakufuu-slash-kizuna-arashi.json) |
 | Bakugan Battle Brawlers | 328395 | [328395-bakugan-battle-brawlers.json](./328395-bakugan-battle-brawlers.json) |
 | Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
-| Bakugan Battle Brawlers: Battle Trainer | 122863 | [122863-bakugan-battle-brawlers-battle-trainer.json](./122863-bakugan-battle-brawlers-battle-trainer.json) |
 | Bakugan Dimensions | 128896 | [128896-bakugan-dimensions.json](./128896-bakugan-dimensions.json) |
 | Bakugan: Champions of Vestroia | 135828 | [135828-bakugan-champions-of-vestroia.json](./135828-bakugan-champions-of-vestroia.json) |
 | Bakugan: Champions of Vestroia - Deluxe Edition | 140894 | [140894-bakugan-champions-of-vestroia-deluxe-edition.json](./140894-bakugan-champions-of-vestroia-deluxe-edition.json) |
@@ -6260,7 +6259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat! After the Summer | 202433 | [202433-beat-after-the-summer.json](./202433-beat-after-the-summer.json) |
 | Beat!: After the Summer - Another Season Episode | 241326 | [241326-beat-after-the-summer-another-season-episode.json](./241326-beat-after-the-summer-another-season-episode.json) |
 | Beat.R. | 72484 | [72484-beat-r.json](./72484-beat-r.json) |
-| Beat.School: DJ Simulator | 125049 | [125049-beat-school-dj-simulator.json](./125049-beat-school-dj-simulator.json) |
 | Beat'n Groovy | 84325 | [84325-beatn-groovy.json](./84325-beatn-groovy.json) |
 | Beatable | 342096 | [342096-beatable.json](./342096-beatable.json) |
 | BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
@@ -7224,7 +7222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Kryll | 35365 | [35365-below-kryll.json](./35365-below-kryll.json) |
 | Below Level | 304387 | [304387-below-level.json](./304387-below-level.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
-| Below Sunshade | 123844 | [123844-below-sunshade.json](./123844-below-sunshade.json) |
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
 | Below the Ashes | 424302 | [424302-below-the-ashes.json](./424302-below-the-ashes.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
@@ -7797,7 +7794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Park in the Universe | 61141 | [61141-best-park-in-the-universe.json](./61141-best-park-in-the-universe.json) |
 | Best Pearl | 240046 | [240046-best-pearl.json](./240046-best-pearl.json) |
 | Best Play Baseball | 242686 | [242686-best-play-baseball.json](./242686-best-play-baseball.json) |
-| Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
 | Best Sellers Complete Bundle | 331568 | [331568-best-sellers-complete-bundle.json](./331568-best-sellers-complete-bundle.json) |
@@ -16934,7 +16930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass | 68443 | [68443-brass.json](./68443-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
 | Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
-| Brass Brigade | 123968 | [123968-brass-brigade.json](./123968-brass-brigade.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass Rain | 373836 | [373836-brass-rain.json](./373836-brass-rain.json) |
