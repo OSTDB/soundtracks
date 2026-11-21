@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicki Minaj: The Empire | 266546 | [266546-nicki-minaj-the-empire.json](./266546-nicki-minaj-the-empire.json) |
 | NickProject | 88142 | [88142-nickproject.json](./88142-nickproject.json) |
 | Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
+| Nicktoons & The Dice of Destiny | 347647 | [347647-nicktoons-and-the-dice-of-destiny.json](./347647-nicktoons-and-the-dice-of-destiny.json) |
 | Nicktoons & The Dice of Destiny: Deluxe Edition | 365553 | [365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json](./365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json) |
 | Nicktoons & The Dice of Destiny: Wardrobe of Wonder Pack | 365583 | [365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json](./365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
