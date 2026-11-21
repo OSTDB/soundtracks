@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
 | Pac-Man World 2 Re-Pac: Deluxe Edition | 358662 | [358662-pac-man-world-2-re-pac-deluxe-edition.json](./358662-pac-man-world-2-re-pac-deluxe-edition.json) |
 | Pac-Man World 3 | 243196 | [243196-pac-man-world-3.json](./243196-pac-man-world-3.json) |
+| Pac-Man World 3 | 243197 | [243197-pac-man-world-3.json](./243197-pac-man-world-3.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man World Rally | 248531 | [248531-pac-man-world-rally.json](./248531-pac-man-world-rally.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
@@ -13171,6 +13172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
 | Pokémon Scarlet + The Hidden Treasure of Area Zero | 240083 | [240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
+| Pokémon Scarlet: The Hidden Treasure of Area Zero | 239935 | [239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Scorched Silver | 317474 | [317474-pokemon-scorched-silver.json](./317474-pokemon-scorched-silver.json) |
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
@@ -16319,6 +16321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Peculiar Lovers | 366746 | [366746-pretty-peculiar-lovers.json](./366746-pretty-peculiar-lovers.json) |
 | Pretty Pet Salon | 267626 | [267626-pretty-pet-salon.json](./267626-pretty-pet-salon.json) |
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
+| Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
 | Pretty Princess' Castle Escape | 305733 | [305733-pretty-princess-castle-escape.json](./305733-pretty-princess-castle-escape.json) |
 | Pretty Rhythm: Mini Skirt | 177590 | [177590-pretty-rhythm-mini-skirt.json](./177590-pretty-rhythm-mini-skirt.json) |
 | Pretty Rhythm: My Deco Rainbow Wedding | 141150 | [141150-pretty-rhythm-my-deco-rainbow-wedding.json](./141150-pretty-rhythm-my-deco-rainbow-wedding.json) |
@@ -16641,6 +16644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Redemption | 142514 | [142514-prince-of-persia-redemption.json](./142514-prince-of-persia-redemption.json) |
 | Prince of Persia: Revelations | 22565 | [22565-prince-of-persia-revelations.json](./22565-prince-of-persia-revelations.json) |
 | Prince of Persia: Rival Swords | 22020 | [22020-prince-of-persia-rival-swords.json](./22020-prince-of-persia-rival-swords.json) |
+| Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Dagger of Time | 154143 | [154143-prince-of-persia-the-dagger-of-time.json](./154143-prince-of-persia-the-dagger-of-time.json) |
 | Prince of Persia: The Fallen King | 21267 | [21267-prince-of-persia-the-fallen-king.json](./21267-prince-of-persia-the-fallen-king.json) |
