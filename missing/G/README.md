@@ -6726,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Island | 421253 | [421253-goblin-island.json](./421253-goblin-island.json) |
 | Goblin Jargon | 393846 | [393846-goblin-jargon.json](./393846-goblin-jargon.json) |
 | Goblin Journal | 347742 | [347742-goblin-journal.json](./347742-goblin-journal.json) |
+| Goblin Kaboom | 428497 | [428497-goblin-kaboom.json](./428497-goblin-kaboom.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
 | Goblin Keeper | 23558 | [23558-goblin-keeper.json](./23558-goblin-keeper.json) |
