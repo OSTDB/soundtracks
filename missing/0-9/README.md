@@ -326,7 +326,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0818 Petrichor Lane | 421061 | [421061-0818-petrichor-lane.json](./421061-0818-petrichor-lane.json) |
 | 0927 | 316429 | [316429-0927.json](./316429-0927.json) |
-| 0D Beat Drop | 6173 | [6173-0d-beat-drop.json](./6173-0d-beat-drop.json) |
 | 0Gravity | 120001 | [120001-0gravity.json](./120001-0gravity.json) |
 | 0h h1 | 135741 | [135741-0h-h1.json](./135741-0h-h1.json) |
 | 0h N0 | 229251 | [229251-0h-n0.json](./229251-0h-n0.json) |
