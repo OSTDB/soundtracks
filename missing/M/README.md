@@ -6411,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math & Topology | 253081 | [253081-math-and-topology.json](./253081-math-and-topology.json) |
 | Math Ace Jr. | 209548 | [209548-math-ace-jr.json](./209548-math-ace-jr.json) |
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
+| Math and Guns | 420136 | [420136-math-and-guns.json](./420136-math-and-guns.json) |
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math and Sorcery | 106946 | [106946-math-and-sorcery.json](./106946-math-and-sorcery.json) |
 | Math Antics with Disney's 101 Dalmatians | 91476 | [91476-math-antics-with-disneys-101-dalmatians.json](./91476-math-antics-with-disneys-101-dalmatians.json) |
@@ -21115,6 +21116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoW: Face Off XL | 34075 | [34075-mow-face-off-xl.json](./34075-mow-face-off-xl.json) |
 | Mowed | 285942 | [285942-mowed.json](./285942-mowed.json) |
 | Mowed Down | 425172 | [425172-mowed-down.json](./425172-mowed-down.json) |
+| Mowigun's World | 420140 | [420140-mowiguns-world.json](./420140-mowiguns-world.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mowing Mazes | 299615 | [299615-mowing-mazes.json](./299615-mowing-mazes.json) |
 | Mowit: Grass Cutting Simulator | 373044 | [373044-mowit-grass-cutting-simulator.json](./373044-mowit-grass-cutting-simulator.json) |
