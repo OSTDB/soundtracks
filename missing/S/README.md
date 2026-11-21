@@ -4051,7 +4051,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
 | Scrabble | 71376 | [71376-scrabble.json](./71376-scrabble.json) |
-| Scrabble 2009 Edition | 122737 | [122737-scrabble-2009-edition.json](./122737-scrabble-2009-edition.json) |
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble Classic | 85363 | [85363-scrabble-classic.json](./85363-scrabble-classic.json) |
@@ -5683,7 +5682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek and Find Collection 2 | 146582 | [146582-seek-and-find-collection-2.json](./146582-seek-and-find-collection-2.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
-| Seek Girl II | 123821 | [123821-seek-girl-ii.json](./123821-seek-girl-ii.json) |
 | Seek Girl III | 127147 | [127147-seek-girl-iii.json](./127147-seek-girl-iii.json) |
 | Seek Girl V | 171393 | [171393-seek-girl-v.json](./171393-seek-girl-v.json) |
 | Seek Girl Ⅵ | 171394 | [171394-seek-girl-vi.json](./171394-seek-girl-vi.json) |
@@ -7714,7 +7712,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Archer | 84856 | [84856-shadow-archer.json](./84856-shadow-archer.json) |
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
-| Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Assault: Tenchu | 79709 | [79709-shadow-assault-tenchu.json](./79709-shadow-assault-tenchu.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
 | Shadow at school | 359854 | [359854-shadow-at-school.json](./359854-shadow-at-school.json) |
@@ -10073,7 +10070,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinseiki GPX Cyber Formula Sin Vier | 112530 | [112530-shinseiki-gpx-cyber-formula-sin-vier.json](./112530-shinseiki-gpx-cyber-formula-sin-vier.json) |
 | Shinseiki GPX Cyber Formula Vs. | 58055 | [58055-shinseiki-gpx-cyber-formula-vs.json](./58055-shinseiki-gpx-cyber-formula-vs.json) |
-| Shinseiki GPX Cyber Formula: Road to the Evolution | 124277 | [124277-shinseiki-gpx-cyber-formula-road-to-the-evolution.json](./124277-shinseiki-gpx-cyber-formula-road-to-the-evolution.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity | 86134 | [86134-shinseiki-gpx-cyber-formula-road-to-the-infinity.json](./86134-shinseiki-gpx-cyber-formula-road-to-the-infinity.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 3 | 58060 | [58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json](./58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json) |
@@ -10328,7 +10324,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiseido Beauty Solution Kaihatsu Center Kanshuu: Project Beauty | 220601 | [220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json](./220601-shiseido-beauty-solution-kaihatsu-center-kanshuu-project-beauty.json) |
 | Shisen-Sho Nikakudori | 147657 | [147657-shisen-sho-nikakudori.json](./147657-shisen-sho-nikakudori.json) |
 | Shisen-shou: Match-Mania | 154802 | [154802-shisen-shou-match-mania.json](./154802-shisen-shou-match-mania.json) |
-| Shisensho Solitaire | 123839 | [123839-shisensho-solitaire.json](./123839-shisensho-solitaire.json) |
 | Shisha no Yobu Yakata | 166560 | [166560-shisha-no-yobu-yakata.json](./166560-shisha-no-yobu-yakata.json) |
 | Shisha: The Lost Souls | 205903 | [205903-shisha-the-lost-souls.json](./205903-shisha-the-lost-souls.json) |
 | Shishi: Ballad of the Oracle | 120093 | [120093-shishi-ballad-of-the-oracle.json](./120093-shishi-ballad-of-the-oracle.json) |
@@ -19729,7 +19724,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in the Shadow | 163663 | [163663-somewhere-in-the-shadow.json](./163663-somewhere-in-the-shadow.json) |
 | Somewhere in Time | 273723 | [273723-somewhere-in-time.json](./273723-somewhere-in-time.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
-| Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
 | Somewhere on Zibylon | 36526 | [36526-somewhere-on-zibylon.json](./36526-somewhere-on-zibylon.json) |
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
@@ -31164,7 +31158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Mechanic | 427306 | [427306-sticky-mechanic.json](./427306-sticky-mechanic.json) |
 | Sticky Monsters | 147082 | [147082-sticky-monsters.json](./147082-sticky-monsters.json) |
 | Sticky Ninja Academy | 286647 | [286647-sticky-ninja-academy.json](./286647-sticky-ninja-academy.json) |
-| Sticky Paws | 123812 | [123812-sticky-paws.json](./123812-sticky-paws.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Situations | 273404 | [273404-sticky-situations.json](./273404-sticky-situations.json) |
 | Sticky Slimes | 183224 | [183224-sticky-slimes.json](./183224-sticky-slimes.json) |
@@ -35502,7 +35495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Box Box | 360291 | [360291-super-box-box.json](./360291-super-box-box.json) |
 | Super Box Delivery: Beyond the Horizon | 252698 | [252698-super-box-delivery-beyond-the-horizon.json](./252698-super-box-delivery-beyond-the-horizon.json) |
-| Super Box Land Demake | 123901 | [123901-super-box-land-demake.json](./123901-super-box-land-demake.json) |
 | Super Boxing Championship! | 170256 | [170256-super-boxing-championship.json](./170256-super-boxing-championship.json) |
 | Super BoxMan Ultra | 75270 | [75270-super-boxman-ultra.json](./75270-super-boxman-ultra.json) |
 | Super Boy Adventurous | 243716 | [243716-super-boy-adventurous.json](./243716-super-boy-adventurous.json) |
@@ -40386,7 +40378,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmslam | 410678 | [410678-swarmslam.json](./410678-swarmslam.json) |
 | SwarmsurgE | 258411 | [258411-swarmsurge.json](./258411-swarmsurge.json) |
 | Swarmvore | 428931 | [428931-swarmvore.json](./428931-swarmvore.json) |
-| SwarmZ | 124226 | [124226-swarmz.json](./124226-swarmz.json) |
 | Swarog | 92950 | [92950-swarog.json](./92950-swarog.json) |
 | Swashbuckler | 23233 | [23233-swashbuckler.json](./23233-swashbuckler.json) |
 | Swashbuckler's Xmas | 286318 | [286318-swashbucklers-xmas.json](./286318-swashbucklers-xmas.json) |
@@ -41826,7 +41817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthesia | 50109 | [50109-synthesia.json](./50109-synthesia.json) |
 | Synthesis | 281311 | [281311-synthesis.json](./281311-synthesis.json) |
 | Synthesis of Corruption | 346556 | [346556-synthesis-of-corruption.json](./346556-synthesis-of-corruption.json) |
-| Synthesis Universe: Episode 00 | 123979 | [123979-synthesis-universe-episode-00.json](./123979-synthesis-universe-episode-00.json) |
 | Synthesis: Mind, Body and Soul | 129632 | [129632-synthesis-mind-body-and-soul.json](./129632-synthesis-mind-body-and-soul.json) |
 | Synthetic | 302048 | [302048-synthetic.json](./302048-synthetic.json) |
 | Synthetic Blood: Mind Shift | 129678 | [129678-synthetic-blood-mind-shift.json](./129678-synthetic-blood-mind-shift.json) |
