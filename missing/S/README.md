@@ -4754,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Premium Edition | 291674 | [291674-sea-of-thieves-2024-premium-edition.json](./291674-sea-of-thieves-2024-premium-edition.json) |
 | Sea of Thieves: 2025 Deluxe Edition | 336884 | [336884-sea-of-thieves-2025-deluxe-edition.json](./336884-sea-of-thieves-2025-deluxe-edition.json) |
 | Sea of Thieves: 2025 Premium Edition | 336883 | [336883-sea-of-thieves-2025-premium-edition.json](./336883-sea-of-thieves-2025-premium-edition.json) |
+| Sea of Thieves: A Pirate's Life | 152294 | [152294-sea-of-thieves-a-pirates-life.json](./152294-sea-of-thieves-a-pirates-life.json) |
 | Sea of Thieves: Anniversary Edition | 118514 | [118514-sea-of-thieves-anniversary-edition.json](./118514-sea-of-thieves-anniversary-edition.json) |
 | Sea of Thieves: Cursed Sails | 103284 | [103284-sea-of-thieves-cursed-sails.json](./103284-sea-of-thieves-cursed-sails.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Collection | 136925 | [136925-shadowrun-collection.json](./136925-shadowrun-collection.json) |
 | Shadowrun Complete Collection | 53603 | [53603-shadowrun-complete-collection.json](./53603-shadowrun-complete-collection.json) |
 | Shadowrun Returns: Deluxe Edition | 216372 | [216372-shadowrun-returns-deluxe-edition.json](./216372-shadowrun-returns-deluxe-edition.json) |
+| Shadowrun Trilogy | 154181 | [154181-shadowrun-trilogy.json](./154181-shadowrun-trilogy.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadowrun: Hong Kong - Extended Edition Deluxe | 216373 | [216373-shadowrun-hong-kong-extended-edition-deluxe.json](./216373-shadowrun-hong-kong-extended-edition-deluxe.json) |
@@ -9833,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinchou Kouki | 42312 | [42312-shinchou-kouki.json](./42312-shinchou-kouki.json) |
 | Shinda Classmate kara Koibumi ga Todoita. | 285872 | [285872-shinda-classmate-kara-koibumi-ga-todoita.json](./285872-shinda-classmate-kara-koibumi-ga-todoita.json) |
 | Shinde Shinde Tsuyoku nare!...? | 316657 | [316657-shinde-shinde-tsuyoku-nare.json](./316657-shinde-shinde-tsuyoku-nare.json) |
+| Shindig | 149250 | [149250-shindig.json](./149250-shindig.json) |
 | Shine | 69775 | [69775-shine.json](./69775-shine.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
@@ -14889,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skydome | 112175 | [112175-skydome.json](./112175-skydome.json) |
 | SkyDribble | 253429 | [253429-skydribble.json](./253429-skydribble.json) |
 | SkyDrift | 9424 | [9424-skydrift.json](./9424-skydrift.json) |
+| Skydrift Infinity | 154770 | [154770-skydrift-infinity.json](./154770-skydrift-infinity.json) |
 | SkyDrop | 384672 | [384672-skydrop.json](./384672-skydrop.json) |
 | SkyDungeon Shinobigaeshi Peak | 401709 | [401709-skydungeon-shinobigaeshi-peak.json](./401709-skydungeon-shinobigaeshi-peak.json) |
 | Skye | 130902 | [130902-skye.json](./130902-skye.json) |
@@ -16700,6 +16704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Cup | 292337 | [292337-smash-cup.json](./292337-smash-cup.json) |
 | Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Derby | 36776 | [36776-smash-derby.json](./36776-smash-derby.json) |
+| Smash Drums | 152212 | [152212-smash-drums.json](./152212-smash-drums.json) |
 | Smash Drums: Le Frickin’ Rock Show! | 306923 | [306923-smash-drums-le-frickin-rock-show.json](./306923-smash-drums-le-frickin-rock-show.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Dude | 93875 | [93875-smash-dude.json](./93875-smash-dude.json) |
@@ -21884,6 +21889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulTrap | 62373 | [62373-soultrap.json](./62373-soultrap.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | SoulUp | 377515 | [377515-soulup.json](./377515-soulup.json) |
+| Soulvars | 150176 | [150176-soulvars.json](./150176-soulvars.json) |
 | Soulvars Fatal Error | 206420 | [206420-soulvars-fatal-error.json](./206420-soulvars-fatal-error.json) |
 | Soulvester vs. Lil' Beezey | 245730 | [245730-soulvester-vs-lil-beezey.json](./245730-soulvester-vs-lil-beezey.json) |
 | Soulveyor | 216724 | [216724-soulveyor.json](./216724-soulveyor.json) |
@@ -22386,6 +22392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cats In Space! | 54603 | [54603-space-cats-in-space.json](./54603-space-cats-in-space.json) |
 | Space Cats Saga: Chapter I | 196023 | [196023-space-cats-saga-chapter-i.json](./196023-space-cats-saga-chapter-i.json) |
 | Space Cats Saga: Chapter II | 196024 | [196024-space-cats-saga-chapter-ii.json](./196024-space-cats-saga-chapter-ii.json) |
+| Space Cats Tactics | 151688 | [151688-space-cats-tactics.json](./151688-space-cats-tactics.json) |
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
 | Space Centurion Gundam | 218229 | [218229-space-centurion-gundam.json](./218229-space-centurion-gundam.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
@@ -27909,6 +27916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Honor | 228388 | [228388-star-honor.json](./228388-star-honor.json) |
 | Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
+| Star Hunter DX | 153512 | [153512-star-hunter-dx.json](./153512-star-hunter-dx.json) |
 | Star Hunter DX & Space Moth: Lunar Edition | 158936 | [158936-star-hunter-dx-and-space-moth-lunar-edition.json](./158936-star-hunter-dx-and-space-moth-lunar-edition.json) |
 | Star Hunter VR | 29251 | [29251-star-hunter-vr.json](./29251-star-hunter-vr.json) |
 | Star Iliad | 329676 | [329676-star-iliad.json](./329676-star-iliad.json) |
@@ -35834,6 +35842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Bros: Broettes | 172385 | [172385-super-dungeon-bros-broettes.json](./172385-super-dungeon-bros-broettes.json) |
 | Super Dungeon Designer | 139520 | [139520-super-dungeon-designer.json](./139520-super-dungeon-designer.json) |
 | Super Dungeon Explore | 58550 | [58550-super-dungeon-explore.json](./58550-super-dungeon-explore.json) |
+| Super Dungeon Maker | 152091 | [152091-super-dungeon-maker.json](./152091-super-dungeon-maker.json) |
 | Super Dungeon Maker: DIY Edition | 300884 | [300884-super-dungeon-maker-diy-edition.json](./300884-super-dungeon-maker-diy-edition.json) |
 | Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
 | Super Dungeon Maker: Pets Pack | 300916 | [300916-super-dungeon-maker-pets-pack.json](./300916-super-dungeon-maker-pets-pack.json) |
@@ -37507,6 +37516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Okuman Chouja Game | 37858 | [37858-super-okuman-chouja-game.json](./37858-super-okuman-chouja-game.json) |
 | Super One More Jump | 347378 | [347378-super-one-more-jump.json](./347378-super-one-more-jump.json) |
 | Super One More Jump | 83730 | [83730-super-one-more-jump.json](./83730-super-one-more-jump.json) |
+| Super Onion Boy 2 | 154002 | [154002-super-onion-boy-2.json](./154002-super-onion-boy-2.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
 | Super Oozumou Netsusen Dai-Ichiban | 37857 | [37857-super-oozumou-netsusen-dai-ichiban.json](./37857-super-oozumou-netsusen-dai-ichiban.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
@@ -37846,6 +37856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Taisen: Scramble Commander the 2nd | 76970 | [76970-super-robot-taisen-scramble-commander-the-2nd.json](./76970-super-robot-taisen-scramble-commander-the-2nd.json) |
 | Super Robot War X | 342999 | [342999-super-robot-war-x.json](./342999-super-robot-war-x.json) |
+| Super Robot Wars 30 | 152371 | [152371-super-robot-wars-30.json](./152371-super-robot-wars-30.json) |
 | Super Robot Wars 30: Bonus Mission Pack | 226906 | [226906-super-robot-wars-30-bonus-mission-pack.json](./226906-super-robot-wars-30-bonus-mission-pack.json) |
 | Super Robot Wars 30: Digital Deluxe Edition | 220922 | [220922-super-robot-wars-30-digital-deluxe-edition.json](./220922-super-robot-wars-30-digital-deluxe-edition.json) |
 | Super Robot Wars 30: Digital Ultimate Edition | 220923 | [220923-super-robot-wars-30-digital-ultimate-edition.json](./220923-super-robot-wars-30-digital-ultimate-edition.json) |
