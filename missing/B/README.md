@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Clicker | 394093 | [394093-banana-clicker.json](./394093-banana-clicker.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Cowboy | 304692 | [304692-banana-cowboy.json](./304692-banana-cowboy.json) |
+| Banana Cowboy: The Wild Bunch | 426819 | [426819-banana-cowboy-the-wild-bunch.json](./426819-banana-cowboy-the-wild-bunch.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
 | Banana Drama | 203681 | [203681-banana-drama.json](./203681-banana-drama.json) |
 | Banana Drama: All Animals Pack | 278332 | [278332-banana-drama-all-animals-pack.json](./278332-banana-drama-all-animals-pack.json) |
@@ -15011,6 +15012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Legends | 16160 | [16160-book-of-legends.json](./16160-book-of-legends.json) |
+| Book of Mages: The Chaotic Period | 426814 | [426814-book-of-mages-the-chaotic-period.json](./426814-book-of-mages-the-chaotic-period.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Merlin | 33767 | [33767-book-of-merlin.json](./33767-book-of-merlin.json) |
@@ -16053,6 +16055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
+| Bound Together | 426719 | [426719-bound-together.json](./426719-bound-together.json) |
 | Bound Up & Squirming! | 113674 | [113674-bound-up-and-squirming.json](./113674-bound-up-and-squirming.json) |
 | Bound: Shattered Kingdom | 118464 | [118464-bound-shattered-kingdom.json](./118464-bound-shattered-kingdom.json) |
 | Bounda | 199441 | [199441-bounda.json](./199441-bounda.json) |
@@ -18417,6 +18420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Minds | 249607 | [249607-broken-minds.json](./249607-broken-minds.json) |
 | Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
+| Broken Oath | 426707 | [426707-broken-oath.json](./426707-broken-oath.json) |
 | Broken of Darkness | 127399 | [127399-broken-of-darkness.json](./127399-broken-of-darkness.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
 | Broken Paradox | 346689 | [346689-broken-paradox.json](./346689-broken-paradox.json) |
