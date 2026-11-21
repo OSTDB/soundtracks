@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Waltz | 81619 | [81619-panzer-waltz.json](./81619-panzer-waltz.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
+| Panzer War: Definitive Edition | 88030 | [88030-panzer-war-definitive-edition.json](./88030-panzer-war-definitive-edition.json) |
 | Panzer Warfare | 31704 | [31704-panzer-warfare.json](./31704-panzer-warfare.json) |
 | Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
 | Panzerdogs | 234791 | [234791-panzerdogs.json](./234791-panzerdogs.json) |
@@ -6834,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
 | Pic-a-Pix Classic | 118533 | [118533-pic-a-pix-classic.json](./118533-pic-a-pix-classic.json) |
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
+| Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Deluxe | 84825 | [84825-pic-a-pix-deluxe.json](./84825-pic-a-pix-deluxe.json) |
 | Pic-a-Pix Deluxe: Pic-a-Pix Color | 403408 | [403408-pic-a-pix-deluxe-pic-a-pix-color.json](./403408-pic-a-pix-deluxe-pic-a-pix-color.json) |
@@ -16989,6 +16991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
 | Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
 | Prison Architect: Xbox 360 Edition | 233856 | [233856-prison-architect-xbox-360-edition.json](./233856-prison-architect-xbox-360-edition.json) |
+| Prison Architect: Xbox One Edition | 82430 | [82430-prison-architect-xbox-one-edition.json](./82430-prison-architect-xbox-one-edition.json) |
 | Prison Ball: Full Blown | 167214 | [167214-prison-ball-full-blown.json](./167214-prison-ball-full-blown.json) |
 | Prison Ball: Full Blown - Cheyenne Storm | 167221 | [167221-prison-ball-full-blown-cheyenne-storm.json](./167221-prison-ball-full-blown-cheyenne-storm.json) |
 | Prison Ball: Full Blown - Damon Blood | 168432 | [168432-prison-ball-full-blown-damon-blood.json](./168432-prison-ball-full-blown-damon-blood.json) |
@@ -18988,6 +18991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | Propeller Rat | 318333 | [318333-propeller-rat.json](./318333-propeller-rat.json) |
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
+| Property | 83593 | [83593-property.json](./83593-property.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
 | Property Pro | 235549 | [235549-property-pro.json](./235549-property-pro.json) |
 | Property Rush | 423148 | [423148-property-rush.json](./423148-property-rush.json) |
