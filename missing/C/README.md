@@ -13563,6 +13563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War | 68436 | [68436-cold-war.json](./68436-cold-war.json) |
 | Cold War 2395: Solus | 277138 | [277138-cold-war-2395-solus.json](./277138-cold-war-2395-solus.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
+| Cold War Conflicts | 24242 | [24242-cold-war-conflicts.json](./24242-cold-war-conflicts.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Game | 122043 | [122043-cold-war-game.json](./122043-cold-war-game.json) |
 | Cold War Minister | 128152 | [128152-cold-war-minister.json](./128152-cold-war-minister.json) |
@@ -17573,6 +17574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Roads | 261601 | [261601-cosmic-roads.json](./261601-cosmic-roads.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
+| Cosmic Rocket Defender | 24212 | [24212-cosmic-rocket-defender.json](./24212-cosmic-rocket-defender.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Royale | 324161 | [324161-cosmic-royale.json](./324161-cosmic-royale.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
