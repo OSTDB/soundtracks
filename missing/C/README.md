@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable Capers 2 | 273683 | [273683-cable-capers-2.json](./273683-cable-capers-2.json) |
 | Cable City | 404017 | [404017-cable-city.json](./404017-cable-city.json) |
 | Cable Clutter | 211255 | [211255-cable-clutter.json](./211255-cable-clutter.json) |
+| Cable Manager | 423545 | [423545-cable-manager.json](./423545-cable-manager.json) |
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cable Time hero vs Dual Sword Superhero Combat | 96346 | [96346-cable-time-hero-vs-dual-sword-superhero-combat.json](./96346-cable-time-hero-vs-dual-sword-superhero-combat.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Mod Prime | 363645 | [363645-cards-mod-prime.json](./363645-cards-mod-prime.json) |
 | Cards n' Varmints | 349750 | [349750-cards-n-varmints.json](./349750-cards-n-varmints.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
+| Cards of Bellum | 423463 | [423463-cards-of-bellum.json](./423463-cards-of-bellum.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
 | Cards of Chaos | 31624 | [31624-cards-of-chaos.json](./31624-cards-of-chaos.json) |
@@ -5538,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
 | Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
 | Catskill Mine: 10,000ft Below | 416420 | [416420-catskill-mine-10-000ft-below.json](./416420-catskill-mine-10-000ft-below.json) |
+| Catson Files: Wizard Town | 423451 | [423451-catson-files-wizard-town.json](./423451-catson-files-wizard-town.json) |
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | Catsploration | 172901 | [172901-catsploration.json](./172901-catsploration.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
@@ -9651,6 +9654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
 | Chromatic Chaos | 338524 | [338524-chromatic-chaos.json](./338524-chromatic-chaos.json) |
 | Chromatic Conundrum | 338525 | [338525-chromatic-conundrum.json](./338525-chromatic-conundrum.json) |
+| Chromatic Crisis | 423811 | [423811-chromatic-crisis.json](./423811-chromatic-crisis.json) |
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Dragon Pattern Perception | 397456 | [397456-chromatic-dragon-pattern-perception.json](./397456-chromatic-dragon-pattern-perception.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
@@ -10688,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Kane 64 | 332210 | [332210-citizen-kane-64.json](./332210-citizen-kane-64.json) |
 | Citizen Life | 389560 | [389560-citizen-life.json](./389560-citizen-life.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
+| Citizen Pain II | 423820 | [423820-citizen-pain-ii.json](./423820-citizen-pain-ii.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
 | Citizen Sleeper 2: Starward Vector - Deluxe Edition | 383422 | [383422-citizen-sleeper-2-starward-vector-deluxe-edition.json](./383422-citizen-sleeper-2-starward-vector-deluxe-edition.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
@@ -14461,6 +14466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors of Nobility | 247731 | [247731-colors-of-nobility.json](./247731-colors-of-nobility.json) |
 | Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
+| Colors of V | 423829 | [423829-colors-of-v.json](./423829-colors-of-v.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
 | Colors: Lost Memories | 269122 | [269122-colors-lost-memories.json](./269122-colors-lost-memories.json) |
@@ -21093,6 +21099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown Wars: The Black Prince - Blood Pact Weapon Skins | 290125 | [290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json](./290125-crown-wars-the-black-prince-blood-pact-weapon-skins.json) |
 | Crown Wars: The Black Prince - Brotherhood of Light Cosmetic Pack | 290124 | [290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json](./290124-crown-wars-the-black-prince-brotherhood-of-light-cosmetic-pack.json) |
 | Crown Wars: The Black Prince - Sacred Edition | 302179 | [302179-crown-wars-the-black-prince-sacred-edition.json](./302179-crown-wars-the-black-prince-sacred-edition.json) |
+| Crown Yer King | 423834 | [423834-crown-yer-king.json](./423834-crown-yer-king.json) |
 | Crown's Labyrinth | 303440 | [303440-crowns-labyrinth.json](./303440-crowns-labyrinth.json) |
 | Crown's Trial | 402270 | [402270-crowns-trial.json](./402270-crowns-trial.json) |
 | Crownbane | 411701 | [411701-crownbane.json](./411701-crownbane.json) |
