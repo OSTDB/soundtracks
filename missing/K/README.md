@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
 | Kill Me If You Can: Multiplayer Edition | 378317 | [378317-kill-me-if-you-can-multiplayer-edition.json](./378317-kill-me-if-you-can-multiplayer-edition.json) |
 | Kill Me Yesterday | 415999 | [415999-kill-me-yesterday.json](./415999-kill-me-yesterday.json) |
+| Kill or Be Killed | 424934 | [424934-kill-or-be-killed.json](./424934-kill-or-be-killed.json) |
 | Kill or Dead | 223268 | [223268-kill-or-dead.json](./223268-kill-or-dead.json) |
 | Kill or Love | 123995 | [123995-kill-or-love.json](./123995-kill-or-love.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
@@ -3206,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killstreak | 150885 | [150885-killstreak.json](./150885-killstreak.json) |
 | KillStreak.tv | 116715 | [116715-killstreak-tv.json](./116715-killstreak-tv.json) |
 | Killswitch Climax | 398106 | [398106-killswitch-climax.json](./398106-killswitch-climax.json) |
+| Killwright | 424931 | [424931-killwright.json](./424931-killwright.json) |
 | Killzone 3 | 1867 | [1867-killzone-3.json](./1867-killzone-3.json) |
 | Killzone 3: Collector's Edition | 163151 | [163151-killzone-3-collectors-edition.json](./163151-killzone-3-collectors-edition.json) |
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
@@ -5578,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
 | Know That Flag! | 351006 | [351006-know-that-flag.json](./351006-know-that-flag.json) |
 | Know What I Meme | 254442 | [254442-know-what-i-meme.json](./254442-know-what-i-meme.json) |
+| Know Your Ánima | 425013 | [425013-know-your-anima.json](./425013-know-your-anima.json) |
 | Know Your Friends | 60627 | [60627-know-your-friends.json](./60627-know-your-friends.json) |
 | Know Your Limits | 272248 | [272248-know-your-limits.json](./272248-know-your-limits.json) |
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
