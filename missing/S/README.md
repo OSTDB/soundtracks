@@ -5845,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Bass Fishing | 5147 | [5147-sega-bass-fishing.json](./5147-sega-bass-fishing.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
+| Sega Bass Fishing Duel | 22231 | [22231-sega-bass-fishing-duel.json](./22231-sega-bass-fishing-duel.json) |
 | Sega Brawlers Megamix | 316327 | [316327-sega-brawlers-megamix.json](./316327-sega-brawlers-megamix.json) |
 | Sega Casino | 22569 | [22569-sega-casino.json](./22569-sega-casino.json) |
 | Sega Casino Games | 130983 | [130983-sega-casino-games.json](./130983-sega-casino-games.json) |
@@ -11984,6 +11985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
 | Sigil Valley | 272456 | [272456-sigil-valley.json](./272456-sigil-valley.json) |
 | Sigilbound | 426927 | [426927-sigilbound.json](./426927-sigilbound.json) |
+| Sigilbound | 430640 | [430640-sigilbound.json](./430640-sigilbound.json) |
 | Sigilfarer | 314447 | [314447-sigilfarer.json](./314447-sigilfarer.json) |
 | Sigillum | 407173 | [407173-sigillum.json](./407173-sigillum.json) |
 | Sigillvm: Resonance | 346264 | [346264-sigillvm-resonance.json](./346264-sigillvm-resonance.json) |
@@ -28470,6 +28472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball 7 | 380936 | [380936-star-wars-pinball-7.json](./380936-star-wars-pinball-7.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
+| Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
 | Star Wars PS3 Mega Bundle | 119920 | [119920-star-wars-ps3-mega-bundle.json](./119920-star-wars-ps3-mega-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
@@ -31817,6 +31820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | StorySpark | 303283 | [303283-storyspark.json](./303283-storyspark.json) |
+| Storytaco FMV Collection | 430390 | [430390-storytaco-fmv-collection.json](./430390-storytaco-fmv-collection.json) |
 | Storyteller | 159299 | [159299-storyteller.json](./159299-storyteller.json) |
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller Special Edition | 415776 | [415776-storyteller-special-edition.json](./415776-storyteller-special-edition.json) |
@@ -31978,6 +31982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Place | 351615 | [351615-strange-place.json](./351615-strange-place.json) |
 | Strange Pong | 339659 | [339659-strange-pong.json](./339659-strange-pong.json) |
 | Strange Pool | 331879 | [331879-strange-pool.json](./331879-strange-pool.json) |
+| Strange Scaffold Collection | 430393 | [430393-strange-scaffold-collection.json](./430393-strange-scaffold-collection.json) |
 | Strange Science | 133679 | [133679-strange-science.json](./133679-strange-science.json) |
 | Strange Seed | 257998 | [257998-strange-seed.json](./257998-strange-seed.json) |
 | Strange Shadow | 258651 | [258651-strange-shadow.json](./258651-strange-shadow.json) |
@@ -32626,6 +32631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Zangief (Swap Costume) | 388829 | [388829-street-fighter-x-tekken-zangief-swap-costume.json](./388829-street-fighter-x-tekken-zangief-swap-costume.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
 | Street Fighter Zero 3 Mix | 341741 | [341741-street-fighter-zero-3-mix.json](./341741-street-fighter-zero-3-mix.json) |
+| Street Fighter Zero 3 Upper | 22221 | [22221-street-fighter-zero-3-upper.json](./22221-street-fighter-zero-3-upper.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
 | Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
@@ -40718,6 +40724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
+| Sweetie's Motel | 430755 | [430755-sweeties-motel.json](./430755-sweeties-motel.json) |
 | Sweetlads' Werewolf | 164106 | [164106-sweetlads-werewolf.json](./164106-sweetlads-werewolf.json) |
 | Sweetland Slumber Party | 350082 | [350082-sweetland-slumber-party.json](./350082-sweetland-slumber-party.json) |
 | Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
@@ -40903,6 +40910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch Color 2018 | 104774 | [104774-switch-color-2018.json](./104774-switch-color-2018.json) |
 | Switch Colors+ | 187984 | [187984-switch-colors.json](./187984-switch-colors.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
+| Switch Galaxy | 22198 | [22198-switch-galaxy.json](./22198-switch-galaxy.json) |
 | Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch Girl: Special Rescue Beauty | 326543 | [326543-switch-girl-special-rescue-beauty.json](./326543-switch-girl-special-rescue-beauty.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
@@ -41560,6 +41568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SynCo 2321 | 192979 | [192979-synco-2321.json](./192979-synco-2321.json) |
 | Synco Path: Automaton Prison | 366028 | [366028-synco-path-automaton-prison.json](./366028-synco-path-automaton-prison.json) |
 | Syncope | 189041 | [189041-syncope.json](./189041-syncope.json) |
+| Syncope | 430910 | [430910-syncope.json](./430910-syncope.json) |
 | Syncrafice | 422704 | [422704-syncrafice.json](./422704-syncrafice.json) |
 | Syncromania | 276285 | [276285-syncromania.json](./276285-syncromania.json) |
 | Syndeo-Complex | 226476 | [226476-syndeo-complex.json](./226476-syndeo-complex.json) |
