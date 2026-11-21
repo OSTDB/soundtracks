@@ -3769,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
 | Manual Samuel | 18688 | [18688-manual-samuel.json](./18688-manual-samuel.json) |
+| Manual Teller Machine | 424929 | [424929-manual-teller-machine.json](./424929-manual-teller-machine.json) |
 | Manufactoid | 401753 | [401753-manufactoid.json](./401753-manufactoid.json) |
 | Manufactoria | 128671 | [128671-manufactoria.json](./128671-manufactoria.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
@@ -10508,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentally, I am | 139273 | [139273-mentally-i-am.json](./139273-mentally-i-am.json) |
 | Mentari | 319479 | [319479-mentari.json](./319479-mentari.json) |
+| Menthal | 424921 | [424921-menthal.json](./424921-menthal.json) |
 | Menticide | 324629 | [324629-menticide.json](./324629-menticide.json) |
 | Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
 | Mentis Cohorts | 41538 | [41538-mentis-cohorts.json](./41538-mentis-cohorts.json) |
@@ -24072,6 +24074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
 | My Lovely Noblewomen | 148339 | [148339-my-lovely-noblewomen.json](./148339-my-lovely-noblewomen.json) |
+| My Lovely Nurse | 424918 | [424918-my-lovely-nurse.json](./424918-my-lovely-nurse.json) |
 | My Lovely Pets | 237747 | [237747-my-lovely-pets.json](./237747-my-lovely-pets.json) |
 | My Lovely Pets 2: Collector's Edition | 255286 | [255286-my-lovely-pets-2-collectors-edition.json](./255286-my-lovely-pets-2-collectors-edition.json) |
 | My Lovely Pets: Collector's Edition | 237556 | [237556-my-lovely-pets-collectors-edition.json](./237556-my-lovely-pets-collectors-edition.json) |
