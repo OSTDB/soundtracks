@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walthros: Renewal | 155962 | [155962-walthros-renewal.json](./155962-walthros-renewal.json) |
 | Walto | 391237 | [391237-walto.json](./391237-walto.json) |
 | Waltz and Jam | 288479 | [288479-waltz-and-jam.json](./288479-waltz-and-jam.json) |
+| Waltz of the Wizard | 119994 | [119994-waltz-of-the-wizard.json](./119994-waltz-of-the-wizard.json) |
 | Waluigi World | 381751 | [381751-waluigi-world.json](./381751-waluigi-world.json) |
 | Waluigi's Foot Fault | 231705 | [231705-waluigis-foot-fault.json](./231705-waluigis-foot-fault.json) |
 | Waluigi's Road to Glory: Horlogic Will Go On | 260819 | [260819-waluigis-road-to-glory-horlogic-will-go-on.json](./260819-waluigis-road-to-glory-horlogic-will-go-on.json) |
