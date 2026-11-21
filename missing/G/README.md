@@ -10080,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Flame | 273770 | [273770-great-flame.json](./273770-great-flame.json) |
 | Great Football | 46144 | [46144-great-football.json](./46144-great-football.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
+| Great God Grove | 247082 | [247082-great-god-grove.json](./247082-great-god-grove.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 46143 | [46143-great-golf.json](./46143-great-golf.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
