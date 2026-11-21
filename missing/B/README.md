@@ -13218,6 +13218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Everything Up! Net 2007 | 68824 | [68824-blow-everything-up-net-2007.json](./68824-blow-everything-up-net-2007.json) |
 | Blow Fish Music Quiz | 195441 | [195441-blow-fish-music-quiz.json](./195441-blow-fish-music-quiz.json) |
 | Blow Fly2: Overlimit | 291295 | [291295-blow-fly2-overlimit.json](./291295-blow-fly2-overlimit.json) |
+| Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
 | Blow Out | 41443 | [41443-blow-out.json](./41443-blow-out.json) |
 | Blow the Hen Down | 177152 | [177152-blow-the-hen-down.json](./177152-blow-the-hen-down.json) |
@@ -15677,6 +15678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
+| Bots Are Stupid | 151103 | [151103-bots-are-stupid.json](./151103-bots-are-stupid.json) |
 | Bots Boom Bang | 233144 | [233144-bots-boom-bang.json](./233144-bots-boom-bang.json) |
 | Bots Can Feel Too | 200045 | [200045-bots-can-feel-too.json](./200045-bots-can-feel-too.json) |
 | Bots Chaos | 243595 | [243595-bots-chaos.json](./243595-bots-chaos.json) |
