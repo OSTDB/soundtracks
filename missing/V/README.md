@@ -3755,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Core | 248879 | [248879-void-core.json](./248879-void-core.json) |
 | Void Crawler | 263709 | [263709-void-crawler.json](./263709-void-crawler.json) |
 | Void Crawlers | 404966 | [404966-void-crawlers.json](./404966-void-crawlers.json) |
+| Void Crew | 243017 | [243017-void-crew.json](./243017-void-crew.json) |
 | Void Cube Runner | 97091 | [97091-void-cube-runner.json](./97091-void-cube-runner.json) |
 | Void Daggers | 409602 | [409602-void-daggers.json](./409602-void-daggers.json) |
 | Void Dash | 314003 | [314003-void-dash.json](./314003-void-dash.json) |
