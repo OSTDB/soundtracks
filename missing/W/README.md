@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterloo - Tank Assault | 101202 | [101202-waterloo-tank-assault.json](./101202-waterloo-tank-assault.json) |
 | Waterloo: Napoleon's Last Battle | 71611 | [71611-waterloo-napoleons-last-battle.json](./71611-waterloo-napoleons-last-battle.json) |
 | WaterMeasure | 344542 | [344542-watermeasure.json](./344542-watermeasure.json) |
+| Watermellionaire | 422862 | [422862-watermellionaire.json](./422862-watermellionaire.json) |
 | Watermelon | 314365 | [314365-watermelon.json](./314365-watermelon.json) |
 | Watermelon | 314366 | [314366-watermelon.json](./314366-watermelon.json) |
 | Watermelon | 338390 | [338390-watermelon.json](./338390-watermelon.json) |
@@ -7926,6 +7927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
 | Wizards in Shorts | 323464 | [323464-wizards-in-shorts.json](./323464-wizards-in-shorts.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
+| Wizards Never Lie | 422910 | [422910-wizards-never-lie.json](./422910-wizards-never-lie.json) |
 | Wizards of Alamar | 182670 | [182670-wizards-of-alamar.json](./182670-wizards-of-alamar.json) |
 | Wizards of Brandel | 124312 | [124312-wizards-of-brandel.json](./124312-wizards-of-brandel.json) |
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
