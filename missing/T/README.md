@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Level Again 4 | 144494 | [144494-that-level-again-4.json](./144494-that-level-again-4.json) |
 | That Lonesome Valley | 240569 | [240569-that-lonesome-valley.json](./240569-that-lonesome-valley.json) |
 | That Makes Sense | 226460 | [226460-that-makes-sense.json](./226460-that-makes-sense.json) |
+| That Mountain Needs to Fall | 422864 | [422864-that-mountain-needs-to-fall.json](./422864-that-mountain-needs-to-fall.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That Night, Steeped by Blood River | 141284 | [141284-that-night-steeped-by-blood-river.json](./141284-that-night-steeped-by-blood-river.json) |
@@ -17486,6 +17487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pretender: Part One | 404851 | [404851-the-pretender-part-one.json](./404851-the-pretender-part-one.json) |
 | The Pretender: Part Three | 404856 | [404856-the-pretender-part-three.json](./404856-the-pretender-part-three.json) |
 | The Pretender: Part Two | 404853 | [404853-the-pretender-part-two.json](./404853-the-pretender-part-two.json) |
+| The Previous Owner | 422895 | [422895-the-previous-owner.json](./422895-the-previous-owner.json) |
 | The Prey MMORPG | 215826 | [215826-the-prey-mmorpg.json](./215826-the-prey-mmorpg.json) |
 | The Prey's Turn | 237025 | [237025-the-preys-turn.json](./237025-the-preys-turn.json) |
 | The Price is Right | 78446 | [78446-the-price-is-right.json](./78446-the-price-is-right.json) |
