@@ -1421,7 +1421,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railways | 144404 | [144404-railways.json](./144404-railways.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
-| Railworks | 5549 | [5549-railworks.json](./5549-railworks.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
@@ -1784,7 +1783,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Challenge 2000 | 3582 | [3582-rally-challenge-2000.json](./3582-rally-challenge-2000.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
 | Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
-| Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
 | Rally Championship Xtreme | 46967 | [46967-rally-championship-xtreme.json](./46967-rally-championship-xtreme.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
@@ -3889,7 +3887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Planet | 26479 | [26479-rebel-planet.json](./26479-rebel-planet.json) |
 | Rebel Planet Orion | 120891 | [120891-rebel-planet-orion.json](./120891-rebel-planet-orion.json) |
 | Rebel Racing | 137368 | [137368-rebel-racing.json](./137368-rebel-racing.json) |
-| Rebel Raiders: Operation Nighthawk | 5120 | [5120-rebel-raiders-operation-nighthawk.json](./5120-rebel-raiders-operation-nighthawk.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Riders | 208142 | [208142-rebel-riders.json](./208142-rebel-riders.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
@@ -5322,7 +5319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei | 231689 | [231689-rei.json](./231689-rei.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
-| Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
 | Rei Galo TD | 289254 | [289254-rei-galo-td.json](./289254-rei-galo-td.json) |
 | Rei, the Drifter Girl | 82693 | [82693-rei-the-drifter-girl.json](./82693-rei-the-drifter-girl.json) |
 | Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
@@ -8601,7 +8597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
 | Rig or Skill: PC Brawl | 89327 | [89327-rig-or-skill-pc-brawl.json](./89327-rig-or-skill-pc-brawl.json) |
-| Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
 | Rig Riot | 337384 | [337384-rig-riot.json](./337384-rig-riot.json) |
 | Rig Score | 158255 | [158255-rig-score.json](./158255-rig-score.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
@@ -10424,7 +10419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
 | Robotech: Battlecry | 4090 | [4090-robotech-battlecry.json](./4090-robotech-battlecry.json) |
 | Robotech: Crystal Dreams | 44035 | [44035-robotech-crystal-dreams.json](./44035-robotech-crystal-dreams.json) |
-| Robotech: Invasion | 6015 | [6015-robotech-invasion.json](./6015-robotech-invasion.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
@@ -10557,7 +10551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Roller | 333332 | [333332-rock-n-roller.json](./333332-rock-n-roller.json) |
 | Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
 | Rock 'n' Roll | 11722 | [11722-rock-n-roll.json](./11722-rock-n-roll.json) |
-| Rock 'n' Roll Adventures | 5125 | [5125-rock-n-roll-adventures.json](./5125-rock-n-roll-adventures.json) |
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
@@ -12430,7 +12423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops and Alleys: The Parkour Game - Ninja Pack DLC | 409952 | [409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json](./409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json) |
 | Rooftops and Alleys: The Parkour Game - Trail Pack DLC | 409951 | [409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json](./409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json) |
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
-| Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roojack | 75627 | [75627-roojack.json](./75627-roojack.json) |
 | Rook | 129441 | [129441-rook.json](./129441-rook.json) |
@@ -13681,7 +13673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rug Rats | 292037 | [292037-rug-rats.json](./292037-rug-rats.json) |
 | Rugby | 77083 | [77083-rugby.json](./77083-rugby.json) |
 | Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
-| Rugby 06 | 6018 | [6018-rugby-06.json](./6018-rugby-06.json) |
 | Rugby 15 | 10788 | [10788-rugby-15.json](./10788-rugby-15.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
@@ -13691,7 +13682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
-| Rugby Challenge 2006 | 6020 | [6020-rugby-challenge-2006.json](./6020-rugby-challenge-2006.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
 | Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
@@ -14092,7 +14082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
 | Run Kitty Run | 122445 | [122445-run-kitty-run.json](./122445-run-kitty-run.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
-| Run Like Hell: Hunt or Be Hunted | 6011 | [6011-run-like-hell-hunt-or-be-hunted.json](./6011-run-like-hell-hunt-or-be-hunted.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
 | Run Like Hell!: Heart Breaker | 393434 | [393434-run-like-hell-heart-breaker.json](./393434-run-like-hell-heart-breaker.json) |
