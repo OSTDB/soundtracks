@@ -4749,6 +4749,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Village | 149643 | [149643-battle-village.json](./149643-battle-village.json) |
 | Battle Vision | 305029 | [305029-battle-vision.json](./305029-battle-vision.json) |
 | Battle vs. Chess | 177076 | [177076-battle-vs-chess.json](./177076-battle-vs-chess.json) |
+| Battle vs. Chess: Dark Desert DLC | 430379 | [430379-battle-vs-chess-dark-desert-dlc.json](./430379-battle-vs-chess-dark-desert-dlc.json) |
+| Battle vs. Chess: Floating Island DLC | 430380 | [430380-battle-vs-chess-floating-island-dlc.json](./430380-battle-vs-chess-floating-island-dlc.json) |
+| Battle vs. Chess: Grandmaster Premium Edition | 430378 | [430378-battle-vs-chess-grandmaster-premium-edition.json](./430378-battle-vs-chess-grandmaster-premium-edition.json) |
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
@@ -4962,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground 7: Bull Run | 22618 | [22618-battleground-7-bull-run.json](./22618-battleground-7-bull-run.json) |
 | Battleground 8: Prelude to Waterloo | 22619 | [22619-battleground-8-prelude-to-waterloo.json](./22619-battleground-8-prelude-to-waterloo.json) |
 | Battleground 9: Chickamauga | 22617 | [22617-battleground-9-chickamauga.json](./22617-battleground-9-chickamauga.json) |
+| Battleground Cleaner Simulator | 430840 | [430840-battleground-cleaner-simulator.json](./430840-battleground-cleaner-simulator.json) |
 | Battleground Collection 1 | 77287 | [77287-battleground-collection-1.json](./77287-battleground-collection-1.json) |
 | Battleground Collection 2 | 79377 | [79377-battleground-collection-2.json](./79377-battleground-collection-2.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
@@ -9782,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birola World | 267903 | [267903-birola-world.json](./267903-birola-world.json) |
 | Birth ME Code | 132416 | [132416-birth-me-code.json](./132416-birth-me-code.json) |
 | Birth of a Hunter | 115344 | [115344-birth-of-a-hunter.json](./115344-birth-of-a-hunter.json) |
+| Birth of America | 23101 | [23101-birth-of-america.json](./23101-birth-of-america.json) |
 | Birth of America 2: Wars in America | 59496 | [59496-birth-of-america-2-wars-in-america.json](./59496-birth-of-america-2-wars-in-america.json) |
 | Birth of America II: Wars in America 1750-1815 | 20784 | [20784-birth-of-america-ii-wars-in-america-1750-1815.json](./20784-birth-of-america-ii-wars-in-america-1750-1815.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
@@ -10619,6 +10624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix Advanced | 93013 | [93013-black-matrix-advanced.json](./93013-black-matrix-advanced.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
+| Blackbar | 22194 | [22194-blackbar.json](./22194-blackbar.json) |
 | BlackBay Asylum | 10048 | [10048-blackbay-asylum.json](./10048-blackbay-asylum.json) |
 | Blackbeard the Cursed Jungle | 123526 | [123526-blackbeard-the-cursed-jungle.json](./123526-blackbeard-the-cursed-jungle.json) |
 | Blackbeard's Billions | 90877 | [90877-blackbeards-billions.json](./90877-blackbeards-billions.json) |
@@ -18320,6 +18326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
 | Broke Wizards | 411184 | [411184-broke-wizards.json](./411184-broke-wizards.json) |
+| Broke2Blocks: Crypto Mining Simulator | 430891 | [430891-broke2blocks-crypto-mining-simulator.json](./430891-broke2blocks-crypto-mining-simulator.json) |
 | Brokeline | 423844 | [423844-brokeline.json](./423844-brokeline.json) |
 | Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
