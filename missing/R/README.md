@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Impact | 340096 | [340096-rapid-impact.json](./340096-rapid-impact.json) |
 | Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
+| Rapid Miner | 424375 | [424375-rapid-miner.json](./424375-rapid-miner.json) |
 | Rapid Puppet | 391122 | [391122-rapid-puppet.json](./391122-rapid-puppet.json) |
 | Rapid Racing | 107746 | [107746-rapid-racing.json](./107746-rapid-racing.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
