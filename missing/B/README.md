@@ -18549,6 +18549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
 | Brotherhood of Ruin: The Lost Temple | 263426 | [263426-brotherhood-of-ruin-the-lost-temple.json](./263426-brotherhood-of-ruin-the-lost-temple.json) |
 | Brotherhood of Violence II | 89517 | [89517-brotherhood-of-violence-ii.json](./89517-brotherhood-of-violence-ii.json) |
+| Brotherhood United | 103493 | [103493-brotherhood-united.json](./103493-brotherhood-united.json) |
 | Brotherly Aid | 227020 | [227020-brotherly-aid.json](./227020-brotherly-aid.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Apart | 157460 | [157460-brothers-apart.json](./157460-brothers-apart.json) |
