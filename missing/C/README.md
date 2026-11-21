@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartuchito World: Canella Edition | 275621 | [275621-cartuchito-world-canella-edition.json](./275621-cartuchito-world-canella-edition.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carve | 5767 | [5767-carve.json](./5767-carve.json) |
+| Carve and Sort: Tidy Up Your Pumpkin Patch! | 429786 | [429786-carve-and-sort-tidy-up-your-pumpkin-patch.json](./429786-carve-and-sort-tidy-up-your-pumpkin-patch.json) |
 | Carve Jr. | 240967 | [240967-carve-jr.json](./240967-carve-jr.json) |
 | Carve Snowboarding | 196376 | [196376-carve-snowboarding.json](./196376-carve-snowboarding.json) |
 | Carve The Cave Together | 414602 | [414602-carve-the-cave-together.json](./414602-carve-the-cave-together.json) |
@@ -3840,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cash Invaders | 92826 | [92826-cash-invaders.json](./92826-cash-invaders.json) |
 | Cash is King! | 397405 | [397405-cash-is-king.json](./397405-cash-is-king.json) |
+| Cash is King! Business Simulator: Premium Edition | 429792 | [429792-cash-is-king-business-simulator-premium-edition.json](./429792-cash-is-king-business-simulator-premium-edition.json) |
 | Cash Laundry Simulator | 365560 | [365560-cash-laundry-simulator.json](./365560-cash-laundry-simulator.json) |
 | Cash Movers | 407286 | [407286-cash-movers.json](./407286-cash-movers.json) |
 | Cash Quiz | 312300 | [312300-cash-quiz.json](./312300-cash-quiz.json) |
@@ -15318,6 +15320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Composer | 187316 | [187316-composer.json](./187316-composer.json) |
 | Compost | 170638 | [170638-compost.json](./170638-compost.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
+| Compound Interest | 429824 | [429824-compound-interest.json](./429824-compound-interest.json) |
 | Compound Word Puzzles | 353557 | [353557-compound-word-puzzles.json](./353557-compound-word-puzzles.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compress Space: Expanded | 301794 | [301794-compress-space-expanded.json](./301794-compress-space-expanded.json) |
@@ -18460,6 +18463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | Cozy Winter | 343724 | [343724-cozy-winter.json](./343724-cozy-winter.json) |
+| Cozy Witch Store | 429787 | [429787-cozy-witch-store.json](./429787-cozy-witch-store.json) |
 | Cozy Woods | 342367 | [342367-cozy-woods.json](./342367-cozy-woods.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
@@ -22171,6 +22175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
+| Cube Sudoku | 429822 | [429822-cube-sudoku.json](./429822-cube-sudoku.json) |
 | Cube Sumbledore | 244587 | [244587-cube-sumbledore.json](./244587-cube-sumbledore.json) |
 | Cube Survival: LDoE | 104309 | [104309-cube-survival-ldoe.json](./104309-cube-survival-ldoe.json) |
 | Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
@@ -23636,6 +23641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
+| Cyber Plinko | 429600 | [429600-cyber-plinko.json](./429600-cyber-plinko.json) |
 | Cyber Police ESWAT | 39357 | [39357-cyber-police-eswat.json](./39357-cyber-police-eswat.json) |
 | Cyber Police ESWAT | 6793 | [6793-cyber-police-eswat.json](./6793-cyber-police-eswat.json) |
 | Cyber Pool | 194830 | [194830-cyber-pool.json](./194830-cyber-pool.json) |
