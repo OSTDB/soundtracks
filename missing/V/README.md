@@ -587,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valley of Unicorns | 24948 | [24948-valley-of-unicorns.json](./24948-valley-of-unicorns.json) |
 | Valley Peaks | 177031 | [177031-valley-peaks.json](./177031-valley-peaks.json) |
 | Valley Run | 120022 | [120022-valley-run.json](./120022-valley-run.json) |
+| Valleyball Versus | 429187 | [429187-valleyball-versus.json](./429187-valleyball-versus.json) |
 | Valleys Between | 106993 | [106993-valleys-between.json](./106993-valleys-between.json) |
 | Valor | 173314 | [173314-valor.json](./173314-valor.json) |
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
@@ -1465,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velistra: Failed State | 336759 | [336759-velistra-failed-state.json](./336759-velistra-failed-state.json) |
 | Velkyn | 282018 | [282018-velkyn.json](./282018-velkyn.json) |
 | Vellar | 405723 | [405723-vellar.json](./405723-vellar.json) |
+| Vellara | 429210 | [429210-vellara.json](./429210-vellara.json) |
 | Velldeselba Senki: Tsubasa no Kunshou | 140026 | [140026-velldeselba-senki-tsubasa-no-kunshou.json](./140026-velldeselba-senki-tsubasa-no-kunshou.json) |
 | Vellum | 273394 | [273394-vellum.json](./273394-vellum.json) |
 | Vellum Quest: Kami no Zanshi | 331895 | [331895-vellum-quest-kami-no-zanshi.json](./331895-vellum-quest-kami-no-zanshi.json) |
