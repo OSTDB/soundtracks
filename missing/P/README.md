@@ -10326,6 +10326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizzapocalypse 2 | 379971 | [379971-pizzapocalypse-2.json](./379971-pizzapocalypse-2.json) |
 | Pizzapoly | 423547 | [423547-pizzapoly.json](./423547-pizzapoly.json) |
 | Pizzarian | 36010 | [36010-pizzarian.json](./36010-pizzarian.json) |
+| Pizzarian: Tidy Up the Arcane Shop | 428581 | [428581-pizzarian-tidy-up-the-arcane-shop.json](./428581-pizzarian-tidy-up-the-arcane-shop.json) |
 | Pizzaro Project Deep Dish | 133319 | [133319-pizzaro-project-deep-dish.json](./133319-pizzaro-project-deep-dish.json) |
 | PizzaStore | 232594 | [232594-pizzastore.json](./232594-pizzastore.json) |
 | Pizzdile | 277319 | [277319-pizzdile.json](./277319-pizzdile.json) |
@@ -12928,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon GS Chronicles | 163125 | [163125-pokemon-gs-chronicles.json](./163125-pokemon-gs-chronicles.json) |
 | Pokémon GS Vitro | 424149 | [424149-pokemon-gs-vitro.json](./424149-pokemon-gs-vitro.json) |
 | Pokemon GSC Card Flip | 335533 | [335533-pokemon-gsc-card-flip.json](./335533-pokemon-gsc-card-flip.json) |
+| Pokémon Happy Meal Digital Experience | 428481 | [428481-pokemon-happy-meal-digital-experience.json](./428481-pokemon-happy-meal-digital-experience.json) |
 | Pokemon Heads & Tails | 240006 | [240006-pokemon-heads-and-tails.json](./240006-pokemon-heads-and-tails.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
 | Pokémon Heart Gold Randomizer | 329891 | [329891-pokemon-heart-gold-randomizer.json](./329891-pokemon-heart-gold-randomizer.json) |
@@ -18928,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt: Passion - Season 1 | 226989 | [226989-projekt-passion-season-1.json](./226989-projekt-passion-season-1.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Projet Brouillon | 421662 | [421662-projet-brouillon.json](./421662-projet-brouillon.json) |
+| Projet Élysée | 428591 | [428591-projet-elysee.json](./428591-projet-elysee.json) |
 | Projeto Real | 272401 | [272401-projeto-real.json](./272401-projeto-real.json) |
 | Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
 | Projeto Real: Treasure Map | 286250 | [286250-projeto-real-treasure-map.json](./286250-projeto-real-treasure-map.json) |
