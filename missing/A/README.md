@@ -8270,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Olympics 2044 AD | 7750 | [7750-alien-olympics-2044-ad.json](./7750-alien-olympics-2044-ad.json) |
 | Alien on the Radar | 235609 | [235609-alien-on-the-radar.json](./235609-alien-on-the-radar.json) |
 | Alien on the Run | 61537 | [61537-alien-on-the-run.json](./61537-alien-on-the-run.json) |
+| Alien or Duck! | 427354 | [427354-alien-or-duck.json](./427354-alien-or-duck.json) |
 | Alien Outbreak | 57602 | [57602-alien-outbreak.json](./57602-alien-outbreak.json) |
 | Alien Outbreak 2: Invasion | 73135 | [73135-alien-outbreak-2-invasion.json](./73135-alien-outbreak-2-invasion.json) |
 | Alien Outpost | 320084 | [320084-alien-outpost.json](./320084-alien-outpost.json) |
