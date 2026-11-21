@@ -9949,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
 | Dice Hoarder | 414657 | [414657-dice-hoarder.json](./414657-dice-hoarder.json) |
 | Dice Hunter: Quest of the Dicemancer | 122544 | [122544-dice-hunter-quest-of-the-dicemancer.json](./122544-dice-hunter-quest-of-the-dicemancer.json) |
+| Dice in Wonderland | 427448 | [427448-dice-in-wonderland.json](./427448-dice-in-wonderland.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice is the Way | 238659 | [238659-dice-is-the-way.json](./238659-dice-is-the-way.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
@@ -16676,6 +16677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula III: The Path of the Dragon - Part 3: The Destruction of the Evil | 202073 | [202073-dracula-iii-the-path-of-the-dragon-part-3-the-destruction-of-the-evil.json](./202073-dracula-iii-the-path-of-the-dragon-part-3-the-destruction-of-the-evil.json) |
 | Dracula in London | 71727 | [71727-dracula-in-london.json](./71727-dracula-in-london.json) |
 | Dracula Is Coming | 190447 | [190447-dracula-is-coming.json](./190447-dracula-is-coming.json) |
+| Dracula Reloaded | 427426 | [427426-dracula-reloaded.json](./427426-dracula-reloaded.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Trilogy | 124940 | [124940-dracula-trilogy.json](./124940-dracula-trilogy.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
