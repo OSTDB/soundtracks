@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unglamorous | 420252 | [420252-unglamorous.json](./420252-unglamorous.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
+| Ungradable: Twisted Card Grading | 427989 | [427989-ungradable-twisted-card-grading.json](./427989-ungradable-twisted-card-grading.json) |
 | Ungrateful Birds | 136532 | [136532-ungrateful-birds.json](./136532-ungrateful-birds.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
 | Ungrateful Birds: No Good Deed | 231327 | [231327-ungrateful-birds-no-good-deed.json](./231327-ungrateful-birds-no-good-deed.json) |
@@ -3677,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upscale Studio: Ultimate Bundle 15 in 1 | 385127 | [385127-upscale-studio-ultimate-bundle-15-in-1.json](./385127-upscale-studio-ultimate-bundle-15-in-1.json) |
 | Upset Crab | 182634 | [182634-upset-crab.json](./182634-upset-crab.json) |
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
+| Upshot | 427902 | [427902-upshot.json](./427902-upshot.json) |
 | Upside | 151489 | [151489-upside.json](./151489-upside.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
 | Upside Down Tales of the Grotesque | 379427 | [379427-upside-down-tales-of-the-grotesque.json](./379427-upside-down-tales-of-the-grotesque.json) |
