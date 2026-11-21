@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Square | 311132 | [311132-hidden-square.json](./311132-hidden-square.json) |
+| Hidden Squirrels | 429205 | [429205-hidden-squirrels.json](./429205-hidden-squirrels.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
 | Hidden Streets | 423489 | [423489-hidden-streets.json](./423489-hidden-streets.json) |
 | Hidden Stroke II: APRM | 209903 | [209903-hidden-stroke-ii-aprm.json](./209903-hidden-stroke-ii-aprm.json) |
@@ -10496,6 +10497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Squares | 52194 | [52194-hollywood-squares.json](./52194-hollywood-squares.json) |
 | Hollywood Story | 90415 | [90415-hollywood-story.json](./90415-hollywood-story.json) |
 | Hollywood Studios Tycoon Game | 175061 | [175061-hollywood-studios-tycoon-game.json](./175061-hollywood-studios-tycoon-game.json) |
+| Hollywood Talent Tycoon | 429208 | [429208-hollywood-talent-tycoon.json](./429208-hollywood-talent-tycoon.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
 | Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
 | Hollywood U | 345740 | [345740-hollywood-u.json](./345740-hollywood-u.json) |
@@ -11053,6 +11055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Vibes | 287894 | [287894-honey-vibes.json](./287894-honey-vibes.json) |
 | Honey Villa | 192504 | [192504-honey-villa.json](./192504-honey-villa.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
+| Honey, Tidy the Basement | 429111 | [429111-honey-tidy-the-basement.json](./429111-honey-tidy-the-basement.json) |
 | Honey's Sweet Revenge | 265441 | [265441-honeys-sweet-revenge.json](./265441-honeys-sweet-revenge.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
 | Honeybug | 347826 | [347826-honeybug.json](./347826-honeybug.json) |
