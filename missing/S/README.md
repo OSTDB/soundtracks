@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Relics | 420049 | [420049-seven-relics.json](./420049-seven-relics.json) |
 | Seven Sacred Beasts | 197809 | [197809-seven-sacred-beasts.json](./197809-seven-sacred-beasts.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
+| Seven Samurai 20XX | 24241 | [24241-seven-samurai-20xx.json](./24241-seven-samurai-20xx.json) |
 | Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
 | Seven Seas | 208717 | [208717-seven-seas.json](./208717-seven-seas.json) |
 | Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
@@ -22835,6 +22836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Instigators | 84293 | [84293-space-instigators.json](./84293-space-instigators.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Interceptor | 71965 | [71965-space-interceptor.json](./71965-space-interceptor.json) |
+| Space Interceptor: Project Freedom | 24259 | [24259-space-interceptor-project-freedom.json](./24259-space-interceptor-project-freedom.json) |
 | Space Intern | 221187 | [221187-space-intern.json](./221187-space-intern.json) |
 | Space Intervention | 125748 | [125748-space-intervention.json](./125748-space-intervention.json) |
 | Space Intruder | 245403 | [245403-space-intruder.json](./245403-space-intruder.json) |
@@ -26922,6 +26924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Alpha: Action Shooting | 219857 | [219857-squad-alpha-action-shooting.json](./219857-squad-alpha-action-shooting.json) |
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
+| Squad Assault: Second Wave | 24268 | [24268-squad-assault-second-wave.json](./24268-squad-assault-second-wave.json) |
 | Squad Battles: First World War | 185717 | [185717-squad-battles-first-world-war.json](./185717-squad-battles-first-world-war.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
