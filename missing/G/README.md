@@ -6183,6 +6183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Aisleriot | 122783 | [122783-gnome-aisleriot.json](./122783-gnome-aisleriot.json) |
 | Gnome Chess | 122754 | [122754-gnome-chess.json](./122754-gnome-chess.json) |
 | Gnome Dash: Rise of the Trolls | 233148 | [233148-gnome-dash-rise-of-the-trolls.json](./233148-gnome-dash-rise-of-the-trolls.json) |
+| Gnome Dome | 426804 | [426804-gnome-dome.json](./426804-gnome-dome.json) |
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 10 | 260755 | [260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json](./260755-gnome-enchanted-jigsaw-puzzles-expansion-pack-10.json) |
