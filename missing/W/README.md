@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Demolition Pack | 311404 | [311404-warhammer-40-000-gladius-demolition-pack.json](./311404-warhammer-40-000-gladius-demolition-pack.json) |
 | Warhammer 40,000: Gladius - Drukhari | 275818 | [275818-warhammer-40-000-gladius-drukhari.json](./275818-warhammer-40-000-gladius-drukhari.json) |
+| Warhammer 40,000: Gladius - Onslaught Pack | 430371 | [430371-warhammer-40-000-gladius-onslaught-pack.json](./430371-warhammer-40-000-gladius-onslaught-pack.json) |
 | Warhammer 40,000: Gladius - Rampage Pack | 380990 | [380990-warhammer-40-000-gladius-rampage-pack.json](./380990-warhammer-40-000-gladius-rampage-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War | 76410 | [76410-warhammer-40-000-gladius-relics-of-war.json](./76410-warhammer-40-000-gladius-relics-of-war.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
@@ -7418,6 +7419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch You Want | 318407 | [318407-witch-you-want.json](./318407-witch-you-want.json) |
 | Witch Zoe: Hentai Shuffle | 367969 | [367969-witch-zoe-hentai-shuffle.json](./367969-witch-zoe-hentai-shuffle.json) |
 | Witch-Bot Meglilo | 33652 | [33652-witch-bot-meglilo.json](./33652-witch-bot-meglilo.json) |
+| Witch, Gnomes, Faun and Others | 430850 | [430850-witch-gnomes-faun-and-others.json](./430850-witch-gnomes-faun-and-others.json) |
 | Witch: A Special Delivery | 178071 | [178071-witch-a-special-delivery.json](./178071-witch-a-special-delivery.json) |
 | Witch! | 70854 | [70854-witch.json](./70854-witch.json) |
 | Witch's | 228075 | [228075-witchs.json](./228075-witchs.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Racing | 46923 | [46923-world-tour-racing.json](./46923-world-tour-racing.json) |
+| World Tour Soccer | 22291 | [22291-world-tour-soccer.json](./22291-world-tour-soccer.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
@@ -9959,6 +9962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
 | World War Z: Zeke Hunter Weapons Pack | 224394 | [224394-world-war-z-zeke-hunter-weapons-pack.json](./224394-world-war-z-zeke-hunter-weapons-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
+| World War Zero: Ironstorm | 22286 | [22286-world-war-zero-ironstorm.json](./22286-world-war-zero-ironstorm.json) |
 | World war zombie | 270816 | [270816-world-war-zombie.json](./270816-world-war-zombie.json) |
 | World War: An Age of Industry & Magic | 282195 | [282195-world-war-an-age-of-industry-and-magic.json](./282195-world-war-an-age-of-industry-and-magic.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
