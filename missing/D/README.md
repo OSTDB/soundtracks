@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Raid | 17238 | [17238-dark-raid.json](./17238-dark-raid.json) |
 | Dark Raid: Bot Wars | 60164 | [60164-dark-raid-bot-wars.json](./60164-dark-raid-bot-wars.json) |
 | Dark Rail | 410670 | [410670-dark-rail.json](./410670-dark-rail.json) |
+| Dark Rally | 425014 | [425014-dark-rally.json](./425014-dark-rally.json) |
 | Dark Rampage | 294304 | [294304-dark-rampage.json](./294304-dark-rampage.json) |
 | Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
@@ -5124,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
 | Death Cave | 115267 | [115267-death-cave.json](./115267-death-cave.json) |
 | Death Circus | 339495 | [339495-death-circus.json](./339495-death-circus.json) |
+| Death City | 425012 | [425012-death-city.json](./425012-death-city.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
 | Death Collector | 113128 | [113128-death-collector.json](./113128-death-collector.json) |
@@ -10001,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Saga | 364964 | [364964-dice-saga.json](./364964-dice-saga.json) |
 | Dice Soccer City | 248277 | [248277-dice-soccer-city.json](./248277-dice-soccer-city.json) |
 | Dice Sorcerer | 408456 | [408456-dice-sorcerer.json](./408456-dice-sorcerer.json) |
+| Dice Sort Together: Arcane Hall | 425002 | [425002-dice-sort-together-arcane-hall.json](./425002-dice-sort-together-arcane-hall.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
 | Dice Survivor | 240603 | [240603-dice-survivor.json](./240603-dice-survivor.json) |
 | Dice Tactics | 166900 | [166900-dice-tactics.json](./166900-dice-tactics.json) |
@@ -11463,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
 | Director of Football: Transfer Manager | 429212 | [429212-director-of-football-transfer-manager.json](./429212-director-of-football-transfer-manager.json) |
 | Director Simulator | 309696 | [309696-director-simulator.json](./309696-director-simulator.json) |
+| Director, Please Give More Guidance | 425018 | [425018-director-please-give-more-guidance.json](./425018-director-please-give-more-guidance.json) |
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
@@ -16759,6 +16763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2022 | 165102 | [165102-draft-day-sports-pro-football-2022.json](./165102-draft-day-sports-pro-football-2022.json) |
 | Draft Day Sports: Pro Football 2023 | 220361 | [220361-draft-day-sports-pro-football-2023.json](./220361-draft-day-sports-pro-football-2023.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
+| Draft Day Sports: Pro Football 2025 | 425011 | [425011-draft-day-sports-pro-football-2025.json](./425011-draft-day-sports-pro-football-2025.json) |
 | Draft Day Sports: Pro Football 26 | 375899 | [375899-draft-day-sports-pro-football-26.json](./375899-draft-day-sports-pro-football-26.json) |
 | Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Draft Eleven | 425824 | [425824-draft-eleven.json](./425824-draft-eleven.json) |
@@ -20510,6 +20515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dugeundugeun Dijeoteu Kape | 220287 | [220287-dugeundugeun-dijeoteu-kape.json](./220287-dugeundugeun-dijeoteu-kape.json) |
 | Dugger | 14664 | [14664-dugger.json](./14664-dugger.json) |
 | Duggy | 192071 | [192071-duggy.json](./192071-duggy.json) |
+| Dugout Dice | 425016 | [425016-dugout-dice.json](./425016-dugout-dice.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | DUI | 254360 | [254360-dui.json](./254360-dui.json) |
 | Duì Yǐng Shìjiè | 368465 | [368465-dui-ying-shijie.json](./368465-dui-ying-shijie.json) |
@@ -22256,6 +22262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
 | Dying Noise | 313525 | [313525-dying-noise.json](./313525-dying-noise.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
+| Dying Patience | 425003 | [425003-dying-patience.json](./425003-dying-patience.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying Sun | 332197 | [332197-dying-sun.json](./332197-dying-sun.json) |
 | Dying Under Nightfall | 296871 | [296871-dying-under-nightfall.json](./296871-dying-under-nightfall.json) |
