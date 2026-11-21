@@ -7399,6 +7399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben and Ed | 20176 | [20176-ben-and-ed.json](./20176-ben-and-ed.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben and Holly: Magic School | 90743 | [90743-ben-and-holly-magic-school.json](./90743-ben-and-holly-magic-school.json) |
+| Ben and the Stupendous Turnip Quest | 429180 | [429180-ben-and-the-stupendous-turnip-quest.json](./429180-ben-and-the-stupendous-turnip-quest.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
 | Ben Hur: Blood of Braves | 269362 | [269362-ben-hur-blood-of-braves.json](./269362-ben-hur-blood-of-braves.json) |
@@ -16029,6 +16030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound By Broadcast | 306432 | [306432-bound-by-broadcast.json](./306432-bound-by-broadcast.json) |
 | Bound by Desire | 367203 | [367203-bound-by-desire.json](./367203-bound-by-desire.json) |
 | Bound by Destiny | 415711 | [415711-bound-by-destiny.json](./415711-bound-by-destiny.json) |
+| Bound by Fate: Cursed Soulmates | 429181 | [429181-bound-by-fate-cursed-soulmates.json](./429181-bound-by-fate-cursed-soulmates.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound City | 357519 | [357519-bound-city.json](./357519-bound-city.json) |
