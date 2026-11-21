@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T09:45:55.267Z",
-  "total_soundtracks": 3884,
+  "generated_at": "2026-11-21T10:35:55.768Z",
+  "total_soundtracks": 3885,
   "games": [
     {
       "igdb_id": 292844,
@@ -19779,6 +19779,20 @@
         {
           "album_name": "Hohokum (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1tw5RIi23yCOWlyPKRx8zx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 128050,
+      "game_name": "Hollow Island",
+      "game_url": "https://ostdb.net/games/hollow-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27304f32df468ebee20b444313a",
+      "albums": [
+        {
+          "album_name": "Hollow Island (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3tDEMtmWNt64z9czGS0YMR",
           "apple_music_url": "",
           "album_link_url": ""
         }
