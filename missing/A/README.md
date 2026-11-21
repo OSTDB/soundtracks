@@ -14509,6 +14509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Devastators | 395646 | [395646-arcade-archives-2-devastators.json](./395646-arcade-archives-2-devastators.json) |
+| Arcade Archives 2: Elevator Action | 428001 | [428001-arcade-archives-2-elevator-action.json](./428001-arcade-archives-2-elevator-action.json) |
 | Arcade Archives 2: Fighting Golf | 422766 | [422766-arcade-archives-2-fighting-golf.json](./422766-arcade-archives-2-fighting-golf.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
@@ -19664,6 +19665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Endgames | 253165 | [253165-atlas-endgames.json](./253165-atlas-endgames.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
+| Atlas Fallen: Ruin Rising Pack | 427903 | [427903-atlas-fallen-ruin-rising-pack.json](./427903-atlas-fallen-ruin-rising-pack.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
 | Atlas Falling | 159477 | [159477-atlas-falling.json](./159477-atlas-falling.json) |
 | Atlas Gate | 230483 | [230483-atlas-gate.json](./230483-atlas-gate.json) |
