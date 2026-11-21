@@ -5945,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outergleam | 297974 | [297974-outergleam.json](./297974-outergleam.json) |
 | Outerland | 208156 | [208156-outerland.json](./208156-outerland.json) |
 | Outerlands Guilds | 236140 | [236140-outerlands-guilds.json](./236140-outerlands-guilds.json) |
+| Outernauts | 22273 | [22273-outernauts.json](./22273-outernauts.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
 | Outerra World Sandbox | 223254 | [223254-outerra-world-sandbox.json](./223254-outerra-world-sandbox.json) |
 | OuterRealm | 285888 | [285888-outerrealm.json](./285888-outerrealm.json) |
@@ -6748,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Caliber | 238544 | [238544-oxygen-caliber.json](./238544-oxygen-caliber.json) |
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included | 19542 | [19542-oxygen-not-included.json](./19542-oxygen-not-included.json) |
+| Oxygen Not Included: Classic Critter Cosmetics Pack | 430852 | [430852-oxygen-not-included-classic-critter-cosmetics-pack.json](./430852-oxygen-not-included-classic-critter-cosmetics-pack.json) |
 | Oxygen Not Included: Spaced Out! | 145292 | [145292-oxygen-not-included-spaced-out.json](./145292-oxygen-not-included-spaced-out.json) |
 | Oxygen Not Included: The Aquatic Planet Pack | 404459 | [404459-oxygen-not-included-the-aquatic-planet-pack.json](./404459-oxygen-not-included-the-aquatic-planet-pack.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
