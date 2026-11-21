@@ -5488,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitewater Rapids | 205838 | [205838-whitewater-rapids.json](./205838-whitewater-rapids.json) |
 | Whitewater VR: Extreme Kayaking Adventure | 244388 | [244388-whitewater-vr-extreme-kayaking-adventure.json](./244388-whitewater-vr-extreme-kayaking-adventure.json) |
 | Whitewater Wipeout | 151817 | [151817-whitewater-wipeout.json](./151817-whitewater-wipeout.json) |
+| Whitopia | 422628 | [422628-whitopia.json](./422628-whitopia.json) |
 | Whittingham Asylum: The Investigation | 258114 | [258114-whittingham-asylum-the-investigation.json](./258114-whittingham-asylum-the-investigation.json) |
 | Whiz Kid | 292783 | [292783-whiz-kid.json](./292783-whiz-kid.json) |
 | Whiz Racer | 180031 | [180031-whiz-racer.json](./180031-whiz-racer.json) |
