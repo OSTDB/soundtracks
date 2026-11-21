@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Blood Stone | 1648 | [1648-james-bond-007-blood-stone.json](./1648-james-bond-007-blood-stone.json) |
 | James Bond 007: Blood Stone | 84997 | [84997-james-bond-007-blood-stone.json](./84997-james-bond-007-blood-stone.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
+| James Bond 007: Everything or Nothing | 243013 | [243013-james-bond-007-everything-or-nothing.json](./243013-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: From Russia with Love | 248548 | [248548-james-bond-007-from-russia-with-love.json](./248548-james-bond-007-from-russia-with-love.json) |
 | James Bond 007: Goldfinger | 1633 | [1633-james-bond-007-goldfinger.json](./1633-james-bond-007-goldfinger.json) |
