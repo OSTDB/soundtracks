@@ -5995,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agnry Faic 2 | 407670 | [407670-agnry-faic-2.json](./407670-agnry-faic-2.json) |
+| Agon: The Mysterious Codex | 24272 | [24272-agon-the-mysterious-codex.json](./24272-agon-the-mysterious-codex.json) |
 | Agon: The Mysterious Codex - Episode 1: London Scene | 79052 | [79052-agon-the-mysterious-codex-episode-1-london-scene.json](./79052-agon-the-mysterious-codex-episode-1-london-scene.json) |
 | Agon: The Mysterious Codex - Episode 2: Adventures in Lapland | 70238 | [70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json](./70238-agon-the-mysterious-codex-episode-2-adventures-in-lapland.json) |
 | Agon: The Mysterious Codex - Episode 3: Pirates of Madagascar | 73609 | [73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json](./73609-agon-the-mysterious-codex-episode-3-pirates-of-madagascar.json) |
@@ -6737,6 +6738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airforce Delta | 3710 | [3710-airforce-delta.json](./3710-airforce-delta.json) |
 | Airforce Delta | 47285 | [47285-airforce-delta.json](./47285-airforce-delta.json) |
 | AirForce Delta Storm | 5718 | [5718-airforce-delta-storm.json](./5718-airforce-delta-storm.json) |
+| AirForce Delta Strike | 24187 | [24187-airforce-delta-strike.json](./24187-airforce-delta-strike.json) |
 | Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
 | Airglow | 119496 | [119496-airglow.json](./119496-airglow.json) |
 | Airgrave | 43804 | [43804-airgrave.json](./43804-airgrave.json) |
@@ -8072,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bastards! | 143536 | [143536-alien-bastards.json](./143536-alien-bastards.json) |
 | Alien Battle Champions | 265784 | [265784-alien-battle-champions.json](./265784-alien-battle-champions.json) |
 | Alien Battlefield | 232940 | [232940-alien-battlefield.json](./232940-alien-battlefield.json) |
+| Alien Blast: The Encounter | 24188 | [24188-alien-blast-the-encounter.json](./24188-alien-blast-the-encounter.json) |
 | Alien Blaster | 180585 | [180585-alien-blaster.json](./180585-alien-blaster.json) |
 | Alien Blitz | 33745 | [33745-alien-blitz.json](./33745-alien-blitz.json) |
 | Alien Block | 328425 | [328425-alien-block.json](./328425-alien-block.json) |
