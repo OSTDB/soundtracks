@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack troubles | 128310 | [128310-jack-troubles.json](./128310-jack-troubles.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack Walker: Ethereal | 158332 | [158332-jack-walker-ethereal.json](./158332-jack-walker-ethereal.json) |
+| Jack-In-A-Castle | 118440 | [118440-jack-in-a-castle.json](./118440-jack-in-a-castle.json) |
 | Jack-O-Lantern Covers of Darkness | 127383 | [127383-jack-o-lantern-covers-of-darkness.json](./127383-jack-o-lantern-covers-of-darkness.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's 510 Racing | 372608 | [372608-jacks-510-racing.json](./372608-jacks-510-racing.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
 | Jump Force: Collector's Edition | 136049 | [136049-jump-force-collectors-edition.json](./136049-jump-force-collectors-edition.json) |
+| Jump Force: Deluxe Edition | 118748 | [118748-jump-force-deluxe-edition.json](./118748-jump-force-deluxe-edition.json) |
 | Jump Force: Ultimate Edition | 118721 | [118721-jump-force-ultimate-edition.json](./118721-jump-force-ultimate-edition.json) |
 | Jump Frog | 246343 | [246343-jump-frog.json](./246343-jump-frog.json) |
 | Jump Frog | 372402 | [372402-jump-frog.json](./372402-jump-frog.json) |
