@@ -2256,9 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kettei-ban | 229574 | [229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json](./229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 10 | 92692 | [92692-jikkyou-pawafuru-puroyakyu-10.json](./92692-jikkyou-pawafuru-puroyakyu-10.json) |
-| Jikkyou Pawafuru Puroyakyu 10: Chou Kettei-ban - 2003 Memorial | 124492 | [124492-jikkyou-pawafuru-puroyakyu-10-chou-kettei-ban-2003-memorial.json](./124492-jikkyou-pawafuru-puroyakyu-10-chou-kettei-ban-2003-memorial.json) |
 | Jikkyou Pawafuru Puroyakyu 11 | 92693 | [92693-jikkyou-pawafuru-puroyakyu-11.json](./92693-jikkyou-pawafuru-puroyakyu-11.json) |
-| Jikkyou Pawafuru Puroyakyu 11: Chou Kettei-ban | 124493 | [124493-jikkyou-pawafuru-puroyakyu-11-chou-kettei-ban.json](./124493-jikkyou-pawafuru-puroyakyu-11-chou-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 12 | 124494 | [124494-jikkyou-pawafuru-puroyakyu-12.json](./124494-jikkyou-pawafuru-puroyakyu-12.json) |
 | Jikkyou Pawafuru Puroyakyu 12: Kettei-ban | 229545 | [229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json](./229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
@@ -2296,7 +2294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
 | Jikkyou Pawafuru Puroyakyu 8: Kettei-ban | 229543 | [229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json](./229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 9 | 92694 | [92694-jikkyou-pawafuru-puroyakyu-9.json](./92694-jikkyou-pawafuru-puroyakyu-9.json) |
-| Jikkyou Pawafuru Puroyakyu 9: Kettei-ban | 124495 | [124495-jikkyou-pawafuru-puroyakyu-9-kettei-ban.json](./124495-jikkyou-pawafuru-puroyakyu-9-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Heroes | 57868 | [57868-jikkyou-pawafuru-puroyakyu-heroes.json](./57868-jikkyou-pawafuru-puroyakyu-heroes.json) |
 | Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
