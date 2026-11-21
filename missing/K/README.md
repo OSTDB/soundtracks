@@ -163,7 +163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kadu Bird | 269922 | [269922-kadu-bird.json](./269922-kadu-bird.json) |
 | Kaebon | 424691 | [424691-kaebon.json](./424691-kaebon.json) |
 | Kaede Doori: Brand New Days Innocent | 413053 | [413053-kaede-doori-brand-new-days-innocent.json](./413053-kaede-doori-brand-new-days-innocent.json) |
-| Kaede the Eliminator | 123467 | [123467-kaede-the-eliminator.json](./123467-kaede-the-eliminator.json) |
 | Kaelaverse: Pemascape | 364463 | [364463-kaelaverse-pemascape.json](./364463-kaelaverse-pemascape.json) |
 | Kaen no Seito | 308878 | [308878-kaen-no-seito.json](./308878-kaen-no-seito.json) |
 | Kaen Seibo: The Virgin on Megiddo | 70269 | [70269-kaen-seibo-the-virgin-on-megiddo.json](./70269-kaen-seibo-the-virgin-on-megiddo.json) |
@@ -1073,7 +1072,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Studio Senyou Cassette Vol. 2 | 267751 | [267751-karaoke-studio-senyou-cassette-vol-2.json](./267751-karaoke-studio-senyou-cassette-vol-2.json) |
 | Karapath | 217091 | [217091-karapath.json](./217091-karapath.json) |
 | Karapuchi | 82581 | [82581-karapuchi.json](./82581-karapuchi.json) |
-| Karar X | 123725 | [123725-karar-x.json](./123725-karar-x.json) |
 | Karaski: What Goes Up... | 33962 | [33962-karaski-what-goes-up.json](./33962-karaski-what-goes-up.json) |
 | Karasu Meltdown! | 277166 | [277166-karasu-meltdown.json](./277166-karasu-meltdown.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
@@ -1081,7 +1079,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Beasts | 215591 | [215591-karate-beasts.json](./215591-karate-beasts.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Bros | 336067 | [336067-karate-bros.json](./336067-karate-bros.json) |
-| Karate Cat | 122815 | [122815-karate-cat.json](./122815-karate-cat.json) |
 | Karate Challenge | 421220 | [421220-karate-challenge.json](./421220-karate-challenge.json) |
 | Karate Champ | 25835 | [25835-karate-champ.json](./25835-karate-champ.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
@@ -2682,7 +2679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Giren no Yabou - Kouryaku Shireisho | 176117 | [176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json](./176117-kidou-senshi-gundam-giren-no-yabou-kouryaku-shireisho.json) |
 | Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha | 37367 | [37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json](./37367-kidou-senshi-gundam-giren-no-yabou-tokubetsu-hen-aokisei-no-hasha.json) |
 | Kidou Senshi Gundam: Gundam vs. Gundam | 269497 | [269497-kidou-senshi-gundam-gundam-vs-gundam.json](./269497-kidou-senshi-gundam-gundam-vs-gundam.json) |
-| Kidou Senshi Gundam: Gundam vs. Z Gundam | 123341 | [123341-kidou-senshi-gundam-gundam-vs-z-gundam.json](./123341-kidou-senshi-gundam-gundam-vs-z-gundam.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
 | Kidou Senshi Gundam: Sokuou Sensen | 109139 | [109139-kidou-senshi-gundam-sokuou-sensen.json](./109139-kidou-senshi-gundam-sokuou-sensen.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
@@ -5211,7 +5207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
-| Knight Swap | 123717 | [123717-knight-swap.json](./123717-knight-swap.json) |
 | Knight Swap 2 | 127417 | [127417-knight-swap-2.json](./127417-knight-swap-2.json) |
 | Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
