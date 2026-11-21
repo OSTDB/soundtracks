@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heroes: Tremor Trouble | 209432 | [209432-rescue-heroes-tremor-trouble.json](./209432-rescue-heroes-tremor-trouble.json) |
 | Rescue HQ: The Tycoon | 118670 | [118670-rescue-hq-the-tycoon.json](./118670-rescue-hq-the-tycoon.json) |
 | Rescue HQ: The Tycoon - Coastguard | 155039 | [155039-rescue-hq-the-tycoon-coastguard.json](./155039-rescue-hq-the-tycoon-coastguard.json) |
+| Rescue Incoming | 423818 | [423818-rescue-incoming.json](./423818-rescue-incoming.json) |
 | Rescue Love Revenge | 34576 | [34576-rescue-love-revenge.json](./34576-rescue-love-revenge.json) |
 | Rescue Lucy | 32587 | [32587-rescue-lucy.json](./32587-rescue-lucy.json) |
 | Rescue Lucy 2 | 121098 | [121098-rescue-lucy-2.json](./121098-rescue-lucy-2.json) |
