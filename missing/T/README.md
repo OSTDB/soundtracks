@@ -2819,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taras Bulba and Platforms of Hoolion | 55350 | [55350-taras-bulba-and-platforms-of-hoolion.json](./55350-taras-bulba-and-platforms-of-hoolion.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Tarde Animada | 296113 | [296113-tarde-animada.json](./296113-tarde-animada.json) |
+| TardiGeddon | 425629 | [425629-tardigeddon.json](./425629-tardigeddon.json) |
 | Tardigrade Planet: The Legend of the Strongest Mascot in the Universe | 346011 | [346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json](./346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json) |
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
@@ -4864,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teppo and The Secret Ancient City | 283231 | [283231-teppo-and-the-secret-ancient-city.json](./283231-teppo-and-the-secret-ancient-city.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
 | Tequila & Boom Boom | 77398 | [77398-tequila-and-boom-boom.json](./77398-tequila-and-boom-boom.json) |
+| Tequila Moonrise | 425630 | [425630-tequila-moonrise.json](./425630-tequila-moonrise.json) |
 | Tequila Sunrise | 135821 | [135821-tequila-sunrise.json](./135821-tequila-sunrise.json) |
 | Tequila Zombies | 93552 | [93552-tequila-zombies.json](./93552-tequila-zombies.json) |
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
@@ -12935,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Initiation | 345128 | [345128-the-initiation.json](./345128-the-initiation.json) |
 | The Ink Tower | 421315 | [421315-the-ink-tower.json](./421315-the-ink-tower.json) |
 | The Inkspire | 416676 | [416676-the-inkspire.json](./416676-the-inkspire.json) |
+| The Inkwell | 425631 | [425631-the-inkwell.json](./425631-the-inkwell.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
 | The Inn at Nightfall | 279840 | [279840-the-inn-at-nightfall.json](./279840-the-inn-at-nightfall.json) |
@@ -13415,6 +13418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
 | The King Lion III 2003 Advance | 343002 | [343002-the-king-lion-iii-2003-advance.json](./343002-the-king-lion-iii-2003-advance.json) |
+| The King Must Grow | 425502 | [425502-the-king-must-grow.json](./425502-the-king-must-grow.json) |
 | The King of Alzoria | 276724 | [276724-the-king-of-alzoria.json](./276724-the-king-of-alzoria.json) |
 | The King of Beasts | 345075 | [345075-the-king-of-beasts.json](./345075-the-king-of-beasts.json) |
 | The King of Cats | 238384 | [238384-the-king-of-cats.json](./238384-the-king-of-cats.json) |
@@ -15051,6 +15055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Cuttle Goes to Battle | 211595 | [211595-the-little-cuttle-goes-to-battle.json](./211595-the-little-cuttle-goes-to-battle.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
+| The Little Four | 425483 | [425483-the-little-four.json](./425483-the-little-four.json) |
 | The Little Fox | 103096 | [103096-the-little-fox.json](./103096-the-little-fox.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
 | The Little Gnomes: The Secret of the Magical Forest | 328719 | [328719-the-little-gnomes-the-secret-of-the-magical-forest.json](./328719-the-little-gnomes-the-secret-of-the-magical-forest.json) |
@@ -37646,6 +37651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf War | 194808 | [194808-turf-war.json](./194808-turf-war.json) |
 | Turf Wars | 54639 | [54639-turf-wars.json](./54639-turf-wars.json) |
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
+| Turfagon | 425627 | [425627-turfagon.json](./425627-turfagon.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turgul: Rapid Fighting | 31028 | [31028-turgul-rapid-fighting.json](./31028-turgul-rapid-fighting.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
@@ -38118,6 +38124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
 | Twilight Survivors | 285351 | [285351-twilight-survivors.json](./285351-twilight-survivors.json) |
 | Twilight Syndicate | 359159 | [359159-twilight-syndicate.json](./359159-twilight-syndicate.json) |
+| Twilight Syndrome i | 425513 | [425513-twilight-syndrome-i.json](./425513-twilight-syndrome-i.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Special | 59667 | [59667-twilight-syndrome-special.json](./59667-twilight-syndrome-special.json) |
