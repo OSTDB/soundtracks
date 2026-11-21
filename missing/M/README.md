@@ -18090,6 +18090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross: The Official Videogame 2 | 111041 | [111041-monster-energy-supercross-the-official-videogame-2.json](./111041-monster-energy-supercross-the-official-videogame-2.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Los Angeles Memorial Coliseum | 154461 | [154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json](./154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Monster Energy Cup | 154459 | [154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json](./154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json) |
+| Monster Energy Supercross: The Official Videogame 2 - Special Edition | 118906 | [118906-monster-energy-supercross-the-official-videogame-2-special-edition.json](./118906-monster-energy-supercross-the-official-videogame-2-special-edition.json) |
 | Monster Energy Supercross: The Official Videogame 2 - The Playground | 154460 | [154460-monster-energy-supercross-the-official-videogame-2-the-playground.json](./154460-monster-energy-supercross-the-official-videogame-2-the-playground.json) |
 | Monster Energy Supercross: The Official Videogame 3 | 128465 | [128465-monster-energy-supercross-the-official-videogame-3.json](./128465-monster-energy-supercross-the-official-videogame-3.json) |
 | Monster Energy Supercross: The Official Videogame 3 - Great Legends | 170944 | [170944-monster-energy-supercross-the-official-videogame-3-great-legends.json](./170944-monster-energy-supercross-the-official-videogame-3-great-legends.json) |
@@ -18809,6 +18810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Mess | 232739 | [232739-monsters-mess.json](./232739-monsters-mess.json) |
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
+| Monsters of Little Haven | 119454 | [119454-monsters-of-little-haven.json](./119454-monsters-of-little-haven.json) |
 | Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
 | Monsters of Moldred | 310265 | [310265-monsters-of-moldred.json](./310265-monsters-of-moldred.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
@@ -19713,6 +19715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Star | 427314 | [427314-morning-star.json](./427314-morning-star.json) |
 | Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
 | Morning's Wrath | 72259 | [72259-mornings-wrath.json](./72259-mornings-wrath.json) |
+| Morningdew Farms: A Gay Farming Game | 118602 | [118602-morningdew-farms-a-gay-farming-game.json](./118602-morningdew-farms-a-gay-farming-game.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
 | Morningstar | 254446 | [254446-morningstar.json](./254446-morningstar.json) |
