@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Ballsy! World Cup 2020 | 143800 | [143800-ballsy-world-cup-2020.json](./143800-ballsy-world-cup-2020.json) |
+| BallSZN | 427341 | [427341-ballszn.json](./427341-ballszn.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
 | Balltris | 119291 | [119291-balltris.json](./119291-balltris.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
@@ -15267,6 +15268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
+| BoosterWare | 427350 | [427350-boosterware.json](./427350-boosterware.json) |
 | BoostHead | 247709 | [247709-boosthead.json](./247709-boosthead.json) |
 | Boostrush | 363094 | [363094-boostrush.json](./363094-boostrush.json) |
 | Boosty Bot | 24473 | [24473-boosty-bot.json](./24473-boosty-bot.json) |
@@ -18160,6 +18162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
 | BrikGames | 400690 | [400690-brikgames.json](./400690-brikgames.json) |
+| Brikk | 427432 | [427432-brikk.json](./427432-brikk.json) |
 | Briko | 303125 | [303125-briko.json](./303125-briko.json) |
 | Briks | 99505 | [99505-briks.json](./99505-briks.json) |
 | Briks 2 | 89668 | [89668-briks-2.json](./89668-briks-2.json) |
