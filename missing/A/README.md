@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Gameshop | 419554 | [419554-abandoned-gameshop.json](./419554-abandoned-gameshop.json) |
 | Abandoned Hearts | 427596 | [427596-abandoned-hearts.json](./427596-abandoned-hearts.json) |
 | Abandoned Hospital | 377426 | [377426-abandoned-hospital.json](./377426-abandoned-hospital.json) |
+| Abandoned Hospital Patrol | 425507 | [425507-abandoned-hospital-patrol.json](./425507-abandoned-hospital-patrol.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Hut | 303117 | [303117-abandoned-hut.json](./303117-abandoned-hut.json) |
 | Abandoned Knight | 33508 | [33508-abandoned-knight.json](./33508-abandoned-knight.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoning Spies | 260616 | [260616-abandoning-spies.json](./260616-abandoning-spies.json) |
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abandonware | 256380 | [256380-abandonware.json](./256380-abandonware.json) |
+| Abanto | 425645 | [425645-abanto.json](./425645-abanto.json) |
 | Abarehateta Byouin kara no Dasshutsu | 279198 | [279198-abarehateta-byouin-kara-no-dasshutsu.json](./279198-abarehateta-byouin-kara-no-dasshutsu.json) |
 | Abarenbo Tengu & Zombie Nation | 172796 | [172796-abarenbo-tengu-and-zombie-nation.json](./172796-abarenbo-tengu-and-zombie-nation.json) |
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
