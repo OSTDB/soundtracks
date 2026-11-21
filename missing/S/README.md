@@ -4162,6 +4162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapbooking | 270909 | [270909-scrapbooking.json](./270909-scrapbooking.json) |
 | Scrapbooking Story | 399679 | [399679-scrapbooking-story.json](./399679-scrapbooking-story.json) |
 | Scrapborne | 392605 | [392605-scrapborne.json](./392605-scrapborne.json) |
+| Scrapbot Arena | 427434 | [427434-scrapbot-arena.json](./427434-scrapbot-arena.json) |
 | Scrapbox | 371878 | [371878-scrapbox.json](./371878-scrapbox.json) |
 | Scrapchasers | 258578 | [258578-scrapchasers.json](./258578-scrapchasers.json) |
 | ScrapCrew: Running on Fumes | 418623 | [418623-scrapcrew-running-on-fumes.json](./418623-scrapcrew-running-on-fumes.json) |
@@ -4331,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribble It!: Premium Edition | 254083 | [254083-scribble-it-premium-edition.json](./254083-scribble-it-premium-edition.json) |
 | Scribble Ships | 30801 | [30801-scribble-ships.json](./30801-scribble-ships.json) |
 | Scribble Space | 35711 | [35711-scribble-space.json](./35711-scribble-space.json) |
+| Scribble Tanks | 427335 | [427335-scribble-tanks.json](./427335-scribble-tanks.json) |
 | Scribble Wolf | 368812 | [368812-scribble-wolf.json](./368812-scribble-wolf.json) |
 | Scribble Worm | 259076 | [259076-scribble-worm.json](./259076-scribble-worm.json) |
 | Scribble+ | 113498 | [113498-scribble.json](./113498-scribble.json) |
@@ -5731,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Dawn: Free to Play Edition | 111224 | [111224-seeking-dawn-free-to-play-edition.json](./111224-seeking-dawn-free-to-play-edition.json) |
 | Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
+| Seeking Home | 427453 | [427453-seeking-home.json](./427453-seeking-home.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Light: Chapter 1 | 284277 | [284277-seeking-light-chapter-1.json](./284277-seeking-light-chapter-1.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
@@ -10940,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shortcircuit | 424685 | [424685-shortcircuit.json](./424685-shortcircuit.json) |
 | ShortCircuit | 254201 | [254201-shortcircuit.json](./254201-shortcircuit.json) |
 | Shortcut Run | 318265 | [318265-shortcut-run.json](./318265-shortcut-run.json) |
+| Shorted | 427351 | [427351-shorted.json](./427351-shorted.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
 | Shorticulture | 285614 | [285614-shorticulture.json](./285614-shorticulture.json) |
@@ -18589,6 +18593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccering | 115041 | [115041-soccering.json](./115041-soccering.json) |
 | Soccertron | 11132 | [11132-soccertron.json](./11132-soccertron.json) |
 | Soccerverse | 224165 | [224165-soccerverse.json](./224165-soccerverse.json) |
+| Soccerwarz | 427441 | [427441-soccerwarz.json](./427441-soccerwarz.json) |
 | Sociable Soccer | 14713 | [14713-sociable-soccer.json](./14713-sociable-soccer.json) |
 | Sociable Soccer 24 | 264200 | [264200-sociable-soccer-24.json](./264200-sociable-soccer-24.json) |
 | Sociable Soccer 25 | 324603 | [324603-sociable-soccer-25.json](./324603-sociable-soccer-25.json) |
@@ -19330,6 +19335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Dash | 255169 | [255169-solitaire-dash.json](./255169-solitaire-dash.json) |
 | Solitaire Dash TriPeaks Islands | 95846 | [95846-solitaire-dash-tripeaks-islands.json](./95846-solitaire-dash-tripeaks-islands.json) |
 | Solitaire de Kenshou | 220325 | [220325-solitaire-de-kenshou.json](./220325-solitaire-de-kenshou.json) |
+| Solitaire Deal | 427435 | [427435-solitaire-deal.json](./427435-solitaire-deal.json) |
 | Solitaire Deck | 406122 | [406122-solitaire-deck.json](./406122-solitaire-deck.json) |
 | Solitaire Deluxe | 70257 | [70257-solitaire-deluxe.json](./70257-solitaire-deluxe.json) |
 | Solitaire Deluxe 2 | 88855 | [88855-solitaire-deluxe-2.json](./88855-solitaire-deluxe-2.json) |
