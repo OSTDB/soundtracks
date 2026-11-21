@@ -2190,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
 | Hard Night VR | 153370 | [153370-hard-night-vr.json](./153370-hard-night-vr.json) |
 | Hard Nova | 73600 | [73600-hard-nova.json](./73600-hard-nova.json) |
+| Hard Nut | 427450 | [427450-hard-nut.json](./427450-hard-nut.json) |
 | Hard Nut to Crack | 314148 | [314148-hard-nut-to-crack.json](./314148-hard-nut-to-crack.json) |
 | Hard Office | 130628 | [130628-hard-office.json](./130628-hard-office.json) |
 | Hard Parking | 309784 | [309784-hard-parking.json](./309784-hard-parking.json) |
@@ -13377,6 +13378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huáng Yì Qúnxiá Zhuàn M | 157281 | [157281-huang-yi-qunxia-zhuan-m.json](./157281-huang-yi-qunxia-zhuan-m.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
+| Huangmei C | 427334 | [427334-huangmei-c.json](./427334-huangmei-c.json) |
 | Huāngyě Rìjì: Gūdǎo | 283413 | [283413-huangye-riji-gudao.json](./283413-huangye-riji-gudao.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huànshì Qíngyuán | 102971 | [102971-huanshi-qingyuan.json](./102971-huanshi-qingyuan.json) |
