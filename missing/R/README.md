@@ -13753,6 +13753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
+| Rugrats in Paris: The Movie | 421511 | [421511-rugrats-in-paris-the-movie.json](./421511-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
 | Rugrats Totally Angelica Boredom Buster | 78555 | [78555-rugrats-totally-angelica-boredom-buster.json](./78555-rugrats-totally-angelica-boredom-buster.json) |
 | Rugrats: Adventures in Gameland | 264302 | [264302-rugrats-adventures-in-gameland.json](./264302-rugrats-adventures-in-gameland.json) |
