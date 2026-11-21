@@ -428,7 +428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
 | Race Pro | 7151 | [7151-race-pro.json](./7151-race-pro.json) |
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
-| Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race Rally 3D | 90293 | [90293-race-rally-3d.json](./90293-race-rally-3d.json) |
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
@@ -1631,7 +1630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
 | Raincouver | 328432 | [328432-raincouver.json](./328432-raincouver.json) |
-| Raindancer | 125396 | [125396-raindancer.json](./125396-raindancer.json) |
 | Raindrop Sprinters | 259612 | [259612-raindrop-sprinters.json](./259612-raindrop-sprinters.json) |
 | Raindrop Umbrella | 238780 | [238780-raindrop-umbrella.json](./238780-raindrop-umbrella.json) |
 | Raindrops | 133482 | [133482-raindrops.json](./133482-raindrops.json) |
@@ -5332,7 +5330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Bullets | 35604 | [35604-reign-of-bullets.json](./35604-reign-of-bullets.json) |
 | Reign of Cats | 312774 | [312774-reign-of-cats.json](./312774-reign-of-cats.json) |
-| Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Dwarf | 207622 | [207622-reign-of-dwarf.json](./207622-reign-of-dwarf.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
 | Reign of Fire | 4086 | [4086-reign-of-fire.json](./4086-reign-of-fire.json) |
@@ -6834,7 +6831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved | 55757 | [55757-rethink-evolved.json](./55757-rethink-evolved.json) |
 | ReThink \| Evolved 2 | 95206 | [95206-rethink-evolved-2.json](./95206-rethink-evolved-2.json) |
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
-| ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink \| Evolved 6 | 398607 | [398607-rethink-evolved-6.json](./398607-rethink-evolved-6.json) |
 | ReThink 2 | 109380 | [109380-rethink-2.json](./109380-rethink-2.json) |
@@ -9196,7 +9192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Storm 2: Vietnam - Green Army Men | 164648 | [164648-rising-storm-2-vietnam-green-army-men.json](./164648-rising-storm-2-vietnam-green-army-men.json) |
 | Rising Storm: Game of the Year Edition | 53518 | [53518-rising-storm-game-of-the-year-edition.json](./53518-rising-storm-game-of-the-year-edition.json) |
 | Rising Storm/Red Orchestra 2 Multiplayer | 93834 | [93834-rising-storm-red-orchestra-2-multiplayer.json](./93834-rising-storm-red-orchestra-2-multiplayer.json) |
-| Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Sun VR | 193125 | [193125-rising-sun-vr.json](./193125-rising-sun-vr.json) |
 | Rising Sun: Imperial Strike | 80296 | [80296-rising-sun-imperial-strike.json](./80296-rising-sun-imperial-strike.json) |
@@ -13681,7 +13676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
-| Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
 | Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
@@ -13703,7 +13697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby League Team Manager 2015 | 35315 | [35315-rugby-league-team-manager-2015.json](./35315-rugby-league-team-manager-2015.json) |
 | Rugby League Team Manager 2018 | 68707 | [68707-rugby-league-team-manager-2018.json](./68707-rugby-league-team-manager-2018.json) |
-| Rugby League Team Manager 3 | 128263 | [128263-rugby-league-team-manager-3.json](./128263-rugby-league-team-manager-3.json) |
 | Rugby League Team Manager 4 | 324617 | [324617-rugby-league-team-manager-4.json](./324617-rugby-league-team-manager-4.json) |
 | Rugby Manager | 126086 | [126086-rugby-manager.json](./126086-rugby-manager.json) |
 | Rugby Nations 15 | 194164 | [194164-rugby-nations-15.json](./194164-rugby-nations-15.json) |
@@ -13742,7 +13735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugrats: I Gotta Go Party | 2794 | [2794-rugrats-i-gotta-go-party.json](./2794-rugrats-i-gotta-go-party.json) |
 | Rugrats: Match-Master | 273878 | [273878-rugrats-match-master.json](./273878-rugrats-match-master.json) |
 | Rugrats: Retro Rewind Collection | 399837 | [399837-rugrats-retro-rewind-collection.json](./399837-rugrats-retro-rewind-collection.json) |
-| Rugrats: Royal Ransom | 2793 | [2793-rugrats-royal-ransom.json](./2793-rugrats-royal-ransom.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Rugrats: Studio Tour | 2788 | [2788-rugrats-studio-tour.json](./2788-rugrats-studio-tour.json) |
 | Rugrats: Time Travelers | 2791 | [2791-rugrats-time-travelers.json](./2791-rugrats-time-travelers.json) |
