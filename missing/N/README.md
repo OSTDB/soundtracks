@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Reception | 331610 | [331610-night-reception.json](./331610-night-reception.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
+| Night Revenge | 427451 | [427451-night-revenge.json](./427451-night-revenge.json) |
 | Night Road | 131837 | [131837-night-road.json](./131837-night-road.json) |
 | Night Rogue | 149142 | [149142-night-rogue.json](./149142-night-rogue.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
@@ -6441,6 +6442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Alien Dating Allowed! | 382481 | [382481-no-alien-dating-allowed.json](./382481-no-alien-dating-allowed.json) |
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
+| No Asteroids | 427422 | [427422-no-asteroids.json](./427422-no-asteroids.json) |
 | No Backup | 383315 | [383315-no-backup.json](./383315-no-backup.json) |
 | No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
 | No Balls Allowed | 427256 | [427256-no-balls-allowed.json](./427256-no-balls-allowed.json) |
