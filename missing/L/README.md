@@ -2217,7 +2217,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear: Inheritance | 20907 | [20907-layers-of-fear-inheritance.json](./20907-layers-of-fear-inheritance.json) |
 | Layers of Fear: Legacy | 68161 | [68161-layers-of-fear-legacy.json](./68161-layers-of-fear-legacy.json) |
 | Layers of Fear: Masterpiece Edition | 23177 | [23177-layers-of-fear-masterpiece-edition.json](./23177-layers-of-fear-masterpiece-edition.json) |
-| Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
 | Layers of Fear: The Final Masterpiece Edition | 385133 | [385133-layers-of-fear-the-final-masterpiece-edition.json](./385133-layers-of-fear-the-final-masterpiece-edition.json) |
 | Layers of the Machine | 119794 | [119794-layers-of-the-machine.json](./119794-layers-of-the-machine.json) |
 | Layerworld | 189018 | [189018-layerworld.json](./189018-layerworld.json) |
@@ -3456,7 +3455,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
 | Legion | 94810 | [94810-legion.json](./94810-legion.json) |
-| Legion 51 | 123916 | [123916-legion-51.json](./123916-legion-51.json) |
 | Legion Adventure | 348992 | [348992-legion-adventure.json](./348992-legion-adventure.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
@@ -9101,7 +9099,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loss Prevention | 389237 | [389237-loss-prevention.json](./389237-loss-prevention.json) |
 | Lost | 10226 | [10226-lost.json](./10226-lost.json) |
 | Lost | 120010 | [120010-lost.json](./120010-lost.json) |
-| Lost | 124219 | [124219-lost.json](./124219-lost.json) |
 | Lost | 139715 | [139715-lost.json](./139715-lost.json) |
 | Lost | 150342 | [150342-lost.json](./150342-lost.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
