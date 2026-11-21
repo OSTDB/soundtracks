@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Happy Restaurant | 319241 | [319241-we-happy-restaurant.json](./319241-we-happy-restaurant.json) |
 | We Harvest Shadows | 314241 | [314241-we-harvest-shadows.json](./314241-we-harvest-shadows.json) |
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
+| We Have a Sheep Problem | 429611 | [429611-we-have-a-sheep-problem.json](./429611-we-have-a-sheep-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
 | We Have To Let You Go | 350779 | [350779-we-have-to-let-you-go.json](./350779-we-have-to-let-you-go.json) |
@@ -7819,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard's Legacy | 311560 | [311560-wizards-legacy.json](./311560-wizards-legacy.json) |
 | Wizard's Oblation | 374016 | [374016-wizards-oblation.json](./374016-wizards-oblation.json) |
 | Wizard's Owl: Magic Delivery | 259110 | [259110-wizards-owl-magic-delivery.json](./259110-wizards-owl-magic-delivery.json) |
+| Wizard’s Path: Palette of Spells | 429539 | [429539-wizard-s-path-palette-of-spells.json](./429539-wizard-s-path-palette-of-spells.json) |
 | Wizard's Quest | 148818 | [148818-wizards-quest.json](./148818-wizards-quest.json) |
 | Wizard's Symphony | 96111 | [96111-wizards-symphony.json](./96111-wizards-symphony.json) |
 | Wizard's Terror | 176253 | [176253-wizards-terror.json](./176253-wizards-terror.json) |
