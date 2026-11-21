@@ -5068,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightbloom | 138110 | [138110-nightbloom.json](./138110-nightbloom.json) |
 | Nightboarder | 179031 | [179031-nightboarder.json](./179031-nightboarder.json) |
 | Nightborn | 332191 | [332191-nightborn.json](./332191-nightborn.json) |
+| Nightbound | 427913 | [427913-nightbound.json](./427913-nightbound.json) |
 | Nightbrats | 423379 | [423379-nightbrats.json](./423379-nightbrats.json) |
 | NightBreak | 350315 | [350315-nightbreak.json](./350315-nightbreak.json) |
 | Nightbreed: The Action Game | 15269 | [15269-nightbreed-the-action-game.json](./15269-nightbreed-the-action-game.json) |
@@ -7328,6 +7329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Noko Must Die | 307544 | [307544-noko-must-die.json](./307544-noko-must-die.json) |
+| Noko's Noodles | 427914 | [427914-nokos-noodles.json](./427914-nokos-noodles.json) |
 | Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
 | Nokta | 188171 | [188171-nokta.json](./188171-nokta.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
