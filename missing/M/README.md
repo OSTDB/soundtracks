@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
 | Mafia: Definitive Edition - Chicago Outfit Pack | 392531 | [392531-mafia-definitive-edition-chicago-outfit-pack.json](./392531-mafia-definitive-edition-chicago-outfit-pack.json) |
 | Mafia: Family's Secret | 186693 | [186693-mafia-familys-secret.json](./186693-mafia-familys-secret.json) |
+| Mafia: Night Falls | 422866 | [422866-mafia-night-falls.json](./422866-mafia-night-falls.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Gatto Nero Pack | 360468 | [360468-mafia-the-old-country-gatto-nero-pack.json](./360468-mafia-the-old-country-gatto-nero-pack.json) |
 | Mafia: The Old Country - Man of Honor | 404700 | [404700-mafia-the-old-country-man-of-honor.json](./404700-mafia-the-old-country-man-of-honor.json) |
@@ -5445,7 +5446,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Tokon: Fighting Souls - Storm Punk Rock Costume | 414773 | [414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json](./414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json) |
 | Marvel Tokon: Fighting Souls - Ultimate Edition | 405239 | [405239-marvel-tokon-fighting-souls-ultimate-edition.json](./405239-marvel-tokon-fighting-souls-ultimate-edition.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
+| Marvel Tokon: Fighting Souls - Year 1 DLC Character: Jubilee | 422858 | [422858-marvel-tokon-fighting-souls-year-1-dlc-character-jubilee.json](./422858-marvel-tokon-fighting-souls-year-1-dlc-character-jubilee.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
+| Marvel Tokon: Fighting Souls - Year 1 DLC Character: Venom | 422856 | [422856-marvel-tokon-fighting-souls-year-1-dlc-character-venom.json](./422856-marvel-tokon-fighting-souls-year-1-dlc-character-venom.json) |
 | Marvel Tokon: Fighting Souls – Hulk Joe Fixit Costume Pack | 427344 | [427344-marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack.json](./427344-marvel-tokon-fighting-souls-hulk-joe-fixit-costume-pack.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
 | Marvel Tsum Tsum | 58682 | [58682-marvel-tsum-tsum.json](./58682-marvel-tsum-tsum.json) |
@@ -11688,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro 2033 | 251142 | [251142-metro-2033.json](./251142-metro-2033.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro 2055 | 356553 | [356553-metro-2055.json](./356553-metro-2055.json) |
+| Metro Anomaly | 422886 | [422886-metro-anomaly.json](./422886-metro-anomaly.json) |
 | Metro Architect | 407458 | [407458-metro-architect.json](./407458-metro-architect.json) |
 | Metro Awakening Deluxe Edition | 327147 | [327147-metro-awakening-deluxe-edition.json](./327147-metro-awakening-deluxe-edition.json) |
 | Metro Awakening VR | 284720 | [284720-metro-awakening-vr.json](./284720-metro-awakening-vr.json) |
@@ -19242,6 +19246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonchrome. | 382931 | [382931-moonchrome.json](./382931-moonchrome.json) |
 | Moonday | 221006 | [221006-moonday.json](./221006-moonday.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
+| MoonDoku: Sudoku Nights | 422883 | [422883-moondoku-sudoku-nights.json](./422883-moondoku-sudoku-nights.json) |
 | Moondrills | 357478 | [357478-moondrills.json](./357478-moondrills.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
 | MoonDrop Chronicles | 370606 | [370606-moondrop-chronicles.json](./370606-moondrop-chronicles.json) |
