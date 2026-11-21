@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real-Gostop VR | 293664 | [293664-real-gostop-vr.json](./293664-real-gostop-vr.json) |
 | Real-Time General | 251846 | [251846-real-time-general.json](./251846-real-time-general.json) |
 | Real-time Tactical 2D | 162054 | [162054-real-time-tactical-2d.json](./162054-real-time-tactical-2d.json) |
+| Real: Zero | 425515 | [425515-real-zero.json](./425515-real-zero.json) |
 | RealBX VR | 29481 | [29481-realbx-vr.json](./29481-realbx-vr.json) |
 | RealDol | 384336 | [384336-realdol.json](./384336-realdol.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
@@ -11907,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Mania | 144896 | [144896-roller-coaster-mania.json](./144896-roller-coaster-mania.json) |
 | Roller Coaster Mania 2 | 54327 | [54327-roller-coaster-mania-2.json](./54327-roller-coaster-mania-2.json) |
 | Roller Coaster Mania 3 | 54328 | [54328-roller-coaster-mania-3.json](./54328-roller-coaster-mania-3.json) |
+| Roller Coaster Park Simulator | 425485 | [425485-roller-coaster-park-simulator.json](./425485-roller-coaster-park-simulator.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Roller Coaster Rumbler | 73129 | [73129-roller-coaster-rumbler.json](./73129-roller-coaster-rumbler.json) |
 | Roller Coaster: Amazing Island Visit | 108210 | [108210-roller-coaster-amazing-island-visit.json](./108210-roller-coaster-amazing-island-visit.json) |
