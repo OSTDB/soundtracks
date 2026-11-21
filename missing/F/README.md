@@ -2019,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fang and Izzy Pinball Bash | 407192 | [407192-fang-and-izzy-pinball-bash.json](./407192-fang-and-izzy-pinball-bash.json) |
 | Fangan! Dead Chivalry | 411336 | [411336-fangan-dead-chivalry.json](./411336-fangan-dead-chivalry.json) |
 | Fangan! OVA: Buried Secrets | 411335 | [411335-fangan-ova-buried-secrets.json](./411335-fangan-ova-buried-secrets.json) |
+| Fangjie: Shattered Altars | 425628 | [425628-fangjie-shattered-altars.json](./425628-fangjie-shattered-altars.json) |
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
 | Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs & Faith Solitaire | 362530 | [362530-fangs-and-faith-solitaire.json](./362530-fangs-and-faith-solitaire.json) |
@@ -9495,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Plan Puzzle (Red Room Simulator) | 347321 | [347321-floor-plan-puzzle-red-room-simulator.json](./347321-floor-plan-puzzle-red-room-simulator.json) |
 | Floor Plan Remastered | 273589 | [273589-floor-plan-remastered.json](./273589-floor-plan-remastered.json) |
 | Floor Plan: Hands-On Edition | 55801 | [55801-floor-plan-hands-on-edition.json](./55801-floor-plan-hands-on-edition.json) |
+| Floor Show | 425612 | [425612-floor-show.json](./425612-floor-show.json) |
 | Floor Wiping Race | 420674 | [420674-floor-wiping-race.json](./420674-floor-wiping-race.json) |
 | Floor X | 323263 | [323263-floor-x.json](./323263-floor-x.json) |
 | Floor404 | 409741 | [409741-floor404.json](./409741-floor404.json) |
