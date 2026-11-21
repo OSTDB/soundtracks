@@ -3639,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiko's Pledge 4 | 306393 | [306393-emikos-pledge-4.json](./306393-emikos-pledge-4.json) |
 | Emil Chronicle Online | 263690 | [263690-emil-chronicle-online.json](./263690-emil-chronicle-online.json) |
 | Emil: A Hero's Journey | 236559 | [236559-emil-a-heros-journey.json](./236559-emil-a-heros-journey.json) |
+| Emilia's Playroom | 418765 | [418765-emilias-playroom.json](./418765-emilias-playroom.json) |
 | Emiline: The Ghost of White Willow | 249978 | [249978-emiline-the-ghost-of-white-willow.json](./249978-emiline-the-ghost-of-white-willow.json) |
 | Emilio Butragueño 2 | 93233 | [93233-emilio-butragueno-2.json](./93233-emilio-butragueno-2.json) |
 | Emilio Butragueño Fútbol | 81152 | [81152-emilio-butragueno-futbol.json](./81152-emilio-butragueno-futbol.json) |
