@@ -8660,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Protectors: Cart of Darkness DLC Pack 4 | 199881 | [199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json](./199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json) |
 | GottaGoFast | 275211 | [275211-gottagofast.json](./275211-gottagofast.json) |
 | Gotthic II: The Sisters | 398775 | [398775-gotthic-ii-the-sisters.json](./398775-gotthic-ii-the-sisters.json) |
+| Gottsu no Wanahazushi | 425514 | [425514-gottsu-no-wanahazushi.json](./425514-gottsu-no-wanahazushi.json) |
 | Götz | 327497 | [327497-gotz.json](./327497-gotz.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Goubakuran: RumbleStorm | 260742 | [260742-goubakuran-rumblestorm.json](./260742-goubakuran-rumblestorm.json) |
@@ -12430,6 +12431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Game | 152718 | [152718-gun-game.json](./152718-gun-game.json) |
 | Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
+| Gun Girl Go | 425493 | [425493-gun-girl-go.json](./425493-gun-girl-go.json) |
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Gladiators | 98121 | [98121-gun-gladiators.json](./98121-gun-gladiators.json) |
