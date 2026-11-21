@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhaços | 230664 | [230664-palhacos.json](./230664-palhacos.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
+| Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
 | Palianytsia | 351388 | [351388-palianytsia.json](./351388-palianytsia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
@@ -5238,7 +5239,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perino Candy Buster | 321715 | [321715-perino-candy-buster.json](./321715-perino-candy-buster.json) |
 | Period Cube: Shackles of Amadeus | 59160 | [59160-period-cube-shackles-of-amadeus.json](./59160-period-cube-shackles-of-amadeus.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
-| Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
 | Periodic Lottery | 403192 | [403192-periodic-lottery.json](./403192-periodic-lottery.json) |
 | Periodic Table: Game | 356690 | [356690-periodic-table-game.json](./356690-periodic-table-game.json) |
 | Periodicity: Hats and Scars | 341583 | [341583-periodicity-hats-and-scars.json](./341583-periodicity-hats-and-scars.json) |
@@ -5965,8 +5965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pferd & Pony: Mein Pferdehof & Lass uns Reiten 2 | 137895 | [137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json](./137895-pferd-and-pony-mein-pferdehof-and-lass-uns-reiten-2.json) |
 | Pferdefreunde Puzzle: Echter Puzzlespass für Unterwegs | 252664 | [252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json](./252664-pferdefreunde-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Pfh'Joueur | 422578 | [422578-pfhjoueur.json](./422578-pfhjoueur.json) |
-| PGA Championship Golf 1999 Edition | 830 | [830-pga-championship-golf-1999-edition.json](./830-pga-championship-golf-1999-edition.json) |
-| PGA Championship Golf 2000 | 831 | [831-pga-championship-golf-2000.json](./831-pga-championship-golf-2000.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Championship Golf Collecter's Edition | 209985 | [209985-pga-championship-golf-collecters-edition.json](./209985-pga-championship-golf-collecters-edition.json) |
 | PGA European Tour | 12713 | [12713-pga-european-tour.json](./12713-pga-european-tour.json) |
@@ -10242,7 +10240,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Maker Game | 261034 | [261034-pizza-maker-game.json](./261034-pizza-maker-game.json) |
 | Pizza Man | 189239 | [189239-pizza-man.json](./189239-pizza-man.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
-| Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
 | Pizza Ninja 3 | 213663 | [213663-pizza-ninja-3.json](./213663-pizza-ninja-3.json) |
 | Pizza No Pizza | 390986 | [390986-pizza-no-pizza.json](./390986-pizza-no-pizza.json) |
@@ -10707,7 +10704,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo | 117717 | [117717-planet-zoo.json](./117717-planet-zoo.json) |
 | Planet Zoo 2 | 402959 | [402959-planet-zoo-2.json](./402959-planet-zoo-2.json) |
 | Planet Zoo: Africa Pack | 226998 | [226998-planet-zoo-africa-pack.json](./226998-planet-zoo-africa-pack.json) |
-| Planet Zoo: Aquatic Pack | 226995 | [226995-planet-zoo-aquatic-pack.json](./226995-planet-zoo-aquatic-pack.json) |
 | Planet Zoo: Arctic Pack | 226996 | [226996-planet-zoo-arctic-pack.json](./226996-planet-zoo-arctic-pack.json) |
 | Planet Zoo: Arid Animal Pack | 253063 | [253063-planet-zoo-arid-animal-pack.json](./253063-planet-zoo-arid-animal-pack.json) |
 | Planet Zoo: Asia Animal Pack | 351333 | [351333-planet-zoo-asia-animal-pack.json](./351333-planet-zoo-asia-animal-pack.json) |
@@ -10722,7 +10718,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
 | Planet Zoo: South America Pack | 226994 | [226994-planet-zoo-south-america-pack.json](./226994-planet-zoo-south-america-pack.json) |
 | Planet Zoo: Southeast Asia Animal Pack | 145769 | [145769-planet-zoo-southeast-asia-animal-pack.json](./145769-planet-zoo-southeast-asia-animal-pack.json) |
-| Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Twilight Pack | 263073 | [263073-planet-zoo-twilight-pack.json](./263073-planet-zoo-twilight-pack.json) |
 | Planet Zoo: Wetlands Animal Pack | 197558 | [197558-planet-zoo-wetlands-animal-pack.json](./197558-planet-zoo-wetlands-animal-pack.json) |
 | Planet Zoo: Zookeepers Animal Pack | 336614 | [336614-planet-zoo-zookeepers-animal-pack.json](./336614-planet-zoo-zookeepers-animal-pack.json) |
@@ -12137,7 +12132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketWorlds | 179405 | [179405-pocketworlds.json](./179405-pocketworlds.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
 | Pockie Ninja | 46944 | [46944-pockie-ninja.json](./46944-pockie-ninja.json) |
-| Pocky & Rocky with Becky | 1537 | [1537-pocky-and-rocky-with-becky.json](./1537-pocky-and-rocky-with-becky.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
 | Poco In | 155731 | [155731-poco-in.json](./155731-poco-in.json) |
 | Poco In Dungeon | 150892 | [150892-poco-in-dungeon.json](./150892-poco-in-dungeon.json) |
@@ -18514,8 +18508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rot | 361926 | [361926-project-rot.json](./361926-project-rot.json) |
 | Project Roy | 404601 | [404601-project-roy.json](./404601-project-roy.json) |
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
-| Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
-| Project RTD: Random Tower Defense VR | 132488 | [132488-project-rtd-random-tower-defense-vr.json](./132488-project-rtd-random-tower-defense-vr.json) |
 | Project Runner | 190316 | [190316-project-runner.json](./190316-project-runner.json) |
 | Project Runway | 25171 | [25171-project-runway.json](./25171-project-runway.json) |
 | Project RyMe | 271936 | [271936-project-ryme.json](./271936-project-ryme.json) |
@@ -20657,7 +20649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Jigsaw | 343309 | [343309-putin-jigsaw.json](./343309-putin-jigsaw.json) |
 | Putin kills: Christmas | 151375 | [151375-putin-kills-christmas.json](./151375-putin-kills-christmas.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
-| Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
 | Putin Must Die: Defend the White House | 254729 | [254729-putin-must-die-defend-the-white-house.json](./254729-putin-must-die-defend-the-white-house.json) |
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
