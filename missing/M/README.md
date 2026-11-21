@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
 | Market Street Tycoon Simulator | 384236 | [384236-market-street-tycoon-simulator.json](./384236-market-street-tycoon-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
+| Market Tycoon | 30307 | [30307-market-tycoon.json](./30307-market-tycoon.json) |
 | Market Warfare | 252284 | [252284-market-warfare.json](./252284-market-warfare.json) |
 | Marketfield Idle | 428267 | [428267-marketfield-idle.json](./428267-marketfield-idle.json) |
 | Marketplace | 311236 | [311236-marketplace.json](./311236-marketplace.json) |
@@ -5772,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Infiltrator | 93517 | [93517-mass-effect-infiltrator.json](./93517-mass-effect-infiltrator.json) |
 | Mass Effect: Limited Collector's Edition | 45179 | [45179-mass-effect-limited-collectors-edition.json](./45179-mass-effect-limited-collectors-edition.json) |
 | Mass Effect: Pinnacle Station | 13781 | [13781-mass-effect-pinnacle-station.json](./13781-mass-effect-pinnacle-station.json) |
+| Mass Exodus Redux | 30164 | [30164-mass-exodus-redux.json](./30164-mass-exodus-redux.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass for the Dead | 115452 | [115452-mass-for-the-dead.json](./115452-mass-for-the-dead.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
