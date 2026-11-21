@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maabus | 93258 | [93258-maabus.json](./93258-maabus.json) |
 | Maanu: Academic Version | 254908 | [254908-maanu-academic-version.json](./254908-maanu-academic-version.json) |
 | Maat | 58415 | [58415-maat.json](./58415-maat.json) |
+| Mabecs International Superstar Soccer 2000 | 424356 | [424356-mabecs-international-superstar-soccer-2000.json](./424356-mabecs-international-superstar-soccer-2000.json) |
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Island Escape 8 | 315527 | [315527-magic-island-escape-8.json](./315527-magic-island-escape-8.json) |
 | Magic Island Escape 9 | 315529 | [315529-magic-island-escape-9.json](./315529-magic-island-escape-9.json) |
 | Magic Island: The Secret of Stones | 73261 | [73261-magic-island-the-secret-of-stones.json](./73261-magic-island-the-secret-of-stones.json) |
+| Magic Isle Simulator | 424440 | [424440-magic-isle-simulator.json](./424440-magic-isle-simulator.json) |
 | Magic Jelly | 246347 | [246347-magic-jelly.json](./246347-magic-jelly.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic Jewelry 2 | 48281 | [48281-magic-jewelry-2.json](./48281-magic-jewelry-2.json) |
@@ -6621,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
 | Mato Anomalies: Digital Shadows | 260030 | [260030-mato-anomalies-digital-shadows.json](./260030-mato-anomalies-digital-shadows.json) |
 | Mato Anomalies: Treasure from Heaven | 430376 | [430376-mato-anomalies-treasure-from-heaven.json](./430376-mato-anomalies-treasure-from-heaven.json) |
+| Mato-Stick | 424452 | [424452-mato-stick.json](./424452-mato-stick.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
@@ -24830,6 +24833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrtle Grove: A Clair V. Mystery | 388271 | [388271-myrtle-grove-a-clair-v-mystery.json](./388271-myrtle-grove-a-clair-v-mystery.json) |
 | MyRummy | 302254 | [302254-myrummy.json](./302254-myrummy.json) |
 | Mysarium | 395148 | [395148-mysarium.json](./395148-mysarium.json) |
+| MySchamhaar Revival | 424379 | [424379-myschamhaar-revival.json](./424379-myschamhaar-revival.json) |
 | Myself; Yourself | 76454 | [76454-myself-yourself.json](./76454-myself-yourself.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims | 201339 | [201339-mysims.json](./201339-mysims.json) |
