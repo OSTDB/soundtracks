@@ -4372,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme 3: Saikyou Package | 167033 | [167033-dead-or-alive-xtreme-3-saikyou-package.json](./167033-dead-or-alive-xtreme-3-saikyou-package.json) |
 | Dead or Alive Xtreme 3: Scarlet | 112407 | [112407-dead-or-alive-xtreme-3-scarlet.json](./112407-dead-or-alive-xtreme-3-scarlet.json) |
 | Dead or Alive Xtreme 3: Scarlet - Collector's Edition | 136672 | [136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json](./136672-dead-or-alive-xtreme-3-scarlet-collectors-edition.json) |
+| Dead or Alive Xtreme 3: Venus | 24198 | [24198-dead-or-alive-xtreme-3-venus.json](./24198-dead-or-alive-xtreme-3-venus.json) |
 | Dead or Alive Xtreme Beach Volleyball | 1390 | [1390-dead-or-alive-xtreme-beach-volleyball.json](./1390-dead-or-alive-xtreme-beach-volleyball.json) |
 | Dead or Alive Xtreme Sense | 41046 | [41046-dead-or-alive-xtreme-sense.json](./41046-dead-or-alive-xtreme-sense.json) |
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
@@ -17771,6 +17772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragondell | 184943 | [184943-dragondell.json](./184943-dragondell.json) |
 | Dragondot 3 | 135010 | [135010-dragondot-3.json](./135010-dragondot-3.json) |
 | Dragonea | 326064 | [326064-dragonea.json](./326064-dragonea.json) |
+| Dragoneer's Aria | 24279 | [24279-dragoneers-aria.json](./24279-dragoneers-aria.json) |
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
 | Dragonero | 274779 | [274779-dragonero.json](./274779-dragonero.json) |
 | Dragonester | 25282 | [25282-dragonester.json](./25282-dragonester.json) |
@@ -21063,6 +21065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Magic: Sword of the Elements | 48131 | [48131-dungeon-magic-sword-of-the-elements.json](./48131-dungeon-magic-sword-of-the-elements.json) |
 | Dungeon Maker | 102456 | [102456-dungeon-maker.json](./102456-dungeon-maker.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
+| Dungeon Maker: Hunting Ground | 24284 | [24284-dungeon-maker-hunting-ground.json](./24284-dungeon-maker-hunting-ground.json) |
 | Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Mana | 339577 | [339577-dungeon-mana.json](./339577-dungeon-mana.json) |
