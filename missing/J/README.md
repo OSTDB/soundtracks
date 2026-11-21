@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
 | Janky Horse | 404089 | [404089-janky-horse.json](./404089-janky-horse.json) |
+| Janky Joe in Retro Hell | 421502 | [421502-janky-joe-in-retro-hell.json](./421502-janky-joe-in-retro-hell.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Jankyou | 77159 | [77159-jankyou.json](./77159-jankyou.json) |
 | Jankyuusei: Cosplay Paradise | 281589 | [281589-jankyuusei-cosplay-paradise.json](./281589-jankyuusei-cosplay-paradise.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigen Bakudan Kaijo | 349942 | [349942-jigen-bakudan-kaijo.json](./349942-jigen-bakudan-kaijo.json) |
 | Jigenro | 402443 | [402443-jigenro.json](./402443-jigenro.json) |
 | Jiggie. For Fun. | 316883 | [316883-jiggie-for-fun.json](./316883-jiggie-for-fun.json) |
+| Jiggle or Physics | 422621 | [422621-jiggle-or-physics.json](./422621-jiggle-or-physics.json) |
 | Jiggly Strike | 373798 | [373798-jiggly-strike.json](./373798-jiggly-strike.json) |
 | Jiggly Zone | 250524 | [250524-jiggly-zone.json](./250524-jiggly-zone.json) |
 | Jiggraph | 311068 | [311068-jiggraph.json](./311068-jiggraph.json) |
