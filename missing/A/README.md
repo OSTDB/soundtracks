@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Space Odyssey | 189289 | [189289-a-space-odyssey.json](./189289-a-space-odyssey.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
+| A Special Box | 421519 | [421519-a-special-box.json](./421519-a-special-box.json) |
 | A Special Place In Hell | 249066 | [249066-a-special-place-in-hell.json](./249066-a-special-place-in-hell.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
@@ -7610,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alder's Blood: Definitive Edition | 173167 | [173167-alders-blood-definitive-edition.json](./173167-alders-blood-definitive-edition.json) |
 | Alder's Blood: Prologue | 129232 | [129232-alders-blood-prologue.json](./129232-alders-blood-prologue.json) |
 | Alderun | 424945 | [424945-alderun.json](./424945-alderun.json) |
+| Alderwood Point | 421521 | [421521-alderwood-point.json](./421521-alderwood-point.json) |
 | Aldian of Ancients | 317384 | [317384-aldian-of-ancients.json](./317384-aldian-of-ancients.json) |
 | Aldmark Calls for Aid | 420288 | [420288-aldmark-calls-for-aid.json](./420288-aldmark-calls-for-aid.json) |
 | Aldo Again | 50087 | [50087-aldo-again.json](./50087-aldo-again.json) |
@@ -20555,6 +20557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoFans: Charged Rate | 63691 | [63691-autofans-charged-rate.json](./63691-autofans-charged-rate.json) |
 | AutoForge | 257105 | [257105-autoforge.json](./257105-autoforge.json) |
 | Autogame Deluxe | 211017 | [211017-autogame-deluxe.json](./211017-autogame-deluxe.json) |
+| Autogenesis | 422618 | [422618-autogenesis.json](./422618-autogenesis.json) |
 | Autogiro | 326251 | [326251-autogiro.json](./326251-autogiro.json) |
 | Autograv | 288194 | [288194-autograv.json](./288194-autograv.json) |
 | Autograv: Mini | 289408 | [289408-autograv-mini.json](./289408-autograv-mini.json) |
