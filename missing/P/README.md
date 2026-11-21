@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint the Town Red VR | 253179 | [253179-paint-the-town-red-vr.json](./253179-paint-the-town-red-vr.json) |
 | Paint the Town Red VR | 376986 | [376986-paint-the-town-red-vr.json](./376986-paint-the-town-red-vr.json) |
+| Paint the World | 425004 | [425004-paint-the-world.json](./425004-paint-the-world.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Tower! | 88763 | [88763-paint-tower.json](./88763-paint-tower.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
@@ -12326,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point4Point | 292195 | [292195-point4point.json](./292195-point4point.json) |
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
 | Pointless | 33544 | [33544-pointless.json](./33544-pointless.json) |
+| Pointless Climb | 425019 | [425019-pointless-climb.json](./425019-pointless-climb.json) |
 | Pointless Fighting | 360129 | [360129-pointless-fighting.json](./360129-pointless-fighting.json) |
 | Pointless Platform | 69679 | [69679-pointless-platform.json](./69679-pointless-platform.json) |
 | Pointless Wars | 183790 | [183790-pointless-wars.json](./183790-pointless-wars.json) |
@@ -13370,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
+| Pokémon World Frontier | 424924 | [424924-pokemon-world-frontier.json](./424924-pokemon-world-frontier.json) |
 | Pokémon XD: Gale of Darkness | 2724 | [2724-pokemon-xd-gale-of-darkness.json](./2724-pokemon-xd-gale-of-darkness.json) |
 | Pokémon Xenoverse: Per Aspera Ad Astra | 218201 | [218201-pokemon-xenoverse-per-aspera-ad-astra.json](./218201-pokemon-xenoverse-per-aspera-ad-astra.json) |
 | Pokémon XG: NeXt Gen | 208508 | [208508-pokemon-xg-next-gen.json](./208508-pokemon-xg-next-gen.json) |
@@ -21494,6 +21497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles Magic | 415547 | [415547-puzzles-magic.json](./415547-puzzles-magic.json) |
 | Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles of the World | 377645 | [377645-puzzles-of-the-world.json](./377645-puzzles-of-the-world.json) |
+| Puzzles Planets | 424999 | [424999-puzzles-planets.json](./424999-puzzles-planets.json) |
 | Puzzles Snow | 415546 | [415546-puzzles-snow.json](./415546-puzzles-snow.json) |
 | Puzzles Trees | 428145 | [428145-puzzles-trees.json](./428145-puzzles-trees.json) |
 | Puzzles Under the Hill | 32409 | [32409-puzzles-under-the-hill.json](./32409-puzzles-under-the-hill.json) |
