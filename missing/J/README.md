@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
 | Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
 | Jewel of Live II | 151630 | [151630-jewel-of-live-ii.json](./151630-jewel-of-live-ii.json) |
+| Jewel of Seven Stars | 418943 | [418943-jewel-of-seven-stars.json](./418943-jewel-of-seven-stars.json) |
 | Jewel of WonderLand | 68795 | [68795-jewel-of-wonderland.json](./68795-jewel-of-wonderland.json) |
 | Jewel Pet: Cafe de Mahou no Cooking! | 60547 | [60547-jewel-pet-cafe-de-mahou-no-cooking.json](./60547-jewel-pet-cafe-de-mahou-no-cooking.json) |
 | Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Quake | 381655 | [381655-joe-quake.json](./381655-joe-quake.json) |
 | Joe Rules: Reloaded | 341950 | [341950-joe-rules-reloaded.json](./341950-joe-rules-reloaded.json) |
 | Joe Story | 77441 | [77441-joe-story.json](./77441-joe-story.json) |
+| Joe Terror | 413247 | [413247-joe-terror.json](./413247-joe-terror.json) |
 | Joe vs. The Joneses | 175170 | [175170-joe-vs-the-joneses.json](./175170-joe-vs-the-joneses.json) |
 | Joe vs. The Wall | 264308 | [264308-joe-vs-the-wall.json](./264308-joe-vs-the-wall.json) |
 | Joe Wander and the Enigmatic Adventures | 222929 | [222929-joe-wander-and-the-enigmatic-adventures.json](./222929-joe-wander-and-the-enigmatic-adventures.json) |
