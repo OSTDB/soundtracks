@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallow Hunt | 273709 | [273709-hallow-hunt.json](./273709-hallow-hunt.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
+| Hallow's Eve | 426813 | [426813-hallows-eve.json](./426813-hallows-eve.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Hallowed Encounter | 74589 | [74589-hallowed-encounter.json](./74589-hallowed-encounter.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburg: Neue Burg VR | 291510 | [291510-hamburg-neue-burg-vr.json](./291510-hamburg-neue-burg-vr.json) |
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
+| Hamburger Hill | 426812 | [426812-hamburger-hill.json](./426812-hamburger-hill.json) |
 | Hamburger in Space! | 282360 | [282360-hamburger-in-space.json](./282360-hamburger-in-space.json) |
 | Hamburger Shop | 385514 | [385514-hamburger-shop.json](./385514-hamburger-shop.json) |
 | Hamburger Shop | 386974 | [386974-hamburger-shop.json](./386974-hamburger-shop.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Me Still | 366353 | [366353-hold-me-still.json](./366353-hold-me-still.json) |
 | Hold Me Tight All Night, Onii-chan! | 315733 | [315733-hold-me-tight-all-night-onii-chan.json](./315733-hold-me-tight-all-night-onii-chan.json) |
 | Hold My Beer | 51581 | [51581-hold-my-beer.json](./51581-hold-my-beer.json) |
+| Hold My Cargo | 426828 | [426828-hold-my-cargo.json](./426828-hold-my-cargo.json) |
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold My Pistaches | 310335 | [310335-hold-my-pistaches.json](./310335-hold-my-pistaches.json) |
 | Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
@@ -11737,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
 | Hornet Virus: Steel Alcimus II | 161470 | [161470-hornet-virus-steel-alcimus-ii.json](./161470-hornet-virus-steel-alcimus-ii.json) |
 | Hornets | 202613 | [202613-hornets.json](./202613-hornets.json) |
+| Horns of Deliverance | 426704 | [426704-horns-of-deliverance.json](./426704-horns-of-deliverance.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Academy | 390747 | [390747-horny-academy.json](./390747-horny-academy.json) |
 | Horny Adventurer Karen | 382666 | [382666-horny-adventurer-karen.json](./382666-horny-adventurer-karen.json) |
