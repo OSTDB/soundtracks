@@ -13130,6 +13130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey | 242197 | [242197-the-journey.json](./242197-the-journey.json) |
 | The Journey | 263358 | [263358-the-journey.json](./263358-the-journey.json) |
+| The Journey Down Trilogy | 103209 | [103209-the-journey-down-trilogy.json](./103209-the-journey-down-trilogy.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
 | The Journey Down: Chapter Two | 10973 | [10973-the-journey-down-chapter-two.json](./10973-the-journey-down-chapter-two.json) |
@@ -21864,6 +21865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
 | The Willow Man | 244557 | [244557-the-willow-man.json](./244557-the-willow-man.json) |
 | The Willowmist Emporium of Antiques & Curiosities | 332131 | [332131-the-willowmist-emporium-of-antiques-and-curiosities.json](./332131-the-willowmist-emporium-of-antiques-and-curiosities.json) |
+| The Wilting Amaranth | 102416 | [102416-the-wilting-amaranth.json](./102416-the-wilting-amaranth.json) |
 | The Wind | 232769 | [232769-the-wind.json](./232769-the-wind.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
 | The Wind and Wilting Blossom | 121773 | [121773-the-wind-and-wilting-blossom.json](./121773-the-wind-and-wilting-blossom.json) |
@@ -36014,6 +36016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Classic Rock Trivia | 94791 | [94791-trivia-vault-classic-rock-trivia.json](./94791-trivia-vault-classic-rock-trivia.json) |
 | Trivia Vault: Classic Rock Trivia 2 | 54890 | [54890-trivia-vault-classic-rock-trivia-2.json](./54890-trivia-vault-classic-rock-trivia-2.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
+| Trivia Vault: Food Trivia | 101625 | [101625-trivia-vault-food-trivia.json](./101625-trivia-vault-food-trivia.json) |
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
 | Trivia Vault: Hockey Trivia | 95275 | [95275-trivia-vault-hockey-trivia.json](./95275-trivia-vault-hockey-trivia.json) |
