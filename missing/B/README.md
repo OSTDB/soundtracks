@@ -1140,7 +1140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badge(r)s | 317141 | [317141-badge-r-s.json](./317141-badge-r-s.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
 | Badiya: Desert Survival | 30925 | [30925-badiya-desert-survival.json](./30925-badiya-desert-survival.json) |
-| BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
 | Badland 2 | 15470 | [15470-badland-2.json](./15470-badland-2.json) |
 | Badland Bandits | 35014 | [35014-badland-bandits.json](./35014-badland-bandits.json) |
@@ -3202,7 +3201,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
 | Barrage Musical: A Fantasy of Tempest | 165196 | [165196-barrage-musical-a-fantasy-of-tempest.json](./165196-barrage-musical-a-fantasy-of-tempest.json) |
-| Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrage Populaire | 308966 | [308966-barrage-populaire.json](./308966-barrage-populaire.json) |
 | Barraka | 301891 | [301891-barraka.json](./301891-barraka.json) |
 | Barravento: O Mestre da Capoeira | 78075 | [78075-barravento-o-mestre-da-capoeira.json](./78075-barravento-o-mestre-da-capoeira.json) |
@@ -3406,7 +3404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Live 2005 | 269390 | [269390-baseball-live-2005.json](./269390-baseball-live-2005.json) |
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
 | Baseball Megastar | 104363 | [104363-baseball-megastar.json](./104363-baseball-megastar.json) |
-| Baseball Mogul | 605 | [605-baseball-mogul.json](./605-baseball-mogul.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
 | Baseball Mogul 2002 | 73591 | [73591-baseball-mogul-2002.json](./73591-baseball-mogul-2002.json) |
 | Baseball Mogul 2003 | 94396 | [94396-baseball-mogul-2003.json](./94396-baseball-mogul-2003.json) |
@@ -4590,7 +4587,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
 | Battle Rage | 51051 | [51051-battle-rage.json](./51051-battle-rage.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
-| Battle Ram | 132780 | [132780-battle-ram.json](./132780-battle-ram.json) |
 | Battle Rampage | 60861 | [60861-battle-rampage.json](./60861-battle-rampage.json) |
 | Battle Ranch | 24602 | [24602-battle-ranch.json](./24602-battle-ranch.json) |
 | Battle Ranch: Pigs Vs Plants | 112065 | [112065-battle-ranch-pigs-vs-plants.json](./112065-battle-ranch-pigs-vs-plants.json) |
@@ -6668,7 +6664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BederSnake | 361220 | [361220-bedersnake.json](./361220-bedersnake.json) |
 | Bedfellows Frenzy | 30889 | [30889-bedfellows-frenzy.json](./30889-bedfellows-frenzy.json) |
 | Bedlam | 13391 | [13391-bedlam.json](./13391-bedlam.json) |
-| Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlam | 95501 | [95501-bedlam.json](./95501-bedlam.json) |
 | Bedlam 2: Absolute Bedlam | 62508 | [62508-bedlam-2-absolute-bedlam.json](./62508-bedlam-2-absolute-bedlam.json) |
@@ -7363,7 +7358,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
-| Ben 10: Galactic Racing | 2806 | [2806-ben-10-galactic-racing.json](./2806-ben-10-galactic-racing.json) |
 | Ben 10: Krakken Attack | 333848 | [333848-ben-10-krakken-attack.json](./333848-ben-10-krakken-attack.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omnitrix Power | 405293 | [405293-ben-10-omnitrix-power.json](./405293-ben-10-omnitrix-power.json) |
@@ -8043,7 +8037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Citadel | 322842 | [322842-beyond-citadel.json](./322842-beyond-citadel.json) |
 | Beyond Clouds | 74479 | [74479-beyond-clouds.json](./74479-beyond-clouds.json) |
 | Beyond Columns | 70450 | [70450-beyond-columns.json](./70450-beyond-columns.json) |
-| Beyond Crimson Stars | 128966 | [128966-beyond-crimson-stars.json](./128966-beyond-crimson-stars.json) |
 | Beyond Critical | 123191 | [123191-beyond-critical.json](./123191-beyond-critical.json) |
 | Beyond Dark | 54916 | [54916-beyond-dark.json](./54916-beyond-dark.json) |
 | Beyond Dark Castle | 11957 | [11957-beyond-dark-castle.json](./11957-beyond-dark-castle.json) |
@@ -8734,7 +8727,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Pogo Man | 103778 | [103778-big-pogo-man.json](./103778-big-pogo-man.json) |
 | Big Quest 2: the Adventure | 163738 | [163738-big-quest-2-the-adventure.json](./163738-big-quest-2-the-adventure.json) |
 | Big Range Hunting | 305804 | [305804-big-range-hunting.json](./305804-big-range-hunting.json) |
-| Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Red Racing | 19233 | [19233-big-red-racing.json](./19233-big-red-racing.json) |
 | Big Rig | 74021 | [74021-big-rig.json](./74021-big-rig.json) |
 | Big Rig Europe | 60097 | [60097-big-rig-europe.json](./60097-big-rig-europe.json) |
@@ -9660,7 +9652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Problems | 152178 | [152178-bird-problems.json](./152178-bird-problems.json) |
 | Bird Roll 64 | 422097 | [422097-bird-roll-64.json](./422097-bird-roll-64.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
-| Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Simulator 24 | 321247 | [321247-bird-simulator-24.json](./321247-bird-simulator-24.json) |
 | Bird Song | 50254 | [50254-bird-song.json](./50254-bird-song.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
@@ -12077,7 +12068,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Mind | 277494 | [277494-block-mind.json](./277494-block-mind.json) |
 | Block Motion | 149486 | [149486-block-motion.json](./149486-block-motion.json) |
 | Block Mover Challenge | 338249 | [338249-block-mover-challenge.json](./338249-block-mover-challenge.json) |
-| Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
 | Block N Load | 8437 | [8437-block-n-load.json](./8437-block-n-load.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block of Rum | 114596 | [114596-block-of-rum.json](./114596-block-of-rum.json) |
@@ -12567,7 +12557,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
-| Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
 | Blood Breed | 143849 | [143849-blood-breed.json](./143849-blood-breed.json) |
 | Blood Broker | 113304 | [113304-blood-broker.json](./113304-blood-broker.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
@@ -15730,7 +15719,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
 | Bottler3000 | 127408 | [127408-bottler3000.json](./127408-bottler3000.json) |
 | Bottles to the Ground | 271973 | [271973-bottles-to-the-ground.json](./271973-bottles-to-the-ground.json) |
-| Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
 | Bottom of the 9th '99 | 43856 | [43856-bottom-of-the-9th-99.json](./43856-bottom-of-the-9th-99.json) |
@@ -18226,7 +18214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bristles | 13982 | [13982-bristles.json](./13982-bristles.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannia | 190913 | [190913-britannia.json](./190913-britannia.json) |
-| Britannic | 127748 | [127748-britannic.json](./127748-britannic.json) |
 | Britannic: Patroness of the Mediterranean | 135665 | [135665-britannic-patroness-of-the-mediterranean.json](./135665-britannic-patroness-of-the-mediterranean.json) |
 | Britannica Puzzle Potpourri | 24730 | [24730-britannica-puzzle-potpourri.json](./24730-britannica-puzzle-potpourri.json) |
 | Britannica Quiz Show | 24761 | [24761-britannica-quiz-show.json](./24761-britannica-quiz-show.json) |
