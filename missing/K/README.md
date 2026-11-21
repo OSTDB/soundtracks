@@ -4847,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Nigiri | 56607 | [56607-kitty-nigiri.json](./56607-kitty-nigiri.json) |
 | Kitty Patrol: Paw Showtime | 296236 | [296236-kitty-patrol-paw-showtime.json](./296236-kitty-patrol-paw-showtime.json) |
 | Kitty Pig | 291001 | [291001-kitty-pig.json](./291001-kitty-pig.json) |
+| Kitty Pile | 428587 | [428587-kitty-pile.json](./428587-kitty-pile.json) |
 | Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
 | Kitty Powers' Love Life | 84570 | [84570-kitty-powers-love-life.json](./84570-kitty-powers-love-life.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
