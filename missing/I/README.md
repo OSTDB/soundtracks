@@ -4702,7 +4702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Influent: Definitive Edition | 252604 | [252604-influent-definitive-edition.json](./252604-influent-definitive-edition.json) |
 | Influenza A | 135775 | [135775-influenza-a.json](./135775-influenza-a.json) |
-| InFlux | 2938 | [2938-influx.json](./2938-influx.json) |
 | InFlux Redux | 127650 | [127650-influx-redux.json](./127650-influx-redux.json) |
 | Influxis | 149294 | [149294-influxis.json](./149294-influxis.json) |
 | Info Fighter | 360510 | [360510-info-fighter.json](./360510-info-fighter.json) |
