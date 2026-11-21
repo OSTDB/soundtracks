@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuki: Journey West | 44954 | [44954-saiyuki-journey-west.json](./44954-saiyuki-journey-west.json) |
 | Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
+| Saju Friend | 424376 | [424376-saju-friend.json](./424376-saju-friend.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Saka-doh: The Reversal Arts | 389131 | [389131-saka-doh-the-reversal-arts.json](./389131-saka-doh-the-reversal-arts.json) |
 | Sakaagari Hurricane Portable | 140114 | [140114-sakaagari-hurricane-portable.json](./140114-sakaagari-hurricane-portable.json) |
@@ -9844,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey and Shin-chan: Shiro and the Coal Town Double Pack | 425744 | [425744-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-double-pack.json](./425744-shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey-and-shin-chan-shiro-and-the-coal-town-double-pack.json) |
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shin'ai Rewritten | 424612 | [424612-shinai-rewritten.json](./424612-shinai-rewritten.json) |
+| Shin'yaku Unmei Ningen X | 424450 | [424450-shinyaku-unmei-ningen-x.json](./424450-shinyaku-unmei-ningen-x.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
 | Shinbone | 426941 | [426941-shinbone.json](./426941-shinbone.json) |
@@ -10885,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
 | Shopska Salad | 425884 | [425884-shopska-salad.json](./425884-shopska-salad.json) |
+| Shore | 424369 | [424369-shore.json](./424369-shore.json) |
 | Shore Doodle | 340373 | [340373-shore-doodle.json](./340373-shore-doodle.json) |
 | Shore of Jord | 326861 | [326861-shore-of-jord.json](./326861-shore-of-jord.json) |
 | Shorebound | 324230 | [324230-shorebound.json](./324230-shorebound.json) |
@@ -18363,6 +18366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So to Speak | 199463 | [199463-so-to-speak.json](./199463-so-to-speak.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So you think you can Chad?: An Incel Dating Sim | 180531 | [180531-so-you-think-you-can-chad-an-incel-dating-sim.json](./180531-so-you-think-you-can-chad-an-incel-dating-sim.json) |
+| So You Think You Can Talk? | 424468 | [424468-so-you-think-you-can-talk.json](./424468-so-you-think-you-can-talk.json) |
 | So You Wanna Be A Redneck | 362972 | [362972-so-you-wanna-be-a-redneck.json](./362972-so-you-wanna-be-a-redneck.json) |
 | SO-108 | 232945 | [232945-so-108.json](./232945-so-108.json) |
 | So-called Hero | 121048 | [121048-so-called-hero.json](./121048-so-called-hero.json) |
@@ -31141,6 +31145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType Ultimate Bundle | 218461 | [218461-sticktype-ultimate-bundle.json](./218461-sticktype-ultimate-bundle.json) |
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
+| Stickville | 424446 | [424446-stickville.json](./424446-stickville.json) |
 | Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 208765 | [208765-sticky-balls.json](./208765-sticky-balls.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
