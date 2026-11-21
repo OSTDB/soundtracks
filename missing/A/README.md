@@ -15705,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardente: La Grande Guerre | 322850 | [322850-ardente-la-grande-guerre.json](./322850-ardente-la-grande-guerre.json) |
 | Ardentryst | 256691 | [256691-ardentryst.json](./256691-ardentryst.json) |
 | Arderico's Journey | 313516 | [313516-ardericos-journey.json](./313516-ardericos-journey.json) |
+| Ardhan | 429196 | [429196-ardhan.json](./429196-ardhan.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardok the Barbarian | 44153 | [44153-ardok-the-barbarian.json](./44153-ardok-the-barbarian.json) |
 | Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
@@ -19828,6 +19829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomix | 11923 | [11923-atomix.json](./11923-atomix.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Atomix | 400813 | [400813-atomix.json](./400813-atomix.json) |
+| Atomkrieg 1946 | 429101 | [429101-atomkrieg-1946.json](./429101-atomkrieg-1946.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atomorf | 121376 | [121376-atomorf.json](./121376-atomorf.json) |
 | Atomorf II | 368194 | [368194-atomorf-ii.json](./368194-atomorf-ii.json) |
