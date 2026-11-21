@@ -10407,6 +10407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Everything Building | 371167 | [371167-the-everything-building.json](./371167-the-everything-building.json) |
+| The Everything by Joe Richardson Bundle | 430385 | [430385-the-everything-by-joe-richardson-bundle.json](./430385-the-everything-by-joe-richardson-bundle.json) |
 | The Eviction Game | 142559 | [142559-the-eviction-game.json](./142559-the-eviction-game.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Church | 179319 | [179319-the-evil-church.json](./179319-the-evil-church.json) |
@@ -12986,6 +12987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Intruder | 174706 | [174706-the-intruder.json](./174706-the-intruder.json) |
 | The Intruder | 185283 | [185283-the-intruder.json](./185283-the-intruder.json) |
 | The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
+| The Intruder | 430911 | [430911-the-intruder.json](./430911-the-intruder.json) |
 | The Invading Dark | 330572 | [330572-the-invading-dark.json](./330572-the-invading-dark.json) |
 | The Invasion | 321891 | [321891-the-invasion.json](./321891-the-invasion.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
@@ -27957,6 +27959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Shoot'em Ups 2 | 263617 | [263617-toaplan-arcade-shootem-ups-2.json](./263617-toaplan-arcade-shootem-ups-2.json) |
 | Toaplan Arcade Shoot'em Ups 3 | 336054 | [336054-toaplan-arcade-shootem-ups-3.json](./336054-toaplan-arcade-shootem-ups-3.json) |
 | Toaplan Arcade Shoot'em Ups 4 | 384582 | [384582-toaplan-arcade-shootem-ups-4.json](./384582-toaplan-arcade-shootem-ups-4.json) |
+| Toaplan Arcade Shoot'em Ups Ultimate Collection | 430382 | [430382-toaplan-arcade-shootem-ups-ultimate-collection.json](./430382-toaplan-arcade-shootem-ups-ultimate-collection.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toaru Kagaku no Railgun | 12380 | [12380-toaru-kagaku-no-railgun.json](./12380-toaru-kagaku-no-railgun.json) |
 | Toaru Majutsu no Index | 11864 | [11864-toaru-majutsu-no-index.json](./11864-toaru-majutsu-no-index.json) |
@@ -29838,6 +29841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tormentor X Punisher | 27319 | [27319-tormentor-x-punisher.json](./27319-tormentor-x-punisher.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Tormentum - Mystery Adventure | 90807 | [90807-tormentum-mystery-adventure.json](./90807-tormentum-mystery-adventure.json) |
+| Tormentum Collection | 430384 | [430384-tormentum-collection.json](./430384-tormentum-collection.json) |
 | Tormentum II | 111364 | [111364-tormentum-ii.json](./111364-tormentum-ii.json) |
 | Tormentum: Dark Sorrow | 9035 | [9035-tormentum-dark-sorrow.json](./9035-tormentum-dark-sorrow.json) |
 | Tormenture | 276592 | [276592-tormenture.json](./276592-tormenture.json) |
@@ -32253,6 +32257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Kit for A-Ressha de Ikou 2001 | 252186 | [252186-train-kit-for-a-ressha-de-ikou-2001.json](./252186-train-kit-for-a-ressha-de-ikou-2001.json) |
 | Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
+| Train Life: A Railway Simulator - Supporter Pack | 430391 | [430391-train-life-a-railway-simulator-supporter-pack.json](./430391-train-life-a-railway-simulator-supporter-pack.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
 | Train Lovers | 311373 | [311373-train-lovers.json](./311373-train-lovers.json) |
 | Train Manager | 114062 | [114062-train-manager.json](./114062-train-manager.json) |
@@ -35379,6 +35384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Evolution | 2149 | [2149-trials-evolution.json](./2149-trials-evolution.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Evolution: Origin of Pain | 22190 | [22190-trials-evolution-origin-of-pain.json](./22190-trials-evolution-origin-of-pain.json) |
+| Trials Evolution: Riders of Doom | 22322 | [22322-trials-evolution-riders-of-doom.json](./22322-trials-evolution-riders-of-doom.json) |
 | Trials Frontier | 7212 | [7212-trials-frontier.json](./7212-trials-frontier.json) |
 | Trials Fusion: After the Incident | 165426 | [165426-trials-fusion-after-the-incident.json](./165426-trials-fusion-after-the-incident.json) |
 | Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
@@ -38354,6 +38360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal III | 347126 | [347126-twisted-metal-iii.json](./347126-twisted-metal-iii.json) |
 | Twisted Metal: Black | 5413 | [5413-twisted-metal-black.json](./5413-twisted-metal-black.json) |
 | Twisted Metal: Black Harbor City | 135286 | [135286-twisted-metal-black-harbor-city.json](./135286-twisted-metal-black-harbor-city.json) |
+| Twisted Metal: Black Online | 22240 | [22240-twisted-metal-black-online.json](./22240-twisted-metal-black-online.json) |
 | Twisted Metal: Head-On | 5414 | [5414-twisted-metal-head-on.json](./5414-twisted-metal-head-on.json) |
 | Twisted Metal: Head-On - Extra Twisted Edition | 5415 | [5415-twisted-metal-head-on-extra-twisted-edition.json](./5415-twisted-metal-head-on-extra-twisted-edition.json) |
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
