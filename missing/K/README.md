@@ -5240,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Maze | 149801 | [149801-knights-maze.json](./149801-knights-maze.json) |
 | Knight's move | 112357 | [112357-knights-move.json](./112357-knights-move.json) |
 | Knight's Night! | 327829 | [327829-knights-night.json](./327829-knights-night.json) |
+| Knight's Party | 424368 | [424368-knights-party.json](./424368-knights-party.json) |
 | Knight's Path | 384342 | [384342-knights-path.json](./384342-knights-path.json) |
 | Knight's Path: The Tournament | 278138 | [278138-knights-path-the-tournament.json](./278138-knights-path-the-tournament.json) |
 | Knight's Pride | 340885 | [340885-knights-pride.json](./340885-knights-pride.json) |
@@ -7410,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
 | Kyouki Drip | 281252 | [281252-kyouki-drip.json](./281252-kyouki-drip.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
+| Kyoumei | 424457 | [424457-kyoumei.json](./424457-kyoumei.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! | 37883 | [37883-kyouraku-sanyo-toyomaru-parlor-parlor.json](./37883-kyouraku-sanyo-toyomaru-parlor-parlor.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 2 | 37882 | [37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json](./37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 3 | 37881 | [37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json](./37881-kyouraku-sanyo-toyomaru-parlor-parlor-3.json) |
