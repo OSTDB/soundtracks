@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incremental Island | 295878 | [295878-incremental-island.json](./295878-incremental-island.json) |
 | Incremental Mass Rewritten | 309187 | [309187-incremental-mass-rewritten.json](./309187-incremental-mass-rewritten.json) |
 | Incremental Math | 398668 | [398668-incremental-math.json](./398668-incremental-math.json) |
+| Incremental Orbits | 428577 | [428577-incremental-orbits.json](./428577-incremental-orbits.json) |
 | Incremental Ragebait | 388083 | [388083-incremental-ragebait.json](./388083-incremental-ragebait.json) |
 | Incremental Retro Racing | 403098 | [403098-incremental-retro-racing.json](./403098-incremental-retro-racing.json) |
 | Incremental School Tap Battle | 297647 | [297647-incremental-school-tap-battle.json](./297647-incremental-school-tap-battle.json) |
