@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready, Steady, Cook: The Game | 67738 | [67738-ready-steady-cook-the-game.json](./67738-ready-steady-cook-the-game.json) |
 | Ready? Set. Haiya! | 149601 | [149601-ready-set-haiya.json](./149601-ready-set-haiya.json) |
 | Readyyy! | 270757 | [270757-readyyy.json](./270757-readyyy.json) |
+| Reagan Gorbachev | 35414 | [35414-reagan-gorbachev.json](./35414-reagan-gorbachev.json) |
 | Reah: Face the Unknown | 70448 | [70448-reah-face-the-unknown.json](./70448-reah-face-the-unknown.json) |
 | Reaktor | 327082 | [327082-reaktor.json](./327082-reaktor.json) |
 | Reaktor | 40165 | [40165-reaktor.json](./40165-reaktor.json) |
@@ -7693,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution Offroad | 175011 | [175011-revolution-offroad.json](./175011-revolution-offroad.json) |
 | Revolution Triumph | 151520 | [151520-revolution-triumph.json](./151520-revolution-triumph.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
+| Revolution Under Siege Gold | 35146 | [35146-revolution-under-siege-gold.json](./35146-revolution-under-siege-gold.json) |
 | Revolution X | 20298 | [20298-revolution-x.json](./20298-revolution-x.json) |
 | Revolution: 25th Anniversary Collection | 420256 | [420256-revolution-25th-anniversary-collection.json](./420256-revolution-25th-anniversary-collection.json) |
 | Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
