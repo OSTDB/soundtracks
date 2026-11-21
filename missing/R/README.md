@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Swarm | 323697 | [323697-rage-swarm.json](./323697-rage-swarm.json) |
 | Rage Swarm: Rapid Fire Edition | 349597 | [349597-rage-swarm-rapid-fire-edition.json](./349597-rage-swarm-rapid-fire-edition.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
+| Rage Trip | 427348 | [427348-rage-trip.json](./427348-rage-trip.json) |
 | Rage Wars | 30564 | [30564-rage-wars.json](./30564-rage-wars.json) |
 | Rage: Anarchy Edition | 43033 | [43033-rage-anarchy-edition.json](./43033-rage-anarchy-edition.json) |
 | Rage: Anger Management | 281442 | [281442-rage-anger-management.json](./281442-rage-anger-management.json) |
@@ -9628,6 +9629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Defense Racing | 406483 | [406483-road-defense-racing.json](./406483-road-defense-racing.json) |
 | Road Defense: Outsiders | 203754 | [203754-road-defense-outsiders.json](./203754-road-defense-outsiders.json) |
 | Road Diner Simulator | 190463 | [190463-road-diner-simulator.json](./190463-road-diner-simulator.json) |
+| Road Diner Simulator: Prologue | 427449 | [427449-road-diner-simulator-prologue.json](./427449-road-diner-simulator-prologue.json) |
 | Road Dinner Simulator | 293120 | [293120-road-dinner-simulator.json](./293120-road-dinner-simulator.json) |
 | Road Dogs | 28673 | [28673-road-dogs.json](./28673-road-dogs.json) |
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
@@ -14762,6 +14764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
 | Rushline | 382497 | [382497-rushline.json](./382497-rushline.json) |
+| Rushmark | 427346 | [427346-rushmark.json](./427346-rushmark.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
 | Rushmore | 388331 | [388331-rushmore.json](./388331-rushmore.json) |
 | RushOut | 158886 | [158886-rushout.json](./158886-rushout.json) |
