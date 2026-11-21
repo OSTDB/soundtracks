@@ -9501,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floors | 348746 | [348746-floors.json](./348746-floors.json) |
 | Floors of Discomfort | 35160 | [35160-floors-of-discomfort.json](./35160-floors-of-discomfort.json) |
 | Floors of Fate | 414280 | [414280-floors-of-fate.json](./414280-floors-of-fate.json) |
+| Floors Together | 429791 | [429791-floors-together.json](./429791-floors-together.json) |
 | FLOP | 342168 | [342168-flop.json](./342168-flop.json) |
 | Flop Fu | 61753 | [61753-flop-fu.json](./61753-flop-fu.json) |
 | Flop Rocket | 113365 | [113365-flop-rocket.json](./113365-flop-rocket.json) |
