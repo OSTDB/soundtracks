@@ -2240,7 +2240,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
 | El Séquito de Leonor de Aquitania | 321842 | [321842-el-sequito-de-leonor-de-aquitania.json](./321842-el-sequito-de-leonor-de-aquitania.json) |
+| El Shaddai Coin & Epic | 425517 | [425517-el-shaddai-coin-and-epic.json](./425517-el-shaddai-coin-and-epic.json) |
 | El Shaddai for Android Vol. 1 | 63592 | [63592-el-shaddai-for-android-vol-1.json](./63592-el-shaddai-for-android-vol-1.json) |
+| El Shaddai for Android Vol. 2 | 425518 | [425518-el-shaddai-for-android-vol-2.json](./425518-el-shaddai-for-android-vol-2.json) |
+| El Shaddai Social Battle | 425516 | [425516-el-shaddai-social-battle.json](./425516-el-shaddai-social-battle.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Zero Nine Reversi | 398072 | [398072-el-shaddai-zero-nine-reversi.json](./398072-el-shaddai-zero-nine-reversi.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
@@ -2756,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementis TD | 411721 | [411721-elementis-td.json](./411721-elementis-td.json) |
 | Elementite | 187391 | [187391-elementite.json](./187391-elementite.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
+| Elementle | 425603 | [425603-elementle.json](./425603-elementle.json) |
 | Elemento 23 | 265753 | [265753-elemento-23.json](./265753-elemento-23.json) |
 | Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
 | Elementris | 365320 | [365320-elementris.json](./365320-elementris.json) |
@@ -8581,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
 | Ex Holics.exe | 231590 | [231590-ex-holics-exe.json](./231590-ex-holics-exe.json) |
 | Ex Libris | 403221 | [403221-ex-libris.json](./403221-ex-libris.json) |
+| Ex Libris Mortis | 425622 | [425622-ex-libris-mortis.json](./425622-ex-libris-mortis.json) |
 | Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | EX Monopoly | 59334 | [59334-ex-monopoly.json](./59334-ex-monopoly.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
