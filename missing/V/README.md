@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla Online | 123657 | [123657-valhalla-online.json](./123657-valhalla-online.json) |
 | Valhalla Path | 382543 | [382543-valhalla-path.json](./382543-valhalla-path.json) |
+| Valhalla Reborn | 427981 | [427981-valhalla-reborn.json](./427981-valhalla-reborn.json) |
 | Valhalla Wars | 249370 | [249370-valhalla-wars.json](./249370-valhalla-wars.json) |
 | Valhalla, Vikings, Ragnarok! | 404617 | [404617-valhalla-vikings-ragnarok.json](./404617-valhalla-vikings-ragnarok.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
@@ -1669,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venus Looks for Jupiter | 200829 | [200829-venus-looks-for-jupiter.json](./200829-venus-looks-for-jupiter.json) |
 | Venus Meets Venus | 128592 | [128592-venus-meets-venus.json](./128592-venus-meets-venus.json) |
 | Venus One: Galactic Overlords | 253602 | [253602-venus-one-galactic-overlords.json](./253602-venus-one-galactic-overlords.json) |
+| Venus or Die | 427983 | [427983-venus-or-die.json](./427983-venus-or-die.json) |
 | Venus Patrol | 196369 | [196369-venus-patrol.json](./196369-venus-patrol.json) |
 | Venus Project | 60430 | [60430-venus-project.json](./60430-venus-project.json) |
 | Venus Puzzles | 272572 | [272572-venus-puzzles.json](./272572-venus-puzzles.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Drums Ultimate Streamer | 371218 | [371218-vr-drums-ultimate-streamer.json](./371218-vr-drums-ultimate-streamer.json) |
+| VR Drums Ultimate Streamer: [Tom] Rotomic Tom Pack | 427917 | [427917-vr-drums-ultimate-streamer-tom-rotomic-tom-pack.json](./427917-vr-drums-ultimate-streamer-tom-rotomic-tom-pack.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
 | VR Dungeon Knight | 30170 | [30170-vr-dungeon-knight.json](./30170-vr-dungeon-knight.json) |
 | VR Dunhuang | 81002 | [81002-vr-dunhuang.json](./81002-vr-dunhuang.json) |
