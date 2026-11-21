@@ -1633,7 +1633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Basketball 10 | 7110 | [7110-ncaa-basketball-10.json](./7110-ncaa-basketball-10.json) |
 | NCAA Basketball Final Four 97 | 43717 | [43717-ncaa-basketball-final-four-97.json](./43717-ncaa-basketball-final-four-97.json) |
 | NCAA Championship Basketball | 69580 | [69580-ncaa-championship-basketball.json](./69580-ncaa-championship-basketball.json) |
-| NCAA College Basketball 2K3 | 4038 | [4038-ncaa-college-basketball-2k3.json](./4038-ncaa-college-basketball-2k3.json) |
 | NCAA College Football 2K2 | 46380 | [46380-ncaa-college-football-2k2.json](./46380-ncaa-college-football-2k2.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
 | NCAA College Hoops 2K8 | 43552 | [43552-ncaa-college-hoops-2k8.json](./43552-ncaa-college-hoops-2k8.json) |
@@ -2189,7 +2188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor's Wife | 298652 | [298652-neighbors-wife.json](./298652-neighbors-wife.json) |
 | Neighborhood | 122004 | [122004-neighborhood.json](./122004-neighborhood.json) |
 | Neighborhood Conflict | 427740 | [427740-neighborhood-conflict.json](./427740-neighborhood-conflict.json) |
-| Neighborhood Games | 5066 | [5066-neighborhood-games.json](./5066-neighborhood-games.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhood Watch | 133484 | [133484-neighborhood-watch.json](./133484-neighborhood-watch.json) |
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
@@ -4224,7 +4222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Fever 2000 | 68305 | [68305-nfl-fever-2000.json](./68305-nfl-fever-2000.json) |
 | NFL Fever 2002 | 5961 | [5961-nfl-fever-2002.json](./5961-nfl-fever-2002.json) |
-| NFL Fever 2003 | 5962 | [5962-nfl-fever-2003.json](./5962-nfl-fever-2003.json) |
 | NFL Flag Heroes | 421411 | [421411-nfl-flag-heroes.json](./421411-nfl-flag-heroes.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
 | NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
@@ -4258,7 +4255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
 | NFL QB Club 2001 | 3560 | [3560-nfl-qb-club-2001.json](./3560-nfl-qb-club-2001.json) |
-| NFL QB Club 2002 | 4040 | [4040-nfl-qb-club-2002.json](./4040-nfl-qb-club-2002.json) |
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
@@ -4626,7 +4622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons & The Dice of Destiny: Deluxe Edition | 365553 | [365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json](./365553-nicktoons-and-the-dice-of-destiny-deluxe-edition.json) |
 | Nicktoons & The Dice of Destiny: Wardrobe of Wonder Pack | 365583 | [365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json](./365583-nicktoons-and-the-dice-of-destiny-wardrobe-of-wonder-pack.json) |
 | Nicktoons Basketball | 7984 | [7984-nicktoons-basketball.json](./7984-nicktoons-basketball.json) |
-| Nicktoons MLB | 5072 | [5072-nicktoons-mlb.json](./5072-nicktoons-mlb.json) |
 | Nicktoons Nick Tunes | 210028 | [210028-nicktoons-nick-tunes.json](./210028-nicktoons-nick-tunes.json) |
 | Nicktoons Nitro | 7981 | [7981-nicktoons-nitro.json](./7981-nicktoons-nitro.json) |
 | Nicktoons Racing | 248732 | [248732-nicktoons-racing.json](./248732-nicktoons-racing.json) |
@@ -6214,7 +6209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo no Golf | 315438 | [315438-nintendo-no-golf.json](./315438-nintendo-no-golf.json) |
 | Nintendo Pennant Chase Baseball | 67797 | [67797-nintendo-pennant-chase-baseball.json](./67797-nintendo-pennant-chase-baseball.json) |
 | Nintendo PowerFest '94 | 85808 | [85808-nintendo-powerfest-94.json](./85808-nintendo-powerfest-94.json) |
-| Nintendo Puzzle Collection | 4049 | [4049-nintendo-puzzle-collection.json](./4049-nintendo-puzzle-collection.json) |
 | Nintendo RPG | 324005 | [324005-nintendo-rpg.json](./324005-nintendo-rpg.json) |
 | Nintendo Switch 2 Welcome Tour | 338069 | [338069-nintendo-switch-2-welcome-tour.json](./338069-nintendo-switch-2-welcome-tour.json) |
 | Nintendo Switch Sports | 191408 | [191408-nintendo-switch-sports.json](./191408-nintendo-switch-sports.json) |
@@ -7845,7 +7839,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 242864 | [242864-nostalgia.json](./242864-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
-| Nostalgia 1907 | 5407 | [5407-nostalgia-1907.json](./5407-nostalgia-1907.json) |
 | Nostalgia 2 | 268787 | [268787-nostalgia-2.json](./268787-nostalgia-2.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
@@ -8229,7 +8222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NovaRush | 397483 | [397483-novarush.json](./397483-novarush.json) |
 | Novas Las Aventurietas del Robercleiton o Renascimento do Turbo | 89425 | [89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json](./89425-novas-las-aventurietas-del-robercleiton-o-renascimento-do-turbo.json) |
 | Novastella Island | 221189 | [221189-novastella-island.json](./221189-novastella-island.json) |
-| Novastorm | 4329 | [4329-novastorm.json](./4329-novastorm.json) |
 | Novastride | 244688 | [244688-novastride.json](./244688-novastride.json) |
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
