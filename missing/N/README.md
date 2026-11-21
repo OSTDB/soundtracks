@@ -5093,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightCrawler | 288822 | [288822-nightcrawler.json](./288822-nightcrawler.json) |
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
+| Nightcup | 424467 | [424467-nightcup.json](./424467-nightcup.json) |
 | Nightdawn | 72330 | [72330-nightdawn.json](./72330-nightdawn.json) |
 | NightDirge | 341372 | [341372-nightdirge.json](./341372-nightdirge.json) |
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
