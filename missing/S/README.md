@@ -8327,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake It Co! | 348484 | [348484-shake-it-co.json](./348484-shake-it-co.json) |
 | Shake it up! Dice | 228296 | [228296-shake-it-up-dice.json](./228296-shake-it-up-dice.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
+| Shake Spears! | 52795 | [52795-shake-spears.json](./52795-shake-spears.json) |
 | Shake That Controller! | 118702 | [118702-shake-that-controller.json](./118702-shake-that-controller.json) |
 | Shake the Baby! | 337068 | [337068-shake-the-baby.json](./337068-shake-the-baby.json) |
 | Shake Your Body | 128317 | [128317-shake-your-body.json](./128317-shake-your-body.json) |
@@ -8534,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero | 11078 | [11078-shantae-half-genie-hero.json](./11078-shantae-half-genie-hero.json) |
+| Shantae: Half-Genie Hero - Pirate Queen's Quest | 55176 | [55176-shantae-half-genie-hero-pirate-queens-quest.json](./55176-shantae-half-genie-hero-pirate-queens-quest.json) |
 | Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
@@ -13304,6 +13306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Apres-Ski Party 2 | 44704 | [44704-singstar-apres-ski-party-2.json](./44704-singstar-apres-ski-party-2.json) |
 | SingStar: Back to the 80s | 15195 | [15195-singstar-back-to-the-80s.json](./15195-singstar-back-to-the-80s.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
+| SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
 | SingStar: Chart Hits | 15192 | [15192-singstar-chart-hits.json](./15192-singstar-chart-hits.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Clásicos | 341410 | [341410-singstar-clasicos.json](./341410-singstar-clasicos.json) |
@@ -17366,6 +17369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake VS Block Numbers | 113321 | [113321-snake-vs-block-numbers.json](./113321-snake-vs-block-numbers.json) |
 | Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake vs Snake | 110801 | [110801-snake-vs-snake.json](./110801-snake-vs-snake.json) |
+| Snake vs. Block | 54619 | [54619-snake-vs-block.json](./54619-snake-vs-block.json) |
 | Snake Walk | 239422 | [239422-snake-walk.json](./239422-snake-walk.json) |
 | Snake Warriors: Training | 118913 | [118913-snake-warriors-training.json](./118913-snake-warriors-training.json) |
 | Snake World! | 104510 | [104510-snake-world.json](./104510-snake-world.json) |
@@ -30785,6 +30789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
 | Steve Is Alone | 392501 | [392501-steve-is-alone.json](./392501-steve-is-alone.json) |
+| Steve Jackson's Sorcery!: The Complete Collection | 53672 | [53672-steve-jacksons-sorcery-the-complete-collection.json](./53672-steve-jacksons-sorcery-the-complete-collection.json) |
 | Steve Long Episodes | 273211 | [273211-steve-long-episodes.json](./273211-steve-long-episodes.json) |
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve McQueen Westphaser | 14786 | [14786-steve-mcqueen-westphaser.json](./14786-steve-mcqueen-westphaser.json) |
@@ -31970,6 +31975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Survivors | 286027 | [286027-strange-survivors.json](./286027-strange-survivors.json) |
 | Strange Tales from Longchun: Sacrifice | 400188 | [400188-strange-tales-from-longchun-sacrifice.json](./400188-strange-tales-from-longchun-sacrifice.json) |
 | Strange Tales of Tei-Shan | 301262 | [301262-strange-tales-of-tei-shan.json](./301262-strange-tales-of-tei-shan.json) |
+| Strange Telephone | 54908 | [54908-strange-telephone.json](./54908-strange-telephone.json) |
 | Strange Terror from Beyond the Stars! | 133303 | [133303-strange-terror-from-beyond-the-stars.json](./133303-strange-terror-from-beyond-the-stars.json) |
 | Strange Terror from the Deep | 184939 | [184939-strange-terror-from-the-deep.json](./184939-strange-terror-from-the-deep.json) |
 | Strange Therapy | 181620 | [181620-strange-therapy.json](./181620-strange-therapy.json) |
@@ -37703,6 +37709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Bobble | 138063 | [138063-super-puzzle-bobble.json](./138063-super-puzzle-bobble.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
+| Super Puzzle Fighter II Turbo | 55059 | [55059-super-puzzle-fighter-ii-turbo.json](./55059-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
 | Super Puzzle Fighter II X for Matching Service | 73946 | [73946-super-puzzle-fighter-ii-x-for-matching-service.json](./73946-super-puzzle-fighter-ii-x-for-matching-service.json) |
 | Super Puzzle Galaxy | 163565 | [163565-super-puzzle-galaxy.json](./163565-super-puzzle-galaxy.json) |
