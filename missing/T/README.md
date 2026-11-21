@@ -8569,6 +8569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Commission 1920 | 143304 | [143304-the-commission-1920.json](./143304-the-commission-1920.json) |
 | The Commission: Organized Crime Grand Strategy | 107635 | [107635-the-commission-organized-crime-grand-strategy.json](./107635-the-commission-organized-crime-grand-strategy.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
+| The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company | 421909 | [421909-the-company.json](./421909-the-company.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
@@ -17188,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phenomenon+ | 298836 | [298836-the-phenomenon.json](./298836-the-phenomenon.json) |
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
+| The Phoenix Gene | 348033 | [348033-the-phoenix-gene.json](./348033-the-phoenix-gene.json) |
 | The Phoenix Initiative | 244980 | [244980-the-phoenix-initiative.json](./244980-the-phoenix-initiative.json) |
 | The Phoenix Protocol | 279504 | [279504-the-phoenix-protocol.json](./279504-the-phoenix-protocol.json) |
 | The Phone Game | 423022 | [423022-the-phone-game.json](./423022-the-phone-game.json) |
@@ -27914,6 +27916,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
+| Toaplan Arcade Collection Vol. 1 | 345544 | [345544-toaplan-arcade-collection-vol-1.json](./345544-toaplan-arcade-collection-vol-1.json) |
+| Toaplan Arcade Collection Vol. 2 | 345545 | [345545-toaplan-arcade-collection-vol-2.json](./345545-toaplan-arcade-collection-vol-2.json) |
 | Toaplan Arcade Garage: Flying Fire Shark | 414454 | [414454-toaplan-arcade-garage-flying-fire-shark.json](./414454-toaplan-arcade-garage-flying-fire-shark.json) |
 | Toaplan Arcade Shoot'em Ups 1 | 336053 | [336053-toaplan-arcade-shootem-ups-1.json](./336053-toaplan-arcade-shootem-ups-1.json) |
 | Toaplan Arcade Shoot'em Ups 2 | 263617 | [263617-toaplan-arcade-shootem-ups-2.json](./263617-toaplan-arcade-shootem-ups-2.json) |
