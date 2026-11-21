@@ -13663,7 +13663,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
 | Polarium | 6537 | [6537-polarium.json](./6537-polarium.json) |
-| Polarium Advance | 6536 | [6536-polarium-advance.json](./6536-polarium-advance.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polarized! MonkeyBox 1 | 186426 | [186426-polarized-monkeybox-1.json](./186426-polarized-monkeybox-1.json) |
 | Polaroid Pete | 63466 | [63466-polaroid-pete.json](./63466-polaroid-pete.json) |
@@ -16466,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hearts | 315041 | [315041-primal-hearts.json](./315041-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
 | Primal Hearts 2 | 320220 | [320220-primal-hearts-2.json](./320220-primal-hearts-2.json) |
+| Primal Heir: The Mortal Realm | 420154 | [420154-primal-heir-the-mortal-realm.json](./420154-primal-heir-the-mortal-realm.json) |
 | Primal Hunger | 211271 | [211271-primal-hunger.json](./211271-primal-hunger.json) |
 | Primal Hunt | 233017 | [233017-primal-hunt.json](./233017-primal-hunt.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
@@ -18462,6 +18462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project QT | 151897 | [151897-project-qt.json](./151897-project-qt.json) |
 | Project Quad | 278117 | [278117-project-quad.json](./278117-project-quad.json) |
 | Project Queen's Meadow | 180898 | [180898-project-queens-meadow.json](./180898-project-queens-meadow.json) |
+| Project Quickgunner | 420127 | [420127-project-quickgunner.json](./420127-project-quickgunner.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
 | Project R.A.T. | 100421 | [100421-project-r-a-t.json](./100421-project-r-a-t.json) |
