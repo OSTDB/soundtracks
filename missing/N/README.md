@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Gekitou Ninja Taisen! Special | 75841 | [75841-naruto-shippuden-gekitou-ninja-taisen-special.json](./75841-naruto-shippuden-gekitou-ninja-taisen-special.json) |
 | Naruto Shippuden: Kizuna Drive | 24310 | [24310-naruto-shippuden-kizuna-drive.json](./24310-naruto-shippuden-kizuna-drive.json) |
 | Naruto Shippuden: Legends - Akatsuki Rising | 19658 | [19658-naruto-shippuden-legends-akatsuki-rising.json](./19658-naruto-shippuden-legends-akatsuki-rising.json) |
+| Naruto Shippuden: Naruto vs. Sasuke | 24270 | [24270-naruto-shippuden-naruto-vs-sasuke.json](./24270-naruto-shippuden-naruto-vs-sasuke.json) |
 | Naruto Shippuden: Ninja Council 4 | 21122 | [21122-naruto-shippuden-ninja-council-4.json](./21122-naruto-shippuden-ninja-council-4.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ninja Destiny 3 | 47824 | [47824-naruto-shippuden-ninja-destiny-3.json](./47824-naruto-shippuden-ninja-destiny-3.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Sudoku 3D: 8-tsu no Puzzle de 1000-mon | 222458 | [222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json](./222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
 | Nikoli Sudoku | 97443 | [97443-nikoli-sudoku.json](./97443-nikoli-sudoku.json) |
+| Nikoli's Pencil Puzzle | 24238 | [24238-nikolis-pencil-puzzle.json](./24238-nikolis-pencil-puzzle.json) |
 | Nikopol: Secrets of the Immortals | 10601 | [10601-nikopol-secrets-of-the-immortals.json](./10601-nikopol-secrets-of-the-immortals.json) |
 | Niktophobia | 258805 | [258805-niktophobia.json](./258805-niktophobia.json) |
 | Nikujin | 66500 | [66500-nikujin.json](./66500-nikujin.json) |
