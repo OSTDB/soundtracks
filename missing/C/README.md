@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardinal Land: Tangram Puzzle | 107348 | [107348-cardinal-land-tangram-puzzle.json](./107348-cardinal-land-tangram-puzzle.json) |
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
+| Cardinal Quest 2 | 35050 | [35050-cardinal-quest-2.json](./35050-cardinal-quest-2.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
 | Cardinal Sequence | 333163 | [333163-cardinal-sequence.json](./333163-cardinal-sequence.json) |
 | Cardinal Sins | 308983 | [308983-cardinal-sins.json](./308983-cardinal-sins.json) |
@@ -17716,6 +17717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmopax | 138286 | [138286-cosmopax.json](./138286-cosmopax.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmophobia | 330216 | [330216-cosmophobia.json](./330216-cosmophobia.json) |
+| Cosmophony | 35252 | [35252-cosmophony.json](./35252-cosmophony.json) |
 | CosmoPirates | 258553 | [258553-cosmopirates.json](./258553-cosmopirates.json) |
 | CosmoPlayerZ | 219481 | [219481-cosmoplayerz.json](./219481-cosmoplayerz.json) |
 | Cosmopolis | 280982 | [280982-cosmopolis.json](./280982-cosmopolis.json) |
@@ -20765,6 +20767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossFire HD | 85740 | [85740-crossfire-hd.json](./85740-crossfire-hd.json) |
 | Crossfire II | 170284 | [170284-crossfire-ii.json](./170284-crossfire-ii.json) |
 | Crossfire Zombie Survivor | 233457 | [233457-crossfire-zombie-survivor.json](./233457-crossfire-zombie-survivor.json) |
+| Crossfire: Dungeons | 35262 | [35262-crossfire-dungeons.json](./35262-crossfire-dungeons.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: Legion | 152088 | [152088-crossfire-legion.json](./152088-crossfire-legion.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
@@ -22874,6 +22877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Countess | 413230 | [413230-curse-of-the-countess.json](./413230-curse-of-the-countess.json) |
 | Curse of the Crescent Isle | 66162 | [66162-curse-of-the-crescent-isle.json](./66162-curse-of-the-crescent-isle.json) |
+| Curse of the Crescent Isle DX | 35398 | [35398-curse-of-the-crescent-isle-dx.json](./35398-curse-of-the-crescent-isle-dx.json) |
 | Curse of the Dead Gods | 125373 | [125373-curse-of-the-dead-gods.json](./125373-curse-of-the-dead-gods.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Dragonbeast | 325220 | [325220-curse-of-the-dragonbeast.json](./325220-curse-of-the-dragonbeast.json) |
