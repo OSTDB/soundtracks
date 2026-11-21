@@ -10683,6 +10683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen X | 69615 | [69615-citizen-x.json](./69615-citizen-x.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
+| Citizens of Space | 119251 | [119251-citizens-of-space.json](./119251-citizens-of-space.json) |
 | Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citizens: Far Lands | 171100 | [171100-citizens-far-lands.json](./171100-citizens-far-lands.json) |
 | Citizens: On Mars | 249037 | [249037-citizens-on-mars.json](./249037-citizens-on-mars.json) |
@@ -15010,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandeer | 292507 | [292507-commandeer.json](./292507-commandeer.json) |
 | Commandeer Armament | 98309 | [98309-commandeer-armament.json](./98309-commandeer-armament.json) |
 | Commander - World 1 | 130829 | [130829-commander-world-1.json](./130829-commander-world-1.json) |
+| Commander '85 | 119100 | [119100-commander-85.json](./119100-commander-85.json) |
 | Commander at War | 182054 | [182054-commander-at-war.json](./182054-commander-at-war.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
 | Commander Blood | 50473 | [50473-commander-blood.json](./50473-commander-blood.json) |
