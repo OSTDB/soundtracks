@@ -1941,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 em 1: Game 8 | 245225 | [245225-20-em-1-game-8.json](./245225-20-em-1-game-8.json) |
 | 20 em 1: Game 9 | 245226 | [245226-20-em-1-game-9.json](./245226-20-em-1-game-9.json) |
 | 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
+| 20 Floors Down | 422873 | [422873-20-floors-down.json](./422873-20-floors-down.json) |
 | 20 Games to Play With Your Mates | 98877 | [98877-20-games-to-play-with-your-mates.json](./98877-20-games-to-play-with-your-mates.json) |
 | 20 in 1 | 263636 | [263636-20-in-1.json](./263636-20-in-1.json) |
 | 20 in 1 Family Games Mega Collection | 386365 | [386365-20-in-1-family-games-mega-collection.json](./386365-20-in-1-family-games-mega-collection.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
 | 4-Tris | 41483 | [41483-4-tris.json](./41483-4-tris.json) |
 | 4-Wheel City Drifting | 107576 | [107576-4-wheel-city-drifting.json](./107576-4-wheel-city-drifting.json) |
+| 4:12 AM | 422876 | [422876-4-12-am.json](./422876-4-12-am.json) |
 | 4:32 | 208894 | [208894-4-32.json](./208894-4-32.json) |
 | 4:AM | 272220 | [272220-4-am.json](./272220-4-am.json) |
 | 4:Loop | 381217 | [381217-4-loop.json](./381217-4-loop.json) |
