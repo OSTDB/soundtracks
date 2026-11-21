@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Dot Enemies | 22872 | [22872-one-dot-enemies.json](./22872-one-dot-enemies.json) |
 | One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
+| One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Lee: Prologue | 134787 | [134787-one-eyed-lee-prologue.json](./134787-one-eyed-lee-prologue.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Eyed Ripper | 185232 | [185232-one-eyed-ripper.json](./185232-one-eyed-ripper.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
 | OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
+| Onset | 119395 | [119395-onset.json](./119395-onset.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 151935 | [151935-onslaught.json](./151935-onslaught.json) |
 | Onslaught | 15329 | [15329-onslaught.json](./15329-onslaught.json) |
