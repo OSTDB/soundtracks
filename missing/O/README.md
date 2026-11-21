@@ -1425,7 +1425,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
 | Ohayou, Somnia. | 395359 | [395359-ohayou-somnia.json](./395359-ohayou-somnia.json) |
 | Ohayou! Beginner's Japanese | 85319 | [85319-ohayou-beginners-japanese.json](./85319-ohayou-beginners-japanese.json) |
-| Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | Ohio Distinctive Software Vol. 1 | 315174 | [315174-ohio-distinctive-software-vol-1.json](./315174-ohio-distinctive-software-vol-1.json) |
@@ -1855,10 +1854,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Hockey 98 | 47754 | [47754-olympic-hockey-98.json](./47754-olympic-hockey-98.json) |
 | Olympic Skier | 41133 | [41133-olympic-skier.json](./41133-olympic-skier.json) |
 | Olympic Snow Girl | 415438 | [415438-olympic-snow-girl.json](./415438-olympic-snow-girl.json) |
-| Olympic Soccer | 4292 | [4292-olympic-soccer.json](./4292-olympic-soccer.json) |
 | Olympic Spectacular | 73103 | [73103-olympic-spectacular.json](./73103-olympic-spectacular.json) |
 | Olympic Summer Games | 299314 | [299314-olympic-summer-games.json](./299314-olympic-summer-games.json) |
-| Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
 | Olympic Table Tennis | 142530 | [142530-olympic-table-tennis.json](./142530-olympic-table-tennis.json) |
 | Olympic Team | 83713 | [83713-olympic-team.json](./83713-olympic-team.json) |
@@ -6019,7 +6016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Tales: Survival Online | 118657 | [118657-outlaw-tales-survival-online.json](./118657-outlaw-tales-survival-online.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
-| Outlaw Volleyball | 3806 | [3806-outlaw-volleyball.json](./3806-outlaw-volleyball.json) |
 | Outlaw Volleyball Red Hot | 47379 | [47379-outlaw-volleyball-red-hot.json](./47379-outlaw-volleyball-red-hot.json) |
 | Outlaw Volleyball: Remixed | 43628 | [43628-outlaw-volleyball-remixed.json](./43628-outlaw-volleyball-remixed.json) |
 | Outlaw's Gold | 319715 | [319715-outlaws-gold.json](./319715-outlaws-gold.json) |
