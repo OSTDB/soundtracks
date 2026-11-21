@@ -16472,6 +16472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 21: Digital Deluxe Edition | 164688 | [164688-mlb-the-show-21-digital-deluxe-edition.json](./164688-mlb-the-show-21-digital-deluxe-edition.json) |
 | MLB The Show 21: Jackie Robinson Edition | 146034 | [146034-mlb-the-show-21-jackie-robinson-edition.json](./146034-mlb-the-show-21-jackie-robinson-edition.json) |
 | MLB The Show 22: Digital Deluxe Edition | 196514 | [196514-mlb-the-show-22-digital-deluxe-edition.json](./196514-mlb-the-show-22-digital-deluxe-edition.json) |
+| MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 23: Digital Deluxe Edition | 237756 | [237756-mlb-the-show-23-digital-deluxe-edition.json](./237756-mlb-the-show-23-digital-deluxe-edition.json) |
 | MLB The Show 23: The Captain Edition | 242888 | [242888-mlb-the-show-23-the-captain-edition.json](./242888-mlb-the-show-23-the-captain-edition.json) |
 | MLB The Show 24 | 282900 | [282900-mlb-the-show-24.json](./282900-mlb-the-show-24.json) |
@@ -17479,6 +17480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monarchs Dawn | 145146 | [145146-monarchs-dawn.json](./145146-monarchs-dawn.json) |
 | Monarchy | 260435 | [260435-monarchy.json](./260435-monarchy.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
+| Monark | 151159 | [151159-monark.json](./151159-monark.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
