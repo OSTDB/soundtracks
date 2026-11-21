@@ -6461,6 +6461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Captain Allowed! | 130039 | [130039-no-captain-allowed.json](./130039-no-captain-allowed.json) |
 | No Cat Fights Here | 199247 | [199247-no-cat-fights-here.json](./199247-no-cat-fights-here.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
+| No Clean Start | 430839 | [430839-no-clean-start.json](./430839-no-clean-start.json) |
 | No Clean, No Exit | 414769 | [414769-no-clean-no-exit.json](./414769-no-clean-no-exit.json) |
 | No Clue VR | 28669 | [28669-no-clue-vr.json](./28669-no-clue-vr.json) |
 | No Conclusions Yet | 389369 | [389369-no-conclusions-yet.json](./389369-no-conclusions-yet.json) |
