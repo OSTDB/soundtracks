@@ -6840,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Folk of Faery | 356212 | [356212-little-folk-of-faery.json](./356212-little-folk-of-faery.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
+| Little Friends: Puppy Island | 242923 | [242923-little-friends-puppy-island.json](./242923-little-friends-puppy-island.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
@@ -9269,7 +9270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
 | Lost Eve | 166886 | [166886-lost-eve.json](./166886-lost-eve.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
-| Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Exit | 405784 | [405784-lost-exit.json](./405784-lost-exit.json) |
 | Lost Expeditions: Station One | 131624 | [131624-lost-expeditions-station-one.json](./131624-lost-expeditions-station-one.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
