@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.G.L: Elephant Gay League | 243852 | [243852-e-g-l-elephant-gay-league.json](./243852-e-g-l-elephant-gay-league.json) |
+| E.G.O. Software Suite | 426695 | [426695-e-g-o-software-suite.json](./426695-e-g-o-software-suite.json) |
 | E.Hack//G.U. Vol1 | 124282 | [124282-e-hack-g-u-vol1.json](./124282-e-hack-g-u-vol1.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
