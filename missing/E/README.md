@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EchoMon: Pack & Stack | 430514 | [430514-echomon-pack-and-stack.json](./430514-echomon-pack-and-stack.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
+| Echoris | 423810 | [423810-echoris.json](./423810-echoris.json) |
 | Echos in the Dark | 266621 | [266621-echos-in-the-dark.json](./266621-echos-in-the-dark.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 22976 | [22976-echoshift.json](./22976-echoshift.json) |
