@@ -6809,6 +6809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcana | 124469 | [124469-the-arcana.json](./124469-the-arcana.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
+| The Arcane Archive | 424462 | [424462-the-arcane-archive.json](./424462-the-arcane-archive.json) |
 | The Arcane Open | 424203 | [424203-the-arcane-open.json](./424203-the-arcane-open.json) |
 | The Arcane Relics | 176561 | [176561-the-arcane-relics.json](./176561-the-arcane-relics.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
@@ -10676,6 +10677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The False Alice: Retold Tale | 371528 | [371528-the-false-alice-retold-tale.json](./371528-the-false-alice-retold-tale.json) |
 | The False Culprit | 374562 | [374562-the-false-culprit.json](./374562-the-false-culprit.json) |
 | The False God's Fold | 374560 | [374560-the-false-gods-fold.json](./374560-the-false-gods-fold.json) |
+| The Fame Game II: L.A. Heartbreaker | 424455 | [424455-the-fame-game-ii-l-a-heartbreaker.json](./424455-the-fame-game-ii-l-a-heartbreaker.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family | 218652 | [218652-the-family.json](./218652-the-family.json) |
 | The Family | 380909 | [380909-the-family.json](./380909-the-family.json) |
@@ -15490,6 +15492,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lovely Estate | 203994 | [203994-the-lovely-estate.json](./203994-the-lovely-estate.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Low Road | 28049 | [28049-the-low-road.json](./28049-the-low-road.json) |
+| The Lubs 2: Straw Hats | 424460 | [424460-the-lubs-2-straw-hats.json](./424460-the-lubs-2-straw-hats.json) |
+| The Lubs: True Alliance | 424461 | [424461-the-lubs-true-alliance.json](./424461-the-lubs-true-alliance.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
@@ -26152,6 +26156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Connect: Tile Match Game | 219956 | [219956-tile-connect-tile-match-game.json](./219956-tile-connect-tile-match-game.json) |
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
+| Tile Crawl | 424463 | [424463-tile-crawl.json](./424463-tile-crawl.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Crusher | 186221 | [186221-tile-crusher.json](./186221-tile-crusher.json) |
 | Tile Flip | 196189 | [196189-tile-flip.json](./196189-tile-flip.json) |
@@ -30020,6 +30025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Annihilation: The Core Contingency | 71462 | [71462-total-annihilation-the-core-contingency.json](./71462-total-annihilation-the-core-contingency.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
+| Total Backfire | 424374 | [424374-total-backfire.json](./424374-total-backfire.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Battleground | 101416 | [101416-total-battleground.json](./101416-total-battleground.json) |
 | Total blade | 278290 | [278290-total-blade.json](./278290-total-blade.json) |
@@ -38816,6 +38822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing with Ghostie | 424819 | [424819-typing-with-ghostie.json](./424819-typing-with-ghostie.json) |
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
 | Typing with Sharks | 150832 | [150832-typing-with-sharks.json](./150832-typing-with-sharks.json) |
+| Typing... | 424465 | [424465-typing.json](./424465-typing.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
 | TypingTube | 133701 | [133701-typingtube.json](./133701-typingtube.json) |
