@@ -8137,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Tenmei | 303714 | [303714-beyond-tenmei.json](./303714-beyond-tenmei.json) |
 | Beyond Terra | 177737 | [177737-beyond-terra.json](./177737-beyond-terra.json) |
 | Beyond Terra | 292501 | [292501-beyond-terra.json](./292501-beyond-terra.json) |
+| Beyond the 10th | 420826 | [420826-beyond-the-10th.json](./420826-beyond-the-10th.json) |
 | Beyond the Abyss | 86126 | [86126-beyond-the-abyss.json](./86126-beyond-the-abyss.json) |
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond The Blight | 419636 | [419636-beyond-the-blight.json](./419636-beyond-the-blight.json) |
@@ -16239,6 +16240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling King | 57775 | [57775-bowling-king.json](./57775-bowling-king.json) |
 | Bowling Lane 3D | 89038 | [89038-bowling-lane-3d.json](./89038-bowling-lane-3d.json) |
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
+| Bowling Mayhem | 420822 | [420822-bowling-mayhem.json](./420822-bowling-mayhem.json) |
 | Bowling Over It | 116091 | [116091-bowling-over-it.json](./116091-bowling-over-it.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowling Simulator | 326476 | [326476-bowling-simulator.json](./326476-bowling-simulator.json) |
