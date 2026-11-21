@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareQuest: An Interactive Tail | 262795 | [262795-marequest-an-interactive-tail.json](./262795-marequest-an-interactive-tail.json) |
 | Marerium | 328152 | [328152-marerium.json](./328152-marerium.json) |
 | MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
+| Marewell Peak | 420821 | [420821-marewell-peak.json](./420821-marewell-peak.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Margaret's Little Shop of Wonders | 251944 | [251944-margarets-little-shop-of-wonders.json](./251944-margarets-little-shop-of-wonders.json) |
 | Margaret's Sin | 332149 | [332149-margarets-sin.json](./332149-margarets-sin.json) |
@@ -13835,6 +13836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako | 101380 | [101380-minako.json](./101380-minako.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
+| Minami Aoyama Adventure | 420827 | [420827-minami-aoyama-adventure.json](./420827-minami-aoyama-adventure.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Minami no Umi no Odyssey | 49687 | [49687-minami-no-umi-no-odyssey.json](./49687-minami-no-umi-no-odyssey.json) |
 | Minami Taiheiyou Adventure | 400335 | [400335-minami-taiheiyou-adventure.json](./400335-minami-taiheiyou-adventure.json) |
@@ -21387,6 +21389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Challenger | 245432 | [245432-mr-challenger.json](./245432-mr-challenger.json) |
 | Mr. Cheesy | 182937 | [182937-mr-cheesy.json](./182937-mr-cheesy.json) |
+| Mr. Chicken's Totally Ethical Farm | 420855 | [420855-mr-chickens-totally-ethical-farm.json](./420855-mr-chickens-totally-ethical-farm.json) |
 | Mr. Ching | 41788 | [41788-mr-ching.json](./41788-mr-ching.json) |
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
