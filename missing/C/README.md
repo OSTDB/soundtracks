@@ -3828,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Casey Taylor: Ace Attorney | 302646 | [302646-casey-taylor-ace-attorney.json](./302646-casey-taylor-ace-attorney.json) |
 | Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
+| Cash & Stash: A Vaultkeeper Story | 428583 | [428583-cash-and-stash-a-vaultkeeper-story.json](./428583-cash-and-stash-a-vaultkeeper-story.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
 | Cash Cow DX | 262807 | [262807-cash-cow-dx.json](./262807-cash-cow-dx.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
@@ -14968,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command and Conquer Map Pack | 273143 | [273143-command-and-conquer-map-pack.json](./273143-command-and-conquer-map-pack.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
+| Command at Your Own Risk | 428602 | [428602-command-at-your-own-risk.json](./428602-command-at-your-own-risk.json) |
 | Command Bots | 179435 | [179435-command-bots.json](./179435-command-bots.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Deck | 348577 | [348577-command-deck.json](./348577-command-deck.json) |
@@ -18470,6 +18472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
 | Cozyfish.io | 428520 | [428520-cozyfish-io.json](./428520-cozyfish-io.json) |
+| Cozymancer: Wizard Tower Restoration | 428584 | [428584-cozymancer-wizard-tower-restoration.json](./428584-cozymancer-wizard-tower-restoration.json) |
 | Cozynauts | 266617 | [266617-cozynauts.json](./266617-cozynauts.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
@@ -21968,6 +21971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR Native | 407953 | [407953-ctr-native.json](./407953-ctr-native.json) |
 | CTR Nitro-Fueled PC | 424884 | [424884-ctr-nitro-fueled-pc.json](./424884-ctr-nitro-fueled-pc.json) |
+| CTR: Coco Team Racing | 428600 | [428600-ctr-coco-team-racing.json](./428600-ctr-coco-team-racing.json) |
 | CTR: Nightmare Fueled | 427285 | [427285-ctr-nightmare-fueled.json](./427285-ctr-nightmare-fueled.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
