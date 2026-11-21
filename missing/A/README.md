@@ -3136,7 +3136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 8: Wings of Theve - Customizable Cosmetic Set | 404096 | [404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json](./404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json) |
 | Ace Combat 8: Wings of Theve - Playable Aircraft: F-14A | 404094 | [404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json](./404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json) |
 | Ace Combat 8: Wings of Theve Deluxe Edition | 404097 | [404097-ace-combat-8-wings-of-theve-deluxe-edition.json](./404097-ace-combat-8-wings-of-theve-deluxe-edition.json) |
-| Ace Combat Advance | 6297 | [6297-ace-combat-advance.json](./6297-ace-combat-advance.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat X: Skies of Deception | 14755 | [14755-ace-combat-x-skies-of-deception.json](./14755-ace-combat-x-skies-of-deception.json) |
@@ -3616,7 +3615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
-| Active Life: Explorer | 4659 | [4659-active-life-explorer.json](./4659-active-life-explorer.json) |
 | Active Life: Magical Carnival | 50686 | [50686-active-life-magical-carnival.json](./50686-active-life-magical-carnival.json) |
 | Active Life: Outdoor Challenge | 50685 | [50685-active-life-outdoor-challenge.json](./50685-active-life-outdoor-challenge.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
@@ -4916,7 +4914,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerotopia | 379496 | [379496-aerotopia.json](./379496-aerotopia.json) |
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
 | AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
-| AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aerox | 27948 | [27948-aerox.json](./27948-aerox.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
@@ -6470,7 +6467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
 | Air Conflicts | 1490 | [1490-air-conflicts.json](./1490-air-conflicts.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
-| Air Conflicts: Aces of World War II | 3829 | [3829-air-conflicts-aces-of-world-war-ii.json](./3829-air-conflicts-aces-of-world-war-ii.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
 | Air Conflicts: Pacific Carriers | 3831 | [3831-air-conflicts-pacific-carriers.json](./3831-air-conflicts-pacific-carriers.json) |
 | Air Conflicts: Pacific Carriers - PlayStation 4 Edition | 99768 | [99768-air-conflicts-pacific-carriers-playstation-4-edition.json](./99768-air-conflicts-pacific-carriers-playstation-4-edition.json) |
@@ -9545,7 +9541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alveole | 164863 | [164863-alveole.json](./164863-alveole.json) |
 | Alveron: Withering Roots | 244651 | [244651-alveron-withering-roots.json](./244651-alveron-withering-roots.json) |
 | Alvin and the Chipmunks | 4669 | [4669-alvin-and-the-chipmunks.json](./4669-alvin-and-the-chipmunks.json) |
-| Alvin and the Chipmunks: The Squeakquel | 4671 | [4671-alvin-and-the-chipmunks-the-squeakquel.json](./4671-alvin-and-the-chipmunks-the-squeakquel.json) |
 | Alvin and the Deathmunks | 332721 | [332721-alvin-and-the-deathmunks.json](./332721-alvin-and-the-deathmunks.json) |
 | Alvin the Android | 70001 | [70001-alvin-the-android.json](./70001-alvin-the-android.json) |
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
@@ -10096,7 +10091,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army 3 | 15798 | [15798-americas-army-3.json](./15798-americas-army-3.json) |
 | America's Army: Operations | 137508 | [137508-americas-army-operations.json](./137508-americas-army-operations.json) |
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
-| America's Army: Rise of a Soldier | 5722 | [5722-americas-army-rise-of-a-soldier.json](./5722-americas-army-rise-of-a-soldier.json) |
 | America's Army: Special Forces | 51622 | [51622-americas-army-special-forces.json](./51622-americas-army-special-forces.json) |
 | America's Army: True Soldiers | 5482 | [5482-americas-army-true-soldiers.json](./5482-americas-army-true-soldiers.json) |
 | America's Cup Challenge | 13312 | [13312-americas-cup-challenge.json](./13312-americas-cup-challenge.json) |
@@ -10182,7 +10176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American History Lux | 25290 | [25290-american-history-lux.json](./25290-american-history-lux.json) |
 | American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
-| American Idol | 6304 | [6304-american-idol.json](./6304-american-idol.json) |
 | American Idol: Double Dance Showdown | 378150 | [378150-american-idol-double-dance-showdown.json](./378150-american-idol-double-dance-showdown.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
@@ -10317,10 +10310,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling 2004 | 5723 | [5723-amf-bowling-2004.json](./5723-amf-bowling-2004.json) |
 | AMF Bowling Deluxe 2D | 206116 | [206116-amf-bowling-deluxe-2d.json](./206116-amf-bowling-deluxe-2d.json) |
 | AMF Bowling Deluxe 3D | 206117 | [206117-amf-bowling-deluxe-3d.json](./206117-amf-bowling-deluxe-3d.json) |
-| AMF Bowling Pinbusters! | 4672 | [4672-amf-bowling-pinbusters.json](./4672-amf-bowling-pinbusters.json) |
 | AMF Bowling World Lanes | 4673 | [4673-amf-bowling-world-lanes.json](./4673-amf-bowling-world-lanes.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
-| AMF Xtreme Bowling 2006 | 5724 | [5724-amf-xtreme-bowling-2006.json](./5724-amf-xtreme-bowling-2006.json) |
 | AMF: Extreme Bowling | 46035 | [46035-amf-extreme-bowling.json](./46035-amf-extreme-bowling.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
@@ -11074,7 +11065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancipital | 13801 | [13801-ancipital.json](./13801-ancipital.json) |
 | Ancra | 178235 | [178235-ancra.json](./178235-ancra.json) |
 | Ancraophobia | 289148 | [289148-ancraophobia.json](./289148-ancraophobia.json) |
-| AND 1 Streetball | 5726 | [5726-and-1-streetball.json](./5726-and-1-streetball.json) |
 | And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
 | And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
@@ -12059,7 +12049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: Lights, Camera, Action! | 248756 | [248756-animaniacs-lights-camera-action.json](./248756-animaniacs-lights-camera-action.json) |
 | Animaniacs: Lights, Camera, Action! | 6306 | [6306-animaniacs-lights-camera-action.json](./6306-animaniacs-lights-camera-action.json) |
 | Animaniacs: Ten Pin Alley | 19432 | [19432-animaniacs-ten-pin-alley.json](./19432-animaniacs-ten-pin-alley.json) |
-| Animaniacs: The Great Edgar Hunt | 3786 | [3786-animaniacs-the-great-edgar-hunt.json](./3786-animaniacs-the-great-edgar-hunt.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
 | Animastar | 6712 | [6712-animastar.json](./6712-animastar.json) |
@@ -13270,7 +13259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antyavan | 361941 | [361941-antyavan.json](./361941-antyavan.json) |
 | Antz | 94622 | [94622-antz.json](./94622-antz.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
-| Antz Extreme Racing | 5727 | [5727-antz-extreme-racing.json](./5727-antz-extreme-racing.json) |
 | Antz Racing | 71725 | [71725-antz-racing.json](./71725-antz-racing.json) |
 | Antz World Sportz | 50059 | [50059-antz-world-sportz.json](./50059-antz-world-sportz.json) |
 | Antz: Panic in the Anthill! | 371232 | [371232-antz-panic-in-the-anthill.json](./371232-antz-panic-in-the-anthill.json) |
@@ -13278,7 +13266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis | 302915 | [302915-anubis.json](./302915-anubis.json) |
 | Anubis Clicker | 236535 | [236535-anubis-clicker.json](./236535-anubis-clicker.json) |
 | Anubis Dungeon | 76495 | [76495-anubis-dungeon.json](./76495-anubis-dungeon.json) |
-| Anubis II | 4677 | [4677-anubis-ii.json](./4677-anubis-ii.json) |
 | Anubis of the Moon's Surface | 38017 | [38017-anubis-of-the-moons-surface.json](./38017-anubis-of-the-moons-surface.json) |
 | Anubis Temple: La Perla de Egipto | 424729 | [424729-anubis-temple-la-perla-de-egipto.json](./424729-anubis-temple-la-perla-de-egipto.json) |
 | Anubis Temple: Skin Dinosaurio (Niña) | 424731 | [424731-anubis-temple-skin-dinosaurio-nina.json](./424731-anubis-temple-skin-dinosaurio-nina.json) |
@@ -15188,7 +15175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Famiglia: Vascello Phantasma no Majutsushi | 64668 | [64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json](./64668-arcana-famiglia-vascello-phantasma-no-majutsushi.json) |
 | Arcana Heart | 243694 | [243694-arcana-heart.json](./243694-arcana-heart.json) |
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
-| Arcana Heart 3 | 5490 | [5490-arcana-heart-3.json](./5490-arcana-heart-3.json) |
 | Arcana Heart 3 Lovemax Sixstars!!!!!! Xtend | 146590 | [146590-arcana-heart-3-lovemax-sixstars-xtend.json](./146590-arcana-heart-3-lovemax-sixstars-xtend.json) |
 | Arcana Heart 3: Love Max!!!!! | 24608 | [24608-arcana-heart-3-love-max.json](./24608-arcana-heart-3-love-max.json) |
 | Arcana Heart Full! | 234824 | [234824-arcana-heart-full.json](./234824-arcana-heart-full.json) |
@@ -15640,7 +15626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Station Six | 427295 | [427295-arctic-station-six.json](./427295-arctic-station-six.json) |
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
-| Arctic Tale | 4679 | [4679-arctic-tale.json](./4679-arctic-tale.json) |
 | Arctic Thunder | 3703 | [3703-arctic-thunder.json](./3703-arctic-thunder.json) |
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
 | Arctic Wolves | 338153 | [338153-arctic-wolves.json](./338153-arctic-wolves.json) |
@@ -16662,7 +16647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men | 118488 | [118488-army-men.json](./118488-army-men.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
-| Army Men Advance | 6307 | [6307-army-men-advance.json](./6307-army-men-advance.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men Destroy 1.1 | 88568 | [88568-army-men-destroy-1-1.json](./88568-army-men-destroy-1-1.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
@@ -16680,7 +16664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
-| Army Men: Operation Green | 6308 | [6308-army-men-operation-green.json](./6308-army-men-operation-green.json) |
 | Army Men: RTS | 8498 | [8498-army-men-rts.json](./8498-army-men-rts.json) |
 | Army Men: Sarge's Heroes | 3440 | [3440-army-men-sarges-heroes.json](./3440-army-men-sarges-heroes.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
@@ -19246,7 +19229,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari 50: The First Console War | 317961 | [317961-atari-50-the-first-console-war.json](./317961-atari-50-the-first-console-war.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
-| Atari Anniversary Edition | 6311 | [6311-atari-anniversary-edition.json](./6311-atari-anniversary-edition.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
 | Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
@@ -19727,7 +19709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Adam: Episode 1 | 79801 | [79801-atomic-adam-episode-1.json](./79801-atomic-adam-episode-1.json) |
 | Atomic Age | 372913 | [372913-atomic-age.json](./372913-atomic-age.json) |
 | Atomic Arena | 293568 | [293568-atomic-arena.json](./293568-atomic-arena.json) |
-| Atomic Betty | 6312 | [6312-atomic-betty.json](./6312-atomic-betty.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
 | Atomic Betty: Intergalactic Conspiracy | 205892 | [205892-atomic-betty-intergalactic-conspiracy.json](./205892-atomic-betty-intergalactic-conspiracy.json) |
 | Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
@@ -20088,8 +20069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
 | ATV Quad Power Racing | 248615 | [248615-atv-quad-power-racing.json](./248615-atv-quad-power-racing.json) |
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
-| ATV Quad Power Racing 2 | 3790 | [3790-atv-quad-power-racing-2.json](./3790-atv-quad-power-racing-2.json) |
-| ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
 | ATV Quadracer Ultimate | 32039 | [32039-atv-quadracer-ultimate.json](./32039-atv-quadracer-ultimate.json) |
 | ATV Quadracer Vol.2 | 100250 | [100250-atv-quadracer-vol-2.json](./100250-atv-quadracer-vol-2.json) |
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
