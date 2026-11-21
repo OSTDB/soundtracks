@@ -11302,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
 | Hook Adventure | 260438 | [260438-hook-adventure.json](./260438-hook-adventure.json) |
+| Hook and Gun | 420135 | [420135-hook-and-gun.json](./420135-hook-and-gun.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Escaper | 226532 | [226532-hook-escaper.json](./226532-hook-escaper.json) |
 | Hook it, Drift it, Race it | 180490 | [180490-hook-it-drift-it-race-it.json](./180490-hook-it-drift-it-race-it.json) |
@@ -12279,7 +12280,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Potato Online | 288009 | [288009-hot-potato-online.json](./288009-hot-potato-online.json) |
 | Hot Potato: Tag Out | 403858 | [403858-hot-potato-tag-out.json](./403858-hot-potato-tag-out.json) |
-| Hot Potato! | 6437 | [6437-hot-potato.json](./6437-hot-potato.json) |
 | Hot Property | 393588 | [393588-hot-property.json](./393588-hot-property.json) |
 | Hot Pussy College | 221562 | [221562-hot-pussy-college.json](./221562-hot-pussy-college.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
