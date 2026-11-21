@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
+| Hakugin no Ryu to Rakuen no Shojo | 425496 | [425496-hakugin-no-ryu-to-rakuen-no-shojo.json](./425496-hakugin-no-ryu-to-rakuen-no-shojo.json) |
 | Hakuin Tenshi | 108124 | [108124-hakuin-tenshi.json](./108124-hakuin-tenshi.json) |
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakunetsu Pro Yakyuu '94 Ganba League 3 | 38173 | [38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json](./38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
 | Halls of Torment: The Boglands | 375781 | [375781-halls-of-torment-the-boglands.json](./375781-halls-of-torment-the-boglands.json) |
+| Halls of Torment: The Lost Archives | 425487 | [425487-halls-of-torment-the-lost-archives.json](./425487-halls-of-torment-the-lost-archives.json) |
 | Halls of Watershot | 258296 | [258296-halls-of-watershot.json](./258296-halls-of-watershot.json) |
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
 | Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
 | Hard Corps: Uprising | 21174 | [21174-hard-corps-uprising.json](./21174-hard-corps-uprising.json) |
+| Hard Corps: Uprising - PC Port | 425616 | [425616-hard-corps-uprising-pc-port.json](./425616-hard-corps-uprising-pc-port.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Depot | 428125 | [428125-hard-depot.json](./428125-hard-depot.json) |
@@ -14757,6 +14760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperforma: Complete Edition | 302268 | [302268-hyperforma-complete-edition.json](./302268-hyperforma-complete-edition.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
+| Hyperfrag | 425613 | [425613-hyperfrag.json](./425613-hyperfrag.json) |
 | Hyperfunk | 368929 | [368929-hyperfunk.json](./368929-hyperfunk.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
