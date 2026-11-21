@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Zaiteku Satsujin Jiken | 48869 | [48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json](./48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json) |
 | Yamao-den | 201205 | [201205-yamao-den.json](./201205-yamao-den.json) |
+| Yamaraja | 422643 | [422643-yamaraja.json](./422643-yamaraja.json) |
 | Yamasa Digi Guide: Faust | 361388 | [361388-yamasa-digi-guide-faust.json](./361388-yamasa-digi-guide-faust.json) |
 | Yamasa Digi Guide: Hyper Rush | 357102 | [357102-yamasa-digi-guide-hyper-rush.json](./357102-yamasa-digi-guide-hyper-rush.json) |
 | Yamasa Digi Guide: M-771 | 357103 | [357103-yamasa-digi-guide-m-771.json](./357103-yamasa-digi-guide-m-771.json) |
