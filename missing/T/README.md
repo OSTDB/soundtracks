@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Memories II Joukan | 72948 | [72948-taito-memories-ii-joukan.json](./72948-taito-memories-ii-joukan.json) |
 | Taito Memories Joukan | 72791 | [72791-taito-memories-joukan.json](./72791-taito-memories-joukan.json) |
 | Taito Memories Pocket | 71784 | [71784-taito-memories-pocket.json](./71784-taito-memories-pocket.json) |
+| Taito Milestones | 153212 | [153212-taito-milestones.json](./153212-taito-milestones.json) |
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
@@ -8742,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack | 290034 | [290034-the-crack.json](./290034-the-crack.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
+| The Crackpet Show | 154039 | [154039-the-crackpet-show.json](./154039-the-crackpet-show.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 262228 | [262228-the-crackpet-show-happy-tree-friends-edition.json](./262228-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
@@ -22963,6 +22965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thingio Side B: The Grand Illusion | 323783 | [323783-thingio-side-b-the-grand-illusion.json](./323783-thingio-side-b-the-grand-illusion.json) |
 | Things As They Are | 113303 | [113303-things-as-they-are.json](./113303-things-as-they-are.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
+| Things That Bounce and Explode | 149011 | [149011-things-that-bounce-and-explode.json](./149011-things-that-bounce-and-explode.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
 | Things That Never Were | 410572 | [410572-things-that-never-were.json](./410572-things-that-never-were.json) |
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
