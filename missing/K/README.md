@@ -7272,6 +7272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar's Typing World | 338078 | [338078-kutars-typing-world.json](./338078-kutars-typing-world.json) |
 | Kute Knight | 318683 | [318683-kute-knight.json](./318683-kute-knight.json) |
 | Kutha Stroom Rush | 337511 | [337511-kutha-stroom-rush.json](./337511-kutha-stroom-rush.json) |
+| Kuto: The Lock of Time | 423816 | [423816-kuto-the-lock-of-time.json](./423816-kuto-the-lock-of-time.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
 | Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
