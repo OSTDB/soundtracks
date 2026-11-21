@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
 | Dawndusk Dream Sewer | 134773 | [134773-dawndusk-dream-sewer.json](./134773-dawndusk-dream-sewer.json) |
 | Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
+| Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawnforge Nightfall | 426520 | [426520-dawnforge-nightfall.json](./426520-dawnforge-nightfall.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawngazer | 419735 | [419735-dawngazer.json](./419735-dawngazer.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Tokyo Ghoul - Cosmetic Pack | 338124 | [338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json](./338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json) |
 | Dead by Daylight: Tokyo Ghoul Edition | 338127 | [338127-dead-by-daylight-tokyo-ghoul-edition.json](./338127-dead-by-daylight-tokyo-ghoul-edition.json) |
 | Dead by Daylight: Tomb Raider Chapter | 308596 | [308596-dead-by-daylight-tomb-raider-chapter.json](./308596-dead-by-daylight-tomb-raider-chapter.json) |
+| Dead by Daylight: Tools of Torment Chapter | 241319 | [241319-dead-by-daylight-tools-of-torment-chapter.json](./241319-dead-by-daylight-tools-of-torment-chapter.json) |
 | Dead by Daylight: Ultimate Edition | 164671 | [164671-dead-by-daylight-ultimate-edition.json](./164671-dead-by-daylight-ultimate-edition.json) |
 | Dead by Death | 105024 | [105024-dead-by-death.json](./105024-dead-by-death.json) |
 | Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
@@ -12410,6 +12412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Villains' Revenge | 46431 | [46431-disneys-villains-revenge.json](./46431-disneys-villains-revenge.json) |
 | Disney's Winnie the Pooh & Tigger Too: Animated Storybook | 209032 | [209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json](./209032-disneys-winnie-the-pooh-and-tigger-too-animated-storybook.json) |
 | Disney's Winnie the Pooh Preschool | 69231 | [69231-disneys-winnie-the-pooh-preschool.json](./69231-disneys-winnie-the-pooh-preschool.json) |
+| Disney's Winnie the Pooh's Rumbly Tumbly Adventure | 243185 | [243185-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json](./243185-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure | 4234 | [4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json](./4234-disneys-winnie-the-poohs-rumbly-tumbly-adventure.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disney's You Can Fly! with Tinker Bell | 209033 | [209033-disneys-you-can-fly-with-tinker-bell.json](./209033-disneys-you-can-fly-with-tinker-bell.json) |
@@ -16428,6 +16431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Emmerson's Nocturnes | 244355 | [244355-dr-emmersons-nocturnes.json](./244355-dr-emmersons-nocturnes.json) |
 | Dr. Emoji | 181147 | [181147-dr-emoji.json](./181147-dr-emoji.json) |
 | Dr. Fad | 198732 | [198732-dr-fad.json](./198732-dr-fad.json) |
+| Dr. Fetus' Mean Meat Machine | 242082 | [242082-dr-fetus-mean-meat-machine.json](./242082-dr-fetus-mean-meat-machine.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Fizzgigious Fantabulous Carbon Dating Simulacrum | 76825 | [76825-dr-fizzgigious-fantabulous-carbon-dating-simulacrum.json](./76825-dr-fizzgigious-fantabulous-carbon-dating-simulacrum.json) |
 | Dr. Frank's Build a Boyfriend | 86627 | [86627-dr-franks-build-a-boyfriend.json](./86627-dr-franks-build-a-boyfriend.json) |
@@ -18925,6 +18929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
 | DreamWorks Trolls Remix Rescue: Deluxe Character Pack | 274620 | [274620-dreamworks-trolls-remix-rescue-deluxe-character-pack.json](./274620-dreamworks-trolls-remix-rescue-deluxe-character-pack.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
+| Dreamworks' Shark Tale | 243200 | [243200-dreamworks-shark-tale.json](./243200-dreamworks-shark-tale.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | Dreamworld | 174103 | [174103-dreamworld.json](./174103-dreamworld.json) |
