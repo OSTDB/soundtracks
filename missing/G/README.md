@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Tales of the Snathi | 396614 | [396614-galactic-civilizations-iv-tales-of-the-snathi.json](./396614-galactic-civilizations-iv-tales-of-the-snathi.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
 | Galactic Civilizations: Altarian Prophecy | 69624 | [69624-galactic-civilizations-altarian-prophecy.json](./69624-galactic-civilizations-altarian-prophecy.json) |
+| Galactic Civilizations: Deluxe Edition | 24253 | [24253-galactic-civilizations-deluxe-edition.json](./24253-galactic-civilizations-deluxe-edition.json) |
 | Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
 | Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
 | Galactic Command - Excalibur | 72835 | [72835-galactic-command-excalibur.json](./72835-galactic-command-excalibur.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Girl Gotta Groove | 65916 | [65916-generation-girl-gotta-groove.json](./65916-generation-girl-gotta-groove.json) |
 | Generation N: Identity Included | 238812 | [238812-generation-n-identity-included.json](./238812-generation-n-identity-included.json) |
 | Generation Nova | 169802 | [169802-generation-nova.json](./169802-generation-nova.json) |
+| Generation of Chaos | 24274 | [24274-generation-of-chaos.json](./24274-generation-of-chaos.json) |
 | Generation of Chaos III | 61251 | [61251-generation-of-chaos-iii.json](./61251-generation-of-chaos-iii.json) |
 | Generation of Chaos Next | 61253 | [61253-generation-of-chaos-next.json](./61253-generation-of-chaos-next.json) |
 | Generation of Chaos: Desire | 61249 | [61249-generation-of-chaos-desire.json](./61249-generation-of-chaos-desire.json) |
@@ -9772,6 +9774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Gravitee Wars | 310833 | [310833-gravitee-wars.json](./310833-gravitee-wars.json) |
 | Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
+| Graviteer: Cosmic Expedition | 24201 | [24201-graviteer-cosmic-expedition.json](./24201-graviteer-cosmic-expedition.json) |
 | Graviter | 131834 | [131834-graviter.json](./131834-graviter.json) |
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
@@ -11842,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guarding Goddess | 207331 | [207331-guarding-goddess.json](./207331-guarding-goddess.json) |
 | Guardiões da Natureza: Mamíferos | 290089 | [290089-guardioes-da-natureza-mamiferos.json](./290089-guardioes-da-natureza-mamiferos.json) |
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
+| Guards | 24208 | [24208-guards.json](./24208-guards.json) |
 | Guards II: Chaos in Hell | 253297 | [253297-guards-ii-chaos-in-hell.json](./253297-guards-ii-chaos-in-hell.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
 | Guards! | 266605 | [266605-guards.json](./266605-guards.json) |
@@ -12075,6 +12079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
+| Guilty Gear Judgment | 24196 | [24196-guilty-gear-judgment.json](./24196-guilty-gear-judgment.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
 | Guilty Gear Strive: In the Name of Peace | 372007 | [372007-guilty-gear-strive-in-the-name-of-peace.json](./372007-guilty-gear-strive-in-the-name-of-peace.json) |
