@@ -2309,7 +2309,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | KeyBreach | 389690 | [389690-keybreach.json](./389690-keybreach.json) |
 | Keycap Keycap! | 420975 | [420975-keycap-keycap.json](./420975-keycap-keycap.json) |
+| Keycap Story: Tidy Up Together | 430848 | [430848-keycap-story-tidy-up-together.json](./430848-keycap-story-tidy-up-together.json) |
 | Keycap: Tidy Up! | 429782 | [429782-keycap-tidy-up.json](./429782-keycap-tidy-up.json) |
+| KeyCapy | 430835 | [430835-keycapy.json](./430835-keycapy.json) |
 | KeyCars | 134768 | [134768-keycars.json](./134768-keycars.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
@@ -3404,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
 | Kinect Mega Bundle: 4 in 1 | 82538 | [82538-kinect-mega-bundle-4-in-1.json](./82538-kinect-mega-bundle-4-in-1.json) |
+| Kinect Nat Geo TV | 22343 | [22343-kinect-nat-geo-tv.json](./22343-kinect-nat-geo-tv.json) |
 | Kinect Nat Geo TV: Season Two | 94040 | [94040-kinect-nat-geo-tv-season-two.json](./94040-kinect-nat-geo-tv-season-two.json) |
 | Kinect Party | 20238 | [20238-kinect-party.json](./20238-kinect-party.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
@@ -3713,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Blade | 226868 | [226868-kings-blade.json](./226868-kings-blade.json) |
 | King's Bounty | 9613 | [9613-kings-bounty.json](./9613-kings-bounty.json) |
 | King's Bounty 2 | 74329 | [74329-kings-bounty-2.json](./74329-kings-bounty-2.json) |
+| King's Bounty Classic Collection | 430383 | [430383-kings-bounty-classic-collection.json](./430383-kings-bounty-classic-collection.json) |
 | King's Bounty II | 121881 | [121881-kings-bounty-ii.json](./121881-kings-bounty-ii.json) |
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Duke's Edition | 169209 | [169209-kings-bounty-ii-dukes-edition.json](./169209-kings-bounty-ii-dukes-edition.json) |
@@ -4643,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaria Fables: Elf Hat | 430577 | [430577-kitaria-fables-elf-hat.json](./430577-kitaria-fables-elf-hat.json) |
 | Kitaria Fables: Grouch Skin | 430578 | [430578-kitaria-fables-grouch-skin.json](./430578-kitaria-fables-grouch-skin.json) |
 | Kitaria Fables: Rudolph Skin | 430594 | [430594-kitaria-fables-rudolph-skin.json](./430594-kitaria-fables-rudolph-skin.json) |
+| Kitaria Fables: Siamese Skin | 430576 | [430576-kitaria-fables-siamese-skin.json](./430576-kitaria-fables-siamese-skin.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
 | Kitball 20000 | 226042 | [226042-kitball-20000.json](./226042-kitball-20000.json) |
@@ -5184,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Rider | 72808 | [72808-knight-rider.json](./72808-knight-rider.json) |
 | Knight Rider 2: The Game | 22370 | [22370-knight-rider-2-the-game.json](./22370-knight-rider-2-the-game.json) |
 | Knight Rider Special | 42058 | [42058-knight-rider-special.json](./42058-knight-rider-special.json) |
+| Knight Rider: The Game | 22369 | [22369-knight-rider-the-game.json](./22369-knight-rider-the-game.json) |
 | Knight Riot | 188704 | [188704-knight-riot.json](./188704-knight-riot.json) |
 | Knight Run: Reconquista | 199988 | [199988-knight-run-reconquista.json](./199988-knight-run-reconquista.json) |
 | Knight Runaway | 190948 | [190948-knight-runaway.json](./190948-knight-runaway.json) |
