@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Estate Tycoon! | 348155 | [348155-real-estate-tycoon.json](./348155-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
+| Real Farm | 54524 | [54524-real-farm.json](./54524-real-farm.json) |
 | Real Farm: Gold Edition | 152495 | [152495-real-farm-gold-edition.json](./152495-real-farm-gold-edition.json) |
 | Real Farm: Potato Pack | 225571 | [225571-real-farm-potato-pack.json](./225571-real-farm-potato-pack.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
@@ -13368,6 +13369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Idle | 169796 | [169796-rpg-idle.json](./169796-rpg-idle.json) |
 | RPG in a Box | 138519 | [138519-rpg-in-a-box.json](./138519-rpg-in-a-box.json) |
 | RPG Maker | 44972 | [44972-rpg-maker.json](./44972-rpg-maker.json) |
+| RPG Maker 2000 | 53528 | [53528-rpg-maker-2000.json](./53528-rpg-maker-2000.json) |
 | RPG Maker 2003 | 53529 | [53529-rpg-maker-2003.json](./53529-rpg-maker-2003.json) |
 | RPG Maker 3 | 24144 | [24144-rpg-maker-3.json](./24144-rpg-maker-3.json) |
 | RPG Maker Coloring Book | 338946 | [338946-rpg-maker-coloring-book.json](./338946-rpg-maker-coloring-book.json) |
