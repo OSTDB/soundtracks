@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Jojo | 278563 | [278563-bear-jojo.json](./278563-bear-jojo.json) |
 | Bear Jump | 328200 | [328200-bear-jump.json](./328200-bear-jump.json) |
 | Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
+| Bear Mage Honey Sage | 425608 | [425608-bear-mage-honey-sage.json](./425608-bear-mage-honey-sage.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
 | Bear No Grudge | 321705 | [321705-bear-no-grudge.json](./321705-bear-no-grudge.json) |
 | Bear Party: Adventure | 132436 | [132436-bear-party-adventure.json](./132436-bear-party-adventure.json) |
@@ -13228,6 +13229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms Bloom Brightest | 28326 | [28326-blossoms-bloom-brightest.json](./28326-blossoms-bloom-brightest.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
+| Blotch | 425504 | [425504-blotch.json](./425504-blotch.json) |
 | Blouncy | 278558 | [278558-blouncy.json](./278558-blouncy.json) |
 | Blow | 94834 | [94834-blow.json](./94834-blow.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
@@ -15675,6 +15677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
 | Botany? | 185183 | [185183-botany.json](./185183-botany.json) |
+| BotBellum | 425643 | [425643-botbellum.json](./425643-botbellum.json) |
 | Botborgs | 191323 | [191323-botborgs.json](./191323-botborgs.json) |
 | Boter, kaas en eieren | 100034 | [100034-boter-kaas-en-eieren.json](./100034-boter-kaas-en-eieren.json) |
 | Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
