@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom III: Rising Realms | 415172 | [415172-kingdom-iii-rising-realms.json](./415172-kingdom-iii-rising-realms.json) |
 | Kingdom Imperial Collection | 301195 | [301195-kingdom-imperial-collection.json](./301195-kingdom-imperial-collection.json) |
+| Kingdom Inc. | 426798 | [426798-kingdom-inc.json](./426798-kingdom-inc.json) |
 | Kingdom Incremental | 247843 | [247843-kingdom-incremental.json](./247843-kingdom-incremental.json) |
 | Kingdom Island HD: Online Virtual World | 175531 | [175531-kingdom-island-hd-online-virtual-world.json](./175531-kingdom-island-hd-online-virtual-world.json) |
 | Kingdom Islands | 236396 | [236396-kingdom-islands.json](./236396-kingdom-islands.json) |
@@ -5102,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
 | Knight Age: Jousting | 387935 | [387935-knight-age-jousting.json](./387935-knight-age-jousting.json) |
+| Knight Amount | 426710 | [426710-knight-amount.json](./426710-knight-amount.json) |
 | Knight and Mourning | 202703 | [202703-knight-and-mourning.json](./202703-knight-and-mourning.json) |
 | Knight and Princess | 170551 | [170551-knight-and-princess.json](./170551-knight-and-princess.json) |
 | Knight Arena | 148616 | [148616-knight-arena.json](./148616-knight-arena.json) |
@@ -7312,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwik Snax | 14491 | [14491-kwik-snax.json](./14491-kwik-snax.json) |
 | Kwiks | 335519 | [335519-kwiks.json](./335519-kwiks.json) |
 | Kwirk | 48943 | [48943-kwirk.json](./48943-kwirk.json) |
+| KwonHo: The Fist of Heroes | 426824 | [426824-kwonho-the-fist-of-heroes.json](./426824-kwonho-the-fist-of-heroes.json) |
 | KWRPG | 323967 | [323967-kwrpg.json](./323967-kwrpg.json) |
 | KWRPG Buster!! | 209238 | [209238-kwrpg-buster.json](./209238-kwrpg-buster.json) |
 | KWRPG Platformer Online | 323968 | [323968-kwrpg-platformer-online.json](./323968-kwrpg-platformer-online.json) |
@@ -7414,6 +7417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 5 | 37879 | [37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json](./37879-kyouraku-sanyo-toyomaru-parlor-parlor-5.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! IV CR | 80271 | [80271-kyouraku-sanyo-toyomaru-parlor-parlor-iv-cr.json](./80271-kyouraku-sanyo-toyomaru-parlor-parlor-iv-cr.json) |
 | Kyouren no Utage | 150561 | [150561-kyouren-no-utage.json](./150561-kyouren-no-utage.json) |
+| Kyouryoku Immersive Adventure: Tsukigitsune-kan no Jurei | 426705 | [426705-kyouryoku-immersive-adventure-tsukigitsune-kan-no-jurei.json](./426705-kyouryoku-immersive-adventure-tsukigitsune-kan-no-jurei.json) |
 | Kyouryuu Ikusei Battle RPG: Kyouryuu Monster | 329749 | [329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json](./329749-kyouryuu-ikusei-battle-rpg-kyouryuu-monster.json) |
 | Kyouryuu Sentai Zyuranger | 48437 | [48437-kyouryuu-sentai-zyuranger.json](./48437-kyouryuu-sentai-zyuranger.json) |
 | Kyousouba Ikusei Simulation: Keiba | 37577 | [37577-kyousouba-ikusei-simulation-keiba.json](./37577-kyousouba-ikusei-simulation-keiba.json) |
