@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
 | Factory Trashcension | 236450 | [236450-factory-trashcension.json](./236450-factory-trashcension.json) |
 | Factory Works Idle | 391319 | [391319-factory-works-idle.json](./391319-factory-works-idle.json) |
+| Factory: The Industrial Devolution | 420834 | [420834-factory-the-industrial-devolution.json](./420834-factory-the-industrial-devolution.json) |
 | Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
 | Factorybelts 2 | 76386 | [76386-factorybelts-2.json](./76386-factorybelts-2.json) |
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallalypse: Disconnect | 111949 | [111949-fallalypse-disconnect.json](./111949-fallalypse-disconnect.json) |
 | Fallback | 102397 | [102397-fallback.json](./102397-fallback.json) |
 | Fallback! | 270135 | [270135-fallback.json](./270135-fallback.json) |
+| Fallbearers | 420853 | [420853-fallbearers.json](./420853-fallbearers.json) |
 | Fallcone | 219924 | [219924-fallcone.json](./219924-fallcone.json) |
 | FallDawn | 376671 | [376671-falldawn.json](./376671-falldawn.json) |
 | Falldown 3D | 254497 | [254497-falldown-3d.json](./254497-falldown-3d.json) |
@@ -10996,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Mother Matron | 219321 | [219321-for-mother-matron.json](./219321-for-mother-matron.json) |
 | For My Babies | 270770 | [270770-for-my-babies.json](./270770-for-my-babies.json) |
 | For My Babies 8 | 271246 | [271246-for-my-babies-8.json](./271246-for-my-babies-8.json) |
+| For Nora | 420835 | [420835-for-nora.json](./420835-for-nora.json) |
 | For Old Time's Sake | 376035 | [376035-for-old-times-sake.json](./376035-for-old-times-sake.json) |
 | For One Year | 297125 | [297125-for-one-year.json](./297125-for-one-year.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
@@ -14180,6 +14183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog in the Pocket | 422215 | [422215-frog-in-the-pocket.json](./422215-frog-in-the-pocket.json) |
 | Frog In the Well | 221615 | [221615-frog-in-the-well.json](./221615-frog-in-the-well.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
+| Frog is Crime | 420868 | [420868-frog-is-crime.json](./420868-frog-is-crime.json) |
 | Frog Island | 246030 | [246030-frog-island.json](./246030-frog-island.json) |
 | Frog It Up | 406977 | [406977-frog-it-up.json](./406977-frog-it-up.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
