@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugly Dot | 56070 | [56070-ugly-dot.json](./56070-ugly-dot.json) |
 | Ugly Mansion | 426200 | [426200-ugly-mansion.json](./426200-ugly-mansion.json) |
 | Ugly Meter | 91842 | [91842-ugly-meter.json](./91842-ugly-meter.json) |
+| Ugly Within | 430806 | [430806-ugly-within.json](./430806-ugly-within.json) |
 | UglyDolls: An Imperfect Adventure | 115313 | [115313-uglydolls-an-imperfect-adventure.json](./115313-uglydolls-an-imperfect-adventure.json) |
 | Ugmania | 368675 | [368675-ugmania.json](./368675-ugmania.json) |
 | Ugo Volt | 200770 | [200770-ugo-volt.json](./200770-ugo-volt.json) |
