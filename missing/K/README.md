@@ -5524,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout City: Season 6 - City of Tomorrow | 214606 | [214606-knockout-city-season-6-city-of-tomorrow.json](./214606-knockout-city-season-6-city-of-tomorrow.json) |
 | Knockout City: Season 7 - Mutant Mutiny | 214607 | [214607-knockout-city-season-7-mutant-mutiny.json](./214607-knockout-city-season-7-mutant-mutiny.json) |
 | Knockout Daddy | 128958 | [128958-knockout-daddy.json](./128958-knockout-daddy.json) |
+| Knockout Home Fitness | 153507 | [153507-knockout-home-fitness.json](./153507-knockout-home-fitness.json) |
 | Knockout Kings | 249156 | [249156-knockout-kings.json](./249156-knockout-kings.json) |
 | Knockout Kings | 71110 | [71110-knockout-kings.json](./71110-knockout-kings.json) |
 | Knockout Kings 2000 | 10687 | [10687-knockout-kings-2000.json](./10687-knockout-kings-2000.json) |
@@ -6495,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
 | Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
+| Koumajou Remilia: Scarlet Symphony | 151806 | [151806-koumajou-remilia-scarlet-symphony.json](./151806-koumajou-remilia-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kour 64 | 313667 | [313667-kour-64.json](./313667-kour-64.json) |
 | Kour.io | 289360 | [289360-kour-io.json](./289360-kour-io.json) |
