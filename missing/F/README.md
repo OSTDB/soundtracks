@@ -4059,7 +4059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear FA 98 | 332915 | [332915-fear-fa-98.json](./332915-fear-fa-98.json) |
-| Fear Factor: Unleashed | 6406 | [6406-fear-factor-unleashed.json](./6406-fear-factor-unleashed.json) |
 | Fear For Freedom | 56640 | [56640-fear-for-freedom.json](./56640-fear-for-freedom.json) |
 | Fear for Sale: City of the Past | 140250 | [140250-fear-for-sale-city-of-the-past.json](./140250-fear-for-sale-city-of-the-past.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
@@ -4599,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Frontier | 116692 | [116692-feral-frontier.json](./116692-feral-frontier.json) |
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
+| Feral Prince | 420157 | [420157-feral-prince.json](./420157-feral-prince.json) |
 | Feral Road | 430712 | [430712-feral-road.json](./430712-feral-road.json) |
 | Feral Sense | 336978 | [336978-feral-sense.json](./336978-feral-sense.json) |
 | Feralbound Online | 295827 | [295827-feralbound-online.json](./295827-feralbound-online.json) |
