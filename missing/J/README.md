@@ -2861,8 +2861,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Nitro Ball | 106354 | [106354-johnny-turbos-arcade-nitro-ball.json](./106354-johnny-turbos-arcade-nitro-ball.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Sly Spy | 100310 | [100310-johnny-turbos-arcade-sly-spy.json](./100310-johnny-turbos-arcade-sly-spy.json) |
+| Johnny Turbo's Arcade: Super Burger Time | 102307 | [102307-johnny-turbos-arcade-super-burger-time.json](./102307-johnny-turbos-arcade-super-burger-time.json) |
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johnny Turbo's Arcade: Two Crude Dudes | 104710 | [104710-johnny-turbos-arcade-two-crude-dudes.json](./104710-johnny-turbos-arcade-two-crude-dudes.json) |
+| Johnny Turbo's Arcade: Wizard Fire | 103557 | [103557-johnny-turbos-arcade-wizard-fire.json](./103557-johnny-turbos-arcade-wizard-fire.json) |
 | Johnny Upgrade | 286642 | [286642-johnny-upgrade.json](./286642-johnny-upgrade.json) |
 | Johnny's Minefield | 77049 | [77049-johnnys-minefield.json](./77049-johnnys-minefield.json) |
 | Johnny's Payday Panic | 59480 | [59480-johnnys-payday-panic.json](./59480-johnnys-payday-panic.json) |
@@ -3906,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jazz Cats | 207632 | [207632-jumping-jazz-cats.json](./207632-jumping-jazz-cats.json) |
 | Jumping Jean | 364235 | [364235-jumping-jean.json](./364235-jumping-jean.json) |
 | Jumping jet | 131844 | [131844-jumping-jet.json](./131844-jumping-jet.json) |
+| Jumping Joe & Friends | 102789 | [102789-jumping-joe-and-friends.json](./102789-jumping-joe-and-friends.json) |
 | Jumping Joe! Friends Edition | 170387 | [170387-jumping-joe-friends-edition.json](./170387-jumping-joe-friends-edition.json) |
 | Jumping Jump Ninja | 357693 | [357693-jumping-jump-ninja.json](./357693-jumping-jump-ninja.json) |
 | Jumping Jupingo | 22107 | [22107-jumping-jupingo.json](./22107-jumping-jupingo.json) |
