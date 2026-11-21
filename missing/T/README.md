@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: Unseen Tapes | 288802 | [288802-the-backrooms-unseen-tapes.json](./288802-the-backrooms-unseen-tapes.json) |
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
 | The Backstreets | 304289 | [304289-the-backstreets.json](./304289-the-backstreets.json) |
+| The Backwave | 429807 | [429807-the-backwave.json](./429807-the-backwave.json) |
 | The Backworld | 201539 | [201539-the-backworld.json](./201539-the-backworld.json) |
 | The Backworlds | 298106 | [298106-the-backworlds.json](./298106-the-backworlds.json) |
 | The Backyard | 71309 | [71309-the-backyard.json](./71309-the-backyard.json) |
@@ -14406,7 +14407,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki the 3rd Evolution | 153540 | [153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json](./153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - Complete Edition | 429537 | [429537-the-legend-of-heroes-trails-beyond-the-horizon-complete-edition.json](./429537-the-legend-of-heroes-trails-beyond-the-horizon-complete-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Complete Launch Edition | 401965 | [401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json](./401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - Deluxe Edition | 429532 | [429532-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json](./429532-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - Deluxe+ Edition | 429538 | [429538-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json](./429538-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Ultimate Edition | 401966 | [401966-the-legend-of-heroes-trails-beyond-the-horizon-ultimate-edition.json](./401966-the-legend-of-heroes-trails-beyond-the-horizon-ultimate-edition.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
 | The Legend of Heroes: Trails from Zero - Limited Edition | 313563 | [313563-the-legend-of-heroes-trails-from-zero-limited-edition.json](./313563-the-legend-of-heroes-trails-from-zero-limited-edition.json) |
@@ -23435,6 +23439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threaded Dungeons | 335568 | [335568-threaded-dungeons.json](./335568-threaded-dungeons.json) |
 | Threadline | 396214 | [396214-threadline.json](./396214-threadline.json) |
 | Threadmill | 421929 | [421929-threadmill.json](./421929-threadmill.json) |
+| Threads & Things: Tidy Up the Craft Shop! | 429785 | [429785-threads-and-things-tidy-up-the-craft-shop.json](./429785-threads-and-things-tidy-up-the-craft-shop.json) |
 | Threads of Destiny | 33921 | [33921-threads-of-destiny.json](./33921-threads-of-destiny.json) |
 | Threads of Fate | 28402 | [28402-threads-of-fate.json](./28402-threads-of-fate.json) |
 | Threads of Karma | 338325 | [338325-threads-of-karma.json](./338325-threads-of-karma.json) |
@@ -24244,6 +24249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up the Backrooms | 419519 | [419519-tidy-up-the-backrooms.json](./419519-tidy-up-the-backrooms.json) |
 | Tidy Up the Christmas Shop | 428999 | [428999-tidy-up-the-christmas-shop.json](./428999-tidy-up-the-christmas-shop.json) |
 | Tidy Up the Flower Shop | 420898 | [420898-tidy-up-the-flower-shop.json](./420898-tidy-up-the-flower-shop.json) |
+| Tidy Up the Gun Club | 429794 | [429794-tidy-up-the-gun-club.json](./429794-tidy-up-the-gun-club.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up the Town | 419228 | [419228-tidy-up-the-town.json](./419228-tidy-up-the-town.json) |
 | Tidy Up: Bricks n Blocks | 429756 | [429756-tidy-up-bricks-n-blocks.json](./429756-tidy-up-bricks-n-blocks.json) |
