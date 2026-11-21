@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Cup Finals | 40447 | [40447-taito-cup-finals.json](./40447-taito-cup-finals.json) |
 | Taito Grand Prix | 65380 | [65380-taito-grand-prix.json](./65380-taito-grand-prix.json) |
 | Taito LD Game Collection | 255874 | [255874-taito-ld-game-collection.json](./255874-taito-ld-game-collection.json) |
+| Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Legends 2 | 6187 | [6187-taito-legends-2.json](./6187-taito-legends-2.json) |
 | Taito Legends Power-Up | 23098 | [23098-taito-legends-power-up.json](./23098-taito-legends-power-up.json) |
@@ -1842,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Connection V5.5 Celebrity | 229955 | [229955-tamagotchi-connection-v5-5-celebrity.json](./229955-tamagotchi-connection-v5-5-celebrity.json) |
 | Tamagotchi Connection: Corner Shop | 20491 | [20491-tamagotchi-connection-corner-shop.json](./20491-tamagotchi-connection-corner-shop.json) |
 | Tamagotchi Connection: Corner Shop 2 | 20607 | [20607-tamagotchi-connection-corner-shop-2.json](./20607-tamagotchi-connection-corner-shop-2.json) |
+| Tamagotchi Connection: Corner Shop 3 | 26544 | [26544-tamagotchi-connection-corner-shop-3.json](./26544-tamagotchi-connection-corner-shop-3.json) |
 | Tamagotchi Friends: Digital Friend | 229959 | [229959-tamagotchi-friends-digital-friend.json](./229959-tamagotchi-friends-digital-friend.json) |
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
 | Tamagotchi Garden | 229839 | [229839-tamagotchi-garden.json](./229839-tamagotchi-garden.json) |
@@ -1892,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Smart | 230053 | [230053-tamagotchi-smart.json](./230053-tamagotchi-smart.json) |
 | Tamagotchi Town | 37792 | [37792-tamagotchi-town.json](./37792-tamagotchi-town.json) |
 | Tamagotchi Uni | 257054 | [257054-tamagotchi-uni.json](./257054-tamagotchi-uni.json) |
+| Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamagotchi! Seishun no Dream School | 77621 | [77621-tamagotchi-seishun-no-dream-school.json](./77621-tamagotchi-seishun-no-dream-school.json) |
 | Tamak. | 263593 | [263593-tamak.json](./263593-tamak.json) |
 | Tamakagura: Tales of Turmoil | 213503 | [213503-tamakagura-tales-of-turmoil.json](./213503-tamakagura-tales-of-turmoil.json) |
@@ -3097,7 +3100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
 | Tavern Adventures | 391397 | [391397-tavern-adventures.json](./391397-tavern-adventures.json) |
 | Tavern Brawl: Tactics | 239981 | [239981-tavern-brawl-tactics.json](./239981-tavern-brawl-tactics.json) |
-| Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Clicker | 426960 | [426960-tavern-clicker.json](./426960-tavern-clicker.json) |
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
 | Tavern Crawler | 177362 | [177362-tavern-crawler.json](./177362-tavern-crawler.json) |
@@ -4649,7 +4651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis In Hell | 250991 | [250991-tennis-in-hell.json](./250991-tennis-in-hell.json) |
 | Tennis in the Face | 19497 | [19497-tennis-in-the-face.json](./19497-tennis-in-the-face.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
-| Tennis League VR | 208108 | [208108-tennis-league-vr.json](./208108-tennis-league-vr.json) |
 | Tennis Legend 2026 | 417283 | [417283-tennis-legend-2026.json](./417283-tennis-legend-2026.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
@@ -4962,7 +4963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Velocity | 243475 | [243475-terminal-velocity.json](./243475-terminal-velocity.json) |
 | Terminal Velocity: Boosted Edition | 236239 | [236239-terminal-velocity-boosted-edition.json](./236239-terminal-velocity-boosted-edition.json) |
 | Terminal Voltage | 279775 | [279775-terminal-voltage.json](./279775-terminal-voltage.json) |
-| Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminal War | 403368 | [403368-terminal-war.json](./403368-terminal-war.json) |
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
 | TerminalMaster | 339407 | [339407-terminalmaster.json](./339407-terminalmaster.json) |
@@ -5433,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive Unlimited Solar Crown: Silver Street Pack | 311728 | [311728-test-drive-unlimited-solar-crown-silver-street-pack.json](./311728-test-drive-unlimited-solar-crown-silver-street-pack.json) |
 | Test Drive Unlimited Solar Crown: Silver Streets Edition | 331834 | [331834-test-drive-unlimited-solar-crown-silver-streets-edition.json](./331834-test-drive-unlimited-solar-crown-silver-streets-edition.json) |
 | Test Drive V-Rally | 45844 | [45844-test-drive-v-rally.json](./45844-test-drive-v-rally.json) |
+| Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Ferrari Racing Legends | 7217 | [7217-test-drive-ferrari-racing-legends.json](./7217-test-drive-ferrari-racing-legends.json) |
 | Test Drive: Le Mans | 27556 | [27556-test-drive-le-mans.json](./27556-test-drive-le-mans.json) |
 | Test Drive: Le Mans | 45066 | [45066-test-drive-le-mans.json](./45066-test-drive-le-mans.json) |
@@ -5456,7 +5457,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Subject Name | 293045 | [293045-test-subject-name.json](./293045-test-subject-name.json) |
 | Test Test Test | 281340 | [281340-test-test-test.json](./281340-test-test-test.json) |
 | Test the limits of your courage! Hanechari | 49117 | [49117-test-the-limits-of-your-courage-hanechari.json](./49117-test-the-limits-of-your-courage-hanechari.json) |
-| Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
 | Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
 | Test Your Knowledge: Cats | 230120 | [230120-test-your-knowledge-cats.json](./230120-test-your-knowledge-cats.json) |
@@ -6728,7 +6728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer | 65431 | [65431-the-answer.json](./65431-the-answer.json) |
-| The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
 | The Answer Is Behind You | 376037 | [376037-the-answer-is-behind-you.json](./376037-the-answer-is-behind-you.json) |
 | The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
 | The Ant Bully | 3787 | [3787-the-ant-bully.json](./3787-the-ant-bully.json) |
@@ -7324,6 +7323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beekeeper's Picnic | 235520 | [235520-the-beekeepers-picnic.json](./235520-the-beekeepers-picnic.json) |
 | The Beer War! | 72169 | [72169-the-beer-war.json](./72169-the-beer-war.json) |
+| The Beggar's Ride | 26532 | [26532-the-beggars-ride.json](./26532-the-beggars-ride.json) |
 | The Beginner Investor | 384087 | [384087-the-beginner-investor.json](./384087-the-beginner-investor.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Beginning of the End (part 1) | 262428 | [262428-the-beginning-of-the-end-part-1.json](./262428-the-beginning-of-the-end-part-1.json) |
@@ -9887,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard II: Daisy Dukes it Out | 44986 | [44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json](./44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
+| The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Duller | 102925 | [102925-the-duller.json](./102925-the-duller.json) |
 | The Dummy Experiment | 81825 | [81825-the-dummy-experiment.json](./81825-the-dummy-experiment.json) |
 | The Dungeon | 272892 | [272892-the-dungeon.json](./272892-the-dungeon.json) |
@@ -12816,6 +12817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing: Arcane Mechanic | 14689 | [14689-the-incredible-adventures-of-van-helsing-arcane-mechanic.json](./14689-the-incredible-adventures-of-van-helsing-arcane-mechanic.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
 | The Incredible Adventures of Van Helsing: Complete Pack | 155256 | [155256-the-incredible-adventures-of-van-helsing-complete-pack.json](./155256-the-incredible-adventures-of-van-helsing-complete-pack.json) |
+| The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
 | The Incredible Adventures of Van Helsing: Thaumaturge | 14690 | [14690-the-incredible-adventures-of-van-helsing-thaumaturge.json](./14690-the-incredible-adventures-of-van-helsing-thaumaturge.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
@@ -13319,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keeper | 26155 | [26155-the-keeper.json](./26155-the-keeper.json) |
+| The Keeper of 4 Elements | 26237 | [26237-the-keeper-of-4-elements.json](./26237-the-keeper-of-4-elements.json) |
 | The Keeper of Antiques: The Imaginary World - Collector's Edition | 416264 | [416264-the-keeper-of-antiques-the-imaginary-world-collectors-edition.json](./416264-the-keeper-of-antiques-the-imaginary-world-collectors-edition.json) |
 | The Keeper of Antiques: The Revived Book | 416263 | [416263-the-keeper-of-antiques-the-revived-book.json](./416263-the-keeper-of-antiques-the-revived-book.json) |
 | The Keeper's Book | 265449 | [265449-the-keepers-book.json](./265449-the-keepers-book.json) |
@@ -13888,7 +13891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Guy | 21348 | [21348-the-last-guy.json](./21348-the-last-guy.json) |
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Harvest: Uncanny Smile | 389837 | [389837-the-last-harvest-uncanny-smile.json](./389837-the-last-harvest-uncanny-smile.json) |
-| The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
 | The Last Hentai: Miku | 367885 | [367885-the-last-hentai-miku.json](./367885-the-last-hentai-miku.json) |
@@ -14625,7 +14627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild - Collector's Edition | 136841 | [136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json](./136841-the-legend-of-zelda-breath-of-the-wild-collectors-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Explorer's Edition | 75295 | [75295-the-legend-of-zelda-breath-of-the-wild-explorers-edition.json](./75295-the-legend-of-zelda-breath-of-the-wild-explorers-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Hyrule Rebalance | 250327 | [250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json](./250327-the-legend-of-zelda-breath-of-the-wild-hyrule-rebalance.json) |
-| The Legend of Zelda: Breath of the Wild - Islands Expansion | 250324 | [250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json](./250324-the-legend-of-zelda-breath-of-the-wild-islands-expansion.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Master Edition | 45137 | [45137-the-legend-of-zelda-breath-of-the-wild-master-edition.json](./45137-the-legend-of-zelda-breath-of-the-wild-master-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition | 338072 | [338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json](./338072-the-legend-of-zelda-breath-of-the-wild-nintendo-switch-2-edition.json) |
@@ -15732,7 +15733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Math Problem Killer | 257997 | [257997-the-math-problem-killer.json](./257997-the-math-problem-killer.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
-| The Matrix Online | 1005 | [1005-the-matrix-online.json](./1005-the-matrix-online.json) |
 | The Matrix: Awakens - An Unreal Engine 5 Experience | 185251 | [185251-the-matrix-awakens-an-unreal-engine-5-experience.json](./185251-the-matrix-awakens-an-unreal-engine-5-experience.json) |
 | The Matrix: Path of Neo | 1004 | [1004-the-matrix-path-of-neo.json](./1004-the-matrix-path-of-neo.json) |
 | The Matter at Hand | 183476 | [183476-the-matter-at-hand.json](./183476-the-matter-at-hand.json) |
@@ -16332,7 +16332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Narcotic Operation | 364122 | [364122-the-narcotic-operation.json](./364122-the-narcotic-operation.json) |
 | The Narrator | 420624 | [420624-the-narrator.json](./420624-the-narrator.json) |
 | The Narrator is a Dick | 32629 | [32629-the-narrator-is-a-dick.json](./32629-the-narrator-is-a-dick.json) |
-| The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
 | The Narrows | 183998 | [183998-the-narrows.json](./183998-the-narrows.json) |
 | The Nascent Necromancer | 264586 | [264586-the-nascent-necromancer.json](./264586-the-nascent-necromancer.json) |
@@ -19326,6 +19325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skeld | 182824 | [182824-the-skeld.json](./182824-the-skeld.json) |
 | The Skeleton | 103839 | [103839-the-skeleton.json](./103839-the-skeleton.json) |
 | The Skeletons Are Fighting | 372928 | [372928-the-skeletons-are-fighting.json](./372928-the-skeletons-are-fighting.json) |
+| The Skies | 26859 | [26859-the-skies.json](./26859-the-skies.json) |
 | The Skies: Reborn | 149710 | [149710-the-skies-reborn.json](./149710-the-skies-reborn.json) |
 | The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
 | The Skin Stapler | 386539 | [386539-the-skin-stapler.json](./386539-the-skin-stapler.json) |
@@ -20123,7 +20123,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Destiny Island | 291283 | [291283-the-tale-of-destiny-island.json](./291283-the-tale-of-destiny-island.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
-| The Tale of Doris and the Dragon - Episode 2 | 128082 | [128082-the-tale-of-doris-and-the-dragon-episode-2.json](./128082-the-tale-of-doris-and-the-dragon-episode-2.json) |
 | The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
 | The Tale of Fighting Nymphs | 189152 | [189152-the-tale-of-fighting-nymphs.json](./189152-the-tale-of-fighting-nymphs.json) |
 | The tale of Five Kingdoms | 194154 | [194154-the-tale-of-five-kingdoms.json](./194154-the-tale-of-five-kingdoms.json) |
@@ -20872,6 +20871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma | 327491 | [327491-the-treasures-of-montezuma.json](./327491-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 327493 | [327493-the-treasures-of-montezuma.json](./327493-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
+| The Treasures of Montezuma 2 | 24737 | [24737-the-treasures-of-montezuma-2.json](./24737-the-treasures-of-montezuma-2.json) |
 | The Treasures of Montezuma 3 | 17790 | [17790-the-treasures-of-montezuma-3.json](./17790-the-treasures-of-montezuma-3.json) |
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
 | The Treasures of Montezuma 4 HD | 90871 | [90871-the-treasures-of-montezuma-4-hd.json](./90871-the-treasures-of-montezuma-4-hd.json) |
@@ -21901,6 +21901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch and the Bottle of Concept | 272895 | [272895-the-witch-and-the-bottle-of-concept.json](./272895-the-witch-and-the-bottle-of-concept.json) |
 | The Witch and the Child | 315785 | [315785-the-witch-and-the-child.json](./315785-the-witch-and-the-child.json) |
 | The Witch and the Hundred Knight | 7485 | [7485-the-witch-and-the-hundred-knight.json](./7485-the-witch-and-the-hundred-knight.json) |
+| The Witch and the Hundred Knight 2 | 24909 | [24909-the-witch-and-the-hundred-knight-2.json](./24909-the-witch-and-the-hundred-knight-2.json) |
 | The Witch and the Hundred Knight 2: Limited Edition | 167070 | [167070-the-witch-and-the-hundred-knight-2-limited-edition.json](./167070-the-witch-and-the-hundred-knight-2-limited-edition.json) |
 | The Witch and the Hundred Knight Mobile | 394549 | [394549-the-witch-and-the-hundred-knight-mobile.json](./394549-the-witch-and-the-hundred-knight-mobile.json) |
 | The Witch and the Hundred Knight: Revival Edition | 19796 | [19796-the-witch-and-the-hundred-knight-revival-edition.json](./19796-the-witch-and-the-hundred-knight-revival-edition.json) |
@@ -22844,7 +22845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They're Coming | 163200 | [163200-theyre-coming.json](./163200-theyre-coming.json) |
 | They're Gonna Get In | 392720 | [392720-theyre-gonna-get-in.json](./392720-theyre-gonna-get-in.json) |
 | They're Not Monsters | 250759 | [250759-theyre-not-monsters.json](./250759-theyre-not-monsters.json) |
-| Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | Thibalryn | 107469 | [107469-thibalryn.json](./107469-thibalryn.json) |
 | Thicc Magic. Elves' Perverted Beauty Standards.gif | 428925 | [428925-thicc-magic-elves-perverted-beauty-standards-gif.json](./428925-thicc-magic-elves-perverted-beauty-standards-gif.json) |
@@ -22942,6 +22942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thing on a Spring | 26247 | [26247-thing-on-a-spring.json](./26247-thing-on-a-spring.json) |
 | Thing Thing 2 | 92452 | [92452-thing-thing-2.json](./92452-thing-thing-2.json) |
 | Thing Thing Collection | 131991 | [131991-thing-thing-collection.json](./131991-thing-thing-collection.json) |
+| Thing-in-Itself | 26749 | [26749-thing-in-itself.json](./26749-thing-in-itself.json) |
 | Thing-Thing | 92455 | [92455-thing-thing.json](./92455-thing-thing.json) |
 | Thing-Thing 3 | 92453 | [92453-thing-thing-3.json](./92453-thing-thing-3.json) |
 | Thing-Thing 4 | 92454 | [92454-thing-thing-4.json](./92454-thing-thing-4.json) |
@@ -27855,7 +27856,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top | 237258 | [237258-to-the-top.json](./237258-to-the-top.json) |
 | To the Top | 31874 | [31874-to-the-top.json](./31874-to-the-top.json) |
-| To the Top, Mammoth! | 192013 | [192013-to-the-top-mammoth.json](./192013-to-the-top-mammoth.json) |
 | To The Trenches | 401663 | [401663-to-the-trenches.json](./401663-to-the-trenches.json) |
 | To The White Calm | 375560 | [375560-to-the-white-calm.json](./375560-to-the-white-calm.json) |
 | To the Wolves | 57475 | [57475-to-the-wolves.json](./57475-to-the-wolves.json) |
@@ -28463,6 +28463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
 | Tokyo Stories | 210817 | [210817-tokyo-stories.json](./210817-tokyo-stories.json) |
 | Tokyo Stranger | 220700 | [220700-tokyo-stranger.json](./220700-tokyo-stranger.json) |
+| Tokyo Tattoo Girls | 27260 | [27260-tokyo-tattoo-girls.json](./27260-tokyo-tattoo-girls.json) |
 | Tokyo Train 4 | 311452 | [311452-tokyo-train-4.json](./311452-tokyo-train-4.json) |
 | Tokyo Trigger | 361274 | [361274-tokyo-trigger.json](./361274-tokyo-trigger.json) |
 | Tokyo Twilight Busters | 272088 | [272088-tokyo-twilight-busters.json](./272088-tokyo-twilight-busters.json) |
@@ -28622,7 +28623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction: Guardian Edition | 186924 | [186924-tom-clancys-rainbow-six-extraction-guardian-edition.json](./186924-tom-clancys-rainbow-six-extraction-guardian-edition.json) |
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
-| Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
 | Tom Clancy's Rainbow Six Siege - Ash Watch_Dogs Set | 168492 | [168492-tom-clancys-rainbow-six-siege-ash-watch-dogs-set.json](./168492-tom-clancys-rainbow-six-siege-ash-watch-dogs-set.json) |
 | Tom Clancy's Rainbow Six Siege - Pro League Clash Set | 224422 | [224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json](./224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json) |
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
@@ -28674,7 +28674,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six: Lone Wolf | 44989 | [44989-tom-clancys-rainbow-six-lone-wolf.json](./44989-tom-clancys-rainbow-six-lone-wolf.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 1843 | [1843-tom-clancys-rainbow-six-rogue-spear.json](./1843-tom-clancys-rainbow-six-rogue-spear.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear | 249165 | [249165-tom-clancys-rainbow-six-rogue-spear.json](./249165-tom-clancys-rainbow-six-rogue-spear.json) |
-| Tom Clancy's Rainbow Six: Rogue Spear - Black Thorn | 1846 | [1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json](./1846-tom-clancys-rainbow-six-rogue-spear-black-thorn.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear - Urban Operations | 1844 | [1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json](./1844-tom-clancys-rainbow-six-rogue-spear-urban-operations.json) |
 | Tom Clancy's Rainbow Six: Rogue Spear Mission Pack - Urban Operations | 78136 | [78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json](./78136-tom-clancys-rainbow-six-rogue-spear-mission-pack-urban-operations.json) |
 | Tom Clancy's Rainbow Six: Shadow Vanguard | 1854 | [1854-tom-clancys-rainbow-six-shadow-vanguard.json](./1854-tom-clancys-rainbow-six-shadow-vanguard.json) |
@@ -29768,6 +29767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torima Zange | 410610 | [410610-torima-zange.json](./410610-torima-zange.json) |
 | Torimodosu | 89607 | [89607-torimodosu.json](./89607-torimodosu.json) |
 | Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
+| Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torino-X | 90939 | [90939-torino-x.json](./90939-torino-x.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Torinto | 123868 | [123868-torinto.json](./123868-torinto.json) |
@@ -30172,7 +30172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate GamePlay | 188321 | [188321-totally-accurate-gameplay.json](./188321-totally-accurate-gameplay.json) |
 | Totally Accurate Holiday Bowling | 331259 | [331259-totally-accurate-holiday-bowling.json](./331259-totally-accurate-holiday-bowling.json) |
 | Totally Accurate Kissing Booth Simulator | 365917 | [365917-totally-accurate-kissing-booth-simulator.json](./365917-totally-accurate-kissing-booth-simulator.json) |
-| Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Battle Simulator | 106217 | [106217-totally-battle-simulator.json](./106217-totally-battle-simulator.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
@@ -30616,6 +30615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kinjoukyou: Fossilized Wonders | 339856 | [339856-touhou-kinjoukyou-fossilized-wonders.json](./339856-touhou-kinjoukyou-fossilized-wonders.json) |
 | Touhou Kishinjou: Double Dealing Character | 119606 | [119606-touhou-kishinjou-double-dealing-character.json](./119606-touhou-kishinjou-double-dealing-character.json) |
 | Touhou Kisouken: Infinite Blade Pavilion | 213251 | [213251-touhou-kisouken-infinite-blade-pavilion.json](./213251-touhou-kisouken-infinite-blade-pavilion.json) |
+| Touhou Kobuto V: Burst Battle | 27261 | [27261-touhou-kobuto-v-burst-battle.json](./27261-touhou-kobuto-v-burst-battle.json) |
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
@@ -30658,7 +30658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mario 2 | 322652 | [322652-touhou-mario-2.json](./322652-touhou-mario-2.json) |
 | Touhou Mario: Imperishable Night | 214996 | [214996-touhou-mario-imperishable-night.json](./214996-touhou-mario-imperishable-night.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
-| Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
 | Touhou Meijinka: Song of Divine Tempest | 276143 | [276143-touhou-meijinka-song-of-divine-tempest.json](./276143-touhou-meijinka-song-of-divine-tempest.json) |
 | Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
@@ -33356,7 +33355,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainwreck | 327325 | [327325-trainwreck.json](./327325-trainwreck.json) |
 | Trainyard | 92061 | [92061-trainyard.json](./92061-trainyard.json) |
 | Trainyard Express | 261861 | [261861-trainyard-express.json](./261861-trainyard-express.json) |
-| Trainz | 920 | [920-trainz.json](./920-trainz.json) |
 | Trainz 2019 DLC - Pro Train: AC44C6M Loco Bundle | 384734 | [384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json](./384734-trainz-2019-dlc-pro-train-ac44c6m-loco-bundle.json) |
 | Trainz 2019 DLC: Pro Train DB Class 52 | 254071 | [254071-trainz-2019-dlc-pro-train-db-class-52.json](./254071-trainz-2019-dlc-pro-train-db-class-52.json) |
 | Trainz 2019: [TL] Rainsville - Danville | 325026 | [325026-trainz-2019-tl-rainsville-danville.json](./325026-trainz-2019-tl-rainsville-danville.json) |
@@ -34304,6 +34302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Beast Wars Transmetals | 273897 | [273897-transformers-beast-wars-transmetals.json](./273897-transformers-beast-wars-transmetals.json) |
 | Transformers: Beast Wars Transmetals | 3620 | [3620-transformers-beast-wars-transmetals.json](./3620-transformers-beast-wars-transmetals.json) |
 | Transformers: Bumblebee Overdrive | 234500 | [234500-transformers-bumblebee-overdrive.json](./234500-transformers-bumblebee-overdrive.json) |
+| Transformers: Cybertron Adventures | 5242 | [5242-transformers-cybertron-adventures.json](./5242-transformers-cybertron-adventures.json) |
 | Transformers: Dark of the Moon | 259155 | [259155-transformers-dark-of-the-moon.json](./259155-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon | 259166 | [259166-transformers-dark-of-the-moon.json](./259166-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
@@ -35355,7 +35354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Enkidu | 379717 | [379717-trials-of-enkidu.json](./379717-trials-of-enkidu.json) |
 | Trials of Fire | 116992 | [116992-trials-of-fire.json](./116992-trials-of-fire.json) |
 | Trials of Fire: Inferno Edition | 164627 | [164627-trials-of-fire-inferno-edition.json](./164627-trials-of-fire-inferno-edition.json) |
-| Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of Harmony ~ Experimental Visual Novel | 122816 | [122816-trials-of-harmony-experimental-visual-novel.json](./122816-trials-of-harmony-experimental-visual-novel.json) |
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
@@ -36224,7 +36222,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropic Trouble | 106188 | [106188-tropic-trouble.json](./106188-tropic-trouble.json) |
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
 | Tropical | 214261 | [214261-tropical.json](./214261-tropical.json) |
-| Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Alien Massacre | 308329 | [308329-tropical-alien-massacre.json](./308329-tropical-alien-massacre.json) |
 | Tropical America | 173420 | [173420-tropical-america.json](./173420-tropical-america.json) |
 | Tropical Angel | 39940 | [39940-tropical-angel.json](./39940-tropical-angel.json) |
@@ -36368,7 +36365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubled Passage | 211599 | [211599-troubled-passage.json](./211599-troubled-passage.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
-| TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublelings | 423845 | [423845-troublelings.json](./423845-troublelings.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
