@@ -10963,6 +10963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 5 - Age of Wolves | 154719 | [154719-for-honor-season-5-age-of-wolves.json](./154719-for-honor-season-5-age-of-wolves.json) |
 | For Honor: Season 6 - Hero's March | 154720 | [154720-for-honor-season-6-heros-march.json](./154720-for-honor-season-6-heros-march.json) |
 | For Honor: Season 7 - Storm and Fury | 154721 | [154721-for-honor-season-7-storm-and-fury.json](./154721-for-honor-season-7-storm-and-fury.json) |
+| For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
 | For Honor: Season 9 - Vortiger | 154722 | [154722-for-honor-season-9-vortiger.json](./154722-for-honor-season-9-vortiger.json) |
 | For Honor: Sohei - Hero | 367110 | [367110-for-honor-sohei-hero.json](./367110-for-honor-sohei-hero.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
@@ -12904,6 +12905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractara: Age of Claimants | 420450 | [420450-fractara-age-of-claimants.json](./420450-fractara-age-of-claimants.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
+| Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
 | Fraction Fever | 40880 | [40880-fraction-fever.json](./40880-fraction-fever.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
 | Fraction Reaction | 219324 | [219324-fraction-reaction.json](./219324-fraction-reaction.json) |
