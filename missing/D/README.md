@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DashBall | 380237 | [380237-dashball.json](./380237-dashball.json) |
 | Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
+| DashBreaker | 424448 | [424448-dashbreaker.json](./424448-dashbreaker.json) |
 | Dashems | 427113 | [427113-dashems.json](./427113-dashems.json) |
 | Dàshèng Fúmó: Hēi Shénhuà zhī Wújiàn Jié | 427781 | [427781-dasheng-fumo-hei-shenhua-zhi-wujian-jie.json](./427781-dasheng-fumo-hei-shenhua-zhi-wujian-jie.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
@@ -12515,6 +12516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposition | 243461 | [243461-disposition.json](./243461-disposition.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
 | Disputed Space | 40487 | [40487-disputed-space.json](./40487-disputed-space.json) |
+| Disqualified | 424449 | [424449-disqualified.json](./424449-disqualified.json) |
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
@@ -14478,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Hit in the Face | 28263 | [28263-dont-get-hit-in-the-face.json](./28263-dont-get-hit-in-the-face.json) |
 | Don't Get Lost | 233890 | [233890-dont-get-lost.json](./233890-dont-get-lost.json) |
 | Don't Get Pinned | 26306 | [26306-dont-get-pinned.json](./26306-dont-get-pinned.json) |
+| Don't Get Six | 424380 | [424380-dont-get-six.json](./424380-dont-get-six.json) |
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
 | Don't Get Your Hopes Up | 367893 | [367893-dont-get-your-hopes-up.json](./367893-dont-get-your-hopes-up.json) |
@@ -19164,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
+| Drift Riot | 424466 | [424466-drift-riot.json](./424466-drift-riot.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
 | Drift Shape | 231967 | [231967-drift-shape.json](./231967-drift-shape.json) |
 | Drift Shell | 410582 | [410582-drift-shell.json](./410582-drift-shell.json) |
@@ -19658,6 +19662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop by Hippo Cooperation | 107020 | [107020-drop-by-hippo-cooperation.json](./107020-drop-by-hippo-cooperation.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
+| Drop Dead Party | 424372 | [424372-drop-dead-party.json](./424372-drop-dead-party.json) |
 | Drop Dead: Dual Strike Edition | 133504 | [133504-drop-dead-dual-strike-edition.json](./133504-drop-dead-dual-strike-edition.json) |
 | Drop Dead: Extended Edit | 387830 | [387830-drop-dead-extended-edit.json](./387830-drop-dead-extended-edit.json) |
 | Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
