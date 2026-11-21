@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Camy 2: The Machine | 400480 | [400480-camy-2-the-machine.json](./400480-camy-2-the-machine.json) |
+| Can 'Em All | 425026 | [425026-can-em-all.json](./425026-can-em-all.json) |
 | Can A Cute Ghost Story Be Spooky? | 176645 | [176645-can-a-cute-ghost-story-be-spooky.json](./176645-can-a-cute-ghost-story-be-spooky.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
 | Can Androids Pray: Red | 133024 | [133024-can-androids-pray-red.json](./133024-can-androids-pray-red.json) |
@@ -12401,6 +12402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Miners | 132589 | [132589-cloud-miners.json](./132589-cloud-miners.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
 | Cloud Path | 348735 | [348735-cloud-path.json](./348735-cloud-path.json) |
+| Cloud Patrol | 425010 | [425010-cloud-patrol.json](./425010-cloud-patrol.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
 | Cloud Popper | 387737 | [387737-cloud-popper.json](./387737-cloud-popper.json) |
@@ -15569,6 +15571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conductor: Creative Joy Engine | 145217 | [145217-conductor-creative-joy-engine.json](./145217-conductor-creative-joy-engine.json) |
 | Conductor: Eternal Service | 373582 | [373582-conductor-eternal-service.json](./373582-conductor-eternal-service.json) |
 | Conductus | 402437 | [402437-conductus.json](./402437-conductus.json) |
+| Conduit | 424940 | [424940-conduit.json](./424940-conduit.json) |
 | Conduits | 338883 | [338883-conduits.json](./338883-conduits.json) |
 | Cone Flyers Castaways | 389723 | [389723-cone-flyers-castaways.json](./389723-cone-flyers-castaways.json) |
 | Cone Punk | 420575 | [420575-cone-punk.json](./420575-cone-punk.json) |
@@ -22979,6 +22982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Cases: Murder at the Maybard Estate - Collector's Edition | 417772 | [417772-cursed-cases-murder-at-the-maybard-estate-collectors-edition.json](./417772-cursed-cases-murder-at-the-maybard-estate-collectors-edition.json) |
 | Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
+| Cursed Castle | 425000 | [425000-cursed-castle.json](./425000-cursed-castle.json) |
 | Cursed Castle DX | 365765 | [365765-cursed-castle-dx.json](./365765-cursed-castle-dx.json) |
 | Cursed Castle II | 364352 | [364352-cursed-castle-ii.json](./364352-cursed-castle-ii.json) |
 | Cursed Caves | 89663 | [89663-cursed-caves.json](./89663-cursed-caves.json) |
@@ -23543,6 +23547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
 | Cyber City Knights | 299005 | [299005-cyber-city-knights.json](./299005-cyber-city-knights.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
+| Cyber Clash | 424927 | [424927-cyber-clash.json](./424927-cyber-clash.json) |
 | Cyber Cleaner Simulator | 365974 | [365974-cyber-cleaner-simulator.json](./365974-cyber-cleaner-simulator.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
@@ -23787,6 +23792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberBlocker: Complete Edition | 217424 | [217424-cyberblocker-complete-edition.json](./217424-cyberblocker-complete-edition.json) |
 | Cyberborn | 428103 | [428103-cyberborn.json](./428103-cyberborn.json) |
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
+| CyberBot: Zero | 425022 | [425022-cyberbot-zero.json](./425022-cyberbot-zero.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cyberbugs | 189214 | [189214-cyberbugs.json](./189214-cyberbugs.json) |
