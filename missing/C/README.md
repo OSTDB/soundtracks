@@ -8361,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Strike: Cluck Ops | 314120 | [314120-chicken-strike-cluck-ops.json](./314120-chicken-strike-cluck-ops.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken TD: Defenders of the Coop | 392099 | [392099-chicken-td-defenders-of-the-coop.json](./392099-chicken-td-defenders-of-the-coop.json) |
+| Chicken Terror | 425519 | [425519-chicken-terror.json](./425519-chicken-terror.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken Utopia | 163022 | [163022-chicken-utopia.json](./163022-chicken-utopia.json) |
 | Chicken VR | 107990 | [107990-chicken-vr.json](./107990-chicken-vr.json) |
@@ -9004,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chodd | 424860 | [424860-chodd.json](./424860-chodd.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choi | 231201 | [231201-choi.json](./231201-choi.json) |
+| Choi Yurippoi You Na, Pokunai You Na | 425646 | [425646-choi-yurippoi-you-na-pokunai-you-na.json](./425646-choi-yurippoi-you-na-pokunai-you-na.json) |
 | Choice | 76076 | [76076-choice.json](./76076-choice.json) |
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
@@ -13372,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
 | Cogs of Combat | 201120 | [201120-cogs-of-combat.json](./201120-cogs-of-combat.json) |
 | Cogs Of Conflict | 271529 | [271529-cogs-of-conflict.json](./271529-cogs-of-conflict.json) |
+| Cogumelo | 425484 | [425484-cogumelo.json](./425484-cogumelo.json) |
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cogwheel | 344725 | [344725-cogwheel.json](./344725-cogwheel.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
