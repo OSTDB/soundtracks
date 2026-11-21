@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Ill | 367852 | [367852-dark-ill.json](./367852-dark-ill.json) |
 | Dark in Light | 392012 | [392012-dark-in-light.json](./392012-dark-in-light.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
+| Dark Inquiry: Profane Soil | 423822 | [423822-dark-inquiry-profane-soil.json](./423822-dark-inquiry-profane-soil.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Inside | 109830 | [109830-dark-inside.json](./109830-dark-inside.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
@@ -7389,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Alive | 323526 | [323526-demon-alive.json](./323526-demon-alive.json) |
 | Demon Attack | 309342 | [309342-demon-attack.json](./309342-demon-attack.json) |
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
+| Demon Baby | 423832 | [423832-demon-baby.json](./423832-demon-baby.json) |
 | Demon Balls | 425888 | [425888-demon-balls.json](./425888-demon-balls.json) |
 | Demon Blade | 235012 | [235012-demon-blade.json](./235012-demon-blade.json) |
 | Demon Blade VR | 68189 | [68189-demon-blade-vr.json](./68189-demon-blade-vr.json) |
@@ -15566,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppleganger | 393558 | [393558-doppleganger.json](./393558-doppleganger.json) |
 | Doppler | 408557 | [408557-doppler.json](./408557-doppler.json) |
 | Doppyun Donpisha | 230224 | [230224-doppyun-donpisha.json](./230224-doppyun-donpisha.json) |
+| Dopros | 423835 | [423835-dopros.json](./423835-dopros.json) |
 | Doptrix | 112069 | [112069-doptrix.json](./112069-doptrix.json) |
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
@@ -20856,6 +20859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Builder S | 44199 | [44199-dungeon-builder-s.json](./44199-dungeon-builder-s.json) |
 | Dungeon Burglars | 250411 | [250411-dungeon-burglars.json](./250411-dungeon-burglars.json) |
 | Dungeon Burnout | 141260 | [141260-dungeon-burnout.json](./141260-dungeon-burnout.json) |
+| Dungeon Buster | 423827 | [423827-dungeon-buster.json](./423827-dungeon-buster.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
 | Dungeon Castle | 188696 | [188696-dungeon-castle.json](./188696-dungeon-castle.json) |
