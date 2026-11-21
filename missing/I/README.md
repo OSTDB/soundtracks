@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IClub Manager 2 | 175340 | [175340-iclub-manager-2.json](./175340-iclub-manager-2.json) |
 | Ico | 144612 | [144612-ico.json](./144612-ico.json) |
 | Ico & Shadow of the Colossus Collection: Limited Box | 145166 | [145166-ico-and-shadow-of-the-colossus-collection-limited-box.json](./145166-ico-and-shadow-of-the-colossus-collection-limited-box.json) |
+| Ico PC | 424359 | [424359-ico-pc.json](./424359-ico-pc.json) |
 | Ico Soccer | 269637 | [269637-ico-soccer.json](./269637-ico-soccer.json) |
 | ICO: Limited Edition | 43463 | [43463-ico-limited-edition.json](./43463-ico-limited-edition.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignite | 138125 | [138125-ignite.json](./138125-ignite.json) |
 | Ignite | 16144 | [16144-ignite.json](./16144-ignite.json) |
 | Ignite | 219849 | [219849-ignite.json](./219849-ignite.json) |
+| Ignite Hills | 424354 | [424354-ignite-hills.json](./424354-ignite-hills.json) |
 | Ignite the Depths | 413258 | [413258-ignite-the-depths.json](./413258-ignite-the-depths.json) |
 | Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
 | Ignited Entry | 316514 | [316514-ignited-entry.json](./316514-ignited-entry.json) |
