@@ -14422,6 +14422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Shark | 205949 | [205949-pool-shark.json](./205949-pool-shark.json) |
 | Pool Shark 2 | 5984 | [5984-pool-shark-2.json](./5984-pool-shark-2.json) |
 | Pool Sharks | 92437 | [92437-pool-sharks.json](./92437-pool-sharks.json) |
+| Pool Slide Story | 101512 | [101512-pool-slide-story.json](./101512-pool-slide-story.json) |
 | Pool Together | 251477 | [251477-pool-together.json](./251477-pool-together.json) |
 | Pool Together 2 | 287039 | [287039-pool-together-2.json](./287039-pool-together-2.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
@@ -17269,6 +17270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2015 | 17837 | [17837-pro-cycling-manager-2015.json](./17837-pro-cycling-manager-2015.json) |
 | Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
+| Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
 | Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2020 | 132335 | [132335-pro-cycling-manager-2020.json](./132335-pro-cycling-manager-2020.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
@@ -20657,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Must Die: Defend the White House | 254729 | [254729-putin-must-die-defend-the-white-house.json](./254729-putin-must-die-defend-the-white-house.json) |
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
+| Putin Run Away From Trump | 102409 | [102409-putin-run-away-from-trump.json](./102409-putin-run-away-from-trump.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
 | Putin Vs. Zombies | 368710 | [368710-putin-vs-zombies.json](./368710-putin-vs-zombies.json) |
 | Putin, Boobs and Trump | 96940 | [96940-putin-boobs-and-trump.json](./96940-putin-boobs-and-trump.json) |
@@ -20778,6 +20781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzkin: Magnetic Odyssey | 326506 | [326506-puzkin-magnetic-odyssey.json](./326506-puzkin-magnetic-odyssey.json) |
 | Puzletun: Curse of the unfortunate. | 368735 | [368735-puzletun-curse-of-the-unfortunate.json](./368735-puzletun-curse-of-the-unfortunate.json) |
 | Puzlkind: Jigsaw Puzzles | 162205 | [162205-puzlkind-jigsaw-puzzles.json](./162205-puzlkind-jigsaw-puzzles.json) |
+| Puzlogic | 101698 | [101698-puzlogic.json](./101698-puzlogic.json) |
 | Puzslot | 267755 | [267755-puzslot.json](./267755-puzslot.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puztrix | 318886 | [318886-puztrix.json](./318886-puztrix.json) |
