@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Edges | 159944 | [159944-dark-edges.json](./159944-dark-edges.json) |
 | Dark Effigy | 181059 | [181059-dark-effigy.json](./181059-dark-effigy.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
+| Dark Egypt | 30520 | [30520-dark-egypt.json](./30520-dark-egypt.json) |
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
 | Dark Elf Historia | 69505 | [69505-dark-elf-historia.json](./69505-dark-elf-historia.json) |
@@ -6941,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Childhood Memories | 177070 | [177070-delicious-emilys-childhood-memories.json](./177070-delicious-emilys-childhood-memories.json) |
 | Delicious: Emily's Christmas Carol | 30914 | [30914-delicious-emilys-christmas-carol.json](./30914-delicious-emilys-christmas-carol.json) |
 | Delicious: Emily's Holiday Season | 89536 | [89536-delicious-emilys-holiday-season.json](./89536-delicious-emilys-holiday-season.json) |
+| Delicious: Emily's Home Sweet Home | 30387 | [30387-delicious-emilys-home-sweet-home.json](./30387-delicious-emilys-home-sweet-home.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
 | Delicious: Emily's Hopes & Fears | 30684 | [30684-delicious-emilys-hopes-and-fears.json](./30684-delicious-emilys-hopes-and-fears.json) |
 | Delicious: Emily's Miracle of Life | 54527 | [54527-delicious-emilys-miracle-of-life.json](./54527-delicious-emilys-miracle-of-life.json) |
@@ -17143,6 +17145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Blazers | 127452 | [127452-dragon-blazers.json](./127452-dragon-blazers.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
+| Dragon Blood | 30315 | [30315-dragon-blood.json](./30315-dragon-blood.json) |
 | Dragon Boar and Lady Rabbit | 81801 | [81801-dragon-boar-and-lady-rabbit.json](./81801-dragon-boar-and-lady-rabbit.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
 | Dragon Bones | 184208 | [184208-dragon-bones.json](./184208-dragon-bones.json) |
@@ -18164,6 +18167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: Dark Flight | 15227 | [15227-drawn-dark-flight.json](./15227-drawn-dark-flight.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawn: Trail of Shadows | 65094 | [65094-drawn-trail-of-shadows.json](./65094-drawn-trail-of-shadows.json) |
+| Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | DrawRace | 61763 | [61763-drawrace.json](./61763-drawrace.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
@@ -18650,6 +18654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreambound | 209303 | [209303-dreambound.json](./209303-dreambound.json) |
 | Dreambreak | 21294 | [21294-dreambreak.json](./21294-dreambreak.json) |
 | DreamBreaker | 344996 | [344996-dreambreaker.json](./344996-dreambreaker.json) |
+| Dreamcage Escape | 30488 | [30488-dreamcage-escape.json](./30488-dreamcage-escape.json) |
 | Dreamcards | 347803 | [347803-dreamcards.json](./347803-dreamcards.json) |
 | Dreamcast Collection | 6973 | [6973-dreamcast-collection.json](./6973-dreamcast-collection.json) |
 | Dreamcatcher | 58555 | [58555-dreamcatcher.json](./58555-dreamcatcher.json) |
