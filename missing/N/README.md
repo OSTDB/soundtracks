@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
 | Neon Sunset | 412055 | [412055-neon-sunset.json](./412055-neon-sunset.json) |
+| Neon Surge | 428593 | [428593-neon-surge.json](./428593-neon-surge.json) |
 | Neon Survivor | 418542 | [418542-neon-survivor.json](./418542-neon-survivor.json) |
 | Neon Survivors | 245759 | [245759-neon-survivors.json](./245759-neon-survivors.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
@@ -7169,6 +7170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nod If You Can Hear Me | 177824 | [177824-nod-if-you-can-hear-me.json](./177824-nod-if-you-can-hear-me.json) |
 | Nod: A Meditation on the Existential Pain of Becoming | 178941 | [178941-nod-a-meditation-on-the-existential-pain-of-becoming.json](./178941-nod-a-meditation-on-the-existential-pain-of-becoming.json) |
 | Nod3s | 23857 | [23857-nod3s.json](./23857-nod3s.json) |
+| Nodal | 428570 | [428570-nodal.json](./428570-nodal.json) |
 | NodalBastion | 378196 | [378196-nodalbastion.json](./378196-nodalbastion.json) |
 | Nodame Cantabile | 64313 | [64313-nodame-cantabile.json](./64313-nodame-cantabile.json) |
 | Nodame Cantabile: Dream Orchestra | 268432 | [268432-nodame-cantabile-dream-orchestra.json](./268432-nodame-cantabile-dream-orchestra.json) |
