@@ -13769,6 +13769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
+| Apocalyptica | 22278 | [22278-apocalyptica.json](./22278-apocalyptica.json) |
 | Apocalyptica | 377103 | [377103-apocalyptica.json](./377103-apocalyptica.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apocashop | 101808 | [101808-apocashop.json](./101808-apocashop.json) |
@@ -13927,6 +13928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Hopper | 158526 | [158526-apple-hopper.json](./158526-apple-hopper.json) |
 | Apple Jack | 91905 | [91905-apple-jack.json](./91905-apple-jack.json) |
 | Apple Jack 1&2 | 35716 | [35716-apple-jack-1-and-2.json](./35716-apple-jack-1-and-2.json) |
+| Apple Jack 2 | 22268 | [22268-apple-jack-2.json](./22268-apple-jack-2.json) |
 | Apple Jam | 13956 | [13956-apple-jam.json](./13956-apple-jam.json) |
 | Apple Knight | 127033 | [127033-apple-knight.json](./127033-apple-knight.json) |
 | Apple Knight 2 | 249682 | [249682-apple-knight-2.json](./249682-apple-knight-2.json) |
@@ -16901,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ars Vox Arcana | 339941 | [339941-ars-vox-arcana.json](./339941-ars-vox-arcana.json) |
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
+| Arsenal Club Football | 22246 | [22246-arsenal-club-football.json](./22246-arsenal-club-football.json) |
 | Arsenal Club Football 2005 | 47345 | [47345-arsenal-club-football-2005.json](./47345-arsenal-club-football-2005.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
@@ -17468,6 +17471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
 | Ascent: Crash Landing | 109365 | [109365-ascent-crash-landing.json](./109365-ascent-crash-landing.json) |
+| Ascent: Masklings | 430491 | [430491-ascent-masklings.json](./430491-ascent-masklings.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascent: The Space Game | 18794 | [18794-ascent-the-space-game.json](./18794-ascent-the-space-game.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
@@ -20059,6 +20063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attic | 229743 | [229743-attic.json](./229743-attic.json) |
 | Attic Antiquities | 413162 | [413162-attic-antiquities.json](./413162-attic-antiquities.json) |
 | Attic Archive | 365312 | [365312-attic-archive.json](./365312-attic-archive.json) |
+| Attkand | 430304 | [430304-attkand.json](./430304-attkand.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
 | Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
