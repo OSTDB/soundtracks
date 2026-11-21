@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow | 369253 | [369253-glow.json](./369253-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
 | Glow and Panic | 427956 | [427956-glow-and-panic.json](./427956-glow-and-panic.json) |
+| Glow Arcade Racer | 422909 | [422909-glow-arcade-racer.json](./422909-glow-arcade-racer.json) |
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
@@ -6166,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnarled Hag | 138629 | [138629-gnarled-hag.json](./138629-gnarled-hag.json) |
 | Gnarltoof's Revenge | 57764 | [57764-gnarltoofs-revenge.json](./57764-gnarltoofs-revenge.json) |
 | Gnarly Hike | 274362 | [274362-gnarly-hike.json](./274362-gnarly-hike.json) |
+| Gnart's Escape | 422973 | [422973-gnarts-escape.json](./422973-gnarts-escape.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
 | Gniffel | 144479 | [144479-gniffel.json](./144479-gniffel.json) |
@@ -8763,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab the Win | 131237 | [131237-grab-the-win.json](./131237-grab-the-win.json) |
 | Grab Them by the Eyes | 11738 | [11738-grab-them-by-the-eyes.json](./11738-grab-them-by-the-eyes.json) |
 | Grab Toy | 181035 | [181035-grab-toy.json](./181035-grab-toy.json) |
+| Grab Your Deck | 422884 | [422884-grab-your-deck.json](./422884-grab-your-deck.json) |
 | Grab-A-Crab | 319518 | [319518-grab-a-crab.json](./319518-grab-a-crab.json) |
 | Grabage | 307623 | [307623-grabage.json](./307623-grabage.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
