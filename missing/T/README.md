@@ -6761,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Apocalypse of You | 178999 | [178999-the-apocalypse-of-you.json](./178999-the-apocalypse-of-you.json) |
 | The Apocalypse Sacrifice | 290043 | [290043-the-apocalypse-sacrifice.json](./290043-the-apocalypse-sacrifice.json) |
 | The Apocryphal Gensoukyou | 212894 | [212894-the-apocryphal-gensoukyou.json](./212894-the-apocryphal-gensoukyou.json) |
+| The Apogee Throwback Pack | 30244 | [30244-the-apogee-throwback-pack.json](./30244-the-apogee-throwback-pack.json) |
 | The Apollo Project | 192682 | [192682-the-apollo-project.json](./192682-the-apollo-project.json) |
 | The Apothecary | 223242 | [223242-the-apothecary.json](./223242-the-apothecary.json) |
 | The Apothecary | 247848 | [247848-the-apothecary.json](./247848-the-apothecary.json) |
@@ -10679,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five: Kidnapped | 13772 | [13772-the-famous-five-kidnapped.json](./13772-the-famous-five-kidnapped.json) |
 | The Famous Five: Silver Tower | 13771 | [13771-the-famous-five-silver-tower.json](./13771-the-famous-five-silver-tower.json) |
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
+| The Fan | 30114 | [30114-the-fan.json](./30114-the-fan.json) |
 | The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part IV: The Multitasking Crystal | 279447 | [279447-the-fan-game-back-to-the-future-part-iv-the-multitasking-crystal.json](./279447-the-fan-game-back-to-the-future-part-iv-the-multitasking-crystal.json) |
@@ -17465,6 +17467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price is Right: 2010 Edition | 50650 | [50650-the-price-is-right-2010-edition.json](./50650-the-price-is-right-2010-edition.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price of Flesh | 197293 | [197293-the-price-of-flesh.json](./197293-the-price-of-flesh.json) |
+| The Price of Freedom | 30388 | [30388-the-price-of-freedom.json](./30388-the-price-of-freedom.json) |
 | The Price of Grief | 420155 | [420155-the-price-of-grief.json](./420155-the-price-of-grief.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
@@ -28840,6 +28843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
+| Tomato Way | 30184 | [30184-tomato-way.json](./30184-tomato-way.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
 | Tomato Way 3 | 141563 | [141563-tomato-way-3.json](./141563-tomato-way-3.json) |
 | Tomato Worm | 181196 | [181196-tomato-worm.json](./181196-tomato-worm.json) |
@@ -31704,6 +31708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers HD | 147308 | [147308-toy-soldiers-hd.json](./147308-toy-soldiers-hd.json) |
 | Toy Soldiers: Boot Camp | 65424 | [65424-toy-soldiers-boot-camp.json](./65424-toy-soldiers-boot-camp.json) |
 | Toy Soldiers: Cold War | 9485 | [9485-toy-soldiers-cold-war.json](./9485-toy-soldiers-cold-war.json) |
+| Toy Soldiers: Complete | 30371 | [30371-toy-soldiers-complete.json](./30371-toy-soldiers-complete.json) |
 | Toy Soldiers: War Chest | 15187 | [15187-toy-soldiers-war-chest.json](./15187-toy-soldiers-war-chest.json) |
 | Toy Soldiers: War Chest - Assassin’s Creed Pack | 410330 | [410330-toy-soldiers-war-chest-assassin-s-creed-pack.json](./410330-toy-soldiers-war-chest-assassin-s-creed-pack.json) |
 | Toy Soldiers: War Chest - Cobra Pack | 410323 | [410323-toy-soldiers-war-chest-cobra-pack.json](./410323-toy-soldiers-war-chest-cobra-pack.json) |
