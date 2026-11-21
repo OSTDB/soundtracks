@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiku no Gen-san: Robot Teikoku no Yabou | 49151 | [49151-daiku-no-gen-san-robot-teikoku-no-yabou.json](./49151-daiku-no-gen-san-robot-teikoku-no-yabou.json) |
 | Daiku no Medium | 159106 | [159106-daiku-no-medium.json](./159106-daiku-no-medium.json) |
 | Daily | 183234 | [183234-daily.json](./183234-daily.json) |
+| Daily Botanica | 429816 | [429816-daily-botanica.json](./429816-daily-botanica.json) |
 | Daily Bread | 303449 | [303449-daily-bread.json](./303449-daily-bread.json) |
 | Daily Bubble | 224069 | [224069-daily-bubble.json](./224069-daily-bubble.json) |
 | Daily Burden | 390589 | [390589-daily-burden.json](./390589-daily-burden.json) |
