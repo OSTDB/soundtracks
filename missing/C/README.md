@@ -6335,6 +6335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
 | Century of Anticipation | 265481 | [265481-century-of-anticipation.json](./265481-century-of-anticipation.json) |
+| Century of Conquest | 422634 | [422634-century-of-conquest.json](./422634-century-of-conquest.json) |
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
 | Century: Age of Ashes - Arisen Pack | 256407 | [256407-century-age-of-ashes-arisen-pack.json](./256407-century-age-of-ashes-arisen-pack.json) |
 | Century: Age of Ashes - Bloodshed Edition | 202760 | [202760-century-age-of-ashes-bloodshed-edition.json](./202760-century-age-of-ashes-bloodshed-edition.json) |
@@ -17675,6 +17676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Chaser | 120015 | [120015-cosmo-chaser.json](./120015-cosmo-chaser.json) |
 | Cosmo Clash | 192857 | [192857-cosmo-clash.json](./192857-cosmo-clash.json) |
 | Cosmo Command | 396263 | [396263-cosmo-command.json](./396263-cosmo-command.json) |
+| Cosmo Corgis | 422631 | [422631-cosmo-corgis.json](./422631-cosmo-corgis.json) |
 | Cosmo Dreamer & Like Dreamer: Double-D Collection | 286916 | [286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json](./286916-cosmo-dreamer-and-like-dreamer-double-d-collection.json) |
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
