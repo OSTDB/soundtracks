@@ -9788,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Fallen Realm | 415552 | [415552-chronicles-of-the-fallen-realm.json](./415552-chronicles-of-the-fallen-realm.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
 | Chronicles of the Mattock | 181676 | [181676-chronicles-of-the-mattock.json](./181676-chronicles-of-the-mattock.json) |
+| Chronicles Of The Sinner | 426697 | [426697-chronicles-of-the-sinner.json](./426697-chronicles-of-the-sinner.json) |
 | Chronicles of the Sword | 15477 | [15477-chronicles-of-the-sword.json](./15477-chronicles-of-the-sword.json) |
 | Chronicles of the Witches and Warlocks | 34614 | [34614-chronicles-of-the-witches-and-warlocks.json](./34614-chronicles-of-the-witches-and-warlocks.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
@@ -10415,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Flow | 413943 | [413943-circuit-flow.json](./413943-circuit-flow.json) |
 | Circuit Keep | 407686 | [407686-circuit-keep.json](./407686-circuit-keep.json) |
 | Circuit Maze | 333494 | [333494-circuit-maze.json](./333494-circuit-maze.json) |
+| Circuit Overload | 426820 | [426820-circuit-overload.json](./426820-circuit-overload.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
