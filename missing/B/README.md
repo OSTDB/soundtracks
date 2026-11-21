@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstorming | 18032 | [18032-barnstorming.json](./18032-barnstorming.json) |
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
 | Barnville Massacre | 376516 | [376516-barnville-massacre.json](./376516-barnville-massacre.json) |
+| Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
 | Barnyard Bash | 109941 | [109941-barnyard-bash.json](./109941-barnyard-bash.json) |
 | Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
