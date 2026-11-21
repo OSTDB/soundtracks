@@ -4339,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlemaze: Ojou-sama kara no Chousen | 214007 | [214007-castlemaze-ojou-sama-kara-no-chousen.json](./214007-castlemaze-ojou-sama-kara-no-chousen.json) |
 | CastleMine | 24548 | [24548-castlemine.json](./24548-castlemine.json) |
 | CastleMiner | 94849 | [94849-castleminer.json](./94849-castleminer.json) |
+| CastleMiner Warfare | 54502 | [54502-castleminer-warfare.json](./54502-castleminer-warfare.json) |
 | CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
@@ -4846,6 +4847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Snack Bar | 231781 | [231781-cat-snack-bar.json](./231781-cat-snack-bar.json) |
 | Cat Snap | 374884 | [374884-cat-snap.json](./374884-cat-snap.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
+| Cat Sorter VR | 54631 | [54631-cat-sorter-vr.json](./54631-cat-sorter-vr.json) |
 | Cat Souls | 244218 | [244218-cat-souls.json](./244218-cat-souls.json) |
 | Cat Spa | 224080 | [224080-cat-spa.json](./224080-cat-spa.json) |
 | Cat Spotting Challenge! | 333518 | [333518-cat-spotting-challenge.json](./333518-cat-spotting-challenge.json) |
@@ -14973,6 +14975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops 2: The Cauldron Vol. 5 | 170397 | [170397-command-ops-2-the-cauldron-vol-5.json](./170397-command-ops-2-the-cauldron-vol-5.json) |
 | Command Ops 2: Westwall Vol. 7 | 170399 | [170399-command-ops-2-westwall-vol-7.json](./170399-command-ops-2-westwall-vol-7.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
+| Command Ops: Battles from the Bulge | 54653 | [54653-command-ops-battles-from-the-bulge.json](./54653-command-ops-battles-from-the-bulge.json) |
 | Command Ops: Highway to the Reich | 63093 | [63093-command-ops-highway-to-the-reich.json](./63093-command-ops-highway-to-the-reich.json) |
 | Command Thousands Troops | 391144 | [391144-command-thousands-troops.json](./391144-command-thousands-troops.json) |
 | Command Under Fire RTS | 353556 | [353556-command-under-fire-rts.json](./353556-command-under-fire-rts.json) |
