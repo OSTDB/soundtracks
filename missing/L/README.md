@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
 | Layton 7 | 80738 | [80738-layton-7.json](./80738-layton-7.json) |
 | Layton Brothers: Mystery Room | 20912 | [20912-layton-brothers-mystery-room.json](./20912-layton-brothers-mystery-room.json) |
+| Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition | 120329 | [120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json](./120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
 | Layup Legends | 321885 | [321885-layup-legends.json](./321885-layup-legends.json) |
 | LAZ3RZ | 208514 | [208514-laz3rz.json](./208514-laz3rz.json) |
@@ -7545,6 +7546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liz and Rose's Alchemy Factory | 337806 | [337806-liz-and-roses-alchemy-factory.json](./337806-liz-and-roses-alchemy-factory.json) |
 | Liz Art Gallery | 413168 | [413168-liz-art-gallery.json](./413168-liz-art-gallery.json) |
 | Liz: Before the Plague | 94874 | [94874-liz-before-the-plague.json](./94874-liz-before-the-plague.json) |
+| Liz: The Tower and the Grimoire | 118415 | [118415-liz-the-tower-and-the-grimoire.json](./118415-liz-the-tower-and-the-grimoire.json) |
 | Liza: The Ungrateful | 221841 | [221841-liza-the-ungrateful.json](./221841-liza-the-ungrateful.json) |
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
 | Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
