@@ -7027,7 +7027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Polaris: Append Disc teki na no | 359204 | [359204-winter-polaris-append-disc-teki-na-no.json](./359204-winter-polaris-append-disc-teki-na-no.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
 | Winter Resort RPG | 411880 | [411880-winter-resort-rpg.json](./411880-winter-resort-rpg.json) |
-| Winter Resort Simulator | 123362 | [123362-winter-resort-simulator.json](./123362-winter-resort-simulator.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Resort Simulator 3 | 427869 | [427869-winter-resort-simulator-3.json](./427869-winter-resort-simulator-3.json) |
 | Winter Resort Simulator Season 2 | 141268 | [141268-winter-resort-simulator-season-2.json](./141268-winter-resort-simulator-season-2.json) |
