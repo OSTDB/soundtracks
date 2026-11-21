@@ -14419,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
 | Arbiter | 64693 | [64693-arbiter.json](./64693-arbiter.json) |
 | Arbiter 131 | 396854 | [396854-arbiter-131.json](./396854-arbiter-131.json) |
+| Arbiter's Circus | 424443 | [424443-arbiters-circus.json](./424443-arbiters-circus.json) |
 | Arbitology: Dei Gratia Rex | 123832 | [123832-arbitology-dei-gratia-rex.json](./123832-arbitology-dei-gratia-rex.json) |
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
@@ -20370,6 +20371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurum Blade | 38709 | [38709-aurum-blade.json](./38709-aurum-blade.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
+| Aurum: City of Chains | 424444 | [424444-aurum-city-of-chains.json](./424444-aurum-city-of-chains.json) |
 | Aurye Clicker | 310344 | [310344-aurye-clicker.json](./310344-aurye-clicker.json) |
 | Auryn Quest | 94591 | [94591-auryn-quest.json](./94591-auryn-quest.json) |
 | Ausbruch | 271943 | [271943-ausbruch.json](./271943-ausbruch.json) |
