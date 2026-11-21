@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Sports | 51106 | [51106-vacation-sports.json](./51106-vacation-sports.json) |
 | Vacation Tycoon | 265651 | [265651-vacation-tycoon.json](./265651-vacation-tycoon.json) |
 | Vacation Vexation | 57155 | [57155-vacation-vexation.json](./57155-vacation-vexation.json) |
+| Vacation Wonders: Hidden Quest | 426148 | [426148-vacation-wonders-hidden-quest.json](./426148-vacation-wonders-hidden-quest.json) |
 | Vacation Wonders: Hidden Quest - Collector's Edition | 416411 | [416411-vacation-wonders-hidden-quest-collectors-edition.json](./416411-vacation-wonders-hidden-quest-collectors-edition.json) |
 | Vacation: DayOff | 160258 | [160258-vacation-dayoff.json](./160258-vacation-dayoff.json) |
 | Vacay Volley | 422765 | [422765-vacay-volley.json](./422765-vacay-volley.json) |
