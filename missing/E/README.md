@@ -6900,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estiah | 126146 | [126146-estiah.json](./126146-estiah.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | Estilhaço | 294922 | [294922-estilhaco.json](./294922-estilhaco.json) |
+| Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estória | 379815 | [379815-estoria.json](./379815-estoria.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
