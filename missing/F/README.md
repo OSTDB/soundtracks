@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Bullets | 114550 | [114550-falling-bullets.json](./114550-falling-bullets.json) |
 | Falling Bush | 201947 | [201947-falling-bush.json](./201947-falling-bush.json) |
 | Falling Cube | 340054 | [340054-falling-cube.json](./340054-falling-cube.json) |
+| Falling Cubes | 422630 | [422630-falling-cubes.json](./422630-falling-cubes.json) |
 | Falling Day | 270180 | [270180-falling-day.json](./270180-falling-day.json) |
 | Falling Down | 253496 | [253496-falling-down.json](./253496-falling-down.json) |
 | Falling Down | 256364 | [256364-falling-down.json](./256364-falling-down.json) |
@@ -11372,6 +11373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestation | 76446 | [76446-forestation.json](./76446-forestation.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
+| Forester | 422619 | [422619-forester.json](./422619-forester.json) |
 | Forester Simulator | 158241 | [158241-forester-simulator.json](./158241-forester-simulator.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forester: First Step | 359160 | [359160-forester-first-step.json](./359160-forester-first-step.json) |
