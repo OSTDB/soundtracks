@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
 | Ball x Pit: Risen Ballbylon | 419026 | [419026-ball-x-pit-risen-ballbylon.json](./419026-ball-x-pit-risen-ballbylon.json) |
 | Ball X Pit: The Shadow Update | 400629 | [400629-ball-x-pit-the-shadow-update.json](./400629-ball-x-pit-the-shadow-update.json) |
+| Ball-Aqua | 423807 | [423807-ball-aqua.json](./423807-ball-aqua.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-Hop Bowling | 95015 | [95015-ball-hop-bowling.json](./95015-ball-hop-bowling.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
@@ -14406,6 +14407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
+| Bomb Them Ores | 423808 | [423808-bomb-them-ores.json](./423808-bomb-them-ores.json) |
 | Bomb Threat | 70802 | [70802-bomb-threat.json](./70802-bomb-threat.json) |
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
