@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Drive | 143530 | [143530-warp-drive.json](./143530-warp-drive.json) |
 | Warp Factor | 131830 | [131830-warp-factor.json](./131830-warp-factor.json) |
 | Warp Factory | 149127 | [149127-warp-factory.json](./149127-warp-factory.json) |
+| Warp Frontier | 149117 | [149117-warp-frontier.json](./149117-warp-frontier.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
 | Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
@@ -2452,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warsport | 93325 | [93325-warsport.json](./93325-warsport.json) |
 | Warstead | 422825 | [422825-warstead.json](./422825-warstead.json) |
 | Warstone TD: Gold Edition | 262037 | [262037-warstone-td-gold-edition.json](./262037-warstone-td-gold-edition.json) |
+| Warstride Challenges | 148964 | [148964-warstride-challenges.json](./148964-warstride-challenges.json) |
 | Warsword Conquest | 356193 | [356193-warsword-conquest.json](./356193-warsword-conquest.json) |
 | Wart | 195350 | [195350-wart.json](./195350-wart.json) |
 | Wart Worm Wingding | 185588 | [185588-wart-worm-wingding.json](./185588-wart-worm-wingding.json) |
