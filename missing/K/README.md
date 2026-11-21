@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakyuusei Remake | 385824 | [385824-kakyuusei-remake.json](./385824-kakyuusei-remake.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kāla | 252281 | [252281-kala.json](./252281-kala.json) |
+| Kalaban | 30094 | [30094-kalaban.json](./30094-kalaban.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
 | Kalaha | 369645 | [369645-kalaha.json](./369645-kalaha.json) |
 | Kalahari’s End | 292776 | [292776-kalahari-s-end.json](./292776-kalahari-s-end.json) |
@@ -1709,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | Keelhauled | 428135 | [428135-keelhauled.json](./428135-keelhauled.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
+| Keen | 30163 | [30163-keen.json](./30163-keen.json) |
 | Keen Commander World | 80004 | [80004-keen-commander-world.json](./80004-keen-commander-world.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
 | Keep | 373786 | [373786-keep.json](./373786-keep.json) |
