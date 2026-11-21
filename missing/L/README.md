@@ -8055,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logical | 375548 | [375548-logical.json](./375548-logical.json) |
+| Logical Cat Logistics | 423826 | [423826-logical-cat-logistics.json](./423826-logical-cat-logistics.json) |
 | Logical Journey of the Zoombinis | 20796 | [20796-logical-journey-of-the-zoombinis.json](./20796-logical-journey-of-the-zoombinis.json) |
 | Logical Now! | 116085 | [116085-logical-now.json](./116085-logical-now.json) |
 | Logical Reasoning of Ritsu | 360235 | [360235-logical-reasoning-of-ritsu.json](./360235-logical-reasoning-of-ritsu.json) |
