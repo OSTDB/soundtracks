@@ -21554,6 +21554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
 | Azimuth | 252655 | [252655-azimuth.json](./252655-azimuth.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
+| Azimuth: Forza Horizon 2 | 422904 | [422904-azimuth-forza-horizon-2.json](./422904-azimuth-forza-horizon-2.json) |
 | Azimuth: Forza Horizon 2 Presents Fast & Furious | 426805 | [426805-azimuth-forza-horizon-2-presents-fast-and-furious.json](./426805-azimuth-forza-horizon-2-presents-fast-and-furious.json) |
 | Azimuth: Forza Horizon 3 | 426807 | [426807-azimuth-forza-horizon-3.json](./426807-azimuth-forza-horizon-3.json) |
 | Azimuth: Forza Motorsport 5 | 426809 | [426809-azimuth-forza-motorsport-5.json](./426809-azimuth-forza-motorsport-5.json) |
