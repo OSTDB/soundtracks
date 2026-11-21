@@ -8059,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Dark Castle | 334221 | [334221-beyond-dark-castle.json](./334221-beyond-dark-castle.json) |
 | Beyond Dark Tales | 219985 | [219985-beyond-dark-tales.json](./219985-beyond-dark-tales.json) |
 | Beyond Dawn | 158531 | [158531-beyond-dawn.json](./158531-beyond-dawn.json) |
+| Beyond Dawn | 428585 | [428585-beyond-dawn.json](./428585-beyond-dawn.json) |
 | Beyond Despair | 26724 | [26724-beyond-despair.json](./26724-beyond-despair.json) |
 | Beyond Dimensions | 33865 | [33865-beyond-dimensions.json](./33865-beyond-dimensions.json) |
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
