@@ -3210,7 +3210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
 | Farming-Simulator: Gold Edition | 3170 | [3170-farming-simulator-gold-edition.json](./3170-farming-simulator-gold-edition.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
-| Farmington County | 123758 | [123758-farmington-county.json](./123758-farmington-county.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmistic | 224263 | [224263-farmistic.json](./224263-farmistic.json) |
 | Farmland Realm | 203990 | [203990-farmland-realm.json](./203990-farmland-realm.json) |
@@ -4130,7 +4129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Tall Grass | 399074 | [399074-fear-tall-grass.json](./399074-fear-tall-grass.json) |
 | Fear Tape | 298397 | [298397-fear-tape.json](./298397-fear-tape.json) |
 | Fear Tapes: Scrap Yard | 371599 | [371599-fear-tapes-scrap-yard.json](./371599-fear-tapes-scrap-yard.json) |
-| Fear the Dark Unknown | 125003 | [125003-fear-the-dark-unknown.json](./125003-fear-the-dark-unknown.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Dark Unknown: James | 159722 | [159722-fear-the-dark-unknown-james.json](./159722-fear-the-dark-unknown-james.json) |
 | Fear the Dead | 29220 | [29220-fear-the-dead.json](./29220-fear-the-dead.json) |
@@ -13795,7 +13793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
 | Fret's Quest | 389037 | [389037-frets-quest.json](./389037-frets-quest.json) |
 | Frets on Fire | 19283 | [19283-frets-on-fire.json](./19283-frets-on-fire.json) |
-| Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
 | Freud's Bones: The Game | 146392 | [146392-freuds-bones-the-game.json](./146392-freuds-bones-the-game.json) |
 | Freudian Slipgate | 313031 | [313031-freudian-slipgate.json](./313031-freudian-slipgate.json) |
 | Freudian Slipgate 2 | 313032 | [313032-freudian-slipgate-2.json](./313032-freudian-slipgate-2.json) |
@@ -14712,7 +14709,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
 | Frontline: War of Echoes | 366560 | [366560-frontline-war-of-echoes.json](./366560-frontline-war-of-echoes.json) |
-| Frontline: Western Front | 122379 | [122379-frontline-western-front.json](./122379-frontline-western-front.json) |
 | Frontline: World At War | 264726 | [264726-frontline-world-at-war.json](./264726-frontline-world-at-war.json) |
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
