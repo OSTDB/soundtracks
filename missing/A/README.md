@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
 | Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
 | Adversity Andy | 178302 | [178302-adversity-andy.json](./178302-adversity-andy.json) |
+| AdvertCity | 35360 | [35360-advertcity.json](./35360-advertcity.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advise the King | 229941 | [229941-advise-the-king.json](./229941-advise-the-king.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Capone | 421189 | [421189-al-capone.json](./421189-al-capone.json) |
 | Al Crepuscolo VR | 227677 | [227677-al-crepuscolo-vr.json](./227677-al-crepuscolo-vr.json) |
 | Al Emmo and the Lost Dutchman's Mine | 17330 | [17330-al-emmo-and-the-lost-dutchmans-mine.json](./17330-al-emmo-and-the-lost-dutchmans-mine.json) |
+| Al Emmo's Postcards from Anozira | 35123 | [35123-al-emmos-postcards-from-anozira.json](./35123-al-emmos-postcards-from-anozira.json) |
 | Al Fine | 30883 | [30883-al-fine.json](./30883-al-fine.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
 | Al Qaeda Hunting 3D | 370846 | [370846-al-qaeda-hunting-3d.json](./370846-al-qaeda-hunting-3d.json) |
@@ -13471,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 3502 | 427841 | [427841-apartment-3502.json](./427841-apartment-3502.json) |
 | Apartment 3906 | 183484 | [183484-apartment-3906.json](./183484-apartment-3906.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
+| Apartment 666 | 35083 | [35083-apartment-666.json](./35083-apartment-666.json) |
 | Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
 | Apartment Dream | 332462 | [332462-apartment-dream.json](./332462-apartment-dream.json) |
 | Apartment Escape | 337956 | [337956-apartment-escape.json](./337956-apartment-escape.json) |
