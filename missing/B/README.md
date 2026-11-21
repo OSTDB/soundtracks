@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica: Squadrons | 83398 | [83398-battlestar-galactica-squadrons.json](./83398-battlestar-galactica-squadrons.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestation | 216594 | [216594-battlestation.json](./216594-battlestation.json) |
+| Battlestation: Harbinger | 24202 | [24202-battlestation-harbinger.json](./24202-battlestation-harbinger.json) |
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
@@ -18512,6 +18513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brooklyn Sentai: Episode One | 132729 | [132729-brooklyn-sentai-episode-one.json](./132729-brooklyn-sentai-episode-one.json) |
 | Brooklyn Trash King | 172508 | [172508-brooklyn-trash-king.json](./172508-brooklyn-trash-king.json) |
 | Brooks in Wild West | 272258 | [272258-brooks-in-wild-west.json](./272258-brooks-in-wild-west.json) |
+| Brooktown High: Senior Year | 24283 | [24283-brooktown-high-senior-year.json](./24283-brooktown-high-senior-year.json) |
 | Brookwood: Pocket Tactics | 329696 | [329696-brookwood-pocket-tactics.json](./329696-brookwood-pocket-tactics.json) |
 | Broom Alien | 395447 | [395447-broom-alien.json](./395447-broom-alien.json) |
 | Broom Broom | 387655 | [387655-broom-broom.json](./387655-broom-broom.json) |
