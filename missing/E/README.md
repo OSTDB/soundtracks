@@ -2299,7 +2299,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
 | Elden Ring Demake | 408334 | [408334-elden-ring-demake.json](./408334-elden-ring-demake.json) |
 | Elden Ring GB | 206519 | [206519-elden-ring-gb.json](./206519-elden-ring-gb.json) |
-| Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Nightreign: Collector's Edition | 331167 | [331167-elden-ring-nightreign-collectors-edition.json](./331167-elden-ring-nightreign-collectors-edition.json) |
 | Elden Ring Nightreign: Deluxe Edition | 331166 | [331166-elden-ring-nightreign-deluxe-edition.json](./331166-elden-ring-nightreign-deluxe-edition.json) |
 | Elden Ring Reforged | 296157 | [296157-elden-ring-reforged.json](./296157-elden-ring-reforged.json) |
