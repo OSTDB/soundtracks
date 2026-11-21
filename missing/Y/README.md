@@ -313,7 +313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
 | Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
 | Yanderetale | 145771 | [145771-yanderetale.json](./145771-yanderetale.json) |
-| Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
 | YangBo Adventure | 81622 | [81622-yangbo-adventure.json](./81622-yangbo-adventure.json) |
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
@@ -1048,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorbie | 60468 | [60468-yorbie.json](./60468-yorbie.json) |
 | Yorbie: Episode 1 - Payback's a Bolt | 22085 | [22085-yorbie-episode-1-paybacks-a-bolt.json](./22085-yorbie-episode-1-paybacks-a-bolt.json) |
 | Yorda's Quest | 388158 | [388158-yordas-quest.json](./388158-yordas-quest.json) |
+| Yore VR | 26140 | [26140-yore-vr.json](./26140-yore-vr.json) |
 | Yoren | 131657 | [131657-yoren.json](./131657-yoren.json) |
 | Yorg | 121719 | [121719-yorg.json](./121719-yorg.json) |
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
@@ -2004,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! | 217963 | [217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json](./217963-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush.json) |
 | Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale - Let's Go! Go Rush!! Special Edition | 225342 | [225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json](./225342-yu-gi-oh-rush-duel-dawn-of-the-battle-royale-lets-go-go-rush-special-edition.json) |
 | Yu-Gi-Oh! Tag Force GX | 417178 | [417178-yu-gi-oh-tag-force-gx.json](./417178-yu-gi-oh-tag-force-gx.json) |
+| Yu-Gi-Oh! The Dawn of Destiny | 6257 | [6257-yu-gi-oh-the-dawn-of-destiny.json](./6257-yu-gi-oh-the-dawn-of-destiny.json) |
 | Yu-Gi-Oh! The Eternal Duelist Soul | 11672 | [11672-yu-gi-oh-the-eternal-duelist-soul.json](./11672-yu-gi-oh-the-eternal-duelist-soul.json) |
 | Yu-Gi-Oh! The Falsebound Kingdom | 4582 | [4582-yu-gi-oh-the-falsebound-kingdom.json](./4582-yu-gi-oh-the-falsebound-kingdom.json) |
 | Yu-Gi-Oh! The Sacred Cards | 6697 | [6697-yu-gi-oh-the-sacred-cards.json](./6697-yu-gi-oh-the-sacred-cards.json) |
