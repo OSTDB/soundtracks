@@ -5428,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
 | Nightshift Nightmares | 320060 | [320060-nightshift-nightmares.json](./320060-nightshift-nightmares.json) |
 | Nightshift Survival | 258314 | [258314-nightshift-survival.json](./258314-nightshift-survival.json) |
+| Nightshift; Nowhere | 422870 | [422870-nightshift-nowhere.json](./422870-nightshift-nowhere.json) |
 | Nightside | 11586 | [11586-nightside.json](./11586-nightside.json) |
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
 | Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodyssey | 196937 | [196937-nodyssey.json](./196937-nodyssey.json) |
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
 | Noel 3: Not Digital | 336305 | [336305-noel-3-not-digital.json](./336305-noel-3-not-digital.json) |
+| Noël Macabre | 422897 | [422897-noel-macabre.json](./422897-noel-macabre.json) |
 | Noel the Mortal Fate | 192026 | [192026-noel-the-mortal-fate.json](./192026-noel-the-mortal-fate.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
@@ -7981,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Monday Cafe | 327117 | [327117-not-monday-cafe.json](./327117-not-monday-cafe.json) |
 | Not Monsters | 412784 | [412784-not-monsters.json](./412784-not-monsters.json) |
 | Not My Child | 395296 | [395296-not-my-child.json](./395296-not-my-child.json) |
+| Not My Dad | 422888 | [422888-not-my-dad.json](./422888-not-my-dad.json) |
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
 | Not My Floor | 340966 | [340966-not-my-floor.json](./340966-not-my-floor.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
