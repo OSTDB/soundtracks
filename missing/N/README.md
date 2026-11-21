@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Undercover | 248138 | [248138-need-for-speed-undercover.json](./248138-need-for-speed-undercover.json) |
 | Need for Speed: Undercover | 288014 | [288014-need-for-speed-undercover.json](./288014-need-for-speed-undercover.json) |
 | Need for Speed: Underground 2 | 229854 | [229854-need-for-speed-underground-2.json](./229854-need-for-speed-underground-2.json) |
+| Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need for Spirit Drink & Drive Simulator | 272420 | [272420-need-for-spirit-drink-and-drive-simulator.json](./272420-need-for-spirit-drink-and-drive-simulator.json) |
