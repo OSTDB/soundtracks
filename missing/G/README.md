@@ -6506,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Benny! | 48321 | [48321-go-benny.json](./48321-go-benny.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! Dizzy Go! | 24013 | [24013-go-dizzy-go.json](./24013-go-dizzy-go.json) |
+| Go! Dot. | 423833 | [423833-go-dot.json](./423833-go-dot.json) |
 | Go! Fingers | 345157 | [345157-go-fingers.json](./345157-go-fingers.json) |
 | Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
