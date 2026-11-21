@@ -5468,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighty Night | 118920 | [118920-knighty-night.json](./118920-knighty-night.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knighventure | 352318 | [352318-knighventure.json](./352318-knighventure.json) |
+| Knit Knit: Tidy Up Together | 429790 | [429790-knit-knit-tidy-up-together.json](./429790-knit-knit-tidy-up-together.json) |
 | Knit-Wit | 254207 | [254207-knit-wit.json](./254207-knit-wit.json) |
 | Knitewings | 391643 | [391643-knitewings.json](./391643-knitewings.json) |
 | Knither Special | 41730 | [41730-knither-special.json](./41730-knither-special.json) |
