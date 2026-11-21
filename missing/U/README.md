@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergrounded | 315393 | [315393-undergrounded.json](./315393-undergrounded.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
 | Undergrowth: VR Maze | 149266 | [149266-undergrowth-vr-maze.json](./149266-undergrowth-vr-maze.json) |
+| UnderHalloween | 426153 | [426153-underhalloween.json](./426153-underhalloween.json) |
 | Underhaul | 298827 | [298827-underhaul.json](./298827-underhaul.json) |
 | Underhell | 121214 | [121214-underhell.json](./121214-underhell.json) |
 | Underhell | 144877 | [144877-underhell.json](./144877-underhell.json) |
