@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall in Duty | 190892 | [190892-fall-in-duty.json](./190892-fall-in-duty.json) |
 | Fall in Flowers | 331237 | [331237-fall-in-flowers.json](./331237-fall-in-flowers.json) |
+| Fall in Flowers | 426703 | [426703-fall-in-flowers.json](./426703-fall-in-flowers.json) |
 | Fall In Labyrinth | 167382 | [167382-fall-in-labyrinth.json](./167382-fall-in-labyrinth.json) |
 | Fall In Love - My Billionaire Boss | 120870 | [120870-fall-in-love-my-billionaire-boss.json](./120870-fall-in-love-my-billionaire-boss.json) |
 | Fall In Love 1 | 193556 | [193556-fall-in-love-1.json](./193556-fall-in-love-1.json) |
@@ -3715,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Empress | 159202 | [159202-fate-of-the-empress.json](./159202-fate-of-the-empress.json) |
 | Fate of the Foxes | 298926 | [298926-fate-of-the-foxes.json](./298926-fate-of-the-foxes.json) |
+| Fate of the Galaxy | 426713 | [426713-fate-of-the-galaxy.json](./426713-fate-of-the-galaxy.json) |
 | Fate of the Pharaoh | 10316 | [10316-fate-of-the-pharaoh.json](./10316-fate-of-the-pharaoh.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate of the Storm Gods | 143153 | [143153-fate-of-the-storm-gods.json](./143153-fate-of-the-storm-gods.json) |
@@ -5535,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File 13 | 426959 | [426959-file-13.json](./426959-file-13.json) |
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File 9 | 31121 | [31121-file-9.json](./31121-file-9.json) |
+| File Corruption | 426799 | [426799-file-corruption.json](./426799-file-corruption.json) |
 | File Destined | 235446 | [235446-file-destined.json](./235446-file-destined.json) |
 | File Tricks | 372719 | [372719-file-tricks.json](./372719-file-tricks.json) |
 | File Under Kingdom | 186793 | [186793-file-under-kingdom.json](./186793-file-under-kingdom.json) |
