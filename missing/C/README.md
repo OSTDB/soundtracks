@@ -6675,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
 | Chameleon Legacy | 96349 | [96349-chameleon-legacy.json](./96349-chameleon-legacy.json) |
 | Chameleon Run | 58656 | [58656-chameleon-run.json](./58656-chameleon-run.json) |
+| Chameleon Run: Deluxe Edition | 103198 | [103198-chameleon-run-deluxe-edition.json](./103198-chameleon-run-deluxe-edition.json) |
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
 | Chameleon Twist | 366631 | [366631-chameleon-twist.json](./366631-chameleon-twist.json) |
