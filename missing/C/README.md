@@ -11976,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickoin | 337434 | [337434-clickoin.json](./337434-clickoin.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
+| Clickomorph | 424445 | [424445-clickomorph.json](./424445-clickomorph.json) |
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | Clickout | 302813 | [302813-clickout.json](./302813-clickout.json) |
 | ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
@@ -18454,6 +18455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Room | 217103 | [217103-cozy-room.json](./217103-cozy-room.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
 | Cozy Sanctuary | 337692 | [337692-cozy-sanctuary.json](./337692-cozy-sanctuary.json) |
+| Cozy Shores | 424365 | [424365-cozy-shores.json](./424365-cozy-shores.json) |
 | Cozy Solitaire | 339330 | [339330-cozy-solitaire.json](./339330-cozy-solitaire.json) |
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozy Space Survivors | 275087 | [275087-cozy-space-survivors.json](./275087-cozy-space-survivors.json) |
@@ -23728,6 +23730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tank | 40107 | [40107-cyber-tank.json](./40107-cyber-tank.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
+| Cyber Tank Pink | 424459 | [424459-cyber-tank-pink.json](./424459-cyber-tank-pink.json) |
 | Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
 | Cyber Team Manager | 34108 | [34108-cyber-team-manager.json](./34108-cyber-team-manager.json) |
 | Cyber Tennis | 187721 | [187721-cyber-tennis.json](./187721-cyber-tennis.json) |
