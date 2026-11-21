@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
 | FaceRobots | 427168 | [427168-facerobots.json](./427168-facerobots.json) |
 | Faces and Places | 133494 | [133494-faces-and-places.json](./133494-faces-and-places.json) |
+| Faces of Illusion: The Twin Phantoms | 30440 | [30440-faces-of-illusion-the-twin-phantoms.json](./30440-faces-of-illusion-the-twin-phantoms.json) |
 | Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces of War | 10272 | [10272-faces-of-war.json](./10272-faces-of-war.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Fest | 68994 | [68994-farm-fest.json](./68994-farm-fest.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
 | Farm for You | 428121 | [428121-farm-for-you.json](./428121-farm-for-you.json) |
+| Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
 | Farm Frenzy 2 | 16091 | [16091-farm-frenzy-2.json](./16091-farm-frenzy-2.json) |
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
@@ -7584,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
 | Fishermans Life | 241609 | [241609-fishermans-life.json](./241609-fishermans-life.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
+| Fishermurs | 30284 | [30284-fishermurs.json](./30284-fishermurs.json) |
 | Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
@@ -9513,6 +9516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
+| Floppy Heroes | 32537 | [32537-floppy-heroes.json](./32537-floppy-heroes.json) |
 | Floppy Heroes 2 | 131777 | [131777-floppy-heroes-2.json](./131777-floppy-heroes-2.json) |
 | Floppy Jet | 397461 | [397461-floppy-jet.json](./397461-floppy-jet.json) |
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
