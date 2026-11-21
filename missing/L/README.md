@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Defiance Remastered - Shifter Skin Pack | 402541 | [402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json](./402541-legacy-of-kain-defiance-remastered-shifter-skin-pack.json) |
 | Legacy of Kain: Heart of Darkness Collection | 403942 | [403942-legacy-of-kain-heart-of-darkness-collection.json](./403942-legacy-of-kain-heart-of-darkness-collection.json) |
 | Legacy of Kain: Soul Reaver | 4122 | [4122-legacy-of-kain-soul-reaver.json](./4122-legacy-of-kain-soul-reaver.json) |
+| Legacy of Kain: Soul Reaver 2 | 429118 | [429118-legacy-of-kain-soul-reaver-2.json](./429118-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 | 7893 | [7893-legacy-of-kain-soul-reaver-2.json](./7893-legacy-of-kain-soul-reaver-2.json) |
 | Legacy of Kain: Soul Reaver 2 Remastered | 324084 | [324084-legacy-of-kain-soul-reaver-2-remastered.json](./324084-legacy-of-kain-soul-reaver-2-remastered.json) |
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
@@ -3389,6 +3390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Persia | 10390 | [10390-legends-of-persia.json](./10390-legends-of-persia.json) |
 | Legends of Pindorama | 197835 | [197835-legends-of-pindorama.json](./197835-legends-of-pindorama.json) |
 | Legends of Pixelia | 35227 | [35227-legends-of-pixelia.json](./35227-legends-of-pixelia.json) |
+| Legends of Rock | 429100 | [429100-legends-of-rock.json](./429100-legends-of-rock.json) |
 | Legends of Runeterra | 124701 | [124701-legends-of-runeterra.json](./124701-legends-of-runeterra.json) |
 | Legends of Savvarah: Children of the Sun | 261599 | [261599-legends-of-savvarah-children-of-the-sun.json](./261599-legends-of-savvarah-children-of-the-sun.json) |
 | Legends of Savvarah: Flowers and Scorpions | 268264 | [268264-legends-of-savvarah-flowers-and-scorpions.json](./268264-legends-of-savvarah-flowers-and-scorpions.json) |
@@ -5316,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Without You | 316727 | [316727-life-without-you.json](./316727-life-without-you.json) |
 | Life-Term | 354581 | [354581-life-term.json](./354581-life-term.json) |
 | Life-Winner Cong's Double Dragon Dream | 173874 | [173874-life-winner-congs-double-dragon-dream.json](./173874-life-winner-congs-double-dragon-dream.json) |
+| Life, the Universe, and Restaurants | 429213 | [429213-life-the-universe-and-restaurants.json](./429213-life-the-universe-and-restaurants.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life: the game of chance | 135686 | [135686-life-the-game-of-chance.json](./135686-life-the-game-of-chance.json) |
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
