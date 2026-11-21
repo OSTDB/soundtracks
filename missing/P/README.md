@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
 | Phantom Beasts: Redemption | 149392 | [149392-phantom-beasts-redemption.json](./149392-phantom-beasts-redemption.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
+| Phantom Blade Zero: Digital Deluxe Edition | 413260 | [413260-phantom-blade-zero-digital-deluxe-edition.json](./413260-phantom-blade-zero-digital-deluxe-edition.json) |
 | Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
 | Phantom Blaze | 273758 | [273758-phantom-blaze.json](./273758-phantom-blaze.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
