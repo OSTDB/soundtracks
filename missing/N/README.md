@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nahlakh | 94013 | [94013-nahlakh.json](./94013-nahlakh.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
+| Naija Life: Lagos Simulator | 429190 | [429190-naija-life-lagos-simulator.json](./429190-naija-life-lagos-simulator.json) |
 | Naiko's Room | 277797 | [277797-naikos-room.json](./277797-naikos-room.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Art For Girls | 90030 | [90030-nail-art-for-girls.json](./90030-nail-art-for-girls.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nip For Speed | 287281 | [287281-nip-for-speed.json](./287281-nip-for-speed.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
+| Nipi | 429177 | [429177-nipi.json](./429177-nipi.json) |
 | Niplheim's Hunter: Branded Azel | 82732 | [82732-niplheims-hunter-branded-azel.json](./82732-niplheims-hunter-branded-azel.json) |
 | Niplob Adventure | 225726 | [225726-niplob-adventure.json](./225726-niplob-adventure.json) |
 | Nippets | 326613 | [326613-nippets.json](./326613-nippets.json) |
