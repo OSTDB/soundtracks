@@ -7792,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
 | Shadow Game | 331297 | [331297-shadow-game.json](./331297-shadow-game.json) |
 | Shadow Gangs | 133056 | [133056-shadow-gangs.json](./133056-shadow-gangs.json) |
+| Shadow Gangs Zero | 428508 | [428508-shadow-gangs-zero.json](./428508-shadow-gangs-zero.json) |
 | Shadow Girls | 396566 | [396566-shadow-girls.json](./396566-shadow-girls.json) |
 | Shadow Grinder | 198590 | [198590-shadow-grinder.json](./198590-shadow-grinder.json) |
 | Shadow Guardian | 112206 | [112206-shadow-guardian.json](./112206-shadow-guardian.json) |
@@ -21361,9 +21362,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
 | Sort of Paradise | 429779 | [429779-sort-of-paradise.json](./429779-sort-of-paradise.json) |
 | Sort of the Apocalypse | 429113 | [429113-sort-of-the-apocalypse.json](./429113-sort-of-the-apocalypse.json) |
+| Sort On The Ball | 428578 | [428578-sort-on-the-ball.json](./428578-sort-on-the-ball.json) |
+| Sort Sort Yokai | 428579 | [428579-sort-sort-yokai.json](./428579-sort-sort-yokai.json) |
 | Sort The Bunnies | 421974 | [421974-sort-the-bunnies.json](./421974-sort-the-bunnies.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
+| Sort the Magic Potions: Tidy Up and Shelve | 428573 | [428573-sort-the-magic-potions-tidy-up-and-shelve.json](./428573-sort-the-magic-potions-tidy-up-and-shelve.json) |
+| Sort The Mart | 428576 | [428576-sort-the-mart.json](./428576-sort-the-mart.json) |
 | Sort The Plushie Store | 427136 | [427136-sort-the-plushie-store.json](./427136-sort-the-plushie-store.json) |
 | Sort the Red Pandas: Tidy Up & Shelve | 427926 | [427926-sort-the-red-pandas-tidy-up-and-shelve.json](./427926-sort-the-red-pandas-tidy-up-and-shelve.json) |
 | Sort the Roost | 430652 | [430652-sort-the-roost.json](./430652-sort-the-roost.json) |
@@ -31576,6 +31581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Simulator Pettikkada | 427575 | [427575-store-simulator-pettikkada.json](./427575-store-simulator-pettikkada.json) |
 | Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
 | Store Wars: Multiplayer Shop Simulator | 326350 | [326350-store-wars-multiplayer-shop-simulator.json](./326350-store-wars-multiplayer-shop-simulator.json) |
+| Storebot: Tidy Up PC Parts | 428574 | [428574-storebot-tidy-up-pc-parts.json](./428574-storebot-tidy-up-pc-parts.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storefront Simulator | 326349 | [326349-storefront-simulator.json](./326349-storefront-simulator.json) |
@@ -37442,6 +37448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
 | Super Monkey Ball: Banana Splitz | 42709 | [42709-super-monkey-ball-banana-splitz.json](./42709-super-monkey-ball-banana-splitz.json) |
+| Super Monkey Ball: Fright Night | 428484 | [428484-super-monkey-ball-fright-night.json](./428484-super-monkey-ball-fright-night.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Step & Roll | 5201 | [5201-super-monkey-ball-step-and-roll.json](./5201-super-monkey-ball-step-and-roll.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
