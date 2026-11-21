@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Circle | 132691 | [132691-defend-the-circle.json](./132691-defend-the-circle.json) |
 | Defend The Cubes | 383734 | [383734-defend-the-cubes.json](./383734-defend-the-cubes.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
+| Defend the Highlands | 35108 | [35108-defend-the-highlands.json](./35108-defend-the-highlands.json) |
 | Defend the Highlands: World Tour | 31325 | [31325-defend-the-highlands-world-tour.json](./31325-defend-the-highlands-world-tour.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Kingdom | 154907 | [154907-defend-the-kingdom.json](./154907-defend-the-kingdom.json) |
@@ -22081,6 +22082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarfzbound | 386503 | [386503-dwarfzbound.json](./386503-dwarfzbound.json) |
 | Dwarrf: A Pinball Roguelike | 342593 | [342593-dwarrf-a-pinball-roguelike.json](./342593-dwarrf-a-pinball-roguelike.json) |
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
+| Dwarven Brawl Bros | 35310 | [35310-dwarven-brawl-bros.json](./35310-dwarven-brawl-bros.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
 | Dwarven Depths | 92556 | [92556-dwarven-depths.json](./92556-dwarven-depths.json) |
 | Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
