@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
 | NFLPA Superstars | 293275 | [293275-nflpa-superstars.json](./293275-nflpa-superstars.json) |
 | NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
+| NFSMW Recompiled | 425620 | [425620-nfsmw-recompiled.json](./425620-nfsmw-recompiled.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
 | NG: Experience Selection | 166251 | [166251-ng-experience-selection.json](./166251-ng-experience-selection.json) |
@@ -6306,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nirvana | 199809 | [199809-nirvana.json](./199809-nirvana.json) |
 | Nirvana | 289248 | [289248-nirvana.json](./289248-nirvana.json) |
 | Nirvana | 331687 | [331687-nirvana.json](./331687-nirvana.json) |
+| Nirvana | 425512 | [425512-nirvana.json](./425512-nirvana.json) |
 | Nirvana Noir | 279371 | [279371-nirvana-noir.json](./279371-nirvana-noir.json) |
 | Nirvana Pilot Yume: Deluxe Edition | 208045 | [208045-nirvana-pilot-yume-deluxe-edition.json](./208045-nirvana-pilot-yume-deluxe-edition.json) |
 | Nirvana Revenge | 66044 | [66044-nirvana-revenge.json](./66044-nirvana-revenge.json) |
