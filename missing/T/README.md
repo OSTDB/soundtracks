@@ -28135,6 +28135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
 | Todd McFarlane's Spawn: The Video Game | 42580 | [42580-todd-mcfarlanes-spawn-the-video-game.json](./42580-todd-mcfarlanes-spawn-the-video-game.json) |
+| Todd The Technician | 423467 | [423467-todd-the-technician.json](./423467-todd-the-technician.json) |
 | Todd:Howard - You can (not) play forever | 113540 | [113540-todd-howard-you-can-not-play-forever.json](./113540-todd-howard-you-can-not-play-forever.json) |
 | Todd's Adventures in Slime World | 4543 | [4543-todds-adventures-in-slime-world.json](./4543-todds-adventures-in-slime-world.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
