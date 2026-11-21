@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance Sensation! | 50667 | [50667-dance-sensation.json](./50667-dance-sensation.json) |
+| Dance Sparkle: Girls Tournament | 420837 | [420837-dance-sparkle-girls-tournament.json](./420837-dance-sparkle-girls-tournament.json) |
 | Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
 | Dance Studio VR | 74610 | [74610-dance-studio-vr.json](./74610-dance-studio-vr.json) |
 | Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
@@ -3937,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Castlevania Chapter | 300809 | [300809-dead-by-daylight-castlevania-chapter.json](./300809-dead-by-daylight-castlevania-chapter.json) |
 | Dead by Daylight: Chains of Hate Chapter | 154343 | [154343-dead-by-daylight-chains-of-hate-chapter.json](./154343-dead-by-daylight-chains-of-hate-chapter.json) |
 | Dead by Daylight: Charity Case | 227409 | [227409-dead-by-daylight-charity-case.json](./227409-dead-by-daylight-charity-case.json) |
+| Dead by Daylight: Chorus of Sin | 420825 | [420825-dead-by-daylight-chorus-of-sin.json](./420825-dead-by-daylight-chorus-of-sin.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Cursed Legacy Chapter | 129474 | [129474-dead-by-daylight-cursed-legacy-chapter.json](./129474-dead-by-daylight-cursed-legacy-chapter.json) |
 | Dead by Daylight: Curtain Call Chapter | 129406 | [129406-dead-by-daylight-curtain-call-chapter.json](./129406-dead-by-daylight-curtain-call-chapter.json) |
@@ -8498,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Pinforge | 408873 | [408873-desktop-pinforge.json](./408873-desktop-pinforge.json) |
 | Desktop Plinko | 418026 | [418026-desktop-plinko.json](./418026-desktop-plinko.json) |
 | Desktop Raid | 392137 | [392137-desktop-raid.json](./392137-desktop-raid.json) |
+| Desktop Rave | 420866 | [420866-desktop-rave.json](./420866-desktop-rave.json) |
 | Desktop Reptiles | 405581 | [405581-desktop-reptiles.json](./405581-desktop-reptiles.json) |
 | Desktop Rugby | 125016 | [125016-desktop-rugby.json](./125016-desktop-rugby.json) |
 | Desktop Sex Doll | 394302 | [394302-desktop-sex-doll.json](./394302-desktop-sex-doll.json) |
@@ -12060,6 +12063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Puppy Love | 391298 | [391298-disney-dreamlight-valley-puppy-love.json](./391298-disney-dreamlight-valley-puppy-love.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
+| Disney Dreamlight Valley: Season of Scares | 420870 | [420870-disney-dreamlight-valley-season-of-scares.json](./420870-disney-dreamlight-valley-season-of-scares.json) |
 | Disney Dreamlight Valley: Sew Delightful | 324607 | [324607-disney-dreamlight-valley-sew-delightful.json](./324607-disney-dreamlight-valley-sew-delightful.json) |
 | Disney Dreamlight Valley: Tales of Agrabah | 333253 | [333253-disney-dreamlight-valley-tales-of-agrabah.json](./333253-disney-dreamlight-valley-tales-of-agrabah.json) |
 | Disney Dreamlight Valley: The Keepsake Sea | 417172 | [417172-disney-dreamlight-valley-the-keepsake-sea.json](./417172-disney-dreamlight-valley-the-keepsake-sea.json) |
@@ -21384,6 +21388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
 | Dungeoneers | 83015 | [83015-dungeoneers.json](./83015-dungeoneers.json) |
 | Dungeoneers Academy | 266547 | [266547-dungeoneers-academy.json](./266547-dungeoneers-academy.json) |
+| Dungeoneers Idle | 420829 | [420829-dungeoneers-idle.json](./420829-dungeoneers-idle.json) |
 | Dungeoneers Quest | 212374 | [212374-dungeoneers-quest.json](./212374-dungeoneers-quest.json) |
 | DungeonEpic | 121852 | [121852-dungeonepic.json](./121852-dungeonepic.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
