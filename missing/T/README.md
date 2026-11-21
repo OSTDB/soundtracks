@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
 | Tactical Galactical | 119201 | [119201-tactical-galactical.json](./119201-tactical-galactical.json) |
+| Tactical Genius | 35067 | [35067-tactical-genius.json](./35067-tactical-genius.json) |
 | Tactical Ghost | 348125 | [348125-tactical-ghost.json](./348125-tactical-ghost.json) |
 | Tactical Intervention | 5566 | [5566-tactical-intervention.json](./5566-tactical-intervention.json) |
 | Tactical Manager | 182375 | [182375-tactical-manager.json](./182375-tactical-manager.json) |
@@ -19830,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stormy Islands | 267793 | [267793-the-stormy-islands.json](./267793-the-stormy-islands.json) |
 | The Story About Princess 8 Out of 10 | 394240 | [394240-the-story-about-princess-8-out-of-10.json](./394240-the-story-about-princess-8-out-of-10.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
+| The Story Goes On | 35268 | [35268-the-story-goes-on.json](./35268-the-story-goes-on.json) |
 | The Story Goes On Chapter 1 | 337688 | [337688-the-story-goes-on-chapter-1.json](./337688-the-story-goes-on-chapter-1.json) |
 | The Story Goes On Chapter 2 | 337689 | [337689-the-story-goes-on-chapter-2.json](./337689-the-story-goes-on-chapter-2.json) |
 | The Story Goes On Chapter 3 | 337690 | [337690-the-story-goes-on-chapter-3.json](./337690-the-story-goes-on-chapter-3.json) |
@@ -23898,6 +23900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
 | Thunder Tank: Iron Shield | 396185 | [396185-thunder-tank-iron-shield.json](./396185-thunder-tank-iron-shield.json) |
+| Thunder Tier One | 35073 | [35073-thunder-tier-one.json](./35073-thunder-tier-one.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
@@ -27990,6 +27993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobari 2: Dream Ocean | 135815 | [135815-tobari-2-dream-ocean.json](./135815-tobari-2-dream-ocean.json) |
 | Tobari 2: Nightmare | 154883 | [154883-tobari-2-nightmare.json](./154883-tobari-2-nightmare.json) |
+| Tobari and the Night of the Curious Moon | 35325 | [35325-tobari-and-the-night-of-the-curious-moon.json](./35325-tobari-and-the-night-of-the-curious-moon.json) |
 | Tobari and the Vampire Alchemist | 398568 | [398568-tobari-and-the-vampire-alchemist.json](./398568-tobari-and-the-vampire-alchemist.json) |
 | Tobari Dream Ocean + Nightmare | 276950 | [276950-tobari-dream-ocean-nightmare.json](./276950-tobari-dream-ocean-nightmare.json) |
 | Tobari Dream Ocean: Nightmare | 277229 | [277229-tobari-dream-ocean-nightmare.json](./277229-tobari-dream-ocean-nightmare.json) |
@@ -34292,6 +34296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transcend | 74857 | [74857-transcend.json](./74857-transcend.json) |
 | Transcend | 94916 | [94916-transcend.json](./94916-transcend.json) |
 | Transcendence | 226894 | [226894-transcendence.json](./226894-transcendence.json) |
+| Transcendence | 35408 | [35408-transcendence.json](./35408-transcendence.json) |
 | Transcendence in the Poolrooms | 401031 | [401031-transcendence-in-the-poolrooms.json](./401031-transcendence-in-the-poolrooms.json) |
 | Transcendence Legacy: Voidswept | 192337 | [192337-transcendence-legacy-voidswept.json](./192337-transcendence-legacy-voidswept.json) |
 | Transcender | 140484 | [140484-transcender.json](./140484-transcender.json) |
