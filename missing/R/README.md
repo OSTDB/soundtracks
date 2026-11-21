@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Boarding | 61923 | [61923-rad-boarding.json](./61923-rad-boarding.json) |
 | Rad Dude | 167668 | [167668-rad-dude.json](./167668-rad-dude.json) |
 | Rad Mobile | 39570 | [39570-rad-mobile.json](./39570-rad-mobile.json) |
+| Rad New World | 428002 | [428002-rad-new-world.json](./428002-rad-new-world.json) |
 | Rad Racer | 8359 | [8359-rad-racer.json](./8359-rad-racer.json) |
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
@@ -2523,9 +2524,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattenkönig | 231786 | [231786-rattenkonig.json](./231786-rattenkonig.json) |
 | Rattenkönig | 293591 | [293591-rattenkonig.json](./293591-rattenkonig.json) |
+| Rattention! | 427920 | [427920-rattention.json](./427920-rattention.json) |
 | Rattenwalzer: Pesnya o bor'be i zhizni chelovecheskoy | 367304 | [367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json](./367304-rattenwalzer-pesnya-o-borbe-i-zhizni-chelovecheskoy.json) |
 | Rattle | 100750 | [100750-rattle.json](./100750-rattle.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
+| Rattle Spring | 427997 | [427997-rattle-spring.json](./427997-rattle-spring.json) |
 | Rattler | 294746 | [294746-rattler.json](./294746-rattler.json) |
 | Rattler Race | 78811 | [78811-rattler-race.json](./78811-rattler-race.json) |
 | Rattlesnake | 185319 | [185319-rattlesnake.json](./185319-rattlesnake.json) |
@@ -10918,6 +10921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Royale | 208961 | [208961-rocket-royale.json](./208961-rocket-royale.json) |
 | Rocket Rumble | 144974 | [144974-rocket-rumble.json](./144974-rocket-rumble.json) |
 | Rocket Rush | 405369 | [405369-rocket-rush.json](./405369-rocket-rush.json) |
+| Rocket Rush | 427978 | [427978-rocket-rush.json](./427978-rocket-rush.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
@@ -11534,6 +11538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Port: Blue Nightmare | 29428 | [29428-rogue-port-blue-nightmare.json](./29428-rogue-port-blue-nightmare.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Prison | 19179 | [19179-rogue-prison.json](./19179-rogue-prison.json) |
+| Rogue Process | 427987 | [427987-rogue-process.json](./427987-rogue-process.json) |
 | Rogue Production Facility | 156899 | [156899-rogue-production-facility.json](./156899-rogue-production-facility.json) |
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Quest: The Vault of the Lost Tyrant | 74358 | [74358-rogue-quest-the-vault-of-the-lost-tyrant.json](./74358-rogue-quest-the-vault-of-the-lost-tyrant.json) |
