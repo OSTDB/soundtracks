@@ -1310,7 +1310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh du Lieber Augustin | 421383 | [421383-oh-du-lieber-augustin.json](./421383-oh-du-lieber-augustin.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh High! | 182785 | [182785-oh-high.json](./182785-oh-high.json) |
-| Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh Jellies! | 398442 | [398442-oh-jellies.json](./398442-oh-jellies.json) |
 | Oh Joes! (A Proto Man Adventure) | 209268 | [209268-oh-joes-a-proto-man-adventure.json](./209268-oh-joes-a-proto-man-adventure.json) |
 | Oh Mummy | 13022 | [13022-oh-mummy.json](./13022-oh-mummy.json) |
