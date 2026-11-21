@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007: Everything or Nothing - XBE Recomp | 426038 | [426038-007-everything-or-nothing-xbe-recomp.json](./426038-007-everything-or-nothing-xbe-recomp.json) |
 | 007: From Russia with Love - XBE Recomp | 425581 | [425581-007-from-russia-with-love-xbe-recomp.json](./425581-007-from-russia-with-love-xbe-recomp.json) |
 | 007: Licence to Spell Doom | 312971 | [312971-007-licence-to-spell-doom.json](./312971-007-licence-to-spell-doom.json) |
+| 007: NightFire - XBE Recomp | 426829 | [426829-007-nightfire-xbe-recomp.json](./426829-007-nightfire-xbe-recomp.json) |
 | 007: Quantum of Solace | 156069 | [156069-007-quantum-of-solace.json](./156069-007-quantum-of-solace.json) |
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
