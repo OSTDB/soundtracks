@@ -7327,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyatto Ninden Teyandee | 24480 | [24480-kyatto-ninden-teyandee.json](./24480-kyatto-ninden-teyandee.json) |
 | Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
 | Kyber Kraft | 294902 | [294902-kyber-kraft.json](./294902-kyber-kraft.json) |
+| KYC: K Stands for Killing | 422892 | [422892-kyc-k-stands-for-killing.json](./422892-kyc-k-stands-for-killing.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
