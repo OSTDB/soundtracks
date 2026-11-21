@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Minerva | 99843 | [99843-operation-minerva.json](./99843-operation-minerva.json) |
 | Operation Nachtsprung: Odyssey Live | 352734 | [352734-operation-nachtsprung-odyssey-live.json](./352734-operation-nachtsprung-odyssey-live.json) |
 | Operation Neptune | 7472 | [7472-operation-neptune.json](./7472-operation-neptune.json) |
+| Operation Night Strikers | 343316 | [343316-operation-night-strikers.json](./343316-operation-night-strikers.json) |
 | Operation Ninurta: Eris Portal | 351726 | [351726-operation-ninurta-eris-portal.json](./351726-operation-ninurta-eris-portal.json) |
 | Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
 | Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
