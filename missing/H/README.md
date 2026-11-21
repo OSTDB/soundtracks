@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: Doom Evolved | 401297 | [401297-halo-doom-evolved.json](./401297-halo-doom-evolved.json) |
+| Halo: Fireteam Raven | 102066 | [102066-halo-fireteam-raven.json](./102066-halo-fireteam-raven.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Neutral Host Edition | 300638 | [300638-halo-neutral-host-edition.json](./300638-halo-neutral-host-edition.json) |
 | Halo: New Covenant | 332316 | [332316-halo-new-covenant.json](./332316-halo-new-covenant.json) |
@@ -4317,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Fire: Afghanistan | 982 | [982-heavy-fire-afghanistan.json](./982-heavy-fire-afghanistan.json) |
 | Heavy Fire: Black Arms | 65497 | [65497-heavy-fire-black-arms.json](./65497-heavy-fire-black-arms.json) |
 | Heavy Fire: Black Arms 3D | 85628 | [85628-heavy-fire-black-arms-3d.json](./85628-heavy-fire-black-arms-3d.json) |
+| Heavy Fire: Red Shadow | 102863 | [102863-heavy-fire-red-shadow.json](./102863-heavy-fire-red-shadow.json) |
 | Heavy Fire: Shattered Spear | 10404 | [10404-heavy-fire-shattered-spear.json](./10404-heavy-fire-shattered-spear.json) |
 | Heavy Fire: Special Operations | 408862 | [408862-heavy-fire-special-operations.json](./408862-heavy-fire-special-operations.json) |
 | Heavy Fire: The Chosen Few | 145344 | [145344-heavy-fire-the-chosen-few.json](./145344-heavy-fire-the-chosen-few.json) |
@@ -10970,6 +10972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homo Evolution | 180572 | [180572-homo-evolution.json](./180572-homo-evolution.json) |
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
 | Homo Ludus | 257606 | [257606-homo-ludus.json](./257606-homo-ludus.json) |
+| Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
 | Homonculus | 395627 | [395627-homonculus.json](./395627-homonculus.json) |
 | Homoworld | 361387 | [361387-homoworld.json](./361387-homoworld.json) |
