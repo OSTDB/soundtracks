@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bombers Returns | 275554 | [275554-little-bombers-returns.json](./275554-little-bombers-returns.json) |
 | Little Boo and the Spectral Orbs | 386232 | [386232-little-boo-and-the-spectral-orbs.json](./386232-little-boo-and-the-spectral-orbs.json) |
 | Little Brats! | 298079 | [298079-little-brats.json](./298079-little-brats.json) |
+| Little Briar Rose | 30541 | [30541-little-briar-rose.json](./30541-little-briar-rose.json) |
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Broken Robots | 113975 | [113975-little-broken-robots.json](./113975-little-broken-robots.json) |
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
@@ -10291,6 +10292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Election & Chocolate Portable | 140658 | [140658-love-election-and-chocolate-portable.json](./140658-love-election-and-chocolate-portable.json) |
 | Love, Elections and Chocolate | 140685 | [140685-love-elections-and-chocolate.json](./140685-love-elections-and-chocolate.json) |
 | Love, Ghostie | 204529 | [204529-love-ghostie.json](./204529-love-ghostie.json) |
+| Love, Guitars, and the Nashville Skyline | 30532 | [30532-love-guitars-and-the-nashville-skyline.json](./30532-love-guitars-and-the-nashville-skyline.json) |
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, I'm Not Good For You | 398915 | [398915-love-im-not-good-for-you.json](./398915-love-im-not-good-for-you.json) |
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
