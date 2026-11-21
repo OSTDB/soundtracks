@@ -8069,6 +8069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Déraciné | 103332 | [103332-deracine.json](./103332-deracine.json) |
 | Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
+| Derail | 422881 | [422881-derail.json](./422881-derail.json) |
 | Derail Party | 430562 | [430562-derail-party.json](./430562-derail-party.json) |
 | Derail Valley | 29564 | [29564-derail-valley.json](./29564-derail-valley.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
@@ -16289,6 +16290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
 | Down There Somewhere | 269031 | [269031-down-there-somewhere.json](./269031-down-there-somewhere.json) |
 | Down to Earth | 14039 | [14039-down-to-earth.json](./14039-down-to-earth.json) |
+| Down to Floor Zero | 422901 | [422901-down-to-floor-zero.json](./422901-down-to-floor-zero.json) |
 | Down Under | 252397 | [252397-down-under.json](./252397-down-under.json) |
 | Down Under | 314617 | [314617-down-under.json](./314617-down-under.json) |
 | Down Ward | 126429 | [126429-down-ward.json](./126429-down-ward.json) |
@@ -18273,6 +18275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadful Tales: The Fire Within - Collector's Edition | 222013 | [222013-dreadful-tales-the-fire-within-collectors-edition.json](./222013-dreadful-tales-the-fire-within-collectors-edition.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
 | Dreadful Wake | 192669 | [192669-dreadful-wake.json](./192669-dreadful-wake.json) |
+| Dreadgence | 422890 | [422890-dreadgence.json](./422890-dreadgence.json) |
 | Dreadhalls | 21561 | [21561-dreadhalls.json](./21561-dreadhalls.json) |
 | DreadHaunt | 205005 | [205005-dreadhaunt.json](./205005-dreadhaunt.json) |
 | DreadHaven: The Last Colony | 336597 | [336597-dreadhaven-the-last-colony.json](./336597-dreadhaven-the-last-colony.json) |
@@ -20686,6 +20689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
 | Dummy Falls | 188745 | [188745-dummy-falls.json](./188745-dummy-falls.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
+| Dummy House | 422869 | [422869-dummy-house.json](./422869-dummy-house.json) |
 | Dummy Life | 68372 | [68372-dummy-life.json](./68372-dummy-life.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
