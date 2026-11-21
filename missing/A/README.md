@@ -14618,6 +14618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Donkey Kong | 103362 | [103362-arcade-archives-donkey-kong.json](./103362-arcade-archives-donkey-kong.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
+| Arcade Archives: Double Dragon | 82391 | [82391-arcade-archives-double-dragon.json](./82391-arcade-archives-double-dragon.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
 | Arcade Archives: Dragon Buster | 186560 | [186560-arcade-archives-dragon-buster.json](./186560-arcade-archives-dragon-buster.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
@@ -16886,7 +16887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arsenal Club Football 2005 | 47345 | [47345-arsenal-club-football-2005.json](./47345-arsenal-club-football-2005.json) |
-| Arsenal Demon | 123518 | [123518-arsenal-demon.json](./123518-arsenal-demon.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Online: Customization Pack | 283945 | [283945-arsenal-online-customization-pack.json](./283945-arsenal-online-customization-pack.json) |
@@ -17147,6 +17147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
 | Artifex Mundi Adventure Collection | 83755 | [83755-artifex-mundi-adventure-collection.json](./83755-artifex-mundi-adventure-collection.json) |
+| Artifex Mundi Essential Bundle | 82380 | [82380-artifex-mundi-essential-bundle.json](./82380-artifex-mundi-essential-bundle.json) |
 | Artifex Mundi Fantasy Bundle | 83733 | [83733-artifex-mundi-fantasy-bundle.json](./83733-artifex-mundi-fantasy-bundle.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
@@ -19282,6 +19283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Blast! Vol. 3 | 277071 | [277071-atari-flashback-blast-vol-3.json](./277071-atari-flashback-blast-vol-3.json) |
 | Atari Flashback Classics Vol. 1 | 24891 | [24891-atari-flashback-classics-vol-1.json](./24891-atari-flashback-classics-vol-1.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
+| Atari Flashback Classics Vol. 3 | 83671 | [83671-atari-flashback-classics-vol-3.json](./83671-atari-flashback-classics-vol-3.json) |
 | Atari Flashback Portable | 219380 | [219380-atari-flashback-portable.json](./219380-atari-flashback-portable.json) |
 | Atari Flashback Portable | 245573 | [245573-atari-flashback-portable.json](./245573-atari-flashback-portable.json) |
 | Atari Flashback Portable | 277062 | [277062-atari-flashback-portable.json](./277062-atari-flashback-portable.json) |
@@ -20163,6 +20165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Trip | 122136 | [122136-audio-trip.json](./122136-audio-trip.json) |
 | Audio Trip: Swanky Song Pack | 261928 | [261928-audio-trip-swanky-song-pack.json](./261928-audio-trip-swanky-song-pack.json) |
 | AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
+| AudioBeats | 83858 | [83858-audiobeats.json](./83858-audiobeats.json) |
 | Audioclash: Battle of the Bands | 211083 | [211083-audioclash-battle-of-the-bands.json](./211083-audioclash-battle-of-the-bands.json) |
 | Audioglide | 334343 | [334343-audioglide.json](./334343-audioglide.json) |
 | Audiomech: Your Music Transformed | 365964 | [365964-audiomech-your-music-transformed.json](./365964-audiomech-your-music-transformed.json) |
