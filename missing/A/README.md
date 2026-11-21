@@ -4408,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
 | Adventure of Rikka: The Cursed Kingdom | 190768 | [190768-adventure-of-rikka-the-cursed-kingdom.json](./190768-adventure-of-rikka-the-cursed-kingdom.json) |
 | Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
+| Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of the Bucket | 316447 | [316447-adventure-of-the-bucket.json](./316447-adventure-of-the-bucket.json) |
 | Adventure of the Skullmancer | 261117 | [261117-adventure-of-the-skullmancer.json](./261117-adventure-of-the-skullmancer.json) |
@@ -4789,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
 | Aerial Raver | 131829 | [131829-aerial-raver.json](./131829-aerial-raver.json) |
 | Aerial Strike: The Yager Missions | 72587 | [72587-aerial-strike-the-yager-missions.json](./72587-aerial-strike-the-yager-missions.json) |
+| Aerial_Knight's DropShot | 342901 | [342901-aerial-knights-dropshot.json](./342901-aerial-knights-dropshot.json) |
 | Aerial_Knight's MrFreezy | 410070 | [410070-aerial-knights-mrfreezy.json](./410070-aerial-knights-mrfreezy.json) |
 | Aerial_Knight's Never Yield: Deluxe Edition | 169190 | [169190-aerial-knights-never-yield-deluxe-edition.json](./169190-aerial-knights-never-yield-deluxe-edition.json) |
 | AerialDrop | 23326 | [23326-aerialdrop.json](./23326-aerialdrop.json) |
@@ -5120,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL | 4662 | [4662-afl.json](./4662-afl.json) |
 | AFL '98 | 79493 | [79493-afl-98.json](./79493-afl-98.json) |
 | AFL 23 | 240298 | [240298-afl-23.json](./240298-afl-23.json) |
+| AFL 26 | 340723 | [340723-afl-26.json](./340723-afl-26.json) |
 | AFL 99 | 60580 | [60580-afl-99.json](./60580-afl-99.json) |
 | AFL Auskick Space League | 228875 | [228875-afl-auskick-space-league.json](./228875-afl-auskick-space-league.json) |
 | AFL Challenge | 68302 | [68302-afl-challenge.json](./68302-afl-challenge.json) |
@@ -5609,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - Return of Rome | 247155 | [247155-age-of-empires-ii-definitive-edition-return-of-rome.json](./247155-age-of-empires-ii-definitive-edition-return-of-rome.json) |
 | Age of Empires II: Definitive Edition - The Last Chieftains | 386971 | [386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json](./386971-age-of-empires-ii-definitive-edition-the-last-chieftains.json) |
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
+| Age of Empires II: Definitive Edition - The Three Kingdoms | 342809 | [342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json](./342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
 | Age of Empires II: Definitive Edition - Victors and Vanquished | 290126 | [290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json](./290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json) |
 | Age of Empires II: Deluxe Definitive Edition Bundle | 234355 | [234355-age-of-empires-ii-deluxe-definitive-edition-bundle.json](./234355-age-of-empires-ii-deluxe-definitive-edition-bundle.json) |
@@ -9988,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambroise Niflette & the Gleaned Bell | 323975 | [323975-ambroise-niflette-and-the-gleaned-bell.json](./323975-ambroise-niflette-and-the-gleaned-bell.json) |
 | Ambrose | 401032 | [401032-ambrose.json](./401032-ambrose.json) |
 | Ambrosia | 104239 | [104239-ambrosia.json](./104239-ambrosia.json) |
+| Ambrosia Sky | 348266 | [348266-ambrosia-sky.json](./348266-ambrosia-sky.json) |
 | Ambrosia Sky: Act Two | 404879 | [404879-ambrosia-sky-act-two.json](./404879-ambrosia-sky-act-two.json) |
 | Ambrosia: Dice Spam Dungeon | 425816 | [425816-ambrosia-dice-spam-dungeon.json](./425816-ambrosia-dice-spam-dungeon.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
@@ -11693,6 +11698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Fighters | 332422 | [332422-anima-fighters.json](./332422-anima-fighters.json) |
 | Anima Flux | 249480 | [249480-anima-flux.json](./249480-anima-flux.json) |
 | Anima Forest | 166847 | [166847-anima-forest.json](./166847-anima-forest.json) |
+| Anima Gate of Memories: I & II Remaster | 346952 | [346952-anima-gate-of-memories-i-and-ii-remaster.json](./346952-anima-gate-of-memories-i-and-ii-remaster.json) |
 | Anima Island | 210965 | [210965-anima-island.json](./210965-anima-island.json) |
 | Anima Keeper | 291355 | [291355-anima-keeper.json](./291355-anima-keeper.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
@@ -14498,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
 | Arcade Archives 2: Rave Racer | 388443 | [388443-arcade-archives-2-rave-racer.json](./388443-arcade-archives-2-rave-racer.json) |
 | Arcade Archives 2: Rezon | 429337 | [429337-arcade-archives-2-rezon.json](./429337-arcade-archives-2-rezon.json) |
+| Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
 | Arcade Archives 2: Scion | 375698 | [375698-arcade-archives-2-scion.json](./375698-arcade-archives-2-scion.json) |
@@ -21617,6 +21624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt 3 | 135503 | [135503-azure-striker-gunvolt-3.json](./135503-azure-striker-gunvolt-3.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Merak and Teseo Pack | 238320 | [238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json](./238320-azure-striker-gunvolt-3-ex-image-pulses-merak-and-teseo-pack.json) |
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
+| Azure Striker Gunvolt Trilogy Enhanced | 335400 | [335400-azure-striker-gunvolt-trilogy-enhanced.json](./335400-azure-striker-gunvolt-trilogy-enhanced.json) |
 | Azure Striker Gunvolt Trilogy Enhanced: Additional Mode - Azure Striker Gunvolt GX | 425154 | [425154-azure-striker-gunvolt-trilogy-enhanced-additional-mode-azure-striker-gunvolt-gx.json](./425154-azure-striker-gunvolt-trilogy-enhanced-additional-mode-azure-striker-gunvolt-gx.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azure Wing: Rising Gale | 117228 | [117228-azure-wing-rising-gale.json](./117228-azure-wing-rising-gale.json) |
