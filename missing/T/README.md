@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
 | Tenshi | 328184 | [328184-tenshi.json](./328184-tenshi.json) |
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
+| Tenshi Gun Gun | 420126 | [420126-tenshi-gun-gun.json](./420126-tenshi-gun-gun.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
 | Tenshi no Bon Kaeri | 394952 | [394952-tenshi-no-bon-kaeri.json](./394952-tenshi-no-bon-kaeri.json) |
 | Tenshi no Inai 12-gatsu | 148442 | [148442-tenshi-no-inai-12-gatsu.json](./148442-tenshi-no-inai-12-gatsu.json) |
@@ -11094,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flying Dutchman | 17812 | [17812-the-flying-dutchman.json](./17812-the-flying-dutchman.json) |
 | The Flying Dutchman | 380908 | [380908-the-flying-dutchman.json](./380908-the-flying-dutchman.json) |
 | The Flying Farm | 306299 | [306299-the-flying-farm.json](./306299-the-flying-farm.json) |
+| The Flying Feather Shotgun | 420142 | [420142-the-flying-feather-shotgun.json](./420142-the-flying-feather-shotgun.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Hamster | 42825 | [42825-the-flying-hamster.json](./42825-the-flying-hamster.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
@@ -11287,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
 | The Frog Prince | 230635 | [230635-the-frog-prince.json](./230635-the-frog-prince.json) |
 | The Frog Prince | 412672 | [412672-the-frog-prince.json](./412672-the-frog-prince.json) |
+| The Frog Prince: Unfrogged | 420156 | [420156-the-frog-prince-unfrogged.json](./420156-the-frog-prince-unfrogged.json) |
 | The Frog That Leapt Too Far | 381667 | [381667-the-frog-that-leapt-too-far.json](./381667-the-frog-that-leapt-too-far.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
@@ -17445,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price is Right: 2010 Edition | 50650 | [50650-the-price-is-right-2010-edition.json](./50650-the-price-is-right-2010-edition.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price of Flesh | 197293 | [197293-the-price-of-flesh.json](./197293-the-price-of-flesh.json) |
+| The Price of Grief | 420155 | [420155-the-price-of-grief.json](./420155-the-price-of-grief.json) |
 | The Price of Magik | 28458 | [28458-the-price-of-magik.json](./28458-the-price-of-magik.json) |
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Price of Tomorrow | 415351 | [415351-the-price-of-tomorrow.json](./415351-the-price-of-tomorrow.json) |
@@ -29034,6 +29038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
 | Tommy Gun | 94441 | [94441-tommy-gun.json](./94441-tommy-gun.json) |
 | Tommy Gun Carnage | 212674 | [212674-tommy-gun-carnage.json](./212674-tommy-gun-carnage.json) |
+| Tommy Gun Marionettes | 420119 | [420119-tommy-gun-marionettes.json](./420119-tommy-gun-marionettes.json) |
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
 | Tommy Lasorda Baseball | 27969 | [27969-tommy-lasorda-baseball.json](./27969-tommy-lasorda-baseball.json) |
@@ -35769,6 +35774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinket | 114653 | [114653-trinket.json](./114653-trinket.json) |
 | Trinket Bag Maker | 382569 | [382569-trinket-bag-maker.json](./382569-trinket-bag-maker.json) |
 | Trinkets | 355078 | [355078-trinkets.json](./355078-trinkets.json) |
+| Trinkets and Gunpowder | 420139 | [420139-trinkets-and-gunpowder.json](./420139-trinkets-and-gunpowder.json) |
 | Trino | 15012 | [15012-trino.json](./15012-trino.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trinoline: Genesis | 98374 | [98374-trinoline-genesis.json](./98374-trinoline-genesis.json) |
@@ -38523,6 +38529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
 | Two Tired to Mountain | 384019 | [384019-two-tired-to-mountain.json](./384019-two-tired-to-mountain.json) |
 | Two To Match | 277717 | [277717-two-to-match.json](./277717-two-to-match.json) |
+| Two to Roll: Shotgun Survivors | 420133 | [420133-two-to-roll-shotgun-survivors.json](./420133-two-to-roll-shotgun-survivors.json) |
 | Two Tone Jam | 306869 | [306869-two-tone-jam.json](./306869-two-tone-jam.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Touch: Switch | 242171 | [242171-two-touch-switch.json](./242171-two-touch-switch.json) |
