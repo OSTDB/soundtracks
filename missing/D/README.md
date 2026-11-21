@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of Death | 33827 | [33827-dance-of-death.json](./33827-dance-of-death.json) |
 | Dance Of Death | 266887 | [266887-dance-of-death.json](./266887-dance-of-death.json) |
 | Dance of Decapods | 220965 | [220965-dance-of-decapods.json](./220965-dance-of-decapods.json) |
+| Dance of Drauganna | 425480 | [425480-dance-of-drauganna.json](./425480-dance-of-drauganna.json) |
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance of the Damned | 85066 | [85066-dance-of-the-damned.json](./85066-dance-of-the-damned.json) |
 | Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
@@ -1101,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Another Episode: Ultra Despair Girls | 9708 | [9708-danganronpa-another-episode-ultra-despair-girls.json](./9708-danganronpa-another-episode-ultra-despair-girls.json) |
 | Danganronpa Another Episode: Ultra Despair Girls - Limited Edition | 42675 | [42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json](./42675-danganronpa-another-episode-ultra-despair-girls-limited-edition.json) |
 | Danganronpa Another: Another Despair Academy | 143213 | [143213-danganronpa-another-another-despair-academy.json](./143213-danganronpa-another-another-despair-academy.json) |
+| Danganronpa Another: Another Despair Academy Remaster | 425491 | [425491-danganronpa-another-another-despair-academy-remaster.json](./425491-danganronpa-another-another-despair-academy-remaster.json) |
 | Danganronpa Blowback: The Stage of Repeated Despair and Hope | 304343 | [304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json](./304343-danganronpa-blowback-the-stage-of-repeated-despair-and-hope.json) |
 | Danganronpa Croxx: The Beginning of the Despair Plan | 304340 | [304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json](./304340-danganronpa-croxx-the-beginning-of-the-despair-plan.json) |
 | Danganronpa Daydream | 304352 | [304352-danganronpa-daydream.json](./304352-danganronpa-daydream.json) |
@@ -12094,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Ursula's Transformation Dream Bundle | 406164 | [406164-disney-dreamlight-valley-ursulas-transformation-dream-bundle.json](./406164-disney-dreamlight-valley-ursulas-transformation-dream-bundle.json) |
 | Disney Dreamlight Valley: Whispers of the Wind | 397675 | [397675-disney-dreamlight-valley-whispers-of-the-wind.json](./397675-disney-dreamlight-valley-whispers-of-the-wind.json) |
 | Disney Dreamlight Valley: Wishblossom Ranch | 366464 | [366464-disney-dreamlight-valley-wishblossom-ranch.json](./366464-disney-dreamlight-valley-wishblossom-ranch.json) |
+| Disney Dreamlight Valley: Wishblossom Ranch Edition | 425605 | [425605-disney-dreamlight-valley-wishblossom-ranch-edition.json](./425605-disney-dreamlight-valley-wishblossom-ranch-edition.json) |
 | Disney Dreamlight Valley: Wonderland Whimsy | 341581 | [341581-disney-dreamlight-valley-wonderland-whimsy.json](./341581-disney-dreamlight-valley-wonderland-whimsy.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
 | Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
@@ -12674,6 +12677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dito G1 | 266880 | [266880-dito-g1.json](./266880-dito-g1.json) |
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Dittori | 403316 | [403316-dittori.json](./403316-dittori.json) |
+| Diuxia | 425618 | [425618-diuxia.json](./425618-diuxia.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
 | Diva Girls: Diva Dancers | 70531 | [70531-diva-girls-diva-dancers.json](./70531-diva-girls-diva-dancers.json) |
 | Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
@@ -17779,6 +17783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonBlast VR | 31671 | [31671-dragonblast-vr.json](./31671-dragonblast-vr.json) |
 | Dragonbolt Vanguard | 55893 | [55893-dragonbolt-vanguard.json](./55893-dragonbolt-vanguard.json) |
 | Dragonborne | 140594 | [140594-dragonborne.json](./140594-dragonborne.json) |
+| DragonBound: Wings of Magic | 425611 | [425611-dragonbound-wings-of-magic.json](./425611-dragonbound-wings-of-magic.json) |
 | DragonBox Algebra 12+ | 276798 | [276798-dragonbox-algebra-12.json](./276798-dragonbox-algebra-12.json) |
 | DragonBox Algebra 5+ | 276797 | [276797-dragonbox-algebra-5.json](./276797-dragonbox-algebra-5.json) |
 | DragonBox Elements | 276796 | [276796-dragonbox-elements.json](./276796-dragonbox-elements.json) |
@@ -20161,6 +20166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Rumble | 416456 | [416456-dub-rumble.json](./416456-dub-rumble.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dub With Friends | 429676 | [429676-dub-with-friends.json](./429676-dub-with-friends.json) |
+| Dub With Your Friends | 425637 | [425637-dub-with-your-friends.json](./425637-dub-with-your-friends.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubai Chocolate Simulator | 364120 | [364120-dubai-chocolate-simulator.json](./364120-dubai-chocolate-simulator.json) |
