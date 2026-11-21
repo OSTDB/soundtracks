@@ -9225,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Monster Mania | 51659 | [51659-mega-monster-mania.json](./51659-mega-monster-mania.json) |
 | Mega Monster Party | 165840 | [165840-mega-monster-party.json](./165840-mega-monster-party.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
+| Mega Motion | 422632 | [422632-mega-motion.json](./422632-mega-motion.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Mutant Escape: Hulk Edition | 187070 | [187070-mega-mutant-escape-hulk-edition.json](./187070-mega-mutant-escape-hulk-edition.json) |
 | Mega Overload | 29060 | [29060-mega-overload.json](./29060-mega-overload.json) |
@@ -18099,6 +18100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Crown | 95616 | [95616-monster-crown.json](./95616-monster-crown.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
+| Monster Cuisine | 422226 | [422226-monster-cuisine.json](./422226-monster-cuisine.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster destroyer | 212628 | [212628-monster-destroyer.json](./212628-monster-destroyer.json) |
@@ -19407,6 +19409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonshot: The Great Espionage | 159516 | [159516-moonshot-the-great-espionage.json](./159516-moonshot-the-great-espionage.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
+| Moonsling | 422639 | [422639-moonsling.json](./422639-moonsling.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
 | Moonsouls: The Lost Sanctum - Collector's Edition | 357673 | [357673-moonsouls-the-lost-sanctum-collectors-edition.json](./357673-moonsouls-the-lost-sanctum-collectors-edition.json) |
 | Moonspire | 41179 | [41179-moonspire.json](./41179-moonspire.json) |
@@ -21064,6 +21067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move the Box | 254892 | [254892-move-the-box.json](./254892-move-the-box.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | Move The Chains: Season 1 | 267034 | [267034-move-the-chains-season-1.json](./267034-move-the-chains-season-1.json) |
+| Move the Freak Out! | 422627 | [422627-move-the-freak-out.json](./422627-move-the-freak-out.json) |
 | Move the Pin: Classic Logic Puzzle | 249575 | [249575-move-the-pin-classic-logic-puzzle.json](./249575-move-the-pin-classic-logic-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move Together! | 425417 | [425417-move-together.json](./425417-move-together.json) |
