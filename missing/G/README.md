@@ -8846,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graham Gooch's Test Cricket | 63185 | [63185-graham-goochs-test-cricket.json](./63185-graham-goochs-test-cricket.json) |
 | Graham Taylors Soccer Challenge | 12604 | [12604-graham-taylors-soccer-challenge.json](./12604-graham-taylors-soccer-challenge.json) |
 | Grail | 364214 | [364214-grail.json](./364214-grail.json) |
+| Grail of the Gods | 418959 | [418959-grail-of-the-gods.json](./418959-grail-of-the-gods.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grail to the Thief | 35169 | [35169-grail-to-the-thief.json](./35169-grail-to-the-thief.json) |
 | Grailquest | 92846 | [92846-grailquest.json](./92846-grailquest.json) |
@@ -12363,6 +12364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumrun | 286969 | [286969-gumrun.json](./286969-gumrun.json) |
 | Gumshoe | 145346 | [145346-gumshoe.json](./145346-gumshoe.json) |
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
+| Gumshoe | 413248 | [413248-gumshoe.json](./413248-gumshoe.json) |
 | Gumshoe Detective Agency: The First Case | 346629 | [346629-gumshoe-detective-agency-the-first-case.json](./346629-gumshoe-detective-agency-the-first-case.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
 | Gumstein: The Awakening | 108333 | [108333-gumstein-the-awakening.json](./108333-gumstein-the-awakening.json) |
