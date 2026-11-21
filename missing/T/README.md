@@ -4840,7 +4840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentis | 56894 | [56894-tentis.json](./56894-tentis.json) |
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tentoria | 164107 | [164107-tentoria.json](./164107-tentoria.json) |
-| Tents and Trees | 123399 | [123399-tents-and-trees.json](./123399-tents-and-trees.json) |
 | Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenvader | 372909 | [372909-tenvader.json](./372909-tenvader.json) |
@@ -10333,7 +10332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epyx Games: Sports Collection | 323110 | [323110-the-epyx-games-sports-collection.json](./323110-the-epyx-games-sports-collection.json) |
 | The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
 | The Equestrian | 206265 | [206265-the-equestrian.json](./206265-the-equestrian.json) |
-| The Equinox Hunt | 125368 | [125368-the-equinox-hunt.json](./125368-the-equinox-hunt.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
 | The Era of Overman | 196394 | [196394-the-era-of-overman.json](./196394-the-era-of-overman.json) |
@@ -10488,7 +10486,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
 | The Exorcist: Legion VR - Chapter 4: Samaritan | 168818 | [168818-the-exorcist-legion-vr-chapter-4-samaritan.json](./168818-the-exorcist-legion-vr-chapter-4-samaritan.json) |
 | The Exorcist: Legion VR - Chapter 5: The Tomb | 168819 | [168819-the-exorcist-legion-vr-chapter-5-the-tomb.json](./168819-the-exorcist-legion-vr-chapter-5-the-tomb.json) |
-| The Exorcist: Legion VR - Deluxe Edition | 123896 | [123896-the-exorcist-legion-vr-deluxe-edition.json](./123896-the-exorcist-legion-vr-deluxe-edition.json) |
 | The Exorcist: Story of School | 331488 | [331488-the-exorcist-story-of-school.json](./331488-the-exorcist-story-of-school.json) |
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
@@ -17454,7 +17451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
-| The Powerpuff Girls: Relish Rampage - Pickled Edition | 122540 | [122540-the-powerpuff-girls-relish-rampage-pickled-edition.json](./122540-the-powerpuff-girls-relish-rampage-pickled-edition.json) |
 | The Prabbits: Happy Dogfights | 139298 | [139298-the-prabbits-happy-dogfights.json](./139298-the-prabbits-happy-dogfights.json) |
 | The Precinct: Limited Edition | 424096 | [424096-the-precinct-limited-edition.json](./424096-the-precinct-limited-edition.json) |
 | The Precursors | 22634 | [22634-the-precursors.json](./22634-the-precursors.json) |
@@ -18181,7 +18177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising of the Follower | 181700 | [181700-the-rising-of-the-follower.json](./181700-the-rising-of-the-follower.json) |
 | The Rising of the Rose Ocelot | 82000 | [82000-the-rising-of-the-rose-ocelot.json](./82000-the-rising-of-the-rose-ocelot.json) |
 | The Rising of the Shield Hero | 175020 | [175020-the-rising-of-the-shield-hero.json](./175020-the-rising-of-the-shield-hero.json) |
-| The Rising of the Shield Hero: Relive the Animation | 122609 | [122609-the-rising-of-the-shield-hero-relive-the-animation.json](./122609-the-rising-of-the-shield-hero-relive-the-animation.json) |
 | The Rite of Ammon | 177306 | [177306-the-rite-of-ammon.json](./177306-the-rite-of-ammon.json) |
 | The Rite of Lilium | 386786 | [386786-the-rite-of-lilium.json](./386786-the-rite-of-lilium.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
@@ -30513,7 +30508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
 | Touhou Big Big Battle: Yuyuko's Food-hunting Adventure | 172241 | [172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json](./172241-touhou-big-big-battle-yuyukos-food-hunting-adventure.json) |
 | Touhou Block Fall: Yukari | 169554 | [169554-touhou-block-fall-yukari.json](./169554-touhou-block-fall-yukari.json) |
-| Touhou Blooming Chaos | 123483 | [123483-touhou-blooming-chaos.json](./123483-touhou-blooming-chaos.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
 | Touhou Blooming Chaos 2: Chara Pack 2 | 170961 | [170961-touhou-blooming-chaos-2-chara-pack-2.json](./170961-touhou-blooming-chaos-2-chara-pack-2.json) |
