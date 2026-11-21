@@ -7254,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
 | Wish Giver | 112189 | [112189-wish-giver.json](./112189-wish-giver.json) |
 | Wish I Could Dive | 184710 | [184710-wish-i-could-dive.json](./184710-wish-i-could-dive.json) |
+| Wish Impossible | 428597 | [428597-wish-impossible.json](./428597-wish-impossible.json) |
 | Wish Me Well | 341379 | [341379-wish-me-well.json](./341379-wish-me-well.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wool Craze | 387464 | [387464-wool-craze.json](./387464-wool-craze.json) |
 | Woolberry Ranch | 391448 | [391448-woolberry-ranch.json](./391448-woolberry-ranch.json) |
 | Wooldge's World | 383903 | [383903-wooldges-world.json](./383903-wooldges-world.json) |
+| Woolfall | 428592 | [428592-woolfall.json](./428592-woolfall.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
@@ -8963,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHive 3 | 415383 | [415383-wordhive-3.json](./415383-wordhive-3.json) |
 | WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
+| WordHunt | 428509 | [428509-wordhunt.json](./428509-wordhunt.json) |
 | Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
 | Wordies | 192334 | [192334-wordies.json](./192334-wordies.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
