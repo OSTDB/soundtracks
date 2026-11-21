@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Battlesector - Tyranid Elites | 314775 | [314775-warhammer-40-000-battlesector-tyranid-elites.json](./314775-warhammer-40-000-battlesector-tyranid-elites.json) |
 | Warhammer 40,000: Battlesector - Ultramarines | 402508 | [402508-warhammer-40-000-battlesector-ultramarines.json](./402508-warhammer-40-000-battlesector-ultramarines.json) |
+| Warhammer 40,000: Battlesector – Deeds of the Fallen | 344677 | [344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json](./344677-warhammer-40-000-battlesector-deeds-of-the-fallen.json) |
 | Warhammer 40,000: Boltgun | 203258 | [203258-warhammer-40-000-boltgun.json](./203258-warhammer-40-000-boltgun.json) |
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun 2 | 344669 | [344669-warhammer-40-000-boltgun-2.json](./344669-warhammer-40-000-boltgun-2.json) |
@@ -1634,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Darktide - Skitarii | 402515 | [402515-warhammer-40-000-darktide-skitarii.json](./402515-warhammer-40-000-darktide-skitarii.json) |
 | Warhammer 40,000: Darktide - The Traitor Curse Part 1 | 276771 | [276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json](./276771-warhammer-40-000-darktide-the-traitor-curse-part-1.json) |
 | Warhammer 40,000: Dawn of War | 257 | [257-warhammer-40-000-dawn-of-war.json](./257-warhammer-40-000-dawn-of-war.json) |
+| Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
 | Warhammer 40,000: Dawn of War - Game of the Year Edition | 28981 | [28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json](./28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
 | Warhammer 40,000: Dawn of War - Soulstorm | 468 | [468-warhammer-40-000-dawn-of-war-soulstorm.json](./468-warhammer-40-000-dawn-of-war-soulstorm.json) |
@@ -5984,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Haven | 320603 | [320603-wild-haven.json](./320603-wild-haven.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts | 218793 | [218793-wild-hearts.json](./218793-wild-hearts.json) |
+| Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Heroes: Fight Together | 424626 | [424626-wild-heroes-fight-together.json](./424626-wild-heroes-fight-together.json) |
 | Wild Hive | 410287 | [410287-wild-hive.json](./410287-wild-hive.json) |
