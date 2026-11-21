@@ -6987,6 +6987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Land of Mysterious | 211973 | [211973-is-land-of-mysterious.json](./211973-is-land-of-mysterious.json) |
 | Is Lupin Still Flirting? | 151959 | [151959-is-lupin-still-flirting.json](./151959-is-lupin-still-flirting.json) |
 | Is Simon There? | 199405 | [199405-is-simon-there.json](./199405-is-simon-there.json) |
+| Is That a Chicken? | 429541 | [429541-is-that-a-chicken.json](./429541-is-that-a-chicken.json) |
 | Is That a Human Organ? | 414414 | [414414-is-that-a-human-organ.json](./414414-is-that-a-human-organ.json) |
 | Is the Order a Rabbit?? Wonderful Party! | 59594 | [59594-is-the-order-a-rabbit-wonderful-party.json](./59594-is-the-order-a-rabbit-wonderful-party.json) |
 | Is the President a Traitor? | 128173 | [128173-is-the-president-a-traitor.json](./128173-is-the-president-a-traitor.json) |
