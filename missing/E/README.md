@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
 | Ebbtide | 425528 | [425528-ebbtide.json](./425528-ebbtide.json) |
 | EBE | 170595 | [170595-ebe.json](./170595-ebe.json) |
+| Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
 | Eberouge 2 | 171968 | [171968-eberouge-2.json](./171968-eberouge-2.json) |
 | Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
