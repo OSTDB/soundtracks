@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halluci-Sabbat of Koishi | 167358 | [167358-halluci-sabbat-of-koishi.json](./167358-halluci-sabbat-of-koishi.json) |
 | Hallucigenia | 166466 | [166466-hallucigenia.json](./166466-hallucigenia.json) |
 | Hallucination | 129843 | [129843-hallucination.json](./129843-hallucination.json) |
+| Hallucination | 422625 | [422625-hallucination.json](./422625-hallucination.json) |
 | Hallucinations | 358287 | [358287-hallucinations.json](./358287-hallucinations.json) |
 | Hallunazi | 74685 | [74685-hallunazi.json](./74685-hallunazi.json) |
 | Hallway Defender | 220030 | [220030-hallway-defender.json](./220030-hallway-defender.json) |
@@ -6758,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermes & Gry: A Crooked Plan | 176308 | [176308-hermes-and-gry-a-crooked-plan.json](./176308-hermes-and-gry-a-crooked-plan.json) |
 | Hermes 3: Sibyls' Prophecy - Collector's Edition | 177085 | [177085-hermes-3-sibyls-prophecy-collectors-edition.json](./177085-hermes-3-sibyls-prophecy-collectors-edition.json) |
 | Hermes e Renato: Joselito Contra a Farofada | 253187 | [253187-hermes-e-renato-joselito-contra-a-farofada.json](./253187-hermes-e-renato-joselito-contra-a-farofada.json) |
+| Hermes Library | 422636 | [422636-hermes-library.json](./422636-hermes-library.json) |
 | Hermes: Rescue Mission | 126331 | [126331-hermes-rescue-mission.json](./126331-hermes-rescue-mission.json) |
 | Hermes: Sibyls' Prophecy | 160010 | [160010-hermes-sibyls-prophecy.json](./160010-hermes-sibyls-prophecy.json) |
 | Hermes: The Fury of Megaera | 255245 | [255245-hermes-the-fury-of-megaera.json](./255245-hermes-the-fury-of-megaera.json) |
@@ -8725,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
 | Hide No More | 428321 | [428321-hide-no-more.json](./428321-hide-no-more.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
+| Hide Royale | 421499 | [421499-hide-royale.json](./421499-hide-royale.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide the Baby | 383700 | [383700-hide-the-baby.json](./383700-hide-the-baby.json) |
 | Hide the Body | 88137 | [88137-hide-the-body.json](./88137-hide-the-body.json) |
@@ -9565,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | His Chuunibyou Cannot Be Cured! | 65823 | [65823-his-chuunibyou-cannot-be-cured.json](./65823-his-chuunibyou-cannot-be-cured.json) |
 | His Dark Majesty | 362473 | [362473-his-dark-majesty.json](./362473-his-dark-majesty.json) |
 | His Fragile Mind | 407073 | [407073-his-fragile-mind.json](./407073-his-fragile-mind.json) |
+| His Last Film | 422231 | [422231-his-last-film.json](./422231-his-last-film.json) |
 | His Majesty's Ship Impetuous | 55833 | [55833-his-majestys-ship-impetuous.json](./55833-his-majestys-ship-impetuous.json) |
 | His Majesty's Ship Impetuous | 55838 | [55838-his-majestys-ship-impetuous.json](./55838-his-majestys-ship-impetuous.json) |
 | His Name is Diamond | 228841 | [228841-his-name-is-diamond.json](./228841-his-name-is-diamond.json) |
