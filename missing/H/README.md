@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardly Workin' | 352289 | [352289-hardly-workin.json](./352289-hardly-workin.json) |
 | Hardnoid | 29976 | [29976-hardnoid.json](./29976-hardnoid.json) |
+| Hardpack Rally | 427991 | [427991-hardpack-rally.json](./427991-hardpack-rally.json) |
 | Hardpan | 426582 | [426582-hardpan.json](./426582-hardpan.json) |
 | Hardpoint | 372187 | [372187-hardpoint.json](./372187-hardpoint.json) |
 | Hardpunch: Fuck 4Joy | 165812 | [165812-hardpunch-fuck-4joy.json](./165812-hardpunch-fuck-4joy.json) |
@@ -13742,6 +13743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
 | Hundred Fires: The Rising of Red Star Episode 2 | 400067 | [400067-hundred-fires-the-rising-of-red-star-episode-2.json](./400067-hundred-fires-the-rising-of-red-star-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
+| Hundred Metres Back | 427986 | [427986-hundred-metres-back.json](./427986-hundred-metres-back.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul | 124463 | [124463-hundred-soul.json](./124463-hundred-soul.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
