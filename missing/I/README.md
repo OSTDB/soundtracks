@@ -6618,7 +6618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iridio | 293885 | [293885-iridio.json](./293885-iridio.json) |
 | Iridion 3D | 6449 | [6449-iridion-3d.json](./6449-iridion-3d.json) |
-| Iridion II | 6450 | [6450-iridion-ii.json](./6450-iridion-ii.json) |
 | Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
 | Iridium | 132994 | [132994-iridium.json](./132994-iridium.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
