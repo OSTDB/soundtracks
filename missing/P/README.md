@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palamedes | 344064 | [344064-palamedes.json](./344064-palamedes.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
+| Palavra X | 427347 | [427347-palavra-x.json](./427347-palavra-x.json) |
 | Palavra500 | 411948 | [411948-palavra500.json](./411948-palavra500.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
 | Pale Static | 422369 | [422369-pale-static.json](./422369-pale-static.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
+| Palefrost | 427343 | [427343-palefrost.json](./427343-palefrost.json) |
 | Palehollow Hospital | 429557 | [429557-palehollow-hospital.json](./429557-palehollow-hospital.json) |
 | Paleo Dive | 416816 | [416816-paleo-dive.json](./416816-paleo-dive.json) |
 | Paleo Pines | 133454 | [133454-paleo-pines.json](./133454-paleo-pines.json) |
@@ -12241,6 +12243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Postman | 183463 | [183463-pogo-postman.json](./183463-pogo-postman.json) |
 | Pogo Quest | 391093 | [391093-pogo-quest.json](./391093-pogo-quest.json) |
 | Pogo Rage: The Awakening | 220649 | [220649-pogo-rage-the-awakening.json](./220649-pogo-rage-the-awakening.json) |
+| Pogo Riot | 427336 | [427336-pogo-riot.json](./427336-pogo-riot.json) |
 | Pogo Rogue | 293565 | [293565-pogo-rogue.json](./293565-pogo-rogue.json) |
 | Pogo Stadium | 348525 | [348525-pogo-stadium.json](./348525-pogo-stadium.json) |
 | Pogo Stick Champion | 305567 | [305567-pogo-stick-champion.json](./305567-pogo-stick-champion.json) |
@@ -15403,6 +15406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Quest | 225768 | [225768-potty-quest.json](./225768-potty-quest.json) |
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Potty Training Game | 100688 | [100688-potty-training-game.json](./100688-potty-training-game.json) |
+| POTUS vs. The World! | 427447 | [427447-potus-vs-the-world.json](./427447-potus-vs-the-world.json) |
 | Potyguara Verse | 369345 | [369345-potyguara-verse.json](./369345-potyguara-verse.json) |
 | Pou | 87029 | [87029-pou.json](./87029-pou.json) |
 | Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
@@ -15558,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
 | Power Miners | 139002 | [139002-power-miners.json](./139002-power-miners.json) |
 | Power Mission | 49089 | [49089-power-mission.json](./49089-power-mission.json) |
+| Power Moon Recomp | 427340 | [427340-power-moon-recomp.json](./427340-power-moon-recomp.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
 | Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
@@ -16447,6 +16452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prima Doll: Fuyuzora Hanabi/Sekka Monyou | 218764 | [218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json](./218764-prima-doll-fuyuzora-hanabi-sekka-monyou.json) |
 | Prima Doll: Kouto Tantei | 218766 | [218766-prima-doll-kouto-tantei.json](./218766-prima-doll-kouto-tantei.json) |
 | Prima Doll: Mumei Tenrei | 218777 | [218777-prima-doll-mumei-tenrei.json](./218777-prima-doll-mumei-tenrei.json) |
+| Prima Materia | 427338 | [427338-prima-materia.json](./427338-prima-materia.json) |
 | Prima Materia XXV | 349193 | [349193-prima-materia-xxv.json](./349193-prima-materia-xxv.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primado Reig 103 | 305212 | [305212-primado-reig-103.json](./305212-primado-reig-103.json) |
@@ -16587,6 +16593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primland The Magus | 295138 | [295138-primland-the-magus.json](./295138-primland-the-magus.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
+| Primora | 427454 | [427454-primora.json](./427454-primora.json) |
 | Primordia | 7635 | [7635-primordia.json](./7635-primordia.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Darkness | 75324 | [75324-primordial-darkness.json](./75324-primordial-darkness.json) |
