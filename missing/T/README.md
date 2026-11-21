@@ -16205,6 +16205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouse The Merrier | 275823 | [275823-the-mouse-the-merrier.json](./275823-the-mouse-the-merrier.json) |
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
 | The Mouth Of The Woods | 282090 | [282090-the-mouth-of-the-woods.json](./282090-the-mouth-of-the-woods.json) |
+| The Mouthless Stalker | 426826 | [426826-the-mouthless-stalker.json](./426826-the-mouthless-stalker.json) |
 | The Movie Monster Game | 26409 | [26409-the-movie-monster-game.json](./26409-the-movie-monster-game.json) |
 | The Movie Trivia Challenge | 102100 | [102100-the-movie-trivia-challenge.json](./102100-the-movie-trivia-challenge.json) |
 | The Movies: Stunts and Effects | 3023 | [3023-the-movies-stunts-and-effects.json](./3023-the-movies-stunts-and-effects.json) |
