@@ -5254,7 +5254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Chess | 338500 | [338500-catgirl-chess.json](./338500-catgirl-chess.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
-| Catgirl Lover 2 | 122837 | [122837-catgirl-lover-2.json](./122837-catgirl-lover-2.json) |
 | Catgirl Lover Bundle | 230099 | [230099-catgirl-lover-bundle.json](./230099-catgirl-lover-bundle.json) |
 | Catgirl Magic: Fury Duel | 105653 | [105653-catgirl-magic-fury-duel.json](./105653-catgirl-magic-fury-duel.json) |
 | Catgirl Truckers | 210327 | [210327-catgirl-truckers.json](./210327-catgirl-truckers.json) |
@@ -5711,7 +5710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of Cards | 339995 | [339995-cave-of-cards.json](./339995-cave-of-cards.json) |
 | Cave of Evil | 260461 | [260461-cave-of-evil.json](./260461-cave-of-evil.json) |
 | Cave of Gurg | 367488 | [367488-cave-of-gurg.json](./367488-cave-of-gurg.json) |
-| Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
 | Cave of Illusions: Twistyland | 284804 | [284804-cave-of-illusions-twistyland.json](./284804-cave-of-illusions-twistyland.json) |
 | Cave of Past Sorrows | 252412 | [252412-cave-of-past-sorrows.json](./252412-cave-of-past-sorrows.json) |
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
@@ -6315,7 +6313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
 | Centralia | 121104 | [121104-centralia.json](./121104-centralia.json) |
-| Centralia: Homecoming | 123769 | [123769-centralia-homecoming.json](./123769-centralia-homecoming.json) |
 | Centration | 16566 | [16566-centration.json](./16566-centration.json) |
 | Centre 18 | 430916 | [430916-centre-18.json](./430916-centre-18.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
@@ -7751,7 +7748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobyl: Simulator | 415774 | [415774-chernobyl-simulator.json](./415774-chernobyl-simulator.json) |
 | Chernobyl: Terrorist Attack | 30844 | [30844-chernobyl-terrorist-attack.json](./30844-chernobyl-terrorist-attack.json) |
-| Chernobyl: The Untold Story | 122413 | [122413-chernobyl-the-untold-story.json](./122413-chernobyl-the-untold-story.json) |
 | Chernobylite 2: Exclusion Zone | 313433 | [313433-chernobylite-2-exclusion-zone.json](./313433-chernobylite-2-exclusion-zone.json) |
 | Chernobylite: Black Smoke Pack | 323250 | [323250-chernobylite-black-smoke-pack.json](./323250-chernobylite-black-smoke-pack.json) |
 | Chernobylite: Complete Edition | 323701 | [323701-chernobylite-complete-edition.json](./323701-chernobylite-complete-edition.json) |
@@ -8404,7 +8400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickie Catchers | 238667 | [238667-chickie-catchers.json](./238667-chickie-catchers.json) |
 | Chickip Dancers: Nori-nori Dance de Kokoro mo Odoru | 222365 | [222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json](./222365-chickip-dancers-nori-nori-dance-de-kokoro-mo-odoru.json) |
 | Chicklet | 365167 | [365167-chicklet.json](./365167-chicklet.json) |
-| Chicks and Tricks VR | 122578 | [122578-chicks-and-tricks-vr.json](./122578-chicks-and-tricks-vr.json) |
 | Chicks in Trouble | 390873 | [390873-chicks-in-trouble.json](./390873-chicks-in-trouble.json) |
 | Chicktionary | 375202 | [375202-chicktionary.json](./375202-chicktionary.json) |
 | Chicku | 181397 | [181397-chicku.json](./181397-chicku.json) |
@@ -14632,7 +14627,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
 | Combat Fire | 137775 | [137775-combat-fire.json](./137775-combat-fire.json) |
 | Combat Flight Simulator 2016 | 89454 | [89454-combat-flight-simulator-2016.json](./89454-combat-flight-simulator-2016.json) |
-| Combat Force | 124249 | [124249-combat-force.json](./124249-combat-force.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
@@ -22550,7 +22544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept | 78415 | [78415-culdcept.json](./78415-culdcept.json) |
 | Culdcept Begins | 388451 | [388451-culdcept-begins.json](./388451-culdcept-begins.json) |
-| Culdcept DS | 124004 | [124004-culdcept-ds.json](./124004-culdcept-ds.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
