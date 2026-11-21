@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Hand: Seasonal Winter Pack | 230918 | [230918-kings-hand-seasonal-winter-pack.json](./230918-kings-hand-seasonal-winter-pack.json) |
 | King's Haven | 380373 | [380373-kings-haven.json](./380373-kings-haven.json) |
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
+| King's Heir: Rise to the Throne - Collector's Edition | 426164 | [426164-kings-heir-rise-to-the-throne-collectors-edition.json](./426164-kings-heir-rise-to-the-throne-collectors-edition.json) |
 | King's Helper | 173039 | [173039-kings-helper.json](./173039-kings-helper.json) |
 | King's Justice | 380503 | [380503-kings-justice.json](./380503-kings-justice.json) |
 | King's Keeper | 336295 | [336295-kings-keeper.json](./336295-kings-keeper.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Asteborg | 330227 | [330227-kingdom-of-asteborg.json](./330227-kingdom-of-asteborg.json) |
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
 | Kingdom of Aurelia: Mystery of the Poisoned Dagger | 30683 | [30683-kingdom-of-aurelia-mystery-of-the-poisoned-dagger.json](./30683-kingdom-of-aurelia-mystery-of-the-poisoned-dagger.json) |
+| Kingdom of Aurelia: Mystery of the Poisoned Dagger - Premium Edition | 426163 | [426163-kingdom-of-aurelia-mystery-of-the-poisoned-dagger-premium-edition.json](./426163-kingdom-of-aurelia-mystery-of-the-poisoned-dagger-premium-edition.json) |
 | Kingdom of Bärn | 279129 | [279129-kingdom-of-barn.json](./279129-kingdom-of-barn.json) |
 | Kingdom of Bees | 158602 | [158602-kingdom-of-bees.json](./158602-kingdom-of-bees.json) |
 | Kingdom of Blades | 82339 | [82339-kingdom-of-blades.json](./82339-kingdom-of-blades.json) |
