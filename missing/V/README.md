@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vast Survival | 174774 | [174774-vast-survival.json](./174774-vast-survival.json) |
 | Vast Trivia of the Void | 166459 | [166459-vast-trivia-of-the-void.json](./166459-vast-trivia-of-the-void.json) |
 | Vastar | 40517 | [40517-vastar.json](./40517-vastar.json) |
+| Vastated | 425609 | [425609-vastated.json](./425609-vastated.json) |
 | Vasteel | 92701 | [92701-vasteel.json](./92701-vasteel.json) |
 | Vasteel 2 | 54921 | [54921-vasteel-2.json](./54921-vasteel-2.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
