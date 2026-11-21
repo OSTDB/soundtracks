@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
 | 100-Player Twitch Chat Party Pack | 146456 | [146456-100-player-twitch-chat-party-pack.json](./146456-100-player-twitch-chat-party-pack.json) |
 | 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
+| 100,000 Tickets | 430856 | [430856-100-000-tickets.json](./430856-100-000-tickets.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
 | 100! Block Puzzle | 83061 | [83061-100-block-puzzle.json](./83061-100-block-puzzle.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
@@ -1757,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 | 178139 | [178139-2.json](./178139-2.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
 | 2 American | 306755 | [306755-2-american.json](./306755-2-american.json) |
+| 2 birds 1 stone | 430287 | [430287-2-birds-1-stone.json](./430287-2-birds-1-stone.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
 | 2 Bows 1 Arrow | 358075 | [358075-2-bows-1-arrow.json](./358075-2-bows-1-arrow.json) |
 | 2 Cars | 397280 | [397280-2-cars.json](./397280-2-cars.json) |
@@ -2680,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3am | 125579 | [125579-3am.json](./125579-3am.json) |
 | 3AM Anomaly Store | 419351 | [419351-3am-anomaly-store.json](./419351-3am-anomaly-store.json) |
 | 3AM Corp: The Balbazar Resort | 295151 | [295151-3am-corp-the-balbazar-resort.json](./295151-3am-corp-the-balbazar-resort.json) |
+| 3AM Drivethrough | 430858 | [430858-3am-drivethrough.json](./430858-3am-drivethrough.json) |
 | 3am in Leicester | 265444 | [265444-3am-in-leicester.json](./265444-3am-in-leicester.json) |
 | 3AM on Fish Island | 367447 | [367447-3am-on-fish-island.json](./367447-3am-on-fish-island.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
