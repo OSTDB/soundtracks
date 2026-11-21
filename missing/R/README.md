@@ -5860,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rena Game | 230628 | [230628-rena-game.json](./230628-rena-game.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
+| Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Banchou 2: Midnight Lesson!!! | 63413 | [63413-renai-banchou-2-midnight-lesson.json](./63413-renai-banchou-2-midnight-lesson.json) |
 | Renai Banchou! Inochi Mijikashi, Koiseyo Otome! Love is Power | 221887 | [221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json](./221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json) |
@@ -14268,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Crystal: Adventure | 387470 | [387470-rune-crystal-adventure.json](./387470-rune-crystal-adventure.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Delvers: Idle RPG | 422140 | [422140-rune-delvers-idle-rpg.json](./422140-rune-delvers-idle-rpg.json) |
+| Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Dungeon | 357148 | [357148-rune-dungeon.json](./357148-rune-dungeon.json) |
 | Rune Factory 2: A Fantasy Harvest Moon | 20768 | [20768-rune-factory-2-a-fantasy-harvest-moon.json](./20768-rune-factory-2-a-fantasy-harvest-moon.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
