@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
 | Gal*Gun Returns | 139180 | [139180-gal-gun-returns.json](./139180-gal-gun-returns.json) |
 | Gal*Gun Returns: Birthday Suit Edition | 370383 | [370383-gal-gun-returns-birthday-suit-edition.json](./370383-gal-gun-returns-birthday-suit-edition.json) |
+| Gal*Gun VR | 54581 | [54581-gal-gun-vr.json](./54581-gal-gun-vr.json) |
 | Gal*Gun: Double Peace | 11564 | [11564-gal-gun-double-peace.json](./11564-gal-gun-double-peace.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Gal*Gun: Double Peace Horny Trinity Edition | 358982 | [358982-gal-gun-double-peace-horny-trinity-edition.json](./358982-gal-gun-double-peace-horny-trinity-edition.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeao's Dreams | 248374 | [248374-galeaos-dreams.json](./248374-galeaos-dreams.json) |
 | Galeid. | 326895 | [326895-galeid.json](./326895-galeid.json) |
+| Galencia | 54963 | [54963-galencia.json](./54963-galencia.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians | 54552 | [54552-galerians.json](./54552-galerians.json) |
@@ -5309,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Tennis League | 240782 | [240782-girls-tennis-league.json](./240782-girls-tennis-league.json) |
 | Girls und Panzer: All-Star Tank Carnival | 422359 | [422359-girls-und-panzer-all-star-tank-carnival.json](./422359-girls-und-panzer-all-star-tank-carnival.json) |
 | Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
+| Girls und Panzer: Dream Tank Match | 54539 | [54539-girls-und-panzer-dream-tank-match.json](./54539-girls-und-panzer-dream-tank-match.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
 | Girls und Panzer: Dream Tank Match DX | 112413 | [112413-girls-und-panzer-dream-tank-match-dx.json](./112413-girls-und-panzer-dream-tank-match-dx.json) |
 | Girls und Panzer: Senshado, Kiwamemasu! | 42699 | [42699-girls-und-panzer-senshado-kiwamemasu.json](./42699-girls-und-panzer-senshado-kiwamemasu.json) |
@@ -12267,6 +12270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guivo | 409193 | [409193-guivo.json](./409193-guivo.json) |
 | Guǐyāchuáng | 386346 | [386346-guiyachuang.json](./386346-guiyachuang.json) |
 | GuJian | 54824 | [54824-gujian.json](./54824-gujian.json) |
+| GuJian 2 | 54821 | [54821-gujian-2.json](./54821-gujian-2.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
 | GuJian Online | 63024 | [63024-gujian-online.json](./63024-gujian-online.json) |
 | Gulag | 115179 | [115179-gulag.json](./115179-gulag.json) |
