@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Girl Friend and GDC | 115140 | [115140-legend-of-girl-friend-and-gdc.json](./115140-legend-of-girl-friend-and-gdc.json) |
 | Legend of Gods | 429155 | [429155-legend-of-gods.json](./429155-legend-of-gods.json) |
 | Legend of Grimrock | 6328 | [6328-legend-of-grimrock.json](./6328-legend-of-grimrock.json) |
+| Legend of Hand | 68465 | [68465-legend-of-hand.json](./68465-legend-of-hand.json) |
 | Legend of Herkules | 66941 | [66941-legend-of-herkules.json](./66941-legend-of-herkules.json) |
 | Legend of Hero Tonma | 10453 | [10453-legend-of-hero-tonma.json](./10453-legend-of-hero-tonma.json) |
 | Legend of Hero Tonma | 297405 | [297405-legend-of-hero-tonma.json](./297405-legend-of-hero-tonma.json) |
