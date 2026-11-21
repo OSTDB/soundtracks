@@ -3182,7 +3182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
 | Barony: Myths & Outcasts | 154655 | [154655-barony-myths-and-outcasts.json](./154655-barony-myths-and-outcasts.json) |
 | Baroque | 147807 | [147807-baroque.json](./147807-baroque.json) |
-| Baroque | 4705 | [4705-baroque.json](./4705-baroque.json) |
 | Baroque Darts | 316763 | [316763-baroque-darts.json](./316763-baroque-darts.json) |
 | Baroque FPS | 410811 | [410811-baroque-fps.json](./410811-baroque-fps.json) |
 | Baroque Maniac Quiz | 410807 | [410807-baroque-maniac-quiz.json](./410807-baroque-maniac-quiz.json) |
