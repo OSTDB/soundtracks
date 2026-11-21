@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Runner | 215438 | [215438-mad-runner.json](./215438-mad-runner.json) |
 | Mad Sage | 271890 | [271890-mad-sage.json](./271890-mad-sage.json) |
 | Mad Scientist | 254740 | [254740-mad-scientist.json](./254740-mad-scientist.json) |
+| Mad Scientist: Dr. Eureka | 24200 | [24200-mad-scientist-dr-eureka.json](./24200-mad-scientist-dr-eureka.json) |
 | Mad Shark | 322211 | [322211-mad-shark.json](./322211-mad-shark.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
 | Mad Shoji no Ganmen Kyoufu | 240169 | [240169-mad-shoji-no-ganmen-kyoufu.json](./240169-mad-shoji-no-ganmen-kyoufu.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mallion | 279527 | [279527-mallion.json](./279527-mallion.json) |
 | Mallory and the Marble Sanctum | 144693 | [144693-mallory-and-the-marble-sanctum.json](./144693-mallory-and-the-marble-sanctum.json) |
 | Mallow & The Street of the Fallen | 376861 | [376861-mallow-and-the-street-of-the-fallen.json](./376861-mallow-and-the-street-of-the-fallen.json) |
+| Mallow Drops | 25910 | [25910-mallow-drops.json](./25910-mallow-drops.json) |
 | Mallows | 26456 | [26456-mallows.json](./26456-mallows.json) |
 | Malmort | 425748 | [425748-malmort.json](./425748-malmort.json) |
 | Malmyr | 140789 | [140789-malmyr.json](./140789-malmyr.json) |
@@ -10113,6 +10115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 6 | 58526 | [58526-memorial-series-sunsoft-vol-6.json](./58526-memorial-series-sunsoft-vol-6.json) |
 | Memorial Song | 413246 | [413246-memorial-song.json](./413246-memorial-song.json) |
 | Memorick the Aprentice Knight | 47353 | [47353-memorick-the-aprentice-knight.json](./47353-memorick-the-aprentice-knight.json) |
+| Memorick: The Apprentice Knight | 24244 | [24244-memorick-the-apprentice-knight.json](./24244-memorick-the-apprentice-knight.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
 | Memories | 171316 | [171316-memories.json](./171316-memories.json) |
@@ -19979,6 +19982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Gold Scorpion | 305613 | [305613-mortal-kombat-x-gold-scorpion.json](./305613-mortal-kombat-x-gold-scorpion.json) |
 | Mortal Kombat X: Goro | 141052 | [141052-mortal-kombat-x-goro.json](./141052-mortal-kombat-x-goro.json) |
 | Mortal Kombat X: Horror Pack | 305611 | [305611-mortal-kombat-x-horror-pack.json](./305611-mortal-kombat-x-horror-pack.json) |
+| Mortal Kombat X: Jason Voorhees | 24213 | [24213-mortal-kombat-x-jason-voorhees.json](./24213-mortal-kombat-x-jason-voorhees.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Klassic Pack 1 | 308747 | [308747-mortal-kombat-x-klassic-pack-1.json](./308747-mortal-kombat-x-klassic-pack-1.json) |
@@ -19991,11 +19995,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Krimson Ermac | 308750 | [308750-mortal-kombat-x-krimson-ermac.json](./308750-mortal-kombat-x-krimson-ermac.json) |
 | Mortal Kombat X: Leatherface | 141053 | [141053-mortal-kombat-x-leatherface.json](./141053-mortal-kombat-x-leatherface.json) |
 | Mortal Kombat X: Predator | 164819 | [164819-mortal-kombat-x-predator.json](./164819-mortal-kombat-x-predator.json) |
+| Mortal Kombat X: Predator | 24215 | [24215-mortal-kombat-x-predator.json](./24215-mortal-kombat-x-predator.json) |
 | Mortal Kombat X: Predator/Prey Pack | 303142 | [303142-mortal-kombat-x-predator-prey-pack.json](./303142-mortal-kombat-x-predator-prey-pack.json) |
 | Mortal Kombat X: Premium Edition | 53367 | [53367-mortal-kombat-x-premium-edition.json](./53367-mortal-kombat-x-premium-edition.json) |
 | Mortal Kombat X: Samurai Pack | 304314 | [304314-mortal-kombat-x-samurai-pack.json](./304314-mortal-kombat-x-samurai-pack.json) |
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat X: Tanya | 141050 | [141050-mortal-kombat-x-tanya.json](./141050-mortal-kombat-x-tanya.json) |
+| Mortal Kombat X: Tremor | 24214 | [24214-mortal-kombat-x-tremor.json](./24214-mortal-kombat-x-tremor.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
 | Mortal Kombat X: XL Pack | 141051 | [141051-mortal-kombat-x-xl-pack.json](./141051-mortal-kombat-x-xl-pack.json) |
 | Mortal Kombat XL | 18150 | [18150-mortal-kombat-xl.json](./18150-mortal-kombat-xl.json) |
