@@ -7976,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
 | Gongo | 168572 | [168572-gongo.json](./168572-gongo.json) |
 | Gongpoui Sullaejapgi | 220286 | [220286-gongpoui-sullaejapgi.json](./220286-gongpoui-sullaejapgi.json) |
+| Goninkan | 427994 | [427994-goninkan.json](./427994-goninkan.json) |
 | Gonna Be ?? | 427137 | [427137-gonna-be.json](./427137-gonna-be.json) |
 | Gonne Wrong | 151142 | [151142-gonne-wrong.json](./151142-gonne-wrong.json) |
 | Gonner | 19002 | [19002-gonner.json](./19002-gonner.json) |
