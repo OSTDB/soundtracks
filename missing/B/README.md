@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bareback Reincarnation: It's Just That Easy to Brave a Different World | 263270 | [263270-bareback-reincarnation-its-just-that-easy-to-brave-a-different-world.json](./263270-bareback-reincarnation-its-just-that-easy-to-brave-a-different-world.json) |
 | Barefort | 390612 | [390612-barefort.json](./390612-barefort.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
+| Barely Afloat | 424453 | [424453-barely-afloat.json](./424453-barely-afloat.json) |
 | Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Breakout! Underwater ReMix | 82551 | [82551-barely-breakout-underwater-remix.json](./82551-barely-breakout-underwater-remix.json) |
 | Barely Breathing | 405281 | [405281-barely-breathing.json](./405281-barely-breathing.json) |
@@ -8868,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigfoot: Chasing Shadows | 69354 | [69354-bigfoot-chasing-shadows.json](./69354-bigfoot-chasing-shadows.json) |
 | Bigfoot: King of Crush | 51052 | [51052-bigfoot-king-of-crush.json](./51052-bigfoot-king-of-crush.json) |
 | Bigfoot's Journey | 279022 | [279022-bigfoots-journey.json](./279022-bigfoots-journey.json) |
+| Bigger Bang | 424367 | [424367-bigger-bang.json](./424367-bigger-bang.json) |
 | Bigger Bikes | 190037 | [190037-bigger-bikes.json](./190037-bigger-bikes.json) |
 | Bigger Guns | 110113 | [110113-bigger-guns.json](./110113-bigger-guns.json) |
 | Bigger Guns: Expansion Pack | 226246 | [226246-bigger-guns-expansion-pack.json](./226246-bigger-guns-expansion-pack.json) |
@@ -11730,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindside | 413154 | [413154-blindside.json](./413154-blindside.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
 | Blindsided Labs | 364753 | [364753-blindsided-labs.json](./364753-blindsided-labs.json) |
+| Blindsight | 424456 | [424456-blindsight.json](./424456-blindsight.json) |
 | Blindsight | 74128 | [74128-blindsight.json](./74128-blindsight.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
