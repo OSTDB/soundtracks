@@ -11290,6 +11290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
 | Metal Hunter | 393965 | [393965-metal-hunter.json](./393965-metal-hunter.json) |
+| Metal Infinite | 428496 | [428496-metal-infinite.json](./428496-metal-infinite.json) |
 | Metal Jacket | 147172 | [147172-metal-jacket.json](./147172-metal-jacket.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knight: Mission - Terminate Resistance | 167188 | [167188-metal-knight-mission-terminate-resistance.json](./167188-metal-knight-mission-terminate-resistance.json) |
@@ -13678,6 +13679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million Dollar Quest | 175360 | [175360-million-dollar-quest.json](./175360-million-dollar-quest.json) |
 | Million Dollar Question | 106212 | [106212-million-dollar-question.json](./106212-million-dollar-question.json) |
 | Million Dungeon | 130059 | [130059-million-dungeon.json](./130059-million-dungeon.json) |
+| Million Gems: Sorting Wizard | 428582 | [428582-million-gems-sorting-wizard.json](./428582-million-gems-sorting-wizard.json) |
 | Million Hits | 266898 | [266898-million-hits.json](./266898-million-hits.json) |
 | Million KNights Vermilion | 79270 | [79270-million-knights-vermilion.json](./79270-million-knights-vermilion.json) |
 | Million Lords | 124637 | [124637-million-lords.json](./124637-million-lords.json) |
@@ -18066,6 +18068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Clearer | 95958 | [95958-monster-clearer.json](./95958-monster-clearer.json) |
 | Monster Clicker : Idle Halloween Strategy | 111862 | [111862-monster-clicker-idle-halloween-strategy.json](./111862-monster-clicker-idle-halloween-strategy.json) |
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
+| Monster Club League Manager | 428492 | [428492-monster-club-league-manager.json](./428492-monster-club-league-manager.json) |
 | Monster Coffeeshop | 183848 | [183848-monster-coffeeshop.json](./183848-monster-coffeeshop.json) |
 | Monster Collection: Kamen no Madoushi | 263695 | [263695-monster-collection-kamen-no-madoushi.json](./263695-monster-collection-kamen-no-madoushi.json) |
 | Monster Collections Plus | 265842 | [265842-monster-collections-plus.json](./265842-monster-collections-plus.json) |
