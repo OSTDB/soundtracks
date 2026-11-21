@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture | 132381 | [132381-rapture.json](./132381-rapture.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
+| Rapture Rejects | 103327 | [103327-rapture-rejects.json](./103327-rapture-rejects.json) |
 | Rapture: The Beginning | 187598 | [187598-rapture-the-beginning.json](./187598-rapture-the-beginning.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapunzel | 398265 | [398265-rapunzel.json](./398265-rapunzel.json) |
@@ -7298,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returner 77 | 88968 | [88968-returner-77.json](./88968-returner-77.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
+| Returners | 101184 | [101184-returners.json](./101184-returners.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
