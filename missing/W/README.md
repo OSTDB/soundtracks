@@ -5099,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whip Swing! | 108909 | [108909-whip-swing.json](./108909-whip-swing.json) |
 | Whip the Vote | 37379 | [37379-whip-the-vote.json](./37379-whip-the-vote.json) |
 | Whip the Worker | 263466 | [263466-whip-the-worker.json](./263466-whip-the-worker.json) |
+| Whip! Whip! | 103366 | [103366-whip-whip.json](./103366-whip-whip.json) |
 | Whip/Sky/Fly | 356986 | [356986-whip-sky-fly.json](./356986-whip-sky-fly.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
 | Whiplash | 6233 | [6233-whiplash.json](./6233-whiplash.json) |
@@ -8948,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHive 3 | 415383 | [415383-wordhive-3.json](./415383-wordhive-3.json) |
 | WordHopper | 256986 | [256986-wordhopper.json](./256986-wordhopper.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
+| Wordhunters | 103388 | [103388-wordhunters.json](./103388-wordhunters.json) |
 | Wordies | 192334 | [192334-wordies.json](./192334-wordies.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | Wordimagesoundplay | 178180 | [178180-wordimagesoundplay.json](./178180-wordimagesoundplay.json) |
