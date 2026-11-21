@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
 | A Long Walk Home | 340859 | [340859-a-long-walk-home.json](./340859-a-long-walk-home.json) |
 | A Long Walk Home | 362232 | [362232-a-long-walk-home.json](./362232-a-long-walk-home.json) |
+| A Long Way Down | 101328 | [101328-a-long-way-down.json](./101328-a-long-way-down.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Long Way Home: Director's Cut | 201938 | [201938-a-long-way-home-directors-cut.json](./201938-a-long-way-home-directors-cut.json) |
@@ -14614,6 +14615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Dig Dug II | 245714 | [245714-arcade-archives-dig-dug-ii.json](./245714-arcade-archives-dig-dug-ii.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
 | Arcade Archives: Don Doko Don | 239410 | [239410-arcade-archives-don-doko-don.json](./239410-arcade-archives-don-doko-don.json) |
+| Arcade Archives: Donkey Kong | 103362 | [103362-arcade-archives-donkey-kong.json](./103362-arcade-archives-donkey-kong.json) |
 | Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Donkey Kong Jr. | 113436 | [113436-arcade-archives-donkey-kong-jr.json](./113436-arcade-archives-donkey-kong-jr.json) |
 | Arcade Archives: Double Dragon II - The Revenge | 99570 | [99570-arcade-archives-double-dragon-ii-the-revenge.json](./99570-arcade-archives-double-dragon-ii-the-revenge.json) |
