@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Collector's Edition | 166277 | [166277-tekken-7-collectors-edition.json](./166277-tekken-7-collectors-edition.json) |
 | Tekken 7: Craig Marduk | 173152 | [173152-tekken-7-craig-marduk.json](./173152-tekken-7-craig-marduk.json) |
 | Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
+| Tekken 7: Deluxe Edition | 53717 | [53717-tekken-7-deluxe-edition.json](./53717-tekken-7-deluxe-edition.json) |
 | Tekken 7: Eliza | 173151 | [173151-tekken-7-eliza.json](./173151-tekken-7-eliza.json) |
 | Tekken 7: Fahkumram | 163263 | [163263-tekken-7-fahkumram.json](./163263-tekken-7-fahkumram.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
@@ -6861,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Fly Fishing: Volume One - Rivers of the British Isles | 207121 | [207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json](./207121-the-art-of-fly-fishing-volume-one-rivers-of-the-british-isles.json) |
 | The Art of Fugue | 364628 | [364628-the-art-of-fugue.json](./364628-the-art-of-fugue.json) |
 | The Art of GO | 14270 | [14270-the-art-of-go.json](./14270-the-art-of-go.json) |
+| The Art of Knuckle Sandwich | 55291 | [55291-the-art-of-knuckle-sandwich.json](./55291-the-art-of-knuckle-sandwich.json) |
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | The Art of War: Card Game | 231128 | [231128-the-art-of-war-card-game.json](./231128-the-art-of-war-card-game.json) |
@@ -9867,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drop | 377315 | [377315-the-drop.json](./377315-the-drop.json) |
 | The Dropouts | 327508 | [327508-the-dropouts.json](./327508-the-dropouts.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
+| The Dropping of the Dead | 55330 | [55330-the-dropping-of-the-dead.json](./55330-the-dropping-of-the-dead.json) |
 | The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
 | The Drowning | 20917 | [20917-the-drowning.json](./20917-the-drowning.json) |
 | The Drowning Machine | 144738 | [144738-the-drowning-machine.json](./144738-the-drowning-machine.json) |
@@ -13657,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
+| The Lake House: Children of Silence - Collector's Edition | 53263 | [53263-the-lake-house-children-of-silence-collectors-edition.json](./53263-the-lake-house-children-of-silence-collectors-edition.json) |
 | The Lake Lady | 348486 | [348486-the-lake-lady.json](./348486-the-lake-lady.json) |
 | The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
@@ -15011,6 +15015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Adventure | 364040 | [364040-the-little-adventure.json](./364040-the-little-adventure.json) |
 | The Little Adventure of the Rubber Duck | 409302 | [409302-the-little-adventure-of-the-rubber-duck.json](./409302-the-little-adventure-of-the-rubber-duck.json) |
 | The Little Baby | 285553 | [285553-the-little-baby.json](./285553-the-little-baby.json) |
+| The Little Ball That Could | 55231 | [55231-the-little-ball-that-could.json](./55231-the-little-ball-that-could.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: "A Dragon's Treasure" | 140713 | [140713-the-little-black-bestiary-a-dragons-treasure.json](./140713-the-little-black-bestiary-a-dragons-treasure.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
@@ -16255,6 +16260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Case of Dr.Jekyll and Mr.Hyde | 147945 | [147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json](./147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json) |
 | The Mysterious Cat Tower | 164105 | [164105-the-mysterious-cat-tower.json](./164105-the-mysterious-cat-tower.json) |
 | The Mysterious Cities of Gold | 16811 | [16811-the-mysterious-cities-of-gold.json](./16811-the-mysterious-cities-of-gold.json) |
+| The Mysterious Cities of Gold: Secret Paths | 53763 | [53763-the-mysterious-cities-of-gold-secret-paths.json](./53763-the-mysterious-cities-of-gold-secret-paths.json) |
 | The Mysterious Cities of Gold: Secret Paths - Director's Cut | 175577 | [175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json](./175577-the-mysterious-cities-of-gold-secret-paths-directors-cut.json) |
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
@@ -20890,6 +20896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
 | The Treasures of Montezuma 4 HD | 90871 | [90871-the-treasures-of-montezuma-4-hd.json](./90871-the-treasures-of-montezuma-4-hd.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
+| The Treasures of Mystery Island 2: The Gates of Fate | 53773 | [53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json](./53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json) |
 | The Treasures of Mystery Island 3: The Ghost Ship | 54295 | [54295-the-treasures-of-mystery-island-3-the-ghost-ship.json](./54295-the-treasures-of-mystery-island-3-the-ghost-ship.json) |
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree | 156064 | [156064-the-tree.json](./156064-the-tree.json) |
@@ -30068,6 +30075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War Saga: Thrones of Britannia | 44102 | [44102-total-war-saga-thrones-of-britannia.json](./44102-total-war-saga-thrones-of-britannia.json) |
 | Total War Saga: Thrones of Britannia - Blood, Sweat and Spears | 167639 | [167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json](./167639-total-war-saga-thrones-of-britannia-blood-sweat-and-spears.json) |
 | Total War Saga: Thrones of Britannia - Limited Edition | 86390 | [86390-total-war-saga-thrones-of-britannia-limited-edition.json](./86390-total-war-saga-thrones-of-britannia-limited-edition.json) |
+| Total War Shogun 2: Fall of the Samurai Collection | 53811 | [53811-total-war-shogun-2-fall-of-the-samurai-collection.json](./53811-total-war-shogun-2-fall-of-the-samurai-collection.json) |
 | Total War: Arena | 12982 | [12982-total-war-arena.json](./12982-total-war-arena.json) |
 | Total War: Attila - Age of Charlemagne Campaign Pack | 82023 | [82023-total-war-attila-age-of-charlemagne-campaign-pack.json](./82023-total-war-attila-age-of-charlemagne-campaign-pack.json) |
 | Total War: Attila - Blood & Burning | 82024 | [82024-total-war-attila-blood-and-burning.json](./82024-total-war-attila-blood-and-burning.json) |
@@ -38784,6 +38792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
 | Tyranny | 18398 | [18398-tyranny.json](./18398-tyranny.json) |
 | Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
+| Tyranny: Bastard's Wound | 55081 | [55081-tyranny-bastards-wound.json](./55081-tyranny-bastards-wound.json) |
 | Tyranny: Commander Edition | 51796 | [51796-tyranny-commander-edition.json](./51796-tyranny-commander-edition.json) |
 | Tyranny: Deluxe Edition | 124978 | [124978-tyranny-deluxe-edition.json](./124978-tyranny-deluxe-edition.json) |
 | Tyranny: Gold Edition | 154526 | [154526-tyranny-gold-edition.json](./154526-tyranny-gold-edition.json) |
