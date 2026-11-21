@@ -18661,6 +18661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Torque | 120451 | [120451-project-torque.json](./120451-project-torque.json) |
 | Project Torrim | 180939 | [180939-project-torrim.json](./180939-project-torrim.json) |
+| Project Tourline 5 | 429607 | [429607-project-tourline-5.json](./429607-project-tourline-5.json) |
 | Project Tower | 235578 | [235578-project-tower.json](./235578-project-tower.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
@@ -20475,6 +20476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse: Patches' Infurno | 147324 | [147324-purrfect-apawcalypse-patches-infurno.json](./147324-purrfect-apawcalypse-patches-infurno.json) |
 | Purrfect Apawcalypse: Purrgatory Furever | 170648 | [170648-purrfect-apawcalypse-purrgatory-furever.json](./170648-purrfect-apawcalypse-purrgatory-furever.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
+| Purrfect Beats | 429811 | [429811-purrfect-beats.json](./429811-purrfect-beats.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
 | Purrfect Catch | 377190 | [377190-purrfect-catch.json](./377190-purrfect-catch.json) |
 | Purrfect Collection | 330409 | [330409-purrfect-collection.json](./330409-purrfect-collection.json) |
