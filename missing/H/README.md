@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitat Toxica | 374343 | [374343-habitat-toxica.json](./374343-habitat-toxica.json) |
 | Habitat: Race to Mars | 375061 | [375061-habitat-race-to-mars.json](./375061-habitat-race-to-mars.json) |
+| Habitat: The Endless Terrarium | 425005 | [425005-habitat-the-endless-terrarium.json](./425005-habitat-the-endless-terrarium.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Habitking RPG | 127585 | [127585-habitking-rpg.json](./127585-habitking-rpg.json) |
@@ -13893,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt & Seek | 224042 | [224042-hunt-and-seek.json](./224042-hunt-and-seek.json) |
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt and Hide | 175017 | [175017-hunt-and-hide.json](./175017-hunt-and-hide.json) |
+| Hunt and Peck | 425021 | [425021-hunt-and-peck.json](./425021-hunt-and-peck.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Club On Stream | 398057 | [398057-hunt-club-on-stream.json](./398057-hunt-club-on-stream.json) |
