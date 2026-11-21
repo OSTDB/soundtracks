@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
+| Needle in a Haystack | 429542 | [429542-needle-in-a-haystack.json](./429542-needle-in-a-haystack.json) |
 | Needle In A Haystack | 417115 | [417115-needle-in-a-haystack.json](./417115-needle-in-a-haystack.json) |
 | Needle in a Haystack Simulator | 419225 | [419225-needle-in-a-haystack-simulator.json](./419225-needle-in-a-haystack-simulator.json) |
 | Needle in a Haystack Simulator in a Haystack of Needle in a Haystack Simulators | 428313 | [428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json](./428313-needle-in-a-haystack-simulator-in-a-haystack-of-needle-in-a-haystack-simulators.json) |
@@ -8279,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Sing 2016 | 42903 | [42903-now-sing-2016.json](./42903-now-sing-2016.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
+| Now That’s a Big Dragon! | 429601 | [429601-now-that-s-a-big-dragon.json](./429601-now-that-s-a-big-dragon.json) |
 | Now That's Sport! | 184179 | [184179-now-thats-sport.json](./184179-now-thats-sport.json) |
 | Now That's What I Call Games | 131874 | [131874-now-thats-what-i-call-games.json](./131874-now-thats-what-i-call-games.json) |
 | Now That's What I Call Games 2 | 131738 | [131738-now-thats-what-i-call-games-2.json](./131738-now-thats-what-i-call-games-2.json) |
