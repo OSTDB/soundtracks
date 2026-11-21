@@ -10809,6 +10809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith: Song of Two Kings | 275363 | [275363-blacksmith-song-of-two-kings.json](./275363-blacksmith-song-of-two-kings.json) |
 | Blacksmith's Master | 184895 | [184895-blacksmiths-master.json](./184895-blacksmiths-master.json) |
 | BlackSoul | 50314 | [50314-blacksoul.json](./50314-blacksoul.json) |
+| BlackSoul: Extended Edition | 30252 | [30252-blacksoul-extended-edition.json](./30252-blacksoul-extended-edition.json) |
 | BlackSpace | 93497 | [93497-blackspace.json](./93497-blackspace.json) |
 | Blackspot: The Card Game | 397872 | [397872-blackspot-the-card-game.json](./397872-blackspot-the-card-game.json) |
 | Blackstar Jump Drive | 115854 | [115854-blackstar-jump-drive.json](./115854-blackstar-jump-drive.json) |
@@ -14954,6 +14955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogey Hunters | 333429 | [333429-boogey-hunters.json](./333429-boogey-hunters.json) |
 | Boogey's Wicked Game | 340042 | [340042-boogeys-wicked-game.json](./340042-boogeys-wicked-game.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
+| Boogeyman 2 | 30133 | [30133-boogeyman-2.json](./30133-boogeyman-2.json) |
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
 | Boogie | 210265 | [210265-boogie.json](./210265-boogie.json) |
 | Boogie | 4725 | [4725-boogie.json](./4725-boogie.json) |
@@ -16674,6 +16676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Hole Girls | 242488 | [242488-brain-hole-girls.json](./242488-brain-hole-girls.json) |
 | Brain Hotel: Remodeled | 274951 | [274951-brain-hotel-remodeled.json](./274951-brain-hotel-remodeled.json) |
 | Brain in a Vat Lies | 123471 | [123471-brain-in-a-vat-lies.json](./123471-brain-in-a-vat-lies.json) |
+| Brain In My Head | 30195 | [30195-brain-in-my-head.json](./30195-brain-in-my-head.json) |
 | Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
 | Brain IQTopia | 342341 | [342341-brain-iqtopia.json](./342341-brain-iqtopia.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
@@ -17985,6 +17988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Hopper | 71918 | [71918-bridge-hopper.json](./71918-bridge-hopper.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge It | 10064 | [10064-bridge-it.json](./10064-bridge-it.json) |
+| Bridge It + | 30230 | [30230-bridge-it.json](./30230-bridge-it.json) |
 | Bridge Maker | 291398 | [291398-bridge-maker.json](./291398-bridge-maker.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge Master with Terence Reese | 362444 | [362444-bridge-master-with-terence-reese.json](./362444-bridge-master-with-terence-reese.json) |
