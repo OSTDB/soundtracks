@@ -6812,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The Second Encounter | 13181 | [13181-serious-sam-hd-the-second-encounter.json](./13181-serious-sam-hd-the-second-encounter.json) |
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
+| Serious Sam VR: The First Encounter | 30620 | [30620-serious-sam-vr-the-first-encounter.json](./30620-serious-sam-vr-the-first-encounter.json) |
 | Serious Sam VR: The Second Encounter | 91116 | [91116-serious-sam-vr-the-second-encounter.json](./91116-serious-sam-vr-the-second-encounter.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
@@ -41150,6 +41151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Necromancer: Ultra Collector's Edition | 148543 | [148543-sword-of-the-necromancer-ultra-collectors-edition.json](./148543-sword-of-the-necromancer-ultra-collectors-edition.json) |
 | Sword of the Slayer | 123524 | [123524-sword-of-the-slayer.json](./123524-sword-of-the-slayer.json) |
 | Sword of the Spirit | 243123 | [243123-sword-of-the-spirit.json](./243123-sword-of-the-spirit.json) |
+| Sword of the Stars Complete Collection | 30143 | [30143-sword-of-the-stars-complete-collection.json](./30143-sword-of-the-stars-complete-collection.json) |
 | Sword of the Stars II: Enhanced Edition | 10937 | [10937-sword-of-the-stars-ii-enhanced-edition.json](./10937-sword-of-the-stars-ii-enhanced-edition.json) |
 | Sword of the Stars II: Lords of the Winter | 8544 | [8544-sword-of-the-stars-ii-lords-of-the-winter.json](./8544-sword-of-the-stars-ii-lords-of-the-winter.json) |
 | Sword of the Stars: A Murder of Crows | 10935 | [10935-sword-of-the-stars-a-murder-of-crows.json](./10935-sword-of-the-stars-a-murder-of-crows.json) |
@@ -41859,6 +41861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syr and the Stars' Revival | 399187 | [399187-syr-and-the-stars-revival.json](./399187-syr-and-the-stars-revival.json) |
 | Syracuse | 41553 | [41553-syracuse.json](./41553-syracuse.json) |
 | Syrak: the War in the Middle-East | 193648 | [193648-syrak-the-war-in-the-middle-east.json](./193648-syrak-the-war-in-the-middle-east.json) |
+| Syren | 30602 | [30602-syren.json](./30602-syren.json) |
 | Syrenka Racer | 255659 | [255659-syrenka-racer.json](./255659-syrenka-racer.json) |
 | Syrian Warfare | 32461 | [32461-syrian-warfare.json](./32461-syrian-warfare.json) |
 | Syrian Warfare: Battlefields | 164603 | [164603-syrian-warfare-battlefields.json](./164603-syrian-warfare-battlefields.json) |
