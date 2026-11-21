@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabal: Return of Action | 264968 | [264968-cabal-return-of-action.json](./264968-cabal-return-of-action.json) |
 | Caball | 267282 | [267282-caball.json](./267282-caball.json) |
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
+| Cabals: Card Blitz | 30330 | [30330-cabals-card-blitz.json](./30330-cabals-card-blitz.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
 | Cabaret 4 Card | 159925 | [159925-cabaret-4-card.json](./159925-cabaret-4-card.json) |
 | Cabbage | 176033 | [176033-cabbage.json](./176033-cabbage.json) |
@@ -9171,6 +9172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choplifter! | 343897 | [343897-choplifter.json](./343897-choplifter.json) |
 | Choplifter! | 6094 | [6094-choplifter.json](./6094-choplifter.json) |
 | Chopmania | 211990 | [211990-chopmania.json](./211990-chopmania.json) |
+| Choppa | 30565 | [30565-choppa.json](./30565-choppa.json) |
 | Choppa: Rescue Rivals | 127077 | [127077-choppa-rescue-rivals.json](./127077-choppa-rescue-rivals.json) |
 | Chopped Up | 388368 | [388368-chopped-up.json](./388368-chopped-up.json) |
 | Chopper | 79655 | [79655-chopper.json](./79655-chopper.json) |
@@ -18569,6 +18571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackers Revenge | 41151 | [41151-crackers-revenge.json](./41151-crackers-revenge.json) |
 | Crackers Revenge II | 417478 | [417478-crackers-revenge-ii.json](./417478-crackers-revenge-ii.json) |
 | Crackers Revenge IV | 417480 | [417480-crackers-revenge-iv.json](./417480-crackers-revenge-iv.json) |
+| Crackhead | 30567 | [30567-crackhead.json](./30567-crackhead.json) |
 | Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
 | Crackin' DJ | 76013 | [76013-crackin-dj.json](./76013-crackin-dj.json) |
 | Crackin' DJ Part 2 | 58429 | [58429-crackin-dj-part-2.json](./58429-crackin-dj-part-2.json) |
