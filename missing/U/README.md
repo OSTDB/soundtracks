@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Legends: Dark Kingdom | 7476 | [7476-untold-legends-dark-kingdom.json](./7476-untold-legends-dark-kingdom.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
 | Untold Love Stories | 240135 | [240135-untold-love-stories.json](./240135-untold-love-stories.json) |
+| Untold Memories: Grandma's House | 429810 | [429810-untold-memories-grandmas-house.json](./429810-untold-memories-grandmas-house.json) |
 | Untold Memories: Potter's Field | 391311 | [391311-untold-memories-potters-field.json](./391311-untold-memories-potters-field.json) |
 | Untold Mystery: Angel’s Cry | 17061 | [17061-untold-mystery-angel-s-cry.json](./17061-untold-mystery-angel-s-cry.json) |
 | Untold Riches | 59673 | [59673-untold-riches.json](./59673-untold-riches.json) |
