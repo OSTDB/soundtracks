@@ -6655,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krankenheit | 113418 | [113418-krankenheit.json](./113418-krankenheit.json) |
 | Kranker | 202041 | [202041-kranker.json](./202041-kranker.json) |
 | KrankShot! | 353789 | [353789-krankshot.json](./353789-krankshot.json) |
+| Krappy Birds | 421518 | [421518-krappy-birds.json](./421518-krappy-birds.json) |
 | krAsAvA Shot | 116831 | [116831-krasava-shot.json](./116831-krasava-shot.json) |
 | Krashimals | 330558 | [330558-krashimals.json](./330558-krashimals.json) |
 | Krashlander | 143288 | [143288-krashlander.json](./143288-krashlander.json) |
@@ -6768,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
 | Kronostasis | 158348 | [158348-kronostasis.json](./158348-kronostasis.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
+| Krook | 421503 | [421503-krook.json](./421503-krook.json) |
 | Kropki 8 | 147739 | [147739-kropki-8.json](./147739-kropki-8.json) |
 | Krosfighter | 275844 | [275844-krosfighter.json](./275844-krosfighter.json) |
 | Krosmaga | 29097 | [29097-krosmaga.json](./29097-krosmaga.json) |
