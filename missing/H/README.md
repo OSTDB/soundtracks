@@ -10524,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
 | Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
+| HoloCozy | 429606 | [429606-holocozy.json](./429606-holocozy.json) |
 | HoloCure Update 0.5 | 261916 | [261916-holocure-update-0-5.json](./261916-holocure-update-0-5.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
 | Holocure: Update 0.6 | 261921 | [261921-holocure-update-0-6.json](./261921-holocure-update-0-6.json) |
@@ -12590,6 +12591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Mario II | 269846 | [269846-hotel-mario-ii.json](./269846-hotel-mario-ii.json) |
 | Hotel Mario ReBooked | 321398 | [321398-hotel-mario-rebooked.json](./321398-hotel-mario-rebooked.json) |
 | Hotel Melancolie | 377767 | [377767-hotel-melancolie.json](./377767-hotel-melancolie.json) |
+| Hotel Milgram | 429817 | [429817-hotel-milgram.json](./429817-hotel-milgram.json) |
 | Hotel Mogul | 54081 | [54081-hotel-mogul.json](./54081-hotel-mogul.json) |
 | Hotel Mogul: Las Vegas | 54100 | [54100-hotel-mogul-las-vegas.json](./54100-hotel-mogul-las-vegas.json) |
 | Hotel of the Dead | 274749 | [274749-hotel-of-the-dead.json](./274749-hotel-of-the-dead.json) |
