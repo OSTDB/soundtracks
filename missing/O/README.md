@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
 | Offensive | 80277 | [80277-offensive.json](./80277-offensive.json) |
 | Offensive Combat | 27935 | [27935-offensive-combat.json](./27935-offensive-combat.json) |
+| Offensive Combat: Redux! | 54697 | [54697-offensive-combat-redux.json](./54697-offensive-combat-redux.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | Offering App | 196076 | [196076-offering-app.json](./196076-offering-app.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
@@ -6369,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdriven | 94063 | [94063-overdriven.json](./94063-overdriven.json) |
 | Overdriven Evolution | 207574 | [207574-overdriven-evolution.json](./207574-overdriven-evolution.json) |
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
+| Overdriven Reloaded: Special Edition | 53438 | [53438-overdriven-reloaded-special-edition.json](./53438-overdriven-reloaded-special-edition.json) |
 | Overdue | 419224 | [419224-overdue.json](./419224-overdue.json) |
 | Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
