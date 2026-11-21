@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
 | Dancing Stage Fever | 73949 | [73949-dancing-stage-fever.json](./73949-dancing-stage-fever.json) |
+| Dancing Stage Fusion | 22296 | [22296-dancing-stage-fusion.json](./22296-dancing-stage-fusion.json) |
 | Dancing Stage Internet Ranking | 135392 | [135392-dancing-stage-internet-ranking.json](./135392-dancing-stage-internet-ranking.json) |
 | Dancing Stage Max | 62839 | [62839-dancing-stage-max.json](./62839-dancing-stage-max.json) |
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Darkness Rising | 70754 | [70754-dark-age-of-camelot-darkness-rising.json](./70754-dark-age-of-camelot-darkness-rising.json) |
+| Dark Age of Camelot: Shrouded Isles | 22229 | [22229-dark-age-of-camelot-shrouded-isles.json](./22229-dark-age-of-camelot-shrouded-isles.json) |
 | Dark Age: Tokens of the Fallen | 420292 | [420292-dark-age-tokens-of-the-fallen.json](./420292-dark-age-tokens-of-the-fallen.json) |
 | Dark Ages | 11726 | [11726-dark-ages.json](./11726-dark-ages.json) |
 | Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
@@ -3993,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Stranger Things Edition | 164813 | [164813-dead-by-daylight-stranger-things-edition.json](./164813-dead-by-daylight-stranger-things-edition.json) |
 | Dead by Daylight: Survivor Edition | 136716 | [136716-dead-by-daylight-survivor-edition.json](./136716-dead-by-daylight-survivor-edition.json) |
 | Dead by Daylight: Survivor Expansion Pack | 225409 | [225409-dead-by-daylight-survivor-expansion-pack.json](./225409-dead-by-daylight-survivor-expansion-pack.json) |
+| Dead by Daylight: Terrifier | 430800 | [430800-dead-by-daylight-terrifier.json](./430800-dead-by-daylight-terrifier.json) |
 | Dead by Daylight: The 80's Suitcase | 227406 | [227406-dead-by-daylight-the-80s-suitcase.json](./227406-dead-by-daylight-the-80s-suitcase.json) |
 | Dead by Daylight: The Bloodstained Sack | 227407 | [227407-dead-by-daylight-the-bloodstained-sack.json](./227407-dead-by-daylight-the-bloodstained-sack.json) |
 | Dead by Daylight: The Halloween Chapter | 76221 | [76221-dead-by-daylight-the-halloween-chapter.json](./76221-dead-by-daylight-the-halloween-chapter.json) |
@@ -7354,6 +7357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby: Arena of Death | 89193 | [89193-demolition-derby-arena-of-death.json](./89193-demolition-derby-arena-of-death.json) |
 | Demolition Division | 44354 | [44354-demolition-division.json](./44354-demolition-division.json) |
 | Demolition Dodge | 233114 | [233114-demolition-dodge.json](./233114-demolition-dodge.json) |
+| Demolition Dynasty | 430275 | [430275-demolition-dynasty.json](./430275-demolition-dynasty.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Expert: The Simulation | 141617 | [141617-demolition-expert-the-simulation.json](./141617-demolition-expert-the-simulation.json) |
 | Demolition Game | 172961 | [172961-demolition-game.json](./172961-demolition-game.json) |
@@ -8286,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Fighting | 29318 | [29318-desert-fighting.json](./29318-desert-fighting.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
+| Desert Fox: The Battle of El Alamein | 22261 | [22261-desert-fox-the-battle-of-el-alamein.json](./22261-desert-fox-the-battle-of-el-alamein.json) |
 | Desert Golfing | 22262 | [22262-desert-golfing.json](./22262-desert-golfing.json) |
 | Desert Gun | 18610 | [18610-desert-gun.json](./18610-desert-gun.json) |
 | Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
@@ -12823,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Sealing | 4505 | [4505-divine-sealing.json](./4505-divine-sealing.json) |
 | Divine Shock | 263817 | [263817-divine-shock.json](./263817-divine-shock.json) |
 | Divine Sin | 373151 | [373151-divine-sin.json](./373151-divine-sin.json) |
+| Divine Slice of Life | 22215 | [22215-divine-slice-of-life.json](./22215-divine-slice-of-life.json) |
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Stone | 150375 | [150375-divine-stone.json](./150375-divine-stone.json) |
@@ -16287,6 +16293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
 | Downfallen | 223218 | [223218-downfallen.json](./223218-downfallen.json) |
+| Downforce | 22219 | [22219-downforce.json](./22219-downforce.json) |
 | Downforce | 248688 | [248688-downforce.json](./248688-downforce.json) |
 | Downgeon Quest | 200067 | [200067-downgeon-quest.json](./200067-downgeon-quest.json) |
 | Downhell | 274127 | [274127-downhell.json](./274127-downhell.json) |
@@ -19468,6 +19475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath: Genie | 33628 | [33628-drizzlepath-genie.json](./33628-drizzlepath-genie.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
+| DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
 | DRMS-04 | 176536 | [176536-drms-04.json](./176536-drms-04.json) |
 | Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
 | Drod 1+2+3 | 124914 | [124914-drod-1-2-3.json](./124914-drod-1-2-3.json) |
@@ -19517,6 +19525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drolf | 104737 | [104737-drolf.json](./104737-drolf.json) |
 | Drom | 225821 | [225821-drom.json](./225821-drom.json) |
 | Drome | 61802 | [61802-drome.json](./61802-drome.json) |
+| Drome Racers | 22244 | [22244-drome-racers.json](./22244-drome-racers.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
 | Drome van Slange Bundle | 331558 | [331558-drome-van-slange-bundle.json](./331558-drome-van-slange-bundle.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
