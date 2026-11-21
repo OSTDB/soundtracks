@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Dinosaur Island | 201433 | [201433-lets-build-a-zoo-dinosaur-island.json](./201433-lets-build-a-zoo-dinosaur-island.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
+| Let's Build Together | 429793 | [429793-lets-build-together.json](./429793-lets-build-together.json) |
 | Let's Build Wonders: Galaxy | 320779 | [320779-lets-build-wonders-galaxy.json](./320779-lets-build-wonders-galaxy.json) |
 | Let's Build Wonders: Galaxy — Star Trade Chamber Pass | 337532 | [337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json](./337532-lets-build-wonders-galaxy-star-trade-chamber-pass.json) |
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
@@ -7623,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
+| LMA Manager 2005 | 22299 | [22299-lma-manager-2005.json](./22299-lma-manager-2005.json) |
 | LMA Manager 2006 | 22548 | [22548-lma-manager-2006.json](./22548-lma-manager-2006.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
@@ -7660,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loadout | 3224 | [3224-loadout.json](./3224-loadout.json) |
 | Loadout: Premium Edition | 118718 | [118718-loadout-premium-edition.json](./118718-loadout-premium-edition.json) |
+| Loadpath | 429806 | [429806-loadpath.json](./429806-loadpath.json) |
 | Loadstar: The Legend of Tully Bodine | 46424 | [46424-loadstar-the-legend-of-tully-bodine.json](./46424-loadstar-the-legend-of-tully-bodine.json) |
 | Loaf the Video Game 3 | 407858 | [407858-loaf-the-video-game-3.json](./407858-loaf-the-video-game-3.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
