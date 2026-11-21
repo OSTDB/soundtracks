@@ -6579,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
 | Overtime Pay | 333261 | [333261-overtime-pay.json](./333261-overtime-pay.json) |
 | Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
+| Overtime: Development Hell | 429808 | [429808-overtime-development-hell.json](./429808-overtime-development-hell.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
 | OvertimeGM: Hockey Manager | 407080 | [407080-overtimegm-hockey-manager.json](./407080-overtimegm-hockey-manager.json) |
 | Overtop | 212580 | [212580-overtop.json](./212580-overtop.json) |
