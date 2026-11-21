@@ -4784,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Club Manager Simulator | 397723 | [397723-night-club-manager-simulator.json](./397723-night-club-manager-simulator.json) |
 | Night Club Simulator | 333310 | [333310-night-club-simulator.json](./333310-night-club-simulator.json) |
 | Night Club Simulator: Party King | 360470 | [360470-night-club-simulator-party-king.json](./360470-night-club-simulator-party-king.json) |
+| Night Concierge | 425020 | [425020-night-concierge.json](./425020-night-concierge.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Creatures | 42103 | [42103-night-creatures.json](./42103-night-creatures.json) |
 | Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
