@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Hentai Puzzle: Cyberpunk | 319257 | [319257-yet-another-hentai-puzzle-cyberpunk.json](./319257-yet-another-hentai-puzzle-cyberpunk.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
+| Yet Another Hero Story | 120105 | [120105-yet-another-hero-story.json](./120105-yet-another-hero-story.json) |
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Jumping Game | 395082 | [395082-yet-another-jumping-game.json](./395082-yet-another-jumping-game.json) |
 | Yet Another Killing Game | 329407 | [329407-yet-another-killing-game.json](./329407-yet-another-killing-game.json) |
