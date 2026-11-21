@@ -14001,6 +14001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Math | 89573 | [89573-color-math.json](./89573-color-math.json) |
 | Color Maze | 184114 | [184114-color-maze.json](./184114-color-maze.json) |
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
+| Color Me Crazy! | 427339 | [427339-color-me-crazy.json](./427339-color-me-crazy.json) |
 | Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
 | Color Meteoroids | 93449 | [93449-color-meteoroids.json](./93449-color-meteoroids.json) |
 | Color Mismatch Brain Quiz | 390488 | [390488-color-mismatch-brain-quiz.json](./390488-color-mismatch-brain-quiz.json) |
@@ -17361,6 +17362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CortexGear:AngryDroids | 35082 | [35082-cortexgear-angrydroids.json](./35082-cortexgear-angrydroids.json) |
 | Corti Co. | 303433 | [303433-corti-co.json](./303433-corti-co.json) |
 | Cortizone | 317159 | [317159-cortizone.json](./317159-cortizone.json) |
+| Corto | 427445 | [427445-corto.json](./427445-corto.json) |
 | Corto Maltese: Secrets of Venice | 8386 | [8386-corto-maltese-secrets-of-venice.json](./8386-corto-maltese-secrets-of-venice.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
