@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Racing Sim | 339417 | [339417-tanks-racing-sim.json](./339417-tanks-racing-sim.json) |
 | Tanks Rebirth | 357342 | [357342-tanks-rebirth.json](./357342-tanks-rebirth.json) |
 | Tanks Sweet Tanks | 423841 | [423841-tanks-sweet-tanks.json](./423841-tanks-sweet-tanks.json) |
+| Tanks VR | 82401 | [82401-tanks-vr.json](./82401-tanks-vr.json) |
 | Tanks VS Demons | 118079 | [118079-tanks-vs-demons.json](./118079-tanks-vs-demons.json) |
 | Tanks vs Tanks | 188150 | [188150-tanks-vs-tanks.json](./188150-tanks-vs-tanks.json) |
 | Tanks vs Tanks: PvP | 214044 | [214044-tanks-vs-tanks-pvp.json](./214044-tanks-vs-tanks-pvp.json) |
@@ -4255,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
 | Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
 | Tempest: Jade Sea | 124858 | [124858-tempest-jade-sea.json](./124858-tempest-jade-sea.json) |
+| Tempest: Pirate Action RPG | 83322 | [83322-tempest-pirate-action-rpg.json](./83322-tempest-pirate-action-rpg.json) |
 | Tempest: Pirate City | 124941 | [124941-tempest-pirate-city.json](./124941-tempest-pirate-city.json) |
 | Tempest: Pirate Edition | 53716 | [53716-tempest-pirate-edition.json](./53716-tempest-pirate-edition.json) |
 | Tempest: Tower of Probatio | 271561 | [271561-tempest-tower-of-probatio.json](./271561-tempest-tower-of-probatio.json) |
@@ -10346,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists 2: Game of the Year Edition | 121534 | [121534-the-escapists-2-game-of-the-year-edition.json](./121534-the-escapists-2-game-of-the-year-edition.json) |
 | The Escapists 2: Glorious Regime Prison | 124884 | [124884-the-escapists-2-glorious-regime-prison.json](./124884-the-escapists-2-glorious-regime-prison.json) |
 | The Escapists 2: Pocket Breakout | 114027 | [114027-the-escapists-2-pocket-breakout.json](./114027-the-escapists-2-pocket-breakout.json) |
+| The Escapists 2: Special Edition | 83775 | [83775-the-escapists-2-special-edition.json](./83775-the-escapists-2-special-edition.json) |
 | The Escapists 2: Wicked Ward | 124882 | [124882-the-escapists-2-wicked-ward.json](./124882-the-escapists-2-wicked-ward.json) |
 | The Escapists 3 | 422261 | [422261-the-escapists-3.json](./422261-the-escapists-3.json) |
 | The Escapists DLC Bundle | 227091 | [227091-the-escapists-dlc-bundle.json](./227091-the-escapists-dlc-bundle.json) |
@@ -28376,6 +28379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo 30 days | 269200 | [269200-tokyo-30-days.json](./269200-tokyo-30-days.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo 42 - Smaceshi's Castles | 140098 | [140098-tokyo-42-smaceshis-castles.json](./140098-tokyo-42-smaceshis-castles.json) |
+| Tokyo 42 + Smaceshi's Castles | 83772 | [83772-tokyo-42-smaceshis-castles.json](./83772-tokyo-42-smaceshis-castles.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo 7th Sisters | 60623 | [60623-tokyo-7th-sisters.json](./60623-tokyo-7th-sisters.json) |
 | Tokyo Afterschool Summoners | 164311 | [164311-tokyo-afterschool-summoners.json](./164311-tokyo-afterschool-summoners.json) |
@@ -34960,6 +34964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter | 327577 | [327577-treasure-hunter.json](./327577-treasure-hunter.json) |
 | Treasure Hunter | 60042 | [60042-treasure-hunter.json](./60042-treasure-hunter.json) |
 | Treasure Hunter | 76627 | [76627-treasure-hunter.json](./76627-treasure-hunter.json) |
+| Treasure Hunter Claire | 82844 | [82844-treasure-hunter-claire.json](./82844-treasure-hunter-claire.json) |
 | Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Man | 272043 | [272043-treasure-hunter-man.json](./272043-treasure-hunter-man.json) |
