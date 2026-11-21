@@ -9782,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdwatcher | 314969 | [314969-birdwatcher.json](./314969-birdwatcher.json) |
 | Birdwatching | 390738 | [390738-birdwatching.json](./390738-birdwatching.json) |
 | Birdwatching Notebook | 377414 | [377414-birdwatching-notebook.json](./377414-birdwatching-notebook.json) |
+| Birdworld | 422874 | [422874-birdworld.json](./422874-birdworld.json) |
 | Birdy Trip | 87880 | [87880-birdy-trip.json](./87880-birdy-trip.json) |
 | Birdy's Island | 424344 | [424344-birdys-island.json](./424344-birdys-island.json) |
 | Birfia | 184009 | [184009-birfia.json](./184009-birfia.json) |
