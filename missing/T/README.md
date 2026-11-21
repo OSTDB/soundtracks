@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales | 25303 | [25303-tales.json](./25303-tales.json) |
 | Tales (Tentative Title) | 86373 | [86373-tales-tentative-title.json](./86373-tales-tentative-title.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
+| Tales & Tactics | 244842 | [244842-tales-and-tactics.json](./244842-tales-and-tactics.json) |
 | Tales AFar | 233497 | [233497-tales-afar.json](./233497-tales-afar.json) |
 | Tales After Dark: Something Upstairs | 418204 | [418204-tales-after-dark-something-upstairs.json](./418204-tales-after-dark-something-upstairs.json) |
 | Tales Beyond the Tomb: No Witnesses | 407331 | [407331-tales-beyond-the-tomb-no-witnesses.json](./407331-tales-beyond-the-tomb-no-witnesses.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Tentoria | 164107 | [164107-tentoria.json](./164107-tentoria.json) |
 | Tents and Trees | 123399 | [123399-tents-and-trees.json](./123399-tents-and-trees.json) |
+| Tents and Trees | 240056 | [240056-tents-and-trees.json](./240056-tents-and-trees.json) |
 | Tenuous:City | 230340 | [230340-tenuous-city.json](./230340-tenuous-city.json) |
 | Tenvader | 372909 | [372909-tenvader.json](./372909-tenvader.json) |
 | Tenvi | 166031 | [166031-tenvi.json](./166031-tenvi.json) |
@@ -7827,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bride of Vampire | 271711 | [271711-the-bride-of-vampire.json](./271711-the-bride-of-vampire.json) |
 | The Bridge | 352753 | [352753-the-bridge.json](./352753-the-bridge.json) |
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
+| The Bridge Curse 2: The Extrication | 244573 | [244573-the-bridge-curse-2-the-extrication.json](./244573-the-bridge-curse-2-the-extrication.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The Bridge to Yesterday | 310480 | [310480-the-bridge-to-yesterday.json](./310480-the-bridge-to-yesterday.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
@@ -26021,6 +26024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2002 | 248690 | [248690-tiger-woods-pga-tour-2002.json](./248690-tiger-woods-pga-tour-2002.json) |
 | Tiger Woods PGA Tour 2002 | 8813 | [8813-tiger-woods-pga-tour-2002.json](./8813-tiger-woods-pga-tour-2002.json) |
 | Tiger Woods PGA Tour 2003 | 904 | [904-tiger-woods-pga-tour-2003.json](./904-tiger-woods-pga-tour-2003.json) |
+| Tiger Woods PGA Tour 2004 | 243022 | [243022-tiger-woods-pga-tour-2004.json](./243022-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 243023 | [243023-tiger-woods-pga-tour-2004.json](./243023-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2005 | 248494 | [248494-tiger-woods-pga-tour-2005.json](./248494-tiger-woods-pga-tour-2005.json) |
@@ -27909,6 +27913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadled: Eating Frenzy | 370362 | [370362-toadled-eating-frenzy.json](./370362-toadled-eating-frenzy.json) |
 | Toado | 92867 | [92867-toado.json](./92867-toado.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
+| Toads of the Bayou | 244138 | [244138-toads-of-the-bayou.json](./244138-toads-of-the-bayou.json) |
 | Toads of Trees | 386076 | [386076-toads-of-trees.json](./386076-toads-of-trees.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toads vs. Koopas: Bowser's Conquest | 321887 | [321887-toads-vs-koopas-bowsers-conquest.json](./321887-toads-vs-koopas-bowsers-conquest.json) |
@@ -30832,6 +30837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouHou: Legend of Fairy Souls | 244730 | [244730-touhou-legend-of-fairy-souls.json](./244730-touhou-legend-of-fairy-souls.json) |
 | Touhou: Lost Branch of Legend | 208635 | [208635-touhou-lost-branch-of-legend.json](./208635-touhou-lost-branch-of-legend.json) |
 | Touhou: Lost Children at the Bamboo Forest | 234776 | [234776-touhou-lost-children-at-the-bamboo-forest.json](./234776-touhou-lost-children-at-the-bamboo-forest.json) |
+| Touhou: New World | 242038 | [242038-touhou-new-world.json](./242038-touhou-new-world.json) |
 | Touhou: New World - Gensokyo Dreaming | 308832 | [308832-touhou-new-world-gensokyo-dreaming.json](./308832-touhou-new-world-gensokyo-dreaming.json) |
 | Touhou: New World + Story DLC Bundle | 308833 | [308833-touhou-new-world-story-dlc-bundle.json](./308833-touhou-new-world-story-dlc-bundle.json) |
 | Touhou: Phantom Assembler | 230169 | [230169-touhou-phantom-assembler.json](./230169-touhou-phantom-assembler.json) |
