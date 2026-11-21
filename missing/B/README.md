@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
+| Babel Legacy | 424937 | [424937-babel-legacy.json](./424937-babel-legacy.json) |
 | Babel of Ystilia | 236132 | [236132-babel-of-ystilia.json](./236132-babel-of-ystilia.json) |
 | Babel Rising 3D | 106225 | [106225-babel-rising-3d.json](./106225-babel-rising-3d.json) |
 | Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
@@ -8225,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Skies | 226492 | [226492-beyond-the-skies.json](./226492-beyond-the-skies.json) |
 | Beyond the Sky | 110748 | [110748-beyond-the-sky.json](./110748-beyond-the-sky.json) |
+| Beyond the Slime | 425006 | [425006-beyond-the-slime.json](./425006-beyond-the-slime.json) |
 | Beyond the Space Wall | 348662 | [348662-beyond-the-space-wall.json](./348662-beyond-the-space-wall.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Storm | 159001 | [159001-beyond-the-storm.json](./159001-beyond-the-storm.json) |
@@ -16640,6 +16642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Battle Q | 176070 | [176070-brain-battle-q.json](./176070-brain-battle-q.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Bistro | 414069 | [414069-brain-bistro.json](./414069-brain-bistro.json) |
+| Brain Bomb | 424917 | [424917-brain-bomb.json](./424917-brain-bomb.json) |
 | Brain Boom | 338438 | [338438-brain-boom.json](./338438-brain-boom.json) |
 | Brain Boost Buddies | 378819 | [378819-brain-boost-buddies.json](./378819-brain-boost-buddies.json) |
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
