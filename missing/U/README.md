@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
 | UMS: The Universal Military Simulator - The American Civil War | 72459 | [72459-ums-the-universal-military-simulator-the-american-civil-war.json](./72459-ums-the-universal-military-simulator-the-american-civil-war.json) |
 | UMS: The Universal Military Simulator - Vietnam | 72460 | [72460-ums-the-universal-military-simulator-vietnam.json](./72460-ums-the-universal-military-simulator-vietnam.json) |
+| Umurangi Generation PS5+PSVR2 Bundle | 429204 | [429204-umurangi-generation-ps5-psvr2-bundle.json](./429204-umurangi-generation-ps5-psvr2-bundle.json) |
 | Umurangi Generation VR | 279410 | [279410-umurangi-generation-vr.json](./279410-umurangi-generation-vr.json) |
 | Umurangi Generation: Macro | 139015 | [139015-umurangi-generation-macro.json](./139015-umurangi-generation-macro.json) |
 | Umurangi Generation: Special Edition | 151766 | [151766-umurangi-generation-special-edition.json](./151766-umurangi-generation-special-edition.json) |
@@ -3407,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled Star Fox Minihack 2 | 259342 | [259342-untitled-star-fox-minihack-2.json](./259342-untitled-star-fox-minihack-2.json) |
 | Untitled Survival Game | 193193 | [193193-untitled-survival-game.json](./193193-untitled-survival-game.json) |
+| Untitled The Legend of Heroes: Trails Beyond the Horizon Sequel | 429179 | [429179-untitled-the-legend-of-heroes-trails-beyond-the-horizon-sequel.json](./429179-untitled-the-legend-of-heroes-trails-beyond-the-horizon-sequel.json) |
 | Untitled Tomb Runner | 361743 | [361743-untitled-tomb-runner.json](./361743-untitled-tomb-runner.json) |
 | Untitled Video Game | 163243 | [163243-untitled-video-game.json](./163243-untitled-video-game.json) |
 | Untitled Vlambeer Game | 131396 | [131396-untitled-vlambeer-game.json](./131396-untitled-vlambeer-game.json) |
