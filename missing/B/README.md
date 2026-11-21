@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
 | Battlefield Alliance | 52294 | [52294-battlefield-alliance.json](./52294-battlefield-alliance.json) |
+| Battlefield Anniversary Bundle | 83758 | [83758-battlefield-anniversary-bundle.json](./83758-battlefield-anniversary-bundle.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
@@ -5721,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Warrior | 306813 | [306813-bear-warrior.json](./306813-bear-warrior.json) |
 | Bear Winter | 60170 | [60170-bear-winter.json](./60170-bear-winter.json) |
 | Bear With Me | 22397 | [22397-bear-with-me.json](./22397-bear-with-me.json) |
+| Bear With Me: Collector's Edition | 84023 | [84023-bear-with-me-collectors-edition.json](./84023-bear-with-me-collectors-edition.json) |
 | Bear With Me: Episode 1 | 127135 | [127135-bear-with-me-episode-1.json](./127135-bear-with-me-episode-1.json) |
 | Bear With Me: Episode 2 | 127136 | [127136-bear-with-me-episode-2.json](./127136-bear-with-me-episode-2.json) |
 | Bear With Me: Episode 3 | 127137 | [127137-bear-with-me-episode-3.json](./127137-bear-with-me-episode-3.json) |
@@ -15073,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
 | Boom Ascent | 355803 | [355803-boom-ascent.json](./355803-boom-ascent.json) |
 | Boom Ball 2 for Kinect | 56781 | [56781-boom-ball-2-for-kinect.json](./56781-boom-ball-2-for-kinect.json) |
+| Boom Ball 3 for Kinect | 83757 | [83757-boom-ball-3-for-kinect.json](./83757-boom-ball-3-for-kinect.json) |
 | Boom Ball: Boost Edition | 110596 | [110596-boom-ball-boost-edition.json](./110596-boom-ball-boost-edition.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
 | Boom Barn | 58304 | [58304-boom-barn.json](./58304-boom-barn.json) |
@@ -20605,6 +20608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 4 | 133877 | [133877-burnin-rubber-4.json](./133877-burnin-rubber-4.json) |
 | Burnin' Rubber 5 | 172645 | [172645-burnin-rubber-5.json](./172645-burnin-rubber-5.json) |
 | Burnin' Rubber 5 Air | 172647 | [172647-burnin-rubber-5-air.json](./172647-burnin-rubber-5-air.json) |
+| Burnin' Rubber 5 HD | 82533 | [82533-burnin-rubber-5-hd.json](./82533-burnin-rubber-5-hd.json) |
 | Burnin' Rubber 5 XS | 172646 | [172646-burnin-rubber-5-xs.json](./172646-burnin-rubber-5-xs.json) |
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Crash n' Burn | 360304 | [360304-burnin-rubber-crash-n-burn.json](./360304-burnin-rubber-crash-n-burn.json) |
