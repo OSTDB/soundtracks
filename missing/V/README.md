@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
 | Video Game Store: Supermarket Simulator | 319298 | [319298-video-game-store-supermarket-simulator.json](./319298-video-game-store-supermarket-simulator.json) |
+| Video Game Store: Tidy Up | 429799 | [429799-video-game-store-tidy-up.json](./429799-video-game-store-tidy-up.json) |
 | Video Game Trivia | 252597 | [252597-video-game-trivia.json](./252597-video-game-trivia.json) |
 | Video Game Tutorial | 365277 | [365277-video-game-tutorial.json](./365277-video-game-tutorial.json) |
 | Video Game: Super Corrida | 345627 | [345627-video-game-super-corrida.json](./345627-video-game-super-corrida.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis 4: World Tour Edition | 42707 | [42707-virtua-tennis-4-world-tour-edition.json](./42707-virtua-tennis-4-world-tour-edition.json) |
 | Virtua Tennis Challenge | 46754 | [46754-virtua-tennis-challenge.json](./46754-virtua-tennis-challenge.json) |
 | Virtua Tennis: Mobile Edition | 317005 | [317005-virtua-tennis-mobile-edition.json](./317005-virtua-tennis-mobile-edition.json) |
+| Virtua Tennis: World Tour | 22312 | [22312-virtua-tennis-world-tour.json](./22312-virtua-tennis-world-tour.json) |
 | Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
 | Virtuacall | 428368 | [428368-virtuacall.json](./428368-virtuacall.json) |
@@ -4118,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Voltron: Cubes of Olkarion | 120409 | [120409-voltron-cubes-of-olkarion.json](./120409-voltron-cubes-of-olkarion.json) |
 | Voltron: Defender of the Universe | 24237 | [24237-voltron-defender-of-the-universe.json](./24237-voltron-defender-of-the-universe.json) |
+| Voltswarm | 429800 | [429800-voltswarm.json](./429800-voltswarm.json) |
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volumax | 50769 | [50769-volumax.json](./50769-volumax.json) |
