@@ -4549,7 +4549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
 | SD Gundam Gaiden: Lacroan' Heroes | 353628 | [353628-sd-gundam-gaiden-lacroan-heroes.json](./353628-sd-gundam-gaiden-lacroan-heroes.json) |
-| SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
 | SD Gundam Generation: Axis Senki | 66477 | [66477-sd-gundam-generation-axis-senki.json](./66477-sd-gundam-generation-axis-senki.json) |
 | SD Gundam Generation: Babylonia Kenkoku Senki | 66476 | [66476-sd-gundam-generation-babylonia-kenkoku-senki.json](./66476-sd-gundam-generation-babylonia-kenkoku-senki.json) |
 | SD Gundam Generation: Colony Kaku Senki | 66475 | [66475-sd-gundam-generation-colony-kaku-senki.json](./66475-sd-gundam-generation-colony-kaku-senki.json) |
@@ -4578,7 +4577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam: Gundam Wars | 48518 | [48518-sd-gundam-gundam-wars.json](./48518-sd-gundam-gundam-wars.json) |
 | SD Gundam: Operation U.C. | 66590 | [66590-sd-gundam-operation-u-c.json](./66590-sd-gundam-operation-u-c.json) |
 | SD Gundam: Psycho Salamander no Kyoui | 40410 | [40410-sd-gundam-psycho-salamander-no-kyoui.json](./40410-sd-gundam-psycho-salamander-no-kyoui.json) |
-| SD Gundam: Scad Hammers | 5144 | [5144-sd-gundam-scad-hammers.json](./5144-sd-gundam-scad-hammers.json) |
 | SD Gundam: SD Sengokuden Kunitori Monogatari | 65385 | [65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json](./65385-sd-gundam-sd-sengokuden-kunitori-monogatari.json) |
 | SD Hero Soukessen: Taose! Aku no Gundan | 79278 | [79278-sd-hero-soukessen-taose-aku-no-gundan.json](./79278-sd-hero-soukessen-taose-aku-no-gundan.json) |
 | SD Hiryu | 351533 | [351533-sd-hiryu.json](./351533-sd-hiryu.json) |
@@ -7831,7 +7829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Madness | 44969 | [44969-shadow-madness.json](./44969-shadow-madness.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
 | Shadow Man Remastered | 131889 | [131889-shadow-man-remastered.json](./131889-shadow-man-remastered.json) |
-| Shadow Man: 2econd Coming | 3599 | [3599-shadow-man-2econd-coming.json](./3599-shadow-man-2econd-coming.json) |
 | Shadow Mansion | 306385 | [306385-shadow-mansion.json](./306385-shadow-mansion.json) |
 | Shadow Mansion 2 | 374144 | [374144-shadow-mansion-2.json](./374144-shadow-mansion-2.json) |
 | Shadow Mantis | 377086 | [377086-shadow-mantis.json](./377086-shadow-mantis.json) |
@@ -14206,7 +14203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
 | Ski Zoo | 244091 | [244091-ski-zoo.json](./244091-ski-zoo.json) |
 | Ski-Doo X-Team Racing | 80137 | [80137-ski-doo-x-team-racing.json](./80137-ski-doo-x-team-racing.json) |
-| Ski-Doo: Snowmobile Challenge | 5158 | [5158-ski-doo-snowmobile-challenge.json](./5158-ski-doo-snowmobile-challenge.json) |
 | Ski-E-O! Ski Resort Tycoon | 414510 | [414510-ski-e-o-ski-resort-tycoon.json](./414510-ski-e-o-ski-resort-tycoon.json) |
 | Ski-On-Neon | 65340 | [65340-ski-on-neon.json](./65340-ski-on-neon.json) |
 | Ski-Street Serenade | 393372 | [393372-ski-street-serenade.json](./393372-ski-street-serenade.json) |
@@ -16663,7 +16659,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smartsquid | 243732 | [243732-smartsquid.json](./243732-smartsquid.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
-| Smarty Pants | 5161 | [5161-smarty-pants.json](./5161-smarty-pants.json) |
 | SmartyTale 2D | 114604 | [114604-smartytale-2d.json](./114604-smartytale-2d.json) |
 | Smash | 208492 | [208492-smash.json](./208492-smash.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
@@ -18296,7 +18291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So 2 Mice Walk into a Bar... | 282702 | [282702-so-2-mice-walk-into-a-bar.json](./282702-so-2-mice-walk-into-a-bar.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
-| So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
 | So Blonde: Back to the Island | 50955 | [50955-so-blonde-back-to-the-island.json](./50955-so-blonde-back-to-the-island.json) |
 | So Close | 415626 | [415626-so-close.json](./415626-so-close.json) |
 | So Far | 60184 | [60184-so-far.json](./60184-so-far.json) |
@@ -23175,7 +23169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders | 281208 | [281208-space-raiders.json](./281208-space-raiders.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
 | Space Raiders | 320906 | [320906-space-raiders.json](./320906-space-raiders.json) |
-| Space Raiders | 4159 | [4159-space-raiders.json](./4159-space-raiders.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
@@ -24142,7 +24135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special girls | 178512 | [178512-special-girls.json](./178512-special-girls.json) |
 | Special Gulag Rescue Operation | 207669 | [207669-special-gulag-rescue-operation.json](./207669-special-gulag-rescue-operation.json) |
 | Special Harem Class | 396727 | [396727-special-harem-class.json](./396727-special-harem-class.json) |
-| Special Jinsei Game | 4161 | [4161-special-jinsei-game.json](./4161-special-jinsei-game.json) |
 | Special Meat | 411610 | [411610-special-meat.json](./411610-special-meat.json) |
 | Special Mission | 175822 | [175822-special-mission.json](./175822-special-mission.json) |
 | Special Mission | 360512 | [360512-special-mission.json](./360512-special-mission.json) |
@@ -25674,7 +25666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 165201 | [165201-spirits-and-spells.json](./165201-spirits-and-spells.json) |
-| Spirits & Spells | 4165 | [4165-spirits-and-spells.json](./4165-spirits-and-spells.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits Chronicles: Born in Flames - Collector's Edition | 188693 | [188693-spirits-chronicles-born-in-flames-collectors-edition.json](./188693-spirits-chronicles-born-in-flames-collectors-edition.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
@@ -27515,7 +27506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
 | Stak Atak | 158519 | [158519-stak-atak.json](./158519-stak-atak.json) |
 | Stak Bots - Breakout | 24401 | [24401-stak-bots-breakout.json](./24401-stak-bots-breakout.json) |
-| Stake: Fortune Fighters | 6158 | [6158-stake-fortune-fighters.json](./6158-stake-fortune-fighters.json) |
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
@@ -28314,7 +28304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Rivals | 24551 | [24551-star-trek-rivals.json](./24551-star-trek-rivals.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
-| Star Trek: Shattered Universe | 4168 | [4168-star-trek-shattered-universe.json](./4168-star-trek-shattered-universe.json) |
 | Star Trek: Starfleet Academy | 23946 | [23946-star-trek-starfleet-academy.json](./23946-star-trek-starfleet-academy.json) |
 | Star Trek: Starfleet Academy - Chekov's Lost Missions | 69647 | [69647-star-trek-starfleet-academy-chekovs-lost-missions.json](./69647-star-trek-starfleet-academy-chekovs-lost-missions.json) |
 | Star Trek: Starfleet Academy - Starship Bridge Simulator | 45878 | [45878-star-trek-starfleet-academy-starship-bridge-simulator.json](./45878-star-trek-starfleet-academy-starship-bridge-simulator.json) |
@@ -28580,7 +28569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Monopoly | 68817 | [68817-star-wars-monopoly.json](./68817-star-wars-monopoly.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
-| Star Wars: Obi-Wan | 5599 | [5599-star-wars-obi-wan.json](./5599-star-wars-obi-wan.json) |
 | Star Wars: Open World | 221020 | [221020-star-wars-open-world.json](./221020-star-wars-open-world.json) |
 | Star Wars: Original Trilogy | 220264 | [220264-star-wars-original-trilogy.json](./220264-star-wars-original-trilogy.json) |
 | Star Wars: Original Trilogy Game | 220266 | [220266-star-wars-original-trilogy-game.json](./220266-star-wars-original-trilogy-game.json) |
@@ -28960,7 +28948,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 138158 | [138158-starfighter.json](./138158-starfighter.json) |
 | Starfighter | 364088 | [364088-starfighter.json](./364088-starfighter.json) |
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
-| Starfighter 3000 | 4261 | [4261-starfighter-3000.json](./4261-starfighter-3000.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
 | Starfighter Aces | 170610 | [170610-starfighter-aces.json](./170610-starfighter-aces.json) |
 | Starfighter Arduxim | 31050 | [31050-starfighter-arduxim.json](./31050-starfighter-arduxim.json) |
@@ -31583,7 +31570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storks and Apes and Crocodiles | 406447 | [406447-storks-and-apes-and-crocodiles.json](./406447-storks-and-apes-and-crocodiles.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
-| Storm | 6071 | [6071-storm.json](./6071-storm.json) |
 | Storm | 76737 | [76737-storm.json](./76737-storm.json) |
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
 | Storm Across Europe | 70134 | [70134-storm-across-europe.json](./70134-storm-across-europe.json) |
@@ -41315,7 +41301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swtchr | 410652 | [410652-swtchr.json](./410652-swtchr.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | SX Beyond | 429519 | [429519-sx-beyond.json](./429519-sx-beyond.json) |
-| SX Superstar | 4193 | [4193-sx-superstar.json](./4193-sx-superstar.json) |
 | SX-1: Defender Line | 78897 | [78897-sx-1-defender-line.json](./78897-sx-1-defender-line.json) |
 | SX-2: Duits Africa Soukou Gundan | 84358 | [84358-sx-2-duits-africa-soukou-gundan.json](./84358-sx-2-duits-africa-soukou-gundan.json) |
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
