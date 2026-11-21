@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature is Hungry | 247137 | [247137-nature-is-hungry.json](./247137-nature-is-hungry.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
 | Nature Mahjong | 255921 | [255921-nature-mahjong.json](./255921-nature-mahjong.json) |
+| Nature Matters | 149299 | [149299-nature-matters.json](./149299-nature-matters.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
 | Nature Moms | 82168 | [82168-nature-moms.json](./82168-nature-moms.json) |
 | Nature of Dread | 403683 | [403683-nature-of-dread.json](./403683-nature-of-dread.json) |
@@ -4449,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Premium Edition | 136328 | [136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json](./136328-ni-no-kuni-ii-revenant-kingdom-premium-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
+| Ni no Kuni II: Revenant Kingdom - The Prince's Edition | 150149 | [150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json](./150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json) |
 | Ni no Kuni: Cross Worlds | 125759 | [125759-ni-no-kuni-cross-worlds.json](./125759-ni-no-kuni-cross-worlds.json) |
 | Ni no Kuni: Daibouken Monsters | 27275 | [27275-ni-no-kuni-daibouken-monsters.json](./27275-ni-no-kuni-daibouken-monsters.json) |
 | Ni no Kuni: Dominion of the Dark Djinn | 18856 | [18856-ni-no-kuni-dominion-of-the-dark-djinn.json](./18856-ni-no-kuni-dominion-of-the-dark-djinn.json) |
