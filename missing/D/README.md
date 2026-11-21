@@ -8968,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Case and Clown Bot in: The Express Killer | 74222 | [74222-detective-case-and-clown-bot-in-the-express-killer.json](./74222-detective-case-and-clown-bot-in-the-express-killer.json) |
 | Detective Chirpums: Private Investigator | 249702 | [249702-detective-chirpums-private-investigator.json](./249702-detective-chirpums-private-investigator.json) |
 | Detective Clean | 221819 | [221819-detective-clean.json](./221819-detective-clean.json) |
+| Detective Club: Carnival of Secrets | 426147 | [426147-detective-club-carnival-of-secrets.json](./426147-detective-club-carnival-of-secrets.json) |
 | Detective Club: Carnival of Secrets - Collector's Edition | 416774 | [416774-detective-club-carnival-of-secrets-collectors-edition.json](./416774-detective-club-carnival-of-secrets-collectors-edition.json) |
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
