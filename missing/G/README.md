@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Lords | 252696 | [252696-galactic-lords.json](./252696-galactic-lords.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
 | Galactic Love Utopia | 296696 | [296696-galactic-love-utopia.json](./296696-galactic-love-utopia.json) |
+| Galactic Mecha GunSuit | 420144 | [420144-galactic-mecha-gunsuit.json](./420144-galactic-mecha-gunsuit.json) |
 | Galactic Merchant | 201626 | [201626-galactic-merchant.json](./201626-galactic-merchant.json) |
 | Galactic Mining Corp | 132093 | [132093-galactic-mining-corp.json](./132093-galactic-mining-corp.json) |
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
@@ -2652,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gavis Arenarium | 336866 | [336866-gavis-arenarium.json](./336866-gavis-arenarium.json) |
 | Gavril | 253046 | [253046-gavril.json](./253046-gavril.json) |
 | GawaiiGo | 340294 | [340294-gawaiigo.json](./340294-gawaiigo.json) |
+| Gawble Gunrange | 420147 | [420147-gawble-gunrange.json](./420147-gawble-gunrange.json) |
 | Gawr Gura: Quest for Bread | 217217 | [217217-gawr-gura-quest-for-bread.json](./217217-gawr-gura-quest-for-bread.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
@@ -3043,7 +3045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Shop | 54050 | [54050-gem-shop.json](./54050-gem-shop.json) |
-| Gem Smashers | 6419 | [6419-gem-smashers.json](./6419-gem-smashers.json) |
 | Gem Smashers | 92200 | [92200-gem-smashers.json](./92200-gem-smashers.json) |
 | Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
 | Gem Stone Legend | 14775 | [14775-gem-stone-legend.json](./14775-gem-stone-legend.json) |
@@ -6502,7 +6503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
-| Go! Go! Beckham! Adventure on Soccer Island | 6421 | [6421-go-go-beckham-adventure-on-soccer-island.json](./6421-go-go-beckham-adventure-on-soccer-island.json) |
 | Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
 | Go! Go! Break Steady | 23031 | [23031-go-go-break-steady.json](./23031-go-go-break-steady.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
@@ -7626,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
 | Goldfish Go-Karts | 166298 | [166298-goldfish-go-karts.json](./166298-goldfish-go-karts.json) |
+| Goldfish Gunner | 420145 | [420145-goldfish-gunner.json](./420145-goldfish-gunner.json) |
 | Goldfish Pinball Blast | 107075 | [107075-goldfish-pinball-blast.json](./107075-goldfish-pinball-blast.json) |
 | Goldfish Simulator | 407172 | [407172-goldfish-simulator.json](./407172-goldfish-simulator.json) |
 | GoldfishFlap | 172677 | [172677-goldfishflap.json](./172677-goldfishflap.json) |
@@ -12371,6 +12372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Buckler | 211542 | [211542-gun-and-buckler.json](./211542-gun-and-buckler.json) |
 | Gun & Dungeons | 207993 | [207993-gun-and-dungeons.json](./207993-gun-and-dungeons.json) |
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
+| Gun a Rat | 420149 | [420149-gun-a-rat.json](./420149-gun-a-rat.json) |
 | Gun and Buckler | 217237 | [217237-gun-and-buckler.json](./217237-gun-and-buckler.json) |
 | Gun and Girl | 249507 | [249507-gun-and-girl.json](./249507-gun-and-girl.json) |
 | Gun And Sword | 292473 | [292473-gun-and-sword.json](./292473-gun-and-sword.json) |
@@ -12417,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
 | Gun Gladiators | 98121 | [98121-gun-gladiators.json](./98121-gun-gladiators.json) |
+| Gun Goose | 420138 | [420138-gun-goose.json](./420138-gun-goose.json) |
 | Gun Gun Create | 159962 | [159962-gun-gun-create.json](./159962-gun-gun-create.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
@@ -12501,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
 | Gun Witch | 142183 | [142183-gun-witch.json](./142183-gun-witch.json) |
 | Gun X Gunner | 384153 | [384153-gun-x-gunner.json](./384153-gun-x-gunner.json) |
+| Gun X Race | 420129 | [420129-gun-x-race.json](./420129-gun-x-race.json) |
 | Gun Zombie: Halloween | 194054 | [194054-gun-zombie-halloween.json](./194054-gun-zombie-halloween.json) |
 | Gun-A-Gang 360° | 350591 | [350591-gun-a-gang-360.json](./350591-gun-a-gang-360.json) |
 | Gun-Reviper | 164067 | [164067-gun-reviper.json](./164067-gun-reviper.json) |
@@ -12629,6 +12633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundemoniums | 187858 | [187858-gundemoniums.json](./187858-gundemoniums.json) |
 | Gunderdome | 159758 | [159758-gunderdome.json](./159758-gunderdome.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
+| Gunderworld | 420125 | [420125-gunderworld.json](./420125-gunderworld.json) |
 | Gundham's Calamitous Quest for Coochie | 227212 | [227212-gundhams-calamitous-quest-for-coochie.json](./227212-gundhams-calamitous-quest-for-coochie.json) |
 | Gundhara: Juudan Arashi | 37336 | [37336-gundhara-juudan-arashi.json](./37336-gundhara-juudan-arashi.json) |
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
@@ -12728,6 +12733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunlands | 419289 | [419289-gunlands.json](./419289-gunlands.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlimb | 80115 | [80115-gunlimb.json](./80115-gunlimb.json) |
+| Gunline | 420122 | [420122-gunline.json](./420122-gunline.json) |
 | GunLives Shooting | 241808 | [241808-gunlives-shooting.json](./241808-gunlives-shooting.json) |
 | Gunlock | 75794 | [75794-gunlock.json](./75794-gunlock.json) |
 | Gunlocked | 199248 | [199248-gunlocked.json](./199248-gunlocked.json) |
@@ -12758,6 +12764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmetal Arcadia | 36176 | [36176-gunmetal-arcadia.json](./36176-gunmetal-arcadia.json) |
 | Gunmetal Arcadia Zero | 22713 | [22713-gunmetal-arcadia-zero.json](./22713-gunmetal-arcadia-zero.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
+| Gunmetal Rails | 420137 | [420137-gunmetal-rails.json](./420137-gunmetal-rails.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
 | Gunner | 197555 | [197555-gunner.json](./197555-gunner.json) |
@@ -12870,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
 | Guns Royale | 77522 | [77522-guns-royale.json](./77522-guns-royale.json) |
+| Guns That Go Ribbit! | 420113 | [420113-guns-that-go-ribbit.json](./420113-guns-that-go-ribbit.json) |
 | Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
 | Guns Up! | 11200 | [11200-guns-up.json](./11200-guns-up.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
@@ -12983,6 +12991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
 | Gunstorm II | 295591 | [295591-gunstorm-ii.json](./295591-gunstorm-ii.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
+| Gunstrive Tournament | 420123 | [420123-gunstrive-tournament.json](./420123-gunstrive-tournament.json) |
 | Gunsuit | 58934 | [58934-gunsuit.json](./58934-gunsuit.json) |
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
@@ -13015,6 +13024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Records Cychronicle: Song Pack 5 | 293436 | [293436-gunvolt-records-cychronicle-song-pack-5.json](./293436-gunvolt-records-cychronicle-song-pack-5.json) |
 | Gunvolt Records Cychronicle: Song Pack 6 | 294845 | [294845-gunvolt-records-cychronicle-song-pack-6.json](./294845-gunvolt-records-cychronicle-song-pack-6.json) |
 | Gunvolt Records Cychronicle: Song Pack 7 | 294846 | [294846-gunvolt-records-cychronicle-song-pack-7.json](./294846-gunvolt-records-cychronicle-song-pack-7.json) |
+| Gunvolution | 420151 | [420151-gunvolution.json](./420151-gunvolution.json) |
 | GunWagon | 191920 | [191920-gunwagon.json](./191920-gunwagon.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld | 24561 | [24561-gunworld.json](./24561-gunworld.json) |
