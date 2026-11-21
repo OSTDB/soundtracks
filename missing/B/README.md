@@ -15457,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderzone | 52482 | [52482-borderzone.json](./52482-borderzone.json) |
 | Bore | 417776 | [417776-bore.json](./417776-bore.json) |
 | Bore Dome | 129431 | [129431-bore-dome.json](./129431-bore-dome.json) |
+| Bore to the Core | 426228 | [426228-bore-to-the-core.json](./426228-bore-to-the-core.json) |
 | Boreal Blade | 122099 | [122099-boreal-blade.json](./122099-boreal-blade.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae Act 0 | 404353 | [404353-boreal-tenebrae-act-0.json](./404353-boreal-tenebrae-act-0.json) |
