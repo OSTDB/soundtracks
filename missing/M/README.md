@@ -5641,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masha and the Bear: Dentist | 227487 | [227487-masha-and-the-bear-dentist.json](./227487-masha-and-the-bear-dentist.json) |
 | Masha Rescues Grandma | 30325 | [30325-masha-rescues-grandma.json](./30325-masha-rescues-grandma.json) |
 | Mashed: Drive to Survive | 5816 | [5816-mashed-drive-to-survive.json](./5816-mashed-drive-to-survive.json) |
+| Mashed: Fully Loaded | 22307 | [22307-mashed-fully-loaded.json](./22307-mashed-fully-loaded.json) |
 | Mashin Eiyuuden Wataru | 280846 | [280846-mashin-eiyuuden-wataru.json](./280846-mashin-eiyuuden-wataru.json) |
 | Mashin Eiyuuden Wataru 2: Gekisen! Ryuusei-maru vs. Kokuryuukaku | 284457 | [284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json](./284457-mashin-eiyuuden-wataru-2-gekisen-ryuusei-maru-vs-kokuryuukaku.json) |
 | Mashin Eiyuuden Wataru 2: Seikaizan Pinball! | 284452 | [284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json](./284452-mashin-eiyuuden-wataru-2-seikaizan-pinball.json) |
@@ -6613,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Mato Anomalies: Digital Deluxe Edition | 241414 | [241414-mato-anomalies-digital-deluxe-edition.json](./241414-mato-anomalies-digital-deluxe-edition.json) |
 | Mato Anomalies: Digital Shadows | 260030 | [260030-mato-anomalies-digital-shadows.json](./260030-mato-anomalies-digital-shadows.json) |
+| Mato Anomalies: Treasure from Heaven | 430376 | [430376-mato-anomalies-treasure-from-heaven.json](./430376-mato-anomalies-treasure-from-heaven.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
@@ -7375,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazmorras de Tokat | 421586 | [421586-mazmorras-de-tokat.json](./421586-mazmorras-de-tokat.json) |
 | Mazogs | 246714 | [246714-mazogs.json](./246714-mazogs.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
+| Mazrap | 430866 | [430866-mazrap.json](./430866-mazrap.json) |
 | Mazy | 134189 | [134189-mazy.json](./134189-mazy.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
@@ -14573,6 +14576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
 | Minesweeper Classic | 96601 | [96601-minesweeper-classic.json](./96601-minesweeper-classic.json) |
 | Minesweeper Classy | 159756 | [159756-minesweeper-classy.json](./159756-minesweeper-classy.json) |
+| Minesweeper Collection | 430849 | [430849-minesweeper-collection.json](./430849-minesweeper-collection.json) |
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
@@ -18539,6 +18543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 3: Monster Roadtrip XXL | 260900 | [260900-monster-prom-3-monster-roadtrip-xxl.json](./260900-monster-prom-3-monster-roadtrip-xxl.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
+| Monster Prom 4: Monster Con - Aaravi & Milo | 430386 | [430386-monster-prom-4-monster-con-aaravi-and-milo.json](./430386-monster-prom-4-monster-con-aaravi-and-milo.json) |
 | Monster Prom 4: Monster Con XXL | 375413 | [375413-monster-prom-4-monster-con-xxl.json](./375413-monster-prom-4-monster-con-xxl.json) |
 | Monster Prom 5: Monster Retreat | 425266 | [425266-monster-prom-5-monster-retreat.json](./425266-monster-prom-5-monster-retreat.json) |
 | Monster Prom Reverse | 130512 | [130512-monster-prom-reverse.json](./130512-monster-prom-reverse.json) |
