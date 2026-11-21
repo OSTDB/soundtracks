@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Journey: Nitro | 219176 | [219176-race-journey-nitro.json](./219176-race-journey-nitro.json) |
 | Race Kings | 174929 | [174929-race-kings.json](./174929-race-kings.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
+| Race Manager Online | 422894 | [422894-race-manager-online.json](./422894-race-manager-online.json) |
 | Race Mania | 72842 | [72842-race-mania.json](./72842-race-mania.json) |
 | Race Maniacs | 132605 | [132605-race-maniacs.json](./132605-race-maniacs.json) |
 | Race Master 3D | 421332 | [421332-race-master-3d.json](./421332-race-master-3d.json) |
@@ -13909,6 +13910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
 | Rules of Survival | 77435 | [77435-rules-of-survival.json](./77435-rules-of-survival.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
+| Rules of the Inn | 422878 | [422878-rules-of-the-inn.json](./422878-rules-of-the-inn.json) |
 | Rules of The Mafia: Trade & Blood | 113856 | [113856-rules-of-the-mafia-trade-and-blood.json](./113856-rules-of-the-mafia-trade-and-blood.json) |
 | Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
