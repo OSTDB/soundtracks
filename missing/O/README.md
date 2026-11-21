@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OddBallers | 119089 | [119089-oddballers.json](./119089-oddballers.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
 | Oddbat | 324253 | [324253-oddbat.json](./324253-oddbat.json) |
+| OddBrawl | 424464 | [424464-oddbrawl.json](./424464-oddbrawl.json) |
 | Oddcore | 327060 | [327060-oddcore.json](./327060-oddcore.json) |
 | Oddest Sea | 133171 | [133171-oddest-sea.json](./133171-oddest-sea.json) |
 | OddFauna: Secret of the Terrabeast | 192830 | [192830-oddfauna-secret-of-the-terrabeast.json](./192830-oddfauna-secret-of-the-terrabeast.json) |
