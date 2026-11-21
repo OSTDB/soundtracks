@@ -4266,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Metal | 237094 | [237094-dead-metal.json](./237094-dead-metal.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
+| Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
 | Dead Moon | 42111 | [42111-dead-moon.json](./42111-dead-moon.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Mosaic | 428432 | [428432-dead-mosaic.json](./428432-dead-mosaic.json) |
@@ -9415,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Crush | 6827 | [6827-devils-crush.json](./6827-devils-crush.json) |
+| Devil's Deck | 119687 | [119687-devils-deck.json](./119687-devils-deck.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
 | Devil's Deck: Polar Night Falls | 284876 | [284876-devils-deck-polar-night-falls.json](./284876-devils-deck-polar-night-falls.json) |
 | Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
@@ -10262,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
+| Die Young: Prologue | 118781 | [118781-die-young-prologue.json](./118781-die-young-prologue.json) |
 | Die Zuschauer | 405657 | [405657-die-zuschauer.json](./405657-die-zuschauer.json) |
 | Die-abolical | 306844 | [306844-die-abolical.json](./306844-die-abolical.json) |
 | Die-Rise | 245277 | [245277-die-rise.json](./245277-die-rise.json) |
