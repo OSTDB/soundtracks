@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Your Friends Back Home | 208267 | [208267-walk-your-friends-back-home.json](./208267-walk-your-friends-back-home.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walk-In: Fold It Together | 423543 | [423543-walk-in-fold-it-together.json](./423543-walk-in-fold-it-together.json) |
+| Walk-Off 199X | 424370 | [424370-walk-off-199x.json](./424370-walk-off-199x.json) |
 | Walkable Cities | 410630 | [410630-walkable-cities.json](./410630-walkable-cities.json) |
 | Walkabout Mini Golf: 20,000 Leagues Under the Sea | 220525 | [220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json](./220525-walkabout-mini-golf-20-000-leagues-under-the-sea.json) |
 | Walkabout Mini Golf: 8-Bit Lair | 320429 | [320429-walkabout-mini-golf-8-bit-lair.json](./320429-walkabout-mini-golf-8-bit-lair.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Cat Town Mystery | 287704 | [287704-white-cat-town-mystery.json](./287704-white-cat-town-mystery.json) |
 | White Chamber | 247598 | [247598-white-chamber.json](./247598-white-chamber.json) |
 | White Chocolate | 330247 | [330247-white-chocolate.json](./330247-white-chocolate.json) |
+| White Christmas | 424439 | [424439-white-christmas.json](./424439-white-christmas.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Clothes: Purify | 427140 | [427140-white-clothes-purify.json](./427140-white-clothes-purify.json) |
 | White Clouds | 414152 | [414152-white-clouds.json](./414152-white-clouds.json) |
