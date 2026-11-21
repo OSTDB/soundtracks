@@ -3679,7 +3679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Header Goal VR: Being Axel Rix | 31177 | [31177-header-goal-vr-being-axel-rix.json](./31177-header-goal-vr-being-axel-rix.json) |
 | HeadHorse Legacy | 249908 | [249908-headhorse-legacy.json](./249908-headhorse-legacy.json) |
 | Headhunter | 4350 | [4350-headhunter.json](./4350-headhunter.json) |
-| Headhunter: Redemption | 5860 | [5860-headhunter-redemption.json](./5860-headhunter-redemption.json) |
 | HeadHunters | 373751 | [373751-headhunters.json](./373751-headhunters.json) |
 | Headhunters: Bang Bang | 323694 | [323694-headhunters-bang-bang.json](./323694-headhunters-bang-bang.json) |
 | Headhunting | 345130 | [345130-headhunting.json](./345130-headhunting.json) |
@@ -8880,7 +8879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
 | High School Musical: Livin' the Dream | 49478 | [49478-high-school-musical-livin-the-dream.json](./49478-high-school-musical-livin-the-dream.json) |
-| High School Musical: Sing It! | 4808 | [4808-high-school-musical-sing-it.json](./4808-high-school-musical-sing-it.json) |
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
 | High School of Memories | 165007 | [165007-high-school-of-memories.json](./165007-high-school-of-memories.json) |
 | High School of the Dead Day 0 | 402943 | [402943-high-school-of-the-dead-day-0.json](./402943-high-school-of-the-dead-day-0.json) |
@@ -13678,7 +13676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
 | Hummdinger | 354657 | [354657-hummdinger.json](./354657-hummdinger.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
-| Hummer Badlands | 5864 | [5864-hummer-badlands.json](./5864-hummer-badlands.json) |
 | Hummer Extreme Edition | 233284 | [233284-hummer-extreme-edition.json](./233284-hummer-extreme-edition.json) |
 | Hummingbird Garden | 388542 | [388542-hummingbird-garden.json](./388542-hummingbird-garden.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
