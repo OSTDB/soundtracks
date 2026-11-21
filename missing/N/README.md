@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night | 93961 | [93961-night.json](./93961-night.json) |
 | Night & Day | 121219 | [121219-night-and-day.json](./121219-night-and-day.json) |
 | Night Agent: I'm the Savior | 266266 | [266266-night-agent-im-the-savior.json](./266266-night-agent-im-the-savior.json) |
+| Night Alley | 418756 | [418756-night-alley.json](./418756-night-alley.json) |
 | Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Banban's | 274252 | [274252-night-at-banbans.json](./274252-night-at-banbans.json) |
@@ -6646,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Demon | 405755 | [405755-no-more-demon.json](./405755-no-more-demon.json) |
 | No More Fathers | 210955 | [210955-no-more-fathers.json](./210955-no-more-fathers.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
+| No More Ground | 418937 | [418937-no-more-ground.json](./418937-no-more-ground.json) |
 | No More Grudges | 349053 | [349053-no-more-grudges.json](./349053-no-more-grudges.json) |
 | No More Heroes | 2272 | [2272-no-more-heroes.json](./2272-no-more-heroes.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
