@@ -231,7 +231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Escape Room | 83004 | [83004-naked-escape-room.json](./83004-naked-escape-room.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
-| Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
 | Naked Porn Battle | 202205 | [202205-naked-porn-battle.json](./202205-naked-porn-battle.json) |
 | Naked Puzzle: Girls | 367928 | [367928-naked-puzzle-girls.json](./367928-naked-puzzle-girls.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
@@ -919,7 +918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nascar Racing | 199011 | [199011-nascar-racing.json](./199011-nascar-racing.json) |
 | NASCAR Racing | 45224 | [45224-nascar-racing.json](./45224-nascar-racing.json) |
 | NASCAR Racing 2 | 802 | [802-nascar-racing-2.json](./802-nascar-racing-2.json) |
-| NASCAR Racing 2002 Season | 803 | [803-nascar-racing-2002-season.json](./803-nascar-racing-2002-season.json) |
 | NASCAR Racing 2003 Season | 804 | [804-nascar-racing-2003-season.json](./804-nascar-racing-2003-season.json) |
 | NASCAR Racing 3 | 805 | [805-nascar-racing-3.json](./805-nascar-racing-3.json) |
 | NASCAR Racing 3 :Craftsman Truck Series - Expansion Pack | 69538 | [69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json](./69538-nascar-racing-3-craftsman-truck-series-expansion-pack.json) |
@@ -1277,7 +1275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Attack | 93260 | [93260-naval-attack.json](./93260-naval-attack.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
 | Naval Battle: Mission Commander | 403031 | [403031-naval-battle-mission-commander.json](./403031-naval-battle-mission-commander.json) |
-| Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
 | Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
 | Naval Campaigns Jutland | 141670 | [141670-naval-campaigns-jutland.json](./141670-naval-campaigns-jutland.json) |
 | Naval Campaigns Kriegsmarine | 202918 | [202918-naval-campaigns-kriegsmarine.json](./202918-naval-campaigns-kriegsmarine.json) |
@@ -2650,7 +2647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neolithic Dawn | 224671 | [224671-neolithic-dawn.json](./224671-neolithic-dawn.json) |
 | Neolithic First City-States | 220780 | [220780-neolithic-first-city-states.json](./220780-neolithic-first-city-states.json) |
 | Neolithic: To the End | 159762 | [159762-neolithic-to-the-end.json](./159762-neolithic-to-the-end.json) |
-| Neomorph | 127679 | [127679-neomorph.json](./127679-neomorph.json) |
 | Neon | 172056 | [172056-neon.json](./172056-neon.json) |
 | Neon | 183338 | [183338-neon.json](./183338-neon.json) |
 | Neon | 232597 | [232597-neon.json](./232597-neon.json) |
@@ -3108,7 +3104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Legends: Digital Deluxe Edition | 218844 | [218844-nerf-legends-digital-deluxe-edition.json](./218844-nerf-legends-digital-deluxe-edition.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
 | Nerf Legends: Ultimate Nerf Bundle | 259810 | [259810-nerf-legends-ultimate-nerf-bundle.json](./259810-nerf-legends-ultimate-nerf-bundle.json) |
-| Nerf N-Strike | 2665 | [2665-nerf-n-strike.json](./2665-nerf-n-strike.json) |
 | Nerf N-Strike Elite | 2666 | [2666-nerf-n-strike-elite.json](./2666-nerf-n-strike-elite.json) |
 | Nerf N-Strike: Double Blast Bundle | 268392 | [268392-nerf-n-strike-double-blast-bundle.json](./268392-nerf-n-strike-double-blast-bundle.json) |
 | Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
