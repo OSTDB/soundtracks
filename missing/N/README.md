@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 09 | 388398 | [388398-nascar-09.json](./388398-nascar-09.json) |
 | NASCAR 09 | 388399 | [388399-nascar-09.json](./388399-nascar-09.json) |
 | NASCAR 09 | 7104 | [7104-nascar-09.json](./7104-nascar-09.json) |
+| NASCAR 15: Victory Edition | 83881 | [83881-nascar-15-victory-edition.json](./83881-nascar-15-victory-edition.json) |
 | NASCAR 2000 | 3548 | [3548-nascar-2000.json](./3548-nascar-2000.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
@@ -1563,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
 | NBA Live 15 | 7717 | [7717-nba-live-15.json](./7717-nba-live-15.json) |
 | NBA Live 18 | 36957 | [36957-nba-live-18.json](./36957-nba-live-18.json) |
+| NBA Live 18: The One Edition | 82546 | [82546-nba-live-18-the-one-edition.json](./82546-nba-live-18-the-one-edition.json) |
 | NBA Live 19 | 103275 | [103275-nba-live-19.json](./103275-nba-live-19.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
@@ -8012,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Turn | 404367 | [404367-not-turn.json](./404367-not-turn.json) |
 | Not Us | 394987 | [394987-not-us.json](./394987-not-us.json) |
 | Not without my donuts | 35338 | [35338-not-without-my-donuts.json](./35338-not-without-my-donuts.json) |
+| Not Without My Poop | 83525 | [83525-not-without-my-poop.json](./83525-not-without-my-poop.json) |
 | Not Without You | 65389 | [65389-not-without-you.json](./65389-not-without-you.json) |
 | Not Yet | 405941 | [405941-not-yet.json](./405941-not-yet.json) |
 | Not You Mary Lu | 181455 | [181455-not-you-mary-lu.json](./181455-not-you-mary-lu.json) |
@@ -8862,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVA: Mission Vorwärts Immer! | 96541 | [96541-nva-mission-vorwarts-immer.json](./96541-nva-mission-vorwarts-immer.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
+| NVL | 83203 | [83203-nvl.json](./83203-nvl.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
 | Nvwa | 212087 | [212087-nvwa.json](./212087-nvwa.json) |
 | NW2Online | 77753 | [77753-nw2online.json](./77753-nw2online.json) |
