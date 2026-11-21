@@ -11809,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconnect | 314558 | [314558-disconnect.json](./314558-disconnect.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
+| Disconnected | 420743 | [420743-disconnected.json](./420743-disconnected.json) |
 | Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
 | Discontinue | 119858 | [119858-discontinue.json](./119858-discontinue.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
@@ -15100,6 +15101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Run 3D | 174994 | [174994-doodle-run-3d.json](./174994-doodle-run-3d.json) |
 | Doodle Saver | 252942 | [252942-doodle-saver.json](./252942-doodle-saver.json) |
 | Doodle Smash! | 232578 | [232578-doodle-smash.json](./232578-doodle-smash.json) |
+| Doodle Snitch | 420117 | [420117-doodle-snitch.json](./420117-doodle-snitch.json) |
 | Doodle Sprint! | 134445 | [134445-doodle-sprint.json](./134445-doodle-sprint.json) |
 | Doodle Streets: London 1950's | 275371 | [275371-doodle-streets-london-1950s.json](./275371-doodle-streets-london-1950s.json) |
 | Doodle Tanks | 76181 | [76181-doodle-tanks.json](./76181-doodle-tanks.json) |
