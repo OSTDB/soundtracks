@@ -440,7 +440,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
 | Kajun's Lucid Room | 309566 | [309566-kajuns-lucid-room.json](./309566-kajuns-lucid-room.json) |
 | Kakapo-Go! | 112277 | [112277-kakapo-go.json](./112277-kakapo-go.json) |
-| Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegae no Nai Kimi he | 396471 | [396471-kakegae-no-nai-kimi-he.json](./396471-kakegae-no-nai-kimi-he.json) |
 | Kakegurui All In | 395906 | [395906-kakegurui-all-in.json](./395906-kakegurui-all-in.json) |
@@ -946,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
 | Kao the Kangaroo: Anniversary Edition | 248239 | [248239-kao-the-kangaroo-anniversary-edition.json](./248239-kao-the-kangaroo-anniversary-edition.json) |
+| Kao the Kangaroo: Bend the Roo'les | 247577 | [247577-kao-the-kangaroo-bend-the-rooles.json](./247577-kao-the-kangaroo-bend-the-rooles.json) |
 | Kao the Kangaroo: Kaollector Edition | 203514 | [203514-kao-the-kangaroo-kaollector-edition.json](./203514-kao-the-kangaroo-kaollector-edition.json) |
 | Kao the Kangaroo: Mystery of the Volcano | 63999 | [63999-kao-the-kangaroo-mystery-of-the-volcano.json](./63999-kao-the-kangaroo-mystery-of-the-volcano.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
@@ -2620,7 +2620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kid's Safety With George Blessure | 120988 | [120988-kids-safety-with-george-blessure.json](./120988-kids-safety-with-george-blessure.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
-| Kidbash: Super Legend | 275736 | [275736-kidbash-super-legend.json](./275736-kidbash-super-legend.json) |
 | Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
 | Kidd Copter | 381326 | [381326-kidd-copter.json](./381326-kidd-copter.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
@@ -2900,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Him! Online Wars | 102880 | [102880-kill-him-online-wars.json](./102880-kill-him-online-wars.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
 | Kill it with Fire 2 | 252847 | [252847-kill-it-with-fire-2.json](./252847-kill-it-with-fire-2.json) |
+| Kill It With Fire VR | 239612 | [239612-kill-it-with-fire-vr.json](./239612-kill-it-with-fire-vr.json) |
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
@@ -2943,7 +2943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Dream | 318292 | [318292-kill-the-dream.json](./318292-kill-the-dream.json) |
 | Kill the Emoji | 54999 | [54999-kill-the-emoji.json](./54999-kill-the-emoji.json) |
 | Kill The Emoji 2 | 342417 | [342417-kill-the-emoji-2.json](./342417-kill-the-emoji-2.json) |
-| Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
 | Kill The Emperor | 398173 | [398173-kill-the-emperor.json](./398173-kill-the-emperor.json) |
 | Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
@@ -3845,7 +3844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - Special Edition | 136164 | [136164-kingdom-come-deliverance-special-edition.json](./136164-kingdom-come-deliverance-special-edition.json) |
 | Kingdom Come: Deliverance - The Amorous Adventures of Bold Sir Hans Capon | 116991 | [116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json](./116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json) |
 | Kingdom Come: Deliverance - Treasures of the Past | 156157 | [156157-kingdom-come-deliverance-treasures-of-the-past.json](./156157-kingdom-come-deliverance-treasures-of-the-past.json) |
-| Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
@@ -7280,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuzgakai's Dungeon | 215794 | [215794-kuzgakais-dungeon.json](./215794-kuzgakais-dungeon.json) |
 | Kuznetsk 1997: Detective Visual Novel | 419701 | [419701-kuznetsk-1997-detective-visual-novel.json](./419701-kuznetsk-1997-detective-visual-novel.json) |
 | Kvaka-zadavaka | 367906 | [367906-kvaka-zadavaka.json](./367906-kvaka-zadavaka.json) |
+| Kvark | 244262 | [244262-kvark.json](./244262-kvark.json) |
 | Kvlt | 216390 | [216390-kvlt.json](./216390-kvlt.json) |
 | Kwaan | 36092 | [36092-kwaan.json](./36092-kwaan.json) |
 | Kwad | 408730 | [408730-kwad.json](./408730-kwad.json) |
