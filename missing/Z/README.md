@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
 | Zombie Crisis 3D | 91113 | [91113-zombie-crisis-3d.json](./91113-zombie-crisis-3d.json) |
 | Zombie Crisis: Survival | 104234 | [104234-zombie-crisis-survival.json](./104234-zombie-crisis-survival.json) |
+| Zombie Cropse | 425015 | [425015-zombie-cropse.json](./425015-zombie-cropse.json) |
 | Zombie Crossing | 65367 | [65367-zombie-crossing.json](./65367-zombie-crossing.json) |
 | Zombie Crow 3D | 24800 | [24800-zombie-crow-3d.json](./24800-zombie-crow-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
