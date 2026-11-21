@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Rangedrifter | 401275 | [401275-rangedrifter.json](./401275-rangedrifter.json) |
 | Ranger | 388780 | [388780-ranger.json](./388780-ranger.json) |
+| Ranger Commando | 420831 | [420831-ranger-commando.json](./420831-ranger-commando.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranger Force | 304422 | [304422-ranger-force.json](./304422-ranger-force.json) |
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
@@ -3838,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rearmed Trials | 231994 | [231994-rearmed-trials.json](./231994-rearmed-trials.json) |
 | Rearranged | 382275 | [382275-rearranged.json](./382275-rearranged.json) |
 | Rearview Mirror | 283609 | [283609-rearview-mirror.json](./283609-rearview-mirror.json) |
+| Reason & Rhyme | 420846 | [420846-reason-and-rhyme.json](./420846-reason-and-rhyme.json) |
 | Reason Unfound | 292477 | [292477-reason-unfound.json](./292477-reason-unfound.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reasonable Claustrophobia | 182922 | [182922-reasonable-claustrophobia.json](./182922-reasonable-claustrophobia.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Planet Rampart | 311205 | [311205-red-planet-rampart.json](./311205-red-planet-rampart.json) |
 | Red Planet: Survive | 327919 | [327919-red-planet-survive.json](./327919-red-planet-survive.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
+| Red Princess | 420820 | [420820-red-princess.json](./420820-red-princess.json) |
 | Red Protocol | 412491 | [412491-red-protocol.json](./412491-red-protocol.json) |
 | Red Rage | 166416 | [166416-red-rage.json](./166416-red-rage.json) |
 | Red Rampant | 304417 | [304417-red-rampant.json](./304417-red-rampant.json) |
