@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Order | 195783 | [195783-out-of-order.json](./195783-out-of-order.json) |
 | Out of Order | 73544 | [73544-out-of-order.json](./73544-out-of-order.json) |
 | Out of Order Zero | 377068 | [377068-out-of-order-zero.json](./377068-out-of-order-zero.json) |
+| Out of Order: A Vending Machine Roguelike | 423831 | [423831-out-of-order-a-vending-machine-roguelike.json](./423831-out-of-order-a-vending-machine-roguelike.json) |
 | Out of Ore | 208668 | [208668-out-of-ore.json](./208668-out-of-ore.json) |
 | Out of Ore: Mine Decoration Supporter Pack | 284881 | [284881-out-of-ore-mine-decoration-supporter-pack.json](./284881-out-of-ore-mine-decoration-supporter-pack.json) |
 | Out of Place | 121821 | [121821-out-of-place.json](./121821-out-of-place.json) |
