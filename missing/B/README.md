@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo Grove | 420177 | [420177-bamboo-grove.json](./420177-bamboo-grove.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
 | Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
+| Bamboo Ronin: The Last Cut | 427923 | [427923-bamboo-ronin-the-last-cut.json](./427923-bamboo-ronin-the-last-cut.json) |
 | Bamboo Spring: A Story Cast in Bronze | 423396 | [423396-bamboo-spring-a-story-cast-in-bronze.json](./423396-bamboo-spring-a-story-cast-in-bronze.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamboozle! | 409790 | [409790-bamboozle.json](./409790-bamboozle.json) |
@@ -6940,6 +6941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 142560 | [142560-before-the-dawn.json](./142560-before-the-dawn.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
+| Before the Death | 427915 | [427915-before-the-death.json](./427915-before-the-death.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
 | Before the End | 309412 | [309412-before-the-end.json](./309412-before-the-end.json) |
 | Before the End | 350355 | [350355-before-the-end.json](./350355-before-the-end.json) |
@@ -15581,6 +15583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
 | Boss Hunter: Revenge is Sweet! | 206465 | [206465-boss-hunter-revenge-is-sweet.json](./206465-boss-hunter-revenge-is-sweet.json) |
 | Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
+| Boss Lab | 427906 | [427906-boss-lab.json](./427906-boss-lab.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss Monster | 35459 | [35459-boss-monster.json](./35459-boss-monster.json) |
 | Boss Must DIE!! | 101847 | [101847-boss-must-die.json](./101847-boss-must-die.json) |
