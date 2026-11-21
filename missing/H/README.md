@@ -3218,7 +3218,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Lands | 178701 | [178701-haunted-lands.json](./178701-haunted-lands.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
+| Haunted Legends: Faulty Creatures - Collector's Edition | 426154 | [426154-haunted-legends-faulty-creatures-collectors-edition.json](./426154-haunted-legends-faulty-creatures-collectors-edition.json) |
 | Haunted Legends: The Black Hawk | 187920 | [187920-haunted-legends-the-black-hawk.json](./187920-haunted-legends-the-black-hawk.json) |
+| Haunted Legends: The Black Hawk - Collector's Edition | 426155 | [426155-haunted-legends-the-black-hawk-collectors-edition.json](./426155-haunted-legends-the-black-hawk-collectors-edition.json) |
 | Haunted Legends: The Bronze Horseman | 139202 | [139202-haunted-legends-the-bronze-horseman.json](./139202-haunted-legends-the-bronze-horseman.json) |
 | Haunted Legends: The Bronze Horseman - Collector's Edition | 28688 | [28688-haunted-legends-the-bronze-horseman-collectors-edition.json](./28688-haunted-legends-the-bronze-horseman-collectors-edition.json) |
 | Haunted Legends: The Call of Despair - Collector's Edition | 249605 | [249605-haunted-legends-the-call-of-despair-collectors-edition.json](./249605-haunted-legends-the-call-of-despair-collectors-edition.json) |
@@ -8081,9 +8083,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Everest | 16177 | [16177-hidden-expedition-everest.json](./16177-hidden-expedition-everest.json) |
+| Hidden Expedition: Midgard's End - Collector's Edition | 426156 | [426156-hidden-expedition-midgards-end-collectors-edition.json](./426156-hidden-expedition-midgards-end-collectors-edition.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
 | Hidden Expedition: Neptune's Gift - Collector's Edition | 357685 | [357685-hidden-expedition-neptunes-gift-collectors-edition.json](./357685-hidden-expedition-neptunes-gift-collectors-edition.json) |
 | Hidden Expedition: New Adventures Steve and Victoria | 249232 | [249232-hidden-expedition-new-adventures-steve-and-victoria.json](./249232-hidden-expedition-new-adventures-steve-and-victoria.json) |
+| Hidden Expedition: Reign of Flames - Collector's Edition | 426157 | [426157-hidden-expedition-reign-of-flames-collectors-edition.json](./426157-hidden-expedition-reign-of-flames-collectors-edition.json) |
 | Hidden Expedition: Smithsonian Castle | 187950 | [187950-hidden-expedition-smithsonian-castle.json](./187950-hidden-expedition-smithsonian-castle.json) |
 | Hidden Expedition: Smithsonian Hope Diamond | 187955 | [187955-hidden-expedition-smithsonian-hope-diamond.json](./187955-hidden-expedition-smithsonian-hope-diamond.json) |
 | Hidden Expedition: Smithsonian Hope Diamond - Collector's Edition | 201882 | [201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json](./201882-hidden-expedition-smithsonian-hope-diamond-collectors-edition.json) |
@@ -8092,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Eternal Emperor - Collector's Edition | 54607 | [54607-hidden-expedition-the-eternal-emperor-collectors-edition.json](./54607-hidden-expedition-the-eternal-emperor-collectors-edition.json) |
 | Hidden Expedition: The Fountain of Youth | 101961 | [101961-hidden-expedition-the-fountain-of-youth.json](./101961-hidden-expedition-the-fountain-of-youth.json) |
 | Hidden Expedition: The Fountain of Youth - Collector's Edition | 53213 | [53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json](./53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json) |
+| Hidden Expedition: The Lost Paradise - Collector's Edition | 426158 | [426158-hidden-expedition-the-lost-paradise-collectors-edition.json](./426158-hidden-expedition-the-lost-paradise-collectors-edition.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Expedition: The Pearl of Discord - Collector's Edition | 29102 | [29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json](./29102-hidden-expedition-the-pearl-of-discord-collectors-edition.json) |
 | Hidden Expedition: The Price of Paradise | 187927 | [187927-hidden-expedition-the-price-of-paradise.json](./187927-hidden-expedition-the-price-of-paradise.json) |
@@ -8099,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: The Uncharted Islands | 64721 | [64721-hidden-expedition-the-uncharted-islands.json](./64721-hidden-expedition-the-uncharted-islands.json) |
 | Hidden Expedition: Titanic | 16178 | [16178-hidden-expedition-titanic.json](./16178-hidden-expedition-titanic.json) |
 | Hidden Facade | 291290 | [291290-hidden-facade.json](./291290-hidden-facade.json) |
+| Hidden Fair: Halloween Time | 426149 | [426149-hidden-fair-halloween-time.json](./426149-hidden-fair-halloween-time.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Farm Top-Down 3D | 195135 | [195135-hidden-farm-top-down-3d.json](./195135-hidden-farm-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
@@ -8163,6 +8169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kitten | 251935 | [251935-hidden-kitten.json](./251935-hidden-kitten.json) |
 | Hidden Kittens: Kingdom of Cats | 311906 | [311906-hidden-kittens-kingdom-of-cats.json](./311906-hidden-kittens-kingdom-of-cats.json) |
 | Hidden Kooky Set | 362584 | [362584-hidden-kooky-set.json](./362584-hidden-kooky-set.json) |
+| Hidden Land of Ana: Ghostly Realm | 426146 | [426146-hidden-land-of-ana-ghostly-realm.json](./426146-hidden-land-of-ana-ghostly-realm.json) |
 | Hidden Land: Land of Dusk | 416485 | [416485-hidden-land-land-of-dusk.json](./416485-hidden-land-land-of-dusk.json) |
 | Hidden Lands | 143154 | [143154-hidden-lands.json](./143154-hidden-lands.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
@@ -8641,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden: On the Trail of the Ancients | 24585 | [24585-hidden-on-the-trail-of-the-ancients.json](./24585-hidden-on-the-trail-of-the-ancients.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddenius: Crystal Prophecy | 416480 | [416480-hiddenius-crystal-prophecy.json](./416480-hiddenius-crystal-prophecy.json) |
+| Hiddenius: Lost Antiquities | 426150 | [426150-hiddenius-lost-antiquities.json](./426150-hiddenius-lost-antiquities.json) |
 | Hiddenius: Sorceress Journey | 402010 | [402010-hiddenius-sorceress-journey.json](./402010-hiddenius-sorceress-journey.json) |
 | HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
 | HiddenObjects Grimm's Fairy Tales | 105502 | [105502-hiddenobjects-grimms-fairy-tales.json](./105502-hiddenobjects-grimms-fairy-tales.json) |
