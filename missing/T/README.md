@@ -6732,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Inspector | 396332 | [396332-the-anomaly-inspector.json](./396332-the-anomaly-inspector.json) |
 | The Anomaly Manor | 386320 | [386320-the-anomaly-manor.json](./386320-the-anomaly-manor.json) |
+| The Anomaly on Mars | 427924 | [427924-the-anomaly-on-mars.json](./427924-the-anomaly-on-mars.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Anomaly Protocol | 348663 | [348663-the-anomaly-protocol.json](./348663-the-anomaly-protocol.json) |
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
@@ -8461,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cloud Forest | 362188 | [362188-the-cloud-forest.json](./362188-the-cloud-forest.json) |
 | The Cloudberry Abyss | 402998 | [402998-the-cloudberry-abyss.json](./402998-the-cloudberry-abyss.json) |
 | The Clouds Travel Notes | 126376 | [126376-the-clouds-travel-notes.json](./126376-the-clouds-travel-notes.json) |
+| The Clover Manuscript | 427988 | [427988-the-clover-manuscript.json](./427988-the-clover-manuscript.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Clown's Forest | 207485 | [207485-the-clowns-forest.json](./207485-the-clowns-forest.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
@@ -12215,6 +12217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Healing of Sisyphus | 362867 | [362867-the-healing-of-sisyphus.json](./362867-the-healing-of-sisyphus.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
 | The Heart of Darkness | 164909 | [164909-the-heart-of-darkness.json](./164909-the-heart-of-darkness.json) |
+| The Heart of Delly | 427901 | [427901-the-heart-of-delly.json](./427901-the-heart-of-delly.json) |
 | The Heart of Gold | 423951 | [423951-the-heart-of-gold.json](./423951-the-heart-of-gold.json) |
 | The Heart of Influencer | 342275 | [342275-the-heart-of-influencer.json](./342275-the-heart-of-influencer.json) |
 | The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
@@ -31785,6 +31788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Wars Gold Edition: The Story of Army Heroes | 102504 | [102504-toy-wars-gold-edition-the-story-of-army-heroes.json](./102504-toy-wars-gold-edition-the-story-of-army-heroes.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
+| Toy Worlds Atlas | 427998 | [427998-toy-worlds-atlas.json](./427998-toy-worlds-atlas.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
 | Toy's Paradise | 205743 | [205743-toys-paradise.json](./205743-toys-paradise.json) |
@@ -35204,6 +35208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | Trees Inc | 408460 | [408460-trees-inc.json](./408460-trees-inc.json) |
+| TreeShapers: Cozy Botany Sim | 427916 | [427916-treeshapers-cozy-botany-sim.json](./427916-treeshapers-cozy-botany-sim.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treetopians | 380978 | [380978-treetopians.json](./380978-treetopians.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
