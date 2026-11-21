@@ -10098,6 +10098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is Strange | 178526 | [178526-love-is-strange.json](./178526-love-is-strange.json) |
 | Love is the Plan, the Plan is Death | 53290 | [53290-love-is-the-plan-the-plan-is-death.json](./53290-love-is-the-plan-the-plan-is-death.json) |
 | Love is Trauma | 393419 | [393419-love-is-trauma.json](./393419-love-is-trauma.json) |
+| Love is Undead | 425505 | [425505-love-is-undead.json](./425505-love-is-undead.json) |
 | Love Is... | 321619 | [321619-love-is.json](./321619-love-is.json) |
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
@@ -11230,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumisar | 416813 | [416813-lumisar.json](./416813-lumisar.json) |
 | Lumiterra: Embers of the Legacy | 257878 | [257878-lumiterra-embers-of-the-legacy.json](./257878-lumiterra-embers-of-the-legacy.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
+| Lumivéu | 425501 | [425501-lumiveu.json](./425501-lumiveu.json) |
 | Lumm-e | 304831 | [304831-lumm-e.json](./304831-lumm-e.json) |
 | Lumnis | 223309 | [223309-lumnis.json](./223309-lumnis.json) |
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
