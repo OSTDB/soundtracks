@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Capuchin | 338491 | [338491-capuchin.json](./338491-capuchin.json) |
+| Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
 | Capy Castaway | 325171 | [325171-capy-castaway.json](./325171-capy-castaway.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
@@ -10516,7 +10517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel: Gunship Sandbox MMO | 413314 | [413314-citadel-gunship-sandbox-mmo.json](./413314-citadel-gunship-sandbox-mmo.json) |
 | Citadel's Keeper | 295103 | [295103-citadels-keeper.json](./295103-citadels-keeper.json) |
 | Citadelic | 235911 | [235911-citadelic.json](./235911-citadelic.json) |
-| Citadels | 2804 | [2804-citadels.json](./2804-citadels.json) |
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
@@ -10761,7 +10761,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Demolish | 249055 | [249055-city-demolish.json](./249055-city-demolish.json) |
-| City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
 | City Driver | 270595 | [270595-city-driver.json](./270595-city-driver.json) |
 | City Driver: Car Parking Simulator | 277726 | [277726-city-driver-car-parking-simulator.json](./277726-city-driver-car-parking-simulator.json) |
 | City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
@@ -13139,7 +13138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Cure II | 346512 | [346512-codename-cure-ii.json](./346512-codename-cure-ii.json) |
 | Codename Cygnus | 63001 | [63001-codename-cygnus.json](./63001-codename-cygnus.json) |
 | Codename Desperado | 413848 | [413848-codename-desperado.json](./413848-codename-desperado.json) |
-| Codename Eagle | 344 | [344-codename-eagle.json](./344-codename-eagle.json) |
 | Codename Engine | 425781 | [425781-codename-engine.json](./425781-codename-engine.json) |
 | Codename Ghost Hunt | 107716 | [107716-codename-ghost-hunt.json](./107716-codename-ghost-hunt.json) |
 | Codename Incubus | 270492 | [270492-codename-incubus.json](./270492-codename-incubus.json) |
@@ -14123,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorBlend FX: Desaturation | 95024 | [95024-colorblend-fx-desaturation.json](./95024-colorblend-fx-desaturation.json) |
 | Colorblind - An Eye For An Eye | 96996 | [96996-colorblind-an-eye-for-an-eye.json](./96996-colorblind-an-eye-for-an-eye.json) |
 | Colorboration | 390884 | [390884-colorboration.json](./390884-colorboration.json) |
+| Colorbound | 347850 | [347850-colorbound.json](./347850-colorbound.json) |
 | ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | Colorbox Mustard | 330035 | [330035-colorbox-mustard.json](./330035-colorbox-mustard.json) |
 | ColorClimb | 183761 | [183761-colorclimb.json](./183761-colorclimb.json) |
@@ -14842,7 +14841,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Cody | 358545 | [358545-comic-book-cody.json](./358545-comic-book-cody.json) |
 | Comic Book Legends | 259672 | [259672-comic-book-legends.json](./259672-comic-book-legends.json) |
 | Comic Book Store Simulator | 359699 | [359699-comic-book-store-simulator.json](./359699-comic-book-store-simulator.json) |
-| Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Boy | 96388 | [96388-comic-boy.json](./96388-comic-boy.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
@@ -15023,7 +15021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Kamala Lays Down the Law | 60293 | [60293-commander-kamala-lays-down-the-law.json](./60293-commander-kamala-lays-down-the-law.json) |
 | Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
-| Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
 | Commander Keen Complete Pack | 93840 | [93840-commander-keen-complete-pack.json](./93840-commander-keen-complete-pack.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
 | Commander Keen in Goodbye, Galaxy!: Secret of the Oracle | 2443 | [2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json](./2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json) |
@@ -16459,7 +16456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook 'Til Escape: Nyanzou & Kumakichi - Escape Game | 301178 | [301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json](./301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json) |
 | Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
-| Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
 | Cook Fest | 236392 | [236392-cook-fest.json](./236392-cook-fest.json) |
 | Cook For Love | 304520 | [304520-cook-for-love.json](./304520-cook-for-love.json) |
 | Cook for Me Grandpa! | 365276 | [365276-cook-for-me-grandpa.json](./365276-cook-for-me-grandpa.json) |
@@ -19623,7 +19619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi 2 | 1806 | [1806-crazy-taxi-2.json](./1806-crazy-taxi-2.json) |
 | Crazy Taxi 3: High Roller | 1807 | [1807-crazy-taxi-3-high-roller.json](./1807-crazy-taxi-3-high-roller.json) |
 | Crazy Taxi M-12 | 313540 | [313540-crazy-taxi-m-12.json](./313540-crazy-taxi-m-12.json) |
-| Crazy Taxi: Catch a Ride | 1808 | [1808-crazy-taxi-catch-a-ride.json](./1808-crazy-taxi-catch-a-ride.json) |
 | Crazy Taxi: City Rush | 61989 | [61989-crazy-taxi-city-rush.json](./61989-crazy-taxi-city-rush.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
 | Crazy Taxi: Gazillionaire | 36661 | [36661-crazy-taxi-gazillionaire.json](./36661-crazy-taxi-gazillionaire.json) |
@@ -20519,7 +20514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
 | Croixleur | 63458 | [63458-croixleur.json](./63458-croixleur.json) |
 | Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
-| Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! 2: Yami no Bank to Ban Joou | 49551 | [49551-croket-2-yami-no-bank-to-ban-joou.json](./49551-croket-2-yami-no-bank-to-ban-joou.json) |
 | Croket! 3: Granyuu Oukoku no Nazo | 49550 | [49550-croket-3-granyuu-oukoku-no-nazo.json](./49550-croket-3-granyuu-oukoku-no-nazo.json) |
 | Croket! 4: Bank no Mori no Mamorigami | 49549 | [49549-croket-4-bank-no-mori-no-mamorigami.json](./49549-croket-4-bank-no-mori-no-mamorigami.json) |
@@ -20994,7 +20988,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowdy Farm Puzzle | 147612 | [147612-crowdy-farm-puzzle.json](./147612-crowdy-farm-puzzle.json) |
 | Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
 | Crowe: The Drowned Armory | 38811 | [38811-crowe-the-drowned-armory.json](./38811-crowe-the-drowned-armory.json) |
-| Crowfall | 1126 | [1126-crowfall.json](./1126-crowfall.json) |
 | Crowfarm | 423910 | [423910-crowfarm.json](./423910-crowfarm.json) |
 | CrowHallow | 346323 | [346323-crowhallow.json](./346323-crowhallow.json) |
 | Crowhille: Detective Case Files VR | 151064 | [151064-crowhille-detective-case-files-vr.json](./151064-crowhille-detective-case-files-vr.json) |
@@ -21360,7 +21353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed | 326898 | [326898-crushed.json](./326898-crushed.json) |
 | Crushed | 377307 | [377307-crushed.json](./377307-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
-| Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
 | Crusher | 93121 | [93121-crusher.json](./93121-crusher.json) |
 | Crusher Makochan | 40109 | [40109-crusher-makochan.json](./40109-crusher-makochan.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
@@ -23468,7 +23460,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybattler | 39727 | [39727-cybattler.json](./39727-cybattler.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
-| Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
 | Cyber AI Defense | 359533 | [359533-cyber-ai-defense.json](./359533-cyber-ai-defense.json) |
 | Cyber Arena | 74481 | [74481-cyber-arena.json](./74481-cyber-arena.json) |
 | Cyber Arms Val-Kaizer | 336183 | [336183-cyber-arms-val-kaizer.json](./336183-cyber-arms-val-kaizer.json) |
