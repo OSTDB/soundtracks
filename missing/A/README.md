@@ -14163,6 +14163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanox: Deep Descent | 16708 | [16708-aquanox-deep-descent.json](./16708-aquanox-deep-descent.json) |
 | Aquanox: Deep Descent - Collector's Edition | 140667 | [140667-aquanox-deep-descent-collectors-edition.json](./140667-aquanox-deep-descent-collectors-edition.json) |
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
+| Aquantor | 413245 | [413245-aquantor.json](./413245-aquantor.json) |
 | Aquapact | 427320 | [427320-aquapact.json](./427320-aquapact.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
@@ -18285,6 +18286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster | 264447 | [264447-aster.json](./264447-aster.json) |
 | Aster Force | 195114 | [195114-aster-force.json](./195114-aster-force.json) |
 | Aster fpv | 150324 | [150324-aster-fpv.json](./150324-aster-fpv.json) |
+| Aster Gets Armed | 418964 | [418964-aster-gets-armed.json](./418964-aster-gets-armed.json) |
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Aster Pebble and the Case of Bad Bureaucracy | 383402 | [383402-aster-pebble-and-the-case-of-bad-bureaucracy.json](./383402-aster-pebble-and-the-case-of-bad-bureaucracy.json) |
@@ -19934,6 +19936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 28435 | [28435-attack-of-the-killer-tomatoes.json](./28435-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 7761 | [7761-attack-of-the-killer-tomatoes.json](./7761-attack-of-the-killer-tomatoes.json) |
+| Attack of the Killer Virus | 413256 | [413256-attack-of-the-killer-virus.json](./413256-attack-of-the-killer-virus.json) |
 | Attack of the Labyrinth + | 35539 | [35539-attack-of-the-labyrinth.json](./35539-attack-of-the-labyrinth.json) |
 | Attack of the Mechadonk: The Ultimate Donkey | 173200 | [173200-attack-of-the-mechadonk-the-ultimate-donkey.json](./173200-attack-of-the-mechadonk-the-ultimate-donkey.json) |
 | Attack of the Movies 3D | 4683 | [4683-attack-of-the-movies-3d.json](./4683-attack-of-the-movies-3d.json) |
@@ -20478,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn Police Simulator 3: Off-Road DLC | 253666 | [253666-autobahn-police-simulator-3-off-road-dlc.json](./253666-autobahn-police-simulator-3-off-road-dlc.json) |
 | Autobahn Police Simulator 3: Police Motorcycle | 370386 | [370386-autobahn-police-simulator-3-police-motorcycle.json](./370386-autobahn-police-simulator-3-police-motorcycle.json) |
 | Autobahn Police Simulator 3: Speed Trap | 370387 | [370387-autobahn-police-simulator-3-speed-trap.json](./370387-autobahn-police-simulator-3-speed-trap.json) |
+| Autobahn Police Simulator 4 | 413250 | [413250-autobahn-police-simulator-4.json](./413250-autobahn-police-simulator-4.json) |
 | Autobahn Racing | 25448 | [25448-autobahn-racing.json](./25448-autobahn-racing.json) |
 | Autobahn Racing | 376805 | [376805-autobahn-racing.json](./376805-autobahn-racing.json) |
 | Autobahn Raser | 210275 | [210275-autobahn-raser.json](./210275-autobahn-raser.json) |
