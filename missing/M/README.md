@@ -24991,8 +24991,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Black Crown | 140229 | [140229-mystery-case-files-black-crown.json](./140229-mystery-case-files-black-crown.json) |
 | Mystery Case Files: Black Crown - Collector's Edition | 127100 | [127100-mystery-case-files-black-crown-collectors-edition.json](./127100-mystery-case-files-black-crown-collectors-edition.json) |
 | Mystery Case Files: Broken Hour | 56174 | [56174-mystery-case-files-broken-hour.json](./56174-mystery-case-files-broken-hour.json) |
+| Mystery Case Files: Broken Hour - Collector's Edition | 426226 | [426226-mystery-case-files-broken-hour-collectors-edition.json](./426226-mystery-case-files-broken-hour-collectors-edition.json) |
 | Mystery Case Files: Crossfade - Collector's Edition | 146511 | [146511-mystery-case-files-crossfade-collectors-edition.json](./146511-mystery-case-files-crossfade-collectors-edition.json) |
 | Mystery Case Files: Dire Grove | 5514 | [5514-mystery-case-files-dire-grove.json](./5514-mystery-case-files-dire-grove.json) |
+| Mystery Case Files: Dire Grove - Collector's Edition | 426227 | [426227-mystery-case-files-dire-grove-collectors-edition.json](./426227-mystery-case-files-dire-grove-collectors-edition.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove | 140230 | [140230-mystery-case-files-dire-grove-sacred-grove.json](./140230-mystery-case-files-dire-grove-sacred-grove.json) |
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Escape from Ravenhearst | 5516 | [5516-mystery-case-files-escape-from-ravenhearst.json](./5516-mystery-case-files-escape-from-ravenhearst.json) |
@@ -25046,6 +25048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Combat Man 4: The End of Time | 299493 | [299493-mystery-combat-man-4-the-end-of-time.json](./299493-mystery-combat-man-4-the-end-of-time.json) |
 | Mystery Cookbook | 209058 | [209058-mystery-cookbook.json](./209058-mystery-cookbook.json) |
 | Mystery Cruise | 54221 | [54221-mystery-cruise.json](./54221-mystery-cruise.json) |
+| Mystery Crusaders: Resurgence of the Templars - Collector's Edition | 426229 | [426229-mystery-crusaders-resurgence-of-the-templars-collectors-edition.json](./426229-mystery-crusaders-resurgence-of-the-templars-collectors-edition.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
 | Mystery Detective Adventure 2 | 417924 | [417924-mystery-detective-adventure-2.json](./417924-mystery-detective-adventure-2.json) |
@@ -25150,6 +25153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Ancients: Deadly Cold | 140236 | [140236-mystery-of-the-ancients-deadly-cold.json](./140236-mystery-of-the-ancients-deadly-cold.json) |
 | Mystery of the Ancients: Deadly Cold - Collector's Edition | 117464 | [117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json](./117464-mystery-of-the-ancients-deadly-cold-collectors-edition.json) |
 | Mystery of the Ancients: Deadly Cold HD | 102541 | [102541-mystery-of-the-ancients-deadly-cold-hd.json](./102541-mystery-of-the-ancients-deadly-cold-hd.json) |
+| Mystery of the Ancients: Mud Water Creek - Collector's Edition | 426230 | [426230-mystery-of-the-ancients-mud-water-creek-collectors-edition.json](./426230-mystery-of-the-ancients-mud-water-creek-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Ancients: Three Guardians | 140237 | [140237-mystery-of-the-ancients-three-guardians.json](./140237-mystery-of-the-ancients-three-guardians.json) |
 | Mystery of the Ancients: Three Guardians - Collector's Edition | 117133 | [117133-mystery-of-the-ancients-three-guardians-collectors-edition.json](./117133-mystery-of-the-ancients-three-guardians-collectors-edition.json) |
@@ -25231,11 +25235,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Tales: Alaskan Wild | 140238 | [140238-mystery-tales-alaskan-wild.json](./140238-mystery-tales-alaskan-wild.json) |
 | Mystery Tales: Alaskan Wild - Collector's Edition | 96957 | [96957-mystery-tales-alaskan-wild-collectors-edition.json](./96957-mystery-tales-alaskan-wild-collectors-edition.json) |
 | Mystery Tales: Art and Souls | 187922 | [187922-mystery-tales-art-and-souls.json](./187922-mystery-tales-art-and-souls.json) |
+| Mystery Tales: Art and Souls - Collector's Edition | 426231 | [426231-mystery-tales-art-and-souls-collectors-edition.json](./426231-mystery-tales-art-and-souls-collectors-edition.json) |
 | Mystery Tales: Dealer's Choices - Collector's Edition | 357675 | [357675-mystery-tales-dealers-choices-collectors-edition.json](./357675-mystery-tales-dealers-choices-collectors-edition.json) |
 | Mystery Tales: Eye of the Fire | 54616 | [54616-mystery-tales-eye-of-the-fire.json](./54616-mystery-tales-eye-of-the-fire.json) |
+| Mystery Tales: Eye of the Fire - Collector's Edition | 426232 | [426232-mystery-tales-eye-of-the-fire-collectors-edition.json](./426232-mystery-tales-eye-of-the-fire-collectors-edition.json) |
 | Mystery Tales: Her Own Eyes HD - A Hidden Object Mystery (Full) | 90065 | [90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json](./90065-mystery-tales-her-own-eyes-hd-a-hidden-object-mystery-full.json) |
 | Mystery Tales: Master of Puppets | 187948 | [187948-mystery-tales-master-of-puppets.json](./187948-mystery-tales-master-of-puppets.json) |
 | Mystery Tales: Master of Puppets - Collector's Edition | 170200 | [170200-mystery-tales-master-of-puppets-collectors-edition.json](./170200-mystery-tales-master-of-puppets-collectors-edition.json) |
+| Mystery Tales: The Hangman Returns - Collector's Edition | 426233 | [426233-mystery-tales-the-hangman-returns-collectors-edition.json](./426233-mystery-tales-the-hangman-returns-collectors-edition.json) |
 | Mystery Tales: The House of Others | 181645 | [181645-mystery-tales-the-house-of-others.json](./181645-mystery-tales-the-house-of-others.json) |
 | Mystery Tales: The Lost Hope | 57243 | [57243-mystery-tales-the-lost-hope.json](./57243-mystery-tales-the-lost-hope.json) |
 | Mystery Tales: The Lost Hope - Collector's Edition | 29499 | [29499-mystery-tales-the-lost-hope-collectors-edition.json](./29499-mystery-tales-the-lost-hope-collectors-edition.json) |
@@ -25253,6 +25260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Black Isle | 57967 | [57967-mystery-trackers-black-isle.json](./57967-mystery-trackers-black-isle.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
+| Mystery Trackers: Blackrow's Secret - Collector's Edition | 426234 | [426234-mystery-trackers-blackrows-secret-collectors-edition.json](./426234-mystery-trackers-blackrows-secret-collectors-edition.json) |
 | Mystery Trackers: Darkwater Bay | 313461 | [313461-mystery-trackers-darkwater-bay.json](./313461-mystery-trackers-darkwater-bay.json) |
 | Mystery Trackers: Darkwater Bay - Collector's Edition | 274300 | [274300-mystery-trackers-darkwater-bay-collectors-edition.json](./274300-mystery-trackers-darkwater-bay-collectors-edition.json) |
 | Mystery Trackers: Fall of Iron Rock - Collector's Edition | 235489 | [235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json](./235489-mystery-trackers-fall-of-iron-rock-collectors-edition.json) |
@@ -25274,11 +25282,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
 | Mystery Trackers: Reflections of the Past - Collector's Edition | 366024 | [366024-mystery-trackers-reflections-of-the-past-collectors-edition.json](./366024-mystery-trackers-reflections-of-the-past-collectors-edition.json) |
 | Mystery Trackers: Silent Hollow | 22110 | [22110-mystery-trackers-silent-hollow.json](./22110-mystery-trackers-silent-hollow.json) |
+| Mystery Trackers: Silent Hollow - Collector's Edition | 426235 | [426235-mystery-trackers-silent-hollow-collectors-edition.json](./426235-mystery-trackers-silent-hollow-collectors-edition.json) |
 | Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
 | Mystery Trackers: The Four Aces | 194780 | [194780-mystery-trackers-the-four-aces.json](./194780-mystery-trackers-the-four-aces.json) |
 | Mystery Trackers: The Four Aces - Collector's Edition | 194781 | [194781-mystery-trackers-the-four-aces-collectors-edition.json](./194781-mystery-trackers-the-four-aces-collectors-edition.json) |
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Secret of Watch Hill | 187957 | [187957-mystery-trackers-the-secret-of-watch-hill.json](./187957-mystery-trackers-the-secret-of-watch-hill.json) |
+| Mystery Trackers: The Secret of Watch Hill - Collector's Edition | 426236 | [426236-mystery-trackers-the-secret-of-watch-hill-collectors-edition.json](./426236-mystery-trackers-the-secret-of-watch-hill-collectors-edition.json) |
 | Mystery Trackers: The Shrouded Village | 416698 | [416698-mystery-trackers-the-shrouded-village.json](./416698-mystery-trackers-the-shrouded-village.json) |
 | Mystery Trackers: The Void | 64581 | [64581-mystery-trackers-the-void.json](./64581-mystery-trackers-the-void.json) |
 | Mystery Trackers: The Void - Collector's Edition | 31337 | [31337-mystery-trackers-the-void-collectors-edition.json](./31337-mystery-trackers-the-void-collectors-edition.json) |
@@ -25520,6 +25530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of the Moirai | 260428 | [260428-myth-of-the-moirai.json](./260428-myth-of-the-moirai.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
 | Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
+| Myth or Reality: Mystery of the Lake | 426144 | [426144-myth-or-reality-mystery-of-the-lake.json](./426144-myth-or-reality-mystery-of-the-lake.json) |
 | Myth or Reality: Mystery of the Lake - Collector's Edition | 265794 | [265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json](./265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json) |
 | Myth or Reality: Mystery of the Lake DLC | 268997 | [268997-myth-or-reality-mystery-of-the-lake-dlc.json](./268997-myth-or-reality-mystery-of-the-lake-dlc.json) |
 | Myth or Reality: Snowbound Secrets - Collector's Edition | 337277 | [337277-myth-or-reality-snowbound-secrets-collectors-edition.json](./337277-myth-or-reality-snowbound-secrets-collectors-edition.json) |
@@ -25655,8 +25666,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Black Rose - Collector's Edition | 114583 | [114583-myths-of-the-world-black-rose-collectors-edition.json](./114583-myths-of-the-world-black-rose-collectors-edition.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
 | Myths of the World: Born of Clay and Fire | 103147 | [103147-myths-of-the-world-born-of-clay-and-fire.json](./103147-myths-of-the-world-born-of-clay-and-fire.json) |
+| Myths of the World: Born of Clay and Fire - Collector's Edition | 426237 | [426237-myths-of-the-world-born-of-clay-and-fire-collectors-edition.json](./426237-myths-of-the-world-born-of-clay-and-fire-collectors-edition.json) |
 | Myths of the World: Chinese Healer | 140243 | [140243-myths-of-the-world-chinese-healer.json](./140243-myths-of-the-world-chinese-healer.json) |
 | Myths of the World: Chinese Healer - Collector's Edition | 30679 | [30679-myths-of-the-world-chinese-healer-collectors-edition.json](./30679-myths-of-the-world-chinese-healer-collectors-edition.json) |
+| Myths of the World: Island of Forgotten Evil - Collector's Edition | 426238 | [426238-myths-of-the-world-island-of-forgotten-evil-collectors-edition.json](./426238-myths-of-the-world-island-of-forgotten-evil-collectors-edition.json) |
 | Myths of the World: Love Beyond | 324759 | [324759-myths-of-the-world-love-beyond.json](./324759-myths-of-the-world-love-beyond.json) |
 | Myths of the World: Of Fiends and Fairies | 140244 | [140244-myths-of-the-world-of-fiends-and-fairies.json](./140244-myths-of-the-world-of-fiends-and-fairies.json) |
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
@@ -25667,6 +25680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Stolen Spring | 140246 | [140246-myths-of-the-world-stolen-spring.json](./140246-myths-of-the-world-stolen-spring.json) |
 | Myths of the World: Stolen Spring - Collector's Edition | 28742 | [28742-myths-of-the-world-stolen-spring-collectors-edition.json](./28742-myths-of-the-world-stolen-spring-collectors-edition.json) |
 | Myths of the World: The Black Sun | 74308 | [74308-myths-of-the-world-the-black-sun.json](./74308-myths-of-the-world-the-black-sun.json) |
+| Myths of the World: The Black Sun - Collector's Edition | 426239 | [426239-myths-of-the-world-the-black-sun-collectors-edition.json](./426239-myths-of-the-world-the-black-sun-collectors-edition.json) |
 | Myths of the World: The Heart of Desolation | 104506 | [104506-myths-of-the-world-the-heart-of-desolation.json](./104506-myths-of-the-world-the-heart-of-desolation.json) |
 | Myths of the World: The Heart of Desolation - Collector's Edition | 126220 | [126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json](./126220-myths-of-the-world-the-heart-of-desolation-collectors-edition.json) |
 | Myths of the World: The Veil | 101234 | [101234-myths-of-the-world-the-veil.json](./101234-myths-of-the-world-the-veil.json) |
