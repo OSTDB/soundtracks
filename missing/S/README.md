@@ -18905,6 +18905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOL Cycling | 151407 | [151407-sol-cycling.json](./151407-sol-cycling.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
 | Sol Divide: Sword of Darkness | 95051 | [95051-sol-divide-sword-of-darkness.json](./95051-sol-divide-sword-of-darkness.json) |
+| Sol Divided | 429612 | [429612-sol-divided.json](./429612-sol-divided.json) |
 | Sol Dorado Heist | 158331 | [158331-sol-dorado-heist.json](./158331-sol-dorado-heist.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Free Solitaire | 131020 | [131020-sol-free-solitaire.json](./131020-sol-free-solitaire.json) |
@@ -21342,6 +21343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Coins Together | 429572 | [429572-sort-coins-together.json](./429572-sort-coins-together.json) |
 | Sort Em All | 345264 | [345264-sort-em-all.json](./345264-sort-em-all.json) |
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
+| Sort in Silence | 429797 | [429797-sort-in-silence.json](./429797-sort-in-silence.json) |
 | Sort Inc. | 423077 | [423077-sort-inc.json](./423077-sort-inc.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
@@ -39058,6 +39060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Girl | 99693 | [99693-supermarket-girl.json](./99693-supermarket-girl.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
+| Supermarket in Order | 429798 | [429798-supermarket-in-order.json](./429798-supermarket-in-order.json) |
 | Supermarket Life Simulator | 407487 | [407487-supermarket-life-simulator.json](./407487-supermarket-life-simulator.json) |
 | Supermarket Maker | 150812 | [150812-supermarket-maker.json](./150812-supermarket-maker.json) |
 | Supermarket Management | 88156 | [88156-supermarket-management.json](./88156-supermarket-management.json) |
