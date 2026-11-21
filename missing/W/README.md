@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse and Logistics Simulator | 17031 | [17031-warehouse-and-logistics-simulator.json](./17031-warehouse-and-logistics-simulator.json) |
 | Warehouse Bots | 298179 | [298179-warehouse-bots.json](./298179-warehouse-bots.json) |
 | Warehouse Catastrophe | 421716 | [421716-warehouse-catastrophe.json](./421716-warehouse-catastrophe.json) |
+| Warehouse Chaos Simulator | 429099 | [429099-warehouse-chaos-simulator.json](./429099-warehouse-chaos-simulator.json) |
 | Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
 | Warehouse Inc. | 294116 | [294116-warehouse-inc.json](./294116-warehouse-inc.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Ski & Snowboard | 5276 | [5276-we-ski-and-snowboard.json](./5276-we-ski-and-snowboard.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Stay Behind | 121827 | [121827-we-stay-behind.json](./121827-we-stay-behind.json) |
+| We Steal From Old People: The Game | 429108 | [429108-we-steal-from-old-people-the-game.json](./429108-we-steal-from-old-people-the-game.json) |
 | We Surrender! | 427109 | [427109-we-surrender.json](./427109-we-surrender.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Survive Tonight | 199227 | [199227-we-survive-tonight.json](./199227-we-survive-tonight.json) |
