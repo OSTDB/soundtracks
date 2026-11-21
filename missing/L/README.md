@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender's | 403350 | [403350-lavenders.json](./403350-lavenders.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Lavi Quest | 55010 | [55010-lavi-quest.json](./55010-lavi-quest.json) |
+| Lavoice | 426700 | [426700-lavoice.json](./426700-lavoice.json) |
 | LaVonne's Bouncing Idle | 403857 | [403857-lavonnes-bouncing-idle.json](./403857-lavonnes-bouncing-idle.json) |
 | LaVonne's Lemons Idle | 402229 | [402229-lavonnes-lemons-idle.json](./402229-lavonnes-lemons-idle.json) |
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
@@ -10803,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Me | 188776 | [188776-lucky-me.json](./188776-lucky-me.json) |
 | Lucky Me Lucky You | 123996 | [123996-lucky-me-lucky-you.json](./123996-lucky-me-lucky-you.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
+| Lucky Newt | 426806 | [426806-lucky-newt.json](./426806-lucky-newt.json) |
 | Lucky Night | 76314 | [76314-lucky-night.json](./76314-lucky-night.json) |
 | Lucky Night: Poker Games | 131357 | [131357-lucky-night-poker-games.json](./131357-lucky-night-poker-games.json) |
 | Lucky Night: Texas Hold'em VR | 51503 | [51503-lucky-night-texas-holdem-vr.json](./51503-lucky-night-texas-holdem-vr.json) |
