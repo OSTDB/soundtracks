@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oroboros Square | 340821 | [340821-oroboros-square.json](./340821-oroboros-square.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Oroborys | 426217 | [426217-oroborys.json](./426217-oroborys.json) |
+| Orogenesis | 103047 | [103047-orogenesis.json](./103047-orogenesis.json) |
 | Orompaquenga | 184025 | [184025-orompaquenga.json](./184025-orompaquenga.json) |
 | Ororo | 404983 | [404983-ororo.json](./404983-ororo.json) |
 | Orpega | 57250 | [57250-orpega.json](./57250-orpega.json) |
