@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warawara Invaders | 90323 | [90323-warawara-invaders.json](./90323-warawara-invaders.json) |
 | Warband | 402459 | [402459-warband.json](./402459-warband.json) |
 | Warband Survivors | 311177 | [311177-warband-survivors.json](./311177-warband-survivors.json) |
+| Warbands: Bushido | 30467 | [30467-warbands-bushido.json](./30467-warbands-bushido.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | Warbears Mission 01: The Bank Robbery | 237490 | [237490-warbears-mission-01-the-bank-robbery.json](./237490-warbears-mission-01-the-bank-robbery.json) |
 | Warbears Mission 02: Training Time | 237494 | [237494-warbears-mission-02-training-time.json](./237494-warbears-mission-02-training-time.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves | 104354 | [104354-waves.json](./104354-waves.json) |
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
+| Waves 2: Notorious | 30154 | [30154-waves-2-notorious.json](./30154-waves-2-notorious.json) |
 | Waves Ahoy! | 428431 | [428431-waves-ahoy.json](./428431-waves-ahoy.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
 | Waves of Death | 155963 | [155963-waves-of-death.json](./155963-waves-of-death.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves Running Simulator | 195125 | [195125-waves-running-simulator.json](./195125-waves-running-simulator.json) |
 | Waves Running Simulator | 246882 | [246882-waves-running-simulator.json](./246882-waves-running-simulator.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
+| WaveShaper | 30345 | [30345-waveshaper.json](./30345-waveshaper.json) |
 | WaveTiles | 149240 | [149240-wavetiles.json](./149240-wavetiles.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
