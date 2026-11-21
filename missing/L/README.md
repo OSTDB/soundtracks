@@ -10328,6 +10328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Academy | 346312 | [346312-lovecraft-academy.json](./346312-lovecraft-academy.json) |
 | Lovecraft Game | 199196 | [199196-lovecraft-game.json](./199196-lovecraft-game.json) |
+| Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
 | Lovecraft's Cat | 365231 | [365231-lovecrafts-cat.json](./365231-lovecrafts-cat.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
