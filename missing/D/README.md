@@ -8230,6 +8230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
 | Descent of the Hunted | 274319 | [274319-descent-of-the-hunted.json](./274319-descent-of-the-hunted.json) |
+| Descent of Yomi | 429186 | [429186-descent-of-yomi.json](./429186-descent-of-yomi.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
 | Descent to Undermountain | 2491 | [2491-descent-to-undermountain.json](./2491-descent-to-undermountain.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
@@ -11455,6 +11456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directly Drink Milk from Cow | 195745 | [195745-directly-drink-milk-from-cow.json](./195745-directly-drink-milk-from-cow.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
+| Director of Football: Transfer Manager | 429212 | [429212-director-of-football-transfer-manager.json](./429212-director-of-football-transfer-manager.json) |
 | Director Simulator | 309696 | [309696-director-simulator.json](./309696-director-simulator.json) |
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
@@ -15767,6 +15769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorven Digger | 195916 | [195916-dorven-digger.json](./195916-dorven-digger.json) |
 | Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
 | DOS: Steve Pardo | 289828 | [289828-dos-steve-pardo.json](./289828-dos-steve-pardo.json) |
+| Dose of Order: Pharmacy Tidy Up | 429112 | [429112-dose-of-order-pharmacy-tidy-up.json](./429112-dose-of-order-pharmacy-tidy-up.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant | 3894 | [3894-doshin-the-giant.json](./3894-doshin-the-giant.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
@@ -17456,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: The Withered World - Digital Deluxe Edition | 418330 | [418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json](./418330-dragon-quest-monsters-the-withered-world-digital-deluxe-edition.json) |
 | Dragon Quest of the Stars | 131686 | [131686-dragon-quest-of-the-stars.json](./131686-dragon-quest-of-the-stars.json) |
 | Dragon Quest Rivals Ace | 31559 | [31559-dragon-quest-rivals-ace.json](./31559-dragon-quest-rivals-ace.json) |
+| Dragon Quest RPG: The Cursed Tree and the Chosen Isle | 429192 | [429192-dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle.json](./429192-dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle.json) |
 | Dragon Quest Swords: The Masked Queen and the Tower of Mirrors | 1822 | [1822-dragon-quest-swords-the-masked-queen-and-the-tower-of-mirrors.json](./1822-dragon-quest-swords-the-masked-queen-and-the-tower-of-mirrors.json) |
 | Dragon Quest Tact | 130037 | [130037-dragon-quest-tact.json](./130037-dragon-quest-tact.json) |
 | Dragon Quest Treasures | 150022 | [150022-dragon-quest-treasures.json](./150022-dragon-quest-treasures.json) |
@@ -19188,6 +19192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter | 16772 | [16772-drifter.json](./16772-drifter.json) |
 | Drifter | 306599 | [306599-drifter.json](./306599-drifter.json) |
 | Drifter | 345933 | [345933-drifter.json](./345933-drifter.json) |
+| Drifter | 429194 | [429194-drifter.json](./429194-drifter.json) |
 | Drifter King Online | 133358 | [133358-drifter-king-online.json](./133358-drifter-king-online.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
@@ -20595,6 +20600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
 | Duline | 199489 | [199489-duline.json](./199489-duline.json) |
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
+| Dull Ache | 429193 | [429193-dull-ache.json](./429193-dull-ache.json) |
 | Dull Acres | 303495 | [303495-dull-acres.json](./303495-dull-acres.json) |
 | Dullahan | 183489 | [183489-dullahan.json](./183489-dullahan.json) |
 | Dullahan-san no Atama wo Omochikaeri Suru | 394771 | [394771-dullahan-san-no-atama-wo-omochikaeri-suru.json](./394771-dullahan-san-no-atama-wo-omochikaeri-suru.json) |
