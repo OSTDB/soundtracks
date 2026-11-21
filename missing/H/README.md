@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: VR Future Live | 99752 | [99752-hatsune-miku-vr-future-live.json](./99752-hatsune-miku-vr-future-live.json) |
 | Hatsune Miku: VR Future Live 2nd Stage | 120801 | [120801-hatsune-miku-vr-future-live-2nd-stage.json](./120801-hatsune-miku-vr-future-live-2nd-stage.json) |
 | Hatsune Miku: VR Future Live 3rd Stage | 120802 | [120802-hatsune-miku-vr-future-live-3rd-stage.json](./120802-hatsune-miku-vr-future-live-3rd-stage.json) |
+| Hatsune Miku: VR Future Live Season Pass | 423741 | [423741-hatsune-miku-vr-future-live-season-pass.json](./423741-hatsune-miku-vr-future-live-season-pass.json) |
 | Hatsune Mikutchi | 230183 | [230183-hatsune-mikutchi.json](./230183-hatsune-mikutchi.json) |
 | Hatsune no Naisho!! | 247480 | [247480-hatsune-no-naisho.json](./247480-hatsune-no-naisho.json) |
 | Hatsuru Koto Naki Mirai Yori | 60325 | [60325-hatsuru-koto-naki-mirai-yori.json](./60325-hatsuru-koto-naki-mirai-yori.json) |
@@ -9636,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
+| Hist Maker: ReMake | 423828 | [423828-hist-maker-remake.json](./423828-hist-maker-remake.json) |
 | Histacom | 131047 | [131047-histacom.json](./131047-histacom.json) |
 | Histera | 188868 | [188868-histera.json](./188868-histera.json) |
 | Histerya | 296796 | [296796-histerya.json](./296796-histerya.json) |
@@ -13957,19 +13959,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Commedia Della Morte | 237805 | [237805-hunt-showdown-1896-commedia-della-morte.json](./237805-hunt-showdown-1896-commedia-della-morte.json) |
 | Hunt: Showdown 1896 - Cry of the Caged Bird | 423475 | [423475-hunt-showdown-1896-cry-of-the-caged-bird.json](./423475-hunt-showdown-1896-cry-of-the-caged-bird.json) |
 | Hunt: Showdown 1896 - Deluxe Edition | 313779 | [313779-hunt-showdown-1896-deluxe-edition.json](./313779-hunt-showdown-1896-deluxe-edition.json) |
+| Hunt: Showdown 1896 - It Takes a Rogue | 423471 | [423471-hunt-showdown-1896-it-takes-a-rogue.json](./423471-hunt-showdown-1896-it-takes-a-rogue.json) |
 | Hunt: Showdown 1896 - La Luz Mala | 231342 | [231342-hunt-showdown-1896-la-luz-mala.json](./231342-hunt-showdown-1896-la-luz-mala.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
 | Hunt: Showdown 1896 - Legends of the Bayou | 166070 | [166070-hunt-showdown-1896-legends-of-the-bayou.json](./166070-hunt-showdown-1896-legends-of-the-bayou.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - Northern Justice | 292675 | [292675-hunt-showdown-1896-northern-justice.json](./292675-hunt-showdown-1896-northern-justice.json) |
 | Hunt: Showdown 1896 - Premium Edition | 313783 | [313783-hunt-showdown-1896-premium-edition.json](./313783-hunt-showdown-1896-premium-edition.json) |
+| Hunt: Showdown 1896 - Sage of Joseon | 423469 | [423469-hunt-showdown-1896-sage-of-joseon.json](./423469-hunt-showdown-1896-sage-of-joseon.json) |
 | Hunt: Showdown 1896 - Souls of a Feather | 271016 | [271016-hunt-showdown-1896-souls-of-a-feather.json](./271016-hunt-showdown-1896-souls-of-a-feather.json) |
 | Hunt: Showdown 1896 - Starter Edition | 313782 | [313782-hunt-showdown-1896-starter-edition.json](./313782-hunt-showdown-1896-starter-edition.json) |
+| Hunt: Showdown 1896 - The Heart of Lower DeSalle | 423472 | [423472-hunt-showdown-1896-the-heart-of-lower-desalle.json](./423472-hunt-showdown-1896-the-heart-of-lower-desalle.json) |
+| Hunt: Showdown 1896 - The Madness of Montresor | 423473 | [423473-hunt-showdown-1896-the-madness-of-montresor.json](./423473-hunt-showdown-1896-the-madness-of-montresor.json) |
 | Hunt: Showdown 1896 - The Reckoning Son | 302195 | [302195-hunt-showdown-1896-the-reckoning-son.json](./302195-hunt-showdown-1896-the-reckoning-son.json) |
 | Hunt: Showdown 1896 - The Revenant | 332024 | [332024-hunt-showdown-1896-the-revenant.json](./332024-hunt-showdown-1896-the-revenant.json) |
 | Hunt: Showdown 1896 - The Shadow Under the Cowl | 286556 | [286556-hunt-showdown-1896-the-shadow-under-the-cowl.json](./286556-hunt-showdown-1896-the-shadow-under-the-cowl.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Hunt: Showdown 1896 - They Came from Salem | 332026 | [332026-hunt-showdown-1896-they-came-from-salem.json](./332026-hunt-showdown-1896-they-came-from-salem.json) |
+| Hunt: Showdown 1896 - Twice a Renegade | 423470 | [423470-hunt-showdown-1896-twice-a-renegade.json](./423470-hunt-showdown-1896-twice-a-renegade.json) |
+| Hunt: Showdown 1896 - Violent Balance | 423474 | [423474-hunt-showdown-1896-violent-balance.json](./423474-hunt-showdown-1896-violent-balance.json) |
 | Hunt: Showdown 1896 - When Shadows Dance | 265773 | [265773-hunt-showdown-1896-when-shadows-dance.json](./265773-hunt-showdown-1896-when-shadows-dance.json) |
 | Hunt: Showdown: Death's Herald | 241176 | [241176-hunt-showdown-deaths-herald.json](./241176-hunt-showdown-deaths-herald.json) |
 | Hunt: Showdown: Llorona's Heir | 241174 | [241174-hunt-showdown-lloronas-heir.json](./241174-hunt-showdown-lloronas-heir.json) |
