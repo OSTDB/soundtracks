@@ -8164,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyone's A Wally: A Day in the Life of Wally | 73998 | [73998-everyones-a-wally-a-day-in-the-life-of-wally.json](./73998-everyones-a-wally-a-day-in-the-life-of-wally.json) |
 | Everyone's Detective | 421117 | [421117-everyones-detective.json](./421117-everyones-detective.json) |
 | Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
+| Everyone's Tier List! | 420875 | [420875-everyones-tier-list.json](./420875-everyones-tier-list.json) |
 | Everyone's Tsume Shogi: Intermediate 1 | 218895 | [218895-everyones-tsume-shogi-intermediate-1.json](./218895-everyones-tsume-shogi-intermediate-1.json) |
 | Everyone's Tsume Shogi: Intermediate 2 | 218894 | [218894-everyones-tsume-shogi-intermediate-2.json](./218894-everyones-tsume-shogi-intermediate-2.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
