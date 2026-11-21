@@ -3726,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paul Maximus Fuel Tycoon | 354716 | [354716-paul-maximus-fuel-tycoon.json](./354716-paul-maximus-fuel-tycoon.json) |
 | Paul McCartney's Give My Regards to Broad Street | 25994 | [25994-paul-mccartneys-give-my-regards-to-broad-street.json](./25994-paul-mccartneys-give-my-regards-to-broad-street.json) |
 | Paul Moose in Space World | 242700 | [242700-paul-moose-in-space-world.json](./242700-paul-moose-in-space-world.json) |
+| Paul Pixel - The Awakening | 25863 | [25863-paul-pixel-the-awakening.json](./25863-paul-pixel-the-awakening.json) |
 | Paul Quest Gold Edition | 325699 | [325699-paul-quest-gold-edition.json](./325699-paul-quest-gold-edition.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales | 123377 | [123377-paul-sloane-and-des-machales-intriguing-tales.json](./123377-paul-sloane-and-des-machales-intriguing-tales.json) |
 | Paul Sloane & Des MacHale's Intriguing Tales 2 | 123378 | [123378-paul-sloane-and-des-machales-intriguing-tales-2.json](./123378-paul-sloane-and-des-machales-intriguing-tales-2.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
 | Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX | 21915 | [21915-pinball-fx.json](./21915-pinball-fx.json) |
+| Pinball FX 2: Star Wars | 24227 | [24227-pinball-fx-2-star-wars.json](./24227-pinball-fx-2-star-wars.json) |
 | Pinball FX Midnight | 258295 | [258295-pinball-fx-midnight.json](./258295-pinball-fx-midnight.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
@@ -8086,20 +8088,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2 VR: Season 1 Pack | 164025 | [164025-pinball-fx2-vr-season-1-pack.json](./164025-pinball-fx2-vr-season-1-pack.json) |
 | Pinball FX2 VR: The Walking Dead | 164023 | [164023-pinball-fx2-vr-the-walking-dead.json](./164023-pinball-fx2-vr-the-walking-dead.json) |
 | Pinball FX2 VR: Universal Classics Pinball | 164024 | [164024-pinball-fx2-vr-universal-classics-pinball.json](./164024-pinball-fx2-vr-universal-classics-pinball.json) |
+| Pinball FX2: Aliens vs. Pinball | 24204 | [24204-pinball-fx2-aliens-vs-pinball.json](./24204-pinball-fx2-aliens-vs-pinball.json) |
 | Pinball FX2: Civil War Table DLC | 10694 | [10694-pinball-fx2-civil-war-table-dlc.json](./10694-pinball-fx2-civil-war-table-dlc.json) |
 | Pinball FX2: Fantastic Four Table | 10696 | [10696-pinball-fx2-fantastic-four-table.json](./10696-pinball-fx2-fantastic-four-table.json) |
 | Pinball FX2: Iron & Steel Pack | 20946 | [20946-pinball-fx2-iron-and-steel-pack.json](./20946-pinball-fx2-iron-and-steel-pack.json) |
+| Pinball FX2: Marvel Civil War | 24229 | [24229-pinball-fx2-marvel-civil-war.json](./24229-pinball-fx2-marvel-civil-war.json) |
 | Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
+| Pinball FX2: Marvel's Ant-Man | 24218 | [24218-pinball-fx2-marvels-ant-man.json](./24218-pinball-fx2-marvels-ant-man.json) |
 | Pinball FX2: Marvel's Women of Power | 24866 | [24866-pinball-fx2-marvels-women-of-power.json](./24866-pinball-fx2-marvels-women-of-power.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
+| Pinball FX2: Plants vs. Zombies | 24231 | [24231-pinball-fx2-plants-vs-zombies.json](./24231-pinball-fx2-plants-vs-zombies.json) |
 | Pinball FX2: Portal Pinball | 20866 | [20866-pinball-fx2-portal-pinball.json](./20866-pinball-fx2-portal-pinball.json) |
 | Pinball FX2: Rocky and Bullwinkle | 354448 | [354448-pinball-fx2-rocky-and-bullwinkle.json](./354448-pinball-fx2-rocky-and-bullwinkle.json) |
 | Pinball FX2: South Park | 20227 | [20227-pinball-fx2-south-park.json](./20227-pinball-fx2-south-park.json) |
 | Pinball FX2: Star Wars Rebels | 20949 | [20949-pinball-fx2-star-wars-rebels.json](./20949-pinball-fx2-star-wars-rebels.json) |
 | Pinball FX2: The Walking Dead | 20230 | [20230-pinball-fx2-the-walking-dead.json](./20230-pinball-fx2-the-walking-dead.json) |
 | Pinball FX2: Venom | 20306 | [20306-pinball-fx2-venom.json](./20306-pinball-fx2-venom.json) |
+| Pinball FX2: Zen Classics | 24228 | [24228-pinball-fx2-zen-classics.json](./24228-pinball-fx2-zen-classics.json) |
 | Pinball FX3 | 41051 | [41051-pinball-fx3.json](./41051-pinball-fx3.json) |
 | Pinball FX3 - Zen Originals Season 2 Bundle | 83760 | [83760-pinball-fx3-zen-originals-season-2-bundle.json](./83760-pinball-fx3-zen-originals-season-2-bundle.json) |
 | Pinball FX3: Aliens vs Pinball | 164010 | [164010-pinball-fx3-aliens-vs-pinball.json](./164010-pinball-fx3-aliens-vs-pinball.json) |
@@ -13809,6 +13816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Story | 95788 | [95788-police-story.json](./95788-police-story.json) |
 | Police Stunt Cars | 121116 | [121116-police-stunt-cars.json](./121116-police-stunt-cars.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
+| Police Tactics: Imperio | 24210 | [24210-police-tactics-imperio.json](./24210-police-tactics-imperio.json) |
 | Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
 | Police Trainer | 39838 | [39838-police-trainer.json](./39838-police-trainer.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
