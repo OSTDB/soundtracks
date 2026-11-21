@@ -9054,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
+| She's Coming Over & My Place is a Dump! | 429114 | [429114-shes-coming-over-and-my-place-is-a-dump.json](./429114-shes-coming-over-and-my-place-is-a-dump.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
 | She's My Destined Fiancee?! | 277723 | [277723-shes-my-destined-fiancee.json](./277723-shes-my-destined-fiancee.json) |
@@ -11104,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milhão Volume 5 | 222050 | [222050-show-do-milhao-volume-5.json](./222050-show-do-milhao-volume-5.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
+| Show Dogs | 429211 | [429211-show-dogs.json](./429211-show-dogs.json) |
 | Show for Lovers | 133048 | [133048-show-for-lovers.json](./133048-show-for-lovers.json) |
 | Show Guts | 382372 | [382372-show-guts.json](./382372-show-guts.json) |
 | Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
@@ -11832,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege - Battle of Ashington | 109797 | [109797-siege-battle-of-ashington.json](./109797-siege-battle-of-ashington.json) |
 | Siege 'n Sow | 287429 | [287429-siege-n-sow.json](./287429-siege-n-sow.json) |
+| Siege & Settle | 429119 | [429119-siege-and-settle.json](./429119-siege-and-settle.json) |
 | Siege 1K | 406429 | [406429-siege-1k.json](./406429-siege-1k.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
@@ -11978,6 +11981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
 | Sigil | 225433 | [225433-sigil.json](./225433-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
+| Sigil | 429202 | [429202-sigil.json](./429202-sigil.json) |
 | Sigil II | 275462 | [275462-sigil-ii.json](./275462-sigil-ii.json) |
 | Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
@@ -13266,6 +13270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singaria | 120762 | [120762-singaria.json](./120762-singaria.json) |
 | Singer Izek | 93161 | [93161-singer-izek.json](./93161-singer-izek.json) |
 | SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
+| Singing Attorney: Verdict by Midnight | 429189 | [429189-singing-attorney-verdict-by-midnight.json](./429189-singing-attorney-verdict-by-midnight.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Singing Iris | 156756 | [156756-singing-iris.json](./156756-singing-iris.json) |
@@ -21349,11 +21354,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
 | Sort Letters | 377769 | [377769-sort-letters.json](./377769-sort-letters.json) |
+| Sort Memes Together | 429116 | [429116-sort-memes-together.json](./429116-sort-memes-together.json) |
 | Sort My Comics! | 422271 | [422271-sort-my-comics.json](./422271-sort-my-comics.json) |
 | Sort My Pigs | 421928 | [421928-sort-my-pigs.json](./421928-sort-my-pigs.json) |
 | Sort of Justice: Chapter 1 | 335991 | [335991-sort-of-justice-chapter-1.json](./335991-sort-of-justice-chapter-1.json) |
 | Sort of Magic | 420253 | [420253-sort-of-magic.json](./420253-sort-of-magic.json) |
 | Sort of Paradise | 429779 | [429779-sort-of-paradise.json](./429779-sort-of-paradise.json) |
+| Sort of the Apocalypse | 429113 | [429113-sort-of-the-apocalypse.json](./429113-sort-of-the-apocalypse.json) |
 | Sort The Bunnies | 421974 | [421974-sort-the-bunnies.json](./421974-sort-the-bunnies.json) |
 | Sort the Capybaras | 419742 | [419742-sort-the-capybaras.json](./419742-sort-the-capybaras.json) |
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
@@ -26211,6 +26218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Men | 248230 | [248230-spooky-men.json](./248230-spooky-men.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
+| Spooky Mission Origins | 429188 | [429188-spooky-mission-origins.json](./429188-spooky-mission-origins.json) |
 | Spooky Monkey | 383269 | [383269-spooky-monkey.json](./383269-spooky-monkey.json) |
 | Spooky Monster | 374372 | [374372-spooky-monster.json](./374372-spooky-monster.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
