@@ -2760,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imma Potato | 414077 | [414077-imma-potato.json](./414077-imma-potato.json) |
 | Immaculate Grid | 350108 | [350108-immaculate-grid.json](./350108-immaculate-grid.json) |
 | Immaculate Heart | 423636 | [423636-immaculate-heart.json](./423636-immaculate-heart.json) |
+| Immaginification | 427337 | [427337-immaginification.json](./427337-immaginification.json) |
 | Immanence | 128213 | [128213-immanence.json](./128213-immanence.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
