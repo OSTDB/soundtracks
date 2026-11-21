@@ -7431,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Pranks: Frog's Fortune | 108126 | [108126-witchs-pranks-frogs-fortune.json](./108126-witchs-pranks-frogs-fortune.json) |
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
+| Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
 | Witch's Tales | 104743 | [104743-witchs-tales.json](./104743-witchs-tales.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
