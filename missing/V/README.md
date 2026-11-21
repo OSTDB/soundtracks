@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verlicia Saga | 427699 | [427699-verlicia-saga.json](./427699-verlicia-saga.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
+| Verlies II | 35213 | [35213-verlies-ii.json](./35213-verlies-ii.json) |
 | Verlore Drome van Slange Bundle | 331496 | [331496-verlore-drome-van-slange-bundle.json](./331496-verlore-drome-van-slange-bundle.json) |
 | Verlore Slange: Bundle | 331495 | [331495-verlore-slange-bundle.json](./331495-verlore-slange-bundle.json) |
 | Verlore Tyd en Drome Bundle | 213332 | [213332-verlore-tyd-en-drome-bundle.json](./213332-verlore-tyd-en-drome-bundle.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermiworm | 183309 | [183309-vermiworm.json](./183309-vermiworm.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Verne: The Shape of Fantasy | 131885 | [131885-verne-the-shape-of-fantasy.json](./131885-verne-the-shape-of-fantasy.json) |
+| Vernon's Legacy | 35350 | [35350-vernons-legacy.json](./35350-vernons-legacy.json) |
 | Verocity | 367745 | [367745-verocity.json](./367745-verocity.json) |
 | Verona | 110221 | [110221-verona.json](./110221-verona.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
