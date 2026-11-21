@@ -9698,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 329212 | [329212-graveyard-shift.json](./329212-graveyard-shift.json) |
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
 | Graveyard Shift at Freddy's | 300549 | [300549-graveyard-shift-at-freddys.json](./300549-graveyard-shift-at-freddys.json) |
+| Graveyard Shift: A Sage's Last Stand | 422623 | [422623-graveyard-shift-a-sages-last-stand.json](./422623-graveyard-shift-a-sages-last-stand.json) |
 | Graveyard Simulator | 374876 | [374876-graveyard-simulator.json](./374876-graveyard-simulator.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Spells | 186674 | [186674-graveyard-spells.json](./186674-graveyard-spells.json) |
