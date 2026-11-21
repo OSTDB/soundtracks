@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Commander | 126760 | [126760-castle-commander.json](./126760-castle-commander.json) |
 | Castle Conquer | 418983 | [418983-castle-conquer.json](./418983-castle-conquer.json) |
+| Castle Conquer II | 418952 | [418952-castle-conquer-ii.json](./418952-castle-conquer-ii.json) |
 | Castle Conqueror | 85548 | [85548-castle-conqueror.json](./85548-castle-conqueror.json) |
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
