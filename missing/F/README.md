@@ -4490,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femboy Called It “Massage” | 370477 | [370477-femboy-called-it-massage.json](./370477-femboy-called-it-massage.json) |
 | Femboy Feet | 340070 | [340070-femboy-feet.json](./340070-femboy-feet.json) |
 | Femboy Fun | 231782 | [231782-femboy-fun.json](./231782-femboy-fun.json) |
+| Femboy Furry Futa Forest FFFF | 428494 | [428494-femboy-furry-futa-forest-ffff.json](./428494-femboy-furry-futa-forest-ffff.json) |
 | Femboy Fury | 377550 | [377550-femboy-fury.json](./377550-femboy-fury.json) |
 | Femboy Futa House: Dirty Election | 378216 | [378216-femboy-futa-house-dirty-election.json](./378216-femboy-futa-house-dirty-election.json) |
 | Femboy Love Story | 428538 | [428538-femboy-love-story.json](./428538-femboy-love-story.json) |
@@ -8774,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flats Full of Cats: Bugs & Bolts | 379384 | [379384-flats-full-of-cats-bugs-and-bolts.json](./379384-flats-full-of-cats-bugs-and-bolts.json) |
 | Flats Full of Cats: Capes & Curses | 379385 | [379385-flats-full-of-cats-capes-and-curses.json](./379385-flats-full-of-cats-capes-and-curses.json) |
 | Flats Full of Cats: Gold & Candles | 379386 | [379386-flats-full-of-cats-gold-and-candles.json](./379386-flats-full-of-cats-gold-and-candles.json) |
+| Flats Full of Cats: Potions & Masks | 428596 | [428596-flats-full-of-cats-potions-and-masks.json](./428596-flats-full-of-cats-potions-and-masks.json) |
 | Flats Full of Cats: Stars & Oysters | 379387 | [379387-flats-full-of-cats-stars-and-oysters.json](./379387-flats-full-of-cats-stars-and-oysters.json) |
 | Flatshot | 76588 | [76588-flatshot.json](./76588-flatshot.json) |
 | FlatSoccer: Online Soccer | 254210 | [254210-flatsoccer-online-soccer.json](./254210-flatsoccer-online-soccer.json) |
@@ -11803,6 +11805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula E powered by Virtually Live | 36639 | [36639-formula-e-powered-by-virtually-live.json](./36639-formula-e-powered-by-virtually-live.json) |
 | Formula Evolution 2024 | 254904 | [254904-formula-evolution-2024.json](./254904-formula-evolution-2024.json) |
 | Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
+| Formula First Manager | 428586 | [428586-formula-first-manager.json](./428586-formula-first-manager.json) |
 | Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
@@ -14159,6 +14162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Clan Official Server 24/7 ZK Map | 395868 | [395868-frog-clan-official-server-24-7-zk-map.json](./395868-frog-clan-official-server-24-7-zk-map.json) |
 | Frog Climb | 409202 | [409202-frog-climb.json](./409202-frog-climb.json) |
 | Frog Climbers | 24925 | [24925-frog-climbers.json](./24925-frog-climbers.json) |
+| Frog Collector | 428580 | [428580-frog-collector.json](./428580-frog-collector.json) |
 | Frog Corner | 293683 | [293683-frog-corner.json](./293683-frog-corner.json) |
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Dares | 412136 | [412136-frog-dares.json](./412136-frog-dares.json) |
