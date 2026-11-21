@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Manners | 124000 | [124000-table-manners.json](./124000-table-manners.json) |
 | Table Mini Golf | 63631 | [63631-table-mini-golf.json](./63631-table-mini-golf.json) |
 | Table of Tales: The Crooked Crown | 103347 | [103347-table-of-tales-the-crooked-crown.json](./103347-table-of-tales-the-crooked-crown.json) |
+| Table of Truth | 427425 | [427425-table-of-truth.json](./427425-table-of-truth.json) |
 | Table Party | 276641 | [276641-table-party.json](./276641-table-party.json) |
 | Table Party: Kushi Express | 352508 | [352508-table-party-kushi-express.json](./352508-table-party-kushi-express.json) |
 | Table Party: Memoroute | 351495 | [351495-table-party-memoroute.json](./351495-table-party-memoroute.json) |
@@ -1634,6 +1635,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Challenging the Sands of Time | 71435 | [71435-talisman-challenging-the-sands-of-time.json](./71435-talisman-challenging-the-sands-of-time.json) |
 | Talisman: Complete Runestone Deck | 168518 | [168518-talisman-complete-runestone-deck.json](./168518-talisman-complete-runestone-deck.json) |
 | Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
+| Talisman: Digital 5th Edition - Four Classic Corners Pass | 427439 | [427439-talisman-digital-5th-edition-four-classic-corners-pass.json](./427439-talisman-digital-5th-edition-four-classic-corners-pass.json) |
+| Talisman: Digital 5th Edition - The City Classic | 427437 | [427437-talisman-digital-5th-edition-the-city-classic.json](./427437-talisman-digital-5th-edition-the-city-classic.json) |
+| Talisman: Digital 5th Edition - The Frostmarch Classic | 427438 | [427438-talisman-digital-5th-edition-the-frostmarch-classic.json](./427438-talisman-digital-5th-edition-the-frostmarch-classic.json) |
+| Talisman: Digital 5th Edition - The Reaper Classic | 427430 | [427430-talisman-digital-5th-edition-the-reaper-classic.json](./427430-talisman-digital-5th-edition-the-reaper-classic.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
 | Talisman: Digital Edition | 10952 | [10952-talisman-digital-edition.json](./10952-talisman-digital-edition.json) |
 | Talisman: Digital Edition - 40th Anniversary Edition | 270312 | [270312-talisman-digital-edition-40th-anniversary-edition.json](./270312-talisman-digital-edition-40th-anniversary-edition.json) |
@@ -4909,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terix Survivors | 236268 | [236268-terix-survivors.json](./236268-terix-survivors.json) |
 | TerkEngine | 56617 | [56617-terkengine.json](./56617-terkengine.json) |
 | Termalloc | 212601 | [212601-termalloc.json](./212601-termalloc.json) |
+| Termão | 427352 | [427352-termao.json](./427352-termao.json) |
 | Termina | 217333 | [217333-termina.json](./217333-termina.json) |
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
 | Terminal | 150493 | [150493-terminal.json](./150493-terminal.json) |
@@ -8058,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capture Worlds | 96635 | [96635-the-capture-worlds.json](./96635-the-capture-worlds.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
 | The Capybarrier | 310908 | [310908-the-capybarrier.json](./310908-the-capybarrier.json) |
+| The Carbonara Tales | 427419 | [427419-the-carbonara-tales.json](./427419-the-carbonara-tales.json) |
 | The Carcass | 386476 | [386476-the-carcass.json](./386476-the-carcass.json) |
 | The Card Battle: Eternal Destiny | 173121 | [173121-the-card-battle-eternal-destiny.json](./173121-the-card-battle-eternal-destiny.json) |
 | The Card Perfect Collection | 196187 | [196187-the-card-perfect-collection.json](./196187-the-card-perfect-collection.json) |
@@ -8469,6 +8476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Clown's Forest: Fear of a Survivor | 298461 | [298461-the-clowns-forest-fear-of-a-survivor.json](./298461-the-clowns-forest-fear-of-a-survivor.json) |
 | The Clown's Forest: Shadows of Blood | 420060 | [420060-the-clowns-forest-shadows-of-blood.json](./420060-the-clowns-forest-shadows-of-blood.json) |
+| The Clown's Fun | 427443 | [427443-the-clowns-fun.json](./427443-the-clowns-fun.json) |
 | The Club | 352992 | [352992-the-club.json](./352992-the-club.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clubies | 263168 | [263168-the-clubies.json](./263168-the-clubies.json) |
@@ -10645,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Angels | 39581 | [39581-the-fallen-angels.json](./39581-the-fallen-angels.json) |
 | The Fallen Castle: Chapter 1 | 401924 | [401924-the-fallen-castle-chapter-1.json](./401924-the-fallen-castle-chapter-1.json) |
 | The Fallen Chronicler | 58099 | [58099-the-fallen-chronicler.json](./58099-the-fallen-chronicler.json) |
+| The Fallen Chronicles | 427356 | [427356-the-fallen-chronicles.json](./427356-the-fallen-chronicles.json) |
 | The Fallen Crypt of the Judgement Concrete | 328031 | [328031-the-fallen-crypt-of-the-judgement-concrete.json](./328031-the-fallen-crypt-of-the-judgement-concrete.json) |
 | The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
 | The Fallen God's Chronicles: Dmet Prison | 207410 | [207410-the-fallen-gods-chronicles-dmet-prison.json](./207410-the-fallen-gods-chronicles-dmet-prison.json) |
@@ -13036,6 +13045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island Combat | 104333 | [104333-the-island-combat.json](./104333-the-island-combat.json) |
+| The Island Mystery | 427444 | [427444-the-island-mystery.json](./427444-the-island-mystery.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Crossed Destinies | 353356 | [353356-the-island-of-crossed-destinies.json](./353356-the-island-of-crossed-destinies.json) |
 | The Island of Doctor Morose | 348474 | [348474-the-island-of-doctor-morose.json](./348474-the-island-of-doctor-morose.json) |
@@ -28221,6 +28231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToHeart2 Portable | 238666 | [238666-toheart2-portable.json](./238666-toheart2-portable.json) |
 | ToHeart2 XRated | 238370 | [238370-toheart2-xrated.json](./238370-toheart2-xrated.json) |
 | ToHeart2: AnotherDays | 242474 | [242474-toheart2-anotherdays.json](./242474-toheart2-anotherdays.json) |
+| TohKago | 427455 | [427455-tohkago.json](./427455-tohkago.json) |
 | Tohoku Daigaku Karei Igaku Kenkyuusho: Kawashima Ryuuta Kyouju Kanshuu - Mono Sugoku Nou wo Kitaeru 5-Funkan no Oni Training | 136956 | [136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json](./136956-tohoku-daigaku-karei-igaku-kenkyuusho-kawashima-ryuuta-kyouju-kanshuu-mono-sugoku-nou-wo-kitaeru-5-funkan-no-oni-training.json) |
 | Tohotopia | 391609 | [391609-tohotopia.json](./391609-tohotopia.json) |
 | Tohou Sky Arena: Matsuri Climax - Playable Character: Toyosatomimi no Miko | 238033 | [238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json](./238033-tohou-sky-arena-matsuri-climax-playable-character-toyosatomimi-no-miko.json) |
