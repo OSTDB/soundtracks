@@ -7194,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex & Coffee | 365918 | [365918-sex-and-coffee.json](./365918-sex-and-coffee.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
+| Sex & Gun VR | 418763 | [418763-sex-and-gun-vr.json](./418763-sex-and-gun-vr.json) |
 | Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
 | Sex Adventure: The Board Game | 391944 | [391944-sex-adventure-the-board-game.json](./391944-sex-adventure-the-board-game.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
@@ -8792,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Dating Simulator XL | 43097 | [43097-shark-dating-simulator-xl.json](./43097-shark-dating-simulator-xl.json) |
 | Shark Dentist | 354222 | [354222-shark-dentist.json](./354222-shark-dentist.json) |
 | Shark Game | 220256 | [220256-shark-game.json](./220256-shark-game.json) |
+| Shark Game? | 418962 | [418962-shark-game.json](./418962-shark-game.json) |
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
 | Shark Hunter | 41572 | [41572-shark-hunter.json](./41572-shark-hunter.json) |
@@ -15096,6 +15098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward War | 216055 | [216055-skyward-war.json](./216055-skyward-war.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyway | 30974 | [30974-skyway.json](./30974-skyway.json) |
+| Skyway | 418954 | [418954-skyway.json](./418954-skyway.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
@@ -39507,6 +39510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance Kanshisha | 65021 | [65021-surveillance-kanshisha.json](./65021-surveillance-kanshisha.json) |
 | Surveillance Simulator | 287736 | [287736-surveillance-simulator.json](./287736-surveillance-simulator.json) |
 | Survev.io | 324557 | [324557-survev-io.json](./324557-survev-io.json) |
+| Survey | 413253 | [413253-survey.json](./413253-survey.json) |
 | SurvHive | 32377 | [32377-survhive.json](./32377-survhive.json) |
 | Survi.io | 176636 | [176636-survi-io.json](./176636-survi-io.json) |
 | Survial | 274577 | [274577-survial.json](./274577-survial.json) |
