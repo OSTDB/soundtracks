@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | GemCraft: Frostborn Wrath | 119980 | [119980-gemcraft-frostborn-wrath.json](./119980-gemcraft-frostborn-wrath.json) |
 | Gemcraft: Legacy Collection | 408202 | [408202-gemcraft-legacy-collection.json](./408202-gemcraft-legacy-collection.json) |
+| GemCremental | 425001 | [425001-gemcremental.json](./425001-gemcremental.json) |
 | Gemcrusty | 244520 | [244520-gemcrusty.json](./244520-gemcrusty.json) |
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
 | Gemdow Quest | 293958 | [293958-gemdow-quest.json](./293958-gemdow-quest.json) |
@@ -5787,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
 | Gloamvault | 339957 | [339957-gloamvault.json](./339957-gloamvault.json) |
 | Glob | 197007 | [197007-glob.json](./197007-glob.json) |
+| Glob & the Missing Globbies | 424922 | [424922-glob-and-the-missing-globbies.json](./424922-glob-and-the-missing-globbies.json) |
 | Glob Dash | 166481 | [166481-glob-dash.json](./166481-glob-dash.json) |
 | Globaglorp Simulator | 341147 | [341147-globaglorp-simulator.json](./341147-globaglorp-simulator.json) |
 | Global Adventures | 43119 | [43119-global-adventures.json](./43119-global-adventures.json) |
@@ -8135,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Villa Vista Set - Chapter 5 | 266522 | [266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json](./266522-good-pizza-great-pizza-villa-vista-set-chapter-5.json) |
 | Good Pizza, Great Pizza: Vintage Sunshine Set | 249304 | [249304-good-pizza-great-pizza-vintage-sunshine-set.json](./249304-good-pizza-great-pizza-vintage-sunshine-set.json) |
+| Good President Simulator | 425025 | [425025-good-president-simulator.json](./425025-good-president-simulator.json) |
 | Good puzzle | 155651 | [155651-good-puzzle.json](./155651-good-puzzle.json) |
 | Good puzzle: Animals | 162449 | [162449-good-puzzle-animals.json](./162449-good-puzzle-animals.json) |
 | Good puzzle: Castles | 161364 | [161364-good-puzzle-castles.json](./161364-good-puzzle-castles.json) |
