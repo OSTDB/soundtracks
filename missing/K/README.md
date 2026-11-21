@@ -1590,9 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawasaki Caribbean Challenge | 42508 | [42508-kawasaki-caribbean-challenge.json](./42508-kawasaki-caribbean-challenge.json) |
 | Kawasaki Devils | 376881 | [376881-kawasaki-devils.json](./376881-kawasaki-devils.json) |
 | Kawasaki Fantasy Motocross | 91690 | [91690-kawasaki-fantasy-motocross.json](./91690-kawasaki-fantasy-motocross.json) |
-| Kawasaki Jet Ski | 4950 | [4950-kawasaki-jet-ski.json](./4950-kawasaki-jet-ski.json) |
 | Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
-| Kawasaki Quad Bikes | 4951 | [4951-kawasaki-quad-bikes.json](./4951-kawasaki-quad-bikes.json) |
 | Kawasaki Snowmobiles | 4952 | [4952-kawasaki-snowmobiles.json](./4952-kawasaki-snowmobiles.json) |
 | Kawasaki Superbike Challenge | 27071 | [27071-kawasaki-superbike-challenge.json](./27071-kawasaki-superbike-challenge.json) |
 | Kawasaki Superbike Challenge | 46540 | [46540-kawasaki-superbike-challenge.json](./46540-kawasaki-superbike-challenge.json) |
@@ -2681,7 +2679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidou Senshi Gundam: Gundam vs. Gundam | 269497 | [269497-kidou-senshi-gundam-gundam-vs-gundam.json](./269497-kidou-senshi-gundam-gundam-vs-gundam.json) |
 | Kidou Senshi Gundam: Gundam vs. Z Gundam | 123341 | [123341-kidou-senshi-gundam-gundam-vs-z-gundam.json](./123341-kidou-senshi-gundam-gundam-vs-z-gundam.json) |
 | Kidou Senshi Gundam: Senjou No Kizuna Portable | 56744 | [56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json](./56744-kidou-senshi-gundam-senjou-no-kizuna-portable.json) |
-| Kidou Senshi Gundam: Senshi-tachi no Kiseki | 3965 | [3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json](./3965-kidou-senshi-gundam-senshi-tachi-no-kiseki.json) |
 | Kidou Senshi Gundam: Sokuou Sensen | 109139 | [109139-kidou-senshi-gundam-sokuou-sensen.json](./109139-kidou-senshi-gundam-sokuou-sensen.json) |
 | Kidou Senshi V-Gundam | 42518 | [42518-kidou-senshi-v-gundam.json](./42518-kidou-senshi-v-gundam.json) |
 | Kidou Senshi Z Gundam: Gryps no Koubou | 385760 | [385760-kidou-senshi-z-gundam-gryps-no-koubou.json](./385760-kidou-senshi-z-gundam-gryps-no-koubou.json) |
@@ -3546,7 +3543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bowling 3 | 278873 | [278873-king-of-bowling-3.json](./278873-king-of-bowling-3.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Casino | 42105 | [42105-king-of-casino.json](./42105-king-of-casino.json) |
-| King of Clubs | 4958 | [4958-king-of-clubs.json](./4958-king-of-clubs.json) |
 | King of Colosseum Green | 72817 | [72817-king-of-colosseum-green.json](./72817-king-of-colosseum-green.json) |
 | King of Colosseum II | 43676 | [43676-king-of-colosseum-ii.json](./43676-king-of-colosseum-ii.json) |
 | King of Colosseum Red | 72818 | [72818-king-of-colosseum-red.json](./72818-king-of-colosseum-red.json) |
@@ -6118,7 +6114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konjiki no Gash Bell!! The Card Battle for GBA | 49677 | [49677-konjiki-no-gash-bell-the-card-battle-for-gba.json](./49677-konjiki-no-gash-bell-the-card-battle-for-gba.json) |
 | Konjiki no Gash Bell!! Unare! Yuujou no Zakeru 2 | 49678 | [49678-konjiki-no-gash-bell-unare-yuujou-no-zakeru-2.json](./49678-konjiki-no-gash-bell-unare-yuujou-no-zakeru-2.json) |
 | Konjiki no Gash Bell!! Yuujou no Dengeki Dream Tag Tournament | 269755 | [269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json](./269755-konjiki-no-gash-bell-yuujou-no-dengeki-dream-tag-tournament.json) |
-| Konjiki no Gash Bell!! Yuujou no Tag Battle Full Power | 3969 | [3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json](./3969-konjiki-no-gash-bell-yuujou-no-tag-battle-full-power.json) |
 | Konjiki no Gash Bell!! Yuujou Tag Battle | 234643 | [234643-konjiki-no-gash-bell-yuujou-tag-battle.json](./234643-konjiki-no-gash-bell-yuujou-tag-battle.json) |
 | Konjiki no Gash Bell!!: Friends of Eternal Bonds | 283534 | [283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json](./283534-konjiki-no-gash-bell-friends-of-eternal-bonds.json) |
 | Konjiki no Gashbell!! Yuujou no Zakeru: Dream Tag Tournament | 234808 | [234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json](./234808-konjiki-no-gashbell-yuujou-no-zakeru-dream-tag-tournament.json) |
@@ -6344,7 +6339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korobo | 309105 | [309105-korobo.json](./309105-korobo.json) |
 | Korogashi Puzzle Katamari Damacy | 6458 | [6458-korogashi-puzzle-katamari-damacy.json](./6458-korogashi-puzzle-katamari-damacy.json) |
 | Korokesu | 221578 | [221578-korokesu.json](./221578-korokesu.json) |
-| Korokke! Ban-Ou no Kiki wo Sukue | 3970 | [3970-korokke-ban-ou-no-kiki-wo-sukue.json](./3970-korokke-ban-ou-no-kiki-wo-sukue.json) |
 | Korokoro | 338756 | [338756-korokoro.json](./338756-korokoro.json) |
 | Korokoro Harley | 250558 | [250558-korokoro-harley.json](./250558-korokoro-harley.json) |
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
@@ -7001,7 +6995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda Holiday | 74856 | [74856-kung-fu-panda-holiday.json](./74856-kung-fu-panda-holiday.json) |
 | Kung Fu Panda World | 357266 | [357266-kung-fu-panda-world.json](./357266-kung-fu-panda-world.json) |
 | Kung Fu Panda: Legendary Warriors | 259266 | [259266-kung-fu-panda-legendary-warriors.json](./259266-kung-fu-panda-legendary-warriors.json) |
-| Kung Fu Panda: Legendary Warriors | 4963 | [4963-kung-fu-panda-legendary-warriors.json](./4963-kung-fu-panda-legendary-warriors.json) |
 | Kung Fu Panda: Path of the Panda | 70689 | [70689-kung-fu-panda-path-of-the-panda.json](./70689-kung-fu-panda-path-of-the-panda.json) |
 | Kung Fu Panda: Showdown of Legendary Legends | 20089 | [20089-kung-fu-panda-showdown-of-legendary-legends.json](./20089-kung-fu-panda-showdown-of-legendary-legends.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Armored Mr. Ping and Jombie Oogway | 170753 | [170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json](./170753-kung-fu-panda-showdown-of-legendary-legends-armored-mr-ping-and-jombie-oogway.json) |
