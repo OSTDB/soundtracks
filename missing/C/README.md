@@ -5429,6 +5429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
 | Cats Defense Robots: Meow Legends | 342343 | [342343-cats-defense-robots-meow-legends.json](./342343-cats-defense-robots-meow-legends.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
+| Cats Don't Carry Car Parts | 422882 | [422882-cats-dont-carry-car-parts.json](./422882-cats-dont-carry-car-parts.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
 | Cats Everywhere | 284797 | [284797-cats-everywhere.json](./284797-cats-everywhere.json) |
 | Cats Fighters | 239621 | [239621-cats-fighters.json](./239621-cats-fighters.json) |
@@ -6104,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
 | Celestial Reverie | 406574 | [406574-celestial-reverie.json](./406574-celestial-reverie.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
+| Celestial Sentinel | 422908 | [422908-celestial-sentinel.json](./422908-celestial-sentinel.json) |
 | Celestial Soul | 316144 | [316144-celestial-soul.json](./316144-celestial-soul.json) |
 | Celestial Tear: Demon's Revenge | 34885 | [34885-celestial-tear-demons-revenge.json](./34885-celestial-tear-demons-revenge.json) |
 | Celestial Tear: Lost World | 211170 | [211170-celestial-tear-lost-world.json](./211170-celestial-tear-lost-world.json) |
@@ -22585,6 +22587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Clicker | 404582 | [404582-cult-clicker.json](./404582-cult-clicker.json) |
 | Cult Conquest | 176181 | [176181-cult-conquest.json](./176181-cult-conquest.json) |
 | Cult County | 63659 | [63659-cult-county.json](./63659-cult-county.json) |
+| Cult Crasher | 422899 | [422899-cult-crasher.json](./422899-cult-crasher.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
 | Cult Jump | 49145 | [49145-cult-jump.json](./49145-cult-jump.json) |
