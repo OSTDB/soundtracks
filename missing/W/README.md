@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We're Women, After All | 401234 | [401234-were-women-after-all.json](./401234-were-women-after-all.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
+| Weable | 54467 | [54467-weable.json](./54467-weable.json) |
 | Weable 2 | 83816 | [83816-weable-2.json](./83816-weable-2.json) |
 | Weabot | 395788 | [395788-weabot.json](./395788-weabot.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
@@ -3701,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
+| Weird Park: The Final Show | 53127 | [53127-weird-park-the-final-show.json](./53127-weird-park-the-final-show.json) |
 | Weird Pizza Dreams | 323344 | [323344-weird-pizza-dreams.json](./323344-weird-pizza-dreams.json) |
 | Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
 | Weird RPG | 219144 | [219144-weird-rpg.json](./219144-weird-rpg.json) |
@@ -4125,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westmark Manor | 131303 | [131303-westmark-manor.json](./131303-westmark-manor.json) |
 | Westminster Darkly | 128146 | [128146-westminster-darkly.json](./128146-westminster-darkly.json) |
 | WestQuest for Playdate! | 264557 | [264557-westquest-for-playdate.json](./264557-westquest-for-playdate.json) |
+| WestSlingers | 53313 | [53313-westslingers.json](./53313-westslingers.json) |
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westview Academy | 360797 | [360797-westview-academy.json](./360797-westview-academy.json) |
 | Westward | 7503 | [7503-westward.json](./7503-westward.json) |
