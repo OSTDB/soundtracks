@@ -6580,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Detective Supah Star | 115453 | [115453-goat-detective-supah-star.json](./115453-goat-detective-supah-star.json) |
 | Goat Evolution | 103091 | [103091-goat-evolution.json](./103091-goat-evolution.json) |
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
+| Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat Massacre | 340314 | [340314-goat-massacre.json](./340314-goat-massacre.json) |
 | Goat MMO Simulator | 23191 | [23191-goat-mmo-simulator.json](./23191-goat-mmo-simulator.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
@@ -13233,6 +13234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym or Jail? | 285254 | [285254-gym-or-jail.json](./285254-gym-or-jail.json) |
 | Gym Orgasm | 340407 | [340407-gym-orgasm.json](./340407-gym-orgasm.json) |
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
+| Gym Simulator | 101396 | [101396-gym-simulator.json](./101396-gym-simulator.json) |
 | Gym Simulator | 364148 | [364148-gym-simulator.json](./364148-gym-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
