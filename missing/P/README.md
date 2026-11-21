@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Spirits | 324625 | [324625-party-spirits.json](./324625-party-spirits.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
+| Party Time Bowling | 429109 | [429109-party-time-bowling.json](./429109-party-time-bowling.json) |
 | Party Treats | 125055 | [125055-party-treats.json](./125055-party-treats.json) |
 | Party Trivia | 98839 | [98839-party-trivia.json](./98839-party-trivia.json) |
 | Party Tycoon: Takeover | 418379 | [418379-party-tycoon-takeover.json](./418379-party-tycoon-takeover.json) |
@@ -3410,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Ascendancy | 75571 | [75571-path-of-exile-ascendancy.json](./75571-path-of-exile-ascendancy.json) |
 | Path of Exile: Atlas of Worlds | 75572 | [75572-path-of-exile-atlas-of-worlds.json](./75572-path-of-exile-atlas-of-worlds.json) |
 | Path of Exile: Betrayal | 112085 | [112085-path-of-exile-betrayal.json](./112085-path-of-exile-betrayal.json) |
+| Path of Exile: Covens of Umbra | 429191 | [429191-path-of-exile-covens-of-umbra.json](./429191-path-of-exile-covens-of-umbra.json) |
 | Path of Exile: Crucible | 257831 | [257831-path-of-exile-crucible.json](./257831-path-of-exile-crucible.json) |
 | Path of Exile: Curse of the Allflame | 411344 | [411344-path-of-exile-curse-of-the-allflame.json](./411344-path-of-exile-curse-of-the-allflame.json) |
 | Path of Exile: Echoes of the Atlas | 142400 | [142400-path-of-exile-echoes-of-the-atlas.json](./142400-path-of-exile-echoes-of-the-atlas.json) |
@@ -19004,6 +19006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propagation VR | 139182 | [139182-propagation-vr.json](./139182-propagation-vr.json) |
 | Propagation: Paradise Hotel | 190483 | [190483-propagation-paradise-hotel.json](./190483-propagation-paradise-hotel.json) |
+| PropAlive | 429198 | [429198-propalive.json](./429198-propalive.json) |
 | Propel Man | 242287 | [242287-propel-man.json](./242287-propel-man.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Propeller King | 207674 | [207674-propeller-king.json](./207674-propeller-king.json) |
@@ -19833,6 +19836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PukuPuku Tennen Kairanban: Youkoso! Illusion Land e | 49760 | [49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json](./49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json) |
 | Puky | 257778 | [257778-puky.json](./257778-puky.json) |
 | Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
+| Pulcra Remastered | 429098 | [429098-pulcra-remastered.json](./429098-pulcra-remastered.json) |
 | Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
 | Pull Ball | 114361 | [114361-pull-ball.json](./114361-pull-ball.json) |
