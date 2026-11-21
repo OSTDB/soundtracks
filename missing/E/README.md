@@ -1152,7 +1152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
 | Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
-| Ecks vs. Sever | 6396 | [6396-ecks-vs-sever.json](./6396-ecks-vs-sever.json) |
 | Eckspelled | 409883 | [409883-eckspelled.json](./409883-eckspelled.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Expansion Enterprise | 248088 | [248088-eclectic-expansion-enterprise.json](./248088-eclectic-expansion-enterprise.json) |
@@ -2108,7 +2107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisei Meijin | 268639 | [268639-eisei-meijin.json](./268639-eisei-meijin.json) |
 | Eisei Meijin II | 268640 | [268640-eisei-meijin-ii.json](./268640-eisei-meijin-ii.json) |
 | Eisei Meijin III: Game Creator Yoshimura Nobuhiro no Zunou | 283253 | [283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json](./283253-eisei-meijin-iii-game-creator-yoshimura-nobuhiro-no-zunou.json) |
-| Eisei Meijin VI | 3904 | [3904-eisei-meijin-vi.json](./3904-eisei-meijin-vi.json) |
 | Eiseihousou Taiou Casette: SameGame Editor | 234881 | [234881-eiseihousou-taiou-casette-samegame-editor.json](./234881-eiseihousou-taiou-casette-samegame-editor.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
 | Eisenbahn X | 36081 | [36081-eisenbahn-x.json](./36081-eisenbahn-x.json) |
@@ -4893,7 +4891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
 | Enmazened | 271082 | [271082-enmazened.json](./271082-enmazened.json) |
 | Ennichi Kara Dasshutsu | 283805 | [283805-ennichi-kara-dasshutsu.json](./283805-ennichi-kara-dasshutsu.json) |
-| Ennichi no Tatsujin | 4834 | [4834-ennichi-no-tatsujin.json](./4834-ennichi-no-tatsujin.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
@@ -5966,7 +5963,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From BioStation | 37013 | [37013-escape-from-biostation.json](./37013-escape-from-biostation.json) |
 | Escape from Blackwood | 280109 | [280109-escape-from-blackwood.json](./280109-escape-from-blackwood.json) |
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
-| Escape from Bug Island | 4835 | [4835-escape-from-bug-island.json](./4835-escape-from-bug-island.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Bytesville | 291881 | [291881-escape-from-bytesville.json](./291881-escape-from-bytesville.json) |
 | Escape from Calypso | 283353 | [283353-escape-from-calypso.json](./283353-escape-from-calypso.json) |
@@ -6811,7 +6807,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN National Hockey Night | 80419 | [80419-espn-national-hockey-night.json](./80419-espn-national-hockey-night.json) |
 | ESPN NBA 2K5 | 8834 | [8834-espn-nba-2k5.json](./8834-espn-nba-2k5.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
-| ESPN NBA 2Night 2002 | 5825 | [5825-espn-nba-2night-2002.json](./5825-espn-nba-2night-2002.json) |
 | ESPN NBA Basketball | 8833 | [8833-espn-nba-basketball.json](./8833-espn-nba-basketball.json) |
 | ESPN NBA Basketball 2004 | 94616 | [94616-espn-nba-basketball-2004.json](./94616-espn-nba-basketball-2004.json) |
 | ESPN NBA HangTime '95 | 46406 | [46406-espn-nba-hangtime-95.json](./46406-espn-nba-hangtime-95.json) |
@@ -8506,7 +8501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Planet: Gold Edition | 32290 | [32290-evolution-planet-gold-edition.json](./32290-evolution-planet-gold-edition.json) |
 | Evolution RTS | 36359 | [36359-evolution-rts.json](./36359-evolution-rts.json) |
 | Evolution Skateboarding | 3908 | [3908-evolution-skateboarding.json](./3908-evolution-skateboarding.json) |
-| Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Survival | 271638 | [271638-evolution-survival.json](./271638-evolution-survival.json) |
 | Evolution Tag 2 | 172886 | [172886-evolution-tag-2.json](./172886-evolution-tag-2.json) |
