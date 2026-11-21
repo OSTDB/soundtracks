@@ -5051,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherion | 376843 | [376843-aetherion.json](./376843-aetherion.json) |
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
+| Aethermancer | 244431 | [244431-aethermancer.json](./244431-aethermancer.json) |
 | Aethernaut | 136660 | [136660-aethernaut.json](./136660-aethernaut.json) |
 | AetherShot | 318055 | [318055-aethershot.json](./318055-aethershot.json) |
 | Aetherspace | 44089 | [44089-aetherspace.json](./44089-aetherspace.json) |
@@ -18156,6 +18157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suits Valken | 21064 | [21064-assault-suits-valken.json](./21064-assault-suits-valken.json) |
 | Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
+| Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
 | Assault Trooper | 47021 | [47021-assault-trooper.json](./47021-assault-trooper.json) |
 | Assault Wing | 274517 | [274517-assault-wing.json](./274517-assault-wing.json) |
 | Assault: Retribution | 77050 | [77050-assault-retribution.json](./77050-assault-retribution.json) |
