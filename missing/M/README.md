@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Barrage | 61815 | [61815-magic-barrage.json](./61815-magic-barrage.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
+| Magic Battle | 427980 | [427980-magic-battle.json](./427980-magic-battle.json) |
 | Magic Battle Hasamuncho | 253760 | [253760-magic-battle-hasamuncho.json](./253760-magic-battle-hasamuncho.json) |
 | Magic Bean | 245154 | [245154-magic-bean.json](./245154-magic-bean.json) |
 | Magic Bean | 270997 | [270997-magic-bean.json](./270997-magic-bean.json) |
@@ -13529,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Action Pack Volume 1 | 80786 | [80786-military-action-pack-volume-1.json](./80786-military-action-pack-volume-1.json) |
 | Military Aircraft | 56664 | [56664-military-aircraft.json](./56664-military-aircraft.json) |
 | Military Attack | 215612 | [215612-military-attack.json](./215612-military-attack.json) |
+| Military Base Tidy Up | 427907 | [427907-military-base-tidy-up.json](./427907-military-base-tidy-up.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Battlefield: Enlisted | 404361 | [404361-military-battlefield-enlisted.json](./404361-military-battlefield-enlisted.json) |
 | Military Combat Shooter Desert War | 283276 | [283276-military-combat-shooter-desert-war.json](./283276-military-combat-shooter-desert-war.json) |
@@ -18332,6 +18334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Deluxe Edition | 334112 | [334112-monster-hunter-wilds-deluxe-edition.json](./334112-monster-hunter-wilds-deluxe-edition.json) |
 | Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
+| Monster Hunter Wilds: Gesture Set Vol. 9 | 427975 | [427975-monster-hunter-wilds-gesture-set-vol-9.json](./427975-monster-hunter-wilds-gesture-set-vol-9.json) |
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
 | Monster Hunter Wilds: Title Update 1 | 338636 | [338636-monster-hunter-wilds-title-update-1.json](./338636-monster-hunter-wilds-title-update-1.json) |
 | Monster Hunter Wilds: Title Update 2 | 338637 | [338637-monster-hunter-wilds-title-update-2.json](./338637-monster-hunter-wilds-title-update-2.json) |
@@ -19672,6 +19675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori and the Whisper | 118753 | [118753-mori-and-the-whisper.json](./118753-mori-and-the-whisper.json) |
 | Mori Carta | 212002 | [212002-mori-carta.json](./212002-mori-carta.json) |
+| Mori Hime | 427905 | [427905-mori-hime.json](./427905-mori-hime.json) |
 | Mori no Cafeteria: Oshare na Cafe Recipe | 273716 | [273716-mori-no-cafeteria-oshare-na-cafe-recipe.json](./273716-mori-no-cafeteria-oshare-na-cafe-recipe.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
 | Mori no Fukurou | 72270 | [72270-mori-no-fukurou.json](./72270-mori-no-fukurou.json) |
