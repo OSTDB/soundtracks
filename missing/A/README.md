@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absinthia | 194851 | [194851-absinthia.json](./194851-absinthia.json) |
 | Abskur | 180180 | [180180-abskur.json](./180180-abskur.json) |
+| Absoloot | 30530 | [30530-absoloot.json](./30530-absoloot.json) |
 | Absolut deadmau5 | 58283 | [58283-absolut-deadmau5.json](./58283-absolut-deadmau5.json) |
 | Absolute | 143945 | [143945-absolute.json](./143945-absolute.json) |
 | Absolute Acey Deucey | 104169 | [104169-absolute-acey-deucey.json](./104169-absolute-acey-deucey.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Explore the Dungeon Because I Don't Know! | 4557 | [4557-adventure-time-explore-the-dungeon-because-i-dont-know.json](./4557-adventure-time-explore-the-dungeon-because-i-dont-know.json) |
 | Adventure Time: Finn and Bones | 176870 | [176870-adventure-time-finn-and-bones.json](./176870-adventure-time-finn-and-bones.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Finn and Jake's Epic Quest | 30241 | [30241-adventure-time-finn-and-jakes-epic-quest.json](./30241-adventure-time-finn-and-jakes-epic-quest.json) |
 | Adventure Time: Game Wizard | 60905 | [60905-adventure-time-game-wizard.json](./60905-adventure-time-game-wizard.json) |
 | Adventure Time: Heroes of Ooo | 62020 | [62020-adventure-time-heroes-of-ooo.json](./62020-adventure-time-heroes-of-ooo.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
@@ -5108,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affliction | 221921 | [221921-affliction.json](./221921-affliction.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affordable Space Adventures | 9673 | [9673-affordable-space-adventures.json](./9673-affordable-space-adventures.json) |
+| AffordaGolf Online | 30138 | [30138-affordagolf-online.json](./30138-affordagolf-online.json) |
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
 | Afghanistan '11: Royal Marines | 172322 | [172322-afghanistan-11-royal-marines.json](./172322-afghanistan-11-royal-marines.json) |
@@ -11375,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelic: Dark Symphony | 266179 | [266179-angelic-dark-symphony.json](./266179-angelic-dark-symphony.json) |
 | Angélica no Reino Animal | 292093 | [292093-angelica-no-reino-animal.json](./292093-angelica-no-reino-animal.json) |
 | Angelica Weaver: Catch Me When You Can | 9975 | [9975-angelica-weaver-catch-me-when-you-can.json](./9975-angelica-weaver-catch-me-when-you-can.json) |
+| Angelica Weaver: Catch Me When You Can - Collector's Edition | 30149 | [30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json](./30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json) |
 | Angelica's Chaotic Hardcore School | 369796 | [369796-angelicas-chaotic-hardcore-school.json](./369796-angelicas-chaotic-hardcore-school.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique | 49447 | [49447-angelique.json](./49447-angelique.json) |
