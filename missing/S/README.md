@@ -39802,7 +39802,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving the Apocalypse Is More Fun When There’s Sex | 301658 | [301658-surviving-the-apocalypse-is-more-fun-when-there-s-sex.json](./301658-surviving-the-apocalypse-is-more-fun-when-there-s-sex.json) |
 | Surviving the Fall | 238569 | [238569-surviving-the-fall.json](./238569-surviving-the-fall.json) |
 | Surviving the Humans | 191573 | [191573-surviving-the-humans.json](./191573-surviving-the-humans.json) |
-| Surviving Titan | 130244 | [130244-surviving-titan.json](./130244-surviving-titan.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivium | 408938 | [408938-survivium.json](./408938-survivium.json) |
