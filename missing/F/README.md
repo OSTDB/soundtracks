@@ -9479,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
 | Floor Massacre | 107727 | [107727-floor-massacre.json](./107727-floor-massacre.json) |
+| Floor Negative | 418758 | [418758-floor-negative.json](./418758-floor-negative.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
 | Floor Plan 2: Backside Story | 253180 | [253180-floor-plan-2-backside-story.json](./253180-floor-plan-2-backside-story.json) |
