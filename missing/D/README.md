@@ -17002,6 +17002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot - Trunks: The Warrior of Hope | 144352 | [144352-dragon-ball-z-kakarot-trunks-the-warrior-of-hope.json](./144352-dragon-ball-z-kakarot-trunks-the-warrior-of-hope.json) |
 | Dragon Ball Z: Kakarot - Ultimate Edition | 136271 | [136271-dragon-ball-z-kakarot-ultimate-edition.json](./136271-dragon-ball-z-kakarot-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot - Ultimate Special Edition | 233943 | [233943-dragon-ball-z-kakarot-ultimate-special-edition.json](./233943-dragon-ball-z-kakarot-ultimate-special-edition.json) |
+| Dragon Ball Z: Kakarot + A New Power Awakens Set | 152394 | [152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json](./152394-dragon-ball-z-kakarot-a-new-power-awakens-set.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Deluxe Edition | 237860 | [237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json](./237860-dragon-ball-z-kakarot-a-new-power-awakens-set-deluxe-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Goku's Next Journey | 288303 | [288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json](./288303-dragon-ball-z-kakarot-a-new-power-awakens-set-gokus-next-journey.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
