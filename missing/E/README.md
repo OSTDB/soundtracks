@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2016 | 52959 | [52959-emergency-2016.json](./52959-emergency-2016.json) |
 | Emergency 2017 | 31411 | [31411-emergency-2017.json](./31411-emergency-2017.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
+| Emergency 4: Deluxe | 83566 | [83566-emergency-4-deluxe.json](./83566-emergency-4-deluxe.json) |
 | Emergency 5 | 57334 | [57334-emergency-5.json](./57334-emergency-5.json) |
 | Emergency Ambulance Simulator | 383399 | [383399-emergency-ambulance-simulator.json](./383399-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
 | Enigmatis 3: The Shadow of Karkhala - Collector's Edition | 426075 | [426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json](./426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json) |
+| Enigmatis Bundle | 82382 | [82382-enigmatis-bundle.json](./82382-enigmatis-bundle.json) |
 | Enigmatis Collection | 52986 | [52986-enigmatis-collection.json](./52986-enigmatis-collection.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | EnigmBox | 87893 | [87893-enigmbox.json](./87893-enigmbox.json) |
