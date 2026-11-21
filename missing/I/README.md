@@ -7920,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwate Mountain Dance | 132313 | [132313-iwate-mountain-dance.json](./132313-iwate-mountain-dance.json) |
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
 | Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari | 185678 | [185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json](./185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json) |
+| iWin Daily Challenge | 424932 | [424932-iwin-daily-challenge.json](./424932-iwin-daily-challenge.json) |
 | IWL: Interstellar Wrestling League | 363912 | [363912-iwl-interstellar-wrestling-league.json](./363912-iwl-interstellar-wrestling-league.json) |
 | IWL: Interstellar Wrestling League | 70551 | [70551-iwl-interstellar-wrestling-league.json](./70551-iwl-interstellar-wrestling-league.json) |
 | IWL: Interstellar Wrestling League - 001: Character - Galacto | 363374 | [363374-iwl-interstellar-wrestling-league-001-character-galacto.json](./363374-iwl-interstellar-wrestling-league-001-character-galacto.json) |
