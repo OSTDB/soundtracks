@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
 | Kingdom Hearts Re:coded Gummiship Studio | 233845 | [233845-kingdom-hearts-re-coded-gummiship-studio.json](./233845-kingdom-hearts-re-coded-gummiship-studio.json) |
+| Kingdom Hearts Re:coded Melon Mix | 420840 | [420840-kingdom-hearts-re-coded-melon-mix.json](./420840-kingdom-hearts-re-coded-melon-mix.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Hearts Union χ[Cross] | 27737 | [27737-kingdom-hearts-union-cross.json](./27737-kingdom-hearts-union-cross.json) |
