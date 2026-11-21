@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T13:35:55.193Z",
-  "total_soundtracks": 3890,
+  "generated_at": "2026-11-21T15:05:54.404Z",
+  "total_soundtracks": 3891,
   "games": [
     {
       "igdb_id": 292844,
@@ -2571,6 +2571,20 @@
         {
           "album_name": "Army of Two: The Devil's Cartel (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5o1yVIt9uwAlb4mUkrNHO5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 123518,
+      "game_name": "Arsenal Demon",
+      "game_url": "https://ostdb.net/games/arsenal-demon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dc425142d6b036ec907b25d6",
+      "albums": [
+        {
+          "album_name": "Arsenal Demon (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6eNs02VlYgBtU9jJzymUi6",
           "apple_music_url": "",
           "album_link_url": ""
         }
