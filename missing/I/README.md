@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate This Game | 395928 | [395928-i-hate-this-game.json](./395928-i-hate-this-game.json) |
 | I Hate This Game More | 395929 | [395929-i-hate-this-game-more.json](./395929-i-hate-this-game-more.json) |
+| I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I hate trains | 367184 | [367184-i-hate-trains.json](./367184-i-hate-trains.json) |
 | I Hate You | 215771 | [215771-i-hate-you.json](./215771-i-hate-you.json) |
@@ -738,7 +739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Will Definitely Be the CEO! | 400969 | [400969-i-will-definitely-be-the-ceo.json](./400969-i-will-definitely-be-the-ceo.json) |
 | I Will Do It Soon Maybe Later Tomorrow | 410682 | [410682-i-will-do-it-soon-maybe-later-tomorrow.json](./410682-i-will-do-it-soon-maybe-later-tomorrow.json) |
 | I Will Drown A Guy | 385891 | [385891-i-will-drown-a-guy.json](./385891-i-will-drown-a-guy.json) |
-| I will eat you | 126957 | [126957-i-will-eat-you.json](./126957-i-will-eat-you.json) |
 | I Will Escape | 17862 | [17862-i-will-escape.json](./17862-i-will-escape.json) |
 | I Will Make You Scared of This Red Box. | 291439 | [291439-i-will-make-you-scared-of-this-red-box.json](./291439-i-will-make-you-scared-of-this-red-box.json) |
 | I Will Never Fall for My Tsundere Classmate, so I Will Just Date a Background Character Instead! | 372598 | [372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json](./372598-i-will-never-fall-for-my-tsundere-classmate-so-i-will-just-date-a-background-character-instead.json) |
@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, Hope | 88401 | [88401-i-hope.json](./88401-i-hope.json) |
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
+| I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
 | I, Spy | 425424 | [425424-i-spy.json](./425424-i-spy.json) |
 | I, the Forgotten One | 244061 | [244061-i-the-forgotten-one.json](./244061-i-the-forgotten-one.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
@@ -3105,7 +3106,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Runner! | 87582 | [87582-impossible-runner.json](./87582-impossible-runner.json) |
 | Impossible Simplified Cube | 165717 | [165717-impossible-simplified-cube.json](./165717-impossible-simplified-cube.json) |
 | Impossible Slasher | 194634 | [194634-impossible-slasher.json](./194634-impossible-slasher.json) |
-| Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
 | Impossible Stunts | 254277 | [254277-impossible-stunts.json](./254277-impossible-stunts.json) |
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
 | Impossible Tower Defense | 113071 | [113071-impossible-tower-defense.json](./113071-impossible-tower-defense.json) |
@@ -6886,7 +6886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
 | Irongrave: Tactics | 149465 | [149465-irongrave-tactics.json](./149465-irongrave-tactics.json) |
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
-| Ironheart | 131615 | [131615-ironheart.json](./131615-ironheart.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
 | Ironhive | 255448 | [255448-ironhive.json](./255448-ironhive.json) |
 | Ironholm: Reign of the Isles | 423559 | [423559-ironholm-reign-of-the-isles.json](./423559-ironholm-reign-of-the-isles.json) |
