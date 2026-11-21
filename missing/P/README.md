@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Investigation | 344600 | [344600-paranormal-investigation.json](./344600-paranormal-investigation.json) |
 | Paranormal Investigation | 71249 | [71249-paranormal-investigation.json](./71249-paranormal-investigation.json) |
 | Paranormal Investigation | 71271 | [71271-paranormal-investigation.json](./71271-paranormal-investigation.json) |
+| Paranormal Investigators | 430325 | [430325-paranormal-investigators.json](./430325-paranormal-investigators.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Mission | 247120 | [247120-paranormal-mission.json](./247120-paranormal-mission.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -6075,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star 0 | 21091 | [21091-phantasy-star-0.json](./21091-phantasy-star-0.json) |
 | Phantasy Star Adventure | 45253 | [45253-phantasy-star-adventure.json](./45253-phantasy-star-adventure.json) |
+| Phantasy Star Chronicles | 22233 | [22233-phantasy-star-chronicles.json](./22233-phantasy-star-chronicles.json) |
 | Phantasy Star Classics | 136870 | [136870-phantasy-star-classics.json](./136870-phantasy-star-classics.json) |
 | Phantasy Star Collection | 136803 | [136803-phantasy-star-collection.json](./136803-phantasy-star-collection.json) |
 | Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross Bonbon Nonograms | 105156 | [105156-picross-bonbon-nonograms.json](./105156-picross-bonbon-nonograms.json) |
 | Picross Date! | 378431 | [378431-picross-date.json](./378431-picross-date.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
+| Picross e | 22277 | [22277-picross-e.json](./22277-picross-e.json) |
 | Picross e2 | 65211 | [65211-picross-e2.json](./65211-picross-e2.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
@@ -16966,6 +16969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prismatix | 88071 | [88071-prismatix.json](./88071-prismatix.json) |
 | PrismaVenture Clash | 293805 | [293805-prismaventure-clash.json](./293805-prismaventure-clash.json) |
+| Prismbloom | 430917 | [430917-prismbloom.json](./430917-prismbloom.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prismfall | 420167 | [420167-prismfall.json](./420167-prismfall.json) |
 | Prismhold | 424143 | [424143-prismhold.json](./424143-prismhold.json) |
@@ -17001,6 +17005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: PlayStation 4 Edition | 99758 | [99758-prison-architect-playstation-4-edition.json](./99758-prison-architect-playstation-4-edition.json) |
 | Prison Architect: Psych Ward - Warden's Edition | 148526 | [148526-prison-architect-psych-ward-wardens-edition.json](./148526-prison-architect-psych-ward-wardens-edition.json) |
 | Prison Architect: Second Chances | 148519 | [148519-prison-architect-second-chances.json](./148519-prison-architect-second-chances.json) |
+| Prison Architect: Starter Edition | 430381 | [430381-prison-architect-starter-edition.json](./430381-prison-architect-starter-edition.json) |
 | Prison Architect: Total Lockdown Bundle | 164789 | [164789-prison-architect-total-lockdown-bundle.json](./164789-prison-architect-total-lockdown-bundle.json) |
 | Prison Architect: Undead | 220790 | [220790-prison-architect-undead.json](./220790-prison-architect-undead.json) |
 | Prison Architect: Xbox 360 Edition | 233856 | [233856-prison-architect-xbox-360-edition.json](./233856-prison-architect-xbox-360-edition.json) |
@@ -20193,6 +20198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet Theater | 359337 | [359337-puppet-theater.json](./359337-puppet-theater.json) |
 | Puppet War | 333153 | [333153-puppet-war.json](./333153-puppet-war.json) |
+| Puppet War | 430912 | [430912-puppet-war.json](./430912-puppet-war.json) |
 | Puppet Zoo Pilomy | 115274 | [115274-puppet-zoo-pilomy.json](./115274-puppet-zoo-pilomy.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | Puppeteer | 212232 | [212232-puppeteer.json](./212232-puppeteer.json) |
