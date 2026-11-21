@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raised From Hell | 374018 | [374018-raised-from-hell.json](./374018-raised-from-hell.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raishi Konpeki no Shou | 145064 | [145064-raishi-konpeki-no-shou.json](./145064-raishi-konpeki-no-shou.json) |
+| Raisin Universe | 429812 | [429812-raisin-universe.json](./429812-raisin-universe.json) |
 | Raisin Word-Connect | 424343 | [424343-raisin-word-connect.json](./424343-raisin-word-connect.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dawn | 373799 | [373799-red-dawn.json](./373799-red-dawn.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Pixel Man | 113242 | [113242-red-dead-pixel-man.json](./113242-red-dead-pixel-man.json) |
+| Red Dead Recompilation | 429610 | [429610-red-dead-recompilation.json](./429610-red-dead-recompilation.json) |
 | Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
 | Red Dead Redemption & Red Dead Redemption 2 Bundle | 262052 | [262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json](./262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
@@ -5417,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's Modern Art: The Card Game | 99259 | [99259-reiner-knizias-modern-art-the-card-game.json](./99259-reiner-knizias-modern-art-the-card-game.json) |
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
 | Reiner Knizia's Ra | 103566 | [103566-reiner-knizias-ra.json](./103566-reiner-knizias-ra.json) |
+| Reiner Knizia's Samurai | 22207 | [22207-reiner-knizias-samurai.json](./22207-reiner-knizias-samurai.json) |
 | Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
 | Reines Du Sabbat | 308288 | [308288-reines-du-sabbat.json](./308288-reines-du-sabbat.json) |
 | Reinforced Machine | 291344 | [291344-reinforced-machine.json](./291344-reinforced-machine.json) |
@@ -13685,6 +13688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby 2001 | 67655 | [67655-rugby-2001.json](./67655-rugby-2001.json) |
+| Rugby 2004 | 22247 | [22247-rugby-2004.json](./22247-rugby-2004.json) |
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
