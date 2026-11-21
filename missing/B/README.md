@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 5: Shadow Wars | 80357 | [80357-babylon-5-shadow-wars.json](./80357-babylon-5-shadow-wars.json) |
 | Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
+| Babylon, Ohio | 418963 | [418963-babylon-ohio.json](./418963-babylon-ohio.json) |
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
 | Babylonian Twins | 65924 | [65924-babylonian-twins.json](./65924-babylonian-twins.json) |
 | Babyquick: Adventure of the Moon Dragon | 188855 | [188855-babyquick-adventure-of-the-moon-dragon.json](./188855-babyquick-adventure-of-the-moon-dragon.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere | 71125 | [71125-battlesphere.json](./71125-battlesphere.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
+| BattleSpinners | 418884 | [418884-battlespinners.json](./418884-battlespinners.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | BattleSquared | 233255 | [233255-battlesquared.json](./233255-battlesquared.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
@@ -6971,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Befriendus | 179700 | [179700-befriendus.json](./179700-befriendus.json) |
 | Befuddle | 232875 | [232875-befuddle.json](./232875-befuddle.json) |
 | Bega's Battle | 23938 | [23938-begas-battle.json](./23938-begas-battle.json) |
+| Beggar Lords | 418752 | [418752-beggar-lords.json](./418752-beggar-lords.json) |
 | Beggar Prince | 45765 | [45765-beggar-prince.json](./45765-beggar-prince.json) |
 | Beggar Simulator: Istanbul | 413815 | [413815-beggar-simulator-istanbul.json](./413815-beggar-simulator-istanbul.json) |
 | Beggar to Emperor | 353367 | [353367-beggar-to-emperor.json](./353367-beggar-to-emperor.json) |
@@ -12220,6 +12223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBuild: Craft Your Dream World | 213679 | [213679-blockbuild-craft-your-dream-world.json](./213679-blockbuild-craft-your-dream-world.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
 | Blockbuster | 327740 | [327740-blockbuster.json](./327740-blockbuster.json) |
+| Blockbuster | 418931 | [418931-blockbuster.json](./418931-blockbuster.json) |
 | BlockBuster | 327741 | [327741-blockbuster.json](./327741-blockbuster.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
@@ -15966,6 +15970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncing Wheel: Highway Monster | 242194 | [242194-bouncing-wheel-highway-monster.json](./242194-bouncing-wheel-highway-monster.json) |
 | BouncingBalls | 290741 | [290741-bouncingballs.json](./290741-bouncingballs.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
+| Bouncy | 418932 | [418932-bouncy.json](./418932-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Ball | 407017 | [407017-bouncy-ball.json](./407017-bouncy-ball.json) |
 | Bouncy Ball Battle | 425134 | [425134-bouncy-ball-battle.json](./425134-bouncy-ball-battle.json) |
@@ -18526,6 +18531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broombot Battlegrounds | 235174 | [235174-broombot-battlegrounds.json](./235174-broombot-battlegrounds.json) |
 | Broomstick Exorcist | 344497 | [344497-broomstick-exorcist.json](./344497-broomstick-exorcist.json) |
 | Broomstick League | 122619 | [122619-broomstick-league.json](./122619-broomstick-league.json) |
+| Broomstick Post | 413252 | [413252-broomstick-post.json](./413252-broomstick-post.json) |
 | BroomSweeper | 345662 | [345662-broomsweeper.json](./345662-broomsweeper.json) |
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
