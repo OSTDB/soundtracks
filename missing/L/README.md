@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leashed Soul - Survive & Rebuild Beydo Block World | 38046 | [38046-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38046-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
 | Leashed Soul: Survive & Rebuild Beydo Block World | 38044 | [38044-leashed-soul-survive-and-rebuild-beydo-block-world.json](./38044-leashed-soul-survive-and-rebuild-beydo-block-world.json) |
 | Leather | 105814 | [105814-leather.json](./105814-leather.json) |
+| Leather Atelier | 424377 | [424377-leather-atelier.json](./424377-leather-atelier.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X! | 14558 | [14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json](./14558-leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x.json) |
 | Leatherneck | 12661 | [12661-leatherneck.json](./12661-leatherneck.json) |
