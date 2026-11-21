@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Them | 239295 | [239295-harvest-them.json](./239295-harvest-them.json) |
 | Harvest Time | 69539 | [69539-harvest-time.json](./69539-harvest-time.json) |
 | Harvest Town | 125155 | [125155-harvest-town.json](./125155-harvest-town.json) |
+| Harvest Tycoon | 424364 | [424364-harvest-tycoon.json](./424364-harvest-tycoon.json) |
 | Harvest Uranus | 244514 | [244514-harvest-uranus.json](./244514-harvest-uranus.json) |
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
 | Harvest VR | 182659 | [182659-harvest-vr.json](./182659-harvest-vr.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hay Day | 7434 | [7434-hay-day.json](./7434-hay-day.json) |
 | Hay Day Pop | 165527 | [165527-hay-day-pop.json](./165527-hay-day-pop.json) |
 | Hay Ewe | 22736 | [22736-hay-ewe.json](./22736-hay-ewe.json) |
+| Hay! One Billion! | 424360 | [424360-hay-one-billion.json](./424360-hay-one-billion.json) |
 | Hayabusa | 130596 | [130596-hayabusa.json](./130596-hayabusa.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
 | Hayaku! Island of Darkness | 249626 | [249626-hayaku-island-of-darkness.json](./249626-hayaku-island-of-darkness.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero by Chance | 160110 | [160110-hero-by-chance.json](./160110-hero-by-chance.json) |
 | Hero Cantare | 130642 | [130642-hero-cantare.json](./130642-hero-cantare.json) |
+| Hero Chains of Destiny | 424362 | [424362-hero-chains-of-destiny.json](./424362-hero-chains-of-destiny.json) |
 | Hero Chest | 197161 | [197161-hero-chest.json](./197161-hero-chest.json) |
 | Hero Clash | 354129 | [354129-hero-clash.json](./354129-hero-clash.json) |
 | Hero Clicker | 191149 | [191149-hero-clicker.json](./191149-hero-clicker.json) |
@@ -12130,6 +12133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital Giant | 209887 | [209887-hospital-giant.json](./209887-hospital-giant.json) |
 | Hospital Haste | 54084 | [54084-hospital-haste.json](./54084-hospital-haste.json) |
 | Hospital Havoc | 85179 | [85179-hospital-havoc.json](./85179-hospital-havoc.json) |
+| Hospital Hustle | 424378 | [424378-hospital-hustle.json](./424378-hospital-hustle.json) |
 | Hospital Hustle | 52235 | [52235-hospital-hustle.json](./52235-hospital-hustle.json) |
 | Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
 | Hospital Renovator | 217079 | [217079-hospital-renovator.json](./217079-hospital-renovator.json) |
@@ -14636,6 +14640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
 | Hyperball | 115084 | [115084-hyperball.json](./115084-hyperball.json) |
 | Hyperball Tachyon | 192533 | [192533-hyperball-tachyon.json](./192533-hyperball-tachyon.json) |
+| Hyperballin' | 424454 | [424454-hyperballin.json](./424454-hyperballin.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperballoid HD | 24340 | [24340-hyperballoid-hd.json](./24340-hyperballoid-hd.json) |
