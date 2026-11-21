@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Racers | 166944 | [166944-ragdoll-racers.json](./166944-ragdoll-racers.json) |
 | Ragdoll Rage: Heroes Arena | 233862 | [233862-ragdoll-rage-heroes-arena.json](./233862-ragdoll-rage-heroes-arena.json) |
 | Ragdoll Ranch | 429845 | [429845-ragdoll-ranch.json](./429845-ragdoll-ranch.json) |
+| Ragdoll Robotics | 429103 | [429103-ragdoll-robotics.json](./429103-ragdoll-robotics.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Slayer | 219646 | [219646-ragdoll-slayer.json](./219646-ragdoll-slayer.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
@@ -3053,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Choice | 324790 | [324790-re-choice.json](./324790-re-choice.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
 | Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
+| Re:Course | 429110 | [429110-re-course.json](./429110-re-course.json) |
 | Re:Curse | 247352 | [247352-re-curse.json](./247352-re-curse.json) |
 | Re:Curse | 372916 | [372916-re-curse.json](./372916-re-curse.json) |
 | Re:D Cherish! | 273298 | [273298-re-d-cherish.json](./273298-re-d-cherish.json) |
