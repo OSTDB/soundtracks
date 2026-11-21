@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zold:out | 188328 | [188328-zold-out.json](./188328-zold-out.json) |
 | Zoldout Global | 234420 | [234420-zoldout-global.json](./234420-zoldout-global.json) |
+| Zolg | 30529 | [30529-zolg.json](./30529-zolg.json) |
 | Zolge Station: Huga Waiwai Academy | 429883 | [429883-zolge-station-huga-waiwai-academy.json](./429883-zolge-station-huga-waiwai-academy.json) |
 | Zolo | 272658 | [272658-zolo.json](./272658-zolo.json) |
 | ZOLO: Zombies Only Live Once | 112823 | [112823-zolo-zombies-only-live-once.json](./112823-zolo-zombies-only-live-once.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieBoy 2: Crazy Love | 137338 | [137338-zombieboy-2-crazy-love.json](./137338-zombieboy-2-crazy-love.json) |
 | ZombieCam | 292567 | [292567-zombiecam.json](./292567-zombiecam.json) |
 | Zombiecards | 345384 | [345384-zombiecards.json](./345384-zombiecards.json) |
+| ZombieCarz | 30259 | [30259-zombiecarz.json](./30259-zombiecarz.json) |
 | Zombiecraftt!!1 Sampler | 94160 | [94160-zombiecraftt-1-sampler.json](./94160-zombiecraftt-1-sampler.json) |
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
