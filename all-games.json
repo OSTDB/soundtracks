@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T00:55:53.614Z",
-  "total_soundtracks": 3878,
+  "generated_at": "2026-11-21T04:05:54.330Z",
+  "total_soundtracks": 3879,
   "games": [
     {
       "igdb_id": 292844,
@@ -3835,6 +3835,20 @@
         {
           "album_name": "Barnyard Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2UJiGCwopnEbv7vlBer177",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4705,
+      "game_name": "Baroque",
+      "game_url": "https://ostdb.net/games/baroque",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fd47431151fe0061eadaca85",
+      "albums": [
+        {
+          "album_name": "BAROQUE Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3rgQGKgto0NwqZzIsbbOAN",
           "apple_music_url": "",
           "album_link_url": ""
         }
