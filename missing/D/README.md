@@ -8454,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
 | Desktop Blocks | 368549 | [368549-desktop-blocks.json](./368549-desktop-blocks.json) |
 | Desktop Bouncer | 416030 | [416030-desktop-bouncer.json](./416030-desktop-bouncer.json) |
+| Desktop Bouncer: Squishy Pool | 428488 | [428488-desktop-bouncer-squishy-pool.json](./428488-desktop-bouncer-squishy-pool.json) |
 | Desktop Bowling | 124984 | [124984-desktop-bowling.json](./124984-desktop-bowling.json) |
 | Desktop Cat | 354935 | [354935-desktop-cat.json](./354935-desktop-cat.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
@@ -9330,6 +9331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Girl Ivlin | 212578 | [212578-devil-girl-ivlin.json](./212578-devil-girl-ivlin.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
 | Devil Guns | 55768 | [55768-devil-guns.json](./55768-devil-guns.json) |
+| Devil Hearts | 428499 | [428499-devil-hearts.json](./428499-devil-hearts.json) |
 | Devil House | 214331 | [214331-devil-house.json](./214331-devil-house.json) |
 | Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
@@ -10052,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
 | Dicero | 398391 | [398391-dicero.json](./398391-dicero.json) |
 | DiceRogue | 400333 | [400333-dicerogue.json](./400333-dicerogue.json) |
+| Dices Golf | 428483 | [428483-dices-golf.json](./428483-dices-golf.json) |
 | Dices Toss: The Falling Eight Count | 232537 | [232537-dices-toss-the-falling-eight-count.json](./232537-dices-toss-the-falling-eight-count.json) |
 | Dicetiny: The Lord of the Dice | 17739 | [17739-dicetiny-the-lord-of-the-dice.json](./17739-dicetiny-the-lord-of-the-dice.json) |
 | Dicetris | 403370 | [403370-dicetris.json](./403370-dicetris.json) |
