@@ -733,7 +733,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Protection Squad: Episode 1 | 132884 | [132884-galactic-protection-squad-episode-1.json](./132884-galactic-protection-squad-episode-1.json) |
 | Galactic Protector | 45652 | [45652-galactic-protector.json](./45652-galactic-protector.json) |
 | Galactic Racing Online | 192475 | [192475-galactic-racing-online.json](./192475-galactic-racing-online.json) |
-| Galactic Rangers VR | 123941 | [123941-galactic-rangers-vr.json](./123941-galactic-rangers-vr.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
 | Galactic Refugees | 166870 | [166870-galactic-refugees.json](./166870-galactic-refugees.json) |
