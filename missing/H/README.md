@@ -11595,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horace: First Trip | 123724 | [123724-horace-first-trip.json](./123724-horace-first-trip.json) |
 | Horas Extra Terrestres | 298989 | [298989-horas-extra-terrestres.json](./298989-horas-extra-terrestres.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
+| Horatio Goes Snowboarding | 150465 | [150465-horatio-goes-snowboarding.json](./150465-horatio-goes-snowboarding.json) |
 | Horatio: Connector 13 | 303566 | [303566-horatio-connector-13.json](./303566-horatio-connector-13.json) |
 | Horatio: Connector 13 (Chapters 1-12) | 303567 | [303567-horatio-connector-13-chapters-1-12.json](./303567-horatio-connector-13-chapters-1-12.json) |
 | Horcrux College | 340215 | [340215-horcrux-college.json](./340215-horcrux-college.json) |
@@ -11875,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Stories: Please Comply | 193235 | [193235-horror-stories-please-comply.json](./193235-horror-stories-please-comply.json) |
 | Horror Storm | 310258 | [310258-horror-storm.json](./310258-horror-storm.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
+| Horror Story: Hallowseed | 151564 | [151564-horror-story-hallowseed.json](./151564-horror-story-hallowseed.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tale 2: Samantha | 230953 | [230953-horror-tale-2-samantha.json](./230953-horror-tale-2-samantha.json) |
