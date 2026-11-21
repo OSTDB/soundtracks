@@ -7181,6 +7181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Belle's Beauty Boutique | 205120 | [205120-belles-beauty-boutique.json](./205120-belles-beauty-boutique.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
+| Bellfortis: China - Supporter Pack | 429535 | [429535-bellfortis-china-supporter-pack.json](./429535-bellfortis-china-supporter-pack.json) |
+| Bellfortis: The Battle for Japan | 429534 | [429534-bellfortis-the-battle-for-japan.json](./429534-bellfortis-the-battle-for-japan.json) |
 | Bellfrost | 416311 | [416311-bellfrost.json](./416311-bellfrost.json) |
 | Bellhop | 244860 | [244860-bellhop.json](./244860-bellhop.json) |
 | Bellhop | 284714 | [284714-bellhop.json](./284714-bellhop.json) |
@@ -12375,6 +12377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockus' Adventures | 118344 | [118344-blockus-adventures.json](./118344-blockus-adventures.json) |
 | Blockville | 195449 | [195449-blockville.json](./195449-blockville.json) |
 | Blockwars | 120523 | [120523-blockwars.json](./120523-blockwars.json) |
+| Blockwerk | 429801 | [429801-blockwerk.json](./429801-blockwerk.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
 | Blockworks | 77751 | [77751-blockworks.json](./77751-blockworks.json) |
 | BlockWorld | 155318 | [155318-blockworld.json](./155318-blockworld.json) |
@@ -16324,6 +16327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Dog | 329096 | [329096-box-dog.json](./329096-box-dog.json) |
 | Box Dungeons | 254004 | [254004-box-dungeons.json](./254004-box-dungeons.json) |
 | Box Factory | 150290 | [150290-box-factory.json](./150290-box-factory.json) |
+| Box Flow | 429788 | [429788-box-flow.json](./429788-box-flow.json) |
 | Box Forum | 221888 | [221888-box-forum.json](./221888-box-forum.json) |
 | Box Game | 399248 | [399248-box-game.json](./399248-box-game.json) |
 | Box Head: Zombies Must Die! | 267350 | [267350-box-head-zombies-must-die.json](./267350-box-head-zombies-must-die.json) |
