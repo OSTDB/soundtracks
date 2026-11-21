@@ -4620,6 +4620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Playful Season | 348488 | [348488-infinity-nikki-playful-season.json](./348488-infinity-nikki-playful-season.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
 | Infinity Nikki: Shooting Star Season | 327087 | [327087-infinity-nikki-shooting-star-season.json](./327087-infinity-nikki-shooting-star-season.json) |
+| Infinity Nikki: Tales Woven in Time | 429185 | [429185-infinity-nikki-tales-woven-in-time.json](./429185-infinity-nikki-tales-woven-in-time.json) |
+| Infinity Nikki: The Feather of Justice | 429182 | [429182-infinity-nikki-the-feather-of-justice.json](./429182-infinity-nikki-the-feather-of-justice.json) |
 | Infinity Nikki: The Forest Need Not Listen | 396153 | [396153-infinity-nikki-the-forest-need-not-listen.json](./396153-infinity-nikki-the-forest-need-not-listen.json) |
 | Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
 | Infinity Nikki: Until Tide Ends | 403273 | [403273-infinity-nikki-until-tide-ends.json](./403273-infinity-nikki-until-tide-ends.json) |
