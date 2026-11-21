@@ -6531,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defend Your Nuts 2 | 399466 | [399466-defend-your-nuts-2.json](./399466-defend-your-nuts-2.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
+| Defender | 102663 | [102663-defender.json](./102663-defender.json) |
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 154321 | [154321-defender.json](./154321-defender.json) |
 | Defender | 198721 | [198721-defender.json](./198721-defender.json) |
@@ -10960,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong Die | 321225 | [321225-ding-dong-die.json](./321225-ding-dong-die.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
+| Ding Dong XL | 101633 | [101633-ding-dong-xl.json](./101633-ding-dong-xl.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
 | Ding! Pocket It!: Rogue Simulator | 407657 | [407657-ding-pocket-it-rogue-simulator.json](./407657-ding-pocket-it-rogue-simulator.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
@@ -11262,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Discovery | 83779 | [83779-dinosaur-discovery.json](./83779-dinosaur-discovery.json) |
 | Dinosaur Era | 248697 | [248697-dinosaur-era.json](./248697-dinosaur-era.json) |
 | Dinosaur Forest | 31939 | [31939-dinosaur-forest.json](./31939-dinosaur-forest.json) |
+| Dinosaur Fossil Hunter | 102176 | [102176-dinosaur-fossil-hunter.json](./102176-dinosaur-fossil-hunter.json) |
 | Dinosaur Fossil Puzzles | 163168 | [163168-dinosaur-fossil-puzzles.json](./163168-dinosaur-fossil-puzzles.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Games: Puzzle for Kids & Toddlers | 88936 | [88936-dinosaur-games-puzzle-for-kids-and-toddlers.json](./88936-dinosaur-games-puzzle-for-kids-and-toddlers.json) |
@@ -17311,6 +17314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
 | Dragon Land | 101958 | [101958-dragon-land.json](./101958-dragon-land.json) |
+| Dragon Lapis | 103078 | [103078-dragon-lapis.json](./103078-dragon-lapis.json) |
 | Dragon Little Fighters 2 | 149171 | [149171-dragon-little-fighters-2.json](./149171-dragon-little-fighters-2.json) |
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
@@ -19448,6 +19452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drivionline | 401856 | [401856-drivionline.json](./401856-drivionline.json) |
 | Drivrooom | 144249 | [144249-drivrooom.json](./144249-drivrooom.json) |
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
+| Drizzlepath: Deja Vu | 101399 | [101399-drizzlepath-deja-vu.json](./101399-drizzlepath-deja-vu.json) |
 | Drizzlepath: Genie | 33628 | [33628-drizzlepath-genie.json](./33628-drizzlepath-genie.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
