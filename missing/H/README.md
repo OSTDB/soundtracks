@@ -2571,7 +2571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Deathly Hallows: Part 2 | 4905 | [4905-harry-potter-and-the-deathly-hallows-part-2.json](./4905-harry-potter-and-the-deathly-hallows-part-2.json) |
 | Harry Potter and the Deathly Hallows: Part 2 - The Mobile Game | 266199 | [266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json](./266199-harry-potter-and-the-deathly-hallows-part-2-the-mobile-game.json) |
 | Harry Potter and the Goblet of Fire | 166333 | [166333-harry-potter-and-the-goblet-of-fire.json](./166333-harry-potter-and-the-goblet-of-fire.json) |
-| Harry Potter and the Goblet of Fire | 248544 | [248544-harry-potter-and-the-goblet-of-fire.json](./248544-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 248545 | [248545-harry-potter-and-the-goblet-of-fire.json](./248545-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire | 3942 | [3942-harry-potter-and-the-goblet-of-fire.json](./3942-harry-potter-and-the-goblet-of-fire.json) |
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
@@ -5380,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellSinker | 50441 | [50441-hellsinker.json](./50441-hellsinker.json) |
 | Hellsino | 405554 | [405554-hellsino.json](./405554-hellsino.json) |
 | Hellslave | 154043 | [154043-hellslave.json](./154043-hellslave.json) |
+| HellSlave II: Judgment of the Archon | 345575 | [345575-hellslave-ii-judgment-of-the-archon.json](./345575-hellslave-ii-judgment-of-the-archon.json) |
 | Hellslave: Project Z-Treme | 321282 | [321282-hellslave-project-z-treme.json](./321282-hellslave-project-z-treme.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
@@ -7266,7 +7266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Time | 200470 | [200470-heroes-of-time.json](./200470-heroes-of-time.json) |
 | Heroes of Time 2: Aizack's Return | 203613 | [203613-heroes-of-time-2-aizacks-return.json](./203613-heroes-of-time-2-aizacks-return.json) |
 | Heroes of Tomorrow: Hidden Potential | 392321 | [392321-heroes-of-tomorrow-hidden-potential.json](./392321-heroes-of-tomorrow-hidden-potential.json) |
-| Heroes of Umbra | 3226 | [3226-heroes-of-umbra.json](./3226-heroes-of-umbra.json) |
 | Heroes of Valhalla | 224104 | [224104-heroes-of-valhalla.json](./224104-heroes-of-valhalla.json) |
 | Heroes of Valor | 318142 | [318142-heroes-of-valor.json](./318142-heroes-of-valor.json) |
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
@@ -7369,7 +7368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines | 152553 | [152553-heroines.json](./152553-heroines.json) |
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
-| Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines of Swords & Spells 2 | 349065 | [349065-heroines-of-swords-and-spells-2.json](./349065-heroines-of-swords-and-spells-2.json) |
 | Heroines of Swords & Spells: Green Furies | 171144 | [171144-heroines-of-swords-and-spells-green-furies.json](./171144-heroines-of-swords-and-spells-green-furies.json) |
 | Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
@@ -7875,7 +7873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Hi Puffy Ami Yumi: Genie & The Amp | 84521 | [84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json](./84521-hi-hi-puffy-ami-yumi-genie-and-the-amp.json) |
 | Hi Hi Puffy Ami Yumi: Puffy Ami Yumi and the Manga Madman | 308757 | [308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json](./308757-hi-hi-puffy-ami-yumi-puffy-ami-yumi-and-the-manga-madman.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
-| Hi Hi Puffy AmiYumi: Kaznapped! | 2819 | [2819-hi-hi-puffy-amiyumi-kaznapped.json](./2819-hi-hi-puffy-amiyumi-kaznapped.json) |
 | Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi Hi Puffy AmiYumi: World Tour | 185937 | [185937-hi-hi-puffy-amiyumi-world-tour.json](./185937-hi-hi-puffy-amiyumi-world-tour.json) |
 | Hi no Homo | 133312 | [133312-hi-no-homo.json](./133312-hi-no-homo.json) |
@@ -14466,7 +14463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Gods | 22094 | [22094-hyper-gods.json](./22094-hyper-gods.json) |
 | Hyper Gym Life 3D: Tough Guys | 270477 | [270477-hyper-gym-life-3d-tough-guys.json](./270477-hyper-gym-life-3d-tough-guys.json) |
-| Hyper Hardcore | 129529 | [129529-hyper-hardcore.json](./129529-hyper-hardcore.json) |
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Hentai Elf Attendant | 245927 | [245927-hyper-hentai-elf-attendant.json](./245927-hyper-hentai-elf-attendant.json) |
