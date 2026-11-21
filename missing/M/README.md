@@ -3042,7 +3042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Friends | 303646 | [303646-making-friends.json](./303646-making-friends.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making History: The Calm & the Storm - Gold Edition | 25516 | [25516-making-history-the-calm-and-the-storm-gold-edition.json](./25516-making-history-the-calm-and-the-storm-gold-edition.json) |
-| Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making History: The Great War | 17085 | [17085-making-history-the-great-war.json](./17085-making-history-the-great-war.json) |
 | Making History: The Great War - The Red Army | 170808 | [170808-making-history-the-great-war-the-red-army.json](./170808-making-history-the-great-war-the-red-army.json) |
 | Making History: The Second World War | 54805 | [54805-making-history-the-second-world-war.json](./54805-making-history-the-second-world-war.json) |
@@ -4899,7 +4898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
 | Marisa! Return The Book! | 371017 | [371017-marisa-return-the-book.json](./371017-marisa-return-the-book.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
-| Marisa's Marvelous Magic Shop | 126940 | [126940-marisas-marvelous-magic-shop.json](./126940-marisas-marvelous-magic-shop.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maristice | 222627 | [222627-maristice.json](./222627-maristice.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
@@ -5817,7 +5815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Axe: The Genesis of MysterX | 234466 | [234466-master-axe-the-genesis-of-mysterx.json](./234466-master-axe-the-genesis-of-mysterx.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bill | 63092 | [63092-master-bill.json](./63092-master-bill.json) |
-| Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Blaster | 129961 | [129961-master-blaster.json](./129961-master-blaster.json) |
 | Master Blaster | 268078 | [268078-master-blaster.json](./268078-master-blaster.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
@@ -7884,6 +7881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Clans | 267011 | [267011-mechwarrior-5-clans.json](./267011-mechwarrior-5-clans.json) |
 | MechWarrior 5: Clans - Digital Collectors Content | 332118 | [332118-mechwarrior-5-clans-digital-collectors-content.json](./332118-mechwarrior-5-clans-digital-collectors-content.json) |
 | MechWarrior 5: Clans - Digital Collectors Edition | 331819 | [331819-mechwarrior-5-clans-digital-collectors-edition.json](./331819-mechwarrior-5-clans-digital-collectors-edition.json) |
+| Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Invasion Mech Patterns | 332119 | [332119-mechwarrior-5-clans-invasion-mech-patterns.json](./332119-mechwarrior-5-clans-invasion-mech-patterns.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
@@ -12355,7 +12353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 4.0: Sound, Graphics & Aircraft Upgrade | 79497 | [79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json](./79497-microsoft-flight-simulator-4-0-sound-graphics-and-aircraft-upgrade.json) |
 | Microsoft Flight Simulator 5.0 | 3357 | [3357-microsoft-flight-simulator-5-0.json](./3357-microsoft-flight-simulator-5-0.json) |
-| Microsoft Flight Simulator 5.1 | 3358 | [3358-microsoft-flight-simulator-5-1.json](./3358-microsoft-flight-simulator-5-1.json) |
 | Microsoft Flight Simulator 5.1: Scenery Pack | 209452 | [209452-microsoft-flight-simulator-5-1-scenery-pack.json](./209452-microsoft-flight-simulator-5-1-scenery-pack.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator 98 | 3360 | [3360-microsoft-flight-simulator-98.json](./3360-microsoft-flight-simulator-98.json) |
@@ -13160,7 +13157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: Swords of Xeen | 72004 | [72004-might-and-magic-swords-of-xeen.json](./72004-might-and-magic-swords-of-xeen.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might Craft: Pixel Journey | 97054 | [97054-might-craft-pixel-journey.json](./97054-might-craft-pixel-journey.json) |
-| Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Might of Merchants | 216691 | [216691-might-of-merchants.json](./216691-might-of-merchants.json) |
 | Might of the Meek | 413877 | [413877-might-of-the-meek.json](./413877-might-of-the-meek.json) |
@@ -13448,6 +13444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
 | Milano no Arbeit Collection | 64930 | [64930-milano-no-arbeit-collection.json](./64930-milano-no-arbeit-collection.json) |
 | Milano'd | 298746 | [298746-milanod.json](./298746-milanod.json) |
+| Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
 | Mild Dream | 225428 | [225428-mild-dream.json](./225428-mild-dream.json) |
@@ -14162,7 +14159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Classic | 325724 | [325724-minecraft-classic.json](./325724-minecraft-classic.json) |
 | Minecraft Create: Above and Beyond | 326827 | [326827-minecraft-create-above-and-beyond.json](./326827-minecraft-create-above-and-beyond.json) |
 | Minecraft Dungeons Arcade | 210757 | [210757-minecraft-dungeons-arcade.json](./210757-minecraft-dungeons-arcade.json) |
-| Minecraft Dungeons II - Deluxe DLC | 407116 | [407116-minecraft-dungeons-ii-deluxe-dlc.json](./407116-minecraft-dungeons-ii-deluxe-dlc.json) |
 | Minecraft Dungeons II: Deluxe Edition | 407111 | [407111-minecraft-dungeons-ii-deluxe-edition.json](./407111-minecraft-dungeons-ii-deluxe-edition.json) |
 | Minecraft Dungeons: Creeping Winter | 137133 | [137133-minecraft-dungeons-creeping-winter.json](./137133-minecraft-dungeons-creeping-winter.json) |
 | Minecraft Dungeons: Echoing Void | 164849 | [164849-minecraft-dungeons-echoing-void.json](./164849-minecraft-dungeons-echoing-void.json) |
@@ -22432,7 +22428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi no Ken: Tadaima Shugyou-chuu | 48417 | [48417-musashi-no-ken-tadaima-shugyou-chuu.json](./48417-musashi-no-ken-tadaima-shugyou-chuu.json) |
 | Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
-| Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
 | Muscle Bomber Duo: Ultimate Team Battle | 39317 | [39317-muscle-bomber-duo-ultimate-team-battle.json](./39317-muscle-bomber-duo-ultimate-team-battle.json) |
 | Muscle Car 2: American Spirit | 73947 | [73947-muscle-car-2-american-spirit.json](./73947-muscle-car-2-american-spirit.json) |
 | Muscle Car 3: Illegal Street | 71742 | [71742-muscle-car-3-illegal-street.json](./71742-muscle-car-3-illegal-street.json) |
