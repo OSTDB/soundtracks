@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karakam: Call of the Dark Manor | 417071 | [417071-karakam-call-of-the-dark-manor.json](./417071-karakam-call-of-the-dark-manor.json) |
 | Karakara | 19811 | [19811-karakara.json](./19811-karakara.json) |
 | Karakara 2 | 75797 | [75797-karakara-2.json](./75797-karakara-2.json) |
+| Karakara 3 | 429115 | [429115-karakara-3.json](./429115-karakara-3.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
 | Karakuri Colosseum | 276216 | [276216-karakuri-colosseum.json](./276216-karakuri-colosseum.json) |
 | Karakuri Kengeki | 231153 | [231153-karakuri-kengeki.json](./231153-karakuri-kengeki.json) |
@@ -4950,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee Thunder in Down Under | 139567 | [139567-klaus-lee-thunder-in-down-under.json](./139567-klaus-lee-thunder-in-down-under.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
+| Klaverjas Totaal | 429207 | [429207-klaverjas-totaal.json](./429207-klaverjas-totaal.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
