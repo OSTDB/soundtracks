@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | Magellania | 143149 | [143149-magellania.json](./143149-magellania.json) |
 | Magemania | 247364 | [247364-magemania.json](./247364-magemania.json) |
+| Mageness | 429603 | [429603-mageness.json](./429603-mageness.json) |
 | Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
 | Magenta Arcade | 202976 | [202976-magenta-arcade.json](./202976-magenta-arcade.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
@@ -3890,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
 | MAR: Millions Are Rising | 428537 | [428537-mar-millions-are-rising.json](./428537-mar-millions-are-rising.json) |
 | Mara | 348703 | [348703-mara.json](./348703-mara.json) |
+| Mara Unbound | 429599 | [429599-mara-unbound.json](./429599-mara-unbound.json) |
 | Mara's Quest | 211008 | [211008-maras-quest.json](./211008-maras-quest.json) |
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
@@ -5200,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mart and Tetra | 167171 | [167171-mart-and-tetra.json](./167171-mart-and-tetra.json) |
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
 | Mart Mayhem | 373438 | [373438-mart-mayhem.json](./373438-mart-mayhem.json) |
+| Mart: Tidy Up Together | 429796 | [429796-mart-tidy-up-together.json](./429796-mart-tidy-up-together.json) |
 | Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
 | Marth.exe | 311032 | [311032-marth-exe.json](./311032-marth-exe.json) |
 | Martha | 144357 | [144357-martha.json](./144357-martha.json) |
@@ -13559,6 +13562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Club | 400044 | [400044-milk-club.json](./400044-milk-club.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
+| Milk Girl Buys Some Milk | 429820 | [429820-milk-girl-buys-some-milk.json](./429820-milk-girl-buys-some-milk.json) |
 | Milk Girl: Sweet Memories of Summer | 212194 | [212194-milk-girl-sweet-memories-of-summer.json](./212194-milk-girl-sweet-memories-of-summer.json) |
 | Milk Inside a Bag of Milk Inside a Bag of Milk | 139295 | [139295-milk-inside-a-bag-of-milk-inside-a-bag-of-milk.json](./139295-milk-inside-a-bag-of-milk-inside-a-bag-of-milk.json) |
 | Milk Mania | 246500 | [246500-milk-mania.json](./246500-milk-mania.json) |
@@ -14425,6 +14429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mined | 183983 | [183983-mined.json](./183983-mined.json) |
 | Mined Plants: Farm | 105536 | [105536-mined-plants-farm.json](./105536-mined-plants-farm.json) |
 | Mined-Out | 93131 | [93131-mined-out.json](./93131-mined-out.json) |
+| MineDance2025 | 429609 | [429609-minedance2025.json](./429609-minedance2025.json) |
 | MineDeeper | 376265 | [376265-minedeeper.json](./376265-minedeeper.json) |
 | Minedle | 375535 | [375535-minedle.json](./375535-minedle.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
