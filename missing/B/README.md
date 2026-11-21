@@ -1550,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldis Basics 2: High School | 105781 | [105781-baldis-basics-2-high-school.json](./105781-baldis-basics-2-high-school.json) |
 | Baldis Basics Calculator Sim | 106637 | [106637-baldis-basics-calculator-sim.json](./106637-baldis-basics-calculator-sim.json) |
 | Baldo: The Elemental Temples | 241842 | [241842-baldo-the-elemental-temples.json](./241842-baldo-the-elemental-temples.json) |
+| Baldo: The Guardian Owls | 118873 | [118873-baldo-the-guardian-owls.json](./118873-baldo-the-guardian-owls.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
 | Baldo: The Three Fairies | 241760 | [241760-baldo-the-three-fairies.json](./241760-baldo-the-three-fairies.json) |
 | Baldo's Discovery | 376159 | [376159-baldos-discovery.json](./376159-baldos-discovery.json) |
