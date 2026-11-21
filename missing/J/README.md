@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jera | 121578 | [121578-jera.json](./121578-jera.json) |
 | Jeremia: Nightfall | 189804 | [189804-jeremia-nightfall.json](./189804-jeremia-nightfall.json) |
 | Jeremiah | 181691 | [181691-jeremiah.json](./181691-jeremiah.json) |
+| Jeremy Couillard Collection | 430394 | [430394-jeremy-couillard-collection.json](./430394-jeremy-couillard-collection.json) |
 | Jeremy Goes Jumping | 128469 | [128469-jeremy-goes-jumping.json](./128469-jeremy-goes-jumping.json) |
 | Jeremy McGrath Supercross 2000 | 249119 | [249119-jeremy-mcgrath-supercross-2000.json](./249119-jeremy-mcgrath-supercross-2000.json) |
 | Jeremy McGrath Supercross 2000 | 3523 | [3523-jeremy-mcgrath-supercross-2000.json](./3523-jeremy-mcgrath-supercross-2000.json) |
