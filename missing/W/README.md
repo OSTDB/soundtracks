@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westward | 7503 | [7503-westward.json](./7503-westward.json) |
 | Westward 2 | 106210 | [106210-westward-2.json](./106210-westward-2.json) |
 | Westward 3 | 7530 | [7530-westward-3.json](./7530-westward-3.json) |
+| Westward Dash | 425023 | [425023-westward-dash.json](./425023-westward-dash.json) |
 | Westward II: Heroes of the Frontier | 7529 | [7529-westward-ii-heroes-of-the-frontier.json](./7529-westward-ii-heroes-of-the-frontier.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
 | Westward IV: All Aboard | 7531 | [7531-westward-iv-all-aboard.json](./7531-westward-iv-all-aboard.json) |
