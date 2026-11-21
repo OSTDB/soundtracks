@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Secret Circle | 99822 | [99822-dead-secret-circle.json](./99822-dead-secret-circle.json) |
 | Dead Sector | 179298 | [179298-dead-sector.json](./179298-dead-sector.json) |
 | Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
+| Dead Sector | 427911 | [427911-dead-sector.json](./427911-dead-sector.json) |
 | Dead Sector: Outbreak | 399733 | [399733-dead-sector-outbreak.json](./399733-dead-sector-outbreak.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
@@ -11516,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bikes Super Racing | 88359 | [88359-dirt-bikes-super-racing.json](./88359-dirt-bikes-super-racing.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
+| Dirt Digger | 428000 | [428000-dirt-digger.json](./428000-dirt-digger.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
 | Dirt Jockey: Heavy Equipment Operator | 43738 | [43738-dirt-jockey-heavy-equipment-operator.json](./43738-dirt-jockey-heavy-equipment-operator.json) |
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
