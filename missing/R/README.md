@@ -14813,11 +14813,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Fishing 4: Lower Tunguska River | 161307 | [161307-russian-fishing-4-lower-tunguska-river.json](./161307-russian-fishing-4-lower-tunguska-river.json) |
 | Russian Fishing 4: Norwegian Sea | 244955 | [244955-russian-fishing-4-norwegian-sea.json](./244955-russian-fishing-4-norwegian-sea.json) |
 | Russian Fool | 71853 | [71853-russian-fool.json](./71853-russian-fool.json) |
+| Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
 | Russian Hentai | 167978 | [167978-russian-hentai.json](./167978-russian-hentai.json) |
 | Russian Hentai 2 | 158342 | [158342-russian-hentai-2.json](./158342-russian-hentai-2.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
+| Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
 | Russian Hunter | 203596 | [203596-russian-hunter.json](./203596-russian-hunter.json) |
 | Russian Hut Simulator | 292181 | [292181-russian-hut-simulator.json](./292181-russian-hut-simulator.json) |
 | Russian Life Simulator | 118022 | [118022-russian-life-simulator.json](./118022-russian-life-simulator.json) |
