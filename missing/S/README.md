@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors Chronicles 3 | 19964 | [19964-samurai-warriors-chronicles-3.json](./19964-samurai-warriors-chronicles-3.json) |
 | Samurai Warriors: Chronicles | 6882 | [6882-samurai-warriors-chronicles.json](./6882-samurai-warriors-chronicles.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
+| Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
 | Samurai Warriors: Spirit of Sanada | 27272 | [27272-samurai-warriors-spirit-of-sanada.json](./27272-samurai-warriors-spirit-of-sanada.json) |
 | Samurai Warriors: State of War | 12299 | [12299-samurai-warriors-state-of-war.json](./12299-samurai-warriors-state-of-war.json) |
 | Samurai Warriors: Xtreme Legends | 12298 | [12298-samurai-warriors-xtreme-legends.json](./12298-samurai-warriors-xtreme-legends.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scar in the Void | 213774 | [213774-scar-in-the-void.json](./213774-scar-in-the-void.json) |
 | Scar of the Doll | 30275 | [30275-scar-of-the-doll.json](./30275-scar-of-the-doll.json) |
 | Scar of the Doll: A Psycho-Horror Story about the Mystery of an Older Sister | 226338 | [226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json](./226338-scar-of-the-doll-a-psycho-horror-story-about-the-mystery-of-an-older-sister.json) |
+| Scar-Lead Salvation | 329724 | [329724-scar-lead-salvation.json](./329724-scar-lead-salvation.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarab of Ra | 308677 | [308677-scarab-of-ra.json](./308677-scarab-of-ra.json) |
 | Scarab of Ra | 92733 | [92733-scarab-of-ra.json](./92733-scarab-of-ra.json) |
@@ -3371,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Movie Mania | 287549 | [287549-scene-it-movie-mania.json](./287549-scene-it-movie-mania.json) |
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
+| Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scene It?: The DVD Movie Game | 359901 | [359901-scene-it-the-dvd-movie-game.json](./359901-scene-it-the-dvd-movie-game.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
 | Scenery Collection: Set B | 85978 | [85978-scenery-collection-set-b.json](./85978-scenery-collection-set-b.json) |
@@ -8040,6 +8043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 2: Bounty Hunt Part 2 | 167991 | [167991-shadow-warrior-2-bounty-hunt-part-2.json](./167991-shadow-warrior-2-bounty-hunt-part-2.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
 | Shadow Warrior 2: The Way of the Wang | 26295 | [26295-shadow-warrior-2-the-way-of-the-wang.json](./26295-shadow-warrior-2-the-way-of-the-wang.json) |
+| Shadow Warrior 3: Definitive Edition | 237681 | [237681-shadow-warrior-3-definitive-edition.json](./237681-shadow-warrior-3-definitive-edition.json) |
 | Shadow Warrior 3: Deluxe Edition | 193749 | [193749-shadow-warrior-3-deluxe-edition.json](./193749-shadow-warrior-3-deluxe-edition.json) |
 | Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
 | Shadow Warrior Classic Redux | 30156 | [30156-shadow-warrior-classic-redux.json](./30156-shadow-warrior-classic-redux.json) |
@@ -10154,6 +10158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
 | Ship Graveyard Simulator | 176083 | [176083-ship-graveyard-simulator.json](./176083-ship-graveyard-simulator.json) |
+| Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
 | Ship Graveyard Simulator 2: Fishing Boats DLC | 357526 | [357526-ship-graveyard-simulator-2-fishing-boats-dlc.json](./357526-ship-graveyard-simulator-2-fishing-boats-dlc.json) |
 | Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
 | Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
@@ -13500,6 +13505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sins of a Dark Age | 16676 | [16676-sins-of-a-dark-age.json](./16676-sins-of-a-dark-age.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
 | Sins of a Solar Empire Gold | 53614 | [53614-sins-of-a-solar-empire-gold.json](./53614-sins-of-a-solar-empire-gold.json) |
+| Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
 | Sins of a Solar Empire II: Content Pass | 369866 | [369866-sins-of-a-solar-empire-ii-content-pass.json](./369866-sins-of-a-solar-empire-ii-content-pass.json) |
 | Sins of a Solar Empire II: Harbinger | 369870 | [369870-sins-of-a-solar-empire-ii-harbinger.json](./369870-sins-of-a-solar-empire-ii-harbinger.json) |
 | Sins of a Solar Empire II: Paths to Power | 369867 | [369867-sins-of-a-solar-empire-ii-paths-to-power.json](./369867-sins-of-a-solar-empire-ii-paths-to-power.json) |
@@ -19919,6 +19925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Everjade | 275083 | [275083-songs-of-everjade.json](./275083-songs-of-everjade.json) |
 | Songs of Life | 247823 | [247823-songs-of-life.json](./247823-songs-of-life.json) |
 | Songs of Rats | 323072 | [323072-songs-of-rats.json](./323072-songs-of-rats.json) |
+| Songs of Silence | 238460 | [238460-songs-of-silence.json](./238460-songs-of-silence.json) |
 | Songs of Silence: Celestial Church Expansion | 383020 | [383020-songs-of-silence-celestial-church-expansion.json](./383020-songs-of-silence-celestial-church-expansion.json) |
 | Songs of Silence: Complete Edition | 403559 | [403559-songs-of-silence-complete-edition.json](./403559-songs-of-silence-complete-edition.json) |
 | Songs of Silence: Crownless King Expansion | 402542 | [402542-songs-of-silence-crownless-king-expansion.json](./402542-songs-of-silence-crownless-king-expansion.json) |
@@ -26269,6 +26276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Spins Deluxe | 140310 | [140310-spooky-spins-deluxe.json](./140310-spooky-spins-deluxe.json) |
 | Spooky Spins Returns: Crazy Cash Edition - Slots | 276172 | [276172-spooky-spins-returns-crazy-cash-edition-slots.json](./276172-spooky-spins-returns-crazy-cash-edition-slots.json) |
 | Spooky Spins: Remastered - Steam Edition | 128257 | [128257-spooky-spins-remastered-steam-edition.json](./128257-spooky-spins-remastered-steam-edition.json) |
+| Spooky Spirit Shooting Gallery | 227613 | [227613-spooky-spirit-shooting-gallery.json](./227613-spooky-spirit-shooting-gallery.json) |
 | Spooky Spirits | 91573 | [91573-spooky-spirits.json](./91573-spooky-spirits.json) |
 | Spooky Spotlight | 74809 | [74809-spooky-spotlight.json](./74809-spooky-spotlight.json) |
 | Spooky Squad! | 318565 | [318565-spooky-squad.json](./318565-spooky-squad.json) |
@@ -26568,6 +26576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spread Out! Hold Naar' Havok | 273632 | [273632-spread-out-hold-naar-havok.json](./273632-spread-out-hold-naar-havok.json) |
 | Spread The Love | 369846 | [369846-spread-the-love.json](./369846-spread-the-love.json) |
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
+| SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadsheets and Nothing More | 356951 | [356951-spreadsheets-and-nothing-more.json](./356951-spreadsheets-and-nothing-more.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
@@ -28812,6 +28821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
 | Starbinder | 183677 | [183677-starbinder.json](./183677-starbinder.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
+| Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | StarBlade | 4244 | [4244-starblade.json](./4244-starblade.json) |
 | StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
@@ -30463,6 +30473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteelRacer | 250939 | [250939-steelracer.json](./250939-steelracer.json) |
 | Steelrising | 135670 | [135670-steelrising.json](./135670-steelrising.json) |
 | Steelrising: Bastille Edition | 205569 | [205569-steelrising-bastille-edition.json](./205569-steelrising-bastille-edition.json) |
+| Steelrising: Cagliostro's Secrets | 225748 | [225748-steelrising-cagliostros-secrets.json](./225748-steelrising-cagliostros-secrets.json) |
 | Steelrising: Marie-Antoinette Cosmetic Pack | 242402 | [242402-steelrising-marie-antoinette-cosmetic-pack.json](./242402-steelrising-marie-antoinette-cosmetic-pack.json) |
 | SteelSpill | 137313 | [137313-steelspill.json](./137313-steelspill.json) |
 | Steelwood Private Eye | 245239 | [245239-steelwood-private-eye.json](./245239-steelwood-private-eye.json) |
@@ -33936,6 +33947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
 | Sucker for Love: Crush Landing | 352990 | [352990-sucker-for-love-crush-landing.json](./352990-sucker-for-love-crush-landing.json) |
+| Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
 | Sucker for Love: First Date | 186818 | [186818-sucker-for-love-first-date.json](./186818-sucker-for-love-first-date.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
@@ -38749,6 +38761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden GP | 150979 | [150979-super-woden-gp.json](./150979-super-woden-gp.json) |
+| Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
 | Super Woden GP Collection | 308626 | [308626-super-woden-gp-collection.json](./308626-super-woden-gp-collection.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wolfenstein HD | 50279 | [50279-super-wolfenstein-hd.json](./50279-super-wolfenstein-hd.json) |
