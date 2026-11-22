@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T00:35:56.108Z",
-  "total_soundtracks": 3894,
+  "generated_at": "2026-11-22T01:35:55.095Z",
+  "total_soundtracks": 3895,
   "games": [
     {
       "igdb_id": 292844,
@@ -1473,6 +1473,20 @@
         {
           "album_name": "Alien Hominid Invasion OST (Beta)",
           "spotify_url": "https://open.spotify.com/album/6w22qsfqQkGgSNvzRjc8uQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121267,
+      "game_name": "Alien Squatter",
+      "game_url": "https://ostdb.net/games/alien-squatter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273371325403fe1a79780c1f974",
+      "albums": [
+        {
+          "album_name": "Alien Squatter (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/11GC54h1Vh2zO4LhYqbbOC",
           "apple_music_url": "",
           "album_link_url": ""
         }
