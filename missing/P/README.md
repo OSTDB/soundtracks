@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacxon: Legend is back | 364416 | [364416-pacxon-legend-is-back.json](./364416-pacxon-legend-is-back.json) |
 | Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
+| Pad Maid | 425653 | [425653-pad-maid.json](./425653-pad-maid.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
 | Padal proshlogodniy sneg | 397452 | [397452-padal-proshlogodniy-sneg.json](./397452-padal-proshlogodniy-sneg.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow of Stone | 176641 | [176641-pillow-of-stone.json](./176641-pillow-of-stone.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
 | Pillow Pinky | 310774 | [310774-pillow-pinky.json](./310774-pillow-pinky.json) |
+| Pillow Punk | 425665 | [425665-pillow-punk.json](./425665-pillow-punk.json) |
 | Pillow Simulator | 155956 | [155956-pillow-simulator.json](./155956-pillow-simulator.json) |
 | Pillow Talk at the End of All Things. | 264401 | [264401-pillow-talk-at-the-end-of-all-things.json](./264401-pillow-talk-at-the-end-of-all-things.json) |
 | Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
@@ -13204,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
 | Pokémon Royal Sapphire | 361219 | [361219-pokemon-royal-sapphire.json](./361219-pokemon-royal-sapphire.json) |
 | Pokémon Royal Version | 172758 | [172758-pokemon-royal-version.json](./172758-pokemon-royal-version.json) |
+| Pokémon Royale | 425071 | [425071-pokemon-royale.json](./425071-pokemon-royale.json) |
 | Pokémon RP | 200948 | [200948-pokemon-rp.json](./200948-pokemon-rp.json) |
 | Pokémon Ruby Destiny: Life of Guardians | 129824 | [129824-pokemon-ruby-destiny-life-of-guardians.json](./129824-pokemon-ruby-destiny-life-of-guardians.json) |
 | Pokémon Ruby Destiny: Reign of Legends | 129825 | [129825-pokemon-ruby-destiny-reign-of-legends.json](./129825-pokemon-ruby-destiny-reign-of-legends.json) |
