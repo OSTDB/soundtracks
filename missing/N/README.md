@@ -8290,7 +8290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Entering: Quiet Haven | 321232 | [321232-now-entering-quiet-haven.json](./321232-now-entering-quiet-haven.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
 | Now Hiring | 371163 | [371163-now-hiring.json](./371163-now-hiring.json) |
-| Now I Am There | 122176 | [122176-now-i-am-there.json](./122176-now-i-am-there.json) |
 | Now I Know My ABCs | 85315 | [85315-now-i-know-my-abcs.json](./85315-now-i-know-my-abcs.json) |
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
