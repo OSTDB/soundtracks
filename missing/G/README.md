@@ -337,7 +337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Defense | 285923 | [285923-gachi-defense.json](./285923-gachi-defense.json) |
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
-| Gachi Finder 3000 | 114269 | [114269-gachi-finder-3000.json](./114269-gachi-finder-3000.json) |
 | Gachi Gang | 100485 | [100485-gachi-gang.json](./100485-gachi-gang.json) |
 | Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
@@ -350,7 +349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
 | Gachimuchi Life Simulator | 159383 | [159383-gachimuchi-life-simulator.json](./159383-gachimuchi-life-simulator.json) |
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
-| Gachimuchi Rebirth | 113652 | [113652-gachimuchi-rebirth.json](./113652-gachimuchi-rebirth.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
 | Gachinco Tennis S | 222196 | [222196-gachinco-tennis-s.json](./222196-gachinco-tennis-s.json) |
@@ -3450,7 +3448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genius! | 129325 | [129325-genius.json](./129325-genius.json) |
-| Genius! Nazi-Girl GoePpels-Chan Ep1 | 114116 | [114116-genius-nazi-girl-goeppels-chan-ep1.json](./114116-genius-nazi-girl-goeppels-chan-ep1.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep3 | 121060 | [121060-genius-nazi-girl-goeppels-chan-ep3.json](./121060-genius-nazi-girl-goeppels-chan-ep3.json) |
 | Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
@@ -12106,7 +12103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear | 9140 | [9140-guilty-gear.json](./9140-guilty-gear.json) |
-| Guilty Gear 20th Anniversary Pack | 114135 | [114135-guilty-gear-20th-anniversary-pack.json](./114135-guilty-gear-20th-anniversary-pack.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
 | Guilty Gear Isuka | 5857 | [5857-guilty-gear-isuka.json](./5857-guilty-gear-isuka.json) |
