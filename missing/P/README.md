@@ -13950,6 +13950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergirl | 196377 | [196377-poltergirl.json](./196377-poltergirl.json) |
 | Polterguns | 177655 | [177655-polterguns.json](./177655-polterguns.json) |
 | Polterguys | 217098 | [217098-polterguys.json](./217098-polterguys.json) |
+| Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
 | Polterquest | 345027 | [345027-polterquest.json](./345027-polterquest.json) |
 | Polugram Circus | 184204 | [184204-polugram-circus.json](./184204-polugram-circus.json) |
@@ -18387,6 +18388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Lumoria | 136481 | [136481-project-lumoria.json](./136481-project-lumoria.json) |
 | Project Luna | 220659 | [220659-project-luna.json](./220659-project-luna.json) |
 | Project Lunky | 396762 | [396762-project-lunky.json](./396762-project-lunky.json) |
+| Project LUX | 29955 | [29955-project-lux.json](./29955-project-lux.json) |
 | Project Lynx | 326165 | [326165-project-lynx.json](./326165-project-lynx.json) |
 | Project M | 127155 | [127155-project-m.json](./127155-project-m.json) |
 | Project M | 174687 | [174687-project-m.json](./174687-project-m.json) |
