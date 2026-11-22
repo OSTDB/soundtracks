@@ -6177,10 +6177,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
 | Deep Rock Galactic: Season 5 - Drilling Deeper | 306214 | [306214-deep-rock-galactic-season-5-drilling-deeper.json](./306214-deep-rock-galactic-season-5-drilling-deeper.json) |
+| Deep Rock Galactic: Season 7 | 420806 | [420806-deep-rock-galactic-season-7.json](./420806-deep-rock-galactic-season-7.json) |
+| Deep Rock Galactic: Season 8 | 420807 | [420807-deep-rock-galactic-season-8.json](./420807-deep-rock-galactic-season-8.json) |
 | Deep Rock Galactic: Supporter II Upgrade | 289558 | [289558-deep-rock-galactic-supporter-ii-upgrade.json](./289558-deep-rock-galactic-supporter-ii-upgrade.json) |
 | Deep Rock Galactic: Supporter Upgrade | 224177 | [224177-deep-rock-galactic-supporter-upgrade.json](./224177-deep-rock-galactic-supporter-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Survivor - Heavy Duty | 394682 | [394682-deep-rock-galactic-survivor-heavy-duty.json](./394682-deep-rock-galactic-survivor-heavy-duty.json) |
+| Deep Rock Galactic: Survivor - Knockout | 420805 | [420805-deep-rock-galactic-survivor-knockout.json](./420805-deep-rock-galactic-survivor-knockout.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
 | Deep Root | 177988 | [177988-deep-root.json](./177988-deep-root.json) |
@@ -18846,7 +18849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlords: Resurrection | 202154 | [202154-dreamlords-resurrection.json](./202154-dreamlords-resurrection.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
-| Dreamo | 122164 | [122164-dreamo.json](./122164-dreamo.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
 | DreaMon World | 285885 | [285885-dreamon-world.json](./285885-dreamon-world.json) |
 | Dreamout | 217178 | [217178-dreamout.json](./217178-dreamout.json) |
@@ -19276,6 +19278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Bird | 351078 | [351078-drill-bird.json](./351078-drill-bird.json) |
+| Drill Bird: Cursed Mode | 420811 | [420811-drill-bird-cursed-mode.json](./420811-drill-bird-cursed-mode.json) |
 | Drill Core | 301799 | [301799-drill-core.json](./301799-drill-core.json) |
 | Drill Core: Anniversary Update | 418058 | [418058-drill-core-anniversary-update.json](./418058-drill-core-anniversary-update.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
@@ -21704,6 +21707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Hell | 74228 | [74228-dungeons-of-hell.json](./74228-dungeons-of-hell.json) |
 | Dungeons of Hinterberg: Episode Renaud | 358904 | [358904-dungeons-of-hinterberg-episode-renaud.json](./358904-dungeons-of-hinterberg-episode-renaud.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
+| Dungeons of Ironshade | 420090 | [420090-dungeons-of-ironshade.json](./420090-dungeons-of-ironshade.json) |
 | Dungeons of Kairn | 229287 | [229287-dungeons-of-kairn.json](./229287-dungeons-of-kairn.json) |
 | Dungeons of Kong | 387900 | [387900-dungeons-of-kong.json](./387900-dungeons-of-kong.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
