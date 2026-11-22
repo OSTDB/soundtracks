@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XXX, I Want You to Keep Fighting | 294385 | [294385-xxx-i-want-you-to-keep-fighting.json](./294385-xxx-i-want-you-to-keep-fighting.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
+| XXXX | 425679 | [425679-xxxx.json](./425679-xxxx.json) |
 | Xxxy | 184861 | [184861-xxxy.json](./184861-xxxy.json) |
 | XXZ | 55272 | [55272-xxz.json](./55272-xxz.json) |
 | XXZ 2 | 97177 | [97177-xxz-2.json](./97177-xxz-2.json) |
