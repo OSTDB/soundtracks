@@ -538,7 +538,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim PSP | 140104 | [140104-earthworm-jim-psp.json](./140104-earthworm-jim-psp.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
-| EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
 | EarthX: Future Astronauts Edition | 260928 | [260928-earthx-future-astronauts-edition.json](./260928-earthx-future-astronauts-edition.json) |
 | Earwax Sculptures | 418131 | [418131-earwax-sculptures.json](./418131-earwax-sculptures.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
@@ -780,7 +779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eberouge Special: Koi to Mahou no Gakuen Seikatsu | 171967 | [171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json](./171967-eberouge-special-koi-to-mahou-no-gakuen-seikatsu.json) |
 | EbiKore+ Amagami | 8636 | [8636-ebikore-amagami.json](./8636-ebikore-amagami.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
-| Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
 | Ebola 2 | 142565 | [142565-ebola-2.json](./142565-ebola-2.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
@@ -1886,7 +1884,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggo | 76337 | [76337-eggo.json](./76337-eggo.json) |
 | Eggomania | 22765 | [22765-eggomania.json](./22765-eggomania.json) |
 | Eggor | 40114 | [40114-eggor.json](./40114-eggor.json) |
-| Eggoria | 118367 | [118367-eggoria.json](./118367-eggoria.json) |
 | Eggplant | 338180 | [338180-eggplant.json](./338180-eggplant.json) |
 | Eggplant | 339728 | [339728-eggplant.json](./339728-eggplant.json) |
 | Eggplant | 339729 | [339729-eggplant.json](./339729-eggplant.json) |
@@ -2889,7 +2886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven | 179401 | [179401-eleven.json](./179401-eleven.json) |
 | Eleven | 361429 | [361429-eleven.json](./361429-eleven.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
-| Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven Islands | 115222 | [115222-eleven-islands.json](./115222-eleven-islands.json) |
 | Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
@@ -3047,7 +3043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Dangerous: Odyssey - Deluxe Edition | 227190 | [227190-elite-dangerous-odyssey-deluxe-edition.json](./227190-elite-dangerous-odyssey-deluxe-edition.json) |
 | Elite Darts | 98956 | [98956-elite-darts.json](./98956-elite-darts.json) |
 | Elite Encounter | 28660 | [28660-elite-encounter.json](./28660-elite-encounter.json) |
-| Elite Escape | 121842 | [121842-elite-escape.json](./121842-elite-escape.json) |
 | Elite Exorcist Miko | 313912 | [313912-elite-exorcist-miko.json](./313912-elite-exorcist-miko.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces | 224703 | [224703-elite-forces.json](./224703-elite-forces.json) |
@@ -4475,7 +4470,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Road Runner | 289125 | [289125-endless-road-runner.json](./289125-endless-road-runner.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
 | Endless Room | 31107 | [31107-endless-room.json](./31107-endless-room.json) |
-| Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless RPG: Untold Tales | 265800 | [265800-endless-rpg-untold-tales.json](./265800-endless-rpg-untold-tales.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
 | Endless Ruin Chapter II: Hall of Spores | 228946 | [228946-endless-ruin-chapter-ii-hall-of-spores.json](./228946-endless-ruin-chapter-ii-hall-of-spores.json) |
@@ -5176,7 +5170,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Night | 339757 | [339757-ephemeral-night.json](./339757-ephemeral-night.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
-| Ephemeral Unnatural Balance | 121484 | [121484-ephemeral-unnatural-balance.json](./121484-ephemeral-unnatural-balance.json) |
 | Ephemeral: Fantasy on Dark | 108235 | [108235-ephemeral-fantasy-on-dark.json](./108235-ephemeral-fantasy-on-dark.json) |
 | Ephemeral: Miniature Garden | 222866 | [222866-ephemeral-miniature-garden.json](./222866-ephemeral-miniature-garden.json) |
 | Ephemerid: A Musical Adventure | 36111 | [36111-ephemerid-a-musical-adventure.json](./36111-ephemerid-a-musical-adventure.json) |
@@ -6328,7 +6321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Knox Manor | 157980 | [157980-escape-knox-manor.json](./157980-escape-knox-manor.json) |
 | Escape Labyrinth | 109971 | [109971-escape-labyrinth.json](./109971-escape-labyrinth.json) |
 | Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
-| Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
 | Escape Lanky Kong | 355823 | [355823-escape-lanky-kong.json](./355823-escape-lanky-kong.json) |
 | Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
@@ -8781,7 +8773,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exerion II: Zorni | 250671 | [250671-exerion-ii-zorni.json](./250671-exerion-ii-zorni.json) |
 | Exerion II: Zorni | 37189 | [37189-exerion-ii-zorni.json](./37189-exerion-ii-zorni.json) |
 | Exertainment Mountain Bike Rally / Speed Racer | 60204 | [60204-exertainment-mountain-bike-rally-speed-racer.json](./60204-exertainment-mountain-bike-rally-speed-racer.json) |
-| Exertus | 120109 | [120109-exertus.json](./120109-exertus.json) |
 | Exertus: Redux | 180968 | [180968-exertus-redux.json](./180968-exertus-redux.json) |
 | Exes Assault!! | 187397 | [187397-exes-assault.json](./187397-exes-assault.json) |
 | Exeter Castle | 370016 | [370016-exeter-castle.json](./370016-exeter-castle.json) |
@@ -9128,7 +9119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exosystem | 380335 | [380335-exosystem.json](./380335-exosystem.json) |
 | ExoSystem | 10425 | [10425-exosystem.json](./10425-exosystem.json) |
 | Exot | 338041 | [338041-exot.json](./338041-exot.json) |
-| ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
 | Exoterrestrial | 276903 | [276903-exoterrestrial.json](./276903-exoterrestrial.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
@@ -9487,7 +9477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
 | Extraction Shop Simulator | 424946 | [424946-extraction-shop-simulator.json](./424946-extraction-shop-simulator.json) |
-| Extraction Valley | 121020 | [121020-extraction-valley.json](./121020-extraction-valley.json) |
 | Extraction: Project Outbreak | 23395 | [23395-extraction-project-outbreak.json](./23395-extraction-project-outbreak.json) |
 | Extracurricular Activities | 205696 | [205696-extracurricular-activities.json](./205696-extracurricular-activities.json) |
 | ExtraGalactica | 128033 | [128033-extragalactica.json](./128033-extragalactica.json) |
@@ -9854,7 +9843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezamur | 240974 | [240974-ezamur.json](./240974-ezamur.json) |
-| Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezekial S. Jackson's Amazing Truckology | 201743 | [201743-ezekial-s-jacksons-amazing-truckology.json](./201743-ezekial-s-jacksons-amazing-truckology.json) |
 | Ezekiel | 273722 | [273722-ezekiel.json](./273722-ezekiel.json) |
 | Ezekiel | 380334 | [380334-ezekiel.json](./380334-ezekiel.json) |
