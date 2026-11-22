@@ -3142,7 +3142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of a Sprite | 179403 | [179403-journey-of-a-sprite.json](./179403-journey-of-a-sprite.json) |
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Destiny | 404520 | [404520-journey-of-destiny.json](./404520-journey-of-destiny.json) |
-| Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
 | Journey of Haha | 39008 | [39008-journey-of-haha.json](./39008-journey-of-haha.json) |
 | Journey of Harvest | 303599 | [303599-journey-of-harvest.json](./303599-journey-of-harvest.json) |
 | Journey of Hope | 54146 | [54146-journey-of-hope.json](./54146-journey-of-hope.json) |
@@ -3733,7 +3732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Now | 359348 | [359348-jump-now.json](./359348-jump-now.json) |
 | Jump Nuts | 351338 | [351338-jump-nuts.json](./351338-jump-nuts.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
-| Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
 | Jump On Clouds | 295502 | [295502-jump-on-clouds.json](./295502-jump-on-clouds.json) |
 | Jump On Head | 298819 | [298819-jump-on-head.json](./298819-jump-on-head.json) |
 | Jump on the Ball | 329380 | [329380-jump-on-the-ball.json](./329380-jump-on-the-ball.json) |
@@ -4186,7 +4184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JungleRing2D | 254276 | [254276-junglering2d.json](./254276-junglering2d.json) |
 | Jungles of Maxtheria | 139403 | [139403-jungles-of-maxtheria.json](./139403-jungles-of-maxtheria.json) |
 | JungleShoot | 101251 | [101251-jungleshoot.json](./101251-jungleshoot.json) |
-| Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
 | Junior Arithmancer | 138149 | [138149-junior-arithmancer.json](./138149-junior-arithmancer.json) |
 | Junior Board Games | 131127 | [131127-junior-board-games.json](./131127-junior-board-games.json) |
@@ -4520,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Day | 202576 | [202576-just-another-day.json](./202576-just-another-day.json) |
 | Just Another Day at the Office | 134507 | [134507-just-another-day-at-the-office.json](./134507-just-another-day-at-the-office.json) |
 | Just Another Escape | 383567 | [383567-just-another-escape.json](./383567-just-another-escape.json) |
+| Just Another Gambler | 427464 | [427464-just-another-gambler.json](./427464-just-another-gambler.json) |
 | Just another generic: FPS | 291219 | [291219-just-another-generic-fps.json](./291219-just-another-generic-fps.json) |
 | Just Another Guild Day | 414156 | [414156-just-another-guild-day.json](./414156-just-another-guild-day.json) |
 | Just Another Jump and Run | 195554 | [195554-just-another-jump-and-run.json](./195554-just-another-jump-and-run.json) |
