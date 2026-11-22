@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T05:25:56.315Z",
-  "total_soundtracks": 3900,
+  "generated_at": "2026-11-22T06:06:07.377Z",
+  "total_soundtracks": 3902,
   "games": [
     {
       "igdb_id": 292844,
@@ -4483,6 +4483,20 @@
         {
           "album_name": "Battlevoid: Harbinger Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2rBRSO3iINYPuhnStwgKrm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 118306,
+      "game_name": "Battlewake",
+      "game_url": "https://ostdb.net/games/battlewake",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273897df7b9109ad0ef7350529a",
+      "albums": [
+        {
+          "album_name": "Battlewake: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3AyltDOPazpAqI4fAg4Y06",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38481,6 +38495,20 @@
         {
           "album_name": "Spinch (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/48aLaSp5VEhkYjL3LKVPJE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 118383,
+      "game_name": "Spirit Oath",
+      "game_url": "https://ostdb.net/games/spirit-oath",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273810ce36fa37cd216b9b066cc",
+      "albums": [
+        {
+          "album_name": "Spirit Oath (Original Video-Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1sICjt8hSWuYkQHNwTEjZB",
           "apple_music_url": "",
           "album_link_url": ""
         }
