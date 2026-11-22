@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellboy: Web of Wyrd - Collector's Edition | 287044 | [287044-hellboy-web-of-wyrd-collectors-edition.json](./287044-hellboy-web-of-wyrd-collectors-edition.json) |
 | Hellbreach: Vegas | 235620 | [235620-hellbreach-vegas.json](./235620-hellbreach-vegas.json) |
+| Hellbreachers | 145888 | [145888-hellbreachers.json](./145888-hellbreachers.json) |
 | Hellbreak | 323576 | [323576-hellbreak.json](./323576-hellbreak.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbreath | 154100 | [154100-hellbreath.json](./154100-hellbreath.json) |
