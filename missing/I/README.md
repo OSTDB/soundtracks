@@ -1458,7 +1458,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identity V: Cage of Yesteryear | 409186 | [409186-identity-v-cage-of-yesteryear.json](./409186-identity-v-cage-of-yesteryear.json) |
 | Identity V: Closing Night | 354123 | [354123-identity-v-closing-night.json](./354123-identity-v-closing-night.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
-| Ideology in Friction | 114317 | [114317-ideology-in-friction.json](./114317-ideology-in-friction.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
 | Ideology in Friction: Deluxe Edition | 186899 | [186899-ideology-in-friction-deluxe-edition.json](./186899-ideology-in-friction-deluxe-edition.json) |
 | IDET | 324299 | [324299-idet.json](./324299-idet.json) |
@@ -4011,7 +4010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Firefighters | 171763 | [171763-industrial-firefighters.json](./171763-industrial-firefighters.json) |
 | Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industrial Legion | 398570 | [398570-industrial-legion.json](./398570-industrial-legion.json) |
-| Industrial Petting | 113736 | [113736-industrial-petting.json](./113736-industrial-petting.json) |
 | Industrial Spy: Operation Espionage | 45851 | [45851-industrial-spy-operation-espionage.json](./45851-industrial-spy-operation-espionage.json) |
 | Industrial Trouble | 199745 | [199745-industrial-trouble.json](./199745-industrial-trouble.json) |
 | Industrial War | 241515 | [241515-industrial-war.json](./241515-industrial-war.json) |
