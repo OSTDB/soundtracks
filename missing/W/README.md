@@ -6267,6 +6267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildFront | 274474 | [274474-wildfront.json](./274474-wildfront.json) |
 | Wildfrost | 200899 | [200899-wildfrost.json](./200899-wildfrost.json) |
 | Wildheart Gourmet | 356753 | [356753-wildheart-gourmet.json](./356753-wildheart-gourmet.json) |
+| Wildhearth | 425028 | [425028-wildhearth.json](./425028-wildhearth.json) |
 | Wildhollow | 25496 | [25496-wildhollow.json](./25496-wildhollow.json) |
 | WildIsland | 129038 | [129038-wildisland.json](./129038-wildisland.json) |
 | Wildixir | 418845 | [418845-wildixir.json](./418845-wildixir.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
 | Woks | 262190 | [262190-woks.json](./262190-woks.json) |
+| Woks & Works | 424910 | [424910-woks-and-works.json](./424910-woks-and-works.json) |
 | Wolcen II | 414929 | [414929-wolcen-ii.json](./414929-wolcen-ii.json) |
 | Wolcen: Lords of Mayhem - Deluxe Edition | 241835 | [241835-wolcen-lords-of-mayhem-deluxe-edition.json](./241835-wolcen-lords-of-mayhem-deluxe-edition.json) |
 | Wolf | 232000 | [232000-wolf.json](./232000-wolf.json) |
@@ -10546,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
+| WreckZone | 424504 | [424504-wreckzone.json](./424504-wreckzone.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
 | Wren | 126524 | [126524-wren.json](./126524-wren.json) |
 | Wren Falls | 423638 | [423638-wren-falls.json](./423638-wren-falls.json) |
