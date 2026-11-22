@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paravox | 299089 | [299089-paravox.json](./299089-paravox.json) |
 | Parawhy | 325677 | [325677-parawhy.json](./325677-parawhy.json) |
 | ParaWorld | 9926 | [9926-paraworld.json](./9926-paraworld.json) |
+| Parawyrm | 424510 | [424510-parawyrm.json](./424510-parawyrm.json) |
 | Paraxima | 399304 | [399304-paraxima.json](./399304-paraxima.json) |
 | Parcel | 17699 | [17699-parcel.json](./17699-parcel.json) |
 | Parcel Corps | 252860 | [252860-parcel-corps.json](./252860-parcel-corps.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet | 258783 | [258783-pawn-planet.json](./258783-pawn-planet.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
+| Pawn Shift | 424509 | [424509-pawn-shift.json](./424509-pawn-shift.json) |
 | Pawn Shop | 416428 | [416428-pawn-shop.json](./416428-pawn-shop.json) |
 | Pawn Shop Days | 425396 | [425396-pawn-shop-days.json](./425396-pawn-shop-days.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
@@ -13894,6 +13896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
+| Polish Pierogi Simulator | 424490 | [424490-polish-pierogi-simulator.json](./424490-polish-pierogi-simulator.json) |
 | Polish Simulator | 329495 | [329495-polish-simulator.json](./329495-polish-simulator.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
