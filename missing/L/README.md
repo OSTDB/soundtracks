@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Cestrue Seyuntres | 128451 | [128451-lcestrue-seyuntres.json](./128451-lcestrue-seyuntres.json) |
 | L'Empereur | 85737 | [85737-lempereur.json](./85737-lempereur.json) |
 | L'Empire Banger V1 | 412766 | [412766-lempire-banger-v1.json](./412766-lempire-banger-v1.json) |
+| L'Empire Banger V3 | 421469 | [421469-lempire-banger-v3.json](./421469-lempire-banger-v3.json) |
 | L'employe parfait | 180943 | [180943-lemploye-parfait.json](./180943-lemploye-parfait.json) |
 | L'entraînement des Guerriers | 322467 | [322467-lentrainement-des-guerriers.json](./322467-lentrainement-des-guerriers.json) |
 | L'Eredità | 317207 | [317207-leredita.json](./317207-leredita.json) |
@@ -1994,7 +1995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latish Destroyer | 183635 | [183635-latish-destroyer.json](./183635-latish-destroyer.json) |
 | Latitude 76: Land of the Onkilons | 352428 | [352428-latitude-76-land-of-the-onkilons.json](./352428-latitude-76-land-of-the-onkilons.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
-| Latte Stand Tycoon | 113802 | [113802-latte-stand-tycoon.json](./113802-latte-stand-tycoon.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Lattice Dancer | 240129 | [240129-lattice-dancer.json](./240129-lattice-dancer.json) |
@@ -4349,7 +4349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese: Deluxe | 367644 | [367644-lets-learn-japanese-deluxe.json](./367644-lets-learn-japanese-deluxe.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
-| Let's Learn Japanese! Hiragana | 114379 | [114379-lets-learn-japanese-hiragana.json](./114379-lets-learn-japanese-hiragana.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
 | Let's Learn Japanese! Katakana | 115963 | [115963-lets-learn-japanese-katakana.json](./115963-lets-learn-japanese-katakana.json) |
 | Let's Learn Japanese! Vocabulary | 286407 | [286407-lets-learn-japanese-vocabulary.json](./286407-lets-learn-japanese-vocabulary.json) |
@@ -5214,7 +5213,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Pain | 239584 | [239584-life-is-pain.json](./239584-life-is-pain.json) |
 | Life is Paine | 188443 | [188443-life-is-paine.json](./188443-life-is-paine.json) |
 | Life is Paradise | 204174 | [204174-life-is-paradise.json](./204174-life-is-paradise.json) |
-| Life is Pointless | 113651 | [113651-life-is-pointless.json](./113651-life-is-pointless.json) |
 | Life is sad | 157407 | [157407-life-is-sad.json](./157407-life-is-sad.json) |
 | Life is Scary | 176765 | [176765-life-is-scary.json](./176765-life-is-scary.json) |
 | Life is Snot | 176947 | [176947-life-is-snot.json](./176947-life-is-snot.json) |
