@@ -4228,7 +4228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Feathers & All | 406446 | [406446-feathers-and-all.json](./406446-feathers-and-all.json) |
 | Featherweight | 169514 | [169514-featherweight.json](./169514-featherweight.json) |
-| Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
 | FEB: Brazilian Elite Force | 128070 | [128070-feb-brazilian-elite-force.json](./128070-feb-brazilian-elite-force.json) |
 | Febilis | 255578 | [255578-febilis.json](./255578-febilis.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
@@ -10746,7 +10745,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
 | Football Manager 2020 Mobile | 197656 | [197656-football-manager-2020-mobile.json](./197656-football-manager-2020-mobile.json) |
-| Football Manager 2020 Touch | 122160 | [122160-football-manager-2020-touch.json](./122160-football-manager-2020-touch.json) |
 | Football Manager 2021 | 139077 | [139077-football-manager-2021.json](./139077-football-manager-2021.json) |
 | Football Manager 2021 Touch | 139257 | [139257-football-manager-2021-touch.json](./139257-football-manager-2021-touch.json) |
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
