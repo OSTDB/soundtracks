@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Drivers | 68512 | [68512-vr-drivers.json](./68512-vr-drivers.json) |
 | VR Drum Studio | 54534 | [54534-vr-drum-studio.json](./54534-vr-drum-studio.json) |
 | VR Drums Ultimate Streamer | 371218 | [371218-vr-drums-ultimate-streamer.json](./371218-vr-drums-ultimate-streamer.json) |
+| VR Drums Ultimate Streamer: [Hi-hat] Pisces - Formula 621 Modern Essentials | 428190 | [428190-vr-drums-ultimate-streamer-hi-hat-pisces-formula-621-modern-essentials.json](./428190-vr-drums-ultimate-streamer-hi-hat-pisces-formula-621-modern-essentials.json) |
 | VR Drums Ultimate Streamer: [Tom] Rotomic Tom Pack | 427917 | [427917-vr-drums-ultimate-streamer-tom-rotomic-tom-pack.json](./427917-vr-drums-ultimate-streamer-tom-rotomic-tom-pack.json) |
 | VR Dungeon | 30599 | [30599-vr-dungeon.json](./30599-vr-dungeon.json) |
 | VR Dungeon Knight | 30170 | [30170-vr-dungeon-knight.json](./30170-vr-dungeon-knight.json) |
