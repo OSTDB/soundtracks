@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Myth | 270839 | [270839-egyptian-myth.json](./270839-egyptian-myth.json) |
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
+| Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
 | Egyptian Senet | 94800 | [94800-egyptian-senet.json](./94800-egyptian-senet.json) |
 | Egyptian Settlement | 53993 | [53993-egyptian-settlement.json](./53993-egyptian-settlement.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
@@ -4865,6 +4866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enkate | 297090 | [297090-enkate.json](./297090-enkate.json) |
 | Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
+| Enki | 35032 | [35032-enki.json](./35032-enki.json) |
 | Enkindle | 294925 | [294925-enkindle.json](./294925-enkindle.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
@@ -5212,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Car Factory | 97568 | [97568-epic-car-factory.json](./97568-epic-car-factory.json) |
 | Epic Card Battle Simulator | 407476 | [407476-epic-card-battle-simulator.json](./407476-epic-card-battle-simulator.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
+| Epic Cards Battle | 34973 | [34973-epic-cards-battle.json](./34973-epic-cards-battle.json) |
 | Epic Cards Battle 2-Dragons Rising (TCG) | 55372 | [55372-epic-cards-battle-2-dragons-rising-tcg.json](./55372-epic-cards-battle-2-dragons-rising-tcg.json) |
 | Epic Cards Battle 3 | 258960 | [258960-epic-cards-battle-3.json](./258960-epic-cards-battle-3.json) |
 | Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
