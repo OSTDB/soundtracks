@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic: Ecks vs. Sever | 49196 | [49196-ballistic-ecks-vs-sever.json](./49196-ballistic-ecks-vs-sever.json) |
 | Ballistic: The story of Marble and the Energy Core | 240738 | [240738-ballistic-the-story-of-marble-and-the-energy-core.json](./240738-ballistic-the-story-of-marble-and-the-energy-core.json) |
 | Ballistic.exe | 328367 | [328367-ballistic-exe.json](./328367-ballistic-exe.json) |
+| Ballisticards | 427325 | [427325-ballisticards.json](./427325-ballisticards.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Bling Pack | 278190 | [278190-ballisticng-bling-pack.json](./278190-ballisticng-bling-pack.json) |
 | BallisticNG: Deluxe Edition | 278191 | [278191-ballisticng-deluxe-edition.json](./278191-ballisticng-deluxe-edition.json) |
@@ -6791,7 +6792,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeing Hive | 407030 | [407030-beeing-hive.json](./407030-beeing-hive.json) |
 | Beek: Familiar Spirit | 178695 | [178695-beek-familiar-spirit.json](./178695-beek-familiar-spirit.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
-| Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beekeeper Simulator | 428273 | [428273-beekeeper-simulator.json](./428273-beekeeper-simulator.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
@@ -8081,7 +8081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
 | Beyond Eden: Dear Edward | 161444 | [161444-beyond-eden-dear-edward.json](./161444-beyond-eden-dear-edward.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
-| Beyond Enemy Lines 2 | 117082 | [117082-beyond-enemy-lines-2.json](./117082-beyond-enemy-lines-2.json) |
 | Beyond Enemy Lines 2 Online | 128112 | [128112-beyond-enemy-lines-2-online.json](./128112-beyond-enemy-lines-2-online.json) |
 | Beyond Enemy Lines 2: Burning Sand | 164535 | [164535-beyond-enemy-lines-2-burning-sand.json](./164535-beyond-enemy-lines-2-burning-sand.json) |
 | Beyond Enemy Lines 2: Covert Strike | 164530 | [164530-beyond-enemy-lines-2-covert-strike.json](./164530-beyond-enemy-lines-2-covert-strike.json) |
@@ -9652,7 +9651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Game | 349937 | [349937-bird-game.json](./349937-bird-game.json) |
 | Bird Game | 394488 | [394488-bird-game.json](./394488-bird-game.json) |
 | Bird Game | 86302 | [86302-bird-game.json](./86302-bird-game.json) |
-| Bird Game + | 117932 | [117932-bird-game.json](./117932-bird-game.json) |
 | Bird Game 3 | 380006 | [380006-bird-game-3.json](./380006-bird-game-3.json) |
 | Bird Game 3 | 380007 | [380007-bird-game-3.json](./380007-bird-game-3.json) |
 | Bird Game 3 | 402646 | [402646-bird-game-3.json](./402646-bird-game-3.json) |
@@ -16198,7 +16196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Man | 123922 | [123922-bow-man.json](./123922-bow-man.json) |
 | Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
 | Bow to Blood | 75241 | [75241-bow-to-blood.json](./75241-bow-to-blood.json) |
-| Bow to Blood: Last Captain Standing | 115021 | [115021-bow-to-blood-last-captain-standing.json](./115021-bow-to-blood-last-captain-standing.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
 | Bowave | 264980 | [264980-bowave.json](./264980-bowave.json) |
@@ -17768,13 +17765,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewed and Battered | 391395 | [391395-brewed-and-battered.json](./391395-brewed-and-battered.json) |
 | Brewed Horizons | 317161 | [317161-brewed-horizons.json](./317161-brewed-horizons.json) |
-| Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
 | Brewery | 13981 | [13981-brewery.json](./13981-brewery.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewhaha | 417049 | [417049-brewhaha.json](./417049-brewhaha.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
 | Brewing Haus | 267744 | [267744-brewing-haus.json](./267744-brewing-haus.json) |
+| Brewmancer | 427008 | [427008-brewmancer.json](./427008-brewmancer.json) |
 | Brewmaster | 145287 | [145287-brewmaster.json](./145287-brewmaster.json) |
 | Brewmastery: Tavern Simulator | 216697 | [216697-brewmastery-tavern-simulator.json](./216697-brewmastery-tavern-simulator.json) |
 | Brewpub Simulator | 213483 | [213483-brewpub-simulator.json](./213483-brewpub-simulator.json) |
@@ -18556,7 +18553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Bronzebeard's Tavern: Supporter Pack | 293450 | [293450-bronzebeards-tavern-supporter-pack.json](./293450-bronzebeards-tavern-supporter-pack.json) |
 | Bronzette | 183267 | [183267-bronzette.json](./183267-bronzette.json) |
-| Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Brood Ma: Dadda | 263272 | [263272-brood-ma-dadda.json](./263272-brood-ma-dadda.json) |
 | Brood of Hatred | 261444 | [261444-brood-of-hatred.json](./261444-brood-of-hatred.json) |
 | BroodStar | 140204 | [140204-broodstar.json](./140204-broodstar.json) |
