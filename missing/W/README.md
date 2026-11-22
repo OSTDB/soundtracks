@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
 | Wall Walker | 106311 | [106311-wall-walker.json](./106311-wall-walker.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
+| Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
 | Wall World 3 | 416207 | [416207-wall-world-3.json](./416207-wall-world-3.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
 | Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Pretend | 410338 | [410338-we-pretend.json](./410338-we-pretend.json) |
 | We Ramble I: Starwake | 224711 | [224711-we-ramble-i-starwake.json](./224711-we-ramble-i-starwake.json) |
 | We Ride | 125498 | [125498-we-ride.json](./125498-we-ride.json) |
+| We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
 | We Rule | 66834 | [66834-we-rule.json](./66834-we-rule.json) |
 | We See You | 207618 | [207618-we-see-you.json](./207618-we-see-you.json) |
 | We Sing | 80416 | [80416-we-sing.json](./80416-we-sing.json) |
@@ -7395,6 +7397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Race | 243473 | [243473-witch-race.json](./243473-witch-race.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
+| Witch Rise | 235633 | [235633-witch-rise.json](./235633-witch-rise.json) |
 | Witch Rush | 228281 | [228281-witch-rush.json](./228281-witch-rush.json) |
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
 | Witch Schools: Love Potions | 215655 | [215655-witch-schools-love-potions.json](./215655-witch-schools-love-potions.json) |
@@ -7670,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without A Voice | 131833 | [131833-without-a-voice.json](./131833-without-a-voice.json) |
 | Without a Voice: Blooming Edition | 300541 | [300541-without-a-voice-blooming-edition.json](./300541-without-a-voice-blooming-edition.json) |
 | Without End | 213842 | [213842-without-end.json](./213842-without-end.json) |
+| Without Escape | 229134 | [229134-without-escape.json](./229134-without-escape.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
 | Without Judgement | 216824 | [216824-without-judgement.json](./216824-without-judgement.json) |
 | Without kidney | 215652 | [215652-without-kidney.json](./215652-without-kidney.json) |
