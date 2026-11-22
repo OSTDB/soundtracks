@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Behind the Masks | 391455 | [391455-behind-the-masks.json](./391455-behind-the-masks.json) |
+| Behind the Memory | 29998 | [29998-behind-the-memory.json](./29998-behind-the-memory.json) |
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
 | Behind the Reflection | 52446 | [52446-behind-the-reflection.json](./52446-behind-the-reflection.json) |
 | Behind the Reflection 2: Witch's Revenge | 52445 | [52445-behind-the-reflection-2-witchs-revenge.json](./52445-behind-the-reflection-2-witchs-revenge.json) |
@@ -12633,6 +12634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
 | Blood Facsimile | 391413 | [391413-blood-facsimile.json](./391413-blood-facsimile.json) |
+| Blood Feed | 29879 | [29879-blood-feed.json](./29879-blood-feed.json) |
 | Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Fighter Round Battle | 417707 | [417707-blood-fighter-round-battle.json](./417707-blood-fighter-round-battle.json) |
 | Blood Flowers | 211583 | [211583-blood-flowers.json](./211583-blood-flowers.json) |
