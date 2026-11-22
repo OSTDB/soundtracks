@@ -7306,6 +7306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noire Police Detective: Gangster Drama Simulator | 394567 | [394567-noire-police-detective-gangster-drama-simulator.json](./394567-noire-police-detective-gangster-drama-simulator.json) |
 | Noirmancer | 400955 | [400955-noirmancer.json](./400955-noirmancer.json) |
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
+| Noirvana | 429453 | [429453-noirvana.json](./429453-noirvana.json) |
 | Noise | 131406 | [131406-noise.json](./131406-noise.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
 | Noise | 50544 | [50544-noise.json](./50544-noise.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonestory P1 | 155395 | [155395-nonestory-p1.json](./155395-nonestory-p1.json) |
 | Nonet Concerto | 137984 | [137984-nonet-concerto.json](./137984-nonet-concerto.json) |
 | Nonet Concerto Distortion | 137992 | [137992-nonet-concerto-distortion.json](./137992-nonet-concerto-distortion.json) |
+| Nonet Concerto R | 429450 | [429450-nonet-concerto-r.json](./429450-nonet-concerto-r.json) |
 | Nonet Ensemble: Magicwork Labyrinth | 129289 | [129289-nonet-ensemble-magicwork-labyrinth.json](./129289-nonet-ensemble-magicwork-labyrinth.json) |
 | Nonet Overture | 429722 | [429722-nonet-overture.json](./429722-nonet-overture.json) |
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
