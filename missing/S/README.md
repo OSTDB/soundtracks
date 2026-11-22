@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary | 334442 | [334442-sanctuary.json](./334442-sanctuary.json) |
 | Sanctuary in Time | 276987 | [276987-sanctuary-in-time.json](./276987-sanctuary-in-time.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
+| Sanctuary of Small Things | 429454 | [429454-sanctuary-of-small-things.json](./429454-sanctuary-of-small-things.json) |
 | Sanctuary of the Ruler | 427264 | [427264-sanctuary-of-the-ruler.json](./427264-sanctuary-of-the-ruler.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
@@ -7976,6 +7977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Rasa | 390147 | [390147-shadow-rasa.json](./390147-shadow-rasa.json) |
 | Shadow Realms | 7617 | [7617-shadow-realms.json](./7617-shadow-realms.json) |
 | Shadow Rebirth | 267002 | [267002-shadow-rebirth.json](./267002-shadow-rebirth.json) |
+| Shadow Recompiled | 429973 | [429973-shadow-recompiled.json](./429973-shadow-recompiled.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Reloaded | 335171 | [335171-shadow-reloaded.json](./335171-shadow-reloaded.json) |
 | Shadow Returns | 330114 | [330114-shadow-returns.json](./330114-shadow-returns.json) |
@@ -9970,6 +9972,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Resonance Refrain | 75865 | [75865-shining-resonance-refrain.json](./75865-shining-resonance-refrain.json) |
 | Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
 | Shining Resonance Refrain: Premium Fan Box - Limited Edition | 212320 | [212320-shining-resonance-refrain-premium-fan-box-limited-edition.json](./212320-shining-resonance-refrain-premium-fan-box-limited-edition.json) |
+| Shining Road 2: Kuroki Ryuu no Miko | 429461 | [429461-shining-road-2-kuroki-ryuu-no-miko.json](./429461-shining-road-2-kuroki-ryuu-no-miko.json) |
+| Shining Road: To the Force | 429460 | [429460-shining-road-to-the-force.json](./429460-shining-road-to-the-force.json) |
 | Shining Song Starnova: Limited Edition | 154210 | [154210-shining-song-starnova-limited-edition.json](./154210-shining-song-starnova-limited-edition.json) |
 | Shining Soul | 6593 | [6593-shining-soul.json](./6593-shining-soul.json) |
 | Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
@@ -11889,6 +11893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Physics | 177141 | [177141-siege-physics.json](./177141-siege-physics.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
 | Siege Showdown | 270072 | [270072-siege-showdown.json](./270072-siege-showdown.json) |
+| Siege Stack | 429901 | [429901-siege-stack.json](./429901-siege-stack.json) |
 | Siege Survival: Gloria Victis | 145242 | [145242-siege-survival-gloria-victis.json](./145242-siege-survival-gloria-victis.json) |
 | Siege the Day | 148782 | [148782-siege-the-day.json](./148782-siege-the-day.json) |
 | Siege Up! | 172215 | [172215-siege-up.json](./172215-siege-up.json) |
@@ -13871,6 +13876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Size Does Matter | 9716 | [9716-size-does-matter.json](./9716-size-does-matter.json) |
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
 | Size It | 186684 | [186684-size-it.json](./186684-size-it.json) |
+| Size It Up | 429459 | [429459-size-it-up.json](./429459-size-it-up.json) |
 | Size Matters | 112777 | [112777-size-matters.json](./112777-size-matters.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
@@ -14916,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybound: Card Survival | 286692 | [286692-skybound-card-survival.json](./286692-skybound-card-survival.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
+| Skybreak Online | 429446 | [429446-skybreak-online.json](./429446-skybreak-online.json) |
 | Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
 | Skybreaker: Rebuild Protocol | 429717 | [429717-skybreaker-rebuild-protocol.json](./429717-skybreaker-rebuild-protocol.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
@@ -15421,6 +15428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Slime | 426476 | [426476-slay-the-slime.json](./426476-slay-the-slime.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
+| Slay the Tire | 429456 | [429456-slay-the-tire.json](./429456-slay-the-tire.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slay the Zone | 235941 | [235941-slay-the-zone.json](./235941-slay-the-zone.json) |
 | Slay To The End | 293831 | [293831-slay-to-the-end.json](./293831-slay-to-the-end.json) |
@@ -35153,6 +35161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise on the Moon | 181282 | [181282-sunrise-on-the-moon.json](./181282-sunrise-on-the-moon.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
+| Sunrise Story | 429458 | [429458-sunrise-story.json](./429458-sunrise-story.json) |
 | Sunrise survival | 43094 | [43094-sunrise-survival.json](./43094-sunrise-survival.json) |
 | Sunrise Tragedy | 168614 | [168614-sunrise-tragedy.json](./168614-sunrise-tragedy.json) |
 | Sunrise Village: Farm Game | 248100 | [248100-sunrise-village-farm-game.json](./248100-sunrise-village-farm-game.json) |
