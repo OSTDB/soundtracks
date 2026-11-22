@@ -2873,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
 | Maka Maka | 42305 | [42305-maka-maka.json](./42305-maka-maka.json) |
+| Makab Horazon: Ang Kuryer | 425033 | [425033-makab-horazon-ang-kuryer.json](./425033-makab-horazon-ang-kuryer.json) |
 | Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai City Chi-Ba | 426040 | [426040-makai-city-chi-ba.json](./426040-makai-city-chi-ba.json) |
@@ -7088,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Brawler II: Best of Both Worlds | 264802 | [264802-mayhem-brawler-ii-best-of-both-worlds.json](./264802-mayhem-brawler-ii-best-of-both-worlds.json) |
 | Mayhem Combat | 104410 | [104410-mayhem-combat.json](./104410-mayhem-combat.json) |
 | Mayhem Combat - Fighting Game | 104550 | [104550-mayhem-combat-fighting-game.json](./104550-mayhem-combat-fighting-game.json) |
+| Mayhem Duck | 424485 | [424485-mayhem-duck.json](./424485-mayhem-duck.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
 | Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
@@ -16603,6 +16605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mo Mayhem | 429706 | [429706-mo-mayhem.json](./429706-mo-mayhem.json) |
 | Mo the Frog | 111675 | [111675-mo-the-frog.json](./111675-mo-the-frog.json) |
 | Mo The Moai | 335378 | [335378-mo-the-moai.json](./335378-mo-the-moai.json) |
+| Mo Wu Tian Gong | 424492 | [424492-mo-wu-tian-gong.json](./424492-mo-wu-tian-gong.json) |
 | Mó Xiān Cǎihóng Qiú | 359473 | [359473-mo-xian-caihong-qiu.json](./359473-mo-xian-caihong-qiu.json) |
 | Mó Xiān Duì Duì Pèng | 359472 | [359472-mo-xian-dui-dui-peng.json](./359472-mo-xian-dui-dui-peng.json) |
 | MO:Astray | 113376 | [113376-mo-astray.json](./113376-mo-astray.json) |
