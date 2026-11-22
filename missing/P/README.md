@@ -20139,6 +20139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
+| Punch Through | 425694 | [425694-punch-through.json](./425694-punch-through.json) |
 | Punch to Glory | 347374 | [347374-punch-to-glory.json](./347374-punch-to-glory.json) |
 | Punch TV | 361367 | [361367-punch-tv.json](./361367-punch-tv.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
@@ -20187,6 +20188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punished Talents: Seven Muses | 140275 | [140275-punished-talents-seven-muses.json](./140275-punished-talents-seven-muses.json) |
 | Punished Talents: Seven Muses - Collector's Edition | 29063 | [29063-punished-talents-seven-muses-collectors-edition.json](./29063-punished-talents-seven-muses-collectors-edition.json) |
 | Punished Talents: Stolen Awards | 58647 | [58647-punished-talents-stolen-awards.json](./58647-punished-talents-stolen-awards.json) |
+| Punished Talents: Stolen Awards - Collector's Edition | 426251 | [426251-punished-talents-stolen-awards-collectors-edition.json](./426251-punished-talents-stolen-awards-collectors-edition.json) |
 | Punisher | 261955 | [261955-punisher.json](./261955-punisher.json) |
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment 2: The Punishing | 402353 | [402353-punishment-2-the-punishing.json](./402353-punishment-2-the-punishing.json) |
