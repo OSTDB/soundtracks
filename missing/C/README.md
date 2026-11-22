@@ -6838,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager Italia | 14616 | [14616-championship-manager-italia.json](./14616-championship-manager-italia.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
+| Championship Manager: Season 00/01 | 24170 | [24170-championship-manager-season-00-01.json](./24170-championship-manager-season-00-01.json) |
 | Championship Manager: Season 01/02 | 5769 | [5769-championship-manager-season-01-02.json](./5769-championship-manager-season-01-02.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Manager: Season 1999/2000 | 71378 | [71378-championship-manager-season-1999-2000.json](./71378-championship-manager-season-1999-2000.json) |
@@ -12304,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close Cities | 288337 | [288337-close-cities.json](./288337-close-cities.json) |
 | Close Combat | 637 | [637-close-combat.json](./637-close-combat.json) |
 | Close Combat : Panthers in the Fog | 35328 | [35328-close-combat-panthers-in-the-fog.json](./35328-close-combat-panthers-in-the-fog.json) |
+| Close Combat 4: Battle of the Bulge | 24125 | [24125-close-combat-4-battle-of-the-bulge.json](./24125-close-combat-4-battle-of-the-bulge.json) |
 | Close Combat 5: Invasion: Normandy - Utah Beach to Cherbourg | 124960 | [124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json](./124960-close-combat-5-invasion-normandy-utah-beach-to-cherbourg.json) |
 | Close Combat III: The Russian Front | 638 | [638-close-combat-iii-the-russian-front.json](./638-close-combat-iii-the-russian-front.json) |
 | Close Combat Trilogy | 138307 | [138307-close-combat-trilogy.json](./138307-close-combat-trilogy.json) |
@@ -20193,6 +20195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCity | 81519 | [81519-crimecity.json](./81519-crimecity.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: Kingpin | 65633 | [65633-crimecraft-kingpin.json](./65633-crimecraft-kingpin.json) |
+| CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
 | Crimen Exceptum | 333307 | [333307-crimen-exceptum.json](./333307-crimen-exceptum.json) |
 | Crimen: Mercenary Tales | 251251 | [251251-crimen-mercenary-tales.json](./251251-crimen-mercenary-tales.json) |
 | Crimerunner | 217146 | [217146-crimerunner.json](./217146-crimerunner.json) |
