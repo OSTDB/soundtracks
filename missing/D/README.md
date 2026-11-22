@@ -9374,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
 | Devil Kiss | 196443 | [196443-devil-kiss.json](./196443-devil-kiss.json) |
+| Devil Laugh | 423436 | [423436-devil-laugh.json](./423436-devil-laugh.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
 | Devil Lift | 393685 | [393685-devil-lift.json](./393685-devil-lift.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
