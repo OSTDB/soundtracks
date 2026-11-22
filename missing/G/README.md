@@ -1530,7 +1530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
 | Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
-| Game of Puzzles: Furry | 119749 | [119749-game-of-puzzles-furry.json](./119749-game-of-puzzles-furry.json) |
 | Game of Puzzles: Nature | 292706 | [292706-game-of-puzzles-nature.json](./292706-game-of-puzzles-nature.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Puzzles: Space | 129438 | [129438-game-of-puzzles-space.json](./129438-game-of-puzzles-space.json) |
@@ -5520,7 +5519,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio | 107438 | [107438-gladio.json](./107438-gladio.json) |
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
-| Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
 | Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
 | Gladius VR | 108181 | [108181-gladius-vr.json](./108181-gladius-vr.json) |
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
@@ -6150,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of the East | 411973 | [411973-glyphs-of-the-east.json](./411973-glyphs-of-the-east.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Glyphscape | 349401 | [349401-glyphscape.json](./349401-glyphscape.json) |
+| Glyphweaver | 420112 | [420112-glyphweaver.json](./420112-glyphweaver.json) |
 | Glyphwing: World Geography | 417444 | [417444-glyphwing-world-geography.json](./417444-glyphwing-world-geography.json) |
 | GM Double Fall | 401556 | [401556-gm-double-fall.json](./401556-gm-double-fall.json) |
 | GM Forge - Virtual Tabletop | 100570 | [100570-gm-forge-virtual-tabletop.json](./100570-gm-forge-virtual-tabletop.json) |
@@ -6180,7 +6179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon | 54650 | [54650-gnomageddon.json](./54650-gnomageddon.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
-| Gnomancer | 118426 | [118426-gnomancer.json](./118426-gnomancer.json) |
 | Gnomber | 288199 | [288199-gnomber.json](./288199-gnomber.json) |
 | Gnomdom | 292340 | [292340-gnomdom.json](./292340-gnomdom.json) |
 | Gnome | 250862 | [250862-gnome.json](./250862-gnome.json) |
@@ -6609,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
 | Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
+| Goat Simulator 3: Digital Downgrade | 420816 | [420816-goat-simulator-3-digital-downgrade.json](./420816-goat-simulator-3-digital-downgrade.json) |
 | Goat Simulator 3: Gifts from the Rifts | 337883 | [337883-goat-simulator-3-gifts-from-the-rifts.json](./337883-goat-simulator-3-gifts-from-the-rifts.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
@@ -7373,7 +7372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Drill | 215688 | [215688-gold-drill.json](./215688-gold-drill.json) |
 | Gold Drop Mania | 329919 | [329919-gold-drop-mania.json](./329919-gold-drop-mania.json) |
 | Gold Dust | 166947 | [166947-gold-dust.json](./166947-gold-dust.json) |
-| Gold Express | 118598 | [118598-gold-express.json](./118598-gold-express.json) |
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold Fever | 77030 | [77030-gold-fever.json](./77030-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
@@ -8170,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye My King | 40841 | [40841-goodbye-my-king.json](./40841-goodbye-my-king.json) |
 | Goodbye Page | 374964 | [374964-goodbye-page.json](./374964-goodbye-page.json) |
 | Goodbye Seoul | 267853 | [267853-goodbye-seoul.json](./267853-goodbye-seoul.json) |
+| Goodbye Shadow: My Confessions | 420099 | [420099-goodbye-shadow-my-confessions.json](./420099-goodbye-shadow-my-confessions.json) |
 | Goodbye Tired Stars | 280007 | [280007-goodbye-tired-stars.json](./280007-goodbye-tired-stars.json) |
 | Goodbye World | 189828 | [189828-goodbye-world.json](./189828-goodbye-world.json) |
 | Goodbye World | 376046 | [376046-goodbye-world.json](./376046-goodbye-world.json) |
@@ -9040,7 +9039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Battle | 116043 | [116043-grand-battle.json](./116043-grand-battle.json) |
 | Grand Battle Royale: Pixel War | 102834 | [102834-grand-battle-royale-pixel-war.json](./102834-grand-battle-royale-pixel-war.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
-| Grand Brix Shooter | 121532 | [121532-grand-brix-shooter.json](./121532-grand-brix-shooter.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Canvas | 425855 | [425855-grand-canvas.json](./425855-grand-canvas.json) |
 | Grand Canyon | 285263 | [285263-grand-canyon.json](./285263-grand-canyon.json) |
