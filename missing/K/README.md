@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimono | 177240 | [177240-kimono.json](./177240-kimono.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
+| Kimulator : Fight for your destiny | 32569 | [32569-kimulator-fight-for-your-destiny.json](./32569-kimulator-fight-for-your-destiny.json) |
 | Kimulator 2: Brother of Time | 37435 | [37435-kimulator-2-brother-of-time.json](./37435-kimulator-2-brother-of-time.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
 | Kin | 98306 | [98306-kin.json](./98306-kin.json) |
