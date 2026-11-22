@@ -3597,7 +3597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incident 370-B | 284156 | [284156-incident-370-b.json](./284156-incident-370-b.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
 | Incident at Grove Lake | 252736 | [252736-incident-at-grove-lake.json](./252736-incident-at-grove-lake.json) |
-| Incident Commander | 121073 | [121073-incident-commander.json](./121073-incident-commander.json) |
 | Incident In Oakwood | 285413 | [285413-incident-in-oakwood.json](./285413-incident-in-oakwood.json) |
 | Incident Mahjong | 320828 | [320828-incident-mahjong.json](./320828-incident-mahjong.json) |
 | Incident Survival | 297871 | [297871-incident-survival.json](./297871-incident-survival.json) |
@@ -5493,7 +5492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgence: Chains of Renegade | 108339 | [108339-insurgence-chains-of-renegade.json](./108339-insurgence-chains-of-renegade.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
-| Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
 | Insurgency | 14128 | [14128-insurgency.json](./14128-insurgency.json) |
 | Insurgency | 7579 | [7579-insurgency.json](./7579-insurgency.json) |
@@ -5931,7 +5929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Plunderer | 287003 | [287003-interstellar-plunderer.json](./287003-interstellar-plunderer.json) |
 | Interstellar Rangers | 268827 | [268827-interstellar-rangers.json](./268827-interstellar-rangers.json) |
 | Interstellar Rift | 35476 | [35476-interstellar-rift.json](./35476-interstellar-rift.json) |
-| Interstellar Rogue | 119457 | [119457-interstellar-rogue.json](./119457-interstellar-rogue.json) |
 | Interstellar Sentinel | 252027 | [252027-interstellar-sentinel.json](./252027-interstellar-sentinel.json) |
 | Interstellar Sentinel 2 | 347927 | [347927-interstellar-sentinel-2.json](./347927-interstellar-sentinel-2.json) |
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
@@ -6723,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
 | Iron Disco | 158328 | [158328-iron-disco.json](./158328-iron-disco.json) |
+| Iron Dogs | 420083 | [420083-iron-dogs.json](./420083-iron-dogs.json) |
 | Iron Dome | 228141 | [228141-iron-dome.json](./228141-iron-dome.json) |
 | Iron Door | 306310 | [306310-iron-door.json](./306310-iron-door.json) |
 | Iron Dungeon | 217096 | [217096-iron-dungeon.json](./217096-iron-dungeon.json) |
