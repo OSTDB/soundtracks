@@ -3496,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One | 81975 | [81975-only-one.json](./81975-only-one.json) |
+| Only One Hope | 29727 | [29727-only-one-hope.json](./29727-only-one-hope.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 234802 | [234802-only-one-night.json](./234802-only-one-night.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
