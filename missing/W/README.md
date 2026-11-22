@@ -2188,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
+| Warpscape | 424352 | [424352-warpscape.json](./424352-warpscape.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
 | Warpspeed Infinity | 198018 | [198018-warpspeed-infinity.json](./198018-warpspeed-infinity.json) |
@@ -2996,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waver: A Typing Adventure | 165302 | [165302-waver-a-typing-adventure.json](./165302-waver-a-typing-adventure.json) |
 | Waverly Hills | 150920 | [150920-waverly-hills.json](./150920-waverly-hills.json) |
+| Wavertree Mountain | 424029 | [424029-wavertree-mountain.json](./424029-wavertree-mountain.json) |
 | WaveRun | 246600 | [246600-waverun.json](./246600-waverun.json) |
 | WaveRunner GP | 124325 | [124325-waverunner-gp.json](./124325-waverunner-gp.json) |
 | Waves | 104354 | [104354-waves.json](./104354-waves.json) |
@@ -4352,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
 | What Has Come Before | 211796 | [211796-what-has-come-before.json](./211796-what-has-come-before.json) |
 | What Have You Done, Father? | 266452 | [266452-what-have-you-done-father.json](./266452-what-have-you-done-father.json) |
+| What He Left | 423443 | [423443-what-he-left.json](./423443-what-he-left.json) |
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
 | What I Heard | 233331 | [233331-what-i-heard.json](./233331-what-i-heard.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
@@ -4758,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Wardens Fall | 99023 | [99023-when-wardens-fall.json](./99023-when-wardens-fall.json) |
 | When We Arrive | 390795 | [390795-when-we-arrive.json](./390795-when-we-arrive.json) |
 | When We First Met | 153774 | [153774-when-we-first-met.json](./153774-when-we-first-met.json) |
+| When We Had Wings | 423447 | [423447-when-we-had-wings.json](./423447-when-we-had-wings.json) |
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When We Were Monsters | 180398 | [180398-when-we-were-monsters.json](./180398-when-we-were-monsters.json) |
 | When Will I Get Home? | 408982 | [408982-when-will-i-get-home.json](./408982-when-will-i-get-home.json) |
@@ -5294,6 +5298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Dead | 331171 | [331171-whispers-of-the-dead.json](./331171-whispers-of-the-dead.json) |
 | Whispers of the Eyeless | 302844 | [302844-whispers-of-the-eyeless.json](./302844-whispers-of-the-eyeless.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
+| Whispers Of The Lost Ticket | 423442 | [423442-whispers-of-the-lost-ticket.json](./423442-whispers-of-the-lost-ticket.json) |
 | Whispers of the Luminaries | 251778 | [251778-whispers-of-the-luminaries.json](./251778-whispers-of-the-luminaries.json) |
 | Whispers of the Past | 346458 | [346458-whispers-of-the-past.json](./346458-whispers-of-the-past.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
