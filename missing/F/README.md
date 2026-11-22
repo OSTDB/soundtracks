@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farseer's Domain | 144898 | [144898-farseers-domain.json](./144898-farseers-domain.json) |
 | Farsh | 61791 | [61791-farsh.json](./61791-farsh.json) |
 | Farside | 103179 | [103179-farside.json](./103179-farside.json) |
+| Farsiders | 235983 | [235983-farsiders.json](./235983-farsiders.json) |
 | Farsight | 403852 | [403852-farsight.json](./403852-farsight.json) |
 | FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
 | Fashion Doodle | 106706 | [106706-fashion-doodle.json](./106706-fashion-doodle.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
+| Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
 | Fashion Fits! | 54022 | [54022-fashion-fits.json](./54022-fashion-fits.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
 | Fashion Friends | 219306 | [219306-fashion-friends.json](./219306-fashion-friends.json) |
@@ -3635,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Fury: City of the Wolves - Season Pass 2 | 411286 | [411286-fatal-fury-city-of-the-wolves-season-pass-2.json](./411286-fatal-fury-city-of-the-wolves-season-pass-2.json) |
 | Fatal Fury: City of the Wolves - Season Pass 3 | 411285 | [411285-fatal-fury-city-of-the-wolves-season-pass-3.json](./411285-fatal-fury-city-of-the-wolves-season-pass-3.json) |
+| Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: City of the Wolves - Starter Edition | 418335 | [418335-fatal-fury-city-of-the-wolves-starter-edition.json](./418335-fatal-fury-city-of-the-wolves-starter-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
 | Fatal Fury: First Contact | 44000 | [44000-fatal-fury-first-contact.json](./44000-fatal-fury-first-contact.json) |
@@ -7977,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Center Renovator | 217112 | [217112-fitness-center-renovator.json](./217112-fitness-center-renovator.json) |
 | Fitness Circuit | 241103 | [241103-fitness-circuit.json](./241103-fitness-circuit.json) |
 | Fitness Dash | 16078 | [16078-fitness-dash.json](./16078-fitness-dash.json) |
+| Fitness Fables | 327589 | [327589-fitness-fables.json](./327589-fitness-fables.json) |
 | Fitness Fun | 56961 | [56961-fitness-fun.json](./56961-fitness-fun.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fitness Girl - Studio Coach | 86814 | [86814-fitness-girl-studio-coach.json](./86814-fitness-girl-studio-coach.json) |
@@ -11437,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | ForeVR Darts | 185735 | [185735-forevr-darts.json](./185735-forevr-darts.json) |
+| ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
 | Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
@@ -15090,6 +15095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
 | FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
+| Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fǔchéng Shàonǚ: Yǐ Nǐ Wéi Míng de Fǔchéng Qíngshū | 163891 | [163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json](./163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json) |
 | Fuchian Chronicles | 186492 | [186492-fuchian-chronicles.json](./186492-fuchian-chronicles.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
