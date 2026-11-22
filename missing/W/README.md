@@ -7552,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
+| Witchkin | 52271 | [52271-witchkin.json](./52271-witchkin.json) |
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
 | Witchmarked | 420398 | [420398-witchmarked.json](./420398-witchmarked.json) |
