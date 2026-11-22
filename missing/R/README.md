@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
 | Race Rally 3D | 90293 | [90293-race-rally-3d.json](./90293-race-rally-3d.json) |
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
+| Race the Stream | 420061 | [420061-race-the-stream.json](./420061-race-the-stream.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
 | Race the Sun: Challenge Edition | 127492 | [127492-race-the-sun-challenge-edition.json](./127492-race-the-sun-challenge-edition.json) |
 | Race the Sun: Sunrise | 77651 | [77651-race-the-sun-sunrise.json](./77651-race-the-sun-sunrise.json) |
@@ -13614,6 +13615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Match | 308090 | [308090-rubiks-match.json](./308090-rubiks-match.json) |
 | Rubik's Puzzle Galaxy: Rush | 67731 | [67731-rubiks-puzzle-galaxy-rush.json](./67731-rubiks-puzzle-galaxy-rush.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
+| Rubik's Showdown | 421418 | [421418-rubiks-showdown.json](./421418-rubiks-showdown.json) |
 | Rubik's World | 209050 | [209050-rubiks-world.json](./209050-rubiks-world.json) |
 | Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
 | Rubiks Unboxed - a Cube in 2D | 103712 | [103712-rubiks-unboxed-a-cube-in-2d.json](./103712-rubiks-unboxed-a-cube-in-2d.json) |
@@ -13704,7 +13706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
 | Rugby Challenge 4 | 138843 | [138843-rugby-challenge-4.json](./138843-rugby-challenge-4.json) |
-| Rugby Champions | 122076 | [122076-rugby-champions.json](./122076-rugby-champions.json) |
 | Rugby Golf | 410662 | [410662-rugby-golf.json](./410662-rugby-golf.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
