@@ -3333,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Oniken + Odallus Collection | 124320 | [124320-oniken-odallus-collection.json](./124320-oniken-odallus-collection.json) |
+| Oniken: Unstoppable Edition | 51861 | [51861-oniken-unstoppable-edition.json](./51861-oniken-unstoppable-edition.json) |
 | Oniken: Unstoppable Edition & Odallus: The Dark Call Collection | 124283 | [124283-oniken-unstoppable-edition-and-odallus-the-dark-call-collection.json](./124283-oniken-unstoppable-edition-and-odallus-the-dark-call-collection.json) |
 | Onikira: Demon Killer | 10642 | [10642-onikira-demon-killer.json](./10642-onikira-demon-killer.json) |
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
