@@ -7310,6 +7310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear, the Cat and the Rabbit | 12936 | [12936-the-bear-the-cat-and-the-rabbit.json](./12936-the-bear-the-cat-and-the-rabbit.json) |
 | The Bear: A Story from the World of Gra | 333450 | [333450-the-bear-a-story-from-the-world-of-gra.json](./333450-the-bear-a-story-from-the-world-of-gra.json) |
 | The Bear's Black Heart | 185279 | [185279-the-bears-black-heart.json](./185279-the-bears-black-heart.json) |
+| The Beard in the Mirror | 34873 | [34873-the-beard-in-the-mirror.json](./34873-the-beard-in-the-mirror.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bearer & The Last Flame | 265469 | [265469-the-bearer-and-the-last-flame.json](./265469-the-bearer-and-the-last-flame.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
@@ -9490,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Defense of Trewel Towers | 236112 | [236112-the-defense-of-trewel-towers.json](./236112-the-defense-of-trewel-towers.json) |
 | The Defiant | 375948 | [375948-the-defiant.json](./375948-the-defiant.json) |
 | The Definitive Subsistence Update | 374288 | [374288-the-definitive-subsistence-update.json](./374288-the-definitive-subsistence-update.json) |
+| The Deletion | 34768 | [34768-the-deletion.json](./34768-the-deletion.json) |
 | The Delirium Dimension | 269658 | [269658-the-delirium-dimension.json](./269658-the-delirium-dimension.json) |
 | The Delirium Vacation | 126794 | [126794-the-delirium-vacation.json](./126794-the-delirium-vacation.json) |
 | The Deliverer | 180643 | [180643-the-deliverer.json](./180643-the-deliverer.json) |
@@ -13178,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey | 242197 | [242197-the-journey.json](./242197-the-journey.json) |
 | The Journey | 263358 | [263358-the-journey.json](./263358-the-journey.json) |
+| The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down Trilogy | 103209 | [103209-the-journey-down-trilogy.json](./103209-the-journey-down-trilogy.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
@@ -16298,6 +16301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
 | The Music Machine | 35515 | [35515-the-music-machine.json](./35515-the-music-machine.json) |
 | The Music Trivia Challenge | 106894 | [106894-the-music-trivia-challenge.json](./106894-the-music-trivia-challenge.json) |
+| The Musketeers: Victoria's Quest | 34759 | [34759-the-musketeers-victorias-quest.json](./34759-the-musketeers-victorias-quest.json) |
 | The Mutant Virus: "Crisis in a Computer World!" | 48196 | [48196-the-mutant-virus-crisis-in-a-computer-world.json](./48196-the-mutant-virus-crisis-in-a-computer-world.json) |
 | The Mutational | 128039 | [128039-the-mutational.json](./128039-the-mutational.json) |
 | The Mute House | 239097 | [239097-the-mute-house.json](./239097-the-mute-house.json) |
@@ -16736,6 +16740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Ohio Weedeater Mishap | 277488 | [277488-the-ohio-weedeater-mishap.json](./277488-the-ohio-weedeater-mishap.json) |
+| The Oil Blue | 34861 | [34861-the-oil-blue.json](./34861-the-oil-blue.json) |
 | The Oily Depths | 318414 | [318414-the-oily-depths.json](./318414-the-oily-depths.json) |
 | The Old Barn | 325287 | [325287-the-old-barn.json](./325287-the-old-barn.json) |
 | The Old Bean Factory | 261499 | [261499-the-old-bean-factory.json](./261499-the-old-bean-factory.json) |
@@ -20258,6 +20263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talosian Incident | 313839 | [313839-the-talosian-incident.json](./313839-the-talosian-incident.json) |
 | The Tangled Tapestry | 364681 | [364681-the-tangled-tapestry.json](./364681-the-tangled-tapestry.json) |
 | The Tape | 276886 | [276886-the-tape.json](./276886-the-tape.json) |
+| The Tape | 34820 | [34820-the-tape.json](./34820-the-tape.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarnishing of Juxtia | 138535 | [138535-the-tarnishing-of-juxtia.json](./138535-the-tarnishing-of-juxtia.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
@@ -28481,6 +28487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
 | Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
+| Tokyo Clanpool | 36931 | [36931-tokyo-clanpool.json](./36931-tokyo-clanpool.json) |
 | Tokyo Coffee Pandechika | 206552 | [206552-tokyo-coffee-pandechika.json](./206552-tokyo-coffee-pandechika.json) |
 | Tokyo Coffee: Grinding in the Pandemic | 310311 | [310311-tokyo-coffee-grinding-in-the-pandemic.json](./310311-tokyo-coffee-grinding-in-the-pandemic.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
