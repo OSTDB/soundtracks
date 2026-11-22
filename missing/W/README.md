@@ -3497,6 +3497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Weavemarch | 419297 | [419297-weavemarch.json](./419297-weavemarch.json) |
 | Weaver | 209979 | [209979-weaver.json](./209979-weaver.json) |
+| Weaver's Oath | 420111 | [420111-weavers-oath.json](./420111-weavers-oath.json) |
+| Weavers of Life | 420108 | [420108-weavers-of-life.json](./420108-weavers-of-life.json) |
 | Weaverse | 107678 | [107678-weaverse.json](./107678-weaverse.json) |
 | Weaves of Fate | 53306 | [53306-weaves-of-fate.json](./53306-weaves-of-fate.json) |
 | Weaving | 118601 | [118601-weaving.json](./118601-weaving.json) |
@@ -4549,7 +4551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Estate | 419722 | [419722-wheel-estate.json](./419722-wheel-estate.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
 | Wheel of Death | 422317 | [422317-wheel-of-death.json](./422317-wheel-of-death.json) |
-| Wheel of Fate | 122104 | [122104-wheel-of-fate.json](./122104-wheel-of-fate.json) |
 | Wheel Of Fates | 338376 | [338376-wheel-of-fates.json](./338376-wheel-of-fates.json) |
 | Wheel of Fortune | 116896 | [116896-wheel-of-fortune.json](./116896-wheel-of-fortune.json) |
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
