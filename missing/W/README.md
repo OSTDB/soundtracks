@@ -2939,7 +2939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Arrow | 106374 | [106374-wave-arrow.json](./106374-wave-arrow.json) |
 | Wave Break | 113602 | [113602-wave-break.json](./113602-wave-break.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
-| Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
 | Wave Crash | 61189 | [61189-wave-crash.json](./61189-wave-crash.json) |
 | Wave Defense: Trappist | 325337 | [325337-wave-defense-trappist.json](./325337-wave-defense-trappist.json) |
 | Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
@@ -4696,7 +4695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I Reincarnate, I'm a Cube!? | 153970 | [153970-when-i-reincarnate-im-a-cube.json](./153970-when-i-reincarnate-im-a-cube.json) |
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
-| When I Was Young | 117549 | [117549-when-i-was-young.json](./117549-when-i-was-young.json) |
 | When I'm Gone | 179862 | [179862-when-im-gone.json](./179862-when-im-gone.json) |
 | When I’m Not Drawing | 392405 | [392405-when-i-m-not-drawing.json](./392405-when-i-m-not-drawing.json) |
 | When In Rome | 34112 | [34112-when-in-rome.json](./34112-when-in-rome.json) |
@@ -6634,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winds of Revenge | 25905 | [25905-winds-of-revenge.json](./25905-winds-of-revenge.json) |
 | Winds of Valen | 379327 | [379327-winds-of-valen.json](./379327-winds-of-valen.json) |
 | Winds of Valor | 423343 | [423343-winds-of-valor.json](./423343-winds-of-valor.json) |
+| Winds of Viridia | 426338 | [426338-winds-of-viridia.json](./426338-winds-of-viridia.json) |
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | Winds Up Kitesurfing | 288462 | [288462-winds-up-kitesurfing.json](./288462-winds-up-kitesurfing.json) |
 | Windscape | 24205 | [24205-windscape.json](./24205-windscape.json) |
@@ -7611,7 +7610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With in the Obscurity | 287686 | [287686-with-in-the-obscurity.json](./287686-with-in-the-obscurity.json) |
 | With Last Breath | 267127 | [267127-with-last-breath.json](./267127-with-last-breath.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
-| With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Love Comes Regret | 298772 | [298772-with-love-comes-regret.json](./298772-with-love-comes-regret.json) |
 | With Mountain Smiling | 250271 | [250271-with-mountain-smiling.json](./250271-with-mountain-smiling.json) |
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
@@ -9121,7 +9119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
-| WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
 | WordZap | 282342 | [282342-wordzap.json](./282342-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
@@ -10157,7 +10154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldwide Soccer | 259651 | [259651-worldwide-soccer.json](./259651-worldwide-soccer.json) |
 | Worldwide Soccer 2 | 47112 | [47112-worldwide-soccer-2.json](./47112-worldwide-soccer-2.json) |
 | Worldwide Soccer: Sega International Victory Goal Edition | 19755 | [19755-worldwide-soccer-sega-international-victory-goal-edition.json](./19755-worldwide-soccer-sega-international-victory-goal-edition.json) |
-| Worldwide Sports Fishing | 117556 | [117556-worldwide-sports-fishing.json](./117556-worldwide-sports-fishing.json) |
 | WorldWide Warfare League of Cities | 242300 | [242300-worldwide-warfare-league-of-cities.json](./242300-worldwide-warfare-league-of-cities.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm | 366923 | [366923-worm.json](./366923-worm.json) |
@@ -11075,7 +11071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmsun: Frankish Faction Flair Pack | 224389 | [224389-wyrmsun-frankish-faction-flair-pack.json](./224389-wyrmsun-frankish-faction-flair-pack.json) |
 | Wyrmsun: Joruvellir Faction Flair Pack | 224388 | [224388-wyrmsun-joruvellir-faction-flair-pack.json](./224388-wyrmsun-joruvellir-faction-flair-pack.json) |
 | WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
-| Wytchsun: Elleros Origins | 117544 | [117544-wytchsun-elleros-origins.json](./117544-wytchsun-elleros-origins.json) |
 | Wyv and Keep: The Temple of the Lost Idol | 16847 | [16847-wyv-and-keep-the-temple-of-the-lost-idol.json](./16847-wyv-and-keep-the-temple-of-the-lost-idol.json) |
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
