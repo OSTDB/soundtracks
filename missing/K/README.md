@@ -3184,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Time | 288936 | [288936-killing-time.json](./288936-killing-time.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
 | Killing Time At Lightspeed | 20293 | [20293-killing-time-at-lightspeed.json](./20293-killing-time-at-lightspeed.json) |
+| Killing Time At Lightspeed: Enhanced Edition | 35001 | [35001-killing-time-at-lightspeed-enhanced-edition.json](./35001-killing-time-at-lightspeed-enhanced-edition.json) |
 | Killing Time: Resurrected | 304742 | [304742-killing-time-resurrected.json](./304742-killing-time-resurrected.json) |
 | Killing Tragedy Samsara | 372999 | [372999-killing-tragedy-samsara.json](./372999-killing-tragedy-samsara.json) |
 | Killing Trials | 114903 | [114903-killing-trials.json](./114903-killing-trials.json) |
