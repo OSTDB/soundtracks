@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
+| Acorn: Seed of Resistance | 420809 | [420809-acorn-seed-of-resistance.json](./420809-acorn-seed-of-resistance.json) |
 | Acorns Above: A World Gone Nuts | 59574 | [59574-acorns-above-a-world-gone-nuts.json](./59574-acorns-above-a-world-gone-nuts.json) |
 | Acquaint | 379466 | [379466-acquaint.json](./379466-acquaint.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
@@ -10427,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia | 153784 | [153784-amnesia.json](./153784-amnesia.json) |
 | Amnesia | 166440 | [166440-amnesia.json](./166440-amnesia.json) |
 | Amnesia | 8637 | [8637-amnesia.json](./8637-amnesia.json) |
+| Amnesia Bullet | 420093 | [420093-amnesia-bullet.json](./420093-amnesia-bullet.json) |
 | Amnesia Crowd | 62754 | [62754-amnesia-crowd.json](./62754-amnesia-crowd.json) |
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
@@ -11637,7 +11639,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
 | Angry Gnome | 55385 | [55385-angry-gnome.json](./55385-angry-gnome.json) |
-| Angry Golf | 122209 | [122209-angry-golf.json](./122209-angry-golf.json) |
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
 | Angry Gran Global Assault | 240921 | [240921-angry-gran-global-assault.json](./240921-angry-gran-global-assault.json) |
 | Angry Gran Run | 93852 | [93852-angry-gran-run.json](./93852-angry-gran-run.json) |
@@ -20202,7 +20203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audio Infection | 111669 | [111669-audio-infection.json](./111669-audio-infection.json) |
 | Audio Ninja | 63022 | [63022-audio-ninja.json](./63022-audio-ninja.json) |
 | Audio Party Pack | 143923 | [143923-audio-party-pack.json](./143923-audio-party-pack.json) |
-| Audio Trip | 122136 | [122136-audio-trip.json](./122136-audio-trip.json) |
 | Audio Trip: Swanky Song Pack | 261928 | [261928-audio-trip-swanky-song-pack.json](./261928-audio-trip-swanky-song-pack.json) |
 | AudioBat | 102256 | [102256-audiobat.json](./102256-audiobat.json) |
 | AudioBeats | 83858 | [83858-audiobeats.json](./83858-audiobeats.json) |
