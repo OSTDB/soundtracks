@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XF5700 Mantis Experimental Fighter | 93316 | [93316-xf5700-mantis-experimental-fighter.json](./93316-xf5700-mantis-experimental-fighter.json) |
 | XF5700 Mantis Experimental Fighter: Speech Pack | 137497 | [137497-xf5700-mantis-experimental-fighter-speech-pack.json](./137497-xf5700-mantis-experimental-fighter-speech-pack.json) |
 | xFart | 79429 | [79429-xfart.json](./79429-xfart.json) |
+| XField Paintball 3 | 35034 | [35034-xfield-paintball-3.json](./35034-xfield-paintball-3.json) |
 | XFlight | 343307 | [343307-xflight.json](./343307-xflight.json) |
 | XGA | 316695 | [316695-xga.json](./316695-xga.json) |
 | XGamer: AI Revolution | 221509 | [221509-xgamer-ai-revolution.json](./221509-xgamer-ai-revolution.json) |
