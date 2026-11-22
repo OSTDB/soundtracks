@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Duck Has An Adventure | 172832 | [172832-a-duck-has-an-adventure.json](./172832-a-duck-has-an-adventure.json) |
 | A Dudley Dilemma | 135853 | [135853-a-dudley-dilemma.json](./135853-a-dudley-dilemma.json) |
 | A Duel Hand Disaster: Trackher | 31661 | [31661-a-duel-hand-disaster-trackher.json](./31661-a-duel-hand-disaster-trackher.json) |
+| A Dump in the Dark | 29823 | [29823-a-dump-in-the-dark.json](./29823-a-dump-in-the-dark.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
 | A Dwarves Day | 309408 | [309408-a-dwarves-day.json](./309408-a-dwarves-day.json) |
@@ -897,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Journey to an Uncertain End | 140296 | [140296-a-long-journey-to-an-uncertain-end.json](./140296-a-long-journey-to-an-uncertain-end.json) |
 | A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
+| A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
 | A Long Stroll | 126775 | [126775-a-long-stroll.json](./126775-a-long-stroll.json) |
 | A Long Survive | 279913 | [279913-a-long-survive.json](./279913-a-long-survive.json) |
 | A long Time | 158358 | [158358-a-long-time.json](./158358-a-long-time.json) |
@@ -5123,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AffordaGolf Online | 30138 | [30138-affordagolf-online.json](./30138-affordagolf-online.json) |
 | Affraid | 385267 | [385267-affraid.json](./385267-affraid.json) |
 | Afghan Hero Girl | 225701 | [225701-afghan-hero-girl.json](./225701-afghan-hero-girl.json) |
+| Afghanistan '11 | 29744 | [29744-afghanistan-11.json](./29744-afghanistan-11.json) |
 | Afghanistan '11: Royal Marines | 172322 | [172322-afghanistan-11-royal-marines.json](./172322-afghanistan-11-royal-marines.json) |
 | AFK Arena | 125930 | [125930-afk-arena.json](./125930-afk-arena.json) |
 | AFK Battle: Idle Princess | 145705 | [145705-afk-battle-idle-princess.json](./145705-afk-battle-idle-princess.json) |
