@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Raey | 296586 | [296586-raey.json](./296586-raey.json) |
 | RAF Survival: Ocean Shark Survivor | 325781 | [325781-raf-survival-ocean-shark-survivor.json](./325781-raf-survival-ocean-shark-survivor.json) |
+| Rafa Nadal Tennis | 23104 | [23104-rafa-nadal-tennis.json](./23104-rafa-nadal-tennis.json) |
 | Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
+| Randventure | 429455 | [429455-randventure.json](./429455-randventure.json) |
 | Randy & Manilla | 291327 | [291327-randy-and-manilla.json](./291327-randy-and-manilla.json) |
 | Randy and Teddy Adventure Road | 173336 | [173336-randy-and-teddy-adventure-road.json](./173336-randy-and-teddy-adventure-road.json) |
 | Randy Blaster 3D | 220480 | [220480-randy-blaster-3d.json](./220480-randy-blaster-3d.json) |
@@ -9019,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight: Channel Battles Edition | 54322 | [54322-rise-of-flight-channel-battles-edition.json](./54322-rise-of-flight-channel-battles-edition.json) |
 | Rise of Flight: Furious Wings | 156173 | [156173-rise-of-flight-furious-wings.json](./156173-rise-of-flight-furious-wings.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
+| Rise of Furax | 430948 | [430948-rise-of-furax.json](./430948-rise-of-furax.json) |
 | Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
 | Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
 | Rise of Hegemony | 151947 | [151947-rise-of-hegemony.json](./151947-rise-of-hegemony.json) |
