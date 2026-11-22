@@ -4925,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
 | Deadtime Defenders | 123520 | [123520-deadtime-defenders.json](./123520-deadtime-defenders.json) |
 | Deadtime Stories | 50761 | [50761-deadtime-stories.json](./50761-deadtime-stories.json) |
+| Deadtone | 429448 | [429448-deadtone.json](./429448-deadtone.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
 | Deaduction | 276683 | [276683-deaduction.json](./276683-deaduction.json) |
 | Deadvale | 395804 | [395804-deadvale.json](./395804-deadvale.json) |
@@ -17841,6 +17842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
+| DragonFly Racer: Savage | 429457 | [429457-dragonfly-racer-savage.json](./429457-dragonfly-racer-savage.json) |
 | DragonHawk | 24715 | [24715-dragonhawk.json](./24715-dragonhawk.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | DragonHeart: Fire & Steel | 49001 | [49001-dragonheart-fire-and-steel.json](./49001-dragonheart-fire-and-steel.json) |
