@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Anthology Vol.1 | 44787 | [44787-namco-anthology-vol-1.json](./44787-namco-anthology-vol-1.json) |
 | Namco Anthology Vol.2 | 44786 | [44786-namco-anthology-vol-2.json](./44786-namco-anthology-vol-2.json) |
 | Namco Arcade | 25183 | [25183-namco-arcade.json](./25183-namco-arcade.json) |
+| Namco Chronicle | 425476 | [425476-namco-chronicle.json](./425476-namco-chronicle.json) |
 | Namco Classic | 239158 | [239158-namco-classic.json](./239158-namco-classic.json) |
 | Namco Classic | 48414 | [48414-namco-classic.json](./48414-namco-classic.json) |
 | Namco Classic Collection Vol. 1 | 72575 | [72575-namco-classic-collection-vol-1.json](./72575-namco-classic-collection-vol-1.json) |
@@ -8622,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null G | 226128 | [226128-null-g.json](./226128-null-g.json) |
 | Null Gravity Labyrinth | 275936 | [275936-null-gravity-labyrinth.json](./275936-null-gravity-labyrinth.json) |
 | Null Horizon | 411076 | [411076-null-horizon.json](./411076-null-horizon.json) |
+| Null Keeper | 425091 | [425091-null-keeper.json](./425091-null-keeper.json) |
 | Null Kitchen Exception | 405734 | [405734-null-kitchen-exception.json](./405734-null-kitchen-exception.json) |
 | Null Matter | 243070 | [243070-null-matter.json](./243070-null-matter.json) |
 | Null Moon | 277497 | [277497-null-moon.json](./277497-null-moon.json) |
