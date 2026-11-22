@@ -2368,7 +2368,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Protocol | 347571 | [347571-paradox-protocol.json](./347571-paradox-protocol.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Tower | 403143 | [403143-paradox-tower.json](./403143-paradox-tower.json) |
-| Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
 | Paradox Wrench | 80959 | [80959-paradox-wrench.json](./80959-paradox-wrench.json) |
 | Paradox: The Novel | 197783 | [197783-paradox-the-novel.json](./197783-paradox-the-novel.json) |
 | Paradox! | 329952 | [329952-paradox.json](./329952-paradox.json) |
@@ -3675,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patluk | 417979 | [417979-patluk.json](./417979-patluk.json) |
 | Pato & Lobo | 325690 | [325690-pato-and-lobo.json](./325690-pato-and-lobo.json) |
 | Pato Box | 56344 | [56344-pato-box.json](./56344-pato-box.json) |
+| Pato Land | 427465 | [427465-pato-land.json](./427465-pato-land.json) |
 | Pato Martinez | 238599 | [238599-pato-martinez.json](./238599-pato-martinez.json) |
 | Patolino | 281876 | [281876-patolino.json](./281876-patolino.json) |
 | Patolli | 70280 | [70280-patolli.json](./70280-patolli.json) |
@@ -4390,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Beach no Hatou New: Tournament Edition | 38143 | [38143-pebble-beach-no-hatou-new-tournament-edition.json](./38143-pebble-beach-no-hatou-new-tournament-edition.json) |
 | Pebble Beach no Hatou Plus | 280945 | [280945-pebble-beach-no-hatou-plus.json](./280945-pebble-beach-no-hatou-plus.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
+| Pebble Idle Island | 427330 | [427330-pebble-idle-island.json](./427330-pebble-idle-island.json) |
 | Pebble Jame | 273743 | [273743-pebble-jame.json](./273743-pebble-jame.json) |
 | Pebble Knights | 347758 | [347758-pebble-knights.json](./347758-pebble-knights.json) |
 | Pebble of Time | 165145 | [165145-pebble-of-time.json](./165145-pebble-of-time.json) |
@@ -6266,7 +6267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Relics | 337551 | [337551-phantom-relics.json](./337551-phantom-relics.json) |
 | Phantom Rend | 379862 | [379862-phantom-rend.json](./379862-phantom-rend.json) |
 | Phantom Rift | 174351 | [174351-phantom-rift.json](./174351-phantom-rift.json) |
-| Phantom Rose | 117605 | [117605-phantom-rose.json](./117605-phantom-rose.json) |
 | Phantom Rose 2 Sapphire | 238172 | [238172-phantom-rose-2-sapphire.json](./238172-phantom-rose-2-sapphire.json) |
 | Phantom Rose Scarlet | 144106 | [144106-phantom-rose-scarlet.json](./144106-phantom-rose-scarlet.json) |
 | Phantom Seeds | 183097 | [183097-phantom-seeds.json](./183097-phantom-seeds.json) |
@@ -9951,7 +9951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel's Unknown Battle Ground | 90958 | [90958-pixels-unknown-battle-ground.json](./90958-pixels-unknown-battle-ground.json) |
 | Pixel54 | 335021 | [335021-pixel54.json](./335021-pixel54.json) |
 | Pixelance | 382883 | [382883-pixelance.json](./382883-pixelance.json) |
-| Pixelarium | 117853 | [117853-pixelarium.json](./117853-pixelarium.json) |
 | Pixelarium: Free Lands | 392114 | [392114-pixelarium-free-lands.json](./392114-pixelarium-free-lands.json) |
 | Pixelated Jigsaw | 103987 | [103987-pixelated-jigsaw.json](./103987-pixelated-jigsaw.json) |
 | Pixelated Jigsaw | 91309 | [91309-pixelated-jigsaw.json](./91309-pixelated-jigsaw.json) |
@@ -11170,7 +11169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plato's Universe | 184231 | [184231-platos-universe.json](./184231-platos-universe.json) |
 | Platonic | 192728 | [192728-platonic.json](./192728-platonic.json) |
 | Platonic Archetypes of Dice | 260906 | [260906-platonic-archetypes-of-dice.json](./260906-platonic-archetypes-of-dice.json) |
-| Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
 | PlatOnir | 103825 | [103825-platonir.json](./103825-platonir.json) |
 | Platoon | 12718 | [12718-platoon.json](./12718-platoon.json) |
@@ -16282,7 +16280,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Ctrl | 149770 | [149770-press-ctrl.json](./149770-press-ctrl.json) |
 | Press D to Die | 184534 | [184534-press-d-to-die.json](./184534-press-d-to-die.json) |
-| Press F to pay respects | 115384 | [115384-press-f-to-pay-respects.json](./115384-press-f-to-pay-respects.json) |
 | Press Forward Ooooonnnnn | 129965 | [129965-press-forward-ooooonnnnn.json](./129965-press-forward-ooooonnnnn.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Lex to Metaverx | 212097 | [212097-press-lex-to-metaverx.json](./212097-press-lex-to-metaverx.json) |
@@ -16934,7 +16931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess's Peak | 367083 | [367083-princesss-peak.json](./367083-princesss-peak.json) |
 | PrincessCliffhouse | 170082 | [170082-princesscliffhouse.json](./170082-princesscliffhouse.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
-| Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
 | Princesses vs Dragons: Royal Rumble | 121187 | [121187-princesses-vs-dragons-royal-rumble.json](./121187-princesses-vs-dragons-royal-rumble.json) |
 | Princessfall | 418473 | [418473-princessfall.json](./418473-princessfall.json) |
 | PrincessGuardians | 114563 | [114563-princessguardians.json](./114563-princessguardians.json) |
@@ -18740,6 +18736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project V | 135916 | [135916-project-v.json](./135916-project-v.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project V6 | 386626 | [386626-project-v6.json](./386626-project-v6.json) |
+| Project Vaelius | 427025 | [427025-project-vaelius.json](./427025-project-vaelius.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
 | Project Vanguard | 419259 | [419259-project-vanguard.json](./419259-project-vanguard.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
@@ -19901,7 +19898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PukuPuku Tennen Kairanban: Koi no Cupid Daisakusen | 49761 | [49761-pukupuku-tennen-kairanban-koi-no-cupid-daisakusen.json](./49761-pukupuku-tennen-kairanban-koi-no-cupid-daisakusen.json) |
 | PukuPuku Tennen Kairanban: Youkoso! Illusion Land e | 49760 | [49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json](./49760-pukupuku-tennen-kairanban-youkoso-illusion-land-e.json) |
 | Puky | 257778 | [257778-puky.json](./257778-puky.json) |
-| Pulang Insanity: Director's Cut | 117769 | [117769-pulang-insanity-directors-cut.json](./117769-pulang-insanity-directors-cut.json) |
 | Pulcra Remastered | 429098 | [429098-pulcra-remastered.json](./429098-pulcra-remastered.json) |
 | Puliton | 92110 | [92110-puliton.json](./92110-puliton.json) |
 | Pull | 148954 | [148954-pull.json](./148954-pull.json) |
@@ -20240,7 +20236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
 | PuPaiPo Space Deluxe | 126969 | [126969-pupaipo-space-deluxe.json](./126969-pupaipo-space-deluxe.json) |
 | PupDash | 362229 | [362229-pupdash.json](./362229-pupdash.json) |
-| Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
 | Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
 | Pupper Park | 129428 | [129428-pupper-park.json](./129428-pupper-park.json) |
