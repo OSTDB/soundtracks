@@ -13736,7 +13736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lands of Eldyn | 140960 | [140960-the-lands-of-eldyn.json](./140960-the-lands-of-eldyn.json) |
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
 | The Language Game | 35157 | [35157-the-language-game.json](./35157-the-language-game.json) |
-| The Language of Love | 118052 | [118052-the-language-of-love.json](./118052-the-language-of-love.json) |
 | The Lantern of the Laughless Saint | 387817 | [387817-the-lantern-of-the-laughless-saint.json](./387817-the-lantern-of-the-laughless-saint.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Lara Croft Collection | 253646 | [253646-the-lara-croft-collection.json](./253646-the-lara-croft-collection.json) |
