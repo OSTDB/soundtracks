@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sausage Legend 2 | 193877 | [193877-sausage-legend-2.json](./193877-sausage-legend-2.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage Man | 154151 | [154151-sausage-man.json](./154151-sausage-man.json) |
+| Sausage Sports Club | 29954 | [29954-sausage-sports-club.json](./29954-sausage-sports-club.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
 | Sausage Wars | 224988 | [224988-sausage-wars.json](./224988-sausage-wars.json) |
 | Sausage Wars: Burning Death | 247591 | [247591-sausage-wars-burning-death.json](./247591-sausage-wars-burning-death.json) |
@@ -14787,6 +14788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
 | Sky Mirror: Strolling | 170799 | [170799-sky-mirror-strolling.json](./170799-sky-mirror-strolling.json) |
 | Sky Nations | 17572 | [17572-sky-nations.json](./17572-sky-nations.json) |
+| Sky Noon | 30056 | [30056-sky-noon.json](./30056-sky-noon.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky Odyssey | 43662 | [43662-sky-odyssey.json](./43662-sky-odyssey.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
@@ -15278,6 +15280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Cash | 391970 | [391970-slash-cash.json](./391970-slash-cash.json) |
 | Slash Em | 176825 | [176825-slash-em.json](./176825-slash-em.json) |
 | Slash It | 30129 | [30129-slash-it.json](./30129-slash-it.json) |
+| Slash It 2 | 29694 | [29694-slash-it-2.json](./29694-slash-it-2.json) |
 | Slash Mr. M | 181152 | [181152-slash-mr-m.json](./181152-slash-mr-m.json) |
 | Slash Ninja | 147651 | [147651-slash-ninja.json](./147651-slash-ninja.json) |
 | Slash of Bullet | 151675 | [151675-slash-of-bullet.json](./151675-slash-of-bullet.json) |
@@ -18041,6 +18044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Mercy | 125654 | [125654-snow-mercy.json](./125654-snow-mercy.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
 | Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
+| Snow Moto Racing Freedom | 29593 | [29593-snow-moto-racing-freedom.json](./29593-snow-moto-racing-freedom.json) |
 | Snow Moto: Racing Adventure | 283810 | [283810-snow-moto-racing-adventure.json](./283810-snow-moto-racing-adventure.json) |
 | Snow Mountain | 237559 | [237559-snow-mountain.json](./237559-snow-mountain.json) |
 | Snow of Spirit | 215546 | [215546-snow-of-spirit.json](./215546-snow-of-spirit.json) |
@@ -19622,6 +19626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solys | 166867 | [166867-solys.json](./166867-solys.json) |
 | SoM Soul of Mask | 75424 | [75424-som-soul-of-mask.json](./75424-som-soul-of-mask.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
+| Soma Spirits: Rebalance | 29590 | [29590-soma-spirits-rebalance.json](./29590-soma-spirits-rebalance.json) |
 | Soma Union | 144855 | [144855-soma-union.json](./144855-soma-union.json) |
 | Soma VR | 422924 | [422924-soma-vr.json](./422924-soma-vr.json) |
 | SomaCube | 275154 | [275154-somacube.json](./275154-somacube.json) |
@@ -22869,6 +22874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Impact 303 | 10211 | [10211-space-impact-303.json](./10211-space-impact-303.json) |
 | Space Impact Evolution | 10212 | [10212-space-impact-evolution.json](./10212-space-impact-evolution.json) |
 | Space Impact Evolution X | 10213 | [10213-space-impact-evolution-x.json](./10213-space-impact-evolution-x.json) |
+| Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
 | Space Impact Light | 10214 | [10214-space-impact-light.json](./10214-space-impact-light.json) |
 | Space Impact: Kappa Base | 10215 | [10215-space-impact-kappa-base.json](./10215-space-impact-kappa-base.json) |
 | Space Impact: Meteor Shield | 10216 | [10216-space-impact-meteor-shield.json](./10216-space-impact-meteor-shield.json) |
@@ -29863,6 +29869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Connect: Traffic Control | 193779 | [193779-state-connect-traffic-control.json](./193779-state-connect-traffic-control.json) |
 | State Machine | 27311 | [27311-state-machine.json](./27311-state-machine.json) |
 | State of Anarchy | 32966 | [32966-state-of-anarchy.json](./32966-state-of-anarchy.json) |
+| State of Anarchy: Master of Mayhem | 29889 | [29889-state-of-anarchy-master-of-mayhem.json](./29889-state-of-anarchy-master-of-mayhem.json) |
 | State of Decay | 3049 | [3049-state-of-decay.json](./3049-state-of-decay.json) |
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
