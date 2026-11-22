@@ -5818,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Columns II: The Voyage Through Time | 110059 | [110059-sega-ages-columns-ii-the-voyage-through-time.json](./110059-sega-ages-columns-ii-the-voyage-through-time.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
+| Sega Ages Herzog Zwei | 117159 | [117159-sega-ages-herzog-zwei.json](./117159-sega-ages-herzog-zwei.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Memorial Selection Vol. 1 | 98648 | [98648-sega-ages-memorial-selection-vol-1.json](./98648-sega-ages-memorial-selection-vol-1.json) |
 | Sega Ages Memorial Selection Vol. 2 | 98647 | [98647-sega-ages-memorial-selection-vol-2.json](./98647-sega-ages-memorial-selection-vol-2.json) |
@@ -6789,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
 | Serilly's Happy Birthday | 253723 | [253723-serillys-happy-birthday.json](./253723-serillys-happy-birthday.json) |
+| Serin Fate | 118235 | [118235-serin-fate.json](./118235-serin-fate.json) |
 | Serious Bigness | 416979 | [416979-serious-bigness.json](./416979-serious-bigness.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
@@ -14768,6 +14770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Lanes | 333445 | [333445-sky-lanes.json](./333445-sky-lanes.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
 | Sky Line | 131115 | [131115-sky-line.json](./131115-sky-line.json) |
+| Sky Link | 118349 | [118349-sky-link.json](./118349-sky-link.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
@@ -25742,6 +25745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits | 7403 | [7403-spirits.json](./7403-spirits.json) |
 | Spirits & Alice | 358502 | [358502-spirits-and-alice.json](./358502-spirits-and-alice.json) |
 | Spirits & Spells | 165201 | [165201-spirits-and-spells.json](./165201-spirits-and-spells.json) |
+| Spirits Abyss | 118101 | [118101-spirits-abyss.json](./118101-spirits-abyss.json) |
 | Spirits and Secrets | 384500 | [384500-spirits-and-secrets.json](./384500-spirits-and-secrets.json) |
 | Spirits Chronicles: Born in Flames - Collector's Edition | 188693 | [188693-spirits-chronicles-born-in-flames-collectors-edition.json](./188693-spirits-chronicles-born-in-flames-collectors-edition.json) |
 | Spirits Chronicles: Flower of Hope - Collector's Edition | 208632 | [208632-spirits-chronicles-flower-of-hope-collectors-edition.json](./208632-spirits-chronicles-flower-of-hope-collectors-edition.json) |
@@ -37970,6 +37974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
 | Super Robot Wars OG: The Moon Dwellers - Limited Edition | 166306 | [166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json](./166306-super-robot-wars-og-the-moon-dwellers-limited-edition.json) |
 | Super Robot Wars T: Premium Anime Song & Sound Edition | 136690 | [136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json](./136690-super-robot-wars-t-premium-anime-song-and-sound-edition.json) |
+| Super Robot Wars V | 117578 | [117578-super-robot-wars-v.json](./117578-super-robot-wars-v.json) |
 | Super Robot Wars V: Premium Anime Song & Sound Edition | 136655 | [136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json](./136655-super-robot-wars-v-premium-anime-song-and-sound-edition.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
 | Super Robot Wars X: Premium Anime Song & Sound Edition | 136755 | [136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json](./136755-super-robot-wars-x-premium-anime-song-and-sound-edition.json) |
@@ -39235,6 +39240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supershot: Valley Warfare Defense | 345977 | [345977-supershot-valley-warfare-defense.json](./345977-supershot-valley-warfare-defense.json) |
 | Supersize My Heart | 344504 | [344504-supersize-my-heart.json](./344504-supersize-my-heart.json) |
 | SuperSki Pro | 270624 | [270624-superski-pro.json](./270624-superski-pro.json) |
+| SuperSmash | 118366 | [118366-supersmash.json](./118366-supersmash.json) |
 | SuperSnake.io | 58496 | [58496-supersnake-io.json](./58496-supersnake-io.json) |
 | Supersolar | 110778 | [110778-supersolar.json](./110778-supersolar.json) |
 | Supersonic | 265741 | [265741-supersonic.json](./265741-supersonic.json) |
