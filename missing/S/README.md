@@ -1566,7 +1566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
-| Samurai of Hyuga Book 4 | 121372 | [121372-samurai-of-hyuga-book-4.json](./121372-samurai-of-hyuga-book-4.json) |
 | Samurai of Hyuga Book 4: Side Stories 1-10 | 170737 | [170737-samurai-of-hyuga-book-4-side-stories-1-10.json](./170737-samurai-of-hyuga-book-4-side-stories-1-10.json) |
 | Samurai of Hyuga Book 5 | 321212 | [321212-samurai-of-hyuga-book-5.json](./321212-samurai-of-hyuga-book-5.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
@@ -2699,7 +2698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save Daddy Gump Mission Middle East | 359148 | [359148-save-daddy-gump-mission-middle-east.json](./359148-save-daddy-gump-mission-middle-east.json) |
-| Save Daddy Trump | 119806 | [119806-save-daddy-trump.json](./119806-save-daddy-trump.json) |
 | Save daddy trump 2: The Final Triumph | 142234 | [142234-save-daddy-trump-2-the-final-triumph.json](./142234-save-daddy-trump-2-the-final-triumph.json) |
 | Save Daddy Trump 3: Rise of Evil | 212947 | [212947-save-daddy-trump-3-rise-of-evil.json](./212947-save-daddy-trump-3-rise-of-evil.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
@@ -4923,7 +4921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealing Fallout | 420244 | [420244-sealing-fallout.json](./420244-sealing-fallout.json) |
 | Sealing Tower | 358580 | [358580-sealing-tower.json](./358580-sealing-tower.json) |
 | Seals From the Frosty Bay | 402302 | [402302-seals-from-the-frosty-bay.json](./402302-seals-from-the-frosty-bay.json) |
-| Seals of the Bygone | 120572 | [120572-seals-of-the-bygone.json](./120572-seals-of-the-bygone.json) |
 | Sealubbers | 350750 | [350750-sealubbers.json](./350750-sealubbers.json) |
 | Seam Walker | 420241 | [420241-seam-walker.json](./420241-seam-walker.json) |
 | Seaman | 9130 | [9130-seaman.json](./9130-seaman.json) |
@@ -6169,7 +6166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
 | Seleos | 334443 | [334443-seleos.json](./334443-seleos.json) |
 | Seleri's Lament | 365920 | [365920-seleris-lament.json](./365920-seleris-lament.json) |
-| Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self | 177635 | [177635-self.json](./177635-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
@@ -9346,7 +9342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
 | Sheptun | 129255 | [129255-sheptun.json](./129255-sheptun.json) |
 | Shera and the 40 Thieves | 148393 | [148393-shera-and-the-40-thieves.json](./148393-shera-and-the-40-thieves.json) |
-| Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
 | Sherbet Thieves | 93634 | [93634-sherbet-thieves.json](./93634-sherbet-thieves.json) |
@@ -10516,7 +10511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun: Total War - Warlord Edition | 206025 | [206025-shogun-total-war-warlord-edition.json](./206025-shogun-total-war-warlord-edition.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
-| Shogun's Empire: Hex Commander | 119739 | [119739-shoguns-empire-hex-commander.json](./119739-shoguns-empire-hex-commander.json) |
 | Shogun's Stand | 420143 | [420143-shoguns-stand.json](./420143-shoguns-stand.json) |
 | Shogunaria | 208643 | [208643-shogunaria.json](./208643-shogunaria.json) |
 | Shogunate | 356031 | [356031-shogunate.json](./356031-shogunate.json) |
@@ -19841,7 +19835,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonderDo | 197306 | [197306-sonderdo.json](./197306-sonderdo.json) |
 | Sondro Gomez: A Sunova Story | 170662 | [170662-sondro-gomez-a-sunova-story.json](./170662-sondro-gomez-a-sunova-story.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
-| Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
 | Song for a Bird | 101717 | [101717-song-for-a-bird.json](./101717-song-for-a-bird.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
@@ -21179,7 +21172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophie: Starlight Whispers | 148440 | [148440-sophie-starlight-whispers.json](./148440-sophie-starlight-whispers.json) |
 | Sophie's Cubes | 143960 | [143960-sophies-cubes.json](./143960-sophies-cubes.json) |
 | Sophie's Curse | 33441 | [33441-sophies-curse.json](./33441-sophies-curse.json) |
-| Sophie's Dice | 119808 | [119808-sophies-dice.json](./119808-sophies-dice.json) |
 | Sophie's Grids | 400970 | [400970-sophies-grids.json](./400970-sophies-grids.json) |
 | Sophie's Guardian | 31226 | [31226-sophies-guardian.json](./31226-sophies-guardian.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
@@ -21700,7 +21692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Saga: Episode 1 | 8174 | [8174-soul-saga-episode-1.json](./8174-soul-saga-episode-1.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
 | Soul Scar | 361971 | [361971-soul-scar.json](./361971-soul-scar.json) |
-| Soul Scathe | 120112 | [120112-soul-scathe.json](./120112-soul-scathe.json) |
 | Soul Searchin' | 407515 | [407515-soul-searchin.json](./407515-soul-searchin.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
 | Soul Seed | 182074 | [182074-soul-seed.json](./182074-soul-seed.json) |
@@ -23578,7 +23569,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War Economy Idle | 346253 | [346253-space-war-economy-idle.json](./346253-space-war-economy-idle.json) |
 | Space War Machine | 133507 | [133507-space-war-machine.json](./133507-space-war-machine.json) |
 | Space War Plane | 227462 | [227462-space-war-plane.json](./227462-space-war-plane.json) |
-| Space War: Infinity | 118608 | [118608-space-war-infinity.json](./118608-space-war-infinity.json) |
 | Space War: Protect the Moon | 110289 | [110289-space-war-protect-the-moon.json](./110289-space-war-protect-the-moon.json) |
 | Space Warden | 190755 | [190755-space-warden.json](./190755-space-warden.json) |
 | Space Warfare | 114848 | [114848-space-warfare.json](./114848-space-warfare.json) |
@@ -26705,7 +26695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite's City Scramble | 378690 | [378690-sprites-city-scramble.json](./378690-sprites-city-scramble.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Sprited Away, the Boiler Room | 115732 | [115732-sprited-away-the-boiler-room.json](./115732-sprited-away-the-boiler-room.json) |
-| SpritePile | 119789 | [119789-spritepile.json](./119789-spritepile.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites | 116231 | [116231-sprites.json](./116231-sprites.json) |
 | Sprites are 1derful | 277105 | [277105-sprites-are-1derful.json](./277105-sprites-are-1derful.json) |
@@ -30024,7 +30013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Out of the House | 109668 | [109668-stay-out-of-the-house.json](./109668-stay-out-of-the-house.json) |
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
-| Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
 | Stay Safe! Jam | 137791 | [137791-stay-safe-jam.json](./137791-stay-safe-jam.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Silent | 114387 | [114387-stay-silent.json](./114387-stay-silent.json) |
@@ -31489,7 +31477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonecraft | 182070 | [182070-stonecraft.json](./182070-stonecraft.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
 | Stoned to Death | 404767 | [404767-stoned-to-death.json](./404767-stoned-to-death.json) |
-| Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
 | Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
 | Stonefeather | 421894 | [421894-stonefeather.json](./421894-stonefeather.json) |
@@ -31668,7 +31655,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Across Europe | 70134 | [70134-storm-across-europe.json](./70134-storm-across-europe.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: Ayy Lmao Edition | 121142 | [121142-storm-area-51-ayy-lmao-edition.json](./121142-storm-area-51-ayy-lmao-edition.json) |
-| Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Blade | 40439 | [40439-storm-blade.json](./40439-storm-blade.json) |
@@ -31713,7 +31699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Striker | 260307 | [260307-storm-striker.json](./260307-storm-striker.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
 | Storm Swordsman | 190733 | [190733-storm-swordsman.json](./190733-storm-swordsman.json) |
-| Storm Tale | 120671 | [120671-storm-tale.json](./120671-storm-tale.json) |
 | Storm Tale 2 | 159966 | [159966-storm-tale-2.json](./159966-storm-tale-2.json) |
 | Storm Tale 2 & Ancient Relics: Adventure Bundle | 387681 | [387681-storm-tale-2-and-ancient-relics-adventure-bundle.json](./387681-storm-tale-2-and-ancient-relics-adventure-bundle.json) |
 | Storm The Court | 296470 | [296470-storm-the-court.json](./296470-storm-the-court.json) |
@@ -35586,7 +35571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bug 2 | 288259 | [288259-super-bug-2.json](./288259-super-bug-2.json) |
 | Super Bug Hunters | 368996 | [368996-super-bug-hunters.json](./368996-super-bug-hunters.json) |
 | Super Bugman Extreme Ultra | 76300 | [76300-super-bugman-extreme-ultra.json](./76300-super-bugman-extreme-ultra.json) |
-| Super Build | 120727 | [120727-super-build.json](./120727-super-build.json) |
 | Super Bull Knight | 234558 | [234558-super-bull-knight.json](./234558-super-bull-knight.json) |
 | Super Bullet Break: Day 1 Edition | 198393 | [198393-super-bullet-break-day-1-edition.json](./198393-super-bullet-break-day-1-edition.json) |
 | Super Bumble Trials | 316041 | [316041-super-bumble-trials.json](./316041-super-bumble-trials.json) |
@@ -37362,7 +37346,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Mini Party | 143820 | [143820-super-mega-mini-party.json](./143820-super-mega-mini-party.json) |
 | Super Mega Neo Pug | 32683 | [32683-super-mega-neo-pug.json](./32683-super-mega-neo-pug.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
-| Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
 | Super Mega Worm | 88565 | [88565-super-mega-worm.json](./88565-super-mega-worm.json) |
 | Super Mega Zero | 194981 | [194981-super-mega-zero.json](./194981-super-mega-zero.json) |
@@ -41379,7 +41362,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Freeport | 316164 | [316164-swords-of-freeport.json](./316164-swords-of-freeport.json) |
 | Swords of Gargantua | 103277 | [103277-swords-of-gargantua.json](./103277-swords-of-gargantua.json) |
 | Swords of Glass | 2887 | [2887-swords-of-glass.json](./2887-swords-of-glass.json) |
-| Swords of Gurrah | 119910 | [119910-swords-of-gurrah.json](./119910-swords-of-gurrah.json) |
 | Swords of Legends | 361838 | [361838-swords-of-legends.json](./361838-swords-of-legends.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Legends Online: Collector's Edition | 219720 | [219720-swords-of-legends-online-collectors-edition.json](./219720-swords-of-legends-online-collectors-edition.json) |
