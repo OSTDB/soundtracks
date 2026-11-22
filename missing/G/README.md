@@ -10519,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Gretel's Honesty | 330894 | [330894-gretels-honesty.json](./330894-gretels-honesty.json) |
 | Gretzky NHL | 138071 | [138071-gretzky-nhl.json](./138071-gretzky-nhl.json) |
+| Gretzky NHL '06 | 24142 | [24142-gretzky-nhl-06.json](./24142-gretzky-nhl-06.json) |
 | Gretzky NHL 2005 | 24162 | [24162-gretzky-nhl-2005.json](./24162-gretzky-nhl-2005.json) |
 | Grex | 331371 | [331371-grex.json](./331371-grex.json) |
 | Grexovka Village | 386411 | [386411-grexovka-village.json](./386411-grexovka-village.json) |
