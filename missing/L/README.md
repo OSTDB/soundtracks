@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǎnrén Xiūxiān Zhuàn 2 | 415510 | [415510-lanren-xiuxian-zhuan-2.json](./415510-lanren-xiuxian-zhuan-2.json) |
 | Lansbury's SneakOut | 335606 | [335606-lansburys-sneakout.json](./335606-lansburys-sneakout.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
+| Lantern | 25952 | [25952-lantern.json](./25952-lantern.json) |
 | Lantern Bearer | 164114 | [164114-lantern-bearer.json](./164114-lantern-bearer.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Havre (The Harbor) | 90748 | [90748-le-havre-the-harbor.json](./90748-le-havre-the-harbor.json) |
+| Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
 | Le jeu du chômeur | 387285 | [387285-le-jeu-du-chomeur.json](./387285-le-jeu-du-chomeur.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
 | Le Maître des Âmes | 94596 | [94596-le-maitre-des-ames.json](./94596-le-maitre-des-ames.json) |
@@ -4586,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal RPG: War | 24584 | [24584-lethal-rpg-war.json](./24584-lethal-rpg-war.json) |
 | Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
 | Lethal Skies Elite Pilot: Team SW | 26746 | [26746-lethal-skies-elite-pilot-team-sw.json](./26746-lethal-skies-elite-pilot-team-sw.json) |
+| Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
 | Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
 | Lethal Thunder | 46805 | [46805-lethal-thunder.json](./46805-lethal-thunder.json) |
