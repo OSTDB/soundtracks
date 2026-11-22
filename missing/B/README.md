@@ -5245,7 +5245,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlevoid: Sector Siege | 72488 | [72488-battlevoid-sector-siege.json](./72488-battlevoid-sector-siege.json) |
 | Battlevoid: Sector Siege | 77439 | [77439-battlevoid-sector-siege.json](./77439-battlevoid-sector-siege.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
-| Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
 | BattleWave | 24511 | [24511-battlewave.json](./24511-battlewave.json) |
 | BattleWheels | 46922 | [46922-battlewheels.json](./46922-battlewheels.json) |
