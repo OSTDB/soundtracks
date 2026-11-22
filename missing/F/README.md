@@ -8895,6 +8895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh 4 Boy | 178544 | [178544-flesh-4-boy.json](./178544-flesh-4-boy.json) |
 | Flesh and Pressure | 362494 | [362494-flesh-and-pressure.json](./362494-flesh-and-pressure.json) |
 | Flesh Blossom | 398000 | [398000-flesh-blossom.json](./398000-flesh-blossom.json) |
+| Flesh Eaters | 34957 | [34957-flesh-eaters.json](./34957-flesh-eaters.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
 | Flesh Engine | 398707 | [398707-flesh-engine.json](./398707-flesh-engine.json) |
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
@@ -10587,6 +10588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball Maniac | 54037 | [54037-foosball-maniac.json](./54037-foosball-maniac.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foosball VR | 84010 | [84010-foosball-vr.json](./84010-foosball-vr.json) |
+| Foosball: World Tour | 34848 | [34848-foosball-world-tour.json](./34848-foosball-world-tour.json) |
 | Foot Blobbers | 176346 | [176346-foot-blobbers.json](./176346-foot-blobbers.json) |
 | Foot Brawls | 422857 | [422857-foot-brawls.json](./422857-foot-brawls.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
