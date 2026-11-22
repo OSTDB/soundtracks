@@ -3013,6 +3013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TasteMaker | 143630 | [143630-tastemaker.json](./143630-tastemaker.json) |
 | Tastes Like Coffee | 262147 | [262147-tastes-like-coffee.json](./262147-tastes-like-coffee.json) |
 | Tasty Arena | 151109 | [151109-tasty-arena.json](./151109-tasty-arena.json) |
+| Tasty Chef | 421468 | [421468-tasty-chef.json](./421468-tasty-chef.json) |
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw Happy Hour 2 | 157086 | [157086-tasty-jigsaw-happy-hour-2.json](./157086-tasty-jigsaw-happy-hour-2.json) |
 | Tasty Jigsaw: Happy Hour | 268047 | [268047-tasty-jigsaw-happy-hour.json](./268047-tasty-jigsaw-happy-hour.json) |
@@ -6482,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
 | The Adventures of Sullivan | 113925 | [113925-the-adventures-of-sullivan.json](./113925-the-adventures-of-sullivan.json) |
+| The Adventures of Tango Rio | 421487 | [421487-the-adventures-of-tango-rio.json](./421487-the-adventures-of-tango-rio.json) |
 | The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
 | The Adventures of Ten and Till | 128894 | [128894-the-adventures-of-ten-and-till.json](./128894-the-adventures-of-ten-and-till.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
@@ -8796,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
 | The Cradle of Eve | 145734 | [145734-the-cradle-of-eve.json](./145734-the-cradle-of-eve.json) |
 | The Cradle of Thorns: My Brother Belongs to Me | 273258 | [273258-the-cradle-of-thorns-my-brother-belongs-to-me.json](./273258-the-cradle-of-thorns-my-brother-belongs-to-me.json) |
+| The Cradle: Episode 01 | 421465 | [421465-the-cradle-episode-01.json](./421465-the-cradle-episode-01.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
@@ -8997,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Culling of the Cows | 9399 | [9399-the-culling-of-the-cows.json](./9399-the-culling-of-the-cows.json) |
 | The Cult | 267057 | [267057-the-cult.json](./267057-the-cult.json) |
 | The Cult | 276375 | [276375-the-cult.json](./276375-the-cult.json) |
+| The Cult | 421484 | [421484-the-cult.json](./421484-the-cult.json) |
 | The Cult of Chanseville | 211820 | [211820-the-cult-of-chanseville.json](./211820-the-cult-of-chanseville.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Cummunist Manifesto: Dommy Mommy Commie Adventure | 315172 | [315172-the-cummunist-manifesto-dommy-mommy-commie-adventure.json](./315172-the-cummunist-manifesto-dommy-mommy-commie-adventure.json) |
@@ -16930,6 +16934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side of the Screen | 101277 | [101277-the-other-side-of-the-screen.json](./101277-the-other-side-of-the-screen.json) |
 | The Other Side of the Sky | 310230 | [310230-the-other-side-of-the-sky.json](./310230-the-other-side-of-the-sky.json) |
 | The Other Side of the Tracks | 179452 | [179452-the-other-side-of-the-tracks.json](./179452-the-other-side-of-the-tracks.json) |
+| The Other Side of the Wall | 421488 | [421488-the-other-side-of-the-wall.json](./421488-the-other-side-of-the-wall.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls | 53765 | [53765-the-other-side-tower-of-souls.json](./53765-the-other-side-tower-of-souls.json) |
 | The Other Side: Tower of Souls Remaster | 310066 | [310066-the-other-side-tower-of-souls-remaster.json](./310066-the-other-side-tower-of-souls-remaster.json) |
@@ -26717,7 +26722,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
 | Time to Walk Alone | 44257 | [44257-time-to-walk-alone.json](./44257-time-to-walk-alone.json) |
-| Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
 | Time Trap 2: Search and Find Objects Game - Hidden Pictures | 173978 | [173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json](./173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
@@ -27103,6 +27107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Breakers Camp | 270005 | [270005-tiny-breakers-camp.json](./270005-tiny-breakers-camp.json) |
 | Tiny Bridge: Ratventure | 35486 | [35486-tiny-bridge-ratventure.json](./35486-tiny-bridge-ratventure.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
+| Tiny Brutalism | 421475 | [421475-tiny-brutalism.json](./421475-tiny-brutalism.json) |
 | Tiny Builders Coloring Book for Kids | 402014 | [402014-tiny-builders-coloring-book-for-kids.json](./402014-tiny-builders-coloring-book-for-kids.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
