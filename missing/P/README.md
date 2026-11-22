@@ -9058,6 +9058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
 | Pitbull Dale 10 | 360445 | [360445-pitbull-dale-10.json](./360445-pitbull-dale-10.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
+| Pitch & Power: Football Club Owner | 423433 | [423433-pitch-and-power-football-club-owner.json](./423433-pitch-and-power-football-club-owner.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 240704 | [240704-pitch-black.json](./240704-pitch-black.json) |
 | Pitch Black | 278440 | [278440-pitch-black.json](./278440-pitch-black.json) |
@@ -11729,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
 | Plumbo | 423821 | [423821-plumbo.json](./423821-plumbo.json) |
 | Plumbum | 329262 | [329262-plumbum.json](./329262-plumbum.json) |
+| Plume | 424057 | [424057-plume.json](./424057-plume.json) |
 | Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
 | Plumley's Trot | 259785 | [259785-plumleys-trot.json](./259785-plumleys-trot.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
@@ -13648,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokonyan! Yume no Daibouken | 205705 | [205705-pokonyan-yume-no-daibouken.json](./205705-pokonyan-yume-no-daibouken.json) |
 | Pokopia Recomp | 427397 | [427397-pokopia-recomp.json](./427397-pokopia-recomp.json) |
 | Pokor | 397770 | [397770-pokor.json](./397770-pokor.json) |
+| Pokorama | 424478 | [424478-pokorama.json](./424478-pokorama.json) |
 | Pokosuka Racing | 408945 | [408945-pokosuka-racing.json](./408945-pokosuka-racing.json) |
 | Pokris | 116099 | [116099-pokris.json](./116099-pokris.json) |
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
