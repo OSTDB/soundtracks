@@ -917,7 +917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Bandits | 43914 | [43914-vanguard-bandits.json](./43914-vanguard-bandits.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Galaxy | 347411 | [347411-vanguard-galaxy.json](./347411-vanguard-galaxy.json) |
-| Vanguard Knights | 114199 | [114199-vanguard-knights.json](./114199-vanguard-knights.json) |
 | Vanguard Monsters | 289172 | [289172-vanguard-monsters.json](./289172-vanguard-monsters.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard of Demise | 105040 | [105040-vanguard-of-demise.json](./105040-vanguard-of-demise.json) |
@@ -3405,7 +3404,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vision Quest: A New Ascent | 405125 | [405125-vision-quest-a-new-ascent.json](./405125-vision-quest-a-new-ascent.json) |
 | Vision Runner | 33850 | [33850-vision-runner.json](./33850-vision-runner.json) |
 | Vision: The 5 Dimension Utopia | 50246 | [50246-vision-the-5-dimension-utopia.json](./50246-vision-the-5-dimension-utopia.json) |
-| Visionarium | 113737 | [113737-visionarium.json](./113737-visionarium.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visionary Wings | 387431 | [387431-visionary-wings.json](./387431-visionary-wings.json) |
 | VisionaryWings | 367351 | [367351-visionarywings.json](./367351-visionarywings.json) |
@@ -4290,7 +4288,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Doom | 251544 | [251544-voxel-doom.json](./251544-voxel-doom.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
 | Voxel Drive | 385947 | [385947-voxel-drive.json](./385947-voxel-drive.json) |
-| Voxel Drivers | 114309 | [114309-voxel-drivers.json](./114309-voxel-drivers.json) |
 | Voxel Eras | 360712 | [360712-voxel-eras.json](./360712-voxel-eras.json) |
 | Voxel Farm Island | 189332 | [189332-voxel-farm-island.json](./189332-voxel-farm-island.json) |
 | Voxel Fly | 120135 | [120135-voxel-fly.json](./120135-voxel-fly.json) |
@@ -4503,7 +4500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Fitness Gym | 173383 | [173383-vr-fitness-gym.json](./173383-vr-fitness-gym.json) |
 | VR Fitness: R18 DLC | 275820 | [275820-vr-fitness-r18-dlc.json](./275820-vr-fitness-r18-dlc.json) |
 | VR Flight Simulator | 101333 | [101333-vr-flight-simulator.json](./101333-vr-flight-simulator.json) |
-| VR Flight Simulator New York - Cessna | 113760 | [113760-vr-flight-simulator-new-york-cessna.json](./113760-vr-flight-simulator-new-york-cessna.json) |
 | VR Flush | 104134 | [104134-vr-flush.json](./104134-vr-flush.json) |
 | VR FlyMaster | 120226 | [120226-vr-flymaster.json](./120226-vr-flymaster.json) |
 | VR Formula | 51517 | [51517-vr-formula.json](./51517-vr-formula.json) |
