@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Dimensions III | 381109 | [381109-r-type-dimensions-iii.json](./381109-r-type-dimensions-iii.json) |
 | R-Type DX | 49829 | [49829-r-type-dx.json](./49829-r-type-dx.json) |
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
+| R-Type Final | 24109 | [24109-r-type-final.json](./24109-r-type-final.json) |
 | R-Type Final 2 | 116899 | [116899-r-type-final-2.json](./116899-r-type-final-2.json) |
 | R-Type Final 2: B-99 Apocalypse R-Craft | 301735 | [301735-r-type-final-2-b-99-apocalypse-r-craft.json](./301735-r-type-final-2-b-99-apocalypse-r-craft.json) |
 | R-Type Final 2: Digital Deluxe Edition | 164704 | [164704-r-type-final-2-digital-deluxe-edition.json](./164704-r-type-final-2-digital-deluxe-edition.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratocalypse | 381543 | [381543-ratocalypse.json](./381543-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | Ratomon 2 | 192859 | [192859-ratomon-2.json](./192859-ratomon-2.json) |
+| Ratpad vs Everglide: Battle of the Pads | 24118 | [24118-ratpad-vs-everglide-battle-of-the-pads.json](./24118-ratpad-vs-everglide-battle-of-the-pads.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rats - Time is running out! | 35805 | [35805-rats-time-is-running-out.json](./35805-rats-time-is-running-out.json) |
 | Rats and Spears | 104317 | [104317-rats-and-spears.json](./104317-rats-and-spears.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Ransom | 376654 | [376654-river-city-ransom.json](./376654-river-city-ransom.json) |
 | River City Ransom | 6558 | [6558-river-city-ransom.json](./6558-river-city-ransom.json) |
+| River City Ransom EX | 24135 | [24135-river-city-ransom-ex.json](./24135-river-city-ransom-ex.json) |
 | River City Renegade | 42427 | [42427-river-city-renegade.json](./42427-river-city-renegade.json) |
 | River City Saga: Journey to the West | 387579 | [387579-river-city-saga-journey-to-the-west.json](./387579-river-city-saga-journey-to-the-west.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
