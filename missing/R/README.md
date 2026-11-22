@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radiant Sea | 316631 | [316631-radiant-sea.json](./316631-radiant-sea.json) |
 | Radiant Silvergun | 356228 | [356228-radiant-silvergun.json](./356228-radiant-silvergun.json) |
+| Radiant Silvergun | 51624 | [51624-radiant-silvergun.json](./51624-radiant-silvergun.json) |
 | Radiant Silvergun | 5422 | [5422-radiant-silvergun.json](./5422-radiant-silvergun.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
@@ -4732,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Vanilla 2 | 366733 | [366733-red-vanilla-2.json](./366733-red-vanilla-2.json) |
 | Red Victory | 59320 | [59320-red-victory.json](./59320-red-victory.json) |
 | Red vs. Green | 362395 | [362395-red-vs-green.json](./362395-red-vs-green.json) |
+| Red Wake Carnage | 51435 | [51435-red-wake-carnage.json](./51435-red-wake-carnage.json) |
 | Red White Yellow | 152158 | [152158-red-white-yellow.json](./152158-red-white-yellow.json) |
 | Red White Yellow Cruising | 207894 | [207894-red-white-yellow-cruising.json](./207894-red-white-yellow-cruising.json) |
 | Red White Yellow Stingray | 200459 | [200459-red-white-yellow-stingray.json](./200459-red-white-yellow-stingray.json) |
@@ -4931,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
 | Redout: Deluxe Edition | 53497 | [53497-redout-deluxe-edition.json](./53497-redout-deluxe-edition.json) |
 | Redout: Enhanced Edition | 31598 | [31598-redout-enhanced-edition.json](./31598-redout-enhanced-edition.json) |
+| Redout: Lightspeed Edition | 52715 | [52715-redout-lightspeed-edition.json](./52715-redout-lightspeed-edition.json) |
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
 | Redout: Solar Challenge Edition | 124807 | [124807-redout-solar-challenge-edition.json](./124807-redout-solar-challenge-edition.json) |
