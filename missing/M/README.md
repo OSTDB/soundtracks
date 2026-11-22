@@ -11194,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Detecting Simulator | 235768 | [235768-metal-detecting-simulator.json](./235768-metal-detecting-simulator.json) |
 | Metal Detector and 2nd Hundred | 267963 | [267963-metal-detector-and-2nd-hundred.json](./267963-metal-detector-and-2nd-hundred.json) |
 | Metal Detector Island | 409807 | [409807-metal-detector-island.json](./409807-metal-detector-island.json) |
+| Metal Detector Simulator | 425652 | [425652-metal-detector-simulator.json](./425652-metal-detector-simulator.json) |
 | Metal Division | 113103 | [113103-metal-division.json](./113103-metal-division.json) |
 | Metal Dogs | 144769 | [144769-metal-dogs.json](./144769-metal-dogs.json) |
 | Metal Dogs EX Quest01: Here Comes the Metal Enemies | 296619 | [296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json](./296619-metal-dogs-ex-quest01-here-comes-the-metal-enemies.json) |
@@ -11359,6 +11360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Planet | 17381 | [17381-metal-planet.json](./17381-metal-planet.json) |
 | Metal Punch | 236350 | [236350-metal-punch.json](./236350-metal-punch.json) |
+| Metal Quadriga | 425107 | [425107-metal-quadriga.json](./425107-metal-quadriga.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
 | Metal Quest | 76310 | [76310-metal-quest.json](./76310-metal-quest.json) |
 | Metal Racer | 246966 | [246966-metal-racer.json](./246966-metal-racer.json) |
@@ -18072,6 +18074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Breakout | 57811 | [57811-monster-breakout.json](./57811-monster-breakout.json) |
 | Monster Breeder | 86498 | [86498-monster-breeder.json](./86498-monster-breeder.json) |
+| Monster Breeder Battler | 425083 | [425083-monster-breeder-battler.json](./425083-monster-breeder-battler.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
 | Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
 | Monster Bugs Eat People | 126189 | [126189-monster-bugs-eat-people.json](./126189-monster-bugs-eat-people.json) |
