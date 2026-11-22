@@ -11701,6 +11701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro - The Board Game | 88803 | [88803-metro-the-board-game.json](./88803-metro-the-board-game.json) |
 | Metro 2031: Last Chance | 382348 | [382348-metro-2031-last-chance.json](./382348-metro-2031-last-chance.json) |
 | Metro 2033 | 251142 | [251142-metro-2033.json](./251142-metro-2033.json) |
+| Metro 2033 Wars: Born in the Dark | 23973 | [23973-metro-2033-wars-born-in-the-dark.json](./23973-metro-2033-wars-born-in-the-dark.json) |
 | Metro 2033: Wars | 59064 | [59064-metro-2033-wars.json](./59064-metro-2033-wars.json) |
 | Metro 2055 | 356553 | [356553-metro-2055.json](./356553-metro-2055.json) |
 | Metro Anomaly | 422886 | [422886-metro-anomaly.json](./422886-metro-anomaly.json) |
@@ -21838,6 +21839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
 | MTV Music Generator 2 | 18725 | [18725-mtv-music-generator-2.json](./18725-mtv-music-generator-2.json) |
+| MTV Music Generator 3: This is the Remix | 24139 | [24139-mtv-music-generator-3-this-is-the-remix.json](./24139-mtv-music-generator-3-this-is-the-remix.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports Skateboarding | 45810 | [45810-mtv-sports-skateboarding.json](./45810-mtv-sports-skateboarding.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
