@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiden Fighters Remix Collection | 393026 | [393026-raiden-fighters-remix-collection.json](./393026-raiden-fighters-remix-collection.json) |
 | Raiden II | 8855 | [8855-raiden-ii.json](./8855-raiden-ii.json) |
 | Raiden III | 8856 | [8856-raiden-iii.json](./8856-raiden-iii.json) |
+| Raiden III x Mikado Maniax | 225770 | [225770-raiden-iii-x-mikado-maniax.json](./225770-raiden-iii-x-mikado-maniax.json) |
 | Raiden III x Mikado Maniax: Deluxe Edition | 234207 | [234207-raiden-iii-x-mikado-maniax-deluxe-edition.json](./234207-raiden-iii-x-mikado-maniax-deluxe-edition.json) |
 | Raiden III: Digital Edition | 36271 | [36271-raiden-iii-digital-edition.json](./36271-raiden-iii-digital-edition.json) |
 | Raiden IV | 7154 | [7154-raiden-iv.json](./7154-raiden-iv.json) |
@@ -7135,6 +7136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
 | Retron X | 85779 | [85779-retron-x.json](./85779-retron-x.json) |
 | Retroneer | 392359 | [392359-retroneer.json](./392359-retroneer.json) |
+| Retronika | 332467 | [332467-retronika.json](./332467-retronika.json) |
 | Retroninjacyberassassin | 149234 | [149234-retroninjacyberassassin.json](./149234-retroninjacyberassassin.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | Retropolis 2: Never Say Goodbye | 238772 | [238772-retropolis-2-never-say-goodbye.json](./238772-retropolis-2-never-say-goodbye.json) |
@@ -8656,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rika Furude Simulator '25 | 378518 | [378518-rika-furude-simulator-25.json](./378518-rika-furude-simulator-25.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki | 294983 | [294983-riki.json](./294983-riki.json) |
+| Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
 | Riki Densetsu | 57225 | [57225-riki-densetsu.json](./57225-riki-densetsu.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
@@ -9457,6 +9460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riven: The Sequel to Myst | 238 | [238-riven-the-sequel-to-myst.json](./238-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
+| Rivenaar's Grove | 324038 | [324038-rivenaars-grove.json](./324038-rivenaars-grove.json) |
 | Rivencrest | 258305 | [258305-rivencrest.json](./258305-rivencrest.json) |
 | Rivengard | 142891 | [142891-rivengard.json](./142891-rivengard.json) |
 | RivenTails Defense | 99080 | [99080-riventails-defense.json](./99080-riventails-defense.json) |
@@ -13408,6 +13412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker VX Ace: Monster Legacy 1 | 53546 | [53546-rpg-maker-vx-ace-monster-legacy-1.json](./53546-rpg-maker-vx-ace-monster-legacy-1.json) |
 | RPG Maker VX Ace: Tarot Battlers | 53552 | [53552-rpg-maker-vx-ace-tarot-battlers.json](./53552-rpg-maker-vx-ace-tarot-battlers.json) |
 | RPG Maker VX Ace: Winter Wonderland Tiles | 53555 | [53555-rpg-maker-vx-ace-winter-wonderland-tiles.json](./53555-rpg-maker-vx-ace-winter-wonderland-tiles.json) |
+| RPG Maker With | 291538 | [291538-rpg-maker-with.json](./291538-rpg-maker-with.json) |
 | RPG Maker XP | 30228 | [30228-rpg-maker-xp.json](./30228-rpg-maker-xp.json) |
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
