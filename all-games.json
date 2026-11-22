@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T11:20:57.015Z",
-  "total_soundtracks": 3907,
+  "generated_at": "2026-11-22T14:15:54.118Z",
+  "total_soundtracks": 3908,
   "games": [
     {
       "igdb_id": 292844,
@@ -21403,6 +21403,20 @@
         {
           "album_name": "Intrusion 2 OST",
           "spotify_url": "https://open.spotify.com/album/16ECN1T8vv26GTGpgqWQ6a",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113848,
+      "game_name": "Invasher",
+      "game_url": "https://ostdb.net/games/invasher",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27335e9a8fda2bdeb881e7a4ee6",
+      "albums": [
+        {
+          "album_name": "Invasher (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6maaYm4FwGf0YvblvehQ5a",
           "apple_music_url": "",
           "album_link_url": ""
         }
