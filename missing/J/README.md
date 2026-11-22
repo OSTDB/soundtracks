@@ -3797,7 +3797,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Warrior | 182799 | [182799-jump-warrior.json](./182799-jump-warrior.json) |
 | Jump Warrior | 220388 | [220388-jump-warrior.json](./220388-jump-warrior.json) |
 | Jump With Dragons | 158338 | [158338-jump-with-dragons.json](./158338-jump-with-dragons.json) |
-| Jump with Friends | 118131 | [118131-jump-with-friends.json](./118131-jump-with-friends.json) |
 | Jump Without Reason | 124252 | [124252-jump-without-reason.json](./124252-jump-without-reason.json) |
 | Jump You+ | 332351 | [332351-jump-you.json](./332351-jump-you.json) |
 | Jump Yuusha | 222423 | [222423-jump-yuusha.json](./222423-jump-yuusha.json) |
