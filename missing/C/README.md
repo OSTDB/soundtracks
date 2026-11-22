@@ -6745,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
 | Champion of Fighters | 266061 | [266061-champion-of-fighters.json](./266061-champion-of-fighters.json) |
 | Champion of the Fields | 205143 | [205143-champion-of-the-fields.json](./205143-champion-of-the-fields.json) |
+| Champion of the Gods | 34854 | [34854-champion-of-the-gods.json](./34854-champion-of-the-gods.json) |
 | Champion of the Raj | 11998 | [11998-champion-of-the-raj.json](./11998-champion-of-the-raj.json) |
 | Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
@@ -10418,6 +10419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
 | Circuit Breakers | 135771 | [135771-circuit-breakers.json](./135771-circuit-breakers.json) |
+| Circuit Breakers | 34753 | [34753-circuit-breakers.json](./34753-circuit-breakers.json) |
 | Circuit Breakout: Dual Polarity | 250544 | [250544-circuit-breakout-dual-polarity.json](./250544-circuit-breakout-dual-polarity.json) |
 | Circuit Chakula | 345167 | [345167-circuit-chakula.json](./345167-circuit-chakula.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
@@ -11224,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
 | Clandestine: The Hidden Truth | 290379 | [290379-clandestine-the-hidden-truth.json](./290379-clandestine-the-hidden-truth.json) |
+| Clandestinity of Elsie | 35025 | [35025-clandestinity-of-elsie.json](./35025-clandestinity-of-elsie.json) |
 | Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
 | Clanfolk | 172261 | [172261-clanfolk.json](./172261-clanfolk.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
