@@ -3509,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitavania | 390673 | [390673-vitavania.json](./390673-vitavania.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Viticulture Essential Edition | 135729 | [135729-viticulture-essential-edition.json](./135729-viticulture-essential-edition.json) |
+| Viticulture: Essential Edition - Tuscany Expansion | 236970 | [236970-viticulture-essential-edition-tuscany-expansion.json](./236970-viticulture-essential-edition-tuscany-expansion.json) |
 | Vitrail | 293172 | [293172-vitrail.json](./293172-vitrail.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Vitrified | 275126 | [275126-vitrified.json](./275126-vitrified.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
+| Void Sails | 325647 | [325647-void-sails.json](./325647-void-sails.json) |
 | Void Salvage | 388936 | [388936-void-salvage.json](./388936-void-salvage.json) |
 | Void Sanction | 389361 | [389361-void-sanction.json](./389361-void-sanction.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
