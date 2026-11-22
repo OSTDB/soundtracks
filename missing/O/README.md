@@ -1566,7 +1566,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okamoto Ayako to Match Play Golf | 38179 | [38179-okamoto-ayako-to-match-play-golf.json](./38179-okamoto-ayako-to-match-play-golf.json) |
 | Okashi na Shima no Peter Pan: Sweet Never Land | 218955 | [218955-okashi-na-shima-no-peter-pan-sweet-never-land.json](./218955-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Okashi Towers | 254991 | [254991-okashi-towers.json](./254991-okashi-towers.json) |
-| Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
 | Okay? | 198402 | [198402-okay.json](./198402-okay.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
@@ -2094,7 +2093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnicron Conspiracy | 12708 | [12708-omnicron-conspiracy.json](./12708-omnicron-conspiracy.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | Omnifate | 367643 | [367643-omnifate.json](./367643-omnifate.json) |
-| OmniFootman | 118386 | [118386-omnifootman.json](./118386-omnifootman.json) |
 | Omnigon | 245909 | [245909-omnigon.json](./245909-omnigon.json) |
 | OmniGrav | 155937 | [155937-omnigrav.json](./155937-omnigrav.json) |
 | Omniheroes | 255790 | [255790-omniheroes.json](./255790-omniheroes.json) |
@@ -2264,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Earth As It Is In Heaven | 75427 | [75427-on-earth-as-it-is-in-heaven.json](./75427-on-earth-as-it-is-in-heaven.json) |
+| On Fighting Shadows | 420094 | [420094-on-fighting-shadows.json](./420094-on-fighting-shadows.json) |
 | On Fire | 184549 | [184549-on-fire.json](./184549-on-fire.json) |
 | On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
@@ -3418,7 +3417,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
 | Online Records: Unknown Seller | 343685 | [343685-online-records-unknown-seller.json](./343685-online-records-unknown-seller.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
-| Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
 | Online Soccer Manager | 77576 | [77576-online-soccer-manager.json](./77576-online-soccer-manager.json) |
 | Online Sparkler | 151770 | [151770-online-sparkler.json](./151770-online-sparkler.json) |
 | Online Wife | 418817 | [418817-online-wife.json](./418817-online-wife.json) |
@@ -3493,7 +3491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One | 81975 | [81975-only-one.json](./81975-only-one.json) |
-| Only One Burn | 121915 | [121915-only-one-burn.json](./121915-only-one-burn.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 234802 | [234802-only-one-night.json](./234802-only-one-night.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
@@ -4273,7 +4270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Shaker | 384478 | [384478-orange-shaker.json](./384478-orange-shaker.json) |
 | Orange Simulator | 351769 | [351769-orange-simulator.json](./351769-orange-simulator.json) |
 | Orange: The Annoying Clicker | 314358 | [314358-orange-the-annoying-clicker.json](./314358-orange-the-annoying-clicker.json) |
-| Orangeblood | 119591 | [119591-orangeblood.json](./119591-orangeblood.json) |
 | Orangepeel, Onionskin | 377535 | [377535-orangepeel-onionskin.json](./377535-orangepeel-onionskin.json) |
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
@@ -4324,7 +4320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbfall | 403097 | [403097-orbfall.json](./403097-orbfall.json) |
 | OrbGuard | 341946 | [341946-orbguard.json](./341946-orbguard.json) |
 | OrbHand | 333312 | [333312-orbhand.json](./333312-orbhand.json) |
-| Orbi Universo | 120847 | [120847-orbi-universo.json](./120847-orbi-universo.json) |
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
@@ -4480,7 +4475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Assault | 35218 | [35218-orc-assault.json](./35218-orc-assault.json) |
 | Orc Attack | 23944 | [23944-orc-attack.json](./23944-orc-attack.json) |
 | Orc Attack: Flatulent Rebellion | 7044 | [7044-orc-attack-flatulent-rebellion.json](./7044-orc-attack-flatulent-rebellion.json) |
-| Orc Colony | 119875 | [119875-orc-colony.json](./119875-orc-colony.json) |
 | Orc Covenant | 236076 | [236076-orc-covenant.json](./236076-orc-covenant.json) |
 | Orc Dungeon | 115294 | [115294-orc-dungeon.json](./115294-orc-dungeon.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
@@ -4594,7 +4588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Assassin | 102332 | [102332-order-of-the-assassin.json](./102332-order-of-the-assassin.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
-| Order of the Gatekeepers | 120005 | [120005-order-of-the-gatekeepers.json](./120005-order-of-the-gatekeepers.json) |
 | Order of the Ivy | 397196 | [397196-order-of-the-ivy.json](./397196-order-of-the-ivy.json) |
 | Order of the Light: The Deathly Artisan - Collector's Edition | 426243 | [426243-order-of-the-light-the-deathly-artisan-collectors-edition.json](./426243-order-of-the-light-the-deathly-artisan-collectors-edition.json) |
 | Order of the Metal Glove | 51662 | [51662-order-of-the-metal-glove.json](./51662-order-of-the-metal-glove.json) |
@@ -4940,7 +4933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortho Blaze | 330084 | [330084-ortho-blaze.json](./330084-ortho-blaze.json) |
 | Ortho Robot | 8728 | [8728-ortho-robot.json](./8728-ortho-robot.json) |
 | Orthodox | 138583 | [138583-orthodox.json](./138583-orthodox.json) |
-| Orthoiso | 119675 | [119675-orthoiso.json](./119675-orthoiso.json) |
 | Ortolan | 126499 | [126499-ortolan.json](./126499-ortolan.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
 | Ortus Arena | 24766 | [24766-ortus-arena.json](./24766-ortus-arena.json) |
@@ -5591,7 +5583,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Wonderful World | 30328 | [30328-our-wonderful-world.json](./30328-our-wonderful-world.json) |
 | Our Wonderland | 204222 | [204222-our-wonderland.json](./204222-our-wonderland.json) |
 | Our Wonderland | 403157 | [403157-our-wonderland.json](./403157-our-wonderland.json) |
-| Our world has not decayed | 121302 | [121302-our-world-has-not-decayed.json](./121302-our-world-has-not-decayed.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
 | Our Worst Fears | 110610 | [110610-our-worst-fears.json](./110610-our-worst-fears.json) |
 | Our: Defense 2021 | 195900 | [195900-our-defense-2021.json](./195900-our-defense-2021.json) |
@@ -6533,7 +6524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Mirai | 161793 | [161793-override-mech-city-brawl-mirai.json](./161793-override-mech-city-brawl-mirai.json) |
 | Override: Mech City Brawl - Stardust | 161791 | [161791-override-mech-city-brawl-stardust.json](./161791-override-mech-city-brawl-stardust.json) |
 | Override: Mech City Brawl - Super Chared Edition | 220925 | [220925-override-mech-city-brawl-super-chared-edition.json](./220925-override-mech-city-brawl-super-chared-edition.json) |
-| Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
 | Overrogue | 187834 | [187834-overrogue.json](./187834-overrogue.json) |
@@ -6749,7 +6739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OxRox | 295513 | [295513-oxrox.json](./295513-oxrox.json) |
 | Oxu | 217433 | [217433-oxu.json](./217433-oxu.json) |
 | Oxu 2 | 387755 | [387755-oxu-2.json](./387755-oxu-2.json) |
-| Oxxo | 119208 | [119208-oxxo.json](./119208-oxxo.json) |
 | Oxxonian | 74424 | [74424-oxxonian.json](./74424-oxxonian.json) |
 | Oxy Con Brio | 151986 | [151986-oxy-con-brio.json](./151986-oxy-con-brio.json) |
 | Oxyblack Fortress | 271317 | [271317-oxyblack-fortress.json](./271317-oxyblack-fortress.json) |
