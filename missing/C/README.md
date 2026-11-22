@@ -10228,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Cafe | 255909 | [255909-cinderella-cafe.json](./255909-cinderella-cafe.json) |
 | Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
+| Cinderella Escape 2 Revenge | 68490 | [68490-cinderella-escape-2-revenge.json](./68490-cinderella-escape-2-revenge.json) |
 | Cinderella Free Fall | 60193 | [60193-cinderella-free-fall.json](./60193-cinderella-free-fall.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
@@ -12315,6 +12316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
 | Close Line | 99842 | [99842-close-line.json](./99842-close-line.json) |
+| Close Me | 51579 | [51579-close-me.json](./51579-close-me.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
 | Close Quarters | 277709 | [277709-close-quarters.json](./277709-close-quarters.json) |
 | Close Quarters Conflict | 27472 | [27472-close-quarters-conflict.json](./27472-close-quarters-conflict.json) |
@@ -14845,6 +14847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Catastrophe | 369837 | [369837-comet-catastrophe.json](./369837-comet-catastrophe.json) |
 | Comet Cats | 395341 | [395341-comet-cats.json](./395341-comet-cats.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
+| Comet Crash 2: The Kronkoid Wars | 52155 | [52155-comet-crash-2-the-kronkoid-wars.json](./52155-comet-crash-2-the-kronkoid-wars.json) |
 | Comet Crasher | 112596 | [112596-comet-crasher.json](./112596-comet-crasher.json) |
 | Comet Crusher: Block Breaker | 169829 | [169829-comet-crusher-block-breaker.json](./169829-comet-crusher-block-breaker.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
@@ -19665,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Street Traffic Race | 105520 | [105520-crazy-street-traffic-race.json](./105520-crazy-street-traffic-race.json) |
 | Crazy Streets - Thrill Drive 4 | 65912 | [65912-crazy-streets-thrill-drive-4.json](./65912-crazy-streets-thrill-drive-4.json) |
 | Crazy Strike Bowling | 64700 | [64700-crazy-strike-bowling.json](./64700-crazy-strike-bowling.json) |
+| Crazy Strike Bowling EX | 52164 | [52164-crazy-strike-bowling-ex.json](./52164-crazy-strike-bowling-ex.json) |
 | Crazy Stunt Driver: Extreme Racing Simulator | 300859 | [300859-crazy-stunt-driver-extreme-racing-simulator.json](./300859-crazy-stunt-driver-extreme-racing-simulator.json) |
 | Crazy Sudoku | 85056 | [85056-crazy-sudoku.json](./85056-crazy-sudoku.json) |
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
