@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor Strike | 142097 | [142097-sailor-strike.json](./142097-sailor-strike.json) |
+| Sailor Strong: Iron Fist Fight Pinball | 426329 | [426329-sailor-strong-iron-fist-fight-pinball.json](./426329-sailor-strong-iron-fist-fight-pinball.json) |
 | Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
 | Sailor's Grave | 323572 | [323572-sailors-grave.json](./323572-sailors-grave.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
@@ -9987,6 +9988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Tears | 43663 | [43663-shining-tears.json](./43663-shining-tears.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
+| Shining Wind X | 426685 | [426685-shining-wind-x.json](./426685-shining-wind-x.json) |
 | Shining Wisdom | 46059 | [46059-shining-wisdom.json](./46059-shining-wisdom.json) |
 | Shinisagi | 120444 | [120444-shinisagi.json](./120444-shinisagi.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
@@ -19007,6 +19009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solanaceae: After All | 216530 | [216530-solanaceae-after-all.json](./216530-solanaceae-after-all.json) |
 | Solanaceae: Another Time | 225251 | [225251-solanaceae-another-time.json](./225251-solanaceae-another-time.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
+| Solantis | 426318 | [426318-solantis.json](./426318-solantis.json) |
 | Solar | 421037 | [421037-solar.json](./421037-solar.json) |
 | Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
@@ -21453,6 +21456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Naufrágio | 405498 | [405498-sos-naufragio.json](./405498-sos-naufragio.json) |
 | SOS OPS! | 258837 | [258837-sos-ops.json](./258837-sos-ops.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
+| SOS OPS!: Overbooked | 426331 | [426331-sos-ops-overbooked.json](./426331-sos-ops-overbooked.json) |
 | SOS Snake | 184554 | [184554-sos-snake.json](./184554-sos-snake.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
@@ -21918,6 +21922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls of Purgatory | 148194 | [148194-souls-of-purgatory.json](./148194-souls-of-purgatory.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls of Tartarus | 226619 | [226619-souls-of-tartarus.json](./226619-souls-of-tartarus.json) |
+| Souls of the Reaper | 426837 | [426837-souls-of-the-reaper.json](./426837-souls-of-the-reaper.json) |
 | Souls of the Wind | 147069 | [147069-souls-of-the-wind.json](./147069-souls-of-the-wind.json) |
 | Souls of White Star | 369258 | [369258-souls-of-white-star.json](./369258-souls-of-white-star.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
@@ -29259,6 +29264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Astronaut Rescue | 16879 | [16879-starlite-astronaut-rescue.json](./16879-starlite-astronaut-rescue.json) |
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
+| Starlock Arcana | 426839 | [426839-starlock-arcana.json](./426839-starlock-arcana.json) |
 | Starlocked | 410636 | [410636-starlocked.json](./410636-starlocked.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | Starlord | 12780 | [12780-starlord.json](./12780-starlord.json) |
@@ -31202,6 +31208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType Ultimate Bundle | 218461 | [218461-sticktype-ultimate-bundle.json](./218461-sticktype-ultimate-bundle.json) |
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
+| Stickup Willie | 426401 | [426401-stickup-willie.json](./426401-stickup-willie.json) |
 | Stickville | 424446 | [424446-stickville.json](./424446-stickville.json) |
 | Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 208765 | [208765-sticky-balls.json](./208765-sticky-balls.json) |
@@ -33056,6 +33063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Suit Zero: Collectors Edition | 54407 | [54407-strike-suit-zero-collectors-edition.json](./54407-strike-suit-zero-collectors-edition.json) |
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
 | Strike Tactics | 80702 | [80702-strike-tactics.json](./80702-strike-tactics.json) |
+| Strike Team 6 | 426838 | [426838-strike-team-6.json](./426838-strike-team-6.json) |
 | Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
 | Strike Team Hydra | 76365 | [76365-strike-team-hydra.json](./76365-strike-team-hydra.json) |
