@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagnacure | 213197 | [213197-lagnacure.json](./213197-lagnacure.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoda Odyssey | 231583 | [231583-lagoda-odyssey.json](./231583-lagoda-odyssey.json) |
+| Lagom: Tidy Up the Coffee Shop | 430955 | [430955-lagom-tidy-up-the-coffee-shop.json](./430955-lagom-tidy-up-the-coffee-shop.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon | 42617 | [42617-lagoon.json](./42617-lagoon.json) |
 | Lagoon Lounge 2: The Secret Roommate | 290804 | [290804-lagoon-lounge-2-the-secret-roommate.json](./290804-lagoon-lounge-2-the-secret-roommate.json) |
@@ -1073,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern of Worlds: Layla's Quest | 368275 | [368275-lantern-of-worlds-laylas-quest.json](./368275-lantern-of-worlds-laylas-quest.json) |
 | Lantern Push | 391838 | [391838-lantern-push.json](./391838-lantern-push.json) |
 | Lanternfall | 425131 | [425131-lanternfall.json](./425131-lanternfall.json) |
+| Lanternfall | 430942 | [430942-lanternfall.json](./430942-lanternfall.json) |
 | Lanternia | 277987 | [277987-lanternia.json](./277987-lanternia.json) |
 | Lanternium | 51447 | [51447-lanternium.json](./51447-lanternium.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
@@ -1371,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ascender | 413985 | [413985-last-ascender.json](./413985-last-ascender.json) |
 | Last Asylum | 398722 | [398722-last-asylum.json](./398722-last-asylum.json) |
 | Last Attendance: Hostel 13 | 427446 | [427446-last-attendance-hostel-13.json](./427446-last-attendance-hostel-13.json) |
+| Last Bake | 430184 | [430184-last-bake.json](./430184-last-bake.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
@@ -7721,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
 | Local Area Dungeon | 356860 | [356860-local-area-dungeon.json](./356860-local-area-dungeon.json) |
 | Local Call for Death | 55834 | [55834-local-call-for-death.json](./55834-local-call-for-death.json) |
+| Local Game Store Simulator | 429984 | [429984-local-game-store-simulator.json](./429984-local-game-store-simulator.json) |
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local News with Cliff Rockslide | 237725 | [237725-local-news-with-cliff-rockslide.json](./237725-local-news-with-cliff-rockslide.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
