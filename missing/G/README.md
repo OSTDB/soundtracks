@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geared for Fear | 219336 | [219336-geared-for-fear.json](./219336-geared-for-fear.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
 | Geareo | 408324 | [408324-geareo.json](./408324-geareo.json) |
+| Geargrave Outlands | 428172 | [428172-geargrave-outlands.json](./428172-geargrave-outlands.json) |
 | Geargrid Tile Match | 363639 | [363639-geargrid-tile-match.json](./363639-geargrid-tile-match.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
