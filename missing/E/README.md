@@ -805,7 +805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
 | Ecchi Dream Bundle | 385135 | [385135-ecchi-dream-bundle.json](./385135-ecchi-dream-bundle.json) |
 | Ecchi Fever | 320449 | [320449-ecchi-fever.json](./320449-ecchi-fever.json) |
-| Ecchi Girls | 114518 | [114518-ecchi-girls.json](./114518-ecchi-girls.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Cassie & Maud | 316208 | [316208-ecchi-memories-cassie-and-maud.json](./316208-ecchi-memories-cassie-and-maud.json) |
@@ -2206,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Hero | 333227 | [333227-el-hero.json](./333227-el-hero.json) |
 | El Hijo: A Wild West Tale | 25227 | [25227-el-hijo-a-wild-west-tale.json](./25227-el-hijo-a-wild-west-tale.json) |
 | El Hincha Rusia 2018 | 104053 | [104053-el-hincha-rusia-2018.json](./104053-el-hincha-rusia-2018.json) |
+| El Hombre que Susurraba a las Balas | 421486 | [421486-el-hombre-que-susurraba-a-las-balas.json](./421486-el-hombre-que-susurraba-a-las-balas.json) |
 | El Ídolo | 411379 | [411379-el-idolo.json](./411379-el-idolo.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Interrogatorio | 135564 | [135564-el-interrogatorio.json](./135564-el-interrogatorio.json) |
@@ -5951,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape DuckZ! | 329019 | [329019-escape-duckz.json](./329019-escape-duckz.json) |
 | Escape Enthusiast | 332007 | [332007-escape-enthusiast.json](./332007-escape-enthusiast.json) |
 | Escape Escape | 265373 | [265373-escape-escape.json](./265373-escape-escape.json) |
+| Escape Espacial | 421490 | [421490-escape-espacial.json](./421490-escape-espacial.json) |
 | Escape Everlit | 348372 | [348372-escape-everlit.json](./348372-escape-everlit.json) |
 | Escape Evolution | 179180 | [179180-escape-evolution.json](./179180-escape-evolution.json) |
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
@@ -7995,7 +7996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evermore Knights | 235096 | [235096-evermore-knights.json](./235096-evermore-knights.json) |
 | Evernight | 136517 | [136517-evernight.json](./136517-evernight.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
-| Everpath: A pixel art roguelite | 113516 | [113516-everpath-a-pixel-art-roguelite.json](./113516-everpath-a-pixel-art-roguelite.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
 | Everpixel Valley | 149746 | [149746-everpixel-valley.json](./149746-everpixel-valley.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
@@ -9422,7 +9422,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
 | Extellatchi | 230068 | [230068-extellatchi.json](./230068-extellatchi.json) |
-| Exteme School Driving Simulator | 114554 | [114554-exteme-school-driving-simulator.json](./114554-exteme-school-driving-simulator.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
@@ -9654,7 +9653,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tennis | 196385 | [196385-extreme-tennis.json](./196385-extreme-tennis.json) |
 | Extreme Terror | 262608 | [262608-extreme-terror.json](./262608-extreme-terror.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
-| Extreme Truck Simulator | 114510 | [114510-extreme-truck-simulator.json](./114510-extreme-truck-simulator.json) |
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
