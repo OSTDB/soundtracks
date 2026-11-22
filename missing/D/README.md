@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave-Man | 126517 | [126517-dave-man.json](./126517-dave-man.json) |
 | Dave.exe | 276020 | [276020-dave-exe.json](./276020-dave-exe.json) |
 | Dave's Fun Algebra Class: Remastered | 264794 | [264794-daves-fun-algebra-class-remastered.json](./264794-daves-fun-algebra-class-remastered.json) |
+| Dave's Questions | 427643 | [427643-daves-questions.json](./427643-daves-questions.json) |
 | Dave's Word Game | 381590 | [381590-daves-word-game.json](./381590-daves-word-game.json) |
 | Davey | 195580 | [195580-davey.json](./195580-davey.json) |
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
@@ -16788,6 +16789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2022 | 163625 | [163625-draft-day-sports-pro-basketball-2022.json](./163625-draft-day-sports-pro-basketball-2022.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Basketball 2024 | 273791 | [273791-draft-day-sports-pro-basketball-2024.json](./273791-draft-day-sports-pro-basketball-2024.json) |
+| Draft Day Sports: Pro Basketball 2025 | 428012 | [428012-draft-day-sports-pro-basketball-2025.json](./428012-draft-day-sports-pro-basketball-2025.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
@@ -18892,6 +18894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams and Nightmares | 146277 | [146277-dreams-and-nightmares.json](./146277-dreams-and-nightmares.json) |
 | Dreams Chronicles | 21759 | [21759-dreams-chronicles.json](./21759-dreams-chronicles.json) |
 | Dreams Creator | 118197 | [118197-dreams-creator.json](./118197-dreams-creator.json) |
+| Dreams in Azure: The Dawn Arc | 427893 | [427893-dreams-in-azure-the-dawn-arc.json](./427893-dreams-in-azure-the-dawn-arc.json) |
 | Dreams in the Witch House | 197158 | [197158-dreams-in-the-witch-house.json](./197158-dreams-in-the-witch-house.json) |
 | Dreams Keeper Solitaire | 138497 | [138497-dreams-keeper-solitaire.json](./138497-dreams-keeper-solitaire.json) |
 | Dreams of a Geisha | 264700 | [264700-dreams-of-a-geisha.json](./264700-dreams-of-a-geisha.json) |
