@@ -5647,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants To Be A Millionaire?: Tintin Pack | 296250 | [296250-who-wants-to-be-a-millionaire-tintin-pack.json](./296250-who-wants-to-be-a-millionaire-tintin-pack.json) |
 | Who Wants to Be a Millionaire?: Trivia Bundle | 305616 | [305616-who-wants-to-be-a-millionaire-trivia-bundle.json](./305616-who-wants-to-be-a-millionaire-trivia-bundle.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
+| Who Wants to Be Human? | 425472 | [425472-who-wants-to-be-human.json](./425472-who-wants-to-be-human.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Beat Up a Millionaire | 45848 | [45848-who-wants-to-beat-up-a-millionaire.json](./45848-who-wants-to-beat-up-a-millionaire.json) |
 | Who Wants to Destroy an Alien | 107515 | [107515-who-wants-to-destroy-an-alien.json](./107515-who-wants-to-destroy-an-alien.json) |
