@@ -7817,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Svardilfari, Clan of the Horse | 154199 | [154199-northgard-svardilfari-clan-of-the-horse.json](./154199-northgard-svardilfari-clan-of-the-horse.json) |
 | Northgard: The Viking Age Edition | 145535 | [145535-northgard-the-viking-age-edition.json](./145535-northgard-the-viking-age-edition.json) |
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
+| Northgate Dispatch | 427635 | [427635-northgate-dispatch.json](./427635-northgate-dispatch.json) |
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
 | Northland Heroes: The Missing Druid | 199705 | [199705-northland-heroes-the-missing-druid.json](./199705-northland-heroes-the-missing-druid.json) |
 | Northmen | 429037 | [429037-northmen.json](./429037-northmen.json) |
