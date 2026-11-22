@@ -7281,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
 | Maze Rescue | 28381 | [28381-maze-rescue.json](./28381-maze-rescue.json) |
+| Maze Revolver | 426677 | [426677-maze-revolver.json](./426677-maze-revolver.json) |
 | Maze Roller | 32203 | [32203-maze-roller.json](./32203-maze-roller.json) |
 | Maze Run VR | 55416 | [55416-maze-run-vr.json](./55416-maze-run-vr.json) |
 | Maze Runner | 203741 | [203741-maze-runner.json](./203741-maze-runner.json) |
@@ -12766,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
 | Microvolts: Recharged - 2025 Spring Season Starter Pack: Platinum | 426220 | [426220-microvolts-recharged-2025-spring-season-starter-pack-platinum.json](./426220-microvolts-recharged-2025-spring-season-starter-pack-platinum.json) |
+| Microvolts: Recharged - 2026 Spring Season Starter Pack: Gold | 426326 | [426326-microvolts-recharged-2026-spring-season-starter-pack-gold.json](./426326-microvolts-recharged-2026-spring-season-starter-pack-gold.json) |
 | Microvolts: Recharged - 2026 Spring Season Starter Pack: Platinum | 426616 | [426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json](./426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json) |
 | Microvolts: Recharged - Starter Pack: Silver 2 | 311401 | [311401-microvolts-recharged-starter-pack-silver-2.json](./311401-microvolts-recharged-starter-pack-silver-2.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
@@ -18373,6 +18375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
 | Monster Hunter Wilds: Gesture Set Vol. 9 | 427975 | [427975-monster-hunter-wilds-gesture-set-vol-9.json](./427975-monster-hunter-wilds-gesture-set-vol-9.json) |
 | Monster Hunter Wilds: Premium Deluxe Edition | 334113 | [334113-monster-hunter-wilds-premium-deluxe-edition.json](./334113-monster-hunter-wilds-premium-deluxe-edition.json) |
+| Monster Hunter Wilds: Seikret Decoration - Spooky Doll Caparison | 426325 | [426325-monster-hunter-wilds-seikret-decoration-spooky-doll-caparison.json](./426325-monster-hunter-wilds-seikret-decoration-spooky-doll-caparison.json) |
 | Monster Hunter Wilds: Title Update 1 | 338636 | [338636-monster-hunter-wilds-title-update-1.json](./338636-monster-hunter-wilds-title-update-1.json) |
 | Monster Hunter Wilds: Title Update 2 | 338637 | [338637-monster-hunter-wilds-title-update-2.json](./338637-monster-hunter-wilds-title-update-2.json) |
 | Monster Hunter Wilds: Title Update 3 | 351310 | [351310-monster-hunter-wilds-title-update-3.json](./351310-monster-hunter-wilds-title-update-3.json) |
