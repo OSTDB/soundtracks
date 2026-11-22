@@ -2232,7 +2232,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
 | Fantasy General II: Evolution | 154502 | [154502-fantasy-general-ii-evolution.json](./154502-fantasy-general-ii-evolution.json) |
-| Fantasy General II: Invasion | 117194 | [117194-fantasy-general-ii-invasion.json](./117194-fantasy-general-ii-invasion.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
 | Fantasy General II: Onslaught | 154500 | [154500-fantasy-general-ii-onslaught.json](./154500-fantasy-general-ii-onslaught.json) |
 | Fantasy Girl | 136423 | [136423-fantasy-girl.json](./136423-fantasy-girl.json) |
@@ -2434,7 +2433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Sliding Puzzle 4 | 189970 | [189970-fantasy-sliding-puzzle-4.json](./189970-fantasy-sliding-puzzle-4.json) |
 | Fantasy Sliding Puzzle 5 | 286462 | [286462-fantasy-sliding-puzzle-5.json](./286462-fantasy-sliding-puzzle-5.json) |
 | Fantasy Slots: Adventure Slots and Games | 60449 | [60449-fantasy-slots-adventure-slots-and-games.json](./60449-fantasy-slots-adventure-slots-and-games.json) |
-| Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Solitaire: Card Match | 232106 | [232106-fantasy-solitaire-card-match.json](./232106-fantasy-solitaire-card-match.json) |
 | Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
 | Fantasy Sports | 90864 | [90864-fantasy-sports.json](./90864-fantasy-sports.json) |
@@ -3537,7 +3535,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Dragons | 88885 | [88885-fat-dragons.json](./88885-fat-dragons.json) |
-| Fat Dude Simulator | 117567 | [117567-fat-dude-simulator.json](./117567-fat-dude-simulator.json) |
 | Fat fat evil cat | 413153 | [413153-fat-fat-evil-cat.json](./413153-fat-fat-evil-cat.json) |
 | Fat Fleet | 396530 | [396530-fat-fleet.json](./396530-fat-fleet.json) |
 | Fat Foods | 82002 | [82002-fat-foods.json](./82002-fat-foods.json) |
@@ -4886,7 +4883,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fiddler's Wood | 323615 | [323615-fiddlers-wood.json](./323615-fiddlers-wood.json) |
 | Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
-| Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fidelium Automata | 183256 | [183256-fidelium-automata.json](./183256-fidelium-automata.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget | 412506 | [412506-fidget.json](./412506-fidget.json) |
@@ -5386,7 +5382,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Destiny | 3496 | [3496-fighters-destiny.json](./3496-fighters-destiny.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
-| Fighters Legacy | 114835 | [114835-fighters-legacy.json](./114835-fighters-legacy.json) |
 | Fighters Megamix | 1550 | [1550-fighters-megamix.json](./1550-fighters-megamix.json) |
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
@@ -8597,7 +8592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Fetus | 23162 | [23162-flappy-fetus.json](./23162-flappy-fetus.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
-| Flappy Flappy VR | 114881 | [114881-flappy-flappy-vr.json](./114881-flappy-flappy-vr.json) |
 | Flappy Galaxy | 74184 | [74184-flappy-galaxy.json](./74184-flappy-galaxy.json) |
 | Flappy Galaxy: Master Level | 171211 | [171211-flappy-galaxy-master-level.json](./171211-flappy-galaxy-master-level.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
@@ -11459,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
+| Forg Want Love | 427024 | [427024-forg-want-love.json](./427024-forg-want-love.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
 | Forge | 280963 | [280963-forge.json](./280963-forge.json) |
 | Forge | 326884 | [326884-forge.json](./326884-forge.json) |
@@ -13249,6 +13244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Dimension | 113514 | [113514-frantic-dimension.json](./113514-frantic-dimension.json) |
 | Frantic Fall | 197985 | [197985-frantic-fall.json](./197985-frantic-fall.json) |
 | Frantic Fanfic | 147175 | [147175-frantic-fanfic.json](./147175-frantic-fanfic.json) |
+| Frantic Far West | 427327 | [427327-frantic-far-west.json](./427327-frantic-far-west.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Frantic Frankfurt | 241595 | [241595-frantic-frankfurt.json](./241595-frantic-frankfurt.json) |
 | Frantic Fred | 281669 | [281669-frantic-fred.json](./281669-frantic-fred.json) |
