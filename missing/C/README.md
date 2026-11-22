@@ -15972,6 +15972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conscious Existence - A Journey Within | 119690 | [119690-conscious-existence-a-journey-within.json](./119690-conscious-existence-a-journey-within.json) |
 | Conscript | 137619 | [137619-conscript.json](./137619-conscript.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
+| Conscript: Director’s Cut | 425095 | [425095-conscript-director-s-cut.json](./425095-conscript-director-s-cut.json) |
 | Conscript: Golden Gun Pack | 332002 | [332002-conscript-golden-gun-pack.json](./332002-conscript-golden-gun-pack.json) |
 | Conscript: Officer Edition | 384585 | [384585-conscript-officer-edition.json](./384585-conscript-officer-edition.json) |
 | Conscript: Trench Raider Pack | 308838 | [308838-conscript-trench-raider-pack.json](./308838-conscript-trench-raider-pack.json) |
@@ -18389,6 +18390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozmic Fantasy: Bouken Shounen Yuu | 251495 | [251495-cozmic-fantasy-bouken-shounen-yuu.json](./251495-cozmic-fantasy-bouken-shounen-yuu.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
 | Cozy Adventures | 353574 | [353574-cozy-adventures.json](./353574-cozy-adventures.json) |
+| Cozy Airways | 425084 | [425084-cozy-airways.json](./425084-cozy-airways.json) |
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Banker | 413294 | [413294-cozy-banker.json](./413294-cozy-banker.json) |
