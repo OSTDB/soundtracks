@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feral Fury | 30735 | [30735-feral-fury.json](./30735-feral-fury.json) |
 | Feral Hearts | 198326 | [198326-feral-hearts.json](./198326-feral-hearts.json) |
 | Feral Prince | 420157 | [420157-feral-prince.json](./420157-feral-prince.json) |
+| Feral Rites | 23955 | [23955-feral-rites.json](./23955-feral-rites.json) |
 | Feral Road | 430712 | [430712-feral-road.json](./430712-feral-road.json) |
 | Feral Sense | 336978 | [336978-feral-sense.json](./336978-feral-sense.json) |
 | Feralbound Online | 295827 | [295827-feralbound-online.json](./295827-feralbound-online.json) |
