@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieHunt | 86573 | [86573-zombiehunt.json](./86573-zombiehunt.json) |
 | ZombieHunterZ | 101335 | [101335-zombiehunterz.json](./101335-zombiehunterz.json) |
 | Zombieland: Headshot Fever | 145065 | [145065-zombieland-headshot-fever.json](./145065-zombieland-headshot-fever.json) |
+| Zombieland: Headshot Fever - Reloaded | 239423 | [239423-zombieland-headshot-fever-reloaded.json](./239423-zombieland-headshot-fever-reloaded.json) |
 | Zombieland: Survivors | 297758 | [297758-zombieland-survivors.json](./297758-zombieland-survivors.json) |
 | Zombielantis | 212070 | [212070-zombielantis.json](./212070-zombielantis.json) |
 | Zombiemachia | 345404 | [345404-zombiemachia.json](./345404-zombiemachia.json) |
