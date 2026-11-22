@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
 | Family Tennis | 221210 | [221210-family-tennis.json](./221210-family-tennis.json) |
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
+| Family Tennis | 80651 | [80651-family-tennis.json](./80651-family-tennis.json) |
 | Family Tennis 3D | 63701 | [63701-family-tennis-3d.json](./63701-family-tennis-3d.json) |
 | Family Tennis Advance | 49581 | [49581-family-tennis-advance.json](./49581-family-tennis-advance.json) |
 | Family Tennis SP | 85658 | [85658-family-tennis-sp.json](./85658-family-tennis-sp.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
+| Fantasy Quest Solitaire | 80984 | [80984-fantasy-quest-solitaire.json](./80984-fantasy-quest-solitaire.json) |
 | Fantasy Quest: Errandsaga | 298477 | [298477-fantasy-quest-errandsaga.json](./298477-fantasy-quest-errandsaga.json) |
 | Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Realm Online | 62401 | [62401-fantasy-realm-online.json](./62401-fantasy-realm-online.json) |
