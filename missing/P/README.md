@@ -6396,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phases | 398280 | [398280-phases.json](./398280-phases.json) |
 | Phaseshift | 175621 | [175621-phaseshift.json](./175621-phaseshift.json) |
 | PhaseWorm | 132477 | [132477-phaseworm.json](./132477-phaseworm.json) |
+| Phasewright | 428943 | [428943-phasewright.json](./428943-phasewright.json) |
 | Phasing | 184136 | [184136-phasing.json](./184136-phasing.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmophobia: Ascension | 268059 | [268059-phasmophobia-ascension.json](./268059-phasmophobia-ascension.json) |
@@ -7483,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikes and Pursestrings | 387291 | [387291-pikes-and-pursestrings.json](./387291-pikes-and-pursestrings.json) |
 | Pikes.io | 306978 | [306978-pikes-io.json](./306978-pikes-io.json) |
 | Piki 2 | 291559 | [291559-piki-2.json](./291559-piki-2.json) |
+| Pikifen | 429004 | [429004-pikifen.json](./429004-pikifen.json) |
 | Pikiinya! | 38144 | [38144-pikiinya.json](./38144-pikiinya.json) |
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
@@ -10967,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants Vs. Zombies 2: Project Eclise | 132131 | [132131-plants-vs-zombies-2-project-eclise.json](./132131-plants-vs-zombies-2-project-eclise.json) |
 | Plants vs. Zombies 2: Reflourished | 221859 | [221859-plants-vs-zombies-2-reflourished.json](./221859-plants-vs-zombies-2-reflourished.json) |
 | Plants vs. Zombies 2: Requiem | 272889 | [272889-plants-vs-zombies-2-requiem.json](./272889-plants-vs-zombies-2-requiem.json) |
+| Plants vs. Zombies 2: Shuttle | 429088 | [429088-plants-vs-zombies-2-shuttle.json](./429088-plants-vs-zombies-2-shuttle.json) |
 | Plants vs. Zombies 3: Welcome to Zomburbia | 120900 | [120900-plants-vs-zombies-3-welcome-to-zomburbia.json](./120900-plants-vs-zombies-3-welcome-to-zomburbia.json) |
 | Plants vs. Zombies 3D | 143989 | [143989-plants-vs-zombies-3d.json](./143989-plants-vs-zombies-3d.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
@@ -12437,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ambrosia | 337408 | [337408-pokemon-ambrosia.json](./337408-pokemon-ambrosia.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
 | Pokémon Ancestral X | 265983 | [265983-pokemon-ancestral-x.json](./265983-pokemon-ancestral-x.json) |
+| Pokémon Ancient Platinum | 429089 | [429089-pokemon-ancient-platinum.json](./429089-pokemon-ancient-platinum.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
 | Pokémon Añil | 241776 | [241776-pokemon-anil.json](./241776-pokemon-anil.json) |
@@ -15364,6 +15368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Maker | 119210 | [119210-potion-maker.json](./119210-potion-maker.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
+| Potion Pals | 429090 | [429090-potion-pals.json](./429090-potion-pals.json) |
 | Potion Panic 2 | 389200 | [389200-potion-panic-2.json](./389200-potion-panic-2.json) |
 | Potion Panic! | 389194 | [389194-potion-panic.json](./389194-potion-panic.json) |
 | Potion Panik | 309254 | [309254-potion-panik.json](./309254-potion-panik.json) |
@@ -18890,6 +18895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Quantum Leap | 221818 | [221818-project-quantum-leap.json](./221818-project-quantum-leap.json) |
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
+| Project: Radium | 429013 | [429013-project-radium.json](./429013-project-radium.json) |
 | Project: Ragnarok | 137284 | [137284-project-ragnarok.json](./137284-project-ragnarok.json) |
 | Project: Renzu | 335577 | [335577-project-renzu.json](./335577-project-renzu.json) |
 | Project: Rizz | 386077 | [386077-project-rizz.json](./386077-project-rizz.json) |
@@ -19064,6 +19070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property | 83593 | [83593-property.json](./83593-property.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
+| Property Flipper Tycoon | 429216 | [429216-property-flipper-tycoon.json](./429216-property-flipper-tycoon.json) |
 | Property Pro | 235549 | [235549-property-pro.json](./235549-property-pro.json) |
 | Property Rush | 423148 | [423148-property-rush.json](./423148-property-rush.json) |
 | Property Tycoon | 126184 | [126184-property-tycoon.json](./126184-property-tycoon.json) |
