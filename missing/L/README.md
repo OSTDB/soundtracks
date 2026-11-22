@@ -10773,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Boy | 193980 | [193980-lucky-boy.json](./193980-lucky-boy.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Burst | 148823 | [148823-lucky-burst.json](./148823-lucky-burst.json) |
+| Lucky Castaway | 425226 | [425226-lucky-castaway.json](./425226-lucky-castaway.json) |
 | Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
 | Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
