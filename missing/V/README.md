@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
 | VortX | 375264 | [375264-vortx.json](./375264-vortx.json) |
 | Vorum | 268163 | [268163-vorum.json](./268163-vorum.json) |
+| Vorynth: Ashfall | 425080 | [425080-vorynth-ashfall.json](./425080-vorynth-ashfall.json) |
 | Vorzain | 413494 | [413494-vorzain.json](./413494-vorzain.json) |
 | Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
