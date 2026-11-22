@@ -2523,7 +2523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Cleanup | 235510 | [235510-paranormal-cleanup.json](./235510-paranormal-cleanup.json) |
 | ParaNormal Commute | 237234 | [237234-paranormal-commute.json](./237234-paranormal-commute.json) |
 | Paranormal Cryptid Lovers | 228881 | [228881-paranormal-cryptid-lovers.json](./228881-paranormal-cryptid-lovers.json) |
-| Paranormal Detective: Escape from the 80's | 120813 | [120813-paranormal-detective-escape-from-the-80s.json](./120813-paranormal-detective-escape-from-the-80s.json) |
 | Paranormal Detective: Escape from the 90's | 152081 | [152081-paranormal-detective-escape-from-the-90s.json](./152081-paranormal-detective-escape-from-the-90s.json) |
 | Paranormal Enteties | 149367 | [149367-paranormal-enteties.json](./149367-paranormal-enteties.json) |
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
@@ -4867,7 +4866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentago! | 311350 | [311350-pentago.json](./311350-pentago.json) |
-| Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
 | Pentagons Go Weee | 195370 | [195370-pentagons-go-weee.json](./195370-pentagons-go-weee.json) |
 | Pentagorat | 178839 | [178839-pentagorat.json](./178839-pentagorat.json) |
 | Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
@@ -7624,7 +7622,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko Interactive Collection 4 | 291545 | [291545-piko-interactive-collection-4.json](./291545-piko-interactive-collection-4.json) |
-| Piko Piko | 118994 | [118994-piko-piko.json](./118994-piko-piko.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
 | Piko-Taro Official: Ppap Run! | 56778 | [56778-piko-taro-official-ppap-run.json](./56778-piko-taro-official-ppap-run.json) |
@@ -10825,7 +10822,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoid | 330907 | [330907-planetoid.json](./330907-planetoid.json) |
 | Planetoid Evasion | 310141 | [310141-planetoid-evasion.json](./310141-planetoid-evasion.json) |
 | Planetoid Pioneers | 27501 | [27501-planetoid-pioneers.json](./27501-planetoid-pioneers.json) |
-| Planetoid Pioneers Online | 119988 | [119988-planetoid-pioneers-online.json](./119988-planetoid-pioneers-online.json) |
 | Planetoidas | 178630 | [178630-planetoidas.json](./178630-planetoidas.json) |
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
@@ -11525,7 +11521,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Teach Me Onedari Shogi | 122504 | [122504-please-teach-me-onedari-shogi.json](./122504-please-teach-me-onedari-shogi.json) |
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
 | Please Tell Me You Love Me | 275464 | [275464-please-tell-me-you-love-me.json](./275464-please-tell-me-you-love-me.json) |
-| Please the Gods | 119590 | [119590-please-the-gods.json](./119590-please-the-gods.json) |
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please Weave the Red Stars Into a Shroud for Wrapping the Corpse | 392315 | [392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json](./392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json) |
 | Please, Come Back Before Winter | 216547 | [216547-please-come-back-before-winter.json](./216547-please-come-back-before-winter.json) |
@@ -15197,7 +15192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Scriptum CTG: Collectible Token Game | 129676 | [129676-post-scriptum-ctg-collectible-token-game.json](./129676-post-scriptum-ctg-collectible-token-game.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
-| Post Soviet Zombies | 120403 | [120403-post-soviet-zombies.json](./120403-post-soviet-zombies.json) |
 | Post Void | 133149 | [133149-post-void.json](./133149-post-void.json) |
 | Post War | 179419 | [179419-post-war.json](./179419-post-war.json) |
 | Post War Dreams | 28947 | [28947-post-war-dreams.json](./28947-post-war-dreams.json) |
@@ -17147,7 +17141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoner | 81185 | [81185-prisoner.json](./81185-prisoner.json) |
 | Prisoner 17 | 150044 | [150044-prisoner-17.json](./150044-prisoner-17.json) |
 | Prisoner 2 | 93192 | [93192-prisoner-2.json](./93192-prisoner-2.json) |
-| Prisoner 518 | 121172 | [121172-prisoner-518.json](./121172-prisoner-518.json) |
 | Prisoner Breaker | 372485 | [372485-prisoner-breaker.json](./372485-prisoner-breaker.json) |
 | Prisoner of Ice | 1605 | [1605-prisoner-of-ice.json](./1605-prisoner-of-ice.json) |
 | Prisoner of the Ephemeral Kingdom | 374741 | [374741-prisoner-of-the-ephemeral-kingdom.json](./374741-prisoner-of-the-ephemeral-kingdom.json) |
@@ -17327,7 +17320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2015 | 17837 | [17837-pro-cycling-manager-2015.json](./17837-pro-cycling-manager-2015.json) |
 | Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
 | Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
-| Pro Cycling Manager 2019 | 119029 | [119029-pro-cycling-manager-2019.json](./119029-pro-cycling-manager-2019.json) |
 | Pro Cycling Manager 2020 | 132335 | [132335-pro-cycling-manager-2020.json](./132335-pro-cycling-manager-2020.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
 | Pro Cycling Manager 2022 | 194715 | [194715-pro-cycling-manager-2022.json](./194715-pro-cycling-manager-2022.json) |
@@ -18557,7 +18549,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Retro Ninja | 179409 | [179409-project-retro-ninja.json](./179409-project-retro-ninja.json) |
 | Project Revenant | 368793 | [368793-project-revenant.json](./368793-project-revenant.json) |
 | Project Rhombus | 74633 | [74633-project-rhombus.json](./74633-project-rhombus.json) |
-| Project RIP | 121495 | [121495-project-rip.json](./121495-project-rip.json) |
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
@@ -19155,7 +19146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
 | Protectron 23 vs. the Alien Armada | 300591 | [300591-protectron-23-vs-the-alien-armada.json](./300591-protectron-23-vs-the-alien-armada.json) |
-| Protein for Muscle | 121962 | [121962-protein-for-muscle.json](./121962-protein-for-muscle.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Protest | 105692 | [105692-protest.json](./105692-protest.json) |
 | Protest Sim | 395342 | [395342-protest-sim.json](./395342-protest-sim.json) |
@@ -20705,7 +20695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
 | Put Back Stuff | 415627 | [415627-put-back-stuff.json](./415627-put-back-stuff.json) |
-| Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
 | Put it here | 291498 | [291498-put-it-here.json](./291498-put-it-here.json) |
 | Put My Gun Down! | 419021 | [419021-put-my-gun-down.json](./419021-put-my-gun-down.json) |
