@@ -4278,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame: Singularity | 92747 | [92747-endgame-singularity.json](./92747-endgame-singularity.json) |
 | Endgame: Survival | 213651 | [213651-endgame-survival.json](./213651-endgame-survival.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
+| Endheld | 425664 | [425664-endheld.json](./425664-endheld.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
 | Ending | 63174 | [63174-ending.json](./63174-ending.json) |
