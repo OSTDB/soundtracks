@@ -1483,6 +1483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Blox | 69444 | [69444-balance-blox.json](./69444-balance-blox.json) |
 | Balance Board | 254203 | [254203-balance-board.json](./254203-balance-board.json) |
 | Balance Breakers | 106690 | [106690-balance-breakers.json](./106690-balance-breakers.json) |
+| Balance Due | 427636 | [427636-balance-due.json](./427636-balance-due.json) |
 | Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
 | Balance in the Mountains | 116039 | [116039-balance-in-the-mountains.json](./116039-balance-in-the-mountains.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
@@ -10176,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Barber | 128174 | [128174-bizarre-barber.json](./128174-bizarre-barber.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
+| Bizarre Job Agency | 427892 | [427892-bizarre-job-agency.json](./427892-bizarre-job-agency.json) |
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
 | Bizarre Mushroom Cycle Simulator | 260337 | [260337-bizarre-mushroom-cycle-simulator.json](./260337-bizarre-mushroom-cycle-simulator.json) |
 | Bizarre Mutation World | 189857 | [189857-bizarre-mutation-world.json](./189857-bizarre-mutation-world.json) |
@@ -20279,6 +20281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker: The Underground Game | 35661 | [35661-bunker-the-underground-game.json](./35661-bunker-the-underground-game.json) |
 | Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
+| Bunkered | 427655 | [427655-bunkered.json](./427655-bunkered.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
 | BunkerRush | 101297 | [101297-bunkerrush.json](./101297-bunkerrush.json) |
 | BunkerSim | 77794 | [77794-bunkersim.json](./77794-bunkersim.json) |
