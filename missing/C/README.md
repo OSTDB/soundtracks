@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Cook My Last Meal? | 411753 | [411753-can-you-cook-my-last-meal.json](./411753-can-you-cook-my-last-meal.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape | 189033 | [189033-can-you-escape.json](./189033-can-you-escape.json) |
+| Can You Escape | 430873 | [430873-can-you-escape.json](./430873-can-you-escape.json) |
 | Can You Escape | 88475 | [88475-can-you-escape.json](./88475-can-you-escape.json) |
 | Can You Escape 2 | 182062 | [182062-can-you-escape-2.json](./182062-can-you-escape-2.json) |
 | Can You Escape Fate? A Zodiac Story | 377807 | [377807-can-you-escape-fate-a-zodiac-story.json](./377807-can-you-escape-fate-a-zodiac-story.json) |
@@ -2489,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
+| Car Flipper | 429954 | [429954-car-flipper.json](./429954-car-flipper.json) |
 | Car Flipper Simulator 25 | 328441 | [328441-car-flipper-simulator-25.json](./328441-car-flipper-simulator-25.json) |
 | Car Football | 385653 | [385653-car-football.json](./385653-car-football.json) |
 | Car For Sale Simulator 2023 | 233027 | [233027-car-for-sale-simulator-2023.json](./233027-car-for-sale-simulator-2023.json) |
@@ -12844,6 +12846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal Mining Inc. | 237653 | [237653-coal-mining-inc.json](./237653-coal-mining-inc.json) |
 | Coal Mining Simulator | 123805 | [123805-coal-mining-simulator.json](./123805-coal-mining-simulator.json) |
 | Coal Road | 303419 | [303419-coal-road.json](./303419-coal-road.json) |
+| Coal Rush 1990 | 430063 | [430063-coal-rush-1990.json](./430063-coal-rush-1990.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coala | 14622 | [14622-coala.json](./14622-coala.json) |
 | Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
