@@ -1445,7 +1445,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
 | Last Day of Fear | 77168 | [77168-last-day-of-fear.json](./77168-last-day-of-fear.json) |
-| Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
 | Last Day of Spring | 124392 | [124392-last-day-of-spring.json](./124392-last-day-of-spring.json) |
 | Last Day of Summer | 216575 | [216575-last-day-of-summer.json](./216575-last-day-of-summer.json) |
 | Last Day of Zombies | 247721 | [247721-last-day-of-zombies.json](./247721-last-day-of-zombies.json) |
@@ -1721,7 +1720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ranger | 418213 | [418213-last-ranger.json](./418213-last-ranger.json) |
 | Last Ranker | 38461 | [38461-last-ranker.json](./38461-last-ranker.json) |
 | Last Rebellion | 7363 | [7363-last-rebellion.json](./7363-last-rebellion.json) |
-| Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Resistance | 130482 | [130482-last-resistance.json](./130482-last-resistance.json) |
@@ -2984,7 +2982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Bricks | 175176 | [175176-legend-of-bricks.json](./175176-legend-of-bricks.json) |
 | Legend Of Calvas: The Acurine Heart | 272955 | [272955-legend-of-calvas-the-acurine-heart.json](./272955-legend-of-calvas-the-acurine-heart.json) |
 | Legend of Camelot | 66939 | [66939-legend-of-camelot.json](./66939-legend-of-camelot.json) |
-| Legend of Cenama | 120818 | [120818-legend-of-cenama.json](./120818-legend-of-cenama.json) |
 | Legend of Chilli Tree | 161160 | [161160-legend-of-chilli-tree.json](./161160-legend-of-chilli-tree.json) |
 | Legend of Cina | 116178 | [116178-legend-of-cina.json](./116178-legend-of-cina.json) |
 | Legend of Coin | 80874 | [80874-legend-of-coin.json](./80874-legend-of-coin.json) |
@@ -6702,7 +6699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Avenger | 212378 | [212378-little-avenger.json](./212378-little-avenger.json) |
 | Little Aviary | 350694 | [350694-little-aviary.json](./350694-little-aviary.json) |
-| Little Awesome Dudes | 121589 | [121589-little-awesome-dudes.json](./121589-little-awesome-dudes.json) |
 | Little Backpack | 407408 | [407408-little-backpack.json](./407408-little-backpack.json) |
 | Little Bartmares | 328955 | [328955-little-bartmares.json](./328955-little-bartmares.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
@@ -8799,7 +8795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbound | 338988 | [338988-lootbound.json](./338988-lootbound.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Incremental | 341261 | [341261-lootbox-incremental.json](./341261-lootbox-incremental.json) |
-| Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
 | Lootbox Lyfe+ | 238185 | [238185-lootbox-lyfe.json](./238185-lootbox-lyfe.json) |
 | Lootbox RPG | 175471 | [175471-lootbox-rpg.json](./175471-lootbox-rpg.json) |
 | Lootcraft | 126418 | [126418-lootcraft.json](./126418-lootcraft.json) |
@@ -9270,7 +9265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Eclipse | 351153 | [351153-lost-eclipse.json](./351153-lost-eclipse.json) |
 | Lost Ed | 156062 | [156062-lost-ed.json](./156062-lost-ed.json) |
 | Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
-| Lost Egg | 119792 | [119792-lost-egg.json](./119792-lost-egg.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
@@ -10081,7 +10075,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Distance | 143212 | [143212-love-in-the-distance.json](./143212-love-in-the-distance.json) |
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Glen: Deluxe Edition | 53291 | [53291-love-in-the-glen-deluxe-edition.json](./53291-love-in-the-glen-deluxe-edition.json) |
-| Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
 | Love In the Valley | 284745 | [284745-love-in-the-valley.json](./284745-love-in-the-valley.json) |
 | Love In Tiny Spaces | 325341 | [325341-love-in-tiny-spaces.json](./325341-love-in-tiny-spaces.json) |
@@ -11159,7 +11152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
 | Lumin: Echo of Spacetime | 423885 | [423885-lumin-echo-of-spacetime.json](./423885-lumin-echo-of-spacetime.json) |
 | Lumin's Path | 127712 | [127712-lumins-path.json](./127712-lumins-path.json) |
-| Lumina | 119091 | [119091-lumina.json](./119091-lumina.json) |
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Lumina | 355599 | [355599-lumina.json](./355599-lumina.json) |
 | Lumina Rush | 289829 | [289829-lumina-rush.json](./289829-lumina-rush.json) |
@@ -11822,7 +11814,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyrical Letters | 241583 | [241583-lyrical-letters.json](./241583-lyrical-letters.json) |
 | Lyrvane Park | 374291 | [374291-lyrvane-park.json](./374291-lyrvane-park.json) |
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
-| Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
 | Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
 | Lysfangha | 153575 | [153575-lysfangha.json](./153575-lysfangha.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
