@@ -1132,7 +1132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 80258 | [80258-galaxy-trek.json](./80258-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy Trucker Pocket | 200218 | [200218-galaxy-trucker-pocket.json](./200218-galaxy-trucker-pocket.json) |
-| Galaxy Trucker: Extended Edition | 115130 | [115130-galaxy-trucker-extended-edition.json](./115130-galaxy-trucker-extended-edition.json) |
 | Galaxy Union | 35402 | [35402-galaxy-union.json](./35402-galaxy-union.json) |
 | Galaxy Unwritten | 427653 | [427653-galaxy-unwritten.json](./427653-galaxy-unwritten.json) |
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
@@ -1304,7 +1303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Shifter | 244462 | [244462-gambit-shifter.json](./244462-gambit-shifter.json) |
 | Gambit Shifter: Surrealm | 322718 | [322718-gambit-shifter-surrealm.json](./322718-gambit-shifter-surrealm.json) |
 | Gambit! | 193173 | [193173-gambit.json](./193173-gambit.json) |
-| Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
 | Gamble Hourouki | 56928 | [56928-gamble-hourouki.json](./56928-gamble-hourouki.json) |
 | Gamble Hunters | 422253 | [422253-gamble-hunters.json](./422253-gamble-hunters.json) |
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
@@ -2147,7 +2145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Merging Numbers | 342398 | [342398-garden-of-merging-numbers.json](./342398-garden-of-merging-numbers.json) |
-| Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Oblivion | 387155 | [387155-garden-of-oblivion.json](./387155-garden-of-oblivion.json) |
 | Garden of Oblivion | 57207 | [57207-garden-of-oblivion.json](./57207-garden-of-oblivion.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
@@ -2847,7 +2844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearshifters | 157821 | [157821-gearshifters.json](./157821-gearshifters.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
 | Gearspark | 385450 | [385450-gearspark.json](./385450-gearspark.json) |
-| GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | GearToyGear | 237615 | [237615-geartoygear.json](./237615-geartoygear.json) |
 | Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
@@ -3240,7 +3236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
 | GeneRally 2 | 233559 | [233559-generally-2.json](./233559-generally-2.json) |
 | Generals | 141672 | [141672-generals.json](./141672-generals.json) |
-| Generals & Rulers | 118117 | [118117-generals-and-rulers.json](./118117-generals-and-rulers.json) |
 | Generals. Positional Warfare | 151350 | [151350-generals-positional-warfare.json](./151350-generals-positional-warfare.json) |
 | Generals.io | 56290 | [56290-generals-io.json](./56290-generals-io.json) |
 | Generalskie kotly | 404781 | [404781-generalskie-kotly.json](./404781-generalskie-kotly.json) |
@@ -4294,7 +4289,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Girl Lasling: Chibi Stickers | 291134 | [291134-ghost-girl-lasling-chibi-stickers.json](./291134-ghost-girl-lasling-chibi-stickers.json) |
 | Ghost Girl Room | 98609 | [98609-ghost-girl-room.json](./98609-ghost-girl-room.json) |
 | Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
-| Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
 | Ghost Guidance | 387922 | [387922-ghost-guidance.json](./387922-ghost-guidance.json) |
 | Ghost Gunners | 367822 | [367822-ghost-gunners.json](./367822-ghost-gunners.json) |
@@ -5272,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Deffence | 129298 | [129298-girls-deffence.json](./129298-girls-deffence.json) |
 | Girls Divers | 259507 | [259507-girls-divers.json](./259507-girls-divers.json) |
 | Girls don't like me | 182905 | [182905-girls-dont-like-me.json](./182905-girls-dont-like-me.json) |
+| Girls Echo | 427001 | [427001-girls-echo.json](./427001-girls-echo.json) |
 | Girls Eliminate | 405336 | [405336-girls-eliminate.json](./405336-girls-eliminate.json) |
 | Girls Fashion 3D: Mezase! Top Stylist | 222331 | [222331-girls-fashion-3d-mezase-top-stylist.json](./222331-girls-fashion-3d-mezase-top-stylist.json) |
 | Girls for Sex for Cyberpunk Sex | 288243 | [288243-girls-for-sex-for-cyberpunk-sex.json](./288243-girls-for-sex-for-cyberpunk-sex.json) |
@@ -5624,7 +5619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassfall | 250017 | [250017-glassfall.json](./250017-glassfall.json) |
 | Glassfish Bomb | 243074 | [243074-glassfish-bomb.json](./243074-glassfish-bomb.json) |
 | Glasshouse | 236321 | [236321-glasshouse.json](./236321-glasshouse.json) |
-| GlassSmash | 117114 | [117114-glasssmash.json](./117114-glasssmash.json) |
 | GlassSmash 2 | 162438 | [162438-glasssmash-2.json](./162438-glasssmash-2.json) |
 | Glassteroids | 111588 | [111588-glassteroids.json](./111588-glassteroids.json) |
 | Glasswake | 419294 | [419294-glasswake.json](./419294-glasswake.json) |
@@ -7614,7 +7608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails 3: The Guardian's Creed | 89731 | [89731-golden-trails-3-the-guardians-creed.json](./89731-golden-trails-3-the-guardians-creed.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
-| Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Golden Trivia Show | 424745 | [424745-golden-trivia-show.json](./424745-golden-trivia-show.json) |
 | Golden Underfoot | 189890 | [189890-golden-underfoot.json](./189890-golden-underfoot.json) |
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
@@ -9642,6 +9635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravefire Tavern | 423242 | [423242-gravefire-tavern.json](./423242-gravefire-tavern.json) |
 | Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
+| Gravehoard | 427006 | [427006-gravehoard.json](./427006-gravehoard.json) |
 | Gravehold: Survival | 399136 | [399136-gravehold-survival.json](./399136-gravehold-survival.json) |
 | GraveKeeper Academy | 185043 | [185043-gravekeeper-academy.json](./185043-gravekeeper-academy.json) |
 | Gravel | 27514 | [27514-gravel.json](./27514-gravel.json) |
@@ -11393,7 +11387,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grosseries | 357532 | [357532-grosseries.json](./357532-grosseries.json) |
 | Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
 | Grotesk | 405312 | [405312-grotesk.json](./405312-grotesk.json) |
-| Grotesque Beauty | 117206 | [117206-grotesque-beauty.json](./117206-grotesque-beauty.json) |
 | Grotesque Insight | 258622 | [258622-grotesque-insight.json](./258622-grotesque-insight.json) |
 | Grotesque Realm | 225205 | [225205-grotesque-realm.json](./225205-grotesque-realm.json) |
 | Grotesque Tactics 2: Dungeons and Donuts | 16149 | [16149-grotesque-tactics-2-dungeons-and-donuts.json](./16149-grotesque-tactics-2-dungeons-and-donuts.json) |
@@ -11627,7 +11620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt 1991 | 236144 | [236144-grunt-1991.json](./236144-grunt-1991.json) |
 | Grunt's Castle | 376166 | [376166-grunts-castle.json](./376166-grunts-castle.json) |
-| Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Grunty's Mansion | 267251 | [267251-gruntys-mansion.json](./267251-gruntys-mansion.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gruntz | 427677 | [427677-gruntz.json](./427677-gruntz.json) |
@@ -13068,6 +13060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolution | 420151 | [420151-gunvolution.json](./420151-gunvolution.json) |
 | GunWagon | 191920 | [191920-gunwagon.json](./191920-gunwagon.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
+| Gunworks | 427328 | [427328-gunworks.json](./427328-gunworks.json) |
 | GunWorld | 24561 | [24561-gunworld.json](./24561-gunworld.json) |
 | GunWorld 2 | 22723 | [22723-gunworld-2.json](./22723-gunworld-2.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
