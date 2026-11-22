@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tchunk | 323437 | [323437-tchunk.json](./323437-tchunk.json) |
 | TCM Racing 2 | 380730 | [380730-tcm-racing-2.json](./380730-tcm-racing-2.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
+| TCSCC Recomp | 429462 | [429462-tcscc-recomp.json](./429462-tcscc-recomp.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Designer | 286306 | [286306-td-designer.json](./286306-td-designer.json) |
 | TD GoGoGo | 200825 | [200825-td-gogogo.json](./200825-td-gogogo.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
 | Tech Shop Simulator | 295762 | [295762-tech-shop-simulator.json](./295762-tech-shop-simulator.json) |
 | Tech Store Simulator | 310356 | [310356-tech-store-simulator.json](./310356-tech-store-simulator.json) |
+| Tech Store Simulator | 430104 | [430104-tech-store-simulator.json](./430104-tech-store-simulator.json) |
 | Tech Support 2077 | 123957 | [123957-tech-support-2077.json](./123957-tech-support-2077.json) |
 | Tech Support: Error Unknown | 87975 | [87975-tech-support-error-unknown.json](./87975-tech-support-error-unknown.json) |
 | Tech vs Magic | 126480 | [126480-tech-vs-magic.json](./126480-tech-vs-magic.json) |
@@ -4163,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleporter | 109812 | [109812-teleporter.json](./109812-teleporter.json) |
 | Teleportia | 286358 | [286358-teleportia.json](./286358-teleportia.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
+| Telera | 429826 | [429826-telera.json](./429826-telera.json) |
 | Teleroboxer | 20984 | [20984-teleroboxer.json](./20984-teleroboxer.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
@@ -16669,6 +16672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The NTR Pregnancy Hunting Adventure of Karen: Whose Seed Will Wife Get Pregnant Of | 82734 | [82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json](./82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json) |
 | The Nuclear Factory | 327140 | [327140-the-nuclear-factory.json](./327140-the-nuclear-factory.json) |
+| The Nugget | 429531 | [429531-the-nugget.json](./429531-the-nugget.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
 | The Null Hypothesis | 346937 | [346937-the-null-hypothesis.json](./346937-the-null-hypothesis.json) |
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
@@ -24265,6 +24269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidebreak | 427269 | [427269-tidebreak.json](./427269-tidebreak.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
 | TideBroker | 398776 | [398776-tidebroker.json](./398776-tidebroker.json) |
+| Tidefall | 430254 | [430254-tidefall.json](./430254-tidefall.json) |
 | Tidehaven: Ale & Trade | 349078 | [349078-tidehaven-ale-and-trade.json](./349078-tidehaven-ale-and-trade.json) |
 | Tideheart | 420221 | [420221-tideheart.json](./420221-tideheart.json) |
 | Tidekeeper | 318345 | [318345-tidekeeper.json](./318345-tidekeeper.json) |
@@ -27422,6 +27427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Vending Machines | 349068 | [349068-tiny-vending-machines.json](./349068-tiny-vending-machines.json) |
 | Tiny Vikings | 276813 | [276813-tiny-vikings.json](./276813-tiny-vikings.json) |
 | Tiny Village | 368263 | [368263-tiny-village.json](./368263-tiny-village.json) |
+| Tiny Village | 430932 | [430932-tiny-village.json](./430932-tiny-village.json) |
 | Tiny Vinyard | 384488 | [384488-tiny-vinyard.json](./384488-tiny-vinyard.json) |
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
