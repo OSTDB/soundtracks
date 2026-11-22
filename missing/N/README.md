@@ -8285,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novus AEterno | 5149 | [5149-novus-aeterno.json](./5149-novus-aeterno.json) |
 | Novus Campis | 116727 | [116727-novus-campis.json](./116727-novus-campis.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
+| Novus Inceptio | 34857 | [34857-novus-inceptio.json](./34857-novus-inceptio.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
