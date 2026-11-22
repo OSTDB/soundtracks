@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Mayhem II | 100361 | [100361-major-mayhem-ii.json](./100361-major-mayhem-ii.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
 | Major Motion | 15255 | [15255-major-motion.json](./15255-major-motion.json) |
+| Major Mutt | 423448 | [423448-major-mutt.json](./423448-major-mutt.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
 | Major Stryker | 35504 | [35504-major-stryker.json](./35504-major-stryker.json) |
 | Major Title | 40363 | [40363-major-title.json](./40363-major-title.json) |
@@ -23188,6 +23189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP 26: Fox Holeshot Edition | 428536 | [428536-mxgp-26-fox-holeshot-edition.json](./428536-mxgp-26-fox-holeshot-edition.json) |
 | MXGP 26: The Official Game | 410677 | [410677-mxgp-26-the-official-game.json](./410677-mxgp-26-the-official-game.json) |
+| MXGP 26: The Official Game - Scrubdesignz Liveries | 424471 | [424471-mxgp-26-the-official-game-scrubdesignz-liveries.json](./424471-mxgp-26-the-official-game-scrubdesignz-liveries.json) |
 | MXGP Motocross Rush | 251736 | [251736-mxgp-motocross-rush.json](./251736-mxgp-motocross-rush.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
 | MXGP: The Official Motocross Videogame | 7692 | [7692-mxgp-the-official-motocross-videogame.json](./7692-mxgp-the-official-motocross-videogame.json) |
