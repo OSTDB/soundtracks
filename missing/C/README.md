@@ -295,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caelus Trident | 116509 | [116509-caelus-trident.json](./116509-caelus-trident.json) |
 | Caemdale | 369492 | [369492-caemdale.json](./369492-caemdale.json) |
+| Caerlin: Rising - Season 1 | 426253 | [426253-caerlin-rising-season-1.json](./426253-caerlin-rising-season-1.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Bubbles | 106883 | [106883-caesar-bubbles.json](./106883-caesar-bubbles.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
@@ -18241,6 +18242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cover Orange Players Pack 2 | 403311 | [403311-cover-orange-players-pack-2.json](./403311-cover-orange-players-pack-2.json) |
 | Cover Orange Players Pack 3 | 403355 | [403355-cover-orange-players-pack-3.json](./403355-cover-orange-players-pack-3.json) |
 | Cover Sky | 121077 | [121077-cover-sky.json](./121077-cover-sky.json) |
+| Cover Story | 426137 | [426137-cover-story.json](./426137-cover-story.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | Cover Your Eyes | 127161 | [127161-cover-your-eyes.json](./127161-cover-your-eyes.json) |
 | Cover Yourself in Blood | 279163 | [279163-cover-yourself-in-blood.json](./279163-cover-yourself-in-blood.json) |
