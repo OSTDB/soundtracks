@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
 | Quest of the Hero | 348988 | [348988-quest-of-the-hero.json](./348988-quest-of-the-hero.json) |
 | Quest of the Space Beagle | 24678 | [24678-quest-of-the-space-beagle.json](./24678-quest-of-the-space-beagle.json) |
+| Quest of Vidhuraa | 99591 | [99591-quest-of-vidhuraa.json](./99591-quest-of-vidhuraa.json) |
 | Quest of Wizard | 188909 | [188909-quest-of-wizard.json](./188909-quest-of-wizard.json) |
 | Quest of Yipe! | 139159 | [139159-quest-of-yipe.json](./139159-quest-of-yipe.json) |
 | Quest of Yipe! II | 139160 | [139160-quest-of-yipe-ii.json](./139160-quest-of-yipe-ii.json) |
@@ -1424,6 +1425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
 | QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
+| QuizLobby | 420804 | [420804-quizlobby.json](./420804-quizlobby.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
 | Quizmaster | 413988 | [413988-quizmaster.json](./413988-quizmaster.json) |
 | QuizMasters | 408423 | [408423-quizmasters.json](./408423-quizmasters.json) |
