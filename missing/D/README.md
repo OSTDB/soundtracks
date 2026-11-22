@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Hermetic Order | 209076 | [209076-dark-hermetic-order.json](./209076-dark-hermetic-order.json) |
 | Dark Hero | 234480 | [234480-dark-hero.json](./234480-dark-hero.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
+| Dark Hill Museum of Death | 99248 | [99248-dark-hill-museum-of-death.json](./99248-dark-hill-museum-of-death.json) |
 | Dark History | 375504 | [375504-dark-history.json](./375504-dark-history.json) |
 | Dark Home | 154892 | [154892-dark-home.json](./154892-dark-home.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
@@ -2127,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Samurai | 279273 | [279273-dark-samurai.json](./279273-dark-samurai.json) |
 | Dark Samurai Avengers | 298916 | [298916-dark-samurai-avengers.json](./298916-dark-samurai-avengers.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
+| Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
@@ -7608,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise - Lords of Chaos | 97899 | [97899-demons-rise-lords-of-chaos.json](./97899-demons-rise-lords-of-chaos.json) |
 | Demon's Rise 2 | 100872 | [100872-demons-rise-2.json](./100872-demons-rise-2.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
+| Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Score | 27148 | [27148-demons-score.json](./27148-demons-score.json) |
 | Demon's Soulbound | 409906 | [409906-demons-soulbound.json](./409906-demons-soulbound.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
@@ -11208,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino V. Xeno | 238382 | [238382-dino-v-xeno.json](./238382-dino-v-xeno.json) |
 | Dino VR : Jurassic World | 108212 | [108212-dino-vr-jurassic-world.json](./108212-dino-vr-jurassic-world.json) |
 | Dino Walk Simulator | 175866 | [175866-dino-walk-simulator.json](./175866-dino-walk-simulator.json) |
+| Dino War | 100811 | [100811-dino-war.json](./100811-dino-war.json) |
 | Dino War: Survival | 99242 | [99242-dino-war-survival.json](./99242-dino-war-survival.json) |
 | Dino Wars | 14648 | [14648-dino-wars.json](./14648-dino-wars.json) |
 | Dino Wars | 23918 | [23918-dino-wars.json](./23918-dino-wars.json) |
@@ -11371,6 +11375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs Dominion | 239355 | [239355-dinosaurs-dominion.json](./239355-dinosaurs-dominion.json) |
 | Dinosaurs in Place | 328914 | [328914-dinosaurs-in-place.json](./328914-dinosaurs-in-place.json) |
 | Dinosaurs Outbreak | 370789 | [370789-dinosaurs-outbreak.json](./370789-dinosaurs-outbreak.json) |
+| Dinosaurs Prehistoric Survivors | 99291 | [99291-dinosaurs-prehistoric-survivors.json](./99291-dinosaurs-prehistoric-survivors.json) |
 | Dinosaurs: A Prehistoric Adventure 2 | 195579 | [195579-dinosaurs-a-prehistoric-adventure-2.json](./195579-dinosaurs-a-prehistoric-adventure-2.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | Dinosaurs! | 217691 | [217691-dinosaurs.json](./217691-dinosaurs.json) |
@@ -11804,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Dating | 184329 | [184329-disco-dating.json](./184329-disco-dating.json) |
 | Disco Dave | 245257 | [245257-disco-dave.json](./245257-disco-dave.json) |
 | Disco Destruction | 51423 | [51423-disco-destruction.json](./51423-disco-destruction.json) |
+| Disco Dodgeball Remix | 100438 | [100438-disco-dodgeball-remix.json](./100438-disco-dodgeball-remix.json) |
 | Disco Duck | 366317 | [366317-disco-duck.json](./366317-disco-duck.json) |
 | Disco Elysium | 335434 | [335434-disco-elysium.json](./335434-disco-elysium.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
