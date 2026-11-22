@@ -9234,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chores of Corruption | 261728 | [261728-chores-of-corruption.json](./261728-chores-of-corruption.json) |
 | Chorizo | 217409 | [217409-chorizo.json](./217409-chorizo.json) |
 | Chornobyl Breakout | 372279 | [372279-chornobyl-breakout.json](./372279-chornobyl-breakout.json) |
+| Chornobyl Liquidators | 146315 | [146315-chornobyl-liquidators.json](./146315-chornobyl-liquidators.json) |
 | Chornobyl Liquidators - Supporter Pack | 304393 | [304393-chornobyl-liquidators-supporter-pack.json](./304393-chornobyl-liquidators-supporter-pack.json) |
 | Chornobyl Quest | 416960 | [416960-chornobyl-quest.json](./416960-chornobyl-quest.json) |
 | Choro 2021 | 186127 | [186127-choro-2021.json](./186127-choro-2021.json) |
@@ -9616,6 +9617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
+| Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
 | Chroma Slayer | 318104 | [318104-chroma-slayer.json](./318104-chroma-slayer.json) |
@@ -12390,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Crashers | 303421 | [303421-cloud-crashers.json](./303421-cloud-crashers.json) |
 | Cloud Critters | 59906 | [59906-cloud-critters.json](./59906-cloud-critters.json) |
+| Cloud Cutter | 147000 | [147000-cloud-cutter.json](./147000-cloud-cutter.json) |
 | Cloud Dwellers | 350598 | [350598-cloud-dwellers.json](./350598-cloud-dwellers.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Exiles | 196423 | [196423-cloud-exiles.json](./196423-cloud-exiles.json) |
@@ -13161,6 +13164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codemancer | 121400 | [121400-codemancer.json](./121400-codemancer.json) |
 | Codemasters 2 in 1: Fantastic Dizzy + Cosmic Spacehead | 93188 | [93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json](./93188-codemasters-2-in-1-fantastic-dizzy-cosmic-spacehead.json) |
+| Codemasters Collection 1 | 145834 | [145834-codemasters-collection-1.json](./145834-codemasters-collection-1.json) |
 | Codemount | 301436 | [301436-codemount.json](./301436-codemount.json) |
 | Codename Attila | 289803 | [289803-codename-attila.json](./289803-codename-attila.json) |
 | Codename Cure | 35653 | [35653-codename-cure.json](./35653-codename-cure.json) |
@@ -20396,6 +20400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisis Team: Ambulance Driver | 73703 | [73703-crisis-team-ambulance-driver.json](./73703-crisis-team-ambulance-driver.json) |
 | Crisis Theory | 144243 | [144243-crisis-theory.json](./144243-crisis-theory.json) |
 | Crisis VRigade 2 | 127862 | [127862-crisis-vrigade-2.json](./127862-crisis-vrigade-2.json) |
+| Crisis Wing | 146102 | [146102-crisis-wing.json](./146102-crisis-wing.json) |
 | Crisis Zone | 13896 | [13896-crisis-zone.json](./13896-crisis-zone.json) |
 | Crisis: North Korea | 62792 | [62792-crisis-north-korea.json](./62792-crisis-north-korea.json) |
 | Crisis: S | 194124 | [194124-crisis-s.json](./194124-crisis-s.json) |
