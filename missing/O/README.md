@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Endless Night At Dhar Mann's | 162518 | [162518-one-endless-night-at-dhar-manns.json](./162518-one-endless-night-at-dhar-manns.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
+| One Escape | 146041 | [146041-one-escape.json](./146041-one-escape.json) |
 | One False Move | 276629 | [276629-one-false-move.json](./276629-one-false-move.json) |
 | One Fantasy Shooter | 121840 | [121840-one-fantasy-shooter.json](./121840-one-fantasy-shooter.json) |
 | One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
