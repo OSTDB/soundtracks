@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West | 187144 | [187144-wild-west.json](./187144-wild-west.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West | 76861 | [76861-wild-west.json](./76861-wild-west.json) |
+| Wild West and Wizards | 117639 | [117639-wild-west-and-wizards.json](./117639-wild-west-and-wizards.json) |
 | Wild West Blast | 298454 | [298454-wild-west-blast.json](./298454-wild-west-blast.json) |
 | Wild West Builder | 211880 | [211880-wild-west-builder.json](./211880-wild-west-builder.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
