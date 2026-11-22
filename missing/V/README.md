@@ -1020,7 +1020,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaporware Odyssey | 280366 | [280366-vaporware-odyssey.json](./280366-vaporware-odyssey.json) |
 | Vaporwave | 149882 | [149882-vaporwave.json](./149882-vaporwave.json) |
 | Vaporwave Battler | 350522 | [350522-vaporwave-battler.json](./350522-vaporwave-battler.json) |
-| Vaporwave Drift | 119453 | [119453-vaporwave-drift.json](./119453-vaporwave-drift.json) |
 | Vaporwave Hardest Game | 377625 | [377625-vaporwave-hardest-game.json](./377625-vaporwave-hardest-game.json) |
 | Vaporwave Pinball | 253826 | [253826-vaporwave-pinball.json](./253826-vaporwave-pinball.json) |
 | Vaporwave Road VR | 151053 | [151053-vaporwave-road-vr.json](./151053-vaporwave-road-vr.json) |
@@ -1050,7 +1049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variable Geo vs. Asuka 120% | 316595 | [316595-variable-geo-vs-asuka-120.json](./316595-variable-geo-vs-asuka-120.json) |
 | Variable Pictogram Jump | 190867 | [190867-variable-pictogram-jump.json](./190867-variable-pictogram-jump.json) |
 | Variable Puzzle | 330657 | [330657-variable-puzzle.json](./330657-variable-puzzle.json) |
-| Variables | 118581 | [118581-variables.json](./118581-variables.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Varial | 246024 | [246024-varial.json](./246024-varial.json) |
 | Variance | 344812 | [344812-variance.json](./344812-variance.json) |
@@ -1886,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 179768 | [179768-vertigo.json](./179768-vertigo.json) |
 | Vertigo | 248174 | [248174-vertigo.json](./248174-vertigo.json) |
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
+| Vertigo | 413243 | [413243-vertigo.json](./413243-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
 | Vertigo | 68123 | [68123-vertigo.json](./68123-vertigo.json) |
 | Vertigo | 80739 | [80739-vertigo.json](./80739-vertigo.json) |
@@ -2492,7 +2491,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking Butcher | 137278 | [137278-viking-butcher.json](./137278-viking-butcher.json) |
 | Viking Chef: Feast Frenzy | 263076 | [263076-viking-chef-feast-frenzy.json](./263076-viking-chef-feast-frenzy.json) |
-| Viking Chess: Hnefatafl | 121878 | [121878-viking-chess-hnefatafl.json](./121878-viking-chess-hnefatafl.json) |
 | Viking Chronicles: Tale of the lost Queen | 155786 | [155786-viking-chronicles-tale-of-the-lost-queen.json](./155786-viking-chronicles-tale-of-the-lost-queen.json) |
 | Viking City Builder | 138984 | [138984-viking-city-builder.json](./138984-viking-city-builder.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
@@ -2616,7 +2614,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Escape | 342481 | [342481-village-escape.json](./342481-village-escape.json) |
 | Village Farm | 289532 | [289532-village-farm.json](./289532-village-farm.json) |
 | Village Fest: Digging | 161699 | [161699-village-fest-digging.json](./161699-village-fest-digging.json) |
-| Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Guardians Break | 201400 | [201400-village-guardians-break.json](./201400-village-guardians-break.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village in the Shade | 358537 | [358537-village-in-the-shade.json](./358537-village-in-the-shade.json) |
@@ -4069,7 +4066,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volleyball Challenge | 163694 | [163694-volleyball-challenge.json](./163694-volleyball-challenge.json) |
 | Volleyball Challenge | 43244 | [43244-volleyball-challenge.json](./43244-volleyball-challenge.json) |
 | Volleyball Champions 3D | 323322 | [323322-volleyball-champions-3d.json](./323322-volleyball-champions-3d.json) |
-| Volleyball Fever | 120026 | [120026-volleyball-fever.json](./120026-volleyball-fever.json) |
 | Volleyball Fever Flat | 126783 | [126783-volleyball-fever-flat.json](./126783-volleyball-fever-flat.json) |
 | Volleyball Heaven | 113275 | [113275-volleyball-heaven.json](./113275-volleyball-heaven.json) |
 | Volleyball Mania | 421935 | [421935-volleyball-mania.json](./421935-volleyball-mania.json) |
@@ -4125,7 +4121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | VoltRhythm | 349737 | [349737-voltrhythm.json](./349737-voltrhythm.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
-| Voltron: Cubes of Olkarion | 120409 | [120409-voltron-cubes-of-olkarion.json](./120409-voltron-cubes-of-olkarion.json) |
 | Voltron: Defender of the Universe | 24237 | [24237-voltron-defender-of-the-universe.json](./24237-voltron-defender-of-the-universe.json) |
 | Voltswarm | 429800 | [429800-voltswarm.json](./429800-voltswarm.json) |
 | Voltus' Neon Nightmare - Colossal Cure | 419930 | [419930-voltus-neon-nightmare-colossal-cure.json](./419930-voltus-neon-nightmare-colossal-cure.json) |
@@ -4595,7 +4590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Pigeons | 163150 | [163150-vr-pigeons.json](./163150-vr-pigeons.json) |
 | VR Ping Pong | 21602 | [21602-vr-ping-pong.json](./21602-vr-ping-pong.json) |
 | VR Ping Pong Paradise | 76016 | [76016-vr-ping-pong-paradise.json](./76016-vr-ping-pong-paradise.json) |
-| VR Ping Pong Pro | 120470 | [120470-vr-ping-pong-pro.json](./120470-vr-ping-pong-pro.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Pirates of the Caribbean Life Experience | 169727 | [169727-vr-pirates-of-the-caribbean-life-experience.json](./169727-vr-pirates-of-the-caribbean-life-experience.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
