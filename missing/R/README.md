@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RADS: The Radioactive Apocalypse Dating Simulator | 290822 | [290822-rads-the-radioactive-apocalypse-dating-simulator.json](./290822-rads-the-radioactive-apocalypse-dating-simulator.json) |
 | Radventure: The Rise of Ryle | 346530 | [346530-radventure-the-rise-of-ryle.json](./346530-radventure-the-rise-of-ryle.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
+| Rae's Solitaire | 426832 | [426832-raes-solitaire.json](./426832-raes-solitaire.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Raey | 296586 | [296586-raey.json](./296586-raey.json) |
@@ -5639,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
 | ReLinked | 247710 | [247710-relinked.json](./247710-relinked.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
+| Reliquare | 426312 | [426312-reliquare.json](./426312-reliquare.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Reliquary | 416223 | [416223-reliquary.json](./416223-reliquary.json) |
 | Reliquia Park | 316259 | [316259-reliquia-park.json](./316259-reliquia-park.json) |
@@ -6954,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Endurance 8bit | 340695 | [340695-retro-endurance-8bit.json](./340695-retro-endurance-8bit.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
 | Retro Fever | 60713 | [60713-retro-fever.json](./60713-retro-fever.json) |
+| Retro Fight Club | 426834 | [426834-retro-fight-club.json](./426834-retro-fight-club.json) |
 | Retro Fighter | 386937 | [386937-retro-fighter.json](./386937-retro-fighter.json) |
 | Retro Fighter: Dragon's Revenge | 147690 | [147690-retro-fighter-dragons-revenge.json](./147690-retro-fighter-dragons-revenge.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
@@ -12325,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
 | Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
+| Romcab Puzzle | 426317 | [426317-romcab-puzzle.json](./426317-romcab-puzzle.json) |
 | Rome 2077: Space Wars | 157317 | [157317-rome-2077-space-wars.json](./157317-rome-2077-space-wars.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Circus Maximus: Chariot Race VR | 68585 | [68585-rome-circus-maximus-chariot-race-vr.json](./68585-rome-circus-maximus-chariot-race-vr.json) |
