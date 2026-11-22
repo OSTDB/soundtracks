@@ -6670,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literalchemy | 399680 | [399680-literalchemy.json](./399680-literalchemy.json) |
 | Literalism | 261463 | [261463-literalism.json](./261463-literalism.json) |
+| Literally A Flying Brick | 424493 | [424493-literally-a-flying-brick.json](./424493-literally-a-flying-brick.json) |
 | Literally Every FNF Mod Ever | 303961 | [303961-literally-every-fnf-mod-ever.json](./303961-literally-every-fnf-mod-ever.json) |
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
