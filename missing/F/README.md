@@ -507,7 +507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls Go! | 402559 | [402559-factory-balls-go.json](./402559-factory-balls-go.json) |
 | Factory Breakout | 14061 | [14061-factory-breakout.json](./14061-factory-breakout.json) |
 | Factory Business Management | 286336 | [286336-factory-business-management.json](./286336-factory-business-management.json) |
-| Factory Coin Mining | 118417 | [118417-factory-coin-mining.json](./118417-factory-coin-mining.json) |
 | Factory Company | 297071 | [297071-factory-company.json](./297071-factory-company.json) |
 | Factory Control Inc. | 252706 | [252706-factory-control-inc.json](./252706-factory-control-inc.json) |
 | Factory Default: Build, Trade, Repeat | 412085 | [412085-factory-default-build-trade-repeat.json](./412085-factory-default-build-trade-repeat.json) |
@@ -1724,7 +1723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Familiar Friends: What's Your Familiar? | 340056 | [340056-familiar-friends-whats-your-familiar.json](./340056-familiar-friends-whats-your-familiar.json) |
 | Familiar Spirit of the Demon Lord | 82609 | [82609-familiar-spirit-of-the-demon-lord.json](./82609-familiar-spirit-of-the-demon-lord.json) |
 | Familiar Stranger | 319932 | [319932-familiar-stranger.json](./319932-familiar-stranger.json) |
-| Familiar Travels: Volume One | 121355 | [121355-familiar-travels-volume-one.json](./121355-familiar-travels-volume-one.json) |
 | Familiar Travels: Volume Two | 137321 | [137321-familiar-travels-volume-two.json](./137321-familiar-travels-volume-two.json) |
 | Familiar: Battle of the Labyrinth | 367630 | [367630-familiar-battle-of-the-labyrinth.json](./367630-familiar-battle-of-the-labyrinth.json) |
 | Familiars.io | 151816 | [151816-familiars-io.json](./151816-familiars-io.json) |
@@ -2248,7 +2246,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Hearts | 345068 | [345068-fantasy-hearts.json](./345068-fantasy-hearts.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Hero Biography | 119561 | [119561-fantasy-hero-biography.json](./119561-fantasy-hero-biography.json) |
-| Fantasy Hero Manager | 118396 | [118396-fantasy-hero-manager.json](./118396-fantasy-hero-manager.json) |
 | Fantasy Hero: Unsigned Legacy | 36546 | [36546-fantasy-hero-unsigned-legacy.json](./36546-fantasy-hero-unsigned-legacy.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Heroes 2 | 172001 | [172001-fantasy-heroes-2.json](./172001-fantasy-heroes-2.json) |
@@ -3378,7 +3375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Furious Arcade | 98694 | [98694-fast-and-furious-arcade.json](./98694-fast-and-furious-arcade.json) |
-| Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
 | Fast as Duck | 277172 | [277172-fast-as-duck.json](./277172-fast-as-duck.json) |
 | Fast Attack: High Tech Submarine Warfare | 70019 | [70019-fast-attack-high-tech-submarine-warfare.json](./70019-fast-attack-high-tech-submarine-warfare.json) |
 | Fast Ball Ping | 99197 | [99197-fast-ball-ping.json](./99197-fast-ball-ping.json) |
@@ -5639,7 +5635,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Approach | 18973 | [18973-final-approach.json](./18973-final-approach.json) |
 | Final Approach | 95485 | [95485-final-approach.json](./95485-final-approach.json) |
 | Final Approach: Pilot Edition | 32519 | [32519-final-approach-pilot-edition.json](./32519-final-approach-pilot-edition.json) |
-| Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
 | Final B Cut | 255424 | [255424-final-b-cut.json](./255424-final-b-cut.json) |
@@ -7482,7 +7477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
 | Fish Shop Simulator | 323120 | [323120-fish-shop-simulator.json](./323120-fish-shop-simulator.json) |
 | Fish Simulator: Agonik Lake | 240761 | [240761-fish-simulator-agonik-lake.json](./240761-fish-simulator-agonik-lake.json) |
-| Fish Simulator: Aquarium Manager | 121785 | [121785-fish-simulator-aquarium-manager.json](./121785-fish-simulator-aquarium-manager.json) |
 | Fish Stick Protocol | 340540 | [340540-fish-stick-protocol.json](./340540-fish-stick-protocol.json) |
 | Fish Sticks | 321873 | [321873-fish-sticks.json](./321873-fish-sticks.json) |
 | Fish Story | 189876 | [189876-fish-story.json](./189876-fish-story.json) |
@@ -8524,7 +8518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flapee Bird | 214223 | [214223-flapee-bird.json](./214223-flapee-bird.json) |
 | FlapOTron | 58760 | [58760-flapotron.json](./58760-flapotron.json) |
 | Flapp & Zegeta | 58124 | [58124-flapp-and-zegeta.json](./58124-flapp-and-zegeta.json) |
-| Flappatron | 120392 | [120392-flappatron.json](./120392-flappatron.json) |
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
@@ -10547,7 +10540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodtruck Arena | 139531 | [139531-foodtruck-arena.json](./139531-foodtruck-arena.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
-| Fool! | 118345 | [118345-fool.json](./118345-fool.json) |
 | Fool's Curse | 238465 | [238465-fools-curse.json](./238465-fools-curse.json) |
 | Fool's End | 271636 | [271636-fools-end.json](./271636-fools-end.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
@@ -13218,7 +13210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
-| Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Activity Center | 409777 | [409777-franklins-activity-center.json](./409777-franklins-activity-center.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | FranknJohn | 17506 | [17506-franknjohn.json](./17506-franknjohn.json) |
@@ -13432,7 +13423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Standard II Set | 354206 | [354206-free-chess-standard-ii-set.json](./354206-free-chess-standard-ii-set.json) |
 | Free City | 326489 | [326489-free-city.json](./326489-free-city.json) |
 | Free Climbing | 14077 | [14077-free-climbing.json](./14077-free-climbing.json) |
-| Free Company VR | 119978 | [119978-free-company-vr.json](./119978-free-company-vr.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
