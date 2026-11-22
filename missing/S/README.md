@@ -3270,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Horror | 310127 | [310127-scary-horror.json](./310127-scary-horror.json) |
 | Scary Horror Mansion | 303091 | [303091-scary-horror-mansion.json](./303091-scary-horror-mansion.json) |
 | Scary Hospital Horror Game | 157214 | [157214-scary-hospital-horror-game.json](./157214-scary-hospital-horror-game.json) |
+| Scary Hot Dogs | 424498 | [424498-scary-hot-dogs.json](./424498-scary-hot-dogs.json) |
 | Scary Hotel | 148531 | [148531-scary-hotel.json](./148531-scary-hotel.json) |
 | Scary House | 81785 | [81785-scary-house.json](./81785-scary-house.json) |
 | Scary Humans | 31094 | [31094-scary-humans.json](./31094-scary-humans.json) |
@@ -11338,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroomscape Zone | 192465 | [192465-shroomscape-zone.json](./192465-shroomscape-zone.json) |
 | Shroomtopia | 286092 | [286092-shroomtopia.json](./286092-shroomtopia.json) |
 | Shroomveil | 381489 | [381489-shroomveil.json](./381489-shroomveil.json) |
+| Shroomy Garden | 424486 | [424486-shroomy-garden.json](./424486-shroomy-garden.json) |
 | Shrot | 291382 | [291382-shrot.json](./291382-shrot.json) |
 | Shrot | 377185 | [377185-shrot.json](./377185-shrot.json) |
 | Shroud | 295999 | [295999-shroud.json](./295999-shroud.json) |
@@ -14474,6 +14476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skool Days | 390734 | [390734-skool-days.json](./390734-skool-days.json) |
 | Skool Daze | 23079 | [23079-skool-daze.json](./23079-skool-daze.json) |
 | Skools Out | 338809 | [338809-skools-out.json](./338809-skools-out.json) |
+| Skoopah! | 424483 | [424483-skoopah.json](./424483-skoopah.json) |
 | Skoory Rush | 250463 | [250463-skoory-rush.json](./250463-skoory-rush.json) |
 | Skoot: Keyboard Brawl | 424409 | [424409-skoot-keyboard-brawl.json](./424409-skoot-keyboard-brawl.json) |
 | Skooter | 410637 | [410637-skooter.json](./410637-skooter.json) |
@@ -24308,6 +24311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Blade | 419788 | [419788-spectral-blade.json](./419788-spectral-blade.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
+| Spectral Divide | 424506 | [424506-spectral-divide.json](./424506-spectral-divide.json) |
 | Spectral Escape | 133576 | [133576-spectral-escape.json](./133576-spectral-escape.json) |
 | Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
 | Spectral Force | 61257 | [61257-spectral-force.json](./61257-spectral-force.json) |
@@ -27915,6 +27919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Drift Evolution | 139529 | [139529-star-drift-evolution.json](./139529-star-drift-evolution.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
+| Star Driver Ultra | 424495 | [424495-star-driver-ultra.json](./424495-star-driver-ultra.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Duality | 418603 | [418603-star-duality.json](./418603-star-duality.json) |
@@ -32868,6 +32873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Trace: NYC | 21306 | [21306-street-trace-nyc.json](./21306-street-trace-nyc.json) |
 | Street Tuning Evolution | 112494 | [112494-street-tuning-evolution.json](./112494-street-tuning-evolution.json) |
 | Street Uni X | 130529 | [130529-street-uni-x.json](./130529-street-uni-x.json) |
+| Street Value | 425036 | [425036-street-value.json](./425036-street-value.json) |
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
