@@ -7815,6 +7815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy and the Cathedral | 265789 | [265789-the-boy-and-the-cathedral.json](./265789-the-boy-and-the-cathedral.json) |
 | The Boy Sorcerer: Lost memory | 293597 | [293597-the-boy-sorcerer-lost-memory.json](./293597-the-boy-sorcerer-lost-memory.json) |
+| The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
@@ -12164,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
+| The Hardest Dungeon | 99040 | [99040-the-hardest-dungeon.json](./99040-the-hardest-dungeon.json) |
 | The Hardest Game Ever | 265045 | [265045-the-hardest-game-ever.json](./265045-the-hardest-game-ever.json) |
 | The Hardest Game Ever | 430112 | [430112-the-hardest-game-ever.json](./430112-the-hardest-game-ever.json) |
 | The Hardest Game in the Universe | 158839 | [158839-the-hardest-game-in-the-universe.json](./158839-the-hardest-game-in-the-universe.json) |
@@ -18233,6 +18235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road To Harvest: Food From Across The Ocean | 328105 | [328105-the-road-to-harvest-food-from-across-the-ocean.json](./328105-the-road-to-harvest-food-from-across-the-ocean.json) |
 | The Road to Recovery: A Personal 2D Adventure Game | 259174 | [259174-the-road-to-recovery-a-personal-2d-adventure-game.json](./259174-the-road-to-recovery-a-personal-2d-adventure-game.json) |
 | The Road to Wellchapel | 180938 | [180938-the-road-to-wellchapel.json](./180938-the-road-to-wellchapel.json) |
+| The Road Trip | 100460 | [100460-the-road-trip.json](./100460-the-road-trip.json) |
 | The Roadside Motel | 361946 | [361946-the-roadside-motel.json](./361946-the-roadside-motel.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
@@ -26862,6 +26865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timestamps: Unconditional Love | 224961 | [224961-timestamps-unconditional-love.json](./224961-timestamps-unconditional-love.json) |
 | Timestop Volleyball | 284542 | [284542-timestop-volleyball.json](./284542-timestop-volleyball.json) |
 | Timestride | 199533 | [199533-timestride.json](./199533-timestride.json) |
+| TimeTekker | 100423 | [100423-timetekker.json](./100423-timetekker.json) |
 | TimeToDie | 54833 | [54833-timetodie.json](./54833-timetodie.json) |
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
@@ -36608,6 +36612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2 | 159016 | [159016-truck-simulator-2.json](./159016-truck-simulator-2.json) |
 | Truck Simulator 2014 | 90774 | [90774-truck-simulator-2014.json](./90774-truck-simulator-2014.json) |
 | Truck Simulator 2016 - North America Cargo Routes | 98836 | [98836-truck-simulator-2016-north-america-cargo-routes.json](./98836-truck-simulator-2016-north-america-cargo-routes.json) |
+| Truck Simulator 2018 : Europe | 100808 | [100808-truck-simulator-2018-europe.json](./100808-truck-simulator-2018-europe.json) |
 | Truck Simulator 2021 | 200759 | [200759-truck-simulator-2021.json](./200759-truck-simulator-2021.json) |
 | Truck Simulator 2023: Driver Europe | 263841 | [263841-truck-simulator-2023-driver-europe.json](./263841-truck-simulator-2023-driver-europe.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
@@ -38810,6 +38815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typical Cliche | 286802 | [286802-typical-cliche.json](./286802-typical-cliche.json) |
 | Typical Mario Game | 322915 | [322915-typical-mario-game.json](./322915-typical-mario-game.json) |
 | Typical Mario Game 1/8 | 321868 | [321868-typical-mario-game-1-8.json](./321868-typical-mario-game-1-8.json) |
+| Typical nightmare | 99603 | [99603-typical-nightmare.json](./99603-typical-nightmare.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | TypInc. | 334037 | [334037-typinc.json](./334037-typinc.json) |
 | Typing Battle | 276589 | [276589-typing-battle.json](./276589-typing-battle.json) |
