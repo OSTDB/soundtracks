@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
 | I Miss When the Internet Was Chronological | 264366 | [264366-i-miss-when-the-internet-was-chronological.json](./264366-i-miss-when-the-internet-was-chronological.json) |
+| I Missed the Apocalypse | 424508 | [424508-i-missed-the-apocalypse.json](./424508-i-missed-the-apocalypse.json) |
 | I Misteri di Maggia | 86290 | [86290-i-misteri-di-maggia.json](./86290-i-misteri-di-maggia.json) |
 | I Modo Mo Issho | 244003 | [244003-i-modo-mo-issho.json](./244003-i-modo-mo-issho.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
