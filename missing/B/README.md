@@ -11236,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast-A-Finn | 325375 | [325375-blast-a-finn.json](./325375-blast-a-finn.json) |
 | Blast-A-Way | 94802 | [94802-blast-a-way.json](./94802-blast-a-way.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
+| Blast-off | 34767 | [34767-blast-off.json](./34767-blast-off.json) |
 | Blast! | 15675 | [15675-blast.json](./15675-blast.json) |
 | Blast'N Bounty | 410376 | [410376-blastn-bounty.json](./410376-blastn-bounty.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
@@ -12393,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockwars | 120523 | [120523-blockwars.json](./120523-blockwars.json) |
 | Blockwerk | 429801 | [429801-blockwerk.json](./429801-blockwerk.json) |
 | Blockwick | 74783 | [74783-blockwick.json](./74783-blockwick.json) |
+| Blockwick 2 | 35038 | [35038-blockwick-2.json](./35038-blockwick-2.json) |
 | Blockworks | 77751 | [77751-blockworks.json](./77751-blockworks.json) |
 | BlockWorld | 155318 | [155318-blockworld.json](./155318-blockworld.json) |
 | BlockWorld Ai | 317773 | [317773-blockworld-ai.json](./317773-blockworld-ai.json) |
