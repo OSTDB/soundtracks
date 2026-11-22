@@ -9932,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duke is Dead | 409334 | [409334-the-duke-is-dead.json](./409334-the-duke-is-dead.json) |
 | The Dukes of Hazzard | 122629 | [122629-the-dukes-of-hazzard.json](./122629-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard | 14042 | [14042-the-dukes-of-hazzard.json](./14042-the-dukes-of-hazzard.json) |
+| The Dukes of Hazzard | 24137 | [24137-the-dukes-of-hazzard.json](./24137-the-dukes-of-hazzard.json) |
 | The Dukes of Hazzard II: Daisy Dukes it Out | 44986 | [44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json](./44986-the-dukes-of-hazzard-ii-daisy-dukes-it-out.json) |
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Racing for Home | 49889 | [49889-the-dukes-of-hazzard-racing-for-home.json](./49889-the-dukes-of-hazzard-racing-for-home.json) |
@@ -16471,6 +16472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Adventures of Moomin: The Great Autumn Party | 97408 | [97408-the-new-adventures-of-moomin-the-great-autumn-party.json](./97408-the-new-adventures-of-moomin-the-great-autumn-party.json) |
 | The New Adventures of Moomin: The Mysterious Howling | 97405 | [97405-the-new-adventures-of-moomin-the-mysterious-howling.json](./97405-the-new-adventures-of-moomin-the-mysterious-howling.json) |
 | The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
+| The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
 | The New Adventures of Zak McKracken | 323645 | [323645-the-new-adventures-of-zak-mckracken.json](./323645-the-new-adventures-of-zak-mckracken.json) |
 | The New Apartment | 332567 | [332567-the-new-apartment.json](./332567-the-new-apartment.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
