@@ -14882,6 +14882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen: Olaf's Quest | 85088 | [85088-frozen-olafs-quest.json](./85088-frozen-olafs-quest.json) |
 | Frozen: Royal Castle | 306444 | [306444-frozen-royal-castle.json](./306444-frozen-royal-castle.json) |
 | Frozen: Special Delivery | 201338 | [201338-frozen-special-delivery.json](./201338-frozen-special-delivery.json) |
+| Frozenheim | 144594 | [144594-frozenheim.json](./144594-frozenheim.json) |
 | FrozenPizza | 270096 | [270096-frozenpizza.json](./270096-frozenpizza.json) |
 | Frozzd | 92913 | [92913-frozzd.json](./92913-frozzd.json) |
 | Frozzic's Revenge | 57603 | [57603-frozzics-revenge.json](./57603-frozzics-revenge.json) |
