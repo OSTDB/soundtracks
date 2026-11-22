@@ -10178,7 +10178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
 | FlyWarzz | 108707 | [108707-flywarzz.json](./108707-flywarzz.json) |
 | FlyWings 2017 Flight Simulator | 108527 | [108527-flywings-2017-flight-simulator.json](./108527-flywings-2017-flight-simulator.json) |
-| FlyWings 2018 Flight Simulator | 113415 | [113415-flywings-2018-flight-simulator.json](./113415-flywings-2018-flight-simulator.json) |
 | FlyWings 2018 Flight Simulator: Aerobatic Family | 168883 | [168883-flywings-2018-flight-simulator-aerobatic-family.json](./168883-flywings-2018-flight-simulator-aerobatic-family.json) |
 | FlyWings 2018 Flight Simulator: Air Race Family | 168884 | [168884-flywings-2018-flight-simulator-air-race-family.json](./168884-flywings-2018-flight-simulator-air-race-family.json) |
 | FlyWings 2018 Flight Simulator: Airbus A320 Family | 168882 | [168882-flywings-2018-flight-simulator-airbus-a320-family.json](./168882-flywings-2018-flight-simulator-airbus-a320-family.json) |
