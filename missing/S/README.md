@@ -14151,6 +14151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Crawler | 189353 | [189353-sketch-crawler.json](./189353-sketch-crawler.json) |
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch Heads | 250224 | [250224-sketch-heads.json](./250224-sketch-heads.json) |
+| Sketch Kingdom | 425100 | [425100-sketch-kingdom.json](./425100-sketch-kingdom.json) |
 | Sketch Magician | 347100 | [347100-sketch-magician.json](./347100-sketch-magician.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch Quest | 382171 | [382171-sketch-quest.json](./382171-sketch-quest.json) |
@@ -22190,6 +22191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Star River | 381286 | [381286-south-star-river.json](./381286-south-star-river.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | South Words Hero | 309818 | [309818-south-words-hero.json](./309818-south-words-hero.json) |
+| Southbank Portrait | 425650 | [425650-southbank-portrait.json](./425650-southbank-portrait.json) |
 | Southbound | 119807 | [119807-southbound.json](./119807-southbound.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
@@ -23222,6 +23224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pixel Swarm | 198000 | [198000-space-pixel-swarm.json](./198000-space-pixel-swarm.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
+| Space Planet Explorer | 425087 | [425087-space-planet-explorer.json](./425087-space-planet-explorer.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Police on SuperHighway 9 | 66160 | [66160-space-police-on-superhighway-9.json](./66160-space-police-on-superhighway-9.json) |
 | Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
@@ -31581,6 +31584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
 | Stonix | 41442 | [41442-stonix.json](./41442-stonix.json) |
 | Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
+| Stonk: Timing the Market | 425099 | [425099-stonk-timing-the-market.json](./425099-stonk-timing-the-market.json) |
 | Stonkers | 45377 | [45377-stonkers.json](./45377-stonkers.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
