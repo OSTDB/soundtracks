@@ -9687,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History's Ice Road Truckers | 105530 | [105530-historys-ice-road-truckers.json](./105530-historys-ice-road-truckers.json) |
 | History's Top Shot | 396685 | [396685-historys-top-shot.json](./396685-historys-top-shot.json) |
 | History2048: 3D puzzle number game | 37417 | [37417-history2048-3d-puzzle-number-game.json](./37417-history2048-3d-puzzle-number-game.json) |
+| HistoryGuesser | 429026 | [429026-historyguesser.json](./429026-historyguesser.json) |
 | HistoryMaker VR | 149347 | [149347-historymaker-vr.json](./149347-historymaker-vr.json) |
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hisui no Shizuku: Hiiro no Kakera 2 | 214796 | [214796-hisui-no-shizuku-hiiro-no-kakera-2.json](./214796-hisui-no-shizuku-hiiro-no-kakera-2.json) |
