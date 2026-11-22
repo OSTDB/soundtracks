@@ -6382,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEO Sim: Cyberpunk | 290634 | [290634-ceo-sim-cyberpunk.json](./290634-ceo-sim-cyberpunk.json) |
 | CEO Test | 24790 | [24790-ceo-test.json](./24790-ceo-test.json) |
 | CEO Tycoon: My Game Studio | 303404 | [303404-ceo-tycoon-my-game-studio.json](./303404-ceo-tycoon-my-game-studio.json) |
+| CEO: Chief Extermination Officer | 429029 | [429029-ceo-chief-extermination-officer.json](./429029-ceo-chief-extermination-officer.json) |
 | Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol Anthology | 171688 | [171688-cepheus-protocol-anthology.json](./171688-cepheus-protocol-anthology.json) |
 | Cepheus Protocol: Free Vehicle Camo Post Modern Collection | 256998 | [256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json](./256998-cepheus-protocol-free-vehicle-camo-post-modern-collection.json) |
@@ -11373,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Clash of Weirdos: Card Carnage | 347315 | [347315-clash-of-weirdos-card-carnage.json](./347315-clash-of-weirdos-card-carnage.json) |
 | Clash of Wizards | 58101 | [58101-clash-of-wizards.json](./58101-clash-of-wizards.json) |
+| Clash Pandemic: Forest Hell | 429012 | [429012-clash-pandemic-forest-hell.json](./429012-clash-pandemic-forest-hell.json) |
 | Clash Quest | 145533 | [145533-clash-quest.json](./145533-clash-quest.json) |
 | Clash Royale | 15707 | [15707-clash-royale.json](./15707-clash-royale.json) |
 | Clash Summoners | 225323 | [225323-clash-summoners.json](./225323-clash-summoners.json) |
@@ -13719,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collateral Thinking | 85039 | [85039-collateral-thinking.json](./85039-collateral-thinking.json) |
 | Collateral Thinking DX | 185859 | [185859-collateral-thinking-dx.json](./185859-collateral-thinking-dx.json) |
+| Colleccct | 429023 | [429023-colleccct.json](./429023-colleccct.json) |
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect a Brainrot | 382844 | [382844-collect-a-brainrot.json](./382844-collect-a-brainrot.json) |
 | Collect Baby Oil | 329679 | [329679-collect-baby-oil.json](./329679-collect-baby-oil.json) |
@@ -15807,6 +15810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Towers | 149864 | [149864-connected-towers.json](./149864-connected-towers.json) |
 | Connected! | 148112 | [148112-connected.json](./148112-connected.json) |
 | Connected! 2 | 259728 | [259728-connected-2.json](./259728-connected-2.json) |
+| ConnecTendo | 429028 | [429028-connectendo.json](./429028-connectendo.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
@@ -19782,6 +19786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create a Ride | 407516 | [407516-create-a-ride.json](./407516-create-a-ride.json) |
 | Create City | 24750 | [24750-create-city.json](./24750-create-city.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
+| Create the World | 429017 | [429017-create-the-world.json](./429017-create-the-world.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
 | Create You Tiny Idle | 336341 | [336341-create-you-tiny-idle.json](./336341-create-you-tiny-idle.json) |
 | Create Your Own Caricature with Spitting Image | 66359 | [66359-create-your-own-caricature-with-spitting-image.json](./66359-create-your-own-caricature-with-spitting-image.json) |
@@ -19940,6 +19945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
 | Creepy Castle | 170061 | [170061-creepy-castle.json](./170061-creepy-castle.json) |
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
+| Creepy Castle 1.1: The Final Fist | 429021 | [429021-creepy-castle-1-1-the-final-fist.json](./429021-creepy-castle-1-1-the-final-fist.json) |
 | Creepy Claus | 322373 | [322373-creepy-claus.json](./322373-creepy-claus.json) |
 | Creepy Clown Revenge | 28054 | [28054-creepy-clown-revenge.json](./28054-creepy-clown-revenge.json) |
 | Creepy Clown Zombie Slayer VR | 261037 | [261037-creepy-clown-zombie-slayer-vr.json](./261037-creepy-clown-zombie-slayer-vr.json) |
