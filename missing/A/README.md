@@ -12394,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anisto | 249941 | [249941-anisto.json](./249941-anisto.json) |
 | Anita's Camp | 310539 | [310539-anitas-camp.json](./310539-anitas-camp.json) |
 | Anita's Job | 310538 | [310538-anitas-job.json](./310538-anitas-job.json) |
+| Anito: Defend A Land Enraged | 24106 | [24106-anito-defend-a-land-enraged.json](./24106-anito-defend-a-land-enraged.json) |
 | Anitons | 211080 | [211080-anitons.json](./211080-anitons.json) |
 | Anivenge | 182374 | [182374-anivenge.json](./182374-anivenge.json) |
 | Aniwar | 235078 | [235078-aniwar.json](./235078-aniwar.json) |
@@ -15399,6 +15400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcaPinball: Wacky Worlds | 146589 | [146589-arcapinball-wacky-worlds.json](./146589-arcapinball-wacky-worlds.json) |
 | ArcArg | 337968 | [337968-arcarg.json](./337968-arcarg.json) |
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
+| Arcatera: The Dark Brotherhood | 24134 | [24134-arcatera-the-dark-brotherhood.json](./24134-arcatera-the-dark-brotherhood.json) |
 | Arcath Tales | 427598 | [427598-arcath-tales.json](./427598-arcath-tales.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcatron-Z | 252596 | [252596-arcatron-z.json](./252596-arcatron-z.json) |
