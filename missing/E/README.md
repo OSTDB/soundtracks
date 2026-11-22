@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epitaph | 29703 | [29703-epitaph.json](./29703-epitaph.json) |
 | Epitaph: Soutai no Aitai | 303209 | [303209-epitaph-soutai-no-aitai.json](./303209-epitaph-soutai-no-aitai.json) |
 | Epitaph: The Parchment Anthology | 399589 | [399589-epitaph-the-parchment-anthology.json](./399589-epitaph-the-parchment-anthology.json) |
+| Epitasis | 52051 | [52051-epitasis.json](./52051-epitasis.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epitome | 386631 | [386631-epitome.json](./386631-epitome.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Christmas Quest | 241345 | [241345-escape-room-christmas-quest.json](./241345-escape-room-christmas-quest.json) |
 | Escape Room: Haunted Mystery | 232322 | [232322-escape-room-haunted-mystery.json](./232322-escape-room-haunted-mystery.json) |
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
+| Escape Room: Reality | 51455 | [51455-escape-room-reality.json](./51455-escape-room-reality.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
 | Escape Room: The Secret Portal Puzzle | 415389 | [415389-escape-room-the-secret-portal-puzzle.json](./415389-escape-room-the-secret-portal-puzzle.json) |
 | Escape Room: The Sick Colleague | 142567 | [142567-escape-room-the-sick-colleague.json](./142567-escape-room-the-sick-colleague.json) |
@@ -9751,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
 | EyeOS | 316000 | [316000-eyeos.json](./316000-eyeos.json) |
 | EyePet | 7303 | [7303-eyepet.json](./7303-eyepet.json) |
+| EyePet & Friends | 52216 | [52216-eyepet-and-friends.json](./52216-eyepet-and-friends.json) |
 | EyePet Adventures | 52215 | [52215-eyepet-adventures.json](./52215-eyepet-adventures.json) |
 | EyePet PSP | 91591 | [91591-eyepet-psp.json](./91591-eyepet-psp.json) |
 | EyePet: Move Edition | 52214 | [52214-eyepet-move-edition.json](./52214-eyepet-move-edition.json) |
