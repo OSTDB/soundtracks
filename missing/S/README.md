@@ -29301,7 +29301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | Starpoint Gemini 2: Secrets of Aethera | 51898 | [51898-starpoint-gemini-2-secrets-of-aethera.json](./51898-starpoint-gemini-2-secrets-of-aethera.json) |
 | Starpoint Gemini 2: Titans | 51897 | [51897-starpoint-gemini-2-titans.json](./51897-starpoint-gemini-2-titans.json) |
-| Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
 | Starpoint Gemini Warlords | 23905 | [23905-starpoint-gemini-warlords.json](./23905-starpoint-gemini-warlords.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
 | Starpoint Gemini Warlords - Deadly Dozen | 51896 | [51896-starpoint-gemini-warlords-deadly-dozen.json](./51896-starpoint-gemini-warlords-deadly-dozen.json) |
