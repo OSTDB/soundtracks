@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racecar.io | 31020 | [31020-racecar-io.json](./31020-racecar-io.json) |
 | RaceClub | 391381 | [391381-raceclub.json](./391381-raceclub.json) |
 | RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
+| RaceDay | 427898 | [427898-raceday.json](./427898-raceday.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
 | RaceLeague | 168128 | [168128-raceleague.json](./168128-raceleague.json) |
 | Racer | 282668 | [282668-racer.json](./282668-racer.json) |
@@ -9253,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk & Riches | 333646 | [333646-risk-and-riches.json](./333646-risk-and-riches.json) |
 | Risk Battleship Clue | 138001 | [138001-risk-battleship-clue.json](./138001-risk-battleship-clue.json) |
 | Risk II | 9711 | [9711-risk-ii.json](./9711-risk-ii.json) |
+| Risk It Little Biscuit | 427632 | [427632-risk-it-little-biscuit.json](./427632-risk-it-little-biscuit.json) |
 | Risk of Pain | 278372 | [278372-risk-of-pain.json](./278372-risk-of-pain.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
 | Risk of Rain 1 + 2 Bundle | 164715 | [164715-risk-of-rain-1-2-bundle.json](./164715-risk-of-rain-1-2-bundle.json) |
@@ -15014,6 +15016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruthless Carnage Hotline | 313225 | [313225-ruthless-carnage-hotline.json](./313225-ruthless-carnage-hotline.json) |
 | Ruthless Conquest | 126304 | [126304-ruthless-conquest.json](./126304-ruthless-conquest.json) |
 | Ruthless Pandas | 101923 | [101923-ruthless-pandas.json](./101923-ruthless-pandas.json) |
+| Ruthless Returns | 428010 | [428010-ruthless-returns.json](./428010-ruthless-returns.json) |
 | Ruthless Safari | 52777 | [52777-ruthless-safari.json](./52777-ruthless-safari.json) |
 | Ruthless Smile | 279989 | [279989-ruthless-smile.json](./279989-ruthless-smile.json) |
 | Ruthless Water | 391932 | [391932-ruthless-water.json](./391932-ruthless-water.json) |
