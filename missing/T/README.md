@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency: Chapter 2 | 87939 | [87939-the-agency-chapter-2.json](./87939-the-agency-chapter-2.json) |
 | The Agent | 91767 | [91767-the-agent.json](./91767-the-agent.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
+| The Agony | 30028 | [30028-the-agony.json](./30028-the-agony.json) |
 | The AI Bubble | 387767 | [387767-the-ai-bubble.json](./387767-the-ai-bubble.json) |
 | The Ai Games | 286767 | [286767-the-ai-games.json](./286767-the-ai-games.json) |
 | The Aids Avenger | 281863 | [281863-the-aids-avenger.json](./281863-the-aids-avenger.json) |
@@ -10634,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Revolution Remaster | 429123 | [429123-the-falconeer-revolution-remaster.json](./429123-the-falconeer-revolution-remaster.json) |
 | The Falconeer: The Hunter | 148243 | [148243-the-falconeer-the-hunter.json](./148243-the-falconeer-the-hunter.json) |
 | The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
+| The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
 | The Falklands War 1982 | 64537 | [64537-the-falklands-war-1982.json](./64537-the-falklands-war-1982.json) |
 | The Fall | 224803 | [224803-the-fall.json](./224803-the-fall.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
@@ -17111,6 +17113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past is Present | 335039 | [335039-the-past-is-present.json](./335039-the-past-is-present.json) |
 | The Past Rhapsody | 211056 | [211056-the-past-rhapsody.json](./211056-the-past-rhapsody.json) |
+| The Pasture | 30017 | [30017-the-pasture.json](./30017-the-pasture.json) |
 | The Pasture | 426426 | [426426-the-pasture.json](./426426-the-pasture.json) |
 | The Patagonians | 160042 | [160042-the-patagonians.json](./160042-the-patagonians.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
@@ -23592,6 +23595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Shu-han Chronicles | 345028 | [345028-three-kingdoms-shu-han-chronicles.json](./345028-three-kingdoms-shu-han-chronicles.json) |
 | Three Kingdoms: Strategy MOBA | 338973 | [338973-three-kingdoms-strategy-moba.json](./338973-three-kingdoms-strategy-moba.json) |
 | Three Kingdoms: The Blood Moon | 290842 | [290842-three-kingdoms-the-blood-moon.json](./290842-three-kingdoms-the-blood-moon.json) |
+| Three Kingdoms: The Last Warlord | 29826 | [29826-three-kingdoms-the-last-warlord.json](./29826-three-kingdoms-the-last-warlord.json) |
 | Three Kingdoms: The Last Warlord - Heroes Assemble | 279980 | [279980-three-kingdoms-the-last-warlord-heroes-assemble.json](./279980-three-kingdoms-the-last-warlord-heroes-assemble.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Kingdoms: Zhuge Liang | 311712 | [311712-three-kingdoms-zhuge-liang.json](./311712-three-kingdoms-zhuge-liang.json) |
@@ -38757,6 +38761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyko's Dying Together | 279245 | [279245-tykos-dying-together.json](./279245-tykos-dying-together.json) |
 | Tyler | 34770 | [34770-tyler.json](./34770-tyler.json) |
 | Tyler Tactics | 236953 | [236953-tyler-tactics.json](./236953-tyler-tactics.json) |
+| Tyler: Model 005 | 29943 | [29943-tyler-model-005.json](./29943-tyler-model-005.json) |
 | Tyler’s Deal | 422755 | [422755-tyler-s-deal.json](./422755-tyler-s-deal.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
