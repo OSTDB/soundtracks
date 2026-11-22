@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trucker Pocket | 200218 | [200218-galaxy-trucker-pocket.json](./200218-galaxy-trucker-pocket.json) |
 | Galaxy Trucker: Extended Edition | 115130 | [115130-galaxy-trucker-extended-edition.json](./115130-galaxy-trucker-extended-edition.json) |
 | Galaxy Union | 35402 | [35402-galaxy-union.json](./35402-galaxy-union.json) |
+| Galaxy Unwritten | 427653 | [427653-galaxy-unwritten.json](./427653-galaxy-unwritten.json) |
 | Galaxy War | 171857 | [171857-galaxy-war.json](./171857-galaxy-war.json) |
 | Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
