@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Impact | 157112 | [157112-waifu-impact.json](./157112-waifu-impact.json) |
 | Waifu Impact 2 | 321542 | [321542-waifu-impact-2.json](./321542-waifu-impact-2.json) |
 | Waifu Love | 161410 | [161410-waifu-love.json](./161410-waifu-love.json) |
+| Waifu Love: Bedroom DLC 3 | 428187 | [428187-waifu-love-bedroom-dlc-3.json](./428187-waifu-love-bedroom-dlc-3.json) |
 | Waifu Master | 105652 | [105652-waifu-master.json](./105652-waifu-master.json) |
 | Waifu Match! | 393437 | [393437-waifu-match.json](./393437-waifu-match.json) |
 | Waifu Museum | 223162 | [223162-waifu-museum.json](./223162-waifu-museum.json) |
@@ -453,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: El Dorado | 204143 | [204143-walkabout-mini-golf-el-dorado.json](./204143-walkabout-mini-golf-el-dorado.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
+| Walkabout Mini Golf: Gloop Lair | 428189 | [428189-walkabout-mini-golf-gloop-lair.json](./428189-walkabout-mini-golf-gloop-lair.json) |
 | Walkabout Mini Golf: Holiday Hideaway | 325748 | [325748-walkabout-mini-golf-holiday-hideaway.json](./325748-walkabout-mini-golf-holiday-hideaway.json) |
 | Walkabout Mini Golf: Homestar Runner Distraction Pack | 402688 | [402688-walkabout-mini-golf-homestar-runner-distraction-pack.json](./402688-walkabout-mini-golf-homestar-runner-distraction-pack.json) |
 | Walkabout Mini Golf: Ice Lair | 289836 | [289836-walkabout-mini-golf-ice-lair.json](./289836-walkabout-mini-golf-ice-lair.json) |
@@ -3023,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
 | Wawary | 141620 | [141620-wawary.json](./141620-wawary.json) |
 | Wax Heads | 298453 | [298453-wax-heads.json](./298453-wax-heads.json) |
+| Wax Mask | 428174 | [428174-wax-mask.json](./428174-wax-mask.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
 | WaxHeart | 250758 | [250758-waxheart.json](./250758-waxheart.json) |
@@ -5278,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
 | Whispers of Elysium | 282205 | [282205-whispers-of-elysium.json](./282205-whispers-of-elysium.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
+| Whispers of Goddess | 428609 | [428609-whispers-of-goddess.json](./428609-whispers-of-goddess.json) |
 | Whispers of Gold | 236426 | [236426-whispers-of-gold.json](./236426-whispers-of-gold.json) |
 | Whispers of Kelsden | 362499 | [362499-whispers-of-kelsden.json](./362499-whispers-of-kelsden.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
