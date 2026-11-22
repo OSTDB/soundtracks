@@ -17005,7 +17005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave | 6926 | [6926-brave.json](./6926-brave.json) |
 | Brave 22 | 263507 | [263507-brave-22.json](./263507-brave-22.json) |
 | Brave Adventurer | 247148 | [247148-brave-adventurer.json](./247148-brave-adventurer.json) |
-| Brave Alchemist Colette | 122360 | [122360-brave-alchemist-colette.json](./122360-brave-alchemist-colette.json) |
 | Brave and Desire | 272782 | [272782-brave-and-desire.json](./272782-brave-and-desire.json) |
 | Brave and Glory | 309022 | [309022-brave-and-glory.json](./309022-brave-and-glory.json) |
 | Brave Arms | 65527 | [65527-brave-arms.json](./65527-brave-arms.json) |
