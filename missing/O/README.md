@@ -1779,7 +1779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
 | Oliver Renhelf | 418105 | [418105-oliver-renhelf.json](./418105-oliver-renhelf.json) |
-| Oliver's Adventures in the Fairyland | 114999 | [114999-olivers-adventures-in-the-fairyland.json](./114999-olivers-adventures-in-the-fairyland.json) |
 | Oliver's Crosswords | 133547 | [133547-olivers-crosswords.json](./133547-olivers-crosswords.json) |
 | Oliver's Last Run | 407076 | [407076-olivers-last-run.json](./407076-olivers-last-run.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
@@ -3853,7 +3852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Up! | 220559 | [220559-open-up.json](./220559-open-up.json) |
 | Open Wall | 370396 | [370396-open-wall.json](./370396-open-wall.json) |
 | Open Waters | 402069 | [402069-open-waters.json](./402069-open-waters.json) |
-| Open Wheel Manager | 117611 | [117611-open-wheel-manager.json](./117611-open-wheel-manager.json) |
 | Open Wheel Manager 2 | 244433 | [244433-open-wheel-manager-2.json](./244433-open-wheel-manager-2.json) |
 | Open World Foreva | 152772 | [152772-open-world-foreva.json](./152772-open-world-foreva.json) |
 | Open World Game: The Open World Game | 130270 | [130270-open-world-game-the-open-world-game.json](./130270-open-world-game-the-open-world-game.json) |
@@ -3898,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMoHAA | 429472 | [429472-openmohaa.json](./429472-openmohaa.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
+| OpenNG2 | 427329 | [427329-openng2.json](./427329-openng2.json) |
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
@@ -6041,7 +6040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws | 115755 | [115755-outlaws.json](./115755-outlaws.json) |
 | Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws + Handful of Missions: Remaster | 361823 | [361823-outlaws-handful-of-missions-remaster.json](./361823-outlaws-handful-of-missions-remaster.json) |
-| Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
 | Outlaws: Handful of Missions | 80649 | [80649-outlaws-handful-of-missions.json](./80649-outlaws-handful-of-missions.json) |
 | Outlawyer | 348147 | [348147-outlawyer.json](./348147-outlawyer.json) |
@@ -6375,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdrive | 229398 | [229398-overdrive.json](./229398-overdrive.json) |
 | Overdrive | 308681 | [308681-overdrive.json](./308681-overdrive.json) |
 | OverDrive | 248371 | [248371-overdrive.json](./248371-overdrive.json) |
+| Overdrive 2048 | 427461 | [427461-overdrive-2048.json](./427461-overdrive-2048.json) |
 | Overdrive Blaster | 308322 | [308322-overdrive-blaster.json](./308322-overdrive-blaster.json) |
 | Overdrive Breakout | 419761 | [419761-overdrive-breakout.json](./419761-overdrive-breakout.json) |
 | Overdrive City | 136934 | [136934-overdrive-city.json](./136934-overdrive-city.json) |
@@ -6736,7 +6735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
 | Owold | 320618 | [320618-owold.json](./320618-owold.json) |
 | OWRC: Open World Racing | 214316 | [214316-owrc-open-world-racing.json](./214316-owrc-open-world-racing.json) |
-| Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Ox & Horse Work in Hell | 345784 | [345784-ox-and-horse-work-in-hell.json](./345784-ox-and-horse-work-in-hell.json) |
 | OX Logic Puzzle 1000! | 124875 | [124875-ox-logic-puzzle-1000.json](./124875-ox-logic-puzzle-1000.json) |
