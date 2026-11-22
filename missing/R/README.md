@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Silvergun | 5422 | [5422-radiant-silvergun.json](./5422-radiant-silvergun.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
 | Radiant Starlets | 365301 | [365301-radiant-starlets.json](./365301-radiant-starlets.json) |
+| Radiant Tale | 145691 | [145691-radiant-tale.json](./145691-radiant-tale.json) |
 | Radiant Tale: Fanfare! | 241527 | [241527-radiant-tale-fanfare.json](./241527-radiant-tale-fanfare.json) |
 | Radiant Tale: Special Edition | 253678 | [253678-radiant-tale-special-edition.json](./253678-radiant-tale-special-edition.json) |
 | Radiant: Guardians of Light | 258102 | [258102-radiant-guardians-of-light.json](./258102-radiant-guardians-of-light.json) |
