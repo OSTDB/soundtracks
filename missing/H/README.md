@@ -3322,7 +3322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting Films: Kaiki Film | 206409 | [206409-haunting-films-kaiki-film.json](./206409-haunting-films-kaiki-film.json) |
 | Haunting Hijinx | 340420 | [340420-haunting-hijinx.json](./340420-haunting-hijinx.json) |
 | Haunting Hollow | 269758 | [269758-haunting-hollow.json](./269758-haunting-hollow.json) |
-| Haunting Hour | 113509 | [113509-haunting-hour.json](./113509-haunting-hour.json) |
 | Haunting Invitation | 388977 | [388977-haunting-invitation.json](./388977-haunting-invitation.json) |
 | Haunting Memories | 337671 | [337671-haunting-memories.json](./337671-haunting-memories.json) |
 | Haunting Mysteries: The Island of Lost Souls - Collector's Edition | 355528 | [355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json](./355528-haunting-mysteries-the-island-of-lost-souls-collectors-edition.json) |
@@ -7391,7 +7390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
 | Heroine Anthem Zero | 30997 | [30997-heroine-anthem-zero.json](./30997-heroine-anthem-zero.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
-| Heroine Anthem Zero: Episode 2 | 114467 | [114467-heroine-anthem-zero-episode-2.json](./114467-heroine-anthem-zero-episode-2.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
@@ -7486,7 +7484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Cats | 273605 | [273605-hex-cats.json](./273605-hex-cats.json) |
 | Hex Commander: Fantasy Heroes | 76001 | [76001-hex-commander-fantasy-heroes.json](./76001-hex-commander-fantasy-heroes.json) |
 | Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
-| Hex Defense - VR | 114079 | [114079-hex-defense-vr.json](./114079-hex-defense-vr.json) |
 | Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
 | Hex For Hire | 182925 | [182925-hex-for-hire.json](./182925-hex-for-hire.json) |
 | Hex FRVR | 105456 | [105456-hex-frvr.json](./105456-hex-frvr.json) |
@@ -8006,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
 | Hidden Castle Top-Down 3D | 290761 | [290761-hidden-castle-top-down-3d.json](./290761-hidden-castle-top-down-3d.json) |
+| Hidden Cat Islands | 422710 | [422710-hidden-cat-islands.json](./422710-hidden-cat-islands.json) |
 | Hidden Cat Outlaws | 291414 | [291414-hidden-cat-outlaws.json](./291414-hidden-cat-outlaws.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
 | Hidden Cats Ellara | 341738 | [341738-hidden-cats-ellara.json](./341738-hidden-cats-ellara.json) |
@@ -8703,7 +8701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Secret Treasure of the Ages | 32874 | [32874-hide-and-secret-treasure-of-the-ages.json](./32874-hide-and-secret-treasure-of-the-ages.json) |
 | Hide and Secret: Pharaoh's Quest | 88264 | [88264-hide-and-secret-pharaohs-quest.json](./88264-hide-and-secret-pharaohs-quest.json) |
 | Hide and Secret: The Lost World | 126687 | [126687-hide-and-secret-the-lost-world.json](./126687-hide-and-secret-the-lost-world.json) |
-| Hide and Seek | 114212 | [114212-hide-and-seek.json](./114212-hide-and-seek.json) |
 | Hide and Seek | 131331 | [131331-hide-and-seek.json](./131331-hide-and-seek.json) |
 | Hide and Seek | 150318 | [150318-hide-and-seek.json](./150318-hide-and-seek.json) |
 | Hide and Seek | 153153 | [153153-hide-and-seek.json](./153153-hide-and-seek.json) |
@@ -12643,7 +12640,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
-| Hotel R'n'R | 114322 | [114322-hotel-rnr.json](./114322-hotel-rnr.json) |
 | Hotel Remorse | 105648 | [105648-hotel-remorse.json](./105648-hotel-remorse.json) |
 | Hotel Renovation 2 | 155396 | [155396-hotel-renovation-2.json](./155396-hotel-renovation-2.json) |
 | Hotel Renovator | 128151 | [128151-hotel-renovator.json](./128151-hotel-renovator.json) |
@@ -13112,7 +13108,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Did My Dad Go to School | 389744 | [389744-how-did-my-dad-go-to-school.json](./389744-how-did-my-dad-go-to-school.json) |
 | How Do You Do It? | 60443 | [60443-how-do-you-do-it.json](./60443-how-do-you-do-it.json) |
 | How Do You Know Mr. Blue? | 115757 | [115757-how-do-you-know-mr-blue.json](./115757-how-do-you-know-mr-blue.json) |
-| How do you like it, Elon Musk? | 113364 | [113364-how-do-you-like-it-elon-musk.json](./113364-how-do-you-like-it-elon-musk.json) |
 | How Do You Like Your Pain? | 401238 | [401238-how-do-you-like-your-pain.json](./401238-how-do-you-like-your-pain.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Does Into Game? | 406921 | [406921-how-does-into-game.json](./406921-how-does-into-game.json) |
