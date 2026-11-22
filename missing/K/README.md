@@ -718,9 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamila's Masochistic Game | 401577 | [401577-kamilas-masochistic-game.json](./401577-kamilas-masochistic-game.json) |
 | Kamila's Sadist Meets the Pacifists | 401580 | [401580-kamilas-sadist-meets-the-pacifists.json](./401580-kamilas-sadist-meets-the-pacifists.json) |
 | Kamile VR | 121527 | [121527-kamile-vr.json](./121527-kamile-vr.json) |
-| Kamile: The Fall | 122058 | [122058-kamile-the-fall.json](./122058-kamile-the-fall.json) |
 | Kamilia | 336672 | [336672-kamilia.json](./336672-kamilia.json) |
-| Kamimachi Site - Dating story | 118287 | [118287-kamimachi-site-dating-story.json](./118287-kamimachi-site-dating-story.json) |
 | Kaminari | 371796 | [371796-kaminari.json](./371796-kaminari.json) |
 | Kaminariko Konpeki no Akira | 221246 | [221246-kaminariko-konpeki-no-akira.json](./221246-kaminariko-konpeki-no-akira.json) |
 | Kaminazo: Mirai kara no Omoi de | 222261 | [222261-kaminazo-mirai-kara-no-omoi-de.json](./222261-kaminazo-mirai-kara-no-omoi-de.json) |
@@ -1822,7 +1820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
 | Keeper of the Keys | 223245 | [223245-keeper-of-the-keys.json](./223245-keeper-of-the-keys.json) |
 | Keeper of the Labyrinth | 153865 | [153865-keeper-of-the-labyrinth.json](./153865-keeper-of-the-labyrinth.json) |
-| Keeper of the Sun and Moon | 120840 | [120840-keeper-of-the-sun-and-moon.json](./120840-keeper-of-the-sun-and-moon.json) |
 | Keeper of the Valley | 234227 | [234227-keeper-of-the-valley.json](./234227-keeper-of-the-valley.json) |
 | Keeper Practise | 291623 | [291623-keeper-practise.json](./291623-keeper-practise.json) |
 | Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
@@ -1950,7 +1947,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelime Oyunu | 332694 | [332694-kelime-oyunu.json](./332694-kelime-oyunu.json) |
 | Kelime Oyunu | 356692 | [356692-kelime-oyunu.json](./356692-kelime-oyunu.json) |
 | KelimeLink | 409855 | [409855-kelimelink.json](./409855-kelimelink.json) |
-| Kelipot | 121851 | [121851-kelipot.json](./121851-kelipot.json) |
 | Kellan Graves: Fallen | 371826 | [371826-kellan-graves-fallen.json](./371826-kellan-graves-fallen.json) |
 | Kellogg's Football Tigers | 336444 | [336444-kelloggs-football-tigers.json](./336444-kelloggs-football-tigers.json) |
 | Kellogg's Frosties Gr-r-rand Prix | 398944 | [398944-kelloggs-frosties-gr-r-rand-prix.json](./398944-kelloggs-frosties-gr-r-rand-prix.json) |
@@ -2621,7 +2617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Kards | 108539 | [108539-kids-kards.json](./108539-kids-kards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
-| Kid's Safety With George Blessure | 120988 | [120988-kids-safety-with-george-blessure.json](./120988-kids-safety-with-george-blessure.json) |
 | Kid's Sudoku, 100 puzzles | 98777 | [98777-kids-sudoku-100-puzzles.json](./98777-kids-sudoku-100-puzzles.json) |
 | Kidblock | 243171 | [243171-kidblock.json](./243171-kidblock.json) |
 | Kidd Copter | 381326 | [381326-kidd-copter.json](./381326-kidd-copter.json) |
@@ -4621,7 +4616,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Secrets from the Past - Eisuke | 238225 | [238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json](./238225-kissed-by-the-baddest-bidder-secrets-from-the-past-eisuke.json) |
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kisses | 425391 | [425391-kisses.json](./425391-kisses.json) |
-| Kissing Simulator | 118987 | [118987-kissing-simulator.json](./118987-kissing-simulator.json) |
 | Kissing the Buddha's Feet | 217780 | [217780-kissing-the-buddhas-feet.json](./217780-kissing-the-buddhas-feet.json) |
 | Kissing Your Homies Goodnight | 184734 | [184734-kissing-your-homies-goodnight.json](./184734-kissing-your-homies-goodnight.json) |
 | Kissoro | 282426 | [282426-kissoro.json](./282426-kissoro.json) |
@@ -7343,7 +7337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyle is Famous: Kyle is Santa | 171209 | [171209-kyle-is-famous-kyle-is-santa.json](./171209-kyle-is-famous-kyle-is-santa.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
 | Kyle Rittenhouse's Turkey Shoot | 206540 | [206540-kyle-rittenhouses-turkey-shoot.json](./206540-kyle-rittenhouses-turkey-shoot.json) |
-| Kyle Simulator | 120133 | [120133-kyle-simulator.json](./120133-kyle-simulator.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
 | Kylie Sing & Dance | 50671 | [50671-kylie-sing-and-dance.json](./50671-kylie-sing-and-dance.json) |
