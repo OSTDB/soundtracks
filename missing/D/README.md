@@ -9351,6 +9351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Inside Us: Roots of Evil | 150782 | [150782-devil-inside-us-roots-of-evil.json](./150782-devil-inside-us-roots-of-evil.json) |
 | Devil Invasion | 297390 | [297390-devil-invasion.json](./297390-devil-invasion.json) |
 | Devil Island | 247392 | [247392-devil-island.json](./247392-devil-island.json) |
+| Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
 | Devil Kiss | 196443 | [196443-devil-kiss.json](./196443-devil-kiss.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
@@ -11216,6 +11217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
 | Dinobasher | 248847 | [248847-dinobasher.json](./248847-dinobasher.json) |
+| Dinoblade | 330174 | [330174-dinoblade.json](./330174-dinoblade.json) |
 | DinoBlaster | 37415 | [37415-dinoblaster.json](./37415-dinoblaster.json) |
 | Dinoblits | 219244 | [219244-dinoblits.json](./219244-dinoblits.json) |
 | DinoBones: Tidy Up the Museum | 414637 | [414637-dinobones-tidy-up-the-museum.json](./414637-dinobones-tidy-up-the-museum.json) |
