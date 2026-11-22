@@ -2098,6 +2098,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eins Ring | 204319 | [204319-eins-ring.json](./204319-eins-ring.json) |
 | Einstein | 92731 | [92731-einstein.json](./92731-einstein.json) |
 | Einstein Riddle Island Puzzle | 388272 | [388272-einstein-riddle-island-puzzle.json](./388272-einstein-riddle-island-puzzle.json) |
+| Einstein Yori Ai wo Komete | 425032 | [425032-einstein-yori-ai-wo-komete.json](./425032-einstein-yori-ai-wo-komete.json) |
+| Einstein Yori Ai wo Komete: Apollo Crisis | 425037 | [425037-einstein-yori-ai-wo-komete-apollo-crisis.json](./425037-einstein-yori-ai-wo-komete-apollo-crisis.json) |
+| Einstein Yori Ai wo Komete: Deluxe Limited Edition | 425034 | [425034-einstein-yori-ai-wo-komete-deluxe-limited-edition.json](./425034-einstein-yori-ai-wo-komete-deluxe-limited-edition.json) |
 | Einstein: Brain Training | 106916 | [106916-einstein-brain-training.json](./106916-einstein-brain-training.json) |
 | Einstein's Brain Power | 209189 | [209189-einsteins-brain-power.json](./209189-einsteins-brain-power.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
@@ -2397,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Horror: Digital Edition | 375792 | [375792-eldritch-horror-digital-edition.json](./375792-eldritch-horror-digital-edition.json) |
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
 | Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
+| Eldritch Slayer | 424496 | [424496-eldritch-slayer.json](./424496-eldritch-slayer.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
 | Eldritch Survivors | 335728 | [335728-eldritch-survivors.json](./335728-eldritch-survivors.json) |
 | Eldritch Tactics: Apocalypse Rising | 401589 | [401589-eldritch-tactics-apocalypse-rising.json](./401589-eldritch-tactics-apocalypse-rising.json) |
@@ -5484,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon Protocol | 342277 | [342277-epsilon-protocol.json](./342277-epsilon-protocol.json) |
 | Epsilon Tahari: Reign of the Machines | 69736 | [69736-epsilon-tahari-reign-of-the-machines.json](./69736-epsilon-tahari-reign-of-the-machines.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
+| Epsilon Zero | 424499 | [424499-epsilon-zero.json](./424499-epsilon-zero.json) |
 | Epstein | 284575 | [284575-epstein.json](./284575-epstein.json) |
 | Epstein 2 | 315091 | [315091-epstein-2.json](./315091-epstein-2.json) |
 | Epsylon | 220014 | [220014-epsylon.json](./220014-epsylon.json) |
@@ -9275,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiate | 202574 | [202574-expiate.json](./202574-expiate.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
+| Expiration | 424912 | [424912-expiration.json](./424912-expiration.json) |
 | Expiri: Tenebris | 271085 | [271085-expiri-tenebris.json](./271085-expiri-tenebris.json) |
 | Explaining Every String | 271103 | [271103-explaining-every-string.json](./271103-explaining-every-string.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
