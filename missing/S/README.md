@@ -2496,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfactory 1.2 | 402388 | [402388-satisfactory-1-2.json](./402388-satisfactory-1-2.json) |
 | Satisfactory Modeler | 359662 | [359662-satisfactory-modeler.json](./359662-satisfactory-modeler.json) |
 | Satisfactory: 1.0 Update | 314012 | [314012-satisfactory-1-0-update.json](./314012-satisfactory-1-0-update.json) |
+| Satisfactory: Core Values | 420812 | [420812-satisfactory-core-values.json](./420812-satisfactory-core-values.json) |
 | Satisfactory: Update 1 | 222879 | [222879-satisfactory-update-1.json](./222879-satisfactory-update-1.json) |
 | Satisfactory: Update 2 | 222878 | [222878-satisfactory-update-2.json](./222878-satisfactory-update-2.json) |
 | Satisfactory: Update 3 | 222865 | [222865-satisfactory-update-3.json](./222865-satisfactory-update-3.json) |
@@ -7760,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Corridor | 172854 | [172854-shadow-corridor.json](./172854-shadow-corridor.json) |
 | Shadow Corridor | 176009 | [176009-shadow-corridor.json](./176009-shadow-corridor.json) |
 | Shadow Corridor 2: Ama no Yohira | 258410 | [258410-shadow-corridor-2-ama-no-yohira.json](./258410-shadow-corridor-2-ama-no-yohira.json) |
+| Shadow Corruption Unit | 420097 | [420097-shadow-corruption-unit.json](./420097-shadow-corruption-unit.json) |
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Dancer | 308420 | [308420-shadow-dancer.json](./308420-shadow-dancer.json) |
 | Shadow Dancer | 6876 | [6876-shadow-dancer.json](./6876-shadow-dancer.json) |
@@ -7848,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Matching Puzzles | 231904 | [231904-shadow-matching-puzzles.json](./231904-shadow-matching-puzzles.json) |
 | Shadow Mate | 267281 | [267281-shadow-mate.json](./267281-shadow-mate.json) |
 | Shadow Mist | 28905 | [28905-shadow-mist.json](./28905-shadow-mist.json) |
+| Shadow Mist Idle | 420085 | [420085-shadow-mist-idle.json](./420085-shadow-mist-idle.json) |
 | Shadow Monarchs Rise | 374071 | [374071-shadow-monarchs-rise.json](./374071-shadow-monarchs-rise.json) |
 | Shadow Mystery | 331722 | [331722-shadow-mystery.json](./331722-shadow-mystery.json) |
 | Shadow Ninja: Apocalypse | 34777 | [34777-shadow-ninja-apocalypse.json](./34777-shadow-ninja-apocalypse.json) |
@@ -8001,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Strike: Street Combat | 276613 | [276613-shadow-strike-street-combat.json](./276613-shadow-strike-street-combat.json) |
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Strikers: Arena of Rivals | 336844 | [336844-shadow-strikers-arena-of-rivals.json](./336844-shadow-strikers-arena-of-rivals.json) |
+| Shadow Strings | 420089 | [420089-shadow-strings.json](./420089-shadow-strings.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
 | Shadow Switcher | 408486 | [408486-shadow-switcher.json](./408486-shadow-switcher.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
@@ -8138,6 +8142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowland: Rise of the Fallen | 360720 | [360720-shadowland-rise-of-the-fallen.json](./360720-shadowland-rise-of-the-fallen.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
+| Shadowlift: Zero Trace | 420086 | [420086-shadowlift-zero-trace.json](./420086-shadowlift-zero-trace.json) |
 | Shadowlight | 420055 | [420055-shadowlight.json](./420055-shadowlight.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
@@ -8218,8 +8223,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Fate | 258051 | [258051-shadows-of-fate.json](./258051-shadows-of-fate.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Forbidden Gods: The Horrors Beneath | 290783 | [290783-shadows-of-forbidden-gods-the-horrors-beneath.json](./290783-shadows-of-forbidden-gods-the-horrors-beneath.json) |
+| Shadows of Fortificar | 420082 | [420082-shadows-of-fortificar.json](./420082-shadows-of-fortificar.json) |
 | Shadows of Glory | 191916 | [191916-shadows-of-glory.json](./191916-shadows-of-glory.json) |
+| Shadows of Gothenburg | 420087 | [420087-shadows-of-gothenburg.json](./420087-shadows-of-gothenburg.json) |
 | Shadows of Her Past | 86648 | [86648-shadows-of-her-past.json](./86648-shadows-of-her-past.json) |
+| Shadows of Imalor | 420077 | [420077-shadows-of-imalor.json](./420077-shadows-of-imalor.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
 | Shadows of Larth | 121884 | [121884-shadows-of-larth.json](./121884-shadows-of-larth.json) |
@@ -8249,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Past | 364647 | [364647-shadows-of-the-past.json](./364647-shadows-of-the-past.json) |
 | Shadows of the Past | 365752 | [365752-shadows-of-the-past.json](./365752-shadows-of-the-past.json) |
 | Shadows of the Republic | 418520 | [418520-shadows-of-the-republic.json](./418520-shadows-of-the-republic.json) |
+| Shadows of the Ruins | 420101 | [420101-shadows-of-the-ruins.json](./420101-shadows-of-the-ruins.json) |
 | Shadows of the Sengoku | 149103 | [149103-shadows-of-the-sengoku.json](./149103-shadows-of-the-sengoku.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
@@ -12672,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simi Aventuras FS | 420609 | [420609-simi-aventuras-fs.json](./420609-simi-aventuras-fs.json) |
 | Simian | 390344 | [390344-simian.json](./390344-simian.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
+| Simian Shakespeare | 420106 | [420106-simian-shakespeare.json](./420106-simian-shakespeare.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
 | Simil | 258157 | [258157-simil.json](./258157-simil.json) |
 | Similars: Climb | 121194 | [121194-similars-climb.json](./121194-similars-climb.json) |
@@ -14047,7 +14057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton | 46897 | [46897-skeleton.json](./46897-skeleton.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
 | Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
-| Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
 | Skeleton Gelatin | 408472 | [408472-skeleton-gelatin.json](./408472-skeleton-gelatin.json) |
@@ -24132,11 +24141,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spear Throwing Challange | 135619 | [135619-spear-throwing-challange.json](./135619-spear-throwing-challange.json) |
 | Spearain | 320301 | [320301-spearain.json](./320301-spearain.json) |
 | Speard | 257322 | [257322-speard.json](./257322-speard.json) |
+| SpearDive | 420107 | [420107-speardive.json](./420107-speardive.json) |
+| Spearfish | 420104 | [420104-spearfish.json](./420104-spearfish.json) |
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | Spearfishing - Deep Sea Scuba | 107088 | [107088-spearfishing-deep-sea-scuba.json](./107088-spearfishing-deep-sea-scuba.json) |
 | SpearFrog | 201870 | [201870-spearfrog.json](./201870-spearfrog.json) |
 | Spearhead | 200494 | [200494-spearhead.json](./200494-spearhead.json) |
 | Spearhead | 71115 | [71115-spearhead.json](./71115-spearhead.json) |
+| Spearhead 2 | 420105 | [420105-spearhead-2.json](./420105-spearhead-2.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spearmint Mountain | 183495 | [183495-spearmint-mountain.json](./183495-spearmint-mountain.json) |
@@ -29788,6 +29800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
+| Starving Shadows | 420084 | [420084-starving-shadows.json](./420084-starving-shadows.json) |
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starwake | 425981 | [425981-starwake.json](./425981-starwake.json) |
@@ -30418,6 +30431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Saviour Reloaded | 212932 | [212932-steel-saviour-reloaded.json](./212932-steel-saviour-reloaded.json) |
 | Steel Seraph | 117167 | [117167-steel-seraph.json](./117167-steel-seraph.json) |
 | Steel Seraphim: Proving Grounds | 408225 | [408225-steel-seraphim-proving-grounds.json](./408225-steel-seraphim-proving-grounds.json) |
+| Steel Shadows Arena | 420100 | [420100-steel-shadows-arena.json](./420100-steel-shadows-arena.json) |
 | Steel Shell | 192809 | [192809-steel-shell.json](./192809-steel-shell.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
