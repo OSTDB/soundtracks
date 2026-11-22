@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHF Handball Challenge 14 | 17088 | [17088-ihf-handball-challenge-14.json](./17088-ihf-handball-challenge-14.json) |
 | Ihin | 325070 | [325070-ihin.json](./325070-ihin.json) |
 | iHooy! | 79857 | [79857-ihooy.json](./79857-ihooy.json) |
+| iHorse G1 Leading Sire | 427896 | [427896-ihorse-g1-leading-sire.json](./427896-ihorse-g1-leading-sire.json) |
 | IHRA Drag Racing 2 | 210078 | [210078-ihra-drag-racing-2.json](./210078-ihra-drag-racing-2.json) |
 | IHRA Drag Racing 2004 | 69921 | [69921-ihra-drag-racing-2004.json](./69921-ihra-drag-racing-2004.json) |
 | IHRA Motorsports | 138075 | [138075-ihra-motorsports.json](./138075-ihra-motorsports.json) |
@@ -7278,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Realms | 54118 | [54118-island-realms.json](./54118-island-realms.json) |
 | Island Rescue | 335548 | [335548-island-rescue.json](./335548-island-rescue.json) |
 | Island Restoration | 392569 | [392569-island-restoration.json](./392569-island-restoration.json) |
+| Island Rhapsody | 427897 | [427897-island-rhapsody.json](./427897-island-rhapsody.json) |
 | Island Rise | 287816 | [287816-island-rise.json](./287816-island-rise.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
 | Island Rush | 274053 | [274053-island-rush.json](./274053-island-rush.json) |
@@ -7478,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
 | Isometric Epilepsy | 108775 | [108775-isometric-epilepsy.json](./108775-isometric-epilepsy.json) |
 | Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
+| Isometric House Builder | 427642 | [427642-isometric-house-builder.json](./427642-isometric-house-builder.json) |
 | Isometric Nonogram | 155818 | [155818-isometric-nonogram.json](./155818-isometric-nonogram.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
