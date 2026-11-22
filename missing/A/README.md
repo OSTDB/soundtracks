@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
 | Abashera | 71108 | [71108-abashera.json](./71108-abashera.json) |
 | Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
+| Abasralsa | 81962 | [81962-abasralsa.json](./81962-abasralsa.json) |
 | Abathor | 237174 | [237174-abathor.json](./237174-abathor.json) |
 | Abathor: Atlantis Landing | 247789 | [247789-abathor-atlantis-landing.json](./247789-abathor-atlantis-landing.json) |
 | Abathor: Collector's Edition | 284479 | [284479-abathor-collectors-edition.json](./284479-abathor-collectors-edition.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
+| Achievement Clicker 2018 | 81847 | [81847-achievement-clicker-2018.json](./81847-achievement-clicker-2018.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
@@ -6532,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Garden | 305380 | [305380-air-garden.json](./305380-air-garden.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Guardians | 11443 | [11443-air-guardians.json](./11443-air-guardians.json) |
+| Air Guitar Warrior for Kinect | 82375 | [82375-air-guitar-warrior-for-kinect.json](./82375-air-guitar-warrior-for-kinect.json) |
 | Air Guitar Warrior: Gamepad Edition | 106168 | [106168-air-guitar-warrior-gamepad-edition.json](./106168-air-guitar-warrior-gamepad-edition.json) |
 | Air Gun Fighter | 167469 | [167469-air-gun-fighter.json](./167469-air-gun-fighter.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
@@ -15771,6 +15774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than a 5th Grader | 35440 | [35440-are-you-smarter-than-a-5th-grader.json](./35440-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter than a 5th Grader? | 199325 | [199325-are-you-smarter-than-a-5th-grader.json](./199325-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? | 212767 | [212767-are-you-smarter-than-a-5th-grader.json](./212767-are-you-smarter-than-a-5th-grader.json) |
+| Are You Smarter Than a 5th Grader? | 81347 | [81347-are-you-smarter-than-a-5th-grader.json](./81347-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than A 5th Grader? | 220072 | [220072-are-you-smarter-than-a-5th-grader.json](./220072-are-you-smarter-than-a-5th-grader.json) |
 | Are You Smarter Than a 5th Grader? & Friends | 79428 | [79428-are-you-smarter-than-a-5th-grader-and-friends.json](./79428-are-you-smarter-than-a-5th-grader-and-friends.json) |
 | Are You Smarter Than a 5th Grader? Game Time | 197940 | [197940-are-you-smarter-than-a-5th-grader-game-time.json](./197940-are-you-smarter-than-a-5th-grader-game-time.json) |
