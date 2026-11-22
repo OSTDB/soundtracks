@@ -11248,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastar | 267582 | [267582-blastar.json](./267582-blastar.json) |
 | Blastar | 274848 | [274848-blastar.json](./274848-blastar.json) |
+| Blastard! | 426681 | [426681-blastard.json](./426681-blastard.json) |
 | BlastArena.io | 75410 | [75410-blastarena-io.json](./75410-blastarena-io.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastback | 350090 | [350090-blastback.json](./350090-blastback.json) |
@@ -19350,6 +19351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucket Time | 419247 | [419247-bucket-time.json](./419247-bucket-time.json) |
 | Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
+| Bucket Truck VR Simulator: Crane Truck Simulator VR | 426330 | [426330-bucket-truck-vr-simulator-crane-truck-simulator-vr.json](./426330-bucket-truck-vr-simulator-crane-truck-simulator-vr.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Bucketz | 283556 | [283556-bucketz.json](./283556-bucketz.json) |
 | Bucketz Ride | 283557 | [283557-bucketz-ride.json](./283557-bucketz-ride.json) |
