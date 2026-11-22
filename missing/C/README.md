@@ -1452,7 +1452,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canary: Kono Omoi wo Uta ni Nosete | 269412 | [269412-canary-kono-omoi-wo-uta-ni-nosete.json](./269412-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 319627 | [319627-canary-kono-omoi-wo-uta-ni-nosete.json](./319627-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canasta | 99905 | [99905-canasta.json](./99905-canasta.json) |
-| Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
@@ -4754,7 +4753,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Knight | 151408 | [151408-cat-knight.json](./151408-cat-knight.json) |
 | Cat Knights | 90096 | [90096-cat-knights.json](./90096-cat-knights.json) |
 | Cat Lab! | 344527 | [344527-cat-lab.json](./344527-cat-lab.json) |
-| Cat Lady | 119282 | [119282-cat-lady.json](./119282-cat-lady.json) |
 | Cat Leather Jackets | 162435 | [162435-cat-leather-jackets.json](./162435-cat-leather-jackets.json) |
 | Cat Legend | 274554 | [274554-cat-legend.json](./274554-cat-legend.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
@@ -8173,7 +8171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Reboot 2 | 338513 | [338513-chibi-reboot-2.json](./338513-chibi-reboot-2.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
-| Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
 | Chibi Wars Kinetic Novel | 290578 | [290578-chibi-wars-kinetic-novel.json](./290578-chibi-wars-kinetic-novel.json) |
 | Chibi Yandere Complete Edition | 179091 | [179091-chibi-yandere-complete-edition.json](./179091-chibi-yandere-complete-edition.json) |
 | Chibi-Robo! | 134255 | [134255-chibi-robo.json](./134255-chibi-robo.json) |
@@ -11866,7 +11863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click For Points | 223315 | [223315-click-for-points.json](./223315-click-for-points.json) |
 | Click Frenzy | 384434 | [384434-click-frenzy.json](./384434-click-frenzy.json) |
 | Click Here | 264761 | [264761-click-here.json](./264761-click-here.json) |
-| Click Legends | 118597 | [118597-click-legends.json](./118597-click-legends.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
 | Click Manga: Click no Hi | 260113 | [260113-click-manga-click-no-hi.json](./260113-click-manga-click-no-hi.json) |
@@ -11993,7 +11989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickpocalypse II | 247311 | [247311-clickpocalypse-ii.json](./247311-clickpocalypse-ii.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
-| ClickRaid2 | 120019 | [120019-clickraid2.json](./120019-clickraid2.json) |
 | Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
 | Clicksama | 346306 | [346306-clicksama.json](./346306-clicksama.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
@@ -13678,7 +13673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapse! | 84439 | [84439-collapse.json](./84439-collapse.json) |
 | Collapse! Chaos | 410114 | [410114-collapse-chaos.json](./410114-collapse-chaos.json) |
 | Collapse! Crunch | 73327 | [73327-collapse-crunch.json](./73327-collapse-crunch.json) |
-| Collapsed | 118801 | [118801-collapsed.json](./118801-collapsed.json) |
 | Collapsed | 199704 | [199704-collapsed.json](./199704-collapsed.json) |
 | Collapsed Galaxy II | 248895 | [248895-collapsed-galaxy-ii.json](./248895-collapsed-galaxy-ii.json) |
 | Collapsed Horizon | 333031 | [333031-collapsed-horizon.json](./333031-collapsed-horizon.json) |
@@ -17224,7 +17218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Keeper | 217077 | [217077-corpse-keeper.json](./217077-corpse-keeper.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
-| Corpse Killer: 25th Anniversary Edition | 119715 | [119715-corpse-killer-25th-anniversary-edition.json](./119715-corpse-killer-25th-anniversary-edition.json) |
 | Corpse Killer: Graveyard Edition | 45492 | [45492-corpse-killer-graveyard-edition.json](./45492-corpse-killer-graveyard-edition.json) |
 | Corpse Mansion | 167353 | [167353-corpse-mansion.json](./167353-corpse-mansion.json) |
 | Corpse Master | 250805 | [250805-corpse-master.json](./250805-corpse-master.json) |
@@ -19168,7 +19161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
 | Crawling Angels | 374864 | [374864-crawling-angels.json](./374864-crawling-angels.json) |
 | Crawling Lab | 297101 | [297101-crawling-lab.json](./297101-crawling-lab.json) |
-| Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
 | Crawling Silence | 197453 | [197453-crawling-silence.json](./197453-crawling-silence.json) |
 | Crawlll | 411907 | [411907-crawlll.json](./411907-crawlll.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
@@ -19414,7 +19406,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Drift | 223298 | [223298-crazy-drift.json](./223298-crazy-drift.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
-| Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
 | Crazy Driver | 230634 | [230634-crazy-driver.json](./230634-crazy-driver.json) |
 | Crazy Drops | 340196 | [340196-crazy-drops.json](./340196-crazy-drops.json) |
 | Crazy Dungeon | 381962 | [381962-crazy-dungeon.json](./381962-crazy-dungeon.json) |
@@ -20061,7 +20052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Captain 2014 | 10113 | [10113-cricket-captain-2014.json](./10113-cricket-captain-2014.json) |
 | Cricket Captain 2015 | 33968 | [33968-cricket-captain-2015.json](./33968-cricket-captain-2015.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
-| Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
 | Cricket Captain 2020 | 137914 | [137914-cricket-captain-2020.json](./137914-cricket-captain-2020.json) |
 | Cricket Captain 2021 | 156212 | [156212-cricket-captain-2021.json](./156212-cricket-captain-2021.json) |
 | Cricket Captain 2022 | 203601 | [203601-cricket-captain-2022.json](./203601-cricket-captain-2022.json) |
@@ -21916,7 +21906,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS-VR | 371401 | [371401-cs-vr.json](./371401-cs-vr.json) |
 | CS2D | 180339 | [180339-cs2d.json](./180339-cs2d.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
-| CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
 | CSCĐ: Vietnam Mobile Police | 291324 | [291324-csc-vietnam-mobile-police.json](./291324-csc-vietnam-mobile-police.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
 | CSI: 3 Dimensions of Murder | 7633 | [7633-csi-3-dimensions-of-murder.json](./7633-csi-3-dimensions-of-murder.json) |
@@ -23668,7 +23657,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Obsession | 410595 | [410595-cyber-obsession.json](./410595-cyber-obsession.json) |
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
-| Cyber OutRun | 121461 | [121461-cyber-outrun.json](./121461-cyber-outrun.json) |
 | Cyber Owls | 318667 | [318667-cyber-owls.json](./318667-cyber-owls.json) |
 | Cyber Paradise | 258574 | [258574-cyber-paradise.json](./258574-cyber-paradise.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
