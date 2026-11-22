@@ -1026,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Ninja Shooter | 207772 | [207772-ultra-ninja-shooter.json](./207772-ultra-ninja-shooter.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Nothing | 377674 | [377674-ultra-nothing.json](./377674-ultra-nothing.json) |
-| Ultra Off-Road Simulator 2019: Alaska | 113407 | [113407-ultra-off-road-simulator-2019-alaska.json](./113407-ultra-off-road-simulator-2019-alaska.json) |
 | Ultra Pig | 112614 | [112614-ultra-pig.json](./112614-ultra-pig.json) |
 | Ultra Pixel Survive | 243763 | [243763-ultra-pixel-survive.json](./243763-ultra-pixel-survive.json) |
 | Ultra Pro Wrestling | 236084 | [236084-ultra-pro-wrestling.json](./236084-ultra-pro-wrestling.json) |
@@ -1182,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranium3D | 99824 | [99824-ultranium3d.json](./99824-ultranium3d.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
+| Ultrapolis | 421464 | [421464-ultrapolis.json](./421464-ultrapolis.json) |
 | Ultrapong: Sega Version | 398657 | [398657-ultrapong-sega-version.json](./398657-ultrapong-sega-version.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
 | Ultraprocessor Ribbon | 412692 | [412692-ultraprocessor-ribbon.json](./412692-ultraprocessor-ribbon.json) |
@@ -1863,7 +1863,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Night In-Bright II Sys:Celes - Deluxe Edition | 277303 | [277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json](./277303-under-night-in-bright-ii-sys-celes-deluxe-edition.json) |
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
-| Under One Wing | 114811 | [114811-under-one-wing.json](./114811-under-one-wing.json) |
 | Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
@@ -2273,7 +2272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undesired Harem: Harem Nanka Nozondenai! | 305591 | [305591-undesired-harem-harem-nanka-nozondenai.json](./305591-undesired-harem-harem-nanka-nozondenai.json) |
 | Undestroyed | 174995 | [174995-undestroyed.json](./174995-undestroyed.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
-| Undholm | 114401 | [114401-undholm.json](./114401-undholm.json) |
 | Undiscovered | 391902 | [391902-undiscovered.json](./391902-undiscovered.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
@@ -3842,7 +3840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Jungle | 281908 | [281908-urban-jungle.json](./281908-urban-jungle.json) |
 | Urban Jungle + Sticky Business | 407101 | [407101-urban-jungle-sticky-business.json](./407101-urban-jungle-sticky-business.json) |
 | Urban Jungle: Brother's Wedding Story | 401001 | [401001-urban-jungle-brothers-wedding-story.json](./401001-urban-jungle-brothers-wedding-story.json) |
-| Urban Justice | 113525 | [113525-urban-justice.json](./113525-urban-justice.json) |
 | Urban Kick Academy | 78353 | [78353-urban-kick-academy.json](./78353-urban-kick-academy.json) |
 | Urban Legend Hunters 2: Double | 278799 | [278799-urban-legend-hunters-2-double.json](./278799-urban-legend-hunters-2-double.json) |
 | Urban Legend Hunters: Ghosts in the Circuit | 369921 | [369921-urban-legend-hunters-ghosts-in-the-circuit.json](./369921-urban-legend-hunters-ghosts-in-the-circuit.json) |
@@ -3878,7 +3875,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Struggle | 429656 | [429656-urban-struggle.json](./429656-urban-struggle.json) |
 | Urban Survival | 148957 | [148957-urban-survival.json](./148957-urban-survival.json) |
 | Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
-| Urban Tale | 113746 | [113746-urban-tale.json](./113746-urban-tale.json) |
 | Urban Taxi Simulator | 268937 | [268937-urban-taxi-simulator.json](./268937-urban-taxi-simulator.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
 | Urban Thief Simulator: The Ultimate Heist | 283023 | [283023-urban-thief-simulator-the-ultimate-heist.json](./283023-urban-thief-simulator-the-ultimate-heist.json) |
