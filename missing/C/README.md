@@ -23593,6 +23593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Drift | 205857 | [205857-cyber-drift.json](./205857-cyber-drift.json) |
 | Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
 | Cyber Drive Zoids: Hatakedamono no Senshi Hugh | 49547 | [49547-cyber-drive-zoids-hatakedamono-no-senshi-hugh.json](./49547-cyber-drive-zoids-hatakedamono-no-senshi-hugh.json) |
+| Cyber Driver | 117055 | [117055-cyber-driver.json](./117055-cyber-driver.json) |
 | Cyber Driver VR | 132935 | [132935-cyber-driver-vr.json](./132935-cyber-driver-vr.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
