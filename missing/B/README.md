@@ -5808,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
+| Beast Breaker | 145426 | [145426-beast-breaker.json](./145426-beast-breaker.json) |
 | Beast Brigade | 155797 | [155797-beast-brigade.json](./155797-beast-brigade.json) |
 | Beast Bumpers | 398907 | [398907-beast-bumpers.json](./398907-beast-bumpers.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
@@ -9826,6 +9827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthright: The Gorgon's Alliance | 77191 | [77191-birthright-the-gorgons-alliance.json](./77191-birthright-the-gorgons-alliance.json) |
 | Birthseederia | 30098 | [30098-birthseederia.json](./30098-birthseederia.json) |
 | Birushana Senki: Ichijuu no Kaze | 225540 | [225540-birushana-senki-ichijuu-no-kaze.json](./225540-birushana-senki-ichijuu-no-kaze.json) |
+| Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
 | Biryado | 379791 | [379791-biryado.json](./379791-biryado.json) |
