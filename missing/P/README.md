@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Fit - Totemland | 31114 | [31114-perfect-fit-totemland.json](./31114-perfect-fit-totemland.json) |
 | Perfect Flow | 342941 | [342941-perfect-flow.json](./342941-perfect-flow.json) |
+| Perfect Gold: The Alchemy of Happiness | 145997 | [145997-perfect-gold-the-alchemy-of-happiness.json](./145997-perfect-gold-the-alchemy-of-happiness.json) |
 | Perfect Golf | 17193 | [17193-perfect-golf.json](./17193-perfect-golf.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Hair Forever: The Ninth Level of Power | 397351 | [397351-perfect-hair-forever-the-ninth-level-of-power.json](./397351-perfect-hair-forever-the-ninth-level-of-power.json) |
@@ -5264,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Periscope Down | 383420 | [383420-periscope-down.json](./383420-periscope-down.json) |
 | Periscope Up | 13023 | [13023-periscope-up.json](./13023-periscope-up.json) |
+| Perish | 145797 | [145797-perish.json](./145797-perish.json) |
 | Perish | 313662 | [313662-perish.json](./313662-perish.json) |
 | Perish Parade | 352880 | [352880-perish-parade.json](./352880-perish-parade.json) |
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
@@ -10008,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Nom Nom Galaxy | 10602 | [10602-pixeljunk-nom-nom-galaxy.json](./10602-pixeljunk-nom-nom-galaxy.json) |
 | PixelJunk Racers | 20762 | [20762-pixeljunk-racers.json](./20762-pixeljunk-racers.json) |
 | PixelJunk Racers: 2nd Lap | 44576 | [44576-pixeljunk-racers-2nd-lap.json](./44576-pixeljunk-racers-2nd-lap.json) |
+| PixelJunk Raiders | 144140 | [144140-pixeljunk-raiders.json](./144140-pixeljunk-raiders.json) |
 | PixelJunk Shooter | 9912 | [9912-pixeljunk-shooter.json](./9912-pixeljunk-shooter.json) |
 | PixelJunk Shooter 2 | 20446 | [20446-pixeljunk-shooter-2.json](./20446-pixeljunk-shooter-2.json) |
 | PixelJunk Shooter Ultimate | 23431 | [23431-pixeljunk-shooter-ultimate.json](./23431-pixeljunk-shooter-ultimate.json) |
@@ -12162,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PocketWorlds | 179405 | [179405-pocketworlds.json](./179405-pocketworlds.json) |
 | Pockey | 81177 | [81177-pockey.json](./81177-pockey.json) |
 | Pockie Ninja | 46944 | [46944-pockie-ninja.json](./46944-pockie-ninja.json) |
+| Pocky & Rocky Reshrined | 144285 | [144285-pocky-and-rocky-reshrined.json](./144285-pocky-and-rocky-reshrined.json) |
 | Poco a Poco | 177449 | [177449-poco-a-poco.json](./177449-poco-a-poco.json) |
 | Poco In | 155731 | [155731-poco-in.json](./155731-poco-in.json) |
 | Poco In Dungeon | 150892 | [150892-poco-in-dungeon.json](./150892-poco-in-dungeon.json) |
