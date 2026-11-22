@@ -5404,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellslave: Project Z-Treme | 321282 | [321282-hellslave-project-z-treme.json](./321282-hellslave-project-z-treme.json) |
 | Hellslinger | 217976 | [217976-hellslinger.json](./217976-hellslinger.json) |
 | Hellspawn | 244204 | [244204-hellspawn.json](./244204-hellspawn.json) |
+| Hellsplit: Arena | 117599 | [117599-hellsplit-arena.json](./117599-hellsplit-arena.json) |
 | Hellsplit: Labyrinth | 410965 | [410965-hellsplit-labyrinth.json](./410965-hellsplit-labyrinth.json) |
 | Hellspresso | 285068 | [285068-hellspresso.json](./285068-hellspresso.json) |
 | Hellsprint | 349447 | [349447-hellsprint.json](./349447-hellsprint.json) |
@@ -9432,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hind Strike | 42215 | [42215-hind-strike.json](./42215-hind-strike.json) |
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
+| Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
 | Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge | 268289 | [268289-hinge.json](./268289-hinge.json) |
