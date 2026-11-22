@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
 | Quiz Climber Rivals | 22923 | [22923-quiz-climber-rivals.json](./22923-quiz-climber-rivals.json) |
 | Quiz Club | 97059 | [97059-quiz-club.json](./97059-quiz-club.json) |
+| Quiz Club by Breizhae | 427645 | [427645-quiz-club-by-breizhae.json](./427645-quiz-club-by-breizhae.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz Crossword | 90766 | [90766-quiz-crossword.json](./90766-quiz-crossword.json) |
 | Quiz Daisousa Sen: The Last Count Down | 75510 | [75510-quiz-daisousa-sen-the-last-count-down.json](./75510-quiz-daisousa-sen-the-last-count-down.json) |
