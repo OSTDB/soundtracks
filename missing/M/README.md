@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Kingdom | 220443 | [220443-maiden-kingdom.json](./220443-maiden-kingdom.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden of the Mizuchi | 418072 | [418072-maiden-of-the-mizuchi.json](./418072-maiden-of-the-mizuchi.json) |
+| Maiden Panic! | 429451 | [429451-maiden-panic.json](./429451-maiden-panic.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maiden's Banquet | 282848 | [282848-maidens-banquet.json](./282848-maidens-banquet.json) |
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
@@ -7648,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mec Me Loffa | 306312 | [306312-mec-me-loffa.json](./306312-mec-me-loffa.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
+| Meccha Horror | 429947 | [429947-meccha-horror.json](./429947-meccha-horror.json) |
 | Meccha Zombies | 116581 | [116581-meccha-zombies.json](./116581-meccha-zombies.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
@@ -10627,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
 | MeowPower! Yachiyo | 373500 | [373500-meowpower-yachiyo.json](./373500-meowpower-yachiyo.json) |
 | MeowRig | 399565 | [399565-meowrig.json](./399565-meowrig.json) |
+| Meowsical Nights: Cat Music Puzzles | 430188 | [430188-meowsical-nights-cat-music-puzzles.json](./430188-meowsical-nights-cat-music-puzzles.json) |
 | MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
 | Meowsterpiece Museum | 287472 | [287472-meowsterpiece-museum.json](./287472-meowsterpiece-museum.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
