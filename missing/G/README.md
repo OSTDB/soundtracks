@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Invaders | 221893 | [221893-galaxy-invaders.json](./221893-galaxy-invaders.json) |
+| Galaxy Invaders: Eclipse Squadron | 425710 | [425710-galaxy-invaders-eclipse-squadron.json](./425710-galaxy-invaders-eclipse-squadron.json) |
 | Galaxy Invasion | 282428 | [282428-galaxy-invasion.json](./282428-galaxy-invasion.json) |
 | Galaxy Kart | 166932 | [166932-galaxy-kart.json](./166932-galaxy-kart.json) |
 | Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemion Function | 357009 | [357009-gemion-function.json](./357009-gemion-function.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
 | Gemlands | 195456 | [195456-gemlands.json](./195456-gemlands.json) |
+| Gemloop | 425698 | [425698-gemloop.json](./425698-gemloop.json) |
 | Gemmiferous | 367707 | [367707-gemmiferous.json](./367707-gemmiferous.json) |
 | Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
@@ -5740,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch War | 138006 | [138006-glitch-war.json](./138006-glitch-war.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitch: Dead Loop Horror | 349809 | [349809-glitch-dead-loop-horror.json](./349809-glitch-dead-loop-horror.json) |
+| Glitch.exe | 426133 | [426133-glitch-exe.json](./426133-glitch-exe.json) |
 | Glitch's Trip | 75083 | [75083-glitchs-trip.json](./75083-glitchs-trip.json) |
 | Glitchangels | 127543 | [127543-glitchangels.json](./127543-glitchangels.json) |
 | Glitchball | 99450 | [99450-glitchball.json](./99450-glitchball.json) |
@@ -5945,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Juncture | 189296 | [189296-gloomy-juncture.json](./189296-gloomy-juncture.json) |
 | Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
 | Gloomy Tales: Hotel Frightsylvania - Collector's Edition | 340306 | [340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json](./340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json) |
+| Gloomy Tales: One-Way Ticket | 426141 | [426141-gloomy-tales-one-way-ticket.json](./426141-gloomy-tales-one-way-ticket.json) |
 | Gloomy Tales: One-Way Ticket - Collector's Edition | 271643 | [271643-gloomy-tales-one-way-ticket-collectors-edition.json](./271643-gloomy-tales-one-way-ticket-collectors-edition.json) |
 | Gloomy Tales: One-Way Ticket DLC | 274711 | [274711-gloomy-tales-one-way-ticket-dlc.json](./274711-gloomy-tales-one-way-ticket-dlc.json) |
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
