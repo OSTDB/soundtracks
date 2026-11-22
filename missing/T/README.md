@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle | 172044 | [172044-tank-battle.json](./172044-tank-battle.json) |
 | Tank Battle | 194901 | [194901-tank-battle.json](./194901-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
+| Tank Battle Classic | 425672 | [425672-tank-battle-classic.json](./425672-tank-battle-classic.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle Mania | 44253 | [44253-tank-battle-mania.json](./44253-tank-battle-mania.json) |
 | Tank Battle Resist | 266017 | [266017-tank-battle-resist.json](./266017-tank-battle-resist.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies: Po's Daily Adventures | 101965 | [101965-teletubbies-pos-daily-adventures.json](./101965-teletubbies-pos-daily-adventures.json) |
 | Teletubbies: Sliding Down the Hill | 307840 | [307840-teletubbies-sliding-down-the-hill.json](./307840-teletubbies-sliding-down-the-hill.json) |
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
+| Television Dynasty Manager | 425704 | [425704-television-dynasty-manager.json](./425704-television-dynasty-manager.json) |
 | Television Trivia | 302743 | [302743-television-trivia.json](./302743-television-trivia.json) |
 | Telf AG | 287781 | [287781-telf-ag.json](./287781-telf-ag.json) |
 | Tell a Demon | 51599 | [51599-tell-a-demon.json](./51599-tell-a-demon.json) |
@@ -10180,6 +10182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elevator | 252542 | [252542-the-elevator.json](./252542-the-elevator.json) |
 | The Elevator | 317325 | [317325-the-elevator.json](./317325-the-elevator.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
+| The Elevator | 425707 | [425707-the-elevator.json](./425707-the-elevator.json) |
 | The Elevator | 57174 | [57174-the-elevator.json](./57174-the-elevator.json) |
 | The Elevator Breakdown | 337700 | [337700-the-elevator-breakdown.json](./337700-the-elevator-breakdown.json) |
 | The Elevator Game | 176256 | [176256-the-elevator-game.json](./176256-the-elevator-game.json) |
@@ -22173,6 +22176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonderful Life of Koshchei | 298507 | [298507-the-wonderful-life-of-koshchei.json](./298507-the-wonderful-life-of-koshchei.json) |
 | The Wonderful One: After School Hero | 250201 | [250201-the-wonderful-one-after-school-hero.json](./250201-the-wonderful-one-after-school-hero.json) |
 | The Wonderful Wizard of Oz | 54200 | [54200-the-wonderful-wizard-of-oz.json](./54200-the-wonderful-wizard-of-oz.json) |
+| The Wonderland Killings | 425688 | [425688-the-wonderland-killings.json](./425688-the-wonderland-killings.json) |
 | The Wonders of the Animal Kingdom | 14256 | [14256-the-wonders-of-the-animal-kingdom.json](./14256-the-wonders-of-the-animal-kingdom.json) |
 | The Wondrous Wedding of Ivan the Bard | 348920 | [348920-the-wondrous-wedding-of-ivan-the-bard.json](./348920-the-wondrous-wedding-of-ivan-the-bard.json) |
 | The Wood Story | 226306 | [226306-the-wood-story.json](./226306-the-wood-story.json) |
@@ -34710,6 +34714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapper: Drug Dealing RPG | 192182 | [192182-trapper-drug-dealing-rpg.json](./192182-trapper-drug-dealing-rpg.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Trappist | 288563 | [288563-trappist.json](./288563-trappist.json) |
+| Trappist-1 | 425689 | [425689-trappist-1.json](./425689-trappist-1.json) |
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
 | Trappy Climb | 181870 | [181870-trappy-climb.json](./181870-trappy-climb.json) |
 | Trappy Duck | 177761 | [177761-trappy-duck.json](./177761-trappy-duck.json) |
@@ -38167,6 +38172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Kingdom | 314123 | [314123-twilight-kingdom.json](./314123-twilight-kingdom.json) |
 | Twilight Lore | 223887 | [223887-twilight-lore.json](./223887-twilight-lore.json) |
 | Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
+| Twilight Mahjong Manor | 425690 | [425690-twilight-mahjong-manor.json](./425690-twilight-mahjong-manor.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
 | Twilight Memoria | 139638 | [139638-twilight-memoria.json](./139638-twilight-memoria.json) |
