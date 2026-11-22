@@ -8204,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet HD | 52708 | [52708-ricochet-hd.json](./52708-ricochet-hd.json) |
 | Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
+| Ricochet Kills: Noir | 29397 | [29397-ricochet-kills-noir.json](./29397-ricochet-kills-noir.json) |
 | Ricochet Lost Worlds: Recharged | 79393 | [79393-ricochet-lost-worlds-recharged.json](./79393-ricochet-lost-worlds-recharged.json) |
 | Ricochet Ranger | 183626 | [183626-ricochet-ranger.json](./183626-ricochet-ranger.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
@@ -9298,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: The Official Game | 344056 | [344056-risk-the-official-game.json](./344056-risk-the-official-game.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risker | 259409 | [259409-risker.json](./259409-risker.json) |
+| Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Bison | 314696 | [314696-risky-bison.json](./314696-risky-bison.json) |
 | Risky Business | 417764 | [417764-risky-business.json](./417764-risky-business.json) |
