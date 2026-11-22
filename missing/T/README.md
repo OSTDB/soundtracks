@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me to Your Leader | 414870 | [414870-take-me-to-your-leader.json](./414870-take-me-to-your-leader.json) |
 | Take Me, Vitaly | 312793 | [312793-take-me-vitaly.json](./312793-take-me-vitaly.json) |
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
+| Take My Bomb | 423440 | [423440-take-my-bomb.json](./423440-take-my-bomb.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take No Prisoners | 8696 | [8696-take-no-prisoners.json](./8696-take-no-prisoners.json) |
 | Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
@@ -9449,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death Wizard's Tower | 149129 | [149129-the-death-wizards-tower.json](./149129-the-death-wizards-tower.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Debt Collector | 389830 | [389830-the-debt-collector.json](./389830-the-debt-collector.json) |
+| The Debtician | 424060 | [424060-the-debtician.json](./424060-the-debtician.json) |
 | The Debug | 139269 | [139269-the-debug.json](./139269-the-debug.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
 | The December Effect | 163766 | [163766-the-december-effect.json](./163766-the-december-effect.json) |
@@ -11847,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Painter | 396848 | [396848-the-gray-painter.json](./396848-the-gray-painter.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
+| The Great 48 | 424037 | [424037-the-great-48.json](./424037-the-great-48.json) |
 | The Great Ace Attorney 2: Resolve | 146081 | [146081-the-great-ace-attorney-2-resolve.json](./146081-the-great-ace-attorney-2-resolve.json) |
 | The Great Ace Attorney Chronicles | 146075 | [146075-the-great-ace-attorney-chronicles.json](./146075-the-great-ace-attorney-chronicles.json) |
 | The Great Ace Attorney: Adventures | 76244 | [76244-the-great-ace-attorney-adventures.json](./76244-the-great-ace-attorney-adventures.json) |
@@ -27169,6 +27172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fight | 238537 | [238537-tiny-fight.json](./238537-tiny-fight.json) |
 | Tiny Fisher | 181206 | [181206-tiny-fisher.json](./181206-tiny-fisher.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
+| Tiny Fishing Club | 423446 | [423446-tiny-fishing-club.json](./423446-tiny-fishing-club.json) |
 | Tiny Fishing Villages | 420478 | [420478-tiny-fishing-villages.json](./420478-tiny-fishing-villages.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Football Cup 2026 | 416221 | [416221-tiny-football-cup-2026.json](./416221-tiny-football-cup-2026.json) |
