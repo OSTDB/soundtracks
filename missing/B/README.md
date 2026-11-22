@@ -9324,6 +9324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingone | 421987 | [421987-bingone.json](./421987-bingone.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
 | Bīngxītú Juàn | 162434 | [162434-bingxitu-juan.json](./162434-bingxitu-juan.json) |
+| Bìngyù | 429097 | [429097-bingyu.json](./429097-bingyu.json) |
 | Biniax | 93357 | [93357-biniax.json](./93357-biniax.json) |
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky | 13401 | [13401-binky.json](./13401-binky.json) |
@@ -13645,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluff Wars | 64066 | [64066-bluff-wars.json](./64066-bluff-wars.json) |
 | Bluff with Ash | 303171 | [303171-bluff-with-ash.json](./303171-bluff-with-ash.json) |
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
+| Bluffriend | 429018 | [429018-bluffriend.json](./429018-bluffriend.json) |
 | Bluk | 57735 | [57735-bluk.json](./57735-bluk.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Bluma | 306410 | [306410-bluma.json](./306410-bluma.json) |
@@ -18747,6 +18749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Heretic RPG | 198680 | [198680-brutal-heretic-rpg.json](./198680-brutal-heretic-rpg.json) |
 | Brutal Hexen RPG | 198681 | [198681-brutal-hexen-rpg.json](./198681-brutal-hexen-rpg.json) |
+| Brutal Horse Power | 428944 | [428944-brutal-horse-power.json](./428944-brutal-horse-power.json) |
 | Brutal Inventions | 88003 | [88003-brutal-inventions.json](./88003-brutal-inventions.json) |
 | Brutal Japan | 205751 | [205751-brutal-japan.json](./205751-brutal-japan.json) |
 | Brutal John 2 | 199287 | [199287-brutal-john-2.json](./199287-brutal-john-2.json) |
@@ -19825,6 +19828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy | 14393 | [14393-bulb-boy.json](./14393-bulb-boy.json) |
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
+| Bulb Boy Anthology | 429027 | [429027-bulb-boy-anthology.json](./429027-bulb-boy-anthology.json) |
 | Bulb Out | 29135 | [29135-bulb-out.json](./29135-bulb-out.json) |
 | Bulb! | 215384 | [215384-bulb.json](./215384-bulb.json) |
 | Bulbo and the Lizard-King | 58822 | [58822-bulbo-and-the-lizard-king.json](./58822-bulbo-and-the-lizard-king.json) |
