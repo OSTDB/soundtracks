@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severance | 374827 | [374827-severance.json](./374827-severance.json) |
+| Severance Pain | 426255 | [426255-severance-pain.json](./426255-severance-pain.json) |
 | Severed | 319081 | [319081-severed.json](./319081-severed.json) |
 | Severed Chains | 424076 | [424076-severed-chains.json](./424076-severed-chains.json) |
 | Severed Lands | 240415 | [240415-severed-lands.json](./240415-severed-lands.json) |
@@ -8333,6 +8334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady's Poopong: 20th Anniversary Edition | 78807 | [78807-shadys-poopong-20th-anniversary-edition.json](./78807-shadys-poopong-20th-anniversary-edition.json) |
 | Shady's Poopong: 22nd Anniversary Edition | 60618 | [60618-shadys-poopong-22nd-anniversary-edition.json](./60618-shadys-poopong-22nd-anniversary-edition.json) |
 | Shady's Stone Smash | 63567 | [63567-shadys-stone-smash.json](./63567-shadys-stone-smash.json) |
+| Shaft Happens | 426258 | [426258-shaft-happens.json](./426258-shaft-happens.json) |
 | Shaft Hero | 314209 | [314209-shaft-hero.json](./314209-shaft-hero.json) |
 | Shaftdiver | 218090 | [218090-shaftdiver.json](./218090-shaftdiver.json) |
 | Shafted | 211692 | [211692-shafted.json](./211692-shafted.json) |
@@ -24497,6 +24499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Racer in My Most Dangerous Adventures | 42457 | [42457-speed-racer-in-my-most-dangerous-adventures.json](./42457-speed-racer-in-my-most-dangerous-adventures.json) |
 | Speed Racer in the Challenge of Racer X | 71087 | [71087-speed-racer-in-the-challenge-of-racer-x.json](./71087-speed-racer-in-the-challenge-of-racer-x.json) |
 | Speed Racer: The Videogame | 5176 | [5176-speed-racer-the-videogame.json](./5176-speed-racer-the-videogame.json) |
+| Speed Racer: Time Trial Tryouts | 425701 | [425701-speed-racer-time-trial-tryouts.json](./425701-speed-racer-time-trial-tryouts.json) |
 | Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
 | Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
 | Speed Rider | 359738 | [359738-speed-rider.json](./359738-speed-rider.json) |
@@ -33664,6 +33667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubLight | 116568 | [116568-sublight.json](./116568-sublight.json) |
 | Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
 | Sublime Solitaire | 270244 | [270244-sublime-solitaire.json](./270244-sublime-solitaire.json) |
+| Sublimeal | 425677 | [425677-sublimeal.json](./425677-sublimeal.json) |
 | Subliminal | 233669 | [233669-subliminal.json](./233669-subliminal.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Realms: The Masterpiece - Collector's Edition | 30266 | [30266-subliminal-realms-the-masterpiece-collectors-edition.json](./30266-subliminal-realms-the-masterpiece-collectors-edition.json) |
