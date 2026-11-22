@@ -796,7 +796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackSlash | 55621 | [55621-backslash.json](./55621-backslash.json) |
 | Backspace | 343467 | [343467-backspace.json](./343467-backspace.json) |
 | Backspace Backspace Backspace | 309500 | [309500-backspace-backspace-backspace.json](./309500-backspace-backspace-backspace.json) |
-| Backspace Bouken | 119820 | [119820-backspace-bouken.json](./119820-backspace-bouken.json) |
 | Backspin Billards | 205901 | [205901-backspin-billards.json](./205901-backspin-billards.json) |
 | Backstab | 271663 | [271663-backstab.json](./271663-backstab.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
