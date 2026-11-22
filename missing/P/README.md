@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzerdogs | 234791 | [234791-panzerdogs.json](./234791-panzerdogs.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
+| Panzermadels: Tank Dating Simulator | 34987 | [34987-panzermadels-tank-dating-simulator.json](./34987-panzermadels-tank-dating-simulator.json) |
 | Panzers East! | 24673 | [24673-panzers-east.json](./24673-panzers-east.json) |
 | Panzers on the Steppe | 187032 | [187032-panzers-on-the-steppe.json](./187032-panzers-on-the-steppe.json) |
 | Pao Pao | 318956 | [318956-pao-pao.json](./318956-pao-pao.json) |
@@ -18182,6 +18183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dreamscape | 367272 | [367272-project-dreamscape.json](./367272-project-dreamscape.json) |
 | Project Drift 2.0 | 214089 | [214089-project-drift-2-0.json](./214089-project-drift-2-0.json) |
 | Project Drift Japan Challenge | 308507 | [308507-project-drift-japan-challenge.json](./308507-project-drift-japan-challenge.json) |
+| Project Druid | 34797 | [34797-project-druid.json](./34797-project-druid.json) |
 | Project Druid | 74853 | [74853-project-druid.json](./74853-project-druid.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dualis | 69449 | [69449-project-dualis.json](./69449-project-dualis.json) |
@@ -21333,6 +21335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
 | Puzzle Station | 70494 | [70494-puzzle-station.json](./70494-puzzle-station.json) |
 | Puzzle Station 15th Anniversary Retro Release | 35348 | [35348-puzzle-station-15th-anniversary-retro-release.json](./35348-puzzle-station-15th-anniversary-retro-release.json) |
+| Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
 | Puzzle Summit: Climbing Difficulty Expansion Pack | 358015 | [358015-puzzle-summit-climbing-difficulty-expansion-pack.json](./358015-puzzle-summit-climbing-difficulty-expansion-pack.json) |
 | Puzzle Summit: Color Sort Difficulty Expansion Pack | 358016 | [358016-puzzle-summit-color-sort-difficulty-expansion-pack.json](./358016-puzzle-summit-color-sort-difficulty-expansion-pack.json) |
