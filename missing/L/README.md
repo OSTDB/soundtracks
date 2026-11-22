@@ -3218,6 +3218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Online | 23619 | [23619-legend-online.json](./23619-legend-online.json) |
 | Legend Pirates | 316729 | [316729-legend-pirates.json](./316729-legend-pirates.json) |
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
+| Legend Sang 2 | 429221 | [429221-legend-sang-2.json](./429221-legend-sang-2.json) |
+| Legend Sang 3 | 429224 | [429224-legend-sang-3.json](./429224-legend-sang-3.json) |
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
@@ -10184,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me | 346741 | [346741-love-me.json](./346741-love-me.json) |
 | Love Me Forever | 128199 | [128199-love-me-forever.json](./128199-love-me-forever.json) |
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
+| Love Me Not | 428939 | [428939-love-me-not.json](./428939-love-me-not.json) |
 | Love Me or Die | 321274 | [321274-love-me-or-die.json](./321274-love-me-or-die.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love Memory Mimic | 291626 | [291626-love-memory-mimic.json](./291626-love-memory-mimic.json) |
