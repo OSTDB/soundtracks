@@ -210,7 +210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack_Me Collection | 53175 | [53175-hack-me-collection.json](./53175-hack-me-collection.json) |
 | Hack-R | 413399 | [413399-hack-r.json](./413399-hack-r.json) |
 | Hack, Slash & Backstab | 33600 | [33600-hack-slash-and-backstab.json](./33600-hack-slash-and-backstab.json) |
-| Hack.88 | 120788 | [120788-hack-88.json](./120788-hack-88.json) |
 | Hack.bak | 386363 | [386363-hack-bak.json](./386363-hack-bak.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
@@ -1430,7 +1429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi Zekkei | 233288 | [233288-hanabi-zekkei.json](./233288-hanabi-zekkei.json) |
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
-| Hanaby the Witch | 121289 | [121289-hanaby-the-witch.json](./121289-hanaby-the-witch.json) |
 | Hanaby's Summer Festival | 158815 | [158815-hanabys-summer-festival.json](./158815-hanabys-summer-festival.json) |
 | Hanachirasu | 50177 | [50177-hanachirasu.json](./50177-hanachirasu.json) |
 | Hanafuda | 425188 | [425188-hanafuda.json](./425188-hanafuda.json) |
@@ -2821,7 +2819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest VR | 182659 | [182659-harvest-vr.json](./182659-harvest-vr.json) |
 | Harvest Yuuka | 231701 | [231701-harvest-yuuka.json](./231701-harvest-yuuka.json) |
 | Harvest101 | 316036 | [316036-harvest101.json](./316036-harvest101.json) |
-| Harvested | 118393 | [118393-harvested.json](./118393-harvested.json) |
 | Harvested | 362388 | [362388-harvested.json](./362388-harvested.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester | 2900 | [2900-harvester.json](./2900-harvester.json) |
@@ -3981,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartful Simulator Pachi-Slot: ToHeart2 | 62344 | [62344-heartful-simulator-pachi-slot-toheart2.json](./62344-heartful-simulator-pachi-slot-toheart2.json) |
 | Hearth | 109116 | [109116-hearth.json](./109116-hearth.json) |
 | Hearth & Holmes | 275855 | [275855-hearth-and-holmes.json](./275855-hearth-and-holmes.json) |
+| Hearth & Shadow | 420092 | [420092-hearth-and-shadow.json](./420092-hearth-and-shadow.json) |
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
@@ -4750,7 +4748,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Waltz | 254874 | [254874-helix-waltz.json](./254874-helix-waltz.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
-| HelixMod VR | 121871 | [121871-helixmod-vr.json](./121871-helixmod-vr.json) |
 | Helixteus 3 | 180934 | [180934-helixteus-3.json](./180934-helixteus-3.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
 | Hell | 184834 | [184834-hell.json](./184834-hell.json) |
@@ -7389,7 +7386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
 | Heroine for Hire | 156846 | [156846-heroine-for-hire.json](./156846-heroine-for-hire.json) |
-| Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
 | Heroine's Claw | 243035 | [243035-heroines-claw.json](./243035-heroines-claw.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines | 152553 | [152553-heroines.json](./152553-heroines.json) |
@@ -7519,6 +7515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Tunnel | 43070 | [43070-hex-tunnel.json](./43070-hex-tunnel.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
+| Hex Weaver | 420110 | [420110-hex-weaver.json](./420110-hex-weaver.json) |
 | Hex Words: Word Search | 232124 | [232124-hex-words-word-search.json](./232124-hex-words-word-search.json) |
 | Hex-a-Hop | 261303 | [261303-hex-a-hop.json](./261303-hex-a-hop.json) |
 | Hex-Mix | 253246 | [253246-hex-mix.json](./253246-hex-mix.json) |
@@ -7549,7 +7546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
 | Hexa Sort | 321646 | [321646-hexa-sort.json](./321646-hexa-sort.json) |
 | Hexa TD: Free Game | 340468 | [340468-hexa-td-free-game.json](./340468-hexa-td-free-game.json) |
-| Hexa Trains | 121985 | [121985-hexa-trains.json](./121985-hexa-trains.json) |
 | Hexa Turn | 88227 | [88227-hexa-turn.json](./88227-hexa-turn.json) |
 | Hexa World 3D | 348193 | [348193-hexa-world-3d.json](./348193-hexa-world-3d.json) |
 | Hexa-6 Puzzle | 101675 | [101675-hexa-6-puzzle.json](./101675-hexa-6-puzzle.json) |
@@ -8119,7 +8115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
 | Hidden Farm Top-Down 3D | 195135 | [195135-hidden-farm-top-down-3d.json](./195135-hidden-farm-top-down-3d.json) |
 | Hidden Fears | 86916 | [86916-hidden-fears.json](./86916-hidden-fears.json) |
-| Hidden Fears: Moonlight Edition | 121101 | [121101-hidden-fears-moonlight-edition.json](./121101-hidden-fears-moonlight-edition.json) |
 | Hidden Files : Echoes of JFK | 122096 | [122096-hidden-files-echoes-of-jfk.json](./122096-hidden-files-echoes-of-jfk.json) |
 | Hidden Floating City Top-Down 3D | 193605 | [193605-hidden-floating-city-top-down-3d.json](./193605-hidden-floating-city-top-down-3d.json) |
 | Hidden Flowers | 172977 | [172977-hidden-flowers.json](./172977-hidden-flowers.json) |
@@ -10912,7 +10907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Life Simulator | 372744 | [372744-homeless-life-simulator.json](./372744-homeless-life-simulator.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator | 367872 | [367872-homeless-simulator.json](./367872-homeless-simulator.json) |
-| Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homeless Story 2: Police Mayhem | 367919 | [367919-homeless-story-2-police-mayhem.json](./367919-homeless-story-2-police-mayhem.json) |
 | Homeless: Life Simulator | 207987 | [207987-homeless-life-simulator.json](./207987-homeless-life-simulator.json) |
 | Homelesshood | 55384 | [55384-homelesshood.json](./55384-homelesshood.json) |
@@ -12407,7 +12401,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wet | 198023 | [198023-hot-wet.json](./198023-hot-wet.json) |
 | Hot Wheels | 230413 | [230413-hot-wheels.json](./230413-hot-wheels.json) |
 | Hot Wheels | 94908 | [94908-hot-wheels.json](./94908-hot-wheels.json) |
-| Hot Wheels Infinite Loop | 121938 | [121938-hot-wheels-infinite-loop.json](./121938-hot-wheels-infinite-loop.json) |
 | Hot Wheels Infinite Rush | 404710 | [404710-hot-wheels-infinite-rush.json](./404710-hot-wheels-infinite-rush.json) |
 | Hot Wheels Infinite Rush: Bone Shaker Skeletor Edition | 411833 | [411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json](./411833-hot-wheels-infinite-rush-bone-shaker-skeletor-edition.json) |
 | Hot Wheels Infinite Rush: Boost'n'Slide Pack | 411829 | [411829-hot-wheels-infinite-rush-boostnslide-pack.json](./411829-hot-wheels-infinite-rush-boostnslide-pack.json) |
@@ -14896,7 +14889,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
-| Hypnocult | 121694 | [121694-hypnocult.json](./121694-hypnocult.json) |
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | HypnoFish Inc. | 413025 | [413025-hypnofish-inc.json](./413025-hypnofish-inc.json) |
