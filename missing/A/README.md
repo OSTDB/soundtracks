@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
 | Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
+| Action Alien | 34934 | [34934-action-alien.json](./34934-action-alien.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
 | Action Alien: Tropical Mayhem | 102906 | [102906-action-alien-tropical-mayhem.json](./102906-action-alien-tropical-mayhem.json) |
 | Action Arcade Wrestling | 61145 | [61145-action-arcade-wrestling.json](./61145-action-arcade-wrestling.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the End with Miaobot | 183009 | [183009-after-the-end-with-miaobot.json](./183009-after-the-end-with-miaobot.json) |
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
+| After The End: The Harvest | 34892 | [34892-after-the-end-the-harvest.json](./34892-after-the-end-the-harvest.json) |
 | After the Fall | 203158 | [203158-after-the-fall.json](./203158-after-the-fall.json) |
 | After the Fall | 257177 | [257177-after-the-fall.json](./257177-after-the-fall.json) |
 | After the Fall: Complete Edition | 237751 | [237751-after-the-fall-complete-edition.json](./237751-after-the-fall-complete-edition.json) |
@@ -8083,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Attack Team 2 | 102036 | [102036-alien-attack-team-2.json](./102036-alien-attack-team-2.json) |
+| Alien Attack: In Space | 34728 | [34728-alien-attack-in-space.json](./34728-alien-attack-in-space.json) |
 | Alien Attack: Pocket Edition | 105615 | [105615-alien-attack-pocket-edition.json](./105615-alien-attack-pocket-edition.json) |
 | Alien Attack: Zero | 167928 | [167928-alien-attack-zero.json](./167928-alien-attack-zero.json) |
 | Alien Bash | 76198 | [76198-alien-bash.json](./76198-alien-bash.json) |
@@ -20874,6 +20877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Miner Paintball | 426490 | [426490-avatar-miner-paintball.json](./426490-avatar-miner-paintball.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
 | Avatar Ninja! 2 | 92571 | [92571-avatar-ninja-2.json](./92571-avatar-ninja-2.json) |
+| Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
 | Avatar of War: The Dark Lord | 200296 | [200296-avatar-of-war-the-dark-lord.json](./200296-avatar-of-war-the-dark-lord.json) |
 | Avatar Onslaught | 76002 | [76002-avatar-onslaught.json](./76002-avatar-onslaught.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
