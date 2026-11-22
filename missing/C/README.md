@@ -14016,6 +14016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
+| Color Idle | 426320 | [426320-color-idle.json](./426320-color-idle.json) |
 | Color Infinity | 101023 | [101023-color-infinity.json](./101023-color-infinity.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
@@ -19028,6 +19029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
+| Crash of the Titans Wiicompiled | 426836 | [426836-crash-of-the-titans-wiicompiled.json](./426836-crash-of-the-titans-wiicompiled.json) |
 | Crash of the Titans: Definitive Edition | 425721 | [425721-crash-of-the-titans-definitive-edition.json](./425721-crash-of-the-titans-definitive-edition.json) |
 | Crash Override | 215518 | [215518-crash-override.json](./215518-crash-override.json) |
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
