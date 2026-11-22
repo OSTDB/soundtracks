@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
 | Idumea | 319039 | [319039-idumea.json](./319039-idumea.json) |
 | Idun | 237048 | [237048-idun.json](./237048-idun.json) |
+| Idun: Frontline Survival | 329284 | [329284-idun-frontline-survival.json](./329284-idun-frontline-survival.json) |
 | Idunn Gurdians | 121540 | [121540-idunn-gurdians.json](./121540-idunn-gurdians.json) |
 | Idutshane | 356838 | [356838-idutshane.json](./356838-idutshane.json) |
 | Idyllic | 114672 | [114672-idyllic.json](./114672-idyllic.json) |
@@ -6615,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irem Arcade Hits | 62514 | [62514-irem-arcade-hits.json](./62514-irem-arcade-hits.json) |
 | Irem Collection Volume 1+2 | 330440 | [330440-irem-collection-volume-1-2.json](./330440-irem-collection-volume-1-2.json) |
 | Irem Collection: Volume 1 | 252192 | [252192-irem-collection-volume-1.json](./252192-irem-collection-volume-1.json) |
+| Irem Collection: Volume 2 | 321846 | [321846-irem-collection-volume-2.json](./321846-irem-collection-volume-2.json) |
 | Irem Collection: Volume 3 | 342246 | [342246-irem-collection-volume-3.json](./342246-irem-collection-volume-3.json) |
 | Irena: Genesis Metal Fury | 142750 | [142750-irena-genesis-metal-fury.json](./142750-irena-genesis-metal-fury.json) |
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
@@ -7083,6 +7085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Mystic World | 365933 | [365933-isekai-mystic-world.json](./365933-isekai-mystic-world.json) |
 | Isekai Neet Engineer Eiyuu ni Naru | 282670 | [282670-isekai-neet-engineer-eiyuu-ni-naru.json](./282670-isekai-neet-engineer-eiyuu-ni-naru.json) |
 | Isekai Revitalizer | 374445 | [374445-isekai-revitalizer.json](./374445-isekai-revitalizer.json) |
+| Isekai Rondo | 237603 | [237603-isekai-rondo.json](./237603-isekai-rondo.json) |
 | Isekai Saga: Awaken | 321633 | [321633-isekai-saga-awaken.json](./321633-isekai-saga-awaken.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
