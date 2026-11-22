@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter Space Rescue | 121866 | [121866-otter-space-rescue.json](./121866-otter-space-rescue.json) |
 | Otter Turmoil | 269216 | [269216-otter-turmoil.json](./269216-otter-turmoil.json) |
 | Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
+| Otter's Heart | 429019 | [429019-otters-heart.json](./429019-otters-heart.json) |
 | Otter’s Odyssey | 297254 | [297254-otter-s-odyssey.json](./297254-otter-s-odyssey.json) |
 | OtterBash | 50524 | [50524-otterbash.json](./50524-otterbash.json) |
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
