@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dagon: Complete Edition | 319322 | [319322-dagon-complete-edition.json](./319322-dagon-complete-edition.json) |
 | Dagon: The Little Glass Bottle | 234512 | [234512-dagon-the-little-glass-bottle.json](./234512-dagon-the-little-glass-bottle.json) |
 | Dagon: The Railway Horror | 266823 | [266823-dagon-the-railway-horror.json](./266823-dagon-the-railway-horror.json) |
+| Dǎgōng ba! Tiānshǐ Jiàng: Tiānshǐ zài Mójiè de Láogǎi Shēnghuó | 421443 | [421443-dagong-ba-tianshi-jiang-tianshi-zai-mojie-de-laogai-shenghuo.json](./421443-dagong-ba-tianshi-jiang-tianshi-zai-mojie-de-laogai-shenghuo.json) |
 | Daguri: Gambling Apocalypse | 208657 | [208657-daguri-gambling-apocalypse.json](./208657-daguri-gambling-apocalypse.json) |
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
 | Dark Side of the Moon: A Sci-Fi Adventure | 68744 | [68744-dark-side-of-the-moon-a-sci-fi-adventure.json](./68744-dark-side-of-the-moon-a-sci-fi-adventure.json) |
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
+| Dark Side Void | 421467 | [421467-dark-side-void.json](./421467-dark-side-void.json) |
 | Dark Side: Moonbase Mayhem | 273206 | [273206-dark-side-moonbase-mayhem.json](./273206-dark-side-moonbase-mayhem.json) |
 | Dark Sider | 72200 | [72200-dark-sider.json](./72200-dark-sider.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
@@ -6070,7 +6072,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Diver | 245523 | [245523-deep-diver.json](./245523-deep-diver.json) |
 | Deep Diver | 396304 | [396304-deep-diver.json](./396304-deep-diver.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
-| Deep Diving Simulator | 113427 | [113427-deep-diving-simulator.json](./113427-deep-diving-simulator.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Diving VR | 122040 | [122040-deep-diving-vr.json](./122040-deep-diving-vr.json) |
 | Deep Diving VR: Adventure Pack | 227158 | [227158-deep-diving-vr-adventure-pack.json](./227158-deep-diving-vr-adventure-pack.json) |
@@ -15004,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontrel Dolphin | 306003 | [306003-dontrel-dolphin.json](./306003-dontrel-dolphin.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
 | Dontrel Dolphin 3 | 306186 | [306186-dontrel-dolphin-3.json](./306186-dontrel-dolphin-3.json) |
+| Donum | 421483 | [421483-donum.json](./421483-donum.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Adventure | 242291 | [242291-donut-adventure.json](./242291-donut-adventure.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
@@ -20445,6 +20447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
+| Dude, Trust Me | 421494 | [421494-dude-trust-me.json](./421494-dude-trust-me.json) |
 | Dudebro: My Shit Is Fucked Up So I Got to Shoot / Slice You II: It's Straight-Up Dawg Time | 91500 | [91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json](./91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json) |
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudelings: Arcade Sportsball | 287797 | [287797-dudelings-arcade-sportsball.json](./287797-dudelings-arcade-sportsball.json) |
@@ -22259,6 +22262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying For Treasure | 141007 | [141007-dying-for-treasure.json](./141007-dying-for-treasure.json) |
 | Dying In Dungeon | 181765 | [181765-dying-in-dungeon.json](./181765-dying-in-dungeon.json) |
 | Dying is Dangerous | 147592 | [147592-dying-is-dangerous.json](./147592-dying-is-dangerous.json) |
+| Dying Land | 421485 | [421485-dying-land.json](./421485-dying-land.json) |
 | Dying Light 2 Stay Human: Digital Extras Edition | 331266 | [331266-dying-light-2-stay-human-digital-extras-edition.json](./331266-dying-light-2-stay-human-digital-extras-edition.json) |
 | Dying Light 2: Stay Human - Black Friday Edition | 278186 | [278186-dying-light-2-stay-human-black-friday-edition.json](./278186-dying-light-2-stay-human-black-friday-edition.json) |
 | Dying Light 2: Stay Human - Bloody Ties | 214400 | [214400-dying-light-2-stay-human-bloody-ties.json](./214400-dying-light-2-stay-human-bloody-ties.json) |
