@@ -1655,9 +1655,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
 | Kazoo | 279442 | [279442-kazoo.json](./279442-kazoo.json) |
+| Kazook | 23103 | [23103-kazook.json](./23103-kazook.json) |
 | Kazu Adventures | 252533 | [252533-kazu-adventures.json](./252533-kazu-adventures.json) |
 | Kazu Aether Origins | 295891 | [295891-kazu-aether-origins.json](./295891-kazu-aether-origins.json) |
 | Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
+| Kazu the Cassowary | 429086 | [429086-kazu-the-cassowary.json](./429086-kazu-the-cassowary.json) |
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
 | Kazuma Kaneko: Refined Arts Pack vol.2 | 409943 | [409943-kazuma-kaneko-refined-arts-pack-vol-2.json](./409943-kazuma-kaneko-refined-arts-pack-vol-2.json) |
