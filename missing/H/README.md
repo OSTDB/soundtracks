@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
 | Hai-Shin 2 | 290992 | [290992-hai-shin-2.json](./290992-hai-shin-2.json) |
 | Hai! Tetsuman-desu | 242860 | [242860-hai-tetsuman-desu.json](./242860-hai-tetsuman-desu.json) |
+| Hǎibiān de Wàngchuān Tíng | 426334 | [426334-haibian-de-wangchuan-ting.json](./426334-haibian-de-wangchuan-ting.json) |
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haifa | 338098 | [338098-haifa.json](./338098-haifa.json) |
 | Haiiro no Umi nite Kimi wo Matsu | 285899 | [285899-haiiro-no-umi-nite-kimi-wo-matsu.json](./285899-haiiro-no-umi-nite-kimi-wo-matsu.json) |
@@ -896,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Scrooge | 178250 | [178250-halloween-scrooge.json](./178250-halloween-scrooge.json) |
 | Halloween Secrets: The Blood Vow | 416583 | [416583-halloween-secrets-the-blood-vow.json](./416583-halloween-secrets-the-blood-vow.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
+| Halloween Secrets: The Blood Vow - DLC | 426336 | [426336-halloween-secrets-the-blood-vow-dlc.json](./426336-halloween-secrets-the-blood-vow-dlc.json) |
 | Halloween Sewers | 393136 | [393136-halloween-sewers.json](./393136-halloween-sewers.json) |
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
@@ -3265,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Nukem | 294530 | [294530-haunted-nukem.json](./294530-haunted-nukem.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
+| Haunted Observation | 426678 | [426678-haunted-observation.json](./426678-haunted-observation.json) |
 | Haunted Past: Realm of Ghosts | 36380 | [36380-haunted-past-realm-of-ghosts.json](./36380-haunted-past-realm-of-ghosts.json) |
 | Haunted Paws | 302983 | [302983-haunted-paws.json](./302983-haunted-paws.json) |
 | Haunted Places | 207761 | [207761-haunted-places.json](./207761-haunted-places.json) |
@@ -4186,6 +4189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
 | Heat Wave | 337905 | [337905-heat-wave.json](./337905-heat-wave.json) |
 | Heat Wave: Offshore Superboat Racing | 74887 | [74887-heat-wave-offshore-superboat-racing.json](./74887-heat-wave-offshore-superboat-racing.json) |
+| Heat: Pedal to the Metal | 426319 | [426319-heat-pedal-to-the-metal.json](./426319-heat-pedal-to-the-metal.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heated Barrel | 39377 | [39377-heated-barrel.json](./39377-heated-barrel.json) |
@@ -11747,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hormones of the Dead | 405601 | [405601-hormones-of-the-dead.json](./405601-hormones-of-the-dead.json) |
 | Hormuz | 395256 | [395256-hormuz.json](./395256-hormuz.json) |
 | Horn | 38704 | [38704-horn.json](./38704-horn.json) |
+| Horn & Dice | 426679 | [426679-horn-and-dice.json](./426679-horn-and-dice.json) |
 | Horn and Shields | 319959 | [319959-horn-and-shields.json](./319959-horn-and-shields.json) |
 | Horn of Balance | 296912 | [296912-horn-of-balance.json](./296912-horn-of-balance.json) |
 | Horn of the Warlord | 387962 | [387962-horn-of-the-warlord.json](./387962-horn-of-the-warlord.json) |
@@ -14532,6 +14537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Galactica | 113338 | [113338-hyper-galactica.json](./113338-hyper-galactica.json) |
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Gods | 22094 | [22094-hyper-gods.json](./22094-hyper-gods.json) |
+| Hyper Groove AX | 426830 | [426830-hyper-groove-ax.json](./426830-hyper-groove-ax.json) |
 | Hyper Gym Life 3D: Tough Guys | 270477 | [270477-hyper-gym-life-3d-tough-guys.json](./270477-hyper-gym-life-3d-tough-guys.json) |
 | Hyper Hentai Bikini Party | 246814 | [246814-hyper-hentai-bikini-party.json](./246814-hyper-hentai-bikini-party.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
