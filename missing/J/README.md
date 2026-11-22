@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Force Gemini | 284130 | [284130-jet-force-gemini.json](./284130-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
 | Jet Girls | 130477 | [130477-jet-girls.json](./130477-jet-girls.json) |
+| Jet Grind Radio | 145186 | [145186-jet-grind-radio.json](./145186-jet-grind-radio.json) |
 | Jet Gunner: Refueled | 373316 | [373316-jet-gunner-refueled.json](./373316-jet-gunner-refueled.json) |
 | Jet Hero | 29636 | [29636-jet-hero.json](./29636-jet-hero.json) |
 | Jet Impulse | 72952 | [72952-jet-impulse.json](./72952-jet-impulse.json) |
