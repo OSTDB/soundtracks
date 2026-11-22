@@ -2625,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Pararomantic | 217609 | [217609-pararomantic.json](./217609-pararomantic.json) |
 | Parascientific Escape: Crossing at the Farthest Horizon | 52023 | [52023-parascientific-escape-crossing-at-the-farthest-horizon.json](./52023-parascientific-escape-crossing-at-the-farthest-horizon.json) |
+| Parascientific Escape: Cruise in the Distant Seas | 52024 | [52024-parascientific-escape-cruise-in-the-distant-seas.json](./52024-parascientific-escape-cruise-in-the-distant-seas.json) |
 | Parascientific Escape: Gear Detective | 27195 | [27195-parascientific-escape-gear-detective.json](./27195-parascientific-escape-gear-detective.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
 | Parashoot Stan | 64196 | [64196-parashoot-stan.json](./64196-parashoot-stan.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
 | Path of Exile: Thaumaturge of the Vaal Supporter Pack | 332100 | [332100-path-of-exile-thaumaturge-of-the-vaal-supporter-pack.json](./332100-path-of-exile-thaumaturge-of-the-vaal-supporter-pack.json) |
 | Path of Exile: The Awakening | 75570 | [75570-path-of-exile-the-awakening.json](./75570-path-of-exile-the-awakening.json) |
+| Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
 | Path of Exile: War for the Atlas | 76101 | [76101-path-of-exile-war-for-the-atlas.json](./76101-path-of-exile-war-for-the-atlas.json) |
 | Path of Exile: War for the Atlas Bundle | 83765 | [83765-path-of-exile-war-for-the-atlas-bundle.json](./83765-path-of-exile-war-for-the-atlas-bundle.json) |
