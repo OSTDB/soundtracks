@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-4 Champ RR-Z | 58090 | [58090-zero-4-champ-rr-z.json](./58090-zero-4-champ-rr-z.json) |
 | Zero-5 | 381933 | [381933-zero-5.json](./381933-zero-5.json) |
 | Zero-based World | 167489 | [167489-zero-based-world.json](./167489-zero-based-world.json) |
+| Zero-G | 30011 | [30011-zero-g.json](./30011-zero-g.json) |
 | Zero-G Gunfight | 150931 | [150931-zero-g-gunfight.json](./150931-zero-g-gunfight.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
