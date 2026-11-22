@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gator Panic | 229458 | [229458-gator-panic.json](./229458-gator-panic.json) |
 | Gator Panic Remix | 229457 | [229457-gator-panic-remix.json](./229457-gator-panic-remix.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
+| Gatos Adventure | 428941 | [428941-gatos-adventure.json](./428941-gatos-adventure.json) |
 | Gatos contra el mundo | 299092 | [299092-gatos-contra-el-mundo.json](./299092-gatos-contra-el-mundo.json) |
 | Gatoslip: Chapter 0 | 264847 | [264847-gatoslip-chapter-0.json](./264847-gatoslip-chapter-0.json) |
 | Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
