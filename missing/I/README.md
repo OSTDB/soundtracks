@@ -6200,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Intus | 418685 | [418685-intus.json](./418685-intus.json) |
 | Inu : Loas'Fate | 244964 | [244964-inu-loasfate.json](./244964-inu-loasfate.json) |
+| Inu Atsume VR | 423437 | [423437-inu-atsume-vr.json](./423437-inu-atsume-vr.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
