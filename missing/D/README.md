@@ -18138,6 +18138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Race 2: Racing Evolved | 65859 | [65859-draw-race-2-racing-evolved.json](./65859-draw-race-2-racing-evolved.json) |
 | Draw Rider | 33349 | [33349-draw-rider.json](./33349-draw-rider.json) |
+| Draw Rider 2 | 29573 | [29573-draw-rider-2.json](./29573-draw-rider-2.json) |
 | Draw Rider 2 Plus | 197236 | [197236-draw-rider-2-plus.json](./197236-draw-rider-2-plus.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
@@ -19520,6 +19521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drizzlepath | 12265 | [12265-drizzlepath.json](./12265-drizzlepath.json) |
 | Drizzlepath: Deja Vu | 101399 | [101399-drizzlepath-deja-vu.json](./101399-drizzlepath-deja-vu.json) |
 | Drizzlepath: Genie | 33628 | [33628-drizzlepath-genie.json](./33628-drizzlepath-genie.json) |
+| Drizzlepath: Glass | 29733 | [29733-drizzlepath-glass.json](./29733-drizzlepath-glass.json) |
 | Drizzlepath: Picturae | 327273 | [327273-drizzlepath-picturae.json](./327273-drizzlepath-picturae.json) |
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
@@ -19698,6 +19700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Duchy: The Tribe | 370473 | [370473-drop-duchy-the-tribe.json](./370473-drop-duchy-the-tribe.json) |
 | Drop Flip | 96538 | [96538-drop-flip.json](./96538-drop-flip.json) |
 | Drop Flip Seasons | 96284 | [96284-drop-flip-seasons.json](./96284-drop-flip-seasons.json) |
+| Drop Hunt: Adventure Puzzle | 29402 | [29402-drop-hunt-adventure-puzzle.json](./29402-drop-hunt-adventure-puzzle.json) |
 | Drop In VR | 137912 | [137912-drop-in-vr.json](./137912-drop-in-vr.json) |
 | Drop It | 285127 | [285127-drop-it.json](./285127-drop-it.json) |
 | Drop It: Block Paradise! | 85104 | [85104-drop-it-block-paradise.json](./85104-drop-it-block-paradise.json) |
@@ -19997,6 +20000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk n Puke | 394135 | [394135-drunk-n-puke.json](./394135-drunk-n-puke.json) |
 | Drunk on Nectar | 31725 | [31725-drunk-on-nectar.json](./31725-drunk-on-nectar.json) |
 | Drunk or Baby | 403622 | [403622-drunk-or-baby.json](./403622-drunk-or-baby.json) |
+| Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
 | Drunk or Dead 2 | 202447 | [202447-drunk-or-dead-2.json](./202447-drunk-or-dead-2.json) |
 | Drunk or Dead: On the Road | 174495 | [174495-drunk-or-dead-on-the-road.json](./174495-drunk-or-dead-on-the-road.json) |
 | Drunk Policeman | 293286 | [293286-drunk-policeman.json](./293286-drunk-policeman.json) |
