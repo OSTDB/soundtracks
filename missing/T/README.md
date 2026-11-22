@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Go! Go! Godaime | 123416 | [123416-taiko-no-tatsujin-go-go-godaime.json](./123416-taiko-no-tatsujin-go-go-godaime.json) |
 | Taiko no Tatsujin: Niji-iro Version | 319924 | [319924-taiko-no-tatsujin-niji-iro-version.json](./319924-taiko-no-tatsujin-niji-iro-version.json) |
 | Taiko no Tatsujin: Ongaku Lesson | 123620 | [123620-taiko-no-tatsujin-ongaku-lesson.json](./123620-taiko-no-tatsujin-ongaku-lesson.json) |
+| Taiko no Tatsujin: Pop Tap Beat | 145443 | [145443-taiko-no-tatsujin-pop-tap-beat.json](./145443-taiko-no-tatsujin-pop-tap-beat.json) |
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
 | Taiko no Tatsujin: Rhythm Festival | 191409 | [191409-taiko-no-tatsujin-rhythm-festival.json](./191409-taiko-no-tatsujin-rhythm-festival.json) |
 | Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack | 356257 | [356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json](./356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
 | Terminator: Resistance - Complete Edition | 270334 | [270334-terminator-resistance-complete-edition.json](./270334-terminator-resistance-complete-edition.json) |
 | Terminator: Resistance - Complete Edition: Collector's Edition | 270335 | [270335-terminator-resistance-complete-edition-collectors-edition.json](./270335-terminator-resistance-complete-edition-collectors-edition.json) |
+| Terminator: Resistance Enhanced | 146146 | [146146-terminator-resistance-enhanced.json](./146146-terminator-resistance-enhanced.json) |
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
 | Terminator: Revenge | 73934 | [73934-terminator-revenge.json](./73934-terminator-revenge.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
@@ -8449,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb | 14952 | [14952-the-climb.json](./14952-the-climb.json) |
 | The Climb | 394960 | [394960-the-climb.json](./394960-the-climb.json) |
+| The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
 | The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
@@ -10624,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Falconeer: Revolution Remaster | 429123 | [429123-the-falconeer-revolution-remaster.json](./429123-the-falconeer-revolution-remaster.json) |
 | The Falconeer: The Hunter | 148243 | [148243-the-falconeer-the-hunter.json](./148243-the-falconeer-the-hunter.json) |
+| The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
 | The Falklands War 1982 | 64537 | [64537-the-falklands-war-1982.json](./64537-the-falklands-war-1982.json) |
 | The Fall | 224803 | [224803-the-fall.json](./224803-the-fall.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
@@ -11501,6 +11505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden of Silvergrass | 265287 | [265287-the-garden-of-silvergrass.json](./265287-the-garden-of-silvergrass.json) |
 | The Garden of the Gods | 341848 | [341848-the-garden-of-the-gods.json](./341848-the-garden-of-the-gods.json) |
 | The Garden of Youth | 394595 | [394595-the-garden-of-youth.json](./394595-the-garden-of-youth.json) |
+| The Garden Path | 145482 | [145482-the-garden-path.json](./145482-the-garden-path.json) |
 | The Garden Pub | 117449 | [117449-the-garden-pub.json](./117449-the-garden-pub.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
@@ -22155,6 +22160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
+| The World After | 147295 | [147295-the-world-after.json](./147295-the-world-after.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Begins With You | 84474 | [84474-the-world-begins-with-you.json](./84474-the-world-begins-with-you.json) |
 | The World Below: A Call Within | 410040 | [410040-the-world-below-a-call-within.json](./410040-the-world-below-a-call-within.json) |
@@ -29005,6 +29011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legacy of Atlantis - Deluxe Edition | 418337 | [418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json](./418337-tomb-raider-legacy-of-atlantis-deluxe-edition.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
+| Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 165184 | [165184-tomb-raider-legend.json](./165184-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248535 | [248535-tomb-raider-legend.json](./248535-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
@@ -30984,6 +30991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour de France 2019 | 119526 | [119526-tour-de-france-2019.json](./119526-tour-de-france-2019.json) |
 | Tour de France 2020 | 133775 | [133775-tour-de-france-2020.json](./133775-tour-de-france-2020.json) |
+| Tour de France 2021 | 145311 | [145311-tour-de-france-2021.json](./145311-tour-de-france-2021.json) |
 | Tour de France 2022 | 194716 | [194716-tour-de-france-2022.json](./194716-tour-de-france-2022.json) |
 | Tour de France 2023 | 241243 | [241243-tour-de-france-2023.json](./241243-tour-de-france-2023.json) |
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
@@ -32234,6 +32242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailquest MTB | 391436 | [391436-trailquest-mtb.json](./391436-trailquest-mtb.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
 | Trails | 342158 | [342158-trails.json](./342158-trails.json) |
+| Trails and Traces: The Tomb of Thomas Tew | 146236 | [146236-trails-and-traces-the-tomb-of-thomas-tew.json](./146236-trails-and-traces-the-tomb-of-thomas-tew.json) |
 | Trails in the Sky 1st Chapter: Archangel Dress-up Set | 401281 | [401281-trails-in-the-sky-1st-chapter-archangel-dress-up-set.json](./401281-trails-in-the-sky-1st-chapter-archangel-dress-up-set.json) |
 | Trails in the Sky 1st Chapter: Banner Set C | 370831 | [370831-trails-in-the-sky-1st-chapter-banner-set-c.json](./370831-trails-in-the-sky-1st-chapter-banner-set-c.json) |
 | Trails in the Sky 1st Chapter: Character Stand Set | 370832 | [370832-trails-in-the-sky-1st-chapter-character-stand-set.json](./370832-trails-in-the-sky-1st-chapter-character-stand-set.json) |
