@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids: Farm Coloring | 147783 | [147783-kids-farm-coloring.json](./147783-kids-farm-coloring.json) |
 | Kids: Farm Puzzle | 154590 | [154590-kids-farm-puzzle.json](./154590-kids-farm-puzzle.json) |
 | Kids: Zoo Puzzle | 215395 | [215395-kids-zoo-puzzle.json](./215395-kids-zoo-puzzle.json) |
+| Kids' Choice Awards 2009: Fast Lane Dwayne | 425702 | [425702-kids-choice-awards-2009-fast-lane-dwayne.json](./425702-kids-choice-awards-2009-fast-lane-dwayne.json) |
 | Kids' Puzzles | 103746 | [103746-kids-puzzles.json](./103746-kids-puzzles.json) |
 | Kids' WB Turkey Day Food Fling | 313270 | [313270-kids-wb-turkey-day-food-fling.json](./313270-kids-wb-turkey-day-food-fling.json) |
 | Kids' World History: Which Side Are You On!? | 420671 | [420671-kids-world-history-which-side-are-you-on.json](./420671-kids-world-history-which-side-are-you-on.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kigetsu no Yoru | 368634 | [368634-kigetsu-no-yoru.json](./368634-kigetsu-no-yoru.json) |
 | Kigurumi Hearts | 419673 | [419673-kigurumi-hearts.json](./419673-kigurumi-hearts.json) |
 | Kigurumi Kombat | 74757 | [74757-kigurumi-kombat.json](./74757-kigurumi-kombat.json) |
+| Kihin Kanri-bu | 425675 | [425675-kihin-kanri-bu.json](./425675-kihin-kanri-bu.json) |
 | Kiipluu | 360602 | [360602-kiipluu.json](./360602-kiipluu.json) |
 | Kiiroi Hana | 158615 | [158615-kiiroi-hana.json](./158615-kiiroi-hana.json) |
 | Kiite Oboeru Eitango: Alc No Kikutan Advanced | 56711 | [56711-kiite-oboeru-eitango-alc-no-kikutan-advanced.json](./56711-kiite-oboeru-eitango-alc-no-kikutan-advanced.json) |
@@ -2908,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
 | Kill It With Fire: Year of the Spider | 238161 | [238161-kill-it-with-fire-year-of-the-spider.json](./238161-kill-it-with-fire-year-of-the-spider.json) |
+| Kill Jack | 426140 | [426140-kill-jack.json](./426140-kill-jack.json) |
 | Kill jump monster | 115098 | [115098-kill-jump-monster.json](./115098-kill-jump-monster.json) |
 | Kill Justin Beaver | 332152 | [332152-kill-justin-beaver.json](./332152-kill-justin-beaver.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
@@ -3603,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kung Fu | 50280 | [50280-king-of-kung-fu.json](./50280-king-of-kung-fu.json) |
 | King of Land Grabbers 3D | 212510 | [212510-king-of-land-grabbers-3d.json](./212510-king-of-land-grabbers-3d.json) |
 | King of Light | 237463 | [237463-king-of-light.json](./237463-king-of-light.json) |
+| King of Light: Shōubúdào de Xìn - Fānwài Tuīlǐ | 426134 | [426134-king-of-light-shoubudao-de-xin-fanwai-tuili.json](./426134-king-of-light-shoubudao-de-xin-fanwai-tuili.json) |
 | King of Machines | 154727 | [154727-king-of-machines.json](./154727-king-of-machines.json) |
 | King of Math | 74855 | [74855-king-of-math.json](./74855-king-of-math.json) |
 | King of Math Junior | 74854 | [74854-king-of-math-junior.json](./74854-king-of-math-junior.json) |
@@ -3817,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Raid Re:Verse | 418955 | [418955-kings-raid-re-verse.json](./418955-kings-raid-re-verse.json) |
 | King's Recycle | 244737 | [244737-kings-recycle.json](./244737-kings-recycle.json) |
 | King's Son | 255694 | [255694-kings-son.json](./255694-kings-son.json) |
+| King's Story | 425680 | [425680-kings-story.json](./425680-kings-story.json) |
 | King's Subsidy | 372520 | [372520-kings-subsidy.json](./372520-kings-subsidy.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Table: The Legend of Ragnarok | 71137 | [71137-kings-table-the-legend-of-ragnarok.json](./71137-kings-table-the-legend-of-ragnarok.json) |
@@ -4420,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Heardle | 203815 | [203815-kirby-heardle.json](./203815-kirby-heardle.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
 | Kirby in Sonic the Hedgehog 2 | 198531 | [198531-kirby-in-sonic-the-hedgehog-2.json](./198531-kirby-in-sonic-the-hedgehog-2.json) |
+| Kirby Killer | 425713 | [425713-kirby-killer.json](./425713-kirby-killer.json) |
 | Kirby Mass Attack | 3724 | [3724-kirby-mass-attack.json](./3724-kirby-mass-attack.json) |
 | Kirby no Omochabako: Arrange Ball | 134455 | [134455-kirby-no-omochabako-arrange-ball.json](./134455-kirby-no-omochabako-arrange-ball.json) |
 | Kirby no Omochabako: Ball Rally | 134457 | [134457-kirby-no-omochabako-ball-rally.json](./134457-kirby-no-omochabako-ball-rally.json) |
@@ -4657,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaria Fables: Siamese Skin | 430576 | [430576-kitaria-fables-siamese-skin.json](./430576-kitaria-fables-siamese-skin.json) |
 | Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
+| Kitaut | 425706 | [425706-kitaut.json](./425706-kitaut.json) |
 | Kitball 20000 | 226042 | [226042-kitball-20000.json](./226042-kitball-20000.json) |
 | KitBashers 2: Multiplayer | 307027 | [307027-kitbashers-2-multiplayer.json](./307027-kitbashers-2-multiplayer.json) |
 | Kitbashers United | 307735 | [307735-kitbashers-united.json](./307735-kitbashers-united.json) |
