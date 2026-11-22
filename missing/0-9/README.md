@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K48 | 350669 | [350669-2k48.json](./350669-2k48.json) |
 | 2Kaizo 2Learn | 308123 | [308123-2kaizo-2learn.json](./308123-2kaizo-2learn.json) |
 | 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
+| 2MD VR Football | 68572 | [68572-2md-vr-football.json](./68572-2md-vr-football.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2MD: VR Football Unleashed | 174552 | [174552-2md-vr-football-unleashed.json](./174552-2md-vr-football-unleashed.json) |
 | 2MD: VR Football Unleashed All Star | 216445 | [216445-2md-vr-football-unleashed-all-star.json](./216445-2md-vr-football-unleashed-all-star.json) |
@@ -3019,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
 | 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
 | 3D Ultra MiniGolf 2 | 106036 | [106036-3d-ultra-minigolf-2.json](./106036-3d-ultra-minigolf-2.json) |
+| 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures Deluxe | 29113 | [29113-3d-ultra-minigolf-adventures-deluxe.json](./29113-3d-ultra-minigolf-adventures-deluxe.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Lost Island | 138294 | [138294-3d-ultra-minigolf-adventures-lost-island.json](./138294-3d-ultra-minigolf-adventures-lost-island.json) |
