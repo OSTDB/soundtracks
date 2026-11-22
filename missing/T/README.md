@@ -9666,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearance of Eileen Kestler | 25256 | [25256-the-disappearance-of-eileen-kestler.json](./25256-the-disappearance-of-eileen-kestler.json) |
 | The Disappearance of Emily Crowe | 406859 | [406859-the-disappearance-of-emily-crowe.json](./406859-the-disappearance-of-emily-crowe.json) |
 | The Disappearance of the Mitchells | 134083 | [134083-the-disappearance-of-the-mitchells.json](./134083-the-disappearance-of-the-mitchells.json) |
+| The Disappearing of Gensokyo | 81958 | [81958-the-disappearing-of-gensokyo.json](./81958-the-disappearing-of-gensokyo.json) |
 | The Disappearing of Gensokyo With All Extra Characters | 210157 | [210157-the-disappearing-of-gensokyo-with-all-extra-characters.json](./210157-the-disappearing-of-gensokyo-with-all-extra-characters.json) |
 | The Disappearing of Gensokyo: Byakuren | 210136 | [210136-the-disappearing-of-gensokyo-byakuren.json](./210136-the-disappearing-of-gensokyo-byakuren.json) |
 | The Disappearing of Gensokyo: Kogasa, Iku Character Pack | 170423 | [170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json](./170423-the-disappearing-of-gensokyo-kogasa-iku-character-pack.json) |
@@ -12649,6 +12650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for Red October | 31187 | [31187-the-hunt-for-red-october.json](./31187-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 45118 | [45118-the-hunt-for-red-october.json](./45118-the-hunt-for-red-october.json) |
 | The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
+| The Hunt for Red October | 81421 | [81421-the-hunt-for-red-october.json](./81421-the-hunt-for-red-october.json) |
 | The Hunt for Red Panda | 24523 | [24523-the-hunt-for-red-panda.json](./24523-the-hunt-for-red-panda.json) |
 | The Hunt for Teddy - A Storyshape Adventure | 114622 | [114622-the-hunt-for-teddy-a-storyshape-adventure.json](./114622-the-hunt-for-teddy-a-storyshape-adventure.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
@@ -14373,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
 | The Legend of Dark Witch | 24568 | [24568-the-legend-of-dark-witch.json](./24568-the-legend-of-dark-witch.json) |
+| The Legend of Dark Witch Episode 2 -The Price of Desire- | 80710 | [80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Dark Witch Renovation | 126813 | [126813-the-legend-of-dark-witch-renovation.json](./126813-the-legend-of-dark-witch-renovation.json) |
@@ -15886,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
 | The Merchant's Guide to the Kingdom | 207481 | [207481-the-merchants-guide-to-the-kingdom.json](./207481-the-merchants-guide-to-the-kingdom.json) |
+| The Mercury Man | 80879 | [80879-the-mercury-man.json](./80879-the-mercury-man.json) |
 | The Meridian Paradox | 419088 | [419088-the-meridian-paradox.json](./419088-the-meridian-paradox.json) |
 | The Meridian Shard | 55963 | [55963-the-meridian-shard.json](./55963-the-meridian-shard.json) |
 | The Meridian Under the Heaven: Valhalla | 285311 | [285311-the-meridian-under-the-heaven-valhalla.json](./285311-the-meridian-under-the-heaven-valhalla.json) |
@@ -17725,6 +17729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
 | The Quest | 335163 | [335163-the-quest.json](./335163-the-quest.json) |
+| The Quest | 82015 | [82015-the-quest.json](./82015-the-quest.json) |
 | The Quest - Hero of Lukomorye III | 105770 | [105770-the-quest-hero-of-lukomorye-iii.json](./105770-the-quest-hero-of-lukomorye-iii.json) |
 | The Quest Classic: Asteroids | 205603 | [205603-the-quest-classic-asteroids.json](./205603-the-quest-classic-asteroids.json) |
 | The Quest for Achievements | 334744 | [334744-the-quest-for-achievements.json](./334744-the-quest-for-achievements.json) |
@@ -21710,6 +21715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
 | The Warrior | 116877 | [116877-the-warrior.json](./116877-the-warrior.json) |
 | The Warrior | 250976 | [250976-the-warrior.json](./250976-the-warrior.json) |
+| The Warrior of Treasures | 81776 | [81776-the-warrior-of-treasures.json](./81776-the-warrior-of-treasures.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
@@ -31685,6 +31691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Pink! | 182579 | [182579-toxic-pink.json](./182579-toxic-pink.json) |
 | Toxic Place | 298203 | [298203-toxic-place.json](./298203-toxic-place.json) |
+| Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
 | Toxic Terror | 32430 | [32430-toxic-terror.json](./32430-toxic-terror.json) |
 | Toxic Terror: Episode 2 - The Lich's Lair | 170391 | [170391-toxic-terror-episode-2-the-lichs-lair.json](./170391-toxic-terror-episode-2-the-lichs-lair.json) |
 | Toxic Therapy | 306420 | [306420-toxic-therapy.json](./306420-toxic-therapy.json) |
