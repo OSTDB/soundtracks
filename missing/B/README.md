@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Abyss | 253419 | [253419-backrooms-abyss.json](./253419-backrooms-abyss.json) |
 | Backrooms Adventure | 420917 | [420917-backrooms-adventure.json](./420917-backrooms-adventure.json) |
 | Backrooms Anomaly | 374836 | [374836-backrooms-anomaly.json](./374836-backrooms-anomaly.json) |
+| Backrooms Anomaly: Pools | 424056 | [424056-backrooms-anomaly-pools.json](./424056-backrooms-anomaly-pools.json) |
 | Backrooms Blackmarket | 348848 | [348848-backrooms-blackmarket.json](./348848-backrooms-blackmarket.json) |
 | Backrooms Blocks | 420918 | [420918-backrooms-blocks.json](./420918-backrooms-blocks.json) |
 | Backrooms Break | 237029 | [237029-backrooms-break.json](./237029-backrooms-break.json) |
@@ -15888,6 +15889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boule Petanque | 249113 | [249113-boule-petanque.json](./249113-boule-petanque.json) |
 | BouleMan | 349508 | [349508-bouleman.json](./349508-bouleman.json) |
 | Boulette Hell | 223377 | [223377-boulette-hell.json](./223377-boulette-hell.json) |
+| Boulito | 424473 | [424473-boulito.json](./424473-boulito.json) |
 | Bounce | 120690 | [120690-bounce.json](./120690-bounce.json) |
 | Bounce | 131371 | [131371-bounce.json](./131371-bounce.json) |
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
@@ -18643,6 +18645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Hell | 250875 | [250875-brothers-in-hell.json](./250875-brothers-in-hell.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | BrotherZ | 36963 | [36963-brotherz.json](./36963-brotherz.json) |
+| BrouHaHa | 424474 | [424474-brouhaha.json](./424474-brouhaha.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Bob | 244581 | [244581-brown-bob.json](./244581-brown-bob.json) |
 | Brown Dust & Puzzle | 196553 | [196553-brown-dust-and-puzzle.json](./196553-brown-dust-and-puzzle.json) |
