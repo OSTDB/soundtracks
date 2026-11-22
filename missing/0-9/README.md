@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2012 | 210420 | [210420-2012.json](./210420-2012.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
 | 2013: Infected Wars | 52040 | [52040-2013-infected-wars.json](./52040-2013-infected-wars.json) |
+| 2014 FIFA World Cup Brazil: Recompiled | 425081 | [425081-2014-fifa-world-cup-brazil-recompiled.json](./425081-2014-fifa-world-cup-brazil-recompiled.json) |
 | 2014.Aftermath | 115375 | [115375-2014-aftermath.json](./115375-2014-aftermath.json) |
 | 2016 Doodle Fruit Games | 238871 | [238871-2016-doodle-fruit-games.json](./238871-2016-doodle-fruit-games.json) |
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
