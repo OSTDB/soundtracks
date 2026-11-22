@@ -716,7 +716,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yìnéng Chóngzǔ | 373704 | [373704-yineng-chongzu.json](./373704-yineng-chongzu.json) |
 | Yìnéng Dūshì | 368464 | [368464-yineng-dushi.json](./368464-yineng-dushi.json) |
 | Yīngxióng Qúnxiá Zhuàn | 120088 | [120088-yingxiong-qunxia-zhuan.json](./120088-yingxiong-qunxia-zhuan.json) |
-| Yīngxióng Qúnxiá Zhuàn II | 120390 | [120390-yingxiong-qunxia-zhuan-ii.json](./120390-yingxiong-qunxia-zhuan-ii.json) |
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
 | Yīngyǔ Shā | 164237 | [164237-yingyu-sha.json](./164237-yingyu-sha.json) |
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
@@ -1282,7 +1281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Do Voodoo | 294751 | [294751-you-do-voodoo.json](./294751-you-do-voodoo.json) |
 | You Doesn't Exist | 65826 | [65826-you-doesnt-exist.json](./65826-you-doesnt-exist.json) |
 | You Don't Belong Here | 391115 | [391115-you-dont-belong-here.json](./391115-you-dont-belong-here.json) |
-| You Don't Have Time | 121054 | [121054-you-dont-have-time.json](./121054-you-dont-have-time.json) |
 | You Don't Know Jack | 100072 | [100072-you-dont-know-jack.json](./100072-you-dont-know-jack.json) |
 | You Don't Know Jack | 144785 | [144785-you-dont-know-jack.json](./144785-you-dont-know-jack.json) |
 | You Don't Know Jack | 198993 | [198993-you-dont-know-jack.json](./198993-you-dont-know-jack.json) |
@@ -1620,7 +1618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Friends vs. Hidebehind | 424624 | [424624-your-friends-vs-hidebehind.json](./424624-your-friends-vs-hidebehind.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
 | Your Gay Monster Family | 185226 | [185226-your-gay-monster-family.json](./185226-your-gay-monster-family.json) |
-| Your Girl | 118997 | [118997-your-girl.json](./118997-your-girl.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your Highness, we should defend! 2 | 82626 | [82626-your-highness-we-should-defend-2.json](./82626-your-highness-we-should-defend-2.json) |
 | Your Holy & Virtuous Heretic | 269990 | [269990-your-holy-and-virtuous-heretic.json](./269990-your-holy-and-virtuous-heretic.json) |
@@ -1628,7 +1625,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
 | Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
-| Your Island: Kimi no Sima | 118803 | [118803-your-island-kimi-no-sima.json](./118803-your-island-kimi-no-sima.json) |
 | Your Journey Begins | 306865 | [306865-your-journey-begins.json](./306865-your-journey-begins.json) |
 | Your Journey of Survival | 260349 | [260349-your-journey-of-survival.json](./260349-your-journey-of-survival.json) |
 | Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
