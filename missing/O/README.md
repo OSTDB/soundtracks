@@ -3807,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Mod | 173929 | [173929-open-mod.json](./173929-open-mod.json) |
 | Open Mortal | 113539 | [113539-open-mortal.json](./113539-open-mortal.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
+| Open Nectar 2 | 425712 | [425712-open-nectar-2.json](./425712-open-nectar-2.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
 | Open Ocarina | 271820 | [271820-open-ocarina.json](./271820-open-ocarina.json) |
 | Open Ocean | 119659 | [119659-open-ocean.json](./119659-open-ocean.json) |
