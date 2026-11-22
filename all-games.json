@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T06:35:59.585Z",
-  "total_soundtracks": 3903,
+  "generated_at": "2026-11-22T08:55:54.290Z",
+  "total_soundtracks": 3904,
   "games": [
     {
       "igdb_id": 292844,
@@ -32563,6 +32563,20 @@
         {
           "album_name": "Randall (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/60UyDe19ovcmAcSnEixKBs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116832,
+      "game_name": "Rashlander",
+      "game_url": "https://ostdb.net/games/rashlander",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731290457c27b22c3ec51c594b",
+      "albums": [
+        {
+          "album_name": "Rashlander (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4FSJOl9Sxn5L0HqbkK4FPG",
           "apple_music_url": "",
           "album_link_url": ""
         }
