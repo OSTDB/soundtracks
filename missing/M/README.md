@@ -14394,6 +14394,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Story Mode - Season Two | 44158 | [44158-minecraft-story-mode-season-two.json](./44158-minecraft-story-mode-season-two.json) |
 | Minecraft: Story Mode - The Complete Adventure | 85611 | [85611-minecraft-story-mode-the-complete-adventure.json](./85611-minecraft-story-mode-the-complete-adventure.json) |
 | Minecraft: Story Mode Season Two - Episode 1: Hero in Residence | 91298 | [91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json](./91298-minecraft-story-mode-season-two-episode-1-hero-in-residence.json) |
+| Minecraft: Story Mode Season Two - Episode 2: Giant Consequences | 81099 | [81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json](./81099-minecraft-story-mode-season-two-episode-2-giant-consequences.json) |
+| Minecraft: Story Mode Season Two - Episode 3: Jailhouse Block | 81098 | [81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json](./81098-minecraft-story-mode-season-two-episode-3-jailhouse-block.json) |
+| Minecraft: Story Mode Season Two - Episode 4: Below the Bedrock | 81097 | [81097-minecraft-story-mode-season-two-episode-4-below-the-bedrock.json](./81097-minecraft-story-mode-season-two-episode-4-below-the-bedrock.json) |
+| Minecraft: Story Mode Season Two - Episode 5: Above and Beyond | 81096 | [81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json](./81096-minecraft-story-mode-season-two-episode-5-above-and-beyond.json) |
 | Minecraft: Summer of Arcade Skin Pack | 254395 | [254395-minecraft-summer-of-arcade-skin-pack.json](./254395-minecraft-summer-of-arcade-skin-pack.json) |
 | Minecraft: Super Mario Mash-up | 234773 | [234773-minecraft-super-mario-mash-up.json](./234773-minecraft-super-mario-mash-up.json) |
 | Minecraft: Superman Skin Pack | 366813 | [366813-minecraft-superman-skin-pack.json](./366813-minecraft-superman-skin-pack.json) |
@@ -17932,6 +17936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 336268 | [336268-monopoly.json](./336268-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
 | Monopoly | 71296 | [71296-monopoly.json](./71296-monopoly.json) |
+| Monopoly / Boggle / Yahtzee / Battleship | 82281 | [82281-monopoly-boggle-yahtzee-battleship.json](./82281-monopoly-boggle-yahtzee-battleship.json) |
 | Monopoly and Monopoly Madness | 178280 | [178280-monopoly-and-monopoly-madness.json](./178280-monopoly-and-monopoly-madness.json) |
 | Monopoly Casino | 78950 | [78950-monopoly-casino.json](./78950-monopoly-casino.json) |
 | Monopoly City | 275217 | [275217-monopoly-city.json](./275217-monopoly-city.json) |
@@ -23536,6 +23541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fair Princess | 117237 | [117237-my-fair-princess.json](./117237-my-fair-princess.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
+| My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
 | My Fairy Princess | 415014 | [415014-my-fairy-princess.json](./415014-my-fairy-princess.json) |
 | My Fairytale Girlfriend | 213159 | [213159-my-fairytale-girlfriend.json](./213159-my-fairytale-girlfriend.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
