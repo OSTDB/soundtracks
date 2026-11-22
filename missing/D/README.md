@@ -694,7 +694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damage: Sadistic Butchering of Humanity | 30788 | [30788-damage-sadistic-butchering-of-humanity.json](./30788-damage-sadistic-butchering-of-humanity.json) |
 | Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
-| Damaged In Transit | 121738 | [121738-damaged-in-transit.json](./121738-damaged-in-transit.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Tokyo | 21706 | [21706-damascus-gear-operation-tokyo.json](./21706-damascus-gear-operation-tokyo.json) |
@@ -1661,7 +1660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cut 2 | 382815 | [382815-dark-cut-2.json](./382815-dark-cut-2.json) |
 | Dark Cut 3 | 101721 | [101721-dark-cut-3.json](./101721-dark-cut-3.json) |
 | Dark Daemon | 303451 | [303451-dark-daemon.json](./303451-dark-daemon.json) |
-| Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Data: Zero | 258759 | [258759-dark-data-zero.json](./258759-dark-data-zero.json) |
 | Dark Day Afternoon | 140598 | [140598-dark-day-afternoon.json](./140598-dark-day-afternoon.json) |
 | Dark Days | 170255 | [170255-dark-days.json](./170255-dark-days.json) |
@@ -3048,7 +3046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Izzie | 247925 | [247925-dating-izzie.json](./247925-dating-izzie.json) |
 | Dating Killmulator | 324646 | [324646-dating-killmulator.json](./324646-dating-killmulator.json) |
 | Dating Life 2: Emily X Miley | 159956 | [159956-dating-life-2-emily-x-miley.json](./159956-dating-life-2-emily-x-miley.json) |
-| Dating Life: Miley X Emily | 119781 | [119781-dating-life-miley-x-emily.json](./119781-dating-life-miley-x-emily.json) |
 | Dating Maze | 401694 | [401694-dating-maze.json](./401694-dating-maze.json) |
 | Dating My High School Bully | 205817 | [205817-dating-my-high-school-bully.json](./205817-dating-my-high-school-bully.json) |
 | Dating of the Future | 349276 | [349276-dating-of-the-future.json](./349276-dating-of-the-future.json) |
@@ -4156,7 +4153,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
 | Dead GroundZ | 99038 | [99038-dead-groundz.json](./99038-dead-groundz.json) |
 | Dead Gun | 188790 | [188790-dead-gun.json](./188790-dead-gun.json) |
-| Dead Hand | 120740 | [120740-dead-hand.json](./120740-dead-hand.json) |
 | Dead Hand | 380244 | [380244-dead-hand.json](./380244-dead-hand.json) |
 | Dead Hand | 422676 | [422676-dead-hand.json](./422676-dead-hand.json) |
 | Dead Hand Drive | 59132 | [59132-dead-hand-drive.json](./59132-dead-hand-drive.json) |
@@ -7259,7 +7255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demelia's Isle | 149872 | [149872-demelias-isle.json](./149872-demelias-isle.json) |
 | Dememorize | 191986 | [191986-dememorize.json](./191986-dememorize.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
-| Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Demented Pixie | 30413 | [30413-demented-pixie.json](./30413-demented-pixie.json) |
 | Dementia | 183147 | [183147-dementia.json](./183147-dementia.json) |
@@ -7503,7 +7498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon of the Time | 341545 | [341545-demon-of-the-time.json](./341545-demon-of-the-time.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
-| Demon Pit | 121718 | [121718-demon-pit.json](./121718-demon-pit.json) |
 | Demon Plague | 273068 | [273068-demon-plague.json](./273068-demon-plague.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
@@ -16772,7 +16766,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
 | Draft Day Sports: Pro Football 2019 | 111938 | [111938-draft-day-sports-pro-football-2019.json](./111938-draft-day-sports-pro-football-2019.json) |
-| Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2021 | 137809 | [137809-draft-day-sports-pro-football-2021.json](./137809-draft-day-sports-pro-football-2021.json) |
 | Draft Day Sports: Pro Football 2022 | 165102 | [165102-draft-day-sports-pro-football-2022.json](./165102-draft-day-sports-pro-football-2022.json) |
 | Draft Day Sports: Pro Football 2023 | 220361 | [220361-draft-day-sports-pro-football-2023.json](./220361-draft-day-sports-pro-football-2023.json) |
@@ -17204,7 +17197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
 | Dragon Buurrp! | 304956 | [304956-dragon-buurrp.json](./304956-dragon-buurrp.json) |
 | Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
-| Dragon Call | 119495 | [119495-dragon-call.json](./119495-dragon-call.json) |
 | Dragon Care Tarot | 392225 | [392225-dragon-care-tarot.json](./392225-dragon-care-tarot.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Castle | 346753 | [346753-dragon-castle.json](./346753-dragon-castle.json) |
@@ -20642,7 +20634,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
 | Dum Game | 258099 | [258099-dum-game.json](./258099-dum-game.json) |
-| Dum-Dum | 121349 | [121349-dum-dum.json](./121349-dum-dum.json) |
 | Dum-Dum Thoughts | 282521 | [282521-dum-dum-thoughts.json](./282521-dum-dum-thoughts.json) |
 | Dumb AF | 351806 | [351806-dumb-af.json](./351806-dumb-af.json) |
 | Dumb as Wizards | 82508 | [82508-dumb-as-wizards.json](./82508-dumb-as-wizards.json) |
