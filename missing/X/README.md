@@ -946,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xite | 278477 | [278477-xite.json](./278477-xite.json) |
 | Xiu's SuperMarket | 119816 | [119816-xius-supermarket.json](./119816-xius-supermarket.json) |
 | Xiuhcuetzin | 395166 | [395166-xiuhcuetzin.json](./395166-xiuhcuetzin.json) |
+| Xiuzhen Chronicles | 427457 | [427457-xiuzhen-chronicles.json](./427457-xiuzhen-chronicles.json) |
 | Xiūzhēn Fēngyún Lù | 107381 | [107381-xiuzhen-fengyun-lu.json](./107381-xiuzhen-fengyun-lu.json) |
 | Xiuzhen Idle | 237480 | [237480-xiuzhen-idle.json](./237480-xiuzhen-idle.json) |
 | XiuZhen Metaverse | 368650 | [368650-xiuzhen-metaverse.json](./368650-xiuzhen-metaverse.json) |
