@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead Citadel | 115122 | [115122-undead-citadel.json](./115122-undead-citadel.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
+| Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
 | Undead Defense TD | 394918 | [394918-undead-defense-td.json](./394918-undead-defense-td.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
 | Undead Development 2 | 150396 | [150396-undead-development-2.json](./150396-undead-development-2.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
 | Unstoppable | 58216 | [58216-unstoppable.json](./58216-unstoppable.json) |
 | Unstoppable Gorg | 1057 | [1057-unstoppable-gorg.json](./1057-unstoppable-gorg.json) |
+| Unstoppable Hamster | 81884 | [81884-unstoppable-hamster.json](./81884-unstoppable-hamster.json) |
 | Unstoppable Man | 161554 | [161554-unstoppable-man.json](./161554-unstoppable-man.json) |
 | Unstoppable: Breakout | 304929 | [304929-unstoppable-breakout.json](./304929-unstoppable-breakout.json) |
 | Unstoppabot | 5608 | [5608-unstoppabot.json](./5608-unstoppabot.json) |
