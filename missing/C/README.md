@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling Card | 297564 | [297564-calling-card.json](./297564-calling-card.json) |
 | Calling Depths | 372788 | [372788-calling-depths.json](./372788-calling-depths.json) |
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
+| Calling in the Shadows | 420080 | [420080-calling-in-the-shadows.json](./420080-calling-in-the-shadows.json) |
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
 | Calliope Mori's Underworld Tour 2022 | 229494 | [229494-calliope-moris-underworld-tour-2022.json](./229494-calliope-moris-underworld-tour-2022.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
@@ -4327,7 +4328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Wolfenstein | 2727 | [2727-castle-wolfenstein.json](./2727-castle-wolfenstein.json) |
 | Castle Wonders: A Castle Tale | 156567 | [156567-castle-wonders-a-castle-tale.json](./156567-castle-wonders-a-castle-tale.json) |
 | Castle Woodwarf | 95952 | [95952-castle-woodwarf.json](./95952-castle-woodwarf.json) |
-| Castle Woodwarf 2 | 118612 | [118612-castle-woodwarf-2.json](./118612-castle-woodwarf-2.json) |
 | Castle Wreck | 373638 | [373638-castle-wreck.json](./373638-castle-wreck.json) |
 | Castle Xenon | 338496 | [338496-castle-xenon.json](./338496-castle-xenon.json) |
 | Castle Zanthu | 271454 | [271454-castle-zanthu.json](./271454-castle-zanthu.json) |
@@ -10540,6 +10540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel: Gunship Sandbox MMO | 413314 | [413314-citadel-gunship-sandbox-mmo.json](./413314-citadel-gunship-sandbox-mmo.json) |
 | Citadel's Keeper | 295103 | [295103-citadels-keeper.json](./295103-citadels-keeper.json) |
 | Citadelic | 235911 | [235911-citadelic.json](./235911-citadelic.json) |
+| Citadels: Shadow City | 420078 | [420078-citadels-shadow-city.json](./420078-citadels-shadow-city.json) |
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
 | Citalis | 25713 | [25713-citalis.json](./25713-citalis.json) |
