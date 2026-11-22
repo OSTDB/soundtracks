@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare! Gonta!! 2 | 40142 | [40142-ganbare-gonta-2.json](./40142-ganbare-gonta-2.json) |
 | Ganbare! Inu-chan: Rock'n Roll-hen | 280460 | [280460-ganbare-inu-chan-rockn-roll-hen.json](./280460-ganbare-inu-chan-rockn-roll-hen.json) |
 | Ganbare! Nippon! Olympics 2000 | 266555 | [266555-ganbare-nippon-olympics-2000.json](./266555-ganbare-nippon-olympics-2000.json) |
+| Ganbare! Super Strikers | 81604 | [81604-ganbare-super-strikers.json](./81604-ganbare-super-strikers.json) |
 | Ganbaru | 177756 | [177756-ganbaru.json](./177756-ganbaru.json) |
 | Ganbaru Kimi to no Futari Gurashi: Iede Gal Icha Love Seikatsu SLG | 408962 | [408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json](./408962-ganbaru-kimi-to-no-futari-gurashi-iede-gal-icha-love-seikatsu-slg.json) |
 | Ganbaru Watashi no Kakei Diary | 124591 | [124591-ganbaru-watashi-no-kakei-diary.json](./124591-ganbaru-watashi-no-kakei-diary.json) |
@@ -7733,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Dreams | 193708 | [193708-golf-dreams.json](./193708-golf-dreams.json) |
 | Golf Escape | 281387 | [281387-golf-escape.json](./281387-golf-escape.json) |
 | Golf Evolution Simulation | 265082 | [265082-golf-evolution-simulation.json](./265082-golf-evolution-simulation.json) |
+| Golf Extreme | 81941 | [81941-golf-extreme.json](./81941-golf-extreme.json) |
 | Golf For Fun | 160005 | [160005-golf-for-fun.json](./160005-golf-for-fun.json) |
 | Golf For Fun in Ice | 173229 | [173229-golf-for-fun-in-ice.json](./173229-golf-for-fun-in-ice.json) |
 | Golf for Workgroups | 30109 | [30109-golf-for-workgroups.json](./30109-golf-for-workgroups.json) |
