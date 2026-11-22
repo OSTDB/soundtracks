@@ -6213,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pussy 5 | 236183 | [236183-hentai-pussy-5.json](./236183-hentai-pussy-5.json) |
 | Hentai Pussy 6 | 238588 | [238588-hentai-pussy-6.json](./238588-hentai-pussy-6.json) |
 | Hentai Pussy 7 | 261049 | [261049-hentai-pussy-7.json](./261049-hentai-pussy-7.json) |
+| Hentai Puzzle | 100599 | [100599-hentai-puzzle.json](./100599-hentai-puzzle.json) |
 | Hentai Puzzle Classic | 111481 | [111481-hentai-puzzle-classic.json](./111481-hentai-puzzle-classic.json) |
 | Hentai Puzzle Collection 14 in 1 | 356982 | [356982-hentai-puzzle-collection-14-in-1.json](./356982-hentai-puzzle-collection-14-in-1.json) |
 | Hentai Puzzle Lamunation | 134620 | [134620-hentai-puzzle-lamunation.json](./134620-hentai-puzzle-lamunation.json) |
