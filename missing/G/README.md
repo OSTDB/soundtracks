@@ -8786,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabover Manor | 419096 | [419096-grabover-manor.json](./419096-grabover-manor.json) |
 | Grace | 128052 | [128052-grace.json](./128052-grace.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
+| Grace of Letoile | 118166 | [118166-grace-of-letoile.json](./118166-grace-of-letoile.json) |
 | Grace of Zordan | 69460 | [69460-grace-of-zordan.json](./69460-grace-of-zordan.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Grace's Diary | 180877 | [180877-graces-diary.json](./180877-graces-diary.json) |
