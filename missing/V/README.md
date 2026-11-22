@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire Nights | 184756 | [184756-vampire-nights.json](./184756-vampire-nights.json) |
 | Vampire Nights: Horny Secret | 385269 | [385269-vampire-nights-horny-secret.json](./385269-vampire-nights-horny-secret.json) |
+| Vampire of the Sands | 34893 | [34893-vampire-of-the-sands.json](./34893-vampire-of-the-sands.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
 | Vampire Origins Reloaded | 63013 | [63013-vampire-origins-reloaded.json](./63013-vampire-origins-reloaded.json) |
 | Vampire Panic | 77665 | [77665-vampire-panic.json](./77665-vampire-panic.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venge | 143958 | [143958-venge.json](./143958-venge.json) |
 | Venge 2.0 | 321257 | [321257-venge-2-0.json](./321257-venge-2-0.json) |
 | Venge.io | 137531 | [137531-venge-io.json](./137531-venge-io.json) |
+| Vengeance | 34876 | [34876-vengeance.json](./34876-vengeance.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
 | Vengeance Hunters | 309302 | [309302-vengeance-hunters.json](./309302-vengeance-hunters.json) |
