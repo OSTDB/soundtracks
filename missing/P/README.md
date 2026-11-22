@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
 | Pacific Drive: We Have Liftoff Customization Pack | 285546 | [285546-pacific-drive-we-have-liftoff-customization-pack.json](./285546-pacific-drive-we-have-liftoff-customization-pack.json) |
 | Pacific Drive: Whispers Edition | 376034 | [376034-pacific-drive-whispers-edition.json](./376034-pacific-drive-whispers-edition.json) |
+| Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Fleet | 87506 | [87506-pacific-fleet.json](./87506-pacific-fleet.json) |
 | Pacific Fort Night Craft Survival Battle Royale | 100965 | [100965-pacific-fort-night-craft-survival-battle-royale.json](./100965-pacific-fort-night-craft-survival-battle-royale.json) |
@@ -15628,6 +15629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Planner | 384344 | [384344-power-planner.json](./384344-power-planner.json) |
 | Power Play Pool | 78335 | [78335-power-play-pool.json](./78335-power-play-pool.json) |
 | Power Play Tennis | 80159 | [80159-power-play-tennis.json](./80159-power-play-tennis.json) |
+| Power Play: Sports Trivia | 24075 | [24075-power-play-sports-trivia.json](./24075-power-play-sports-trivia.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pocket Dash | 191348 | [191348-power-pocket-dash.json](./191348-power-pocket-dash.json) |
 | Power Pocket Koushien | 98512 | [98512-power-pocket-koushien.json](./98512-power-pocket-koushien.json) |
@@ -19366,6 +19368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pry into the Void | 187530 | [187530-pry-into-the-void.json](./187530-pry-into-the-void.json) |
 | Pryhody pionerky Kseni | 227038 | [227038-pryhody-pionerky-kseni.json](./227038-pryhody-pionerky-kseni.json) |
 | Pryzm | 288789 | [288789-pryzm.json](./288789-pryzm.json) |
+| Pryzm Chapter One: The Dark Unicorn | 24078 | [24078-pryzm-chapter-one-the-dark-unicorn.json](./24078-pryzm-chapter-one-the-dark-unicorn.json) |
 | PS! Flash | 178483 | [178483-ps-flash.json](./178483-ps-flash.json) |
 | PS!Outertale | 313279 | [313279-ps-outertale.json](./313279-ps-outertale.json) |
 | PS5 Simulator | 177149 | [177149-ps5-simulator.json](./177149-ps5-simulator.json) |
