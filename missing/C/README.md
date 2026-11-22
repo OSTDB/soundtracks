@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cally's Caves 3 | 34076 | [34076-callys-caves-3.json](./34076-callys-caves-3.json) |
 | Cally's Caves 4 | 81211 | [81211-callys-caves-4.json](./81211-callys-caves-4.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
+| Cally's Trials | 32583 | [32583-callys-trials.json](./32583-callys-trials.json) |
 | Calm Before the Storm | 374437 | [374437-calm-before-the-storm.json](./374437-calm-before-the-storm.json) |
 | Calm Before The Storm | 316852 | [316852-calm-before-the-storm.json](./316852-calm-before-the-storm.json) |
 | Calm Bricks | 430909 | [430909-calm-bricks.json](./430909-calm-bricks.json) |
@@ -4798,6 +4799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
 | Cat on the Jungle Path | 428259 | [428259-cat-on-the-jungle-path.json](./428259-cat-on-the-jungle-path.json) |
+| Cat or Bread? | 29975 | [29975-cat-or-bread.json](./29975-cat-or-bread.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
 | Cat or Potat | 416322 | [416322-cat-or-potat.json](./416322-cat-or-potat.json) |
 | Cat Pack | 409900 | [409900-cat-pack.json](./409900-cat-pack.json) |
