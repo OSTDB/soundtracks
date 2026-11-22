@@ -6084,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
 | Outpost Simulator | 377117 | [377117-outpost-simulator.json](./377117-outpost-simulator.json) |
 | Outpost X | 273223 | [273223-outpost-x.json](./273223-outpost-x.json) |
+| Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Glacier | 137705 | [137705-outpost-glacier.json](./137705-outpost-glacier.json) |
 | Outpost: Infinity Siege | 199218 | [199218-outpost-infinity-siege.json](./199218-outpost-infinity-siege.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
