@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
 | Last Resort | 261617 | [261617-last-resort.json](./261617-last-resort.json) |
 | Last Resort | 36750 | [36750-last-resort.json](./36750-last-resort.json) |
+| Last Resort Island | 99026 | [99026-last-resort-island.json](./99026-last-resort-island.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
@@ -3743,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Minifigures Online | 17874 | [17874-lego-minifigures-online.json](./17874-lego-minifigures-online.json) |
 | LEGO My Style: Preschool | 253104 | [253104-lego-my-style-preschool.json](./253104-lego-my-style-preschool.json) |
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
+| LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
 | LEGO Ninjago: Rise of the snakes | 187123 | [187123-lego-ninjago-rise-of-the-snakes.json](./187123-lego-ninjago-rise-of-the-snakes.json) |
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
 | LEGO Ninjago: Skybound | 69467 | [69467-lego-ninjago-skybound.json](./69467-lego-ninjago-skybound.json) |
@@ -9943,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love at the RatbagTrash Cabin! | 399040 | [399040-love-at-the-ratbagtrash-cabin.json](./399040-love-at-the-ratbagtrash-cabin.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
+| Love Balls | 100812 | [100812-love-balls.json](./100812-love-balls.json) |
 | Love Battle Spirit | 387744 | [387744-love-battle-spirit.json](./387744-love-battle-spirit.json) |
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
 | Love Beyond Differences: Riku & Lily | 423570 | [423570-love-beyond-differences-riku-and-lily.json](./423570-love-beyond-differences-riku-and-lily.json) |
