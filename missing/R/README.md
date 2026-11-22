@@ -4446,6 +4446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dog: Superior Firepower | 45835 | [45835-red-dog-superior-firepower.json](./45835-red-dog-superior-firepower.json) |
 | Red Door Yellow Door | 399550 | [399550-red-door-yellow-door.json](./399550-red-door-yellow-door.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
+| Red Door: Horror Maze | 428178 | [428178-red-door-horror-maze.json](./428178-red-door-horror-maze.json) |
 | Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
 | Red Dove | 343155 | [343155-red-dove.json](./343155-red-dove.json) |
 | Red Dragon Rampage | 178366 | [178366-red-dragon-rampage.json](./178366-red-dragon-rampage.json) |
@@ -10946,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rush | 427978 | [427978-rocket-rush.json](./427978-rocket-rush.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
+| Rocket Scrapyard | 428479 | [428479-rocket-scrapyard.json](./428479-rocket-scrapyard.json) |
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
 | Rocket Shooter | 33297 | [33297-rocket-shooter.json](./33297-rocket-shooter.json) |
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
