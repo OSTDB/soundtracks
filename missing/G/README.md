@@ -4680,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Aliens | 255617 | [255617-ghosts-of-aliens.json](./255617-ghosts-of-aliens.json) |
 | Ghosts of Hollow Creek | 196950 | [196950-ghosts-of-hollow-creek.json](./196950-ghosts-of-hollow-creek.json) |
 | Ghosts of Memories | 59000 | [59000-ghosts-of-memories.json](./59000-ghosts-of-memories.json) |
+| Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
 | Ghosts of Oblivion | 275865 | [275865-ghosts-of-oblivion.json](./275865-ghosts-of-oblivion.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
@@ -8660,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Eat the Plums! With William Carlos Williams | 182040 | [182040-gotta-eat-the-plums-with-william-carlos-williams.json](./182040-gotta-eat-the-plums-with-william-carlos-williams.json) |
 | Gotta Get Going: Steam Smugglers Prologue | 90402 | [90402-gotta-get-going-steam-smugglers-prologue.json](./90402-gotta-get-going-steam-smugglers-prologue.json) |
 | Gotta Get Home | 231299 | [231299-gotta-get-home.json](./231299-gotta-get-home.json) |
+| Gotta Go | 51488 | [51488-gotta-go.json](./51488-gotta-go.json) |
 | Gotta Go Fast: Racing Collection | 246572 | [246572-gotta-go-fast-racing-collection.json](./246572-gotta-go-fast-racing-collection.json) |
 | Gotta Protectors | 22461 | [22461-gotta-protectors.json](./22461-gotta-protectors.json) |
 | Gotta Protectors: Amazon's Running Diet | 195502 | [195502-gotta-protectors-amazons-running-diet.json](./195502-gotta-protectors-amazons-running-diet.json) |
@@ -10017,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravKitten | 164160 | [164160-gravkitten.json](./164160-gravkitten.json) |
 | Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
+| GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
 | Gravoor 20th Anniversary | 378472 | [378472-gravoor-20th-anniversary.json](./378472-gravoor-20th-anniversary.json) |
 | Gravortex | 94477 | [94477-gravortex.json](./94477-gravortex.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
@@ -13321,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyropractor | 421991 | [421991-gyropractor.json](./421991-gyropractor.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
 | GyroShooter | 76817 | [76817-gyroshooter.json](./76817-gyroshooter.json) |
+| GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
 | Gyrotate | 239415 | [239415-gyrotate.json](./239415-gyrotate.json) |
 | Gyrotechnics | 315404 | [315404-gyrotechnics.json](./315404-gyrotechnics.json) |
