@@ -25639,7 +25639,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Mancer | 224556 | [224556-spirit-mancer.json](./224556-spirit-mancer.json) |
 | Spirit Master | 110025 | [110025-spirit-master.json](./110025-spirit-master.json) |
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
-| Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
 | Spirit of Adventure | 68208 | [68208-spirit-of-adventure.json](./68208-spirit-of-adventure.json) |
 | Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
