@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
 | Major Mayhem | 16855 | [16855-major-mayhem.json](./16855-major-mayhem.json) |
+| Major Mayhem II | 100361 | [100361-major-mayhem-ii.json](./100361-major-mayhem-ii.json) |
 | Major Minor 2.0: (Re)Vision | 277924 | [277924-major-minor-2-0-re-vision.json](./277924-major-minor-2-0-re-vision.json) |
 | Major Motion | 15255 | [15255-major-motion.json](./15255-major-motion.json) |
 | Major Party Racing | 358994 | [358994-major-party-racing.json](./358994-major-party-racing.json) |
@@ -16634,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | MOBA Dodge Trainer | 341244 | [341244-moba-dodge-trainer.json](./341244-moba-dodge-trainer.json) |
 | MOBA Esport Manager 25 | 244577 | [244577-moba-esport-manager-25.json](./244577-moba-esport-manager-25.json) |
+| MOBA GM | 99593 | [99593-moba-gm.json](./99593-moba-gm.json) |
 | MOBA Legends | 58352 | [58352-moba-legends.json](./58352-moba-legends.json) |
 | MOBA Manager 2026 | 422413 | [422413-moba-manager-2026.json](./422413-moba-manager-2026.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
@@ -24411,6 +24413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
 | My Sim Aquarium | 70143 | [70143-my-sim-aquarium.json](./70143-my-sim-aquarium.json) |
+| My Singing Monsters Composer | 99181 | [99181-my-singing-monsters-composer.json](./99181-my-singing-monsters-composer.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
 | My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
