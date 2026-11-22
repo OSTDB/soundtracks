@@ -1491,6 +1491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Embryo: Either of Brave to Story | 163754 | [163754-last-embryo-either-of-brave-to-story.json](./163754-last-embryo-either-of-brave-to-story.json) |
 | Last Emperor | 258554 | [258554-last-emperor.json](./258554-last-emperor.json) |
 | Last Empire: War Z | 88093 | [88093-last-empire-war-z.json](./88093-last-empire-war-z.json) |
+| Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
 | Last Epoch: Adult Chronowyrm | 286980 | [286980-last-epoch-adult-chronowyrm.json](./286980-last-epoch-adult-chronowyrm.json) |
@@ -5109,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
 | Life & Death II: The Brain | 121164 | [121164-life-and-death-ii-the-brain.json](./121164-life-and-death-ii-the-brain.json) |
+| Life & Debt: A Real Life Simulator | 88036 | [88036-life-and-debt-a-real-life-simulator.json](./88036-life-and-debt-a-real-life-simulator.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
 | Life after Death | 211110 | [211110-life-after-death.json](./211110-life-after-death.json) |
