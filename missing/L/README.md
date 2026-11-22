@@ -2836,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
 | Leftovers: Last Fridge Standing | 427696 | [427696-leftovers-last-fridge-standing.json](./427696-leftovers-last-fridge-standing.json) |
 | LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
+| LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Lefty | 309955 | [309955-lefty.json](./309955-lefty.json) |
@@ -8096,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
 | Logistical: ABC Islands | 100239 | [100239-logistical-abc-islands.json](./100239-logistical-abc-islands.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
+| Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
 | Logistical: Canada | 166373 | [166373-logistical-canada.json](./166373-logistical-canada.json) |
 | Logistical: Caribbean | 99062 | [99062-logistical-caribbean.json](./99062-logistical-caribbean.json) |
 | Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
