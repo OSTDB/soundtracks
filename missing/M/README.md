@@ -8435,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
 | Mega Cat Studios Collection | 413408 | [413408-mega-cat-studios-collection.json](./413408-mega-cat-studios-collection.json) |
+| Mega Cat Studios Collection 2 | 145832 | [145832-mega-cat-studios-collection-2.json](./145832-mega-cat-studios-collection-2.json) |
 | Mega Cat Studios Collection 3 | 420397 | [420397-mega-cat-studios-collection-3.json](./420397-mega-cat-studios-collection-3.json) |
 | Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Obby | 373975 | [373975-mega-city-obby.json](./373975-mega-city-obby.json) |
