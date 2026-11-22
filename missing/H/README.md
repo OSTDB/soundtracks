@@ -12581,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
 | Hotel Boom! | 251789 | [251789-hotel-boom.json](./251789-hotel-boom.json) |
 | Hotel Builder | 217168 | [217168-hotel-builder.json](./217168-hotel-builder.json) |
+| Hotel Carnivalia | 424475 | [424475-hotel-carnivalia.json](./424475-hotel-carnivalia.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
@@ -12870,6 +12871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House Mansion Flipper | 330233 | [330233-house-mansion-flipper.json](./330233-house-mansion-flipper.json) |
 | House Master | 272617 | [272617-house-master.json](./272617-house-master.json) |
+| House Music Incremental | 424062 | [424062-house-music-incremental.json](./424062-house-music-incremental.json) |
 | House Number 666 | 123863 | [123863-house-number-666.json](./123863-house-number-666.json) |
 | House of 1,000 Doors: Serpent Flame | 140197 | [140197-house-of-1-000-doors-serpent-flame.json](./140197-house-of-1-000-doors-serpent-flame.json) |
 | House of 1,000 Doors: Serpent Flame - Collector's Edition | 87381 | [87381-house-of-1-000-doors-serpent-flame-collectors-edition.json](./87381-house-of-1-000-doors-serpent-flame-collectors-edition.json) |
@@ -13115,6 +13117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Does Into Game? | 406921 | [406921-how-does-into-game.json](./406921-how-does-into-game.json) |
 | How does it work!? | 158347 | [158347-how-does-it-work.json](./158347-how-does-it-work.json) |
+| How Empires Work | 423445 | [423445-how-empires-work.json](./423445-how-empires-work.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
 | How Fennec Fox Built a Home | 95522 | [95522-how-fennec-fox-built-a-home.json](./95522-how-fennec-fox-built-a-home.json) |
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
@@ -13247,6 +13250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Turn a Cherry Tree Spirit Into an Idol | 337862 | [337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json](./337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
+| How to Wait for the Bus | 423836 | [423836-how-to-wait-for-the-bus.json](./423836-how-to-wait-for-the-bus.json) |
 | How To Walk Out The Door | 381958 | [381958-how-to-walk-out-the-door.json](./381958-how-to-walk-out-the-door.json) |
 | How to Weigh an Elephant | 68214 | [68214-how-to-weigh-an-elephant.json](./68214-how-to-weigh-an-elephant.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
