@@ -3327,6 +3327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Unlocked | 141697 | [141697-achievement-unlocked.json](./141697-achievement-unlocked.json) |
 | Achievement Unlocked 2 | 165420 | [165420-achievement-unlocked-2.json](./165420-achievement-unlocked-2.json) |
 | Achievement Unlocked 3 | 179276 | [179276-achievement-unlocked-3.json](./179276-achievement-unlocked-3.json) |
+| Achievement: Global Domination | 423434 | [423434-achievement-global-domination.json](./423434-achievement-global-domination.json) |
 | Achievements City | 215458 | [215458-achievements-city.json](./215458-achievements-city.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles | 118129 | [118129-achilles.json](./118129-achilles.json) |
@@ -3502,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
 | Act It Out! A Game of Charades | 80333 | [80333-act-it-out-a-game-of-charades.json](./80333-act-it-out-a-game-of-charades.json) |
+| Act Normal | 424061 | [424061-act-normal.json](./424061-act-normal.json) |
 | Act Normal! | 301690 | [301690-act-normal.json](./301690-act-normal.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
@@ -6528,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Drop | 318369 | [318369-air-drop.json](./318369-air-drop.json) |
 | Air Duel | 10445 | [10445-air-duel.json](./10445-air-duel.json) |
 | Air Duel: 80 Years of Dogfighting | 72528 | [72528-air-duel-80-years-of-dogfighting.json](./72528-air-duel-80-years-of-dogfighting.json) |
+| Air Empire: 1950 Airline Tycoon | 423838 | [423838-air-empire-1950-airline-tycoon.json](./423838-air-empire-1950-airline-tycoon.json) |
 | Air Field Hockey | 175157 | [175157-air-field-hockey.json](./175157-air-field-hockey.json) |
 | Air Fight: Sky Fighters | 281043 | [281043-air-fight-sky-fighters.json](./281043-air-fight-sky-fighters.json) |
 | Air Fleet | 264165 | [264165-air-fleet.json](./264165-air-fleet.json) |
@@ -8245,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Hunt 3D | 105645 | [105645-alien-hunt-3d.json](./105645-alien-hunt-3d.json) |
 | Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
+| Alien Idolz: Rhythmic Idler | 423837 | [423837-alien-idolz-rhythmic-idler.json](./423837-alien-idolz-rhythmic-idler.json) |
 | Alien Incident | 2168 | [2168-alien-incident.json](./2168-alien-incident.json) |
 | Alien Infection | 120915 | [120915-alien-infection.json](./120915-alien-infection.json) |
 | Alien Infestation | 139132 | [139132-alien-infestation.json](./139132-alien-infestation.json) |
@@ -13085,6 +13089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antepenult | 356851 | [356851-antepenult.json](./356851-antepenult.json) |
 | Antero Sudoku | 359363 | [359363-antero-sudoku.json](./359363-antero-sudoku.json) |
 | Anterris | 318960 | [318960-anterris.json](./318960-anterris.json) |
+| Antes del Sur | 423444 | [423444-antes-del-sur.json](./423444-antes-del-sur.json) |
 | Antes todo esto era campo | 417976 | [417976-antes-todo-esto-era-campo.json](./417976-antes-todo-esto-era-campo.json) |
 | Anthalia | 400580 | [400580-anthalia.json](./400580-anthalia.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
