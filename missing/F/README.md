@@ -4624,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feria 3000 | 391057 | [391057-feria-3000.json](./391057-feria-3000.json) |
 | Feria d'Arles | 126394 | [126394-feria-darles.json](./126394-feria-darles.json) |
 | Fermata on the Pithos | 208234 | [208234-fermata-on-the-pithos.json](./208234-fermata-on-the-pithos.json) |
+| Fermi.gg | 429447 | [429447-fermi-gg.json](./429447-fermi-gg.json) |
 | Fermion: Mirai kara no Houmonsha | 387532 | [387532-fermion-mirai-kara-no-houmonsha.json](./387532-fermion-mirai-kara-no-houmonsha.json) |
 | Fern Flower | 132104 | [132104-fern-flower.json](./132104-fern-flower.json) |
 | Fern Flower | 200694 | [200694-fern-flower.json](./200694-fern-flower.json) |
@@ -7453,6 +7454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
 | Fish Idle 2: Underwater Mystery - Welcome Pack | 340082 | [340082-fish-idle-2-underwater-mystery-welcome-pack.json](./340082-fish-idle-2-underwater-mystery-welcome-pack.json) |
 | Fish In | 402572 | [402572-fish-in.json](./402572-fish-in.json) |
+| Fish It!: Sort the Aquarium Shop | 430953 | [430953-fish-it-sort-the-aquarium-shop.json](./430953-fish-it-sort-the-aquarium-shop.json) |
 | Fish Kermesse | 131791 | [131791-fish-kermesse.json](./131791-fish-kermesse.json) |
 | Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
@@ -13993,6 +13995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Fire | 415665 | [415665-friendly-fire.json](./415665-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Lab: Unlock | 259898 | [259898-friendly-lab-unlock.json](./259898-friendly-lab-unlock.json) |
+| Friendly Pharmacy | 429903 | [429903-friendly-pharmacy.json](./429903-friendly-pharmacy.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
 | Friendly Snowball | 284778 | [284778-friendly-snowball.json](./284778-friendly-snowball.json) |
