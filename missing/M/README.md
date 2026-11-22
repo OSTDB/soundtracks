@@ -10558,6 +10558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
 | Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
 | Meow Hunter | 319263 | [319263-meow-hunter.json](./319263-meow-hunter.json) |
+| Meow Knights | 429016 | [429016-meow-knights.json](./429016-meow-knights.json) |
 | Meow Lab | 149349 | [149349-meow-lab.json](./149349-meow-lab.json) |
 | Meow Legion | 244435 | [244435-meow-legion.json](./244435-meow-legion.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
@@ -14641,6 +14642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Retro | 99825 | [99825-minesweeper-retro.json](./99825-minesweeper-retro.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
+| Minesweeper Survivors | 429025 | [429025-minesweeper-survivors.json](./429025-minesweeper-survivors.json) |
 | MineSweeper Tetris | 228952 | [228952-minesweeper-tetris.json](./228952-minesweeper-tetris.json) |
 | Minesweeper Twist | 296973 | [296973-minesweeper-twist.json](./296973-minesweeper-twist.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
@@ -19882,6 +19884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
 | Mortal Cards | 287366 | [287366-mortal-cards.json](./287366-mortal-cards.json) |
+| Mortal Chess | 429227 | [429227-mortal-chess.json](./429227-mortal-chess.json) |
 | Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
 | Mortal Coil: Adrenalin Intelligence | 71835 | [71835-mortal-coil-adrenalin-intelligence.json](./71835-mortal-coil-adrenalin-intelligence.json) |
 | Mortal Crusade: Sword of Knight | 146981 | [146981-mortal-crusade-sword-of-knight.json](./146981-mortal-crusade-sword-of-knight.json) |
