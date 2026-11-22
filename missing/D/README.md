@@ -11306,6 +11306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Games: Puzzle for Kids & Toddlers | 88936 | [88936-dinosaur-games-puzzle-for-kids-and-toddlers.json](./88936-dinosaur-games-puzzle-for-kids-and-toddlers.json) |
 | Dinosaur Hunt | 34491 | [34491-dinosaur-hunt.json](./34491-dinosaur-hunt.json) |
+| Dinosaur Hunt First Blood | 51975 | [51975-dinosaur-hunt-first-blood.json](./51975-dinosaur-hunt-first-blood.json) |
 | Dinosaur Hunt Puzzle | 103645 | [103645-dinosaur-hunt-puzzle.json](./103645-dinosaur-hunt-puzzle.json) |
 | Dinosaur Hunt: Gold Edition | 52904 | [52904-dinosaur-hunt-gold-edition.json](./52904-dinosaur-hunt-gold-edition.json) |
 | Dinosaur Hunt: Special Edition | 52903 | [52903-dinosaur-hunt-special-edition.json](./52903-dinosaur-hunt-special-edition.json) |
@@ -22531,6 +22532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
 | Dysfunct | 334363 | [334363-dysfunct.json](./334363-dysfunct.json) |
 | Dysfunctional Systems: Learning to Manage Chaos | 16647 | [16647-dysfunctional-systems-learning-to-manage-chaos.json](./16647-dysfunctional-systems-learning-to-manage-chaos.json) |
+| Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
 | Dyskairos | 374771 | [374771-dyskairos.json](./374771-dyskairos.json) |
 | Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
