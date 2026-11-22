@@ -27113,6 +27113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
 | Squarehead | 98704 | [98704-squarehead.json](./98704-squarehead.json) |
+| Squarelands | 34956 | [34956-squarelands.json](./34956-squarelands.json) |
 | Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
 | Squarelaxy | 183326 | [183326-squarelaxy.json](./183326-squarelaxy.json) |
 | Squarelets | 297054 | [297054-squarelets.json](./297054-squarelets.json) |
@@ -31965,6 +31966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
 | Stranded in the Abyss | 372392 | [372392-stranded-in-the-abyss.json](./372392-stranded-in-the-abyss.json) |
 | Stranded in the Amazon | 210206 | [210206-stranded-in-the-amazon.json](./210206-stranded-in-the-amazon.json) |
+| Stranded In Time | 34884 | [34884-stranded-in-time.json](./34884-stranded-in-time.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
@@ -34566,6 +34568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumetrick | 81621 | [81621-sumetrick.json](./81621-sumetrick.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumi Sumi Party: Tap Puzzle | 235158 | [235158-sumi-sumi-party-tap-puzzle.json](./235158-sumi-sumi-party-tap-puzzle.json) |
+| Sumico: The Numbers Game | 34952 | [34952-sumico-the-numbers-game.json](./34952-sumico-the-numbers-game.json) |
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
@@ -34863,6 +34866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Fighter | 49006 | [49006-sumo-fighter.json](./49006-sumo-fighter.json) |
+| Sumo Revise | 35024 | [35024-sumo-revise.json](./35024-sumo-revise.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
 | Sumo Slam | 372422 | [372422-sumo-slam.json](./372422-sumo-slam.json) |
@@ -41348,6 +41352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones: Premium Edition | 244819 | [244819-swords-and-bones-premium-edition.json](./244819-swords-and-bones-premium-edition.json) |
 | Swords & Bones: Special Edition | 242054 | [242054-swords-and-bones-special-edition.json](./242054-swords-and-bones-special-edition.json) |
 | Swords & Bones: Ultimate Edition | 237759 | [237759-swords-and-bones-ultimate-edition.json](./237759-swords-and-bones-ultimate-edition.json) |
+| Swords & Crossbones: An Epic Pirate Story | 34915 | [34915-swords-and-crossbones-an-epic-pirate-story.json](./34915-swords-and-crossbones-an-epic-pirate-story.json) |
 | Swords & Crystals | 268947 | [268947-swords-and-crystals.json](./268947-swords-and-crystals.json) |
 | Swords & Crystals: Dragon Hatchling Pet | 298185 | [298185-swords-and-crystals-dragon-hatchling-pet.json](./298185-swords-and-crystals-dragon-hatchling-pet.json) |
 | Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
