@@ -11326,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Balls | 249310 | [249310-metal-max-balls.json](./249310-metal-max-balls.json) |
 | Metal Max Returns | 38373 | [38373-metal-max-returns.json](./38373-metal-max-returns.json) |
 | Metal Max Xeno | 74874 | [74874-metal-max-xeno.json](./74874-metal-max-xeno.json) |
+| Metal Max Xeno Reborn | 117015 | [117015-metal-max-xeno-reborn.json](./117015-metal-max-xeno-reborn.json) |
 | Metal Max Xeno Reborn: Digital Deluxe Edition | 204291 | [204291-metal-max-xeno-reborn-digital-deluxe-edition.json](./204291-metal-max-xeno-reborn-digital-deluxe-edition.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
 | Metal Max Xeno: Reborn - Limited Edition | 136606 | [136606-metal-max-xeno-reborn-limited-edition.json](./136606-metal-max-xeno-reborn-limited-edition.json) |
@@ -14732,6 +14733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
 | Mini Football Legends | 405195 | [405195-mini-football-legends.json](./405195-mini-football-legends.json) |
+| Mini Gal4Xy | 117456 | [117456-mini-gal4xy.json](./117456-mini-gal4xy.json) |
 | Mini Game Collection | 40668 | [40668-mini-game-collection.json](./40668-mini-game-collection.json) |
 | Mini Game Compil 2 | 381731 | [381731-mini-game-compil-2.json](./381731-mini-game-compil-2.json) |
 | Mini Game Compil 3 | 322796 | [322796-mini-game-compil-3.json](./322796-mini-game-compil-3.json) |
@@ -17885,6 +17887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monologin | 404618 | [404618-monologin.json](./404618-monologin.json) |
 | Monologue: Winter melancholy | 278145 | [278145-monologue-winter-melancholy.json](./278145-monologue-winter-melancholy.json) |
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
+| Monomals | 117017 | [117017-monomals.json](./117017-monomals.json) |
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
 | Monomino | 17483 | [17483-monomino.json](./17483-monomino.json) |
 | Monomon: The Black Sun | 190908 | [190908-monomon-the-black-sun.json](./190908-monomon-the-black-sun.json) |
@@ -22493,6 +22496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi no Ken: Tadaima Shugyou-chuu | 48417 | [48417-musashi-no-ken-tadaima-shugyou-chuu.json](./48417-musashi-no-ken-tadaima-shugyou-chuu.json) |
+| Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
 | Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
 | Muscle Bomber Duo: Ultimate Team Battle | 39317 | [39317-muscle-bomber-duo-ultimate-team-battle.json](./39317-muscle-bomber-duo-ultimate-team-battle.json) |
 | Muscle Car 2: American Spirit | 73947 | [73947-muscle-car-2-american-spirit.json](./73947-muscle-car-2-american-spirit.json) |
