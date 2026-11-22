@@ -1114,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa O: Sea of Despair | 411328 | [411328-danganronpa-o-sea-of-despair.json](./411328-danganronpa-o-sea-of-despair.json) |
 | Danganronpa Oldmaid | 411320 | [411320-danganronpa-oldmaid.json](./411320-danganronpa-oldmaid.json) |
 | Danganronpa S: Ultimate Summer Camp | 152366 | [152366-danganronpa-s-ultimate-summer-camp.json](./152366-danganronpa-s-ultimate-summer-camp.json) |
+| Danganronpa SE: Twilight of Ceres | 426260 | [426260-danganronpa-se-twilight-of-ceres.json](./426260-danganronpa-se-twilight-of-ceres.json) |
 | Danganronpa Split | 411326 | [411326-danganronpa-split.json](./411326-danganronpa-split.json) |
 | Danganronpa Trilogy | 113207 | [113207-danganronpa-trilogy.json](./113207-danganronpa-trilogy.json) |
 | Danganronpa Twinn | 411332 | [411332-danganronpa-twinn.json](./411332-danganronpa-twinn.json) |
@@ -2106,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Sleepy Hollow - Collector's Edition | 151433 | [151433-dark-romance-sleepy-hollow-collectors-edition.json](./151433-dark-romance-sleepy-hollow-collectors-edition.json) |
 | Dark Romance: The Ethereal Gardens | 140118 | [140118-dark-romance-the-ethereal-gardens.json](./140118-dark-romance-the-ethereal-gardens.json) |
 | Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
+| Dark Romance: The Monster Within - Collector's Edition | 426142 | [426142-dark-romance-the-monster-within-collectors-edition.json](./426142-dark-romance-the-monster-within-collectors-edition.json) |
 | Dark Romance: The Swan Sonata | 140119 | [140119-dark-romance-the-swan-sonata.json](./140119-dark-romance-the-swan-sonata.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
@@ -11187,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Running from a Furry: Gamesforfarm | 327727 | [327727-dino-running-from-a-furry-gamesforfarm.json](./327727-dino-running-from-a-furry-gamesforfarm.json) |
 | Dino Rush | 296894 | [296894-dino-rush.json](./296894-dino-rush.json) |
 | Dino Rush | 343481 | [343481-dino-rush.json](./343481-dino-rush.json) |
+| Dino Rush | 425684 | [425684-dino-rush.json](./425684-dino-rush.json) |
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: E-Pro | 207957 | [207957-dino-safari-e-pro.json](./207957-dino-safari-e-pro.json) |
