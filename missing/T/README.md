@@ -11099,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
 | The Fleet | 38720 | [38720-the-fleet.json](./38720-the-fleet.json) |
 | The Fleets of Sol | 34949 | [34949-the-fleets-of-sol.json](./34949-the-fleets-of-sol.json) |
+| The Flesh Beneath | 425103 | [425103-the-flesh-beneath.json](./425103-the-flesh-beneath.json) |
 | The Flesh God | 74187 | [74187-the-flesh-god.json](./74187-the-flesh-god.json) |
 | The Flick of the Dead | 125152 | [125152-the-flick-of-the-dead.json](./125152-the-flick-of-the-dead.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
@@ -14833,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Tears of the Kingdom Online | 357440 | [357440-the-legend-of-zelda-tears-of-the-kingdom-online.json](./357440-the-legend-of-zelda-tears-of-the-kingdom-online.json) |
 | The Legend of Zelda: Tears of the Kingdom Randomizer | 256282 | [256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json](./256282-the-legend-of-zelda-tears-of-the-kingdom-randomizer.json) |
 | The Legend of Zelda: Temple of Seasons | 429736 | [429736-the-legend-of-zelda-temple-of-seasons.json](./429736-the-legend-of-zelda-temple-of-seasons.json) |
+| The Legend of Zelda: The Cursed Mansion | 425659 | [425659-the-legend-of-zelda-the-cursed-mansion.json](./425659-the-legend-of-zelda-the-cursed-mansion.json) |
 | The Legend of Zelda: The Hunter's Song | 327776 | [327776-the-legend-of-zelda-the-hunters-song.json](./327776-the-legend-of-zelda-the-hunters-song.json) |
 | The Legend of Zelda: The Hylian Frontier | 324002 | [324002-the-legend-of-zelda-the-hylian-frontier.json](./324002-the-legend-of-zelda-the-hylian-frontier.json) |
 | The Legend of Zelda: The Hylian Phoenix | 324012 | [324012-the-legend-of-zelda-the-hylian-phoenix.json](./324012-the-legend-of-zelda-the-hylian-phoenix.json) |
@@ -18365,6 +18367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Rubro Rose's Castle | 271563 | [271563-the-rubro-roses-castle.json](./271563-the-rubro-roses-castle.json) |
 | The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
+| The Rug Racket | 425085 | [425085-the-rug-racket.json](./425085-the-rug-racket.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
 | The Rugrats Movie: Activity Challenge | 8088 | [8088-the-rugrats-movie-activity-challenge.json](./8088-the-rugrats-movie-activity-challenge.json) |
@@ -26894,9 +26897,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeSplitters 2: Recompiled | 425295 | [425295-timesplitters-2-recompiled.json](./425295-timesplitters-2-recompiled.json) |
 | TimeSplitters 4 | 52955 | [52955-timesplitters-4.json](./52955-timesplitters-4.json) |
 | TimeSplitters Next | 290385 | [290385-timesplitters-next.json](./290385-timesplitters-next.json) |
+| TimeSplitters Recomp | 425475 | [425475-timesplitters-recomp.json](./425475-timesplitters-recomp.json) |
 | TimeSplitters Rewind | 27286 | [27286-timesplitters-rewind.json](./27286-timesplitters-rewind.json) |
 | TimeSplitters: Future Perfect | 2144 | [2144-timesplitters-future-perfect.json](./2144-timesplitters-future-perfect.json) |
 | TimeSplitters: Future Perfect | 317416 | [317416-timesplitters-future-perfect.json](./317416-timesplitters-future-perfect.json) |
+| TimeSplitters: Future Perfect Recomp | 425473 | [425473-timesplitters-future-perfect-recomp.json](./425473-timesplitters-future-perfect-recomp.json) |
 | Timestamps: Lost Love | 310041 | [310041-timestamps-lost-love.json](./310041-timestamps-lost-love.json) |
 | Timestamps: Unconditional Love | 224961 | [224961-timestamps-unconditional-love.json](./224961-timestamps-unconditional-love.json) |
 | Timestop Volleyball | 284542 | [284542-timestop-volleyball.json](./284542-timestop-volleyball.json) |
@@ -37980,6 +37985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtles | 245604 | [245604-turtles.json](./245604-turtles.json) |
 | Turtles | 281200 | [281200-turtles.json](./281200-turtles.json) |
 | Turtles | 346135 | [346135-turtles.json](./346135-turtles.json) |
+| Turtles Go Fast | 425072 | [425072-turtles-go-fast.json](./425072-turtles-go-fast.json) |
 | Turtles vs Zombies | 103841 | [103841-turtles-vs-zombies.json](./103841-turtles-vs-zombies.json) |
 | Turtles, Huh?: Learn to Fly | 253270 | [253270-turtles-huh-learn-to-fly.json](./253270-turtles-huh-learn-to-fly.json) |
 | Turtles! | 194455 | [194455-turtles.json](./194455-turtles.json) |
@@ -38209,6 +38215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
 | Twilight Syndrome: Kinjirareta Toshi Densetsu | 128360 | [128360-twilight-syndrome-kinjirareta-toshi-densetsu.json](./128360-twilight-syndrome-kinjirareta-toshi-densetsu.json) |
 | Twilight Tales: Hollow's Store | 337195 | [337195-twilight-tales-hollows-store.json](./337195-twilight-tales-hollows-store.json) |
+| Twilight Tides: Mirage Journey | 425104 | [425104-twilight-tides-mirage-journey.json](./425104-twilight-tides-mirage-journey.json) |
 | Twilight Tonics | 309832 | [309832-twilight-tonics.json](./309832-twilight-tonics.json) |
 | Twilight Tower | 182867 | [182867-twilight-tower.json](./182867-twilight-tower.json) |
 | Twilight Towers | 370336 | [370336-twilight-towers.json](./370336-twilight-towers.json) |
@@ -38803,6 +38810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
+| Type Me Home | 425108 | [425108-type-me-home.json](./425108-type-me-home.json) |
 | Type One | 338601 | [338601-type-one.json](./338601-type-one.json) |
 | Type or Die | 426434 | [426434-type-or-die.json](./426434-type-or-die.json) |
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
