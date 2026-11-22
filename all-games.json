@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-21T15:55:55.565Z",
-  "total_soundtracks": 3892,
+  "generated_at": "2026-11-22T00:15:56.059Z",
+  "total_soundtracks": 3893,
   "games": [
     {
       "igdb_id": 292844,
@@ -36775,6 +36775,20 @@
         {
           "album_name": "Skeleton Boomerang (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1k7VWZCmGFsVQwKwWqQktk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122069,
+      "game_name": "Skeleton Crew",
+      "game_url": "https://ostdb.net/games/skeleton-crew",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273899de50774e63e08aa04ecf4",
+      "albums": [
+        {
+          "album_name": "Skeleton Crew (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4q01cOldPRryCb2I1SnZ5z",
           "apple_music_url": "",
           "album_link_url": ""
         }
