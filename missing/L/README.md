@@ -2213,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layers of Fear 2 | 239164 | [239164-layers-of-fear-2.json](./239164-layers-of-fear-2.json) |
 | Layers of Fear 2 | 90107 | [90107-layers-of-fear-2.json](./90107-layers-of-fear-2.json) |
 | Layers of Fear 3 | 390145 | [390145-layers-of-fear-3.json](./390145-layers-of-fear-3.json) |
+| Layers of Fear VR | 147987 | [147987-layers-of-fear-vr.json](./147987-layers-of-fear-vr.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
 | Layers of Fear: Inheritance | 20907 | [20907-layers-of-fear-inheritance.json](./20907-layers-of-fear-inheritance.json) |
