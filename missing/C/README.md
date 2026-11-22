@@ -2806,7 +2806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Battle Spirit Link: Mini Expansion 1 | 169528 | [169528-card-battle-spirit-link-mini-expansion-1.json](./169528-card-battle-spirit-link-mini-expansion-1.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
-| Card Brawl | 113712 | [113712-card-brawl.json](./113712-card-brawl.json) |
 | Card Brawl: Dungeon Slayer | 233395 | [233395-card-brawl-dungeon-slayer.json](./233395-card-brawl-dungeon-slayer.json) |
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Captor Sakura: Sakura to Fushigi na Clow Card | 37523 | [37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json](./37523-card-captor-sakura-sakura-to-fushigi-na-clow-card.json) |
@@ -4801,7 +4800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Ninja: The Quest for Magic Energy Crystals | 74706 | [74706-cat-ninja-the-quest-for-magic-energy-crystals.json](./74706-cat-ninja-the-quest-for-magic-energy-crystals.json) |
 | Cat Nips | 197459 | [197459-cat-nips.json](./197459-cat-nips.json) |
 | Cat No Wash! | 234484 | [234484-cat-no-wash.json](./234484-cat-no-wash.json) |
-| Cat Notebook | 114264 | [114264-cat-notebook.json](./114264-cat-notebook.json) |
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
@@ -10233,6 +10231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
 | Cinder & Crowns | 410867 | [410867-cinder-and-crowns.json](./410867-cinder-and-crowns.json) |
+| Cinder Automata | 421492 | [421492-cinder-automata.json](./421492-cinder-automata.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
 | Cinder's Flying Skull | 368939 | [368939-cinders-flying-skull.json](./368939-cinders-flying-skull.json) |
 | CinderAi | 223072 | [223072-cinderai.json](./223072-cinderai.json) |
@@ -17394,7 +17393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Cortesia Rising | 415833 | [415833-cortesia-rising.json](./415833-cortesia-rising.json) |
 | Cortex | 107989 | [107989-cortex.json](./107989-cortex.json) |
-| Cortex | 114768 | [114768-cortex.json](./114768-cortex.json) |
 | Cortex | 131038 | [131038-cortex.json](./131038-cortex.json) |
 | Cortex Adventure | 415213 | [415213-cortex-adventure.json](./415213-cortex-adventure.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
@@ -21361,6 +21359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III Content Creator Pack: Medieval Monuments | 352852 | [352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json](./352852-crusader-kings-iii-content-creator-pack-medieval-monuments.json) |
 | Crusader Kings III Content Creator Pack: West Slavic Attire | 352854 | [352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json](./352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json) |
 | Crusader Kings III: All Under Heaven | 352849 | [352849-crusader-kings-iii-all-under-heaven.json](./352849-crusader-kings-iii-all-under-heaven.json) |
+| Crusader Kings III: By God Alone | 421478 | [421478-crusader-kings-iii-by-god-alone.json](./421478-crusader-kings-iii-by-god-alone.json) |
 | Crusader Kings III: Chapter I | 241169 | [241169-crusader-kings-iii-chapter-i.json](./241169-crusader-kings-iii-chapter-i.json) |
 | Crusader Kings III: Chapter IV | 352850 | [352850-crusader-kings-iii-chapter-iv.json](./352850-crusader-kings-iii-chapter-iv.json) |
 | Crusader Kings III: Content Creator Pack - North African Attire | 288053 | [288053-crusader-kings-iii-content-creator-pack-north-african-attire.json](./288053-crusader-kings-iii-content-creator-pack-north-african-attire.json) |
@@ -22136,7 +22135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Decider | 203966 | [203966-cube-decider.json](./203966-cube-decider.json) |
 | Cube Defender | 113811 | [113811-cube-defender.json](./113811-cube-defender.json) |
 | Cube Defender 2000 | 110123 | [110123-cube-defender-2000.json](./110123-cube-defender-2000.json) |
-| Cube Defense | 113574 | [113574-cube-defense.json](./113574-cube-defense.json) |
 | Cube Destroyer | 33577 | [33577-cube-destroyer.json](./33577-cube-destroyer.json) |
 | Cube DOA | 120363 | [120363-cube-doa.json](./120363-cube-doa.json) |
 | Cube Dodge | 223302 | [223302-cube-dodge.json](./223302-cube-dodge.json) |
