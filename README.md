@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,903" src="https://img.shields.io/badge/soundtracks-3%2C903-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,420" src="https://img.shields.io/badge/games-3%2C420-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 369,092" src="https://img.shields.io/badge/missing-369%2C092-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 368,880" src="https://img.shields.io/badge/missing-368%2C880-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-language-of-love"><img src="https://i.scdn.co/image/ab67616d0000b273a4ac66827d22df79ae9f684a" width="120" height="120" alt="" /></a><br /><sub><b>The Language of Love</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spirit-oath"><img src="https://i.scdn.co/image/ab67616d0000b273810ce36fa37cd216b9b066cc" width="120" height="120" alt="" /></a><br /><sub><b>Spirit Oath</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/battlewake"><img src="https://i.scdn.co/image/ab67616d0000b273897df7b9109ad0ef7350529a" width="120" height="120" alt="" /></a><br /><sub><b>Battlewake</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/castle-woodwarf-2"><img src="https://i.scdn.co/image/ab67616d0000b273a2611179c50020e5c37743ce" width="120" height="120" alt="" /></a><br /><sub><b>Castle Woodwarf 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tactics-v-obsidian-brigade"><img src="https://i.scdn.co/image/ab67616d0000b273bf4ebf2a9452a133d1d1dc9e" width="120" height="120" alt="" /></a><br /><sub><b>Tactics V: &quot;Obsidian Brigade&quot;</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/backspace-bouken"><img src="https://i.scdn.co/image/ab67616d0000b27390b835a6dca8627e8ada2bbf" width="120" height="120" alt="" /></a><br /><sub><b>Backspace Bouken</b></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/aeons-end"><img src="https://i.scdn.co/image/ab67616d0000b273e1ab0d70979111a18b85b455" width="120" height="120" alt="" /></a><br /><sub><b>Aeon's End</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/robo-inc-project"><img src="https://i.scdn.co/image/ab67616d0000b2731880a24b562b7db45ac2e2c7" width="120" height="120" alt="" /></a><br /><sub><b>Robo Inc Project</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/alien-squatter"><img src="https://i.scdn.co/image/ab67616d0000b273371325403fe1a79780c1f974" width="120" height="120" alt="" /></a><br /><sub><b>Alien Squatter</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/a-night-at-the-races"><img src="https://i.scdn.co/image/ab67616d0000b273b8b3bc78e0cd2ddba6af1977" width="120" height="120" alt="" /></a><br /><sub><b>A Night at the Races</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skeleton-crew"><img src="https://i.scdn.co/image/ab67616d0000b273899de50774e63e08aa04ecf4" width="120" height="120" alt="" /></a><br /><sub><b>Skeleton Crew</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/legend-bowl"><img src="https://i.scdn.co/image/ab67616d0000b273b24627b4a794419a5560e144" width="120" height="120" alt="" /></a><br /><sub><b>Legend Bowl</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/arsenal-demon"><img src="https://i.scdn.co/image/ab67616d0000b273dc425142d6b036ec907b25d6" width="120" height="120" alt="" /></a><br /><sub><b>Arsenal Demon</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/outta-gas"><img src="https://i.scdn.co/image/ab67616d0000b2735e1fb9ef0ae181f40247d01c" width="120" height="120" alt="" /></a><br /><sub><b>Outta Gas</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/raindancer"><img src="https://i.scdn.co/image/ab67616d0000b273409739415f7f36137b3b46da" width="120" height="120" alt="" /></a><br /><sub><b>Raindancer</b></sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/nethack-legacy"><img src="https://i.scdn.co/image/ab67616d0000b27368cc4bc1b6039d131688556c" width="120" height="120" alt="" /></a><br /><sub><b>NetHack: Legacy</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/oh-jeez-oh-no-my-rabbits-are-gone"><img src="https://i.scdn.co/image/ab67616d0000b2739a7ce3c28c68670a54616973" width="120" height="120" alt="" /></a><br /><sub><b>Oh Jeez, Oh No, My Rabbits Are Gone!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tower-of-shades"><img src="https://i.scdn.co/image/ab67616d0000b273a784862692526a04af41ecde" width="120" height="120" alt="" /></a><br /><sub><b>Tower of Shades</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/hollow-island"><img src="https://i.scdn.co/image/ab67616d0000b27304f32df468ebee20b444313a" width="120" height="120" alt="" /></a><br /><sub><b>Hollow Island</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/featherfall"><img src="https://i.scdn.co/image/ab67616d0000b273c46cd9bd88d8fe084159cede" width="120" height="120" alt="" /></a><br /><sub><b>Featherfall</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/surviving-titan"><img src="https://i.scdn.co/image/ab67616d0000b2733e2c389cb637259ea3f91138" width="120" height="120" alt="" /></a><br /><sub><b>Surviving Titan</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (369,092 games).
+More in **[missing/](missing/README.md)** (368,880 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,903 soundtracks &middot; last updated 2026-11-22T06:35:54.330Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,903 soundtracks &middot; last updated 2026-11-22T06:41:08.085Z</sub>
