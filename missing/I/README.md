@@ -5756,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Hockey | 94629 | [94629-international-hockey.json](./94629-international-hockey.json) |
 | International Jetpack Conference | 60723 | [60723-international-jetpack-conference.json](./60723-international-jetpack-conference.json) |
 | International Karate + | 8397 | [8397-international-karate.json](./8397-international-karate.json) |
+| International Karate 2000 | 24164 | [24164-international-karate-2000.json](./24164-international-karate-2000.json) |
 | International Karate Advanced | 49292 | [49292-international-karate-advanced.json](./49292-international-karate-advanced.json) |
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Moto X | 58959 | [58959-international-moto-x.json](./58959-international-moto-x.json) |
@@ -6420,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invicta Beam | 27965 | [27965-invicta-beam.json](./27965-invicta-beam.json) |
 | Invicta: The Next Queen | 255928 | [255928-invicta-the-next-queen.json](./255928-invicta-the-next-queen.json) |
 | Invictus | 124489 | [124489-invictus.json](./124489-invictus.json) |
+| Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
 | Invincible Big Cat | 275382 | [275382-invincible-big-cat.json](./275382-invincible-big-cat.json) |
 | Invincible Cleopatra: Caesar's Dreams | 164946 | [164946-invincible-cleopatra-caesars-dreams.json](./164946-invincible-cleopatra-caesars-dreams.json) |
 | Invincible Fighter | 193965 | [193965-invincible-fighter.json](./193965-invincible-fighter.json) |
