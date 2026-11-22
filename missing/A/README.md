@@ -7575,7 +7575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Poipoi SS | 257733 | [257733-alchemy-poipoi-ss.json](./257733-alchemy-poipoi-ss.json) |
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Stars | 144849 | [144849-alchemy-stars.json](./144849-alchemy-stars.json) |
-| Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
 | Alchemy Survivors | 404467 | [404467-alchemy-survivors.json](./404467-alchemy-survivors.json) |
 | Alchemy Tunes | 425358 | [425358-alchemy-tunes.json](./425358-alchemy-tunes.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
