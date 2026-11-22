@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gin no Kanmuri Ao no Namida | 241715 | [241715-gin-no-kanmuri-ao-no-namida.json](./241715-gin-no-kanmuri-ao-no-namida.json) |
 | Gin Rummy | 179597 | [179597-gin-rummy.json](./179597-gin-rummy.json) |
 | Gin Rummy | 377838 | [377838-gin-rummy.json](./377838-gin-rummy.json) |
+| Gin Rummy | 430235 | [430235-gin-rummy.json](./430235-gin-rummy.json) |
 | Gin Rummy | 62392 | [62392-gin-rummy.json](./62392-gin-rummy.json) |
 | Gin Rummy 3D Premium | 133118 | [133118-gin-rummy-3d-premium.json](./133118-gin-rummy-3d-premium.json) |
 | Gin Rummy Classic | 370435 | [370435-gin-rummy-classic.json](./370435-gin-rummy-classic.json) |
