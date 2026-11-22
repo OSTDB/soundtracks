@@ -6767,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sergeant Seymour RobotCop | 39166 | [39166-sergeant-seymour-robotcop.json](./39166-sergeant-seymour-robotcop.json) |
 | Sergeant Squidley: Space Cop! | 236895 | [236895-sergeant-squidley-space-cop.json](./236895-sergeant-squidley-space-cop.json) |
 | Sergei and the Tax Return | 289267 | [289267-sergei-and-the-tax-return.json](./289267-sergei-and-the-tax-return.json) |
+| Sergei Bubka's Millennium Games | 24138 | [24138-sergei-bubkas-millennium-games.json](./24138-sergei-bubkas-millennium-games.json) |
 | Serguei's Destiny | 74041 | [74041-sergueis-destiny.json](./74041-sergueis-destiny.json) |
 | Sergueis Destiny | 230188 | [230188-sergueis-destiny.json](./230188-sergueis-destiny.json) |
 | Serial Assault: The Memory of the Summer. | 97478 | [97478-serial-assault-the-memory-of-the-summer.json](./97478-serial-assault-the-memory-of-the-summer.json) |
@@ -28390,6 +28391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Infinite - Deluxe Edition | 265851 | [265851-star-trek-infinite-deluxe-edition.json](./265851-star-trek-infinite-deluxe-edition.json) |
 | Star Trek: Infinite - Designing the Galaxy | 271921 | [271921-star-trek-infinite-designing-the-galaxy.json](./271921-star-trek-infinite-designing-the-galaxy.json) |
 | Star Trek: Infinite Space | 65900 | [65900-star-trek-infinite-space.json](./65900-star-trek-infinite-space.json) |
+| Star Trek: Invasion | 24155 | [24155-star-trek-invasion.json](./24155-star-trek-invasion.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
 | Star Trek: Judgment Rites Movie & Sound Pack | 131180 | [131180-star-trek-judgment-rites-movie-and-sound-pack.json](./131180-star-trek-judgment-rites-movie-and-sound-pack.json) |
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
@@ -28543,6 +28545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars PS3 Mega Bundle | 119920 | [119920-star-wars-ps3-mega-bundle.json](./119920-star-wars-ps3-mega-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
+| Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
 | Star Wars Trilogy Arcade | 39351 | [39351-star-wars-trilogy-arcade.json](./39351-star-wars-trilogy-arcade.json) |
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars Zero Company: Deluxe Edition | 415762 | [415762-star-wars-zero-company-deluxe-edition.json](./415762-star-wars-zero-company-deluxe-edition.json) |
@@ -38690,6 +38693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Toy Cars Offroad | 173959 | [173959-super-toy-cars-offroad.json](./173959-super-toy-cars-offroad.json) |
 | Super Trailblazers | 339475 | [339475-super-trailblazers.json](./339475-super-trailblazers.json) |
 | Super Trashforce | 59134 | [59134-super-trashforce.json](./59134-super-trashforce.json) |
+| Super Treasure Arena | 25931 | [25931-super-treasure-arena.json](./25931-super-treasure-arena.json) |
 | Super Trench Attack 2 | 34840 | [34840-super-trench-attack-2.json](./34840-super-trench-attack-2.json) |
 | Super Trench Attack! | 17592 | [17592-super-trench-attack.json](./17592-super-trench-attack.json) |
 | Super Trio | 39917 | [39917-super-trio.json](./39917-super-trio.json) |
