@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Dictator | 149911 | [149911-i-am-dictator.json](./149911-i-am-dictator.json) |
 | I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
+| I Am Dog Woof | 421497 | [421497-i-am-dog-woof.json](./421497-i-am-dog-woof.json) |
 | I Am Dog: Chaos Simulator | 400038 | [400038-i-am-dog-chaos-simulator.json](./400038-i-am-dog-chaos-simulator.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
 | I Am Dolphin | 60886 | [60886-i-am-dolphin.json](./60886-i-am-dolphin.json) |
@@ -6283,7 +6284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invariant | 410973 | [410973-invariant.json](./410973-invariant.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invaseave | 229525 | [229525-invaseave.json](./229525-invaseave.json) |
-| Invasher | 113848 | [113848-invasher.json](./113848-invasher.json) |
 | Invasia | 414161 | [414161-invasia.json](./414161-invasia.json) |
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
@@ -7606,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Happened Here: Beacon of Truth - Collector's Edition | 270102 | [270102-it-happened-here-beacon-of-truth-collectors-edition.json](./270102-it-happened-here-beacon-of-truth-collectors-edition.json) |
 | It Happened Here: Streaming Lives | 266244 | [266244-it-happened-here-streaming-lives.json](./266244-it-happened-here-streaming-lives.json) |
 | It Happened Here: Streaming Lives - Collector's Edition | 237567 | [237567-it-happened-here-streaming-lives-collectors-edition.json](./237567-it-happened-here-streaming-lives-collectors-edition.json) |
+| It Hears You: Together | 422709 | [422709-it-hears-you-together.json](./422709-it-hears-you-together.json) |
 | IT Hell | 249827 | [249827-it-hell.json](./249827-it-hell.json) |
 | It is a Good Knight to Die | 236917 | [236917-it-is-a-good-knight-to-die.json](./236917-it-is-a-good-knight-to-die.json) |
 | It Is As if You Were Doing Work | 246710 | [246710-it-is-as-if-you-were-doing-work.json](./246710-it-is-as-if-you-were-doing-work.json) |
