@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Top Racing | 8350 | [8350-table-top-racing.json](./8350-table-top-racing.json) |
 | Table Top Racing: Nitro Edition | 136192 | [136192-table-top-racing-nitro-edition.json](./136192-table-top-racing-nitro-edition.json) |
 | Table Top Racing: World Tour | 18978 | [18978-table-top-racing-world-tour.json](./18978-table-top-racing-world-tour.json) |
+| Table Top Racing: World Tour - Nitro Edition | 117288 | [117288-table-top-racing-world-tour-nitro-edition.json](./117288-table-top-racing-world-tour-nitro-edition.json) |
 | Table Top Racing: World Tour - Tropical Ice Pack | 155339 | [155339-table-top-racing-world-tour-tropical-ice-pack.json](./155339-table-top-racing-world-tour-tropical-ice-pack.json) |
 | Table Top Tanks | 65122 | [65122-table-top-tanks.json](./65122-table-top-tanks.json) |
 | Table Top Turrets | 157323 | [157323-table-top-turrets.json](./157323-table-top-turrets.json) |
@@ -18034,6 +18035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Time Warp | 8102 | [8102-the-ren-and-stimpy-show-time-warp.json](./8102-the-ren-and-stimpy-show-time-warp.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Rengeki Heroes | 222011 | [222011-the-rengeki-heroes.json](./222011-the-rengeki-heroes.json) |
+| The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
 | The Repair House | 234542 | [234542-the-repair-house.json](./234542-the-repair-house.json) |
 | The Repair Man | 409324 | [409324-the-repair-man.json](./409324-the-repair-man.json) |
@@ -18047,6 +18049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rescue 1-4 | 315978 | [315978-the-rescue-1-4.json](./315978-the-rescue-1-4.json) |
 | The Rescue 5: Temple of Osiris | 315979 | [315979-the-rescue-5-temple-of-osiris.json](./315979-the-rescue-5-temple-of-osiris.json) |
 | The Rescue of Lorri in Lorrinitron | 74052 | [74052-the-rescue-of-lorri-in-lorrinitron.json](./74052-the-rescue-of-lorri-in-lorrinitron.json) |
+| The Rescue of Mermaids | 118051 | [118051-the-rescue-of-mermaids.json](./118051-the-rescue-of-mermaids.json) |
 | The Rescue of Pops Ghostly | 64038 | [64038-the-rescue-of-pops-ghostly.json](./64038-the-rescue-of-pops-ghostly.json) |
 | The Rescue Squad | 164916 | [164916-the-rescue-squad.json](./164916-the-rescue-squad.json) |
 | The Research Age Deluxe | 170684 | [170684-the-research-age-deluxe.json](./170684-the-research-age-deluxe.json) |
@@ -22848,6 +22851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
+| They Came From the Sky | 118328 | [118328-they-came-from-the-sky.json](./118328-they-came-from-the-sky.json) |
 | They Came From the Sky 2 | 212917 | [212917-they-came-from-the-sky-2.json](./212917-they-came-from-the-sky-2.json) |
 | They Came From Uranus! | 135367 | [135367-they-came-from-uranus.json](./135367-they-came-from-uranus.json) |
 | They Came From Venus | 282038 | [282038-they-came-from-venus.json](./282038-they-came-from-venus.json) |
@@ -30234,6 +30238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer II - Rise of the Tomb Kings | 81191 | [81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json](./81191-total-war-warhammer-ii-rise-of-the-tomb-kings.json) |
 | Total War: Warhammer II - Serpent God Edition | 9759 | [9759-total-war-warhammer-ii-serpent-god-edition.json](./9759-total-war-warhammer-ii-serpent-god-edition.json) |
 | Total War: Warhammer II - The Hunter & The Beast | 167627 | [167627-total-war-warhammer-ii-the-hunter-and-the-beast.json](./167627-total-war-warhammer-ii-the-hunter-and-the-beast.json) |
+| Total War: Warhammer II - The Prophet & The Warlock | 117146 | [117146-total-war-warhammer-ii-the-prophet-and-the-warlock.json](./117146-total-war-warhammer-ii-the-prophet-and-the-warlock.json) |
 | Total War: Warhammer II - The Queen & The Crone | 167632 | [167632-total-war-warhammer-ii-the-queen-and-the-crone.json](./167632-total-war-warhammer-ii-the-queen-and-the-crone.json) |
 | Total War: Warhammer II - The Shadow & The Blade | 167630 | [167630-total-war-warhammer-ii-the-shadow-and-the-blade.json](./167630-total-war-warhammer-ii-the-shadow-and-the-blade.json) |
 | Total War: Warhammer II - The Silence & The Fury | 154996 | [154996-total-war-warhammer-ii-the-silence-and-the-fury.json](./154996-total-war-warhammer-ii-the-silence-and-the-fury.json) |
@@ -35573,6 +35578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribe War | 211122 | [211122-tribe-war.json](./211122-tribe-war.json) |
+| Tribe: Primitive Builder | 118137 | [118137-tribe-primitive-builder.json](./118137-tribe-primitive-builder.json) |
 | Tribefort | 242428 | [242428-tribefort.json](./242428-tribefort.json) |
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
