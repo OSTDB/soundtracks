@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain of Awakening | 410540 | [410540-rain-of-awakening.json](./410540-rain-of-awakening.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
 | Rain of Flames | 134917 | [134917-rain-of-flames.json](./134917-rain-of-flames.json) |
+| Rain of Lead | 425708 | [425708-rain-of-lead.json](./425708-rain-of-lead.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
 | Rain of Reflections | 58544 | [58544-rain-of-reflections.json](./58544-rain-of-reflections.json) |
 | Rain of Reflections: Set Free | 138971 | [138971-rain-of-reflections-set-free.json](./138971-rain-of-reflections-set-free.json) |
@@ -4833,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Clock of Fate | 57786 | [57786-redemption-cemetery-clock-of-fate.json](./57786-redemption-cemetery-clock-of-fate.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
+| Redemption Cemetery: Curse of the Raven - Collector's Edition | 426252 | [426252-redemption-cemetery-curse-of-the-raven-collectors-edition.json](./426252-redemption-cemetery-curse-of-the-raven-collectors-edition.json) |
 | Redemption Cemetery: Day of the Almost Dead | 427037 | [427037-redemption-cemetery-day-of-the-almost-dead.json](./427037-redemption-cemetery-day-of-the-almost-dead.json) |
 | Redemption Cemetery: Day of the Almost Dead - Collector's Edition | 427038 | [427038-redemption-cemetery-day-of-the-almost-dead-collectors-edition.json](./427038-redemption-cemetery-day-of-the-almost-dead-collectors-edition.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
