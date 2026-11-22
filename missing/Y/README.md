@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuyuko's Butterfly Dream | 113143 | [113143-yuyukos-butterfly-dream.json](./113143-yuyukos-butterfly-dream.json) |
 | Yuza | 188779 | [188779-yuza.json](./188779-yuza.json) |
 | Yuzai x Muzai | 69206 | [69206-yuzai-x-muzai.json](./69206-yuzai-x-muzai.json) |
+| Yuzi Lims: anime runner | 81961 | [81961-yuzi-lims-anime-runner.json](./81961-yuzi-lims-anime-runner.json) |
 | Yuzi Lims: Hentai | 111109 | [111109-yuzi-lims-hentai.json](./111109-yuzi-lims-hentai.json) |
 | Yuzi Lims: Puzzle | 173862 | [173862-yuzi-lims-puzzle.json](./173862-yuzi-lims-puzzle.json) |
 | Yuzusoft Collection | 203689 | [203689-yuzusoft-collection.json](./203689-yuzusoft-collection.json) |
