@@ -24336,6 +24336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up the Flower Shop: Christmas | 429102 | [429102-tidy-up-the-flower-shop-christmas.json](./429102-tidy-up-the-flower-shop-christmas.json) |
 | Tidy Up the Gun Club | 429794 | [429794-tidy-up-the-gun-club.json](./429794-tidy-up-the-gun-club.json) |
 | Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
+| Tidy Up the Royal Armory | 427623 | [427623-tidy-up-the-royal-armory.json](./427623-tidy-up-the-royal-armory.json) |
 | Tidy Up the Town | 419228 | [419228-tidy-up-the-town.json](./419228-tidy-up-the-town.json) |
 | Tidy Up: Bricks n Blocks | 429756 | [429756-tidy-up-bricks-n-blocks.json](./429756-tidy-up-bricks-n-blocks.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
@@ -30332,6 +30333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Normal Cat Shelter | 421010 | [421010-totally-normal-cat-shelter.json](./421010-totally-normal-cat-shelter.json) |
 | Totally Normal Day | 304759 | [304759-totally-normal-day.json](./304759-totally-normal-day.json) |
 | Totally Normal Journey: The Interactive Musical | 157021 | [157021-totally-normal-journey-the-interactive-musical.json](./157021-totally-normal-journey-the-interactive-musical.json) |
+| Totally Normal Meat Co. | 428007 | [428007-totally-normal-meat-co.json](./428007-totally-normal-meat-co.json) |
 | Totally Not Sumo | 306043 | [306043-totally-not-sumo.json](./306043-totally-not-sumo.json) |
 | Totally planet | 178195 | [178195-totally-planet.json](./178195-totally-planet.json) |
 | Totally Rad Metal Detector League | 220714 | [220714-totally-rad-metal-detector-league.json](./220714-totally-rad-metal-detector-league.json) |
@@ -32369,6 +32371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
 | Train Mechanic Simulator 2025 | 211983 | [211983-train-mechanic-simulator-2025.json](./211983-train-mechanic-simulator-2025.json) |
 | Train Mechanic Simulator VR | 158366 | [158366-train-mechanic-simulator-vr.json](./158366-train-mechanic-simulator-vr.json) |
+| Train Merge Tycoon | 427633 | [427633-train-merge-tycoon.json](./427633-train-merge-tycoon.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train Metropolis | 333085 | [333085-train-metropolis.json](./333085-train-metropolis.json) |
 | Train Miner | 344443 | [344443-train-miner.json](./344443-train-miner.json) |
