@@ -2728,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
 | Leave the Red | 170657 | [170657-leave-the-red.json](./170657-leave-the-red.json) |
 | Leave the Room | 180408 | [180408-leave-the-room.json](./180408-leave-the-room.json) |
+| Leave Them Outside | 426314 | [426314-leave-them-outside.json](./426314-leave-them-outside.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
 | Leaves & Lanterns | 428595 | [428595-leaves-and-lanterns.json](./428595-leaves-and-lanterns.json) |
@@ -8938,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Trough | 408399 | [408399-lord-of-the-trough.json](./408399-lord-of-the-trough.json) |
+| Lord of the Trough: Poggles DLC | 426324 | [426324-lord-of-the-trough-poggles-dlc.json](./426324-lord-of-the-trough-poggles-dlc.json) |
 | Lord of the Wilds | 337437 | [337437-lord-of-the-wilds.json](./337437-lord-of-the-wilds.json) |
 | Lord of the Wings | 255537 | [255537-lord-of-the-wings.json](./255537-lord-of-the-wings.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
