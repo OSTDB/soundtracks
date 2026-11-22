@@ -5293,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bavovna included! | 226255 | [226255-bavovna-included.json](./226255-bavovna-included.json) |
 | Baw's Pharmacy | 201067 | [201067-baws-pharmacy.json](./201067-baws-pharmacy.json) |
 | Bawang Bie Ji | 80274 | [80274-bawang-bie-ji.json](./80274-bawang-bie-ji.json) |
+| Bax | 117435 | [117435-bax.json](./117435-bax.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
 | Baxter's Venture: Director's Cut | 34851 | [34851-baxters-venture-directors-cut.json](./34851-baxters-venture-directors-cut.json) |
 | Bay Bell | 218980 | [218980-bay-bell.json](./218980-bay-bell.json) |
@@ -16477,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Bugs | 39412 | [39412-boxing-bugs.json](./39412-boxing-bugs.json) |
 | Boxing Cats CCG | 119935 | [119935-boxing-cats-ccg.json](./119935-boxing-cats-ccg.json) |
 | Boxing Champions | 43425 | [43425-boxing-champions.json](./43425-boxing-champions.json) |
+| Boxing Champs | 117800 | [117800-boxing-champs.json](./117800-boxing-champs.json) |
 | Boxing Club Manager | 188210 | [188210-boxing-club-manager.json](./188210-boxing-club-manager.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Coach | 156193 | [156193-boxing-coach.json](./156193-boxing-coach.json) |
@@ -18661,6 +18663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
 | Bruisers 2D Boxing | 382518 | [382518-bruisers-2d-boxing.json](./382518-bruisers-2d-boxing.json) |
 | Bruises | 135548 | [135548-bruises.json](./135548-bruises.json) |
+| Brukel | 117912 | [117912-brukel.json](./117912-brukel.json) |
 | Bruken | 116173 | [116173-bruken.json](./116173-bruken.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
