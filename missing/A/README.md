@@ -5003,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
 | Aeterna: Shattered Legacy | 416379 | [416379-aeterna-shattered-legacy.json](./416379-aeterna-shattered-legacy.json) |
 | Aeternitas | 111896 | [111896-aeternitas.json](./111896-aeternitas.json) |
+| AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Director's Rewind | 138202 | [138202-aeternoblade-ii-directors-rewind.json](./138202-aeternoblade-ii-directors-rewind.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
@@ -9306,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear 2 | 238300 | [238300-alphabear-2.json](./238300-alphabear-2.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
+| Alphabear: Hardcover Edition | 52053 | [52053-alphabear-hardcover-edition.json](./52053-alphabear-hardcover-edition.json) |
 | Alphabeats: Master Edition | 34054 | [34054-alphabeats-master-edition.json](./34054-alphabeats-master-edition.json) |
 | Alphabet | 173422 | [173422-alphabet.json](./173422-alphabet.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
@@ -9785,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze St.Patrick | 114548 | [114548-amaze-st-patrick.json](./114548-amaze-st-patrick.json) |
 | Amaze Untouchable | 81960 | [81960-amaze-untouchable.json](./81960-amaze-untouchable.json) |
 | Amaze Valentine | 230121 | [230121-amaze-valentine.json](./230121-amaze-valentine.json) |
+| Amaze Zer0 | 51424 | [51424-amaze-zer0.json](./51424-amaze-zer0.json) |
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
@@ -18597,6 +18600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria Legends: Red Moon | 159145 | [159145-astoria-legends-red-moon.json](./159145-astoria-legends-red-moon.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
 | Astoria: Fate's Kiss | 308058 | [308058-astoria-fates-kiss.json](./308058-astoria-fates-kiss.json) |
+| Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astortion | 201520 | [201520-astortion.json](./201520-astortion.json) |
 | Astra | 148829 | [148829-astra.json](./148829-astra.json) |
 | Astra | 278180 | [278180-astra.json](./278180-astra.json) |
@@ -20279,6 +20283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auqa Panic! | 50693 | [50693-auqa-panic.json](./50693-auqa-panic.json) |
 | Aura | 119868 | [119868-aura.json](./119868-aura.json) |
 | Aura | 377501 | [377501-aura.json](./377501-aura.json) |
+| Aura 2: The Sacred Rings | 52427 | [52427-aura-2-the-sacred-rings.json](./52427-aura-2-the-sacred-rings.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Battler Dunbine: Byston Well's Flame | 239378 | [239378-aura-battler-dunbine-byston-wells-flame.json](./239378-aura-battler-dunbine-byston-wells-flame.json) |
