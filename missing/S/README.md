@@ -3023,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaffold | 400460 | [400460-scaffold.json](./400460-scaffold.json) |
 | Scaffold Now | 364811 | [364811-scaffold-now.json](./364811-scaffold-now.json) |
 | Scaffolder | 195056 | [195056-scaffolder.json](./195056-scaffolder.json) |
+| Scalak | 100543 | [100543-scalak.json](./100543-scalak.json) |
 | Scale | 88773 | [88773-scale.json](./88773-scale.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scale | 99365 | [99365-scale.json](./99365-scale.json) |
@@ -21564,6 +21565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dier | 216896 | [216896-soul-dier.json](./216896-soul-dier.json) |
+| Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
 | Soul Dog TD | 215958 | [215958-soul-dog-td.json](./215958-soul-dog-td.json) |
 | Soul Dossier | 149761 | [149761-soul-dossier.json](./149761-soul-dossier.json) |
 | Soul Dream: Undesired Shift | 173329 | [173329-soul-dream-undesired-shift.json](./173329-soul-dream-undesired-shift.json) |
@@ -28820,6 +28822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Raiders | 419468 | [419468-starbase-raiders.json](./419468-starbase-raiders.json) |
 | Starbase Tactics | 416193 | [416193-starbase-tactics.json](./416193-starbase-tactics.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
+| Starbear: Taxi | 100415 | [100415-starbear-taxi.json](./100415-starbear-taxi.json) |
 | Starbeard | 313952 | [313952-starbeard.json](./313952-starbeard.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
