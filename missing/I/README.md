@@ -4410,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Game Cartridge Collection | 365337 | [365337-infinite-game-cartridge-collection.json](./365337-infinite-game-cartridge-collection.json) |
 | Infinite Game Cartridge Collection: Balloon Story | 364336 | [364336-infinite-game-cartridge-collection-balloon-story.json](./364336-infinite-game-cartridge-collection-balloon-story.json) |
 | Infinite Game Cartridge Collection: Dungeon Grove | 385420 | [385420-infinite-game-cartridge-collection-dungeon-grove.json](./385420-infinite-game-cartridge-collection-dungeon-grove.json) |
+| Infinite Game Cartridge Collection: Underground Digger | 428185 | [428185-infinite-game-cartridge-collection-underground-digger.json](./428185-infinite-game-cartridge-collection-underground-digger.json) |
 | Infinite Game Works Episode 0 | 36316 | [36316-infinite-game-works-episode-0.json](./36316-infinite-game-works-episode-0.json) |
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
 | Infinite Gateway | 68850 | [68850-infinite-gateway.json](./68850-infinite-gateway.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
 | Interregnum | 120031 | [120031-interregnum.json](./120031-interregnum.json) |
 | Interregnum | 421760 | [421760-interregnum.json](./421760-interregnum.json) |
+| Interregnum | 428195 | [428195-interregnum.json](./428195-interregnum.json) |
 | Interregnum Chronicles: False Prophet | 236092 | [236092-interregnum-chronicles-false-prophet.json](./236092-interregnum-chronicles-false-prophet.json) |
 | Interregnum Chronicles: Signal | 153753 | [153753-interregnum-chronicles-signal.json](./153753-interregnum-chronicles-signal.json) |
 | Interregnum: Dark Archer | 170769 | [170769-interregnum-dark-archer.json](./170769-interregnum-dark-archer.json) |
@@ -7189,6 +7191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Cities | 214445 | [214445-island-cities.json](./214445-island-cities.json) |
 | Island Clash | 267070 | [267070-island-clash.json](./267070-island-clash.json) |
 | Island Clicker | 247041 | [247041-island-clicker.json](./247041-island-clicker.json) |
+| Island Clicker: Skin Pack | 428184 | [428184-island-clicker-skin-pack.json](./428184-island-clicker-skin-pack.json) |
 | Island Crisis | 331109 | [331109-island-crisis.json](./331109-island-crisis.json) |
 | Island Crossing | 234446 | [234446-island-crossing.json](./234446-island-crossing.json) |
 | Island Crusaders | 190011 | [190011-island-crusaders.json](./190011-island-crusaders.json) |
