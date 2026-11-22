@@ -18749,6 +18749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sequence 2 | 106766 | [106766-the-sequence-2.json](./106766-the-sequence-2.json) |
 | The Sequence 2 | 195836 | [195836-the-sequence-2.json](./195836-the-sequence-2.json) |
 | The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
+| The Serena Villa Files | 426686 | [426686-the-serena-villa-files.json](./426686-the-serena-villa-files.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
 | The Series Finale of Supernatural | 141978 | [141978-the-series-finale-of-supernatural.json](./141978-the-series-finale-of-supernatural.json) |
@@ -19456,6 +19457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slaying of Sandy Hook Elementary | 238966 | [238966-the-slaying-of-sandy-hook-elementary.json](./238966-the-slaying-of-sandy-hook-elementary.json) |
 | The Sledge of Rahmul and Merlin's Treasure | 69479 | [69479-the-sledge-of-rahmul-and-merlins-treasure.json](./69479-the-sledge-of-rahmul-and-merlins-treasure.json) |
 | The Sleep Experiment | 250982 | [250982-the-sleep-experiment.json](./250982-the-sleep-experiment.json) |
+| The Sleeping Curse | 426683 | [426683-the-sleeping-curse.json](./426683-the-sleeping-curse.json) |
 | The Sleeping Light | 255513 | [255513-the-sleeping-light.json](./255513-the-sleeping-light.json) |
 | The Sleeping Sickness | 299811 | [299811-the-sleeping-sickness.json](./299811-the-sleeping-sickness.json) |
 | The Sleepless Nights Origins | 405783 | [405783-the-sleepless-nights-origins.json](./405783-the-sleepless-nights-origins.json) |
@@ -29608,6 +29610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
+| Top Gear Definitive Edition | 426682 | [426682-top-gear-definitive-edition.json](./426682-top-gear-definitive-edition.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Hyper-Bike | 3615 | [3615-top-gear-hyper-bike.json](./3615-top-gear-hyper-bike.json) |
 | Top Gear Overdrive | 3616 | [3616-top-gear-overdrive.json](./3616-top-gear-overdrive.json) |
