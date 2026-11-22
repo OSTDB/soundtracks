@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
 | Naxette a disparu ! | 411941 | [411941-naxette-a-disparu.json](./411941-naxette-a-disparu.json) |
+| Naxia | 117540 | [117540-naxia.json](./117540-naxia.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
 | Naya's Quest | 62911 | [62911-nayas-quest.json](./62911-nayas-quest.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
@@ -3076,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neptunia reVerse: Day One Edition | 142370 | [142370-neptunia-reverse-day-one-edition.json](./142370-neptunia-reverse-day-one-edition.json) |
 | Neptunia Riders vs. Dogoos | 317845 | [317845-neptunia-riders-vs-dogoos.json](./317845-neptunia-riders-vs-dogoos.json) |
 | Neptunia Riders vs. Dogoos: Deluxe Edition | 330203 | [330203-neptunia-riders-vs-dogoos-deluxe-edition.json](./330203-neptunia-riders-vs-dogoos-deluxe-edition.json) |
+| Neptunia Shooter | 117193 | [117193-neptunia-shooter.json](./117193-neptunia-shooter.json) |
 | Neptunia x Senran Kagura: Ninja Wars | 146337 | [146337-neptunia-x-senran-kagura-ninja-wars.json](./146337-neptunia-x-senran-kagura-ninja-wars.json) |
 | Neptunia x Senran Kagura: Ninja Wars - Day One Edition | 165097 | [165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json](./165097-neptunia-x-senran-kagura-ninja-wars-day-one-edition.json) |
 | Neptunia: Sisters vs. Sisters - Calendar Edition | 218215 | [218215-neptunia-sisters-vs-sisters-calendar-edition.json](./218215-neptunia-sisters-vs-sisters-calendar-edition.json) |
