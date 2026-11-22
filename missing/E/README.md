@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eaves | 244439 | [244439-eaves.json](./244439-eaves.json) |
 | EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
 | Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
+| eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
 | Ebanashi: Kaiwa | 195216 | [195216-ebanashi-kaiwa.json](./195216-ebanashi-kaiwa.json) |
 | EBaseball MLB Pro Spirit | 321590 | [321590-ebaseball-mlb-pro-spirit.json](./321590-ebaseball-mlb-pro-spirit.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elders K.O. | 398379 | [398379-elders-k-o.json](./398379-elders-k-o.json) |
 | Eldertal | 422699 | [422699-eldertal.json](./422699-eldertal.json) |
 | Eldertrail | 197489 | [197489-eldertrail.json](./197489-eldertrail.json) |
+| Eldervale | 118089 | [118089-eldervale.json](./118089-eldervale.json) |
 | Eldervire | 414218 | [414218-eldervire.json](./414218-eldervire.json) |
 | Elderwood | 428875 | [428875-elderwood.json](./428875-elderwood.json) |
 | Elderwood Online | 291879 | [291879-elderwood-online.json](./291879-elderwood-online.json) |
@@ -3969,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyre: Earls of the Deep Earth | 289529 | [289529-empyre-earls-of-the-deep-earth.json](./289529-empyre-earls-of-the-deep-earth.json) |
 | Empyre: Lords of the Sea Gates | 47518 | [47518-empyre-lords-of-the-sea-gates.json](./47518-empyre-lords-of-the-sea-gates.json) |
+| Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
 | Empyrean Frontier | 29576 | [29576-empyrean-frontier.json](./29576-empyrean-frontier.json) |
@@ -6573,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Tsunami For Brainrots | 402007 | [402007-escape-tsunami-for-brainrots.json](./402007-escape-tsunami-for-brainrots.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Tung Sahur Backrooms | 343500 | [343500-escape-tung-sahur-backrooms.json](./343500-escape-tung-sahur-backrooms.json) |
+| Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Up | 392557 | [392557-escape-up.json](./392557-escape-up.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
@@ -7807,6 +7811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventlocation Simulator | 424925 | [424925-eventlocation-simulator.json](./424925-eventlocation-simulator.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
+| Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
 | Ever 17/Never 7 Double Pack | 329448 | [329448-ever-17-never-7-double-pack.json](./329448-ever-17-never-7-double-pack.json) |
 | Ever After Again: A Stories Adventure | 414459 | [414459-ever-after-again-a-stories-adventure.json](./414459-ever-after-again-a-stories-adventure.json) |
 | Ever After High Boots Trend Girl Games | 103140 | [103140-ever-after-high-boots-trend-girl-games.json](./103140-ever-after-high-boots-trend-girl-games.json) |
@@ -9208,6 +9213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled | 74619 | [74619-expelled.json](./74619-expelled.json) |
 | Expelled from Paradise: The Stellar Angel | 396301 | [396301-expelled-from-paradise-the-stellar-angel.json](./396301-expelled-from-paradise-the-stellar-angel.json) |
+| Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Expendable | 54012 | [54012-expendable.json](./54012-expendable.json) |
 | Expendabots | 404929 | [404929-expendabots.json](./404929-expendabots.json) |
