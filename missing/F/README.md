@@ -10273,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Focus Friend | 367721 | [367721-focus-friend.json](./367721-focus-friend.json) |
 | Focus Froggy | 412600 | [412600-focus-froggy.json](./412600-focus-froggy.json) |
 | Focus Grove | 391002 | [391002-focus-grove.json](./391002-focus-grove.json) |
+| Focus Grove: Magical Evening DLC | 425082 | [425082-focus-grove-magical-evening-dlc.json](./425082-focus-grove-magical-evening-dlc.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
 | Focus on You | 119452 | [119452-focus-on-you.json](./119452-focus-on-you.json) |
