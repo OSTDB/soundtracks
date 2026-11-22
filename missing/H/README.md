@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hans Klosss | 61508 | [61508-hans-klosss.json](./61508-hans-klosss.json) |
 | Hansa Forever | 427871 | [427871-hansa-forever.json](./427871-hansa-forever.json) |
+| Hansa Forever: Knarrs of Vikings | 427895 | [427895-hansa-forever-knarrs-of-vikings.json](./427895-hansa-forever-knarrs-of-vikings.json) |
 | Hansaku Otome no Tame no Kiyukyoku | 97650 | [97650-hansaku-otome-no-tame-no-kiyukyoku.json](./97650-hansaku-otome-no-tame-no-kiyukyoku.json) |
 | Hanse | 26458 | [26458-hanse.json](./26458-hanse.json) |
 | Hanse - The Hanseatic League | 100340 | [100340-hanse-the-hanseatic-league.json](./100340-hanse-the-hanseatic-league.json) |
@@ -9844,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: Episode - Sapienza | 331904 | [331904-hitman-world-of-assassination-episode-sapienza.json](./331904-hitman-world-of-assassination-episode-sapienza.json) |
 | Hitman World of Assassination: Part One | 284857 | [284857-hitman-world-of-assassination-part-one.json](./284857-hitman-world-of-assassination-part-one.json) |
 | Hitman World of Assassination: Signature Edition | 338082 | [338082-hitman-world-of-assassination-signature-edition.json](./338082-hitman-world-of-assassination-signature-edition.json) |
+| Hitman World of Assassination: The Host Pack | 427652 | [427652-hitman-world-of-assassination-the-host-pack.json](./427652-hitman-world-of-assassination-the-host-pack.json) |
 | Hitman World of Assassination: The Undying Pack | 287866 | [287866-hitman-world-of-assassination-the-undying-pack.json](./287866-hitman-world-of-assassination-the-undying-pack.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
 | Hitman World of Assassination: World Champions Pack | 405114 | [405114-hitman-world-of-assassination-world-champions-pack.json](./405114-hitman-world-of-assassination-world-champions-pack.json) |
@@ -12793,10 +12795,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder VR | 217443 | [217443-house-builder-vr.json](./217443-house-builder-vr.json) |
+| House Builder: Deconstruction DLC | 427639 | [427639-house-builder-deconstruction-dlc.json](./427639-house-builder-deconstruction-dlc.json) |
 | House Builder: Egyptian DLC | 372368 | [372368-house-builder-egyptian-dlc.json](./372368-house-builder-egyptian-dlc.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
+| House Builder: Garden DLC | 427641 | [427641-house-builder-garden-dlc.json](./427641-house-builder-garden-dlc.json) |
+| House Builder: Mechitecture Edition DLC | 427638 | [427638-house-builder-mechitecture-edition-dlc.json](./427638-house-builder-mechitecture-edition-dlc.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
+| House Builder: Pack and Punch | 427644 | [427644-house-builder-pack-and-punch.json](./427644-house-builder-pack-and-punch.json) |
 | House Builder: Paving & Driveways DLC | 397489 | [397489-house-builder-paving-and-driveways-dlc.json](./397489-house-builder-paving-and-driveways-dlc.json) |
+| House Builder: Plumbing DLC | 427640 | [427640-house-builder-plumbing-dlc.json](./427640-house-builder-plumbing-dlc.json) |
 | House Builder: The Atomic Age DLC | 293460 | [293460-house-builder-the-atomic-age-dlc.json](./293460-house-builder-the-atomic-age-dlc.json) |
 | House Call | 121951 | [121951-house-call.json](./121951-house-call.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
@@ -13121,6 +13128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Many Dudes? | 369765 | [369765-how-many-dudes.json](./369765-how-many-dudes.json) |
 | How Many Robots? | 66185 | [66185-how-many-robots.json](./66185-how-many-robots.json) |
 | How Many Secrets Under Ceiling | 373205 | [373205-how-many-secrets-under-ceiling.json](./373205-how-many-secrets-under-ceiling.json) |
+| How Many Tickets Does It Take To Win The Lottery? | 427656 | [427656-how-many-tickets-does-it-take-to-win-the-lottery.json](./427656-how-many-tickets-does-it-take-to-win-the-lottery.json) |
 | How Mosquito Became Human | 112595 | [112595-how-mosquito-became-human.json](./112595-how-mosquito-became-human.json) |
 | How Much Do You Know About Little Debbie History? | 425856 | [425856-how-much-do-you-know-about-little-debbie-history.json](./425856-how-much-do-you-know-about-little-debbie-history.json) |
 | How Much for the Body in the Freezer | 401158 | [401158-how-much-for-the-body-in-the-freezer.json](./401158-how-much-for-the-body-in-the-freezer.json) |
@@ -13556,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huh?: and the Adventures of Something | 367123 | [367123-huh-and-the-adventures-of-something.json](./367123-huh-and-the-adventures-of-something.json) |
 | Hui-shuo | 349081 | [349081-hui-shuo.json](./349081-hui-shuo.json) |
+| Huījìn: Nánxīng | 427894 | [427894-huijin-nanxing.json](./427894-huijin-nanxing.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hújù 101 | 148174 | [148174-huju-101.json](./148174-huju-101.json) |
@@ -14808,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlane Delta | 154167 | [154167-hyperlane-delta.json](./154167-hyperlane-delta.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
+| HyperLean | 427647 | [427647-hyperlean.json](./427647-hyperlean.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
@@ -14817,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
 | Hypermarket Tycoon Manager | 243559 | [243559-hypermarket-tycoon-manager.json](./243559-hypermarket-tycoon-manager.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
+| HyperMoto | 427649 | [427649-hypermoto.json](./427649-hypermoto.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
 | HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
 | Hyperoid | 80121 | [80121-hyperoid.json](./80121-hyperoid.json) |
