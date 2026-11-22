@@ -1333,7 +1333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
 | A Salem Witch Trial | 84050 | [84050-a-salem-witch-trial.json](./84050-a-salem-witch-trial.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
-| A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
 | A Scoundrel in the Underlair | 259302 | [259302-a-scoundrel-in-the-underlair.json](./259302-a-scoundrel-in-the-underlair.json) |
 | A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
 | A Second Before the War | 192814 | [192814-a-second-before-the-war.json](./192814-a-second-before-the-war.json) |
@@ -3640,7 +3639,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Soccer | 175378 | [175378-active-soccer.json](./175378-active-soccer.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
 | Active Soccer 2 DX | 21323 | [21323-active-soccer-2-dx.json](./21323-active-soccer-2-dx.json) |
-| Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
 | Active Soccer 3 | 223304 | [223304-active-soccer-3.json](./223304-active-soccer-3.json) |
 | Active Worlds | 66993 | [66993-active-worlds.json](./66993-active-worlds.json) |
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
@@ -4564,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures & Quests: The Black Crystal | 341750 | [341750-adventures-and-quests-the-black-crystal.json](./341750-adventures-and-quests-the-black-crystal.json) |
 | Adventures 4,5,6 | 80650 | [80650-adventures-4-5-6.json](./80650-adventures-4-5-6.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
+| Adventures Continue | 427023 | [427023-adventures-continue.json](./427023-adventures-continue.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Adventureland | 98320 | [98320-adventures-in-adventureland.json](./98320-adventures-in-adventureland.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
@@ -7448,6 +7447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albatross II: Masters' History | 41664 | [41664-albatross-ii-masters-history.json](./41664-albatross-ii-masters-history.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatross: Tournament Golf | 41665 | [41665-albatross-tournament-golf.json](./41665-albatross-tournament-golf.json) |
+| Albatrossity | 427013 | [427013-albatrossity.json](./427013-albatrossity.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
 | Albedo | 14161 | [14161-albedo.json](./14161-albedo.json) |
 | Albedo | 185312 | [185312-albedo.json](./185312-albedo.json) |
@@ -7507,7 +7507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemelee | 128333 | [128333-alchemelee.json](./128333-alchemelee.json) |
 | Alchementalist | 157082 | [157082-alchementalist.json](./157082-alchementalist.json) |
 | Alchemess: Tidy Up Your Potion Shop! | 419566 | [419566-alchemess-tidy-up-your-potion-shop.json](./419566-alchemess-tidy-up-your-potion-shop.json) |
-| Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemia | 58040 | [58040-alchemia.json](./58040-alchemia.json) |
 | Alchemia Rogue: Mia and the Mystery Labyrinth | 397497 | [397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json](./397497-alchemia-rogue-mia-and-the-mystery-labyrinth.json) |
 | Alchemia Story | 109917 | [109917-alchemia-story.json](./109917-alchemia-story.json) |
@@ -8060,7 +8059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien 3 | 273018 | [273018-alien-3.json](./273018-alien-3.json) |
 | Alien 3 | 8908 | [8908-alien-3.json](./8908-alien-3.json) |
 | Alien 8 | 13302 | [13302-alien-8.json](./13302-alien-8.json) |
-| Alien 911 | 117523 | [117523-alien-911.json](./117523-alien-911.json) |
 | Alien Abductee | 272105 | [272105-alien-abductee.json](./272105-alien-abductee.json) |
 | Alien Abduction Experience | 369371 | [369371-alien-abduction-experience.json](./369371-alien-abduction-experience.json) |
 | Alien Accident | 192744 | [192744-alien-accident.json](./192744-alien-accident.json) |
@@ -8357,6 +8355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Siege: Earth | 429613 | [429613-alien-siege-earth.json](./429613-alien-siege-earth.json) |
 | Alien Simulator | 123831 | [123831-alien-simulator.json](./123831-alien-simulator.json) |
 | Alien Sky | 93164 | [93164-alien-sky.json](./93164-alien-sky.json) |
+| Alien Slaphead | 427029 | [427029-alien-slaphead.json](./427029-alien-slaphead.json) |
 | Alien Slayer | 275099 | [275099-alien-slayer.json](./275099-alien-slayer.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Soda Online | 391851 | [391851-alien-soda-online.json](./391851-alien-soda-online.json) |
@@ -9046,7 +9045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alltynex Second | 9970 | [9970-alltynex-second.json](./9970-alltynex-second.json) |
 | Allumeria | 362894 | [362894-allumeria.json](./362894-allumeria.json) |
 | Allumette | 33070 | [33070-allumette.json](./33070-allumette.json) |
-| Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Allura: Curse of the Mermaid | 148114 | [148114-allura-curse-of-the-mermaid.json](./148114-allura-curse-of-the-mermaid.json) |
 | Allura: The Three Realms | 148970 | [148970-allura-the-three-realms.json](./148970-allura-the-three-realms.json) |
 | Alluring Lullaby | 427748 | [427748-alluring-lullaby.json](./427748-alluring-lullaby.json) |
@@ -9506,7 +9504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterlight | 256705 | [256705-alterlight.json](./256705-alterlight.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
-| Alternate DiMansion Diary | 115437 | [115437-alternate-dimansion-diary.json](./115437-alternate-dimansion-diary.json) |
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
 | Alternate Existence | 393695 | [393695-alternate-existence.json](./393695-alternate-existence.json) |
 | Alternate Reality: The City | 2423 | [2423-alternate-reality-the-city.json](./2423-alternate-reality-the-city.json) |
@@ -9981,7 +9978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber Trail | 223186 | [223186-amber-trail.json](./223186-amber-trail.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
-| Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Amber's Airline: High Hopes | 107743 | [107743-ambers-airline-high-hopes.json](./107743-ambers-airline-high-hopes.json) |
 | Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
 | Amber's Magic Shop | 36817 | [36817-ambers-magic-shop.json](./36817-ambers-magic-shop.json) |
@@ -11118,7 +11114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancraophobia | 289148 | [289148-ancraophobia.json](./289148-ancraophobia.json) |
 | And All Is Well | 184727 | [184727-and-all-is-well.json](./184727-and-all-is-well.json) |
 | And All That Could Have Been | 271055 | [271055-and-all-that-could-have-been.json](./271055-and-all-that-could-have-been.json) |
-| And All Would Cry Beware! | 117627 | [117627-and-all-would-cry-beware.json](./117627-and-all-would-cry-beware.json) |
 | And Around Goes the Clock | 364514 | [364514-and-around-goes-the-clock.json](./364514-and-around-goes-the-clock.json) |
 | And Everything Started To Fall | 242731 | [242731-and-everything-started-to-fall.json](./242731-and-everything-started-to-fall.json) |
 | And From the Earth.... | 392399 | [392399-and-from-the-earth.json](./392399-and-from-the-earth.json) |
@@ -11332,7 +11327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Shadow Woven - Cyan | 317750 | [317750-angel-legion-shadow-woven-cyan.json](./317750-angel-legion-shadow-woven-cyan.json) |
 | Angel Legion: Shadow Woven - Golden | 302568 | [302568-angel-legion-shadow-woven-golden.json](./302568-angel-legion-shadow-woven-golden.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
-| Angel Light the Elven Truce | 114983 | [114983-angel-light-the-elven-truce.json](./114983-angel-light-the-elven-truce.json) |
 | Angel Link | 253651 | [253651-angel-link.json](./253651-angel-link.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
@@ -13110,7 +13104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anthropocene Timeshare | 136507 | [136507-anthropocene-timeshare.json](./136507-anthropocene-timeshare.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
-| Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
 | Anthropomorphic Suspect | 181458 | [181458-anthropomorphic-suspect.json](./181458-anthropomorphic-suspect.json) |
 | Anti Air | 134089 | [134089-anti-air.json](./134089-anti-air.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
@@ -13281,7 +13274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antopolis: The Ant Colony Simulator | 425815 | [425815-antopolis-the-ant-colony-simulator.json](./425815-antopolis-the-ant-colony-simulator.json) |
 | Antox vs. Free Radicals | 111416 | [111416-antox-vs-free-radicals.json](./111416-antox-vs-free-radicals.json) |
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
-| AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
 | Antraxx | 137714 | [137714-antraxx.json](./137714-antraxx.json) |
 | Antreya Chronicles Online | 123154 | [123154-antreya-chronicles-online.json](./123154-antreya-chronicles-online.json) |
@@ -16674,7 +16666,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armour-Geddon | 11915 | [11915-armour-geddon.json](./11915-armour-geddon.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
-| Armoured Alliance | 114877 | [114877-armoured-alliance.json](./114877-armoured-alliance.json) |
 | Armoured Cavalry: Operation Varkiri | 215464 | [215464-armoured-cavalry-operation-varkiri.json](./215464-armoured-cavalry-operation-varkiri.json) |
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
 | Armoured Commander II | 132356 | [132356-armoured-commander-ii.json](./132356-armoured-commander-ii.json) |
@@ -19144,7 +19135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
 | AstroWings: Space War | 147656 | [147656-astrowings-space-war.json](./147656-astrowings-space-war.json) |
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
-| Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
 | Astrum Vanguard | 310299 | [310299-astrum-vanguard.json](./310299-astrum-vanguard.json) |
@@ -21107,7 +21097,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avocado Love | 187204 | [187204-avocado-love.json](./187204-avocado-love.json) |
 | Avocado Puzzle Quest | 211414 | [211414-avocado-puzzle-quest.json](./211414-avocado-puzzle-quest.json) |
 | Avocado Smash | 184197 | [184197-avocado-smash.json](./184197-avocado-smash.json) |
-| AvoCuddle | 117839 | [117839-avocuddle.json](./117839-avocuddle.json) |
 | Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid | 271101 | [271101-avoid.json](./271101-avoid.json) |
@@ -21239,7 +21228,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
 | Away From Earth: Moon | 113561 | [113561-away-from-earth-moon.json](./113561-away-from-earth-moon.json) |
-| Away From Earth: Titan | 117437 | [117437-away-from-earth-titan.json](./117437-away-from-earth-titan.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
 | Away From Home | 258676 | [258676-away-from-home.json](./258676-away-from-home.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
