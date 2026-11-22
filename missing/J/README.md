@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Nicklaus 5 | 761 | [761-jack-nicklaus-5.json](./761-jack-nicklaus-5.json) |
 | Jack Nicklaus 6: Golden Bear Challenge | 762 | [762-jack-nicklaus-6-golden-bear-challenge.json](./762-jack-nicklaus-6-golden-bear-challenge.json) |
 | Jack Nicklaus Cyber Golf | 270278 | [270278-jack-nicklaus-cyber-golf.json](./270278-jack-nicklaus-cyber-golf.json) |
+| Jack Nicklaus Golf | 428003 | [428003-jack-nicklaus-golf.json](./428003-jack-nicklaus-golf.json) |
 | Jack Nicklaus Golf | 49040 | [49040-jack-nicklaus-golf.json](./49040-jack-nicklaus-golf.json) |
 | Jack Nicklaus Golf & Course Design: Signature Edition | 69639 | [69639-jack-nicklaus-golf-and-course-design-signature-edition.json](./69639-jack-nicklaus-golf-and-course-design-signature-edition.json) |
 | Jack Nicklaus Online Golf Tour | 62272 | [62272-jack-nicklaus-online-golf-tour.json](./62272-jack-nicklaus-online-golf-tour.json) |
