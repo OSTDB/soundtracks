@@ -7256,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Vampire | 132718 | [132718-little-vampire.json](./132718-little-vampire.json) |
 | Little Venture | 299586 | [299586-little-venture.json](./299586-little-venture.json) |
 | Little Viking | 197745 | [197745-little-viking.json](./197745-little-viking.json) |
+| Little Voyagers: Study Sessions | 427891 | [427891-little-voyagers-study-sessions.json](./427891-little-voyagers-study-sessions.json) |
 | Little Walker | 33388 | [33388-little-walker.json](./33388-little-walker.json) |
 | Little War Online | 58713 | [58713-little-war-online.json](./58713-little-war-online.json) |
 | Little Warlings | 181763 | [181763-little-warlings.json](./181763-little-warlings.json) |
