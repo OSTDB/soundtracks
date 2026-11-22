@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yooka-Laylee: Deluxe Edition | 52104 | [52104-yooka-laylee-deluxe-edition.json](./52104-yooka-laylee-deluxe-edition.json) |
 | Yoomp! | 230603 | [230603-yoomp.json](./230603-yoomp.json) |
 | Yoomp! 64 | 196372 | [196372-yoomp-64.json](./196372-yoomp-64.json) |
+| Yoomurjak's Ring | 117716 | [117716-yoomurjaks-ring.json](./117716-yoomurjaks-ring.json) |
 | Yooperlite | 338214 | [338214-yooperlite.json](./338214-yooperlite.json) |
 | Yoostar | 62439 | [62439-yoostar.json](./62439-yoostar.json) |
 | Yoostar 2: In the Movies | 20164 | [20164-yoostar-2-in-the-movies.json](./20164-yoostar-2-in-the-movies.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
 | Ys VIII: Lacrimosa of Dana - Ultimate Resource Bundle | 124905 | [124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json](./124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json) |
 | Ys vs. Sora no Kiseki: Alternative Saga | 42772 | [42772-ys-vs-sora-no-kiseki-alternative-saga.json](./42772-ys-vs-sora-no-kiseki-alternative-saga.json) |
+| Ys vs. Trails in the Sky: Alternative Saga | 326629 | [326629-ys-vs-trails-in-the-sky-alternative-saga.json](./326629-ys-vs-trails-in-the-sky-alternative-saga.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys X: Nordics - Advanced Pack | 324357 | [324357-ys-x-nordics-advanced-pack.json](./324357-ys-x-nordics-advanced-pack.json) |
 | Ys X: Nordics - Attachment Pack | 324355 | [324355-ys-x-nordics-attachment-pack.json](./324355-ys-x-nordics-attachment-pack.json) |
@@ -1888,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics - Starter Pack | 324351 | [324351-ys-x-nordics-starter-pack.json](./324351-ys-x-nordics-starter-pack.json) |
 | Ys X: Nordics - Summer Adventure | 291126 | [291126-ys-x-nordics-summer-adventure.json](./291126-ys-x-nordics-summer-adventure.json) |
 | Ys X: Nordics - The Pikkard Set | 291099 | [291099-ys-x-nordics-the-pikkard-set.json](./291099-ys-x-nordics-the-pikkard-set.json) |
+| Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
 | Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
 | Ys X: Proud Nordics - Costume Pack | 402141 | [402141-ys-x-proud-nordics-costume-pack.json](./402141-ys-x-proud-nordics-costume-pack.json) |
 | Ys X: Proud Nordics - Deluxe Edition | 402124 | [402124-ys-x-proud-nordics-deluxe-edition.json](./402124-ys-x-proud-nordics-deluxe-edition.json) |
