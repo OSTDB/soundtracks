@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
+| Paceweaver | 420109 | [420109-paceweaver.json](./420109-paceweaver.json) |
 | Pacfish | 204799 | [204799-pacfish.json](./204799-pacfish.json) |
 | PachaMama | 186272 | [186272-pachamama.json](./186272-pachamama.json) |
 | Pachansky Mathematics 2+2=8 | 393454 | [393454-pachansky-mathematics-2-2-8.json](./393454-pachansky-mathematics-2-2-8.json) |
@@ -879,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint Skills | 84076 | [84076-paint-skills.json](./84076-paint-skills.json) |
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
+| Paint the Moon | 420808 | [420808-paint-the-moon.json](./420808-paint-the-moon.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint the Town Red VR | 253179 | [253179-paint-the-town-red-vr.json](./253179-paint-the-town-red-vr.json) |
 | Paint the Town Red VR | 376986 | [376986-paint-the-town-red-vr.json](./376986-paint-the-town-red-vr.json) |
@@ -16600,6 +16602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Life Simulator | 336400 | [336400-primitive-life-simulator.json](./336400-primitive-life-simulator.json) |
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
+| Primitive Shades | 420076 | [420076-primitive-shades.json](./420076-primitive-shades.json) |
 | Primitive Shooter | 84075 | [84075-primitive-shooter.json](./84075-primitive-shooter.json) |
 | Primitive Simulator | 208139 | [208139-primitive-simulator.json](./208139-primitive-simulator.json) |
 | Primitive Society Simulator | 256642 | [256642-primitive-society-simulator.json](./256642-primitive-society-simulator.json) |
@@ -17498,7 +17501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2016 | 32382 | [32382-pro-strategy-football-2016.json](./32382-pro-strategy-football-2016.json) |
 | Pro Strategy Football 2018 | 76917 | [76917-pro-strategy-football-2018.json](./76917-pro-strategy-football-2018.json) |
 | Pro Strategy Football 2019 | 107563 | [107563-pro-strategy-football-2019.json](./107563-pro-strategy-football-2019.json) |
-| Pro Strategy Football 2020 | 122255 | [122255-pro-strategy-football-2020.json](./122255-pro-strategy-football-2020.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
