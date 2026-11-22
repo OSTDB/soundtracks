@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Light | 190407 | [190407-keep-light.json](./190407-keep-light.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Looking | 320582 | [320582-keep-looking.json](./320582-keep-looking.json) |
+| Keep Looking Up | 428179 | [428179-keep-looking-up.json](./428179-keep-looking-up.json) |
 | Keep Making Games | 421698 | [421698-keep-making-games.json](./421698-keep-making-games.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
