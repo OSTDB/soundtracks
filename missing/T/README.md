@@ -443,7 +443,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics RPG Difficult! | 421068 | [421068-tactics-rpg-difficult.json](./421068-tactics-rpg-difficult.json) |
 | Tactics Saga | 223896 | [223896-tactics-saga.json](./223896-tactics-saga.json) |
 | Tactics Unlimited | 332564 | [332564-tactics-unlimited.json](./332564-tactics-unlimited.json) |
-| Tactics V: "Obsidian Brigade" | 119598 | [119598-tactics-v-obsidian-brigade.json](./119598-tactics-v-obsidian-brigade.json) |
 | Tactics Wanderer | 402654 | [402654-tactics-wanderer.json](./402654-tactics-wanderer.json) |
 | Tactics: Age of Affliction | 114489 | [114489-tactics-age-of-affliction.json](./114489-tactics-age-of-affliction.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
@@ -1965,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamori no Picross 6/13 | 345500 | [345500-tamori-no-picross-6-13.json](./345500-tamori-no-picross-6-13.json) |
 | Tamori no Picross 6/26 | 345501 | [345501-tamori-no-picross-6-26.json](./345501-tamori-no-picross-6-26.json) |
 | Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
+| Tamori no Picross 7/16 | 420096 | [420096-tamori-no-picross-7-16.json](./420096-tamori-no-picross-7-16.json) |
 | Tamori no Picross 8/1 | 345504 | [345504-tamori-no-picross-8-1.json](./345504-tamori-no-picross-8-1.json) |
 | Tamori no Picross 8/13 | 345502 | [345502-tamori-no-picross-8-13.json](./345502-tamori-no-picross-8-13.json) |
 | Tamper | 94543 | [94543-tamper.json](./94543-tamper.json) |
@@ -8521,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Cold White | 156730 | [156730-the-cold-white.json](./156730-the-cold-white.json) |
+| The Coldest Shadow | 420088 | [420088-the-coldest-shadow.json](./420088-the-coldest-shadow.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Colditz Story | 14008 | [14008-the-colditz-story.json](./14008-the-colditz-story.json) |
 | The Collaborative: Automaton #0059 | 124542 | [124542-the-collaborative-automaton-0059.json](./124542-the-collaborative-automaton-0059.json) |
@@ -18834,6 +18835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow Beneath | 347052 | [347052-the-shadow-beneath.json](./347052-the-shadow-beneath.json) |
 | The Shadow Cat | 289965 | [289965-the-shadow-cat.json](./289965-the-shadow-cat.json) |
 | The Shadow Cosmos | 373142 | [373142-the-shadow-cosmos.json](./373142-the-shadow-cosmos.json) |
+| The Shadow Crown: Frostwynd Chronicles | 420098 | [420098-the-shadow-crown-frostwynd-chronicles.json](./420098-the-shadow-crown-frostwynd-chronicles.json) |
 | The Shadow Government Simulator | 132306 | [132306-the-shadow-government-simulator.json](./132306-the-shadow-government-simulator.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Ayutthaya | 374649 | [374649-the-shadow-of-ayutthaya.json](./374649-the-shadow-of-ayutthaya.json) |
@@ -18859,6 +18861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadowland | 32796 | [32796-the-shadowland.json](./32796-the-shadowland.json) |
 | The Shadows in the Underworld | 51642 | [51642-the-shadows-in-the-underworld.json](./51642-the-shadows-in-the-underworld.json) |
 | The Shadows Lengthen | 190481 | [190481-the-shadows-lengthen.json](./190481-the-shadows-lengthen.json) |
+| The Shadows of Dry Creek | 420081 | [420081-the-shadows-of-dry-creek.json](./420081-the-shadows-of-dry-creek.json) |
 | The Shadows Of Eldergroove | 416096 | [416096-the-shadows-of-eldergroove.json](./416096-the-shadows-of-eldergroove.json) |
 | The Shadows of Fallen City | 273599 | [273599-the-shadows-of-fallen-city.json](./273599-the-shadows-of-fallen-city.json) |
 | The Shadows of Mordor | 70055 | [70055-the-shadows-of-mordor.json](./70055-the-shadows-of-mordor.json) |
@@ -26221,6 +26224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
 | Tiles | 29450 | [29450-tiles.json](./29450-tiles.json) |
 | Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
+| Tiles & Vials | 420817 | [420817-tiles-and-vials.json](./420817-tiles-and-vials.json) |
 | Tiles 4 Perfect Music | 350203 | [350203-tiles-4-perfect-music.json](./350203-tiles-4-perfect-music.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
@@ -38794,6 +38798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Bullets | 251727 | [251727-typing-bullets.json](./251727-typing-bullets.json) |
 | Typing Champ 1987 | 185346 | [185346-typing-champ-1987.json](./185346-typing-champ-1987.json) |
 | Typing de Ai wo Tsutae yo | 235548 | [235548-typing-de-ai-wo-tsutae-yo.json](./235548-typing-de-ai-wo-tsutae-yo.json) |
+| Typing Defense | 420102 | [420102-typing-defense.json](./420102-typing-defense.json) |
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
