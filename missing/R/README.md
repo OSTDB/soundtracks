@@ -11870,6 +11870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
 | Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
+| Roll Next | 425211 | [425211-roll-next.json](./425211-roll-next.json) |
 | Roll of Chaos | 423101 | [423101-roll-of-chaos.json](./423101-roll-of-chaos.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll of Fate | 311911 | [311911-roll-of-fate.json](./311911-roll-of-fate.json) |
@@ -11912,6 +11913,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollbound | 392095 | [392095-rollbound.json](./392095-rollbound.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
+| Rollcage Extreme | 425105 | [425105-rollcage-extreme.json](./425105-rollcage-extreme.json) |
+| Rollcage Redux | 425102 | [425102-rollcage-redux.json](./425102-rollcage-redux.json) |
 | Rollcage Stage II | 3163 | [3163-rollcage-stage-ii.json](./3163-rollcage-stage-ii.json) |
 | Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
 | RollCats | 215819 | [215819-rollcats.json](./215819-rollcats.json) |
