@@ -5515,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
 | Persona5: The Phantom X - Faith Held Close | 428450 | [428450-persona5-the-phantom-x-faith-held-close.json](./428450-persona5-the-phantom-x-faith-held-close.json) |
+| Persona5: The Phantom X - Le Rouge et le Noir | 428015 | [428015-persona5-the-phantom-x-le-rouge-et-le-noir.json](./428015-persona5-the-phantom-x-le-rouge-et-le-noir.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
@@ -20549,6 +20550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrfect Apawcalypse: Purrgatory Furever | 170648 | [170648-purrfect-apawcalypse-purrgatory-furever.json](./170648-purrfect-apawcalypse-purrgatory-furever.json) |
 | Purrfect Apawcalypse! Incredible Furture! | 304121 | [304121-purrfect-apawcalypse-incredible-furture.json](./304121-purrfect-apawcalypse-incredible-furture.json) |
 | Purrfect Beats | 429811 | [429811-purrfect-beats.json](./429811-purrfect-beats.json) |
+| Purrfect Bliss | 427631 | [427631-purrfect-bliss.json](./427631-purrfect-bliss.json) |
 | Purrfect Catch | 255041 | [255041-purrfect-catch.json](./255041-purrfect-catch.json) |
 | Purrfect Catch | 377190 | [377190-purrfect-catch.json](./377190-purrfect-catch.json) |
 | Purrfect Collection | 330409 | [330409-purrfect-collection.json](./330409-purrfect-collection.json) |
