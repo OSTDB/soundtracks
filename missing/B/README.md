@@ -4793,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
+| Battleboard | 425092 | [425092-battleboard.json](./425092-battleboard.json) |
 | Battleboat | 368279 | [368279-battleboat.json](./368279-battleboat.json) |
 | BattleBoat X | 390029 | [390029-battleboat-x.json](./390029-battleboat-x.json) |
 | Battleboats.io | 327906 | [327906-battleboats-io.json](./327906-battleboats-io.json) |
@@ -7234,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below | 377564 | [377564-below.json](./377564-below.json) |
 | Below Benni's | 335249 | [335249-below-bennis.json](./335249-below-bennis.json) |
 | Below Kryll | 35365 | [35365-below-kryll.json](./35365-below-kryll.json) |
+| Below Lethe | 425077 | [425077-below-lethe.json](./425077-below-lethe.json) |
 | Below Level | 304387 | [304387-below-level.json](./304387-below-level.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
@@ -9723,6 +9725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Crush | 112020 | [112020-birdie-crush.json](./112020-birdie-crush.json) |
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
+| Birdie in the Snow | 425660 | [425660-birdie-in-the-snow.json](./425660-birdie-in-the-snow.json) |
 | Birdie King | 40291 | [40291-birdie-king.json](./40291-birdie-king.json) |
 | Birdie King 2 | 40290 | [40290-birdie-king-2.json](./40290-birdie-king-2.json) |
 | Birdie King 3 | 40289 | [40289-birdie-king-3.json](./40289-birdie-king-3.json) |
