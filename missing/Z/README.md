@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Wars: Invasion | 33859 | [33859-zombie-wars-invasion.json](./33859-zombie-wars-invasion.json) |
 | Zombie Warz | 238459 | [238459-zombie-warz.json](./238459-zombie-warz.json) |
 | Zombie Wasteland Together | 423613 | [423613-zombie-wasteland-together.json](./423613-zombie-wasteland-together.json) |
+| Zombie Watch | 82359 | [82359-zombie-watch.json](./82359-zombie-watch.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
 | Zombie Waves | 234419 | [234419-zombie-waves.json](./234419-zombie-waves.json) |
 | Zombie Within | 240615 | [240615-zombie-within.json](./240615-zombie-within.json) |
