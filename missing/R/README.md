@@ -7313,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return. | 106161 | [106161-return.json](./106161-return.json) |
 | Returnal: Ascension | 194788 | [194788-returnal-ascension.json](./194788-returnal-ascension.json) |
 | Returnal: Digital Deluxe Edition | 221656 | [221656-returnal-digital-deluxe-edition.json](./221656-returnal-digital-deluxe-edition.json) |
+| Returner 77 | 88035 | [88035-returner-77.json](./88035-returner-77.json) |
 | Returner 77 | 88968 | [88968-returner-77.json](./88968-returner-77.json) |
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
@@ -8270,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
 | Riddlewood Manor | 312786 | [312786-riddlewood-manor.json](./312786-riddlewood-manor.json) |
+| Riddlord: The Consequence | 81688 | [81688-riddlord-the-consequence.json](./81688-riddlord-the-consequence.json) |
 | Ride | 183311 | [183311-ride.json](./183311-ride.json) |
 | Ride | 20047 | [20047-ride.json](./20047-ride.json) |
 | Ride 'Em Rigby: Regular Show | 61140 | [61140-ride-em-rigby-regular-show.json](./61140-ride-em-rigby-regular-show.json) |
@@ -9029,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
 | Rise of Legions | 90043 | [90043-rise-of-legions.json](./90043-rise-of-legions.json) |
+| Rise of Liberty | 81626 | [81626-rise-of-liberty.json](./81626-rise-of-liberty.json) |
 | Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
 | Rise of Man | 50526 | [50526-rise-of-man.json](./50526-rise-of-man.json) |
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
@@ -9104,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Teenage Mutant Ninja Turtles: Ninja Run | 146251 | [146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json](./146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
+| Rise of the Third Power | 81058 | [81058-rise-of-the-third-power.json](./81058-rise-of-the-third-power.json) |
 | Rise of the Tomb Raider: 20 Year Celebration | 23331 | [23331-rise-of-the-tomb-raider-20-year-celebration.json](./23331-rise-of-the-tomb-raider-20-year-celebration.json) |
 | Rise of the Tomb Raider: 20 Year Celebration - Collector's Edition | 42916 | [42916-rise-of-the-tomb-raider-20-year-celebration-collectors-edition.json](./42916-rise-of-the-tomb-raider-20-year-celebration-collectors-edition.json) |
 | Rise of the Tomb Raider: Baba Yaga - The Temple of the Witch | 14774 | [14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json](./14774-rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch.json) |
