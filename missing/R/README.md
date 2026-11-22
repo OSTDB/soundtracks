@@ -4668,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Slash | 176266 | [176266-red-slash.json](./176266-red-slash.json) |
 | Red Snow | 287771 | [287771-red-snow.json](./287771-red-snow.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
+| Red Solstice 2: Survivors | 117951 | [117951-red-solstice-2-survivors.json](./117951-red-solstice-2-survivors.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Solstice 2: Survivors - Howell-Barrex Inc. | 180024 | [180024-red-solstice-2-survivors-howell-barrex-inc.json](./180024-red-solstice-2-survivors-howell-barrex-inc.json) |
 | Red Solstice 2: Survivors - Insurgents | 201009 | [201009-red-solstice-2-survivors-insurgents.json](./201009-red-solstice-2-survivors-insurgents.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled | 424019 | [424019-rekindled.json](./424019-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
+| Rekindling | 117059 | [117059-rekindling.json](./117059-rekindling.json) |
 | Rekindling The Flame | 276833 | [276833-rekindling-the-flame.json](./276833-rekindling-the-flame.json) |
 | Rekkr | 105118 | [105118-rekkr.json](./105118-rekkr.json) |
 | Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
@@ -11363,6 +11365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rog n' Mon | 211588 | [211588-rog-n-mon.json](./211588-rog-n-mon.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
+| Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
 | Roger Clemens' MVP Baseball | 365656 | [365656-roger-clemens-mvp-baseball.json](./365656-roger-clemens-mvp-baseball.json) |
 | Roger Clemens' MVP Baseball | 365658 | [365658-roger-clemens-mvp-baseball.json](./365658-roger-clemens-mvp-baseball.json) |
 | Roger Clemens' MVP Baseball | 48710 | [48710-roger-clemens-mvp-baseball.json](./48710-roger-clemens-mvp-baseball.json) |
