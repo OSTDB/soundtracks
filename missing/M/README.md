@@ -185,7 +185,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
 | Maccha's World | 336238 | [336238-macchas-world.json](./336238-macchas-world.json) |
 | Macdows 95 | 110386 | [110386-macdows-95.json](./110386-macdows-95.json) |
-| Mace and Grace | 117465 | [117465-mace-and-grace.json](./117465-mace-and-grace.json) |
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | Mace the Adventure | 306840 | [306840-mace-the-adventure.json](./306840-mace-the-adventure.json) |
@@ -2665,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Main Assembly | 121229 | [121229-main-assembly.json](./121229-main-assembly.json) |
 | Main Character Simulator | 107709 | [107709-main-character-simulator.json](./107709-main-character-simulator.json) |
 | Main Competition | 124309 | [124309-main-competition.json](./124309-main-competition.json) |
+| Main Course: The Retro Cut | 427015 | [427015-main-course-the-retro-cut.json](./427015-main-course-the-retro-cut.json) |
 | Main Deity Space | 277515 | [277515-main-deity-space.json](./277515-main-deity-space.json) |
 | Main Event: Wrestling Manager | 225201 | [225201-main-event-wrestling-manager.json](./225201-main-event-wrestling-manager.json) |
 | Main Frame | 68460 | [68460-main-frame.json](./68460-main-frame.json) |
@@ -10957,7 +10957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaid Catch: Transform Sirens into Anime Boys | 407273 | [407273-mermaid-catch-transform-sirens-into-anime-boys.json](./407273-mermaid-catch-transform-sirens-into-anime-boys.json) |
 | Mermaid Catch: Transform Sirens into Anime Girls | 409684 | [409684-mermaid-catch-transform-sirens-into-anime-girls.json](./409684-mermaid-catch-transform-sirens-into-anime-girls.json) |
 | Mermaid City | 310658 | [310658-mermaid-city.json](./310658-mermaid-city.json) |
-| Mermaid Colony | 117788 | [117788-mermaid-colony.json](./117788-mermaid-colony.json) |
 | Mermaid Garden | 408331 | [408331-mermaid-garden.json](./408331-mermaid-garden.json) |
 | Mermaid Gothic | 59101 | [59101-mermaid-gothic.json](./59101-mermaid-gothic.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
@@ -14900,7 +14899,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Putt | 320098 | [320098-mini-putt.json](./320098-mini-putt.json) |
 | Mini Putt Camelot | 196420 | [196420-mini-putt-camelot.json](./196420-mini-putt-camelot.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
-| mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racer Online | 405452 | [405452-mini-racer-online.json](./405452-mini-racer-online.json) |
@@ -15520,7 +15518,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
 | Mirada PDA Game | 243880 | [243880-mirada-pda-game.json](./243880-mirada-pda-game.json) |
-| Mirador | 116939 | [116939-mirador.json](./116939-mirador.json) |
 | Mirador | 201385 | [201385-mirador.json](./201385-mirador.json) |
 | Mirage | 141409 | [141409-mirage.json](./141409-mirage.json) |
 | Mirage | 247761 | [247761-mirage.json](./247761-mirage.json) |
@@ -15779,6 +15776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiSide | 255777 | [255777-miside.json](./255777-miside.json) |
 | Miside Reality | 335963 | [335963-miside-reality.json](./335963-miside-reality.json) |
 | MiSide: Zero | 384789 | [384789-miside-zero.json](./384789-miside-zero.json) |
+| Misifu: Remeow | 427021 | [427021-misifu-remeow.json](./427021-misifu-remeow.json) |
 | Misión en África | 316782 | [316782-mision-en-africa.json](./316782-mision-en-africa.json) |
 | Misión Triple R | 260084 | [260084-mision-triple-r.json](./260084-mision-triple-r.json) |
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
@@ -16555,7 +16553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLP My Little Pony OC Pack | 428763 | [428763-mlp-my-little-pony-oc-pack.json](./428763-mlp-my-little-pony-oc-pack.json) |
 | MM | 256609 | [256609-mm.json](./256609-mm.json) |
 | MM Garden | 335332 | [335332-mm-garden.json](./335332-mm-garden.json) |
-| MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Empire | 389147 | [389147-mma-empire.json](./389147-mma-empire.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
@@ -18214,7 +18211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Dormitory | 212973 | [212973-monster-girl-dormitory.json](./212973-monster-girl-dormitory.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
-| Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
 | Monster Girl Fantasy 2: Exposed | 120738 | [120738-monster-girl-fantasy-2-exposed.json](./120738-monster-girl-fantasy-2-exposed.json) |
 | Monster Girl Garden | 389781 | [389781-monster-girl-garden.json](./389781-monster-girl-garden.json) |
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
@@ -18396,7 +18392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: World - Steelbook Edition | 81355 | [81355-monster-hunter-world-steelbook-edition.json](./81355-monster-hunter-world-steelbook-edition.json) |
 | Monster Hunters: Frost Giant | 224838 | [224838-monster-hunters-frost-giant.json](./224838-monster-hunters-frost-giant.json) |
 | Monster Hunting: Incremental Grind Forever | 341332 | [341332-monster-hunting-incremental-grind-forever.json](./341332-monster-hunting-incremental-grind-forever.json) |
-| Monster Hunting... For Love! | 115436 | [115436-monster-hunting-for-love.json](./115436-monster-hunting-for-love.json) |
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark | 147528 | [147528-monster-in-the-dark.json](./147528-monster-in-the-dark.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
@@ -18796,7 +18791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
 | Monster X Mediator | 292729 | [292729-monster-x-mediator.json](./292729-monster-x-mediator.json) |
-| Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster Zero | 77555 | [77555-monster-zero.json](./77555-monster-zero.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Chronicles of Blood | 427552 | [427552-monster-chronicles-of-blood.json](./427552-monster-chronicles-of-blood.json) |
@@ -23770,7 +23764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Healthy Cooking Coach | 47702 | [47702-my-healthy-cooking-coach.json](./47702-my-healthy-cooking-coach.json) |
-| My Heart Grows Fonder | 117653 | [117653-my-heart-grows-fonder.json](./117653-my-heart-grows-fonder.json) |
 | My Heart Your Soul | 227023 | [227023-my-heart-your-soul.json](./227023-my-heart-your-soul.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Helpers | 399841 | [399841-my-helpers.json](./399841-my-helpers.json) |
@@ -24823,7 +24816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MyFreeZoo Mobile | 400619 | [400619-myfreezoo-mobile.json](./400619-myfreezoo-mobile.json) |
 | MyGF: Another | 285060 | [285060-mygf-another.json](./285060-mygf-another.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
-| Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
 | MyKonami Slots | 370753 | [370753-mykonami-slots.json](./370753-mykonami-slots.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
