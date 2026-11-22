@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
 | Cabela's Ultimate Deer Hunt 2 | 51334 | [51334-cabelas-ultimate-deer-hunt-2.json](./51334-cabelas-ultimate-deer-hunt-2.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
+| Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
 | Cabezurrio vs Robots | 256106 | [256106-cabezurrio-vs-robots.json](./256106-cabezurrio-vs-robots.json) |
 | Cabin | 400182 | [400182-cabin.json](./400182-cabin.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carton | 31211 | [31211-carton.json](./31211-carton.json) |
 | Carton Wars | 124557 | [124557-carton-wars.json](./124557-carton-wars.json) |
 | Carton-Kun | 209449 | [209449-carton-kun.json](./209449-carton-kun.json) |
+| Cartonfall | 98995 | [98995-cartonfall.json](./98995-cartonfall.json) |
 | Cartonfall: Fortress | 130055 | [130055-cartonfall-fortress.json](./130055-cartonfall-fortress.json) |
 | Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
@@ -4542,6 +4544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Mahjong | 293478 | [293478-casual-mahjong.json](./293478-casual-mahjong.json) |
 | Casual Mania! | 206903 | [206903-casual-mania.json](./206903-casual-mania.json) |
 | Casual Mystery Solving Bite-Sized Mysteries | 417871 | [417871-casual-mystery-solving-bite-sized-mysteries.json](./417871-casual-mystery-solving-bite-sized-mysteries.json) |
+| Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Pro Wrestling | 189306 | [189306-casual-pro-wrestling.json](./189306-casual-pro-wrestling.json) |
 | Casual Puzzles Bundle 8 in 1 | 302246 | [302246-casual-puzzles-bundle-8-in-1.json](./302246-casual-puzzles-bundle-8-in-1.json) |
@@ -21554,6 +21557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Clash | 182907 | [182907-cryptic-clash.json](./182907-cryptic-clash.json) |
 | Cryptic College | 152084 | [152084-cryptic-college.json](./152084-cryptic-college.json) |
 | Cryptic Crawlz | 321478 | [321478-cryptic-crawlz.json](./321478-cryptic-crawlz.json) |
+| Cryptic Crosswords | 100885 | [100885-cryptic-crosswords.json](./100885-cryptic-crosswords.json) |
 | Cryptic Encounters | 208803 | [208803-cryptic-encounters.json](./208803-cryptic-encounters.json) |
 | Cryptic Escape | 289690 | [289690-cryptic-escape.json](./289690-cryptic-escape.json) |
 | Cryptic Escape | 62042 | [62042-cryptic-escape.json](./62042-cryptic-escape.json) |
