@@ -16735,6 +16735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
+| Smash & Grab | 427634 | [427634-smash-and-grab.json](./427634-smash-and-grab.json) |
 | Smash & Magic | 70839 | [70839-smash-and-magic.json](./70839-smash-and-magic.json) |
 | Smash & Settle | 429732 | [429732-smash-and-settle.json](./429732-smash-and-settle.json) |
 | Smash 1 | 206858 | [206858-smash-1.json](./206858-smash-1.json) |
@@ -22574,6 +22575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dance | 90818 | [90818-space-dance.json](./90818-space-dance.json) |
 | Space Dance Harmony | 149323 | [149323-space-dance-harmony.json](./149323-space-dance-harmony.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
+| Space Daram | 427658 | [427658-space-daram.json](./427658-space-daram.json) |
 | Space Dash | 183303 | [183303-space-dash.json](./183303-space-dash.json) |
 | Space Dash | 373135 | [373135-space-dash.json](./373135-space-dash.json) |
 | Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
@@ -27581,6 +27583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StageMechanic | 110848 | [110848-stagemechanic.json](./110848-stagemechanic.json) |
 | Stages of Grief | 148234 | [148234-stages-of-grief.json](./148234-stages-of-grief.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
+| Stages of Science | 427657 | [427657-stages-of-science.json](./427657-stages-of-science.json) |
 | StageStar | 421129 | [421129-stagestar.json](./421129-stagestar.json) |
 | StageTime | 334255 | [334255-stagetime.json](./334255-stagetime.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
@@ -34210,6 +34213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
 | Sudoku Universe | 84130 | [84130-sudoku-universe.json](./84130-sudoku-universe.json) |
+| Sudoku Unlimited | 427630 | [427630-sudoku-unlimited.json](./427630-sudoku-unlimited.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
 | Sudoku Variants by Logic Wiz | 263911 | [263911-sudoku-variants-by-logic-wiz.json](./263911-sudoku-variants-by-logic-wiz.json) |
@@ -40821,6 +40825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetest Valentine | 214809 | [214809-sweetest-valentine.json](./214809-sweetest-valentine.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
 | SweetHex: Celestial Encounters | 197516 | [197516-sweethex-celestial-encounters.json](./197516-sweethex-celestial-encounters.json) |
+| Sweetie Candy Maze: Azure Honeyberry | 427624 | [427624-sweetie-candy-maze-azure-honeyberry.json](./427624-sweetie-candy-maze-azure-honeyberry.json) |
 | Sweetie Candy Maze: Blackberry | 412383 | [412383-sweetie-candy-maze-blackberry.json](./412383-sweetie-candy-maze-blackberry.json) |
 | Sweetie Candy Maze: Blueberry | 387747 | [387747-sweetie-candy-maze-blueberry.json](./387747-sweetie-candy-maze-blueberry.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
