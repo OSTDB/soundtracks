@@ -5854,6 +5854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent 01 | 199400 | [199400-agent-01.json](./199400-agent-01.json) |
 | Agent 07: Spy Revenge | 344298 | [344298-agent-07-spy-revenge.json](./344298-agent-07-spy-revenge.json) |
 | Agent 079 | 64202 | [64202-agent-079.json](./64202-agent-079.json) |
+| Agent 64: Spies Never Die | 148270 | [148270-agent-64-spies-never-die.json](./148270-agent-64-spies-never-die.json) |
 | Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
 | Agent 9 | 282865 | [282865-agent-9.json](./282865-agent-9.json) |
 | Agent A & Down in Bermuda Bundle | 380693 | [380693-agent-a-and-down-in-bermuda-bundle.json](./380693-agent-a-and-down-in-bermuda-bundle.json) |
@@ -18774,6 +18775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Adventures: And the Portals of Madness | 197441 | [197441-astro-adventures-and-the-portals-of-madness.json](./197441-astro-adventures-and-the-portals-of-madness.json) |
 | Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
 | Astro Amigo | 399363 | [399363-astro-amigo.json](./399363-astro-amigo.json) |
+| Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Aqua Kitty: Pawsome Collection | 216589 | [216589-astro-aqua-kitty-pawsome-collection.json](./216589-astro-aqua-kitty-pawsome-collection.json) |
 | Astro Architect | 350133 | [350133-astro-architect.json](./350133-astro-architect.json) |
