@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Space | 283396 | [283396-dark-space.json](./283396-dark-space.json) |
 | Dark Space Conqueror | 118615 | [118615-dark-space-conqueror.json](./118615-dark-space-conqueror.json) |
 | Dark Spasm | 232236 | [232236-dark-spasm.json](./232236-dark-spasm.json) |
+| Dark Spawn: Infestation | 428196 | [428196-dark-spawn-infestation.json](./428196-dark-spawn-infestation.json) |
 | Dark Sphere | 152506 | [152506-dark-sphere.json](./152506-dark-sphere.json) |
 | Dark Spirit | 294948 | [294948-dark-spirit.json](./294948-dark-spirit.json) |
 | Dark Spot | 157377 | [157377-dark-spot.json](./157377-dark-spot.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruber Muss Man Schweigen | 105047 | [105047-daruber-muss-man-schweigen.json](./105047-daruber-muss-man-schweigen.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
+| Darukusandora | 428607 | [428607-darukusandora.json](./428607-darukusandora.json) |
 | Darum | 308030 | [308030-darum.json](./308030-darum.json) |
 | Daruman Busters | 77798 | [77798-daruman-busters.json](./77798-daruman-busters.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
@@ -3781,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: SA342M Gazelle | 156290 | [156290-dcs-world-sa342m-gazelle.json](./156290-dcs-world-sa342m-gazelle.json) |
 | DCS World: Sinai Map | 252516 | [252516-dcs-world-sinai-map.json](./252516-dcs-world-sinai-map.json) |
 | DCS World: South Atlantic | 205076 | [205076-dcs-world-south-atlantic.json](./205076-dcs-world-south-atlantic.json) |
+| DCS World: Southwest Afghanistan | 428182 | [428182-dcs-world-southwest-afghanistan.json](./428182-dcs-world-southwest-afghanistan.json) |
 | DCS World: Spitfire - Epsom Campaign | 170168 | [170168-dcs-world-spitfire-epsom-campaign.json](./170168-dcs-world-spitfire-epsom-campaign.json) |
 | DCS World: Spitfire Beware! Beware! Campaign by Reflected Simulations | 325541 | [325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json](./325541-dcs-world-spitfire-beware-beware-campaign-by-reflected-simulations.json) |
 | DCS World: Spitfire LF Mk IX | 156313 | [156313-dcs-world-spitfire-lf-mk-ix.json](./156313-dcs-world-spitfire-lf-mk-ix.json) |
@@ -4338,6 +4341,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
 | Dead or Alive 6 | 103269 | [103269-dead-or-alive-6.json](./103269-dead-or-alive-6.json) |
 | Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
+| Dead or Alive 6 Last Round: Happy Wedding Costume Vol.2 - Brad Wong | 428169 | [428169-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-brad-wong.json](./428169-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-brad-wong.json) |
+| Dead or Alive 6 Last Round: Happy Wedding Costume Vol.2 - Zack | 428170 | [428170-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-zack.json](./428170-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-zack.json) |
+| Dead or Alive 6 Last Round: Seaside Eden Costume - Rachel | 428188 | [428188-dead-or-alive-6-last-round-seaside-eden-costume-rachel.json](./428188-dead-or-alive-6-last-round-seaside-eden-costume-rachel.json) |
 | Dead or Alive 6: Bayman | 155441 | [155441-dead-or-alive-6-bayman.json](./155441-dead-or-alive-6-bayman.json) |
 | Dead or Alive 6: Christie | 155437 | [155437-dead-or-alive-6-christie.json](./155437-dead-or-alive-6-christie.json) |
 | Dead or Alive 6: Collector's Limited Edition | 166261 | [166261-dead-or-alive-6-collectors-limited-edition.json](./166261-dead-or-alive-6-collectors-limited-edition.json) |
@@ -6140,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
 | Deep Loop | 372523 | [372523-deep-loop.json](./372523-deep-loop.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
+| Deep Love Diary: Koibito Nikki | 428180 | [428180-deep-love-diary-koibito-nikki.json](./428180-deep-love-diary-koibito-nikki.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
 | Deep Madness | 177109 | [177109-deep-madness.json](./177109-deep-madness.json) |
 | Deep Maze | 262832 | [262832-deep-maze.json](./262832-deep-maze.json) |
