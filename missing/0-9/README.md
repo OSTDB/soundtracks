@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 164: The Relentless Climb | 379073 | [379073-164-the-relentless-climb.json](./379073-164-the-relentless-climb.json) |
 | 1651 | 201383 | [201383-1651.json](./201383-1651.json) |
 | 1666: Amsterdam | 404693 | [404693-1666-amsterdam.json](./404693-1666-amsterdam.json) |
+| 1675 | 424044 | [424044-1675.json](./424044-1675.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit Trader | 26837 | [26837-16bit-trader.json](./26837-16bit-trader.json) |
 | 16bit vs. Reality | 167552 | [167552-16bit-vs-reality.json](./167552-16bit-vs-reality.json) |
