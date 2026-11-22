@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Gems Bundle - Explosions Edition | 147802 | [147802-indie-gems-bundle-explosions-edition.json](./147802-indie-gems-bundle-explosions-edition.json) |
 | Indie Gems Bundle - Nonograms edition | 147794 | [147794-indie-gems-bundle-nonograms-edition.json](./147794-indie-gems-bundle-nonograms-edition.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
+| Indie Heroes Collection 1 | 145831 | [145831-indie-heroes-collection-1.json](./145831-indie-heroes-collection-1.json) |
 | Indie Heroes Collection 2 | 227614 | [227614-indie-heroes-collection-2.json](./227614-indie-heroes-collection-2.json) |
 | Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
 | Indie Heroes Collection 4 | 332139 | [332139-indie-heroes-collection-4.json](./332139-indie-heroes-collection-4.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkronos | 345014 | [345014-inkronos.json](./345014-inkronos.json) |
 | Inks. | 58356 | [58356-inks.json](./58356-inks.json) |
 | Inkshade | 318693 | [318693-inkshade.json](./318693-inkshade.json) |
+| Inkslinger | 147294 | [147294-inkslinger.json](./147294-inkslinger.json) |
 | InkSplosion | 95608 | [95608-inksplosion.json](./95608-inksplosion.json) |
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
