@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T14:45:55.824Z",
-  "total_soundtracks": 3909,
+  "generated_at": "2026-11-22T15:26:01.521Z",
+  "total_soundtracks": 3911,
   "games": [
     {
       "igdb_id": 292844,
@@ -10419,6 +10419,20 @@
         {
           "album_name": "Deemo Reborn (Original Soundtrack), Vol.1",
           "spotify_url": "https://open.spotify.com/album/6KtKCVB5V0o1DUr6c8lH3k",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113427,
+      "game_name": "Deep Diving Simulator",
+      "game_url": "https://ostdb.net/games/deep-diving-simulator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27399bec1c718b8a3b9f3abbb27",
+      "albums": [
+        {
+          "album_name": "Deep Diving Simulator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7DyMw2mjAsb6rV71RnrKvC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -34067,6 +34081,20 @@
         {
           "album_name": "Riichi City (Original Game Soundtrack) [Vol.1 ~ Default]",
           "spotify_url": "https://open.spotify.com/album/4Xl65ju48qZoAolgjThbB1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113515,
+      "game_name": "Rikki & Vikki",
+      "game_url": "https://ostdb.net/games/rikki-and-vikki",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27368e683195e7ce509dbe0f920",
+      "albums": [
+        {
+          "album_name": "Rikki & Vikki (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2MEJ59xX8BzIOIqhHXyIrr",
           "apple_music_url": "",
           "album_link_url": ""
         }
