@@ -1244,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
 | Raidou Remastered: The Mystery of the Soulless Army - Digital Deluxe Edition | 342320 | [342320-raidou-remastered-the-mystery-of-the-soulless-army-digital-deluxe-edition.json](./342320-raidou-remastered-the-mystery-of-the-soulless-army-digital-deluxe-edition.json) |
+| RaidProtect Minigames | 429096 | [429096-raidprotect-minigames.json](./429096-raidprotect-minigames.json) |
 | Raids & Puzzles: RPG Quest | 126143 | [126143-raids-and-puzzles-rpg-quest.json](./126143-raids-and-puzzles-rpg-quest.json) |
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
@@ -4437,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption: Undead Nightmare | 260736 | [260736-red-dead-redemption-undead-nightmare.json](./260736-red-dead-redemption-undead-nightmare.json) |
 | Red Dead Redemption: Undead Nightmare Collection | 45199 | [45199-red-dead-redemption-undead-nightmare-collection.json](./45199-red-dead-redemption-undead-nightmare-collection.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
+| Red Dead Revolver: XBE Recomp | 428972 | [428972-red-dead-revolver-xbe-recomp.json](./428972-red-dead-revolver-xbe-recomp.json) |
 | Red Death | 29503 | [29503-red-death.json](./29503-red-death.json) |
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
 | Red Death: 8Feet | 121132 | [121132-red-death-8feet.json](./121132-red-death-8feet.json) |
@@ -8467,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridiculous Fishing EX | 256578 | [256578-ridiculous-fishing-ex.json](./256578-ridiculous-fishing-ex.json) |
 | Ridiculous Glitching | 332639 | [332639-ridiculous-glitching.json](./332639-ridiculous-glitching.json) |
 | Ridiculous Marathon | 54756 | [54756-ridiculous-marathon.json](./54756-ridiculous-marathon.json) |
+| Ridiculous Racing: Retro Arcade Racer | 429225 | [429225-ridiculous-racing-retro-arcade-racer.json](./429225-ridiculous-racing-retro-arcade-racer.json) |
 | Ridiculous RPG | 232041 | [232041-ridiculous-rpg.json](./232041-ridiculous-rpg.json) |
 | Ridiculous Rugby | 107593 | [107593-ridiculous-rugby.json](./107593-ridiculous-rugby.json) |
 | Ridiculous Rush | 251895 | [251895-ridiculous-rush.json](./251895-ridiculous-rush.json) |
