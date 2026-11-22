@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mac Hack VI | 407638 | [407638-mac-hack-vi.json](./407638-mac-hack-vi.json) |
 | Mac Pro Football | 36694 | [36694-mac-pro-football.json](./36694-mac-pro-football.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
+| Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
 | Macabre Museum | 216685 | [216685-macabre-museum.json](./216685-macabre-museum.json) |
 | Macabre Mysteries: Curse of the Nightingale | 210198 | [210198-macabre-mysteries-curse-of-the-nightingale.json](./210198-macabre-mysteries-curse-of-the-nightingale.json) |
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
@@ -9626,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megashootsplosion | 423862 | [423862-megashootsplosion.json](./423862-megashootsplosion.json) |
 | MegaSokoban | 311399 | [311399-megasokoban.json](./311399-megasokoban.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
+| MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megastore Chaos | 417018 | [417018-megastore-chaos.json](./417018-megastore-chaos.json) |
 | Megastore Simulator | 372969 | [372969-megastore-simulator.json](./372969-megastore-simulator.json) |
 | Megastore: Tidy Up Together | 412653 | [412653-megastore-tidy-up-together.json](./412653-megastore-tidy-up-together.json) |
@@ -12279,6 +12281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcosm | 4255 | [4255-microcosm.json](./4255-microcosm.json) |
 | Microcosmum 2 | 158865 | [158865-microcosmum-2.json](./158865-microcosmum-2.json) |
 | Microcosmum 2: Mission Generator - Abyss | 317748 | [317748-microcosmum-2-mission-generator-abyss.json](./317748-microcosmum-2-mission-generator-abyss.json) |
+| Microcosmum: Survival of Cells | 34896 | [34896-microcosmum-survival-of-cells.json](./34896-microcosmum-survival-of-cells.json) |
 | Microcosmum: Survival of Cells - Campaign "Aliens" | 168053 | [168053-microcosmum-survival-of-cells-campaign-aliens.json](./168053-microcosmum-survival-of-cells-campaign-aliens.json) |
 | Microcosmum: Survival of Cells - Campaign "Hot and Cold" | 155337 | [155337-microcosmum-survival-of-cells-campaign-hot-and-cold.json](./155337-microcosmum-survival-of-cells-campaign-hot-and-cold.json) |
 | Microcosmum: Survival of Cells - Campaign "Mutations" | 168054 | [168054-microcosmum-survival-of-cells-campaign-mutations.json](./168054-microcosmum-survival-of-cells-campaign-mutations.json) |
@@ -21850,6 +21853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTV's Club Dead | 69773 | [69773-mtvs-club-dead.json](./69773-mtvs-club-dead.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
+| Mu Complex | 34912 | [34912-mu-complex.json](./34912-mu-complex.json) |
 | Mu Imperio | 389818 | [389818-mu-imperio.json](./389818-mu-imperio.json) |
 | Mu Jiang | 241211 | [241211-mu-jiang.json](./241211-mu-jiang.json) |
 | MU Legend | 57366 | [57366-mu-legend.json](./57366-mu-legend.json) |
