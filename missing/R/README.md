@@ -10052,7 +10052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Gauntlet | 156720 | [156720-robo-gauntlet.json](./156720-robo-gauntlet.json) |
 | Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Hop | 399787 | [399787-robo-hop.json](./399787-robo-hop.json) |
-| Robo Inc Project | 121090 | [121090-robo-inc-project.json](./121090-robo-inc-project.json) |
 | Robo Jumper 3D | 102276 | [102276-robo-jumper-3d.json](./102276-robo-jumper-3d.json) |
 | Robo Legend | 202555 | [202555-robo-legend.json](./202555-robo-legend.json) |
 | Robo Meltdown | 135352 | [135352-robo-meltdown.json](./135352-robo-meltdown.json) |
