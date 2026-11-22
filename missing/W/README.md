@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
 | Warmle | 210589 | [210589-warmle.json](./210589-warmle.json) |
+| Warmode | 34735 | [34735-warmode.json](./34735-warmode.json) |
 | Warmonger | 87771 | [87771-warmonger.json](./87771-warmonger.json) |
 | Warmonger: Operation - Downtown Destruction | 69657 | [69657-warmonger-operation-downtown-destruction.json](./69657-warmonger-operation-downtown-destruction.json) |
 | Warmonger: Sins of the Naga | 199605 | [199605-warmonger-sins-of-the-naga.json](./199605-warmonger-sins-of-the-naga.json) |
@@ -3454,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
+| Weapons Genius | 34843 | [34843-weapons-genius.json](./34843-weapons-genius.json) |
 | Weapons Genius VR | 132437 | [132437-weapons-genius-vr.json](./132437-weapons-genius-vr.json) |
 | Weapons Knight | 165786 | [165786-weapons-knight.json](./165786-weapons-knight.json) |
 | Weapons of Mythology: New Age | 31442 | [31442-weapons-of-mythology-new-age.json](./31442-weapons-of-mythology-new-age.json) |
@@ -6024,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild in the West | 295588 | [295588-wild-in-the-west.json](./295588-wild-in-the-west.json) |
 | Wild Indigo Ranch | 199596 | [199596-wild-indigo-ranch.json](./199596-wild-indigo-ranch.json) |
 | Wild Island | 384272 | [384272-wild-island.json](./384272-wild-island.json) |
+| Wild Island Quest | 34693 | [34693-wild-island-quest.json](./34693-wild-island-quest.json) |
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jack: Card Gobang | 140147 | [140147-wild-jack-card-gobang.json](./140147-wild-jack-card-gobang.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
