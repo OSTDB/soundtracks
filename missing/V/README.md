@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valden Saga | 250694 | [250694-valden-saga.json](./250694-valden-saga.json) |
 | Valdis | 361991 | [361991-valdis.json](./361991-valdis.json) |
 | Valdis | 377296 | [377296-valdis.json](./377296-valdis.json) |
+| Valdrin | 425685 | [425685-valdrin.json](./425685-valdrin.json) |
 | Valdrys | 418391 | [418391-valdrys.json](./418391-valdrys.json) |
 | Vale | 263012 | [263012-vale.json](./263012-vale.json) |
 | Vale | 304641 | [304641-vale.json](./304641-vale.json) |
@@ -4943,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTuber Connect | 223234 | [223234-vtuber-connect.json](./223234-vtuber-connect.json) |
 | VTuber Manager | 282253 | [282253-vtuber-manager.json](./282253-vtuber-manager.json) |
 | Vtuber ni Kusokome wo Okuru Typing Game | 362397 | [362397-vtuber-ni-kusokome-wo-okuru-typing-game.json](./362397-vtuber-ni-kusokome-wo-okuru-typing-game.json) |
+| Vtuber Paranoia | 426135 | [426135-vtuber-paranoia.json](./426135-vtuber-paranoia.json) |
 | Vtuber Sex Manager | 385622 | [385622-vtuber-sex-manager.json](./385622-vtuber-sex-manager.json) |
 | Vtuber Simulator | 192193 | [192193-vtuber-simulator.json](./192193-vtuber-simulator.json) |
 | Vtuber Story | 375745 | [375745-vtuber-story.json](./375745-vtuber-story.json) |
