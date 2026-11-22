@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camazotz no Shuugou | 394764 | [394764-camazotz-no-shuugou.json](./394764-camazotz-no-shuugou.json) |
 | Camazotz no Tanjou | 394692 | [394692-camazotz-no-tanjou.json](./394692-camazotz-no-tanjou.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
+| Cambell’s Oddity Box: Sticker Shock | 428173 | [428173-cambell-s-oddity-box-sticker-shock.json](./428173-cambell-s-oddity-box-sticker-shock.json) |
 | Cambion | 383915 | [383915-cambion.json](./383915-cambion.json) |
 | Cambo: Webbed Fist | 307126 | [307126-cambo-webbed-fist.json](./307126-cambo-webbed-fist.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case of Dungeons | 268808 | [268808-case-of-dungeons.json](./268808-case-of-dungeons.json) |
 | Case of the Canvas | 301475 | [301475-case-of-the-canvas.json](./301475-case-of-the-canvas.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
+| Case Opened | 428603 | [428603-case-opened.json](./428603-case-opened.json) |
 | Case Opener Guns | 111934 | [111934-case-opener-guns.json](./111934-case-opener-guns.json) |
 | Case Records: Fear of Abduction | 294017 | [294017-case-records-fear-of-abduction.json](./294017-case-records-fear-of-abduction.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
@@ -21042,6 +21044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowcape Zero | 425291 | [425291-crowcape-zero.json](./425291-crowcape-zero.json) |
 | Crowd | 263109 | [263109-crowd.json](./263109-crowd.json) |
 | Crowd | 390872 | [390872-crowd.json](./390872-crowd.json) |
+| Crowd Arcade | 428606 | [428606-crowd-arcade.json](./428606-crowd-arcade.json) |
 | Crowd City | 118715 | [118715-crowd-city.json](./118715-crowd-city.json) |
 | Crowd City | 268535 | [268535-crowd-city.json](./268535-crowd-city.json) |
 | Crowd City: Complete Edition | 270299 | [270299-crowd-city-complete-edition.json](./270299-crowd-city-complete-edition.json) |
