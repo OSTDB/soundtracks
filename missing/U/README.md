@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
 | Uayeb | 29539 | [29539-uayeb.json](./29539-uayeb.json) |
+| Ubai 0 | 425703 | [425703-ubai-0.json](./425703-ubai-0.json) |
 | Ubai Ending | 417218 | [417218-ubai-ending.json](./417218-ubai-ending.json) |
 | Ubai: To Take Another Man's Property | 384000 | [384000-ubai-to-take-another-mans-property.json](./384000-ubai-to-take-another-mans-property.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
@@ -3336,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until North Ends | 391385 | [391385-until-north-ends.json](./391385-until-north-ends.json) |
 | Until Oblivion | 309908 | [309908-until-oblivion.json](./309908-until-oblivion.json) |
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
+| Until Somewhere | 426256 | [426256-until-somewhere.json](./426256-until-somewhere.json) |
 | Until Sunset | 155917 | [155917-until-sunset.json](./155917-until-sunset.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
 | Until the End | 370594 | [370594-until-the-end.json](./370594-until-the-end.json) |
