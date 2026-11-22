@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cagara | 13986 | [13986-cagara.json](./13986-cagara.json) |
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
+| Cage Empire: MMA Manager | 427459 | [427459-cage-empire-mma-manager.json](./427459-cage-empire-mma-manager.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage Fight 3D | 220054 | [220054-cage-fight-3d.json](./220054-cage-fight-3d.json) |
 | Cage Grind | 417757 | [417757-cage-grind.json](./417757-cage-grind.json) |
@@ -2681,7 +2682,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Transport Simulator | 52485 | [52485-car-transport-simulator.json](./52485-car-transport-simulator.json) |
-| Car Tune: Project | 114872 | [114872-car-tune-project.json](./114872-car-tune-project.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tuning Garage Simulator | 364143 | [364143-car-tuning-garage-simulator.json](./364143-car-tuning-garage-simulator.json) |
 | Car Tuning Simulator | 188160 | [188160-car-tuning-simulator.json](./188160-car-tuning-simulator.json) |
@@ -7086,7 +7086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Sisters | 177248 | [177248-chaos-sisters.json](./177248-chaos-sisters.json) |
 | Chaos Squad | 371843 | [371843-chaos-squad.json](./371843-chaos-squad.json) |
-| Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos Stone Wars | 331382 | [331382-chaos-stone-wars.json](./331382-chaos-stone-wars.json) |
 | Chaos Storm: Strategy Edition | 236435 | [236435-chaos-storm-strategy-edition.json](./236435-chaos-storm-strategy-edition.json) |
 | Chaos Tavern | 120538 | [120538-chaos-tavern.json](./120538-chaos-tavern.json) |
@@ -7311,7 +7310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chart Weaver | 382892 | [382892-chart-weaver.json](./382892-chart-weaver.json) |
 | Chart1647 | 242654 | [242654-chart1647.json](./242654-chart1647.json) |
 | Charta Dungeon: Ambidextrous | 344514 | [344514-charta-dungeon-ambidextrous.json](./344514-charta-dungeon-ambidextrous.json) |
-| Charterstone: Digital Edition | 117869 | [117869-charterstone-digital-edition.json](./117869-charterstone-digital-edition.json) |
 | Chartle | 383786 | [383786-chartle.json](./383786-chartle.json) |
 | Chartreuse Star Adventure | 268671 | [268671-chartreuse-star-adventure.json](./268671-chartreuse-star-adventure.json) |
 | Charumera | 64578 | [64578-charumera.json](./64578-charumera.json) |
@@ -8450,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief Challenge | 335473 | [335473-chief-challenge.json](./335473-chief-challenge.json) |
 | Chief Emoji Officer | 240702 | [240702-chief-emoji-officer.json](./240702-chief-emoji-officer.json) |
 | Chief Miner | 373357 | [373357-chief-miner.json](./373357-chief-miner.json) |
+| Chief of the Valley | 427462 | [427462-chief-of-the-valley.json](./427462-chief-of-the-valley.json) |
 | Chief? About That File... | 424797 | [424797-chief-about-that-file.json](./424797-chief-about-that-file.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
@@ -9568,7 +9567,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Sweeper 3 | 227365 | [227365-christmas-sweeper-3.json](./227365-christmas-sweeper-3.json) |
 | Christmas Tale - Visual Novel | 81719 | [81719-christmas-tale-visual-novel.json](./81719-christmas-tale-visual-novel.json) |
 | Christmas Time 2019 | 114326 | [114326-christmas-time-2019.json](./114326-christmas-time-2019.json) |
-| Christmas Tina | 117085 | [117085-christmas-tina.json](./117085-christmas-tina.json) |
 | Christmas Town: Passion House | 207795 | [207795-christmas-town-passion-house.json](./207795-christmas-town-passion-house.json) |
 | Christmas Tree Decorating Simulator | 324993 | [324993-christmas-tree-decorating-simulator.json](./324993-christmas-tree-decorating-simulator.json) |
 | Christmas Tree Decorator | 323445 | [323445-christmas-tree-decorator.json](./323445-christmas-tree-decorator.json) |
@@ -9868,6 +9866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ghost | 113417 | [113417-chrono-ghost.json](./113417-chrono-ghost.json) |
 | Chrono Hunter | 253190 | [253190-chrono-hunter.json](./253190-chrono-hunter.json) |
 | Chrono Impact | 369095 | [369095-chrono-impact.json](./369095-chrono-impact.json) |
+| Chrono Keep | 427322 | [427322-chrono-keep.json](./427322-chrono-keep.json) |
 | Chrono Knight | 305315 | [305315-chrono-knight.json](./305315-chrono-knight.json) |
 | Chrono Ma:Gia | 86680 | [86680-chrono-ma-gia.json](./86680-chrono-ma-gia.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
@@ -17651,6 +17650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Soldier: Psychic War | 2459 | [2459-cosmic-soldier-psychic-war.json](./2459-cosmic-soldier-psychic-war.json) |
+| Cosmic Space Attack | 427028 | [427028-cosmic-space-attack.json](./427028-cosmic-space-attack.json) |
 | Cosmic Spacehead | 12013 | [12013-cosmic-spacehead.json](./12013-cosmic-spacehead.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
@@ -18090,7 +18090,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Desert Simulator: Addon SUV | 172205 | [172205-country-desert-simulator-addon-suv.json](./172205-country-desert-simulator-addon-suv.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
 | Country Friends | 58971 | [58971-country-friends.json](./58971-country-friends.json) |
-| Country Girl Keiko | 117867 | [117867-country-girl-keiko.json](./117867-country-girl-keiko.json) |
 | Country Hero | 346561 | [346561-country-hero.json](./346561-country-hero.json) |
 | Country Hopper | 398412 | [398412-country-hopper.json](./398412-country-hopper.json) |
 | Country House | 169983 | [169983-country-house.json](./169983-country-house.json) |
@@ -18452,6 +18451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
 | Cozy Holiday | 380344 | [380344-cozy-holiday.json](./380344-cozy-holiday.json) |
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
+| Cozy Home Cleanup | 427466 | [427466-cozy-home-cleanup.json](./427466-cozy-home-cleanup.json) |
 | Cozy Home Unpacking | 403736 | [403736-cozy-home-unpacking.json](./403736-cozy-home-unpacking.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
 | Cozy Hunt: Complete Edition | 342369 | [342369-cozy-hunt-complete-edition.json](./342369-cozy-hunt-complete-edition.json) |
@@ -19843,7 +19843,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
 | Creature Evolution Simulator | 265470 | [265470-creature-evolution-simulator.json](./265470-creature-evolution-simulator.json) |
 | Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
-| Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature in the Well | 116417 | [116417-creature-in-the-well.json](./116417-creature-in-the-well.json) |
 | Creature in the Well: Collector's Edition | 254227 | [254227-creature-in-the-well-collectors-edition.json](./254227-creature-in-the-well-collectors-edition.json) |
@@ -21071,6 +21070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowded Mysteries 2: Winter Romance | 320334 | [320334-crowded-mysteries-2-winter-romance.json](./320334-crowded-mysteries-2-winter-romance.json) |
 | Crowded: A Crow City Builder | 361021 | [361021-crowded-a-crow-city-builder.json](./361021-crowded-a-crow-city-builder.json) |
 | Crowded. Followed. | 311200 | [311200-crowded-followed.json](./311200-crowded-followed.json) |
+| CrowdPit | 427026 | [427026-crowdpit.json](./427026-crowdpit.json) |
 | Crowdy Farm Puzzle | 147612 | [147612-crowdy-farm-puzzle.json](./147612-crowdy-farm-puzzle.json) |
 | Crowdy Farm Rush | 147614 | [147614-crowdy-farm-rush.json](./147614-crowdy-farm-rush.json) |
 | Crowe: The Drowned Armory | 38811 | [38811-crowe-the-drowned-armory.json](./38811-crowe-the-drowned-armory.json) |
@@ -21286,7 +21286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumpets | 141484 | [141484-crumpets.json](./141484-crumpets.json) |
 | Crumpets 2 | 287308 | [287308-crumpets-2.json](./287308-crumpets-2.json) |
 | Crumple Toss | 425565 | [425565-crumple-toss.json](./425565-crumple-toss.json) |
-| Crumple Zone | 117365 | [117365-crumple-zone.json](./117365-crumple-zone.json) |
 | Crumps | 334270 | [334270-crumps.json](./334270-crumps.json) |
 | Crunch | 119478 | [119478-crunch.json](./119478-crunch.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
@@ -21680,7 +21679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptr | 201673 | [201673-cryptr.json](./201673-cryptr.json) |
 | Cryptract | 110859 | [110859-cryptract.json](./110859-cryptract.json) |
 | Cryptrio | 291501 | [291501-cryptrio.json](./291501-cryptrio.json) |
-| Cryptrunner | 117090 | [117090-cryptrunner.json](./117090-cryptrunner.json) |
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Chaos | 22691 | [22691-crypts-of-chaos.json](./22691-crypts-of-chaos.json) |
@@ -22848,7 +22846,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosity: What's Inside the Cube? | 23164 | [23164-curiosity-whats-inside-the-cube.json](./23164-curiosity-whats-inside-the-cube.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curious Alice | 150456 | [150456-curious-alice.json](./150456-curious-alice.json) |
-| Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
 | Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 | 115711 | [115711-curious-expedition-2.json](./115711-curious-expedition-2.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
@@ -23649,7 +23646,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
 | Cyber Girls 2022 | 189878 | [189878-cyber-girls-2022.json](./189878-cyber-girls-2022.json) |
 | Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
-| Cyber Gun | 117382 | [117382-cyber-gun.json](./117382-cyber-gun.json) |
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hacker | 197980 | [197980-cyber-hacker.json](./197980-cyber-hacker.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
