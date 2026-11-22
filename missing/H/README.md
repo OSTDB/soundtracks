@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Lost Valley | 358624 | [358624-harvest-moon-the-lost-valley.json](./358624-harvest-moon-the-lost-valley.json) |
 | Harvest Moon: The Lost Valley | 7419 | [7419-harvest-moon-the-lost-valley.json](./7419-harvest-moon-the-lost-valley.json) |
 | Harvest Moon: The Tale of Two Towns | 3392 | [3392-harvest-moon-the-tale-of-two-towns.json](./3392-harvest-moon-the-tale-of-two-towns.json) |
+| Harvest Moon: The Winds of Anthos | 228855 | [228855-harvest-moon-the-winds-of-anthos.json](./228855-harvest-moon-the-winds-of-anthos.json) |
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Interior Design & Tool Upgrade Pack | 404553 | [404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json](./404553-harvest-moon-the-winds-of-anthos-interior-design-and-tool-upgrade-pack.json) |
 | Harvest Moon: The Winds of Anthos - New Crops, Fish, and Recipes Pack | 269377 | [269377-harvest-moon-the-winds-of-anthos-new-crops-fish-and-recipes-pack.json](./269377-harvest-moon-the-winds-of-anthos-new-crops-fish-and-recipes-pack.json) |
@@ -10457,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Space | 323005 | [323005-hollow-space.json](./323005-hollow-space.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
+| Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
 | Hollow Throne | 76812 | [76812-hollow-throne.json](./76812-hollow-throne.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
@@ -13848,6 +13850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Jungle | 277988 | [277988-hungry-jungle.json](./277988-hungry-jungle.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
+| Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
 | Hungry Mouse | 297824 | [297824-hungry-mouse.json](./297824-hungry-mouse.json) |
@@ -14867,6 +14870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypervox | 393191 | [393191-hypervox.json](./393191-hypervox.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
+| Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
 | Hyperwurm Is Back! | 400714 | [400714-hyperwurm-is-back.json](./400714-hyperwurm-is-back.json) |
 | HyperXBall | 65103 | [65103-hyperxball.json](./65103-hyperxball.json) |
 | HyperYuki: Snowboard Syndicate | 366586 | [366586-hyperyuki-snowboard-syndicate.json](./366586-hyperyuki-snowboard-syndicate.json) |
