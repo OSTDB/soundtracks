@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Knight | 177464 | [177464-idol-knight.json](./177464-idol-knight.json) |
 | Idol Land PriPara | 266402 | [266402-idol-land-pripara.json](./266402-idol-land-pripara.json) |
 | Idol Magical Girl Chiru Chiru Michiru | 11538 | [11538-idol-magical-girl-chiru-chiru-michiru.json](./11538-idol-magical-girl-chiru-chiru-michiru.json) |
+| Idol Magical Girl Chiru Chiru Michiru Part 1 | 35042 | [35042-idol-magical-girl-chiru-chiru-michiru-part-1.json](./35042-idol-magical-girl-chiru-chiru-michiru-part-1.json) |
 | Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Inca II: Nations of Immortality | 50272 | [50272-inca-ii-nations-of-immortality.json](./50272-inca-ii-nations-of-immortality.json) |
 | Incadia | 94373 | [94373-incadia.json](./94373-incadia.json) |
+| Incandescent | 34997 | [34997-incandescent.json](./34997-incandescent.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
 | Incantation | 278670 | [278670-incantation.json](./278670-incantation.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incision | 166062 | [166062-incision.json](./166062-incision.json) |
 | Incite | 183187 | [183187-incite.json](./183187-incite.json) |
+| Incitement 3 | 34745 | [34745-incitement-3.json](./34745-incitement-3.json) |
 | Inclement | 113073 | [113073-inclement.json](./113073-inclement.json) |
 | Inclement Idée Fixe | 382802 | [382802-inclement-idee-fixe.json](./382802-inclement-idee-fixe.json) |
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
