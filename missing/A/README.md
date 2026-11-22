@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
 | After the Fall | 203158 | [203158-after-the-fall.json](./203158-after-the-fall.json) |
 | After the Fall | 257177 | [257177-after-the-fall.json](./257177-after-the-fall.json) |
+| After the Fall: Complete Edition | 237751 | [237751-after-the-fall-complete-edition.json](./237751-after-the-fall-complete-edition.json) |
 | After the Fall: Frontrunner Edition | 191495 | [191495-after-the-fall-frontrunner-edition.json](./191495-after-the-fall-frontrunner-edition.json) |
 | After the Fall: Frontrunner Season | 204497 | [204497-after-the-fall-frontrunner-season.json](./204497-after-the-fall-frontrunner-season.json) |
 | After the Fall: Launch Edition | 196313 | [196313-after-the-fall-launch-edition.json](./196313-after-the-fall-launch-edition.json) |
@@ -12519,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: City Lights Pack | 227411 | [227411-anno-1800-city-lights-pack.json](./227411-anno-1800-city-lights-pack.json) |
 | Anno 1800: Complete Edition Year 3 | 146123 | [146123-anno-1800-complete-edition-year-3.json](./146123-anno-1800-complete-edition-year-3.json) |
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
+| Anno 1800: Console Edition | 231778 | [231778-anno-1800-console-edition.json](./231778-anno-1800-console-edition.json) |
 | Anno 1800: Console Edition - Deluxe Edition | 241080 | [241080-anno-1800-console-edition-deluxe-edition.json](./241080-anno-1800-console-edition-deluxe-edition.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
 | Anno 1800: Cosmetic Pack Bundle 2 | 272643 | [272643-anno-1800-cosmetic-pack-bundle-2.json](./272643-anno-1800-cosmetic-pack-bundle-2.json) |
