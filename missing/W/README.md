@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords II: Scenario Builder | 100044 | [100044-warlords-ii-scenario-builder.json](./100044-warlords-ii-scenario-builder.json) |
 | Warlords III: Darklords Rising | 931 | [931-warlords-iii-darklords-rising.json](./931-warlords-iii-darklords-rising.json) |
 | Warlords III: Frontier | 401822 | [401822-warlords-iii-frontier.json](./401822-warlords-iii-frontier.json) |
+| Warlords IV: Heroes of Etheria | 24182 | [24182-warlords-iv-heroes-of-etheria.json](./24182-warlords-iv-heroes-of-etheria.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords: Call to Arms | 63227 | [63227-warlords-call-to-arms.json](./63227-warlords-call-to-arms.json) |
@@ -9879,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Racing | 46923 | [46923-world-tour-racing.json](./46923-world-tour-racing.json) |
 | World Tour Soccer | 22291 | [22291-world-tour-soccer.json](./22291-world-tour-soccer.json) |
+| World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
 | World Tour Soccer 2003 | 71327 | [71327-world-tour-soccer-2003.json](./71327-world-tour-soccer-2003.json) |
 | World Tour Soccer: Challenge Edition | 77087 | [77087-world-tour-soccer-challenge-edition.json](./77087-world-tour-soccer-challenge-edition.json) |
 | World Tour Tennis | 29140 | [29140-world-tour-tennis.json](./29140-world-tour-tennis.json) |
