@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
 | Ultimate Action Triple Pack | 56722 | [56722-ultimate-action-triple-pack.json](./56722-ultimate-action-triple-pack.json) |
+| Ultimate Admiral: Age of Sail | 118323 | [118323-ultimate-admiral-age-of-sail.json](./118323-ultimate-admiral-age-of-sail.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
 | Ultimate ADOM: Caverns of Chaos - Save the World Edition | 186876 | [186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json](./186876-ultimate-adom-caverns-of-chaos-save-the-world-edition.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Oath | 193989 | [193989-under-oath.json](./193989-under-oath.json) |
 | Under Observation | 227871 | [227871-under-observation.json](./227871-under-observation.json) |
 | Under One Wing | 114811 | [114811-under-one-wing.json](./114811-under-one-wing.json) |
+| Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
 | Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
