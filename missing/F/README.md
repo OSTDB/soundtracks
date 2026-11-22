@@ -9358,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flitspire | 184748 | [184748-flitspire.json](./184748-flitspire.json) |
 | Flitter Inc. | 103101 | [103101-flitter-inc.json](./103101-flitter-inc.json) |
+| Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
 | Flix and Chill 2: Millennials | 44087 | [44087-flix-and-chill-2-millennials.json](./44087-flix-and-chill-2-millennials.json) |
 | Flix the Flea | 10323 | [10323-flix-the-flea.json](./10323-flix-the-flea.json) |
 | Flixfam Abenteuer | 409215 | [409215-flixfam-abenteuer.json](./409215-flixfam-abenteuer.json) |
@@ -14211,6 +14212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Hands Steve | 147204 | [147204-frog-hands-steve.json](./147204-frog-hands-steve.json) |
 | Frog Heist | 342202 | [342202-frog-heist.json](./342202-frog-heist.json) |
 | Frog Holm | 309811 | [309811-frog-holm.json](./309811-frog-holm.json) |
+| Frog Hop | 30021 | [30021-frog-hop.json](./30021-frog-hop.json) |
 | Frog in a Blender | 282803 | [282803-frog-in-a-blender.json](./282803-frog-in-a-blender.json) |
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog in the Hole! | 421877 | [421877-frog-in-the-hole.json](./421877-frog-in-the-hole.json) |
@@ -14905,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Adventure Returns | 332531 | [332531-fruit-adventure-returns.json](./332531-fruit-adventure-returns.json) |
 | Fruit am I? | 229194 | [229194-fruit-am-i.json](./229194-fruit-am-i.json) |
+| Fruit Arranger | 29863 | [29863-fruit-arranger.json](./29863-fruit-arranger.json) |
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Attacks VR | 81113 | [81113-fruit-attacks-vr.json](./81113-fruit-attacks-vr.json) |
