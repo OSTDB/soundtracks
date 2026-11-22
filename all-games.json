@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-22T09:25:59.842Z",
-  "total_soundtracks": 3905,
+  "generated_at": "2026-11-22T09:55:54.716Z",
+  "total_soundtracks": 3906,
   "games": [
     {
       "igdb_id": 292844,
@@ -47981,6 +47981,20 @@
         {
           "album_name": "Void Scrappers (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2vVmwLLbKclxpmgBf25buW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116267,
+      "game_name": "Voidrun",
+      "game_url": "https://ostdb.net/games/voidrun",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e7068049972db070b5eab7e6",
+      "albums": [
+        {
+          "album_name": "Voidrun Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3DBtJAJLmG12ol5BlX2BTv",
           "apple_music_url": "",
           "album_link_url": ""
         }
