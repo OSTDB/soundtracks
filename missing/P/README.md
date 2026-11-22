@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Paw Death Festival | 309938 | [309938-paw-paw-death-festival.json](./309938-paw-paw-death-festival.json) |
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
 | Paw Paw Miaw | 286360 | [286360-paw-paw-miaw.json](./286360-paw-paw-miaw.json) |
+| Paw Paw Paw | 118289 | [118289-paw-paw-paw.json](./118289-paw-paw-paw.json) |
 | Paw Pirates | 310841 | [310841-paw-pirates.json](./310841-paw-pirates.json) |
 | Paw Tales: Eternal Bond | 424315 | [424315-paw-tales-eternal-bond.json](./424315-paw-tales-eternal-bond.json) |
 | Paw's Boba Shop | 414737 | [414737-paws-boba-shop.json](./414737-paws-boba-shop.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petlings: Merge & Battle | 428217 | [428217-petlings-merge-and-battle.json](./428217-petlings-merge-and-battle.json) |
 | Petmagotchi | 387102 | [387102-petmagotchi.json](./387102-petmagotchi.json) |
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
+| Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petown | 99271 | [99271-petown.json](./99271-petown.json) |
 | Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
 | Petra and the Thylacine | 149815 | [149815-petra-and-the-thylacine.json](./149815-petra-and-the-thylacine.json) |
