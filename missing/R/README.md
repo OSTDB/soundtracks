@@ -400,7 +400,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
-| Race for Tuning | 115167 | [115167-race-for-tuning.json](./115167-race-for-tuning.json) |
 | Race for Your Life | 190114 | [190114-race-for-your-life.json](./190114-race-for-your-life.json) |
 | Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
@@ -697,7 +696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiance of Annihilation: Disorder Eclipse | 397752 | [397752-radiance-of-annihilation-disorder-eclipse.json](./397752-radiance-of-annihilation-disorder-eclipse.json) |
 | Radiance of Souls | 392960 | [392960-radiance-of-souls.json](./392960-radiance-of-souls.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
-| Radiant Arc | 117142 | [117142-radiant-arc.json](./117142-radiant-arc.json) |
 | Radiant Baby | 185397 | [185397-radiant-baby.json](./185397-radiant-baby.json) |
 | Radiant Bricks | 278118 | [278118-radiant-bricks.json](./278118-radiant-bricks.json) |
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
@@ -792,7 +790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Farm | 383690 | [383690-radio-farm.json](./383690-radio-farm.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radio Free Europa | 193271 | [193271-radio-free-europa.json](./193271-radio-free-europa.json) |
-| Radio General | 117643 | [117643-radio-general.json](./117643-radio-general.json) |
 | Radio General: Water Rats | 213490 | [213490-radio-general-water-rats.json](./213490-radio-general-water-rats.json) |
 | Radio Hammer Station | 74966 | [74966-radio-hammer-station.json](./74966-radio-hammer-station.json) |
 | Radio Heart: Lofi Hours | 405283 | [405283-radio-heart-lofi-hours.json](./405283-radio-heart-lofi-hours.json) |
@@ -1112,7 +1109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
 | Rags to Riches | 397233 | [397233-rags-to-riches.json](./397233-rags-to-riches.json) |
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
-| Ragtag | 114969 | [114969-ragtag.json](./114969-ragtag.json) |
 | Ragtag Adventurers | 76784 | [76784-ragtag-adventurers.json](./76784-ragtag-adventurers.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Racing | 165723 | [165723-ragtag-racing.json](./165723-ragtag-racing.json) |
@@ -2973,7 +2969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDomino | 419067 | [419067-rdomino.json](./419067-rdomino.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
-| RDS: The Official Drift Videogame | 115128 | [115128-rds-the-official-drift-videogame.json](./115128-rds-the-official-drift-videogame.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
@@ -3469,7 +3464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Rode | 221457 | [221457-real-rode.json](./221457-real-rode.json) |
 | Real Rode Portable | 221458 | [221458-real-rode-portable.json](./221458-real-rode-portable.json) |
-| Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
 | Real Soccer | 52696 | [52696-real-soccer.json](./52696-real-soccer.json) |
@@ -3540,6 +3534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real World Racing RWR: Z | 10756 | [10756-real-world-racing-rwr-z.json](./10756-real-world-racing-rwr-z.json) |
 | Real World RC | 240353 | [240353-real-world-rc.json](./240353-real-world-rc.json) |
 | Real Wrestling Fighting Game | 266255 | [266255-real-wrestling-fighting-game.json](./266255-real-wrestling-fighting-game.json) |
+| Real Zombie Survivors | 427009 | [427009-real-zombie-survivors.json](./427009-real-zombie-survivors.json) |
 | Real Zombie War Simulator | 237297 | [237297-real-zombie-war-simulator.json](./237297-real-zombie-war-simulator.json) |
 | Real-Galaxy | 56087 | [56087-real-galaxy.json](./56087-real-galaxy.json) |
 | Real-Gostop VR | 293664 | [293664-real-gostop-vr.json](./293664-real-gostop-vr.json) |
@@ -4414,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Comrades: For the Great Justice | 52753 | [52753-red-comrades-for-the-great-justice.json](./52753-red-comrades-for-the-great-justice.json) |
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Core Division | 357699 | [357699-red-core-division.json](./357699-red-core-division.json) |
+| Red Crayon Means Poppies | 427456 | [427456-red-crayon-means-poppies.json](./427456-red-crayon-means-poppies.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
 | Red Cross: Emergency Response Unit | 146498 | [146498-red-cross-emergency-response-unit.json](./146498-red-cross-emergency-response-unit.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
@@ -4844,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Evil | 95096 | [95096-redemption-cemetery-evil.json](./95096-redemption-cemetery-evil.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
+| Redemption Cemetery: Night Terrors - Collector's Edition | 427002 | [427002-redemption-cemetery-night-terrors-collectors-edition.json](./427002-redemption-cemetery-night-terrors-collectors-edition.json) |
 | Redemption Cemetery: One Foot in the Grave | 427039 | [427039-redemption-cemetery-one-foot-in-the-grave.json](./427039-redemption-cemetery-one-foot-in-the-grave.json) |
 | Redemption Cemetery: One Foot in the Grave - Collector's Edition | 427040 | [427040-redemption-cemetery-one-foot-in-the-grave-collectors-edition.json](./427040-redemption-cemetery-one-foot-in-the-grave-collectors-edition.json) |
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
@@ -10289,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robosynthesis | 405092 | [405092-robosynthesis.json](./405092-robosynthesis.json) |
 | Robot | 267795 | [267795-robot.json](./267795-robot.json) |
 | Robot | 94301 | [94301-robot.json](./94301-robot.json) |
+| Robot 1 in... The Planet of Death | 427010 | [427010-robot-1-in-the-planet-of-death.json](./427010-robot-1-in-the-planet-of-death.json) |
 | Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
 | Robot Alchemic Drive | 24083 | [24083-robot-alchemic-drive.json](./24083-robot-alchemic-drive.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
