@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
 | Game of Thrones: Conquest | 56967 | [56967-game-of-thrones-conquest.json](./56967-game-of-thrones-conquest.json) |
 | Game of Thrones: Dragonfire | 418431 | [418431-game-of-thrones-dragonfire.json](./418431-game-of-thrones-dragonfire.json) |
+| Game of Thrones: Kingsroad - Ultimate Pack | 426337 | [426337-game-of-thrones-kingsroad-ultimate-pack.json](./426337-game-of-thrones-kingsroad-ultimate-pack.json) |
 | Game of Thrones: Legends | 330384 | [330384-game-of-thrones-legends.json](./330384-game-of-thrones-legends.json) |
 | Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game of Thrones: Tale of Crows | 136535 | [136535-game-of-thrones-tale-of-crows.json](./136535-game-of-thrones-tale-of-crows.json) |
@@ -3060,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
 | Gemblades | 386881 | [386881-gemblades.json](./386881-gemblades.json) |
 | Gembot | 419689 | [419689-gembot.json](./419689-gembot.json) |
+| Gembound | 426684 | [426684-gembound.json](./426684-gembound.json) |
 | GemBreak | 32813 | [32813-gembreak.json](./32813-gembreak.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
 | GemCraft | 23979 | [23979-gemcraft.json](./23979-gemcraft.json) |
@@ -5661,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Pilot | 262115 | [262115-glider-pilot.json](./262115-glider-pilot.json) |
 | Glider Pro | 92749 | [92749-glider-pro.json](./92749-glider-pro.json) |
+| Glider Retro | 426835 | [426835-glider-retro.json](./426835-glider-retro.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
 | Glider Sim Lite: Soaring Simulator | 423492 | [423492-glider-sim-lite-soaring-simulator.json](./423492-glider-sim-lite-soaring-simulator.json) |
@@ -7635,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenLand | 256693 | [256693-goldenland.json](./256693-goldenland.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
+| Goldenwort | 426400 | [426400-goldenwort.json](./426400-goldenwort.json) |
 | Goldfinger 64 | 194834 | [194834-goldfinger-64.json](./194834-goldfinger-64.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
 | Goldfish Brain | 142952 | [142952-goldfish-brain.json](./142952-goldfish-brain.json) |
