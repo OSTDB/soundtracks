@@ -1168,7 +1168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammal | 287521 | [287521-hammal.json](./287521-hammal.json) |
 | Hammena Dreams | 109267 | [109267-hammena-dreams.json](./109267-hammena-dreams.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
-| Hammer & Anvil VR | 114860 | [114860-hammer-and-anvil-vr.json](./114860-hammer-and-anvil-vr.json) |
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer & Sickle | 22581 | [22581-hammer-and-sickle.json](./22581-hammer-and-sickle.json) |
@@ -1527,7 +1526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Simulator: Rendezvous | 220031 | [220031-hand-simulator-rendezvous.json](./220031-hand-simulator-rendezvous.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
 | Hand Simulator: Survival | 127156 | [127156-hand-simulator-survival.json](./127156-hand-simulator-survival.json) |
-| Hand to Hand Combat | 118004 | [118004-hand-to-hand-combat.json](./118004-hand-to-hand-combat.json) |
 | Hand to Hand Combat VR | 122984 | [122984-hand-to-hand-combat-vr.json](./122984-hand-to-hand-combat-vr.json) |
 | Hand-Drawn Epic Adventures | 330437 | [330437-hand-drawn-epic-adventures.json](./330437-hand-drawn-epic-adventures.json) |
 | Hand-Holding Simulator | 326404 | [326404-hand-holding-simulator.json](./326404-hand-holding-simulator.json) |
@@ -2067,7 +2065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Weekend: WonderGOO Exclusive Set | 418831 | [418831-happy-weekend-wondergoo-exclusive-set.json](./418831-happy-weekend-wondergoo-exclusive-set.json) |
 | Happy Wheels 2 | 95839 | [95839-happy-wheels-2.json](./95839-happy-wheels-2.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
-| Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | Happy World | 118445 | [118445-happy-world.json](./118445-happy-world.json) |
 | Happy World | 273979 | [273979-happy-world.json](./273979-happy-world.json) |
 | Happy World 2 | 336487 | [336487-happy-world-2.json](./336487-happy-world-2.json) |
@@ -8564,7 +8561,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
 | Hidden Rule | 361341 | [361341-hidden-rule.json](./361341-hidden-rule.json) |
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
-| Hidden Saga: Xamadeon Stone | 115160 | [115160-hidden-saga-xamadeon-stone.json](./115160-hidden-saga-xamadeon-stone.json) |
 | Hidden Sanctum | 396843 | [396843-hidden-sanctum.json](./396843-hidden-sanctum.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Secrets 2 | 95756 | [95756-hidden-secrets-2.json](./95756-hidden-secrets-2.json) |
@@ -10098,7 +10094,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Legacy Manager 26 | 365944 | [365944-hockey-legacy-manager-26.json](./365944-hockey-legacy-manager-26.json) |
 | Hockey Manager 20\|20 | 129979 | [129979-hockey-manager-20-20.json](./129979-hockey-manager-20-20.json) |
 | Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
-| Hockey Player VR | 117837 | [117837-hockey-player-vr.json](./117837-hockey-player-vr.json) |
 | Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
 | Hockey Puck Juggling | 239246 | [239246-hockey-puck-juggling.json](./239246-hockey-puck-juggling.json) |
 | Hockey Rage 2005 | 70576 | [70576-hockey-rage-2005.json](./70576-hockey-rage-2005.json) |
@@ -10559,7 +10554,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holobunnies: Pause Café | 27213 | [27213-holobunnies-pause-cafe.json](./27213-holobunnies-pause-cafe.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
 | HoloCall: Send Your Cheers! | 340478 | [340478-holocall-send-your-cheers.json](./340478-holocall-send-your-cheers.json) |
-| Holoception | 117460 | [117460-holoception.json](./117460-holoception.json) |
 | HoloCozy | 429606 | [429606-holocozy.json](./429606-holocozy.json) |
 | HoloCure Update 0.5 | 261916 | [261916-holocure-update-0-5.json](./261916-holocure-update-0-5.json) |
 | HoloCure: Save the Fans! | 206336 | [206336-holocure-save-the-fans.json](./206336-holocure-save-the-fans.json) |
@@ -11508,7 +11502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Falters | 408602 | [408602-hope-falters.json](./408602-hope-falters.json) |
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
 | Hope for love | 44142 | [44142-hope-for-love.json](./44142-hope-for-love.json) |
-| Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
 | Hope Harrison | 347406 | [347406-hope-harrison.json](./347406-hope-harrison.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
@@ -11563,7 +11556,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
 | Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
-| HopeLine | 114838 | [114838-hopeline.json](./114838-hopeline.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopetown | 329296 | [329296-hopetown.json](./329296-hopetown.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
@@ -12852,6 +12844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
 | House Ghost | 373842 | [373842-house-ghost.json](./373842-house-ghost.json) |
 | House Haunting | 208223 | [208223-house-haunting.json](./208223-house-haunting.json) |
+| House Heroes | 427458 | [427458-house-heroes.json](./427458-house-heroes.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House Hunted | 217759 | [217759-house-hunted.json](./217759-house-hunted.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
@@ -13157,7 +13150,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Bathe Your Cat: Impossible Mission | 187410 | [187410-how-to-bathe-your-cat-impossible-mission.json](./187410-how-to-bathe-your-cat-impossible-mission.json) |
 | How to Be a Complete Bastard | 13882 | [13882-how-to-be-a-complete-bastard.json](./13882-how-to-be-a-complete-bastard.json) |
 | How to be a Hero | 38925 | [38925-how-to-be-a-hero.json](./38925-how-to-be-a-hero.json) |
-| How to Be a Real Dude | 117392 | [117392-how-to-be-a-real-dude.json](./117392-how-to-be-a-real-dude.json) |
 | How to Be a Tree | 177185 | [177185-how-to-be-a-tree.json](./177185-how-to-be-a-tree.json) |
 | How to be Best Russian Game Developer | 292739 | [292739-how-to-be-best-russian-game-developer.json](./292739-how-to-be-best-russian-game-developer.json) |
 | How to be Happy | 128706 | [128706-how-to-be-happy.json](./128706-how-to-be-happy.json) |
@@ -14821,7 +14813,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
-| Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
 | Hyperliminal | 201960 | [201960-hyperliminal.json](./201960-hyperliminal.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
