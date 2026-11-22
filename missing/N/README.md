@@ -398,7 +398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana: Subete ha Daimaou no Omichibiki!? | 67430 | [67430-nana-subete-ha-daimaou-no-omichibiki.json](./67430-nana-subete-ha-daimaou-no-omichibiki.json) |
 | Nanaca Crash!!! | 139012 | [139012-nanaca-crash.json](./139012-nanaca-crash.json) |
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
-| Nanairo Reincarnation | 113845 | [113845-nanairo-reincarnation.json](./113845-nanairo-reincarnation.json) |
 | Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
 | NanaKnight | 360226 | [360226-nanaknight.json](./360226-nanaknight.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
@@ -1802,7 +1801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neckbeards: Basement Arena | 36699 | [36699-neckbeards-basement-arena.json](./36699-neckbeards-basement-arena.json) |
 | Neckbeards: Cuck Invaders | 81737 | [81737-neckbeards-cuck-invaders.json](./81737-neckbeards-cuck-invaders.json) |
 | Neckbreak | 308504 | [308504-neckbreak.json](./308504-neckbreak.json) |
-| Necken | 113788 | [113788-necken.json](./113788-necken.json) |
 | Necks Please... | 294212 | [294212-necks-please.json](./294212-necks-please.json) |
 | Neco Drop 2 | 145351 | [145351-neco-drop-2.json](./145351-neco-drop-2.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
@@ -1818,7 +1816,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
 | Necro Immortallis | 102398 | [102398-necro-immortallis.json](./102398-necro-immortallis.json) |
-| Necro Mutex | 113819 | [113819-necro-mutex.json](./113819-necro-mutex.json) |
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
 | Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
 | Necro Saga | 219504 | [219504-necro-saga.json](./219504-necro-saga.json) |
@@ -1860,7 +1857,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroKitty | 370734 | [370734-necrokitty.json](./370734-necrokitty.json) |
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
-| Necrolepsy | 114384 | [114384-necrolepsy.json](./114384-necrolepsy.json) |
 | Necrologium | 372404 | [372404-necrologium.json](./372404-necrologium.json) |
 | Necrology | 381660 | [381660-necrology.json](./381660-necrology.json) |
 | Necromage | 305706 | [305706-necromage.json](./305706-necromage.json) |
@@ -3746,7 +3742,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Leaf Traveler and Youth's Memories | 272708 | [272708-new-leaf-traveler-and-youths-memories.json](./272708-new-leaf-traveler-and-youths-memories.json) |
 | New Legend of Sword and Fairy | 77971 | [77971-new-legend-of-sword-and-fairy.json](./77971-new-legend-of-sword-and-fairy.json) |
 | New Lethes | 16993 | [16993-new-lethes.json](./16993-new-lethes.json) |
-| New Life | 114119 | [114119-new-life.json](./114119-new-life.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Life of Aged Town | 277133 | [277133-new-life-of-aged-town.json](./277133-new-life-of-aged-town.json) |
 | New LovePlus | 92165 | [92165-new-loveplus.json](./92165-new-loveplus.json) |
@@ -5704,7 +5699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine to Five | 127353 | [127353-nine-to-five.json](./127353-nine-to-five.json) |
 | Nine To Five (am) | 318701 | [318701-nine-to-five-am.json](./318701-nine-to-five-am.json) |
 | Nine Treasures of Liuyin | 303909 | [303909-nine-treasures-of-liuyin.json](./303909-nine-treasures-of-liuyin.json) |
-| Nine Trials | 114290 | [114290-nine-trials.json](./114290-nine-trials.json) |
 | Nine Trials | 223989 | [223989-nine-trials.json](./223989-nine-trials.json) |
 | Nine Witches: Family Disruption | 112201 | [112201-nine-witches-family-disruption.json](./112201-nine-witches-family-disruption.json) |
 | Nine Worlds | 150659 | [150659-nine-worlds.json](./150659-nine-worlds.json) |
@@ -7394,7 +7388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
 | Nomads of Driftland | 141381 | [141381-nomads-of-driftland.json](./141381-nomads-of-driftland.json) |
 | Nomads of Driftland: The Forgotten Passage | 144556 | [144556-nomads-of-driftland-the-forgotten-passage.json](./144556-nomads-of-driftland-the-forgotten-passage.json) |
-| Nomads of the Fallen Star | 113640 | [113640-nomads-of-the-fallen-star.json](./113640-nomads-of-the-fallen-star.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
 | Noman's Dungeon | 181177 | [181177-nomans-dungeon.json](./181177-nomans-dungeon.json) |
 | Nomark Baku Haitou: Shijou Saikyou no Jakushi Tatsu | 44401 | [44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json](./44401-nomark-baku-haitou-shijou-saikyou-no-jakushi-tatsu.json) |
@@ -7730,7 +7723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | Norowareta: The Three Treasures | 311533 | [311533-norowareta-the-three-treasures.json](./311533-norowareta-the-three-treasures.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
-| Norpon | 113502 | [113502-norpon.json](./113502-norpon.json) |
 | Norr part I: Ace Shot | 120828 | [120828-norr-part-i-ace-shot.json](./120828-norr-part-i-ace-shot.json) |
 | Norr part II: Will Walker | 173178 | [173178-norr-part-ii-will-walker.json](./173178-norr-part-ii-will-walker.json) |
 | Norrland | 9127 | [9127-norrland.json](./9127-norrland.json) |
