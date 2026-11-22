@@ -331,7 +331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Baby Universe | 43793 | [43793-baby-universe.json](./43793-baby-universe.json) |
-| Baby Walking Simulator | 121780 | [121780-baby-walking-simulator.json](./121780-baby-walking-simulator.json) |
 | Baby Wild Katzen | 269655 | [269655-baby-wild-katzen.json](./269655-baby-wild-katzen.json) |
 | Baby's Day Out | 264089 | [264089-babys-day-out.json](./264089-babys-day-out.json) |
 | Baby's Day Out | 45740 | [45740-babys-day-out.json](./45740-babys-day-out.json) |
@@ -1845,7 +1844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballest of Them All | 331604 | [331604-ballest-of-them-all.json](./331604-ballest-of-them-all.json) |
 | Ballet of Steel | 382817 | [382817-ballet-of-steel.json](./382817-ballet-of-steel.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
-| Ballex | 120937 | [120937-ballex.json](./120937-ballex.json) |
 | Ballex 2: The Hanging Gardens | 207728 | [207728-ballex-2-the-hanging-gardens.json](./207728-ballex-2-the-hanging-gardens.json) |
 | BallFrog | 186755 | [186755-ballfrog.json](./186755-ballfrog.json) |
 | Ballgame | 393571 | [393571-ballgame.json](./393571-ballgame.json) |
@@ -9441,7 +9439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
 | Biomagnet | 126134 | [126134-biomagnet.json](./126134-biomagnet.json) |
-| Biomass | 121890 | [121890-biomass.json](./121890-biomass.json) |
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
 | Biome 3D | 59609 | [59609-biome-3d.json](./59609-biome-3d.json) |
@@ -10222,7 +10219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
 | Black Baby Classic | 178461 | [178461-black-baby-classic.json](./178461-black-baby-classic.json) |
-| Black Baron | 118530 | [118530-black-baron.json](./118530-black-baron.json) |
 | Black Bart | 101367 | [101367-black-bart.json](./101367-black-bart.json) |
 | Black Bass | 131473 | [131473-black-bass.json](./131473-black-bass.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
@@ -12356,7 +12352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks With Letters On | 128669 | [128669-blocks-with-letters-on.json](./128669-blocks-with-letters-on.json) |
 | Blocks: Block Puzzle Games | 181955 | [181955-blocks-block-puzzle-games.json](./181955-blocks-block-puzzle-games.json) |
 | Blocks: New Tangram Puzzles | 101070 | [101070-blocks-new-tangram-puzzles.json](./101070-blocks-new-tangram-puzzles.json) |
-| Blocks: Richard III | 120791 | [120791-blocks-richard-iii.json](./120791-blocks-richard-iii.json) |
 | Blocks! | 207281 | [207281-blocks.json](./207281-blocks.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | Blocks! | 314228 | [314228-blocks.json](./314228-blocks.json) |
@@ -14057,7 +14052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodzin | 423745 | [423745-bodzin.json](./423745-bodzin.json) |
 | Boeboeks: De Tocht Naar Opa Kakadoris | 334233 | [334233-boeboeks-de-tocht-naar-opa-kakadoris.json](./334233-boeboeks-de-tocht-naar-opa-kakadoris.json) |
 | Boeckham's Football Manager | 337456 | [337456-boeckhams-football-manager.json](./337456-boeckhams-football-manager.json) |
-| Boet Fighter | 120999 | [120999-boet-fighter.json](./120999-boet-fighter.json) |
 | BoF1LL: A Withering World | 159007 | [159007-bof1ll-a-withering-world.json](./159007-bof1ll-a-withering-world.json) |
 | Boffin | 15682 | [15682-boffin.json](./15682-boffin.json) |
 | Boffin 2 | 261891 | [261891-boffin-2.json](./261891-boffin-2.json) |
@@ -14906,7 +14900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonus Mania Slots Vol. 3 | 24457 | [24457-bonus-mania-slots-vol-3.json](./24457-bonus-mania-slots-vol-3.json) |
 | Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
 | Bonville Bandit | 331598 | [331598-bonville-bandit.json](./331598-bonville-bandit.json) |
-| BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bony Bones Adventures | 303358 | [303358-bony-bones-adventures.json](./303358-bony-bones-adventures.json) |
 | Bony Odyssey | 334357 | [334357-bony-odyssey.json](./334357-bony-odyssey.json) |
@@ -18667,7 +18660,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
 | Bruma | 315384 | [315384-bruma.json](./315384-bruma.json) |
 | Brumal Quest | 270842 | [270842-brumal-quest.json](./270842-brumal-quest.json) |
-| Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
 | Brumm | 30990 | [30990-brumm.json](./30990-brumm.json) |
@@ -19400,7 +19392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget | 131116 | [131116-budget.json](./131116-budget.json) |
 | Budget Backrooms | 266290 | [266290-budget-backrooms.json](./266290-budget-backrooms.json) |
 | Budget Cuts | 18970 | [18970-budget-cuts.json](./18970-budget-cuts.json) |
-| Budget Cuts 2: Mission Insolvency | 119340 | [119340-budget-cuts-2-mission-insolvency.json](./119340-budget-cuts-2-mission-insolvency.json) |
 | Budget Cuts Ultimate | 250695 | [250695-budget-cuts-ultimate.json](./250695-budget-cuts-ultimate.json) |
 | Budget Guardian: Health Realm | 347985 | [347985-budget-guardian-health-realm.json](./347985-budget-guardian-health-realm.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
@@ -19935,7 +19926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
 | Bullet Report | 205682 | [205682-bullet-report.json](./205682-bullet-report.json) |
 | Bullet Rodeo | 272183 | [272183-bullet-rodeo.json](./272183-bullet-rodeo.json) |
-| Bullet Roulette VR | 121064 | [121064-bullet-roulette-vr.json](./121064-bullet-roulette-vr.json) |
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
 | Bullet Runner: The First Slaughter | 241948 | [241948-bullet-runner-the-first-slaughter.json](./241948-bullet-runner-the-first-slaughter.json) |
