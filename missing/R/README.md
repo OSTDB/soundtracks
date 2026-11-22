@@ -304,7 +304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabidja's Revenge | 366162 | [366162-rabidjas-revenge.json](./366162-rabidjas-revenge.json) |
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
 | Rabio Lepus Special | 38066 | [38066-rabio-lepus-special.json](./38066-rabio-lepus-special.json) |
-| Rabisco | 121867 | [121867-rabisco.json](./121867-rabisco.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Rabolut: Escape From Hell | 369493 | [369493-rabolut-escape-from-hell.json](./369493-rabolut-escape-from-hell.json) |
@@ -653,7 +652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
 | Rad Survivor | 240642 | [240642-rad-survivor.json](./240642-rad-survivor.json) |
 | Rad Trails | 96376 | [96376-rad-trails.json](./96376-rad-trails.json) |
-| Rad TV | 120431 | [120431-rad-tv.json](./120431-rad-tv.json) |
 | Rad Venture | 215204 | [215204-rad-venture.json](./215204-rad-venture.json) |
 | Rad Warrior | 26408 | [26408-rad-warrior.json](./26408-rad-warrior.json) |
 | Rad-Challenge 07 | 93235 | [93235-rad-challenge-07.json](./93235-rad-challenge-07.json) |
@@ -1680,7 +1678,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Morning Kitchen Fire Blues | 135778 | [135778-rainy-morning-kitchen-fire-blues.json](./135778-rainy-morning-kitchen-fire-blues.json) |
 | Rainy Neon: Baku | 138444 | [138444-rainy-neon-baku.json](./138444-rainy-neon-baku.json) |
 | Rainy Night | 128940 | [128940-rainy-night.json](./128940-rainy-night.json) |
-| Rainy Season | 119732 | [119732-rainy-season.json](./119732-rainy-season.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | Rainy Time Travel | 405864 | [405864-rainy-time-travel.json](./405864-rainy-time-travel.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
@@ -3549,7 +3546,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFit (VR fitness) | 153471 | [153471-realfit-vr-fitness.json](./153471-realfit-vr-fitness.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
-| RealFlight 9 | 121855 | [121855-realflight-9.json](./121855-realflight-9.json) |
 | RealFlight Evolution | 225210 | [225210-realflight-evolution.json](./225210-realflight-evolution.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
@@ -7260,7 +7256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Castle Wolfenstein: Time Gate | 234947 | [234947-return-to-castle-wolfenstein-time-gate.json](./234947-return-to-castle-wolfenstein-time-gate.json) |
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
 | Return to Company Oziisan | 379853 | [379853-return-to-company-oziisan.json](./379853-return-to-company-oziisan.json) |
-| Return to Cube Planet | 118651 | [118651-return-to-cube-planet.json](./118651-return-to-cube-planet.json) |
 | Return to Dark Castle | 392571 | [392571-return-to-dark-castle.json](./392571-return-to-dark-castle.json) |
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
@@ -12893,7 +12888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate: Collective | 258611 | [258611-rotate-collective.json](./258611-rotate-collective.json) |
 | Rotate: Professional Virtual Aviation Network | 76126 | [76126-rotate-professional-virtual-aviation-network.json](./76126-rotate-professional-virtual-aviation-network.json) |
 | RotatePDF: A Corporate Tale | 214446 | [214446-rotatepdf-a-corporate-tale.json](./214446-rotatepdf-a-corporate-tale.json) |
-| Rotatex | 118778 | [118778-rotatex.json](./118778-rotatex.json) |
 | Rotatex 2 | 149718 | [149718-rotatex-2.json](./149718-rotatex-2.json) |
 | Rotatex 3 | 236898 | [236898-rotatex-3.json](./236898-rotatex-3.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
@@ -13213,7 +13207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Affairs: AI Romance | 290672 | [290672-royal-affairs-ai-romance.json](./290672-royal-affairs-ai-romance.json) |
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
-| Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
 | Royal Assault | 122546 | [122546-royal-assault.json](./122546-royal-assault.json) |
 | Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
@@ -13656,7 +13649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
 | Rude Breaker | 190046 | [190046-rude-breaker.json](./190046-rude-breaker.json) |
 | Rude Chess | 290351 | [290351-rude-chess.json](./290351-rude-chess.json) |
-| Rude Racers | 120839 | [120839-rude-racers.json](./120839-rude-racers.json) |
 | Rude Racers: 2D Combat Racing | 133021 | [133021-rude-racers-2d-combat-racing.json](./133021-rude-racers-2d-combat-racing.json) |
 | Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
 | Rudeirer.wtf | 370043 | [370043-rudeirer-wtf.json](./370043-rudeirer-wtf.json) |
@@ -13984,7 +13976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy + | 104294 | [104294-rummy.json](./104294-rummy.json) |
-| Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
 | Rummy 500 | 83701 | [83701-rummy-500.json](./83701-rummy-500.json) |
 | Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
@@ -14326,7 +14317,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
 | Rune Gate: Retribution | 292210 | [292210-rune-gate-retribution.json](./292210-rune-gate-retribution.json) |
 | Rune Gems | 238298 | [238298-rune-gems.json](./238298-rune-gems.json) |
-| Rune Girl | 118976 | [118976-rune-girl.json](./118976-rune-girl.json) |
 | Rune Golf | 260245 | [260245-rune-golf.json](./260245-rune-golf.json) |
 | Rune Gunner | 383475 | [383475-rune-gunner.json](./383475-rune-gunner.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
