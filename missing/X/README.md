@@ -513,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanadu Land | 284247 | [284247-xanadu-land.json](./284247-xanadu-land.json) |
 | Xanadu Next | 6296 | [6296-xanadu-next.json](./6296-xanadu-next.json) |
 | Xanadu Scenario II | 62583 | [62583-xanadu-scenario-ii.json](./62583-xanadu-scenario-ii.json) |
-| Xanarthraxia | 118808 | [118808-xanarthraxia.json](./118808-xanarthraxia.json) |
 | XanChuchamel | 207368 | [207368-xanchuchamel.json](./207368-xanchuchamel.json) |
 | Xander the Monster Morpher: Universe Breaker | 120983 | [120983-xander-the-monster-morpher-universe-breaker.json](./120983-xander-the-monster-morpher-universe-breaker.json) |
 | Xander: 7-Shot | 337108 | [337108-xander-7-shot.json](./337108-xander-7-shot.json) |
