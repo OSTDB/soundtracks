@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,907" src="https://img.shields.io/badge/soundtracks-3%2C907-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,424" src="https://img.shields.io/badge/games-3%2C424-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 368,880" src="https://img.shields.io/badge/missing-368%2C880-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 369,471" src="https://img.shields.io/badge/missing-369%2C471-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/starpoint-gemini-3"><img src="https://i.scdn.co/image/ab67616d0000b273d63552baa0d669b6656d2498" width="120" height="120" alt="" /></a><br /><sub><b>Starpoint Gemini 3</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/voidrun"><img src="https://i.scdn.co/image/ab67616d0000b273e7068049972db070b5eab7e6" width="120" height="120" alt="" /></a><br /><sub><b>Voidrun</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/alchemy-story"><img src="https://i.scdn.co/image/ab67616d0000b2735ab387651f9cc2693cbe32bb" width="120" height="120" alt="" /></a><br /><sub><b>Alchemy Story</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rashlander"><img src="https://i.scdn.co/image/ab67616d0000b2731290457c27b22c3ec51c594b" width="120" height="120" alt="" /></a><br /><sub><b>Rashlander</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-language-of-love"><img src="https://i.scdn.co/image/ab67616d0000b273a4ac66827d22df79ae9f684a" width="120" height="120" alt="" /></a><br /><sub><b>The Language of Love</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/spirit-oath"><img src="https://i.scdn.co/image/ab67616d0000b273810ce36fa37cd216b9b066cc" width="120" height="120" alt="" /></a><br /><sub><b>Spirit Oath</b></sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/battlewake"><img src="https://i.scdn.co/image/ab67616d0000b273897df7b9109ad0ef7350529a" width="120" height="120" alt="" /></a><br /><sub><b>Battlewake</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/castle-woodwarf-2"><img src="https://i.scdn.co/image/ab67616d0000b273a2611179c50020e5c37743ce" width="120" height="120" alt="" /></a><br /><sub><b>Castle Woodwarf 2</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tactics-v-obsidian-brigade"><img src="https://i.scdn.co/image/ab67616d0000b273bf4ebf2a9452a133d1d1dc9e" width="120" height="120" alt="" /></a><br /><sub><b>Tactics V: &quot;Obsidian Brigade&quot;</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/backspace-bouken"><img src="https://i.scdn.co/image/ab67616d0000b27390b835a6dca8627e8ada2bbf" width="120" height="120" alt="" /></a><br /><sub><b>Backspace Bouken</b></sub></td>
-</tr>
-<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/aeons-end"><img src="https://i.scdn.co/image/ab67616d0000b273e1ab0d70979111a18b85b455" width="120" height="120" alt="" /></a><br /><sub><b>Aeon's End</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/robo-inc-project"><img src="https://i.scdn.co/image/ab67616d0000b2731880a24b562b7db45ac2e2c7" width="120" height="120" alt="" /></a><br /><sub><b>Robo Inc Project</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/alien-squatter"><img src="https://i.scdn.co/image/ab67616d0000b273371325403fe1a79780c1f974" width="120" height="120" alt="" /></a><br /><sub><b>Alien Squatter</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/a-night-at-the-races"><img src="https://i.scdn.co/image/ab67616d0000b273b8b3bc78e0cd2ddba6af1977" width="120" height="120" alt="" /></a><br /><sub><b>A Night at the Races</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/skeleton-crew"><img src="https://i.scdn.co/image/ab67616d0000b273899de50774e63e08aa04ecf4" width="120" height="120" alt="" /></a><br /><sub><b>Skeleton Crew</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/legend-bowl"><img src="https://i.scdn.co/image/ab67616d0000b273b24627b4a794419a5560e144" width="120" height="120" alt="" /></a><br /><sub><b>Legend Bowl</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (368,880 games).
+More in **[missing/](missing/README.md)** (369,471 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,907 soundtracks &middot; last updated 2026-11-22T11:20:51.328Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,907 soundtracks &middot; last updated 2026-11-22T12:41:08.228Z</sub>
