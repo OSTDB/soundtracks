@@ -26,7 +26,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Mahjong | 131144 | [131144-v-mahjong.json](./131144-v-mahjong.json) |
 | V nekotorom tsarstve | 379324 | [379324-v-nekotorom-tsarstve.json](./379324-v-nekotorom-tsarstve.json) |
 | V or B | 228820 | [228820-v-or-b.json](./228820-v-or-b.json) |
-| V pod''ezde | 116844 | [116844-v-podezde.json](./116844-v-podezde.json) |
 | V poiskakh Atlantidy | 111215 | [111215-v-poiskakh-atlantidy.json](./111215-v-poiskakh-atlantidy.json) |
 | V Prototype | 122613 | [122613-v-prototype.json](./122613-v-prototype.json) |
 | V Rising: Dracula's Relics Pack | 226891 | [226891-v-rising-draculas-relics-pack.json](./226891-v-rising-draculas-relics-pack.json) |
@@ -1341,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegetable Crash | 224854 | [224854-vegetable-crash.json](./224854-vegetable-crash.json) |
 | Vegetable Game | 191569 | [191569-vegetable-game.json](./191569-vegetable-game.json) |
 | Vegetable Valley Nightmare | 216303 | [216303-vegetable-valley-nightmare.json](./216303-vegetable-valley-nightmare.json) |
+| Vegetables | 427016 | [427016-vegetables.json](./427016-vegetables.json) |
 | Vegetables Deluxe C64 | 135016 | [135016-vegetables-deluxe-c64.json](./135016-vegetables-deluxe-c64.json) |
 | Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
@@ -4612,7 +4612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Puzzle Box | 126111 | [126111-vr-puzzle-box.json](./126111-vr-puzzle-box.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
 | VR Quiet Life | 139716 | [139716-vr-quiet-life.json](./139716-vr-quiet-life.json) |
-| VR Racing | 114850 | [114850-vr-racing.json](./114850-vr-racing.json) |
 | VR Racing | 277640 | [277640-vr-racing.json](./277640-vr-racing.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
