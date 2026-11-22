@@ -608,7 +608,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator 2 | 132748 | [132748-ultimate-fishing-simulator-2.json](./132748-ultimate-fishing-simulator-2.json) |
 | Ultimate Fishing Simulator 2: Delaware Bay | 375299 | [375299-ultimate-fishing-simulator-2-delaware-bay.json](./375299-ultimate-fishing-simulator-2-delaware-bay.json) |
 | Ultimate Fishing Simulator 3 | 349238 | [349238-ultimate-fishing-simulator-3.json](./349238-ultimate-fishing-simulator-3.json) |
-| Ultimate Fishing Simulator VR | 115149 | [115149-ultimate-fishing-simulator-vr.json](./115149-ultimate-fishing-simulator-vr.json) |
 | Ultimate Fishing Simulator VR: Amazon River | 161342 | [161342-ultimate-fishing-simulator-vr-amazon-river.json](./161342-ultimate-fishing-simulator-vr-amazon-river.json) |
 | Ultimate Fishing Simulator VR: Florida | 263152 | [263152-ultimate-fishing-simulator-vr-florida.json](./263152-ultimate-fishing-simulator-vr-florida.json) |
 | Ultimate Fishing Simulator VR: Greenland | 161341 | [161341-ultimate-fishing-simulator-vr-greenland.json](./161341-ultimate-fishing-simulator-vr-greenland.json) |
@@ -1034,7 +1033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Resort Keroncuel | 172232 | [172232-ultra-resort-keroncuel.json](./172232-ultra-resort-keroncuel.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
 | Ultra Samurai Coaster | 44152 | [44152-ultra-samurai-coaster.json](./44152-ultra-samurai-coaster.json) |
-| Ultra Savage | 117376 | [117376-ultra-savage.json](./117376-ultra-savage.json) |
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Seven | 44428 | [44428-ultra-seven.json](./44428-ultra-seven.json) |
 | Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
@@ -2459,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhack: Destruction | 172365 | [172365-unhack-destruction.json](./172365-unhack-destruction.json) |
 | Unhackable | 226581 | [226581-unhackable.json](./226581-unhackable.json) |
 | Unhallowed | 256834 | [256834-unhallowed.json](./256834-unhallowed.json) |
+| Unhallowed | 427012 | [427012-unhallowed.json](./427012-unhallowed.json) |
 | Unhallowed: The Cabin | 96235 | [96235-unhallowed-the-cabin.json](./96235-unhallowed-the-cabin.json) |
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhappy Cinderella | 257186 | [257186-unhappy-cinderella.json](./257186-unhappy-cinderella.json) |
@@ -2611,7 +2610,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unique Sylvie Game | 422748 | [422748-unique-sylvie-game.json](./422748-unique-sylvie-game.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
-| Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
 | Unison League | 38697 | [38697-unison-league.json](./38697-unison-league.json) |
 | Unison: Rebels of Rhythm & Dance | 71355 | [71355-unison-rebels-of-rhythm-and-dance.json](./71355-unison-rebels-of-rhythm-and-dance.json) |
@@ -3274,7 +3272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstrayed | 289924 | [289924-unstrayed.json](./289924-unstrayed.json) |
 | Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unstrong: Space Calamity | 186933 | [186933-unstrong-space-calamity.json](./186933-unstrong-space-calamity.json) |
-| Unsubscribed: The Game | 117913 | [117913-unsubscribed-the-game.json](./117913-unsubscribed-the-game.json) |
 | UnSummoning: the Spectral Horde | 34058 | [34058-unsummoning-the-spectral-horde.json](./34058-unsummoning-the-spectral-horde.json) |
 | Unsung Ballads | 244618 | [244618-unsung-ballads.json](./244618-unsung-ballads.json) |
 | Unsung Cascade | 402744 | [402744-unsung-cascade.json](./402744-unsung-cascade.json) |
