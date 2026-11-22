@@ -6828,6 +6828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deify | 183690 | [183690-deify.json](./183690-deify.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
+| Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deimos Rising | 71643 | [71643-deimos-rising.json](./71643-deimos-rising.json) |
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
@@ -13386,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Eternity Clock | 9636 | [9636-doctor-who-the-eternity-clock.json](./9636-doctor-who-the-eternity-clock.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
+| Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: The Mazes of Time | 85771 | [85771-doctor-who-the-mazes-of-time.json](./85771-doctor-who-the-mazes-of-time.json) |
 | Doctor Who: The Runaway | 123092 | [123092-doctor-who-the-runaway.json](./123092-doctor-who-the-runaway.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
@@ -15208,6 +15210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: Resurrection of Evil | 260027 | [260027-doom-3-resurrection-of-evil.json](./260027-doom-3-resurrection-of-evil.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
 | Doom 3: The Lost Mission | 167753 | [167753-doom-3-the-lost-mission.json](./167753-doom-3-the-lost-mission.json) |
+| Doom 3: VR Edition | 144524 | [144524-doom-3-vr-edition.json](./144524-doom-3-vr-edition.json) |
 | Doom 32X: Resurrection | 308728 | [308728-doom-32x-resurrection.json](./308728-doom-32x-resurrection.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 4 Vanilla | 144158 | [144158-doom-4-vanilla.json](./144158-doom-4-vanilla.json) |
@@ -20629,6 +20632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
 | Dull Ache | 429193 | [429193-dull-ache.json](./429193-dull-ache.json) |
 | Dull Acres | 303495 | [303495-dull-acres.json](./303495-dull-acres.json) |
+| Dull Grey | 146168 | [146168-dull-grey.json](./146168-dull-grey.json) |
 | Dullahan | 183489 | [183489-dullahan.json](./183489-dullahan.json) |
 | Dullahan-san no Atama wo Omochikaeri Suru | 394771 | [394771-dullahan-san-no-atama-wo-omochikaeri-suru.json](./394771-dullahan-san-no-atama-wo-omochikaeri-suru.json) |
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
@@ -22312,6 +22316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynablaster | 244024 | [244024-dynablaster.json](./244024-dynablaster.json) |
 | Dynablaster Revenge | 18445 | [18445-dynablaster-revenge.json](./18445-dynablaster-revenge.json) |
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
+| Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynacorp | 57200 | [57200-dynacorp.json](./57200-dynacorp.json) |
 | Dynaforce | 264840 | [264840-dynaforce.json](./264840-dynaforce.json) |
