@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dungeons | 377309 | [377309-retro-dungeons.json](./377309-retro-dungeons.json) |
 | Retro Dungeons | 65812 | [65812-retro-dungeons.json](./65812-retro-dungeons.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
+| Retro Empire | 424501 | [424501-retro-empire.json](./424501-retro-empire.json) |
 | Retro Endurance 8bit | 340695 | [340695-retro-endurance-8bit.json](./340695-retro-endurance-8bit.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
 | Retro Fever | 60713 | [60713-retro-fever.json](./60713-retro-fever.json) |
@@ -10535,6 +10536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboVDino | 75314 | [75314-robovdino.json](./75314-robovdino.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboVirus | 84288 | [84288-robovirus.json](./84288-robovirus.json) |
+| Robovival | 424482 | [424482-robovival.json](./424482-robovival.json) |
 | RoboWar | 171242 | [171242-robowar.json](./171242-robowar.json) |
 | RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
