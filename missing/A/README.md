@@ -75,7 +75,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blocky Christmas | 319517 | [319517-a-blocky-christmas.json](./319517-a-blocky-christmas.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bloody Night | 41960 | [41960-a-bloody-night.json](./41960-a-bloody-night.json) |
-| A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb Called Darkipt | 218627 | [218627-a-bomb-called-darkipt.json](./218627-a-bomb-called-darkipt.json) |
 | A Bomb Zone | 96989 | [96989-a-bomb-zone.json](./96989-a-bomb-zone.json) |
@@ -3996,7 +3995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult for Fuck in Police | 294084 | [294084-adult-for-fuck-in-police.json](./294084-adult-for-fuck-in-police.json) |
 | Adult for Sex Motel | 288894 | [288894-adult-for-sex-motel.json](./288894-adult-for-sex-motel.json) |
 | Adult Life Yuri Bundle by Team ANPIM | 369310 | [369310-adult-life-yuri-bundle-by-team-anpim.json](./369310-adult-life-yuri-bundle-by-team-anpim.json) |
-| Adult Math | 113412 | [113412-adult-math.json](./113412-adult-math.json) |
 | Adult Moolah Nitwit Terrapins | 290666 | [290666-adult-moolah-nitwit-terrapins.json](./290666-adult-moolah-nitwit-terrapins.json) |
 | Adult Puzzle: Hentai Maid Aruha | 298606 | [298606-adult-puzzle-hentai-maid-aruha.json](./298606-adult-puzzle-hentai-maid-aruha.json) |
 | Adult Puzzle: My Cute Neighbor Serene | 274684 | [274684-adult-puzzle-my-cute-neighbor-serene.json](./274684-adult-puzzle-my-cute-neighbor-serene.json) |
@@ -4383,7 +4381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
 | Adventure Labyrinth Story | 84867 | [84867-adventure-labyrinth-story.json](./84867-adventure-labyrinth-story.json) |
 | Adventure Land | 78201 | [78201-adventure-land.json](./78201-adventure-land.json) |
-| Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
 | ADventure Lib | 35109 | [35109-adventure-lib.json](./35109-adventure-lib.json) |
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
@@ -15480,7 +15477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archen Broom Game | 402366 | [402366-archen-broom-game.json](./402366-archen-broom-game.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
 | Archeo | 391282 | [391282-archeo.json](./391282-archeo.json) |
-| Archeo: Shinar | 113840 | [113840-archeo-shinar.json](./113840-archeo-shinar.json) |
 | Archeologist Simulator | 148988 | [148988-archeologist-simulator.json](./148988-archeologist-simulator.json) |
 | Archeon CD-i Quiz | 217996 | [217996-archeon-cd-i-quiz.json](./217996-archeon-cd-i-quiz.json) |
 | Archeos | 54765 | [54765-archeos.json](./54765-archeos.json) |
@@ -17652,6 +17648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Seed | 385547 | [385547-ashen-seed.json](./385547-ashen-seed.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
+| Ashen Swarm | 422715 | [422715-ashen-swarm.json](./422715-ashen-swarm.json) |
 | Ashen Testament | 427408 | [427408-ashen-testament.json](./427408-ashen-testament.json) |
 | Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
@@ -21250,7 +21247,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
 | Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
-| Away From Earth: Moon | 113561 | [113561-away-from-earth-moon.json](./113561-away-from-earth-moon.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
 | Away From Home | 258676 | [258676-away-from-home.json](./258676-away-from-home.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
