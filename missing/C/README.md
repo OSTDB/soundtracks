@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnigma | 376755 | [376755-catnigma.json](./376755-catnigma.json) |
 | Catnip | 184791 | [184791-catnip.json](./184791-catnip.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
+| Catnip Arcade | 424039 | [424039-catnip-arcade.json](./424039-catnip-arcade.json) |
 | Catnip Cosmos | 403294 | [403294-catnip-cosmos.json](./403294-catnip-cosmos.json) |
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
 | Catnip Wars | 415589 | [415589-catnip-wars.json](./415589-catnip-wars.json) |
@@ -6683,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber Shift | 393536 | [393536-chamber-shift.json](./393536-chamber-shift.json) |
 | Chamber Survival | 298692 | [298692-chamber-survival.json](./298692-chamber-survival.json) |
 | Chamber X | 344115 | [344115-chamber-x.json](./344115-chamber-x.json) |
+| Chamber: Atom Breaker Inc | 424472 | [424472-chamber-atom-breaker-inc.json](./424472-chamber-atom-breaker-inc.json) |
 | Chamber.Repeat(); | 186053 | [186053-chamber-repeat.json](./186053-chamber-repeat.json) |
 | Chamberbound | 247363 | [247363-chamberbound.json](./247363-chamberbound.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
@@ -8726,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimps on a Blimp | 183169 | [183169-chimps-on-a-blimp.json](./183169-chimps-on-a-blimp.json) |
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
+| Chimpy Protects | 424059 | [424059-chimpy-protects.json](./424059-chimpy-protects.json) |
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
 | Chin Chinny Chin Mouse Cheese Chin Toes | 271096 | [271096-chin-chinny-chin-mouse-cheese-chin-toes.json](./271096-chin-chinny-chin-mouse-cheese-chin-toes.json) |
 | China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
@@ -12368,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloserLook VR: Oldways | 325838 | [325838-closerlook-vr-oldways.json](./325838-closerlook-vr-oldways.json) |
 | Closers | 55076 | [55076-closers.json](./55076-closers.json) |
 | CloserTo | 396374 | [396374-closerto.json](./396374-closerto.json) |
+| Closet Clash | 424030 | [424030-closet-clash.json](./424030-closet-clash.json) |
 | Closet Monsters | 91284 | [91284-closet-monsters.json](./91284-closet-monsters.json) |
 | Closet Organizer | 208913 | [208913-closet-organizer.json](./208913-closet-organizer.json) |
 | Closets | 135621 | [135621-closets.json](./135621-closets.json) |
@@ -14320,6 +14324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 5.4 | 405225 | [405225-coloring-game-5-4.json](./405225-coloring-game-5-4.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
+| Coloring Game 5.7 | 424353 | [424353-coloring-game-5-7.json](./424353-coloring-game-5-7.json) |
 | Coloring Game: Expansion Pack No. 1 | 161254 | [161254-coloring-game-expansion-pack-no-1.json](./161254-coloring-game-expansion-pack-no-1.json) |
 | Coloring Game: Expansion Pack No. 2 | 161255 | [161255-coloring-game-expansion-pack-no-2.json](./161255-coloring-game-expansion-pack-no-2.json) |
 | Coloring Game: Expansion Pack No. 3 | 161256 | [161256-coloring-game-expansion-pack-no-3.json](./161256-coloring-game-expansion-pack-no-3.json) |
@@ -18444,6 +18449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
 | Cozy Forge | 345255 | [345255-cozy-forge.json](./345255-cozy-forge.json) |
+| Cozy Frenchie Adventure | 424058 | [424058-cozy-frenchie-adventure.json](./424058-cozy-frenchie-adventure.json) |
 | Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
 | Cozy Gardener Simulator | 350051 | [350051-cozy-gardener-simulator.json](./350051-cozy-gardener-simulator.json) |
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
@@ -22397,6 +22403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Currency | 155892 | [155892-cubic-currency.json](./155892-cubic-currency.json) |
 | Cubic Defender | 283846 | [283846-cubic-defender.json](./283846-cubic-defender.json) |
 | Cubic Dweller | 190818 | [190818-cubic-dweller.json](./190818-cubic-dweller.json) |
+| Cubic Earth | 424351 | [424351-cubic-earth.json](./424351-cubic-earth.json) |
 | Cubic Enigma | 296287 | [296287-cubic-enigma.json](./296287-cubic-enigma.json) |
 | Cubic Factory | 111952 | [111952-cubic-factory.json](./111952-cubic-factory.json) |
 | Cubic Figures | 215112 | [215112-cubic-figures.json](./215112-cubic-figures.json) |
