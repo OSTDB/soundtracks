@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level 9 | 421130 | [421130-level-9.json](./421130-level-9.json) |
 | Level Age ni Sugoku Choudo Ii Shima | 306233 | [306233-level-age-ni-sugoku-choudo-ii-shima.json](./306233-level-age-ni-sugoku-choudo-ii-shima.json) |
 | Level Craft: Exploration | 95749 | [95749-level-craft-exploration.json](./95749-level-craft-exploration.json) |
+| Level Crawl | 427004 | [427004-level-crawl.json](./427004-level-crawl.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
@@ -6118,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminophobia | 347998 | [347998-liminophobia.json](./347998-liminophobia.json) |
 | Liminus: The Silent Guard | 226369 | [226369-liminus-the-silent-guard.json](./226369-liminus-the-silent-guard.json) |
 | Limirama | 379789 | [379789-limirama.json](./379789-limirama.json) |
+| Limit | 427332 | [427332-limit.json](./427332-limit.json) |
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
@@ -6836,7 +6838,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Duck Adventure | 303102 | [303102-little-duck-adventure.json](./303102-little-duck-adventure.json) |
 | Little Duck's Big Adventure: A Bitsy RPG | 182099 | [182099-little-ducks-big-adventure-a-bitsy-rpg.json](./182099-little-ducks-big-adventure-a-bitsy-rpg.json) |
 | Little Dungeon Renovator | 315435 | [315435-little-dungeon-renovator.json](./315435-little-dungeon-renovator.json) |
-| Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
 | Little Earth | 55334 | [55334-little-earth.json](./55334-little-earth.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
@@ -7897,7 +7898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
 | LoCoMo | 396125 | [396125-locomo.json](./396125-locomo.json) |
 | Locomochi | 415310 | [415310-locomochi.json](./415310-locomochi.json) |
-| Locomotion | 117048 | [117048-locomotion.json](./117048-locomotion.json) |
 | Locomotion | 202410 | [202410-locomotion.json](./202410-locomotion.json) |
 | LocoMotion | 265225 | [265225-locomotion.json](./265225-locomotion.json) |
 | Locomotive | 78737 | [78737-locomotive.json](./78737-locomotive.json) |
@@ -8708,6 +8708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looppip | 318846 | [318846-looppip.json](./318846-looppip.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
+| LoopReap | 427463 | [427463-loopreap.json](./427463-loopreap.json) |
 | Loops | 279172 | [279172-loops.json](./279172-loops.json) |
 | Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
 | Loopsters | 367079 | [367079-loopsters.json](./367079-loopsters.json) |
@@ -10482,7 +10483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
 | LoveR | 109278 | [109278-lover.json](./109278-lover.json) |
-| Lover Bands | 117280 | [117280-lover-bands.json](./117280-lover-bands.json) |
 | Lover Boy | 40367 | [40367-lover-boy.json](./40367-lover-boy.json) |
 | Lover Interface | 341104 | [341104-lover-interface.json](./341104-lover-interface.json) |
 | LoveR Kiss | 126180 | [126180-lover-kiss.json](./126180-lover-kiss.json) |
@@ -11130,7 +11130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberhill: Strong Start Bundle | 199863 | [199863-lumberhill-strong-start-bundle.json](./199863-lumberhill-strong-start-bundle.json) |
 | LumberJack | 133663 | [133663-lumberjack.json](./133663-lumberjack.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
-| Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumberjack VR | 72399 | [72399-lumberjack-vr.json](./72399-lumberjack-vr.json) |
 | Lumberjack's Dynasty | 122038 | [122038-lumberjacks-dynasty.json](./122038-lumberjacks-dynasty.json) |
