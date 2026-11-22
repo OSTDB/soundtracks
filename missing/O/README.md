@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey: Starship Pinball | 379148 | [379148-odyssey-starship-pinball.json](./379148-odyssey-starship-pinball.json) |
 | Odyssey: The Compleat Apventure | 23307 | [23307-odyssey-the-compleat-apventure.json](./23307-odyssey-the-compleat-apventure.json) |
 | Odyssey: The Legend of Nemesis | 57383 | [57383-odyssey-the-legend-of-nemesis.json](./57383-odyssey-the-legend-of-nemesis.json) |
+| Odyssey: The Search for Ulysses | 24156 | [24156-odyssey-the-search-for-ulysses.json](./24156-odyssey-the-search-for-ulysses.json) |
 | Odyssian Blaze | 190993 | [190993-odyssian-blaze.json](./190993-odyssian-blaze.json) |
 | Oedipus / Antigone | 378078 | [378078-oedipus-antigone.json](./378078-oedipus-antigone.json) |
 | Oedipus Dating Sim | 89660 | [89660-oedipus-dating-sim.json](./89660-oedipus-dating-sim.json) |
@@ -2421,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Katamari: King of All Sounds Edition | 358665 | [358665-once-upon-a-katamari-king-of-all-sounds-edition.json](./358665-once-upon-a-katamari-king-of-all-sounds-edition.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
+| Once Upon A Knight | 24098 | [24098-once-upon-a-knight.json](./24098-once-upon-a-knight.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
 | Once Upon a Mind: A Little Too Friendly | 340331 | [340331-once-upon-a-mind-a-little-too-friendly.json](./340331-once-upon-a-mind-a-little-too-friendly.json) |
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
@@ -5634,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Live: It's Far a Future on Planet | 37666 | [37666-out-live-its-far-a-future-on-planet.json](./37666-out-live-its-far-a-future-on-planet.json) |
 | Out of Action | 246027 | [246027-out-of-action.json](./246027-out-of-action.json) |
 | Out of Ammo | 177536 | [177536-out-of-ammo.json](./177536-out-of-ammo.json) |
+| Out of Ammo | 23990 | [23990-out-of-ammo.json](./23990-out-of-ammo.json) |
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
 | Out of Body | 243722 | [243722-out-of-body.json](./243722-out-of-body.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
