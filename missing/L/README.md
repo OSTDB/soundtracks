@@ -5557,6 +5557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Touch: Pixel Block Escape | 197726 | [197726-light-touch-pixel-block-escape.json](./197726-light-touch-pixel-block-escape.json) |
 | Light Tower | 429735 | [429735-light-tower.json](./429735-light-tower.json) |
 | Light Towers | 357847 | [357847-light-towers.json](./357847-light-towers.json) |
+| Light Tracer | 36784 | [36784-light-tracer.json](./36784-light-tracer.json) |
 | Light Tracer II: The Two Worlds | 146672 | [146672-light-tracer-ii-the-two-worlds.json](./146672-light-tracer-ii-the-two-worlds.json) |
 | Light Trail Rush | 122447 | [122447-light-trail-rush.json](./122447-light-trail-rush.json) |
 | Light Unseen | 303630 | [303630-light-unseen.json](./303630-light-unseen.json) |
@@ -10634,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
 | Luca no Puzzle de Daibouken! | 228606 | [228606-luca-no-puzzle-de-daibouken.json](./228606-luca-no-puzzle-de-daibouken.json) |
 | Luca: The Dreamer | 105766 | [105766-luca-the-dreamer.json](./105766-luca-the-dreamer.json) |
+| Lucadian Chronicles | 34687 | [34687-lucadian-chronicles.json](./34687-lucadian-chronicles.json) |
 | Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas Mendoza: Amateur Detective | 323880 | [323880-lucas-mendoza-amateur-detective.json](./323880-lucas-mendoza-amateur-detective.json) |
 | Lucas the Game | 367761 | [367761-lucas-the-game.json](./367761-lucas-the-game.json) |
