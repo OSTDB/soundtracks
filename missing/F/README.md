@@ -14338,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger HD | 99998 | [99998-frogger-hd.json](./99998-frogger-hd.json) |
 | Frogger Hop Trivia | 11472 | [11472-frogger-hop-trivia.json](./11472-frogger-hop-trivia.json) |
 | Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
+| Frogger In Toy Town | 117011 | [117011-frogger-in-toy-town.json](./117011-frogger-in-toy-town.json) |
 | Frogger Inferno | 11474 | [11474-frogger-inferno.json](./11474-frogger-inferno.json) |
 | Frogger Launch | 11471 | [11471-frogger-launch.json](./11471-frogger-launch.json) |
 | Frogger Pinball | 63920 | [63920-frogger-pinball.json](./63920-frogger-pinball.json) |
@@ -15195,6 +15196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
 | Fuji-yama Daibakuhatsu | 345632 | [345632-fuji-yama-daibakuhatsu.json](./345632-fuji-yama-daibakuhatsu.json) |
 | FuJianStrike | 391014 | [391014-fujianstrike.json](./391014-fujianstrike.json) |
+| Fujii | 118161 | [118161-fujii.json](./118161-fujii.json) |
 | Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! | 60748 | [60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json](./60748-fujiko-f-fujio-characters-daishuugou-sf-dotabata-party.json) |
 | Fujisan Nobori | 296288 | [296288-fujisan-nobori.json](./296288-fujisan-nobori.json) |
 | Fujiwara BitterSweet | 136030 | [136030-fujiwara-bittersweet.json](./136030-fujiwara-bittersweet.json) |
