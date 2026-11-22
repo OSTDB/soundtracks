@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
 | Wardner | 41082 | [41082-wardner.json](./41082-wardner.json) |
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
+| WarDogs: Red's Return | 146427 | [146427-wardogs-reds-return.json](./146427-wardogs-reds-return.json) |
 | Wardogs: Season 2 | 419393 | [419393-wardogs-season-2.json](./419393-wardogs-season-2.json) |
 | Wardogs: Supporter Edition | 413303 | [413303-wardogs-supporter-edition.json](./413303-wardogs-supporter-edition.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
@@ -1788,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Realms of Ruin - The Yndrasta, Celestial Spear Pack | 279094 | [279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json](./279094-warhammer-age-of-sigmar-realms-of-ruin-the-yndrasta-celestial-spear-pack.json) |
 | Warhammer Age of Sigmar: Realms of Ruin - Ultimate Edition | 262633 | [262633-warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition.json](./262633-warhammer-age-of-sigmar-realms-of-ruin-ultimate-edition.json) |
 | Warhammer Age of Sigmar: Soul Arena | 148984 | [148984-warhammer-age-of-sigmar-soul-arena.json](./148984-warhammer-age-of-sigmar-soul-arena.json) |
+| Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
 | Warhammer Bundle: Chaos Gate & Realms of Ruin | 287985 | [287985-warhammer-bundle-chaos-gate-and-realms-of-ruin.json](./287985-warhammer-bundle-chaos-gate-and-realms-of-ruin.json) |
 | Warhammer Classics: Complete Collection | 398313 | [398313-warhammer-classics-complete-collection.json](./398313-warhammer-classics-complete-collection.json) |
@@ -3216,6 +3218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Counting | 386108 | [386108-we-are-counting.json](./386108-we-are-counting.json) |
 | We are definitely the baddies | 200975 | [200975-we-are-definitely-the-baddies.json](./200975-we-are-definitely-the-baddies.json) |
 | We are Eva | 191656 | [191656-we-are-eva.json](./191656-we-are-eva.json) |
+| We Are Football | 146039 | [146039-we-are-football.json](./146039-we-are-football.json) |
 | We are Football 2024 | 288844 | [288844-we-are-football-2024.json](./288844-we-are-football-2024.json) |
 | We Are Football 2027 | 417785 | [417785-we-are-football-2027.json](./417785-we-are-football-2027.json) |
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
@@ -10004,6 +10007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World Zombies Cup | 245182 | [245182-world-zombies-cup.json](./245182-world-zombies-cup.json) |
 | World Zombination | 6857 | [6857-world-zombination.json](./6857-world-zombination.json) |
+| World-Splitter | 145816 | [145816-world-splitter.json](./145816-world-splitter.json) |
 | World-Wide Adventure! Collection | 222381 | [222381-world-wide-adventure-collection.json](./222381-world-wide-adventure-collection.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
@@ -10218,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Blast | 248469 | [248469-worms-blast.json](./248469-worms-blast.json) |
 | Worms Blast | 4236 | [4236-worms-blast.json](./4236-worms-blast.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
+| Worms Collection 1 | 145833 | [145833-worms-collection-1.json](./145833-worms-collection-1.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Forts: Under Siege | 6245 | [6245-worms-forts-under-siege.json](./6245-worms-forts-under-siege.json) |
