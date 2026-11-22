@@ -5091,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightClub City | 337235 | [337235-nightclub-city.json](./337235-nightclub-city.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
 | Nightclub Imperium | 10600 | [10600-nightclub-imperium.json](./10600-nightclub-imperium.json) |
+| Nightclub Life | 429222 | [429222-nightclub-life.json](./429222-nightclub-life.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Manager: Violet Vibe | 211882 | [211882-nightclub-manager-violet-vibe.json](./211882-nightclub-manager-violet-vibe.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
@@ -6534,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
+| No Friends Space | 428942 | [428942-no-friends-space.json](./428942-no-friends-space.json) |
 | No Frills Cross Sums | 68559 | [68559-no-frills-cross-sums.json](./68559-no-frills-cross-sums.json) |
 | No Frills Sudoku | 70619 | [70619-no-frills-sudoku.json](./70619-no-frills-sudoku.json) |
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
