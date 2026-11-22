@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Revenge | 195908 | [195908-samurai-revenge.json](./195908-samurai-revenge.json) |
 | Samurai Revenge | 307606 | [307606-samurai-revenge.json](./307606-samurai-revenge.json) |
 | Samurai Revenge 2 | 241509 | [241509-samurai-revenge-2.json](./241509-samurai-revenge-2.json) |
+| Samurai Riot | 52255 | [52255-samurai-riot.json](./52255-samurai-riot.json) |
 | Samurai Riot: Definitive Edition | 227189 | [227189-samurai-riot-definitive-edition.json](./227189-samurai-riot-definitive-edition.json) |
 | Samurai Rising | 214129 | [214129-samurai-rising.json](./214129-samurai-rising.json) |
 | Samurai Saga | 55910 | [55910-samurai-saga.json](./55910-samurai-saga.json) |
@@ -24156,6 +24157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spearmint Mountain | 183495 | [183495-spearmint-mountain.json](./183495-spearmint-mountain.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
+| Spears 'n' Spades | 52059 | [52059-spears-n-spades.json](./52059-spears-n-spades.json) |
 | Spears & Spirits | 418444 | [418444-spears-and-spirits.json](./418444-spears-and-spirits.json) |
 | Spears of a Heart: Elusive Rhythms | 192569 | [192569-spears-of-a-heart-elusive-rhythms.json](./192569-spears-of-a-heart-elusive-rhythms.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
@@ -28478,6 +28480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Arcade: Falcon Gunner | 74901 | [74901-star-wars-arcade-falcon-gunner.json](./74901-star-wars-arcade-falcon-gunner.json) |
 | Star Wars Battlefront II: Battle of Geonosis | 112586 | [112586-star-wars-battlefront-ii-battle-of-geonosis.json](./112586-star-wars-battlefront-ii-battle-of-geonosis.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
+| Star Wars Battlefront II: Elite Trooper Deluxe Edition | 51486 | [51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json](./51486-star-wars-battlefront-ii-elite-trooper-deluxe-edition.json) |
 | Star Wars Battlefront II: Resurrection | 138124 | [138124-star-wars-battlefront-ii-resurrection.json](./138124-star-wars-battlefront-ii-resurrection.json) |
 | Star Wars Battlefront II: The Last Jedi Season | 76886 | [76886-star-wars-battlefront-ii-the-last-jedi-season.json](./76886-star-wars-battlefront-ii-the-last-jedi-season.json) |
 | Star Wars Battlefront: Bespin | 19869 | [19869-star-wars-battlefront-bespin.json](./19869-star-wars-battlefront-bespin.json) |
@@ -28834,6 +28837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
 | StarBlade | 4244 | [4244-starblade.json](./4244-starblade.json) |
 | StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
+| Starblast | 68515 | [68515-starblast.json](./68515-starblast.json) |
 | Starblast: 3D Wars | 239969 | [239969-starblast-3d-wars.json](./239969-starblast-3d-wars.json) |
 | Starblast: Retro Wars | 190367 | [190367-starblast-retro-wars.json](./190367-starblast-retro-wars.json) |
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
@@ -30419,6 +30423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 142711 | [142711-steel-rain.json](./142711-steel-rain.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
+| Steel Rain X | 51611 | [51611-steel-rain-x.json](./51611-steel-rain-x.json) |
 | Steel Rain: Dawn of the Machines | 154303 | [154303-steel-rain-dawn-of-the-machines.json](./154303-steel-rain-dawn-of-the-machines.json) |
 | Steel Rain: Expeditions | 172093 | [172093-steel-rain-expeditions.json](./172093-steel-rain-expeditions.json) |
 | Steel Rampart | 245951 | [245951-steel-rampart.json](./245951-steel-rampart.json) |
@@ -31150,6 +31155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman Warriors Fnaf Vs Sans | 100978 | [100978-stickman-warriors-fnaf-vs-sans.json](./100978-stickman-warriors-fnaf-vs-sans.json) |
 | Stickman Warriors: Super Dragon Shadow Fight | 216101 | [216101-stickman-warriors-super-dragon-shadow-fight.json](./216101-stickman-warriors-super-dragon-shadow-fight.json) |
+| Stickman Wars | 51987 | [51987-stickman-wars.json](./51987-stickman-wars.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman World Battle | 287231 | [287231-stickman-world-battle.json](./287231-stickman-world-battle.json) |
 | Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
