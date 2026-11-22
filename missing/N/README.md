@@ -4033,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | News Reacts | 197127 | [197127-news-reacts.json](./197127-news-reacts.json) |
 | News Reacts: Mission Impossible 2 | 256048 | [256048-news-reacts-mission-impossible-2.json](./256048-news-reacts-mission-impossible-2.json) |
 | News Roll | 385361 | [385361-news-roll.json](./385361-news-roll.json) |
+| News Tycoon | 29738 | [29738-news-tycoon.json](./29738-news-tycoon.json) |
 | Newspaper Day | 319833 | [319833-newspaper-day.json](./319833-newspaper-day.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newspaper Toss: Paperboy Edition | 261856 | [261856-newspaper-toss-paperboy-edition.json](./261856-newspaper-toss-paperboy-edition.json) |
@@ -7943,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Chess | 360284 | [360284-not-chess.json](./360284-not-chess.json) |
 | Not Dead Yet | 143500 | [143500-not-dead-yet.json](./143500-not-dead-yet.json) |
 | Not Dream Syndrome | 201335 | [201335-not-dream-syndrome.json](./201335-not-dream-syndrome.json) |
+| Not Dying Today | 29995 | [29995-not-dying-today.json](./29995-not-dying-today.json) |
 | Not Easy | 348533 | [348533-not-easy.json](./348533-not-easy.json) |
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
 | Not Enough Space | 406346 | [406346-not-enough-space.json](./406346-not-enough-space.json) |
