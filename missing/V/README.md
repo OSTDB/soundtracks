@@ -4777,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRealistic Fight: Aim For the Chest | 212206 | [212206-vrealistic-fight-aim-for-the-chest.json](./212206-vrealistic-fight-aim-for-the-chest.json) |
 | Vreezy: Pictorial Story Vol.1 | 147551 | [147551-vreezy-pictorial-story-vol-1.json](./147551-vreezy-pictorial-story-vol-1.json) |
 | VRekken | 131293 | [131293-vrekken.json](./131293-vrekken.json) |
+| VRemin (A Virtual Theremin) | 29704 | [29704-vremin-a-virtual-theremin.json](./29704-vremin-a-virtual-theremin.json) |
 | Vremya-Dyengi | 88275 | [88275-vremya-dyengi.json](./88275-vremya-dyengi.json) |
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRFC Virtual Reality Football Club | 87964 | [87964-vrfc-virtual-reality-football-club.json](./87964-vrfc-virtual-reality-football-club.json) |
