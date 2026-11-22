@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activity Fun With Cinderella & Friends | 112023 | [112023-activity-fun-with-cinderella-and-friends.json](./112023-activity-fun-with-cinderella-and-friends.json) |
 | Actman | 41800 | [41800-actman.json](./41800-actman.json) |
 | Actor Tycoon 2 | 142235 | [142235-actor-tycoon-2.json](./142235-actor-tycoon-2.json) |
+| Actor, Re: Actor | 426315 | [426315-actor-re-actor.json](./426315-actor-re-actor.json) |
 | Actorle | 320912 | [320912-actorle.json](./320912-actorle.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
@@ -11302,6 +11303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Kids | 38597 | [38597-angel-kids.json](./38597-angel-kids.json) |
 | Angel Killer | 301493 | [301493-angel-killer.json](./301493-angel-killer.json) |
 | Angel Legion | 140325 | [140325-angel-legion.json](./140325-angel-legion.json) |
+| Angel Legion: Athletic Sweetie C | 426327 | [426327-angel-legion-athletic-sweetie-c.json](./426327-angel-legion-athletic-sweetie-c.json) |
 | Angel Legion: Bay Goddess - Purple II | 302572 | [302572-angel-legion-bay-goddess-purple-ii.json](./302572-angel-legion-bay-goddess-purple-ii.json) |
 | Angel Legion: Chain Trace - Black | 316376 | [316376-angel-legion-chain-trace-black.json](./316376-angel-legion-chain-trace-black.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
@@ -11330,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Link | 253651 | [253651-angel-link.json](./253651-angel-link.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
+| Angel Mall | 426333 | [426333-angel-mall.json](./426333-angel-mall.json) |
 | Angel Nieto Pole 500 | 11902 | [11902-angel-nieto-pole-500.json](./11902-angel-nieto-pole-500.json) |
 | Angel Night | 314651 | [314651-angel-night.json](./314651-angel-night.json) |
 | Angel of Death | 269285 | [269285-angel-of-death.json](./269285-angel-of-death.json) |
@@ -18672,6 +18675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral | 377836 | [377836-astral.json](./377836-astral.json) |
 | Astral Abstraction | 282523 | [282523-astral-abstraction.json](./282523-astral-abstraction.json) |
 | Astral Alliance | 272487 | [272487-astral-alliance.json](./272487-astral-alliance.json) |
+| Astral Archive | 426841 | [426841-astral-archive.json](./426841-astral-archive.json) |
 | Astral Arena | 289665 | [289665-astral-arena.json](./289665-astral-arena.json) |
 | Astral Ascension | 202583 | [202583-astral-ascension.json](./202583-astral-ascension.json) |
 | Astral Ascent: Arven - The Wolf Blade | 404539 | [404539-astral-ascent-arven-the-wolf-blade.json](./404539-astral-ascent-arven-the-wolf-blade.json) |
