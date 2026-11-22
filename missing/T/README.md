@@ -26165,6 +26165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tigger's Family Tree 3D Adventure | 209036 | [209036-tiggers-family-tree-3d-adventure.json](./209036-tiggers-family-tree-3d-adventure.json) |
 | Tight Lines | 414068 | [414068-tight-lines.json](./414068-tight-lines.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
+| Tight Turn | 424500 | [424500-tight-turn.json](./424500-tight-turn.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
 | Tightrope Theatre | 204141 | [204141-tightrope-theatre.json](./204141-tightrope-theatre.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
