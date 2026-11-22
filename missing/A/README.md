@@ -5208,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After a While | 298816 | [298816-after-a-while.json](./298816-after-a-while.json) |
 | After All | 35385 | [35385-after-all.json](./35385-after-all.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
+| After All Is Abraded: A Study on Disappearing Completely | 429094 | [429094-after-all-is-abraded-a-study-on-disappearing-completely.json](./429094-after-all-is-abraded-a-study-on-disappearing-completely.json) |
 | After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 198606 | [198606-after-burner.json](./198606-after-burner.json) |
@@ -5745,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Luigi | 316027 | [316027-age-of-luigi.json](./316027-age-of-luigi.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
+| Age of Magic | 429024 | [429024-age-of-magic.json](./429024-age-of-magic.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
 | Age of Mahjong | 52376 | [52376-age-of-mahjong.json](./52376-age-of-mahjong.json) |
 | Age of Mechs | 365778 | [365778-age-of-mechs.json](./365778-age-of-mechs.json) |
@@ -17769,6 +17771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
 | Ashnar's Lair | 427691 | [427691-ashnars-lair.json](./427691-ashnars-lair.json) |
+| Ashor | 428937 | [428937-ashor.json](./428937-ashor.json) |
 | Ashore | 184024 | [184024-ashore.json](./184024-ashore.json) |
 | Ashore & Away | 389253 | [389253-ashore-and-away.json](./389253-ashore-and-away.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
