@@ -3788,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 70's Robot Anime Geppy-X | 79588 | [79588-70s-robot-anime-geppy-x.json](./79588-70s-robot-anime-geppy-x.json) |
 | 700,000 Games | 79223 | [79223-700-000-games.json](./79223-700-000-games.json) |
+| 700MB | 427460 | [427460-700mb.json](./427460-700mb.json) |
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
 | 72 Seconds | 424841 | [424841-72-seconds.json](./424841-72-seconds.json) |
 | 720 Degrees | 388317 | [388317-720-degrees.json](./388317-720-degrees.json) |
