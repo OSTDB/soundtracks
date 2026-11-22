@@ -11977,6 +11977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Warriors | 115921 | [115921-clicker-warriors.json](./115921-clicker-warriors.json) |
 | Clicker Warriors - Idle Rpg | 126069 | [126069-clicker-warriors-idle-rpg.json](./126069-clicker-warriors-idle-rpg.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
+| Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
 | Clickertale 2 | 343883 | [343883-clickertale-2.json](./343883-clickertale-2.json) |
@@ -16237,6 +16238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containerphobia | 208662 | [208662-containerphobia.json](./208662-containerphobia.json) |
 | Containers | 338885 | [338885-containers.json](./338885-containers.json) |
 | Containment | 100079 | [100079-containment.json](./100079-containment.json) |
+| Containment | 81618 | [81618-containment.json](./81618-containment.json) |
 | Containment Breach | 309813 | [309813-containment-breach.json](./309813-containment-breach.json) |
 | Containment Corp, Inc. | 324591 | [324591-containment-corp-inc.json](./324591-containment-corp-inc.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
@@ -23075,6 +23077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Labyrinth | 241607 | [241607-cursed-labyrinth.json](./241607-cursed-labyrinth.json) |
 | Cursed Labyrinth Redux | 305668 | [305668-cursed-labyrinth-redux.json](./305668-cursed-labyrinth-redux.json) |
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
+| Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
 | Cursed Legacy: Story of Faylinawa | 376952 | [376952-cursed-legacy-story-of-faylinawa.json](./376952-cursed-legacy-story-of-faylinawa.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
