@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patty & Mr. Miles | 150218 | [150218-patty-and-mr-miles.json](./150218-patty-and-mr-miles.json) |
 | Patty's Pumpkin Patch | 223734 | [223734-pattys-pumpkin-patch.json](./223734-pattys-pumpkin-patch.json) |
 | Pau E Pedra | 362927 | [362927-pau-e-pedra.json](./362927-pau-e-pedra.json) |
+| Pau e Pedra: Baseball Bat | 426332 | [426332-pau-e-pedra-baseball-bat.json](./426332-pau-e-pedra-baseball-bat.json) |
 | Paug | 153874 | [153874-paug.json](./153874-paug.json) |
 | Paul | 387499 | [387499-paul.json](./387499-paul.json) |
 | Paul & Tita | 183733 | [183733-paul-and-tita.json](./183733-paul-and-tita.json) |
@@ -18639,6 +18640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Slippi | 319004 | [319004-project-slippi.json](./319004-project-slippi.json) |
 | Project Smile | 363673 | [363673-project-smile.json](./363673-project-smile.json) |
 | Project Snaqe | 189378 | [189378-project-snaqe.json](./189378-project-snaqe.json) |
+| Project Solar | 426321 | [426321-project-solar.json](./426321-project-solar.json) |
 | Project SolarBot | 121918 | [121918-project-solarbot.json](./121918-project-solarbot.json) |
 | Project Solaris | 325449 | [325449-project-solaris.json](./325449-project-solaris.json) |
 | Project Sonymon (Working Title) | 83784 | [83784-project-sonymon-working-title.json](./83784-project-sonymon-working-title.json) |
