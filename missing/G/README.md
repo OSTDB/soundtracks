@@ -10068,6 +10068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graywood: Noir Detective | 167492 | [167492-graywood-noir-detective.json](./167492-graywood-noir-detective.json) |
 | Graze | 180172 | [180172-graze.json](./180172-graze.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
+| Grazed: Incremental Arcade | 424045 | [424045-grazed-incremental-arcade.json](./424045-grazed-incremental-arcade.json) |
 | Grazers | 307167 | [307167-grazers.json](./307167-grazers.json) |
 | GRE Math Puzzles - GRE Logical Reasoning | 104264 | [104264-gre-math-puzzles-gre-logical-reasoning.json](./104264-gre-math-puzzles-gre-logical-reasoning.json) |
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
@@ -12362,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumballs & Dungeons | 76850 | [76850-gumballs-and-dungeons.json](./76850-gumballs-and-dungeons.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
+| Gumbo | 424052 | [424052-gumbo.json](./424052-gumbo.json) |
 | Gumbo* and the Machine | 356397 | [356397-gumbo-and-the-machine.json](./356397-gumbo-and-the-machine.json) |
 | Gumboots Australia | 221023 | [221023-gumboots-australia.json](./221023-gumboots-australia.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
@@ -12369,6 +12371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
+| Gumdrop Lost in Thyme | 423435 | [423435-gumdrop-lost-in-thyme.json](./423435-gumdrop-lost-in-thyme.json) |
 | Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
 | Gumgem | 134792 | [134792-gumgem.json](./134792-gumgem.json) |
 | Gummibär Mobile Game | 321276 | [321276-gummibar-mobile-game.json](./321276-gummibar-mobile-game.json) |
