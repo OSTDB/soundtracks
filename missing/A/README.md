@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hidden Mountain Factory | 318157 | [318157-a-hidden-mountain-factory.json](./318157-a-hidden-mountain-factory.json) |
 | A Hideo Kojima Game | 178947 | [178947-a-hideo-kojima-game.json](./178947-a-hideo-kojima-game.json) |
 | A Hint of Purple | 247877 | [247877-a-hint-of-purple.json](./247877-a-hint-of-purple.json) |
+| A Hoard in Order | 427625 | [427625-a-hoard-in-order.json](./427625-a-hoard-in-order.json) |
 | A Hole in my Room | 333050 | [333050-a-hole-in-my-room.json](./333050-a-hole-in-my-room.json) |
 | A Hole In Space | 167480 | [167480-a-hole-in-space.json](./167480-a-hole-in-space.json) |
 | A Hole New World | 31557 | [31557-a-hole-new-world.json](./31557-a-hole-new-world.json) |
@@ -12876,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
 | Another Random Idle RPG | 317042 | [317042-another-random-idle-rpg.json](./317042-another-random-idle-rpg.json) |
 | Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
+| Another Red Riding Hood Story | 428008 | [428008-another-red-riding-hood-story.json](./428008-another-red-riding-hood-story.json) |
 | Another Reigny Day | 368884 | [368884-another-reigny-day.json](./368884-another-reigny-day.json) |
 | Another Reverie | 265853 | [265853-another-reverie.json](./265853-another-reverie.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
@@ -14542,6 +14544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Dacholer | 419602 | [419602-arcade-archives-2-dacholer.json](./419602-arcade-archives-2-dacholer.json) |
 | Arcade Archives 2: Devastators | 395646 | [395646-arcade-archives-2-devastators.json](./395646-arcade-archives-2-devastators.json) |
 | Arcade Archives 2: Elevator Action | 428001 | [428001-arcade-archives-2-elevator-action.json](./428001-arcade-archives-2-elevator-action.json) |
+| Arcade Archives 2: Exzisus | 428006 | [428006-arcade-archives-2-exzisus.json](./428006-arcade-archives-2-exzisus.json) |
 | Arcade Archives 2: Fighting Golf | 422766 | [422766-arcade-archives-2-fighting-golf.json](./422766-arcade-archives-2-fighting-golf.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
 | Arcade Archives 2: Gee Bee | 371415 | [371415-arcade-archives-2-gee-bee.json](./371415-arcade-archives-2-gee-bee.json) |
@@ -17225,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial | 184212 | [184212-artificial.json](./184212-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
+| Artificial Ambition | 428013 | [428013-artificial-ambition.json](./428013-artificial-ambition.json) |
 | Artificial Bloodline | 414908 | [414908-artificial-bloodline.json](./414908-artificial-bloodline.json) |
 | Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
@@ -19764,6 +19768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom OI | 183961 | [183961-atom-oi.json](./183961-atom-oi.json) |
 | Atom RPG | 28160 | [28160-atom-rpg.json](./28160-atom-rpg.json) |
 | Atom RPG 2 | 388072 | [388072-atom-rpg-2.json](./388072-atom-rpg-2.json) |
+| Atom RPG: Plague Island | 428014 | [428014-atom-rpg-plague-island.json](./428014-atom-rpg-plague-island.json) |
 | Atom RPG: Trudograd | 134502 | [134502-atom-rpg-trudograd.json](./134502-atom-rpg-trudograd.json) |
 | Atom RPG: Trudograd - TG Supporter Pack | 332099 | [332099-atom-rpg-trudograd-tg-supporter-pack.json](./332099-atom-rpg-trudograd-tg-supporter-pack.json) |
 | Atom RPG: Trudograd - War Supply Pack | 224437 | [224437-atom-rpg-trudograd-war-supply-pack.json](./224437-atom-rpg-trudograd-war-supply-pack.json) |
