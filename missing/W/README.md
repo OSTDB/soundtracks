@@ -677,7 +677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan-wan Meitantei EX | 287264 | [287264-wan-wan-meitantei-ex.json](./287264-wan-wan-meitantei-ex.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
-| Wanba Warriors | 113986 | [113986-wanba-warriors.json](./113986-wanba-warriors.json) |
 | Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
 | Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
 | Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
@@ -2517,7 +2516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone of Destiny 95 | 256612 | [256612-warzone-of-destiny-95.json](./256612-warzone-of-destiny-95.json) |
 | Warzone Tower Defense | 272436 | [272436-warzone-tower-defense.json](./272436-warzone-tower-defense.json) |
 | Warzone Tower Defense Extended | 272438 | [272438-warzone-tower-defense-extended.json](./272438-warzone-tower-defense-extended.json) |
-| Warzone VR | 113879 | [113879-warzone-vr.json](./113879-warzone-vr.json) |
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
 | Warzone: Clash of Generals | 71018 | [71018-warzone-clash-of-generals.json](./71018-warzone-clash-of-generals.json) |
@@ -6795,7 +6793,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
 | Wings of Fury | 12828 | [12828-wings-of-fury.json](./12828-wings-of-fury.json) |
-| Wings of Glass | 114603 | [114603-wings-of-glass.json](./114603-wings-of-glass.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Glory | 46717 | [46717-wings-of-glory.json](./46717-wings-of-glory.json) |
 | Wings of Heroes | 273679 | [273679-wings-of-heroes.json](./273679-wings-of-heroes.json) |
