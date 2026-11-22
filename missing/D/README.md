@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
 | Dead Man Inc | 77781 | [77781-dead-man-inc.json](./77781-dead-man-inc.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
+| Dead Man's Clock | 425096 | [425096-dead-mans-clock.json](./425096-dead-mans-clock.json) |
 | Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
@@ -12809,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine | 229587 | [229587-divine.json](./229587-divine.json) |
 | Divine Academy | 348713 | [348713-divine-academy.json](./348713-divine-academy.json) |
 | Divine Adventure: Act One | 174121 | [174121-divine-adventure-act-one.json](./174121-divine-adventure-act-one.json) |
+| Divine Ascendancy | 425090 | [425090-divine-ascendancy.json](./425090-divine-ascendancy.json) |
 | Divine Ascent | 29179 | [29179-divine-ascent.json](./29179-divine-ascent.json) |
 | Divine Ascent: Map Pack | 161752 | [161752-divine-ascent-map-pack.json](./161752-divine-ascent-map-pack.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
@@ -15839,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
+| Dot Colony | 425094 | [425094-dot-colony.json](./425094-dot-colony.json) |
 | Dot Com Mystery | 393383 | [393383-dot-com-mystery.json](./393383-dot-com-mystery.json) |
 | Dot Connect | 363651 | [363651-dot-connect.json](./363651-dot-connect.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
@@ -18073,6 +18076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draugen | 9835 | [9835-draugen.json](./9835-draugen.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draught | 383170 | [383170-draught.json](./383170-draught.json) |
+| Draught King | 425658 | [425658-draught-king.json](./425658-draught-king.json) |
 | Draught Kraft | 133352 | [133352-draught-kraft.json](./133352-draught-kraft.json) |
 | Draughts | 178135 | [178135-draughts.json](./178135-draughts.json) |
 | Draughts | 210221 | [210221-draughts.json](./210221-draughts.json) |
@@ -21262,6 +21266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Plunder | 175463 | [175463-dungeon-plunder.json](./175463-dungeon-plunder.json) |
 | Dungeon Princess | 108533 | [108533-dungeon-princess.json](./108533-dungeon-princess.json) |
 | Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
+| Dungeon Prisoner Simulator | 425075 | [425075-dungeon-prisoner-simulator.json](./425075-dungeon-prisoner-simulator.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Punks | 32021 | [32021-dungeon-punks.json](./32021-dungeon-punks.json) |
 | Dungeon Puzzle Sweeper | 389661 | [389661-dungeon-puzzle-sweeper.json](./389661-dungeon-puzzle-sweeper.json) |
