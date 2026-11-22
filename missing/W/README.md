@@ -6215,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | Wildbus | 111358 | [111358-wildbus.json](./111358-wildbus.json) |
 | Wildcard | 235086 | [235086-wildcard.json](./235086-wildcard.json) |
+| Wildcard | 427890 | [427890-wildcard.json](./427890-wildcard.json) |
 | Wildcat Gun Machine | 139676 | [139676-wildcat-gun-machine.json](./139676-wildcat-gun-machine.json) |
 | Wildcat Snack Attack | 338366 | [338366-wildcat-snack-attack.json](./338366-wildcat-snack-attack.json) |
 | Wildcatting | 42131 | [42131-wildcatting.json](./42131-wildcatting.json) |
@@ -6765,6 +6766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingman Special: Saraba Yume Senshi | 80303 | [80303-wingman-special-saraba-yume-senshi.json](./80303-wingman-special-saraba-yume-senshi.json) |
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | WingMen | 81908 | [81908-wingmen.json](./81908-wingmen.json) |
+| Wingmen Chronicles | 427646 | [427646-wingmen-chronicles.json](./427646-wingmen-chronicles.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
 | WingNuts 2: Raina's Revenge | 71290 | [71290-wingnuts-2-rainas-revenge.json](./71290-wingnuts-2-rainas-revenge.json) |
 | Wingnuts MotoRacer | 92744 | [92744-wingnuts-motoracer.json](./92744-wingnuts-motoracer.json) |
@@ -9163,6 +9165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
 | Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
+| Working with Montabi | 427899 | [427899-working-with-montabi.json](./427899-working-with-montabi.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working Zombies | 133499 | [133499-working-zombies.json](./133499-working-zombies.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
