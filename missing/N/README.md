@@ -2202,6 +2202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighborhood Conflict | 427740 | [427740-neighborhood-conflict.json](./427740-neighborhood-conflict.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighborhood Watch | 133484 | [133484-neighborhood-watch.json](./133484-neighborhood-watch.json) |
+| Neighborhood Watchers | 424054 | [424054-neighborhood-watchers.json](./424054-neighborhood-watchers.json) |
 | Neighborhoods | 403820 | [403820-neighborhoods.json](./403820-neighborhoods.json) |
 | Neighborhorde | 33452 | [33452-neighborhorde.json](./33452-neighborhorde.json) |
 | Neighboring Islands | 28423 | [28423-neighboring-islands.json](./28423-neighboring-islands.json) |
