@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabu Trader Shun | 123337 | [123337-kabu-trader-shun.json](./123337-kabu-trader-shun.json) |
 | Kabufuda | 276871 | [276871-kabufuda.json](./276871-kabufuda.json) |
 | Kabuki Fire | 352322 | [352322-kabuki-fire.json](./352322-kabuki-fire.json) |
+| Kabuki Fire: Dojo | 428005 | [428005-kabuki-fire-dojo.json](./428005-kabuki-fire-dojo.json) |
 | Kabuki Rocks | 37971 | [37971-kabuki-rocks.json](./37971-kabuki-rocks.json) |
 | Kabuki Warriors | 5873 | [5873-kabuki-warriors.json](./5873-kabuki-warriors.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing random dudes online | 110668 | [110668-killing-random-dudes-online.json](./110668-killing-random-dudes-online.json) |
 | Killing Room | 25254 | [25254-killing-room.json](./25254-killing-room.json) |
 | Killing Stream | 157750 | [157750-killing-stream.json](./157750-killing-stream.json) |
+| Killing Sun | 428004 | [428004-killing-sun.json](./428004-killing-sun.json) |
 | Killing Things With Your Friends | 389258 | [389258-killing-things-with-your-friends.json](./389258-killing-things-with-your-friends.json) |
 | Killing Time | 288936 | [288936-killing-time.json](./288936-killing-time.json) |
 | Killing Time | 82092 | [82092-killing-time.json](./82092-killing-time.json) |
