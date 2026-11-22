@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samira: Taken From Time | 244522 | [244522-samira-taken-from-time.json](./244522-samira-taken-from-time.json) |
 | Samira's House | 265494 | [265494-samiras-house.json](./265494-samiras-house.json) |
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
+| Samly's Bookly | 424477 | [424477-samlys-bookly.json](./424477-samlys-bookly.json) |
 | Samly's Merge | 339149 | [339149-samlys-merge.json](./339149-samlys-merge.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
@@ -17553,6 +17554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnaPaul 2: Anomalies | 347409 | [347409-snapaul-2-anomalies.json](./347409-snapaul-2-anomalies.json) |
 | Snapback | 258365 | [258365-snapback.json](./258365-snapback.json) |
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
+| SnapCats | 423441 | [423441-snapcats.json](./423441-snapcats.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapimals | 96832 | [96832-snapimals.json](./96832-snapimals.json) |
@@ -31938,6 +31940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
 | Stouthollow Tales | 149634 | [149634-stouthollow-tales.json](./149634-stouthollow-tales.json) |
+| Stovik | 424055 | [424055-stovik.json](./424055-stovik.json) |
 | Stow Away | 400958 | [400958-stow-away.json](./400958-stow-away.json) |
 | Stowaway | 135366 | [135366-stowaway.json](./135366-stowaway.json) |
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
@@ -32255,6 +32258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrateZ | 159432 | [159432-stratez.json](./159432-stratez.json) |
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
+| Strato Alto | 424053 | [424053-strato-alto.json](./424053-strato-alto.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
 | Strato Fighter | 41090 | [41090-strato-fighter.json](./41090-strato-fighter.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
@@ -41030,6 +41034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch - Black & White | 105208 | [105208-switch-black-and-white.json](./105208-switch-black-and-white.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch & Ditch | 113872 | [113872-switch-and-ditch.json](./113872-switch-and-ditch.json) |
+| Switch Ball Deluxe | 424476 | [424476-switch-ball-deluxe.json](./424476-switch-ball-deluxe.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
 | Switch Box | 368592 | [368592-switch-box.json](./368592-switch-box.json) |
 | Switch Color | 101093 | [101093-switch-color.json](./101093-switch-color.json) |
