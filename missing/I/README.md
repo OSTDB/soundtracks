@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Know a Guy | 389006 | [389006-i-know-a-guy.json](./389006-i-know-a-guy.json) |
 | I Know a Spot | 408984 | [408984-i-know-a-spot.json](./408984-i-know-a-spot.json) |
 | I Know a Tale | 31280 | [31280-i-know-a-tale.json](./31280-i-know-a-tale.json) |
+| I Know Kung Fu | 425088 | [425088-i-know-kung-fu.json](./425088-i-know-kung-fu.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
 | I Know Your Address | 288776 | [288776-i-know-your-address.json](./288776-i-know-your-address.json) |
@@ -7675,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Block-Pushing Game | 290354 | [290354-its-a-block-pushing-game.json](./290354-its-a-block-pushing-game.json) |
 | It's a Dog's Love | 299031 | [299031-its-a-dogs-love.json](./299031-its-a-dogs-love.json) |
 | It's A Farmer Thing | 321844 | [321844-its-a-farmer-thing.json](./321844-its-a-farmer-thing.json) |
+| It's a Flop | 425073 | [425073-its-a-flop.json](./425073-its-a-flop.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
