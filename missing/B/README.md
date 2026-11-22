@@ -7040,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Broadcast: The Director's Cut | 412620 | [412620-behind-the-broadcast-the-directors-cut.json](./412620-behind-the-broadcast-the-directors-cut.json) |
 | Behind the Brush! | 321700 | [321700-behind-the-brush.json](./321700-behind-the-brush.json) |
+| Behind the Corner | 425709 | [425709-behind-the-corner.json](./425709-behind-the-corner.json) |
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
 | Behind the Door | 55450 | [55450-behind-the-door.json](./55450-behind-the-door.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
@@ -21005,6 +21006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Tour: Great Leaders - Napoleon | 170235 | [170235-business-tour-great-leaders-napoleon.json](./170235-business-tour-great-leaders-napoleon.json) |
 | Business trip | 359881 | [359881-business-trip.json](./359881-business-trip.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
+| Business Tycoon | 425697 | [425697-business-tycoon.json](./425697-business-tycoon.json) |
 | Business Tycoon Billionaire | 103823 | [103823-business-tycoon-billionaire.json](./103823-business-tycoon-billionaire.json) |
 | Business Wars | 48723 | [48723-business-wars.json](./48723-business-wars.json) |
 | Business Wars: The Card Game | 133113 | [133113-business-wars-the-card-game.json](./133113-business-wars-the-card-game.json) |
