@@ -4773,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Descent | 310905 | [310905-deadly-descent.json](./310905-deadly-descent.json) |
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
+| Deadly Dimensions | 424491 | [424491-deadly-dimensions.json](./424491-deadly-dimensions.json) |
 | Deadly Disco | 291635 | [291635-deadly-disco.json](./291635-deadly-disco.json) |
 | Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
 | Deadly Dogs | 41476 | [41476-deadly-dogs.json](./41476-deadly-dogs.json) |
@@ -8634,6 +8635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Gods | 63167 | [63167-desperate-gods.json](./63167-desperate-gods.json) |
 | Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
 | Desperate Island | 244561 | [244561-desperate-island.json](./244561-desperate-island.json) |
+| Desperate Kart | 424511 | [424511-desperate-kart.json](./424511-desperate-kart.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate Skeleton | 238470 | [238470-desperate-skeleton.json](./238470-desperate-skeleton.json) |
 | Desperate Survival | 239712 | [239712-desperate-survival.json](./239712-desperate-survival.json) |
@@ -9489,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil’s Propose | 254609 | [254609-devil-s-propose.json](./254609-devil-s-propose.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Roulette | 411110 | [411110-devils-roulette.json](./411110-devils-roulette.json) |
+| Devil's Sanctum | 424914 | [424914-devils-sanctum.json](./424914-devils-sanctum.json) |
 | Devil's Terminal | 374406 | [374406-devils-terminal.json](./374406-devils-terminal.json) |
 | Devil's Third | 7395 | [7395-devils-third.json](./7395-devils-third.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
@@ -14246,6 +14249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions 5: Warriors of the Faith | 77769 | [77769-dominions-5-warriors-of-the-faith.json](./77769-dominions-5-warriors-of-the-faith.json) |
 | Dominions 6: Rise of the Pantokrator | 260340 | [260340-dominions-6-rise-of-the-pantokrator.json](./260340-dominions-6-rise-of-the-pantokrator.json) |
+| Dominions of War | 424479 | [424479-dominions-of-war.json](./424479-dominions-of-war.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
 | Dominique Pamplemousse & Dominique Pamplemousse in "Combinatorial Explosion" | 125051 | [125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json](./125051-dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion.json) |
