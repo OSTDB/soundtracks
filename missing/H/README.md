@@ -10574,6 +10574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
+| Holofleet | 425093 | [425093-holofleet.json](./425093-holofleet.json) |
 | HoloFunk: Hololive Funkin' | 178138 | [178138-holofunk-hololive-funkin.json](./178138-holofunk-hololive-funkin.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
