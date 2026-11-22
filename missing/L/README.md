@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
+| Ladder Knight | 424031 | [424031-ladder-knight.json](./424031-ladder-knight.json) |
 | Ladder Larry | 220389 | [220389-ladder-larry.json](./220389-ladder-larry.json) |
 | Ladder Man | 70089 | [70089-ladder-man.json](./70089-ladder-man.json) |
 | Ladder Slasher | 56878 | [56878-ladder-slasher.json](./56878-ladder-slasher.json) |
@@ -8298,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
 | Lone Soul | 341981 | [341981-lone-soul.json](./341981-lone-soul.json) |
+| Lone Sprout: Il Germoglio Solitario | 423839 | [423839-lone-sprout-il-germoglio-solitario.json](./423839-lone-sprout-il-germoglio-solitario.json) |
 | Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
 | Lone Survivor: The Director's Cut | 21683 | [21683-lone-survivor-the-directors-cut.json](./21683-lone-survivor-the-directors-cut.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
