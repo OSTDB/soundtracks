@@ -2837,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Magical Drop III | 88578 | [88578-aca-neo-geo-magical-drop-iii.json](./88578-aca-neo-geo-magical-drop-iii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
 | ACA Neo Geo: Master of Syougi | 396881 | [396881-aca-neo-geo-master-of-syougi.json](./396881-aca-neo-geo-master-of-syougi.json) |
+| ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
 | ACA Neo Geo: Metal Slug 4 | 106858 | [106858-aca-neo-geo-metal-slug-4.json](./106858-aca-neo-geo-metal-slug-4.json) |
 | ACA Neo Geo: Metal Slug 5 | 118571 | [118571-aca-neo-geo-metal-slug-5.json](./118571-aca-neo-geo-metal-slug-5.json) |
@@ -3813,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
 | Adept | 377491 | [377491-adept.json](./377491-adept.json) |
 | Adepts Arena | 344156 | [344156-adepts-arena.json](./344156-adepts-arena.json) |
+| Adeptus Titanicus: Dominus | 100354 | [100354-adeptus-titanicus-dominus.json](./100354-adeptus-titanicus-dominus.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | ADHD Arena | 276860 | [276860-adhd-arena.json](./276860-adhd-arena.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aenigma Os | 84740 | [84740-aenigma-os.json](./84740-aenigma-os.json) |
 | Aenigmarch | 360655 | [360655-aenigmarch.json](./360655-aenigmarch.json) |
 | Aenoic Abyss | 377495 | [377495-aenoic-abyss.json](./377495-aenoic-abyss.json) |
+| Aentity | 99590 | [99590-aentity.json](./99590-aentity.json) |
 | Aeoliada | 353882 | [353882-aeoliada.json](./353882-aeoliada.json) |
 | Aeolus Fighter | 236797 | [236797-aeolus-fighter.json](./236797-aeolus-fighter.json) |
 | Aeolus Fighter 2 | 231827 | [231827-aeolus-fighter-2.json](./231827-aeolus-fighter-2.json) |
@@ -6906,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Simulator 2014 | 16899 | [16899-airport-simulator-2014.json](./16899-airport-simulator-2014.json) |
 | Airport Simulator 2015 | 17771 | [17771-airport-simulator-2015.json](./17771-airport-simulator-2015.json) |
+| Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator 3: Day & Night | 172249 | [172249-airport-simulator-3-day-and-night.json](./172249-airport-simulator-3-day-and-night.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Simulator: First Class | 228158 | [228158-airport-simulator-first-class.json](./228158-airport-simulator-first-class.json) |
@@ -13373,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anzu | 325056 | [325056-anzu.json](./325056-anzu.json) |
 | Anzu Castle Gracula | 306863 | [306863-anzu-castle-gracula.json](./306863-anzu-castle-gracula.json) |
 | Ao | 142075 | [142075-ao.json](./142075-ao.json) |
+| AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Exorcist: Genkoku no Labyrinth | 65128 | [65128-ao-no-exorcist-genkoku-no-labyrinth.json](./65128-ao-no-exorcist-genkoku-no-labyrinth.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
@@ -14603,6 +14608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bonze Adventure | 242553 | [242553-arcade-archives-bonze-adventure.json](./242553-arcade-archives-bonze-adventure.json) |
 | Arcade Archives: Bosconian | 263187 | [263187-arcade-archives-bosconian.json](./263187-arcade-archives-bosconian.json) |
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
+| Arcade Archives: Bubble Bobble | 99762 | [99762-arcade-archives-bubble-bobble.json](./99762-arcade-archives-bubble-bobble.json) |
 | Arcade Archives: Burger Time | 145241 | [145241-arcade-archives-burger-time.json](./145241-arcade-archives-burger-time.json) |
 | Arcade Archives: Burnin' Rubber | 145248 | [145248-arcade-archives-burnin-rubber.json](./145248-arcade-archives-burnin-rubber.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
@@ -14686,6 +14692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gee Bee | 371413 | [371413-arcade-archives-gee-bee.json](./371413-arcade-archives-gee-bee.json) |
 | Arcade Archives: Gemini Wing | 146343 | [146343-arcade-archives-gemini-wing.json](./146343-arcade-archives-gemini-wing.json) |
 | Arcade Archives: Golf | 125054 | [125054-arcade-archives-golf.json](./125054-arcade-archives-golf.json) |
+| Arcade Archives: Gradius | 99560 | [99560-arcade-archives-gradius.json](./99560-arcade-archives-gradius.json) |
 | Arcade Archives: Gradius II | 99541 | [99541-arcade-archives-gradius-ii.json](./99541-arcade-archives-gradius-ii.json) |
 | Arcade Archives: Gradius III | 147110 | [147110-arcade-archives-gradius-iii.json](./147110-arcade-archives-gradius-iii.json) |
 | Arcade Archives: Grobda | 238098 | [238098-arcade-archives-grobda.json](./238098-arcade-archives-grobda.json) |
@@ -14879,6 +14886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Super Contra | 283022 | [283022-arcade-archives-super-contra.json](./283022-arcade-archives-super-contra.json) |
 | Arcade Archives: Super Dimension Fortress Macross | 327537 | [327537-arcade-archives-super-dimension-fortress-macross.json](./327537-arcade-archives-super-dimension-fortress-macross.json) |
 | Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
+| Arcade Archives: Super Dodge Ball | 99568 | [99568-arcade-archives-super-dodge-ball.json](./99568-arcade-archives-super-dodge-ball.json) |
 | Arcade Archives: Super Pac-Man | 187461 | [187461-arcade-archives-super-pac-man.json](./187461-arcade-archives-super-pac-man.json) |
 | Arcade Archives: Super Punch-Out!! | 147118 | [147118-arcade-archives-super-punch-out.json](./147118-arcade-archives-super-punch-out.json) |
 | Arcade Archives: Super Volleyball | 214665 | [214665-arcade-archives-super-volleyball.json](./214665-arcade-archives-super-volleyball.json) |
