@@ -4756,7 +4756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's Dawn | 36574 | [36574-aeons-dawn.json](./36574-aeons-dawn.json) |
-| Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeon's End: The Nameless | 172300 | [172300-aeons-end-the-nameless.json](./172300-aeons-end-the-nameless.json) |
 | Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
