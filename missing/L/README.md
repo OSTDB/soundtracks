@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Bionicle | 6323 | [6323-lego-bionicle.json](./6323-lego-bionicle.json) |
 | LEGO Bionicle: Mask of Control | 343362 | [343362-lego-bionicle-mask-of-control.json](./343362-lego-bionicle-mask-of-control.json) |
 | LEGO Bionicle: Mask of Creation | 343361 | [343361-lego-bionicle-mask-of-creation.json](./343361-lego-bionicle-mask-of-creation.json) |
+| LEGO Brawls | 117006 | [117006-lego-brawls.json](./117006-lego-brawls.json) |
 | LEGO Bricktales | 194745 | [194745-lego-bricktales.json](./194745-lego-bricktales.json) |
 | LEGO Bricktales | 279388 | [279388-lego-bricktales.json](./279388-lego-bricktales.json) |
 | LEGO Builder Bots | 145369 | [145369-lego-builder-bots.json](./145369-lego-builder-bots.json) |
@@ -8249,6 +8250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone City | 373163 | [373163-lone-city.json](./373163-lone-city.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone Echo | 24917 | [24917-lone-echo.json](./24917-lone-echo.json) |
+| Lone Echo II | 117277 | [117277-lone-echo-ii.json](./117277-lone-echo-ii.json) |
 | Lone Elven Wanderer | 200575 | [200575-lone-elven-wanderer.json](./200575-lone-elven-wanderer.json) |
 | Lone Fungus | 146568 | [146568-lone-fungus.json](./146568-lone-fungus.json) |
 | Lone Fungus: Melody of Spores | 264139 | [264139-lone-fungus-melody-of-spores.json](./264139-lone-fungus-melody-of-spores.json) |
@@ -10959,6 +10961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lug's Tiny Torture | 300268 | [300268-lugs-tiny-torture.json](./300268-lugs-tiny-torture.json) |
 | Lug's Tiny Torture Lite | 300269 | [300269-lugs-tiny-torture-lite.json](./300269-lugs-tiny-torture-lite.json) |
 | Lugal: Bronze Age Survival Game | 374549 | [374549-lugal-bronze-age-survival-game.json](./374549-lugal-bronze-age-survival-game.json) |
+| LuGame: Lunchtime Games Club! | 116983 | [116983-lugame-lunchtime-games-club.json](./116983-lugame-lunchtime-games-club.json) |
 | Lugano Bay Tycoon | 422780 | [422780-lugano-bay-tycoon.json](./422780-lugano-bay-tycoon.json) |
 | Lugaru | 14940 | [14940-lugaru.json](./14940-lugaru.json) |
 | Lugaru HD | 180628 | [180628-lugaru-hd.json](./180628-lugaru-hd.json) |
@@ -11009,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 2D: Eternal Night | 183480 | [183480-luigis-mansion-2d-eternal-night.json](./183480-luigis-mansion-2d-eternal-night.json) |
 | Luigi's Mansion 3 | 109455 | [109455-luigis-mansion-3.json](./109455-luigis-mansion-3.json) |
 | Luigi's Mansion 3: Multiplayer Pack - Part 1 | 127549 | [127549-luigis-mansion-3-multiplayer-pack-part-1.json](./127549-luigis-mansion-3-multiplayer-pack-part-1.json) |
+| Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64 | 218072 | [218072-luigis-mansion-64.json](./218072-luigis-mansion-64.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
 | Luigi's Mansion Arcade | 60852 | [60852-luigis-mansion-arcade.json](./60852-luigis-mansion-arcade.json) |
