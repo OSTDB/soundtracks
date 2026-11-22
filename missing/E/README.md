@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of a Thread | 393053 | [393053-echoes-of-a-thread.json](./393053-echoes-of-a-thread.json) |
 | Echoes of a Turnabout: Franziska von Karma | 318768 | [318768-echoes-of-a-turnabout-franziska-von-karma.json](./318768-echoes-of-a-turnabout-franziska-von-karma.json) |
 | Echoes of Above | 407874 | [407874-echoes-of-above.json](./407874-echoes-of-above.json) |
+| Echoes of Absence | 429092 | [429092-echoes-of-absence.json](./429092-echoes-of-absence.json) |
 | Echoes of Adventure | 346261 | [346261-echoes-of-adventure.json](./346261-echoes-of-adventure.json) |
 | Echoes of Aeons | 139142 | [139142-echoes-of-aeons.json](./139142-echoes-of-aeons.json) |
 | Echoes of Aetheria | 27759 | [27759-echoes-of-aetheria.json](./27759-echoes-of-aetheria.json) |
@@ -3095,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixir | 196378 | [196378-elixir.json](./196378-elixir.json) |
 | Elixir | 226378 | [226378-elixir.json](./226378-elixir.json) |
 | Elixir Emporium | 317297 | [317297-elixir-emporium.json](./317297-elixir-emporium.json) |
+| Elixir of Immortality | 429217 | [429217-elixir-of-immortality.json](./429217-elixir-of-immortality.json) |
 | Elixir of Immortality II: The League of Immortality | 101451 | [101451-elixir-of-immortality-ii-the-league-of-immortality.json](./101451-elixir-of-immortality-ii-the-league-of-immortality.json) |
 | Elixir of Imortality: Hidden Object Game | 145113 | [145113-elixir-of-imortality-hidden-object-game.json](./145113-elixir-of-imortality-hidden-object-game.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
