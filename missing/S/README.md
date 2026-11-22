@@ -9500,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
 | Shield Hero | 351630 | [351630-shield-hero.json](./351630-shield-hero.json) |
 | Shield Hero Rise | 188386 | [188386-shield-hero-rise.json](./188386-shield-hero-rise.json) |
+| Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
 | Shield King | 251921 | [251921-shield-king.json](./251921-shield-king.json) |
 | Shield knight | 285308 | [285308-shield-knight.json](./285308-shield-knight.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
@@ -28076,6 +28077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: First Departure R | 119057 | [119057-star-ocean-first-departure-r.json](./119057-star-ocean-first-departure-r.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star Ocean: Integrity and Faithlessness - Limited Edition | 42956 | [42956-star-ocean-integrity-and-faithlessness-limited-edition.json](./42956-star-ocean-integrity-and-faithlessness-limited-edition.json) |
+| Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Divine Force - Digital Deluxe Edition | 225378 | [225378-star-ocean-the-divine-force-digital-deluxe-edition.json](./225378-star-ocean-the-divine-force-digital-deluxe-edition.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
@@ -28961,6 +28963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDrive 2: Digital Deluxe Edition | 53662 | [53662-stardrive-2-digital-deluxe-edition.json](./53662-stardrive-2-digital-deluxe-edition.json) |
 | StarDrive 2: Sector Zero | 53660 | [53660-stardrive-2-sector-zero.json](./53660-stardrive-2-sector-zero.json) |
 | StarDrone | 10890 | [10890-stardrone.json](./10890-stardrone.json) |
+| StarDrone | 82029 | [82029-stardrone.json](./82029-stardrone.json) |
 | StarDrone VR | 118930 | [118930-stardrone-vr.json](./118930-stardrone-vr.json) |
 | StarDroneVR | 105983 | [105983-stardronevr.json](./105983-stardronevr.json) |
 | Stardrop | 302398 | [302398-stardrop.json](./302398-stardrop.json) |
@@ -33213,6 +33216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
+| Strong Bad's Cool Game for Attractive People Episode 4: Dangeresque 3 - The Criminal Projective | 81242 | [81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json](./81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
@@ -34553,6 +34557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumerians | 126511 | [126511-sumerians.json](./126511-sumerians.json) |
 | Sumerians: Assyrian Statues | 304462 | [304462-sumerians-assyrian-statues.json](./304462-sumerians-assyrian-statues.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
+| Sumetrick | 81621 | [81621-sumetrick.json](./81621-sumetrick.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumi Sumi Party: Tap Puzzle | 235158 | [235158-sumi-sumi-party-tap-puzzle.json](./235158-sumi-sumi-party-tap-puzzle.json) |
 | Sumigami | 334171 | [334171-sumigami.json](./334171-sumigami.json) |
