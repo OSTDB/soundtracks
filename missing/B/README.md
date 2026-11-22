@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
 | Barrage Musical: A Fantasy of Tempest | 165196 | [165196-barrage-musical-a-fantasy-of-tempest.json](./165196-barrage-musical-a-fantasy-of-tempest.json) |
+| Barrage of Valhalla | 424484 | [424484-barrage-of-valhalla.json](./424484-barrage-of-valhalla.json) |
 | Barrage Populaire | 308966 | [308966-barrage-populaire.json](./308966-barrage-populaire.json) |
 | Barraka | 301891 | [301891-barraka.json](./301891-barraka.json) |
 | Barravento: O Mestre da Capoeira | 78075 | [78075-barravento-o-mestre-da-capoeira.json](./78075-barravento-o-mestre-da-capoeira.json) |
@@ -3726,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
 | Bastion of the Underworld | 271358 | [271358-bastion-of-the-underworld.json](./271358-bastion-of-the-underworld.json) |
 | Bastion of Valor | 353945 | [353945-bastion-of-valor.json](./353945-bastion-of-valor.json) |
+| Bastion Rivals | 424913 | [424913-bastion-rivals.json](./424913-bastion-rivals.json) |
 | Bastionfall | 361026 | [361026-bastionfall.json](./361026-bastionfall.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
@@ -5862,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Slayer | 254014 | [254014-beast-slayer.json](./254014-beast-slayer.json) |
 | Beast Slayer Origin | 333482 | [333482-beast-slayer-origin.json](./333482-beast-slayer-origin.json) |
 | Beast Survivor | 374792 | [374792-beast-survivor.json](./374792-beast-survivor.json) |
+| Beast Tide: Slay to Ascend | 424489 | [424489-beast-tide-slay-to-ascend.json](./424489-beast-tide-slay-to-ascend.json) |
 | Beast Unleashed | 349460 | [349460-beast-unleashed.json](./349460-beast-unleashed.json) |
 | Beast vs. Legends | 244614 | [244614-beast-vs-legends.json](./244614-beast-vs-legends.json) |
 | Beast War | 94607 | [94607-beast-war.json](./94607-beast-war.json) |
@@ -13839,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Fight | 303347 | [303347-bob-fight.json](./303347-bob-fight.json) |
 | Bob Help Them | 146949 | [146949-bob-help-them.json](./146949-bob-help-them.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
+| Bob Logistics | 424497 | [424497-bob-logistics.json](./424497-bob-logistics.json) |
 | Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
 | Bob Mod | 89122 | [89122-bob-mod.json](./89122-bob-mod.json) |
 | Bob Monster Truck Underwater Sponge Racing | 96325 | [96325-bob-monster-truck-underwater-sponge-racing.json](./96325-bob-monster-truck-underwater-sponge-racing.json) |
