@@ -4183,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Ice | 195544 | [195544-dead-ice.json](./195544-dead-ice.json) |
 | Dead Impact | 375919 | [375919-dead-impact.json](./375919-dead-impact.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
+| Dead in Splundia | 426833 | [426833-dead-in-splundia.json](./426833-dead-in-splundia.json) |
 | Dead in the Tropics | 171762 | [171762-dead-in-the-tropics.json](./171762-dead-in-the-tropics.json) |
 | Dead in the Water | 22846 | [22846-dead-in-the-water.json](./22846-dead-in-the-water.json) |
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
@@ -12659,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
 | Distortion VR | 155811 | [155811-distortion-vr.json](./155811-distortion-vr.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
+| Distraction Therapy | 426313 | [426313-distraction-therapy.json](./426313-distraction-therapy.json) |
 | Distractor | 347986 | [347986-distractor.json](./347986-distractor.json) |
 | Distraint | 13664 | [13664-distraint.json](./13664-distraint.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
@@ -20340,6 +20342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
+| Duck Your Friends | 426322 | [426322-duck-your-friends.json](./426322-duck-your-friends.json) |
 | Duck, Duck, Shoot | 290603 | [290603-duck-duck-shoot.json](./290603-duck-duck-shoot.json) |
 | Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
