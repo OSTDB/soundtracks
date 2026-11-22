@@ -6968,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aurora World | 218274 | [218274-the-aurora-world.json](./218274-the-aurora-world.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
+| The Automatician | 51504 | [51504-the-automatician.json](./51504-the-automatician.json) |
 | The Automaton of Second London | 355602 | [355602-the-automaton-of-second-london.json](./355602-the-automaton-of-second-london.json) |
 | The Avatar Legends | 76003 | [76003-the-avatar-legends.json](./76003-the-avatar-legends.json) |
 | The Avaunting | 15609 | [15609-the-avaunting.json](./15609-the-avaunting.json) |
@@ -18266,6 +18267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
 | The Rocky Horror Show Computer Game | 17274 | [17274-the-rocky-horror-show-computer-game.json](./17274-the-rocky-horror-show-computer-game.json) |
 | The Rocky Interactive Horror Show Game | 17273 | [17273-the-rocky-interactive-horror-show-game.json](./17273-the-rocky-interactive-horror-show-game.json) |
+| The Rodinia Project | 52077 | [52077-the-rodinia-project.json](./52077-the-rodinia-project.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
 | The Rogue | 410447 | [410447-the-rogue.json](./410447-the-rogue.json) |
 | The Rogue Cavern | 149623 | [149623-the-rogue-cavern.json](./149623-the-rogue-cavern.json) |
@@ -21548,6 +21550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walk of Life | 179987 | [179987-the-walk-of-life.json](./179987-the-walk-of-life.json) |
 | The Walker | 126764 | [126764-the-walker.json](./126764-the-walker.json) |
 | The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
+| The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
 | The Walking Dead Arcade | 131053 | [131053-the-walking-dead-arcade.json](./131053-the-walking-dead-arcade.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead Onslaught | 118485 | [118485-the-walking-dead-onslaught.json](./118485-the-walking-dead-onslaught.json) |
@@ -26684,6 +26687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
 | Time Trap 2: Search and Find Objects Game - Hidden Pictures | 173978 | [173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json](./173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
+| Time Trap: Hidden Objects | 51978 | [51978-time-trap-hidden-objects.json](./51978-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel | 204489 | [204489-time-travel.json](./204489-time-travel.json) |
 | Time Travel Bundle | 308828 | [308828-time-travel-bundle.json](./308828-time-travel-bundle.json) |
