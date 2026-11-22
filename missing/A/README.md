@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Reporter Arctic | 254623 | [254623-adventure-reporter-arctic.json](./254623-adventure-reporter-arctic.json) |
 | Adventure Reporter Jungle | 254622 | [254622-adventure-reporter-jungle.json](./254622-adventure-reporter-jungle.json) |
 | Adventure Reporter Ocean | 254621 | [254621-adventure-reporter-ocean.json](./254621-adventure-reporter-ocean.json) |
+| Adventure Reznara | 425030 | [425030-adventure-reznara.json](./425030-adventure-reznara.json) |
 | Adventure Road | 158383 | [158383-adventure-road.json](./158383-adventure-road.json) |
 | Adventure Road | 55719 | [55719-adventure-road.json](./55719-adventure-road.json) |
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
@@ -4553,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer's Consumer Guide | 8193 | [8193-adventurers-consumer-guide.json](./8193-adventurers-consumer-guide.json) |
 | Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
+| Adventurer’s Guild Manager | 425031 | [425031-adventurer-s-guild-manager.json](./425031-adventurer-s-guild-manager.json) |
 | Adventurer's Guild Reception | 391402 | [391402-adventurers-guild-reception.json](./391402-adventurers-guild-reception.json) |
 | Adventurers Guild | 165792 | [165792-adventurers-guild.json](./165792-adventurers-guild.json) |
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
@@ -6050,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agrarian developer | 283883 | [283883-agrarian-developer.json](./283883-agrarian-developer.json) |
 | AgrChamp | 240748 | [240748-agrchamp.json](./240748-agrchamp.json) |
 | Agress: Missile Daisenryaku | 38598 | [38598-agress-missile-daisenryaku.json](./38598-agress-missile-daisenryaku.json) |
+| Agressive Tendencies | 424916 | [424916-agressive-tendencies.json](./424916-agressive-tendencies.json) |
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
@@ -20274,6 +20277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augma II Arc I | 143309 | [143309-augma-ii-arc-i.json](./143309-augma-ii-arc-i.json) |
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
+| Augment Mahjong | 424480 | [424480-augment-mahjong.json](./424480-augment-mahjong.json) |
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
 | Augmented AR Jungle Adventure | 175311 | [175311-augmented-ar-jungle-adventure.json](./175311-augmented-ar-jungle-adventure.json) |
 | Augmented Brutality | 270539 | [270539-augmented-brutality.json](./270539-augmented-brutality.json) |
