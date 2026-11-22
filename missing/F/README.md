@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Hunter | 249026 | [249026-fairy-hunter.json](./249026-fairy-hunter.json) |
 | Fairy in a Jar | 221008 | [221008-fairy-in-a-jar.json](./221008-fairy-in-a-jar.json) |
 | Fairy Jewels 2 | 52987 | [52987-fairy-jewels-2.json](./52987-fairy-jewels-2.json) |
+| Fairy Keykeepers: Tidy Up Together | 424470 | [424470-fairy-keykeepers-tidy-up-together.json](./424470-fairy-keykeepers-tidy-up-together.json) |
 | Fairy Kingdom: Castle of Magic | 235284 | [235284-fairy-kingdom-castle-of-magic.json](./235284-fairy-kingdom-castle-of-magic.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
