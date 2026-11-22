@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenrir Banquet | 359136 | [359136-fenrir-banquet.json](./359136-fenrir-banquet.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fenrir's Prelude | 143510 | [143510-fenrirs-prelude.json](./143510-fenrirs-prelude.json) |
+| Fenrir's Ragnarök: Die Spiele der Götter | 426261 | [426261-fenrirs-ragnarok-die-spiele-der-gotter.json](./426261-fenrirs-ragnarok-die-spiele-der-gotter.json) |
 | Fenrir's Ragnarök: Die Spiele der Götter - Drachenblut | 426335 | [426335-fenrirs-ragnarok-die-spiele-der-gotter-drachenblut.json](./426335-fenrirs-ragnarok-die-spiele-der-gotter-drachenblut.json) |
 | Fenrisulfr Puzzle | 87753 | [87753-fenrisulfr-puzzle.json](./87753-fenrisulfr-puzzle.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
