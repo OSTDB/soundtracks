@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
 | Elroy Hits the Pavement | 75985 | [75985-elroy-hits-the-pavement.json](./75985-elroy-hits-the-pavement.json) |
 | Elroy's Costume Closet | 125541 | [125541-elroys-costume-closet.json](./125541-elroys-costume-closet.json) |
+| Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
 | Else Heart.Break() | 14395 | [14395-else-heart-break.json](./14395-else-heart-break.json) |
 | Else If: ReCurse | 420066 | [420066-else-if-recurse.json](./420066-else-if-recurse.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma: | 25686 | [25686-enigma.json](./25686-enigma.json) |
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigma: An Illusion Named Family | 35612 | [35612-enigma-an-illusion-named-family.json](./35612-enigma-an-illusion-named-family.json) |
+| Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
 | Enigma: Tiny Spy | 237593 | [237593-enigma-tiny-spy.json](./237593-enigma-tiny-spy.json) |
 | Enigmarble | 269024 | [269024-enigmarble.json](./269024-enigmarble.json) |
 | Enigmarella | 190223 | [190223-enigmarella.json](./190223-enigmarella.json) |
@@ -7462,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eurofighter Typhoon | 10281 | [10281-eurofighter-typhoon.json](./10281-eurofighter-typhoon.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Euroleague Basketball Manager | 54007 | [54007-euroleague-basketball-manager.json](./54007-euroleague-basketball-manager.json) |
+| EuroLeague Football | 24130 | [24130-euroleague-football.json](./24130-euroleague-football.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
 | Europa 1400: The Guild - Expansion Pack | 96545 | [96545-europa-1400-the-guild-expansion-pack.json](./96545-europa-1400-the-guild-expansion-pack.json) |
@@ -7551,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Wealth of Nations Collection | 52995 | [52995-europa-universalis-iv-wealth-of-nations-collection.json](./52995-europa-universalis-iv-wealth-of-nations-collection.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
+| Europa Universalis: Crown of the North | 24092 | [24092-europa-universalis-crown-of-the-north.json](./24092-europa-universalis-crown-of-the-north.json) |
 | Europa Universalis: Rome | 10285 | [10285-europa-universalis-rome.json](./10285-europa-universalis-rome.json) |
 | Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
 | Europa Universalis: Rome - Vae Victis | 10286 | [10286-europa-universalis-rome-vae-victis.json](./10286-europa-universalis-rome-vae-victis.json) |
@@ -8020,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Gates of Discord | 24240 | [24240-everquest-gates-of-discord.json](./24240-everquest-gates-of-discord.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
 | EverQuest: House of Thule | 66459 | [66459-everquest-house-of-thule.json](./66459-everquest-house-of-thule.json) |
+| EverQuest: Lost Dungeons of Norrath | 24093 | [24093-everquest-lost-dungeons-of-norrath.json](./24093-everquest-lost-dungeons-of-norrath.json) |
 | EverQuest: Night of Shadows | 239190 | [239190-everquest-night-of-shadows.json](./239190-everquest-night-of-shadows.json) |
 | EverQuest: Omens of War | 24247 | [24247-everquest-omens-of-war.json](./24247-everquest-omens-of-war.json) |
 | EverQuest: Platinum | 24246 | [24246-everquest-platinum.json](./24246-everquest-platinum.json) |
