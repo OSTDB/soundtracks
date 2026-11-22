@@ -8685,10 +8685,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riki Densetsu | 57225 | [57225-riki-densetsu.json](./57225-riki-densetsu.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
-| Rikki & Vikki | 113515 | [113515-rikki-and-vikki.json](./113515-rikki-and-vikki.json) |
 | Rikki and Mikki to the Rescue! | 73429 | [73429-rikki-and-mikki-to-the-rescue.json](./73429-rikki-and-mikki-to-the-rescue.json) |
 | Rikki Kuu | 220708 | [220708-rikki-kuu.json](./220708-rikki-kuu.json) |
 | Riko | 177585 | [177585-riko.json](./177585-riko.json) |
+| Rikogol | 421476 | [421476-rikogol.json](./421476-rikogol.json) |
 | Rikorisu: Lycoris Radiata | 77864 | [77864-rikorisu-lycoris-radiata.json](./77864-rikorisu-lycoris-radiata.json) |
 | Riku to Johan: Kaeta Nimai no E | 123407 | [123407-riku-to-johan-kaeta-nimai-no-e.json](./123407-riku-to-johan-kaeta-nimai-no-e.json) |
 | Rikua | 218672 | [218672-rikua.json](./218672-rikua.json) |
