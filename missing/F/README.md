@@ -2883,6 +2883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Harvest | 233380 | [233380-farm-harvest.json](./233380-farm-harvest.json) |
 | Farm Heroes Saga | 86962 | [86962-farm-heroes-saga.json](./86962-farm-heroes-saga.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
+| Farm Horror 1 | 426680 | [426680-farm-horror-1.json](./426680-farm-horror-1.json) |
 | Farm House Night | 323630 | [323630-farm-house-night.json](./323630-farm-house-night.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenrir Banquet | 359136 | [359136-fenrir-banquet.json](./359136-fenrir-banquet.json) |
 | Fenrir's fury | 252245 | [252245-fenrirs-fury.json](./252245-fenrirs-fury.json) |
 | Fenrir's Prelude | 143510 | [143510-fenrirs-prelude.json](./143510-fenrirs-prelude.json) |
+| Fenrir's Ragnarök: Die Spiele der Götter - Drachenblut | 426335 | [426335-fenrirs-ragnarok-die-spiele-der-gotter-drachenblut.json](./426335-fenrirs-ragnarok-die-spiele-der-gotter-drachenblut.json) |
 | Fenrisulfr Puzzle | 87753 | [87753-fenrisulfr-puzzle.json](./87753-fenrisulfr-puzzle.json) |
 | Fentanyl Edition | 327411 | [327411-fentanyl-edition.json](./327411-fentanyl-edition.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
