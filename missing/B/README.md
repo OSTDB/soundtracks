@@ -5258,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone | 94857 | [94857-battlezone.json](./94857-battlezone.json) |
 | BattleZone | 94821 | [94821-battlezone.json](./94821-battlezone.json) |
 | Battlezone 2 Remastered | 86456 | [86456-battlezone-2-remastered.json](./86456-battlezone-2-remastered.json) |
+| Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
 | Battlezone 98 Redux | 20076 | [20076-battlezone-98-redux.json](./20076-battlezone-98-redux.json) |
 | Battlezone 98 Redux: Odyssey Edition | 52453 | [52453-battlezone-98-redux-odyssey-edition.json](./52453-battlezone-98-redux-odyssey-edition.json) |
