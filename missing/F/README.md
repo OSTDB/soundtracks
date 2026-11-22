@@ -8915,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh-Handed Hot Casserole Delivery Bot | 422171 | [422171-flesh-handed-hot-casserole-delivery-bot.json](./422171-flesh-handed-hot-casserole-delivery-bot.json) |
 | Flesh, Blood, & Concrete | 172807 | [172807-flesh-blood-and-concrete.json](./172807-flesh-blood-and-concrete.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
+| Fleshbag | 429219 | [429219-fleshbag.json](./429219-fleshbag.json) |
 | Fleshbirds | 126114 | [126114-fleshbirds.json](./126114-fleshbirds.json) |
 | Fleshborn | 393299 | [393299-fleshborn.json](./393299-fleshborn.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
@@ -12819,6 +12820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxPaww | 143817 | [143817-foxpaww.json](./143817-foxpaww.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxtale | 328900 | [328900-foxtale.json](./328900-foxtale.json) |
+| FoxTales | 428938 | [428938-foxtales.json](./428938-foxtales.json) |
 | Foxtrot | 148077 | [148077-foxtrot.json](./148077-foxtrot.json) |
 | Foxtrot Creamery | 419877 | [419877-foxtrot-creamery.json](./419877-foxtrot-creamery.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
@@ -15821,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furiko | 135416 | [135416-furiko.json](./135416-furiko.json) |
 | Furion Chronicles | 385004 | [385004-furion-chronicles.json](./385004-furion-chronicles.json) |
 | Furion Chronicles 3 | 418432 | [418432-furion-chronicles-3.json](./418432-furion-chronicles-3.json) |
+| Furion Chronicles II | 429009 | [429009-furion-chronicles-ii.json](./429009-furion-chronicles-ii.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
 | Furious Bikers | 322114 | [322114-furious-bikers.json](./322114-furious-bikers.json) |
