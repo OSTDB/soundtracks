@@ -617,7 +617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | Wallsurf | 320074 | [320074-wallsurf.json](./320074-wallsurf.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
-| Wally and the Fantastic Predators | 121922 | [121922-wally-and-the-fantastic-predators.json](./121922-wally-and-the-fantastic-predators.json) |
 | Wally Bear and the NO! Gang | 48260 | [48260-wally-bear-and-the-no-gang.json](./48260-wally-bear-and-the-no-gang.json) |
 | Wally Kong | 62339 | [62339-wally-kong.json](./62339-wally-kong.json) |
 | Wally the Seal 2 | 320255 | [320255-wally-the-seal-2.json](./320255-wally-the-seal-2.json) |
@@ -854,7 +853,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanna Peek? Candy Bunnies | 336464 | [336464-wanna-peek-candy-bunnies.json](./336464-wanna-peek-candy-bunnies.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
-| Wanna Survive | 119809 | [119809-wanna-survive.json](./119809-wanna-survive.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
 | Wanna-Be a Dino Finder | 244004 | [244004-wanna-be-a-dino-finder.json](./244004-wanna-be-a-dino-finder.json) |
 | Wannabe Challenge | 191760 | [191760-wannabe-challenge.json](./191760-wannabe-challenge.json) |
@@ -1200,7 +1198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Sniper | 338395 | [338395-war-sniper.json](./338395-war-sniper.json) |
-| War Solution | 119851 | [119851-war-solution.json](./119851-war-solution.json) |
 | War Song | 193984 | [193984-war-song.json](./193984-war-song.json) |
 | War Stained | 152470 | [152470-war-stained.json](./152470-war-stained.json) |
 | War Stars | 327719 | [327719-war-stars.json](./327719-war-stars.json) |
@@ -1481,7 +1478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfleet Captains | 379781 | [379781-warfleet-captains.json](./379781-warfleet-captains.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | Warfork | 121290 | [121290-warfork.json](./121290-warfork.json) |
-| WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
 | Warframe Mobile | 174982 | [174982-warframe-mobile.json](./174982-warframe-mobile.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
@@ -2619,7 +2615,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Outpost | 383678 | [383678-wasteland-outpost.json](./383678-wasteland-outpost.json) |
 | Wasteland Punk | 175690 | [175690-wasteland-punk.json](./175690-wasteland-punk.json) |
 | Wasteland Racers 2071 | 421996 | [421996-wasteland-racers-2071.json](./421996-wasteland-racers-2071.json) |
-| Wasteland Raiders | 121805 | [121805-wasteland-raiders.json](./121805-wasteland-raiders.json) |
 | Wasteland Rangers | 338392 | [338392-wasteland-rangers.json](./338392-wasteland-rangers.json) |
 | Wasteland Remastered | 129143 | [129143-wasteland-remastered.json](./129143-wasteland-remastered.json) |
 | Wasteland Spirit | 383139 | [383139-wasteland-spirit.json](./383139-wasteland-spirit.json) |
@@ -3329,7 +3324,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
 | We Love Mind Control Rocket | 358725 | [358725-we-love-mind-control-rocket.json](./358725-we-love-mind-control-rocket.json) |
 | We March as One | 425754 | [425754-we-march-as-one.json](./425754-we-march-as-one.json) |
-| We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
 | We Might Die | 224732 | [224732-we-might-die.json](./224732-we-might-die.json) |
 | We Must Praise Our Glorious Leader the Flumf | 111403 | [111403-we-must-praise-our-glorious-leader-the-flumf.json](./111403-we-must-praise-our-glorious-leader-the-flumf.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
@@ -3843,7 +3837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
 | Welcome to Orochi Park | 76266 | [76266-welcome-to-orochi-park.json](./76266-welcome-to-orochi-park.json) |
 | Welcome to Pammy's Story in the World of Project: Summer Ice | 210929 | [210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json](./210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json) |
-| Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
 | Welcome to Paradize: Archeology Quest | 295652 | [295652-welcome-to-paradize-archeology-quest.json](./295652-welcome-to-paradize-archeology-quest.json) |
 | Welcome to ParadiZe: Dark Fantasy Cosmetic Pack | 289906 | [289906-welcome-to-paradize-dark-fantasy-cosmetic-pack.json](./289906-welcome-to-paradize-dark-fantasy-cosmetic-pack.json) |
