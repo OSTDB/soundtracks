@@ -7180,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Akegarasu: Journey to the Underworld | 392094 | [392094-akegarasu-journey-to-the-underworld.json](./392094-akegarasu-journey-to-the-underworld.json) |
 | Akeiro ni Somaru, Utsukushiki Yashiro de | 394791 | [394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json](./394791-akeiro-ni-somaru-utsukushiki-yashiro-de.json) |
+| Akelarre | 428469 | [428469-akelarre.json](./428469-akelarre.json) |
 | Akeldama | 260993 | [260993-akeldama.json](./260993-akeldama.json) |
 | Akemi-tan | 150550 | [150550-akemi-tan.json](./150550-akemi-tan.json) |
 | Akeno's Veil | 343874 | [343874-akenos-veil.json](./343874-akenos-veil.json) |
@@ -15394,6 +15395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanum Bonus Maps | 271954 | [271954-arcanum-bonus-maps.json](./271954-arcanum-bonus-maps.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
 | Arcanum Fortuna | 288711 | [288711-arcanum-fortuna.json](./288711-arcanum-fortuna.json) |
+| Arcanum Idle | 428468 | [428468-arcanum-idle.json](./428468-arcanum-idle.json) |
 | Arcanum Knights | 125512 | [125512-arcanum-knights.json](./125512-arcanum-knights.json) |
 | Arcanum Solitarius | 423164 | [423164-arcanum-solitarius.json](./423164-arcanum-solitarius.json) |
 | Arcanum: of Steamworks and Magick Obscura | 255 | [255-arcanum-of-steamworks-and-magick-obscura.json](./255-arcanum-of-steamworks-and-magick-obscura.json) |
@@ -16202,9 +16204,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
+| Ark: Astraeos | 428614 | [428614-ark-astraeos.json](./428614-ark-astraeos.json) |
 | Ark: Bob's Bundle | 331560 | [331560-ark-bobs-bundle.json](./331560-ark-bobs-bundle.json) |
 | Ark: Bob's Tall Tales | 294908 | [294908-ark-bobs-tall-tales.json](./294908-ark-bobs-tall-tales.json) |
 | ARK: Dinosaur Discovery | 223802 | [223802-ark-dinosaur-discovery.json](./223802-ark-dinosaur-discovery.json) |
+| Ark: Dragontopia | 428616 | [428616-ark-dragontopia.json](./428616-ark-dragontopia.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
 | Ark: Extinction Ascended | 338826 | [338826-ark-extinction-ascended.json](./338826-ark-extinction-ascended.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
@@ -18104,6 +18108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: The Legend of Beowulf | 323775 | [323775-assassins-creed-valhalla-the-legend-of-beowulf.json](./323775-assassins-creed-valhalla-the-legend-of-beowulf.json) |
 | Assassin's Creed Valhalla: The Way of the Berserker | 150042 | [150042-assassins-creed-valhalla-the-way-of-the-berserker.json](./150042-assassins-creed-valhalla-the-way-of-the-berserker.json) |
 | Assassin's Creed Valhalla: Title Update 1.5.1 | 222819 | [222819-assassins-creed-valhalla-title-update-1-5-1.json](./222819-assassins-creed-valhalla-title-update-1-5-1.json) |
+| Assassin's Creed Valhalla: Title Update 1.8.0 | 428613 | [428613-assassins-creed-valhalla-title-update-1-8-0.json](./428613-assassins-creed-valhalla-title-update-1-8-0.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen | 222834 | [222834-assassins-creed-valhalla-tombs-of-the-fallen.json](./222834-assassins-creed-valhalla-tombs-of-the-fallen.json) |
 | Assassin's Creed Valhalla: Tombs of the Fallen Pack 2 | 222835 | [222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json](./222835-assassins-creed-valhalla-tombs-of-the-fallen-pack-2.json) |
 | Assassin's Creed Valhalla: Ultimate Edition | 136132 | [136132-assassins-creed-valhalla-ultimate-edition.json](./136132-assassins-creed-valhalla-ultimate-edition.json) |
