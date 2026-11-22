@@ -1459,7 +1459,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oik 3 | 74196 | [74196-oik-3.json](./74196-oik-3.json) |
 | Oik 3D | 139619 | [139619-oik-3d.json](./139619-oik-3d.json) |
 | Oik 4 | 104564 | [104564-oik-4.json](./104564-oik-4.json) |
-| Oik 5 | 113912 | [113912-oik-5.json](./113912-oik-5.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
 | Oik Memory | 81155 | [81155-oik-memory.json](./81155-oik-memory.json) |
 | Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
@@ -3867,7 +3866,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Openbound | 210418 | [210418-openbound.json](./210418-openbound.json) |
 | Openbound Online | 183583 | [183583-openbound-online.json](./183583-openbound-online.json) |
 | OpenBVE | 51272 | [51272-openbve.json](./51272-openbve.json) |
-| Opencast Mining | 113846 | [113846-opencast-mining.json](./113846-opencast-mining.json) |
 | OpenCE | 420708 | [420708-opence.json](./420708-opence.json) |
 | OpenCity | 142948 | [142948-opencity.json](./142948-opencity.json) |
 | OpenClonk | 60297 | [60297-openclonk.json](./60297-openclonk.json) |
@@ -3909,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenSeason | 279154 | [279154-openseason.json](./279154-openseason.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
+| OpenTricky | 421470 | [421470-opentricky.json](./421470-opentricky.json) |
 | OpenTTD | 18074 | [18074-openttd.json](./18074-openttd.json) |
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
