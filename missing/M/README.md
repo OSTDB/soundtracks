@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Made: Rebirth | 32479 | [32479-machine-made-rebirth.json](./32479-machine-made-rebirth.json) |
 | Machine Match | 277338 | [277338-machine-match.json](./277338-machine-match.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
+| Machine Mind | 328621 | [328621-machine-mind.json](./328621-machine-mind.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
 | Machine of the Wasteland | 347725 | [347725-machine-of-the-wasteland.json](./347725-machine-of-the-wasteland.json) |
 | Machine Party | 397811 | [397811-machine-party.json](./397811-machine-party.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 09 | 243242 | [243242-madden-nfl-09.json](./243242-madden-nfl-09.json) |
 | Madden NFL 09 | 4984 | [4984-madden-nfl-09.json](./4984-madden-nfl-09.json) |
 | Madden NFL 09 All-Play | 229192 | [229192-madden-nfl-09-all-play.json](./229192-madden-nfl-09-all-play.json) |
+| Madden NFL 10 | 229203 | [229203-madden-nfl-10.json](./229203-madden-nfl-10.json) |
 | Madden NFL 10 | 229204 | [229204-madden-nfl-10.json](./229204-madden-nfl-10.json) |
 | Madden NFL 10 | 229205 | [229205-madden-nfl-10.json](./229205-madden-nfl-10.json) |
 | Madden NFL 10 | 4985 | [4985-madden-nfl-10.json](./4985-madden-nfl-10.json) |
@@ -3791,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Mini Things | 395927 | [395927-many-mini-things.json](./395927-many-mini-things.json) |
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Minigames | 369532 | [369532-many-minigames.json](./369532-many-minigames.json) |
+| Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
 | Many Years Ago | 146483 | [146483-many-years-ago.json](./146483-many-years-ago.json) |
 | Manygolf | 54740 | [54740-manygolf.json](./54740-manygolf.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
@@ -8433,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Casanova | 270229 | [270229-mega-casanova.json](./270229-mega-casanova.json) |
 | Mega Cat Studios Collection | 413408 | [413408-mega-cat-studios-collection.json](./413408-mega-cat-studios-collection.json) |
 | Mega Cat Studios Collection 3 | 420397 | [420397-mega-cat-studios-collection-3.json](./420397-mega-cat-studios-collection-3.json) |
+| Mega City Force | 238767 | [238767-mega-city-force.json](./238767-mega-city-force.json) |
 | Mega City Obby | 373975 | [373975-mega-city-obby.json](./373975-mega-city-obby.json) |
 | Mega City Police: Digital Collector's Edition | 260024 | [260024-mega-city-police-digital-collectors-edition.json](./260024-mega-city-police-digital-collectors-edition.json) |
 | Mega City Void | 190105 | [190105-mega-city-void.json](./190105-mega-city-void.json) |
@@ -16694,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Seed Never Ending Tomorrow | 44670 | [44670-mobile-suit-gundam-seed-never-ending-tomorrow.json](./44670-mobile-suit-gundam-seed-never-ending-tomorrow.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
+| Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
 | Mobile Suit Gundam Seed: Tomo to Kimi to Koko de | 49644 | [49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json](./49644-mobile-suit-gundam-seed-tomo-to-kimi-to-koko-de.json) |
 | Mobile Suit Gundam Side Stories | 61454 | [61454-mobile-suit-gundam-side-stories.json](./61454-mobile-suit-gundam-side-stories.json) |
 | Mobile Suit Gundam Side Story I: Sentritsu no Blue | 194943 | [194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json](./194943-mobile-suit-gundam-side-story-i-sentritsu-no-blue.json) |
@@ -18092,6 +18097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Crawl: Warrior | 276997 | [276997-monster-crawl-warrior.json](./276997-monster-crawl-warrior.json) |
 | Monster Create | 356009 | [356009-monster-create.json](./356009-monster-create.json) |
 | Monster Crown | 95616 | [95616-monster-crown.json](./95616-monster-crown.json) |
+| Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
 | Monster Cuisine | 422226 | [422226-monster-cuisine.json](./422226-monster-cuisine.json) |
@@ -18115,6 +18121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Energy Supercross 25: The Official Video Game | 336380 | [336380-monster-energy-supercross-25-the-official-video-game.json](./336380-monster-energy-supercross-25-the-official-video-game.json) |
 | Monster Energy Supercross 3: Special Edition | 165883 | [165883-monster-energy-supercross-3-special-edition.json](./165883-monster-energy-supercross-3-special-edition.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
+| Monster Energy Supercross 6: The Official Videogame | 228861 | [228861-monster-energy-supercross-6-the-official-videogame.json](./228861-monster-energy-supercross-6-the-official-videogame.json) |
 | Monster Energy Supercross: Special Edition | 175533 | [175533-monster-energy-supercross-special-edition.json](./175533-monster-energy-supercross-special-edition.json) |
 | Monster Energy Supercross: The Official Videogame | 74500 | [74500-monster-energy-supercross-the-official-videogame.json](./74500-monster-energy-supercross-the-official-videogame.json) |
 | Monster Energy Supercross: The Official Videogame - Compound | 170941 | [170941-monster-energy-supercross-the-official-videogame-compound.json](./170941-monster-energy-supercross-the-official-videogame-compound.json) |
@@ -18964,6 +18971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montezuma's Revenge Featuring Panama Joe | 46138 | [46138-montezumas-revenge-featuring-panama-joe.json](./46138-montezumas-revenge-featuring-panama-joe.json) |
 | Montezuma's Revenge: 8-Bit Edition | 234623 | [234623-montezumas-revenge-8-bit-edition.json](./234623-montezumas-revenge-8-bit-edition.json) |
 | Montezuma's Revenge: Director's Cut | 367306 | [367306-montezumas-revenge-directors-cut.json](./367306-montezumas-revenge-directors-cut.json) |
+| Montezuma's Revenge: The 40th Anniversary Edition | 330130 | [330130-montezumas-revenge-the-40th-anniversary-edition.json](./330130-montezumas-revenge-the-40th-anniversary-edition.json) |
 | Montgolfier Brothers' Test Flight | 413027 | [413027-montgolfier-brothers-test-flight.json](./413027-montgolfier-brothers-test-flight.json) |
 | Montgomery Fox and the Case of the Diamond Necklace | 226322 | [226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json](./226322-montgomery-fox-and-the-case-of-the-diamond-necklace.json) |
 | Montgomery Fox and the Case of the Missing Ballerinas | 224913 | [224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json](./224913-montgomery-fox-and-the-case-of-the-missing-ballerinas.json) |
@@ -19313,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Mori | 183308 | [183308-moonlight-mori.json](./183308-moonlight-mori.json) |
 | Moonlight Motel | 403091 | [403091-moonlight-motel.json](./403091-moonlight-motel.json) |
 | Moonlight Pale | 404436 | [404436-moonlight-pale.json](./404436-moonlight-pale.json) |
+| Moonlight Peaks | 237123 | [237123-moonlight-peaks.json](./237123-moonlight-peaks.json) |
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Pulse | 233882 | [233882-moonlight-pulse.json](./233882-moonlight-pulse.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
@@ -22475,6 +22484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
 | Murphy's Street | 137998 | [137998-murphys-street.json](./137998-murphys-street.json) |
 | Murray Mouse: Supercop | 63030 | [63030-murray-mouse-supercop.json](./63030-murray-mouse-supercop.json) |
+| Murtop | 232814 | [232814-murtop.json](./232814-murtop.json) |
 | Murus | 165123 | [165123-murus.json](./165123-murus.json) |
 | Musa | 298186 | [298186-musa.json](./298186-musa.json) |
 | Musaic Box | 15992 | [15992-musaic-box.json](./15992-musaic-box.json) |
@@ -25596,6 +25606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
+| Mythic Realms | 335289 | [335289-mythic-realms.json](./335289-mythic-realms.json) |
 | Mythic Samkok | 304970 | [304970-mythic-samkok.json](./304970-mythic-samkok.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Trials 2 | 364749 | [364749-mythic-trials-2.json](./364749-mythic-trials-2.json) |
