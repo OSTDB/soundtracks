@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outnumbered | 239904 | [239904-outnumbered.json](./239904-outnumbered.json) |
 | Outnumbered | 55869 | [55869-outnumbered.json](./55869-outnumbered.json) |
 | OutOfColors | 96237 | [96237-outofcolors.json](./96237-outofcolors.json) |
+| Outono Adventures | 424512 | [424512-outono-adventures.json](./424512-outono-adventures.json) |
 | Outpacked | 377983 | [377983-outpacked.json](./377983-outpacked.json) |
 | Outpath: First Journey | 236761 | [236761-outpath-first-journey.json](./236761-outpath-first-journey.json) |
 | Outplay | 395088 | [395088-outplay.json](./395088-outplay.json) |
@@ -6520,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpowered 2: Crux of Fate | 393627 | [393627-overpowered-2-crux-of-fate.json](./393627-overpowered-2-crux-of-fate.json) |
 | Overprint | 420163 | [420163-overprint.json](./420163-overprint.json) |
 | OverQuartz | 188246 | [188246-overquartz.json](./188246-overquartz.json) |
+| Overrafted! | 424487 | [424487-overrafted.json](./424487-overrafted.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Overreign | 117989 | [117989-overreign.json](./117989-overreign.json) |
 | Override | 210538 | [210538-override.json](./210538-override.json) |
