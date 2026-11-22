@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
 | Zoboomafoo: Animal Kids | 380941 | [380941-zoboomafoo-animal-kids.json](./380941-zoboomafoo-animal-kids.json) |
+| Zoboomafoo: Creature Quest | 425676 | [425676-zoboomafoo-creature-quest.json](./425676-zoboomafoo-creature-quest.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zoboomafoo: Playtime in Zobooland | 49978 | [49978-zoboomafoo-playtime-in-zobooland.json](./49978-zoboomafoo-playtime-in-zobooland.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
@@ -2596,7 +2597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Cleaner | 150799 | [150799-zoo-cleaner.json](./150799-zoo-cleaner.json) |
 | Zoo Clues | 397781 | [397781-zoo-clues.json](./397781-zoo-clues.json) |
-| Zoo Constructor | 115131 | [115131-zoo-constructor.json](./115131-zoo-constructor.json) |
 | Zoo Craft | 102464 | [102464-zoo-craft.json](./102464-zoo-craft.json) |
 | Zoo Dentist | 159017 | [159017-zoo-dentist.json](./159017-zoo-dentist.json) |
 | Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
@@ -2996,7 +2996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zurviv.io | 351253 | [351253-zurviv-io.json](./351253-zurviv-io.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
 | Zusi 3 Hobby | 112236 | [112236-zusi-3-hobby.json](./112236-zusi-3-hobby.json) |
-| Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zutto Issho: With Me Everytime | 166389 | [166389-zutto-issho-with-me-everytime.json](./166389-zutto-issho-with-me-everytime.json) |
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
