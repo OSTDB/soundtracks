@@ -1679,7 +1679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Deathpair | 186855 | [186855-magical-deathpair.json](./186855-magical-deathpair.json) |
 | Magical Diary: Horse Hall | 28035 | [28035-magical-diary-horse-hall.json](./28035-magical-diary-horse-hall.json) |
 | Magical Diary: Secrets Sharing | 85271 | [85271-magical-diary-secrets-sharing.json](./85271-magical-diary-secrets-sharing.json) |
-| Magical Diary: Wolf Hall | 113743 | [113743-magical-diary-wolf-hall.json](./113743-magical-diary-wolf-hall.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
 | Magical Disaster X | 182052 | [182052-magical-disaster-x.json](./182052-magical-disaster-x.json) |
@@ -7678,7 +7677,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
 | Mech Builder 3D: DLC 1 | 428473 | [428473-mech-builder-3d-dlc-1.json](./428473-mech-builder-3d-dlc-1.json) |
-| Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
 | Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
@@ -9851,7 +9849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
 | Meldev Power Boat Racing | 164274 | [164274-meldev-power-boat-racing.json](./164274-meldev-power-boat-racing.json) |
-| Melee | 113544 | [113544-melee.json](./113544-melee.json) |
 | Melee Fox & Falco in Super Mario 64 | 284146 | [284146-melee-fox-and-falco-in-super-mario-64.json](./284146-melee-fox-and-falco-in-super-mario-64.json) |
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
@@ -11505,7 +11502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalMuters | 388682 | [388682-metalmuters.json](./388682-metalmuters.json) |
 | MetalNoise | 31503 | [31503-metalnoise.json](./31503-metalnoise.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
-| Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
 | Metalstorm Online | 51644 | [51644-metalstorm-online.json](./51644-metalstorm-online.json) |
@@ -15633,7 +15629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Layers | 98557 | [98557-mirror-layers.json](./98557-mirror-layers.json) |
 | Mirror Lover | 187706 | [187706-mirror-lover.json](./187706-mirror-lover.json) |
 | Mirror Magic | 153069 | [153069-mirror-magic.json](./153069-mirror-magic.json) |
-| Mirror Maker | 113690 | [113690-mirror-maker.json](./113690-mirror-maker.json) |
 | Mirror Match | 363965 | [363965-mirror-match.json](./363965-mirror-match.json) |
 | Mirror Mirror | 230701 | [230701-mirror-mirror.json](./230701-mirror-mirror.json) |
 | Mirror Mirror | 340938 | [340938-mirror-mirror.json](./340938-mirror-mirror.json) |
@@ -16135,7 +16130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Forge | 337881 | [337881-mist-forge.json](./337881-mist-forge.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
-| Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
 | Mist Legacy | 143135 | [143135-mist-legacy.json](./143135-mist-legacy.json) |
 | Mist Monkey: Wanderer | 207461 | [207461-mist-monkey-wanderer.json](./207461-mist-monkey-wanderer.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
@@ -23400,6 +23394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
 | My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
+| My Cozi Shop: Craft & Sell | 422711 | [422711-my-cozi-shop-craft-and-sell.json](./422711-my-cozi-shop-craft-and-sell.json) |
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Cozy BookShop | 423723 | [423723-my-cozy-bookshop.json](./423723-my-cozy-bookshop.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
