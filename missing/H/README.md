@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Net | 208500 | [208500-hack-net.json](./208500-hack-net.json) |
 | Hack or Die! | 161469 | [161469-hack-or-die.json](./161469-hack-or-die.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
+| Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
 | Hack Slash Crawl | 387926 | [387926-hack-slash-crawl.json](./387926-hack-slash-crawl.json) |
 | Hack the Babel Inc. | 207558 | [207558-hack-the-babel-inc.json](./207558-hack-the-babel-inc.json) |
 | Hack the Core | 108367 | [108367-hack-the-core.json](./108367-hack-the-core.json) |
