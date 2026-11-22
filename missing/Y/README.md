@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Cookin', Good Lookin'! | 264403 | [264403-youre-cookin-good-lookin.json](./264403-youre-cookin-good-lookin.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
+| You're Fired | 99082 | [99082-youre-fired.json](./99082-youre-fired.json) |
 | You're Fired! | 367368 | [367368-youre-fired.json](./367368-youre-fired.json) |
 | You're Fired! Revenge! | 231582 | [231582-youre-fired-revenge.json](./231582-youre-fired-revenge.json) |
 | You're Full of It | 202180 | [202180-youre-full-of-it.json](./202180-youre-full-of-it.json) |
