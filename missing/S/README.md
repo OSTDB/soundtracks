@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-087-B Unity Remake Edition | 283126 | [283126-scp-087-b-unity-remake-edition.json](./283126-scp-087-b-unity-remake-edition.json) |
 | SCP-087: Recovered document | 81711 | [81711-scp-087-recovered-document.json](./81711-scp-087-recovered-document.json) |
 | SCP-087: The Stairwell Horror | 324126 | [324126-scp-087-the-stairwell-horror.json](./324126-scp-087-the-stairwell-horror.json) |
+| SCP-093 | 428615 | [428615-scp-093.json](./428615-scp-093.json) |
 | SCP-167 nn5n. Horror labyrinth | 88805 | [88805-scp-167-nn5n-horror-labyrinth.json](./88805-scp-167-nn5n-horror-labyrinth.json) |
 | SCP-3008: Infinite Store | 395022 | [395022-scp-3008-infinite-store.json](./395022-scp-3008-infinite-store.json) |
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
@@ -7061,6 +7062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Days Until Morning | 351527 | [351527-seven-days-until-morning.json](./351527-seven-days-until-morning.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
 | Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
+| Seven Days: Strange Locked-Room Life | 428608 | [428608-seven-days-strange-locked-room-life.json](./428608-seven-days-strange-locked-room-life.json) |
 | Seven Deadly Dates | 201436 | [201436-seven-deadly-dates.json](./201436-seven-deadly-dates.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Deadly Sins: Anime Boys Fantasy Love | 409932 | [409932-seven-deadly-sins-anime-boys-fantasy-love.json](./409932-seven-deadly-sins-anime-boys-fantasy-love.json) |
@@ -13471,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink | 169656 | [169656-sink.json](./169656-sink.json) |
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
+| Sink My Bricks! | 428467 | [428467-sink-my-bricks.json](./428467-sink-my-bricks.json) |
 | Sink or Skim | 76804 | [76804-sink-or-skim.json](./76804-sink-or-skim.json) |
 | Sink or Swim | 238836 | [238836-sink-or-swim.json](./238836-sink-or-swim.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
@@ -13677,6 +13680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister | 241694 | [241694-sister.json](./241694-sister.json) |
 | Sister & Brother: Maid Cafe | 97536 | [97536-sister-and-brother-maid-cafe.json](./97536-sister-and-brother-maid-cafe.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
+| Sister Compass: Slow Life Loving with My Sisters on a Deserted Island | 428605 | [428605-sister-compass-slow-life-loving-with-my-sisters-on-a-deserted-island.json](./428605-sister-compass-slow-life-loving-with-my-sisters-on-a-deserted-island.json) |
 | Sister Harassment | 97595 | [97595-sister-harassment.json](./97595-sister-harassment.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
@@ -13705,6 +13709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters | 33773 | [33773-sisters.json](./33773-sisters.json) |
+| Sisters Connect | 428610 | [428610-sisters-connect.json](./428610-sisters-connect.json) |
 | Sisters of Silent Liberty | 154410 | [154410-sisters-of-silent-liberty.json](./154410-sisters-of-silent-liberty.json) |
 | Sisters of Sodomorrah | 236747 | [236747-sisters-of-sodomorrah.json](./236747-sisters-of-sodomorrah.json) |
 | Sisters of Solitude | 391847 | [391847-sisters-of-solitude.json](./391847-sisters-of-solitude.json) |
@@ -15363,6 +15368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
 | Slavania | 171819 | [171819-slavania.json](./171819-slavania.json) |
+| Slavania: The Power of Drum | 428183 | [428183-slavania-the-power-of-drum.json](./428183-slavania-the-power-of-drum.json) |
 | Slave Fighter X | 158827 | [158827-slave-fighter-x.json](./158827-slave-fighter-x.json) |
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Girl | 97989 | [97989-slave-girl.json](./97989-slave-girl.json) |
@@ -25465,6 +25471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the World | 148208 | [148208-spin-the-world.json](./148208-spin-the-world.json) |
 | Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
 | Spin the World | 58553 | [58553-spin-the-world.json](./58553-spin-the-world.json) |
+| Spin Tide | 428177 | [428177-spin-tide.json](./428177-spin-tide.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
