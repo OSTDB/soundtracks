@@ -4456,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Days | 120145 | [120145-ten-days.json](./120145-ten-days.json) |
 | Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
+| Ten for the Descent | 428470 | [428470-ten-for-the-descent.json](./428470-ten-for-the-descent.json) |
 | Ten Little Indians | 24695 | [24695-ten-little-indians.json](./24695-ten-little-indians.json) |
 | Ten Little Taffers | 426066 | [426066-ten-little-taffers.json](./426066-ten-little-taffers.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
@@ -11827,6 +11828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grass of Genesis | 305419 | [305419-the-grass-of-genesis.json](./305419-the-grass-of-genesis.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave | 63085 | [63085-the-grave.json](./63085-the-grave.json) |
+| The Grave Abyss | 428176 | [428176-the-grave-abyss.json](./428176-the-grave-abyss.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Grave Keeper | 339198 | [339198-the-grave-keeper.json](./339198-the-grave-keeper.json) |
 | The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
@@ -22306,6 +22308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
 | The Wrong Floor | 391069 | [391069-the-wrong-floor.json](./391069-the-wrong-floor.json) |
 | The Wrong Ones | 420754 | [420754-the-wrong-ones.json](./420754-the-wrong-ones.json) |
+| The Wrong Shift | 428474 | [428474-the-wrong-shift.json](./428474-the-wrong-shift.json) |
 | The Wrong Thing | 231103 | [231103-the-wrong-thing.json](./231103-the-wrong-thing.json) |
 | The Wrong Way | 424513 | [424513-the-wrong-way.json](./424513-the-wrong-way.json) |
 | The Wungo Dungo Surprise | 338989 | [338989-the-wungo-dungo-surprise.json](./338989-the-wungo-dungo-surprise.json) |
