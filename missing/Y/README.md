@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Story | 130093 | [130093-your-story.json](./130093-your-story.json) |
 | Your Story: Games with Death | 345067 | [345067-your-story-games-with-death.json](./345067-your-story-games-with-death.json) |
 | Your Study Mate | 325061 | [325061-your-study-mate.json](./325061-your-study-mate.json) |
+| Your Suffering is Important To Us | 429010 | [429010-your-suffering-is-important-to-us.json](./429010-your-suffering-is-important-to-us.json) |
 | Your Sword Is So Big | 174120 | [174120-your-sword-is-so-big.json](./174120-your-sword-is-so-big.json) |
 | Your Takeout | 379325 | [379325-your-takeout.json](./379325-your-takeout.json) |
 | Your Time Has Come | 374878 | [374878-your-time-has-come.json](./374878-your-time-has-come.json) |
