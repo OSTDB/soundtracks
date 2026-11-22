@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon 6: The Precursor Legacy | 124896 | [124896-halcyon-6-the-precursor-legacy.json](./124896-halcyon-6-the-precursor-legacy.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon Days at Taoyuan | 347560 | [347560-halcyon-days-at-taoyuan.json](./347560-halcyon-days-at-taoyuan.json) |
+| Halcyon Sun: Episodes 1 & 2 | 24172 | [24172-halcyon-sun-episodes-1-and-2.json](./24172-halcyon-sun-episodes-1-and-2.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Haldor | 202902 | [202902-haldor.json](./202902-haldor.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules | 382856 | [382856-hercules.json](./382856-hercules.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules 2 | 46158 | [46158-hercules-2.json](./46158-hercules-2.json) |
+| Hercules Prophet 2 MX | 24160 | [24160-hercules-prophet-2-mx.json](./24160-hercules-prophet-2-mx.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
 | Hercules: Slayer of the Damned! | 67193 | [67193-hercules-slayer-of-the-damned.json](./67193-hercules-slayer-of-the-damned.json) |
 | Hercules: The Legendary Journeys | 186028 | [186028-hercules-the-legendary-journeys.json](./186028-hercules-the-legendary-journeys.json) |
@@ -14093,6 +14095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: The Reckoning - Deathwish | 396020 | [396020-hunter-the-reckoning-deathwish.json](./396020-hunter-the-reckoning-deathwish.json) |
 | Hunter: The Reckoning - Redeemer | 5865 | [5865-hunter-the-reckoning-redeemer.json](./5865-hunter-the-reckoning-redeemer.json) |
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
+| Hunter: The Reckoning Wayward | 24096 | [24096-hunter-the-reckoning-wayward.json](./24096-hunter-the-reckoning-wayward.json) |
 | Hunter's Arena: Legends | 119137 | [119137-hunters-arena-legends.json](./119137-hunters-arena-legends.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
 | Hunter's Journey: Nightmare Hunting | 414938 | [414938-hunters-journey-nightmare-hunting.json](./414938-hunters-journey-nightmare-hunting.json) |
@@ -14187,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting the Hunter | 370994 | [370994-hunting-the-hunter.json](./370994-hunting-the-hunter.json) |
 | Hunting Unicorn | 140161 | [140161-hunting-unicorn.json](./140161-hunting-unicorn.json) |
 | Hunting Unlimited | 69183 | [69183-hunting-unlimited.json](./69183-hunting-unlimited.json) |
+| Hunting Unlimited 2 | 24100 | [24100-hunting-unlimited-2.json](./24100-hunting-unlimited-2.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Unlimited 2010 | 14865 | [14865-hunting-unlimited-2010.json](./14865-hunting-unlimited-2010.json) |
 | Hunting Unlimited 2011 | 30859 | [30859-hunting-unlimited-2011.json](./30859-hunting-unlimited-2011.json) |
