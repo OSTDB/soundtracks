@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
 | Pease | 289750 | [289750-pease.json](./289750-pease.json) |
+| Pebbiki Island | 429828 | [429828-pebbiki-island.json](./429828-pebbiki-island.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble Beach no Hatou New: Tournament Edition | 38143 | [38143-pebble-beach-no-hatou-new-tournament-edition.json](./38143-pebble-beach-no-hatou-new-tournament-edition.json) |
@@ -11389,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playing With Language: Games in English | 63775 | [63775-playing-with-language-games-in-english.json](./63775-playing-with-language-games-in-english.json) |
 | Playing with Our Lives | 291003 | [291003-playing-with-our-lives.json](./291003-playing-with-our-lives.json) |
 | Playing With the Big Boys | 360697 | [360697-playing-with-the-big-boys.json](./360697-playing-with-the-big-boys.json) |
+| PlayLoLdle | 429463 | [429463-playloldle.json](./429463-playloldle.json) |
 | PlayM2M | 240168 | [240168-playm2m.json](./240168-playm2m.json) |
 | Playmaker | 151993 | [151993-playmaker.json](./151993-playmaker.json) |
 | PlayMaker Football | 366964 | [366964-playmaker-football.json](./366964-playmaker-football.json) |
@@ -20794,6 +20796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Puttium | 216012 | [216012-puttium.json](./216012-puttium.json) |
 | Puttler | 337379 | [337379-puttler.json](./337379-puttler.json) |
+| Puttsies | 429445 | [429445-puttsies.json](./429445-puttsies.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
 | Putty Putter | 188896 | [188896-putty-putter.json](./188896-putty-putter.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
