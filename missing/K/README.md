@@ -5099,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KniffiKult | 144510 | [144510-kniffikult.json](./144510-kniffikult.json) |
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
 | Knight 'n' Grail | 41118 | [41118-knight-n-grail.json](./41118-knight-n-grail.json) |
+| Knight & Damsel | 24023 | [24023-knight-and-damsel.json](./24023-knight-and-damsel.json) |
 | Knight 24/7 | 183846 | [183846-knight-24-7.json](./183846-knight-24-7.json) |
 | Knight Adventure | 34315 | [34315-knight-adventure.json](./34315-knight-adventure.json) |
 | Knight Age | 23548 | [23548-knight-age.json](./23548-knight-age.json) |
