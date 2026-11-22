@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
 | La Pucelle: Ragnarok | 197537 | [197537-la-pucelle-ragnarok.json](./197537-la-pucelle-ragnarok.json) |
 | La Pucelle: Ragnarok | 42741 | [42741-la-pucelle-ragnarok.json](./42741-la-pucelle-ragnarok.json) |
+| La Quête de l'Eau | 428197 | [428197-la-quete-de-leau.json](./428197-la-quete-de-leau.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
@@ -11660,6 +11661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
 | Lust Sisters | 367355 | [367355-lust-sisters.json](./367355-lust-sisters.json) |
 | Lust Solitaire: Horny Cards | 417206 | [417206-lust-solitaire-horny-cards.json](./417206-lust-solitaire-horny-cards.json) |
+| Lust Solitaire: Horny Cards - 5-Deck Bundle | 428186 | [428186-lust-solitaire-horny-cards-5-deck-bundle.json](./428186-lust-solitaire-horny-cards-5-deck-bundle.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
