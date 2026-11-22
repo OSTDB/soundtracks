@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Crash Stuntman: Does Texas | 241104 | [241104-johnny-crash-stuntman-does-texas.json](./241104-johnny-crash-stuntman-does-texas.json) |
 | Johnny Doom | 336191 | [336191-johnny-doom.json](./336191-johnny-doom.json) |
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
+| Johnny Graves: The Unchosen One | 32574 | [32574-johnny-graves-the-unchosen-one.json](./32574-johnny-graves-the-unchosen-one.json) |
 | Johnny Hardball: The Final Rebound | 390725 | [390725-johnny-hardball-the-final-rebound.json](./390725-johnny-hardball-the-final-rebound.json) |
 | Johnny Herbert's Grand Prix Championship 1998 | 70761 | [70761-johnny-herberts-grand-prix-championship-1998.json](./70761-johnny-herberts-grand-prix-championship-1998.json) |
 | Johnny Kung-Fu | 21038 | [21038-johnny-kung-fu.json](./21038-johnny-kung-fu.json) |
