@@ -5246,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr: Root of Evil | 90656 | [90656-death-jr-root-of-evil.json](./90656-death-jr-root-of-evil.json) |
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Jr. and the Science Fair of Doom | 21412 | [21412-death-jr-and-the-science-fair-of-doom.json](./21412-death-jr-and-the-science-fair-of-doom.json) |
+| Death Jump | 118237 | [118237-death-jump.json](./118237-death-jump.json) |
 | Death Jump | 383785 | [383785-death-jump.json](./383785-death-jump.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
@@ -5481,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathball | 60631 | [60631-deathball.json](./60631-deathball.json) |
 | DeathBall | 351489 | [351489-deathball.json](./351489-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
+| Deathbloom: Chapter 1 | 118106 | [118106-deathbloom-chapter-1.json](./118106-deathbloom-chapter-1.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathblossom | 339494 | [339494-deathblossom.json](./339494-deathblossom.json) |
 | Deathbots | 48138 | [48138-deathbots.json](./48138-deathbots.json) |
@@ -7705,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Gate | 131425 | [131425-demons-gate.json](./131425-demons-gate.json) |
 | Demons Happened | 202466 | [202466-demons-happened.json](./202466-demons-happened.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
+| Demons Never Lie | 117303 | [117303-demons-never-lie.json](./117303-demons-never-lie.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
 | Demons of Mercy | 66435 | [66435-demons-of-mercy.json](./66435-demons-of-mercy.json) |
@@ -16370,6 +16373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
 | Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
+| Downtown Drift | 118363 | [118363-downtown-drift.json](./118363-downtown-drift.json) |
 | Downtown Drift | 259918 | [259918-downtown-drift.json](./259918-downtown-drift.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
