@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balacera Brothers | 135745 | [135745-balacera-brothers.json](./135745-balacera-brothers.json) |
 | Balade Urbaine | 134392 | [134392-balade-urbaine.json](./134392-balade-urbaine.json) |
 | Baladins | 198861 | [198861-baladins.json](./198861-baladins.json) |
+| Balak City | 429864 | [429864-balak-city.json](./429864-balak-city.json) |
 | Balala Dà Zhuǎnhuàn | 359469 | [359469-balala-da-zhuanhuan.json](./359469-balala-da-zhuanhuan.json) |
 | Balam and the Spirit Within | 201325 | [201325-balam-and-the-spirit-within.json](./201325-balam-and-the-spirit-within.json) |
 | Balam: Bounce Hell | 211086 | [211086-balam-bounce-hell.json](./211086-balam-bounce-hell.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BasCatball Saturn: Basketball & Cat | 169396 | [169396-bascatball-saturn-basketball-and-cat.json](./169396-bascatball-saturn-basketball-and-cat.json) |
 | Base Attack | 40589 | [40589-base-attack.json](./40589-base-attack.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
+| Base Boomers | 430205 | [430205-base-boomers.json](./430205-base-boomers.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
 | Base Dash | 184932 | [184932-base-dash.json](./184932-base-dash.json) |
@@ -6650,6 +6652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become a Star | 244547 | [244547-become-a-star.json](./244547-become-a-star.json) |
 | Become an Adventurer | 281949 | [281949-become-an-adventurer.json](./281949-become-an-adventurer.json) |
 | Become Barista! | 349520 | [349520-become-barista.json](./349520-become-barista.json) |
+| Become Blackhole | 429955 | [429955-become-blackhole.json](./429955-become-blackhole.json) |
 | Become Castellane in Another World | 290501 | [290501-become-castellane-in-another-world.json](./290501-become-castellane-in-another-world.json) |
 | Become Deity | 359544 | [359544-become-deity.json](./359544-become-deity.json) |
 | Become Dirt | 276746 | [276746-become-dirt.json](./276746-become-dirt.json) |
@@ -11787,6 +11790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blipz | 189050 | [189050-blipz.json](./189050-blipz.json) |
 | Bliss | 148891 | [148891-bliss.json](./148891-bliss.json) |
 | Bliss | 17685 | [17685-bliss.json](./17685-bliss.json) |
+| Bliss | 430153 | [430153-bliss.json](./430153-bliss.json) |
+| Bliss Island | 23102 | [23102-bliss-island.json](./23102-bliss-island.json) |
 | Bliss Maze | 110658 | [110658-bliss-maze.json](./110658-bliss-maze.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
 | Blissful Acres | 300610 | [300610-blissful-acres.json](./300610-blissful-acres.json) |
@@ -16600,6 +16605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoysQuest Find the Difference | 363562 | [363562-boysquest-find-the-difference.json](./363562-boysquest-find-the-difference.json) |
 | Boyz Don't Cry | 299725 | [299725-boyz-dont-cry.json](./299725-boyz-dont-cry.json) |
 | Bozalleth's Curse | 267088 | [267088-bozalleths-curse.json](./267088-bozalleths-curse.json) |
+| Bozkurt Online | 430255 | [430255-bozkurt-online.json](./430255-bozkurt-online.json) |
 | Bozo the Brave | 15685 | [15685-bozo-the-brave.json](./15685-bozo-the-brave.json) |
 | Bozo's Night Out | 13556 | [13556-bozos-night-out.json](./13556-bozos-night-out.json) |
 | BP Gas Mania | 394108 | [394108-bp-gas-mania.json](./394108-bp-gas-mania.json) |
