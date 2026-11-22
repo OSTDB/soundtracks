@@ -5540,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam Pursuit | 268279 | [268279-glam-pursuit.json](./268279-glam-pursuit.json) |
 | Glam Sort | 429117 | [429117-glam-sort.json](./429117-glam-sort.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
+| Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamor | 131112 | [131112-glamor.json](./131112-glamor.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
 | Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
@@ -5717,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Fixers: Powerpuff Girls | 56734 | [56734-glitch-fixers-powerpuff-girls.json](./56734-glitch-fixers-powerpuff-girls.json) |
 | Glitch Gears | 293549 | [293549-glitch-gears.json](./293549-glitch-gears.json) |
 | Glitch Hearts | 385790 | [385790-glitch-hearts.json](./385790-glitch-hearts.json) |
+| Glitch Hero | 323247 | [323247-glitch-hero.json](./323247-glitch-hero.json) |
 | Glitch Hunt | 211033 | [211033-glitch-hunt.json](./211033-glitch-hunt.json) |
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Karts | 377783 | [377783-glitch-karts.json](./377783-glitch-karts.json) |
@@ -6757,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Smasher | 423553 | [423553-goblin-smasher.json](./423553-goblin-smasher.json) |
 | Goblin Solitaire | 409401 | [409401-goblin-solitaire.json](./409401-goblin-solitaire.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
+| Goblin Stone | 144764 | [144764-goblin-stone.json](./144764-goblin-stone.json) |
 | Goblin Storm | 337772 | [337772-goblin-storm.json](./337772-goblin-storm.json) |
 | Goblin Storm | 76705 | [76705-goblin-storm.json](./76705-goblin-storm.json) |
 | Goblin Summer Camp | 130132 | [130132-goblin-summer-camp.json](./130132-goblin-summer-camp.json) |
@@ -10358,6 +10361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
 | Green Paras | 412522 | [412522-green-paras.json](./412522-green-paras.json) |
+| Green Phoenix | 148095 | [148095-green-phoenix.json](./148095-green-phoenix.json) |
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
@@ -12883,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns N Stuff 2 | 187415 | [187415-guns-n-stuff-2.json](./187415-guns-n-stuff-2.json) |
 | Guns n Zombies | 16854 | [16854-guns-n-zombies.json](./16854-guns-n-zombies.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
+| Guns N' Runs | 144927 | [144927-guns-n-runs.json](./144927-guns-n-runs.json) |
 | Guns N' Rushes | 217474 | [217474-guns-n-rushes.json](./217474-guns-n-rushes.json) |
 | Guns n' Souls feat. Song Summoner | 287009 | [287009-guns-n-souls-feat-song-summoner.json](./287009-guns-n-souls-feat-song-summoner.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
