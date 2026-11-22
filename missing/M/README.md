@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDF: Magical Defense Force | 237117 | [237117-mdf-magical-defense-force.json](./237117-mdf-magical-defense-force.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
+| MDK 2 HD | 29768 | [29768-mdk-2-hd.json](./29768-mdk-2-hd.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
 | MDNE | 341220 | [341220-mdne.json](./341220-mdne.json) |
 | MDPro3 | 419230 | [419230-mdpro3.json](./419230-mdpro3.json) |
@@ -9345,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
 | Megafortress: Operation Skymaster | 245175 | [245175-megafortress-operation-skymaster.json](./245175-megafortress-operation-skymaster.json) |
 | Megafortress: Operation Sledgehammer | 245174 | [245174-megafortress-operation-sledgehammer.json](./245174-megafortress-operation-sledgehammer.json) |
+| MegaGlest | 29772 | [29772-megaglest.json](./29772-megaglest.json) |
 | MegaGum | 403810 | [403810-megagum.json](./403810-megagum.json) |
 | Megagun | 408538 | [408538-megagun.json](./408538-megagun.json) |
 | Megajump | 174077 | [174077-megajump.json](./174077-megajump.json) |
@@ -11509,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamor Kid Goomin | 264274 | [264274-metamor-kid-goomin.json](./264274-metamor-kid-goomin.json) |
 | Metamor Panic: Doki Doki Youma Busters!! | 384782 | [384782-metamor-panic-doki-doki-youma-busters.json](./384782-metamor-panic-doki-doki-youma-busters.json) |
 | Metamorbob | 177760 | [177760-metamorbob.json](./177760-metamorbob.json) |
+| Metamorfose S | 30046 | [30046-metamorfose-s.json](./30046-metamorfose-s.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | Metamorph | 368137 | [368137-metamorph.json](./368137-metamorph.json) |
 | MetaMorph | 29170 | [29170-metamorph.json](./29170-metamorph.json) |
@@ -25061,6 +25064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Shadow Lake | 5517 | [5517-mystery-case-files-shadow-lake.json](./5517-mystery-case-files-shadow-lake.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
+| Mystery Case Files: The Black Veil - Collector's Edition | 29794 | [29794-mystery-case-files-the-black-veil-collectors-edition.json](./29794-mystery-case-files-the-black-veil-collectors-edition.json) |
 | Mystery Case Files: The Countess | 140233 | [140233-mystery-case-files-the-countess.json](./140233-mystery-case-files-the-countess.json) |
 | Mystery Case Files: The Countess - Collector's Edition | 112057 | [112057-mystery-case-files-the-countess-collectors-edition.json](./112057-mystery-case-files-the-countess-collectors-edition.json) |
 | Mystery Case Files: The Dalimar Legacy - Collector's Edition | 243787 | [243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json](./243787-mystery-case-files-the-dalimar-legacy-collectors-edition.json) |
