@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Forth: Maelstrom | 283240 | [283240-sail-forth-maelstrom.json](./283240-sail-forth-maelstrom.json) |
 | Sail Girl | 421671 | [421671-sail-girl.json](./421671-sail-girl.json) |
 | Sail of Dreams | 285313 | [285313-sail-of-dreams.json](./285313-sail-of-dreams.json) |
+| Sail On | 422714 | [422714-sail-on.json](./422714-sail-on.json) |
 | Sail or Fail | 290999 | [290999-sail-or-fail.json](./290999-sail-or-fail.json) |
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
 | Sail Simulator 2010 | 53571 | [53571-sail-simulator-2010.json](./53571-sail-simulator-2010.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown | 109277 | [109277-samurai-shodown.json](./109277-samurai-shodown.json) |
 | Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
 | Samurai Shodown | 242326 | [242326-samurai-shodown.json](./242326-samurai-shodown.json) |
+| Samurai Shodown | 422664 | [422664-samurai-shodown.json](./422664-samurai-shodown.json) |
 | Samurai Shodown | 422681 | [422681-samurai-shodown.json](./422681-samurai-shodown.json) |
 | Samurai Shodown 64 | 19990 | [19990-samurai-shodown-64.json](./19990-samurai-shodown-64.json) |
 | Samurai Shodown 64: Warriors Rage | 19991 | [19991-samurai-shodown-64-warriors-rage.json](./19991-samurai-shodown-64-warriors-rage.json) |
@@ -15032,7 +15034,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
 | Skyland Rush: Air Raid Attack | 145963 | [145963-skyland-rush-air-raid-attack.json](./145963-skyland-rush-air-raid-attack.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
-| Skyland: Heart of the Mountain | 114061 | [114061-skyland-heart-of-the-mountain.json](./114061-skyland-heart-of-the-mountain.json) |
 | Skyland's Star | 62846 | [62846-skylands-star.json](./62846-skylands-star.json) |
 | Skylanders Imaginators: Destocked + Rebalanced | 383414 | [383414-skylanders-imaginators-destocked-rebalanced.json](./383414-skylanders-imaginators-destocked-rebalanced.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
@@ -22540,7 +22541,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Commanders | 71083 | [71083-space-commanders.json](./71083-space-commanders.json) |
 | Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
-| Space Company Simulator | 114108 | [114108-space-company-simulator.json](./114108-space-company-simulator.json) |
 | Space Company Simulator | 117891 | [117891-space-company-simulator.json](./117891-space-company-simulator.json) |
 | Space Cone | 102461 | [102461-space-cone.json](./102461-space-cone.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
@@ -25089,6 +25089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spibee | 382930 | [382930-spibee.json](./382930-spibee.json) |
 | Spica Adventure | 353943 | [353943-spica-adventure.json](./353943-spica-adventure.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
+| Spice & Grill | 421473 | [421473-spice-and-grill.json](./421473-spice-and-grill.json) |
 | Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf VR 2 | 124305 | [124305-spice-and-wolf-vr-2.json](./124305-spice-and-wolf-vr-2.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
@@ -29799,7 +29800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 4 Horse Racing: Jumps Edition | 175566 | [175566-starters-orders-4-horse-racing-jumps-edition.json](./175566-starters-orders-4-horse-racing-jumps-edition.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
-| Starters Orders 7 Horse Racing | 114388 | [114388-starters-orders-7-horse-racing.json](./114388-starters-orders-7-horse-racing.json) |
 | Starters Orders Classic Horse Racing | 131655 | [131655-starters-orders-classic-horse-racing.json](./131655-starters-orders-classic-horse-racing.json) |
 | Starters Orders Touch Horse Racing | 287746 | [287746-starters-orders-touch-horse-racing.json](./287746-starters-orders-touch-horse-racing.json) |
 | Startide | 56685 | [56685-startide.json](./56685-startide.json) |
@@ -29825,7 +29825,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Panic | 138859 | [138859-startup-panic.json](./138859-startup-panic.json) |
 | Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
-| Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | StarUniverse | 425598 | [425598-staruniverse.json](./425598-staruniverse.json) |
 | Starush | 418180 | [418180-starush.json](./418180-starush.json) |
@@ -29920,7 +29919,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
-| State of War: Warmonger / Classic 2000 | 114195 | [114195-state-of-war-warmonger-classic-2000.json](./114195-state-of-war-warmonger-classic-2000.json) |
 | State of Zombie | 196411 | [196411-state-of-zombie.json](./196411-state-of-zombie.json) |
 | State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
 | State to State | 83097 | [83097-state-to-state.json](./83097-state-to-state.json) |
@@ -30075,7 +30073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe! Jam | 137791 | [137791-stay-safe-jam.json](./137791-stay-safe-jam.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
-| Stay Silent | 114387 | [114387-stay-silent.json](./114387-stay-silent.json) |
 | Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
 | Stay Still | 231127 | [231127-stay-still.json](./231127-stay-still.json) |
 | Stay Still 2 | 264156 | [264156-stay-still-2.json](./264156-stay-still-2.json) |
@@ -30245,7 +30242,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamCity | 109950 | [109950-steamcity.json](./109950-steamcity.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | Steamcore | 213821 | [213821-steamcore.json](./213821-steamcore.json) |
-| Steamcraft | 113835 | [113835-steamcraft.json](./113835-steamcraft.json) |
 | Steamdle | 362034 | [362034-steamdle.json](./362034-steamdle.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
@@ -31804,7 +31800,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | StormFront 1944 | 77496 | [77496-stormfront-1944.json](./77496-stormfront-1944.json) |
 | Stormgate | 204358 | [204358-stormgate.json](./204358-stormgate.json) |
-| Stormhill Mystery: Family Shadows | 113784 | [113784-stormhill-mystery-family-shadows.json](./113784-stormhill-mystery-family-shadows.json) |
 | Storming the Grandmothership | 181227 | [181227-storming-the-grandmothership.json](./181227-storming-the-grandmothership.json) |
 | Stormland | 103260 | [103260-stormland.json](./103260-stormland.json) |
 | Stormlander | 378994 | [378994-stormlander.json](./378994-stormlander.json) |
@@ -32053,6 +32048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Climber | 128691 | [128691-strange-climber.json](./128691-strange-climber.json) |
 | Strange Creatures | 131759 | [131759-strange-creatures.json](./131759-strange-creatures.json) |
 | Strange Day | 365881 | [365881-strange-day.json](./365881-strange-day.json) |
+| Strange Days | 421466 | [421466-strange-days.json](./421466-strange-days.json) |
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Diary | 225436 | [225436-strange-diary.json](./225436-strange-diary.json) |
 | Strange Dungeon | 216521 | [216521-strange-dungeon.json](./216521-strange-dungeon.json) |
