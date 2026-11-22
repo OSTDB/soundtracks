@@ -3061,7 +3061,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
 | 3DXChat | 301038 | [301038-3dxchat.json](./301038-3dxchat.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
-| 3Gun Nation VR | 114590 | [114590-3gun-nation-vr.json](./114590-3gun-nation-vr.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3in1 Game Collection: Backgammon + Checkers + Mills | 280597 | [280597-3in1-game-collection-backgammon-checkers-mills.json](./280597-3in1-game-collection-backgammon-checkers-mills.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
@@ -4227,7 +4226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9Cat Saga | 288740 | [288740-9cat-saga.json](./288740-9cat-saga.json) |
 | 9Clock OverPack | 424710 | [424710-9clock-overpack.json](./424710-9clock-overpack.json) |
 | 9Dragons | 34746 | [34746-9dragons.json](./34746-9dragons.json) |
-| 9Dragons: Kung Fu Arena | 113738 | [113738-9dragons-kung-fu-arena.json](./113738-9dragons-kung-fu-arena.json) |
 | 9Grids VR | 32465 | [32465-9grids-vr.json](./32465-9grids-vr.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9mm | 18881 | [18881-9mm.json](./18881-9mm.json) |
