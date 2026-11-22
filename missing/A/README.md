@@ -630,7 +630,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Gladiator's Hell | 200564 | [200564-a-gladiators-hell.json](./200564-a-gladiators-hell.json) |
 | A Glass Room | 144367 | [144367-a-glass-room.json](./144367-a-glass-room.json) |
-| A Glider's Journey | 120462 | [120462-a-gliders-journey.json](./120462-a-gliders-journey.json) |
 | A Glimpse of Luna | 146760 | [146760-a-glimpse-of-luna.json](./146760-a-glimpse-of-luna.json) |
 | A Goblin's Quest to Leave Her House and Get a Gyro for Lunch Because She Was Hungry | 338807 | [338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json](./338807-a-goblins-quest-to-leave-her-house-and-get-a-gyro-for-lunch-because-she-was-hungry.json) |
 | A God Who Lives in Your Head | 205676 | [205676-a-god-who-lives-in-your-head.json](./205676-a-god-who-lives-in-your-head.json) |
@@ -2436,7 +2435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above & Below | 52289 | [52289-above-and-below.json](./52289-above-and-below.json) |
 | Above Average Guy | 408821 | [408821-above-average-guy.json](./408821-above-average-guy.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
-| Above Earth | 121257 | [121257-above-earth.json](./121257-above-earth.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above Land: Rhapsody | 399971 | [399971-above-land-rhapsody.json](./399971-above-land-rhapsody.json) |
 | Above Snakes | 150562 | [150562-above-snakes.json](./150562-above-snakes.json) |
@@ -6999,7 +6997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aisling and the Tavern of Elves | 169855 | [169855-aisling-and-the-tavern-of-elves.json](./169855-aisling-and-the-tavern-of-elves.json) |
 | Aiso | 81774 | [81774-aiso.json](./81774-aiso.json) |
 | Aisu Kuriimu Simulator | 186730 | [186730-aisu-kuriimu-simulator.json](./186730-aisu-kuriimu-simulator.json) |
-| Aisu Paradise | 119048 | [119048-aisu-paradise.json](./119048-aisu-paradise.json) |
 | AISZplus | 201416 | [201416-aiszplus.json](./201416-aiszplus.json) |
 | AIT | 235523 | [235523-ait.json](./235523-ait.json) |
 | Aitakute... Your smiles in my heart | 148298 | [148298-aitakute-your-smiles-in-my-heart.json](./148298-aitakute-your-smiles-in-my-heart.json) |
@@ -16632,7 +16629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorik the Viking: The Eight Conquests | 69172 | [69172-armorik-the-viking-the-eight-conquests.json](./69172-armorik-the-viking-the-eight-conquests.json) |
 | Armorines: Project S.W.A.R.M. | 186027 | [186027-armorines-project-s-w-a-r-m.json](./186027-armorines-project-s-w-a-r-m.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
-| Armortale | 121572 | [121572-armortale.json](./121572-armortale.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
 | Armory & Machine 2 | 137226 | [137226-armory-and-machine-2.json](./137226-armory-and-machine-2.json) |
 | Armory Keeper | 414714 | [414714-armory-keeper.json](./414714-armory-keeper.json) |
@@ -17666,7 +17662,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Ark | 103798 | [103798-ashes-of-the-ark.json](./103798-ashes-of-the-ark.json) |
 | Ashes of the Damned: The Forgotten Ward | 375466 | [375466-ashes-of-the-damned-the-forgotten-ward.json](./375466-ashes-of-the-damned-the-forgotten-ward.json) |
-| Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity | 11666 | [11666-ashes-of-the-singularity.json](./11666-ashes-of-the-singularity.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
@@ -18482,7 +18477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Requiem | 351052 | [351052-asteroid-requiem.json](./351052-asteroid-requiem.json) |
 | Asteroid RKD | 109298 | [109298-asteroid-rkd.json](./109298-asteroid-rkd.json) |
 | Asteroid Rodeo | 382717 | [382717-asteroid-rodeo.json](./382717-asteroid-rodeo.json) |
-| Asteroid Run: No Questions Asked | 119990 | [119990-asteroid-run-no-questions-asked.json](./119990-asteroid-run-no-questions-asked.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Shooter VR | 36941 | [36941-asteroid-shooter-vr.json](./36941-asteroid-shooter-vr.json) |
 | Asteroid Smash | 73515 | [73515-asteroid-smash.json](./73515-asteroid-smash.json) |
@@ -19208,7 +19202,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
-| At Home Alone II | 121305 | [121305-at-home-alone-ii.json](./121305-at-home-alone-ii.json) |
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At Last not Last | 234495 | [234495-at-last-not-last.json](./234495-at-last-not-last.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
@@ -20406,7 +20399,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australia Zoo Quest: Puzzle Fun! | 64824 | [64824-australia-zoo-quest-puzzle-fun.json](./64824-australia-zoo-quest-puzzle-fun.json) |
 | Australian Cricket Captain | 74080 | [74080-australian-cricket-captain.json](./74080-australian-cricket-captain.json) |
 | Australian Football Coach | 54818 | [54818-australian-football-coach.json](./54818-australian-football-coach.json) |
-| Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
 | Australian Football Coach 2020 | 133683 | [133683-australian-football-coach-2020.json](./133683-australian-football-coach-2020.json) |
 | Australian Football Coach 2023 | 235407 | [235407-australian-football-coach-2023.json](./235407-australian-football-coach-2023.json) |
 | Australian Games | 13351 | [13351-australian-games.json](./13351-australian-games.json) |
@@ -21121,7 +21113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aw Nutz | 65815 | [65815-aw-nutz.json](./65815-aw-nutz.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awagame | 303905 | [303905-awagame.json](./303905-awagame.json) |
-| Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
 | Awake | 148290 | [148290-awake.json](./148290-awake.json) |
 | Awake | 203605 | [203605-awake.json](./203605-awake.json) |
