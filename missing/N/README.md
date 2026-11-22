@@ -6551,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Gravity | 72869 | [72869-no-gravity.json](./72869-no-gravity.json) |
 | No Gravity: The Plague Of Mind | 42846 | [42846-no-gravity-the-plague-of-mind.json](./42846-no-gravity-the-plague-of-mind.json) |
 | No Greater Glory: The American Civil War | 72017 | [72017-no-greater-glory-the-american-civil-war.json](./72017-no-greater-glory-the-american-civil-war.json) |
+| No Hallucination | 426323 | [426323-no-hallucination.json](./426323-no-hallucination.json) |
 | No Happy Days | 318355 | [318355-no-happy-days.json](./318355-no-happy-days.json) |
 | No Haste | 186510 | [186510-no-haste.json](./186510-no-haste.json) |
 | No Heroes | 62814 | [62814-no-heroes.json](./62814-no-heroes.json) |
