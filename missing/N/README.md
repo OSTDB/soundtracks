@@ -3619,8 +3619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NevoMove | 401917 | [401917-nevomove.json](./401917-nevomove.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevrosa: Prelude | 27446 | [27446-nevrosa-prelude.json](./27446-nevrosa-prelude.json) |
-| Nevrosa: Primal Ritual | 118427 | [118427-nevrosa-primal-ritual.json](./118427-nevrosa-primal-ritual.json) |
-| Nevrosa: Spider Song | 118810 | [118810-nevrosa-spider-song.json](./118810-nevrosa-spider-song.json) |
 | Nevryon | 261332 | [261332-nevryon.json](./261332-nevryon.json) |
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
@@ -7116,7 +7114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nock Nock Loose | 410307 | [410307-nock-nock-loose.json](./410307-nock-nock-loose.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Nocked! | 174208 | [174208-nocked.json](./174208-nocked.json) |
-| Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
 | Noclip | 297970 | [297970-noclip.json](./297970-noclip.json) |
@@ -8938,7 +8935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
 | Nyancle | 41741 | [41741-nyancle.json](./41741-nyancle.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
-| Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
 | Nyanco Card | 133076 | [133076-nyanco-card.json](./133076-nyanco-card.json) |
 | Nyanco Channel | 130106 | [130106-nyanco-channel.json](./130106-nyanco-channel.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
