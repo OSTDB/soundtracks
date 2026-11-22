@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canal Street Goblin | 370954 | [370954-canal-street-goblin.json](./370954-canal-street-goblin.json) |
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
+| Canary Corps | 424915 | [424915-canary-corps.json](./424915-canary-corps.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 269412 | [269412-canary-kono-omoi-wo-uta-ni-nosete.json](./269412-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canary: Kono Omoi wo Uta ni Nosete | 319627 | [319627-canary-kono-omoi-wo-uta-ni-nosete.json](./319627-canary-kono-omoi-wo-uta-ni-nosete.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
 | Carist | 407896 | [407896-carist.json](./407896-carist.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
+| Carknight | 424488 | [424488-carknight.json](./424488-carknight.json) |
 | CarKour | 237168 | [237168-carkour.json](./237168-carkour.json) |
 | Carl | 176233 | [176233-carl.json](./176233-carl.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
@@ -22832,6 +22834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
 | Cure The Bunny | 398727 | [398727-cure-the-bunny.json](./398727-cure-the-bunny.json) |
+| Cure The Dead | 424911 | [424911-cure-the-dead.json](./424911-cure-the-dead.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Cureocity | 275979 | [275979-cureocity.json](./275979-cureocity.json) |
 | Cures & Curios | 121841 | [121841-cures-and-curios.json](./121841-cures-and-curios.json) |
