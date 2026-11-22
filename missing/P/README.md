@@ -7095,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e4 | 62049 | [62049-picross-e4.json](./62049-picross-e4.json) |
 | Picross e5 | 61528 | [61528-picross-e5.json](./61528-picross-e5.json) |
 | Picross e5 | 79114 | [79114-picross-e5.json](./79114-picross-e5.json) |
+| Picross e7 | 80731 | [80731-picross-e7.json](./80731-picross-e7.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross e9 | 106692 | [106692-picross-e9.json](./106692-picross-e9.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
@@ -14726,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
 | PopCap Hits! Vol 1 | 57229 | [57229-popcap-hits-vol-1.json](./57229-popcap-hits-vol-1.json) |
 | PopCap Hits! Vol 2 | 57228 | [57228-popcap-hits-vol-2.json](./57228-popcap-hits-vol-2.json) |
+| PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
 | Popcorn Chef | 415202 | [415202-popcorn-chef.json](./415202-popcorn-chef.json) |
@@ -19391,6 +19393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI Magic | 106321 | [106321-psi-magic.json](./106321-psi-magic.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Masquerade Deadly Wonderland | 366132 | [366132-psi-masquerade-deadly-wonderland.json](./366132-psi-masquerade-deadly-wonderland.json) |
+| Psi Project | 81171 | [81171-psi-project.json](./81171-psi-project.json) |
 | Psi Project 2 | 26965 | [26965-psi-project-2.json](./26965-psi-project-2.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psi-Ops: The Mindgate Conspiracy | 404053 | [404053-psi-ops-the-mindgate-conspiracy.json](./404053-psi-ops-the-mindgate-conspiracy.json) |
@@ -21462,6 +21465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | PuzzleManiak | 219904 | [219904-puzzlemaniak.json](./219904-puzzlemaniak.json) |
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
+| Puzzlement | 81935 | [81935-puzzlement.json](./81935-puzzlement.json) |
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
 | PuzzlePolygons | 153605 | [153605-puzzlepolygons.json](./153605-puzzlepolygons.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
