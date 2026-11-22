@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Hop | 221354 | [221354-magic-hop.json](./221354-magic-hop.json) |
 | Magic Hour | 30093 | [30093-magic-hour.json](./30093-magic-hour.json) |
 | Magic Inn | 258799 | [258799-magic-inn.json](./258799-magic-inn.json) |
+| Magic Is Dead | 428175 | [428175-magic-is-dead.json](./428175-magic-is-dead.json) |
 | Magic Island Escape | 315472 | [315472-magic-island-escape.json](./315472-magic-island-escape.json) |
 | Magic Island Escape 10 | 315533 | [315533-magic-island-escape-10.json](./315533-magic-island-escape-10.json) |
 | Magic Island Escape 11 | 315540 | [315540-magic-island-escape-11.json](./315540-magic-island-escape-11.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantle | 166938 | [166938-mantle.json](./166938-mantle.json) |
 | Mantle | 368461 | [368461-mantle.json](./368461-mantle.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
+| Mantlebound | 428478 | [428478-mantlebound.json](./428478-mantlebound.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantra | 285301 | [285301-mantra.json](./285301-mantra.json) |
@@ -7253,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Realities: Synergy of Worlds - Collector's Edition | 341219 | [341219-maze-of-realities-synergy-of-worlds-collectors-edition.json](./341219-maze-of-realities-synergy-of-worlds-collectors-edition.json) |
 | Maze of Shadows | 427717 | [427717-maze-of-shadows.json](./427717-maze-of-shadows.json) |
 | Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
+| Maze Of Tenfon:Chapter 2 | 428192 | [428192-maze-of-tenfon-chapter-2.json](./428192-maze-of-tenfon-chapter-2.json) |
 | Maze of Terror | 347485 | [347485-maze-of-terror.json](./347485-maze-of-terror.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
@@ -7669,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Brigade | 26014 | [26014-mech-brigade.json](./26014-mech-brigade.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
+| Mech Builder 3D: DLC 1 | 428473 | [428473-mech-builder-3d-dlc-1.json](./428473-mech-builder-3d-dlc-1.json) |
 | Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
@@ -19468,6 +19472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moontorc | 13016 | [13016-moontorc.json](./13016-moontorc.json) |
 | Moontouched | 347880 | [347880-moontouched.json](./347880-moontouched.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
+| MoonTraum | 428472 | [428472-moontraum.json](./428472-moontraum.json) |
 | Moonvale | 302726 | [302726-moonvale.json](./302726-moonvale.json) |
 | Moonvile | 373307 | [373307-moonvile.json](./373307-moonvile.json) |
 | Moonwakers | 293154 | [293154-moonwakers.json](./293154-moonwakers.json) |
