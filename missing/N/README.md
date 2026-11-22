@@ -2827,6 +2827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
+| Neon Knight | 427007 | [427007-neon-knight.json](./427007-neon-knight.json) |
 | Neon Knight: Vengeance from the Grave | 88329 | [88329-neon-knight-vengeance-from-the-grave.json](./88329-neon-knight-vengeance-from-the-grave.json) |
 | Neon Knights | 340110 | [340110-neon-knights.json](./340110-neon-knights.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
@@ -3267,7 +3268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nether Heroes | 303838 | [303838-nether-heroes.json](./303838-nether-heroes.json) |
 | Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
-| Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
 | NetherEx | 232726 | [232726-netherex.json](./232726-netherex.json) |
 | Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
@@ -3528,7 +3528,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevergrind Online | 164904 | [164904-nevergrind-online.json](./164904-nevergrind-online.json) |
 | NeverHome: Hall of Apathy | 248009 | [248009-neverhome-hall-of-apathy.json](./248009-neverhome-hall-of-apathy.json) |
 | NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
-| Neverinth: The Never Ending Labyrinth | 117493 | [117493-neverinth-the-never-ending-labyrinth.json](./117493-neverinth-the-never-ending-labyrinth.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland | 342267 | [342267-neverland.json](./342267-neverland.json) |
 | Neverland Card Battles | 42773 | [42773-neverland-card-battles.json](./42773-neverland-card-battles.json) |
@@ -8975,7 +8974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyaruru Fishy Fight | 146406 | [146406-nyaruru-fishy-fight.json](./146406-nyaruru-fishy-fight.json) |
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Beach | 115950 | [115950-nyasha-beach.json](./115950-nyasha-beach.json) |
-| Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyasha Valkyrie | 367668 | [367668-nyasha-valkyrie.json](./367668-nyasha-valkyrie.json) |
 | Nyasha Winter | 115952 | [115952-nyasha-winter.json](./115952-nyasha-winter.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
