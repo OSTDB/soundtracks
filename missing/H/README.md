@@ -5421,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellsweeper VR | 166324 | [166324-hellsweeper-vr.json](./166324-hellsweeper-vr.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
 | Helltaker: Examtaker | 174192 | [174192-helltaker-examtaker.json](./174192-helltaker-examtaker.json) |
+| Hellterns | 426259 | [426259-hellterns.json](./426259-hellterns.json) |
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
@@ -10096,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Legacy Manager 24 | 275856 | [275856-hockey-legacy-manager-24.json](./275856-hockey-legacy-manager-24.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Legacy Manager 26 | 365944 | [365944-hockey-legacy-manager-26.json](./365944-hockey-legacy-manager-26.json) |
+| Hockey Legacy Manager 27 | 425682 | [425682-hockey-legacy-manager-27.json](./425682-hockey-legacy-manager-27.json) |
 | Hockey Manager 20\|20 | 129979 | [129979-hockey-manager-20-20.json](./129979-hockey-manager-20-20.json) |
 | Hockey Nations 2010 | 62038 | [62038-hockey-nations-2010.json](./62038-hockey-nations-2010.json) |
 | Hockey Pong | 93444 | [93444-hockey-pong.json](./93444-hockey-pong.json) |
@@ -12186,7 +12188,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Terrain | 308319 | [308319-hostile-terrain.json](./308319-hostile-terrain.json) |
 | Hostile User Interface | 112794 | [112794-hostile-user-interface.json](./112794-hostile-user-interface.json) |
 | Hostile Waters | 308449 | [308449-hostile-waters.json](./308449-hostile-waters.json) |
+| Hosting Simulator | 426138 | [426138-hosting-simulator.json](./426138-hosting-simulator.json) |
 | Hosting Simulator: 2026 | 406312 | [406312-hosting-simulator-2026.json](./406312-hosting-simulator-2026.json) |
+| Hosting Simulator: RGB Rack Szekrény | 426139 | [426139-hosting-simulator-rgb-rack-szekreny.json](./426139-hosting-simulator-rgb-rack-szekreny.json) |
 | Hostlight | 197465 | [197465-hostlight.json](./197465-hostlight.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
 | Hot & Hentai | 317548 | [317548-hot-and-hentai.json](./317548-hot-and-hentai.json) |
@@ -14134,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters For Your Brain | 118804 | [118804-hunters-for-your-brain.json](./118804-hunters-for-your-brain.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| Hunters in the Dark | 426257 | [426257-hunters-in-the-dark.json](./426257-hunters-in-the-dark.json) |
 | Hunters Inc | 323685 | [323685-hunters-inc.json](./323685-hunters-inc.json) |
 | Hunters League | 108758 | [108758-hunters-league.json](./108758-hunters-league.json) |
 | Hunters Life | 81059 | [81059-hunters-life.json](./81059-hunters-life.json) |
