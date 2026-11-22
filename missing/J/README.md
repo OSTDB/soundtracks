@@ -3273,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust: Joustus Clone for Playdate | 278192 | [278192-joust-joustus-clone-for-playdate.json](./278192-joust-joustus-clone-for-playdate.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustic | 185496 | [185496-joustic.json](./185496-joustic.json) |
+| Jousting Around | 426316 | [426316-jousting-around.json](./426316-jousting-around.json) |
 | Jousting in January | 290491 | [290491-jousting-in-january.json](./290491-jousting-in-january.json) |
 | Jousting Manager | 290753 | [290753-jousting-manager.json](./290753-jousting-manager.json) |
 | Jousting Time | 109127 | [109127-jousting-time.json](./109127-jousting-time.json) |
