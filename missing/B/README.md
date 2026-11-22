@@ -10843,6 +10843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackstone Academy for the Magical Arts | 131757 | [131757-blackstone-academy-for-the-magical-arts.json](./131757-blackstone-academy-for-the-magical-arts.json) |
 | Blackstorm | 158132 | [158132-blackstorm.json](./158132-blackstorm.json) |
 | Blacksword Games | 109166 | [109166-blacksword-games.json](./109166-blacksword-games.json) |
+| Blacktea With Moon | 100156 | [100156-blacktea-with-moon.json](./100156-blacktea-with-moon.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
 | Blackthorn Arena: Gods of War | 164333 | [164333-blackthorn-arena-gods-of-war.json](./164333-blackthorn-arena-gods-of-war.json) |
 | Blackthorn Arena: Path of Kiren | 164335 | [164335-blackthorn-arena-path-of-kiren.json](./164335-blackthorn-arena-path-of-kiren.json) |
@@ -12415,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Colony | 426512 | [426512-blocky-colony.json](./426512-blocky-colony.json) |
 | Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
+| Blocky Farm | 99878 | [99878-blocky-farm.json](./99878-blocky-farm.json) |
 | Blocky Fills | 255168 | [255168-blocky-fills.json](./255168-blocky-fills.json) |
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
 | Blocky Games | 344710 | [344710-blocky-games.json](./344710-blocky-games.json) |
@@ -19626,6 +19628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | Bugs. Billions of Bugs. | 419765 | [419765-bugs-billions-of-bugs.json](./419765-bugs-billions-of-bugs.json) |
 | Bugs'N'Balls | 85007 | [85007-bugsnballs.json](./85007-bugsnballs.json) |
+| BugsBox | 99739 | [99739-bugsbox.json](./99739-bugsbox.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
 | Bugsnax | 256396 | [256396-bugsnax.json](./256396-bugsnax.json) |
