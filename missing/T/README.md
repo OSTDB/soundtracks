@@ -1621,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
 | Talesworth Adventure: The Lost Artifacts | 111550 | [111550-talesworth-adventure-the-lost-artifacts.json](./111550-talesworth-adventure-the-lost-artifacts.json) |
+| Taletrot | 429220 | [429220-taletrot.json](./429220-taletrot.json) |
 | Talevania | 235613 | [235613-talevania.json](./235613-talevania.json) |
 | Talewarden: Riders of the New Day | 361248 | [361248-talewarden-riders-of-the-new-day.json](./361248-talewarden-riders-of-the-new-day.json) |
 | Taleweavers Alliance Anthology | 402085 | [402085-taleweavers-alliance-anthology.json](./402085-taleweavers-alliance-anthology.json) |
@@ -3294,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Multiplayer Card Shop Simulator | 322643 | [322643-tcg-multiplayer-card-shop-simulator.json](./322643-tcg-multiplayer-card-shop-simulator.json) |
 | TCG One | 149983 | [149983-tcg-one.json](./149983-tcg-one.json) |
 | TCG World | 193544 | [193544-tcg-world.json](./193544-tcg-world.json) |
+| TCG: Fantasy Card Collection | 428940 | [428940-tcg-fantasy-card-collection.json](./428940-tcg-fantasy-card-collection.json) |
 | Tcheco in the Castle of Lucio | 35037 | [35037-tcheco-in-the-castle-of-lucio.json](./35037-tcheco-in-the-castle-of-lucio.json) |
 | Tchia | 134324 | [134324-tchia.json](./134324-tchia.json) |
 | Tchia: Kepler Customization Pack | 243232 | [243232-tchia-kepler-customization-pack.json](./243232-tchia-kepler-customization-pack.json) |
@@ -6947,9 +6949,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asylum Incident | 178227 | [178227-the-asylum-incident.json](./178227-the-asylum-incident.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atla Archives | 238109 | [238109-the-atla-archives.json](./238109-the-atla-archives.json) |
+| The Atlas II | 429008 | [429008-the-atlas-ii.json](./429008-the-atlas-ii.json) |
 | The Atlas Mystery: A VR Puzzle Game | 189349 | [189349-the-atlas-mystery-a-vr-puzzle-game.json](./189349-the-atlas-mystery-a-vr-puzzle-game.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
 | The Atlas Problem | 365043 | [365043-the-atlas-problem.json](./365043-the-atlas-problem.json) |
+| The Atlas: Legend Pack | 429011 | [429011-the-atlas-legend-pack.json](./429011-the-atlas-legend-pack.json) |
 | The Atlas: Renaissance Voyager | 324956 | [324956-the-atlas-renaissance-voyager.json](./324956-the-atlas-renaissance-voyager.json) |
 | The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
@@ -12173,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
 | The Harbinger of the Deep | 396280 | [396280-the-harbinger-of-the-deep.json](./396280-the-harbinger-of-the-deep.json) |
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
+| The Harbour Between Us | 429091 | [429091-the-harbour-between-us.json](./429091-the-harbour-between-us.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
 | The Hardest Dungeon | 99040 | [99040-the-hardest-dungeon.json](./99040-the-hardest-dungeon.json) |
@@ -14155,6 +14160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Rolling Hero: Destiny | 187998 | [187998-the-last-rolling-hero-destiny.json](./187998-the-last-rolling-hero-destiny.json) |
 | The Last Roman Village | 113837 | [113837-the-last-roman-village.json](./113837-the-last-roman-village.json) |
 | The Last Roman Village 2 | 211988 | [211988-the-last-roman-village-2.json](./211988-the-last-roman-village-2.json) |
+| The Last Room | 429215 | [429215-the-last-room.json](./429215-the-last-room.json) |
 | The Last Root | 244542 | [244542-the-last-root.json](./244542-the-last-root.json) |
 | The Last Rose | 287739 | [287739-the-last-rose.json](./287739-the-last-rose.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
@@ -21696,6 +21702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of Genesis: Battle for Athena | 109244 | [109244-the-war-of-genesis-battle-for-athena.json](./109244-the-war-of-genesis-battle-for-athena.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
+| The War of Odramir | 429218 | [429218-the-war-of-odramir.json](./429218-the-war-of-odramir.json) |
 | The War of the Willows | 59675 | [59675-the-war-of-the-willows.json](./59675-the-war-of-the-willows.json) |
 | The War of the Worlds | 20971 | [20971-the-war-of-the-worlds.json](./20971-the-war-of-the-worlds.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
@@ -30136,6 +30143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Knockout | 62386 | [62386-total-knockout.json](./62386-total-knockout.json) |
 | Total Loadout | 327749 | [327749-total-loadout.json](./327749-total-loadout.json) |
 | Total Lockdown | 123238 | [123238-total-lockdown.json](./123238-total-lockdown.json) |
+| Total Loss | 429015 | [429015-total-loss.json](./429015-total-loss.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Mayhem | 72454 | [72454-total-mayhem.json](./72454-total-mayhem.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
