@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C-Hue-B | 57463 | [57463-c-hue-b.json](./57463-c-hue-b.json) |
 | C-ko-fn-ta-C | 411963 | [411963-c-ko-fn-ta-c.json](./411963-c-ko-fn-ta-c.json) |
 | C-Rush | 16833 | [16833-c-rush.json](./16833-c-rush.json) |
+| C-Smash VRS | 237742 | [237742-c-smash-vrs.json](./237742-c-smash-vrs.json) |
 | C-Smash VRS: New Dimension | 321377 | [321377-c-smash-vrs-new-dimension.json](./321377-c-smash-vrs-new-dimension.json) |
 | C-War 2 | 119010 | [119010-c-war-2.json](./119010-c-war-2.json) |
 | C-Wars | 16658 | [16658-c-wars.json](./16658-c-wars.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Bubble | 13992 | [13992-cannon-bubble.json](./13992-cannon-bubble.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Crew | 81635 | [81635-cannon-crew.json](./81635-cannon-crew.json) |
+| Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
 | Cannon Defender | 380172 | [380172-cannon-defender.json](./380172-cannon-defender.json) |
 | Cannon Dinghies | 404768 | [404768-cannon-dinghies.json](./404768-cannon-dinghies.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
@@ -6550,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainphoria | 200059 | [200059-chainphoria.json](./200059-chainphoria.json) |
 | Chains | 15781 | [15781-chains.json](./15781-chains.json) |
+| Chains of Freedom | 324581 | [324581-chains-of-freedom.json](./324581-chains-of-freedom.json) |
 | Chains of Fury | 125213 | [125213-chains-of-fury.json](./125213-chains-of-fury.json) |
 | Chains of Judgment | 295420 | [295420-chains-of-judgment.json](./295420-chains-of-judgment.json) |
 | Chains of Lukomorye | 350546 | [350546-chains-of-lukomorye.json](./350546-chains-of-lukomorye.json) |
@@ -11395,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of Heroes 2G | 43009 | [43009-class-of-heroes-2g.json](./43009-class-of-heroes-2g.json) |
 | Class of Heroes 2G: Remastered Edition | 277624 | [277624-class-of-heroes-2g-remastered-edition.json](./277624-class-of-heroes-2g-remastered-edition.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
+| Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class of Heroes: The Ultimate Trilogy | 368772 | [368772-class-of-heroes-the-ultimate-trilogy.json](./368772-class-of-heroes-the-ultimate-trilogy.json) |
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
 | Class of the Titans | 417807 | [417807-class-of-the-titans.json](./417807-class-of-the-titans.json) |
@@ -17876,6 +17880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
+| Cotton Reboot! High Tension! | 329840 | [329840-cotton-reboot-high-tension.json](./329840-cotton-reboot-high-tension.json) |
 | Cotton Reboot!: Limited Edition | 166245 | [166245-cotton-reboot-limited-edition.json](./166245-cotton-reboot-limited-edition.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
@@ -20804,6 +20809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire: Dungeons | 35262 | [35262-crossfire-dungeons.json](./35262-crossfire-dungeons.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
 | Crossfire: Legion | 152088 | [152088-crossfire-legion.json](./152088-crossfire-legion.json) |
+| Crossfire: Sierra Squad | 229351 | [229351-crossfire-sierra-squad.json](./229351-crossfire-sierra-squad.json) |
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
 | CrossfireX: Operation Catalyst | 206884 | [206884-crossfirex-operation-catalyst.json](./206884-crossfirex-operation-catalyst.json) |
