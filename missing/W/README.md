@@ -6755,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingless | 55331 | [55331-wingless.json](./55331-wingless.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
+| Wingliners | 429904 | [429904-wingliners.json](./429904-wingliners.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wingman 2: Kitakura no Fukkatsu | 84335 | [84335-wingman-2-kitakura-no-fukkatsu.json](./84335-wingman-2-kitakura-no-fukkatsu.json) |
 | Wingman Special: Saraba Yume Senshi | 80303 | [80303-wingman-special-saraba-yume-senshi.json](./80303-wingman-special-saraba-yume-senshi.json) |
@@ -7556,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witching Tower: Heroes | 132252 | [132252-witching-tower-heroes.json](./132252-witching-tower-heroes.json) |
 | Witching Well | 304010 | [304010-witching-well.json](./304010-witching-well.json) |
 | Witchinour | 38978 | [38978-witchinour.json](./38978-witchinour.json) |
+| Witchkeeping | 430428 | [430428-witchkeeping.json](./430428-witchkeeping.json) |
 | Witchkin | 52271 | [52271-witchkin.json](./52271-witchkin.json) |
 | Witchlight | 348808 | [348808-witchlight.json](./348808-witchlight.json) |
 | Witchling Grove | 384088 | [384088-witchling-grove.json](./384088-witchling-grove.json) |
