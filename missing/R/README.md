@@ -4034,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound VR | 107504 | [107504-rebound-vr.json](./107504-rebound-vr.json) |
 | Rebounder | 361966 | [361966-rebounder.json](./361966-rebounder.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
+| Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild 3: Gangs of Deadsville | 16724 | [16724-rebuild-3-gangs-of-deadsville.json](./16724-rebuild-3-gangs-of-deadsville.json) |
@@ -5982,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero | 145509 | [145509-rent-a-hero.json](./145509-rent-a-hero.json) |
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
+| Rent-a-Vice | 100579 | [100579-rent-a-vice.json](./100579-rent-a-vice.json) |
 | Rent's Due: The Game | 159370 | [159370-rents-due-the-game.json](./159370-rents-due-the-game.json) |
 | Rental | 225523 | [225523-rental.json](./225523-rental.json) |
 | Rental Chan | 228823 | [228823-rental-chan.json](./228823-rental-chan.json) |
