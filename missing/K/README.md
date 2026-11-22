@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Gunner | 333659 | [333659-key-gunner.json](./333659-key-gunner.json) |
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
+| Key Lime Slime | 427005 | [427005-key-lime-slime.json](./427005-key-lime-slime.json) |
 | Key of Impasse | 107765 | [107765-key-of-impasse.json](./107765-key-of-impasse.json) |
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
 | Key to Heaven | 143559 | [143559-key-to-heaven.json](./143559-key-to-heaven.json) |
@@ -2731,7 +2732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Love Puzzles | 232590 | [232590-kids-love-puzzles.json](./232590-kids-love-puzzles.json) |
 | Kids Mosaic Art Shape and Color Picture Puzzles | 87382 | [87382-kids-mosaic-art-shape-and-color-picture-puzzles.json](./87382-kids-mosaic-art-shape-and-color-picture-puzzles.json) |
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
-| Kids of Hellas: Back to Olympus | 115177 | [115177-kids-of-hellas-back-to-olympus.json](./115177-kids-of-hellas-back-to-olympus.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
 | Kids on Site | 46426 | [46426-kids-on-site.json](./46426-kids-on-site.json) |
@@ -6465,7 +6465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotobuki | 94311 | [94311-kotobuki.json](./94311-kotobuki.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
-| Kotodama: The 7 Mysteries of Fujisawa | 115184 | [115184-kotodama-the-7-mysteries-of-fujisawa.json](./115184-kotodama-the-7-mysteries-of-fujisawa.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
