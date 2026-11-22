@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OlliOlli World | 145782 | [145782-olliolli-world.json](./145782-olliolli-world.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli World: Expansion Pass | 293734 | [293734-olliolli-world-expansion-pass.json](./293734-olliolli-world-expansion-pass.json) |
+| OlliOlli World: Finding the Flowzone | 223949 | [223949-olliolli-world-finding-the-flowzone.json](./223949-olliolli-world-finding-the-flowzone.json) |
 | OlliOlli World: Rad Edition | 186224 | [186224-olliolli-world-rad-edition.json](./186224-olliolli-world-rad-edition.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
 | OlliOlli: Switch Stance | 113568 | [113568-olliolli-switch-stance.json](./113568-olliolli-switch-stance.json) |
@@ -2779,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Wipe! | 389594 | [389594-one-more-wipe.json](./389594-one-more-wipe.json) |
 | One More Wish | 284276 | [284276-one-more-wish.json](./284276-one-more-wish.json) |
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
+| One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
 | One Must Fall: 2097 | 14429 | [14429-one-must-fall-2097.json](./14429-one-must-fall-2097.json) |
 | One Must Rule | 422443 | [422443-one-must-rule.json](./422443-one-must-rule.json) |
@@ -2864,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece Mansion | 37288 | [37288-one-piece-mansion.json](./37288-one-piece-mansion.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Adventure Expansion Pack | 263946 | [263946-one-piece-odyssey-adventure-expansion-pack.json](./263946-one-piece-odyssey-adventure-expansion-pack.json) |
+| One Piece Odyssey: Deluxe Edition | 231363 | [231363-one-piece-odyssey-deluxe-edition.json](./231363-one-piece-odyssey-deluxe-edition.json) |
 | One Piece Odyssey: Jewelry Pack | 312109 | [312109-one-piece-odyssey-jewelry-pack.json](./312109-one-piece-odyssey-jewelry-pack.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Odyssey: Traveling Outfit Set | 238380 | [238380-one-piece-odyssey-traveling-outfit-set.json](./238380-one-piece-odyssey-traveling-outfit-set.json) |
@@ -5729,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 23 | 187604 | [187604-out-of-the-park-baseball-23.json](./187604-out-of-the-park-baseball-23.json) |
 | Out of the Park Baseball 24 | 236632 | [236632-out-of-the-park-baseball-24.json](./236632-out-of-the-park-baseball-24.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
+| Out of the Park Baseball 26 | 329661 | [329661-out-of-the-park-baseball-26.json](./329661-out-of-the-park-baseball-26.json) |
 | Out of the Park Baseball 3 | 73596 | [73596-out-of-the-park-baseball-3.json](./73596-out-of-the-park-baseball-3.json) |
 | Out of the Park Baseball 5 | 66490 | [66490-out-of-the-park-baseball-5.json](./66490-out-of-the-park-baseball-5.json) |
 | Out of the Shadows | 343199 | [343199-out-of-the-shadows.json](./343199-out-of-the-shadows.json) |
