@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basecamp | 405188 | [405188-basecamp.json](./405188-basecamp.json) |
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Based Refueling | 279075 | [279075-based-refueling.json](./279075-based-refueling.json) |
+| Baseless | 236192 | [236192-baseless.json](./236192-baseless.json) |
 | Baseline | 295218 | [295218-baseline.json](./295218-baseline.json) |
 | Basement | 19376 | [19376-basement.json](./19376-basement.json) |
 | Basement | 348383 | [348383-basement.json](./348383-basement.json) |
@@ -8046,6 +8047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Babel | 337308 | [337308-beyond-babel.json](./337308-beyond-babel.json) |
 | Beyond Beco World | 267886 | [267886-beyond-beco-world.json](./267886-beyond-beco-world.json) |
 | Beyond Belief | 195887 | [195887-beyond-belief.json](./195887-beyond-belief.json) |
+| Beyond Blue: After the Storm | 329974 | [329974-beyond-blue-after-the-storm.json](./329974-beyond-blue-after-the-storm.json) |
 | Beyond Border | 317417 | [317417-beyond-border.json](./317417-beyond-border.json) |
 | Beyond Castle Wolfenstein | 3032 | [3032-beyond-castle-wolfenstein.json](./3032-beyond-castle-wolfenstein.json) |
 | Beyond Castle Wolfenstein | 307296 | [307296-beyond-castle-wolfenstein.json](./307296-beyond-castle-wolfenstein.json) |
@@ -11635,6 +11637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blights Wrath | 257834 | [257834-blights-wrath.json](./257834-blights-wrath.json) |
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
+| Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
 | Blightveil | 375059 | [375059-blightveil.json](./375059-blightveil.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
@@ -17637,6 +17640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
 | Breath Bound | 401298 | [401298-breath-bound.json](./401298-breath-bound.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
+| Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
 | Breath of Fire | 11617 | [11617-breath-of-fire.json](./11617-breath-of-fire.json) |
 | Breath of Fire | 276017 | [276017-breath-of-fire.json](./276017-breath-of-fire.json) |
@@ -19418,6 +19422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffet Boss: Complete Edition | 317914 | [317914-buffet-boss-complete-edition.json](./317914-buffet-boss-complete-edition.json) |
 | Buffet Boss: Rolling Sushi | 316219 | [316219-buffet-boss-rolling-sushi.json](./316219-buffet-boss-rolling-sushi.json) |
 | Buffet Knight | 190769 | [190769-buffet-knight.json](./190769-buffet-knight.json) |
+| Buffet Knight: Decadent Full Course | 333498 | [333498-buffet-knight-decadent-full-course.json](./333498-buffet-knight-decadent-full-course.json) |
 | Buffy Stole Your Sandwich | 72502 | [72502-buffy-stole-your-sandwich.json](./72502-buffy-stole-your-sandwich.json) |
 | Buffy the Vampire Slayer | 206690 | [206690-buffy-the-vampire-slayer.json](./206690-buffy-the-vampire-slayer.json) |
 | Buffy the Vampire Slayer: Chaos Bleeds | 3837 | [3837-buffy-the-vampire-slayer-chaos-bleeds.json](./3837-buffy-the-vampire-slayer-chaos-bleeds.json) |
