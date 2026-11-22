@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Magic: The Great Dark Wizard's Curse | 190304 | [190304-academy-of-magic-the-great-dark-wizards-curse.json](./190304-academy-of-magic-the-great-dark-wizards-curse.json) |
 | Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
+| Academy Wars | 429492 | [429492-academy-wars.json](./429492-academy-wars.json) |
 | Academy Z: Beginning of the catastrophe | 179935 | [179935-academy-z-beginning-of-the-catastrophe.json](./179935-academy-z-beginning-of-the-catastrophe.json) |
 | Academy: Become a Hero | 348176 | [348176-academy-become-a-hero.json](./348176-academy-become-a-hero.json) |
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
 | Accursed | 420709 | [420709-accursed.json](./420709-accursed.json) |
+| Accursed | 429983 | [429983-accursed.json](./429983-accursed.json) |
 | Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
 | Accuser | 299678 | [299678-accuser.json](./299678-accuser.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
@@ -17067,6 +17069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Reborn: Painting Connoisseur | 268061 | [268061-art-reborn-painting-connoisseur.json](./268061-art-reborn-painting-connoisseur.json) |
 | Art School Pocket | 203214 | [203214-art-school-pocket.json](./203214-art-school-pocket.json) |
 | Art Shop Simulator | 308593 | [308593-art-shop-simulator.json](./308593-art-shop-simulator.json) |
+| Art Shop: Tidy Up! | 430946 | [430946-art-shop-tidy-up.json](./430946-art-shop-tidy-up.json) |
 | Art Spotting Co-op | 330501 | [330501-art-spotting-co-op.json](./330501-art-spotting-co-op.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Sqool: Deluxe Edition | 220935 | [220935-art-sqool-deluxe-edition.json](./220935-art-sqool-deluxe-edition.json) |
@@ -17117,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis: Spaceship Bridge Simulator | 2360 | [2360-artemis-spaceship-bridge-simulator.json](./2360-artemis-spaceship-bridge-simulator.json) |
 | Artemis' Minesweeper | 177378 | [177378-artemis-minesweeper.json](./177378-artemis-minesweeper.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
+| Arteria | 429452 | [429452-arteria.json](./429452-arteria.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
 | ArtFormer: Ancient Stories | 176064 | [176064-artformer-ancient-stories.json](./176064-artformer-ancient-stories.json) |
