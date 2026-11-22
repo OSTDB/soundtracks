@@ -5900,7 +5900,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lìlìnà de Qíhuàn zhī Lǚ | 156805 | [156805-lilina-de-qihuan-zhi-lu.json](./156805-lilina-de-qihuan-zhi-lu.json) |
-| Lilitales | 122199 | [122199-lilitales.json](./122199-lilitales.json) |
 | Lilith | 236040 | [236040-lilith.json](./236040-lilith.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
@@ -7649,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Fi: Thexnerxxm | 189282 | [189282-lo-fi-thexnerxxm.json](./189282-lo-fi-thexnerxxm.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
+| Lo-Res Shaders: The Game | 420103 | [420103-lo-res-shaders-the-game.json](./420103-lo-res-shaders-the-game.json) |
 | Lo-Rez | 285054 | [285054-lo-rez.json](./285054-lo-rez.json) |
 | Loa: Me and Angel | 81643 | [81643-loa-me-and-angel.json](./81643-loa-me-and-angel.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
