@@ -1591,7 +1591,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Pixel | 126241 | [126241-rainbow-pixel.json](./126241-rainbow-pixel.json) |
 | Rainbow Rage Squad | 30690 | [30690-rainbow-rage-squad.json](./30690-rainbow-rage-squad.json) |
 | Rainbow Rapture | 54702 | [54702-rainbow-rapture.json](./54702-rainbow-rapture.json) |
-| Rainbow Reactor | 113793 | [113793-rainbow-reactor.json](./113793-rainbow-reactor.json) |
 | Rainbow Reactor: Fusion | 155728 | [155728-rainbow-reactor-fusion.json](./155728-rainbow-reactor-fusion.json) |
 | Rainbow Rendezvous | 247990 | [247990-rainbow-rendezvous.json](./247990-rainbow-rendezvous.json) |
 | Rainbow Robin | 123829 | [123829-rainbow-robin.json](./123829-rainbow-robin.json) |
@@ -2607,7 +2606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
 | Ravenholm | 319744 | [319744-ravenholm.json](./319744-ravenholm.json) |
 | Ravenix: The Card Master | 139337 | [139337-ravenix-the-card-master.json](./139337-ravenix-the-card-master.json) |
-| Ravenland | 113616 | [113616-ravenland.json](./113616-ravenland.json) |
 | Ravenloft: Stone Prophet | 2504 | [2504-ravenloft-stone-prophet.json](./2504-ravenloft-stone-prophet.json) |
 | Ravenloft: Strahd's Possession | 2508 | [2508-ravenloft-strahds-possession.json](./2508-ravenloft-strahds-possession.json) |
 | Ravenlok: Legendary Edition | 368219 | [368219-ravenlok-legendary-edition.json](./368219-ravenlok-legendary-edition.json) |
@@ -7090,7 +7088,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Unicorn Attack | 372501 | [372501-retro-unicorn-attack.json](./372501-retro-unicorn-attack.json) |
 | Retro Vaders: Reloaded | 133725 | [133725-retro-vaders-reloaded.json](./133725-retro-vaders-reloaded.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
-| Retro Vision | 114312 | [114312-retro-vision.json](./114312-retro-vision.json) |
 | Retro War | 172313 | [172313-retro-war.json](./172313-retro-war.json) |
 | Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wars: Episodio IV 1/4 | 341538 | [341538-retro-wars-episodio-iv-1-4.json](./341538-retro-wars-episodio-iv-1-4.json) |
@@ -9798,7 +9795,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Verdant | 422949 | [422949-road-to-verdant.json](./422949-road-to-verdant.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road to Wealth | 348873 | [348873-road-to-wealth.json](./348873-road-to-wealth.json) |
-| Road to Your City | 114041 | [114041-road-to-your-city.json](./114041-road-to-your-city.json) |
 | Road to Yvhalon | 392068 | [392068-road-to-yvhalon.json](./392068-road-to-yvhalon.json) |
 | Road Toad | 290485 | [290485-road-toad.json](./290485-road-toad.json) |
 | Road Toads | 333135 | [333135-road-toads.json](./333135-road-toads.json) |
@@ -11335,7 +11331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rocrasher | 374034 | [374034-rocrasher.json](./374034-rocrasher.json) |
-| Rocwood Academy | 114578 | [114578-rocwood-academy.json](./114578-rocwood-academy.json) |
 | Rod | 121136 | [121136-rod.json](./121136-rod.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
@@ -13945,7 +13940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Survival | 77435 | [77435-rules-of-survival.json](./77435-rules-of-survival.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
 | Rules of the Inn | 422878 | [422878-rules-of-the-inn.json](./422878-rules-of-the-inn.json) |
-| Rules of The Mafia: Trade & Blood | 113856 | [113856-rules-of-the-mafia-trade-and-blood.json](./113856-rules-of-the-mafia-trade-and-blood.json) |
 | Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules: Politically Incorrect | 191978 | [191978-rules-politically-incorrect.json](./191978-rules-politically-incorrect.json) |
