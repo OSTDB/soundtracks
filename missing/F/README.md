@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Leaves | 57504 | [57504-fallen-leaves.json](./57504-fallen-leaves.json) |
 | Fallen Legion Revenants: Digital Deluxe Edition | 227175 | [227175-fallen-legion-revenants-digital-deluxe-edition.json](./227175-fallen-legion-revenants-digital-deluxe-edition.json) |
 | Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
+| Fallen Legion: Flames of Rebellion | 52018 | [52018-fallen-legion-flames-of-rebellion.json](./52018-fallen-legion-flames-of-rebellion.json) |
 | Fallen Legion: Rise to Glory | 78128 | [78128-fallen-legion-rise-to-glory.json](./78128-fallen-legion-rise-to-glory.json) |
 | Fallen Legion: Rise to Glory - Digital Deluxe Edition | 227176 | [227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json](./227176-fallen-legion-rise-to-glory-digital-deluxe-edition.json) |
 | Fallen Legion: Rise to Glory - Exemplary Edition | 78129 | [78129-fallen-legion-rise-to-glory-exemplary-edition.json](./78129-fallen-legion-rise-to-glory-exemplary-edition.json) |
@@ -3092,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
+| Farming Simulator 14 | 52213 | [52213-farming-simulator-14.json](./52213-farming-simulator-14.json) |
 | Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
 | Farming Simulator 15: Gold Edition | 24209 | [24209-farming-simulator-15-gold-edition.json](./24209-farming-simulator-15-gold-edition.json) |
 | Farming Simulator 15: Holmer | 166091 | [166091-farming-simulator-15-holmer.json](./166091-farming-simulator-15-holmer.json) |
@@ -3553,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Princess Adventures | 11199 | [11199-fat-princess-adventures.json](./11199-fat-princess-adventures.json) |
 | Fat Princess: Fat Roles | 276802 | [276802-fat-princess-fat-roles.json](./276802-fat-princess-fat-roles.json) |
 | Fat Princess: Fistful of Cake | 21752 | [21752-fat-princess-fistful-of-cake.json](./21752-fat-princess-fistful-of-cake.json) |
+| Fat Princess: Piece of Cake | 52212 | [52212-fat-princess-piece-of-cake.json](./52212-fat-princess-piece-of-cake.json) |
 | Fat Prisoner Simulator | 233834 | [233834-fat-prisoner-simulator.json](./233834-fat-prisoner-simulator.json) |
 | Fat Prisoner Simulator 2 | 370944 | [370944-fat-prisoner-simulator-2.json](./370944-fat-prisoner-simulator-2.json) |
 | Fat Prisoner Simulator 3 | 169156 | [169156-fat-prisoner-simulator-3.json](./169156-fat-prisoner-simulator-3.json) |
@@ -8678,6 +8681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
+| Flash Point: Fire Rescue | 52087 | [52087-flash-point-fire-rescue.json](./52087-flash-point-fire-rescue.json) |
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Pool Game (8 Ball & 9 Ball) | 115292 | [115292-flash-pool-game-8-ball-and-9-ball.json](./115292-flash-pool-game-8-ball-and-9-ball.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
