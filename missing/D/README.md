@@ -17836,6 +17836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
 | Dragonfist Limitless | 256455 | [256455-dragonfist-limitless.json](./256455-dragonfist-limitless.json) |
 | Dragonflight | 12056 | [12056-dragonflight.json](./12056-dragonflight.json) |
+| Dragonflight | 34826 | [34826-dragonflight.json](./34826-dragonflight.json) |
 | Dragonfly | 354900 | [354900-dragonfly.json](./354900-dragonfly.json) |
 | Dragonfly | 97469 | [97469-dragonfly.json](./97469-dragonfly.json) |
 | Dragonfly Chronicles | 105133 | [105133-dragonfly-chronicles.json](./105133-dragonfly-chronicles.json) |
