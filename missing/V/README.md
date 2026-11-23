@@ -936,7 +936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard V | 38798 | [38798-vanguard-v.json](./38798-vanguard-v.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
-| Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
 | Vanguard: Saga of Heroes | 4205 | [4205-vanguard-saga-of-heroes.json](./4205-vanguard-saga-of-heroes.json) |
 | Vanguard's Descent | 423362 | [423362-vanguards-descent.json](./423362-vanguards-descent.json) |
 | Vanguardian | 103769 | [103769-vanguardian.json](./103769-vanguardian.json) |
