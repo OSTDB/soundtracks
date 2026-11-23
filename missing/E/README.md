@@ -6783,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Uprising: Hearts of Crystal | 155905 | [155905-esper-uprising-hearts-of-crystal.json](./155905-esper-uprising-hearts-of-crystal.json) |
 | Esper X Guide | 375540 | [375540-esper-x-guide.json](./375540-esper-x-guide.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
+| Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
 | Espgaluda | 83808 | [83808-espgaluda.json](./83808-espgaluda.json) |
 | Espgaluda II | 152403 | [152403-espgaluda-ii.json](./152403-espgaluda-ii.json) |
