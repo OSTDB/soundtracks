@@ -10079,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitColony | 351263 | [351263-bitcolony.json](./351263-bitcolony.json) |
 | BitColor | 184116 | [184116-bitcolor.json](./184116-bitcolor.json) |
 | BitCraft Online | 171530 | [171530-bitcraft-online.json](./171530-bitcraft-online.json) |
+| Bitcrusher | 428080 | [428080-bitcrusher.json](./428080-bitcrusher.json) |
 | Bitdude | 30049 | [30049-bitdude.json](./30049-bitdude.json) |
 | Bite at the Museum | 146727 | [146727-bite-at-the-museum.json](./146727-bite-at-the-museum.json) |
 | Bite Me | 128623 | [128623-bite-me.json](./128623-bite-me.json) |
@@ -10348,6 +10349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Death Interactive | 320665 | [320665-black-death-interactive.json](./320665-black-death-interactive.json) |
 | Black Death: A Tragic Dirge | 212718 | [212718-black-death-a-tragic-dirge.json](./212718-black-death-a-tragic-dirge.json) |
 | Black Death: Divarication | 55587 | [55587-black-death-divarication.json](./55587-black-death-divarication.json) |
+| Black Demeter | 428081 | [428081-black-demeter.json](./428081-black-demeter.json) |
 | Black Derulo World 2 | 268169 | [268169-black-derulo-world-2.json](./268169-black-derulo-world-2.json) |
 | Black Desert | 6292 | [6292-black-desert.json](./6292-black-desert.json) |
 | Black Desert Mobile | 54701 | [54701-black-desert-mobile.json](./54701-black-desert-mobile.json) |
@@ -13386,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Archive | 139391 | [139391-blue-archive.json](./139391-blue-archive.json) |
 | Blue Archive: Volume 3 - Eden Treaty | 417991 | [417991-blue-archive-volume-3-eden-treaty.json](./417991-blue-archive-volume-3-eden-treaty.json) |
 | Blue Area | 350344 | [350344-blue-area.json](./350344-blue-area.json) |
+| Blue Artifact + | 428093 | [428093-blue-artifact.json](./428093-blue-artifact.json) |
 | Blue Aurora: The G.A.I.A. Project | 125881 | [125881-blue-aurora-the-g-a-i-a-project.json](./125881-blue-aurora-the-g-a-i-a-project.json) |
 | Blue Balls | 376832 | [376832-blue-balls.json](./376832-blue-balls.json) |
 | Blue Balls | 64035 | [64035-blue-balls.json](./64035-blue-balls.json) |
