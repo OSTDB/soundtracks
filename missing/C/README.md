@@ -1480,7 +1480,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candellum | 401706 | [401706-candellum.json](./401706-candellum.json) |
 | Candera: The Forgotten Realm | 127809 | [127809-candera-the-forgotten-realm.json](./127809-candera-the-forgotten-realm.json) |
 | Candice DeBebe's Incredibly Trick Lifestyle | 33246 | [33246-candice-debebes-incredibly-trick-lifestyle.json](./33246-candice-debebes-incredibly-trick-lifestyle.json) |
-| Candice DeBebe's Scandalous Secrets | 110931 | [110931-candice-debebes-scandalous-secrets.json](./110931-candice-debebes-scandalous-secrets.json) |
 | Candice DeBebe's Tantalising Tricks | 223396 | [223396-candice-debebes-tantalising-tricks.json](./223396-candice-debebes-tantalising-tricks.json) |
 | Candidus Caves | 297429 | [297429-candidus-caves.json](./297429-candidus-caves.json) |
 | Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
@@ -11190,7 +11189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad in Iron: Gulf of Mexico 1864 | 55607 | [55607-clad-in-iron-gulf-of-mexico-1864.json](./55607-clad-in-iron-gulf-of-mexico-1864.json) |
 | Clad in Iron: Philippines 1898 | 75343 | [75343-clad-in-iron-philippines-1898.json](./75343-clad-in-iron-philippines-1898.json) |
 | Clad in Iron: Philippines 1898 - Manila Bay 1898 | 170949 | [170949-clad-in-iron-philippines-1898-manila-bay-1898.json](./170949-clad-in-iron-philippines-1898-manila-bay-1898.json) |
-| Clad in Iron: Sakhalin 1904 | 111222 | [111222-clad-in-iron-sakhalin-1904.json](./111222-clad-in-iron-sakhalin-1904.json) |
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun Returns: This is Sengoku! | 27331 | [27331-cladun-returns-this-is-sengoku.json](./27331-cladun-returns-this-is-sengoku.json) |
@@ -11477,7 +11475,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Card Game Spades | 129439 | [129439-classic-card-game-spades.json](./129439-classic-card-game-spades.json) |
 | Classic Card Game Texas Hold'em | 129339 | [129339-classic-card-game-texas-holdem.json](./129339-classic-card-game-texas-holdem.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
-| Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
 | Classic Card Games Collection | 367702 | [367702-classic-card-games-collection.json](./367702-classic-card-games-collection.json) |
 | Classic Casino | 195034 | [195034-classic-casino.json](./195034-classic-casino.json) |
 | Classic Checkers | 147860 | [147860-classic-checkers.json](./147860-classic-checkers.json) |
@@ -11716,7 +11713,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clazer | 31035 | [31035-clazer.json](./31035-clazer.json) |
-| Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clea 2 | 139516 | [139516-clea-2.json](./139516-clea-2.json) |
 | Clea: Complete Collection | 225417 | [225417-clea-complete-collection.json](./225417-clea-complete-collection.json) |
 | Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
@@ -12013,7 +12009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
 | Clicker Warriors | 115921 | [115921-clicker-warriors.json](./115921-clicker-warriors.json) |
 | Clicker Warriors - Idle Rpg | 126069 | [126069-clicker-warriors-idle-rpg.json](./126069-clicker-warriors-idle-rpg.json) |
-| Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
@@ -13385,7 +13380,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee, Plis | 257964 | [257964-coffee-plis.json](./257964-coffee-plis.json) |
 | Coffee, Snow, and You | 338873 | [338873-coffee-snow-and-you.json](./338873-coffee-snow-and-you.json) |
 | Coffee/Break: Ocean Grey | 141796 | [141796-coffee-break-ocean-grey.json](./141796-coffee-break-ocean-grey.json) |
-| CoffeeBiz Tycoon | 111027 | [111027-coffeebiz-tycoon.json](./111027-coffeebiz-tycoon.json) |
 | Coffeehouse | 217374 | [217374-coffeehouse.json](./217374-coffeehouse.json) |
 | CoffeeShop Simulator | 326448 | [326448-coffeeshop-simulator.json](./326448-coffeeshop-simulator.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
@@ -18421,7 +18415,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowpool | 422936 | [422936-cowpool.json](./422936-cowpool.json) |
 | Cows Gone Mad: Battle for Pasture Prime | 411676 | [411676-cows-gone-mad-battle-for-pasture-prime.json](./411676-cows-gone-mad-battle-for-pasture-prime.json) |
 | Cows In Space | 194178 | [194178-cows-in-space.json](./194178-cows-in-space.json) |
-| Cows VS Vikings | 112592 | [112592-cows-vs-vikings.json](./112592-cows-vs-vikings.json) |
 | Cows&Co | 207799 | [207799-cows-and-co.json](./207799-cows-and-co.json) |
 | Cowtastic Cafe | 316823 | [316823-cowtastic-cafe.json](./316823-cowtastic-cafe.json) |
 | Cowz.io | 352143 | [352143-cowz-io.json](./352143-cowz-io.json) |
@@ -18844,7 +18837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cragne Manor | 138146 | [138146-cragne-manor.json](./138146-cragne-manor.json) |
 | Craig 12: Craig's Escape | 319266 | [319266-craig-12-craigs-escape.json](./319266-craig-12-craigs-escape.json) |
 | Craig's Cave | 412549 | [412549-craigs-cave.json](./412549-craigs-cave.json) |
-| Craken | 110757 | [110757-craken.json](./110757-craken.json) |
 | Cralon | 333218 | [333218-cralon.json](./333218-cralon.json) |
 | CraMagear | 226833 | [226833-cramagear.json](./226833-cramagear.json) |
 | Cramble | 105760 | [105760-cramble.json](./105760-cramble.json) |
@@ -18941,7 +18933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Dog | 300614 | [300614-crappy-dog.json](./300614-crappy-dog.json) |
 | Crappy Dog 2 | 300980 | [300980-crappy-dog-2.json](./300980-crappy-dog-2.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
-| Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
 | Crappy Turd | 393086 | [393086-crappy-turd.json](./393086-crappy-turd.json) |
 | Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
@@ -19615,7 +19606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines 2: Pirates | 164370 | [164370-crazy-machines-2-pirates.json](./164370-crazy-machines-2-pirates.json) |
 | Crazy Machines 2: Time Travel Add-On | 164374 | [164374-crazy-machines-2-time-travel-add-on.json](./164374-crazy-machines-2-time-travel-add-on.json) |
 | Crazy Machines 3 | 19291 | [19291-crazy-machines-3.json](./19291-crazy-machines-3.json) |
-| Crazy Machines VR | 111042 | [111042-crazy-machines-vr.json](./111042-crazy-machines-vr.json) |
 | Crazy Machines: Golden Gears | 16865 | [16865-crazy-machines-golden-gears.json](./16865-crazy-machines-golden-gears.json) |
 | Crazy Mafioso | 169839 | [169839-crazy-mafioso.json](./169839-crazy-mafioso.json) |
 | Crazy Manager | 378353 | [378353-crazy-manager.json](./378353-crazy-manager.json) |
@@ -19928,7 +19918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures Exodus | 11279 | [11279-creatures-exodus.json](./11279-creatures-exodus.json) |
 | Creatures Family | 97970 | [97970-creatures-family.json](./97970-creatures-family.json) |
 | Creatures II: Torture Trouble | 11375 | [11375-creatures-ii-torture-trouble.json](./11375-creatures-ii-torture-trouble.json) |
-| Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures Match-3 | 88569 | [88569-creatures-match-3.json](./88569-creatures-match-3.json) |
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
@@ -23496,7 +23485,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Pets | 65068 | [65068-cute-pets.json](./65068-cute-pets.json) |
 | Cute Puppy Academy | 328547 | [328547-cute-puppy-academy.json](./328547-cute-puppy-academy.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
-| Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
 | Cute Puzzles!!! | 249758 | [249758-cute-puzzles.json](./249758-cute-puzzles.json) |
 | Cute Snake | 193473 | [193473-cute-snake.json](./193473-cute-snake.json) |
 | Cute Socks | 310722 | [310722-cute-socks.json](./310722-cute-socks.json) |
