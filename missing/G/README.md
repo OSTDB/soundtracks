@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden Of Coolembozo | 269245 | [269245-garden-of-coolembozo.json](./269245-garden-of-coolembozo.json) |
+| Garden of Dreams | 428648 | [428648-garden-of-dreams.json](./428648-garden-of-dreams.json) |
 | Garden of Earthly Delights | 290806 | [290806-garden-of-earthly-delights.json](./290806-garden-of-earthly-delights.json) |
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
