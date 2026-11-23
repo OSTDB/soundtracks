@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leftovers KO! | 332912 | [332912-leftovers-ko.json](./332912-leftovers-ko.json) |
 | Leftovers: Last Fridge Standing | 427696 | [427696-leftovers-last-fridge-standing.json](./427696-leftovers-last-fridge-standing.json) |
 | LeftRedRightBlue | 328175 | [328175-leftredrightblue.json](./328175-leftredrightblue.json) |
+| LeftUnknown | 429402 | [429402-leftunknown.json](./429402-leftunknown.json) |
 | LeftWay | 52279 | [52279-leftway.json](./52279-leftway.json) |
 | LeftWay 2 | 158798 | [158798-leftway-2.json](./158798-leftway-2.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
