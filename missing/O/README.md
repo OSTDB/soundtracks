@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osternfield | 116489 | [116489-osternfield.json](./116489-osternfield.json) |
+| Osteya | 34427 | [34427-osteya.json](./34427-osteya.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
 | Ostranauts | 115299 | [115299-ostranauts.json](./115299-ostranauts.json) |
 | Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
