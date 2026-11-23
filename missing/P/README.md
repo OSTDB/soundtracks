@@ -12118,6 +12118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Rocket | 187166 | [187166-pocket-rocket.json](./187166-pocket-rocket.json) |
 | Pocket Rockets | 94293 | [94293-pocket-rockets.json](./94293-pocket-rockets.json) |
 | Pocket Roguelike | 114733 | [114733-pocket-roguelike.json](./114733-pocket-roguelike.json) |
+| Pocket Rogues | 111249 | [111249-pocket-rogues.json](./111249-pocket-rogues.json) |
 | Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
 | Pocket Room Sanrio Characters | 334865 | [334865-pocket-room-sanrio-characters.json](./334865-pocket-room-sanrio-characters.json) |
 | Pocket Royal | 196332 | [196332-pocket-royal.json](./196332-pocket-royal.json) |
@@ -18528,6 +18529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parallel | 68374 | [68374-project-parallel.json](./68374-project-parallel.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
+| Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
 | Project Paws | 278905 | [278905-project-paws.json](./278905-project-paws.json) |
 | Project Perun | 265527 | [265527-project-perun.json](./265527-project-perun.json) |
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
