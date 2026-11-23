@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
+| Techwars Online | 95703 | [95703-techwars-online.json](./95703-techwars-online.json) |
 | Techwars Online 2 | 31454 | [31454-techwars-online-2.json](./31454-techwars-online-2.json) |
 | Teck Boxing 3D | 110619 | [110619-teck-boxing-3d.json](./110619-teck-boxing-3d.json) |
 | Teckel Adventure | 397313 | [397313-teckel-adventure.json](./397313-teckel-adventure.json) |
@@ -12362,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero of Destiny Was Killed by the Final Boss | 386940 | [386940-the-hero-of-destiny-was-killed-by-the-final-boss.json](./386940-the-hero-of-destiny-was-killed-by-the-final-boss.json) |
 | The Hero of Kendrickstone | 35619 | [35619-the-hero-of-kendrickstone.json](./35619-the-hero-of-kendrickstone.json) |
 | The Hero Of Pixel Spire | 370912 | [370912-the-hero-of-pixel-spire.json](./370912-the-hero-of-pixel-spire.json) |
+| The Hero Project: Open Season | 96193 | [96193-the-hero-project-open-season.json](./96193-the-hero-project-open-season.json) |
 | The Hero Project: Open Season - Prodigal's Database for Powereds | 159595 | [159595-the-hero-project-open-season-prodigals-database-for-powereds.json](./159595-the-hero-project-open-season-prodigals-database-for-powereds.json) |
 | The Hero Project: Redemption Season - MeChip Warning System | 170822 | [170822-the-hero-project-redemption-season-mechip-warning-system.json](./170822-the-hero-project-redemption-season-mechip-warning-system.json) |
 | The Hero Trap | 61922 | [61922-the-hero-trap.json](./61922-the-hero-trap.json) |
@@ -28212,6 +28214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Kitchen | 181589 | [181589-toca-kitchen.json](./181589-toca-kitchen.json) |
+| Toca Kitchen 2 | 95708 | [95708-toca-kitchen-2.json](./95708-toca-kitchen-2.json) |
 | Toca Kitchen Sushi | 114635 | [114635-toca-kitchen-sushi.json](./114635-toca-kitchen-sushi.json) |
 | Toca Lab: Elements | 74727 | [74727-toca-lab-elements.json](./74727-toca-lab-elements.json) |
 | Toca Life World | 126005 | [126005-toca-life-world.json](./126005-toca-life-world.json) |
@@ -37527,6 +37530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
+| Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
 | Tunche: Arena | 113136 | [113136-tunche-arena.json](./113136-tunche-arena.json) |
 | Tundralia: The Frigid Frontier | 192008 | [192008-tundralia-the-frigid-frontier.json](./192008-tundralia-the-frigid-frontier.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
