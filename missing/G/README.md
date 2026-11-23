@@ -6542,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Radio : 8-Bit Edition | 76050 | [76050-go-go-radio-8-bit-edition.json](./76050-go-go-radio-8-bit-edition.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
+| Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Go! Puzzle | 39753 | [39753-go-puzzle.json](./39753-go-puzzle.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
