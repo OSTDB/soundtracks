@@ -5860,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi-Koi Japan: Ukiyoe Tours Vol.3 | 168064 | [168064-koi-koi-japan-ukiyoe-tours-vol-3.json](./168064-koi-koi-japan-ukiyoe-tours-vol-3.json) |
 | Koi-Koi VR: Love Blossoms | 211562 | [211562-koi-koi-vr-love-blossoms.json](./211562-koi-koi-vr-love-blossoms.json) |
 | Koibana Days | 58571 | [58571-koibana-days.json](./58571-koibana-days.json) |
+| Koibana Renai | 428617 | [428617-koibana-renai.json](./428617-koibana-renai.json) |
 | Koibito no Nazo: Lover's Enigma | 310521 | [310521-koibito-no-nazo-lovers-enigma.json](./310521-koibito-no-nazo-lovers-enigma.json) |
 | Koibumi | 279130 | [279130-koibumi.json](./279130-koibumi.json) |
 | Koibumi Romantica | 181671 | [181671-koibumi-romantica.json](./181671-koibumi-romantica.json) |
@@ -6917,6 +6918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kudo’s Kuppa | 397866 | [397866-kudo-s-kuppa.json](./397866-kudo-s-kuppa.json) |
 | Kudokikata Oshiemasu | 67389 | [67389-kudokikata-oshiemasu.json](./67389-kudokikata-oshiemasu.json) |
 | Kudokikata Oshiemasu Part II: Kind Gals | 67388 | [67388-kudokikata-oshiemasu-part-ii-kind-gals.json](./67388-kudokikata-oshiemasu-part-ii-kind-gals.json) |
+| Kudos | 23135 | [23135-kudos.json](./23135-kudos.json) |
 | Kudos 2 | 21226 | [21226-kudos-2.json](./21226-kudos-2.json) |
 | Kudos: Rock Legend | 23097 | [23097-kudos-rock-legend.json](./23097-kudos-rock-legend.json) |
 | Kudzu | 284593 | [284593-kudzu.json](./284593-kudzu.json) |
