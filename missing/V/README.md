@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
+| Versetender | 426853 | [426853-versetender.json](./426853-versetender.json) |
 | Version -1: Where Love Lies | 325308 | [325308-version-1-where-love-lies.json](./325308-version-1-where-love-lies.json) |
 | Version Control | 260908 | [260908-version-control.json](./260908-version-control.json) |
 | Version Fille | 125947 | [125947-version-fille.json](./125947-version-fille.json) |
