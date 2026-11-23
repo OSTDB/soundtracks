@@ -4736,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix | 336817 | [336817-helix.json](./336817-helix.json) |
 | Helix | 341828 | [341828-helix.json](./341828-helix.json) |
 | Helix | 60734 | [60734-helix.json](./60734-helix.json) |
+| Helix Ark | 428653 | [428653-helix-ark.json](./428653-helix-ark.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
 | Helix Bounce Space | 100841 | [100841-helix-bounce-space.json](./100841-helix-bounce-space.json) |
 | Helix Brawl | 168645 | [168645-helix-brawl.json](./168645-helix-brawl.json) |
@@ -11392,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hookscrap | 247357 | [247357-hookscrap.json](./247357-hookscrap.json) |
 | HookSharks | 148588 | [148588-hooksharks.json](./148588-hooksharks.json) |
 | Hookshot | 115261 | [115261-hookshot.json](./115261-hookshot.json) |
+| Hookshot | 428655 | [428655-hookshot.json](./428655-hookshot.json) |
 | Hookshot Runner | 341615 | [341615-hookshot-runner.json](./341615-hookshot-runner.json) |
 | HookShotVR | 143934 | [143934-hookshotvr.json](./143934-hookshotvr.json) |
 | Hooky McPegleg, Pirate Postman | 70813 | [70813-hooky-mcpegleg-pirate-postman.json](./70813-hooky-mcpegleg-pirate-postman.json) |
@@ -11409,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
 | Hoomanz! | 314446 | [314446-hoomanz.json](./314446-hoomanz.json) |
 | Hoomeez | 204617 | [204617-hoomeez.json](./204617-hoomeez.json) |
+| Hoone | 428636 | [428636-hoone.json](./428636-hoone.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop | 193886 | [193886-hoop.json](./193886-hoop.json) |
@@ -11571,6 +11574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
 | Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
+| Hopenothing | 428654 | [428654-hopenothing.json](./428654-hopenothing.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopetown | 329296 | [329296-hopetown.json](./329296-hopetown.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
@@ -14528,6 +14532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Crazy Climber | 73389 | [73389-hyper-crazy-climber.json](./73389-hyper-crazy-climber.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
+| Hyper Dash: Hellfire Bundle | 428163 | [428163-hyper-dash-hellfire-bundle.json](./428163-hyper-dash-hellfire-bundle.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
 | Hyper Demon PvP | 376184 | [376184-hyper-demon-pvp.json](./376184-hyper-demon-pvp.json) |
 | Hyper Detonator | 380198 | [380198-hyper-detonator.json](./380198-hyper-detonator.json) |
