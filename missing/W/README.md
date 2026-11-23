@@ -8317,6 +8317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy in Monster World | 9540 | [9540-wonder-boy-in-monster-world.json](./9540-wonder-boy-in-monster-world.json) |
 | Wonder Boy Returns | 31404 | [31404-wonder-boy-returns.json](./31404-wonder-boy-returns.json) |
+| Wonder Boy Returns Remix | 115993 | [115993-wonder-boy-returns-remix.json](./115993-wonder-boy-returns-remix.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World | 137048 | [137048-wonder-boy-asha-in-monster-world.json](./137048-wonder-boy-asha-in-monster-world.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
@@ -10422,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraithmind | 116639 | [116639-wraithmind.json](./116639-wraithmind.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
 | Wraiths of Sentinel | 171103 | [171103-wraiths-of-sentinel.json](./171103-wraiths-of-sentinel.json) |
+| Wraithslayer | 115405 | [115405-wraithslayer.json](./115405-wraithslayer.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
