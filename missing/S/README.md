@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints Row Boss Factory | 344978 | [344978-saints-row-boss-factory.json](./344978-saints-row-boss-factory.json) |
 | Saints Row IV - Reverse Cosplay Pack | 93892 | [93892-saints-row-iv-reverse-cosplay-pack.json](./93892-saints-row-iv-reverse-cosplay-pack.json) |
 | Saints Row IV: 100% Uncut | 53572 | [53572-saints-row-iv-100-uncut.json](./53572-saints-row-iv-100-uncut.json) |
+| Saints Row IV: Commander In Chief Edition | 26198 | [26198-saints-row-iv-commander-in-chief-edition.json](./26198-saints-row-iv-commander-in-chief-edition.json) |
 | Saints Row IV: Enter the Dominatrix | 22142 | [22142-saints-row-iv-enter-the-dominatrix.json](./22142-saints-row-iv-enter-the-dominatrix.json) |
 | Saints Row IV: Game of the Century Edition | 51869 | [51869-saints-row-iv-game-of-the-century-edition.json](./51869-saints-row-iv-game-of-the-century-edition.json) |
 | Saints Row IV: How the Saints Save Christmas | 23420 | [23420-saints-row-iv-how-the-saints-save-christmas.json](./23420-saints-row-iv-how-the-saints-save-christmas.json) |
@@ -3377,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
 | Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene Investigators | 146404 | [146404-scene-investigators.json](./146404-scene-investigators.json) |
+| Scene It? 80s | 23790 | [23790-scene-it-80s.json](./23790-scene-it-80s.json) |
 | Scene It? Box Office Smash | 7181 | [7181-scene-it-box-office-smash.json](./7181-scene-it-box-office-smash.json) |
 | Scene It? Bright Lights! Big Screen! | 5141 | [5141-scene-it-bright-lights-big-screen.json](./5141-scene-it-bright-lights-big-screen.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Movie Mania | 287549 | [287549-scene-it-movie-mania.json](./287549-scene-it-movie-mania.json) |
 | Scene It? Movie Night | 41581 | [41581-scene-it-movie-night.json](./41581-scene-it-movie-night.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
+| Scene it? The Simpsons: Deluxe Edition | 23789 | [23789-scene-it-the-simpsons-deluxe-edition.json](./23789-scene-it-the-simpsons-deluxe-edition.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
 | Scene It?: The DVD Movie Game | 359901 | [359901-scene-it-the-dvd-movie-game.json](./359901-scene-it-the-dvd-movie-game.json) |
 | Scene of the Crime | 328661 | [328661-scene-of-the-crime.json](./328661-scene-of-the-crime.json) |
@@ -9031,6 +9034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun White Skateboarding | 208712 | [208712-shaun-white-skateboarding.json](./208712-shaun-white-skateboarding.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shaun White Snowboarding: Road Trip | 21878 | [21878-shaun-white-snowboarding-road-trip.json](./21878-shaun-white-snowboarding-road-trip.json) |
+| Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
 | Shave & Stuff | 227665 | [227665-shave-and-stuff.json](./227665-shave-and-stuff.json) |
@@ -20010,6 +20014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic | 198585 | [198585-sonic.json](./198585-sonic.json) |
 | Sonic [Unl] | 308656 | [308656-sonic-unl.json](./308656-sonic-unl.json) |
 | Sonic & All-Stars Racing Transformed | 210448 | [210448-sonic-and-all-stars-racing-transformed.json](./210448-sonic-and-all-stars-racing-transformed.json) |
+| Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
 | Sonic & All-Stars Racing Transformed: Metal Sonic & Outrun DLC | 119189 | [119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json](./119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
@@ -28555,6 +28560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Battlefront: Mobile Squadrons | 76721 | [76721-star-wars-battlefront-mobile-squadrons.json](./76721-star-wars-battlefront-mobile-squadrons.json) |
 | Star Wars Battlefront: Outer Rim | 18161 | [18161-star-wars-battlefront-outer-rim.json](./18161-star-wars-battlefront-outer-rim.json) |
+| Star Wars Battlefront: Rogue One - Scarif | 26201 | [26201-star-wars-battlefront-rogue-one-scarif.json](./26201-star-wars-battlefront-rogue-one-scarif.json) |
 | Star Wars Battlefront: Rogue One - X-Wing VR Mission | 52879 | [52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json](./52879-star-wars-battlefront-rogue-one-x-wing-vr-mission.json) |
 | Star Wars Battlefront: Ultimate Edition | 53663 | [53663-star-wars-battlefront-ultimate-edition.json](./53663-star-wars-battlefront-ultimate-edition.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
@@ -28910,6 +28916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starblaze | 42133 | [42133-starblaze.json](./42133-starblaze.json) |
 | Starblazer | 112773 | [112773-starblazer.json](./112773-starblazer.json) |
 | Starblind | 293175 | [293175-starblind.json](./293175-starblind.json) |
+| Starblood Arena | 26231 | [26231-starblood-arena.json](./26231-starblood-arena.json) |
 | Starbloom Ranch | 423449 | [423449-starbloom-ranch.json](./423449-starbloom-ranch.json) |
 | StarBlox Inc. | 124060 | [124060-starblox-inc.json](./124060-starblox-inc.json) |
 | Starbo | 80009 | [80009-starbo.json](./80009-starbo.json) |
@@ -30051,6 +30058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statue of Liberty the Lost Symbol | 104337 | [104337-statue-of-liberty-the-lost-symbol.json](./104337-statue-of-liberty-the-lost-symbol.json) |
 | Statues | 182961 | [182961-statues.json](./182961-statues.json) |
+| Statues | 26519 | [26519-statues.json](./26519-statues.json) |
 | Status | 327418 | [327418-status.json](./327418-status.json) |
 | Status Entropos | 377918 | [377918-status-entropos.json](./377918-status-entropos.json) |
 | Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
@@ -30749,6 +30757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Survivor | 119476 | [119476-stellar-survivor.json](./119476-stellar-survivor.json) |
 | Stellar Sweeper | 208700 | [208700-stellar-sweeper.json](./208700-stellar-sweeper.json) |
 | Stellar Swing | 122464 | [122464-stellar-swing.json](./122464-stellar-swing.json) |
+| Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
 | Stellar Trader | 375747 | [375747-stellar-trader.json](./375747-stellar-trader.json) |
@@ -32339,6 +32348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Samurai | 197024 | [197024-strawberry-samurai.json](./197024-strawberry-samurai.json) |
 | Strawberry Season | 420238 | [420238-strawberry-season.json](./420238-strawberry-season.json) |
 | Strawberry Shortcake: Amazing Cookie Party | 8569 | [8569-strawberry-shortcake-amazing-cookie-party.json](./8569-strawberry-shortcake-amazing-cookie-party.json) |
+| Strawberry Shortcake: And Her Berry Best Friends | 23813 | [23813-strawberry-shortcake-and-her-berry-best-friends.json](./23813-strawberry-shortcake-and-her-berry-best-friends.json) |
 | Strawberry Shortcake: Berry Rush | 259535 | [259535-strawberry-shortcake-berry-rush.json](./259535-strawberry-shortcake-berry-rush.json) |
 | Strawberry Shortcake: Ice Cream Island Riding Camp | 8571 | [8571-strawberry-shortcake-ice-cream-island-riding-camp.json](./8571-strawberry-shortcake-ice-cream-island-riding-camp.json) |
 | Strawberry Shortcake: Musical Match-ups | 8568 | [8568-strawberry-shortcake-musical-match-ups.json](./8568-strawberry-shortcake-musical-match-ups.json) |
@@ -38980,6 +38990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCitycon | 429594 | [429594-supercitycon.json](./429594-supercitycon.json) |
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
+| SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
 | SuperColony | 216906 | [216906-supercolony.json](./216906-supercolony.json) |
 | Supercontinent LTD | 146472 | [146472-supercontinent-ltd.json](./146472-supercontinent-ltd.json) |
 | Supercooked! | 251711 | [251711-supercooked.json](./251711-supercooked.json) |
