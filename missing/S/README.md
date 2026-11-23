@@ -14045,6 +14045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skedaddle Out the Dungeon | 195677 | [195677-skedaddle-out-the-dungeon.json](./195677-skedaddle-out-the-dungeon.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skee Ball Flick - Hole King | 103916 | [103916-skee-ball-flick-hole-king.json](./103916-skee-ball-flick-hole-king.json) |
+| Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
 | Skee-Ball Plus | 295962 | [295962-skee-ball-plus.json](./295962-skee-ball-plus.json) |
 | Skeet | 68145 | [68145-skeet.json](./68145-skeet.json) |
 | Skeet Shoot | 217687 | [217687-skeet-shoot.json](./217687-skeet-shoot.json) |
@@ -14130,6 +14131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skellies Ain't Scary | 199390 | [199390-skellies-aint-scary.json](./199390-skellies-aint-scary.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
+| Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelly Selest & Straimium Immortaly Double Pack | 146996 | [146996-skelly-selest-and-straimium-immortaly-double-pack.json](./146996-skelly-selest-and-straimium-immortaly-double-pack.json) |
 | Skelly's Skirmish | 391357 | [391357-skellys-skirmish.json](./391357-skellys-skirmish.json) |
 | Skelost | 146419 | [146419-skelost.json](./146419-skelost.json) |
@@ -15640,6 +15642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Rise Again | 323972 | [323972-slender-man-rise-again.json](./323972-slender-man-rise-again.json) |
 | Slender Multiplayer | 270731 | [270731-slender-multiplayer.json](./270731-slender-multiplayer.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
+| Slender Rising | 95676 | [95676-slender-rising.json](./95676-slender-rising.json) |
 | Slender Rising 2 | 108716 | [108716-slender-rising-2.json](./108716-slender-rising-2.json) |
 | Slender Space | 135934 | [135934-slender-space.json](./135934-slender-space.json) |
 | Slender Threads | 127424 | [127424-slender-threads.json](./127424-slender-threads.json) |
@@ -16047,6 +16050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Creator | 113302 | [113302-slime-san-creator.json](./113302-slime-san-creator.json) |
 | Slime-san: Sheeple's Sequel | 83993 | [83993-slime-san-sheeples-sequel.json](./83993-slime-san-sheeples-sequel.json) |
+| Slime-san: Superslime Edition | 96019 | [96019-slime-san-superslime-edition.json](./96019-slime-san-superslime-edition.json) |
 | Slime, Fire and Soul | 287794 | [287794-slime-fire-and-soul.json](./287794-slime-fire-and-soul.json) |
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
 | Slime: Isekai Memories | 178301 | [178301-slime-isekai-memories.json](./178301-slime-isekai-memories.json) |
@@ -26969,6 +26973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyCat: Codename Wu | 423452 | [423452-spycat-codename-wu.json](./423452-spycat-codename-wu.json) |
 | Spycity | 157849 | [157849-spycity.json](./157849-spycity.json) |
 | Spycraft: The Great Game | 2232 | [2232-spycraft-the-great-game.json](./2232-spycraft-the-great-game.json) |
+| Spyder | 93470 | [93470-spyder.json](./93470-spyder.json) |
 | Spyer | 203735 | [203735-spyer.json](./203735-spyer.json) |
 | Spyglass Board Games | 106254 | [106254-spyglass-board-games.json](./106254-spyglass-board-games.json) |
 | Spyhack | 90138 | [90138-spyhack.json](./90138-spyhack.json) |
@@ -30330,6 +30335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Syndicate 2 | 55797 | [55797-steampunk-syndicate-2.json](./55797-steampunk-syndicate-2.json) |
 | Steampunk Timer | 152797 | [152797-steampunk-timer.json](./152797-steampunk-timer.json) |
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
+| Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
 | Steampunk Voyage | 270467 | [270467-steampunk-voyage.json](./270467-steampunk-voyage.json) |
 | Steampunker | 57781 | [57781-steampunker.json](./57781-steampunker.json) |
 | Steampunks vs. Skeletons: Adventure Puzzle Park | 403249 | [403249-steampunks-vs-skeletons-adventure-puzzle-park.json](./403249-steampunks-vs-skeletons-adventure-puzzle-park.json) |
@@ -31239,6 +31245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman WW2 | 290479 | [290479-stickman-ww2.json](./290479-stickman-ww2.json) |
 | Stickman Zombie Shooting 3D | 398420 | [398420-stickman-zombie-shooting-3d.json](./398420-stickman-zombie-shooting-3d.json) |
 | Stickman: Far East Battle | 172850 | [172850-stickman-far-east-battle.json](./172850-stickman-far-east-battle.json) |
+| Stickman: Fidget Spinner Rush | 95641 | [95641-stickman-fidget-spinner-rush.json](./95641-stickman-fidget-spinner-rush.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
 | Stickman.io | 99678 | [99678-stickman-io.json](./99678-stickman-io.json) |
@@ -35766,6 +35773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Challenge Baseball | 40602 | [40602-super-challenge-baseball.json](./40602-super-challenge-baseball.json) |
 | Super Challenge Football | 40595 | [40595-super-challenge-football.json](./40595-super-challenge-football.json) |
 | Super Champion Baseball | 125337 | [125337-super-champion-baseball.json](./125337-super-champion-baseball.json) |
+| Super Chariot | 93661 | [93661-super-chariot.json](./93661-super-chariot.json) |
 | Super Chase H.Q. | 38422 | [38422-super-chase-h-q.json](./38422-super-chase-h-q.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chesslike Adventure | 142141 | [142141-super-chesslike-adventure.json](./142141-super-chesslike-adventure.json) |
