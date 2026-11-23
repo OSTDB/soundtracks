@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Tear: The Ascension | 142304 | [142304-fallen-tear-the-ascension.json](./142304-fallen-tear-the-ascension.json) |
 | Fallen Temple | 35948 | [35948-fallen-temple.json](./35948-fallen-temple.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
+| Fallen Times | 68762 | [68762-fallen-times.json](./68762-fallen-times.json) |
 | Fallen Valiant: Loopy | 120012 | [120012-fallen-valiant-loopy.json](./120012-fallen-valiant-loopy.json) |
 | Fallen Vestige | 371194 | [371194-fallen-vestige.json](./371194-fallen-vestige.json) |
 | Fallen World | 148938 | [148938-fallen-world.json](./148938-fallen-world.json) |
@@ -10122,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
 | Flying Pudding | 154150 | [154150-flying-pudding.json](./154150-flying-pudding.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
+| Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
 | Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
 | Flying Ruckus: Multiplayer | 292702 | [292702-flying-ruckus-multiplayer.json](./292702-flying-ruckus-multiplayer.json) |
 | Flying Salvager | 76346 | [76346-flying-salvager.json](./76346-flying-salvager.json) |
@@ -13620,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreedroidRPG | 121934 | [121934-freedroidrpg.json](./121934-freedroidrpg.json) |
 | Freefall | 11297 | [11297-freefall.json](./11297-freefall.json) |
 | Freefall '95 | 376412 | [376412-freefall-95.json](./376412-freefall-95.json) |
+| Freefall 3050 A.D. | 51180 | [51180-freefall-3050-a-d.json](./51180-freefall-3050-a-d.json) |
 | Freefall by MSX Murcia | 267563 | [267563-freefall-by-msx-murcia.json](./267563-freefall-by-msx-murcia.json) |
 | Freefall Racers | 62981 | [62981-freefall-racers.json](./62981-freefall-racers.json) |
 | FreeFlight | 95153 | [95153-freeflight.json](./95153-freeflight.json) |
