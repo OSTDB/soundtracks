@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakota Winchester's Adventures 2 | 310557 | [310557-dakota-winchesters-adventures-2.json](./310557-dakota-winchesters-adventures-2.json) |
 | Dakota Winchester's Adventures 3 | 310558 | [310558-dakota-winchesters-adventures-3.json](./310558-dakota-winchesters-adventures-3.json) |
 | Dakpo | 144655 | [144655-dakpo.json](./144655-dakpo.json) |
+| Dal Segno | 37038 | [37038-dal-segno.json](./37038-dal-segno.json) |
 | DAL'T-4 | 407740 | [407740-dalt-4.json](./407740-dalt-4.json) |
 | Dal'X | 94601 | [94601-dalx.json](./94601-dalx.json) |
 | Dala and The Cursed Forest | 292768 | [292768-dala-and-the-cursed-forest.json](./292768-dala-and-the-cursed-forest.json) |
@@ -17620,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sim Online | 107340 | [107340-dragon-sim-online.json](./107340-dragon-sim-online.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sin | 77055 | [77055-dragon-sin.json](./77055-dragon-sin.json) |
+| Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Skies VR | 31573 | [31573-dragon-skies-vr.json](./31573-dragon-skies-vr.json) |
 | Dragon Skills | 85633 | [85633-dragon-skills.json](./85633-dragon-skills.json) |
