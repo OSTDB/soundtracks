@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Neighbors: No Country for Curmudgeon | 250519 | [250519-nasty-neighbors-no-country-for-curmudgeon.json](./250519-nasty-neighbors-no-country-for-curmudgeon.json) |
 | Nasty Neighbors: No Picnic for Celebrity | 23194 | [23194-nasty-neighbors-no-picnic-for-celebrity.json](./23194-nasty-neighbors-no-picnic-for-celebrity.json) |
 | Nasty Nines | 103843 | [103843-nasty-nines.json](./103843-nasty-nines.json) |
+| Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasty Zombies | 290063 | [290063-nasty-zombies.json](./290063-nasty-zombies.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
@@ -2346,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko-Nin ExHeart | 28488 | [28488-neko-nin-exheart.json](./28488-neko-nin-exheart.json) |
 | Neko-Nin ExHeart +Plus Nachi | 75322 | [75322-neko-nin-exheart-plus-nachi.json](./75322-neko-nin-exheart-plus-nachi.json) |
 | Neko-Nin ExHeart +Plus Saiha | 75913 | [75913-neko-nin-exheart-plus-saiha.json](./75913-neko-nin-exheart-plus-saiha.json) |
+| Neko-Nin ExHeart 2 Love +Plus | 116863 | [116863-neko-nin-exheart-2-love-plus.json](./116863-neko-nin-exheart-2-love-plus.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-nin ExHeart Spin! | 255547 | [255547-neko-nin-exheart-spin.json](./255547-neko-nin-exheart-spin.json) |
 | Neko-nin ExHeart Spin! | 255548 | [255548-neko-nin-exheart-spin.json](./255548-neko-nin-exheart-spin.json) |
@@ -5939,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kunoichi | 169763 | [169763-ninja-kunoichi.json](./169763-ninja-kunoichi.json) |
 | Ninja Launcher | 230584 | [230584-ninja-launcher.json](./230584-ninja-launcher.json) |
 | Ninja Leagues: Masters of The Mystic Arts | 158048 | [158048-ninja-leagues-masters-of-the-mystic-arts.json](./158048-ninja-leagues-masters-of-the-mystic-arts.json) |
+| Ninja Legends | 116922 | [116922-ninja-legends.json](./116922-ninja-legends.json) |
 | Ninja Lexx | 157436 | [157436-ninja-lexx.json](./157436-ninja-lexx.json) |
 | Ninja Maker | 286058 | [286058-ninja-maker.json](./286058-ninja-maker.json) |
 | Ninja Massacre | 75503 | [75503-ninja-massacre.json](./75503-ninja-massacre.json) |
@@ -8829,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
+| Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
 | Nurse Panic! | 323472 | [323472-nurse-panic.json](./323472-nurse-panic.json) |
 | Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
