@@ -1876,7 +1876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer for a Week | 303930 | [303930-necromancer-for-a-week.json](./303930-necromancer-for-a-week.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer Park | 420312 | [420312-necromancer-park.json](./420312-necromancer-park.json) |
-| Necromancer Returns | 108202 | [108202-necromancer-returns.json](./108202-necromancer-returns.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
 | Necromancer RPG | 225324 | [225324-necromancer-rpg.json](./225324-necromancer-rpg.json) |
 | Necromancer Story | 418141 | [418141-necromancer-story.json](./418141-necromancer-story.json) |
@@ -2093,7 +2092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need for Spirit Drink & Drive Simulator | 272420 | [272420-need-for-spirit-drink-and-drive-simulator.json](./272420-need-for-spirit-drink-and-drive-simulator.json) |
-| Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
 | Need for Spirit: Drink & Drive Simulator - Off-Road Edition | 115221 | [115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json](./115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json) |
 | Need for Synthol | 99679 | [99679-need-for-synthol.json](./99679-need-for-synthol.json) |
 | Need for Wash | 424338 | [424338-need-for-wash.json](./424338-need-for-wash.json) |
@@ -6580,7 +6578,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Jokes With Mages | 392373 | [392373-no-jokes-with-mages.json](./392373-no-jokes-with-mages.json) |
 | No King in Hell | 423324 | [423324-no-king-in-hell.json](./423324-no-king-in-hell.json) |
 | No King No Kingdom II | 272964 | [272964-no-king-no-kingdom-ii.json](./272964-no-king-no-kingdom-ii.json) |
-| No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Lava | 292721 | [292721-no-lava.json](./292721-no-lava.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
