@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
 | Dark Earth | 18137 | [18137-dark-earth.json](./18137-dark-earth.json) |
 | Dark Earth | 410975 | [410975-dark-earth.json](./410975-dark-earth.json) |
+| Dark Earth | 429404 | [429404-dark-earth.json](./429404-dark-earth.json) |
 | Dark Echo | 293776 | [293776-dark-echo.json](./293776-dark-echo.json) |
 | Dark Eclipse | 76515 | [76515-dark-eclipse.json](./76515-dark-eclipse.json) |
 | Dark Eden | 231830 | [231830-dark-eden.json](./231830-dark-eden.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Match | 58143 | [58143-darts-match.json](./58143-darts-match.json) |
 | Darts Match 2 | 58142 | [58142-darts-match-2.json](./58142-darts-match-2.json) |
 | Darts of Fury | 87584 | [87584-darts-of-fury.json](./87584-darts-of-fury.json) |
+| Darts Player Simulator | 429359 | [429359-darts-player-simulator.json](./429359-darts-player-simulator.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts Up 3D | 85075 | [85075-darts-up-3d.json](./85075-darts-up-3d.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
@@ -12675,6 +12677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
 | Distant Worlds 2: Factions - Quameno and Gizureans | 261647 | [261647-distant-worlds-2-factions-quameno-and-gizureans.json](./261647-distant-worlds-2-factions-quameno-and-gizureans.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
+| Distant Worlds 2: Shadows Rising | 429406 | [429406-distant-worlds-2-shadows-rising.json](./429406-distant-worlds-2-shadows-rising.json) |
 | Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distantquest: An Ancestral Fansim | 184206 | [184206-distantquest-an-ancestral-fansim.json](./184206-distantquest-an-ancestral-fansim.json) |
@@ -19260,6 +19263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
 | Drift Riot | 424466 | [424466-drift-riot.json](./424466-drift-riot.json) |
 | Drift Runners | 287157 | [287157-drift-runners.json](./287157-drift-runners.json) |
+| Drift Scrappers | 429319 | [429319-drift-scrappers.json](./429319-drift-scrappers.json) |
 | Drift Shape | 231967 | [231967-drift-shape.json](./231967-drift-shape.json) |
 | Drift Shell | 410582 | [410582-drift-shell.json](./410582-drift-shell.json) |
 | Drift Shooter | 282177 | [282177-drift-shooter.json](./282177-drift-shooter.json) |
