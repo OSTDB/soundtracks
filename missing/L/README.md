@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lampy | 276236 | [276236-lampy.json](./276236-lampy.json) |
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lamu | 295496 | [295496-lamu.json](./295496-lamu.json) |
+| Lamunation!: International | 116729 | [116729-lamunation-international.json](./116729-lamunation-international.json) |
 | Lan House Simulator | 421149 | [421149-lan-house-simulator.json](./421149-lan-house-simulator.json) |
 | Lan Master | 48376 | [48376-lan-master.json](./48376-lan-master.json) |
 | LAN Party | 292339 | [292339-lan-party.json](./292339-lan-party.json) |
