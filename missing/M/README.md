@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
+| MachineCraft | 34580 | [34580-machinecraft.json](./34580-machinecraft.json) |
 | Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
 | Machineers: Episode 2 - River City | 174422 | [174422-machineers-episode-2-river-city.json](./174422-machineers-episode-2-river-city.json) |
 | Machinefall | 388088 | [388088-machinefall.json](./388088-machinefall.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madoushi Lulba | 235095 | [235095-madoushi-lulba.json](./235095-madoushi-lulba.json) |
 | MadOut | 35679 | [35679-madout.json](./35679-madout.json) |
 | Madout Big City | 29580 | [29580-madout-big-city.json](./29580-madout-big-city.json) |
+| MadOut Ice Storm | 34479 | [34479-madout-ice-storm.json](./34479-madout-ice-storm.json) |
 | MadOut Open City | 33869 | [33869-madout-open-city.json](./33869-madout-open-city.json) |
 | MadOut: Metal | 187793 | [187793-madout-metal.json](./187793-madout-metal.json) |
 | MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
@@ -19099,6 +19101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Moo-A-Doodle-Doo | 415055 | [415055-moo-a-doodle-doo.json](./415055-moo-a-doodle-doo.json) |
+| Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
 | Mood | 253697 | [253697-mood.json](./253697-mood.json) |
 | Mood | 266467 | [266467-mood.json](./266467-mood.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
