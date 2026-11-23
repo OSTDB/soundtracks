@@ -4391,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Differences | 227547 | [227547-infinite-differences.json](./227547-infinite-differences.json) |
 | Infinite Dimensions | 150368 | [150368-infinite-dimensions.json](./150368-infinite-dimensions.json) |
 | Infinite Dronin | 131824 | [131824-infinite-dronin.json](./131824-infinite-dronin.json) |
+| Infinite Drop | 426265 | [426265-infinite-drop.json](./426265-infinite-drop.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Dungeon | 386473 | [386473-infinite-dungeon.json](./386473-infinite-dungeon.json) |
 | Infinite Dungeon Crawler | 148827 | [148827-infinite-dungeon-crawler.json](./148827-infinite-dungeon-crawler.json) |
@@ -6840,6 +6841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Rails | 179588 | [179588-iron-rails.json](./179588-iron-rails.json) |
 | Iron Rain | 346591 | [346591-iron-rain.json](./346591-iron-rain.json) |
 | Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
+| Iron Realms | 425670 | [425670-iron-realms.json](./425670-iron-realms.json) |
 | Iron Rebellion | 128122 | [128122-iron-rebellion.json](./128122-iron-rebellion.json) |
 | Iron Reckoning | 158150 | [158150-iron-reckoning.json](./158150-iron-reckoning.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
