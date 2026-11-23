@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T13:06:01.190Z",
-  "total_soundtracks": 3928,
+  "generated_at": "2026-11-23T14:05:57.288Z",
+  "total_soundtracks": 3929,
   "games": [
     {
       "igdb_id": 292844,
@@ -31383,6 +31383,20 @@
         {
           "album_name": "Planetary Annihilation (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1EIoHkIn6APxZF5ID1TvOq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 106387,
+      "game_name": "Planetary Dustoff",
+      "game_url": "https://ostdb.net/games/planetary-dustoff",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733d7c99239568b0da7eacc4a9",
+      "albums": [
+        {
+          "album_name": "Planetary Dustoff (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/15rXInogsZgT1uq6emxwiR",
           "apple_music_url": "",
           "album_link_url": ""
         }
