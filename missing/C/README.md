@@ -12176,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clip Grip Power | 110014 | [110014-clip-grip-power.json](./110014-clip-grip-power.json) |
 | Clipmatrix | 414073 | [414073-clipmatrix.json](./414073-clipmatrix.json) |
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
+| Clipper | 426285 | [426285-clipper.json](./426285-clipper.json) |
 | Clippy Commando | 364757 | [364757-clippy-commando.json](./364757-clippy-commando.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
@@ -16054,6 +16055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Archives: The Conveni 2 | 416244 | [416244-console-archives-the-conveni-2.json](./416244-console-archives-the-conveni-2.json) |
+| Console Archives: The Drug Store | 425061 | [425061-console-archives-the-drug-store.json](./425061-console-archives-the-drug-store.json) |
 | Console Archives: The Legend of Kage | 409281 | [409281-console-archives-the-legend-of-kage.json](./409281-console-archives-the-legend-of-kage.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
 | Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
