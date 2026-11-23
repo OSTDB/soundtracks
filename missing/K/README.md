@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaitachi no Yoru | 42321 | [42321-kamaitachi-no-yoru.json](./42321-kamaitachi-no-yoru.json) |
 | Kamaitachi No Yoru 2 Tokubetsuhen | 137751 | [137751-kamaitachi-no-yoru-2-tokubetsuhen.json](./137751-kamaitachi-no-yoru-2-tokubetsuhen.json) |
 | Kamaitachi no Yoru 2: Kangokujima no Warabe Uta | 64840 | [64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json](./64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json) |
+| Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
 | Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou | 64839 | [64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json](./64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json) |
 | Kamaitachi no Yoru x3 | 306194 | [306194-kamaitachi-no-yoru-x3.json](./306194-kamaitachi-no-yoru-x3.json) |
 | Kamaitachi no Yoru: Rinne Saisei | 76095 | [76095-kamaitachi-no-yoru-rinne-saisei.json](./76095-kamaitachi-no-yoru-rinne-saisei.json) |
@@ -6385,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
 | Koronis Rift | 26005 | [26005-koronis-rift.json](./26005-koronis-rift.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
+| Kororinpa: Marble Mania | 50610 | [50610-kororinpa-marble-mania.json](./50610-kororinpa-marble-mania.json) |
 | Koroshi no Dress | 230235 | [230235-koroshi-no-dress.json](./230235-koroshi-no-dress.json) |
 | Koroshiya to Strawberry | 144643 | [144643-koroshiya-to-strawberry.json](./144643-koroshiya-to-strawberry.json) |
 | Korosuke Roller | 40225 | [40225-korosuke-roller.json](./40225-korosuke-roller.json) |
