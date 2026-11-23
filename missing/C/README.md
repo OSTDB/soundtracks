@@ -5810,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Ninja | 12834 | [12834-caveman-ninja.json](./12834-caveman-ninja.json) |
 | Caveman Ransom | 245952 | [245952-caveman-ransom.json](./245952-caveman-ransom.json) |
 | CaveMan Rock | 43504 | [43504-caveman-rock.json](./43504-caveman-rock.json) |
+| Caveman Startup | 428084 | [428084-caveman-startup.json](./428084-caveman-startup.json) |
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Tale | 120540 | [120540-caveman-tale.json](./120540-caveman-tale.json) |
 | Caveman Tales | 147600 | [147600-caveman-tales.json](./147600-caveman-tales.json) |
