@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagmatch | 301769 | [301769-jagmatch.json](./301769-jagmatch.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
+| Jaguar | 427499 | [427499-jaguar.json](./427499-jaguar.json) |
 | Jaguar Bomber | 138625 | [138625-jaguar-bomber.json](./138625-jaguar-bomber.json) |
 | Jaguar Drift Simulator | 104589 | [104589-jaguar-drift-simulator.json](./104589-jaguar-drift-simulator.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
@@ -3183,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Destiny | 214674 | [214674-journey-to-destiny.json](./214674-journey-to-destiny.json) |
 | Journey to die | 327341 | [327341-journey-to-die.json](./327341-journey-to-die.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
+| Journey to Echo | 427468 | [427468-journey-to-echo.json](./427468-journey-to-echo.json) |
 | Journey to Entorus | 215178 | [215178-journey-to-entorus.json](./215178-journey-to-entorus.json) |
 | Journey to Foundation | 239382 | [239382-journey-to-foundation.json](./239382-journey-to-foundation.json) |
 | Journey to Incrementalia | 318965 | [318965-journey-to-incrementalia.json](./318965-journey-to-incrementalia.json) |
