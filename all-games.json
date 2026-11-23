@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T09:16:04.071Z",
-  "total_soundtracks": 3925,
+  "generated_at": "2026-11-23T10:35:59.597Z",
+  "total_soundtracks": 3926,
   "games": [
     {
       "igdb_id": 292844,
@@ -16091,6 +16091,20 @@
         {
           "album_name": "FRAGILE DREAMS: Farewell Ruins of the Moon Original Soundtrack PLUS",
           "spotify_url": "https://open.spotify.com/album/0OWKYzD6LwLCSTp5f5vbKw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 108327,
+      "game_name": "Fragile Fighter",
+      "game_url": "https://ostdb.net/games/fragile-fighter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dc49dab45ff27929b141e6d",
+      "albums": [
+        {
+          "album_name": "FRAGILE FIGHTER (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4QEg00vxXZXWrjr3JUlGmv",
           "apple_music_url": "",
           "album_link_url": ""
         }
