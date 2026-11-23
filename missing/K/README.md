@@ -1478,7 +1478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
 | Katuba's Poacher | 258232 | [258232-katubas-poacher.json](./258232-katubas-poacher.json) |
-| Katy & Bob: Cake Café | 113341 | [113341-katy-and-bob-cake-cafe.json](./113341-katy-and-bob-cake-cafe.json) |
 | Katy & Bob: Safari Café | 91236 | [91236-katy-and-bob-safari-cafe.json](./91236-katy-and-bob-safari-cafe.json) |
 | Katy & Bob: Way Back Home | 54157 | [54157-katy-and-bob-way-back-home.json](./54157-katy-and-bob-way-back-home.json) |
 | Katy and Bob: Safari Cafe | 103882 | [103882-katy-and-bob-safari-cafe.json](./103882-katy-and-bob-safari-cafe.json) |
