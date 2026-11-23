@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoFish | 64234 | [64234-ecofish.json](./64234-ecofish.json) |
 | EcoGenesis | 292745 | [292745-ecogenesis.json](./292745-ecogenesis.json) |
 | EcoGnomix | 259108 | [259108-ecognomix.json](./259108-ecognomix.json) |
+| EcoGnomix: Deluxe Edition | 426905 | [426905-ecognomix-deluxe-edition.json](./426905-ecognomix-deluxe-edition.json) |
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | Ecolibrium | 52170 | [52170-ecolibrium.json](./52170-ecolibrium.json) |
 | Ecollapse 2030: the world is ending and also you are a penguin | 180857 | [180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json](./180857-ecollapse-2030-the-world-is-ending-and-also-you-are-a-penguin.json) |
@@ -4266,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endeavor | 316508 | [316508-endeavor.json](./316508-endeavor.json) |
 | EndeavorOTC | 330777 | [330777-endeavorotc.json](./330777-endeavorotc.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
+| Ender | 427510 | [427510-ender.json](./427510-ender.json) |
 | Ender Chariot | 348670 | [348670-ender-chariot.json](./348670-ender-chariot.json) |
 | Ender IO | 232676 | [232676-ender-io.json](./232676-ender-io.json) |
 | Ender Lilies: Quietus of the Knights | 138858 | [138858-ender-lilies-quietus-of-the-knights.json](./138858-ender-lilies-quietus-of-the-knights.json) |
