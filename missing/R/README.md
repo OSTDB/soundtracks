@@ -5373,7 +5373,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Legends | 364171 | [364171-reign-of-legends.json](./364171-reign-of-legends.json) |
 | Reign of Swords | 70519 | [70519-reign-of-swords.json](./70519-reign-of-swords.json) |
 | Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
-| Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
 | Reign Over | 210981 | [210981-reign-over.json](./210981-reign-over.json) |
@@ -5889,7 +5888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ren'Py Chess | 184300 | [184300-renpy-chess.json](./184300-renpy-chess.json) |
 | Ren'Py Rhythm Game | 184387 | [184387-renpy-rhythm-game.json](./184387-renpy-rhythm-game.json) |
 | Ren's Demons I | 202681 | [202681-rens-demons-i.json](./202681-rens-demons-i.json) |
-| Rena and Elin | 106577 | [106577-rena-and-elin.json](./106577-rena-and-elin.json) |
 | Rena Game | 230628 | [230628-rena-game.json](./230628-rena-game.json) |
 | Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
@@ -9779,7 +9777,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Champion: Boxing Simulator | 312428 | [312428-road-to-champion-boxing-simulator.json](./312428-road-to-champion-boxing-simulator.json) |
 | Road to Death | 149457 | [149457-road-to-death.json](./149457-road-to-death.json) |
 | Road to Devadatta | 225198 | [225198-road-to-devadatta.json](./225198-road-to-devadatta.json) |
-| Road to Eden | 106101 | [106101-road-to-eden.json](./106101-road-to-eden.json) |
 | Road to Empress I | 351103 | [351103-road-to-empress-i.json](./351103-road-to-empress-i.json) |
 | Road to Empress II | 403017 | [403017-road-to-empress-ii.json](./403017-road-to-empress-ii.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
@@ -14924,7 +14921,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
 | Russkie Strip-Shashki | 403973 | [403973-russkie-strip-shashki.json](./403973-russkie-strip-shashki.json) |
 | Russpuppy Kid Books | 256051 | [256051-russpuppy-kid-books.json](./256051-russpuppy-kid-books.json) |
-| Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
 | Rust & Reveal: Restoration Simulator | 428916 | [428916-rust-and-reveal-restoration-simulator.json](./428916-rust-and-reveal-restoration-simulator.json) |
