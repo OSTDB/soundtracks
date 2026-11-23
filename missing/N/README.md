@@ -2910,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Runners | 288831 | [288831-neon-runners.json](./288831-neon-runners.json) |
 | Neon Rush | 290554 | [290554-neon-rush.json](./290554-neon-rush.json) |
 | Neon Rush 3D Endless Speed Challenge | 402106 | [402106-neon-rush-3d-endless-speed-challenge.json](./402106-neon-rush-3d-endless-speed-challenge.json) |
+| Neon Seoul: Outrun | 76933 | [76933-neon-seoul-outrun.json](./76933-neon-seoul-outrun.json) |
 | Neon Sex Dream | 231352 | [231352-neon-sex-dream.json](./231352-neon-sex-dream.json) |
 | Neon Shadow | 36331 | [36331-neon-shadow.json](./36331-neon-shadow.json) |
 | Neon Shadow Mobile | 85679 | [85679-neon-shadow-mobile.json](./85679-neon-shadow-mobile.json) |
