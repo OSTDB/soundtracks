@@ -127,7 +127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.R.A.G.O.N. Force | 14633 | [14633-d-r-a-g-o-n-force.json](./14633-d-r-a-g-o-n-force.json) |
 | D.R.I.F.T. | 394335 | [394335-d-r-i-f-t.json](./394335-d-r-i-f-t.json) |
 | D.R.I.L.L. - Dynamix VR | 81743 | [81743-d-r-i-l-l-dynamix-vr.json](./81743-d-r-i-l-l-dynamix-vr.json) |
-| D.R.O.N.E.: The Game | 113082 | [113082-d-r-o-n-e-the-game.json](./113082-d-r-o-n-e-the-game.json) |
 | D.S. al Fine | 349595 | [349595-d-s-al-fine.json](./349595-d-s-al-fine.json) |
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
 | D.S.A | 385114 | [385114-d-s-a.json](./385114-d-s-a.json) |
@@ -308,7 +307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemmerlicht | 123987 | [123987-daemmerlicht.json](./123987-daemmerlicht.json) |
 | Daemon | 360053 | [360053-daemon.json](./360053-daemon.json) |
 | Daemon | 361679 | [361679-daemon.json](./361679-daemon.json) |
-| Daemon 9 | 110904 | [110904-daemon-9.json](./110904-daemon-9.json) |
 | Daemon Bride | 76762 | [76762-daemon-bride.json](./76762-daemon-bride.json) |
 | Daemon Bride: Additional Gain | 313486 | [313486-daemon-bride-additional-gain.json](./313486-daemon-bride-additional-gain.json) |
 | Daemon Detective Gaiden | 35069 | [35069-daemon-detective-gaiden.json](./35069-daemon-detective-gaiden.json) |
@@ -742,7 +740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned | 10136 | [10136-damned.json](./10136-damned.json) |
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
-| Damned Daniel | 111239 | [111239-damned-daniel.json](./111239-damned-daniel.json) |
 | Damned Hand | 158639 | [158639-damned-hand.json](./158639-damned-hand.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
@@ -1806,7 +1803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fantasy Vault | 428449 | [428449-dark-fantasy-vault.json](./428449-dark-fantasy-vault.json) |
 | Dark Fantasy Warriors | 158353 | [158353-dark-fantasy-warriors.json](./158353-dark-fantasy-warriors.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
-| Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
 | Dark Farm | 160044 | [160044-dark-farm.json](./160044-dark-farm.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
@@ -7982,8 +7978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deponia Doomsday | 19300 | [19300-deponia-doomsday.json](./19300-deponia-doomsday.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Depopulation | 75398 | [75398-depopulation.json](./75398-depopulation.json) |
-| Deported 2: Build That Wall | 112784 | [112784-deported-2-build-that-wall.json](./112784-deported-2-build-that-wall.json) |
-| Deported: Drain the Swamp | 111422 | [111422-deported-drain-the-swamp.json](./111422-deported-drain-the-swamp.json) |
 | Depot Dungeons | 223821 | [223821-depot-dungeons.json](./223821-depot-dungeons.json) |
 | DepotDash | 385363 | [385363-depotdash.json](./385363-depotdash.json) |
 | DepowerBall | 126607 | [126607-depowerball.json](./126607-depowerball.json) |
@@ -8519,7 +8513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
 | Desktop Dungeons Goatperson | 124916 | [124916-desktop-dungeons-goatperson.json](./124916-desktop-dungeons-goatperson.json) |
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
-| Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
 | Desktop Explorer | 275251 | [275251-desktop-explorer.json](./275251-desktop-explorer.json) |
 | Desktop Factory | 426790 | [426790-desktop-factory.json](./426790-desktop-factory.json) |
 | Desktop Farm | 150447 | [150447-desktop-farm.json](./150447-desktop-farm.json) |
@@ -9134,7 +9127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Secrets Solitaire: The Curse of the Village | 294901 | [294901-detective-secrets-solitaire-the-curse-of-the-village.json](./294901-detective-secrets-solitaire-the-curse-of-the-village.json) |
 | Detective Secrets Solitaire: The Greyhall Mystery | 417508 | [417508-detective-secrets-solitaire-the-greyhall-mystery.json](./417508-detective-secrets-solitaire-the-greyhall-mystery.json) |
 | Detective Sherlock Holmes - Hidden Object Games | 88662 | [88662-detective-sherlock-holmes-hidden-object-games.json](./88662-detective-sherlock-holmes-hidden-object-games.json) |
-| Detective Sherlock Pug | 111976 | [111976-detective-sherlock-pug.json](./111976-detective-sherlock-pug.json) |
 | Detective Sherlock: Shadow Stalker | 361844 | [361844-detective-sherlock-shadow-stalker.json](./361844-detective-sherlock-shadow-stalker.json) |
 | Detective Sherlock: Shadow Stalker | 413113 | [413113-detective-sherlock-shadow-stalker.json](./413113-detective-sherlock-shadow-stalker.json) |
 | Detective Sir Biscuit in Green Burguer Mystery | 310580 | [310580-detective-sir-biscuit-in-green-burguer-mystery.json](./310580-detective-sir-biscuit-in-green-burguer-mystery.json) |
@@ -9305,7 +9297,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dev Guy | 35720 | [35720-dev-guy.json](./35720-dev-guy.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Dev_Hell | 244583 | [244583-dev-hell.json](./244583-dev-hell.json) |
-| Dev_me | 111945 | [111945-dev-me.json](./111945-dev-me.json) |
 | Deva | 403684 | [403684-deva.json](./403684-deva.json) |
 | Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
 | Deva's Neverland: SideStory | 339516 | [339516-devas-neverland-sidestory.json](./339516-devas-neverland-sidestory.json) |
@@ -9937,7 +9928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
 | Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
 | Diastone: Confusion | 120475 | [120475-diastone-confusion.json](./120475-diastone-confusion.json) |
-| Diastone: Memories | 112828 | [112828-diastone-memories.json](./112828-diastone-memories.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatomic | 51119 | [51119-diatomic.json](./51119-diatomic.json) |
 | Diatris | 183524 | [183524-diatris.json](./183524-diatris.json) |
@@ -16148,7 +16138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Strike | 48136 | [48136-double-strike.json](./48136-double-strike.json) |
 | Double Switch | 139169 | [139169-double-switch.json](./139169-double-switch.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
-| Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
 | Double Symbol | 267564 | [267564-double-symbol.json](./267564-double-symbol.json) |
 | Double Take | 36882 | [36882-double-take.json](./36882-double-take.json) |
 | Double Talk: Sports Edition | 73360 | [73360-double-talk-sports-edition.json](./73360-double-talk-sports-edition.json) |
@@ -16525,7 +16514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
 | Dr. Byte | 166790 | [166790-dr-byte.json](./166790-dr-byte.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
-| Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
 | Dr. Cares: Pet Rescue 911 | 59568 | [59568-dr-cares-pet-rescue-911.json](./59568-dr-cares-pet-rescue-911.json) |
 | Dr. Carlos' Personality Exam | 251888 | [251888-dr-carlos-personality-exam.json](./251888-dr-carlos-personality-exam.json) |
 | Dr. Chaos | 48174 | [48174-dr-chaos.json](./48174-dr-chaos.json) |
@@ -17646,7 +17634,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Shadow Spell | 72814 | [72814-dragon-shadow-spell.json](./72814-dragon-shadow-spell.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Sim Online | 107340 | [107340-dragon-sim-online.json](./107340-dragon-sim-online.json) |
-| Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sin | 77055 | [77055-dragon-sin.json](./77055-dragon-sin.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
