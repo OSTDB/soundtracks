@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeetus | 276582 | [276582-yeetus.json](./276582-yeetus.json) |
 | YeGung | 306238 | [306238-yegung.json](./306238-yegung.json) |
 | Yeh Yeh Tennis | 58519 | [58519-yeh-yeh-tennis.json](./58519-yeh-yeh-tennis.json) |
+| Yehangchuan | 428839 | [428839-yehangchuan.json](./428839-yehangchuan.json) |
 | Yehuelu Online | 425797 | [425797-yehuelu-online.json](./425797-yehuelu-online.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
