@@ -322,7 +322,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yankee Rabbits | 367827 | [367827-yankee-rabbits.json](./367827-yankee-rabbits.json) |
 | Yanny vs. Laurel | 102705 | [102705-yanny-vs-laurel.json](./102705-yanny-vs-laurel.json) |
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
-| Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
 | Yanya Caballista City Skater | 43379 | [43379-yanya-caballista-city-skater.json](./43379-yanya-caballista-city-skater.json) |
 | Yanyu | 158932 | [158932-yanyu.json](./158932-yanyu.json) |
@@ -1331,11 +1330,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Had, Like, So Much Going On | 181751 | [181751-you-had-like-so-much-going-on.json](./181751-you-had-like-so-much-going-on.json) |
 | You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
-| You Have 10 Seconds 3 | 112366 | [112366-you-have-10-seconds-3.json](./112366-you-have-10-seconds-3.json) |
 | You Have 10 Seconds: 2023 | 256443 | [256443-you-have-10-seconds-2023.json](./256443-you-have-10-seconds-2023.json) |
 | You Have 293 Keys | 230768 | [230768-you-have-293-keys.json](./230768-you-have-293-keys.json) |
 | You Have A Delivery | 328038 | [328038-you-have-a-delivery.json](./328038-you-have-a-delivery.json) |
-| You have a drunk friend | 111355 | [111355-you-have-a-drunk-friend.json](./111355-you-have-a-drunk-friend.json) |
 | You Have Billions Invested in Generative AI | 381478 | [381478-you-have-billions-invested-in-generative-ai.json](./381478-you-have-billions-invested-in-generative-ai.json) |
 | You Have My Support | 321563 | [321563-you-have-my-support.json](./321563-you-have-my-support.json) |
 | You Have No Legs | 242831 | [242831-you-have-no-legs.json](./242831-you-have-no-legs.json) |
