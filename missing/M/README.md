@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 07 | 243010 | [243010-madden-nfl-07.json](./243010-madden-nfl-07.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
+| Madden NFL 07: Hall of Fame Edition | 23795 | [23795-madden-nfl-07-hall-of-fame-edition.json](./23795-madden-nfl-07-hall-of-fame-edition.json) |
 | Madden NFL 08 | 229188 | [229188-madden-nfl-08.json](./229188-madden-nfl-08.json) |
 | Madden NFL 08 | 229190 | [229190-madden-nfl-08.json](./229190-madden-nfl-08.json) |
 | Madden NFL 08 | 229191 | [229191-madden-nfl-08.json](./229191-madden-nfl-08.json) |
@@ -7809,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
 | Mechanic Man | 318900 | [318900-mechanic-man.json](./318900-mechanic-man.json) |
+| Mechanic Master | 23822 | [23822-mechanic-master.json](./23822-mechanic-master.json) |
 | Mechanic Master 2 | 47802 | [47802-mechanic-master-2.json](./47802-mechanic-master-2.json) |
 | Mechanic Mechanica | 210838 | [210838-mechanic-mechanica.json](./210838-mechanic-mechanica.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
@@ -15882,6 +15884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Sasami is Losing Her Mind! | 409190 | [409190-miss-sasami-is-losing-her-mind.json](./409190-miss-sasami-is-losing-her-mind.json) |
 | Miss Spider: Harvest Time - Hop and Fly | 84609 | [84609-miss-spider-harvest-time-hop-and-fly.json](./84609-miss-spider-harvest-time-hop-and-fly.json) |
 | Miss Spider's Sunny Patch Friends: Harvest Time Hop and Fly | 7979 | [7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json](./7979-miss-spiders-sunny-patch-friends-harvest-time-hop-and-fly.json) |
+| Miss Spider's Sunny Patch Friends: Scavenger Hunt | 23816 | [23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json](./23816-miss-spiders-sunny-patch-friends-scavenger-hunt.json) |
 | Miss Spider's Tea Party | 73804 | [73804-miss-spiders-tea-party.json](./73804-miss-spiders-tea-party.json) |
 | Miss Teri Tale | 53385 | [53385-miss-teri-tale.json](./53385-miss-teri-tale.json) |
 | Miss Teri Tales - Danger Next Door | 54234 | [54234-miss-teri-tales-danger-next-door.json](./54234-miss-teri-tales-danger-next-door.json) |
@@ -20097,6 +20100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: XL Pack | 141051 | [141051-mortal-kombat-x-xl-pack.json](./141051-mortal-kombat-x-xl-pack.json) |
 | Mortal Kombat XL | 18150 | [18150-mortal-kombat-xl.json](./18150-mortal-kombat-xl.json) |
 | Mortal Kombat: Arcade Edition | 214950 | [214950-mortal-kombat-arcade-edition.json](./214950-mortal-kombat-arcade-edition.json) |
+| Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
 | Mortal Kombat: Compatibility Pack 1 | 388882 | [388882-mortal-kombat-compatibility-pack-1.json](./388882-mortal-kombat-compatibility-pack-1.json) |
 | Mortal Kombat: Compatibility Pack 2 | 388883 | [388883-mortal-kombat-compatibility-pack-2.json](./388883-mortal-kombat-compatibility-pack-2.json) |
 | Mortal Kombat: Deadly Alliance | 229852 | [229852-mortal-kombat-deadly-alliance.json](./229852-mortal-kombat-deadly-alliance.json) |
@@ -20725,6 +20729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor Assailant | 148058 | [148058-motor-assailant.json](./148058-motor-assailant.json) |
 | Motor City | 72195 | [72195-motor-city.json](./72195-motor-city.json) |
+| Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor City Turf Wars | 426058 | [426058-motor-city-turf-wars.json](./426058-motor-city-turf-wars.json) |
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
