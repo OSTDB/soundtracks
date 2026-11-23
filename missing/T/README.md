@@ -13150,6 +13150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
 | The Jackbox Naughty and Nice Bundle | 328720 | [328720-the-jackbox-naughty-and-nice-bundle.json](./328720-the-jackbox-naughty-and-nice-bundle.json) |
+| The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Bundle | 96362 | [96362-the-jackbox-party-bundle.json](./96362-the-jackbox-party-bundle.json) |
 | The Jackbox Party Essentials | 427051 | [427051-the-jackbox-party-essentials.json](./427051-the-jackbox-party-essentials.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
@@ -20296,6 +20297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Talos Principle II | 79864 | [79864-the-talos-principle-ii.json](./79864-the-talos-principle-ii.json) |
 | The Talos Principle II: Deluxe Edition | 314150 | [314150-the-talos-principle-ii-deluxe-edition.json](./314150-the-talos-principle-ii-deluxe-edition.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
+| The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
 | The Talos Principle: Deluxe Edition | 23373 | [23373-the-talos-principle-deluxe-edition.json](./23373-the-talos-principle-deluxe-edition.json) |
@@ -28081,6 +28083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toads of Trees | 386076 | [386076-toads-of-trees.json](./386076-toads-of-trees.json) |
 | Toads vs. Koopas | 307663 | [307663-toads-vs-koopas.json](./307663-toads-vs-koopas.json) |
 | Toads vs. Koopas: Bowser's Conquest | 321887 | [321887-toads-vs-koopas-bowsers-conquest.json](./321887-toads-vs-koopas-bowsers-conquest.json) |
+| Toaplan Arcade 1 | 216586 | [216586-toaplan-arcade-1.json](./216586-toaplan-arcade-1.json) |
 | Toaplan Arcade 2 | 239142 | [239142-toaplan-arcade-2.json](./239142-toaplan-arcade-2.json) |
 | Toaplan Arcade 4 | 346803 | [346803-toaplan-arcade-4.json](./346803-toaplan-arcade-4.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
@@ -30072,6 +30075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga City | 298778 | [298778-tortuga-city.json](./298778-tortuga-city.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
+| Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
 | Tortuga: Pirates of the New World | 24759 | [24759-tortuga-pirates-of-the-new-world.json](./24759-tortuga-pirates-of-the-new-world.json) |
 | Tortuga: Two Treasures | 21394 | [21394-tortuga-two-treasures.json](./21394-tortuga-two-treasures.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
@@ -30393,6 +30397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! 2: Undercover | 49454 | [49454-totally-spies-2-undercover.json](./49454-totally-spies-2-undercover.json) |
 | Totally Spies! 3: Secret Agents | 61468 | [61468-totally-spies-3-secret-agents.json](./61468-totally-spies-3-secret-agents.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
+| Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! Mall Brawl | 185796 | [185796-totally-spies-mall-brawl.json](./185796-totally-spies-mall-brawl.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
