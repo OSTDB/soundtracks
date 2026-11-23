@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostmoons: Arcade | 357426 | [357426-ghostmoons-arcade.json](./357426-ghostmoons-arcade.json) |
 | Ghostmuncher Uniwars | 384779 | [384779-ghostmuncher-uniwars.json](./384779-ghostmuncher-uniwars.json) |
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
+| Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
 | Ghostpia Season One | 135418 | [135418-ghostpia-season-one.json](./135418-ghostpia-season-one.json) |
 | Ghostpia Season Two | 401592 | [401592-ghostpia-season-two.json](./401592-ghostpia-season-two.json) |
@@ -7131,6 +7132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Sparta | 174480 | [174480-gods-of-sparta.json](./174480-gods-of-sparta.json) |
 | Gods of the Arena | 123649 | [123649-gods-of-the-arena.json](./123649-gods-of-the-arena.json) |
 | Gods of the Arena Dungeon | 295852 | [295852-gods-of-the-arena-dungeon.json](./295852-gods-of-the-arena-dungeon.json) |
+| Gods of the Fallen Land | 51413 | [51413-gods-of-the-fallen-land.json](./51413-gods-of-the-fallen-land.json) |
 | Gods of the Grid | 414265 | [414265-gods-of-the-grid.json](./414265-gods-of-the-grid.json) |
 | Gods of the Twilight | 172291 | [172291-gods-of-the-twilight.json](./172291-gods-of-the-twilight.json) |
 | Gods of Zushin | 137823 | [137823-gods-of-zushin.json](./137823-gods-of-zushin.json) |
