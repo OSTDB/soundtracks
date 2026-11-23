@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh | 35585 | [35585-ubermosh.json](./35585-ubermosh.json) |
 | Ubermosh Collection | 427395 | [427395-ubermosh-collection.json](./427395-ubermosh-collection.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
+| Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universal Soldier | 270243 | [270243-universal-soldier.json](./270243-universal-soldier.json) |
+| Universal Soldier | 38415 | [38415-universal-soldier.json](./38415-universal-soldier.json) |
 | Universal Soldier | 38416 | [38416-universal-soldier.json](./38416-universal-soldier.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
 | Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
