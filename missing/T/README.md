@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
 | Terra Toy | 251911 | [251911-terra-toy.json](./251911-terra-toy.json) |
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
+| Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra Wars | 41042 | [41042-terra-wars.json](./41042-terra-wars.json) |
 | Terra: A Terraria Demake | 219369 | [219369-terra-a-terraria-demake.json](./219369-terra-a-terraria-demake.json) |
@@ -21614,6 +21615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Pinball | 131502 | [131502-the-walking-dead-pinball.json](./131502-the-walking-dead-pinball.json) |
 | The Walking Dead: Road to Survival | 77353 | [77353-the-walking-dead-road-to-survival.json](./77353-the-walking-dead-road-to-survival.json) |
 | The Walking Dead: Saints & Sinners | 105416 | [105416-the-walking-dead-saints-and-sinners.json](./105416-the-walking-dead-saints-and-sinners.json) |
+| The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Saints & Sinners - Ch 2: Retribution - Payback Edition | 229123 | [229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json](./229123-the-walking-dead-saints-and-sinners-ch-2-retribution-payback-edition.json) |
 | The Walking Dead: Saints & Sinners - The Complete Edition | 139865 | [139865-the-walking-dead-saints-and-sinners-the-complete-edition.json](./139865-the-walking-dead-saints-and-sinners-the-complete-edition.json) |
 | The Walking Dead: Saints & Sinners - Tourist Edition | 242359 | [242359-the-walking-dead-saints-and-sinners-tourist-edition.json](./242359-the-walking-dead-saints-and-sinners-tourist-edition.json) |
@@ -29032,6 +29034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider IV•V•VI Remastered | 319480 | [319480-tomb-raider-iv-v-vi-remastered.json](./319480-tomb-raider-iv-v-vi-remastered.json) |
 | Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
+| Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider Tokyo 9: Grand Lodge / Dark Lair | 315401 | [315401-tomb-raider-tokyo-9-grand-lodge-dark-lair.json](./315401-tomb-raider-tokyo-9-grand-lodge-dark-lair.json) |
 | Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
