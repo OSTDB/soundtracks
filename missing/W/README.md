@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Demolition Pack | 311404 | [311404-warhammer-40-000-gladius-demolition-pack.json](./311404-warhammer-40-000-gladius-demolition-pack.json) |
 | Warhammer 40,000: Gladius - Drukhari | 275818 | [275818-warhammer-40-000-gladius-drukhari.json](./275818-warhammer-40-000-gladius-drukhari.json) |
+| Warhammer 40,000: Gladius - Eradication Pack | 429408 | [429408-warhammer-40-000-gladius-eradication-pack.json](./429408-warhammer-40-000-gladius-eradication-pack.json) |
 | Warhammer 40,000: Gladius - Onslaught Pack | 430371 | [430371-warhammer-40-000-gladius-onslaught-pack.json](./430371-warhammer-40-000-gladius-onslaught-pack.json) |
 | Warhammer 40,000: Gladius - Rampage Pack | 380990 | [380990-warhammer-40-000-gladius-rampage-pack.json](./380990-warhammer-40-000-gladius-rampage-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War | 76410 | [76410-warhammer-40-000-gladius-relics-of-war.json](./76410-warhammer-40-000-gladius-relics-of-war.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winchester | 233335 | [233335-winchester.json](./233335-winchester.json) |
 | WinCrypt | 83441 | [83441-wincrypt.json](./83441-wincrypt.json) |
 | Wind and Bird | 284298 | [284298-wind-and-bird.json](./284298-wind-and-bird.json) |
+| Wind and Cannon | 429307 | [429307-wind-and-cannon.json](./429307-wind-and-cannon.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
 | Wind and Water: Puzzle Battles | 72824 | [72824-wind-and-water-puzzle-battles.json](./72824-wind-and-water-puzzle-battles.json) |
 | Wind Angel | 150741 | [150741-wind-angel.json](./150741-wind-angel.json) |
