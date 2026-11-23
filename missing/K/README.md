@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsure no okami | 83165 | [83165-kamitsure-no-okami.json](./83165-kamitsure-no-okami.json) |
 | Kamiwaza | 92559 | [92559-kamiwaza.json](./92559-kamiwaza.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
+| Kamiwaza: Way of the Thief | 197545 | [197545-kamiwaza-way-of-the-thief.json](./197545-kamiwaza-way-of-the-thief.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
 | Kamiyogatari | 206395 | [206395-kamiyogatari.json](./206395-kamiyogatari.json) |
 | Kamkball | 133803 | [133803-kamkball.json](./133803-kamkball.json) |
