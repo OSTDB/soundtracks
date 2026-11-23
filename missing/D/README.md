@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadoo: Twists, Turns, and Mischiefs | 264807 | [264807-dadoo-twists-turns-and-mischiefs.json](./264807-dadoo-twists-turns-and-mischiefs.json) |
 | Dadton Aguinández | 320621 | [320621-dadton-aguinandez.json](./320621-dadton-aguinandez.json) |
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
+| Daedalia | 428161 | [428161-daedalia.json](./428161-daedalia.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalic Turn-Based Bundle | 324216 | [324216-daedalic-turn-based-bundle.json](./324216-daedalic-turn-based-bundle.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
@@ -3942,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead But Dreaming | 271337 | [271337-dead-but-dreaming.json](./271337-dead-but-dreaming.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
+| Dead by Daylight: 10th Anniversary Edition | 428649 | [428649-dead-by-daylight-10th-anniversary-edition.json](./428649-dead-by-daylight-10th-anniversary-edition.json) |
 | Dead by Daylight: 5th Anniversary Edition | 171862 | [171862-dead-by-daylight-5th-anniversary-edition.json](./171862-dead-by-daylight-5th-anniversary-edition.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
@@ -3976,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Headcase | 129400 | [129400-dead-by-daylight-headcase.json](./129400-dead-by-daylight-headcase.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
 | Dead by Daylight: Hour of the Witch Chapter | 193756 | [193756-dead-by-daylight-hour-of-the-witch-chapter.json](./193756-dead-by-daylight-hour-of-the-witch-chapter.json) |
+| Dead by Daylight: Jason Edition | 428647 | [428647-dead-by-daylight-jason-edition.json](./428647-dead-by-daylight-jason-edition.json) |
 | Dead by Daylight: Killer Expansion Pack | 225408 | [225408-dead-by-daylight-killer-expansion-pack.json](./225408-dead-by-daylight-killer-expansion-pack.json) |
 | Dead by Daylight: Leatherface | 76225 | [76225-dead-by-daylight-leatherface.json](./76225-dead-by-daylight-leatherface.json) |
 | Dead by Daylight: Left Behind | 129398 | [129398-dead-by-daylight-left-behind.json](./129398-dead-by-daylight-left-behind.json) |
@@ -4355,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive 5: Last Round - Core Fighters Character: Honoka | 275144 | [275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json](./275144-dead-or-alive-5-last-round-core-fighters-character-honoka.json) |
 | Dead or Alive 6 | 103269 | [103269-dead-or-alive-6.json](./103269-dead-or-alive-6.json) |
 | Dead or Alive 6 Last Round | 389425 | [389425-dead-or-alive-6-last-round.json](./389425-dead-or-alive-6-last-round.json) |
+| Dead or Alive 6 Last Round: Gust Mashup - Rachel & Jurie | 428168 | [428168-dead-or-alive-6-last-round-gust-mashup-rachel-and-jurie.json](./428168-dead-or-alive-6-last-round-gust-mashup-rachel-and-jurie.json) |
 | Dead or Alive 6 Last Round: Happy Wedding Costume Vol.2 - Brad Wong | 428169 | [428169-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-brad-wong.json](./428169-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-brad-wong.json) |
 | Dead or Alive 6 Last Round: Happy Wedding Costume Vol.2 - Zack | 428170 | [428170-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-zack.json](./428170-dead-or-alive-6-last-round-happy-wedding-costume-vol-2-zack.json) |
 | Dead or Alive 6 Last Round: Seaside Eden Costume - Rachel | 428188 | [428188-dead-or-alive-6-last-round-seaside-eden-costume-rachel.json](./428188-dead-or-alive-6-last-round-seaside-eden-costume-rachel.json) |
@@ -11386,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Safari | 66723 | [66723-dinosaur-safari.json](./66723-dinosaur-safari.json) |
 | Dinosaur Safari VR | 110625 | [110625-dinosaur-safari-vr.json](./110625-dinosaur-safari-vr.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
+| Dinosaur Shakespeare 3: They Are On The Moon Now And It Escalated Quickly - Bloodcore Edition | 428643 | [428643-dinosaur-shakespeare-3-they-are-on-the-moon-now-and-it-escalated-quickly-bloodcore-edition.json](./428643-dinosaur-shakespeare-3-they-are-on-the-moon-now-and-it-escalated-quickly-bloodcore-edition.json) |
 | Dinosaur Shakespeare: To Date or Not to Date? | 120682 | [120682-dinosaur-shakespeare-to-date-or-not-to-date.json](./120682-dinosaur-shakespeare-to-date-or-not-to-date.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
 | Dinosaur Simulator | 99274 | [99274-dinosaur-simulator.json](./99274-dinosaur-simulator.json) |
@@ -13449,6 +13454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
 | Doctor Xenophon's Laboratory | 171746 | [171746-doctor-xenophons-laboratory.json](./171746-doctor-xenophons-laboratory.json) |
+| Doctor's Appointment | 428621 | [428621-doctors-appointment.json](./428621-doctors-appointment.json) |
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctordle | 394399 | [394399-doctordle.json](./394399-doctordle.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
@@ -22634,6 +22640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyztopia: Post-Human RPG | 231748 | [231748-dyztopia-post-human-rpg.json](./231748-dyztopia-post-human-rpg.json) |
 | DZ & Riggy Vs. the Fantasy World | 320412 | [320412-dz-and-riggy-vs-the-fantasy-world.json](./320412-dz-and-riggy-vs-the-fantasy-world.json) |
 | DZ & Riggy vs. the Worlds II | 252079 | [252079-dz-and-riggy-vs-the-worlds-ii.json](./252079-dz-and-riggy-vs-the-worlds-ii.json) |
+| DziadyWin | 428641 | [428641-dziadywin.json](./428641-dziadywin.json) |
 | Dziedzic: A Book of Unanswered Questions | 299735 | [299735-dziedzic-a-book-of-unanswered-questions.json](./299735-dziedzic-a-book-of-unanswered-questions.json) |
 | Dziedzictwo Gigantow | 66460 | [66460-dziedzictwo-gigantow.json](./66460-dziedzictwo-gigantow.json) |
 | DzombZ | 197494 | [197494-dzombz.json](./197494-dzombz.json) |
