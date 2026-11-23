@@ -8573,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
 | Hidden Shapes: Trick or Cats | 220427 | [220427-hidden-shapes-trick-or-cats.json](./220427-hidden-shapes-trick-or-cats.json) |
 | Hidden Sheep Puzzle | 395839 | [395839-hidden-sheep-puzzle.json](./395839-hidden-sheep-puzzle.json) |
+| Hidden Shelter | 139342 | [139342-hidden-shelter.json](./139342-hidden-shelter.json) |
 | Hidden Shy Cats & Dogs Bundle | 325011 | [325011-hidden-shy-cats-and-dogs-bundle.json](./325011-hidden-shy-cats-and-dogs-bundle.json) |
 | Hidden Skulls | 334029 | [334029-hidden-skulls.json](./334029-hidden-skulls.json) |
 | Hidden Space Station Top-Down 3D | 340473 | [340473-hidden-space-station-top-down-3d.json](./340473-hidden-space-station-top-down-3d.json) |
