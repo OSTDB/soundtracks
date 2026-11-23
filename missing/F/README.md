@@ -3394,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Ball Ping | 99197 | [99197-fast-ball-ping.json](./99197-fast-ball-ping.json) |
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
+| Fast Beat Loop Racer GT | 96101 | [96101-fast-beat-loop-racer-gt.json](./96101-fast-beat-loop-racer-gt.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
 | Fast Break | 100069 | [100069-fast-break.json](./100069-fast-break.json) |
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
@@ -5661,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Approach: Pilot Edition | 32519 | [32519-final-approach-pilot-edition.json](./32519-final-approach-pilot-edition.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Assault | 39115 | [39115-final-assault.json](./39115-final-assault.json) |
+| Final Assault | 94615 | [94615-final-assault.json](./94615-final-assault.json) |
 | Final B Cut | 255424 | [255424-final-b-cut.json](./255424-final-b-cut.json) |
 | Final Battle | 76376 | [76376-final-battle.json](./76376-final-battle.json) |
 | Final Battle in Zhifudao | 415755 | [415755-final-battle-in-zhifudao.json](./415755-final-battle-in-zhifudao.json) |
@@ -9242,6 +9244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip-It | 159167 | [159167-flip-it.json](./159167-flip-it.json) |
 | Flip-it & Magnose | 79067 | [79067-flip-it-and-magnose.json](./79067-flip-it-and-magnose.json) |
 | Flip-Out! | 128031 | [128031-flip-out.json](./128031-flip-out.json) |
+| Flip: Surfing Colors | 95098 | [95098-flip-surfing-colors.json](./95098-flip-surfing-colors.json) |
 | Flip! The Cartoon Strategy Game | 57086 | [57086-flip-the-cartoon-strategy-game.json](./57086-flip-the-cartoon-strategy-game.json) |
 | Flip's Escape | 64646 | [64646-flips-escape.json](./64646-flips-escape.json) |
 | Flip's Twisted World | 4857 | [4857-flips-twisted-world.json](./4857-flips-twisted-world.json) |
@@ -11563,6 +11566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgive My Sins & Desires, Father | 222736 | [222736-forgive-my-sins-and-desires-father.json](./222736-forgive-my-sins-and-desires-father.json) |
 | Forgive or Finalize | 398486 | [398486-forgive-or-finalize.json](./398486-forgive-or-finalize.json) |
 | Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
+| Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
 | Forgiveness RPG: The First Chapter - Part One | 285347 | [285347-forgiveness-rpg-the-first-chapter-part-one.json](./285347-forgiveness-rpg-the-first-chapter-part-one.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
