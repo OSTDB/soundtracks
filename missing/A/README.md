@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Magical Drop III | 88578 | [88578-aca-neo-geo-magical-drop-iii.json](./88578-aca-neo-geo-magical-drop-iii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
 | ACA Neo Geo: Master of Syougi | 396881 | [396881-aca-neo-geo-master-of-syougi.json](./396881-aca-neo-geo-master-of-syougi.json) |
+| ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
 | ACA Neo Geo: Metal Slug 4 | 106858 | [106858-aca-neo-geo-metal-slug-4.json](./106858-aca-neo-geo-metal-slug-4.json) |
@@ -2881,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
 | ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
+| ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Shock Troopers 2nd Squad | 103847 | [103847-aca-neo-geo-shock-troopers-2nd-squad.json](./103847-aca-neo-geo-shock-troopers-2nd-squad.json) |
 | ACA Neo Geo: Soccer Brawl | 76213 | [76213-aca-neo-geo-soccer-brawl.json](./76213-aca-neo-geo-soccer-brawl.json) |
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
@@ -6072,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
+| Agricultural Simulator 2011: Extended Edition | 28720 | [28720-agricultural-simulator-2011-extended-edition.json](./28720-agricultural-simulator-2011-extended-edition.json) |
 | Agricultural Simulator 2011: Gold Edition | 52374 | [52374-agricultural-simulator-2011-gold-edition.json](./52374-agricultural-simulator-2011-gold-edition.json) |
 | Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2012: Deluxe Edition | 36393 | [36393-agricultural-simulator-2012-deluxe-edition.json](./36393-agricultural-simulator-2012-deluxe-edition.json) |
@@ -15458,6 +15461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | ArcBall 3: Infinity | 103776 | [103776-arcball-3-infinity.json](./103776-arcball-3-infinity.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
+| Arcfall | 28686 | [28686-arcfall.json](./28686-arcfall.json) |
 | Arcflame Frontiers | 413099 | [413099-arcflame-frontiers.json](./413099-arcflame-frontiers.json) |
 | Arcforce | 193793 | [193793-arcforce.json](./193793-arcforce.json) |
 | Arch Drift | 114543 | [114543-arch-drift.json](./114543-arch-drift.json) |
@@ -18376,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assslash! | 375221 | [375221-assslash.json](./375221-assslash.json) |
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
+| ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
 | Asta-Pool: Can Humans Beat Bots? | 295410 | [295410-asta-pool-can-humans-beat-bots.json](./295410-asta-pool-can-humans-beat-bots.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astal | 45495 | [45495-astal.json](./45495-astal.json) |
