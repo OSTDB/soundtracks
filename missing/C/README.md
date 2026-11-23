@@ -8740,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | China Town | 38609 | [38609-china-town.json](./38609-china-town.json) |
 | China VS Roman | 90410 | [90410-china-vs-roman.json](./90410-china-vs-roman.json) |
 | China Warrior | 42127 | [42127-china-warrior.json](./42127-china-warrior.json) |
+| China: Mao's legacy | 116880 | [116880-china-maos-legacy.json](./116880-china-maos-legacy.json) |
 | China: Mao's legacy - Bombard the Headquarters | 227715 | [227715-china-maos-legacy-bombard-the-headquarters.json](./227715-china-maos-legacy-bombard-the-headquarters.json) |
 | China: Mao's Legacy - Homeland or Death | 204049 | [204049-china-maos-legacy-homeland-or-death.json](./204049-china-maos-legacy-homeland-or-death.json) |
 | China: Mao's Legacy - Ways of Life | 290840 | [290840-china-maos-legacy-ways-of-life.json](./290840-china-maos-legacy-ways-of-life.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
 | Citizen Kane 64 | 332210 | [332210-citizen-kane-64.json](./332210-citizen-kane-64.json) |
 | Citizen Life | 389560 | [389560-citizen-life.json](./389560-citizen-life.json) |
+| Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Pain II | 423820 | [423820-citizen-pain-ii.json](./423820-citizen-pain-ii.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
@@ -13871,6 +13873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonials Programme | 142179 | [142179-colonials-programme.json](./142179-colonials-programme.json) |
+| Coloniam | 127737 | [127737-coloniam.json](./127737-coloniam.json) |
 | Coloniam | 426419 | [426419-coloniam.json](./426419-coloniam.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonies End | 122829 | [122829-colonies-end.json](./122829-colonies-end.json) |
@@ -15722,6 +15725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
 | Congestion Control 2 | 274156 | [274156-congestion-control-2.json](./274156-congestion-control-2.json) |
 | Congkakcraze | 93964 | [93964-congkakcraze.json](./93964-congkakcraze.json) |
+| Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
 | Congo | 172468 | [172468-congo.json](./172468-congo.json) |
 | Congo Bongo | 282063 | [282063-congo-bongo.json](./282063-congo-bongo.json) |
