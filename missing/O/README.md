@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath of Stigmata | 417034 | [417034-oath-of-stigmata.json](./417034-oath-of-stigmata.json) |
 | Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
+| Oath Rift Online | 428637 | [428637-oath-rift-online.json](./428637-oath-rift-online.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
 | Oathborn: The Chronicle of Ruin | 25320 | [25320-oathborn-the-chronicle-of-ruin.json](./25320-oathborn-the-chronicle-of-ruin.json) |
 | Oathborne | 290572 | [290572-oathborne.json](./290572-oathborne.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocarina of Time: Chaos Edition | 294568 | [294568-ocarina-of-time-chaos-edition.json](./294568-ocarina-of-time-chaos-edition.json) |
 | Ocarina of Time: Master Quest Redux | 172480 | [172480-ocarina-of-time-master-quest-redux.json](./172480-ocarina-of-time-master-quest-redux.json) |
 | Ocarina of Time: Spaceworld '97 Experience | 182313 | [182313-ocarina-of-time-spaceworld-97-experience.json](./182313-ocarina-of-time-spaceworld-97-experience.json) |
+| Ocarina Recomp | 428656 | [428656-ocarina-recomp.json](./428656-ocarina-recomp.json) |
 | Ocaso | 278612 | [278612-ocaso.json](./278612-ocaso.json) |
 | Occhio | 31740 | [31740-occhio.json](./31740-occhio.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
