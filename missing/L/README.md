@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Fit at Midnight, Shall We? | 296931 | [296931-lets-get-fit-at-midnight-shall-we.json](./296931-lets-get-fit-at-midnight-shall-we.json) |
 | Let's Get Grillin' | 342293 | [342293-lets-get-grillin.json](./342293-lets-get-grillin.json) |
 | Let's Get Happy Ending Project Chapter 1 Yume Nikki Time to Wake Up | 229488 | [229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json](./229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json) |
+| Let's Get Nuts | 426286 | [426286-lets-get-nuts.json](./426286-lets-get-nuts.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
 | Let's Get This Bread | 124351 | [124351-lets-get-this-bread.json](./124351-lets-get-this-bread.json) |
 | Let's go | 270996 | [270996-lets-go.json](./270996-lets-go.json) |
@@ -10744,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucie's Potager | 199261 | [199261-lucies-potager.json](./199261-lucies-potager.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
 | Lucienne's Quest | 4300 | [4300-luciennes-quest.json](./4300-luciennes-quest.json) |
+| Lucifaria | 426273 | [426273-lucifaria.json](./426273-lucifaria.json) |
 | Lucifer Lives in Lower Manhattan | 285723 | [285723-lucifer-lives-in-lower-manhattan.json](./285723-lucifer-lives-in-lower-manhattan.json) |
 | Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer Within Us | 119359 | [119359-lucifer-within-us.json](./119359-lucifer-within-us.json) |
