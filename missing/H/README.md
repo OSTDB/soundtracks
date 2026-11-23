@@ -8724,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
 | Hide the Baby | 383700 | [383700-hide-the-baby.json](./383700-hide-the-baby.json) |
 | Hide the Body | 88137 | [88137-hide-the-body.json](./88137-hide-the-body.json) |
+| Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide The Corpse: Gusimir Mansion | 380564 | [380564-hide-the-corpse-gusimir-mansion.json](./380564-hide-the-corpse-gusimir-mansion.json) |
 | Hide the Fart | 236623 | [236623-hide-the-fart.json](./236623-hide-the-fart.json) |
 | Hide Time | 235713 | [235713-hide-time.json](./235713-hide-time.json) |
