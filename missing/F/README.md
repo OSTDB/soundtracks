@@ -14192,7 +14192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Daddy's Dash | 229255 | [229255-frog-daddys-dash.json](./229255-frog-daddys-dash.json) |
 | Frog Dares | 412136 | [412136-frog-dares.json](./412136-frog-dares.json) |
 | Frog Days | 225443 | [225443-frog-days.json](./225443-frog-days.json) |
-| Frog Demon | 113289 | [113289-frog-demon.json](./113289-frog-demon.json) |
 | Frog Detective -1 | 325675 | [325675-frog-detective-1.json](./325675-frog-detective-1.json) |
 | Frog Detective 2: The Case of the Invisible Wizard | 121338 | [121338-frog-detective-2-the-case-of-the-invisible-wizard.json](./121338-frog-detective-2-the-case-of-the-invisible-wizard.json) |
 | Frog Detective 3: Corruption at Cowboy County | 161552 | [161552-frog-detective-3-corruption-at-cowboy-county.json](./161552-frog-detective-3-corruption-at-cowboy-county.json) |
