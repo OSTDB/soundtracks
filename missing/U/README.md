@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh Collection | 427395 | [427395-ubermosh-collection.json](./427395-ubermosh-collection.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
+| Ubermosh Vol.7 | 115377 | [115377-ubermosh-vol-7.json](./115377-ubermosh-vol-7.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Omega | 125084 | [125084-ubermosh-omega.json](./125084-ubermosh-omega.json) |
 | Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
 | UemeU | 63133 | [63133-uemeu.json](./63133-uemeu.json) |
 | Ueqouow | 288332 | [288332-ueqouow.json](./288332-ueqouow.json) |
+| uFactory | 115232 | [115232-ufactory.json](./115232-ufactory.json) |
 | UFB 2: Fight & Wrestling Games | 251343 | [251343-ufb-2-fight-and-wrestling-games.json](./251343-ufb-2-fight-and-wrestling-games.json) |
 | UFC | 21720 | [21720-ufc.json](./21720-ufc.json) |
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
