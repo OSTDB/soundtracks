@@ -14563,7 +14563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineral Mining Simulator | 392702 | [392702-mineral-mining-simulator.json](./392702-mineral-mining-simulator.json) |
 | Mineral Zone | 420927 | [420927-mineral-zone.json](./420927-mineral-zone.json) |
 | Mineralis | 212003 | [212003-mineralis.json](./212003-mineralis.json) |
-| MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
 | Minerals: Deep Core Mining | 404349 | [404349-minerals-deep-core-mining.json](./404349-minerals-deep-core-mining.json) |
 | Minerest | 184883 | [184883-minerest.json](./184883-minerest.json) |
 | MinerMancers | 411788 | [411788-minermancers.json](./411788-minermancers.json) |
