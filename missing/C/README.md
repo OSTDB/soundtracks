@@ -4841,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Rescue Story | 300751 | [300751-cat-rescue-story.json](./300751-cat-rescue-story.json) |
+| Cat Rhapsody | 427483 | [427483-cat-rhapsody.json](./427483-cat-rhapsody.json) |
 | Cat Rooms: Sticker Decor! | 423864 | [423864-cat-rooms-sticker-decor.json](./423864-cat-rooms-sticker-decor.json) |
 | Cat Runner - Online Rush | 90321 | [90321-cat-runner-online-rush.json](./90321-cat-runner-online-rush.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catmarine | 382001 | [382001-catmarine.json](./382001-catmarine.json) |
 | Catmaze | 74686 | [74686-catmaze.json](./74686-catmaze.json) |
 | CatMelon: Suika Game | 297945 | [297945-catmelon-suika-game.json](./297945-catmelon-suika-game.json) |
+| CatMischief | 427478 | [427478-catmischief.json](./427478-catmischief.json) |
 | Catmorphosis | 395252 | [395252-catmorphosis.json](./395252-catmorphosis.json) |
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
@@ -12793,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterCluck | 382119 | [382119-clustercluck.json](./382119-clustercluck.json) |
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
+| ClusterForce | 426992 | [426992-clusterforce.json](./426992-clusterforce.json) |
 | ClusterPuck 99 | 24626 | [24626-clusterpuck-99.json](./24626-clusterpuck-99.json) |
 | Clustertruck: Collector's Edition | 52799 | [52799-clustertruck-collectors-edition.json](./52799-clustertruck-collectors-edition.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
@@ -13404,6 +13407,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
 | Cogan's Run | 113992 | [113992-cogans-run.json](./113992-cogans-run.json) |
+| COGBox: Gears of War 2 | 426918 | [426918-cogbox-gears-of-war-2.json](./426918-cogbox-gears-of-war-2.json) |
+| COGBox: Gears of War 3 | 426919 | [426919-cogbox-gears-of-war-3.json](./426919-cogbox-gears-of-war-3.json) |
 | Cogen: Sword of Rewind | 142598 | [142598-cogen-sword-of-rewind.json](./142598-cogen-sword-of-rewind.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
