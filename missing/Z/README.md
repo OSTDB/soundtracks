@@ -1806,7 +1806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Brains | 233040 | [233040-zombie-brains.json](./233040-zombie-brains.json) |
 | Zombie Breakdown | 230900 | [230900-zombie-breakdown.json](./230900-zombie-breakdown.json) |
 | Zombie Brigade: No Brain No Gain | 84931 | [84931-zombie-brigade-no-brain-no-gain.json](./84931-zombie-brigade-no-brain-no-gain.json) |
-| Zombie Builder Defense | 111211 | [111211-zombie-builder-defense.json](./111211-zombie-builder-defense.json) |
 | Zombie Builder Defense 2 | 239766 | [239766-zombie-builder-defense-2.json](./239766-zombie-builder-defense-2.json) |
 | Zombie Buster | 207935 | [207935-zombie-buster.json](./207935-zombie-buster.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
