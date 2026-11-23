@@ -35831,7 +35831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
 | Super Cricket Fighter Turbo | 349178 | [349178-super-cricket-fighter-turbo.json](./349178-super-cricket-fighter-turbo.json) |
-| Super Crome: Bullet Purgatory | 112799 | [112799-super-crome-bullet-purgatory.json](./112799-super-crome-bullet-purgatory.json) |
 | Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
 | Super Cross Kings | 54412 | [54412-super-cross-kings.json](./54412-super-cross-kings.json) |
