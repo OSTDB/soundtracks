@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends: Kingdom | 248183 | [248183-kemono-friends-kingdom.json](./248183-kemono-friends-kingdom.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
+| Kemono Heroes | 96440 | [96440-kemono-heroes.json](./96440-kemono-heroes.json) |
 | Kemono Labyrinth | 225729 | [225729-kemono-labyrinth.json](./225729-kemono-labyrinth.json) |
 | Kemono Mahjong | 96534 | [96534-kemono-mahjong.json](./96534-kemono-mahjong.json) |
 | Kemono Naki Yoru no Ori nite | 370555 | [370555-kemono-naki-yoru-no-ori-nite.json](./370555-kemono-naki-yoru-no-ori-nite.json) |
