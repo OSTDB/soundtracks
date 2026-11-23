@@ -4633,7 +4633,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helga the Viking Warrior 9: The Last Journey | 416504 | [416504-helga-the-viking-warrior-9-the-last-journey.json](./416504-helga-the-viking-warrior-9-the-last-journey.json) |
 | Helga: Euphorium's Song | 159978 | [159978-helga-euphoriums-song.json](./159978-helga-euphoriums-song.json) |
 | Helga's Cheese Festival | 293349 | [293349-helgas-cheese-festival.json](./293349-helgas-cheese-festival.json) |
-| Helheim | 112866 | [112866-helheim.json](./112866-helheim.json) |
 | Helherron | 146986 | [146986-helherron.json](./146986-helherron.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
