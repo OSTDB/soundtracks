@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
 | Rathe: The Beginning | 158379 | [158379-rathe-the-beginning.json](./158379-rathe-the-beginning.json) |
 | Ratico Puzzle Adventure | 357993 | [357993-ratico-puzzle-adventure.json](./357993-ratico-puzzle-adventure.json) |
+| Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Ratio (Rat Patio) | 337382 | [337382-ratio-rat-patio.json](./337382-ratio-rat-patio.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
@@ -9890,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Destiny | 192517 | [192517-roads-of-destiny.json](./192517-roads-of-destiny.json) |
 | Roads of Middle Ages 2: Collector's Edition | 416381 | [416381-roads-of-middle-ages-2-collectors-edition.json](./416381-roads-of-middle-ages-2-collectors-edition.json) |
 | Roads of Rage | 334369 | [334369-roads-of-rage.json](./334369-roads-of-rage.json) |
+| Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
 | Roads of Rome: New Generation | 76857 | [76857-roads-of-rome-new-generation.json](./76857-roads-of-rome-new-generation.json) |
@@ -13991,6 +13993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumba Lumber | 272680 | [272680-rumba-lumber.json](./272680-rumba-lumber.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
+| Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
 | Rumble | 426980 | [426980-rumble.json](./426980-rumble.json) |
 | Rumble Academy | 62850 | [62850-rumble-academy.json](./62850-rumble-academy.json) |
 | Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
