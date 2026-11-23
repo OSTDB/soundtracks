@@ -51,7 +51,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | o: | 175181 | [175181-o.json](./175181-o.json) |
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
 | O! Holy Knight | 285588 | [285588-o-holy-knight.json](./285588-o-holy-knight.json) |
-| O! Nalchik is my favourite place | 107525 | [107525-o-nalchik-is-my-favourite-place.json](./107525-o-nalchik-is-my-favourite-place.json) |
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
 | O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
@@ -491,7 +490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Man | 208163 | [208163-ocean-man.json](./208163-ocean-man.json) |
 | Ocean Mirror | 280676 | [280676-ocean-mirror.json](./280676-ocean-mirror.json) |
 | Ocean Nomad | 106919 | [106919-ocean-nomad.json](./106919-ocean-nomad.json) |
-| Ocean Nomad: Survival on Raft | 107781 | [107781-ocean-nomad-survival-on-raft.json](./107781-ocean-nomad-survival-on-raft.json) |
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean of Eyes | 328957 | [328957-ocean-of-eyes.json](./328957-ocean-of-eyes.json) |
@@ -936,7 +934,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
 | Of Fair and Flesh | 318815 | [318815-of-fair-and-flesh.json](./318815-of-fair-and-flesh.json) |
 | Of Frost and Flowers | 225610 | [225610-of-frost-and-flowers.json](./225610-of-frost-and-flowers.json) |
-| Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
 | Of Guards and Thieves | 17430 | [17430-of-guards-and-thieves.json](./17430-of-guards-and-thieves.json) |
 | Of Guards and Thieves: Firefight | 167677 | [167677-of-guards-and-thieves-firefight.json](./167677-of-guards-and-thieves-firefight.json) |
@@ -1832,7 +1829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | OloFight | 73066 | [73066-olofight.json](./73066-olofight.json) |
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
-| Olorun: Theocracy | 108636 | [108636-olorun-theocracy.json](./108636-olorun-theocracy.json) |
 | Olsenbanden Jr. I Vikingenes Fotspor | 277477 | [277477-olsenbanden-jr-i-vikingenes-fotspor.json](./277477-olsenbanden-jr-i-vikingenes-fotspor.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
@@ -4014,7 +4010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Kyiv | 278254 | [278254-operation-kyiv.json](./278254-operation-kyiv.json) |
 | Operation Libra | 287465 | [287465-operation-libra.json](./287465-operation-libra.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
-| Operation Lone Wolf | 107834 | [107834-operation-lone-wolf.json](./107834-operation-lone-wolf.json) |
 | Operation Lovecraft: Fallen Doll | 196926 | [196926-operation-lovecraft-fallen-doll.json](./196926-operation-lovecraft-fallen-doll.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
 | Operation Marakudja | 289428 | [289428-operation-marakudja.json](./289428-operation-marakudja.json) |
