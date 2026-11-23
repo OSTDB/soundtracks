@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Stars | 187628 | [187628-vault-of-stars.json](./187628-vault-of-stars.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
 | Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
+| Vault of the Void | 127617 | [127617-vault-of-the-void.json](./127617-vault-of-the-void.json) |
 | Vault of the Void: Developer Supporter Pack | 317755 | [317755-vault-of-the-void-developer-supporter-pack.json](./317755-vault-of-the-void-developer-supporter-pack.json) |
 | Vault Resort | 53312 | [53312-vault-resort.json](./53312-vault-resort.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VC-2 | 246221 | [246221-vc-2.json](./246221-vc-2.json) |
 | VC-3 | 246222 | [246222-vc-3.json](./246222-vc-3.json) |
 | VCB: Why City - The Ballad Of Drunk Khovansky | 69510 | [69510-vcb-why-city-the-ballad-of-drunk-khovansky.json](./69510-vcb-why-city-the-ballad-of-drunk-khovansky.json) |
+| VCB: Why City 4k | 116467 | [116467-vcb-why-city-4k.json](./116467-vcb-why-city-4k.json) |
 | vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
 | VCR83 | 421576 | [421576-vcr83.json](./421576-vcr83.json) |
 | VCTR-SCTR | 225596 | [225596-vctr-sctr.json](./225596-vctr-sctr.json) |
@@ -1242,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
 | Vectorium | 65787 | [65787-vectorium.json](./65787-vectorium.json) |
 | Vectorline | 422310 | [422310-vectorline.json](./422310-vectorline.json) |
+| Vectorlord | 127623 | [127623-vectorlord.json](./127623-vectorlord.json) |
 | Vectorman | 310698 | [310698-vectorman.json](./310698-vectorman.json) |
 | VectorMan | 16033 | [16033-vectorman.json](./16033-vectorman.json) |
 | VectorMan 2 | 4391 | [4391-vectorman-2.json](./4391-vectorman-2.json) |
