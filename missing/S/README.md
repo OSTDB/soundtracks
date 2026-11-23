@@ -13420,7 +13420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity | 401639 | [401639-singularity.json](./401639-singularity.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
-| Singularity 5 | 113335 | [113335-singularity-5.json](./113335-singularity-5.json) |
 | Singularity Dungeon | 189906 | [189906-singularity-dungeon.json](./189906-singularity-dungeon.json) |
 | Singularity Idle | 184143 | [184143-singularity-idle.json](./184143-singularity-idle.json) |
 | Singularity Roller | 52082 | [52082-singularity-roller.json](./52082-singularity-roller.json) |
@@ -32215,7 +32214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: Fight for Freedom | 148022 | [148022-strategic-mind-fight-for-freedom.json](./148022-strategic-mind-fight-for-freedom.json) |
 | Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
 | Strategic Mind: Spirit of Liberty | 164145 | [164145-strategic-mind-spirit-of-liberty.json](./164145-strategic-mind-spirit-of-liberty.json) |
-| Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
 | Strategic Tactics | 424226 | [424226-strategic-tactics.json](./424226-strategic-tactics.json) |
