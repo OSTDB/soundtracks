@@ -3508,7 +3508,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion Tale | 55589 | [55589-legion-tale.json](./55589-legion-tale.json) |
 | Legion TD 2 | 32680 | [32680-legion-td-2.json](./32680-legion-td-2.json) |
 | Legion TD 2: Floating Isles Campaign | 270995 | [270995-legion-td-2-floating-isles-campaign.json](./270995-legion-td-2-floating-isles-campaign.json) |
-| Legion War | 112703 | [112703-legion-war.json](./112703-legion-war.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
 | Legion: Immortal Survivors | 399963 | [399963-legion-immortal-survivors.json](./399963-legion-immortal-survivors.json) |
@@ -7164,7 +7163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Ralph | 339061 | [339061-little-ralph.json](./339061-little-ralph.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
-| Little Reaper | 111523 | [111523-little-reaper.json](./111523-little-reaper.json) |
 | Little Red Ball | 176384 | [176384-little-red-ball.json](./176384-little-red-ball.json) |
 | Little Red Hood | 48184 | [48184-little-red-hood.json](./48184-little-red-hood.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
@@ -9087,7 +9085,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loretta no Shouzou: Sherlock Holmes | 6116 | [6116-loretta-no-shouzou-sherlock-holmes.json](./6116-loretta-no-shouzou-sherlock-holmes.json) |
 | Loretta's Brand New Job | 238785 | [238785-lorettas-brand-new-job.json](./238785-lorettas-brand-new-job.json) |
 | Lorhaven: Cursed War | 278927 | [278927-lorhaven-cursed-war.json](./278927-lorhaven-cursed-war.json) |
-| Loria | 111928 | [111928-loria.json](./111928-loria.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
 | Lorn's Lure: Danny's Song | 321662 | [321662-lorns-lure-dannys-song.json](./321662-lorns-lure-dannys-song.json) |
 | Lorn's Lure: Parkour Map Pack | 399300 | [399300-lorns-lure-parkour-map-pack.json](./399300-lorns-lure-parkour-map-pack.json) |
@@ -9583,7 +9580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: A Hidden Object Adventure | 34696 | [34696-lost-lands-a-hidden-object-adventure.json](./34696-lost-lands-a-hidden-object-adventure.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
-| Lost Lands: Mistakes of the Past | 112935 | [112935-lost-lands-mistakes-of-the-past.json](./112935-lost-lands-mistakes-of-the-past.json) |
 | Lost Lands: Redemption | 142185 | [142185-lost-lands-redemption.json](./142185-lost-lands-redemption.json) |
 | Lost Lands: Sand Captivity | 213245 | [213245-lost-lands-sand-captivity.json](./213245-lost-lands-sand-captivity.json) |
 | Lost Lands: Sand Captivity - Collector's Edition | 283619 | [283619-lost-lands-sand-captivity-collectors-edition.json](./283619-lost-lands-sand-captivity-collectors-edition.json) |
@@ -9980,7 +9976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Anime Boys Club: Language and Date Zodiac Signs | 324196 | [324196-love-anime-boys-club-language-and-date-zodiac-signs.json](./324196-love-anime-boys-club-language-and-date-zodiac-signs.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at Any Cost | 298909 | [298909-love-at-any-cost.json](./298909-love-at-any-cost.json) |
-| Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
 | Love at First Frost | 426343 | [426343-love-at-first-frost.json](./426343-love-at-first-frost.json) |
 | Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
@@ -10272,7 +10267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Ritmo | 112258 | [112258-love-ritmo.json](./112258-love-ritmo.json) |
 | Love ritual | 105352 | [105352-love-ritual.json](./105352-love-ritual.json) |
 | Love Rocket | 297135 | [297135-love-rocket.json](./297135-love-rocket.json) |
-| Love Room VR | 111809 | [111809-love-room-vr.json](./111809-love-room-vr.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Season | 173859 | [173859-love-season.json](./173859-love-season.json) |
 | Love Season: Sharing Fantasy | 331636 | [331636-love-season-sharing-fantasy.json](./331636-love-season-sharing-fantasy.json) |
