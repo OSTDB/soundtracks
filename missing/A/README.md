@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles-Sword-ll | 379036 | [379036-achilles-sword-ll.json](./379036-achilles-sword-ll.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
+| Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achromate | 180168 | [180168-achromate.json](./180168-achromate.json) |
 | Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
 | Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
@@ -11036,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Orb | 184494 | [184494-ancient-orb.json](./184494-ancient-orb.json) |
 | Ancient Origins | 205844 | [205844-ancient-origins.json](./205844-ancient-origins.json) |
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
+| Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
 | Ancient Polis | 258344 | [258344-ancient-polis.json](./258344-ancient-polis.json) |
 | Ancient Quest of Saqqarah | 22118 | [22118-ancient-quest-of-saqqarah.json](./22118-ancient-quest-of-saqqarah.json) |
@@ -15389,6 +15391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanist Revival | 110181 | [110181-arcanist-revival.json](./110181-arcanist-revival.json) |
 | Arcanists | 62268 | [62268-arcanists.json](./62268-arcanists.json) |
 | Arcanists 2 | 245802 | [245802-arcanists-2.json](./245802-arcanists-2.json) |
+| Arcanium: Rise of Akhan | 97340 | [97340-arcanium-rise-of-akhan.json](./97340-arcanium-rise-of-akhan.json) |
 | Arcano | 149826 | [149826-arcano.json](./149826-arcano.json) |
 | Arcano: El juego de Galicia | 210366 | [210366-arcano-el-juego-de-galicia.json](./210366-arcano-el-juego-de-galicia.json) |
 | Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
@@ -16181,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Sunshine | 18303 | [18303-arizona-sunshine.json](./18303-arizona-sunshine.json) |
 | Arizona Sunshine | 404896 | [404896-arizona-sunshine.json](./404896-arizona-sunshine.json) |
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
+| Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Arizona Sunshine: Dead Man | 171323 | [171323-arizona-sunshine-dead-man.json](./171323-arizona-sunshine-dead-man.json) |
 | Arizona Sunshine: The Damned | 117884 | [117884-arizona-sunshine-the-damned.json](./117884-arizona-sunshine-the-damned.json) |
 | ARK -the lost fairytale- | 95143 | [95143-ark-the-lost-fairytale.json](./95143-ark-the-lost-fairytale.json) |
@@ -19319,6 +19323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari 50: The Anniversary Celebration - Steelbook Edition | 216582 | [216582-atari-50-the-anniversary-celebration-steelbook-edition.json](./216582-atari-50-the-anniversary-celebration-steelbook-edition.json) |
 | Atari 50: The First Console War | 317961 | [317961-atari-50-the-first-console-war.json](./317961-atari-50-the-first-console-war.json) |
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
+| Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
@@ -19499,6 +19504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
 | Atelier Patchouli | 427689 | [427689-atelier-patchouli.json](./427689-atelier-patchouli.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
+| Atelier Resleriana: The Red Alchemist & The White Guardian | 318001 | [318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json](./318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Activewear Adventuring Set | 370586 | [370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json](./370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Atelier Series Legacy BGM Pack | 380622 | [380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json](./380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json) |
@@ -21517,6 +21523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayame: Ningyou Ingi | 97602 | [97602-ayame-ningyou-ingi.json](./97602-ayame-ningyou-ingi.json) |
 | Ayami's Little Game | 397621 | [397621-ayamis-little-game.json](./397621-ayamis-little-game.json) |
 | Ayano's Lovesick Labyrinth | 270509 | [270509-ayanos-lovesick-labyrinth.json](./270509-ayanos-lovesick-labyrinth.json) |
+| Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayase, the Sexy Archer | 247712 | [247712-ayase-the-sexy-archer.json](./247712-ayase-the-sexy-archer.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
