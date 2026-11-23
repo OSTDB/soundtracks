@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layer Front | 108929 | [108929-layer-front.json](./108929-layer-front.json) |
 | Layer Hunt | 219689 | [219689-layer-hunt.json](./219689-layer-hunt.json) |
 | Layer Land | 391454 | [391454-layer-land.json](./391454-layer-land.json) |
+| Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layer Up | 200284 | [200284-layer-up.json](./200284-layer-up.json) |
 | Layer2 | 407912 | [407912-layer2.json](./407912-layer2.json) |
 | Layered | 312600 | [312600-layered.json](./312600-layered.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo 2 | 327669 | [327669-lingo-2.json](./327669-lingo-2.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Kitty | 427802 | [427802-lingo-kitty.json](./427802-lingo-kitty.json) |
+| Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoGrid | 407604 | [407604-lingogrid.json](./407604-lingogrid.json) |
