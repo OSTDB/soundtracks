@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
 | What’s Behind the Door? | 419105 | [419105-what-s-behind-the-door.json](./419105-what-s-behind-the-door.json) |
+| What's Cooking? Jamie Oliver | 80202 | [80202-whats-cooking-jamie-oliver.json](./80202-whats-cooking-jamie-oliver.json) |
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
@@ -8733,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Cross: Crossword Games | 99855 | [99855-word-cross-crossword-games.json](./99855-word-cross-crossword-games.json) |
 | Word Crush | 213689 | [213689-word-crush.json](./213689-word-crush.json) |
+| Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Cube | 81498 | [81498-word-cube.json](./81498-word-cube.json) |
