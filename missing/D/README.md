@@ -7724,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demons Happened | 202466 | [202466-demons-happened.json](./202466-demons-happened.json) |
 | Demons Infernalize | 243376 | [243376-demons-infernalize.json](./243376-demons-infernalize.json) |
 | Demons Never Lie | 117303 | [117303-demons-never-lie.json](./117303-demons-never-lie.json) |
+| Demons of Asteborg | 142485 | [142485-demons-of-asteborg.json](./142485-demons-of-asteborg.json) |
 | Demons of Asteborg/Astebros | 260093 | [260093-demons-of-asteborg-astebros.json](./260093-demons-of-asteborg-astebros.json) |
 | Demons of Dex | 229219 | [229219-demons-of-dex.json](./229219-demons-of-dex.json) |
 | Demons of Mercy | 66435 | [66435-demons-of-mercy.json](./66435-demons-of-mercy.json) |
@@ -17440,6 +17441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Portals | 53986 | [53986-dragon-portals.json](./53986-dragon-portals.json) |
 | Dragon Pow! | 372822 | [372822-dragon-pow.json](./372822-dragon-pow.json) |
 | Dragon Power | 48697 | [48697-dragon-power.json](./48697-dragon-power.json) |
+| Dragon Prana | 200178 | [200178-dragon-prana.json](./200178-dragon-prana.json) |
 | Dragon Princess Anastasia | 195619 | [195619-dragon-princess-anastasia.json](./195619-dragon-princess-anastasia.json) |
 | Dragon Princess is Hungry | 224327 | [224327-dragon-princess-is-hungry.json](./224327-dragon-princess-is-hungry.json) |
 | Dragon Princess: Meikyuu no Madoushi | 67256 | [67256-dragon-princess-meikyuu-no-madoushi.json](./67256-dragon-princess-meikyuu-no-madoushi.json) |
