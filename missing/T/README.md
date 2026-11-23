@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Festival - Vocaloid Songs Collection | 356197 | [356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json](./356197-taiko-no-tatsujin-rhythm-festival-vocaloid-songs-collection.json) |
 | Taiko no Tatsujin: Rhythmic Adventure 1 | 60406 | [60406-taiko-no-tatsujin-rhythmic-adventure-1.json](./60406-taiko-no-tatsujin-rhythmic-adventure-1.json) |
 | Taiko no Tatsujin: Rhythmic Adventure 2 | 58471 | [58471-taiko-no-tatsujin-rhythmic-adventure-2.json](./58471-taiko-no-tatsujin-rhythmic-adventure-2.json) |
+| Taiko no Tatsujin: Rhythmic Adventure Pack | 137128 | [137128-taiko-no-tatsujin-rhythmic-adventure-pack.json](./137128-taiko-no-tatsujin-rhythmic-adventure-pack.json) |
 | Taiko no Tatsujin: Tatacon de Dodon ga Don | 122538 | [122538-taiko-no-tatsujin-tatacon-de-dodon-ga-don.json](./122538-taiko-no-tatsujin-tatacon-de-dodon-ga-don.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
 | Taiko no Tatsujin: The Drum Master! - One Piece Anime Songs Pack | 257467 | [257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json](./257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tanuki Forest | 62027 | [62027-tanuki-forest.json](./62027-tanuki-forest.json) |
+| Tanuki Justice | 139832 | [139832-tanuki-justice.json](./139832-tanuki-justice.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
 | Tanuki Sunset | 125199 | [125199-tanuki-sunset.json](./125199-tanuki-sunset.json) |
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
@@ -16802,6 +16804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Old West Savior | 159580 | [159580-the-old-west-savior.json](./159580-the-old-west-savior.json) |
 | The Old Woman | 343017 | [343017-the-old-woman.json](./343017-the-old-woman.json) |
 | The Oldest Edda | 190721 | [190721-the-oldest-edda.json](./190721-the-oldest-edda.json) |
+| The Oliver Twins Collection | 136367 | [136367-the-oliver-twins-collection.json](./136367-the-oliver-twins-collection.json) |
 | The Olivia Saga | 111247 | [111247-the-olivia-saga.json](./111247-the-olivia-saga.json) |
 | The Olympics | 13260 | [13260-the-olympics.json](./13260-the-olympics.json) |
 | The Omega Reach | 404351 | [404351-the-omega-reach.json](./404351-the-omega-reach.json) |
@@ -28520,6 +28523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special | 199222 | [199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json](./199222-tokoton-mahjong-joryuu-pro-ni-chousen-tetsuman-megami-special.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
 | Tokoyo no Hoshizora | 329893 | [329893-tokoyo-no-hoshizora.json](./329893-tokoyo-no-hoshizora.json) |
+| Tokoyo: The Tower of Perpetuity | 139042 | [139042-tokoyo-the-tower-of-perpetuity.json](./139042-tokoyo-the-tower-of-perpetuity.json) |
 | Tokubetsu Byoutou | 77815 | [77815-tokubetsu-byoutou.json](./77815-tokubetsu-byoutou.json) |
 | Tokumei Sentai Go-Busters | 63581 | [63581-tokumei-sentai-go-busters.json](./63581-tokumei-sentai-go-busters.json) |
 | Tokusatsu Bouken Katsugeki Super Hero Retsuden | 58778 | [58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json](./58778-tokusatsu-bouken-katsugeki-super-hero-retsuden.json) |
@@ -28751,6 +28755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Limited Edition | 120557 | [120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json](./120557-tom-clancys-ghost-recon-breakpoint-limited-edition.json) |
+| Tom Clancy's Ghost Recon: Breakpoint - Red Patriot | 138784 | [138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json](./138784-tom-clancys-ghost-recon-breakpoint-red-patriot.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Year 1 Pass | 118678 | [118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json](./118678-tom-clancys-ghost-recon-breakpoint-year-1-pass.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Gold Edition | 118275 | [118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json](./118275-tom-clancys-ghost-recon-breakpoint-gold-edition.json) |
 | Tom Clancy's Ghost Recon: Breakpoint Ultimate Edition | 118276 | [118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json](./118276-tom-clancys-ghost-recon-breakpoint-ultimate-edition.json) |
@@ -29179,6 +29184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombs & Trials | 360701 | [360701-tombs-and-trials.json](./360701-tombs-and-trials.json) |
 | Tombs of Myra | 323111 | [323111-tombs-of-myra.json](./323111-tombs-of-myra.json) |
 | Tombs of Reschette | 59678 | [59678-tombs-of-reschette.json](./59678-tombs-of-reschette.json) |
+| TombStar | 138867 | [138867-tombstar.json](./138867-tombstar.json) |
 | Tombstone | 167470 | [167470-tombstone.json](./167470-tombstone.json) |
 | Tombstone 1882 | 93293 | [93293-tombstone-1882.json](./93293-tombstone-1882.json) |
 | Tombstone City | 44377 | [44377-tombstone-city.json](./44377-tombstone-city.json) |
@@ -32098,6 +32104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks: The Train Set Game - Sci-Fi Pack | 225481 | [225481-tracks-the-train-set-game-sci-fi-pack.json](./225481-tracks-the-train-set-game-sci-fi-pack.json) |
 | Tracks: The Train Set Game - Suburban Pack | 225482 | [225482-tracks-the-train-set-game-suburban-pack.json](./225482-tracks-the-train-set-game-suburban-pack.json) |
 | Tracks: The Train Set Game - Toybox Bundle | 225458 | [225458-tracks-the-train-set-game-toybox-bundle.json](./225458-tracks-the-train-set-game-toybox-bundle.json) |
+| Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
 | Tracksuit Manager | 74027 | [74027-tracksuit-manager.json](./74027-tracksuit-manager.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
 | Trackwars | 178162 | [178162-trackwars.json](./178162-trackwars.json) |
