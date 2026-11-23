@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Clockwork Ley-Line: Flowers Falling in the Morning Mist | 54772 | [54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json](./54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json) |
 | A Clockwork Ley-Line: Kagerou ni Samayou Majo | 148655 | [148655-a-clockwork-ley-line-kagerou-ni-samayou-majo.json](./148655-a-clockwork-ley-line-kagerou-ni-samayou-majo.json) |
+| A Clockwork Ley-Line: Tasogaredoki no Kyoukaisen | 68699 | [68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json](./68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json) |
 | A Clockwork Ley-Line: Zanei no Yoru ga Akeru Toki | 54750 | [54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json](./54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json) |
 | A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
 | A Clumsy Flight | 208673 | [208673-a-clumsy-flight.json](./208673-a-clumsy-flight.json) |
@@ -8379,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Spidy | 9965 | [9965-alien-spidy.json](./9965-alien-spidy.json) |
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
+| Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
 | Alien Stars | 25535 | [25535-alien-stars.json](./25535-alien-stars.json) |
 | Alien Storm | 9969 | [9969-alien-storm.json](./9969-alien-storm.json) |
 | Alien Story: Fairy tale with games for kids | 89809 | [89809-alien-story-fairy-tale-with-games-for-kids.json](./89809-alien-story-fairy-tale-with-games-for-kids.json) |
@@ -10162,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
 | America's Most Eligible: Book 2 | 313692 | [313692-americas-most-eligible-book-2.json](./313692-americas-most-eligible-book-2.json) |
 | America's Most Eligible: Book 3 | 313693 | [313693-americas-most-eligible-book-3.json](./313693-americas-most-eligible-book-3.json) |
+| America's Next Top Model | 50613 | [50613-americas-next-top-model.json](./50613-americas-next-top-model.json) |
 | America's Next Top Model | 78528 | [78528-americas-next-top-model.json](./78528-americas-next-top-model.json) |
 | America's Next Top Model Game | 95128 | [95128-americas-next-top-model-game.json](./95128-americas-next-top-model-game.json) |
 | America's Next Top Pornstar | 304675 | [304675-americas-next-top-pornstar.json](./304675-americas-next-top-pornstar.json) |
@@ -11771,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Reaver | 159953 | [159953-anima-reaver.json](./159953-anima-reaver.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
+| Anima: Ark of Sinners | 51096 | [51096-anima-ark-of-sinners.json](./51096-anima-ark-of-sinners.json) |
 | Anima: Gate of Memories | 19851 | [19851-anima-gate-of-memories.json](./19851-anima-gate-of-memories.json) |
 | Anima: Gate of Memories - Arcane Edition | 140672 | [140672-anima-gate-of-memories-arcane-edition.json](./140672-anima-gate-of-memories-arcane-edition.json) |
 | Anima: Gate of Memories - The Nameless Chronicles | 101608 | [101608-anima-gate-of-memories-the-nameless-chronicles.json](./101608-anima-gate-of-memories-the-nameless-chronicles.json) |
@@ -16301,6 +16305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid II: Revenge of Doh | 273060 | [273060-arkanoid-ii-revenge-of-doh.json](./273060-arkanoid-ii-revenge-of-doh.json) |
 | Arkanoid II: Revenge of Doh | 273066 | [273066-arkanoid-ii-revenge-of-doh.json](./273066-arkanoid-ii-revenge-of-doh.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
+| Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
 | Arkanoid vs. Space Invaders | 56018 | [56018-arkanoid-vs-space-invaders.json](./56018-arkanoid-vs-space-invaders.json) |
@@ -17016,6 +17021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
 | Art Academy: Second Semester | 84766 | [84766-art-academy-second-semester.json](./84766-art-academy-second-semester.json) |
+| Art Academy: Sketchpad | 51185 | [51185-art-academy-sketchpad.json](./51185-art-academy-sketchpad.json) |
 | Art Alive | 46288 | [46288-art-alive.json](./46288-art-alive.json) |
 | Art Apart | 206011 | [206011-art-apart.json](./206011-art-apart.json) |
 | Art Appreciation | 307736 | [307736-art-appreciation.json](./307736-art-appreciation.json) |
