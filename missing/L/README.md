@@ -2882,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
 | Legacy of Destiny | 108695 | [108695-legacy-of-destiny.json](./108695-legacy-of-destiny.json) |
+| Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
 | Legacy of Epstein: Bad Omen | 244478 | [244478-legacy-of-epstein-bad-omen.json](./244478-legacy-of-epstein-bad-omen.json) |
 | Legacy of Epstein: Foul Dreamer | 295178 | [295178-legacy-of-epstein-foul-dreamer.json](./295178-legacy-of-epstein-foul-dreamer.json) |
@@ -5616,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightblade VR | 32546 | [32546-lightblade-vr.json](./32546-lightblade-vr.json) |
 | Lightblue | 144505 | [144505-lightblue.json](./144505-lightblue.json) |
 | Lightbot Jr: Coding Puzzles | 93907 | [93907-lightbot-jr-coding-puzzles.json](./93907-lightbot-jr-coding-puzzles.json) |
+| Lightbot: Programming Puzzles | 88528 | [88528-lightbot-programming-puzzles.json](./88528-lightbot-programming-puzzles.json) |
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
