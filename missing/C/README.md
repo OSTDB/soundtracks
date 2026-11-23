@@ -10509,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus of Pain | 349055 | [349055-circus-of-pain.json](./349055-circus-of-pain.json) |
 | Circus of TimTim | 278013 | [278013-circus-of-timtim.json](./278013-circus-of-timtim.json) |
 | Circus Pocus | 184535 | [184535-circus-pocus.json](./184535-circus-pocus.json) |
+| Circus Welt | 429237 | [429237-circus-welt.json](./429237-circus-welt.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
 | Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
@@ -16932,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
 | Cop Academy | 115913 | [115913-cop-academy.json](./115913-cop-academy.json) |
 | Cop Bastard | 183657 | [183657-cop-bastard.json](./183657-cop-bastard.json) |
+| Cop Bastard: Deluxe Edition | 429268 | [429268-cop-bastard-deluxe-edition.json](./429268-cop-bastard-deluxe-edition.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop City | 236109 | [236109-cop-city.json](./236109-cop-city.json) |
 | Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
@@ -18614,6 +18616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Grab | 145237 | [145237-crab-grab.json](./145237-crab-grab.json) |
 | Crab Hunt | 346729 | [346729-crab-hunt.json](./346729-crab-hunt.json) |
 | Crab Island | 226775 | [226775-crab-island.json](./226775-crab-island.json) |
+| Crab Kingdom | 429255 | [429255-crab-kingdom.json](./429255-crab-kingdom.json) |
 | Crab My Passion | 279210 | [279210-crab-my-passion.json](./279210-crab-my-passion.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab Rhapsody: Vol.1 | 249009 | [249009-crab-rhapsody-vol-1.json](./249009-crab-rhapsody-vol-1.json) |
