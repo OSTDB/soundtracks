@@ -4252,7 +4252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
 | Endciv | 33502 | [33502-endciv.json](./33502-endciv.json) |
 | EndCycle | 56833 | [56833-endcycle.json](./56833-endcycle.json) |
-| EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
 | Endeavor | 188622 | [188622-endeavor.json](./188622-endeavor.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
@@ -8076,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace 2: Complete Edition | 429525 | [429525-everspace-2-complete-edition.json](./429525-everspace-2-complete-edition.json) |
 | Everspace 2: Stellar Edition | 246298 | [246298-everspace-2-stellar-edition.json](./246298-everspace-2-stellar-edition.json) |
 | Everspace 2: Supporter Pack | 311390 | [311390-everspace-2-supporter-pack.json](./311390-everspace-2-supporter-pack.json) |
+| Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
 | Everspace: Galactic Edition | 90054 | [90054-everspace-galactic-edition.json](./90054-everspace-galactic-edition.json) |
