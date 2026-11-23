@@ -6985,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Road Trip - Collector's Edition | 358097 | [358097-delicious-emilys-road-trip-collectors-edition.json](./358097-delicious-emilys-road-trip-collectors-edition.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | Delicious: Emily's Tea Garden | 102692 | [102692-delicious-emilys-tea-garden.json](./102692-delicious-emilys-tea-garden.json) |
+| Delicious: Emily's True Love | 68946 | [68946-delicious-emilys-true-love.json](./68946-delicious-emilys-true-love.json) |
 | Delicious: Emily's Wonder Wedding | 88825 | [88825-delicious-emilys-wonder-wedding.json](./88825-delicious-emilys-wonder-wedding.json) |
 | Delicious: Emily's Wonder Wedding HD | 252940 | [252940-delicious-emilys-wonder-wedding-hd.json](./252940-delicious-emilys-wonder-wedding-hd.json) |
 | Delicious: Mansion Mystery | 304710 | [304710-delicious-mansion-mystery.json](./304710-delicious-mansion-mystery.json) |
@@ -9802,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
 | Diamaze | 93311 | [93311-diamaze.json](./93311-diamaze.json) |
 | Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
+| Diamo XL | 68596 | [68596-diamo-xl.json](./68596-diamo-xl.json) |
 | Diamon Jones and the Amulet of the World | 25350 | [25350-diamon-jones-and-the-amulet-of-the-world.json](./25350-diamon-jones-and-the-amulet-of-the-world.json) |
 | Diamon Jones Devil's Contract | 53959 | [53959-diamon-jones-devils-contract.json](./53959-diamon-jones-devils-contract.json) |
 | Diamon Jones Eye of the Dragon | 53958 | [53958-diamon-jones-eye-of-the-dragon.json](./53958-diamon-jones-eye-of-the-dragon.json) |
