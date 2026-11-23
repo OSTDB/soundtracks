@@ -8246,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Room | 315371 | [315371-beyond-the-room.json](./315371-beyond-the-room.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sea | 107707 | [107707-beyond-the-sea.json](./107707-beyond-the-sea.json) |
+| Beyond the Second Hour | 429252 | [429252-beyond-the-second-hour.json](./429252-beyond-the-second-hour.json) |
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Skies | 226492 | [226492-beyond-the-skies.json](./226492-beyond-the-skies.json) |
@@ -12852,6 +12853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood: The Last Vampire - Last Volume | 65026 | [65026-blood-the-last-vampire-last-volume.json](./65026-blood-the-last-vampire-last-volume.json) |
 | Blood: What Lies Beneath | 318374 | [318374-blood-what-lies-beneath.json](./318374-blood-what-lies-beneath.json) |
 | Blood+ | 286589 | [286589-blood.json](./286589-blood.json) |
+| Blood+ One Night Kiss | 23128 | [23128-blood-one-night-kiss.json](./23128-blood-one-night-kiss.json) |
 | Blood+: Final Piece | 72478 | [72478-blood-final-piece.json](./72478-blood-final-piece.json) |
 | Blood+: Souyoku no Battle Rondo | 72477 | [72477-blood-souyoku-no-battle-rondo.json](./72477-blood-souyoku-no-battle-rondo.json) |
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
@@ -12882,6 +12884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodBound Knights | 344873 | [344873-bloodbound-knights.json](./344873-bloodbound-knights.json) |
 | Bloodbrand | 417333 | [417333-bloodbrand.json](./417333-bloodbrand.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
+| BloodBuild | 428868 | [428868-bloodbuild.json](./428868-bloodbuild.json) |
 | BloodCrypt | 184242 | [184242-bloodcrypt.json](./184242-bloodcrypt.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
 | BloodDome99 | 244440 | [244440-blooddome99.json](./244440-blooddome99.json) |
@@ -13295,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowfish Meets Meteor | 61799 | [61799-blowfish-meets-meteor.json](./61799-blowfish-meets-meteor.json) |
 | Blowfly: DungHole Wanderer | 202745 | [202745-blowfly-dunghole-wanderer.json](./202745-blowfly-dunghole-wanderer.json) |
 | Blowhards | 27342 | [27342-blowhards.json](./27342-blowhards.json) |
+| BlowHi | 429239 | [429239-blowhi.json](./429239-blowhi.json) |
 | Blowhole | 425455 | [425455-blowhole.json](./425455-blowhole.json) |
 | Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
@@ -14103,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense. - Line Wars | 137670 | [137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json](./137670-bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-line-wars.json) |
 | Bofyne Unit: The Omega Contract | 303348 | [303348-bofyne-unit-the-omega-contract.json](./303348-bofyne-unit-the-omega-contract.json) |
 | Bog | 176593 | [176593-bog.json](./176593-bog.json) |
+| Bog Bodies | 428871 | [428871-bog-bodies.json](./428871-bog-bodies.json) |
 | Bog Lord | 149640 | [149640-bog-lord.json](./149640-bog-lord.json) |
 | Bog Man Has Had Enough | 271843 | [271843-bog-man-has-had-enough.json](./271843-bog-man-has-had-enough.json) |
 | Bog Racer | 239893 | [239893-bog-racer.json](./239893-bog-racer.json) |
@@ -15214,6 +15219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boombot 2 | 335457 | [335457-boombot-2.json](./335457-boombot-2.json) |
 | BoomBots | 10918 | [10918-boombots.json](./10918-boombots.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
+| BoomBox Remastered | 429240 | [429240-boombox-remastered.json](./429240-boombox-remastered.json) |
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
 | Boomby! | 334452 | [334452-boomby.json](./334452-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
@@ -18652,6 +18658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers in Arms DS | 21422 | [21422-brothers-in-arms-ds.json](./21422-brothers-in-arms-ds.json) |
 | Brothers in Arms: Art of War | 152213 | [152213-brothers-in-arms-art-of-war.json](./152213-brothers-in-arms-art-of-war.json) |
+| Brothers in Arms: D-Day | 23117 | [23117-brothers-in-arms-d-day.json](./23117-brothers-in-arms-d-day.json) |
 | Brothers in Arms: Earned in Blood | 617 | [617-brothers-in-arms-earned-in-blood.json](./617-brothers-in-arms-earned-in-blood.json) |
 | Brothers in Arms: Furious 4 | 2034 | [2034-brothers-in-arms-furious-4.json](./2034-brothers-in-arms-furious-4.json) |
 | Brothers in Arms: Hell's Highway | 618 | [618-brothers-in-arms-hells-highway.json](./618-brothers-in-arms-hells-highway.json) |
