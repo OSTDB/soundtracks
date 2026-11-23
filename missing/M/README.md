@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Rabbit | 120097 | [120097-mad-rabbit.json](./120097-mad-rabbit.json) |
 | Mad Racing Super Speed | 90424 | [90424-mad-racing-super-speed.json](./90424-mad-racing-super-speed.json) |
 | Mad Rat | 279741 | [279741-mad-rat.json](./279741-mad-rat.json) |
+| Mad Rat Dead | 135301 | [135301-mad-rat-dead.json](./135301-mad-rat-dead.json) |
 | Mad Restaurant People | 107398 | [107398-mad-restaurant-people.json](./107398-mad-restaurant-people.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
 | Mad Riders | 8035 | [8035-mad-riders.json](./8035-mad-riders.json) |
@@ -5542,6 +5543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Avengers: Earth's Mightiest Edition | 135971 | [135971-marvels-avengers-earths-mightiest-edition.json](./135971-marvels-avengers-earths-mightiest-edition.json) |
 | Marvel's Avengers: Endgame Edition | 165868 | [165868-marvels-avengers-endgame-edition.json](./165868-marvels-avengers-endgame-edition.json) |
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
+| Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
 | Marvel's Avengers: Spider-Man - With Great Power | 143538 | [143538-marvels-avengers-spider-man-with-great-power.json](./143538-marvels-avengers-spider-man-with-great-power.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
@@ -16375,6 +16377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 149629 | [149629-mixology.json](./149629-mixology.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
+| Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixolydia Fringes | 412885 | [412885-mixolydia-fringes.json](./412885-mixolydia-fringes.json) |
 | Mixpirit | 325149 | [325149-mixpirit.json](./325149-mixpirit.json) |
 | Mixtape | 223860 | [223860-mixtape.json](./223860-mixtape.json) |
@@ -19578,6 +19581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moose Diver | 372977 | [372977-moose-diver.json](./372977-moose-diver.json) |
 | Moose In Canada | 239196 | [239196-moose-in-canada.json](./239196-moose-in-canada.json) |
 | Moose Invasion | 75002 | [75002-moose-invasion.json](./75002-moose-invasion.json) |
+| Moose Life | 138332 | [138332-moose-life.json](./138332-moose-life.json) |
 | Moose Lost in the Woods | 252317 | [252317-moose-lost-in-the-woods.json](./252317-moose-lost-in-the-woods.json) |
 | Moose Miners | 267711 | [267711-moose-miners.json](./267711-moose-miners.json) |
 | Mooselutions | 264662 | [264662-mooselutions.json](./264662-mooselutions.json) |
