@@ -2820,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Business | 111990 | [111990-farm-business.json](./111990-farm-business.json) |
 | Farm Business | 344253 | [344253-farm-business.json](./344253-farm-business.json) |
+| Farm Business Simulator | 431084 | [431084-farm-business-simulator.json](./431084-farm-business-simulator.json) |
 | Farm Champions: Harvest Battle | 314689 | [314689-farm-champions-harvest-battle.json](./314689-farm-champions-harvest-battle.json) |
 | Farm Chicken | 349475 | [349475-farm-chicken.json](./349475-farm-chicken.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
@@ -11087,6 +11088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
 | For The Stars | 377329 | [377329-for-the-stars.json](./377329-for-the-stars.json) |
 | For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
+| For The Warp: Void Echoes | 429433 | [429433-for-the-warp-void-echoes.json](./429433-for-the-warp-void-echoes.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
@@ -12618,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found: A Hidden Object Adventure | 111322 | [111322-found-a-hidden-object-adventure.json](./111322-found-a-hidden-object-adventure.json) |
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation | 88392 | [88392-foundation.json](./88392-foundation.json) |
+| Foundation Footy | 431000 | [431000-foundation-footy.json](./431000-foundation-footy.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation of Nightmares | 81061 | [81061-foundation-of-nightmares.json](./81061-foundation-of-nightmares.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
@@ -13679,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle BMX: featuring Brian Foster & Joey Garcia | 78318 | [78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json](./78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json) |
+| Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
 | Freestyle Dirt Bike | 89628 | [89628-freestyle-dirt-bike.json](./89628-freestyle-dirt-bike.json) |
 | Freestyle Dunker | 419583 | [419583-freestyle-dunker.json](./419583-freestyle-dunker.json) |
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
@@ -13992,6 +13996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
 | Fridge Frenzy | 379622 | [379622-fridge-frenzy.json](./379622-fridge-frenzy.json) |
+| Fridgle | 429435 | [429435-fridgle.json](./429435-fridgle.json) |
 | Fridgy | 90905 | [90905-fridgy.json](./90905-fridgy.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
