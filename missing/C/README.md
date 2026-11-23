@@ -5608,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatWorld | 257516 | [257516-catworld.json](./257516-catworld.json) |
 | Catx11 | 400482 | [400482-catx11.json](./400482-catx11.json) |
 | CatxBlock | 255415 | [255415-catxblock.json](./255415-catxblock.json) |
+| Catyph: The Kunci Experiment | 34616 | [34616-catyph-the-kunci-experiment.json](./34616-catyph-the-kunci-experiment.json) |
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
 | Catz | 16616 | [16616-catz.json](./16616-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
@@ -14143,6 +14144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
 | Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
+| Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Syndrome | 32447 | [32447-color-syndrome.json](./32447-color-syndrome.json) |
 | Color Tanks | 407624 | [407624-color-tanks.json](./407624-color-tanks.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
@@ -17612,6 +17614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Jailbreak | 23203 | [23203-cosmic-jailbreak.json](./23203-cosmic-jailbreak.json) |
 | Cosmic Karma | 417039 | [417039-cosmic-karma.json](./417039-cosmic-karma.json) |
 | Cosmic Kitchen | 295272 | [295272-cosmic-kitchen.json](./295272-cosmic-kitchen.json) |
+| Cosmic Kites | 38814 | [38814-cosmic-kites.json](./38814-cosmic-kites.json) |
 | Cosmic Lander | 185374 | [185374-cosmic-lander.json](./185374-cosmic-lander.json) |
 | Cosmic League | 57108 | [57108-cosmic-league.json](./57108-cosmic-league.json) |
 | Cosmic League | 57134 | [57134-cosmic-league.json](./57134-cosmic-league.json) |
@@ -23249,6 +23252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curupira the Forest Guardian | 371859 | [371859-curupira-the-forest-guardian.json](./371859-curupira-the-forest-guardian.json) |
 | Curupon | 150189 | [150189-curupon.json](./150189-curupon.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
+| Curvatron | 34417 | [34417-curvatron.json](./34417-curvatron.json) |
 | Curvature | 213524 | [213524-curvature.json](./213524-curvature.json) |
 | Curve Digital PS4 Mega Bundle | 99807 | [99807-curve-digital-ps4-mega-bundle.json](./99807-curve-digital-ps4-mega-bundle.json) |
 | Curve Digital Triple Features - Action Pack | 99806 | [99806-curve-digital-triple-features-action-pack.json](./99806-curve-digital-triple-features-action-pack.json) |
