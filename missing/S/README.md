@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Larisa | 94506 | [94506-save-larisa.json](./94506-save-larisa.json) |
 | Save Mary | 40698 | [40698-save-mary.json](./40698-save-mary.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
+| Save Me Mr Tako: Definitive Edition | 143839 | [143839-save-me-mr-tako-definitive-edition.json](./143839-save-me-mr-tako-definitive-edition.json) |
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save Me My Hero | 330081 | [330081-save-me-my-hero.json](./330081-save-me-my-hero.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
@@ -4762,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Roses | 150722 | [150722-sea-of-roses.json](./150722-sea-of-roses.json) |
 | Sea of Secrets | 357806 | [357806-sea-of-secrets.json](./357806-sea-of-secrets.json) |
 | Sea of Shadows | 429691 | [429691-sea-of-shadows.json](./429691-sea-of-shadows.json) |
+| Sea of Solitude: The Director's Cut | 141535 | [141535-sea-of-solitude-the-directors-cut.json](./141535-sea-of-solitude-the-directors-cut.json) |
 | Sea of Souls | 348277 | [348277-sea-of-souls.json](./348277-sea-of-souls.json) |
 | Sea of Squares | 96411 | [96411-sea-of-squares.json](./96411-sea-of-squares.json) |
 | Sea of Stars | 131890 | [131890-sea-of-stars.json](./131890-sea-of-stars.json) |
@@ -18025,6 +18027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Bros. Special: Anniversary Edition | 325981 | [325981-snow-bros-special-anniversary-edition.json](./325981-snow-bros-special-anniversary-edition.json) |
 | Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Bros.: Nick & Tom | 46173 | [46173-snow-bros-nick-and-tom.json](./46173-snow-bros-nick-and-tom.json) |
+| Snow Bros.: Nick & Tom Special | 198126 | [198126-snow-bros-nick-and-tom-special.json](./198126-snow-bros-nick-and-tom-special.json) |
 | Snow Brothers | 4399 | [4399-snow-brothers.json](./4399-snow-brothers.json) |
 | Snow Brothers 3: Magical Adventure | 39841 | [39841-snow-brothers-3-magical-adventure.json](./39841-snow-brothers-3-magical-adventure.json) |
 | Snow Buddies: Dog Sled Race | 333499 | [333499-snow-buddies-dog-sled-race.json](./333499-snow-buddies-dog-sled-race.json) |
@@ -19237,6 +19240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers: Heroes of World War II | 9477 | [9477-soldiers-heroes-of-world-war-ii.json](./9477-soldiers-heroes-of-world-war-ii.json) |
 | Soldiers: SDC2X | 204791 | [204791-soldiers-sdc2x.json](./204791-soldiers-sdc2x.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
+| Söldner-X 2: Final Prototype - Definitive Edition | 140847 | [140847-soldner-x-2-final-prototype-definitive-edition.json](./140847-soldner-x-2-final-prototype-definitive-edition.json) |
 | Söldner-X 2: The Last Chapter | 26938 | [26938-soldner-x-2-the-last-chapter.json](./26938-soldner-x-2-the-last-chapter.json) |
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
 | Söldner-X: Himmelsstürmer | 21270 | [21270-soldner-x-himmelssturmer.json](./21270-soldner-x-himmelssturmer.json) |
@@ -21202,6 +21206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sooty & Sweep | 255896 | [255896-sooty-and-sweep.json](./255896-sooty-and-sweep.json) |
 | Sooty's Fun With Numbers | 70195 | [70195-sootys-fun-with-numbers.json](./70195-sootys-fun-with-numbers.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
+| Sopa: Tale of the Stolen Potato | 197073 | [197073-sopa-tale-of-the-stolen-potato.json](./197073-sopa-tale-of-the-stolen-potato.json) |
 | Sophia - My Little Sis | 86824 | [86824-sophia-my-little-sis.json](./86824-sophia-my-little-sis.json) |
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophia the Traveler | 153562 | [153562-sophia-the-traveler.json](./153562-sophia-the-traveler.json) |
@@ -32325,6 +32330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
+| Stray Blade | 141505 | [141505-stray-blade.json](./141505-stray-blade.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Cat | 220508 | [220508-stray-cat.json](./220508-stray-cat.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
@@ -35381,6 +35387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
 | Super Alien Sniper: Super Realisitic Simulator | 326334 | [326334-super-alien-sniper-super-realisitic-simulator.json](./326334-super-alien-sniper-super-realisitic-simulator.json) |
 | Super Alloy Crush | 318308 | [318308-super-alloy-crush.json](./318308-super-alloy-crush.json) |
+| Super Alloy Ranger | 200550 | [200550-super-alloy-ranger.json](./200550-super-alloy-ranger.json) |
 | Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Alpine Racer | 124423 | [124423-super-alpine-racer.json](./124423-super-alpine-racer.json) |
 | Super Amazeballs | 29452 | [29452-super-amazeballs.json](./29452-super-amazeballs.json) |
