@@ -8273,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Wired | 125775 | [125775-riddle-wired.json](./125775-riddle-wired.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | RiddleBridge | 86744 | [86744-riddlebridge.json](./86744-riddlebridge.json) |
+| Riddled Corpses EX | 97897 | [97897-riddled-corpses-ex.json](./97897-riddled-corpses-ex.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
 | Riddles And Sieges | 243867 | [243867-riddles-and-sieges.json](./243867-riddles-and-sieges.json) |
@@ -13507,6 +13508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
+| RPGolf | 98161 | [98161-rpgolf.json](./98161-rpgolf.json) |
 | RPGolf Legends | 151813 | [151813-rpgolf-legends.json](./151813-rpgolf-legends.json) |
 | RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
 | RPM: Road Punk Mayhem | 304521 | [304521-rpm-road-punk-mayhem.json](./304521-rpm-road-punk-mayhem.json) |
@@ -14136,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jojo Siwa | 95848 | [95848-run-jojo-siwa.json](./95848-run-jojo-siwa.json) |
 | Run Jump Climb Disarm | 344486 | [344486-run-jump-climb-disarm.json](./344486-run-jump-climb-disarm.json) |
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
+| Run Jump Fail | 97029 | [97029-run-jump-fail.json](./97029-run-jump-fail.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
 | Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
