@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Tower 2984 | 357848 | [357848-machine-tower-2984.json](./357848-machine-tower-2984.json) |
 | Machine With a Big Gun | 103479 | [103479-machine-with-a-big-gun.json](./103479-machine-with-a-big-gun.json) |
 | Machine World | 88966 | [88966-machine-world.json](./88966-machine-world.json) |
+| Machine World 2 | 50750 | [50750-machine-world-2.json](./50750-machine-world-2.json) |
 | Machine Yearning | 245254 | [245254-machine-yearning.json](./245254-machine-yearning.json) |
 | Machineboy Complete Collection | 154614 | [154614-machineboy-complete-collection.json](./154614-machineboy-complete-collection.json) |
 | Machineers | 35621 | [35621-machineers.json](./35621-machineers.json) |
@@ -11033,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry’s Seven Wishes | 390839 | [390839-merry-s-seven-wishes.json](./390839-merry-s-seven-wishes.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
+| Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
 | Merv Reborn | 74594 | [74594-merv-reborn.json](./74594-merv-reborn.json) |
 | Mervin and the Wicked Station | 95246 | [95246-mervin-and-the-wicked-station.json](./95246-mervin-and-the-wicked-station.json) |
@@ -17945,6 +17947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
 | Monopolize: Tech Empire | 427141 | [427141-monopolize-tech-empire.json](./427141-monopolize-tech-empire.json) |
+| Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
 | Monopoly | 102447 | [102447-monopoly.json](./102447-monopoly.json) |
 | Monopoly | 122241 | [122241-monopoly.json](./122241-monopoly.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
@@ -17975,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Deal | 69346 | [69346-monopoly-deal.json](./69346-monopoly-deal.json) |
 | Monopoly Deluxe | 92869 | [92869-monopoly-deluxe.json](./92869-monopoly-deluxe.json) |
 | Monopoly for Nintendo Switch | 28174 | [28174-monopoly-for-nintendo-switch.json](./28174-monopoly-for-nintendo-switch.json) |
+| Monopoly Here & Now | 51259 | [51259-monopoly-here-and-now.json](./51259-monopoly-here-and-now.json) |
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
@@ -19900,6 +19904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: Una aventura de cine - Edición especial | 115607 | [115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json](./115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json) |
 | Mortadelo y Filemón: Una Aventura de Cine - Edición Original | 323229 | [323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json](./323229-mortadelo-y-filemon-una-aventura-de-cine-edicion-original.json) |
 | Mortal and Monster | 152443 | [152443-mortal-and-monster.json](./152443-mortal-and-monster.json) |
+| Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
 | Mortal Cards | 287366 | [287366-mortal-cards.json](./287366-mortal-cards.json) |
