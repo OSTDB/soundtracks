@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Pocket Planet | 228031 | [228031-idle-pocket-planet.json](./228031-idle-pocket-planet.json) |
 | Idle Poker | 166816 | [166816-idle-poker.json](./166816-idle-poker.json) |
 | Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
+| Idle Pop: Balloons | 427610 | [427610-idle-pop-balloons.json](./427610-idle-pop-balloons.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Power | 245351 | [245351-idle-power.json](./245351-idle-power.json) |
 | Idle Progress | 275942 | [275942-idle-progress.json](./275942-idle-progress.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IslandPop Photo | 185553 | [185553-islandpop-photo.json](./185553-islandpop-photo.json) |
 | Islandry | 423952 | [423952-islandry.json](./423952-islandry.json) |
 | Islands | 176861 | [176861-islands.json](./176861-islands.json) |
+| Islands | 428029 | [428029-islands.json](./428029-islands.json) |
 | Islands & Trains | 212033 | [212033-islands-and-trains.json](./212033-islands-and-trains.json) |
 | Islands and Ships logic puzzle | 232048 | [232048-islands-and-ships-logic-puzzle.json](./232048-islands-and-ships-logic-puzzle.json) |
 | Islands Might Fly | 255211 | [255211-islands-might-fly.json](./255211-islands-might-fly.json) |
