@@ -6796,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espionage: Mafia Evolved | 183632 | [183632-espionage-mafia-evolved.json](./183632-espionage-mafia-evolved.json) |
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
+| Espire 2 | 198228 | [198228-espire-2.json](./198228-espire-2.json) |
 | Espire 2: Mixed Reality Update | 253183 | [253183-espire-2-mixed-reality-update.json](./253183-espire-2-mixed-reality-update.json) |
 | Espire: MR Missions | 377649 | [377649-espire-mr-missions.json](./377649-espire-mr-missions.json) |
 | Espitene | 368070 | [368070-espitene.json](./368070-espitene.json) |
@@ -8093,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evertile: Battle Arena | 122463 | [122463-evertile-battle-arena.json](./122463-evertile-battle-arena.json) |
 | Evertrail | 420409 | [420409-evertrail.json](./420409-evertrail.json) |
 | Evertree Inn | 30187 | [30187-evertree-inn.json](./30187-evertree-inn.json) |
+| Evertried | 142081 | [142081-evertried.json](./142081-evertried.json) |
 | Evertwine | 206877 | [206877-evertwine.json](./206877-evertwine.json) |
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwayne | 295617 | [295617-everwayne.json](./295617-everwayne.json) |
@@ -9209,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expedition Oregon | 111423 | [111423-expedition-oregon.json](./111423-expedition-oregon.json) |
 | Expedition to the Backrooms | 324305 | [324305-expedition-to-the-backrooms.json](./324305-expedition-to-the-backrooms.json) |
 | Expedition Wildlife | 260618 | [260618-expedition-wildlife.json](./260618-expedition-wildlife.json) |
+| Expedition Zero | 142883 | [142883-expedition-zero.json](./142883-expedition-zero.json) |
 | Expedition: Crushing Depth | 276293 | [276293-expedition-crushing-depth.json](./276293-expedition-crushing-depth.json) |
 | Expedition: Into Darkness | 324300 | [324300-expedition-into-darkness.json](./324300-expedition-into-darkness.json) |
 | Expedition: Shadow World | 332939 | [332939-expedition-shadow-world.json](./332939-expedition-shadow-world.json) |
