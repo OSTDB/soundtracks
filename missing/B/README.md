@@ -7295,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Omni-Charged | 242835 | [242835-ben-10-omni-charged.json](./242835-ben-10-omni-charged.json) |
 | Ben 10 Omniverse: Rise of Heroes | 298766 | [298766-ben-10-omniverse-rise-of-heroes.json](./298766-ben-10-omniverse-rise-of-heroes.json) |
 | Ben 10 Omniverse: The Return of Psyphon | 344520 | [344520-ben-10-omniverse-the-return-of-psyphon.json](./344520-ben-10-omniverse-the-return-of-psyphon.json) |
+| Ben 10 Slammers | 88305 | [88305-ben-10-slammers.json](./88305-ben-10-slammers.json) |
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien Galactic Challenge | 333846 | [333846-ben-10-ultimate-alien-galactic-challenge.json](./333846-ben-10-ultimate-alien-galactic-challenge.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
@@ -13218,6 +13219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons TD 2 | 109114 | [109114-bloons-td-2.json](./109114-bloons-td-2.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
+| Bloons TD 4 HD | 88190 | [88190-bloons-td-4-hd.json](./88190-bloons-td-4-hd.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloons TD 6: Frontier Legends | 381278 | [381278-bloons-td-6-frontier-legends.json](./381278-bloons-td-6-frontier-legends.json) |
 | Bloons TD 6: Rogue Legends | 330334 | [330334-bloons-td-6-rogue-legends.json](./330334-bloons-td-6-rogue-legends.json) |
