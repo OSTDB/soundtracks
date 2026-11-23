@@ -8575,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoMon | 217083 | [217083-evomon.json](./217083-evomon.json) |
 | Evomon World | 418642 | [418642-evomon-world.json](./418642-evomon-world.json) |
 | Evons | 408718 | [408718-evons.json](./408718-evons.json) |
+| Evony | 77044 | [77044-evony.json](./77044-evony.json) |
 | Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | EvoPet | 250563 | [250563-evopet.json](./250563-evopet.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
