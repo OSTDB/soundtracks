@@ -13911,6 +13911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostasy | 104063 | [104063-apostasy.json](./104063-apostasy.json) |
 | Apostate | 240760 | [240760-apostate.json](./240760-apostate.json) |
 | Apostatic: Revenge From Hell | 115845 | [115845-apostatic-revenge-from-hell.json](./115845-apostatic-revenge-from-hell.json) |
+| Apostle | 115592 | [115592-apostle.json](./115592-apostle.json) |
 | Apostle 3D | 150358 | [150358-apostle-3d.json](./150358-apostle-3d.json) |
 | Apostle of Mustard | 425801 | [425801-apostle-of-mustard.json](./425801-apostle-of-mustard.json) |
 | Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
@@ -21471,6 +21472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis | 135931 | [135931-axis.json](./135931-axis.json) |
 | Axis & Allies | 77145 | [77145-axis-and-allies.json](./77145-axis-and-allies.json) |
 | Axis & Allies | 77146 | [77146-axis-and-allies.json](./77146-axis-and-allies.json) |
+| Axis & Allies 1942 Online | 116174 | [116174-axis-and-allies-1942-online.json](./116174-axis-and-allies-1942-online.json) |
 | Axis & Allies: Iron Blitz | 92771 | [92771-axis-and-allies-iron-blitz.json](./92771-axis-and-allies-iron-blitz.json) |
 | Axis and Allies | 24171 | [24171-axis-and-allies.json](./24171-axis-and-allies.json) |
 | Axis Assassin | 13808 | [13808-axis-assassin.json](./13808-axis-assassin.json) |
