@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Wars: Definitive Edition | 26183 | [26183-halo-wars-definitive-edition.json](./26183-halo-wars-definitive-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo Zero | 64606 | [64606-halo-zero.json](./64606-halo-zero.json) |
+| Halo: Campaign Evolved - Firefight Update | 429437 | [429437-halo-campaign-evolved-firefight-update.json](./429437-halo-campaign-evolved-firefight-update.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Halo: Combat Evolved VR | 324563 | [324563-halo-combat-evolved-vr.json](./324563-halo-combat-evolved-vr.json) |
@@ -8135,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Forest | 160272 | [160272-hidden-forest.json](./160272-hidden-forest.json) |
 | Hidden Foxes | 391340 | [391340-hidden-foxes.json](./391340-hidden-foxes.json) |
 | Hidden FPS Shooting Top-Down 3D | 302007 | [302007-hidden-fps-shooting-top-down-3d.json](./302007-hidden-fps-shooting-top-down-3d.json) |
+| Hidden Fringes: The Last Song - Collector's Edition | 429436 | [429436-hidden-fringes-the-last-song-collectors-edition.json](./429436-hidden-fringes-the-last-song-collectors-edition.json) |
 | Hidden Futa | 236287 | [236287-hidden-futa.json](./236287-hidden-futa.json) |
 | Hidden Garden | 63885 | [63885-hidden-garden.json](./63885-hidden-garden.json) |
 | Hidden Garden Fairies | 100883 | [100883-hidden-garden-fairies.json](./100883-hidden-garden-fairies.json) |
@@ -14843,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
 | Hypermarket Tycoon Manager | 243559 | [243559-hypermarket-tycoon-manager.json](./243559-hypermarket-tycoon-manager.json) |
+| Hypermarket: Sort & Stock | 429419 | [429419-hypermarket-sort-and-stock.json](./429419-hypermarket-sort-and-stock.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | HyperMoto | 427649 | [427649-hypermoto.json](./427649-hypermoto.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
