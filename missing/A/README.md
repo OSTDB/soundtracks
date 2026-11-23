@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Winter Haunting | 283956 | [283956-a-winter-haunting.json](./283956-a-winter-haunting.json) |
 | A Winter Story | 181085 | [181085-a-winter-story.json](./181085-a-winter-story.json) |
 | A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
+| A Wise Use of Time | 34579 | [34579-a-wise-use-of-time.json](./34579-a-wise-use-of-time.json) |
 | A Wish Star | 308887 | [308887-a-wish-star.json](./308887-a-wish-star.json) |
 | A Wish Upon A Star | 134711 | [134711-a-wish-upon-a-star.json](./134711-a-wish-upon-a-star.json) |
 | A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
@@ -5596,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Armor | 64269 | [64269-age-of-armor.json](./64269-age-of-armor.json) |
 | Age of Ascent | 139493 | [139493-age-of-ascent.json](./139493-age-of-ascent.json) |
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
+| Age of Barbarian Extended Cut | 34473 | [34473-age-of-barbarian-extended-cut.json](./34473-age-of-barbarian-extended-cut.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Bingo: World Tour | 256147 | [256147-age-of-bingo-world-tour.json](./256147-age-of-bingo-world-tour.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aku no Kyoukasho Textbook of Evil | 395099 | [395099-aku-no-kyoukasho-textbook-of-evil.json](./395099-aku-no-kyoukasho-textbook-of-evil.json) |
 | Aku Ryuu G* Gotoku: Legend of the Strongest | 83223 | [83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json](./83223-aku-ryuu-g-gotoku-legend-of-the-strongest.json) |
 | Akuarium | 147471 | [147471-akuarium.json](./147471-akuarium.json) |
+| Akuatica | 34497 | [34497-akuatica.json](./34497-akuatica.json) |
 | Akudaikan | 253751 | [253751-akudaikan.json](./253751-akudaikan.json) |
 | Akudaikan 2: Mousouden | 269332 | [269332-akudaikan-2-mousouden.json](./269332-akudaikan-2-mousouden.json) |
 | Akudaikan 3 | 269334 | [269334-akudaikan-3.json](./269334-akudaikan-3.json) |
