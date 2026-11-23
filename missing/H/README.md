@@ -10015,6 +10015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
 | Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
 | Ho Ho Ho Sokoban | 411131 | [411131-ho-ho-ho-sokoban.json](./411131-ho-ho-ho-sokoban.json) |
+| Ho Tu Lo Shu: The Books of Dragon | 110943 | [110943-ho-tu-lo-shu-the-books-of-dragon.json](./110943-ho-tu-lo-shu-the-books-of-dragon.json) |
 | Ho-Ho-Home Invasion | 141655 | [141655-ho-ho-home-invasion.json](./141655-ho-ho-home-invasion.json) |
 | Ho-Ho-Maze! | 340476 | [340476-ho-ho-maze.json](./340476-ho-ho-maze.json) |
 | Ho-Hop! | 368973 | [368973-ho-hop.json](./368973-ho-hop.json) |
@@ -13930,6 +13931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt and Fight | 291223 | [291223-hunt-and-fight.json](./291223-hunt-and-fight.json) |
 | Hunt and Hide | 175017 | [175017-hunt-and-hide.json](./175017-hunt-and-hide.json) |
 | Hunt and Peck | 425021 | [425021-hunt-and-peck.json](./425021-hunt-and-peck.json) |
+| Hunt and Snare | 111269 | [111269-hunt-and-snare.json](./111269-hunt-and-snare.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
 | Hunt Club On Stream | 398057 | [398057-hunt-club-on-stream.json](./398057-hunt-club-on-stream.json) |
@@ -14871,6 +14873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Deck Command | 287766 | [287766-hyperspace-deck-command.json](./287766-hyperspace-deck-command.json) |
 | Hyperspace Delivery Boy! | 69016 | [69016-hyperspace-delivery-boy.json](./69016-hyperspace-delivery-boy.json) |
 | Hyperspace Delivery Service | 103780 | [103780-hyperspace-delivery-service.json](./103780-hyperspace-delivery-service.json) |
+| Hyperspace Dogfights | 97931 | [97931-hyperspace-dogfights.json](./97931-hyperspace-dogfights.json) |
 | Hyperspace Harvest | 211010 | [211010-hyperspace-harvest.json](./211010-hyperspace-harvest.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
