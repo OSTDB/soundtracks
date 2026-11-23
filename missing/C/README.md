@@ -8515,6 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
 | Chikyu Kaimetsu teki B-kyu Kanojo | 63341 | [63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json](./63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json) |
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
+| Chikyuu Boueigun | 429318 | [429318-chikyuu-boueigun.json](./429318-chikyuu-boueigun.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | Chikyuu no Arukikata DS: England '07-'08 | 269805 | [269805-chikyuu-no-arukikata-ds-england-07-08.json](./269805-chikyuu-no-arukikata-ds-england-07-08.json) |
 | Chikyuu no Arukikata DS: France '07-'08 | 269806 | [269806-chikyuu-no-arukikata-ds-france-07-08.json](./269806-chikyuu-no-arukikata-ds-france-07-08.json) |
@@ -9646,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Cross | 319403 | [319403-chroma-cross.json](./319403-chroma-cross.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
+| Chroma Knight | 429329 | [429329-chroma-knight.json](./429329-chroma-knight.json) |
 | Chroma Lab | 51382 | [51382-chroma-lab.json](./51382-chroma-lab.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
@@ -12920,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoasterMania | 253164 | [253164-coastermania.json](./253164-coastermania.json) |
 | CoasterWorks | 429576 | [429576-coasterworks.json](./429576-coasterworks.json) |
 | Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
+| Coasting | 429308 | [429308-coasting.json](./429308-coasting.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
 | Coastline Survival | 236556 | [236556-coastline-survival.json](./236556-coastline-survival.json) |
@@ -22336,6 +22339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube's Kaizo World 2 | 338842 | [338842-cubes-kaizo-world-2.json](./338842-cubes-kaizo-world-2.json) |
 | Cube's Kaizo World 3 | 338843 | [338843-cubes-kaizo-world-3.json](./338843-cubes-kaizo-world-3.json) |
 | Cube's Kaizo World 4 | 338844 | [338844-cubes-kaizo-world-4.json](./338844-cubes-kaizo-world-4.json) |
+| Cube's Quest | 429324 | [429324-cubes-quest.json](./429324-cubes-quest.json) |
 | Cube1 vs. Cube2 | 364737 | [364737-cube1-vs-cube2.json](./364737-cube1-vs-cube2.json) |
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
 | Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
