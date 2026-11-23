@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T03:25:56.424Z",
-  "total_soundtracks": 3919,
+  "generated_at": "2026-11-23T03:55:55.210Z",
+  "total_soundtracks": 3920,
   "games": [
     {
       "igdb_id": 292844,
@@ -43867,6 +43867,20 @@
         {
           "album_name": "The Lord of the Rings: Adventure Card Game (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/70icfdfx3i3LVvzLLFDEI4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111724,
+      "game_name": "The Lost Legends of Redwall: Escape the Gloomer",
+      "game_url": "https://ostdb.net/games/the-lost-legends-of-redwall-escape-the-gloomer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ec0d1c6e5ec555fc0238a42c",
+      "albums": [
+        {
+          "album_name": "the Lost Legends of Redwall: Escape the Gloomer (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7xyOQ2eB0lkVEYe0PqUFir",
           "apple_music_url": "",
           "album_link_url": ""
         }
