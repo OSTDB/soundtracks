@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-D Warriors | 39453 | [39453-4-d-warriors.json](./39453-4-d-warriors.json) |
 | 4-in-1 Award Winning Indie Gems | 331453 | [331453-4-in-1-award-winning-indie-gems.json](./331453-4-in-1-award-winning-indie-gems.json) |
 | 4-In-1 Electronic Computer Games | 245576 | [245576-4-in-1-electronic-computer-games.json](./245576-4-in-1-electronic-computer-games.json) |
+| 4-in-1 Funpak Volume II | 93553 | [93553-4-in-1-funpak-volume-ii.json](./93553-4-in-1-funpak-volume-ii.json) |
 | 4-in-1 IQ Scale Bundle | 82532 | [82532-4-in-1-iq-scale-bundle.json](./82532-4-in-1-iq-scale-bundle.json) |
 | 4-in-1 Version 1 | 106313 | [106313-4-in-1-version-1.json](./106313-4-in-1-version-1.json) |
 | 4-in-1 Version 2 | 106314 | [106314-4-in-1-version-2.json](./106314-4-in-1-version-2.json) |
