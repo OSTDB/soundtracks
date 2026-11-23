@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeny Tiny Town | 255045 | [255045-teeny-tiny-town.json](./255045-teeny-tiny-town.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeny Tiny Trains: The Enchanted Attic | 357286 | [357286-teeny-tiny-trains-the-enchanted-attic.json](./357286-teeny-tiny-trains-the-enchanted-attic.json) |
+| Teeny Titans: Teen Titans Go! | 38941 | [38941-teeny-titans-teen-titans-go.json](./38941-teeny-titans-teen-titans-go.json) |
 | Teenyshire | 274004 | [274004-teenyshire.json](./274004-teenyshire.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeter | 324975 | [324975-teeter.json](./324975-teeter.json) |
@@ -7565,6 +7566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Bass | 81527 | [81527-the-black-bass.json](./81527-the-black-bass.json) |
 | The Black Cat Magician | 187400 | [187400-the-black-cat-magician.json](./187400-the-black-cat-magician.json) |
 | The Black Cauldron | 11963 | [11963-the-black-cauldron.json](./11963-the-black-cauldron.json) |
+| The Black Death | 34155 | [34155-the-black-death.json](./34155-the-black-death.json) |
 | The Black Door | 249843 | [249843-the-black-door.json](./249843-the-black-door.json) |
 | The Black Eyed Peas Experience | 3302 | [3302-the-black-eyed-peas-experience.json](./3302-the-black-eyed-peas-experience.json) |
 | The Black Fog | 271853 | [271853-the-black-fog.json](./271853-the-black-fog.json) |
@@ -12731,6 +12733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Huntsman: Winter's Curse (Book 3) | 164438 | [164438-the-huntsman-winters-curse-book-3.json](./164438-the-huntsman-winters-curse-book-3.json) |
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
 | The Huntsman: Winter's Curse (Book 5) | 164440 | [164440-the-huntsman-winters-curse-book-5.json](./164440-the-huntsman-winters-curse-book-5.json) |
+| The Hurricane of the Varstray: Collateral hazard | 34088 | [34088-the-hurricane-of-the-varstray-collateral-hazard.json](./34088-the-hurricane-of-the-varstray-collateral-hazard.json) |
 | The Hurricane of the Varstray: Threat of Third Force | 171717 | [171717-the-hurricane-of-the-varstray-threat-of-third-force.json](./171717-the-hurricane-of-the-varstray-threat-of-third-force.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hust Banhmi | 410628 | [410628-the-hust-banhmi.json](./410628-the-hust-banhmi.json) |
@@ -18278,6 +18281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Rivers of Alice: Extended Version | 34183 | [34183-the-rivers-of-alice-extended-version.json](./34183-the-rivers-of-alice-extended-version.json) |
 | The Riverside Incident | 125266 | [125266-the-riverside-incident.json](./125266-the-riverside-incident.json) |
 | The Roach Hotel | 371857 | [371857-the-roach-hotel.json](./371857-the-roach-hotel.json) |
 | The Roach Hotel: Chapter 2 | 412903 | [412903-the-roach-hotel-chapter-2.json](./412903-the-roach-hotel-chapter-2.json) |
@@ -36878,6 +36882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
 | True Love's Curse | 389825 | [389825-true-loves-curse.json](./389825-true-loves-curse.json) |
+| True Lover's Knot | 34095 | [34095-true-lovers-knot.json](./34095-true-lovers-knot.json) |
 | True Magician | 190330 | [190330-true-magician.json](./190330-true-magician.json) |
 | True Matrix Total Conversion | 218654 | [218654-true-matrix-total-conversion.json](./218654-true-matrix-total-conversion.json) |
 | True Maze Defiance | 250538 | [250538-true-maze-defiance.json](./250538-true-maze-defiance.json) |
@@ -37722,6 +37727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
 | Turbo Prop Racing | 44925 | [44925-turbo-prop-racing.json](./44925-turbo-prop-racing.json) |
+| Turbo Pug | 34074 | [34074-turbo-pug.json](./34074-turbo-pug.json) |
 | Turbo Pug 3D | 31301 | [31301-turbo-pug-3d.json](./31301-turbo-pug-3d.json) |
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
