@@ -21935,6 +21935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wheel of Fortune | 182396 | [182396-the-wheel-of-fortune.json](./182396-the-wheel-of-fortune.json) |
 | The Wheel of Time | 901 | [901-the-wheel-of-time.json](./901-the-wheel-of-time.json) |
 | The Wheelchair Man | 405965 | [405965-the-wheelchair-man.json](./405965-the-wheelchair-man.json) |
+| The Wheelchair Man 2 | 423420 | [423420-the-wheelchair-man-2.json](./423420-the-wheelchair-man-2.json) |
 | The Wheels of Lull | 322469 | [322469-the-wheels-of-lull.json](./322469-the-wheels-of-lull.json) |
 | The Whims of the Gods | 300785 | [300785-the-whims-of-the-gods.json](./300785-the-whims-of-the-gods.json) |
 | The Whisker Watch | 368049 | [368049-the-whisker-watch.json](./368049-the-whisker-watch.json) |
@@ -24377,6 +24378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
 | Tidy Tails | 424805 | [424805-tidy-tails.json](./424805-tidy-tails.json) |
+| Tidy Tech | 423415 | [423415-tidy-tech.json](./423415-tidy-tech.json) |
 | Tidy Tidy | 407034 | [407034-tidy-tidy.json](./407034-tidy-tidy.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Town | 425344 | [425344-tidy-town.json](./425344-tidy-town.json) |
@@ -34656,7 +34658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transporter the Rescue | 92434 | [92434-transporter-the-rescue.json](./92434-transporter-the-rescue.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
 | Transports | 83896 | [83896-transports.json](./83896-transports.json) |
-| Transpose | 109417 | [109417-transpose.json](./109417-transpose.json) |
 | Transputer Man | 85958 | [85958-transputer-man.json](./85958-transputer-man.json) |
 | Transregnum | 338950 | [338950-transregnum.json](./338950-transregnum.json) |
 | TransRoad: USA | 36614 | [36614-transroad-usa.json](./36614-transroad-usa.json) |
