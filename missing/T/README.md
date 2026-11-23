@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Drift: Wild Run Car Racing | 257006 | [257006-tap-drift-wild-run-car-racing.json](./257006-tap-drift-wild-run-car-racing.json) |
 | Tap Duels Tournament | 106806 | [106806-tap-duels-tournament.json](./106806-tap-duels-tournament.json) |
 | Tap Empire | 110042 | [110042-tap-empire.json](./110042-tap-empire.json) |
+| Tap Farm | 428668 | [428668-tap-farm.json](./428668-tap-farm.json) |
 | Tap Football Star! 20-21 | 174014 | [174014-tap-football-star-20-21.json](./174014-tap-football-star-20-21.json) |
 | Tap Force | 214671 | [214671-tap-force.json](./214671-tap-force.json) |
 | Tap Gun | 247436 | [247436-tap-gun.json](./247436-tap-gun.json) |
@@ -13950,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Element | 385288 | [385288-the-last-element.json](./385288-the-last-element.json) |
 | The Last Element: Looking For Tomorrow | 156818 | [156818-the-last-element-looking-for-tomorrow.json](./156818-the-last-element-looking-for-tomorrow.json) |
 | The Last Elf | 414786 | [414786-the-last-elf.json](./414786-the-last-elf.json) |
+| The Last Enlightened | 428664 | [428664-the-last-enlightened.json](./428664-the-last-enlightened.json) |
 | The Last Errant | 396934 | [396934-the-last-errant.json](./396934-the-last-errant.json) |
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
 | The Last Escape | 235581 | [235581-the-last-escape.json](./235581-the-last-escape.json) |
@@ -20209,6 +20211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
+| The Swarm | 428096 | [428096-the-swarm.json](./428096-the-swarm.json) |
 | The Swarm 2 | 356199 | [356199-the-swarm-2.json](./356199-the-swarm-2.json) |
 | The Swarm is Coming | 311674 | [311674-the-swarm-is-coming.json](./311674-the-swarm-is-coming.json) |
 | The Swashbugglers | 388910 | [388910-the-swashbugglers.json](./388910-the-swashbugglers.json) |
@@ -26391,6 +26394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Till Midnight | 352048 | [352048-till-midnight.json](./352048-till-midnight.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
+| Tillandsia | 428082 | [428082-tillandsia.json](./428082-tillandsia.json) |
 | Tilligence | 185022 | [185022-tilligence.json](./185022-tilligence.json) |
 | Tilt | 100102 | [100102-tilt.json](./100102-tilt.json) |
 | Tilt | 197294 | [197294-tilt.json](./197294-tilt.json) |
@@ -36799,6 +36803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
 | Truck Up: Catch Me If You Can | 338499 | [338499-truck-up-catch-me-if-you-can.json](./338499-truck-up-catch-me-if-you-can.json) |
 | Truck World: Australia | 227320 | [227320-truck-world-australia.json](./227320-truck-world-australia.json) |
+| Truck World: Australia - Paint Jobs Pack 1 | 428665 | [428665-truck-world-australia-paint-jobs-pack-1.json](./428665-truck-world-australia-paint-jobs-pack-1.json) |
 | Truck World: Driving School | 211709 | [211709-truck-world-driving-school.json](./211709-truck-world-driving-school.json) |
 | Truck Zombie | 109920 | [109920-truck-zombie.json](./109920-truck-zombie.json) |
 | Trucked | 232292 | [232292-trucked.json](./232292-trucked.json) |
