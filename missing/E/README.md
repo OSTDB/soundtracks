@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Gnomes | 102701 | [102701-empire-of-gnomes.json](./102701-empire-of-gnomes.json) |
 | Empire of Karn | 70249 | [70249-empire-of-karn.json](./70249-empire-of-karn.json) |
 | Empire of Lust | 345287 | [345287-empire-of-lust.json](./345287-empire-of-lust.json) |
+| Empire of Magic | 23699 | [23699-empire-of-magic.json](./23699-empire-of-magic.json) |
 | Empire of Night | 205147 | [205147-empire-of-night.json](./205147-empire-of-night.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
 | Empire of Sin: Day One Edition | 176888 | [176888-empire-of-sin-day-one-edition.json](./176888-empire-of-sin-day-one-edition.json) |
@@ -4280,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enders Project | 65113 | [65113-enders-project.json](./65113-enders-project.json) |
 | Endersite | 98765 | [98765-endersite.json](./98765-endersite.json) |
 | Endgame | 228970 | [228970-endgame.json](./228970-endgame.json) |
+| Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
 | Endgame | 401236 | [401236-endgame.json](./401236-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
@@ -6567,6 +6569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Unknown | 201602 | [201602-escape-the-unknown.json](./201602-escape-the-unknown.json) |
 | Escape the Unknown: Awaken the Realm | 243856 | [243856-escape-the-unknown-awaken-the-realm.json](./243856-escape-the-unknown-awaken-the-realm.json) |
 | Escape the Virus: Shoot 'Em Up! | 85119 | [85119-escape-the-virus-shoot-em-up.json](./85119-escape-the-virus-shoot-em-up.json) |
+| Escape the Virus: Swarm Survival | 23678 | [23678-escape-the-virus-swarm-survival.json](./23678-escape-the-virus-swarm-survival.json) |
 | Escape the Void | 183920 | [183920-escape-the-void.json](./183920-escape-the-void.json) |
 | Escape the Void | 296681 | [296681-escape-the-void.json](./296681-escape-the-void.json) |
 | Escape the Void | 380332 | [380332-escape-the-void.json](./380332-escape-the-void.json) |
@@ -8032,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Depths of Darkhollow | 74025 | [74025-everquest-depths-of-darkhollow.json](./74025-everquest-depths-of-darkhollow.json) |
 | EverQuest: Dragons of Norrath | 24254 | [24254-everquest-dragons-of-norrath.json](./24254-everquest-dragons-of-norrath.json) |
 | EverQuest: Empires of Kunark | 57453 | [57453-everquest-empires-of-kunark.json](./57453-everquest-empires-of-kunark.json) |
+| EverQuest: Evolution | 23746 | [23746-everquest-evolution.json](./23746-everquest-evolution.json) |
 | EverQuest: Gates of Discord | 24240 | [24240-everquest-gates-of-discord.json](./24240-everquest-gates-of-discord.json) |
 | EverQuest: Gold Edition | 209221 | [209221-everquest-gold-edition.json](./209221-everquest-gold-edition.json) |
 | EverQuest: House of Thule | 66459 | [66459-everquest-house-of-thule.json](./66459-everquest-house-of-thule.json) |
