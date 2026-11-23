@@ -4342,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Gear 4 Tuned | 323668 | [323668-battle-gear-4-tuned.json](./323668-battle-gear-4-tuned.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
 | Battle Girl High School | 80692 | [80692-battle-girl-high-school.json](./80692-battle-girl-high-school.json) |
+| Battle Girls | 34405 | [34405-battle-girls.json](./34405-battle-girls.json) |
 | Battle Golf | 233922 | [233922-battle-golf.json](./233922-battle-golf.json) |
 | Battle Golf Online | 90703 | [90703-battle-golf-online.json](./90703-battle-golf-online.json) |
 | Battle Golfer Yui | 4470 | [4470-battle-golfer-yui.json](./4470-battle-golfer-yui.json) |
@@ -8089,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Divinity | 9781 | [9781-beyond-divinity.json](./9781-beyond-divinity.json) |
 | Beyond Doors | 283992 | [283992-beyond-doors.json](./283992-beyond-doors.json) |
 | Beyond Dreams | 192681 | [192681-beyond-dreams.json](./192681-beyond-dreams.json) |
+| Beyond Eden | 37397 | [37397-beyond-eden.json](./37397-beyond-eden.json) |
 | Beyond Eden: Dear Edward | 161444 | [161444-beyond-eden-dear-edward.json](./161444-beyond-eden-dear-edward.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines 2 Online | 128112 | [128112-beyond-enemy-lines-2-online.json](./128112-beyond-enemy-lines-2-online.json) |
@@ -12200,6 +12202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Strategy | 271879 | [271879-block-strategy.json](./271879-block-strategy.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
 | Block Sumo | 157237 | [157237-block-sumo.json](./157237-block-sumo.json) |
+| Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
 | Block Tower Online | 206414 | [206414-block-tower-online.json](./206414-block-tower-online.json) |
 | Block Tower TD | 250683 | [250683-block-tower-td.json](./250683-block-tower-td.json) |
