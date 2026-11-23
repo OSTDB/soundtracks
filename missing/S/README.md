@@ -12560,6 +12560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Moonlight | 267133 | [267133-silver-moonlight.json](./267133-silver-moonlight.json) |
 | Silver Night's Crusaders | 140697 | [140697-silver-nights-crusaders.json](./140697-silver-nights-crusaders.json) |
 | Silver Nights: Browser edition | 184327 | [184327-silver-nights-browser-edition.json](./184327-silver-nights-browser-edition.json) |
+| Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
 | Silver Pines | 313597 | [313597-silver-pines.json](./313597-silver-pines.json) |
 | Silver Pines: Deluxe Edition | 427239 | [427239-silver-pines-deluxe-edition.json](./427239-silver-pines-deluxe-edition.json) |
@@ -19273,6 +19274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solenars Edge Heroes | 97033 | [97033-solenars-edge-heroes.json](./97033-solenars-edge-heroes.json) |
 | Solenars Edge II: Aurora of The Seventh Dawn | 133182 | [133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json](./133182-solenars-edge-ii-aurora-of-the-seventh-dawn.json) |
 | Solenars Edge II: Champions | 172233 | [172233-solenars-edge-ii-champions.json](./172233-solenars-edge-ii-champions.json) |
+| Solenars Edge Rebirth | 50759 | [50759-solenars-edge-rebirth.json](./50759-solenars-edge-rebirth.json) |
 | Solenars Edge Rebirth: After Story | 174173 | [174173-solenars-edge-rebirth-after-story.json](./174173-solenars-edge-rebirth-after-story.json) |
 | Solendara | 297980 | [297980-solendara.json](./297980-solendara.json) |
 | Solene's Spin Story | 349219 | [349219-solenes-spin-story.json](./349219-solenes-spin-story.json) |
@@ -33289,6 +33291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
 | Strong Bad's Cool Game for Attractive People Episode 4: Dangeresque 3 - The Criminal Projective | 81242 | [81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json](./81242-strong-bads-cool-game-for-attractive-people-episode-4-dangeresque-3-the-criminal-projective.json) |
+| Strong Bad's Cool Game for Attractive People Episode 5: 8-Bit is Enough | 50173 | [50173-strong-bads-cool-game-for-attractive-people-episode-5-8-bit-is-enough.json](./50173-strong-bads-cool-game-for-attractive-people-episode-5-8-bit-is-enough.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Buy Strong Sell | 324994 | [324994-strong-buy-strong-sell.json](./324994-strong-buy-strong-sell.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
