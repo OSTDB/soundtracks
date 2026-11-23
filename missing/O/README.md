@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Toast | 350936 | [350936-one-last-toast.json](./350936-one-last-toast.json) |
 | One Last Try | 219627 | [219627-one-last-try.json](./219627-one-last-try.json) |
 | One Late Night | 61397 | [61397-one-late-night.json](./61397-one-late-night.json) |
+| One Late Night: Deadline | 28579 | [28579-one-late-night-deadline.json](./28579-one-late-night-deadline.json) |
 | One Late Night: Mobile | 102625 | [102625-one-late-night-mobile.json](./102625-one-late-night-mobile.json) |
 | One Leaves | 123264 | [123264-one-leaves.json](./123264-one-leaves.json) |
 | One Left | 184458 | [184458-one-left.json](./184458-one-left.json) |
