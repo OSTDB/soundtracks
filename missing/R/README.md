@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rec Room | 32617 | [32617-rec-room.json](./32617-rec-room.json) |
 | Rec Room Games | 84360 | [84360-rec-room-games.json](./84360-rec-room-games.json) |
 | Rec: Beyond The Lens | 255957 | [255957-rec-beyond-the-lens.json](./255957-rec-beyond-the-lens.json) |
+| Rec:Rewind | 428936 | [428936-rec-rewind.json](./428936-rec-rewind.json) |
 | Recalcitrant | 326273 | [326273-recalcitrant.json](./326273-recalcitrant.json) |
 | Recalhorn | 257330 | [257330-recalhorn.json](./257330-recalhorn.json) |
 | Recall | 154397 | [154397-recall.json](./154397-recall.json) |
@@ -5996,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent a Girl | 350491 | [350491-rent-a-girl.json](./350491-rent-a-girl.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
 | Rent Due | 424814 | [424814-rent-due.json](./424814-rent-due.json) |
+| Rent Out Together | 428863 | [428863-rent-out-together.json](./428863-rent-out-together.json) |
 | Rent Please!: Landlord Sim | 247214 | [247214-rent-please-landlord-sim.json](./247214-rent-please-landlord-sim.json) |
 | Rent-a-Girlfriend: Heroine All Stars | 188277 | [188277-rent-a-girlfriend-heroine-all-stars.json](./188277-rent-a-girlfriend-heroine-all-stars.json) |
 | Rent-A-Hero | 145509 | [145509-rent-a-hero.json](./145509-rent-a-hero.json) |
@@ -7695,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reviver | 292583 | [292583-reviver.json](./292583-reviver.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revizor | 154593 | [154593-revizor.json](./154593-revizor.json) |
+| Revline | 429251 | [429251-revline.json](./429251-revline.json) |
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revload | 298188 | [298188-revload.json](./298188-revload.json) |
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
@@ -7839,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reynatis: Marin's "Another" Weapon | 317673 | [317673-reynatis-marins-another-weapon.json](./317673-reynatis-marins-another-weapon.json) |
 | Reynatis: Radiant Wizart DLC | 317668 | [317668-reynatis-radiant-wizart-dlc.json](./317668-reynatis-radiant-wizart-dlc.json) |
 | Reynatis: Ultimate Wizard Bundle | 317289 | [317289-reynatis-ultimate-wizard-bundle.json](./317289-reynatis-ultimate-wizard-bundle.json) |
+| Reypunk: An Eye for an Eye | 429272 | [429272-reypunk-an-eye-for-an-eye.json](./429272-reypunk-an-eye-for-an-eye.json) |
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
@@ -9956,6 +9960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roasting Report: A Narcotics Murder | 154091 | [154091-roasting-report-a-narcotics-murder.json](./154091-roasting-report-a-narcotics-murder.json) |
 | Roasting Report: A Professor Murder | 204255 | [204255-roasting-report-a-professor-murder.json](./204255-roasting-report-a-professor-murder.json) |
 | Rob | 201674 | [201674-rob.json](./201674-rob.json) |
+| Rob & Go | 429248 | [429248-rob-and-go.json](./429248-rob-and-go.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
 | Rob and Dog: Puzzle Adventure | 422945 | [422945-rob-and-dog-puzzle-adventure.json](./422945-rob-and-dog-puzzle-adventure.json) |
 | Rob Blanc I: Better Days of a Defender of the Universe | 171551 | [171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json](./171551-rob-blanc-i-better-days-of-a-defender-of-the-universe.json) |
