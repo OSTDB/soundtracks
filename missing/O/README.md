@@ -5927,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoor Life: Sportsman's Challenge | 208774 | [208774-outdoor-life-sportsmans-challenge.json](./208774-outdoor-life-sportsmans-challenge.json) |
 | Outdoor Trivia Challenge | 70355 | [70355-outdoor-trivia-challenge.json](./70355-outdoor-trivia-challenge.json) |
 | Outdoor Wine Market Simulator | 420323 | [420323-outdoor-wine-market-simulator.json](./420323-outdoor-wine-market-simulator.json) |
+| Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | Outdoorsman Mania | 72184 | [72184-outdoorsman-mania.json](./72184-outdoorsman-mania.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
