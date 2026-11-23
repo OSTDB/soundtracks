@@ -8836,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip & Sparky | 303731 | [303731-chip-and-sparky.json](./303731-chip-and-sparky.json) |
 | Chip and Charge | 289208 | [289208-chip-and-charge.json](./289208-chip-and-charge.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
+| Chip Builder | 428154 | [428154-chip-builder.json](./428154-chip-builder.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip by Chip | 374329 | [374329-chip-by-chip.json](./374329-chip-by-chip.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -20711,6 +20712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropped | 201465 | [201465-cropped.json](./201465-cropped.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
+| Crops & Coops | 428623 | [428623-crops-and-coops.json](./428623-crops-and-coops.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
 | Crops! | 292960 | [292960-crops.json](./292960-crops.json) |
 | Cropshots | 185009 | [185009-cropshots.json](./185009-cropshots.json) |
@@ -23560,6 +23562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutset | 424902 | [424902-cutset.json](./424902-cutset.json) |
+| Cutteridge Estate | 428635 | [428635-cutteridge-estate.json](./428635-cutteridge-estate.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
 | Cutthroat Cove | 166901 | [166901-cutthroat-cove.json](./166901-cutthroat-cove.json) |
 | Cutthroat Gunboat | 51419 | [51419-cutthroat-gunboat.json](./51419-cutthroat-gunboat.json) |
