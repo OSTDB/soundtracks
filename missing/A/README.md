@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Baker's Dungeon | 423363 | [423363-a-bakers-dungeon.json](./423363-a-bakers-dungeon.json) |
 | A Balanced Brew | 209085 | [209085-a-balanced-brew.json](./209085-a-balanced-brew.json) |
 | A Ball Id | 365938 | [365938-a-ball-id.json](./365938-a-ball-id.json) |
+| A Ballad of Grief | 426896 | [426896-a-ballad-of-grief.json](./426896-a-ballad-of-grief.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bandit | 386720 | [386720-a-bandit.json](./386720-a-bandit.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
@@ -2444,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above & Below | 52289 | [52289-above-and-below.json](./52289-above-and-below.json) |
 | Above Average Guy | 408821 | [408821-above-average-guy.json](./408821-above-average-guy.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
+| Above Dead Ground | 426902 | [426902-above-dead-ground.json](./426902-above-dead-ground.json) |
 | Above Eden | 400942 | [400942-above-eden.json](./400942-above-eden.json) |
 | Above Land: Rhapsody | 399971 | [399971-above-land-rhapsody.json](./399971-above-land-rhapsody.json) |
 | Above Snakes | 150562 | [150562-above-snakes.json](./150562-above-snakes.json) |
@@ -6187,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Drone Simulator | 148603 | [148603-ai-drone-simulator.json](./148603-ai-drone-simulator.json) |
 | AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
+| AI Empire Tycoon | 426887 | [426887-ai-empire-tycoon.json](./426887-ai-empire-tycoon.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
 | AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
@@ -7351,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuno Puzzle | 97775 | [97775-akuno-puzzle.json](./97775-akuno-puzzle.json) |
 | Akupara Collection | 324009 | [324009-akupara-collection.json](./324009-akupara-collection.json) |
 | Akupara Hidden Gems | 427124 | [427124-akupara-hidden-gems.json](./427124-akupara-hidden-gems.json) |
+| Akupara Multi-Sided Monsters | 426907 | [426907-akupara-multi-sided-monsters.json](./426907-akupara-multi-sided-monsters.json) |
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
 | Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
@@ -10378,6 +10382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American VR Coasters | 44218 | [44218-american-vr-coasters.json](./44218-american-vr-coasters.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americana Dawn | 65007 | [65007-americana-dawn.json](./65007-americana-dawn.json) |
+| Americana: The Dead Years | 426903 | [426903-americana-the-dead-years.json](./426903-americana-the-dead-years.json) |
 | Americania | 398831 | [398831-americania.json](./398831-americania.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
@@ -11357,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
 | Angel Legion: Lil Lily - Purple | 249509 | [249509-angel-legion-lil-lily-purple.json](./249509-angel-legion-lil-lily-purple.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
+| Angel Legion: Oriental Allure A | 427517 | [427517-angel-legion-oriental-allure-a.json](./427517-angel-legion-oriental-allure-a.json) |
 | Angel Legion: Secret Gift - Cyan | 331633 | [331633-angel-legion-secret-gift-cyan.json](./331633-angel-legion-secret-gift-cyan.json) |
 | Angel Legion: Secret Gift - Green | 302567 | [302567-angel-legion-secret-gift-green.json](./302567-angel-legion-secret-gift-green.json) |
 | Angel Legion: Secret Gift - Orange | 302570 | [302570-angel-legion-secret-gift-orange.json](./302570-angel-legion-secret-gift-orange.json) |
@@ -14277,7 +14283,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarist | 192478 | [192478-aquarist.json](./192478-aquarist.json) |
 | Aquarist Simulator VR | 216378 | [216378-aquarist-simulator-vr.json](./216378-aquarist-simulator-vr.json) |
 | Aquarist: American Fish DLC | 372367 | [372367-aquarist-american-fish-dlc.json](./372367-aquarist-american-fish-dlc.json) |
+| Aquarist: Aquatic Supermarket DLC | 426909 | [426909-aquarist-aquatic-supermarket-dlc.json](./426909-aquarist-aquatic-supermarket-dlc.json) |
+| Aquarist: Arctic DLC | 426916 | [426916-aquarist-arctic-dlc.json](./426916-aquarist-arctic-dlc.json) |
+| Aquarist: Asian Fish DLC | 426908 | [426908-aquarist-asian-fish-dlc.json](./426908-aquarist-asian-fish-dlc.json) |
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
+| Aquarist: Laboratory DLC | 426915 | [426915-aquarist-laboratory-dlc.json](./426915-aquarist-laboratory-dlc.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 257196 | [257196-aquarium.json](./257196-aquarium.json) |
 | Aquarium | 75301 | [75301-aquarium.json](./75301-aquarium.json) |
