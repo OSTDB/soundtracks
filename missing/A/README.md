@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
 | A.N.N.E. | 8639 | [8639-a-n-n-e.json](./8639-a-n-n-e.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
+| A.N.S.I.A. | 428624 | [428624-a-n-s-i-a.json](./428624-a-n-s-i-a.json) |
 | A.P.B. | 288029 | [288029-a-p-b.json](./288029-a-p-b.json) |
 | A.R.A. Astro Rescue Alliance | 402083 | [402083-a-r-a-astro-rescue-alliance.json](./402083-a-r-a-astro-rescue-alliance.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
@@ -14551,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARCA-102 | 342290 | [342290-arca-102.json](./342290-arca-102.json) |
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcabbit | 363172 | [363172-arcabbit.json](./363172-arcabbit.json) |
+| ArcaChess | 428618 | [428618-arcachess.json](./428618-arcachess.json) |
 | Arcade | 173884 | [173884-arcade.json](./173884-arcade.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
 | Arcade & Motel Simulator Together | 423052 | [423052-arcade-and-motel-simulator-together.json](./423052-arcade-and-motel-simulator-together.json) |
@@ -16272,6 +16274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Survival of the Fittest | 24412 | [24412-ark-survival-of-the-fittest.json](./24412-ark-survival-of-the-fittest.json) |
 | Ark: The Center | 169335 | [169335-ark-the-center.json](./169335-ark-the-center.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
+| Ark: Tides of Fortune | 428619 | [428619-ark-tides-of-fortune.json](./428619-ark-tides-of-fortune.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Ark: Valguero Ascended | 377895 | [377895-ark-valguero-ascended.json](./377895-ark-valguero-ascended.json) |
 | Ark's Wonder Dungeon | 321588 | [321588-arks-wonder-dungeon.json](./321588-arks-wonder-dungeon.json) |
