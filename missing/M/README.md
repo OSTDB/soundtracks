@@ -17155,6 +17155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mòfǎ Xiānlù | 117391 | [117391-mofa-xianlu.json](./117391-mofa-xianlu.json) |
 | Moff Pac-Man | 214362 | [214362-moff-pac-man.json](./214362-moff-pac-man.json) |
 | Mofina Island | 230889 | [230889-mofina-island.json](./230889-mofina-island.json) |
+| Mofukeshi! | 429414 | [429414-mofukeshi.json](./429414-mofukeshi.json) |
 | Mofumofu Sensen | 205013 | [205013-mofumofu-sensen.json](./205013-mofumofu-sensen.json) |
 | Moga TD | 427882 | [427882-moga-td.json](./427882-moga-td.json) |
 | Moge | 422125 | [422125-moge.json](./422125-moge.json) |
@@ -22728,6 +22729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
 | MushrooMonster | 161502 | [161502-mushroomonster.json](./161502-mushroomonster.json) |
+| Mushrooms and Chill | 431028 | [431028-mushrooms-and-chill.json](./431028-mushrooms-and-chill.json) |
 | Mushrooms vs Engineers | 402068 | [402068-mushrooms-vs-engineers.json](./402068-mushrooms-vs-engineers.json) |
 | Mushrooms vs. Goombas | 294534 | [294534-mushrooms-vs-goombas.json](./294534-mushrooms-vs-goombas.json) |
 | Mushrooms: Forest Walker | 81792 | [81792-mushrooms-forest-walker.json](./81792-mushrooms-forest-walker.json) |
@@ -24316,6 +24318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Only Sunshine | 122152 | [122152-my-only-sunshine.json](./122152-my-only-sunshine.json) |
 | My Otaku Academia | 190405 | [190405-my-otaku-academia.json](./190405-my-otaku-academia.json) |
 | My Otter Friends | 403809 | [403809-my-otter-friends.json](./403809-my-otter-friends.json) |
+| My Own Ego | 429434 | [429434-my-own-ego.json](./429434-my-own-ego.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Little Planet | 29249 | [29249-my-own-little-planet.json](./29249-my-own-little-planet.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
