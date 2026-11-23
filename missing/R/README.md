@@ -5778,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II | 228535 | [228535-remnant-ii.json](./228535-remnant-ii.json) |
 | Remnant II: Deluxe Edition | 252494 | [252494-remnant-ii-deluxe-edition.json](./252494-remnant-ii-deluxe-edition.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
+| Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
 | Remnant II: Ultimate Edition | 252495 | [252495-remnant-ii-ultimate-edition.json](./252495-remnant-ii-ultimate-edition.json) |
 | Remnant Knights | 65715 | [65715-remnant-knights.json](./65715-remnant-knights.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
@@ -7161,10 +7162,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
 | RetroRange | 220687 | [220687-retrorange.json](./220687-retrorange.json) |
+| RetroRealms Arcade | 317276 | [317276-retrorealms-arcade.json](./317276-retrorealms-arcade.json) |
 | RetroRealms Arcade: Ash vs. Evil Dead Add-On | 317683 | [317683-retrorealms-arcade-ash-vs-evil-dead-add-on.json](./317683-retrorealms-arcade-ash-vs-evil-dead-add-on.json) |
 | RetroRealms Arcade: Halloween Add-On | 317685 | [317685-retrorealms-arcade-halloween-add-on.json](./317685-retrorealms-arcade-halloween-add-on.json) |
 | RetroRealms Arcade: Kelly Maxwell | 317684 | [317684-retrorealms-arcade-kelly-maxwell.json](./317684-retrorealms-arcade-kelly-maxwell.json) |
 | RetroRealms Arcade: Laurie Strode | 317686 | [317686-retrorealms-arcade-laurie-strode.json](./317686-retrorealms-arcade-laurie-strode.json) |
+| RetroRealms Double Feature: Halloween + Ash vs. Evil Dead | 320204 | [320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json](./320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json) |
 | RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
 | RetroRealms: Halloween | 313489 | [313489-retrorealms-halloween.json](./313489-retrorealms-halloween.json) |
@@ -10258,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | Roboquest | 137894 | [137894-roboquest.json](./137894-roboquest.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
+| Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | Roboquest: Deluxe Edition | 335623 | [335623-roboquest-deluxe-edition.json](./335623-roboquest-deluxe-edition.json) |
 | RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
 | Roborazzi | 177124 | [177124-roborazzi.json](./177124-roborazzi.json) |
@@ -11553,6 +11557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Party | 108342 | [108342-rogue-party.json](./108342-rogue-party.json) |
 | Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
+| Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
 | Rogue Pirates | 372646 | [372646-rogue-pirates.json](./372646-rogue-pirates.json) |
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Planet | 397925 | [397925-rogue-planet.json](./397925-rogue-planet.json) |
