@@ -4158,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Lindwurm | 155347 | [155347-battle-brothers-lindwurm.json](./155347-battle-brothers-lindwurm.json) |
 | Battle Brothers: Of Flesh and Faith | 193130 | [193130-battle-brothers-of-flesh-and-faith.json](./193130-battle-brothers-of-flesh-and-faith.json) |
 | Battle Brothers: Warriors of the North | 124963 | [124963-battle-brothers-warriors-of-the-north.json](./124963-battle-brothers-warriors-of-the-north.json) |
+| Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bruise 2 | 123740 | [123740-battle-bruise-2.json](./123740-battle-bruise-2.json) |
 | Battle Bubbles | 92031 | [92031-battle-bubbles.json](./92031-battle-bubbles.json) |
 | Battle Buddies VR | 74142 | [74142-battle-buddies-vr.json](./74142-battle-buddies-vr.json) |
@@ -4623,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Record: Graizor | 272991 | [272991-battle-record-graizor.json](./272991-battle-record-graizor.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Recruits | 252564 | [252564-battle-recruits.json](./252564-battle-recruits.json) |
+| Battle Riders | 28281 | [28281-battle-riders.json](./28281-battle-riders.json) |
 | Battle Rift | 211428 | [211428-battle-rift.json](./211428-battle-rift.json) |
 | Battle Rivals | 234453 | [234453-battle-rivals.json](./234453-battle-rivals.json) |
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
