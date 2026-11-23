@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EggK47 | 31089 | [31089-eggk47.json](./31089-eggk47.json) |
 | Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
+| Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
 | Egglia: Legend of the Redcap Offline | 107144 | [107144-egglia-legend-of-the-redcap-offline.json](./107144-egglia-legend-of-the-redcap-offline.json) |
 | Egglien | 207493 | [207493-egglien.json](./207493-egglien.json) |
 | Egglings | 361848 | [361848-egglings.json](./361848-egglings.json) |
