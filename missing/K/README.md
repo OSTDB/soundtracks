@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiji VR: The Nightmare Bridge | 28359 | [28359-kaiji-vr-the-nightmare-bridge.json](./28359-kaiji-vr-the-nightmare-bridge.json) |
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
+| Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
 | Kaiju Busters | 85225 | [85225-kaiju-busters.json](./85225-kaiju-busters.json) |
 | Kaiju Catastrophe | 217331 | [217331-kaiju-catastrophe.json](./217331-kaiju-catastrophe.json) |
 | Kaiju Cleaner | 227048 | [227048-kaiju-cleaner.json](./227048-kaiju-cleaner.json) |
@@ -3774,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Game | 416752 | [416752-kings-game.json](./416752-kings-game.json) |
 | King's Game 2 | 416753 | [416753-kings-game-2.json](./416753-kings-game-2.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
+| King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
 | King's Hand | 231152 | [231152-kings-hand.json](./231152-kings-hand.json) |
 | King's Hand | 385375 | [385375-kings-hand.json](./385375-kings-hand.json) |
 | King's Hand: Exotic Purgatory Pack | 230919 | [230919-kings-hand-exotic-purgatory-pack.json](./230919-kings-hand-exotic-purgatory-pack.json) |
