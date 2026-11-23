@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Garegga | 46796 | [46796-battle-garegga.json](./46796-battle-garegga.json) |
 | Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
 | Battle Garegga Rev.2016: Premium Edition | 166996 | [166996-battle-garegga-rev-2016-premium-edition.json](./166996-battle-garegga-rev-2016-premium-edition.json) |
+| Battle Gaze | 426302 | [426302-battle-gaze.json](./426302-battle-gaze.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear | 286626 | [286626-battle-gear.json](./286626-battle-gear.json) |
 | Battle Gear | 57828 | [57828-battle-gear.json](./57828-battle-gear.json) |
@@ -7735,6 +7736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bessarabian Nightmares | 188690 | [188690-bessarabian-nightmares.json](./188690-bessarabian-nightmares.json) |
 | Besser Essen: Leben Leicht Gemacht | 269715 | [269715-besser-essen-leben-leicht-gemacht.json](./269715-besser-essen-leben-leicht-gemacht.json) |
 | Best Adventure 4-in-1 Bundle | 267152 | [267152-best-adventure-4-in-1-bundle.json](./267152-best-adventure-4-in-1-bundle.json) |
+| Best American Point-and-Click Adventury | 426307 | [426307-best-american-point-and-click-adventury.json](./426307-best-american-point-and-click-adventury.json) |
 | Best Bout Boxing | 38543 | [38543-best-bout-boxing.json](./38543-best-bout-boxing.json) |
 | Best Buds | 32464 | [32464-best-buds.json](./32464-best-buds.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -9486,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomotor Unitron | 43991 | [43991-biomotor-unitron.json](./43991-biomotor-unitron.json) |
+| Biomraid | 426311 | [426311-biomraid.json](./426311-biomraid.json) |
 | Biomutant: Atomic Edition | 136313 | [136313-biomutant-atomic-edition.json](./136313-biomutant-atomic-edition.json) |
 | Biomutant: Collector's Edition | 30392 | [30392-biomutant-collectors-edition.json](./30392-biomutant-collectors-edition.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
