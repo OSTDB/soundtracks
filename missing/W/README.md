@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Wars: the Final Conflict! | 98788 | [98788-wall-street-wars-the-final-conflict.json](./98788-wall-street-wars-the-final-conflict.json) |
 | Wall to Wall | 115142 | [115142-wall-to-wall.json](./115142-wall-to-wall.json) |
 | Wall to Wall | 188997 | [188997-wall-to-wall.json](./188997-wall-to-wall.json) |
+| Wall Town Wonders | 320625 | [320625-wall-town-wonders.json](./320625-wall-town-wonders.json) |
 | Wall Walker | 106311 | [106311-wall-walker.json](./106311-wall-walker.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
@@ -10441,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
+| Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | Wrathbreaker | 417856 | [417856-wrathbreaker.json](./417856-wrathbreaker.json) |
 | Wrathflame | 415557 | [415557-wrathflame.json](./415557-wrathflame.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
