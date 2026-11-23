@@ -9557,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Dick | 408952 | [408952-floppy-dick.json](./408952-floppy-dick.json) |
 | Floppy Disks from Hell | 236946 | [236946-floppy-disks-from-hell.json](./236946-floppy-disks-from-hell.json) |
+| Floppy Ear Chaos | 423429 | [423429-floppy-ear-chaos.json](./423429-floppy-ear-chaos.json) |
 | Floppy Fish | 402997 | [402997-floppy-fish.json](./402997-floppy-fish.json) |
 | Floppy Frenzy | 25137 | [25137-floppy-frenzy.json](./25137-floppy-frenzy.json) |
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
@@ -13064,7 +13065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragile Existence | 173020 | [173020-fragile-existence.json](./173020-fragile-existence.json) |
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
-| Fragile Fighter | 108327 | [108327-fragile-fighter.json](./108327-fragile-fighter.json) |
 | Fragile Frontier | 390372 | [390372-fragile-frontier.json](./390372-fragile-frontier.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Love | 275419 | [275419-fragile-love.json](./275419-fragile-love.json) |
@@ -14972,6 +14972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
 | Fruit Defense | 323079 | [323079-fruit-defense.json](./323079-fruit-defense.json) |
 | Fruit Drops Part II | 200219 | [200219-fruit-drops-part-ii.json](./200219-fruit-drops-part-ii.json) |
+| Fruit Escape: Physics Puzzle | 423419 | [423419-fruit-escape-physics-puzzle.json](./423419-fruit-escape-physics-puzzle.json) |
 | Fruit Factory | 149653 | [149653-fruit-factory.json](./149653-fruit-factory.json) |
 | Fruit Fall | 246333 | [246333-fruit-fall.json](./246333-fruit-fall.json) |
 | Fruit Fall | 57949 | [57949-fruit-fall.json](./57949-fruit-fall.json) |
