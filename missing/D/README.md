@@ -2611,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Keepers of the Void | 121155 | [121155-darksiders-iii-keepers-of-the-void.json](./121155-darksiders-iii-keepers-of-the-void.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Blades & Whip Franchise Pack | 155255 | [155255-darksiders-blades-and-whip-franchise-pack.json](./155255-darksiders-blades-and-whip-franchise-pack.json) |
+| Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Genesis - Nephilim Edition | 121201 | [121201-darksiders-genesis-nephilim-edition.json](./121201-darksiders-genesis-nephilim-edition.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | Darksite | 226024 | [226024-darksite.json](./226024-darksite.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Below | 31368 | [31368-deep-below.json](./31368-deep-below.json) |
 | Deep Beyond | 294490 | [294490-deep-beyond.json](./294490-deep-beyond.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
+| Deep Blue | 28748 | [28748-deep-blue.json](./28748-deep-blue.json) |
 | Deep Blue | 75524 | [75524-deep-blue.json](./75524-deep-blue.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
 | Deep Blue Odyssey | 244475 | [244475-deep-blue-odyssey.json](./244475-deep-blue-odyssey.json) |
@@ -10333,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Trying | 343205 | [343205-die-trying.json](./343205-die-trying.json) |
 | Die Türme von Hanoi | 93349 | [93349-die-turme-von-hanoi.json](./93349-die-turme-von-hanoi.json) |
 | Die ultimative Brettspiele-Sammlung: Die beliebtesten Brettspiele für die ganze Familie | 337723 | [337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json](./337723-die-ultimative-brettspiele-sammlung-die-beliebtesten-brettspiele-fur-die-ganze-familie.json) |
+| Die With Glory | 28357 | [28357-die-with-glory.json](./28357-die-with-glory.json) |
 | Die Wolf | 129635 | [129635-die-wolf.json](./129635-die-wolf.json) |
 | Die Young | 33758 | [33758-die-young.json](./33758-die-young.json) |
 | Die Young: Prologue | 118781 | [118781-die-young-prologue.json](./118781-die-young-prologue.json) |
@@ -20957,6 +20960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon CEO | 339576 | [339576-dungeon-ceo.json](./339576-dungeon-ceo.json) |
 | Dungeon Chamber | 296872 | [296872-dungeon-chamber.json](./296872-dungeon-chamber.json) |
 | Dungeon Chamber: Rogue | 296873 | [296873-dungeon-chamber-rogue.json](./296873-dungeon-chamber-rogue.json) |
+| Dungeon Chess | 28546 | [28546-dungeon-chess.json](./28546-dungeon-chess.json) |
 | Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Chronicle | 166889 | [166889-dungeon-chronicle.json](./166889-dungeon-chronicle.json) |
