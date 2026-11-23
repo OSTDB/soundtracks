@@ -6450,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nizero Shogi | 361584 | [361584-nizero-shogi.json](./361584-nizero-shogi.json) |
 | Nizhan Future | 290372 | [290372-nizhan-future.json](./290372-nizhan-future.json) |
 | Njorun's Will | 200930 | [200930-njoruns-will.json](./200930-njoruns-will.json) |
+| Njoy | 429401 | [429401-njoy.json](./429401-njoy.json) |
 | Njuma | 287740 | [287740-njuma.json](./287740-njuma.json) |
 | NKCell | 169816 | [169816-nkcell.json](./169816-nkcell.json) |
 | Nkodice | 150587 | [150587-nkodice.json](./150587-nkodice.json) |
@@ -7807,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Lights | 345534 | [345534-northern-lights.json](./345534-northern-lights.json) |
 | Northern Lights | 345535 | [345535-northern-lights.json](./345535-northern-lights.json) |
 | Northern Regime | 31875 | [31875-northern-regime.json](./31875-northern-regime.json) |
+| Northern Saga | 429312 | [429312-northern-saga.json](./429312-northern-saga.json) |
 | Northern Shadow | 9944 | [9944-northern-shadow.json](./9944-northern-shadow.json) |
 | Northern Song Dynasty | 304007 | [304007-northern-song-dynasty.json](./304007-northern-song-dynasty.json) |
 | Northern Tale | 34062 | [34062-northern-tale.json](./34062-northern-tale.json) |
@@ -7843,6 +7845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
 | Northland Heroes: The Missing Druid | 199705 | [199705-northland-heroes-the-missing-druid.json](./199705-northland-heroes-the-missing-druid.json) |
 | Northmen | 429037 | [429037-northmen.json](./429037-northmen.json) |
+| Northprey Massacre | 429395 | [429395-northprey-massacre.json](./429395-northprey-massacre.json) |
 | Northrealm Tribes | 281849 | [281849-northrealm-tribes.json](./281849-northrealm-tribes.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
