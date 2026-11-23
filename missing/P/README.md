@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Collection | 219433 | [219433-pac-man-collection.json](./219433-pac-man-collection.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
+| Pac-Man Collection | 80452 | [80452-pac-man-collection.json](./80452-pac-man-collection.json) |
 | Pac-Man Colour Handheld LCD Game | 219385 | [219385-pac-man-colour-handheld-lcd-game.json](./219385-pac-man-colour-handheld-lcd-game.json) |
 | Pac-Man Community | 234815 | [234815-pac-man-community.json](./234815-pac-man-community.json) |
 | Pac-Man Connect & Play | 219428 | [219428-pac-man-connect-and-play.json](./219428-pac-man-connect-and-play.json) |
@@ -5547,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Trainer Simulator | 192519 | [192519-personal-trainer-simulator.json](./192519-personal-trainer-simulator.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
 | Personal Trainer: Cooking | 85049 | [85049-personal-trainer-cooking.json](./85049-personal-trainer-cooking.json) |
+| Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
 | Personal Trip to the Moon | 128697 | [128697-personal-trip-to-the-moon.json](./128697-personal-trip-to-the-moon.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
@@ -7089,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowings | 290297 | [290297-picowings.json](./290297-picowings.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | PicPu Dog Puzzle | 89293 | [89293-picpu-dog-puzzle.json](./89293-picpu-dog-puzzle.json) |
+| Picrastination | 88119 | [88119-picrastination.json](./88119-picrastination.json) |
 | PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
@@ -15179,6 +15182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Positive! Hapili Link | 334370 | [334370-positive-hapili-link.json](./334370-positive-hapili-link.json) |
 | Positron | 35107 | [35107-positron.json](./35107-positron.json) |
 | Positronic Bridge | 94544 | [94544-positronic-bridge.json](./94544-positronic-bridge.json) |
+| PositronX | 88302 | [88302-positronx.json](./88302-positronx.json) |
 | Posledniy Den' v Uryupinske | 368254 | [368254-posledniy-den-v-uryupinske.json](./368254-posledniy-den-v-uryupinske.json) |
 | Posse of 3 | 391091 | [391091-posse-of-3.json](./391091-posse-of-3.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
