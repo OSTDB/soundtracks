@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
 | Ultimate Band | 5250 | [5250-ultimate-band.json](./5250-ultimate-band.json) |
 | Ultimate Barbarian | 27426 | [27426-ultimate-barbarian.json](./27426-ultimate-barbarian.json) |
+| Ultimate Baseball Online | 23787 | [23787-ultimate-baseball-online.json](./23787-ultimate-baseball-online.json) |
 | Ultimate Basketball | 48266 | [48266-ultimate-basketball.json](./48266-ultimate-basketball.json) |
 | Ultimate Battle | 156979 | [156979-ultimate-battle.json](./156979-ultimate-battle.json) |
 | Ultimate Battle Kingdom | 390507 | [390507-ultimate-battle-kingdom.json](./390507-ultimate-battle-kingdom.json) |
