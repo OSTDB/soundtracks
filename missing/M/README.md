@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Mole: 'Xpress Deliveries | 238444 | [238444-mail-mole-xpress-deliveries.json](./238444-mail-mole-xpress-deliveries.json) |
 | Mail Mole: Collector's Edition | 203098 | [203098-mail-mole-collectors-edition.json](./203098-mail-mole-collectors-edition.json) |
 | Mail Mole: Mystery Mansion | 196064 | [196064-mail-mole-mystery-mansion.json](./196064-mail-mole-mystery-mansion.json) |
+| Mail Mole: The Lost Presents | 429273 | [429273-mail-mole-the-lost-presents.json](./429273-mail-mole-the-lost-presents.json) |
 | Mail Order Monsters | 25891 | [25891-mail-order-monsters.json](./25891-mail-order-monsters.json) |
 | Mail Plane | 41981 | [41981-mail-plane.json](./41981-mail-plane.json) |
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
@@ -17438,6 +17439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
 | Mommy Maze | 216042 | [216042-mommy-maze.json](./216042-mommy-maze.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
+| Mommy's Squirt! | 428858 | [428858-mommys-squirt.json](./428858-mommys-squirt.json) |
 | Mommy's Warm Hot Spring: Poka-poka Mama Koi Onsen | 289203 | [289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json](./289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json) |
 | Momo | 240008 | [240008-momo.json](./240008-momo.json) |
 | Momo - The Horror Game | 106842 | [106842-momo-the-horror-game.json](./106842-momo-the-horror-game.json) |
@@ -18276,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
 | Monster Girls and the Mysterious Adventure | 129296 | [129296-monster-girls-and-the-mysterious-adventure.json](./129296-monster-girls-and-the-mysterious-adventure.json) |
 | Monster Girls and the Mysterious Adventure 2 | 195290 | [195290-monster-girls-and-the-mysterious-adventure-2.json](./195290-monster-girls-and-the-mysterious-adventure-2.json) |
+| Monster Girls Dice Board | 428860 | [428860-monster-girls-dice-board.json](./428860-monster-girls-dice-board.json) |
 | Monster Girls Gaynerations: Ghoulfriends For Life | 178727 | [178727-monster-girls-gaynerations-ghoulfriends-for-life.json](./178727-monster-girls-gaynerations-ghoulfriends-for-life.json) |
 | Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
@@ -19837,6 +19840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
 | Morning Star | 327483 | [327483-morning-star.json](./327483-morning-star.json) |
 | Morning Star | 427314 | [427314-morning-star.json](./427314-morning-star.json) |
+| Morning Vale | 428819 | [428819-morning-vale.json](./428819-morning-vale.json) |
 | Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
 | Morning's Wrath | 72259 | [72259-mornings-wrath.json](./72259-mornings-wrath.json) |
 | Morningdew Farms: A Gay Farming Game | 118602 | [118602-morningdew-farms-a-gay-farming-game.json](./118602-morningdew-farms-a-gay-farming-game.json) |
