@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Mmore Goatz Edition | 24588 | [24588-goat-simulator-mmore-goatz-edition.json](./24588-goat-simulator-mmore-goatz-edition.json) |
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
+| Goat Simulator: Remastered | 314250 | [314250-goat-simulator-remastered.json](./314250-goat-simulator-remastered.json) |
 | Goat Simulator: The Bundle | 141764 | [141764-goat-simulator-the-bundle.json](./141764-goat-simulator-the-bundle.json) |
 | Goat Simulator: The Goaty | 83740 | [83740-goat-simulator-the-goaty.json](./83740-goat-simulator-the-goaty.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
@@ -12186,6 +12187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
 | Guilty Gear: Strive - Guilty Gear 25th Anniversary: Appreciation Color Pack | 264824 | [264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json](./264824-guilty-gear-strive-guilty-gear-25th-anniversary-appreciation-color-pack.json) |
 | Guilty Gear: Strive - Guilty Gear 25th Anniversary: Special Additional Color Pack | 264825 | [264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json](./264825-guilty-gear-strive-guilty-gear-25th-anniversary-special-additional-color-pack.json) |
+| Guilty Gear: Strive - Nintendo Switch Edition | 315335 | [315335-guilty-gear-strive-nintendo-switch-edition.json](./315335-guilty-gear-strive-nintendo-switch-edition.json) |
 | Guilty Gear: Strive - Season 3 Character Additional Colors | 264828 | [264828-guilty-gear-strive-season-3-character-additional-colors.json](./264828-guilty-gear-strive-season-3-character-additional-colors.json) |
 | Guilty Gear: Strive - Season 4 Character Additional Colors | 428966 | [428966-guilty-gear-strive-season-4-character-additional-colors.json](./428966-guilty-gear-strive-season-4-character-additional-colors.json) |
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
