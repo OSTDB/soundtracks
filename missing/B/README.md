@@ -20090,6 +20090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullseye! | 323852 | [323852-bullseye.json](./323852-bullseye.json) |
 | Bullship! | 375297 | [375297-bullship.json](./375297-bullship.json) |
 | BullShoppe | 180157 | [180157-bullshoppe.json](./180157-bullshoppe.json) |
+| Bullshot | 26221 | [26221-bullshot.json](./26221-bullshot.json) |
 | BullSquid | 148021 | [148021-bullsquid.json](./148021-bullsquid.json) |
 | BullTales | 393568 | [393568-bulltales.json](./393568-bulltales.json) |
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
