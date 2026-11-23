@@ -5096,7 +5096,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
 | Hellforged | 399378 | [399378-hellforged.json](./399378-hellforged.json) |
-| Hellfront: Honeymoon | 107369 | [107369-hellfront-honeymoon.json](./107369-hellfront-honeymoon.json) |
 | Hellfrost Dark Knight Styria: The Ultimate Knight Falleth Flesh Toilet | 82657 | [82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json](./82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json) |
 | HellFull: The Last Hope | 192273 | [192273-hellfull-the-last-hope.json](./192273-hellfull-the-last-hope.json) |
 | HellFurnace | 237951 | [237951-hellfurnace.json](./237951-hellfurnace.json) |
@@ -5709,7 +5708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Bunny | 286990 | [286990-hentai-bunny.json](./286990-hentai-bunny.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
-| Hentai Case Opening | 106426 | [106426-hentai-case-opening.json](./106426-hentai-case-opening.json) |
 | Hentai Casino | 293822 | [293822-hentai-casino.json](./293822-hentai-casino.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Jigsaw: Vampires | 297118 | [297118-hentai-casual-jigsaw-vampires.json](./297118-hentai-casual-jigsaw-vampires.json) |
@@ -5805,7 +5803,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dgirls | 365425 | [365425-hentai-dgirls.json](./365425-hentai-dgirls.json) |
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
 | Hentai Doctor 2049 | 236085 | [236085-hentai-doctor-2049.json](./236085-hentai-doctor-2049.json) |
-| Hentai Dojo | 107111 | [107111-hentai-dojo.json](./107111-hentai-dojo.json) |
 | Hentai Dolls | 334389 | [334389-hentai-dolls.json](./334389-hentai-dolls.json) |
 | Hentai Dream | 208371 | [208371-hentai-dream.json](./208371-hentai-dream.json) |
 | Hentai Dreams | 111804 | [111804-hentai-dreams.json](./111804-hentai-dreams.json) |
@@ -6316,7 +6313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Slut | 411195 | [411195-hentai-slut.json](./411195-hentai-slut.json) |
 | Hentai Sniper: Middle East | 286419 | [286419-hentai-sniper-middle-east.json](./286419-hentai-sniper-middle-east.json) |
 | Hentai Snowy | 241778 | [241778-hentai-snowy.json](./241778-hentai-snowy.json) |
-| Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
 | Hentai Solitaire | 308513 | [308513-hentai-solitaire.json](./308513-hentai-solitaire.json) |
 | Hentai Solitaire | 371040 | [371040-hentai-solitaire.json](./371040-hentai-solitaire.json) |
 | Hentai Solitaire: Cards Pack 1 | 310469 | [310469-hentai-solitaire-cards-pack-1.json](./310469-hentai-solitaire-cards-pack-1.json) |
@@ -6435,7 +6431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Uni 2 | 258139 | [258139-hentai-uni-2.json](./258139-hentai-uni-2.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Uniform | 296951 | [296951-hentai-uniform.json](./296951-hentai-uniform.json) |
-| Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Vampire | 284533 | [284533-hentai-vampire.json](./284533-hentai-vampire.json) |
@@ -9433,7 +9428,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HIND: The Russian Combat Helicopter Simulation | 747 | [747-hind-the-russian-combat-helicopter-simulation.json](./747-hind-the-russian-combat-helicopter-simulation.json) |
 | Hindrance | 177720 | [177720-hindrance.json](./177720-hindrance.json) |
 | Hindsight 20/20 | 117940 | [117940-hindsight-20-20.json](./117940-hindsight-20-20.json) |
-| Hinedere Beat | 107368 | [107368-hinedere-beat.json](./107368-hinedere-beat.json) |
 | Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinge | 268289 | [268289-hinge.json](./268289-hinge.json) |
 | Hinge VR | 141170 | [141170-hinge-vr.json](./141170-hinge-vr.json) |
@@ -11670,7 +11664,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Together | 333267 | [333267-horde-together.json](./333267-horde-together.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
-| Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
 | Hordebreak | 238761 | [238761-hordebreak.json](./238761-hordebreak.json) |
 | Hordebreaker | 190332 | [190332-hordebreaker.json](./190332-hordebreaker.json) |
 | HordeCore | 112767 | [112767-hordecore.json](./112767-hordecore.json) |
@@ -14704,7 +14697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbound | 284376 | [284376-hyperbound.json](./284376-hyperbound.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
-| HyperBowl | 105444 | [105444-hyperbowl.json](./105444-hyperbowl.json) |
 | Hyperbowl Plus! Edition | 256373 | [256373-hyperbowl-plus-edition.json](./256373-hyperbowl-plus-edition.json) |
 | HyperBowl San Francisco | 175065 | [175065-hyperbowl-san-francisco.json](./175065-hyperbowl-san-francisco.json) |
 | HyperBowl Tokyo | 263583 | [263583-hyperbowl-tokyo.json](./263583-hyperbowl-tokyo.json) |
