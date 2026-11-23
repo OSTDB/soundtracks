@@ -13672,6 +13672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Zoo | 224151 | [224151-human-zoo.json](./224151-human-zoo.json) |
 | Human-Like | 157185 | [157185-human-like.json](./157185-human-like.json) |
 | Human-powered spacecraft | 97026 | [97026-human-powered-spacecraft.json](./97026-human-powered-spacecraft.json) |
+| Human, 39.99 | 426267 | [426267-human-39-99.json](./426267-human-39-99.json) |
 | Human, we have a problem | 32810 | [32810-human-we-have-a-problem.json](./32810-human-we-have-a-problem.json) |
 | Human: Fall Flat - Anniversary Edition | 139945 | [139945-human-fall-flat-anniversary-edition.json](./139945-human-fall-flat-anniversary-edition.json) |
 | Human: Fall Flat - Dream Collection | 252173 | [252173-human-fall-flat-dream-collection.json](./252173-human-fall-flat-dream-collection.json) |
@@ -14840,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hyperliminal | 201960 | [201960-hyperliminal.json](./201960-hyperliminal.json) |
+| Hyperline | 426272 | [426272-hyperline.json](./426272-hyperline.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
 | Hypermarket Tycoon Manager | 243559 | [243559-hypermarket-tycoon-manager.json](./243559-hypermarket-tycoon-manager.json) |
