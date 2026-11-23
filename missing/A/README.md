@@ -16182,6 +16182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arithmetic | 331935 | [331935-arithmetic.json](./331935-arithmetic.json) |
 | Arithmetic Arena | 381874 | [381874-arithmetic-arena.json](./381874-arithmetic-arena.json) |
 | Ariva | 71367 | [71367-ariva.json](./71367-ariva.json) |
+| Arizona Derby | 116376 | [116376-arizona-derby.json](./116376-arizona-derby.json) |
 | Arizona Derby 2 | 188873 | [188873-arizona-derby-2.json](./188873-arizona-derby-2.json) |
 | Arizona Rose and the Pharaohs' Riddles | 29870 | [29870-arizona-rose-and-the-pharaohs-riddles.json](./29870-arizona-rose-and-the-pharaohs-riddles.json) |
 | Arizona Rose and the Pirates' Riddles | 30994 | [30994-arizona-rose-and-the-pirates-riddles.json](./30994-arizona-rose-and-the-pirates-riddles.json) |
@@ -19261,6 +19262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Fate's End | 348205 | [348205-at-fates-end.json](./348205-at-fates-end.json) |
 | At Hell's Gate | 383148 | [383148-at-hells-gate.json](./383148-at-hells-gate.json) |
 | At His Grave | 283952 | [283952-at-his-grave.json](./283952-at-his-grave.json) |
+| At Home | 116270 | [116270-at-home.json](./116270-at-home.json) |
 | At Home | 230234 | [230234-at-home.json](./230234-at-home.json) |
 | At Home Alone | 111237 | [111237-at-home-alone.json](./111237-at-home-alone.json) |
 | At Home Alone Final | 186721 | [186721-at-home-alone-final.json](./186721-at-home-alone-final.json) |
