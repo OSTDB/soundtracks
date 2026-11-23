@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Mania | 54024 | [54024-farm-mania.json](./54024-farm-mania.json) |
 | Farm Mania 2 | 54026 | [54026-farm-mania-2.json](./54026-farm-mania-2.json) |
 | Farm Mania 3 | 180113 | [180113-farm-mania-3.json](./180113-farm-mania-3.json) |
+| Farm Mania: Hot Vacation | 34168 | [34168-farm-mania-hot-vacation.json](./34168-farm-mania-hot-vacation.json) |
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
 | Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
@@ -5598,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Fill the Void | 419326 | [419326-fill-the-void.json](./419326-fill-the-void.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
+| Fill Up! | 34379 | [34379-fill-up.json](./34379-fill-up.json) |
 | Fill-a-Pix: Phil's Epic Adventure | 84693 | [84693-fill-a-pix-phils-epic-adventure.json](./84693-fill-a-pix-phils-epic-adventure.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | Filled to the Limit | 266113 | [266113-filled-to-the-limit.json](./266113-filled-to-the-limit.json) |
