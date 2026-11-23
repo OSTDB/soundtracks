@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero Losses | 204544 | [204544-zero-losses.json](./204544-zero-losses.json) |
+| Zero Mass | 428018 | [428018-zero-mass.json](./428018-zero-mass.json) |
 | Zero Memory | 185532 | [185532-zero-memory.json](./185532-zero-memory.json) |
 | Zero Moment | 348715 | [348715-zero-moment.json](./348715-zero-moment.json) |
 | Zero no Tsukaima Fantasy Force | 268802 | [268802-zero-no-tsukaima-fantasy-force.json](./268802-zero-no-tsukaima-fantasy-force.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
 | Zquirrels Jump | 111245 | [111245-zquirrels-jump.json](./111245-zquirrels-jump.json) |
 | Zra Stories | 267041 | [267041-zra-stories.json](./267041-zra-stories.json) |
+| Zragg | 428046 | [428046-zragg.json](./428046-zragg.json) |
 | Zrist | 383314 | [383314-zrist.json](./383314-zrist.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zruce Adventures | 194718 | [194718-zruce-adventures.json](./194718-zruce-adventures.json) |
