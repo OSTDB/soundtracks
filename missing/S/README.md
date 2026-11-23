@@ -8574,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shantae: Half-Genie Hero | 11078 | [11078-shantae-half-genie-hero.json](./11078-shantae-half-genie-hero.json) |
+| Shantae: Half-Genie Hero - Friends to the End | 76945 | [76945-shantae-half-genie-hero-friends-to-the-end.json](./76945-shantae-half-genie-hero-friends-to-the-end.json) |
 | Shantae: Half-Genie Hero - Pirate Queen's Quest | 55176 | [55176-shantae-half-genie-hero-pirate-queens-quest.json](./55176-shantae-half-genie-hero-pirate-queens-quest.json) |
 | Shantae: Half-Genie Hero - Risky Beats Edition | 51140 | [51140-shantae-half-genie-hero-risky-beats-edition.json](./51140-shantae-half-genie-hero-risky-beats-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
@@ -19925,6 +19926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Larithea | 423318 | [423318-song-of-larithea.json](./423318-song-of-larithea.json) |
 | Song of Life | 174939 | [174939-song-of-life.json](./174939-song-of-life.json) |
+| Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
 | Song of Memories: Limited Edition | 186926 | [186926-song-of-memories-limited-edition.json](./186926-song-of-memories-limited-edition.json) |
 | Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
 | Song of Nanzhao | 360334 | [360334-song-of-nanzhao.json](./360334-song-of-nanzhao.json) |
@@ -30084,6 +30086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
 | Stay Alive, My Son PC | 367706 | [367706-stay-alive-my-son-pc.json](./367706-stay-alive-my-son-pc.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
+| Stay Alive: Apocalypse | 76582 | [76582-stay-alive-apocalypse.json](./76582-stay-alive-apocalypse.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
 | Stay At Home | 123918 | [123918-stay-at-home.json](./123918-stay-at-home.json) |
 | Stay Awake | 395942 | [395942-stay-awake.json](./395942-stay-awake.json) |
@@ -32248,6 +32251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command 2: Blitzkrieg | 58428 | [58428-strategic-command-2-blitzkrieg.json](./58428-strategic-command-2-blitzkrieg.json) |
 | Strategic Command Classic: Global Conflict | 86635 | [86635-strategic-command-classic-global-conflict.json](./86635-strategic-command-classic-global-conflict.json) |
 | Strategic Command Classic: WWI | 77003 | [77003-strategic-command-classic-wwi.json](./77003-strategic-command-classic-wwi.json) |
+| Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command World War I: The Great War 1914-1918 | 58425 | [58425-strategic-command-world-war-i-the-great-war-1914-1918.json](./58425-strategic-command-world-war-i-the-great-war-1914-1918.json) |
 | Strategic Command WWII: Pacific Theater | 25275 | [25275-strategic-command-wwii-pacific-theater.json](./25275-strategic-command-wwii-pacific-theater.json) |
@@ -33961,6 +33965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers Match | 371469 | [371469-subway-surfers-match.json](./371469-subway-surfers-match.json) |
 | Subway Surfers Tag | 207216 | [207216-subway-surfers-tag.json](./207216-subway-surfers-tag.json) |
 | Subway Surge | 314526 | [314526-subway-surge.json](./314526-subway-surge.json) |
+| Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subway Vigilante | 69610 | [69610-subway-vigilante.json](./69610-subway-vigilante.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | SubwaySim 2 | 314444 | [314444-subwaysim-2.json](./314444-subwaysim-2.json) |
@@ -40468,6 +40473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
 | Swap Bots | 423292 | [423292-swap-bots.json](./423292-swap-bots.json) |
 | Swap Fire | 336655 | [336655-swap-fire.json](./336655-swap-fire.json) |
+| Swap Fire | 77773 | [77773-swap-fire.json](./77773-swap-fire.json) |
 | Swap Heroes | 197242 | [197242-swap-heroes.json](./197242-swap-heroes.json) |
 | Swap Heroes 2 | 200093 | [200093-swap-heroes-2.json](./200093-swap-heroes-2.json) |
 | Swap Machina | 240968 | [240968-swap-machina.json](./240968-swap-machina.json) |
