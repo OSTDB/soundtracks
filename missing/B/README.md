@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '10 | 6572 | [6572-backyard-baseball-10.json](./6572-backyard-baseball-10.json) |
+| Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball (2003-2004) | 67805 | [67805-backyard-baseball-2003-2004.json](./67805-backyard-baseball-2003-2004.json) |
 | Backyard Baseball 2001 | 50908 | [50908-backyard-baseball-2001.json](./50908-backyard-baseball-2001.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
 | Battle Towers | 194103 | [194103-battle-towers.json](./194103-battle-towers.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
+| Battle Train | 311876 | [311876-battle-train.json](./311876-battle-train.json) |
 | Battle Traverse | 58287 | [58287-battle-traverse.json](./58287-battle-traverse.json) |
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
@@ -15855,6 +15857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash XMAS 2002 | 63967 | [63967-boulder-dash-xmas-2002.json](./63967-boulder-dash-xmas-2002.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
+| Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
 | Boulder Dash: Rocks! | 22532 | [22532-boulder-dash-rocks.json](./22532-boulder-dash-rocks.json) |
 | Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
