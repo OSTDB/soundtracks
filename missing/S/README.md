@@ -31445,6 +31445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stitch's Escape Game | 326769 | [326769-stitchs-escape-game.json](./326769-stitchs-escape-game.json) |
 | Stitchcraft | 123985 | [123985-stitchcraft.json](./123985-stitchcraft.json) |
+| Stitched | 28121 | [28121-stitched.json](./28121-stitched.json) |
 | Stitched Together | 285303 | [285303-stitched-together.json](./285303-stitched-together.json) |
 | Stitched: Mother's Nightmare | 152636 | [152636-stitched-mothers-nightmare.json](./152636-stitched-mothers-nightmare.json) |
 | Stitchlings | 399879 | [399879-stitchlings.json](./399879-stitchlings.json) |
@@ -34982,6 +34983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Tanks | 266458 | [266458-sumo-tanks.json](./266458-sumo-tanks.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumo Titanium | 24358 | [24358-sumo-titanium.json](./24358-sumo-titanium.json) |
+| Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
 | Sumomomo Momomo ~Shijou Saikyou no Yome~ Keishou Shimasho!? Koi no Hanamuko Soudatsusen!! | 77556 | [77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json](./77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json) |
 | Sumoo | 422327 | [422327-sumoo.json](./422327-sumoo.json) |
