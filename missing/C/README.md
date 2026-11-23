@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Live Without Electricity | 242944 | [242944-cant-live-without-electricity.json](./242944-cant-live-without-electricity.json) |
 | Can't Revert | 309825 | [309825-cant-revert.json](./309825-cant-revert.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
+| Can't See Shift | 428020 | [428020-cant-see-shift.json](./428020-cant-see-shift.json) |
 | Can't Sleep | 184723 | [184723-cant-sleep.json](./184723-cant-sleep.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
