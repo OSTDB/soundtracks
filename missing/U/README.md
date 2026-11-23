@@ -671,7 +671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
 | Ultimate Hangman | 86732 | [86732-ultimate-hangman.json](./86732-ultimate-hangman.json) |
 | Ultimate Hangman HD | 68949 | [68949-ultimate-hangman-hd.json](./68949-ultimate-hangman-hd.json) |
-| Ultimate Hardbass Defence | 110775 | [110775-ultimate-hardbass-defence.json](./110775-ultimate-hardbass-defence.json) |
 | Ultimate Hentai Puzzle | 374892 | [374892-ultimate-hentai-puzzle.json](./374892-ultimate-hentai-puzzle.json) |
 | Ultimate Hero | 333530 | [333530-ultimate-hero.json](./333530-ultimate-hero.json) |
 | Ultimate Heroes | 165387 | [165387-ultimate-heroes.json](./165387-ultimate-heroes.json) |
