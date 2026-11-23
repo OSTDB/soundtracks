@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamas: Shadowveil | 410963 | [410963-tamas-shadowveil.json](./410963-tamas-shadowveil.json) |
 | Tamashi Party | 196673 | [196673-tamashi-party.json](./196673-tamashi-party.json) |
 | Tamashi: Rise of Yokai | 196586 | [196586-tamashi-rise-of-yokai.json](./196586-tamashi-rise-of-yokai.json) |
+| Tamashii | 115152 | [115152-tamashii.json](./115152-tamashii.json) |
 | Tamashii no Mon: Dante no Shinkyoku yori | 139107 | [139107-tamashii-no-mon-dante-no-shinkyoku-yori.json](./139107-tamashii-no-mon-dante-no-shinkyoku-yori.json) |
 | Tamashii Yume | 229401 | [229401-tamashii-yume.json](./229401-tamashii-yume.json) |
 | Tamashika | 329975 | [329975-tamashika.json](./329975-tamashika.json) |
@@ -5351,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror World | 101265 | [101265-terror-world.json](./101265-terror-world.json) |
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
 | Terror: Endless Night | 196955 | [196955-terror-endless-night.json](./196955-terror-endless-night.json) |
+| Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
 | Terrorbane | 152966 | [152966-terrorbane.json](./152966-terrorbane.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
 | Terrordactyl Carnivore | 243437 | [243437-terrordactyl-carnivore.json](./243437-terrordactyl-carnivore.json) |
@@ -10563,6 +10565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorer | 132875 | [132875-the-explorer.json](./132875-the-explorer.json) |
 | The Explorer | 380910 | [380910-the-explorer.json](./380910-the-explorer.json) |
+| The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
@@ -16209,6 +16212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Morrigan | 115552 | [115552-the-morrigan.json](./115552-the-morrigan.json) |
 | The Morrison Survival Game | 135070 | [135070-the-morrison-survival-game.json](./135070-the-morrison-survival-game.json) |
 | The Mors | 68489 | [68489-the-mors.json](./68489-the-mors.json) |
 | The Mortal | 374378 | [374378-the-mortal.json](./374378-the-mortal.json) |
@@ -17596,6 +17600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Princess Swap | 313869 | [313869-the-princess-swap.json](./313869-the-princess-swap.json) |
 | The Princess That Was Turned into a Doll | 383311 | [383311-the-princess-that-was-turned-into-a-doll.json](./383311-the-princess-that-was-turned-into-a-doll.json) |
+| The Princess, the Stray Cat, and Matters of the Heart | 115580 | [115580-the-princess-the-stray-cat-and-matters-of-the-heart.json](./115580-the-princess-the-stray-cat-and-matters-of-the-heart.json) |
 | The Princess, the Stray Cat, and Matters of the Heart: Premium Limited Edition | 167020 | [167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json](./167020-the-princess-the-stray-cat-and-matters-of-the-heart-premium-limited-edition.json) |
 | The Princess' Heart | 35022 | [35022-the-princess-heart.json](./35022-the-princess-heart.json) |
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
@@ -19684,6 +19689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorrow of Gadhlan' Thur | 333870 | [333870-the-sorrow-of-gadhlan-thur.json](./333870-the-sorrow-of-gadhlan-thur.json) |
 | The Sorrows of Young Werther | 418104 | [418104-the-sorrows-of-young-werther.json](./418104-the-sorrows-of-young-werther.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
+| The Sorrowvirus: A Faceless Short Story | 115716 | [115716-the-sorrowvirus-a-faceless-short-story.json](./115716-the-sorrowvirus-a-faceless-short-story.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
 | The Soukou Kihei Gun Ground | 47837 | [47837-the-soukou-kihei-gun-ground.json](./47837-the-soukou-kihei-gun-ground.json) |
 | The Soul | 340283 | [340283-the-soul.json](./340283-the-soul.json) |
@@ -23035,6 +23041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Simulator | 61616 | [61616-thief-simulator.json](./61616-thief-simulator.json) |
 | Thief Simulator 2 | 157445 | [157445-thief-simulator-2.json](./157445-thief-simulator-2.json) |
 | Thief Simulator 3 | 380158 | [380158-thief-simulator-3.json](./380158-thief-simulator-3.json) |
+| Thief Simulator VR | 114932 | [114932-thief-simulator-vr.json](./114932-thief-simulator-vr.json) |
 | Thief Simulator VR: Greenview Street | 208840 | [208840-thief-simulator-vr-greenview-street.json](./208840-thief-simulator-vr-greenview-street.json) |
 | Thief Simulator: Heist Master | 308992 | [308992-thief-simulator-heist-master.json](./308992-thief-simulator-heist-master.json) |
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
@@ -27020,6 +27027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tina & Rook! Cookie Quest! | 213206 | [213206-tina-and-rook-cookie-quest.json](./213206-tina-and-rook-cookie-quest.json) |
 | Tina of the Stars | 384475 | [384475-tina-of-the-stars.json](./384475-tina-of-the-stars.json) |
 | Tina wa Seirei Tsukai | 194925 | [194925-tina-wa-seirei-tsukai.json](./194925-tina-wa-seirei-tsukai.json) |
+| Tina: Swordswoman of the Scarlet Prison | 115490 | [115490-tina-swordswoman-of-the-scarlet-prison.json](./115490-tina-swordswoman-of-the-scarlet-prison.json) |
 | Tina's Toy Factory | 59900 | [59900-tinas-toy-factory.json](./59900-tinas-toy-factory.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan | 333076 | [333076-tincan.json](./333076-tincan.json) |
@@ -34691,6 +34699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Quest | 143168 | [143168-trap-quest.json](./143168-trap-quest.json) |
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
+| Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
 | Trap Tag | 148264 | [148264-trap-tag.json](./148264-trap-tag.json) |
 | Trap Testers | 421631 | [421631-trap-testers.json](./421631-trap-testers.json) |
 | Trap Them | 35098 | [35098-trap-them.json](./35098-trap-them.json) |
