@@ -11221,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clairvoyance | 357748 | [357748-clairvoyance.json](./357748-clairvoyance.json) |
 | Clairvoyant: The Magician Mystery | 417685 | [417685-clairvoyant-the-magician-mystery.json](./417685-clairvoyant-the-magician-mystery.json) |
+| Clam Man | 114921 | [114921-clam-man.json](./114921-clam-man.json) |
 | Clam Man 2: Headliner | 140816 | [140816-clam-man-2-headliner.json](./140816-clam-man-2-headliner.json) |
 | Clam Man 2: Open Mic | 150779 | [150779-clam-man-2-open-mic.json](./150779-clam-man-2-open-mic.json) |
 | Clamb | 278553 | [278553-clamb.json](./278553-clamb.json) |
@@ -11549,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Pool | 154762 | [154762-classic-pool.json](./154762-classic-pool.json) |
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Punter | 13497 | [13497-classic-punter.json](./13497-classic-punter.json) |
+| Classic Racers | 115900 | [115900-classic-racers.json](./115900-classic-racers.json) |
 | Classic Racers Elite | 146787 | [146787-classic-racers-elite.json](./146787-classic-racers-elite.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Road | 38150 | [38150-classic-road.json](./38150-classic-road.json) |
@@ -13420,6 +13422,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognition: An Erica Reed Thriller | 8426 | [8426-cognition-an-erica-reed-thriller.json](./8426-cognition-an-erica-reed-thriller.json) |
 | Cognition: An Erica Reed Thriller - Episode 1: The Hangman | 84191 | [84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json](./84191-cognition-an-erica-reed-thriller-episode-1-the-hangman.json) |
+| Cognition: An Erica Reed Thriller - Episode 2: The Wise Monkey | 114985 | [114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json](./114985-cognition-an-erica-reed-thriller-episode-2-the-wise-monkey.json) |
+| Cognition: An Erica Reed Thriller - Episode 3: The Oracle | 114986 | [114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json](./114986-cognition-an-erica-reed-thriller-episode-3-the-oracle.json) |
+| Cognition: An Erica Reed Thriller - Episode 4: The Cain Killer | 114987 | [114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json](./114987-cognition-an-erica-reed-thriller-episode-4-the-cain-killer.json) |
 | Cognition: Game of the Year Edition | 51700 | [51700-cognition-game-of-the-year-edition.json](./51700-cognition-game-of-the-year-edition.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cognitive Reconquista | 418408 | [418408-cognitive-reconquista.json](./418408-cognitive-reconquista.json) |
