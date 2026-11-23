@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon II: Hero Origin Pack | 370240 | [370240-darkest-dungeon-ii-hero-origin-pack.json](./370240-darkest-dungeon-ii-hero-origin-pack.json) |
 | Darkest Dungeon II: Infernal Supporter Pack | 370241 | [370241-darkest-dungeon-ii-infernal-supporter-pack.json](./370241-darkest-dungeon-ii-infernal-supporter-pack.json) |
 | Darkest Dungeon II: Inhuman Bondage | 328905 | [328905-darkest-dungeon-ii-inhuman-bondage.json](./328905-darkest-dungeon-ii-inhuman-bondage.json) |
+| Darkest Dungeon II: Kingdoms | 296837 | [296837-darkest-dungeon-ii-kingdoms.json](./296837-darkest-dungeon-ii-kingdoms.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon II: Resolute Edition | 383423 | [383423-darkest-dungeon-ii-resolute-edition.json](./383423-darkest-dungeon-ii-resolute-edition.json) |
 | Darkest Dungeon II: The Binding Blade | 275753 | [275753-darkest-dungeon-ii-the-binding-blade.json](./275753-darkest-dungeon-ii-the-binding-blade.json) |
@@ -3372,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Lords | 271056 | [271056-day-of-the-lords.json](./271056-day-of-the-lords.json) |
 | Day of the Pharaoh | 14634 | [14634-day-of-the-pharaoh.json](./14634-day-of-the-pharaoh.json) |
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
+| Day of the Shell | 215537 | [215537-day-of-the-shell.json](./215537-day-of-the-shell.json) |
 | Day Of The Tank | 292999 | [292999-day-of-the-tank.json](./292999-day-of-the-tank.json) |
 | Day of the Tiki | 90950 | [90950-day-of-the-tiki.json](./90950-day-of-the-tiki.json) |
 | Day of the Toys | 264077 | [264077-day-of-the-toys.json](./264077-day-of-the-toys.json) |
@@ -5333,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death or Glory | 13577 | [13577-death-or-glory.json](./13577-death-or-glory.json) |
 | Death or Glory | 195934 | [195934-death-or-glory.json](./195934-death-or-glory.json) |
 | Death or Glory: Das Erbe von Morgan | 14635 | [14635-death-or-glory-das-erbe-von-morgan.json](./14635-death-or-glory-das-erbe-von-morgan.json) |
+| Death or Treat | 215539 | [215539-death-or-treat.json](./215539-death-or-treat.json) |
 | Death Orb | 72629 | [72629-death-orb.json](./72629-death-orb.json) |
 | Death Pages: Ghost Library | 418428 | [418428-death-pages-ghost-library.json](./418428-death-pages-ghost-library.json) |
 | Death Pages: Ghost Library - Collector's Edition | 418429 | [418429-death-pages-ghost-library-collectors-edition.json](./418429-death-pages-ghost-library-collectors-edition.json) |
@@ -16445,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Horus Station | 86480 | [86480-downward-spiral-horus-station.json](./86480-downward-spiral-horus-station.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
+| Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Downware | 305665 | [305665-downware.json](./305665-downware.json) |
 | DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
 | Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
