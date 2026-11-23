@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlane | 140805 | [140805-deadlane.json](./140805-deadlane.json) |
 | Deadliest Catch: Alaskan Storm | 6962 | [6962-deadliest-catch-alaskan-storm.json](./6962-deadliest-catch-alaskan-storm.json) |
 | Deadliest Catch: Sea of Chaos | 20448 | [20448-deadliest-catch-sea-of-chaos.json](./20448-deadliest-catch-sea-of-chaos.json) |
+| Deadliest Catch: The Game | 111232 | [111232-deadliest-catch-the-game.json](./111232-deadliest-catch-the-game.json) |
 | Deadliest Deep Sea Catch Fishing Simulator | 360549 | [360549-deadliest-deep-sea-catch-fishing-simulator.json](./360549-deadliest-deep-sea-catch-fishing-simulator.json) |
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
@@ -7657,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
+| Demonheart: Hunters | 110905 | [110905-demonheart-hunters.json](./110905-demonheart-hunters.json) |
 | Demonheart: The Cursed Trial | 247713 | [247713-demonheart-the-cursed-trial.json](./247713-demonheart-the-cursed-trial.json) |
 | Demonheart: The Ice Demon | 212049 | [212049-demonheart-the-ice-demon.json](./212049-demonheart-the-ice-demon.json) |
 | Demonia | 41810 | [41810-demonia.json](./41810-demonia.json) |
@@ -13840,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojoran | 139593 | [139593-dojoran.json](./139593-dojoran.json) |
 | Doka 2 Trade | 126439 | [126439-doka-2-trade.json](./126439-doka-2-trade.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
+| Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Doka-fli | 172866 | [172866-doka-fli.json](./172866-doka-fli.json) |
 | Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
@@ -14215,6 +14218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DomiNations | 39257 | [39257-dominations.json](./39257-dominations.json) |
 | Dominator | 13601 | [13601-dominator.json](./13601-dominator.json) |
 | Dominator Idle | 235879 | [235879-dominator-idle.json](./235879-dominator-idle.json) |
+| Dominatrix Simulator: Threshold | 110824 | [110824-dominatrix-simulator-threshold.json](./110824-dominatrix-simulator-threshold.json) |
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Domine o Território | 230649 | [230649-domine-o-territorio.json](./230649-domine-o-territorio.json) |
 | Domineon 2 | 139655 | [139655-domineon-2.json](./139655-domineon-2.json) |
@@ -20441,6 +20445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Simulator 5 | 240590 | [240590-dude-simulator-5.json](./240590-dude-simulator-5.json) |
 | Dude Simulator Six | 279551 | [279551-dude-simulator-six.json](./279551-dude-simulator-six.json) |
 | Dude The Dark Agent | 399691 | [399691-dude-the-dark-agent.json](./399691-dude-the-dark-agent.json) |
+| Dude Theft Wars | 96569 | [96569-dude-theft-wars.json](./96569-dude-theft-wars.json) |
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
 | Dude, Trust Me | 421494 | [421494-dude-trust-me.json](./421494-dude-trust-me.json) |
