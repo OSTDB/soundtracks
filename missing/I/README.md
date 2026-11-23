@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Rock | 389725 | [389725-i-am-rock.json](./389725-i-am-rock.json) |
 | I am Rolling | 249108 | [249108-i-am-rolling.json](./249108-i-am-rolling.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
+| I am Sakuya: Touhou FPS Game | 199475 | [199475-i-am-sakuya-touhou-fps-game.json](./199475-i-am-sakuya-touhou-fps-game.json) |
 | I am Sakuya: Touhou FPS Game - Reimu | 235630 | [235630-i-am-sakuya-touhou-fps-game-reimu.json](./235630-i-am-sakuya-touhou-fps-game-reimu.json) |
 | I Am Security | 314091 | [314091-i-am-security.json](./314091-i-am-security.json) |
 | I Am Setsuna | 18861 | [18861-i-am-setsuna.json](./18861-i-am-setsuna.json) |
