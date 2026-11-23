@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
 | Magical Drop Pocket | 43993 | [43993-magical-drop-pocket.json](./43993-magical-drop-pocket.json) |
 | Magical Drop Touch | 171095 | [171095-magical-drop-touch.json](./171095-magical-drop-touch.json) |
+| Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Drop Yurutto | 67846 | [67846-magical-drop-yurutto.json](./67846-magical-drop-yurutto.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Art: Yellow | 190855 | [190855-maze-art-yellow.json](./190855-maze-art-yellow.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Banquet | 155950 | [155950-maze-banquet.json](./155950-maze-banquet.json) |
+| Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
 | Maze Break | 56415 | [56415-maze-break.json](./56415-maze-break.json) |
 | Maze Breaker | 130695 | [130695-maze-breaker.json](./130695-maze-breaker.json) |
 | Maze Breaker 2 | 147727 | [147727-maze-breaker-2.json](./147727-maze-breaker-2.json) |
@@ -11480,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
 | Metal: Hellsinger - Purgatory | 279358 | [279358-metal-hellsinger-purgatory.json](./279358-metal-hellsinger-purgatory.json) |
+| Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
 | Metal.ik Vol. I | 263352 | [263352-metal-ik-vol-i.json](./263352-metal-ik-vol-i.json) |
 | Metal.ik Vol. II | 263366 | [263366-metal-ik-vol-ii.json](./263366-metal-ik-vol-ii.json) |
 | Metal.ik Vol. III | 263368 | [263368-metal-ik-vol-iii.json](./263368-metal-ik-vol-iii.json) |
@@ -20675,6 +20678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 22: Day One Edition | 300469 | [300469-motogp-22-day-one-edition.json](./300469-motogp-22-day-one-edition.json) |
 | MotoGP 23 | 243215 | [243215-motogp-23.json](./243215-motogp-23.json) |
 | MotoGP 23: Day One Edition | 243870 | [243870-motogp-23-day-one-edition.json](./243870-motogp-23-day-one-edition.json) |
+| MotoGP 24 | 291932 | [291932-motogp-24.json](./291932-motogp-24.json) |
 | MotoGP 24: Day One Edition | 292136 | [292136-motogp-24-day-one-edition.json](./292136-motogp-24-day-one-edition.json) |
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
