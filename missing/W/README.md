@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
 | War Thunder: Ancient Tank Bundle | 303028 | [303028-war-thunder-ancient-tank-bundle.json](./303028-war-thunder-ancient-tank-bundle.json) |
 | War Thunder: AV-8B Night Attack Bundle | 331501 | [331501-war-thunder-av-8b-night-attack-bundle.json](./331501-war-thunder-av-8b-night-attack-bundle.json) |
+| War Thunder: CF-188A Hornet Pack | 428159 | [428159-war-thunder-cf-188a-hornet-pack.json](./428159-war-thunder-cf-188a-hornet-pack.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
 | War Thunder: Dora Pack | 293784 | [293784-war-thunder-dora-pack.json](./293784-war-thunder-dora-pack.json) |
 | War Thunder: Ezer Weizman's Spitfire Pack | 332075 | [332075-war-thunder-ezer-weizmans-spitfire-pack.json](./332075-war-thunder-ezer-weizmans-spitfire-pack.json) |
@@ -1416,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | WarDogs: Red's Return | 146427 | [146427-wardogs-reds-return.json](./146427-wardogs-reds-return.json) |
 | Wardogs: Season 2 | 419393 | [419393-wardogs-season-2.json](./419393-wardogs-season-2.json) |
+| Wardogs: Season 3 | 428622 | [428622-wardogs-season-3.json](./428622-wardogs-season-3.json) |
 | Wardogs: Supporter Edition | 413303 | [413303-wardogs-supporter-edition.json](./413303-wardogs-supporter-edition.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | Wardoll | 339304 | [339304-wardoll.json](./339304-wardoll.json) |
@@ -5255,6 +5257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispering Lane | 282206 | [282206-whispering-lane.json](./282206-whispering-lane.json) |
+| Whispering Meadows | 428650 | [428650-whispering-meadows.json](./428650-whispering-meadows.json) |
 | Whispering Memories | 334219 | [334219-whispering-memories.json](./334219-whispering-memories.json) |
 | Whispering Paws | 277756 | [277756-whispering-paws.json](./277756-whispering-paws.json) |
 | Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
