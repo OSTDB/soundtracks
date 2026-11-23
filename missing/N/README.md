@@ -7628,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nopotions | 410069 | [410069-nopotions.json](./410069-nopotions.json) |
 | Nopper's Blokkade | 415714 | [415714-noppers-blokkade.json](./415714-noppers-blokkade.json) |
 | Nopperabou | 155698 | [155698-nopperabou.json](./155698-nopperabou.json) |
+| Noqta | 428841 | [428841-noqta.json](./428841-noqta.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora | 82741 | [82741-nora.json](./82741-nora.json) |
 | Nora & Magic That Does Not Turn Back Time | 348882 | [348882-nora-and-magic-that-does-not-turn-back-time.json](./348882-nora-and-magic-that-does-not-turn-back-time.json) |
