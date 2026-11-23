@@ -1755,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Interstellar Factory 2 | 234522 | [234522-idle-interstellar-factory-2.json](./234522-idle-interstellar-factory-2.json) |
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Iron Knight | 196355 | [196355-idle-iron-knight.json](./196355-idle-iron-knight.json) |
+| Idle Isekai Mining | 426858 | [426858-idle-isekai-mining.json](./426858-idle-isekai-mining.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
 | Idle Kingdom Builder | 97401 | [97401-idle-kingdom-builder.json](./97401-idle-kingdom-builder.json) |
 | Idle Kingdom Defense | 248866 | [248866-idle-kingdom-defense.json](./248866-idle-kingdom-defense.json) |
@@ -6857,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Seed | 93326 | [93326-iron-seed.json](./93326-iron-seed.json) |
 | Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
 | Iron Side | 237019 | [237019-iron-side.json](./237019-iron-side.json) |
+| Iron Sight | 426872 | [426872-iron-sight.json](./426872-iron-sight.json) |
 | Iron Sight | 98003 | [98003-iron-sight.json](./98003-iron-sight.json) |
 | Iron Skies | 360882 | [360882-iron-skies.json](./360882-iron-skies.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
