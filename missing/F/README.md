@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA World | 7433 | [7433-fifa-world.json](./7433-fifa-world.json) |
 | FIFA World Cup 2022 | 317509 | [317509-fifa-world-cup-2022.json](./317509-fifa-world-cup-2022.json) |
 | FIFA World Cup Germany 2006 | 240285 | [240285-fifa-world-cup-germany-2006.json](./240285-fifa-world-cup-germany-2006.json) |
+| FIFA World Cup Germany 2006 | 49300 | [49300-fifa-world-cup-germany-2006.json](./49300-fifa-world-cup-germany-2006.json) |
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 228794 | [228794-fifa-road-to-world-cup-98.json](./228794-fifa-road-to-world-cup-98.json) |
 | FIFA: Road to World Cup 98 | 228795 | [228795-fifa-road-to-world-cup-98.json](./228795-fifa-road-to-world-cup-98.json) |
@@ -10732,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
 | Football History Football Simulator | 208566 | [208566-football-history-football-simulator.json](./208566-football-history-football-simulator.json) |
+| Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Keepy Uppy Champion | 252951 | [252951-football-keepy-uppy-champion.json](./252951-football-keepy-uppy-champion.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
