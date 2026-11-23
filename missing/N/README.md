@@ -7803,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Regime | 31875 | [31875-northern-regime.json](./31875-northern-regime.json) |
 | Northern Shadow | 9944 | [9944-northern-shadow.json](./9944-northern-shadow.json) |
 | Northern Song Dynasty | 304007 | [304007-northern-song-dynasty.json](./304007-northern-song-dynasty.json) |
+| Northern Tale | 34062 | [34062-northern-tale.json](./34062-northern-tale.json) |
 | Northern Tale 2 | 76647 | [76647-northern-tale-2.json](./76647-northern-tale-2.json) |
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
 | Northern Tale 4 | 76067 | [76067-northern-tale-4.json](./76067-northern-tale-4.json) |
