@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Control | 176795 | [176795-under-control.json](./176795-under-control.json) |
 | Under Cover | 279393 | [279393-under-cover.json](./279393-under-cover.json) |
 | Under Dead | 244725 | [244725-under-dead.json](./244725-under-dead.json) |
+| Under Defeat | 321604 | [321604-under-defeat.json](./321604-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
 | Under Destruction | 356760 | [356760-under-destruction.json](./356760-under-destruction.json) |
