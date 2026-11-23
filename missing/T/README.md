@@ -31620,7 +31620,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
 | Towerslam | 396607 | [396607-towerslam.json](./396607-towerslam.json) |
 | Towerspell | 252514 | [252514-towerspell.json](./252514-towerspell.json) |
-| Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | Towertower | 424616 | [424616-towertower.json](./424616-towertower.json) |
 | TowerUp: Breakout | 360809 | [360809-towerup-breakout.json](./360809-towerup-breakout.json) |
 | ToWhere? | 387006 | [387006-towhere.json](./387006-towhere.json) |
