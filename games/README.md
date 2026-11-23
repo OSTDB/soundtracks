@@ -2,11 +2,11 @@
 
 [← Back to OSTDB](../README.md)
 
-3,927 official soundtracks. Pick a letter:
+3,928 official soundtracks. Pick a letter:
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 227 games | 196 games | 197 games | 226 games | 87 games | 163 games | 127 games |
+| 227 games | 196 games | 197 games | 227 games | 87 games | 163 games | 127 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -22,4 +22,4 @@
 
 ---
 
-_Last updated 2026-11-23T12:41:15.337Z_
+_Last updated 2026-11-23T13:05:54.487Z_
