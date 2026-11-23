@@ -6176,6 +6176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Blaze | 273758 | [273758-phantom-blaze.json](./273758-phantom-blaze.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave | 5097 | [5097-phantom-brave.json](./5097-phantom-brave.json) |
+| Phantom Brave PC | 34290 | [34290-phantom-brave-pc.json](./34290-phantom-brave-pc.json) |
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle | 24286 | [24286-phantom-brave-the-hermuda-triangle.json](./24286-phantom-brave-the-hermuda-triangle.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
@@ -17470,6 +17471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Football Agent | 269972 | [269972-pro-football-agent.json](./269972-pro-football-agent.json) |
 | Pro Football Dynasty | 429341 | [429341-pro-football-dynasty.json](./429341-pro-football-dynasty.json) |
 | Pro Football Online | 388173 | [388173-pro-football-online.json](./388173-pro-football-online.json) |
+| Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Manager 2 | 55581 | [55581-pro-gamer-manager-2.json](./55581-pro-gamer-manager-2.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
 | Pro Gamer: The Game | 418454 | [418454-pro-gamer-the-game.json](./418454-pro-gamer-the-game.json) |
