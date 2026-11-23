@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War - Season Six | 172674 | [172674-call-of-duty-black-ops-cold-war-season-six.json](./172674-call-of-duty-black-ops-cold-war-season-six.json) |
 | Call of Duty: Black Ops Cold War - Season Three | 146505 | [146505-call-of-duty-black-ops-cold-war-season-three.json](./146505-call-of-duty-black-ops-cold-war-season-three.json) |
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
+| Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
 | Call of Duty: Black Ops I & II Combo Pack | 136028 | [136028-call-of-duty-black-ops-i-and-ii-combo-pack.json](./136028-call-of-duty-black-ops-i-and-ii-combo-pack.json) |
 | Call of Duty: Black Ops II - Apocalypse | 21686 | [21686-call-of-duty-black-ops-ii-apocalypse.json](./21686-call-of-duty-black-ops-ii-apocalypse.json) |
@@ -10056,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Yeager's Advanced Flight Trainer 2.0 | 13494 | [13494-chuck-yeagers-advanced-flight-trainer-2-0.json](./13494-chuck-yeagers-advanced-flight-trainer-2-0.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
+| Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
 | Chuck's Extreme Crusher | 405217 | [405217-chucks-extreme-crusher.json](./405217-chucks-extreme-crusher.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
 | Chuckie Egg | 311365 | [311365-chuckie-egg.json](./311365-chuckie-egg.json) |
@@ -14573,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Bridge 4 | 14625 | [14625-colossus-bridge-4.json](./14625-colossus-bridge-4.json) |
 | Colossus Chess 4 | 94664 | [94664-colossus-chess-4.json](./94664-colossus-chess-4.json) |
 | Colossus Chess X | 14626 | [14626-colossus-chess-x.json](./14626-colossus-chess-x.json) |
+| Colossus Down | 140641 | [140641-colossus-down.json](./140641-colossus-down.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colossus Mah Jong | 13507 | [13507-colossus-mah-jong.json](./13507-colossus-mah-jong.json) |
 | Colossus Mission | 153651 | [153651-colossus-mission.json](./153651-colossus-mission.json) |
@@ -17947,6 +17950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
+| Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
 | Cotton Reboot! High Tension! | 329840 | [329840-cotton-reboot-high-tension.json](./329840-cotton-reboot-high-tension.json) |
 | Cotton Reboot!: Limited Edition | 166245 | [166245-cotton-reboot-limited-edition.json](./166245-cotton-reboot-limited-edition.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
@@ -20147,6 +20151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Revolution | 14941 | [14941-cricket-revolution.json](./14941-cricket-revolution.json) |
 | Cricket Through the Ages | 124398 | [124398-cricket-through-the-ages.json](./124398-cricket-through-the-ages.json) |
 | Cricket World Cup 99 | 70509 | [70509-cricket-world-cup-99.json](./70509-cricket-world-cup-99.json) |
+| Cricket: Jae's Really Peculiar Game | 138882 | [138882-cricket-jaes-really-peculiar-game.json](./138882-cricket-jaes-really-peculiar-game.json) |
 | CricktoGame | 110862 | [110862-cricktogame.json](./110862-cricktogame.json) |
 | CricVRX: VR Cricket | 120772 | [120772-cricvrx-vr-cricket.json](./120772-cricvrx-vr-cricket.json) |
 | Crikeymas | 399235 | [399235-crikeymas.json](./399235-crikeymas.json) |
