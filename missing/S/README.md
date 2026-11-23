@@ -26584,6 +26584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
 | Spot It! Challenge | 64619 | [64619-spot-it-challenge.json](./64619-spot-it-challenge.json) |
 | Spot It! Go! | 387842 | [387842-spot-it-go.json](./387842-spot-it-go.json) |
+| Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot Sample Witness Simulator | 161491 | [161491-spot-sample-witness-simulator.json](./161491-spot-sample-witness-simulator.json) |
 | Spot Stories Vol. 1 | 409292 | [409292-spot-stories-vol-1.json](./409292-spot-stories-vol-1.json) |
@@ -26931,6 +26932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter: Nowhere to Run | 6155 | [6155-spy-hunter-nowhere-to-run.json](./6155-spy-hunter-nowhere-to-run.json) |
 | Spy Intrigue | 59687 | [59687-spy-intrigue.json](./59687-spy-intrigue.json) |
 | Spy Kids 2: Mega Mission Zone | 9207 | [9207-spy-kids-2-mega-mission-zone.json](./9207-spy-kids-2-mega-mission-zone.json) |
+| Spy Kids 3-D: Game Over | 23693 | [23693-spy-kids-3-d-game-over.json](./23693-spy-kids-3-d-game-over.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Kids Learning Adventures: Mission - The Candy Conspiracy | 71266 | [71266-spy-kids-learning-adventures-mission-the-candy-conspiracy.json](./71266-spy-kids-learning-adventures-mission-the-candy-conspiracy.json) |
@@ -27065,6 +27067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Arcade | 372801 | [372801-squad-arcade.json](./372801-squad-arcade.json) |
 | Squad Assault | 54395 | [54395-squad-assault.json](./54395-squad-assault.json) |
 | Squad Assault: Second Wave | 24268 | [24268-squad-assault-second-wave.json](./24268-squad-assault-second-wave.json) |
+| Squad Assault: West Front | 23740 | [23740-squad-assault-west-front.json](./23740-squad-assault-west-front.json) |
 | Squad Battles: First World War | 185717 | [185717-squad-battles-first-world-war.json](./185717-squad-battles-first-world-war.json) |
 | Squad Battles: Grenada | 182273 | [182273-squad-battles-grenada.json](./182273-squad-battles-grenada.json) |
 | Squad Battles: Pacific War | 186150 | [186150-squad-battles-pacific-war.json](./186150-squad-battles-pacific-war.json) |
@@ -33095,6 +33098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Fighters Attack | 58395 | [58395-strike-fighters-attack.json](./58395-strike-fighters-attack.json) |
 | Strike Fighters Israel | 58401 | [58401-strike-fighters-israel.json](./58401-strike-fighters-israel.json) |
 | Strike Fighters Legends | 58396 | [58396-strike-fighters-legends.json](./58396-strike-fighters-legends.json) |
+| Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Fleet | 205 | [205-strike-fleet.json](./205-strike-fleet.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
