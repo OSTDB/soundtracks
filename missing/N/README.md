@@ -4919,7 +4919,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of The Abattoir Man | 311146 | [311146-night-of-the-abattoir-man.json](./311146-night-of-the-abattoir-man.json) |
 | Night of the Assassins | 293016 | [293016-night-of-the-assassins.json](./293016-night-of-the-assassins.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
-| Night of the Blood Moon | 107926 | [107926-night-of-the-blood-moon.json](./107926-night-of-the-blood-moon.json) |
 | Night of the Cephalopods | 66803 | [66803-night-of-the-cephalopods.json](./66803-night-of-the-cephalopods.json) |
 | Night of the Consumers | 131859 | [131859-night-of-the-consumers.json](./131859-night-of-the-consumers.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
@@ -5252,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Hunter | 211259 | [211259-nightmare-hunter.json](./211259-nightmare-hunter.json) |
 | Nightmare Hunter | 345528 | [345528-nightmare-hunter.json](./345528-nightmare-hunter.json) |
+| Nightmare Hunter Galaxy | 423413 | [423413-nightmare-hunter-galaxy.json](./423413-nightmare-hunter-galaxy.json) |
 | Nightmare in San Vicente | 419786 | [419786-nightmare-in-san-vicente.json](./419786-nightmare-in-san-vicente.json) |
 | Nightmare in Squidville | 255627 | [255627-nightmare-in-squidville.json](./255627-nightmare-in-squidville.json) |
 | Nightmare in the Dark | 40992 | [40992-nightmare-in-the-dark.json](./40992-nightmare-in-the-dark.json) |
