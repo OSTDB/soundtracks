@@ -8110,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Fighting 3 | 56150 | [56150-beyond-fighting-3.json](./56150-beyond-fighting-3.json) |
 | Beyond Flesh and Blood | 18350 | [18350-beyond-flesh-and-blood.json](./18350-beyond-flesh-and-blood.json) |
 | Beyond Flesh and Blood Episode 1 | 34740 | [34740-beyond-flesh-and-blood-episode-1.json](./34740-beyond-flesh-and-blood-episode-1.json) |
+| Beyond Galaxyland | 296381 | [296381-beyond-galaxyland.json](./296381-beyond-galaxyland.json) |
 | Beyond Golden Coins: Wario's Conquest + SML2 Reclaimed | 316536 | [316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json](./316536-beyond-golden-coins-warios-conquest-sml2-reclaimed.json) |
 | Beyond Good & Evil 2 | 1936 | [1936-beyond-good-and-evil-2.json](./1936-beyond-good-and-evil-2.json) |
 | Beyond Good & Evil HD | 20437 | [20437-beyond-good-and-evil-hd.json](./20437-beyond-good-and-evil-hd.json) |
