@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on a Jet Ski | 100383 | [100383-rat-on-a-jet-ski.json](./100383-rat-on-a-jet-ski.json) |
 | Rat on a Scooter XL | 101114 | [101114-rat-on-a-scooter-xl.json](./101114-rat-on-a-scooter-xl.json) |
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
+| Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
 | Rat Protocol | 402614 | [402614-rat-protocol.json](./402614-rat-protocol.json) |
@@ -9818,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip USA | 88342 | [88342-road-trip-usa.json](./88342-road-trip-usa.json) |
 | Road Trip USA 2: West - Collector's Edition | 239952 | [239952-road-trip-usa-2-west-collectors-edition.json](./239952-road-trip-usa-2-west-collectors-edition.json) |
 | Road Trip USA 3: Central | 338050 | [338050-road-trip-usa-3-central.json](./338050-road-trip-usa-3-central.json) |
+| Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
 | Road Trip: Shifting Gears | 49251 | [49251-road-trip-shifting-gears.json](./49251-road-trip-shifting-gears.json) |
 | Road Tripper | 150776 | [150776-road-tripper.json](./150776-road-tripper.json) |
@@ -13444,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Maker MZ | 137146 | [137146-rpg-maker-mz.json](./137146-rpg-maker-mz.json) |
 | RPG Maker MZ: Sinister Hollows | 53551 | [53551-rpg-maker-mz-sinister-hollows.json](./53551-rpg-maker-mz-sinister-hollows.json) |
 | RPG Maker U2U | 402546 | [402546-rpg-maker-u2u.json](./402546-rpg-maker-u2u.json) |
+| RPG Maker VX | 80205 | [80205-rpg-maker-vx.json](./80205-rpg-maker-vx.json) |
 | RPG Maker VX Ace | 30151 | [30151-rpg-maker-vx-ace.json](./30151-rpg-maker-vx-ace.json) |
 | RPG Maker VX Ace: Adventurer's Final Journey | 53534 | [53534-rpg-maker-vx-ace-adventurers-final-journey.json](./53534-rpg-maker-vx-ace-adventurers-final-journey.json) |
 | RPG Maker VX Ace: Arabian Nights | 53536 | [53536-rpg-maker-vx-ace-arabian-nights.json](./53536-rpg-maker-vx-ace-arabian-nights.json) |
