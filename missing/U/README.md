@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uni-Code | 347197 | [347197-uni-code.json](./347197-uni-code.json) |
 | Uni! | 421884 | [421884-uni.json](./421884-uni.json) |
 | Uni's On Air | 246227 | [246227-unis-on-air.json](./246227-unis-on-air.json) |
+| UniBall | 34331 | [34331-uniball.json](./34331-uniball.json) |
 | Unibat | 252225 | [252225-unibat.json](./252225-unibat.json) |
 | Uniboom: War of Unicorns | 164921 | [164921-uniboom-war-of-unicorns.json](./164921-uniboom-war-of-unicorns.json) |
 | Uniborne | 172939 | [172939-uniborne.json](./172939-uniborne.json) |
