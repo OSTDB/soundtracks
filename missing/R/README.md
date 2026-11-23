@@ -9992,6 +9992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbery Rush | 315940 | [315940-robbery-rush.json](./315940-robbery-rush.json) |
 | Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
 | Robbie and the Robots | 245111 | [245111-robbie-and-the-robots.json](./245111-robbie-and-the-robots.json) |
+| Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
 | Robbing the Princess | 326034 | [326034-robbing-the-princess.json](./326034-robbing-the-princess.json) |
 | Robbing Time | 350778 | [350778-robbing-time.json](./350778-robbing-time.json) |
@@ -11995,6 +11996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Arcade VR Bundle | 118862 | [118862-rollercoaster-arcade-vr-bundle.json](./118862-rollercoaster-arcade-vr-bundle.json) |
 | Rollercoaster Creator | 337202 | [337202-rollercoaster-creator.json](./337202-rollercoaster-creator.json) |
 | Rollercoaster Dash | 104460 | [104460-rollercoaster-dash.json](./104460-rollercoaster-dash.json) |
+| RollerCoaster Legends | 76932 | [76932-rollercoaster-legends.json](./76932-rollercoaster-legends.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | Rollercoaster Mechanic | 132624 | [132624-rollercoaster-mechanic.json](./132624-rollercoaster-mechanic.json) |
 | Rollercoaster Rush | 133915 | [133915-rollercoaster-rush.json](./133915-rollercoaster-rush.json) |
@@ -12872,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosen's Brigade | 297441 | [297441-rosens-brigade.json](./297441-rosens-brigade.json) |
 | Rosenkreuzstilette | 27181 | [27181-rosenkreuzstilette.json](./27181-rosenkreuzstilette.json) |
 | Rosenkreuzstilette Bundle | 290054 | [290054-rosenkreuzstilette-bundle.json](./290054-rosenkreuzstilette-bundle.json) |
+| Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
 | Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Roses of Love | 141360 | [141360-roses-of-love.json](./141360-roses-of-love.json) |
