@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lost | 193865 | [193865-paradise-lost.json](./193865-paradise-lost.json) |
 | Paradise Lost | 77077 | [77077-paradise-lost.json](./77077-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
+| Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Love | 379541 | [379541-paradise-love.json](./379541-paradise-love.json) |
 | Paradise Lust | 168565 | [168565-paradise-lust.json](./168565-paradise-lust.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
@@ -8015,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Crystal Caliburn II | 103573 | [103573-pinball-crystal-caliburn-ii.json](./103573-pinball-crystal-caliburn-ii.json) |
 | Pinball Deluxe | 209958 | [209958-pinball-deluxe.json](./209958-pinball-deluxe.json) |
 | Pinball Deluxe | 260802 | [260802-pinball-deluxe.json](./260802-pinball-deluxe.json) |
+| Pinball Deluxe | 49090 | [49090-pinball-deluxe.json](./49090-pinball-deluxe.json) |
 | Pinball Deluxe: Reloaded | 55250 | [55250-pinball-deluxe-reloaded.json](./55250-pinball-deluxe-reloaded.json) |
 | Pinball Dream | 365843 | [365843-pinball-dream.json](./365843-pinball-dream.json) |
 | Pinball Dreams | 194279 | [194279-pinball-dreams.json](./194279-pinball-dreams.json) |
@@ -8242,6 +8244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Madness 4 | 69788 | [69788-pinball-madness-4.json](./69788-pinball-madness-4.json) |
 | Pinball Magic | 38053 | [38053-pinball-magic.json](./38053-pinball-magic.json) |
 | Pinball Mania | 258146 | [258146-pinball-mania.json](./258146-pinball-mania.json) |
+| Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
 | Pinball Maniacs | 253262 | [253262-pinball-maniacs.json](./253262-pinball-maniacs.json) |
 | Pinball Massacre | 88728 | [88728-pinball-massacre.json](./88728-pinball-massacre.json) |
@@ -11218,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play a Match?: Play a Catch 2 | 384435 | [384435-play-a-match-play-a-catch-2.json](./384435-play-a-match-play-a-catch-2.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 217682 | [217682-play-action-football.json](./217682-play-action-football.json) |
+| Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
 | Play and Learn with Josephine | 205021 | [205021-play-and-learn-with-josephine.json](./205021-play-and-learn-with-josephine.json) |
 | Play And Pray | 312039 | [312039-play-and-pray.json](./312039-play-and-pray.json) |
 | Play Ball | 40401 | [40401-play-ball.json](./40401-play-ball.json) |
@@ -18271,6 +18275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Firestart | 40941 | [40941-project-firestart.json](./40941-project-firestart.json) |
 | Project First Contact | 257018 | [257018-project-first-contact.json](./257018-project-first-contact.json) |
+| Project First Contact | 47985 | [47985-project-first-contact.json](./47985-project-first-contact.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
 | Project Fleet | 351362 | [351362-project-fleet.json](./351362-project-fleet.json) |
 | Project Flesh | 111950 | [111950-project-flesh.json](./111950-project-flesh.json) |
@@ -19122,6 +19127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prophecy of Ashen | 334330 | [334330-prophecy-of-ashen.json](./334330-prophecy-of-ashen.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | Prophecy of the Shadow | 12461 | [12461-prophecy-of-the-shadow.json](./12461-prophecy-of-the-shadow.json) |
+| Prophecy: The Viking Child | 49029 | [49029-prophecy-the-viking-child.json](./49029-prophecy-the-viking-child.json) |
 | Prophesy of Pendor | 315431 | [315431-prophesy-of-pendor.json](./315431-prophesy-of-pendor.json) |
 | Prophet | 156898 | [156898-prophet.json](./156898-prophet.json) |
 | Prophet | 357677 | [357677-prophet.json](./357677-prophet.json) |
@@ -21817,6 +21823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramids and Aliens: Escape Room | 295019 | [295019-pyramids-and-aliens-escape-room.json](./295019-pyramids-and-aliens-escape-room.json) |
 | Pyramids of Egypt | 100286 | [100286-pyramids-of-egypt.json](./100286-pyramids-of-egypt.json) |
 | Pyramids of Ra | 372408 | [372408-pyramids-of-ra.json](./372408-pyramids-of-ra.json) |
+| Pyramids of Ra | 49027 | [49027-pyramids-of-ra.json](./49027-pyramids-of-ra.json) |
 | Pyramids Slot Machines | 187481 | [187481-pyramids-slot-machines.json](./187481-pyramids-slot-machines.json) |
 | PyramidValley: Reborn | 353395 | [353395-pyramidvalley-reborn.json](./353395-pyramidvalley-reborn.json) |
 | Pyraminx Solver | 87254 | [87254-pyraminx-solver.json](./87254-pyraminx-solver.json) |
