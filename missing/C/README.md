@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caketomino | 31599 | [31599-caketomino.json](./31599-caketomino.json) |
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
 | Cakey & Tanaka: Candy Land Adventure | 419483 | [419483-cakey-and-tanaka-candy-land-adventure.json](./419483-cakey-and-tanaka-candy-land-adventure.json) |
+| Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal & Bomba | 318656 | [318656-cal-and-bomba.json](./318656-cal-and-bomba.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
@@ -11176,6 +11177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clad In Iron: War of The Pacific 1879 | 334186 | [334186-clad-in-iron-war-of-the-pacific-1879.json](./334186-clad-in-iron-war-of-the-pacific-1879.json) |
 | Cladmen | 151028 | [151028-cladmen.json](./151028-cladmen.json) |
 | Cladun Returns: This is Sengoku! | 27331 | [27331-cladun-returns-this-is-sengoku.json](./27331-cladun-returns-this-is-sengoku.json) |
+| Cladun X3 | 317862 | [317862-cladun-x3.json](./317862-cladun-x3.json) |
 | Cladun: This is an RPG | 21576 | [21576-cladun-this-is-an-rpg.json](./21576-cladun-this-is-an-rpg.json) |
 | Claim Denied | 417190 | [417190-claim-denied.json](./417190-claim-denied.json) |
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
