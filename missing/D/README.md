@@ -8535,6 +8535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
 | Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
+| Desktop Hellfarmer | 426869 | [426869-desktop-hellfarmer.json](./426869-desktop-hellfarmer.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Kitten Girl | 370622 | [370622-desktop-kitten-girl.json](./370622-desktop-kitten-girl.json) |
@@ -14317,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Simulator | 161523 | [161523-domino-simulator.json](./161523-domino-simulator.json) |
 | Domino Sky | 33131 | [33131-domino-sky.json](./33131-domino-sky.json) |
 | Domino Solitaire | 83430 | [83430-domino-solitaire.json](./83430-domino-solitaire.json) |
+| Domino Tinkerer | 426845 | [426845-domino-tinkerer.json](./426845-domino-tinkerer.json) |
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Domino World AR | 95752 | [95752-domino-world-ar.json](./95752-domino-world-ar.json) |
 | Domino: The Little One | 275939 | [275939-domino-the-little-one.json](./275939-domino-the-little-one.json) |
@@ -22078,6 +22080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusted's Pandemonia | 199406 | [199406-dusteds-pandemonia.json](./199406-dusteds-pandemonia.json) |
 | Duster | 112572 | [112572-duster.json](./112572-duster.json) |
 | Dusteroids | 415206 | [415206-dusteroids.json](./415206-dusteroids.json) |
+| DustFall | 426849 | [426849-dustfall.json](./426849-dustfall.json) |
 | Dustforce | 94073 | [94073-dustforce.json](./94073-dustforce.json) |
 | Dustforce DX | 1340 | [1340-dustforce-dx.json](./1340-dustforce-dx.json) |
 | Dustgrave | 258131 | [258131-dustgrave.json](./258131-dustgrave.json) |
