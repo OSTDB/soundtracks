@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T01:25:54.481Z",
-  "total_soundtracks": 3914,
+  "generated_at": "2026-11-23T01:50:55.756Z",
+  "total_soundtracks": 3916,
   "games": [
     {
       "igdb_id": 292844,
@@ -13263,6 +13263,20 @@
         {
           "album_name": "Enclave OST",
           "spotify_url": "https://open.spotify.com/album/6wB6K7afRpiqir6UWQNDrC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112819,
+      "game_name": "EndCycle VS",
+      "game_url": "https://ostdb.net/games/endcycle-vs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a2eac4dba38e8f0d41c02124",
+      "albums": [
+        {
+          "album_name": "EndCycle VS (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/41wKIJNMuIFb9BvPmRz6xx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40471,6 +40485,20 @@
         {
           "album_name": "Super Bullet Break Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2owUNcclIIXmCZpHHtMLJ1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112799,
+      "game_name": "Super Crome: Bullet Purgatory",
+      "game_url": "https://ostdb.net/games/super-crome-bullet-purgatory",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a185b103a147998f857ce321",
+      "albums": [
+        {
+          "album_name": "Super Crome: Bullet Purgatory (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0mfom5vnazV9WsWn1KOHUw",
           "apple_music_url": "",
           "album_link_url": ""
         }
