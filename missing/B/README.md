@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backwards Dragons | 134099 | [134099-backwards-dragons.json](./134099-backwards-dragons.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
 | Backwater Eulogy | 317149 | [317149-backwater-eulogy.json](./317149-backwater-eulogy.json) |
+| Backwatt | 427622 | [427622-backwatt.json](./427622-backwatt.json) |
 | Backwoods Billiards | 205904 | [205904-backwoods-billiards.json](./205904-backwoods-billiards.json) |
 | Backwoods Town | 275097 | [275097-backwoods-town.json](./275097-backwoods-town.json) |
 | Backworlds | 107176 | [107176-backworlds.json](./107176-backworlds.json) |
@@ -7302,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
 | Ben 10 Ultimate Alien: Ultimate Defense | 353641 | [353641-ben-10-ultimate-alien-ultimate-defense.json](./353641-ben-10-ultimate-alien-ultimate-defense.json) |
+| Ben 10 Ultimate Alien: Ultimatrix Unleashed | 428016 | [428016-ben-10-ultimate-alien-ultimatrix-unleashed.json](./428016-ben-10-ultimate-alien-ultimatrix-unleashed.json) |
 | Ben 10 Ultimate Alien: Xenodrome Plus | 405291 | [405291-ben-10-ultimate-alien-xenodrome-plus.json](./405291-ben-10-ultimate-alien-xenodrome-plus.json) |
 | Ben 10 VR | 242828 | [242828-ben-10-vr.json](./242828-ben-10-vr.json) |
 | Ben 10: 001 - Character: Ben Tennyson | 363184 | [363184-ben-10-001-character-ben-tennyson.json](./363184-ben-10-001-character-ben-tennyson.json) |
@@ -9058,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted: Time & Time Again | 298944 | [298944-bill-and-ted-time-and-time-again.json](./298944-bill-and-ted-time-and-time-again.json) |
 | Bill & Ted's Excellent Adventure | 14302 | [14302-bill-and-teds-excellent-adventure.json](./14302-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
+| Bill & Ted's Excellent Adventure: Arcade | 427619 | [427619-bill-and-teds-excellent-adventure-arcade.json](./427619-bill-and-teds-excellent-adventure-arcade.json) |
 | Bill & Ted's Excellent Adventure: The Computer Game! | 83911 | [83911-bill-and-teds-excellent-adventure-the-computer-game.json](./83911-bill-and-teds-excellent-adventure-the-computer-game.json) |
 | Bill & Ted's Excellent Game Boy Adventure | 290651 | [290651-bill-and-teds-excellent-game-boy-adventure.json](./290651-bill-and-teds-excellent-game-boy-adventure.json) |
 | Bill & Ted's Excellent Game Boy Adventure: A Bogus Journey! | 7784 | [7784-bill-and-teds-excellent-game-boy-adventure-a-bogus-journey.json](./7784-bill-and-teds-excellent-game-boy-adventure-a-bogus-journey.json) |
@@ -15370,6 +15373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Booty Hunters! Digital | 422076 | [422076-booty-hunters-digital.json](./422076-booty-hunters-digital.json) |
 | Booty Quest: Match 3 Jewels! | 323071 | [323071-booty-quest-match-3-jewels.json](./323071-booty-quest-match-3-jewels.json) |
+| Booty Run | 428048 | [428048-booty-run.json](./428048-booty-run.json) |
 | BootyBuns & 21 | 91035 | [91035-bootybuns-and-21.json](./91035-bootybuns-and-21.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Boovie | 120655 | [120655-boovie.json](./120655-boovie.json) |
