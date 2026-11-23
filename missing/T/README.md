@@ -12469,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hohei: Senjou no Inu-tachi | 222030 | [222030-the-hohei-senjou-no-inu-tachi.json](./222030-the-hohei-senjou-no-inu-tachi.json) |
 | The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
 | The Hole | 368945 | [368945-the-hole.json](./368945-the-hole.json) |
+| The Hole | 428827 | [428827-the-hole.json](./428827-the-hole.json) |
 | The Hole | 97781 | [97781-the-hole.json](./97781-the-hole.json) |
 | The Hole in Blueblack Lake | 283121 | [283121-the-hole-in-blueblack-lake.json](./283121-the-hole-in-blueblack-lake.json) |
 | The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
@@ -17475,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plucky Squire: Deluxe Edition | 324778 | [324778-the-plucky-squire-deluxe-edition.json](./324778-the-plucky-squire-deluxe-edition.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plumber Thing | 223000 | [223000-the-plumber-thing.json](./223000-the-plumber-thing.json) |
+| The Plumber Thing: Early Years | 428845 | [428845-the-plumber-thing-early-years.json](./428845-the-plumber-thing-early-years.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
 | The Plutonia Experiment | 313170 | [313170-the-plutonia-experiment.json](./313170-the-plutonia-experiment.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
