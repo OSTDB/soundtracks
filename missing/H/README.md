@@ -5067,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellevator | 165569 | [165569-hellevator.json](./165569-hellevator.json) |
 | Hellevator | 398515 | [398515-hellevator.json](./398515-hellevator.json) |
 | Hellevator | 417429 | [417429-hellevator.json](./417429-hellevator.json) |
+| Hellevator | 429314 | [429314-hellevator.json](./429314-hellevator.json) |
 | Hellevators | 286035 | [286035-hellevators.json](./286035-hellevators.json) |
 | HellFight | 265793 | [265793-hellfight.json](./265793-hellfight.json) |
 | Hellfighter | 92458 | [92458-hellfighter.json](./92458-hellfighter.json) |
@@ -7252,6 +7253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Ruin | 6806 | [6806-heroes-of-ruin.json](./6806-heroes-of-ruin.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
+| Heroes of Science and Fiction: Xenauri Faction | 429400 | [429400-heroes-of-science-and-fiction-xenauri-faction.json](./429400-heroes-of-science-and-fiction-xenauri-faction.json) |
 | Heroes of Shadow Guard | 33587 | [33587-heroes-of-shadow-guard.json](./33587-heroes-of-shadow-guard.json) |
 | Heroes of Shaola | 57770 | [57770-heroes-of-shaola.json](./57770-heroes-of-shaola.json) |
 | Heroes of Sokoban | 381991 | [381991-heroes-of-sokoban.json](./381991-heroes-of-sokoban.json) |
@@ -11651,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde | 177191 | [177191-horde.json](./177191-horde.json) |
 | Horde | 179898 | [179898-horde.json](./179898-horde.json) |
 | Horde | 220379 | [220379-horde.json](./220379-horde.json) |
+| Horde | 429393 | [429393-horde.json](./429393-horde.json) |
 | Horde Arena | 334304 | [334304-horde-arena.json](./334304-horde-arena.json) |
 | Horde Attack | 55664 | [55664-horde-attack.json](./55664-horde-attack.json) |
 | Horde Circuit | 420504 | [420504-horde-circuit.json](./420504-horde-circuit.json) |
@@ -12983,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Doja Cat | 210156 | [210156-house-party-doja-cat.json](./210156-house-party-doja-cat.json) |
 | House Party: Halloween Holiday Pack | 230995 | [230995-house-party-halloween-holiday-pack.json](./230995-house-party-halloween-holiday-pack.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
+| House Party: Total Indulgence | 429526 | [429526-house-party-total-indulgence.json](./429526-house-party-total-indulgence.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
 | House Party: Winter Holiday Pack | 281265 | [281265-house-party-winter-holiday-pack.json](./281265-house-party-winter-holiday-pack.json) |
 | House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
