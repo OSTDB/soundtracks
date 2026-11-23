@@ -17985,6 +17985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 47 | 292700 | [292700-project-47.json](./292700-project-47.json) |
+| Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
 | Project 7: Escape Room | 357533 | [357533-project-7-escape-room.json](./357533-project-7-escape-room.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
