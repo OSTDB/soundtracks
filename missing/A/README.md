@@ -7244,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akimbo Reaper | 425184 | [425184-akimbo-reaper.json](./425184-akimbo-reaper.json) |
 | Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
+| Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
 | Akimi Village | 52032 | [52032-akimi-village.json](./52032-akimi-village.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin | 85902 | [85902-akin.json](./85902-akin.json) |
@@ -9377,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia Genesis 1 & 2 | 181983 | [181983-alphadia-genesis-1-and-2.json](./181983-alphadia-genesis-1-and-2.json) |
 | Alphadia I & II | 266776 | [266776-alphadia-i-and-ii.json](./266776-alphadia-i-and-ii.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
+| Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaJax | 64151 | [64151-alphajax.json](./64151-alphajax.json) |
@@ -14449,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aranuri: Badachingudeulkkwa hamkke Mandeuneun Sesang | 269648 | [269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json](./269648-aranuri-badachingudeulkkwa-hamkke-mandeuneun-sesang.json) |
 | Arapuca | 183727 | [183727-arapuca.json](./183727-arapuca.json) |
 | Arashi | 183332 | [183332-arashi.json](./183332-arashi.json) |
+| Arashi Gaiden | 307254 | [307254-arashi-gaiden.json](./307254-arashi-gaiden.json) |
 | Arashi no Yoru ni | 269645 | [269645-arashi-no-yoru-ni.json](./269645-arashi-no-yoru-ni.json) |
 | Arashi: Castles of Sin | 159109 | [159109-arashi-castles-of-sin.json](./159109-arashi-castles-of-sin.json) |
 | Arashi: Castles of Sin - Final Cut | 253196 | [253196-arashi-castles-of-sin-final-cut.json](./253196-arashi-castles-of-sin-final-cut.json) |
@@ -16996,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
 | Arsene Bomber: Cosmic | 291261 | [291261-arsene-bomber-cosmic.json](./291261-arsene-bomber-cosmic.json) |
 | Arsène Lupin: Gentleman Bomber | 150180 | [150180-arsene-lupin-gentleman-bomber.json](./150180-arsene-lupin-gentleman-bomber.json) |
+| Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
 | Arslan Senki | 79467 | [79467-arslan-senki.json](./79467-arslan-senki.json) |
@@ -19184,6 +19188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
 | Astrum Vanguard | 310299 | [310299-astrum-vanguard.json](./310299-astrum-vanguard.json) |
 | Astrumis: Survive Together | 321058 | [321058-astrumis-survive-together.json](./321058-astrumis-survive-together.json) |
+| Astrune Academy | 303834 | [303834-astrune-academy.json](./303834-astrune-academy.json) |
 | Astyanax | 215084 | [215084-astyanax.json](./215084-astyanax.json) |
 | Astyanax | 9036 | [9036-astyanax.json](./9036-astyanax.json) |
 | ASU | 231775 | [231775-asu.json](./231775-asu.json) |
