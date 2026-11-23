@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory II: Immortal Fire | 124901 | [124901-field-of-glory-ii-immortal-fire.json](./124901-field-of-glory-ii-immortal-fire.json) |
 | Field of Glory II: Legions Triumphant | 124885 | [124885-field-of-glory-ii-legions-triumphant.json](./124885-field-of-glory-ii-legions-triumphant.json) |
 | Field of Glory II: Masters Edition | 395288 | [395288-field-of-glory-ii-masters-edition.json](./395288-field-of-glory-ii-masters-edition.json) |
+| Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
 | Field of Glory II: Medieval - Rise of the Swiss | 200944 | [200944-field-of-glory-ii-medieval-rise-of-the-swiss.json](./200944-field-of-glory-ii-medieval-rise-of-the-swiss.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
@@ -11043,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Rest: Healing in Forest | 218208 | [218208-for-rest-healing-in-forest.json](./218208-for-rest-healing-in-forest.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
 | For Sale | 328269 | [328269-for-sale.json](./328269-for-sale.json) |
+| For Sparta | 144127 | [144127-for-sparta.json](./144127-for-sparta.json) |
 | For Sparta | 343740 | [343740-for-sparta.json](./343740-for-sparta.json) |
 | For Stella | 392276 | [392276-for-stella.json](./392276-for-stella.json) |
 | For Symphony: With All One's Heart | 202609 | [202609-for-symphony-with-all-ones-heart.json](./202609-for-symphony-with-all-ones-heart.json) |
