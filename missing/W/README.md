@@ -7724,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Without Within 2 | 34531 | [34531-without-within-2.json](./34531-without-within-2.json) |
+| Without Within 3 | 96382 | [96382-without-within-3.json](./96382-without-within-3.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
 | Withstand: Survival | 128771 | [128771-withstand-survival.json](./128771-withstand-survival.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodturning 3D: Complete Edition | 291644 | [291644-woodturning-3d-complete-edition.json](./291644-woodturning-3d-complete-edition.json) |
 | Woodventure: Mahjong Connect | 238980 | [238980-woodventure-mahjong-connect.json](./238980-woodventure-mahjong-connect.json) |
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
+| Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
 | Woodworm | 381485 | [381485-woodworm.json](./381485-woodworm.json) |
 | Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
@@ -9738,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Wrath of the Lich King: Secrets of Ulduar | 345181 | [345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json](./345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
+| World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: Anshan Pack | 155372 | [155372-world-of-warships-anshan-pack.json](./155372-world-of-warships-anshan-pack.json) |
 | World of Warships: Aurora Steam Edition | 196120 | [196120-world-of-warships-aurora-steam-edition.json](./196120-world-of-warships-aurora-steam-edition.json) |
