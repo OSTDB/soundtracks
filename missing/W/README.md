@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake World | 216846 | [216846-wake-world.json](./216846-wake-world.json) |
 | Wakeari! | 22473 | [22473-wakeari.json](./22473-wakeari.json) |
 | Wakeboarding HD | 53013 | [53013-wakeboarding-hd.json](./53013-wakeboarding-hd.json) |
+| Wakeboarding Unleashed Featuring Shaun Murray | 23694 | [23694-wakeboarding-unleashed-featuring-shaun-murray.json](./23694-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
 | Wakebreaker | 422270 | [422270-wakebreaker.json](./422270-wakebreaker.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes | 87177 | [87177-world-war-heroes.json](./87177-world-war-heroes.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War I | 35439 | [35439-world-war-i.json](./35439-world-war-i.json) |
+| World War I: The Great War | 23745 | [23745-world-war-i-the-great-war.json](./23745-world-war-i-the-great-war.json) |
 | World War II Armored Recon | 351508 | [351508-world-war-ii-armored-recon.json](./351508-world-war-ii-armored-recon.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
@@ -10972,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
 | WWE Legends of WrestleMania | 7488 | [7488-wwe-legends-of-wrestlemania.json](./7488-wwe-legends-of-wrestlemania.json) |
 | WWE Mayhem | 83218 | [83218-wwe-mayhem.json](./83218-wwe-mayhem.json) |
+| WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
 | WWE Raw | 6252 | [6252-wwe-raw.json](./6252-wwe-raw.json) |
