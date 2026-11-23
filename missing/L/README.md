@@ -4264,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
 | Let's Build a Zoo | 146395 | [146395-lets-build-a-zoo.json](./146395-lets-build-a-zoo.json) |
 | Let's Build a Zoo + Dinosaur Island Bundle | 208433 | [208433-lets-build-a-zoo-dinosaur-island-bundle.json](./208433-lets-build-a-zoo-dinosaur-island-bundle.json) |
+| Let's Build a Zoo: Amphibian Encounters | 427617 | [427617-lets-build-a-zoo-amphibian-encounters.json](./427617-lets-build-a-zoo-amphibian-encounters.json) |
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Dinosaur Island | 201433 | [201433-lets-build-a-zoo-dinosaur-island.json](./201433-lets-build-a-zoo-dinosaur-island.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lianhai Casino | 217048 | [217048-lianhai-casino.json](./217048-lianhai-casino.json) |
 | Lianliankan | 228208 | [228208-lianliankan.json](./228208-lianliankan.json) |
 | Lianthus | 138272 | [138272-lianthus.json](./138272-lianthus.json) |
+| Liàolǐ Luàndòu | 428031 | [428031-liaoli-luandou.json](./428031-liaoli-luandou.json) |
 | Liáozhāi Sōushénjì: Guófēng Kǎpái | 166861 | [166861-liaozhai-soushenji-guofeng-kapai.json](./166861-liaozhai-soushenji-guofeng-kapai.json) |
 | Liar & raiL FanDisk: Hotch Potch | 59171 | [59171-liar-and-rail-fandisk-hotch-potch.json](./59171-liar-and-rail-fandisk-hotch-potch.json) |
 | Liar Game | 334328 | [334328-liar-game.json](./334328-liar-game.json) |
