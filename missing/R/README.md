@@ -2517,7 +2517,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Invasion 2 | 86889 | [86889-rats-invasion-2.json](./86889-rats-invasion-2.json) |
 | Rats Invasion 3 - Physics Puzzle Game | 87203 | [87203-rats-invasion-3-physics-puzzle-game.json](./87203-rats-invasion-3-physics-puzzle-game.json) |
 | Rats Under My Skin | 177786 | [177786-rats-under-my-skin.json](./177786-rats-under-my-skin.json) |
-| Rats, Bats, and Bones | 113164 | [113164-rats-bats-and-bones.json](./113164-rats-bats-and-bones.json) |
 | Rats! | 49087 | [49087-rats.json](./49087-rats.json) |
 | Rats! | 61662 | [61662-rats.json](./61662-rats.json) |
 | Rats! | 94105 | [94105-rats.json](./94105-rats.json) |
@@ -7835,7 +7834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reydllom | 296127 | [296127-reydllom.json](./296127-reydllom.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reyna Darkness | 255472 | [255472-reyna-darkness.json](./255472-reyna-darkness.json) |
-| Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynard | 359202 | [359202-reynard.json](./359202-reynard.json) |
 | Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
 | Reynatis: "Another" Color Costume DLC | 317670 | [317670-reynatis-another-color-costume-dlc.json](./317670-reynatis-another-color-costume-dlc.json) |
@@ -9013,7 +9011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise of a Hero | 265982 | [265982-rise-of-a-hero.json](./265982-rise-of-a-hero.json) |
 | Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
-| Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Atom | 388767 | [388767-rise-of-atom.json](./388767-rise-of-atom.json) |
@@ -10014,7 +10011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert Mensah's Sins of the Father | 33287 | [33287-robert-mensahs-sins-of-the-father.json](./33287-robert-mensahs-sins-of-the-father.json) |
 | Robert on Earth | 303044 | [303044-robert-on-earth.json](./303044-robert-on-earth.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
-| Robert Rodriguez's The Limit: An Immersive Cinema Experience | 112843 | [112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json](./112843-robert-rodriguezs-the-limit-an-immersive-cinema-experience.json) |
 | Robert the Elf | 101816 | [101816-robert-the-elf.json](./101816-robert-the-elf.json) |
 | Robert: Space Stories and Battles | 190064 | [190064-robert-space-stories-and-battles.json](./190064-robert-space-stories-and-battles.json) |
 | Robert's Spooktacular Ghost Train | 320775 | [320775-roberts-spooktacular-ghost-train.json](./320775-roberts-spooktacular-ghost-train.json) |
@@ -14890,7 +14886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Prisoner VS Nazi Zombies | 90177 | [90177-russian-prisoner-vs-nazi-zombies.json](./90177-russian-prisoner-vs-nazi-zombies.json) |
 | Russian Psychiatric Pastoral | 248910 | [248910-russian-psychiatric-pastoral.json](./248910-russian-psychiatric-pastoral.json) |
 | Russian Random Speedmap Pack 3 | 311463 | [311463-russian-random-speedmap-pack-3.json](./311463-russian-random-speedmap-pack-3.json) |
-| Russian Reality | 111381 | [111381-russian-reality.json](./111381-russian-reality.json) |
 | Russian Roads | 81228 | [81228-russian-roads.json](./81228-russian-roads.json) |
 | Russian Roulette | 238972 | [238972-russian-roulette.json](./238972-russian-roulette.json) |
 | Russian Roulette | 265941 | [265941-russian-roulette.json](./265941-russian-roulette.json) |
