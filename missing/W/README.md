@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: Gold Edition | 42901 | [42901-watch-dogs-2-gold-edition.json](./42901-watch-dogs-2-gold-edition.json) |
 | Watch Dogs 2: Human Conditions | 27349 | [27349-watch-dogs-2-human-conditions.json](./27349-watch-dogs-2-human-conditions.json) |
 | Watch Dogs 2: Mega Pack | 226879 | [226879-watch-dogs-2-mega-pack.json](./226879-watch-dogs-2-mega-pack.json) |
+| Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
 | Watch Dogs 2: Psychedelic Pack | 263104 | [263104-watch-dogs-2-psychedelic-pack.json](./263104-watch-dogs-2-psychedelic-pack.json) |
 | Watch Dogs 2: San Francisco Edition | 308041 | [308041-watch-dogs-2-san-francisco-edition.json](./308041-watch-dogs-2-san-francisco-edition.json) |
@@ -6803,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Angels | 247991 | [247991-wings-of-angels.json](./247991-wings-of-angels.json) |
 | Wings of Aviora | 390085 | [390085-wings-of-aviora.json](./390085-wings-of-aviora.json) |
 | Wings of Beyond | 422794 | [422794-wings-of-beyond.json](./422794-wings-of-beyond.json) |
+| Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Dawn | 401817 | [401817-wings-of-dawn.json](./401817-wings-of-dawn.json) |
 | Wings of Death | 20893 | [20893-wings-of-death.json](./20893-wings-of-death.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
@@ -8014,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizodd | 137849 | [137849-wizodd.json](./137849-wizodd.json) |
 | Wizorb | 1364 | [1364-wizorb.json](./1364-wizorb.json) |
 | Wizordum | 216197 | [216197-wizordum.json](./216197-wizordum.json) |
+| Wizrogue: Labyrinth of Wizardry | 28557 | [28557-wizrogue-labyrinth-of-wizardry.json](./28557-wizrogue-labyrinth-of-wizardry.json) |
 | Wizschool: Ancient Book of Magic | 338347 | [338347-wizschool-ancient-book-of-magic.json](./338347-wizschool-ancient-book-of-magic.json) |
 | Wizsnooks | 182735 | [182735-wizsnooks.json](./182735-wizsnooks.json) |
 | Wiztern | 194298 | [194298-wiztern.json](./194298-wiztern.json) |
