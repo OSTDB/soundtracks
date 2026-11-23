@@ -2890,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Chaos Online | 427840 | [427840-legacy-of-chaos-online.json](./427840-legacy-of-chaos-online.json) |
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
+| Legacy of Defense: Hero Pack | 427515 | [427515-legacy-of-defense-hero-pack.json](./427515-legacy-of-defense-hero-pack.json) |
 | Legacy of Destiny | 108695 | [108695-legacy-of-destiny.json](./108695-legacy-of-destiny.json) |
 | Legacy of Discord: Furious Wings | 78668 | [78668-legacy-of-discord-furious-wings.json](./78668-legacy-of-discord-furious-wings.json) |
 | Legacy of Dorn: Herald of Oblivion | 31692 | [31692-legacy-of-dorn-herald-of-oblivion.json](./31692-legacy-of-dorn-herald-of-oblivion.json) |
