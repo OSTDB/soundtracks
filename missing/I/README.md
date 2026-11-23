@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
+| I Am Cat: Vacation | 429281 | [429281-i-am-cat-vacation.json](./429281-i-am-cat-vacation.json) |
 | I Am Clown Fish Escape | 389107 | [389107-i-am-clown-fish-escape.json](./389107-i-am-clown-fish-escape.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Data | 121538 | [121538-i-am-data.json](./121538-i-am-data.json) |
@@ -3350,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Ten Years | 329151 | [329151-in-ten-years.json](./329151-in-ten-years.json) |
 | In Tenebris | 405683 | [405683-in-tenebris.json](./405683-in-tenebris.json) |
 | In Tent to Kill! | 292890 | [292890-in-tent-to-kill.json](./292890-in-tent-to-kill.json) |
+| In That Case... | 428820 | [428820-in-that-case.json](./428820-in-that-case.json) |
 | In the 1st Degree | 22601 | [22601-in-the-1st-degree.json](./22601-in-the-1st-degree.json) |
 | In the Abyss | 306815 | [306815-in-the-abyss.json](./306815-in-the-abyss.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
