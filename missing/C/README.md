@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcification | 330037 | [330037-calcification.json](./330037-calcification.json) |
 | Calcio Championship | 69630 | [69630-calcio-championship.json](./69630-calcio-championship.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
+| Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
 | Calcul8^2 | 113224 | [113224-calcul8-2.json](./113224-calcul8-2.json) |
@@ -11561,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Sonic Improvement | 246691 | [246691-classic-sonic-improvement.json](./246691-classic-sonic-improvement.json) |
 | Classic Space Adventure | 367357 | [367357-classic-space-adventure.json](./367357-classic-space-adventure.json) |
 | Classic Spider HD | 89458 | [89458-classic-spider-hd.json](./89458-classic-spider-hd.json) |
+| Classic Sport Driving | 142575 | [142575-classic-sport-driving.json](./142575-classic-sport-driving.json) |
 | Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
@@ -13392,6 +13394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
 | Cog: The Rogue Machine | 270857 | [270857-cog-the-rogue-machine.json](./270857-cog-the-rogue-machine.json) |
 | Cogan's Run | 113992 | [113992-cogans-run.json](./113992-cogans-run.json) |
+| Cogen: Sword of Rewind | 142598 | [142598-cogen-sword-of-rewind.json](./142598-cogen-sword-of-rewind.json) |
 | Cogen: Sword of Rewind - Additional Story & Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2) | 274999 | [274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json](./274999-cogen-sword-of-rewind-additional-story-and-playable-character-copen-gunvolt-chronicles-luminous-avenger-ix-2.json) |
 | Cogen: Sword of Rewind - Additional Story ＆ Yuji Otori | 196103 | [196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json](./196103-cogen-sword-of-rewind-additional-story-and-yuji-otori.json) |
 | Cogen: Sword of Rewind - Limited Edition | 172803 | [172803-cogen-sword-of-rewind-limited-edition.json](./172803-cogen-sword-of-rewind-limited-edition.json) |
@@ -22816,6 +22819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Nonogram | 182248 | [182248-cupid-nonogram.json](./182248-cupid-nonogram.json) |
 | Cupid Parasite | 136964 | [136964-cupid-parasite.json](./136964-cupid-parasite.json) |
 | Cupid Parasite: Day One Edition | 171287 | [171287-cupid-parasite-day-one-edition.json](./171287-cupid-parasite-day-one-edition.json) |
+| Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite: Sweet and Spicy Darling - Special Edition | 259212 | [259212-cupid-parasite-sweet-and-spicy-darling-special-edition.json](./259212-cupid-parasite-sweet-and-spicy-darling-special-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
