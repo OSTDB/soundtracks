@@ -1477,7 +1477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Brick | 147488 | [147488-unblock-brick.json](./147488-unblock-brick.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
 | Unblock Gem | 36930 | [36930-unblock-gem.json](./36930-unblock-gem.json) |
-| Unblock Gridlock | 113285 | [113285-unblock-gridlock.json](./113285-unblock-gridlock.json) |
 | Unblock Hex | 36940 | [36940-unblock-hex.json](./36940-unblock-hex.json) |
 | Unblock Me | 87174 | [87174-unblock-me.json](./87174-unblock-me.json) |
 | Unblock Me Car | 148921 | [148921-unblock-me-car.json](./148921-unblock-me-car.json) |
