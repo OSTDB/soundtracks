@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T00:45:54.238Z",
-  "total_soundtracks": 3912,
+  "generated_at": "2026-11-23T01:15:57.160Z",
+  "total_soundtracks": 3913,
   "games": [
     {
       "igdb_id": 292844,
@@ -46087,6 +46087,20 @@
         {
           "album_name": "Tower of Shades (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/68jKmoQYHrNRcYIJpfsxp7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112938,
+      "game_name": "Towertale",
+      "game_url": "https://ostdb.net/games/towertale",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5eff485d76b559258702d0",
+      "albums": [
+        {
+          "album_name": "Towertale Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3BWpFp1bjpmSKwiGbeP4oN",
           "apple_music_url": "",
           "album_link_url": ""
         }
