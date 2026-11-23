@@ -10699,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackEye | 40851 | [40851-blackeye.json](./40851-blackeye.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
+| Blackfaun | 34279 | [34279-blackfaun.json](./34279-blackfaun.json) |
 | Blackfire Crusade | 403082 | [403082-blackfire-crusade.json](./403082-blackfire-crusade.json) |
 | Blackfoot Burrows | 110640 | [110640-blackfoot-burrows.json](./110640-blackfoot-burrows.json) |
 | BlackForge VR | 223219 | [223219-blackforge-vr.json](./223219-blackforge-vr.json) |
@@ -18255,6 +18256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliant Crystals | 389033 | [389033-brilliant-crystals.json](./389033-brilliant-crystals.json) |
 | Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
+| Brilliant Shadows: Part One of the Book of Gray Magic | 34291 | [34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json](./34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json) |
 | Brilliantcrypto | 307474 | [307474-brilliantcrypto.json](./307474-brilliantcrypto.json) |
 | Brimhelm | 129384 | [129384-brimhelm.json](./129384-brimhelm.json) |
 | Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
