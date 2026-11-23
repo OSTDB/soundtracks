@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T11:15:55.818Z",
-  "total_soundtracks": 3927,
+  "generated_at": "2026-11-23T13:06:01.190Z",
+  "total_soundtracks": 3928,
   "games": [
     {
       "igdb_id": 292844,
@@ -9423,6 +9423,20 @@
         {
           "album_name": "Dan the Man (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2BnrCrwOFuJmQ2pC0R5lDd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107360,
+      "game_name": "Dance Collider",
+      "game_url": "https://ostdb.net/games/dance-collider",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27322a920630b0a7a756f3dbd85",
+      "albums": [
+        {
+          "album_name": "Dance Collider (VR OST)",
+          "spotify_url": "https://open.spotify.com/album/45U8mNKMXx4kmkDymkfyU8",
           "apple_music_url": "",
           "album_link_url": ""
         }
