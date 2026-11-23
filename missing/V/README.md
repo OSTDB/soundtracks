@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vale's Echo | 373588 | [373588-vales-echo.json](./373588-vales-echo.json) |
 | Valefor | 291685 | [291685-valefor.json](./291685-valefor.json) |
 | Valefor II | 403765 | [403765-valefor-ii.json](./403765-valefor-ii.json) |
+| ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
 | Valehands | 422782 | [422782-valehands.json](./422782-valehands.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valence | 390853 | [390853-valence.json](./390853-valence.json) |
