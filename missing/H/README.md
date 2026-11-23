@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellhunt GB 1991 | 178440 | [178440-hellhunt-gb-1991.json](./178440-hellhunt-gb-1991.json) |
 | Hellink | 114963 | [114963-hellink.json](./114963-hellink.json) |
 | Hellino | 134003 | [134003-hellino.json](./134003-hellino.json) |
+| Hellion | 28050 | [28050-hellion.json](./28050-hellion.json) |
 | Hellion: Mystery of the Inquisition | 66397 | [66397-hellion-mystery-of-the-inquisition.json](./66397-hellion-mystery-of-the-inquisition.json) |
 | Hellion: The Legend of Jeff | 184841 | [184841-hellion-the-legend-of-jeff.json](./184841-hellion-the-legend-of-jeff.json) |
 | Hellish Fright & Burgers | 380785 | [380785-hellish-fright-and-burgers.json](./380785-hellish-fright-and-burgers.json) |
