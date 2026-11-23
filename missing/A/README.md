@@ -3886,7 +3886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adidas Power Soccer International '97 | 43743 | [43743-adidas-power-soccer-international-97.json](./43743-adidas-power-soccer-international-97.json) |
 | Adieu Those In Love | 283340 | [283340-adieu-those-in-love.json](./283340-adieu-those-in-love.json) |
 | Adios | 138270 | [138270-adios.json](./138270-adios.json) |
-| Adios Amigos | 107241 | [107241-adios-amigos.json](./107241-adios-amigos.json) |
 | Adios Amigos: Galactic Explorers | 197685 | [197685-adios-amigos-galactic-explorers.json](./197685-adios-amigos-galactic-explorers.json) |
 | Adit 11 | 379557 | [379557-adit-11.json](./379557-adit-11.json) |
 | Adit Rush | 183687 | [183687-adit-rush.json](./183687-adit-rush.json) |
@@ -5011,7 +5010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
 | Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
-| Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
 | Aestia: The Engineer's Odyssey | 426466 | [426466-aestia-the-engineers-odyssey.json](./426466-aestia-the-engineers-odyssey.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Lucis | 280572 | [280572-aeterna-lucis.json](./280572-aeterna-lucis.json) |
@@ -9112,7 +9110,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
 | Almost | 244670 | [244670-almost.json](./244670-almost.json) |
 | Almost a Hero | 101454 | [101454-almost-a-hero.json](./101454-almost-a-hero.json) |
-| Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Dungeon | 303134 | [303134-almost-dungeon.json](./303134-almost-dungeon.json) |
 | Almost Hero | 56692 | [56692-almost-hero.json](./56692-almost-hero.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
@@ -21286,7 +21283,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awari | 56068 | [56068-awari.json](./56068-awari.json) |
 | Away | 137713 | [137713-away.json](./137713-away.json) |
 | Away from beauty | 115077 | [115077-away-from-beauty.json](./115077-away-from-beauty.json) |
-| Away From Earth: Mars | 105446 | [105446-away-from-earth-mars.json](./105446-away-from-earth-mars.json) |
 | Away From Earth: Titan 2 | 120750 | [120750-away-from-earth-titan-2.json](./120750-away-from-earth-titan-2.json) |
 | Away From Home | 258676 | [258676-away-from-home.json](./258676-away-from-home.json) |
 | Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
@@ -21477,7 +21473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2015 | 35276 | [35276-axis-football-2015.json](./35276-axis-football-2015.json) |
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
-| Axis Football 2018 | 107524 | [107524-axis-football-2018.json](./107524-axis-football-2018.json) |
 | Axis Football 2019 | 122034 | [122034-axis-football-2019.json](./122034-axis-football-2019.json) |
 | Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
