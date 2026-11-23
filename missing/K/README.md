@@ -3876,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Conquest II | 51652 | [51652-kingdom-conquest-ii.json](./51652-kingdom-conquest-ii.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Craft | 406999 | [406999-kingdom-craft.json](./406999-kingdom-craft.json) |
+| Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Owls | 339680 | [339680-knight-owls.json](./339680-knight-owls.json) |
 | Knight Party | 283058 | [283058-knight-party.json](./283058-knight-party.json) |
+| Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 218335 | [218335-knight-rider.json](./218335-knight-rider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
