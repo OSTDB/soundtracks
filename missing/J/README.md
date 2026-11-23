@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of the World | 119676 | [119676-journey-of-the-world.json](./119676-journey-of-the-world.json) |
 | Journey of Wrestling | 144618 | [144618-journey-of-wrestling.json](./144618-journey-of-wrestling.json) |
 | Journey On | 154023 | [154023-journey-on.json](./154023-journey-on.json) |
+| Journey on the Other Side | 428049 | [428049-journey-on-the-other-side.json](./428049-journey-on-the-other-side.json) |
 | Journey Quest | 428181 | [428181-journey-quest.json](./428181-journey-quest.json) |
 | Journey Record | 202295 | [202295-journey-record.json](./202295-journey-record.json) |
 | Journey Record | 265961 | [265961-journey-record.json](./265961-journey-record.json) |
