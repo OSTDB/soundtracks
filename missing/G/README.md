@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Yonbaiken: Tenshi no Daigyakushu | 207177 | [207177-genso-yonbaiken-tenshi-no-daigyakushu.json](./207177-genso-yonbaiken-tenshi-no-daigyakushu.json) |
 | Gensokishi Online | 267589 | [267589-gensokishi-online.json](./267589-gensokishi-online.json) |
 | Gensokyo Daisenso | 213120 | [213120-gensokyo-daisenso.json](./213120-gensokyo-daisenso.json) |
+| Gensokyo Defenders | 96386 | [96386-gensokyo-defenders.json](./96386-gensokyo-defenders.json) |
 | Gensokyo Defenders Plus | 210333 | [210333-gensokyo-defenders-plus.json](./210333-gensokyo-defenders-plus.json) |
 | Gensokyo Night Festival | 121286 | [121286-gensokyo-night-festival.json](./121286-gensokyo-night-festival.json) |
 | Gensokyo Ninja Warrior | 134845 | [134845-gensokyo-ninja-warrior.json](./134845-gensokyo-ninja-warrior.json) |
@@ -6784,6 +6785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
 | Goblin Vyke: The Thief Tycoon | 347465 | [347465-goblin-vyke-the-thief-tycoon.json](./347465-goblin-vyke-the-thief-tycoon.json) |
+| Goblin Walker | 96420 | [96420-goblin-walker.json](./96420-goblin-walker.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
@@ -8653,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic: The Dark Secrets | 234383 | [234383-gothic-the-dark-secrets.json](./234383-gothic-the-dark-secrets.json) |
 | Gothic: Universe Edition | 53073 | [53073-gothic-universe-edition.json](./53073-gothic-universe-edition.json) |
 | Gothica: The Devil's Shadow | 217257 | [217257-gothica-the-devils-shadow.json](./217257-gothica-the-devils-shadow.json) |
+| Gothicc Breaker | 93744 | [93744-gothicc-breaker.json](./93744-gothicc-breaker.json) |
 | GothicDM | 143039 | [143039-gothicdm.json](./143039-gothicdm.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
 | Gothik | 14098 | [14098-gothik.json](./14098-gothik.json) |
