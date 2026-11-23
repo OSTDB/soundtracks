@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
 | Fighters of Fate | 214289 | [214289-fighters-of-fate.json](./214289-fighters-of-fate.json) |
+| Fighters on Stream | 428662 | [428662-fighters-on-stream.json](./428662-fighters-on-stream.json) |
 | Fighters Swords | 40133 | [40133-fighters-swords.json](./40133-fighters-swords.json) |
 | Fighters Uncaged | 2660 | [2660-fighters-uncaged.json](./2660-fighters-uncaged.json) |
 | Fighters Unleashed | 30166 | [30166-fighters-unleashed.json](./30166-fighters-unleashed.json) |
@@ -6278,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Christmas | 324240 | [324240-find-all-christmas.json](./324240-find-all-christmas.json) |
 | Find All: Christmas 2025 - Extra Level | 382724 | [382724-find-all-christmas-2025-extra-level.json](./382724-find-all-christmas-2025-extra-level.json) |
+| Find All: Extra Level | 428158 | [428158-find-all-extra-level.json](./428158-find-all-extra-level.json) |
 | Find All: Halloween | 374503 | [374503-find-all-halloween.json](./374503-find-all-halloween.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
@@ -10167,6 +10169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Unicorn | 256532 | [256532-flying-unicorn.json](./256532-flying-unicorn.json) |
 | Flying Universe | 379019 | [379019-flying-universe.json](./379019-flying-universe.json) |
 | Flying Warriors | 48126 | [48126-flying-warriors.json](./48126-flying-warriors.json) |
+| Flying Wing | 428633 | [428633-flying-wing.json](./428633-flying-wing.json) |
 | Flying Wings HoverCraft | 248763 | [248763-flying-wings-hovercraft.json](./248763-flying-wings-hovercraft.json) |
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
