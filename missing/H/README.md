@@ -218,7 +218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack'n Stalk 2.0 | 129490 | [129490-hackn-stalk-2-0.json](./129490-hackn-stalk-2-0.json) |
 | Hack9 | 218181 | [218181-hack9.json](./218181-hack9.json) |
 | HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
-| Hacked | 108948 | [108948-hacked.json](./108948-hacked.json) |
 | Hacked | 33233 | [33233-hacked.json](./33233-hacked.json) |
 | Hacked: The Streamer | 373456 | [373456-hacked-the-streamer.json](./373456-hacked-the-streamer.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
@@ -1549,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Manager: Team | 90454 | [90454-handball-manager-team.json](./90454-handball-manager-team.json) |
 | Handball Pelota | 193773 | [193773-handball-pelota.json](./193773-handball-pelota.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
+| HandFoot | 423422 | [423422-handfoot.json](./423422-handfoot.json) |
 | Handgun Football | 391243 | [391243-handgun-football.json](./391243-handgun-football.json) |
 | Handheld Electronic Games | 202882 | [202882-handheld-electronic-games.json](./202882-handheld-electronic-games.json) |
 | Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have a Blast | 122079 | [122079-have-a-blast.json](./122079-have-a-blast.json) |
 | Have a Blast | 151490 | [151490-have-a-blast.json](./151490-have-a-blast.json) |
 | Have a Good Day | 302778 | [302778-have-a-good-day.json](./302778-have-a-good-day.json) |
+| Have a Good Night | 423421 | [423421-have-a-good-night.json](./423421-have-a-good-night.json) |
 | Have a N.I.C.E. day! | 71710 | [71710-have-a-n-i-c-e-day.json](./71710-have-a-n-i-c-e-day.json) |
 | Have a Nice Dream | 148259 | [148259-have-a-nice-dream.json](./148259-have-a-nice-dream.json) |
 | Have an Ice Day | 364962 | [364962-have-an-ice-day.json](./364962-have-an-ice-day.json) |
@@ -5598,7 +5599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai | 55752 | [55752-hentai.json](./55752-hentai.json) |
 | Hentai 15 Puzzle 2 | 236379 | [236379-hentai-15-puzzle-2.json](./236379-hentai-15-puzzle-2.json) |
 | Hentai 18+ | 261874 | [261874-hentai-18.json](./261874-hentai-18.json) |
-| Hentai 2+2=4 | 110176 | [110176-hentai-2-2-4.json](./110176-hentai-2-2-4.json) |
 | Hentai 3018 | 102360 | [102360-hentai-3018.json](./102360-hentai-3018.json) |
 | Hentai Abandoned | 389172 | [389172-hentai-abandoned.json](./389172-hentai-abandoned.json) |
 | Hentai Abigail | 259833 | [259833-hentai-abigail.json](./259833-hentai-abigail.json) |
@@ -6145,7 +6145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
 | Hentai Nazi: Battle of Japan | 371016 | [371016-hentai-nazi-battle-of-japan.json](./371016-hentai-nazi-battle-of-japan.json) |
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
-| Hentai Neighbors | 110678 | [110678-hentai-neighbors.json](./110678-hentai-neighbors.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Neko Mosaic! | 366502 | [366502-hentai-neko-mosaic.json](./366502-hentai-neko-mosaic.json) |
 | Hentai Nekogirl | 286412 | [286412-hentai-nekogirl.json](./286412-hentai-nekogirl.json) |
@@ -6156,7 +6155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Night Club | 375521 | [375521-hentai-night-club.json](./375521-hentai-night-club.json) |
 | Hentai Night Milf | 371377 | [371377-hentai-night-milf.json](./371377-hentai-night-milf.json) |
 | Hentai Ninja Garden | 366506 | [366506-hentai-ninja-garden.json](./366506-hentai-ninja-garden.json) |
-| Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
 | Hentai Nureta Puzzle Cyberpunk | 163557 | [163557-hentai-nureta-puzzle-cyberpunk.json](./163557-hentai-nureta-puzzle-cyberpunk.json) |
 | Hentai Nureta Puzzle Mythica | 157898 | [157898-hentai-nureta-puzzle-mythica.json](./157898-hentai-nureta-puzzle-mythica.json) |
@@ -6232,7 +6230,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Simulator 2 | 403716 | [403716-hentai-puzzle-simulator-2.json](./403716-hentai-puzzle-simulator-2.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
-| Hentai Puzzle X | 108356 | [108356-hentai-puzzle-x.json](./108356-hentai-puzzle-x.json) |
 | Hentai Puzzle X | 377000 | [377000-hentai-puzzle-x.json](./377000-hentai-puzzle-x.json) |
 | Hentai Puzzle XX | 377012 | [377012-hentai-puzzle-xx.json](./377012-hentai-puzzle-xx.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
@@ -6331,7 +6328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Solitaire: Themes Pack | 310476 | [310476-hentai-solitaire-themes-pack.json](./310476-hentai-solitaire-themes-pack.json) |
 | Hentai Solitaire: Ultimate Edition | 313785 | [313785-hentai-solitaire-ultimate-edition.json](./313785-hentai-solitaire-ultimate-edition.json) |
 | Hentai Sora | 393227 | [393227-hentai-sora.json](./393227-hentai-sora.json) |
-| Hentai Space | 109316 | [109316-hentai-space.json](./109316-hentai-space.json) |
 | Hentai Spacegirl | 389149 | [389149-hentai-spacegirl.json](./389149-hentai-spacegirl.json) |
 | Hentai SpaceSuit | 243553 | [243553-hentai-spacesuit.json](./243553-hentai-spacesuit.json) |
 | Hentai Special 4-in-1 | 399644 | [399644-hentai-special-4-in-1.json](./399644-hentai-special-4-in-1.json) |
@@ -6374,7 +6370,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
 | Hentai Stories: Elven | 167410 | [167410-hentai-stories-elven.json](./167410-hentai-stories-elven.json) |
 | Hentai Strawberry | 366517 | [366517-hentai-strawberry.json](./366517-hentai-strawberry.json) |
-| Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
 | Hentai Students: Love Puzzle | 163519 | [163519-hentai-students-love-puzzle.json](./163519-hentai-students-love-puzzle.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
@@ -8531,7 +8526,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Path of Faery | 356135 | [356135-hidden-path-of-faery.json](./356135-hidden-path-of-faery.json) |
 | Hidden Paws | 91160 | [91160-hidden-paws.json](./91160-hidden-paws.json) |
 | Hidden Paws Bundle | 262324 | [262324-hidden-paws-bundle.json](./262324-hidden-paws-bundle.json) |
-| Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
 | Hidden Photo Mysteries: The Truth Gets Scary | 415060 | [415060-hidden-photo-mysteries-the-truth-gets-scary.json](./415060-hidden-photo-mysteries-the-truth-gets-scary.json) |
 | Hidden Pictures Puzzle Play | 106751 | [106751-hidden-pictures-puzzle-play.json](./106751-hidden-pictures-puzzle-play.json) |
@@ -9454,7 +9448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinter | 197461 | [197461-hinter.json](./197461-hinter.json) |
 | Hinter Gittern Vol. II | 100143 | [100143-hinter-gittern-vol-ii.json](./100143-hinter-gittern-vol-ii.json) |
 | Hinterhalt | 74477 | [74477-hinterhalt.json](./74477-hinterhalt.json) |
-| Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterkaifeck: The Farmhouse Murders | 388894 | [388894-hinterkaifeck-the-farmhouse-murders.json](./388894-hinterkaifeck-the-farmhouse-murders.json) |
 | Hinterland | 137307 | [137307-hinterland.json](./137307-hinterland.json) |
@@ -11242,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Then Wake to Weep | 298930 | [298930-honkai-star-rail-then-wake-to-weep.json](./298930-honkai-star-rail-then-wake-to-weep.json) |
 | Honkai: Star Rail - Through the Petals in the Land of Repose | 337916 | [337916-honkai-star-rail-through-the-petals-in-the-land-of-repose.json](./337916-honkai-star-rail-through-the-petals-in-the-land-of-repose.json) |
 | Honkai: Star Rail - To Roll the Stars in Astropolis | 413869 | [413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json](./413869-honkai-star-rail-to-roll-the-stars-in-astropolis.json) |
+| Honkai: Star Rail - Trailblazer Edition | 423430 | [423430-honkai-star-rail-trailblazer-edition.json](./423430-honkai-star-rail-trailblazer-edition.json) |
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
