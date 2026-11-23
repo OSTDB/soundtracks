@@ -6298,6 +6298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Expedition 47 | 190895 | [190895-deep-space-expedition-47.json](./190895-deep-space-expedition-47.json) |
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
 | Deep Space Gardening | 157817 | [157817-deep-space-gardening.json](./157817-deep-space-gardening.json) |
+| Deep Space Indemnity | 427615 | [427615-deep-space-indemnity.json](./427615-deep-space-indemnity.json) |
 | Deep Space Invaders | 101146 | [101146-deep-space-invaders.json](./101146-deep-space-invaders.json) |
 | Deep Space Miner | 429580 | [429580-deep-space-miner.json](./429580-deep-space-miner.json) |
 | Deep Space Outpost | 192347 | [192347-deep-space-outpost.json](./192347-deep-space-outpost.json) |
@@ -10326,6 +10327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Schätze der Griechen | 86133 | [86133-die-schatze-der-griechen.json](./86133-die-schatze-der-griechen.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
 | Die Scraper | 271981 | [271981-die-scraper.json](./271981-die-scraper.json) |
+| Die Severed | 427609 | [427609-die-severed.json](./427609-die-severed.json) |
 | Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
 | Die Siedler IV: Die Neue Welt | 255532 | [255532-die-siedler-iv-die-neue-welt.json](./255532-die-siedler-iv-die-neue-welt.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
@@ -21070,6 +21072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dreams | 108841 | [108841-dungeon-dreams.json](./108841-dungeon-dreams.json) |
 | Dungeon Dreams (Female Protagonist) | 126752 | [126752-dungeon-dreams-female-protagonist.json](./126752-dungeon-dreams-female-protagonist.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
+| Dungeon Dreams 2: Kickstarter Goodies | 428033 | [428033-dungeon-dreams-2-kickstarter-goodies.json](./428033-dungeon-dreams-2-kickstarter-goodies.json) |
 | Dungeon Dreams Wanderers | 373997 | [373997-dungeon-dreams-wanderers.json](./373997-dungeon-dreams-wanderers.json) |
 | Dungeon Drops | 344599 | [344599-dungeon-drops.json](./344599-dungeon-drops.json) |
 | Dungeon Dueler | 197093 | [197093-dungeon-dueler.json](./197093-dungeon-dueler.json) |
