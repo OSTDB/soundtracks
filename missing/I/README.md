@@ -1738,7 +1738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Human | 204484 | [204484-idle-human.json](./204484-idle-human.json) |
 | Idle Human 2 | 204486 | [204486-idle-human-2.json](./204486-idle-human-2.json) |
 | Idle Human Evolution | 220165 | [220165-idle-human-evolution.json](./220165-idle-human-evolution.json) |
-| Idle Hunter | 107885 | [107885-idle-hunter.json](./107885-idle-hunter.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
 | Idle Huntress: Dragon Realm | 193906 | [193906-idle-huntress-dragon-realm.json](./193906-idle-huntress-dragon-realm.json) |
 | Idle Idle | 366093 | [366093-idle-idle.json](./366093-idle-idle.json) |
@@ -5507,7 +5506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurance Hunter | 405952 | [405952-insurance-hunter.json](./405952-insurance-hunter.json) |
 | Insurance Worker Game | 380510 | [380510-insurance-worker-game.json](./380510-insurance-worker-game.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
-| Insurgence: Chains of Renegade | 108339 | [108339-insurgence-chains-of-renegade.json](./108339-insurgence-chains-of-renegade.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
@@ -6312,7 +6310,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion From Beyond | 22804 | [22804-invasion-from-beyond.json](./22804-invasion-from-beyond.json) |
 | Invasion From Planet X2½ | 395608 | [395608-invasion-from-planet-x21-2.json](./395608-invasion-from-planet-x21-2.json) |
 | Invasion From Space | 191063 | [191063-invasion-from-space.json](./191063-invasion-from-space.json) |
-| Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
 | Invasion of Alien X: Earth in Crisis | 122723 | [122723-invasion-of-alien-x-earth-in-crisis.json](./122723-invasion-of-alien-x-earth-in-crisis.json) |
 | Invasion of Barbarians | 27020 | [27020-invasion-of-barbarians.json](./27020-invasion-of-barbarians.json) |
 | Invasion of Space | 294681 | [294681-invasion-of-space.json](./294681-invasion-of-space.json) |
