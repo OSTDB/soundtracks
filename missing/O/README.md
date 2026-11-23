@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otterna | 200411 | [200411-otterna.json](./200411-otterna.json) |
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
+| Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
 | Otti: The House Keeper | 142592 | [142592-otti-the-house-keeper.json](./142592-otti-the-house-keeper.json) |
 | Ottifanten Pinball | 65062 | [65062-ottifanten-pinball.json](./65062-ottifanten-pinball.json) |
 | Ottifanten: Ostfriesen Lemminge in Not | 410100 | [410100-ottifanten-ostfriesen-lemminge-in-not.json](./410100-ottifanten-ostfriesen-lemminge-in-not.json) |
