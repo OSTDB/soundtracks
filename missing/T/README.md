@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
 | Tennis | 82527 | [82527-tennis.json](./82527-tennis.json) |
 | Tennis | 95499 | [95499-tennis.json](./95499-tennis.json) |
+| Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
 | Tennis 2024 Simulator | 280149 | [280149-tennis-2024-simulator.json](./280149-tennis-2024-simulator.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
 | Tennis Ace | 195829 | [195829-tennis-ace.json](./195829-tennis-ace.json) |
@@ -5730,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris with Cardcaptor Sakura: Eternal Heart | 80285 | [80285-tetris-with-cardcaptor-sakura-eternal-heart.json](./80285-tetris-with-cardcaptor-sakura-eternal-heart.json) |
 | Tetris Worlds | 243183 | [243183-tetris-worlds.json](./243183-tetris-worlds.json) |
 | Tetris Worlds | 4200 | [4200-tetris-worlds.json](./4200-tetris-worlds.json) |
+| Tetris Worlds: Online Edition | 23709 | [23709-tetris-worlds-online-edition.json](./23709-tetris-worlds-online-edition.json) |
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
 | Tetris x Hello Kitty | 145723 | [145723-tetris-x-hello-kitty.json](./145723-tetris-x-hello-kitty.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
@@ -10160,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Travels: Dawnstar | 47571 | [47571-the-elder-scrolls-travels-dawnstar.json](./47571-the-elder-scrolls-travels-dawnstar.json) |
 | The Elder Scrolls Travels: Oblivion | 77202 | [77202-the-elder-scrolls-travels-oblivion.json](./77202-the-elder-scrolls-travels-oblivion.json) |
 | The Elder Scrolls Travels: Shadowkey | 6262 | [6262-the-elder-scrolls-travels-shadowkey.json](./6262-the-elder-scrolls-travels-shadowkey.json) |
+| The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
 | The Elder Scrolls V: Skyrim - Anniversary Edition | 165192 | [165192-the-elder-scrolls-v-skyrim-anniversary-edition.json](./165192-the-elder-scrolls-v-skyrim-anniversary-edition.json) |
 | The Elder Scrolls V: Skyrim - Apostasy | 392823 | [392823-the-elder-scrolls-v-skyrim-apostasy.json](./392823-the-elder-scrolls-v-skyrim-apostasy.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
@@ -15354,6 +15357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of War | 262064 | [262064-the-lord-of-war.json](./262064-the-lord-of-war.json) |
 | The Lords of Midnight | 25733 | [25733-the-lords-of-midnight.json](./25733-the-lords-of-midnight.json) |
 | The Lords of Midnight | 272816 | [272816-the-lords-of-midnight.json](./272816-the-lords-of-midnight.json) |
+| The Lords of the Earth Flame | 23723 | [23723-the-lords-of-the-earth-flame.json](./23723-the-lords-of-the-earth-flame.json) |
 | The Losers Team | 339188 | [339188-the-losers-team.json](./339188-the-losers-team.json) |
 | The Loss Levels | 179652 | [179652-the-loss-levels.json](./179652-the-loss-levels.json) |
 | The Lost | 120432 | [120432-the-lost.json](./120432-the-lost.json) |
@@ -19676,6 +19680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
 | The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
+| The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The Song of Seven: Chapter One | 58579 | [58579-the-song-of-seven-chapter-one.json](./58579-the-song-of-seven-chapter-one.json) |
 | The song of Star night | 150486 | [150486-the-song-of-star-night.json](./150486-the-song-of-star-night.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
@@ -29438,6 +29443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 210434 | [210434-tony-hawks-pro-skater-4.json](./210434-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
+| Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
 | Tony Hawk's Pro Skater 5 | 10090 | [10090-tony-hawks-pro-skater-5.json](./10090-tony-hawks-pro-skater-5.json) |
 | Tony Hawk's Pro Skater HD | 1382 | [1382-tony-hawks-pro-skater-hd.json](./1382-tony-hawks-pro-skater-hd.json) |
 | Tony Hawk's Pro Skater HD: Revert Pack | 346921 | [346921-tony-hawks-pro-skater-hd-revert-pack.json](./346921-tony-hawks-pro-skater-hd-revert-pack.json) |
