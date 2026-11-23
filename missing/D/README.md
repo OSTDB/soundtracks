@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadton Aguinández | 320621 | [320621-dadton-aguinandez.json](./320621-dadton-aguinandez.json) |
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
 | Daedalia | 428161 | [428161-daedalia.json](./428161-daedalia.json) |
+| Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
 | Daedalic Turn-Based Bundle | 324216 | [324216-daedalic-turn-based-bundle.json](./324216-daedalic-turn-based-bundle.json) |
 | Daedalus | 282003 | [282003-daedalus.json](./282003-daedalus.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Heat | 92387 | [92387-dead-heat.json](./92387-dead-heat.json) |
 | Dead Heat Riders | 288175 | [288175-dead-heat-riders.json](./288175-dead-heat-riders.json) |
+| Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
 | Dead Herring VR | 159464 | [159464-dead-herring-vr.json](./159464-dead-herring-vr.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
@@ -12451,6 +12453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Emperor's New Groove | 74425 | [74425-disneys-the-emperors-new-groove.json](./74425-disneys-the-emperors-new-groove.json) |
 | Disney's The Emperor's New Groove | 74426 | [74426-disneys-the-emperors-new-groove.json](./74426-disneys-the-emperors-new-groove.json) |
 | Disney's The Haunted Mansion | 267497 | [267497-disneys-the-haunted-mansion.json](./267497-disneys-the-haunted-mansion.json) |
+| Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
 | Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame | 48992 | [48992-disneys-the-hunchback-of-notre-dame.json](./48992-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 120518 | [120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
@@ -16072,6 +16075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
 | Double Dribble | 198730 | [198730-double-dribble.json](./198730-double-dribble.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
+| Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
 | Double Dribble: The Playoff Edition | 4433 | [4433-double-dribble-the-playoff-edition.json](./4433-double-dribble-the-playoff-edition.json) |
 | Double Duck | 403447 | [403447-double-duck.json](./403447-double-duck.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
@@ -16440,6 +16444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Dodgeball | 50993 | [50993-downtown-nekketsu-dodgeball.json](./50993-downtown-nekketsu-dodgeball.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
+| Downtown Nekketsu Koushinkyoku: Dokodemo Daiundoukai | 49109 | [49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json](./49109-downtown-nekketsu-koushinkyoku-dokodemo-daiundoukai.json) |
 | Downtown Nekketsu Koushinkyoku: Soreyuke Daiundoukai | 36753 | [36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json](./36753-downtown-nekketsu-koushinkyoku-soreyuke-daiundoukai.json) |
 | Downtown Nekketsu March Super-Awesome Field Day! | 73083 | [73083-downtown-nekketsu-march-super-awesome-field-day.json](./73083-downtown-nekketsu-march-super-awesome-field-day.json) |
 | Downtown Nekketsu Monogatari | 145363 | [145363-downtown-nekketsu-monogatari.json](./145363-downtown-nekketsu-monogatari.json) |
