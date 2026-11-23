@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T02:45:54.677Z",
-  "total_soundtracks": 3917,
+  "generated_at": "2026-11-23T02:56:03.092Z",
+  "total_soundtracks": 3918,
   "games": [
     {
       "igdb_id": 292844,
@@ -35901,6 +35901,20 @@
         {
           "album_name": "Serious Sam's Bogus Detour (Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/07adXMI0SzNbEzMc7FW2EL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112077,
+      "game_name": "Serious Scramblers",
+      "game_url": "https://ostdb.net/games/serious-scramblers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c9b45b7b54c464bdf4f87a5d",
+      "albums": [
+        {
+          "album_name": "Serious Scramblers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6fonzahBDQaJbNCr2sVfdj",
           "apple_music_url": "",
           "album_link_url": ""
         }
