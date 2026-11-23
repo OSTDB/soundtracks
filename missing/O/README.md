@@ -2768,7 +2768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Planet | 427884 | [427884-one-more-planet.json](./427884-one-more-planet.json) |
 | One More Plate | 322091 | [322091-one-more-plate.json](./322091-one-more-plate.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
-| One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
 | One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
 | One More Run: Endless Cricket Runner | 233161 | [233161-one-more-run-endless-cricket-runner.json](./233161-one-more-run-endless-cricket-runner.json) |
 | One More Shooter Game | 271609 | [271609-one-more-shooter-game.json](./271609-one-more-shooter-game.json) |
@@ -3334,7 +3333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onigokko! | 153767 | [153767-onigokko.json](./153767-onigokko.json) |
 | Onii Kiss: Onii-chan, Where's My Kiss? | 401171 | [401171-onii-kiss-onii-chan-wheres-my-kiss.json](./401171-onii-kiss-onii-chan-wheres-my-kiss.json) |
 | Onii-Chan | 89968 | [89968-onii-chan.json](./89968-onii-chan.json) |
-| Onii-chan Asobo | 111087 | [111087-onii-chan-asobo.json](./111087-onii-chan-asobo.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Oniken | 8963 | [8963-oniken.json](./8963-oniken.json) |
 | Oniken + Odallus Collection | 124320 | [124320-oniken-odallus-collection.json](./124320-oniken-odallus-collection.json) |
@@ -6400,7 +6398,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
 | Overdriven Reloaded: Special Edition | 53438 | [53438-overdriven-reloaded-special-edition.json](./53438-overdriven-reloaded-special-edition.json) |
 | Overdue | 419224 | [419224-overdue.json](./419224-overdue.json) |
-| Overdungeon | 111507 | [111507-overdungeon.json](./111507-overdungeon.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
