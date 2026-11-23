@@ -11978,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Your Crush! | 154363 | [154363-click-your-crush.json](./154363-click-your-crush.json) |
 | Click Your Poison: Infected | 193717 | [193717-click-your-poison-infected.json](./193717-click-your-poison-infected.json) |
 | Click-Her | 385310 | [385310-click-her.json](./385310-click-her.json) |
+| Click-Her: Busty Clicks | 426881 | [426881-click-her-busty-clicks.json](./426881-click-her-busty-clicks.json) |
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
@@ -12127,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb It! | 346892 | [346892-climb-it.json](./346892-climb-it.json) |
 | Climb Jump | 175746 | [175746-climb-jump.json](./175746-climb-jump.json) |
 | Climb Jump Obby Tower | 366208 | [366208-climb-jump-obby-tower.json](./366208-climb-jump-obby-tower.json) |
+| Climb King | 426913 | [426913-climb-king.json](./426913-climb-king.json) |
 | Climb Knight | 320510 | [320510-climb-knight.json](./320510-climb-knight.json) |
 | Climb New York Parkour VR | 244640 | [244640-climb-new-york-parkour-vr.json](./244640-climb-new-york-parkour-vr.json) |
 | Climb of Death | 383322 | [383322-climb-of-death.json](./383322-climb-of-death.json) |
@@ -21945,6 +21947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Story: Awakening | 134771 | [134771-crystal-story-awakening.json](./134771-crystal-story-awakening.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
+| Crystal Surge | 426901 | [426901-crystal-surge.json](./426901-crystal-surge.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
 | Crystal sword | 164032 | [164032-crystal-sword.json](./164032-crystal-sword.json) |
 | Crystal Tales Tactics: Echoes of the Libertas War | 212090 | [212090-crystal-tales-tactics-echoes-of-the-libertas-war.json](./212090-crystal-tales-tactics-echoes-of-the-libertas-war.json) |
