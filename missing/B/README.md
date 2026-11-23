@@ -8920,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BigWorld: Citizen Zero | 60673 | [60673-bigworld-citizen-zero.json](./60673-bigworld-citizen-zero.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Biing! 2: Sonne, Strand und Heisse Nächte | 71330 | [71330-biing-2-sonne-strand-und-heisse-nachte.json](./71330-biing-2-sonne-strand-und-heisse-nachte.json) |
+| Biing!: Sex, Intrigue and Scalpels | 50348 | [50348-biing-sex-intrigue-and-scalpels.json](./50348-biing-sex-intrigue-and-scalpels.json) |
 | Bik - A Space Adventure | 17878 | [17878-bik-a-space-adventure.json](./17878-bik-a-space-adventure.json) |
 | Bike Arena | 236266 | [236266-bike-arena.json](./236266-bike-arena.json) |
 | Bike Banditz | 216262 | [216262-bike-banditz.json](./216262-bike-banditz.json) |
@@ -14794,6 +14795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
 | BoneBone: Rise of the Deathlord | 32808 | [32808-bonebone-rise-of-the-deathlord.json](./32808-bonebone-rise-of-the-deathlord.json) |
 | Bonebuilder | 344058 | [344058-bonebuilder.json](./344058-bonebuilder.json) |
+| BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned | 338431 | [338431-boned.json](./338431-boned.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | BoneD: Dead Men Don't Jump | 66163 | [66163-boned-dead-men-dont-jump.json](./66163-boned-dead-men-dont-jump.json) |
@@ -15169,6 +15171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Fighters | 89586 | [89586-boom-fighters.json](./89586-boom-fighters.json) |
 | Boom Gear | 351555 | [351555-boom-gear.json](./351555-boom-gear.json) |
 | Boom Guys | 176141 | [176141-boom-guys.json](./176141-boom-guys.json) |
+| Boom Island | 68810 | [68810-boom-island.json](./68810-boom-island.json) |
 | Boom Jump | 292898 | [292898-boom-jump.json](./292898-boom-jump.json) |
 | Boom Karts: Multiplayer Kart Racing | 144982 | [144982-boom-karts-multiplayer-kart-racing.json](./144982-boom-karts-multiplayer-kart-racing.json) |
 | Boom Land | 103148 | [103148-boom-land.json](./103148-boom-land.json) |
