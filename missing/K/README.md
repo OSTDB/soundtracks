@@ -4043,6 +4043,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
 | Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
 | Kingdom Rush Frontiers | 6006 | [6006-kingdom-rush-frontiers.json](./6006-kingdom-rush-frontiers.json) |
+| Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
+| Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
 | Kingdom Rush Origins | 41496 | [41496-kingdom-rush-origins.json](./41496-kingdom-rush-origins.json) |
 | Kingdom Rush Origins HD | 86887 | [86887-kingdom-rush-origins-hd.json](./86887-kingdom-rush-origins-hd.json) |
 | Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
@@ -6039,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Antiques: MSX Collection Vol. 1 | 44882 | [44882-konami-antiques-msx-collection-vol-1.json](./44882-konami-antiques-msx-collection-vol-1.json) |
 | Konami Antiques: MSX Collection Vol. 2 | 44804 | [44804-konami-antiques-msx-collection-vol-2.json](./44804-konami-antiques-msx-collection-vol-2.json) |
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
+| Konami Arcade Classics | 79704 | [79704-konami-arcade-classics.json](./79704-konami-arcade-classics.json) |
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
 | Konami Classics Vol. 1 | 47386 | [47386-konami-classics-vol-1.json](./47386-konami-classics-vol-1.json) |
 | Konami Classics Vol. 2 | 47368 | [47368-konami-classics-vol-2.json](./47368-konami-classics-vol-2.json) |
@@ -6527,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
 | Koumajou Densetsu I&II Premium Pack | 210769 | [210769-koumajou-densetsu-i-and-ii-premium-pack.json](./210769-koumajou-densetsu-i-and-ii-premium-pack.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
+| Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Koumajou Remilia: Scarlet Symphony | 151806 | [151806-koumajou-remilia-scarlet-symphony.json](./151806-koumajou-remilia-scarlet-symphony.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
 | Kour 64 | 313667 | [313667-kour-64.json](./313667-kour-64.json) |
