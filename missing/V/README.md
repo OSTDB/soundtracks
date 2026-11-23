@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermis Orbita | 208546 | [208546-vermis-orbita.json](./208546-vermis-orbita.json) |
 | Vermitron | 149197 | [149197-vermitron.json](./149197-vermitron.json) |
 | Vermiworm | 183309 | [183309-vermiworm.json](./183309-vermiworm.json) |
+| Vernal Edge | 138365 | [138365-vernal-edge.json](./138365-vernal-edge.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Verne: The Shape of Fantasy | 131885 | [131885-verne-the-shape-of-fantasy.json](./131885-verne-the-shape-of-fantasy.json) |
 | Vernon's Legacy | 35350 | [35350-vernons-legacy.json](./35350-vernons-legacy.json) |
