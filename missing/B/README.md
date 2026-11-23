@@ -15230,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boombaz! | 420714 | [420714-boombaz.json](./420714-boombaz.json) |
 | Boomblastica | 65520 | [65520-boomblastica.json](./65520-boomblastica.json) |
 | BoomBoard! | 198043 | [198043-boomboard.json](./198043-boomboard.json) |
+| BoomBoomBattle | 428830 | [428830-boomboombattle.json](./428830-boomboombattle.json) |
 | Boombot | 275180 | [275180-boombot.json](./275180-boombot.json) |
 | Boombot 2 | 335457 | [335457-boombot-2.json](./335457-boombot-2.json) |
 | BoomBots | 10918 | [10918-boombots.json](./10918-boombots.json) |
@@ -20823,6 +20824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Chaos: Drift Car Project | 285349 | [285349-burnout-chaos-drift-car-project.json](./285349-burnout-chaos-drift-car-project.json) |
 | Burnout Crash! | 20160 | [20160-burnout-crash.json](./20160-burnout-crash.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
+| Burnout Dominator Reversed | 429276 | [429276-burnout-dominator-reversed.json](./429276-burnout-dominator-reversed.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Legends | 194233 | [194233-burnout-legends.json](./194233-burnout-legends.json) |
