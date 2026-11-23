@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
 | Parallels: Year One | 295578 | [295578-parallels-year-one.json](./295578-parallels-year-one.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
+| Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
 | Paralysi | 273999 | [273999-paralysi.json](./273999-paralysi.json) |
 | Paralysis | 401231 | [401231-paralysis.json](./401231-paralysis.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
@@ -10799,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planeta 55 | 244169 | [244169-planeta-55.json](./244169-planeta-55.json) |
 | Planeta Dollynho | 181570 | [181570-planeta-dollynho.json](./181570-planeta-dollynho.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
+| Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: Snow Globe | 155835 | [155835-planetarian-snow-globe.json](./155835-planetarian-snow-globe.json) |
 | Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
@@ -21568,6 +21570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles & Girls | 220230 | [220230-puzzles-and-girls.json](./220230-puzzles-and-girls.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles and Pieces | 304081 | [304081-puzzles-and-pieces.json](./304081-puzzles-and-pieces.json) |
+| Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles By Axis | 86415 | [86415-puzzles-by-axis.json](./86415-puzzles-by-axis.json) |
 | Puzzles By Axis Hyper | 104923 | [104923-puzzles-by-axis-hyper.json](./104923-puzzles-by-axis-hyper.json) |
 | Puzzles Desert | 422047 | [422047-puzzles-desert.json](./422047-puzzles-desert.json) |
