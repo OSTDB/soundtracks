@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Corps | 76979 | [76979-hard-corps.json](./76979-hard-corps.json) |
 | Hard Corps: Uprising | 21174 | [21174-hard-corps-uprising.json](./21174-hard-corps-uprising.json) |
 | Hard Corps: Uprising - PC Port | 425616 | [425616-hard-corps-uprising-pc-port.json](./425616-hard-corps-uprising-pc-port.json) |
+| Hard Count | 426309 | [426309-hard-count.json](./426309-hard-count.json) |
 | Hard Crisis | 346019 | [346019-hard-crisis.json](./346019-hard-crisis.json) |
 | Hard Days | 267087 | [267087-hard-days.json](./267087-hard-days.json) |
 | Hard Depot | 428125 | [428125-hard-depot.json](./428125-hard-depot.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardpack Rally | 427991 | [427991-hardpack-rally.json](./427991-hardpack-rally.json) |
 | Hardpan | 426582 | [426582-hardpan.json](./426582-hardpan.json) |
 | Hardpoint | 372187 | [372187-hardpoint.json](./372187-hardpoint.json) |
+| Hardpoint | 426871 | [426871-hardpoint.json](./426871-hardpoint.json) |
 | Hardpunch: Fuck 4Joy | 165812 | [165812-hardpunch-fuck-4joy.json](./165812-hardpunch-fuck-4joy.json) |
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
