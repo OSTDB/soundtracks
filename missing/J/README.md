@@ -3148,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey of Johann: Castle Crusade | 409805 | [409805-journey-of-johann-castle-crusade.json](./409805-journey-of-johann-castle-crusade.json) |
 | Journey of Johann: Grasslands | 327442 | [327442-journey-of-johann-grasslands.json](./327442-journey-of-johann-grasslands.json) |
 | Journey of Johann: Snowy Mountain | 388295 | [388295-journey-of-johann-snowy-mountain.json](./388295-journey-of-johann-snowy-mountain.json) |
+| Journey of Life | 97174 | [97174-journey-of-life.json](./97174-journey-of-life.json) |
 | Journey of Realm: Dawn Dew | 279562 | [279562-journey-of-realm-dawn-dew.json](./279562-journey-of-realm-dawn-dew.json) |
 | Journey of Reincarnation | 303598 | [303598-journey-of-reincarnation.json](./303598-journey-of-reincarnation.json) |
 | Journey Of Rune | 343484 | [343484-journey-of-rune.json](./343484-journey-of-rune.json) |
@@ -3871,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpfox: Always Running | 278547 | [278547-jumpfox-always-running.json](./278547-jumpfox-always-running.json) |
 | Jumpgate Evolution | 94708 | [94708-jumpgate-evolution.json](./94708-jumpgate-evolution.json) |
 | Jumpgate: The Reconstruction Initiative | 765 | [765-jumpgate-the-reconstruction-initiative.json](./765-jumpgate-the-reconstruction-initiative.json) |
+| Jumpgrid | 111420 | [111420-jumpgrid.json](./111420-jumpgrid.json) |
 | JumpGuy | 55238 | [55238-jumpguy.json](./55238-jumpguy.json) |
 | JumpHead: Battle4Fun! | 108291 | [108291-jumphead-battle4fun.json](./108291-jumphead-battle4fun.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
