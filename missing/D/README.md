@@ -4502,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
 | Dead Sea | 25514 | [25514-dead-sea.json](./25514-dead-sea.json) |
 | Dead Sea Scrolls | 356382 | [356382-dead-sea-scrolls.json](./356382-dead-sea-scrolls.json) |
+| Dead Season | 295207 | [295207-dead-season.json](./295207-dead-season.json) |
 | Dead Seater | 145174 | [145174-dead-seater.json](./145174-dead-seater.json) |
 | Dead Second | 216300 | [216300-dead-second.json](./216300-dead-second.json) |
 | Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
@@ -5186,6 +5187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2: Death End Box | 136721 | [136721-death-end-re-quest-2-death-end-box.json](./136721-death-end-re-quest-2-death-end-box.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
 | Death End Re;Quest 3 | 405964 | [405964-death-end-re-quest-3.json](./405964-death-end-re-quest-3.json) |
+| Death End Re;Quest Code Z | 292873 | [292873-death-end-re-quest-code-z.json](./292873-death-end-re-quest-code-z.json) |
 | Death End Re;Quest: Deluxe Bundle | 114010 | [114010-death-end-re-quest-deluxe-bundle.json](./114010-death-end-re-quest-deluxe-bundle.json) |
 | Death End Re;Quest: Dungeon Re;Quest Pack | 223547 | [223547-death-end-re-quest-dungeon-re-quest-pack.json](./223547-death-end-re-quest-dungeon-re-quest-pack.json) |
 | Death end re;Quest: Rook's Traveler Set | 223826 | [223826-death-end-re-quest-rooks-traveler-set.json](./223826-death-end-re-quest-rooks-traveler-set.json) |
@@ -5586,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathsmiles: Limited Edition | 47407 | [47407-deathsmiles-limited-edition.json](./47407-deathsmiles-limited-edition.json) |
 | DeathSpank | 2249 | [2249-deathspank.json](./2249-deathspank.json) |
 | DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
+| DeathSprint 66 | 292868 | [292868-deathsprint-66.json](./292868-deathsprint-66.json) |
 | Deathstar | 94808 | [94808-deathstar.json](./94808-deathstar.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
@@ -11970,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6: Defiance of Destiny - Unrelenting Edition | 151926 | [151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json](./151926-disgaea-6-defiance-of-destiny-unrelenting-edition.json) |
 | Disgaea 6: Defiance of Destiny - Usalia | 238316 | [238316-disgaea-6-defiance-of-destiny-usalia.json](./238316-disgaea-6-defiance-of-destiny-usalia.json) |
 | Disgaea 6: Defiance of Destiny - Valvatorez | 238317 | [238317-disgaea-6-defiance-of-destiny-valvatorez.json](./238317-disgaea-6-defiance-of-destiny-valvatorez.json) |
+| Disgaea 7 Complete | 295622 | [295622-disgaea-7-complete.json](./295622-disgaea-7-complete.json) |
 | Disgaea 7: Glasses Costumes Set | 268541 | [268541-disgaea-7-glasses-costumes-set.json](./268541-disgaea-7-glasses-costumes-set.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea 7: Vows of the Virtueless - Bonus Story: The Delinquent, Curry Lover, and Lady Overlord | 269960 | [269960-disgaea-7-vows-of-the-virtueless-bonus-story-the-delinquent-curry-lover-and-lady-overlord.json](./269960-disgaea-7-vows-of-the-virtueless-bonus-story-the-delinquent-curry-lover-and-lady-overlord.json) |
