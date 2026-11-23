@@ -10880,6 +10880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Knight | 10782 | [10782-rocket-knight.json](./10782-rocket-knight.json) |
 | Rocket Knight Adventures | 9766 | [9766-rocket-knight-adventures.json](./9766-rocket-knight-adventures.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
+| Rocket Lamps | 426889 | [426889-rocket-lamps.json](./426889-rocket-lamps.json) |
 | Rocket Lander | 25152 | [25152-rocket-lander.json](./25152-rocket-lander.json) |
 | Rocket League Sideswipe: Season 5 | 223084 | [223084-rocket-league-sideswipe-season-5.json](./223084-rocket-league-sideswipe-season-5.json) |
 | Rocket League: Aftershock | 399990 | [399990-rocket-league-aftershock.json](./399990-rocket-league-aftershock.json) |
