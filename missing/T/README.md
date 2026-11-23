@@ -5936,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thang Global | 136583 | [136583-thang-global.json](./136583-thang-global.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
+| Thank You 4 Playing | 429405 | [429405-thank-you-4-playing.json](./429405-thank-you-4-playing.json) |
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You for Sharing Your World | 276608 | [276608-thank-you-for-sharing-your-world.json](./276608-thank-you-for-sharing-your-world.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
@@ -7856,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brains & The Brawn | 221771 | [221771-the-brains-and-the-brawn.json](./221771-the-brains-and-the-brawn.json) |
 | The Branch | 231456 | [231456-the-branch.json](./231456-the-branch.json) |
 | The Branch | 345273 | [345273-the-branch.json](./345273-the-branch.json) |
+| The Brave Few | 429332 | [429332-the-brave-few.json](./429332-the-brave-few.json) |
 | The Brave Furries | 53711 | [53711-the-brave-furries.json](./53711-the-brave-furries.json) |
 | The Brave Hearts II: False Skies | 415480 | [415480-the-brave-hearts-ii-false-skies.json](./415480-the-brave-hearts-ii-false-skies.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
@@ -10574,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorer | 132875 | [132875-the-explorer.json](./132875-the-explorer.json) |
 | The Explorer | 380910 | [380910-the-explorer.json](./380910-the-explorer.json) |
+| The Explorer | 429320 | [429320-the-explorer.json](./429320-the-explorer.json) |
 | The Explorer of Night | 116180 | [116180-the-explorer-of-night.json](./116180-the-explorer-of-night.json) |
 | The Explorers | 177416 | [177416-the-explorers.json](./177416-the-explorers.json) |
 | The Explors: Pyramid Explorers | 122917 | [122917-the-explors-pyramid-explorers.json](./122917-the-explors-pyramid-explorers.json) |
@@ -14451,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of Ezra Raymond Squirrel | 331774 | [331774-the-legend-of-ezra-raymond-squirrel.json](./331774-the-legend-of-ezra-raymond-squirrel.json) |
 | The Legend of Fancy Realm | 420843 | [420843-the-legend-of-fancy-realm.json](./420843-the-legend-of-fancy-realm.json) |
+| The Legend of Fancy Realm Remake | 429310 | [429310-the-legend-of-fancy-realm-remake.json](./429310-the-legend-of-fancy-realm-remake.json) |
 | The Legend of Fartacus | 336847 | [336847-the-legend-of-fartacus.json](./336847-the-legend-of-fartacus.json) |
 | The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
@@ -14497,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki the 3rd Evolution | 153540 | [153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json](./153540-the-legend-of-heroes-sora-no-kiseki-the-3rd-evolution.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - BGM Pack | 429403 | [429403-the-legend-of-heroes-trails-beyond-the-horizon-bgm-pack.json](./429403-the-legend-of-heroes-trails-beyond-the-horizon-bgm-pack.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Complete Edition | 429537 | [429537-the-legend-of-heroes-trails-beyond-the-horizon-complete-edition.json](./429537-the-legend-of-heroes-trails-beyond-the-horizon-complete-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Complete Launch Edition | 401965 | [401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json](./401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon - Deluxe Edition | 429532 | [429532-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json](./429532-the-legend-of-heroes-trails-beyond-the-horizon-deluxe-edition.json) |
@@ -17957,6 +17962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ratline | 351273 | [351273-the-ratline.json](./351273-the-ratline.json) |
 | The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
+| The Rats in the Walls | 429316 | [429316-the-rats-in-the-walls.json](./429316-the-rats-in-the-walls.json) |
 | The Raven and the Light | 406782 | [406782-the-raven-and-the-light.json](./406782-the-raven-and-the-light.json) |
 | The Raven Remastered | 80944 | [80944-the-raven-remastered.json](./80944-the-raven-remastered.json) |
 | The Raven: Legacy of a Master Thief | 7667 | [7667-the-raven-legacy-of-a-master-thief.json](./7667-the-raven-legacy-of-a-master-thief.json) |
@@ -19969,6 +19975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storied Sword | 327462 | [327462-the-storied-sword.json](./327462-the-storied-sword.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Storm | 149400 | [149400-the-storm.json](./149400-the-storm.json) |
+| The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Stormy Islands | 267793 | [267793-the-stormy-islands.json](./267793-the-stormy-islands.json) |
 | The Story About Princess 8 Out of 10 | 394240 | [394240-the-story-about-princess-8-out-of-10.json](./394240-the-story-about-princess-8-out-of-10.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
