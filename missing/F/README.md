@@ -7776,7 +7776,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
 | Fishing Shop Simulator | 344111 | [344111-fishing-shop-simulator.json](./344111-fishing-shop-simulator.json) |
 | Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
-| Fishing Sim World: Pro Tour | 105543 | [105543-fishing-sim-world-pro-tour.json](./105543-fishing-sim-world-pro-tour.json) |
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Collector's Edition | 132974 | [132974-fishing-sim-world-pro-tour-collectors-edition.json](./132974-fishing-sim-world-pro-tour-collectors-edition.json) |
@@ -10703,7 +10702,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Director II | 83202 | [83202-football-director-ii.json](./83202-football-director-ii.json) |
-| Football Drama | 105592 | [105592-football-drama.json](./105592-football-drama.json) |
 | Football Executive 27 | 428525 | [428525-football-executive-27.json](./428525-football-executive-27.json) |
 | Football Fan: Run Team Run! | 244094 | [244094-football-fan-run-team-run.json](./244094-football-fan-run-team-run.json) |
 | Football for the TRS-80 CoCo | 131494 | [131494-football-for-the-trs-80-coco.json](./131494-football-for-the-trs-80-coco.json) |
@@ -12022,7 +12020,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
 | Fortiori | 374937 | [374937-fortiori.json](./374937-fortiori.json) |
 | Fortissimo | 12643 | [12643-fortissimo.json](./12643-fortissimo.json) |
-| Fortissimo FA Intl. Ver | 105750 | [105750-fortissimo-fa-intl-ver.json](./105750-fortissimo-fa-intl-ver.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
 | Fortitude Invasion | 208273 | [208273-fortitude-invasion.json](./208273-fortitude-invasion.json) |
 | Fortitude Tower Defense | 333149 | [333149-fortitude-tower-defense.json](./333149-fortitude-tower-defense.json) |
@@ -12910,7 +12907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPSBois | 121303 | [121303-fpsbois.json](./121303-fpsbois.json) |
 | FPScore | 142971 | [142971-fpscore.json](./142971-fpscore.json) |
 | FPSCore | 390186 | [390186-fpscore.json](./390186-fpscore.json) |
-| FPV Air 2 | 105345 | [105345-fpv-air-2.json](./105345-fpv-air-2.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Drone Simulator | 55608 | [55608-fpv-drone-simulator.json](./55608-fpv-drone-simulator.json) |
