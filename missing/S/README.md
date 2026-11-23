@@ -17467,6 +17467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakebird Complete | 239519 | [239519-snakebird-complete.json](./239519-snakebird-complete.json) |
 | Snakebird GB | 324694 | [324694-snakebird-gb.json](./324694-snakebird-gb.json) |
 | SnakeBird NES | 228690 | [228690-snakebird-nes.json](./228690-snakebird-nes.json) |
+| Snakebird Primer | 115003 | [115003-snakebird-primer.json](./115003-snakebird-primer.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
 | Snakedate | 247160 | [247160-snakedate.json](./247160-snakedate.json) |
@@ -25741,6 +25742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Trail | 344072 | [344072-spirit-trail.json](./344072-spirit-trail.json) |
 | Spirit Trigger | 382704 | [382704-spirit-trigger.json](./382704-spirit-trigger.json) |
 | Spirit Valley | 285319 | [285319-spirit-valley.json](./285319-spirit-valley.json) |
+| Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whirled | 68430 | [68430-spirit-whirled.json](./68430-spirit-whirled.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
@@ -26839,6 +26841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Chaser | 146767 | [146767-spy-chaser.json](./146767-spy-chaser.json) |
 | Spy Daisakusen | 62326 | [62326-spy-daisakusen.json](./62326-spy-daisakusen.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
+| Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Drops Gaiden | 390464 | [390464-spy-drops-gaiden.json](./390464-spy-drops-gaiden.json) |
 | Spy Escape | 155840 | [155840-spy-escape.json](./155840-spy-escape.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
@@ -29625,6 +29628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars, Stripes, and Subgames | 253540 | [253540-stars-stripes-and-subgames.json](./253540-stars-stripes-and-subgames.json) |
 | Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
+| Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | Starsation | 150987 | [150987-starsation.json](./150987-starsation.json) |
 | StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
@@ -30559,6 +30563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate Elite | 56057 | [56057-steins-gate-elite.json](./56057-steins-gate-elite.json) |
 | Steins;Gate Elite: Limited Edition | 136329 | [136329-steins-gate-elite-limited-edition.json](./136329-steins-gate-elite-limited-edition.json) |
+| Steins;Gate Re:Boot | 320972 | [320972-steins-gate-re-boot.json](./320972-steins-gate-re-boot.json) |
 | Steins;Gate x Sanrio Characters: Kaikou Souguu - Goldig Party | 194285 | [194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json](./194285-steins-gate-x-sanrio-characters-kaikou-souguu-goldig-party.json) |
 | Steins;Gate: Divergencies Assort | 113475 | [113475-steins-gate-divergencies-assort.json](./113475-steins-gate-divergencies-assort.json) |
 | Steins;Gate: El Psy Kongroo Edition | 89914 | [89914-steins-gate-el-psy-kongroo-edition.json](./89914-steins-gate-el-psy-kongroo-edition.json) |
@@ -32331,6 +32336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
 | Stray Doom | 251352 | [251352-stray-doom.json](./251352-stray-doom.json) |
 | Stray Girl | 370972 | [370972-stray-girl.json](./370972-stray-girl.json) |
+| Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
 | Stray Gods: The Roleplaying Musical | 194506 | [194506-stray-gods-the-roleplaying-musical.json](./194506-stray-gods-the-roleplaying-musical.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
