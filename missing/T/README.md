@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Taz-Mania | 83904 | [83904-taz-mania.json](./83904-taz-mania.json) |
+| Taz-Mania 2 | 49060 | [49060-taz-mania-2.json](./49060-taz-mania-2.json) |
 | Taz: Wanted | 4194 | [4194-taz-wanted.json](./4194-taz-wanted.json) |
 | Tazmanian Devil: Munching Madness | 49967 | [49967-tazmanian-devil-munching-madness.json](./49967-tazmanian-devil-munching-madness.json) |
 | Tazz | 293321 | [293321-tazz.json](./293321-tazz.json) |
@@ -11144,6 +11145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
+| The Flintstones: King Rock Treasure Island | 49007 | [49007-the-flintstones-king-rock-treasure-island.json](./49007-the-flintstones-king-rock-treasure-island.json) |
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Rescue of Dino & Hoppy | 18810 | [18810-the-flintstones-the-rescue-of-dino-and-hoppy.json](./18810-the-flintstones-the-rescue-of-dino-and-hoppy.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
@@ -11610,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Getaway | 8237 | [8237-the-getaway.json](./8237-the-getaway.json) |
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
+| The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
 | The Getaway: High Speed II | 49105 | [49105-the-getaway-high-speed-ii.json](./49105-the-getaway-high-speed-ii.json) |
 | The Ghost | 167559 | [167559-the-ghost.json](./167559-the-ghost.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
@@ -37845,6 +37848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
 | Turn | 85676 | [85676-turn.json](./85676-turn.json) |
 | Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
+| Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around | 29420 | [29420-turn-around.json](./29420-turn-around.json) |
 | Turn Around | 344858 | [344858-turn-around.json](./344858-turn-around.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
