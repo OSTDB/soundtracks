@@ -5601,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intensity | 14129 | [14129-intensity.json](./14129-intensity.json) |
 | Intensive (S)care Unit | 318459 | [318459-intensive-s-care-unit.json](./318459-intensive-s-care-unit.json) |
 | Intensive Care ( Hospital Interactive Story ) | 101104 | [101104-intensive-care-hospital-interactive-story.json](./101104-intensive-care-hospital-interactive-story.json) |
+| Intensive Exposure | 23725 | [23725-intensive-exposure.json](./23725-intensive-exposure.json) |
 | Intent | 140065 | [140065-intent.json](./140065-intent.json) |
 | Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
