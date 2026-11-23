@@ -9887,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LotusMeditation | 403193 | [403193-lotusmeditation.json](./403193-lotusmeditation.json) |
 | Lotwick Hill | 422109 | [422109-lotwick-hill.json](./422109-lotwick-hill.json) |
 | Lotzo and The Ray of Light | 391251 | [391251-lotzo-and-the-ray-of-light.json](./391251-lotzo-and-the-ray-of-light.json) |
+| Lou's Lagoon | 214706 | [214706-lous-lagoon.json](./214706-lous-lagoon.json) |
 | Lou's Revenge | 164850 | [164850-lous-revenge.json](./164850-lous-revenge.json) |
 | Lou's Revenge + One Dog Story Bundle | 164837 | [164837-lous-revenge-one-dog-story-bundle.json](./164837-lous-revenge-one-dog-story-bundle.json) |
 | Loud Adventure House | 216011 | [216011-loud-adventure-house.json](./216011-loud-adventure-house.json) |
