@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majong Classic 2 - World of Travel Pro | 90038 | [90038-majong-classic-2-world-of-travel-pro.json](./90038-majong-classic-2-world-of-travel-pro.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
+| Major Arcana | 427488 | [427488-major-arcana.json](./427488-major-arcana.json) |
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
 | Major Bullet | 292630 | [292630-major-bullet.json](./292630-major-bullet.json) |
 | Major Bummer Dude: Lassi Quest RON | 71010 | [71010-major-bummer-dude-lassi-quest-ron.json](./71010-major-bummer-dude-lassi-quest-ron.json) |
@@ -16162,6 +16163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist of Stagnation | 62860 | [62860-mist-of-stagnation.json](./62860-mist-of-stagnation.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
+| Mist Seekers | 427490 | [427490-mist-seekers.json](./427490-mist-seekers.json) |
 | Mist Sequence | 279426 | [279426-mist-sequence.json](./279426-mist-sequence.json) |
 | Mist Slayer | 217221 | [217221-mist-slayer.json](./217221-mist-slayer.json) |
 | Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
@@ -20509,6 +20511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Mothership Down | 403976 | [403976-mothership-down.json](./403976-mothership-down.json) |
 | Mothership Forever | 235737 | [235737-mothership-forever.json](./235737-mothership-forever.json) |
+| Motherward | 427502 | [427502-motherward.json](./427502-motherward.json) |
 | Mothiary | 378685 | [378685-mothiary.json](./378685-mothiary.json) |
 | Mothkeep | 403892 | [403892-mothkeep.json](./403892-mothkeep.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
