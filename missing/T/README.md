@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taekwon-do | 114033 | [114033-taekwon-do.json](./114033-taekwon-do.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
+| Taekwondo Grand Prix | 110735 | [110735-taekwondo-grand-prix.json](./110735-taekwondo-grand-prix.json) |
 | TaekwonGirl | 329087 | [329087-taekwongirl.json](./329087-taekwongirl.json) |
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Taffy Tales | 191607 | [191607-taffy-tales.json](./191607-taffy-tales.json) |
@@ -10366,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epyx Collection: Handheld | 298580 | [298580-the-epyx-collection-handheld.json](./298580-the-epyx-collection-handheld.json) |
 | The Epyx Games: Sports Collection | 323110 | [323110-the-epyx-games-sports-collection.json](./323110-the-epyx-games-sports-collection.json) |
 | The Equalizer | 38743 | [38743-the-equalizer.json](./38743-the-equalizer.json) |
+| The Equalizer 2 | 97220 | [97220-the-equalizer-2.json](./97220-the-equalizer-2.json) |
 | The Equestrian | 206265 | [206265-the-equestrian.json](./206265-the-equestrian.json) |
 | The ER: Patient Typhon | 146320 | [146320-the-er-patient-typhon.json](./146320-the-er-patient-typhon.json) |
 | The ER: Patient Typhon - SOS | 196095 | [196095-the-er-patient-typhon-sos.json](./196095-the-er-patient-typhon-sos.json) |
@@ -18262,6 +18264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road of Light | 178814 | [178814-the-road-of-light.json](./178814-the-road-of-light.json) |
 | The Road to 56 | 256449 | [256449-the-road-to-56.json](./256449-the-road-to-56.json) |
 | The Road to Baghdad | 24108 | [24108-the-road-to-baghdad.json](./24108-the-road-to-baghdad.json) |
+| The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
 | The Road to Disorder | 175691 | [175691-the-road-to-disorder.json](./175691-the-road-to-disorder.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
 | The Road to Gelendzhik Palace | 159993 | [159993-the-road-to-gelendzhik-palace.json](./159993-the-road-to-gelendzhik-palace.json) |
@@ -20487,6 +20490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thief Simulator 2023: From Crook to Boss | 263839 | [263839-the-thief-simulator-2023-from-crook-to-boss.json](./263839-the-thief-simulator-2023-from-crook-to-boss.json) |
 | The Thief, the Witch, the Toad, and the Mushroom. | 235726 | [235726-the-thief-the-witch-the-toad-and-the-mushroom.json](./235726-the-thief-the-witch-the-toad-and-the-mushroom.json) |
 | The Thieves! | 243488 | [243488-the-thieves.json](./243488-the-thieves.json) |
+| The Thin Silence | 96812 | [96812-the-thin-silence.json](./96812-the-thin-silence.json) |
 | The Thing | 238608 | [238608-the-thing.json](./238608-the-thing.json) |
 | The Thing | 264857 | [264857-the-thing.json](./264857-the-thing.json) |
 | The Thing | 264859 | [264859-the-thing.json](./264859-the-thing.json) |
@@ -21067,6 +21071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The True Arena | 271412 | [271412-the-true-arena.json](./271412-the-true-arena.json) |
 | The True Ingredients | 229885 | [229885-the-true-ingredients.json](./229885-the-true-ingredients.json) |
 | The True Love Rings | 220514 | [220514-the-true-love-rings.json](./220514-the-true-love-rings.json) |
+| The True Slime King | 97974 | [97974-the-true-slime-king.json](./97974-the-true-slime-king.json) |
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth About 9th Company | 158978 | [158978-the-truth-about-9th-company.json](./158978-the-truth-about-9th-company.json) |
@@ -28099,6 +28104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaster Arena | 235579 | [235579-toaster-arena.json](./235579-toaster-arena.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toaster Jam | 29524 | [29524-toaster-jam.json](./29524-toaster-jam.json) |
+| Toasterball | 111301 | [111301-toasterball.json](./111301-toasterball.json) |
 | Toasterball + Buissons Bundle | 276951 | [276951-toasterball-buissons-bundle.json](./276951-toasterball-buissons-bundle.json) |
 | Toastercide | 288595 | [288595-toastercide.json](./288595-toastercide.json) |
 | Toasterdog in Dreamworld | 299558 | [299558-toasterdog-in-dreamworld.json](./299558-toasterdog-in-dreamworld.json) |
@@ -30853,6 +30859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Mystia's Izakaya DLC5 Pack: Makai & Lunar Capital | 301317 | [301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json](./301317-touhou-mystias-izakaya-dlc5-pack-makai-and-lunar-capital.json) |
 | Touhou Mystia's Izakaya: DLC 3 Pack - Myouren Temple & Divine Spirit Mausoleum | 227607 | [227607-touhou-mystias-izakaya-dlc-3-pack-myouren-temple-and-divine-spirit-mausoleum.json](./227607-touhou-mystias-izakaya-dlc-3-pack-myouren-temple-and-divine-spirit-mausoleum.json) |
 | TouHou Nil Soul | 114801 | [114801-touhou-nil-soul.json](./114801-touhou-nil-soul.json) |
+| Touhou Pants Contest | 111365 | [111365-touhou-pants-contest.json](./111365-touhou-pants-contest.json) |
 | Touhou Perfect Sakura Fantastica | 212732 | [212732-touhou-perfect-sakura-fantastica.json](./212732-touhou-perfect-sakura-fantastica.json) |
 | Touhou Phantasm Dream | 123848 | [123848-touhou-phantasm-dream.json](./123848-touhou-phantasm-dream.json) |
 | Touhou Piano Game: Music Tiles | 216213 | [216213-touhou-piano-game-music-tiles.json](./216213-touhou-piano-game-music-tiles.json) |
@@ -31310,6 +31317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home | 419376 | [419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json](./419376-tower-of-fangs-summoned-to-another-world-i-was-locked-in-a-tower-with-299-strikers-only-the-last-egoist-goes-home.json) |
 | Tower of Fantasy | 256153 | [256153-tower-of-fantasy.json](./256153-tower-of-fantasy.json) |
+| Tower of Fate | 110830 | [110830-tower-of-fate.json](./110830-tower-of-fate.json) |
 | Tower of Fear | 73743 | [73743-tower-of-fear.json](./73743-tower-of-fear.json) |
 | Tower of Feles | 416550 | [416550-tower-of-feles.json](./416550-tower-of-feles.json) |
 | Tower of Fire: The Sword of Unspoken Misc | 270833 | [270833-tower-of-fire-the-sword-of-unspoken-misc.json](./270833-tower-of-fire-the-sword-of-unspoken-misc.json) |
