@@ -3926,7 +3926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws and Claws: Pet Vet | 5091 | [5091-paws-and-claws-pet-vet.json](./5091-paws-and-claws-pet-vet.json) |
 | Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
-| Paws and Soul | 108004 | [108004-paws-and-soul.json](./108004-paws-and-soul.json) |
 | Paws and Whiskers | 333287 | [333287-paws-and-whiskers.json](./333287-paws-and-whiskers.json) |
 | Paws Coven | 390076 | [390076-paws-coven.json](./390076-paws-coven.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -8552,7 +8551,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
 | Pinturillo 2 | 56265 | [56265-pinturillo-2.json](./56265-pinturillo-2.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
-| Pinup Ball | 109308 | [109308-pinup-ball.json](./109308-pinup-ball.json) |
 | PinUpPoker | 89453 | [89453-pinuppoker.json](./89453-pinuppoker.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinwheel Playground | 418399 | [418399-pinwheel-playground.json](./418399-pinwheel-playground.json) |
@@ -17554,7 +17552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Stadium | 268525 | [268525-pro-stadium.json](./268525-pro-stadium.json) |
 | Pro Strategy Football 2016 | 32382 | [32382-pro-strategy-football-2016.json](./32382-pro-strategy-football-2016.json) |
 | Pro Strategy Football 2018 | 76917 | [76917-pro-strategy-football-2018.json](./76917-pro-strategy-football-2018.json) |
-| Pro Strategy Football 2019 | 107563 | [107563-pro-strategy-football-2019.json](./107563-pro-strategy-football-2019.json) |
 | Pro Strategy Football 2021 | 168164 | [168164-pro-strategy-football-2021.json](./168164-pro-strategy-football-2021.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2023 | 215326 | [215326-pro-strategy-football-2023.json](./215326-pro-strategy-football-2023.json) |
@@ -20162,7 +20159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch Monkey | 316512 | [316512-punch-monkey.json](./316512-punch-monkey.json) |
 | Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
-| Punch Pad Workout | 107985 | [107985-punch-pad-workout.json](./107985-punch-pad-workout.json) |
 | Punch Perfect | 112426 | [112426-punch-perfect.json](./112426-punch-perfect.json) |
 | Punch Planet | 57268 | [57268-punch-planet.json](./57268-punch-planet.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
