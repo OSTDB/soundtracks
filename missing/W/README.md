@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Rogue Trader - Processional of the Damned | 406371 | [406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json](./406371-warhammer-40-000-rogue-trader-processional-of-the-damned.json) |
 | Warhammer 40,000: Rogue Trader - The Infinite Museion | 393038 | [393038-warhammer-40-000-rogue-trader-the-infinite-museion.json](./393038-warhammer-40-000-rogue-trader-the-infinite-museion.json) |
 | Warhammer 40,000: Rogue Trader - The Shovel DLC | 342189 | [342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json](./342189-warhammer-40-000-rogue-trader-the-shovel-dlc.json) |
+| Warhammer 40,000: Rogue Trader - Void Shadows | 302168 | [302168-warhammer-40-000-rogue-trader-void-shadows.json](./302168-warhammer-40-000-rogue-trader-void-shadows.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Edition | 279877 | [279877-warhammer-40-000-rogue-trader-voidfarer-edition.json](./279877-warhammer-40-000-rogue-trader-voidfarer-edition.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach | 26705 | [26705-warhammer-40-000-sanctus-reach.json](./26705-warhammer-40-000-sanctus-reach.json) |
@@ -2482,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: Pirates of Belerion | 278718 | [278718-wartales-pirates-of-belerion.json](./278718-wartales-pirates-of-belerion.json) |
 | Wartales: The Pits | 322789 | [322789-wartales-the-pits.json](./322789-wartales-the-pits.json) |
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
+| Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
 | WarTech: Senko no Ronde | 7245 | [7245-wartech-senko-no-ronde.json](./7245-wartech-senko-no-ronde.json) |
 | Wartheon | 367722 | [367722-wartheon.json](./367722-wartheon.json) |
 | Warthog Launch | 165168 | [165168-warthog-launch.json](./165168-warthog-launch.json) |
