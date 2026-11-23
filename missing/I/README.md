@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idlewood Outpost | 373340 | [373340-idlewood-outpost.json](./373340-idlewood-outpost.json) |
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idling Idol | 186505 | [186505-idling-idol.json](./186505-idling-idol.json) |
+| Idling to Rule the Gods | 32737 | [32737-idling-to-rule-the-gods.json](./32737-idling-to-rule-the-gods.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Ido | 206411 | [206411-ido.json](./206411-ido.json) |
 | Ido no Akai | 151851 | [151851-ido-no-akai.json](./151851-ido-no-akai.json) |
@@ -5243,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectarium Alternative March | 320173 | [320173-insectarium-alternative-march.json](./320173-insectarium-alternative-march.json) |
 | Insecters War | 286434 | [286434-insecters-war.json](./286434-insecters-war.json) |
 | Insecticide | 10436 | [10436-insecticide.json](./10436-insecticide.json) |
+| Insecticide Part 1 | 29118 | [29118-insecticide-part-1.json](./29118-insecticide-part-1.json) |
 | Insecticide Troopers: Star Zerg | 288415 | [288415-insecticide-troopers-star-zerg.json](./288415-insecticide-troopers-star-zerg.json) |
 | Insectile | 339819 | [339819-insectile.json](./339819-insectile.json) |
 | Insectipede | 119764 | [119764-insectipede.json](./119764-insectipede.json) |
