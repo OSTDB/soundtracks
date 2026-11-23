@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Madness | 294335 | [294335-veil-of-madness.json](./294335-veil-of-madness.json) |
 | Veil of Maia | 211994 | [211994-veil-of-maia.json](./211994-veil-of-maia.json) |
 | Veil of Mist | 402560 | [402560-veil-of-mist.json](./402560-veil-of-mist.json) |
+| Veil of Remorse | 427487 | [427487-veil-of-remorse.json](./427487-veil-of-remorse.json) |
 | Veil of Sanity | 338135 | [338135-veil-of-sanity.json](./338135-veil-of-sanity.json) |
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Shadows | 271551 | [271551-veil-of-shadows.json](./271551-veil-of-shadows.json) |
