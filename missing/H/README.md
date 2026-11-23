@@ -14830,6 +14830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperjustice | 189815 | [189815-hyperjustice.json](./189815-hyperjustice.json) |
 | Hyperjustice: Hyper Holidays Expansion | 285320 | [285320-hyperjustice-hyper-holidays-expansion.json](./285320-hyperjustice-hyper-holidays-expansion.json) |
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
+| Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
 | Hyperland | 207634 | [207634-hyperland.json](./207634-hyperland.json) |
 | Hyperlane Delta | 154167 | [154167-hyperlane-delta.json](./154167-hyperlane-delta.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
