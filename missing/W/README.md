@@ -4564,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheatley's Unscientific Tests | 416797 | [416797-wheatleys-unscientific-tests.json](./416797-wheatleys-unscientific-tests.json) |
 | Wheeeee! | 357359 | [357359-wheeeee.json](./357359-wheeeee.json) |
 | Wheel Balance | 389185 | [389185-wheel-balance.json](./389185-wheel-balance.json) |
+| Wheel Be Fine | 429290 | [429290-wheel-be-fine.json](./429290-wheel-be-fine.json) |
 | Wheel Dismount | 101951 | [101951-wheel-dismount.json](./101951-wheel-dismount.json) |
 | Wheel Estate | 419722 | [419722-wheel-estate.json](./419722-wheel-estate.json) |
 | Wheel Make It | 402549 | [402549-wheel-make-it.json](./402549-wheel-make-it.json) |
@@ -8424,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderfulWhims | 259225 | [259225-wonderfulwhims.json](./259225-wonderfulwhims.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | WonderHero | 186795 | [186795-wonderhero.json](./186795-wonderhero.json) |
+| Wonderhop | 428824 | [428824-wonderhop.json](./428824-wonderhop.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
 | WonderKing 2 | 62636 | [62636-wonderking-2.json](./62636-wonderking-2.json) |
@@ -8908,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Shuffle | 108263 | [108263-word-shuffle.json](./108263-word-shuffle.json) |
 | Word Slinger | 93187 | [93187-word-slinger.json](./93187-word-slinger.json) |
 | Word Solitaire | 243642 | [243642-word-solitaire.json](./243642-word-solitaire.json) |
+| Word Solitaire: Spell Cards | 428836 | [428836-word-solitaire-spell-cards.json](./428836-word-solitaire-spell-cards.json) |
 | Word Space | 270775 | [270775-word-space.json](./270775-word-space.json) |
 | Word Spell Game: Yes or No ? | 266833 | [266833-word-spell-game-yes-or-no.json](./266833-word-spell-game-yes-or-no.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
@@ -9223,6 +9226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Airports 2 | 68068 | [68068-world-airports-2.json](./68068-world-airports-2.json) |
 | World Alone: Dreampools | 346328 | [346328-world-alone-dreampools.json](./346328-world-alone-dreampools.json) |
 | World Annihilation Operations Parts I-IV | 235069 | [235069-world-annihilation-operations-parts-i-iv.json](./235069-world-annihilation-operations-parts-i-iv.json) |
+| World Apart | 428850 | [428850-world-apart.json](./428850-world-apart.json) |
 | World Apart | 98546 | [98546-world-apart.json](./98546-world-apart.json) |
 | World At Arms | 106268 | [106268-world-at-arms.json](./106268-world-at-arms.json) |
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
