@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
 | Last Man Kicking | 185195 | [185195-last-man-kicking.json](./185195-last-man-kicking.json) |
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
+| Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
 | Last Man Standing Coop | 217573 | [217573-last-man-standing-coop.json](./217573-last-man-standing-coop.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meadow Online | 396989 | [396989-last-meadow-online.json](./396989-last-meadow-online.json) |
@@ -2159,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Challenge | 65390 | [65390-lawnmower-challenge.json](./65390-lawnmower-challenge.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
+| Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
 | Lawnmower Game 2026 | 389001 | [389001-lawnmower-game-2026.json](./389001-lawnmower-game-2026.json) |
 | Lawnmower Game 3: Horror | 110456 | [110456-lawnmower-game-3-horror.json](./110456-lawnmower-game-3-horror.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
@@ -8352,6 +8354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
 | Lonely Adventure | 115183 | [115183-lonely-adventure.json](./115183-lonely-adventure.json) |
 | Lonely Arts | 132577 | [132577-lonely-arts.json](./132577-lonely-arts.json) |
+| Lonely Astronaut | 76303 | [76303-lonely-astronaut.json](./76303-lonely-astronaut.json) |
 | Lonely Birds | 155739 | [155739-lonely-birds.json](./155739-lonely-birds.json) |
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
