@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Exhaust Note | 39926 | [39926-f1-exhaust-note.json](./39926-f1-exhaust-note.json) |
 | F1 GP | 243449 | [243449-f1-gp.json](./243449-f1-gp.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
+| F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
 | F1 Grand Prix Nakajima Satoru | 93098 | [93098-f1-grand-prix-nakajima-satoru.json](./93098-f1-grand-prix-nakajima-satoru.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
 | F1 Manager | 213266 | [213266-f1-manager.json](./213266-f1-manager.json) |
@@ -859,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Encore | 417753 | [417753-fairy-tale-encore.json](./417753-fairy-tale-encore.json) |
 | Fairy Tale Ending Encore | 207164 | [207164-fairy-tale-ending-encore.json](./207164-fairy-tale-ending-encore.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
+| Fairy Tale Mysteries 2: The Beanstalk | 34440 | [34440-fairy-tale-mysteries-2-the-beanstalk.json](./34440-fairy-tale-mysteries-2-the-beanstalk.json) |
 | Fairy Tale Mysteries: The Puppet Thief | 33855 | [33855-fairy-tale-mysteries-the-puppet-thief.json](./33855-fairy-tale-mysteries-the-puppet-thief.json) |
 | Fairy Tale Plan | 405974 | [405974-fairy-tale-plan.json](./405974-fairy-tale-plan.json) |
 | Fairy Tale Puzzles: Magic Objects | 111460 | [111460-fairy-tale-puzzles-magic-objects.json](./111460-fairy-tale-puzzles-magic-objects.json) |
@@ -3236,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmula Grain Prix | 237577 | [237577-farmula-grain-prix.json](./237577-farmula-grain-prix.json) |
 | Farmville | 9765 | [9765-farmville.json](./9765-farmville.json) |
 | FarmVille 2 | 77743 | [77743-farmville-2.json](./77743-farmville-2.json) |
+| FarmVille 2: Country Escape | 38889 | [38889-farmville-2-country-escape.json](./38889-farmville-2-country-escape.json) |
 | FarmVille 2: Tropic Escape | 243841 | [243841-farmville-2-tropic-escape.json](./243841-farmville-2-tropic-escape.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
@@ -8440,6 +8443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flags For Friends | 177882 | [177882-flags-for-friends.json](./177882-flags-for-friends.json) |
 | Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
 | Flagships | 184876 | [184876-flagships.json](./184876-flagships.json) |
+| Flagsplosion | 38763 | [38763-flagsplosion.json](./38763-flagsplosion.json) |
 | Flagster | 29073 | [29073-flagster.json](./29073-flagster.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
@@ -9069,6 +9073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Icarus | 9842 | [9842-flight-of-the-icarus.json](./9842-flight-of-the-icarus.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight of the Monarch | 397338 | [397338-flight-of-the-monarch.json](./397338-flight-of-the-monarch.json) |
+| Flight of the Paladin | 34387 | [34387-flight-of-the-paladin.json](./34387-flight-of-the-paladin.json) |
 | Flight of the Season | 397414 | [397414-flight-of-the-season.json](./397414-flight-of-the-season.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
 | Flight Pilot Simulator: 3D Flying Games | 86792 | [86792-flight-pilot-simulator-3d-flying-games.json](./86792-flight-pilot-simulator-3d-flying-games.json) |
