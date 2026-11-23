@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belle-de-Nuit: Point-du-Jour | 230559 | [230559-belle-de-nuit-point-du-jour.json](./230559-belle-de-nuit-point-du-jour.json) |
 | Belle's Beauty Boutique | 205120 | [205120-belles-beauty-boutique.json](./205120-belles-beauty-boutique.json) |
 | Bellfortis | 304712 | [304712-bellfortis.json](./304712-bellfortis.json) |
+| Bellfortis Complete | 429536 | [429536-bellfortis-complete.json](./429536-bellfortis-complete.json) |
 | Bellfortis: China - Supporter Pack | 429535 | [429535-bellfortis-china-supporter-pack.json](./429535-bellfortis-china-supporter-pack.json) |
 | Bellfortis: The Battle for Japan | 429534 | [429534-bellfortis-the-battle-for-japan.json](./429534-bellfortis-the-battle-for-japan.json) |
 | Bellfrost | 416311 | [416311-bellfrost.json](./416311-bellfrost.json) |
@@ -13546,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Seed: Kushinada Hirokuden | 45409 | [45409-blue-seed-kushinada-hirokuden.json](./45409-blue-seed-kushinada-hirokuden.json) |
 | Blue Shark | 40276 | [40276-blue-shark.json](./40276-blue-shark.json) |
 | Blue Sheep | 34306 | [34306-blue-sheep.json](./34306-blue-sheep.json) |
+| Blue Ship | 429399 | [429399-blue-ship.json](./429399-blue-ship.json) |
 | Blue Shutter | 367528 | [367528-blue-shutter.json](./367528-blue-shutter.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
@@ -21299,8 +21301,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy My Snake Oil | 236645 | [236645-buy-my-snake-oil.json](./236645-buy-my-snake-oil.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
+| Buy the Game, I Have a Gun 2: Online Open World | 429398 | [429398-buy-the-game-i-have-a-gun-2-online-open-world.json](./429398-buy-the-game-i-have-a-gun-2-online-open-world.json) |
 | Buy the Game, I Have a Gun: Sheesh-Man | 232718 | [232718-buy-the-game-i-have-a-gun-sheesh-man.json](./232718-buy-the-game-i-have-a-gun-sheesh-man.json) |
 | Buy the Game, I Have a Gun: Sheesh-Man - Digital Deluxe Mega Chad Edition | 375704 | [375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json](./375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json) |
+| Buy Your Friends | 430818 | [430818-buy-your-friends.json](./430818-buy-your-friends.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Bǔyú Zhàfāntiān | 167346 | [167346-buyu-zhafantian.json](./167346-buyu-zhafantian.json) |
