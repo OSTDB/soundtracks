@@ -13636,6 +13636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold War 2395: Solus | 277138 | [277138-cold-war-2395-solus.json](./277138-cold-war-2395-solus.json) |
 | Cold War Commander | 67982 | [67982-cold-war-commander.json](./67982-cold-war-commander.json) |
 | Cold War Conflicts | 24242 | [24242-cold-war-conflicts.json](./24242-cold-war-conflicts.json) |
+| Cold War Conflicts: Days in the Field 1950-1973 | 23785 | [23785-cold-war-conflicts-days-in-the-field-1950-1973.json](./23785-cold-war-conflicts-days-in-the-field-1950-1973.json) |
 | Cold War Era | 356265 | [356265-cold-war-era.json](./356265-cold-war-era.json) |
 | Cold War Game | 122043 | [122043-cold-war-game.json](./122043-cold-war-game.json) |
 | Cold War Minister | 128152 | [128152-cold-war-minister.json](./128152-cold-war-minister.json) |
@@ -13881,6 +13882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
+| Colonial Conquest | 26015 | [26015-colonial-conquest.json](./26015-colonial-conquest.json) |
 | Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonials Programme | 142179 | [142179-colonials-programme.json](./142179-colonials-programme.json) |
 | Coloniam | 127737 | [127737-coloniam.json](./127737-coloniam.json) |
@@ -15907,6 +15909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquered Kingdoms: Scenario Disk #1 | 94610 | [94610-conquered-kingdoms-scenario-disk-1.json](./94610-conquered-kingdoms-scenario-disk-1.json) |
 | Conquering Ciros | 288713 | [288713-conquering-ciros.json](./288713-conquering-ciros.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
+| Conquering New Ground: 1775 Rebellion | 26177 | [26177-conquering-new-ground-1775-rebellion.json](./26177-conquering-new-ground-1775-rebellion.json) |
 | Conquering Percents | 152026 | [152026-conquering-percents.json](./152026-conquering-percents.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
@@ -21370,6 +21373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Imperial Collection | 253290 | [253290-crusader-kings-ii-imperial-collection.json](./253290-crusader-kings-ii-imperial-collection.json) |
 | Crusader Kings II: Jade Dragon | 149906 | [149906-crusader-kings-ii-jade-dragon.json](./149906-crusader-kings-ii-jade-dragon.json) |
 | Crusader Kings II: Legacy of Rome | 22661 | [22661-crusader-kings-ii-legacy-of-rome.json](./22661-crusader-kings-ii-legacy-of-rome.json) |
+| Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
 | Crusader Kings II: Rajas of India | 22665 | [22665-crusader-kings-ii-rajas-of-india.json](./22665-crusader-kings-ii-rajas-of-india.json) |
 | Crusader Kings II: Royal Collection | 253289 | [253289-crusader-kings-ii-royal-collection.json](./253289-crusader-kings-ii-royal-collection.json) |
 | Crusader Kings II: Ruler Designer | 253295 | [253295-crusader-kings-ii-ruler-designer.json](./253295-crusader-kings-ii-ruler-designer.json) |
@@ -21378,6 +21382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings II: Sunset Invasion | 23980 | [23980-crusader-kings-ii-sunset-invasion.json](./23980-crusader-kings-ii-sunset-invasion.json) |
 | Crusader Kings II: Sword of Islam | 22660 | [22660-crusader-kings-ii-sword-of-islam.json](./22660-crusader-kings-ii-sword-of-islam.json) |
 | Crusader Kings II: The Old Gods | 22663 | [22663-crusader-kings-ii-the-old-gods.json](./22663-crusader-kings-ii-the-old-gods.json) |
+| Crusader Kings II: The Reaper's Due | 23850 | [23850-crusader-kings-ii-the-reapers-due.json](./23850-crusader-kings-ii-the-reapers-due.json) |
 | Crusader Kings II: The Reaper's Due Collection | 52858 | [52858-crusader-kings-ii-the-reapers-due-collection.json](./52858-crusader-kings-ii-the-reapers-due-collection.json) |
 | Crusader Kings II: The Reaper's Due Content Pack | 253291 | [253291-crusader-kings-ii-the-reapers-due-content-pack.json](./253291-crusader-kings-ii-the-reapers-due-content-pack.json) |
 | Crusader Kings II: The Republic | 22662 | [22662-crusader-kings-ii-the-republic.json](./22662-crusader-kings-ii-the-republic.json) |
