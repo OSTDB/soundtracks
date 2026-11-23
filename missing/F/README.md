@@ -3270,7 +3270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farsight | 403852 | [403852-farsight.json](./403852-farsight.json) |
 | FarSky | 17164 | [17164-farsky.json](./17164-farsky.json) |
 | Farstar: Exodus | 132132 | [132132-farstar-exodus.json](./132132-farstar-exodus.json) |
-| Farstorm | 109329 | [109329-farstorm.json](./109329-farstorm.json) |
 | Fart Cat! | 64867 | [64867-fart-cat.json](./64867-fart-cat.json) |
 | Fart Drop DX | 369672 | [369672-fart-drop-dx.json](./369672-fart-drop-dx.json) |
 | Fart Fiasco Premium | 284518 | [284518-fart-fiasco-premium.json](./284518-fart-fiasco-premium.json) |
@@ -6961,7 +6960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Panic! | 228223 | [228223-fire-panic.json](./228223-fire-panic.json) |
 | Fire Path | 289818 | [289818-fire-path.json](./289818-fire-path.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
-| Fire Place | 109369 | [109369-fire-place.json](./109369-fire-place.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Power | 54655 | [54655-fire-power.json](./54655-fire-power.json) |
 | Fire Pro Gaiden Blazing Tornado | 45402 | [45402-fire-pro-gaiden-blazing-tornado.json](./45402-fire-pro-gaiden-blazing-tornado.json) |
@@ -9522,7 +9520,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
 | Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor is...What!? | 189135 | [189135-floor-is-what.json](./189135-floor-is-what.json) |
-| Floor Massacre | 107727 | [107727-floor-massacre.json](./107727-floor-massacre.json) |
 | Floor Negative | 418758 | [418758-floor-negative.json](./418758-floor-negative.json) |
 | Floor Observer | 284437 | [284437-floor-observer.json](./284437-floor-observer.json) |
 | Floor Plan 2 | 145348 | [145348-floor-plan-2.json](./145348-floor-plan-2.json) |
@@ -10729,7 +10726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Online | 241598 | [241598-football-heroes-online.json](./241598-football-heroes-online.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
-| Football Heroes Turbo | 108281 | [108281-football-heroes-turbo.json](./108281-football-heroes-turbo.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
 | Football History Football Simulator | 208566 | [208566-football-history-football-simulator.json](./208566-football-history-football-simulator.json) |
 | Football Keepy Uppy Champion | 252951 | [252951-football-keepy-uppy-champion.json](./252951-football-keepy-uppy-champion.json) |
@@ -12600,7 +12596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Boy: Flashstar | 343721 | [343721-foto-boy-flashstar.json](./343721-foto-boy-flashstar.json) |
 | Foto Face: The Face Stealer Strikes | 67286 | [67286-foto-face-the-face-stealer-strikes.json](./67286-foto-face-the-face-stealer-strikes.json) |
 | Foto Flash | 81869 | [81869-foto-flash.json](./81869-foto-flash.json) |
-| Foto Flash 2 | 107872 | [107872-foto-flash-2.json](./107872-foto-flash-2.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
 | Fotografias de um Visitante | 426080 | [426080-fotografias-de-um-visitante.json](./426080-fotografias-de-um-visitante.json) |
@@ -15059,7 +15054,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
-| Fruit Tower Defense | 108009 | [108009-fruit-tower-defense.json](./108009-fruit-tower-defense.json) |
 | Fruit Wand | 345413 | [345413-fruit-wand.json](./345413-fruit-wand.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit Wars | 344398 | [344398-fruit-wars.json](./344398-fruit-wars.json) |
