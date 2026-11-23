@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Chess: Mate in Four | 116702 | [116702-zen-chess-mate-in-four.json](./116702-zen-chess-mate-in-four.json) |
 | Zen Chess: Mate in One | 86620 | [86620-zen-chess-mate-in-one.json](./86620-zen-chess-mate-in-one.json) |
 | Zen Chess: Mate in Three | 116698 | [116698-zen-chess-mate-in-three.json](./116698-zen-chess-mate-in-three.json) |
+| Zen Chess: Mate in Two | 116700 | [116700-zen-chess-mate-in-two.json](./116700-zen-chess-mate-in-two.json) |
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Drift | 315806 | [315806-zen-drift.json](./315806-zen-drift.json) |
 | Zen Dynamics | 145412 | [145412-zen-dynamics.json](./145412-zen-dynamics.json) |
