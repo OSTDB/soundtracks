@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Wind II: Human Onslaught | 51780 | [51780-war-wind-ii-human-onslaught.json](./51780-war-wind-ii-human-onslaught.json) |
 | War Wings | 90418 | [90418-war-wings.json](./90418-war-wings.json) |
+| War World: Tactical Combat | 25985 | [25985-war-world-tactical-combat.json](./25985-war-world-tactical-combat.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War Z | 94041 | [94041-war-z.json](./94041-war-z.json) |
 | War Zone | 37247 | [37247-war-zone.json](./37247-war-zone.json) |
@@ -6399,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will o'Wisp: Easter no Kiseki | 200797 | [200797-will-owisp-easter-no-kiseki.json](./200797-will-owisp-easter-no-kiseki.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Nen | 234436 | [234436-will-of-nen.json](./234436-will-of-nen.json) |
+| Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
 | Will She? | 338970 | [338970-will-she.json](./338970-will-she.json) |
 | Will the King Escape? | 345792 | [345792-will-the-king-escape.json](./345792-will-the-king-escape.json) |
 | Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
@@ -9727,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warcraft: Warlords of Draenor - Fury of Hellfire | 345206 | [345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json](./345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json) |
 | World of Warcraft: Wrath of the Lich King - Call of the Crusade | 345187 | [345187-world-of-warcraft-wrath-of-the-lich-king-call-of-the-crusade.json](./345187-world-of-warcraft-wrath-of-the-lich-king-call-of-the-crusade.json) |
+| World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
 | World of Warcraft: Wrath of the Lich King - Fall of the Lich King | 345189 | [345189-world-of-warcraft-wrath-of-the-lich-king-fall-of-the-lich-king.json](./345189-world-of-warcraft-wrath-of-the-lich-king-fall-of-the-lich-king.json) |
 | World of Warcraft: Wrath of the Lich King Classic | 198161 | [198161-world-of-warcraft-wrath-of-the-lich-king-classic.json](./198161-world-of-warcraft-wrath-of-the-lich-king-classic.json) |
 | World of Warcraft: Wrath of the Lich King: Secrets of Ulduar | 345181 | [345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json](./345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json) |
@@ -10436,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
+| Wrath of Loki: VR Adventure | 23892 | [23892-wrath-of-loki-vr-adventure.json](./23892-wrath-of-loki-vr-adventure.json) |
 | Wrath of Mynah | 379273 | [379273-wrath-of-mynah.json](./379273-wrath-of-mynah.json) |
 | Wrath of Olympus | 60232 | [60232-wrath-of-olympus.json](./60232-wrath-of-olympus.json) |
 | Wrath of Psychobos | 349944 | [349944-wrath-of-psychobos.json](./349944-wrath-of-psychobos.json) |
