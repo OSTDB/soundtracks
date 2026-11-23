@@ -11482,6 +11482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaraxia: Magpie Sings of the World's End | 344648 | [344648-lunaraxia-magpie-sings-of-the-worlds-end.json](./344648-lunaraxia-magpie-sings-of-the-worlds-end.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
+| LunaReverse | 428674 | [428674-lunareverse.json](./428674-lunareverse.json) |
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
 | Lunaria Story | 61770 | [61770-lunaria-story.json](./61770-lunaria-story.json) |
 | Lunaria: Virtualized Moonchild | 140633 | [140633-lunaria-virtualized-moonchild.json](./140633-lunaria-virtualized-moonchild.json) |
