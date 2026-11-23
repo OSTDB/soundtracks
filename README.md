@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,927" src="https://img.shields.io/badge/soundtracks-3%2C927-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 3,444" src="https://img.shields.io/badge/games-3%2C444-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 370,205" src="https://img.shields.io/badge/missing-370%2C205-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 370,158" src="https://img.shields.io/badge/missing-370%2C158-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/night-of-the-blood-moon"><img src="https://i.scdn.co/image/ab67616d0000b273993981805ae179f3c74c4cfd" width="120" height="120" alt="" /></a><br /><sub><b>Night of the Blood Moon</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fragile-fighter"><img src="https://i.scdn.co/image/ab67616d0000b2735dc49dab45ff27929b141e6d" width="120" height="120" alt="" /></a><br /><sub><b>Fragile Fighter</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/transpose"><img src="https://i.scdn.co/image/ab67616d0000b2738883ee2f1fb60a804645d3ad" width="120" height="120" alt="" /></a><br /><sub><b>Transpose</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/knife-sisters"><img src="https://i.scdn.co/image/ab67616d0000b27389db2bf6ce72bba719e0a8e8" width="120" height="120" alt="" /></a><br /><sub><b>Knife Sisters</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vanguard-normandy-1944"><img src="https://i.scdn.co/image/ab67616d0000b2737ce88f923a600260022f5d3f" width="120" height="120" alt="" /></a><br /><sub><b>Vanguard: Normandy 1944</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/executive-assault-2"><img src="https://i.scdn.co/image/ab67616d0000b2735b6735f17b05b46557ad06bf" width="120" height="120" alt="" /></a><br /><sub><b>Executive Assault 2</b></sub></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/timore-6"><img src="https://i.scdn.co/image/ab67616d0000b2735e0db380856cd4f7a49cc710" width="120" height="120" alt="" /></a><br /><sub><b>Timore 6</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-lost-legends-of-redwall-escape-the-gloomer"><img src="https://i.scdn.co/image/ab67616d0000b273ec0d1c6e5ec555fc0238a42c" width="120" height="120" alt="" /></a><br /><sub><b>The Lost Legends of Redwall: Escape the Gloomer</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/ragnarok-m-eternal-love"><img src="https://i.scdn.co/image/ab67616d0000b27372526dbc7f48b958cf47f67b" width="120" height="120" alt="" /></a><br /><sub><b>Ragnarok M: Eternal Love</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/serious-scramblers"><img src="https://i.scdn.co/image/ab67616d0000b273c9b45b7b54c464bdf4f87a5d" width="120" height="120" alt="" /></a><br /><sub><b>Serious Scramblers</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mineralph"><img src="https://i.scdn.co/image/ab67616d0000b2737be406898f85b1a250cf3acf" width="120" height="120" alt="" /></a><br /><sub><b>MineRalph</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/endcycle-vs"><img src="https://i.scdn.co/image/ab67616d0000b273a2eac4dba38e8f0d41c02124" width="120" height="120" alt="" /></a><br /><sub><b>EndCycle VS</b></sub></td>
-</tr>
-<tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/super-crome-bullet-purgatory"><img src="https://i.scdn.co/image/ab67616d0000b273a185b103a147998f857ce321" width="120" height="120" alt="" /></a><br /><sub><b>Super Crome: Bullet Purgatory</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/helheim"><img src="https://i.scdn.co/image/ab67616d0000b273b397fba1fa49b94f96bb0883" width="120" height="120" alt="" /></a><br /><sub><b>Helheim</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/towertale"><img src="https://i.scdn.co/image/ab67616d0000b2734e5eff485d76b559258702d0" width="120" height="120" alt="" /></a><br /><sub><b>Towertale</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/vestige"><img src="https://i.scdn.co/image/ab67616d0000b273668fe84269f0c1ec20e888f4" width="120" height="120" alt="" /></a><br /><sub><b>Vestige</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rikki-and-vikki"><img src="https://i.scdn.co/image/ab67616d0000b27368e683195e7ce509dbe0f920" width="120" height="120" alt="" /></a><br /><sub><b>Rikki &amp; Vikki</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/deep-diving-simulator"><img src="https://i.scdn.co/image/ab67616d0000b27399bec1c718b8a3b9f3abbb27" width="120" height="120" alt="" /></a><br /><sub><b>Deep Diving Simulator</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (370,205 games).
+More in **[missing/](missing/README.md)** (370,158 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -103,4 +103,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,927 soundtracks &middot; last updated 2026-11-23T11:15:49.545Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,927 soundtracks &middot; last updated 2026-11-23T12:41:15.337Z</sub>
