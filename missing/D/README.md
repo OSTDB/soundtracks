@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Hour | 148107 | [148107-darkest-hour.json](./148107-darkest-hour.json) |
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
 | Darkest Hour: Europe '44-'45 | 28971 | [28971-darkest-hour-europe-44-45.json](./28971-darkest-hour-europe-44-45.json) |
+| Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Mana : Master of the Table | 102479 | [102479-darkest-mana-master-of-the-table.json](./102479-darkest-mana-master-of-the-table.json) |
 | Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
@@ -10366,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
 | Dies irae: Amantes Amentes - HD Animation Anniversary | 392545 | [392545-dies-irae-amantes-amentes-hd-animation-anniversary.json](./392545-dies-irae-amantes-amentes-hd-animation-anniversary.json) |
 | Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
+| Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies irae: Pantheon | 105060 | [105060-dies-irae-pantheon.json](./105060-dies-irae-pantheon.json) |
 | Dies Mortis | 185163 | [185163-dies-mortis.json](./185163-dies-mortis.json) |
 | Diesel and Death | 194872 | [194872-diesel-and-death.json](./194872-diesel-and-death.json) |
@@ -16255,6 +16257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doughbee | 258727 | [258727-doughbee.json](./258727-doughbee.json) |
 | Doughby | 350029 | [350029-doughby.json](./350029-doughby.json) |
 | Doughlings Bundle | 196810 | [196810-doughlings-bundle.json](./196810-doughlings-bundle.json) |
+| Doughlings: Invasion | 116142 | [116142-doughlings-invasion.json](./116142-doughlings-invasion.json) |
 | Doughn't Panic! | 428221 | [428221-doughnt-panic.json](./428221-doughnt-panic.json) |
 | Dougie Moo's Aqua Antics | 67880 | [67880-dougie-moos-aqua-antics.json](./67880-dougie-moos-aqua-antics.json) |
 | Douglas and the Old Gold Recipe | 421746 | [421746-douglas-and-the-old-gold-recipe.json](./421746-douglas-and-the-old-gold-recipe.json) |
@@ -16838,6 +16841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft to Legion | 427481 | [427481-draft-to-legion.json](./427481-draft-to-legion.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
 | Draftfall | 425120 | [425120-draftfall.json](./425120-draftfall.json) |
+| Drafting Tales | 116055 | [116055-drafting-tales.json](./116055-drafting-tales.json) |
 | Drafting Towers | 181812 | [181812-drafting-towers.json](./181812-drafting-towers.json) |
 | DraftPunk | 388916 | [388916-draftpunk.json](./388916-draftpunk.json) |
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
