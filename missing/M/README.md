@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Devils: Damned-finitive Edition | 313337 | [313337-mad-devils-damned-finitive-edition.json](./313337-mad-devils-damned-finitive-edition.json) |
 | Mad Dex | 188356 | [188356-mad-dex.json](./188356-mad-dex.json) |
 | Mad Dex 2 | 227917 | [227917-mad-dex-2.json](./227917-mad-dex-2.json) |
+| Mad Digger | 76585 | [76585-mad-digger.json](./76585-mad-digger.json) |
 | Mad Doctor | 41159 | [41159-mad-doctor.json](./41159-mad-doctor.json) |
 | Mad Dog II: The Lost Gold | 4269 | [4269-mad-dog-ii-the-lost-gold.json](./4269-mad-dog-ii-the-lost-gold.json) |
 | Mad Dog McCree: Gunslinger Pack | 78300 | [78300-mad-dog-mccree-gunslinger-pack.json](./78300-mad-dog-mccree-gunslinger-pack.json) |
@@ -7584,6 +7585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meanderer | 217163 | [217163-meanderer.json](./217163-meanderer.json) |
 | Meandering Fiend | 126988 | [126988-meandering-fiend.json](./126988-meandering-fiend.json) |
+| Meanders | 76538 | [76538-meanders.json](./76538-meanders.json) |
 | Méandres | 257430 | [257430-meandres.json](./257430-meandres.json) |
 | Meaning | 297554 | [297554-meaning.json](./297554-meaning.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
@@ -13330,6 +13332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: Rita's Rewind - Deluxe Edition | 350800 | [350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json](./350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json) |
 | Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
+| Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75982 | [75982-mighty-morphin-power-rangers-the-movie.json](./75982-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 01: Zords | 362570 | [362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json](./362570-mighty-morphin-power-rangers-tiger-barcodzz-01-zords.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 02: Zords | 362574 | [362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json](./362574-mighty-morphin-power-rangers-tiger-barcodzz-02-zords.json) |
@@ -17121,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moeka: Exposure’s Temptation | 423533 | [423533-moeka-exposure-s-temptation.json](./423533-moeka-exposure-s-temptation.json) |
 | Moekan | 253125 | [253125-moekan.json](./253125-moekan.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
+| Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
 | Moémon Quetzal | 406271 | [406271-moemon-quetzal.json](./406271-moemon-quetzal.json) |
@@ -17993,6 +17997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Collection | 50615 | [50615-monopoly-collection.json](./50615-monopoly-collection.json) |
 | Monopoly Deal | 69346 | [69346-monopoly-deal.json](./69346-monopoly-deal.json) |
 | Monopoly Deluxe | 92869 | [92869-monopoly-deluxe.json](./92869-monopoly-deluxe.json) |
+| Monopoly Family Fun Pack | 77010 | [77010-monopoly-family-fun-pack.json](./77010-monopoly-family-fun-pack.json) |
 | Monopoly for Nintendo Switch | 28174 | [28174-monopoly-for-nintendo-switch.json](./28174-monopoly-for-nintendo-switch.json) |
 | Monopoly Here & Now | 51259 | [51259-monopoly-here-and-now.json](./51259-monopoly-here-and-now.json) |
 | Monopoly Hotels | 64471 | [64471-monopoly-hotels.json](./64471-monopoly-hotels.json) |
@@ -23420,6 +23425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Coloring Book | 147836 | [147836-my-coloring-book.json](./147836-my-coloring-book.json) |
 | My Coloring Book 2 | 196184 | [196184-my-coloring-book-2.json](./196184-my-coloring-book-2.json) |
 | My Coloring Book: Animals | 68658 | [68658-my-coloring-book-animals.json](./68658-my-coloring-book-animals.json) |
+| My Coloring Book: Food and Beverage | 76785 | [76785-my-coloring-book-food-and-beverage.json](./76785-my-coloring-book-food-and-beverage.json) |
 | My Coloring Book: Professions | 82285 | [82285-my-coloring-book-professions.json](./82285-my-coloring-book-professions.json) |
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
 | My Coloring Books: 2 in 1 Bundle | 400069 | [400069-my-coloring-books-2-in-1-bundle.json](./400069-my-coloring-books-2-in-1-bundle.json) |
@@ -24622,6 +24628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Talking Tom 2 | 180604 | [180604-my-talking-tom-2.json](./180604-my-talking-tom-2.json) |
 | My Talking Tom Friends | 136504 | [136504-my-talking-tom-friends.json](./136504-my-talking-tom-friends.json) |
 | My Talking Unicorn Emily | 243843 | [243843-my-talking-unicorn-emily.json](./243843-my-talking-unicorn-emily.json) |
+| My Tamagotchi Forever | 76234 | [76234-my-tamagotchi-forever.json](./76234-my-tamagotchi-forever.json) |
 | My Taskbar Farm | 371197 | [371197-my-taskbar-farm.json](./371197-my-taskbar-farm.json) |
 | My Tasty Husband | 390235 | [390235-my-tasty-husband.json](./390235-my-tasty-husband.json) |
 | My Taxi Company | 335812 | [335812-my-taxi-company.json](./335812-my-taxi-company.json) |
