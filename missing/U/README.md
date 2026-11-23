@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: Aftermath | 8928 | [8928-ufo-aftermath.json](./8928-ufo-aftermath.json) |
 | UFO: Aftershock | 9853 | [9853-ufo-aftershock.json](./9853-ufo-aftershock.json) |
 | UFO: Alien Invasion | 47271 | [47271-ufo-alien-invasion.json](./47271-ufo-alien-invasion.json) |
+| UFO: Extraterrestrials - Gold Edition | 29204 | [29204-ufo-extraterrestrials-gold-edition.json](./29204-ufo-extraterrestrials-gold-edition.json) |
 | UFO: Extraterrestrials Platinum | 251984 | [251984-ufo-extraterrestrials-platinum.json](./251984-ufo-extraterrestrials-platinum.json) |
 | UFO: Henfield | 277974 | [277974-ufo-henfield.json](./277974-ufo-henfield.json) |
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
@@ -2744,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
 | Universe Horizon | 334869 | [334869-universe-horizon.json](./334869-universe-horizon.json) |
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
+| Universe in Fire | 29237 | [29237-universe-in-fire.json](./29237-universe-in-fire.json) |
 | Universe of Trials | 318789 | [318789-universe-of-trials.json](./318789-universe-of-trials.json) |
 | Universe Pandemic 2 | 198005 | [198005-universe-pandemic-2.json](./198005-universe-pandemic-2.json) |
 | Universe Prison | 147045 | [147045-universe-prison.json](./147045-universe-prison.json) |
