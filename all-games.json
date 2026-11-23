@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T02:56:03.092Z",
-  "total_soundtracks": 3918,
+  "generated_at": "2026-11-23T03:25:56.424Z",
+  "total_soundtracks": 3919,
   "games": [
     {
       "igdb_id": 292844,
@@ -32479,6 +32479,20 @@
         {
           "album_name": "RAGER (Original Soundtrack - Freestyle)",
           "spotify_url": "https://open.spotify.com/album/1uF8VWoXS0nJj8JaB8OO9N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111880,
+      "game_name": "Ragnarok M: Eternal Love",
+      "game_url": "https://ostdb.net/games/ragnarok-m-eternal-love",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372526dbc7f48b958cf47f67b",
+      "albums": [
+        {
+          "album_name": "Ragnarok M: Eternal Love (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4LsgCqaSv1yB075anrWVJj",
           "apple_music_url": "",
           "album_link_url": ""
         }
