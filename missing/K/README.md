@@ -2273,7 +2273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Key Hunters DX | 266206 | [266206-key-hunters-dx.json](./266206-key-hunters-dx.json) |
 | Key La Box | 242064 | [242064-key-la-box.json](./242064-key-la-box.json) |
 | Key Lime Slime | 427005 | [427005-key-lime-slime.json](./427005-key-lime-slime.json) |
-| Key of Impasse | 107765 | [107765-key-of-impasse.json](./107765-key-of-impasse.json) |
 | Key Of The Magic | 376128 | [376128-key-of-the-magic.json](./376128-key-of-the-magic.json) |
 | Key to Heaven | 143559 | [143559-key-to-heaven.json](./143559-key-to-heaven.json) |
 | Key: Maze of Illusions | 191545 | [191545-key-maze-of-illusions.json](./191545-key-maze-of-illusions.json) |
@@ -2332,7 +2331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Hot Nurses | 109390 | [109390-keyhole-spy-hot-nurses.json](./109390-keyhole-spy-hot-nurses.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
-| Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
 | Keyhole Spy: Student Girls | 106424 | [106424-keyhole-spy-student-girls.json](./106424-keyhole-spy-student-girls.json) |
 | Keyhole Spy: Teachers | 106581 | [106581-keyhole-spy-teachers.json](./106581-keyhole-spy-teachers.json) |
 | Keyhunt | 424224 | [424224-keyhunt.json](./424224-keyhunt.json) |
@@ -3626,7 +3624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Pool | 66820 | [66820-king-of-pool.json](./66820-king-of-pool.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
-| King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
 | King of Rats: Enter the But Hole | 371953 | [371953-king-of-rats-enter-the-but-hole.json](./371953-king-of-rats-enter-the-but-hole.json) |
 | King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
 | King of Retail 2 | 295897 | [295897-king-of-retail-2.json](./295897-king-of-retail-2.json) |
@@ -5435,7 +5432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
 | Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
-| Knights of Tartarus | 108388 | [108388-knights-of-tartarus.json](./108388-knights-of-tartarus.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2 | 154202 | [154202-knights-of-the-chalice-2.json](./154202-knights-of-the-chalice-2.json) |
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
@@ -6884,7 +6880,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
 | Kubics | 284751 | [284751-kubics.json](./284751-kubics.json) |
-| Kubifaktorium | 109030 | [109030-kubifaktorium.json](./109030-kubifaktorium.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
 | Kubiko | 188259 | [188259-kubiko.json](./188259-kubiko.json) |
 | Kubikon 3D | 278259 | [278259-kubikon-3d.json](./278259-kubikon-3d.json) |
@@ -6907,7 +6902,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubrix | 134249 | [134249-kubrix.json](./134249-kubrix.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kubyx | 134717 | [134717-kubyx.json](./134717-kubyx.json) |
-| Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
 | Kuchitsu | 143987 | [143987-kuchitsu.json](./143987-kuchitsu.json) |
 | Kud Wafter | 9659 | [9659-kud-wafter.json](./9659-kud-wafter.json) |
 | Kud Wafter: Converted Edition | 274649 | [274649-kud-wafter-converted-edition.json](./274649-kud-wafter-converted-edition.json) |
