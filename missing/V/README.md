@@ -2483,7 +2483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viki Spotter: Sports | 99088 | [99088-viki-spotter-sports.json](./99088-viki-spotter-sports.json) |
 | Viki Spotter: The Farm | 83539 | [83539-viki-spotter-the-farm.json](./83539-viki-spotter-the-farm.json) |
 | Viki Spotter: Undersea | 84091 | [84091-viki-spotter-undersea.json](./84091-viki-spotter-undersea.json) |
-| Viki Spotter: Zoo | 107511 | [107511-viki-spotter-zoo.json](./107511-viki-spotter-zoo.json) |
 | Vikindor | 207305 | [207305-vikindor.json](./207305-vikindor.json) |
 | Viking | 41184 | [41184-viking.json](./41184-viking.json) |
 | Viking Age | 251262 | [251262-viking-age.json](./251262-viking-age.json) |
@@ -3627,7 +3626,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vixen 357 | 425864 | [425864-vixen-357.json](./425864-vixen-357.json) |
 | Vixen 357 | 4452 | [4452-vixen-357.json](./4452-vixen-357.json) |
 | Vixen Wars | 161500 | [161500-vixen-wars.json](./161500-vixen-wars.json) |
-| Vixens From outer Space | 106391 | [106391-vixens-from-outer-space.json](./106391-vixens-from-outer-space.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
 | Viz: The Game | 37209 | [37209-viz-the-game.json](./37209-viz-the-game.json) |
@@ -4198,7 +4196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vornyca | 397320 | [397320-vornyca.json](./397320-vornyca.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Voronica Cleans House: a Vore Adventure | 146603 | [146603-voronica-cleans-house-a-vore-adventure.json](./146603-voronica-cleans-house-a-vore-adventure.json) |
-| Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorozhey | 348993 | [348993-vorozhey.json](./348993-vorozhey.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
@@ -4310,7 +4307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Playground | 380575 | [380575-voxel-playground.json](./380575-voxel-playground.json) |
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
 | Voxel Project | 302185 | [302185-voxel-project.json](./302185-voxel-project.json) |
-| Voxel Race | 105381 | [105381-voxel-race.json](./105381-voxel-race.json) |
 | Voxel Santa Skiing | 232295 | [232295-voxel-santa-skiing.json](./232295-voxel-santa-skiing.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
@@ -4929,7 +4925,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VSCS-II | 193070 | [193070-vscs-ii.json](./193070-vscs-ii.json) |
 | Vsevolod | 10431 | [10431-vsevolod.json](./10431-vsevolod.json) |
 | VSky-X MMORPG | 411886 | [411886-vsky-x-mmorpg.json](./411886-vsky-x-mmorpg.json) |
-| VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VT Tennis | 53015 | [53015-vt-tennis.json](./53015-vt-tennis.json) |
 | VTB Basketball League | 116911 | [116911-vtb-basketball-league.json](./116911-vtb-basketball-league.json) |
