@@ -5499,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knither Special | 41730 | [41730-knither-special.json](./41730-knither-special.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knittens | 210763 | [210763-knittens.json](./210763-knittens.json) |
+| Knives Out | 77776 | [77776-knives-out.json](./77776-knives-out.json) |
 | Kno | 134527 | [134527-kno.json](./134527-kno.json) |
 | Knob | 346254 | [346254-knob.json](./346254-knob.json) |
 | Knobel Spass | 91594 | [91594-knobel-spass.json](./91594-knobel-spass.json) |
