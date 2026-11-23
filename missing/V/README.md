@@ -1743,7 +1743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veriscape | 249651 | [249651-veriscape.json](./249651-veriscape.json) |
 | Verisim Skies | 244899 | [244899-verisim-skies.json](./244899-verisim-skies.json) |
 | Verismo | 362986 | [362986-verismo.json](./362986-verismo.json) |
-| Veritas | 111443 | [111443-veritas.json](./111443-veritas.json) |
 | Veritas Tales: Witch of the Dark Castle | 399423 | [399423-veritas-tales-witch-of-the-dark-castle.json](./399423-veritas-tales-witch-of-the-dark-castle.json) |
 | Veritex | 81166 | [81166-veritex.json](./81166-veritex.json) |
 | Veritus | 260627 | [260627-veritus.json](./260627-veritus.json) |
@@ -2591,7 +2590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vila Mágica | 262211 | [262211-vila-magica.json](./262211-vila-magica.json) |
 | Viladia | 386165 | [386165-viladia.json](./386165-viladia.json) |
 | Vilde | 253827 | [253827-vilde.json](./253827-vilde.json) |
-| Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
 | Vile Flesh | 311296 | [311296-vile-flesh.json](./311296-vile-flesh.json) |
 | Vile Halicarnassus | 386086 | [386086-vile-halicarnassus.json](./386086-vile-halicarnassus.json) |
@@ -2781,7 +2779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Viola_ | 390580 | [390580-viola.json](./390580-viola.json) |
-| Viola: The Heroine's Melody | 112715 | [112715-viola-the-heroines-melody.json](./112715-viola-the-heroines-melody.json) |
 | Violarium | 419232 | [419232-violarium.json](./419232-violarium.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violation | 182307 | [182307-violation.json](./182307-violation.json) |
@@ -4639,7 +4636,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Roller Coaster | 88899 | [88899-vr-roller-coaster.json](./88899-vr-roller-coaster.json) |
 | VR Roller Coaster - Cave Depths | 75659 | [75659-vr-roller-coaster-cave-depths.json](./75659-vr-roller-coaster-cave-depths.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
-| VR Rome | 111385 | [111385-vr-rome.json](./111385-vr-rome.json) |
 | VR Room: The Flintstones | 279674 | [279674-vr-room-the-flintstones.json](./279674-vr-room-the-flintstones.json) |
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
 | VR RV | 99077 | [99077-vr-rv.json](./99077-vr-rv.json) |
