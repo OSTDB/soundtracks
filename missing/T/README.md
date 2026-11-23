@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank2 | 94581 | [94581-tank2.json](./94581-tank2.json) |
 | Tankalot | 96240 | [96240-tankalot.json](./96240-tankalot.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
+| TankBlitz | 28791 | [28791-tankblitz.json](./28791-tankblitz.json) |
 | Tankbot Battle | 319425 | [319425-tankbot-battle.json](./319425-tankbot-battle.json) |
 | Tankbox | 153034 | [153034-tankbox.json](./153034-tankbox.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
@@ -6857,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archivist | 414060 | [414060-the-archivist.json](./414060-the-archivist.json) |
 | The Archivist and the Revolution | 277193 | [277193-the-archivist-and-the-revolution.json](./277193-the-archivist-and-the-revolution.json) |
 | The Archivist: VR | 101219 | [101219-the-archivist-vr.json](./101219-the-archivist-vr.json) |
+| The Archotek Project | 29092 | [29092-the-archotek-project.json](./29092-the-archotek-project.json) |
 | The Arcslinger | 95557 | [95557-the-arcslinger.json](./95557-the-arcslinger.json) |
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
 | The Area Where You Can't Place Arrows | 185529 | [185529-the-area-where-you-cant-place-arrows.json](./185529-the-area-where-you-cant-place-arrows.json) |
@@ -10010,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The EA Games Collection | 30219 | [30219-the-ea-games-collection.json](./30219-the-ea-games-collection.json) |
 | The Eagle Keita | 384572 | [384572-the-eagle-keita.json](./384572-the-eagle-keita.json) |
+| The Eagle's Heir | 29125 | [29125-the-eagles-heir.json](./29125-the-eagles-heir.json) |
 | The earl octopusor | 101822 | [101822-the-earl-octopusor.json](./101822-the-earl-octopusor.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
@@ -12956,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Indirect Castle Retreat | 322765 | [322765-the-indirect-castle-retreat.json](./322765-the-indirect-castle-retreat.json) |
 | The Industrial Council | 390348 | [390348-the-industrial-council.json](./390348-the-industrial-council.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
+| The Inevitability | 28804 | [28804-the-inevitability.json](./28804-the-inevitability.json) |
 | The Inexperienced Exorcist | 393597 | [393597-the-inexperienced-exorcist.json](./393597-the-inexperienced-exorcist.json) |
 | The Infected | 138726 | [138726-the-infected.json](./138726-the-infected.json) |
 | The Infected Truth | 177214 | [177214-the-infected-truth.json](./177214-the-infected-truth.json) |
@@ -16833,6 +16837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oni Sellsword | 106403 | [106403-the-oni-sellsword.json](./106403-the-oni-sellsword.json) |
 | The Oni Taiji: Mezase! Nidaime Momotarou | 257855 | [257855-the-oni-taiji-mezase-nidaime-momotarou.json](./257855-the-oni-taiji-mezase-nidaime-momotarou.json) |
 | The Onion Knights: Definite Edition | 118578 | [118578-the-onion-knights-definite-edition.json](./118578-the-onion-knights-definite-edition.json) |
+| The Onion Knights: Definitive Edition | 29300 | [29300-the-onion-knights-definitive-edition.json](./29300-the-onion-knights-definitive-edition.json) |
 | The Onion Voting Simulator 3D | 425913 | [425913-the-onion-voting-simulator-3d.json](./425913-the-onion-voting-simulator-3d.json) |
 | The Only Droid | 403632 | [403632-the-only-droid.json](./403632-the-only-droid.json) |
 | The Only Eye: Arcane Legacy | 422925 | [422925-the-only-eye-arcane-legacy.json](./422925-the-only-eye-arcane-legacy.json) |
@@ -19047,6 +19052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
 | The Sickle Family | 367993 | [367993-the-sickle-family.json](./367993-the-sickle-family.json) |
 | The Sickle Upon Sekigahara | 157745 | [157745-the-sickle-upon-sekigahara.json](./157745-the-sickle-upon-sekigahara.json) |
+| The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
