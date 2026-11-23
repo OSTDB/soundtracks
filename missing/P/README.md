@@ -8843,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
 | Pirate Simulator: Corsair Skull & Sails | 369254 | [369254-pirate-simulator-corsair-skull-and-sails.json](./369254-pirate-simulator-corsair-skull-and-sails.json) |
+| Pirate Skulls and Sails | 428663 | [428663-pirate-skulls-and-sails.json](./428663-pirate-skulls-and-sails.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Solitaire 2 | 195347 | [195347-pirate-solitaire-2.json](./195347-pirate-solitaire-2.json) |
 | Pirate Souls | 197280 | [197280-pirate-souls.json](./197280-pirate-souls.json) |
@@ -10071,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelord | 74657 | [74657-pixelord.json](./74657-pixelord.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelot | 144437 | [144437-pixelot.json](./144437-pixelot.json) |
+| PixelPainter 95 | 428162 | [428162-pixelpainter-95.json](./428162-pixelpainter-95.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | PixelPlanet.fun | 125561 | [125561-pixelplanet-fun.json](./125561-pixelplanet-fun.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
@@ -14684,6 +14686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop-Pop | 146186 | [146186-pop-pop.json](./146186-pop-pop.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop-up Pilgrams | 87677 | [87677-pop-up-pilgrams.json](./87677-pop-up-pilgrams.json) |
+| Pop-Up Purgatory | 428652 | [428652-pop-up-purgatory.json](./428652-pop-up-purgatory.json) |
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
