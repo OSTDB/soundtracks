@@ -1180,7 +1180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Tots | 28270 | [28270-jelly-tots.json](./28270-jelly-tots.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
-| Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
 | Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
 | Jelly Wrestle | 105575 | [105575-jelly-wrestle.json](./105575-jelly-wrestle.json) |
 | Jelly Zoo | 236979 | [236979-jelly-zoo.json](./236979-jelly-zoo.json) |
@@ -2581,7 +2580,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JJ | 48451 | [48451-jj.json](./48451-jj.json) |
 | JJ Duke Nukem 3D | 273177 | [273177-jj-duke-nukem-3d.json](./273177-jj-duke-nukem-3d.json) |
 | Jjat | 122897 | [122897-jjat.json](./122897-jjat.json) |
-| JJBoom | 107407 | [107407-jjboom.json](./107407-jjboom.json) |
 | JJJ | 266790 | [266790-jjj.json](./266790-jjj.json) |
 | JK Assassins | 178648 | [178648-jk-assassins.json](./178648-jk-assassins.json) |
 | JK Girl Samurai: Aoi No Mon | 378240 | [378240-jk-girl-samurai-aoi-no-mon.json](./378240-jk-girl-samurai-aoi-no-mon.json) |
@@ -2976,7 +2974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly 3: Chapter 2 | 184508 | [184508-jolly-3-chapter-2.json](./184508-jolly-3-chapter-2.json) |
 | Jolly 4 | 254111 | [254111-jolly-4.json](./254111-jolly-4.json) |
 | Jolly and Whimsy | 406872 | [406872-jolly-and-whimsy.json](./406872-jolly-and-whimsy.json) |
-| Jolly Battle | 105538 | [105538-jolly-battle.json](./105538-jolly-battle.json) |
 | Jolly Bunny's Adventure | 151592 | [151592-jolly-bunnys-adventure.json](./151592-jolly-bunnys-adventure.json) |
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
 | Jolly Essentials | 327526 | [327526-jolly-essentials.json](./327526-jolly-essentials.json) |
@@ -3576,7 +3573,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
 | Julia's Quest: United Kingdom | 54147 | [54147-julias-quest-united-kingdom.json](./54147-julias-quest-united-kingdom.json) |
 | Julian & Friends | 328143 | [328143-julian-and-friends.json](./328143-julian-and-friends.json) |
-| Juliäntli | 106408 | [106408-juliantli.json](./106408-juliantli.json) |
 | Julie's Sweets | 111960 | [111960-julies-sweets.json](./111960-julies-sweets.json) |
 | Juliette's Fashion Empire | 54162 | [54162-juliettes-fashion-empire.json](./54162-juliettes-fashion-empire.json) |
 | Julius | 405771 | [405771-julius.json](./405771-julius.json) |
