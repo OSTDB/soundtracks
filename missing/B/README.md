@@ -17092,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Deeds of Rescue Team | 157505 | [157505-brave-deeds-of-rescue-team.json](./157505-brave-deeds-of-rescue-team.json) |
 | Brave Diggers | 110205 | [110205-brave-diggers.json](./110205-brave-diggers.json) |
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
+| Brave Dungeon | 23722 | [23722-brave-dungeon.json](./23722-brave-dungeon.json) |
 | Brave Dungeon | 81454 | [81454-brave-dungeon.json](./81454-brave-dungeon.json) |
 | Brave Dungeon + Dark Witch's Story: Combat | 69393 | [69393-brave-dungeon-dark-witchs-story-combat.json](./69393-brave-dungeon-dark-witchs-story-combat.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
