@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Friction | 126897 | [126897-zero-friction.json](./126897-zero-friction.json) |
+| Zero G Arena | 32705 | [32705-zero-g-arena.json](./32705-zero-g-arena.json) |
 | Zero G Golf | 181661 | [181661-zero-g-golf.json](./181661-zero-g-golf.json) |
 | Zero Glide VR | 334854 | [334854-zero-glide-vr.json](./334854-zero-glide-vr.json) |
 | Zero Gravity | 106303 | [106303-zero-gravity.json](./106303-zero-gravity.json) |
@@ -1418,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZigZagging Ski | 236455 | [236455-zigzagging-ski.json](./236455-zigzagging-ski.json) |
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
+| ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
 | Zilado! | 306789 | [306789-zilado.json](./306789-zilado.json) |
 | Zilant | 102229 | [102229-zilant.json](./102229-zilant.json) |
 | Zilar: Empire of The Underground | 312502 | [312502-zilar-empire-of-the-underground.json](./312502-zilar-empire-of-the-underground.json) |
