@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories | 56978 | [56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json](./56978-yu-gi-oh-duel-monsters-ii-dark-duel-stories.json) |
 | Yu-Gi-Oh! Duel Monsters Saikyo Card Battle | 58652 | [58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json](./58652-yu-gi-oh-duel-monsters-saikyo-card-battle.json) |
 | Yu-Gi-Oh! Dungeon Dice Monsters | 49211 | [49211-yu-gi-oh-dungeon-dice-monsters.json](./49211-yu-gi-oh-dungeon-dice-monsters.json) |
+| Yu-Gi-Oh! Early Days Collection | 309038 | [309038-yu-gi-oh-early-days-collection.json](./309038-yu-gi-oh-early-days-collection.json) |
 | Yu-Gi-Oh! Forbidden Memories | 4108 | [4108-yu-gi-oh-forbidden-memories.json](./4108-yu-gi-oh-forbidden-memories.json) |
 | Yu-Gi-Oh! Forbidden Memories II Ultimate | 308412 | [308412-yu-gi-oh-forbidden-memories-ii-ultimate.json](./308412-yu-gi-oh-forbidden-memories-ii-ultimate.json) |
 | Yu-Gi-Oh! Forbidden Memories: Alpha Mod | 308396 | [308396-yu-gi-oh-forbidden-memories-alpha-mod.json](./308396-yu-gi-oh-forbidden-memories-alpha-mod.json) |
