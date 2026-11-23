@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal | 120991 | [120991-heal.json](./120991-heal.json) |
 | Heal & Hurt | 207710 | [207710-heal-and-hurt.json](./207710-heal-and-hurt.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
+| Heal Me Faster | 428677 | [428677-heal-me-faster.json](./428677-heal-me-faster.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal Slime | 364383 | [364383-heal-slime.json](./364383-heal-slime.json) |
 | Heal The Survivors | 322130 | [322130-heal-the-survivors.json](./322130-heal-the-survivors.json) |
@@ -6409,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
 | Hentai Tales: Sexual Guidance Class | 369301 | [369301-hentai-tales-sexual-guidance-class.json](./369301-hentai-tales-sexual-guidance-class.json) |
 | Hentai Tales: Sin City of Lust | 411198 | [411198-hentai-tales-sin-city-of-lust.json](./411198-hentai-tales-sin-city-of-lust.json) |
+| Hentai Tales: Sister Inferno | 428094 | [428094-hentai-tales-sister-inferno.json](./428094-hentai-tales-sister-inferno.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
 | Hentai Tales: Succubus Utopia | 286140 | [286140-hentai-tales-succubus-utopia.json](./286140-hentai-tales-succubus-utopia.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
@@ -13286,6 +13288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howl | 256476 | [256476-howl.json](./256476-howl.json) |
 | Howl | 31710 | [31710-howl.json](./31710-howl.json) |
 | Howl | 399756 | [399756-howl.json](./399756-howl.json) |
+| Howl of Heavens | 428072 | [428072-howl-of-heavens.json](./428072-howl-of-heavens.json) |
 | Howl of Iron | 230926 | [230926-howl-of-iron.json](./230926-howl-of-iron.json) |
 | Howlbreath | 219837 | [219837-howlbreath.json](./219837-howlbreath.json) |
 | Howling Dogs | 62648 | [62648-howling-dogs.json](./62648-howling-dogs.json) |
