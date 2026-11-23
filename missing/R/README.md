@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
 | Rage of Sage Online | 397364 | [397364-rage-of-sage-online.json](./397364-rage-of-sage-online.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
+| Rage of the Dragons NEO | 296483 | [296483-rage-of-the-dragons-neo.json](./296483-rage-of-the-dragons-neo.json) |
 | Rage of the Gladiator | 22113 | [22113-rage-of-the-gladiator.json](./22113-rage-of-the-gladiator.json) |
 | Rage of the Pumpkins | 104379 | [104379-rage-of-the-pumpkins.json](./104379-rage-of-the-pumpkins.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Cloud: A Gay RPG | 347978 | [347978-rainbow-cloud-a-gay-rpg.json](./347978-rainbow-cloud-a-gay-rpg.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
+| Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
 | Rainbow Cotton | 46368 | [46368-rainbow-cotton.json](./46368-rainbow-cotton.json) |
 | Rainbow Cream Saga | 262825 | [262825-rainbow-cream-saga.json](./262825-rainbow-cream-saga.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
@@ -9132,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Tomb Raider: Cold Darkness Awakened | 25219 | [25219-rise-of-the-tomb-raider-cold-darkness-awakened.json](./25219-rise-of-the-tomb-raider-cold-darkness-awakened.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
+| Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
 | Rise of the Underdog King! | 333409 | [333409-rise-of-the-underdog-king.json](./333409-rise-of-the-underdog-king.json) |
 | Rise of the Vanguard | 346525 | [346525-rise-of-the-vanguard.json](./346525-rise-of-the-vanguard.json) |
