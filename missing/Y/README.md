@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 2: Josette's Quest | 206158 | [206158-yurivania-2-josettes-quest.json](./206158-yurivania-2-josettes-quest.json) |
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yurivania: Uhaul of the Night | 206156 | [206156-yurivania-uhaul-of-the-night.json](./206156-yurivania-uhaul-of-the-night.json) |
+| Yurko | 426308 | [426308-yurko.json](./426308-yurko.json) |
 | Yuro's Fantasy Adventure | 161621 | [161621-yuros-fantasy-adventure.json](./161621-yuros-fantasy-adventure.json) |
 | Yuru Yuru Gekijou Classic | 221254 | [221254-yuru-yuru-gekijou-classic.json](./221254-yuru-yuru-gekijou-classic.json) |
 | Yuru-Eto Card Battle | 409502 | [409502-yuru-eto-card-battle.json](./409502-yuru-eto-card-battle.json) |
