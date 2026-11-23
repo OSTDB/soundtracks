@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
 | Let's Sing Country: Platinum Edition | 164676 | [164676-lets-sing-country-platinum-edition.json](./164676-lets-sing-country-platinum-edition.json) |
 | Let's Sing Presents: Abba | 412641 | [412641-lets-sing-presents-abba.json](./412641-lets-sing-presents-abba.json) |
+| Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Hits Français 2016 | 79418 | [79418-lets-sing-hits-francais-2016.json](./79418-lets-sing-hits-francais-2016.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Sing! The World of Karaoke | 386314 | [386314-lets-sing-the-world-of-karaoke.json](./386314-lets-sing-the-world-of-karaoke.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch | 199811 | [199811-little-witch.json](./199811-little-witch.json) |
 | Little Witch Academia: Chamber of Time | 36506 | [36506-little-witch-academia-chamber-of-time.json](./36506-little-witch-academia-chamber-of-time.json) |
 | Little Witch Academia: Project Luna | 277140 | [277140-little-witch-academia-project-luna.json](./277140-little-witch-academia-project-luna.json) |
+| Little Witch Academia: VR Broom Racing | 139341 | [139341-little-witch-academia-vr-broom-racing.json](./139341-little-witch-academia-vr-broom-racing.json) |
 | Little Witch in the Woods | 130577 | [130577-little-witch-in-the-woods.json](./130577-little-witch-in-the-woods.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta | 116781 | [116781-little-witch-nobeta.json](./116781-little-witch-nobeta.json) |
