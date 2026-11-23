@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 Million Books | 425967 | [425967-1-million-books.json](./425967-1-million-books.json) |
 | 1 Million Zombies | 257749 | [257749-1-million-zombies.json](./257749-1-million-zombies.json) |
+| 1 Min Aim: Neo Seoul | 429397 | [429397-1-min-aim-neo-seoul.json](./429397-1-min-aim-neo-seoul.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Japan Find & Color | 351511 | [351511-100-cats-lost-in-japan-find-and-color.json](./351511-100-cats-lost-in-japan-find-and-color.json) |
 | 100 Cats Lost In Japan: Extra Content | 376889 | [376889-100-cats-lost-in-japan-extra-content.json](./376889-100-cats-lost-in-japan-extra-content.json) |
 | 100 Cats Lost in Modern Art Mayhem | 359029 | [359029-100-cats-lost-in-modern-art-mayhem.json](./359029-100-cats-lost-in-modern-art-mayhem.json) |
+| 100 Cats Lost in Norway | 431188 | [431188-100-cats-lost-in-norway.json](./431188-100-cats-lost-in-norway.json) |
 | 100 Cats Lost in Picasso’s Cubic World | 359026 | [359026-100-cats-lost-in-picasso-s-cubic-world.json](./359026-100-cats-lost-in-picasso-s-cubic-world.json) |
 | 100 Cats Lost in Poland Find & Color | 352495 | [352495-100-cats-lost-in-poland-find-and-color.json](./352495-100-cats-lost-in-poland-find-and-color.json) |
 | 100 Cats Lost In Poland: Extra Content | 359562 | [359562-100-cats-lost-in-poland-extra-content.json](./359562-100-cats-lost-in-poland-extra-content.json) |
