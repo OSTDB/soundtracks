@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetta | 32448 | [32448-magnetta.json](./32448-magnetta.json) |
 | MagnetWorks | 306407 | [306407-magnetworks.json](./306407-magnetworks.json) |
 | Magnia | 123530 | [123530-magnia.json](./123530-magnia.json) |
+| Magnibox | 116051 | [116051-magnibox.json](./116051-magnibox.json) |
 | Magnificent 5 | 129995 | [129995-magnificent-5.json](./129995-magnificent-5.json) |
 | Magnificent Alfie | 233752 | [233752-magnificent-alfie.json](./233752-magnificent-alfie.json) |
 | Magnificent Moths | 354916 | [354916-magnificent-moths.json](./354916-magnificent-moths.json) |
@@ -5708,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Semblance | 105459 | [105459-mask-of-semblance.json](./105459-mask-of-semblance.json) |
 | Mask of Soul | 390325 | [390325-mask-of-soul.json](./390325-mask-of-soul.json) |
 | Mask of Souls | 391657 | [391657-mask-of-souls.json](./391657-mask-of-souls.json) |
+| Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
 | Mask Two Two | 198378 | [198378-mask-two-two.json](./198378-mask-two-two.json) |
 | Mask Two Two | 40937 | [40937-mask-two-two.json](./40937-mask-two-two.json) |
