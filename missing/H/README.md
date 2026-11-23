@@ -13241,6 +13241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Storm Warning Edition | 20311 | [20311-how-to-survive-storm-warning-edition.json](./20311-how-to-survive-storm-warning-edition.json) |
 | How to Survive: Third Person Standalone | 13211 | [13211-how-to-survive-third-person-standalone.json](./13211-how-to-survive-third-person-standalone.json) |
 | How to Take Off Your Mask | 35394 | [35394-how-to-take-off-your-mask.json](./35394-how-to-take-off-your-mask.json) |
+| How to Take Off Your Mask: Remastered | 143151 | [143151-how-to-take-off-your-mask-remastered.json](./143151-how-to-take-off-your-mask-remastered.json) |
 | How to Tame a Succubus | 252681 | [252681-how-to-tame-a-succubus.json](./252681-how-to-tame-a-succubus.json) |
 | How to Train Your Bro's Girlfriend | 412714 | [412714-how-to-train-your-bros-girlfriend.json](./412714-how-to-train-your-bros-girlfriend.json) |
 | How to Train Your Cock | 375475 | [375475-how-to-train-your-cock.json](./375475-how-to-train-your-cock.json) |
