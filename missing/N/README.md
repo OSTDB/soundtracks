@@ -4786,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Café | 73415 | [73415-night-cafe.json](./73415-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Call: Home | 413159 | [413159-night-call-home.json](./413159-night-call-home.json) |
+| Night Camp | 428670 | [428670-night-camp.json](./428670-night-camp.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Cascades | 172946 | [172946-night-cascades.json](./172946-night-cascades.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
@@ -5617,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nila Dhuma | 57184 | [57184-nila-dhuma.json](./57184-nila-dhuma.json) |
 | Nildigo | 347788 | [347788-nildigo.json](./347788-nildigo.json) |
+| Nile Express | 428100 | [428100-nile-express.json](./428100-nile-express.json) |
 | Nile Kawa no Yoake | 130470 | [130470-nile-kawa-no-yoake.json](./130470-nile-kawa-no-yoake.json) |
 | Nile: An Ancient Egyptian Quest | 71042 | [71042-nile-an-ancient-egyptian-quest.json](./71042-nile-an-ancient-egyptian-quest.json) |
 | Nile: Passage to Egypt | 69989 | [69989-nile-passage-to-egypt.json](./69989-nile-passage-to-egypt.json) |
@@ -8054,6 +8056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not Sleep Hero | 407014 | [407014-not-sleep-hero.json](./407014-not-sleep-hero.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
+| Not So Hot Potato: 2025 Final Boss | 428083 | [428083-not-so-hot-potato-2025-final-boss.json](./428083-not-so-hot-potato-2025-final-boss.json) |
 | Not So Instant Messaging | 179887 | [179887-not-so-instant-messaging.json](./179887-not-so-instant-messaging.json) |
 | Not So Middle Ages | 98775 | [98775-not-so-middle-ages.json](./98775-not-so-middle-ages.json) |
 | Not so Simple Sonic Advance 2 Worlds | 294405 | [294405-not-so-simple-sonic-advance-2-worlds.json](./294405-not-so-simple-sonic-advance-2-worlds.json) |
