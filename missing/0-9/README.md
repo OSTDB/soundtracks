@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3rees | 305728 | [305728-3rees.json](./305728-3rees.json) |
 | 3Scapes | 228798 | [228798-3scapes.json](./228798-3scapes.json) |
+| 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
 | 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
 | 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
 | 3T Games Compilation | 80400 | [80400-3t-games-compilation.json](./80400-3t-games-compilation.json) |
