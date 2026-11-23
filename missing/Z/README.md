@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip Puzzle | 348119 | [348119-zip-puzzle.json](./348119-zip-puzzle.json) |
 | Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
+| Zip Zap | 95687 | [95687-zip-zap.json](./95687-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
 | Zip! Speedster of Valiant City | 129318 | [129318-zip-speedster-of-valiant-city.json](./129318-zip-speedster-of-valiant-city.json) |
 | Zip's Jumping Adventure | 364796 | [364796-zips-jumping-adventure.json](./364796-zips-jumping-adventure.json) |
