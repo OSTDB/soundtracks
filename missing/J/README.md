@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
 | Junk Shop Telescope | 145475 | [145475-junk-shop-telescope.json](./145475-junk-shop-telescope.json) |
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
+| Junk Tower Together | 428660 | [428660-junk-tower-together.json](./428660-junk-tower-together.json) |
 | Junk Trash Hop | 418036 | [418036-junk-trash-hop.json](./418036-junk-trash-hop.json) |
 | Junk Truck | 105461 | [105461-junk-truck.json](./105461-junk-truck.json) |
 | Junk-o-Tron | 402603 | [402603-junk-o-tron.json](./402603-junk-o-tron.json) |
@@ -4537,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Another Pong Clone | 361736 | [361736-just-another-pong-clone.json](./361736-just-another-pong-clone.json) |
 | Just Another Runner | 204109 | [204109-just-another-runner.json](./204109-just-another-runner.json) |
 | Just Arms | 129656 | [129656-just-arms.json](./129656-just-arms.json) |
+| Just Arrived | 428661 | [428661-just-arrived.json](./428661-just-arrived.json) |
 | Just Bat: VR Cricket | 31362 | [31362-just-bat-vr-cricket.json](./31362-just-bat-vr-cricket.json) |
 | Just Beat Em Up : World of Fury | 108326 | [108326-just-beat-em-up-world-of-fury.json](./108326-just-beat-em-up-world-of-fury.json) |
 | Just Because of Beauty | 279082 | [279082-just-because-of-beauty.json](./279082-just-because-of-beauty.json) |
