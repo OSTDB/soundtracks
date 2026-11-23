@@ -10077,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Gods | 295461 | [295461-the-elder-gods.json](./295461-the-elder-gods.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
+| The Elder Scrolls Anthology | 23832 | [23832-the-elder-scrolls-anthology.json](./23832-the-elder-scrolls-anthology.json) |
 | The Elder Scrolls Bundle | 290975 | [290975-the-elder-scrolls-bundle.json](./290975-the-elder-scrolls-bundle.json) |
 | The Elder Scrolls II: Daggerfall | 53 | [53-the-elder-scrolls-ii-daggerfall.json](./53-the-elder-scrolls-ii-daggerfall.json) |
 | The Elder Scrolls III: Morrowind - Entertainers | 223843 | [223843-the-elder-scrolls-iii-morrowind-entertainers.json](./223843-the-elder-scrolls-iii-morrowind-entertainers.json) |
@@ -14285,6 +14286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Threat | 214108 | [214108-the-last-threat.json](./214108-the-last-threat.json) |
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
+| The Last Time | 23942 | [23942-the-last-time.json](./23942-the-last-time.json) |
 | The Last Tower | 93798 | [93798-the-last-tower.json](./93798-the-last-tower.json) |
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
 | The Last Town: Excape | 149839 | [149839-the-last-town-excape.json](./149839-the-last-town-excape.json) |
@@ -21534,6 +21536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitors Escape | 315763 | [315763-the-visitors-escape.json](./315763-the-visitors-escape.json) |
 | The Visitors Escape 2 | 315765 | [315765-the-visitors-escape-2.json](./315765-the-visitors-escape-2.json) |
 | The Visitors from Mir | 260896 | [260896-the-visitors-from-mir.json](./260896-the-visitors-from-mir.json) |
+| The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
 | The Voice from Heaven | 114311 | [114311-the-voice-from-heaven.json](./114311-the-voice-from-heaven.json) |
 | The Voice from the Well: The Velessar Saga | 238435 | [238435-the-voice-from-the-well-the-velessar-saga.json](./238435-the-voice-from-the-well-the-velessar-saga.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
@@ -30305,6 +30308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Isabella von Carstein | 81292 | [81292-total-war-warhammer-isabella-von-carstein.json](./81292-total-war-warhammer-isabella-von-carstein.json) |
 | Total War: Warhammer - Jade Wizard | 81294 | [81294-total-war-warhammer-jade-wizard.json](./81294-total-war-warhammer-jade-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
+| Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - The Grim and the Grave | 27355 | [27355-total-war-warhammer-the-grim-and-the-grave.json](./27355-total-war-warhammer-the-grim-and-the-grave.json) |
 | Total War: Warhammer - The King and the Warlord | 81202 | [81202-total-war-warhammer-the-king-and-the-warlord.json](./81202-total-war-warhammer-the-king-and-the-warlord.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
