@@ -1269,7 +1269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Ji-San to 1000-nin no Otomodachi Yokoshima | 222430 | [222430-dangerous-ji-san-to-1000-nin-no-otomodachi-yokoshima.json](./222430-dangerous-ji-san-to-1000-nin-no-otomodachi-yokoshima.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
-| Dangerous Lands | 108669 | [108669-dangerous-lands.json](./108669-dangerous-lands.json) |
 | Dangerous Lands | 344583 | [344583-dangerous-lands.json](./344583-dangerous-lands.json) |
 | Dangerous Lands 2 | 161204 | [161204-dangerous-lands-2.json](./161204-dangerous-lands-2.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
@@ -3191,7 +3190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Andromeda | 28533 | [28533-dawn-of-andromeda.json](./28533-dawn-of-andromeda.json) |
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
-| Dawn of China: Rise of Qin | 109372 | [109372-dawn-of-china-rise-of-qin.json](./109372-dawn-of-china-rise-of-qin.json) |
 | Dawn of Corruption | 148108 | [148108-dawn-of-corruption.json](./148108-dawn-of-corruption.json) |
 | Dawn of Crafting | 36604 | [36604-dawn-of-crafting.json](./36604-dawn-of-crafting.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
@@ -4890,7 +4888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Voyage | 429047 | [429047-deadly-voyage.json](./429047-deadly-voyage.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
-| Deadly Wheels | 108038 | [108038-deadly-wheels.json](./108038-deadly-wheels.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadman's Cross | 52181 | [52181-deadmans-cross.json](./52181-deadmans-cross.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
@@ -4936,7 +4933,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Salamander Skin Set | 338017 | [338017-deadside-salamander-skin-set.json](./338017-deadside-salamander-skin-set.json) |
 | Deadside: Supporter Edition | 340736 | [340736-deadside-supporter-edition.json](./340736-deadside-supporter-edition.json) |
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
-| Deadsiege | 110557 | [110557-deadsiege.json](./110557-deadsiege.json) |
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
 | Deadstar: The Game | 328344 | [328344-deadstar-the-game.json](./328344-deadstar-the-game.json) |
 | Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
@@ -5455,7 +5451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Tractor | 35115 | [35115-death-tractor.json](./35115-death-tractor.json) |
-| Death Trader: Cold War | 109370 | [109370-death-trader-cold-war.json](./109370-death-trader-cold-war.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Trap | 12566 | [12566-death-trap.json](./12566-death-trap.json) |
@@ -6408,7 +6403,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepstrata | 422966 | [422966-deepstrata.json](./422966-deepstrata.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
-| DeepWeb | 109305 | [109305-deepweb.json](./109305-deepweb.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deepworld | 35979 | [35979-deepworld.json](./35979-deepworld.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
@@ -8511,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dinosaurs | 153216 | [153216-desktop-dinosaurs.json](./153216-desktop-dinosaurs.json) |
 | Desktop Dodgeball | 124983 | [124983-desktop-dodgeball.json](./124983-desktop-dodgeball.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
+| Desktop Drill | 423426 | [423426-desktop-drill.json](./423426-desktop-drill.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
 | Desktop Dungeons Goatperson | 124916 | [124916-desktop-dungeons-goatperson.json](./124916-desktop-dungeons-goatperson.json) |
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
@@ -8569,7 +8564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Tower Defense | 387825 | [387825-desktop-tower-defense.json](./387825-desktop-tower-defense.json) |
 | Desktop Tower Survivor | 428365 | [428365-desktop-tower-survivor.json](./428365-desktop-tower-survivor.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
-| Desktop Tree | 108408 | [108408-desktop-tree.json](./108408-desktop-tree.json) |
 | Desktop Trip | 426340 | [426340-desktop-trip.json](./426340-desktop-trip.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
 | Desktop Waifu | 350870 | [350870-desktop-waifu.json](./350870-desktop-waifu.json) |
@@ -10897,7 +10891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Cross | 124315 | [124315-dimension-cross.json](./124315-dimension-cross.json) |
 | Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
-| Dimension Drifter | 107761 | [107761-dimension-drifter.json](./107761-dimension-drifter.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension Drive: Limited Edition | 167045 | [167045-dimension-drive-limited-edition.json](./167045-dimension-drive-limited-edition.json) |
 | Dimension Escape | 330111 | [330111-dimension-escape.json](./330111-dimension-escape.json) |
@@ -10985,7 +10978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Din | 242696 | [242696-din.json](./242696-din.json) |
 | Din's Champion | 316289 | [316289-dins-champion.json](./316289-dins-champion.json) |
 | Din's Curse: Demon War | 8821 | [8821-dins-curse-demon-war.json](./8821-dins-curse-demon-war.json) |
-| Din's Legacy | 107680 | [107680-dins-legacy.json](./107680-dins-legacy.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
 | DinD | 303477 | [303477-dind.json](./303477-dind.json) |
 | Dine 'n Bash | 339522 | [339522-dine-n-bash.json](./339522-dine-n-bash.json) |
@@ -11431,7 +11423,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
 | Dinotopia: The Timestone Pirates | 6378 | [6378-dinotopia-the-timestone-pirates.json](./6378-dinotopia-the-timestone-pirates.json) |
 | Dinotraz | 408232 | [408232-dinotraz.json](./408232-dinotraz.json) |
-| DinoTrek | 107695 | [107695-dinotrek.json](./107695-dinotrek.json) |
 | DinoTribe | 309926 | [309926-dinotribe.json](./309926-dinotribe.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
@@ -14521,7 +14512,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Forget | 296879 | [296879-dont-forget.json](./296879-dont-forget.json) |
 | Don't Forget Me | 134834 | [134834-dont-forget-me.json](./134834-dont-forget-me.json) |
 | Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
-| Don't Forget Our Esports Dream | 110682 | [110682-dont-forget-our-esports-dream.json](./110682-dont-forget-our-esports-dream.json) |
 | Don't Forget the Phone | 398485 | [398485-dont-forget-the-phone.json](./398485-dont-forget-the-phone.json) |
 | Don't Forget to Smile | 335025 | [335025-dont-forget-to-smile.json](./335025-dont-forget-to-smile.json) |
 | Don't Fraud My Heart! | 213306 | [213306-dont-fraud-my-heart.json](./213306-dont-fraud-my-heart.json) |
@@ -16131,7 +16121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Score: Cosmos x Camellia | 62917 | [62917-double-score-cosmos-x-camellia.json](./62917-double-score-cosmos-x-camellia.json) |
 | Double Score: Marguerite x Tulip | 62902 | [62902-double-score-marguerite-x-tulip.json](./62902-double-score-marguerite-x-tulip.json) |
 | Double Sequence: The Q-Virus Invasion | 47884 | [47884-double-sequence-the-q-virus-invasion.json](./47884-double-sequence-the-q-virus-invasion.json) |
-| Double Shot | 107857 | [107857-double-shot.json](./107857-double-shot.json) |
 | Double Shot Gals | 196361 | [196361-double-shot-gals.json](./196361-double-shot-gals.json) |
 | Double Shoulders | 338800 | [338800-double-shoulders.json](./338800-double-shoulders.json) |
 | Double sided: TriJam edition | 184425 | [184425-double-sided-trijam-edition.json](./184425-double-sided-trijam-edition.json) |
@@ -21063,7 +21052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dot Ruby | 235955 | [235955-dungeon-dot-ruby.json](./235955-dungeon-dot-ruby.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
 | Dungeon Drawlers | 398575 | [398575-dungeon-drawlers.json](./398575-dungeon-drawlers.json) |
-| Dungeon Dreams | 108841 | [108841-dungeon-dreams.json](./108841-dungeon-dreams.json) |
 | Dungeon Dreams (Female Protagonist) | 126752 | [126752-dungeon-dreams-female-protagonist.json](./126752-dungeon-dreams-female-protagonist.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
 | Dungeon Dreams 2: Kickstarter Goodies | 428033 | [428033-dungeon-dreams-2-kickstarter-goodies.json](./428033-dungeon-dreams-2-kickstarter-goodies.json) |
@@ -21160,7 +21148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Killer | 400474 | [400474-dungeon-killer.json](./400474-dungeon-killer.json) |
 | Dungeon Killing | 355210 | [355210-dungeon-killing.json](./355210-dungeon-killing.json) |
 | Dungeon King | 236411 | [236411-dungeon-king.json](./236411-dungeon-king.json) |
-| Dungeon Kitty | 107832 | [107832-dungeon-kitty.json](./107832-dungeon-kitty.json) |
 | Dungeon Knight | 218680 | [218680-dungeon-knight.json](./218680-dungeon-knight.json) |
 | Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
 | Dungeon Lad | 189269 | [189269-dungeon-lad.json](./189269-dungeon-lad.json) |
