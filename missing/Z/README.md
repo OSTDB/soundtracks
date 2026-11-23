@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
 | Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
 | Zero Divide: The Final Conflict | 45399 | [45399-zero-divide-the-final-conflict.json](./45399-zero-divide-the-final-conflict.json) |
+| Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
 | Zero End: Chapter One | 264510 | [264510-zero-end-chapter-one.json](./264510-zero-end-chapter-one.json) |
 | Zero Escape | 194163 | [194163-zero-escape.json](./194163-zero-escape.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
@@ -1587,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZodiaX | 259849 | [259849-zodiax.json](./259849-zodiax.json) |
 | Zodicat | 107752 | [107752-zodicat.json](./107752-zodicat.json) |
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
+| Zoe Begone! | 292380 | [292380-zoe-begone.json](./292380-zoe-begone.json) |
 | Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
 | ZOE: Interactive Story | 101157 | [101157-zoe-interactive-story.json](./101157-zoe-interactive-story.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
