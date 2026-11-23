@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eiyu*Senki - The World Conquest | 11573 | [11573-eiyu-senki-the-world-conquest.json](./11573-eiyu-senki-the-world-conquest.json) |
 | Eiyuden Chronicle: Hundred Heroes - Digital Deluxe Edition | 267962 | [267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json](./267962-eiyuden-chronicle-hundred-heroes-digital-deluxe-edition.json) |
 | Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance: Special HQ Statue | 323249 | [323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json](./323249-eiyuden-chronicle-hundred-heroes-hope-of-the-alliance-special-hq-statue.json) |
+| Eiyuden Chronicle: Hundred Heroes - HQ Makeover Pack | 428026 | [428026-eiyuden-chronicle-hundred-heroes-hq-makeover-pack.json](./428026-eiyuden-chronicle-hundred-heroes-hq-makeover-pack.json) |
 | Eiyuden Chronicle: Hundred Heroes - Pioneer Pack | 323251 | [323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json](./323251-eiyuden-chronicle-hundred-heroes-pioneer-pack.json) |
 | Eiyuden Chronicle: Hundred Heroes - Season Pass | 300938 | [300938-eiyuden-chronicle-hundred-heroes-season-pass.json](./300938-eiyuden-chronicle-hundred-heroes-season-pass.json) |
 | Eiyuden Chronicle: Hundred Heroes - The Chapter of Marisa | 332517 | [332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json](./332517-eiyuden-chronicle-hundred-heroes-the-chapter-of-marisa.json) |
@@ -4230,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
 | End Point | 260861 | [260861-end-point.json](./260861-end-point.json) |
 | End Quest | 411415 | [411415-end-quest.json](./411415-end-quest.json) |
+| End Quest | 428038 | [428038-end-quest.json](./428038-end-quest.json) |
 | End Reach | 155859 | [155859-end-reach.json](./155859-end-reach.json) |
 | End Roll | 109085 | [109085-end-roll.json](./109085-end-roll.json) |
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
@@ -8001,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evermore Knights | 235096 | [235096-evermore-knights.json](./235096-evermore-knights.json) |
 | Evernight | 136517 | [136517-evernight.json](./136517-evernight.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
+| Evernight Without Calamityc | 428030 | [428030-evernight-without-calamityc.json](./428030-evernight-without-calamityc.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
 | Everpixel Valley | 149746 | [149746-everpixel-valley.json](./149746-everpixel-valley.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
