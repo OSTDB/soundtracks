@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tag Knight | 196575 | [196575-a-tag-knight.json](./196575-a-tag-knight.json) |
 | A Tale About Flowers | 188501 | [188501-a-tale-about-flowers.json](./188501-a-tale-about-flowers.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
+| A Tale Amidst Memories | 428041 | [428041-a-tale-amidst-memories.json](./428041-a-tale-amidst-memories.json) |
 | A Tale at the Bonfire | 201649 | [201649-a-tale-at-the-bonfire.json](./201649-a-tale-at-the-bonfire.json) |
 | A Tale for Anna | 151043 | [151043-a-tale-for-anna.json](./151043-a-tale-for-anna.json) |
 | A Tale for Anna: Collector's Edition | 382907 | [382907-a-tale-for-anna-collectors-edition.json](./382907-a-tale-for-anna-collectors-edition.json) |
@@ -3764,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamant Heart | 386633 | [386633-adamant-heart.json](./386633-adamant-heart.json) |
+| Adamant of Honor | 428047 | [428047-adamant-of-honor.json](./428047-adamant-of-honor.json) |
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adamgelion | 255298 | [255298-adamgelion.json](./255298-adamgelion.json) |
@@ -12352,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Shop Chaos: Tidy Up! | 429483 | [429483-anime-shop-chaos-tidy-up.json](./429483-anime-shop-chaos-tidy-up.json) |
 | Anime Shop Simulator | 326485 | [326485-anime-shop-simulator.json](./326485-anime-shop-simulator.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
+| Anime Shop Sort Together | 428044 | [428044-anime-shop-sort-together.json](./428044-anime-shop-sort-together.json) |
 | Anime Slayer | 258352 | [258352-anime-slayer.json](./258352-anime-slayer.json) |
 | Anime Slot Revolution: Pachi-Slot Kidou Senshi Gundam II - Ai Senshi-hen | 98138 | [98138-anime-slot-revolution-pachi-slot-kidou-senshi-gundam-ii-ai-senshi-hen.json](./98138-anime-slot-revolution-pachi-slot-kidou-senshi-gundam-ii-ai-senshi-hen.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
@@ -19762,6 +19765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Bird | 428281 | [428281-atlas-bird.json](./428281-atlas-bird.json) |
 | Atlas Brave | 341775 | [341775-atlas-brave.json](./341775-atlas-brave.json) |
+| Atlas Conquest | 428042 | [428042-atlas-conquest.json](./428042-atlas-conquest.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Endgames | 253165 | [253165-atlas-endgames.json](./253165-atlas-endgames.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
@@ -20248,6 +20252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aubirdforce After | 344855 | [344855-aubirdforce-after.json](./344855-aubirdforce-after.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
 | Auction | 275773 | [275773-auction.json](./275773-auction.json) |
+| Audacity | 428052 | [428052-audacity.json](./428052-audacity.json) |
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
