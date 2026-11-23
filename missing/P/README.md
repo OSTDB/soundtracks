@@ -1446,7 +1446,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Panema | 399413 | [399413-panema.json](./399413-panema.json) |
 | Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
-| Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Adventures | 23372 | [23372-pang-adventures.json](./23372-pang-adventures.json) |
 | Pang Adventures: Buster Edition | 139846 | [139846-pang-adventures-buster-edition.json](./139846-pang-adventures-buster-edition.json) |
 | Pang in Time | 416313 | [416313-pang-in-time.json](./416313-pang-in-time.json) |
@@ -1464,7 +1463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pangea Survival | 145737 | [145737-pangea-survival.json](./145737-pangea-survival.json) |
 | Pangea: Return to Planet Earth | 313601 | [313601-pangea-return-to-planet-earth.json](./313601-pangea-return-to-planet-earth.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
-| Pangeon | 113023 | [113023-pangeon.json](./113023-pangeon.json) |
 | Pangit | 368988 | [368988-pangit.json](./368988-pangit.json) |
 | Pangman | 150961 | [150961-pangman.json](./150961-pangman.json) |
 | Pango | 293329 | [293329-pango.json](./293329-pango.json) |
@@ -3723,7 +3721,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pattaya Bar Simulator | 402118 | [402118-pattaya-bar-simulator.json](./402118-pattaya-bar-simulator.json) |
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
 | Patter Warrior | 157822 | [157822-patter-warrior.json](./157822-patter-warrior.json) |
-| Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
 | Pattern Shapes and Colors | 103073 | [103073-pattern-shapes-and-colors.json](./103073-pattern-shapes-and-colors.json) |
 | Pattern Survivors: Bullet Hell | 348970 | [348970-pattern-survivors-bullet-hell.json](./348970-pattern-survivors-bullet-hell.json) |
@@ -11077,7 +11074,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Rebellion | 84052 | [84052-plastic-rebellion.json](./84052-plastic-rebellion.json) |
-| Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
 | Plastic Soul | 239810 | [239810-plastic-soul.json](./239810-plastic-soul.json) |
 | Plastic Spouse Interrogation | 316007 | [316007-plastic-spouse-interrogation.json](./316007-plastic-spouse-interrogation.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
@@ -13824,7 +13820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Getaway | 217051 | [217051-police-getaway.json](./217051-police-getaway.json) |
 | Police Girls | 393765 | [393765-police-girls.json](./393765-police-girls.json) |
 | Police Girls on the Case! | 231433 | [231433-police-girls-on-the-case.json](./231433-police-girls-on-the-case.json) |
-| Police Helicopter Simulator | 111959 | [111959-police-helicopter-simulator.json](./111959-police-helicopter-simulator.json) |
 | Police Heroes | 240666 | [240666-police-heroes.json](./240666-police-heroes.json) |
 | Police Hot Pursuit | 193239 | [193239-police-hot-pursuit.json](./193239-police-hot-pursuit.json) |
 | Police hot Tale | 168594 | [168594-police-hot-tale.json](./168594-police-hot-tale.json) |
@@ -15600,7 +15595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Golf | 42100 | [42100-power-golf.json](./42100-power-golf.json) |
 | Power Grid | 304527 | [304527-power-grid.json](./304527-power-grid.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
-| Power Gunner | 112390 | [112390-power-gunner.json](./112390-power-gunner.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hitter | 46549 | [46549-power-hitter.json](./46549-power-hitter.json) |
@@ -17345,7 +17339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Balance | 178611 | [178611-pro-balance.json](./178611-pro-balance.json) |
 | Pro Basketball Manager 2016: US Edition | 34160 | [34160-pro-basketball-manager-2016-us-edition.json](./34160-pro-basketball-manager-2016-us-edition.json) |
 | Pro Basketball Manager 2017 | 30926 | [30926-pro-basketball-manager-2017.json](./30926-pro-basketball-manager-2017.json) |
-| Pro Basketball Manager 2019 | 111574 | [111574-pro-basketball-manager-2019.json](./111574-pro-basketball-manager-2019.json) |
 | Pro Basketball Manager 2021 | 140694 | [140694-pro-basketball-manager-2021.json](./140694-pro-basketball-manager-2021.json) |
 | Pro Basketball Manager 2022 | 182397 | [182397-pro-basketball-manager-2022.json](./182397-pro-basketball-manager-2022.json) |
 | Pro Basketball Manager 2023 | 220656 | [220656-pro-basketball-manager-2023.json](./220656-pro-basketball-manager-2023.json) |
@@ -17759,7 +17752,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Farmer 2017: Gold Edition | 22160 | [22160-professional-farmer-2017-gold-edition.json](./22160-professional-farmer-2017-gold-edition.json) |
 | Professional Farmer: American Dream | 74522 | [74522-professional-farmer-american-dream.json](./74522-professional-farmer-american-dream.json) |
 | Professional Farmer: Cattle and Crops | 55892 | [55892-professional-farmer-cattle-and-crops.json](./55892-professional-farmer-cattle-and-crops.json) |
-| Professional Farmer: Nintendo Switch Edition | 111759 | [111759-professional-farmer-nintendo-switch-edition.json](./111759-professional-farmer-nintendo-switch-edition.json) |
 | Professional Fisherman's Tour: Big Bass Open | 76170 | [76170-professional-fishermans-tour-big-bass-open.json](./76170-professional-fishermans-tour-big-bass-open.json) |
 | Professional Fisherman's Tour: Northern Hemisphere | 61352 | [61352-professional-fishermans-tour-northern-hemisphere.json](./61352-professional-fishermans-tour-northern-hemisphere.json) |
 | Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
@@ -19094,7 +19086,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
 | Propaganda Inc. | 237225 | [237225-propaganda-inc.json](./237225-propaganda-inc.json) |
-| Propaganda Llama | 111476 | [111476-propaganda-llama.json](./111476-propaganda-llama.json) |
 | Propaganda vs. Zombies | 345374 | [345374-propaganda-vs-zombies.json](./345374-propaganda-vs-zombies.json) |
 | Propaganda vs. Zombies 2 | 391742 | [391742-propaganda-vs-zombies-2.json](./391742-propaganda-vs-zombies-2.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
