@@ -19040,6 +19040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
 | Astrododge | 45382 | [45382-astrododge.json](./45382-astrododge.json) |
+| Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | AstroDrop | 370620 | [370620-astrodrop.json](./370620-astrodrop.json) |
 | AstroDX | 331575 | [331575-astrodx.json](./331575-astrodx.json) |
