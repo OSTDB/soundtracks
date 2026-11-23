@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sáivu | 293889 | [293889-saivu.json](./293889-saivu.json) |
 | Sáivu | 293893 | [293893-saivu.json](./293893-saivu.json) |
 | Saiyan Legends | 96781 | [96781-saiyan-legends.json](./96781-saiyan-legends.json) |
+| Saiyan Online | 428831 | [428831-saiyan-online.json](./428831-saiyan-online.json) |
 | Saiyan Saga | 90363 | [90363-saiyan-saga.json](./90363-saiyan-saga.json) |
 | Saiyan Warriors : Heroes | 105827 | [105827-saiyan-warriors-heroes.json](./105827-saiyan-warriors-heroes.json) |
 | Saiyuki Reload | 68239 | [68239-saiyuki-reload.json](./68239-saiyuki-reload.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayagatari: Promise of the Cursed Blade | 398906 | [398906-sayagatari-promise-of-the-cursed-blade.json](./398906-sayagatari-promise-of-the-cursed-blade.json) |
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
+| Sayaka: My Naughty Milf Neighbor | 428849 | [428849-sayaka-my-naughty-milf-neighbor.json](./428849-sayaka-my-naughty-milf-neighbor.json) |
 | Sayaka's Addiction | 335719 | [335719-sayakas-addiction.json](./335719-sayakas-addiction.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayara's Path | 423633 | [423633-sayaras-path.json](./423633-sayaras-path.json) |
@@ -10294,6 +10296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipwrecked: Lost Colony | 298166 | [298166-shipwrecked-lost-colony.json](./298166-shipwrecked-lost-colony.json) |
 | Shipwrecked: Lost Island | 38878 | [38878-shipwrecked-lost-island.json](./38878-shipwrecked-lost-island.json) |
 | Shipwreckers! | 7664 | [7664-shipwreckers.json](./7664-shipwreckers.json) |
+| Shipwright Shore | 428837 | [428837-shipwright-shore.json](./428837-shipwright-shore.json) |
 | Shipyard of Theseus | 398309 | [398309-shipyard-of-theseus.json](./398309-shipyard-of-theseus.json) |
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shìqù de Huíyì 3: Sìyècǎo zhī Mèng | 121284 | [121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json](./121284-shiqu-de-huiyi-3-siyecao-zhi-meng.json) |
@@ -35145,6 +35148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunes Party | 308005 | [308005-sunes-party.json](./308005-sunes-party.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfall: Children of Adiona | 265632 | [265632-sunfall-children-of-adiona.json](./265632-sunfall-children-of-adiona.json) |
+| Sunfarers | 429286 | [429286-sunfarers.json](./429286-sunfarers.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
 | Sunflower | 120968 | [120968-sunflower.json](./120968-sunflower.json) |
 | Sunflower Chess | 235212 | [235212-sunflower-chess.json](./235212-sunflower-chess.json) |
