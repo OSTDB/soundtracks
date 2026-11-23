@@ -8585,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evostrike | 288800 | [288800-evostrike.json](./288800-evostrike.json) |
 | Evotactics | 265370 | [265370-evotactics.json](./265370-evotactics.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
+| Evotinction | 115848 | [115848-evotinction.json](./115848-evotinction.json) |
 | EvoTown | 136408 | [136408-evotown.json](./136408-evotown.json) |
 | EvoWars: New Era | 244525 | [244525-evowars-new-era.json](./244525-evowars-new-era.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
