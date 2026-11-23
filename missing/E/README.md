@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El | 262203 | [262203-el.json](./262203-el.json) |
 | El 39 | 375462 | [375462-el-39.json](./375462-el-39.json) |
 | El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
+| El Bandito | 427503 | [427503-el-bandito.json](./427503-el-bandito.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
 | El Camino Del Zorro | 314707 | [314707-el-camino-del-zorro.json](./314707-el-camino-del-zorro.json) |
