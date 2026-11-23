@@ -5109,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Monsters | 62951 | [62951-terra-monsters.json](./62951-terra-monsters.json) |
 | Terra Monsters 2: Land of Afer | 98190 | [98190-terra-monsters-2-land-of-afer.json](./98190-terra-monsters-2-land-of-afer.json) |
 | Terra Monsters 3 | 98189 | [98189-terra-monsters-3.json](./98189-terra-monsters-3.json) |
+| Terra Mystica | 37036 | [37036-terra-mystica.json](./37036-terra-mystica.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nil: Heatwave | 360290 | [360290-terra-nil-heatwave.json](./360290-terra-nil-heatwave.json) |
@@ -6394,6 +6395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Emilie in Paris | 380639 | [380639-the-adventures-of-emilie-in-paris.json](./380639-the-adventures-of-emilie-in-paris.json) |
 | The Adventures of Emoji 4: Fly High Mouse | 174942 | [174942-the-adventures-of-emoji-4-fly-high-mouse.json](./174942-the-adventures-of-emoji-4-fly-high-mouse.json) |
 | The Adventures of Emoji 4: Fly High Mouse - Remastered | 297884 | [297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json](./297884-the-adventures-of-emoji-4-fly-high-mouse-remastered.json) |
+| The Adventures of Fatman | 34651 | [34651-the-adventures-of-fatman.json](./34651-the-adventures-of-fatman.json) |
 | The Adventures of Fatman: Intergalactic Indigestion | 170124 | [170124-the-adventures-of-fatman-intergalactic-indigestion.json](./170124-the-adventures-of-fatman-intergalactic-indigestion.json) |
 | The Adventures of Felix Fox: Tale of the Night | 65920 | [65920-the-adventures-of-felix-fox-tale-of-the-night.json](./65920-the-adventures-of-felix-fox-tale-of-the-night.json) |
 | The Adventures of Firulais & Calcetines | 326934 | [326934-the-adventures-of-firulais-and-calcetines.json](./326934-the-adventures-of-firulais-and-calcetines.json) |
@@ -10157,6 +10159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
 | The Elder Scrolls: Castles | 269138 | [269138-the-elder-scrolls-castles.json](./269138-the-elder-scrolls-castles.json) |
 | The Elder Scrolls: Legends - Fall of the Dark Brotherhood | 113954 | [113954-the-elder-scrolls-legends-fall-of-the-dark-brotherhood.json](./113954-the-elder-scrolls-legends-fall-of-the-dark-brotherhood.json) |
+| The Elder Scrolls: Legends - Heroes of Skyrim | 37033 | [37033-the-elder-scrolls-legends-heroes-of-skyrim.json](./37033-the-elder-scrolls-legends-heroes-of-skyrim.json) |
 | The Elder Scrolls: Legends - Houses of Morrowind | 113955 | [113955-the-elder-scrolls-legends-houses-of-morrowind.json](./113955-the-elder-scrolls-legends-houses-of-morrowind.json) |
 | The Elder Scrolls: Legends - Isle of Madness | 113956 | [113956-the-elder-scrolls-legends-isle-of-madness.json](./113956-the-elder-scrolls-legends-isle-of-madness.json) |
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
@@ -10959,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
 | The Final Station: Collector's Edition | 53737 | [53737-the-final-station-collectors-edition.json](./53737-the-final-station-collectors-edition.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
+| The Final Take | 34480 | [34480-the-final-take.json](./34480-the-final-take.json) |
 | The Final Threat | 271061 | [271061-the-final-threat.json](./271061-the-final-threat.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Final Week | 407738 | [407738-the-final-week.json](./407738-the-final-week.json) |
@@ -11455,6 +11459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Harmony | 117976 | [117976-the-game-of-harmony.json](./117976-the-game-of-harmony.json) |
 | The Game of Life | 106271 | [106271-the-game-of-life.json](./106271-the-game-of-life.json) |
 | The Game of Life | 16439 | [16439-the-game-of-life.json](./16439-the-game-of-life.json) |
+| The Game of Life | 34432 | [34432-the-game-of-life.json](./34432-the-game-of-life.json) |
 | The Game of Life | 88882 | [88882-the-game-of-life.json](./88882-the-game-of-life.json) |
 | The Game of Life / Yahtzee / Payday | 137695 | [137695-the-game-of-life-yahtzee-payday.json](./137695-the-game-of-life-yahtzee-payday.json) |
 | The Game of Life 2: Age of Giants World | 171591 | [171591-the-game-of-life-2-age-of-giants-world.json](./171591-the-game-of-life-2-age-of-giants-world.json) |
@@ -23225,6 +23230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Ain’t Even Poker, Ya Joker | 374650 | [374650-this-ain-t-even-poker-ya-joker.json](./374650-this-ain-t-even-poker-ya-joker.json) |
 | This Be Mutiny | 370738 | [370738-this-be-mutiny.json](./370738-this-be-mutiny.json) |
 | This Body Isn't Yours | 364659 | [364659-this-body-isnt-yours.json](./364659-this-body-isnt-yours.json) |
+| This Book Is A Dungeon | 34416 | [34416-this-book-is-a-dungeon.json](./34416-this-book-is-a-dungeon.json) |
 | This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
 | This Call May Be Recorded | 135038 | [135038-this-call-may-be-recorded.json](./135038-this-call-may-be-recorded.json) |
 | This Child of Mine | 89642 | [89642-this-child-of-mine.json](./89642-this-child-of-mine.json) |
@@ -27371,6 +27377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tactics | 335537 | [335537-tiny-tactics.json](./335537-tiny-tactics.json) |
 | Tiny Tactics Go! | 373854 | [373854-tiny-tactics-go.json](./373854-tiny-tactics-go.json) |
 | Tiny Talents | 221487 | [221487-tiny-talents.json](./221487-tiny-talents.json) |
+| Tiny Tales: Heart of the Forest | 36951 | [36951-tiny-tales-heart-of-the-forest.json](./36951-tiny-tales-heart-of-the-forest.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
 | Tiny Talos | 143191 | [143191-tiny-talos.json](./143191-tiny-talos.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
@@ -35807,6 +35814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
 | Tricolour Lovestory S: Heartful Memories | 175672 | [175672-tricolour-lovestory-s-heartful-memories.json](./175672-tricolour-lovestory-s-heartful-memories.json) |
 | Tricolour Lovestory: Chapter Zero | 158764 | [158764-tricolour-lovestory-chapter-zero.json](./158764-tricolour-lovestory-chapter-zero.json) |
+| Tricone Lab | 34686 | [34686-tricone-lab.json](./34686-tricone-lab.json) |
 | Tricula | 371204 | [371204-tricula.json](./371204-tricula.json) |
 | Tricycle Racers | 388146 | [388146-tricycle-racers.json](./388146-tricycle-racers.json) |
 | Tridasha | 274047 | [274047-tridasha.json](./274047-tridasha.json) |
@@ -38487,6 +38495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
 | Twisted Lands 2: Insomniac - Collector's Edition | 177087 | [177087-twisted-lands-2-insomniac-collectors-edition.json](./177087-twisted-lands-2-insomniac-collectors-edition.json) |
 | Twisted Lands Trilogy | 53864 | [53864-twisted-lands-trilogy.json](./53864-twisted-lands-trilogy.json) |
+| Twisted Lands Trilogy: Collector's Edition | 34540 | [34540-twisted-lands-trilogy-collectors-edition.json](./34540-twisted-lands-trilogy-collectors-edition.json) |
 | Twisted Lands: Insomniac | 50229 | [50229-twisted-lands-insomniac.json](./50229-twisted-lands-insomniac.json) |
 | Twisted Lands: Insomniac - Collector's Edition | 53863 | [53863-twisted-lands-insomniac-collectors-edition.json](./53863-twisted-lands-insomniac-collectors-edition.json) |
 | Twisted Lands: Shadow Town | 50230 | [50230-twisted-lands-shadow-town.json](./50230-twisted-lands-shadow-town.json) |
