@@ -5935,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Kazan | 39906 | [39906-ninja-kazan.json](./39906-ninja-kazan.json) |
 | Ninja Ken | 151590 | [151590-ninja-ken.json](./151590-ninja-ken.json) |
 | Ninja Kid | 68360 | [68360-ninja-kid.json](./68360-ninja-kid.json) |
+| Ninja Kid Run VR: Runner & Racing Games For Free | 88145 | [88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json](./88145-ninja-kid-run-vr-runner-and-racing-games-for-free.json) |
 | Ninja Kidz: Time Masters | 244141 | [244141-ninja-kidz-time-masters.json](./244141-ninja-kidz-time-masters.json) |
 | Ninja Kiwi Archive | 137601 | [137601-ninja-kiwi-archive.json](./137601-ninja-kiwi-archive.json) |
 | Ninja Knight | 133897 | [133897-ninja-knight.json](./133897-ninja-knight.json) |
