@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
 | Daily Sudoku Together | 344490 | [344490-daily-sudoku-together.json](./344490-daily-sudoku-together.json) |
+| Daily Themed Crossword Puzzle | 88310 | [88310-daily-themed-crossword-puzzle.json](./88310-daily-themed-crossword-puzzle.json) |
 | Daily Thread: The Sewing of Discontent | 270121 | [270121-daily-thread-the-sewing-of-discontent.json](./270121-daily-thread-the-sewing-of-discontent.json) |
 | Daily Vrai | 413610 | [413610-daily-vrai.json](./413610-daily-vrai.json) |
 | Daily War Online | 415554 | [415554-daily-war-online.json](./415554-daily-war-online.json) |
@@ -1963,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
 | Dark Mysteries: The Soul Keeper | 57249 | [57249-dark-mysteries-the-soul-keeper.json](./57249-dark-mysteries-the-soul-keeper.json) |
+| Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
 | Dark Mystery: Remastered | 233611 | [233611-dark-mystery-remastered.json](./233611-dark-mystery-remastered.json) |
 | Dark Nebula VR | 110506 | [110506-dark-nebula-vr.json](./110506-dark-nebula-vr.json) |
@@ -8654,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: Minion Rush | 39188 | [39188-despicable-me-minion-rush.json](./39188-despicable-me-minion-rush.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
+| Despicable Me: The Game - Minion Mayhem | 80085 | [80085-despicable-me-the-game-minion-mayhem.json](./80085-despicable-me-the-game-minion-mayhem.json) |
 | Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despiry | 423129 | [423129-despiry.json](./423129-despiry.json) |
@@ -11603,6 +11606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Track Racing: Sprint Cars | 71659 | [71659-dirt-track-racing-sprint-cars.json](./71659-dirt-track-racing-sprint-cars.json) |
 | Dirt Trackin | 86870 | [86870-dirt-trackin.json](./86870-dirt-trackin.json) |
 | Dirt Trackin 2 | 147781 | [147781-dirt-trackin-2.json](./147781-dirt-trackin-2.json) |
+| Dirt Trackin Sprint Cars | 88095 | [88095-dirt-trackin-sprint-cars.json](./88095-dirt-trackin-sprint-cars.json) |
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
@@ -12255,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney SpellStruck | 248583 | [248583-disney-spellstruck.json](./248583-disney-spellstruck.json) |
 | Disney Sports Basketball | 243192 | [243192-disney-sports-basketball.json](./243192-disney-sports-basketball.json) |
 | Disney Sports Bowling | 243816 | [243816-disney-sports-bowling.json](./243816-disney-sports-bowling.json) |
+| Disney Sports Football | 78590 | [78590-disney-sports-football.json](./78590-disney-sports-football.json) |
 | Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Sports Skateboarding | 248465 | [248465-disney-sports-skateboarding.json](./248465-disney-sports-skateboarding.json) |
 | Disney Sports Skateboarding | 3881 | [3881-disney-sports-skateboarding.json](./3881-disney-sports-skateboarding.json) |
@@ -13644,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog School: Lovely Puppy | 222179 | [222179-dog-school-lovely-puppy.json](./222179-dog-school-lovely-puppy.json) |
 | Dog Show Friends | 62043 | [62043-dog-show-friends.json](./62043-dog-show-friends.json) |
 | Dog Sim Online: Build A Family | 88031 | [88031-dog-sim-online-build-a-family.json](./88031-dog-sim-online-build-a-family.json) |
+| Dog Simulator 2015 | 88158 | [88158-dog-simulator-2015.json](./88158-dog-simulator-2015.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
 | Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
