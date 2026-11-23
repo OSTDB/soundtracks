@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
 | ZDoom Community Map Project II | 312593 | [312593-zdoom-community-map-project-ii.json](./312593-zdoom-community-map-project-ii.json) |
 | ZDSimulator | 108792 | [108792-zdsimulator.json](./108792-zdsimulator.json) |
+| ZDSimulator: ChS8 Locomotive | 428155 | [428155-zdsimulator-chs8-locomotive.json](./428155-zdsimulator-chs8-locomotive.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Ze Bomber | 388155 | [388155-ze-bomber.json](./388155-ze-bomber.json) |
@@ -2543,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 40 | 246225 | [246225-zone-40.json](./246225-zone-40.json) |
 | Zone 400 | 255338 | [255338-zone-400.json](./255338-zone-400.json) |
 | Zone 404 | 388763 | [388763-zone-404.json](./388763-zone-404.json) |
+| Zone 47 | 428632 | [428632-zone-47.json](./428632-zone-47.json) |
 | Zone 5 | 413396 | [413396-zone-5.json](./413396-zone-5.json) |
 | Zone 6 | 288442 | [288442-zone-6.json](./288442-zone-6.json) |
 | Zone 60 | 246228 | [246228-zone-60.json](./246228-zone-60.json) |
