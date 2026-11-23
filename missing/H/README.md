@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack the System | 236355 | [236355-hack-the-system.json](./236355-hack-the-system.json) |
 | Hack Time | 51450 | [51450-hack-time.json](./51450-hack-time.json) |
 | Hack Watch | 208501 | [208501-hack-watch.json](./208501-hack-watch.json) |
+| Hack You | 426999 | [426999-hack-you.json](./426999-hack-you.json) |
 | Hack_It | 33489 | [33489-hack-it.json](./33489-hack-it.json) |
 | Hack_Me | 31309 | [31309-hack-me.json](./31309-hack-me.json) |
 | Hack_Me 2 | 29287 | [29287-hack-me-2.json](./29287-hack-me-2.json) |
@@ -1320,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamsterz Life | 9248 | [9248-hamsterz-life.json](./9248-hamsterz-life.json) |
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
+| Hamstr Protocol | 427476 | [427476-hamstr-protocol.json](./427476-hamstr-protocol.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamtaro Card e: B016 - Sandy | 355827 | [355827-hamtaro-card-e-b016-sandy.json](./355827-hamtaro-card-e-b016-sandy.json) |
 | Hamtaro Card e: B017 - Stan | 355828 | [355828-hamtaro-card-e-b017-stan.json](./355828-hamtaro-card-e-b017-stan.json) |
@@ -5329,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello Tale | 224103 | [224103-hello-tale.json](./224103-hello-tale.json) |
 | Hello Teacher | 154367 | [154367-hello-teacher.json](./154367-hello-teacher.json) |
+| Hello the Undead Are Coming | 427496 | [427496-hello-the-undead-are-coming.json](./427496-hello-the-undead-are-coming.json) |
 | Hello User! | 337510 | [337510-hello-user.json](./337510-hello-user.json) |
 | Hello Venice | 231315 | [231315-hello-venice.json](./231315-hello-venice.json) |
 | Hello Venice 2: New York Adventure | 294801 | [294801-hello-venice-2-new-york-adventure.json](./294801-hello-venice-2-new-york-adventure.json) |
@@ -10203,6 +10206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold 'Em | 241668 | [241668-hold-em.json](./241668-hold-em.json) |
+| Hold & Advance | 427472 | [427472-hold-and-advance.json](./427472-hold-and-advance.json) |
 | Hold 10 Seconds | 132929 | [132929-hold-10-seconds.json](./132929-hold-10-seconds.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold A to Drift | 182951 | [182951-hold-a-to-drift.json](./182951-hold-a-to-drift.json) |
