@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead But Dreaming | 271337 | [271337-dead-but-dreaming.json](./271337-dead-but-dreaming.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
 | Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
+| Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
 | Dead by Daylight: 10th Anniversary Edition | 428649 | [428649-dead-by-daylight-10th-anniversary-edition.json](./428649-dead-by-daylight-10th-anniversary-edition.json) |
 | Dead by Daylight: 5th Anniversary Edition | 171862 | [171862-dead-by-daylight-5th-anniversary-edition.json](./171862-dead-by-daylight-5th-anniversary-edition.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathblossom | 339494 | [339494-deathblossom.json](./339494-deathblossom.json) |
 | Deathbots | 48138 | [48138-deathbots.json](./48138-deathbots.json) |
 | Deathbounce | 65256 | [65256-deathbounce.json](./65256-deathbounce.json) |
+| Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound | 292043 | [292043-deathbound.json](./292043-deathbound.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathbound: Ultimate Edition | 313211 | [313211-deathbound-ultimate-edition.json](./313211-deathbound-ultimate-edition.json) |
@@ -12205,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Melee Mania | 185802 | [185802-disney-melee-mania.json](./185802-disney-melee-mania.json) |
 | Disney Mickey's Typing Adventure | 35796 | [35796-disney-mickeys-typing-adventure.json](./35796-disney-mickeys-typing-adventure.json) |
 | Disney Miraness Fitness | 366901 | [366901-disney-miraness-fitness.json](./366901-disney-miraness-fitness.json) |
+| Disney Mirrorverse | 137964 | [137964-disney-mirrorverse.json](./137964-disney-mirrorverse.json) |
 | Disney Move | 43499 | [43499-disney-move.json](./43499-disney-move.json) |
 | Disney Music Parade | 142916 | [142916-disney-music-parade.json](./142916-disney-music-parade.json) |
 | Disney Music Parade Encore | 314949 | [314949-disney-music-parade-encore.json](./314949-disney-music-parade-encore.json) |
@@ -18373,6 +18376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadshift | 427797 | [427797-dreadshift.json](./427797-dreadshift.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
 | Dreadsite Survival | 288370 | [288370-dreadsite-survival.json](./288370-dreadsite-survival.json) |
+| DreadStar: The Quest for Revenge | 140014 | [140014-dreadstar-the-quest-for-revenge.json](./140014-dreadstar-the-quest-for-revenge.json) |
 | Dreadstone Keep | 237461 | [237461-dreadstone-keep.json](./237461-dreadstone-keep.json) |
 | Dreadstone: The Immortal Prisoner | 154351 | [154351-dreadstone-the-immortal-prisoner.json](./154351-dreadstone-the-immortal-prisoner.json) |
 | Dreadtides | 131750 | [131750-dreadtides.json](./131750-dreadtides.json) |
@@ -21694,6 +21698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: A Multitude of Maps | 138060 | [138060-dungeons-3-a-multitude-of-maps.json](./138060-dungeons-3-a-multitude-of-maps.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
 | Dungeons 3: Clash of Gods | 124908 | [124908-dungeons-3-clash-of-gods.json](./124908-dungeons-3-clash-of-gods.json) |
+| Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: DLC Bundle | 227416 | [227416-dungeons-3-dlc-bundle.json](./227416-dungeons-3-dlc-bundle.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
 | Dungeons 3: Extremely Evil Edition | 323413 | [323413-dungeons-3-extremely-evil-edition.json](./323413-dungeons-3-extremely-evil-edition.json) |
@@ -22081,6 +22086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustmen | 291282 | [291282-dustmen.json](./291282-dustmen.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
+| Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
