@@ -8052,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Wo Long: Fallen Dynasty - Upheaval in Jingxiang | 280240 | [280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json](./280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json) |
 | Wǒ Shì Yuànzhǎng | 126166 | [126166-wo-shi-yuanzhang.json](./126166-wo-shi-yuanzhang.json) |
+| Wo Yao Da | 76098 | [76098-wo-yao-da.json](./76098-wo-yao-da.json) |
 | Wǒ Yǒu Shàngjiàng | 150244 | [150244-wo-you-shangjiang.json](./150244-wo-you-shangjiang.json) |
 | Woah Dave! | 11342 | [11342-woah-dave.json](./11342-woah-dave.json) |
 | Woah Vicky | 96281 | [96281-woah-vicky.json](./96281-woah-vicky.json) |
@@ -8745,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Cross Farm: Search Games | 100655 | [100655-word-cross-farm-search-games.json](./100655-word-cross-farm-search-games.json) |
 | Word Cross Puzzle | 86974 | [86974-word-cross-puzzle.json](./86974-word-cross-puzzle.json) |
 | Word Cross: Crossword Games | 99855 | [99855-word-cross-crossword-games.json](./99855-word-cross-crossword-games.json) |
+| Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crush | 213689 | [213689-word-crush.json](./213689-word-crush.json) |
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
