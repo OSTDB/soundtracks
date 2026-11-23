@@ -5226,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After All | 35385 | [35385-after-all.json](./35385-after-all.json) |
 | After All Enema Masochist Daughter Miki | 82932 | [82932-after-all-enema-masochist-daughter-miki.json](./82932-after-all-enema-masochist-daughter-miki.json) |
 | After All Is Abraded: A Study on Disappearing Completely | 429094 | [429094-after-all-is-abraded-a-study-on-disappearing-completely.json](./429094-after-all-is-abraded-a-study-on-disappearing-completely.json) |
+| After All, I Never Realised | 428834 | [428834-after-all-i-never-realised.json](./428834-after-all-i-never-realised.json) |
 | After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 198606 | [198606-after-burner.json](./198606-after-burner.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambrosia: Dice Spam Dungeon | 425816 | [425816-ambrosia-dice-spam-dungeon.json](./425816-ambrosia-dice-spam-dungeon.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
 | Ambrosius | 425324 | [425324-ambrosius.json](./425324-ambrosius.json) |
+| Ambulads | 429288 | [429288-ambulads.json](./429288-ambulads.json) |
 | Ambulance | 44372 | [44372-ambulance.json](./44372-ambulance.json) |
 | Ambulance Away | 233474 | [233474-ambulance-away.json](./233474-ambulance-away.json) |
 | Ambulance Chauffeur Simulator | 212904 | [212904-ambulance-chauffeur-simulator.json](./212904-ambulance-chauffeur-simulator.json) |
@@ -11489,6 +11491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels vs. Demons | 174064 | [174064-angels-vs-demons.json](./174064-angels-vs-demons.json) |
 | Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
+| Angels' Playhouse | 429278 | [429278-angels-playhouse.json](./429278-angels-playhouse.json) |
 | AngelShooter | 99466 | [99466-angelshooter.json](./99466-angelshooter.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angelstruck | 264927 | [264927-angelstruck.json](./264927-angelstruck.json) |
