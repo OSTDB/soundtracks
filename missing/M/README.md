@@ -9016,6 +9016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection Vol. 2 | 206845 | [206845-mega-man-battle-network-legacy-collection-vol-2.json](./206845-mega-man-battle-network-legacy-collection-vol-2.json) |
 | Mega Man Battle Network Legacy Collection Vol. 2: Custom Pet Pack Vol. 2 | 254838 | [254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json](./254838-mega-man-battle-network-legacy-collection-vol-2-custom-pet-pack-vol-2.json) |
 | Mega Man Battle Network Mashup | 417326 | [417326-mega-man-battle-network-mashup.json](./417326-mega-man-battle-network-mashup.json) |
+| Mega Man Beyond | 429261 | [429261-mega-man-beyond.json](./429261-mega-man-beyond.json) |
 | Mega Man CD: Rock Version | 323330 | [323330-mega-man-cd-rock-version.json](./323330-mega-man-cd-rock-version.json) |
 | Mega Man Christmas Carol | 210346 | [210346-mega-man-christmas-carol.json](./210346-mega-man-christmas-carol.json) |
 | Mega Man Christmas Carol 2 | 209265 | [209265-mega-man-christmas-carol-2.json](./209265-mega-man-christmas-carol-2.json) |
@@ -9030,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man DXtreme | 399874 | [399874-mega-man-dxtreme.json](./399874-mega-man-dxtreme.json) |
 | Mega Man Eternal | 208479 | [208479-mega-man-eternal.json](./208479-mega-man-eternal.json) |
 | Mega Man Heardle | 203816 | [203816-mega-man-heardle.json](./203816-mega-man-heardle.json) |
+| Mega Man Heaven Fall | 429262 | [429262-mega-man-heaven-fall.json](./429262-mega-man-heaven-fall.json) |
 | Mega Man II | 1734 | [1734-mega-man-ii.json](./1734-mega-man-ii.json) |
 | Mega Man II SNES | 377765 | [377765-mega-man-ii-snes.json](./377765-mega-man-ii-snes.json) |
 | Mega Man III | 1735 | [1735-mega-man-iii.json](./1735-mega-man-iii.json) |
@@ -9149,6 +9151,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X6: Survivor | 403266 | [403266-mega-man-x6-survivor.json](./403266-mega-man-x6-survivor.json) |
 | Mega Man X7 | 1747 | [1747-mega-man-x7.json](./1747-mega-man-x7.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
+| Mega Man X8 16-bit Touch Mod | 429259 | [429259-mega-man-x8-16-bit-touch-mod.json](./429259-mega-man-x8-16-bit-touch-mod.json) |
+| Mega Man X8 16-bit: Vile | 429260 | [429260-mega-man-x8-16-bit-vile.json](./429260-mega-man-x8-16-bit-vile.json) |
 | Mega Man X8 Demake: Axl Mod | 329292 | [329292-mega-man-x8-demake-axl-mod.json](./329292-mega-man-x8-demake-axl-mod.json) |
 | Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Y+1 | 325187 | [325187-mega-man-y-1.json](./325187-mega-man-y-1.json) |
@@ -11635,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Crusher | 258254 | [258254-meteor-crusher.json](./258254-meteor-crusher.json) |
 | Meteor Destroyer | 178963 | [178963-meteor-destroyer.json](./178963-meteor-destroyer.json) |
 | Meteor Down! | 250880 | [250880-meteor-down.json](./250880-meteor-down.json) |
+| Meteor Expedition | 429243 | [429243-meteor-expedition.json](./429243-meteor-expedition.json) |
 | Meteor Genocide | 153994 | [153994-meteor-genocide.json](./153994-meteor-genocide.json) |
 | Meteor Havok | 293585 | [293585-meteor-havok.json](./293585-meteor-havok.json) |
 | Meteor Hunt Idle | 248096 | [248096-meteor-hunt-idle.json](./248096-meteor-hunt-idle.json) |
