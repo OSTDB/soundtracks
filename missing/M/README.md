@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoutsukai Sally: Astrea Palace no Party | 293951 | [293951-mahoutsukai-sally-astrea-palace-no-party.json](./293951-mahoutsukai-sally-astrea-palace-no-party.json) |
 | Mahoutsukai to Goshujin-sama: New Ground | 214802 | [214802-mahoutsukai-to-goshujin-sama-new-ground.json](./214802-mahoutsukai-to-goshujin-sama-new-ground.json) |
 | Mahsung Deluxe | 30738 | [30738-mahsung-deluxe.json](./30738-mahsung-deluxe.json) |
+| Mahtris 108 | 427511 | [427511-mahtris-108.json](./427511-mahtris-108.json) |
 | Mai and the Legendary Treasure | 248081 | [248081-mai-and-the-legendary-treasure.json](./248081-mai-and-the-legendary-treasure.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Mai Mai Funi-funi Papyuun to Iwasecharu! | 414521 | [414521-mai-mai-funi-funi-papyuun-to-iwasecharu.json](./414521-mai-mai-funi-funi-papyuun-to-iwasecharu.json) |
@@ -6686,6 +6687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix World | 272953 | [272953-matrix-world.json](./272953-matrix-world.json) |
 | Matrix: Gridrunner 2 | 78783 | [78783-matrix-gridrunner-2.json](./78783-matrix-gridrunner-2.json) |
 | Matrixed Reality | 218650 | [218650-matrixed-reality.json](./218650-matrixed-reality.json) |
+| Matryball | 426894 | [426894-matryball.json](./426894-matryball.json) |
 | Matryona no Yuube | 150556 | [150556-matryona-no-yuube.json](./150556-matryona-no-yuube.json) |
 | Matryoshka | 326572 | [326572-matryoshka.json](./326572-matryoshka.json) |
 | Matryoshka | 423785 | [423785-matryoshka.json](./423785-matryoshka.json) |
@@ -13969,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Detective Psychology Test | 409539 | [409539-mind-detective-psychology-test.json](./409539-mind-detective-psychology-test.json) |
 | Mind Diver | 236519 | [236519-mind-diver.json](./236519-mind-diver.json) |
 | Mind Donor | 225559 | [225559-mind-donor.json](./225559-mind-donor.json) |
+| Mind Echoes: Broken Vow - Collector's Edition | 426885 | [426885-mind-echoes-broken-vow-collectors-edition.json](./426885-mind-echoes-broken-vow-collectors-edition.json) |
 | Mind Echoes: Remnants of the Past | 416705 | [416705-mind-echoes-remnants-of-the-past.json](./416705-mind-echoes-remnants-of-the-past.json) |
 | Mind Echoes: Remnants of the Past - Collector's Edition | 349977 | [349977-mind-echoes-remnants-of-the-past-collectors-edition.json](./349977-mind-echoes-remnants-of-the-past-collectors-edition.json) |
 | Mind Echoes: The Lost Mysteries - Collector's Edition | 338696 | [338696-mind-echoes-the-lost-mysteries-collectors-edition.json](./338696-mind-echoes-the-lost-mysteries-collectors-edition.json) |
