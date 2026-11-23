@@ -155,7 +155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletop Footsall | 409298 | [409298-tabletop-footsall.json](./409298-tabletop-footsall.json) |
 | Tabletop Gallery | 85419 | [85419-tabletop-gallery.json](./85419-tabletop-gallery.json) |
 | Tabletop Game Shop Simulator | 343187 | [343187-tabletop-game-shop-simulator.json](./343187-tabletop-game-shop-simulator.json) |
-| Tabletop Gods | 111985 | [111985-tabletop-gods.json](./111985-tabletop-gods.json) |
 | Tabletop idle | 101742 | [101742-tabletop-idle.json](./101742-tabletop-idle.json) |
 | Tabletop Inc. | 422087 | [422087-tabletop-inc.json](./422087-tabletop-inc.json) |
 | Tabletop Playground | 118008 | [118008-tabletop-playground.json](./118008-tabletop-playground.json) |
@@ -4954,7 +4953,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Breaker | 411233 | [411233-terminal-breaker.json](./411233-terminal-breaker.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
-| Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
 | Terminal Conflict: Flower Power Upgrade Pack | 155402 | [155402-terminal-conflict-flower-power-upgrade-pack.json](./155402-terminal-conflict-flower-power-upgrade-pack.json) |
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Control 2 | 328122 | [328122-terminal-control-2.json](./328122-terminal-control-2.json) |
@@ -5288,7 +5286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terri-Fried | 135074 | [135074-terri-fried.json](./135074-terri-fried.json) |
 | Terrianis | 269759 | [269759-terrianis.json](./269759-terrianis.json) |
-| Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
 | Terrible Forest Management | 420033 | [420033-terrible-forest-management.json](./420033-terrible-forest-management.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
@@ -10566,7 +10563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Experiment | 321105 | [321105-the-experiment.json](./321105-the-experiment.json) |
 | The Experiment | 367302 | [367302-the-experiment.json](./367302-the-experiment.json) |
 | The Experiment: 49 | 394425 | [394425-the-experiment-49.json](./394425-the-experiment-49.json) |
-| The Experiment: Escape Room | 111875 | [111875-the-experiment-escape-room.json](./111875-the-experiment-escape-room.json) |
 | The Experimental Turnabout | 308421 | [308421-the-experimental-turnabout.json](./308421-the-experimental-turnabout.json) |
 | The Explorator | 211172 | [211172-the-explorator.json](./211172-the-explorator.json) |
 | The Explorer | 132875 | [132875-the-explorer.json](./132875-the-explorer.json) |
@@ -11628,8 +11624,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost of Redstone Manor | 319907 | [319907-the-ghost-of-redstone-manor.json](./319907-the-ghost-of-redstone-manor.json) |
 | The Ghost Of Solaris | 396588 | [396588-the-ghost-of-solaris.json](./396588-the-ghost-of-solaris.json) |
 | The Ghost of Us | 313880 | [313880-the-ghost-of-us.json](./313880-the-ghost-of-us.json) |
-| The Ghost of You | 113236 | [113236-the-ghost-of-you.json](./113236-the-ghost-of-you.json) |
-| The Ghost Ship | 111662 | [111662-the-ghost-ship.json](./111662-the-ghost-ship.json) |
 | The Ghost Ship | 196951 | [196951-the-ghost-ship.json](./196951-the-ghost-ship.json) |
 | The Ghost That Lives Inside My Piano | 326123 | [326123-the-ghost-that-lives-inside-my-piano.json](./326123-the-ghost-that-lives-inside-my-piano.json) |
 | The Ghost Tower | 128170 | [128170-the-ghost-tower.json](./128170-the-ghost-tower.json) |
@@ -16149,7 +16143,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moment of Memory | 369348 | [369348-the-moment-of-memory.json](./369348-the-moment-of-memory.json) |
 | The Moment of Panic | 404165 | [404165-the-moment-of-panic.json](./404165-the-moment-of-panic.json) |
 | The Moment of Silence | 18171 | [18171-the-moment-of-silence.json](./18171-the-moment-of-silence.json) |
-| The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
 | The Moments Before Death | 319254 | [319254-the-moments-before-death.json](./319254-the-moments-before-death.json) |
 | The Momo Game | 110632 | [110632-the-momo-game.json](./110632-the-momo-game.json) |
 | The Monad | 372610 | [372610-the-monad.json](./372610-the-monad.json) |
@@ -18767,7 +18760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of the Forest | 99451 | [99451-the-secrets-of-the-forest.json](./99451-the-secrets-of-the-forest.json) |
 | The Secrets We Burn: Act 1 | 180371 | [180371-the-secrets-we-burn-act-1.json](./180371-the-secrets-we-burn-act-1.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
-| The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
 | The Seed: Unit 7 | 315821 | [315821-the-seed-unit-7.json](./315821-the-seed-unit-7.json) |
@@ -19063,7 +19055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
 | The Sibling Experiment | 103025 | [103025-the-sibling-experiment.json](./103025-the-sibling-experiment.json) |
-| The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
 | The Sickle Family | 367993 | [367993-the-sickle-family.json](./367993-the-sickle-family.json) |
 | The Sickle Upon Sekigahara | 157745 | [157745-the-sickle-upon-sekigahara.json](./157745-the-sickle-upon-sekigahara.json) |
 | The Siege and the Sandfox | 29039 | [29039-the-siege-and-the-sandfox.json](./29039-the-siege-and-the-sandfox.json) |
@@ -20719,7 +20710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Eden | 346153 | [346153-the-tower-of-eden.json](./346153-the-tower-of-eden.json) |
 | The Tower of Egbert | 197982 | [197982-the-tower-of-egbert.json](./197982-the-tower-of-egbert.json) |
 | The Tower of Elements | 35074 | [35074-the-tower-of-elements.json](./35074-the-tower-of-elements.json) |
-| The Tower of Five Hearts | 111402 | [111402-the-tower-of-five-hearts.json](./111402-the-tower-of-five-hearts.json) |
 | The Tower of Luminus | 217494 | [217494-the-tower-of-luminus.json](./217494-the-tower-of-luminus.json) |
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Muuda | 232105 | [232105-the-tower-of-muuda.json](./232105-the-tower-of-muuda.json) |
@@ -26451,7 +26441,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Story | 189272 | [189272-timber-story.json](./189272-timber-story.json) |
 | Timber Tales | 291443 | [291443-timber-tales.json](./291443-timber-tales.json) |
 | Timber Tennis | 36619 | [36619-timber-tennis.json](./36619-timber-tennis.json) |
-| Timber Tennis: Versus | 111463 | [111463-timber-tennis-versus.json](./111463-timber-tennis-versus.json) |
 | Timber Trail | 374638 | [374638-timber-trail.json](./374638-timber-trail.json) |
 | Timber Trails Alpine Puzzle | 358003 | [358003-timber-trails-alpine-puzzle.json](./358003-timber-trails-alpine-puzzle.json) |
 | Timber Trails Alpine Puzzle: Expansion Pack 1 | 358006 | [358006-timber-trails-alpine-puzzle-expansion-pack-1.json](./358006-timber-trails-alpine-puzzle-expansion-pack-1.json) |
@@ -27143,7 +27132,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Biomes: Cozy Idle | 387452 | [387452-tiny-biomes-cozy-idle.json](./387452-tiny-biomes-cozy-idle.json) |
 | Tiny Bird Garden | 101233 | [101233-tiny-bird-garden.json](./101233-tiny-bird-garden.json) |
-| Tiny Bird Garden Deluxe | 112826 | [112826-tiny-bird-garden-deluxe.json](./112826-tiny-bird-garden-deluxe.json) |
 | Tiny Birdtopia | 391537 | [391537-tiny-birdtopia.json](./391537-tiny-birdtopia.json) |
 | Tiny Block: One Block Skyblock | 416378 | [416378-tiny-block-one-block-skyblock.json](./416378-tiny-block-one-block-skyblock.json) |
 | Tiny Blues vs. Mini Reds | 219768 | [219768-tiny-blues-vs-mini-reds.json](./219768-tiny-blues-vs-mini-reds.json) |
@@ -27659,7 +27647,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Siege | 58930 | [58930-titan-siege.json](./58930-titan-siege.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
 | Titan Slayer | 28324 | [28324-titan-slayer.json](./28324-titan-slayer.json) |
-| Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
 | Titan Souls | 9559 | [9559-titan-souls.json](./9559-titan-souls.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
 | Titan Star | 392112 | [392112-titan-star.json](./392112-titan-star.json) |
@@ -27703,7 +27690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Panic | 101459 | [101459-titanic-panic.json](./101459-titanic-panic.json) |
 | Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
-| Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
 | Titanic VR | 76354 | [76354-titanic-vr.json](./76354-titanic-vr.json) |
@@ -28409,7 +28395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Party | 310156 | [310156-toilet-party.json](./310156-toilet-party.json) |
 | Toilet Run | 110488 | [110488-toilet-run.json](./110488-toilet-run.json) |
 | Toilet Rush Draw: Poo and Pee | 231888 | [231888-toilet-rush-draw-poo-and-pee.json](./231888-toilet-rush-draw-poo-and-pee.json) |
-| Toilet Simulator | 111715 | [111715-toilet-simulator.json](./111715-toilet-simulator.json) |
 | Toilet Success | 196354 | [196354-toilet-success.json](./196354-toilet-success.json) |
 | Toilet Time - Mini Games | 88143 | [88143-toilet-time-mini-games.json](./88143-toilet-time-mini-games.json) |
 | Toilet Toss | 343391 | [343391-toilet-toss.json](./343391-toilet-toss.json) |
@@ -29187,7 +29172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | TombaRecomp | 423508 | [423508-tombarecomp.json](./423508-tombarecomp.json) |
 | Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
-| Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombers | 346656 | [346656-tombers.json](./346656-tombers.json) |
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
@@ -30336,7 +30320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer I & II Double Pack | 212570 | [212570-total-war-warhammer-i-and-ii-double-pack.json](./212570-total-war-warhammer-i-and-ii-double-pack.json) |
 | Total War: Warhammer II - Alith Anar | 167623 | [167623-total-war-warhammer-ii-alith-anar.json](./167623-total-war-warhammer-ii-alith-anar.json) |
 | Total War: Warhammer II - Blood for the Blood God II | 81192 | [81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json](./81192-total-war-warhammer-ii-blood-for-the-blood-god-ii.json) |
-| Total War: Warhammer II - Curse of the Vampire Coast | 110863 | [110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json](./110863-total-war-warhammer-ii-curse-of-the-vampire-coast.json) |
 | Total War: Warhammer II - Gor-Rok | 167621 | [167621-total-war-warhammer-ii-gor-rok.json](./167621-total-war-warhammer-ii-gor-rok.json) |
 | Total War: Warhammer II - Imrik | 167620 | [167620-total-war-warhammer-ii-imrik.json](./167620-total-war-warhammer-ii-imrik.json) |
 | Total War: Warhammer II - Limited Edition | 4131 | [4131-total-war-warhammer-ii-limited-edition.json](./4131-total-war-warhammer-ii-limited-edition.json) |
@@ -34696,7 +34679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Dungeons 2 | 299017 | [299017-trap-dungeons-2.json](./299017-trap-dungeons-2.json) |
 | Trap for the Heir | 287724 | [287724-trap-for-the-heir.json](./287724-trap-for-the-heir.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
-| Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
 | Trap Genesis | 164073 | [164073-trap-genesis.json](./164073-trap-genesis.json) |
 | Trap Golf | 379594 | [379594-trap-golf.json](./379594-trap-golf.json) |
 | Trap Gunner: Countdown to Oblivion | 44945 | [44945-trap-gunner-countdown-to-oblivion.json](./44945-trap-gunner-countdown-to-oblivion.json) |
@@ -35992,7 +35974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Trigger: Extra Episode - Zantis | 247261 | [247261-trinity-trigger-extra-episode-zantis.json](./247261-trinity-trigger-extra-episode-zantis.json) |
 | Trinity Trigger: Ultimate Edition | 220904 | [220904-trinity-trigger-ultimate-edition.json](./220904-trinity-trigger-ultimate-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
-| Trinity VR | 111991 | [111991-trinity-vr.json](./111991-trinity-vr.json) |
 | Trinity x Calamity: Midara na Shitsuke to Owaru Sekai | 133245 | [133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json](./133245-trinity-x-calamity-midara-na-shitsuke-to-owaru-sekai.json) |
 | Trinity: Souls of Zill O'll | 7475 | [7475-trinity-souls-of-zill-oll.json](./7475-trinity-souls-of-zill-oll.json) |
 | TrinityS | 193002 | [193002-trinitys.json](./193002-trinitys.json) |
