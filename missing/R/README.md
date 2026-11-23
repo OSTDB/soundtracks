@@ -13340,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
 | Royal Odyssey | 346454 | [346454-royal-odyssey.json](./346454-royal-odyssey.json) |
+| Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
 | Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
 | Royal Princess Makeover | 89148 | [89148-royal-princess-makeover.json](./89148-royal-princess-makeover.json) |
