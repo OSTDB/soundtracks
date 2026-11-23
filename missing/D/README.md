@@ -10217,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Again: Northern Front | 172091 | [172091-die-again-northern-front.json](./172091-die-again-northern-front.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Already | 116481 | [116481-die-already.json](./116481-die-already.json) |
+| Die and Decay | 429232 | [429232-die-and-decay.json](./429232-die-and-decay.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
 | Die Bewerbung | 405484 | [405484-die-bewerbung.json](./405484-die-bewerbung.json) |
 | Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
@@ -11521,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
+| Direlands: Extraction | 428865 | [428865-direlands-extraction.json](./428865-direlands-extraction.json) |
 | Dires: Giger Loop | 47515 | [47515-dires-giger-loop.json](./47515-dires-giger-loop.json) |
 | Direstead Settlers | 385116 | [385116-direstead-settlers.json](./385116-direstead-settlers.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
@@ -14416,6 +14418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
 | Don't Blink | 387803 | [387803-dont-blink.json](./387803-dont-blink.json) |
+| Don't Blush | 429257 | [429257-dont-blush.json](./429257-dont-blush.json) |
 | Don't Boop My Booper | 143843 | [143843-dont-boop-my-booper.json](./143843-dont-boop-my-booper.json) |
 | Don't Bow | 224330 | [224330-dont-bow.json](./224330-dont-bow.json) |
 | Don't Break | 354772 | [354772-dont-break.json](./354772-dont-break.json) |
@@ -14430,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Byte Your Tongue | 239460 | [239460-dont-byte-your-tongue.json](./239460-dont-byte-your-tongue.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Call Me Skyfish | 65132 | [65132-dont-call-me-skyfish.json](./65132-dont-call-me-skyfish.json) |
+| Don't Camp on Bear Island | 429236 | [429236-dont-camp-on-bear-island.json](./429236-dont-camp-on-bear-island.json) |
 | Don't Chat With Strangers | 26739 | [26739-dont-chat-with-strangers.json](./26739-dont-chat-with-strangers.json) |
 | Don't Cheat on Me | 142662 | [142662-dont-cheat-on-me.json](./142662-dont-cheat-on-me.json) |
 | Don't Choke | 180754 | [180754-dont-choke.json](./180754-dont-choke.json) |
@@ -14818,6 +14822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dong-Jin Rice-hime | 90463 | [90463-dong-jin-rice-hime.json](./90463-dong-jin-rice-hime.json) |
 | DongBeiZhiXia | 230782 | [230782-dongbeizhixia.json](./230782-dongbeizhixia.json) |
+| Dongda Gangster | 429258 | [429258-dongda-gangster.json](./429258-dongda-gangster.json) |
 | Dongeng Bayang Kulit | 239266 | [239266-dongeng-bayang-kulit.json](./239266-dongeng-bayang-kulit.json) |
 | Dōngfāng de Chuánshuō zhī Fēngyìn Dǎo | 163214 | [163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json](./163214-dongfang-de-chuanshuo-zhi-fengyin-dao.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
