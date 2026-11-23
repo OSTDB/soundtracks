@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Homebody | 105492 | [105492-legend-of-homebody.json](./105492-legend-of-homebody.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
 | Legend of Inca: Mystical Culture | 274909 | [274909-legend-of-inca-mystical-culture.json](./274909-legend-of-inca-mystical-culture.json) |
+| Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
 | Legend of Iya | 79728 | [79728-legend-of-iya.json](./79728-legend-of-iya.json) |
 | Legend of John: Lingering Blood | 308050 | [308050-legend-of-john-lingering-blood.json](./308050-legend-of-john-lingering-blood.json) |
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leveling Up Girls in Another World | 199709 | [199709-leveling-up-girls-in-another-world.json](./199709-leveling-up-girls-in-another-world.json) |
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
+| Levels+: Addictive Puzzle Game | 51407 | [51407-levels-addictive-puzzle-game.json](./51407-levels-addictive-puzzle-game.json) |
 | Levelup With 100 Cyber Girlfriend | 383921 | [383921-levelup-with-100-cyber-girlfriend.json](./383921-levelup-with-100-cyber-girlfriend.json) |
 | Levenium | 189262 | [189262-levenium.json](./189262-levenium.json) |
 | Lever Simulator: Multiplayer | 291317 | [291317-lever-simulator-multiplayer.json](./291317-lever-simulator-multiplayer.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
 | Lords of Magic: Special Edition | 23151 | [23151-lords-of-magic-special-edition.json](./23151-lords-of-magic-special-edition.json) |
+| Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
 | Lords of Nether | 166949 | [166949-lords-of-nether.json](./166949-lords-of-nether.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
 | Lords of Nysera | 276633 | [276633-lords-of-nysera.json](./276633-lords-of-nysera.json) |
