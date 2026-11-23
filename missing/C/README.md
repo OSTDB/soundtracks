@@ -10277,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
 | Cinderwake | 424950 | [424950-cinderwake.json](./424950-cinderwake.json) |
+| Cinderwake | 429430 | [429430-cinderwake.json](./429430-cinderwake.json) |
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
 | Cindy's Fashion World | 278863 | [278863-cindys-fashion-world.json](./278863-cindys-fashion-world.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
@@ -13867,6 +13868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collisions: Cosmic Geometry | 346925 | [346925-collisions-cosmic-geometry.json](./346925-collisions-cosmic-geometry.json) |
 | Collisus | 149736 | [149736-collisus.json](./149736-collisus.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
+| Collusion | 429428 | [429428-collusion.json](./429428-collusion.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
 | Colo Moon | 309392 | [309392-colo-moon.json](./309392-colo-moon.json) |
@@ -16026,6 +16028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Dezaemon | 391963 | [391963-console-archives-dezaemon.json](./391963-console-archives-dezaemon.json) |
 | Console Archives: Doraemon | 388444 | [388444-console-archives-doraemon.json](./388444-console-archives-doraemon.json) |
+| Console Archives: Elevator Action | 429423 | [429423-console-archives-elevator-action.json](./429423-console-archives-elevator-action.json) |
 | Console Archives: Geki-Oh ShienRyu | 403301 | [403301-console-archives-geki-oh-shienryu.json](./403301-console-archives-geki-oh-shienryu.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Ishin no Arashi | 398773 | [398773-console-archives-ishin-no-arashi.json](./398773-console-archives-ishin-no-arashi.json) |
@@ -21106,6 +21109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Simulator | 121776 | [121776-crowd-simulator.json](./121776-crowd-simulator.json) |
 | Crowd Simulator: Long Way to Go | 170581 | [170581-crowd-simulator-long-way-to-go.json](./170581-crowd-simulator-long-way-to-go.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
+| Crowdcheck.io | 429440 | [429440-crowdcheck-io.json](./429440-crowdcheck-io.json) |
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crowded House | 387430 | [387430-crowded-house.json](./387430-crowded-house.json) |
