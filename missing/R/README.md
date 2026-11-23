@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railways | 144404 | [144404-railways.json](./144404-railways.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
 | Railworks 2: Train Simulator | 5548 | [5548-railworks-2-train-simulator.json](./5548-railworks-2-train-simulator.json) |
+| Railworks 3: Train Simulator 2012 | 51271 | [51271-railworks-3-train-simulator-2012.json](./51271-railworks-3-train-simulator-2012.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Railworks Class 20 Pack DLC | 93812 | [93812-railworks-class-20-pack-dlc.json](./93812-railworks-class-20-pack-dlc.json) |
 | Railworks Class 45 Pack DLC | 93811 | [93811-railworks-class-45-pack-dlc.json](./93811-railworks-class-45-pack-dlc.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboant - Endless Dawn | 95171 | [95171-reboant-endless-dawn.json](./95171-reboant-endless-dawn.json) |
 | Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
+| Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
 | Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 219015 | [219015-reboot.json](./219015-reboot.json) |
