@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Um Dia na Fazenda | 290077 | [290077-um-dia-na-fazenda.json](./290077-um-dia-na-fazenda.json) |
 | Um Jammer Lammy | 6081 | [6081-um-jammer-lammy.json](./6081-um-jammer-lammy.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
+| Um Monstro Enterrado em Garopaba | 428045 | [428045-um-monstro-enterrado-em-garopaba.json](./428045-um-monstro-enterrado-em-garopaba.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
 | Uma Versus | 427375 | [427375-uma-versus.json](./427375-uma-versus.json) |
 | UMA-War VR | 30175 | [30175-uma-war-vr.json](./30175-uma-war-vr.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown | 113776 | [113776-unknown.json](./113776-unknown.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown 9: Awakening - Deluxe Edition | 331832 | [331832-unknown-9-awakening-deluxe-edition.json](./331832-unknown-9-awakening-deluxe-edition.json) |
+| Unknown 9: Awakening - Mercenary Cosmetic Pack | 427608 | [427608-unknown-9-awakening-mercenary-cosmetic-pack.json](./427608-unknown-9-awakening-mercenary-cosmetic-pack.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
 | Unknown Dungeon | 266980 | [266980-unknown-dungeon.json](./266980-unknown-dungeon.json) |
