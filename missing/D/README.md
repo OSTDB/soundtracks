@@ -9593,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoid | 367192 | [367192-devoid.json](./367192-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devoid Prototype | 263892 | [263892-devoid-prototype.json](./263892-devoid-prototype.json) |
+| Devolution Duel | 428823 | [428823-devolution-duel.json](./428823-devolution-duel.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolve Online | 333841 | [333841-devolve-online.json](./333841-devolve-online.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
@@ -11175,6 +11176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
 | Dino Land | 386929 | [386929-dino-land.json](./386929-dino-land.json) |
 | Dino Land | 4430 | [4430-dino-land.json](./4430-dino-land.json) |
+| Dino Last Survival | 428829 | [428829-dino-last-survival.json](./428829-dino-last-survival.json) |
 | Dino Learning Games: Dinosaurs Puzzles for Kids | 90442 | [90442-dino-learning-games-dinosaurs-puzzles-for-kids.json](./90442-dino-learning-games-dinosaurs-puzzles-for-kids.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Madness Pinball | 104336 | [104336-dino-madness-pinball.json](./104336-dino-madness-pinball.json) |
@@ -11185,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Mayhem | 277121 | [277121-dino-mayhem.json](./277121-dino-mayhem.json) |
 | Dino Mercs | 190847 | [190847-dino-mercs.json](./190847-dino-mercs.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
+| Dino Migration | 428853 | [428853-dino-migration.json](./428853-dino-migration.json) |
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
 | Dino Nite | 156231 | [156231-dino-nite.json](./156231-dino-nite.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
@@ -22118,6 +22121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
+| Dustronauts | 428856 | [428856-dustronauts.json](./428856-dustronauts.json) |
 | DustSim | 177173 | [177173-dustsim.json](./177173-dustsim.json) |
 | Dustswap: Dusttrust | 330050 | [330050-dustswap-dusttrust.json](./330050-dustswap-dusttrust.json) |
 | Dusttale | 136912 | [136912-dusttale.json](./136912-dusttale.json) |
