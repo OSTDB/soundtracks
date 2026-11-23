@@ -6851,7 +6851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Sam: Winter Wonderland | 359886 | [359886-serious-sam-winter-wonderland.json](./359886-serious-sam-winter-wonderland.json) |
-| Serious Scramblers | 112077 | [112077-serious-scramblers.json](./112077-serious-scramblers.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
@@ -30516,6 +30515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Titans | 392869 | [392869-steel-titans.json](./392869-steel-titans.json) |
 | Steel Torrent | 369132 | [369132-steel-torrent.json](./369132-steel-torrent.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
+| Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
 | Steel Walker | 146952 | [146952-steel-walker.json](./146952-steel-walker.json) |
 | Steel Warrior | 324272 | [324272-steel-warrior.json](./324272-steel-warrior.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
