@@ -4305,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red | 256661 | [256661-red.json](./256661-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
+| Red & Kiwi: Snow Party | 429313 | [429313-red-and-kiwi-snow-party.json](./429313-red-and-kiwi-snow-party.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red 777 | 271355 | [271355-red-777.json](./271355-red-777.json) |
 | Red Ace Squadron Pro | 63182 | [63182-red-ace-squadron-pro.json](./63182-red-ace-squadron-pro.json) |
