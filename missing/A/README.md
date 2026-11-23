@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Busy Day for Elmo: Sesame Street Video Calls | 89000 | [89000-a-busy-day-for-elmo-sesame-street-video-calls.json](./89000-a-busy-day-for-elmo-sesame-street-video-calls.json) |
 | A Butterfly | 266400 | [266400-a-butterfly.json](./266400-a-butterfly.json) |
 | A Butterfly | 327294 | [327294-a-butterfly.json](./327294-a-butterfly.json) |
+| A Butterfly in the District of Dreams | 28914 | [28914-a-butterfly-in-the-district-of-dreams.json](./28914-a-butterfly-in-the-district-of-dreams.json) |
 | A Butterfly's Dream | 194996 | [194996-a-butterflys-dream.json](./194996-a-butterflys-dream.json) |
 | A Buttload of Free Games | 135226 | [135226-a-buttload-of-free-games.json](./135226-a-buttload-of-free-games.json) |
 | A Byte War | 325370 | [325370-a-byte-war.json](./325370-a-byte-war.json) |
@@ -1585,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
 | A Tale of Titans | 429834 | [429834-a-tale-of-titans.json](./429834-a-tale-of-titans.json) |
 | A Tale of Two Flowers | 380229 | [380229-a-tale-of-two-flowers.json](./380229-a-tale-of-two-flowers.json) |
+| A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
 | A Tale of Wind and Sea | 365385 | [365385-a-tale-of-wind-and-sea.json](./365385-a-tale-of-wind-and-sea.json) |
 | A Tangle of Snakes | 411879 | [411879-a-tangle-of-snakes.json](./411879-a-tangle-of-snakes.json) |
@@ -3474,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Globe | 214243 | [214243-across-the-globe.json](./214243-across-the-globe.json) |
 | Across the Line | 32345 | [32345-across-the-line.json](./32345-across-the-line.json) |
+| Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Amelia, the Queen | 279975 | [279975-across-the-obelisk-amelia-the-queen.json](./279975-across-the-obelisk-amelia-the-queen.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
@@ -5005,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aesthetic | 325102 | [325102-aesthetic.json](./325102-aesthetic.json) |
 | Aesthetic Arena | 93784 | [93784-aesthetic-arena.json](./93784-aesthetic-arena.json) |
 | Aesthetic Clicker | 309906 | [309906-aesthetic-clicker.json](./309906-aesthetic-clicker.json) |
+| Aesthetic Melody | 28894 | [28894-aesthetic-melody.json](./28894-aesthetic-melody.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aesthetic World | 107481 | [107481-aesthetic-world.json](./107481-aesthetic-world.json) |
 | Aestia: The Engineer's Odyssey | 426466 | [426466-aestia-the-engineers-odyssey.json](./426466-aestia-the-engineers-odyssey.json) |
@@ -5132,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Affinity: Fallen from Paradise | 211262 | [211262-affinity-fallen-from-paradise.json](./211262-affinity-fallen-from-paradise.json) |
 | Afflicted | 261188 | [261188-afflicted.json](./261188-afflicted.json) |
 | Affliction | 221921 | [221921-affliction.json](./221921-affliction.json) |
+| Affliction | 28913 | [28913-affliction.json](./28913-affliction.json) |
 | Affordable Healthcare | 297763 | [297763-affordable-healthcare.json](./297763-affordable-healthcare.json) |
 | Affordable Space Adventures | 9673 | [9673-affordable-space-adventures.json](./9673-affordable-space-adventures.json) |
 | AffordaGolf Online | 30138 | [30138-affordagolf-online.json](./30138-affordagolf-online.json) |
@@ -5401,6 +5406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
 | Aftergods | 422252 | [422252-aftergods.json](./422252-aftergods.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
+| Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
 | AfterHours | 191628 | [191628-afterhours.json](./191628-afterhours.json) |
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
@@ -5786,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Pyramids | 226016 | [226016-age-of-pyramids.json](./226016-age-of-pyramids.json) |
 | Age of Reforging: The Freelands | 171364 | [171364-age-of-reforging-the-freelands.json](./171364-age-of-reforging-the-freelands.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
+| Age of Rivals | 29383 | [29383-age-of-rivals.json](./29383-age-of-rivals.json) |
 | Age of Rust | 134283 | [134283-age-of-rust.json](./134283-age-of-rust.json) |
 | Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
@@ -7551,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemist Business Simulation | 389937 | [389937-alchemist-business-simulation.json](./389937-alchemist-business-simulation.json) |
 | Alchemist Chronicles | 405574 | [405574-alchemist-chronicles.json](./405574-alchemist-chronicles.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
+| Alchemist Defender VR | 29319 | [29319-alchemist-defender-vr.json](./29319-alchemist-defender-vr.json) |
 | Alchemist Historical Simulator | 354925 | [354925-alchemist-historical-simulator.json](./354925-alchemist-historical-simulator.json) |
 | Alchemist of Pipiforest | 151092 | [151092-alchemist-of-pipiforest.json](./151092-alchemist-of-pipiforest.json) |
 | Alchemist of War | 187202 | [187202-alchemist-of-war.json](./187202-alchemist-of-war.json) |
@@ -9798,6 +9806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amayui Castle Meister | 124998 | [124998-amayui-castle-meister.json](./124998-amayui-castle-meister.json) |
 | Amayui Labyrinth Meister | 191634 | [191634-amayui-labyrinth-meister.json](./191634-amayui-labyrinth-meister.json) |
 | Amaz'd | 367747 | [367747-amazd.json](./367747-amazd.json) |
+| Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
 | Amaze ABC | 107849 | [107849-amaze-abc.json](./107849-amaze-abc.json) |
@@ -15189,6 +15198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Style Bot Ball Shooting Multiplayer Game | 28462 | [28462-arcade-style-bot-ball-shooting-multiplayer-game.json](./28462-arcade-style-bot-ball-shooting-multiplayer-game.json) |
 | Arcade Sundown | 270738 | [270738-arcade-sundown.json](./270738-arcade-sundown.json) |
+| Arcade Tale | 28902 | [28902-arcade-tale.json](./28902-arcade-tale.json) |
 | Arcade Tanks World II: Tank Battle Simulator | 319786 | [319786-arcade-tanks-world-ii-tank-battle-simulator.json](./319786-arcade-tanks-world-ii-tank-battle-simulator.json) |
 | Arcade Tanks World: Tank Battle Simulator | 312093 | [312093-arcade-tanks-world-tank-battle-simulator.json](./312093-arcade-tanks-world-tank-battle-simulator.json) |
 | Arcade Together | 425830 | [425830-arcade-together.json](./425830-arcade-together.json) |
@@ -20418,6 +20428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Legend | 174927 | [174927-aurora-legend.json](./174927-aurora-legend.json) |
 | Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
+| Aurora Nights | 32720 | [32720-aurora-nights.json](./32720-aurora-nights.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
@@ -21198,6 +21209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avy, Fables of the Night | 269288 | [269288-avy-fables-of-the-night.json](./269288-avy-fables-of-the-night.json) |
 | Aw Heck, War! | 241302 | [241302-aw-heck-war.json](./241302-aw-heck-war.json) |
 | Aw Nutz | 65815 | [65815-aw-nutz.json](./65815-aw-nutz.json) |
+| AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
 | Awagame | 303905 | [303905-awagame.json](./303905-awagame.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
