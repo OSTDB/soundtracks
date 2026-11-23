@@ -15340,6 +15340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot's On! | 411209 | [411209-pots-on.json](./411209-pots-on.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
+| Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
 | Potata: Foxy Tale | 172990 | [172990-potata-foxy-tale.json](./172990-potata-foxy-tale.json) |
 | Potato | 309748 | [309748-potato.json](./309748-potato.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
@@ -15532,6 +15533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power & Revolution 2020 Edition: 2017 Scenarios | 168100 | [168100-power-and-revolution-2020-edition-2017-scenarios.json](./168100-power-and-revolution-2020-edition-2017-scenarios.json) |
 | Power & Revolution 2020 Edition: 2018 Scenarios | 168102 | [168102-power-and-revolution-2020-edition-2018-scenarios.json](./168102-power-and-revolution-2020-edition-2018-scenarios.json) |
 | Power & Revolution 2020 Edition: 2019 Scenarios | 168109 | [168109-power-and-revolution-2020-edition-2019-scenarios.json](./168109-power-and-revolution-2020-edition-2019-scenarios.json) |
+| Power & Revolution: 2019 Edition | 116207 | [116207-power-and-revolution-2019-edition.json](./116207-power-and-revolution-2019-edition.json) |
 | Power & Revolution: 2019 Edition - 2017 Scenarios | 168105 | [168105-power-and-revolution-2019-edition-2017-scenarios.json](./168105-power-and-revolution-2019-edition-2017-scenarios.json) |
 | Power & Revolution: 2019 Edition - 2018 Scenarios | 168103 | [168103-power-and-revolution-2019-edition-2018-scenarios.json](./168103-power-and-revolution-2019-edition-2018-scenarios.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
@@ -20070,6 +20072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
 | Pumpkin Curse | 184671 | [184671-pumpkin-curse.json](./184671-pumpkin-curse.json) |
 | Pumpkin Dash | 314814 | [314814-pumpkin-dash.json](./314814-pumpkin-dash.json) |
+| Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
 | Pumpkin Death Garden | 110936 | [110936-pumpkin-death-garden.json](./110936-pumpkin-death-garden.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
 | Pumpkin Dog Islands | 119664 | [119664-pumpkin-dog-islands.json](./119664-pumpkin-dog-islands.json) |
