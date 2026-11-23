@@ -669,7 +669,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FailFactory | 348515 | [348515-failfactory.json](./348515-failfactory.json) |
 | Failover | 420419 | [420419-failover.json](./420419-failover.json) |
 | FailRooms | 417806 | [417806-failrooms.json](./417806-failrooms.json) |
-| Failspace | 111795 | [111795-failspace.json](./111795-failspace.json) |
 | Failticity Classic | 56348 | [56348-failticity-classic.json](./56348-failticity-classic.json) |
 | Failticity Online | 56368 | [56368-failticity-online.json](./56368-failticity-online.json) |
 | Failticity Plus | 56369 | [56369-failticity-plus.json](./56369-failticity-plus.json) |
@@ -856,7 +855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale | 208745 | [208745-fairy-tale.json](./208745-fairy-tale.json) |
 | Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
-| Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Encore | 417753 | [417753-fairy-tale-encore.json](./417753-fairy-tale-encore.json) |
 | Fairy Tale Ending Encore | 207164 | [207164-fairy-tale-ending-encore.json](./207164-fairy-tale-ending-encore.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
@@ -1882,7 +1880,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mysteries Collection | 164754 | [164754-family-mysteries-collection.json](./164754-family-mysteries-collection.json) |
 | Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
 | Family of Heroes for Kids | 104174 | [104174-family-of-heroes-for-kids.json](./104174-family-of-heroes-for-kids.json) |
-| Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
 | Family Party 90 Great Games | 25194 | [25194-family-party-90-great-games.json](./25194-family-party-90-great-games.json) |
 | Family Party: 30 Great Games | 50964 | [50964-family-party-30-great-games.json](./50964-family-party-30-great-games.json) |
@@ -9395,7 +9392,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float | 245770 | [245770-float.json](./245770-float.json) |
 | Float | 263095 | [263095-float.json](./263095-float.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
-| Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
 | Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
 | Float Your Goat | 378096 | [378096-float-your-goat.json](./378096-float-your-goat.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
@@ -10177,7 +10173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Wizards | 412968 | [412968-flying-wizards.json](./412968-flying-wizards.json) |
 | FlyingChicken | 371894 | [371894-flyingchicken.json](./371894-flyingchicken.json) |
 | FlyingMetalSuit | 111989 | [111989-flyingmetalsuit.json](./111989-flyingmetalsuit.json) |
-| FlyInside Flight Simulator | 112710 | [112710-flyinside-flight-simulator.json](./112710-flyinside-flight-simulator.json) |
 | Flyist | 156746 | [156746-flyist.json](./156746-flyist.json) |
 | FlyKnight | 278211 | [278211-flyknight.json](./278211-flyknight.json) |
 | Flykt | 150418 | [150418-flykt.json](./150418-flykt.json) |
@@ -10505,7 +10500,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From a Stranger | 378211 | [378211-food-from-a-stranger.json](./378211-food-from-a-stranger.json) |
 | Food From the Sky | 96966 | [96966-food-from-the-sky.json](./96966-food-from-the-sky.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
-| Food Girls | 112956 | [112956-food-girls.json](./112956-food-girls.json) |
 | Food Girls - Bubbles' Drink Stand VR | 131823 | [131823-food-girls-bubbles-drink-stand-vr.json](./131823-food-girls-bubbles-drink-stand-vr.json) |
 | Food Girls: Civil War | 127701 | [127701-food-girls-civil-war.json](./127701-food-girls-civil-war.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
@@ -11225,7 +11219,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Fore Score | 158829 | [158829-fore-score.json](./158829-fore-score.json) |
 | Fore! Track | 311436 | [311436-fore-track.json](./311436-fore-track.json) |
-| Forebearers | 112704 | [112704-forebearers.json](./112704-forebearers.json) |
 | Forebearers: Hearth & Home | 123650 | [123650-forebearers-hearth-and-home.json](./123650-forebearers-hearth-and-home.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
 | Forebloomed: Evergreen Edition | 268302 | [268302-forebloomed-evergreen-edition.json](./268302-forebloomed-evergreen-edition.json) |
@@ -11757,7 +11750,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Racer | 253948 | [253948-forklift-racer.json](./253948-forklift-racer.json) |
 | Forklift Simulator | 293134 | [293134-forklift-simulator.json](./293134-forklift-simulator.json) |
 | Forklift Simulator | 326425 | [326425-forklift-simulator.json](./326425-forklift-simulator.json) |
-| Forklift Simulator 2019 | 112048 | [112048-forklift-simulator-2019.json](./112048-forklift-simulator-2019.json) |
 | Forklift Simulator 2023 | 255158 | [255158-forklift-simulator-2023.json](./255158-forklift-simulator-2023.json) |
 | Forklift Simulator 2024 | 283729 | [283729-forklift-simulator-2024.json](./283729-forklift-simulator-2024.json) |
 | Forklift Truck Simulator | 53065 | [53065-forklift-truck-simulator.json](./53065-forklift-truck-simulator.json) |
@@ -14515,7 +14507,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Below Pocket | 268795 | [268795-from-below-pocket.json](./268795-from-below-pocket.json) |
 | From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
 | From Beyond | 384318 | [384318-from-beyond.json](./384318-from-beyond.json) |
-| From Beyond Prologue | 112624 | [112624-from-beyond-prologue.json](./112624-from-beyond-prologue.json) |
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
 | From Darkness | 113319 | [113319-from-darkness.json](./113319-from-darkness.json) |
