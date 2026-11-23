@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Employee: Mika | 418812 | [418812-employee-mika.json](./418812-employee-mika.json) |
 | Empolicy | 290736 | [290736-empolicy.json](./290736-empolicy.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
+| Emporium | 28593 | [28593-emporium.json](./28593-emporium.json) |
 | Empous | 373262 | [373262-empous.json](./373262-empous.json) |
 | Empower | 159478 | [159478-empower.json](./159478-empower.json) |
 | Empower Your Intent | 347188 | [347188-empower-your-intent.json](./347188-empower-your-intent.json) |
@@ -6846,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN NHL Hockey | 8841 | [8841-espn-nhl-hockey.json](./8841-espn-nhl-hockey.json) |
 | ESPN Speed World | 46217 | [46217-espn-speed-world.json](./46217-espn-speed-world.json) |
+| ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
 | ESPN Step Aerobics | 38817 | [38817-espn-step-aerobics.json](./38817-espn-step-aerobics.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPN Winter X Games Snowboarding | 43373 | [43373-espn-winter-x-games-snowboarding.json](./43373-espn-winter-x-games-snowboarding.json) |
