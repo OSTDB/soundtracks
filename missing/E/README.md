@@ -4306,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Alice | 237223 | [237223-endless-alice.json](./237223-endless-alice.json) |
 | Endless Alice Crysis: Ai to Dokuyaku | 204988 | [204988-endless-alice-crysis-ai-to-dokuyaku.json](./204988-endless-alice-crysis-ai-to-dokuyaku.json) |
 | Endless Alice: Nana-iro Mahoutsukai Kiki Ippatsu! | 204986 | [204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json](./204986-endless-alice-nana-iro-mahoutsukai-kiki-ippatsu.json) |
+| Endless Alice: Shibako White Sukumizu | 426846 | [426846-endless-alice-shibako-white-sukumizu.json](./426846-endless-alice-shibako-white-sukumizu.json) |
 | Endless Anime Golf | 245773 | [245773-endless-anime-golf.json](./245773-endless-anime-golf.json) |
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Archery: Chill & Shoot | 175592 | [175592-endless-archery-chill-and-shoot.json](./175592-endless-archery-chill-and-shoot.json) |
