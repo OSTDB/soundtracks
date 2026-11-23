@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
 | Oathborn: The Chronicle of Ruin | 25320 | [25320-oathborn-the-chronicle-of-ruin.json](./25320-oathborn-the-chronicle-of-ruin.json) |
 | Oathborne | 290572 | [290572-oathborne.json](./290572-oathborne.json) |
+| Oathbound | 426268 | [426268-oathbound.json](./426268-oathbound.json) |
 | Oathbound: Arena | 236445 | [236445-oathbound-arena.json](./236445-oathbound-arena.json) |
 | Oathbreaker | 178754 | [178754-oathbreaker.json](./178754-oathbreaker.json) |
 | Oathbreaker: Season 2 | 178745 | [178745-oathbreaker-season-2.json](./178745-oathbreaker-season-2.json) |
@@ -6399,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overdriven Reloaded | 32259 | [32259-overdriven-reloaded.json](./32259-overdriven-reloaded.json) |
 | Overdriven Reloaded: Special Edition | 53438 | [53438-overdriven-reloaded-special-edition.json](./53438-overdriven-reloaded-special-edition.json) |
 | Overdue | 419224 | [419224-overdue.json](./419224-overdue.json) |
+| Overdue | 426297 | [426297-overdue.json](./426297-overdue.json) |
 | Overdungeon - Mr.Almighty (Card Pack) | 208372 | [208372-overdungeon-mr-almighty-card-pack.json](./208372-overdungeon-mr-almighty-card-pack.json) |
 | Overduty VR: Battle Royale | 81943 | [81943-overduty-vr-battle-royale.json](./81943-overduty-vr-battle-royale.json) |
 | Overencumbered In Another World | 333382 | [333382-overencumbered-in-another-world.json](./333382-overencumbered-in-another-world.json) |
