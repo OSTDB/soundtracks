@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Control Director | 232620 | [232620-race-control-director.json](./232620-race-control-director.json) |
 | Race Day | 251331 | [251331-race-day.json](./251331-race-day.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
+| Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
 | Race Driver 2006 | 93991 | [93991-race-driver-2006.json](./93991-race-driver-2006.json) |
 | Race Driver Grid 3D | 333466 | [333466-race-driver-grid-3d.json](./333466-race-driver-grid-3d.json) |
 | Race Driver: Create & Race | 20763 | [20763-race-driver-create-and-race.json](./20763-race-driver-create-and-race.json) |
@@ -1026,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Blasters 2 | 418655 | [418655-raging-blasters-2.json](./418655-raging-blasters-2.json) |
 | Raging Blitz | 269152 | [269152-raging-blitz.json](./269152-raging-blitz.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
+| Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Raging Loop | 26700 | [26700-raging-loop.json](./26700-raging-loop.json) |
