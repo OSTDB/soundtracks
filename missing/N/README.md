@@ -3537,7 +3537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverlander: An Awfully Big Adventure | 337861 | [337861-neverlander-an-awfully-big-adventure.json](./337861-neverlander-an-awfully-big-adventure.json) |
 | Neverlast | 123363 | [123363-neverlast.json](./123363-neverlast.json) |
 | Neverless Academy | 371259 | [371259-neverless-academy.json](./371259-neverless-academy.json) |
-| Neverliria | 106153 | [106153-neverliria.json](./106153-neverliria.json) |
 | Neverlooted Dungeon | 131231 | [131231-neverlooted-dungeon.json](./131231-neverlooted-dungeon.json) |
 | Nevermind | 12452 | [12452-nevermind.json](./12452-nevermind.json) |
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
