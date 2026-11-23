@@ -6600,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematik I | 68561 | [68561-mathematik-i.json](./68561-mathematik-i.json) |
 | Mathematik II | 68563 | [68563-mathematik-ii.json](./68563-mathematik-ii.json) |
 | Mathematiqa - Brain Game | 106977 | [106977-mathematiqa-brain-game.json](./106977-mathematiqa-brain-game.json) |
+| Matheroïde | 426860 | [426860-matheroide.json](./426860-matheroide.json) |
 | Mathews Bowhunting | 51063 | [51063-mathews-bowhunting.json](./51063-mathews-bowhunting.json) |
 | Mathfacts-Additionflashcards | 102647 | [102647-mathfacts-additionflashcards.json](./102647-mathfacts-additionflashcards.json) |
 | Mathfacts-Subractionflashcards | 102648 | [102648-mathfacts-subractionflashcards.json](./102648-mathfacts-subractionflashcards.json) |
@@ -17572,6 +17573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monark | 151159 | [151159-monark.json](./151159-monark.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
+| Monasterium | 426868 | [426868-monasterium.json](./426868-monasterium.json) |
 | Monastery | 211971 | [211971-monastery.json](./211971-monastery.json) |
 | Monastery | 342174 | [342174-monastery.json](./342174-monastery.json) |
 | Monastery 2: Beyond the Darkness | 398814 | [398814-monastery-2-beyond-the-darkness.json](./398814-monastery-2-beyond-the-darkness.json) |
@@ -21923,6 +21925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mu-Cade | 92745 | [92745-mu-cade.json](./92745-mu-cade.json) |
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
+| Muay Mayhem | 426864 | [426864-muay-mayhem.json](./426864-muay-mayhem.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
 | Muay Thai Fighting | 104369 | [104369-muay-thai-fighting.json](./104369-muay-thai-fighting.json) |
 | Mubble | 313393 | [313393-mubble.json](./313393-mubble.json) |
@@ -25213,6 +25216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Masters: Twisted Tales | 206625 | [206625-mystery-masters-twisted-tales.json](./206625-mystery-masters-twisted-tales.json) |
 | Mystery Masters: Wicked Worlds Collection | 201860 | [201860-mystery-masters-wicked-worlds-collection.json](./201860-mystery-masters-wicked-worlds-collection.json) |
 | Mystery Maze of Balthasar Castle | 25389 | [25389-mystery-maze-of-balthasar-castle.json](./25389-mystery-maze-of-balthasar-castle.json) |
+| Mystery Mercs | 426859 | [426859-mystery-mercs.json](./426859-mystery-mercs.json) |
 | Mystery Mine | 30134 | [30134-mystery-mine.json](./30134-mystery-mine.json) |
 | Mystery Miniaturist | 183266 | [183266-mystery-miniaturist.json](./183266-mystery-miniaturist.json) |
 | Mystery Mosaics | 87894 | [87894-mystery-mosaics.json](./87894-mystery-mosaics.json) |
