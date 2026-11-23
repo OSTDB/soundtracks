@@ -3135,7 +3135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellen Whitaker's Horse Life | 92406 | [92406-ellen-whitakers-horse-life.json](./92406-ellen-whitakers-horse-life.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
 | Elleria: Book 1 | 341539 | [341539-elleria-book-1.json](./341539-elleria-book-1.json) |
-| Elleros Openworld | 113245 | [113245-elleros-openworld.json](./113245-elleros-openworld.json) |
 | Elli | 111546 | [111546-elli.json](./111546-elli.json) |
 | Ellia | 300242 | [300242-ellia.json](./300242-ellia.json) |
 | Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
@@ -3215,7 +3214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon | 193572 | [193572-elon.json](./193572-elon.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
-| Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
 | Elon Must: Road to Respect | 230133 | [230133-elon-must-road-to-respect.json](./230133-elon-must-road-to-respect.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon Simulator | 261831 | [261831-elon-simulator.json](./261831-elon-simulator.json) |
@@ -4286,7 +4284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame: Road to Salvation | 150319 | [150319-endgame-road-to-salvation.json](./150319-endgame-road-to-salvation.json) |
 | Endgame: Singularity | 92747 | [92747-endgame-singularity.json](./92747-endgame-singularity.json) |
 | Endgame: Survival | 213651 | [213651-endgame-survival.json](./213651-endgame-survival.json) |
-| Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endheld | 425664 | [425664-endheld.json](./425664-endheld.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
@@ -5746,7 +5743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erogods: Sunrise | 312085 | [312085-erogods-sunrise.json](./312085-erogods-sunrise.json) |
 | EroHPuzzle | 339763 | [339763-erohpuzzle.json](./339763-erohpuzzle.json) |
 | Eroica | 144525 | [144525-eroica.json](./144525-eroica.json) |
-| Erolyn Chan Fight | 113174 | [113174-erolyn-chan-fight.json](./113174-erolyn-chan-fight.json) |
 | Eron | 24576 | [24576-eron.json](./24576-eron.json) |
 | Eronoctosis: Devote Yourself to Another | 205216 | [205216-eronoctosis-devote-yourself-to-another.json](./205216-eronoctosis-devote-yourself-to-another.json) |
 | Eronoctosis: Put Yourself Together | 163899 | [163899-eronoctosis-put-yourself-together.json](./163899-eronoctosis-put-yourself-together.json) |
@@ -6348,7 +6344,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Labyrinth | 109971 | [109971-escape-labyrinth.json](./109971-escape-labyrinth.json) |
 | Escape Lala | 105033 | [105033-escape-lala.json](./105033-escape-lala.json) |
 | Escape Lanky Kong | 355823 | [355823-escape-lanky-kong.json](./355823-escape-lanky-kong.json) |
-| Escape Legacy VR | 113192 | [113192-escape-legacy-vr.json](./113192-escape-legacy-vr.json) |
 | Escape Legacy: Ancient Scrolls | 110733 | [110733-escape-legacy-ancient-scrolls.json](./110733-escape-legacy-ancient-scrolls.json) |
 | Escape Lite | 88579 | [88579-escape-lite.json](./88579-escape-lite.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
@@ -7826,7 +7821,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
 | Event Race: Easter Tracks | 290785 | [290785-event-race-easter-tracks.json](./290785-event-race-easter-tracks.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
-| Event-D | 113016 | [113016-event-d.json](./113016-event-d.json) |
 | Eventide | 252026 | [252026-eventide.json](./252026-eventide.json) |
 | Eventide 2: The Sorcerers Mirror | 31825 | [31825-eventide-2-the-sorcerers-mirror.json](./31825-eventide-2-the-sorcerers-mirror.json) |
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
