@@ -5037,7 +5037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty Extended | 414988 | [414988-liberty-extended.json](./414988-liberty-extended.json) |
 | Liberty Fighters | 155685 | [155685-liberty-fighters.json](./155685-liberty-fighters.json) |
 | Liberty or Death | 45776 | [45776-liberty-or-death.json](./45776-liberty-or-death.json) |
-| Liberty Prime | 109322 | [109322-liberty-prime.json](./109322-liberty-prime.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Liberty VR | 43069 | [43069-liberty-vr.json](./43069-liberty-vr.json) |
 | Liberty Wings | 65038 | [65038-liberty-wings.json](./65038-liberty-wings.json) |
@@ -6084,6 +6083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal | 344277 | [344277-liminal.json](./344277-liminal.json) |
 | Liminal 98 | 407790 | [407790-liminal-98.json](./407790-liminal-98.json) |
 | Liminal Aero | 399213 | [399213-liminal-aero.json](./399213-liminal-aero.json) |
+| Liminal Angel | 423423 | [423423-liminal-angel.json](./423423-liminal-angel.json) |
 | Liminal Border Part I | 265813 | [265813-liminal-border-part-i.json](./265813-liminal-border-part-i.json) |
 | Liminal Border Part II | 285128 | [285128-liminal-border-part-ii.json](./285128-liminal-border-part-ii.json) |
 | Liminal Border Part III | 315044 | [315044-liminal-border-part-iii.json](./315044-liminal-border-part-iii.json) |
@@ -10167,7 +10167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
 | Love Kira | 307273 | [307273-love-kira.json](./307273-love-kira.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
-| Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
 | Love Language Stories | 285355 | [285355-love-language-stories.json](./285355-love-language-stories.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
 | Love Letter | 234799 | [234799-love-letter.json](./234799-love-letter.json) |
@@ -10373,7 +10372,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
-| Love's Sweet Garnish | 109301 | [109301-loves-sweet-garnish.json](./109301-loves-sweet-garnish.json) |
 | Love’s Sweet Garnish 2 | 335495 | [335495-love-s-sweet-garnish-2.json](./335495-love-s-sweet-garnish-2.json) |
 | Love(Battle)Doll | 381914 | [381914-love-battle-doll.json](./381914-love-battle-doll.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
@@ -10411,7 +10409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveKami -Divinity Stage- | 26541 | [26541-lovekami-divinity-stage.json](./26541-lovekami-divinity-stage.json) |
 | LoveKami -Useless Goddess- | 28375 | [28375-lovekami-useless-goddess.json](./28375-lovekami-useless-goddess.json) |
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
-| Lovekami: Healing Harem | 110702 | [110702-lovekami-healing-harem.json](./110702-lovekami-healing-harem.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveland's Leap | 341183 | [341183-lovelands-leap.json](./341183-lovelands-leap.json) |
 | Loveless Biker Boys | 401219 | [401219-loveless-biker-boys.json](./401219-loveless-biker-boys.json) |
