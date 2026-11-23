@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ma vie en rogue | 328978 | [328978-ma-vie-en-rogue.json](./328978-ma-vie-en-rogue.json) |
 | MA-RI-A: Ningyoukan no Noroi | 112053 | [112053-ma-ri-a-ningyoukan-no-noroi.json](./112053-ma-ri-a-ningyoukan-no-noroi.json) |
 | Ma-suru Joshou | 372418 | [372418-ma-suru-joshou.json](./372418-ma-suru-joshou.json) |
+| Ma-suru: Daiisshou | 428676 | [428676-ma-suru-daiisshou.json](./428676-ma-suru-daiisshou.json) |
 | Ma.Yu.Mo.Ri | 351319 | [351319-ma-yu-mo-ri.json](./351319-ma-yu-mo-ri.json) |
 | Ma3 | 252667 | [252667-ma3.json](./252667-ma3.json) |
 | MAAA | 112978 | [112978-maaa.json](./112978-maaa.json) |
@@ -2121,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | Mago: The Villain's Burger | 188698 | [188698-mago-the-villains-burger.json](./188698-mago-the-villains-burger.json) |
 | Mago's Empire | 426747 | [426747-magos-empire.json](./426747-magos-empire.json) |
+| Mago's Nightly Take Out | 428070 | [428070-magos-nightly-take-out.json](./428070-magos-nightly-take-out.json) |
 | Magocracy | 70339 | [70339-magocracy.json](./70339-magocracy.json) |
 | Magocracy: Experimentation | 223342 | [223342-magocracy-experimentation.json](./223342-magocracy-experimentation.json) |
 | Magolor Wii | 314562 | [314562-magolor-wii.json](./314562-magolor-wii.json) |
@@ -17179,6 +17181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moge | 422125 | [422125-moge.json](./422125-moge.json) |
 | Mogeko Castle | 213382 | [213382-mogeko-castle.json](./213382-mogeko-castle.json) |
 | Mogeko Castle | 61296 | [61296-mogeko-castle.json](./61296-mogeko-castle.json) |
+| Mogged: Looksmaxx or Die | 428671 | [428671-mogged-looksmaxx-or-die.json](./428671-mogged-looksmaxx-or-die.json) |
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
 | Mogitate: Bearing Fruit | 400579 | [400579-mogitate-bearing-fruit.json](./400579-mogitate-bearing-fruit.json) |
@@ -17293,6 +17296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mold 2: Origin | 240073 | [240073-mold-2-origin.json](./240073-mold-2-origin.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
+| Moldborne | 428151 | [428151-moldborne.json](./428151-moldborne.json) |
 | Moldbreaker: Rise of the Loaf | 325305 | [325305-moldbreaker-rise-of-the-loaf.json](./325305-moldbreaker-rise-of-the-loaf.json) |
 | Moldling | 378244 | [378244-moldling.json](./378244-moldling.json) |
 | Moldorian GG2SMS | 369516 | [369516-moldorian-gg2sms.json](./369516-moldorian-gg2sms.json) |
@@ -22888,6 +22892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musketeer of the hell | 164281 | [164281-musketeer-of-the-hell.json](./164281-musketeer-of-the-hell.json) |
 | Musketeer: Le Sang des Chevaliers | 222632 | [222632-musketeer-le-sang-des-chevaliers.json](./222632-musketeer-le-sang-des-chevaliers.json) |
 | Muskets of America | 102468 | [102468-muskets-of-america.json](./102468-muskets-of-america.json) |
+| Muskets VR | 428086 | [428086-muskets-vr.json](./428086-muskets-vr.json) |
 | Musle vs Zombies | 179371 | [179371-musle-vs-zombies.json](./179371-musle-vs-zombies.json) |
 | Muslim 3D | 155302 | [155302-muslim-3d.json](./155302-muslim-3d.json) |
 | Muso | 310985 | [310985-muso.json](./310985-muso.json) |
