@@ -429,7 +429,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Hatter's Wonderland: Stitch by Stitch - Collector's Edition | 417507 | [417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json](./417507-mad-hatters-wonderland-stitch-by-stitch-collectors-edition.json) |
 | Mad Head | 311471 | [311471-mad-head.json](./311471-mad-head.json) |
 | Mad Hunter | 30416 | [30416-mad-hunter.json](./30416-mad-hunter.json) |
-| Mad Hunting Simulator VR | 113268 | [113268-mad-hunting-simulator-vr.json](./113268-mad-hunting-simulator-vr.json) |
 | Mad Island | 184247 | [184247-mad-island.json](./184247-mad-island.json) |
 | Mad Island | 296959 | [296959-mad-island.json](./296959-mad-island.json) |
 | Mad Jyacer | 276250 | [276250-mad-jyacer.json](./276250-mad-jyacer.json) |
@@ -5020,7 +5019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marlboro Go! | 40855 | [40855-marlboro-go.json](./40855-marlboro-go.json) |
-| Marle: The Labyrinth of the Black Sea | 112937 | [112937-marle-the-labyrinth-of-the-black-sea.json](./112937-marle-the-labyrinth-of-the-black-sea.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 31116 | [31116-marlene-betwixt.json](./31116-marlene-betwixt.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
@@ -6699,7 +6697,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
 | Mattami Restaurant & Cafe Tycoon | 292421 | [292421-mattami-restaurant-and-cafe-tycoon.json](./292421-mattami-restaurant-and-cafe-tycoon.json) |
 | Mattel Match | 406255 | [406255-mattel-match.json](./406255-mattel-match.json) |
-| Matter | 112900 | [112900-matter.json](./112900-matter.json) |
 | Matter | 299869 | [299869-matter.json](./299869-matter.json) |
 | Matter | 80601 | [80601-matter.json](./80601-matter.json) |
 | Matter of the Dreams | 119467 | [119467-matter-of-the-dreams.json](./119467-matter-of-the-dreams.json) |
@@ -7140,7 +7137,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor! Mayor! | 96792 | [96792-mayor-mayor.json](./96792-mayor-mayor.json) |
 | Mayor's Secretary Escape Game | 373769 | [373769-mayors-secretary-escape-game.json](./373769-mayors-secretary-escape-game.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
-| Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
 | Mayu | 242712 | [242712-mayu.json](./242712-mayu.json) |
 | Mayu no Ori kara Mieru Sora | 407562 | [407562-mayu-no-ori-kara-mieru-sora.json](./407562-mayu-no-ori-kara-mieru-sora.json) |
 | Mayu: Last of the Yaksha | 197128 | [197128-mayu-last-of-the-yaksha.json](./197128-mayu-last-of-the-yaksha.json) |
@@ -8263,7 +8259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Times | 119345 | [119345-medieval-times.json](./119345-medieval-times.json) |
 | Medieval Tower Defense | 172863 | [172863-medieval-tower-defense.json](./172863-medieval-tower-defense.json) |
 | Medieval towers | 235425 | [235425-medieval-towers.json](./235425-medieval-towers.json) |
-| Medieval Towns | 112835 | [112835-medieval-towns.json](./112835-medieval-towns.json) |
 | Medieval Trader Simulator | 186119 | [186119-medieval-trader-simulator.json](./186119-medieval-trader-simulator.json) |
 | Medieval War Simulator RTS | 421030 | [421030-medieval-war-simulator-rts.json](./421030-medieval-war-simulator-rts.json) |
 | Medieval Warlord | 420505 | [420505-medieval-warlord.json](./420505-medieval-warlord.json) |
@@ -15202,7 +15197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Company | 342103 | [342103-mining-company.json](./342103-mining-company.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
-| Mining Empire: Earth Resources | 112868 | [112868-mining-empire-earth-resources.json](./112868-mining-empire-earth-resources.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
 | Mining Heroes: Puzzle RPG | 358026 | [358026-mining-heroes-puzzle-rpg.json](./358026-mining-heroes-puzzle-rpg.json) |
 | Mining Industry | 36239 | [36239-mining-industry.json](./36239-mining-industry.json) |
@@ -15423,7 +15417,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
 | Minotaur | 75354 | [75354-minotaur.json](./75354-minotaur.json) |
 | Minotaur | 75355 | [75355-minotaur.json](./75355-minotaur.json) |
-| Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur China Shop | 69652 | [69652-minotaur-china-shop.json](./69652-minotaur-china-shop.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
@@ -16597,7 +16590,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Sim King | 424777 | [424777-mma-sim-king.json](./424777-mma-sim-king.json) |
 | MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
 | MMA Tactics | 425138 | [425138-mma-tactics.json](./425138-mma-tactics.json) |
-| MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMA: Fighting Clash 22 | 194046 | [194046-mma-fighting-clash-22.json](./194046-mma-fighting-clash-22.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
@@ -17855,7 +17847,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeynauts: Merge Monkeys! | 233533 | [233533-monkeynauts-merge-monkeys.json](./233533-monkeynauts-merge-monkeys.json) |
 | MonkeyRoids | 63474 | [63474-monkeyroids.json](./63474-monkeyroids.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
-| Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
 | Monkeys Ahoy | 105478 | [105478-monkeys-ahoy.json](./105478-monkeys-ahoy.json) |
 | Monkeys Odyssey | 93263 | [93263-monkeys-odyssey.json](./93263-monkeys-odyssey.json) |
@@ -21618,7 +21609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Massagy: Mayo Edition | 225461 | [225461-mr-massagy-mayo-edition.json](./225461-mr-massagy-mayo-edition.json) |
 | Mr. Mat Hematic | 234572 | [234572-mr-mat-hematic.json](./234572-mr-mat-hematic.json) |
 | Mr. Maymunshine’s Christmas Land | 342216 | [342216-mr-maymunshine-s-christmas-land.json](./342216-mr-maymunshine-s-christmas-land.json) |
-| Mr. Maze | 112865 | [112865-mr-maze.json](./112865-mr-maze.json) |
 | Mr. Meat | 346307 | [346307-mr-meat.json](./346307-mr-meat.json) |
 | Mr. Meat 2: Prison Break | 212496 | [212496-mr-meat-2-prison-break.json](./212496-mr-meat-2-prison-break.json) |
 | Mr. Meat: Horror Escape Room | 356633 | [356633-mr-meat-horror-escape-room.json](./356633-mr-meat-horror-escape-room.json) |
@@ -23244,7 +23234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP3: The Official Motocross Videogame - Additional Tracks | 166429 | [166429-mxgp3-the-official-motocross-videogame-additional-tracks.json](./166429-mxgp3-the-official-motocross-videogame-additional-tracks.json) |
 | MXGP3: The Official Motocross Videogame - Monster Energy SMX Riders Cup | 166430 | [166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json](./166430-mxgp3-the-official-motocross-videogame-monster-energy-smx-riders-cup.json) |
 | Mxsimulator | 137035 | [137035-mxsimulator.json](./137035-mxsimulator.json) |
-| My 1/6 Lover | 111404 | [111404-my-1-6-lover.json](./111404-my-1-6-lover.json) |
 | My 11 Heroes | 234508 | [234508-my-11-heroes.json](./234508-my-11-heroes.json) |
 | My 1980's Dashboard | 86245 | [86245-my-1980s-dashboard.json](./86245-my-1980s-dashboard.json) |
 | My 3rd Date with my Cyber Girlfriend | 183401 | [183401-my-3rd-date-with-my-cyber-girlfriend.json](./183401-my-3rd-date-with-my-cyber-girlfriend.json) |
@@ -23427,7 +23416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Club Dino | 138284 | [138284-my-club-dino.json](./138284-my-club-dino.json) |
 | My College Life is Very Happy | 405168 | [405168-my-college-life-is-very-happy.json](./405168-my-college-life-is-very-happy.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
-| My Colony | 111097 | [111097-my-colony.json](./111097-my-colony.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
 | My Coloring Book | 147836 | [147836-my-coloring-book.json](./147836-my-coloring-book.json) |
 | My Coloring Book 2 | 196184 | [196184-my-coloring-book-2.json](./196184-my-coloring-book-2.json) |
