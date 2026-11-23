@@ -4076,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 232638 | [232638-recall.json](./232638-recall.json) |
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
+| Recall Rogue | 428085 | [428085-recall-rogue.json](./428085-recall-rogue.json) |
 | Recall: Empty wishes | 173330 | [173330-recall-empty-wishes.json](./173330-recall-empty-wishes.json) |
 | Recant | 268607 | [268607-recant.json](./268607-recant.json) |
 | ReCaptcha V4 | 241161 | [241161-recaptcha-v4.json](./241161-recaptcha-v4.json) |
@@ -8804,6 +8805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
 | Ring Release | 421970 | [421970-ring-release.json](./421970-ring-release.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
+| Ring Ring Pocket Magick Eggs | 428087 | [428087-ring-ring-pocket-magick-eggs.json](./428087-ring-ring-pocket-magick-eggs.json) |
 | Ring Run Circus | 52705 | [52705-ring-run-circus.json](./52705-ring-run-circus.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
@@ -14336,6 +14338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway Mole | 357131 | [357131-runaway-mole.json](./357131-runaway-mole.json) |
 | Runaway Princess | 370765 | [370765-runaway-princess.json](./370765-runaway-princess.json) |
 | Runaway Robot | 203107 | [203107-runaway-robot.json](./203107-runaway-robot.json) |
+| Runaway Rumble | 428092 | [428092-runaway-rumble.json](./428092-runaway-rumble.json) |
 | Runaway Star | 316522 | [316522-runaway-star.json](./316522-runaway-star.json) |
 | Runaway Toad | 200068 | [200068-runaway-toad.json](./200068-runaway-toad.json) |
 | Runaway Train | 252368 | [252368-runaway-train.json](./252368-runaway-train.json) |
