@@ -9753,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
 | Hiteneiro: Astronomical Few Minute. | 402702 | [402702-hiteneiro-astronomical-few-minute.json](./402702-hiteneiro-astronomical-few-minute.json) |
+| Hitflag | 428852 | [428852-hitflag.json](./428852-hitflag.json) |
 | Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
 | Hitler Hates Anime | 166486 | [166486-hitler-hates-anime.json](./166486-hitler-hates-anime.json) |
 | Hitler is my crash | 268290 | [268290-hitler-is-my-crash.json](./268290-hitler-is-my-crash.json) |
