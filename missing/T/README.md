@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanktics | 11780 | [11780-tanktics.json](./11780-tanktics.json) |
 | Tanktics: Computer game of Armored Combat on the Eastern Front | 71384 | [71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json](./71384-tanktics-computer-game-of-armored-combat-on-the-eastern-front.json) |
 | TankTrouble | 122909 | [122909-tanktrouble.json](./122909-tanktrouble.json) |
+| TankTrouble - Mobile Mayhem | 88514 | [88514-tanktrouble-mobile-mayhem.json](./88514-tanktrouble-mobile-mayhem.json) |
 | TankTrouble Classic | 200540 | [200540-tanktrouble-classic.json](./200540-tanktrouble-classic.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
@@ -11208,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Football T | 209917 | [209917-the-football-t.json](./209917-the-football-t.json) |
 | The Footlong Felon | 397477 | [397477-the-footlong-felon.json](./397477-the-footlong-felon.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
+| The Forbidden Arts | 77814 | [77814-the-forbidden-arts.json](./77814-the-forbidden-arts.json) |
 | The Forbidden Flask | 323429 | [323429-the-forbidden-flask.json](./323429-the-forbidden-flask.json) |
 | The Forbidden Tomes of Olipos | 411648 | [411648-the-forbidden-tomes-of-olipos.json](./411648-the-forbidden-tomes-of-olipos.json) |
 | The Ford Simulator | 69764 | [69764-the-ford-simulator.json](./69764-the-ford-simulator.json) |
@@ -14403,6 +14405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch | 24568 | [24568-the-legend-of-dark-witch.json](./24568-the-legend-of-dark-witch.json) |
 | The Legend of Dark Witch Episode 2 -The Price of Desire- | 80710 | [80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
+| The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Dark Witch Renovation | 126813 | [126813-the-legend-of-dark-witch-renovation.json](./126813-the-legend-of-dark-witch-renovation.json) |
 | The Legend of Dark Witch Renovation: Day Stage | 172090 | [172090-the-legend-of-dark-witch-renovation-day-stage.json](./172090-the-legend-of-dark-witch-renovation-day-stage.json) |
@@ -17577,6 +17580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess Bride: The Official Game | 58854 | [58854-the-princess-bride-the-official-game.json](./58854-the-princess-bride-the-official-game.json) |
 | The Princess Case: A Royal Scoop | 54296 | [54296-the-princess-case-a-royal-scoop.json](./54296-the-princess-case-a-royal-scoop.json) |
 | The Princess Cliche | 281310 | [281310-the-princess-cliche.json](./281310-the-princess-cliche.json) |
+| The Princess Guide | 78111 | [78111-the-princess-guide.json](./78111-the-princess-guide.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess is in Another Castle | 72504 | [72504-the-princess-is-in-another-castle.json](./72504-the-princess-is-in-another-castle.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
