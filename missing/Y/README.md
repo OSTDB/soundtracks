@@ -1603,7 +1603,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
 | Your Debt Is Paid | 422098 | [422098-your-debt-is-paid.json](./422098-your-debt-is-paid.json) |
 | Your Diary | 77683 | [77683-your-diary.json](./77683-your-diary.json) |
-| Your Diary+ | 106640 | [106640-your-diary.json](./106640-your-diary.json) |
 | Your Digital Cookbook | 365738 | [365738-your-digital-cookbook.json](./365738-your-digital-cookbook.json) |
 | Your Doodles Are Bugged! | 50875 | [50875-your-doodles-are-bugged.json](./50875-your-doodles-are-bugged.json) |
 | Your Dry Delight | 108341 | [108341-your-dry-delight.json](./108341-your-dry-delight.json) |
