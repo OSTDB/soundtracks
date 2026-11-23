@@ -12439,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silivri | 376097 | [376097-silivri.json](./376097-silivri.json) |
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
+| Silk 2.0 | 426883 | [426883-silk-2-0.json](./426883-silk-2-0.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Collector: Tidy Up the Clothing Store! | 420751 | [420751-silk-collector-tidy-up-the-clothing-store.json](./420751-silk-collector-tidy-up-the-clothing-store.json) |
 | Silk Home: Echoes of the Forbidden | 427919 | [427919-silk-home-echoes-of-the-forbidden.json](./427919-silk-home-echoes-of-the-forbidden.json) |
@@ -13725,6 +13726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister's Little Helper | 326660 | [326660-sisters-little-helper.json](./326660-sisters-little-helper.json) |
 | SisterFight | 125667 | [125667-sisterfight.json](./125667-sisterfight.json) |
 | Sisterhood | 159752 | [159752-sisterhood.json](./159752-sisterhood.json) |
+| Sisterhood | 426917 | [426917-sisterhood.json](./426917-sisterhood.json) |
 | Sisterly Bliss: Don't Let Mom Find Out | 415277 | [415277-sisterly-bliss-dont-let-mom-find-out.json](./415277-sisterly-bliss-dont-let-mom-find-out.json) |
 | Sisters | 33773 | [33773-sisters.json](./33773-sisters.json) |
 | Sisters Connect | 428610 | [428610-sisters-connect.json](./428610-sisters-connect.json) |
@@ -32508,6 +32510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
 | Stream Skate | 148205 | [148205-stream-skate.json](./148205-stream-skate.json) |
+| Stream Slayers | 426882 | [426882-stream-slayers.json](./426882-stream-slayers.json) |
 | Stream Smash | 160052 | [160052-stream-smash.json](./160052-stream-smash.json) |
 | Stream Spinners | 141311 | [141311-stream-spinners.json](./141311-stream-spinners.json) |
 | Stream Star: Sensations | 334531 | [334531-stream-star-sensations.json](./334531-stream-star-sensations.json) |
