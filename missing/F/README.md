@@ -4274,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeble | 188705 | [188705-feeble.json](./188705-feeble.json) |
 | Feeble Force | 105545 | [105545-feeble-force.json](./105545-feeble-force.json) |
 | Feeble Light | 253636 | [253636-feeble-light.json](./253636-feeble-light.json) |
+| Feeble Origins: Path of a Hero | 115056 | [115056-feeble-origins-path-of-a-hero.json](./115056-feeble-origins-path-of-a-hero.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
@@ -13989,6 +13990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: The Computer Game | 26287 | [26287-friday-the-13th-the-computer-game.json](./26287-friday-the-13th-the-computer-game.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Friday The 13th: The Game - Ultimate Slasher Collector's Edition | 136315 | [136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json](./136315-friday-the-13th-the-game-ultimate-slasher-collectors-edition.json) |
+| Friday the 13th: The Game - Ultimate Slasher Edition | 115835 | [115835-friday-the-13th-the-game-ultimate-slasher-edition.json](./115835-friday-the-13th-the-game-ultimate-slasher-edition.json) |
 | Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Fridge | 384166 | [384166-fridge.json](./384166-fridge.json) |
 | Fridge Escape | 304263 | [304263-fridge-escape.json](./304263-fridge-escape.json) |
