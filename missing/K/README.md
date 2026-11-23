@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickman | 41120 | [41120-kickman.json](./41120-kickman.json) |
 | KickNSlap | 380188 | [380188-kicknslap.json](./380188-kicknslap.json) |
 | Kickochet | 128298 | [128298-kickochet.json](./128298-kickochet.json) |
+| Kickoff | 425065 | [425065-kickoff.json](./425065-kickoff.json) |
 | KickOff | 165841 | [165841-kickoff.json](./165841-kickoff.json) |
 | Kickoff CM | 114627 | [114627-kickoff-cm.json](./114627-kickoff-cm.json) |
 | Kickoff Legends | 28338 | [28338-kickoff-legends.json](./28338-kickoff-legends.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
 | Kingdom: The Far Reaches | 4250 | [4250-kingdom-the-far-reaches.json](./4250-kingdom-the-far-reaches.json) |
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
+| Kingdom.py | 425067 | [425067-kingdom-py.json](./425067-kingdom-py.json) |
 | Kingdom's Architect | 313648 | [313648-kingdoms-architect.json](./313648-kingdoms-architect.json) |
 | Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
 | Kingdom's Destiny: Warlords | 423322 | [423322-kingdoms-destiny-warlords.json](./423322-kingdoms-destiny-warlords.json) |
@@ -4358,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kip!: Space Runner | 101376 | [101376-kip-space-runner.json](./101376-kip-space-runner.json) |
 | Kipi Oppi | 403043 | [403043-kipi-oppi.json](./403043-kipi-oppi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
+| Kipp | 425671 | [425671-kipp.json](./425671-kipp.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 1 - Kipper-Hen | 140933 | [140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json](./140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 2 | 139568 | [139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json](./139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json) |
