@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! World Championship 2008 | 47809 | [47809-yu-gi-oh-world-championship-2008.json](./47809-yu-gi-oh-world-championship-2008.json) |
 | Yu-Gi-Oh! World Championship Tournament 2004 | 6698 | [6698-yu-gi-oh-world-championship-tournament-2004.json](./6698-yu-gi-oh-world-championship-tournament-2004.json) |
 | Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel | 6699 | [6699-yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel.json](./6699-yu-gi-oh-worldwide-edition-stairway-to-the-destined-duel.json) |
+| Yu-Gi-Oh! Yuggidrasil | 428642 | [428642-yu-gi-oh-yuggidrasil.json](./428642-yu-gi-oh-yuggidrasil.json) |
 | Yu-Gi-Oh! Zexal World Duel Carnival | 47665 | [47665-yu-gi-oh-zexal-world-duel-carnival.json](./47665-yu-gi-oh-zexal-world-duel-carnival.json) |
 | Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yu-Nama: The Puzzle | 63364 | [63364-yu-nama-the-puzzle.json](./63364-yu-nama-the-puzzle.json) |
@@ -2308,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunashi no Yume | 330298 | [330298-yunashi-no-yume.json](./330298-yunashi-no-yume.json) |
 | Yúnbǎo Dàmàoxiǎn | 155239 | [155239-yunbao-damaoxian.json](./155239-yunbao-damaoxian.json) |
 | Yúndiān | 129644 | [129644-yundian.json](./129644-yundian.json) |
+| YunDos 6P | 428156 | [428156-yundos-6p.json](./428156-yundos-6p.json) |
 | Yunduan Zhi Yue | 407846 | [407846-yunduan-zhi-yue.json](./407846-yunduan-zhi-yue.json) |
 | Yúnduān zhī Yuē | 164280 | [164280-yunduan-zhi-yue.json](./164280-yunduan-zhi-yue.json) |
 | Yunhanzhi | 366115 | [366115-yunhanzhi.json](./366115-yunhanzhi.json) |
