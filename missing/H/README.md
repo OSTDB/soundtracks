@@ -1937,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hoarder | 147695 | [147695-happy-hoarder.json](./147695-happy-hoarder.json) |
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Holidays: Christmas Miracle | 337270 | [337270-happy-holidays-christmas-miracle.json](./337270-happy-holidays-christmas-miracle.json) |
+| Happy Hollow | 426898 | [426898-happy-hollow.json](./426898-happy-hollow.json) |
 | Happy Homes | 178932 | [178932-happy-homes.json](./178932-happy-homes.json) |
 | Happy Hoop Endless Journey | 339052 | [339052-happy-hoop-endless-journey.json](./339052-happy-hoop-endless-journey.json) |
 | Happy Hop | 413913 | [413913-happy-hop.json](./413913-happy-hop.json) |
@@ -3604,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Sneaks | 301433 | [301433-he-sneaks.json](./301433-he-sneaks.json) |
 | He Stole My Panties, So I Stole His Virginity! | 358585 | [358585-he-stole-my-panties-so-i-stole-his-virginity.json](./358585-he-stole-my-panties-so-i-stole-his-virginity.json) |
 | He Was | 184060 | [184060-he-was.json](./184060-he-was.json) |
+| He Was Here | 427505 | [427505-he-was-here.json](./427505-he-was-here.json) |
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He Who Tied The Bell | 335785 | [335785-he-who-tied-the-bell.json](./335785-he-who-tied-the-bell.json) |
 | He Who Watches | 239828 | [239828-he-who-watches.json](./239828-he-who-watches.json) |
@@ -5435,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
 | Helltrench | 264291 | [264291-helltrench.json](./264291-helltrench.json) |
+| Helltyres | 426893 | [426893-helltyres.json](./426893-helltyres.json) |
 | Helluva Boss Flaming Fashion | 228821 | [228821-helluva-boss-flaming-fashion.json](./228821-helluva-boss-flaming-fashion.json) |
 | Helluva Brawl | 341387 | [341387-helluva-brawl.json](./341387-helluva-brawl.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
@@ -7713,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexed | 86520 | [86520-hexed.json](./86520-hexed.json) |
 | Hexed Pet Adventures | 393596 | [393596-hexed-pet-adventures.json](./393596-hexed-pet-adventures.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
+| Hexel | 426892 | [426892-hexel.json](./426892-hexel.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
@@ -12052,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Vet 3D | 85181 | [85181-horse-vet-3d.json](./85181-horse-vet-3d.json) |
 | Horse World | 106123 | [106123-horse-world.json](./106123-horse-world.json) |
 | Horse-o-Chess | 209796 | [209796-horse-o-chess.json](./209796-horse-o-chess.json) |
+| Horseball Manager | 427507 | [427507-horseball-manager.json](./427507-horseball-manager.json) |
 | HorseGame | 126324 | [126324-horsegame.json](./126324-horsegame.json) |
 | Horseland | 426971 | [426971-horseland.json](./426971-horseland.json) |
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
@@ -12805,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder VR | 217443 | [217443-house-builder-vr.json](./217443-house-builder-vr.json) |
 | House Builder: Deconstruction DLC | 427639 | [427639-house-builder-deconstruction-dlc.json](./427639-house-builder-deconstruction-dlc.json) |
 | House Builder: Egyptian DLC | 372368 | [372368-house-builder-egyptian-dlc.json](./372368-house-builder-egyptian-dlc.json) |
+| House Builder: Electric City Expansion Pack | 426912 | [426912-house-builder-electric-city-expansion-pack.json](./426912-house-builder-electric-city-expansion-pack.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Garden DLC | 427641 | [427641-house-builder-garden-dlc.json](./427641-house-builder-garden-dlc.json) |
 | House Builder: Mechitecture Edition DLC | 427638 | [427638-house-builder-mechitecture-edition-dlc.json](./427638-house-builder-mechitecture-edition-dlc.json) |
