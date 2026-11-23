@@ -937,7 +937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Battle Royale Battlegrounds | 370171 | [370171-war-battle-royale-battlegrounds.json](./370171-war-battle-royale-battlegrounds.json) |
 | War Beasts | 164273 | [164273-war-beasts.json](./164273-war-beasts.json) |
 | War Birds: WW2 Air strike 1942 | 33281 | [33281-war-birds-ww2-air-strike-1942.json](./33281-war-birds-ww2-air-strike-1942.json) |
-| War Blade | 112071 | [112071-war-blade.json](./112071-war-blade.json) |
 | War Brokers | 74845 | [74845-war-brokers.json](./74845-war-brokers.json) |
 | War Builder League | 55993 | [55993-war-builder-league.json](./55993-war-builder-league.json) |
 | War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
@@ -2130,7 +2129,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Factory | 149127 | [149127-warp-factory.json](./149127-warp-factory.json) |
 | Warp Frontier | 149117 | [149117-warp-frontier.json](./149117-warp-frontier.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
-| Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
 | Warp Knights | 391891 | [391891-warp-knights.json](./391891-warp-knights.json) |
 | Warp Lab | 212896 | [212896-warp-lab.json](./212896-warp-lab.json) |
 | Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
@@ -2208,7 +2206,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpThrough | 115936 | [115936-warpthrough.json](./115936-warpthrough.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
-| Warpzone Drifter | 111853 | [111853-warpzone-drifter.json](./111853-warpzone-drifter.json) |
 | Warpzone Drifter 2 | 276583 | [276583-warpzone-drifter-2.json](./276583-warpzone-drifter-2.json) |
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
 | Warr: Global Domination | 97561 | [97561-warr-global-domination.json](./97561-warr-global-domination.json) |
@@ -3875,7 +3872,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Primrose Lake 3 | 337472 | [337472-welcome-to-primrose-lake-3.json](./337472-welcome-to-primrose-lake-3.json) |
 | Welcome to Primrose Lake 4 | 337471 | [337471-welcome-to-primrose-lake-4.json](./337471-welcome-to-primrose-lake-4.json) |
 | Welcome to Primrose Lake 5 | 337473 | [337473-welcome-to-primrose-lake-5.json](./337473-welcome-to-primrose-lake-5.json) |
-| Welcome to Princeland | 111112 | [111112-welcome-to-princeland.json](./111112-welcome-to-princeland.json) |
 | Welcome to Pussy Paradise | 58807 | [58807-welcome-to-pussy-paradise.json](./58807-welcome-to-pussy-paradise.json) |
 | Welcome to QiQu Club | 400226 | [400226-welcome-to-qiqu-club.json](./400226-welcome-to-qiqu-club.json) |
 | Welcome to Quiet Haven | 122728 | [122728-welcome-to-quiet-haven.json](./122728-welcome-to-quiet-haven.json) |
@@ -4222,7 +4218,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wexew Mexem | 253783 | [253783-wexew-mexem.json](./253783-wexew-mexem.json) |
 | Weyrdlets: Fishing & Friends - Summer Update | 347863 | [347863-weyrdlets-fishing-and-friends-summer-update.json](./347863-weyrdlets-fishing-and-friends-summer-update.json) |
 | Weyrdlets: Frosty Festivities | 327123 | [327123-weyrdlets-frosty-festivities.json](./327123-weyrdlets-frosty-festivities.json) |
-| Weyrwood | 112923 | [112923-weyrwood.json](./112923-weyrwood.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
@@ -8274,7 +8269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woman Communication | 236042 | [236042-woman-communication.json](./236042-woman-communication.json) |
 | Woman Guerrillero | 298516 | [298516-woman-guerrillero.json](./298516-woman-guerrillero.json) |
 | Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
-| Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
 | Woman's Body 2 | 292737 | [292737-womans-body-2.json](./292737-womans-body-2.json) |
 | Woman's Body: For Adults | 292734 | [292734-womans-body-for-adults.json](./292734-womans-body-for-adults.json) |
 | Woman's Prison | 151343 | [151343-womans-prison.json](./151343-womans-prison.json) |
@@ -10150,7 +10144,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds at War: Monitors Only | 117095 | [117095-worlds-at-war-monitors-only.json](./117095-worlds-at-war-monitors-only.json) |
 | Worlds Best Freaking Card Game | 65416 | [65416-worlds-best-freaking-card-game.json](./65416-worlds-best-freaking-card-game.json) |
 | Worlds Builder | 189343 | [189343-worlds-builder.json](./189343-worlds-builder.json) |
-| Worlds Collide | 113017 | [113017-worlds-collide.json](./113017-worlds-collide.json) |
 | Worlds Explorers | 398332 | [398332-worlds-explorers.json](./398332-worlds-explorers.json) |
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
