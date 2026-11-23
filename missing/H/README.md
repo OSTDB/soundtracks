@@ -10870,6 +10870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
+| Home:Ward | 429233 | [429233-home-ward.json](./429233-home-ward.json) |
 | Home's Embrace | 177403 | [177403-homes-embrace.json](./177403-homes-embrace.json) |
 | Homebase | 69720 | [69720-homebase.json](./69720-homebase.json) |
 | Homebody | 202698 | [202698-homebody.json](./202698-homebody.json) |
@@ -13089,6 +13090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
 | Hovership Havoc | 104179 | [104179-hovership-havoc.json](./104179-hovership-havoc.json) |
+| Hoverslam | 429234 | [429234-hoverslam.json](./429234-hoverslam.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | Hoversteppers: Zone 1 | 287246 | [287246-hoversteppers-zone-1.json](./287246-hoversteppers-zone-1.json) |
 | Hoversurf in the Mess | 187696 | [187696-hoversurf-in-the-mess.json](./187696-hoversurf-in-the-mess.json) |
