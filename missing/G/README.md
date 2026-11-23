@@ -11655,6 +11655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gryphon | 26260 | [26260-gryphon.json](./26260-gryphon.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
+| Gryphon Rider | 426301 | [426301-gryphon-rider.json](./426301-gryphon-rider.json) |
 | Gryzor | 262139 | [262139-gryzor.json](./262139-gryzor.json) |
 | Gryzor | 39058 | [39058-gryzor.json](./39058-gryzor.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
