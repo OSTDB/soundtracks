@@ -10743,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Deco Puzzles | 212996 | [212996-home-deco-puzzles.json](./212996-home-deco-puzzles.json) |
 | Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
+| Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
 | Home Design 3D VR | 276644 | [276644-home-design-3d-vr.json](./276644-home-design-3d-vr.json) |
 | Home Design Makeover | 245203 | [245203-home-design-makeover.json](./245203-home-design-makeover.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
@@ -12697,6 +12698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hothead Games | 110020 | [110020-hothead-games.json](./110020-hothead-games.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | Hotlap Heroes | 115876 | [115876-hotlap-heroes.json](./115876-hotlap-heroes.json) |
+| HotLead | 34241 | [34241-hotlead.json](./34241-hotlead.json) |
 | Hotline Miami 2: Wrong Number - Digital Special Edition | 124881 | [124881-hotline-miami-2-wrong-number-digital-special-edition.json](./124881-hotline-miami-2-wrong-number-digital-special-edition.json) |
 | Hotline Miami Collection | 99733 | [99733-hotline-miami-collection.json](./99733-hotline-miami-collection.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
@@ -12907,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Golf | 125252 | [125252-house-of-golf.json](./125252-house-of-golf.json) |
 | House of Golf 2 | 303573 | [303573-house-of-golf-2.json](./303573-house-of-golf-2.json) |
 | House of Heists | 398406 | [398406-house-of-heists.json](./398406-house-of-heists.json) |
+| House of Hell | 34049 | [34049-house-of-hell.json](./34049-house-of-hell.json) |
 | House of Horror: 7 Psychos | 320468 | [320468-house-of-horror-7-psychos.json](./320468-house-of-horror-7-psychos.json) |
 | House of Horror: Outside is Better | 326223 | [326223-house-of-horror-outside-is-better.json](./326223-house-of-horror-outside-is-better.json) |
 | House of Horrors | 296415 | [296415-house-of-horrors.json](./296415-house-of-horrors.json) |
@@ -14498,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bit Chasm | 118646 | [118646-hyper-bit-chasm.json](./118646-hyper-bit-chasm.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Blob | 54779 | [54779-hyper-blob.json](./54779-hyper-blob.json) |
+| Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
 | Hyper Box | 33599 | [33599-hyper-box.json](./33599-hyper-box.json) |
 | Hyper Bullet | 172881 | [172881-hyper-bullet.json](./172881-hyper-bullet.json) |
 | Hyper Bullet | 402564 | [402564-hyper-bullet.json](./402564-hyper-bullet.json) |
