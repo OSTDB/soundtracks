@@ -11941,6 +11941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gaias | 95196 | [95196-the-great-gaias.json](./95196-the-great-gaias.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
+| The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
 | The Great Geometric Multiverse Tour | 105337 | [105337-the-great-geometric-multiverse-tour.json](./105337-the-great-geometric-multiverse-tour.json) |
 | The Great Ghoul Duel | 140061 | [140061-the-great-ghoul-duel.json](./140061-the-great-ghoul-duel.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
@@ -26906,6 +26907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeman Two | 395824 | [395824-timeman-two.json](./395824-timeman-two.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timemoon | 330892 | [330892-timemoon.json](./330892-timemoon.json) |
+| Timen runner | 28689 | [28689-timen-runner.json](./28689-timen-runner.json) |
 | TimeNot | 365265 | [365265-timenot.json](./365265-timenot.json) |
 | Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | TimeO | 92728 | [92728-timeo.json](./92728-timeo.json) |
@@ -27686,6 +27688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
 | Titanfall Frontline | 400292 | [400292-titanfall-frontline.json](./400292-titanfall-frontline.json) |
 | Titanfall Legends | 234393 | [234393-titanfall-legends.json](./234393-titanfall-legends.json) |
+| Titanfall: Assault | 28443 | [28443-titanfall-assault.json](./28443-titanfall-assault.json) |
 | Titanfall: Deluxe Edition | 83876 | [83876-titanfall-deluxe-edition.json](./83876-titanfall-deluxe-edition.json) |
 | Titanfall: Expedition | 21647 | [21647-titanfall-expedition.json](./21647-titanfall-expedition.json) |
 | Titanfall: Frontier's Edge | 21649 | [21649-titanfall-frontiers-edge.json](./21649-titanfall-frontiers-edge.json) |
@@ -29012,6 +29015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Flip | 292356 | [292356-tomato-flip.json](./292356-tomato-flip.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
+| Tomato Jones 2 | 28648 | [28648-tomato-jones-2.json](./28648-tomato-jones-2.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
 | Tomato Way | 30184 | [30184-tomato-way.json](./30184-tomato-way.json) |
 | Tomato Way 2 | 104831 | [104831-tomato-way-2.json](./104831-tomato-way-2.json) |
@@ -36577,6 +36581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
 | Trouble In Space | 237148 | [237148-trouble-in-space.json](./237148-trouble-in-space.json) |
 | Trouble In Terrorist Town Portable | 130493 | [130493-trouble-in-terrorist-town-portable.json](./130493-trouble-in-terrorist-town-portable.json) |
+| Trouble in the Manor | 28577 | [28577-trouble-in-the-manor.json](./28577-trouble-in-the-manor.json) |
 | Trouble in Tornado Town | 226584 | [226584-trouble-in-tornado-town.json](./226584-trouble-in-tornado-town.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
