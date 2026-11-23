@@ -17369,6 +17369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2014 | 8251 | [8251-pro-cycling-manager-2014.json](./8251-pro-cycling-manager-2014.json) |
 | Pro Cycling Manager 2015 | 17837 | [17837-pro-cycling-manager-2015.json](./17837-pro-cycling-manager-2015.json) |
 | Pro Cycling Manager 2016 | 19787 | [19787-pro-cycling-manager-2016.json](./19787-pro-cycling-manager-2016.json) |
+| Pro Cycling Manager 2017 | 37385 | [37385-pro-cycling-manager-2017.json](./37385-pro-cycling-manager-2017.json) |
 | Pro Cycling Manager 2018 | 103062 | [103062-pro-cycling-manager-2018.json](./103062-pro-cycling-manager-2018.json) |
 | Pro Cycling Manager 2020 | 132335 | [132335-pro-cycling-manager-2020.json](./132335-pro-cycling-manager-2020.json) |
 | Pro Cycling Manager 2021 | 145325 | [145325-pro-cycling-manager-2021.json](./145325-pro-cycling-manager-2021.json) |
