@@ -16049,6 +16049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argol: Kronoss' Castle | 229807 | [229807-argol-kronoss-castle.json](./229807-argol-kronoss-castle.json) |
 | Argolis | 140940 | [140940-argolis.json](./140940-argolis.json) |
 | Argon Swamp | 137308 | [137308-argon-swamp.json](./137308-argon-swamp.json) |
+| Argonaut Agency: The Bronze Plague | 429253 | [429253-argonaut-agency-the-bronze-plague.json](./429253-argonaut-agency-the-bronze-plague.json) |
 | Argonauts Agency: Ares Games | 360665 | [360665-argonauts-agency-ares-games.json](./360665-argonauts-agency-ares-games.json) |
 | Argonauts Agency: Ares Games - Collector's Edition | 338664 | [338664-argonauts-agency-ares-games-collectors-edition.json](./338664-argonauts-agency-ares-games-collectors-edition.json) |
 | Argonauts Agency: Captive of Circe | 190871 | [190871-argonauts-agency-captive-of-circe.json](./190871-argonauts-agency-captive-of-circe.json) |
