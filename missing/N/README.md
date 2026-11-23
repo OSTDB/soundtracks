@@ -4137,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Turn for D&D 5E | 89769 | [89769-next-turn-for-d-and-d-5e.json](./89769-next-turn-for-d-and-d-5e.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Next Week at Freddy's | 338987 | [338987-next-week-at-freddys.json](./338987-next-week-at-freddys.json) |
+| Next, Million Worlds | 427486 | [427486-next-million-worlds.json](./427486-next-million-worlds.json) |
 | Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
 | Next: The Portopia Serial Murder Case | 417188 | [417188-next-the-portopia-serial-murder-case.json](./417188-next-the-portopia-serial-murder-case.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
@@ -4994,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
 | Night Shift | 80254 | [80254-night-shift.json](./80254-night-shift.json) |
 | Night Shift at Fazclaire's Nightclub | 289164 | [289164-night-shift-at-fazclaires-nightclub.json](./289164-night-shift-at-fazclaires-nightclub.json) |
+| Night Shift at Nate's | 427479 | [427479-night-shift-at-nates.json](./427479-night-shift-at-nates.json) |
 | Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
 | Night Shift at the Museum | 348671 | [348671-night-shift-at-the-museum.json](./348671-night-shift-at-the-museum.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
