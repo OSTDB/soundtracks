@@ -1004,7 +1004,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Yipe! III | 139161 | [139161-quest-of-yipe-iii.json](./139161-quest-of-yipe-iii.json) |
 | Quest On Full Moon Island | 245361 | [245361-quest-on-full-moon-island.json](./245361-quest-on-full-moon-island.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
-| Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Run | 54314 | [54314-quest-run.json](./54314-quest-run.json) |
 | Quest to Aztlan | 266551 | [266551-quest-to-aztlan.json](./266551-quest-to-aztlan.json) |
 | Quest to be King | 99101 | [99101-quest-to-be-king.json](./99101-quest-to-be-king.json) |
