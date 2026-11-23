@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetPunk | 411213 | [411213-jetpunk.json](./411213-jetpunk.json) |
 | Jetracer | 43760 | [43760-jetracer.json](./43760-jetracer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
+| Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
 | Jets A Blazin' | 249865 | [249865-jets-a-blazin.json](./249865-jets-a-blazin.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns | 8954 | [8954-jetsnguns.json](./8954-jetsnguns.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judas Code | 61290 | [61290-judas-code.json](./61290-judas-code.json) |
 | Judas Priest: Road to Valhalla | 175162 | [175162-judas-priest-road-to-valhalla.json](./175162-judas-priest-road-to-valhalla.json) |
 | Jude | 172141 | [172141-jude.json](./172141-jude.json) |
+| Judero | 221649 | [221649-judero.json](./221649-judero.json) |
 | Judge | 77076 | [77076-judge.json](./77076-judge.json) |
 | Judge Dee | 10478 | [10478-judge-dee.json](./10478-judge-dee.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
