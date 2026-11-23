@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Purifier Edition | 287988 | [287988-warhammer-40-000-chaos-gate-daemonhunters-purifier-edition.json](./287988-warhammer-40-000-chaos-gate-daemonhunters-purifier-edition.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
+| Warhammer 40,000: Dakka Squadron - Flyboyz Edition | 143648 | [143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json](./143648-warhammer-40-000-dakka-squadron-flyboyz-edition.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Dark Heresy | 344655 | [344655-warhammer-40-000-dark-heresy.json](./344655-warhammer-40-000-dark-heresy.json) |
 | Warhammer 40,000: Dark Millennium | 32668 | [32668-warhammer-40-000-dark-millennium.json](./32668-warhammer-40-000-dark-millennium.json) |
@@ -5863,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wife Delivery R: We Go All the Way! | 83219 | [83219-wife-delivery-r-we-go-all-the-way.json](./83219-wife-delivery-r-we-go-all-the-way.json) |
 | Wife Massage | 291065 | [291065-wife-massage.json](./291065-wife-massage.json) |
 | Wife of My Boss | 220459 | [220459-wife-of-my-boss.json](./220459-wife-of-my-boss.json) |
+| Wife Quest | 144068 | [144068-wife-quest.json](./144068-wife-quest.json) |
 | Wife Quest: Deluxe Edition | 227117 | [227117-wife-quest-deluxe-edition.json](./227117-wife-quest-deluxe-edition.json) |
 | Wife Quest: Limited Edition | 205258 | [205258-wife-quest-limited-edition.json](./205258-wife-quest-limited-edition.json) |
 | Wifey's Dilemma Revisited | 286139 | [286139-wifeys-dilemma-revisited.json](./286139-wifeys-dilemma-revisited.json) |
