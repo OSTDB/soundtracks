@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil: The Man Without Fear | 65943 | [65943-daredevil-the-man-without-fear.json](./65943-daredevil-the-man-without-fear.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
+| Darfae | 427504 | [427504-darfae.json](./427504-darfae.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
@@ -7543,6 +7544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | Demon Purge Saga | 157277 | [157277-demon-purge-saga.json](./157277-demon-purge-saga.json) |
 | Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
+| Demon Queen's Hero Act | 427512 | [427512-demon-queens-hero-act.json](./427512-demon-queens-hero-act.json) |
 | Demon Quest | 343059 | [343059-demon-quest.json](./343059-demon-quest.json) |
 | Demon Quest '85 | 151963 | [151963-demon-quest-85.json](./151963-demon-quest-85.json) |
 | Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
@@ -21792,6 +21794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Edera | 121986 | [121986-dungeons-of-edera.json](./121986-dungeons-of-edera.json) |
 | Dungeons of Edera 2 | 363950 | [363950-dungeons-of-edera-2.json](./363950-dungeons-of-edera-2.json) |
 | Dungeons of Eternity | 251564 | [251564-dungeons-of-eternity.json](./251564-dungeons-of-eternity.json) |
+| Dungeons of Eternity: Avatar Cape Collection | 427514 | [427514-dungeons-of-eternity-avatar-cape-collection.json](./427514-dungeons-of-eternity-avatar-cape-collection.json) |
 | Dungeons of Eternity: Helms of Glory Collection | 426178 | [426178-dungeons-of-eternity-helms-of-glory-collection.json](./426178-dungeons-of-eternity-helms-of-glory-collection.json) |
 | Dungeons of Evermore | 212373 | [212373-dungeons-of-evermore.json](./212373-dungeons-of-evermore.json) |
 | Dungeons of Fayte | 242730 | [242730-dungeons-of-fayte.json](./242730-dungeons-of-fayte.json) |
@@ -22112,6 +22115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustland Delivery: Sheol | 385152 | [385152-dustland-delivery-sheol.json](./385152-dustland-delivery-sheol.json) |
 | Dustland Rider | 195119 | [195119-dustland-rider.json](./195119-dustland-rider.json) |
+| Dustlings: The Hidden Wilds | 426897 | [426897-dustlings-the-hidden-wilds.json](./426897-dustlings-the-hidden-wilds.json) |
 | Dustman | 14044 | [14044-dustman.json](./14044-dustman.json) |
 | Dustmen | 291282 | [291282-dustmen.json](./291282-dustmen.json) |
 | Dustoff Heli Rescue | 24919 | [24919-dustoff-heli-rescue.json](./24919-dustoff-heli-rescue.json) |
