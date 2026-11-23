@@ -20541,6 +20541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Bonk | 384795 | [384795-critter-bonk.json](./384795-critter-bonk.json) |
 | Critter Box | 397926 | [397926-critter-box.json](./397926-critter-box.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
+| Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
 | Critter Cart | 349024 | [349024-critter-cart.json](./349024-critter-cart.json) |
 | Critter Catch | 59542 | [59542-critter-catch.json](./59542-critter-catch.json) |
 | Critter Clicker | 169845 | [169845-critter-clicker.json](./169845-critter-clicker.json) |
@@ -23631,6 +23632,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
 | Cyber Citizen Shockman | 249236 | [249236-cyber-citizen-shockman.json](./249236-cyber-citizen-shockman.json) |
 | Cyber Citizen Shockman 2: A New Menace | 266339 | [266339-cyber-citizen-shockman-2-a-new-menace.json](./266339-cyber-citizen-shockman-2-a-new-menace.json) |
+| Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
+| Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber City 2157 | 24535 | [24535-cyber-city-2157.json](./24535-cyber-city-2157.json) |
 | Cyber City 2157: The Visual Novel | 33214 | [33214-cyber-city-2157-the-visual-novel.json](./33214-cyber-city-2157-the-visual-novel.json) |
