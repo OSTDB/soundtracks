@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplock | 377152 | [377152-warplock.json](./377152-warplock.json) |
 | Warpman | 48640 | [48640-warpman.json](./48640-warpman.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
+| Warproof | 427500 | [427500-warproof.json](./427500-warproof.json) |
 | Warpscape | 424352 | [424352-warpscape.json](./424352-warpscape.json) |
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
@@ -5678,6 +5679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Dunnit? B | 354370 | [354370-whos-dunnit-b.json](./354370-whos-dunnit-b.json) |
 | Who's Fat Lou? | 205805 | [205805-whos-fat-lou.json](./205805-whos-fat-lou.json) |
 | Who's Gonna Get the Girl? | 271966 | [271966-whos-gonna-get-the-girl.json](./271966-whos-gonna-get-the-girl.json) |
+| Who's Got the Legs | 427498 | [427498-whos-got-the-legs.json](./427498-whos-got-the-legs.json) |
 | Who's Hungry? | 371828 | [371828-whos-hungry.json](./371828-whos-hungry.json) |
 | Who's in the Box? | 95625 | [95625-whos-in-the-box.json](./95625-whos-in-the-box.json) |
 | Who's Lila? | 159536 | [159536-whos-lila.json](./159536-whos-lila.json) |
@@ -7673,6 +7675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withers | 166570 | [166570-withers.json](./166570-withers.json) |
 | Witherspring Wilds | 391858 | [391858-witherspring-wilds.json](./391858-witherspring-wilds.json) |
 | Withersworn | 237092 | [237092-withersworn.json](./237092-withersworn.json) |
+| Withheld | 427471 | [427471-withheld.json](./427471-withheld.json) |
 | Within | 126195 | [126195-within.json](./126195-within.json) |
 | Within | 194086 | [194086-within.json](./194086-within.json) |
 | Within | 240050 | [240050-within.json](./240050-within.json) |
