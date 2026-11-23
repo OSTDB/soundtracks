@@ -2599,7 +2599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Gun Army | 423643 | [423643-one-gun-army.json](./423643-one-gun-army.json) |
 | One Gun Guy | 132917 | [132917-one-gun-guy.json](./132917-one-gun-guy.json) |
-| One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
 | One Hard Game Please! | 351427 | [351427-one-hard-game-please.json](./351427-one-hard-game-please.json) |
@@ -3763,7 +3762,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OP.1953 | 263339 | [263339-op-1953.json](./263339-op-1953.json) |
 | Opa: Definitive Edition | 171124 | [171124-opa-definitive-edition.json](./171124-opa-definitive-edition.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
-| Opai Puzzle | 106431 | [106431-opai-puzzle.json](./106431-opai-puzzle.json) |
 | Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Opalescence | 211049 | [211049-opalescence.json](./211049-opalescence.json) |
@@ -5783,7 +5781,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outage Navigation | 398038 | [398038-outage-navigation.json](./398038-outage-navigation.json) |
 | Outage: Trespass | 428954 | [428954-outage-trespass.json](./428954-outage-trespass.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
-| Outback | 107412 | [107412-outback.json](./107412-outback.json) |
 | Outback Defender | 74842 | [74842-outback-defender.json](./74842-outback-defender.json) |
 | Outback Joey | 281554 | [281554-outback-joey.json](./281554-outback-joey.json) |
 | Outback Pet Rescue 3D | 85321 | [85321-outback-pet-rescue-3d.json](./85321-outback-pet-rescue-3d.json) |
