@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omi Momi | 244633 | [244633-omi-momi.json](./244633-omi-momi.json) |
 | Omi Oh My AI | 215393 | [215393-omi-oh-my-ai.json](./215393-omi-oh-my-ai.json) |
 | Omiai Commando: Bakappuru ni Tsukkomi wo | 199195 | [199195-omiai-commando-bakappuru-ni-tsukkomi-wo.json](./199195-omiai-commando-bakappuru-ni-tsukkomi-wo.json) |
+| Omicrocity 2 | 429315 | [429315-omicrocity-2.json](./429315-omicrocity-2.json) |
 | Omicroid | 107675 | [107675-omicroid.json](./107675-omicroid.json) |
 | Omicron: Coronavirus Battlegrounds | 393453 | [393453-omicron-coronavirus-battlegrounds.json](./393453-omicron-coronavirus-battlegrounds.json) |
 | Omicrox | 361803 | [361803-omicrox.json](./361803-omicrox.json) |
@@ -4890,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ornélia | 403776 | [403776-ornelia.json](./403776-ornelia.json) |
 | Oroboro | 311203 | [311203-oroboro.json](./311203-oroboro.json) |
 | Oroboros | 223259 | [223259-oroboros.json](./223259-oroboros.json) |
+| Oroboros | 429396 | [429396-oroboros.json](./429396-oroboros.json) |
 | Oroboros Square | 340821 | [340821-oroboros-square.json](./340821-oroboros-square.json) |
 | Oroborus: Planes of the Dead | 152709 | [152709-oroborus-planes-of-the-dead.json](./152709-oroborus-planes-of-the-dead.json) |
 | Oroborys | 426217 | [426217-oroborys.json](./426217-oroborys.json) |
@@ -5439,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouka: Kokoro Kagayakaseru Sakura | 421346 | [421346-ouka-kokoro-kagayakaseru-sakura.json](./421346-ouka-kokoro-kagayakaseru-sakura.json) |
 | Oukahouzin: Ouka Sakishi Toki | 77528 | [77528-oukahouzin-ouka-sakishi-toki.json](./77528-oukahouzin-ouka-sakishi-toki.json) |
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
+| Oukoku Kishi Brian | 429311 | [429311-oukoku-kishi-brian.json](./429311-oukoku-kishi-brian.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
 | Oukoku Senki Moshimo Gaia | 410270 | [410270-oukoku-senki-moshimo-gaia.json](./410270-oukoku-senki-moshimo-gaia.json) |
