@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Lord of the Rings: Elrond Edition | 89924 | [89924-lego-lord-of-the-rings-elrond-edition.json](./89924-lego-lord-of-the-rings-elrond-edition.json) |
 | LEGO Mario 64 | 172833 | [172833-lego-mario-64.json](./172833-lego-mario-64.json) |
 | LEGO Mars Mission: CrystAlien Conflict | 153692 | [153692-lego-mars-mission-crystalien-conflict.json](./153692-lego-mars-mission-crystalien-conflict.json) |
+| LEGO Marvel Collection | 115019 | [115019-lego-marvel-collection.json](./115019-lego-marvel-collection.json) |
 | LEGO Marvel Super Heroes 2 | 28815 | [28815-lego-marvel-super-heroes-2.json](./28815-lego-marvel-super-heroes-2.json) |
 | LEGO Marvel Super Heroes 2: Agents of Atlas Character Pack | 168785 | [168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json](./168785-lego-marvel-super-heroes-2-agents-of-atlas-character-pack.json) |
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
@@ -6015,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
 | Lily's World XD | 323462 | [323462-lilys-world-xd.json](./323462-lilys-world-xd.json) |
+| Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lilywhite Lilith | 257175 | [257175-lilywhite-lilith.json](./257175-lilywhite-lilith.json) |
 | Lim | 62989 | [62989-lim.json](./62989-lim.json) |
