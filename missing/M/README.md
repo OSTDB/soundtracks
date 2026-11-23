@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
+| Mamka Said | 428620 | [428620-mamka-said.json](./428620-mamka-said.json) |
 | Mamma Mia | 417050 | [417050-mamma-mia.json](./417050-mamma-mia.json) |
 | Mamma Mu och Kråkan: Vinterlek | 412496 | [412496-mamma-mu-och-krakan-vinterlek.json](./412496-mamma-mu-och-krakan-vinterlek.json) |
 | Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
@@ -7291,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest Master: Builder | 270979 | [270979-maze-quest-master-builder.json](./270979-maze-quest-master-builder.json) |
 | Maze Quest Master: Cyclist | 272610 | [272610-maze-quest-master-cyclist.json](./272610-maze-quest-master-cyclist.json) |
 | Maze Quest Master: Gunner | 270980 | [270980-maze-quest-master-gunner.json](./270980-maze-quest-master-gunner.json) |
+| Maze Quest Odyssey | 428157 | [428157-maze-quest-odyssey.json](./428157-maze-quest-odyssey.json) |
 | Maze Quest Vr | 341753 | [341753-maze-quest-vr.json](./341753-maze-quest-vr.json) |
 | Maze Race Challenge | 101509 | [101509-maze-race-challenge.json](./101509-maze-race-challenge.json) |
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
@@ -18406,6 +18408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Tri: Special Pack | 78630 | [78630-monster-hunter-tri-special-pack.json](./78630-monster-hunter-tri-special-pack.json) |
 | Monster Hunter Wilds: Alma Outfit - Autumn Witch | 412290 | [412290-monster-hunter-wilds-alma-outfit-autumn-witch.json](./412290-monster-hunter-wilds-alma-outfit-autumn-witch.json) |
 | Monster Hunter Wilds: Alma Outfit - Featherskirt Seikret Dress | 412288 | [412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json](./412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json) |
+| Monster Hunter Wilds: Camp Gear Set Vol. 3 | 428160 | [428160-monster-hunter-wilds-camp-gear-set-vol-3.json](./428160-monster-hunter-wilds-camp-gear-set-vol-3.json) |
 | Monster Hunter Wilds: Deluxe Edition | 334112 | [334112-monster-hunter-wilds-deluxe-edition.json](./334112-monster-hunter-wilds-deluxe-edition.json) |
 | Monster Hunter Wilds: Erik Outfit - Autumn Therian | 412291 | [412291-monster-hunter-wilds-erik-outfit-autumn-therian.json](./412291-monster-hunter-wilds-erik-outfit-autumn-therian.json) |
 | Monster Hunter Wilds: Erik Outfit - Crestcollar Seikret Suit | 412289 | [412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json](./412289-monster-hunter-wilds-erik-outfit-crestcollar-seikret-suit.json) |
