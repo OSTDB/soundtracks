@@ -5928,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You for Sharing Your World | 276608 | [276608-thank-you-for-sharing-your-world.json](./276608-thank-you-for-sharing-your-world.json) |
+| Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thank You For Your Application! | 347471 | [347471-thank-you-for-your-application.json](./347471-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
@@ -18288,6 +18289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
 | The Rockin' Dead | 9371 | [9371-the-rockin-dead.json](./9371-the-rockin-dead.json) |
 | The Rocky Horror Show Computer Game | 17274 | [17274-the-rocky-horror-show-computer-game.json](./17274-the-rocky-horror-show-computer-game.json) |
+| The Rocky Horror Show Video Game | 319648 | [319648-the-rocky-horror-show-video-game.json](./319648-the-rocky-horror-show-video-game.json) |
 | The Rocky Interactive Horror Show Game | 17273 | [17273-the-rocky-interactive-horror-show-game.json](./17273-the-rocky-interactive-horror-show-game.json) |
 | The Rodinia Project | 52077 | [52077-the-rodinia-project.json](./52077-the-rodinia-project.json) |
 | The Rodionov postulate (pale-particle duality) | 376607 | [376607-the-rodionov-postulate-pale-particle-duality.json](./376607-the-rodionov-postulate-pale-particle-duality.json) |
@@ -34474,6 +34476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Fall of Cybertron - Multiplayer Havoc Pack | 235400 | [235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json](./235400-transformers-fall-of-cybertron-multiplayer-havoc-pack.json) |
 | Transformers: Fall of Cybertron - Ultimate Edition | 99964 | [99964-transformers-fall-of-cybertron-ultimate-edition.json](./99964-transformers-fall-of-cybertron-ultimate-edition.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
+| Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Generation 2 | 257609 | [257609-transformers-generation-2.json](./257609-transformers-generation-2.json) |
 | Transformers: Heavy Metal | 193815 | [193815-transformers-heavy-metal.json](./193815-transformers-heavy-metal.json) |
 | Transformers: Human Alliance | 57959 | [57959-transformers-human-alliance.json](./57959-transformers-human-alliance.json) |
