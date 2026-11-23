@@ -11114,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warfare | 83693 | [83693-ancient-warfare.json](./83693-ancient-warfare.json) |
 | Ancient Warfare 2 | 83694 | [83694-ancient-warfare-2.json](./83694-ancient-warfare-2.json) |
+| Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
 | Ancient Warfare TD | 98682 | [98682-ancient-warfare-td.json](./98682-ancient-warfare-td.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
@@ -15487,6 +15488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaic | 278890 | [278890-archaic.json](./278890-archaic.json) |
 | Archaica: The Path Of Light | 25625 | [25625-archaica-the-path-of-light.json](./25625-archaica-the-path-of-light.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
+| Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
 | Archangel Demon Rush | 396574 | [396574-archangel-demon-rush.json](./396574-archangel-demon-rush.json) |
 | Archangel: Hellfire | 36787 | [36787-archangel-hellfire.json](./36787-archangel-hellfire.json) |
@@ -20601,6 +20603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn | 92868 | [92868-autobahn.json](./92868-autobahn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator | 25443 | [25443-autobahn-police-simulator.json](./25443-autobahn-police-simulator.json) |
+| Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 2: Switch Edition | 178766 | [178766-autobahn-police-simulator-2-switch-edition.json](./178766-autobahn-police-simulator-2-switch-edition.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
 | Autobahn Police Simulator 3: Off-Road DLC | 253666 | [253666-autobahn-police-simulator-3-off-road-dlc.json](./253666-autobahn-police-simulator-3-off-road-dlc.json) |
