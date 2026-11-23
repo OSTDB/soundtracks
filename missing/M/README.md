@@ -3141,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malfunction II | 167392 | [167392-malfunction-ii.json](./167392-malfunction-ii.json) |
 | Malgosia | 395973 | [395973-malgosia.json](./395973-malgosia.json) |
 | Malhaar | 405288 | [405288-malhaar.json](./405288-malhaar.json) |
+| Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
 | Malibu Bikini Volleyball | 40856 | [40856-malibu-bikini-volleyball.json](./40856-malibu-bikini-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | Malice | 246008 | [246008-malice.json](./246008-malice.json) |
@@ -5305,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maru Kaite DonDon Oboeru: Kyoui no Tsugawa Shiki Kanji Kioku Jutsu - Kiso Gakushuu-hen | 321308 | [321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json](./321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json) |
 | Maru-Batsu Joshiki-ryoku Kantei | 268618 | [268618-maru-batsu-joshiki-ryoku-kantei.json](./268618-maru-batsu-joshiki-ryoku-kantei.json) |
 | Maru-chan de Guu! | 107597 | [107597-maru-chan-de-guu.json](./107597-maru-chan-de-guu.json) |
+| Maru's Mission | 49039 | [49039-marus-mission.json](./49039-marus-mission.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
 | Marudachi | 302189 | [302189-marudachi.json](./302189-marudachi.json) |
 | Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
@@ -5587,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man: The Great Web | 378149 | [378149-marvels-spider-man-the-great-web.json](./378149-marvels-spider-man-the-great-web.json) |
 | Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
 | Marvel's Spider-Man: Turf Wars | 109421 | [109421-marvels-spider-man-turf-wars.json](./109421-marvels-spider-man-turf-wars.json) |
+| Marvel's The Invincible Iron Man | 49231 | [49231-marvels-the-invincible-iron-man.json](./49231-marvels-the-invincible-iron-man.json) |
 | Marvel's Wolverine: Digital Deluxe Edition | 407453 | [407453-marvels-wolverine-digital-deluxe-edition.json](./407453-marvels-wolverine-digital-deluxe-edition.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Marvellous Inc.: MarvGPT | 296521 | [296521-marvellous-inc-marvgpt.json](./296521-marvellous-inc-marvgpt.json) |
@@ -21522,6 +21525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Challenger | 245432 | [245432-mr-challenger.json](./245432-mr-challenger.json) |
 | Mr. Cheesy | 182937 | [182937-mr-cheesy.json](./182937-mr-cheesy.json) |
 | Mr. Chicken's Totally Ethical Farm | 420855 | [420855-mr-chickens-totally-ethical-farm.json](./420855-mr-chickens-totally-ethical-farm.json) |
+| Mr. Chin's Gourmet Paradise | 49036 | [49036-mr-chins-gourmet-paradise.json](./49036-mr-chins-gourmet-paradise.json) |
 | Mr. Ching | 41788 | [41788-mr-ching.json](./41788-mr-ching.json) |
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
