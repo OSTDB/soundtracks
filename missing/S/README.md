@@ -5701,6 +5701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek and Find Adventures 3 | 206633 | [206633-seek-and-find-adventures-3.json](./206633-seek-and-find-adventures-3.json) |
 | Seek and Find Collection 1 | 146580 | [146580-seek-and-find-collection-1.json](./146580-seek-and-find-collection-1.json) |
 | Seek and Find Collection 2 | 146582 | [146582-seek-and-find-collection-2.json](./146582-seek-and-find-collection-2.json) |
+| Seek Etyliv | 88082 | [88082-seek-etyliv.json](./88082-seek-etyliv.json) |
 | Seek Girl | 114277 | [114277-seek-girl.json](./114277-seek-girl.json) |
 | Seek Girl 2 | 130249 | [130249-seek-girl-2.json](./130249-seek-girl-2.json) |
 | Seek Girl III | 127147 | [127147-seek-girl-iii.json](./127147-seek-girl-iii.json) |
@@ -19419,6 +19420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Forever II | 149360 | [149360-solitaire-forever-ii.json](./149360-solitaire-forever-ii.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
 | Solitaire FunPak | 265003 | [265003-solitaire-funpak.json](./265003-solitaire-funpak.json) |
+| Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Game Halloween | 122587 | [122587-solitaire-game-halloween.json](./122587-solitaire-game-halloween.json) |
 | Solitaire Game Halloween 2 | 148091 | [148091-solitaire-game-halloween-2.json](./148091-solitaire-game-halloween-2.json) |
@@ -25836,6 +25838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits' Forest | 383366 | [383366-spirits-forest.json](./383366-spirits-forest.json) |
 | SpiritScape | 288380 | [288380-spiritscape.json](./288380-spiritscape.json) |
 | SpiritSphere | 22794 | [22794-spiritsphere.json](./22794-spiritsphere.json) |
+| SpiritSphere DX | 78142 | [78142-spiritsphere-dx.json](./78142-spiritsphere-dx.json) |
 | Spiritstead | 366345 | [366345-spiritstead.json](./366345-spiritstead.json) |
 | SpiritSurge | 221639 | [221639-spiritsurge.json](./221639-spiritsurge.json) |
 | SpiritSweeper | 307624 | [307624-spiritsweeper.json](./307624-spiritsweeper.json) |
@@ -40363,6 +40366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaddle | 408318 | [408318-swaddle.json](./408318-swaddle.json) |
 | Swag | 428737 | [428737-swag.json](./428737-swag.json) |
 | Swag & Sorcery | 107482 | [107482-swag-and-sorcery.json](./107482-swag-and-sorcery.json) |
+| Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swaggerfall | 421012 | [421012-swaggerfall.json](./421012-swaggerfall.json) |
 | Swallow | 203871 | [203871-swallow.json](./203871-swallow.json) |
 | Swallow Nine Tails | 264400 | [264400-swallow-nine-tails.json](./264400-swallow-nine-tails.json) |
