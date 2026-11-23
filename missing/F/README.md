@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Simulator: Man Lion's Coach 3rd Gen | 161954 | [161954-fernbus-simulator-man-lions-coach-3rd-gen.json](./161954-fernbus-simulator-man-lions-coach-3rd-gen.json) |
 | Fernbus Simulator: Man Lion's Intercity | 161945 | [161945-fernbus-simulator-man-lions-intercity.json](./161945-fernbus-simulator-man-lions-intercity.json) |
 | Fernbus Simulator: Multimedia Package | 161953 | [161953-fernbus-simulator-multimedia-package.json](./161953-fernbus-simulator-multimedia-package.json) |
+| Fernbus Simulator: Neoplan Cityliner | 426848 | [426848-fernbus-simulator-neoplan-cityliner.json](./426848-fernbus-simulator-neoplan-cityliner.json) |
 | Fernbus Simulator: Neoplan Skyliner | 161959 | [161959-fernbus-simulator-neoplan-skyliner.json](./161959-fernbus-simulator-neoplan-skyliner.json) |
 | Fernbus Simulator: Netherlands | 161949 | [161949-fernbus-simulator-netherlands.json](./161949-fernbus-simulator-netherlands.json) |
 | Fernbus Simulator: Platinum Edition | 136081 | [136081-fernbus-simulator-platinum-edition.json](./136081-fernbus-simulator-platinum-edition.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
 | Fish On | 93930 | [93930-fish-on.json](./93930-fish-on.json) |
 | Fish on 3D | 85635 | [85635-fish-on-3d.json](./85635-fish-on-3d.json) |
+| Fish on Sale | 426855 | [426855-fish-on-sale.json](./426855-fish-on-sale.json) |
 | Fish On! Bass | 313045 | [313045-fish-on-bass.json](./313045-fish-on-bass.json) |
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
