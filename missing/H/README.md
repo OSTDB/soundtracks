@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Light Vector | 116094 | [116094-hard-light-vector.json](./116094-hard-light-vector.json) |
 | Hard Line | 307460 | [307460-hard-line.json](./307460-hard-line.json) |
 | Hard Love: Darkest Desire | 286763 | [286763-hard-love-darkest-desire.json](./286763-hard-love-darkest-desire.json) |
+| Hard Man | 37423 | [37423-hard-man.json](./37423-hard-man.json) |
 | Hard Minus | 55243 | [55243-hard-minus.json](./55243-hard-minus.json) |
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
