@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Advent Calendar 2025 Bundle | 364101 | [364101-games-advent-calendar-2025-bundle.json](./364101-games-advent-calendar-2025-bundle.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games and Girls | 149417 | [149417-games-and-girls.json](./149417-games-and-girls.json) |
+| Games Anonymous 1983 | 426283 | [426283-games-anonymous-1983.json](./426283-games-anonymous-1983.json) |
 | Games Around the World | 205921 | [205921-games-around-the-world.json](./205921-games-around-the-world.json) |
 | Games Designer Samples | 352326 | [352326-games-designer-samples.json](./352326-games-designer-samples.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
@@ -10796,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 289684 | [289684-grim.json](./289684-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
+| Grim & Bear It | 425070 | [425070-grim-and-bear-it.json](./425070-grim-and-bear-it.json) |
 | Grim & Evil: Battle Forts | 98635 | [98635-grim-and-evil-battle-forts.json](./98635-grim-and-evil-battle-forts.json) |
 | Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
 | Grim Ball | 241127 | [241127-grim-ball.json](./241127-grim-ball.json) |
@@ -11227,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Grønland | 271023 | [271023-gr-nland.json](./271023-gr-nland.json) |
 | Groob | 249945 | [249945-groob.json](./249945-groob.json) |
+| Groober | 426292 | [426292-groober.json](./426292-groober.json) |
 | Grood | 90116 | [90116-grood.json](./90116-grood.json) |
 | Grooh | 197995 | [197995-grooh.json](./197995-grooh.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
