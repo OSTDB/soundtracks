@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZooSim | 190496 | [190496-zoosim.json](./190496-zoosim.json) |
 | Zooted | 240184 | [240184-zooted.json](./240184-zooted.json) |
 | Zooter FPS | 126081 | [126081-zooter-fps.json](./126081-zooter-fps.json) |
+| Zootisan | 428091 | [428091-zootisan.json](./428091-zootisan.json) |
 | Zootopia Crime Files: Hidden Object | 57773 | [57773-zootopia-crime-files-hidden-object.json](./57773-zootopia-crime-files-hidden-object.json) |
 | Zootopia! | 200982 | [200982-zootopia.json](./200982-zootopia.json) |
 | Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
