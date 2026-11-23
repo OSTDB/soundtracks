@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
+| Paranormal Cleaner | 429279 | [429279-paranormal-cleaner.json](./429279-paranormal-cleaner.json) |
 | Paranormal Cleanup | 235510 | [235510-paranormal-cleanup.json](./235510-paranormal-cleanup.json) |
 | ParaNormal Commute | 237234 | [237234-paranormal-commute.json](./237234-paranormal-commute.json) |
 | Paranormal Cryptid Lovers | 228881 | [228881-paranormal-cryptid-lovers.json](./228881-paranormal-cryptid-lovers.json) |
@@ -8981,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates: Rogue's Fortune | 298072 | [298072-pirates-rogues-fortune.json](./298072-pirates-rogues-fortune.json) |
+| Pirates: Split the Treasure | 428848 | [428848-pirates-split-the-treasure.json](./428848-pirates-split-the-treasure.json) |
 | Pirates: The Key of Dreams | 21827 | [21827-pirates-the-key-of-dreams.json](./21827-pirates-the-key-of-dreams.json) |
 | Pirates: The Legend of Black Kat | 5983 | [5983-pirates-the-legend-of-black-kat.json](./5983-pirates-the-legend-of-black-kat.json) |
 | Pirates: The Legend of the Kraken | 255185 | [255185-pirates-the-legend-of-the-kraken.json](./255185-pirates-the-legend-of-the-kraken.json) |
@@ -15153,6 +15155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portals: Escape the Infinity | 264151 | [264151-portals-escape-the-infinity.json](./264151-portals-escape-the-infinity.json) |
 | PortalSnake | 272204 | [272204-portalsnake.json](./272204-portalsnake.json) |
 | Portarius | 74850 | [74850-portarius.json](./74850-portarius.json) |
+| Portas | 429291 | [429291-portas.json](./429291-portas.json) |
 | Portentum | 412401 | [412401-portentum.json](./412401-portentum.json) |
 | Porter | 196807 | [196807-porter.json](./196807-porter.json) |
 | Porter | 229060 | [229060-porter.json](./229060-porter.json) |
@@ -15500,6 +15503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poumosa | 406642 | [406642-poumosa.json](./406642-poumosa.json) |
 | Pounce | 80231 | [80231-pounce.json](./80231-pounce.json) |
 | Pounce and the Twin Trees | 295349 | [295349-pounce-and-the-twin-trees.json](./295349-pounce-and-the-twin-trees.json) |
+| Pounce Brigade | 428855 | [428855-pounce-brigade.json](./428855-pounce-brigade.json) |
 | Pounce Cat | 212766 | [212766-pounce-cat.json](./212766-pounce-cat.json) |
 | Pound for Pound | 389836 | [389836-pound-for-pound.json](./389836-pound-for-pound.json) |
 | Pound For Pound | 40400 | [40400-pound-for-pound.json](./40400-pound-for-pound.json) |
@@ -20165,6 +20169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Fit | 215324 | [215324-punch-fit.json](./215324-punch-fit.json) |
 | Punch Guy | 326928 | [326928-punch-guy.json](./326928-punch-guy.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
+| Punch It | 429285 | [429285-punch-it.json](./429285-punch-it.json) |
 | Punch It Deluxe | 192158 | [192158-punch-it-deluxe.json](./192158-punch-it-deluxe.json) |
 | Punch Jump | 275555 | [275555-punch-jump.json](./275555-punch-jump.json) |
 | Punch Kick Club | 338283 | [338283-punch-kick-club.json](./338283-punch-kick-club.json) |
