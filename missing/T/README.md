@@ -2043,7 +2043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango Fiesta | 9459 | [9459-tango-fiesta.json](./9459-tango-fiesta.json) |
 | Tango Race: Nou Training Kotoba Game | 208851 | [208851-tango-race-nou-training-kotoba-game.json](./208851-tango-race-nou-training-kotoba-game.json) |
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
-| Tango: The Adventure Game | 106402 | [106402-tango-the-adventure-game.json](./106402-tango-the-adventure-game.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangomon | 322316 | [322316-tangomon.json](./322316-tangomon.json) |
 | Tangomon 2 | 322317 | [322317-tangomon-2.json](./322317-tangomon-2.json) |
@@ -3128,7 +3127,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
 | Tavern Guardians | 56955 | [56955-tavern-guardians.json](./56955-tavern-guardians.json) |
-| Tavern Guardians: Banquet | 106393 | [106393-tavern-guardians-banquet.json](./106393-tavern-guardians-banquet.json) |
 | Tavern Keeper | 25929 | [25929-tavern-keeper.json](./25929-tavern-keeper.json) |
 | Tavern Legends | 326667 | [326667-tavern-legends.json](./326667-tavern-legends.json) |
 | Tavern Manager Simulator | 290509 | [290509-tavern-manager-simulator.json](./290509-tavern-manager-simulator.json) |
@@ -11894,7 +11892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Beyond | 401634 | [401634-the-great-beyond.json](./401634-the-great-beyond.json) |
 | The Great Biohazard Escape | 183837 | [183837-the-great-biohazard-escape.json](./183837-the-great-biohazard-escape.json) |
 | The Great Book of Mario | 227972 | [227972-the-great-book-of-mario.json](./227972-the-great-book-of-mario.json) |
-| The Great C | 107306 | [107306-the-great-c.json](./107306-the-great-c.json) |
 | The Great Castle Adventure | 321890 | [321890-the-great-castle-adventure.json](./321890-the-great-castle-adventure.json) |
 | The Great Cave Offensive | 271262 | [271262-the-great-cave-offensive.json](./271262-the-great-cave-offensive.json) |
 | The Great Cave Offensive | 271405 | [271405-the-great-cave-offensive.json](./271405-the-great-cave-offensive.json) |
@@ -14323,7 +14320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
 | The Last Wish | 27877 | [27877-the-last-wish.json](./27877-the-last-wish.json) |
 | The Last Witness | 374950 | [374950-the-last-witness.json](./374950-the-last-witness.json) |
-| The Last Wizard | 106140 | [106140-the-last-wizard.json](./106140-the-last-wizard.json) |
 | The Last Wizard: A Goblin Detective Mystery | 389956 | [389956-the-last-wizard-a-goblin-detective-mystery.json](./389956-the-last-wizard-a-goblin-detective-mystery.json) |
 | The Last Word | 53755 | [53755-the-last-word.json](./53755-the-last-word.json) |
 | The Last Worker | 173096 | [173096-the-last-worker.json](./173096-the-last-worker.json) |
@@ -17016,7 +17012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlaw, the Drunk, & the Whore | 99284 | [99284-the-outlaw-the-drunk-and-the-whore.json](./99284-the-outlaw-the-drunk-and-the-whore.json) |
 | The Outlived | 108658 | [108658-the-outlived.json](./108658-the-outlived.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
-| The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outpost Nine: Episode 1 | 109084 | [109084-the-outpost-nine-episode-1.json](./109084-the-outpost-nine-episode-1.json) |
 | The Outpost: Outer Frontier | 399239 | [399239-the-outpost-outer-frontier.json](./399239-the-outpost-outer-frontier.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
@@ -20032,7 +20027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Sub Shop | 308365 | [308365-the-sub-shop.json](./308365-the-sub-shop.json) |
 | The Subconscious Fear | 271809 | [271809-the-subconscious-fear.json](./271809-the-subconscious-fear.json) |
-| The Subject | 105716 | [105716-the-subject.json](./105716-the-subject.json) |
 | The Subject: Protocol Zero | 389852 | [389852-the-subject-protocol-zero.json](./389852-the-subject-protocol-zero.json) |
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
@@ -20212,7 +20206,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swords of Ditto: Mormo's Curse | 117974 | [117974-the-swords-of-ditto-mormos-curse.json](./117974-the-swords-of-ditto-mormos-curse.json) |
 | The Swords of First Light | 299034 | [299034-the-swords-of-first-light.json](./299034-the-swords-of-first-light.json) |
 | The Swordsman | 346926 | [346926-the-swordsman.json](./346926-the-swordsman.json) |
-| The Swordsmen X | 106137 | [106137-the-swordsmen-x.json](./106137-the-swordsmen-x.json) |
 | The Swordsmen X: Green-bamboo pack | 246761 | [246761-the-swordsmen-x-green-bamboo-pack.json](./246761-the-swordsmen-x-green-bamboo-pack.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
@@ -27120,7 +27113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bakery | 374400 | [374400-tiny-bakery.json](./374400-tiny-bakery.json) |
 | Tiny Balls | 275085 | [275085-tiny-balls.json](./275085-tiny-balls.json) |
 | Tiny Barbarian DX | 16693 | [16693-tiny-barbarian-dx.json](./16693-tiny-barbarian-dx.json) |
-| Tiny Battle Simulator | 107431 | [107431-tiny-battle-simulator.json](./107431-tiny-battle-simulator.json) |
 | Tiny Battles | 287743 | [287743-tiny-battles.json](./287743-tiny-battles.json) |
 | Tiny Biomes | 385071 | [385071-tiny-biomes.json](./385071-tiny-biomes.json) |
 | Tiny Biomes: Cozy Idle | 387452 | [387452-tiny-biomes-cozy-idle.json](./387452-tiny-biomes-cozy-idle.json) |
@@ -36896,7 +36888,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Truem | 427716 | [427716-truem.json](./427716-truem.json) |
 | Truer than You | 223316 | [223316-truer-than-you.json](./223316-truer-than-you.json) |
-| TrueScale | 105891 | [105891-truescale.json](./105891-truescale.json) |
 | Truffle Hogs | 159651 | [159651-truffle-hogs.json](./159651-truffle-hogs.json) |
 | Truffle Saga | 17416 | [17416-truffle-saga.json](./17416-truffle-saga.json) |
 | Truffle: Classic | 186509 | [186509-truffle-classic.json](./186509-truffle-classic.json) |
@@ -38843,7 +38834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type Attack | 95352 | [95352-type-attack.json](./95352-type-attack.json) |
 | Type Attacks | 68418 | [68418-type-attacks.json](./68418-type-attacks.json) |
 | Type da Puyo Puyo | 63839 | [63839-type-da-puyo-puyo.json](./63839-type-da-puyo-puyo.json) |
-| Type Defense | 105660 | [105660-type-defense.json](./105660-type-defense.json) |
 | Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type Drivers | 373895 | [373895-type-drivers.json](./373895-type-drivers.json) |
 | Type Fighter | 107488 | [107488-type-fighter.json](./107488-type-fighter.json) |
