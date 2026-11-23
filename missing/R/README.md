@@ -5786,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnant II: Deluxe Edition | 252494 | [252494-remnant-ii-deluxe-edition.json](./252494-remnant-ii-deluxe-edition.json) |
 | Remnant II: The Awakened King | 274832 | [274832-remnant-ii-the-awakened-king.json](./274832-remnant-ii-the-awakened-king.json) |
 | Remnant II: The Dark Horizon | 317619 | [317619-remnant-ii-the-dark-horizon.json](./317619-remnant-ii-the-dark-horizon.json) |
+| Remnant II: The Forgotten Kingdom | 297261 | [297261-remnant-ii-the-forgotten-kingdom.json](./297261-remnant-ii-the-forgotten-kingdom.json) |
 | Remnant II: Ultimate Edition | 252495 | [252495-remnant-ii-ultimate-edition.json](./252495-remnant-ii-ultimate-edition.json) |
 | Remnant Knights | 65715 | [65715-remnant-knights.json](./65715-remnant-knights.json) |
 | Remnant Protocol | 236496 | [236496-remnant-protocol.json](./236496-remnant-protocol.json) |
@@ -6856,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retailer | 390874 | [390874-retailer.json](./390874-retailer.json) |
 | Retailer Tycoon | 148672 | [148672-retailer-tycoon.json](./148672-retailer-tycoon.json) |
 | Retale | 307749 | [307749-retale.json](./307749-retale.json) |
+| Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | Retaliation | 34034 | [34034-retaliation.json](./34034-retaliation.json) |
 | Retaliation Path of Rome | 31268 | [31268-retaliation-path-of-rome.json](./31268-retaliation-path-of-rome.json) |
 | Retaliation: Enemy Mine | 34872 | [34872-retaliation-enemy-mine.json](./34872-retaliation-enemy-mine.json) |
@@ -9143,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Tomb Raider: Blood Ties | 24890 | [24890-rise-of-the-tomb-raider-blood-ties.json](./24890-rise-of-the-tomb-raider-blood-ties.json) |
 | Rise of the Tomb Raider: Cold Darkness Awakened | 25219 | [25219-rise-of-the-tomb-raider-cold-darkness-awakened.json](./25219-rise-of-the-tomb-raider-cold-darkness-awakened.json) |
 | Rise of the Tomb Raider: Deluxe Edition | 122190 | [122190-rise-of-the-tomb-raider-deluxe-edition.json](./122190-rise-of-the-tomb-raider-deluxe-edition.json) |
+| Rise of the Tomb Raider: Endurance Mode | 214844 | [214844-rise-of-the-tomb-raider-endurance-mode.json](./214844-rise-of-the-tomb-raider-endurance-mode.json) |
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
