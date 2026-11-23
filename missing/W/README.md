@@ -9272,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Chef | 101407 | [101407-world-chef.json](./101407-world-chef.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
 | World Circuit Boxing | 80919 | [80919-world-circuit-boxing.json](./80919-world-circuit-boxing.json) |
+| World Circuit Series | 49004 | [49004-world-circuit-series.json](./49004-world-circuit-series.json) |
 | World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
