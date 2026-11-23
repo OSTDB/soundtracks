@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varia | 93108 | [93108-varia.json](./93108-varia.json) |
 | Varia Metal | 40518 | [40518-varia-metal.json](./40518-varia-metal.json) |
 | Variable | 157266 | [157266-variable.json](./157266-variable.json) |
+| Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variable Chaser Valchase | 298751 | [298751-variable-chaser-valchase.json](./298751-variable-chaser-valchase.json) |
 | Variable Geo vs. Asuka 120% | 316595 | [316595-variable-geo-vs-asuka-120.json](./316595-variable-geo-vs-asuka-120.json) |
 | Variable Pictogram Jump | 190867 | [190867-variable-pictogram-jump.json](./190867-variable-pictogram-jump.json) |
