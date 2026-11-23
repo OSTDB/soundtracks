@@ -13140,6 +13140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthropocene Timeshare | 136507 | [136507-anthropocene-timeshare.json](./136507-anthropocene-timeshare.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomorphic Suspect | 181458 | [181458-anthropomorphic-suspect.json](./181458-anthropomorphic-suspect.json) |
+| Anthros' Edge | 426298 | [426298-anthros-edge.json](./426298-anthros-edge.json) |
 | Anti Air | 134089 | [134089-anti-air.json](./134089-anti-air.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
@@ -13350,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anubis of the Moon's Surface | 38017 | [38017-anubis-of-the-moons-surface.json](./38017-anubis-of-the-moons-surface.json) |
 | Anubis Temple: La Perla de Egipto | 424729 | [424729-anubis-temple-la-perla-de-egipto.json](./424729-anubis-temple-la-perla-de-egipto.json) |
 | Anubis Temple: Skin Dinosaurio (Niña) | 424731 | [424731-anubis-temple-skin-dinosaurio-nina.json](./424731-anubis-temple-skin-dinosaurio-nina.json) |
+| Anubis Temple: Skin Militar (Niña) | 426877 | [426877-anubis-temple-skin-militar-nina.json](./426877-anubis-temple-skin-militar-nina.json) |
 | Anubis: Wrath of the Underworld | 424990 | [424990-anubis-wrath-of-the-underworld.json](./424990-anubis-wrath-of-the-underworld.json) |
 | Anubis' Challenge | 111787 | [111787-anubis-challenge.json](./111787-anubis-challenge.json) |
 | Anubria | 401038 | [401038-anubria.json](./401038-anubria.json) |
@@ -13646,6 +13648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Byte Reeling | 399042 | [399042-apex-byte-reeling.json](./399042-apex-byte-reeling.json) |
 | Apex Defenders | 293973 | [293973-apex-defenders.json](./293973-apex-defenders.json) |
+| Apex Drift | 426870 | [426870-apex-drift.json](./426870-apex-drift.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
