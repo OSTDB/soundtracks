@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | National Lampoon's University Tycoon | 62507 | [62507-national-lampoons-university-tycoon.json](./62507-national-lampoons-university-tycoon.json) |
 | National Machine | 103451 | [103451-national-machine.json](./103451-national-machine.json) |
 | National Ministox - The Official Game | 105808 | [105808-national-ministox-the-official-game.json](./105808-national-ministox-the-official-game.json) |
+| National Park Girls | 116070 | [116070-national-park-girls.json](./116070-national-park-girls.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
