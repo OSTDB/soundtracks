@@ -226,7 +226,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
 | Dabman: When The Haters Dab Back Remastered | 289158 | [289158-dabman-when-the-haters-dab-back-remastered.json](./289158-dabman-when-the-haters-dab-back-remastered.json) |
 | Daburali | 319417 | [319417-daburali.json](./319417-daburali.json) |
-| Dabwoman: When the Dab isn't Sexist | 106622 | [106622-dabwoman-when-the-dab-isnt-sexist.json](./106622-dabwoman-when-the-dab-isnt-sexist.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DAc0da | 410665 | [410665-dac0da.json](./410665-dac0da.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
@@ -1448,7 +1447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil: The Man Without Fear | 65943 | [65943-daredevil-the-man-without-fear.json](./65943-daredevil-the-man-without-fear.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
 | Daregon | 57468 | [57468-daregon.json](./57468-daregon.json) |
-| DareSora: Tears for an Unknown Sky | 107430 | [107430-daresora-tears-for-an-unknown-sky.json](./107430-daresora-tears-for-an-unknown-sky.json) |
 | Darfall | 217030 | [217030-darfall.json](./217030-darfall.json) |
 | Darfur is Dying | 172078 | [172078-darfur-is-dying.json](./172078-darfur-is-dying.json) |
 | Daria: A Kingdom Simulator | 275101 | [275101-daria-a-kingdom-simulator.json](./275101-daria-a-kingdom-simulator.json) |
@@ -6738,7 +6736,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
 | Defense Zone 3 | 181979 | [181979-defense-zone-3.json](./181979-defense-zone-3.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
-| Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
 | Defensia | 165935 | [165935-defensia.json](./165935-defensia.json) |
 | Defensive | 287499 | [287499-defensive.json](./287499-defensive.json) |
@@ -10959,7 +10956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DimensionsVS | 24442 | [24442-dimensionsvs.json](./24442-dimensionsvs.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
-| Dimetrosaur | 107403 | [107403-dimetrosaur.json](./107403-dimetrosaur.json) |
 | Dimetrosaur 2 | 157320 | [157320-dimetrosaur-2.json](./157320-dimetrosaur-2.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
@@ -20667,7 +20663,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem: Zero Hour | 8503 | [8503-duke-nukem-zero-hour.json](./8503-duke-nukem-zero-hour.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
-| Duke of Defense | 106396 | [106396-duke-of-defense.json](./106396-duke-of-defense.json) |
 | Duke Royale Remake | 273209 | [273209-duke-royale-remake.json](./273209-duke-royale-remake.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
 | Duke War!! | 262170 | [262170-duke-war.json](./262170-duke-war.json) |
