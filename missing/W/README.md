@@ -10646,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wriggler | 46742 | [46742-wriggler.json](./46742-wriggler.json) |
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
+| Wright Brothers' Mysteries | 429245 | [429245-wright-brothers-mysteries.json](./429245-wright-brothers-mysteries.json) |
 | Wrinkle | 248268 | [248268-wrinkle.json](./248268-wrinkle.json) |
 | Wrinkle in Time | 108890 | [108890-wrinkle-in-time.json](./108890-wrinkle-in-time.json) |
 | Wrispell | 401920 | [401920-wrispell.json](./401920-wrispell.json) |
