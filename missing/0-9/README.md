@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Cancun | 337516 | [337516-101-cats-in-cancun.json](./337516-101-cats-in-cancun.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Copenhagen | 430554 | [430554-101-cats-in-copenhagen.json](./430554-101-cats-in-copenhagen.json) |
+| 101 Cats in Czech Republic | 426306 | [426306-101-cats-in-czech-republic.json](./426306-101-cats-in-czech-republic.json) |
 | 101 Cats in Denmark | 384119 | [384119-101-cats-in-denmark.json](./384119-101-cats-in-denmark.json) |
 | 101 Cats in Dubai | 287057 | [287057-101-cats-in-dubai.json](./287057-101-cats-in-dubai.json) |
 | 101 Cats in Dublin | 397637 | [397637-101-cats-in-dublin.json](./397637-101-cats-in-dublin.json) |
