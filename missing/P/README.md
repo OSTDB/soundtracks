@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
+| Paperworks: Paper Shredder Inc. | 425069 | [425069-paperworks-paper-shredder-inc.json](./425069-paperworks-paper-shredder-inc.json) |
 | Papetura: Craft Edition | 324599 | [324599-papetura-craft-edition.json](./324599-papetura-craft-edition.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Commando: Second Blood | 142053 | [142053-papi-commando-second-blood.json](./142053-papi-commando-second-blood.json) |
@@ -15087,6 +15088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal of Evil: Stolen Runes - Collector's Edition | 35451 | [35451-portal-of-evil-stolen-runes-collectors-edition.json](./35451-portal-of-evil-stolen-runes-collectors-edition.json) |
 | Portal Panic | 268001 | [268001-portal-panic.json](./268001-portal-panic.json) |
 | Portal Pinball | 354680 | [354680-portal-pinball.json](./354680-portal-pinball.json) |
+| Portal Pool | 426271 | [426271-portal-pool.json](./426271-portal-pool.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Protectors | 320053 | [320053-portal-protectors.json](./320053-portal-protectors.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
@@ -20171,6 +20173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
+| Punch the Walls | 426276 | [426276-punch-the-walls.json](./426276-punch-the-walls.json) |
 | Punch Through | 425694 | [425694-punch-through.json](./425694-punch-through.json) |
 | Punch to Glory | 347374 | [347374-punch-to-glory.json](./347374-punch-to-glory.json) |
 | Punch TV | 361367 | [361367-punch-tv.json](./361367-punch-tv.json) |
