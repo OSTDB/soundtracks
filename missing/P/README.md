@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria Deluxe | 322500 | [322500-papas-pizzeria-deluxe.json](./322500-papas-pizzeria-deluxe.json) |
 | Papa's Pizzeria HD | 86919 | [86919-papas-pizzeria-hd.json](./86919-papas-pizzeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
+| Papa's Quiz | 142177 | [142177-papas-quiz.json](./142177-papas-quiz.json) |
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Scooperia HD | 106198 | [106198-papas-scooperia-hd.json](./106198-papas-scooperia-hd.json) |
 | Papa's Scooperia to Go! | 106183 | [106183-papas-scooperia-to-go.json](./106183-papas-scooperia-to-go.json) |
@@ -10992,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: All Stars | 124371 | [124371-plants-vs-zombies-all-stars.json](./124371-plants-vs-zombies-all-stars.json) |
 | Plants vs. Zombies: Back to the Roots | 228263 | [228263-plants-vs-zombies-back-to-the-roots.json](./228263-plants-vs-zombies-back-to-the-roots.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
+| Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
 | Plants Vs. Zombies: DLC Edition | 375715 | [375715-plants-vs-zombies-dlc-edition.json](./375715-plants-vs-zombies-dlc-edition.json) |
@@ -16723,6 +16725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia Trilogy HD | 21715 | [21715-prince-of-persia-trilogy-hd.json](./21715-prince-of-persia-trilogy-hd.json) |
 | Prince of Persia Trilogy: Limited Edition | 43430 | [43430-prince-of-persia-trilogy-limited-edition.json](./43430-prince-of-persia-trilogy-limited-edition.json) |
 | Prince of Persia: Arabian Nights | 143442 | [143442-prince-of-persia-arabian-nights.json](./143442-prince-of-persia-arabian-nights.json) |
+| Prince of Persia: Epilogue | 142472 | [142472-prince-of-persia-epilogue.json](./142472-prince-of-persia-epilogue.json) |
 | Prince of Persia: Escape | 320136 | [320136-prince-of-persia-escape.json](./320136-prince-of-persia-escape.json) |
 | Prince of Persia: Escape 2 | 362773 | [362773-prince-of-persia-escape-2.json](./362773-prince-of-persia-escape-2.json) |
 | Prince of Persia: Evolution | 214715 | [214715-prince-of-persia-evolution.json](./214715-prince-of-persia-evolution.json) |
@@ -21319,6 +21322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Puppers | 29812 | [29812-puzzle-puppers.json](./29812-puzzle-puppers.json) |
 | Puzzle Putt | 197246 | [197246-puzzle-putt.json](./197246-puzzle-putt.json) |
 | Puzzle Quest 2 | 8979 | [8979-puzzle-quest-2.json](./8979-puzzle-quest-2.json) |
+| Puzzle Quest 3 | 142769 | [142769-puzzle-quest-3.json](./142769-puzzle-quest-3.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Challenge of the Warlords | 2370 | [2370-puzzle-quest-challenge-of-the-warlords.json](./2370-puzzle-quest-challenge-of-the-warlords.json) |
 | Puzzle Quest: Challenge of the Warlords - Revenge of the Plague Lord | 52686 | [52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json](./52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json) |
