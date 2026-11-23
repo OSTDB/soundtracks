@@ -5695,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Fury | 125434 | [125434-mask-of-fury.json](./125434-mask-of-fury.json) |
 | Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
+| Mask of Mists | 128299 | [128299-mask-of-mists.json](./128299-mask-of-mists.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
 | Mask of Semblance | 105459 | [105459-mask-of-semblance.json](./105459-mask-of-semblance.json) |
 | Mask of Soul | 390325 | [390325-mask-of-soul.json](./390325-mask-of-soul.json) |
@@ -7095,6 +7096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Duck | 424485 | [424485-mayhem-duck.json](./424485-mayhem-duck.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Heroes | 234528 | [234528-mayhem-heroes.json](./234528-mayhem-heroes.json) |
+| Mayhem in Single Valley | 116780 | [116780-mayhem-in-single-valley.json](./116780-mayhem-in-single-valley.json) |
 | Mayhem in Single Valley: Confessions | 133099 | [133099-mayhem-in-single-valley-confessions.json](./133099-mayhem-in-single-valley-confessions.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayhem Mail | 272746 | [272746-mayhem-mail.json](./272746-mayhem-mail.json) |
@@ -15231,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Slayer | 200860 | [200860-minion-slayer.json](./200860-minion-slayer.json) |
 | MiniOne Racing | 34989 | [34989-minione-racing.json](./34989-minione-racing.json) |
 | Minions | 59896 | [59896-minions.json](./59896-minions.json) |
+| Minions Battle | 116742 | [116742-minions-battle.json](./116742-minions-battle.json) |
 | Minions Movie Memory Matching | 335029 | [335029-minions-movie-memory-matching.json](./335029-minions-movie-memory-matching.json) |
 | Minions of Elden | 176423 | [176423-minions-of-elden.json](./176423-minions-of-elden.json) |
 | Minions of Elden Online | 170924 | [170924-minions-of-elden-online.json](./170924-minions-of-elden-online.json) |
@@ -15703,6 +15706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misa! | 88801 | [88801-misa.json](./88801-misa.json) |
 | Misadventure In Little Lon | 125425 | [125425-misadventure-in-little-lon.json](./125425-misadventure-in-little-lon.json) |
 | Misadventures in Piracy | 176755 | [176755-misadventures-in-piracy.json](./176755-misadventures-in-piracy.json) |
+| Misadventures of Laura Silver | 116285 | [116285-misadventures-of-laura-silver.json](./116285-misadventures-of-laura-silver.json) |
 | Misadventures of Laura Silver - Chapter II | 121771 | [121771-misadventures-of-laura-silver-chapter-ii.json](./121771-misadventures-of-laura-silver-chapter-ii.json) |
 | Misaki's Deduction 2: The Sweet Island Murder Case | 404265 | [404265-misakis-deduction-2-the-sweet-island-murder-case.json](./404265-misakis-deduction-2-the-sweet-island-murder-case.json) |
 | Misako 37-sai: Doutei Daigakusei x Futsuu no Shufu | 82998 | [82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json](./82998-misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.json) |
