@@ -15873,6 +15873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area Man Lives | 201728 | [201728-area-man-lives.json](./201728-area-man-lives.json) |
 | Area of Darkness: Sentinel | 114466 | [114466-area-of-darkness-sentinel.json](./114466-area-of-darkness-sentinel.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
+| Area Wars | 429411 | [429411-area-wars.json](./429411-area-wars.json) |
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | Area: Zero | 221151 | [221151-area-zero.json](./221151-area-zero.json) |
@@ -20669,6 +20670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automate Death | 429360 | [429360-automate-death.json](./429360-automate-death.json) |
 | Automate Defend Repeat | 258069 | [258069-automate-defend-repeat.json](./258069-automate-defend-repeat.json) |
 | Automate It | 295288 | [295288-automate-it.json](./295288-automate-it.json) |
+| Automatic Eltron | 429438 | [429438-automatic-eltron.json](./429438-automatic-eltron.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
 | Automatic Kingdom | 347015 | [347015-automatic-kingdom.json](./347015-automatic-kingdom.json) |
 | Automatic RP‪G | 144172 | [144172-automatic-rp-g.json](./144172-automatic-rp-g.json) |
