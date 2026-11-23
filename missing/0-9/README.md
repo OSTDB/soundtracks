@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30th Century Post Office | 28304 | [28304-30th-century-post-office.json](./28304-30th-century-post-office.json) |
 | 30XX | 129944 | [129944-30xx.json](./129944-30xx.json) |
+| 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 | 83702 | [83702-31.json](./83702-31.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
 | 31 Minutos The Game | 298745 | [298745-31-minutos-the-game.json](./298745-31-minutos-the-game.json) |
