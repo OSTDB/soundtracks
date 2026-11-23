@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Roll: Rewind | 198233 | [198233-end-roll-rewind.json](./198233-end-roll-rewind.json) |
 | End Sector | 296535 | [296535-end-sector.json](./296535-end-sector.json) |
 | End Sleep | 140164 | [140164-end-sleep.json](./140164-end-sleep.json) |
+| End Space | 69415 | [69415-end-space.json](./69415-end-space.json) |
 | End State | 77337 | [77337-end-state.json](./77337-end-state.json) |
 | End the Endless | 338716 | [338716-end-the-endless.json](./338716-end-the-endless.json) |
 | End The World | 272433 | [272433-end-the-world.json](./272433-end-the-world.json) |
@@ -9127,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist: Reviewer of Minds | 308730 | [308730-exorcist-reviewer-of-minds.json](./308730-exorcist-reviewer-of-minds.json) |
 | Exorcist: Survival Horror | 366207 | [366207-exorcist-survival-horror.json](./366207-exorcist-survival-horror.json) |
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
+| Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
 | Exorkízein | 297828 | [297828-exorkizein.json](./297828-exorkizein.json) |
 | Exorsister | 67579 | [67579-exorsister.json](./67579-exorsister.json) |
