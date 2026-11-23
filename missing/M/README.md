@@ -5095,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Base Alley | 390237 | [390237-mars-base-alley.json](./390237-mars-base-alley.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
 | Mars Blade | 245228 | [245228-mars-blade.json](./245228-mars-blade.json) |
+| Mars Bot Battle | 428032 | [428032-mars-bot-battle.json](./428032-mars-bot-battle.json) |
 | Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
 | Mars Colonization | 243548 | [243548-mars-colonization.json](./243548-mars-colonization.json) |
@@ -7163,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 77803 | [77803-maze.json](./77803-maze.json) |
 | Maze / Break | 233803 | [233803-maze-break.json](./233803-maze-break.json) |
 | Maze 100 | 232580 | [232580-maze-100.json](./232580-maze-100.json) |
+| Maze 1211 | 427621 | [427621-maze-1211.json](./427621-maze-1211.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 3D | 113478 | [113478-maze-3d.json](./113478-maze-3d.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
@@ -15753,6 +15755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mischief Makers | 3412 | [3412-mischief-makers.json](./3412-mischief-makers.json) |
 | Mischief Makers Online | 206857 | [206857-mischief-makers-online.json](./206857-mischief-makers-online.json) |
 | Mischief Mandarin | 412790 | [412790-mischief-mandarin.json](./412790-mischief-mandarin.json) |
+| Mischief Monster: A World of Pranks | 428051 | [428051-mischief-monster-a-world-of-pranks.json](./428051-mischief-monster-a-world-of-pranks.json) |
 | Mischief Motors | 294130 | [294130-mischief-motors.json](./294130-mischief-motors.json) |
 | Mischief Moves In | 414166 | [414166-mischief-moves-in.json](./414166-mischief-moves-in.json) |
 | Mischief on Main Street | 105232 | [105232-mischief-on-main-street.json](./105232-mischief-on-main-street.json) |
