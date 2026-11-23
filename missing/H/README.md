@@ -2044,7 +2044,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Time Circus | 262576 | [262576-happy-time-circus.json](./262576-happy-time-circus.json) |
 | Happy Time Circus II | 262577 | [262577-happy-time-circus-ii.json](./262577-happy-time-circus-ii.json) |
-| Happy toys | 112779 | [112779-happy-toys.json](./112779-happy-toys.json) |
 | Happy Tractor | 96407 | [96407-happy-tractor.json](./96407-happy-tractor.json) |
 | Happy Trails | 23685 | [23685-happy-trails.json](./23685-happy-trails.json) |
 | Happy Train | 100644 | [100644-happy-train.json](./100644-happy-train.json) |
@@ -3894,7 +3893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Metal | 157287 | [157287-heart-of-metal.json](./157287-heart-of-metal.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
-| Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
 | Heart of Muriet | 143361 | [143361-heart-of-muriet.json](./143361-heart-of-muriet.json) |
 | Heart of Mycelium | 347595 | [347595-heart-of-mycelium.json](./347595-heart-of-mycelium.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
@@ -3916,7 +3914,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Fox | 299064 | [299064-heart-of-the-fox.json](./299064-heart-of-the-fox.json) |
 | Heart of the Hedgehog | 330288 | [330288-heart-of-the-hedgehog.json](./330288-heart-of-the-hedgehog.json) |
 | Heart of the Killer | 238576 | [238576-heart-of-the-killer.json](./238576-heart-of-the-killer.json) |
-| Heart of the Kingdom: Rebellion | 112824 | [112824-heart-of-the-kingdom-rebellion.json](./112824-heart-of-the-kingdom-rebellion.json) |
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Machine: Kinship | 430392 | [430392-heart-of-the-machine-kinship.json](./430392-heart-of-the-machine-kinship.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
@@ -5622,7 +5619,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Shadow | 411202 | [411202-hentai-age-shadow.json](./411202-hentai-age-shadow.json) |
 | Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
-| Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Aim Puzzle | 260437 | [260437-hentai-aim-puzzle.json](./260437-hentai-aim-puzzle.json) |
 | Hentai Aim Trainer | 147539 | [147539-hentai-aim-trainer.json](./147539-hentai-aim-trainer.json) |
@@ -5875,7 +5871,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
 | Hentai GIF Puzzle X | 367070 | [367070-hentai-gif-puzzle-x.json](./367070-hentai-gif-puzzle-x.json) |
 | Hentai Girl | 107887 | [107887-hentai-girl.json](./107887-hentai-girl.json) |
-| Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Clicker | 158403 | [158403-hentai-girl-clicker.json](./158403-hentai-girl-clicker.json) |
 | Hentai Girl Clicker | 343578 | [343578-hentai-girl-clicker.json](./343578-hentai-girl-clicker.json) |
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
@@ -6064,7 +6059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Karada | 286722 | [286722-hentai-karada.json](./286722-hentai-karada.json) |
 | Hentai Killer | 286394 | [286394-hentai-killer.json](./286394-hentai-killer.json) |
 | Hentai Killer: Girls & Chess | 151622 | [151622-hentai-killer-girls-and-chess.json](./151622-hentai-killer-girls-and-chess.json) |
-| Hentai Lady | 110742 | [110742-hentai-lady.json](./110742-hentai-lady.json) |
 | Hentai Ladyboy Ren | 367051 | [367051-hentai-ladyboy-ren.json](./367051-hentai-ladyboy-ren.json) |
 | Hentai Leaked!? Only for Fans | 232645 | [232645-hentai-leaked-only-for-fans.json](./232645-hentai-leaked-only-for-fans.json) |
 | Hentai Li Mei | 384691 | [384691-hentai-li-mei.json](./384691-hentai-li-mei.json) |
@@ -6309,7 +6303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shojo | 368002 | [368002-hentai-shojo.json](./368002-hentai-shojo.json) |
 | Hentai Shooter 2: World Tour | 292730 | [292730-hentai-shooter-2-world-tour.json](./292730-hentai-shooter-2-world-tour.json) |
 | Hentai Shooter 3D | 107768 | [107768-hentai-shooter-3d.json](./107768-hentai-shooter-3d.json) |
-| Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Simulator | 234970 | [234970-hentai-simulator.json](./234970-hentai-simulator.json) |
@@ -6443,7 +6436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Uniform | 296951 | [296951-hentai-uniform.json](./296951-hentai-uniform.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
-| Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Vampire | 284533 | [284533-hentai-vampire.json](./284533-hentai-vampire.json) |
@@ -6566,7 +6558,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentekorin | 229267 | [229267-hentekorin.json](./229267-hentekorin.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
-| HenTris 2: Shemales | 111209 | [111209-hentris-2-shemales.json](./111209-hentris-2-shemales.json) |
 | Heoeonjeung Sogaeting! 2 | 316040 | [316040-heoeonjeung-sogaeting-2.json](./316040-heoeonjeung-sogaeting-2.json) |
 | Heph | 30121 | [30121-heph.json](./30121-heph.json) |
 | Hephaestus Protocol | 421042 | [421042-hephaestus-protocol.json](./421042-hephaestus-protocol.json) |
@@ -8746,7 +8737,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
-| Hide Your Butts! | 113004 | [113004-hide-your-butts.json](./113004-hide-your-butts.json) |
 | Hide Zone | 374338 | [374338-hide-zone.json](./374338-hide-zone.json) |
 | Hide-a-neigh | 349189 | [349189-hide-a-neigh.json](./349189-hide-a-neigh.json) |
 | Hide-And-Seek | 86196 | [86196-hide-and-seek.json](./86196-hide-and-seek.json) |
@@ -10230,7 +10220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold On | 211023 | [211023-hold-on.json](./211023-hold-on.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
 | Hold or Die | 212110 | [212110-hold-or-die.json](./212110-hold-or-die.json) |
-| Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Dawn | 417080 | [417080-hold-the-dawn.json](./417080-hold-the-dawn.json) |
@@ -10611,7 +10600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloParade | 276842 | [276842-holoparade.json](./276842-holoparade.json) |
 | HoloParade: Deluxe Edition | 346003 | [346003-holoparade-deluxe-edition.json](./346003-holoparade-deluxe-edition.json) |
 | HoloParade: DLC with BGM and Costume - Shirakami Fubuki | 302580 | [302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json](./302580-holoparade-dlc-with-bgm-and-costume-shirakami-fubuki.json) |
-| Holopoint: Chronicle | 112808 | [112808-holopoint-chronicle.json](./112808-holopoint-chronicle.json) |
 | Holoquest | 180136 | [180136-holoquest.json](./180136-holoquest.json) |
 | HoloReality | 322160 | [322160-holoreality.json](./322160-holoreality.json) |
 | HoloRun | 361794 | [361794-holorun.json](./361794-holorun.json) |
@@ -11876,7 +11864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Game Creator | 422889 | [422889-horror-game-creator.json](./422889-horror-game-creator.json) |
 | Horror Game: Granny | 100232 | [100232-horror-game-granny.json](./100232-horror-game-granny.json) |
-| Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Globes | 140063 | [140063-horror-globes.json](./140063-horror-globes.json) |
 | Horror Golf | 423871 | [423871-horror-golf.json](./423871-horror-golf.json) |
@@ -13662,7 +13649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Resource Machine Deluxe | 136844 | [136844-human-resource-machine-deluxe.json](./136844-human-resource-machine-deluxe.json) |
 | Human Resources | 406958 | [406958-human-resources.json](./406958-human-resources.json) |
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
-| Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Sacrifice | 115817 | [115817-human-sacrifice.json](./115817-human-sacrifice.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
 | Human Shaped | 399552 | [399552-human-shaped.json](./399552-human-shaped.json) |
@@ -14218,7 +14204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
 | Hunting Simulator 2: Elite Edition | 164716 | [164716-hunting-simulator-2-elite-edition.json](./164716-hunting-simulator-2-elite-edition.json) |
 | Hunting Simulator 3 | 323189 | [323189-hunting-simulator-3.json](./323189-hunting-simulator-3.json) |
-| Hunting Simulator VR | 112682 | [112682-hunting-simulator-vr.json](./112682-hunting-simulator-vr.json) |
 | Hunting Sniper | 296765 | [296765-hunting-sniper.json](./296765-hunting-sniper.json) |
 | Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting the Hunter | 370994 | [370994-hunting-the-hunter.json](./370994-hunting-the-hunter.json) |
@@ -15014,7 +14999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Twilight Princess Pack | 95040 | [95040-hyrule-warriors-twilight-princess-pack.json](./95040-hyrule-warriors-twilight-princess-pack.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
 | Hyspherical 2 | 34509 | [34509-hyspherical-2.json](./34509-hyspherical-2.json) |
-| Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria in Howlsbend | 264396 | [264396-hysteria-in-howlsbend.json](./264396-hysteria-in-howlsbend.json) |
