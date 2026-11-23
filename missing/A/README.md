@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Ramen | 387272 | [387272-a-game-about-ramen.json](./387272-a-game-about-ramen.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
+| A Game About Shooting Targets | 425063 | [425063-a-game-about-shooting-targets.json](./425063-a-game-about-shooting-targets.json) |
 | A Game About Sucking (Up Ghosts With a Vacuum) | 402671 | [402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json](./402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json) |
 | A Game About Typing The Alphabet | 350726 | [350726-a-game-about-typing-the-alphabet.json](./350726-a-game-about-typing-the-alphabet.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
@@ -9586,6 +9587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altorius | 121859 | [121859-altorius.json](./121859-altorius.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
+| Altstadt | 426278 | [426278-altstadt.json](./426278-altstadt.json) |
 | Altus 24 | 22168 | [22168-altus-24.json](./22168-altus-24.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
 | Altwaldheim 2: Town in Trouble | 240604 | [240604-altwaldheim-2-town-in-trouble.json](./240604-altwaldheim-2-town-in-trouble.json) |
@@ -15213,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade vs Player | 223410 | [223410-arcade-vs-player.json](./223410-arcade-vs-player.json) |
 | Arcade Waifu | 212841 | [212841-arcade-waifu.json](./212841-arcade-waifu.json) |
 | Arcade Warlord | 425580 | [425580-arcade-warlord.json](./425580-arcade-warlord.json) |
+| Arcade World Cups | 426282 | [426282-arcade-world-cups.json](./426282-arcade-world-cups.json) |
 | Arcade Zone | 50742 | [50742-arcade-zone.json](./50742-arcade-zone.json) |
 | Arcade ZX Collection: Anteater | 304195 | [304195-arcade-zx-collection-anteater.json](./304195-arcade-zx-collection-anteater.json) |
 | Arcade ZX Collection: Botanic | 304194 | [304194-arcade-zx-collection-botanic.json](./304194-arcade-zx-collection-botanic.json) |
@@ -15642,6 +15645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architecture Zeitgeist | 249770 | [249770-architecture-zeitgeist.json](./249770-architecture-zeitgeist.json) |
 | Architectus | 160270 | [160270-architectus.json](./160270-architectus.json) |
 | Architekt | 332180 | [332180-architekt.json](./332180-architekt.json) |
+| Archival Security | 425062 | [425062-archival-security.json](./425062-archival-security.json) |
 | Archive 1985 | 276249 | [276249-archive-1985.json](./276249-archive-1985.json) |
 | Archive Fever | 369449 | [369449-archive-fever.json](./369449-archive-fever.json) |
 | Archive: Zero | 367102 | [367102-archive-zero.json](./367102-archive-zero.json) |
@@ -15815,6 +15819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
+| Are You AI? | 426296 | [426296-are-you-ai.json](./426296-are-you-ai.json) |
 | Are You Alice? | 63417 | [63417-are-you-alice.json](./63417-are-you-alice.json) |
 | Are You Alone? | 342534 | [342534-are-you-alone.json](./342534-are-you-alone.json) |
 | Are You Alone? | 90324 | [90324-are-you-alone.json](./90324-are-you-alone.json) |
