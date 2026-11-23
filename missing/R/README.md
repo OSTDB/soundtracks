@@ -12982,6 +12982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotfront | 404800 | [404800-rotfront.json](./404800-rotfront.json) |
 | Rotgut | 350301 | [350301-rotgut.json](./350301-rotgut.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
+| RotHeart | 426986 | [426986-rotheart.json](./426986-rotheart.json) |
 | RoThings | 227951 | [227951-rothings.json](./227951-rothings.json) |
 | Rothschild: The Sheep Will Wake | 34136 | [34136-rothschild-the-sheep-will-wake.json](./34136-rothschild-the-sheep-will-wake.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
