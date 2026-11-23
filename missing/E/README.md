@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
 | Eelbay | 259326 | [259326-eelbay.json](./259326-eelbay.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
+| EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
 | EEP 12 | 405305 | [405305-eep-12.json](./405305-eep-12.json) |
 | EEP 13 | 30969 | [30969-eep-13.json](./30969-eep-13.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
@@ -3032,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elisa Dragon Hunter | 192527 | [192527-elisa-dragon-hunter.json](./192527-elisa-dragon-hunter.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elisa: the Innkeeper | 29916 | [29916-elisa-the-innkeeper.json](./29916-elisa-the-innkeeper.json) |
+| Elisa: The Innkeeper - Prequel | 32622 | [32622-elisa-the-innkeeper-prequel.json](./32622-elisa-the-innkeeper-prequel.json) |
 | Elisabeth I. | 94444 | [94444-elisabeth-i.json](./94444-elisabeth-i.json) |
 | Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
