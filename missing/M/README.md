@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
 | Magic School Story | 241811 | [241811-magic-school-story.json](./241811-magic-school-story.json) |
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
+| Magic Scroll Tactics | 96946 | [96946-magic-scroll-tactics.json](./96946-magic-scroll-tactics.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
 | Magic Sexyland | 190791 | [190791-magic-sexyland.json](./190791-magic-sexyland.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
@@ -4924,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marisa to 6tsu no Kinoko: New Super Marisa Land | 94145 | [94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json](./94145-marisa-to-6tsu-no-kinoko-new-super-marisa-land.json) |
 | Marisa! Return The Book! | 371017 | [371017-marisa-return-the-book.json](./371017-marisa-return-the-book.json) |
 | Marisa's Inconceivable Journey | 190946 | [190946-marisas-inconceivable-journey.json](./190946-marisas-inconceivable-journey.json) |
+| MarisaLand Legacy | 111204 | [111204-marisaland-legacy.json](./111204-marisaland-legacy.json) |
 | Marissa Is Now Idle | 215222 | [215222-marissa-is-now-idle.json](./215222-marissa-is-now-idle.json) |
 | Maristice | 222627 | [222627-maristice.json](./222627-maristice.json) |
 | Maritime Calling | 155978 | [155978-maritime-calling.json](./155978-maritime-calling.json) |
@@ -10850,6 +10852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Games Pixel Bundle | 274421 | [274421-merge-games-pixel-bundle.json](./274421-merge-games-pixel-bundle.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Gardens | 227368 | [227368-merge-gardens.json](./227368-merge-gardens.json) |
+| Merge Gems! | 97154 | [97154-merge-gems.json](./97154-merge-gems.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
 | Merge Grabber | 216040 | [216040-merge-grabber.json](./216040-merge-grabber.json) |
 | Merge Hamster | 326860 | [326860-merge-hamster.json](./326860-merge-hamster.json) |
@@ -11019,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Crisis | 399247 | [399247-merry-crisis.json](./399247-merry-crisis.json) |
 | Merry Gear Solid 2: Ghosts of Christmas Past | 91648 | [91648-merry-gear-solid-2-ghosts-of-christmas-past.json](./91648-merry-gear-solid-2-ghosts-of-christmas-past.json) |
 | Merry Gear Solid: Secret Santa | 76129 | [76129-merry-gear-solid-secret-santa.json](./76129-merry-gear-solid-secret-santa.json) |
+| Merry Glade | 98698 | [98698-merry-glade.json](./98698-merry-glade.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
 | Merry Snowballs | 27016 | [27016-merry-snowballs.json](./27016-merry-snowballs.json) |
