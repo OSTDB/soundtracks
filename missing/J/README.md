@@ -3555,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
 | Jukebox | 40891 | [40891-jukebox.json](./40891-jukebox.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
+| Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
 | Julens Hjältar | 399388 | [399388-julens-hjaltar.json](./399388-julens-hjaltar.json) |
 | Juler's Mod | 411223 | [411223-julers-mod.json](./411223-julers-mod.json) |
