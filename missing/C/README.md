@@ -9752,6 +9752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
 | Chronicle of Infinity | 194117 | [194117-chronicle-of-infinity.json](./194117-chronicle-of-infinity.json) |
+| Chronicle of Innsmouth | 28527 | [28527-chronicle-of-innsmouth.json](./28527-chronicle-of-innsmouth.json) |
 | Chronicle of Innsmouth: Mountains of Madness | 111277 | [111277-chronicle-of-innsmouth-mountains-of-madness.json](./111277-chronicle-of-innsmouth-mountains-of-madness.json) |
 | Chronicle of Scarlet | 371792 | [371792-chronicle-of-scarlet.json](./371792-chronicle-of-scarlet.json) |
 | Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
@@ -15645,6 +15646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
+| Conductor | 28508 | [28508-conductor.json](./28508-conductor.json) |
 | Conductor & Abode | 52831 | [52831-conductor-and-abode.json](./52831-conductor-and-abode.json) |
 | Conductor Cat | 335364 | [335364-conductor-cat.json](./335364-conductor-cat.json) |
 | Conductor Destructor | 182038 | [182038-conductor-destructor.json](./182038-conductor-destructor.json) |
@@ -16812,6 +16814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle Elite Edition | 404275 | [404275-cooking-tycoons-3-in-1-bundle-elite-edition.json](./404275-cooking-tycoons-3-in-1-bundle-elite-edition.json) |
 | Cooking Tycoons: 3 in 1 Bundle The Ultimate Pizzeria | 386801 | [386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json](./386801-cooking-tycoons-3-in-1-bundle-the-ultimate-pizzeria.json) |
 | Cooking Voyage: Cook & Travel | 233494 | [233494-cooking-voyage-cook-and-travel.json](./233494-cooking-voyage-cook-and-travel.json) |
+| Cooking Witch | 28741 | [28741-cooking-witch.json](./28741-cooking-witch.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Belmont | 358612 | [358612-cooking-with-belmont.json](./358612-cooking-with-belmont.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
@@ -22654,6 +22657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cufflinks & Cages | 275872 | [275872-cufflinks-and-cages.json](./275872-cufflinks-and-cages.json) |
 | Cuisine Dimension | 112049 | [112049-cuisine-dimension.json](./112049-cuisine-dimension.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
+| Cuit | 28331 | [28331-cuit.json](./28331-cuit.json) |
 | Cukies World | 237319 | [237319-cukies-world.json](./237319-cukies-world.json) |
 | Cul-De-Sac | 288989 | [288989-cul-de-sac.json](./288989-cul-de-sac.json) |
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
