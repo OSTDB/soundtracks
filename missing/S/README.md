@@ -9060,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
 | She Danced in the Wind Like a Holographic Dream Before the World Died | 390004 | [390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json](./390004-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died.json) |
 | She Doesn't Know | 414834 | [414834-she-doesnt-know.json](./414834-she-doesnt-know.json) |
+| She Doesn't Speak My Language | 426269 | [426269-she-doesnt-speak-my-language.json](./426269-she-doesnt-speak-my-language.json) |
 | She Doesn't Walk | 156021 | [156021-she-doesnt-walk.json](./156021-she-doesnt-walk.json) |
 | She Dreams Elsewhere | 103080 | [103080-she-dreams-elsewhere.json](./103080-she-dreams-elsewhere.json) |
 | She Fell Off | 260160 | [260160-she-fell-off.json](./260160-she-fell-off.json) |
@@ -13078,6 +13079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Stock Trading Simulator | 275960 | [275960-simple-stock-trading-simulator.json](./275960-simple-stock-trading-simulator.json) |
 | Simple Story: Alex - Two Guys | 172132 | [172132-simple-story-alex-two-guys.json](./172132-simple-story-alex-two-guys.json) |
 | Simple Sudoku | 332756 | [332756-simple-sudoku.json](./332756-simple-sudoku.json) |
+| Simple Survivor | 426274 | [426274-simple-survivor.json](./426274-simple-survivor.json) |
 | Simple Tennis | 306018 | [306018-simple-tennis.json](./306018-simple-tennis.json) |
 | Simple Tower Defense | 259287 | [259287-simple-tower-defense.json](./259287-simple-tower-defense.json) |
 | Simple Trains | 214274 | [214274-simple-trains.json](./214274-simple-trains.json) |
@@ -19794,6 +19796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere | 271542 | [271542-somewhere.json](./271542-somewhere.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere Better | 145839 | [145839-somewhere-better.json](./145839-somewhere-better.json) |
+| Somewhere Else | 426262 | [426262-somewhere-else.json](./426262-somewhere-else.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
 | Somewhere in between | 235644 | [235644-somewhere-in-between.json](./235644-somewhere-in-between.json) |
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
@@ -27051,6 +27054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
 | Squabble | 189783 | [189783-squabble.json](./189783-squabble.json) |
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
+| Squabblin Goblins | 425064 | [425064-squabblin-goblins.json](./425064-squabblin-goblins.json) |
 | Squaby | 89578 | [89578-squaby.json](./89578-squaby.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
 | Squad 22: ZOV | 368503 | [368503-squad-22-zov.json](./368503-squad-22-zov.json) |
@@ -35534,6 +35538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
 | Super Battle Racers | 344895 | [344895-super-battle-racers.json](./344895-super-battle-racers.json) |
+| Super Battle Royale | 426284 | [426284-super-battle-royale.json](./426284-super-battle-royale.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Battle Skin Panic | 67404 | [67404-super-battle-skin-panic.json](./67404-super-battle-skin-panic.json) |
 | Super Battleship | 46270 | [46270-super-battleship.json](./46270-super-battleship.json) |
