@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q | 80330 | [80330-q.json](./80330-q.json) |
+| Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
 | Q Collection | 400202 | [400202-q-collection.json](./400202-q-collection.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
