@@ -4977,6 +4977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Reception | 331610 | [331610-night-reception.json](./331610-night-reception.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
 | Night Revenge | 427451 | [427451-night-revenge.json](./427451-night-revenge.json) |
+| Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
 | Night Road | 131837 | [131837-night-road.json](./131837-night-road.json) |
 | Night Rogue | 149142 | [149142-night-rogue.json](./149142-night-rogue.json) |
 | Night Run | 236526 | [236526-night-run.json](./236526-night-run.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh 2: Digital Deluxe Edition | 221056 | [221056-nioh-2-digital-deluxe-edition.json](./221056-nioh-2-digital-deluxe-edition.json) |
 | Nioh 2: Special Edition | 136139 | [136139-nioh-2-special-edition.json](./136139-nioh-2-special-edition.json) |
 | Nioh 2: The Complete Edition | 140972 | [140972-nioh-2-the-complete-edition.json](./140972-nioh-2-the-complete-edition.json) |
+| Nioh 2: The First Samurai | 140054 | [140054-nioh-2-the-first-samurai.json](./140054-nioh-2-the-first-samurai.json) |
 | Nioh 2: The Tengu's Disciple | 136497 | [136497-nioh-2-the-tengus-disciple.json](./136497-nioh-2-the-tengus-disciple.json) |
 | Nioh 3 Season Pass | 411636 | [411636-nioh-3-season-pass.json](./411636-nioh-3-season-pass.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
