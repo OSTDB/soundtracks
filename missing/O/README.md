@@ -5056,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshidashi Zintrick | 282519 | [282519-oshidashi-zintrick.json](./282519-oshidashi-zintrick.json) |
+| Oshiete Miko Sensei | 429294 | [429294-oshiete-miko-sensei.json](./429294-oshiete-miko-sensei.json) |
 | Oshiete! Popotan | 411405 | [411405-oshiete-popotan.json](./411405-oshiete-popotan.json) |
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
