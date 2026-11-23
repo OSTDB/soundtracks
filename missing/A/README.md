@@ -19655,6 +19655,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athanor | 39072 | [39072-athanor.json](./39072-athanor.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
+| Athelas: The Lord of the Rings - The Return of the King | 426922 | [426922-athelas-the-lord-of-the-rings-the-return-of-the-king.json](./426922-athelas-the-lord-of-the-rings-the-return-of-the-king.json) |
+| Athelas: The Lord of the Rings - The Third Age | 426924 | [426924-athelas-the-lord-of-the-rings-the-third-age.json](./426924-athelas-the-lord-of-the-rings-the-third-age.json) |
+| Athelas: The Lord of the Rings - The Two Towers | 426923 | [426923-athelas-the-lord-of-the-rings-the-two-towers.json](./426923-athelas-the-lord-of-the-rings-the-two-towers.json) |
 | Athemore | 184147 | [184147-athemore.json](./184147-athemore.json) |
 | Athena | 273076 | [273076-athena.json](./273076-athena.json) |
 | Athena | 273077 | [273077-athena.json](./273077-athena.json) |
