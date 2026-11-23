@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Warrior R | 392084 | [392084-gem-warrior-r.json](./392084-gem-warrior-r.json) |
 | Gem Wars: Attack of the Jiblets | 35242 | [35242-gem-wars-attack-of-the-jiblets.json](./35242-gem-wars-attack-of-the-jiblets.json) |
 | Gem Wizard | 273489 | [273489-gem-wizard.json](./273489-gem-wizard.json) |
+| Gem Wizards Tactics | 142742 | [142742-gem-wizards-tactics.json](./142742-gem-wizards-tactics.json) |
 | Gem Worlds | 190026 | [190026-gem-worlds.json](./190026-gem-worlds.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
@@ -10946,6 +10947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimgig Railway | 322156 | [322156-grimgig-railway.json](./322156-grimgig-railway.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
+| GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Deluxe Edition | 216577 | [216577-grimgrimoire-oncemore-deluxe-edition.json](./216577-grimgrimoire-oncemore-deluxe-edition.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
