@@ -4892,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittycat Couture | 399419 | [399419-kittycat-couture.json](./399419-kittycat-couture.json) |
 | KittyClinic | 182594 | [182594-kittyclinic.json](./182594-kittyclinic.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
+| Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
 | KittyRope | 422849 | [422849-kittyrope.json](./422849-kittyrope.json) |
 | KittyToy | 306605 | [306605-kittytoy.json](./306605-kittytoy.json) |
