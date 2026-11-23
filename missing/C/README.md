@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cactus Cowboy: Plants at War | 199490 | [199490-cactus-cowboy-plants-at-war.json](./199490-cactus-cowboy-plants-at-war.json) |
 | Cactus Jumper | 84089 | [84089-cactus-jumper.json](./84089-cactus-jumper.json) |
+| Cactus League Professional Basketball 7 | 23778 | [23778-cactus-league-professional-basketball-7.json](./23778-cactus-league-professional-basketball-7.json) |
 | Cactus Mayhem | 180161 | [180161-cactus-mayhem.json](./180161-cactus-mayhem.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
 | Cactus Out of Place | 176158 | [176158-cactus-out-of-place.json](./176158-cactus-out-of-place.json) |
@@ -7210,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot Wars | 35397 | [35397-chariot-wars.json](./35397-chariot-wars.json) |
 | Chariot: Adventure Through the Sky | 361331 | [361331-chariot-adventure-through-the-sky.json](./361331-chariot-adventure-through-the-sky.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
+| Chariots of War | 23708 | [23708-chariots-of-war.json](./23708-chariots-of-war.json) |
 | Chariots of Wrath | 14617 | [14617-chariots-of-wrath.json](./14617-chariots-of-wrath.json) |
 | Charisma | 313445 | [313445-charisma.json](./313445-charisma.json) |
 | Charles | 239990 | [239990-charles.json](./239990-charles.json) |
@@ -7254,6 +7256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlie's Angels | 228920 | [228920-charlies-angels.json](./228920-charlies-angels.json) |
 | Charlie's Angels | 84336 | [84336-charlies-angels.json](./84336-charlies-angels.json) |
 | Charlie's Angels: Angel X | 206920 | [206920-charlies-angels-angel-x.json](./206920-charlies-angels-angel-x.json) |
+| Charlie's Angels: Road Cyclone | 23757 | [23757-charlies-angels-road-cyclone.json](./23757-charlies-angels-road-cyclone.json) |
 | Charlie's Conscious | 110638 | [110638-charlies-conscious.json](./110638-charlies-conscious.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charlotte | 95227 | [95227-charlotte.json](./95227-charlotte.json) |
@@ -7859,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 4 Uzebox | 311361 | [311361-chess-4-uzebox.json](./311361-chess-4-uzebox.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess Ace | 147861 | [147861-chess-ace.json](./147861-chess-ace.json) |
+| Chess Advantage III | 23741 | [23741-chess-advantage-iii.json](./23741-chess-advantage-iii.json) |
 | Chess and Dungeons | 186195 | [186195-chess-and-dungeons.json](./186195-chess-and-dungeons.json) |
 | Chess Arena | 117818 | [117818-chess-arena.json](./117818-chess-arena.json) |
 | Chess Arena | 373648 | [373648-chess-arena.json](./373648-chess-arena.json) |
@@ -10509,6 +10513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
 | Circus Interstellar | 80745 | [80745-circus-interstellar.json](./80745-circus-interstellar.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
+| Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circus of Death | 321106 | [321106-circus-of-death.json](./321106-circus-of-death.json) |
 | Circus of Pain | 349055 | [349055-circus-of-pain.json](./349055-circus-of-pain.json) |
@@ -14743,6 +14748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Cold War | 144154 | [144154-combat-mission-cold-war.json](./144154-combat-mission-cold-war.json) |
 | Combat Mission Fortress Italy: Gustav Line | 266386 | [266386-combat-mission-fortress-italy-gustav-line.json](./266386-combat-mission-fortress-italy-gustav-line.json) |
 | Combat Mission Fortress Italy: Rome to Victory | 266384 | [266384-combat-mission-fortress-italy-rome-to-victory.json](./266384-combat-mission-fortress-italy-rome-to-victory.json) |
+| Combat Mission II: Barbarossa to Berlin | 23748 | [23748-combat-mission-ii-barbarossa-to-berlin.json](./23748-combat-mission-ii-barbarossa-to-berlin.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission Shock Force 2: NATO Forces | 170371 | [170371-combat-mission-shock-force-2-nato-forces.json](./170371-combat-mission-shock-force-2-nato-forces.json) |
 | Combat Mission: Afrika Korps | 52517 | [52517-combat-mission-afrika-korps.json](./52517-combat-mission-afrika-korps.json) |
@@ -19442,6 +19448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
 | Crazy Chicken: Invasion | 35996 | [35996-crazy-chicken-invasion.json](./35996-crazy-chicken-invasion.json) |
 | Crazy Chicken: Jewel of Darkness | 69076 | [69076-crazy-chicken-jewel-of-darkness.json](./69076-crazy-chicken-jewel-of-darkness.json) |
+| Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Remake | 282453 | [282453-crazy-chicken-remake.json](./282453-crazy-chicken-remake.json) |
 | Crazy Chicken: Remake | 282454 | [282454-crazy-chicken-remake.json](./282454-crazy-chicken-remake.json) |
@@ -22988,6 +22995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Argentum | 360329 | [360329-curse-of-argentum.json](./360329-curse-of-argentum.json) |
 | Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
 | Curse of Aros | 124372 | [124372-curse-of-aros.json](./124372-curse-of-aros.json) |
+| Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Babylon | 283360 | [283360-curse-of-babylon.json](./283360-curse-of-babylon.json) |
 | Curse of Baghdad | 428288 | [428288-curse-of-baghdad.json](./428288-curse-of-baghdad.json) |
 | Curse of Black Bone | 211873 | [211873-curse-of-black-bone.json](./211873-curse-of-black-bone.json) |
