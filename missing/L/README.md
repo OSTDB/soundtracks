@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Fantasy | 37944 | [37944-light-fantasy.json](./37944-light-fantasy.json) |
 | Light Fantasy II | 37943 | [37943-light-fantasy-ii.json](./37943-light-fantasy-ii.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
+| Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Flipper | 424939 | [424939-light-flipper.json](./424939-light-flipper.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light For Plants | 149273 | [149273-light-for-plants.json](./149273-light-for-plants.json) |
