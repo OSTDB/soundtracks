@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogi Bear and Friends in the Greed Monster | 196222 | [196222-yogi-bear-and-friends-in-the-greed-monster.json](./196222-yogi-bear-and-friends-in-the-greed-monster.json) |
 | Yogi Bear in Yogi Bear's Goldrush | 46299 | [46299-yogi-bear-in-yogi-bears-goldrush.json](./46299-yogi-bear-in-yogi-bears-goldrush.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
+| Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
 | Yogi Bear's Math Adventures | 70179 | [70179-yogi-bears-math-adventures.json](./70179-yogi-bears-math-adventures.json) |
 | Yogi's Big Clean Up | 70069 | [70069-yogis-big-clean-up.json](./70069-yogis-big-clean-up.json) |
 | Yogi's Frustration | 41460 | [41460-yogis-frustration.json](./41460-yogis-frustration.json) |
