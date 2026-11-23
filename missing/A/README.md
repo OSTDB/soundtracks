@@ -9585,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altorius | 121859 | [121859-altorius.json](./121859-altorius.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
+| AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
 | Altstadt | 426278 | [426278-altstadt.json](./426278-altstadt.json) |
 | Altus 24 | 22168 | [22168-altus-24.json](./22168-altus-24.json) |
 | Altushka + | 368073 | [368073-altushka.json](./368073-altushka.json) |
@@ -10606,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
 | Amped: Freestyle Snowboarding | 5484 | [5484-amped-freestyle-snowboarding.json](./5484-amped-freestyle-snowboarding.json) |
 | Ampere | 202265 | [202265-ampere.json](./202265-ampere.json) |
+| Ampersand | 34273 | [34273-ampersand.json](./34273-ampersand.json) |
 | Ampersat | 144065 | [144065-ampersat.json](./144065-ampersat.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
@@ -15934,6 +15936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena Football '95 | 270269 | [270269-arena-football-95.json](./270269-arena-football-95.json) |
 | Arena Football: Road to Glory | 17276 | [17276-arena-football-road-to-glory.json](./17276-arena-football-road-to-glory.json) |
+| Arena Gods | 34267 | [34267-arena-gods.json](./34267-arena-gods.json) |
 | Arena II | 359082 | [359082-arena-ii.json](./359082-arena-ii.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
@@ -19192,6 +19195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrowar | 11127 | [11127-astrowar.json](./11127-astrowar.json) |
 | AstroWings: Space War | 147656 | [147656-astrowings-space-war.json](./147656-astrowings-space-war.json) |
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
+| Astrox: Hostile Space Excavation | 34133 | [34133-astrox-hostile-space-excavation.json](./34133-astrox-hostile-space-excavation.json) |
 | Astrozombies | 138617 | [138617-astrozombies.json](./138617-astrozombies.json) |
 | Astrozone | 104240 | [104240-astrozone.json](./104240-astrozone.json) |
 | Astrum Vanguard | 310299 | [310299-astrum-vanguard.json](./310299-astrum-vanguard.json) |
