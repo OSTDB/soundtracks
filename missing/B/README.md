@@ -8319,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFDI: Four's Kitchen | 385942 | [385942-bfdi-fours-kitchen.json](./385942-bfdi-fours-kitchen.json) |
 | BFDIA 5b | 191631 | [191631-bfdia-5b.json](./191631-bfdia-5b.json) |
+| BFF or Die | 94044 | [94044-bff-or-die.json](./94044-bff-or-die.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BFI | 138331 | [138331-bfi.json](./138331-bfi.json) |
 | BFRIS Zero Gravity Fighter Combat | 85985 | [85985-bfris-zero-gravity-fighter-combat.json](./85985-bfris-zero-gravity-fighter-combat.json) |
@@ -12686,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: Revelations | 127929 | [127929-blood-ii-revelations.json](./127929-blood-ii-revelations.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
+| Blood II: The Chosen + Expansion | 93645 | [93645-blood-ii-the-chosen-expansion.json](./93645-blood-ii-the-chosen-expansion.json) |
 | Blood Impact | 173003 | [173003-blood-impact.json](./173003-blood-impact.json) |
 | Blood in Baldur's Gate | 274016 | [274016-blood-in-baldurs-gate.json](./274016-blood-in-baldurs-gate.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
