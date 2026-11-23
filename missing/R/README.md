@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Heights | 96239 | [96239-radical-heights.json](./96239-radical-heights.json) |
 | Radical Heroes: Crimson City Crisis | 31630 | [31630-radical-heroes-crimson-city-crisis.json](./31630-radical-heroes-crimson-city-crisis.json) |
 | Radical Problems | 316114 | [316114-radical-problems.json](./316114-radical-problems.json) |
+| Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
 | Radical Radial | 40088 | [40088-radical-radial.json](./40088-radical-radial.json) |
 | Radical Rappelling | 336324 | [336324-radical-rappelling.json](./336324-radical-rappelling.json) |
@@ -13150,6 +13151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rove: The Wanderer's Tale | 192720 | [192720-rove-the-wanderers-tale.json](./192720-rove-the-wanderers-tale.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
 | Rover Mechanic Challenge: ERC Competition | 168754 | [168754-rover-mechanic-challenge-erc-competition.json](./168754-rover-mechanic-challenge-erc-competition.json) |
+| Rover Mechanic Simulator | 128193 | [128193-rover-mechanic-simulator.json](./128193-rover-mechanic-simulator.json) |
 | Rover Mechanic Simulator: Perseverance Rover | 170991 | [170991-rover-mechanic-simulator-perseverance-rover.json](./170991-rover-mechanic-simulator-perseverance-rover.json) |
 | Rover Operator | 197435 | [197435-rover-operator.json](./197435-rover-operator.json) |
 | Rover Rescue | 10787 | [10787-rover-rescue.json](./10787-rover-rescue.json) |
