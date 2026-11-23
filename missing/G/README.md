@@ -3806,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
 | Geophobia | 271307 | [271307-geophobia.json](./271307-geophobia.json) |
+| Geoplanetical | 428859 | [428859-geoplanetical.json](./428859-geoplanetical.json) |
 | Geopod XE | 93384 | [93384-geopod-xe.json](./93384-geopod-xe.json) |
 | Geopoesis: Eos | 197782 | [197782-geopoesis-eos.json](./197782-geopoesis-eos.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
