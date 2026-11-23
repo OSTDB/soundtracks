@@ -2562,7 +2562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Hentai! | 368516 | [368516-banzai-hentai.json](./368516-banzai-hentai.json) |
 | Banzai Mario World | 132855 | [132855-banzai-mario-world.json](./132855-banzai-mario-world.json) |
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
-| Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
 | Banzai Run | 85772 | [85772-banzai-run.json](./85772-banzai-run.json) |
 | Banzai's Addon | 276374 | [276374-banzais-addon.json](./276374-banzais-addon.json) |
 | Banzo: Marks of Slavery | 105199 | [105199-banzo-marks-of-slavery.json](./105199-banzo-marks-of-slavery.json) |
@@ -7655,7 +7654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bernd das Brot und die Unmöglichen | 129882 | [129882-bernd-das-brot-und-die-unmoglichen.json](./129882-bernd-das-brot-und-die-unmoglichen.json) |
 | Berney Must Die | 411782 | [411782-berney-must-die.json](./411782-berney-must-die.json) |
 | Bernie Needs Love | 35168 | [35168-bernie-needs-love.json](./35168-bernie-needs-love.json) |
-| Bernie's Nightmare | 105586 | [105586-bernies-nightmare.json](./105586-bernies-nightmare.json) |
 | Berries Challenge | 159830 | [159830-berries-challenge.json](./159830-berries-challenge.json) |
 | Berry | 193250 | [193250-berry.json](./193250-berry.json) |
 | Berry Barrel Blitz | 302766 | [302766-berry-barrel-blitz.json](./302766-berry-barrel-blitz.json) |
@@ -8009,7 +8007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beware of the Bad Seed | 90504 | [90504-beware-of-the-bad-seed.json](./90504-beware-of-the-bad-seed.json) |
 | Beware of the Black Fleet | 24301 | [24301-beware-of-the-black-fleet.json](./24301-beware-of-the-black-fleet.json) |
 | Beware of the Blob | 137652 | [137652-beware-of-the-blob.json](./137652-beware-of-the-blob.json) |
-| Beware of Trains | 105583 | [105583-beware-of-trains.json](./105583-beware-of-trains.json) |
 | Beware the Bully Redux | 211451 | [211451-beware-the-bully-redux.json](./211451-beware-the-bully-redux.json) |
 | Beware the Ghost | 176474 | [176474-beware-the-ghost.json](./176474-beware-the-ghost.json) |
 | Beware the Shadowcatcher | 217863 | [217863-beware-the-shadowcatcher.json](./217863-beware-the-shadowcatcher.json) |
@@ -9336,7 +9333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo: Pet Rescue | 258965 | [258965-bingo-pet-rescue.json](./258965-bingo-pet-rescue.json) |
 | Bingo! | 389943 | [389943-bingo.json](./389943-bingo.json) |
 | Bingo!!! | 106757 | [106757-bingo.json](./106757-bingo.json) |
-| BingoBango | 107462 | [107462-bingobango.json](./107462-bingobango.json) |
 | Bingone | 421987 | [421987-bingone.json](./421987-bingone.json) |
 | Bingus: My Beloved | 190888 | [190888-bingus-my-beloved.json](./190888-bingus-my-beloved.json) |
 | Bīngxītú Juàn | 162434 | [162434-bingxitu-juan.json](./162434-bingxitu-juan.json) |
@@ -12621,7 +12617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl Tablet | 29030 | [29030-blood-bowl-tablet.json](./29030-blood-bowl-tablet.json) |
 | Blood Bowl: Chaos Edition | 16400 | [16400-blood-bowl-chaos-edition.json](./16400-blood-bowl-chaos-edition.json) |
 | Blood Bowl: Dark Elves Edition | 284513 | [284513-blood-bowl-dark-elves-edition.json](./284513-blood-bowl-dark-elves-edition.json) |
-| Blood Bowl: Death Zone | 105663 | [105663-blood-bowl-death-zone.json](./105663-blood-bowl-death-zone.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
 | Blood Breed | 143849 | [143849-blood-breed.json](./143849-blood-breed.json) |
