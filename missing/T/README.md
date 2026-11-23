@@ -8631,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Commission: Organized Crime Grand Strategy | 107635 | [107635-the-commission-organized-crime-grand-strategy.json](./107635-the-commission-organized-crime-grand-strategy.json) |
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
+| The Community Notes Are Wrong | 428862 | [428862-the-community-notes-are-wrong.json](./428862-the-community-notes-are-wrong.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company | 421909 | [421909-the-company.json](./421909-the-company.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
@@ -9472,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Decimation of Olarath | 57761 | [57761-the-decimation-of-olarath.json](./57761-the-decimation-of-olarath.json) |
 | The Declassifier | 244624 | [244624-the-declassifier.json](./244624-the-declassifier.json) |
 | The Decline of Grandidier | 395592 | [395592-the-decline-of-grandidier.json](./395592-the-decline-of-grandidier.json) |
+| The Deconsecration Initiative | 429266 | [429266-the-deconsecration-initiative.json](./429266-the-deconsecration-initiative.json) |
 | The Decree | 417325 | [417325-the-decree.json](./417325-the-decree.json) |
 | The Deed | 26467 | [26467-the-deed.json](./26467-the-deed.json) |
 | The Deed II | 122623 | [122623-the-deed-ii.json](./122623-the-deed-ii.json) |
@@ -12382,6 +12384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Knight | 388303 | [388303-the-heroic-knight.json](./388303-the-heroic-knight.json) |
 | The Heroic Legend of Eagarlnia | 120766 | [120766-the-heroic-legend-of-eagarlnia.json](./120766-the-heroic-legend-of-eagarlnia.json) |
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
+| The Heroic Tale of Illumina: 0 | 428870 | [428870-the-heroic-tale-of-illumina-0.json](./428870-the-heroic-tale-of-illumina-0.json) |
 | The Herzbury Curse | 381351 | [381351-the-herzbury-curse.json](./381351-the-herzbury-curse.json) |
 | The Hi-Finesse: 2D | 25909 | [25909-the-hi-finesse-2d.json](./25909-the-hi-finesse-2d.json) |
 | The Hidden | 85437 | [85437-the-hidden.json](./85437-the-hidden.json) |
@@ -23816,6 +23819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThroneForge: The Fortress War | 277332 | [277332-throneforge-the-fortress-war.json](./277332-throneforge-the-fortress-war.json) |
 | Throneheir | 326658 | [326658-throneheir.json](./326658-throneheir.json) |
 | Throrbs | 420208 | [420208-throrbs.json](./420208-throrbs.json) |
+| Throst | 429249 | [429249-throst.json](./429249-throst.json) |
 | Throttle Powah VR | 36976 | [36976-throttle-powah-vr.json](./36976-throttle-powah-vr.json) |
 | Throttle Trace | 399244 | [399244-throttle-trace.json](./399244-throttle-trace.json) |
 | Through | 338969 | [338969-through.json](./338969-through.json) |
