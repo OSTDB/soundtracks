@@ -3828,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adepts Arena | 344156 | [344156-adepts-arena.json](./344156-adepts-arena.json) |
 | Adeptus Titanicus: Dominus | 100354 | [100354-adeptus-titanicus-dominus.json](./100354-adeptus-titanicus-dominus.json) |
 | Adequately Ever After | 337795 | [337795-adequately-ever-after.json](./337795-adequately-ever-after.json) |
+| Adera | 78263 | [78263-adera.json](./78263-adera.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | ADHD Arena | 276860 | [276860-adhd-arena.json](./276860-adhd-arena.json) |
 | ADHD Horror Anthology | 379556 | [379556-adhd-horror-anthology.json](./379556-adhd-horror-anthology.json) |
@@ -6058,6 +6059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agress: Missile Daisenryaku | 38598 | [38598-agress-missile-daisenryaku.json](./38598-agress-missile-daisenryaku.json) |
 | Agressive Tendencies | 424916 | [424916-agressive-tendencies.json](./424916-agressive-tendencies.json) |
 | Agri-Tycoon | 217031 | [217031-agri-tycoon.json](./217031-agri-tycoon.json) |
+| Agricola | 88316 | [88316-agricola.json](./88316-agricola.json) |
 | Agricola Revised Edition | 281851 | [281851-agricola-revised-edition.json](./281851-agricola-revised-edition.json) |
 | Agricola: All Creatures Big and Small | 24025 | [24025-agricola-all-creatures-big-and-small.json](./24025-agricola-all-creatures-big-and-small.json) |
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
@@ -10035,6 +10037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambition Episode 4: The Tryst Part 1 | 385668 | [385668-ambition-episode-4-the-tryst-part-1.json](./385668-ambition-episode-4-the-tryst-part-1.json) |
 | Ambition Episode 5: The Tryst Part 2 "A Woman Scorned" | 385669 | [385669-ambition-episode-5-the-tryst-part-2-a-woman-scorned.json](./385669-ambition-episode-5-the-tryst-part-2-a-woman-scorned.json) |
 | Ambition of caesar | 45577 | [45577-ambition-of-caesar.json](./45577-ambition-of-caesar.json) |
+| Ambition of the Slimes | 79142 | [79142-ambition-of-the-slimes.json](./79142-ambition-of-the-slimes.json) |
 | Ambition Record | 125466 | [125466-ambition-record.json](./125466-ambition-record.json) |
 | Ambition: A Minuet in Power | 76255 | [76255-ambition-a-minuet-in-power.json](./76255-ambition-a-minuet-in-power.json) |
 | Ambition: Strategy War Game | 200037 | [200037-ambition-strategy-war-game.json](./200037-ambition-strategy-war-game.json) |
@@ -15056,6 +15059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics: Pac-Man | 219343 | [219343-arcade-classics-pac-man.json](./219343-arcade-classics-pac-man.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Starfire and Fire One | 410003 | [410003-arcade-classics-starfire-and-fire-one.json](./410003-arcade-classics-starfire-and-fire-one.json) |
+| Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Classics: Volume One | 78764 | [78764-arcade-classics-volume-one.json](./78764-arcade-classics-volume-one.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
