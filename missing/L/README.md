@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train to Yotsuya | 417076 | [417076-last-train-to-yotsuya.json](./417076-last-train-to-yotsuya.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
+| Last Vacation | 428651 | [428651-last-vacation.json](./428651-last-vacation.json) |
 | Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
 | Last Victim: House of Fear | 329086 | [329086-last-victim-house-of-fear.json](./329086-last-victim-house-of-fear.json) |
 | Last Viking: God of Valhalla | 214031 | [214031-last-viking-god-of-valhalla.json](./214031-last-viking-god-of-valhalla.json) |
@@ -2001,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latitude 76: Land of the Onkilons | 352428 | [352428-latitude-76-land-of-the-onkilons.json](./352428-latitude-76-land-of-the-onkilons.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
+| Lattice | 428167 | [428167-lattice.json](./428167-lattice.json) |
 | Lattice 200EC7 | 143664 | [143664-lattice-200ec7.json](./143664-lattice-200ec7.json) |
 | Lattice Dancer | 240129 | [240129-lattice-dancer.json](./240129-lattice-dancer.json) |
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
@@ -2959,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy: Witch Island 4 | 272957 | [272957-legacy-witch-island-4.json](./272957-legacy-witch-island-4.json) |
 | Legacy:Witch Island | 102272 | [102272-legacy-witch-island.json](./102272-legacy-witch-island.json) |
 | Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
+| Legacybound | 428625 | [428625-legacybound.json](./428625-legacybound.json) |
 | LegacyClonk | 222765 | [222765-legacyclonk.json](./222765-legacyclonk.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
