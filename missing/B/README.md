@@ -5034,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlement | 345010 | [345010-battlement.json](./345010-battlement.json) |
 | Battlements | 421913 | [421913-battlements.json](./421913-battlements.json) |
 | Battlemetal | 149398 | [149398-battlemetal.json](./149398-battlemetal.json) |
+| Battleminer | 77772 | [77772-battleminer.json](./77772-battleminer.json) |
 | Battleminer Giants | 322116 | [322116-battleminer-giants.json](./322116-battleminer-giants.json) |
 | Battleminerz | 79799 | [79799-battleminerz.json](./79799-battleminerz.json) |
 | Battlemon | 238677 | [238677-battlemon.json](./238677-battlemon.json) |
@@ -10448,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack: Hi no Tori Hen | 65937 | [65937-black-jack-hi-no-tori-hen.json](./65937-black-jack-hi-no-tori-hen.json) |
 | Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
+| Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
 | Black Journey to the West | 261559 | [261559-black-journey-to-the-west.json](./261559-black-journey-to-the-west.json) |
 | Black Knight Adventure | 57390 | [57390-black-knight-adventure.json](./57390-black-knight-adventure.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
