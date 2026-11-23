@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Mina | 252994 | [252994-la-mina.json](./252994-la-mina.json) |
 | LA Monsters | 154970 | [154970-la-monsters.json](./154970-la-monsters.json) |
 | La Montagna Misteriosa | 145980 | [145980-la-montagna-misteriosa.json](./145980-la-montagna-misteriosa.json) |
+| La Muraille 1806 | 429425 | [429425-la-muraille-1806.json](./429425-la-muraille-1806.json) |
 | La Neige | 97786 | [97786-la-neige.json](./97786-la-neige.json) |
 | La Nuit | 261807 | [261807-la-nuit.json](./261807-la-nuit.json) |
 | La Odisea del Fracaso | 323331 | [323331-la-odisea-del-fracaso.json](./323331-la-odisea-del-fracaso.json) |
@@ -1707,11 +1708,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last One Standing Academy | 426764 | [426764-last-one-standing-academy.json](./426764-last-one-standing-academy.json) |
 | Last One Standing: Royal Massacre | 180389 | [180389-last-one-standing-royal-massacre.json](./180389-last-one-standing-royal-massacre.json) |
 | Last Ops | 149155 | [149155-last-ops.json](./149155-last-ops.json) |
+| Last Orbit Repairs | 431021 | [431021-last-orbit-repairs.json](./431021-last-orbit-repairs.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Origin | 123283 | [123283-last-origin.json](./123283-last-origin.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
+| Last Paddle Standing | 430353 | [430353-last-paddle-standing.json](./430353-last-paddle-standing.json) |
 | Last Patriot | 328972 | [328972-last-patriot.json](./328972-last-patriot.json) |
 | Last Patrol | 378226 | [378226-last-patrol.json](./378226-last-patrol.json) |
 | Last Period | 247136 | [247136-last-period.json](./247136-last-period.json) |
@@ -2084,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender Link | 243464 | [243464-lavender-link.json](./243464-lavender-link.json) |
 | Lavender Memories | 303309 | [303309-lavender-memories.json](./303309-lavender-memories.json) |
 | Lavender Quartz Kyoukai Hyoudou | 360036 | [360036-lavender-quartz-kyoukai-hyoudou.json](./360036-lavender-quartz-kyoukai-hyoudou.json) |
+| Lavender Shift | 429432 | [429432-lavender-shift.json](./429432-lavender-shift.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Lavender Woods | 185491 | [185491-lavender-woods.json](./185491-lavender-woods.json) |
 | Lavender's | 403350 | [403350-lavenders.json](./403350-lavenders.json) |
@@ -7206,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shop: Memories | 210184 | [210184-little-shop-memories.json](./210184-little-shop-memories.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
 | Little Shops of Murder | 301457 | [301457-little-shops-of-murder.json](./301457-little-shops-of-murder.json) |
+| Little Shore | 429416 | [429416-little-shore.json](./429416-little-shore.json) |
 | Little Shrimp: Legend Reborn | 271614 | [271614-little-shrimp-legend-reborn.json](./271614-little-shrimp-legend-reborn.json) |
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
