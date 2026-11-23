@@ -827,7 +827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Paradise: Fantasy Babes | 291668 | [291668-ecchi-paradise-fantasy-babes.json](./291668-ecchi-paradise-fantasy-babes.json) |
 | Ecchi Paradise: Fantasy Edition | 300896 | [300896-ecchi-paradise-fantasy-edition.json](./300896-ecchi-paradise-fantasy-edition.json) |
 | Ecchi Paradise: Kinky Chicks | 291669 | [291669-ecchi-paradise-kinky-chicks.json](./291669-ecchi-paradise-kinky-chicks.json) |
-| Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
 | Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
 | Ecchi Secrets: Bath Time | 308846 | [308846-ecchi-secrets-bath-time.json](./308846-ecchi-secrets-bath-time.json) |
@@ -2499,7 +2498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrician Simulator: First Shock | 186506 | [186506-electrician-simulator-first-shock.json](./186506-electrician-simulator-first-shock.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
 | Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
-| ElectricVLab | 107367 | [107367-electricvlab.json](./107367-electricvlab.json) |
 | Electrified | 168238 | [168238-electrified.json](./168238-electrified.json) |
 | Electrified | 380312 | [380312-electrified.json](./380312-electrified.json) |
 | Electrify | 167503 | [167503-electrify.json](./167503-electrify.json) |
@@ -6274,7 +6272,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Zombietown | 295221 | [295221-escape-from-zombietown.json](./295221-escape-from-zombietown.json) |
 | Escape Gaia | 311586 | [311586-escape-gaia.json](./311586-escape-gaia.json) |
 | Escape Gaia: Departure | 311797 | [311797-escape-gaia-departure.json](./311797-escape-gaia-departure.json) |
-| Escape Game | 105753 | [105753-escape-game.json](./105753-escape-game.json) |
 | Escape Game | 228150 | [228150-escape-game.json](./228150-escape-game.json) |
 | Escape Game - Prison Break S3 | 88417 | [88417-escape-game-prison-break-s3.json](./88417-escape-game-prison-break-s3.json) |
 | Escape game & Card search game: R01m | 213801 | [213801-escape-game-and-card-search-game-r01m.json](./213801-escape-game-and-card-search-game-r01m.json) |
@@ -7704,7 +7701,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of Cultivation | 390199 | [390199-eve-of-cultivation.json](./390199-eve-of-cultivation.json) |
 | Eve of Destruction | 290946 | [290946-eve-of-destruction.json](./290946-eve-of-destruction.json) |
 | Eve of Destruction: Redux | 31255 | [31255-eve-of-destruction-redux.json](./31255-eve-of-destruction-redux.json) |
-| Eve of Souls: Static Pod | 107461 | [107461-eve-of-souls-static-pod.json](./107461-eve-of-souls-static-pod.json) |
 | Eve of the Genesis | 38500 | [38500-eve-of-the-genesis.json](./38500-eve-of-the-genesis.json) |
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
 | Eve Online | 2584 | [2584-eve-online.json](./2584-eve-online.json) |
@@ -8604,7 +8600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | Ewoks and the Dandelion Warriors | 56217 | [56217-ewoks-and-the-dandelion-warriors.json](./56217-ewoks-and-the-dandelion-warriors.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
-| Ewwe | 106498 | [106498-ewwe.json](./106498-ewwe.json) |
 | Ewyn Universe | 427255 | [427255-ewyn-universe.json](./427255-ewyn-universe.json) |
 | Ex Angelus | 235622 | [235622-ex-angelus.json](./235622-ex-angelus.json) |
 | Ex Astris | 174610 | [174610-ex-astris.json](./174610-ex-astris.json) |
