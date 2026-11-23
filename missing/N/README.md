@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Cats | 222582 | [222582-nice-cats.json](./222582-nice-cats.json) |
 | Nice City | 373490 | [373490-nice-city.json](./373490-nice-city.json) |
 | Nice Day for Fishing | 324939 | [324939-nice-day-for-fishing.json](./324939-nice-day-for-fishing.json) |
+| Nice Day for Fishing: Epic Edition | 426911 | [426911-nice-day-for-fishing-epic-edition.json](./426911-nice-day-for-fishing-epic-edition.json) |
 | Nice Day for Fishing: Legendary DLC | 343550 | [343550-nice-day-for-fishing-legendary-dlc.json](./343550-nice-day-for-fishing-legendary-dlc.json) |
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
