@@ -13338,6 +13338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anura | 347364 | [347364-anura.json](./347364-anura.json) |
 | Anurak | 413479 | [413479-anurak.json](./413479-anurak.json) |
 | Anuto TD | 207846 | [207846-anuto-td.json](./207846-anuto-td.json) |
+| Anvil | 142861 | [142861-anvil.json](./142861-anvil.json) |
 | Anvil | 226234 | [226234-anvil.json](./226234-anvil.json) |
 | Anvil & Ember | 336279 | [336279-anvil-and-ember.json](./336279-anvil-and-ember.json) |
 | Anvil Awareness | 73875 | [73875-anvil-awareness.json](./73875-anvil-awareness.json) |
@@ -14308,6 +14309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatic Store Simulator | 321547 | [321547-aquatic-store-simulator.json](./321547-aquatic-store-simulator.json) |
 | Aquatic Wonder | 257129 | [257129-aquatic-wonder.json](./257129-aquatic-wonder.json) |
 | Aquatica | 115326 | [115326-aquatica.json](./115326-aquatica.json) |
+| Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
 | Aquatico: Founder's Pack | 231002 | [231002-aquatico-founders-pack.json](./231002-aquatico-founders-pack.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
@@ -16158,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arise + What Lies in the Multiverse Bundle | 216364 | [216364-arise-what-lies-in-the-multiverse-bundle.json](./216364-arise-what-lies-in-the-multiverse-bundle.json) |
 | Arise Dark Lord | 398616 | [398616-arise-dark-lord.json](./398616-arise-dark-lord.json) |
 | Arise from Shadows | 215523 | [215523-arise-from-shadows.json](./215523-arise-from-shadows.json) |
+| Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
 | Arisen Force: HeroTest | 302980 | [302980-arisen-force-herotest.json](./302980-arisen-force-herotest.json) |
 | Arisen Force: Life Devotee | 349565 | [349565-arisen-force-life-devotee.json](./349565-arisen-force-life-devotee.json) |
@@ -17327,6 +17330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of the World Bundle | 164792 | [164792-artists-of-the-world-bundle.json](./164792-artists-of-the-world-bundle.json) |
 | Artius: Pure Imagination | 337917 | [337917-artius-pure-imagination.json](./337917-artius-pure-imagination.json) |
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
+| Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | Artoon | 79646 | [79646-artoon.json](./79646-artoon.json) |
 | Artovya | 303894 | [303894-artovya.json](./303894-artovya.json) |
 | Artpartment | 128425 | [128425-artpartment.json](./128425-artpartment.json) |
@@ -19093,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronest VR | 115357 | [115357-astronest-vr.json](./115357-astronest-vr.json) |
 | Astronest: The Beginning | 58343 | [58343-astronest-the-beginning.json](./58343-astronest-the-beginning.json) |
 | Astronimo | 237413 | [237413-astronimo.json](./237413-astronimo.json) |
+| Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
 | Astronium | 167542 | [167542-astronium.json](./167542-astronium.json) |
 | AstronjumpBaby | 55279 | [55279-astronjumpbaby.json](./55279-astronjumpbaby.json) |
 | Astronoka | 94714 | [94714-astronoka.json](./94714-astronoka.json) |
