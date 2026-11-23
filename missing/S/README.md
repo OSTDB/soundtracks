@@ -10783,6 +10783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout At Old Tucson | 220971 | [220971-shootout-at-old-tucson.json](./220971-shootout-at-old-tucson.json) |
 | Shootout at the OK Galaxy | 24810 | [24810-shootout-at-the-ok-galaxy.json](./24810-shootout-at-the-ok-galaxy.json) |
 | Shootout Inc. | 176519 | [176519-shootout-inc.json](./176519-shootout-inc.json) |
+| Shootout on Cash Island | 28998 | [28998-shootout-on-cash-island.json](./28998-shootout-on-cash-island.json) |
 | Shootout Pool | 317528 | [317528-shootout-pool.json](./317528-shootout-pool.json) |
 | Shootout! | 109450 | [109450-shootout.json](./109450-shootout.json) |
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
@@ -17258,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Time for Caterpillar | 239622 | [239622-snack-time-for-caterpillar.json](./239622-snack-time-for-caterpillar.json) |
 | Snack Time! | 217585 | [217585-snack-time.json](./217585-snack-time.json) |
 | Snack World: Reloaded | 397927 | [397927-snack-world-reloaded.json](./397927-snack-world-reloaded.json) |
+| Snack World: The Dungeon Crawl - Gold | 28830 | [28830-snack-world-the-dungeon-crawl-gold.json](./28830-snack-world-the-dungeon-crawl-gold.json) |
 | Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
 | SnackHunter | 193047 | [193047-snackhunter.json](./193047-snackhunter.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
@@ -19163,6 +19165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarmax III | 228132 | [228132-solarmax-iii.json](./228132-solarmax-iii.json) |
 | Solaro | 237157 | [237157-solaro.json](./237157-solaro.json) |
 | Solaroids | 56017 | [56017-solaroids.json](./56017-solaroids.json) |
+| Solaroids: Prologue | 29314 | [29314-solaroids-prologue.json](./29314-solaroids-prologue.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
 | Solarpunkification | 182774 | [182774-solarpunkification.json](./182774-solarpunkification.json) |
@@ -23561,6 +23564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trade Fleet 1.5 | 117204 | [117204-space-trade-fleet-1-5.json](./117204-space-trade-fleet-1-5.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trader 2018 | 197805 | [197805-space-trader-2018.json](./197805-space-trader-2018.json) |
+| Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
 | Space Train | 161489 | [161489-space-train.json](./161489-space-train.json) |
 | Space Trains | 149327 | [149327-space-trains.json](./149327-space-trains.json) |
@@ -26078,6 +26082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sploder! | 313036 | [313036-sploder.json](./313036-sploder.json) |
 | Splodey Vaders | 134262 | [134262-splodey-vaders.json](./134262-splodey-vaders.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
+| Splody | 32704 | [32704-splody.json](./32704-splody.json) |
 | Sploodie | 424337 | [424337-sploodie.json](./424337-sploodie.json) |
 | Sploot | 11825 | [11825-sploot.json](./11825-sploot.json) |
 | Splort | 312175 | [312175-splort.json](./312175-splort.json) |
@@ -33551,6 +33556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Horse Channel | 353808 | [353808-stupid-horse-channel.json](./353808-stupid-horse-channel.json) |
 | Stupid Ninjas | 326561 | [326561-stupid-ninjas.json](./326561-stupid-ninjas.json) |
 | Stupid Quest | 116814 | [116814-stupid-quest.json](./116814-stupid-quest.json) |
+| Stupid Raft Battle Simulator | 29375 | [29375-stupid-raft-battle-simulator.json](./29375-stupid-raft-battle-simulator.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | Stupid Spaceships | 390622 | [390622-stupid-spaceships.json](./390622-stupid-spaceships.json) |
 | Stupid Squad | 214987 | [214987-stupid-squad.json](./214987-stupid-squad.json) |
