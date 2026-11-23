@@ -8720,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
 | Hide n' Explode | 254724 | [254724-hide-n-explode.json](./254724-hide-n-explode.json) |
 | Hide No More | 428321 | [428321-hide-no-more.json](./428321-hide-no-more.json) |
+| Hide Online | 95817 | [95817-hide-online.json](./95817-hide-online.json) |
 | Hide or Sex | 277784 | [277784-hide-or-sex.json](./277784-hide-or-sex.json) |
 | Hide Royale | 421499 | [421499-hide-royale.json](./421499-hide-royale.json) |
 | Hide Seek Survive | 170358 | [170358-hide-seek-survive.json](./170358-hide-seek-survive.json) |
