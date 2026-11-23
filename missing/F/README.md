@@ -11391,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
+| Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Forestry 2017 - The Simulation | 36394 | [36394-forestry-2017-the-simulation.json](./36394-forestry-2017-the-simulation.json) |
 | Forestry 2017: The Simulation | 24718 | [24718-forestry-2017-the-simulation.json](./24718-forestry-2017-the-simulation.json) |
@@ -15184,6 +15185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Steampunk Costume Pack | 267721 | [267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json](./267721-fuga-melodies-of-steel-2-steampunk-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack | 259584 | [259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json](./259584-fuga-melodies-of-steel-2-tail-concerto-costume-pack.json) |
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
+| Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack | 343532 | [343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json](./343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json) |
 | Fuga: Melodies of Steel 3 - Deluxe Edition | 343517 | [343517-fuga-melodies-of-steel-3-deluxe-edition.json](./343517-fuga-melodies-of-steel-3-deluxe-edition.json) |
 | Fuga: Melodies of Steel 3 - Deluxe Edition Upgrade Pack | 343518 | [343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json](./343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json) |
