@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Style Tien Gow | 258577 | [258577-japanese-style-tien-gow.json](./258577-japanese-style-tien-gow.json) |
 | Japanese Swordsmith | 414530 | [414530-japanese-swordsmith.json](./414530-japanese-swordsmith.json) |
 | Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
+| Japanese Women - Animated Jigsaws | 28920 | [28920-japanese-women-animated-jigsaws.json](./28920-japanese-women-animated-jigsaws.json) |
 | Japaritale | 313292 | [313292-japaritale.json](./313292-japaritale.json) |
 | Japocaliptyca | 120358 | [120358-japocaliptyca.json](./120358-japocaliptyca.json) |
 | JAPP: Just Another Precise Platformer | 268984 | [268984-japp-just-another-precise-platformer.json](./268984-japp-just-another-precise-platformer.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
 | Jasei no In: The Serpent's Lust | 269154 | [269154-jasei-no-in-the-serpents-lust.json](./269154-jasei-no-in-the-serpents-lust.json) |
 | Jaseiken Necromancer 2 | 412787 | [412787-jaseiken-necromancer-2.json](./412787-jaseiken-necromancer-2.json) |
+| JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
 | JASF: Jane's Advanced Strike Fighters | 7022 | [7022-jasf-janes-advanced-strike-fighters.json](./7022-jasf-janes-advanced-strike-fighters.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jashinchan: 7th Devil | 178330 | [178330-jashinchan-7th-devil.json](./178330-jashinchan-7th-devil.json) |
@@ -2895,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joining Hands 2 | 264970 | [264970-joining-hands-2.json](./264970-joining-hands-2.json) |
 | Joint Force | 381585 | [381585-joint-force.json](./381585-joint-force.json) |
 | Joint Operations | 24243 | [24243-joint-operations.json](./24243-joint-operations.json) |
+| Joint Operations: Combined Arms Gold | 29200 | [29200-joint-operations-combined-arms-gold.json](./29200-joint-operations-combined-arms-gold.json) |
 | Joint Operations: Escalation | 9355 | [9355-joint-operations-escalation.json](./9355-joint-operations-escalation.json) |
 | Joint Operations: Typhoon Rising | 9354 | [9354-joint-operations-typhoon-rising.json](./9354-joint-operations-typhoon-rising.json) |
 | Joint Recall | 265482 | [265482-joint-recall.json](./265482-joint-recall.json) |
