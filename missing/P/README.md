@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
 | Palimpsest: Where Magic Remembers | 428202 | [428202-palimpsest-where-magic-remembers.json](./428202-palimpsest-where-magic-remembers.json) |
+| Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
 | Palingenesis | 329082 | [329082-palingenesis.json](./329082-palingenesis.json) |
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palisade | 135455 | [135455-palisade.json](./135455-palisade.json) |
@@ -4411,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebbles? Wenches? | 176286 | [176286-pebbles-wenches.json](./176286-pebbles-wenches.json) |
 | Peblito: Rock and Roll | 163015 | [163015-peblito-rock-and-roll.json](./163015-peblito-rock-and-roll.json) |
 | Pec-Men | 335693 | [335693-pec-men.json](./335693-pec-men.json) |
+| Pecaminosa | 140807 | [140807-pecaminosa.json](./140807-pecaminosa.json) |
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
 | Péché Mignon | 394644 | [394644-peche-mignon.json](./394644-peche-mignon.json) |
@@ -7133,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
+| Picross S: Genesis & Master System Edition | 137139 | [137139-picross-s-genesis-and-master-system-edition.json](./137139-picross-s-genesis-and-master-system-edition.json) |
 | Picross S+ | 266419 | [266419-picross-s.json](./266419-picross-s.json) |
 | Picross S+: Picross e2 | 289214 | [289214-picross-s-picross-e2.json](./289214-picross-s-picross-e2.json) |
 | Picross S+: Picross e3 | 289215 | [289215-picross-s-picross-e3.json](./289215-picross-s-picross-e3.json) |
@@ -7646,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin² | 313360 | [313360-pikmin2.json](./313360-pikmin2.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
 | Piko Interactive Arcade 1 | 251707 | [251707-piko-interactive-arcade-1.json](./251707-piko-interactive-arcade-1.json) |
+| Piko Interactive Collection 2 | 138894 | [138894-piko-interactive-collection-2.json](./138894-piko-interactive-collection-2.json) |
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko Interactive Collection 4 | 291545 | [291545-piko-interactive-collection-4.json](./291545-piko-interactive-collection-4.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
@@ -15342,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Arena | 202546 | [202546-potato-arena.json](./202546-potato-arena.json) |
 | Potato Cop | 350221 | [350221-potato-cop.json](./350221-potato-cop.json) |
 | Potato Escape: One Touch Runner | 306206 | [306206-potato-escape-one-touch-runner.json](./306206-potato-escape-one-touch-runner.json) |
+| Potato Flowers in Full Bloom | 139252 | [139252-potato-flowers-in-full-bloom.json](./139252-potato-flowers-in-full-bloom.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
 | Potato Panic | 415715 | [415715-potato-panic.json](./415715-potato-panic.json) |
@@ -16416,6 +16421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Peculiar Lovers | 366746 | [366746-pretty-peculiar-lovers.json](./366746-pretty-peculiar-lovers.json) |
 | Pretty Pet Salon | 267626 | [267626-pretty-pet-salon.json](./267626-pretty-pet-salon.json) |
 | Pretty Please | 177384 | [177384-pretty-please.json](./177384-pretty-please.json) |
+| Pretty Princess Party | 135339 | [135339-pretty-princess-party.json](./135339-pretty-princess-party.json) |
 | Pretty Princess: Magical Garden Island | 248295 | [248295-pretty-princess-magical-garden-island.json](./248295-pretty-princess-magical-garden-island.json) |
 | Pretty Princess' Castle Escape | 305733 | [305733-pretty-princess-castle-escape.json](./305733-pretty-princess-castle-escape.json) |
 | Pretty Rhythm: Mini Skirt | 177590 | [177590-pretty-rhythm-mini-skirt.json](./177590-pretty-rhythm-mini-skirt.json) |
