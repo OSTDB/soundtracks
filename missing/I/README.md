@@ -564,7 +564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | i saw her across the world | 293991 | [293991-i-saw-her-across-the-world.json](./293991-i-saw-her-across-the-world.json) |
 | I Saw Her Standing There | 200891 | [200891-i-saw-her-standing-there.json](./200891-i-saw-her-standing-there.json) |
 | i saw her too, with lasers | 293990 | [293990-i-saw-her-too-with-lasers.json](./293990-i-saw-her-too-with-lasers.json) |
-| I saw IT | 105429 | [105429-i-saw-it.json](./105429-i-saw-it.json) |
 | I saw the night | 132331 | [132331-i-saw-the-night.json](./132331-i-saw-the-night.json) |
 | I Scream | 276653 | [276653-i-scream.json](./276653-i-scream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
@@ -4942,7 +4941,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Paper Minesweeper | 284522 | [284522-ink-paper-minesweeper.json](./284522-ink-paper-minesweeper.json) |
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
-| Ink Plane | 107452 | [107452-ink-plane.json](./107452-ink-plane.json) |
 | Ink Reverie | 331367 | [331367-ink-reverie.json](./331367-ink-reverie.json) |
 | Ink Sans Phase 3: Shanghaivania | 332887 | [332887-ink-sans-phase-3-shanghaivania.json](./332887-ink-sans-phase-3-shanghaivania.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
@@ -5726,7 +5724,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball | 187624 | [187624-international-basketball.json](./187624-international-basketball.json) |
 | International Basketball 2009 | 54124 | [54124-international-basketball-2009.json](./54124-international-basketball-2009.json) |
-| International Basketball Manager | 106559 | [106559-international-basketball-manager.json](./106559-international-basketball-manager.json) |
 | International Basketball Manager 22 | 185762 | [185762-international-basketball-manager-22.json](./185762-international-basketball-manager-22.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
 | International Basketball Manager Season 2010/11 | 54123 | [54123-international-basketball-manager-season-2010-11.json](./54123-international-basketball-manager-season-2010-11.json) |
@@ -7389,7 +7386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Pan | 132501 | [132501-isle-of-pan.json](./132501-isle-of-pan.json) |
 | Isle of Rein | 207397 | [207397-isle-of-rein.json](./207397-isle-of-rein.json) |
 | Isle of Reveries | 311611 | [311611-isle-of-reveries.json](./311611-isle-of-reveries.json) |
-| Isle of Skye | 105479 | [105479-isle-of-skye.json](./105479-isle-of-skye.json) |
 | Isle of Skye: The Tactical Board Game | 105675 | [105675-isle-of-skye-the-tactical-board-game.json](./105675-isle-of-skye-the-tactical-board-game.json) |
 | Isle of Spirits | 131857 | [131857-isle-of-spirits.json](./131857-isle-of-spirits.json) |
 | Isle of Swaps | 237304 | [237304-isle-of-swaps.json](./237304-isle-of-swaps.json) |
