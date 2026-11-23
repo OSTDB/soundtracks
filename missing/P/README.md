@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
 | Pack Everything You Can | 296245 | [296245-pack-everything-you-can.json](./296245-pack-everything-you-can.json) |
 | Pack Horreur I Resident Evil 7 + Resident Evil 4 + The Evil Within 2 | 145339 | [145339-pack-horreur-i-resident-evil-7-resident-evil-4-the-evil-within-2.json](./145339-pack-horreur-i-resident-evil-7-resident-evil-4-the-evil-within-2.json) |
+| Pack It Up! | 426866 | [426866-pack-it-up.json](./426866-pack-it-up.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
 | Pack Man in Rio | 241281 | [241281-pack-man-in-rio.json](./241281-pack-man-in-rio.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
@@ -18414,6 +18415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Life is RPG | 250919 | [250919-project-life-is-rpg.json](./250919-project-life-is-rpg.json) |
 | Project Light | 84804 | [84804-project-light.json](./84804-project-light.json) |
 | Project Lightbringer | 423384 | [423384-project-lightbringer.json](./423384-project-lightbringer.json) |
+| Project Lighthouse | 426304 | [426304-project-lighthouse.json](./426304-project-lighthouse.json) |
 | Project Lilith | 396240 | [396240-project-lilith.json](./396240-project-lilith.json) |
 | Project Liminal 2 | 390043 | [390043-project-liminal-2.json](./390043-project-liminal-2.json) |
 | Project Liminal Redux | 242479 | [242479-project-liminal-redux.json](./242479-project-liminal-redux.json) |
