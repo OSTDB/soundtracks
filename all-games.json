@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T01:15:57.160Z",
-  "total_soundtracks": 3913,
+  "generated_at": "2026-11-23T01:25:54.481Z",
+  "total_soundtracks": 3914,
   "games": [
     {
       "igdb_id": 292844,
@@ -19345,6 +19345,20 @@
         {
           "album_name": "Hektor (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2L0IAniBIKsPLEoLKcEdLP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112866,
+      "game_name": "Helheim",
+      "game_url": "https://ostdb.net/games/helheim",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b397fba1fa49b94f96bb0883",
+      "albums": [
+        {
+          "album_name": "Helheim (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Ei6DBblBXYLChvMOsb2k7",
           "apple_music_url": "",
           "album_link_url": ""
         }
