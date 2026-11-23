@@ -11445,6 +11445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bot Adventure | 302215 | [302215-rogue-bot-adventure.json](./302215-rogue-bot-adventure.json) |
 | Rogue Bots | 135507 | [135507-rogue-bots.json](./135507-rogue-bots.json) |
+| Rogue Braver | 428639 | [428639-rogue-braver.json](./428639-rogue-braver.json) |
 | Rogue Breaker | 407050 | [407050-rogue-breaker.json](./407050-rogue-breaker.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
