@@ -6786,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
 | Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
+| Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
 | Little Buno | 98540 | [98540-little-buno.json](./98540-little-buno.json) |
 | Little Burned Maiden | 194347 | [194347-little-burned-maiden.json](./194347-little-burned-maiden.json) |
