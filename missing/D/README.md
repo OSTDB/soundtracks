@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lords Don't Give A :) | 113519 | [113519-dark-lords-dont-give-a.json](./113519-dark-lords-dont-give-a.json) |
 | Dark Lore Mysteries: Hunt For the Truth | 52841 | [52841-dark-lore-mysteries-hunt-for-the-truth.json](./52841-dark-lore-mysteries-hunt-for-the-truth.json) |
 | Dark Lore Mysteries: The Hunt For Truth | 36381 | [36381-dark-lore-mysteries-the-hunt-for-truth.json](./36381-dark-lore-mysteries-the-hunt-for-truth.json) |
+| Dark Lots | 427470 | [427470-dark-lots.json](./427470-dark-lots.json) |
 | Dark Lovers: Extended Edition | 264770 | [264770-dark-lovers-extended-edition.json](./264770-dark-lovers-extended-edition.json) |
 | Dark Mage | 40687 | [40687-dark-mage.json](./40687-dark-mage.json) |
 | Dark Magic | 159470 | [159470-dark-magic.json](./159470-dark-magic.json) |
@@ -10523,6 +10524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digby Forever | 98535 | [98535-digby-forever.json](./98535-digby-forever.json) |
 | Digby Jump | 98536 | [98536-digby-jump.json](./98536-digby-jump.json) |
 | Digby's Donuts | 122893 | [122893-digbys-donuts.json](./122893-digbys-donuts.json) |
+| Digcremental | 427495 | [427495-digcremental.json](./427495-digcremental.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digdig.io | 178170 | [178170-digdig-io.json](./178170-digdig-io.json) |
 | Digdigdig | 338861 | [338861-digdigdig.json](./338861-digdigdig.json) |
@@ -15514,6 +15516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | Doomvile Brainrot | 350081 | [350081-doomvile-brainrot.json](./350081-doomvile-brainrot.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
+| Doomward: Dungeon Autobattler | 426925 | [426925-doomward-dungeon-autobattler.json](./426925-doomward-dungeon-autobattler.json) |
 | Doomworld Forum Adventures! | 252214 | [252214-doomworld-forum-adventures.json](./252214-doomworld-forum-adventures.json) |
 | Doomworld Forums 3 | 252216 | [252216-doomworld-forums-3.json](./252216-doomworld-forums-3.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
@@ -16839,6 +16842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Line | 414037 | [414037-draft-line.json](./414037-draft-line.json) |
 | Draft of Darkness | 137247 | [137247-draft-of-darkness.json](./137247-draft-of-darkness.json) |
 | Draft Showdown | 417330 | [417330-draft-showdown.json](./417330-draft-showdown.json) |
+| Draft to Legion | 427481 | [427481-draft-to-legion.json](./427481-draft-to-legion.json) |
 | Draft: In the Woods | 240611 | [240611-draft-in-the-woods.json](./240611-draft-in-the-woods.json) |
 | Draftfall | 425120 | [425120-draftfall.json](./425120-draftfall.json) |
 | Drafting Towers | 181812 | [181812-drafting-towers.json](./181812-drafting-towers.json) |
@@ -20595,6 +20599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dugger | 14664 | [14664-dugger.json](./14664-dugger.json) |
 | Duggy | 192071 | [192071-duggy.json](./192071-duggy.json) |
 | Dugout Dice | 425016 | [425016-dugout-dice.json](./425016-dugout-dice.json) |
+| Duhasm | 426989 | [426989-duhasm.json](./426989-duhasm.json) |
 | Dui | 263110 | [263110-dui.json](./263110-dui.json) |
 | DUI | 254360 | [254360-dui.json](./254360-dui.json) |
 | Duì Yǐng Shìjiè | 368465 | [368465-dui-ying-shijie.json](./368465-dui-ying-shijie.json) |
