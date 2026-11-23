@@ -1783,7 +1783,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
 | Magical Miri | 131682 | [131682-magical-miri.json](./131682-magical-miri.json) |
 | Magical Mishaps | 397501 | [397501-magical-mishaps.json](./397501-magical-mishaps.json) |
-| Magical Monster Land | 110671 | [110671-magical-monster-land.json](./110671-magical-monster-land.json) |
 | Magical Monstergirls Academy | 276251 | [276251-magical-monstergirls-academy.json](./276251-magical-monstergirls-academy.json) |
 | Magical Mysteries: Path of the Sorceress | 30714 | [30714-magical-mysteries-path-of-the-sorceress.json](./30714-magical-mysteries-path-of-the-sorceress.json) |
 | Magical Mystery Cure | 177949 | [177949-magical-mystery-cure.json](./177949-magical-mystery-cure.json) |
@@ -2198,7 +2197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
 | Mahjong City Tours | 99833 | [99833-mahjong-city-tours.json](./99833-mahjong-city-tours.json) |
-| Mahjong Club | 108666 | [108666-mahjong-club.json](./108666-mahjong-club.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
 | Mahjong Club 90's | 409087 | [409087-mahjong-club-90s.json](./409087-mahjong-club-90s.json) |
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
@@ -4042,7 +4040,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Pop Paradise | 163706 | [163706-marble-pop-paradise.json](./163706-marble-pop-paradise.json) |
 | Marble Power Blast | 114133 | [114133-marble-power-blast.json](./114133-marble-power-blast.json) |
 | Marble Puzzle Blast: Rescue Adventure | 195427 | [195427-marble-puzzle-blast-rescue-adventure.json](./195427-marble-puzzle-blast-rescue-adventure.json) |
-| Marble Race | 107557 | [107557-marble-race.json](./107557-marble-race.json) |
 | Marble Race Creator | 244848 | [244848-marble-race-creator.json](./244848-marble-race-creator.json) |
 | Marble Racing | 137570 | [137570-marble-racing.json](./137570-marble-racing.json) |
 | Marble Racing Manager | 388747 | [388747-marble-racing-manager.json](./388747-marble-racing-manager.json) |
@@ -5160,7 +5157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
 | Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
-| Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars Vice | 217167 | [217167-mars-vice.json](./217167-mars-vice.json) |
 | Mars VR | 91120 | [91120-mars-vr.json](./91120-mars-vr.json) |
 | Mars vs. Robots | 319693 | [319693-mars-vs-robots.json](./319693-mars-vs-robots.json) |
@@ -6063,7 +6059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Forbidden Sea | 119842 | [119842-master-of-the-forbidden-sea.json](./119842-master-of-the-forbidden-sea.json) |
 | Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
-| Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Lamps | 25938 | [25938-master-of-the-lamps.json](./25938-master-of-the-lamps.json) |
 | Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
 | Master of The Secret Sea | 270479 | [270479-master-of-the-secret-sea.json](./270479-master-of-the-secret-sea.json) |
@@ -10532,7 +10527,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menseki Genius | 192068 | [192068-menseki-genius.json](./192068-menseki-genius.json) |
 | Menseki: Area Maze puzzles | 186956 | [186956-menseki-area-maze-puzzles.json](./186956-menseki-area-maze-puzzles.json) |
 | Menseki: Area Maze Search | 247485 | [247485-menseki-area-maze-search.json](./247485-menseki-area-maze-search.json) |
-| Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
 | Mental Drift | 64643 | [64643-mental-drift.json](./64643-mental-drift.json) |
 | Mental Harm | 235751 | [235751-mental-harm.json](./235751-mental-harm.json) |
@@ -11579,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphor: ReFantazio - Atlus Brand 35th Anniversary Edition | 344026 | [344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json](./344026-metaphor-refantazio-atlus-brand-35th-anniversary-edition.json) |
 | Metaphor: ReFantazio - Collector's Edition | 300481 | [300481-metaphor-refantazio-collectors-edition.json](./300481-metaphor-refantazio-collectors-edition.json) |
 | Metaphor: ReFantazio - Launch Edition | 300480 | [300480-metaphor-refantazio-launch-edition.json](./300480-metaphor-refantazio-launch-edition.json) |
+| Metaphor: ReFantazio - Trials of the Blade | 423416 | [423416-metaphor-refantazio-trials-of-the-blade.json](./423416-metaphor-refantazio-trials-of-the-blade.json) |
 | Metaphor: ReFantazio: Etrian Odyssey Class Costumes (7) & Battle BGM Set | 418350 | [418350-metaphor-refantazio-etrian-odyssey-class-costumes-7-and-battle-bgm-set.json](./418350-metaphor-refantazio-etrian-odyssey-class-costumes-7-and-battle-bgm-set.json) |
 | Metaphor: ReFantazio: Persona 2 Seven Sisters High School Uniform (7), Battle BGM & Battle Jingle Set | 418351 | [418351-metaphor-refantazio-persona-2-seven-sisters-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418351-metaphor-refantazio-persona-2-seven-sisters-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
 | Metaphor: ReFantazio: Persona 3 Gekkoukan High School Uniform (7), Battle BGM & Battle Jingle Set | 418352 | [418352-metaphor-refantazio-persona-3-gekkoukan-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json](./418352-metaphor-refantazio-persona-3-gekkoukan-high-school-uniform-7-battle-bgm-and-battle-jingle-set.json) |
@@ -13178,7 +13173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | Midwinter Spirits | 179650 | [179650-midwinter-spirits.json](./179650-midwinter-spirits.json) |
 | Midwinter Springtime | 380141 | [380141-midwinter-springtime.json](./380141-midwinter-springtime.json) |
-| MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
 | Miecze Valdgira I+II | 424000 | [424000-miecze-valdgira-i-ii.json](./424000-miecze-valdgira-i-ii.json) |
 | Miedo a Crear | 425311 | [425311-miedo-a-crear.json](./425311-miedo-a-crear.json) |
 | MiedoW | 195510 | [195510-miedow.json](./195510-miedow.json) |
@@ -15177,7 +15171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimapperz | 337302 | [337302-minimapperz.json](./337302-minimapperz.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
-| MiniMax Tinyverse | 108351 | [108351-minimax-tinyverse.json](./108351-minimax-tinyverse.json) |
 | Minimize | 88665 | [88665-minimize.json](./88665-minimize.json) |
 | Minimized | 31457 | [31457-minimized.json](./31457-minimized.json) |
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
@@ -16595,7 +16588,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMA President | 130979 | [130979-mma-president.json](./130979-mma-president.json) |
 | MMA Sim King | 424777 | [424777-mma-sim-king.json](./424777-mma-sim-king.json) |
-| MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
 | MMA Tactics | 425138 | [425138-mma-tactics.json](./425138-mma-tactics.json) |
 | MMA: Fighting Clash 22 | 194046 | [194046-mma-fighting-clash-22.json](./194046-mma-fighting-clash-22.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
@@ -16607,7 +16599,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMM: Murder Most Misfortunate | 28425 | [28425-mmm-murder-most-misfortunate.json](./28425-mmm-murder-most-misfortunate.json) |
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
-| Mmmmmm... Cake! | 107833 | [107833-mmmmmm-cake.json](./107833-mmmmmm-cake.json) |
 | Mmnana | 388644 | [388644-mmnana.json](./388644-mmnana.json) |
 | MMO Simulator | 306168 | [306168-mmo-simulator.json](./306168-mmo-simulator.json) |
 | MMO98 | 391914 | [391914-mmo98.json](./391914-mmo98.json) |
@@ -16900,7 +16891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MochiCat Collection | 219850 | [219850-mochicat-collection.json](./219850-mochicat-collection.json) |
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
-| MochiMochi | 107533 | [107533-mochimochi.json](./107533-mochimochi.json) |
 | Mochis Army | 418162 | [418162-mochis-army.json](./418162-mochis-army.json) |
 | Moci Over It | 272603 | [272603-moci-over-it.json](./272603-moci-over-it.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
@@ -17444,7 +17434,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo no Hana ha Senketsu ni Somaru | 279197 | [279197-momo-no-hana-ha-senketsu-ni-somaru.json](./279197-momo-no-hana-ha-senketsu-ni-somaru.json) |
 | Momo Pop | 109965 | [109965-momo-pop.json](./109965-momo-pop.json) |
 | Momo Pop | 364342 | [364342-momo-pop.json](./364342-momo-pop.json) |
-| Momo.exe | 108391 | [108391-momo-exe.json](./108391-momo-exe.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo.exe VR | 173898 | [173898-momo-exe-vr.json](./173898-momo-exe-vr.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
@@ -18215,7 +18204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Factory | 242280 | [242280-monster-factory.json](./242280-monster-factory.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
-| Monster Farm | 108078 | [108078-monster-farm.json](./108078-monster-farm.json) |
 | Monster Farm DS 2: Yomigaeru! Master Breeder Densetsu | 124479 | [124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json](./124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Femdom | 418825 | [418825-monster-femdom.json](./418825-monster-femdom.json) |
@@ -19860,7 +19848,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorphaVerse | 285714 | [285714-morphaverse.json](./285714-morphaverse.json) |
 | Morphblade | 27659 | [27659-morphblade.json](./27659-morphblade.json) |
 | Morphcat Games Collection 1 | 191899 | [191899-morphcat-games-collection-1.json](./191899-morphcat-games-collection-1.json) |
-| Morphe | 109361 | [109361-morphe.json](./109361-morphe.json) |
 | Morphê | 23327 | [23327-morphe.json](./23327-morphe.json) |
 | Morpheus | 398019 | [398019-morpheus.json](./398019-morpheus.json) |
 | Morpheus | 40966 | [40966-morpheus.json](./40966-morpheus.json) |
@@ -20169,6 +20156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
+| Mortal Shell: Enhanced - Deluxe Edition | 423427 | [423427-mortal-shell-enhanced-deluxe-edition.json](./423427-mortal-shell-enhanced-deluxe-edition.json) |
 | Mortal Shell: Enhanced Edition | 146160 | [146160-mortal-shell-enhanced-edition.json](./146160-mortal-shell-enhanced-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
 | Mortal Shell: Game of the Year Edition | 201041 | [201041-mortal-shell-game-of-the-year-edition.json](./201041-mortal-shell-game-of-the-year-edition.json) |
@@ -20312,7 +20300,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MosGhost | 337362 | [337362-mosghost.json](./337362-mosghost.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit | 121982 | [121982-mosh-pit.json](./121982-mosh-pit.json) |
-| Mosh Pit Simulator | 109545 | [109545-mosh-pit-simulator.json](./109545-mosh-pit-simulator.json) |
 | Mosha Online | 126275 | [126275-mosha-online.json](./126275-mosha-online.json) |
 | Moshcave | 216709 | [216709-moshcave.json](./216709-moshcave.json) |
 | Móshén zhī Zhàn | 131627 | [131627-moshen-zhi-zhan.json](./131627-moshen-zhi-zhan.json) |
@@ -21857,7 +21844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Spell | 194177 | [194177-ms-spell.json](./194177-ms-spell.json) |
 | Ms. Spinderella | 408299 | [408299-ms-spinderella.json](./408299-ms-spinderella.json) |
 | Ms. Splosion Man | 15140 | [15140-ms-splosion-man.json](./15140-ms-splosion-man.json) |
-| Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | Ms. Terry's Pleasure Mansion | 395060 | [395060-ms-terrys-pleasure-mansion.json](./395060-ms-terrys-pleasure-mansion.json) |
 | Ms.Director | 148080 | [148080-ms-director.json](./148080-ms-director.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
@@ -22135,7 +22121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiBall | 104180 | [104180-multiball.json](./104180-multiball.json) |
 | Multibombers | 107507 | [107507-multibombers.json](./107507-multibombers.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
-| Multicellular | 107905 | [107905-multicellular.json](./107905-multicellular.json) |
 | Multicraft | 39187 | [39187-multicraft.json](./39187-multicraft.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | MultiDimensional 4-in-a-row | 173945 | [173945-multidimensional-4-in-a-row.json](./173945-multidimensional-4-in-a-row.json) |
