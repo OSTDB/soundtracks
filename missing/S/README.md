@@ -7629,7 +7629,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFCave for Playdate | 230736 | [230736-sfcave-for-playdate.json](./230736-sfcave-for-playdate.json) |
-| SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
 | Sfera | 346923 | [346923-sfera.json](./346923-sfera.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | SFG Soccer: Football Fever | 130523 | [130523-sfg-soccer-football-fever.json](./130523-sfg-soccer-football-fever.json) |
@@ -7752,7 +7751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
 | Shadow Brain | 48397 | [48397-shadow-brain.json](./48397-shadow-brain.json) |
 | Shadow Brawl | 292719 | [292719-shadow-brawl.json](./292719-shadow-brawl.json) |
-| Shadow Brawlers | 107404 | [107404-shadow-brawlers.json](./107404-shadow-brawlers.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Brides | 208128 | [208128-shadow-brides.json](./208128-shadow-brides.json) |
 | Shadow Bridge | 414182 | [414182-shadow-bridge.json](./414182-shadow-bridge.json) |
@@ -11579,7 +11577,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Girl's Makeover | 295148 | [295148-shy-girls-makeover.json](./295148-shy-girls-makeover.json) |
 | Shy Guy Surfing | 310662 | [310662-shy-guy-surfing.json](./310662-shy-guy-surfing.json) |
 | Shybot | 393473 | [393473-shybot.json](./393473-shybot.json) |
-| ShyChess | 106495 | [106495-shychess.json](./106495-shychess.json) |
 | Shyftrs | 205793 | [205793-shyftrs.json](./205793-shyftrs.json) |
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
@@ -16616,7 +16613,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Saga | 119278 | [119278-small-saga.json](./119278-small-saga.json) |
 | Small Santa Simulator | 326344 | [326344-small-santa-simulator.json](./326344-small-santa-simulator.json) |
 | Small Shop | 207549 | [207549-small-shop.json](./207549-small-shop.json) |
-| Small Sister | 105631 | [105631-small-sister.json](./105631-small-sister.json) |
 | Small Soldiers | 166528 | [166528-small-soldiers.json](./166528-small-soldiers.json) |
 | Small Soldiers | 200402 | [200402-small-soldiers.json](./200402-small-soldiers.json) |
 | Small Soldiers | 71671 | [71671-small-soldiers.json](./71671-small-soldiers.json) |
@@ -18698,7 +18694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
 | Socket | 4439 | [4439-socket.json](./4439-socket.json) |
 | Socket Fighters | 246007 | [246007-socket-fighters.json](./246007-socket-fighters.json) |
-| Socketeer | 107225 | [107225-socketeer.json](./107225-socketeer.json) |
 | Sockman | 75634 | [75634-sockman.json](./75634-sockman.json) |
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
@@ -25114,7 +25109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spica Adventure | 353943 | [353943-spica-adventure.json](./353943-spica-adventure.json) |
 | Spica Adventure | 60051 | [60051-spica-adventure.json](./60051-spica-adventure.json) |
 | Spice & Grill | 421473 | [421473-spice-and-grill.json](./421473-spice-and-grill.json) |
-| Spice and Wolf VR | 105419 | [105419-spice-and-wolf-vr.json](./105419-spice-and-wolf-vr.json) |
 | Spice and Wolf VR 2 | 124305 | [124305-spice-and-wolf-vr-2.json](./124305-spice-and-wolf-vr-2.json) |
 | Spice and Wolf: The Wind that Spans the Sea | 123448 | [123448-spice-and-wolf-the-wind-that-spans-the-sea.json](./123448-spice-and-wolf-the-wind-that-spans-the-sea.json) |
 | Spice Bandits | 312073 | [312073-spice-bandits.json](./312073-spice-bandits.json) |
@@ -34629,7 +34623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
 | Sulver's Journey | 129305 | [129305-sulvers-journey.json](./129305-sulvers-journey.json) |
-| Sum | 105690 | [105690-sum.json](./105690-sum.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum | 357507 | [357507-sum.json](./357507-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
@@ -39650,7 +39643,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgeon Simulator 2 | 127355 | [127355-surgeon-simulator-2.json](./127355-surgeon-simulator-2.json) |
 | Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator 2: Deluxe Edition | 227355 | [227355-surgeon-simulator-2-deluxe-edition.json](./227355-surgeon-simulator-2-deluxe-edition.json) |
-| Surgeon Simulator CPR | 106111 | [106111-surgeon-simulator-cpr.json](./106111-surgeon-simulator-cpr.json) |
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
 | Surgeon Simulator: Anniversary Edition | 8875 | [8875-surgeon-simulator-anniversary-edition.json](./8875-surgeon-simulator-anniversary-edition.json) |
 | Surgeon Simulator: Experience Reality | 26299 | [26299-surgeon-simulator-experience-reality.json](./26299-surgeon-simulator-experience-reality.json) |
