@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T10:35:59.597Z",
-  "total_soundtracks": 3926,
+  "generated_at": "2026-11-23T11:15:55.818Z",
+  "total_soundtracks": 3927,
   "games": [
     {
       "igdb_id": 292844,
@@ -28634,6 +28634,20 @@
           "album_name": "Night in the Woods (Original Soundtrack, Vol. 2) [Hold onto Anything]",
           "spotify_url": "https://open.spotify.com/album/5M5lsqSuJQ4TbvzOBMyOee",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107926,
+      "game_name": "Night of the Blood Moon",
+      "game_url": "https://ostdb.net/games/night-of-the-blood-moon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273993981805ae179f3c74c4cfd",
+      "albums": [
+        {
+          "album_name": "Night of the Blood Moon (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5yUs9RGJVLySKaLjOEjNIm",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
