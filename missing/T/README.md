@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talpoida | 410520 | [410520-talpoida.json](./410520-talpoida.json) |
 | Talsaluq: Tower of Infinity | 76301 | [76301-talsaluq-tower-of-infinity.json](./76301-talsaluq-tower-of-infinity.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
+| Taltos | 426890 | [426890-taltos.json](./426890-taltos.json) |
 | Talus | 226012 | [226012-talus.json](./226012-talus.json) |
 | Talus | 310875 | [310875-talus.json](./310875-talus.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
@@ -5830,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Turbo and the Big Bug Battles | 419114 | [419114-tex-turbo-and-the-big-bug-battles.json](./419114-tex-turbo-and-the-big-bug-battles.json) |
 | Tex-Mechs | 129324 | [129324-tex-mechs.json](./129324-tex-mechs.json) |
 | Tex'em | 253287 | [253287-texem.json](./253287-texem.json) |
+| TexanLand | 427508 | [427508-texanland.json](./427508-texanland.json) |
 | Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
 | Texas Border Guard | 293797 | [293797-texas-border-guard.json](./293797-texas-border-guard.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
@@ -6220,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned Presence | 247885 | [247885-the-abandoned-presence.json](./247885-the-abandoned-presence.json) |
 | The Abbattoir Intergrade | 96390 | [96390-the-abbattoir-intergrade.json](./96390-the-abbattoir-intergrade.json) |
 | The Abbess Garden | 334464 | [334464-the-abbess-garden.json](./334464-the-abbess-garden.json) |
+| The Abbess Garden: Deluxe | 426906 | [426906-the-abbess-garden-deluxe.json](./426906-the-abbess-garden-deluxe.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey of Crime Extensum | 32595 | [32595-the-abbey-of-crime-extensum.json](./32595-the-abbey-of-crime-extensum.json) |
 | The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
@@ -8614,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma 2B: Catacomb - The Gamer Youngho | 324473 | [324473-the-coma-2b-catacomb-the-gamer-youngho.json](./324473-the-coma-2b-catacomb-the-gamer-youngho.json) |
 | The Coma 2B: Catacomb - The Survivalist Youngho | 324474 | [324474-the-coma-2b-catacomb-the-survivalist-youngho.json](./324474-the-coma-2b-catacomb-the-survivalist-youngho.json) |
 | The Coma 3: Bloodlines - Autumn Girl Skin | 401675 | [401675-the-coma-3-bloodlines-autumn-girl-skin.json](./401675-the-coma-3-bloodlines-autumn-girl-skin.json) |
+| The Coma 3: Bloodlines - Dark Song Skin | 426914 | [426914-the-coma-3-bloodlines-dark-song-skin.json](./426914-the-coma-3-bloodlines-dark-song-skin.json) |
 | The Coma 3: Bloodlines - Daughter of a Millionaire Skin | 401671 | [401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json](./401671-the-coma-3-bloodlines-daughter-of-a-millionaire-skin.json) |
 | The Coma 3: Bloodlines - Deluxe Edition | 401674 | [401674-the-coma-3-bloodlines-deluxe-edition.json](./401674-the-coma-3-bloodlines-deluxe-edition.json) |
 | The Coma 3: Bloodlines - Gangster Shaman Girl Skin | 401584 | [401584-the-coma-3-bloodlines-gangster-shaman-girl-skin.json](./401584-the-coma-3-bloodlines-gangster-shaman-girl-skin.json) |
@@ -27721,6 +27725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Mystery | 77028 | [77028-titanic-mystery.json](./77028-titanic-mystery.json) |
 | Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic Panic | 101459 | [101459-titanic-panic.json](./101459-titanic-panic.json) |
+| Titanic Pinball Maiden Voyage | 427518 | [427518-titanic-pinball-maiden-voyage.json](./427518-titanic-pinball-maiden-voyage.json) |
 | Titanic Rescue | 360498 | [360498-titanic-rescue.json](./360498-titanic-rescue.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
