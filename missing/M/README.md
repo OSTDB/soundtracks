@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.R.S. | 141374 | [141374-m-a-r-s.json](./141374-m-a-r-s.json) |
 | M.A.R.S.S | 148230 | [148230-m-a-r-s-s.json](./148230-m-a-r-s-s.json) |
 | M.A.S.H. | 99264 | [99264-m-a-s-h.json](./99264-m-a-s-h.json) |
+| M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
 | M.A.U.S | 380650 | [380650-m-a-u-s.json](./380650-m-a-u-s.json) |
 | M.A.V. | 17103 | [17103-m-a-v.json](./17103-m-a-v.json) |
@@ -18381,6 +18382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Tri | 2268 | [2268-monster-hunter-tri.json](./2268-monster-hunter-tri.json) |
 | Monster Hunter Tri G | 85616 | [85616-monster-hunter-tri-g.json](./85616-monster-hunter-tri-g.json) |
 | Monster Hunter Tri: Classic Controller Pro Pack | 78629 | [78629-monster-hunter-tri-classic-controller-pro-pack.json](./78629-monster-hunter-tri-classic-controller-pro-pack.json) |
+| Monster Hunter Tri: Limited Edition | 78631 | [78631-monster-hunter-tri-limited-edition.json](./78631-monster-hunter-tri-limited-edition.json) |
 | Monster Hunter Tri: Special Pack | 78630 | [78630-monster-hunter-tri-special-pack.json](./78630-monster-hunter-tri-special-pack.json) |
 | Monster Hunter Wilds: Alma Outfit - Autumn Witch | 412290 | [412290-monster-hunter-wilds-alma-outfit-autumn-witch.json](./412290-monster-hunter-wilds-alma-outfit-autumn-witch.json) |
 | Monster Hunter Wilds: Alma Outfit - Featherskirt Seikret Dress | 412288 | [412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json](./412288-monster-hunter-wilds-alma-outfit-featherskirt-seikret-dress.json) |
@@ -20557,6 +20559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | moto RKD dash | 32653 | [32653-moto-rkd-dash.json](./32653-moto-rkd-dash.json) |
 | Moto Roader | 42104 | [42104-moto-roader.json](./42104-moto-roader.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
+| Moto Roader MC | 79389 | [79389-moto-roader-mc.json](./79389-moto-roader-mc.json) |
 | Moto Roller | 188871 | [188871-moto-roller.json](./188871-moto-roller.json) |
 | Moto Runner 3D | 106780 | [106780-moto-runner-3d.json](./106780-moto-runner-3d.json) |
 | Moto Rush GT | 115751 | [115751-moto-rush-gt.json](./115751-moto-rush-gt.json) |
@@ -25124,6 +25127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Detective Adventure | 308509 | [308509-mystery-detective-adventure.json](./308509-mystery-detective-adventure.json) |
 | Mystery Detective Adventure 2 | 417924 | [417924-mystery-detective-adventure-2.json](./417924-mystery-detective-adventure-2.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
+| Mystery Dungeon: Shiren the Wanderer | 78341 | [78341-mystery-dungeon-shiren-the-wanderer.json](./78341-mystery-dungeon-shiren-the-wanderer.json) |
 | Mystery Eater 2nd! | 82215 | [82215-mystery-eater-2nd.json](./82215-mystery-eater-2nd.json) |
 | Mystery Egg Shop Simulator | 391526 | [391526-mystery-egg-shop-simulator.json](./391526-mystery-egg-shop-simulator.json) |
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
