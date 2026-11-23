@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbella Vice | 371620 | [371620-marbella-vice.json](./371620-marbella-vice.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
+| Marble Abduction! Patti Hattu | 299945 | [299945-marble-abduction-patti-hattu.json](./299945-marble-abduction-patti-hattu.json) |
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
@@ -5880,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code - Digital Deluxe Edition | 247654 | [247654-master-detective-archives-rain-code-digital-deluxe-edition.json](./247654-master-detective-archives-rain-code-digital-deluxe-edition.json) |
 | Master Detective Archives: Rain Code - Mysteriful Limited Edition | 218885 | [218885-master-detective-archives-rain-code-mysteriful-limited-edition.json](./218885-master-detective-archives-rain-code-mysteriful-limited-edition.json) |
 | Master Detective Archives: Rain Code - Season Pass | 268784 | [268784-master-detective-archives-rain-code-season-pass.json](./268784-master-detective-archives-rain-code-season-pass.json) |
+| Master Detective Archives: Rain Code Plus | 300724 | [300724-master-detective-archives-rain-code-plus.json](./300724-master-detective-archives-rain-code-plus.json) |
 | Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Detective Reiji Takatori: Mystery Investigation | 400168 | [400168-master-detective-reiji-takatori-mystery-investigation.json](./400168-master-detective-reiji-takatori-mystery-investigation.json) |
@@ -6354,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
 | Matchbox Rescue Rigs | 209551 | [209551-matchbox-rescue-rigs.json](./209551-matchbox-rescue-rigs.json) |
 | Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
+| Matchbox: Driving Adventures | 305052 | [305052-matchbox-driving-adventures.json](./305052-matchbox-driving-adventures.json) |
 | Matchbox: Emergency Patrol | 232850 | [232850-matchbox-emergency-patrol.json](./232850-matchbox-emergency-patrol.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matchbox's Pizza Adventure | 305307 | [305307-matchboxs-pizza-adventure.json](./305307-matchboxs-pizza-adventure.json) |
@@ -15535,6 +15538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miraculous: Paris Dash | 421403 | [421403-miraculous-paris-dash.json](./421403-miraculous-paris-dash.json) |
 | Miraculous: Paris Under Siege | 314019 | [314019-miraculous-paris-under-siege.json](./314019-miraculous-paris-under-siege.json) |
 | Miraculous: Paris Under Siege - Deluxe Edition | 320679 | [320679-miraculous-paris-under-siege-deluxe-edition.json](./320679-miraculous-paris-under-siege-deluxe-edition.json) |
+| Miraculous: Rise of the Sphinx | 216552 | [216552-miraculous-rise-of-the-sphinx.json](./216552-miraculous-rise-of-the-sphinx.json) |
 | Miraculous: Rise of the Sphinx - Ultimate Edition | 223565 | [223565-miraculous-rise-of-the-sphinx-ultimate-edition.json](./223565-miraculous-rise-of-the-sphinx-ultimate-edition.json) |
 | Miraculum: The Last Revelation | 63927 | [63927-miraculum-the-last-revelation.json](./63927-miraculum-the-last-revelation.json) |
 | Mirada PDA Game | 243880 | [243880-mirada-pda-game.json](./243880-mirada-pda-game.json) |
