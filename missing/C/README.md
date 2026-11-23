@@ -8454,7 +8454,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief of the Valley | 427462 | [427462-chief-of-the-valley.json](./427462-chief-of-the-valley.json) |
 | Chief? About That File... | 424797 | [424797-chief-about-that-file.json](./424797-chief-about-that-file.json) |
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
-| Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
 | Chieri no Doki*Doki Yukemuri Burai Tabi | 266634 | [266634-chieri-no-doki-doki-yukemuri-burai-tabi.json](./266634-chieri-no-doki-doki-yukemuri-burai-tabi.json) |
 | Chiffa 2 | 30296 | [30296-chiffa-2.json](./30296-chiffa-2.json) |
