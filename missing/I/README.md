@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Butter | 336820 | [336820-i-am-butter.json](./336820-i-am-butter.json) |
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
+| I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
 | I Am Clown Fish Escape | 389107 | [389107-i-am-clown-fish-escape.json](./389107-i-am-clown-fish-escape.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Data | 121538 | [121538-i-am-data.json](./121538-i-am-data.json) |
