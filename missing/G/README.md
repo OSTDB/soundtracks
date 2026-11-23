@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield: Caught in the Act | 19736 | [19736-garfield-caught-in-the-act.json](./19736-garfield-caught-in-the-act.json) |
 | Garfield: Escape from Monday | 407405 | [407405-garfield-escape-from-monday.json](./407405-garfield-escape-from-monday.json) |
 | Garfield: Lasagna from Heaven | 396168 | [396168-garfield-lasagna-from-heaven.json](./396168-garfield-lasagna-from-heaven.json) |
+| Garfield: Lasagna Party | 218212 | [218212-garfield-lasagna-party.json](./218212-garfield-lasagna-party.json) |
 | Garfield: Lasagna World Tour | 43545 | [43545-garfield-lasagna-world-tour.json](./43545-garfield-lasagna-world-tour.json) |
 | Garfield: Saving Arlene | 43445 | [43445-garfield-saving-arlene.json](./43445-garfield-saving-arlene.json) |
 | Garfield: Survival of the Fattest | 108796 | [108796-garfield-survival-of-the-fattest.json](./108796-garfield-survival-of-the-fattest.json) |
@@ -11881,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guava Juice: Tub Tapper | 101162 | [101162-guava-juice-tub-tapper.json](./101162-guava-juice-tub-tapper.json) |
+| Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Guazu: The Rescue | 152531 | [152531-guazu-the-rescue.json](./152531-guazu-the-rescue.json) |
 | Gubbins | 262630 | [262630-gubbins.json](./262630-gubbins.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
