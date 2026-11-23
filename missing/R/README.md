@@ -2029,7 +2029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampo | 63409 | [63409-rampo.json](./63409-rampo.json) |
 | Ramps | 416889 | [416889-ramps.json](./416889-ramps.json) |
 | Ramps | 56690 | [56690-ramps.json](./56690-ramps.json) |
-| Rams | 108648 | [108648-rams.json](./108648-rams.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
@@ -2672,7 +2671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravished Realms | 172359 | [172359-ravished-realms.json](./172359-ravished-realms.json) |
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
-| Ravva and the Cyclops Curse | 110675 | [110675-ravva-and-the-cyclops-curse.json](./110675-ravva-and-the-cyclops-curse.json) |
 | Ravva and the Netherworld Train | 291727 | [291727-ravva-and-the-netherworld-train.json](./291727-ravva-and-the-netherworld-train.json) |
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
@@ -4320,7 +4318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red Algorithm: Osiris | 155447 | [155447-red-algorithm-osiris.json](./155447-red-algorithm-osiris.json) |
-| Red Alliance | 110708 | [110708-red-alliance.json](./110708-red-alliance.json) |
 | Red Amazon | 231793 | [231793-red-amazon.json](./231793-red-amazon.json) |
 | Red and Blue | 133776 | [133776-red-and-blue.json](./133776-red-and-blue.json) |
 | Red and Blue Balls | 99395 | [99395-red-and-blue-balls.json](./99395-red-and-blue-balls.json) |
@@ -6876,7 +6873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink \| Evolved 6 | 398607 | [398607-rethink-evolved-6.json](./398607-rethink-evolved-6.json) |
-| ReThink 2 | 109380 | [109380-rethink-2.json](./109380-rethink-2.json) |
 | ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
@@ -7529,7 +7525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveniev: A Day in Nassiriyah | 391978 | [391978-reveniev-a-day-in-nassiriyah.json](./391978-reveniev-a-day-in-nassiriyah.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
-| Reventa | 108622 | [108622-reventa.json](./108622-reventa.json) |
 | Reventure | 118922 | [118922-reventure.json](./118922-reventure.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
 | Reverb | 304536 | [304536-reverb.json](./304536-reverb.json) |
@@ -11577,7 +11572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Ops | 4094 | [4094-rogue-ops.json](./4094-rogue-ops.json) |
 | Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
 | Rogue Paper Scissors | 357716 | [357716-rogue-paper-scissors.json](./357716-rogue-paper-scissors.json) |
-| Rogue Party | 108342 | [108342-rogue-party.json](./108342-rogue-party.json) |
 | Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
@@ -13050,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge Process | 423100 | [423100-rouge-process.json](./423100-rouge-process.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rouge the Bat in Sonic the Hedgehog | 203162 | [203162-rouge-the-bat-in-sonic-the-hedgehog.json](./203162-rouge-the-bat-in-sonic-the-hedgehog.json) |
+| Rouge: Space Pilot | 423414 | [423414-rouge-space-pilot.json](./423414-rouge-space-pilot.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rouge's Flush | 408728 | [408728-rouges-flush.json](./408728-rouges-flush.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
