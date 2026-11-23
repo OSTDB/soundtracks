@@ -237,7 +237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Pogo Club | 390750 | [390750-waifu-pogo-club.json](./390750-waifu-pogo-club.json) |
 | Waifu Puzzles | 243482 | [243482-waifu-puzzles.json](./243482-waifu-puzzles.json) |
 | Waifu Quest 2 | 311813 | [311813-waifu-quest-2.json](./311813-waifu-quest-2.json) |
-| Waifu School | 106413 | [106413-waifu-school.json](./106413-waifu-school.json) |
 | Waifu Secret | 169835 | [169835-waifu-secret.json](./169835-waifu-secret.json) |
 | Waifu Secret 2 | 149420 | [149420-waifu-secret-2.json](./149420-waifu-secret-2.json) |
 | Waifu Simulator | 326307 | [326307-waifu-simulator.json](./326307-waifu-simulator.json) |
@@ -4039,7 +4038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
 | Werewolves Revenge | 316509 | [316509-werewolves-revenge.json](./316509-werewolves-revenge.json) |
 | Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
-| Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werfast | 422200 | [422200-werfast.json](./422200-werfast.json) |
 | Werft-Simulator 2013 | 208482 | [208482-werft-simulator-2013.json](./208482-werft-simulator-2013.json) |
 | Werlocks.io | 178169 | [178169-werlocks-io.json](./178169-werlocks-io.json) |
@@ -5861,7 +5859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widiland | 235089 | [235089-widiland.json](./235089-widiland.json) |
 | Widow in the Endless Labyrinth | 267104 | [267104-widow-in-the-endless-labyrinth.json](./267104-widow-in-the-endless-labyrinth.json) |
 | Widow's Woods - A Southfog Mini Adventure | 123206 | [123206-widows-woods-a-southfog-mini-adventure.json](./123206-widows-woods-a-southfog-mini-adventure.json) |
-| Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
 | Wiener Coffee | 359630 | [359630-wiener-coffee.json](./359630-wiener-coffee.json) |
