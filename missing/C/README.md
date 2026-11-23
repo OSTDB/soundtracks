@@ -6786,6 +6786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
 | Champions Ascension | 240431 | [240431-champions-ascension.json](./240431-champions-ascension.json) |
+| Champions City | 426863 | [426863-champions-city.json](./426863-champions-city.json) |
 | Champions Forces | 129461 | [129461-champions-forces.json](./129461-champions-forces.json) |
 | Champions Forever Boxing | 42115 | [42115-champions-forever-boxing.json](./42115-champions-forever-boxing.json) |
 | Champions Legion | 133606 | [133606-champions-legion.json](./133606-champions-legion.json) |
@@ -10461,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
 | Circuit Racer 2: Race and Chase | 88499 | [88499-circuit-racer-2-race-and-chase.json](./88499-circuit-racer-2-race-and-chase.json) |
 | Circuit Runner | 311634 | [311634-circuit-runner.json](./311634-circuit-runner.json) |
+| Circuit Shop | 426300 | [426300-circuit-shop.json](./426300-circuit-shop.json) |
 | Circuit Slinger | 113392 | [113392-circuit-slinger.json](./113392-circuit-slinger.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
@@ -14017,6 +14019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Corruption | 272638 | [272638-color-corruption.json](./272638-color-corruption.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Creature | 317464 | [317464-color-creature.json](./317464-color-creature.json) |
+| Color Cruiser | 426847 | [426847-color-cruiser.json](./426847-color-cruiser.json) |
 | Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
 | Color Crush 2 | 147035 | [147035-color-crush-2.json](./147035-color-crush-2.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
