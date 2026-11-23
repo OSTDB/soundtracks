@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
 | Killer Bees! | 22728 | [22728-killer-bees.json](./22728-killer-bees.json) |
 | Killer Bunny | 249427 | [249427-killer-bunny.json](./249427-killer-bunny.json) |
+| Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
 | Killer Chat: Extended Edition | 318670 | [318670-killer-chat-extended-edition.json](./318670-killer-chat-extended-edition.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
