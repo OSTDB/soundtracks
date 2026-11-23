@@ -3006,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot 2 | 91632 | [91632-elifoot-2.json](./91632-elifoot-2.json) |
 | Elifoot 2002 | 398928 | [398928-elifoot-2002.json](./398928-elifoot-2002.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
+| Eliim Princes | 428088 | [428088-eliim-princes.json](./428088-eliim-princes.json) |
 | Elijah and the Out of this World Adventure | 171679 | [171679-elijah-and-the-out-of-this-world-adventure.json](./171679-elijah-and-the-out-of-this-world-adventure.json) |
 | Eliminate | 80700 | [80700-eliminate.json](./80700-eliminate.json) |
 | Eliminate Down | 46176 | [46176-eliminate-down.json](./46176-eliminate-down.json) |
@@ -4370,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
 | Endless Dungeon: Last Wish Edition | 263319 | [263319-endless-dungeon-last-wish-edition.json](./263319-endless-dungeon-last-wish-edition.json) |
 | Endless Empty | 320498 | [320498-endless-empty.json](./320498-endless-empty.json) |
+| Endless Endless Ocean | 428090 | [428090-endless-endless-ocean.json](./428090-endless-endless-ocean.json) |
 | Endless Engines | 219249 | [219249-endless-engines.json](./219249-endless-engines.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
@@ -7597,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
 | European Conqueror X | 106700 | [106700-european-conqueror-x.json](./106700-european-conqueror-x.json) |
+| European Deadzone: Polesie | 428079 | [428079-european-deadzone-polesie.json](./428079-european-deadzone-polesie.json) |
 | European Expansion + Oceania Expansion | 276550 | [276550-european-expansion-oceania-expansion.json](./276550-european-expansion-oceania-expansion.json) |
 | European Expansion + Oceania Expansion + Seasonal Decorative Pack | 276551 | [276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
