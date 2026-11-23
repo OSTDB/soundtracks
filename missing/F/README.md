@@ -10371,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklands | 239841 | [239841-folklands.json](./239841-folklands.json) |
 | Folklore | 7307 | [7307-folklore.json](./7307-folklore.json) |
 | Folklore Fishing | 379419 | [379419-folklore-fishing.json](./379419-folklore-fishing.json) |
+| Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
 | Folklore Reloaded | 379420 | [379420-folklore-reloaded.json](./379420-folklore-reloaded.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folklorests | 351334 | [351334-folklorests.json](./351334-folklorests.json) |
@@ -10514,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Pup: Cooking Chef | 294630 | [294630-food-truck-pup-cooking-chef.json](./294630-food-truck-pup-cooking-chef.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
+| Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
 | Food Truck Time Machine | 260299 | [260299-food-truck-time-machine.json](./260299-food-truck-time-machine.json) |
 | Food Truck Together | 385309 | [385309-food-truck-together.json](./385309-food-truck-together.json) |
 | Food Truck Tycoon | 114908 | [114908-food-truck-tycoon.json](./114908-food-truck-tycoon.json) |
@@ -11073,6 +11075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Realm | 423367 | [423367-for-the-realm.json](./423367-for-the-realm.json) |
 | For the Revenge | 107921 | [107921-for-the-revenge.json](./107921-for-the-revenge.json) |
 | For The Stars | 377329 | [377329-for-the-stars.json](./377329-for-the-stars.json) |
+| For the Warp | 127685 | [127685-for-the-warp.json](./127685-for-the-warp.json) |
 | For the Wheat | 361734 | [361734-for-the-wheat.json](./361734-for-the-wheat.json) |
 | For The Win | 321509 | [321509-for-the-win.json](./321509-for-the-win.json) |
 | For Those We Forgot | 291369 | [291369-for-those-we-forgot.json](./291369-for-those-we-forgot.json) |
