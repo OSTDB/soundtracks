@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Frog's Job: Level Pack 1 | 306558 | [306558-a-frogs-job-level-pack-1.json](./306558-a-frogs-job-level-pack-1.json) |
 | A Frog's Job: Level Pack 2 | 306559 | [306559-a-frogs-job-level-pack-2.json](./306559-a-frogs-job-level-pack-2.json) |
 | A Frog's Tale | 144700 | [144700-a-frogs-tale.json](./144700-a-frogs-tale.json) |
+| A Front Too Far: Normandy | 110958 | [110958-a-front-too-far-normandy.json](./110958-a-front-too-far-normandy.json) |
 | A Frustrating Platformer | 190382 | [190382-a-frustrating-platformer.json](./190382-a-frustrating-platformer.json) |
 | A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
 | A Fume de Carozo | 364343 | [364343-a-fume-de-carozo.json](./364343-a-fume-de-carozo.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Zombie | 367317 | [367317-achievement-hunter-zombie.json](./367317-achievement-hunter-zombie.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
+| Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Another one bites the dust | 95214 | [95214-achievement-lurker-another-one-bites-the-dust.json](./95214-achievement-lurker-another-one-bites-the-dust.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
@@ -4411,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Venice Carnival | 336984 | [336984-adventure-mosaics-venice-carnival.json](./336984-adventure-mosaics-venice-carnival.json) |
 | Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
+| Adventure of a Lifetime | 97221 | [97221-adventure-of-a-lifetime.json](./97221-adventure-of-a-lifetime.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Bears | 169100 | [169100-adventure-of-bears.json](./169100-adventure-of-bears.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
@@ -9794,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Christmas | 112829 | [112829-amaze-christmas.json](./112829-amaze-christmas.json) |
+| Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
 | Amaze Classic: Inverted | 104079 | [104079-amaze-classic-inverted.json](./104079-amaze-classic-inverted.json) |
 | Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
