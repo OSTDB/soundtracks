@@ -4734,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
 | Just Madness: Earth Apocalypse 1979 | 412250 | [412250-just-madness-earth-apocalypse-1979.json](./412250-just-madness-earth-apocalypse-1979.json) |
 | Just Maze | 184295 | [184295-just-maze.json](./184295-just-maze.json) |
+| Just Me and My Cat | 426264 | [426264-just-me-and-my-cat.json](./426264-just-me-and-my-cat.json) |
 | Just Me and My Grandpa | 72795 | [72795-just-me-and-my-grandpa.json](./72795-just-me-and-my-grandpa.json) |
 | Just Me and my Mom | 209851 | [209851-just-me-and-my-mom.json](./209851-just-me-and-my-mom.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
