@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Lands | 269958 | [269958-magical-lands.json](./269958-magical-lands.json) |
 | Magical Literary Heroine Natsuki Saves The Literature Club! | 334273 | [334273-magical-literary-heroine-natsuki-saves-the-literature-club.json](./334273-magical-literary-heroine-natsuki-saves-the-literature-club.json) |
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
+| Magical Magic World 2 | 425669 | [425669-magical-magic-world-2.json](./425669-magical-magic-world-2.json) |
 | Magical Maiden Madison | 128775 | [128775-magical-maiden-madison.json](./128775-magical-maiden-madison.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
@@ -3967,6 +3968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Castle | 413496 | [413496-marble-castle.json](./413496-marble-castle.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Clash: Crazy Fun Shooter | 216096 | [216096-marble-clash-crazy-fun-shooter.json](./216096-marble-clash-crazy-fun-shooter.json) |
+| Marble Co. | 425066 | [425066-marble-co.json](./425066-marble-co.json) |
 | Marble Combat | 113258 | [113258-marble-combat.json](./113258-marble-combat.json) |
 | Marble Computing | 190399 | [190399-marble-computing.json](./190399-marble-computing.json) |
 | Marble Cooking | 73385 | [73385-marble-cooking.json](./73385-marble-cooking.json) |
@@ -10804,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercy Incore | 388387 | [388387-mercy-incore.json](./388387-mercy-incore.json) |
 | Mercyful Flames: The Witches | 117587 | [117587-mercyful-flames-the-witches.json](./117587-mercyful-flames-the-witches.json) |
 | Mercyrail: Havenbound | 415191 | [415191-mercyrail-havenbound.json](./415191-mercyrail-havenbound.json) |
+| Merdan: Night Protocol | 425068 | [425068-merdan-night-protocol.json](./425068-merdan-night-protocol.json) |
 | Merek's Market | 146447 | [146447-mereks-market.json](./146447-mereks-market.json) |
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
@@ -16292,6 +16295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithral Gun:Biomechanical | 122016 | [122016-mithral-gun-biomechanical.json](./122016-mithral-gun-biomechanical.json) |
 | Mithrall | 293584 | [293584-mithrall.json](./293584-mithrall.json) |
 | Mithril | 417693 | [417693-mithril.json](./417693-mithril.json) |
+| Mithril & Mud | 426293 | [426293-mithril-and-mud.json](./426293-mithril-and-mud.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mithrun Calls | 308740 | [308740-mithrun-calls.json](./308740-mithrun-calls.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
