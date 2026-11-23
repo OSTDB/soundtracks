@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangnam Style Massacre | 216768 | [216768-gangnam-style-massacre.json](./216768-gangnam-style-massacre.json) |
 | Gangpire: Fire & Fury | 188309 | [188309-gangpire-fire-and-fury.json](./188309-gangpire-fire-and-fury.json) |
 | Gangs of Asia | 360068 | [360068-gangs-of-asia.json](./360068-gangs-of-asia.json) |
+| Gangs of London | 23136 | [23136-gangs-of-london.json](./23136-gangs-of-london.json) |
 | Gangs of Neo Tokyo | 325986 | [325986-gangs-of-neo-tokyo.json](./325986-gangs-of-neo-tokyo.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Sherwood: Alan-a-Dale Alternative Skin | 426050 | [426050-gangs-of-sherwood-alan-a-dale-alternative-skin.json](./426050-gangs-of-sherwood-alan-a-dale-alternative-skin.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
+| Glowgrove | 431038 | [431038-glowgrove.json](./431038-glowgrove.json) |
 | Glowie Rammer | 309929 | [309929-glowie-rammer.json](./309929-glowie-rammer.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowing Abyss | 278766 | [278766-glowing-abyss.json](./278766-glowing-abyss.json) |
@@ -6739,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Gourmet | 360029 | [360029-goblin-gourmet.json](./360029-goblin-gourmet.json) |
 | Goblin Harvest - The Mighty Quest | 29269 | [29269-goblin-harvest-the-mighty-quest.json](./29269-goblin-harvest-the-mighty-quest.json) |
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
+| Goblin Hoarder | 431022 | [431022-goblin-hoarder.json](./431022-goblin-hoarder.json) |
 | Goblin Hotdogs | 304925 | [304925-goblin-hotdogs.json](./304925-goblin-hotdogs.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
 | Goblin Invasion | 262749 | [262749-goblin-invasion.json](./262749-goblin-invasion.json) |
@@ -7712,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf | 372204 | [372204-golf.json](./372204-golf.json) |
 | Golf | 86354 | [86354-golf.json](./86354-golf.json) |
 | Golf & Domino | 292563 | [292563-golf-and-domino.json](./292563-golf-and-domino.json) |
+| Golf 1999 | 23133 | [23133-golf-1999.json](./23133-golf-1999.json) |
 | Golf 2D | 74208 | [74208-golf-2d.json](./74208-golf-2d.json) |
 | Golf 5 eClub | 194227 | [194227-golf-5-eclub.json](./194227-golf-5-eclub.json) |
 | Golf 5 Max | 394096 | [394096-golf-5-max.json](./394096-golf-5-max.json) |
@@ -12833,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
 | Gunnihilation | 32010 | [32010-gunnihilation.json](./32010-gunnihilation.json) |
 | Gunning Over It! | 212117 | [212117-gunning-over-it.json](./212117-gunning-over-it.json) |
+| Gunnm Martian Memory | 23152 | [23152-gunnm-martian-memory.json](./23152-gunnm-martian-memory.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
