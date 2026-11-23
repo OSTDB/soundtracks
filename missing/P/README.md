@@ -13853,6 +13853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
+| Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Special Police Vehicle Pack | 332107 | [332107-police-simulator-patrol-officers-special-police-vehicle-pack.json](./332107-police-simulator-patrol-officers-special-police-vehicle-pack.json) |
 | Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
@@ -15144,6 +15145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait Mode | 404027 | [404027-portrait-mode.json](./404027-portrait-mode.json) |
 | Portrait of a Cornish Woman | 319137 | [319137-portrait-of-a-cornish-woman.json](./319137-portrait-of-a-cornish-woman.json) |
 | Portrait of a Ghost | 320911 | [320911-portrait-of-a-ghost.json](./320911-portrait-of-a-ghost.json) |
+| Portrait of a Torn | 318362 | [318362-portrait-of-a-torn.json](./318362-portrait-of-a-torn.json) |
 | Portrait of an Obsession: A Forgotten Hill Tale | 388675 | [388675-portrait-of-an-obsession-a-forgotten-hill-tale.json](./388675-portrait-of-an-obsession-a-forgotten-hill-tale.json) |
 | Portrait of Ruin: Refined Edition | 233601 | [233601-portrait-of-ruin-refined-edition.json](./233601-portrait-of-ruin-refined-edition.json) |
 | Portrait on Imagined Horizon | 342944 | [342944-portrait-on-imagined-horizon.json](./342944-portrait-on-imagined-horizon.json) |
