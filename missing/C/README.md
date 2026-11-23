@@ -5790,7 +5790,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 284224 | [284224-caveman.json](./284224-caveman.json) |
 | Caveman | 335472 | [335472-caveman.json](./335472-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
-| Caveman adventures | 107479 | [107479-caveman-adventures.json](./107479-caveman-adventures.json) |
 | Caveman Alive | 68499 | [68499-caveman-alive.json](./68499-caveman-alive.json) |
 | Caveman Birdminton | 248264 | [248264-caveman-birdminton.json](./248264-caveman-birdminton.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
@@ -9801,9 +9800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Magic | 95250 | [95250-chronicles-of-magic.json](./95250-chronicles-of-magic.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
-| Chronicles of Mystery - Secret of the Lost Kingdom | 105440 | [105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json](./105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json) |
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
-| Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
 | Chronicles of Mystery: The Tree of Life | 24354 | [24354-chronicles-of-mystery-the-tree-of-life.json](./24354-chronicles-of-mystery-the-tree-of-life.json) |
 | Chronicles of Omniluxia | 393668 | [393668-chronicles-of-omniluxia.json](./393668-chronicles-of-omniluxia.json) |
@@ -10281,7 +10278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
 | Cindy's Fashion World | 278863 | [278863-cindys-fashion-world.json](./278863-cindys-fashion-world.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
-| Cine Game | 106152 | [106152-cine-game.json](./106152-cine-game.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cine Tracer 2 | 258584 | [258584-cine-tracer-2.json](./258584-cine-tracer-2.json) |
 | Cinema | 131118 | [131118-cinema.json](./131118-cinema.json) |
@@ -10753,7 +10749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citroën C4 Robot | 229917 | [229917-citroen-c4-robot.json](./229917-citroen-c4-robot.json) |
 | Citron World Forward: Zero | 260330 | [260330-citron-world-forward-zero.json](./260330-citron-world-forward-zero.json) |
 | CitronRapide | 146071 | [146071-citronrapide.json](./146071-citronrapide.json) |
-| Citrouille: Sweet Witches | 106531 | [106531-citrouille-sweet-witches.json](./106531-citrouille-sweet-witches.json) |
 | Citrus | 104440 | [104440-citrus.json](./104440-citrus.json) |
 | Citrus Rampage | 189073 | [189073-citrus-rampage.json](./189073-citrus-rampage.json) |
 | Citrus Summer | 373888 | [373888-citrus-summer.json](./373888-citrus-summer.json) |
@@ -12163,7 +12158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
 | Clinical Memory | 414676 | [414676-clinical-memory.json](./414676-clinical-memory.json) |
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
-| Clinically Dead | 107474 | [107474-clinically-dead.json](./107474-clinically-dead.json) |
 | CLINK | 345549 | [345549-clink.json](./345549-clink.json) |
 | Clint is Not an Incel: A Word on Fatness and Masculinity | 141918 | [141918-clint-is-not-an-incel-a-word-on-fatness-and-masculinity.json](./141918-clint-is-not-an-incel-a-word-on-fatness-and-masculinity.json) |
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
@@ -15197,7 +15191,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Origins - No Man Left Behind | 399159 | [399159-commandos-origins-no-man-left-behind.json](./399159-commandos-origins-no-man-left-behind.json) |
 | Commandos: Origins - Shadows over Crete | 377670 | [377670-commandos-origins-shadows-over-crete.json](./377670-commandos-origins-shadows-over-crete.json) |
 | Commandos: Strike Force | 275 | [275-commandos-strike-force.json](./275-commandos-strike-force.json) |
-| Commands & Colors: Ancients | 105485 | [105485-commands-and-colors-ancients.json](./105485-commands-and-colors-ancients.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
 | CommanDSKeen | 298943 | [298943-commandskeen.json](./298943-commandskeen.json) |
 | Commbat | 56340 | [56340-commbat.json](./56340-commbat.json) |
@@ -23064,7 +23057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed and Fading | 427807 | [427807-cursed-and-fading.json](./427807-cursed-and-fading.json) |
 | Cursed Angel: Time Paradox | 223283 | [223283-cursed-angel-time-paradox.json](./223283-cursed-angel-time-paradox.json) |
 | Cursed Apartment | 321951 | [321951-cursed-apartment.json](./321951-cursed-apartment.json) |
-| Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Blight | 394083 | [394083-cursed-blight.json](./394083-cursed-blight.json) |
