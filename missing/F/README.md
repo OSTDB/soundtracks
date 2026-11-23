@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 200 in 1 | 307457 | [307457-family-sport-200-in-1.json](./307457-family-sport-200-in-1.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
+| Family Style | 428873 | [428873-family-style.json](./428873-family-style.json) |
 | Family Table Tennis | 6681 | [6681-family-table-tennis.json](./6681-family-table-tennis.json) |
 | Family Table Tennis 3D | 85659 | [85659-family-table-tennis-3d.json](./85659-family-table-tennis-3d.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
@@ -12557,6 +12558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossara | 403451 | [403451-fossara.json](./403451-fossara.json) |
 | Fossick Underground | 246447 | [246447-fossick-underground.json](./246447-fossick-underground.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
+| Fossil Crown | 429264 | [429264-fossil-crown.json](./429264-fossil-crown.json) |
 | Fossil Diggers VR | 265525 | [265525-fossil-diggers-vr.json](./265525-fossil-diggers-vr.json) |
 | Fossil Echo: Special Edition | 53061 | [53061-fossil-echo-special-edition.json](./53061-fossil-echo-special-edition.json) |
 | Fossil Fighters | 20978 | [20978-fossil-fighters.json](./20978-fossil-fighters.json) |
