@@ -7701,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilie Pals | 190827 | [190827-pilie-pals.json](./190827-pilie-pals.json) |
 | Pilki Filki 2 | 99987 | [99987-pilki-filki-2.json](./99987-pilki-filki-2.json) |
 | Pilko | 149701 | [149701-pilko.json](./149701-pilko.json) |
+| Pill & Chill | 431032 | [431032-pill-and-chill.json](./431032-pill-and-chill.json) |
 | Pill After Pill | 400540 | [400540-pill-after-pill.json](./400540-pill-after-pill.json) |
 | Pill Baby | 192725 | [192725-pill-baby.json](./192725-pill-baby.json) |
 | Pill Bird Remastered | 427586 | [427586-pill-bird-remastered.json](./427586-pill-bird-remastered.json) |
@@ -7772,6 +7773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilo and the Holobook | 251865 | [251865-pilo-and-the-holobook.json](./251865-pilo-and-the-holobook.json) |
 | Pilot | 137773 | [137773-pilot.json](./137773-pilot.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
+| Pilot Academy | 23121 | [23121-pilot-academy.json](./23121-pilot-academy.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
@@ -13471,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokémon: Professor Oak Challenge | 338849 | [338849-pokemon-professor-oak-challenge.json](./338849-pokemon-professor-oak-challenge.json) |
 | Pokémon: Salt & Shadow | 329514 | [329514-pokemon-salt-and-shadow.json](./329514-pokemon-salt-and-shadow.json) |
+| Pokémon: Super Cool Spot Version | 429412 | [429412-pokemon-super-cool-spot-version.json](./429412-pokemon-super-cool-spot-version.json) |
 | Pokémon: The Evil Inside | 372777 | [372777-pokemon-the-evil-inside.json](./372777-pokemon-the-evil-inside.json) |
 | Pokemon: The Hodgepodge Platoon | 327157 | [327157-pokemon-the-hodgepodge-platoon.json](./327157-pokemon-the-hodgepodge-platoon.json) |
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
@@ -14470,6 +14473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Hall Pro | 261971 | [261971-pool-hall-pro.json](./261971-pool-hall-pro.json) |
 | Pool Hall Pro | 50951 | [50951-pool-hall-pro.json](./50951-pool-hall-pro.json) |
 | Pool House | 54284 | [54284-pool-house.json](./54284-pool-house.json) |
+| Pool Hustler | 23153 | [23153-pool-hustler.json](./23153-pool-hustler.json) |
 | Pool Island | 84384 | [84384-pool-island.json](./84384-pool-island.json) |
 | Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Live Tour: Champions | 56390 | [56390-pool-live-tour-champions.json](./56390-pool-live-tour-champions.json) |
@@ -19659,6 +19663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychotic Bathtub | 261673 | [261673-psychotic-bathtub.json](./261673-psychotic-bathtub.json) |
+| Psychotic Descent | 430998 | [430998-psychotic-descent.json](./430998-psychotic-descent.json) |
 | Psychotic Nightmare | 311880 | [311880-psychotic-nightmare.json](./311880-psychotic-nightmare.json) |
 | Psychotoxic | 8320 | [8320-psychotoxic.json](./8320-psychotoxic.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
