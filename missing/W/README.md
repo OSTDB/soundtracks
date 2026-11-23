@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls of Rome | 72207 | [72207-walls-of-rome.json](./72207-walls-of-rome.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
+| Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | Wallsurf | 320074 | [320074-wallsurf.json](./320074-wallsurf.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
@@ -6492,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy Wombat | 45401 | [45401-willy-wombat.json](./45401-willy-wombat.json) |
 | Willy Wonka & The Chocolate Factory | 130786 | [130786-willy-wonka-and-the-chocolate-factory.json](./130786-willy-wonka-and-the-chocolate-factory.json) |
+| Willy-Nilly Knight | 29101 | [29101-willy-nilly-knight.json](./29101-willy-nilly-knight.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
 | Willy's Horrorland | 233565 | [233565-willys-horrorland.json](./233565-willys-horrorland.json) |
 | Willy's Wonderland | 233044 | [233044-willys-wonderland.json](./233044-willys-wonderland.json) |
