@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
 | Dance Dance Revolution Hottest Party 5 | 50643 | [50643-dance-dance-revolution-hottest-party-5.json](./50643-dance-dance-revolution-hottest-party-5.json) |
 | Dance Dance Revolution II | 50684 | [50684-dance-dance-revolution-ii.json](./50684-dance-dance-revolution-ii.json) |
+| Dance Dance Revolution Konamix | 23794 | [23794-dance-dance-revolution-konamix.json](./23794-dance-dance-revolution-konamix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
@@ -2016,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: The Exiled Prince | 27027 | [27027-dark-parables-the-exiled-prince.json](./27027-dark-parables-the-exiled-prince.json) |
 | Dark Parables: The Exiled Prince - Collector's Edition | 32381 | [32381-dark-parables-the-exiled-prince-collectors-edition.json](./32381-dark-parables-the-exiled-prince-collectors-edition.json) |
 | Dark Parables: The Final Cinderella | 139794 | [139794-dark-parables-the-final-cinderella.json](./139794-dark-parables-the-final-cinderella.json) |
+| Dark Parables: The Final Cinderella - Collector's Edition | 32779 | [32779-dark-parables-the-final-cinderella-collectors-edition.json](./32779-dark-parables-the-final-cinderella-collectors-edition.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide | 57160 | [57160-dark-parables-the-little-mermaid-and-the-purple-tide.json](./57160-dark-parables-the-little-mermaid-and-the-purple-tide.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide - Collector's Edition | 33232 | [33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json](./33232-dark-parables-the-little-mermaid-and-the-purple-tide-collectors-edition.json) |
 | Dark Parables: The Little Mermaid and the Purple Tide HD | 93913 | [93913-dark-parables-the-little-mermaid-and-the-purple-tide-hd.json](./93913-dark-parables-the-little-mermaid-and-the-purple-tide-hd.json) |
@@ -2830,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash'n'Drops | 389587 | [389587-dashndrops.json](./389587-dashndrops.json) |
 | Dashball | 135644 | [135644-dashball.json](./135644-dashball.json) |
 | DashBall | 380237 | [380237-dashball.json](./380237-dashball.json) |
+| DashBored | 32847 | [32847-dashbored.json](./32847-dashbored.json) |
 | Dashbot Ninja | 126375 | [126375-dashbot-ninja.json](./126375-dashbot-ninja.json) |
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | DashBreaker | 424448 | [424448-dashbreaker.json](./424448-dashbreaker.json) |
@@ -3523,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: Arcade | 47436 | [47436-days-of-thunder-arcade.json](./47436-days-of-thunder-arcade.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
+| Days of War | 26403 | [26403-days-of-war.json](./26403-days-of-war.json) |
 | Days of White | 83191 | [83191-days-of-white.json](./83191-days-of-white.json) |
 | Days of Wrath | 80224 | [80224-days-of-wrath.json](./80224-days-of-wrath.json) |
 | Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
@@ -9850,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
 | Diamond Mind Baseball 8.0 | 94249 | [94249-diamond-mind-baseball-8-0.json](./94249-diamond-mind-baseball-8-0.json) |
+| Diamond Mind Baseball 9 | 23802 | [23802-diamond-mind-baseball-9.json](./23802-diamond-mind-baseball-9.json) |
 | Diamond Mine | 72531 | [72531-diamond-mine.json](./72531-diamond-mine.json) |
 | Diamond Mine II | 65149 | [65149-diamond-mine-ii.json](./65149-diamond-mine-ii.json) |
 | Diamond Mirage | 151587 | [151587-diamond-mirage.json](./151587-diamond-mirage.json) |
@@ -11132,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Force | 227801 | [227801-dino-force.json](./227801-dino-force.json) |
 | Dino Fossil Dig | 106940 | [106940-dino-fossil-dig.json](./106940-dino-fossil-dig.json) |
+| Dino Frontier | 26228 | [26228-dino-frontier.json](./26228-dino-frontier.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Game | 129564 | [129564-dino-game.json](./129564-dino-game.json) |
@@ -16050,6 +16056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Revive | 308051 | [308051-double-dragon-revive.json](./308051-double-dragon-revive.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
+| Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
 | Double Dribble | 198730 | [198730-double-dribble.json](./198730-double-dribble.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: The Playoff Edition | 4433 | [4433-double-dribble-the-playoff-edition.json](./4433-double-dribble-the-playoff-edition.json) |
