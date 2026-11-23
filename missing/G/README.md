@@ -348,7 +348,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachimuchi | 75195 | [75195-gachimuchi.json](./75195-gachimuchi.json) |
 | Gachimuchi Arcade: Lustful Boys | 113296 | [113296-gachimuchi-arcade-lustful-boys.json](./113296-gachimuchi-arcade-lustful-boys.json) |
 | Gachimuchi Life Simulator | 159383 | [159383-gachimuchi-life-simulator.json](./159383-gachimuchi-life-simulator.json) |
-| Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
 | Gachinco Tennis S | 222196 | [222196-gachinco-tennis-s.json](./222196-gachinco-tennis-s.json) |
@@ -1952,7 +1951,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Hero | 196080 | [196080-gangsta-hero.json](./196080-gangsta-hero.json) |
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
 | Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
-| Gangsta Sniper | 112123 | [112123-gangsta-sniper.json](./112123-gangsta-sniper.json) |
 | Gangsta Sniper 2: Revenge | 114580 | [114580-gangsta-sniper-2-revenge.json](./114580-gangsta-sniper-2-revenge.json) |
 | Gangsta Sniper 3: Final Parody | 126903 | [126903-gangsta-sniper-3-final-parody.json](./126903-gangsta-sniper-3-final-parody.json) |
 | Gangsta Style | 369731 | [369731-gangsta-style.json](./369731-gangsta-style.json) |
@@ -6474,7 +6472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Hell | 57540 | [57540-go-to-hell.json](./57540-go-to-hell.json) |
 | Go To Hell Must | 286320 | [286320-go-to-hell-must.json](./286320-go-to-hell-must.json) |
 | Go to Hell or Die Trying | 257026 | [257026-go-to-hell-or-die-trying.json](./257026-go-to-hell-or-die-trying.json) |
-| Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Sleep | 351426 | [351426-go-to-sleep.json](./351426-go-to-sleep.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
@@ -8551,7 +8548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
 | Gorsd | 56084 | [56084-gorsd.json](./56084-gorsd.json) |
 | Gorufoo | 242876 | [242876-gorufoo.json](./242876-gorufoo.json) |
-| Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
 | Goryuujin Electro | 384780 | [384780-goryuujin-electro.json](./384780-goryuujin-electro.json) |
 | Gos Castle Runner | 152601 | [152601-gos-castle-runner.json](./152601-gos-castle-runner.json) |
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
@@ -10259,7 +10255,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Stays Home | 325971 | [325971-greed-stays-home.json](./325971-greed-stays-home.json) |
 | Greed: Abandoned Dogs | 167343 | [167343-greed-abandoned-dogs.json](./167343-greed-abandoned-dogs.json) |
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
-| Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
 | GreedFall: Gold Edition | 145989 | [145989-greedfall-gold-edition.json](./145989-greedfall-gold-edition.json) |
@@ -12097,7 +12092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuildMestar | 276665 | [276665-guildmestar.json](./276665-guildmestar.json) |
 | Guildrun | 410290 | [410290-guildrun.json](./410290-guildrun.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
-| Guilds of Delenar | 112724 | [112724-guilds-of-delenar.json](./112724-guilds-of-delenar.json) |
 | Guilds of Destiny | 101820 | [101820-guilds-of-destiny.json](./101820-guilds-of-destiny.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
 | Guilds of Gods | 182098 | [182098-guilds-of-gods.json](./182098-guilds-of-gods.json) |
