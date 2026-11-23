@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
 | Achievement Clicker 2018 | 81847 | [81847-achievement-clicker-2018.json](./81847-achievement-clicker-2018.json) |
+| Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Cat | 107682 | [107682-achievement-collector-cat.json](./107682-achievement-collector-cat.json) |
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
@@ -3319,6 +3320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Zombie | 367317 | [367317-achievement-hunter-zombie.json](./367317-achievement-hunter-zombie.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
+| Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
 | Achievement Lurker: Another one bites the dust | 95214 | [95214-achievement-lurker-another-one-bites-the-dust.json](./95214-achievement-lurker-another-one-bites-the-dust.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
@@ -14790,6 +14792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Legion | 302238 | [302238-arcade-archives-legion.json](./302238-arcade-archives-legion.json) |
 | Arcade Archives: Libble Rabble | 180979 | [180979-arcade-archives-libble-rabble.json](./180979-arcade-archives-libble-rabble.json) |
+| Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
 | Arcade Archives: Mach Breakers | 365535 | [365535-arcade-archives-mach-breakers.json](./365535-arcade-archives-mach-breakers.json) |
@@ -14814,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mighty Guy | 283021 | [283021-arcade-archives-mighty-guy.json](./283021-arcade-archives-mighty-guy.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Cresta | 70138 | [70138-arcade-archives-moon-cresta.json](./70138-arcade-archives-moon-cresta.json) |
+| Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Moon Shuttle | 318751 | [318751-arcade-archives-moon-shuttle.json](./318751-arcade-archives-moon-shuttle.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mouser | 291646 | [291646-arcade-archives-mouser.json](./291646-arcade-archives-mouser.json) |
