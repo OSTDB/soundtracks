@@ -5358,6 +5358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka: Rhythm Game | 413619 | [413619-bazooka-rhythm-game.json](./413619-bazooka-rhythm-game.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazookarrots | 301765 | [301765-bazookarrots.json](./301765-bazookarrots.json) |
+| Bazookat | 426996 | [426996-bazookat.json](./426996-bazookat.json) |
 | Bazookrash | 134740 | [134740-bazookrash.json](./134740-bazookrash.json) |
 | BAZR | 340351 | [340351-bazr.json](./340351-bazr.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
@@ -20866,6 +20867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Burumajiru: Nikuyoku Shoujo Ninjyou | 98007 | [98007-burumajiru-nikuyoku-shoujo-ninjyou.json](./98007-burumajiru-nikuyoku-shoujo-ninjyou.json) |
 | Bury | 151571 | [151571-bury.json](./151571-bury.json) |
+| Bury Me Again | 427475 | [427475-bury-me-again.json](./427475-bury-me-again.json) |
 | Bury Me in the Sand | 165523 | [165523-bury-me-in-the-sand.json](./165523-bury-me-in-the-sand.json) |
 | Bury Me With The Rain | 330370 | [330370-bury-me-with-the-rain.json](./330370-bury-me-with-the-rain.json) |
 | Bury me, my Love | 74959 | [74959-bury-me-my-love.json](./74959-bury-me-my-love.json) |
