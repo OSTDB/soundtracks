@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dolls | 99053 | [99053-paper-dolls.json](./99053-paper-dolls.json) |
 | Paper Dolls 2 | 156935 | [156935-paper-dolls-2.json](./156935-paper-dolls-2.json) |
 | Paper Dolls 2: Escape | 170424 | [170424-paper-dolls-2-escape.json](./170424-paper-dolls-2-escape.json) |
+| Paper Dolls Original | 116732 | [116732-paper-dolls-original.json](./116732-paper-dolls-original.json) |
 | Paper Dominoes | 251486 | [251486-paper-dominoes.json](./251486-paper-dominoes.json) |
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons | 10654 | [10654-paper-dungeons.json](./10654-paper-dungeons.json) |
@@ -2042,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
 | Paperback Vol. 2 | 207271 | [207271-paperback-vol-2.json](./207271-paperback-vol-2.json) |
 | Paperback: The Game | 75826 | [75826-paperback-the-game.json](./75826-paperback-the-game.json) |
+| Paperball | 128202 | [128202-paperball.json](./128202-paperball.json) |
 | Paperball Deluxe | 143780 | [143780-paperball-deluxe.json](./143780-paperball-deluxe.json) |
 | Paperball: Cherry Sky Pack | 227155 | [227155-paperball-cherry-sky-pack.json](./227155-paperball-cherry-sky-pack.json) |
 | Paperball: Deep Sea Pack | 166423 | [166423-paperball-deep-sea-pack.json](./166423-paperball-deep-sea-pack.json) |
