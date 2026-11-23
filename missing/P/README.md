@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Soldiers | 383743 | [383743-paper-soldiers.json](./383743-paper-soldiers.json) |
 | Paper Sorcerer | 9205 | [9205-paper-sorcerer.json](./9205-paper-sorcerer.json) |
 | Paper Sounds | 99382 | [99382-paper-sounds.json](./99382-paper-sounds.json) |
+| Paper Tactics | 427482 | [427482-paper-tactics.json](./427482-paper-tactics.json) |
 | Paper Tales: Catch Up Games | 168486 | [168486-paper-tales-catch-up-games.json](./168486-paper-tales-catch-up-games.json) |
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
@@ -13911,6 +13912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polis 2: Någon ljuger | 307096 | [307096-polis-2-nagon-ljuger.json](./307096-polis-2-nagon-ljuger.json) |
 | Polis 3: Vargspår | 91907 | [91907-polis-3-vargspar.json](./91907-polis-3-vargspar.json) |
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
+| Polish Liquor Store Tidy Up | 427493 | [427493-polish-liquor-store-tidy-up.json](./427493-polish-liquor-store-tidy-up.json) |
 | Polish Pierogi Simulator | 424490 | [424490-polish-pierogi-simulator.json](./424490-polish-pierogi-simulator.json) |
 | Polish Simulator | 329495 | [329495-polish-simulator.json](./329495-polish-simulator.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
