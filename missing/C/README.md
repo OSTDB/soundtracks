@@ -395,7 +395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caff Roulette | 201978 | [201978-caff-roulette.json](./201978-caff-roulette.json) |
 | Caffeine | 17854 | [17854-caffeine.json](./17854-caffeine.json) |
 | Caffeine Injection! | 261482 | [261482-caffeine-injection.json](./261482-caffeine-injection.json) |
-| Caffeine: Victoria's Legacy | 107920 | [107920-caffeine-victorias-legacy.json](./107920-caffeine-victorias-legacy.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cagara | 13986 | [13986-cagara.json](./13986-cagara.json) |
 | Cage | 30653 | [30653-cage.json](./30653-cage.json) |
@@ -2198,7 +2197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Legend | 235026 | [235026-captain-legend.json](./235026-captain-legend.json) |
 | Captain Love!! | 137322 | [137322-captain-love.json](./137322-captain-love.json) |
 | Captain Lycop: Invasion of the Heters | 31385 | [31385-captain-lycop-invasion-of-the-heters.json](./31385-captain-lycop-invasion-of-the-heters.json) |
-| Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
 | Captain Mario | 307412 | [307412-captain-mario.json](./307412-captain-mario.json) |
 | Captain Mayfly | 101224 | [101224-captain-mayfly.json](./101224-captain-mayfly.json) |
@@ -3866,7 +3864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Quiz | 312300 | [312300-cash-quiz.json](./312300-cash-quiz.json) |
 | Cash Register Toy | 103141 | [103141-cash-register-toy.json](./103141-cash-register-toy.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
-| Cash Rush | 107970 | [107970-cash-rush.json](./107970-cash-rush.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
@@ -5577,7 +5574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattie | 274355 | [274355-cattie.json](./274355-cattie.json) |
 | Catting Over It | 277262 | [277262-catting-over-it.json](./277262-catting-over-it.json) |
 | Cattle Admission Challenge | 367152 | [367152-cattle-admission-challenge.json](./367152-cattle-admission-challenge.json) |
-| Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Crisis! | 346466 | [346466-cattle-crisis.json](./346466-cattle-crisis.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
@@ -12831,6 +12827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutter V: Welcome To Clutterville | 380362 | [380362-clutter-v-welcome-to-clutterville.json](./380362-clutter-v-welcome-to-clutterville.json) |
 | Clutter VI: Leigh's Story | 74483 | [74483-clutter-vi-leighs-story.json](./74483-clutter-vi-leighs-story.json) |
 | Clutter's Greatest Hits: Collector's Edition | 219739 | [219739-clutters-greatest-hits-collectors-edition.json](./219739-clutters-greatest-hits-collectors-edition.json) |
+| Cluttermancer: Tidy Up the Nightmare Alley | 423425 | [423425-cluttermancer-tidy-up-the-nightmare-alley.json](./423425-cluttermancer-tidy-up-the-nightmare-alley.json) |
 | Clyde's Adventure | 47008 | [47008-clydes-adventure.json](./47008-clydes-adventure.json) |
 | Clyde's Revenge | 72142 | [72142-clydes-revenge.json](./72142-clydes-revenge.json) |
 | Clystron | 41204 | [41204-clystron.json](./41204-clystron.json) |
@@ -22051,7 +22048,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Mysteries: Veins of Arkham | 372642 | [372642-cthulhu-mysteries-veins-of-arkham.json](./372642-cthulhu-mysteries-veins-of-arkham.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
 | Cthulhu Mythos ADV The Isle Of Ubohoth | 307779 | [307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json](./307779-cthulhu-mythos-adv-the-isle-of-ubohoth.json) |
-| Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
 | Cthulhu Mythos RPG II | 82941 | [82941-cthulhu-mythos-rpg-ii.json](./82941-cthulhu-mythos-rpg-ii.json) |
 | Cthulhu Mythos RPG: Suishou no Yobigoe Plus | 238114 | [238114-cthulhu-mythos-rpg-suishou-no-yobigoe-plus.json](./238114-cthulhu-mythos-rpg-suishou-no-yobigoe-plus.json) |
 | Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
