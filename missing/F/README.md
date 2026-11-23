@@ -9123,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
 | Flightmare | 97024 | [97024-flightmare.json](./97024-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
+| Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | Flights of Fancy: Two Doves - Collector's Edition | 426112 | [426112-flights-of-fancy-two-doves-collectors-edition.json](./426112-flights-of-fancy-two-doves-collectors-edition.json) |
 | FlightSim I | 69416 | [69416-flightsim-i.json](./69416-flightsim-i.json) |
@@ -11562,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Blood | 404288 | [404288-forgotten-blood.json](./404288-forgotten-blood.json) |
 | Forgotten Books: The Enchanted Crown - Collector's Edition | 426114 | [426114-forgotten-books-the-enchanted-crown-collectors-edition.json](./426114-forgotten-books-the-enchanted-crown-collectors-edition.json) |
 | Forgotten Bunker 1939 | 309809 | [309809-forgotten-bunker-1939.json](./309809-forgotten-bunker-1939.json) |
+| Forgotten but Unbroken | 223293 | [223293-forgotten-but-unbroken.json](./223293-forgotten-but-unbroken.json) |
 | Forgotten Castle | 113891 | [113891-forgotten-castle.json](./113891-forgotten-castle.json) |
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
