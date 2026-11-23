@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Deluxe Edition Cartridge 1 | 205764 | [205764-jeopardy-deluxe-edition-cartridge-1.json](./205764-jeopardy-deluxe-edition-cartridge-1.json) |
 | Jeopardy! Deluxe Edition Cartridge 2 | 198778 | [198778-jeopardy-deluxe-edition-cartridge-2.json](./198778-jeopardy-deluxe-edition-cartridge-2.json) |
 | Jeopardy! New Sports Edition | 79544 | [79544-jeopardy-new-sports-edition.json](./79544-jeopardy-new-sports-edition.json) |
+| Jeopardy! Platinum Edition | 48978 | [48978-jeopardy-platinum-edition.json](./48978-jeopardy-platinum-edition.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! PlayShow: All-Star Captains Classics | 212624 | [212624-jeopardy-playshow-all-star-captains-classics.json](./212624-jeopardy-playshow-all-star-captains-classics.json) |
 | Jeopardy! PlayShow: Best of the 1980's | 212621 | [212621-jeopardy-playshow-best-of-the-1980s.json](./212621-jeopardy-playshow-best-of-the-1980s.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! Sports Edition | 348219 | [348219-jeopardy-sports-edition.json](./348219-jeopardy-sports-edition.json) |
 | Jeopardy! Sports Edition | 48977 | [48977-jeopardy-sports-edition.json](./48977-jeopardy-sports-edition.json) |
 | Jeopardy! Super Deluxe | 210134 | [210134-jeopardy-super-deluxe.json](./210134-jeopardy-super-deluxe.json) |
+| Jeopardy! Teen Tournament | 48976 | [48976-jeopardy-teen-tournament.json](./48976-jeopardy-teen-tournament.json) |
 | Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
