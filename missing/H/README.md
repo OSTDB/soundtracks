@@ -7978,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden | 356384 | [356384-hidden.json](./356384-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
+| Hidden & Dangerous 2: Courage Under Fire | 50073 | [50073-hidden-and-dangerous-2-courage-under-fire.json](./50073-hidden-and-dangerous-2-courage-under-fire.json) |
 | Hidden & Dangerous 2: Sabre Squadron | 22167 | [22167-hidden-and-dangerous-2-sabre-squadron.json](./22167-hidden-and-dangerous-2-sabre-squadron.json) |
 | Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
@@ -13248,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Cock | 375475 | [375475-how-to-train-your-cock.json](./375475-how-to-train-your-cock.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Train Your Dragon | 7012 | [7012-how-to-train-your-dragon.json](./7012-how-to-train-your-dragon.json) |
+| How to Train Your Dragon 2 | 50737 | [50737-how-to-train-your-dragon-2.json](./50737-how-to-train-your-dragon-2.json) |
 | How to Train Your Dragon: Flight of the Night Fury | 65230 | [65230-how-to-train-your-dragon-flight-of-the-night-fury.json](./65230-how-to-train-your-dragon-flight-of-the-night-fury.json) |
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Turn a Cherry Tree Spirit Into an Idol | 337862 | [337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json](./337862-how-to-turn-a-cherry-tree-spirit-into-an-idol.json) |
