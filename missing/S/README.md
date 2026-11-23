@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Spirit | 204868 | [204868-sakura-spirit.json](./204868-sakura-spirit.json) |
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
+| Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
 | Sakura Succubus 10 | 389793 | [389793-sakura-succubus-10.json](./389793-sakura-succubus-10.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School of the Dead: Anastasia | 112579 | [112579-school-of-the-dead-anastasia.json](./112579-school-of-the-dead-anastasia.json) |
 | School Out Simulator2 | 296443 | [296443-school-out-simulator2.json](./296443-school-out-simulator2.json) |
 | School Out Simulator3 | 296444 | [296444-school-out-simulator3.json](./296444-school-out-simulator3.json) |
+| School Owner | 116045 | [116045-school-owner.json](./116045-school-owner.json) |
 | School Owner Simulator | 406932 | [406932-school-owner-simulator.json](./406932-school-owner-simulator.json) |
 | School Paranormal Laboratory | 294289 | [294289-school-paranormal-laboratory.json](./294289-school-paranormal-laboratory.json) |
 | School Party Craft | 297667 | [297667-school-party-craft.json](./297667-school-party-craft.json) |
@@ -14724,6 +14726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
+| Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
 | Sky Gamblers: Air Supremacy 2 | 194752 | [194752-sky-gamblers-air-supremacy-2.json](./194752-sky-gamblers-air-supremacy-2.json) |
 | Sky Gamblers: Rise of Glory | 214341 | [214341-sky-gamblers-rise-of-glory.json](./214341-sky-gamblers-rise-of-glory.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
@@ -27572,6 +27575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackronym | 360248 | [360248-stackronym.json](./360248-stackronym.json) |
 | Stacks | 180589 | [180589-stacks.json](./180589-stacks.json) |
 | Stacks | 358551 | [358551-stacks.json](./358551-stacks.json) |
+| Stacks on Stacks (On Stacks) | 116077 | [116077-stacks-on-stacks-on-stacks.json](./116077-stacks-on-stacks-on-stacks.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | Stacks: Village! | 364000 | [364000-stacks-village.json](./364000-stacks-village.json) |
@@ -31251,6 +31255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickplosion | 414052 | [414052-stickplosion.json](./414052-stickplosion.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
 | Sticks Aim Trainer | 294818 | [294818-sticks-aim-trainer.json](./294818-sticks-aim-trainer.json) |
+| Sticks and Bones | 115508 | [115508-sticks-and-bones.json](./115508-sticks-and-bones.json) |
 | Sticks and Stones | 408291 | [408291-sticks-and-stones.json](./408291-sticks-and-stones.json) |
 | Sticks Collection | 207888 | [207888-sticks-collection.json](./207888-sticks-collection.json) |
 | Sticks Together: The Wishing Well | 311137 | [311137-sticks-together-the-wishing-well.json](./311137-sticks-together-the-wishing-well.json) |
@@ -35450,6 +35455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Arcade Boy in Goodbye Greenies | 252599 | [252599-super-arcade-boy-in-goodbye-greenies.json](./252599-super-arcade-boy-in-goodbye-greenies.json) |
 | Super Arcade Pinball | 217980 | [217980-super-arcade-pinball.json](./217980-super-arcade-pinball.json) |
 | Super Arcade Racing | 123763 | [123763-super-arcade-racing.json](./123763-super-arcade-racing.json) |
+| Super Arcade Soccer | 115136 | [115136-super-arcade-soccer.json](./115136-super-arcade-soccer.json) |
 | Super Arcade Soccer 2021 | 140421 | [140421-super-arcade-soccer-2021.json](./140421-super-arcade-soccer-2021.json) |
 | Super Arcade Soccer 2026 | 405743 | [405743-super-arcade-soccer-2026.json](./405743-super-arcade-soccer-2026.json) |
 | Super Archer | 153650 | [153650-super-archer.json](./153650-super-archer.json) |
@@ -39933,6 +39939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms | 244529 | [244529-survive-the-backrooms.json](./244529-survive-the-backrooms.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
+| Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Dark | 155803 | [155803-survive-the-dark.json](./155803-survive-the-dark.json) |
 | Survive the Descent | 357696 | [357696-survive-the-descent.json](./357696-survive-the-descent.json) |
