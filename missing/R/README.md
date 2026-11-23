@@ -1068,7 +1068,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
 | Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
 | Ragnarok M: Classic | 334425 | [334425-ragnarok-m-classic.json](./334425-ragnarok-m-classic.json) |
-| Ragnarok M: Eternal Love | 111880 | [111880-ragnarok-m-eternal-love.json](./111880-ragnarok-m-eternal-love.json) |
 | Ragnarok M: New Generation | 214034 | [214034-ragnarok-m-new-generation.json](./214034-ragnarok-m-new-generation.json) |
 | Ragnarok Odyssey | 21008 | [21008-ragnarok-odyssey.json](./21008-ragnarok-odyssey.json) |
 | Ragnarok Odyssey Ace | 20067 | [20067-ragnarok-odyssey-ace.json](./20067-ragnarok-odyssey-ace.json) |
