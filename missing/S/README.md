@@ -15336,6 +15336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
 | Slasher | 251048 | [251048-slasher.json](./251048-slasher.json) |
 | Slasher | 352843 | [352843-slasher.json](./352843-slasher.json) |
+| Slasher Circus | 429267 | [429267-slasher-circus.json](./429267-slasher-circus.json) |
 | Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slasher VR | 51723 | [51723-slasher-vr.json](./51723-slasher-vr.json) |
 | Slasher: Origins | 319761 | [319761-slasher-origins.json](./319761-slasher-origins.json) |
@@ -17726,6 +17727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniks | 121518 | [121518-sniks.json](./121518-sniks.json) |
 | Snip Happens: Salon Simulator | 428353 | [428353-snip-happens-salon-simulator.json](./428353-snip-happens-salon-simulator.json) |
 | Snip It! | 292247 | [292247-snip-it.json](./292247-snip-it.json) |
+| Snip Snap | 429235 | [429235-snip-snap.json](./429235-snip-snap.json) |
 | Snipe Hunt | 198313 | [198313-snipe-hunt.json](./198313-snipe-hunt.json) |
 | Sniper | 188149 | [188149-sniper.json](./188149-sniper.json) |
 | Sniper | 195845 | [195845-sniper.json](./195845-sniper.json) |
@@ -19720,6 +19722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
+| Some Things Stay Broken | 428935 | [428935-some-things-stay-broken.json](./428935-some-things-stay-broken.json) |
 | Some Trashy Game | 181536 | [181536-some-trashy-game.json](./181536-some-trashy-game.json) |
 | Some Type of Trip | 407613 | [407613-some-type-of-trip.json](./407613-some-type-of-trip.json) |
 | Some: The House | 350308 | [350308-some-the-house.json](./350308-some-the-house.json) |
@@ -25054,6 +25057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere 3 | 248243 | [248243-sphere-3.json](./248243-sphere-3.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Complex | 30661 | [30661-sphere-complex.json](./30661-sphere-complex.json) |
+| Sphere Fight | 429244 | [429244-sphere-fight.json](./429244-sphere-fight.json) |
 | Sphere Frustration | 43170 | [43170-sphere-frustration.json](./43170-sphere-frustration.json) |
 | Sphere Game | 142633 | [142633-sphere-game.json](./142633-sphere-game.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
@@ -27185,6 +27189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaredance | 58308 | [58308-squaredance.json](./58308-squaredance.json) |
 | Squaredle | 213881 | [213881-squaredle.json](./213881-squaredle.json) |
 | Squareface | 31585 | [31585-squareface.json](./31585-squareface.json) |
+| Squareg | 428866 | [428866-squareg.json](./428866-squareg.json) |
 | Squarehead | 98704 | [98704-squarehead.json](./98704-squarehead.json) |
 | Squarelands | 34956 | [34956-squarelands.json](./34956-squarelands.json) |
 | Squarelaxy | 137350 | [137350-squarelaxy.json](./137350-squarelaxy.json) |
@@ -31878,6 +31883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story | 159903 | [159903-story.json](./159903-story.json) |
 | Story 210 | 345094 | [345094-story-210.json](./345094-story-210.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
+| Story Bored | 428934 | [428934-story-bored.json](./428934-story-bored.json) |
 | Story City | 228518 | [228518-story-city.json](./228518-story-city.json) |
 | Story Craft | 270729 | [270729-story-craft.json](./270729-story-craft.json) |
 | Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
