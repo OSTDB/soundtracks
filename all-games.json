@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T01:50:55.756Z",
-  "total_soundtracks": 3916,
+  "generated_at": "2026-11-23T02:45:54.677Z",
+  "total_soundtracks": 3917,
   "games": [
     {
       "igdb_id": 292844,
@@ -26617,6 +26617,20 @@
         {
           "album_name": "Miner Wars 2081 (Official Soundtrack, Vol. 1.0)",
           "spotify_url": "https://open.spotify.com/album/3yG9RxQamVCEeF3cwK1HOb",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112260,
+      "game_name": "MineRalph",
+      "game_url": "https://ostdb.net/games/mineralph",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737be406898f85b1a250cf3acf",
+      "albums": [
+        {
+          "album_name": "Mineralph (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3ogrTJ9THPEsHW23sHT1Wm",
           "apple_music_url": "",
           "album_link_url": ""
         }
