@@ -2073,7 +2073,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercade | 61780 | [61780-papercade.json](./61780-papercade.json) |
 | PaperCat | 59224 | [59224-papercat.json](./59224-papercat.json) |
 | Paperchase | 181464 | [181464-paperchase.json](./181464-paperchase.json) |
-| Papercraft | 107418 | [107418-papercraft.json](./107418-papercraft.json) |
 | Papercraft | 51647 | [51647-papercraft.json](./51647-papercraft.json) |
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
@@ -6295,7 +6294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Tentacle | 204160 | [204160-phantom-tentacle.json](./204160-phantom-tentacle.json) |
 | Phantom the Huntress | 390092 | [390092-phantom-the-huntress.json](./390092-phantom-the-huntress.json) |
 | Phantom Thief Angels: Twin Angel - Labyrinth of Time and World: Re:light | 335978 | [335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json](./335978-phantom-thief-angels-twin-angel-labyrinth-of-time-and-world-re-light.json) |
-| Phantom Thief Celianna | 106623 | [106623-phantom-thief-celianna.json](./106623-phantom-thief-celianna.json) |
 | Phantom Thief Mew's Secret Prima | 197569 | [197569-phantom-thief-mews-secret-prima.json](./197569-phantom-thief-mews-secret-prima.json) |
 | Phantom Thief Mirage and the Curious Clues | 420664 | [420664-phantom-thief-mirage-and-the-curious-clues.json](./420664-phantom-thief-mirage-and-the-curious-clues.json) |
 | Phantom Thief Sylphy 2 | 274693 | [274693-phantom-thief-sylphy-2.json](./274693-phantom-thief-sylphy-2.json) |
@@ -6713,7 +6711,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon: Planet Regenerator | 250272 | [250272-photon-planet-regenerator.json](./250272-photon-planet-regenerator.json) |
 | Photon: The Ultimate Game on Planet Earth | 64657 | [64657-photon-the-ultimate-game-on-planet-earth.json](./64657-photon-the-ultimate-game-on-planet-earth.json) |
 | Photoncytosis | 421345 | [421345-photoncytosis.json](./421345-photoncytosis.json) |
-| Photonic Distress | 106386 | [106386-photonic-distress.json](./106386-photonic-distress.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | PhotonVerse 2 | 332753 | [332753-photonverse-2.json](./332753-photonverse-2.json) |
@@ -7117,7 +7114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
 | Picross e9 | 106692 | [106692-picross-e9.json](./106692-picross-e9.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
-| Picross Fairytale: Legend of the Mermaid | 105715 | [105715-picross-fairytale-legend-of-the-mermaid.json](./105715-picross-fairytale-legend-of-the-mermaid.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
 | Picross for a Cause | 139253 | [139253-picross-for-a-cause.json](./139253-picross-for-a-cause.json) |
 | Picross Hansel and Gretel - Nonograms | 116233 | [116233-picross-hansel-and-gretel-nonograms.json](./116233-picross-hansel-and-gretel-nonograms.json) |
@@ -9364,7 +9360,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Frontier: Tactics | 349106 | [349106-pixel-frontier-tactics.json](./349106-pixel-frontier-tactics.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
-| Pixel Game Maker MV | 105410 | [105410-pixel-game-maker-mv.json](./105410-pixel-game-maker-mv.json) |
 | Pixel Game Maker Series Arcanion: The Mekanos Invasion | 409551 | [409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json](./409551-pixel-game-maker-series-arcanion-the-mekanos-invasion.json) |
 | Pixel Game Maker Series BombMachine Gunzohg | 231251 | [231251-pixel-game-maker-series-bombmachine-gunzohg.json](./231251-pixel-game-maker-series-bombmachine-gunzohg.json) |
 | Pixel Game Maker Series Dandan Z | 198011 | [198011-pixel-game-maker-series-dandan-z.json](./198011-pixel-game-maker-series-dandan-z.json) |
@@ -11284,7 +11279,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play with Birds | 84721 | [84721-play-with-birds.json](./84721-play-with-birds.json) |
 | Play With Gilbert: A Small Tail | 157722 | [157722-play-with-gilbert-a-small-tail.json](./157722-play-with-gilbert-a-small-tail.json) |
 | Play With Gilbert: Remake | 75330 | [75330-play-with-gilbert-remake.json](./75330-play-with-gilbert-remake.json) |
-| Play With Kizami | 105579 | [105579-play-with-kizami.json](./105579-play-with-kizami.json) |
 | Play With Me | 182885 | [182885-play-with-me.json](./182885-play-with-me.json) |
 | Play With Me | 249068 | [249068-play-with-me.json](./249068-play-with-me.json) |
 | Play with Me 2: On the Other Side | 220472 | [220472-play-with-me-2-on-the-other-side.json](./220472-play-with-me-2-on-the-other-side.json) |
@@ -16604,7 +16598,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
-| Prime & Load: 1776 | 107470 | [107470-prime-and-load-1776.json](./107470-prime-and-load-1776.json) |
 | Prime 2D | 145726 | [145726-prime-2d.json](./145726-prime-2d.json) |
 | Prime Agents | 309399 | [309399-prime-agents.json](./309399-prime-agents.json) |
 | Prime Arena | 67874 | [67874-prime-arena.json](./67874-prime-arena.json) |
@@ -19211,7 +19204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
 | Protectron 23 vs. the Alien Armada | 300591 | [300591-protectron-23-vs-the-alien-armada.json](./300591-protectron-23-vs-the-alien-armada.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
-| Protest | 105692 | [105692-protest.json](./105692-protest.json) |
 | Protest Sim | 395342 | [395342-protest-sim.json](./395342-protest-sim.json) |
 | Protest Simulator | 359125 | [359125-protest-simulator.json](./359125-protest-simulator.json) |
 | Protestal | 393634 | [393634-protestal.json](./393634-protestal.json) |
@@ -20357,7 +20349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
 | Puppy Dog Pop: Bubble Shoot Mania | 166294 | [166294-puppy-dog-pop-bubble-shoot-mania.json](./166294-puppy-dog-pop-bubble-shoot-mania.json) |
-| Puppy Dog: Jigsaw Puzzles | 105994 | [105994-puppy-dog-jigsaw-puzzles.json](./105994-puppy-dog-jigsaw-puzzles.json) |
 | Puppy Doge VR | 28595 | [28595-puppy-doge-vr.json](./28595-puppy-doge-vr.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Puppy Land Online | 399574 | [399574-puppy-land-online.json](./399574-puppy-land-online.json) |
