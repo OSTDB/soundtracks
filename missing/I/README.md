@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am your President: Prove Yourself Scenario | 249042 | [249042-i-am-your-president-prove-yourself-scenario.json](./249042-i-am-your-president-prove-yourself-scenario.json) |
 | I Am Zombie | 266098 | [266098-i-am-zombie.json](./266098-i-am-zombie.json) |
 | I Am: A Story of Awakenings | 154993 | [154993-i-am-a-story-of-awakenings.json](./154993-i-am-a-story-of-awakenings.json) |
+| I and Me | 34511 | [34511-i-and-me.json](./34511-i-and-me.json) |
 | I Ask The Cube Where To Go | 290481 | [290481-i-ask-the-cube-where-to-go.json](./290481-i-ask-the-cube-where-to-go.json) |
 | I Ball II: Quest for the Past | 70351 | [70351-i-ball-ii-quest-for-the-past.json](./70351-i-ball-ii-quest-for-the-past.json) |
 | I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
