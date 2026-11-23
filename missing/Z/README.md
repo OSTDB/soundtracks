@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarvot | 12502 | [12502-zarvot.json](./12502-zarvot.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
+| Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
 | Zarzon | 39346 | [39346-zarzon.json](./39346-zarzon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
@@ -2210,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Society: Dead Detective | 28019 | [28019-zombie-society-dead-detective.json](./28019-zombie-society-dead-detective.json) |
 | Zombie Sokoban for Playdate | 230792 | [230792-zombie-sokoban-for-playdate.json](./230792-zombie-sokoban-for-playdate.json) |
 | Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
+| Zombie Solitaire 2 Chapter 1 | 37007 | [37007-zombie-solitaire-2-chapter-1.json](./37007-zombie-solitaire-2-chapter-1.json) |
 | Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
 | Zombie Soup | 123792 | [123792-zombie-soup.json](./123792-zombie-soup.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
@@ -2361,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
 | Zombies ate my dog | 192813 | [192813-zombies-ate-my-dog.json](./192813-zombies-ate-my-dog.json) |
 | Zombies Ate My Femboy | 355618 | [355618-zombies-ate-my-femboy.json](./355618-zombies-ate-my-femboy.json) |
+| Zombies Ate My Friends | 38884 | [38884-zombies-ate-my-friends.json](./38884-zombies-ate-my-friends.json) |
 | Zombies Ate My Neighbors | 2162 | [2162-zombies-ate-my-neighbors.json](./2162-zombies-ate-my-neighbors.json) |
 | Zombies Ate My Neighbors and Ghoul Patrol | 147249 | [147249-zombies-ate-my-neighbors-and-ghoul-patrol.json](./147249-zombies-ate-my-neighbors-and-ghoul-patrol.json) |
 | Zombies Ate My Neighbors TC | 163104 | [163104-zombies-ate-my-neighbors-tc.json](./163104-zombies-ate-my-neighbors-tc.json) |
