@@ -2330,7 +2330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KeyHero | 190368 | [190368-keyhero.json](./190368-keyhero.json) |
 | Keyhole Spy: Erotic Police | 111085 | [111085-keyhole-spy-erotic-police.json](./111085-keyhole-spy-erotic-police.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
-| Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
 | Keyhole Spy: Hot Nurses | 109390 | [109390-keyhole-spy-hot-nurses.json](./109390-keyhole-spy-hot-nurses.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
 | Keyhole Spy: Naughty Witches | 110380 | [110380-keyhole-spy-naughty-witches.json](./110380-keyhole-spy-naughty-witches.json) |
@@ -4775,7 +4774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Kingdom | 231704 | [231704-kitten-kingdom.json](./231704-kitten-kingdom.json) |
 | Kitten Life Simulator | 97496 | [97496-kitten-life-simulator.json](./97496-kitten-life-simulator.json) |
 | Kitten Lost Her Box | 235490 | [235490-kitten-lost-her-box.json](./235490-kitten-lost-her-box.json) |
-| Kitten Love Emulator | 111969 | [111969-kitten-love-emulator.json](./111969-kitten-love-emulator.json) |
 | Kitten Madness | 81028 | [81028-kitten-madness.json](./81028-kitten-madness.json) |
 | Kitten Milk Replacer | 260080 | [260080-kitten-milk-replacer.json](./260080-kitten-milk-replacer.json) |
 | Kitten Mischief | 397183 | [397183-kitten-mischief.json](./397183-kitten-mischief.json) |
@@ -5421,7 +5419,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Messiah | 121912 | [121912-knights-of-messiah.json](./121912-knights-of-messiah.json) |
 | Knights of Messiah If: Castle in an Alternate Dimension | 370160 | [370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json](./370160-knights-of-messiah-if-castle-in-an-alternate-dimension.json) |
 | Knights of MILFgaard | 393393 | [393393-knights-of-milfgaard.json](./393393-knights-of-milfgaard.json) |
-| Knights of Pen & Paper 2: Deluxiest Edition | 113080 | [113080-knights-of-pen-and-paper-2-deluxiest-edition.json](./113080-knights-of-pen-and-paper-2-deluxiest-edition.json) |
 | Knights of Pen & Paper 3 | 240898 | [240898-knights-of-pen-and-paper-3.json](./240898-knights-of-pen-and-paper-3.json) |
 | Knights of Pen & Paper: +1 Deluxier Edition | 53259 | [53259-knights-of-pen-and-paper-1-deluxier-edition.json](./53259-knights-of-pen-and-paper-1-deluxier-edition.json) |
 | Knights of Pen and Paper | 79158 | [79158-knights-of-pen-and-paper.json](./79158-knights-of-pen-and-paper.json) |
