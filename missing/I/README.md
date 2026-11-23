@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Vikings Clicker | 215343 | [215343-idle-vikings-clicker.json](./215343-idle-vikings-clicker.json) |
 | Idle Void | 262714 | [262714-idle-void.json](./262714-idle-void.json) |
 | Idle War Camp | 200548 | [200548-idle-war-camp.json](./200548-idle-war-camp.json) |
+| Idle Warrior | 129679 | [129679-idle-warrior.json](./129679-idle-warrior.json) |
 | Idle Wasteland | 153922 | [153922-idle-wasteland.json](./153922-idle-wasteland.json) |
 | Idle Wasteland: Pet Slot Bundle | 157546 | [157546-idle-wasteland-pet-slot-bundle.json](./157546-idle-wasteland-pet-slot-bundle.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Immanuel | 360196 | [360196-immortal-immanuel.json](./360196-immortal-immanuel.json) |
 | Immortal Justice: Chapter One - The Invitation | 178729 | [178729-immortal-justice-chapter-one-the-invitation.json](./178729-immortal-justice-chapter-one-the-invitation.json) |
 | Immortal King | 216074 | [216074-immortal-king.json](./216074-immortal-king.json) |
+| Immortal Legacy: The Jade Cipher | 116010 | [116010-immortal-legacy-the-jade-cipher.json](./116010-immortal-legacy-the-jade-cipher.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Legends | 369264 | [369264-immortal-legends.json](./369264-immortal-legends.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
