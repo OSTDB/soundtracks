@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
 | Vampire Huntress: Lament of the Sun | 327013 | [327013-vampire-huntress-lament-of-the-sun.json](./327013-vampire-huntress-lament-of-the-sun.json) |
 | Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
+| Vampire Invasion | 426275 | [426275-vampire-invasion.json](./426275-vampire-invasion.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Legacy | 304968 | [304968-vampire-legacy.json](./304968-vampire-legacy.json) |
