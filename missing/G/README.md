@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2 2001 | 80864 | [80864-g1-jockey-2-2001.json](./80864-g1-jockey-2-2001.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
+| G1 Jockey 3 | 23713 | [23713-g1-jockey-3.json](./23713-g1-jockey-3.json) |
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
 | G1deon: Towards God | 171799 | [171799-g1deon-towards-god.json](./171799-g1deon-towards-god.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gabrielle's Ghostly Groove Mini | 85159 | [85159-gabrielles-ghostly-groove-mini.json](./85159-gabrielles-ghostly-groove-mini.json) |
+| Gabrielle's Ghostly Groove: Monster Mix | 23666 | [23666-gabrielles-ghostly-groove-monster-mix.json](./23666-gabrielles-ghostly-groove-monster-mix.json) |
 | Gabrielle's Monster Match | 274843 | [274843-gabrielles-monster-match.json](./274843-gabrielles-monster-match.json) |
 | Gabrielle's Monstrous Duel | 420184 | [420184-gabrielles-monstrous-duel.json](./420184-gabrielles-monstrous-duel.json) |
 | Gabrielle's Sweet Defense | 274846 | [274846-gabrielles-sweet-defense.json](./274846-gabrielles-sweet-defense.json) |
