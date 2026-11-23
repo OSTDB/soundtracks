@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuligans: Christmas is Coming! | 151455 | [151455-yuligans-christmas-is-coming.json](./151455-yuligans-christmas-is-coming.json) |
 | Yùlóng zài Tiān: Pínghéng Guózhàn Bǎn | 118295 | [118295-yulong-zai-tian-pingheng-guozhan-ban.json](./118295-yulong-zai-tian-pingheng-guozhan-ban.json) |
 | Yum Collector | 192287 | [192287-yum-collector.json](./192287-yum-collector.json) |
+| Yum Yum Cookstar | 218884 | [218884-yum-yum-cookstar.json](./218884-yum-yum-cookstar.json) |
 | Yum Yum Line | 147266 | [147266-yum-yum-line.json](./147266-yum-yum-line.json) |
 | Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
