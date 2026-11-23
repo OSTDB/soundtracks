@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Royal Gayness | 83988 | [83988-your-royal-gayness.json](./83988-your-royal-gayness.json) |
 | Your Second Wife | 373040 | [373040-your-second-wife.json](./373040-your-second-wife.json) |
 | Your Shape Featuring Jenny McCarthy | 50679 | [50679-your-shape-featuring-jenny-mccarthy.json](./50679-your-shape-featuring-jenny-mccarthy.json) |
+| Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shape: Fitness Evolved | 5326 | [5326-your-shape-fitness-evolved.json](./5326-your-shape-fitness-evolved.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Show Has Been Cancelled | 171298 | [171298-your-show-has-been-cancelled.json](./171298-your-show-has-been-cancelled.json) |
