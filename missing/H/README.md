@@ -10662,6 +10662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! What the Hell?! | 55695 | [55695-holy-potatoes-what-the-hell.json](./55695-holy-potatoes-what-the-hell.json) |
 | Holy Purge | 191509 | [191509-holy-purge.json](./191509-holy-purge.json) |
 | Holy Relic Shop Simulator | 420037 | [420037-holy-relic-shop-simulator.json](./420037-holy-relic-shop-simulator.json) |
+| Holy Road | 115216 | [115216-holy-road.json](./115216-holy-road.json) |
 | Holy Sheet | 110952 | [110952-holy-sheet.json](./110952-holy-sheet.json) |
 | Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
 | Holy Ship | 249196 | [249196-holy-ship.json](./249196-holy-ship.json) |
@@ -12869,6 +12870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of 1,000 Doors: Serpent Flame | 140197 | [140197-house-of-1-000-doors-serpent-flame.json](./140197-house-of-1-000-doors-serpent-flame.json) |
 | House of 1,000 Doors: Serpent Flame - Collector's Edition | 87381 | [87381-house-of-1-000-doors-serpent-flame-collectors-edition.json](./87381-house-of-1-000-doors-serpent-flame-collectors-edition.json) |
 | House of 1,000 Doors: The Palm of Zoroaster | 25468 | [25468-house-of-1-000-doors-the-palm-of-zoroaster.json](./25468-house-of-1-000-doors-the-palm-of-zoroaster.json) |
+| House of 1000 Doors: Evil Inside | 116059 | [116059-house-of-1000-doors-evil-inside.json](./116059-house-of-1000-doors-evil-inside.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
 | House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
