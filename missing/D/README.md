@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: 5th Anniversary Edition | 171862 | [171862-dead-by-daylight-5th-anniversary-edition.json](./171862-dead-by-daylight-5th-anniversary-edition.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
+| Dead by Daylight: A Nightmare on Elm Street | 76226 | [76226-dead-by-daylight-a-nightmare-on-elm-street.json](./76226-dead-by-daylight-a-nightmare-on-elm-street.json) |
 | Dead by Daylight: Alan Wake Chapter | 284709 | [284709-dead-by-daylight-alan-wake-chapter.json](./284709-dead-by-daylight-alan-wake-chapter.json) |
 | Dead by Daylight: Alien Chapter Pack | 263939 | [263939-dead-by-daylight-alien-chapter-pack.json](./263939-dead-by-daylight-alien-chapter-pack.json) |
 | Dead by Daylight: All Kill - Comeback | 397275 | [397275-dead-by-daylight-all-kill-comeback.json](./397275-dead-by-daylight-all-kill-comeback.json) |
@@ -5651,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris 32 | 399533 | [399533-debris-32.json](./399533-debris-32.json) |
 | Debris Field | 113229 | [113229-debris-field.json](./113229-debris-field.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
+| Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debris Zone | 409355 | [409355-debris-zone.json](./409355-debris-zone.json) |
 | Debrisverse | 408000 | [408000-debrisverse.json](./408000-debrisverse.json) |
 | Debrysis - an Awesome Badtrip | 30498 | [30498-debrysis-an-awesome-badtrip.json](./30498-debrysis-an-awesome-badtrip.json) |
@@ -8700,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Kepler! | 340679 | [340679-destination-kepler.json](./340679-destination-kepler.json) |
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
 | Destination Paradise: Collector's Edition | 328716 | [328716-destination-paradise-collectors-edition.json](./328716-destination-paradise-collectors-edition.json) |
+| Destination Primus Vita | 77657 | [77657-destination-primus-vita.json](./77657-destination-primus-vita.json) |
 | Destination Sol | 15737 | [15737-destination-sol.json](./15737-destination-sol.json) |
 | Destination Solitaire | 101408 | [101408-destination-solitaire.json](./101408-destination-solitaire.json) |
 | Destination Treasure Island | 52888 | [52888-destination-treasure-island.json](./52888-destination-treasure-island.json) |
@@ -14308,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Marble | 238977 | [238977-domino-marble.json](./238977-domino-marble.json) |
 | Domino Master | 21794 | [21794-domino-master.json](./21794-domino-master.json) |
 | Domino Merged Puzzle | 252154 | [252154-domino-merged-puzzle.json](./252154-domino-merged-puzzle.json) |
+| Domino Rally | 77114 | [77114-domino-rally.json](./77114-domino-rally.json) |
 | Domino Royale | 88851 | [88851-domino-royale.json](./88851-domino-royale.json) |
 | Domino Sandbox | 164257 | [164257-domino-sandbox.json](./164257-domino-sandbox.json) |
 | Domino Simulator | 161523 | [161523-domino-simulator.json](./161523-domino-simulator.json) |
@@ -22107,6 +22111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusttale: The Genocide's End | 362333 | [362333-dusttale-the-genocides-end.json](./362333-dusttale-the-genocides-end.json) |
 | Dusttale: The Murderous Comedy | 320339 | [320339-dusttale-the-murderous-comedy.json](./320339-dusttale-the-murderous-comedy.json) |
 | Dusttrust X | 329675 | [329675-dusttrust-x.json](./329675-dusttrust-x.json) |
+| Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
 | Dustwind: Resistance | 347081 | [347081-dustwind-resistance.json](./347081-dustwind-resistance.json) |
 | Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
 | Dustwire | 428389 | [428389-dustwire.json](./428389-dustwire.json) |
