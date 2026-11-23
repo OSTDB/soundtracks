@@ -2965,7 +2965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon8 | 76855 | [76855-neon8.json](./76855-neon8.json) |
 | NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
 | NeonBall | 52345 | [52345-neonball.json](./52345-neonball.json) |
-| NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
 | Neoncube | 34983 | [34983-neoncube.json](./34983-neoncube.json) |
 | NeonCyber.exe | 217426 | [217426-neoncyber-exe.json](./217426-neoncyber-exe.json) |
 | Neondrops | 166610 | [166610-neondrops.json](./166610-neondrops.json) |
@@ -4525,7 +4524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Pro? | 336749 | [336749-nice-pro.json](./336749-nice-pro.json) |
 | Nice Pudding World DX | 398175 | [398175-nice-pudding-world-dx.json](./398175-nice-pudding-world-dx.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
-| Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice Slice | 29541 | [29541-nice-slice.json](./29541-nice-slice.json) |
 | Nice Spice | 166948 | [166948-nice-spice.json](./166948-nice-spice.json) |
 | Nice to Meet You, Again | 399341 | [399341-nice-to-meet-you-again.json](./399341-nice-to-meet-you-again.json) |
@@ -4552,7 +4550,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Beard: The Fedora of Destiny | 104880 | [104880-nick-beard-the-fedora-of-destiny.json](./104880-nick-beard-the-fedora-of-destiny.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
-| Nick Bounty: The Dame with the Blue Chewed Shoe. | 111203 | [111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json](./111203-nick-bounty-the-dame-with-the-blue-chewed-shoe.json) |
 | Nick Bounty: The Goat in the Grey Fedora | 72541 | [72541-nick-bounty-the-goat-in-the-grey-fedora.json](./72541-nick-bounty-the-goat-in-the-grey-fedora.json) |
 | Nick Bounty: The Goat in the Grey Fedora - Remastered | 212968 | [212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json](./212968-nick-bounty-the-goat-in-the-grey-fedora-remastered.json) |
 | Nick Brawl Community Edition | 325669 | [325669-nick-brawl-community-edition.json](./325669-nick-brawl-community-edition.json) |
@@ -7982,7 +7979,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Heaven | 110938 | [110938-not-heaven.json](./110938-not-heaven.json) |
 | NOT Home Free | 424807 | [424807-not-home-free.json](./424807-not-home-free.json) |
-| Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
 | Not in Heaven | 125580 | [125580-not-in-heaven.json](./125580-not-in-heaven.json) |
 | Not In My Cave | 248225 | [248225-not-in-my-cave.json](./248225-not-in-my-cave.json) |
 | Not In My Crapper | 165376 | [165376-not-in-my-crapper.json](./165376-not-in-my-crapper.json) |
@@ -8351,7 +8347,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Near | 305929 | [305929-nowhere-near.json](./305929-nowhere-near.json) |
 | Nowhere Near Single | 59698 | [59698-nowhere-near-single.json](./59698-nowhere-near-single.json) |
 | Nowhere New | 135768 | [135768-nowhere-new.json](./135768-nowhere-new.json) |
-| Nowhere Patrol | 111390 | [111390-nowhere-patrol.json](./111390-nowhere-patrol.json) |
 | Nowhere Road | 384861 | [384861-nowhere-road.json](./384861-nowhere-road.json) |
 | Nowhere Station | 115360 | [115360-nowhere-station.json](./115360-nowhere-station.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
@@ -8400,7 +8395,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Simulator | 390595 | [390595-npc-simulator.json](./390595-npc-simulator.json) |
 | Npc Simulator: Heroes Need Us | 346269 | [346269-npc-simulator-heroes-need-us.json](./346269-npc-simulator-heroes-need-us.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
-| NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
 | Npool | 309292 | [309292-npool.json](./309292-npool.json) |
 | Npool: Complete + | 328826 | [328826-npool-complete.json](./328826-npool-complete.json) |
 | Npool: Deluxe Edition | 328770 | [328770-npool-deluxe-edition.json](./328770-npool-deluxe-edition.json) |
@@ -8521,9 +8515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Platypus Adventure | 179141 | [179141-nuclear-platypus-adventure.json](./179141-nuclear-platypus-adventure.json) |
 | Nuclear Playground | 291273 | [291273-nuclear-playground.json](./291273-nuclear-playground.json) |
-| Nuclear Power Station Creator | 111595 | [111595-nuclear-power-station-creator.json](./111595-nuclear-power-station-creator.json) |
 | Nuclear Powered Toaster | 107484 | [107484-nuclear-powered-toaster.json](./107484-nuclear-powered-toaster.json) |
-| Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Shot | 34510 | [34510-nuclear-shot.json](./34510-nuclear-shot.json) |
@@ -8862,7 +8854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nusantara: Bermuda | 361034 | [361034-nusantara-bermuda.json](./361034-nusantara-bermuda.json) |
 | Nusantara: Bermuda Triangle | 177329 | [177329-nusantara-bermuda-triangle.json](./177329-nusantara-bermuda-triangle.json) |
-| Nusantara: Legend of The Winged Ones | 112744 | [112744-nusantara-legend-of-the-winged-ones.json](./112744-nusantara-legend-of-the-winged-ones.json) |
 | Nushi Tsuri 64 | 3565 | [3565-nushi-tsuri-64.json](./3565-nushi-tsuri-64.json) |
 | Nushi Tsuri 64: Shiokaze ni Notte | 3566 | [3566-nushi-tsuri-64-shiokaze-ni-notte.json](./3566-nushi-tsuri-64-shiokaze-ni-notte.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
@@ -8922,7 +8913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ny Rex | 101025 | [101025-ny-rex.json](./101025-ny-rex.json) |
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
 | NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
-| Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nya Nya Nya Girls 2 | 286727 | [286727-nya-nya-nya-girls-2.json](./286727-nya-nya-nya-girls-2.json) |
 | Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
 | Nyaa-kuza!! | 145756 | [145756-nyaa-kuza.json](./145756-nyaa-kuza.json) |
