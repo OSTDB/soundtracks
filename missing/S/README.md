@@ -1607,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown III | 19987 | [19987-samurai-shodown-iii.json](./19987-samurai-shodown-iii.json) |
 | Samurai Shodown III | 300043 | [300043-samurai-shodown-iii.json](./300043-samurai-shodown-iii.json) |
 | Samurai Shodown IV: Amakusa's Revenge | 19988 | [19988-samurai-shodown-iv-amakusas-revenge.json](./19988-samurai-shodown-iv-amakusas-revenge.json) |
+| Samurai Shodown NeoGeo Collection | 116809 | [116809-samurai-shodown-neogeo-collection.json](./116809-samurai-shodown-neogeo-collection.json) |
 | Samurai Shodown NeoGeo Collection: Limited Edition Pack | 167069 | [167069-samurai-shodown-neogeo-collection-limited-edition-pack.json](./167069-samurai-shodown-neogeo-collection-limited-edition-pack.json) |
 | Samurai Shodown Sen | 23272 | [23272-samurai-shodown-sen.json](./23272-samurai-shodown-sen.json) |
 | Samurai Shodown V | 6026 | [6026-samurai-shodown-v.json](./6026-samurai-shodown-v.json) |
@@ -7800,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear Path to Insanity | 106443 | [106443-shadow-fear-path-to-insanity.json](./106443-shadow-fear-path-to-insanity.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
+| Shadow Fencer Theatre | 116488 | [116488-shadow-fencer-theatre.json](./116488-shadow-fencer-theatre.json) |
 | Shadow Fight | 61158 | [61158-shadow-fight.json](./61158-shadow-fight.json) |
 | Shadow Fight 2 | 39244 | [39244-shadow-fight-2.json](./39244-shadow-fight-2.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
@@ -8596,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
 | Shaolin vs Wutang | 200308 | [200308-shaolin-vs-wutang.json](./200308-shaolin-vs-wutang.json) |
 | Shaolin vs Wutang | 32736 | [32736-shaolin-vs-wutang.json](./32736-shaolin-vs-wutang.json) |
+| Shaolin vs. Wutang 2 | 128276 | [128276-shaolin-vs-wutang-2.json](./128276-shaolin-vs-wutang-2.json) |
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
 | Shaolin5 | 135432 | [135432-shaolin5.json](./135432-shaolin5.json) |
@@ -9268,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
 | Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
+| Shelter 3 | 116905 | [116905-shelter-3.json](./116905-shelter-3.json) |
 | Shelter 78: Mutant Protocol | 376404 | [376404-shelter-78-mutant-protocol.json](./376404-shelter-78-mutant-protocol.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Shelter Generations | 70806 | [70806-shelter-generations.json](./70806-shelter-generations.json) |
@@ -14812,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Noon | 30056 | [30056-sky-noon.json](./30056-sky-noon.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
 | Sky Odyssey | 43662 | [43662-sky-odyssey.json](./43662-sky-odyssey.json) |
+| Sky of Destruction | 116496 | [116496-sky-of-destruction.json](./116496-sky-of-destruction.json) |
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
 | Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
@@ -38698,6 +38703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tempo | 46050 | [46050-super-tempo.json](./46050-super-tempo.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tennis | 18144 | [18144-super-tennis.json](./18144-super-tennis.json) |
+| Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
 | Super Tennis Breakout | 349088 | [349088-super-tennis-breakout.json](./349088-super-tennis-breakout.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrestrial | 422059 | [422059-super-terrestrial.json](./422059-super-terrestrial.json) |
