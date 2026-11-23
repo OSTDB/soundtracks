@@ -7508,6 +7508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers | 11151 | [11151-checkers.json](./11151-checkers.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers | 172406 | [172406-checkers.json](./172406-checkers.json) |
+| Checkers | 88367 | [88367-checkers.json](./88367-checkers.json) |
 | Checkers & Pawns | 368211 | [368211-checkers-and-pawns.json](./368211-checkers-and-pawns.json) |
 | Checkers 3D | 146515 | [146515-checkers-3d.json](./146515-checkers-3d.json) |
 | Checkers Arena | 427173 | [427173-checkers-arena.json](./427173-checkers-arena.json) |
@@ -12884,6 +12885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastal Super-Combat | 343491 | [343491-coastal-super-combat.json](./343491-coastal-super-combat.json) |
 | Coastal World | 325038 | [325038-coastal-world.json](./325038-coastal-world.json) |
 | Coaster | 188148 | [188148-coaster.json](./188148-coaster.json) |
+| Coaster | 79883 | [79883-coaster.json](./79883-coaster.json) |
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
 | Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
@@ -19970,6 +19972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Balls | 186577 | [186577-creepy-balls.json](./186577-creepy-balls.json) |
 | Creepy Bendy Mystery | 95799 | [95799-creepy-bendy-mystery.json](./95799-creepy-bendy-mystery.json) |
 | Creepy Bird | 61516 | [61516-creepy-bird.json](./61516-creepy-bird.json) |
+| Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
 | Creepy Camping | 367515 | [367515-creepy-camping.json](./367515-creepy-camping.json) |
 | Creepy Castle | 170061 | [170061-creepy-castle.json](./170061-creepy-castle.json) |
 | Creepy Castle | 25567 | [25567-creepy-castle.json](./25567-creepy-castle.json) |
