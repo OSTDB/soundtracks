@@ -2331,8 +2331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Hot Nurses | 109390 | [109390-keyhole-spy-hot-nurses.json](./109390-keyhole-spy-hot-nurses.json) |
 | Keyhole Spy: Lots of Girls | 110383 | [110383-keyhole-spy-lots-of-girls.json](./110383-keyhole-spy-lots-of-girls.json) |
-| Keyhole Spy: Student Girls | 106424 | [106424-keyhole-spy-student-girls.json](./106424-keyhole-spy-student-girls.json) |
-| Keyhole Spy: Teachers | 106581 | [106581-keyhole-spy-teachers.json](./106581-keyhole-spy-teachers.json) |
 | Keyhunt | 424224 | [424224-keyhunt.json](./424224-keyhunt.json) |
 | Keykeeper | 287197 | [287197-keykeeper.json](./287197-keykeeper.json) |
 | Keykode | 349867 | [349867-keykode.json](./349867-keykode.json) |
