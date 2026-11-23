@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Final Four 2002 | 68262 | [68262-ncaa-final-four-2002.json](./68262-ncaa-final-four-2002.json) |
 | NCAA Final Four 2003 | 68261 | [68261-ncaa-final-four-2003.json](./68261-ncaa-final-four-2003.json) |
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
+| NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
 | NCAA Final Four Basketball | 4385 | [4385-ncaa-final-four-basketball.json](./4385-ncaa-final-four-basketball.json) |
 | NCAA Football | 46680 | [46680-ncaa-football.json](./46680-ncaa-football.json) |
 | NCAA Football '98 | 43714 | [43714-ncaa-football-98.json](./43714-ncaa-football-98.json) |
@@ -6670,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No Mechs Allowed | 362246 | [362246-no-mechs-allowed.json](./362246-no-mechs-allowed.json) |
 | No Men in This House | 223347 | [223347-no-men-in-this-house.json](./223347-no-men-in-this-house.json) |
+| No Mercy | 431067 | [431067-no-mercy.json](./431067-no-mercy.json) |
 | No Meteors | 146070 | [146070-no-meteors.json](./146070-no-meteors.json) |
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Buttons | 100695 | [100695-no-more-buttons.json](./100695-no-more-buttons.json) |
@@ -6984,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble's Land | 137542 | [137542-nobles-land.json](./137542-nobles-land.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
+| Noblelige! | 429418 | [429418-noblelige.json](./429418-noblelige.json) |
 | Noblemen: 1896 | 87611 | [87611-noblemen-1896.json](./87611-noblemen-1896.json) |
 | Noblemen: 1941 | 311891 | [311891-noblemen-1941.json](./311891-noblemen-1941.json) |
 | Noblesse Oblige | 212056 | [212056-noblesse-oblige.json](./212056-noblesse-oblige.json) |
