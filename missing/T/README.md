@@ -5937,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You for Sharing Your World | 276608 | [276608-thank-you-for-sharing-your-world.json](./276608-thank-you-for-sharing-your-world.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
+| Thank You For Your Application: Endless Mode Update | 427618 | [427618-thank-you-for-your-application-endless-mode-update.json](./427618-thank-you-for-your-application-endless-mode-update.json) |
 | Thank You For Your Application! | 347471 | [347471-thank-you-for-your-application.json](./347471-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
@@ -11822,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
 | The Governor | 120589 | [120589-the-governor.json](./120589-the-governor.json) |
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
+| The Grade 5B Case Files: Ch2 - The Ghost in the Painting | 428035 | [428035-the-grade-5b-case-files-ch2-the-ghost-in-the-painting.json](./428035-the-grade-5b-case-files-ch2-the-ghost-in-the-painting.json) |
 | The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
 | The Grafted Gear | 348665 | [348665-the-grafted-gear.json](./348665-the-grafted-gear.json) |
 | The Gramsby Summoning | 203650 | [203650-the-gramsby-summoning.json](./203650-the-gramsby-summoning.json) |
@@ -15877,6 +15879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
 | The Maze X: The First Chapter | 342539 | [342539-the-maze-x-the-first-chapter.json](./342539-the-maze-x-the-first-chapter.json) |
 | The Maze: Humanity | 150308 | [150308-the-maze-humanity.json](./150308-the-maze-humanity.json) |
+| The Maze: In Dark | 428022 | [428022-the-maze-in-dark.json](./428022-the-maze-in-dark.json) |
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The McMilian Tree Lot | 378451 | [378451-the-mcmilian-tree-lot.json](./378451-the-mcmilian-tree-lot.json) |
@@ -16419,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystic Land of Tales | 284179 | [284179-the-mystic-land-of-tales.json](./284179-the-mystic-land-of-tales.json) |
 | The Mystic Realm | 281623 | [281623-the-mystic-realm.json](./281623-the-mystic-realm.json) |
+| The Mystic Realms of Alhanzar | 428025 | [428025-the-mystic-realms-of-alhanzar.json](./428025-the-mystic-realms-of-alhanzar.json) |
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
@@ -21366,6 +21370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unstoppables 2 | 368245 | [368245-the-unstoppables-2.json](./368245-the-unstoppables-2.json) |
 | The Untamed | 193893 | [193893-the-untamed.json](./193893-the-untamed.json) |
 | The Untethered Void | 312176 | [312176-the-untethered-void.json](./312176-the-untethered-void.json) |
+| The Untitled Show | 428053 | [428053-the-untitled-show.json](./428053-the-untitled-show.json) |
 | The Untitled Tower | 334500 | [334500-the-untitled-tower.json](./334500-the-untitled-tower.json) |
 | The Untold Legacy | 75991 | [75991-the-untold-legacy.json](./75991-the-untold-legacy.json) |
 | The Untold Legends: Baba Yaga | 336582 | [336582-the-untold-legends-baba-yaga.json](./336582-the-untold-legends-baba-yaga.json) |
@@ -22395,6 +22400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year After | 179647 | [179647-the-year-after.json](./179647-the-year-after.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
+| The Yearbook | 427616 | [427616-the-yearbook.json](./427616-the-yearbook.json) |
 | The Yellow King | 123820 | [123820-the-yellow-king.json](./123820-the-yellow-king.json) |
 | The Yellow Ladder | 123795 | [123795-the-yellow-ladder.json](./123795-the-yellow-ladder.json) |
 | The Yellow Moon's School: The Ghosts Day | 288618 | [288618-the-yellow-moons-school-the-ghosts-day.json](./288618-the-yellow-moons-school-the-ghosts-day.json) |
@@ -22791,6 +22797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There You Go | 57527 | [57527-there-you-go.json](./57527-there-you-go.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Duck Behind You! | 288385 | [288385-theres-a-duck-behind-you.json](./288385-theres-a-duck-behind-you.json) |
+| There's a Funny Feeling in my Tummy! | 428021 | [428021-theres-a-funny-feeling-in-my-tummy.json](./428021-theres-a-funny-feeling-in-my-tummy.json) |
 | There's a Gun in the Office | 332168 | [332168-theres-a-gun-in-the-office.json](./332168-theres-a-gun-in-the-office.json) |
 | There's a Gun in the Office + Fig. bundle | 339071 | [339071-theres-a-gun-in-the-office-fig-bundle.json](./339071-theres-a-gun-in-the-office-fig-bundle.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
