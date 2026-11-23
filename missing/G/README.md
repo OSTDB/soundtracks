@@ -12464,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Dealer Simulator | 355790 | [355790-gun-dealer-simulator.json](./355790-gun-dealer-simulator.json) |
 | Gun Devil | 145027 | [145027-gun-devil.json](./145027-gun-devil.json) |
 | Gun Dog Rock Rapid | 148778 | [148778-gun-dog-rock-rapid.json](./148778-gun-dog-rock-rapid.json) |
+| Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Down the Gungan | 334945 | [334945-gun-down-the-gungan.json](./334945-gun-down-the-gungan.json) |
 | Gun Dream | 345257 | [345257-gun-dream.json](./345257-gun-dream.json) |
@@ -12694,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDeck 100 | 270070 | [270070-gundeck-100.json](./270070-gundeck-100.json) |
 | Gundemonium | 365664 | [365664-gundemonium.json](./365664-gundemonium.json) |
 | Gundemonium Collection | 138096 | [138096-gundemonium-collection.json](./138096-gundemonium-collection.json) |
+| Gundemonium Recollection | 27949 | [27949-gundemonium-recollection.json](./27949-gundemonium-recollection.json) |
 | Gundemoniums | 187858 | [187858-gundemoniums.json](./187858-gundemoniums.json) |
 | Gunderdome | 159758 | [159758-gunderdome.json](./159758-gunderdome.json) |
 | Gundertale | 336351 | [336351-gundertale.json](./336351-gundertale.json) |
