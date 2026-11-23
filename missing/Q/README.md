@@ -181,7 +181,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qoosh | 418460 | [418460-qoosh.json](./418460-qoosh.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
-| Qop 4 | 113218 | [113218-qop-4.json](./113218-qop-4.json) |
 | qop: DLC | 171435 | [171435-qop-dlc.json](./171435-qop-dlc.json) |
 | Qora | 17492 | [17492-qora.json](./17492-qora.json) |
 | Qorbit | 213181 | [213181-qorbit.json](./213181-qorbit.json) |
@@ -1272,7 +1271,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiver | 94546 | [94546-quiver.json](./94546-quiver.json) |
 | Quiver & Die | 340336 | [340336-quiver-and-die.json](./340336-quiver-and-die.json) |
 | Quiver Dick's Epic Book of Fairy Fails | 119697 | [119697-quiver-dicks-epic-book-of-fairy-fails.json](./119697-quiver-dicks-epic-book-of-fairy-fails.json) |
-| Quiver Dick's Terrible Tale for Terrible Parents to Read to Their Equally Terrible Children | 110949 | [110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json](./110949-quiver-dicks-terrible-tale-for-terrible-parents-to-read-to-their-equally-terrible-children.json) |
 | Quiver Quarrel | 204942 | [204942-quiver-quarrel.json](./204942-quiver-quarrel.json) |
 | Quiver Quest | 394800 | [394800-quiver-quest.json](./394800-quiver-quest.json) |
 | Quiverless | 353791 | [353791-quiverless.json](./353791-quiverless.json) |
