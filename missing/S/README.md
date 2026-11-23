@@ -7102,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Knights Re:Birth | 366551 | [366551-seven-knights-re-birth.json](./366551-seven-knights-re-birth.json) |
 | Seven Knights: Revolution | 188303 | [188303-seven-knights-revolution.json](./188303-seven-knights-revolution.json) |
 | Seven Knights: Special Edition | 220936 | [220936-seven-knights-special-edition.json](./220936-seven-knights-special-edition.json) |
+| Seven Knights: Time Wanderer | 140645 | [140645-seven-knights-time-wanderer.json](./140645-seven-knights-time-wanderer.json) |
 | Seven Knights: Time Wanderer - Casual Costume Set | 237931 | [237931-seven-knights-time-wanderer-casual-costume-set.json](./237931-seven-knights-time-wanderer-casual-costume-set.json) |
 | Seven Knights: Time Wanderer - Cosplay Costume Set | 237932 | [237932-seven-knights-time-wanderer-cosplay-costume-set.json](./237932-seven-knights-time-wanderer-cosplay-costume-set.json) |
 | Seven Knights: Time Wanderer - Special Edition | 238229 | [238229-seven-knights-time-wanderer-special-edition.json](./238229-seven-knights-time-wanderer-special-edition.json) |
@@ -15456,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayaway Camp: Monthly Murderers Series 1 | 174430 | [174430-slayaway-camp-monthly-murderers-series-1.json](./174430-slayaway-camp-monthly-murderers-series-1.json) |
 | Slayaway Camp: Supernatural Forces Killer Pack | 226919 | [226919-slayaway-camp-supernatural-forces-killer-pack.json](./226919-slayaway-camp-supernatural-forces-killer-pack.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
+| Slaycation Paradise | 200679 | [200679-slaycation-paradise.json](./200679-slaycation-paradise.json) |
 | Slayer | 197595 | [197595-slayer.json](./197595-slayer.json) |
 | Slayer | 252230 | [252230-slayer.json](./252230-slayer.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
