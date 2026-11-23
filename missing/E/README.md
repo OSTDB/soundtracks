@@ -3130,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elle | 109416 | [109416-elle.json](./109416-elle.json) |
 | Elle | 171973 | [171973-elle.json](./171973-elle.json) |
 | Elle: Portal | 236146 | [236146-elle-portal.json](./236146-elle-portal.json) |
+| Ellen | 95623 | [95623-ellen.json](./95623-ellen.json) |
 | Ellen and the Degenerates RPG | 114542 | [114542-ellen-and-the-degenerates-rpg.json](./114542-ellen-and-the-degenerates-rpg.json) |
 | Ellen Whitaker's Horse Life | 92406 | [92406-ellen-whitakers-horse-life.json](./92406-ellen-whitakers-horse-life.json) |
 | Ellentis | 370178 | [370178-ellentis.json](./370178-ellentis.json) |
@@ -3548,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Race | 316932 | [316932-emerald-race.json](./316932-emerald-race.json) |
 | Emerald Rush | 385417 | [385417-emerald-rush.json](./385417-emerald-rush.json) |
 | Emerald Rush | 97157 | [97157-emerald-rush.json](./97157-emerald-rush.json) |
+| Emerald Shores | 111470 | [111470-emerald-shores.json](./111470-emerald-shores.json) |
 | Emerald Tale | 71930 | [71930-emerald-tale.json](./71930-emerald-tale.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerald Wasp | 251268 | [251268-emerald-wasp.json](./251268-emerald-wasp.json) |
@@ -8844,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exilium | 237135 | [237135-exilium.json](./237135-exilium.json) |
 | Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
+| Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Signs of Destiny | 231012 | [231012-eximius-seize-the-frontline-exclusive-callsign-pack-signs-of-destiny.json](./231012-eximius-seize-the-frontline-exclusive-callsign-pack-signs-of-destiny.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: The Hardened | 230994 | [230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json](./230994-eximius-seize-the-frontline-exclusive-callsign-pack-the-hardened.json) |
@@ -9737,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Storm | 12587 | [12587-eye-of-the-storm.json](./12587-eye-of-the-storm.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
+| Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
 | Eye of the Temple: First Steps | 138355 | [138355-eye-of-the-temple-first-steps.json](./138355-eye-of-the-temple-first-steps.json) |
 | Eye of the Tiger | 84345 | [84345-eye-of-the-tiger.json](./84345-eye-of-the-tiger.json) |
 | Eye of the Void: Unleashed | 272625 | [272625-eye-of-the-void-unleashed.json](./272625-eye-of-the-void-unleashed.json) |
