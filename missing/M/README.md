@@ -13537,6 +13537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milano'd | 298746 | [298746-milanod.json](./298746-milanod.json) |
 | Milano’s Odd Job Collection | 347902 | [347902-milano-s-odd-job-collection.json](./347902-milano-s-odd-job-collection.json) |
 | Milanoir | 37852 | [37852-milanoir.json](./37852-milanoir.json) |
+| Milanoir: Special Edition | 28358 | [28358-milanoir-special-edition.json](./28358-milanoir-special-edition.json) |
 | Milcham: From the Ashes of Hearts | 319077 | [319077-milcham-from-the-ashes-of-hearts.json](./319077-milcham-from-the-ashes-of-hearts.json) |
 | Mild Dream | 225428 | [225428-mild-dream.json](./225428-mild-dream.json) |
 | Mildred's Tarot Battle | 291400 | [291400-mildreds-tarot-battle.json](./291400-mildreds-tarot-battle.json) |
