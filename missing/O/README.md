@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm | 18357 | [18357-oddworld-soulstorm.json](./18357-oddworld-soulstorm.json) |
 | Oddworld: Soulstorm - Collector's Oddition | 146008 | [146008-oddworld-soulstorm-collectors-oddition.json](./146008-oddworld-soulstorm-collectors-oddition.json) |
 | Oddworld: Soulstorm - Day 1 Oddition | 146118 | [146118-oddworld-soulstorm-day-1-oddition.json](./146118-oddworld-soulstorm-day-1-oddition.json) |
+| Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
 | Oddworld: Squeek's Oddysee | 65861 | [65861-oddworld-squeeks-oddysee.json](./65861-oddworld-squeeks-oddysee.json) |
 | Oddworld: Stranger's Wrath | 1002 | [1002-oddworld-strangers-wrath.json](./1002-oddworld-strangers-wrath.json) |
 | Oddworld: Stranger's Wrath HD - Limited Edition | 136003 | [136003-oddworld-strangers-wrath-hd-limited-edition.json](./136003-oddworld-strangers-wrath-hd-limited-edition.json) |
