@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Friendly Neighborhood Vampire Detective | 184772 | [184772-your-friendly-neighborhood-vampire-detective.json](./184772-your-friendly-neighborhood-vampire-detective.json) |
 | Your Friends vs. Hidebehind | 424624 | [424624-your-friends-vs-hidebehind.json](./424624-your-friends-vs-hidebehind.json) |
 | Your Future 2 Future Prediction | 276455 | [276455-your-future-2-future-prediction.json](./276455-your-future-2-future-prediction.json) |
+| Your Future Self | 115498 | [115498-your-future-self.json](./115498-your-future-self.json) |
 | Your Gay Monster Family | 185226 | [185226-your-gay-monster-family.json](./185226-your-gay-monster-family.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
 | Your Highness, we should defend! 2 | 82626 | [82626-your-highness-we-should-defend-2.json](./82626-your-highness-we-should-defend-2.json) |
