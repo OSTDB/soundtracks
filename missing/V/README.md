@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velberan In Miracle World | 253692 | [253692-velberan-in-miracle-world.json](./253692-velberan-in-miracle-world.json) |
 | Velcira Chronicles: The Veil of Alba | 349539 | [349539-velcira-chronicles-the-veil-of-alba.json](./349539-velcira-chronicles-the-veil-of-alba.json) |
 | Velcro Mind | 69617 | [69617-velcro-mind.json](./69617-velcro-mind.json) |
+| Velderis | 428669 | [428669-velderis.json](./428669-velderis.json) |
 | Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velgress | 318313 | [318313-velgress.json](./318313-velgress.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortexika | 232612 | [232612-vortexika.json](./232612-vortexika.json) |
 | Vortexion | 318864 | [318864-vortexion.json](./318864-vortexion.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
+| Vortha Racing | 428077 | [428077-vortha-racing.json](./428077-vortha-racing.json) |
 | Vortica | 311840 | [311840-vortica.json](./311840-vortica.json) |
 | Vortix | 260569 | [260569-vortix.json](./260569-vortix.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
