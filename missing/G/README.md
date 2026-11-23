@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
 | Genesis of Destiny | 57539 | [57539-genesis-of-destiny.json](./57539-genesis-of-destiny.json) |
 | Genesis of Drones | 35422 | [35422-genesis-of-drones.json](./35422-genesis-of-drones.json) |
+| Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
 | Genesis Quest | 142000 | [142000-genesis-quest.json](./142000-genesis-quest.json) |
 | Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
@@ -5982,6 +5983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Leader | 61683 | [61683-glorious-leader.json](./61683-glorious-leader.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Noon | 75260 | [75260-glorious-noon.json](./75260-glorious-noon.json) |
+| Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
 | Glorkian Warrior | 252428 | [252428-glorkian-warrior.json](./252428-glorkian-warrior.json) |
@@ -6253,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes And Co: The Art of the Build | 137460 | [137460-gnomes-and-co-the-art-of-the-build.json](./137460-gnomes-and-co-the-art-of-the-build.json) |
 | Gnomes and Knights | 317434 | [317434-gnomes-and-knights.json](./317434-gnomes-and-knights.json) |
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
+| Gnomes Garden | 34122 | [34122-gnomes-garden.json](./34122-gnomes-garden.json) |
 | Gnomes Garden 3 In 1 Bundle | 117892 | [117892-gnomes-garden-3-in-1-bundle.json](./117892-gnomes-garden-3-in-1-bundle.json) |
 | Gnomes Garden 3: The Thief of Castles | 30869 | [30869-gnomes-garden-3-the-thief-of-castles.json](./30869-gnomes-garden-3-the-thief-of-castles.json) |
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
@@ -11868,6 +11871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
+| Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
 | Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
 | Guardians of Rings | 127405 | [127405-guardians-of-rings.json](./127405-guardians-of-rings.json) |
 | Guardians of the 'Hood | 39353 | [39353-guardians-of-the-hood.json](./39353-guardians-of-the-hood.json) |
