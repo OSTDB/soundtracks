@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Battalion Defense | 386195 | [386195-last-battalion-defense.json](./386195-last-battalion-defense.json) |
 | Last Battle | 27971 | [27971-last-battle.json](./27971-last-battle.json) |
 | Last Battleground: Survival | 77422 | [77422-last-battleground-survival.json](./77422-last-battleground-survival.json) |
+| Last Beacon | 429231 | [429231-last-beacon.json](./429231-last-beacon.json) |
 | Last Beat Enhanced | 212614 | [212614-last-beat-enhanced.json](./212614-last-beat-enhanced.json) |
 | Last Berserker: Endless War | 81132 | [81132-last-berserker-endless-war.json](./81132-last-berserker-endless-war.json) |
 | Last Bet | 221035 | [221035-last-bet.json](./221035-last-bet.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Sang 1 | 374264 | [374264-legend-sang-1.json](./374264-legend-sang-1.json) |
 | Legend Sang 2 | 429221 | [429221-legend-sang-2.json](./429221-legend-sang-2.json) |
 | Legend Sang 3 | 429224 | [429224-legend-sang-3.json](./429224-legend-sang-3.json) |
+| Legend Sang 4 | 429230 | [429230-legend-sang-4.json](./429230-legend-sang-4.json) |
 | Legend Sang 5 | 339870 | [339870-legend-sang-5.json](./339870-legend-sang-5.json) |
 | Legend Square | 304513 | [304513-legend-square.json](./304513-legend-square.json) |
 | Legend vs. Legion | 348536 | [348536-legend-vs-legion.json](./348536-legend-vs-legion.json) |
@@ -5660,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
 | Lighthouse | 270715 | [270715-lighthouse.json](./270715-lighthouse.json) |
 | Lighthouse | 412772 | [412772-lighthouse.json](./412772-lighthouse.json) |
+| Lighthouse Duty With Tsundere | 428867 | [428867-lighthouse-duty-with-tsundere.json](./428867-lighthouse-duty-with-tsundere.json) |
 | Lighthouse Island | 270364 | [270364-lighthouse-island.json](./270364-lighthouse-island.json) |
 | Lighthouse Keeper | 143472 | [143472-lighthouse-keeper.json](./143472-lighthouse-keeper.json) |
 | Lighthouse Keeper | 213649 | [213649-lighthouse-keeper.json](./213649-lighthouse-keeper.json) |
@@ -10941,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Anceint | 142938 | [142938-ludo-anceint.json](./142938-ludo-anceint.json) |
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Club | 267502 | [267502-ludo-club.json](./267502-ludo-club.json) |
+| Ludo Fighters: Battle Board | 429256 | [429256-ludo-fighters-battle-board.json](./429256-ludo-fighters-battle-board.json) |
 | Ludo Game: Just Chill Out! | 199175 | [199175-ludo-game-just-chill-out.json](./199175-ludo-game-just-chill-out.json) |
 | Ludo King | 169778 | [169778-ludo-king.json](./169778-ludo-king.json) |
 | Ludo Live!: Heroes and Strategy | 242661 | [242661-ludo-live-heroes-and-strategy.json](./242661-ludo-live-heroes-and-strategy.json) |
