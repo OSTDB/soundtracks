@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Action starring David Robinson | 46344 | [46344-nba-action-starring-david-robinson.json](./46344-nba-action-starring-david-robinson.json) |
 | NBA All Net | 60466 | [60466-nba-all-net.json](./60466-nba-all-net.json) |
 | NBA All-Star Challenge | 49011 | [49011-nba-all-star-challenge.json](./49011-nba-all-star-challenge.json) |
+| NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
 | NBA All-World | 208757 | [208757-nba-all-world.json](./208757-nba-all-world.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
 | NBA Baller Beats | 47414 | [47414-nba-baller-beats.json](./47414-nba-baller-beats.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Koukou Dodgeball-bu | 191661 | [191661-nekketsu-koukou-dodgeball-bu.json](./191661-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: CD Soccer-hen | 44305 | [44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json](./44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json) |
+| Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
 | Nekketsu Koukou Dodgeball-bu: MD Soccer-hen | 46677 | [46677-nekketsu-koukou-dodgeball-bu-md-soccer-hen.json](./46677-nekketsu-koukou-dodgeball-bu-md-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Soccer-hen | 191678 | [191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json](./191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json) |
@@ -2257,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Stadium Card Baseball | 385507 | [385507-nekketsu-stadium-card-baseball.json](./385507-nekketsu-stadium-card-baseball.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
 | Nekketsu Taisen Kunio-kun X | 57227 | [57227-nekketsu-taisen-kunio-kun-x.json](./57227-nekketsu-taisen-kunio-kun-x.json) |
+| Nekketsu! Beach Volley Da yo: Kunio-kun | 49107 | [49107-nekketsu-beach-volley-da-yo-kunio-kun.json](./49107-nekketsu-beach-volley-da-yo-kunio-kun.json) |
 | Nekketsu! Street Basketball All-Out Dunk Heroes | 48572 | [48572-nekketsu-street-basketball-all-out-dunk-heroes.json](./48572-nekketsu-street-basketball-all-out-dunk-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
@@ -4275,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Quarterback Club | 114754 | [114754-nfl-quarterback-club.json](./114754-nfl-quarterback-club.json) |
 | NFL Quarterback Club | 242361 | [242361-nfl-quarterback-club.json](./242361-nfl-quarterback-club.json) |
+| NFL Quarterback Club | 49003 | [49003-nfl-quarterback-club.json](./49003-nfl-quarterback-club.json) |
 | NFL Quarterback Club 2000 | 3559 | [3559-nfl-quarterback-club-2000.json](./3559-nfl-quarterback-club-2000.json) |
 | NFL Quarterback Club 96 | 25080 | [25080-nfl-quarterback-club-96.json](./25080-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
@@ -5771,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Box | 112080 | [112080-ninja-box.json](./112080-ninja-box.json) |
 | Ninja Boy | 419448 | [419448-ninja-boy.json](./419448-ninja-boy.json) |
 | Ninja Boy | 48967 | [48967-ninja-boy.json](./48967-ninja-boy.json) |
+| Ninja Boy 2 | 48966 | [48966-ninja-boy-2.json](./48966-ninja-boy-2.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
 | Ninja Bricks | 220451 | [220451-ninja-bricks.json](./220451-ninja-bricks.json) |
