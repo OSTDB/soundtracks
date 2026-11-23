@@ -824,7 +824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central: Paula Abdul - "Straight Up" | 353198 | [353198-dance-central-paula-abdul-straight-up.json](./353198-dance-central-paula-abdul-straight-up.json) |
 | Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
 | Dance Clash: Ballet vs Hip Hop | 89111 | [89111-dance-clash-ballet-vs-hip-hop.json](./89111-dance-clash-ballet-vs-hip-hop.json) |
-| Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Girl | 121148 | [121148-dance-dance-girl.json](./121148-dance-dance-girl.json) |
 | Dance Dance Revolution | 135396 | [135396-dance-dance-revolution.json](./135396-dance-dance-revolution.json) |
