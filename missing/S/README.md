@@ -2673,7 +2673,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Steel | 149179 | [149179-savage-steel.json](./149179-savage-steel.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
-| Savage Vessels | 108012 | [108012-savage-vessels.json](./108012-savage-vessels.json) |
 | Savage Warriors | 46929 | [46929-savage-warriors.json](./46929-savage-warriors.json) |
 | Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
 | Savage XR | 54604 | [54604-savage-xr.json](./54604-savage-xr.json) |
@@ -6607,7 +6606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime | 244019 | [244019-sentinels-of-earth-prime.json](./244019-sentinels-of-earth-prime.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
-| Sentinels of Freedom | 109049 | [109049-sentinels-of-freedom.json](./109049-sentinels-of-freedom.json) |
 | Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
 | Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
 | Sentinels of the Multiverse: Mini-Pack 5 - Void Guard | 170413 | [170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json](./170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json) |
@@ -7167,7 +7165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
-| Seventh Circle | 107625 | [107625-seventh-circle.json](./107625-seventh-circle.json) |
 | Seventh Cross Evolution | 45788 | [45788-seventh-cross-evolution.json](./45788-seventh-cross-evolution.json) |
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
@@ -7543,7 +7540,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Caravan | 169099 | [169099-sexy-caravan.json](./169099-sexy-caravan.json) |
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Christmas | 340626 | [340626-sexy-christmas.json](./340626-sexy-christmas.json) |
-| Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
 | Sexy Demon Transformation! | 58979 | [58979-sexy-demon-transformation.json](./58979-sexy-demon-transformation.json) |
 | Sexy Dream Girl: Puzzle | 384872 | [384872-sexy-dream-girl-puzzle.json](./384872-sexy-dream-girl-puzzle.json) |
@@ -7568,7 +7564,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Iron Maidens | 279083 | [279083-sexy-iron-maidens.json](./279083-sexy-iron-maidens.json) |
 | Sexy Island Adventure | 302639 | [302639-sexy-island-adventure.json](./302639-sexy-island-adventure.json) |
-| Sexy Jigsaw | 108393 | [108393-sexy-jigsaw.json](./108393-sexy-jigsaw.json) |
 | Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
@@ -8492,7 +8487,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui | 17533 | [17533-shan-gui.json](./17533-shan-gui.json) |
-| Shan Gui II: Sweet Osmanthus II | 110467 | [110467-shan-gui-ii-sweet-osmanthus-ii.json](./110467-shan-gui-ii-sweet-osmanthus-ii.json) |
 | Shan Gui II: Sweet Osmanthus II - Episode 2 | 171349 | [171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json](./171349-shan-gui-ii-sweet-osmanthus-ii-episode-2.json) |
 | Shān Hǎi Cháng Gē | 284607 | [284607-shan-hai-chang-ge.json](./284607-shan-hai-chang-ge.json) |
 | Shan Hai Express | 256105 | [256105-shan-hai-express.json](./256105-shan-hai-express.json) |
@@ -10830,7 +10824,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop it Up! | 377253 | [377253-shop-it-up.json](./377253-shop-it-up.json) |
 | Shop Legends | 297368 | [297368-shop-legends.json](./297368-shop-legends.json) |
 | Shop Life Simulator | 333697 | [333697-shop-life-simulator.json](./333697-shop-life-simulator.json) |
-| Shop Manager : Video Game Tycoon | 109341 | [109341-shop-manager-video-game-tycoon.json](./109341-shop-manager-video-game-tycoon.json) |
 | Shop Manager Simulator | 326355 | [326355-shop-manager-simulator.json](./326355-shop-manager-simulator.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
@@ -12195,7 +12188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Death Online | 72837 | [72837-silent-death-online.json](./72837-silent-death-online.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
 | Silent Depth 2: Pacific | 272932 | [272932-silent-depth-2-pacific.json](./272932-silent-depth-2-pacific.json) |
-| Silent Depth 3D Submarine Simulation | 107718 | [107718-silent-depth-3d-submarine-simulation.json](./107718-silent-depth-3d-submarine-simulation.json) |
 | Silent Depth Submarine Sim | 106835 | [106835-silent-depth-submarine-sim.json](./106835-silent-depth-submarine-sim.json) |
 | Silent Depth Submarine Simulator | 179471 | [179471-silent-depth-submarine-simulator.json](./179471-silent-depth-submarine-simulator.json) |
 | Silent Descent | 75182 | [75182-silent-descent.json](./75182-silent-descent.json) |
@@ -14039,7 +14031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skattered Dream | 171305 | [171305-skattered-dream.json](./171305-skattered-dream.json) |
 | Skaut Kwatermaster | 63977 | [63977-skaut-kwatermaster.json](./63977-skaut-kwatermaster.json) |
-| Skautfold: Into the Fray | 107925 | [107925-skautfold-into-the-fray.json](./107925-skautfold-into-the-fray.json) |
 | Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
@@ -23229,7 +23220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
 | Space Pilgrim Academy: Year 1 | 145157 | [145157-space-pilgrim-academy-year-1.json](./145157-space-pilgrim-academy-year-1.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
-| Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
 | Space Pilgrim Episode I: Alpha Centauri | 33849 | [33849-space-pilgrim-episode-i-alpha-centauri.json](./33849-space-pilgrim-episode-i-alpha-centauri.json) |
 | Space Pilgrim Episode II: Epsilon Indi | 33810 | [33810-space-pilgrim-episode-ii-epsilon-indi.json](./33810-space-pilgrim-episode-ii-epsilon-indi.json) |
 | Space Pilgrim Episode III: Delta Pavonis | 33601 | [33601-space-pilgrim-episode-iii-delta-pavonis.json](./33601-space-pilgrim-episode-iii-delta-pavonis.json) |
@@ -24945,7 +24935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellrazor | 177340 | [177340-spellrazor.json](./177340-spellrazor.json) |
 | SpellRogue | 203427 | [203427-spellrogue.json](./203427-spellrogue.json) |
 | SpellRogue: Supporter Pack | 310094 | [310094-spellrogue-supporter-pack.json](./310094-spellrogue-supporter-pack.json) |
-| Spellrune: Realm of Portals | 107697 | [107697-spellrune-realm-of-portals.json](./107697-spellrune-realm-of-portals.json) |
 | Spells 'n' Stuff | 33365 | [33365-spells-n-stuff.json](./33365-spells-n-stuff.json) |
 | Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
@@ -27419,7 +27408,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | Srazhenie | 83059 | [83059-srazhenie.json](./83059-srazhenie.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
-| SRC: Sprint Robot Championship | 108315 | [108315-src-sprint-robot-championship.json](./108315-src-sprint-robot-championship.json) |
 | SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
 | SRG Mixtape Volume #2 | 194977 | [194977-srg-mixtape-volume-2.json](./194977-srg-mixtape-volume-2.json) |
 | SRG Mixtape Volume #3 | 222800 | [222800-srg-mixtape-volume-3.json](./222800-srg-mixtape-volume-3.json) |
@@ -29143,7 +29131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter X | 110444 | [110444-starfighter-x.json](./110444-starfighter-x.json) |
 | Starfighter: Disputed Galaxy | 331174 | [331174-starfighter-disputed-galaxy.json](./331174-starfighter-disputed-galaxy.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
-| Starfighter: Infinity | 108170 | [108170-starfighter-infinity.json](./108170-starfighter-infinity.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfire | 246196 | [246196-starfire.json](./246196-starfire.json) |
 | Starfire | 95496 | [95496-starfire.json](./95496-starfire.json) |
@@ -33819,7 +33806,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: LaSol | 171784 | [171784-submerged-lasol.json](./171784-submerged-lasol.json) |
 | Submerged: Miku and the Sunken City | 91219 | [91219-submerged-miku-and-the-sunken-city.json](./91219-submerged-miku-and-the-sunken-city.json) |
-| Submerged: VR Escape the Room | 108074 | [108074-submerged-vr-escape-the-room.json](./108074-submerged-vr-escape-the-room.json) |
 | Submergent | 309318 | [309318-submergent.json](./309318-submergent.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
@@ -34343,7 +34329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suez Canal Girl | 368042 | [368042-suez-canal-girl.json](./368042-suez-canal-girl.json) |
 | Suez Canal Simulator | 149409 | [149409-suez-canal-simulator.json](./149409-suez-canal-simulator.json) |
 | Suez Canal Training Simulator | 392599 | [392599-suez-canal-training-simulator.json](./392599-suez-canal-training-simulator.json) |
-| Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | Suffer | 203187 | [203187-suffer.json](./203187-suffer.json) |
 | Suffer 2 | 211689 | [211689-suffer-2.json](./211689-suffer-2.json) |
 | Suffer the Night | 220795 | [220795-suffer-the-night.json](./220795-suffer-the-night.json) |
