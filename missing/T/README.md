@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails of Iron & Tails of Iron 2: Deluxe Bundle | 330410 | [330410-tails-of-iron-and-tails-of-iron-2-deluxe-bundle.json](./330410-tails-of-iron-and-tails-of-iron-2-deluxe-bundle.json) |
 | Tails of Iron & Tails of Iron 2: Standard Bundle | 330411 | [330411-tails-of-iron-and-tails-of-iron-2-standard-bundle.json](./330411-tails-of-iron-and-tails-of-iron-2-standard-bundle.json) |
 | Tails of Iron II: Blood and Brine | 414781 | [414781-tails-of-iron-ii-blood-and-brine.json](./414781-tails-of-iron-ii-blood-and-brine.json) |
+| Tails of Iron II: Whiskers of Winter | 292877 | [292877-tails-of-iron-ii-whiskers-of-winter.json](./292877-tails-of-iron-ii-whiskers-of-winter.json) |
 | Tails of Iron II: Whiskers of Winter - Augur of the Draugr Armour Pack | 371224 | [371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json](./371224-tails-of-iron-ii-whiskers-of-winter-augur-of-the-draugr-armour-pack.json) |
 | Tails of Iron II: Whiskers of Winter - Deluxe Edition | 331256 | [331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json](./331256-tails-of-iron-ii-whiskers-of-winter-deluxe-edition.json) |
 | Tails of Iron II: Whiskers of Winter - Hair to the Throne Pack | 371223 | [371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json](./371223-tails-of-iron-ii-whiskers-of-winter-hair-to-the-throne-pack.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebris | 377187 | [377187-tenebris.json](./377187-tenebris.json) |
 | TenebriS | 158128 | [158128-tenebris.json](./158128-tenebris.json) |
 | Tenebris Lake | 288272 | [288272-tenebris-lake.json](./288272-tenebris-lake.json) |
+| Tenebris Somnia | 216692 | [216692-tenebris-somnia.json](./216692-tenebris-somnia.json) |
 | Tenebris: Terra Incognita | 235777 | [235777-tenebris-terra-incognita.json](./235777-tenebris-terra-incognita.json) |
 | Tenebrix | 403651 | [403651-tenebrix.json](./403651-tenebrix.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
@@ -13747,6 +13749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land Before Time: Preschool Adventure | 329647 | [329647-the-land-before-time-preschool-adventure.json](./329647-the-land-before-time-preschool-adventure.json) |
 | The Land Before Time: Return to the Great Valley | 45070 | [45070-the-land-before-time-return-to-the-great-valley.json](./45070-the-land-before-time-return-to-the-great-valley.json) |
 | The Land Before Time: Toddler Time | 329648 | [329648-the-land-before-time-toddler-time.json](./329648-the-land-before-time-toddler-time.json) |
+| The Land Beneath Us | 221115 | [221115-the-land-beneath-us.json](./221115-the-land-beneath-us.json) |
 | The Land Beyond the Forest | 416757 | [416757-the-land-beyond-the-forest.json](./416757-the-land-beyond-the-forest.json) |
 | The Land Forgotten | 381730 | [381730-the-land-forgotten.json](./381730-the-land-forgotten.json) |
 | The Land of Alembrume | 204983 | [204983-the-land-of-alembrume.json](./204983-the-land-of-alembrume.json) |
@@ -13824,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Cargo | 29461 | [29461-the-last-cargo.json](./29461-the-last-cargo.json) |
 | The Last Case | 422389 | [422389-the-last-case.json](./422389-the-last-case.json) |
+| The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Castle | 244418 | [244418-the-last-castle.json](./244418-the-last-castle.json) |
 | The Last Cat in the Universe | 388671 | [388671-the-last-cat-in-the-universe.json](./388671-the-last-cat-in-the-universe.json) |
@@ -18388,6 +18392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
 | The Rumble Fish | 39435 | [39435-the-rumble-fish.json](./39435-the-rumble-fish.json) |
 | The Rumble Fish + | 278489 | [278489-the-rumble-fish.json](./278489-the-rumble-fish.json) |
+| The Rumble Fish 2 | 222946 | [222946-the-rumble-fish-2.json](./222946-the-rumble-fish-2.json) |
 | The Rumble Fish 2 | 39434 | [39434-the-rumble-fish-2.json](./39434-the-rumble-fish-2.json) |
 | The Rumble Fish 2 + Greed | 225504 | [225504-the-rumble-fish-2-greed.json](./225504-the-rumble-fish-2-greed.json) |
 | The Rumble Fish 2: Additional Character - Beatrice | 226309 | [226309-the-rumble-fish-2-additional-character-beatrice.json](./226309-the-rumble-fish-2-additional-character-beatrice.json) |
@@ -19560,6 +19565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Mission Vileaf | 149960 | [149960-the-smurfs-mission-vileaf.json](./149960-the-smurfs-mission-vileaf.json) |
 | The Smurfs: Mission ViLeaf - Collector's Edition | 165096 | [165096-the-smurfs-mission-vileaf-collectors-edition.json](./165096-the-smurfs-mission-vileaf-collectors-edition.json) |
 | The Smurfs: Mission ViLeaf - Smurftastic Edition | 165095 | [165095-the-smurfs-mission-vileaf-smurftastic-edition.json](./165095-the-smurfs-mission-vileaf-smurftastic-edition.json) |
+| The Smurfs: Village Party | 292150 | [292150-the-smurfs-village-party.json](./292150-the-smurfs-village-party.json) |
 | The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
@@ -23348,6 +23354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This War of Mine: War Child Charity | 76239 | [76239-this-war-of-mine-war-child-charity.json](./76239-this-war-of-mine-war-child-charity.json) |
 | This was for you | 121262 | [121262-this-was-for-you.json](./121262-this-was-for-you.json) |
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
+| This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
 | This will not go well | 132452 | [132452-this-will-not-go-well.json](./132452-this-will-not-go-well.json) |
 | This Winter of Ours | 380726 | [380726-this-winter-of-ours.json](./380726-this-winter-of-ours.json) |
@@ -35909,6 +35916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
 | Trinity Building Editor | 373843 | [373843-trinity-building-editor.json](./373843-trinity-building-editor.json) |
 | Trinity Dungeon | 55344 | [55344-trinity-dungeon.json](./55344-trinity-dungeon.json) |
+| Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
 | Trinity Fusion: Deluxe Edition | 280631 | [280631-trinity-fusion-deluxe-edition.json](./280631-trinity-fusion-deluxe-edition.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Of The Fabled | 239814 | [239814-trinity-of-the-fabled.json](./239814-trinity-of-the-fabled.json) |
