@@ -6024,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory or Dominance: The World of Kleiverog | 244555 | [244555-glory-or-dominance-the-world-of-kleiverog.json](./244555-glory-or-dominance-the-world-of-kleiverog.json) |
 | Glory Quest | 23198 | [23198-glory-quest.json](./23198-glory-quest.json) |
 | Glory Room | 242393 | [242393-glory-room.json](./242393-glory-room.json) |
+| Glory Survivor | 427492 | [427492-glory-survivor.json](./427492-glory-survivor.json) |
 | Glory to the Heroes | 240744 | [240744-glory-to-the-heroes.json](./240744-glory-to-the-heroes.json) |
 | Glory to the Heroes | 363972 | [363972-glory-to-the-heroes.json](./363972-glory-to-the-heroes.json) |
 | Glory to the Robots! | 235586 | [235586-glory-to-the-robots.json](./235586-glory-to-the-robots.json) |
@@ -7960,6 +7961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomokunarabe & Reversi: Touryuumon | 37507 | [37507-gomokunarabe-and-reversi-touryuumon.json](./37507-gomokunarabe-and-reversi-touryuumon.json) |
+| GomokuZero | 427473 | [427473-gomokuzero.json](./427473-gomokuzero.json) |
 | Gomola Speed | 38093 | [38093-gomola-speed.json](./38093-gomola-speed.json) |
 | Gomola Speed | 38094 | [38094-gomola-speed.json](./38094-gomola-speed.json) |
 | Gomorrah | 238351 | [238351-gomorrah.json](./238351-gomorrah.json) |
