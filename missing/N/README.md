@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutopia | 28524 | [28524-neutopia.json](./28524-neutopia.json) |
+| Neutopia II | 28523 | [28523-neutopia-ii.json](./28523-neutopia-ii.json) |
 | Neutral Mini Escape: Midsummer Night ver. | 317094 | [317094-neutral-mini-escape-midsummer-night-ver.json](./317094-neutral-mini-escape-midsummer-night-ver.json) |
 | Neutral Zone | 24391 | [24391-neutral-zone.json](./24391-neutral-zone.json) |
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
@@ -4104,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Hero | 90037 | [90037-next-hero.json](./90037-next-hero.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
+| Next jump: Shmup Tactics | 28665 | [28665-next-jump-shmup-tactics.json](./28665-next-jump-shmup-tactics.json) |
 | Next King | 289258 | [289258-next-king.json](./289258-next-king.json) |
 | Next King: Koi no Sen-nen Oukoku | 68786 | [68786-next-king-koi-no-sen-nen-oukoku.json](./68786-next-king-koi-no-sen-nen-oukoku.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
@@ -4308,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NG: Experience Selection | 166251 | [166251-ng-experience-selection.json](./166251-ng-experience-selection.json) |
 | NGE: VR | 320500 | [320500-nge-vr.json](./320500-nge-vr.json) |
 | NGen Racing | 92727 | [92727-ngen-racing.json](./92727-ngen-racing.json) |
+| Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | NGL Biathlon 2026 | 178185 | [178185-ngl-biathlon-2026.json](./178185-ngl-biathlon-2026.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
 | Ngolf: Colorful Golf Balls 1 | 303875 | [303875-ngolf-colorful-golf-balls-1.json](./303875-ngolf-colorful-golf-balls-1.json) |
@@ -7113,6 +7116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Sphere of Influence - Scenario 8: The One-eyed Dragon | 168107 | [168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json](./168107-nobunagas-ambition-sphere-of-influence-scenario-8-the-one-eyed-dragon.json) |
 | Nobunaga's Ambition: Sphere of Influence - Scenario 9: Shingen's Final Step | 168092 | [168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json](./168092-nobunagas-ambition-sphere-of-influence-scenario-9-shingens-final-step.json) |
 | Nobunaga's Ambition: Sphere of Influence with Power-Up Kit | 136677 | [136677-nobunagas-ambition-sphere-of-influence-with-power-up-kit.json](./136677-nobunagas-ambition-sphere-of-influence-with-power-up-kit.json) |
+| Nobunaga's Ambition: Taishi | 28244 | [28244-nobunagas-ambition-taishi.json](./28244-nobunagas-ambition-taishi.json) |
 | Nobunaga's Ambition: Taishi - Birth of Nobunaga Scenario | 150673 | [150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json](./150673-nobunagas-ambition-taishi-birth-of-nobunaga-scenario.json) |
 | Nobunaga's Ambition: Taishi - Mount Tennozan Scenario | 150670 | [150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json](./150670-nobunagas-ambition-taishi-mount-tennozan-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Battle of Nagashino Scenario | 150664 | [150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json](./150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json) |
