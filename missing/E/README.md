@@ -8781,7 +8781,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
 | Executioner Girls: Legacy Pack | 293447 | [293447-executioner-girls-legacy-pack.json](./293447-executioner-girls-legacy-pack.json) |
 | Executioners | 91867 | [91867-executioners.json](./91867-executioners.json) |
-| Executive Assault 2 | 110573 | [110573-executive-assault-2.json](./110573-executive-assault-2.json) |
 | Executive Command | 207842 | [207842-executive-command.json](./207842-executive-command.json) |
 | Executive Golf DX | 151968 | [151968-executive-golf-dx.json](./151968-executive-golf-dx.json) |
 | Executive Hockey | 82396 | [82396-executive-hockey.json](./82396-executive-hockey.json) |
