@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 Blood: Fort Hope Elite Weapon Skins | 323952 | [323952-back-4-blood-fort-hope-elite-weapon-skins.json](./323952-back-4-blood-fort-hope-elite-weapon-skins.json) |
 | Back 4 Blood: River of Blood | 227676 | [227676-back-4-blood-river-of-blood.json](./227676-back-4-blood-river-of-blood.json) |
 | Back 4 Blood: Special Edition | 323953 | [323953-back-4-blood-special-edition.json](./323953-back-4-blood-special-edition.json) |
+| Back 4 Blood: Tunnels of Terror | 197488 | [197488-back-4-blood-tunnels-of-terror.json](./197488-back-4-blood-tunnels-of-terror.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back 40 III | 70842 | [70842-back-40-iii.json](./70842-back-40-iii.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Return to Arkham - Arkham Asylum | 203433 | [203433-batman-return-to-arkham-arkham-asylum.json](./203433-batman-return-to-arkham-arkham-asylum.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
+| Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
 | Batman: Rogue City | 316905 | [316905-batman-rogue-city.json](./316905-batman-rogue-city.json) |
 | Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
@@ -10826,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Lab | 101838 | [101838-blacksmith-lab.json](./101838-blacksmith-lab.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
 | Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
+| Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
 | Blacksmith Run | 117236 | [117236-blacksmith-run.json](./117236-blacksmith-run.json) |
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 102589 | [102589-blacksmith-simulator.json](./102589-blacksmith-simulator.json) |
@@ -11467,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Heroes | 45390 | [45390-blazing-heroes.json](./45390-blazing-heroes.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Maidens | 374309 | [374309-blazing-maidens.json](./374309-blazing-maidens.json) |
+| Blazing Rangers | 143052 | [143052-blazing-rangers.json](./143052-blazing-rangers.json) |
 | Blazing Sails | 114776 | [114776-blazing-sails.json](./114776-blazing-sails.json) |
 | Blazing Sails: Barbary Corsair Pack | 226260 | [226260-blazing-sails-barbary-corsair-pack.json](./226260-blazing-sails-barbary-corsair-pack.json) |
 | Blazing Sails: Conquistador Pack | 226261 | [226261-blazing-sails-conquistador-pack.json](./226261-blazing-sails-conquistador-pack.json) |
