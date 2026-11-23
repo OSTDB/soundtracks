@@ -10111,6 +10111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Edition | 24784 | [24784-the-elder-scrolls-online-gold-edition.json](./24784-the-elder-scrolls-online-gold-edition.json) |
 | The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
+| The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
 | The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
 | The Elder Scrolls Online: Horns of the Reach | 63873 | [63873-the-elder-scrolls-online-horns-of-the-reach.json](./63873-the-elder-scrolls-online-horns-of-the-reach.json) |
 | The Elder Scrolls Online: Imperial City | 117156 | [117156-the-elder-scrolls-online-imperial-city.json](./117156-the-elder-scrolls-online-imperial-city.json) |
@@ -18904,6 +18905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Realms: Arcade | 311327 | [311327-the-shadow-realms-arcade.json](./311327-the-shadow-realms-arcade.json) |
 | The Shadow Ritual | 379166 | [379166-the-shadow-ritual.json](./379166-the-shadow-ritual.json) |
+| The Shadow Society | 128921 | [128921-the-shadow-society.json](./128921-the-shadow-society.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadow Syndicate | 342265 | [342265-the-shadow-syndicate.json](./342265-the-shadow-syndicate.json) |
 | The Shadow Warrior Trilogy | 243065 | [243065-the-shadow-warrior-trilogy.json](./243065-the-shadow-warrior-trilogy.json) |
@@ -28382,6 +28384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toji no Miko: Kizamishi Issen no Tomoshibi | 68382 | [68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json](./68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok | 108329 | [108329-tok.json](./108329-tok.json) |
+| Tok Hardcore | 116868 | [116868-tok-hardcore.json](./116868-tok-hardcore.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
 | Tokage Metro GB | 349947 | [349947-tokage-metro-gb.json](./349947-tokage-metro-gb.json) |
 | Tokaido | 24280 | [24280-tokaido.json](./24280-tokaido.json) |
@@ -34702,6 +34705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Station Late at Night | 183110 | [183110-trapped-in-the-station-late-at-night.json](./183110-trapped-in-the-station-late-at-night.json) |
 | Trapped in The Tricky Prison | 270478 | [270478-trapped-in-the-tricky-prison.json](./270478-trapped-in-the-tricky-prison.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
+| Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped on the Balcony | 327480 | [327480-trapped-on-the-balcony.json](./327480-trapped-on-the-balcony.json) |
 | Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
