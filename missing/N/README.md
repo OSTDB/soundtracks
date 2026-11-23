@@ -5468,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightwatch: Nightmare Creatures | 275361 | [275361-nightwatch-nightmare-creatures.json](./275361-nightwatch-nightmare-creatures.json) |
 | Nightwater | 386296 | [386296-nightwater.json](./386296-nightwater.json) |
 | Nightway | 236585 | [236585-nightway.json](./236585-nightway.json) |
+| Nightwolf: Survive the Megadome | 68995 | [68995-nightwolf-survive-the-megadome.json](./68995-nightwolf-survive-the-megadome.json) |
 | NightZ | 30711 | [30711-nightz.json](./30711-nightz.json) |
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
