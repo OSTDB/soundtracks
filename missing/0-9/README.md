@@ -256,7 +256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | >Start ai | 366670 | [366670-start-ai.json](./366670-start-ai.json) |
 | \|][-@I7 in vitro #Dead in Vitro | 253054 | [253054-i7-in-vitro-dead-in-vitro.json](./253054-i7-in-vitro-dead-in-vitro.json) |
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
-| ~necromancy~Emily's Escape | 113280 | [113280-necromancy-emilys-escape.json](./113280-necromancy-emilys-escape.json) |
 | ~Song of Homunculus~ | 418651 | [418651-song-of-homunculus.json](./418651-song-of-homunculus.json) |
 | △ to X no Nazotoki | 267246 | [267246-to-x-no-nazotoki.json](./267246-to-x-no-nazotoki.json) |
 | $$$://Somnialys, I Am Tired So I Bought a Couple Dreams | 399563 | [399563-somnialys-i-am-tired-so-i-bought-a-couple-dreams.json](./399563-somnialys-i-am-tired-so-i-bought-a-couple-dreams.json) |
