@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakushou! Pachi-Slot Sengen 5: Rio Paradise | 62353 | [62353-rakushou-pachi-slot-sengen-5-rio-paradise.json](./62353-rakushou-pachi-slot-sengen-5-rio-paradise.json) |
 | Rakushou! Pachi-Slot Sengen 6: Rio 2 Cruising Vanadis | 62351 | [62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json](./62351-rakushou-pachi-slot-sengen-6-rio-2-cruising-vanadis.json) |
 | Rakuten | 189371 | [189371-rakuten.json](./189371-rakuten.json) |
+| Rakuworld | 427611 | [427611-rakuworld.json](./427611-rakuworld.json) |
 | Ralaephemera | 422727 | [422727-ralaephemera.json](./422727-ralaephemera.json) |
 | Ralasutura | 422729 | [422729-ralasutura.json](./422729-ralasutura.json) |
 | Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
@@ -3233,6 +3234,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit's Math Ages 6-9 | 209739 | [209739-reader-rabbits-math-ages-6-9.json](./209739-reader-rabbits-math-ages-6-9.json) |
 | Reader Rabbit's Preschool | 59067 | [59067-reader-rabbits-preschool.json](./59067-reader-rabbits-preschool.json) |
 | Reader Rabbit's Toddler | 73297 | [73297-reader-rabbits-toddler.json](./73297-reader-rabbits-toddler.json) |
+| Readerpet | 428036 | [428036-readerpet.json](./428036-readerpet.json) |
+| Readerpet: Garden Décor Pack | 428039 | [428039-readerpet-garden-decor-pack.json](./428039-readerpet-garden-decor-pack.json) |
 | Reading Blaster 2000 | 10676 | [10676-reading-blaster-2000.json](./10676-reading-blaster-2000.json) |
 | Reading Blaster: Ages 9-12 | 191530 | [191530-reading-blaster-ages-9-12.json](./191530-reading-blaster-ages-9-12.json) |
 | Reading Blaster: Invasion of the Word Snatchers | 10674 | [10674-reading-blaster-invasion-of-the-word-snatchers.json](./10674-reading-blaster-invasion-of-the-word-snatchers.json) |
@@ -8060,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmic Gymnastics Dream Team: Girls Dance | 103107 | [103107-rhythmic-gymnastics-dream-team-girls-dance.json](./103107-rhythmic-gymnastics-dream-team-girls-dance.json) |
 | Rhythmic Keyboard | 199692 | [199692-rhythmic-keyboard.json](./199692-rhythmic-keyboard.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
+| Rhythmic Rev | 428024 | [428024-rhythmic-rev.json](./428024-rhythmic-rev.json) |
 | Rhythmic Star | 22596 | [22596-rhythmic-star.json](./22596-rhythmic-star.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
