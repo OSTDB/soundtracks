@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
 | CapRiders: Euro Soccer | 32350 | [32350-capriders-euro-soccer.json](./32350-capriders-euro-soccer.json) |
+| Capsa | 68694 | [68694-capsa.json](./68694-capsa.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capsized | 3050 | [3050-capsized.json](./3050-capsized.json) |
@@ -7166,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Character Limit | 406637 | [406637-character-limit.json](./406637-character-limit.json) |
 | Character Sheets, Please | 209941 | [209941-character-sheets-please.json](./209941-character-sheets-please.json) |
+| Charade Maniacs | 69343 | [69343-charade-maniacs.json](./69343-charade-maniacs.json) |
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
 | Charade Maniacs: Day One Edition | 241717 | [241717-charade-maniacs-day-one-edition.json](./241717-charade-maniacs-day-one-edition.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Magics | 107060 | [107060-choice-of-magics.json](./107060-choice-of-magics.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of Robots | 13093 | [13093-choice-of-robots.json](./13093-choice-of-robots.json) |
+| Choice of the Cat | 68614 | [68614-choice-of-the-cat.json](./68614-choice-of-the-cat.json) |
 | Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
 | Choice of the Petal Throne | 35582 | [35582-choice-of-the-petal-throne.json](./35582-choice-of-the-petal-throne.json) |
@@ -9635,6 +9638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Cross | 319403 | [319403-chroma-cross.json](./319403-chroma-cross.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
+| Chroma Lab | 51382 | [51382-chroma-lab.json](./51382-chroma-lab.json) |
 | Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion | 146839 | [146839-chroma-quaternion.json](./146839-chroma-quaternion.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
@@ -10775,6 +10779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bomber | 39304 | [39304-city-bomber.json](./39304-city-bomber.json) |
 | City Bucks | 200220 | [200220-city-bucks.json](./200220-city-bucks.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
+| City Builder | 51045 | [51045-city-builder.json](./51045-city-builder.json) |
 | City Builder 2016: County Mall | 219964 | [219964-city-builder-2016-county-mall.json](./219964-city-builder-2016-county-mall.json) |
 | City Builder Pro | 391239 | [391239-city-builder-pro.json](./391239-city-builder-pro.json) |
 | City Bus | 64846 | [64846-city-bus.json](./64846-city-bus.json) |
@@ -23894,6 +23899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercop | 287115 | [287115-cybercop.json](./287115-cybercop.json) |
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
+| Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
 | Cybercube Battle | 170656 | [170656-cybercube-battle.json](./170656-cybercube-battle.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberCum: Pussy Attack! | 243164 | [243164-cybercum-pussy-attack.json](./243164-cybercum-pussy-attack.json) |
