@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid | 112999 | [112999-intrepid.json](./112999-intrepid.json) |
 | Intrepid | 135616 | [135616-intrepid.json](./135616-intrepid.json) |
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
+| Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
 | Intricacy | 176574 | [176574-intricacy.json](./176574-intricacy.json) |
 | Intrigue At Oakhaven | 377771 | [377771-intrigue-at-oakhaven.json](./377771-intrigue-at-oakhaven.json) |
