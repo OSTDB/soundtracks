@@ -10266,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
 | GreedFall: Gold Edition | 145989 | [145989-greedfall-gold-edition.json](./145989-greedfall-gold-edition.json) |
 | GreedFall: The De Vespe Conspiracy | 154771 | [154771-greedfall-the-de-vespe-conspiracy.json](./154771-greedfall-the-de-vespe-conspiracy.json) |
+| GreedFall: The Dying World - Deluxe Edition | 426910 | [426910-greedfall-the-dying-world-deluxe-edition.json](./426910-greedfall-the-dying-world-deluxe-edition.json) |
 | GreedFall: The Dying World - Gacane Pioneers Pack | 426965 | [426965-greedfall-the-dying-world-gacane-pioneers-pack.json](./426965-greedfall-the-dying-world-gacane-pioneers-pack.json) |
 | GreedFall: The Dying World - Peren's Black Mass Pack | 426964 | [426964-greedfall-the-dying-world-perens-black-mass-pack.json](./426964-greedfall-the-dying-world-perens-black-mass-pack.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
