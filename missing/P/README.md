@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzer Deck | 371340 | [371340-panzer-deck.json](./371340-panzer-deck.json) |
+| Panzer Doctrine | 69391 | [69391-panzer-doctrine.json](./69391-panzer-doctrine.json) |
 | Panzer Dragoon | 198643 | [198643-panzer-dragoon.json](./198643-panzer-dragoon.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
 | Panzer Dragoon II Zwei | 1669 | [1669-panzer-dragoon-ii-zwei.json](./1669-panzer-dragoon-ii-zwei.json) |
