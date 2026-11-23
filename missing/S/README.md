@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaflower | 313194 | [313194-seaflower.json](./313194-seaflower.json) |
 | Seaforge: Shores of Atlantis | 415872 | [415872-seaforge-shores-of-atlantis.json](./415872-seaforge-shores-of-atlantis.json) |
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
+| Seafrog | 215796 | [215796-seafrog.json](./215796-seafrog.json) |
 | Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seaglass | 66312 | [66312-seaglass.json](./66312-seaglass.json) |
@@ -16650,6 +16651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small World: Grand Dames | 174467 | [174467-small-world-grand-dames.json](./174467-small-world-grand-dames.json) |
 | Small Worlds | 201612 | [201612-small-worlds.json](./201612-small-worlds.json) |
 | Smalland II: Lost Realms | 405175 | [405175-smalland-ii-lost-realms.json](./405175-smalland-ii-lost-realms.json) |
+| Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | SmallBall Baseball | 56403 | [56403-smallball-baseball.json](./56403-smallball-baseball.json) |
 | SmallBall Football | 56406 | [56406-smallball-football.json](./56406-smallball-football.json) |
 | Smaller | 122053 | [122053-smaller.json](./122053-smaller.json) |
@@ -24008,6 +24010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Teeth VR | 116203 | [116203-spare-teeth-vr.json](./116203-spare-teeth-vr.json) |
 | Spared without Mercy | 399992 | [399992-spared-without-mercy.json](./399992-spared-without-mercy.json) |
 | Spared! | 330112 | [330112-spared.json](./330112-spared.json) |
+| Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
 | Spareware | 31224 | [31224-spareware.json](./31224-spareware.json) |
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
@@ -34638,6 +34641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUMBR | 201208 | [201208-sumbr.json](./201208-sumbr.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
+| Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
 | Sumerians | 126511 | [126511-sumerians.json](./126511-sumerians.json) |
 | Sumerians: Assyrian Statues | 304462 | [304462-sumerians-assyrian-statues.json](./304462-sumerians-assyrian-statues.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
