@@ -4759,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 305449 | [305449-engine-room.json](./305449-engine-room.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
+| Engine8 | 429426 | [429426-engine8.json](./429426-engine8.json) |
 | Engineer Alpha | 192521 | [192521-engineer-alpha.json](./192521-engineer-alpha.json) |
 | Engineer Arena | 121269 | [121269-engineer-arena.json](./121269-engineer-arena.json) |
 | Engineer Humpty | 14054 | [14054-engineer-humpty.json](./14054-engineer-humpty.json) |
@@ -8134,6 +8135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Grocery Store Has One Product That Binds Everything in a Unified Energy | 241222 | [241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json](./241222-every-grocery-store-has-one-product-that-binds-everything-in-a-unified-energy.json) |
 | Every Hero | 315724 | [315724-every-hero.json](./315724-every-hero.json) |
 | Every Hue of You | 302954 | [302954-every-hue-of-you.json](./302954-every-hue-of-you.json) |
+| Every Last Grain | 431027 | [431027-every-last-grain.json](./431027-every-last-grain.json) |
 | Every Letter | 198624 | [198624-every-letter.json](./198624-every-letter.json) |
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Man for Himself and God Against All or, for a shorter name: TimeLeft | 423001 | [423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json](./423001-every-man-for-himself-and-god-against-all-or-for-a-shorter-name-timeleft.json) |
@@ -8558,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: Moon Warfare | 173021 | [173021-evolution-moon-warfare.json](./173021-evolution-moon-warfare.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
+| Evolution: The World of Sacred Device | 23132 | [23132-evolution-the-world-of-sacred-device.json](./23132-evolution-the-world-of-sacred-device.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolva | 10911 | [10911-evolva.json](./10911-evolva.json) |
 | Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
@@ -9659,6 +9662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tag! | 240793 | [240793-extreme-tag.json](./240793-extreme-tag.json) |
 | Extreme Tax Masters | 194768 | [194768-extreme-tax-masters.json](./194768-extreme-tax-masters.json) |
 | Extreme Tennis | 196385 | [196385-extreme-tennis.json](./196385-extreme-tennis.json) |
+| Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Terror | 262608 | [262608-extreme-terror.json](./262608-extreme-terror.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
@@ -9837,6 +9841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Groove | 22250 | [22250-eyetoy-groove.json](./22250-eyetoy-groove.json) |
 | EyeToy: Kinetic | 22550 | [22550-eyetoy-kinetic.json](./22550-eyetoy-kinetic.json) |
+| EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
 | EyeToy: Monkey Mania | 44677 | [44677-eyetoy-monkey-mania.json](./44677-eyetoy-monkey-mania.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play | 18724 | [18724-eyetoy-play.json](./18724-eyetoy-play.json) |
