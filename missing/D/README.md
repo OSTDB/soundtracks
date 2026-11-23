@@ -20896,6 +20896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Buster | 423827 | [423827-dungeon-buster.json](./423827-dungeon-buster.json) |
 | Dungeon Buster Ex-Plores | 66169 | [66169-dungeon-buster-ex-plores.json](./66169-dungeon-buster-ex-plores.json) |
 | Dungeon Campaign | 24803 | [24803-dungeon-campaign.json](./24803-dungeon-campaign.json) |
+| Dungeon Cards | 127627 | [127627-dungeon-cards.json](./127627-dungeon-cards.json) |
 | Dungeon Castle | 188696 | [188696-dungeon-castle.json](./188696-dungeon-castle.json) |
 | Dungeon CEO | 339576 | [339576-dungeon-ceo.json](./339576-dungeon-ceo.json) |
 | Dungeon Chamber | 296872 | [296872-dungeon-chamber.json](./296872-dungeon-chamber.json) |
