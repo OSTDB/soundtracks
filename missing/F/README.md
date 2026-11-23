@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
+| FarmWings | 426921 | [426921-farmwings.json](./426921-farmwings.json) |
 | FarmWoozy | 56086 | [56086-farmwoozy.json](./56086-farmwoozy.json) |
 | Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
 | Farmyard Haven | 295690 | [295690-farmyard-haven.json](./295690-farmyard-haven.json) |
@@ -16135,6 +16136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi na Mori no Pokora | 386649 | [386649-fushigi-na-mori-no-pokora.json](./386649-fushigi-na-mori-no-pokora.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
 | Fushigi na Sekai no Kankou Nikki II: Pakuru World to Sejika no Gyakushuu | 346376 | [346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json](./346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json) |
+| Fushigi na Tabi | 426985 | [426985-fushigi-na-tabi.json](./426985-fushigi-na-tabi.json) |
 | Fushigi no Daibouken Chiruno Kenzan! | 236317 | [236317-fushigi-no-daibouken-chiruno-kenzan.json](./236317-fushigi-no-daibouken-chiruno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
