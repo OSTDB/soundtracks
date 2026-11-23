@@ -8798,7 +8798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of the World | 143981 | [143981-destiny-of-the-world.json](./143981-destiny-of-the-world.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
-| Destiny or Fate | 113311 | [113311-destiny-or-fate.json](./113311-destiny-or-fate.json) |
 | Destiny Powers: Goblins Realm | 402004 | [402004-destiny-powers-goblins-realm.json](./402004-destiny-powers-goblins-realm.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Saga | 277191 | [277191-destiny-saga.json](./277191-destiny-saga.json) |
