@@ -13964,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die | 78104 | [78104-skate-or-die.json](./78104-skate-or-die.json) |
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
+| Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
 | Skate or Don't! | 185755 | [185755-skate-or-dont.json](./185755-skate-or-dont.json) |
 | Skate Out! | 58995 | [58995-skate-out.json](./58995-skate-out.json) |
 | Skate Park City | 42725 | [42725-skate-park-city.json](./42725-skate-park-city.json) |
@@ -17691,6 +17692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
+| Sneaky Snakes | 49025 | [49025-sneaky-snakes.json](./49025-sneaky-snakes.json) |
 | Sneaky Sneaky | 14553 | [14553-sneaky-sneaky.json](./14553-sneaky-sneaky.json) |
 | Sneaky Squad | 419179 | [419179-sneaky-squad.json](./419179-sneaky-squad.json) |
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
@@ -17985,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoopy: The Cool Computer Game | 66345 | [66345-snoopy-the-cool-computer-game.json](./66345-snoopy-the-cool-computer-game.json) |
 | Snoopy's Campfire Stories | 73624 | [73624-snoopys-campfire-stories.json](./73624-snoopys-campfire-stories.json) |
 | Snoopy's Game Club | 94642 | [94642-snoopys-game-club.json](./94642-snoopys-game-club.json) |
+| Snoopy's Magic Show | 49019 | [49019-snoopys-magic-show.json](./49019-snoopys-magic-show.json) |
 | Snoopy's Magic Show DX | 279583 | [279583-snoopys-magic-show-dx.json](./279583-snoopys-magic-show-dx.json) |
 | Snoopy's Silly Sports Spectacular! | 48077 | [48077-snoopys-silly-sports-spectacular.json](./48077-snoopys-silly-sports-spectacular.json) |
 | Snoot Booper | 392282 | [392282-snoot-booper.json](./392282-snoot-booper.json) |
@@ -35583,6 +35586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bit Blaster XL | 124132 | [124132-super-bit-blaster-xl.json](./124132-super-bit-blaster-xl.json) |
 | Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Bass | 207214 | [207214-super-black-bass.json](./207214-super-black-bass.json) |
+| Super Black Bass | 49085 | [49085-super-black-bass.json](./49085-super-black-bass.json) |
 | Super Black Bass 3 | 44434 | [44434-super-black-bass-3.json](./44434-super-black-bass-3.json) |
 | Super Black Bass 3D | 21023 | [21023-super-black-bass-3d.json](./21023-super-black-bass-3d.json) |
 | Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
@@ -38152,6 +38156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scope 6 | 18616 | [18616-super-scope-6.json](./18616-super-scope-6.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
+| Super Scrabble | 49065 | [49065-super-scrabble.json](./49065-super-scrabble.json) |
 | Super Scram Kitty | 405914 | [405914-super-scram-kitty.json](./405914-super-scram-kitty.json) |
 | Super Scramble Simulator | 12786 | [12786-super-scramble-simulator.json](./12786-super-scramble-simulator.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
