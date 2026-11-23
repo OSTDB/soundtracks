@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Online 2 | 60707 | [60707-galaxy-online-2.json](./60707-galaxy-online-2.json) |
 | Galaxy Online 3 | 60706 | [60706-galaxy-online-3.json](./60706-galaxy-online-3.json) |
 | Galaxy Pass Station | 190467 | [190467-galaxy-pass-station.json](./190467-galaxy-pass-station.json) |
+| Galaxy Pilgrim | 429229 | [429229-galaxy-pilgrim.json](./429229-galaxy-pilgrim.json) |
 | Galaxy Ping Pong | 359724 | [359724-galaxy-ping-pong.json](./359724-galaxy-ping-pong.json) |
 | Galaxy Pirates | 392305 | [392305-galaxy-pirates.json](./392305-galaxy-pirates.json) |
 | Galaxy Princess Zorana | 327953 | [327953-galaxy-princess-zorana.json](./327953-galaxy-princess-zorana.json) |
@@ -6622,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
 | Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
 | Goat Simulator 3: Digital Downgrade | 420816 | [420816-goat-simulator-3-digital-downgrade.json](./420816-goat-simulator-3-digital-downgrade.json) |
+| Goat Simulator 3: Extended Universe Pack | 429269 | [429269-goat-simulator-3-extended-universe-pack.json](./429269-goat-simulator-3-extended-universe-pack.json) |
 | Goat Simulator 3: Gifts from the Rifts | 337883 | [337883-goat-simulator-3-gifts-from-the-rifts.json](./337883-goat-simulator-3-gifts-from-the-rifts.json) |
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
@@ -6641,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
 | Goat Stand and Turtle Guy | 360626 | [360626-goat-stand-and-turtle-guy.json](./360626-goat-stand-and-turtle-guy.json) |
 | Goat Survivor | 367025 | [367025-goat-survivor.json](./367025-goat-survivor.json) |
+| Goat Survivor 2 | 429270 | [429270-goat-survivor-2.json](./429270-goat-survivor-2.json) |
 | GOAT: Gear Optimization Auto-Battle Tactics | 421597 | [421597-goat-gear-optimization-auto-battle-tactics.json](./421597-goat-gear-optimization-auto-battle-tactics.json) |
 | Goat!Goat! | 242481 | [242481-goat-goat.json](./242481-goat-goat.json) |
 | Goat's Tale | 173011 | [173011-goats-tale.json](./173011-goats-tale.json) |
@@ -7503,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Eagle | 13295 | [13295-golden-eagle.json](./13295-golden-eagle.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Eggs | 103158 | [103158-golden-eggs.json](./103158-golden-eggs.json) |
+| Golden Escape | 429247 | [429247-golden-escape.json](./429247-golden-escape.json) |
 | Golden Fall | 120140 | [120140-golden-fall.json](./120140-golden-fall.json) |
 | Golden Fall 2 | 132600 | [132600-golden-fall-2.json](./132600-golden-fall-2.json) |
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
