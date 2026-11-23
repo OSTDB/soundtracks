@@ -513,7 +513,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
 | Mad Teacher | 88507 | [88507-mad-teacher.json](./88507-mad-teacher.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
-| Mad Tower Tycoon | 107423 | [107423-mad-tower-tycoon.json](./107423-mad-tower-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
 | Mad Trax | 46442 | [46442-mad-trax.json](./46442-mad-trax.json) |
 | Mad Truck 2 | 207976 | [207976-mad-truck-2.json](./207976-mad-truck-2.json) |
@@ -6496,7 +6495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Fight: Multiplayer Game | 251531 | [251531-math-fight-multiplayer-game.json](./251531-math-fight-multiplayer-game.json) |
 | Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
 | Math for the Real World | 301358 | [301358-math-for-the-real-world.json](./301358-math-for-the-real-world.json) |
-| Math Fun | 105640 | [105640-math-fun.json](./105640-math-fun.json) |
 | Math Game | 187599 | [187599-math-game.json](./187599-math-game.json) |
 | Math Game | 188491 | [188491-math-game.json](./188491-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
@@ -8330,7 +8328,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeple Fantasy 6 | 393098 | [393098-meeple-fantasy-6.json](./393098-meeple-fantasy-6.json) |
 | Meeple Incremental | 404252 | [404252-meeple-incremental.json](./404252-meeple-incremental.json) |
 | Meeple Jump | 244292 | [244292-meeple-jump.json](./244292-meeple-jump.json) |
-| Meeple Station | 106415 | [106415-meeple-station.json](./106415-meeple-station.json) |
 | Meer's Occupation | 82690 | [82690-meers-occupation.json](./82690-meers-occupation.json) |
 | Meer's: Escape | 263030 | [263030-meers-escape.json](./263030-meers-escape.json) |
 | Meeri Bliss | 369213 | [369213-meeri-bliss.json](./369213-meeri-bliss.json) |
@@ -11771,7 +11768,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Redux | 6880 | [6880-metro-redux.json](./6880-metro-redux.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Saga Bundle | 164753 | [164753-metro-saga-bundle.json](./164753-metro-saga-bundle.json) |
-| Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
 | Metro Simulator | 154904 | [154904-metro-simulator.json](./154904-metro-simulator.json) |
 | Metro Simulator 2 | 192002 | [192002-metro-simulator-2.json](./192002-metro-simulator-2.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
@@ -19616,7 +19612,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moral Conflict | 184679 | [184679-moral-conflict.json](./184679-moral-conflict.json) |
 | Moral Dilemma: Breaking Character | 420815 | [420815-moral-dilemma-breaking-character.json](./420815-moral-dilemma-breaking-character.json) |
 | Moral Dilemma: The Interview | 330041 | [330041-moral-dilemma-the-interview.json](./330041-moral-dilemma-the-interview.json) |
-| Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
 | Morashiya | 98608 | [98608-morashiya.json](./98608-morashiya.json) |
@@ -20275,7 +20270,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic: Tomb of Mystery | 210122 | [210122-mosaic-tomb-of-mystery.json](./210122-mosaic-tomb-of-mystery.json) |
 | Mosaica: Arboreal | 386877 | [386877-mosaica-arboreal.json](./386877-mosaica-arboreal.json) |
 | Mosaico | 287861 | [287861-mosaico.json](./287861-mosaico.json) |
-| Mosaics Galore | 107157 | [107157-mosaics-galore.json](./107157-mosaics-galore.json) |
 | Mosaics Galore 2 | 97005 | [97005-mosaics-galore-2.json](./97005-mosaics-galore-2.json) |
 | Mosaics Galore: Challenging Journey | 106143 | [106143-mosaics-galore-challenging-journey.json](./106143-mosaics-galore-challenging-journey.json) |
 | Mosaics Galore: Glorious Journey | 212972 | [212972-mosaics-galore-glorious-journey.json](./212972-mosaics-galore-glorious-journey.json) |
@@ -23373,7 +23367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Candy Love: New Gen | 227973 | [227973-my-candy-love-new-gen.json](./227973-my-candy-love-new-gen.json) |
 | My Candy Love: University Life | 186655 | [186655-my-candy-love-university-life.json](./186655-my-candy-love-university-life.json) |
 | My Cannibal Family | 404918 | [404918-my-cannibal-family.json](./404918-my-cannibal-family.json) |
-| My Car | 106132 | [106132-my-car.json](./106132-my-car.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
 | My Card Is Better Than Your Card! | 342224 | [342224-my-card-is-better-than-your-card.json](./342224-my-card-is-better-than-your-card.json) |
@@ -25108,7 +25101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 22082 | [22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./22082-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Return to Ravenhearst | 5513 | [5513-mystery-case-files-return-to-ravenhearst.json](./5513-mystery-case-files-return-to-ravenhearst.json) |
 | Mystery Case Files: Rewind | 140232 | [140232-mystery-case-files-rewind.json](./140232-mystery-case-files-rewind.json) |
-| Mystery Case Files: Rewind - Collector's Edition | 105339 | [105339-mystery-case-files-rewind-collectors-edition.json](./105339-mystery-case-files-rewind-collectors-edition.json) |
 | Mystery Case Files: Shadow Lake | 5517 | [5517-mystery-case-files-shadow-lake.json](./5517-mystery-case-files-shadow-lake.json) |
 | Mystery Case Files: Shadow Lake - Collector's Edition | 88269 | [88269-mystery-case-files-shadow-lake-collectors-edition.json](./88269-mystery-case-files-shadow-lake-collectors-edition.json) |
 | Mystery Case Files: The Black Veil | 56172 | [56172-mystery-case-files-the-black-veil.json](./56172-mystery-case-files-the-black-veil.json) |
