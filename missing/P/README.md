@@ -11871,6 +11871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pluviophile | 145701 | [145701-pluviophile.json](./145701-pluviophile.json) |
 | Ply | 178950 | [178950-ply.json](./178950-ply.json) |
 | Plylbl | 333977 | [333977-plylbl.json](./333977-plylbl.json) |
+| Plyte | 428078 | [428078-plyte.json](./428078-plyte.json) |
 | Plyxo Games | 393446 | [393446-plyxo-games.json](./393446-plyxo-games.json) |
 | PM-1 Inverse Universe | 126382 | [126382-pm-1-inverse-universe.json](./126382-pm-1-inverse-universe.json) |
 | PMC Promiscuity | 296307 | [296307-pmc-promiscuity.json](./296307-pmc-promiscuity.json) |
@@ -20680,6 +20681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Ops | 192338 | [192338-push-ops.json](./192338-push-ops.json) |
 | Push Out | 200319 | [200319-push-out.json](./200319-push-out.json) |
 | Push Over | 37244 | [37244-push-over.json](./37244-push-over.json) |
+| Push Pray Devote | 428071 | [428071-push-pray-devote.json](./428071-push-pray-devote.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
 | Push Push Boom | 284291 | [284291-push-push-boom.json](./284291-push-push-boom.json) |
