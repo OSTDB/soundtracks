@@ -6351,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bayou Billy | 218910 | [218910-the-adventures-of-bayou-billy.json](./218910-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bayou Billy | 8740 | [8740-the-adventures-of-bayou-billy.json](./8740-the-adventures-of-bayou-billy.json) |
 | The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business | 14307 | [14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json](./14307-the-adventures-of-bertram-fiddle-episode-1-a-dreadly-business.json) |
+| The Adventures of Bertram Fiddle: Episode 2 - A Bleaker Predicklement | 32834 | [32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json](./32834-the-adventures-of-bertram-fiddle-episode-2-a-bleaker-predicklement.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bleeposaurus | 392327 | [392327-the-adventures-of-bleeposaurus.json](./392327-the-adventures-of-bleeposaurus.json) |
 | The Adventures of Bleeposaurus: Dragonfire | 392329 | [392329-the-adventures-of-bleeposaurus-dragonfire.json](./392329-the-adventures-of-bleeposaurus-dragonfire.json) |
@@ -9755,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
 | The DollMaker | 380905 | [380905-the-dollmaker.json](./380905-the-dollmaker.json) |
+| The Dolls | 32636 | [32636-the-dolls.json](./32636-the-dolls.json) |
 | The Dolls: Reborn | 74814 | [74814-the-dolls-reborn.json](./74814-the-dolls-reborn.json) |
 | The Dolphin's Pearl | 73630 | [73630-the-dolphins-pearl.json](./73630-the-dolphins-pearl.json) |
 | The Dome | 30465 | [30465-the-dome.json](./30465-the-dome.json) |
@@ -26974,7 +26976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timore | 159172 | [159172-timore.json](./159172-timore.json) |
 | Timore 5: The Flood | 171942 | [171942-timore-5-the-flood.json](./171942-timore-5-the-flood.json) |
-| Timore 6 | 111636 | [111636-timore-6.json](./111636-timore-6.json) |
 | Timore 6: The Cadaver | 381806 | [381806-timore-6-the-cadaver.json](./381806-timore-6-the-cadaver.json) |
 | Timore Avaritia | 366350 | [366350-timore-avaritia.json](./366350-timore-avaritia.json) |
 | Timore Inferno | 32422 | [32422-timore-inferno.json](./32422-timore-inferno.json) |
