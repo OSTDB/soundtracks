@@ -4907,6 +4907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
+| Battlefield 6: Season 4 Advanced Pack | 426884 | [426884-battlefield-6-season-4-advanced-pack.json](./426884-battlefield-6-season-4-advanced-pack.json) |
 | Battlefield Alliance | 52294 | [52294-battlefield-alliance.json](./52294-battlefield-alliance.json) |
 | Battlefield Anniversary Bundle | 83758 | [83758-battlefield-anniversary-bundle.json](./83758-battlefield-anniversary-bundle.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
@@ -10562,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Raven | 119139 | [119139-black-raven.json](./119139-black-raven.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
 | Black Raven: New Missions | 299546 | [299546-black-raven-new-missions.json](./299546-black-raven-new-missions.json) |
+| Black Relay | 426895 | [426895-black-relay.json](./426895-black-relay.json) |
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
 | Black Reliquary | 241882 | [241882-black-reliquary.json](./241882-black-reliquary.json) |
 | Black Resin | 142278 | [142278-black-resin.json](./142278-black-resin.json) |
