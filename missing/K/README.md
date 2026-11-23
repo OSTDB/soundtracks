@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Sono Mama Rakubiki Jiten | 67029 | [67029-kanji-sono-mama-rakubiki-jiten.json](./67029-kanji-sono-mama-rakubiki-jiten.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Trainer Portable | 56749 | [56749-kanji-trainer-portable.json](./56749-kanji-trainer-portable.json) |
+| Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | KanjiMemory | 293480 | [293480-kanjimemory.json](./293480-kanjimemory.json) |
