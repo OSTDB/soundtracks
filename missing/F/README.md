@@ -3462,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lane Bowling | 198739 | [198739-fast-lane-bowling.json](./198739-fast-lane-bowling.json) |
 | Fast Lane Carnage | 54021 | [54021-fast-lane-carnage.json](./54021-fast-lane-carnage.json) |
 | Fast Lane! The Spice Engineering Challenge | 60684 | [60684-fast-lane-the-spice-engineering-challenge.json](./60684-fast-lane-the-spice-engineering-challenge.json) |
+| Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Lap Racing | 428895 | [428895-fast-lap-racing.json](./428895-fast-lap-racing.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Manicz | 61270 | [61270-fast-manicz.json](./61270-fast-manicz.json) |
@@ -6548,6 +6549,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Nemo | 273854 | [273854-finding-nemo.json](./273854-finding-nemo.json) |
 | Finding Nemo | 78481 | [78481-finding-nemo.json](./78481-finding-nemo.json) |
 | Finding Nemo: Escape to the Big Blue | 74108 | [74108-finding-nemo-escape-to-the-big-blue.json](./74108-finding-nemo-escape-to-the-big-blue.json) |
+| Finding Nemo: Escape to the Big Blue - Special Edition | 23681 | [23681-finding-nemo-escape-to-the-big-blue-special-edition.json](./23681-finding-nemo-escape-to-the-big-blue-special-edition.json) |
+| Finding Nemo: Learning with Nemo | 23777 | [23777-finding-nemo-learning-with-nemo.json](./23777-finding-nemo-learning-with-nemo.json) |
 | Finding Nemo: Nemo's Ocean Discoveries | 85838 | [85838-finding-nemo-nemos-ocean-discoveries.json](./85838-finding-nemo-nemos-ocean-discoveries.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Nemo: The Continuing Adventures | 49269 | [49269-finding-nemo-the-continuing-adventures.json](./49269-finding-nemo-the-continuing-adventures.json) |
@@ -7000,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling: Combination Tag | 38087 | [38087-fire-pro-wrestling-combination-tag.json](./38087-fire-pro-wrestling-combination-tag.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
 | Fire Protection Training Simulator | 161456 | [161456-fire-protection-training-simulator.json](./161456-fire-protection-training-simulator.json) |
+| Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Quest | 58421 | [58421-fire-quest.json](./58421-fire-quest.json) |
 | Fire Race | 287473 | [287473-fire-race.json](./287473-fire-race.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
@@ -12816,6 +12820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Sports Golf '99 | 44941 | [44941-fox-sports-golf-99.json](./44941-fox-sports-golf-99.json) |
 | Fox Sports Hockey '99 | 80776 | [80776-fox-sports-hockey-99.json](./80776-fox-sports-hockey-99.json) |
 | Fox Sports Major League Baseball 2001 | 210125 | [210125-fox-sports-major-league-baseball-2001.json](./210125-fox-sports-major-league-baseball-2001.json) |
+| FOX Sports Racing | 23755 | [23755-fox-sports-racing.json](./23755-fox-sports-racing.json) |
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
 | Fox Sports Tennis '99 | 81276 | [81276-fox-sports-tennis-99.json](./81276-fox-sports-tennis-99.json) |
 | Fox Stamps | 418483 | [418483-fox-stamps.json](./418483-fox-stamps.json) |
