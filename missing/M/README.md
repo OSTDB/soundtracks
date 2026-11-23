@@ -7128,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MayhemCars | 125909 | [125909-mayhemcars.json](./125909-mayhemcars.json) |
 | MayhemCars2 | 143236 | [143236-mayhemcars2.json](./143236-mayhemcars2.json) |
 | Mayhemers | 262842 | [262842-mayhemers.json](./262842-mayhemers.json) |
+| Mayjasmine Episode 01: What is God? | 34059 | [34059-mayjasmine-episode-01-what-is-god.json](./34059-mayjasmine-episode-01-what-is-god.json) |
 | Mayo Mayo | 321605 | [321605-mayo-mayo.json](./321605-mayo-mayo.json) |
 | Mayohiga | 151530 | [151530-mayohiga.json](./151530-mayohiga.json) |
 | Mayoi Shopping Street | 365861 | [365861-mayoi-shopping-street.json](./365861-mayoi-shopping-street.json) |
@@ -14613,6 +14614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
 | Mines of Grimvale | 53350 | [53350-mines-of-grimvale.json](./53350-mines-of-grimvale.json) |
 | Mines of Mana | 426100 | [426100-mines-of-mana.json](./426100-mines-of-mana.json) |
+| Mines of Mars | 34143 | [34143-mines-of-mars.json](./34143-mines-of-mars.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Mines Of Moritania | 253446 | [253446-mines-of-moritania.json](./253446-mines-of-moritania.json) |
@@ -25522,6 +25524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
 | Mystic Saga | 174953 | [174953-mystic-saga.json](./174953-mystic-saga.json) |
+| Mystic Saga | 34123 | [34123-mystic-saga.json](./34123-mystic-saga.json) |
 | Mystic Searches | 48938 | [48938-mystic-searches.json](./48938-mystic-searches.json) |
 | Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Stickerbook | 345252 | [345252-mystic-stickerbook.json](./345252-mystic-stickerbook.json) |
