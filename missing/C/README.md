@@ -9055,6 +9055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Cat | 68614 | [68614-choice-of-the-cat.json](./68614-choice-of-the-cat.json) |
 | Choice of the Deathless | 17744 | [17744-choice-of-the-deathless.json](./17744-choice-of-the-deathless.json) |
 | Choice of the Dragon | 66762 | [66762-choice-of-the-dragon.json](./66762-choice-of-the-dragon.json) |
+| Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Petal Throne | 35582 | [35582-choice-of-the-petal-throne.json](./35582-choice-of-the-petal-throne.json) |
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
 | Choice of the Rock Star | 76113 | [76113-choice-of-the-rock-star.json](./76113-choice-of-the-rock-star.json) |
@@ -11669,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claws & Feathers III | 52803 | [52803-claws-and-feathers-iii.json](./52803-claws-and-feathers-iii.json) |
 | Claws and Feathers | 24578 | [24578-claws-and-feathers.json](./24578-claws-and-feathers.json) |
 | Claws of Despair | 14005 | [14005-claws-of-despair.json](./14005-claws-of-despair.json) |
+| Claws of Furry | 76436 | [76436-claws-of-furry.json](./76436-claws-of-furry.json) |
 | Claws of the Forest | 363593 | [363593-claws-of-the-forest.json](./363593-claws-of-the-forest.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clawstar Wrestling | 227115 | [227115-clawstar-wrestling.json](./227115-clawstar-wrestling.json) |
@@ -15635,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condors vs. Ocelots | 164932 | [164932-condors-vs-ocelots.json](./164932-condors-vs-ocelots.json) |
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct AR! | 318365 | [318365-conduct-ar.json](./318365-conduct-ar.json) |
+| Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
 | Conduct This! | 99888 | [99888-conduct-this.json](./99888-conduct-this.json) |
 | Conduct Together! | 113078 | [113078-conduct-together.json](./113078-conduct-together.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
