@@ -5422,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Nemesis: Rise of the Imperfects | 194232 | [194232-marvel-nemesis-rise-of-the-imperfects.json](./194232-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects | 3992 | [3992-marvel-nemesis-rise-of-the-imperfects.json](./3992-marvel-nemesis-rise-of-the-imperfects.json) |
 | Marvel Nemesis: Rise of the Imperfects 2 | 289591 | [289591-marvel-nemesis-rise-of-the-imperfects-2.json](./289591-marvel-nemesis-rise-of-the-imperfects-2.json) |
+| Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
 | Marvel Pinball: Epic Collection Vol. 1 | 42902 | [42902-marvel-pinball-epic-collection-vol-1.json](./42902-marvel-pinball-epic-collection-vol-1.json) |
 | Marvel Putt Golf | 237699 | [237699-marvel-putt-golf.json](./237699-marvel-putt-golf.json) |
