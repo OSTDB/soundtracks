@@ -4952,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Sans Phase 3: Shanghaivania | 332887 | [332887-ink-sans-phase-3-shanghaivania.json](./332887-ink-sans-phase-3-shanghaivania.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink Splash | 411815 | [411815-ink-splash.json](./411815-ink-splash.json) |
+| Ink Strings | 428075 | [428075-ink-strings.json](./428075-ink-strings.json) |
 | Ink Studio: Tattoo Artist Simulator | 155769 | [155769-ink-studio-tattoo-artist-simulator.json](./155769-ink-studio-tattoo-artist-simulator.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
