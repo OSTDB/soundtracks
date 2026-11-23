@@ -3221,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killzone 3: Helghast Edition | 163147 | [163147-killzone-3-helghast-edition.json](./163147-killzone-3-helghast-edition.json) |
 | Killzone Extraction | 405907 | [405907-killzone-extraction.json](./405907-killzone-extraction.json) |
 | Killzone HD | 20003 | [20003-killzone-hd.json](./20003-killzone-hd.json) |
+| Killzone Trilogy | 23729 | [23729-killzone-trilogy.json](./23729-killzone-trilogy.json) |
 | Killzone: Collector's Edition | 43422 | [43422-killzone-collectors-edition.json](./43422-killzone-collectors-edition.json) |
 | Killzone: Liberation | 1868 | [1868-killzone-liberation.json](./1868-killzone-liberation.json) |
 | Killzone: Liberation | 408989 | [408989-killzone-liberation.json](./408989-killzone-liberation.json) |
