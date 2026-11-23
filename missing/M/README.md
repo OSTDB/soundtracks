@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Ball Racing | 158904 | [158904-marble-ball-racing.json](./158904-marble-ball-racing.json) |
 | Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
+| Marble Bay Mysteries | 431203 | [431203-marble-bay-mysteries.json](./431203-marble-bay-mysteries.json) |
 | Marble Blade | 392963 | [392963-marble-blade.json](./392963-marble-blade.json) |
 | Marble Blast Gold | 26191 | [26191-marble-blast-gold.json](./26191-marble-blast-gold.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
@@ -20347,6 +20348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosquito Alive | 241563 | [241563-mosquito-alive.json](./241563-mosquito-alive.json) |
 | Mosquito Must Die | 243842 | [243842-mosquito-must-die.json](./243842-mosquito-must-die.json) |
 | Mosquito Popper | 27022 | [27022-mosquito-popper.json](./27022-mosquito-popper.json) |
+| Mosquito Problem | 431103 | [431103-mosquito-problem.json](./431103-mosquito-problem.json) |
 | Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquitoes and zombies | 132410 | [132410-mosquitoes-and-zombies.json](./132410-mosquitoes-and-zombies.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
@@ -25442,6 +25444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
 | Mystic Code | 133751 | [133751-mystic-code.json](./133751-mystic-code.json) |
+| Mystic Courtesan Complete Bundle | 429533 | [429533-mystic-courtesan-complete-bundle.json](./429533-mystic-courtesan-complete-bundle.json) |
 | Mystic Courtesan Stories: Trainee Maria | 429152 | [429152-mystic-courtesan-stories-trainee-maria.json](./429152-mystic-courtesan-stories-trainee-maria.json) |
 | Mystic Craft | 96979 | [96979-mystic-craft.json](./96979-mystic-craft.json) |
 | Mystic Defender | 27989 | [27989-mystic-defender.json](./27989-mystic-defender.json) |
