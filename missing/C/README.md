@@ -12687,6 +12687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck: Hat Pack 3 | 248394 | [248394-cluck-hat-pack-3.json](./248394-cluck-hat-pack-3.json) |
 | Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles Adventure: Premium Edition | 52802 | [52802-cluckles-adventure-premium-edition.json](./52802-cluckles-adventure-premium-edition.json) |
+| Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Cluckopia | 422852 | [422852-cluckopia.json](./422852-cluckopia.json) |
 | Clucky's Picnic Adventure | 177692 | [177692-cluckys-picnic-adventure.json](./177692-cluckys-picnic-adventure.json) |
@@ -17571,6 +17572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
 | Cosmic Drift | 308694 | [308694-cosmic-drift.json](./308694-cosmic-drift.json) |
 | Cosmic Dungeon | 242749 | [242749-cosmic-dungeon.json](./242749-cosmic-dungeon.json) |
+| Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
 | Cosmic Fallout | 418165 | [418165-cosmic-fallout.json](./418165-cosmic-fallout.json) |
@@ -22595,6 +22597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
 | Cucumber | 303437 | [303437-cucumber.json](./303437-cucumber.json) |
 | Cucumber | 311228 | [311228-cucumber.json](./311228-cucumber.json) |
+| Cucumber Blues | 28917 | [28917-cucumber-blues.json](./28917-cucumber-blues.json) |
 | Cucumber Champion | 288953 | [288953-cucumber-champion.json](./288953-cucumber-champion.json) |
 | Cucumber Defense VR | 126947 | [126947-cucumber-defense-vr.json](./126947-cucumber-defense-vr.json) |
 | CucumbeRunner | 236011 | [236011-cucumberunner.json](./236011-cucumberunner.json) |
