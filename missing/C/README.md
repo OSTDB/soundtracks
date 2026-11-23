@@ -10256,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape 2 Revenge | 68490 | [68490-cinderella-escape-2-revenge.json](./68490-cinderella-escape-2-revenge.json) |
+| Cinderella Escape! R12 | 34330 | [34330-cinderella-escape-r12.json](./34330-cinderella-escape-r12.json) |
 | Cinderella Free Fall | 60193 | [60193-cinderella-free-fall.json](./60193-cinderella-free-fall.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
 | Cinderella Phenomenon | 30030 | [30030-cinderella-phenomenon.json](./30030-cinderella-phenomenon.json) |
@@ -15254,6 +15255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community College Hero: Fun and Games | 190049 | [190049-community-college-hero-fun-and-games.json](./190049-community-college-hero-fun-and-games.json) |
 | Community College Hero: Knowledge is Power | 102552 | [102552-community-college-hero-knowledge-is-power.json](./102552-community-college-hero-knowledge-is-power.json) |
 | Community College Hero: Knowledge is Power | 99058 | [99058-community-college-hero-knowledge-is-power.json](./99058-community-college-hero-knowledge-is-power.json) |
+| Community College Hero: Trial by Fire | 34205 | [34205-community-college-hero-trial-by-fire.json](./34205-community-college-hero-trial-by-fire.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Helpers Play & Learn | 88999 | [88999-community-helpers-play-and-learn.json](./88999-community-helpers-play-and-learn.json) |
 | Community Pom | 62873 | [62873-community-pom.json](./62873-community-pom.json) |
@@ -19188,6 +19190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashMetal: Drift Racing Car Driving Simulator | 213805 | [213805-crashmetal-drift-racing-car-driving-simulator.json](./213805-crashmetal-drift-racing-car-driving-simulator.json) |
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashmo | 19928 | [19928-crashmo.json](./19928-crashmo.json) |
+| Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
 | Crasho Cars | 315952 | [315952-crasho-cars.json](./315952-crasho-cars.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout | 379722 | [379722-crashout.json](./379722-crashout.json) |
@@ -20804,6 +20807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Roads: Grüne Welle | 78831 | [78831-cross-roads-grune-welle.json](./78831-cross-roads-grune-welle.json) |
 | Cross Romance: Koi to Mahjong to Hanafuda to | 247346 | [247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json](./247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
+| Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
 | Cross Shuriken | 293266 | [293266-cross-shuriken.json](./293266-cross-shuriken.json) |
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
