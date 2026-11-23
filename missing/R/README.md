@@ -9217,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Angels: The Red Rose | 60424 | [60424-rising-angels-the-red-rose.json](./60424-rising-angels-the-red-rose.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Blood | 263408 | [263408-rising-blood.json](./263408-rising-blood.json) |
+| Rising Board 3D | 23675 | [23675-rising-board-3d.json](./23675-rising-board-3d.json) |
 | Rising City | 236875 | [236875-rising-city.json](./236875-rising-city.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
@@ -12010,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 2: Time Twister | 77218 | [77218-rollercoaster-tycoon-2-time-twister.json](./77218-rollercoaster-tycoon-2-time-twister.json) |
 | RollerCoaster Tycoon 2: Triple Thrill Pack | 36366 | [36366-rollercoaster-tycoon-2-triple-thrill-pack.json](./36366-rollercoaster-tycoon-2-triple-thrill-pack.json) |
+| RollerCoaster Tycoon 2: Wacky Worlds | 23705 | [23705-rollercoaster-tycoon-2-wacky-worlds.json](./23705-rollercoaster-tycoon-2-wacky-worlds.json) |
 | Rollercoaster Tycoon 3 | 178407 | [178407-rollercoaster-tycoon-3.json](./178407-rollercoaster-tycoon-3.json) |
 | RollerCoaster Tycoon 3: Complete Edition | 138341 | [138341-rollercoaster-tycoon-3-complete-edition.json](./138341-rollercoaster-tycoon-3-complete-edition.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
