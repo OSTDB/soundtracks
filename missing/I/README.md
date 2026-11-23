@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Win! | 310355 | [310355-i-wanna-win.json](./310355-i-wanna-win.json) |
 | I want 5 quadrillion yen! | 298955 | [298955-i-want-5-quadrillion-yen.json](./298955-i-want-5-quadrillion-yen.json) |
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
+| I Want Cookies | 76489 | [76489-i-want-cookies.json](./76489-i-want-cookies.json) |
 | I Want It! | 79488 | [79488-i-want-it.json](./79488-i-want-it.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want Out! | 179629 | [179629-i-want-out.json](./179629-i-want-out.json) |
