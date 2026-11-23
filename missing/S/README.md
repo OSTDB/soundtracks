@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScareNight | 36068 | [36068-scarenight.json](./36068-scarenight.json) |
 | Scarenoid | 170633 | [170633-scarenoid.json](./170633-scarenoid.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
+| ScareZone: Haunted Attraction Tycoon | 429327 | [429327-scarezone-haunted-attraction-tycoon.json](./429327-scarezone-haunted-attraction-tycoon.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
 | Scarf Ace | 372387 | [372387-scarf-ace.json](./372387-scarf-ace.json) |
@@ -11006,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online Golf: World Championship | 70858 | [70858-shot-online-golf-world-championship.json](./70858-shot-online-golf-world-championship.json) |
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot Put | 287556 | [287556-shot-put.json](./287556-shot-put.json) |
+| Shot Rider | 429334 | [429334-shot-rider.json](./429334-shot-rider.json) |
 | Shot Shot Shoot | 253242 | [253242-shot-shot-shoot.json](./253242-shot-shot-shoot.json) |
 | Shot Shot Tactic | 30344 | [30344-shot-shot-tactic.json](./30344-shot-shot-tactic.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
@@ -16759,6 +16761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash & Grab | 427634 | [427634-smash-and-grab.json](./427634-smash-and-grab.json) |
 | Smash & Magic | 70839 | [70839-smash-and-magic.json](./70839-smash-and-magic.json) |
 | Smash & Settle | 429732 | [429732-smash-and-settle.json](./429732-smash-and-settle.json) |
+| Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash 1 | 206858 | [206858-smash-1.json](./206858-smash-1.json) |
 | Smash and Bash Monsters | 277346 | [277346-smash-and-bash-monsters.json](./277346-smash-and-bash-monsters.json) |
 | Smash Ants! | 95299 | [95299-smash-ants.json](./95299-smash-ants.json) |
@@ -16808,6 +16811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Frenzy 4 | 54376 | [54376-smash-frenzy-4.json](./54376-smash-frenzy-4.json) |
 | Smash Fury | 194041 | [194041-smash-fury.json](./194041-smash-fury.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
+| Smash Hit | 431104 | [431104-smash-hit.json](./431104-smash-hit.json) |
 | Smash Hit Museum | 383180 | [383180-smash-hit-museum.json](./383180-smash-hit-museum.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
 | Smash Hockey | 133498 | [133498-smash-hockey.json](./133498-smash-hockey.json) |
@@ -24175,6 +24179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Spawn: The Eternal | 45208 | [45208-spawn-the-eternal.json](./45208-spawn-the-eternal.json) |
 | Spawn: The Ultimate | 107626 | [107626-spawn-the-ultimate.json](./107626-spawn-the-ultimate.json) |
+| Spawn.co | 429330 | [429330-spawn-co.json](./429330-spawn-co.json) |
 | Spe:x | 199524 | [199524-spe-x.json](./199524-spe-x.json) |
 | Speak & Spell | 245402 | [245402-speak-and-spell.json](./245402-speak-and-spell.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
@@ -25776,6 +25781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Swap | 298111 | [298111-spirit-swap.json](./298111-spirit-swap.json) |
 | Spirit Swap: Lofi Beats to Match-3 To | 145872 | [145872-spirit-swap-lofi-beats-to-match-3-to.json](./145872-spirit-swap-lofi-beats-to-match-3-to.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
+| Spirit the Manta Ray | 429325 | [429325-spirit-the-manta-ray.json](./429325-spirit-the-manta-ray.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
 | Spirit Trail | 344072 | [344072-spirit-trail.json](./344072-spirit-trail.json) |
 | Spirit Trigger | 382704 | [382704-spirit-trigger.json](./382704-spirit-trigger.json) |
