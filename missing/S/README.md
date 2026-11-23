@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SailFront | 370886 | [370886-sailfront.json](./370886-sailfront.json) |
 | Sailing | 38928 | [38928-sailing.json](./38928-sailing.json) |
 | Sailing Alone: Aftermath | 312708 | [312708-sailing-alone-aftermath.json](./312708-sailing-alone-aftermath.json) |
+| Sailing Era | 223172 | [223172-sailing-era.json](./223172-sailing-era.json) |
 | Sailing Era: Adventure of 2233 | 231122 | [231122-sailing-era-adventure-of-2233.json](./231122-sailing-era-adventure-of-2233.json) |
 | Sailing Era: Edge of the World | 264959 | [264959-sailing-era-edge-of-the-world.json](./264959-sailing-era-edge-of-the-world.json) |
 | Sailing Regatta | 88559 | [88559-sailing-regatta.json](./88559-sailing-regatta.json) |
@@ -19658,6 +19659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somari the Adventurer | 198522 | [198522-somari-the-adventurer.json](./198522-somari-the-adventurer.json) |
 | Somber | 216892 | [216892-somber.json](./216892-somber.json) |
 | Somber | 238663 | [238663-somber.json](./238663-somber.json) |
+| Somber Echoes | 293058 | [293058-somber-echoes.json](./293058-somber-echoes.json) |
 | Somber: Card Game | 185431 | [185431-somber-card-game.json](./185431-somber-card-game.json) |
 | Sombie | 372399 | [372399-sombie.json](./372399-sombie.json) |
 | Sombionic | 303941 | [303941-sombionic.json](./303941-sombionic.json) |
@@ -26202,6 +26204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spongebob: Gone Fishing | 242346 | [242346-spongebob-gone-fishing.json](./242346-spongebob-gone-fishing.json) |
 | SpongeBob: Krusty Cook-Off | 130748 | [130748-spongebob-krusty-cook-off.json](./130748-spongebob-krusty-cook-off.json) |
 | SpongeBob: Krusty Cook-Off | 357494 | [357494-spongebob-krusty-cook-off.json](./357494-spongebob-krusty-cook-off.json) |
+| SpongeBob: Krusty Cook-Off - Extra Krusty Edition | 221331 | [221331-spongebob-krusty-cook-off-extra-krusty-edition.json](./221331-spongebob-krusty-cook-off-extra-krusty-edition.json) |
 | SpongeBob: Patty Pursuit 2 | 396983 | [396983-spongebob-patty-pursuit-2.json](./396983-spongebob-patty-pursuit-2.json) |
 | SpongeBob: Sponge on the Run | 87335 | [87335-spongebob-sponge-on-the-run.json](./87335-spongebob-sponge-on-the-run.json) |
 | SpongeBob's Atlantis Squarepantis | 221834 | [221834-spongebobs-atlantis-squarepantis.json](./221834-spongebobs-atlantis-squarepantis.json) |
@@ -36072,6 +36075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fantasy Zone | 18278 | [18278-super-fantasy-zone.json](./18278-super-fantasy-zone.json) |
 | Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Farmer | 366873 | [366873-super-farmer.json](./366873-super-farmer.json) |
+| Super Farming Boy | 293869 | [293869-super-farming-boy.json](./293869-super-farming-boy.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighter | 247061 | [247061-super-fighter.json](./247061-super-fighter.json) |
@@ -39892,6 +39896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
 | Survive the Dark | 155803 | [155803-survive-the-dark.json](./155803-survive-the-dark.json) |
 | Survive the Descent | 357696 | [357696-survive-the-descent.json](./357696-survive-the-descent.json) |
+| Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Fog | 235781 | [235781-survive-the-fog.json](./235781-survive-the-fog.json) |
 | Survive the Forest | 219572 | [219572-survive-the-forest.json](./219572-survive-the-forest.json) |
 | Survive the Geeks Class! | 303299 | [303299-survive-the-geeks-class.json](./303299-survive-the-geeks-class.json) |
@@ -41610,6 +41615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
+| Sympathy Kiss | 222359 | [222359-sympathy-kiss.json](./222359-sympathy-kiss.json) |
 | SympathyKiss: Special Edition | 253727 | [253727-sympathykiss-special-edition.json](./253727-sympathykiss-special-edition.json) |
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
