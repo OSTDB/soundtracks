@@ -11953,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Rumbler | 73129 | [73129-roller-coaster-rumbler.json](./73129-roller-coaster-rumbler.json) |
 | Roller Coaster: Amazing Island Visit | 108210 | [108210-roller-coaster-amazing-island-visit.json](./108210-roller-coaster-amazing-island-visit.json) |
 | Roller Crash | 114722 | [114722-roller-crash.json](./114722-roller-crash.json) |
+| Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Heist | 351358 | [351358-roller-heist.json](./351358-roller-heist.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
 | Roller Katz: BF - Episode 1 | 231041 | [231041-roller-katz-bf-episode-1.json](./231041-roller-katz-bf-episode-1.json) |
@@ -15126,6 +15127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rysen | 84055 | [84055-rysen.json](./84055-rysen.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
+| Ryte: The Eye of Atlantis | 141400 | [141400-ryte-the-eye-of-atlantis.json](./141400-ryte-the-eye-of-atlantis.json) |
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
 | Rytlock's Critter Rampage | 63479 | [63479-rytlocks-critter-rampage.json](./63479-rytlocks-critter-rampage.json) |
