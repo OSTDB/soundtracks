@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandit Six: Combined Arms | 86660 | [86660-bandit-six-combined-arms.json](./86660-bandit-six-combined-arms.json) |
 | Bandit Six: Salvo | 338654 | [338654-bandit-six-salvo.json](./338654-bandit-six-salvo.json) |
 | Bandit Skies | 96720 | [96720-bandit-skies.json](./96720-bandit-skies.json) |
+| Bandit Trap | 306417 | [306417-bandit-trap.json](./306417-bandit-trap.json) |
 | Bandits | 115164 | [115164-bandits.json](./115164-bandits.json) |
 | Bandits | 18506 | [18506-bandits.json](./18506-bandits.json) |
 | Bandits | 228079 | [228079-bandits.json](./228079-bandits.json) |
@@ -8689,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Head: Guess Words & Head Charades | 232196 | [232196-big-head-guess-words-and-head-charades.json](./232196-big-head-guess-words-and-head-charades.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
+| Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
 | Big Hero 6: Battle in the Bay | 44025 | [44025-big-hero-6-battle-in-the-bay.json](./44025-big-hero-6-battle-in-the-bay.json) |
 | Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
@@ -9612,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | BipBop III | 218645 | [218645-bipbop-iii.json](./218645-bipbop-iii.json) |
 | Biped | 121247 | [121247-biped.json](./121247-biped.json) |
+| Biped 2 | 298613 | [298613-biped-2.json](./298613-biped-2.json) |
 | Bipedal Party | 376756 | [376756-bipedal-party.json](./376756-bipedal-party.json) |
 | Bipgolf | 148288 | [148288-bipgolf.json](./148288-bipgolf.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
@@ -13571,6 +13574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
 | Blue Wars | 194159 | [194159-blue-wars.json](./194159-blue-wars.json) |
 | Blue Water Builders | 414735 | [414735-blue-water-builders.json](./414735-blue-water-builders.json) |
+| Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Wing Blitz | 37457 | [37457-blue-wing-blitz.json](./37457-blue-wing-blitz.json) |
 | Blue Wish | 146988 | [146988-blue-wish.json](./146988-blue-wish.json) |
