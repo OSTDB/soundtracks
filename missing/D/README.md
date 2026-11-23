@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
 | Dead Effect | 17159 | [17159-dead-effect.json](./17159-dead-effect.json) |
 | Dead Effect 2 | 18078 | [18078-dead-effect-2.json](./18078-dead-effect-2.json) |
+| Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
 | Dead Effect 2 VR: Cybermagic | 170969 | [170969-dead-effect-2-vr-cybermagic.json](./170969-dead-effect-2-vr-cybermagic.json) |
 | Dead Effect 2 VR: Escape From Meridian | 170967 | [170967-dead-effect-2-vr-escape-from-meridian.json](./170967-dead-effect-2-vr-escape-from-meridian.json) |
 | Dead Effect 2: Escape From Meridian | 170968 | [170968-dead-effect-2-escape-from-meridian.json](./170968-dead-effect-2-escape-from-meridian.json) |
@@ -5543,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathless Dungeon | 118064 | [118064-deathless-dungeon.json](./118064-deathless-dungeon.json) |
 | Deathless Hyperion | 145411 | [145411-deathless-hyperion.json](./145411-deathless-hyperion.json) |
 | Deathless Survivors | 259193 | [259193-deathless-survivors.json](./259193-deathless-survivors.json) |
+| Deathless: The City's Thirst | 34270 | [34270-deathless-the-citys-thirst.json](./34270-deathless-the-citys-thirst.json) |
 | Deathless: The Hero Quest | 302325 | [302325-deathless-the-hero-quest.json](./302325-deathless-the-hero-quest.json) |
 | Deathlike: Awakening | 30089 | [30089-deathlike-awakening.json](./30089-deathlike-awakening.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
@@ -15550,6 +15552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door Slammers | 232610 | [232610-door-slammers.json](./232610-door-slammers.json) |
 | Door Slammers 2 | 55829 | [55829-door-slammers-2.json](./55829-door-slammers-2.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
+| Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
 | Door to Somewhere | 374868 | [374868-door-to-somewhere.json](./374868-door-to-somewhere.json) |
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
