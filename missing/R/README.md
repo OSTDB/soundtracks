@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racket Club | 251558 | [251558-racket-club.json](./251558-racket-club.json) |
 | Racket Fury: Table Tennis VR | 28303 | [28303-racket-fury-table-tennis-vr.json](./28303-racket-fury-table-tennis-vr.json) |
 | Racket Pinball | 326831 | [326831-racket-pinball.json](./326831-racket-pinball.json) |
+| Racketeering | 426305 | [426305-racketeering.json](./426305-racketeering.json) |
 | Racketeers | 258911 | [258911-racketeers.json](./258911-racketeers.json) |
 | Rackets & Rivals | 48213 | [48213-rackets-and-rivals.json](./48213-rackets-and-rivals.json) |
 | Rackham's Shambala Adventure | 127523 | [127523-rackhams-shambala-adventure.json](./127523-rackhams-shambala-adventure.json) |
