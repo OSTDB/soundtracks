@@ -13838,6 +13838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 339194 | [339194-the-last-bug.json](./339194-the-last-bug.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
+| The Last Bug: Hawk Skin Cupid | 426842 | [426842-the-last-bug-hawk-skin-cupid.json](./426842-the-last-bug-hawk-skin-cupid.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Bullet | 320049 | [320049-the-last-bullet.json](./320049-the-last-bullet.json) |
 | The Last Bunker | 336205 | [336205-the-last-bunker.json](./336205-the-last-bunker.json) |
@@ -23564,6 +23565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thread | 25323 | [25323-thread.json](./25323-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Thread Fred | 149258 | [149258-thread-fred.json](./149258-thread-fred.json) |
+| Thread the Void | 426873 | [426873-thread-the-void.json](./426873-thread-the-void.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
 | Threadbound | 182979 | [182979-threadbound.json](./182979-threadbound.json) |
 | Threaded | 191001 | [191001-threaded.json](./191001-threaded.json) |
@@ -27962,6 +27964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Raise a King | 421158 | [421158-to-raise-a-king.json](./421158-to-raise-a-king.json) |
 | To Reign In Hell | 426549 | [426549-to-reign-in-hell.json](./426549-to-reign-in-hell.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
+| To Shake, or Not to Shake | 426854 | [426854-to-shake-or-not-to-shake.json](./426854-to-shake-or-not-to-shake.json) |
 | To Support Frida | 180349 | [180349-to-support-frida.json](./180349-to-support-frida.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
 | To Take Root Among the Stars | 234778 | [234778-to-take-root-among-the-stars.json](./234778-to-take-root-among-the-stars.json) |
@@ -28956,6 +28959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Marine Forces Outfits Pack | 255214 | [255214-tom-clancys-the-division-marine-forces-outfits-pack.json](./255214-tom-clancys-the-division-marine-forces-outfits-pack.json) |
 | Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
 | Tom Clancy's The Division: Resurgence | 209288 | [209288-tom-clancys-the-division-resurgence.json](./209288-tom-clancys-the-division-resurgence.json) |
+| Tom Clancy's The Division: Resurgence - Agent Starter Pack | 426876 | [426876-tom-clancys-the-division-resurgence-agent-starter-pack.json](./426876-tom-clancys-the-division-resurgence-agent-starter-pack.json) |
 | Tom Clancy's The Division: Sleeper Agent Edition | 103382 | [103382-tom-clancys-the-division-sleeper-agent-edition.json](./103382-tom-clancys-the-division-sleeper-agent-edition.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Clancy's The Division: Underground | 19540 | [19540-tom-clancys-the-division-underground.json](./19540-tom-clancys-the-division-underground.json) |
