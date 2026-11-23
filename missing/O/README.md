@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Island | 148453 | [148453-one-more-island.json](./148453-one-more-island.json) |
 | One More Jump | 260108 | [260108-one-more-jump.json](./260108-one-more-jump.json) |
 | One More Lawn | 425741 | [425741-one-more-lawn.json](./425741-one-more-lawn.json) |
+| One More Letter | 428869 | [428869-one-more-letter.json](./428869-one-more-letter.json) |
 | One More Mix | 360854 | [360854-one-more-mix.json](./360854-one-more-mix.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Night | 57261 | [57261-one-more-night.json](./57261-one-more-night.json) |
