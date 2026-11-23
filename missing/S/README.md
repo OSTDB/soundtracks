@@ -23849,6 +23849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceport Architect | 419992 | [419992-spaceport-architect.json](./419992-spaceport-architect.json) |
 | Spaceport Assault | 336667 | [336667-spaceport-assault.json](./336667-spaceport-assault.json) |
 | Spaceport Crew | 216884 | [216884-spaceport-crew.json](./216884-spaceport-crew.json) |
+| Spaceport Hope | 34639 | [34639-spaceport-hope.json](./34639-spaceport-hope.json) |
 | Spaceport Trading Company | 270152 | [270152-spaceport-trading-company.json](./270152-spaceport-trading-company.json) |
 | Spacepowers | 86396 | [86396-spacepowers.json](./86396-spacepowers.json) |
 | Spacepunk Survival | 244188 | [244188-spacepunk-survival.json](./244188-spacepunk-survival.json) |
@@ -27085,6 +27086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Box | 44185 | [44185-square-box.json](./44185-square-box.json) |
 | Square Brain | 246780 | [246780-square-brain.json](./246780-square-brain.json) |
 | Square Brain Puzzle | 410836 | [410836-square-brain-puzzle.json](./410836-square-brain-puzzle.json) |
+| Square Brawl | 34644 | [34644-square-brawl.json](./34644-square-brawl.json) |
 | Square Circle | 414151 | [414151-square-circle.json](./414151-square-circle.json) |
 | Square City Builder | 265291 | [265291-square-city-builder.json](./265291-square-city-builder.json) |
 | Square Colosseum: Cell B201 | 417395 | [417395-square-colosseum-cell-b201.json](./417395-square-colosseum-cell-b201.json) |
@@ -39504,6 +39506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Ruler 2030: Expansion Pass | 285783 | [285783-supreme-ruler-2030-expansion-pass.json](./285783-supreme-ruler-2030-expansion-pass.json) |
 | Supreme Ruler Global Outbreak | 296999 | [296999-supreme-ruler-global-outbreak.json](./296999-supreme-ruler-global-outbreak.json) |
 | Supreme Ruler Plus | 80641 | [80641-supreme-ruler-plus.json](./80641-supreme-ruler-plus.json) |
+| Supreme Ruler the Great War | 37390 | [37390-supreme-ruler-the-great-war.json](./37390-supreme-ruler-the-great-war.json) |
 | Supreme Ruler The Great War Remastered | 277933 | [277933-supreme-ruler-the-great-war-remastered.json](./277933-supreme-ruler-the-great-war-remastered.json) |
 | Supreme Ruler The Great War Remastered DLC | 277931 | [277931-supreme-ruler-the-great-war-remastered-dlc.json](./277931-supreme-ruler-the-great-war-remastered-dlc.json) |
 | Supreme Ruler Ultimate | 36269 | [36269-supreme-ruler-ultimate.json](./36269-supreme-ruler-ultimate.json) |
