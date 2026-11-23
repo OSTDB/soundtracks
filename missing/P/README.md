@@ -15398,6 +15398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pothead | 184781 | [184781-pothead.json](./184781-pothead.json) |
 | Pothead | 392362 | [392362-pothead.json](./392362-pothead.json) |
 | Potio Mellow | 239695 | [239695-potio-mellow.json](./239695-potio-mellow.json) |
+| Potion Approaching | 426888 | [426888-potion-approaching.json](./426888-potion-approaching.json) |
 | Potion Brew | 236552 | [236552-potion-brew.json](./236552-potion-brew.json) |
 | Potion Commotion | 180864 | [180864-potion-commotion.json](./180864-potion-commotion.json) |
 | Potion Commotion | 246494 | [246494-potion-commotion.json](./246494-potion-commotion.json) |
@@ -21463,6 +21464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wars: Heroes | 261422 | [261422-puzzle-wars-heroes.json](./261422-puzzle-wars-heroes.json) |
+| Puzzle Wild Cats | 427513 | [427513-puzzle-wild-cats.json](./427513-puzzle-wild-cats.json) |
 | Puzzle Wings | 174921 | [174921-puzzle-wings.json](./174921-puzzle-wings.json) |
 | Puzzle Wishes | 29910 | [29910-puzzle-wishes.json](./29910-puzzle-wishes.json) |
 | Puzzle With Your Friends | 81215 | [81215-puzzle-with-your-friends.json](./81215-puzzle-with-your-friends.json) |
