@@ -2176,7 +2176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21: Blackjack | 65554 | [65554-21-blackjack.json](./65554-21-blackjack.json) |
 | 21: Two One | 283250 | [283250-21-two-one.json](./283250-21-two-one.json) |
 | 21: Two One | 394433 | [394433-21-two-one.json](./394433-21-two-one.json) |
-| 21+ | 107952 | [107952-21.json](./107952-21.json) |
 | 2100 | 114446 | [114446-2100.json](./114446-2100.json) |
 | 2112 AD | 13265 | [13265-2112-ad.json](./13265-2112-ad.json) |
 | 2112: A Field Trip | 71870 | [71870-2112-a-field-trip.json](./71870-2112-a-field-trip.json) |
