@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Original Switch Color 2 | 90379 | [90379-original-switch-color-2.json](./90379-original-switch-color-2.json) |
 | Original War | 9538 | [9538-original-war.json](./9538-original-war.json) |
 | Originals: Interactive Story Series | 342107 | [342107-originals-interactive-story-series.json](./342107-originals-interactive-story-series.json) |
+| Originle | 429429 | [429429-originle.json](./429429-originle.json) |
 | Origins | 235685 | [235685-origins.json](./235685-origins.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
 | Origins of an Empire | 107109 | [107109-origins-of-an-empire.json](./107109-origins-of-an-empire.json) |
