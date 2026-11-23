@@ -8800,6 +8800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
 | Loot Hole | 429369 | [429369-loot-hole.json](./429369-loot-hole.json) |
+| Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Hunter | 35949 | [35949-loot-hunter.json](./35949-loot-hunter.json) |
 | Loot Improvement | 285715 | [285715-loot-improvement.json](./285715-loot-improvement.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
