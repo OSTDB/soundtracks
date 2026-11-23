@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aboard the Adventure | 187395 | [187395-aboard-the-adventure.json](./187395-aboard-the-adventure.json) |
 | Abobi's Guide | 419622 | [419622-abobis-guide.json](./419622-abobis-guide.json) |
 | Abobo's Big Adventure | 8735 | [8735-abobos-big-adventure.json](./8735-abobos-big-adventure.json) |
+| Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
 | Abode 2 | 123735 | [123735-abode-2.json](./123735-abode-2.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
@@ -7538,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
 | Alchemic Dungeons | 54657 | [54657-alchemic-dungeons.json](./54657-alchemic-dungeons.json) |
 | Alchemic Dungeons DX | 115273 | [115273-alchemic-dungeons-dx.json](./115273-alchemic-dungeons-dx.json) |
+| Alchemic Jousts | 26097 | [26097-alchemic-jousts.json](./26097-alchemic-jousts.json) |
 | Alchemic Maze | 82492 | [82492-alchemic-maze.json](./82492-alchemic-maze.json) |
 | Alchemic Phone, Pocket Alchemy | 390763 | [390763-alchemic-phone-pocket-alchemy.json](./390763-alchemic-phone-pocket-alchemy.json) |
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
