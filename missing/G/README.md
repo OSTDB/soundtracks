@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Rescue | 35868 | [35868-garden-rescue.json](./35868-garden-rescue.json) |
 | Garden Rescue: Christmas Edition | 34078 | [34078-garden-rescue-christmas-edition.json](./34078-garden-rescue-christmas-edition.json) |
 | Garden Shop: Rush Hour! | 24751 | [24751-garden-shop-rush-hour.json](./24751-garden-shop-rush-hour.json) |
+| Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
 | Garden Snap | 320017 | [320017-garden-snap.json](./320017-garden-snap.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Gargoyle's Quest | 15934 | [15934-gargoyles-quest.json](./15934-gargoyles-quest.json) |
 | Gargoyle's Quest II | 16141 | [16141-gargoyles-quest-ii.json](./16141-gargoyles-quest-ii.json) |
+| Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garisani Detective Agency | 406571 | [406571-garisani-detective-agency.json](./406571-garisani-detective-agency.json) |
@@ -4968,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic X | 117197 | [117197-gigantic-x.json](./117197-gigantic-x.json) |
 | Gigantic: Rampage Edition | 288025 | [288025-gigantic-rampage-edition.json](./288025-gigantic-rampage-edition.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
+| Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
 | Gigantosaurus: The Game | 129274 | [129274-gigantosaurus-the-game.json](./129274-gigantosaurus-the-game.json) |
 | Gigantropolis | 239823 | [239823-gigantropolis.json](./239823-gigantropolis.json) |
 | Gigapocalypse | 158921 | [158921-gigapocalypse.json](./158921-gigapocalypse.json) |
@@ -5023,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimmick in the Chaos Dimension | 144880 | [144880-gimmick-in-the-chaos-dimension.json](./144880-gimmick-in-the-chaos-dimension.json) |
 | Gimmick Land: Tomato Atama no Himitsu | 176001 | [176001-gimmick-land-tomato-atama-no-himitsu.json](./176001-gimmick-land-tomato-atama-no-himitsu.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
+| Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | Gimmick's Gadgets | 244406 | [244406-gimmicks-gadgets.json](./244406-gimmicks-gadgets.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gimmiko | 219329 | [219329-gimmiko.json](./219329-gimmiko.json) |
@@ -6617,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Hocus Pocus Pack | 343568 | [343568-goat-simulator-3-hocus-pocus-pack.json](./343568-goat-simulator-3-hocus-pocus-pack.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
+| Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
 | Goat Simulator 3: Super Duper Pack | 343569 | [343569-goat-simulator-3-super-duper-pack.json](./343569-goat-simulator-3-super-duper-pack.json) |
 | Goat Simulator 3: Ticket to Dizzyworld | 420793 | [420793-goat-simulator-3-ticket-to-dizzyworld.json](./420793-goat-simulator-3-ticket-to-dizzyworld.json) |
@@ -11156,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit | 145372 | [145372-grit.json](./145372-grit.json) |
 | Grit & Gold | 310506 | [310506-grit-and-gold.json](./310506-grit-and-gold.json) |
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
+| Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit and Valor - 1949: Resistance Edition | 425292 | [425292-grit-and-valor-1949-resistance-edition.json](./425292-grit-and-valor-1949-resistance-edition.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grit Porn Video Tapes | 309745 | [309745-grit-porn-video-tapes.json](./309745-grit-porn-video-tapes.json) |
@@ -11455,6 +11461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded Sim | 321216 | [321216-grounded-sim.json](./321216-grounded-sim.json) |
+| Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | GroundFall | 116928 | [116928-groundfall.json](./116928-groundfall.json) |
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
 | Groundless | 105455 | [105455-groundless.json](./105455-groundless.json) |
