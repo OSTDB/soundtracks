@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Master Double Pack | 145392 | [145392-jewel-master-double-pack.json](./145392-jewel-master-double-pack.json) |
 | Jewel Master: Cradle of Athena | 24365 | [24365-jewel-master-cradle-of-athena.json](./24365-jewel-master-cradle-of-athena.json) |
 | Jewel Master: Cradle of Egypt | 88756 | [88756-jewel-master-cradle-of-egypt.json](./88756-jewel-master-cradle-of-egypt.json) |
+| Jewel Master: Cradle of Egypt 2 | 23677 | [23677-jewel-master-cradle-of-egypt-2.json](./23677-jewel-master-cradle-of-egypt-2.json) |
 | Jewel Master: Cradle of Rome 2 | 47830 | [47830-jewel-master-cradle-of-rome-2.json](./47830-jewel-master-cradle-of-rome-2.json) |
 | Jewel Master: Egypt | 47701 | [47701-jewel-master-egypt.json](./47701-jewel-master-egypt.json) |
 | Jewel Match | 204872 | [204872-jewel-match.json](./204872-jewel-match.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West: Unparalleled | 357813 | [357813-journey-to-the-west-unparalleled.json](./357813-journey-to-the-west-unparalleled.json) |
 | Journey to Valhalla | 107549 | [107549-journey-to-valhalla.json](./107549-journey-to-valhalla.json) |
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
+| Journey to Wild Divine | 23743 | [23743-journey-to-wild-divine.json](./23743-journey-to-wild-divine.json) |
 | Journey Under the Pyramids | 429664 | [429664-journey-under-the-pyramids.json](./429664-journey-under-the-pyramids.json) |
 | Journey Up | 319404 | [319404-journey-up.json](./319404-journey-up.json) |
 | Journey: Benjamin's Adventures | 29653 | [29653-journey-benjamins-adventures.json](./29653-journey-benjamins-adventures.json) |
