@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-23T03:55:55.210Z",
-  "total_soundtracks": 3920,
+  "generated_at": "2026-11-23T04:06:01.470Z",
+  "total_soundtracks": 3921,
   "games": [
     {
       "igdb_id": 292844,
@@ -45479,6 +45479,20 @@
         {
           "album_name": "TimeSplitters (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6FfNaXPZx9Zt7frfqDrgFK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111636,
+      "game_name": "Timore 6",
+      "game_url": "https://ostdb.net/games/timore-6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735e0db380856cd4f7a49cc710",
+      "albums": [
+        {
+          "album_name": "Timore 6 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3x49PRLrK8pnc6eQXCm38C",
           "apple_music_url": "",
           "album_link_url": ""
         }
