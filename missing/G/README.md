@@ -261,7 +261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G1 Jockey 4 2008 | 93614 | [93614-g1-jockey-4-2008.json](./93614-g1-jockey-4-2008.json) |
 | G1 Jockey Sense | 44155 | [44155-g1-jockey-sense.json](./44155-g1-jockey-sense.json) |
 | G1deon: Towards God | 171799 | [171799-g1deon-towards-god.json](./171799-g1deon-towards-god.json) |
-| G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G2: Geeks Unleashed | 53089 | [53089-g2-geeks-unleashed.json](./53089-g2-geeks-unleashed.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
 | G9: League of Aces | 295610 | [295610-g9-league-of-aces.json](./295610-g9-league-of-aces.json) |
@@ -338,7 +337,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachi Dungeon Master | 157470 | [157470-gachi-dungeon-master.json](./157470-gachi-dungeon-master.json) |
 | Gachi Feasting | 311156 | [311156-gachi-feasting.json](./311156-gachi-feasting.json) |
 | Gachi Gang | 100485 | [100485-gachi-gang.json](./100485-gachi-gang.json) |
-| Gachi Heroes | 110694 | [110694-gachi-heroes.json](./110694-gachi-heroes.json) |
 | Gachi Revenge | 158889 | [158889-gachi-revenge.json](./158889-gachi-revenge.json) |
 | Gachi Run: Running of the Slaves | 159508 | [159508-gachi-run-running-of-the-slaves.json](./159508-gachi-run-running-of-the-slaves.json) |
 | Gachi-Natsu | 222957 | [222957-gachi-natsu.json](./222957-gachi-natsu.json) |
@@ -1113,7 +1111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Siege 3 | 101857 | [101857-galaxy-siege-3.json](./101857-galaxy-siege-3.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
 | Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
-| Galaxy Squad | 108376 | [108376-galaxy-squad.json](./108376-galaxy-squad.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
 | Galaxy Stir | 92773 | [92773-galaxy-stir.json](./92773-galaxy-stir.json) |
@@ -5203,7 +5200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Werewolf Hamlet Saves Christmas | 376102 | [376102-girl-werewolf-hamlet-saves-christmas.json](./376102-girl-werewolf-hamlet-saves-christmas.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
 | Girl Who Shrunk the Neighbors | 316690 | [316690-girl-who-shrunk-the-neighbors.json](./316690-girl-who-shrunk-the-neighbors.json) |
-| Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl With A Lazer Shotgun | 145066 | [145066-girl-with-a-lazer-shotgun.json](./145066-girl-with-a-lazer-shotgun.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
@@ -5529,7 +5525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
-| Gladius VR | 108181 | [108181-gladius-vr.json](./108181-gladius-vr.json) |
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
@@ -5557,7 +5552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glances | 82556 | [82556-glances.json](./82556-glances.json) |
 | Glare | 16563 | [16563-glare.json](./16563-glare.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
-| Glare1more | 108317 | [108317-glare1more.json](./108317-glare1more.json) |
 | Glaring Flaw | 424734 | [424734-glaring-flaw.json](./424734-glaring-flaw.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
@@ -6264,7 +6258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Christmas Story | 107290 | [107290-gnomes-garden-christmas-story.json](./107290-gnomes-garden-christmas-story.json) |
-| Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
 | Gnomes Garden: Life Seeds - Collector's Edition | 255922 | [255922-gnomes-garden-life-seeds-collectors-edition.json](./255922-gnomes-garden-life-seeds-collectors-edition.json) |
 | Gnomes Garden: Mask of the Rat King | 420582 | [420582-gnomes-garden-mask-of-the-rat-king.json](./420582-gnomes-garden-mask-of-the-rat-king.json) |
 | Gnomes Garden: Mask of the Rat King - Collector's Edition | 383042 | [383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json](./383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json) |
@@ -6798,7 +6791,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Gamble 24 | 395045 | [395045-goblins-gamble-24.json](./395045-goblins-gamble-24.json) |
 | Goblin's Journey | 240635 | [240635-goblins-journey.json](./240635-goblins-journey.json) |
 | Goblin's Mystic War | 264815 | [264815-goblins-mystic-war.json](./264815-goblins-mystic-war.json) |
-| Goblin's Shop | 110690 | [110690-goblins-shop.json](./110690-goblins-shop.json) |
 | Goblin's WAY Jigsaw Challenge | 110198 | [110198-goblins-way-jigsaw-challenge.json](./110198-goblins-way-jigsaw-challenge.json) |
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
@@ -11419,7 +11411,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grotesqueresque | 349745 | [349745-grotesqueresque.json](./349745-grotesqueresque.json) |
 | Grotoro | 97038 | [97038-grotoro.json](./97038-grotoro.json) |
-| Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
 | Grotto | 135631 | [135631-grotto.json](./135631-grotto.json) |
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
