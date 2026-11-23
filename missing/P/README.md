@@ -17678,6 +17678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procelio | 307164 | [307164-procelio.json](./307164-procelio.json) |
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
 | Process | 60528 | [60528-process.json](./60528-process.json) |
+| Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
 | Process of Elimination: Deluxe Edition | 216584 | [216584-process-of-elimination-deluxe-edition.json](./216584-process-of-elimination-deluxe-edition.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
 | Processor Dev Tycoon | 372378 | [372378-processor-dev-tycoon.json](./372378-processor-dev-tycoon.json) |
@@ -21008,6 +21009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bobble 2X/Bust-A-Move 2: Arcade Edition & Puzzle Bobble 3/Bust-A-Move 3: S-Tribute | 233580 | [233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json](./233580-puzzle-bobble-2x-bust-a-move-2-arcade-edition-and-puzzle-bobble-3-bust-a-move-3-s-tribute.json) |
 | Puzzle Bobble 3D: Vacation Odyssey | 152214 | [152214-puzzle-bobble-3d-vacation-odyssey.json](./152214-puzzle-bobble-3d-vacation-odyssey.json) |
 | Puzzle Bobble DS | 416577 | [416577-puzzle-bobble-ds.json](./416577-puzzle-bobble-ds.json) |
+| Puzzle Bobble Everybubble! | 215033 | [215033-puzzle-bobble-everybubble.json](./215033-puzzle-bobble-everybubble.json) |
 | Puzzle Bobble Online | 64297 | [64297-puzzle-bobble-online.json](./64297-puzzle-bobble-online.json) |
 | Puzzle Bobble Pocket | 42774 | [42774-puzzle-bobble-pocket.json](./42774-puzzle-bobble-pocket.json) |
 | Puzzle Bobble VR: Vacation Odyssey | 149198 | [149198-puzzle-bobble-vr-vacation-odyssey.json](./149198-puzzle-bobble-vr-vacation-odyssey.json) |
