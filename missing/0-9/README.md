@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 For Yes, 0 For No | 164184 | [164184-1-for-yes-0-for-no.json](./164184-1-for-yes-0-for-no.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
+| 1 HP Dungeon | 429275 | [429275-1-hp-dungeon.json](./429275-1-hp-dungeon.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 in a Million: A Game of Odds | 364950 | [364950-1-in-a-million-a-game-of-odds.json](./364950-1-in-a-million-a-game-of-odds.json) |
 | 1 Line Space Trader | 83129 | [83129-1-line-space-trader.json](./83129-1-line-space-trader.json) |
