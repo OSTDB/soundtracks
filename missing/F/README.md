@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fajoce | 95256 | [95256-fajoce.json](./95256-fajoce.json) |
 | Fake Azure Arcology | 381773 | [381773-fake-azure-arcology.json](./381773-fake-azure-arcology.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
+| Fake Colours | 28351 | [28351-fake-colours.json](./28351-fake-colours.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Odyssey | 290887 | [290887-fear-odyssey.json](./290887-fear-odyssey.json) |
 | Fear of Biosec | 332537 | [332537-fear-of-biosec.json](./332537-fear-of-biosec.json) |
 | Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
+| Fear of Clowns | 28420 | [28420-fear-of-clowns.json](./28420-fear-of-clowns.json) |
 | Fear of Dark | 129968 | [129968-fear-of-dark.json](./129968-fear-of-dark.json) |
 | Fear of Energy | 361938 | [361938-fear-of-energy.json](./361938-fear-of-energy.json) |
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
@@ -14148,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisbros | 163871 | [163871-frisbros.json](./163871-frisbros.json) |
 | Frisco | 282760 | [282760-frisco.json](./282760-frisco.json) |
 | Frisia: Tales & Tides | 280303 | [280303-frisia-tales-and-tides.json](./280303-frisia-tales-and-tides.json) |
+| Frisky Business | 27986 | [27986-frisky-business.json](./27986-frisky-business.json) |
 | Frisky Business: Episode 2 | 90313 | [90313-frisky-business-episode-2.json](./90313-frisky-business-episode-2.json) |
 | Frisky Tom | 218323 | [218323-frisky-tom.json](./218323-frisky-tom.json) |
 | Frisky Tom | 240117 | [240117-frisky-tom.json](./240117-frisky-tom.json) |
