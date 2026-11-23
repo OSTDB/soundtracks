@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Hospital | 21220 | [21220-zoo-hospital.json](./21220-zoo-hospital.json) |
 | Zoo Island: Build Your Zoological Park | 87418 | [87418-zoo-island-build-your-zoological-park.json](./87418-zoo-island-build-your-zoological-park.json) |
 | Zoo keeper | 184408 | [184408-zoo-keeper.json](./184408-zoo-keeper.json) |
+| Zoo Keeper | 23872 | [23872-zoo-keeper.json](./23872-zoo-keeper.json) |
 | Zoo Keeper | 327638 | [327638-zoo-keeper.json](./327638-zoo-keeper.json) |
 | Zoo Keeper | 398095 | [398095-zoo-keeper.json](./398095-zoo-keeper.json) |
 | Zoo Keeper | 69987 | [69987-zoo-keeper.json](./69987-zoo-keeper.json) |
