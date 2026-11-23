@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rides 3: Forge | 273585 | [273585-virtual-rides-3-forge.json](./273585-virtual-rides-3-forge.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
 | Virtual Rides 3: Ride Pack | 289912 | [289912-virtual-rides-3-ride-pack.json](./289912-virtual-rides-3-ride-pack.json) |
+| Virtual Rides 3: Ride Pack #2 | 429409 | [429409-virtual-rides-3-ride-pack-2.json](./429409-virtual-rides-3-ride-pack-2.json) |
 | Virtual Rides 3: Roundtrip | 273579 | [273579-virtual-rides-3-roundtrip.json](./273579-virtual-rides-3-roundtrip.json) |
 | Virtual Rides 3: Salsa | 273584 | [273584-virtual-rides-3-salsa.json](./273584-virtual-rides-3-salsa.json) |
 | Virtual Rides 3: The Falcon | 273581 | [273581-virtual-rides-3-the-falcon.json](./273581-virtual-rides-3-the-falcon.json) |
