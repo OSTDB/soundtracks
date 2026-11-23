@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
 | Dark Eyes: BattleGate | 37555 | [37555-dark-eyes-battlegate.json](./37555-dark-eyes-battlegate.json) |
 | Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
+| Dark Fable | 116861 | [116861-dark-fable.json](./116861-dark-fable.json) |
 | Dark Facets | 149114 | [149114-dark-facets.json](./149114-dark-facets.json) |
 | Dark Fairies | 103012 | [103012-dark-fairies.json](./103012-dark-fairies.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Runners | 130679 | [130679-desert-runners.json](./130679-desert-runners.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Shadows | 420056 | [420056-desert-shadows.json](./420056-desert-shadows.json) |
+| Desert Skies | 116767 | [116767-desert-skies.json](./116767-desert-skies.json) |
 | Desert Sky Rider | 365922 | [365922-desert-sky-rider.json](./365922-desert-sky-rider.json) |
 | Desert Speedtrap Starring Road Runner & Wile E. Coyote | 8098 | [8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json](./8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
@@ -16849,6 +16851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
 | Drag Racing: Club Wars | 51480 | [51480-drag-racing-club-wars.json](./51480-drag-racing-club-wars.json) |
 | Drag Sim 2020 | 147741 | [147741-drag-sim-2020.json](./147741-drag-sim-2020.json) |
+| Drag Star! | 116322 | [116322-drag-star.json](./116322-drag-star.json) |
 | Drag the Dead | 236464 | [236464-drag-the-dead.json](./236464-drag-the-dead.json) |
 | Drag the Dungeon | 184345 | [184345-drag-the-dungeon.json](./184345-drag-the-dungeon.json) |
 | Drag the Rope | 254434 | [254434-drag-the-rope.json](./254434-drag-the-rope.json) |
@@ -21778,6 +21781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonSquad | 223615 | [223615-dungeonsquad.json](./223615-dungeonsquad.json) |
 | DungeonSweeper | 377019 | [377019-dungeonsweeper.json](./377019-dungeonsweeper.json) |
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
+| DungeonTop: Spell Sword Cards | 127610 | [127610-dungeontop-spell-sword-cards.json](./127610-dungeontop-spell-sword-cards.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
 | Dungero | 364954 | [364954-dungero.json](./364954-dungero.json) |
