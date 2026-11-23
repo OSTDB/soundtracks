@@ -5071,7 +5071,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerite Royale: Legendary Adventure Pack Vol.2 | 225856 | [225856-battlerite-royale-legendary-adventure-pack-vol-2.json](./225856-battlerite-royale-legendary-adventure-pack-vol-2.json) |
 | Battlers of Ekrasys | 339948 | [339948-battlers-of-ekrasys.json](./339948-battlers-of-ekrasys.json) |
 | BattleRush | 75941 | [75941-battlerush.json](./75941-battlerush.json) |
-| BattleRush 2 | 107878 | [107878-battlerush-2.json](./107878-battlerush-2.json) |
 | BattleRush: German AT Infantry | 170976 | [170976-battlerush-german-at-infantry.json](./170976-battlerush-german-at-infantry.json) |
 | BattleRush: German Snipers | 170983 | [170983-battlerush-german-snipers.json](./170983-battlerush-german-snipers.json) |
 | BattleRush: German Special Forces | 170977 | [170977-battlerush-german-special-forces.json](./170977-battlerush-german-special-forces.json) |
@@ -7775,7 +7774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
 | Best Keiba Derby Stallion | 48724 | [48724-best-keiba-derby-stallion.json](./48724-best-keiba-derby-stallion.json) |
-| Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mall Simulator | 217147 | [217147-best-mall-simulator.json](./217147-best-mall-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
@@ -9126,7 +9124,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billion Citizens | 404028 | [404028-billion-citizens.json](./404028-billion-citizens.json) |
 | Billion Egg Farm | 407445 | [407445-billion-egg-farm.json](./407445-billion-egg-farm.json) |
 | Billion Lords | 108554 | [108554-billion-lords.json](./108554-billion-lords.json) |
-| Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire | 77137 | [77137-billionaire.json](./77137-billionaire.json) |
 | Billionaire | 95202 | [95202-billionaire.json](./95202-billionaire.json) |
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
@@ -13112,7 +13109,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Rage | 133590 | [133590-bloody-rage.json](./133590-bloody-rage.json) |
 | Bloody Raid | 148878 | [148878-bloody-raid.json](./148878-bloody-raid.json) |
 | Bloody Rally Show | 139211 | [139211-bloody-rally-show.json](./139211-bloody-rally-show.json) |
-| Bloody Rally Simulator | 107842 | [107842-bloody-rally-simulator.json](./107842-bloody-rally-simulator.json) |
 | Bloody Rampage City | 193027 | [193027-bloody-rampage-city.json](./193027-bloody-rampage-city.json) |
 | Bloody Roads, California | 89781 | [89781-bloody-roads-california.json](./89781-bloody-roads-california.json) |
 | Bloody Roar | 2749 | [2749-bloody-roar.json](./2749-bloody-roar.json) |
@@ -15445,6 +15441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2 Spawn Multiplier Mod | 228817 | [228817-borderlands-2-spawn-multiplier-mod.json](./228817-borderlands-2-spawn-multiplier-mod.json) |
 | Borderlands 2 VR | 110835 | [110835-borderlands-2-vr.json](./110835-borderlands-2-vr.json) |
 | Borderlands 2 VR: BAMF DLC Pack | 166010 | [166010-borderlands-2-vr-bamf-dlc-pack.json](./166010-borderlands-2-vr-bamf-dlc-pack.json) |
+| Borderlands 2: Add-on Content Pack | 423431 | [423431-borderlands-2-add-on-content-pack.json](./423431-borderlands-2-add-on-content-pack.json) |
 | Borderlands 2: Captain Scarlett and Her Pirate's Booty | 13920 | [13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json](./13920-borderlands-2-captain-scarlett-and-her-pirates-booty.json) |
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Creature Slaughterdome | 75690 | [75690-borderlands-2-creature-slaughterdome.json](./75690-borderlands-2-creature-slaughterdome.json) |
@@ -20441,7 +20438,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Zoo: Animal Battle Royale | 324213 | [324213-bunny-zoo-animal-battle-royale.json](./324213-bunny-zoo-animal-battle-royale.json) |
 | Bunny-girl with Golden Tummy | 296636 | [296636-bunny-girl-with-golden-tummy.json](./296636-bunny-girl-with-golden-tummy.json) |
 | Bunny-Hop | 211482 | [211482-bunny-hop.json](./211482-bunny-hop.json) |
-| Bunny: The Horror Game | 108001 | [108001-bunny-the-horror-game.json](./108001-bunny-the-horror-game.json) |
 | Bunny's Ban | 169499 | [169499-bunnys-ban.json](./169499-bunnys-ban.json) |
 | Bunny's Buddy | 148589 | [148589-bunnys-buddy.json](./148589-bunnys-buddy.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
