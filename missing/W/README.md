@@ -6713,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander 1+2 | 154172 | [154172-wing-commander-1-2.json](./154172-wing-commander-1-2.json) |
 | Wing Commander 5: Prophecy - Gold Edition | 51779 | [51779-wing-commander-5-prophecy-gold-edition.json](./51779-wing-commander-5-prophecy-gold-edition.json) |
 | Wing Commander Academy | 14484 | [14484-wing-commander-academy.json](./14484-wing-commander-academy.json) |
+| Wing Commander Arena | 23131 | [23131-wing-commander-arena.json](./23131-wing-commander-arena.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander II: Vengeance of the Kilrathi | 350131 | [350131-wing-commander-ii-vengeance-of-the-kilrathi.json](./350131-wing-commander-ii-vengeance-of-the-kilrathi.json) |
@@ -7337,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishy Washy | 133163 | [133163-wishy-washy.json](./133163-wishy-washy.json) |
 | Wisly and the Chickens! | 165508 | [165508-wisly-and-the-chickens.json](./165508-wisly-and-the-chickens.json) |
 | Wison | 277664 | [277664-wison.json](./277664-wison.json) |
+| Wisp & Willow | 431034 | [431034-wisp-and-willow.json](./431034-wisp-and-willow.json) |
 | Wisp Catacombs | 244690 | [244690-wisp-catacombs.json](./244690-wisp-catacombs.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wisp: Elemental Conflict | 429989 | [429989-wisp-elemental-conflict.json](./429989-wisp-elemental-conflict.json) |
@@ -9784,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
 | World Poker Championship 2: Final Table Showdown | 69956 | [69956-world-poker-championship-2-final-table-showdown.json](./69956-world-poker-championship-2-final-table-showdown.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
+| World Poker Tour | 23148 | [23148-world-poker-tour.json](./23148-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
 | World Pole Stone Dusk: Diadem of the Pole | 327904 | [327904-world-pole-stone-dusk-diadem-of-the-pole.json](./327904-world-pole-stone-dusk-diadem-of-the-pole.json) |
