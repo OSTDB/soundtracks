@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Front-Line | 56234 | [56234-naval-front-line.json](./56234-naval-front-line.json) |
 | Naval Hurricane | 217324 | [217324-naval-hurricane.json](./217324-naval-hurricane.json) |
 | Naval Ops: Commander | 72819 | [72819-naval-ops-commander.json](./72819-naval-ops-commander.json) |
+| Naval Ops: Warship Gunner | 23706 | [23706-naval-ops-warship-gunner.json](./23706-naval-ops-warship-gunner.json) |
 | Naval Power | 230676 | [230676-naval-power.json](./230676-naval-power.json) |
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
 | Naval Tactics | 391985 | [391985-naval-tactics.json](./391985-naval-tactics.json) |
@@ -4077,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
 | Nex:Os Colosseum | 158247 | [158247-nex-os-colosseum.json](./158247-nex-os-colosseum.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
+| Nexagon: Deathmatch | 23691 | [23691-nexagon-deathmatch.json](./23691-nexagon-deathmatch.json) |
 | Nexen | 375713 | [375713-nexen.json](./375713-nexen.json) |
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
