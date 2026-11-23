@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Tank Combat | 149382 | [149382-war-tank-combat.json](./149382-war-tank-combat.json) |
 | War Tank Machine Battle Vehicle Simulator | 249574 | [249574-war-tank-machine-battle-vehicle-simulator.json](./249574-war-tank-machine-battle-vehicle-simulator.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
+| War Tech Fighters | 37037 | [37037-war-tech-fighters.json](./37037-war-tech-fighters.json) |
 | War the Knights | 417903 | [417903-war-the-knights.json](./417903-war-the-knights.json) |
 | War Theatre | 76870 | [76870-war-theatre.json](./76870-war-theatre.json) |
 | War Theatre: Blood of Winter | 123944 | [123944-war-theatre-blood-of-winter.json](./123944-war-theatre-blood-of-winter.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
+| Without Within 2 | 34531 | [34531-without-within-2.json](./34531-without-within-2.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
 | Withstand: Survival | 128771 | [128771-withstand-survival.json](./128771-withstand-survival.json) |
