@@ -5757,6 +5757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
 | Seeking Home | 427453 | [427453-seeking-home.json](./427453-seeking-home.json) |
+| Seeking Immortality in the Sect | 426875 | [426875-seeking-immortality-in-the-sect.json](./426875-seeking-immortality-in-the-sect.json) |
 | Seeking Light | 210698 | [210698-seeking-light.json](./210698-seeking-light.json) |
 | Seeking Light: Chapter 1 | 284277 | [284277-seeking-light-chapter-1.json](./284277-seeking-light-chapter-1.json) |
 | Seeking Revenge | 158225 | [158225-seeking-revenge.json](./158225-seeking-revenge.json) |
@@ -22018,6 +22019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulveyor | 216724 | [216724-soulveyor.json](./216724-soulveyor.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
 | Soulward | 183458 | [183458-soulward.json](./183458-soulward.json) |
+| Soulway | 426862 | [426862-soulway.json](./426862-soulway.json) |
 | SoulWorker | 57372 | [57372-soulworker.json](./57372-soulworker.json) |
 | Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | Soulworker Urban Strategy | 249680 | [249680-soulworker-urban-strategy.json](./249680-soulworker-urban-strategy.json) |
@@ -25614,6 +25616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral of Regret | 336811 | [336811-spiral-of-regret.json](./336811-spiral-of-regret.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
+| Spiral Scramble | 426852 | [426852-spiral-scramble.json](./426852-spiral-scramble.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
 | Spiral Splatter | 52083 | [52083-spiral-splatter.json](./52083-spiral-splatter.json) |
 | Spiral Storm | 130514 | [130514-spiral-storm.json](./130514-spiral-storm.json) |
@@ -28978,6 +28981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
+| Starcore: Through the Void | 426874 | [426874-starcore-through-the-void.json](./426874-starcore-through-the-void.json) |
 | Starcorp Tycoon | 424306 | [424306-starcorp-tycoon.json](./424306-starcorp-tycoon.json) |
 | Starcosmic Bustout | 146436 | [146436-starcosmic-bustout.json](./146436-starcosmic-bustout.json) |
 | Starcosmic Invaders | 146437 | [146437-starcosmic-invaders.json](./146437-starcosmic-invaders.json) |
@@ -30786,6 +30790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
 | Stellarch | 416216 | [416216-stellarch.json](./416216-stellarch.json) |
 | Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
+| StellarDefender | 426867 | [426867-stellardefender.json](./426867-stellardefender.json) |
 | StellarDrive | 333849 | [333849-stellardrive.json](./333849-stellardrive.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
 | Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
@@ -33432,6 +33437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck Recoil | 181428 | [181428-stuck-recoil.json](./181428-stuck-recoil.json) |
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
+| Stuck with Bob | 426856 | [426856-stuck-with-bob.json](./426856-stuck-with-bob.json) |
 | Stuck With Naughty Housewives | 254731 | [254731-stuck-with-naughty-housewives.json](./254731-stuck-with-naughty-housewives.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
@@ -35634,6 +35640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boulder Dash | 26398 | [26398-super-boulder-dash.json](./26398-super-boulder-dash.json) |
 | Super Bounce Ball | 132596 | [132596-super-bounce-ball.json](./132596-super-bounce-ball.json) |
 | Super Bounce Out | 53685 | [53685-super-bounce-out.json](./53685-super-bounce-out.json) |
+| Super Bouncer Henry | 426299 | [426299-super-bouncer-henry.json](./426299-super-bouncer-henry.json) |
 | Super Bout: Champion's Tour | 167459 | [167459-super-bout-champions-tour.json](./167459-super-bout-champions-tour.json) |
 | Super Bowl | 93128 | [93128-super-bowl.json](./93128-super-bowl.json) |
 | Super Bowl Sunday | 36693 | [36693-super-bowl-sunday.json](./36693-super-bowl-sunday.json) |
