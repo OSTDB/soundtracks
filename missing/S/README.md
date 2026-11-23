@@ -11197,6 +11197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showrunner | 207043 | [207043-showrunner.json](./207043-showrunner.json) |
 | Showrunners | 398542 | [398542-showrunners.json](./398542-showrunners.json) |
+| Showtime 2073 | 34259 | [34259-showtime-2073.json](./34259-showtime-2073.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Showtime! | 9405 | [9405-showtime.json](./9405-showtime.json) |
 | Showy Homes | 380521 | [380521-showy-homes.json](./380521-showy-homes.json) |
@@ -17526,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakes on an Extradimensional Plane | 33299 | [33299-snakes-on-an-extradimensional-plane.json](./33299-snakes-on-an-extradimensional-plane.json) |
 | Snakes Subsonic | 133871 | [133871-snakes-subsonic.json](./133871-snakes-subsonic.json) |
 | Snakes with Fists! | 343271 | [343271-snakes-with-fists.json](./343271-snakes-with-fists.json) |
+| SnakEscape | 34278 | [34278-snakescape.json](./34278-snakescape.json) |
 | SnakEscape: Remastered | 129834 | [129834-snakescape-remastered.json](./129834-snakescape-remastered.json) |
 | SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
 | Snakespell | 347445 | [347445-snakespell.json](./347445-snakespell.json) |
@@ -32378,6 +32380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Shortcake: The Sweet Dreams Game | 8572 | [8572-strawberry-shortcake-the-sweet-dreams-game.json](./8572-strawberry-shortcake-the-sweet-dreams-game.json) |
 | Strawberry Sweet Pop | 214960 | [214960-strawberry-sweet-pop.json](./214960-strawberry-sweet-pop.json) |
 | Strawberry Test | 351491 | [351491-strawberry-test.json](./351491-strawberry-test.json) |
+| Strawberry Vinegar | 34341 | [34341-strawberry-vinegar.json](./34341-strawberry-vinegar.json) |
 | Strawberry's Flowers | 297414 | [297414-strawberrys-flowers.json](./297414-strawberrys-flowers.json) |
 | Strawhart | 123365 | [123365-strawhart.json](./123365-strawhart.json) |
 | Stray | 177394 | [177394-stray.json](./177394-stray.json) |
@@ -32942,6 +32945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Vendor Simulator | 347330 | [347330-street-vendor-simulator.json](./347330-street-vendor-simulator.json) |
 | Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
+| Street Warriors Online | 34067 | [34067-street-warriors-online.json](./34067-street-warriors-online.json) |
 | Street Wise: A Teenager's Story | 295760 | [295760-street-wise-a-teenagers-story.json](./295760-street-wise-a-teenagers-story.json) |
 | Street Wrestler | 20721 | [20721-street-wrestler.json](./20721-street-wrestler.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
@@ -39049,6 +39053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperEpic: The Entertainment War - Badge Edition | 167027 | [167027-superepic-the-entertainment-war-badge-edition.json](./167027-superepic-the-entertainment-war-badge-edition.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
 | Superfidos | 242448 | [242448-superfidos.json](./242448-superfidos.json) |
+| Superfight | 34372 | [34372-superfight.json](./34372-superfight.json) |
 | Superfight: The '90s Deck | 161214 | [161214-superfight-the-90s-deck.json](./161214-superfight-the-90s-deck.json) |
 | Superfight: The Anime Deck | 161207 | [161207-superfight-the-anime-deck.json](./161207-superfight-the-anime-deck.json) |
 | Superfight: The Anime Deck 2 | 161206 | [161206-superfight-the-anime-deck-2.json](./161206-superfight-the-anime-deck-2.json) |
