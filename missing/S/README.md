@@ -11044,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Knight | 244603 | [244603-shotgun-knight.json](./244603-shotgun-knight.json) |
 | Shotgun Legend | 36716 | [36716-shotgun-legend.json](./36716-shotgun-legend.json) |
 | Shotgun Mario 64 | 273745 | [273745-shotgun-mario-64.json](./273745-shotgun-mario-64.json) |
+| Shotgun Massacre | 428673 | [428673-shotgun-massacre.json](./428673-shotgun-massacre.json) |
 | Shotgun Monkey | 429032 | [429032-shotgun-monkey.json](./429032-shotgun-monkey.json) |
 | Shotgun n Zombies | 131664 | [131664-shotgun-n-zombies.json](./131664-shotgun-n-zombies.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
@@ -29898,6 +29899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
 | Starvault | 341684 | [341684-starvault.json](./341684-starvault.json) |
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
+| Starvector | 428076 | [428076-starvector.json](./428076-starvector.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starveil | 258582 | [258582-starveil.json](./258582-starveil.json) |
 | Starveil Protocol A.A.A. | 317495 | [317495-starveil-protocol-a-a-a.json](./317495-starveil-protocol-a-a-a.json) |
@@ -31593,6 +31595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
 | Stone Story: Ascension | 392328 | [392328-stone-story-ascension.json](./392328-stone-story-ascension.json) |
 | Stone Tales | 34386 | [34386-stone-tales.json](./34386-stone-tales.json) |
+| Stone to Silicon | 428098 | [428098-stone-to-silicon.json](./428098-stone-to-silicon.json) |
 | Stone to Stars | 421725 | [421725-stone-to-stars.json](./421725-stone-to-stars.json) |
 | Stone Turmoil | 315403 | [315403-stone-turmoil.json](./315403-stone-turmoil.json) |
 | Stone Walkers | 54749 | [54749-stone-walkers.json](./54749-stone-walkers.json) |
@@ -33077,6 +33080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strider II | 12782 | [12782-strider-ii.json](./12782-strider-ii.json) |
 | Strider Mountain | 222415 | [222415-strider-mountain.json](./222415-strider-mountain.json) |
 | Strider-X | 336658 | [336658-strider-x.json](./336658-strider-x.json) |
+| Striders | 428069 | [428069-striders.json](./428069-striders.json) |
 | Strife | 5570 | [5570-strife.json](./5570-strife.json) |
 | Strife of Cosmos | 194345 | [194345-strife-of-cosmos.json](./194345-strife-of-cosmos.json) |
 | Strife Sisters | 419672 | [419672-strife-sisters.json](./419672-strife-sisters.json) |
