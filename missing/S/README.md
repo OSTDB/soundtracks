@@ -7652,6 +7652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sgrizam | 85748 | [85748-sgrizam.json](./85748-sgrizam.json) |
 | SGS Afrika Korps | 161542 | [161542-sgs-afrika-korps.json](./161542-sgs-afrika-korps.json) |
 | SGS Afrika Korps: Tunisia | 174061 | [174061-sgs-afrika-korps-tunisia.json](./174061-sgs-afrika-korps-tunisia.json) |
+| SGS Avalanche | 428054 | [428054-sgs-avalanche.json](./428054-sgs-avalanche.json) |
 | SGS Battle For: Dien Bien Phu | 298119 | [298119-sgs-battle-for-dien-bien-phu.json](./298119-sgs-battle-for-dien-bien-phu.json) |
 | SGS Battle For: Hue | 295195 | [295195-sgs-battle-for-hue.json](./295195-sgs-battle-for-hue.json) |
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
@@ -17668,6 +17669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 23320 | [23320-sneakers.json](./23320-sneakers.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
+| Sneaklings: Paint Hide & Seek | 428043 | [428043-sneaklings-paint-hide-and-seek.json](./428043-sneaklings-paint-hide-and-seek.json) |
 | SneakOps | 95072 | [95072-sneakops.json](./95072-sneakops.json) |
 | SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
 | Sneaky All-Nighter | 340275 | [340275-sneaky-all-nighter.json](./340275-sneaky-all-nighter.json) |
@@ -21218,6 +21220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soon We'll Be No One | 415789 | [415789-soon-well-be-no-one.json](./415789-soon-well-be-no-one.json) |
 | Soon, Only the Ocean | 412938 | [412938-soon-only-the-ocean.json](./412938-soon-only-the-ocean.json) |
 | Soona | 128923 | [128923-soona.json](./128923-soona.json) |
+| Sooooooooooo: Strike, Scream, Run! | 427613 | [427613-sooooooooooo-strike-scream-run.json](./427613-sooooooooooo-strike-scream-run.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
 | Sooper Fighterz: 24 Hour Challenge | 184228 | [184228-sooper-fighterz-24-hour-challenge.json](./184228-sooper-fighterz-24-hour-challenge.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
