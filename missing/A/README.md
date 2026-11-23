@@ -5845,6 +5845,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Eldritch Realms | 258839 | [258839-age-of-wonders-4-eldritch-realms.json](./258839-age-of-wonders-4-eldritch-realms.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
+| Age of Wonders 4: Expansion Pass 2 | 428672 | [428672-age-of-wonders-4-expansion-pass-2.json](./428672-age-of-wonders-4-expansion-pass-2.json) |
+| Age of Wonders 4: Expansion Pass 3 | 428675 | [428675-age-of-wonders-4-expansion-pass-3.json](./428675-age-of-wonders-4-expansion-pass-3.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
 | Age of Wonders 4: Pre-Order Content Pack | 428738 | [428738-age-of-wonders-4-pre-order-content-pack.json](./428738-age-of-wonders-4-pre-order-content-pack.json) |
 | Age of Wonders 4: Premium Edition | 240573 | [240573-age-of-wonders-4-premium-edition.json](./240573-age-of-wonders-4-premium-edition.json) |
@@ -10021,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amberial | 261918 | [261918-amberial.json](./261918-amberial.json) |
 | Amberial Dreams | 107773 | [107773-amberial-dreams.json](./107773-amberial-dreams.json) |
 | Amberial: Nebulosa Realms | 273698 | [273698-amberial-nebulosa-realms.json](./273698-amberial-nebulosa-realms.json) |
+| Amberly Hollow | 428666 | [428666-amberly-hollow.json](./428666-amberly-hollow.json) |
 | Ambermoon | 11897 | [11897-ambermoon.json](./11897-ambermoon.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambers Boom | 44299 | [44299-ambers-boom.json](./44299-ambers-boom.json) |
