@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
 | Orcish Skies | 260184 | [260184-orcish-skies.json](./260184-orcish-skies.json) |
 | Orconoid | 56245 | [56245-orconoid.json](./56245-orconoid.json) |
+| Orcs | 32616 | [32616-orcs.json](./32616-orcs.json) |
 | Orcs & Elves II | 213270 | [213270-orcs-and-elves-ii.json](./213270-orcs-and-elves-ii.json) |
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
 | Orcs Coming TD | 230913 | [230913-orcs-coming-td.json](./230913-orcs-coming-td.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outrun Online Arcade | 21204 | [21204-outrun-online-arcade.json](./21204-outrun-online-arcade.json) |
 | Outrun Them | 296481 | [296481-outrun-them.json](./296481-outrun-them.json) |
 | OutRune | 237213 | [237213-outrune.json](./237213-outrune.json) |
+| Outrunner | 28802 | [28802-outrunner.json](./28802-outrunner.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
 | Outrunner 3 | 113191 | [113191-outrunner-3.json](./113191-outrunner-3.json) |
 | Outrunner: Complete Edition | 53436 | [53436-outrunner-complete-edition.json](./53436-outrunner-complete-edition.json) |
