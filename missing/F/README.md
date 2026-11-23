@@ -7402,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
 | First Time in Rome: Collector's Edition | 226335 | [226335-first-time-in-rome-collectors-edition.json](./226335-first-time-in-rome-collectors-edition.json) |
 | First Time Mom | 392297 | [392297-first-time-mom.json](./392297-first-time-mom.json) |
+| First Touch Soccer 2015 | 428838 | [428838-first-touch-soccer-2015.json](./428838-first-touch-soccer-2015.json) |
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
@@ -10267,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNaF World Simulator | 230613 | [230613-fnaf-world-simulator.json](./230613-fnaf-world-simulator.json) |
 | FNaF World: Halloween Edition | 58707 | [58707-fnaf-world-halloween-edition.json](./58707-fnaf-world-halloween-edition.json) |
 | FNaF World: Outplay | 265063 | [265063-fnaf-world-outplay.json](./265063-fnaf-world-outplay.json) |
+| FNaF World: Ultra | 428833 | [428833-fnaf-world-ultra.json](./428833-fnaf-world-ultra.json) |
 | FNaF World: Update 2 | 230606 | [230606-fnaf-world-update-2.json](./230606-fnaf-world-update-2.json) |
 | FNAF: Final Purgatory | 184290 | [184290-fnaf-final-purgatory.json](./184290-fnaf-final-purgatory.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
@@ -10446,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
 | Following Spandaramet | 330468 | [330468-following-spandaramet.json](./330468-following-spandaramet.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
+| Follyvale | 428828 | [428828-follyvale.json](./428828-follyvale.json) |
 | Fomalhaut Flowers | 159714 | [159714-fomalhaut-flowers.json](./159714-fomalhaut-flowers.json) |
 | FoMO | 272771 | [272771-fomo.json](./272771-fomo.json) |
 | Fomography | 264003 | [264003-fomography.json](./264003-fomography.json) |
@@ -14522,6 +14525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Beneath | 58584 | [58584-from-beneath.json](./58584-from-beneath.json) |
 | From Beyond | 384318 | [384318-from-beyond.json](./384318-from-beyond.json) |
 | From By | 348422 | [348422-from-by.json](./348422-from-by.json) |
+| From Cave to Shelf | 428854 | [428854-from-cave-to-shelf.json](./428854-from-cave-to-shelf.json) |
 | From Cheese | 370807 | [370807-from-cheese.json](./370807-from-cheese.json) |
 | From Darkness | 113319 | [113319-from-darkness.json](./113319-from-darkness.json) |
 | From Day to Day | 151106 | [151106-from-day-to-day.json](./151106-from-day-to-day.json) |
