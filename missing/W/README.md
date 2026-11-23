@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Martyr: Maelstrom of Carnage | 149315 | [149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json](./149315-warhammer-40-000-inquisitor-martyr-maelstrom-of-carnage.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Mind Plague | 149304 | [149304-warhammer-40-000-inquisitor-martyr-mind-plague.json](./149304-warhammer-40-000-inquisitor-martyr-mind-plague.json) |
 | Warhammer 40,000: Inquisitor - Martyr: Poisoned Souls | 149312 | [149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json](./149312-warhammer-40-000-inquisitor-martyr-poisoned-souls.json) |
+| Warhammer 40,000: Inquisitor - Martyr: Ultimate Edition | 219440 | [219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json](./219440-warhammer-40-000-inquisitor-martyr-ultimate-edition.json) |
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: An Unexpected Arrival | 219342 | [219342-windstorm-an-unexpected-arrival.json](./219342-windstorm-an-unexpected-arrival.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windstorm: Start of a Great Friendship | 186557 | [186557-windstorm-start-of-a-great-friendship.json](./186557-windstorm-start-of-a-great-friendship.json) |
+| Windstorm: Start of a Great Friendship - Remastered | 295730 | [295730-windstorm-start-of-a-great-friendship-remastered.json](./295730-windstorm-start-of-a-great-friendship-remastered.json) |
 | Windstorm: Start of a Great Friendship Remastered - Complete Edition | 331827 | [331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json](./331827-windstorm-start-of-a-great-friendship-remastered-complete-edition.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
@@ -6913,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Eleven Online 2014 | 220996 | [220996-winning-eleven-online-2014.json](./220996-winning-eleven-online-2014.json) |
 | Winning Eleven Play Maker 2010: Aoki Samurai no Chousen | 268207 | [268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json](./268207-winning-eleven-play-maker-2010-aoki-samurai-no-chousen.json) |
 | Winning Eleven Tactics: European Club Soccer | 221003 | [221003-winning-eleven-tactics-european-club-soccer.json](./221003-winning-eleven-tactics-european-club-soccer.json) |
+| Winning Eleven: Pro Evolution Soccer 2007 | 220951 | [220951-winning-eleven-pro-evolution-soccer-2007.json](./220951-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 220952 | [220952-winning-eleven-pro-evolution-soccer-2007.json](./220952-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Eleven: Pro Evolution Soccer 2007 | 2484 | [2484-winning-eleven-pro-evolution-soccer-2007.json](./2484-winning-eleven-pro-evolution-soccer-2007.json) |
 | Winning Hearts: Wrestling Otome | 244882 | [244882-winning-hearts-wrestling-otome.json](./244882-winning-hearts-wrestling-otome.json) |
