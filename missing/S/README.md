@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sato & Hama | 393210 | [393210-sato-and-hama.json](./393210-sato-and-hama.json) |
 | Sato Dreams | 149144 | [149144-sato-dreams.json](./149144-sato-dreams.json) |
 | Sato Killing Time Chat.exe | 395020 | [395020-sato-killing-time-chat-exe.json](./395020-sato-killing-time-chat-exe.json) |
+| Sato Love Story | 427469 | [427469-sato-love-story.json](./427469-sato-love-story.json) |
 | Satogaeri | 192382 | [192382-satogaeri.json](./192382-satogaeri.json) |
 | Satolite | 271685 | [271685-satolite.json](./271685-satolite.json) |
 | Satomi Hakkenden | 48860 | [48860-satomi-hakkenden.json](./48860-satomi-hakkenden.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
 | Section 8: Prejudice | 19650 | [19650-section-8-prejudice.json](./19650-section-8-prejudice.json) |
+| Section 80 | 427467 | [427467-section-80.json](./427467-section-80.json) |
 | Section Gamma | 250836 | [250836-section-gamma.json](./250836-section-gamma.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section Six Requiem | 347562 | [347562-section-six-requiem.json](./347562-section-six-requiem.json) |
@@ -22069,6 +22071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
 | Soundelta | 292571 | [292571-soundelta.json](./292571-soundelta.json) |
+| SoundFest: Music Festival Manager | 427477 | [427477-soundfest-music-festival-manager.json](./427477-soundfest-music-festival-manager.json) |
 | Soundgrass | 381079 | [381079-soundgrass.json](./381079-soundgrass.json) |
 | SoundKilla | 295154 | [295154-soundkilla.json](./295154-soundkilla.json) |
 | Soundless Mound | 262310 | [262310-soundless-mound.json](./262310-soundless-mound.json) |
@@ -23883,6 +23886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Curse | 147634 | [147634-spaceship-curse.json](./147634-spaceship-curse.json) |
 | Spaceship Down | 346220 | [346220-spaceship-down.json](./346220-spaceship-down.json) |
 | Spaceship Driver License | 293528 | [293528-spaceship-driver-license.json](./293528-spaceship-driver-license.json) |
+| Spaceship Flicker | 427494 | [427494-spaceship-flicker.json](./427494-spaceship-flicker.json) |
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Idle: Design, Build, Explore & Battle | 346879 | [346879-spaceship-idle-design-build-explore-and-battle.json](./346879-spaceship-idle-design-build-explore-and-battle.json) |
@@ -26506,6 +26510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Feel Pool | 218012 | [218012-sports-feel-pool.json](./218012-sports-feel-pool.json) |
 | Sports Feel Virtual Fishing | 217703 | [217703-sports-feel-virtual-fishing.json](./217703-sports-feel-virtual-fishing.json) |
 | Sports Flying Car Simulator 3d Games | 106050 | [106050-sports-flying-car-simulator-3d-games.json](./106050-sports-flying-car-simulator-3d-games.json) |
+| Sports Founder | 427480 | [427480-sports-founder.json](./427480-sports-founder.json) |
 | Sports Game for PC | 98221 | [98221-sports-game-for-pc.json](./98221-sports-game-for-pc.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
@@ -29880,6 +29885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starvin Martian | 278184 | [278184-starvin-martian.json](./278184-starvin-martian.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
+| Starving Crow | 427491 | [427491-starving-crow.json](./427491-starving-crow.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starving Shadows | 420084 | [420084-starving-shadows.json](./420084-starving-shadows.json) |
@@ -31103,6 +31109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Catcher: Star Invasion | 379804 | [379804-sticker-catcher-star-invasion.json](./379804-sticker-catcher-star-invasion.json) |
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
+| Sticker Deco | 426998 | [426998-sticker-deco.json](./426998-sticker-deco.json) |
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
 | Sticker Kittens | 270489 | [270489-sticker-kittens.json](./270489-sticker-kittens.json) |
 | Sticker Picker | 422017 | [422017-sticker-picker.json](./422017-sticker-picker.json) |
@@ -31770,6 +31777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
 | Storm Cleaner | 314765 | [314765-storm-cleaner.json](./314765-storm-cleaner.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
+| Storm Grill | 427474 | [427474-storm-grill.json](./427474-storm-grill.json) |
 | Storm Horse Simulator | 357860 | [357860-storm-horse-simulator.json](./357860-storm-horse-simulator.json) |
 | Storm in a Teacup | 15136 | [15136-storm-in-a-teacup.json](./15136-storm-in-a-teacup.json) |
 | Storm in Desert | 29174 | [29174-storm-in-desert.json](./29174-storm-in-desert.json) |
