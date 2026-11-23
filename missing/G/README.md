@@ -10708,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridgate | 60645 | [60645-gridgate.json](./60645-gridgate.json) |
 | Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
 | Gridheart | 198047 | [198047-gridheart.json](./198047-gridheart.json) |
+| Gridholm | 428095 | [428095-gridholm.json](./428095-gridholm.json) |
 | Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Fight | 39731 | [39731-gridiron-fight.json](./39731-gridiron-fight.json) |
