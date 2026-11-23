@@ -7342,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Sinister Play - Collector's Edition | 170215 | [170215-maze-sinister-play-collectors-edition.json](./170215-maze-sinister-play-collectors-edition.json) |
 | Maze: Stolen Minds - Collector’s Edition | 228232 | [228232-maze-stolen-minds-collector-s-edition.json](./228232-maze-stolen-minds-collector-s-edition.json) |
 | Maze: Subject 360 | 140189 | [140189-maze-subject-360.json](./140189-maze-subject-360.json) |
+| Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
 | Maze: The Broken Tower | 108693 | [108693-maze-the-broken-tower.json](./108693-maze-the-broken-tower.json) |
@@ -13006,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight of Despair | 291167 | [291167-midnight-of-despair.json](./291167-midnight-of-despair.json) |
 | Midnight Ohota | 156551 | [156551-midnight-ohota.json](./156551-midnight-ohota.json) |
 | Midnight on the Milky Way | 161175 | [161175-midnight-on-the-milky-way.json](./161175-midnight-on-the-milky-way.json) |
+| Midnight Outlaw: 6 Hours to Sun Up | 29192 | [29192-midnight-outlaw-6-hours-to-sun-up.json](./29192-midnight-outlaw-6-hours-to-sun-up.json) |
 | Midnight Outlaw: Illegal Street Drag | 71990 | [71990-midnight-outlaw-illegal-street-drag.json](./71990-midnight-outlaw-illegal-street-drag.json) |
 | Midnight Outlaw: Illegal Street Drag - Nitro Edition | 73194 | [73194-midnight-outlaw-illegal-street-drag-nitro-edition.json](./73194-midnight-outlaw-illegal-street-drag-nitro-edition.json) |
 | Midnight Overtime | 385445 | [385445-midnight-overtime.json](./385445-midnight-overtime.json) |
@@ -13474,6 +13476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
 | Miko Melee | 204043 | [204043-miko-melee.json](./204043-miko-melee.json) |
 | Miko Miko Nurse | 321402 | [321402-miko-miko-nurse.json](./321402-miko-miko-nurse.json) |
+| Miko Mole | 32631 | [32631-miko-mole.json](./32631-miko-mole.json) |
 | Miko Monogatari! | 222277 | [222277-miko-monogatari.json](./222277-miko-monogatari.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Cycles | 211055 | [211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json](./211055-miko-no-kanata-curious-tales-from-oguni-shrine-cycles.json) |
 | Miko no Kanata: Curious Tales from Oguni Shrine - Zero | 387081 | [387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json](./387081-miko-no-kanata-curious-tales-from-oguni-shrine-zero.json) |
@@ -16664,6 +16667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Marathon | 401136 | [401136-mob-marathon.json](./401136-mob-marathon.json) |
 | Mob Psycho 100: Psychic Battle | 120274 | [120274-mob-psycho-100-psychic-battle.json](./120274-mob-psycho-100-psychic-battle.json) |
 | Mob Rule | 70279 | [70279-mob-rule.json](./70279-mob-rule.json) |
+| Mob Rule Classic | 29326 | [29326-mob-rule-classic.json](./29326-mob-rule-classic.json) |
 | Mob Stadium | 40427 | [40427-mob-stadium.json](./40427-mob-stadium.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
 | Mob Ties: Tokyo | 22120 | [22120-mob-ties-tokyo.json](./22120-mob-ties-tokyo.json) |
@@ -17857,6 +17861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
 | Monmusu Paradise: Visitors | 344602 | [344602-monmusu-paradise-visitors.json](./344602-monmusu-paradise-visitors.json) |
 | Monmusu Rush | 424892 | [424892-monmusu-rush.json](./424892-monmusu-rush.json) |
+| Mono | 29074 | [29074-mono.json](./29074-mono.json) |
 | Mono | 389926 | [389926-mono.json](./389926-mono.json) |
 | Mono | 70748 | [70748-mono.json](./70748-mono.json) |
 | Mono Chameleon | 424396 | [424396-mono-chameleon.json](./424396-mono-chameleon.json) |
@@ -18829,6 +18834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
+| Monstercakes | 28999 | [28999-monstercakes.json](./28999-monstercakes.json) |
 | MonsterCare | 216647 | [216647-monstercare.json](./216647-monstercare.json) |
 | MonsterCastle | 120653 | [120653-monstercastle.json](./120653-monstercastle.json) |
 | Monstercise | 282794 | [282794-monstercise.json](./282794-monstercise.json) |
@@ -25270,6 +25276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
 | Mystery Phantoms: Ghostly Secrets | 416489 | [416489-mystery-phantoms-ghostly-secrets.json](./416489-mystery-phantoms-ghostly-secrets.json) |
 | Mystery Phantoms: Ghostly Secrets - Collector's Edition | 413147 | [413147-mystery-phantoms-ghostly-secrets-collectors-edition.json](./413147-mystery-phantoms-ghostly-secrets-collectors-edition.json) |
+| Mystery PI: The Vegas Heist | 28976 | [28976-mystery-pi-the-vegas-heist.json](./28976-mystery-pi-the-vegas-heist.json) |
 | Mystery Place: The Secret of Hildegards | 145120 | [145120-mystery-place-the-secret-of-hildegards.json](./145120-mystery-place-the-secret-of-hildegards.json) |
 | Mystery Places: The Curse of Midnight Manor | 145117 | [145117-mystery-places-the-curse-of-midnight-manor.json](./145117-mystery-places-the-curse-of-midnight-manor.json) |
 | Mystery Places: The Town with no Name | 145118 | [145118-mystery-places-the-town-with-no-name.json](./145118-mystery-places-the-town-with-no-name.json) |
@@ -25455,6 +25462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic India Pop-Classic pop game | 89627 | [89627-mystic-india-pop-classic-pop-game.json](./89627-mystic-india-pop-classic-pop-game.json) |
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Isles | 154391 | [154391-mystic-isles.json](./154391-mystic-isles.json) |
+| Mystic Journey: Tri Peaks Solitaire | 28763 | [28763-mystic-journey-tri-peaks-solitaire.json](./28763-mystic-journey-tri-peaks-solitaire.json) |
 | Mystic Jumper | 348564 | [348564-mystic-jumper.json](./348564-mystic-jumper.json) |
 | Mystic Kingdom | 137391 | [137391-mystic-kingdom.json](./137391-mystic-kingdom.json) |
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
