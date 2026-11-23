@@ -1503,7 +1503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story About Forever: Transience | 399396 | [399396-a-story-about-forever-transience.json](./399396-a-story-about-forever-transience.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story About You | 420470 | [420470-a-story-about-you.json](./420470-a-story-about-you.json) |
-| A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
 | A Story in Bronze Ware | 263820 | [263820-a-story-in-bronze-ware.json](./263820-a-story-in-bronze-ware.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
@@ -3346,7 +3345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achromate | 180168 | [180168-achromate.json](./180168-achromate.json) |
-| Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
 | Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achromira | 187635 | [187635-achromira.json](./187635-achromira.json) |
@@ -5721,7 +5719,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 5: The Day of the Rat | 149671 | [149671-age-of-fear-5-the-day-of-the-rat.json](./149671-age-of-fear-5-the-day-of-the-rat.json) |
 | Age of Fear: The Free World | 111940 | [111940-age-of-fear-the-free-world.json](./111940-age-of-fear-the-free-world.json) |
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
-| Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
 | Age of Fear: The Undead King Gold - Pirates! Expansion | 169526 | [169526-age-of-fear-the-undead-king-gold-pirates-expansion.json](./169526-age-of-fear-the-undead-king-gold-pirates-expansion.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
@@ -9813,7 +9810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze | 29235 | [29235-amaze.json](./29235-amaze.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
-| Amaze ABC | 107849 | [107849-amaze-abc.json](./107849-amaze-abc.json) |
 | aMaze Achievements: darkness | 63724 | [63724-amaze-achievements-darkness.json](./63724-amaze-achievements-darkness.json) |
 | Amaze Adventure | 192590 | [192590-amaze-adventure.json](./192590-amaze-adventure.json) |
 | Amaze Classic | 98686 | [98686-amaze-classic.json](./98686-amaze-classic.json) |
@@ -9831,7 +9827,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Valentine | 230121 | [230121-amaze-valentine.json](./230121-amaze-valentine.json) |
 | Amaze Zer0 | 51424 | [51424-amaze-zer0.json](./51424-amaze-zer0.json) |
 | Amaze: Easter | 116186 | [116186-amaze-easter.json](./116186-amaze-easter.json) |
-| Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amaze! Complete Bundle | 249564 | [249564-amaze-complete-bundle.json](./249564-amaze-complete-bundle.json) |
 | Amaze! Relax Edition | 256022 | [256022-amaze-relax-edition.json](./256022-amaze-relax-edition.json) |
@@ -10011,7 +10006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber Trail | 223186 | [223186-amber-trail.json](./223186-amber-trail.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
-| Amber's Airline: High Hopes | 107743 | [107743-ambers-airline-high-hopes.json](./107743-ambers-airline-high-hopes.json) |
 | Amber's Blood | 58025 | [58025-ambers-blood.json](./58025-ambers-blood.json) |
 | Amber's Magic Shop | 36817 | [36817-ambers-magic-shop.json](./36817-ambers-magic-shop.json) |
 | Amber's Tale | 247948 | [247948-ambers-tale.json](./247948-ambers-tale.json) |
@@ -13018,7 +13012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Knot | 116888 | [116888-answer-knot.json](./116888-answer-knot.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answer Me | 398723 | [398723-answer-me.json](./398723-answer-me.json) |
-| Answer the Question | 108604 | [108604-answer-the-question.json](./108604-answer-the-question.json) |
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answer To Survive | 290886 | [290886-answer-to-survive.json](./290886-answer-to-survive.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
@@ -13252,7 +13245,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Shop: Lost Gems - London | 416907 | [416907-antique-shop-lost-gems-london.json](./416907-antique-shop-lost-gems-london.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
-| Antiquitas | 109392 | [109392-antiquitas.json](./109392-antiquitas.json) |
 | Antiquity Jones | 391280 | [391280-antiquity-jones.json](./391280-antiquity-jones.json) |
 | Antireal | 272833 | [272833-antireal.json](./272833-antireal.json) |
 | Antiriad | 45331 | [45331-antiriad.json](./45331-antiriad.json) |
@@ -14510,7 +14502,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc of Icarus | 399237 | [399237-arc-of-icarus.json](./399237-arc-of-icarus.json) |
 | Arc of Templar | 95926 | [95926-arc-of-templar.json](./95926-arc-of-templar.json) |
 | Arc Rise Fantasia | 4678 | [4678-arc-rise-fantasia.json](./4678-arc-rise-fantasia.json) |
-| Arc Savior | 107856 | [107856-arc-savior.json](./107856-arc-savior.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Freecell | 98624 | [98624-arc-style-freecell.json](./98624-arc-style-freecell.json) |
@@ -17298,7 +17289,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
-| Artificial Mansion | 108080 | [108080-artificial-mansion.json](./108080-artificial-mansion.json) |
 | Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
 | Artificial Selection | 136020 | [136020-artificial-selection.json](./136020-artificial-selection.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
@@ -17570,7 +17560,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Titan | 143296 | [143296-ascent-of-titan.json](./143296-ascent-of-titan.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
 | Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
-| Ascent: Crash Landing | 109365 | [109365-ascent-crash-landing.json](./109365-ascent-crash-landing.json) |
 | Ascent: Masklings | 430491 | [430491-ascent-masklings.json](./430491-ascent-masklings.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascent: The Space Game | 18794 | [18794-ascent-the-space-game.json](./18794-ascent-the-space-game.json) |
@@ -21227,7 +21216,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
 | Awake | 366766 | [366766-awake.json](./366766-awake.json) |
-| Awake Episode One | 110717 | [110717-awake-episode-one.json](./110717-awake-episode-one.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
 | Awaken | 183954 | [183954-awaken.json](./183954-awaken.json) |
 | Awaken | 227693 | [227693-awaken.json](./227693-awaken.json) |
@@ -21747,7 +21735,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azura's Crystals | 318352 | [318352-azuras-crystals.json](./318352-azuras-crystals.json) |
 | Azurael's Circle: Chapter 1 | 107764 | [107764-azuraels-circle-chapter-1.json](./107764-azuraels-circle-chapter-1.json) |
-| Azurael's Circle: Chapter 2 | 107732 | [107732-azuraels-circle-chapter-2.json](./107732-azuraels-circle-chapter-2.json) |
 | Azurael's Circle: Chapter 3 | 112368 | [112368-azuraels-circle-chapter-3.json](./112368-azuraels-circle-chapter-3.json) |
 | Azurael's Circle: Chapter 4 | 117113 | [117113-azuraels-circle-chapter-4.json](./117113-azuraels-circle-chapter-4.json) |
 | Azurael's Circle: Chapter 5 | 168836 | [168836-azuraels-circle-chapter-5.json](./168836-azuraels-circle-chapter-5.json) |
