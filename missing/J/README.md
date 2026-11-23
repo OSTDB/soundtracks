@@ -4312,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junyong Shenqing | 73406 | [73406-junyong-shenqing.json](./73406-junyong-shenqing.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
+| Jupiter & Mars | 76962 | [76962-jupiter-and-mars.json](./76962-jupiter-and-mars.json) |
 | Jupiter & Mars: Definitive Edition | 416856 | [416856-jupiter-and-mars-definitive-edition.json](./416856-jupiter-and-mars-definitive-edition.json) |
 | Jupiter Defender | 400321 | [400321-jupiter-defender.json](./400321-jupiter-defender.json) |
 | Jupiter Hell Classic | 321554 | [321554-jupiter-hell-classic.json](./321554-jupiter-hell-classic.json) |
@@ -4855,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League Heroes: The Flash | 6486 | [6486-justice-league-heroes-the-flash.json](./6486-justice-league-heroes-the-flash.json) |
 | Justice League Legacy | 191921 | [191921-justice-league-legacy.json](./191921-justice-league-legacy.json) |
 | Justice League United | 313329 | [313329-justice-league-united.json](./313329-justice-league-united.json) |
+| Justice League VR: The Complete Experience | 76819 | [76819-justice-league-vr-the-complete-experience.json](./76819-justice-league-vr-the-complete-experience.json) |
 | Justice League: Chronicles | 6485 | [6485-justice-league-chronicles.json](./6485-justice-league-chronicles.json) |
 | Justice League: Dangerous Pursuit | 338691 | [338691-justice-league-dangerous-pursuit.json](./338691-justice-league-dangerous-pursuit.json) |
 | Justice League: Earth's Final Defense | 63693 | [63693-justice-league-earths-final-defense.json](./63693-justice-league-earths-final-defense.json) |
