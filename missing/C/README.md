@@ -3353,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage in Space: Crucible | 201573 | [201573-carnage-in-space-crucible.json](./201573-carnage-in-space-crucible.json) |
 | Carnage in Space: Ignition | 81030 | [81030-carnage-in-space-ignition.json](./81030-carnage-in-space-ignition.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
+| Carnage Mania | 429274 | [429274-carnage-mania.json](./429274-carnage-mania.json) |
 | Carnage Oasis | 257131 | [257131-carnage-oasis.json](./257131-carnage-oasis.json) |
 | Carnage Offering | 189964 | [189964-carnage-offering.json](./189964-carnage-offering.json) |
 | Carnage Offering Tower Defense | 238529 | [238529-carnage-offering-tower-defense.json](./238529-carnage-offering-tower-defense.json) |
@@ -8348,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 5: Cluck of the Dark Side | 11717 | [11717-chicken-invaders-5-cluck-of-the-dark-side.json](./11717-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side | 35692 | [35692-chicken-invaders-5-cluck-of-the-dark-side.json](./35692-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition | 52742 | [52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json](./52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json) |
+| Chicken Invaders Collection | 428832 | [428832-chicken-invaders-collection.json](./428832-chicken-invaders-collection.json) |
 | Chicken Invaders Universe | 144460 | [144460-chicken-invaders-universe.json](./144460-chicken-invaders-universe.json) |
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
@@ -8897,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiruno Freezer | 205165 | [205165-chiruno-freezer.json](./205165-chiruno-freezer.json) |
 | Chisel | 326732 | [326732-chisel.json](./326732-chisel.json) |
 | Chisel 2 | 326733 | [326733-chisel-2.json](./326733-chisel-2.json) |
+| Chisel Me This | 428842 | [428842-chisel-me-this.json](./428842-chisel-me-this.json) |
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chisholm Trail | 44395 | [44395-chisholm-trail.json](./44395-chisholm-trail.json) |
@@ -18271,6 +18274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covechrome | 341645 | [341645-covechrome.json](./341645-covechrome.json) |
 | Covelink | 384650 | [384650-covelink.json](./384650-covelink.json) |
 | Covemachine | 327296 | [327296-covemachine.json](./327296-covemachine.json) |
+| Covemevoc | 428843 | [428843-covemevoc.json](./428843-covemevoc.json) |
 | Covemount | 281779 | [281779-covemount.json](./281779-covemount.json) |
 | Covemouth | 341632 | [341632-covemouth.json](./341632-covemouth.json) |
 | Coven | 146649 | [146649-coven.json](./146649-coven.json) |
@@ -19236,6 +19240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crater Maker | 62079 | [62079-crater-maker.json](./62079-crater-maker.json) |
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Crater Song | 321254 | [321254-crater-song.json](./321254-crater-song.json) |
+| Craterborn | 428826 | [428826-craterborn.json](./428826-craterborn.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
 | Craterlands | 424770 | [424770-craterlands.json](./424770-craterlands.json) |
 | Cratermaze | 42113 | [42113-cratermaze.json](./42113-cratermaze.json) |
