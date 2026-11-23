@@ -2204,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
 | Rank Insignia Super Explosion | 231913 | [231913-rank-insignia-super-explosion.json](./231913-rank-insignia-super-explosion.json) |
+| Rank Risk: Guess the Order | 429443 | [429443-rank-risk-guess-the-order.json](./429443-rank-risk-guess-the-order.json) |
 | Rank Runner | 120423 | [120423-rank-runner.json](./120423-rank-runner.json) |
 | Rank: Warmaster | 148003 | [148003-rank-warmaster.json](./148003-rank-warmaster.json) |
 | Rank: Warmaster Bunker Buster | 343871 | [343871-rank-warmaster-bunker-buster.json](./343871-rank-warmaster-bunker-buster.json) |
@@ -5904,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Revenge | 136762 | [136762-renai-revenge.json](./136762-renai-revenge.json) |
 | Renai Uranai Daisakusen | 287269 | [287269-renai-uranai-daisakusen.json](./287269-renai-uranai-daisakusen.json) |
 | Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
+| Renai, Hajimemashite | 429424 | [429424-renai-hajimemashite.json](./429424-renai-hajimemashite.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renai, Karichaimashita: Limited Edition | 166974 | [166974-renai-karichaimashita-limited-edition.json](./166974-renai-karichaimashita-limited-edition.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
@@ -11315,6 +11317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky & Bullwinkle's Know-It-All Quiz Game | 58369 | [58369-rocky-and-bullwinkles-know-it-all-quiz-game.json](./58369-rocky-and-bullwinkles-know-it-all-quiz-game.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
 | Rocky and Bullwinkle | 209045 | [209045-rocky-and-bullwinkle.json](./209045-rocky-and-bullwinkle.json) |
+| Rocky Balboa | 23112 | [23112-rocky-balboa.json](./23112-rocky-balboa.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Idle | 391524 | [391524-rocky-idle.json](./391524-rocky-idle.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
