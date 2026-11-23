@@ -15499,7 +15499,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Pool | 306934 | [306934-miracle-pool.json](./306934-miracle-pool.json) |
 | Miracle Ropit's Adventure in 2100 | 64685 | [64685-miracle-ropits-adventure-in-2100.json](./64685-miracle-ropits-adventure-in-2100.json) |
 | Miracle Seven | 385758 | [385758-miracle-seven.json](./385758-miracle-seven.json) |
-| Miracle Snack Shop | 113331 | [113331-miracle-snack-shop.json](./113331-miracle-snack-shop.json) |
 | Miracle Snack Shop: Philia After Story | 172342 | [172342-miracle-snack-shop-philia-after-story.json](./172342-miracle-snack-shop-philia-after-story.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
