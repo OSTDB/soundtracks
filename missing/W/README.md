@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
 | Walkure Romanze Re:tell II | 194626 | [194626-walkure-romanze-re-tell-ii.json](./194626-walkure-romanze-re-tell-ii.json) |
 | Walkure Romanze: Shoujo Kishi Monogatari | 194591 | [194591-walkure-romanze-shoujo-kishi-monogatari.json](./194591-walkure-romanze-shoujo-kishi-monogatari.json) |
+| Wall | 426310 | [426310-wall.json](./426310-wall.json) |
 | Wall Ball | 282244 | [282244-wall-ball.json](./282244-wall-ball.json) |
 | Wall Ball | 40681 | [40681-wall-ball.json](./40681-wall-ball.json) |
 | Wall Ball | 86140 | [86140-wall-ball.json](./86140-wall-ball.json) |
@@ -4696,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Destiny Comes Knocking | 238909 | [238909-when-destiny-comes-knocking.json](./238909-when-destiny-comes-knocking.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
+| When Games Collide | 426843 | [426843-when-games-collide.json](./426843-when-games-collide.json) |
 | When God Left Us | 247802 | [247802-when-god-left-us.json](./247802-when-god-left-us.json) |
 | When Heaven Knocks | 330042 | [330042-when-heaven-knocks.json](./330042-when-heaven-knocks.json) |
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
@@ -5558,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is Mike | 35077 | [35077-who-is-mike.json](./35077-who-is-mike.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is Paul | 320573 | [320573-who-is-paul.json](./320573-who-is-paul.json) |
+| Who Is Real? | 426865 | [426865-who-is-real.json](./426865-who-is-real.json) |
 | Who is the Criminal | 315328 | [315328-who-is-the-criminal.json](./315328-who-is-the-criminal.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
