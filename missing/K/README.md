@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic | 372061 | [372061-kinetic.json](./372061-kinetic.json) |
 | Kinetic Breakthrough | 310919 | [310919-kinetic-breakthrough.json](./310919-kinetic-breakthrough.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
+| Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
 | Kinetic Storm | 219882 | [219882-kinetic-storm.json](./219882-kinetic-storm.json) |
 | Kinetic TwinZ | 411916 | [411916-kinetic-twinz.json](./411916-kinetic-twinz.json) |
@@ -4134,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Amalur: Re-Reckoning - Collector's Edition | 136017 | [136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json](./136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
+| Kingdoms of Amalur: Re-Reckoning - Fatesworn | 138197 | [138197-kingdoms-of-amalur-re-reckoning-fatesworn.json](./138197-kingdoms-of-amalur-re-reckoning-fatesworn.json) |
 | Kingdoms of Amalur: Reckoning - Teeth of Naros | 14676 | [14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json](./14676-kingdoms-of-amalur-reckoning-teeth-of-naros.json) |
 | Kingdoms of Dice: The Elonia Chronicles | 360685 | [360685-kingdoms-of-dice-the-elonia-chronicles.json](./360685-kingdoms-of-dice-the-elonia-chronicles.json) |
 | Kingdoms of England | 55988 | [55988-kingdoms-of-england.json](./55988-kingdoms-of-england.json) |
@@ -5227,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Solitaire. Royal Cup | 89475 | [89475-knight-solitaire-royal-cup.json](./89475-knight-solitaire-royal-cup.json) |
 | Knight Speed | 264708 | [264708-knight-speed.json](./264708-knight-speed.json) |
 | Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
+| Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
 | Knight Swap 2 | 127417 | [127417-knight-swap-2.json](./127417-knight-swap-2.json) |
 | Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
