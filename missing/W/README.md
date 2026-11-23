@@ -1273,7 +1273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger | 288466 | [288466-war-trigger.json](./288466-war-trigger.json) |
 | War Trigger 2 | 128197 | [128197-war-trigger-2.json](./128197-war-trigger-2.json) |
-| War Trigger Classic | 107690 | [107690-war-trigger-classic.json](./107690-war-trigger-classic.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
 | War Untold | 399779 | [399779-war-untold.json](./399779-war-untold.json) |
 | War War | 168655 | [168655-war-war.json](./168655-war-war.json) |
@@ -3465,7 +3464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeaponLord | 38403 | [38403-weaponlord.json](./38403-weaponlord.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
 | Weaponry (Experimental) | 336701 | [336701-weaponry-experimental.json](./336701-weaponry-experimental.json) |
-| Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weapons Arena | 356727 | [356727-weapons-arena.json](./356727-weapons-arena.json) |
 | Weapons Factory | 273008 | [273008-weapons-factory.json](./273008-weapons-factory.json) |
 | Weapons Factory Arena | 273009 | [273009-weapons-factory-arena.json](./273009-weapons-factory-arena.json) |
@@ -4051,7 +4049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werther Quest | 30274 | [30274-werther-quest.json](./30274-werther-quest.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
-| WEscape | 108323 | [108323-wescape.json](./108323-wescape.json) |
 | Wesh Aljawab | 398599 | [398599-wesh-aljawab.json](./398599-wesh-aljawab.json) |
 | Wesley Moons | 386637 | [386637-wesley-moons.json](./386637-wesley-moons.json) |
 | Wesprau Senki | 167351 | [167351-wesprau-senki.json](./167351-wesprau-senki.json) |
@@ -4978,7 +4975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where There's a Mask | 423234 | [423234-where-theres-a-mask.json](./423234-where-theres-a-mask.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
-| Where Thoughts Go | 108660 | [108660-where-thoughts-go.json](./108660-where-thoughts-go.json) |
 | Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
@@ -9395,7 +9391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Grand Prix 2 | 40572 | [40572-world-grand-prix-2.json](./40572-world-grand-prix-2.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
-| World Hentai | 107772 | [107772-world-hentai.json](./107772-world-hentai.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
 | World Heroes | 4463 | [4463-world-heroes.json](./4463-world-heroes.json) |
