@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
 | Galaxy of Void: Bounty Hunter | 219339 | [219339-galaxy-of-void-bounty-hunter.json](./219339-galaxy-of-void-bounty-hunter.json) |
+| Galaxy on Fire | 79895 | [79895-galaxy-on-fire.json](./79895-galaxy-on-fire.json) |
 | Galaxy on Fire 2 | 389026 | [389026-galaxy-on-fire-2.json](./389026-galaxy-on-fire-2.json) |
 | Galaxy on Fire 2 | 8041 | [8041-galaxy-on-fire-2.json](./8041-galaxy-on-fire-2.json) |
 | Galaxy on Fire 2 Full HD | 25471 | [25471-galaxy-on-fire-2-full-hd.json](./25471-galaxy-on-fire-2-full-hd.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
 | Go Rollo Go | 295188 | [295188-go-rollo-go.json](./295188-go-rollo-go.json) |
 | Go Run a Dungeon | 192470 | [192470-go-run-a-dungeon.json](./192470-go-run-a-dungeon.json) |
+| GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
 | GO Series: Captain Sub | 84547 | [84547-go-series-captain-sub.json](./84547-go-series-captain-sub.json) |
 | GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
 | GO Series: Earth Saver | 84503 | [84503-go-series-earth-saver.json](./84503-go-series-earth-saver.json) |
@@ -7081,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
 | Godlike Burger | 143010 | [143010-godlike-burger.json](./143010-godlike-burger.json) |
 | Godling | 91017 | [91017-godling.json](./91017-godling.json) |
+| Godly Corp | 88122 | [88122-godly-corp.json](./88122-godly-corp.json) |
 | Godly Survivors | 272623 | [272623-godly-survivors.json](./272623-godly-survivors.json) |
 | GodMod | 215581 | [215581-godmod.json](./215581-godmod.json) |
 | Godmode Epochs | 252688 | [252688-godmode-epochs.json](./252688-godmode-epochs.json) |
@@ -8376,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps Ghouls Slime Slinger | 254232 | [254232-goosebumps-ghouls-slime-slinger.json](./254232-goosebumps-ghouls-slime-slinger.json) |
 | Goosebumps Horror Town | 109089 | [109089-goosebumps-horror-town.json](./109089-goosebumps-horror-town.json) |
 | Goosebumps HorrorTown | 100554 | [100554-goosebumps-horrortown.json](./100554-goosebumps-horrortown.json) |
+| Goosebumps Night of Scares | 79275 | [79275-goosebumps-night-of-scares.json](./79275-goosebumps-night-of-scares.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
 | Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
